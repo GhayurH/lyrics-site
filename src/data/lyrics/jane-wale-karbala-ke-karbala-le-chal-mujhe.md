@@ -1,10 +1,10 @@
 ---
 title: "جانے والے کربلا کے کربلا لے چل مجھے"
 alternateTitle: "Jane Wale Karbala Ke Karbala Le Chal Mujhe"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: زنداں میں سکینہ کو یاد آیا وہ سینہ
-alternateTitle: Zindaaṅ Mein Sakina Ko
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زنداں میں سکینہ کو یاد آیا وہ سینہ"
+alternateTitle: "Zindaaṅ Mein Sakina Ko"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Yusuf Sardar"
 reciter: "Nasir Asghar Party (SM)"
 tags: []

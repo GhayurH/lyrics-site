@@ -1,10 +1,10 @@
 ---
-title: ہاے سکینہ قید ہو کر شام کے زنداں میں جب آی
-alternateTitle: Haye Sakina
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہاے سکینہ قید ہو کر شام کے زنداں میں جب آی"
+alternateTitle: "Haye Sakina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []

@@ -1,14 +1,14 @@
 ---
-title: یا علی یا عباس
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یا علی یا عباس"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Ya Ali Ya Abbas Nadeem Sarwar
+alternateTitle: "Ya Ali Ya Abbas Nadeem Sarwar"
 romanLyrics: 'Ya Ali Ya Abbas Nadeem Sarwar Lyrics
 
 

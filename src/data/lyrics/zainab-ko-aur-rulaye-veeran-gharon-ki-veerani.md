@@ -1,11 +1,11 @@
 ---
-title: ويرانی، زينبؑ کو اور رلائے ويران گھروں کی ويرانی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ويرانی، زينبؑ کو اور رلائے ويران گھروں کی ويرانی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

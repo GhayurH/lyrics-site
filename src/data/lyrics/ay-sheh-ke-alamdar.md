@@ -1,10 +1,10 @@
 ---
-title: اے شِہ کے علمدار، اے شِہ کے علمدار علمدار
-alternateTitle: Ae Sheh Ke Alam Daar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے شِہ کے علمدار، اے شِہ کے علمدار علمدار"
+alternateTitle: "Ae Sheh Ke Alam Daar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: ["Ay Sheh Ke Alamdar"]
@@ -72,7 +72,7 @@ romanLyrics: |-
   Rehaan qalam roya jab likh chuka ye noha
   Majlis meiṅ hua maatam jab aaya tera parcham
   Rote the azaadaar, rote the azaadaar, ae Sheh ke alam daar alam daar
-reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
+reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 # source_id: nohayonline:4f70b9c20cf1333f8c40
 # source_url: https://www.nohayonline.com/details_content.php?id=85
 # raw_sha256: 9171415bcecf6e16b8fa247a6ce1a02916d7fa581bf3a8e70e71657c2d4b196c

@@ -1,10 +1,10 @@
 ---
-title: امام پردہء غیبت سے دے رہے ہیں صدا
-alternateTitle: Main Parda-e-Ghaibat
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "امام پردہء غیبت سے دے رہے ہیں صدا"
+alternateTitle: "Main Parda-e-Ghaibat"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hussain Gohar"
 reciter: "Mir Hasan Mir"
 tags: []

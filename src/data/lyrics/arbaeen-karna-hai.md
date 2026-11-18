@@ -1,10 +1,10 @@
 ---
-title: اربعین کرنا ہے شاہِ کربلائی کا
-alternateTitle: Arbaeen Karna Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اربعین کرنا ہے شاہِ کربلائی کا"
+alternateTitle: "Arbaeen Karna Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Hadi Ali Khan Muslim"
 poet: "Fareed Baig"
 tags: []

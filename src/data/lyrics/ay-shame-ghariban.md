@@ -1,10 +1,10 @@
 ---
-title: اے شامِ غریباں مجھے کچھ حال سُنا دے
-alternateTitle: Ae Shaam-e-Gharibaaṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے شامِ غریباں مجھے کچھ حال سُنا دے"
+alternateTitle: "Ae Shaam-e-Gharibaaṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh-e-Imamia"
 tags: []

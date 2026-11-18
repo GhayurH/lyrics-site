@@ -1,10 +1,10 @@
 ---
-title: زینبؑ ہے سفر میں ہائے خاک ہے سر میں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Rizvia Party
+title: "زینبؑ ہے سفر میں ہائے خاک ہے سر میں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Rizvia Party"
 tags: []
 aliases: []
 published: false

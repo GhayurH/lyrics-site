@@ -1,10 +1,10 @@
 ---
-title: بھیا سجاد
-alternateTitle: Mujhe Baba Ka Sar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بھیا سجاد"
+alternateTitle: "Mujhe Baba Ka Sar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shadman Raza"
 tags: []

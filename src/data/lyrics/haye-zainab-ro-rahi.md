@@ -1,10 +1,10 @@
 ---
-title: ہائے زینب رو رہی ہے کربلا خاموش ہے
-alternateTitle: Haye Zainab Ro Rahi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے زینب رو رہی ہے کربلا خاموش ہے"
+alternateTitle: "Haye Zainab Ro Rahi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []

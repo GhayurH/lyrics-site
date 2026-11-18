@@ -1,14 +1,14 @@
 ---
-title: جاری ہے صدیوں سے سفر کربوبلا کا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جاری ہے صدیوں سے سفر کربوبلا کا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & A. Shanawar"
 tags: []
 aliases: []
 published: false
-alternateTitle: Sab Yaad Hai Maula Ali Shanawar
+alternateTitle: "Sab Yaad Hai Maula Ali Shanawar"
 romanLyrics: 'Sab Yaad Hai Maula Ali Shanawar Lyrics
 
   Jari Hai Sadiyon Se Safar Karb-o-Bala Ka.

@@ -1,11 +1,11 @@
 ---
-title: بھیا میں آ گئی ہوں نانا کا دیں بچا کے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بھیا میں آ گئی ہوں نانا کا دیں بچا کے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

@@ -1,10 +1,10 @@
 ---
-title: دے کے سر شبیر نے اسلام زندہ کر دیا
-alternateTitle: De Ke Sar Shabbir
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "دے کے سر شبیر نے اسلام زندہ کر دیا"
+alternateTitle: "De Ke Sar Shabbir"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Jawad Jaffri"
 reciter: "Hasan Sadiq"
 tags: []

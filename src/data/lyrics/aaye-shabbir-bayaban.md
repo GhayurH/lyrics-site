@@ -1,10 +1,10 @@
 ---
-title: آئے شبیر بیاباں کو بسانے کے لئے
-alternateTitle: Aaye Shabbir Bayabaṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آئے شبیر بیاباں کو بسانے کے لئے"
+alternateTitle: "Aaye Shabbir Bayabaṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gulzaar Jafri"
 reciter: "Hasan Sadiq"
 tags: []

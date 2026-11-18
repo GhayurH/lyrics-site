@@ -1,15 +1,15 @@
 ---
-title: کربلا والوں پہ جو گذری وہ قیامت اور ہے
-alternateTitle: Karbala Walon Pa
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کربلا والوں پہ جو گذری وہ قیامت اور ہے"
+alternateTitle: "Karbala Walon Pa"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shahid Jafer"
 tags: []
 aliases: []
 published: true
-reciter: Ali Zia Rizvi
+reciter: "Ali Zia Rizvi"
 romanLyrics: |-
   Karbala waloṅ pe jo guzri wo qayaamat aur hai
   Har payambar par jo aai wo musibat aur hai

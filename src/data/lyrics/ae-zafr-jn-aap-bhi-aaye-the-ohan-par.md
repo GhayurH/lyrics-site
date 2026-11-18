@@ -1,9 +1,9 @@
 ---
-title: اے زعفرِ جن آپ بھی آئے تھے وہاں پر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے زعفرِ جن آپ بھی آئے تھے وہاں پر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shahid Jafer"
 tags: []
 aliases: []

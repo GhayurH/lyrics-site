@@ -1,9 +1,9 @@
 ---
-title: پردیس میں گھر لٹ گیا بانو کی تھی فریاد اے سیّد سجادؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پردیس میں گھر لٹ گیا بانو کی تھی فریاد اے سیّد سجادؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Jaffery"
 tags: []
 aliases: []

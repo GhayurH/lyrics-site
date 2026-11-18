@@ -1,10 +1,10 @@
 ---
-title: پہلو بھی شکستہ ہے تُربت بھی شکستہ ہے
-alternateTitle: Pehlu Bhi Shikasta Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پہلو بھی شکستہ ہے تُربت بھی شکستہ ہے"
+alternateTitle: "Pehlu Bhi Shikasta Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: زنداں میں سکینہ یہ بکا کرتی تھی رو کر
-alternateTitle: Zindaaṅ Mein Sakina Ye
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زنداں میں سکینہ یہ بکا کرتی تھی رو کر"
+alternateTitle: "Zindaaṅ Mein Sakina Ye"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Mir Hasan Mir"
 tags: []

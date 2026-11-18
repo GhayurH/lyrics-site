@@ -1,9 +1,9 @@
 ---
-title: ذوالجناح اے ذوالجناح میرا بچہ ہے کہاں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ذوالجناح اے ذوالجناح میرا بچہ ہے کہاں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []

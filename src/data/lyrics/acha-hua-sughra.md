@@ -1,10 +1,10 @@
 ---
-title: جب اہلِ حرم آئے مدینے میں پلٹ کر
-alternateTitle: Acha Hua Sughra
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جب اہلِ حرم آئے مدینے میں پلٹ کر"
+alternateTitle: "Acha Hua Sughra"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
@@ -121,7 +121,7 @@ romanLyrics: 'Jab ahle haram aaye madine mein palat kar
   Zindan ke andhere mein banayi gayi turbat
 
   Dam tod''ti bachi ne bhi ye baat kahi thi'
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:b1a4d1da7a43bde9611b
 # source_url: https://www.nohayonline.com/details_content.php?id=17
 # raw_sha256: 3e177a5052f8ef89c78439b7d91844b712f9659e154c1fc67980c246efa9c846

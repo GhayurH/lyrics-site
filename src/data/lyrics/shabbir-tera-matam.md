@@ -1,10 +1,10 @@
 ---
-title: ماتم کرو شبیر کا ہائے زینب دلگیر کا
-alternateTitle: Shabbir Tera Maatam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ماتم کرو شبیر کا ہائے زینب دلگیر کا"
+alternateTitle: "Shabbir Tera Maatam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Jawad Jaffri"
 reciter: "Hasan Sadiq"
 tags: []

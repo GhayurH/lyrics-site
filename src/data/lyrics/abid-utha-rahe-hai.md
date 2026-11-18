@@ -1,10 +1,10 @@
 ---
-title: عابد اٹھا رہے ہیں اپنی بہن کا لاشہ
-alternateTitle: Abid Utha Rahe Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عابد اٹھا رہے ہیں اپنی بہن کا لاشہ"
+alternateTitle: "Abid Utha Rahe Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 tags: []
 aliases: []

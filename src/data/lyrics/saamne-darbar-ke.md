@@ -1,10 +1,10 @@
 ---
-title: ہائے بیمار ہائے دربار
-alternateTitle: Saamne Darbar Ke
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے بیمار ہائے دربار"
+alternateTitle: "Saamne Darbar Ke"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Yawar Abbas"
 reciter: "Shahid Baltistani"
 tags: []

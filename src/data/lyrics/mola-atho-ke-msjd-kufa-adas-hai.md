@@ -1,9 +1,9 @@
 ---
-title: مولاؑ اٹھو كے مسجد کوفہ اداس ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مولاؑ اٹھو كے مسجد کوفہ اداس ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Qamar Bilgrami"
 tags: []
 aliases: []

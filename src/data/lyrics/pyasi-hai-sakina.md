@@ -1,15 +1,15 @@
 ---
-title: اے بادِ صبا جا کے یہ عمو کو بتانا
-alternateTitle: Pyasi Hai Sakina
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے بادِ صبا جا کے یہ عمو کو بتانا"
+alternateTitle: "Pyasi Hai Sakina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anwar Allahbadi"
 tags: []
 aliases: []
 published: true
-reciter: Farhan Ali Waris
+reciter: "Farhan Ali Waris"
 romanLyrics: |-
   Ae baad-e-saba ja ke ye ammu ko bataana
   Pyasi hai Sakina

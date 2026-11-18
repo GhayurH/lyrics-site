@@ -1,11 +1,11 @@
 ---
-title: صغراؑ کو رلاتا ہے یہ چاند محرّم کا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "صغراؑ کو رلاتا ہے یہ چاند محرّم کا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar"
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false

@@ -1,11 +1,11 @@
 ---
-title: مختار آل محمد
-alternateTitle: Mukhtar-e-Aal-e-Muhammad
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Manqabat
-poet: Mohsin Naqvi
+title: "مختار آل محمد"
+alternateTitle: "Mukhtar-e-Aal-e-Muhammad"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Manqabat"
+poet: "Mohsin Naqvi"
 tags: []
 aliases: ["Mukhtar E Aal E Muhammad Mohsin Naqvi", "mukhtar-e-aal-e-muhammad-mohsin-naqvi"]
 published: true

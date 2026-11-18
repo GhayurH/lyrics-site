@@ -1,10 +1,10 @@
 ---
-title: کربلا کے بن میں کوئی قافلہ لُوٹا گیا
-alternateTitle: Karbala Ke Ban Mein
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کربلا کے بن میں کوئی قافلہ لُوٹا گیا"
+alternateTitle: "Karbala Ke Ban Mein"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Anj. Sabile Masumeen; Ashraf Abbas"
 tags: []
 aliases: []

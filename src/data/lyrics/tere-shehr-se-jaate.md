@@ -1,10 +1,10 @@
 ---
-title: تیرے شہر سے جاتے ہیں
-alternateTitle: Tere Shehr Se Jaate
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تیرے شہر سے جاتے ہیں"
+alternateTitle: "Tere Shehr Se Jaate"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

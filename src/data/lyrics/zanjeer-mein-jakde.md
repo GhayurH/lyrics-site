@@ -1,10 +1,10 @@
 ---
-title: زنجیر میں جکڑے ہوئے بیمار کا ماتم
-alternateTitle: Zanjir Mein Jakre
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زنجیر میں جکڑے ہوئے بیمار کا ماتم"
+alternateTitle: "Zanjir Mein Jakre"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rasheed Shaheedi"
 reciter: "Hadi Ali Khan Muslim; Mir Rehan Abbas"
 tags: []

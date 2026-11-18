@@ -1,10 +1,10 @@
 ---
-title: اے مومنوں جب خون میں ڈوبا ہوا آیا
-alternateTitle: Asghar Ka Janaza
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے مومنوں جب خون میں ڈوبا ہوا آیا"
+alternateTitle: "Asghar Ka Janaza"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Nadeem Sarwar"
 poet: "Rehan Azmi"
 tags: []

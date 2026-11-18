@@ -1,9 +1,9 @@
 ---
-title: عاشور کا منظر ہے اور زینبؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عاشور کا منظر ہے اور زینبؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 tags: []
 aliases: []

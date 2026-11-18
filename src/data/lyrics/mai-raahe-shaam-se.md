@@ -1,10 +1,10 @@
 ---
-title: میں راہِ شام سے گزری ہوں بے ردا بابا
-alternateTitle: Main Raah-e-Shaam Se
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میں راہِ شام سے گزری ہوں بے ردا بابا"
+alternateTitle: "Main Raah-e-Shaam Se"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar"
 reciter: "Jarrar"
 tags: []

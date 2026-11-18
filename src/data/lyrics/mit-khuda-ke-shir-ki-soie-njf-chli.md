@@ -1,9 +1,9 @@
 ---
-title: میت خدا کے شیر کی سوئے نجف چلی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میت خدا کے شیر کی سوئے نجف چلی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

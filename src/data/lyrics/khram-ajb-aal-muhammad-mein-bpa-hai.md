@@ -1,9 +1,9 @@
 ---
-title: کہرام عجب آلِ محمدؑ میں بپا ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہرام عجب آلِ محمدؑ میں بپا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees Pehersari"
 tags: []
 aliases: []

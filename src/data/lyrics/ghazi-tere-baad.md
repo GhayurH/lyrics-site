@@ -1,10 +1,10 @@
 ---
-title: پردیس میں حسین کی بستی اجڑ گئی
-alternateTitle: Ghazi Tere Baad
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پردیس میں حسین کی بستی اجڑ گئی"
+alternateTitle: "Ghazi Tere Baad"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 reciter: "Ali Shanawar"
 tags: []

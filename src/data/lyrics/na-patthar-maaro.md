@@ -1,10 +1,10 @@
 ---
-title: نہ مارو نہ مارو نہ مارو
-alternateTitle: Na Patthar Maaro
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "نہ مارو نہ مارو نہ مارو"
+alternateTitle: "Na Patthar Maaro"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []

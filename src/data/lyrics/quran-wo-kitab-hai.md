@@ -1,10 +1,10 @@
 ---
-title: قرآن وہ کتاب ہے جو درسِ انقلاب ہے
-alternateTitle: Quran Wo Kitab Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "قرآن وہ کتاب ہے جو درسِ انقلاب ہے"
+alternateTitle: "Quran Wo Kitab Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar / Ali Safdar Rizvi"
 tags: []

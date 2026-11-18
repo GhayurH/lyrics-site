@@ -1,10 +1,10 @@
 ---
-title: Hai Deen Ki Baqa Hussain Badshah
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Manqabat
-poet: Muhib
+title: "Hai Deen Ki Baqa Hussain Badshah"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false

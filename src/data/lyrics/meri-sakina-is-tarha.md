@@ -1,10 +1,10 @@
 ---
-title: آخری سلام
-alternateTitle: Meri Sakina Is Tarha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آخری سلام"
+alternateTitle: "Meri Sakina Is Tarha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -61,7 +61,7 @@ romanLyrics: |-
   Masruf-e-buka taa hadd-e-nazar
   Hai saara ilaqa Bibi ka
   Chaahe Shaam ka wo zindaaṅ howe
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:1afe0a30c76d97af2af5
 # source_url: https://www.nohayonline.com/details_content.php?id=1742
 # raw_sha256: 2a03c05f381c311952ef50aa7a29844fb1fca224b8a6fff54b38ef9678af0c4d

@@ -1,10 +1,10 @@
 ---
-title: ہژبرِ دشتِ نینوا امیرِ لشکرِ حسین
-alternateTitle: Amir-e-Lashkar-e-Husain
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہژبرِ دشتِ نینوا امیرِ لشکرِ حسین"
+alternateTitle: "Amir-e-Lashkar-e-Husain"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasan Imdad"
 reciter: "Sachey Bhai"
 tags: []

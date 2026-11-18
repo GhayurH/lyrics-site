@@ -1,10 +1,10 @@
 ---
-title: روکر سکینہ شام کے زنداں میں مر گئی
-alternateTitle: Rokar Sakina Shaam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "روکر سکینہ شام کے زنداں میں مر گئی"
+alternateTitle: "Rokar Sakina Shaam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Muhammad Zaki"
 reciter: "Anj. Hyderi Ali Basti"
 tags: []

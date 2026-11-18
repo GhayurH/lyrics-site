@@ -1,11 +1,11 @@
 ---
-title: وقت سجادؑ نے کیسے وہ گزارا ہو گا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "وقت سجادؑ نے کیسے وہ گزارا ہو گا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shaukath"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

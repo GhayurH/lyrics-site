@@ -1,11 +1,11 @@
 ---
-title: ہائے شام کا بازار سجادؑ سے رونے کا سبب پوچھ رہا ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے شام کا بازار سجادؑ سے رونے کا سبب پوچھ رہا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

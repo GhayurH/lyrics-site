@@ -1,11 +1,11 @@
 ---
-title: ہائے کڑیل جوان اکبرؑ
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-reciter: Meer Hasan Meer
-tags: []
+title: "ہائے کڑیل جوان اکبرؑ"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+reciter: "Meer Hasan Meer"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:30129e884aae81a4df76

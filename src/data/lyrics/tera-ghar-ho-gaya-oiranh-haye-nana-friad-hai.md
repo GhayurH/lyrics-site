@@ -1,9 +1,9 @@
 ---
-title: تیرا گھر ہو گیا ویرانہ ہائے نانا فریاد ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تیرا گھر ہو گیا ویرانہ ہائے نانا فریاد ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 tags: []
 aliases: []

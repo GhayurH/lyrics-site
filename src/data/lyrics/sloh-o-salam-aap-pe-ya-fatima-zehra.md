@@ -1,9 +1,9 @@
 ---
-title: صلوٰۃ و سلام آپ پہ یا فاطمہ زہراؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "صلوٰۃ و سلام آپ پہ یا فاطمہ زہراؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []

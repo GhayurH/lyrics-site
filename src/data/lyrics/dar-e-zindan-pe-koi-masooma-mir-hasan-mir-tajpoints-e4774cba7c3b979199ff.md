@@ -1,9 +1,9 @@
 ---
-title: در زنداں پر کوئی معصوم
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "در زنداں پر کوئی معصوم"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Nadeem Sultanpuri"
 tags: []
 aliases: []

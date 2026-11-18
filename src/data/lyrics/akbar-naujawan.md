@@ -1,10 +1,10 @@
 ---
-title: اکبر نوجواں تجھکو ڈھونڈوں کہاں
-alternateTitle: Akbar Naujawan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اکبر نوجواں تجھکو ڈھونڈوں کہاں"
+alternateTitle: "Akbar Naujawan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Javaid Mirza"
 tags: []
 aliases: []

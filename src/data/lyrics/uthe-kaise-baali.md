@@ -1,10 +1,10 @@
 ---
-title: اٹھے کیسے اٹھے کیسے بالی سکینہ کا لاشہ
-alternateTitle: Uthe Kaise Baali
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اٹھے کیسے اٹھے کیسے بالی سکینہ کا لاشہ"
+alternateTitle: "Uthe Kaise Baali"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shams Jalalpuri"
 reciter: "Anj. Zulfiqaria Jafrabad"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: صدمے اٹھا رہی ہوں میں بابا تمہارے بعد
-alternateTitle: Baba Tumhare Baad
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "صدمے اٹھا رہی ہوں میں بابا تمہارے بعد"
+alternateTitle: "Baba Tumhare Baad"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Mir Hasan Mir"
 tags: []

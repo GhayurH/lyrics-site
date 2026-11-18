@@ -1,9 +1,9 @@
 ---
-title: مومنوں حیدرِؑ کرار کا ماتم کر لو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مومنوں حیدرِؑ کرار کا ماتم کر لو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
@@ -73,7 +73,7 @@ romanLyrics: 'Momino Haider e karrar ka matam karlo
   Martay dam jis ko tha Zainab ki aseeri ka khayal
 
   Aisay mazloom hayadar ka matam kar lo'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: ziyaraat:bff348936aca10e9140a
 # source_url: https://www.ziyaraat.net/api/noha/2792
 # raw_sha256: 268dfc25c3b4cd2a7ec41ac70a57865cdde8ef2520da336beb64d0a6a56678a5

@@ -1,9 +1,9 @@
 ---
-title: یہ قید میں علی اکبرؑ کی ماں کا نالہ ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ قید میں علی اکبرؑ کی ماں کا نالہ ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
@@ -58,7 +58,7 @@ romanLyrics: 'Yeh qaid mein Ali Akbar ki maa ka naala hai
   Tumharey baad jahan se gaye Ali Asghar
 
   Malaal doona hai, dil ko qalaq dobaala hai'
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 # source_id: nohayonline:aa2ce0a77d944236f414
 # source_url: https://www.nohayonline.com/details_content.php?id=509
 # raw_sha256: 3c0ee3625bc8bc9e3884d7bd2c433be300b586f6b9e87606d1265f5fb45bbf01

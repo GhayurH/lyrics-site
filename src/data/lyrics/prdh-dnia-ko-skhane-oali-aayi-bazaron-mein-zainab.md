@@ -1,11 +1,11 @@
 ---
-title: پردہ دنیا کو سکھانے والی آئی بازاروں میں زینبؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پردہ دنیا کو سکھانے والی آئی بازاروں میں زینبؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Jauhar Shah"
-reciter: Syed Raza Abbas Shah
+reciter: "Syed Raza Abbas Shah"
 tags: []
 aliases: []
 published: false

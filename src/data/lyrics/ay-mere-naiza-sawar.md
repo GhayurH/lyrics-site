@@ -1,10 +1,10 @@
 ---
-title: ایک بچی پھول سی جس کا سکینہ نام تھا
-alternateTitle: Ae Mere Naiza Sawaar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ایک بچی پھول سی جس کا سکینہ نام تھا"
+alternateTitle: "Ae Mere Naiza Sawaar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
 tags: []

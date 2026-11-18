@@ -1,10 +1,10 @@
 ---
-title: ﺟﺎؤ ﻣﯿﺮﮮ لعل ، ﺟﺎؤ ﻣﯿﺮﮮ لعل
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Anjuman Karwan-e-Aza (Irfan Haider)
+title: "ﺟﺎؤ ﻣﯿﺮﮮ لعل ، ﺟﺎؤ ﻣﯿﺮﮮ لعل"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: []
 aliases: []
 published: false

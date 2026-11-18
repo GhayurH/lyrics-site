@@ -1,10 +1,10 @@
 ---
-title: کربلا ایک آفتاب اور اسکی تنویریں بہت
-alternateTitle: Karbala Ek Aaftab
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کربلا ایک آفتاب اور اسکی تنویریں بہت"
+alternateTitle: "Karbala Ek Aaftab"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Izzat Lakhnavi"
 reciter: "Izzat Lakhnavi"
 tags: []

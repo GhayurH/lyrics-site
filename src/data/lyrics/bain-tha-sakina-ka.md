@@ -1,10 +1,10 @@
 ---
-title: بین تھا سکینہ کا شام ہونے والی ہے
-alternateTitle: Bain Tha Sakina Ka
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بین تھا سکینہ کا شام ہونے والی ہے"
+alternateTitle: "Bain Tha Sakina Ka"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Saeed Shaheedi"
 tags: []
 aliases: []

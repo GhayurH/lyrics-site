@@ -1,9 +1,9 @@
 ---
-title: جھولا ویراں ہے اور گود بھی خالی اصغرؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جھولا ویراں ہے اور گود بھی خالی اصغرؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []

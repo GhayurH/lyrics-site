@@ -1,11 +1,11 @@
 ---
-title: نہ ملے گا تجھے شبیرؑ سا بھائی زینبؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "نہ ملے گا تجھے شبیرؑ سا بھائی زینبؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

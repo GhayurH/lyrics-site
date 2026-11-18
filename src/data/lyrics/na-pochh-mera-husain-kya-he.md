@@ -1,10 +1,10 @@
 ---
-title: نہ پوچھ میرا حسینؑ کیا ہے؟
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-tags: []
+title: "نہ پوچھ میرا حسینؑ کیا ہے؟"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:64a1888e6b2fdf6fa0df

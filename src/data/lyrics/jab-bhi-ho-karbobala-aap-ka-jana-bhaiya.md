@@ -1,11 +1,11 @@
 ---
-title: جب بھی ہو کرب و بلا آپکا جانا بھیا
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-reciter: Meer Hasan Meer
-tags: []
+title: "جب بھی ہو کرب و بلا آپکا جانا بھیا"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+reciter: "Meer Hasan Meer"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0a6aa6e51ef31e3c63b9

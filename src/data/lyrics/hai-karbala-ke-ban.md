@@ -1,10 +1,10 @@
 ---
-title: ہے کربلا کے بن میں غریبوں کا اربعیں
-alternateTitle: Hai Karbala Ke Ban
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہے کربلا کے بن میں غریبوں کا اربعیں"
+alternateTitle: "Hai Karbala Ke Ban"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Akhtar Zaidi"
 reciter: "Hadi Ali Khan Muslim"
 tags: []

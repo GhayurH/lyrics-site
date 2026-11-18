@@ -1,14 +1,14 @@
 ---
-title: انا لللہ وانا الیہ راجعون
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "انا لللہ وانا الیہ راجعون"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "N. Sarwar & H. Naqvi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Hona Tou Yahi Tha Nadeem Sarwar
+alternateTitle: "Hona Tou Yahi Tha Nadeem Sarwar"
 romanLyrics: 'Inna lillahe wa inna ilahe rajeoon
 
   Hona to yehi tha waada to yehi tha

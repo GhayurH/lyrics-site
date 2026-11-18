@@ -1,10 +1,10 @@
 ---
-title: بیمار کی آنکھیں ہیں اکبر تیرے راہوں پر
-alternateTitle: Bemaar Ki Aankhein
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بیمار کی آنکھیں ہیں اکبر تیرے راہوں پر"
+alternateTitle: "Bemaar Ki Aankhein"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []

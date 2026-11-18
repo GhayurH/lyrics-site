@@ -1,10 +1,10 @@
 ---
-title: گرتا ہے پدر رن میں سنبھالو علی اکبر
-alternateTitle: Aao Ali Akbar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "گرتا ہے پدر رن میں سنبھالو علی اکبر"
+alternateTitle: "Aao Ali Akbar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hyder"
 reciter: "Anj. Masoomeen"
 tags: []

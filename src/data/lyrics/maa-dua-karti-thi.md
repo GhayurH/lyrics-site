@@ -1,10 +1,10 @@
 ---
-title: ماں دُعا کرتی تھی اکبر تیرا سہرا دیکھوں
-alternateTitle: Maa Dua Karti Thi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ماں دُعا کرتی تھی اکبر تیرا سہرا دیکھوں"
+alternateTitle: "Maa Dua Karti Thi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []

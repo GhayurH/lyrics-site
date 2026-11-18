@@ -1,10 +1,10 @@
 ---
-title: یا حسین یا حسین یا حسین یا مظلوم
-alternateTitle: Ae Tin Din Ke Pyaase
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یا حسین یا حسین یا حسین یا مظلوم"
+alternateTitle: "Ae Tin Din Ke Pyaase"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 reciter: "Anj. Muhibbane Hussain"
 tags: []

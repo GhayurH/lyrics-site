@@ -1,10 +1,10 @@
 ---
-title: مکے میں کعبہ میری جبیں کا
-alternateTitle: Dil Ka Kaaba
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مکے میں کعبہ میری جبیں کا"
+alternateTitle: "Dil Ka Kaaba"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ammar Rizvi"
 reciter: "Musayyab Rizvi"
 tags: []

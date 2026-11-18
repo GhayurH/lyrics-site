@@ -1,10 +1,10 @@
 ---
-title: شام کی عورتوں ایک وعدہ کرو
-alternateTitle: Shaam Ki Aurton Ek
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شام کی عورتوں ایک وعدہ کرو"
+alternateTitle: "Shaam Ki Aurton Ek"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 tags: []
 aliases: []
@@ -111,7 +111,7 @@ romanLyrics: 'Shaam ki aurton ek waada karo
   Mujhse ek baar bas itna kehdo
 
   Apna waada nibha''ogi tum'
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:505ca62ac108c10fcdef
 # source_url: https://www.nohayonline.com/details_content.php?id=213
 # raw_sha256: d37558fdda5479db1e90276aa71aa8fd8ba8f4782c4cbd966b4d1cd78a0929fa

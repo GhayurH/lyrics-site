@@ -1,9 +1,9 @@
 ---
-title: میرے غازیؑ کہاں ہو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میرے غازیؑ کہاں ہو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Yawar Abbas"
 tags: []
 aliases: []

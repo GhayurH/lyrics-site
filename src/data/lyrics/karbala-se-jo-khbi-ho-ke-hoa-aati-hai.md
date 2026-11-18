@@ -1,9 +1,9 @@
 ---
-title: کربلا سے جو کھبی ہو کے ہوا آتی ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "کربلا سے جو کھبی ہو کے ہوا آتی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 poet: "Shaheed"
 tags: []
 aliases: []

@@ -1,10 +1,10 @@
 ---
-title: کلمہ گو ہنستے رہے فاطمہ روتی رہی
-alternateTitle: Fatema Roti Rahi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کلمہ گو ہنستے رہے فاطمہ روتی رہی"
+alternateTitle: "Fatema Roti Rahi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
@@ -110,8 +110,8 @@ romanLyrics: 'KALMA GO HANSTAY RAHE FATIMA ROTI RAHI.
   MUJH KO LAGTA HAI YEHI AB BHI HAI BINT-E-NABI.
 
   DHOP MEIN BETHI HOI.'
-poet: Takallum
-reciter: Meer Hasan Meer
+poet: "Takallum"
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:689d3396b32b96b650f3
 # source_url: https://www.nohayonline.com/details_content.php?id=1018
 # raw_sha256: 204ba2f40d5fa2f5eefef98855b3b59ebefc865d3fc87ba265eef5f00d0eb6fe

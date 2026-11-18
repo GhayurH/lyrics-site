@@ -1,14 +1,14 @@
 ---
-title: ذوالجناح اے ذولجناح
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Darwaish
+title: "ذوالجناح اے ذولجناح"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Darwaish"
 tags: []
 aliases: []
 published: false
-alternateTitle: Zuljanah Shahid Baltistani
+alternateTitle: "Zuljanah Shahid Baltistani"
 romanLyrics: 'Zuljanah Shahid Baltistani
 
   Mere Baba Ke Zuljanah.

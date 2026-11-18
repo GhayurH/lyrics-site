@@ -4,7 +4,7 @@ alternateTitle: "Farsh-e-Aza Pe Aao"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: Salam
+kalamType: "Salam"
 poet: "Ali Naqvi Najaf"
 reciter: "Musa Naqvi"
 tags: []

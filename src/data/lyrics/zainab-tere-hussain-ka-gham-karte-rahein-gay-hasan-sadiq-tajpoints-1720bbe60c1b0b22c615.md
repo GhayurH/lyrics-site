@@ -1,14 +1,14 @@
 ---
-title: ماتم ہے یہ میری بقا کرتے رہیں گے ہم صدا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ماتم ہے یہ میری بقا کرتے رہیں گے ہم صدا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Jawad Jaffri"
 tags: []
 aliases: []
 published: false
-alternateTitle: Zainab Tere Hussain Ka Gham Karte Rahein Gay Hasan Sadiq
+alternateTitle: "Zainab Tere Hussain Ka Gham Karte Rahein Gay Hasan Sadiq"
 romanLyrics: 'Zainab Tere Hussain Ka Gham Karte Rahein Gay Hasan Sadiq.
 
   Hum Seena Zani Sham-o-Sahar Kartay Rahein Gay.

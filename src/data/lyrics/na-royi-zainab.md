@@ -1,10 +1,10 @@
 ---
-title: زینب سا زمانے میں عزادار کہاں ہے
-alternateTitle: Na Royi Zainab
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زینب سا زمانے میں عزادار کہاں ہے"
+alternateTitle: "Na Royi Zainab"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []

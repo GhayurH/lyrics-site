@@ -1,10 +1,10 @@
 ---
-title: عقیلۃ العرب
-alternateTitle: Zainab Binte Ali
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عقیلۃ العرب"
+alternateTitle: "Zainab Binte Ali"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Shahid Baltistani"
 tags: []

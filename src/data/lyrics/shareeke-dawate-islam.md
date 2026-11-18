@@ -8,7 +8,7 @@ kalamType: "Noha"
 reciter: "Sachey Bhai"
 tags: []
 aliases: []
-recitationId: shareek-e-dawat-e-islam-hain-abu-talib
+recitationId: "shareek-e-dawat-e-islam-hain-abu-talib"
 published: true
 romanLyrics: |-
   Sharik-e-daawat-e-Islam hai Abu Talib

@@ -1,11 +1,11 @@
 ---
-title: شامِ غریباں میں حرم کرتے تھے فریاد
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
-tags: []
+title: "شامِ غریباں میں حرم کرتے تھے فریاد"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:3fc75a8d6ae625bcdeea

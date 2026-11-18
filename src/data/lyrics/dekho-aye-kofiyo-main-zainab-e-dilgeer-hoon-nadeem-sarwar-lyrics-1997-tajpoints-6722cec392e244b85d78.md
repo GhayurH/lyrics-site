@@ -1,14 +1,14 @@
 ---
-title: دیکھو اے کوفیوں میں زینب دلگیر ہوں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Rehan
+title: "دیکھو اے کوفیوں میں زینب دلگیر ہوں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Rehan"
 tags: []
 aliases: []
 published: false
-alternateTitle: Dekho Aye Kofiyo Main Zainab-e-Dilgeer Hoon Nadeem Sarwar Lyrics 1997
+alternateTitle: "Dekho Aye Kofiyo Main Zainab-e-Dilgeer Hoon Nadeem Sarwar Lyrics 1997"
 romanLyrics: 'Dekho Aye Kofiyo Main Zainab-e-Dilgeer Hoon Nadeem Sarwar.
 
   Sar Nangay Mujhe Kyun Hai Phiraya Main Waris-e-Tatheer Hoon.

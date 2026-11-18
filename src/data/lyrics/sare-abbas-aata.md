@@ -1,12 +1,12 @@
 ---
-title: کہا زینب نے یہ رو کر سنبھالو بیبیوں چادر
-alternateTitle: Sare Abbas Aata
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہا زینب نے یہ رو کر سنبھالو بیبیوں چادر"
+alternateTitle: "Sare Abbas Aata"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: true

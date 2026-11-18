@@ -1,10 +1,10 @@
 ---
-title: قیدی ہوں میں بابا جاں
-alternateTitle: Qaidi Huṅ Main Baba Jaaṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "قیدی ہوں میں بابا جاں"
+alternateTitle: "Qaidi Huṅ Main Baba Jaaṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Ali Shanawar, Ali Jee"
 tags: []

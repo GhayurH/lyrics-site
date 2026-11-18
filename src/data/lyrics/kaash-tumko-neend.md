@@ -1,10 +1,10 @@
 ---
-title: بابا کی پیاری سکینہ
-alternateTitle: Kaash Tumko Neend
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بابا کی پیاری سکینہ"
+alternateTitle: "Kaash Tumko Neend"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Shahid Baltistani"
 tags: []

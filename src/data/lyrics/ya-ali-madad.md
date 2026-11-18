@@ -1,10 +1,10 @@
 ---
-title: یاعلی یا مدد یاعلی یا مدد
-alternateTitle: Ya Ali Madad
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یاعلی یا مدد یاعلی یا مدد"
+alternateTitle: "Ya Ali Madad"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Ali Shanawar"
 tags: []

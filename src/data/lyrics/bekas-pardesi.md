@@ -1,10 +1,10 @@
 ---
-title: شام جاتے ہوئے رو کے سجاد نے کہا
-alternateTitle: Bekas Pardesi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شام جاتے ہوئے رو کے سجاد نے کہا"
+alternateTitle: "Bekas Pardesi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Yawar Abbas"
 reciter: "Shahid Baltistani"
 tags: []

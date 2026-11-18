@@ -1,10 +1,10 @@
 ---
-title: آرام کہاں ہائے ہائے آرام کہاں
-alternateTitle: Aaram Kahaṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آرام کہاں ہائے ہائے آرام کہاں"
+alternateTitle: "Aaram Kahaṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nasir Zaidi"
 tags: []

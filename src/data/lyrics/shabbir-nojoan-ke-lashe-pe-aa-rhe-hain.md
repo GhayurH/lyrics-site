@@ -1,9 +1,9 @@
 ---
-title: شبیرؑ نوجواں کے لاشے پہ آ رہے ہیں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شبیرؑ نوجواں کے لاشے پہ آ رہے ہیں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ashraf"
 tags: []
 aliases: []

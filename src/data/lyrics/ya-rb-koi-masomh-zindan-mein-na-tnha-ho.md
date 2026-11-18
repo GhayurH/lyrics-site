@@ -1,11 +1,11 @@
 ---
-title: یا رب کوئی معصومہ زنداں میں نہ تنہا ہو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یا رب کوئی معصومہ زنداں میں نہ تنہا ہو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Afzal Hussain Najfi"
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false

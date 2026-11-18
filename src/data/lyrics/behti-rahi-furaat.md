@@ -1,10 +1,10 @@
 ---
-title: اے شامِ غریباں
-alternateTitle: Behti Rahi Furaat
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے شامِ غریباں"
+alternateTitle: "Behti Rahi Furaat"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -58,7 +58,7 @@ romanLyrics: |-
   Aayi hai shaam-e-gharibaaṅ khuṅ rulaane aaj bhi
   Gham hameṅ Rehaan o Sarwar kiuṅ na ho
   Mahw-e-maatam jab Payambar ho gaye
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:f55257dbde4a8fe31ed9
 # source_url: https://www.nohayonline.com/details_content.php?id=360
 # raw_sha256: fac5879c0f2876c093fd77888a253c7ad553bb04ad51c3b3632c1d58f7982ec6

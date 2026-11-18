@@ -1,10 +1,10 @@
 ---
-title: ہائے حسینا وائے حسینا
-alternateTitle: Baraaye Dil-e-Dukhtar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے حسینا وائے حسینا"
+alternateTitle: "Baraaye Dil-e-Dukhtar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Ali Jee"
 tags: []

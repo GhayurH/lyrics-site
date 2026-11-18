@@ -1,10 +1,10 @@
 ---
-title: لے گا نہ جانے کتنی یہ کروٹیں زمانہ
-alternateTitle: Ae Mominoṅ Payaam-e-Sarwar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لے گا نہ جانے کتنی یہ کروٹیں زمانہ"
+alternateTitle: "Ae Mominoṅ Payaam-e-Sarwar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 reciter: "Nadeem Sarwar"
 tags: []

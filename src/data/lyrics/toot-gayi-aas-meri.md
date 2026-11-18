@@ -1,10 +1,10 @@
 ---
-title: ٹوٹ گئی آس میری ٹوٹ گئی آس
-alternateTitle: Tut Gayi Aas Meri
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ٹوٹ گئی آس میری ٹوٹ گئی آس"
+alternateTitle: "Tut Gayi Aas Meri"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees"
 reciter: "Nadeem Sarwar"
 tags: []

@@ -1,9 +1,9 @@
 ---
-title: تیروں کی زد میں آگیا زہراؑ کا گلبدن
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تیروں کی زد میں آگیا زہراؑ کا گلبدن"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
 tags: []
 aliases: []

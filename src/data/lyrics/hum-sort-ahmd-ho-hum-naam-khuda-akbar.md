@@ -1,9 +1,9 @@
 ---
-title: ؑہم صورت احمدؐ ہو ہم نام خدا اکبر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ؑہم صورت احمدؐ ہو ہم نام خدا اکبر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Asif Akhter Zaidi"
 tags: []
 aliases: []

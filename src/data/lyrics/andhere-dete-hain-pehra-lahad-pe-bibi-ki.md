@@ -1,9 +1,9 @@
 ---
-title: اندھیرے دیتے ہیں پہرہ لحد پہ بی‌بی کی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "اندھیرے دیتے ہیں پہرہ لحد پہ بی‌بی کی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 poet: "Mir Takallum"
 tags: []
 aliases: []

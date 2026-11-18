@@ -1,11 +1,11 @@
 ---
-title: تمام عالم میں آج ماتم حسینؑ بے کس کا ہو رہا یے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تمام عالم میں آج ماتم حسینؑ بے کس کا ہو رہا یے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

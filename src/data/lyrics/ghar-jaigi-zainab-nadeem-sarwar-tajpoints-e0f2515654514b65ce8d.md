@@ -1,14 +1,14 @@
 ---
-title: غم کھائے گی زینب مر جائے گی زینب
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "غم کھائے گی زینب مر جائے گی زینب"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hilal Naqvi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Ghar Jaigi Zainab Nadeem Sarwar
+alternateTitle: "Ghar Jaigi Zainab Nadeem Sarwar"
 romanLyrics: 'Ghar Jaigi Zainab Nadeem Sarwar Lyrics
 
   Gham Khaye Gi Zainab Mar Jaye Gi Zainab.

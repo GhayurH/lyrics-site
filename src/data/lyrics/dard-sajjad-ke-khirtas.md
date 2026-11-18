@@ -1,10 +1,10 @@
 ---
-title: درد سجاد کے قرطاس پہ لاؤں کیسے
-alternateTitle: Dard Sajjad Ke Khirtas
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "درد سجاد کے قرطاس پہ لاؤں کیسے"
+alternateTitle: "Dard Sajjad Ke Khirtas"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Afzal Hussain Najfi"
 reciter: "Hasan Sadiq"
 tags: []

@@ -1,10 +1,10 @@
 ---
 title: "میری سکینہ کو نیند آ رہی ہے"
 alternateTitle: "Meri Sakina Ko Neend Aa Rahi Hai"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []

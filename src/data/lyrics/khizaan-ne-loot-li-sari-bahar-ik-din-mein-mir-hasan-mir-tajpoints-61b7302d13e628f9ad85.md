@@ -1,14 +1,14 @@
 ---
-title: ہا ے غریب ہا ےحسین
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہا ے غریب ہا ےحسین"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Khizaan Ne Loot Li Sari Bahar Ik Din Mein Mir Hasan Mir
+alternateTitle: "Khizaan Ne Loot Li Sari Bahar Ik Din Mein Mir Hasan Mir"
 romanLyrics: 'Haye ghareeb haye hussain
 
 

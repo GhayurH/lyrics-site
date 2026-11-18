@@ -1,10 +1,10 @@
 ---
-title: آہ افتاد زتن دست علمدار حسین
-alternateTitle: Ay Alamdare Hussain
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آہ افتاد زتن دست علمدار حسین"
+alternateTitle: "Ay Alamdare Hussain"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
@@ -74,7 +74,7 @@ romanLyrics: 'Aey alamdar-e Hussain
   Uska hum, uska hum dainge une bacho ko bhi layawo
 
   Haey duniya se utha mustaza ka noore Aeyn'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:e67abea47e73c34123c4
 # source_url: https://www.nohayonline.com/details_content.php?id=373
 # raw_sha256: 0f29f98eb5813d8470d480606645316ccbb36480c720f253e264bbc7a4ebb9e7

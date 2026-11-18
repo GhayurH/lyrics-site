@@ -1,9 +1,9 @@
 ---
-title: وا ویلا صد وا ویلا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "وا ویلا صد وا ویلا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []

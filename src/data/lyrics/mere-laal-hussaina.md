@@ -1,10 +1,10 @@
 ---
-title: ماں آئی ہے مظلوم میرے لال حسینا
-alternateTitle: Mere Laal Husaina
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ماں آئی ہے مظلوم میرے لال حسینا"
+alternateTitle: "Mere Laal Husaina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Ali Yazdan"
 tags: []

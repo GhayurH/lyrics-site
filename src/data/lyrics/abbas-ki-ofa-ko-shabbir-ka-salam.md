@@ -1,9 +1,9 @@
 ---
-title: عباسؑ کی وفا کو شبیرؑ کا سلام
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عباسؑ کی وفا کو شبیرؑ کا سلام"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []

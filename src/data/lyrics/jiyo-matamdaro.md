@@ -1,10 +1,10 @@
 ---
-title: جیو ماتم داروں جیو جیو پرسہ داروں جیو
-alternateTitle: Jiyo Matamdaro
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جیو ماتم داروں جیو جیو پرسہ داروں جیو"
+alternateTitle: "Jiyo Matamdaro"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Asif Bijnori"
 reciter: "Ameer Hasan Aamir"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: آئے فرس کی زین سے جب خاک پر حسین
-alternateTitle: Main Thak Gaya Huṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آئے فرس کی زین سے جب خاک پر حسین"
+alternateTitle: "Main Thak Gaya Huṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: روضے پہ مصطفیٰ کے اُداسی سی چھائی ہے
-alternateTitle: Rauze Pe Mustafa Ke
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "روضے پہ مصطفیٰ کے اُداسی سی چھائی ہے"
+alternateTitle: "Rauze Pe Mustafa Ke"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Nisaar"
 tags: []
 aliases: []
@@ -104,7 +104,7 @@ romanLyrics: |-
   Tharra raha tha rauza-e-Sultaan-e-Mashraqain
   Sab khatm kar li saari ye ghamnaak daastaaṅ
   Roye haiṅ is alam meiṅ zamiṅ aur aasmaaṅ
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:13cb34a26e168e6f7875
 # source_url: https://www.nohayonline.com/details_content.php?id=415
 # raw_sha256: 7ef2d7f9124e4374c8fe8cba1241914a385a24a33142662034ee60885ff91e29

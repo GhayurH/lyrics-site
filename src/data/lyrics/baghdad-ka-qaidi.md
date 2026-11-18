@@ -1,10 +1,10 @@
 ---
-title: کر کر کے یاد سکینہ کو بغداد کا قیدی روتا ہے
-alternateTitle: Baghdad Ka Qaidi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کر کر کے یاد سکینہ کو بغداد کا قیدی روتا ہے"
+alternateTitle: "Baghdad Ka Qaidi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Shahid Baltistani"
 tags: []

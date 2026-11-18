@@ -1,11 +1,11 @@
 ---
-title: تازیانے شمر کے اور نا توان سجادؑ ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تازیانے شمر کے اور نا توان سجادؑ ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false

@@ -1,14 +1,14 @@
 ---
-title: شب چاک گریباں سحر گریہ کناں ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شب چاک گریباں سحر گریہ کناں ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees Pehersari"
 tags: []
 aliases: []
 published: false
-alternateTitle: Shab Chaak Garaiban Ali Zia Rizvi Noha By Askari Hassan
+alternateTitle: "Shab Chaak Garaiban Ali Zia Rizvi Noha By Askari Hassan"
 romanLyrics: 'Shab Chaak Garaiban Ali Zia Rizvi Noha by Askari Hassan.
 
 

@@ -1,13 +1,13 @@
 ---
-title: ماں مجھے اپنے سینے سے لگا لے
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-tags: []
+title: "ماں مجھے اپنے سینے سے لگا لے"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: ziyaraat:678ff88a44172975ce62
 # source_url: https://www.ziyaraat.net/api/noha/978
 # raw_sha256: 5e1fa9d02d34b862585bda96cd35172e0c59ce9bd75a081519854ad9d17f81c0

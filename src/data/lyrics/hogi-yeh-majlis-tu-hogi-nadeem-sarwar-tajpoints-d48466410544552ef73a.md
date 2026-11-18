@@ -1,14 +1,14 @@
 ---
-title: ہوگی یہ مجلس تو ہوگی ہوگا یہ ماتم تو ہوگا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہوگی یہ مجلس تو ہوگی ہوگا یہ ماتم تو ہوگا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Hogi Yeh Majlis Tu Hogi Nadeem Sarwar
+alternateTitle: "Hogi Yeh Majlis Tu Hogi Nadeem Sarwar"
 romanLyrics: 'Hogi Yeh Majlis Tu Hogi Nadeem Sarwar.
 
   Hogi Yeh Majlis Tu Hogi Hoga Yeh Matam Tu Hoga.
@@ -98,7 +98,7 @@ romanLyrics: 'Hogi Yeh Majlis Tu Hogi Nadeem Sarwar.
   Kal Naye:REHAN-o-SARWAR: De Gi Zahra Ki Dua.
 
   Silsila Jari Rahe Ga Rook Kar Dekhey Koi.'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: tajpoints:d48466410544552ef73a
 # source_url: https://tajpoints.com/2023/01/hogi-yeh-majlis-tu-hogi-nadeem-sarwar.html
 # raw_sha256: 99ee010f91797fee278db8065d69b19195566551205d27137a6341f8abd6b87d

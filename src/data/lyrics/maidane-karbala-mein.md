@@ -1,15 +1,15 @@
 ---
-title: میدانِ کربلا میں وہ اکبر تیری اذاں
-alternateTitle: Maidane Karbala Mein
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میدانِ کربلا میں وہ اکبر تیری اذاں"
+alternateTitle: "Maidane Karbala Mein"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: true
-reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
+reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 # source_id: nohayonline:90c282d6398de56fffae
 # source_url: https://www.nohayonline.com/details_content.php?id=798
 # raw_sha256: aa8ac3e67a278e60963ea28dd8e2e1e0ea895d17cc7090d93ee56e6e4ade991b

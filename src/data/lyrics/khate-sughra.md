@@ -1,15 +1,15 @@
 ---
-title: کربلا میں جو خط فاطمہ صغریٰ آیا
-alternateTitle: Khat-e-Sughra
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کربلا میں جو خط فاطمہ صغریٰ آیا"
+alternateTitle: "Khat-e-Sughra"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: ["Khate Sughra"]
 published: true
-reciter: Shahid Baltistani
+reciter: "Shahid Baltistani"
 romanLyrics: |-
   Karbala meiṅ jo khat-e-Fatema Sughra aaya
   Parh ke ye baat bahut Shah ko rona aaya

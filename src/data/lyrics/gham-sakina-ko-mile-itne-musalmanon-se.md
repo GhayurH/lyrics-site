@@ -1,9 +1,9 @@
 ---
-title: غم سکینہؑ کو ملے اتنے مسلمانوں سے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "غم سکینہؑ کو ملے اتنے مسلمانوں سے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 tags: []
 aliases: []

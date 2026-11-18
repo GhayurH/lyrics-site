@@ -1,10 +1,10 @@
 ---
-title: ڈراؤنا جنگل ہے رات اندھیری
-alternateTitle: Darauna Jangal
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "ڈراؤنا جنگل ہے رات اندھیری"
+alternateTitle: "Darauna Jangal"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 poet: "Ghayur"
 reciter: "Mukhtar Zaidi"
 tags: []

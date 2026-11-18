@@ -1,10 +1,10 @@
 ---
-title: دن ڈھل رہا ہے پیاسی سکینہ اداس ہے
-alternateTitle: Din Dhal Raha Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "دن ڈھل رہا ہے پیاسی سکینہ اداس ہے"
+alternateTitle: "Din Dhal Raha Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mohib Fazli"
 reciter: "Raza Abbas Zaidi"
 tags: []

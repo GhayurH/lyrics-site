@@ -1,9 +1,9 @@
 ---
 title: "ہے کہاں بھائی میرا اے ذوالجناح"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []

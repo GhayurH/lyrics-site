@@ -1,10 +1,10 @@
 ---
-title: عاشور کی شب کرتے تھے اصحاب یہ نوحہ
-alternateTitle: Hum Kaise Chale Jaaeṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عاشور کی شب کرتے تھے اصحاب یہ نوحہ"
+alternateTitle: "Hum Kaise Chale Jaaeṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 tags: []
 aliases: ["Hum Kaise Chale Jaye"]
@@ -47,7 +47,7 @@ romanLyrics: |-
   Akbar jo diye khaime meiṅ Ghaazi ne jalaaye
   Tha aisa samaaṅ Shah ke bhi aansu nikal aaye
   Talwaar gale par rakhe har shakhs tha kehta
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:9a1e68c3b98d97fb4c65
 # source_url: https://www.nohayonline.com/details_content.php?id=305
 # raw_sha256: 608cf1adf1fd67e0e1d8a7086962d51e572a9e06d8dc36964796b6c7bacee061

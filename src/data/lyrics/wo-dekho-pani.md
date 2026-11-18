@@ -1,10 +1,10 @@
 ---
-title: وہ دیکھو پانی آ رہا ہے
-alternateTitle: Wo Dekho Paani
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "وہ دیکھو پانی آ رہا ہے"
+alternateTitle: "Wo Dekho Paani"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Mesum Abbas"
 tags: []

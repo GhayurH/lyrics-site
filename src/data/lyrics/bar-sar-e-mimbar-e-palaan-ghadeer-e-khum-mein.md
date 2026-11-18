@@ -2,10 +2,10 @@
 title: "بر سرِ منبرِ پالان غدیرِ خم میں"
 alternateTitle: "Bar Sar-e-Mimbar-e-Palaan Ghadir-e-Khum Meiṅ"
 recitationId: "ghadeer-e-khum-mein-iftekhar-haider"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Manqabat
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Manqabat"
 poet: "Iftekhar Haider"
 tags: []
 aliases: ["ghadeer-e-khum-mein-iftekhar-haider"]

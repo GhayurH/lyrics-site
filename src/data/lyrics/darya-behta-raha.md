@@ -1,10 +1,10 @@
 ---
-title: اے وائے نہرِ علقمہ
-alternateTitle: Darya Behta Raha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے وائے نہرِ علقمہ"
+alternateTitle: "Darya Behta Raha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -48,7 +48,7 @@ romanLyrics: |-
   Wo darya ka behta paani wo pyaase ka sajda haaye
   Darya behta raha darya behta raha
   Saamne usi darya ke pyaase tarapte haiṅ
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:aec52a291f45b5e47a60
 # source_url: https://www.nohayonline.com/details_content.php?id=367
 # raw_sha256: e8601a9e2f24cd015a83f32716f3a4662e36b6b20ac992634c2f9879f0875463

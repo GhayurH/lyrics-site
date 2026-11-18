@@ -1,10 +1,10 @@
 ---
-title: یہ اسیری کی ہوا کیسی چلی ہے عباس
-alternateTitle: Ye Aseeri Ki Hawa
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ اسیری کی ہوا کیسی چلی ہے عباس"
+alternateTitle: "Ye Aseeri Ki Hawa"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Bilal Kazmi"
 tags: []
 aliases: []

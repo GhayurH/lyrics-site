@@ -1,10 +1,10 @@
 ---
-title: اے پھپھی اماں میری کیا اندھیرا ہے پھپھی
-alternateTitle: Kya Andhera Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے پھپھی اماں میری کیا اندھیرا ہے پھپھی"
+alternateTitle: "Kya Andhera Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: true
@@ -41,7 +41,7 @@ romanLyrics: |-
   Aaye Baba to sunaauṅ maiṅ sitam ki daastaaṅ
   Maiṅ dikhaauṅ gi rasan ke aur tamaachoṅ ke nishaaṅ
   Sun nahiṅ paayeṅge Baba haal saara ae phuphi
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:d83e50cfe8396b3aaca1
 # source_url: https://www.nohayonline.com/details_content.php?id=1733
 # raw_sha256: 9b6e74a890d3d0c08751ffc5d551835276e496b85feeb6a41de4d48cc8641433

@@ -1,12 +1,12 @@
 ---
-title: کہتی تھی مادر اے علی اکبر
-alternateTitle: Kehti Thi Madar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہتی تھی مادر اے علی اکبر"
+alternateTitle: "Kehti Thi Madar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mohsin Shakeeb"
-reciter: Ali Zia Rizvi
+reciter: "Ali Zia Rizvi"
 tags: []
 aliases: []
 published: true

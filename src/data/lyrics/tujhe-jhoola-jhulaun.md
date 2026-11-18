@@ -1,10 +1,10 @@
 ---
-title: تجھے جھُولا جھُلاؤں میں تجھے جھُولا جھُلاؤں
-alternateTitle: Tujhe Jhula Jhulaauṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تجھے جھُولا جھُلاؤں میں تجھے جھُولا جھُلاؤں"
+alternateTitle: "Tujhe Jhula Jhulaauṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []

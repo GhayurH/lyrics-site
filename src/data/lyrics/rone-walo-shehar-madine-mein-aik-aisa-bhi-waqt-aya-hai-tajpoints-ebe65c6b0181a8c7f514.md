@@ -1,14 +1,14 @@
 ---
-title: رونے والو شہر مدینے میں ایک ایسا بھی وقت آیا ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "رونے والو شہر مدینے میں ایک ایسا بھی وقت آیا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Rone Walo Shehar Madine Mein Aik Aisa Bhi Waqt Aya Hai
+alternateTitle: "Rone Walo Shehar Madine Mein Aik Aisa Bhi Waqt Aya Hai"
 romanLyrics: 'Rone Walo Shehar Madine Mein Aik Aisa Bhi Waqt Aya Hai.
 
   Kalma Goyoun Ne Kalma Walon Ko Bahre Darbar Mein Rolaya Hai.
@@ -60,7 +60,7 @@ romanLyrics: 'Rone Walo Shehar Madine Mein Aik Aisa Bhi Waqt Aya Hai.
   Matami Tu Tauqeer Nohon Mein Iss Liye Bhi Salam Karta Hai.
 
   Iss Ne Bibi Batool Ke Gham Mein Dill Ko Bait-ul-Huzan Banaya Hai.'
-reciter: Anjuman Shabab-ul-Momineen (Nasir Asghar Party)
+reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 # source_id: nohayonline:ee6314f067c4948fd588
 # source_url: https://www.nohayonline.com/details_content.php?id=2269
 # raw_sha256: ad7121d921689e13354f1d2d854b9d0e07c2fd980bf868ebc0ee38189d34131a

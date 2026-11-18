@@ -1,9 +1,9 @@
 ---
-title: چلے جو گھر کو تو عابدؑ یہ کام کر کے چلے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "چلے جو گھر کو تو عابدؑ یہ کام کر کے چلے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 tags: []
 aliases: []
 published: false

@@ -1,9 +1,9 @@
 ---
-title: بابا رات ہو گئی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بابا رات ہو گئی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 tags: []
 aliases: []

@@ -1,10 +1,10 @@
 ---
-title: مل لی ہے کربلا کی جبیں پر اٹھا کے خاک
-alternateTitle: Mal Li Hai Karbala
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مل لی ہے کربلا کی جبیں پر اٹھا کے خاک"
+alternateTitle: "Mal Li Hai Karbala"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: true
@@ -47,7 +47,7 @@ romanLyrics: |-
   9
   Behnoṅ se bhaai maaoṅ se bachche bichhar gaye
   Ghar ho gaya Batul ka is ran meiṅ aa ke khaak
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 # source_id: nohayonline:8b926a58134274acc7df
 # source_url: https://www.nohayonline.com/details_content.php?id=3226
 # raw_sha256: 086561cf5fd5a3d38ca7534a081f22aca306404243cb3a771c2add04ac2f171d

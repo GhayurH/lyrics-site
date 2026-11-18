@@ -1,10 +1,10 @@
 ---
-title: میں شام سے لٹ کر آئی ہوں سوغاتِ مصائب لائی ہوں
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-tags: []
+title: "میں شام سے لٹ کر آئی ہوں سوغاتِ مصائب لائی ہوں"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:874ace24dae625ad08a9

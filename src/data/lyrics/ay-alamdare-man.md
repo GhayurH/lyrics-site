@@ -1,10 +1,10 @@
 ---
-title: اے علمدار من
-alternateTitle: Ae Alamdar-e-Man
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے علمدار من"
+alternateTitle: "Ae Alamdar-e-Man"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

@@ -1,9 +1,9 @@
 ---
-title: چھٹ رہا ہے نانا کا آستاں میری زینبؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "چھٹ رہا ہے نانا کا آستاں میری زینبؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Saghar Naqvi"
 tags: []
 aliases: []

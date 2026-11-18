@@ -1,10 +1,10 @@
 ---
-title: آسمان لرزا زمیں کانپی سمندر روئے
-alternateTitle: Aasman Larza Zamiṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آسمان لرزا زمیں کانپی سمندر روئے"
+alternateTitle: "Aasman Larza Zamiṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mukhtar Hussain"
 tags: []

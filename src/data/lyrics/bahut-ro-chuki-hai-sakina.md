@@ -1,11 +1,11 @@
 ---
-title: بہت رو چکی ہے سکینہؑ - اللہ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بہت رو چکی ہے سکینہؑ - اللہ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
-reciter: Farhan Ali
+reciter: "Farhan Ali"
 tags: []
 aliases: []
 published: false

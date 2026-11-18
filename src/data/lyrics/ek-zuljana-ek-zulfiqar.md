@@ -78,7 +78,7 @@ romanLyrics: |-
   Ae waaris-e-Husain sabab der ka hai kya
   Phir tegh o Zuljanaah ko ghaibat se le ke aa
   Donoṅ ka Karbala ko bahut intizaar hai
-reciter: Ameer Hasan Aamir
+reciter: "Ameer Hasan Aamir"
 # source_id: nohayonline:8bf76bcd17027dc4c261
 # source_url: https://www.nohayonline.com/details_content.php?id=1803
 # raw_sha256: 380037c66199da03e5e34d16b8a301733727aff69fd72d0590d448ff23462126

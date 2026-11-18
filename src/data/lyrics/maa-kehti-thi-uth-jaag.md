@@ -1,10 +1,10 @@
 ---
-title: ماں کہتی تھی اٹھ جاگ میری جان سکینہ
-alternateTitle: Maa Kehti Thi Uth Jaag
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ماں کہتی تھی اٹھ جاگ میری جان سکینہ"
+alternateTitle: "Maa Kehti Thi Uth Jaag"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Akhtar Zaidi"
 reciter: "Qamar Abbas"
 tags: []

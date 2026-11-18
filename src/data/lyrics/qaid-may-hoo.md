@@ -1,10 +1,10 @@
 ---
-title: زندان ستم سے اہلِ عزا
-alternateTitle: Qaid Mein Huṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زندان ستم سے اہلِ عزا"
+alternateTitle: "Qaid Mein Huṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Afzal Mirza"
 tags: []

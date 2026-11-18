@@ -1,10 +1,10 @@
 ---
-title: وقتِ رُخصت باپ کو بیٹے کا مُڑ کر دیکھنا
-alternateTitle: Waqt-e-Rukhsat Baap Ko
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "وقتِ رُخصت باپ کو بیٹے کا مُڑ کر دیکھنا"
+alternateTitle: "Waqt-e-Rukhsat Baap Ko"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

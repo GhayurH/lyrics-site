@@ -1,10 +1,10 @@
 ---
-title: زنداں میں سکینہ کا تھا نوحہ میرے بابا
-alternateTitle: Zindaaṅ Mein Sakina
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زنداں میں سکینہ کا تھا نوحہ میرے بابا"
+alternateTitle: "Zindaaṅ Mein Sakina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Bilal Kazmi"
 reciter: "Afzal Mirza"
 tags: []

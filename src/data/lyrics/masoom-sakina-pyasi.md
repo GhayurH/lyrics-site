@@ -1,10 +1,10 @@
 ---
-title: معصوم سکینہ پیاسی ہے
-alternateTitle: Masum Sakina Pyaasi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "معصوم سکینہ پیاسی ہے"
+alternateTitle: "Masum Sakina Pyaasi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zameer Akhtar"
 reciter: "Ali Yazdan; Ali Zia Rizvi"
 tags: []

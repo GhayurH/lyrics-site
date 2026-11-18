@@ -1,10 +1,10 @@
 ---
-title: درد انگیز یہ کہانی ہے
-alternateTitle: Dard Angayz Ye
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "درد انگیز یہ کہانی ہے"
+alternateTitle: "Dard Angayz Ye"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hyder"
 reciter: "Mirza Sikander Ali"
 tags: []

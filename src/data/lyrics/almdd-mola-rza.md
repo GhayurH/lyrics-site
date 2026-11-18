@@ -1,11 +1,11 @@
 ---
-title: المدد مولا رضاؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "المدد مولا رضاؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Shahid Baltistani
+reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false

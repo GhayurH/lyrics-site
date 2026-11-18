@@ -1,13 +1,13 @@
 ---
-title: ماں نے اصغر کو جو جھولے میں نہ پایا ہوگا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ماں نے اصغر کو جو جھولے میں نہ پایا ہوگا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-alternateTitle: Maa Ne Asghar Ko Jo Jhole Mein Na Paya Ho Ga Hasan Sadiq
+alternateTitle: "Maa Ne Asghar Ko Jo Jhole Mein Na Paya Ho Ga Hasan Sadiq"
 romanLyrics: 'Maa nay Asghar ko jo jhulay may na paya ho ga
 
   Raat bhar chain usay, Kis terha aaya ho ga

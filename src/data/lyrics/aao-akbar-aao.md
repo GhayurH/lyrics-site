@@ -1,10 +1,10 @@
 ---
-title: آؤ اکبر آؤ میرے اکبر آؤ
-alternateTitle: Aao Akbar Aao
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آؤ اکبر آؤ میرے اکبر آؤ"
+alternateTitle: "Aao Akbar Aao"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
 tags: []

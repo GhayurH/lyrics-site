@@ -1,10 +1,10 @@
 ---
-title: عاشور کا سورج جلتا ہے
-alternateTitle: Ashoor Ka Suraj
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عاشور کا سورج جلتا ہے"
+alternateTitle: "Ashoor Ka Suraj"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mirza Murtaza Ali"
 reciter: "Mirza Sikander Ali"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: اک ننھی سی لحد رن میں بناتے ہیں حسین
-alternateTitle: Ek Nanhi Si Lahad
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اک ننھی سی لحد رن میں بناتے ہیں حسین"
+alternateTitle: "Ek Nanhi Si Lahad"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
@@ -40,7 +40,7 @@ romanLyrics: |-
   7
   Koi Zainab ko bula laaye Takallum jaa kar
   Barchhi Akbar ke kaleje se chhuraate haiṅ Husain
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:91834567a66be35f20b9
 # source_url: https://www.nohayonline.com/details_content.php?id=195
 # raw_sha256: 15877c6317ff7ec7ac918dc1f0d4a6a074ed59385e6505bb2d9942d627ab6e25

@@ -1,9 +1,9 @@
 ---
-title: اے شامِ غریباں تاریخ کا ہے غم سے تیرے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے شامِ غریباں تاریخ کا ہے غم سے تیرے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

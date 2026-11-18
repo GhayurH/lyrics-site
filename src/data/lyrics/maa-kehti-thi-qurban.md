@@ -1,10 +1,10 @@
 ---
-title: ماں کہتی تھی قربان تمہارے علی اصغر
-alternateTitle: Maa Kehti Thi Qurban
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ماں کہتی تھی قربان تمہارے علی اصغر"
+alternateTitle: "Maa Kehti Thi Qurban"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zahid"
 reciter: "Mukhtar Hussain"
 tags: []

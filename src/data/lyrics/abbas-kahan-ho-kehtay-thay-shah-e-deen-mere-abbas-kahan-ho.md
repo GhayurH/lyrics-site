@@ -1,10 +1,10 @@
 ---
-title: کہتے تھے شہ دیں میرے عباس کہاں ہو
-alternateTitle: Abbas Kahan Ho
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہتے تھے شہ دیں میرے عباس کہاں ہو"
+alternateTitle: "Abbas Kahan Ho"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ali Rizvi Sachey"
 tags: []
 aliases: []

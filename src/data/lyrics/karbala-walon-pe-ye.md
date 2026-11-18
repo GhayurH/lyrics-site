@@ -1,10 +1,10 @@
 ---
-title: کربلا والوں پہ یہ کیسا محرم آیا
-alternateTitle: Karbala Walon Pe Ye
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کربلا والوں پہ یہ کیسا محرم آیا"
+alternateTitle: "Karbala Walon Pe Ye"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -40,7 +40,7 @@ romanLyrics: |-
   Jo Hazrat-e-Shabbir ka maatam nahiṅ karte
   Chaand Rehaan nazar aaya Moharram ka idhar
   Khuld meiṅ ashk meri aaṅkh meiṅ paiham aaya
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 # source_id: nohayonline:5a94576452eea72ef391
 # source_url: https://www.nohayonline.com/details_content.php?id=618
 # raw_sha256: b903e03036d6dcf9bb3c98b95b021e7d14b62f5a1d43b2bc04b9a9fca8613d87

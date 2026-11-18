@@ -1,9 +1,9 @@
 ---
-title: کر رہی تھی لاشہءِ مسلمؑ پہ یہ زہراؑ بکا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کر رہی تھی لاشہءِ مسلمؑ پہ یہ زہراؑ بکا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 tags: []
 aliases: []

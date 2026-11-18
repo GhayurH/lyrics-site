@@ -1,14 +1,14 @@
 ---
-title: زندہ رہے گا پیغامِ حُسین ابنِ علی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زندہ رہے گا پیغامِ حُسین ابنِ علی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Sachey Bhai"
 tags: []
 aliases: []
 published: false
-alternateTitle: Paigham-e-Hussain Ibn-e-Ali Zinda Rahe Ga
+alternateTitle: "Paigham-e-Hussain Ibn-e-Ali Zinda Rahe Ga"
 romanLyrics: 'Paigham-e-Hussain Ibn-e-Ali Zinda Rahe Ga.
 
   Islam Sada Zindah-o-Painda Rahe Ga.

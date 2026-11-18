@@ -1,11 +1,11 @@
 ---
-title: برچھی علی اکبرؑ کے کلیجے میں لگی ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "برچھی علی اکبرؑ کے کلیجے میں لگی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false

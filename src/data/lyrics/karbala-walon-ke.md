@@ -8,7 +8,7 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: true
-reciter: Irfan Husain
+reciter: "Irfan Husain"
 romanLyrics: |-
   Karbala waloṅ ke naaib azadaar haiṅ hum
   Gham-e-Shabbir pe jaaṅ dene ko tayyaar haiṅ hum

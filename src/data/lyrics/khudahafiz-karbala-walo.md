@@ -1,10 +1,10 @@
 ---
-title: خُدا حافظ ہے رُخصت کی گھڑی
-alternateTitle: Khudahafiz Karbala Walo
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "خُدا حافظ ہے رُخصت کی گھڑی"
+alternateTitle: "Khudahafiz Karbala Walo"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: true
@@ -42,7 +42,7 @@ romanLyrics: |-
   Phir agle saal hum yuṅhi saf-e-maatam bichhaayeṅge
   Rahi gar zindagi
   Ae Karbala walo Khuda hafiz
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 # source_id: nohayonline:a2b8d7ec90113ec3a232
 # source_url: https://www.nohayonline.com/details_content.php?id=483
 # raw_sha256: d2da34172eb520d5ddbc1109824522a45e6e90d0ece5b1682d1ad7eac10dce62

@@ -1,10 +1,10 @@
 ---
-title: اے جان سکینہ نادان سکینہ
-alternateTitle: Ae Jaan Sakina
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے جان سکینہ نادان سکینہ"
+alternateTitle: "Ae Jaan Sakina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hilmi Afandi"
 reciter: "Abbas Mirza"
 tags: []

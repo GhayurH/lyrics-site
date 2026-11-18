@@ -1,14 +1,14 @@
 ---
-title: ہاۓ اسیر قافلہ دربار شام جب آیا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہاۓ اسیر قافلہ دربار شام جب آیا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Yad E Kal Khair Nadeem Sarwar
+alternateTitle: "Yad E Kal Khair Nadeem Sarwar"
 romanLyrics: 'Yad e kal khair
 
   Ya Hussain, ya Hussain, ya hussain, ya hussain
@@ -258,7 +258,7 @@ romanLyrics: 'Yad e kal khair
   Bhai kay sir pe nazar, Zainab e Kubra ki pari
 
   Jhuk gaye Bali Sakina pe Ali ki'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:c5cc336711b26e224220
 # source_url: https://www.nohayonline.com/details_content.php?id=2615
 # raw_sha256: 88375651e1396209a66f4c22eca3250095a80df16ef53e7df96d5a1d8d61899d

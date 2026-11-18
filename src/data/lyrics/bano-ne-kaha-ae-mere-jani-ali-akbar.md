@@ -1,10 +1,10 @@
 ---
-title: بانو نے کہا اے میرے جانی علی اکبرؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+title: "بانو نے کہا اے میرے جانی علی اکبرؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false

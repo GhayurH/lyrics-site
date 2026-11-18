@@ -1,10 +1,10 @@
 ---
-title: کوفے میں کربلا کا یہ منظر عیاں ہوا
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Salam
-tags: []
+title: "کوفے میں کربلا کا یہ منظر عیاں ہوا"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Salam"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1c80f5931fd10403ce1e

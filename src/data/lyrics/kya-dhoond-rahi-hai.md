@@ -1,10 +1,10 @@
 ---
-title: کیا ڈھونڈ رہی ہے جنگل میں سکینہ
-alternateTitle: Kya Dhund Rahi Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کیا ڈھونڈ رہی ہے جنگل میں سکینہ"
+alternateTitle: "Kya Dhund Rahi Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zafar"
 reciter: "Mirza Sikander Ali; Mesum Abbas"
 tags: []

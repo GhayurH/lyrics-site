@@ -1,10 +1,10 @@
 ---
-title: اے نانا تیری اُمت سے تیرا دین بچا کر لائی ہے
-alternateTitle: Ae Naana Teri Ummat Se
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے نانا تیری اُمت سے تیرا دین بچا کر لائی ہے"
+alternateTitle: "Ae Naana Teri Ummat Se"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Sajid Jafri"
 tags: []

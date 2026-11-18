@@ -49,7 +49,7 @@ romanLyrics: |-
   8
   Shaadmaaṅ hoga sar-e-hashr hai Mazhar ko yaqiṅ
   Jis ne dunya ko tere gham meiṅ rulaaya Akbar
-reciter: Shadman Raza
+reciter: "Shadman Raza"
 # source_id: nohayonline:37c31fc05bd9010c63fa
 # source_url: https://www.nohayonline.com/details_content.php?id=3061
 # raw_sha256: cdaa999005a7e0d3964b4da773cffbb410bb522b2580e69e23fe0af6a672e111

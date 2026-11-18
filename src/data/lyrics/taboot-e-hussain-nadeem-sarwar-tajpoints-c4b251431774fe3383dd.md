@@ -1,14 +1,14 @@
 ---
-title: واویلا واویلا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "واویلا واویلا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Taboot E Hussain Nadeem Sarwar
+alternateTitle: "Taboot E Hussain Nadeem Sarwar"
 romanLyrics: 'Taboot E Hussain Nadeem Sarwar Lyrics
 
   Aa Raha Hai Taboot-e-Hussain-e-Ghareeb Wawela Wawela.

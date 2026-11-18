@@ -1,10 +1,10 @@
 ---
-title: ہر ایک جانب اداسی ہے عزا کی روح پیاسی ہے
-alternateTitle: Azadari Ka Mausam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہر ایک جانب اداسی ہے عزا کی روح پیاسی ہے"
+alternateTitle: "Azadari Ka Mausam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Naqvi"
 reciter: "Rizwan Zaidi"
 tags: []

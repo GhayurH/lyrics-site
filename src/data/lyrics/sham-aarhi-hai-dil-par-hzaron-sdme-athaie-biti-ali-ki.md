@@ -1,11 +1,11 @@
 ---
-title: شام آرہی ہے دل پر ہزاروں صدمے اٹھائے بیٹی علیؑ کی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شام آرہی ہے دل پر ہزاروں صدمے اٹھائے بیٹی علیؑ کی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gohar Jarchvi"
-reciter: Rizwan Zaidi
+reciter: "Rizwan Zaidi"
 tags: []
 aliases: []
 published: false

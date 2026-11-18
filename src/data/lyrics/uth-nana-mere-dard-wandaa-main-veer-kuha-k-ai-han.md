@@ -1,6 +1,6 @@
 ---
 title: "اٹھ نانا، میرے درد ونڈا، میں ویر کھو کے آئی ہاں"
-language: Panjabi
+language: "Panjabi"
 lang: "pa"
 direction: "rtl"
 kalamType: "Noha"

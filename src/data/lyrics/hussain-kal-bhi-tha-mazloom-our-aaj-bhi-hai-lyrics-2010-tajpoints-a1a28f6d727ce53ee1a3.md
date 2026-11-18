@@ -1,14 +1,14 @@
 ---
-title: حسین کل بھی تھا مظلوم اور آج بھی ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Akbar
+title: "حسین کل بھی تھا مظلوم اور آج بھی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Akbar"
 tags: []
 aliases: []
 published: false
-alternateTitle: Hussain Kal Bhi Tha Mazloom Aur Aaj Bhi Hai
+alternateTitle: "Hussain Kal Bhi Tha Mazloom Aur Aaj Bhi Hai"
 romanLyrics: 'Hussain kal bhi tha mazloom aur aaj bhi hai
 
 

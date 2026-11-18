@@ -1,10 +1,10 @@
 ---
-title: راج دُلارا زہراؑ کا زخمی ہے اور پیاسا ہے
-alternateTitle: Raaj Dulaara Zehra Ka
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "راج دُلارا زہراؑ کا زخمی ہے اور پیاسا ہے"
+alternateTitle: "Raaj Dulaara Zehra Ka"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Asim Lilan"
 tags: []
 aliases: []

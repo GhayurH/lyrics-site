@@ -1,9 +1,9 @@
 ---
-title: بولی زہراؑ زینبؑ کا یوں ساتھ نبھانا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بولی زہراؑ زینبؑ کا یوں ساتھ نبھانا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Saqlain"
 tags: []
 aliases: []

@@ -1,10 +1,10 @@
 ---
-title: گھر گھر میں صفِ ماتمِ شبیر بچھا دے
-alternateTitle: Ghar Ghar Mein
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "گھر گھر میں صفِ ماتمِ شبیر بچھا دے"
+alternateTitle: "Ghar Ghar Mein"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Sachey Bhai"
 tags: []
 aliases: []
@@ -94,7 +94,7 @@ romanLyrics: |-
   Ye kaun chala jaata hai gardan ko jhukaaye
   Maaṅ dar pe hai khaime ke kahiṅ dekh na paaye
   Fizza se kaho khaime ke parde ko gira de
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 # source_id: nohayonline:da523293dda56c8d4623
 # source_url: https://www.nohayonline.com/details_content.php?id=2897
 # raw_sha256: 8816d0acedc07ca68b11815989e974279472c92e5006240566239f8bc7120f4a

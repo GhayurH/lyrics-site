@@ -1,10 +1,10 @@
 ---
-title: سب جل چکے خیام
-alternateTitle: Sab Jal Chuke Khiyaam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سب جل چکے خیام"
+alternateTitle: "Sab Jal Chuke Khiyaam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Ali Zia Rizvi"
 tags: []

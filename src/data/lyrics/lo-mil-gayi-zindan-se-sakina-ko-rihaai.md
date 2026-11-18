@@ -1,11 +1,11 @@
 ---
-title: لو مل گئی زنداں سے سکينہؑ کو رہائی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لو مل گئی زنداں سے سکينہؑ کو رہائی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

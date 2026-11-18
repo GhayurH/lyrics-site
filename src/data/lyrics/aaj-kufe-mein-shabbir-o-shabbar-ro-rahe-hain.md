@@ -1,9 +1,9 @@
 ---
-title: آج کوفے میں شبیرؑ و شبّرؑ رو رہے ہیں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آج کوفے میں شبیرؑ و شبّرؑ رو رہے ہیں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Himayat"
 tags: []
 aliases: []

@@ -1,10 +1,10 @@
 ---
-title: ہائے سادات ہائے زندان
-alternateTitle: Qaid Khaane Mein
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے سادات ہائے زندان"
+alternateTitle: "Qaid Khaane Mein"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mirza Dabeer"
 reciter: "Nadeem Sarwar"
 tags: []

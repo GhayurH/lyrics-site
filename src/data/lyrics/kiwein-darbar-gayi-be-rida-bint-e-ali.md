@@ -1,10 +1,10 @@
 ---
-title: کیویں دربار گئی بے ردا بنت علیؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Meer Hasan Meer
+title: "کیویں دربار گئی بے ردا بنت علیؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

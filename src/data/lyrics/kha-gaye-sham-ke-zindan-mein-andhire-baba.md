@@ -1,9 +1,9 @@
 ---
-title: کھا گئے شام کے زنداں میں اندھیرے بابا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کھا گئے شام کے زنداں میں اندھیرے بابا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []

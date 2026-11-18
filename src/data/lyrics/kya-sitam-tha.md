@@ -1,10 +1,10 @@
 ---
-title: کیا ستم تھا کربلا میں
-alternateTitle: Kya Sitam Tha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کیا ستم تھا کربلا میں"
+alternateTitle: "Kya Sitam Tha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Bahadur"
 reciter: "Mir Raza Ali"
 tags: []

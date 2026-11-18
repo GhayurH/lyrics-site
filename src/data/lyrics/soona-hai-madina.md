@@ -1,11 +1,11 @@
 ---
-title: سُونا ہے مدینہ سُونا ہے مدینہ
-alternateTitle: Suna Hai Madina
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Hadi Ali Khan Muslim
+title: "سُونا ہے مدینہ سُونا ہے مدینہ"
+alternateTitle: "Suna Hai Madina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Hadi Ali Khan Muslim"
 tags: []
 aliases: []
 published: true

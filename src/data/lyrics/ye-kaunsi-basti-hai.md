@@ -1,10 +1,10 @@
 ---
-title: شام ہائے شام
-alternateTitle: Ye Kaunsi Basti Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شام ہائے شام"
+alternateTitle: "Ye Kaunsi Basti Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
 tags: []

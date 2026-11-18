@@ -1,12 +1,12 @@
 ---
-title: مولا اب آ بھی جائیں کب سے بلا رہے ہیں
-alternateTitle: Maula Ab Aa Bhi Jaaeiṅ Kab Se Bula Rahe Haiṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Manqabat
+title: "مولا اب آ بھی جائیں کب سے بلا رہے ہیں"
+alternateTitle: "Maula Ab Aa Bhi Jaaeiṅ Kab Se Bula Rahe Haiṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Manqabat"
 poet: "Sibte Jafar"
-reciter: Syed Wajhi Hasan Zaidi
+reciter: "Syed Wajhi Hasan Zaidi"
 tags: []
 aliases: ["Mula Ab Aa Bhi Jaein Kab Se Bula Rahe Hain"]
 published: true

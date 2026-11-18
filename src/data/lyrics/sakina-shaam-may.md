@@ -1,10 +1,10 @@
 ---
-title: سکینہ شام میں مر کر یہی سمجھا گئی لوگو
-alternateTitle: Sakina Shaam Mein
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سکینہ شام میں مر کر یہی سمجھا گئی لوگو"
+alternateTitle: "Sakina Shaam Mein"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shaukat"
 reciter: "Nadeem Sarwar"
 tags: []

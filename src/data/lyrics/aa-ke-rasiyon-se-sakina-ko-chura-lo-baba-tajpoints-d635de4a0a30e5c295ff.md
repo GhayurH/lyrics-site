@@ -1,14 +1,14 @@
 ---
-title: آ کے رسیوں سے سکینہؑ کو چھڑا لو بابا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آ کے رسیوں سے سکینہؑ کو چھڑا لو بابا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Iftekhar Hussain"
 tags: []
 aliases: []
 published: false
-alternateTitle: Aa Ke Rasiyon Se Sakina Ko Chura Lo Baba
+alternateTitle: "Aa Ke Rasiyon Se Sakina Ko Chura Lo Baba"
 romanLyrics: 'Aa Ke Rasiyon Se Sakina Ko Chura Lo Baba.
 
   Main Hoon Mushkil Mein Mujhe Paas Bula Lo Baba.

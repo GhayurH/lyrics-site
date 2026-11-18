@@ -1,11 +1,11 @@
 ---
-title: میں رہوں یا نہ رہوں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میں رہوں یا نہ رہوں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

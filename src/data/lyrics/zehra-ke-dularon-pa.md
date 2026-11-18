@@ -1,10 +1,10 @@
 ---
-title: زہرا کے دلاروں پہ عجب ظلم و جفا ہے
-alternateTitle: Zehra Ke Dularon Pa
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زہرا کے دلاروں پہ عجب ظلم و جفا ہے"
+alternateTitle: "Zehra Ke Dularon Pa"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Ali Zia Rizvi"
 poet: "Mohsin Mamoor"
 tags: []

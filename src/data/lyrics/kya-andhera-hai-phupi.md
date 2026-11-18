@@ -1,10 +1,10 @@
 ---
-title: کیا اندھیرا ہے پھپی کیا اندھیرا ہے پھپی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+title: "کیا اندھیرا ہے پھپی کیا اندھیرا ہے پھپی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false

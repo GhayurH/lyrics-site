@@ -1,10 +1,10 @@
 ---
-title: چالیس برس روتے نہ کیوں عابدِ مضطر
-alternateTitle: Chaalis Baras Rote
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "چالیس برس روتے نہ کیوں عابدِ مضطر"
+alternateTitle: "Chaalis Baras Rote"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees"
 reciter: "Sajid Jafri"
 tags: []

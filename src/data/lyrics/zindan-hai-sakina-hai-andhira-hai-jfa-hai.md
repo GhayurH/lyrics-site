@@ -1,11 +1,11 @@
 ---
-title: زنداں ہے سکینہؑ ہے اندھیرا ہے جفا ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زنداں ہے سکینہؑ ہے اندھیرا ہے جفا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false

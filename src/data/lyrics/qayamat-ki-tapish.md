@@ -1,10 +1,10 @@
 ---
-title: قیامت کی تپش ہے کربلا کا دشت جلتا ہے
-alternateTitle: Qayamat Ki Tapish
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "قیامت کی تپش ہے کربلا کا دشت جلتا ہے"
+alternateTitle: "Qayamat Ki Tapish"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Qais Zangipuri"
 reciter: "Hadi Ali Khan Muslim"
 tags: []

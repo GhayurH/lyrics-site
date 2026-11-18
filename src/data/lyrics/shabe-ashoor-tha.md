@@ -1,10 +1,10 @@
 ---
-title: شبِ عاشور خیمئہ کلثوم سے آتی تھی صدا
-alternateTitle: Shab-e-Aashur Tha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شبِ عاشور خیمئہ کلثوم سے آتی تھی صدا"
+alternateTitle: "Shab-e-Aashur Tha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
 tags: []

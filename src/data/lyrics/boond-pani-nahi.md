@@ -1,10 +1,10 @@
 ---
-title: بوند پانی نہیں بھیا نہ ہوا آتی ہے
+title: "بوند پانی نہیں بھیا نہ ہوا آتی ہے"
 alternateTitle: "Bund Paani Nahiṅ"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Jawad Jaffri"
 tags: []
 aliases: ["Boond Pani Nahi"]

@@ -1,14 +1,14 @@
 ---
-title: میرے حسین مجھے کربلا دکھا دیجیئے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میرے حسین مجھے کربلا دکھا دیجیئے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Majid Raza Abidi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Mere Hussain Mujhy Karbala Mukhtar Fatehpuri
+alternateTitle: "Mere Hussain Mujhy Karbala Mukhtar Fatehpuri"
 romanLyrics: 'Mere Hussain Mujhy Karbala Mukhtar Fatehpuri.
 
   Mere Hussain Mujhe Karbala Dikha Dijiye.

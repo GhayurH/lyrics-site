@@ -1,11 +1,11 @@
 ---
-title: بہہ رہا ہے خون کا دریا لاشہءِ شبیرؑ سے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بہہ رہا ہے خون کا دریا لاشہءِ شبیرؑ سے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gulzaar Jafri"
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false

@@ -1,9 +1,9 @@
 ---
-title: ستم کی ہو گئی یہ انتہا رسولؐ کے بعد
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ستم کی ہو گئی یہ انتہا رسولؐ کے بعد"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zafar Abbas"
 tags: []
 aliases: []

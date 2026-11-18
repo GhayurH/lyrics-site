@@ -1,11 +1,11 @@
 ---
-title: یا علیؑ یا ایلیاؑ یا بوالحسنؑ یا بوترابؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یا علیؑ یا ایلیاؑ یا بوالحسنؑ یا بوترابؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

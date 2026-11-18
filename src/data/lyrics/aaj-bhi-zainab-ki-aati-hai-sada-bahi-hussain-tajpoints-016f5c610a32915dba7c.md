@@ -1,14 +1,14 @@
 ---
-title: آج بھی زینب کی آتی ہے صدا بھائی حسین
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Navaid
+title: "آج بھی زینب کی آتی ہے صدا بھائی حسین"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Navaid"
 tags: []
 aliases: []
 published: false
-alternateTitle: Aaj Bhi Zainab Ki Aati Hai Sada Bahi Hussain
+alternateTitle: "Aaj Bhi Zainab Ki Aati Hai Sada Bahi Hussain"
 romanLyrics: 'Aaj Bhi Zainab Ki Aati Hai Sada Bahi Hussain.
 
   Tera Chehrah Teri Aankhein Bhool Kab Payi Hussain.

@@ -1,10 +1,10 @@
 ---
-title: ہائے اماں ارے سنو اماں
-alternateTitle: Kya Mujhe Chhor Ke
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے اماں ارے سنو اماں"
+alternateTitle: "Kya Mujhe Chhor Ke"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shaukat"
 tags: []
 aliases: ["Kya Mujhe Chod Ke"]
@@ -63,7 +63,7 @@ romanLyrics: |-
   Hum na fankaar haiṅ aur na ahl-e-qalam
   Hai ye Farhan o Shaukat pe un ka karam
   Hum se Shabbir nauha kehlwaayeṅge
-reciter: Farhan Ali Waris
+reciter: "Farhan Ali Waris"
 # source_id: nohayonline:cc6814a8ef3d0f568e56
 # source_url: https://www.nohayonline.com/details_content.php?id=2377
 # raw_sha256: 937e96b9fe2a856b9e771c2639cb342962b1bca0e6a344b3b8827e1735c8dfd0

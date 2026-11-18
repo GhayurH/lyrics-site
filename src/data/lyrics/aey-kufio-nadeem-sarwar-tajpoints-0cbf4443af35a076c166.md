@@ -1,14 +1,14 @@
 ---
-title: غل مچاتے بے ادب وہ کوفیان بد زبان
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "غل مچاتے بے ادب وہ کوفیان بد زبان"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Nadeem Sarwar"
 tags: []
 aliases: []
 published: false
-alternateTitle: Aey Kufio Nadeem Sarwar
+alternateTitle: "Aey Kufio Nadeem Sarwar"
 romanLyrics: 'Gul Machatay Be Adab Woh Kofiyan-e-Bad Zabaan.
 
   Wehshaton Ke Dairay Mein Thin Ali Ki Betiyaan.

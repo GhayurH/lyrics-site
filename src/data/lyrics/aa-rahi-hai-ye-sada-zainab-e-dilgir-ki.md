@@ -1,11 +1,11 @@
 ---
-title: آ رہی ہے یہ صدا زینبِؑ دلگیرؑ کی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آ رہی ہے یہ صدا زینبِؑ دلگیرؑ کی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gulzaar Jafri"
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false

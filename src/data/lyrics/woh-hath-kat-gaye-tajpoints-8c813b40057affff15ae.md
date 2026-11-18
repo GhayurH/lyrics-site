@@ -1,14 +1,14 @@
 ---
-title: غربت میں تھے جو شاہ کی بہنوں کا آسرا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Takallum
+title: "غربت میں تھے جو شاہ کی بہنوں کا آسرا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Woh Hath Kat Gaye
+alternateTitle: "Woh Hath Kat Gaye"
 romanLyrics: 'Ghurbat Mein They Jo Shah Ki Behno Ka Aasra.
 
   Pehra Sada Jo Detey They Zahra Ki Aal Ka.

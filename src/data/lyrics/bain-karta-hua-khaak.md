@@ -1,10 +1,10 @@
 ---
-title: بین کرتا ہوا خاک اڑاتا ہوا
-alternateTitle: Bain Karta Hua Khaak
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بین کرتا ہوا خاک اڑاتا ہوا"
+alternateTitle: "Bain Karta Hua Khaak"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Nasir Asghar Party (SM)"
 tags: []

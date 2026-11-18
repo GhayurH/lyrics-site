@@ -57,7 +57,7 @@ romanLyrics: |-
   Haaye Danish mere Maula ki gharibi ka samaaṅ
   Laasha-e-Shaah pe kehta tha ye beta Rehan
   Dard ab aur bhi hai Baba uthaana mujh ko
-reciter: Mir Rehan Abbas
+reciter: "Mir Rehan Abbas"
 # source_id: nohayonline:6d2d73dee210f3bbd475
 # source_url: https://www.nohayonline.com/details_content.php?id=1386
 # raw_sha256: b68561e680b849657386567d2e5963eb82ecd3cd60358a5dbb220d79483aa104

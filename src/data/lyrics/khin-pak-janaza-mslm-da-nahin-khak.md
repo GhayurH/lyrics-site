@@ -5,7 +5,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Haji Muhammad Iqbal (Waa Hijab)"
-tags: [noRoman]
+tags: ["noRoman"]
 aliases: []
 published: false
 # romanLyrics omitted: source supplied the exact Roman track of an unrelated Hajj/Kaba poem.

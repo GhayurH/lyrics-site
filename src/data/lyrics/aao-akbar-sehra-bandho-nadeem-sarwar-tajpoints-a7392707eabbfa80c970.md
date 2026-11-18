@@ -1,14 +1,14 @@
 ---
-title: آؤ اکبرؑ سہرا باندھو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Rehan
+title: "آؤ اکبرؑ سہرا باندھو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Rehan"
 tags: []
 aliases: []
 published: false
-alternateTitle: Aao Akbar Sehra Bandho Nadeem Sarwar
+alternateTitle: "Aao Akbar Sehra Bandho Nadeem Sarwar"
 romanLyrics: 'Aao Akbar Sehra Bandho Nadeem Sarwar.
 
   Koi Masnad La Ke Bichawo Koi Aanchal Sar Pe Chawo.
@@ -89,7 +89,7 @@ romanLyrics: 'Aao Akbar Sehra Bandho Nadeem Sarwar.
   Woh Baat Tujhe Karna Hai Raqam Gham Ahl-e-Azza Ka Jis Se Ho Kam.
 
   Akbar Ka Sehra Sunawo Khud Tarpo Our Tarpawo.'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: tajpoints:a7392707eabbfa80c970
 # source_url: https://tajpoints.com/2023/01/aao-akbar-sehra-bandho-nadeem-sarwar.html
 # raw_sha256: 894f1889d2773cc9aa04556630ff5d4b0277f68863e5a5ec59cdf4deac83e772

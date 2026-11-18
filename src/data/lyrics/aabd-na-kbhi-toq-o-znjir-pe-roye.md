@@ -1,9 +1,9 @@
 ---
-title: عابدؑ نہ کبھی طوق و زنجیر پہ روئے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عابدؑ نہ کبھی طوق و زنجیر پہ روئے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Qamar Abbas"
 tags: []
 aliases: []

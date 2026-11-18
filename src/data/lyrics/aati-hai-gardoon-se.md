@@ -1,10 +1,10 @@
 ---
-title: آتی ہے گردوں سے یہ پیہم صدا
-alternateTitle: Aati Hai Garduṅ Se
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آتی ہے گردوں سے یہ پیہم صدا"
+alternateTitle: "Aati Hai Garduṅ Se"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
 tags: []

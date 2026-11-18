@@ -1,10 +1,10 @@
 ---
-title: اُٹھّو سکینہ اُٹھّو جاتا ہے کارواں
-alternateTitle: Utho Sakina Utho
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اُٹھّو سکینہ اُٹھّو جاتا ہے کارواں"
+alternateTitle: "Utho Sakina Utho"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Irfan"
 reciter: "Nasir Zaidi"
 tags: []

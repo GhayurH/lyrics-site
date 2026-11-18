@@ -1,10 +1,10 @@
 ---
-title: لوگوں میرے حسین کو دیکھا ہے تم نے کیا
-alternateTitle: Zuljanah
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لوگوں میرے حسین کو دیکھا ہے تم نے کیا"
+alternateTitle: "Zuljanah"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
@@ -93,7 +93,7 @@ romanLyrics: 'Zuljanah zuljanah
   Bichda hai yu hussain se
 
   Ab tak nahi mila'
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:9a76de33c98b9f663107
 # source_url: https://www.nohayonline.com/details_content.php?id=351
 # raw_sha256: ebd4045f86c72816e84fc5ac6979bccd9bde32e7e9dbcf5adc6da05fc2ad59bb

@@ -1,9 +1,9 @@
 ---
-title: بولے پدر سے اکبرؑ برچھی نہ کھنیچنا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بولے پدر سے اکبرؑ برچھی نہ کھنیچنا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []

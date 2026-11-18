@@ -1,11 +1,11 @@
 ---
-title: عباسؑ کے پرچم کو ہوا چوم رہی ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عباسؑ کے پرچم کو ہوا چوم رہی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Jawad Jaffri"
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false

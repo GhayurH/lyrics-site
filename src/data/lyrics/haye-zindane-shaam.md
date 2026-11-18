@@ -1,10 +1,10 @@
 ---
-title: میری تو آس میرے سینے میں مر جاتی ہے
-alternateTitle: Haaye Zindaan-e-Shaam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میری تو آس میرے سینے میں مر جاتی ہے"
+alternateTitle: "Haaye Zindaan-e-Shaam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

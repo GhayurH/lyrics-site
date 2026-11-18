@@ -1,9 +1,9 @@
 ---
-title: گھر سے جب بہرِ سفر سیدِ عالم نکلے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "گھر سے جب بہرِ سفر سیدِ عالم نکلے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Nawab Ali Mounis"
 tags: []
 aliases: []

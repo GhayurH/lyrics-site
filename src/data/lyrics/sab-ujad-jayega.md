@@ -1,10 +1,10 @@
 ---
-title: سب اجڑ جائے گا زہرا کا مکاں
-alternateTitle: Sab Ujad Jayega
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سب اجڑ جائے گا زہرا کا مکاں"
+alternateTitle: "Sab Ujad Jayega"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
 tags: []

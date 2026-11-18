@@ -1,14 +1,14 @@
 ---
-title: سلام علی اکبر سلام علی اکبر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Sajjad
+title: "سلام علی اکبر سلام علی اکبر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Sajjad"
 tags: []
 aliases: []
 published: false
-alternateTitle: Jawani Ali Akbar Ke Naam Mir Sajjad Mir Lyrics Urud 2025
+alternateTitle: "Jawani Ali Akbar Ke Naam Mir Sajjad Mir Lyrics Urud 2025"
 romanLyrics: 'Jawani Ali Akbar Ke Naam Mir Sajjad Mir.
 
   Aye Ali Akbar Salam.

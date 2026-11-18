@@ -1,9 +1,9 @@
 ---
-title: چل گئی تیغ حیدرؑ کے سر پر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "چل گئی تیغ حیدرؑ کے سر پر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

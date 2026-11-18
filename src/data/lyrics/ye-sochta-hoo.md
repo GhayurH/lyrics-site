@@ -1,10 +1,10 @@
 ---
-title: یہ سوچتا ہوں کہ عابد کا حال کیا ہوگا
-alternateTitle: Ye Sochta Huṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "یہ سوچتا ہوں کہ عابد کا حال کیا ہوگا"
+alternateTitle: "Ye Sochta Huṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 poet: "Zakir Nawab Arif"
 reciter: "Fateh Ali Khan"
 tags: []

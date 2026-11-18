@@ -1,9 +1,9 @@
 ---
-title: زینبؑ نے ہلا کر شانہ کہا اے سیّدِ سجاد اٹھو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زینبؑ نے ہلا کر شانہ کہا اے سیّدِ سجاد اٹھو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees Pehersari"
 tags: []
 aliases: []

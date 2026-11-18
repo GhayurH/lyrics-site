@@ -1,10 +1,10 @@
 ---
-title: روک نہ تو رہوار
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+title: "روک نہ تو رہوار"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

@@ -9,7 +9,7 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: true
-reciter: Mir Hasan Mir
+reciter: "Mir Hasan Mir"
 romanLyrics: |-
   Karbala waloṅ
   Tumhaara gham rahe zinda hamesha Karbala waloṅ

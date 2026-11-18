@@ -1,14 +1,14 @@
 ---
-title: شاہ جب لاشہء بے شیر کو ہاتھوں پہ لیےء
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شاہ جب لاشہء بے شیر کو ہاتھوں پہ لیےء"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zeeshan Abidi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Shahadat E Shahzada Ali Asghar Raza Abbas Lyrics 2023
+alternateTitle: "Shahadat E Shahzada Ali Asghar Raza Abbas Lyrics 2023"
 romanLyrics: 'Shahadat e Shahzada Ali Asghar Syed Raza Abbas Zaidi.
 
 

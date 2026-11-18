@@ -1,10 +1,10 @@
 ---
-title: حُسین سب تیری قُربانیوں کا صدقہ ہے
-alternateTitle: Husain Sab Teri
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "حُسین سب تیری قُربانیوں کا صدقہ ہے"
+alternateTitle: "Husain Sab Teri"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 tags: []
 aliases: []
 published: true
@@ -47,7 +47,7 @@ romanLyrics: |-
   9
   Na lut chaadar-e-Zainab na chhin sar se rida
   Ye bint-e-Zehra hai zaalim ye bint-e-Zehra hai
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 # source_id: nohayonline:2e73ac654cac4de2aa1e
 # source_url: https://www.nohayonline.com/details_content.php?id=542
 # raw_sha256: d32f37722d28cc98ca0755924a0057de90594bd16ac877df93b5f0e1c00ee3bd

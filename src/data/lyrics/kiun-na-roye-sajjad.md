@@ -1,9 +1,9 @@
 ---
-title: کیوں نہ روئے سجادؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کیوں نہ روئے سجادؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []

@@ -1,14 +1,14 @@
 ---
-title: چلیےء مدینہ اے پھوپھی چلیےء مدینہ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "چلیےء مدینہ اے پھوپھی چلیےء مدینہ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Chaliyeh Madina Nadeem Sarwar
+alternateTitle: "Chaliyeh Madina Nadeem Sarwar"
 romanLyrics: 'Chaliyeh Madina Nadeem Sarwar Lyrics
 
   Chaliye Madina Aye Phophi Chaliye Madina.
@@ -86,7 +86,7 @@ romanLyrics: 'Chaliyeh Madina Nadeem Sarwar Lyrics
   Aap Pe Sadqay Mein Hoon Phophi Jan.
 
   Hukam-e-Imamat Ab Hai Nibhana.'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: tajpoints:3458e6062e6cfb0080e6
 # source_url: https://tajpoints.com/2022/12/chaliyeh-madina-nadeem-sarwar-lyrics-in.html
 # raw_sha256: 89774b5383fa9908d3c0bc6b48fd7ee4431a422d1e37d830567b66816c5f92dc

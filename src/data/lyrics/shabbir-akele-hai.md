@@ -1,10 +1,10 @@
 ---
-title: شبیر اکیلے ہیں کمر ٹوٹ چکی ہے
-alternateTitle: Shabbir Akele Haiṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شبیر اکیلے ہیں کمر ٹوٹ چکی ہے"
+alternateTitle: "Shabbir Akele Haiṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Baba Nisaar Haideri"
 tags: []
 aliases: ["Shabbir Akele Hai"]
@@ -48,7 +48,7 @@ romanLyrics: |-
   9
   Ye taaziyadaari hai mohabbat ki alaamat
   Aansuṅ na Nisaar aaeṅ to ye sangdili hai
-reciter: Rizwan Zaidi
+reciter: "Rizwan Zaidi"
 # source_id: nohayonline:de2798ebd9986fbe601a
 # source_url: https://www.nohayonline.com/details_content.php?id=898
 # raw_sha256: 1ccdc1ae6ee7b22cdd8187f39f9608f94b45792a44537f3f6dcedee9257227c1

@@ -1,10 +1,10 @@
 ---
-title: سُن لو اپنی بیٹی کے آخری بیاں بابا
-alternateTitle: Sun Lo Apni Beti Ke
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سُن لو اپنی بیٹی کے آخری بیاں بابا"
+alternateTitle: "Sun Lo Apni Beti Ke"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Meer Nazir Baqari"
 reciter: "Mirza Sikander Ali"
 tags: []

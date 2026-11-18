@@ -1,14 +1,14 @@
 ---
-title: بیان کرتا ہوں زنداں میں کیا قیامت تھی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بیان کرتا ہوں زنداں میں کیا قیامت تھی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zeeshan Abidi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Tadfeen Shahzadi Sakina Syed Raza Abbas Lyrics 2021
+alternateTitle: "Tadfeen Shahzadi Sakina Syed Raza Abbas Lyrics 2021"
 romanLyrics: 'Tadfeen Shahzadi Sakina Syed Raza Abbas Zaidi
 
 

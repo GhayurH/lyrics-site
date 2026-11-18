@@ -1,10 +1,10 @@
 ---
 title: "سائے میں سیدہ کے عزادار رہیں گے"
 alternateTitle: "Saaye Mein Sayyeda Ke Azaadaar Raheṅge"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

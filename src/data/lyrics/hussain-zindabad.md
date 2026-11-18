@@ -1,10 +1,10 @@
 ---
-title: سنو حسینیوں سنو حسینیوں
-alternateTitle: Husain Zindaabaad
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سنو حسینیوں سنو حسینیوں"
+alternateTitle: "Husain Zindaabaad"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -79,7 +79,7 @@ romanLyrics: |-
   Use khud apni zindagi ka aetbaar mil gaya
   Nafas nafas use Khuda hazaar baar mil gaya
   Salaam ya Husain ka jise jawaab mil gaya
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:46c25d63d246c0c26c14
 # source_url: https://www.nohayonline.com/details_content.php?id=2045
 # raw_sha256: 0e5c0f67fdb4df3d2feeb42feb89c447cfdf70b746845469f9b29c77a9435447

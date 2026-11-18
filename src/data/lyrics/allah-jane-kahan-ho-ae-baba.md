@@ -1,10 +1,10 @@
 ---
-title: اللہ جانے کہاں ہو اے بابا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+title: "اللہ جانے کہاں ہو اے بابا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

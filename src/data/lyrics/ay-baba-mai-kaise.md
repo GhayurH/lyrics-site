@@ -1,10 +1,10 @@
 ---
-title: بابا بابا بابا میرے بابا
-alternateTitle: Ae Baba Main Kaise
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بابا بابا بابا میرے بابا"
+alternateTitle: "Ae Baba Main Kaise"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
 tags: []

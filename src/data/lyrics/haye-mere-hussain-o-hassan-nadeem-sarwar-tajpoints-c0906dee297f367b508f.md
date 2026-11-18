@@ -1,14 +1,14 @@
 ---
-title: ہائے میرے حسنؑ و حسینؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے میرے حسنؑ و حسینؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Haye Mere Hussain O Hassan Nadeem Sarwar
+alternateTitle: "Haye Mere Hussain O Hassan Nadeem Sarwar"
 romanLyrics: 'Haye Mere Hussain o Hassan Nadeem Sarwar.
 
   Qaid Se Chut Ke Aayi Watan.

@@ -1,10 +1,10 @@
 ---
-title: بازارِ شام آ گیا
-alternateTitle: Bazaar-e-Shaam Aa Gaya
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بازارِ شام آ گیا"
+alternateTitle: "Bazaar-e-Shaam Aa Gaya"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Yawar Abbas"
 tags: []
 aliases: []
@@ -50,7 +50,7 @@ romanLyrics: |-
   Nok-e-sinaaṅ ko dekh kar Yawar ye keh rahi thi maaṅ
   Aa dekh tu bhi naujawaaṅ maadar ka apni imtihaaṅ
   Aankheiṅ na band kar ghairat ke aasmaaṅ
-reciter: Shahid Baltistani
+reciter: "Shahid Baltistani"
 # source_id: nohayonline:80489f54c3b652ea5c74
 # source_url: https://www.nohayonline.com/details_content.php?id=123
 # raw_sha256: 57620901672ddffb29b10b2343dbdca688c73b5ccc63815784523c50f5d65cf7

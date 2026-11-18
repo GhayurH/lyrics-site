@@ -1,10 +1,10 @@
 ---
-title: اک لاشہ اٹھا ہے زنجیر بندھے ہاتھوں سے
-alternateTitle: Zanjeer Bandhe Haaton
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اک لاشہ اٹھا ہے زنجیر بندھے ہاتھوں سے"
+alternateTitle: "Zanjeer Bandhe Haaton"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Salamat Feroz"
 reciter: "Nasir Asghar Party (SM)"
 tags: []

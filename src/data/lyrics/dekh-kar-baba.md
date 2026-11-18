@@ -1,10 +1,10 @@
 ---
-title: دیکھ کر بابا کا لاشہ ایک بیٹا رو دیا
-alternateTitle: Dekh Kar Baba
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "دیکھ کر بابا کا لاشہ ایک بیٹا رو دیا"
+alternateTitle: "Dekh Kar Baba"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Afzal Mirza"
 tags: []

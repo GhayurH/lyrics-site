@@ -1,10 +1,10 @@
 ---
-title: ہائے وہ جوان لاشہ وہ بڑھاپہ حسین کا
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-tags: []
+title: "ہائے وہ جوان لاشہ وہ بڑھاپہ حسین کا"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1d12cbfa0242b146ff8c

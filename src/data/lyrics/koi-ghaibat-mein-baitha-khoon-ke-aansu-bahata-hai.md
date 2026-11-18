@@ -1,11 +1,11 @@
 ---
-title: کوئی غَيبت ميں بيٹھا خون کے آنسو بہاتا ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کوئی غَيبت ميں بيٹھا خون کے آنسو بہاتا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Madad Ali John"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

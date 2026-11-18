@@ -1,14 +1,14 @@
 ---
-title: اے میرے بھائی رضا میں ثانیئے زینب ہوں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے میرے بھائی رضا میں ثانیئے زینب ہوں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Aye Mere Bhai Raza
+alternateTitle: "Aye Mere Bhai Raza"
 romanLyrics: |-
   Ae mere bhai Raza maiṅ Sani-e-Zainab huṅ
   Tu Sani-e-Husain ae Gharib-ul-Ghuraba

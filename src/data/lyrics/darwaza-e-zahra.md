@@ -1,7 +1,7 @@
 ---
 title: "دروازۂ زہرا سے عطا ہوتی رہے گی"
 alternateTitle: "Darwaaza-e-Zahra Se Ata Hoti Rahe Gi"
-recitationId: darwaza-e-zahra-mesum-abbas
+recitationId: "darwaza-e-zahra-mesum-abbas"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

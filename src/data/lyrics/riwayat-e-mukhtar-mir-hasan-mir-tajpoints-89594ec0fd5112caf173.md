@@ -1,14 +1,14 @@
 ---
-title: اے رونے والوں ہے یہ روایات میں لکھا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے رونے والوں ہے یہ روایات میں لکھا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Riwayat-e-Mukhtar Mir Hasan Mir
+alternateTitle: "Riwayat-e-Mukhtar Mir Hasan Mir"
 romanLyrics: 'Riwayat-e-Mukhtar Mir Hasan Mir.
 
 

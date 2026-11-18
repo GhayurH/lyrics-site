@@ -1,11 +1,11 @@
 ---
-title: تیرے عباسؑ کے پرچم کو سلامی دیں گے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تیرے عباسؑ کے پرچم کو سلامی دیں گے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Irfan"
-reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
+reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 tags: []
 aliases: []
 published: false

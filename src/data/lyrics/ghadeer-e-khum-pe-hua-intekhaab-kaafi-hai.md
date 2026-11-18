@@ -2,10 +2,10 @@
 title: "غدیرِ خم پہ ہوا انتخاب کافی ہے"
 alternateTitle: "Ghadir-e-Khum Pe Hua Intekhaab Kaafi Hai"
 recitationId: "ghadeer-e-khum-pe-howa-intehab-kafi-hai-ammar-yasir-magsi"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Manqabat
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Manqabat"
 poet: "Ammar Yasir Magsi"
 tags: []
 aliases: ["ghadeer-e-khum-pe-howa-intehab-kafi-hai-ammar-yasir-magsi"]

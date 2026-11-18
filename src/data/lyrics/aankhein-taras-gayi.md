@@ -1,10 +1,10 @@
 ---
-title: آنکھیں ترس گئیں ہیں اکبر کے دیکھنے کو
-alternateTitle: Aankheṅ Taras Gayiṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آنکھیں ترس گئیں ہیں اکبر کے دیکھنے کو"
+alternateTitle: "Aankheṅ Taras Gayiṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees Pehersari"
 tags: []
 aliases: []

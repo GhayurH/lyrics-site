@@ -1,9 +1,9 @@
 ---
-title: کرتے تھے سرورؑ بکا ہائے کمر جھک گئی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کرتے تھے سرورؑ بکا ہائے کمر جھک گئی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees Pehersari"
 tags: []
 aliases: []

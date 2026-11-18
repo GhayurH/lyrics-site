@@ -1,9 +1,9 @@
 ---
-title: اے دلبران جعفر طیارؑ الوداع الوداع
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے دلبران جعفر طیارؑ الوداع الوداع"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zameer Akhtar"
 tags: []
 aliases: []

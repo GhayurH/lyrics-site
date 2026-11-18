@@ -4,7 +4,7 @@ alternateTitle: "Guzar Gaye The"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: Salam
+kalamType: "Salam"
 poet: "Mir Anees"
 reciter: "Sibte Jafar"
 tags: []

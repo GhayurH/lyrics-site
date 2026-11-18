@@ -1,10 +1,10 @@
 ---
-title: مدینہ لٹ گیا وہ وقت آیا یا رسول اللّٰہ
-alternateTitle: Madina Lut Gaya Wo
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مدینہ لٹ گیا وہ وقت آیا یا رسول اللّٰہ"
+alternateTitle: "Madina Lut Gaya Wo"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
 tags: []

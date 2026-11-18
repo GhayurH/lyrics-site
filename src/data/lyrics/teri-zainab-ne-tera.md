@@ -1,10 +1,10 @@
 ---
-title: تیری زینب نے تیرا دین بچایا نانا
-alternateTitle: Teri Zainab Ne Tera
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تیری زینب نے تیرا دین بچایا نانا"
+alternateTitle: "Teri Zainab Ne Tera"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: true

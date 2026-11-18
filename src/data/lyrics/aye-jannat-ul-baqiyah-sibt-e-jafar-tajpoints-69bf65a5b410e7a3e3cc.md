@@ -1,10 +1,10 @@
 ---
-title: Aye Jannat Ul Baqiyah Sibt E Jafar
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Other
-tags: []
+title: "Aye Jannat Ul Baqiyah Sibt E Jafar"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b9d6b23c0d673738ed9a

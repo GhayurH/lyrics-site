@@ -1,14 +1,14 @@
 ---
-title: سمجھکے زہرا ستایا گیا سکینہ کو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Akbar
+title: "سمجھکے زہرا ستایا گیا سکینہ کو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Akbar"
 tags: []
 aliases: []
 published: false
-alternateTitle: Qaid Khane Se Sakina Ki Yeh Aati Thi Lyrics 2017
+alternateTitle: "Qaid Khane Se Sakina Ki Yeh Aati Thi Lyrics 2017"
 romanLyrics: 'Qaid Khane Se Sakina Ki Yeh Aati Thi Write Up
 
   Pasliyaan Toot Gayin Meri Bhi Dadi Ki Tarha Mir Hasan Mir.

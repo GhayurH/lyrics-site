@@ -1,14 +1,14 @@
 ---
-title: دربار میں یہ کہتی تھی زہرا کی لاڈلی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "دربار میں یہ کہتی تھی زہرا کی لاڈلی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Darbar Mein Ye Kehti Thi Mir Hasan Mir
+alternateTitle: "Darbar Mein Ye Kehti Thi Mir Hasan Mir"
 romanLyrics: 'Darbar Mein Ye Kehti Thi Mir Hasan Mir.
 
   Darbar Mein Ye Kehti Thi Zahra Ki Ladli Mat Mar Tu Labon Pa Mere Bahi Ke Chari.

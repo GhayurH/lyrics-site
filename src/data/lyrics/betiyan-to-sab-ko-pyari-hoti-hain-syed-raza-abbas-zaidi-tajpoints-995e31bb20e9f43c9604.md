@@ -1,14 +1,14 @@
 ---
-title: زندان شام میں وہ قیامت کا وقت تھا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زندان شام میں وہ قیامت کا وقت تھا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zeeshan Abidi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Betiyan To Sab Ko Pyari Hoti Hain Syed Raza Abbas Zaidi
+alternateTitle: "Betiyan To Sab Ko Pyari Hoti Hain Syed Raza Abbas Zaidi"
 romanLyrics: 'Zindan-e-Sham Mein Woh Qayamat Ka Waqt Tha.
 
   Sonpa Gaya Sakina Ko Jab Sar Hussain Ka.

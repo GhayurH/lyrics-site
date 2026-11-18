@@ -1,14 +1,14 @@
 ---
-title: اُجڑ گیا ہے بتول کا گھر حسین چپ ہیں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Akbar
+title: "اُجڑ گیا ہے بتول کا گھر حسین چپ ہیں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Akbar"
 tags: []
 aliases: []
 published: false
-alternateTitle: Ujar Giya Hai Batool
+alternateTitle: "Ujar Giya Hai Batool"
 romanLyrics: 'Ya Hussain, Haaye Hussain
 
   Ya Ghareeb Imam, Ya Ghareeb Ya Hussain

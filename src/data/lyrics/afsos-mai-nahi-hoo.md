@@ -1,10 +1,10 @@
 ---
-title: خوابِ صغرا
-alternateTitle: Afsos Main Nahiṅ Huṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "خوابِ صغرا"
+alternateTitle: "Afsos Main Nahiṅ Huṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Samar Zaidi"
 reciter: "Raza Abbas Zaidi"
 tags: []

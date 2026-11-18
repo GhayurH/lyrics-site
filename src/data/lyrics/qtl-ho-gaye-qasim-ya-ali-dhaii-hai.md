@@ -1,9 +1,9 @@
 ---
-title: قتل ہو گئے قاسمؑ یا علیؑ دہائی ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "قتل ہو گئے قاسمؑ یا علیؑ دہائی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ali Rafi"
 tags: []
 aliases: []

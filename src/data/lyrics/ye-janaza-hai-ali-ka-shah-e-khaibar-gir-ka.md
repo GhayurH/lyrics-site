@@ -1,10 +1,10 @@
 ---
-title: یہ جنازہ ہے علیؑ کا شاہِ خیبر گیر کا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+title: "یہ جنازہ ہے علیؑ کا شاہِ خیبر گیر کا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

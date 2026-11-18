@@ -1,9 +1,9 @@
 ---
-title: زینبؑ نے کہا یہ رورو کر دو حوصلہ بابازینبؑ کو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زینبؑ نے کہا یہ رورو کر دو حوصلہ بابازینبؑ کو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []

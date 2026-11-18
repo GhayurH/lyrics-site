@@ -1,10 +1,10 @@
 ---
-title: عصر کا وقت ہے اب کوئی بھی باقی نہ رہا
-alternateTitle: Husain Akela Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عصر کا وقت ہے اب کوئی بھی باقی نہ رہا"
+alternateTitle: "Husain Akela Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 tags: []
 aliases: []
@@ -78,7 +78,7 @@ romanLyrics: |-
   Baali pe Shimr hai khara
   Khanjar qarib aa gaya
   Gunji sadaa-e-Fatima
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:1975376dc0e96a1477db
 # source_url: https://www.nohayonline.com/details_content.php?id=1730
 # raw_sha256: 8231dc581312eac2d1a4499a3e8a00b72691f884e9544bbd9400d49bb5084b6c

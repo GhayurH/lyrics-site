@@ -1,9 +1,9 @@
 ---
-title: ؑہائے اکبرؑ میرے اکبر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ؑہائے اکبرؑ میرے اکبر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 tags: []
 aliases: []

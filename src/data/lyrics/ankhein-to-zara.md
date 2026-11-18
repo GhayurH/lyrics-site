@@ -1,10 +1,10 @@
 ---
-title: اٹھ جاؤ علی اصغر
-alternateTitle: Aankheiṅ To Zara
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اٹھ جاؤ علی اصغر"
+alternateTitle: "Aankheiṅ To Zara"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Raza Abbas Zaidi"
 poet: "Rehan Azmi"
 tags: []

@@ -1,14 +1,14 @@
 ---
-title: کاظم اٹھا رہے ہیں جعفر کا جنازہ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کاظم اٹھا رہے ہیں جعفر کا جنازہ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Salman Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Kazim Utha Rahe Hain Jafar Ka Janaza Mesum Abbas
+alternateTitle: "Kazim Utha Rahe Hain Jafar Ka Janaza Mesum Abbas"
 romanLyrics: 'Kazim utha rahe hai jafar ka janaza
 
   Haye hussain keh kar aansu baha rahe hai

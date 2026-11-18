@@ -1,10 +1,10 @@
 ---
-title: زینب نے کہا یہ رو رو کر میں قیدی ہوں
-alternateTitle: Zainab Ne Kaha Ye
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زینب نے کہا یہ رو رو کر میں قیدی ہوں"
+alternateTitle: "Zainab Ne Kaha Ye"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Ali Rizvi Sachey"
 tags: []

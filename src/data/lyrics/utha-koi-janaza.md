@@ -1,10 +1,10 @@
 ---
-title: اُٹھا کوئی جنازہ پھر سیدہ کے گھر سے
-alternateTitle: Utha Koi Janaza
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اُٹھا کوئی جنازہ پھر سیدہ کے گھر سے"
+alternateTitle: "Utha Koi Janaza"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Sachey Bhai"
 tags: []
 aliases: []

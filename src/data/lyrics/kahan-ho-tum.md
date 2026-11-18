@@ -1,10 +1,10 @@
 ---
-title: کہاں ہو تم میرے غازی ذرا چلے آنا
-alternateTitle: Kahan Ho Tum
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہاں ہو تم میرے غازی ذرا چلے آنا"
+alternateTitle: "Kahan Ho Tum"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Haider Khursheed"
 reciter: "Nasir Asghar Party (SM)"
 tags: []

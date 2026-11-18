@@ -1,10 +1,10 @@
 ---
-title: مومنو! حیدرِ کرار کا ماتم کر لو
-alternateTitle: Momino Haider-e-Karraar Ka Maatam Kar Lo
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مومنو! حیدرِ کرار کا ماتم کر لو"
+alternateTitle: "Momino Haider-e-Karraar Ka Maatam Kar Lo"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Fazal Elahi Jaffri"
 reciter: "Nadeem Sarwar; Jawad ul Hassan"
 tags: []

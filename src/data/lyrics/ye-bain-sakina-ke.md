@@ -1,10 +1,10 @@
 ---
-title: یہ بین سکینہ کے تھے بابا نہیں آئے
-alternateTitle: Ye Bain Sakina Ke
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ بین سکینہ کے تھے بابا نہیں آئے"
+alternateTitle: "Ye Bain Sakina Ke"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Urooj Bijnori"
 reciter: "Tableegh-e-Imamia; Mukhtar Husain"
 tags: []

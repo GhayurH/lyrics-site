@@ -1,14 +1,14 @@
 ---
-title: سنای کس نے یہ زنداں میں لوری
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Rehan
+title: "سنای کس نے یہ زنداں میں لوری"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Rehan"
 tags: []
 aliases: []
 published: false
-alternateTitle: Sunai Kis Ne Yeh Zindan Mein Lori Sakina So Rahi Hai
+alternateTitle: "Sunai Kis Ne Yeh Zindan Mein Lori Sakina So Rahi Hai"
 romanLyrics: 'Sunayi kis ne ye zindan mein lori
 
   Sakina so rahi hai

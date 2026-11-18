@@ -1,14 +1,14 @@
 ---
-title: اندھیرے بیاباں میں ایک یتیمہ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اندھیرے بیاباں میں ایک یتیمہ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Nadeem Sultanpuri"
 tags: []
 aliases: []
 published: false
-alternateTitle: Sakina Sakina Mesum Abbas
+alternateTitle: "Sakina Sakina Mesum Abbas"
 romanLyrics: 'Andhere bayaban mein ek yateema
 
   Chali dhoondne apne baba ko tanha

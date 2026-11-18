@@ -1,14 +1,14 @@
 ---
-title: میں پیاسا ہوں اماں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میں پیاسا ہوں اماں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Main Payasa Hoon Amma
+alternateTitle: "Main Payasa Hoon Amma"
 romanLyrics: 'Ya Qatile Jafaa, Ya Hussein-e-Shaheed
 
   Ya Hussein, Mawla Hussein

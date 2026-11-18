@@ -1,10 +1,10 @@
 ---
-title: کرتے ہیں ماتم حرم عباسؑ کا
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-tags: []
+title: "کرتے ہیں ماتم حرم عباسؑ کا"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8f140fe31c17a0ed845e

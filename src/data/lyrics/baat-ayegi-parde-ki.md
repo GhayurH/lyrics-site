@@ -1,10 +1,10 @@
 ---
-title: بات آئے پردے کی تو یاد آئے گی زینب
-alternateTitle: Baat Ayegi Parde Ki
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بات آئے پردے کی تو یاد آئے گی زینب"
+alternateTitle: "Baat Ayegi Parde Ki"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
 tags: []

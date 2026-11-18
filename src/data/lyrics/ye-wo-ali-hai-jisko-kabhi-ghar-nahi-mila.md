@@ -1,9 +1,9 @@
 ---
-title: یہ وہ علیؑ ہے جس کو کبھی گھر نہیں ملا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ وہ علیؑ ہے جس کو کبھی گھر نہیں ملا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
@@ -78,7 +78,7 @@ romanLyrics: 'Haey Asghar..........
   Lipta Hua Hai Abbhi Seene Se Baap Ke.....
 
   Ro Ro Ke Keh Rahi Hai Takallum Yeh Karbal....'
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:55d04c8223d48a3a4014
 # source_url: https://www.nohayonline.com/details_content.php?id=401
 # raw_sha256: fa6b326f4edd8b61df93e47e8ee2c7d2ab22c9f13496c9cdf3a03e9508ccd59e

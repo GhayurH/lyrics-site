@@ -1,10 +1,10 @@
 ---
-title: محمد ہمارے بڑی شان والے
-alternateTitle: Muhammad Hamare
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "محمد ہمارے بڑی شان والے"
+alternateTitle: "Muhammad Hamare"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: ["Mohamed Hamare", "صل علٰی نبیینا صلی علی محمدن"]
@@ -50,7 +50,7 @@ romanLyrics: |-
   Rehaan o Ali Ji azaadaar-e-Sarwar
   Ghulaamaan-e-Haidar ghulaam-e-Payambar
   Sada is sada se zamaana mila le
-reciter: Ali Shanawar
+reciter: "Ali Shanawar"
 # source_id: nohayonline:102264144e4d28e0fc5f
 # source_url: https://www.nohayonline.com/details_content.php?id=843
 # raw_sha256: 1b6da3b75dd14b3807e8ed70287b0b955e46528806e2d3beb8ba3c7f99284c8e

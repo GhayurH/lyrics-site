@@ -1,10 +1,10 @@
 ---
-title: ہائے عباس کیا کرے
-alternateTitle: Abbas Kya Kare
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے عباس کیا کرے"
+alternateTitle: "Abbas Kya Kare"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Qamar Hasnain"
 tags: []
 aliases: []

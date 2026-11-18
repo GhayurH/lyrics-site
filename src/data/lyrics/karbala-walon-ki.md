@@ -9,7 +9,7 @@ poet: "Gulzaar Jafri"
 tags: []
 aliases: []
 published: true
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 romanLyrics: |-
   Karbala waloṅ ki zindaaṅ se rihaai ho gayi
   Turbat-e-Baali Sakina se judaai ho gayi

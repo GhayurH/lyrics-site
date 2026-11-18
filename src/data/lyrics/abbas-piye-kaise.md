@@ -1,10 +1,10 @@
 ---
-title: عباس پیئے کیسے پانی عباس کا آقا پیاسا ہے
-alternateTitle: Abbas Piye Kaise
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عباس پیئے کیسے پانی عباس کا آقا پیاسا ہے"
+alternateTitle: "Abbas Piye Kaise"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anwar Zahir"
 reciter: "Shareef Hussain"
 tags: []

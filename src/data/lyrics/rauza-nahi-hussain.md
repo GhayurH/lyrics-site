@@ -1,10 +1,10 @@
 ---
-title: اے کاش اب کی بار میں جب جاؤں کربلا
-alternateTitle: Rauza Nahiṅ Husain
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے کاش اب کی بار میں جب جاؤں کربلا"
+alternateTitle: "Rauza Nahiṅ Husain"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
 tags: []

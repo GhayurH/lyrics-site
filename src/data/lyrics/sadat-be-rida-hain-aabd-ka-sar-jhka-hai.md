@@ -1,10 +1,10 @@
 ---
-title: سادات بے ردا ہیں عابدؑ کا سر جھکا ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Shahid Baltistani
+title: "سادات بے ردا ہیں عابدؑ کا سر جھکا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false

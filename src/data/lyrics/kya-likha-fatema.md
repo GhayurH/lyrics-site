@@ -1,10 +1,10 @@
 ---
-title: کیا لکھا فاطمہ صغریٰ نے بتایا نہ گیا
-alternateTitle: Kya Likha Fatema
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کیا لکھا فاطمہ صغریٰ نے بتایا نہ گیا"
+alternateTitle: "Kya Likha Fatema"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 tags: []
 aliases: []
@@ -43,7 +43,7 @@ romanLyrics: |-
   7
   Mir Sajjad Shah-e-diṅ se Ali Asghar ka
   Chehra jalti hui reti se chhupaaya na gaya
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:e11a43e95c5cf145157c
 # source_url: https://www.nohayonline.com/details_content.php?id=353
 # raw_sha256: 6a14628babb8abaeca1e1dbf3cee6cc6d03d1a36eb90d9b4f8c829eb4c8d1504

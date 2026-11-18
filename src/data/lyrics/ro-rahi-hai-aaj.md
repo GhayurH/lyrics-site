@@ -1,10 +1,10 @@
 ---
-title: رو رہی ہے آج تک شبیر خاک کربلا
-alternateTitle: Ro Rahi Hai Aaj
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "رو رہی ہے آج تک شبیر خاک کربلا"
+alternateTitle: "Ro Rahi Hai Aaj"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Afzal Hussain Najfi"
 reciter: "Hasan Sadiq"
 tags: []

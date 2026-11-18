@@ -1,10 +1,10 @@
 ---
-title: شام چلی میں شام چلی
-alternateTitle: Shaam Chali
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شام چلی میں شام چلی"
+alternateTitle: "Shaam Chali"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []

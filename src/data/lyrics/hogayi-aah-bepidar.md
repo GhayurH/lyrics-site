@@ -1,10 +1,10 @@
 ---
-title: ہو گئیں آہ بے پدر زینبؑ
-alternateTitle: Hogayi Aah Bepidar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہو گئیں آہ بے پدر زینبؑ"
+alternateTitle: "Hogayi Aah Bepidar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Sachey Bhai"
 tags: []
 aliases: []

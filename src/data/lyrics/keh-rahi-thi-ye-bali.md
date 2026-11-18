@@ -1,10 +1,10 @@
 ---
-title: کہہ رہی تھی یہ بالی سکینہ
-alternateTitle: Keh Rahi Thi Ye Baali
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہہ رہی تھی یہ بالی سکینہ"
+alternateTitle: "Keh Rahi Thi Ye Baali"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
 tags: []

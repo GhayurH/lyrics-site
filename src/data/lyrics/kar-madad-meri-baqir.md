@@ -1,10 +1,10 @@
 ---
-title: سکینہ مر گئی زندان میں جب یہ شور اُٹھا
-alternateTitle: Kar Madad Meri Baqir
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سکینہ مر گئی زندان میں جب یہ شور اُٹھا"
+alternateTitle: "Kar Madad Meri Baqir"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 tags: []
 aliases: []
@@ -50,7 +50,7 @@ romanLyrics: |-
   Taawiz-e-lahad ko band kiya Aabid ne ye keh kar Akbar
   Kehna ye haram se ae Baqir sab royeṅ yahaaṅ par aa kar
   Turbat pe chhirakne ki khaatir ab paani kahaaṅ se laauṅ maiṅ
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:d48c6e1689ffea0888ae
 # source_url: https://www.nohayonline.com/details_content.php?id=307
 # raw_sha256: 8020df2a56dc23d6f91fbb8d16e20d40b8ff75fecf25d2795e1f99c73f194621

@@ -1,10 +1,10 @@
 ---
-title: کرتی تھی بین رن میں رو رو کے ہائے زینب
-alternateTitle: Karti Thi Bain Ran
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کرتی تھی بین رن میں رو رو کے ہائے زینب"
+alternateTitle: "Karti Thi Bain Ran"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gohar Jarchvi"
 reciter: "Nasir Zaidi"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: بھولا ہے نہ بھولے گا تا حشر زمانہ
-alternateTitle: Bhula Hai Na
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بھولا ہے نہ بھولے گا تا حشر زمانہ"
+alternateTitle: "Bhula Hai Na"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mushtaq Hussain"
 reciter: "Hasan Sadiq"
 tags: []

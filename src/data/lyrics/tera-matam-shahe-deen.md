@@ -1,10 +1,10 @@
 ---
-title: تیرا غم زندہ ہے ابھی تک
-alternateTitle: Tera Maatam Shah-e-Diṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تیرا غم زندہ ہے ابھی تک"
+alternateTitle: "Tera Maatam Shah-e-Diṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: ["Tera Matam Shahe Deen"]
@@ -56,7 +56,7 @@ romanLyrics: |-
   Tera Mazhar din raat nauhe
   Likhta hai tere purse ki khaatir
   Deta hai wo bhi sadaaeṅ sogwaroṅ meiṅ
-reciter: Farhan Ali Waris
+reciter: "Farhan Ali Waris"
 # source_id: nohayonline:050bf018a4044af5602c
 # source_url: https://www.nohayonline.com/details_content.php?id=2230
 # raw_sha256: 95c540ab44d627bee0f9cddb6e3c18c748f401ba58407c12d9a067f2cace4269

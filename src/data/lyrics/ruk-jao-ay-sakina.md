@@ -8,7 +8,7 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: true
-reciter: Sachey Bhai
+reciter: "Sachey Bhai"
 romanLyrics: |-
   Tum se bichhar ke maaṅ mushkil bahut hai jina
   Maaṅ ko bhi saath le lo ruk jaao ae Sakina

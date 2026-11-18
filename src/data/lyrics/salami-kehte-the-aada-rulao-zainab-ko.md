@@ -1,9 +1,9 @@
 ---
-title: سلامی کہتے تھے اعداء رلائو زینبؑ کو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سلامی کہتے تھے اعداء رلائو زینبؑ کو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Anees"
 tags: []
 aliases: []

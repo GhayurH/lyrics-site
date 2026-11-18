@@ -1,10 +1,10 @@
 ---
-title: میرے لہو کے ہر قطرے میں
-alternateTitle: Gunj Rahi Hai Ya
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میرے لہو کے ہر قطرے میں"
+alternateTitle: "Gunj Rahi Hai Ya"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: ["Goonj Rahi Hai Ya"]
@@ -60,7 +60,7 @@ romanLyrics: |-
   As salaam ae maalik-e-Kausar
   As salaam ae jaan-e-Paighambar
   Kehte haiṅ Rehaan aur Sarwar
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:f285fdc10bd378ed32c2
 # source_url: https://www.nohayonline.com/details_content.php?id=371
 # raw_sha256: 2cc8ed093bba8750141c2391ff47a3af60301df85ffd5d96b529caced29ecde7

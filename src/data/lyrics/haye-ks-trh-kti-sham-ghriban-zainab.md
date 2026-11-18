@@ -1,9 +1,9 @@
 ---
-title: ہائے کس طرح کٹی شامِ غریباں زینبؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے کس طرح کٹی شامِ غریباں زینبؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

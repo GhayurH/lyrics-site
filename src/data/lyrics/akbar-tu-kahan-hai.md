@@ -1,10 +1,10 @@
 ---
-title: کہتی ہے سحر غم کی اکبر تو کہاں ہے
-alternateTitle: Akbar Tu Kahan Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہتی ہے سحر غم کی اکبر تو کہاں ہے"
+alternateTitle: "Akbar Tu Kahan Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []

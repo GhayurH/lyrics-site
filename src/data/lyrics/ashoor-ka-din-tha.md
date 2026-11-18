@@ -1,10 +1,10 @@
 ---
-title: مقتل میں تھا جب چاروں طرف موت کا پہرہ
-alternateTitle: Ashoor Ka Din Tha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مقتل میں تھا جب چاروں طرف موت کا پہرہ"
+alternateTitle: "Ashoor Ka Din Tha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
 tags: []

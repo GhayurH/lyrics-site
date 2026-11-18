@@ -1,10 +1,10 @@
 ---
-title: عزا جاری رہے گی
-alternateTitle: Shabbir Ki Aza Ka
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عزا جاری رہے گی"
+alternateTitle: "Shabbir Ki Aza Ka"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Nayyar Jalalpuri"
 reciter: "Ameer Hasan Aamir"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: کہتی تھی رو کر یہ ماں سینے میں دل ہے تپاں
-alternateTitle: Ho Ali Akbar Kahaaṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہتی تھی رو کر یہ ماں سینے میں دل ہے تپاں"
+alternateTitle: "Ho Ali Akbar Kahaaṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Musawwir"
 reciter: "Ali Zia Rizvi"
 tags: []

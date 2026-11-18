@@ -1,11 +1,11 @@
 ---
-title: تیری اُمت نے میرے دَر کو جلایا بابا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تیری اُمت نے میرے دَر کو جلایا بابا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mohsin Jaffri"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

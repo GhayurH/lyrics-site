@@ -1,10 +1,10 @@
 ---
-title: اکبر نے دی صدا سینے میں ہے نیزہ
-alternateTitle: Akbar Ne Di Sada
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اکبر نے دی صدا سینے میں ہے نیزہ"
+alternateTitle: "Akbar Ne Di Sada"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Farhan Ali Waris"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: عصمتِ کُل دربار میں آئیں اور قیامت کیا ہو گی
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-tags: []
+title: "عصمتِ کُل دربار میں آئیں اور قیامت کیا ہو گی"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:189a4f315c841df4f5da

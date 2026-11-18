@@ -1,14 +1,14 @@
 ---
-title: منہال نے اک دن آ کے کہا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "منہال نے اک دن آ کے کہا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Na Ro Maula Na Ro Maula
+alternateTitle: "Na Ro Maula Na Ro Maula"
 romanLyrics: 'Minhal Ne Ik Din Aa Ke Kaha.
 
   Aye Maula Mere Aye Zeen Al Aba.

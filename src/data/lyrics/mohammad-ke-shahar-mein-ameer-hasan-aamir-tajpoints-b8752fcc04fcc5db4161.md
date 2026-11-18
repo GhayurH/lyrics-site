@@ -1,14 +1,14 @@
 ---
-title: گھر کس کا جل رہا ہے محمد کے شہر میں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Aamir
+title: "گھر کس کا جل رہا ہے محمد کے شہر میں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Aamir"
 tags: []
 aliases: []
 published: false
-alternateTitle: Mohammad Ke Shahar Mein Ameer Hasan Aamir
+alternateTitle: "Mohammad Ke Shahar Mein Ameer Hasan Aamir"
 romanLyrics: 'Mohammad Ke Shahar Mein Ameer Hasan Aamir.
 
   Ghar Kis Ka Jal Raha Hai Muhammad Ke Shehar Mein.

@@ -1,9 +1,9 @@
 ---
-title: پکاری زینبؑ غریب رو رو یتیم کہتے ہیں لوگ ہم کو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پکاری زینبؑ غریب رو رو یتیم کہتے ہیں لوگ ہم کو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shaukath Bilgrami"
 tags: []
 aliases: []

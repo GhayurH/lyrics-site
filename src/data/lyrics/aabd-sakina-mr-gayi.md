@@ -1,11 +1,11 @@
 ---
-title: عابدؑ سکینہؑ مر گئی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عابدؑ سکینہؑ مر گئی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
-reciter: Anjuman Karwan-e-Aza (Irfan Haider)
+reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: []
 aliases: []
 published: false

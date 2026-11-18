@@ -1,11 +1,11 @@
 ---
-title: کیسی یہ شام آئی اولادِ سیدہؑ پر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کیسی یہ شام آئی اولادِ سیدہؑ پر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Yawar Yusufi"
-reciter: Anjuman Shabab-ul-Momineen (Nasir Asghar Party)
+reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 tags: []
 aliases: []
 published: false

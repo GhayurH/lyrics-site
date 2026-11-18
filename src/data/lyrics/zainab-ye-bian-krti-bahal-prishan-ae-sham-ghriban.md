@@ -1,9 +1,9 @@
 ---
-title: زینب یہ بیاں کرتی باحالِ پریشاں اے شامِ غریباں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زینب یہ بیاں کرتی باحالِ پریشاں اے شامِ غریباں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zafar"
 tags: []
 aliases: []

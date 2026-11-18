@@ -1,10 +1,10 @@
 ---
-title: آج بھی زینبؑ کی آتی ہے صدا بھائی حسینؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Meer Hasan Meer
+title: "آج بھی زینبؑ کی آتی ہے صدا بھائی حسینؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

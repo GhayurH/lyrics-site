@@ -1,10 +1,10 @@
 ---
-title: یہ میری لاڈلی ہائے سکینہ
-alternateTitle: Ye Meri Laadli
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ میری لاڈلی ہائے سکینہ"
+alternateTitle: "Ye Meri Laadli"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Raza Abbas Zaidi"
 tags: []

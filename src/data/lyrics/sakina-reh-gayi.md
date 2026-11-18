@@ -1,10 +1,10 @@
 ---
-title: جب اہلِ حرم نے شام کے زنداں سے رہائی پائی
-alternateTitle: Sakina Reh Gayi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جب اہلِ حرم نے شام کے زنداں سے رہائی پائی"
+alternateTitle: "Sakina Reh Gayi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
 tags: []

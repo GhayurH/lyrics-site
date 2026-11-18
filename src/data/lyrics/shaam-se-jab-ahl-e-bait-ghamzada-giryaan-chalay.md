@@ -11,7 +11,7 @@ tags: []
 aliases:
   - "Shaam Se Jab Ahl-E-Bait, Ghamzada Giryaan Chale"
 bastaPage: 264
-bastaNote: original-selection
+bastaNote: "original-selection"
 published: true
 # source_id: nohayonline:272e867ad13f759910de
 # source_url: https://www.nohayonline.com/details_content.php?id=2364

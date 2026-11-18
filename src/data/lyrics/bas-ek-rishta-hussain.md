@@ -1,10 +1,10 @@
 ---
-title: کشتیء دین خدا کا نا خدا حسین ہے
-alternateTitle: Bas Ek Rishta Husain
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کشتیء دین خدا کا نا خدا حسین ہے"
+alternateTitle: "Bas Ek Rishta Husain"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Majid Raza Abidi"
 reciter: "Shadman Raza"
 tags: []

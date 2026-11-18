@@ -1,9 +1,9 @@
 ---
-title: آرہے ہیں امام زمنؑ فاطمہؑ کا جنازہ لئے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آرہے ہیں امام زمنؑ فاطمہؑ کا جنازہ لئے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

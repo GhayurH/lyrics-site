@@ -1,13 +1,13 @@
 ---
-title: سر کٹ گیا جب دشت میں زہرہ کے پسر کا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سر کٹ گیا جب دشت میں زہرہ کے پسر کا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-alternateTitle: Abbas Kahan Ho Wajhi Hasan Zaidi
+alternateTitle: "Abbas Kahan Ho Wajhi Hasan Zaidi"
 romanLyrics: 'Sar Kat Gaya Jab Dasht Mein Zahra Ke Pisar Ka.
 
 

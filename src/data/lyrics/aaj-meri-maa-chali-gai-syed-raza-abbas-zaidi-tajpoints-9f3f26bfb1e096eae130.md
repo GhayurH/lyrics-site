@@ -1,14 +1,14 @@
 ---
-title: جب آے قبر میں دفنا کے فاطمہ کو علی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Raza
+title: "جب آے قبر میں دفنا کے فاطمہ کو علی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Raza"
 tags: []
 aliases: []
 published: false
-alternateTitle: Aaj Meri Maa Chali Gai Syed Raza Abbas Zaidi
+alternateTitle: "Aaj Meri Maa Chali Gai Syed Raza Abbas Zaidi"
 romanLyrics: 'Aaj Meri Maa Chali Gai Syed Raza Abbas Zaidi.
 
   Jab Aaye Qabar Mein Dafna Ke Fatima Ko Ali.

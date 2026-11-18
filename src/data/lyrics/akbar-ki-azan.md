@@ -1,10 +1,10 @@
 ---
 title: "شور تھا عاشور کو"
-alternateTitle: Akbar Ki Azan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+alternateTitle: "Akbar Ki Azan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: true

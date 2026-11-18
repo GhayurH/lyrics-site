@@ -1,14 +1,14 @@
 ---
-title: اے روزہ داروں خاک اُڑاو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Meesum
+title: "اے روزہ داروں خاک اُڑاو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Meesum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Aye Rozadaro Khaak Uraao Mesum Abbas
+alternateTitle: "Aye Rozadaro Khaak Uraao Mesum Abbas"
 romanLyrics: 'Aye Rozadaro Khaak Uraao Mesum Abbas.
 
   Taboot Uth Raha Hai Janab-e-Ameer Ka.

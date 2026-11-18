@@ -1,14 +1,14 @@
 ---
-title: میں اک غریب الوطن مسافر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میں اک غریب الوطن مسافر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Iftekhar Haider"
 tags: []
 aliases: []
 published: false
-alternateTitle: Banu Asad Kay Shareef Logo Main Ik Ghareeb-ul-Watan Musafir
+alternateTitle: "Banu Asad Kay Shareef Logo Main Ik Ghareeb-ul-Watan Musafir"
 romanLyrics: 'Banu Asad Kay Shareef Logo Main Ik Ghareeb-ul-Watan Musafir.
 
 

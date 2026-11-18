@@ -1,11 +1,11 @@
 ---
-title: اب بھی آتی ہیں سکینہؑ کی صدائیں لوگو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اب بھی آتی ہیں سکینہؑ کی صدائیں لوگو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Akhtar Hussain"
-reciter: Anjuman Shabab-ul-Momineen (Nasir Asghar Party)
+reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 tags: []
 aliases: []
 published: false

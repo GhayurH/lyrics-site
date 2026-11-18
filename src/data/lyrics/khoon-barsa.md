@@ -1,10 +1,10 @@
 ---
-title: خوں برسا خوں برسا
-alternateTitle: Khuṅ Barsa
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "خوں برسا خوں برسا"
+alternateTitle: "Khuṅ Barsa"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Ali Shanawar, Ali Ji"
 tags: []
 aliases: []

@@ -1,10 +1,10 @@
 ---
-title: شام والوں نہ ستاؤ
-alternateTitle: Shaam Walo Na Satao
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شام والوں نہ ستاؤ"
+alternateTitle: "Shaam Walo Na Satao"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
 tags: []

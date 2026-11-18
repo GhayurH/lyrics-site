@@ -1,10 +1,10 @@
 ---
-title: ہم عزادار حسین ابنِ علی
-alternateTitle: Hum Azaadaar-e-Husain
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہم عزادار حسین ابنِ علی"
+alternateTitle: "Hum Azaadaar-e-Husain"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Faheem"
 reciter: "Anj. Masoomeen"
 tags: []

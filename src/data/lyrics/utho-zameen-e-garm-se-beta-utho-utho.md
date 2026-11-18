@@ -1,9 +1,9 @@
 ---
-title: اٹھو زمینِ گرم سے بیٹا اٹھو اٹھو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اٹھو زمینِ گرم سے بیٹا اٹھو اٹھو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ali Jaweed Maqsood"
 tags: []
 aliases: []

@@ -1,10 +1,10 @@
 ---
-title: کہا سکینہؑ نے زینبؑ سے یہ بتاؤ پھپھی
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-tags: []
+title: "کہا سکینہؑ نے زینبؑ سے یہ بتاؤ پھپھی"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8856a506d5ad286aa911

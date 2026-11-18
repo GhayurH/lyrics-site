@@ -1,10 +1,10 @@
 ---
-title: ذوالجناح ذوالجناح
-alternateTitle: Zuljana Mere Baba
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ذوالجناح ذوالجناح"
+alternateTitle: "Zuljana Mere Baba"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zulfiqar Ahmed"
 reciter: "Jawad ul Hasan"
 tags: []

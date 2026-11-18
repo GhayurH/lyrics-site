@@ -1,9 +1,9 @@
 ---
-title: الوداع اے تشنہ گانِ کربلا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "الوداع اے تشنہ گانِ کربلا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

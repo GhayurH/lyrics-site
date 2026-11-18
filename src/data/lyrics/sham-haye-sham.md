@@ -1,10 +1,10 @@
 ---
-title: شام ہائے شام
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Anjuman Shabab-ul-Momineen (Nazim Party)
+title: "شام ہائے شام"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false

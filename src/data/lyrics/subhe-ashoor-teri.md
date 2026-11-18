@@ -1,10 +1,10 @@
 ---
-title: صبحِ عاشور علی اکبر تیری اذاں
-alternateTitle: Subh-e-Ashur Teri
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "صبحِ عاشور علی اکبر تیری اذاں"
+alternateTitle: "Subh-e-Ashur Teri"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -55,7 +55,7 @@ romanLyrics: |-
   Ayaaṅ tha jab Rehaan o Sarwar
   Kaleja thaam ke khaime meiṅ royi maaṅ
   Royi maaṅ teri azaaṅ
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:ed0f6b31bc8731c46dea
 # source_url: https://www.nohayonline.com/details_content.php?id=3317
 # raw_sha256: 244ae45923aaed499b174be5d7ff41f7a7e603592fc44a92fe7f25e69b8aa965

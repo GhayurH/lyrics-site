@@ -1,10 +1,10 @@
 ---
-title: شام کے زندان میں یہ غل ہوا
-alternateTitle: Shaam Ke Zindaan Meiṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شام کے زندان میں یہ غل ہوا"
+alternateTitle: "Shaam Ke Zindaan Meiṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Dilawar Hasan"
 tags: []

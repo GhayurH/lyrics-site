@@ -1,10 +1,10 @@
 ---
-title: الوداع اے حسین اے حسین الوداع
-alternateTitle: Alwida Ay Hussain
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "الوداع اے حسین اے حسین الوداع"
+alternateTitle: "Alwida Ay Hussain"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

@@ -1,11 +1,11 @@
 ---
-title: قبر اصغرؑ کی بنانے میں بہت دیر لگی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "قبر اصغرؑ کی بنانے میں بہت دیر لگی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

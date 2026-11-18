@@ -1,10 +1,10 @@
 ---
-title: یا حسن ہائے حسن عسکری
-alternateTitle: Ya Imam-e-Askari
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یا حسن ہائے حسن عسکری"
+alternateTitle: "Ya Imam-e-Askari"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
 tags: []

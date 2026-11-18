@@ -1,11 +1,11 @@
 ---
-title: بہن یہ غازی کی رو رو کے بین کرتی ہے
-alternateTitle: Behan Ye Ghazi Ki
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Nasir Asghar Party (SM)
+title: "بہن یہ غازی کی رو رو کے بین کرتی ہے"
+alternateTitle: "Behan Ye Ghazi Ki"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Nasir Asghar Party (SM)"
 tags: []
 aliases: []
 published: true

@@ -1,9 +1,9 @@
 ---
-title: اکبرِؑ جواں ابھی تیرے مرنے کے دن نہ تھے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اکبرِؑ جواں ابھی تیرے مرنے کے دن نہ تھے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Raza"
 tags: []
 aliases: []

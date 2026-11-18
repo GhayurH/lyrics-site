@@ -1,11 +1,11 @@
 ---
-title: اُٹھی بھین سکینہؑ وطن جلوں میں شام دی قید نبھائی وینداں
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-reciter: Syed Raza Abbas Shah
-tags: []
+title: "اُٹھی بھین سکینہؑ وطن جلوں میں شام دی قید نبھائی وینداں"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+reciter: "Syed Raza Abbas Shah"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:08bf4c70d987fe226cda

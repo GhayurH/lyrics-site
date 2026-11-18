@@ -1,10 +1,10 @@
 ---
-title: لاشہ جری کا خیمے میں لایا نہ جا سکا
-alternateTitle: Laasha Jari Ka
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لاشہ جری کا خیمے میں لایا نہ جا سکا"
+alternateTitle: "Laasha Jari Ka"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Samar Zaidi"
 reciter: "Raza Abbas Zaidi"
 tags: []

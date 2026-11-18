@@ -1,10 +1,10 @@
 ---
-title: انا للہ انا للہ
-alternateTitle: Sakina Ka Laasha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "انا للہ انا للہ"
+alternateTitle: "Sakina Ka Laasha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
 tags: []

@@ -1,14 +1,14 @@
 ---
-title: اصغر ہاے اصغر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اصغر ہاے اصغر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gohar Jarchvi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Asghar Haye Asghar Mir Hasan Mir
+alternateTitle: "Asghar Haye Asghar Mir Hasan Mir"
 romanLyrics: 'Asghar Haye Asghar Mir Hasan Mir Lyrics
 
   Haye Be Sheer Mere Reh Gaya Ja Ke Kahan.

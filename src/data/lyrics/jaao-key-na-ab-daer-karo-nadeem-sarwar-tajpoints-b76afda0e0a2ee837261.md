@@ -1,14 +1,14 @@
 ---
-title: اب لعل تیرا زین پہ ہے اور نہ زمیں پر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اب لعل تیرا زین پہ ہے اور نہ زمیں پر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Jaao Key Na Ab Daer Karo Nadeem Sarwar
+alternateTitle: "Jaao Key Na Ab Daer Karo Nadeem Sarwar"
 romanLyrics: |-
   Qafila lut gaya amma mera lashkar na raha
   Amma nana ki nishani Ali Akbar na raha
@@ -60,7 +60,7 @@ romanLyrics: |-
   Sheh kehte the amma ye kara waqt hai mujh par
   Kis tarha kaleje se lagun aap ke uth kar
   Chumunga qadam aap ke ab main lab-e-kausar
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: tajpoints:b76afda0e0a2ee837261
 # source_url: https://tajpoints.com/2022/12/jaao-key-na-ab-daer-karo-nadeem-sarwar.html
 # raw_sha256: 8b083818b8158623584bf373a2a1f3e23141287f8ecb3af9fa46fa98409175bd

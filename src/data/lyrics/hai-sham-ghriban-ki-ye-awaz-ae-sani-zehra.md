@@ -1,9 +1,9 @@
 ---
-title: ہے شامِ غریباں کی یہ آواز اے ثانیؑ زہراؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہے شامِ غریباں کی یہ آواز اے ثانیؑ زہراؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Akhtar"
 tags: []
 aliases: []

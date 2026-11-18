@@ -1,11 +1,11 @@
 ---
-title: علیؑ حیدرؑ
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
-tags: []
+title: "علیؑ حیدرؑ"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2b565bb8fffe397d2c0b

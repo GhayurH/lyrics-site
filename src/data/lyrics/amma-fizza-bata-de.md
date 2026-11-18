@@ -1,10 +1,10 @@
 ---
-title: اماں فضہ بتا دے مجھ کو پتھر کیوں آ رہے ہیں
-alternateTitle: Amma Fizza Bata De
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اماں فضہ بتا دے مجھ کو پتھر کیوں آ رہے ہیں"
+alternateTitle: "Amma Fizza Bata De"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []

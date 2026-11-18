@@ -1,10 +1,10 @@
 ---
-title: نہ دل روتا نہ غم ہوتا نہ ایسا کہیں ماتم ہوتا
-alternateTitle: Shabbir Agar Teri
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "نہ دل روتا نہ غم ہوتا نہ ایسا کہیں ماتم ہوتا"
+alternateTitle: "Shabbir Agar Teri"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

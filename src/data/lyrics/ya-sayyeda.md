@@ -1,10 +1,10 @@
 ---
-title: یا سیدہ ہائے ضعیفہ فاطمہ
-alternateTitle: Ya Sayyeda
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یا سیدہ ہائے ضعیفہ فاطمہ"
+alternateTitle: "Ya Sayyeda"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Shahid Baltistani"
 tags: []

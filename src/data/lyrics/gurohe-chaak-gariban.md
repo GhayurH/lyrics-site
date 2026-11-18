@@ -1,11 +1,11 @@
 ---
-title: جو فاطمہ کی رگ جان علی کا ہے دلبر
-alternateTitle: Guroh-e-Chaak Girebaaṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
-reciter: Nasir Jahan
+title: "جو فاطمہ کی رگ جان علی کا ہے دلبر"
+alternateTitle: "Guroh-e-Chaak Girebaaṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
+reciter: "Nasir Jahan"
 tags: []
 aliases: []
 published: true

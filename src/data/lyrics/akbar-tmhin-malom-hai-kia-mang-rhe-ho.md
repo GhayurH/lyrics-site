@@ -1,9 +1,9 @@
 ---
-title: اکبرؑ تمہیں معلوم ہے کیا مانگ رہے ہو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اکبرؑ تمہیں معلوم ہے کیا مانگ رہے ہو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Khursheed Jaunpur"
 tags: []
 aliases: []

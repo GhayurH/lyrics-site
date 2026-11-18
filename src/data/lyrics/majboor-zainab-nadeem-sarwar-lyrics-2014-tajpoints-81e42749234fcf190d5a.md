@@ -1,14 +1,14 @@
 ---
-title: Majboor Zainab Nadeem Sarwar Lyrics 2014
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-poet: Khursheed
-tags: []
+title: "Majboor Zainab Nadeem Sarwar Lyrics 2014"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+poet: "Khursheed"
+tags: ["noUrdu"]
 aliases: []
 published: false
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: ziyaraat:11970752420c872b0ad8
 # source_url: https://www.ziyaraat.net/api/noha/1617
 # raw_sha256: cf958d5fa73321e50a78702b9c5cf477fcd67e2b7a960df4c04be472e8258973

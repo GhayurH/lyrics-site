@@ -1,10 +1,10 @@
 ---
-title: بابا تیرے بغیر بھلا کیسے جیوں گی
-alternateTitle: Baba Tere Baghair
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بابا تیرے بغیر بھلا کیسے جیوں گی"
+alternateTitle: "Baba Tere Baghair"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Nasir Asghar Party (SM)"
 tags: []
 aliases: []

@@ -1,10 +1,10 @@
 ---
-title: گھبرائی ہے زینب آیا ہے مدینہ
-alternateTitle: Ghabraayi Hai Zainab
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "گھبرائی ہے زینب آیا ہے مدینہ"
+alternateTitle: "Ghabraayi Hai Zainab"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []
@@ -62,7 +62,7 @@ romanLyrics: |-
   Kehta hai jigar thaame Farhan tarap kar
   Rudaad karo Mazhar bas khatm yahiṅ par
   Ghabraayi hai Zainab aaya hai Madina
-reciter: Farhan Ali Waris
+reciter: "Farhan Ali Waris"
 # source_id: nohayonline:35bb693d267c77ae5968
 # source_url: https://www.nohayonline.com/details_content.php?id=2351
 # raw_sha256: ff6ad4129e82fe481afe4aeee050be1409d1e62f11075738c3a00c3457ac0725

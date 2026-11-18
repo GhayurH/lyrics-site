@@ -1,10 +1,10 @@
 ---
-title: اکبر تیری لاش اٹھائے کیسے حسین
-alternateTitle: Akbar Teri Laash
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اکبر تیری لاش اٹھائے کیسے حسین"
+alternateTitle: "Akbar Teri Laash"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []

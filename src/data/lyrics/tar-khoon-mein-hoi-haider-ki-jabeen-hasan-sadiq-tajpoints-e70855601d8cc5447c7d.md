@@ -1,14 +1,14 @@
 ---
-title: تر خوں میں ہوئی حیدرؑ کی جبیں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Rehan
+title: "تر خوں میں ہوئی حیدرؑ کی جبیں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Rehan"
 tags: []
 aliases: []
 published: false
-alternateTitle: Tar Khoon Mein Hoi Haider Ki Jabeen Hasan Sadiq
+alternateTitle: "Tar Khoon Mein Hoi Haider Ki Jabeen Hasan Sadiq"
 romanLyrics: 'Tar Khoon Mein Hoi Haider Ki Jabeen Hasan Sadiq.
 
   Youn Rote Hain Jibreel-e-Ameen.
@@ -96,7 +96,7 @@ romanLyrics: 'Tar Khoon Mein Hoi Haider Ki Jabeen Hasan Sadiq.
   Ghar Ghar Se Uthe Matam Ki Sada.
 
   Iss Gham Ki Kissi Ko Taab Nahi.'
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 # source_id: nohayonline:865b8f79d56a419e27fe
 # source_url: https://www.nohayonline.com/details_content.php?id=623
 # raw_sha256: 5d4504d80a166f1e4e7d27f139f30090fbe693b6e2aba29d1a24531559a95a30

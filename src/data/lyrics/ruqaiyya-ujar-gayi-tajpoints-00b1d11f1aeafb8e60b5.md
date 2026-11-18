@@ -1,14 +1,14 @@
 ---
-title: کربوبلا سے پہلے رقیہ اجڑ گیء
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Takallum
+title: "کربوبلا سے پہلے رقیہ اجڑ گیء"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Ruqaiyya Ujar Gayi
+alternateTitle: "Ruqaiyya Ujar Gayi"
 romanLyrics: 'Karb-o-Bala Se Pehle Ruqaiya Ujar Gayi.
 
   Muslim Ki Lash Kofay Mein Be Aasra Hoi.

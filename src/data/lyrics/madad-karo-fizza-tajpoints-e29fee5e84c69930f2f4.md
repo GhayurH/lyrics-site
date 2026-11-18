@@ -1,14 +1,14 @@
 ---
-title: مدد کرو فضہ مدد کرو فضہ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Takallum
+title: "مدد کرو فضہ مدد کرو فضہ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Madad Karo Fizza
+alternateTitle: "Madad Karo Fizza"
 romanLyrics: 'Madad Karo Fizza.
 
   Shikasta Pehlu Se Mere Yeh Dar Hata Do Khudaya.

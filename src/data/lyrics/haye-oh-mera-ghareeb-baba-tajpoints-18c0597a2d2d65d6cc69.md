@@ -1,13 +1,13 @@
 ---
-title: ہاے وہ میرا غریب بابا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہاے وہ میرا غریب بابا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-alternateTitle: Haye Oh Mera Ghareeb Baba
+alternateTitle: "Haye Oh Mera Ghareeb Baba"
 romanLyrics: 'Haye Oh Mera Ghareeb Baba Lyrics
 
   Aye Sham De Loko Mein Syed Haan.

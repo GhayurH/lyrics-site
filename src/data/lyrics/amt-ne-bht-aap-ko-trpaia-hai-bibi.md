@@ -1,9 +1,9 @@
 ---
-title: امت نے بہت آپ کو تڑپایا ہے بی‌بیؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "امت نے بہت آپ کو تڑپایا ہے بی‌بیؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
@@ -106,7 +106,7 @@ romanLyrics: 'Ya Fatima Zehra...
   Ai muntakim e karbobala parda uthao
 
   Mohsin ki lahad par gaYa pehlu e shikasta'
-reciter: Ali Safdar Rizvi
+reciter: "Ali Safdar Rizvi"
 # source_id: ziyaraat:5fd549d7092093d77b69
 # source_url: https://www.ziyaraat.net/api/noha/1970
 # raw_sha256: b3fad2591be41799a5d233054282a7ff3ac42052fcbb5a17571b3bac55c7f94f

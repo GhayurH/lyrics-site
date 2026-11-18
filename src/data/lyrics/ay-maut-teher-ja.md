@@ -1,10 +1,10 @@
 ---
-title: ہچکیاں لیتے تھے علی اکبر
-alternateTitle: Ae Maut Thehar Ja
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہچکیاں لیتے تھے علی اکبر"
+alternateTitle: "Ae Maut Thehar Ja"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
 tags: []

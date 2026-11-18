@@ -1,10 +1,10 @@
 ---
-title: لو زندانِ شام سے چھٹ کر زینبؑ آ گئی بھائی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+title: "لو زندانِ شام سے چھٹ کر زینبؑ آ گئی بھائی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false

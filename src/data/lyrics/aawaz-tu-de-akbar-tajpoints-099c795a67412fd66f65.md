@@ -1,14 +1,14 @@
 ---
-title: آواز تو دے اکبرؑ ہائے آواز تو دے اکبرؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Akbar
+title: "آواز تو دے اکبرؑ ہائے آواز تو دے اکبرؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Akbar"
 tags: []
 aliases: []
 published: false
-alternateTitle: Aawaz Tu De Akbar
+alternateTitle: "Aawaz Tu De Akbar"
 romanLyrics: 'Karwal jawan ki laash par, kehta raha, ro kar pidar
 
   Awaaz to day Akbar, haey Awaaz to day Akbar

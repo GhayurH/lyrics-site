@@ -1,10 +1,10 @@
 ---
-title: المدد المدد یا علی
-alternateTitle: Al Madad Al Madad
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "المدد المدد یا علی"
+alternateTitle: "Al Madad Al Madad"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gohar Jarchvi"
 tags: []
 aliases: []

@@ -1,9 +1,9 @@
 ---
-title: رو رو پکاری بالی سکینہؑ عمو گھر آجائیے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "رو رو پکاری بالی سکینہؑ عمو گھر آجائیے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anjum Zaidi"
 tags: []
 aliases: []

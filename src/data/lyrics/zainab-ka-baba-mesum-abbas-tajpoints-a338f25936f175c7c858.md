@@ -1,14 +1,14 @@
 ---
-title: آجا گھر گھر میں ماتم بپا ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Meesum
+title: "آجا گھر گھر میں ماتم بپا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Meesum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Zainab Ka Baba Mesum Abbas
+alternateTitle: "Zainab Ka Baba Mesum Abbas"
 romanLyrics: 'Zainab Ka Baba Mesum Abbas Lyrics
 
 

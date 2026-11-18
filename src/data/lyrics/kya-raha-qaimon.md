@@ -1,10 +1,10 @@
 ---
-title: شامِ غم آگئی، شامِ غم آگئی
-alternateTitle: Kya Raha Qaimon
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شامِ غم آگئی، شامِ غم آگئی"
+alternateTitle: "Kya Raha Qaimon"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -45,7 +45,7 @@ romanLyrics: |-
   8
   Aa gaye Rehaan o Sarwar Karbala se laut kar
   Aaj tak khushbu badan meiṅ Karbala ki reh gayi
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:3390a675169251047705
 # source_url: https://www.nohayonline.com/details_content.php?id=28
 # raw_sha256: ba8e579c9d988e36018cc1a81f9b5d91095bcd97bac1b76c1a0b12e191881a9d

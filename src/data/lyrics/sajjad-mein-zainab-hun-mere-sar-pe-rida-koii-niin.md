@@ -1,11 +1,11 @@
 ---
-title: سجادؑ میں زینبؑ ہوں میرے سر پہ ردا کوئی نئیں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سجادؑ میں زینبؑ ہوں میرے سر پہ ردا کوئی نئیں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
-reciter: Safdar Abbas
+reciter: "Safdar Abbas"
 tags: []
 aliases: []
 published: false

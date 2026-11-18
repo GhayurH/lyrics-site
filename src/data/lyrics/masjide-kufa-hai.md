@@ -1,10 +1,10 @@
 ---
-title: مسجد کوفہ ہے روزہ دار ہے
-alternateTitle: Masjid-e-Kufa Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مسجد کوفہ ہے روزہ دار ہے"
+alternateTitle: "Masjid-e-Kufa Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Ali Rizvi Sachey; Farhan Ali Waris"
 tags: []

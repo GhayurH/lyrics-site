@@ -1,15 +1,15 @@
 ---
-title: سلام سلام سلام یا حسین
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "سلام سلام سلام یا حسین"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []
 aliases: ["salam-ya-hussain-nadeem-sarwar"]
 published: true
-alternateTitle: Salam Ya Husain
+alternateTitle: "Salam Ya Husain"
 romanLyrics: |-
   Salaam salaam salaam ya Husain
 

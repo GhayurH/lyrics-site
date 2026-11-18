@@ -1,10 +1,10 @@
 ---
-title: زہر سے ٹکڑے کلیجہ ہو گیا
-alternateTitle: Zehr Se Tukre
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زہر سے ٹکڑے کلیجہ ہو گیا"
+alternateTitle: "Zehr Se Tukre"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Qais Zangipuri"
 tags: []
 aliases: ["Zehr Se Tukde"]

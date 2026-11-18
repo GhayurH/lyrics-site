@@ -1,10 +1,10 @@
 ---
 title: "اے اہلِ حرم میر و علمدار نہ آیا"
 alternateTitle: "Alamdar Na Aaya"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

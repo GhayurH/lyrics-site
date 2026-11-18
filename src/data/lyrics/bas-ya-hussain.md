@@ -1,10 +1,10 @@
 ---
-title: اے حر کسے ملی یہ شہادت کی زیب و زین
-alternateTitle: Bas Ya Husain
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے حر کسے ملی یہ شہادت کی زیب و زین"
+alternateTitle: "Bas Ya Husain"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -122,7 +122,7 @@ romanLyrics: |-
   Le ke naam-e-Husain rota hai
   Us ko Zehra salaam karti haiṅ
   Husain ya Husain Husain ya Husain Husain ya Husain
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:933528a88610e0fc5a9c
 # source_url: https://www.nohayonline.com/details_content.php?id=2591
 # raw_sha256: 61c8fe2cfffc41e18f35679163fe6f1d24500efb3fae114e52706e427e57dbf6

@@ -1,10 +1,10 @@
 ---
-title: ایسا لگتا ہے حسن دو بار کفنائے گئے
-alternateTitle: Aisa Lagta Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ایسا لگتا ہے حسن دو بار کفنائے گئے"
+alternateTitle: "Aisa Lagta Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Asif Bijnori"
 tags: []
 aliases: []

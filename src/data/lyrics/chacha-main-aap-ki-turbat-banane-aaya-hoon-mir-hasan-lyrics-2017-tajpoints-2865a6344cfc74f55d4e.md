@@ -1,10 +1,10 @@
 ---
 title: "چچا میں آپ کی تربت بنانے آیا ہوں"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Takallum
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Takallum"
 tags: []
 aliases: []
 published: false

@@ -1,10 +1,10 @@
 ---
-title: یا ابا عبداللہ روحی و جسمی لک الفدا
-alternateTitle: Ruhi Wa Jismi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یا ابا عبداللہ روحی و جسمی لک الفدا"
+alternateTitle: "Ruhi Wa Jismi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
 tags: []

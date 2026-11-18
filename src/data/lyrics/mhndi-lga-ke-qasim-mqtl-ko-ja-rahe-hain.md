@@ -1,9 +1,9 @@
 ---
-title: مہندی لگا کے قاسمؑ مقتل کو جا رہے ہیں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مہندی لگا کے قاسمؑ مقتل کو جا رہے ہیں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []

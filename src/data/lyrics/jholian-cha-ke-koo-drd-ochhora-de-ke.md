@@ -1,13 +1,13 @@
 ---
-title: جھولیاں چا کے کوو درد وچھوڑا دے کے
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-tags: []
+title: "جھولیاں چا کے کوو درد وچھوڑا دے کے"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
-reciter: Anjuman Shabab-ul-Momineen (Nazim Party)
+reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 # source_id: ziyaraat:52cb94bfdb1a8b4980ab
 # source_url: https://www.ziyaraat.net/api/noha/210
 # raw_sha256: 77d66d0db624bfbbec4105a255522a7f0ad14423e6d50a1cbdea256db77ae5ee

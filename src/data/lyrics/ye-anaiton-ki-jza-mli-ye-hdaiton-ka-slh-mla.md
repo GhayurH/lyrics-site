@@ -1,10 +1,10 @@
 ---
-title: یہ عنایتوں کی جزا ملی یہ ہدایتوں کا صلہ ملا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
-reciter: Nasir Jehan
+title: "یہ عنایتوں کی جزا ملی یہ ہدایتوں کا صلہ ملا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
+reciter: "Nasir Jehan"
 tags: []
 aliases: []
 published: false

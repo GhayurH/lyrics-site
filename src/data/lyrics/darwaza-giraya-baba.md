@@ -2,9 +2,9 @@
 title: "Darwaza Giraya Baba"
 alternateTitle: "Ummat Ne Teri Zahra Par Darwaza Giraya Baba"
 language: "Urdu"
-lang: ur
-direction: ltr
-kalamType: Noha
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
 poet: "Hamid"
 tags: ["noUrdu"]
 aliases: []

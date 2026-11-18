@@ -1,10 +1,10 @@
 ---
-title: بھیا غریب زینب تیرا کفن نہ لائی
-alternateTitle: Bhaiya Gharib Zainab
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بھیا غریب زینب تیرا کفن نہ لائی"
+alternateTitle: "Bhaiya Gharib Zainab"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Mir Hasan Mir"
 tags: []
 aliases: []

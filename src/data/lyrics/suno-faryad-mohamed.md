@@ -1,10 +1,10 @@
 ---
-title: اولنا محمد اوسطنا محمد
-alternateTitle: Suno Faryaad Muhammad
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اولنا محمد اوسطنا محمد"
+alternateTitle: "Suno Faryaad Muhammad"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Dayam Najafi"
 reciter: "Ali Yazdan"
 tags: []

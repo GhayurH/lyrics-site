@@ -1,9 +1,9 @@
 ---
-title: ڈے بو سے پیو دے کفن اُتے با قرؑ الوایا رت نہ رو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ڈے بو سے پیو دے کفن اُتے با قرؑ الوایا رت نہ رو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

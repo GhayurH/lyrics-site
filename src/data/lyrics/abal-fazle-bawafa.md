@@ -1,10 +1,10 @@
 ---
 title: "ابا الفضل ابا الفضل ابا الفضل"
 alternateTitle: "Abal Fazl-e-Bawafa"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: ["abl-fazle-bawafa"]

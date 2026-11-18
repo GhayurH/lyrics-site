@@ -1,11 +1,11 @@
 ---
-title: Haye Qaidaan Che Ro Ro Ke Sakina Mar Gayi Aye Lyrics 2009
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Other
-poet: Saqlain
-tags: []
+title: "Haye Qaidaan Che Ro Ro Ke Sakina Mar Gayi Aye Lyrics 2009"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Saqlain"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e712bd8e7c1ad5b47647

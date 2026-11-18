@@ -1,14 +1,14 @@
 ---
-title: دعا تو مانگ سکینہ کا واسطہ دیکے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Dua
+title: "دعا تو مانگ سکینہ کا واسطہ دیکے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Dua"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Dua Tu Mang Sakina Ka Wasta De Ke
+alternateTitle: "Dua Tu Mang Sakina Ka Wasta De Ke"
 romanLyrics: 'Dua Tu Mang Sakina Ka Wasta De Ke.
 
   Yeh Kaise Ho Ga Ke Abbas Our Atta Na Kare.

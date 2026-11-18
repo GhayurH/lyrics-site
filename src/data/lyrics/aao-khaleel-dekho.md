@@ -1,10 +1,10 @@
 ---
-title: آؤ خلیل دیکھو آغاز ہے فغاں کا
-alternateTitle: Aao Khaleel Dekho
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آؤ خلیل دیکھو آغاز ہے فغاں کا"
+alternateTitle: "Aao Khaleel Dekho"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Jawad Jaffri"
 reciter: "Hasan Sadiq"
 tags: []

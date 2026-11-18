@@ -1,10 +1,10 @@
 ---
-title: کہتی رہی سکینہ بیمار سارباں سے
-alternateTitle: Kehti Rahi Sakina
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کہتی رہی سکینہ بیمار سارباں سے"
+alternateTitle: "Kehti Rahi Sakina"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Sardar"
 reciter: "Nasir Asghar Party (SM)"
 tags: []

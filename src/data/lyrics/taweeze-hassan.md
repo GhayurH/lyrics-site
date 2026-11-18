@@ -1,10 +1,10 @@
 ---
-title: تعویذ حسن جب قاسم نے
-alternateTitle: Taweez-e-Hasan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تعویذ حسن جب قاسم نے"
+alternateTitle: "Taweez-e-Hasan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Mesum Abbas"
 tags: []

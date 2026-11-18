@@ -1,11 +1,11 @@
 ---
-title: Haye Bazar Che Jad Pehla See Balwa Takiya Lyrics 2023
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Other
-poet: Akbar
-tags: []
+title: "Haye Bazar Che Jad Pehla See Balwa Takiya Lyrics 2023"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Akbar"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2e5b937d03133698514e

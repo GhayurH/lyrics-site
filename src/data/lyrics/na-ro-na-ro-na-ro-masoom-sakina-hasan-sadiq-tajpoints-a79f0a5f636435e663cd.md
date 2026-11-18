@@ -1,13 +1,13 @@
 ---
-title: نہ رو نہ رو نہ رومعصوم سکینہ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "نہ رو نہ رو نہ رومعصوم سکینہ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-alternateTitle: Na Ro Na Ro Na Ro Masoom Sakina Hasan Sadiq
+alternateTitle: "Na Ro Na Ro Na Ro Masoom Sakina Hasan Sadiq"
 romanLyrics: 'Na ro na ro na ro, masoom Sakina
 
   Zindaan main ab yad na ker Baba ka seena

@@ -1,14 +1,14 @@
 ---
-title: بن تیرے نہ آرام کہیں پاے گی بہنا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بن تیرے نہ آرام کہیں پاے گی بہنا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gohar Jarchvi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Aye Bhai Hussaina Mir Hasan Mir
+alternateTitle: "Aye Bhai Hussaina Mir Hasan Mir"
 romanLyrics: 'Aye Bhai Hussaina Mir Hasan Mir Lyrics
 
   Bin Tere Na Aaram Kahin Paye Gi Behna.

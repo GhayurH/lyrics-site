@@ -1,10 +1,10 @@
 ---
-title: رویا کیا جو پیاس سے اصغر تمام رات
-alternateTitle: Roya Kiya Jo Pyas Se
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "رویا کیا جو پیاس سے اصغر تمام رات"
+alternateTitle: "Roya Kiya Jo Pyas Se"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: true

@@ -1,9 +1,9 @@
 ---
-title: شاہ کہتے تھے نہ تم اشک بہانا زینبؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "شاہ کہتے تھے نہ تم اشک بہانا زینبؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 tags: []
 aliases: []
 published: false

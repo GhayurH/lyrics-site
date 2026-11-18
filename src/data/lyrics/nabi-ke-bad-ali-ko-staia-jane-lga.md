@@ -1,11 +1,11 @@
 ---
-title: نبیؐ کے بعد علیؑ کو ستایا جانے لگا
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-reciter: Asif Raza Khan
-tags: []
+title: "نبیؐ کے بعد علیؑ کو ستایا جانے لگا"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+reciter: "Asif Raza Khan"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b027e7ce2773b6875191

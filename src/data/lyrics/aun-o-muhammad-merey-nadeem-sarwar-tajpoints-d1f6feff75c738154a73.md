@@ -1,10 +1,10 @@
 ---
 title: "Aun o Muhammad Mere"
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-reciter: Nadeem Sarwar
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+reciter: "Nadeem Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false

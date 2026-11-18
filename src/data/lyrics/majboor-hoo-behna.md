@@ -1,10 +1,10 @@
 ---
-title: مجبور ہوں بہنا تمہیں دفنا نہیں سکتا
-alternateTitle: Majbur Huṅ Behna
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مجبور ہوں بہنا تمہیں دفنا نہیں سکتا"
+alternateTitle: "Majbur Huṅ Behna"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Mazahir Abbas"
 tags: []
 aliases: []

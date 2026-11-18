@@ -1,14 +1,14 @@
 ---
-title: ذوالجناح آ قبل من المیداں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Rehan
+title: "ذوالجناح آ قبل من المیداں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Rehan"
 tags: []
 aliases: []
 published: false
-alternateTitle: Zuljanah Aqbal Minal Maidaan Nadeem Sarwar
+alternateTitle: "Zuljanah Aqbal Minal Maidaan Nadeem Sarwar"
 romanLyrics: 'Zuljanah Aqbal Minal Maidaan Nadeem Sarwar.
 
 
@@ -107,7 +107,7 @@ romanLyrics: 'Zuljanah Aqbal Minal Maidaan Nadeem Sarwar.
   Aag Lagi Zahra Ke Chaman Mein.
 
   Pohanchi Khabar Sughra Ko Watan Mein.'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:cfd3c7ae6007628f0d75
 # source_url: https://www.nohayonline.com/details_content.php?id=3318
 # raw_sha256: 04363d2467b2f453d0bb6509bd0f63399a7d601b8eea861aaa0f92e3e80de94c

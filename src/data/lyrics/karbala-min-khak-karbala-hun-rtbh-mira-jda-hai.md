@@ -1,11 +1,11 @@
 ---
-title: کربلا، ميں خاکِ کربلا ہوں رتبہ ميرا جدا ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کربلا، ميں خاکِ کربلا ہوں رتبہ ميرا جدا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

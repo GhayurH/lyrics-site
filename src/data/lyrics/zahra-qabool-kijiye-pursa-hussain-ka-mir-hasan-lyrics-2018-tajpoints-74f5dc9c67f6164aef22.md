@@ -1,15 +1,15 @@
 ---
-title: زہرا قبول کیجئے پرسہ حسین کا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Takallum
-reciter: Mir Hasan Mir
+title: "زہرا قبول کیجئے پرسہ حسین کا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Takallum"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false
-alternateTitle: Zahra Qabool Kijiye Pursa Husain Ka
+alternateTitle: "Zahra Qabool Kijiye Pursa Husain Ka"
 romanLyrics: |-
   Hayya ala khayr il amal
   Ya Husain

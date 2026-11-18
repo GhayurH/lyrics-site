@@ -1,11 +1,11 @@
 ---
-title: ہے وقت اذاں آ علی اکبرؑ اذان دے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہے وقت اذاں آ علی اکبرؑ اذان دے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false

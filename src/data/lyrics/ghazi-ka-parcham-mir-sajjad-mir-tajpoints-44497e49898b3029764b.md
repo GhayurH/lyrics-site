@@ -1,14 +1,14 @@
 ---
-title: شبیر کا ماتم ہے رک نہ سکےگا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Sajjad
+title: "شبیر کا ماتم ہے رک نہ سکےگا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Sajjad"
 tags: []
 aliases: []
 published: false
-alternateTitle: Ghazi Ka Parcham Mir Sajjad Mir
+alternateTitle: "Ghazi Ka Parcham Mir Sajjad Mir"
 romanLyrics: 'Shabbir Ka Matam Hai Ruk Na Sakay Ga.
 
   Abbas Ka Parcham Hai Jhuk Na Sakay Ga.

@@ -1,11 +1,11 @@
 ---
-title: بجھ گئی پیاس چچا لوٹ کے گھر میں آئو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بجھ گئی پیاس چچا لوٹ کے گھر میں آئو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

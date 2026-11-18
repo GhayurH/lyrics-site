@@ -1,13 +1,13 @@
 ---
-title: لبوں سے نکل کر اذاں رو رہی ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لبوں سے نکل کر اذاں رو رہی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-alternateTitle: Labon Se Nikal Kar Azaan Ro Rahi Hai Mir Hasan Mir
+alternateTitle: "Labon Se Nikal Kar Azaan Ro Rahi Hai Mir Hasan Mir"
 romanLyrics: 'Labon se nikal kar azan ro rahi hai
 
   Musalle pe akbar ki maa ro rahi hai

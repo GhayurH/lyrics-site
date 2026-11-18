@@ -1,11 +1,11 @@
 ---
-title: ارے او شام والو ارے او کوفہ والو کفن بابا کو دے دو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ارے او شام والو ارے او کوفہ والو کفن بابا کو دے دو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

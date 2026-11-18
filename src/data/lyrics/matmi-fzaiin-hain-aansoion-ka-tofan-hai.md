@@ -1,9 +1,9 @@
 ---
-title: ماتمی فضائیں ہیں آنسوئوں کا طوفان ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ماتمی فضائیں ہیں آنسوئوں کا طوفان ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shahid Jafer"
 tags: []
 aliases: []

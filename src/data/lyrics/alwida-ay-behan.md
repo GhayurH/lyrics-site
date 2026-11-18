@@ -1,10 +1,10 @@
 ---
-title: الوداع اے بہن الوداع
-alternateTitle: Alwida Ae Behan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "الوداع اے بہن الوداع"
+alternateTitle: "Alwida Ae Behan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mehshar Lakhnavi"
 tags: []
 aliases: ["Alwida Ay Behan"]
@@ -66,7 +66,7 @@ romanLyrics: |-
   Tashna lab khasta tan bekafan par salaam
   Shah ke ansaar par Panjatan par salaam
   Ek bhaai pe aur ek behan par salaam
-reciter: Nadeem Sarwar
+reciter: "Nadeem Sarwar"
 # source_id: nohayonline:edf4e1f208fe30f5d8dd
 # source_url: https://www.nohayonline.com/details_content.php?id=335
 # raw_sha256: c62ae292c05aa710b07d4671184e20a7de22da7fb68b4b9a61fd1778fa7fc82c

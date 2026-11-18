@@ -1,14 +1,14 @@
 ---
-title: شمع سے شمع جلے سلسلہ جاری رہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شمع سے شمع جلے سلسلہ جاری رہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Ye Azadari Rahe Irfan Haider
+alternateTitle: "Ye Azadari Rahe Irfan Haider"
 romanLyrics: 'Hum Rahain Ya Na Rahain Yeh Azadari Rahay
 
   Shama se Shama Jale.......
@@ -117,7 +117,7 @@ romanLyrics: 'Hum Rahain Ya Na Rahain Yeh Azadari Rahay
   Baat Yeh Mazhar O Irfan Zamane Se Kaho,
 
   Munkir E Zahra Se Har Haal Me Bezaari Rahe,'
-reciter: Anjuman Karwan-e-Aza (Irfan Haider)
+reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 # source_id: nohayonline:56e6faae13ba0c121594
 # source_url: https://www.nohayonline.com/details_content.php?id=2196
 # raw_sha256: b27d12109f37a7334e58716ecbfd546c912320d08a6d5b7312763ba6b4bf5039

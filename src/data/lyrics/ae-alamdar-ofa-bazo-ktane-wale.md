@@ -1,11 +1,11 @@
 ---
-title: اے علمدارِ وفا بازو کٹانے والے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے علمدارِ وفا بازو کٹانے والے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false

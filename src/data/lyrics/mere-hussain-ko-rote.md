@@ -1,10 +1,10 @@
 ---
-title: میرے حسین کو روتے رہو دعا دوں گی
-alternateTitle: Mere Husain Ko Rote
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میرے حسین کو روتے رہو دعا دوں گی"
+alternateTitle: "Mere Husain Ko Rote"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Kaleem"
 reciter: "Mir Mohsin Ali"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: کھو گئے ہو تم کہاں ڈھونڈتی مادر
-alternateTitle: Kho Gaye Ho Tum Kahaaṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کھو گئے ہو تم کہاں ڈھونڈتی مادر"
+alternateTitle: "Kho Gaye Ho Tum Kahaaṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hassan"
 reciter: "Mir Sumeair Abbas"
 tags: []

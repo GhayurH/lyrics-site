@@ -1,14 +1,14 @@
 ---
-title: یہ کون ہے فلک سارا لرزتا ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ کون ہے فلک سارا لرزتا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "N. Sarwar, J. Jaffri & H. Naqvi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Alam Bardar Nadeem Sarwar
+alternateTitle: "Alam Bardar Nadeem Sarwar"
 romanLyrics: |-
   Ye kaun hai falak saara larazta hai
   Ye kaun hai zameen ka dil dhadakta hai

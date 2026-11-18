@@ -1,10 +1,10 @@
 ---
 title: "سکینہ عابد کو دیکھتی تھی"
 alternateTitle: "Sakina Abid Ko Dekhti Thi"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

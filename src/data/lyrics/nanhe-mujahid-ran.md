@@ -1,10 +1,10 @@
 ---
-title: ننھے مجاہد رن میں جا کر
-alternateTitle: Nanhe Mujahid Ran
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ننھے مجاہد رن میں جا کر"
+alternateTitle: "Nanhe Mujahid Ran"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
 tags: []

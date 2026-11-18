@@ -1,9 +1,9 @@
 ---
-title: اے یتیم شہزادے ماں کے دلربا قاسمؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے یتیم شہزادے ماں کے دلربا قاسمؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mehdi Nazmi"
 tags: []
 aliases: []

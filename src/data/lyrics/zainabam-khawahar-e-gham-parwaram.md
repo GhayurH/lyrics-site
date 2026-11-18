@@ -1,10 +1,10 @@
 ---
-title: زینبم زینبم خواہر غم پر ورم
-alternateTitle: Zainabam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زینبم زینبم خواہر غم پر ورم"
+alternateTitle: "Zainabam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []
@@ -116,7 +116,7 @@ romanLyrics: 'Zainabam
   Saath nahin deti zabaan
 
   Ban gaya khud Mazhare gham'
-reciter: Farhan Ali
+reciter: "Farhan Ali"
 # source_id: nohayonline:eda89d6607188c5fa657
 # source_url: https://www.nohayonline.com/details_content.php?id=2381
 # raw_sha256: fa356a475820e424942506644da3053614a34c879ff40720db4f6f2166564375

@@ -1,10 +1,10 @@
 ---
-title: تنہائیِ من
-alternateTitle: Zainabam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تنہائیِ من"
+alternateTitle: "Zainabam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Salman Azmi"
 reciter: "Ali Jee"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: دھی کفن تے جھنڑ جھنڑ آہدی ہا گل لا بابا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Haji Muhammad Iqbal (Waa Hijab)
+title: "دھی کفن تے جھنڑ جھنڑ آہدی ہا گل لا بابا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Haji Muhammad Iqbal (Waa Hijab)"
 tags: []
 aliases: []
 published: false

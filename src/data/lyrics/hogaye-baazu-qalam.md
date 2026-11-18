@@ -1,10 +1,10 @@
 ---
-title: ہو گئے ہاتھ قلم مشک بچائی نہ گئی
-alternateTitle: Ho Gaye Haath Qalam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہو گئے ہاتھ قلم مشک بچائی نہ گئی"
+alternateTitle: "Ho Gaye Haath Qalam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Viqar Nagri"
 tags: []
 aliases: ["Hogaye Baazu Qalam", "ہو گئے بازو قلم مشک بچائی نہ گئی"]

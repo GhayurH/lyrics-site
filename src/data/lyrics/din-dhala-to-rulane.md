@@ -1,10 +1,10 @@
 ---
-title: دن ڈھلا تو رلانے کو شام آ گئی
-alternateTitle: Din Dhala To Rulane
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "دن ڈھلا تو رلانے کو شام آ گئی"
+alternateTitle: "Din Dhala To Rulane"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Meer Nazeer Baqari"
 reciter: "Mir Hasan Mir"
 tags: []

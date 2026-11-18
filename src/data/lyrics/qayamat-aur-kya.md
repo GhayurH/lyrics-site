@@ -1,10 +1,10 @@
 ---
-title: کیا قیامت سے یہ کم ہے
-alternateTitle: Qayamat Aur Kya
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کیا قیامت سے یہ کم ہے"
+alternateTitle: "Qayamat Aur Kya"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Shahid Baltistani"
 tags: []

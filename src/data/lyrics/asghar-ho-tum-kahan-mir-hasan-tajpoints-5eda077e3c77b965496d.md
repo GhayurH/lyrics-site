@@ -1,14 +1,14 @@
 ---
-title: اے علی اصغر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے علی اصغر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Asghar Ho Tum Kahan Mir Hasan
+alternateTitle: "Asghar Ho Tum Kahan Mir Hasan"
 romanLyrics: 'Asghar Ho Tum Kahan.
 
   Aye Ali Asghar.

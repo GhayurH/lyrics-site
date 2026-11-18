@@ -1,11 +1,11 @@
 ---
-title: Charcha Hai Yeh Ghali Ghali Shabir Ke Matamdaron Mein 2017-18
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Manqabat
-poet: Nayab
-tags: []
+title: "Charcha Hai Yeh Ghali Ghali Shabir Ke Matamdaron Mein 2017-18"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Nayab"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2cd9dfb13ee2cb289c0b

@@ -1,9 +1,9 @@
 ---
-title: بعدِ حسینؑ کس نے کہا میں یتیم ہوں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بعدِ حسینؑ کس نے کہا میں یتیم ہوں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Suroor Lakhnavi"
 tags: []
 aliases: []

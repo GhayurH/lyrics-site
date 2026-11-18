@@ -1,10 +1,10 @@
 ---
-title: اونچا رہے اپنا علم
-alternateTitle: Uncha Rahe Apna Alam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اونچا رہے اپنا علم"
+alternateTitle: "Uncha Rahe Apna Alam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Syed Ramish Ul Hassan"
 reciter: "Sachey Bhai"
 tags: []

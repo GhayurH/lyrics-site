@@ -1,10 +1,10 @@
 ---
-title: لپٹ کے تُربت سے بولی مادر
-alternateTitle: Utho Sakina Chalo
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لپٹ کے تُربت سے بولی مادر"
+alternateTitle: "Utho Sakina Chalo"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees"
 reciter: "Nadeem Sarwar"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: کوئی ہو تو چلے
-alternateTitle: Koi Ho To Chale
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کوئی ہو تو چلے"
+alternateTitle: "Koi Ho To Chale"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hilal Naqvi"
 tags: []
 aliases: ["کوئی ہو تو چلیں"]
@@ -70,7 +70,7 @@ romanLyrics: |-
   13
   Ye sada aaj bhi maqtal se Hilal aati hai
   Kaun haq ka hai talabgaar koi ho to chale
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:39d65d9173346d8dc097
 # source_url: https://www.nohayonline.com/details_content.php?id=2060
 # raw_sha256: e5b20c206758205e24eade40aa90b94c5704af00c2afd29c6d1df8b45a9fc930

@@ -1,10 +1,10 @@
 ---
-title: طلب کی منزل مقصود کربلا تک ہے
-alternateTitle: Talab Ki Manzil
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "طلب کی منزل مقصود کربلا تک ہے"
+alternateTitle: "Talab Ki Manzil"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Izzat Lakhnavi"
 reciter: "Izzat Lakhnavi"
 tags: []

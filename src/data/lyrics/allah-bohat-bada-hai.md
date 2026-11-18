@@ -1,10 +1,10 @@
 ---
-title: سب نے یہی کہا ہے اللہ بہت بڑا ہے
-alternateTitle: Allah Bohat Bara Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Hamd
+title: "سب نے یہی کہا ہے اللہ بہت بڑا ہے"
+alternateTitle: "Allah Bohat Bara Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Hamd"
 poet: "Rehan Azmi"
 tags: []
 aliases: ["allah-bohat-bara-hai", "allah-bohat-bara-hai-nadeem-sarwar"]
@@ -84,7 +84,7 @@ romanLyrics: |-
   Khaak-e-shifa bana di Karbobala ki mitti
   Bole Rehaan o Sarwar taarikh-e-Karbala bhi
   Maula ne sach kaha hai Allah bohat bara hai
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:2f9abc2ac169225f537f
 # source_url: https://www.nohayonline.com/details_content.php?id=3309
 # raw_sha256: d7630f468043e7b16a738a4e2d86675962994b6a988642cf3f7ad9af5b2abd1a

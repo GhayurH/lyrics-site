@@ -1,9 +1,9 @@
 ---
-title: بے خطا مارا گيا سبط رسولِؐ دوسرا وا حسنؑ سبز قبا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بے خطا مارا گيا سبط رسولِؐ دوسرا وا حسنؑ سبز قبا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []

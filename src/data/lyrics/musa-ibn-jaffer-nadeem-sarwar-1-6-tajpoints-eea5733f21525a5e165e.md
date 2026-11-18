@@ -1,14 +1,14 @@
 ---
-title: یا ابن الزہراؑ یا موسیٰ بنِ جعفرؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یا ابن الزہراؑ یا موسیٰ بنِ جعفرؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Musa Ibn Jaffer Nadeem Sarwar 1-6
+alternateTitle: "Musa Ibn Jaffer Nadeem Sarwar 1-6"
 romanLyrics: 'Saiyadi MAULA.....5
 
   Al Salam Alaika Ya MUSA E KAZIM.....2
@@ -229,7 +229,7 @@ romanLyrics: 'Saiyadi MAULA.....5
   Alvida Sarwar O Rehan Ke MAULA Aaqa
 
   Dete Hai Pursa, Ya MUSA IBNE JAFAR'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:585be89a19ba191f9b35
 # source_url: https://www.nohayonline.com/details_content.php?id=406
 # raw_sha256: c3be21a3a8fcf81b4444195051945630ff19ab0083b9ce66751457854df5d33f

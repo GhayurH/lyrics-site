@@ -1,10 +1,10 @@
 ---
-title: ایسا علم ہے کہاں
-alternateTitle: Aisa Alam Hai Kahan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ایسا علم ہے کہاں"
+alternateTitle: "Aisa Alam Hai Kahan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []

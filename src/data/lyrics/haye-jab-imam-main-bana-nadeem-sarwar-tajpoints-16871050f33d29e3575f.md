@@ -1,14 +1,14 @@
 ---
-title: عاشور کو غش سے جو پھپھی جاں نے اٹھایا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عاشور کو غش سے جو پھپھی جاں نے اٹھایا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zafar Abbas"
 tags: []
 aliases: []
 published: false
-alternateTitle: Haye Jab Imam Main Bana Nadeem Sarwar
+alternateTitle: "Haye Jab Imam Main Bana Nadeem Sarwar"
 romanLyrics: 'Haye Jab Imam Main Bana Nadeem Sarwar.
 
 

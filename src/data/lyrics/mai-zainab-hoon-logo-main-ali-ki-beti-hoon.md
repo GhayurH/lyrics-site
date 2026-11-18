@@ -1,10 +1,10 @@
 ---
-title: لوگو میں علی کی بیٹی ہوں
-alternateTitle: Mai Zainab Hoo
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لوگو میں علی کی بیٹی ہوں"
+alternateTitle: "Mai Zainab Hoo"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []
@@ -140,7 +140,7 @@ romanLyrics: 'Logon mai ali ki beti hoo
   Zindan se chut kar aayi hoo
 
   Baalon mein safedi laayi hoo'
-reciter: Meesum Abbas
+reciter: "Meesum Abbas"
 # source_id: nohayonline:ca756f4cabeac4427f87
 # source_url: https://www.nohayonline.com/details_content.php?id=1312
 # raw_sha256: 7ba881cc6257653c14eccd438602c88261a5390b7adbe8ac58e7b46e105d3a99

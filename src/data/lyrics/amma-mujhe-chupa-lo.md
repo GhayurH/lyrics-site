@@ -1,10 +1,10 @@
 ---
-title: بازار میں یہ زینب فضّہ سے کہہ رہی ہے
-alternateTitle: Amma Mujhe Chupa Lo
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بازار میں یہ زینب فضّہ سے کہہ رہی ہے"
+alternateTitle: "Amma Mujhe Chupa Lo"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Hamid Baltistani"
 poet: "Mir Takallum"
 tags: []

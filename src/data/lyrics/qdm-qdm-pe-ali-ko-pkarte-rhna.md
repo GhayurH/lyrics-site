@@ -1,11 +1,11 @@
 ---
-title: قدم قدم پہ علیؑ کو پکارتے رہنا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "قدم قدم پہ علیؑ کو پکارتے رہنا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mujahid Lakhnavi"
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false

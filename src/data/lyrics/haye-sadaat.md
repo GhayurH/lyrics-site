@@ -1,10 +1,10 @@
 ---
-title: ہائے سادات نے اس دہر میں کیا کیا دیکھا
-alternateTitle: Haye Sadaat
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے سادات نے اس دہر میں کیا کیا دیکھا"
+alternateTitle: "Haye Sadaat"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Ali Shanawar, Ali Jee"
 tags: []

@@ -1,9 +1,9 @@
 ---
-title: کرب و بلا لہو کا سفر دیکھتی رہی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کرب و بلا لہو کا سفر دیکھتی رہی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shahid Jafer"
 tags: []
 aliases: []

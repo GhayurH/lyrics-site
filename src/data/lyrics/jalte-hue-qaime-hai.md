@@ -1,10 +1,10 @@
 ---
-title: ہے دُخترِ شیرِ خُدا جو کربلا میں ہے بے ردا
-alternateTitle: Jalte Hue Khaime Haiṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہے دُخترِ شیرِ خُدا جو کربلا میں ہے بے ردا"
+alternateTitle: "Jalte Hue Khaime Haiṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Khursheed"
 reciter: "Hasan Sadiq"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: جب قافلہ پہنچا تھا مدینے کے ذرا پاس
-alternateTitle: Bas Itna Bata Do
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جب قافلہ پہنچا تھا مدینے کے ذرا پاس"
+alternateTitle: "Bas Itna Bata Do"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
 tags: []

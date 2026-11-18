@@ -1,11 +1,11 @@
 ---
-title: ميرے حسينؑ لِپٹ کہ شاہ سے کہتی ہے فاطمہؑ رو کے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ميرے حسينؑ لِپٹ کہ شاہ سے کہتی ہے فاطمہؑ رو کے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mubarak"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

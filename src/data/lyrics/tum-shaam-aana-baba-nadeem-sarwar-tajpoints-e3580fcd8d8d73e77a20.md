@@ -1,14 +1,14 @@
 ---
-title: میں کربوبلا نیء آ سکتی بابا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میں کربوبلا نیء آ سکتی بابا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "N. Sarwar & J. Jaffri"
 tags: []
 aliases: []
 published: false
-alternateTitle: Tum Shaam Aana Baba Nadeem Sarwar
+alternateTitle: "Tum Shaam Aana Baba Nadeem Sarwar"
 romanLyrics: 'Tum Shaam Aana Baba Nadeem Sarwar Lyrics
 
   Haye Sakina Haye Haye Masooma.

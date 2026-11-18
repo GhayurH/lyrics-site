@@ -1,9 +1,9 @@
 ---
-title: سادات پیاسے رہ گئے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سادات پیاسے رہ گئے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Salman Azmi"
 tags: []
 aliases: []

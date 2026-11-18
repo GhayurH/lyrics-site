@@ -2,10 +2,10 @@
 title: "بن گیا منبرِ پالان غدیرِ خم میں"
 alternateTitle: "Ban Gaya Mimbar-e-Palaan Ghadir-e-Khum Meiṅ"
 recitationId: "ghadeer-e-khum-main-mir-sajjad-mir"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Manqabat
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Manqabat"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Sajjad Mir"
 tags: []

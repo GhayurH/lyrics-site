@@ -1,10 +1,10 @@
 ---
-title: بنت زہرا کا کھلا سر ہے خدا خیر کرے
-alternateTitle: Khuda Khair Kare
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بنت زہرا کا کھلا سر ہے خدا خیر کرے"
+alternateTitle: "Khuda Khair Kare"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 tags: []
 aliases: []
@@ -68,7 +68,7 @@ romanLyrics: 'Binte zahra ka khula sar hai khuda khair kare
   Mir sajjad ye shireen ne kaha rote huwe
 
   Kiski naize pe ye chadar hai khuda khair kare'
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:f5a3f940d34e97a9748a
 # source_url: https://www.nohayonline.com/details_content.php?id=93
 # raw_sha256: c06cfcbbf65fb5de0f5c8ff7e501dd3f85f885464d77eae2c94a671a3a13fa8a

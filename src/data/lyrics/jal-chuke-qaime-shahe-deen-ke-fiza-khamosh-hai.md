@@ -1,10 +1,10 @@
 ---
-title: جل چُکے خیمے شہِ دیں کے فِضا خاموش ہے
-alternateTitle: Jal Chuke Qaime
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جل چُکے خیمے شہِ دیں کے فِضا خاموش ہے"
+alternateTitle: "Jal Chuke Qaime"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false
@@ -77,7 +77,7 @@ romanLyrics: 'Jal chuke qaime shahe deen ke fiza khamosh hai
   Maine jab poocha bata kya hai wafa ki inteha
 
   Keh ke ya abbas tareekh e wafa khamosh hai'
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 # source_id: nohayonline:fc7595010aa1587c9154
 # source_url: https://www.nohayonline.com/details_content.php?id=469
 # raw_sha256: 4a2b95adef34dd574a699c58104ec541441486bfcfc2d68397a0eb1e9a96ff0f

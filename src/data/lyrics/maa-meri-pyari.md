@@ -1,10 +1,10 @@
 ---
-title: اے ماں اے پیاری ماں
-alternateTitle: Maa Meri Pyari
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے ماں اے پیاری ماں"
+alternateTitle: "Maa Meri Pyari"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -83,7 +83,7 @@ romanLyrics: |-
   Karta raha inkaar-e-baiat
   Ab hai yahi armaaṅ
   Paas bula le maaṅ
-reciter: Farhan Ali Waris
+reciter: "Farhan Ali Waris"
 # source_id: nohayonline:09c98908c6907f2424d2
 # source_url: https://www.nohayonline.com/details_content.php?id=2355
 # raw_sha256: 312f319c64a14e1a07bf083ecaf57beab2b00d761a5272e71f88924163454405

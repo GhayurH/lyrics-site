@@ -1,10 +1,10 @@
 ---
-title: آخری رات سکینہ کی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Shahid Baltistani
+title: "آخری رات سکینہ کی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false

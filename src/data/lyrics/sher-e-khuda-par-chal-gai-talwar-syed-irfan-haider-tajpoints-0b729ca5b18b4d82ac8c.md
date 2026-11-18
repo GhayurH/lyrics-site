@@ -1,11 +1,11 @@
 ---
-title: Sher E Khuda Par Chal Gai Talwar Syed Irfan Haider
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Other
-poet: Shakeel
-tags: []
+title: "Sher E Khuda Par Chal Gai Talwar Syed Irfan Haider"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Other"
+poet: "Shakeel"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2ba98704c59f4d9c805f

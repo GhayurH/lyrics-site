@@ -1,10 +1,10 @@
 ---
-title: ویران آغوشِ مادر ویران دل سکینہ کا
-alternateTitle: Asghar Tera Jhoola
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ویران آغوشِ مادر ویران دل سکینہ کا"
+alternateTitle: "Asghar Tera Jhoola"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 reciter: "Irfan Haider"
 tags: []

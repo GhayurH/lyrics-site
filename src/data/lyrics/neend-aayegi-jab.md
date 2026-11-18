@@ -1,10 +1,10 @@
 ---
-title: جب خیمے میں رخصت کو شاہِ بحر و بر آئے
-alternateTitle: Nind Aayegi Jab
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جب خیمے میں رخصت کو شاہِ بحر و بر آئے"
+alternateTitle: "Nind Aayegi Jab"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anis"
 reciter: "Nadeem Sarwar"
 tags: []

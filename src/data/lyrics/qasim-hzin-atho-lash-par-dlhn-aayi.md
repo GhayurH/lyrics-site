@@ -1,9 +1,9 @@
 ---
-title: قاسمِؑ حزیں اٹھو لاش پر دلہن آئی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "قاسمِؑ حزیں اٹھو لاش پر دلہن آئی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ali Fitrat"
 tags: []
 aliases: []

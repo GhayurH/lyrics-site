@@ -1,10 +1,10 @@
 ---
-title: عباس عباس یا یا عباس
-alternateTitle: Lesh Takhir Abbas
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عباس عباس یا یا عباس"
+alternateTitle: "Lesh Takhir Abbas"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Raza Abbas Zaidi"
 tags: []

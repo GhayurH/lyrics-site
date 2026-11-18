@@ -1,10 +1,10 @@
 ---
-title: جلتے ہوئے خیموں سے ، زینبؑ کی صدا آئی ، عباسؑ کہاں ہو تم
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Akhtar
+title: "جلتے ہوئے خیموں سے ، زینبؑ کی صدا آئی ، عباسؑ کہاں ہو تم"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Akhtar"
 tags: []
 aliases: []
 published: false

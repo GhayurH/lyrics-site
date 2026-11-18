@@ -1,11 +1,11 @@
 ---
-title: بازار کے منظر کو اور اپنے کھلے سر کو بھولی نہیں میں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بازار کے منظر کو اور اپنے کھلے سر کو بھولی نہیں میں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ahmed Naved"
-reciter: Anjuman Shabab-ul-Momineen (Nazim Party)
+reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false

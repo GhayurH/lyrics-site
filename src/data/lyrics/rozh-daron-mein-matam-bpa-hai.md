@@ -1,10 +1,10 @@
 ---
-title: روزہ داروں میں ماتم بپا ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
-reciter: Syed Sajid Hussain Jafry
+title: "روزہ داروں میں ماتم بپا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
+reciter: "Syed Sajid Hussain Jafry"
 tags: []
 aliases: []
 published: false

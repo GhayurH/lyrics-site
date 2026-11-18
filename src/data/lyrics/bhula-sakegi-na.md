@@ -1,10 +1,10 @@
 ---
-title: بھُلا سکے گی نہ دنیا تیری وفا غازی
-alternateTitle: Bhula Sakegi Na
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بھُلا سکے گی نہ دنیا تیری وفا غازی"
+alternateTitle: "Bhula Sakegi Na"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mushtaq Hussain"
 reciter: "Hasan Sadiq"
 tags: []

@@ -1,11 +1,11 @@
 ---
-title: بابا تیری زہراؑ پہ مصیبت کی گھڑی ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بابا تیری زہراؑ پہ مصیبت کی گھڑی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

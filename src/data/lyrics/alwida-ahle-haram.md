@@ -1,10 +1,10 @@
 ---
-title: عصر کا وقت قریب آ گیا لو جاتے ہیں ہم
-alternateTitle: Alwida Ahle Haram
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عصر کا وقت قریب آ گیا لو جاتے ہیں ہم"
+alternateTitle: "Alwida Ahle Haram"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ahmed Naved"
 reciter: "Ali Zia Rizvi"
 tags: []

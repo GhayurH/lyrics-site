@@ -1,9 +1,9 @@
 ---
-title: مومنو طوس کے سردار کا ماتم کر لو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مومنو طوس کے سردار کا ماتم کر لو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

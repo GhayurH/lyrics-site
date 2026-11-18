@@ -1,10 +1,10 @@
 ---
-title: قیدِ تنہائی میں دم گھٹنے لگا ہے میرا
-alternateTitle: Qaid-e-Tanhaai Mein
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "قیدِ تنہائی میں دم گھٹنے لگا ہے میرا"
+alternateTitle: "Qaid-e-Tanhaai Mein"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Akhtar Hussain"
 reciter: "Sangat Imam Hasan Askari"
 tags: []

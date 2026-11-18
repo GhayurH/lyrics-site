@@ -1,10 +1,10 @@
 ---
-title: حق کر گئے مادر کے ادا سارے کے سارے
-alternateTitle: Haq Kar Gaye Ada
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "حق کر گئے مادر کے ادا سارے کے سارے"
+alternateTitle: "Haq Kar Gaye Ada"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Sachey Bhai"
 tags: []
 aliases: []

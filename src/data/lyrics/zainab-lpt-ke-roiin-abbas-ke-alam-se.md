@@ -1,10 +1,10 @@
 ---
-title: زینبؑ لپٹ کے روئیں عباسؑ کے علم سے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
+title: "زینبؑ لپٹ کے روئیں عباسؑ کے علم سے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 tags: []
 aliases: []
 published: false

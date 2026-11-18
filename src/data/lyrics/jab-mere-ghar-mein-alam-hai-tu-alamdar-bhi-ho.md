@@ -1,11 +1,11 @@
 ---
-title: جب میرے گھر میں علم ہے تو علمدار بھی ہو
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-reciter: Meesum Abbas
-tags: []
+title: "جب میرے گھر میں علم ہے تو علمدار بھی ہو"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+reciter: "Meesum Abbas"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:79f6345d66d7ed08e72d

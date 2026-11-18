@@ -1,14 +1,14 @@
 ---
-title: اے میرے بے زُبان ، تم رہ گئے کہاں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Takallum
+title: "اے میرے بے زُبان ، تم رہ گئے کہاں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Aye Mere Be Zabaan
+alternateTitle: "Aye Mere Be Zabaan"
 romanLyrics: 'Aey mere be zuban,tum reh gaye Kahan
 
   Asghar jiye gi kese,tere bagair maa
@@ -107,7 +107,7 @@ romanLyrics: 'Aey mere be zuban,tum reh gaye Kahan
   Paigham Karbala mai,jaker hawa yeh dena
 
   Zindan ke dar pe ab bhi,bethi hai ik maa'
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: tajpoints:3a2aa6d42e2a4cef0b97
 # source_url: https://tajpoints.com/2020/08/aye-mere-be-zabaan-lyrics-in-urdu-and.html
 # raw_sha256: 6d6fd057d4d24cd157d6234705f989ff25ec9f87e408ab121451bcf2a1a2aa6a

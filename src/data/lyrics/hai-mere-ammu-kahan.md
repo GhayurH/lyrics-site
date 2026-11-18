@@ -1,10 +1,10 @@
 ---
-title: بالی سکینہ یہی کرتی تھی رو رو فغاں
-alternateTitle: Hai Mere Ammu Kahan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بالی سکینہ یہی کرتی تھی رو رو فغاں"
+alternateTitle: "Hai Mere Ammu Kahan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees Pehersari"
 reciter: "Ali Zia Rizvi"
 tags: []

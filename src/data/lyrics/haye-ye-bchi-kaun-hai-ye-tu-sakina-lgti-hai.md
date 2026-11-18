@@ -1,10 +1,10 @@
 ---
-title: ہائے یہ بچّی کون ہے یہ تو سکینہؑ لگتی ہے
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-tags: []
+title: "ہائے یہ بچّی کون ہے یہ تو سکینہؑ لگتی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4c3e6e9b1d2b772a2537

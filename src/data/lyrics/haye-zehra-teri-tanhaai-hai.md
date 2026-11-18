@@ -1,11 +1,11 @@
 ---
-title: تنہائی علیؑ کی - ہائے زہراؑ تیری تنہائی ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تنہائی علیؑ کی - ہائے زہراؑ تیری تنہائی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
-reciter: Shahid Baltistani
+reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false

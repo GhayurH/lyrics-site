@@ -1,14 +1,14 @@
 ---
-title: میرے بابا میں کروں کیا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میرے بابا میں کروں کیا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Mere Baba Mesum Abbas
+alternateTitle: "Mere Baba Mesum Abbas"
 romanLyrics: 'Mere Baba Main Karon Kya.
 
   Khak Par Neend Nahi Aati Hai.

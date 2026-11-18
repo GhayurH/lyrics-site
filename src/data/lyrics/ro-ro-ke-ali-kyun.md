@@ -1,10 +1,10 @@
 ---
-title: رو رو کے علی کیوں لیتے ہیں
-alternateTitle: Ro Ro Ke Ali Kiuṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "رو رو کے علی کیوں لیتے ہیں"
+alternateTitle: "Ro Ro Ke Ali Kiuṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mir Hasan Mir"
 tags: []

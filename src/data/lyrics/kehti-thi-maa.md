@@ -1,10 +1,10 @@
 ---
-title: برسا فلک سے خون لرزنے لگی زمیں
-alternateTitle: Kehti Thi Maa
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "برسا فلک سے خون لرزنے لگی زمیں"
+alternateTitle: "Kehti Thi Maa"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []
@@ -82,7 +82,7 @@ romanLyrics: |-
   Hamraah mere rone lage ye saatoṅ aasmaaṅ
   Farhan nahiṅ nahiṅ ye kalaam bhi hai nauha khwaaṅ
   Bete ko qatl hote hue dekhti thi maaṅ
-reciter: Farhan Ali Waris
+reciter: "Farhan Ali Waris"
 # source_id: nohayonline:121a682035145beb3308
 # source_url: https://www.nohayonline.com/details_content.php?id=2375
 # raw_sha256: 20037b1a6ab442deac77d400ae59b78b7cf9d09e0fe79387915b884a79d43b54

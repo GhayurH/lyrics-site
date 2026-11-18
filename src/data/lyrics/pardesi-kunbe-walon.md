@@ -1,11 +1,11 @@
 ---
-title: پردیسی کنبے والوں کی یاد جو تیر چبھوتی ہے
-alternateTitle: Pardesi Kunbe Walon
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Ashraf Abbas
+title: "پردیسی کنبے والوں کی یاد جو تیر چبھوتی ہے"
+alternateTitle: "Pardesi Kunbe Walon"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Ashraf Abbas"
 tags: []
 aliases: []
 published: true

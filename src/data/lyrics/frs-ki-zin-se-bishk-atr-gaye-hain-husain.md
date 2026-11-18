@@ -1,9 +1,9 @@
 ---
-title: فرس کی زین سے بیشک اتر گئے ہیں حسینؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "فرس کی زین سے بیشک اتر گئے ہیں حسینؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 tags: []
 aliases: []

@@ -1,10 +1,10 @@
 ---
-title: تاریخ کے کرداروں کس بات میں تم کم ہو
-alternateTitle: Ae Sheh Ke Azadaroṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تاریخ کے کرداروں کس بات میں تم کم ہو"
+alternateTitle: "Ae Sheh Ke Azadaroṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: ["Ay Sheh Ke Azadaron"]
@@ -116,7 +116,7 @@ romanLyrics: |-
   Sach puchho to donoṅ ki har saans ibaadat hai
   Ae ahl-e-aza tum ko matam ki jo daawat hai
   Muṅh mor ke mat jaao kis baat meiṅ tum kam ho
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:2f16c3864d4697ce20f8
 # source_url: https://www.nohayonline.com/details_content.php?id=333
 # raw_sha256: 528d67ddfc86b668f98817c68ac65dd3215c8a72a05923c1a6156c431130f4c3

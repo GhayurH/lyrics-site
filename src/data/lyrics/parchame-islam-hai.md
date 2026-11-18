@@ -1,10 +1,10 @@
 ---
-title: پرچمِ اسلام تجھ پر سلام
-alternateTitle: Parcham-e-Islam Hai
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پرچمِ اسلام تجھ پر سلام"
+alternateTitle: "Parcham-e-Islam Hai"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Hasan Sadiq"
 poet: "Ameer Hussain Mashadi"
 tags: []

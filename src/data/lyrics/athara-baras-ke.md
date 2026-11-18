@@ -1,10 +1,10 @@
 ---
-title: اکبر کا جنازہ
-alternateTitle: Athara Baras Ke
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اکبر کا جنازہ"
+alternateTitle: "Athara Baras Ke"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ishrat Lakhnavi"
 reciter: "Ali Zia Rizvi"
 tags: []

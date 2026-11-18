@@ -1,10 +1,10 @@
 ---
-title: ہائے عباس کی بہنوں نے نہ پائی چادر
-alternateTitle: Abbas Ki Behno Ne
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے عباس کی بہنوں نے نہ پائی چادر"
+alternateTitle: "Abbas Ki Behno Ne"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Sajjad Mir"
 reciter: "Mir Hasan Mir"
 tags: []

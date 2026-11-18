@@ -1,10 +1,10 @@
 ---
-title: اے میرے دیس کے لوگوں میری آواز سنو
-alternateTitle: Karbala Aam Kareṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے میرے دیس کے لوگوں میری آواز سنو"
+alternateTitle: "Karbala Aam Kareṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hilal Naqvi"
 tags: []
 aliases: ["Karbala Aam Kare"]
@@ -86,7 +86,7 @@ romanLyrics: |-
   Waqt kitna hi badal jaaye ye maatam na ruke
   Ye shahidoṅ ka hai maatam ba Khuda aam kareṅ
   Kya khabar tum na raho kya khabar hum na raheṅ
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:6ec8ae5c36dd1b6300f6
 # source_url: https://www.nohayonline.com/details_content.php?id=2057
 # raw_sha256: dc30cc84b821ed8b911816095bc2d8c12a58534a087b9d7aaaeeeb7c00ce85dd

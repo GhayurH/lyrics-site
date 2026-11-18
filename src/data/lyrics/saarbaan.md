@@ -1,10 +1,10 @@
 ---
-title: مولا غمزدہ ناتواں سارباں
-alternateTitle: Saarbaan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مولا غمزدہ ناتواں سارباں"
+alternateTitle: "Saarbaan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

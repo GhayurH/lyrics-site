@@ -1,10 +1,10 @@
 ---
-title: آبروئے لا الٰہ سجدۂ شبیر ہے
-alternateTitle: Aabru-e-La Ilaha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آبروئے لا الٰہ سجدۂ شبیر ہے"
+alternateTitle: "Aabru-e-La Ilaha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Irfan"
 reciter: "Hasan Sadiq"
 tags: []

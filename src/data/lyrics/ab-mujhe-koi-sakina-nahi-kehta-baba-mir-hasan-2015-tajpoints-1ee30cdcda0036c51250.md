@@ -1,14 +1,14 @@
 ---
-title: شاہ کی لاڈلی جب قیدی زندان ہوئی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Akbar
+title: "شاہ کی لاڈلی جب قیدی زندان ہوئی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Akbar"
 tags: []
 aliases: []
 published: false
-alternateTitle: Ab Mujhe Koi Sakina Nahi Kehta Baba Mir Hasan 2015
+alternateTitle: "Ab Mujhe Koi Sakina Nahi Kehta Baba Mir Hasan 2015"
 romanLyrics: 'Shaah ki laadli jab qaidi e zindan hui
 
   Royi ghabrayi bahot aur pareshan hui
@@ -101,7 +101,7 @@ romanLyrics: 'Shaah ki laadli jab qaidi e zindan hui
   Aaj to jayenge saath apne mujhe bhi lekar
 
   Aap ko meri qasam ki jiye waada baba'
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: tajpoints:1ee30cdcda0036c51250
 # source_url: https://tajpoints.com/2017/02/ab-mujhe-koi-sakinasa-nahi-kehta-baba.html
 # raw_sha256: ae6488d0b98211dbd82cfada5a07dc774880ed25daa62d5d5ec2aef78a66c0aa

@@ -1,10 +1,10 @@
 ---
-title: عسکری کی سامرہ میں ہائے شہادت ہو گئی
-alternateTitle: Askari Ki Saamra Mein
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عسکری کی سامرہ میں ہائے شہادت ہو گئی"
+alternateTitle: "Askari Ki Saamra Mein"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rizwan Rizvi"
 reciter: "Taqi Raza Alipuri"
 tags: []

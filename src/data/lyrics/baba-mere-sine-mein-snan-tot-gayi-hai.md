@@ -1,11 +1,11 @@
 ---
-title: بابا میرے سینے میں سِناں ٹوٹ گئی ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بابا میرے سینے میں سِناں ٹوٹ گئی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
-reciter: Shahid Baltistani
+reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false

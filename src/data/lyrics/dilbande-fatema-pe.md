@@ -1,10 +1,10 @@
 ---
-title: دلبند فاطمہ پہ ظالم رحم نہ آیا
+title: "دلبند فاطمہ پہ ظالم رحم نہ آیا"
 alternateTitle: "Dilband-e-Fatima Pe Zaalim Reham Na Aaya"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gulzar Jafri"
 reciter: "Hasan Sadiq"
 tags: []

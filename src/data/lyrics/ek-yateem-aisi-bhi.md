@@ -1,10 +1,10 @@
 ---
-title: راہ میں ناقے سے جب گر گئی چھوٹی زہرا
-alternateTitle: Ek Yatim Aisi Bhi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "راہ میں ناقے سے جب گر گئی چھوٹی زہرا"
+alternateTitle: "Ek Yatim Aisi Bhi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zeeshan Abidi"
 tags: []
 aliases: ["Ek Yateem Aisi Bhi"]

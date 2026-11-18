@@ -1,10 +1,10 @@
 ---
-title: اکبر کڑیل جواں اکبر کڑیل جواں
-alternateTitle: Akbare Kadiyal Jawan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اکبر کڑیل جواں اکبر کڑیل جواں"
+alternateTitle: "Akbare Kadiyal Jawan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: true

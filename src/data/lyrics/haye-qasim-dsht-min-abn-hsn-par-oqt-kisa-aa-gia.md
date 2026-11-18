@@ -1,11 +1,11 @@
 ---
-title: ہائے قاسمؑ دشت ميں ابنِ حسنؑ پر وقت کيسا آ گيا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے قاسمؑ دشت ميں ابنِ حسنؑ پر وقت کيسا آ گيا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

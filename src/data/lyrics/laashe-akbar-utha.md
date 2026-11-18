@@ -1,10 +1,10 @@
 ---
-title: لاشِ اکبر اُٹھا رہے ہیں حُسین
-alternateTitle: Laashe Akbar Utha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لاشِ اکبر اُٹھا رہے ہیں حُسین"
+alternateTitle: "Laashe Akbar Utha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Sachey Bhai"
 reciter: "Sachey Bhai"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: ہائے حسن ہائے حسین
-alternateTitle: Fatema Ke Dono Pisar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہائے حسن ہائے حسین"
+alternateTitle: "Fatema Ke Dono Pisar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 reciter: "Mir Hasan Mir"
 tags: []

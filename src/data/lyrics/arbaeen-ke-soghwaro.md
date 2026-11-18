@@ -1,10 +1,10 @@
 ---
-title: اربعیں کے سوگواروں الوداع
-alternateTitle: Arbaeen Ke Soghwaro
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "اربعیں کے سوگواروں الوداع"
+alternateTitle: "Arbaeen Ke Soghwaro"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 reciter: "Alamdar Razvi"
 tags: []
 aliases: []

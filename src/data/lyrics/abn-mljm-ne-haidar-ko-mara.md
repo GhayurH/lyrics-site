@@ -1,10 +1,10 @@
 ---
-title: ابنِ ملجم نے حیدرؑ کو مارا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Ali Safdar Rizvi
+title: "ابنِ ملجم نے حیدرؑ کو مارا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Ali Safdar Rizvi"
 tags: []
 aliases: []
 published: false

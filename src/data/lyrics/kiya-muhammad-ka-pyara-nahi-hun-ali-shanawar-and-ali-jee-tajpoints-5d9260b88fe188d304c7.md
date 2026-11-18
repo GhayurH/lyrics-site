@@ -1,14 +1,14 @@
 ---
-title: میرے نانا نبی میری ماں سیدہ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میرے نانا نبی میری ماں سیدہ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Kiya Muhammad Ka Pyara Nahi Hun Ali Shanawar And Ali Jee
+alternateTitle: "Kiya Muhammad Ka Pyara Nahi Hun Ali Shanawar And Ali Jee"
 romanLyrics: 'Kiya Muhammad Ka Pyara Nahi Hun Ali Shanawar and Ali Jee.
 
   Mera Nana Nabi Meri Maa Syeda.

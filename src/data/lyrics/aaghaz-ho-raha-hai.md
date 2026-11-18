@@ -1,10 +1,10 @@
 ---
 title: "آغاز ہو رہا ہے کربل کی کہانی کا"
 alternateTitle: "Aaghaz Ho Raha Hai Karbal Ki Kahani Ka"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mushtaq Hussain"
 reciter: "Hasan Sadiq"
 tags: []

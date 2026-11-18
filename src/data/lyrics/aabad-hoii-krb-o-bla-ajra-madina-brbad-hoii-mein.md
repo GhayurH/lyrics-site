@@ -1,11 +1,11 @@
 ---
-title: آباد ہوئی کرب و بلا اجڑا مدینہ برباد ہوئی میں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آباد ہوئی کرب و بلا اجڑا مدینہ برباد ہوئی میں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shaukath Bilgrami"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

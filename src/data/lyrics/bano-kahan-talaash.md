@@ -1,10 +1,10 @@
 ---
-title: بانو کہاں تلاش کرے اپنے لال کو
-alternateTitle: Bano Kahan Talaash
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بانو کہاں تلاش کرے اپنے لال کو"
+alternateTitle: "Bano Kahan Talaash"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Tauqeer Zaidi"
 reciter: "Nasir Zaidi"
 tags: []

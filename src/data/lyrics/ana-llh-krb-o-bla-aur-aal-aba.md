@@ -1,9 +1,9 @@
 ---
-title: اِنّا للہ کرب و بلا اور آل عبا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اِنّا للہ کرب و بلا اور آل عبا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mohsin"
 tags: []
 aliases: []

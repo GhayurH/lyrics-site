@@ -1,10 +1,10 @@
 ---
-title: تنہا اب تک اشک بہائے اکبر کی بیمار بہن
-alternateTitle: Tanha Ab Tak
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تنہا اب تک اشک بہائے اکبر کی بیمار بہن"
+alternateTitle: "Tanha Ab Tak"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []

@@ -1,9 +1,9 @@
 ---
-title: اے شام کے لوگوں میں بنتِ علی ہوں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اے شام کے لوگوں میں بنتِ علی ہوں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
@@ -92,7 +92,7 @@ romanLyrics: 'Mai Bint e Ali hun
   Bibi nay kaha fakhr say
 
   Mai jeet gai hun'
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: nohayonline:1db48a37094c0ef73175
 # source_url: https://www.nohayonline.com/details_content.php?id=297
 # raw_sha256: ba720e44625dafc3df53aae7267e3a4896a50fc99876a6be4531cceb05fa121f

@@ -1,10 +1,10 @@
 ---
-title: فضہ تجھے سلام
-alternateTitle: Zahra Se Kiya Wada
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "فضہ تجھے سلام"
+alternateTitle: "Zahra Se Kiya Wada"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 reciter: "Mir Hasan Mir"
 tags: []

@@ -1,10 +1,10 @@
 ---
-title: جب آگئی شامِ غریباں، بپا ہوا ماتم
-alternateTitle: Abbas Ammujanam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جب آگئی شامِ غریباں، بپا ہوا ماتم"
+alternateTitle: "Abbas Ammujanam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -60,7 +60,7 @@ romanLyrics: |-
   Rehaan Azmi ka likha hua ye noha
   Nasir parha jo maiṅ ne dil khud ba khud pukara
   Lazim hai ab to matam
-reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
+reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 # source_id: nohayonline:be567df2a3c7f1e53cb3
 # source_url: https://www.nohayonline.com/details_content.php?id=84
 # raw_sha256: 1734f452db23beca558f471756c91e60385cdff8648c38167588ff6cac8b9485

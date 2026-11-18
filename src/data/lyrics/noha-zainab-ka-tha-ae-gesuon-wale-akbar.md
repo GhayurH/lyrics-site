@@ -1,9 +1,9 @@
 ---
-title: ؑنوحہ زینبؑ کا تھا اے گیسوئوں والے اکبر
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ؑنوحہ زینبؑ کا تھا اے گیسوئوں والے اکبر"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anjum Zaidi"
 tags: []
 aliases: []

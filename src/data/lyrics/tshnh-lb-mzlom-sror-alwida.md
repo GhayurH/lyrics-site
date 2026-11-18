@@ -1,9 +1,9 @@
 ---
-title: تشنہ لب مظلوم سرورؑ الوداع
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تشنہ لب مظلوم سرورؑ الوداع"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Baquer Amanathkhani"
 tags: []
 aliases: []

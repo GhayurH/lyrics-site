@@ -1,9 +1,9 @@
 ---
-title: تو ساتواں مشکل کشاء نورِ جنابِ سیدہؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "تو ساتواں مشکل کشاء نورِ جنابِ سیدہؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []

@@ -1,10 +1,10 @@
 ---
-title: گھر فاطمہ زہرا کا عجب شان کا گھر ہے
+title: "گھر فاطمہ زہرا کا عجب شان کا گھر ہے"
 alternateTitle: "Ghar Fatema Zehra Ka Ajab Shaan Ka Ghar Hai"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasan Imdad"
 tags: []
 aliases: []
@@ -58,7 +58,7 @@ romanLyrics: |-
   Insaan ki taqdir - farishtoṅ ka muqaddar
   Raahib ko kai laal isi ghar se mile haiṅ
   Fitrus ko par o baal isi ghar se mile haiṅ
-reciter: Sachey Bhai
+reciter: "Sachey Bhai"
 # source_id: nohayonline:c793dfb41e2bd3cb8a70
 # source_url: https://www.nohayonline.com/details_content.php?id=43
 # raw_sha256: a640b7f6d8fa9bb3f3932ae2db815c2cb1b0ad1f91cda29c5a65cd0cd722334d

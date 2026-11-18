@@ -1,10 +1,10 @@
 ---
-title: گھبراۓ گی زینب گھبراۓ گی زینب
-alternateTitle: Ghabraaegi Zainab
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "گھبراۓ گی زینب گھبراۓ گی زینب"
+alternateTitle: "Ghabraaegi Zainab"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Munshi Channulal"
 tags: []
 aliases: []
@@ -37,7 +37,7 @@ romanLyrics: |-
   Beparda hui qaid bhi khwaahar ne uthaai
   Par maut na aayi
   Kya jaaniye kya kya abhi dukh paaegi Zainab
-reciter: Nasir Jehan
+reciter: "Nasir Jehan"
 # source_id: nohayonline:60d45e613b700bfb444c
 # source_url: https://www.nohayonline.com/content_salaam.php?id=35
 # raw_sha256: c70afd12f145bfedfaab323f90eb9a3c6042db9de78ad77be19a3321b563254b

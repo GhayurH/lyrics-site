@@ -1,10 +1,10 @@
 ---
-title: مقتل کی زمیں اور قیامت کا وہ منظر
-alternateTitle: Kya Baap Se Is Tarha
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مقتل کی زمیں اور قیامت کا وہ منظر"
+alternateTitle: "Kya Baap Se Is Tarha"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zeeshan Abidi"
 reciter: "Raza Abbas Zaidi"
 tags: []

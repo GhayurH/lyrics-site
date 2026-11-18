@@ -1,11 +1,11 @@
 ---
-title: جوں جوں بازار قریب آیا زینبؑ کو غازیؑ یاد آیا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جوں جوں بازار قریب آیا زینبؑ کو غازیؑ یاد آیا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
-reciter: Farhan Ali
+reciter: "Farhan Ali"
 tags: []
 aliases: []
 published: false

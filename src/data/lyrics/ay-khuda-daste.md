@@ -1,10 +1,10 @@
 ---
-title: یاد عباس سر شام غریباں آید
-alternateTitle: Ae Khuda Dast-e-Karam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یاد عباس سر شام غریباں آید"
+alternateTitle: "Ae Khuda Dast-e-Karam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -68,7 +68,7 @@ romanLyrics: |-
   In ki daulat hai yehi gham ki asaas
   Aap ki nazr Janaab-e-Abbas
   Ek aawaaz hai aur ek qalam
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:9d209cd008b2e6df0aab
 # source_url: https://www.nohayonline.com/details_content.php?id=3093
 # raw_sha256: ff74185c8587869fa1440b82e51e10b99149bdbb86dd9d6249eb268381969988

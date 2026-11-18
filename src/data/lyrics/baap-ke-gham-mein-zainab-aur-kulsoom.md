@@ -1,9 +1,9 @@
 ---
-title: ؑباپ کے غم میں کہتی ہیں رو کر زینبؑ اور کلثوم
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ؑباپ کے غم میں کہتی ہیں رو کر زینبؑ اور کلثوم"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees Pehersari"
 tags: []
 aliases: []

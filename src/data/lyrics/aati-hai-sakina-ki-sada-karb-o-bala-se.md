@@ -1,10 +1,10 @@
 ---
-title: آتی ہے سکینہؑ کی صدا کرب و بلا سے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+title: "آتی ہے سکینہؑ کی صدا کرب و بلا سے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false

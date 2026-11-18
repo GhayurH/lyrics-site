@@ -1,10 +1,10 @@
 ---
-title: میں چل بھی نہیں سکتا قیدی ہوں میں اماں
-alternateTitle: Main Chal Bhi Nahiṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "میں چل بھی نہیں سکتا قیدی ہوں میں اماں"
+alternateTitle: "Main Chal Bhi Nahiṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shaukath"
 reciter: "Farhan Ali Waris"
 tags: []

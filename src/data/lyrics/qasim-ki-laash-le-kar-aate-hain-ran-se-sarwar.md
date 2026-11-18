@@ -1,9 +1,9 @@
 ---
-title: قاسمؑ کی لاش لے کر آتے ہیں رن سے سرورؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "قاسمؑ کی لاش لے کر آتے ہیں رن سے سرورؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

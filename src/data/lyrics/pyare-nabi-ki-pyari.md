@@ -1,10 +1,10 @@
 ---
-title: پیارے نبی کی پیاری نواسی
-alternateTitle: Pyare Nabi Ki Pyari
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پیارے نبی کی پیاری نواسی"
+alternateTitle: "Pyare Nabi Ki Pyari"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Ali Shanawar, Ali Jee"
 tags: []

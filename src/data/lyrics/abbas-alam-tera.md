@@ -1,10 +1,10 @@
 ---
-title: شبیر کا پیغام سناتے ہی رہیں گے
-alternateTitle: Abbas Alam Tera
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شبیر کا پیغام سناتے ہی رہیں گے"
+alternateTitle: "Abbas Alam Tera"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Bober Ali"
 reciter: "Mir Bober Ali"
 tags: []

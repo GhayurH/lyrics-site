@@ -1,9 +1,9 @@
 ---
-title: کچھ تو بولو آنکھیں کھولو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کچھ تو بولو آنکھیں کھولو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []

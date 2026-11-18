@@ -1,11 +1,11 @@
 ---
-title: یہ ماتم صدا رہے اور اِس سے سوا رہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ ماتم صدا رہے اور اِس سے سوا رہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Sachey Bhai"
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false

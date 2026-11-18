@@ -1,10 +1,10 @@
 ---
-title: زینب نہ تجھے چھوڑ کے جی پائے گی فضہ
-alternateTitle: Na Ji Paayegi Fizza
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "زینب نہ تجھے چھوڑ کے جی پائے گی فضہ"
+alternateTitle: "Na Ji Paayegi Fizza"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Irfan Hussain"
 tags: []

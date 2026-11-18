@@ -2,10 +2,10 @@
 title: "وہ غدیرِ خم میں اذاں ہوئی"
 alternateTitle: "Woh Ghadir-e-Khum Meiṅ Azaaṅ Hui"
 recitationId: "ghadeer-e-khum-mohsin-naqvi"
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Manqabat
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Manqabat"
 poet: "Mohsin Naqvi"
 tags: []
 aliases: ["ghadeer-e-khum-mohsin-naqvi"]

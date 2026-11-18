@@ -1,10 +1,10 @@
 ---
-title: یثرب میں آئی خواب میں زینب کے یوں بتول
-alternateTitle: Ye Maa Kahan Na
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یثرب میں آئی خواب میں زینب کے یوں بتول"
+alternateTitle: "Ye Maa Kahan Na"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mirza Dabeer"
 reciter: "Nadeem Sarwar"
 tags: []

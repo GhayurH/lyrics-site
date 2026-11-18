@@ -1,10 +1,10 @@
 ---
-title: دمشق میں جو غریبوں کا کارواں پہنچا
-alternateTitle: Haye Hussain Pyase
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "دمشق میں جو غریبوں کا کارواں پہنچا"
+alternateTitle: "Haye Hussain Pyase"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

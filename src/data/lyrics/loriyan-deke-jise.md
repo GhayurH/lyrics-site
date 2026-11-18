@@ -1,10 +1,10 @@
 ---
-title: لوریاں دے کے جسے زنداں نے سُلایا ہو گا
-alternateTitle: Loriyaṅ De Ke Jise
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لوریاں دے کے جسے زنداں نے سُلایا ہو گا"
+alternateTitle: "Loriyaṅ De Ke Jise"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Jawad Jaffri"
 tags: []
 aliases: []
@@ -40,7 +40,7 @@ romanLyrics: |-
   Surat Ali Asghar ki mujhe laa ke dikha do
   Jis ne bhi dil meiṅ basaaya hai tera gham Bibi
   Us ko Jawaad ke nauhe ne rulaaya hoga
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 # source_id: nohayonline:0fc7dd8688a7ec8a63db
 # source_url: https://www.nohayonline.com/details_content.php?id=620
 # raw_sha256: d04e1c0ede8726fd00d5e01757b5d1e00d5686226341e2da02b30ec4e5b3965a

@@ -1,10 +1,10 @@
 ---
-title: اصغر ہائے اصغر
-alternateTitle: Asghar Haye Asghar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "اصغر ہائے اصغر"
+alternateTitle: "Asghar Haye Asghar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Ali Zia Rizvi"
 # alternate_source_reciter: Anjuman Karwan-e-Aza (Irfan Haider)
 poet: "Anees Pehersari"

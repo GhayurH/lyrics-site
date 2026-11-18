@@ -1,11 +1,11 @@
 ---
-title: امِّ لیلیٰ نے کہا تشنہ دھن کچھ تو کہو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "امِّ لیلیٰ نے کہا تشنہ دھن کچھ تو کہو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Irfan"
-reciter: Tanzeem-ul-Husaini (Nasir Zaidi)
+reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 tags: []
 aliases: []
 published: false

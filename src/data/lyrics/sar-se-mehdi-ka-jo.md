@@ -1,10 +1,10 @@
 ---
-title: سر سے مہدی کے جو بابا کا اُٹھا ہے سایہ
-alternateTitle: Sar Se Mehdi Ka Jo
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "سر سے مہدی کے جو بابا کا اُٹھا ہے سایہ"
+alternateTitle: "Sar Se Mehdi Ka Jo"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Samar Zaidi"
 reciter: "Mazahir Abbas"
 tags: []

@@ -9,7 +9,7 @@ poet: "Suroor Lakhnavi"
 tags: []
 aliases: []
 published: true
-reciter: Anj. Grohe Hussain
+reciter: "Anj. Grohe Hussain"
 romanLyrics: |-
   Khat meiṅ ye Sughra ne likha kya hua
   Kiuṅ nahiṅ aate ho bhaiya kya hua

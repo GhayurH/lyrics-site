@@ -1,11 +1,11 @@
 ---
-title: مسافرانِ مصیبت وطن میں آتے ہیں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مسافرانِ مصیبت وطن میں آتے ہیں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mirza Dabeer"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

@@ -1,11 +1,11 @@
 ---
-title: ہائے بعد رسولؐ امت نے فاطمہؑ کو بہت ستایا ہے
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-reciter: Katri Bawa
-tags: []
+title: "ہائے بعد رسولؐ امت نے فاطمہؑ کو بہت ستایا ہے"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+reciter: "Katri Bawa"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2e432bae4cfa2be0b51d

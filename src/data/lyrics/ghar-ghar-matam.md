@@ -1,10 +1,10 @@
 ---
-title: گھر گھر ماتم در در ماتم
-alternateTitle: Ghar Ghar Maatam
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "گھر گھر ماتم در در ماتم"
+alternateTitle: "Ghar Ghar Maatam"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: ["Ghar Ghar Matam"]
@@ -69,7 +69,7 @@ romanLyrics: |-
   Rehan Kaho Yeh Baat Bhi Ab
   Sarwar Jo Sunaye Ga Noha
   Janat Mein Bapa Hoga Matam
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:c1dcfb58f2e4a58930a7
 # source_url: https://www.nohayonline.com/details_content.php?id=3090
 # raw_sha256: dd3f21bee63975f4334521147dacca4978474d49e3ad184a81ddbd048f951ff6

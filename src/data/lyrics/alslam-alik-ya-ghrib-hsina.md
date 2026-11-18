@@ -1,10 +1,10 @@
 ---
-title: السلامُ علیک یا غریب حسینا
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Shahid Baltistani
+title: "السلامُ علیک یا غریب حسینا"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false

@@ -1,9 +1,9 @@
 ---
-title: ہائے علیؑ قتل ہوگئے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "ہائے علیؑ قتل ہوگئے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 poet: "Anees Pehersari"
 tags: []
 aliases: []

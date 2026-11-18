@@ -9,7 +9,7 @@ poet: "Rehan Azmi"
 tags: []
 aliases: ["Hum Hussaini Hai"]
 published: true
-reciter: Nadeem Sarwar
+reciter: "Nadeem Sarwar"
 romanLyrics: |-
   Husain Husain Husain
   Hum Husaini haiṅ dunya meiṅ phaile hue

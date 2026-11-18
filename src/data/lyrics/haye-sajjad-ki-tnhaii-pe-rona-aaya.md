@@ -1,10 +1,10 @@
 ---
-title: ہائے سجادؑ کی تنہائی پہ رونا آیا
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Noha
-tags: []
+title: "ہائے سجادؑ کی تنہائی پہ رونا آیا"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Noha"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:61d60e3f273aa1170907

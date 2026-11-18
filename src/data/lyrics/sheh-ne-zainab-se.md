@@ -1,10 +1,10 @@
 ---
-title: شہہ نے زینب سے کہا مقتل میں تم آنا نہیں
-alternateTitle: Sheh Ne Zainab Se
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "شہہ نے زینب سے کہا مقتل میں تم آنا نہیں"
+alternateTitle: "Sheh Ne Zainab Se"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Qais Zangipuri"
 reciter: "Mir Mohsin Ali"
 tags: []

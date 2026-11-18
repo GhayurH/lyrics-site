@@ -1,10 +1,10 @@
 ---
-title: ایسے آے علی اکبر سر میدان وغا
-alternateTitle: Ana Ali Yabnul
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ایسے آے علی اکبر سر میدان وغا"
+alternateTitle: "Ana Ali Yabnul"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Ali Shanawar, Ali Jee"
 poet: "Rehan Azmi"
 tags: []

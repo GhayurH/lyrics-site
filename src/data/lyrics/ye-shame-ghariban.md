@@ -1,10 +1,10 @@
 ---
-title: یہ شام غریباں ہے
-alternateTitle: Ye Shaam-e-Gharibaṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ شام غریباں ہے"
+alternateTitle: "Ye Shaam-e-Gharibaṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -62,7 +62,7 @@ romanLyrics: |-
   Pehchaan hai jannat meiṅ
   In donoṅ ke sinoṅ pe
   Maatam ki nishaani hai
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:72826c5403f5cdb054f1
 # source_url: https://www.nohayonline.com/details_content.php?id=3324
 # raw_sha256: c95835764419683ecef18ad9289b8dd744fbf141f61067cfbec39f98cc685edf

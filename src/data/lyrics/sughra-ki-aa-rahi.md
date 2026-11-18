@@ -1,10 +1,10 @@
 ---
-title: مر جائے گی صغرا گھبرائے گی صغرا
-alternateTitle: Sughra Ki Aa Rahi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "مر جائے گی صغرا گھبرائے گی صغرا"
+alternateTitle: "Sughra Ki Aa Rahi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 reciter: "Hasan Sadiq"
 tags: []
 aliases: []

@@ -1,14 +1,14 @@
 ---
-title: دی تھی اماں نے جو پوشاک وہ لا دو زینب
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Takklum
+title: "دی تھی اماں نے جو پوشاک وہ لا دو زینب"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Takklum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Di Thi Amma Ne Jo Poshak Wo La Do Zainab
+alternateTitle: "Di Thi Amma Ne Jo Poshak Wo La Do Zainab"
 romanLyrics: 'Di Thi Amma Ne Jo Poshak Wo La Do Zainab.
 
   Apne Hathon Se Kafan Mujh Ko Pehna Do Zainab.
@@ -78,7 +78,7 @@ romanLyrics: 'Di Thi Amma Ne Jo Poshak Wo La Do Zainab.
   Sab Hi Rote The Takklum Dar-e-Khaima Pe Khare.
 
   Sheh Ne Jis Dam Kaha Marne Ki Riza Do Zainab.'
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: tajpoints:d622eb756c5fd3f48b75
 # source_url: https://tajpoints.com/2017/02/di-thi-amma-ne-jo-poshak-wo-la-do.html
 # raw_sha256: 5e69e4e8511b448923ba210fdc8f514436be5b56d2fe58327d48450852bdeffb

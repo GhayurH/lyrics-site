@@ -8,8 +8,8 @@ kalamType: "Manqabat"
 tags: []
 aliases: ["Koi Misal Mil Nahi Sakti Hussain Ki"]
 published: true
-poet: Hasnain Akbar
-reciter: Master Syed Muhammad Shah
+poet: "Hasnain Akbar"
+reciter: "Master Syed Muhammad Shah"
 romanLyrics: |-
   Koi misaal mil nahiṅ sakti Husain ki
 

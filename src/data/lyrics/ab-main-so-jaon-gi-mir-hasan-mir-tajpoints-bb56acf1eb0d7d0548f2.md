@@ -1,14 +1,14 @@
 ---
-title: باپ کے سر سے لِپٹ کر يہ سکينہؑ بولی اب ميں سو جاؤں گی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "باپ کے سر سے لِپٹ کر يہ سکينہؑ بولی اب ميں سو جاؤں گی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Hasnain Akbar"
 tags: []
 aliases: []
 published: false
-alternateTitle: Ab Main So Jaon Gi Mir Hasan Mir
+alternateTitle: "Ab Main So Jaon Gi Mir Hasan Mir"
 romanLyrics: 'Baba meray Baba
 
   Ab mai so jaun ge Baba
@@ -131,7 +131,7 @@ romanLyrics: 'Baba meray Baba
   Goonjti hai wo ilaiyya ya bunayya ki sada
 
   Aaj awaaz wohi aati hai maqtal waali'
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 # source_id: tajpoints:bb56acf1eb0d7d0548f2
 # source_url: https://tajpoints.com/2017/02/baap-ke-sar-se-lipat-kar-ye-sakinasa.html
 # raw_sha256: 9e2980f7bc8ae2b7c3f8a71115a19f6c25b379ffb72063c99eb1f238381b4c21

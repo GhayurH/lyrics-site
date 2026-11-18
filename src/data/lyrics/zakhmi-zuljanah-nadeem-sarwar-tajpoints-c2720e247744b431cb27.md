@@ -1,14 +1,14 @@
 ---
-title: زخمی ذوالجناح زخمی ذوالجناح
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Rehan
+title: "زخمی ذوالجناح زخمی ذوالجناح"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Rehan"
 tags: []
 aliases: []
 published: false
-alternateTitle: Zakhmi Zuljanah Nadeem Sarwar
+alternateTitle: "Zakhmi Zuljanah Nadeem Sarwar"
 romanLyrics: 'Zakhmi Zuljanah Nadeem Sarwar Lyrics
 
   Zakhmi Zuljanah, Zakhmi Zuljanah, Zakhmi Zuljinah.
@@ -154,7 +154,7 @@ romanLyrics: 'Zakhmi Zuljanah Nadeem Sarwar Lyrics
   Rehan Lab Kusha Howa Sarwar Ka Rahwar.
 
   Aye Zainab-e-Hazeen Main Be Wafa Nahi Shahid Hai Yeh Azaan.'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:91ad345da662f447663f
 # source_url: https://www.nohayonline.com/details_content.php?id=3325
 # raw_sha256: 6c20065a335b040441551032127658defa8f1acf65d73fb2b5ca1f06a1fdc5cb

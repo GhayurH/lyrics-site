@@ -1,10 +1,10 @@
 ---
-title: آیا کیا دورِ بلا ہائے عاشور کے دن
-alternateTitle: Haye Ashoor Ke Din
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "آیا کیا دورِ بلا ہائے عاشور کے دن"
+alternateTitle: "Haye Ashoor Ke Din"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anees"
 tags: []
 aliases: []

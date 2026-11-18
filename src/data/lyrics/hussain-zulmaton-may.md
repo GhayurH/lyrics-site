@@ -1,10 +1,10 @@
 ---
-title: حسین ظلمتوں میں گوہر تابندہ ہے
-alternateTitle: Husain Zulmatoṅ Meiṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "حسین ظلمتوں میں گوہر تابندہ ہے"
+alternateTitle: "Husain Zulmatoṅ Meiṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Afzal Hussain Najfi"
 tags: []
 aliases: []
@@ -36,7 +36,7 @@ romanLyrics: |-
   6
   Na tars bachchoṅ pe na paas kalma waaloṅ ka
   Sipaah-e-Shimr meiṅ Najfi har ek darinda hai
-reciter: Hasan Sadiq
+reciter: "Hasan Sadiq"
 # source_id: nohayonline:0948bb1c0c6bfd8881ee
 # source_url: https://www.nohayonline.com/details_content.php?id=2305
 # raw_sha256: cdd0df7252587c3be74fb51f3a03db0d6fdc3a81a7061eb576525eb4183a7197

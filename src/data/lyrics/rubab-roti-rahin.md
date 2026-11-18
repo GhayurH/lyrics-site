@@ -1,11 +1,11 @@
 ---
-title: رباب روتی رہیں اور یہ بین کرتی رہیں
-alternateTitle: Rubaab Roti Rahiṅ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Marsiya
-poet: Syed Zeyaul Hasnain
+title: "رباب روتی رہیں اور یہ بین کرتی رہیں"
+alternateTitle: "Rubaab Roti Rahiṅ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Marsiya"
+poet: "Syed Zeyaul Hasnain"
 tags: []
 aliases: ["rubab-roti-rahin-urdu", "Rubab Roti Rahin (Urdu)"]
 published: true

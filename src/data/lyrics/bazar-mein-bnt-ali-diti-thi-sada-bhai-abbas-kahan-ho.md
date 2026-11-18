@@ -1,11 +1,11 @@
 ---
-title: بازار میں بنتِ علیؑ دیتی تھی صدا بھائی عباسؑ کہاں ہو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بازار میں بنتِ علیؑ دیتی تھی صدا بھائی عباسؑ کہاں ہو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Yasir"
-reciter: Meer Hasan Meer
+reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false

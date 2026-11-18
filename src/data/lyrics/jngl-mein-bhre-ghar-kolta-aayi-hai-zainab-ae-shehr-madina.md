@@ -1,9 +1,9 @@
 ---
-title: جنگل میں بھرے گھر کولٹا آئی ہے زینبؑ اے شہر مدینہ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "جنگل میں بھرے گھر کولٹا آئی ہے زینبؑ اے شہر مدینہ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Zameer Akhtar"
 tags: []
 aliases: []

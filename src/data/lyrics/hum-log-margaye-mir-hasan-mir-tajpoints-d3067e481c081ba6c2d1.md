@@ -1,14 +1,14 @@
 ---
-title: کون پہنچاے گا اب رزق علی زخمی ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کون پہنچاے گا اب رزق علی زخمی ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: Hum Log Margaye Mir Hasan Mir
+alternateTitle: "Hum Log Margaye Mir Hasan Mir"
 romanLyrics: 'Hum Log Margaye Mir Hasan Mir Lyrics
 
   Kaun Pohanchaye Ga Ab Rizq Ali Zakhmi Hain.

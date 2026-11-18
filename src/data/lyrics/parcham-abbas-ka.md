@@ -1,10 +1,10 @@
 ---
-title: پرچمِ عباس پرچمِ عباس
-alternateTitle: Parcham Abbas Ka
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پرچمِ عباس پرچمِ عباس"
+alternateTitle: "Parcham Abbas Ka"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

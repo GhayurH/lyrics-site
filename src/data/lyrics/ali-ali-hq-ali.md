@@ -1,9 +1,9 @@
 ---
-title: علیؑ علیؑ حق علیؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "علیؑ علیؑ حق علیؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

@@ -1,10 +1,10 @@
 ---
-title: غازی کا علم آیا تو شہ بولے یہ رو کر
-alternateTitle: Abbas Kahan Ho
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "غازی کا علم آیا تو شہ بولے یہ رو کر"
+alternateTitle: "Abbas Kahan Ho"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Gohar"
 tags: []
 aliases: []

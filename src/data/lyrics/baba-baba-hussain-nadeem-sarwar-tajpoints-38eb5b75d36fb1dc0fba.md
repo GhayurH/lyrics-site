@@ -1,14 +1,14 @@
 ---
-title: بابا بابا حسینؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "بابا بابا حسینؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-alternateTitle: Baba Baba Hussain Nadeem Sarwar
+alternateTitle: "Baba Baba Hussain Nadeem Sarwar"
 romanLyrics: 'Baba Baba Hussain
 
 
@@ -155,7 +155,7 @@ romanLyrics: 'Baba Baba Hussain
   11
 
   Hussaina x13'
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: tajpoints:38eb5b75d36fb1dc0fba
 # source_url: https://tajpoints.com/2022/11/baba-baba-hussain-nadeem-sarwar-lyrics.html
 # raw_sha256: 1c64b8bee867f23d6716653889ef1aa0c0b95008804476a2629cdcea01b853b9

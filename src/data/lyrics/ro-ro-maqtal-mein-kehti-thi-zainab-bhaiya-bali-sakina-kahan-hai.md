@@ -1,9 +1,9 @@
 ---
-title: رو رو مقتل میں کہتی تھیں زینبؑ بھیا بالی سکینہؑ کہاں ہے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "رو رو مقتل میں کہتی تھیں زینبؑ بھیا بالی سکینہؑ کہاں ہے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Anjum Zaidi"
 tags: []
 aliases: []

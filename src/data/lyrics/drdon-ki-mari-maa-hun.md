@@ -1,9 +1,9 @@
 ---
-title: دردوں کی ماری ماں ہوں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "دردوں کی ماری ماں ہوں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

@@ -1,11 +1,11 @@
 ---
-title: اے علیؑ تیری تنہائیاں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "اے علیؑ تیری تنہائیاں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 poet: "Ahmed Naved"
-reciter: Anjuman Gulzar-e-Haidry (Nadeem Sarwar)
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false

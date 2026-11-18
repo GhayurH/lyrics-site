@@ -1,10 +1,10 @@
 ---
-title: درشن کا اجالا لے کے چلے
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Salam
-tags: []
+title: "درشن کا اجالا لے کے چلے"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Salam"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7f6e45e94b26ed3cb07f

@@ -1,11 +1,11 @@
 ---
-title: Khak Mein Khak E Bashar Phir Se Mila De Zahra Lyrics 2023
-language: Roman Urdu
-lang: ur
-direction: ltr
-kalamType: Manqabat
-poet: Akbar
-tags: []
+title: "Khak Mein Khak E Bashar Phir Se Mila De Zahra Lyrics 2023"
+language: "Urdu"
+lang: "ur"
+direction: "ltr"
+kalamType: "Manqabat"
+poet: "Akbar"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ab538b8029156a27b326

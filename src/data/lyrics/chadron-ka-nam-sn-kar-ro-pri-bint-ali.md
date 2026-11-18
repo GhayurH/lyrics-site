@@ -1,11 +1,11 @@
 ---
-title: ؑچادروں کا نام سُن کر رو پڑی بنتِ علی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ؑچادروں کا نام سُن کر رو پڑی بنتِ علی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Tauqeer Kamalvi"
-reciter: Markazi Matmi Dasta Rawalpindi
+reciter: "Markazi Matmi Dasta Rawalpindi"
 tags: []
 aliases: []
 published: false

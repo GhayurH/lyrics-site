@@ -1,9 +1,9 @@
 ---
-title: حسینؑ تیرے لہو کی خوشبو
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "حسینؑ تیرے لہو کی خوشبو"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 tags: []
 aliases: []
 published: false

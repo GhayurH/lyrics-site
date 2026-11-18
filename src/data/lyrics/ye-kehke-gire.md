@@ -1,10 +1,10 @@
 ---
-title: یہ کہہ کے گرے
-alternateTitle: Ye Keh Ke Gire
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یہ کہہ کے گرے"
+alternateTitle: "Ye Keh Ke Gire"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Akhtar Sirsvi"
 reciter: "Ameer Hasan Aamir; Irfan Husain"
 tags: []

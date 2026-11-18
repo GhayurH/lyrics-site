@@ -1,10 +1,10 @@
 ---
-title: نہ رکھ اب چادر بازوؤں پہ
-alternateTitle: Na Rakh Ab Chadar
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "نہ رکھ اب چادر بازوؤں پہ"
+alternateTitle: "Na Rakh Ab Chadar"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Nadeem Sarwar"
 tags: []

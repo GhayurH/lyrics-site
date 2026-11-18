@@ -1,10 +1,10 @@
 ---
-title: صدا یہ دیتی تھی بنت علی حسین کے بعد
-alternateTitle: Sada Ye Deti Thi
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "صدا یہ دیتی تھی بنت علی حسین کے بعد"
+alternateTitle: "Sada Ye Deti Thi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 reciter: "Hasan Sadiq"
 tags: []

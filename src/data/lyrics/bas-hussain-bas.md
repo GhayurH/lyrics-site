@@ -1,10 +1,10 @@
 ---
-title: اصغر کو قتل گاہ میں لائے حسین جب
-alternateTitle: Bas Husain Bas
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Salam
+title: "اصغر کو قتل گاہ میں لائے حسین جب"
+alternateTitle: "Bas Husain Bas"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Salam"
 poet: "Rehan Azmi"
 reciter: "Zargham Abbas"
 tags: []

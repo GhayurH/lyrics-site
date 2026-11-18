@@ -1,11 +1,11 @@
 ---
-title: عباسؑ نہ لوٹے شہہؑ آ گئے مشک آگئی
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "عباسؑ نہ لوٹے شہہؑ آ گئے مشک آگئی"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Wasi Rizvi"
-reciter: Zulfiqar-e-Haidry (Sachchay Bhai)
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false

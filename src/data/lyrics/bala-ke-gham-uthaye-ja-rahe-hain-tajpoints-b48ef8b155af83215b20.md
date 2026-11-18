@@ -1,14 +1,14 @@
 ---
-title: کربلا کے دشت میں علقمہ کے سامنے
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-poet: Jaun
+title: "کربلا کے دشت میں علقمہ کے سامنے"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+poet: "Jaun"
 tags: []
 aliases: []
 published: false
-alternateTitle: Bala Ke Gham Uthaye Ja Rahe Hain
+alternateTitle: "Bala Ke Gham Uthaye Ja Rahe Hain"
 romanLyrics: 'Karbala ke dasht mein alqama ke saamne
 
 

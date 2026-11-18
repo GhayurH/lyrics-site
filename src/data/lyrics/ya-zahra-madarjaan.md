@@ -1,10 +1,10 @@
 ---
-title: یا زہرا مادر جان
-alternateTitle: Ya Zahra Madarjaan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "یا زہرا مادر جان"
+alternateTitle: "Ya Zahra Madarjaan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Rehan Azmi"
 tags: []
 aliases: []
@@ -65,7 +65,7 @@ romanLyrics: |-
   Shimr ka chalne laga sukhe gale par khanjar
   Yaad aane lagi maaṅ aalam-e-tanhaai meiṅ
   Rukh Baqiyya ki taraf kar ke pukaare Sarwar
-reciter: Shahid Baltistani
+reciter: "Shahid Baltistani"
 # source_id: nohayonline:436c7891035287ddeb9f
 # source_url: https://www.nohayonline.com/details_content.php?id=3302
 # raw_sha256: bf019fb6a2442c13449257786399089f727805d0c392150b86900a04693a4a12

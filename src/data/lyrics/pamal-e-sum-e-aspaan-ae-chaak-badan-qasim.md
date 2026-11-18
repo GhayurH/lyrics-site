@@ -1,9 +1,9 @@
 ---
-title: پامالِ سُمِ اسپاں اے چاک بدن قاسمؑ
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "پامالِ سُمِ اسپاں اے چاک بدن قاسمؑ"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Shahid Jafer"
 tags: []
 aliases: []

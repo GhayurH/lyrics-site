@@ -1,10 +1,10 @@
 ---
-title: لیلیٰ کی جان شہ کے پسر اکبر جواں
-alternateTitle: Akbare Jawan
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "لیلیٰ کی جان شہ کے پسر اکبر جواں"
+alternateTitle: "Akbare Jawan"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Iqbal Abedi"
 tags: []
 aliases: []

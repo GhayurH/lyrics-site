@@ -1,10 +1,10 @@
 ---
-title: زہراؑ کی بیٹیوں کی ردائیں اُتر گئیں
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
-reciter: Chakwal Party
+title: "زہراؑ کی بیٹیوں کی ردائیں اُتر گئیں"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Chakwal Party"
 tags: []
 aliases: []
 published: false

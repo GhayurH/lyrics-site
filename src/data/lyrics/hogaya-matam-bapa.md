@@ -1,10 +1,10 @@
 ---
-title: ہو گیا ماتم بپا قتل ہوئے مرتضیٰ
-alternateTitle: Ho Gaya Maatam Bapa
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "ہو گیا ماتم بپا قتل ہوئے مرتضیٰ"
+alternateTitle: "Ho Gaya Maatam Bapa"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Mazhar Abidi"
 tags: []
 aliases: []

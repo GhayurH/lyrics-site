@@ -1,10 +1,10 @@
 ---
-title: کوئی حُسین سا سجدہ بھلا ادا تو کرے
-alternateTitle: Koi Husain Sa Sajda
-language: Urdu
-lang: ur
-direction: rtl
-kalamType: Noha
+title: "کوئی حُسین سا سجدہ بھلا ادا تو کرے"
+alternateTitle: "Koi Husain Sa Sajda"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
 poet: "Ameer Hussain Mashadi"
 reciter: "Hasan Sadiq"
 tags: []
