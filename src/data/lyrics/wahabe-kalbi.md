@@ -14,6 +14,19 @@ romanLyrics: |-
   Wahab-e-Kalbi Isa ke ummati
   Tum par salaam ho
 
+  Musalmano!
+  Husain ibn-e-Ali Rahmat-lil-Aalamin ka nawasa aur mohsin-e-insaniyat hai.
+  Is ki dalil ye hai ke maidan-e-Karbala meiṅ
+  Rasul-e-Khuda ka kalma parhne waaloṅ meiṅ chand jaanisaaroṅ ne
+  Haq-e-mawaddat ada karte hue pyaas meiṅ jaam-e-shahadat nosh kiya.
+  Wahiṅ Hazrat Isa ke ummatiyoṅ meiṅ ek Wahab-e-Kalbi bhi tha.
+  Wahab Karbala ka woh dulha hai jis ne apni maaṅ aur zauja ke saath
+  Khanwada-e-Husain ibn-e-Ali par apni jaan nisar kar di.
+  Salaam ho Wahab ki maaṅ par, salaam ho Wahab ki maaṅ par!
+  Lashkar-e-Yazid se jab use apne laal ka sar mila,
+  Us ne Wahab ka sar lautate hue fakhriya andaaz se kaha:
+  Mera bachcha Husain ibn-e-Ali ka sadqa hai, aur hum sadqa waapas nahiṅ lete.
+
   1
   Akbar ki maa se kehti thi ro kar Wahab ki maa
   Bibi mera pisar kahaaṅ Akbar tera kahaaṅ
@@ -58,6 +71,19 @@ romanLyrics: |-
 ---
 وہب کلبی عیسیٰ کے امتی
 تم پر سلام ہو
+
+مسلمانو!
+حسین ابنِ علیؑ رحمت للعالمینؐ کا نواسہ اور محسنِ انسانیت ہے
+اس کی دلیل یہ ہے کہ میدانِ کربلا میں
+رسولِ خدا کا کلمہ پڑھنے والوں میں چند جاں نثاروں نے
+حقِ مودت ادا کرتے ہوئے پیاس میں جامِ شہادت نوش کیا
+وہیں حضرت عیسیٰؑ کے امتیوں میں ایک وہبِ کلبی بھی تھا
+وہب کربلا کا وہ دولہا ہے جس نے اپنی ماں اور زوجہ کے ساتھ
+خانوادۂ حسین ابنِ علیؑ پر اپنی جان نثار کر دی
+سلام ہو وہب کی ماں پر، سلام ہو وہب کی ماں پر!
+لشکرِ یزید سے جب اسے اپنے لال کا سر ملا
+اس نے وہب کا سر لوٹاتے ہوئے فخریہ انداز سے کہا
+میرا بچہ حسین ابنِ علیؑ کا صدقہ ہے اور ہم صدقہ واپس نہیں لیتے
 
 ۱
 اکبر کی ماں سے کہتی تھی رو کر وہب کی ماں

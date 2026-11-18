@@ -46,7 +46,7 @@ romanLyrics: |-
   Keh ke ye fauj mein duba wo shujaa-e-azali
   Naara zan tha ke ana ibn-e-Husain ibn-e-Ali
   Tir chalne lage naize chale talwaar chali
-  Barh Ke Shamshire Do Dum Se Safe Kuffar Jail
+  Barq-e-Shamsheer-e-Do Dam Se Saf-e-Kuffar Jali
   Kis tarah larta hai hamshakl-e-Payambar dekho
   Aaj shamshir-e-Husaini ke bhi jauhar dekho
 
@@ -126,7 +126,7 @@ romanLyrics: |-
 کہکے یہ فوج ڈوبا وہ شجاع اذلی
 نعرہ زن تھا کہ انا ابن حسین ابنِ علی
 تیر چلنے لگے نیزے چلے تلوار چلی
-بڑھکے شمشیر دو دم سے سف کفار جلی
+برقِ شمشیرِ دو دم سے صفِ کفار جلی
 کس طرح لڑتا ہے ہمشکل پیمبر دیکھو
 آج شمشیرے حسینی کے بھی جوہر دیکھو
 
