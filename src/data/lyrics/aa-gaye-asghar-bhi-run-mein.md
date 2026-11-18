@@ -19,13 +19,23 @@ published: false
 
 Aa Gaye Asghar Bhi Run Main, Deen Bachanay Ke Liye
 Ambiya Ka Main Hoon Nasir, Ye Batanay Ke Liye
-1)Hurmala Teri Qama Ko, Tor Ke Rakh Doonga Main.
+
+1
+Hurmala Teri Qama Ko, Tor Ke Rakh Doonga Main.
 Aya Hoon Main Naam Tera, Hi Mitanay Ke Liye
-2) Jab Kama Hurmal Ki Dekhi, Boli Kheymon Se Rubab
+
+2
+Jab Kama Hurmal Ki Dekhi, Boli Kheymon Se Rubab
 Ab Raho Tayyar Asghar, Teer Khanay Ke Liye
-3)Hashr Tak Karti Rahegi, Intezaar lUmm e Rubab
+
+3
+Hashr Tak Karti Rahegi, Intezaar lUmm e Rubab
 Godh Mai Jhoolay Ke Aadhi, Ko Jhoolanay Ke Liye
-4)Baap Betay Ki Kabar Khud, Na Banaaye Hukm Hai
+
+4
+Baap Betay Ki Kabar Khud, Na Banaaye Hukm Hai
 Dain Kissay Awaaz Turbat, Shah Bananay Ke Liye
-5)Tha Qayamat Ka Samaa Mum-taaz Pyason Ki Woh Shaam
+
+5
+Tha Qayamat Ka Samaa Mum-taaz Pyason Ki Woh Shaam
 Aa Gaye Zahra Ke Ghar Ko, Phir Jalanay Ke Liye
