@@ -5,6 +5,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mazhar Abidi"
+reciter: "Safdar Abbas"
 tags: []
 aliases:
   - "Sajjad Mai Zainab Hun Mere Sar Pe Rida Koi Nai Bazaare Jafa"
