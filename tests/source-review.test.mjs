@@ -42,12 +42,27 @@ test("flags mixed scripts, non-ASCII Latin transliteration and control character
   assert(issues.some(x => x.code === "latin-in-urdu" && x.line > 8));
 });
 
-test("Bibi spelling normalizes Urdu separators and preserves inflections", () => {
+test("only standalone Urdu Bibi receives ZWNJ; plurals and other words never do", () => {
   for (const input of ["بیبی", "بی بی", "بی‌بی", "بی‍بی", "بي بي"])
     assert.equal(normalizeBibiText(input), "بی\u200Cبی");
   assert.equal(normalizeBibiText("بِی بِی"), "بِی\u200Cبِی");
-  assert.equal(normalizeBibiText("بی بیوں"), "بی\u200Cبیوں");
-  assert.equal(normalizeBibiText("بیبیاں"), "بی\u200Cبیاں");
+  assert.equal(normalizeBibiText("بی‌بیؑ"), "بی\u200Cبیؑ");
+  for (const [input, expected] of [
+    ["بی‌بیوں", "بیبیوں"],
+    ["بی‌بیان", "بیبیان"],
+    ["بی‌بیاں", "بیبیاں"],
+    ["بی‌بییاں", "بیبییاں"],
+    ["بیبیوں", "بیبیوں"],
+    ["بیبیاں", "بیبیاں"],
+    ["بی بیوں", "بی بیوں"],
+    ["علی‌بی‌بی", "علیبیبی"],
+    ["دِل‌کی‌بات", "دِلکیبات"],
+  ])
+    assert.equal(normalizeBibiText(input), expected);
+  const mixed = "بی‌بی کی دعا، بی‌بیوں کی دعائیں، بی‌بیاں یہاں، علی‌بی‌بی";
+  const expected = "بی\u200Cبی کی دعا، بیبیوں کی دعائیں، بیبیاں یہاں، علیبیبی";
+  assert.equal(normalizeBibiText(mixed), expected);
+  assert.equal(normalizeBibiText(normalizeBibiText(mixed)), expected);
   assert.equal(normalizeBibiText("علیبیبی"), "علیبیبی");
 });
 
@@ -66,6 +81,14 @@ test("the canonical Urdu Bibi non-joiner is intentional, but a joiner is not", (
   const bad = reviewMarkdown({ path: "src/data/lyrics/bibi.md", kind: "lyrics",
     text: lyric("۱\nبی‍بی کا سلام", "1\nBibi ka salam") });
   assert(bad.issues.some(x => x.code === "invisible-character"));
+  for (const plural of ["بی‌بیوں", "بی‌بیاں"]) {
+    const inflected = reviewMarkdown({ path: "src/data/lyrics/bibi.md", kind: "lyrics",
+      text: lyric("۱\\n" + plural + " کا سلام", "1\\nBibiyon ka salam") });
+    assert(inflected.issues.some(x => x.code === "invisible-character"), plural);
+    const bastaPage = reviewMarkdown({ path: "src/data/basta/pages/123.md", kind: "basta-urdu",
+      text: basta(123, plural + " کا سلام") });
+    assert(bastaPage.issues.some(x => x.code === "invisible-character"), plural + " in Basta");
+  }
 });
 
 test("intentional Urdu chorus extensions require explicit, still-current stanza numbers", () => {
