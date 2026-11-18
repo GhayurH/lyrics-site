@@ -19,17 +19,23 @@ Sar Par Se Yeh Zainab Ke Haye Saya Uthaya Hai
 1
 Zarbat Ki Khabar Aayi Jis Dam Dar-e-Haider Par
 Zainab Ne Rida Thami Bazu Ko Chupaya Hai
-Shabbir Tere Lashay Ko Kaun Uthaye Ga
-Tu Ne Tu Yeh Baba Ka Taboot Uthaya Hai
 
 2
 Karna Hai Hawalay Jo Shabbir Ko Ghazi Ke
 Abbas Ko Haider Ne Nazdeek Bulaya Hai
+
+3
+Shabbir Tere Lashay Ko Kaun Uthaye Ga
+Tu Ne Tu Yeh Baba Ka Taboot Uthaya Hai
+
+4
 Zainab Se Koi Pochay Aye Kofay Ki Shehzadi
 Kyun Baap Se Martay Dam Tak Khud Ko Chupaya Hai
 
-3
+5
 Shabbir Ko Zainab Ne Bhi Sar Ki Rida Samjha
 Maa Keh Ke Hi Sarwar Ne Zainab Ko Bulaya Hai
+
+6
 Maa Ko Bhi Navaid Ummat Ne Roka Tha Roney Se
 Zainab Ke Bhi Roney Par Ab Pehra Lagaya Hai
