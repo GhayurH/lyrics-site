@@ -1,6 +1,6 @@
 // Only standalone Urdu بی‌بی uses U+200C ZERO WIDTH NON-JOINER.
 // Roman spells Bibi/bibi continuously, without a spacer or joiner.
-const urduBibi = /(?<![\p{L}\p{M}])ب([\u064B-\u065F]*)[یي]([\u064B-\u065F]*)(?:[ \t\u00A0\u200B-\u200D\uFEFF\u0640-]*)ب([\u064B-\u065F]*)[یي]([\u064B-\u065F]*)(?![\p{L}\p{M}])/gu;
+const urduBibi = /(?<![\p{L}\p{M}])ب(\p{M}*)[یي](\p{M}*)(?:[ \t\u00A0\u200B-\u200D\uFEFF\u0640-]*)ب(\p{M}*)[یي](\p{M}*)(?![\p{L}\p{M}])/gu;
 const romanBibi = /(?<!\p{L})b(?:i|ee)(?:[ \t\u00A0\u200B-\u200D\uFEFF\-_]*)b(?:i|ee)(?=$|[^\p{L}]|y[ao]|o?n)/giu;
 // Permit the joiner only inside the standalone Urdu word, never its plural forms.
 const approvedUrduNonJoiner = /(?<![\p{L}\p{M}])ب\p{M}*ی\p{M}*\u200Cب\p{M}*ی\p{M}*(?![\p{L}\p{M}])/gu;

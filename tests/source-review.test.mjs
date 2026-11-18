@@ -83,7 +83,7 @@ test("the canonical Urdu Bibi non-joiner is intentional, but a joiner is not", (
   assert(bad.issues.some(x => x.code === "invisible-character"));
   for (const plural of ["بی‌بیوں", "بی‌بیاں"]) {
     const inflected = reviewMarkdown({ path: "src/data/lyrics/bibi.md", kind: "lyrics",
-      text: lyric("۱\\n" + plural + " کا سلام", "1\\nBibiyon ka salam") });
+      text: lyric("۱\n" + plural + " کا سلام", "1\nBibiyon ka salam") });
     assert(inflected.issues.some(x => x.code === "invisible-character"), plural);
     const bastaPage = reviewMarkdown({ path: "src/data/basta/pages/123.md", kind: "basta-urdu",
       text: basta(123, plural + " کا سلام") });
