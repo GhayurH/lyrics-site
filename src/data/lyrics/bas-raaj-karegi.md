@@ -11,6 +11,9 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
+  Kullu yaumin Ashura kullu arzin Karbala
+  Ya Tharallah Ya Tharallah
+
   Ghaibat ka parda uthne do
   Jo dekh rahe haiṅ hum logoṅ
   Tum bhi dekhoge yaad rakho
@@ -83,6 +86,9 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=984
 # raw_sha256: 4325415a165551f014ee9f82c8209869e57e35ba6373af8b10732499bd3d837e
 ---
+کل یومٍ عاشورا کل ارضٍ کربلا
+یا ثار اللہ یا ثار اللہ
+
 غیبت کا پردہ اٹھنے دو
 جو دیکھ رہے ہیں ہم لوگوں
 تم بھی دیکھو گے یاد رکھو
@@ -93,7 +99,6 @@ romanLyrics: |-
 خون پھر خون ہے ٹپکے گا تو جم جائے گا
 خاکِ صحرا پہ جمیں یا کفِ قاتل پہ جمیں
 فرقِ انصاف پہ جمے یا پائے سلاسل پہ جمے
-خون پھر خون ہے ٹپکے گا تو جم جائے گا
 خون پھر خون ہے ٹپکے گا تو جم جائے گا
 
 ۲
