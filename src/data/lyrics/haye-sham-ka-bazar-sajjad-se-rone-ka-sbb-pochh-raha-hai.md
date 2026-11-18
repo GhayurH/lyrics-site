@@ -62,6 +62,8 @@ romanLyrics: 'Haey Shaam ka bazaar
 
   5) Zindaan ke masaaeb bhi har waqt rulaate hain
 
+  Ashkon ko magar apne Zainab se chhupaate hain
+
   Mar jaye na Zainab ye kahi shoch raha hai
 
 
