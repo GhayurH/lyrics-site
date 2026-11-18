@@ -81,7 +81,7 @@ romanLyrics: |-
   Ye Sakina ko Zehra bataate hue
   Mera wirsa ho tum mera chehra ho tum
   Ab samajh aaya kiuṅ chhoti Zehra ho tum
-reciter: Syed Haider Raza Zaidi
+reciter: ["Syed Haider Raza Zaidi", "Syed Raza Abbas Zaidi"]
 # source_id: nohayonline:ac81abd2c5cb684d20d2
 # source_url: https://www.nohayonline.com/details_content.php?id=1037
 # raw_sha256: 62b5b971245bcdaee8afa088fc6a7e0277be8900dbae1c9932e41eb8776bbc6c
