@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
-reciter: "Mir Jawad Mir & Mir Qasim Mir"
+reciter: ["Mir Jawad Mir", "Mir Qasim Mir", "Mir Hasan Mir"]
 tags: []
 aliases: ["Jeete Raho Auno"]
 published: true

@@ -5,6 +5,7 @@ language: Urdu
 lang: ur
 direction: rtl
 kalamType: Noha
+poet: "Khursheed"
 reciter: "Hasan Sadiq"
 tags: []
 aliases: ["Jalte Hue Qaime Hai"]
