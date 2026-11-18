@@ -1,10 +1,12 @@
 ---
-title: "Mere Baba Khairiyat Se Hoon Nadeem Sarwar"
+title: "میرے بابا خیریت سے ہوں"
+alternateTitle: "Mere Baba Khairiyat Se Hoon"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
-tags: []
+kalamType: "Noha"
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ee18fb575adfeb9b9920
