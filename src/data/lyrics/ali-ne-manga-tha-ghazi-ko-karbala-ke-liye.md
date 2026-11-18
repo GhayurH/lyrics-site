@@ -32,8 +32,16 @@ romanLyrics: |-
   Hazaar bose gale se laga laga ke diye
 
   6
-  Sakina Baba se isne wigha dilaao hame
-  Zara sa kaam yeh kar do faqat Chacha ke liye
+  Sakina Baba se izn-e-wigha dilaao hame
+  Zara sa kaam yeh kar do faqat chacha ke liye
+
+  7
+  Yeh Khizr-e-raah hai, parcham bhi inka raahnuma
+  Samandaron ke, sitaron ke aur hawa ke liye
+
+  8
+  Unhi ke naam pe Rehan harf milte hain
+  Raza ye naam waseela hai har dua ke liye
 # source_id: ziyaraat:3a8de78d43e78745e3f9
 # source_url: https://www.ziyaraat.net/api/noha/2840
 # raw_sha256: 8df3e60f299106a68b05fb5555e4814040907408886a369d924b4f00d66cd85a
@@ -65,3 +73,11 @@ romanLyrics: |-
 ۶
 سكینہؑ بابا سے اذنِ وِغا دلا دو ہمیں
 ذرا سا کام یہ کر دو فقط چچا كے لیے
+
+۷
+یہ خضرِ راہ ہے پرچم بھی ان کا راہ نما
+سمندروں کے ستاروں کے اور ہوا کے لیے
+
+۸
+انہی کے نام پہ ریحان حرف ملتے ہیں
+رضا یہ نام وسیلہ ہے ہر دعا کے لیے
