@@ -4,49 +4,50 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Akhtar"
 reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aa gayee binte Ali, berida haath bandhe bhare bazaaron may
-  Jiss ne sooraj nah kabhi dekha tha, ro rahee hay voh gunahgaron may
+  Aa gayi Bint-e-Ali berida, haath baandhe bhare bazaaron mein
+  Jis ne suraj na kabhi dekha tha, ro rahi hai woh gunahgaaron mein
 
   1
-  1) Kaun jaanay ke yeh hay kaun, rassan pehne hooe
-  Berida rotee hai sajjad ke peeche chup ke
-  Siskiyanh doobi hainh jiss Bibi kee
-  Hae zanjeero kee jhankaron meinh
+  Kaun jaane ke ye hain kaun rasan pehne hue
+  Berida roti hai Sajjad ke pichhe chhup kar
+  Siskiyaan doobi hain jis Bibi ki
+  Haye zanjeeron ki jhankaaron mein
 
   2
-  2) Hae Zahra teri kismet nah millah Haqq tujh ko
-  Aisee tazim teri ki hai mussalmanonh ne
-  Tera Haqq mangne aayee Zainab
-  Ek menosh ke darrbaronh meinh
+  Haye Zahra teri qismat, na mila haq tujh ko
+  Aisi taazim teri ki hai Musalmaanon ne
+  Tera haq maangne aayi Zainab
+  Ek mai-nosh ke darbaaron mein
 
   3
-  3) Kahan Zainab aur kahan shaam ke logonh ka hajoom
-  Sarr barehana oonchee avaaz mainh khutbe parhna
-  Qatlay murrsal ka havaala de karr
-  Chadare Mangna badhkaronh mein
+  Kahaan Zainab aur kahaan Shaam ke logon ka hujum
+  Sar-barehna unchi aawaaz mein khutbe parhna
+  Khatam-e-Mursal ka hawaala de kar
+  Chaadarein maangna badkaaron mein
 
   4
-  4) Aag Khaymonh ko Luggee aur thay Sajjad be hosh
-  Roro Abbas ko deti thihsadaen Zainab
-  Loot lo chadare Sayyedaniyyonh kee
-  Shor barpa tha sitamgaronh meinh
+  Aag khaimon ko lagi aur the Sajjad behosh
+  Ro ro Abbas ko deti thi sadaaein Zainab
+  Lut lo chaadarein Sayyidaaniyon ki
+  Shor barpa tha sitamgaaron mein
 
   5
-  5) Jiss tarha bali Sakina rahe Baba ke beghair
-  Sogayyi chaen se tanhhaee meinh rote rote
-  Hitchkiyyanh dabb gayyee Massooma kee
-  Hae zindano ke deevaronh meinh
+  Kis tarah baali Sakina aaj Baba ke baghair
+  So gayi chain se tanhaai mein rote rote
+  Hichkiyaan dab gayin Masuma ki
+  Haye zindaan ki diwaaron mein
 
   6
-  6) Jiss jagga Majlis-e-Shabbir ho barpa Akhtar
-  Chhorr Karr dukhiyya vahanh rotee hai Zahra aa Karr
-  Baal Kholay hooeh saar peet ti hai
-  Apne pyaaronh ke Azadaaronh meinh
+  Jis jagah majlis-e-Shabbir ho barpa Akhtar
+  Chhor kar Baqiya wahaan roti hai Zahra aa ke
+  Baal khole hue sar pitti hai
+  Apne pyaaron ke azaadaaron mein
 # source_id: ziyaraat:787c631978ed218c2f86
 # source_url: https://www.ziyaraat.net/api/noha/733
 # raw_sha256: b6798a2cdbe5241a20f9acbb204169abcfece1a2ade393de23471b55951e133d
@@ -74,10 +75,10 @@ romanLyrics: |-
 چادریں مانگنا بدکاروں میں
 
 ۴
-آگ خیموں کو لگی اور تھے سجادؑ بے ہوش ر
-و رو عبّاس کو دیتی تھی صدائیں زینبؑ
-لُوٹ لو چادریں سیدانیوںؑ ک
-ی شور برپا تھا ستمگاروں میں
+آگ خیموں کو لگی اور تھے سجادؑ بے ہوش
+رو رو عبّاسؑ کو دیتی تھی صدائیں زینبؑ
+لُوٹ لو چادریں سیدانیوںؑ کی
+شور برپا تھا ستمگاروں میں
 
 ۵
 کِس طرح بالی سکینہؑ آج بابا کے بغیر
