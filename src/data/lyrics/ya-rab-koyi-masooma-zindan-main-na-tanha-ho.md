@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Afzal Hussain Najfi"
+reciter: "Hasan Sadiq"
 tags: []
 aliases:
   - "Ya Rab Koyi Masooma Zindan Main Na Tanha Ho"
