@@ -13,6 +13,16 @@ published: true
 romanLyrics: |-
   Bas Husain raazi rahe Husain raazi rahe
 
+  Haider ka mojza Husain
+  Zehra ka maah-liqa Husain
+  Mafhum-e-Karbala Husain
+  Hai Haq ka rahnuma Husain
+  Tafsir-e-Innama Husain
+  Zikr meiṅ fikr meiṅ rehta hai Husain
+  Zehan meiṅ qalb meiṅ chha gaya Husain
+  Hai yuṅ Khuda se Husain raazi
+  Har ek raza se Husain raazi
+
   Hamesha bichhta rahe ghar meiṅ mere farsh-e-aza
   Husain raazi rahe bas Husain raazi rahe
 
@@ -86,6 +96,16 @@ romanLyrics: |-
 ---
 
 بس حسین راضی رہے حسین راضی رہے
+
+حیدر کا معجزہ حسین
+زہرا کا ماہ لقا حسین
+مفہومِ کربلا حسین
+ہے حق کا رہنما حسین
+تفسیرِ اِنَّما حسین
+ذکر میں فکر میں رہتا ہے حسین
+ذہن میں قلب میں چھا گیا حسین
+ہے یوں خدا سے حسین راضی
+ہر ایک رضا سے حسین راضی
 
 ہمیشہ بچھتا رہے گھر میں میرے فرش عزا
 حسین راضی رہے بس حسین راضی رہے
