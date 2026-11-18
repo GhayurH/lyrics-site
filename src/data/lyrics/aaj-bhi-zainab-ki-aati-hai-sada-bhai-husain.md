@@ -4,6 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Navaid"
 reciter: "Meer Hasan Meer"
 tags: []
 aliases: []

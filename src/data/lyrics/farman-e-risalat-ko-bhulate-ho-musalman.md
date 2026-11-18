@@ -4,6 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,37 +13,50 @@ published: false
 # raw_sha256: 2ef5f91f620e67fbe2ffd60dfa21ed7e74f444478a8fbe6ea439276f62c5bb74
 ---
 
-Farman-e-risalat ko bhulatay ho musalman.
+Farman e Risalat Ko Bholatey Ho Mosalmaan
+Kyun Fatima Zahra Ko Satatay Ho Musalmaan
 
 1
-Kyon Fatima Zahra ko satatay ho musalman.
+Masoma Hai Makhdoma Hasnain Ki Madar Hai
+Tafseer Hai Kausar Ki Yeh Bint-e-Payamber Hai
+Kyun Pehlu Pe Darwaza Giratay Ho Musalmaan
 
 2
-1) Tum jantay ho logo is bibi ki azmat ko
-Lotaya hay kyon khali khatoon-e-qayamat ko
-Kyon aag us kay ghar ko lagatay ho musalman.
+Tum Jantay Ho Logo Iss Bibi Ki Azmat Ko
+Lautaya Hai Kyun Khali Khatoon-e-Qayamat Ko
+Kyun Aag Oss Ke Ghar Ko Lagatay Ho Musalmaan
 
 3
-2) Masooma hay makhdoma Hussnian ki madar hay
-Tafseer hay kausar ki ya bint-e-peghambar hay
-Kyon pehlu pay darwaza giratey ho musalman.
+Baba Ke Madine Mein Haye Raat Jo Aati Hai
+Roney Ke Liye Bahir Woh Shehar Se Jati Hai
+Kyun Roney Pe Pabandi Lagatay Ho Musalmaan
 
 4
-3) Baba kay madina main haye raat jo ati hay
-Ronay kay liya bahir wo sehar say jati hay
-Kyon ronay pay pabandi lagatay ho musalman.
+Darbar Mein Makhdoma Haq Mangney Aayi Hai
+Masoom Gawahon Ko Humrah Woh Layi Hai
+Dil Kis Liye Zahra Ka Dukhatay Ho Musalmaan
 
 5
-4) Darbar main makhdoma haq mangnay aayi hay
-Masoom gawahon ko hamrah wo layi hay
-Dil kis leya Zahra ka dukhatay ho musalman.
+Jis Shaks Ne Ahmad Ko Hazyan Sunaya Tha
+Jis Shaks Ne Koray Se Zahra Ko Rulaya Tha
+Kyun Naaz Oss Shaqi Ke Uthatay Ho Musalmaan
 
 6
-5) Haider kay galay main bhi dala hay rassan tum nay
-Shabbir ko mara hay mara hay Hassan tum nay
-Ab Abid-e-muzatar ko rulatay ho musalman.
+Tum Ne Tu Saqeefa Mein Ajlaas Bithaye They
+Ahmad Ke Janazay Pe Tum Loag Na Aaye They
+Haq Kaisay Khilafat Par Jatatay Ho Musalmaan
 
 7
-6) Zahra ka ya wada hay Touqeer wo paeya ga
-Meray ghar kay ujernay ka jo soug manaeya ga
-Phir kis leya tum fatway lagatey ho musalman.
+Kya Ahmad-e-Mursal Se Yeh Pyar Kiya Tum Ne
+Zahra Hi Ke Rozay Ko Mismar Kiya Tum Ne
+Tum Kaisi Muhabbat Yeh Dikhatay Ho Musalmaan
+
+8
+Haider Ke Galay Mein Bhi Dala Hai Rasan Tum Ne
+Shabbir Ko Mara Hai Mara Hai Hasan Tum Ne
+Ab Abid-e-Muztar Ko Rolatay Ho Musalmaan
+
+9
+Zahra Ka Yeh Wadah Hai Tauqeer Woh Paye Ga
+Mere Ghar Ke Ujarney Ka Jo Soag Manaye Ga
+Phir Kis Liye Tum Fatway Lagatay Ho Musalmaan

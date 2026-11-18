@@ -8,58 +8,41 @@ reciter: "Rizvia Party"
 tags: []
 aliases: []
 published: false
-romanLyrics: '1) Zainab hay safar may, haey khak hay sar may
-
-  Kab ho gi reha qaid say, kab jaye gi ghar may
-
+romanLyrics: |-
+  Zainab hai safar mein haaye khaak hai sar mein
+  Kab hogi riha qaid se kab jaayegi ghar mein
 
   1
-
-  2) Chehray ko zara balon say tum dhanp lo bibi
-
-  Mahol sharabi hay, teri rah guzar may
-
+  Chehre ko zara baalon se tum dhaanp lo Bibi
+  Maahaul sharaabi hai teri raahguzar mein
 
   2
-
-  3) Tareekh teri jang ko dohrati rahay gi
-
-  Asghar jo lari tu nay, nanhi si umar may
-
+  Taarikh teri jang ko dohraati rahegi
+  Asghar jo lari tu ne nanhi si umr mein
 
   3
-
-  4) Ik waqt tha shehzadi thi haey Kufay ki Zainab
-
-  Kis haal may aaayi hay, baba ke shehar may
-
+  Ik waqt tha Kufe ki shahzaadi thi Zainab
+  Kis haal mein aayi hai ye Baba ke shehr mein
 
   4
-
-  Bikhre huwe baalon se moo dhaamp lo bibi
-
-  Mahaul sharabi hai teri raah guzar mein
-
+  Jis parde ka zaamin tha Abbas-e-Dilawar
+  Hai zakhm usi parde ka Abid ke jigar mein
 
   5
-
-  5) Jis parday ka zamin tha Abbase dilawar
-
-  Hay zakham ussi parday kay, Abid kay jigar may
-
+  The tan pe phate kapre aur kaan bhi zakhmi
+  Abid ne utaara jo Sakina ko qabar mein
 
   6
-
-  6) Thay sirf phatay kaprray aur kaan bhi zakhmi
-
-  Abid nay utara jo, Sakina ko qabar may
-
+  Kaanton pe jo chalta hai ghairat ka Khuda hai
+  Dunya ne nahi jaana kiun kham hai kamar mein
 
   7
+  Kiun aa ke Madine mein bhi khun rota raha hai
+  Bazaar ka har zulm hai Abid ki nazar mein
 
-  7) Shabbir kay matam se haey roknay walo
-
-  Zainab ki yeh sunnat hay, momin ki nazar may'
+  8
+  Shabbir ke maatam se ae rokne waalo
+  Zainab ki ye sunnat hai momin ki nazar mein
 # source_id: nohayonline:8a44ae57cacb7fbf1e74
 # source_url: https://www.nohayonline.com/details_content.php?id=1643
 # raw_sha256: 635e4bf5df1fec07d01a482229ce4c63f1a8c9f70cb8151206173f8334829f8a
@@ -93,5 +76,13 @@ romanLyrics: '1) Zainab hay safar may, haey khak hay sar may
 عابدؑ نے اتارا جو سکینہ ؑ کو قبر میں
 
 ۶
+کانٹوں پہ جو چلتا ہے غیرت کا خدا ہے
+دنیا نے نہیں جانا کیوں خم ہے کمر میں
+
+۷
+کیوں آ کے مدینے میں بھی خوں روتا رہا ہے
+بازار کا ہر ظلم ہے عابد کی نظر میں
+
+۸
 شبیرؑ کے ماتم سے ہائے روکنے والو
 زینبؑ کی یہ سنت ہے مومن کی نظر میں
