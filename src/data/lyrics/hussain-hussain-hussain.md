@@ -87,6 +87,14 @@ romanLyrics: |-
   Beta chacha ki laash pe Baaba ko le chalo
 
   10
+  Akbar se phir kaha ke alamdaar ko uthaao
+  Purkhun ye mashk khaima-e-ismat mein le ke jaao
+  Bewa hui chachi use pursa do khaak uraao
+  Beta chacha ke bachchoṅ ko ja kar gale lagaao
+  Puchheṅ jo sab ke Sibt-e-Payambar kidhar gaye
+  Keh dijiyo ke bhaai ke laashe pe mar gaye
+
+  11
   Ghul par gaya ke Sheh ke alamdaar haaye haaye
   Ae nur-e-chashm-e-Haidar-e-Karraar haaye haaye
   Ae Ibn-e-Fatima ke madadgaar haaye haaye
@@ -175,6 +183,14 @@ romanLyrics: |-
 بیٹا چچا کی لاش پہ بابا کو لے چلو
 
 ۱۰
+اکبرؑ سے پھر کہا کہ علمدار کو اٹھاؤ
+پُرخوں یہ مشک خیمۂ عصمت میں لے کے جاؤ
+بیوہ ہوئی چچی اسے پرسہ دو خاک اڑاؤ
+بیٹا چچا کے بچوں کو جا کر گلے لگاؤ
+پوچھیں جو سب کہ سبطِ پیمبر کدھر گئے
+کہہ دیجیو کہ بھائی کے لاشے پہ مر گئے
+
+۱۱
 غل پڑ گیا کہ شہ کے علمدار ہائے ہائے
 اے نورِ چشمِ حیدرِ کرار ہائے ہائے
 اے ابنِ فاطمہ کے مددگار ہائے ہائے
