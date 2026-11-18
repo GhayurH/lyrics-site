@@ -50,6 +50,7 @@ romanLyrics: |-
 # source_url: https://www.ziyaraat.net/api/noha/178
 # raw_sha256: 45e7dda0af99aa21cad1dbe74d6076c238916a029f23803a44d0f7d8ebbd33dd
 # added_stanza_source: roman:kalam-nohayonline-8a44ae57cacb7fbf1e74
+# alternate_reading: "Bikhrai Howai Balon Sai Mun Dhampalo Bibi / Yeh Log Sharabi Hain Teri Rah Guzar Main"
 ---
 
 زینب ؑ ہے سفر میں ہائے خاک ہے سر میں
