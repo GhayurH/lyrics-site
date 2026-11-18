@@ -4,7 +4,7 @@ alternateTitle: "Chhane Lagi Shaam-e-Gharibaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
-kalamType: ["Salam", "Noha"]
+kalamType: "Salam"
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 sixVerseLayout: "pairs"
 tags: []
