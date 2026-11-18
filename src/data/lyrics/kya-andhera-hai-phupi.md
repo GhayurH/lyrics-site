@@ -8,82 +8,50 @@ reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Salam - Qaid khane me Sakina ye bayan karti thi, KyaAndhera hai Phupi.
-
-  Shamma mangwayie warna may nahi jeenay ki, KyaAndhera hai Phupi.
-
-
+romanLyrics: |-
+  Kya andhera hai phuphi, kya andhera hai phuphi
+  Qaid khaane meiṅ Sakina ye bayaan karti thi
+  Shama mangwaaiye warna maiṅ nahiṅ jine ki
+  
   1
-
-  Apne seenay se lagalo mai tumhare sadqe;
-
-  Goad me le lo mujhe;
-
-  Dil dharakta hai mera khauf se tharrata hai ji.
-
-  Kya Andhera hai Phupi.
-
-
+  Apne sine se laga lo maiṅ tumhaare sadqe
+  God meiṅ le lo mujhe
+  Dil dharakta hai mera khauf se tharraata hai ji
+  
   2
-
-  Kyun layeen qaid me laye hain mujhe kya maloom;
-
-  Haye baba mazloom;
-
-  Gaye maidan ko jis din se khabar meri na li.
-
-
+  Kiuṅ lain qaid meiṅ laaye haiṅ mujhe kya malum
+  Haye Baba mazlum
+  Gaye maidaan ko jis din se khabar meri na li
+  
   3
-
-  Baba aa jate to phir Shimr ko hota maloom;
-
-  Kaun hay ye masoom;
-
-  Kya samajh kar mujhe yun ghurkiyan deta hai shaqi.
-
-
+  Baba aa jaate to phir Shimr ko hota malum
+  Kaun hai ye masum
+  Kya samajh kar mujhe yuṅ ghurkiyaaṅ deta hai shaqi
+  
   4
-
-  Apne seene se lagalo mai tumhare sadqe
-
-  Godh may lelo mujhe
-
-  Warna pachtaogi zinda na rahoongi mai kabhi
-
-
+  Aaj ki shab ko bhi kya Baba nahiṅ aaeṅge
+  Mujh ko tarpaaeṅge
+  Un ke sine pe agar soti to nind aa jaati
+  
   5
-
-  Aaj ki shab ko bhi kya baba nahi aayengay;
-
-  Mujh ko tarpayenge;
-
-  Unke seene pe agar soti to neend aa jati.
-
-
+  Baad mere jo yahaaṅ hove padar ka aana
+  Un se ye farmaana
+  Mar gai ghut ke andhere meiṅ tumhaari beti
+  
   6
-
-  Baad mere jo yahan howe pidar ka aana;
-
-  Unse ye farmana;
-
-  Mar gayi ghut ke andheray me tumhari beti.
-
-
+  Sabr karti huṅ magar ho nahiṅ sakta mujh se
+  Yahaaṅ se le chaliye mujhe
+  Warna pachhtaao gi zinda na rahuṅ gi maiṅ kabhi
+  
   7
-
-  Sabr karti hun magar ho nahi sakta mujhe se;
-
-  Yaanse lay chaliye mujhe;
-
-  Warna pachtao ge zinda na rahun gi mai kabhi.
-
-  Kya Andhera hai Phupi.
-
-  Pani lanay ko kahan rooth gaye mujh se chacha;
-
-  Aap hi sochain zara;
-
-  Hotay ammu to mai is tarha tamachay khati.'
+  Paani laane ko kahaaṅ ruth gaye mujh se chacha
+  Aap hi socheṅ zara
+  Hote ammu to maiṅ is tarah tamaache khaati
+  
+  8
+  Puchhne ki meri un se nahiṅ himmat parti
+  Ae meri achchhi phuphi
+  Mujh ko batlaaiye kiuṅ roti haiṅ chup chup ke chaachi
 # source_id: nohayonline:02652eb99e0153389e8d
 # source_url: https://www.nohayonline.com/details_content.php?id=199
 # raw_sha256: 690cb430c51e3cf5f5af4eaf6bcd1fb6a0491c7d217785a80dee66e393fdded8
@@ -98,32 +66,46 @@ romanLyrics: 'Salam - Qaid khane me Sakina ye bayan karti thi, KyaAndhera hai Ph
 # raw_sha256: 9daf0fc34036c715ed14e77342c28c9730421791c2fd1f8a670cfb17df38fb62
 # added_stanza_source: roman:kalam-nohayonline-37cb891631e862154306
 ---
-
-کیا اندھیرا ہے پھوپی
-
-۱
+کیا اندھیرا ہے پھوپی، کیا اندھیرا ہے پھوپی
 قید خانے میں سکینہؑ یہ بیاں کرتی تھی
 شمع منگوائیے ورنہ میں نہیں جینے کی
 
-۲
-اپنے سینے سے لگالو میں تمہارے صدقے
-گود میں لےلو مجھے
+۱
+اپنے سینے سے لگا لو میں تمہارے صدقے
+گود میں لے لو مجھے
 دل دھڑکتا ہے میرا خوف سے تھراتا ہے جی
+
+۲
 کیوں لعیں قید میں لائے ہیں مجھے کیا معلوم
 ہائے بابا مظلوم
 گئے میدان کو جس دن سے خبر میری نہ لی
-بابا آجاتے تو پھر شمر کو ہوتا معلوم
+
+۳
+بابا آ جاتے تو پھر شمر کو ہوتا معلوم
 کون ہے یہ معصوم
-کیاسمجھ کر مجھے یوں گھڑکیاں دیتا ہے شقی
-آج کی شب کو بھی کیا بابا نہیں آئینگے
-مجھکو تڑپائینگے
-انکے سینے پے اگر سوتی تو نیند آجاتی
+کیا سمجھ کر مجھے یوں گھڑکیاں دیتا ہے شقی
+
+۴
+آج کی شب کو بھی کیا بابا نہیں آئیں گے
+مجھ کو تڑپائیں گے
+ان کے سینے پہ اگر سوتی تو نیند آ جاتی
+
+۵
 بعد میرے جو یہاں ہووے پدر کا آنا
-اُن سے یہ فرمانا
-مر گی گھٹ کے اندھیرے مے تمہاری بیٹی
+ان سے یہ فرمانا
+مر گئی گھٹ کے اندھیرے میں تمہاری بیٹی
+
+۶
 صبر کرتی ہوں مگر ہو نہیں سکتا مجھ سے
-یاں سے لے چلئےمجھے
-ورنہ پچھتاؤ گی زندہ نہ رہونگی میں کبھی
-پانی لانے کو کہاں روٹھ گئے مجھ سے چچاؑ
+یہاں سے لے چلیے مجھے
+ورنہ پچھتاؤ گی زندہ نہ رہوں گی میں کبھی
+
+۷
+پانی لانے کو کہاں روٹھ گئے مجھ سے چچا
 آپ ہی سوچیں ذرا
-ہوتے عموؑ تو میں اس طرح تمانچے کھاتی
+ہوتے عمو تو میں اس طرح طمانچے کھاتی
+
+۸
+پوچھنے کی مری ان سے نہیں ہمت پڑتی
+اے میری اچھی پھوپھی
+مجھ کو بتلائیے کیوں روتی ہیں چپ چپ کے چاچی
