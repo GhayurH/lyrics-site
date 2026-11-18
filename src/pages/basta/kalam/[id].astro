@@ -11,7 +11,7 @@ import "../../../styles/basta-shell.css";
 import "../../../styles/basta-text.css";
 import "../../../styles/basta-kalam.css";
 import "../../../styles/corrections.css";
-import { searchIndexAliases } from "../../../lib/search-normalization";
+import { searchIndexAliases, searchExcerptLines } from "../../../lib/search-normalization";
 import { getBastaKalamTypeForSection } from "../../../lib/basta-categories";
 import bastaIndex from "../../../data/basta/index.json";
 import { bastaKalamId } from "../../../lib/basta-kalam-units";
@@ -30,6 +30,12 @@ const hasRoman = Boolean(kalam.roman?.trim());
 const kalamType = getBastaKalamTypeForSection(kalam.sectionRoman);
 const sourceIndex = bastaIndex.find((entry) => bastaKalamId(entry) === kalam.id);
 const displayHaal = sourceIndex?.romanHaal?.trim() || sourceIndex?.haal?.trim();
+const searchTerms = [
+  kalam.name, kalam.romanName, kalam.sectionRoman, sourceIndex?.haal, sourceIndex?.romanHaal,
+  searchIndexAliases([kalam.name, kalam.romanName, kalam.urdu, kalam.roman].filter(Boolean).join(" ")),
+].filter(Boolean).join(" ");
+const indexedUrduLines = searchExcerptLines(kalam.urdu, kalam.name);
+const indexedRomanLines = searchExcerptLines(kalam.roman, kalam.romanName);
 const sourceScanUrl = (value: number) => `/images/basta/original/${String(value).padStart(3, "0")}.png`;
 ---
 <BaseLayout
@@ -44,12 +50,11 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
       {kalamType && <span data-pagefind-filter="kalamType">{kalamType}</span>}
       {displayHaal && <span data-pagefind-filter="haal">{displayHaal}</span>}
       <span data-pagefind-meta="page">{page}</span>
-      <span data-pagefind-meta="searchTerms">{kalam.name} {kalam.romanName || ""} {kalam.sectionRoman} {sourceIndex?.haal || ""} {sourceIndex?.romanHaal || ""}</span>
+      <span data-pagefind-meta="searchTerms">{searchTerms}</span>
     </div>
     <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
-      <p>{searchIndexAliases([kalam.name,kalam.romanName,kalam.urdu,kalam.roman].filter(Boolean).join(" "))}</p>
-      {kalam.urdu.split(/\r?\n/u).filter(Boolean).map((verse) => <p lang="ur" dir="rtl">{verse}</p>)}
-      {kalam.roman?.split(/\r?\n/u).filter(Boolean).map((verse) => <p lang="en" dir="ltr">{verse}</p>)}
+      {indexedUrduLines.map((verse) => <p lang="ur" dir="rtl">{verse}</p>)}
+      {indexedRomanLines.map((verse) => <p lang="en" dir="ltr">{verse}</p>)}
     </div>
     <ReaderSubnav ariaLabel="Basta navigation" items={[
         { label: "Basta", href: "/basta/" },
