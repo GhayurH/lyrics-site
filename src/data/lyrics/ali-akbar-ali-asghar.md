@@ -8,73 +8,44 @@ reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ali akbar ali asghar
-
+romanLyrics: |-
+  Ali Akbar Ali Asghar
 
   1
-
   Sadaye de rahi hai thokare khaati hai maa dar dar
-
-
-  2
-
   Kahan sote ho kyon dete nahi awaaz uth uth kar
 
-
-  3
-
+  2
   Sadaon par sadayein de raha hai baap hal min ki
-
   Musibati ki ghadi hai chain se sote ho tum dilbar
 
-
-  4
-
+  3
   Zaeefi mein pidar yun thokarein khata hai dar dar ki
-
   Koi aisa nahi de de sahara jo zara badh kar
 
-
-  5
-
+  4
   Faras se khaak par girne ko hai jaan-o-dile zehra
-
   Hazaro zakhm hai aur ek jisme sibte payghambar
 
-
-  6
-
+  5
   Kise awaaz doo kisko pukarun is musibat mein
-
   Guluye shaahe deen par chal raha hai shimr ka khanjar
 
-
-  7
-
+  6
   Madad ke waaste kisko pukarun aah qaime mein
-
   Lagi hai aag aur ghash mein pade hai abid e muztar
 
-
-  8
-
+  7
   Galay mein tauq bedi paon mein haaton mein hatkadiyan
-
   Chala jaata hai meer e kaarwan pehne hue langar
 
-
-  9
-
+  8
   Kahan par so rahe ho ghairate aale bani hashim
-
   Sare bazaare kufa hoo mere sar par nahi chadar
 
-
-  10
-
+  9
   Phuphi amma chupaye chehra e ismat ko balon se
-
-  Khule sar jaa rahi hai shaam ke darbar mein dilbar'
+  Khule sar jaa rahi hai shaam ke darbar mein dilbar
 # source_id: nohayonline:f113a3ed2e74aefab2b7
 # source_url: https://www.nohayonline.com/details_content.php?id=464
 # raw_sha256: ba05fe036307a99af9516df69bc9a11f367503ab180305fa7e9c9bbd7cd8f7a8
@@ -87,38 +58,36 @@ romanLyrics: 'Ali akbar ali asghar
 
 ۱
 صدائیں دے رہی ہے ٹھوکریں کھاتی ہے ماں دردر
-
-۲
 کہاں سوتے ہو کیوں دیتے نہیں آواز اُٹھ اُٹھ کر
 
-۳
+۲
 صدائوں پر صدائیں دے رہا ہے باپ ھٰل مِن کی
 مصیبت کی گھڑی ہے چین سے سوتے ہو تم دلبر
 
-۴
+۳
 ضعیفی میں پدر یوں ٹھوکریں کھاتا ہے در در کی
 کوئی ایسا نہیں دے دے سہارا جو ذرا بڑھ کر
 
-۵
+۴
 فرس سے خاک پر گرنے کو ہے جان و دلِ زہرا
-ؑہزاروں زخم ہیں اور ایک جسم سبطِ پیغمبر
+ہزاروں زخم ہیں اور ایک جسم سبطِ پیغمبر
 
-۶
+۵
 کسے آواز دوں کس کو اِس پُکاروں مصیبت میں
 گُلوئے شاہِ دین پر چل رہا ہے شمر کا خنجر
 
-۷
+۶
 مدد کے واسطے کس کو پُکاروں آہ خیمے میں
 لگی ہے آگ اور غش میں پڑے ہیں عابدِ مُضطرؑ
 
-۸
+۷
 گلے میں طوق بیڑی پائوں میں ہاتھوں میں ہتھکڑیاں
 چلا جاتا ہے میرِ کارواں پہنے ہوئے لنگر
 
-۹
+۸
 کہاں پر سو رہے ہو غیرتِ آلِ بنی ہاشم
 سرِ بازارِ کوفہ ہوں میرے سر پر نہیں چادر
 
-۱۰
+۹
 پُھپھی اماں چُھپائے چہرءِ عصمت کو بالوں سے
 کُھلے سر جا رہی ہے شام کے دربار میں دلبر
