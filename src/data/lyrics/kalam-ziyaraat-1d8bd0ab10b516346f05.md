@@ -5,7 +5,8 @@ lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+poet: "Hilal"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1d8bd0ab10b516346f05

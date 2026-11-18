@@ -12,6 +12,13 @@ published: true
 romanLyrics: |-
   Musafir Karbala wala
 
+  Dil-e-Zehra, Ali wala, Nabi wala
+  Musafir Karbala wala
+  Sakhi data, mera Maula, mera Aaqa
+  Musafir Karbala wala
+  Chala tanha, liye kunba, alam lekar, Khuda wala
+  Musafir Karbala wala
+
   Hua pamal jis tarha, na ho pamal koi mola
   (Musafir, Karbala wala musafir)
 
@@ -80,6 +87,13 @@ romanLyrics: |-
   (Musafir, Karbala wala musafir)
 ---
 
+مسافر کربلا والا
+
+دل زہرا، علی والا، نبی والا
+مسافر کربلا والا
+سخی داتا، میرا مولا، میرا آقا
+مسافر کربلا والا
+چلا تنہا، لیے کنبہ، علم لے کر، خدا والا
 مسافر کربلا والا
 
 ہوا پامال جس طرح، نہ ہو پامال کوئی مولا

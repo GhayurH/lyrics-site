@@ -1,17 +1,20 @@
 ---
-title: "Aab Iss Se Aagay Khuda Hi Jane Ali Ka Beta Hussain Kya Hai Wajhi Hasan Zaidi"
+title: "اب اس سے آگے خدا ہی جانے علی کا بیٹا حسین کیا ہے"
+alternateTitle: "Ab Is Se Aage Khuda Hi Jaane Ali Ka Beta Husain Kya Hai"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: []
+reciter: "Wajhi Hasan Zaidi"
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d4d067bab0612cf75b76
 # source_url: https://tajpoints.com/2018/01/aab-iss-se-aagay-khuda-hi-jane-ali-ka.html
 # raw_sha256: 99810e37ec3cc0922caf9f08f6564768fe3c37e8f2aaa81834835733fc674e20
 ---
+Ab Is Se Aage Khuda Hi Jaane, Ali Ka Beta Husain Kya Hai
 
 1
 Hussain Tehreek-e-Zindagi Hai Hussain Tauheed Ki Baqa Hai.
@@ -50,6 +53,12 @@ Hussain Khaliq Ka Kul Asasa Ali Ke Ausaaf Ka Khazeena.
 Hussain Qamat Mein Istafa Hain Hussain Qeemat Mein Mustafa Hai.
 
 7
+Usi Ke Sadqe Mein Aankh Badqi, Shikasta Kashti Lagi Kinare
+Wo Aisa Malik Hai Khushk-o-Tar Ka, Ke Jis Ka Sadqa Falak Utare
+Bas Ek Hurr Ne Samajh Liye The, Kitab-e-Natiq Ke Kuch Ishare
+Ragon Mein Jis Ki Sharif Khoon Hai, Wo Zikr-e-Shabbir Kar Raha Hai
+
+8
  Muhib Yeh Dargah-e-Panjtan Hai Bas Aansoon Ki Furat Mango.
 Jo Aal-e-Ahmad Ke Gham Mein Guzre Hamesha Aisi Hayat Mango.
 Jo Iss Waseele Se Mangna Hai Kare Jo Matam Woh Hath Mango.

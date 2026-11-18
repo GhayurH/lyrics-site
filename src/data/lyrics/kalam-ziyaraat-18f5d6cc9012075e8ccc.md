@@ -6,7 +6,7 @@ direction: "ltr"
 kalamType: "Noha"
 poet: "Wahid Imam Wahid"
 reciter: "Syed Ali Naqvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:18f5d6cc9012075e8ccc
