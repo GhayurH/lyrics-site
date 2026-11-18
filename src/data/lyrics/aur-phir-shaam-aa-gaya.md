@@ -4,6 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mazhar Abidi"
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: []
 aliases: []
