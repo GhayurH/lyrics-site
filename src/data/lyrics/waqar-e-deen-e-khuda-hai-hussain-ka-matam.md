@@ -35,14 +35,26 @@ romanLyrics: |-
   Jo haath karta raha hai Husain ka maatam
 
   6
+  Jo poochha maiṅ ne Ilaahi gham-e-hayaat hai kya
+  Har ek wali ne kaha hai Husain ka maatam
+
+  7
+  Muqassirin ho mulla ho ya munaafiq ho
+  Har ek marz ki dawa hai Husain ka maatam
+
+  8
+  Ghilaaf-e-khaana-e-Kaaba ko dekh kar yuṅ laga
+  Yahaṅ zarur hua hai Husain ka maatam
+
+  9
   Ae bint-e-Faatima Zahra teri ataa ke tufail
   Hameiṅ nasib hua hai Husain ka maatam
 
-  7
+  10
   Baroz-e-hashr khabar leiṅ ge us ki Payambar
   Jise khabar nahiṅ kya hai Husain ka maatam
 
-  8
+  11
   Wilae-e-Aal-e-Nabi ki tarah se Mir Hasan
   Mere lahu meiṅ mila hai Husain ka maatam
 # source_id: tajpoints:b13823693e04cb123168
@@ -73,13 +85,25 @@ romanLyrics: |-
 جو ہاتھ کرتا رہا ہے حسین کا ماتم
 
 ۶
+جو پوچھا میں نے الٰہی غمِ حیات ہے کیا
+ہر ایک ولی نے کہا ہے حسین کا ماتم
+
+۷
+مقصرین ہوں ملا ہو یا منافق ہو
+ہر ایک مرض کی دوا ہے حسین کا ماتم
+
+۸
+غلافِ خانۂ کعبہ کو دیکھ کر یوں لگا
+یہاں ضرور ہوا ہے حسین کا ماتم
+
+۹
 اے بنتِ فاطمہ زہرا تیری عطا کے طفیل
 ہمیں نصیب ہوا ہے حسین کا ماتم
 
-۷
+۱۰
 بروزِ حشر خبر لیں گے اس کی پیمبر
 جسے خبر نہیں کیا ہے حسین کا ماتم
 
-۸
+۱۱
 ولائے آلِ نبی کی طرح سے میر حسن
 میرے لہو میں ملا ہے حسین کا ماتم

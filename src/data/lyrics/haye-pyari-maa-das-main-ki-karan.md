@@ -4,12 +4,43 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Tauqeer"
 tags: []
 aliases: []
 published: false
 # source_id: ziyaraat:204f5361c7ec1c0fbd00
 # source_url: https://www.ziyaraat.net/api/noha/909
 # raw_sha256: f303b07b3fb95ee1776f029742af6efdfaf305aa992a5d1464e7382569a06af7
+romanLyrics: |-
+  1
+  Haye Maa Pyari Maa Das Main Ki Karaan.
+  Na Tu Dunya Te Na Baba Aye Na Veraan Di Chaan.
+  Main Sharam Di Malka Mere Kus Gaye Sare.
+  Mainu Amari Deway Hunr Kaun Saharey.
+
+  2
+  Pehrey Te Khari Aan Darya Te Samiyaan Meri Chadar Da Nigraan.
+  Zahra Da Aaya Pasay Tu Wain Aye.
+  Tera Dukhra Sunr Ke Amari Be Chain Aye.
+  Mainu Mar Gaye Ne Putraan De Sadmay Main Kehrey Pasay Jaan.
+
+  3
+  Main Bint-e-Ali Aan Ismat Di Kali Aan.
+  Sehrawan Andar Be Pardah Khari Aan.
+  Main Kyun Na Rowaan Mainu Disdi Aye Akbar De Qatal Di Thaan.
+  Hai Bheer Bazari Wadh Gayi Bemari.
+
+  4
+  Khara Abid Roway Haye Zaar-o-Zaari.
+  Ohno Mar Gaye Ne Phophiyaan De Sadmay Kariyaan De Ronr Nishaan.
+  Be Ghairat Majma Hai Charey Pasay.
+  Zainab Nu Amari De Aanr Dilasay.
+
+  5
+  Nezay Te Roway Meri Halat Tak Ke Amari Natiq Quraan.
+  Tauqeer Hai Rehnra Shabbir Da Matam.
+  Natiq Quraan Di Tafseer Da Matam.
+  Jinna Ne Mil Ke Islam Di Khatir Kar Chadiya Ghar Qurbaan.
 ---
 
 ہائے ماں پیاری ماں دِس میں کی کِراں
@@ -30,6 +61,9 @@ published: false
 ۴
 ہے بھیڑ بازاری وَد گئی بیمارِی کھڑا عاَبد روے ہائے زاروزاری
 اُونوں مارگئے نے پھپھیاں دے صدمے کڑیاں دے رون نشان
+بے غیرت مجمع ہے چارے پاسے
+زینب نوں امڑی دے آں دلاسے
+نیزے تے رووے میری حالت تک کے امڑی ناطق قرآن
 
 ۵
 توقیراے رہنا شبیر دا ماتم ناطق قرآن دی تقدیر دا ماتم

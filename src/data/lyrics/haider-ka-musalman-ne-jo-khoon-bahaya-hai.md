@@ -4,6 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Navaid"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,27 +13,23 @@ published: false
 # raw_sha256: a9df609621a370214529cfeced8250ddd0c329845bc1c8bab5d6244a2b59b66e
 ---
 
-Haider ka musalmaan nay jo khoon bhaya hay
+Haider Ka Musalmaan Ne Jo Khon Bahaya Hai
+Sar Par Se Yeh Zainab Ke Haye Saya Uthaya Hai
 
 1
-Saar par say yeh zainab kay,  haey saaya uthaaya hay
+Zarbat Ki Khabar Aayi Jis Dam Dar-e-Haider Par
+Zainab Ne Rida Thami Bazu Ko Chupaya Hai
+Shabbir Tere Lashay Ko Kaun Uthaye Ga
+Tu Ne Tu Yeh Baba Ka Taboot Uthaya Hai
 
 2
-1) Zarbat ki khabar aaye jis dum dar-e-Haider par
-Zainab nay rida thaamee, baazoo ko chupaaya hay
+Karna Hai Hawalay Jo Shabbir Ko Ghazi Ke
+Abbas Ko Haider Ne Nazdeek Bulaya Hai
+Zainab Se Koi Pochay Aye Kofay Ki Shehzadi
+Kyun Baap Se Martay Dam Tak Khud Ko Chupaya Hai
 
 3
-2) Karna hai hawaalay jo Shabbir ko Ghazi kay
-Abbas ko Haider nay nazdeek bulaaya hay
-
-4
-3) Shabbir teray laashay ko kaun uthaayey ga
-Tunay tau yeh baba ka taaboot uthaaya hay
-
-5
-4) Zainab say koi poochay aye koofay ki shahzaadi
-Kyun baap say martay dum, dhuk khud ko chupaaya hay
-
-6
-5) Maa ko bhi tumhee ummat nay roka tha ronay say
-Zainab kay bhi ronay par ab pehra lagaaya hay
+Shabbir Ko Zainab Ne Bhi Sar Ki Rida Samjha
+Maa Keh Ke Hi Sarwar Ne Zainab Ko Bulaya Hai
+Maa Ko Bhi Navaid Ummat Ne Roka Tha Roney Se
+Zainab Ke Bhi Roney Par Ab Pehra Lagaya Hai
