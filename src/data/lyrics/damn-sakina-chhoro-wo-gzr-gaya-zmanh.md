@@ -12,25 +12,25 @@ published: false
 # raw_sha256: d695391ea376021d416ca04353491daadc2226600c2e8c8ea22df129851745e7
 ---
 
-Daman Sakina choro wo guzar gaya zamana
-Bachpan ka wada may nay,  sajday may hay nibhana
+Daman Sakina chhoro wo guzar gaya zamaana
+Bachpan ka waada maiṅ ne sajde meiṅ hai nibhaana
 
 1
-1) Sabro raza ka daman teray hath say na chutay
-Maray tamachay zalim,  o cha gosh waray lootay
-Her haal may Sakina nana ka deen bachana
+Sabr o raza ka daaman tere haath se na chhute
+Maare tamaanche zaalim chaahe goshwaare lute
+Har haal meiṅ Sakina naana ka din bachaana
 
 2
-2) Tera bhi imtaihaan hai mera bhi imtaihaan hay
-Meri Karbala hai manzil,  o zindaan tera maqaam hay
-Tuj ko aseer ho kay hay Kufa Shaam jana
+Tera bhi imtihaan hai mera bhi imtihaan hai
+Meri Karbala hai manzil zindaaṅ tera makaan hai
+Tujh ko asir ho kar hai Kufa Shaam jaana
 
 3
-3) Ma naid ho kai roya Rona magar yeh kam hay
-Meri kha gaya jawani,  o Baba wohi sitam hay
-Tuj ko aseer ho kay hay Kufa Shaam jana
+Maaṅ ne dekh ke roya rona magar ye kam hai
+Meri kha gaya jawaani o baba wohi sitam hai
+Tujh ko asir ho kar hai Kufa Shaam jaana
 
 4
-4) Lainai gayain thai paani phir lot ker na aayai
-Teray baad ashqiya nay,  o khaiyaam hain jalayain
-Afsos bhaiya Ghazi perda mera bacha na
+Lene gaye the paani phir laut kar na aaye
+Tere baad ashqiya ne khaime haiṅ jalaaye
+Afsos bhaiya Ghazi parda mera bachaana
