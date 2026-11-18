@@ -4,6 +4,8 @@ language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Tauqeer"
+reciter: "Wajhi Hasan Zaidi"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -12,31 +14,29 @@ published: false
 # raw_sha256: a470729288a17ff510fc30b87410e036e8e93bb5a885a61f3e40eb8d338cfff0
 ---
 
-Rooti hui darbaar say loat aaye Fatima
+Roti hui darbaar se laut aayi Fatima
+Na jaane kya wahaaṅ se dekh aayi Fatima
 
 1
-Nah jaanay kya wahan seh,  Dekh aayi Fatima
+Is baat ka nahiṅ gham jagir chhin li
+Rona to ye hai tum ne jhutlaayi Fatima
 
 2
-1) Is baat ka nahin ghaam jageer cheen li
-Roona to yeh hain tum nay, jhutlayi Fatima
+Mohsin ko bhul jaana insaaniyat nahiṅ
+Pehchaano Muhammad ki hai jaayi Fatima
 
 3
-2) Khud hi bata musalmaan teray situm kay baad
-Duniya main kitnay din hai, jee paayi Fatima
+Ro ro ke keh rahi hai ye qabr-e-Rasul par
+Tere baad dusre ne hai sataayi Fatima
 
 4
-3) Mohsin ko bhool jana insaniyaat nahin
-Pehchano Muhaamed ki hain, jayee Fatima
+Zainab se keh rahi hai teri rida ki khair
+Manzar bazaar-e-Shaam ka dekh aayi Fatima
 
 5
-4) Ro ro kay keh rahi hain yeh kabray Rasool paar
-Teray baad dusray nay hai, satayee Fatima
+Khud hi bata Musalmaan tere sitam ke baad
+Dunya meiṅ kitne din hai ji paayi Fatima
 
 6
-5) Zainab yeh keh rahi hai teri riddah ki khai
-Manzaar bazaar-e-shaam ka, dekh aayi Fatima
-
-7
-6) Tauqeer kya likhun main kaisay bayaan karoon
-Ummat nay kaisay kaisay hain, rulayi Fatima
+Tauqeer kya likhuṅ maiṅ kaise bayaaṅ karuṅ
+Ummat ne kaise kaise hai rulaayi Fatima

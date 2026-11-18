@@ -5,6 +5,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Rehaan Azmi"
+reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
@@ -63,8 +64,9 @@ romanLyrics: 'Jhoola veeran hay aur goad bhi khali Asgher
 
 ؑجھولا ویران ہے اور گود بھی خالی اصغر
 
+ماں کو بتلا دے کہاں بستی بسا لی اصغر
+
 ۱
-ؑماں کو بتلا دے کہاں بستی بسا لی اصغر
 سر پہ چادر جو نہ تھی ماں نے کفن کی صورت
 ؑخاک مقتل کی تیری لاش پہ ڈالی اصغر
 

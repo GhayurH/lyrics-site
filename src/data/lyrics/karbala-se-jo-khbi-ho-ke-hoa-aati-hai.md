@@ -5,47 +5,38 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 poet: "Shaheed"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Karbala se jo kabhi ho ke hawa aati hay
-
-  Kisi Masoom ki hichki ki sada aati hay
-
+romanLyrics: |-
+  Karbala se jo kabhi ho ke hawa aati hai
+  Nanhe masum ke rone ki sada aati hai
+  Kisi masum ki hichki ki sada aati hai
 
   1
-
-  Maa samajhti hay dulhan laoon gi aaya hay shabab
-
-  Sheh samjhtay hain ke Akbar ki qaza aati hay
-
+  Koi bimar na parhta ho tahajjud ki namaz
+  Raat ko beriyoṅ ki kiuṅ ye sada aati hai
 
   2
-
-  Kon sota hay kanaray teray aey nehr e Furat
-
-  Teri matti se abhi booey wafa aati hay
-
+  Muṅh phira lete haiṅ Abbas tapakte haiṅ ashk
+  Nehr ki simt se thandi jo hawa aati hai
 
   3
-
-  Koyi beemar na parrhta ho tahajjud ki namaz
-
-  Raat ko bairryon ki kyun ye sada aati hay
-
+  Haaṅ dharakta na ho maqtal meiṅ kahiṅ qalb-e-Rubab
+  Ali Asghar Ali Asghar ki sada aati hai
 
   4
-
-  Haan dharakta na ho maqtal may kaheen qalb e Rubab
-
-  Ali Asghar Ali Asghar ki sada aati hay
-
+  Kaun sota hai kinare tere ae Nehr-e-Furat
+  Teri mitti se abhi bu-e-wafa aati hai
 
   5
+  Maaṅ samajhti hai dulhan laauṅ gi aaya hai shabab
+  Sheh samajhte haiṅ ke Akbar ki qaza aati hai
 
-  Jab kabhi ziada may beemar jo hota hoon Saheed
-
-  Khud ba khud meray liyay khaak e shifa aati hay'
+  6
+  Jab kabhi zyada maiṅ bimar jo hota huṅ Shaheed
+  Khud ba khud mere liye khaak-e-shifa aati hai
 # source_id: nohayonline:eb4fdc7e182e7ef3e25a
 # source_url: https://www.nohayonline.com/details_content.php?id=1932
 # raw_sha256: 339e248b8022df6aa801f1427f42e809c094c1d233c0f5f8cde24f806aba19b0
