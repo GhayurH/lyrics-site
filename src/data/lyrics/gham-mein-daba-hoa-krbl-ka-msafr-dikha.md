@@ -31,3 +31,7 @@ Dair tak dhoondta phir Sibt e Payambar dekha
 4
 Ravi likhtay hain kay Sajjad ko jab hosh aaya
 Jaltay khayam mein Zainab ko khulay sar dekha
+
+5
+Mujh Ko Barbad Khuda Kar De Yeh Bola Pani
+Sheh Ke Hathon Mein Jo Zakhmi Ali Asghar Dekha

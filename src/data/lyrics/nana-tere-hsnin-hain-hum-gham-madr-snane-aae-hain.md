@@ -4,47 +4,47 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Akbar"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  1
   Nana(sawaw) tere Hasnain hain hum
   Gham-e-madar sunane aaye hain
   Teri turbat pe ladle tere
   Chand tukre sanad ke laye hain
 
-  2
+  1
   Innama rooz jiss pe parhte thay
   Ab wo darwaza jal gaya Nana(sawaw)
   Tere dar pe diya jalane hum
   Ossi dar ko bhuja ke aaye hain
 
-  3
+  2
   Daagh duroon ke kaise dikhlati
   Baap ho tum se beti kiya kehti
   Jiss kissa ke taley thay hum sare
   Neil us ke talay chupaye hain
 
-  4
+  3
   Dil pe aayi thi moat ki zarbat
   Sar ke baloon tak aa gayi gurbat
   Jab ye kehte thay log Zahra
   Ne Dein Ke Maslay Bhulaye Hain
 
-  5
+  4
   Mushkilon se qadam uthati hay
   Do qadam chal ke baith jati hay
   Bin sahare wo chal nahi sakti
   Zakhm aise jigar peh khaye hain
 
-  6
+  5
   Hath uthta nahi hai pehlo Se
   Haye Mohsin ke bain uthtay hain
   Maa Ka cachna mohaal hai Nana(sawaw)
   Ab yateemi ke sar pe saaye hain
 
-  7
+  6
   Boli "Akbar" yeh ro ke Shehzaday
   Sirf trehreer hi nahi thi wo
   Bizat-o-minni ke wo tukre thay
@@ -74,5 +74,9 @@ romanLyrics: |-
 بِن سہارے وہ چل نہیں سکتی زخم ایسے جگر پہ کھائے ہیں
 
 ۵
+ہاتھ اٹھتا نہیں ہے پہلو سے، ہائے محسن کے بین اٹھتے ہیں
+ماں کا بچنا محال ہے نانا، اب یتیمی کے سر پہ سائے ہیں
+
+۶
 بولے اکبرؑ یہ رو کے شہزادے صرف تحریر ہی نہیں تھی وہ
 بضعۃ منی کے وہ ٹکڑے تھے جو ہوا میں گئے اڑائے ہیں
