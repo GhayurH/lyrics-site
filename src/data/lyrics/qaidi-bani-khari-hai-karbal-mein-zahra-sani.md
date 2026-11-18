@@ -1,5 +1,6 @@
 ---
-title: "Qaidi Bani Khari Hai Karbal Mein Zahra Sani"
+title: "قیدی بنی کھڑی ہے کربل میں زہراؑ ثانی"
+alternateTitle: "Qaidi Bani Khari Hai Karbal Mein Zahra Sani"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"
