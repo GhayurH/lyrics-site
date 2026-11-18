@@ -4,6 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Nasir Ali Raza Party"
 tags: ["noUrdu"]
 aliases: []
 published: false
@@ -52,6 +53,3 @@ Sajjad ne ay johar aysa jahaad kita
 Gham e shah abaad kita
 Matam diya pukara ajj wi ne wich bazaaran ay jahaad te jari ay
 
-8
-Nasir ali raza party
-Lahore
