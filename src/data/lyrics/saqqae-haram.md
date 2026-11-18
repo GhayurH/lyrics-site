@@ -7,7 +7,7 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: []
+tags: ["fixme"]
 aliases: []
 published: true
 romanLyrics: |-
@@ -68,14 +68,40 @@ romanLyrics: |-
   Hum aaṅkh meiṅ aansu laaye haiṅ
 
   10
+  Ab qabr se paani lipta hai
+  Saqqa-e-Sakina pyasa hai
+  Ab hashr talak dariya saare
+  dene ko salaami aaye hain
+  
+  11
+  Ik jaanib roza tumhara hai
+  Shabbir ka roza ek taraf
+  Bainul Haramain aa kar
+  humne daaman apne phailaaye hain
+  
+  12
+  Kya aap pe Aaqa guzri thi
+  kuch kahiye musibat apni bhi
+  Bin haathon ke kaise lehra kar
+  ghore se zameen par aaye hain
+  
+  13
+  Zahra ke laal ka pyasa gala
+  gardan ki pusht se katta gaya
+  Khanjar ki har ik zarbat par
+  ye arz o sama tharraye hain
+  
+  14
+  Ek qabr hai Shaam ke zindaan mein
+  ek mashk abhi tak khaali hai
+  Hum pyasi Sakina ki khatir
+  aankhon mein aansu laaye hain
+
+  15
   Darbaar Sakhi Abbas ka tha
   Kuchh maangna tha laazim maanga
   Lekin ye haqiqat bhi hai Qamar
   Hum pursa dene aaye haiṅ
-# source_id: nohayonline:180f81cba2249707b6d0
-# source_url: https://www.nohayonline.com/details_content.php?id=3067
-# raw_sha256: 37f5f0850efd6ff546f503c5f634665b8b55c52501a404d8e584d9345044ec97
-# notebook_comparison: temp-import-odt-2026-11-08
 ---
 
 عباس عباس یا ابا لفضل العباس
@@ -135,6 +161,36 @@ romanLyrics: |-
 ہم آنکھ میں آنسو لائے ہیں
 
 ۱۰
+اب قبر سے پانی لپٹا ہے
+سقائے سکینہ پیاسا ہے
+اب حشر تلک دریا سارے
+دینے کو سلامی آئے ہیں
+
+۱۱
+اک جانب روضہ تمہارا ہے
+ شبیر کا روضہ ایک طرف
+بین الحرمین آ کر ہم نے
+دامن اپنے پھیلائے ہیں
+
+۱۲
+کیا آپ پہ آقا گزری تھی
+کچھ کہیے مصیبت اپنی بھی
+بن ہاتھوں کے کیسے لہرا کر
+گھوڑے سے زمیں پر آئے ہیں
+
+۱۳
+زہرا کے لال کا پیاسا گلا
+گردن کی پشت سے کٹتا گیا
+خنجر کی ہر اک ضربت پر
+یہ ارض و سما تھرائے ہیں
+
+۱۴
+ایک قبر ہے شام کے زندان میں
+ایک مشک ابھی تک خالی ہے
+ہم پیاسی سکینہ کی خاطر
+آنکھوں میں آنسو لائے ہیں
+
+۱۵
 دربار سخی عباس کا تھا
 کچھ مانگنا تھا لازم مانگا
 لیکن یہ حقیقت بھی ہے قمر
