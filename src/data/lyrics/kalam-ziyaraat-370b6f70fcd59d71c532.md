@@ -10,7 +10,7 @@ published: false
 romanLyrics: |-
   Chorrta hoon may watan deen to bachanay ke liye
   Jo kiya wada azal may woh nibhanay ke liye
-  
+
   1
   [Jab Sibt-e-Mustafa ne watan se safar kiya
   Dasht-e-bala basanay ko veeran ghar kiya
@@ -18,7 +18,7 @@ romanLyrics: |-
   Rozay ko dekh dekh kar ankhon ko tar kiya
   Kehtay thay gham bara yeh liye jaye ga Hussain
   Kaahay ko is mazar pe phir aaye ga Hussain
-  
+
   2
   Yeh keh ke utray ghoray se ba chashm-e-ashk bar
   Tasleem ki mazar ko aur yun kiya pukar
@@ -26,11 +26,11 @@ romanLyrics: |-
   Honay ko rukhsat aaya hay Zahra ka yadgar
   Na char is mazar se muh moray jata hoon
   Aada ki dushmani se watan choray jata hoon]
-  
+
   3
   Kar diya majboor mujh ko karnay aaya hoon salam
   Ja raha hoon Karbala wapas na aanay ke liye
-  
+
   4
   Yeh keh ke liptay qabr se aur roey zar zar
   Mehboob-e-Kibraya ka laga kampnay mazar
@@ -38,7 +38,7 @@ romanLyrics: |-
   Aey jaan-e-Fatima teri ghurbat pe may nisar
   Jab tu chala to chain kab aaye Rasool ko
   Turbar may zalimoon ne sataya Batool ko
-  
+
   5
   Nana ke is kalam se roey bohat Imam
   Rukhsat ka phir adab se kiya aakhri salam
@@ -46,7 +46,7 @@ romanLyrics: |-
   Yak bar mehmalon may chahrhay basad ihtaram
   Khalqat yeh kehti jati thi hamrah hain Ahlebait
   Jo aaye ga na phir ke kabhi Shahanshah-e-Ahlebait
-  
+
   6
   Yeh baat kartay jatay thay ro ro ke dil figar
   Zahir hua jo dasht-e-museebat may qaza kar
@@ -54,7 +54,7 @@ romanLyrics: |-
   Waan chaltay chaltay ruk gaya is Sheh ka rahwar
   Kora bhi mara airri bhi mari Imam nay
   Par ki na junbhish is fars-e-tez gam nay
-  
+
   7
   Ghoray se tab yeh Sheh ne kaha tujh ko kiya hua
   Kiya hay jo chaltay chaltay is ja khara hua
@@ -62,15 +62,15 @@ romanLyrics: |-
   Laikin hoon yaan qaza ke rasn se bandha hua
   Uthta na ho ga koi gira is zameen ka
   Poocho kisi se naam hay kia is zameen ka
-  
+
   8
   Mola ne poocha naam to ik shaks ne kaha
   Hay ik zameen-e-Mariya aur aik Karbala
-  
+
   9
   Ho gaye Nana mukammal sab meri qurbaniyaan
   Aa gaya dunya may Asghar teer khanay ke liye
-  
+
   10
   Aasman misl-e-kamaa dasht-ebala par jhuk gaya
   Jab jhukay Shah lash-e-Akbar uthanay ke liye

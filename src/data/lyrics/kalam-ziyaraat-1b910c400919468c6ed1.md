@@ -10,27 +10,27 @@ published: false
 romanLyrics: |-
   Kaisai Kaha Hoga Ali Akber ko Alvida Beemar Nai
   Alwida alwida kab aao gai poocha hoga ro ro kai sogvaar nai
-  
+
   1
   1) Baba kai seenai sai lipat ker roti hogi
   Mujhai chor kai mat jao main tanha mar jaun gi
   Roun gi jab perhain in ujrai ujrai sehno' main ghurbat kai din guzaarnai
-  
+
   2
   2) Laila na jab chooma hy Sughra kai sarko
   Hasrat sai dhaka ho ga maan nai Ali Asgher ko
   Aankhon sai ansuyon kai moti dhaal kiyain hongai beti ko maa kai piyaar nai
-  
+
   3
   3) Asgher ko reh reh ker woh gaud main laiti hogi
   Shayad na milai phir ham tarap ker kehti hogi
   Kiya kahain kis terha rotai huwai behan ki gaudi ko chora tha sheer khwaar nai
-  
+
   4
   4) Abbas damai rukhsat hathon ko maltay hongay
   Gar kuch na kaha hoga to behtai hongai
   Aayaingai ham tujhai lainaigai ahad kiya hoga bibi sai alamdar nai
-  
+
   5
   5) Hasnain kai sadaqi main karam Haider nai kiya hai
   Mola kai gadagar kah sharaf zehra say liya hai

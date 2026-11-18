@@ -10,11 +10,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya Rab mere dardan da koi te sila day
-  
+
   1
   Main Ujri Sakina Nu
   Mera Baba Mila Day
-  
+
   2
   Main Jandi Haan Veeran
   Abid Teri Majburi
@@ -22,7 +22,7 @@ romanLyrics: |-
   Kar Rasm Dafan Puri
   Bahvain Rawan Dey Vich Meri
   Tu Qabr Bana Day
-  
+
   3
   Jeewain Paak Nabi Keethi
   Tazeem Fatima Di
@@ -30,7 +30,7 @@ romanLyrics: |-
   Menu Meri Sakina Vi
   Chau Salan Di Zahra Nu
   Na Shimr Saza Day
-  
+
   4
   Masoom Behan Meri
   Zindan Da Hanera
@@ -38,7 +38,7 @@ romanLyrics: |-
   Beemar Veer Tera
   Keevain Vakhri Qaid Teri
   Sajjad Bhula Day
-  
+
   5
   Nahi Maut Kolon Dardi
   Sehlangi Main Sazawan
@@ -46,7 +46,7 @@ romanLyrics: |-
   Bahwain Fir Main Marjavan
   Parwardigar Menu
   Kuj Dayr Bachavay
-  
+
   6
   Sajjad Hath Uthakay
   Mangdi Raway Duawan

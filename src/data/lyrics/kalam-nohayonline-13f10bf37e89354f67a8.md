@@ -11,58 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   Hum na bhoolenge hum na bhoolenge
-  
+
   1
   Karbala na bhoolenge karbala na bhoolenge
   Rehbaron ki sar zameen hai ambiya ki rehguzar
   Mehwe sajda hai yahin par khaana e kaaba ka sar
   Sab ko milta hai yahan se khuld ka zaad e safar
-  
+
   2
   Yaad baaqi hai khuda ki karbala ki yaad se
   Dhoom hai salle alaa ki karbala ki yaad se
   Saans chalti hai wafa ki karbala ki yaad se
-  
+
   3
   Saaf go bebaak hai karte hai ye waada hussain
   Gham hai seene chaak hai karte hai ye waada hussain
   Jin ke shajre paak hai karte hai ye waada hussain
-  
+
   4
   Saari dunya ko sunayenge bayan e karbala
   Apne seeno par likhenge daastan e karbala
   Hum kabhi jhukne nahi denge nishan e karbala
-  
+
   5
   Apni jaanein nazr kar denge shahadat ke liye
   Dher sajdon ka laga denge hifazat ke liye
   Sar ke bal aayenge hum iski ziyarat ke liye
-  
+
   6
   Karbala to qasre laa ilaah ki bunyad hai
   Sayyed e sajjad ka khutba to hum ko yaad hai
   Matami seeno mein ab bhi karbala aabad hai
-  
+
   7
   Khoon se iska naam likh denge har ek manzar mein hum
   Farsh matam ka bicha denge zamane bhar mein hum
   Phir azakhana sajayenge khuda ke ghar mein hum
-  
+
   8
   Khoon mein doobe huwe pyason ke laashe yaad hai
   Sehme sehme tashnalab masoom bacche yaad hai
   Dasht mein jalte huwe veeran qaime yaad hai
-  
+
   9
   Aa rahi thi al-atash ki jo sadayein yaad hai
   Chin gayi thi jo saron se wo ridayein yaad hai
   Jo rasan basta thi wo majboor maayein yaad hai
-  
+
   10
   Karbala ay karbala ay karbala ay karbala
   Hashr tak chalta rahega ye hussaini khaafila
   Sun rahe hai aaj bhi hum log hal min ki sada
-  
+
   11
   Al-madad ay gohar e haq al-madad shaah e najaf
   Saaye mein aake alam ke hum uthaate hai halaf

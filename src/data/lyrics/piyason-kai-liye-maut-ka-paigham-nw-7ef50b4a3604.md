@@ -10,19 +10,19 @@ published: false
 romanLyrics: |-
   Piyason kai liyai maut ka paighaam sahar hai
   Chal jayai ga Shabbir ki gardan pai bhi khanjer.
-  
+
   Is raat chamaktai hain falak per jo sitarai
   Lut jayai ga aik roz main Zahra ka bhara ghar.
-  
+
   Abbas kai shaanai bhi kalam hon gai labai naher
   Chin jaayi gi kal Zainab-o-Kulsoom ki chadar.
-  
+
   Jo seenai pai Shabbir kai soti hai Sakina
   Dhundai gi na mil jayai gi lut jayain gain Gohar.
-  
+
   Beemar ka bister bhi adu kainchain gai aaker
   Pehnayain gai beemar ko woh aahain nilangar.
-  
+
   Yeh raat agar dhal gayi sooraj nikal aya
   Mur jhayai ga pardes main Zahra ka gulistar.
 # source_id: nohawriteups:7ef50b4a360482b6d94c

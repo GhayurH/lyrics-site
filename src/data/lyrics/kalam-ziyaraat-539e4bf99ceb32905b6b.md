@@ -16,14 +16,14 @@ romanLyrics: |-
   Dekha roza to maazi me mein kho gaya
   Saamnay mere zindaan tha shaam ka
   Us ghari mere lab par fughaan aa gayi
-  
+
   2
   Roshni ka safar bhi nahin
   Aur hawa ka guzar bhi nahin
   Kis qadr habs hay al amaan
   Kaise rehti ho bibi yahaan
   Haye haaye
-  
+
   3
   1. Tum ko yaade padar sone deti nahi
   Aur us pe sitam he ye khaufe laeen
@@ -32,7 +32,7 @@ romanLyrics: |-
   Tum to tum qaid hain sisikiya
   Kaise rehti ho bibi yahaan
   Haye haye
-  
+
   4
   2. Zakhm khaati ho aur ashk peeti ho tum
   Mujhko hairat he kis tarha jeeti ho tum
@@ -41,7 +41,7 @@ romanLyrics: |-
   Qaid me aisa mumkin kahan
   Kaise rehti ho bibi yahan
   Haye haye
-  
+
   5
   3. Meri bibi mujassam fughan ho gayi
   Kya khata thi ke qaidi yahan ho gayi
@@ -50,7 +50,7 @@ romanLyrics: |-
   Sun raha hun ye kehti hay maa
   Kaise rehti ho bibi yahan
   Haye haye
-  
+
   6
   4. Fitrati sari baatein mujhe hay khabar
   Qaid mein qaidi ko yaad aata hay ghar
@@ -59,7 +59,7 @@ romanLyrics: |-
   Ab ye gham ye sitam sakhtiyaan
   Kaise rehti ho bibi yahan
   Haye haye
-  
+
   7
   5. Shaam ki aurton se suna hay yahi
   Tum jo roti ho sota nahin he shaqi
@@ -68,7 +68,7 @@ romanLyrics: |-
   Karte rehtay hein bas ye fughan
   Kaise rehti ho bibi yahan
   Haye haye
-  
+
   8
   6. Dil pe kohe garan ek ehsaas hay
   Chhote bachhe to darte hain tanhaayi say
@@ -77,7 +77,7 @@ romanLyrics: |-
   Na padar na chacha aur na maa
   Kaise rehti ho bibi yahan
   Haye haye
-  
+
   9
   7. Tum jo ehle haram se juda qaid ho
   Phir to haq he tumhara ke nawha karo
@@ -86,7 +86,7 @@ romanLyrics: |-
   Nawha khaani pe pabandiyan
   Kaise rehti ho bibi yahan
   Haye haye
-  
+
   10
   8. Aayi kaanon mein ye qaidiyon ki fughan
   Roke kehti hein zindan main kuchh bibiyan
@@ -95,7 +95,7 @@ romanLyrics: |-
   Pursa deti hain tanhaiyan
   Kaise rehti ho bibi yahan
   Haye haye
-  
+
   11
   9. Phir tasalsul tasawwur ka toota mera
   Mere peshe nazar roza bibi ka tha
@@ -104,7 +104,7 @@ romanLyrics: |-
   Phir bhi honton pe thi ye fughan
   Kaise rehti ho bibi yahan
   Haye haye
-  
+
   12
   10. Lafz Mazhar ke ehsaas Farhaan ka
   Woh ye kehta he bibi se meine kaha

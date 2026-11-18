@@ -12,49 +12,49 @@ published: false
 romanLyrics: |-
   Utra jo aasman se mehzar ba shor-o-shain
   Baitush sharaf mein goonj uthe sayyeda ke bain
-  
+
   1
   Farmate thay habeebe khuda shaahe mashraqain
   Hussaino minni wa ana minal hussain
   Karbobala mein mera pisar maara jaayega
   Pyasa rahega boond na pani ki paayega
-  
+
   2
   Ansar-o-aqraba ki ye laashe uthayega
   Islam ko bachayega mera ye noore ain
   Hussaino minni…
   Has kar sahega ye har ek ranj-o-malaal ko
-  
+
   3
   Jhoole se leke jaayega bano ke laal ko
   Pani magar na dega koi naunehal ko
   Pyasa hi maara jayega asghar sa noore ain
   Hussaino minni…
-  
+
   4
   Sar sabse aage naize par hoga hussain ka
   Gar bhai bekafan to behan hogi berida
   Darbar mein yazeed ke jaayega khaafila
   Zainab dayare shaam mein banjayegi hussain
-  
+
   5
   Hussaino minni…
   Ye sunke boli fatema zehra duhaai hai
   Farte alam se aankhon mein tareeki chaayi hai
   Baba khabar ye aap ne kaisi sunaayi hai
-  
+
   6
   Paata nahi hai mera dile dard mand chain
   Hussaino minni…
   Phir sayyeda ne poocha ay taaje sire yaqeen
   Kahiye abul hassan bhi to honge wohi qareeb
-  
+
   7
   Mai aur aap honge kahan koi bhi nahi
   Na mai na tum na honge ali faatahe hunain
   Hussaino minni…
   Mohsin ye sunke fatima zehra hui malool
-  
+
   8
   Roohul ameen pukaare ke keh-dijiye rasool
   Ek qaum khalq hogi ba-andaaze buey kul

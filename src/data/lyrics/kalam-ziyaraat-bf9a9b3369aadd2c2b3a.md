@@ -17,7 +17,7 @@ romanLyrics: |-
   Ye koun gira
   Haaye hussaina
   Ye koun gira reyti per
-  
+
   2
   Tha waqt-e-asar arsh-e-mualla pe shor tha
   Wa hasrataa ke zeen se zamin pe koi gira
@@ -26,7 +26,7 @@ romanLyrics: |-
   Deewar-e-kaba beyth gai arsh gir para
   Ye koun gira reyti per
   Ye koun gira
-  
+
   3
   Girtey hi iske kabey ki deewar gir gai
   Sar aasman ka jhuk gaya dastaar gir gai
@@ -35,7 +35,7 @@ romanLyrics: |-
   Heraan hai mout khouf nahi itmenaan hai
   Ye koun gira reyti per
   Ye koun gira
-  
+
   4
   Ye ho gaya maloom ye khasaan-e-khuda hai
   Ye kaisa bashar hai jo zamaney se juda hai
@@ -44,7 +44,7 @@ romanLyrics: |-
   Rotey hain nabbi.w.w sarey siyah posh hain adam
   Ye koun gira reyti per
   Ye koun gira
-  
+
   5
   Ye mard-e-khuda shah-e-arab ala nasab hai
   Alhamd se wannas tak iss ka hi sab hai
@@ -53,7 +53,7 @@ romanLyrics: |-
   Islam issi sar se madad maang raha hai
   Ye koun gira reyti per
   Ye koun gira
-  
+
   6
   Aye shah-e-mashraqian hamara salam lain
   Haider key zaib o zain hamara salam lain

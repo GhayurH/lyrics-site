@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya Hussain
-  
+
   1
   Zindaan se riha hokar jis dam
   Jab karbobala mei aaye haram
@@ -20,14 +20,14 @@ romanLyrics: |-
   Baba ne mujhe samjhaaya tha
   Ay beti ghar mei paidal chal
   Chalna hai tujhe meelon tanha
-  
+
   2
   1) O mere ghazi ghayrat waale
   Haan meri chadar ke rakhwaale
   Haan mujhe ghir ke sambhalna aagaya
   Haan mujhe paidal chalna aagaya, Abbas
   Meko paidal turna aagaya, Abbas
-  
+
   3
   2) Mashk-o-alam wale mere
   Shahe wafa awaaz de
@@ -35,7 +35,7 @@ romanLyrics: |-
   Har gham se guzarna aagaya
   Haan mujhe paidal chalna aagaya, Abbas
   Meko paidal turna aagaya, Abbas
-  
+
   4
   3) Qendhi thi ro pai serheenye
   Majboor wo teri bherheeye
@@ -43,7 +43,7 @@ romanLyrics: |-
   Jiwe zalim rassiyaan paagaya
   Haan mujhe paidal chalna aagaya, Abbas
   Meko paidal turna aagaya, Abbas
-  
+
   5
   4) Le shaam se mei aagayi
   Ghazi mei kyu zinda rahi
@@ -51,7 +51,7 @@ romanLyrics: |-
   Mujhe dhoop mei chalna aagaya
   Haan mujhe paidal chalna aagaya, Abbas
   Meko paidal turna aagaya, Abbas
-  
+
   6
   5) Dukhi bheyr da, ghazi bhiraan
   Hurn ki karaan, Menu desa
@@ -59,7 +59,7 @@ romanLyrics: |-
   Tera jarnraan mar muka gaya
   Haan mujhe paidal chalna aagaya, Abbas
   Meko paidal turna aagaya, Abbas
-  
+
   7
   6) Dekhe saje ada ke ghar
   Nezon pe the pyaaron ke sar
@@ -67,7 +67,7 @@ romanLyrics: |-
   Mujhe yaad Madina aagaya
   Haan mujhe paidal chalna aagaya, Abbas
   Meko paidal turna aagaya, Abbas
-  
+
   8
   7) Gaya dard ay dil cheer ay
   Vekhi zulam, di akheer ay
@@ -75,7 +75,7 @@ romanLyrics: |-
   Rukh bapardah hai khaagaya
   Haan mujhe paidal chalna aagaya, Abbas
   Meko paidal turna aagaya, Abbas
-  
+
   9
   8) Bazaar tha darbaar tha
   Zanjeer thi, beemar tha
@@ -83,7 +83,7 @@ romanLyrics: |-
   Har dard ko sehna aagaya
   Haan mujhe paidal chalna aagaya, Abbas
   Meko paidal turna aagaya, Abbas
-  
+
   10
   9) La la nuwe, jaaran tera
   Wich shaam de, jaraan tera
@@ -91,7 +91,7 @@ romanLyrics: |-
   "Khursheed" nu neer rawagaya
   Haan mujhe paidal chalna aagaya, Abbas
   Meko paidal turna aagaya, Abbas
-  
+
   11
   10)Ay "Sarwar-o-Rehan" ab
   Socho zara kya tha ghazab

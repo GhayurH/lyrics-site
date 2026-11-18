@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya zahra mazlooma mazlooma mazlooma
-  
+
   1
   Ya zahra masooma masooma masooma
   Ay bibi tum jaisi dekhi nahi mazlooma
@@ -20,7 +20,7 @@ romanLyrics: |-
   Baba ki furqat mein din raat kiya nauha
   Sadmon se bhara har din hai tera
   Dil kehne laga ya zahra
-  
+
   2
   Pehle to zaalim ne jageer teri cheeni
   Maani na logon ne tehreer mohamed ki
@@ -28,7 +28,7 @@ romanLyrics: |-
   Moo dhaampe chadar se tu roti rahi bibi
   Par kis ne suna wo nauha tera
   Ye bhi hai jafa ya zahra
-  
+
   3
   Baad iske logon ne jab ghar ko tere ghera
   Bachon ko dhamkaya ek shor hua barpa
@@ -36,7 +36,7 @@ romanLyrics: |-
   Yun toote wo zaalim ghar phoonk diya saara
   Ghar tera luta darwaza jala
   Ye gham hai bada ya zahra
-  
+
   4
   Jab jalta darwaza pehlu pe gira bibi
   Baazu bhi zakhmi thay pehlu bhi hua zakhmi
@@ -44,7 +44,7 @@ romanLyrics: |-
   Is tarha ay bibi ek aur jafa dekhi
   Mohsin bhi tera dunya se gaya
   Ye gham bhi saha ya zahra
-  
+
   5
   Teri ghurbat ki qasam haye meri shehzadi
   Tu bhi mazloom hai mazloom ali maula bhi
@@ -58,7 +58,7 @@ romanLyrics: |-
   Dafnaya maula ne jab tujhko meri bibi
   Chalees jagah marqad tha tera
   Kyun aisa kiya ya zahra
-  
+
   6
   Waise to posheeda bibi teri turbat hai
   Lekin jo zaahir mein marqad ki alaamat hai
@@ -66,7 +66,7 @@ romanLyrics: |-
   Rone par paabandi ye kaisi mohabbat hai
   Yun kar ke buka ye ahle aza
   Royenge sada ya zahra
-  
+
   7
   Lafzon mein likh paaye wo zakhm koi kaise
   Ummat se jo tum ne hai baade nabi khaaye

@@ -14,49 +14,49 @@ romanLyrics: |-
   Aur sayaday, mazloom ka betiii se yeh kahenaaaa
   Are tu royay, mai ye dekh nahiiii, sakta sakinaaaa
   Achchi nahi ye baat, na roya karo bibiiii
-  
+
   2
   Achchi nahi ye baat, na roya karo bibiiii
-  
+
   3
   Pahelu mein kabhi maa kay bhi so, yaa karo bi bi
   Achchi nahi ye baat, na roya karo bibiiii
-  
+
   4
   1) Kyaa howay kisi shab ko jo hum, ghar mein na aayain
   Tum humko na paao, tumhay hum, bhi nahi payain
   Tarpo gi nahi darda say waada, karo bibiiii
   Pahelu mein kabhi maa kay bhi soya karo bibi
   Achchi nahi ye baat, na roya karo bibi
-  
+
   5
   2) Aaray baitha karo kuch dair charaa, ghon ko bujhaakarrr
   Samjha karo is khaaq ko aaii, laadli bistaarr
   Baali kabhi yun hi, nahi pahayna karo bibiiii
   Pahelu mein kabhi maa kay bhi soya karo bibi
   Achchi nahi ye baat, na roya karo bibi
-  
+
   6
   3) Aaray kuch dair ko ye farza karo, hum na rahay garrr
   Baaqi na rahay haath koii, rakhnay ko sar parrr
   Mahaul yateemon, ka bhi, sochaa karo bibiiii
   Pahelu mein kabhi maa kay bhi soya karo bibi
   Achchi nahi ye baat, na roya karo bibi
-  
+
   7
   4) Aadat zaraa tanhaii mein raha, nay ki bhi daalo
   Tasveer tasawwoor mein asee, ri ki bana lo
   Azaad parindon, ko na dekhaa karo bibi
   Pahelu mein kabhi maa kay bhi soya karo bibi
   Achchi nahi ye baat, na roya karo bibi
-  
+
   8
   5) Aaray asghaarr ko na manoos karo, pyaar say apnayyyy
   Akbar kay urusee kay na de,khaa karo sapnayyyy
   Sughraa kay qareeb it,naa na baithaa karo bibiii
   Pahelu mein kabhi maa kay bhi soya karo bibi
   Achchi nahi ye baat, na roya karo bibi
-  
+
   9
   6) Aaray zindaan say Rehaan sadaa, aati hai aksar
   Jaisay kay Sakina, say ye farmatay hon Sarwar

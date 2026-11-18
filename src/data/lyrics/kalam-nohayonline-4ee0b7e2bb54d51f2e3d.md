@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Aaja mere hussain
-  
+
   1
   Tu chand hai mere ghar ka
   Tu phool hai is aangan ka
@@ -19,7 +19,7 @@ romanLyrics: |-
   Tu noor hai in aankhon ka
   Teri yaad mein tadpun din bhar
   Jaagun mai saari rayn
-  
+
   2
   Kya chakki pees ke beta
   Is din ke liye tha paala
@@ -27,7 +27,7 @@ romanLyrics: |-
   Manzar ye dehun kaise
   Ahmed ka nawasa hai
   Ye beta hai mera hussain
-  
+
   3
   Ghar baar luta kar dekhun
   Ye haal bhi dilbar dekhun
@@ -35,7 +35,7 @@ romanLyrics: |-
   Ujdi hai kook is ban mein
   Chaale hai mere is dil par
   Ashkon se tar hai nayn
-  
+
   4
   Khoon roti hai ye dukhiya
   Bebas hai kitni mamta
@@ -43,7 +43,7 @@ romanLyrics: |-
   Sajde mein sar aur khanjar
   Lillaah rehm tu karna
   Kaunain huwe bechain
-  
+
   5
   Be-aab na zibha kar tu
   Allah se kuch to darr tu
@@ -51,7 +51,7 @@ romanLyrics: |-
   Zehra ka ye fidya hai
   Kyun arsh ko tu dhaata hai
   Khudrat ke hai ye bain
-  
+
   6
   Dil par hai udaasi chaayi
   Baalon se maqtal jhaadi
@@ -59,7 +59,7 @@ romanLyrics: |-
   Tooti hai kamar bhi meri
   Ye din bhi kaisa aaya
   Haider ke noore ain
-  
+
   7
   Khanjar ko chalta dekha
   Pyase ko tadapta dekha
@@ -67,7 +67,7 @@ romanLyrics: |-
   Meri dunya luti pal bhar mein
   Beemar bacha kunbe mein
   Thay maa ke shor o shain
-  
+
   8
   Be-aas tadapti khaahar
   Nikli hai ghar se baahar
@@ -75,7 +75,7 @@ romanLyrics: |-
   Kya uspe hai ye musibat
   Bichde hai ran mein us se
   Sardare jina hasnain
-  
+
   9
   Saabir hai jahan mein iqtaa
   Iqbal hai jiska banda

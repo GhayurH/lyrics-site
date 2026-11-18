@@ -15,37 +15,37 @@ romanLyrics: |-
   Ghairat ka aasman zainab ka sayeban
   Kaise zainab ki taraf dekhta abbas ka sar
   Sharm se khaak pe girta raha abbas ka sar
-  
+
   2
   Shaam ke logon ne pathar se kiya isteqbal
   Jun hi bazar mein daakhil hua abbas ka sar
   Kaise zainab ki taraf...
   Yun bhi is sar se liya badr o ohad ka badla
-  
+
   3
   Hoo ba hoo baba ali jaisa tha abbas ka sar
   Kaise zainab ki taraf...
   Wo sina par bhi na aaqa ke barabar aaya
   Sheh ki ta'zeem mein jhukta raha abbas ka sar
-  
+
   4
   Kaise zainab ki taraf...
   Paon ke aabile abid ko kahan yaad rahe
   Jab gira garm zameen par gira abbas ka sar
   Kaise zainab ki taraf...
-  
+
   5
   Yun bhi baandha gaya rahwaar ki gardan se isay
   Zulm nazdeek se dekhe zara abbas ka sar
   Kaise zainab ki taraf...
   Pehle chadar se lahoo saaf kiya zainab ne
-  
+
   6
   Saath asbaab ke jis dam mila abbas ka sar
   Kaise zainab ki taraf...
   Nehr pe jis ghadi abbas ne dam toda tha
   Dilbar e zahra ki godhi mein tha abbas ka sar
-  
+
   7
   Kaise zainab ki taraf...
   Yaad zeeshan sar e shere khuda aane laga

@@ -11,23 +11,23 @@ published: false
 romanLyrics: |-
   Bayad e Sibt e Nabi jo bahaye jatay hain
   Un ansoowon se muqaddar sajaye banaye jatay hain
-  
+
   1
   Yaqeen na ho to waheen Karbala may chal kar dekh
   Kis ihetemam se jangal basaye jatay hain
-  
+
   2
   Ye naam e Shah e do aalam kahi karam hay ke ham
   Gham e jahan se daman bachaye jatay hain
-  
+
   3
   Udoowe aal ko zid hay ke zikr e aal na ho
   Kaheen ye naam bhi dil se bhulaye jatay hain
-  
+
   4
   Hay hota jin ko ata hukm e Hazrat e Ghazi
   Wohi to roza e Sheh par bulaye jatay hain
-  
+
   5
   Kami Hussain ki baqi hay Kazmi warna
   Yazeed aaj bhi dunya may paye jatay hain

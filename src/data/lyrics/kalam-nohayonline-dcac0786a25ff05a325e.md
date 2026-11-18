@@ -15,103 +15,103 @@ romanLyrics: |-
   Ali ka ishq mere nafs ki ibadat hai
   Jaanam ali ali deenam ali ali
   Qiblma lai ali rooham ali ali
-  
+
   2
   Ya ali ya ali ya ali ya ali
   Ya ali ya ali ya ali
   Mai tere ishq may jeeta hoo mere maula ali
   Ya ali ya ali ya ali ya ali
-  
+
   3
   Ya ali ya ali ya ali
   Ishq aashiq ko tabaahi se bachata bhi hai
   Ishq hyder ke ghulamon ka sahara bhi hai
   Ishq ka kheemti anmol khazana bhi hai
-  
+
   4
   Ishq allah ke ausaaf ka chehra bhi hai
   Jeene marne ka maza ishq may tab aata hai
   Ishq jab paikar e aashiq may sama jaata hai
   Ya ali ya ali ya ali...
-  
+
   5
   Mai tere ishq may...
   Saare nabiyon ne kaha hai mera sarkar ali
   Saare waliyon ke liye tu hai madagaar ali
   Ay mere murshid o aaqa mera sarkar ali
-  
+
   6
   Bin tere hogi meri zindagi dushwaar ali
   Mujhko naukar teri chaukat ka bana de maula
   Teri naalain ka irfan kara de maula
   Ya ali ya ali ya ali...
-  
+
   7
   Mai tere ishq may...
   Ashk aankhon se bahata hoo teri yaadon may
   Apne daaman ko bhigota hoo teri yaadon may
   Raat din rota mai rehta hoo teri yaadon may
-  
+
   8
   Bas ali kehke tadapta hoo teri yaadon may
   Ay wali ibne wali mujhko sahara de de
   Ay madadgaar e nabi mujhko sahara de de
   Ya ali ya ali ya ali...
-  
+
   9
   Mai tere ishq may...
   Apne rauze se mujhe lad sada de maula
   Apna dedaar to ek baar kara de maula
   Meri soyi hui kismat ko jaga de maula
-  
+
   10
   Hoo mai betaab izn zara de maula
   Gar ziyarat na hui saans hi ruk jayegi
   Maut hi mujhko ziyarat teri karwaegi
   Ya ali ya ali ya ali...
-  
+
   11
   Mai tere ishq may...
   Maine saanson may basaya hai tera naam ali
   Meri dhadkan ne pukara hai tera naam ali
   Meri rag rag may samaya hai tera naam ali
-  
+
   12
   Mere honton pe to rehta hai tera naam ali
   Tera dar chod ke maula mai kidhar jaaunga
   Mai agar tujhse bichad jaaun to mar jaaunga
   Ya ali ya ali ya ali...
-  
+
   13
   Mai tere ishq may...
   Ghar may khaalik ke huwe qatl ali wavaila
   Arsh par ro ke tadapte hai nabi wavaila
   Ro ke zehra ne kaha haye ali wavaila
-  
+
   14
   Hai ye kohraam mohamed ke wasi wavaila
   Zakhm ko dekhte jaate hai hassan aur jari
   Aankh se khoon bahaate hai hussain ibne ali
   Ya ali ya ali ya ali...
-  
+
   15
   Mai tere ishq may...
   Sar ko peeto ke huwe jaate hai maula ruqsat
   Masjidon ne bhi kaha hote hai qibla ruqsat
   Kehta hai kaaba hota hai mera kaaba ruqsat
-  
+
   16
   Hai farishton ki sada hote hai aaqa ruqsat
   Ay azadar e ali qalb se ye gham kar lo
   Kal rahe ya na rahe khoon ka matam kar lo
   Ya ali ya ali ya ali...
-  
+
   17
   Mai tere ishq may...
   Qatl huwe sher e khuda haye ali ali ali
   Hote hai hum se juda haye ali ali ali
   Zulm ye kaisa hai hua haye ali ali ali
-  
+
   18
   Taygh lagi sar pe tere haye ali ali ali
   Khoon namzi ka baha haye ali ali ali

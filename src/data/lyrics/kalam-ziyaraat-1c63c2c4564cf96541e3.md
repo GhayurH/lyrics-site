@@ -14,31 +14,31 @@ romanLyrics: |-
   Baba meh rulgay ah
   Injh lathe hoy dur mede
   Tenkoo rona bhulgay ah
-  
+
   2
   Baba menkoo shaam ke loka neh tede baad kaneezi wich mangiya
   Meh gairat syeda dee oh wele margay ah
-  
+
   3
   Jado gal teh der zarba chaliya meh kol koloh ke dehnndi ray
   Nahi miliya sar teda tarle kardi raya
-  
+
   4
   Jado wakhri qaid da huqam hoya menkoo kaliya tang zindaan deh wich
   Injh rondi meh turee ah oh qaiden meh rulgay ah
-  
+
   5
   Dutha pehla pursa maqtal wich menkoo shimmer laieen yateemi da
   Injh zalim hath chaya oh meh khaakh teh jhan paya ah
-  
+
   6
   Jada dhakila hoya sham deh wich hoyi bheer bazaari loka dee
   Phoopiya deh turan kithe oh meh raah mangdi raya
-  
+
   7
   Tende khoon ich tarkhat zalim deh menkoo ajar risalat dehnde ray
   Injh khums menkoo miliya oh rangeen hoya zulfa
-  
+
   8
   Shal koy dhee na injh guzre be sarba babe dee lash utho
   Jeew meh rasiya paah keh oh tedi lash tho guzri ah

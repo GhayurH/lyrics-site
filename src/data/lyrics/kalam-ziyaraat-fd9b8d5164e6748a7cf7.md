@@ -22,7 +22,7 @@ romanLyrics: |-
   Door qadmo se na rakhna mujhe ek aan ali
   Tujse jud jaunga maula to sawar jaunga
   Mai tere ishq may dooba to ubhar jaunga
-  
+
   2
   Asadullah ali...
   Ya hyder...
@@ -32,7 +32,7 @@ romanLyrics: |-
   Qatle mohsin ke azadaar kali ke baba
   Bibi kulsooom ke zainab ke misaali baba
   Qayame aale mohammed ke jalaai baba
-  
+
   3
   Asadullah ali...
   Ya hyder...
@@ -51,7 +51,7 @@ romanLyrics: |-
   Hadh to ye hai ke khuda khud hai sana qane ali
   Laal o jibreel nazar aate hai darbane ali
   Shahiyan baat-te phirte hai faqeerane ali
-  
+
   4
   Asadullah ali...
   Ya hyder...
@@ -71,7 +71,7 @@ romanLyrics: |-
   Karbala kya hai azakhana armaane ali
   Karbala kya hai azeezane ali ki mehnat
   Karbala hogayi ehbaabe ali ki jannat
-  
+
   5
   Asadullah ali...
   Ya hyder...
@@ -81,7 +81,7 @@ romanLyrics: |-
   Tohfa e maut jo mashooq se aashiq ko mila
   Kamiyabi ka ye andaz niraala dekha
   Badke aashoq ne kaha fuzto be rabbil kaaba
-  
+
   6
   Asadullah ali...
   Ya hyder...

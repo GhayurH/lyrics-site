@@ -13,31 +13,31 @@ romanLyrics: |-
   Kal judaai hay bhai behan may
   Bhai marne ko jaate hai ran may
   Kal judaai hai bhai behan may
-  
+
   2
   Bhai bhai pukarun mai ban may
   Bhai ka naam hai pajetan may
   Ye to kalma rahega dahan may
   Kal.......
-  
+
   3
   Aale ahmed pe kal hai qayamat
   Hoga taraaj baghe risalat
   Raat guzaregi ab bewatan may
   Kal.........
-  
+
   4
   Shukr ka kalma bhai padega
   Halqe nazuk pe qanjar phirega
   Zakhm honge hazaron se tan may
   Kal........
-  
+
   5
   Barchi khayega seene pe akbar
   Ye hai wallah shakle payambar
   Roohe zahra bhi tadpegi ran may
   Kal..........
-  
+
   6
   Teer se halqe asghar chidega
   Boond paani na usko milega

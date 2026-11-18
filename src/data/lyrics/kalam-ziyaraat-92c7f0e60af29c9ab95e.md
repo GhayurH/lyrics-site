@@ -14,7 +14,7 @@ romanLyrics: |-
   Goshware mai khud utaarti hu, tum tamache mujhe lagao na
   Apne baba ki..(2)
   Haye sakina, haye sakina
-  
+
   2
   1. Maar daala hai mere baba ko
   Unke laashe ko mai sambhalungi
@@ -22,7 +22,7 @@ romanLyrics: |-
   Teer unke sabhi nikalungi
   Chhod jaao yahi sakina ko, tum aseera mujhe banao na
   Apne baba ki..(2)
-  
+
   3
   2. Mai bahan hu sagheer asghar ki
   Mujhko choti batool kehte hai
@@ -30,7 +30,7 @@ romanLyrics: |-
   Dekh aasu bhi mere behte hai
   Teen din se bohot pyaasi hu, thoda paani mujhe pilao na
   Apne baba ki..(2)
-  
+
   4
   3. Mujhko sajjad dhoondhte honge
   Meri phupiyan tadap rahi hongi
@@ -38,7 +38,7 @@ romanLyrics: |-
   Chupke chupke sisak rahi hongi
   Maine apno ke paas jaana, lillah unse mujhe milao na
   Apne baba ki..(2)
-  
+
   5
   4. Mai kali hu nabi ke gulshan ki
   Mujhko tumne bohot sataya hai
@@ -46,7 +46,7 @@ romanLyrics: |-
   Rehm tumko zara na aaya hai
   Hogayi hu sehra mein, saath rehwaar ke daudao na
   Apne baba ki..(2)
-  
+
   6
   5. Rehm shere khuda ki poti par
   Tumko shimr e laee nahi aata
@@ -54,7 +54,7 @@ romanLyrics: |-
   Mujhse paidal chala nahi jata
   Saas lene do thodi der zara, taziyane mujhe lagao na
   Apne baba ki..(2)
-  
+
   7
   6. Mere ghazi chacha agar hote
   Tu mujhe is tarha satata na
@@ -62,7 +62,7 @@ romanLyrics: |-
   Khoon kaanon se yu bahata na
   Berehem chhod mere baalon ko, ek yateema pe zulm dhaao na
   Apne baba ki..(2)
-  
+
   8
   7. Haye taukeer phool si bacchi
   Shimr e maloon se yu kehti thi

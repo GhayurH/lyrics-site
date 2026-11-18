@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Chaman chaman kali kali
-  
+
   1
   Nagar nagar gali gali
   Kahin khafi kahin jali
@@ -24,63 +24,63 @@ romanLyrics: |-
   Kahin nazar kahin gohar kahin dua
   Kahin asar kahin khabar
   Ali ali ali ali ali ali
-  
+
   2
   Aasman pe jab gaye nabi
   Tha wahan bhi lehjaye ali
   Haram haram iram iram zameen zameen
   Arab arab ajam ajam
   Ali ali ali ali ali ali
-  
+
   3
   Izn se tere hawa chale
   Tujhse pooch kar diya jale
   Imame haq nizaame haq usoole haq
   Kaleeme haq kalaame haq
   Ali ali ali ali ali ali
-  
+
   4
   Mil gaya jo hukme bu-turab
   Aagaya palat ke aaftab
   Dua bhi tum ataa bhi tum yaqeen ki
   Ibteda bhi inteha bhi tum
   Ali ali ali ali ali ali
-  
+
   5
   Kayenat ka sha'oor hai
   Kirdigaar ka ghuroor hai
   Likho ali padho ali nafas nafas
   Kaho ali suno ali
   Ali ali ali ali ali ali
-  
+
   6
   Sab turab tum abu-turab
   Tum har ek sawaal ka jawab
   Seher mein tum qamar mein tum
   Yaqeen mein tum safar mein tum hazar mein tum
   Ali ali ali ali ali ali
-  
+
   7
   Taal'te ho sab ki mushkilaat
   Tum chala rahe ho kayenat
   Umang bhi tarang bhi
   Pukare baadhshah bhi malang bhi
   Ali ali ali ali ali ali
-  
+
   8
   Kufe ki nazar badal gayi
   Murtuza pe taygh chal gayi
   Wo shor utha ghazab hua
   Ay momino manao gham karo aza
   Ali ali ali ali ali ali
-  
+
   9
   Ay jalaal e khandaq o hunain
   Ek nazar ho jaanib e hussain
   Tera chaman hai be-kafan
   Lute haram chini rida bandhi rasan
   Ali ali ali ali ali ali
-  
+
   10
   Aamir aur nayyar e ghareeb
   Tere nauha khwan tere khateeb

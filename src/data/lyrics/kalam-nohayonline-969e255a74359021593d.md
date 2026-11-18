@@ -15,73 +15,73 @@ romanLyrics: |-
   Gir ke thanda hua hazrat ka alam darya par
   Ghark e khoon hogaya wo behre karam darya par
   Gul tha zakhmi hua saqqa e haram darya par
-  
+
   2
   Mashk ko daanton mein pakde hui yun laata hai
   Dahne sher mein jis tarha shikaar aata hai
   Algarz laasha e abbas pe aaye maula
   Sar ko zaanu pe rakha aur ye ro ro ke kaha
-  
+
   3
   Bhai to aaj hamein kehdo khudara bhaiya
   Nazha mein bhai ko abbas ne bhai bola
   Aakhri saans li aur daare fana chod diya
   Bhai ne bhai ki aagosh mein dam tod diya
-  
+
   4
   Abbas haye abbas abbas haye abbas
   Hazrat se juda hogaya abbas sa bhai
   Pardes mein looti gayi hyder ki kameini
   Hazrat se juda hogaya...
-  
+
   5
   Sheh ne ye kaha laasha e saqqa e haram se
   Baba ki tarha tum bhi juda hogaye hum se
   Do baar yateemi meri behno pe hai aayi
   Hazrat se juda hogaya...
-  
+
   6
   Mazloom se maqtal mein chala hi nahi jaata
   Jab khaak pe girte hai utha bhi nahi jaata
   Ghazi ki shahadat ne kamar aisi jhukayi
   Hazrat se juda hogaya...
-  
+
   7
   Bachi ne kaha shaah se farz apna nibhaun
   Nazdeek agar hai koi basti to mai jaaun
   Ammu ka kafan layegi ammu ki fidayi
   Hazrat se juda hogaya...
-  
+
   8
   Abbas ke bachon se mai sharminda rahunga
   Maqtal se utha laaya hoo har ek ka laasha
   Afsos ke abbas ki mayyat na uthayi
   Hazrat se juda hogaya...
-  
+
   9
   Khat khaak pe dete thay qadam zeen se jiske
   Maidan mein us sher ke itne huwe tukde
   Sajjad ne chadar mein wo mayyat hai uthayi
   Hazrat se juda hogaya...
-  
+
   10
   Darya bhi tadapne laga ye dekh ke manzar
   Yaad aane laga seena e hamshakle payambar
   Jab mashk kate haath se maula ne chudayi
   Hazrat se juda hogaya...
-  
+
   11
   Sadiyon se hai taari ye fiza ranj o alam ki
   Ye chand jo ojhal hua nazron se haram ki
   Phir saani e zehra ne kahan eid manayi
   Hazrat se juda hogaya...
-  
+
   12
   Ammu ki judayi pe bohat roye hai baba
   Samjhaati hai ro ro ke ye bachon ko sakina
   Ab dena nahi koi bhi pani ki duhayi
   Hazrat se juda hogaya...
-  
+
   13
   Har matami seene mein bapa hoga talatum
   Is saal tera jaana to mushkil hai takallum

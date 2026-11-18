@@ -10,20 +10,20 @@ published: false
 romanLyrics: |-
   Mujhe pe kyun band karte ho paani
   Ya Hussain
-  
+
   1
   Mera nana nabi meri maa Syeda
   Mera baba Ali mera bhai Hasan
   Hum hi hain panjatan
-  
+
   2
   Meri kya he khata,, mujhpe kyun band karte ho pani
-  
+
   3
   Kya Muhammad ka pyara nahin hun
   Kya may Zehra ka jaya nahin hun
   Kya nabi ka nawasa nahin hun
-  
+
   4
   1) Meray nana ne kalma sikhaya
   Aur Quran tumko sunaya
@@ -31,7 +31,7 @@ romanLyrics: |-
   Kya nabi ka nawasa nahin hun
   Mujhpe kyun band karte ho pani
   Kya Muhammad ka pyara nahin hun
-  
+
   5
   2) Who madina jahaan mera ghar he
   Aur masjid may us ghar ka ghar he
@@ -39,7 +39,7 @@ romanLyrics: |-
   Kya nabi ka nawasa nahin hun
   Mujhpe kyun band karte ho pani
   Kya Muhammad ka pyara nahin hun
-  
+
   6
   3) Chakkiya pees kar maan ne paala
   Mujhko nana ne jhula jhulaya
@@ -47,7 +47,7 @@ romanLyrics: |-
   Kya nabi ka nawasa nahin hun
   Mujhpe kyun band karte ho pani
   Kya Muhammad ka pyara nahin hun
-  
+
   7
   4) Kamli wale ke lab chumta tha
   Kitna pyara mera bachpana tha
@@ -55,7 +55,7 @@ romanLyrics: |-
   Kya nabi ka nawasa nahin hun
   Mujhpe kyun band karte ho pani
   Kya Muhammad ka pyara nahin hun
-  
+
   8
   5) May jo paani kabhi maangta tha
   Kyun tarapti thi maa ab may samjha
@@ -63,7 +63,7 @@ romanLyrics: |-
   Kya nabi ka nawasa nahin hun
   Mujhpe kyun band karte ho pani
   Kya Muhammad ka pyara nahin hun
-  
+
   9
   6) May jo chahun baras jaaein badal
   Khun may duba nazar aaye maqtal
@@ -71,7 +71,7 @@ romanLyrics: |-
   Kya nabi ka nawasa nahin hun
   Mujhpe kyun band karte ho pani
   Kya Muhammad ka pyara nahin hun
-  
+
   10
   7) Ik sada thi ye "rehaan-o-sarwar"
   Kehrahe the Hussain ibne haider

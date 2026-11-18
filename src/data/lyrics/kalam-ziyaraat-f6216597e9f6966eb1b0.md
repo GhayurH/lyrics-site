@@ -10,25 +10,25 @@ published: false
 romanLyrics: |-
   Aa jao chand meray, teri pyas may bujhaoon
   Asghar may teri maa hoon
-  
+
   1
   Meray ladlay kahan ho, seenay tumhe lagaon
-  
+
   2
   Teray jhoolay ko Sakina, ro ro ke choomti hay
   Tujhe ghar may dhoondti hay
   Teri moat ki khabar may, kaise usay sunaoon
-  
+
   3
   Beta tumhara qatil, meray samnay kharra hay
   Janay kyun hans raha hay
   Chadar bhi lut gayi hay, muh kis tarha chupaoon
-  
+
   4
   Lagta hay maa se Asghar, naraz ho gaya hay
   Maqtal may soo gaya hay
   Dhoondo kahan may us ko, aur kis tarha jagaoon
-  
+
   5
   Maidan my ja jurrat, bhi aisi tum dikhna
   Ghazi hi nazar aana

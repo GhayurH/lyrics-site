@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain Hussain.....
-  
+
   1
   Salam Ya Hussain.....(2)
   Bas Ya Hussain.....(2)
@@ -18,10 +18,10 @@ romanLyrics: |-
   Jahan Hussain Wahan Laelha Illallah.....(2)
   Hamare hai ya Hussain.....(2)
   Abad wallah Ya Zehra Manind sa Hussaina.....(2)
-  
+
   2
   Labbaik ya Hussain.....(2)
-  
+
   3
   Maula labbaik labbaik ya Abaabdillah
   Aqa Labbaik Labbail Ya Abaabdillah.
@@ -33,13 +33,13 @@ romanLyrics: |-
   Maula ab hum ko sada do.....(2)
   Ezuruni Ezuruni.......Ezuruni aa hitto...
   Taarefuni Shafie kum.
-  
+
   4
   Chale Aao, Chale Aao,
   Chale aao aye zawwar chale aao,
   Meri aawaz pe labbaik pukare jaao.
   Maula ab hum ko sada do.....(2)
-  
+
   5
   Naam tum subke mere dil pe hai likhe aao,
   Apne maa baap ko is paak safar me laao,
@@ -47,10 +47,10 @@ romanLyrics: |-
   Mere zawwaro meri karbobala aajaao,
   Ahed karta hun azadaro shifaat ke liye,
   Aao zawwaro chale aao ziyarat ke liye,
-  
+
   6
   Chale Aao, Chale Aao,........
-  
+
   7
   Khush raho aai meri rudaad sunane walo,
   Apni khushion me mera shog manane walo,
@@ -58,10 +58,10 @@ romanLyrics: |-
   Garmi sardi me meri kabr pe aane walo,
   Mujhko malum hai tumlogon ki haalat aao,
   Tumpe ho jaiengi Allah (s.w.t.) ki inayat aao,
-  
+
   8
   Chale Aao, Chale Aao,........
-  
+
   9
   Janibe karbobala gar koi badhta hai kadam,
   Har kadam per mere zawwar pe hota hai karam,
@@ -69,10 +69,10 @@ romanLyrics: |-
   Muntazir rehti hai Zehra mere baba ki kasam,
   Mere zawaaron mere dard ke maaro aao,
   Meri maa Fatema Zehra ke dularo aao,
-  
+
   10
   Chale Aao, Chale Aao,........
-  
+
   11
   Tum jo kehte ho abad wallah manind sa Hussain,
   Amma Zehra (s.w.) bhi yahin karti hai ro ro kar bain,
@@ -80,10 +80,10 @@ romanLyrics: |-
   Mere baba bhi abtak hai mere gam me bechain,
   Tum nahi bhoole to main bhi nahi bhoola tumko,
   Yaad chalte hue khanjar me bhi rakha aao.
-  
+
   12
   Chale Aao, Chale Aao,........
-  
+
   13
   Tum jo lehrate ho hatha o me uthaie parcham,
   Tum ko maloom hai ho jaata hai taaza mera gam,
@@ -91,81 +91,81 @@ romanLyrics: |-
   Jis ke jhuk jaane se toota mere bacchon pe sitam,
   Mere Abbas ki jagir sajane aao,
   Hazri rauze Abbas pe kahne aao.
-  
+
   14
   Chale Aao, Chale Aao,........
-  
+
   15
   Mere zawwaron suno, yeh zameen karbobala,
   Mujhse pehle to yahan koi bhi bas na saka,
-  
+
   16
   Yeh zameen karbobala karb ka majmua hai,
   Hazrat e Adam o Hawwa ka yahani girya hai,
-  
+
   17
   Shere ne hazrat esa e ko yahani roka hai,
   Aur phir takhte suleman yahani larza hai,
-  
+
   18
   Yeh zameen per Ibrahim ka rahwar thasa,
   Paie moosa me lagi chot lahu behne laga,
-  
+
   19
   Zabi Allah (s) ke haiwan rahe pyase yahan,
   Kashti e Nooh se takraya yahin par toofan,
-  
+
   20
   Is zameen par to pareshan hua har insan,
   Mere baba bhi yahan karte rahe aa ho fuga,
-  
+
   21
   Meri hijrat thi madine ki hidayat ke liye,
   Yeh zameen main ne kharidi thi shahadat ke liye,
-  
+
   22
   Chale Aao, Chale Aao,........
-  
+
   23
   Do moharram ko yahan, mera rahwar ruka,
   Sath kunba tha mera, mai akela bhi na tha,
-  
+
   24
   Aao zawwaro mere sath chalo,
   Tham kar dil, mera makhtal dekho
-  
+
   25
   Yeh makame, Aliakbar hai yahan,
   Mere bacche pe jahan roi aza,
-  
+
   26
   Yeh makame Aliasgar hai jahan,
   Aaj bhi baithi hui roti hai maan,
-  
+
   27
   Yeh jaga woh hai mere zawwaro,
   Lash e Qasim hui paamal jidhar,
-  
+
   28
   Woh makamat jo aate hai nazar,
   Kate Abbas ke bazu the jidhar,
-  
+
   29
   Hai zara door jo Rauze ke zara,
   Hai mere Aun O Mohammed ke mazar,
-  
+
   30
   Ashr e Ashoor se turbat ke kareeb,
   Mera hur aur mera lashkar hai yahain,
-  
+
   31
   Aao yeh killae zainabya hai, Yahin zainab ne yeh manzar dekha,
   Mujhpe chalta hua khanjar dekha,
-  
+
   32
   Mera Aashor ya Chehlum ho mera,
   Karbala aata hai Kunba mera,
-  
+
   33
   Phir Sakina jo yahan aati hai,
   Meri turbat se lipat jaati hai.

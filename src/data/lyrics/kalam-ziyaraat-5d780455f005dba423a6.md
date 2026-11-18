@@ -9,10 +9,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya Hussain Ya Hussain
-  
+
   1
   Maula Haq Imam, Ya Hasan Ya Hussain
-  
+
   2
   1. Wo Abide Bimar Tha, Chalne Se Jo Lachaar Tha
   Aur Shaam Ka Baazar Tha, Aur Murtaza Ki Betiyan

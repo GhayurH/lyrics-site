@@ -10,7 +10,7 @@ published: false
 romanLyrics: |-
   Bas Aik Janaza Baaqi Hai
   Aajaye Imam-e-Zaman Abhi, Bas Aik Janaza Baaqi Hai
-  
+
   1
   Sab lashe uthakar lekeh gaye, Shabbir ka lasha baaqi hai
   Wo burz aur teero se na pathar kitna tardpa Zehra ka pisar

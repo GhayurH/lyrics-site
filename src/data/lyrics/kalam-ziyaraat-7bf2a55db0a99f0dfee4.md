@@ -9,36 +9,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Ho gaye hum se juda Muslim ke laal
-  
+
   1
   Kargaye dono khaza Muslim ke laal
   Shaah karte thay ye noha baar baar
   Ho gaye deen par fida Muslim ke laal
-  
+
   2
   Dete thay awaaz maqtal may hussain
   Do hamay phir se sada Muslim ke laal
-  
+
   3
   Dhoondne jaaun kahan kis simt ko
   Hai kahan ay karbala Muslim ke laal
-  
+
   4
   Ab kahan paayega dil bande batool
   Aap jaise ba wafa Muslim ke laal
-  
+
   5
   Kya karoo shabbir karte thay fughaan
   Kar gaye be-aasra Muslim ke laal
-  
+
   6
   Bhaiyon ke aur pidar ke sog may
   Pehle hi thay mubtila Muslim ke laal
-  
+
   7
   Ahlebaite mustufa matam karo
   Lab pe ho aaho buka Muslim ke laal
-  
+
   8
   Pursa deta hai ruqayya ko anees
   Jinke thay ye dilruba Muslim ke laal

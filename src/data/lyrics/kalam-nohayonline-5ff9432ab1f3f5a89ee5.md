@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaha abbas ne aaqa ka mansha aaj le lenge
-  
+
   1
   Sakina ke liye abbas aada se darya aaj le lenge
   Ali ke sher hai abbas ke tewar batate hai
   Sitamgaron ke qabze se ye darya aaj le lenge
-  
+
   2
   Sitamgaron se ye aun o mohamed ran mein kehte thay
   Mere hamle dayare shaam o kufa aaj le lenge
-  
+
   3
   Wiladat keh rahi hai budshikan ki sehn e kaaba mein
   Khuda waale buthon se apna kaaba aaj le lenge
-  
+
   4
   Saji hai karbala teeron se talwaron se naizon se
   Ye ansar e hussaini jaane kya kya aaj le lenge
-  
+
   5
   Nikal jayegi hasrat jang ki abbas kehte thay
   Sakina ki sifarish ka sahara aaj le lenge
-  
+
   6
   Hai jis se azmate kaaba zameene karbala boli
   Jabeen e shaah e deen se hum wo sajda aaj le lenge
-  
+
   7
   Ali ibne kareema ka ho ye hurr sheh se kehta hai
   Hum apne haath se daaman tumhara aaj le lenge
-  
+
   8
   Ulat kar aasteen abbas be-deeno se kehte hai
   Ye darya hi nahi hum saari dunya aaj le lenge
-  
+
   9
   Hum aate hai kaha abbas ne ay lashkar e aada
   Jo kal darya tumhara tha wo darya aaj le lenge
-  
+
   10
   Jhapak jaye nigaah e barq jisko dekh kar salik
   Ali ki madha se aisa ujaala aaj le lenge

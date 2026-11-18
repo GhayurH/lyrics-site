@@ -9,45 +9,45 @@ aliases: []
 published: false
 romanLyrics: |-
   Sajjad ban kay qaidi, jad Shaam shehar aaya
-  
+
   1
   Koyi zulm takiya aysa, ainu khoon jis rowaya
-  
+
   2
   1) Mare bhain koyi ainj na, majboor hovay bhayi
   Rab janay kivay Aabid, ous di qabar banaye
   Do qaidiyaan nay mil kay, mayaat Sakina chaya
-  
+
   3
   2) Uth Shaam chaliye Abid, meray veer mar gaye saaray
   Nayzay day naal burqay, saday shaamiyaan utaray
   Ay keh kay ghaash toh Zainab, Sajjad nu jagaya
-  
+
   4
   3) Lut Karbala di wapis, Sajjad nu milli ay
   Zainab bhira di ungli, baoon dair labdi raye ay
   Khali angothi tay durr, bach bhain nay alaya
-  
+
   5
   4) Akh day kaneez qaidan, darbar vich kamina
   Kulsoom day galay laag, rondi rayhi Sakina
   Raiya mout mangda Abid, ainj aookha veela aaya
-  
+
   6
   5) Milya wafa da jaag toon, wakhra tenu inaam ay
   Aey parday dar Fizza, teri goud vich Imam ay
   Tenu bhain sadya Zahra, dhi Mustafa banaya
-  
+
   7
   6) Zalim nu aakhay Abid, menu devay sirr bhira da
   Hun cha karaan main matam, Mazloom-e-Karbala da
   Hovay puri dil di hasraat, main soug naye manaya
-  
+
   8
   7) Tanveer jud ujaar kay Zainab wataan tay aayi
   Tak haal bhain da naye pehchaan sakiya bhayi
   Moutan day ghum tay qaidaan, Zainab nu ainj mukaya
-  
+
   9
   8) Pathar marainday Shaami aaya Shaam jad beemar aey
   Teri ghareebi aakhay dhi Haider-e-Karrar aey

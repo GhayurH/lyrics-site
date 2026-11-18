@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Kamar ko thaame chale hai maula
-  
+
   1
   Jawan bete ki laash uthaane
   Jahan pe zeen se gira tha beta
@@ -22,7 +22,7 @@ romanLyrics: |-
   Ajeeb aalam hai bekasi ka
   Kise pukaare kise bulaye
   Juda kiya sab ko hi qaza ne
-  
+
   2
   Sujhaayi deta nahi hai kuch bhi
   Ke noor aankhon ka jaa chuka hai
@@ -30,7 +30,7 @@ romanLyrics: |-
   Koi dilaasa hai na asa hai
   Larazte qadmon se ja rahe hai
   Bas ek ahde wafa nibhaane
-  
+
   3
   Kiya tha yaum e alast waada
   Mai ishq ka imtehan doonga
@@ -38,7 +38,7 @@ romanLyrics: |-
   Mai apni sajde mein jaan doonga
   Tamaam ahle falak ne dekha
   Kaleje thaame hai ambiya ne
-  
+
   4
   Na lab pe shikwa na bad'dua hai
   Magar hai aankhon mein ek samandar
@@ -46,7 +46,7 @@ romanLyrics: |-
   Sambhalte jaate hai khaa ke thokar
   Koi to aaye madad ki khaatir
   Kiye hai ye bain karbala ne
-  
+
   5
   Ghareeb e zehra ka hai ye nauha
   Kahan ho noor e nazar batao
@@ -54,7 +54,7 @@ romanLyrics: |-
   Padar ko awaaz to sunao
   Sada ye sun kar kiya hai nauha
   Har ek shaheed e rahe khuda ne
-  
+
   6
   Ye din kisi ko na rab dikhaye
   Jawan ki mayyat padar uthaye
@@ -62,7 +62,7 @@ romanLyrics: |-
   Hussain ka ye jigar hai haye
   Khaleel sabr e hussain dekhe
   Ke apne dil ka lahoo bahane
-  
+
   7
   Badi qayamat ka hai ye manzar
   Bayan kaise karun mai safdar

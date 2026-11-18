@@ -11,35 +11,35 @@ aliases: []
 published: false
 romanLyrics: |-
   Zindan zindan na bhoolenge hum shaam ka zindan
-  
+
   1
   Nadan nadan zindan mein ek mar gayi nadan
-  
+
   2
   Wo sham ke zindan mein sakina ka tadapna
   Tareeki se ghabrake wo bachi ka bilakna
   Jab yaad kiya ashkon ka jaari hua toofan
-  
+
   3
   Kehti thi sakina mere baba ko bulado
   Rab ke liye amma ali akbar ko bulado
   Kyun aate nahi lene mujhe mere chacha jaan
-  
+
   4
   Jab baap ka sar beti ne zindan mein paaya
   Liptaya kaleje se sab ehwaal sunaya
   Ummat ne kiya nana ki kis darja pareshan
-  
+
   5
   Nagaah sakina pa chali zulm ki talwaar
   Zindan mein namudaar hua shimr-e-sitamgaar
   Aur cheena sakina se sar e sarware zeeshan
-  
+
   6
   Sar peet ke yun kehne lagi madare muztar
   Haye haye meri bachi mere sar par nahi chadar
   Kis tarha se dukhiya mai karoon kafn ka samaan
-  
+
   7
   Majlis mein sakina ke liye shor o fughan hai
   Abbas dua maanglo ye waqt-e-dua hai

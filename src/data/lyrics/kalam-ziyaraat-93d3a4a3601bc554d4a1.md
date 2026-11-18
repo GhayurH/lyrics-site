@@ -10,31 +10,31 @@ published: false
 romanLyrics: |-
   Ye kaun hay jo sina par kalam karta hay
   Bhala bashar bhi koi aisa kam karta hay
-  
+
   1
   1) Hussain fakhr e Nabi fakhr e Ali fakhr e Batool
   Khuda bhi is ka bohot ehteram karta hai
-  
+
   2
   2) Hussain sirf tumhara nahi musalmano
   Hussain ko to zamana salam karta hay
-  
+
   3
   3) Gham e Hussain ka hay bughz gar tere dil main
   Halal koh bhi tu apne haram karta hay
-  
+
   4
   4) Thehr gaya koi manzar nigah main us ki
   Woh jis jagha bhi rahay shaam shaam karta hay
-  
+
   5
   5) Kami nahin hay koi matami Hussain ka hoon
   Woh mere rizq ka khud hi intezaam karta hay
-  
+
   6
   6) Sina pe bolna jhooton ke bas ki baat nahi
   Yeh kam sirf hamara Imam karta hay
-  
+
   7
   7) Nidar bana diya tum ko Hussain ne Shehzad
   Tu khas baat bhi logon may aam karta hay

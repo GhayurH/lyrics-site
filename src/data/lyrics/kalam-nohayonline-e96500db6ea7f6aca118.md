@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Assalam o alaiki ya
-  
+
   1
   Sayyeda tahira raziya marzia fatema
   Ya sayyeda khairunnisa
@@ -19,7 +19,7 @@ romanLyrics: |-
   Dunya tumhari khaak e paa
   Ya marziya ya fatema
   Chakki chalayi deher ki
-  
+
   2
   Fuqra ko naano zarr diye
   Khud faaqa kash reh reh ke bhi
@@ -27,7 +27,7 @@ romanLyrics: |-
   Jo kuch bhi tha chup chap wo
   Raahe khuda mein de diya
   Ya sayyeda...
-  
+
   3
   Tazeem yun baba ne ki
   Umme abiha ban gayi
@@ -35,7 +35,7 @@ romanLyrics: |-
   Tazeem tere ghar ki thi
   Dar par tere utre malak
   Khud chal ke taara aagaya
-  
+
   4
   Ya sayyeda...
   Tum maalik e lau laak ho
@@ -43,7 +43,7 @@ romanLyrics: |-
   Tum tahira tum marzia
   Tum rijz se bhi paak ho
   Bas ek teri dehleez par
-  
+
   5
   Sajde kare sab ambiya
   Ya sayyeda...
@@ -51,7 +51,7 @@ romanLyrics: |-
   Wo aap ke hubdaar hai
   Jinka zamana muntazir
   Wo aapke ghamkhwar hai
-  
+
   6
   Shehzadi e kaunain ki
   Tauseef kaise ho bhala
@@ -59,7 +59,7 @@ romanLyrics: |-
   Gham tujhpe hai itne pade
   Umme masayeb hogayi
   Baba ka gham mohsin ka gham
-  
+
   7
   Dil mein liye hi mar gayi
   Teri shahadat ka sabab
@@ -67,7 +67,7 @@ romanLyrics: |-
   Ya sayyeda...
   Baad e mohamed aap par
   Toote masayeb kis khadar
-  
+
   8
   Pehlu shikasta kar gaye
   Jo aag laaye tere ghar
@@ -75,7 +75,7 @@ romanLyrics: |-
   Ajre risalat yun diya
   Ya sayyeda...
   Subbat alaiyya baba jaan
-  
+
   9
   Kehti rahi jab fatema
   Likhun bhala mai shadman

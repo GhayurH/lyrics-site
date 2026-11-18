@@ -30,7 +30,7 @@ romanLyrics: |-
   Na Jane Iss Ka Safar Hai Kaisa
   Nahi Hai Mazloom Koi Aisa
   Ghareeb Ka Yeh Ghareeb Sar Hai Jo Dar Badar Hai
-  
+
   1
   Hai Reesh Jis Ki Lahu Mein Dobi
   Ragein Bhi Sokhi Hoi Hain Jis Ki
@@ -38,7 +38,7 @@ romanLyrics: |-
   Katay Hain Lab Our Jabeen Hai Zakhmi
   Ayyaan Hain Chehray Se Gham Bala Ke
   Ho Jaisay Mara Rula Rula Ke
-  
+
   2
   Chala Tha Jis Waqt Iss Pe Khanjar
   Tha Gaud Mein Fatima Ki Yeh Sar
@@ -46,7 +46,7 @@ romanLyrics: |-
   Gira Yeh Sar Jab Zameen Pe Kat Kar
   Uthaya Zulfoon Se Shimar Ne Sar
   Tapak Raha Tha Lahu Zameen Par
-  
+
   3
   Sawar Nook-e-Sina Pe Ho Kar
   Chala Hai Karb-o-Bala Se Yeh Sar
@@ -54,7 +54,7 @@ romanLyrics: |-
   Ajeeb Ghurbat Ka Hai Yeh Manzar
   Karey Yeh Akbar Se Jab Bhi Batein
   Tu Khon Roti Hain Iss Ki Aankhein
-  
+
   4
   Yeh Sar Jo Kholi Ke Hath Aaya
   Ajeeb Zalim Ne Zulm Dhaya
@@ -62,7 +62,7 @@ romanLyrics: |-
   Jab Oss Ne Tandoor Mein Chupaya
   Kiye Jo Zahra Ne Bain Ro Kar
   Tarap Raha Tha Hussain Ka Sar
-  
+
   5
   Nazar Paray Jab Behan Ke Sar Par
   Pukarey Abbas Ko Tarap Kar
@@ -70,7 +70,7 @@ romanLyrics: |-
   Zameen Pe Gir Jaye Haye Yeh Sar
   Koi Jo Abid Pe Zulm Dhaye
   Pukarey Naizay Se Haye Haye
-  
+
   6
   Giri Thi Naqay Se Jab Sakina
   Wahin Yeh Sar Bhi Thehar Gaya Tha
@@ -78,7 +78,7 @@ romanLyrics: |-
   Tarap Ke Zainab Ki Simt Dekha
   Kaha Yeh Zainab Se Jald Jao
   Meri Sakina Ko Dhond Lao
-  
+
   7
   Sitam Yeh Darbar Mein Howa Tha
   Ghareeb Sar Tasht Mein Rakha Tha
@@ -86,7 +86,7 @@ romanLyrics: |-
   Chari Ko Hans Hans Ke Marta Tha
   Sakina Abid Ko Dekhti Thin
   Padar Ki Ghurbat Pe Ro Rahi Thin
-  
+
   8
   Hai Sham Ki Qaid Ka Yeh Manzar
   Mila Sakina Ko Baap Ka Sar
@@ -94,7 +94,7 @@ romanLyrics: |-
   Kaha Sakina Ne Jab Lipat Kar
   Naseeb Kya Ho Gaya Hamara
   Hai Mere Seene Pe Sar Tumhara
-  
+
 ---
 کبھی یہ شیریں کے گھر ملا ھے
 کبھی یہ راہب کے گھر گیا ھے

@@ -13,52 +13,52 @@ romanLyrics: |-
   Aye kash main bhi hota maidan e Karbala may
   Aye kaash, ae kaash, ae kaash
   Aye kaash me bhi hota maidany Karbala may
-  
+
   2
   Mera bhi zikar ata Quraan e Karbala may
-  
+
   3
   Zahra k ladley py jaan apni waar deta
   Tableegh-e-Mustafa ka qarza utaar deta
   Hur ki tarha se me bhi aada se jang kar ke
   Insaniyat ka chehra khoon se nikhaar deta
-  
+
   4
   Sheh ki taraf jo barrhta wo haath kaat deta
   Maidan-e-jang sara lashon se paat deta
   Juz maut aur kaheen bhi jaaye amaan na milti
   Dil zindagi se sab ka aisa uchaat deta
-  
+
   5
   Nasl e yazeediat ko aisa sabaq sekhata
   Naam o nasab bhi apna har fard bhool jata
   Sufiyaniyat ki aisi mitti kharaab hoti
   Ta hashar phir na koi Namrood sar uthata
-  
+
   6
   Mola ba jabr e qismat dil me rahi ye hasrat
   Hasil hoyi na mujko sarmaya e shahadat
   Ashk e aza ki barish karti rahain gi ankhain
   Seena zani karon ga is gham me ta qiamat
-  
+
   7
   Mera salaam un per jo tashna lab rakhe hain
   Be jurm Karbala me jin k galay kate hain
   Ghorron se rond daalay aada ne jin ki lashay
   Tapti hoi zameen per jo be kafan parray hain
-  
+
   8
   Wo shaam e gham, wo khaimay, wo raat, wo fizayain
   Bachon ki sehmi sehmi wo muztarib sadayain
   Aulaad-e-fatima par kya kya sitam na toote
   Syedaniyo k sar se cheeni gayen ridayain
-  
+
   9
   Jab ran se arahi thi awaaz e istighasa
   Pur dard kis qadar tha andaaz e istighasa
   Shayad na tha jahan me koi siwaye Asghar
   Hota jo rahe haq me imdaad e istighasa
-  
+
   10
   Her bazm her zabaan per hain karbala k charchay
   Ta hasher kam na hoongy aal e iba k charchay

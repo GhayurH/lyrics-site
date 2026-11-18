@@ -13,37 +13,37 @@ romanLyrics: |-
   Ke Muhammad(sawaw) ka nawasa hay yeh
   Halat-e-sajda main hay bay kas or majbor bhi hay
   Aur kaye roz ka pyasa hay yeh
-  
+
   2
   1. Aqal haeran thi isay banda ke RAHMAN kahain
   Nokay nayza pay isay bolta Quran kahain
   Ya to Rab hay jo k bandy sa nazar aata hay
   Gar hay insan to Khuda sa hay yeh
-  
+
   3
   2. Boli Zainab zulm Shabeer pay dhanay walo
   Pathroo kay talay mayyat ko chupanay walo
   Haey kandhay pay uthaty thay jisy khatm e Rasul
   Meray us bhai ka lasha hay yeh
-  
+
   4
   3. Jis ka Ghazi na raha or Ali Akbar na bacha
   Bhai ki lash pay jisay khul ke ronay na diya
   Aaj matam sar e bazar jo hum karty hain
   Isi Zainab ka dilasa hay yeh
-  
+
   5
   4. Syedon ka bhara ghar bar jalaya kyun hay
   Bibio ko bhary bazar pihraiya kyun hay
   Tu nay to yea bhi na socha ke jo qaidi hain banay
   Pak Zehra ka asasa hay yeh
-  
+
   6
   5. May hoon Zainab mujhe Haider tu samajhta kyun hay
   Sun ke khutba mera maloon bigarta kyun hay
   Boli Zainab ke yeh khutba hi nahi sun aey Yazeed
   Pak Quraan ka khulasa hay yeh
-  
+
   7
   6. Sani-e-Zehra ki Akhtar yeh ata hay tujh ko
   Noha likhnay ke liye dard mila hay tujh ko

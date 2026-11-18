@@ -11,27 +11,27 @@ published: false
 romanLyrics: |-
   Zainab Tere Baba Ki Jabeen Khoon Mein Tar Hai
   Haider Ki Allamdare Hussaini Pe Nazar Hai
-  
+
   1
   Zainab Ke Khulay Sar Pe Hai Haidar Ki Nigahein
   Yaad Aanay Lagi Shaam Ke Bazaar Ki Rahein
   Ikkisveen Ramzan Ki Honay Ko Saher Hai
-  
+
   2
   Shabbir Ki Dhaaras Hai Yeh Zainab Ka Bharam Hai
   Rutba Hai Yeh Ghazi Ka Ke Saqqa-e-Haram Hai
   Dilband Hai Sarwar Ka Haidar Ka Jigar Hai
-  
+
   3
   Socho To Musalmaano Ke Yeh Baat Bari Hai
   Haq Maangnay Zehra Sar-e-Darbar Khari Hai
   Ay Ghairat-e-Islam Bata Aaj Kidhar Hai
-  
+
   4
   Voh Waqt Bhi Hoga Ke Koi Paas Na Hoga
   Ghar baar Lutay Ga Magar Abbas Na Hoga
   Aur Jaaeygi Bazaar Usay Yeh Bhi Khabar Hai
-  
+
   5
   Iss Ghum Muhafiz Hai Muhib Zainab-e-Dilgeer
   Duniya Mein Jo Baqi Hai Azadari-e-Shabbir

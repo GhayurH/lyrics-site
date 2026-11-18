@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Shaahe mardan shere yazdan
-  
+
   1
   Quwwate parwardigaar hai ali
   Kaha meesam ne daar par
@@ -22,7 +22,7 @@ romanLyrics: |-
   Saare jahan se haseen hai najaf ki zameen
   Jahan rehte hai do aalam ke baadshah
   Yani dono jahan mein teri sarkaar hai ali
-  
+
   2
   Baadshahon ka shahenshah zabardast ali
   Tu bulandi hai tujhe kaun kare past ali
@@ -30,13 +30,13 @@ romanLyrics: |-
   Dil mein dhadakta hai tu mera maula hai tu
   Hum malango ko tujhse ishq ho gaya
   Jahan bat'ti hai shaahiyan tera darbar hai ali
-  
+
   3
   Lehja tera sunte hi baadal ne garaj kar kaha
   Naam tera aaya chali dhoop mein thandi hawa
   Dekh tere ishq ne deewana mujhe kar diya
   Koi nahi sirf ali tu hai baadshah
-  
+
   4
   Saare rindon ka thikana hai tera dar hyder
   Wajd mein jhoomta rehta hai qalandar hyder
@@ -44,7 +44,7 @@ romanLyrics: |-
   Maula jise tu mila wo wali ban gaya
   Dekho sehwan se aa rahi hai ye sada
   Hyderiyam qalandaram mera sardar hai ali
-  
+
   5
   Mere murshid mere maula mere maharaj ali
   Sirf dil hi nahi zehno pe tera raaj ali
@@ -52,7 +52,7 @@ romanLyrics: |-
   Shaahe wilayat hai tu meri chaahat hai tu
   Baad allah o nabi sab se tu bada
   Wah kya shaandaar ye teri dastaar hai ali
-  
+
   6
   Teri baaton mein guzarti hai meri shaam ali
   Hum faqeeron ka sahara hai tera naam ali
@@ -60,7 +60,7 @@ romanLyrics: |-
   Chalti hai marzi teri mere maula ali
   Tune jo keh diya samjho wo ho gaya
   Marzi e kirdigaar ka tu khareedaar hai ali
-  
+
   7
   Haye ali haye ali haye ali
   Itni taaqat thi ke jo chaahe wo kar sakta tha

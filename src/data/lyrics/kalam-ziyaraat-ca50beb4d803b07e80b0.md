@@ -9,7 +9,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Shahon ka tazkayra hai, na lashkar ki baat haiiii,
-  
+
   1
   Jo karbala mein luta gaya, us ghar ki baat haiiii
   Zikray gham-e-husain, hamay, kyon na ho azeeeez

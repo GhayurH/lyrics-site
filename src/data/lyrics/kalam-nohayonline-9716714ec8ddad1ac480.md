@@ -12,26 +12,26 @@ published: false
 romanLyrics: |-
   Jaan e hussain alamdar e hussain
   Ay abalfazl alamdar e hussain
-  
+
   1
   Bawafa monis o ghamkhwar e hussain
   Ye azadaar na bhoolenge kabhi aap ka gham
   Hum na bhoolenge kabhi khoon mein dooba wo alam
   Hashr tak aap ki ghurbat ka karenge matam
   Ay jari aap ke baazu e bureeda ki qasam
-  
+
   2
   Aap ke dar se liya dars e sharafat hum ne
   Aap se seekhi hai bhai ki mohabbat hum ne
   Chadar e saani e zahra ki qasam ay ghazi
   Aap se seekhi hai behno ki hifazat hum ne
-  
+
   3
   Ek masooma ke ehsaas pe rona aaya
   Uski mazloomi pe aur pyaas pe rona aaya
   Jab bhi parcham pe lagi mashke sakina dekhi
   Aap ki tooti hui aas pe rona aaya
-  
+
   4
   Haye maula wo qayamat ki ghadi
   Sheh ko jis waqt sada aap ne di
@@ -41,25 +41,25 @@ romanLyrics: |-
   Tere bhai ki kamar toot gayi
   Aur jeena nahi ab mujhko gawara ghazi
   Maar daalega mujhe daagh tumhara ghazi
-  
+
   5
   Haye maqtal ka wo manzar wo musibat maula
   Ta abad yaad rahegi wo qayamat maula
   Seena e sayyede waala pe layeen ka zaanu
   Aur tadpti hui wo aap ki mayyat maula
-  
+
   6
   Dil bahot rota hai ye soch ke mera ghazi
   Aap ko jaan se pyari thi sakina ghazi
   Shimr ne usko tamachon pe tamache maare
   Aap ne kaise saha hoga ye sadma ghazi
-  
+
   7
   Dil laraz jaata hai ye sun ke azadaron ka
   Bhare bazaar mein thay ahle haram beparda
   Haye kya aap pe guzri hai qayamat us dam
   Jab ye zainab ne kaha cheeni gayi meri rida
-  
+
   8
   Haye kis dil se nadeem aap ki ghurbat likhe
   Is tasavvur se jigar hota hai tukde tukde

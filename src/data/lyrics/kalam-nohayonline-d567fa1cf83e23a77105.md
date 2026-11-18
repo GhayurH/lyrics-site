@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas ja rahe hai ridaon ki khair ho
-  
+
   1
   Behno ki khair betiyon maa'on ki khair ho
   Maangi hai wo jo bali sakina ne raat bhar
   Maango dua ke saari duaon ki khair ho
-  
+
   2
   Bachon ke lab pe ek sada al atash ki hai
   Pyase labon pe aayi sadaon ki khair ho
-  
+
   3
   Maatha jari ka choom ke zainab ne di dua
   Ay mere sher teri wafaon ki khair ho
-  
+
   4
   Zainab ka sayeban hai abbas e bawafa
   Ya rab batool zadi ki chaaon ki khair ho
-  
+
   5
   Abbas may tamam adayein ali ki hai
   Sher e khuda ki saari adaon ki khair ho
-  
+
   6
   Thandi hawa jab aayi hai kehti hai ye rabab
   Nehre furaat teri hawaon ki khair ho
-  
+
   7
   Ek pal may tune kar diye raushan kayi chiragh
   Bujhte charagh teri ziyaon ki khair ho
-  
+
   8
   Rab e jali se noor ali ki hai ye dua
   Ahle aza ki saari azaon ki khair ho

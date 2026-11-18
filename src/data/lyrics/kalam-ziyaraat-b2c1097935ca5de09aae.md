@@ -10,42 +10,42 @@ published: false
 romanLyrics: |-
   Pukari Masjid e Koofa ujarr gaya Koofa
   Utha Imam ka saaya ujarr gaya Koofa
-  
+
   1
   Bujha se zahr may khanjar ko ibne Muljim ne
   Sar e Ali pe jo zarbat lagayi zaalim ne
   Jahan pe chaaya andhera ujar gaya Koofa
-  
+
   2
   Ye kaisi zarb lagi tootnay lageen sansain
   Do neem ho gaya sar khoon se bhar gayeen ankhain
   Shaheed ho gaya Maula ujarr gaya Koofa
-  
+
   3
   Namaz e subha ke doraa bapa hua mehshar
   Sitam ki taigh se shaq ho gaya sar e Haider
   Lahoo se tar hay musalla ujarr gaya Koofa
-  
+
   4
   Khuda ke shair ko aayi jo aakhri hichki
   Hasan Hussain pe chaayi fiza yateemi ki
   Hay ghash may Zainab e Kubra ujarr gaya Koofa
-  
+
   5
   Paharr toota hay Abbas par museebat ka
   Ye din hay Zainab o Kulsoom par qayamat ka
   Ghamoo may gharq hay kunba ujarr gaya Koofa
-  
+
   6
   Hui jahan se rehlat jo Shah e aalam ki
   Yateem ho gayi ummat Rasool e Akram ki
   Imam e waqt sidhara ujarr gaya Koofa
-  
+
   7
   Mujeeb Shabbar o Shabbir khoon rotay hain
   Kalejay Zainab o Kulsoom ke laraztay hain
   Udas ho gaya Kaaba ujarr gaya Koofa
-  
+
   8
   (Mujeeb Alipuri)
 # source_id: ziyaraat:b2c1097935ca5de09aae

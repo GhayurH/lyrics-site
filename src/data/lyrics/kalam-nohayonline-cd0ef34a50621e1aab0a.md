@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   Ya hyder hyder hyder hyder
   Hyder ali maula ali maula hyder
-  
+
   1
   Ali ibne abi talib ghalib alaa kulle ghalib
   Agha jaanam agha jaanam agha jaanam ya ali

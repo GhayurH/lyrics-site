@@ -12,40 +12,40 @@ published: false
 romanLyrics: |-
   Karti thi buka shaam ke zindan mein sakina
   Baba mere baba baba mere baba
-  
+
   1
   Aa jaaiye aa jaaiye ab jald khudara
-  
+
   2
   Mai dar pe khadi takti thi jab aap ka rasta
   Ek loot machi aag lagi zulm ye toota
   Hum par thi qayamat ki ghadi haste thay aada
-  
+
   3
   Jab khaynch rahe thay mere durr kaano se ashraar
   Aur zad pe tamachon ke thay baba mere ruqsaar
   Ammu ko kabhi tum ko bulaati thi mai dukhiya
-  
+
   4
   Phir baand ke rassi mein hamay haye khule sar
   Bazaron mein darbaron mein laaye ye sitamgar
   Khaati thi tamache mai tumhe jab bhi pukara
-  
+
   5
   Jab tak na sula lete thay seene pe mujhe aap
   Karte na thay apne se juda haye mujhe aap
   Kya mujhse khata hogayi kyun aap ne choda
-  
+
   6
   Mai khaak basar nauha kuna shaam o sahar hoon
   Ab taalib e deedar e shahe jinn o bashar hoon
   Khud aap hi aaye na qaza ne mujhe poocha
-  
+
   7
   Zinda na rahungi mai agar aap na aaye
   Mar jaungi zinda hi mai ek roz mein haye
   Ab mujhko judaai nahi ek pal bhi gawara
-  
+
   8
   Phat'ta tha jigar maa ka phupi jaan balab thi
   Sajjad tadapte thay ghadi gham ki ajab thi

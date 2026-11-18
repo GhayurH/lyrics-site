@@ -15,73 +15,73 @@ romanLyrics: |-
   Dono jahan mein dhoom
   Hussain zindabad hussain zindabad
   Ek din mein wo kamaal kiya hai hussain ne
-  
+
   2
   Sadiyon ka dil bahaal kiya hai hussain ne
   Hussain zindabad hussain zindabad
   Hussain zindabad
   Insaniyat ko phir se ata ki nayi hayaat
-  
+
   3
   Khanjar ke neeche rakhli habeebe khuda ki baat
   Ye aur baat apni luta di hai kayenaat
   Kaabe ko maala maal kiya hai hussain ne
   Ek din mein wo kamaal...
-  
+
   4
   Aisa sharaf jahan mein baksha hai jaun ko
   Mud mud ke ambiya ne bhi dekha hai jaun ko
   Apne karam se itna nawaza hai jaun ko
   Haa rutba e bilaal kiya hai hussain ne
-  
+
   5
   Ek din mein wo kamaal...
   Kya sochta hai daaman e aqdas ko thaam le
   Darbar mein na inke takalluf se kaam le
   Aulaad chaahiye to dua e imam le
-  
+
   6
   Raahib kise nidhaal kiya hai hussain ne
   Ek din mein wo kamaal...
   Pesh e kirdagaar na ho phir se surkh roo
   Ran mein kiya hai khoon se baysheer ke wazoo
-  
+
   7
   Teeron pa ho namaz ke naizon pa guftagoo
   Har kaam bemisaal kiya hai hussain ne
   Ek din mein wo kamaal...
   Utho hussainiat ka jahan ko payam do
-  
+
   8
   Dunya ko har mahaas pa dars e imam do
   Apne lahoo ke pyason ko pani ka jaam do
   Dushman ka bhi khayaal kiya hai hussain ne
   Ek din mein wo kamaal...
-  
+
   9
   Asghar ko jalti rayt pa choda hai karbala
   Jaane sukoot e zulm ko toda hai karbala
   Insaan ka zameer jhinjhoda hai karbala
   Pani ka kab sawaal kiya hai hussain ne
-  
+
   10
   Ek din mein wo kamaal...
   Seene mein ghut ke mar gayi hasrat yazeed ki
   Har ek ko bata di haqeeqat yazeed ki
   Sakte mein pad gayi hai hukumat yazeed ki
-  
+
   11
   Bayyat ka aisa haal kiya hai hussain ne
   Ek din mein wo kamaal...
   Batla raha tha dasht mein hamla imam ka
   Charon taraf tha rob mujahid ke naam ka
-  
+
   12
   Milta nishan tak na kahin fauj e shaam ka
   Bas paas e zuljalaal kiya hai hussain ne
   Ek din mein wo kamaal...
   Mil kar bhi gar saara jahan zulm dhayega
-  
+
   13
   Parde mein jo muqeem hai wo khud bachayega
   Shiyon ko aamir o akhtar mitayega

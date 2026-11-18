@@ -10,34 +10,34 @@ published: false
 romanLyrics: |-
   Haye Qasim haey haye Qasim
   Tapti hui rayti pay haey tukrre badan hay
-  
+
   1
   Pehchan musalmaano,  ye awlaad Hasan hay
-  
+
   2
   Arman tha shadi ka tuje dulha banaane ka
   Afsos he ke ab maa ke,  hatho me kafan hay
-  
+
   3
   Bhaya teri mehendi mei ab kisko lagaawungi
   Faryado bukaa karti,  Ik ujri behen hay
-  
+
   4
   Doraye ghaye goray masum kai lashe pe
   Bikhraa huwa karbal mein,  Kasim tera tan hay
-  
+
   5
   Beta hay kaha tu ab awaaz muje dena
   Tukrro ko jamaa karta,  Haay shahe zaman hay
-  
+
   6
   Kurbani hassan teri kaam agayi is deen ke
   Aale nabi ke sadke,  Ye din jo roshan hay
-  
+
   7
   Beta hay kaha tu ab awaaz muje dena
   Tukrro ko jamaa karta,  Haay shahe zaman hay
-  
+
   8
   Pehchan musalmaano,  ye awlaad hasan hay
 # source_id: ziyaraat:1be742388c3cf6e5097b

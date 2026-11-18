@@ -19,85 +19,85 @@ romanLyrics: |-
   Aaye Aaye Maula Khushiyaan Laye Maula.
   Haan Hamarey Maula.
   Pholon Ka Mehakna Ali Maula.
-  
+
   2
   Taroon Ka Chamakna Ali Maula.
   Badil Ka Garajna Ali Maula.
   Ali Ali Ali Ali Maula Ali Maula.
   Ali Walo Ali Walo Ali Walo Ali Walo.
-  
+
   3
   Ali Walon Ko Ali Mubarak Ho Nabi Ko Wasi Mubarak Ho.
   Ali Ke Makaan Mein Ali Ki Taraf Se Ali Ka Ali Mubarak Ho.
   Ali Badshah Ke Jiyalon Ke Din Hain.
   Qasiday Sunao Dhamalon Ke Din Hain.
-  
+
   4
   Koi Pochay Kehna Ali Aa Rahe Hain.
   Gharon Ko Sajao Ujalon Ke Din Hain.
   Hamari Khushi Mein Jisay Maut Aaye Ossay Khud Kashi Mubarak Ho.
   Woh Terah 13 Rajab Our Woh Kabay Ka Manzar.
-  
+
   5
   Milney Ali Se Jab Aaye Payamber.
   Ali Ko Muhammad Ke Hathoon Mein De Ke.
   Yeh Bint-e-Asad Ne Kaha Muskura Kar.
   Khuda Ke Nabi Tum Ko Wasi Jansheen Our Yeh Damad Bhi Mubarak Ho.
-  
+
   6
   Koi Ja Ke Marhab Se Jab Lar Na Paya.
   Alam Le Ke Khaybar Mein Ik Mard Aaya.
   Main Haider Hoon Haider Bas Itna Bata Kar.
   Sar Ik Waar Mein Jab Ali Ne Uraya.
-  
+
   7
   Jo Marhab Ke Dar Se Chupay They Woh Bolay Bala Tal Gayi Mubarak Ho.
   Ali Hain Maula Hum Dewane.
   Ali Hain Shama Hum Parwaney.
   Ali Ke Jaisa Koi Nahi Hai.
-  
+
   8
   Koi Manay Ya Na Manay.
   Khuda Tera Inkar Kaisay Karon Main.
   Ali Ne Kaha Hai Tu Khamosh Hoon Main.
   Tu Har Shey Pe Qadir Hai Main Manta Hoon.
-  
+
   9
   Magar Tu Bata De Ossay Kya Kahon Main.
   Jo Thokar Se Murday Jila Kar Sada De Nayi Zindagi Mubarak.
   Ali Ali Ali Ali Ali Ali.
   Ik Arsh Se Tara Nikla Behlool Sa Dewana Tha.
-  
+
   10
   Zahra Ki Marzi Le Kar Ik Chokhat Par Jana Tha.
   Jab Shehar-e-Madina Pohancha Kuch Loag They Jin Ko Dekha.
   Woh Jhoom Jhoom Ke Ghom Ghom Ke Unn Ke Dil Jalata Tha.
   Kabay Ke Jaisa Ik Ghar Jab Dekha.
-  
+
   11
   Oss Ghar Mein Sab Ka Maula Rehta Tha.
   Howa Phir Youn Koi Khush Tha Koi Kahin Roya.
   Dar-e-Murtaza Par Sitarey Ne Aa Kar Jab Aawaz Di Mubarak Ho.
   Dulhan Bhi La Jawab Hai Dulha Bhi La Jawab Hai.
-  
+
   12
   Dulhan Hain BiBi Fatima Dulha Abu Turab Hai.
   Khushi Se Muhammad Ka Chehra Khila Tha.
   Ali Our Zahra Ka Rishta Howa Tha.
   Kahin Dil Ke Armaan Bahey Aansoon Mein.
-  
+
   13
   Kahin Rang Chehron Ka Badla Howa Tha.
   Yeh Imran Ne Jab Muhammad Se Aa Kar Kaha Ya Nabi Mubarak Ho.
   Ali Sab Ke Maula Hain Sun Kar Nabi Se.
   Galay Mil Rahe They Sab Aa Kar Ali Se.
-  
+
   14
   Yeh Hans Kar Abuzar Se Salman Bolay.
   Chalo Pas Ja Kar Kahin Sheikh Jee Se.
   Yahan Kyun Kharey Hain Sharafat Se Ja Kar Kahin Ya Ali Mubarak Ho.
   Bari Aarzu Hai Keh Woh Din Bhi Dekhein.
-  
+
   15
   Ali Ki Ho Mehfil Ali Ke Haram Mein.
   Najaf Ki Zameen Par Qaseeda Yeh Sun Kar.

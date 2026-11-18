@@ -11,37 +11,37 @@ published: false
 romanLyrics: |-
   Behnain roti hain teri yaad may tanha Akbar
   Ab to aa ja Akbar
-  
+
   1
   Teri masnad se abhi tak teri khushboo aaye
   Mujh ko Quran ke lafzon may nazar ty aaye
   Aisi halat may bata,  behn karay kia Akbar
-  
+
   2
   Jab se is ghar se gayi teri sawari bhayya
   May ne payi hi nahi khaak tumhari bhayya
   Hay mita jata tera,  nash e kaf e pa Akbar
-  
+
   3
   Khab may dekha hay ik khoon bhara kurta may ne
   Teray lasahy ko rawan us may hay dekh may ne
   Sath may Ammo bhi hain,  aur hain baba Akbar
-  
+
   4
   Teray sehray ki ajab may ne hain larryan dekheen
   May ne Sajjad ke hathon may hain karyan dekheen
   Janay kyun sar pe nahi,  phupyon ke parda Akbar
-  
+
   5
   Yusuf e aal e aba khab mera sach to nahi
   Tu mujhe aish talak chorr chala ho na kaheen
   Meray dil ko hay isi,  fikr ne ghaira Akbar
-  
+
   6
   Aey Khuda rakhna meray bhai ke waday ka bharam
   Tujh ko hay fakhr e do alam ke charaghon ki qasam
   Roz karti hoon dua,  Rab se aey bhayya Akbar
-  
+
   7
   Chorr kar tum jo gaye koi na aaya ghar may
   Sath rehta hay meray moat ka saaya ghar may

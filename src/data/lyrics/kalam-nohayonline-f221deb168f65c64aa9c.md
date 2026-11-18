@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Zahra ki aa rahi hai sada karbala chalo
-  
+
   1
   Abbas peshwa hai mera karbala chalo
   Dunya ke dard o gham ki dawa karbala mein hai
@@ -19,49 +19,49 @@ romanLyrics: |-
   Kya gham ki ab bhi khaake shifa karbala mein hai
   Ab bhi sitamgaron ki khaza karbala mein hai
   Awaaz de rahi hai wafa karbala chalo
-  
+
   2
   Zahra ki hai dua ke azadaar kam na ho
   Sarwar ka gham ho sab pe zamane ke gham na ho
   Ya rab jahane faani ka gauhar alam na ho
   Bekaar raaston pe kisi ke khadam na ho
   Bas ek hi hai raahe khuda karbala chalo
-  
+
   3
   Dunya ke zulm o jor batane ke waaste
   Ghazi ko haal apna sunane ke waaste
   Zakhme jigar ye sheh ko dikhane ke waaste
   Karbobala mein noha sunane ke waaste
   Karne baeed ranj o bala karbala chalo
-  
+
   4
   Hai rauza e hussain mera maqsade hayaat
   Uljhan mein din guzarte hai be-chainiyo mein raat
   Wo dekhle jahan pe kate thay jari ke haath
   Hum jaaye karbala bhi to maa ki dua ke saath
   Paane ko dard e dil ki dawa karbala chalo
-  
+
   5
   Humse milenge aakhri rehbar wahin kahin
   Hasnain ka suna hai ke ghar hai wahin kahin
   Rehte hai karbala mein payambar wahin kahin
   Le jaaye kaash humko muqaddar wahin kahin
   Subhe masa yehi hai dua karbala chalo
-  
+
   6
   Shehre najaf hi shahe najaf ka dayaar hai
   Gulshan shahe zaman ka wahin la zawaal hai
   Guncho ke lab pe salle ala baar baar hai
   Gunche wahin pe wahin pe jina ki bahaar hai
   Leni hai gar jina ki fiza karbala chalo
-  
+
   7
   Abbas ke alam ko liye dosh par nikal
   Karbobala hai jaana to paidal najaf se chal
   Bayyat ko apne paon se tu bhi zara kuchal
   Sajjad chal rahe thay jahan par sambhal sambhal
   Zainab ki yaad aaj rida karbala chalo
-  
+
   8
   Jab se hui naseeb mubarak ko karbala
   Aakhein lahoo barasti hai rehan baareha

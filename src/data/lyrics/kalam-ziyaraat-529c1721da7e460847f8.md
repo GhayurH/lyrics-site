@@ -10,17 +10,17 @@ published: false
 romanLyrics: |-
   Haye Hussaina, vaye Hussaina,
   Ay vaye Sakina, aie vaaye Sakina.
-  
+
   1
   Yeh rukhsat e aakhir hai pukaray shah e wala,
   Aie Zainab o Kulsum Rabab aur Ruqaya,
   Tum sab pay salaam akhri Allah ko sonpa,
   Lipti huyi qadmoon say yeh kehti thi Sakina.
-  
+
   2
   Aie kul ke madadgar madad karne ko aao,
   Ya Fatima Zahra mere baba ko bachao.
-  
+
   3
   Baba na kaho baba, tum saath raho baba,
   Kuch hum say suno baba, aagay na barho baba,
@@ -28,11 +28,11 @@ romanLyrics: |-
   (baraye dil e dukhtar – for the sake of your daughter)
   (baraye dil e dukhtar – baiti kay dil kay liye)
   Baraye dil e in dukhtar, khaimoon mein chalo baba.
-  
+
   4
   Aie kul ke madadgar madad karne ko aao,
   Ya Fatima Zahra mere baba ko bachao.
-  
+
   5
   Juyam bay kuja baba, dar dasht to ra baba?
   (Where should I look father, where in the desert are you?)
@@ -46,11 +46,11 @@ romanLyrics: |-
   Baraaye dil e dukhtar, ay baba ma ro baba.
   (For the sake of this daughter, come back father)
   (Is baiti ke dil ke liye, wapas aa jao father)
-  
+
   6
   Aie kul ke madadgar madad karne ko aao,
   Ya Fatima Zahra mere baba ko bachao.
-  
+
   7
   Mein jan gayi baba, pehchan gayi baba,
   Qurbaan gayi baba, talwaroon mein jao gay,
@@ -58,11 +58,11 @@ romanLyrics: |-
   (baraye dil e dukhtar – for the sake of your daughter)
   (baraye dil e dukhtar – baiti kay dil kay liye)
   Baraye dil e dukhtar, tum hum ko na tarpana.
-  
+
   8
   Aie kul ke madadgar madad karne ko aao,
   Ya Fatima Zahra mere baba ko bachao.
-  
+
   9
   Aaya dukhtar e nistam? yekhta gohar e nistam?
   (Am I not your daughter? Am I not a priceless gem?)
@@ -76,11 +76,11 @@ romanLyrics: |-
   Baraay e dil e dukhtar, bargard o biya baba.
   (For the sake of this daughter, come back father)
   (Iss baiti ke dil ke liye, wapas aa jao baba)
-  
+
   10
   Aie kul ke madadgar madad karne ko aao,
   Ya Fatima Zahra mere baba ko bachao.
-  
+
   11
   Baba aie mere baba, lazim hai agar jana,
   Yeh hum say karo wada, jab shab ka ho san’nata,
@@ -88,11 +88,11 @@ romanLyrics: |-
   (baraye dil e dukhtar – for the sake of your daughter)
   (baraye dil e dukhtar – baiti kay dil kay liye)
   Baraaye dile dukhtar, tum lot kay aa jana.
-  
+
   12
   Aie kul ke madadgar madad karne ko aao,
   Ya Fatima Zahra mere baba ko bachao.
-  
+
   13
   Babaye mani baba, lazim shud e gar raftan,
   (O my father, O father if it is necessary to go)
@@ -106,21 +106,21 @@ romanLyrics: |-
   Baraay e dil e in dukhtar, baaz aayi baraay e maan
   (For the sake of this daughter, come back father)
   (Is baiti kay dil kay liye, wapas aa jao baba)
-  
+
   14
   Aie kul ke madadgar madad karne ko aao,
   Ya Fatima Zahra mere baba ko bachao.
-  
+
   15
   Sheh bolay Sakina jaan, sou jaan say main qurban,
   Is tarha na ho giryan, eik wada nibhana hai,
   Eik qarz purana hai, baraye dil e dukhtar,
   Baraay e dil e baba, tum aaj dua karna.
-  
+
   16
   Aie kul ke madadgar madad karne ko aao,
   Ya Fatima Zahra mere baba ko bachao.
-  
+
   17
   Pursa hai paye e maula, Rehan o Ali Jee ka,
   Kartay the haram noha, Sarwar nay kaha baiti,

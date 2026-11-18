@@ -12,57 +12,57 @@ published: false
 romanLyrics: |-
   Hai khoon mein doobe huwe hyder ke nawase
   Aun o mohamed aun o mohamed
-  
+
   1
   Jafer ke hai potay
-  
+
   2
   Abdullah ke pyare
-  
+
   3
   Zainab ke dulaare
-  
+
   4
   Shabbir ke pyare
-  
+
   5
   Sarwar ke sahare
-  
+
   6
   Azmat ke sitaare
-  
+
   7
   Rif'fat ke ujaale
-  
+
   8
   Quran e shuja ke
-  
+
   9
   Tum dono ho paare
-  
+
   10
   Ghazi ke chaheete
-  
+
   11
   Islam panayi mein lade aisi ada se
   Dikhlaye gaye shaan kayi roz ke pyase
   Be-jaan diye palte na maidane wigha se
-  
+
   12
   Zainab ke khazane ke ye anmol gohar hai
   Islam ki aankhon ke ye do noor e nazar
   Shamsheer hai mamu ke to emaan ke sipar hai
-  
+
   13
   Zinda na kisi sarkash o maghroor ko choda
   Kya maimana kya maisara har morcha toda
   Laakhon se lade fauj ke har bal ko maroda
-  
+
   14
   Zakhmon se lahoo behta hai tayghon se badan choor
   Maa kehti hai bache meri aankhon mein nahi noor
   Hai maamta nazdeek magar mai hoo bahot door
-  
+
   15
   Ghode se gire jalti hui khaak pe jarraar
   Ek shor utha chal basay mamu ke tarafdaar

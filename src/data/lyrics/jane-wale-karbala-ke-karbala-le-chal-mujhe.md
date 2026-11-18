@@ -13,7 +13,7 @@ published: false
 romanLyrics: |-
   Jane Wale Karbala Ke Karbala Le Chal Mujhe
   Roza-e-Shabir Par Doon Ga Dua Le Chal Mujhe
-  
+
   1
   Hai Jahan Ganj-e-Shaheedan Hai Jahan Nehr-e-Furat
   Jiss Jagah Syed Mera Piyasa Raha Le Chal Mujhe

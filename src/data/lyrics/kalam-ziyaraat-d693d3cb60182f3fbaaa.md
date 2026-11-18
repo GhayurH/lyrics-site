@@ -10,31 +10,31 @@ aliases: []
 published: false
 romanLyrics: |-
   Alwida alwida alwida aey Hussain
-  
+
   1
   1) Ye sadaye fughan aur ye majlisain
   Matamo nowha aur gham ki ye zeenatin
   Chahta hay ye dil yuhin qayam rahain
   Aah phat-ta hay dil kis tarha ye kahain
-  
+
   2
   2) Mere mehmaan hay aakhri ye salaam
   Tujhpe qurban hay aakhri ye salaam
   Shahe zeeshan hay aakhri ye salaam
   Dil hay veeran hay aakhri ye salaam
-  
+
   3
   3) Baksh dain ho gayi ho jo koi khata
   Haqqe khidmat na humse ada ho saka
   Gham yehi hay na jee bhar ke matam kiya
   Teri khaatir na kyun apna sar de diya
-  
+
   4
   4) Gar jiye saal bhar phir karenge ye gham
   Royenge phir tere gham may milkar ba-ham
   Aur agar mar gaye to ye hoga alam
   Haey afsos jee bhar ke roye na hum
-  
+
   5
   5) Alwida aey Hussain aey Hussain alwida
   Alwida aey Shahe mashraqain alwida

@@ -11,35 +11,35 @@ published: false
 romanLyrics: |-
   Hajj chor ky kion py waindy ho dhowain bhainr bhira mai kabaa haan
   Maindy kolon wadh bhala kehri hai koi aman di jaa mei kaba haan.
-  
+
   1
   2. Mainko khabr hai apni hik dhee tou watan luka oy tur piya hay
   Maidi chaa ty beh ky bai dhee kon rajj jhooli paa main kaba haan
-  
+
   2
   3. Kion shaam e ghareeban dy paasy Imran as di potri tur pai hai
   Maikon smj ky ghr abu talib aa da raway Aown di maan main kabaa haan.
-  
+
   3
   4. Bhala ky taien safar karesan o jehra mahmal dy wich thak pondiyan hin
   Shabeer as samj cha bhainri di maikon khaima gah main kaba haan
-  
+
   4
   5. maindy hondy janglan dy pasay kion putar sageer kon chai waindy
   Kiwain raas hai tendy Asghar as koon koi surkh hawa main kabaa haan.
-  
+
   5
   6.Jiwain to tur pay aiwain turnr waly wal jeendy wapis nai waldy
   Ay putr Batool sa gal apnra kuj dair chuma main kabaa haan
-  
+
   6
   7. Main chahnda haan Bait ul Huzn smj taindi amri taan reh powy haa
   Thak posi haa inha safran wich mehrooma maan main kaba haan
-  
+
   7
   8.Gohar awaz aae kaaby di Shala Akbar putr di khair howi..
   Maindi hasrat hai mainkon bachry di azaan sunra mai kaabaa haan
-  
+
   8
   (Kalaam Hussain Gohar)
 # source_id: ziyaraat:112746b8aef526e9baf3

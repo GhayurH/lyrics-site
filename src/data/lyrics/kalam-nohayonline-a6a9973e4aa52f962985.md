@@ -13,52 +13,52 @@ romanLyrics: |-
   Abbas ka laasha mai nahi laaya sakina
   Laaya hoon tarayi se alam khoon mein dooba
   Abbas ka laasha mai nahi laaya sakina
-  
+
   1
   Baba se meri laadli naaraz na hona
-  
+
   2
   Jab khaali alam leke mai darya se chala tha
   Har ek qadam par mai yehi soch raha tha
   Phat jaaye na masoom sakina ka kaleja
   Jab apni dulaari se mai ye jaa ke kahunga
-  
+
   3
   Chalta hai kaleje pe mere dard ka khanjar
   Maara gaya pyasa mera mazloom baradar
   Malta hua haathon ko mai aaya hoon palat kar
   Ye dard mere dil se juda ho nahi sakta
-  
+
   4
   Mujhse tere ammu ne kaha tha meri pyari
   Abbas ki ye aakhri khwahish thi dulaari
   Le jaana na qaime ki taraf laash hamari
   Poori hui abbas e dilawar ki tamanna
-  
+
   5
   Chota na karo dil meri naadan sakina
   Qismat ka likha hai ye meri jaan sakina
   Tujh par ye tera baap ho qurban sakina
   Ye baat meri laadli dil mein nahi rakhna
-  
+
   6
   Abbas ke laashe ko tasavvur mein bana lo
   Jee bhar ke chacha jaan pe ashkon ko baha lo
   Ammu ka alam laaya hoon seene se laga lo
   Reh jaaye na ye dil mein khalaq ay meri dukhiya
-  
+
   7
   Dil par jo mere zakhm laga kaise bataun
   Is waqt mera haal hai kya kaise bataun
   Sadma jo mujhe aaj hua kaise bataun
   Ab dil mera har waqt isi gham se phatega
-  
+
   8
   Masoom sakina ko kaleje se laga kar
   Roye hai bahot dayr talak sibte payambar
   Kehte thay ki ab sabr karo ay meri dukhtar
   Maine wo kiya jo mere bhai ne kaha tha
-  
+
   9
   Waiz wo musibat ki badi sakht ghadi thi
   Masoom sakina dar e qaima pe khadi thi

@@ -9,51 +9,51 @@ aliases: []
 published: false
 romanLyrics: |-
   Panch imamo ka raha ban ke sahara Abbas
-  
+
   1
   Fatima Zehra ka beta banu Hashim ka qamar
   Chowda masoomo ki hay ankh ka tara Abbas
-  
+
   2
   Koyi kia samjhay usay jis ko kahay aale e Nabi
   Ham hain ghamkhar zamanay ke hamara Abbas
-  
+
   3
   Khud hi mashkeezay may Abbas ke aa jati furat
   Us ko kar detay agar aik ishara Abbas
-  
+
   4
   Teri turbat ke jo zawwar hain batlatay hain
   Alqama par hay tera ab bhi ijara Abbas
-  
+
   5
   Sheh ne Abbas ko sompi jo sipah salari
   Har zamaa par hay faqat aik hi nara Abbas
-  
+
   6
   Wo to kehye na mila izn e wigha Ghazi ko
   Warna kis jang may afwaj se hara Abbas
-  
+
   7
   De ke mashkeeza Sakina se kaha Sarwar ne
   Loat ke ran se na aa ga tumhara Abbas
-  
+
   8
   Hasrat o yas se taktay thay haram aur Hussain
   Le ke mashkeezi may de maidan sidhara Abbas
-  
+
   9
   Rakh ke sar bao pe Abbas ka kehtay thay Hussain
   Sath ghurbat may na yun choro khudara Abbas
-  
+
   10
   Sar barahna jo haram thay sar e nok e sina
   Dekhta kaise bhala sharm ka mara Abbas
-  
+
   11
   Chadrain chinnay pe yaad aaya har ik bibi ko
   Har tamachay pe Sakina ne pukara Abbas
-  
+
   12
   Sibt e Jafer ho azadari ko kyun harshr ki fikr
   Ho ga waan pehlay se mojood hamara Abbas

@@ -9,24 +9,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Taayon Abid Rat Roya
-  
+
   1
   Ummat ne qaid kitiyaan, haye phuphiyan be rida, taayon Abid rat roya
   Bardasht kar na sakiya,  ghairat da aey khuda, taayon Abid rat roya
   1. Kithay majma laena da, kithay Zahra diyaan paliaan
   Mu walaan de nal kaj ke, bazaaran de vich kaliyaan,
   Mangdi rayi burkay ro ro,  konain di malka.
-  
+
   2
   2. Zainab dey khutbey surnke, hasdey si shami saarey
   Tohfey samaj ke pathar, jadon shamiyan nay maarey
   Baalaan nu zakhmi keeta,  be jurm o be khata.
-  
+
   3
   3. Sir nangey rulaya ay, kul nabiyan di ghairat nu
   Kyun kalma go aan kita, sharminda sharafat nu
   Nayzey tey rai ay rondi,  Abbas di wafa
-  
+
   4
   4. Sajjad nay vekhay hin, Akhtar o zulm saray,
   Kivain Shimr laeen koray, edi paak kandh tey maarey

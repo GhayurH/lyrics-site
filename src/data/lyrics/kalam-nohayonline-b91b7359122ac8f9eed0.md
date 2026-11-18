@@ -12,35 +12,35 @@ published: false
 romanLyrics: |-
   Mai mohamed ka lakhte jigar hoo
   Mujhpe kyon bandh karte ho pani
-  
+
   1
   Mai hoo mushkil kusha ki nashani
   Mai hoo fatema zehra ka jaani
-  
+
   2
   Mai hoo ahmed ke ghar ka ujaala
   Mai hoo zehra ki godhi ka paala
-  
+
   3
   Kya nabi ka nawasa nahi hoo
   Kya mai do din ka pyasa nahi hoo
-  
+
   4
   Tashnagi se jigar bhun raha hai
   Kis liye mujhpe jor o jafa hai
-  
+
   5
   Mai hoo hyder ki aankhon ka taara
   Mai hoo sarkare aalam ka pyara
-  
+
   6
   Kalmago tum nabi ka mai beta
   Tum musalman ho mai hoo nawasa
-  
+
   7
   Mere baysheer par rehm khao
   Kuch to bache to pani pilao
-  
+
   8
   Mirza chalta tha gardan pe khanjar
   Tha yehi nauha sheh ki zaban par

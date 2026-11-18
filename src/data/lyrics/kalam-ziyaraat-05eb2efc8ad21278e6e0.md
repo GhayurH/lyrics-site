@@ -10,7 +10,7 @@ published: false
 romanLyrics: |-
   Hay ibadat Hussain ka matam
   Hum ko Quran ne bataya hay
-  
+
   1
   Chomty hain usay farishty bhi
   Matami hath jab uthata hay
@@ -20,7 +20,7 @@ romanLyrics: |-
   Hath katay na ruk saka matam
   Thak k kehny lagain ye talwarain
   Ye ibadat to mojzana hay
-  
+
   2
   Nohay parhty hain nooh jaise nabi
   Ambiya khud safain banaty hain
@@ -28,7 +28,7 @@ romanLyrics: |-
   Arsh waly bhi kitny atay hain
   Farsh matam ka wo mussala hay
   Jis pe kaba namaz parhta hay
-  
+
   3
   Inki awaz hai azan jaisi
   Nala e haq hay karbala hay
@@ -36,7 +36,7 @@ romanLyrics: |-
   Fatah e shah ki ata hay yeh
   Dagh e matam wo dagh hay jis main
   Hajr e aswad dikhai deta hay
-  
+
   4
   Farsh matam ka farsh h aisa
   Daikh kar arsh jhoomta hay jise
@@ -44,7 +44,7 @@ romanLyrics: |-
   Khoon pasina b chomta hay jise
   Matami hath hath hay aisa
   Jo ke jannat ka ghar banata hay
-  
+
   5
   Taqat e matam e hussain bani
   Lal sain ki taqat e parwaz
@@ -52,7 +52,7 @@ romanLyrics: |-
   Yehi abdullah shah ki awaz
   Yehi nara bhi hai malangon ko
   Yehi rasm e qalandarana hay
-  
+
   6
   Taigh o shamsheer pe jo wajib thy
   Wo bhi qarze chukaye hain isne
@@ -60,7 +60,7 @@ romanLyrics: |-
   Wo muqaddar banaye hain isne
   Yeh bachata hay nar e dozakh se
   Yehi qaidi ko Hur banata hay
-  
+
   7
   Khanch leta h jo naqabon ko
   Kitna mazboot hath h iska
@@ -68,7 +68,7 @@ romanLyrics: |-
   Khoon kis ki ragon main h kiska
   Sath naslain ye khool deta hay
   Sub ka nam o nasab batata hay
-  
+
   8
   Daikh kar iski saf main nabyon ko
   Daikh kar iska mojzati asar

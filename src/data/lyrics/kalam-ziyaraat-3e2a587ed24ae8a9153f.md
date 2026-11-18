@@ -11,12 +11,12 @@ published: false
 romanLyrics: |-
   Ya hussain, ya hussain
   Zehra diya jayyan ayyan wich bazaaran
-  
+
   1
   Haay kyun, ayya wich bazaaran
   Ho kyun no no,
   Ho kyun no no meel turaiyyan
-  
+
   2
   Haay kyun, ayya wich bazaaran
   1) No milandhi manzal rehgayi

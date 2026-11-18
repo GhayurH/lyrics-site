@@ -9,46 +9,46 @@ aliases: []
 published: false
 romanLyrics: |-
   Eh rat hun nahi rukhdi, Eh rat hun nahi rukhdi
-  
+
   1
   Touheed diyan shahzadi nu ainjh paidal safar karai
   Patharan da mi barsaya, Eh rat hun nahi rukhdi
-  
+
   2
   1. Mehdi bhen sakina mar gaye si, mere hath paband san os vele
   Qurbat de alam de vich ro ro khariya te lashe chaya
   Rasiyan de vich dafnaya, Eh rat hun nahi rukhdi
-  
+
   3
   2. Aik lal si hassan da chan varga jida lasha si pamaal hoya
   Jidi ma si armaan barah nahi putar nahi puttar nu sehre paya
   Ghadri vich lasha paya, Eh rat hun nahi rukhdi
-  
+
   4
   3. Mera almaan wala ghazi si jide bazooan tay si mahn barah
   Jida laash len kaya maqtal piya digda zahra jhaya
   Nahi ghazi nu chuk paya, Eh rat hun nahi rukhdi
-  
+
   5
   4. Mere ma di ghod veraan hoyi, mera veer asghar vi maar ditta
   Raya naal furaat paya mangda, jidi pyaas nai hai tarpaya
   Mere rat nu surkh banaya, Eh rat hun nahi rukhdi
-  
+
   6
   5. Jeraa parch jibrail tay sonda si ohda lasha gharam zameen
   Be adab naal ohday sir nu qatil nai aahn kai chaya
   Ohdi bhen dai samne laya, Eh rat hun nahi rukhdi
-  
+
   7
   6. Humshakle payambar daise nai zalim nai barchi mar ditti
   Kuwan mawa dai saangi mehnaat raitaan ch labb nahi paya
   Iss gham bhi maan banaya, Eh rat hun nahi rukhdi
-  
+
   8
   7. Jaffar tayar da sarmaya, Jodon ma nu millen layi aya
   Hasrat si ma sine lawe, Ma sine naal nah laya
   Inna lillah farmaya, Eh rat hun nahi rukhdi
-  
+
   9
   8. Qasim sibtal nahi jahn sakai oh sham gariba de manzar
   Minhal mehdi ma da burka, Jiwain shimar nai aahn lahaya

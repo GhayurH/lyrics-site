@@ -14,85 +14,85 @@ romanLyrics: |-
   Nabi ki aankhon ka taara hussain zindabad
   Dile batool ka paara hussain zindabad
   Ali ka raj dulara hussain zindabad
-  
+
   2
   Lagaye jao ye naara hussain zindabad
   Kaho ye milke hamara hussain zindabad
   Ameer e shehr e shahadat hai tera naam hussain
   Tujhi pe bheja hai islam ne salaam hussain
-  
+
   3
   Hai tere haaton mein kaunain ka nizam hussain
   Suna jo noke sina par tera kalaam hussain
   Pukar utha ye nazara hussain zindabad
   Lagaye jao ye nara…
-  
+
   4
   Kiya hai pani tere hausalon ne pathar ko
   Shikast di hai teri pyaas ne samandar ko
   Fana ki qabr mein dafna diya sitamgar ko
   Ulat ke rakh diya tune har ek manzar ko
-  
+
   5
   Haqeeqaton ko ubhara hussain zindabad
   Lagaye jao ye nara…
   Dayare shab pe ujaalon ne hukmarani ki
   Jale diye to hawaon ne pasbani ki
-  
+
   6
   Mili zaeefi ko angdaiyan jawani ki
   Zaban hogayi mashoor be-zabani ki
   Ye tera faiz hai saara hussain zindabad
   Lagaye jao ye nara…
-  
+
   7
   Payame haq hai khuda ki qasam payame hussain
   Har ek cheez hai kaunain ki ghulame hussain
   Wo mohtaram hai jo karta hai ehtarame hussain
   Agar yazeed se lena hai intiqame hussain
-  
+
   8
   Lagao jhoom ke naara hussain zindabad
   Lagaye jao ye nara…
   Jo ghar luta'ta hai usko hussain kehte hai
   Jo deen bachata hai usko hussain kehte hai
-  
+
   9
   Jo hur banata hai usko hussain kehte hai
   Jo jeet jaata hai usko hussain kehte hai
   Shuja'aton ne pukaraa hussain zindabad
   Lagaye jao ye nara…
-  
+
   10
   Baraye jang ye lekar jo zulfiqar gaya
   Ameere shaam ko beta ali ka maar gaya
   Kiya ye waqt ne elaan ikhtedaar gaya
   Hussain jeet gaye aur yazeed haar gaya
-  
+
   11
   Khuda ka deen pukara hussain zindabad
   Lagaye jao ye nara…
   Ali ka laal shahe mashraqain zinda hai
   Wo qalbe fatema zehra ka chain zinda hai
-  
+
   12
   Shababe faatahe badr o hunain zinda hai
   Yazeed margaya mera hussain zinda hai
   Ye zindagi ka hai naara hussain zindabad
   Lagaye jao ye nara…
-  
+
   13
   Ye tera dost bhi tera adoo bhi kehta hai
   Chiragh aandhiyon ke rubaru bhi kehta hai
   Alam bhi taygh bhi chaake gulu bhi kehta hai
   Nazar bhi fikr bhi dil bhi lahoo bhi kehta hai
-  
+
   14
   Jo qatl hoke na haara hussain zindabad
   Lagaye jao ye nara…
   Wafa ka tazkira gauhar sada pasand rahe
   Nishane matame shabbir arjuband rahe
-  
+
   15
   Alam hussain ke lashkar ka sar baland rahe
   Yazeedi qabr ki gehrayion mein band rahe

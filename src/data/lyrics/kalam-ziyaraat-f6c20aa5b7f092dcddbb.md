@@ -10,37 +10,37 @@ published: false
 romanLyrics: |-
   Ae wafadar-e-Hassan Ae alamdar-e-Hussain,
   Karti thi Zainab suqan, Ae alamdar-e-Hussain.
-  
+
   1
   Zainab-e-dilgeer se kyun juda tu hogaya,
   Alqama par chain se bhayi kyun tu sogaya,
   Hogayi tanha behen, Ae alamdar-e-Hussain.
-  
+
   2
   Haat jab katne lage mashk daanton me liya,
   Sar se khoo(n) behta raha dhyan pyaason ka raha,
   Ae mere tashna dahan, Ae alamdar-e-Hussain.
-  
+
   3
   Ek taraf Kubra ka gham ek taraf gham byah ka,
   Karbala ke dasht me Qaasim-e-naushah ka,
   Hogaya tukde badan, Ae alamdar-e-Hussain.
-  
+
   4
   Jism par Shabbir ke teer barsaye gaye,
   Laashae mazloom par ghode daudaae gaye,
   Bat gaya tukdon me tan, Ae alamdar-e-Hussain.
-  
+
   5
   Ghar jale zewar chine hogaye ham be rida,
   Is Andheri raath me ab kahan jaye bhala,
   Be Kason ki anjuman, Ae alamdar-e-Hussain.
-  
+
   6
   Chor kar tu chal basa hai be rida Hamsheer ko,
   Ye to batlade zara be kafan Shabbir ko,
   Kon dega ab kafan, Ae alamdar-e-Hussain.
-  
+
   7
   Ye tera nauha Mujeeb aur Razi ki wo zaban,
   Ro ke karti thi bayan Aun aur Jafar ki maa,

@@ -10,13 +10,13 @@ aliases: []
 published: false
 romanLyrics: |-
   Ali ki beti safar tera aaj se hay shroo
-  
+
   1
   Sada janazay se aati thi Shaam jaye gi tu
   Kaisa aulad e Muhammad pe ye Ramzan aaya
   Masjid e Koofa se ho zakhmi hay Quran aaya
   Hain rotay betiyan aur betay dekh behta lahoo
-  
+
   2
   Baad meray ye Musalman rulayain gay tujhe
   Sar barahna sar e bazar phirayain gay tujhe

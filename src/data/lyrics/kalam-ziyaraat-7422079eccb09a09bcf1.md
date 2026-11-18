@@ -20,7 +20,7 @@ romanLyrics: |-
   Maula Madinay Walay
   Karbal mein agaye hein Karbal basanay walay
   Maula Madinay Walay
-  
+
   2
   -Ye dar wo pak dar he Jo Fatima ka ghar he,
   Ye pyaray Mustafa ka Maula Ali ka ghar he,
@@ -28,7 +28,7 @@ romanLyrics: |-
   Maula Madinay Walay
   Karbal mein agaye hein Karbal basanay walay
   Maula Madinay Walay
-  
+
   3
   -Islam ne pukara Qur’an ne sada di,
   Yasrab ka shahzada Yasrab ki shahzadi,
@@ -36,7 +36,7 @@ romanLyrics: |-
   Maula Madinay Walay
   Karbal mein agaye hein Karbal basanay walay
   Maula Madinay Walay
-  
+
   4
   -Ro ro kay boli Sughra Dil doobta he mera,
   Weeran kiya Madina Jangal me he basera,
@@ -44,7 +44,7 @@ romanLyrics: |-
   Maula Madinay Walay
   Karbal mein agaye hein Karbal basanay walay
   Maula Madinay Walay
-  
+
   5
   -Damaad kay dularay Beti kay shahzaday
   Thay teen din kay pyasay sab phool Mustafa kay,
@@ -52,7 +52,7 @@ romanLyrics: |-
   Maula Madinay Walay
   Karbal mein agaye hein Karbal basanay walay
   Maula Madinay Walay
-  
+
   6
   -Sab lut gayi kamai Akbar ne barchi khai,
   Asghar ne teer khaya Deti thi Maa duhai,
@@ -60,7 +60,7 @@ romanLyrics: |-
   Maula Madinay Walay
   Karbal mein agaye hein Karbal basanay walay
   Maula Madinay Walay
-  
+
   7
   -Halmin ka isteghasa Jab de chuka wo pyasa,
   Awaz-e-Irjayi ne akar diya dilasa,
@@ -68,7 +68,7 @@ romanLyrics: |-
   Maula Madinay Walay
   Karbal mein agaye hein Karbal basanay walay
   Maula Madinay Walay
-  
+
   8
   -Ik shor tha falak par Kehta tha Rab-e-Akbar,
   Jibreel badalon ka jaldi bichao bistar,
@@ -76,7 +76,7 @@ romanLyrics: |-
   Maula Madinay Walay
   Karbal mein agaye hein Karbal basanay walay
   Maula Madinay Walay
-  
+
   9
   -Salman Aur Shanawar Khushbakht hon Ali Jee,
   Rehan ki tamanna Sarwar ki jo dua thi,

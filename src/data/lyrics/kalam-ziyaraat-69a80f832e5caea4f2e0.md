@@ -10,7 +10,7 @@ published: false
 romanLyrics: |-
   Zindaan main sakina aabid say keh rahi hay
   Dam ghut raha hai bhaiya yeh raat aakhri hay
-  
+
   1
   1. Jala maera kurta chinae gooshwaray
   Sitam gar nay mujh ko tamachae hain maaray
@@ -18,7 +18,7 @@ romanLyrics: |-
   Yeh dukhiya dukhi museebat may kis ko pukarae
   Baba kae qatiloon say her giz qafan na laena
   Hay yeh maeri wasiyaat khowahish maeri yehi hay
-  
+
   2
   2. Sakina pae bhaiya kaThan yeh hui hai
   Aseeri jo mujh per musibat baRi hai
@@ -26,7 +26,7 @@ romanLyrics: |-
   Madinae ki rahoon pae sughra khaRi hai
   Her shaam yeh parindae jaatae hain apnae ghar ko
   Kub jaoon gi watan main ro kar wo poochti hay
-  
+
   3
   3. Zameen par main zindaan ki sooteen hoon baba
   Main ashkoon sae daman bhi dhooti hoon baba
@@ -34,7 +34,7 @@ romanLyrics: |-
   Juda ho kae tum sae main roti hoon baba
   Sadiyan guzar chukeen hain ab bhi her aik mohib ko
   Zindan say siskiyoon ki aawaaz aa rahi hay
-  
+
   4
   4. Meri dadi Zehra ka rutba hay aali
   Yeh haq jinki chokhat se louta na khali

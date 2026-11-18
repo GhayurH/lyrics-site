@@ -12,50 +12,50 @@ published: false
 romanLyrics: |-
   Karti thi buka zainab e ghamkhwar
   Alamdar kahan ho
-  
+
   1
   Beparda haram hai sar e bazaar
-  
+
   2
   Jab se mujhe dar pesh hui teri judaai
   Tareek nazar aane lagi saari khudayi
   Zainab hai masayib mein giraftaar
-  
+
   3
   Maara jo kabhi shimr e sitamgar ne tamacha
   Masoom sakina ne tera naam pukara
   Bacchi ko madad hai teri darkaar
-  
+
   4
   Yasrab mein kabhi mera qadam ghar se na nikla
   Bas thi meri dunya bani hashim ka mohalla
   Ab mera safar hai sar e bazaar
-  
+
   5
   Beparda sar e shaam haram hote hai tash'heer
   Rota hai lahoo noke sina par sar e shabbir
   Ay aale mohamed ke madadgaar
-  
+
   6
   Hote hai bade zulm o sitam ahle haram par
   Durre kabhi khaate hai kabhi khaate hai pathar
   Sadaat pe haste hai sitamgaar
-  
+
   7
   Ye aa gayi taqdeer kahan aale aba ki
   Ye fauj e jafakaar hamein kehti hai baaghi
   Is tanz ko sun kar hoo dilafgaar
-  
+
   8
   Hai haath rasan basta nahi sar pe ridayein
   Sadaat bhala behre madad kis ko bulayein
   Hai shaam ka rasta bada dushwaar
-  
+
   9
   Dekhi nahi jaati mere sajjad ki haalat
   Chalne bhi nahi deti usay uski naqaahat
   Mar jaaye na gham se kahin bemaar
-  
+
   10
   Sibtain mai bhala kaise likhun shaam ka manzar
   Jab shaam ke bazaar mein saydaniya safdar

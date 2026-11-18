@@ -15,91 +15,91 @@ romanLyrics: |-
   Raahe wafa pe chale hai musafirane aza
   Dua e fatema zehra ke sayeban ki tarha
   Chala hai jaanibe manzil ye karwan e aza
-  
+
   2
   Salaam zaairane hussain
   Salaam aashikane hussain
   Safar e ishq e hussain
   Hussainiyo tumhe karbobala bulaati hai
-  
+
   3
   Safare ishq par chalo saath mere hussainiyo
   Sunnate bibi zainab ko poora karo
   Hal min ki sada par labbaik kaho
   Labbaika ya hussain
-  
+
   4
   Rasme sajjad poori karo
   Karbala ke shaheedon ka
   Chehlum karo karbala mein
   Zairaane hussain karbala ka ye gham
-  
+
   5
   Dil mein zinda rahe ek pal na ho kam
   Saal bhar majlise ho aur rahe aankh nam
   Baad e ashoor haathon mein lekar alam
   Khaafela ek tarteeb do
-  
+
   6
   Karbala ke shaheedon ka
   Chehlum karo karbala mein
   Jiski chadar ko tum roye ho umr bhar
   Jis ka ek roz mein lut gaya saara ghar
-  
+
   7
   Apni marqad mein kehti hai wo nauhagar
   Mai bhi jaati hoo tum bhi karo ye safar
   Hukm e zainab ki takmeel ho
   Karbala ke shaheedon ka
-  
+
   8
   Chehlum karo karbala mein
   Sabr ka wo khuda yani zainul liba
   Pehn kar bediyan khoon rota raha
   Karbala se suye shaam paidal gaya
-  
+
   9
   Chuth ke zindan se phir suye karbala
   Jis tarha wo chala tum chalo
   Karbala ke shaheedon ka
   Chehlum karo karbala mein
-  
+
   10
   Baap ki yaad mein dil jalaati hai wo
   Qaid khane mein gham yun manati hai wo
   Apne baba ko ab bhi bulaati hai wo
   Karne chehlum suye dasht jaati hai wo
-  
+
   11
   Gar sakina ke gham-khwar ho
   Karbala ke shaheedon ka
   Chehlum karo karbala mein
   Hai safar ishq ka ek musalsal safar
-  
+
   12
   Qariya qariya safar sehra jangal safar
   Sakht garmi ho din raat paidal safar
   Karbala tak najaf se wo paidal safar
   Mere humraah tum bhi karo
-  
+
   13
   Karbala ke shaheedon ka
   Chehlum karo karbala mein
   Door hogi thakan us ghadi ahle gham
   Karbala mein rakhoge jo pehla qadam
-  
+
   14
   Hogi pesh e nazar qabre shaah e umam
   Ek maa ki fughan sunke royenge hum
   Mere zakhmon ka marham bano
   Karbala ke shaheedon ka
-  
+
   15
   Chehlum karo karbala mein
   Aashiqane hussain ishq emaan hai
   Ishq ka ye safar dil hai aur jaan hai
   Haan ye irfan o mazhar ka elaan hai
-  
+
   16
   Binte zehra ka zehra ka armaan hai
   Un ka armaan poora karo

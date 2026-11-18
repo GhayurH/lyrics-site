@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas-e-Ali Aaye Karib-e-Shah-e-Abrraaaar
-  
+
   1
   Bhai ko Alam deke kiya sheh ne bahot pyar
   Hans hans ke rafiko se ye karne lage guftaar
@@ -18,89 +18,89 @@ romanLyrics: |-
   Ghaazi sa koyi deen ka sardar na hoga,
   Abbas sa dunya mein alamdar na hoga
   Sakhi Abbas hamara hain alamdar hamara, Abbas hamara hain alamdar hamara
-  
+
   2
   Hashim ka qamarrrr
   Hashim ka qamar, haider-e-Karrar ka pyara
   Sakhi Abbas hamara hain alamdar hamara, Abbas hamara hain alamdar hamara
-  
+
   3
   1) Haider ke gharane ki sakhawat sakhi abbas
   Khoone abu talib ki sadaqat sakhi abbas
   Zehra ki duwaon ki taharat sakhi abbas
   Kudrat ne banaya nahi phir, aisaa dubaraa.
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   4
   2) Quran-e-wafa sher-e-nayafshaan-e-ali hai
   Zehra ki tamanna hai dil-o-jaan-e-ali hai
   Is ke liye bachpan hi se farmaan-e-ali hai
   Mai ilma ka darya hoon ye darya ka kanara
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   5
   3) Paida huwe abbas to godi mein utha kar
   Zainab ne rakha naam kalejay se lagaa kar
   Chotaa sa alam sheh ne diya inko sajaa kar
   Dekha jo alamnay to alam khud ye pukara
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   6
   4) Ye panjetan-e-pak ke lashker ka nishan hai
   Kehte hai ye Shabbir meraa shere jawaan hai
   Aisa koyi duniya mein alamdar kahan hai
   Sehwan se hai sheh baaz kalandar ka ye naaraa
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   7
   5) Abbas-e-Ali ruh-e-wafaa jaan-e-wafa hai
   Abbas-e-Ali fatema Zehra ki duwaa hai
   Har waqt alam choomti rehti ye hawaa hai
   Bhoolaa nahi abbas ko darya ka kanaraa
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   8
   6) Duniya-e Shahadat me kahan uskaa hai saani
   Jo saare shahidon ki safo me raha ghaazi
   Bay dasta bhi ho kar jo bhare jholiyaan sab ki
   Hashim ka kamar sare fakiron ka sahara
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   9
   7) Haider ke gharane ki sakhawat sakhi abbas
   Khoonay abu talib ki sadaqat sakhi abbas
   Zehra ki duwaon ki taharat sakhi abbas
   Kudrat ne banaya nahi phir aisaa dubaraa
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   10
   8) Lazim hai ke ham dekhenge ik roz ye manzar
   Farmayenge jab mehdiy-o- dora dar-e-mimbar
   Qabe se namudaar jo honga mera lashkar
   Honga yahi lashkar ka alamdar hamaraa
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   11
   9) Yaad ata hai woh rukhsat-e-abbas ka manzar
   Woh rona sakina ka fareray ko pakadkar
   Woh dekhna Zainab ka kabhi sar kabhi chapar
   Kehti thi palat aa ye behen bhayi ka pyara
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   12
   10) Abbas gaye ho gaya maula mere tanha
   Dekha kabhi maydaan to kabhi janib-e-darya
   Nagaah alam nehar pay girte huwe dekha
   Zainab se kaha sher gaya, nehr pe maraaaa
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   13
   11) Ay "Sarwar-o-Rehan" ye imaan hai apna
   Abbas ke parcham ka sada sarpe hai saya
   Parne ke liye hashra mein Shabbir ka nawha
   Abbas bulaayenge hame, karke isharaaaa
   Sakhi Abbas hamara hay alamdar hamara, Abbas hamara hay alamdar hamara
-  
+
   14
   Hashim ka qamarrrr
   Hashim ka qamar, haider-e-Karrar pyara

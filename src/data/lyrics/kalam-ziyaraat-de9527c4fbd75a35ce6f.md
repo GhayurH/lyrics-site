@@ -10,103 +10,103 @@ aliases: []
 published: false
 romanLyrics: |-
   Kaarwaan
-  
+
   1
   Yasrab se suwe karbala
   Ik karwaan rukhsat huwa
   Sar pe alam saaya fighan
   Ghazi ki aati hai sada
-  
+
   2
   Pehla safar Zainab ka hai
   Sunsaan kardo raasta
-  
+
   3
   [Kaarewaan,  Abbas meer-e-karwaan]
-  
+
   4
   1) Kya shaan hay kya dab daba
   Kya log hein quraanuma
   Salle ala sale ala ayaat ka he qaafla
   Mashko alam inka nishaan
-  
+
   5
   Abbas meere karwaan
   [Kaarewaan,  Abbas meer-e-karwaan]
-  
+
   6
   2) Allah ke pyaare hein ye
   Aale nabi saare hein ye
   Quran ke pare hein ye
   Kaunain ke tare hein ye
   Zere qadam he asmaan
-  
+
   7
   Abbas meere karwaan
   [Kaarewaan,  Abbas meer-e-karwaan]
-  
+
   8
   3) Koi shabih-e-Mustafa
   Koi Hasan ka dilruba
   Hai koi aks-e-sayyeda
   Shabbir ka ye qaafila
   Thaame alam jo hai jawaan
-  
+
   9
   Abbas meere karwaan
   [Kaarewaan,  Abbas meer-e-karwaan]
-  
+
   10
   4) Yasrib se ta ba karbala
   Har din tawaafe kaafila
   Abbas karta hi raha
   Parde ka zimmedaar tha
   Yun mutmain thi bibiyaan
-  
+
   11
   Abbas meere karwaan
   [Kaarewaan,  Abbas meer-e-karwaan]
-  
+
   12
   5) Abbas woh kirdaar hay
   Baade Ali salaar hay
   Aysa alam bardaar hay
   Maydan mein be talwar hay
   Phir bhi alam ka paasbaan
-  
+
   13
   Abbas meere karwaan
   [Kaarewaan,  Abbas meer-e-karwaan]
-  
+
   14
   6) Lo agaya uska alam
   Ghazi jise kehte hein hum
   Kehte chalo ye dambadam
   Abbas meer-e-lashkaram
   Babul hawaaij mehrabaan
-  
+
   15
   Abbas meere karwaan
   [Kaarewaan,  Abbas meer-e-karwaan]
-  
+
   16
   7) Jab shaam pohoncha qafla
   Khutba ye zainab ne diya
   Sunle ye qaum-e-ashkiya
   Hum hein bina-e-lailaah
   Kashti he dee(n) hum baadbaa(n)
-  
+
   17
   Abbas meere karwaan
   [Kaarewaan,  Abbas meer-e-karwaan]
-  
+
   18
   8) Tha hashr mein mola ali
   Ye Sarwar-o-Rehan bhi
   Nazre karam se aapki
   Rakhte hein ummeed-e-qawi
   Nawhon se denge ye bayaan
-  
+
   19
   Abbas meere karwaan
   [Kaarewaan,  Abbas meer-e-karwaan]

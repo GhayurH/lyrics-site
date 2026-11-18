@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Shaheed e karbala baba
-  
+
   1
   Ghareeb ul be-watan baba
   Bayan karti thi ye sughra
@@ -19,7 +19,7 @@ romanLyrics: |-
   Tumhe tayghon se katwaya
   Mitaya rafta rafta yun
   Nishan e panjetan baba
-  
+
   2
   Agar humraah mai hoti
   Tumhari laash pe roti

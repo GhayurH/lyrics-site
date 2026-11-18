@@ -9,43 +9,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Yaa Mustafa Yaa Mujtaba Gham hai do masoom ka
-  
+
   1
   1. Wo Mohammed(sawaw) yeh Hasan dono hai zere kafan
   Deen ne nauha padha,  Yaa Mustafa Yaa Mujtaba
-  
+
   2
   2. Yeh zamino aasmaan karte hai aaho fugaah
   Hai yeh nauha har jagah,  Yaa Mustafa Yaa Mujtaba
-  
+
   3
   3. Sayyeda zakhmi jigar gham sahe yeh kis kadar
   Ro rahi hai Fatima,  Yaa Mustafa Yaa Mujtaba
-  
+
   4
   4. Do namazi uth gaye masjidon ke dil hile
   Ghamzada kaaba hua,  Yaa Mustafa Yaa Mujtaba
-  
+
   5
   5. Saaf zaahir ho gaya karte hai yeh ashkiyaan
   Karbala ki ibteda,  Yaa Mustafa Yaa Mujtaba
-  
+
   6
   6. Zulm ne saazish kari teeron ki baarish kari
   Zakhmi laasha kar diya,  Yaa Mustafa Yaa Mujtaba
-  
+
   7
   7. Mayyate Shabbar uthi aagaye mil kar shaki
   Dafn na laasha hua,  Yaa Mustafa Yaa Mujtaba
-  
+
   8
   8. Nauhagar quraan hai sinaazan imaan hai
   Har taraf hai yeh sada,  Yaa Mustafa Yaa Mujtaba
-  
+
   9
   9. Ghamzada shahe najaf chaldiye yeh kis taraf
   Padh rahe the marsiya,  Yaa Mustafa Yaa Mujtaba
-  
+
   10
   10.Ab kalam Qaisar rakho Fatima ke ghar chalo
   Karna hai matam bapa,  Yaa Mustafa Yaa Mujtaba

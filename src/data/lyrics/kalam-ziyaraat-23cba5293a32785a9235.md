@@ -10,10 +10,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Begunah mara gaya sibte rasool e dosara wa Hassan e sabz e qaba
-  
+
   1
   Kalma goyo nai kiya khoob kiya wada wafa
-  
+
   2
   Bhai ki lash peh ro ro keh yeh Zainab nai kaha
   Arzoo thi bhaiya
@@ -26,7 +26,7 @@ romanLyrics: |-
   Tere taboot peh kis wasteh mare gaye teer
   Aye musalamano keh peer
   Kalma parhte na theh jud ka tere Ahle- Jafa
-  
+
   3
   Khuld seh aaye sada baita Hassan jaldi aa
   Takeh doon tujh ko dekha

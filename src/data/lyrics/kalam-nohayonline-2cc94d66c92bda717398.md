@@ -10,28 +10,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Bain karti thi ye zehra mere mazloom hussain
-  
+
   1
   Kisne pyaasa tujhe maara mere mazloom hussain
   Na to akbar hai na asgahr hai na zainab ke pisar
   Kat gaya sab terq kunba mere mazloom hussain
-  
+
   2
   Khaak se uth ke lago amma ki chaati se zara
   Gham se jalta hai kaleja mere mazloom hussain
-  
+
   3
   Apne pushton ko to aada ne diya gor o kafan
   Teri mayyat ko na gaada mere mazloom hussain
-  
+
   4
   Dayr se laash pa khaati hoo pachade waari
   Uth ke do maa ko dilaasa mere mazloom hussain
-  
+
   5
   Beh raha hai rag e gardan se lahoo reti par
   Hai ye be-sar tera laasha mere mazloom hussain
-  
+
   6
   Tukde tukde ho badan zulm ki talwaaron se
   Is liye kya tujhe paala mere mazloom hussain

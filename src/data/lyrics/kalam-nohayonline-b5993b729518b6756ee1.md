@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   Kya khehr hai maari gayi sar par tere talwaar
   Ali hyder e karrar ali hyder e karrar
-  
+
   1
   Asadullha ali ainullah ali
   Wajhullah ali waliullah ali
@@ -28,49 +28,49 @@ romanLyrics: |-
   Zaalim ne paas e masjid o mehraab na rakha
   Arsh e bari ko zulm se apne hila diya
   Rangeen khoon sar se hui reesh e khush gawa
-  
+
   2
   Hyder ko zakhmi dekhh ke bekal hai mustafa
   Pehlu shikasta roti hai maqdooma sayyeda
   Mehroon hai hussain to maghmoon mujtaba
   Furqat ka daagh darte hai sardar e ausiya
   Aulaad ro rahi hai shahe deen ki zaar zaar
-  
+
   3
   Be-deen bad naseeb o nasab dushmane khuda
   Tune sutoone noore hidayat gira diya
   Tune imame jinn o bashar qatl kar diya
   Tune dil e rasool e moazzam dukha diya
   Khuld e bari mein mursale aazam hai ashk baar
-  
+
   4
   Hoti hai ahlebayt e nabuwat pe sakhtiyan
   Bharti hai aahein faatahe khyber ki betiyan
   Sar peet'ti hai maadare abbas neem jaan
   Lut'ta hai raaj aalame ghurbat mein al'amaan
   Tukde hai dil wafure alam se jigar figaar
-  
+
   5
   Farmate thay ye sayyede sardar o risalat
   Baara hai meri nasl se minar e hidayat
   Likhi hai mere pyaron ke qismat mein ye aafat
   Talwar se ya zehr e halahat se shahadat
   Hai teri shahadat mein jama zehr o talwaar
-  
+
   6
   Kaari thi bahot zehr bujhi taygh ki zarbat
   Do neem hua farqe asad qasim e jannat
   Khoon behne laga zakhm se parnaal ki surat
   Mazloom tadapte thay basad garb o aziyat
   Barham thi fizza kufe ki ay sayyede abraar
-  
+
   7
   Lo sayyed e lawlaak ki masnad hui khaali
   Lo jafar e tayyar ka maara gaya bhai
   Sar pet'te hai hyder e safar ke fidaayi
   Khuld e bari ko jaati hai hyder ki sawari
   Hai chaahne waale shahe mardan ke azadar
-  
+
   8
   Jab arsa e mehshar mein chali aayegi zehra
   Aur pesh e khuda layegi hyder ka amama

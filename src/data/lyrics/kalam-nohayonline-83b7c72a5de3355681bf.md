@@ -12,97 +12,97 @@ published: false
 romanLyrics: |-
   Pyasa kunba labe darya
   Rehgaye qaimon may tashna bache
-  
+
   1
   Ek sada hai sab ke labon par
   Haye abbas
   Le kar aao pani chacha
   Abbas abbas abbas abbas
-  
+
   2
   Halq sabhi ka sookh chuka hai
   Goya qareen ab waqt e qaza hai
   Sab ne faqat ye roke kaha hai
   Le kar aao pani chacha
-  
+
   3
   Abbas abbas...
   Darbadari aur aale payambar
   Be-watani aur aale payambar
   Tashnalabi aur aale payambar
-  
+
   4
   Le kar aao pani chacha
   Abbas abbas...
   Haye re asghar tashna dahani
   Ghair hui hai haalat uski
-  
+
   5
   Kuch lamha bas jaan hai baakhi
   Le kar aao pani chacha
   Abbas abbas...
   Le ke alam dada ka jao
-  
+
   6
   Nehr utha kar qaime may lao
   Zor e yadullah hi dikhlao
   Le kar aao pani chacha
   Abbas abbas...
-  
+
   7
   Dhoop sare baali hai ghazab ki
   Sab ka sahara aas ho sab ki
   Sunlo sada ab pyase lab ki
   Le kar aao pani chacha
-  
+
   8
   Abbas abbas...
   Pyaas se kya haalat hai dekho
   Kuch bhi nazar aata nahi hum ko
   Behre khuda ehsaan ye kar do
-  
+
   9
   Le kar aao pani chacha
   Abbas abbas...
   Leke chala ghazi mashkeeza
   Shaah ne nam aankhon se dekha
-  
+
   10
   Bachon bne rokar ye farmaya
   Le kar aao pani chacha
   Abbas abbas...
   Nehr se pani bhar ke wo palta
-  
+
   11
   Bhaagi hui faujon ne ghayra
   Padte rahe bache ye nauha
   Le kar aao pani chacha
   Abbas abbas...
-  
+
   12
   Sheh ne uthaya daste baradar
   Di ye sada atfaale payambar
   Ab na sada dena ye ro kar
   Le kar aao pani chacha
-  
+
   13
   Abbas abbas...
   Kaise kahoo bachon se hamare
   Mar gaye bhai nehr kanare
   Ab na bulaana kehke ye pyare
-  
+
   14
   Le kar aao pani chacha
   Abbas abbas...
   Ab to bahot duhswaar hai jeena
   Kaise kahe ammu ye hazeena
-  
+
   15
   Pyase hai bache pyasi sakina
   Le kar aao pani chacha
   Abbas abbas...
   Dayam o yazdan pyason ka nauha
-  
+
   16
   Sunke ye sheh ne roke pukara
   Kis se kahoge ab ye khudara

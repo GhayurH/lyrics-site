@@ -10,55 +10,55 @@ published: false
 romanLyrics: |-
   Ek sakina ek zahra..(4)
   Baba ko hai rone wali ek sakina ek zahra..(2)
-  
+
   1
   1. Pehlu dar unke gira tha
   Inko tamache lagte the
   Unke dar par aag lagi thi..(2)
   Inka khaima jalta tha
-  
+
   2
   2. Dono ko haakim ne bulaaya
   Dono hi darbaar gayi
   Sharmo haya ne unko jakda..(2)
   Rassi me tha inka galaa
-  
+
   3
   3. Baba ke jaane ke baad
   Chain se ek din so naa saki
   Baitul huzn me woh roti thi..(2)
   Yeh zindaan me roti thi
-  
+
   4
   4. Dono jaanib hi gaasib the
   Zaalim the aur Qaatil the
   Unse fidak ko cheena gaya tha..(2)
   Inki baaliya cheeni thi
-  
+
   5
   5. Dono par hi zulm hue hai
   Dunya se jaane ke baad
   Unke roze ko tha giraaya..(2)
   Yeh zindaan me qaid rahi
-  
+
   6
   6. Dono baba ko pyaari thi
   Dono hi hassaas bhi thi
   Unke liye zindaan thi dunyaa..(2)
   Yeh zindaan me rehti thi
-  
+
   7
   7. Dono ne maasoom shahadat
   Ko nazdeek se dekha tha
   Unko mohsin yaad aata tha..(2)
   Asgar unko yaad aaya
-  
+
   8
   8. Karbe zahra karbe sakina
   Kitna milta julta tha
   Maine Qamar yeh soch ke aakhir..(2)
   Ek hi nauha likkha tha
-  
+
   9
   Baba ko hai rone wali
   Aik sakina ek zahra..(2)

@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye kya aalam e tanhai hai
-  
+
   1
   Aab aakhri ruqsat ko chale sayyede waala
   Kohram tha dil hotay thay gham se taho baala
@@ -20,7 +20,7 @@ romanLyrics: |-
   Baba ko qasam de ke bulaati thi sakina
   Sar peet'ti peeche chali jaati thi sakina
   Achay mere baba
-  
+
   2
   Achay mere baba na sakina se chupana
   Kahin bhool na jana

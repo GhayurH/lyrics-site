@@ -10,35 +10,35 @@ aliases: []
 published: false
 romanLyrics: |-
   Haey Zainab veer di maut diyan ghariyaan ghunaindi reh gaye
-  
+
   1
   Nap kay der khaimay da hy
   Takraan marayndi reh gaye
-  
+
   2
   1) Lab baysheer day hil gaaye bahan pani
   Ropayee gurbat taun baun nimani
   Tin dinaan taun pyasi hy
   Paani mangayndi reh gaye
-  
+
   3
   2) Veer day walaan chay hath Shimar da
   Saamnay bhaynee day haaye kusda
   Hun tay Ghazi aaway haaye
   Wal wal saddayndee reh gaye
-  
+
   4
   3) Na Hussain koun maarein wasta ay
   Kalli bhaynee da ay asra ae
   Veer day qatil koun hy
   Mintaan karayndee reh gaye
-  
+
   5
   4) Ghauray bhajday rehgaaye dhayndi rehgaye
   Ban kay baybas bibi rondi rehgaye
   Cha kay dhee kamsin koun hy
   Baba dayndi reh gaye
-  
+
   6
   5) Veer saaray tur gaaye Shaam thee gaye
   Ek munadi pal wich aam thi gaye

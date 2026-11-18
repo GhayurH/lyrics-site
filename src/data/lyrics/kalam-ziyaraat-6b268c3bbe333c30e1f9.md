@@ -10,27 +10,27 @@ published: false
 romanLyrics: |-
   Teeran di janamaz te sajda Hussain da
   Parhday nay saray kalma sadqa Hussain da
-  
+
   1
   Ya Rab khabar kara day wich khaimay aa na jaway
   Teeran da sun ke Zainab maqtal ch aa na jaway
   Rownda aey waikh manzar Nana Hussain da
-  
+
   2
   Kiwain karan na matam barat rul gaye aey
   Mehndi Hasan day laal di raitain te dul gaye aey
   Hoya aey tukray tukray Qasim Hussain da
-  
+
   3
   Asghar da khoon le ke keeta wozoo Imamat
   Hoyi namaz qayam rehni aey ta qayamat
   Karda tawaf Kaaba har dam Hussain da
-  
+
   4
   Bhul si kadi na sa koon Sajjad da aey rona
   Akbar de seenay barchi Asghar da naizay charna
   Reh si Ameer har dam matam Hussain da
-  
+
   5
   Bazaran chon guzar ke darbar wich khalo ke
   Kaabay de jairay bach gaye Zainab ne but oo toray

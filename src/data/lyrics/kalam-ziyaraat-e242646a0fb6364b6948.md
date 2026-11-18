@@ -14,39 +14,39 @@ romanLyrics: |-
   Haey Hussain
   HaeY Ali haey hussain..
   Haey Ali haey haey Ali...haey Hussain..
-  
+
   2
   Do baar namaz shaheed hui, Ik masjid mein Ik maqtal mein..
   Do baar baha hai khoone Ali, Ik masjid mein Ik maqtal mein..
   Do baar namaz shaheed hui, Ik masjid mein Ik maqtal mein..
-  
+
   3
   Ik pyasa tha, Ik roze se, Ik shohar tha Ik beta tha
   Ik shohar tha Ik beta tha
   Zehra pe qayamat toot gayi, Ik masjid Mein Ik maqtal mein
   Do baar namaz shahed hui, Ik masjid mein Ik maqtal mein..
-  
+
   4
   Ik binte Ali ka baba tha, Ik baap ke jaisa bhai tha
   Ik baap ke jaisa bhai tha
   Do baar yatim hui bibi, Ik masjid mein Ik maqtal mein
   Do baar namaz shaheed huvi,Ik masjid mein Ik maqtal mein..
-  
+
   5
   Ik baar Ali ko churrvane, Ik bar Hussain ke sirhane
   Ik baar Hussain ke sirhane
   Roti huvi aayi binte nabi, Ik masjid mein Ik maqtal mein..
-  
+
   6
   Ik baap ko ghar mein laate huve, Ik zeen se zameen pe aate huve
   Ik zeen se zameen par aate huve
   Sarwar ne sada Abbas ko di, Ik masjid mein Ik maqtal mein..
-  
+
   7
   Ik baar Ali ki mayat par, Ik shimr layin ke zarbat par
   Ik shimr layin ki zarbat par
   Ghash kha ke giray do bar nabi, Ik masjid mein Ik maqtal mein..
-  
+
   8
   Ik masjid e umvi ke andar, Ik baar Hussain ke laashe par
   Ik baar hussain ke laashe par

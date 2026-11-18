@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Bazaar aa raha hai bazaar aa raha hai
-  
+
   1
   Sharm o haya ki malka be-maqna o rida hai
   Sab qatl ho chuke hai shabbir ke fidaayi
@@ -19,48 +19,48 @@ romanLyrics: |-
   Kis ko bulaye haye sunta nahi hai koi
   Faryad bekason ki
   Behaal gham ke maare bemaar e karbla hai
-  
+
   2
   Kaisi hai ye qayamat hai kaisi ye ghadi hai
   Hai kaisi bekasi hai
   Sar berida hai sab ke haathon mein bibiyon ke
   Rassi bandhi hui hai
   Bemaar ke galay mein tauq e garan pada hai
-  
+
   3
   Kya zulm kya sitam hai aayi hai qaid hokar
   Aulaad mustafa ki
   Bemaar saarban ke pairon pe sar ko rakh ke
   Roti hai bediyan bhi
   Sun sun ke ye sadayein har zakhm ro raha hai
-  
+
   4
   Baalon se moo chupa kar saydaniyan pukari
   Aa kar hamay bachao
   Abbas jald aao abbas jald aao abbas jald aao
   Ek ghul hai chaar jaanib ek shor uth raha hai
-  
+
   5
   Mazloom bibiyon ko hote hai khush rula kar
   Ahle sitam jafagar
   Faryad kar rahi hai saydaniya tadap kar
   Koi dilaade chadar
   Abbas ko bulao zainab ki ye sada hai
-  
+
   6
   Chaaron taraf sakina qaidi yateem bacchi
   Hasrat se dekhti hai
   Kya waqt aagaya hai abbas ki bhatiji
   Chup chup ke ro rahi hai
   Sehmi hui hai bacchi ye khauf khaa raha hai
-  
+
   7
   Ghaiz o ghazab ke maare larza hai ek sina par
   Kadiyal jawan ka sar
   Rukta nahi hai haye ghazi ka sar sina par
   Gir jaata hai zameen par
   Aankhon se sheh ki khoon ka behna bata raha hai
-  
+
   8
   Zainab ne ro ke jis dam poocha ye shaahe deen se
   Hukme imam kya hai

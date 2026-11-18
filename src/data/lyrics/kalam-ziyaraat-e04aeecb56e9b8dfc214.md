@@ -9,17 +9,17 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye namaz ye kalma, La ilaha il Allah
-  
+
   1
   Zulm ke andheron may, deen e Mustafa jab tha
   Sar chupanay ko Islam, dar ba dar bhatakta tha
   Tu ne rasta bakhsha, la ilaha il Allah
-  
+
   2
   Haq ki rah me apna, tu agar na sar deta
   Is ka naam dunya may, koi bhi nahi leta
   Teray dam se hay Mola, la ilaha il Allah
-  
+
   3
   Torrta tha dam haey, ran may gulbadan tera
   Lut raha tha ankhon ke, samnay chaman tera

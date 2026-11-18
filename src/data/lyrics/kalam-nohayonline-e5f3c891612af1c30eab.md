@@ -12,61 +12,61 @@ published: false
 romanLyrics: |-
   Kufe mein har ek samt ajab shor bapa hai
   Sajde mein namazi pa bada zulm hua hai
-  
+
   1
   Is zulm ki shiddat se jahan kaamp raha hai
   Sab rote hai maghmoon zamane ki sada hai
   Hyder ka janaza hai ye hyder ka janaza
   Hasnain ke kaandhon pe hai hyder ka janaza
-  
+
   2
   Ay momino sarwar ki yateemi ka hai ye waqt
   Kulsoom ki shabbar ki yateemi ka hai ye waqt
   Ab uthne ko tayyar hai rehbar ka janaza
   Hyder ka janaza...
-  
+
   3
   Zainab ki bhi aankhon mein nazar aate hai aansu
   Abbas jo rote hai ajab hashr hai har soo
   Ay shio hai ye deen ke muqaddar ka janaza
   Hyder ka janaza...
-  
+
   4
   Rone ki sadayein hai ajab aah o fughan hai
   Jibreel ke honton pe musalsal ye bayan hai
   Kufe mein utha faatahe khyber ka janaza
   Hyder ka janaza...
-  
+
   5
   Hasnain se ek ye bhi wasiyat thi ali ki
   Le jaana ujaale mein na mayyat ko hamari
   Beton hai payambar ke dilawar ka janaza
   Hyder ka janaza...
-  
+
   6
   Wo bibi ke jis bibi ki todi gayi phasli
   Mazlooma wohi bibi payambar ki thi beti
   Hai ye us gham-khayi ke shohar ka janaza
   Hyder ka janaza...
-  
+
   7
   Ay momino rowo ke ali hogaye ruqsat
   Hai qaana e zehra mein bapa ek qayamat
   Uth'ta hai zamane ke bahadar ka janaza
   Hyder ka janaza...
-  
+
   8
   Kis tarha bhala inki musibat likhe koi
   Rone ke liye momino jumla hai ye kaafi
   Hyder ka janaza hai ye hyder ka janaza ye
   Hyder ka janaza...
-  
+
   9
   Is waaste ghazi ne ki sarwar se wasiyat
   Maula nahi le jaana meri qaimon mein mayyat
   Uth'ta nahi bhai se baradar ka janaza
   Hyder ka janaza...
-  
+
   10
   Hyder ke janaze ko bhi sarwar ne uthaya
   Irfan sharar phat'ta hai ye sunke kaleja

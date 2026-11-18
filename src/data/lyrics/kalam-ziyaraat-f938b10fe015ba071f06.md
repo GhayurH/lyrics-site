@@ -14,53 +14,53 @@ romanLyrics: |-
   Lashay jawan aur khaimon ko dekha
   Dariya ko dekha phir yeh pukara
   Ab yeh salamay aakhir hay mera.)
-  
+
   2
   Abbas aajao bhai akela hay
   Tanha musafir ko lakhon nay ghera hay
-  
+
   3
   1) Tum nay nah dekhi ghurbat humari
   Zainab ti laaye meri sawari
   Rukhsat ka meri manzar ajab tha
   Seenay say lag jawo
   Bhai akela hay
-  
+
   4
   2) Jab say ho bichray Abbas hum say
   Ahle haram hai liptay alaam say
   Kaisay jeeagi baali Sakina
   Kya hoga batlawo
   Bhai akela hay
-  
+
   5
   3) Lashkar kahan ka jab tum nahin ho
   Dada toh khush hay abh tum nahin ho
   Kitna akela kitna hun tanha
   Seenay main hai ghawo
   Bhai akela hay
-  
+
   6
   4) Din bhaar uthaye Kitnay janazay
   Ab Kaun hai jo dayga dilasay
   Hotau agaar tym dayte dilasa
   Aao chalay aao
   Bhai akela hay
-  
+
   7
   5) Mujh paar barastay ye sang dekho
   Baykas ki tanha ki jang dekho
   Dekho nah tootay Nana say waada
   Himat barha jaawo
   Bhai akela hay
-  
+
   8
   6) Jab Shimaar khanjaar ko phearta tah
   Qatil nay Shah say khud ye suna tah
   Pyasa gala us dum ye pukara
   Soorat dikha jaawo
   Bhai akela hay
-  
+
   9
   7) Saar Shah ka aaya nokay sina paar
   Aayi sada ye Rehan o Sarwar

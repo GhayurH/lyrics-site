@@ -9,61 +9,61 @@ aliases: []
 published: false
 romanLyrics: |-
   Ik musafir qaid hay audio file
-  
+
   1
   Ik musafir qaid hay
-  
+
   2
   Abide beemar
-  
+
   3
   Ik musafir qaid hay beemar hay
-  
+
   4
   Ik musafir qaid hay beemar hay
   Karwane sabr kaa salaar hay
   Ik musafir qaid hay beemar hay
-  
+
   5
   Dard sar pe pawo me hayn beriyan
   Aur gale mein tawq ka ik haar he
   Ik musafir qaid hay beemar hay
-  
+
   6
   Khoon ankhon se rawaa phir hogaya
   Samne jo Shaam ka bazaar hay
   Ik musafir qaid hay beemar hay
-  
+
   7
   Haye qismat wa gharibi ya Hussain
   Karbala mein lut gaya ghar bar hay
   Ik musafir qaid hay beemar hay
-  
+
   8
   Gash pe gash maula ko khayme me pare
   Har qadam chalne se wo lachaar hay
   Ik musafir qaid hay beemar hay
-  
+
   9
   Is se zyadaa aur kya honga sitam
   Maa behen sab beridaa darbar hay
   Ik musafir qaid hay beemar hay
-  
+
   10
   Haye aayaate quraani be ridaa
   Rehm malik majmae aghyaar hay
   Ik musafir qaid hay beemar hay
-  
+
   11
   Khoon ankho se rawaa phir hogaya
   Samne jo Shaam ka bazaar hay
   Ik musafir qaid hay beemar hay
-  
+
   12
   Deydo chadar har qadam kehta raha
   Syede Sajjad jo salaar hay
   Ik musafir qaid hay beemar hay
-  
+
   13
   Ik musafir qaid hay beemar hay
   Karwane sabr kaa salaar hay

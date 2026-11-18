@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Akbar tere seene se sina kaise nikalun
-  
+
   1
   Bas itna bata de ke jigar kaise sambhalun
   Kehti hai mere laal meri maamta mujhse
   Is dard ko tere mai kaleje mein chupalun
-  
+
   2
   Gar ho na aziyaat jo tere zakhme jigar mein
   Ek baar mere laal galay tujhko lagalun
-  
+
   3
   Ay karbobala tu hi bata de koi rasta
   Mai maut se kaise ali akbar ko bachalun
-  
+
   4
   Kuch dayr tehar ja mere bache tu jahan mein
   Zakhmi tera seena tere dada ko dikhalun
-  
+
   5
   Ay waqt e qaza de de tu itni mujhe mohlat
   Mai apne jawan laal ko dulha to banalun
-  
+
   6
   Khulti nahi aankhein ye nahi bolta mujhse
   Is neend se kaise ali akbar ko jagalun
-  
+
   7
   Bosa liya peshani e akbar ka ye keh kar
   Behte huwe ashkon ka mai sehra to sajalun
-  
+
   8
   Baithe thay zameen par yehi kehte huwe sarwar
   Ab dil ki tamanna ke charaghon ko bujhalun
-  
+
   9
   Is baap ki himmat ko zara de de sahara
   Maqtal ki zameen se mai tere laash uthalun
-  
+
   10
   Jab uth na saki laash to shabbir ne socha
   Bachon ko madad ke liye qaime se bulaalun
-  
+
   11
   Masroof e aza hote hi dil kehta hai yawar
   Aansu ali akbar ki musibat pa bahalun

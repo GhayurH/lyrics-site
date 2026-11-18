@@ -11,31 +11,31 @@ published: false
 romanLyrics: |-
   Babul hawaij Haider da laal ay Paykar wafa da mola Abbas ay
   Zahra da sadqa sun lay duawan, Dukhiya di mola teray tay aas ay
-  
+
   1
   1) Teray alaam ton millni shifawana, Tu taliyan nay mola qazawan
   Deway tu bachray mawan nu mola, Nahi taalda ay teri khuda ay
-  
+
   2
   2) Teray tay raazi hay pakh Zahra, Mamnon teray imam barah
   Manzoor kaarlay tu saab duawan Haar matami di teray tay aas ay
-  
+
   3
   3) Mushkil khusha tu hajat rawa tu Vich Shaam Zainab day rahi sada tu
   Aabad kar day haar khaali jholi Teray alam vich Asghar di pyaas ay
-  
+
   4
   4) Maqrooz jera vi hay molayi, Kar usdi mola mushkil kushayi
   Sadqa Sakina da mola Ghazi Kaar mominah di hajat rawa ay
-  
+
   5
   5) Hum shakal Haider doja Ali ay, Haider day vangon shair-e-jari ay
   Tu kibriya ay mola wafa da, Tenu dua tay Zahra di khaas ay
-  
+
   6
   6) Jis nu vi chahwain deywe badshahi, Tera alam ay deway gawahi
   Aj vi buland hay parcham hay tera Jo pyaasayan day ghum vich udaas ay
-  
+
   7
   7) Johar diyan sun mola duawan, Har waqt devay ayho sadawan
   Karbobala di dharti tay mola Gham khawar tera babe qaza ay

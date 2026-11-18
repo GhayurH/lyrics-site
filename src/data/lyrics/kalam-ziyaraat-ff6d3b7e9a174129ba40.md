@@ -10,27 +10,27 @@ published: false
 romanLyrics: |-
   Andheri qaid hay ab sans meri thamne wali hay
   Chalay aao meray baba Sakina marnay wali hay
-  
+
   1
   Reha ho kar chalay jayain gay sab hi apnay apnay ghar
   Magar beti tumhari jan ab de de gi ro ro kar
   Ye lagta hay yahan ab qabar meri bannay wali hay
-  
+
   2
   Ujalay may may rehti thi bhula baithay ho kia bolo
   Jala do shama koi aa ke ye maloom hay tum ko
   Andharay may tumhari bachchi kitna darnay wali hay
-  
+
   3
   Tumharay seenay par baba mujhay sonay ki adat thi
   May ashura se ab tak chain se so hi nahi payi
   Bohat need aa rahi hay ankh meri lagnay wali hay
-  
+
   4
   May jis ki muntazir thi moat wo paigham le aayi
   Tumharay pas aanay ki ghari nazdeek hay aayi
   Meray sar se museebat qaid ki ab talnay wali hay
-  
+
   5
   Mila hukm e rehai hay magar may ghar na jaoon gi
   Juda reh kar may sab se sham ka zinda basaoon gi

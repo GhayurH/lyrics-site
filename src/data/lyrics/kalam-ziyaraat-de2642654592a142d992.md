@@ -16,46 +16,46 @@ romanLyrics: |-
   Tayz qadam se chalta aya, poch ansoo Zainab dekhi
   Dekheti kya hai uska baba, baap ke sine par sar rakhkar
   Bilak bilak kar, tadap tadap kar, aysa rowi
-  
+
   2
   Na ro zainab na ro, haan meray jigar ke tukrre na ro
   May kaise na rowu baba may ujarr gaye baba
-  
+
   3
   1. Ha mera Akber, Ha mera asger, Ha mera Ghazi
   Ha tera dilber, Ha me ujarr gayi baba
   Na ro zainab na ro, haan meray jigar ke tukrre na ro
-  
+
   4
   2. Ha ik din me, Ha gar ujda, Na reh bhayi
   Ho na beta, Ha me ujad gayi baba
   Na ro zainab na ro, haan meray jigar ke tukrre na ro
-  
+
   5
   3. Ha me bekas, Ha me muztar, Ha pardesi
   Ha me beggar, Ha me ujad gayi baba
   Na ro zainab na ro, haan meray jigar ke tukrre na ro
-  
+
   6
   4. Ha gaya ghazi, Ha darya par, Ha giray bazoo
   Ha kat kat kar, Ha me ujad gayi baba
   Na ro zainab na ro, haan meray jigar ke tukrre na ro
-  
+
   7
   5. Sarwar pe, Ha chala khanjar, Me hogayi
   Ha be chadar, Ha me ujad gayi baba
   Na ro zainab na ro, haan meray jigar ke tukrre na ro
-  
+
   8
   6. Ha mara hai, Ha aada ne, Ha pyaso ko
   Ha lashkar ko, Ha me ujad gayi baba
   Na ro zainab na ro, haan meray jigar ke tukrre na ro
-  
+
   9
   7. Ha ik chadar, Me jab dekha, Ha qasim ka
   Ha jab laasha, Ha me ujad gayi baba
   Na ro zainab na ro, haan meray jigar ke tukrre na ro
-  
+
   10
   8. Ha zindan me, Ha jaana hai, Ha rasi hai
   Ha shaana hai, Ha me ujad gayi baba

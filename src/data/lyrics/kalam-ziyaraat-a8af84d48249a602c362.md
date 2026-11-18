@@ -9,22 +9,22 @@ aliases: []
 published: false
 romanLyrics: |-
   Wa waila sad wa waila
-  
+
   1
   Haey Pyasa zibha kar diya
-  
+
   2
   Maara gaya Syed Mazloom
-  
+
   3
   Haey Asghar ka chaida gala
-  
+
   4
   Haey Chadar cheeni Karbala
-  
+
   5
   Haey Ya Janab e Syeda
-  
+
   6
   Wa waila wa waila wa waila sad wa waila
   Tu hay Shaheed e Karbala
@@ -58,7 +58,7 @@ romanLyrics: |-
   Ke bahar e deen e Khuda rahay
   Na jama jo rang bahar ka
   To lahoo bhi apna mila diya
-  
+
   7
   Hussain Imam Hussain Haider
   Hussain Imam Hussain Haider

@@ -13,37 +13,37 @@ romanLyrics: |-
   Sham ne maar diya mujhe sham ne maar diya
   Jab tak bhi rahe zinda sajjad ka nauha tha
   Sham ne maar diya mujhe sham ne maar diya
-  
+
   1
   Kaise na bahe khoon ankhon se khanjar hi chala hai aisa
   Dam meri jawani tod chuki bazaar hai maqtal mera
   Wallah mai zinda hoo kehne ke liye warna
-  
+
   2
   Phir-jata hai meri nazron mein bazaar e sham ka manzar
   Mehsoos ye hota hai mujhko hai saath phupi be-chadar
   Tay mujhse nahi hota bazaar madine ka
-  
+
   3
   Kehti hai shariyat sar na khule awaaz e azan jab aaye
   Par ahle haram sar par apne haaton ko bhi rakh na paaye
   Rassi ne aseeron ko is tarha se jakda tha
-  
+
   4
   Meeras shahadat hai meri kya ye bhi mera wirsa tha
   Phupiyon ko liye be-chadar is shehr se guzra tha
   Sajjad ka maqtal hai is shehr ka har koocha
-  
+
   5
   Jab haath dua ko uth'te hai dil gham se mera phat'ta hai
   Aati hai sakina yaad mujhe mehsoos yehi hota hai
   Jaise mere haaton par rakha hai koi laasha
-  
+
   6
   Gar ahle madina tum apne ghar mujhko bulana chaho
   Khushiyon mein nahi aa sakta kabhi majlis ka farsh bichao
   Baakhi nahi khushiyo se ab koi mera rishta
-  
+
   7
   Bazaar mein zainab ka jaana kya maut se kam eeza thi
   Kyun zehr diya zaalim mujhko ab iski zaroorat kya thi

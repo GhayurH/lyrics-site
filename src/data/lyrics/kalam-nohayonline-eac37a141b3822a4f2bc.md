@@ -12,44 +12,44 @@ published: false
 romanLyrics: |-
   Laash par pahunche to ye kari faryad
   Abbas abbas abbas
-  
+
   1
   Bhaiya mai aagaya hoon kuch to batao uth kar
   Kis ne jafa se maara jarrar sher e safdar
   Naale thay shaahe deen ke ye kya hua baradar
   Hai waqt bekasi ka aur ghere hai sitamgar
   Tum par ye zulm dha kar hum ko kiya hai muztar
-  
+
   2
   Bhaiya mai aagaya...
   Shabbir tujhpe qurban kuch kehna hai batao
   Sar apna ab to mere zaanu se mat hatao
   Hasrat nikalo dil ki ek baar bhai keh kar
-  
+
   3
   Bhaiya mai aagaya...
   Kaise bhatiji bhaiya seh paayegi ye sadma
   Dar par khadi hai dekho khaali liye wo kooza
   Is aas mein ke ammu laayenge pani bhar kar
-  
+
   4
   Bhaiya mai aagaya...
   Pooche sakina mujhse ehwaal jab tumhara
   Itna batado bhaiya kya keh ke doon dilaasa
   Qaime mein jaunga jab mashk o alam ko le kar
-  
+
   5
   Bhaiya mai aagaya...
   Quwwat na baazuon mein na zor hai kamar mein
   Hai waqt kaafi baaqi bhaiya mere safar mein
   Manzil bahot hai mushkil paunga usko kyun kar
-  
+
   6
   Bhaiya mai aagaya...
   Mere anees dekho kis darja hai pareshan
   Uth kar madad ko pahuncho kuch mushkilein ho aasan
   Aisa na ho aza se moo pher le ye muztar
-  
+
   7
   Bhaiya mai aagaya...
 # source_id: nohayonline:eac37a141b3822a4f2bc

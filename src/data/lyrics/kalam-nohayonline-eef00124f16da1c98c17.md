@@ -16,31 +16,31 @@ romanLyrics: |-
   Phiri aale nabi dar dar qayamat kyun nahi aayi
   Jala daaman raha khamosh ye charkhe kohan kyun kar
   Sakina ke chine gauhar qayamat kyun nahi aayi
-  
+
   2
   Wo nazuk sa gala aur hurmala ka teer wo bhaari
   Tadap ke reh gaye asghar qayamat kyun nahi aayi
-  
+
   3
   Qayaam e umme laila ka wo manzar yaad hai hum ko
   Huwe rukhsat ali akbar qayamat kyun nahi aayi
-  
+
   4
   Kati sehre ki ladiyan hogaya zakhmi badan saara
   Hui mehendi bhi khoon may tar qayamat kyun nahi aayi
-  
+
   5
   Guzarta hi raha ek kund khanjar sheh ki gardan se
   Tadapti hi rahi maadar qayamat kyun nahi aayi
-  
+
   6
   Doham ki subh se qaid e alam ki subhe rukhsat tha
   Bapa hota raha mehshar qayamat kyun nahi aayi
-  
+
   7
   Ab is se bad ke zehra pe musibat aur kya hogi
   Khule saydaniyo ke sar qayamat kyun nahi aayi
-  
+
   8
   Lehed pe sheh ki baithe sochte hai dayam o yazdan
   Luta zehra ka poora ghar qayamat kyun nahi aayi

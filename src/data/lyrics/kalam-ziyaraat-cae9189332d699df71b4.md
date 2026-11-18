@@ -13,28 +13,28 @@ romanLyrics: |-
   Aj Raat Thakeya Ik Khawab Nana
   Ik Khawab Nana, Haey Khawab Nana
   Akbar Bhera Nou Lagi Saang Nana
-  
+
   2
   Sarday Nay Khaymay Oudian Suwawan
   Cho Gird Lagiyan Hin Khooni Bhawan
   Arshan Day Ronday Sardar Nana
   Sardar Nana, Sardar Nana
   Akbar Bhera Nou Lagi Saang Nana
-  
+
   3
   Wich Kerbala Day udiyan Nay Khakan
   Aj Dee Day Walay Hoeeyan Nay Raathan
   Khaymay Jalaey Saray Aam Nana,
   Saray Aam Nana Saray Aam Naha
   Akbar Bhera Nou Lagi Saang Nana
-  
+
   4
   Amma Fiza Nay Baoun Paey Vainey
   Ghash Ker Kay Dig Paee Masuma Bheney
   Ummath Nay Keetha Nuksan Nana
   Nuksan Nana, Nuksan Nana
   Akbar Bhera Nou Lagi Saang Nana
-  
+
   5
   Jiday Khulay Gaysoo Sughra Da Weer
   Ey Wich Kerbala Day Hoee Akheer Ey

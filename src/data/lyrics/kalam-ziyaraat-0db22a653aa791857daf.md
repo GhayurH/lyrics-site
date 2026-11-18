@@ -10,32 +10,32 @@ published: false
 romanLyrics: |-
   Kahan Kahan Se Guzarta Raha Hussain Ka Sar,
   Sina Ki Nok Chadhaya Gaya Hussain Ka Sar,
-  
+
   1
   Ae Musalmaan Kaat Te Ho Tum Yeh Kis Ka Gala,
   Nahi Hai Khouf E Khuda Tum Sabhi Ko Ahle Jafa,
   Ali Ke Bughz Main Kaataa Gaya Hussain Ka Sar,
-  
+
   2
   Lain Kaat Ke Sar Sheh Ka Has Raha Tha Kabhi,
   Sar Uss Ghareeb Ka Pathhar Se Maartey They Sabhi,
   Har Aik Zakhm Ko Sehta Raha Hussain Ka Sar
-  
+
   3
   Hussain Rab Se Juda Hai Na Rab Hai Unsey Juda,
   Khuda Ke Ishq Main Woh Tera Akhri Sajda,
   Quran Parhke Sunata Raha Hussain Ka Sar,
-  
+
   4
   Enaam Ke Liye Khuli Ne Kardiya Woh Sitam,
   Sar E Hussain Ko Theli Main Baandh Kar Uss Dam,
   Tandoor Main Woh Chupaney Laga Hussain Ka Sar,
-  
+
   5
   Haye Woh Shaam Ka Bazaar Woh Zainab Ka Safar,
   Kabhi Kufa Toh Kabhi Shaam Phiri Hai Dar Dar,
   Nazar Jhuka Ke Tadapta Raha Hussain Ka Sar,
-  
+
   6
   Hai Akhtari Dar E Zindaan Main Muntazir Bibi,
   Le Ayenge Mere Baba Zaroor Milne Abhi,

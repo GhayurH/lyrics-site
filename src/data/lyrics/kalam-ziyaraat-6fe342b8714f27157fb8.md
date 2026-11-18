@@ -21,75 +21,75 @@ romanLyrics: |-
   Aale Syedun Nisa
   Dukhtran e Murtaza
   Kehtay thay Sheh e Huda - Al firaq al wida
-  
+
   2
   Aale Syedun Nisa - Al firaq al wida
   Dukhtran e Murtaza - Al firaq alwida
   Kehtay thay Sheh e Huda - Al firaq al wida
-  
+
   3
   Ao Zainab e Hazeen dikhain tum ko haal e zaar
   Zakhm e tan hazar hain jigar alam se hay figar
   Jawan laal mar gaya kaleja barchi se chida
   Kalega barchi se chida Hussain dekhta raha
   Al firaq al wida Al firaq al wida
-  
+
   4
   Haey mera bhai qatl ho gaya Furat par
   Kuch maza nahi raha hay meri is hayat par
   Reh gaya akaila may ho gaye juda akhi
   Ho gaye juda akhi zindagi muhaal hay
   Al firaq al wida Al firaq al wida
-  
+
   5
   Mera bezuban jahanse tashna lab guzar gaya
   Aab ke sawal par sagheer ka gala chida
   Sula ke us ko qabr may iba ko apni jhaar ke
   Iba ko apni jharr ke Rubaba ham bhi jatay hain
   Al firaq al wida Al firaq al wida
-  
+
   6
   As salam aey Fatima Rabab Zainab e Hazeen
   Salam Fizza Lila aur Sakina jaan e Shah e deen
   Hussain marnay ko chala shaheed kunba ho gaya
   Shaheed kunba ho gay ajeeb waqt aa gaya
   Al firaq al wida Al firaq al wida
-  
+
   7
   Alaika minni as salam aey dukhtar e Ali Wali
   Salam sakinan e khaima e Hussain bin Ali
   Ghareeb o bedayar ka salam dilfigar ka
   Salam dilfigar ka qabool bibyon karo
   Al firaq al wida Al firaq al wida
-  
+
   8
   Sada ye suntay hi hua haram may nala o buka
   Koi to lipti paoon se kisi ne tham li iba
   Kiye theen halqa bibyan buka se hashr tha bapa
   Buka se hashr tha bapa laboon pe yehi Noha tha
   Al firaq al wida Al firaq al wida
-  
+
   9
   Kharra tha sar jhukaye choor zakhmo se Nabi ka laal
   Ayan tha chehron se haram se bekasi gham o malal
   Kaha Hussain ne behan karo na is tarha mehan
   KAro na is tarha mehan tumhe to karna hay safar
   Al firaq al wida Al firaq al wida
-  
+
   10
   Hussain ban ke karna hay yahan se Shaam ka safar
   Chalay ga sath sath naizay par bahan hamara sar
   Bandhay gi bazo may rasan shakista ho ga apirahan
   Shakista ho ga pairahan karin gay ye shaqi jafa
   Al firaq al wida Al firaq al wida
-  
+
   11
   Anees rukhsat e Hussain kis tarha se ho bayan
   Bandhi hui theen bibyon ki soz e gham sehichkiya
   Haram bilak ke rotay thay jigar figar hotay thay
   Jigar figar hotay thay buland hoti thi sada
   Al firaq al wida Al firaq al wida
-  
+
   12
   Ya Abbasa
   Ya Mazlooma

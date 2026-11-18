@@ -13,7 +13,7 @@ romanLyrics: |-
   Ash’hadu Anna Ali un Wali Ullah
   Ali,  Ya Ali Ya Ali (3)
   Haye Ali Haye Ali
-  
+
   2
   Zahra say pocho kia hai Ali un Wali Ullah
   Iss k liyay Batool ka do bar ghar jala
@@ -21,48 +21,48 @@ romanLyrics: |-
   Ummat nay Fatima ko kahan dukh nahi dia
   Sub kuch lutaya deen ki hifazat k wastay
   Or ab Zahra ujjar gai hai wallayat k wastay
-  
+
   3
   Darbar may bachanay,  gai Fatima Zahra, Ali un Wali Ullah
   Sunta na tha Madinay may Zahra ki koi baat
   Lay ker Hassan Hussain ko her subah apnay sath
   Ghar ghar pe yad ja k,  dilate thee Syeddah, Ali un Wali Ullah
-  
+
   4
   Gham may Abu Turab k ghut ghut k mer gai
   Dar perdah Fatima ki waseeat ye he tu thee
   I na wo janazay per,  jis nay nahi perha, Ali un Wali Ullah
-  
+
   5
   Toti hoi theen pasallian dam tha ruka hoa
   Tha Syeddah pe jalta hoa der gira hoa
   Phir bhi lab e Batool pe,  jari the ye sada, Ali un Wali Ullah
-  
+
   6
   Zainab pukari aye meray mazloom bay’watan
   Waada tumhari laash pe kerti hai ye behan
   Ik din zaror Sham ki,  galli’un may gonjay ga, Ali un Wali Ullah
-  
+
   7
   I Najaf say Shaam e Gharibaan may jb Ali
   Zainab ye keh ker apnay pidr say lipt gai
   Khanjar talay bhi bhai k,  zakhami lab’un pe tha, Ali un Wali Ullah
-  
+
   8
   Boli Sakina aya jo zindaan may Shah ka sir
   Kaisay bataon Sham ka kaisay kia safr
   Gir gir k khoon kaan’un say,  deta raha sada, Ali un Wali Ullah
-  
+
   9
   Zindaan may aik qabr bananay k wastay
   Ham’sheer ka janazah uthanay k wastay
   Naad e Ali ki shakal may,  Sajjad nay perha, Ali un Wali Ullah
-  
+
   10
   Na’meharm’un ki bheer the darbar e Sham may
   Zainab nay day k khutba zaban e Imam may
   Bay’waqt ki azan may,  dabnay nahi dia, Ali un Wali Ullah
-  
+
   11
   Maa ki lehad pe bain Takallum they beti k
   Pehlo pe zakham kha k bachaya tha aap nay

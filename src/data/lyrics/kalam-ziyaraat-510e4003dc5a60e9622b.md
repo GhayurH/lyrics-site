@@ -11,26 +11,26 @@ published: false
 romanLyrics: |-
   Main Sar Uryan haan Abbas Kewain Shaam jawan gin
   Rida day baaj walan dan
-  
+
   1
   Kewain Parda Banawan Gin.
-  
+
   2
   Teray Lashay tay roi nahin, Te tur pain Shaam tay pasay
   Hoya Wada mein ruwan lai, teri turbat tay awan gin.
-  
+
   3
   Zara na fikr kar veeran, Jay safraan which meinu milyan
   Main Apnay Hisay da pani, wi balan nun pilanwan gin.
-  
+
   4
   Meray babay kun hasrat rai, mera lehja o nahin sunyan
   Main which darbar das veeran, keewain khutba sunawan gin.
-  
+
   5
   Wafa day shehanshan kun din, ali di jaan aadi rai
   Tu sham awan day abid kun, main Ghazi ban wakhan wa gin.
-  
+
   6
   Kewain Parda Banawan Gin.
 # source_id: ziyaraat:510e4003dc5a60e9622b

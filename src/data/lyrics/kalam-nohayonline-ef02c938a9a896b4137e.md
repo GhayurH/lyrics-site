@@ -12,61 +12,61 @@ published: false
 romanLyrics: |-
   Rasan may haath bandhe hai behan hai be-parda
   Sina se sar na giraye to kya kare abbas
-  
+
   1
   Haye abbas haye haye abbas haye haye abbas
   Padar ki laash se usko chudaya jaata hai
   Sitam hai naaqe pe tanha bithaya jaata hai
   Rasan may bali sakina ka bandh raha hai gala
-  
+
   2
   Haye abbas haye haye abbas...
-  
+
   3
   Wo kis tarha se tasalli de aake maadar ko
   Kiya hai dasht may do baar zibha asghar ko
   Lehad se aagaya naize pe jism asghar ka
-  
+
   4
   Haye abbas haye haye abbas...
-  
+
   5
   Chupa ke baalon se moo sharmsaar hoti hai
   Wo pusht e naaqa pe ab khud sawaar hoti hai
   Ye kaisa waqt hai zahra ki betiyon pe pada
-  
+
   6
   Haye abbas haye haye abbas...
-  
+
   7
   Dhyaan laasha e shabbir se hatana tha
   Dobara sayyede sajjad ko bachana tha
   Giri hai naaqe se maqtal may saani e zahra
-  
+
   8
   Haye abbas haye haye abbas...
-  
+
   9
   Kahin pe qasim o akbar kahin pe aun ka sar
   Kahin hai laal ruqayya ke aur kahin asghar
   Wo bache naizon pe hai godh may jinhe paala
-  
+
   10
   Haye abbas haye haye abbas...
-  
+
   11
   Hai neel chehre pe itne tamache maare hai
   Layeen ne khaych ke kaano se durr utaare hai
   Ke dono kaano se masoom ke lahoo behta
-  
+
   12
   Haye abbas haye haye abbas...
-  
+
   13
   Sar uska kaise sina par koi utha ke chale
   Jo sheh ke saamne nazrein sada jhuka ke chale
   Takhaza mir takallum hai uski ghairat ka
-  
+
   14
   Haye abbas haye haye abbas...
 # source_id: nohayonline:ef02c938a9a896b4137e

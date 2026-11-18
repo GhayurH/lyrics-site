@@ -10,26 +10,26 @@ aliases: []
 published: false
 romanLyrics: |-
   Aey raat na dhalna kay ujaar jaaye gi Zainab
-  
+
   1
   Suraj na nikal na kay ujaar jaaye gi Zainab
-  
+
   2
   1) Ai raat tere dam se sala-mat hai abhi tak
   Dhal tay hi tere hashr mein gir jaaye gi Zainab
-  
+
   3
   2) Ai raat subho ho gi tou kohi na rahay ga
   Beemar ko phir lee kay kidhar jaaye gi Zainab
-  
+
   4
   3) Abid ka gala taukh hai aur paao mein bedi
   Bandwa kay rasan Shaam talak jaaye gi Zainab
-  
+
   5
   4) Shabbir ne ki thi jo nasehat dam e rukhsat
   Kyu kar na rasan bazu mein band waaye gi Zainab
-  
+
   6
   5) Khutb-o se tere kaamp geya shaam ka darbaar
   Kirdar tou hai dar hi ka apnaaye gi Zainab

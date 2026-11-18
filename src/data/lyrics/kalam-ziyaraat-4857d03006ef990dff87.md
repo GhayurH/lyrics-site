@@ -10,19 +10,19 @@ published: false
 romanLyrics: |-
   Jo khaar gul ke yameen o yasar rehta hay
   Qareeb jitna bhi rehta ho khaar rehta hay
-  
+
   1
   Jo tap ke aaye ghadeer aur jang e khaibar se
   Unhi ko bughz e Ali ka bukhar rehta hay
-  
+
   2
   Najaf may khuld may kaabay may qalb-e-momin may
   Kahan kahan mera parwardigar rehta hay
-  
+
   3
   Na haadsaat e zaman na fikr barzakh o hashr
   Ke gird naad-e-Ali ka hisaar rehta hay
-  
+
   4
   Agar cheh hajj bhi karay aur namaz o roza bhi
   Adoey aal e nabi beshumar rehta hay

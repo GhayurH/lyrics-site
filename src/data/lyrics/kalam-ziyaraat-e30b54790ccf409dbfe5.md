@@ -10,43 +10,43 @@ published: false
 romanLyrics: |-
   Ya Zahra Ya Zahra
   Ya Zahra Ya Zahra..(8)
-  
+
   1
   Aadhi raat ki taariki me lekar chashme tar..(2)
   Mere maula aa jate hai kabre Zahra par
   Haaye karbe imaame zamaana kabre Zahra par
   Ya Zahra Ya Zahra..(2)
-  
+
   2
   Sar ko jhuka kar kabr pe aakar rote rehte hai
   Chupke chupke jaane kya kya maula kehte hai
   Subbat alaiyya ki hai sadae marqad ke andar
   Ya Zahra Ya Zahra..(2)
-  
+
   3
   Jaise baade asr hua tha laashe pisar ka haal
   Maa ki marqad ko kar daala zaalim ne paamaal
   Door talak bus ret hai phaili mitti aur kankar
   Ya Zahra Ya Zahra..(2)
-  
+
   4
   Ek shikasta pehlu ki aawaaz me kya hai dard
   Arshe ilaahi kaap raha hai chehrae dee hai zar
   Ashk mei doobi hui mitti hai rote hai patthar
   Ya Zahra Ya Zahra..(2)
-  
+
   5
   Ghaibat ke parde me hu mehroomi toh dekhe
   Dadi apne pote ki mazloomi toh dekhe
   Daadi meri ankho me hai shaam kaa har manzar
   Ya Zahra Ya Zahra..(2)
-  
+
   6
   Raat ki aus hai din ki dhoop ka hai aazaar yaha
   Qabr ke upar saaye kaa bhi koi nahi imkaa
   Jaise zainab aur kulsum ke sar pe nahi chaadar
   Ya Zahra Ya Zahra..(2)
-  
+
   7
   Bibi farmaati hai baaba aapke baad mujhpe wo musibate aayi
   Jo dino par padti to taareek raaton me badal jaate
@@ -54,31 +54,31 @@ romanLyrics: |-
   Aaj bhi mahal shaah ke roushan hai
   Magar teri kabr mutahhar pe na koi saaebaa hai na koi diya jalta hai
   Ajab nahi ke kabre paighambar se aawaaz aati ho
-  
+
   8
   Beti teri qabr pe abtak koi nahi saaya
   Jaise tha begoro kafan karbal me tera jaaya
   Kehti hai mitti mei ati yeh qabre paighambar
   Ya Zahra Ya Zahra..(2)
-  
+
   9
   Arshe ilaahi hiltaa hai toh taare rote hai
   Dadi aapki mazlumi pe saare rote hai
   Girya kunaa hai saare imaam aur saare paighambar
   Ya Zahra Ya Zahra..(2)
-  
+
   10
   Marqad se aati hai sada yeh binte payambar ki
   Beta tere karb se waqif hai teri daadi
   Mohsin ke bhi khoon ka badlaa wajib hai tujhpar
   Ya Zahra Ya Zahra..(2)
-  
+
   11
   Dadi aapke paas hai ab bhi kurta asgar ka
   Dadi mujhko bus lena hai mohsin kaa badlaa
   Aap dua de khul jaae bus ghaibat kaa yeh dar
   Ya Zahra Ya Zahra..(2)
-  
+
   12
   Haath me hai is waqt bhi mere haider ki talwaar
   Mai toh har ek surat me hu aane ko tayyar

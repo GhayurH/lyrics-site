@@ -10,27 +10,27 @@ published: false
 romanLyrics: |-
   Sadaat ne matam ka phir farsh bichaya hay
   Gham mola Taqi tera kainat pe chaaya hay
-  
+
   1
   Bachpan may yateemi ka sadma tha saha tu nay
   Tujhe zehr jawani may zaalim ne pilaya hay
-  
+
   2
   Aey Motasim billah laanat ho sada tujh pe
   Ismat ka diya tu nay dhokay se bujhaya hay
-  
+
   3
   Pardes may thay tanh afsoos Taqi Mola
   Jab waqt sahadat ka mazloom ke aaya hay
-  
+
   4
   Zindaan may ro ro ke kehtay thay Taqi Mola
   Aabid ki aseera nay haey mujh ko rulaya hay
-  
+
   5
   Yasrab se Naqi rotay Baghdad may aayey hain
   Mola ka janaza yun Mola ne parrhaya hay
-  
+
   6
   Hay Mola Jawwad apni bakhshish ke liye kaafi
   Jo ashk teray gham may ankhoon ne bahaya hay

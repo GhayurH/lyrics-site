@@ -16,49 +16,49 @@ reciter: "Syed Raza Abbas Zaidi"
 romanLyrics: |-
   Betiyon Kay Pass Lejao Mujhe Syed Raza Abbas Zaidi
   Jab Chali Talwar Haye Zehar Mein Dobi Hoi.
-  
+
   1
   Sar Shikasta Ho Gaya Uth Na Sakay Maula Ali.
   They Sirhaney Shabar-o-Shabeer Our Abbas Bhi.
   Baap Ko Jab Betiyon Ki Yaad Tarpaney Lagi.
   Dekh Kar Beton Ka Chehra Yeh Ali Kehne Lagay.
-  
+
   2
   Waqt Kam Hai Betiyon Ke Pas Le Jao Mujhe.
   Dekh Kar Zainab Ko Meri Sans Mein Sans Aaye Gi.
   Dekh Kar Kulsoom Ko Yeh Zindagi Barh Jaye Gi.
   Baap Kuch Din Our Jee Le Betiyon Ke Samne.
-  
+
   3
   Zakhm Zarbat Ka Wahan Yeh Dekhna Zahir Na Ho.
   Khon Sar Se Saaf Kar Ke Phir Amama Bandh Do.
   Betiyaan Ghabra Na Jaein Meri Halat Dekh Ke.
   Haye Phir Shabeer Se Rotay Hoye Bolay Ali.
-  
+
   4
   Woh Agar Mangay Tu De Dena Nishani Baap Ki.
   Yeh Musalla Sath Rakh Lo Meri Zainab Ke Liye.
   Iss Liye Hi Baap Se Beti Ka Rishta Hai Ajab.
   Betiyaan Hain Baap Ki Maiyyat Pe Ronaq Ka Sabab.
-  
+
   5
   Khush Naseebi Hai Khuda Beti Atta Kar De Jisay.
   Apne Baba Ke Janazay Par Jo Roein Fatima.
   Oss Ghari Main Apni Zainab Ke Liye Rota Raha.
   Kitna Mushkil Hai Bicharna Betiyon Ka Baap Se.
-  
+
   6
   Kal Main Jab Kulsoom Ke Ghar Se Chala Roney Lagi.
   Mere Seene Se Lipat Kar Mujh Se Yeh Kehne Lagi.
   Ja Rahe Hain Laut Kar Phir Aaeingay Kab Ghar Mere.
   Le Chalo Ab Betiyon Se Door Main Kaisay Rahon.
-  
+
   7
   Zainab-o-Kulsoom Ke Ja Kar Main Shaney Chom Loon.
   Haan Issi Kofay Mein Hoon Gay Hath Dono Ke Bandhay.
   Dekh Kar Abbas Ka Chehra Ali Ne Yeh Kaha.
   Samne Rehna Hamesha Orh Kar Meri Abba.
-  
+
   8
   Betiyaan Jeeti Rahein Chehra Tumhara Dekh Ke.
   Haye Zeeshan-o- Raza Jab Hukam Baba Ka Suna.

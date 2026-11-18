@@ -9,10 +9,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay Alam Afrashtey Bar Sare Karbobala
-  
+
   1
   Quwate Bardaashte Bar Sare Karbobala
-  
+
   2
   Kehte The Shaahe Umam Bar Sare Karbobala
   Uth Zara Lehra Alam Bar Sare Karbobala

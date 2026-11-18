@@ -10,27 +10,27 @@ published: false
 romanLyrics: |-
   Zahra tay kalma ghonn nay darvaza enjh girayah
   Aj tak Hassan dee maa nay, paasay ton' haath nayee chaya
-  
+
   1
   1) Babay Nabi nun aakhay, takseer kee aai meri,
   Ghasib nay akhiaya ai, waaris nayee mai teri
   Maslay ton' bhul gayeen haan, ilzam eh hai laaya
-  
+
   2
   2) Hur'n tera gham vee baba, Zahra mana nayee sakdi
   Upnay hi ghar'ch bai kai, athru baha nayee sakdi
   Haider nai shehron bahir, baitul-huzan banaya
-  
+
   3
   3) Baba main daindee raiyaan, teray naam dee duhayee
   Fil kurba valee ayat, kayi waar main sunayee
   Fhir vee rova kay mainu darbar chun bulayaa
-  
+
   4
   4) Ummat teri nay baba, nayee keetiyan wafawan
   Teray baad pher laya kuch is taran di davan?
   Mimber terai tay mera mujrim nu ay bhaitaya
-  
+
   5
   5) Main jaan gayin baba keeta Batul vain aai
   Ummat nay maar dainai merai Hassan Hussain aai

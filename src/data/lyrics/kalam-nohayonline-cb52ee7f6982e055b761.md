@@ -12,103 +12,103 @@ published: false
 romanLyrics: |-
   Nauhagar zameen hai khoon ro raha hai aasman
   Masnad e azaa bichi hui hai bar sare jinaa
-  
+
   1
   Daastan e panjatan pe ro rahe hai do jahan
   Kaampti hai ye sadayein sun ke qabre mustafa
   Ya ali o ya ali o ya ali e murtaza
   Aasman se de raha hai ek manadi ye sada
-  
+
   2
   Ya ali o ya ali o ya ali e murtaza
   Baad e payambar wo zulm hua
   Aale nabi ka koi na raha
   Rassi se hyder ka baandha gala
-  
+
   3
   Pehlu e zehra bhi toda gaya
   Roti thi binte nabi yani hamraaz e ali
   Haye ye zamana hum se kitni jaldi phir gaya
   Ya ali o ya ali o ya ali e murtaza...
-  
+
   4
   Baandh ke hyder ko rassiyon se
   Galiyon mein zaalim jab leke chale
   Naala o shewan zehra ne kiye
   Baazu pe shamsheer ke kund pade
-  
+
   5
   Fatema par ye jafa wo bhi pesh e murtaza
   Ek shikasta pehlu bibi par sitam ki inteha
   Ya ali o ya ali o ya ali e murtaza...
   Dil mein liye gham zehra mar gayi
-  
+
   6
   Khaana e hyder soona kar gayi
   Fatema pesh e paigambar gayi
   Pehlu shikasta hi le kar gayi
   Hogaye tanha ali dekhlije ya nabi
-  
+
   7
   Dard e dil bayan karega kis se shaah e laafata
   Ya ali o ya ali o ya ali e murtaza...
   Zainab o kulsoom hasnain sabhi
   Karte hai mehsoos amma ki kami
-  
+
   8
   Kaisi musibat ye aan padi
   Rote hai tanhaiyon mein ali
   Sabr e ayoobi kahan sabr e hyderi kahan
   Qabr ka nishan bhi bamasl hai chupa diya
-  
+
   9
   Ya ali o ya ali o ya ali e murtaza...
   Silsila e zulm phir bhi na ruka
   Qatl ali ko masjid me kiya
   Khoon se musalla rangeen hua
-  
+
   10
   Ghar mein khuda ke hai hashr bapa
   Chal gayi taygh e jafa zakhmi hai sher e khuda
   Kaun rotiyan yateem bacchon ko khilayega
   Ya ali o ya ali o ya ali e murtaza...
-  
+
   11
   Zehr e dagha phir shabbar ko diya
   Jis ke asar se dil tukde hua
   Daagh e yateemi qasim ko mila
   Teeron se lashe ko chalni kiya
-  
+
   12
   Hassan e sabzqaba bhi na dunya mein raha
   Juz hussain panjetan mein ab koi nahi bacha
   Ya ali o ya ali o ya ali e murtaza...
   Daste sitam aur kuch aage badha
-  
+
   13
   Saamne aayi phir karbobala
   Shimr ka khanjar bekas pe chala
   Behno ke aage sar sheh ka kata
   Cheekhti thi fatema rehm kar behre khuda
-  
+
   14
   Kar diya sitamgaron ne panjetan ka khatema
   Ya ali o ya ali o ya ali e murtaza...
   Laashon pe ghode daudaye gaye
   Bibiyno ke dil dehlaye gaye
-  
+
   15
   Haath rasan se bandhwaye gaye
   Pushton pe durre barsaye gaye
   Shab ki tareekiyon mein jiska taaboot utha
   Uski betiyan phirayi jaa rahi hai berida
-  
+
   16
   Ya ali o ya ali o ya ali e murtaza...
   Nauha wo naushad jo tu ne likha
   Shadman ye hai zehra ki ataa
   Qabr e nabi aur shaah e laafata
-  
+
   17
   Zer e kafan khud karte hai buka
   Peeto sar ahle aza fatema dengi jaza

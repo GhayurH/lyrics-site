@@ -10,27 +10,27 @@ published: false
 romanLyrics: |-
   Turpiyan Ujriyan Bekafan Chor Kay
   Khaakh Tay Pak Zahra Da Chan Chor Kay
-  
+
   1
   Maan sainry ko haan bawafa tay bara
   Ahyan jende saharay watan chor kay
-  
+
   2
   Vain Zainab da haan chad kay jawaan kiwain
   Laash tay patharaan da wazan chor kay
-  
+
   3
   Turya Zahra da chaan akhay Asghar di maa
   Ahyan jende saharay yaman chor kay
-  
+
   4
   Janrda da eh Khuda turya bhon okhiyaan
   Haye Qasim de saray shagan chor kay
-  
+
   5
   Chor dena watan kohi asaan nahi
   Sainry turiyan gharan day aman chor kay
-  
+
   6
   Karbala wich o qari tay ghazi Nadeem
   Hoye kafir Dar - Panjetaan chor kay

@@ -9,35 +9,35 @@ aliases: []
 published: false
 romanLyrics: |-
   Aey shaheed e insani, aey shaheed e Qurani
-  
+
   1
   Aaj tak dilon par hay teri hi hukumrani
   Zibah kar diya tujh ko aur na diya pani
-  
+
   2
   Marqad e Nabi choota, qabr e Fatimi chooti
   Roza e Hasan choota, Pyari dilruba chooti
   Is tarha madinay se, aal e Mustafa chooti
   Shahr sara sunsaan tha, cha gayi thi veerani
-  
+
   3
   Cheh mahinay walay ne, teer kha ke dam torra
   Tera sala Qasim ka, khoon may bhar gaya jorra
   Jadae e haqeeqat may, na kisi ne muh moora
   Kaisi kaisi janon ki, pesh kar di qurbani
-  
+
   4
   Dhoop may qayamat ki, tera aakhri sajda
   Inteha ka manzil thi, tera aakhri sajda
   Fatima na bhoolay gi, tera aakhri sajda
   Pusht par sitamgar tha, khak par thi peshani
-  
+
   5
   Karbala ki manzil bhi, kia ajeeb manzil thi
   Peer aur jawani may, nanhi jaan bhi shamil thi
   Baad e asr Zainab ko, sab se sakht mushkil thi
   Bhook o pyas ka sehna, qafilay ki nigrani
-  
+
   6
   Aik do pahar hi may, ghar ujarr gaya tera
   Deen bach gaya laikin, kuch nahi bacha tera

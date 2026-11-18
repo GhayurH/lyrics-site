@@ -9,43 +9,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Aye Kash Ab Ki Bar Main Jab Jaon Karbala
-  
+
   Roza Nahi Hussain Nazar ayen Samnay
-  
+
   Ankhain Nahi Hon Phir Bhe Nazar Aye Rasta
-  
+
   Main De Raha Hon Apko Jabir Ka Wasta
-  
+
   Itna Buland Kejyay Mayyar Ishq Ka
-  
+
   Roza Nahi Hussain Nazar ayen
-  
+
   Jis Ko Hussain Mil Gaye Sab Mil Gaya Usay
-  
+
   Ab Aur Kia Main Mangonga Gumbad Ko Dekh Ke
-  
+
   Phyli Nazar Main Hoge Labon Per Yahe Dua
-  
+
   Roza Nahi Hussain Nazar ayen
-  
+
   Palkain Jhuka Ke Jab Rakhon Darbar Main Qadam
-  
+
   Hojaye Meri Ankhon Pe Abbas Ka Karam
-  
+
   Nazrain Main Jab Uthaon to Dekhon Yay Mojza
-  
+
   Roza Nahi Hussain Nazar ayen
-  
+
   Pori Ho Kesy Mola Ziyarat Ke Arzoo
-  
+
   Jab Tak Na apse Ho Mulaqat Ro ba Ro
-  
+
   Tab Jake Hoga Meri Ziyarat Ka Haq Ada
-  
+
   Roza Nahi Hussain Nazar ayen
-  
+
   Qabil Nahi Hoon apke Haan Manta Hoon main
-  
+
   Per ap to Kareem Hai…
 # source_id: nohawriteups:a4e41433f872f7db9ae8
 # source_url: https://www.nohawriteups.org/nohay-2023-roza-nahi-hussain-nazar-ayen-syed-raza-abbas-zaidi-karbala-muharram-1445-2023-lyrics/

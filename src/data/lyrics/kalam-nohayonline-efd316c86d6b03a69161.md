@@ -12,71 +12,71 @@ published: false
 romanLyrics: |-
   Fatema zahra fatema zahra
   Ya zahra ya zahra
-  
+
   1
   Ay meri bibi tere dar pe istghasa hai
   Tera mamnoon meri shahzadi ye jahan saara hai
-  
+
   2
   Tu hamay hifz aur amaan de de
   Apni chadar ka saiban de de
   Teri khudrat mein kya nahi bibi
   Tu jise chaahe do jahan de de
-  
+
   3
   Tujhko ummat ne yun sataya hai
   Marg e mohsin pe bhi rulaya hai
   Tujhko baba ke baad ummat ne
   Haye darbar mein bulaya hai
-  
+
   4
   Boli zahra ali se ya maula
   Gham ye mujhse nahi saha jaata
   Qatle mohsin se badh ke mushkil tha
   Bhare darbar mein mera jaana
-  
+
   5
   Jab tha rassi mein murtaza ka gala
   Imtehan zabt ka wo tha tera
   Haan madina ujad gaya hota
   Tu jo de deti bad dua zahra
-  
+
   6
   Tu hijabe khuda hai ya zahra
   Dard tere hai sab se posheeda
   Kitni muztar hai kitni zakhmi hai
   Ya ali jaante hai ya fizza
-  
+
   7
   Ay mohamed ki laadli dukhtar
   Gham mein tere hai murtaza muztar
   Jis ne dhaaya tha baab kyber ka
   Gir gaya khaak par wo ye keh kar
-  
+
   8
   Hum ko har aan ye nadamat hai
   Hum hai mujrim teri adaalat hai
   Rizq aulaad zindagi har pal
   Jo bhi kuch hai teri badolat hai
-  
+
   9
   Karz makrooz ka ada kar de
   Muflison ka naseeb wa kar de
   Jin ki godhi hari nahi bibi
   Unko aulaad tu ataa kar de
-  
+
   10
   Waqt e aakhir hai bas mera bibi
   Anginat hai mere gunaah bibi
   Waasta tujhko tere bacchon ka
   Bakhshwana mere gunaah bibi
-  
+
   11
   Farshe majlis pe aur musalle par
   Har jawan keh raha hai ro ro kar
   Hum rahe na rahe magar bibi
   Ta qayamat rahe gham e sarwar
-  
+
   12
   Ay meri bibi tere bacchon ka gham maante hai
   Apni aulaad se kahin bad ke gham ye pyara hai

@@ -11,31 +11,31 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas chale aao
-  
+
   1
   Akbar bhi nahi baakhi asghar bhi nahi baakhi
   Quran tha jis ghar may wo ghar bhi nahi baakhi
   Har tarha ke sadmon se betaab sakina hai
   Aa kar usay samjhao
-  
+
   2
   Kano ki lawaen khenchi kano se gowhar tode
   Ya kaah-kashan todi ya shams-o-qamar tode
   Tode hai zamane may iqlaaq ke saanche bhi
   Maare hai tamache bhi bachi pa taras khao
-  
+
   3
   Ye raat ye tareeki ye dasht ye sannata
   Lamho ke taghayyur ne sadiyon ka safar kaata
   Ye jalte hue qaime ghabrake na mar jaaye
   Masoom kidhar jaaye masoom ko samjhao
-  
+
   4
   Kya aise bahadur ko dekha kabhi dunya ne
   Daaton se alam thaama baazu se katay shaane
   Sar giriya e wehshat may deewar se maaregi
   Ammu ko puka-regi ammu ko bula lao
-  
+
   5
   Ek haul sa uth'ta hai is shaam e ghariban may
   Ek khauf sa dasta hai jangal may biyaban may

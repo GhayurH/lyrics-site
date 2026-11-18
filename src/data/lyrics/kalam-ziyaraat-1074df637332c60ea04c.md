@@ -9,7 +9,7 @@ aliases: []
 published: false
 romanLyrics: |-
   As Salamun alaik ya ghareeb Hussaina
-  
+
   1
   Zindan se chut ke Maa jaye aayi
   Kab se ho sotay Uth jao bhai
@@ -17,7 +17,7 @@ romanLyrics: |-
   Farshe Aza pe ansoo bahaoon
   Qasr e yazeedi khutbon se dha ke
   Milnay ko tum se Aayi hay behna
-  
+
   2
   Tum se bichar ke dar dar phiri hoon
   Ik ik qadam par roti rahi hoon
@@ -25,7 +25,7 @@ romanLyrics: |-
   Marti rahi hoon jeeti rahi hoon
   Abid ne bhayya touq e giraan ka
   May ne rasan ka pehna hay gehna
-  
+
   3
   Paigham tera le kar gaye thi
   Har ik museebat may seh rahi thi
@@ -33,7 +33,7 @@ romanLyrics: |-
   Durre lagay thay so na saki thi
   Aayi na bhayya sath hamaray
   Ziandan se chut ke bali Sakina
-  
+
   4
   Dekha to ho ga naizay se tum ne
   Jo dukh uthay rahon may ham ne
@@ -41,7 +41,7 @@ romanLyrics: |-
   Dar dar phiraya ahle sitam ne
   Khaye hain pathar ansoo piye hain
   Pairahan gham ka ham ne tha pehna
-  
+
   5
   Tum bin watan may ja na sakoon gi
   Poochay gi Sughra kia may kahoon gi
@@ -49,7 +49,7 @@ romanLyrics: |-
   Asghar nahi hay kaisay jiyon gi
   Tum bhi nahi ho Ghazi nahi hay
   Meray liye to mushkil hay jeena
-  
+
   6
   May binte Zehra tum ibn-e-Zehra
   Bhai behan ka yeh hay naseeba
@@ -57,7 +57,7 @@ romanLyrics: |-
   Kaisa ghamo ne ham to hay ghera
   May ja rahi hoon qabr e nabi par
   Mujh ko bata do jo kuch hay kehna
-  
+
   7
   Rehan o Kashif dasht e bala may
   Majlis bapa thi sari fiza may

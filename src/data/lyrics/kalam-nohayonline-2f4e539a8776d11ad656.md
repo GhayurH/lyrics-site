@@ -15,55 +15,55 @@ romanLyrics: |-
   Be-sar o saaman
   Ye shaam e ghariban hai
   Aray shaam e ghariban
-  
+
   2
   Kaunain ki shehzadiya hai besaro saman
   Hai khoon mein doobe huwe seh roz ke pyase
   Maidan mein har simt hai bikhre huwe laashe
   Manzar ye qayamat ke sada dete hai roke
-  
+
   3
   Ye shaam e ghariban hai...
   Kaunain ki shehzadiya hai...
   Afsos ke maara gaya ek raat ka dulha
   Tar khoon mein sehra hua raundha gaya laasha
-  
+
   4
   Kal shaadi hui jiski wo shehzadi hai bewa
   Ye shaam e ghariban hai...
   Kaunain ki shehzadiya hai...
   Wo maa ke jawan sher sa ek beta tha jiska
-  
+
   5
   Dil thaame huwe karti hai ro ro ke ye nauha
   Kehti hai tadap kar kahan dhoondun tujhe beta
   Ye shaam e ghariban hai...
   Kaunain ki shehzadiya hai...
-  
+
   6
   Kal godh mein jis maa ke tha ek chand sa beta
   Roti hai ajab karb se wo ghamzada dukhiya
   Ujdi hui godi mein hai ujda hua jhoola
   Ye shaam e ghariban hai...
-  
+
   7
   Kaunain ki shehzadiya hai...
   Shabbir sulaate thay jise seene pe apne
   Jis bachi ko paala tha bahot pyar se sheh ne
   Ab dasht mein khaati hai wohi bachi tamache
-  
+
   8
   Ye shaam e ghariban hai...
   Kaunain ki shehzadiya hai...
   Jo binte ali khwahar e abbas e jari hai
   Jo chadar e tatheer ke saaye mein pali hai
-  
+
   9
   Be maqna o chadar sar e maidan khadi hai
   Ye shaam e ghariban hai...
   Kaunain ki shehzadiya hai...
   Mazloomo yateemo ka hai jo khaafela salaar
-  
+
   10
   Wo tashna dahan jo hai kayi roz se beemar
   Pehnaya gaya haye usay tauq e garabaar

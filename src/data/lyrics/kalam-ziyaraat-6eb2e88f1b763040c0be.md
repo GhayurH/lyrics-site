@@ -16,47 +16,47 @@ romanLyrics: |-
   Amma Madina laut ke may aa na paoon ga
   Kampa falak laraznay lagi qabr-e-Syeda
   Aayi janab-e-Fatima ki qabr se sada
-  
+
   2
   Jaao mere laal,  Tum pe har qadam rahe dua meri,
   Aur saaya-e-khuda-e-zul jalaal
-  
+
   3
   Ja rahe ho tum jo keh ke deene haq bachaoon ga
   Amma aap ki kasam, me khoon me nahawunga
   Ab ho jo bhi haal, tum ho payemaal,
   Tum pe har qadam rahe dua meri, Aur saaya-e-khuda-e-zul jalaal
-  
+
   4
   Bachpanay me jo kiya tha wada baba jaan se
   Waqt ab wo aa gaya kafan tu sar se baandhne
   Dekh mere laal, deen ka hai sawaal,
   Kamyaabiyan hai tere saath hi, Aur saaya-e-khuda-e-zul jalaal
-  
+
   5
   Chahiye Khuda ke deen ko Asghar amma
   Do ridaay-e-zainab-e-hazeen ka sayebaan
   Jawo ab shiqaab ibn-e-buturaab,
   Mei tumhare saath baba jaan bhi, Aur saaya-e-khuda-e-zul jalaal
-  
+
   6
   De raha hay deen-e-Kibriya tumhe salam
   Almadad Hussain almadad shah-e-huda
   Bay watan Hussain, mere dil ke cheyn,
   Hamsafar tumhare saath maa huwi, Aur saaya-e-khuda-e-zul jalaal
-  
+
   7
   Shaney Ba wafa ke hoon gay jis ghari qalam
   Rowenge alam ke saaye mei tere haram
   Rowengi wafaa aur karbala,
   Rowengi faraat aur tashnagi, Aur saaya-e-khuda-e-zul jalaal
-  
+
   8
   Akbar-e-Jawaan jigar pe khayen gay sina
   Maa kahengi mera chaand khogaya kaha
   Uspe nohakhwaan, honge meri jaan,
   Mei bi aur Hassan bi aur Rasool bi, Aur saaya-e-khuda-e-zul jalaal
-  
+
   9
   Ye Sada mazar-e-Syeda se Mazhar Abidi
   Sunke rodiyey Hussain Mustafa ki aal bhi

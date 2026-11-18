@@ -20,55 +20,55 @@ published: false
 romanLyrics: |-
   Arsh-e-Barin Se Aayi Hai Haider Ki Zulfiqar
   Ijaz-e-Kibriyai Hai Haider Ki Zulfiqar
-  
+
   1
   Aahan Se Sakht Tar Hai Yeh, Khanjar Se Taiz Dhaar
   Qudrat Ne Khud Banai Hai Haider Ki Zulfiqar
-  
+
   2
   Har Dushman-e-Ali Ko Jahanum Dikhaney Ka
   Paigham Sath Layi Hai Haider Ki Zulfiqar
-  
+
   3
   Bas Dekh Ke Hi Razm Mein Do Chaar Mar Gaye
   Maidaan Mein Jab Bhi Aayi Hai Haider Ki Zulfiqar
-  
+
   4
   Dast e Khuda Se Dast e Khuda Ko Atta Hoi
   Sarwar Ne Hi Mangayi Hai Haider Ki Zulfiqar
-  
+
   5
   Rakhti Hain Apne Hath Se Iss Ko Sanwar Kar
   Zahra Ke Dil Ko Bhai Hai Haider Ki Zulfiqar
-  
+
   6
   Dast-e-Khuda Hi Ho Ga Jo Iss Ko Uthaye Ga
   Abbas Ne Uthai Hai Haider Ki Zulfiqar
-  
+
   7
   Do Tukray Ho Ke Gir Paray Bas Aik Waar Mein
   Jis Ne Bhi Aazmai Hai Haider Ki Zulfiqar
-  
+
   8
   Karb-o-Bala Ke Ban Mein Bohat Se Fana Kiye
   Shabbir Ne Chalai Hai Haider Ki Zulfiqar
-  
+
   9
   Do Pal Mein Kaat Sakti Hoon Nu Lakh Hi Tu Hain
   Keh Kar Yeh Muskurai Hai Haider Ki Zulfiqar
-  
+
   10
   Haider Ki Aankh Ke Yeh Isharay Pe Chalti Hai
   Karti Younhi Safai Hai Haider Ki Zulfiqar
-  
+
   11
   Naslon Ki Janch Kar Ke Urati Hai Gardanein
   Zerak Bhi Intehai Hai Haider Ki Zulfiqar
-  
+
   12
   Hathoon Mein Le Ke Aaein Gay Ab Barhwein Imam
   Unn Ke Liye Bachai Hai Haider Ki Zulfiqar
-  
+
   13
   Rizwan Keh Raha Hai Khuda Be Misal Hai
   Khaliq Se Dad Payi Hai Haider Ki Zulfiqar

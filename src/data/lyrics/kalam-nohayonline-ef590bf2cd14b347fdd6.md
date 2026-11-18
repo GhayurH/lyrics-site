@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye abbas nahi aaye na aaya pani
-  
+
   1
   Dhondti reh gayi kooze may sakina pani
   Rote dekha jo sakina ko to bachon ne kaha
   Aisa lagta hai hamay ab na milenga pani
-  
+
   2
   Roye behte huwe pani ke liye jab ghazi
   Roya abbas ko mashkeeze se behta pani
-  
+
   3
   Aks dikhta tha sakina ka kabhi asghar ka
   Kaise abbas ne behte huwe dekha pani
-  
+
   4
   Usko maloom tha pyasi hai bhatiji meri
   Paas hote huwe moo se na lagaya pani
-  
+
   5
   Laashe abbas pe rote rahe pyase shabbir
   Aur mashkeeze pe karta raha girya pani
-  
+
   6
   Gir gaya ghazi ka sar naize se jab zaalim ne
   Saamne bali sakina ke bahaya pani
-  
+
   7
   Aisa ammu ki judaai ka hua sadma usay
   Phir kabhi bali sakina ne na maanga pani
-  
+
   8
   Haye abbas ki zainab ko bahot yaad aayi
   Fazl ne jab bhi madine may pilaya pani
-  
+
   9
   Bhool na jaana alamdare wafa ki ghurbat
   Jab bhi pyason ko sabeelon se pilana pani
-  
+
   10
   Hum ne khud dekha hai zeeshan o raza ye manzar
   Ab bhi abbas ki turbat se hai lipta pani

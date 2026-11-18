@@ -9,29 +9,29 @@ aliases: []
 published: false
 romanLyrics: |-
   Haey Sajjad chalay Shaam Khuda khair karay
-  
+
   1
   Galay may tauq hay aur bariyan hain pairon may
   Diya hain Shaam kay logo nay ye inaam, Khuda khair karay
   1) Woh jis kay saar say rida bhi kabhi sarak jaye
   To maray sharam kay suraj waheen palat jaye
   Sharabiyon say hui hay woh hum kalam
-  
+
   2
   2) Tamam shehron kay deevar o dar sajaye hain
   Khari hain auratain haaton main sang uthaye hain
   Kiya hay jashan-e-fatah ka ye ahtamam
-  
+
   3
   3) Bana kay qaidi aulad-e-Ali ko laye hain
   Ye shor barpa aaye hain baghi aaye hain
   Macha hay Shaam kay logon main kohram
-  
+
   4
   4) Bazaar-e-Shaam may Zainab to be rida hay kharri
   Beema Syed-e-Abid pe kia kathin hay gharri
   Kharra bazar may har soo hay majma aam
-  
+
   5
   5) Janab-e-Ghazi ka sar sang pe tarrapta tha
   Beemar qaidi ki aankhon se khoon barasta tha

@@ -11,37 +11,37 @@ published: false
 romanLyrics: |-
   Do Gharriyon Ki Zindan Mein, Mehman Sakina Hai
   Sajjad Chalai Aao, Perishaan Sakina Hai
-  
+
   1
   1) Jaisa Mei Kehrahee Hoon, Waisa Hee Tum Karogai
   Kurte Mairay Mei Bhaiya, Mujhko Dafan Karogai
   Kuch Mangthee Hai Tumsai, Mehman Sakina Hai
-  
+
   2
   2) Thora Sa Waqt Bhai, Moun Ronai Sai Nikalo
   Thairee Muntazir Hai Behna, Aa Ker Issay Sambhalo
   Kuch Dair Mei Daikhogai, Bai Jaan Sakina Hai
-  
+
   3
   3) Mairai Goshwarai Bhaiya, Hain Shimr Nai Outharai
   Balon Sai Mujh Ko Pakra, Moun Per Tamachai Marai
   Samjha Na Thaharath Ka, Quran Sakina Hai
-  
+
   4
   4) Kantay Nikalnai Ka, Itna Mujhai Sila Do
   Kuch Dair Kai Leeyai Hee, Baba Kai Sar Ko Laado
   Phelai Baithee Apna, Damaan Sakina Hai
-  
+
   5
   5) Yaa aa raha hay mujh ko, basta hua Madina
   Bistar tha mera bhayya, apnay padar ka seena
   Zindan may to ghurbat ka saman Sakina hay
-  
+
   6
   6) Sab qaidiyon ke bhayya, dukh dard ho batatay
   Apni behan se laikin, milnay nahi ho aatay
   Is baat se zindan may, hairan Sakina hay
-  
+
   7
   7) Tauqeer Matami Kioun, Duniya Mei Dukh Uthay
   Ghairon Kai Dar Pai Jaa Kai, Kioun Jholiyan Phelaye

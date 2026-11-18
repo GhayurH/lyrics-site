@@ -16,63 +16,63 @@ romanLyrics: |-
   Thi pesh manzilein dushware ibne hyder ko
   Koi na tha jo karata sawaar sarwar ko
   Bithaya ghode pe hamsheer ne biradar ko
-  
+
   2
   Har ek bibi ka dil gham se tha taho-bala
   Na koi monis-o-yawar na godh ka paala
   Koi lipat-ti thi daaman se kartii thi naala
   Khade thay sar ko jhukaye huwe shahe wala
   Koi na tha jo karata....
-  
+
   3
   Buland hoti thi qaime se al-atash ki sada
   Sakina kehti thi maqtal se jald aao chacha
   Kabhi pukaarti koi ke aao shere khuda
   Madad ka waqt hai shabbir ho rahe hai juda
   Koi na tha jo karata....
-  
+
   4
   Pukari zainab-e-mustar kahan ho ay akbar
   Akela fauje adoo may chala nabi ka pisar
   Qabar na loge chacha ki ay qasime mustar
   Kahan pe hai mera shere jari wafa paykar
   Koi na tha jo karata....
-  
+
   5
   Ye nowha karti thi maqtal may zainab-e-kubra
   Bachane wala koi mere bhai ka na raha
   Gulu bureeda se deta tha har shaheed sada
   Mile hayaat to phir ho hazaar baar fida
   Koi na tha jo karata....
-  
+
   6
   Kaha hussain ne zainab se alvida hamsheer
   Bula rahe hai paye jang kaf se bepeer
   Khayal rakhna sakina ka hai bahut hi sagheer
   Muaf karna jo karde kabhi koi tafseer
   Koi na tha jo karata....
-  
+
   7
   Lagaam thaam ke ghode ke bole ye shabbir
   Hamare saath hai zulmo sitam ka tu bhi aseer
   Safar hai aakhri tujhpar mera ye ay dilgeer
   Tuhi hai munis-o-gham khwar mera waqte akheer
   Koi na tha jo karata....
-  
+
   8
   Imam-e-waqt se jab zuljana ne ye suna
   Zubaane haal se wo bezubaan huwa goya
   Huzoor aap pe sau baar meri jaan fida
   Zehe naseeb ke ye farz aap ne sawmpa
   Koi na tha jo karata....
-  
+
   9
   Mai jaanta hoo ke ye aakhri sawari hai
   Karoo jihad ye khud mujko beqarari hai
   Sumo se lipti hui aapki dulaari hai
   Mere padar ko na leja ye lab pe jaari hai
   Koi na tha jo karata....
-  
+
   10
   Anees rukhsate aakhir ke waqt tha mehshar
   Koi to peet-ti thi seena koi bibi sar

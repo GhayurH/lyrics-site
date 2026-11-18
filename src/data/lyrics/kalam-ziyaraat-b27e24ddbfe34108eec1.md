@@ -15,36 +15,36 @@ romanLyrics: |-
   Zalim ye puchhta tha ghazi tera kaha hai,
   Balo se mu chupaye zainab ye keh rahi thi
   Aey mere babajaan horahi hay azaan sar chupaou kaha
-  
+
   2
   Majmaye aam me bewatan be amaan agaya karvaan
   Aey mere babajaan horahi hay azaan sar chupaou kaha
-  
+
   3
   1) Mei bhi hu marziay binte kayrun nisa, mere lehje me hay baba teri ada
   Naam zainab mera, tune jo rakhdiya, dey di apni zubaan
   Aey mere babajaan horahi hay azaan sar chupaou kaha
-  
+
   4
   2) Babajaan me rida mangti rehgayi,bamo dar saj gaye, jiteji margayi,halqaye
   Shaam me, naam sunkar mera, margaya naatawan
   Aey mere babajaan horahi hay azaan sar chupaou kaha
-  
+
   5
   3) Babajaan ye tera akhri tha bayan, teri chadar bachayega ghazi jawaan,
   Mar gaya bawafa, chingayi hay rida, kehti hay bibiyaa
   Abbas, Abbas Abbas
-  
+
   6
   4) Ruk na paya mere bawafa ka wo sar, noke neza se aane laga khaak par, behn ko
   Darbadar, dekhkar nange sar, sheh na paya jawaan
   Aey mere babajaan horahi hay azaan sar chupaou kaha
-  
+
   7
   5) Haath kano pe hai, neel gaalo pe hai,aur nishan jo sakina ke shaano pe hai,
   Har nishan se yahi, aa rahi hay sada, babajaan babajaan
   Aey mere babajaan horahi hay azaan sar chupaou kaha
-  
+
   8
   6) Aysa khutba diya mene darbar me, likhraha hay jo "yawar" tere pyaar me,
   Lehjaye hayderi, har azaan ke liye hay sadaye azaan

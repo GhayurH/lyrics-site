@@ -12,55 +12,55 @@ published: false
 romanLyrics: |-
   Dasht may looti gaye aale rasoole madani
   Ya ali adrikni ya ali adrikni
-  
+
   1
   Haye be aab huwe qatl hussaini hassani
-  
+
   2
   Dasht wo tapta huwa dhoop may aal-e-abaa
   Khaak pe baitha huwa karta hai ro kar buka
   Kaisi taqdeer may likhi thi gharibul watani
-  
+
   3
   Shaah ka wo nusrati kaisa huwa jannati
   Zaanu e sibte nabi aur sare hurr e jari
   Koi hurr jaisa nahi dunya may qismat ka dhani
-  
+
   4
   Fatema zehra ka laal pyaas se ran may nidhaal
   Aata hai aksar khayal kis se karoo ye sawaal
   Maalike kausar-o-tasneem ye tashna dahani
-  
+
   5
   Bacha bhi cheh maah ka pyaas se tadpa kiya
   Teere sitam kya chala chid gaya nanha gala
   Teer seh pehlu aur asghar ki ye ghuncha dahani
-  
+
   6
   Kehti thi rokar ye maa haye mera be-zuban
   Haye ye nanhi si jaan toota na kyun aasman
   Ye sitam aur mere asghar ki ye nazuk badani
-  
+
   7
   Haye wo kadiyal jawan gir pada kha kar sina
   Ro diya ye aasman baap ka azme jawan
   Shahe deen khaynchte hai seene se barchi ki ani
-  
+
   8
   Laash pe kehti hai maa ay mere kadiyal jawan
   Saal tha atharwan haye ye zakhme sina
   Dekhiye aa ke jawan laal ki gul pairahani
-  
+
   9
   Sayed-e-abraar hai nargha-e-kufaar hai
   Dar paye aazaar hai teeron ki bouchaar hai
   Jism shabbir ka teeron se hai chalni chalni
-  
+
   10
   Zainab-e-aali muqam tumpe hai laakhon salaam
   Ummat-e-khairul anaam khoob kiya ehteraam
   Berida saani e zehra huwi baazu rasani
-  
+
   11
   Ya mere mushkil kusha khalq ke haajat rawa
   Aap pe mehshar fida kardo ishara zara

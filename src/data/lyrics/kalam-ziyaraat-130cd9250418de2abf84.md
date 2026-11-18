@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya Ali ya Hussain
-  
+
   1
   Awaze Muhmmad ka asar khatam nah hoga
   Thak jaye ga suraj ye safar khatam nah ho ga
@@ -32,7 +32,7 @@ romanLyrics: |-
   Wo badshah or yeh waziry Aussain hain assa wazir hai k faqiray Aussain hai
   Ta hashar sifarat ka safar khatam nah hoga
   Thak jaye ga suraj yeh safar khatam nah ho ga
-  
+
   2
   Hur bu sahi husain ne aale bana dia
   Assa k panjatan ka sawali bana dia
@@ -61,7 +61,7 @@ romanLyrics: |-
   Kun main doba howa dey chuka laftey jigar dey chukaa noory nazar
   Dey chuka sara wo ghar or kanjar k taly uska sajday main hai sar
   Nah namzy sena ashaiq ka kalyja assa nukay neyza pe bhi karta hi raha zikr tera
-  
+
   3
   Ek zulfqar ghaq main do sath se chali
   Dastay hussain panjaaye mushkil kusha ali
@@ -69,7 +69,7 @@ romanLyrics: |-
   Dono ka martaba bhi do alam pe hai jali
   Dona ka istmal se sajda adda howa
   Hadier se iftata howi ya hatema howa
-  
+
   4
   Jasi wo zulfqar the wessa tha zuljah
   Bachpan se sath sath yeh rehta tha zuljlaha
@@ -77,7 +77,7 @@ romanLyrics: |-
   Kunkar nah ho rassol ne pala tha zuljalaha
   Pehla sawar to nabi e dardegaar hai
   Or dosra yeh dosh nabi ka sawar hai
-  
+
   5
   Chitay ki jast sher ki chitmal hiran ki ankh
   Chalta tha dekh dekh k shahay zaman ki ankh
@@ -85,7 +85,7 @@ romanLyrics: |-
   Larti hi jasi jang main sham sher zan ki ankh
   Tegh ayi jispe uska b war uss pe chal gaya
   Wo sar gira gaye tu yeh lasha kuchal gaya
-  
+
   6
   Kehta tha zulfqar se ab mera jang dekh
   Chal mery sath sath zara mera rang dekh
@@ -93,7 +93,7 @@ romanLyrics: |-
   Rahy hayat kitnu pe karta hoon tang dekh
   Mana tu zulfqar hai marhab shikar hai
   Lakin yeh dekh kon yeh mujpar sawar hai
-  
+
   7
   Simta jima urha idhar ayya udhar gaya
   Chamka jira jamal dekya thar gaya

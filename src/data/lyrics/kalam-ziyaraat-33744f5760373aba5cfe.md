@@ -10,38 +10,38 @@ published: false
 romanLyrics: |-
   Salam - Ro ro kehte the
   Ro ro kehte the shahe Madina, Marne jaata hai baba Sakina
-  
+
   1
   Ab na paaogi baba ka seena, Marne jaata hai baba Sakina
   Uttho ae mere naazon ki paali,
   Ae meri laash pe rone wali,
   Kal hai tuu aur zulme kamina.
-  
+
   2
   Aayegi kal tere sar pe aafath,
   Howegi tujh pa barpa qayamat,
   Shaaq tera hai aada ku jeena.
-  
+
   3
   Kal tere cheene jaayenge gohar,
   Aur tamache lagayenge rukh par,
   Khoon rawan hoga misle pasina.
-  
+
   4
   Koi dewe ghiza tujh ko laa kar,
   Faaqa kash aur bekas samajh kar,
   Haath phaila na dena Sakina.
-  
+
   5
   Sar pa Maa ka Phupi ka hai saaya,
   Na karo in se dam bhar kinara,
   Raaton ko in ke seene pa sona.
-  
+
   6
   Ro ke kehte the Haamid pa Sarwar,
   Apni duqtar se ba deedae tar,
   Ab na paaogi Baba ka seena.
-  
+
   7
   Ab na paaogi baba ka seena, Marne jaata hai baba Sakina
 # source_id: ziyaraat:33744f5760373aba5cfe

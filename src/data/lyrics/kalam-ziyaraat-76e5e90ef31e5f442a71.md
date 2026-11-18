@@ -13,37 +13,37 @@ romanLyrics: |-
   Gham-e-madar sunane aaye hain
   Teri turbat pe ladle tere
   Chand tukre sanad ke laye hain
-  
+
   2
   Innama rooz jiss pe parhte thay
   Ab wo darwaza jal gaya Nana(sawaw)
   Tere dar pe diya jalane hum
   Ossi dar ko bhuja ke aaye hain
-  
+
   3
   Daagh duroon ke kaise dikhlati
   Baap ho tum se beti kiya kehti
   Jiss kissa ke taley thay hum sare
   Neil us ke talay chupaye hain
-  
+
   4
   Dil pe aayi thi moat ki zarbat
   Sar ke baloon tak aa gayi gurbat
   Jab ye kehte thay log Zahra
   Ne Dein Ke Maslay Bhulaye Hain
-  
+
   5
   Mushkilon se qadam uthati hay
   Do qadam chal ke baith jati hay
   Bin sahare wo chal nahi sakti
   Zakhm aise jigar peh khaye hain
-  
+
   6
   Hath uthta nahi hai pehlo Se
   Haye Mohsin ke bain uthtay hain
   Maa Ka cachna mohaal hai Nana(sawaw)
   Ab yateemi ke sar pe saaye hain
-  
+
   7
   Boli "Akbar" yeh ro ke Shehzaday
   Sirf trehreer hi nahi thi wo

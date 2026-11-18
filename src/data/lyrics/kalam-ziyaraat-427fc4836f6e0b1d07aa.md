@@ -10,37 +10,37 @@ published: false
 romanLyrics: |-
   Berriyan royeen kabhi paon ke chaale roye
   Kaise qaidi thay jinhe qaid ke taale roye
-  
+
   1
   Jab suna maara gaya pani pilane wala
   Kaampte haton may sukhe hue pyale roye
   Bediya royeyn...
-  
+
   2
   Jane kya sochke shabbir bahot dayr talak
   Karke baysheer ko turbat ke hawale roye
   Bediya royeyn....
-  
+
   3
   Bhoolne walay tujhe kaise bataye koi
   Kis khadar tujhko tere chahne walay roye
   Bediya royeyn....
-  
+
   4
   Bekasi baap ko le aayi hai kis manzil par
   Barchi bete ke kaleje se nikale roye
   Bediya royeyn...
-  
+
   5
   Haye afsos ke jis waqt jale thay qaime
   Dayr tak shame ghariban ko ujale roye
   Bediya royeyn...
-  
+
   6
   Pyase jismo may ye paywast hue jab bhi kabhi
   Dekh kar sookhi ragay barchiya bhaalay roye
   Bediya royeyn...
-  
+
   7
   Bhai ki laash hai aur shor yateemo ka nazeer
   Ek behan aise may bachon sambhale roye

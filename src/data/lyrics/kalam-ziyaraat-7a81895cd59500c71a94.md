@@ -13,35 +13,35 @@ romanLyrics: |-
   Ki lazawal darsgah Hussain hay
   Na jis ki koi nazeer hay na jis ki koi misal hay
   Woh be misal shahnshah Hussain hay
-  
+
   2
   Hussian roh-e-kainat hay
   Hussain fakhr-e-moajzat hay
   Khuda ne jis ko marhaba
   Hay nafs-e-mutmaen kaha
   Woh Karbala ka Mustafa Hussain hay
-  
+
   3
   Hussain la ilah ki zindagi
   Hussain ambiya ki bandagi
   La ilah se pooch lo
   Ke sari kainat may
   Siraf bina-e-la ilah Hussain hay
-  
+
   4
   Hussain deen ka shabab hay
   Hussain dars ki kitab hay
   Kafan ke band khol kar
   Bulaya jis ne maa ne khud
   Woh Fatima ka ladla Hussain hay
-  
+
   5
   Tarap chuki Shabeeh-e-Mustafa
   Magar Hussain hi datta hua
   Pisar jawan ki lash pe
   Hay mutmaen khara raha
   Yeh woh khaleel-e-Karbala Husssain hay
-  
+
   6
   Apnay khoon ka ghusal mila
   Kafan hay jis ka khak-e-Karbala

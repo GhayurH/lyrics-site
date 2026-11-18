@@ -10,41 +10,41 @@ published: false
 romanLyrics: |-
   Kaisy jhulaon Asghar
   Khali ye tera jhula kaisy jhulaon Asghar
-  
+
   1
   Lori hawaon ko main
   Kyun kar sunaon Asghar
-  
+
   2
   Tu dhoop main para hai, jalti zameen k upar
   Saye main tu bata dy
   Main kaisy jaon Asghar
-  
+
   3
   Rootha hai apni maa sy, maa nangy sar hai beta
   Kaisy tujhy manany
   Maidan main jaon Asghar
-  
+
   4
   Abbas hain na Akbar, Qasim rahy na Sarwar
   Abid pary hain ghash main
   Kaisy jagaon Asghar
-  
+
   5
   Mamta ki chaon hogi, kuch tou mily gi rahat
   Main apny dil main teri
   Turbat banaon Asghar
-  
+
   6
   Khul jaye hath mery, mil jaye mujhko chadar
   Turbat py teri akar
   Aanchal urhaon Asghar
-  
+
   7
   Aja k din dhala hai, raat agai hai ban main
   Furqat main dekh teri
   Main mar na jaon Asghar
-  
+
   8
   Bano k laal itni, Rehan ko dua dy
   Umm-e-Rubab ko ye

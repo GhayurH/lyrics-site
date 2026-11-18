@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Dunya usay kehti hai alamdar alamdar
-  
+
   1
   Pyason ka alamdar hai pyason ka alamdar
   Shabbir ke lashkar ka alamdar alamdar
@@ -19,55 +19,55 @@ romanLyrics: |-
   Nusrat ke liye bar sar e paikaar alamdar
   Mashkeeze may pani ka talabgaar alamdar
   Aur haathon ke kat jaane se nachaar alamdar
-  
+
   2
   Wehdat ki tajalli se nazar jodne waala
   Dunya ke har ek aysh se moo modne waala
   Khyber ki tarha fauj ki hadh todne waala
   Hai maut ka maidan may khareedaar alamdar
-  
+
   3
   Ye khoon ke bauchaar may ummat ka safina
   Tadpati hai maidan may jab yaade sakina
   Naize pe ye ja padta hai taane huwe seena
   Sun leta hai talwaron ki jhankaar alamdar
-  
+
   4
   Talwaar si baatil ki girha kholne waala
   Haq baat haqeeqat ke liye bolne waala
   Nazron may hayate abadi tolne waala
   Har lehja shahadat ka talabgaar alamdar
-  
+
   5
   Milne ka na umeed hai jeena ka na yaara
   Kya jaaniye kis tarha se dhoonda hai sahara
   Sunte hai sakina ne kayi baar pukara
   Mumkin hua kismat se na deedar alamdar
-  
+
   6
   Mashkeeze se har baar wo girta hua pani
   Raftaar se takrati hai nafson ki rawani
   Chehre se nikharti hui baba ki jawani
   Abbas hai ya hyder e karraar alamdar
-  
+
   7
   Talwaar sambhali kabhi mashkeeza uthaya
   Darya pe bhi pani ke liye khoon ko bahaya
   Saa'il wo kya cheez ye kaunain pe chaaya
   Chalta hi raha azm ki raftaar alamdar
-  
+
   8
   Wo sookhi zaban ubhre huwe pyas ke chaale
   Behta hai lahoo jism ke har zakhm hai aale
   Jab haath nahi hai to alam kaise sambhale
   Bhai ko sada deta hai har baar alamdar
-  
+
   9
   Maidan may jam jaana bahadur ka ye khoon hai
   Khoon chehre pe mal lena shaheedon ka wazoo hai
   Hai gurz gira sar pe to aankhon may lahoo hai
   Ho jata hai yun bhi kabhi nachaar alamdar
-  
+
   10
   Islam ke jaade hai to emaan ki raahe
   Hai rob o jalaal itna ke tham jati hai aahein

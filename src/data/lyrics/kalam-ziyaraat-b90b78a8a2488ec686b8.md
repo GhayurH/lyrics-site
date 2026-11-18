@@ -9,36 +9,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Pukaarungi may baba ko bhala maare tamache tu
-  
+
   1
   Tu chahta hai main na rooun
   Mujhe baba mila de tu
-  
+
   2
   1. Rukengi na meri aahein hai jab tak bhi meri saansein
   May cheekhungi chillaaungi
   Bhala jo bhi saza de tu.
-  
+
   3
   2. Agar chahta hai k zindaan mei khamoshi ho toh yeh sunle
   Main ho jaaungi chup lekin
   Haan sar baba ka laade tu
-  
+
   4
   3. Main apna sar patakti hu tadapti hoon sisakti hoon
   Rukega na mera rona
   Sitam laakh bhi dhaale tu
-  
+
   5
   4. Yeh zindaan ki deewaron pe lahoo mera pukaarega
   Meray rone pe aye zalim
   Bhala pehre laga le tu
-  
+
   6
   5. Andhera hi andhera hai rukega na mera matam
   Bhala chaahe yeh zindaan ko
   Qabar meri banaa de tu
-  
+
   7
   6. Mila sar to Masooma ne Shimar se yeh kaha "Gauhar"
   Mera lasha uthaega

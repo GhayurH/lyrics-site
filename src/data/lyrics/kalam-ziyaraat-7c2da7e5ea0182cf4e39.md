@@ -74,7 +74,7 @@ romanLyrics: |-
   Wich sajde sees katake hai
   May veer kuhaake
   Tur chaliyan shaamnu baba mein veer kohaa ke
-  
+
   1
   Tati raithte sam gaya akbar naale tur gaya gaazi
   Peya pathra haith hai baba medda veer namazi

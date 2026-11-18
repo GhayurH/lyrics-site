@@ -10,13 +10,13 @@ published: false
 romanLyrics: |-
   Wa waila sad wa waila
   Ho gaya mehshar aaj bapa - wa waila
-  
+
   1
   Moosa e Kazim ko maara - wa waila
   Zehra dagha zindan may dekar
   Haey ghazab be deen dhaya - wa waila, Ya Ali
   Haey nahi nazdeek pisar - wa waila
-  
+
   2
   Lash rakhay be deen pul par - wa waila
   Dafan ka samaan ko karay ga

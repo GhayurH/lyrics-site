@@ -11,43 +11,43 @@ published: false
 romanLyrics: |-
   Afsoos nabi zadiyoon ka Shaam may jana - Sajjad se poocho
   Sar nangay woh maa behnoon ka darbar may jana - Sajjad se poocho
-  
+
   1
   1. Chupti thi nabi zadi nabi zadi ke peechay - kis sharm-o-haya say
   Aur Shimr ka un bibiyoon kay naam batana - Sajjad se poocho
-  
+
   2
   2. Baithay huay darbar may sab chootay baray thay - sadaat kharay thay
   Sar tasht may rakkha hua Zainab ko dikhana - Sajjad se poocho
-  
+
   3
   3. Jab dukhtaray Shabbir nay zindaan may qaza ki - aafat ki ghari thi
   Woh nanhi si mayyat bandhay hathon se uthana - Sajjad se poocho
-  
+
   4
   4. Jab ghusl Sakina ko wahan day chuki ghassal - tha sab ka boora haal
   Us nanhi si mayyat par nishaan rassi ke paana - Sajjad se poocho
-  
+
   5
   5. Thi aik rasan bara aseeron kay galay thay - sab chupke kharay thay
   Rassi may bandhay Zainb-e-Kulsoom ka aana - Sajjad se poocho
-  
+
   6
   6. Sar Hazrat-e-Muslim ka latakta tha jahan par - waan sheh ka ruka sar
   Dur Abid-e-beemar ko us waqt lagana - Sajjad se poocho
-  
+
   7
   7. Jab bali Sakina ko ghusl datay thay Sajjad - faryad hay faryad
   Us nanhi si gardan pe nishaan rassi ke paana - Sajjad se poocho
-  
+
   8
   8. Ghash kha ke giray Syed-e-Sajjad zameen par - barpa hua mehshar
   Naizay ki ani se unhain us waqt uthana - Sajjad se poocho
-  
+
   9
   9. Jab qaid-e-sitamgar se chutey Aal-e-payambar ek shor tha ghar-ghar
   Aththara azeezon ki lahad aakey banana Sajjad se pucho
-  
+
   10
   10. Akbar jo girey ghodey se kahney lagey Shabbeer, beta teri taqdeer
   Ek zalim-e-be deen ka yun naiza lagana Sajjad se pucho

@@ -10,35 +10,35 @@ published: false
 romanLyrics: |-
   Yasrab may hashr hay bapa Baqar guzar gaye
   Matam bapa hay jabaja Baqar guzar gaye
-  
+
   1
   Bewa ke bain hain meray waali na jayey
   Jafar pe toota saneha Baqar guzar gaye
-  
+
   2
   Hazrat ko zekr zeen may Hashsham ne diya
   Hay tukray jigar ho gaya Baqar guzar gaye
-  
+
   3
   Mojood Karbala may thay Baqar Hussainiyo
   Dil may gham o alam liye Baqar guzar gaye
-  
+
   4
   Kuch na rehm aap pe Hashsham ne kiya
   Kaisa sitam ye dha diya Baqar guzar gaye
-  
+
   5
   Jaltay huay khayam ke sholon may jo ghiray
   Sham e ghariban ghul utha Baqar guzar gaye
-  
+
   6
   Ro ro ke haal beton ka hota hay ghair ab
   Saya pidar ka uth gaya Baqar guzar gaye
-  
+
   7
   Jafar ke bain thay yehi Mola ki laash par
   Beta yateem ho gaya Baqar guzar gaye
-  
+
   8
   Saray jahan may hota hay matam Imam ka
   Haider ne noha likh diay Baqar guzar gaye

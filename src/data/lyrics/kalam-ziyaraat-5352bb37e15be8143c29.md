@@ -10,25 +10,25 @@ aliases: []
 published: false
 romanLyrics: |-
   Mazloom bay watan yeh mera Mola Raza hay
-  
+
   1
   Haey jis ko zehar logo musalman ney diya hay
-  
+
   2
   1) Sab ankhein karo band dhuhayee hay dhuhayee
   Ik bibi azadaro yahan Shaam se aayi
   Lipti hay janazay say nahin sar pay rida hay
-  
+
   3
   2) Aaye hain janazay pay Nabhi Shah-e-Umam bhi
   Kulsoom Ruqaya bhi hay Masooma-e-Qum bhi
   Wo bibi hay Karbal may jali jis ki aba hay
-  
+
   4
   3) Rotay hain farishtay bhi zameen or zamaan bhi
   Haey looh kalam arsh-e-barein kon-o-makan bhi
   Khair-ul-nisa ke laal kay mataam ki sada hay
-  
+
   5
   4) Mamoon Abbassi ki anayaat hay ye logo
   Haey aalay payamber ki adawaat hay ye logo

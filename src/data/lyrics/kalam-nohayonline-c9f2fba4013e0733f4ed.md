@@ -15,19 +15,19 @@ romanLyrics: |-
   Kab hoke reha qaid se jaungi madina
   Sab kat gaya maidan may baba ka wo lashkar
   Abbas chacha hai na qasim hai na akbar
-  
+
   2
   Roti thi bain karti thi mazloom sakina
   Na aun o mohamed hai na bhai mera asghar
   Abid se bain karti thi rokar ye sakina
   Ud kar kahan jaate hai sare sham parinde
-  
+
   3
   Zainab se sakina ne kaha aah ye bhar ke
   Rone lagi ye sunte hi bardaasht hui na
   Ghar jaate hai wapas kaha zainab ne ye rokar
   Sunte hi ye kehne lagi shabbir ki dukhtar
-  
+
   4
   Kab jaungi is qaid se chutkar mai madina
   Tahir hui khamosh bayan baba se karke

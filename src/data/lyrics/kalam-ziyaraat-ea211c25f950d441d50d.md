@@ -14,49 +14,49 @@ romanLyrics: |-
   Khud Karb o bala ne di ye sada
   Ab hashr talak ye kehlaye ga
   Hur alaihis salam
-  
+
   2
   Kia waqt mila aey Hur tujh ko
   Sab ahle qalam majboor huay
   Jab naam tera kaghaz pe likha
   Teray naam ke aagay likhna parra
   Hur alaihis salam
-  
+
   3
   Zainab ne kaha jab bhai tujhe
   Aur tujh ko chacha Akbar ne kaha
   Yani ke shahdat se pehlay
   Tujh se ye laqab mansoob hua
   Hur alaihis salam
-  
+
   4
   Roomal saja ke Zehra ka
   Jab khuld may tu pohoncha ho ga
   Jannat may kia ho ga sab ne
   Ye keh kar istaqbal tera
   Hur alaihis salam
-  
+
   5
   Shabbir ke lashkar may jo parrhi
   Hur tu ne namaz e subha dahum
   Tasbeeh ke danoo se aayi
   Hur teray liye bas aik sada
   Hur alaihis salam
-  
+
   6
   Maqtal se tera lasha le kar
   Khoon rotay huay aaye Maula
   Yun rooyi tujhe bint e Zehra
   Khud maut ko ban may kehna parra
   Hur alaihis salam
-  
+
   7
   Lashay pe haram thay noha kunaa
   Har simt sada thi wa waila
   Nohon may magar shamil thi sada
   Baatil ko hara kar jeet gaya
   Hur alaihis salam
-  
+
   8
   Ihsan shanasi ne Mazhar
   Kirdar banaya hay Hur ka

@@ -11,67 +11,67 @@ published: false
 romanLyrics: |-
   Salam khaak nasheeno pah soghwaroun ka,
   Ghareeb dete hain pursa tumhare pyaroun ka.
-  
+
   1
   Salam un pah jinhe sharm khaye jaati hai,
   Khule saron pah aseeri ki qaak aati hai.
-  
+
   2
   Salam un pah joh zehmat kashe salasil hai,
   Museebaton me imaamat ki pehli manzil hai.
-  
+
   3
   Salam bhejtey hain apni shahzadi par,
   Ke jinko soump gaye marte waqt ghar Sarwar.
-  
+
   4
   Musafirat ne jise bebasi yeh dikhlaayi,
   Nisaar kar diye bachhe na bach saka bhayi.
-  
+
   5
   Aseer hoke jise shaamiyon ke narghe me,
   Hussainiyat hai sikhana Ali ke lehje me.
-  
+
   6
   Sakina bibi tumhare ghulam haazir hain,
   Bujhe joh pyaas toh ashkon ke jaam haazir hain.
-  
+
   7
   Yeh sin yeh hashr yeh sadme naye naye bibi,
   Kahan pa baithi ho qaime toh jal gaye bibi.
-  
+
   8
   Na is tarah koi kheti hari bhari ujde,
   Tumhari maang bhi ujdi hai goadh bhi ujdi.
-  
+
   9
   Pahaad raat badi der hai savere me,
   Kahan ho shaame ghareeban ke ghup andhere mei.
-  
+
   10
   Zameene garm yateemi ki saqtiyaan bibi,
   Woh seena jis pah ke soti thi ab kahan bibi.
-  
+
   11
   Janabe maadare besheer ko bhi sab ka salaam,
   Ajeeb waqt hai kya dein tassaliyon ka payaam.
-  
+
   12
   Abhi kaleje me ek aag si lagi hogi,
   Abhi toh goadh ki garmi na kam huvi hogi.
-  
+
   13
   Nahin andhere me kuch soojhta kahaan dhoondein,
   Tumhara chand kahan chup gaya kahan dhoondein.
-  
+
   14
   Nahin layeenon mein insaan koyi Quda hafiz,
   Darinde aur yeh bewaarisi Quda hafiz.
-  
+
   15
   Salam tum pah shaheedon ke bekafan laashon,
   Salam tum pah Rasool-o-Batool ke pyaaro.
-  
+
   16
   Bachein jo aglay baras hum hain aur yeh gham phir hai,
   Jo chal basein toh yeh apna Salam-e-Aakhir hai.

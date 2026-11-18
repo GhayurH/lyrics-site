@@ -10,43 +10,43 @@ published: false
 romanLyrics: |-
   Aey Madinay Karbala chal sabr ka mayar dekh
   Lashkar e Shabbir may hay khoobi e kirdar dekh
-  
+
   1
   Zainab e muztar ke khaimay se nikal kar dasht may
   Aa rahay hain aath sala Jafar e Tayyar dekh
-  
+
   2
   Aon ki soorat ki may aa kar dushmanan e deen se
   Larr rahay hain nau bara se Haider e Karrar dekh
-  
+
   3
   Ran may teera saal ke Shabbar ye keh kar aa gaye
   Kal qalam ki jang ki ab tegh ki yalghar dekh
-  
+
   4
   Husn may raftar may guftar may kirdar ke
   Dekh atthara baras ke Ahmed e Mukhtar dekh
-  
+
   5
   Waqt ke Marhab ki fojain Alqama se hat gayeen
   Nehr par bat-tees sala Haider e Karrar dekh
-  
+
   6
   Kar ke saiqal khush honton par hansi ki zulfiqar
   Cheh mahinay ke Ali hain bar sar e paikar dekh
-  
+
   7
   Goshwaray tak diye hain deen e haq ki raah may
   Chaar sala Fatima ka jazba e eesar dekh
-  
+
   8
   Shaam ke darbar may chal khutba e Zainab ko sun
   Aaj phir pachpan baras ka Fatimi kirday dekh
-  
+
   9
   Kon jeeta lon hara surkhiyon may hay likha
   Aey muarrikh Shaam ke darbar ka akhbar dekh
-  
+
   10
   Deen e haq ke aayinay may dil ki ankhon se Mujeeb
   Ahle bait e Mustafa ka aik aik kirdar dekh

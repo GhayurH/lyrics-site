@@ -9,183 +9,183 @@ aliases: []
 published: false
 romanLyrics: |-
   Wawaila Sad Wawaila
-  
+
   Sham E Ghareeban Khak Py Kunba
-  
+
   Zakhmi Pairon Sy Chal Chal Ky Zainab Deti Hai Pehra
-  
+
   Dekha Ky Sawar Ata Hai Koi Zainab Yun Tarhap Kar Chillai
-  
+
   Ab Lootny Ko Kya Hai Baaqi
-  
+
   Awaz Sawar Ki Yeh Aai
-  
+
   Pehchan Tera Baba Hun Ali
-  
+
   Baba Sy Lipat Kar Di Hai Sada
-  
+
   Ghar Ujarh Gya Mera Kuch Na Raha
-  
+
   Haye Tukrhy Tukrhy Dill Mera
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Wawaila Sad Wawaila
-  
+
   Kehti Yeh Khizan Aai Baba
-  
+
   Main Kuch Na Bacha Pai Baba
-  
+
   Na Chadar Na Ghazi Baba
-  
+
   Na Mera Raha Bhai Baba
-  
+
   Allah Allah Allah Allah
-  
+
   Ghar Ujrha Hai Dill Rota Hai
-  
+
   Hai Khoon Mein Tarr Lashkar Sara
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Haye Tukrhy Tukrhy Dill Mera
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Wawaila Sad Wawaila
-  
+
   Main Behan Athara Weeran Di
-  
+
   Pardais Ich Baba Ujarh Gai
-  
+
   Dardan Di Mari Dhi Teri
-  
+
   Hai Matam Dar Bahattar Di
-  
+
   Allah Allah Allah Allah
-  
+
   Main Koon Dy Pursa Maqtoolan Da
-  
+
   Ujrhi Koon Gal Nal Laa Baba
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Haye Tukrhy Tukrhy Dill Mera
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Wawaila Sad Wawaila
-  
+
   Ashoor Ka Din Aisa Guzra
-  
+
   Abad Chaman Barbaad Hua
-  
+
   Pyasa Tanha Bhai Mera
-  
+
   Pyaron Ky Lashy Lata Raha
-  
+
   Allah Allah Allah Allah
-  
+
   Kai Bar Gira Gir Gir Ky Utha
-  
+
   Mazloom Ghareeb E Karbobala
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Haye Tukrhy Tukrhy Dill Mera
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Wawaila Sad Wawaila
-  
+
   Jadon Ghazi Jhanrya Ghorhy To
-  
+
   Maindy Muk Gaye Maan Bhirawan Ty
-  
+
   Teri Sharman Wali Zainab Nu
-  
+
   Nai Bhulny Dard Ridawan Dy
-  
+
   Allah Allah Allah Allah
-  
+
   Baba Baba Main Koon Turan Sikha
-  
+
   Main Wanjna Ay Sham Nu Rassian Paa
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Haye Tukrhy Tukrhy Dill Mera
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Wawaila Sad Wawaila
-  
+
   Pardais Allah Rahsi Ty
-  
+
   Nai Keeta Taras Zara Baba
-  
+
   Na Maro Wasty Daindi Rahi
-  
+
   Quran Koon Sir Ty Chaa Baba
-  
+
   Allah Allah Allah Allah
-  
+
   Nai Bas Chalya Koi Ujrhi Da
-  
+
   Mera Veer Laeenan Maar Dita
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Haye Tukrhy Tukrhy Dill Mera
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Wawaila Sad Wawaila
-  
+
   Ab Khak Py Hai Kunba Sara
-  
+
   Yeh Sham E Ghareeban Hai Baba
-  
+
   Khaimy Bhi Jaly Asbab Luta
-  
+
   Koi Na Raha Abid Ky Siwa
-  
+
   Allah Allah Allah Allah
-  
+
   Wahan Jashan Bapa Yahan Aah O Buka
-  
+
   Yeh Sham Hai Sham E Ashoora
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Haye Tukrhy Tukrhy Dill Mera
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Wawaila Sad Wawaila
-  
+
   Na Ro Zainab Yeh Boly Ali
-  
+
   Aa Seeny Sy Lag Ja Beti
-  
+
   Kar Hosla Meri Shehzadi
-  
+
   Abhi Sham Ki Manzil Hai Baqi
-  
+
   Allah Allah Allah Allah
-  
+
   Boli Dukhiya Tum Karna Dua
-  
+
   Karna Hai Safar Bazaron Ka
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Haye Tukrhy Tukrhy Dill Mera
-  
+
   Yeh Maqtal Hai Main Zainab Hun
-  
+
   Wawaila Sad Wawaila
-  
+
   Lyrics in Urdu text
 # source_id: nohawriteups:ea46825b62dbca51e2db
 # source_url: https://www.nohawriteups.org/main-zainab-hoon-saraiki-punjabi-nadeem-sarwar/

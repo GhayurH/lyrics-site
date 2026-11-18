@@ -10,7 +10,7 @@ published: false
 romanLyrics: |-
   Zainab Ke Bain Hai Ke Mere Ghar Ki Khair Ho...
   Mere Ghar Ki Khair Ho....
-  
+
   1
   Sholo Ki Zadd Me Abid E Muztar ki Khair Ho...
   Muztar Ki Khair Ho...
@@ -37,7 +37,7 @@ romanLyrics: |-
   Dariya Pe So Gaya Hai Mere Ghar Ka PasBaaN
   Mere Ghar Ka PasBaaN.
   Parwardigar Ab Meri Chadar Ki Khair Ho..
-  
+
   2
   (5) GhodoN Ki Ek Fauj Sajate Hai AshqiyaaN
   Sajate Hai AshqiyaaN...
@@ -51,7 +51,7 @@ romanLyrics: |-
   Naize Chuboo Rahe Hai Laeen Rekh Zar Me
   Laeen Rekh Zar Me...
   Mango Dua Ke Laasha E Asgar Ki Khair Ho..
-  
+
   3
   (7) Yeh Soch Ke Luta Diya Ghar Haq ki Raah Me
   Ghr Haq ki Raah Me..
@@ -59,7 +59,7 @@ romanLyrics: |-
   Ghr Haq ki Raah Me..
   Deen E Nabi Ki Kaaba E Athar Ki Khair Ho.
   Athar Ki Khair Ho
-  
+
   4
   (8) Shimr E Sitam Shaar ki kaano Pe Hai Nazar..
   Kaano Pe Hai Nazar..

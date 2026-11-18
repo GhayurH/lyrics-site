@@ -10,19 +10,19 @@ published: false
 romanLyrics: |-
   Gham-e-Shabbir Mein Ankho Se Jo Ansu Bahate Hain
   Zahe Qismat Wo Hi Jannat Me Ghar Apna Banate Hain
-  
+
   1
   Lahed Me Jab Farishto Ne Mujhe Dekha To Yun Bole
   Teri Imdad Ko Mushkil Kusha Tashreef Late Hain
-  
+
   2
   Kamar Tuti Huyi Hai Shaha Ki Abbas Ke Gham Me
   Ye Himmat Hai Jawan Farzand Ki Mayyat Uthate Hain
-  
+
   3
   Kaha Rokar Ye Zainab Ne Madad Ko Aeye Baba
   Sitamgar Abid-e-Bimar Ko Bedi Pehnate Hain
-  
+
   4
   Zara Dekhe to Koi Hosla iss Ghar Ke Bachcho Ka
   Ali Asghar Gale Par Teer Kha Ke Muskurate Hain.

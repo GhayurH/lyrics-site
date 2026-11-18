@@ -14,57 +14,57 @@ romanLyrics: |-
   Allahuma aghni kulli fakeer
   Allahuma ashbi kulla jaai
   Allahuma ashfi kulli mareez
-  
+
   2
   Behaqqe hazrat-e-Abbas
   Abbas, Abbas, Abbas
-  
+
   3
   Beta hay tu Ali Ka, Zahra ki tu dua hay
   Shabbir tera aaqa, Ummul Baneen maa hay
-  
+
   4
   Har surat o chalan may hayder se na juda hay
   Ta hashr tuj se kaayam dunya may bas wafa hay
-  
+
   5
   Abbas, Abbas, Abbas
-  
+
   6
   Tere alam ko thaame, har shaks keh raha hay
   Mazloome Karbala ka, Zainab ka waasta hay
   Pardesi koyi aysa, Pardes me na ujde
   Sadke mei uske jis ka, Ghar baar lutgaya hay
   Abbas, Abbas, Abbas
-  
+
   7
   Us wakt jabke Zainab, Darbaar mei gayi thi
   Qari Namazio sey, Mehfil saji huwi thi
   Zaalim yeh puchta tha, Ghazi tera kaha hay
   Baalo se muh chupaaye, Zainab yeh keh rahi thi
   Abbas,Abbas,Abbas
-  
+
   8
   Taqdeer ke sataye, tere dar pe sar jhukaye
   Ashko ki iltija ham, Ghaazi tuje sunaye
   Beemare saaribaan ke, Zakhmo ka waasta hay
   Jitne bhi khasta dil hay, Mowla shifa wo paaye
   Abbas, Abbas, Abbas
-  
+
   9
   Dil ki muraad Gazi, tere Alam se paaey
   Roti huwi jo maaen, Tere Alam pe aaey
   Zahra ke dardey pehlu ka, Deti hay waasta
   Fizza ki kaneezi mei, Mera bhi naam aaey
   Abbas, Abbas, Abbas
-  
+
   10
   Shaame Ghariban mei jis, Ka kurta jalgaya hay,
   Kaano se baaliya bhi, Haaye Shimr legaya hay
   Is bebasi se Mawla, Bacchi koi na tarse
   Farsh-e-Aza pe rokar, Har dil yeh kehraha hay
   Abbas, Abbas, Abbas
-  
+
   11
   Jitne bhi ashk maula, qirtaas par gire hay
   Masuma ki kasam hi, ghazi fakat tere hay

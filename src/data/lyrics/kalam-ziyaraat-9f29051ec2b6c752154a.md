@@ -11,27 +11,27 @@ published: false
 romanLyrics: |-
   Sajjad di jawani, iyo gham muka gaya aey
   Rulyan nay wich bazaraan, kyun aayatan qurani, iyo gham muka gaya aey
-  
+
   1
   1. Maa Aon di pukaray, day way cha koi chadar
   Mushkil chay koi kar day, Syedan tay mehrbani
-  
+
   2
   2. Asghar nu yad kardi, har ujri goad maa di
   Onday qatl te chaa gaye aey, qainat tay herani
-  
+
   3
   3. Dikhla zamen tay roran oonthaan nu paey pilawan
   Syedan day bal pyasay, reh gaye na milya pani
-  
+
   4
   4. Gal chon na laway banhwan, ro ro Sakina aakhay
   Chan veer mar way si, menu qaid di veerani
-  
+
   5
   5. Rasyan chun hath vekhay, Kubra day mehndi walay
   Akhyan chun jari howi, tan khoon di rawani
-  
+
   6
   6. Sajjad day jigar nu, gal cheer gaey aey Adil
   Tareekh day wich aa si, darbar di kahani

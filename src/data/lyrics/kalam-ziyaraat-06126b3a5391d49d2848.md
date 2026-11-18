@@ -11,97 +11,97 @@ published: false
 romanLyrics: |-
   A reciter reached Syria with a thought in his heart
   Saw the market and the palace n asked himself.
-  
+
   1
   When Zainab was bareheaded, Hussain lying shroud less
   The sun standing still on the head,
-  
+
   2
   When covered the distance between the market and the palace
   How much tribulation Bibi must have faced?
-  
+
   3
   Reached the holy shrine and said to the guard,
   O guard of Bibi Zainab’s shrine tell me this
-  
+
   4
   I travelled from the market to the palace
   I felt only a short span of time to reach
-  
+
   5
   To pass over this short distance
   How much time did the sister of Hussain, Zainab take?
-  
+
   6
   The guard lamented on listening to this question and said,
   You are a reciter of Hussain and you posses the courage to hear this
-  
+
   7
   You covered the distance in a short span
   But the same journey of Zainab equated to a thousand years,
-  
+
   8
   In thirty hours time reached the daughter of Fatima
   Surrounded by lakhs of spectators and thousands sinful
-  
+
   9
   And my sisters this very moment is so very worth of pondering over
   As she was sister of Abbas
-  
+
   10
   Bare headedness odd time and the scorching thirst,
   Desired Bibi for the cloak of Hazrat Abbas.
-  
+
   11
   The time of shaame ghareeban and remembrance of Abbas
   When there was no son, mother but helplessness,
-  
+
   12
   In the grief-stricken hand came the whole of responsibility
   Zainab became Ali, Abbas Hussain too
-  
+
   13
   For the frightful children protector became the daughter of Ali
   Offered condolences to everyone but wept herself
-  
+
   14
   Suddenly she saw a carriage approaching
   Bibi ran towards in anxiety to stop
-  
+
   15
   Asked what else they wanted to loot everything has already been taken away,
   All things burnt, my brother too dead
-  
+
   16
   Go away for the sake of my father,
   I am the daughter of a Prophet; I am Zainab the daughter of Sayeda
   On hearing the name of Mustafa, the man got anxious
-  
+
   17
   Hugged her with tears flowing and said
   I am your Baba Ali mushkil Kusha grief stricken
-  
+
   18
   Now you set off to the qaima I will replace you to guard
   At the glimpse of her father her heart busted with sorrow
-  
+
   19
   The tears dropped knowing no bounds,
   She wept with an outcry and expressed her grief,
-  
+
   20
   Slaughtered my whole family oh Baba, pulled off my cloak
   Akbar & Asgher departed Qasim n Abbas alongside too
   The knife slit through the neck of Hussain
-  
+
   21
   I could do nothing but be a helpless spectator
   O Baba, O. Baba Abbas died on the banks of the river
-  
+
   22
   This reverence we (Rehan) possess is our fortune
   Under the shadow of shrine of Abbas this Noha have we written
-  
+
   23
   When Sarwar recited at the shrine of Hussain
   It seemed like

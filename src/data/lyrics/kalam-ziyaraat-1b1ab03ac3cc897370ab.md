@@ -17,16 +17,16 @@ romanLyrics: |-
   Aray Nana
   May roti rahi mera ghar ujrra tera deen bacha Nana
   Laikin meray Hussain ne waada nibha diya
-  
+
   2
   Hussain ya Hussain ya Hussain
-  
+
   3
   Nana teray sheher se chala
   Zehra ka laadla Deen ke kaam aa gaya
   Salaar e qafla ban gaya beemar natawan
   Aur phir Shaam aa gaya
-  
+
   4
   Raahon ke sangrezon ne pursa diya usay
   Haey Nana Shaam walon ne baaghi kaha usay
@@ -34,7 +34,7 @@ romanLyrics: |-
   Ye bhi ilzaam aa gaya
   Aur phir Shaam aa gaya
   Nana teray sheher se....
-  
+
   5
   Aey Nana baazuon may jab baandhi gayi rasan
   May ro parhi to naize se bolay Shah e zaman
@@ -42,7 +42,7 @@ romanLyrics: |-
   Sun ke aaram aa gaya
   Aur phir Shaam aa gaya
   Nana teray sheher se....
-  
+
   6
   Nana bataoon kaise may kiya ho gaye sitam
   Kufay ke dar pe jaise hi pohonchay aseer e gham
@@ -50,7 +50,7 @@ romanLyrics: |-
   Lab pe Ash-Shaam aa gaya
   Aur phir Shaam aa gaya
   Nana teray sheher se....
-  
+
   7
   Waan ik Yahoodi rehta tha Bahya tha jis ka naam
   Wo kalma parrh ke chaadarain le aaya khush kharam
@@ -58,7 +58,7 @@ romanLyrics: |-
   Sabr phir kaam aa gaya
   Aur phir Shaam aa gaya
   Nana teray sheher se....
-  
+
   8
   Koofay may ham jo aa gaye beparda noha gar
   Kehta tha Koofay walon se ye shimr e bad gohar
@@ -66,7 +66,7 @@ romanLyrics: |-
   Lenay in-aam aa gaya
   Aur phir Shaam aa gaya
   Nana teray sheher se....
-  
+
   9
   Abid ko aa ke Khooli ne gham ki khabar ye di
   Hakim ke samnay abhi peshi hay aap ki
@@ -74,7 +74,7 @@ romanLyrics: |-
   Ban ke kohraam aa gaya
   Aur phir Shaam aa gaya
   Nana teray sheher se....
-  
+
   10
   Beghairaton ke shahr may sadaat aa gayay
   Pohonchay jo dil ko thaam ke haakim ke saamnay
@@ -82,13 +82,13 @@ romanLyrics: |-
   Tera zarghaam aa gaya
   Aur phir Shaam aa gaya
   Nana teray sheher se....
-  
+
   11
   Wo batain likh saka hi nahi Mazhar Abidi
   Jo keh rahi thi Nana se beti Batool ki
   Aey Nana meray dard ka Irfan hay jisay
   Aray ansoo na ruk sakain gay kabhi us ki ankh se
-  
+
   12
   Jab Shaam pohoncha qafila - haey haey haey
   Sadaat may kohraam tha - haey haey

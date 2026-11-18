@@ -13,31 +13,31 @@ romanLyrics: |-
   Ahmed ka nawasa doob gaya
   Deen apna bachanay ki khaatir
   Islam ka taara doob gaya
-  
+
   2
   Noshah ka lasha khaimay may
   Kis tarha se Sarwar le aaye
   Maa jis ki balayain leti thi
   Wo khoon may chehra doob gaya
-  
+
   3
   Hamshakl Nabi marnay ko chala
   Maa sar ko jhukaye roti rahi
   Chehray ki udasi keh uthi
   Qismat ka sitara doob gaya
-  
+
   4
   Abbas jo le ke mashkeeza
   Khaimay se chalay darya ki taraf
   Yun moj e barrheen muztar ho kar
   Pani may kanara doob gaya
-  
+
   5
   Jab teer lagaya zalim ne
   Ihsas ki dunyi kaamp uthi
   Yun nanhay galay se khoon baha
   Besheer ka kurta doob gaya
-  
+
   6
   Asghar ke galay par teer laga
   Konain may chaya sannata

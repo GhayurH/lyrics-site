@@ -10,10 +10,10 @@ published: false
 romanLyrics: |-
   Sheh ka ye imtehan kaisa hay
   Haey Akbar ka dam ukharta hay
-  
+
   1
   Nojawani ka bagh ujarta hay
-  
+
   2
   Baap ke samnay jawan beta
   Khaak par airyan ragarta hay

@@ -11,33 +11,33 @@ aliases: []
 published: false
 romanLyrics: |-
   Zainab ka ye noha tha majaye khuda hafiz
-  
+
   1
   Kya din hamay furqat ne dikhlaye khuda hafiz
   Ek godh ke paale hai khele hai ek aangan may
   Ab chod chale mujhko tanhai ke is ban may
   Shikwa ye behan lab par kya laaye khuda hafiz
-  
+
   2
   Ab kaun sakina ko seene pe sulayega
   Roothegi agar bachi kaun usko manayega
   Ro roke na wo bachi mar jaye khuda hafiz
-  
+
   3
   Khud apne hi haathon se amma ne siya tha jo
   Amma ki wasiyat thi kurta wohi ab pehno
   Puri wo wasiyat bhi hojaye khuda hafiz
-  
+
   4
   Jab haale safar jaa kar sughra ko sunaungi
   Guzre jo alam hum par jab usko bataungi
   Aisa na ho wo sunkar mar jaye khuda hafiz
-  
+
   5
   Har ghar may bicha doongi mai teri safe matam
   Har ghar pe laga hoga ek roz tera parcham
   Kam honge na gham ke ye saaye khuda hafiz
-  
+
   6
   Bhai ka suhail us dam kya haal hua hoga
   Jab ruqsate aakhir may zainab ne kaha hoga

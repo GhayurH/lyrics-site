@@ -11,27 +11,27 @@ published: false
 romanLyrics: |-
   Khaliq apne paygamber da hik war zahoor wala kar, maiku Akbar puttar ata kar
   Mehrooma maa da putar han may, mendi aey manzoor dua kar, maiku Akbar putar atta kar.
-  
+
   1
   1) Menda nana tur gaiya duniyah ton, odhai roop da jald zahoor hovay,
   Maiku day farzand rasool jeraa, menda bachra ain darood hovay,
   Sada haq koi devay na devay, tu apna khums ada kar
-  
+
   2
   2) Ay khaliq vaikh Hussain ha may, wada har haal nibaa sakdah,
   Maslain day sona bachray da, may tahtul hanak wala sakda,
   Puyu putar di laash kiven chainda, karbal to app nigah kar
-  
+
   3
   3) Mendi bhain di hasrat hai khaliq, oku bhurkaiyan day wich chupa lar ndi,
   Mei zimmawari chahna han, odhi lash koo aap sambalanr di
   Odi Ahmad naal jahan ootay mendi surkhooro karbobala kar
-  
+
   4
   4) Rat rovan walay shaam dai wich, menda Aabid putar beemar sahi,
   Akbar bas saal athara da, menday wehray dah mehmaan sahi
   Ohday karbal day mosam tai-en, Sajaad koo aan bhira kar
-  
+
   5
   5) Hovay mojza pak shabab honda, qainath wich pak quran wangoo
   Oda jigar namaz jaya hoya, oda kad hovay azan wangoo

@@ -12,55 +12,55 @@ published: false
 romanLyrics: |-
   Laashe qasim pe boli sakina
   Mar gaya haye ek shab ka dulha
-  
+
   1
   Ek suhagan hui aaj bewa
-  
+
   2
   Laashe qasim hai aur ek dulhan hai
   Ye dulhan hi to meri behan hai
   Dekha jaata nahi is ka chehra
-  
+
   3
   Kitne tukde huwe tere bhaiya
   Jab aba may tumhe laaye bhaiya
   Mai ye samjhi ke hai tera sehra
-  
+
   4
   Kya khabar thi ye mujhko ay bhai
   Maut aayi hai tujhko ay bhai
   Teri mayyat hai aur hai sakina
-  
+
   5
   Teri mayyat nahi dekhi jaati
   Wo kalayi bhi hai khoon may doobi
   Jis pa baba ne baandha tha kangna
-  
+
   6
   Kaise bewa jiyegi ay qasim
   Jab safar tay karegi ay qasim
   Nok e naiza pe sar tera hoga
-  
+
   7
   Kaun us se batayega aakhir
   Bekason ka na tha koi nasir
   Kufiyon ne unhe maar daala
-  
+
   8
   Laashe qasim hai aur hai qayamat
   Ud gayi ruye kubra ki rangat
   Jis ghadi dekha waaris ka laasha
-  
+
   9
   Dekha maa ne jo bete ka laasha
   Yaad waaris ka aaya kaleja
   Jin ka tukde jigar tasht may tha
-  
+
   10
   Rukh madine ki jaanib kiya jab
   Boli sun ke ye sughra ay ya rab
   Ho chuki hai behan teri bewa
-  
+
   11
   Gham mubarak o rehan roko
   Sunke behsoh hai farwa gham ko

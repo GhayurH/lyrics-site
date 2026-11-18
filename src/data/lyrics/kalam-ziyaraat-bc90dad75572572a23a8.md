@@ -10,11 +10,11 @@ published: false
 romanLyrics: |-
   Sajjad ro ke bolay
   Aey meray laal Baqar
-  
+
   1
   Kar sabr meray beta
   Khud to sambhal Baqar
-  
+
   2
   Mat peet seena o sar
   Mat kar tu aisay Noha

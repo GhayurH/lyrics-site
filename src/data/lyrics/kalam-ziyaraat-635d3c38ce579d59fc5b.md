@@ -11,32 +11,32 @@ published: false
 romanLyrics: |-
   Ya Hazrat-e-Abbas-e-Alamdar Madad Kar
   Lakht-e-Jigar-e-Haider-e-Karar Madad Kar
-  
+
   1
   Ya Shah Tujhay Sadqa-e-Sarkar-e-Madina
   Faryad hai faryad hai saqa-e-Sakina
   Hai teray siwa kaun madadgar madad kar
-  
+
   2
   Ya Shah tujhay Syed-e-Mazloom ka sadqa
   Ya Shah tujhay Asghar-e-Masoom ka sadqa
   Hun banda gunah gaar Alamdar madad kar
-  
+
   3
   Mushkil mein tery naam ki di jis nay duhai
   Aik pal mein teri zaat hai imdad ko aai
   Kiun meray liay dair hai Sarkar madad kar
-  
+
   4
   Bigri hoi maula meri taqdeer bana day
   Hasnain k sadqay mein mujhay gham say chura day
   Qismat k meray malik o mukhtar madad kar
-  
+
   5
   Dunya mein koi misl nahin teri wafa ki
   Jaan tunay muhammad k niwasay pay fida ki
   Mein aik Nazar ka hun talabgar madad kar
-  
+
   6
   Aye Shah qasam tujh ko hai Shabbir k sir ki
   Banday ko talab hai tu Faqat teri Nazar ki

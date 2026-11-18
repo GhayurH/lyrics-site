@@ -13,45 +13,45 @@ alternateTitle: Zahra Qabool Kijiye Pursa Husain Ka
 romanLyrics: |-
   Hayya ala khayr il amal
   Ya Husain
-  
+
   Zehra qabool kijiye pursa Husain ka
   Pyase ka bewatan ka Shah-e-mashriqain ka
-  
+
   1
   Jab maah-e-Muharram ne khabar-e-gham ki suna di
   Rukh kar ke Baqi ka ye momin ne sada di
   Tashrif laaein farsh-e-aza Shah ka bich gaya
-  
+
   2
   Mazlum ke gham mein hui maghmum khudaai
   Phir naam pe pyaasoṅ ke sabileṅ hain lagaai
   Ghar ghar mein hai Husain ki ghurbat ka tazkira
-  
+
   3
   Har mor pe dhaaras jo raha Bint-e-Ali ki
   Wo jis ki shahaadat pe kamar Shah ki jhuki thi
   Us sher ke kate hue shaanoṅ ka waasta
-  
+
   4
   Aayi jo Madine mein wo zindaan se palat kar
   Ghar jaane se pehle gayi maadar ki lehad par
   Zainab ne maaṅ ki qabr pe di pehli ye sada
-  
+
   5
   Ghazi ko isi maaṅ ne sikhaaiṅ thi wafaaeṅ
   Betoṅ ke liye bharti bhala kaise wo aaheiṅ
   Noha tha ye Baqi mein Ummul Banin ka
-  
+
   6
   Pardes mein ummat ne jise zakhm diye hain
   Ek din mein jise daagh bahattar ke mile hain
   Us par salaam jis ka bhara ghar ujar gaya
-  
+
   7
   Jine na diya us ko Musalmaanoṅ ne Bibi
   Paala tha jise aap ne armaanoṅ se Bibi
   Haye rula rula ke use zibh kar diya
-  
+
   8
   Mazlum ki gardan pe wo chalta hua khanjar
   Khuṅ un ko rulaata hai Takallum yehi manzar

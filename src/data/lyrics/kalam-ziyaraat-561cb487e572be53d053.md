@@ -11,27 +11,27 @@ published: false
 romanLyrics: |-
   Lasha e Muslim pe haey ro ke Zehra ne kaha
   Ya Ali mara gaya hay mera beta be khata
-  
+
   1
   Zalimo ne ghair ke mara hay is ko is tarha
   Chand meray ghar ka haey badliyon may ghir gaya
-  
+
   2
   Shehr e Koofa Syeda ko ras na aaya kabhi
   Aaj phir ronay ki khatir hay yahan aana para
-  
+
   3
   Haey tanha jaan ke mara hazaron ne isay
   Sar ta pa is ka badan hay sara zakhmo se bhara
-  
+
   4
   Pehlay to darul amara se giraya haey haey
   Aur phir pamal sab ne lasha e Muslim kiya
-  
+
   5
   Lash par royon may is ki ya karon in ko talash
   Ho gaye ghurbat may is ke dono bachay bhi juda
-  
+
   6
   Aey safeer e Karbala bas ye hay aezaz e Raza
   Aap jo maqbool kijye ye likha Noha mera

@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain ibne ali ka kalma
-  
+
   1
   Padha diya tu ne la ilaah ko
   Kata ke shaane alam utha kar
@@ -20,31 +20,31 @@ romanLyrics: |-
   Zameer goondha jo matami ka
   Nabi mila ke ali mila ke
   Mila diya tu ne la ilaah ko
-  
+
   2
   Labalab apne lahoo se bhar ke
   Ye tishnagi se kasheed kar ke
   Yehi ke abid baqa ka saaghar
   Pila diya tu ne la ilaah ko
-  
+
   3
   Diye hai baazu de di hai saansein
   Diya hai chehra de di hai aankhein
   Khuda ye hoi ye jaa ke pooche
   Ke kya diya tu ne la ilaah ko
-  
+
   4
   Subhana rabb e azeem hai tu
   Hai rabb e aala kareem hai tu
   Nashayb e maqtal se taa ba sidra
   Saja diya tu ne la ilaah ko
-  
+
   5
   Hai sar ka nauha malak ka nauha
   Zameen ka nauha falak ka nauha
   Har ek zamane mein khud ujal ke
   Basa diya tu ne la ilaah ko
-  
+
   6
   Khuda ki tasbeeh bhi yehi hai
   Naved ka bhi yehi hai sajda

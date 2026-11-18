@@ -15,61 +15,61 @@ romanLyrics: |-
   Khateele nainawa hussain
   Hussain hussain hussain hussain
   Hai waqte ruqsate hussain
-  
+
   2
   Sakina kar rahi hai bain
   Na jaaye tanha chod kar
   Mitega sab ke dil ka chain
   Zabihe maariya hussain
-  
+
   3
   Hussain hussain…
   Wo zulm kaun sa raha
   Jo aap par nahi hua
   Siwaye sabr o shukr ke
-  
+
   4
   Zuban se kuch nahi kaha
   Ghamon ki intehan hussain
   Hussain hussain…
   Ay sher ghaziyon utho
-  
+
   5
   Hamara haal dekh lo
   Haazar nauso aur pachaas
   Hai zaqm behta hai lahoo
   Bina e la-ilaah hussain
-  
+
   6
   Hussain hussain…
   Ay mere bhai saf shikan
   Ay baazu e shahe zaman
   Kamar khameeda kar gaya
-  
+
   7
   Teri judaai ka mehan
   Sukoone mustufa hussain
   Hussain hussain…
   Kahan ho akbar e jari
-  
+
   8
   Ye kyun hai beta berukhi
   Akela reh gaya pidar
   Qabar lo aake baap ki
   Kharaar e sayyeda hussain
-  
+
   9
   Hussain hussain…
   Udoo ke teer shola baar
   Badan ko kar gaye figaar
   Magar sambhala dosh par
-  
+
   10
   Tane imam e zeewaqaar
   Nishana e jafa hussain
   Hussain hussain…
   Ye maqtal e hussain ka
-  
+
   11
   Bayan hashr tha bapa
   Zameen larazti thi anees

@@ -20,7 +20,7 @@ romanLyrics: |-
   apni chadar ka saibaṅ de de
   teri qudrat meiṅ kya nahi bibi
   tu jise chahe do jahaṅ de de
-  
+
   ae meri bibi, aansuoṅ ne dua maangi hai
   teri tasbih parh ke dil ne tujhe pukara hai
 
@@ -29,7 +29,7 @@ romanLyrics: |-
   Har farishta jahan gadagar hai
   Tere maqruz aasman waale
   Tera maqruz har Sikandar hai
-  
+
   Ae meri bibi tu sakhi hai tere bache bhi
   Ek Raahib nahi gawahi mein jag ye saara hai
 
@@ -38,7 +38,7 @@ romanLyrics: |-
   har jawaaṅ keh raha hai ro ro kar
   hum raheiṅ na raheiṅ magar bibi
   ta qayamat rahe gham-e-Sarwar
-  
+
   ae meri bibi, tere bachoṅ ka gham manate haiṅ
   apni aulaad se kahiṅ barh ke gham yeh pyara hai
 
@@ -47,7 +47,7 @@ romanLyrics: |-
   muflisoṅ ka nasib wa kar de
   jin ki godi bhari nahi bibi
   unko aulaad tu ata kar de
-  
+
   ae meri bibi, bas tu hi murad deti hai
   teri chaukhat dar-e-ilahi ka istiara hai
 
@@ -56,7 +56,7 @@ romanLyrics: |-
   Bas gham-e-Karbala ata kar de
   Be-khata qaid mein hai jo momin
   Maujize se unhein riha kar de
-  
+
   Ae meri bibi gham koi Husainiyon ko na de
   Jo Husaini hai tere baba ko jaan se pyara hai
 
@@ -65,7 +65,7 @@ romanLyrics: |-
   saibaṅ in ka teri chadar hai
   unke sinoṅ pe ae meri bibi
   daagh-e-matam nishan-e-Haider hai
-  
+
   ae meri bibi, khuld meiṅ shahid jab jaye
   teri awaaz aaye aane do yeh hamara hai
 
@@ -74,7 +74,7 @@ romanLyrics: |-
   Aa sake ya nahi Khuda jaane
   Kya bharosa hamari saanson ka
   Ab kahan hum kahan aza-khane
-  
+
   Ae meri bibi ashk-e-gham teri amanat hai
   Teri aulaad ke hi gham ne hamein sanwara hai
 
@@ -83,7 +83,7 @@ romanLyrics: |-
   meri nasloṅ meiṅ bhi rahe nauha
   jaise maiṅ ne parha hai bachpan se
   mere bache bhi yuṅ parheiṅ nauha
-  
+
   ae meri bibi, inke dil meiṅ wilayah-e-Haider
   mere maa baap ki taharat ka ek ishara hai
 
@@ -92,7 +92,7 @@ romanLyrics: |-
   marg-e-Mohsin pe bhi rulaya hai
   tujh ko baba ke baad ummat ne
   haaye darbar meiṅ bulaya hai
-  
+
   ae meri bibi, kitne sadme uthaye haiṅ tu ne
   jite ji tujh ko meri shahzadi gham ne maara hai
 
@@ -101,7 +101,7 @@ romanLyrics: |-
   zindagi meiṅ jo tu ne gham dekhe
   aasman o zamiṅ pe gar hote
   misl-e-shab woh siyah ho jate
-  
+
   ae meri bibi, dekh kar teri musibat ko
   sare aalam ka dil masaib se para para hai
 
@@ -110,7 +110,7 @@ romanLyrics: |-
   tere bachoṅ ka gham rahe zinda
   saath Irfan ke rahe jaari
   tere sadqe meiṅ karwan-e-aza
-  
+
   ae meri bibi, tere dar pe sar jhukate haiṅ
   har Husaini ka tere tukroṅ pe hi guzara hai
 ---

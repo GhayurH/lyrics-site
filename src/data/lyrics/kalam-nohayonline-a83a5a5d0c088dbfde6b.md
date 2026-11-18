@@ -10,16 +10,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Fatema zehra ka ya rab khoob hai gulzaar bhi
-  
+
   1
   Gul hi gul hai aur nazar aata nahi ek khaar bhi
   Paanch harf islam may hai paanch harf emaan may
   Panjetan islam hai emaan ka minaar bhi
-  
+
   2
   Waqte aakhir roke ye sheh se kaha abbas ne
   Ran may hoo chahta hoo aaqa aap ka dedaar bhi
-  
+
   3
   Sayyede sajjad ke sar par qayamat aagayi
   Sar barehna hai haram aur shaam ka bazaar bhi

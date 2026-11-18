@@ -13,35 +13,35 @@ romanLyrics: |-
   Hay karb main itrat e payambar
   Jabhi to sahil pe alqama ke
   Kisi ki mayyat tarap rahi hay
-  
+
   2
   1) Ye koi mehve buka hay shayad
   Kisi nay ammu kaha hay shayad
   Barha hay shayad koi sitamgar
   Jabhi to sahil pe alqama ke
   Kisi ki mayyat tarap rahi hay
-  
+
   3
   2) Wo bholi bhali si aik bacchi
   Najaf ki janib jo tak rahi thi
   Kisi nay cheeney hain us ke gohar
   Jabhi to sahil pe alqama ke
   Kisi ki mayyat tarap rahi hay
-  
+
   4
   3) Atash say bacchay machal rahay hayn
   Ye phool sholon main jal rahay hayn
   Chaman main kumla gaye gul e tar
   Jabhi to sahil pe alqama ke
   Kisi ki mayyat tarap rahi hay
-  
+
   5
   4) Hujoom e gham say jo neem jan hay
   Wohi jo bemaar natawan hay
   Kisi nay kheyncha hay uska bistar
   Jabhi to sahil pe alqama ke
   Kisi ki mayyat tarap rahi hay
-  
+
   6
   5) Rahi jo kufay ki shahzadi
   Kisi nay shayad usay sada di

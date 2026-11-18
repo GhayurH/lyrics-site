@@ -14,11 +14,11 @@ romanLyrics: |-
   Rahay khayaal ke, Shabbir ko na ho eezaa
   Hussain,  Pehle hi zakhmo se chur chur hua
   Malak pukara ye, mujh say na ho sake ga khudaa
-  
+
   2
   May kis tarha se nikaloon, badan se jaan-e-Hussain
   Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
-  
+
   3
   1. Haey, Laga hai zakhm tabar, beh raha hai sar se lahoo
   Bhare hain khoon mein jaane Rasool ke gesu
@@ -26,7 +26,7 @@ romanLyrics: |-
   Ke is lahoo mein tho hai Fatema ke doodh ki bu
   May kis tarha se nikaloon, badan se jaan-e-Hussain
   Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
-  
+
   4
   2. Haey, May phir in-aankhon pe dhaoon sitam ye kya hay zaroor
   Bichar ke jo Ali Akber se ho gayeen benoor
@@ -34,7 +34,7 @@ romanLyrics: |-
   Kaha dahan mein tho kaante pade hain Rabbe ghafoor
   May kis tarha se nikaloon, badan se jaan-e-Hussain
   Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
-  
+
   5
   3. Nida ye aayi ke gardan se khynchna in ki
   Kaha my kya kahoon garden pe chal rahi hai churi
@@ -42,7 +42,7 @@ romanLyrics: |-
   Na zibha kar mere bacche ko mai duwa doongi
   May kis tarha se nikaloon, badan se jaan-e-Hussain
   Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
-  
+
   6
   4. Haey, Nida ye aayi ke seene se qabz kar le jaan
   Kaha wo teeron se chalni hay aey mere Rehmaan
@@ -50,7 +50,7 @@ romanLyrics: |-
   Aur ab to hay tahe zaanuye Shimr ye quraan
   May kis tarha se nikaloon, badan se jaan-e-Hussain
   Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
-  
+
   7
   5. Haey, Nida ye aayi ke mazloomiyet kay rutba shinas
   Qamr se khynchle kaabe ki jaan be waswaas
@@ -58,7 +58,7 @@ romanLyrics: |-
   Qamar tho toot gayi, jabse mar gaye Abbas
   May kis tarha se nikaloon, badan se jaan-e-Hussain
   Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
-  
+
   8
   6. Falak se tab hua roohul amee ka ran mein nuzool
   Kaha pukar ke muh dhamp lo baraye Batool
@@ -66,7 +66,7 @@ romanLyrics: |-
   Sada ye thi malakul mauth ki ba huzn malool
   May kis tarha se nikaloon, badan se jaan-e-Hussain
   Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
-  
+
   9
   7. Haey, Isay ye hukm hu par- fikr –ye hay ay yazdaan
   Har ek juzv hay zakhmi lagaaoon haath kahan

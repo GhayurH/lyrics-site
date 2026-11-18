@@ -12,37 +12,37 @@ alternateTitle: "Hai Kahan Bhai Mera Ae Zuljanaah"
 romanLyrics: |-
   Zuljanaah Zuljanaah
   Hai kahan bhai mera ae Zuljanaah
-  
+
   1
   Zin khaali aur rakaaboṅ se tapakta hai lahu
   Tujh se aati hai gharib-e-Karbala ke khun ki bu
   Kya Sakina ki yatimi ki khabar laaya hai tu
   Khun hai maathe pe ye kis ka mala
-  
+
   2
   Haal aaqa ki musibat ka suna de Zuljanaah
   Ik behan ko us ke bhaai se mila de Zuljanaah
   Raah-e-maqtal Bint-e-Zahra ko dikha de Zuljanaah
   Dhundne jaaye kahaaṅ Shah ko bhala
-  
+
   3
   Wa Husaina ki sadaaeṅ haiṅ fiza meiṅ kis liye
   Surkh aandhi chal rahi hai Karbala meiṅ kis liye
   Baj rahe haiṅ shaadiyaane ashqiya meiṅ kis liye
   Shaamiyoṅ meiṅ shor hai kaisa bapa
-  
+
   4
   Dil bahut betaab tha aaya hai jab se naamabar
   Yaad Sughra aa gayi kya naujawaaṅ ki laash par
   Larte larte par gayi kya zakhmi sine par nazar
   Laash par Akbar ki kya ghash aa gaya
-  
+
   5
   Chain kaise bhaai ke bin ghar meiṅ paayegi behan
   Tiroṅ naizoṅ barchhiyoṅ ke zakhm khaayegi behan
   Apne bhaai ko utha kar ran se laayegi behan
   Ye bata tashna dahan kis jaa gira
-  
+
   6
   Laut kar wo ghar na aaya aaj maqtal jo gaya
   Fatema ka chaand bhi kya Nainawa meiṅ kho gaya

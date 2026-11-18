@@ -10,91 +10,91 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya Zehra
-  
+
   1
   Ay meri bibi tere dar pe istighasa hay
   Tera mamnoon meri shehzadi ye jaha sara hay
-  
+
   2
   Tu hame hifz or amaan dede,
   Apni chadar ke saiban dede
   Teri qudrat me kya nahi bibi,
   Tu jise chahe do jahaan dede
-  
+
   3
   Ay meri bibi aansu-o mein duwa mangi hay
   Teri tasbee hi parke dil ne tuje pukaara hay
-  
+
   4
   Tera darbaar wo sakhi dar hai,
   Har farishta jahaan gadaagar hay
   Tere maqrooz asmaan waale
   Tera maqrooz har sikandar hay
-  
+
   5
   Tu sakhi hai tere bache bhi
   Ek raahi nahi gawaahi me jag ye saara hay
-  
+
   6
   Farshe majlis pe aur musalle par,
   Har jawaa keh raha hai roro kar
   Ham rahain na rahain magar bibi,
   Ta qayamat rahe ghame Sarwar
-  
+
   7
   Ay meri bibi tere bacho ka gham manaa te hay
   Apni awlaad se kahi barke gham ye pyara hay
-  
+
   8
   Karz makrooz ka adaa karde,
   Mufliso ka naseeb wa kar day
   Jinki godi bhari nahi bibi
   Unko awlaad tu ataa kar day
-  
+
   9
   Ay meri bibi bas tuhi muraad deti hay
   Teri chawkhat dare ilahi ka isti araa hay
-  
+
   10
   Farq momin se gham juda karde,
   Bas ghame Karbela ataa kar day
   Be khataa qaid me hai jo momin,
   Mojize se unhe rihaa kar day
-  
+
   11
   Ay meri bibi gham koyi hussainiyo ko na de
   Jo Hussaini hai tere baba ko jaan se pyaara hay
-  
+
   12
   Un shaheedo ka ye mukadar hai,
   Sayibaan inka teri chadar hay
   Unke sino pe ay meri bibi
   Daaghe maatam nishaane Haider hay
-  
+
   13
   Ay meri bibi khuld me shaheed jab jaye
   Teri awaaz aaye aane do ye hamaara hay
-  
+
   14
   Majlise gham me ashk barsaane,
   Aa sakain ya nahi Khuda jaane
   Kya bharosa hamaari saanso ka,
   Ab kahaan ham kahaan azaa khaane
-  
+
   15
   Ay meri bibi ashke gham teri amaanat hay,
   Teri awlaad ke hi gham ne hame sawaara hay
-  
+
   16
   Tujko ummat ne yun sataaya hai,
   Marghe Mohsin pe bhi rulaaya hay,
   Tujko baba ke baad ummat ne,
   Haaye darbaar me bulaaya hay
-  
+
   17
   Ay meri bibi kitne sadme utha hai tune,
   Jeetay ji tujko meri shehzadi gham ne maara hay
-  
+
   18
   Ay meri bibi tere darpe sar jukaa te hay,
   Har Hussaini ka tere tukro pe hi guzaara hay

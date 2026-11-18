@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Saydaniya karti hai shabbir tera matam
-  
+
   1
   Ay waaris e quranam ay shaahe shaheedanam
   Be sar hai sabhi laashe pamaali ki zad par hai
   Jalti hui reti par sadaat khule sar hai
   Aur nauha kuna aalam
-  
+
   2
   Naizon ka ghana jangal aur raat ka sannata
   Pehre pe nabi zaadi karti hai yehi nauha
   Lachaar huwe ab hum
-  
+
   3
   Beton ko nahi roti ghamkhwar teri khwahar
   Ghazi ko bulaati hai ek haath rakhe dil par
   Bechain o dilafgaaram
-  
+
   4
   Ab lootne aate hai sadaat ko ye zaalim
   Kis darja rulaate hai sadaat ko ye zaalim
   Ab jaaye kahan pur gham
-  
+
   5
   Haq teri mohabbat ka kulsoom ada karti
   Aulaad agar hoti to tujhpe fida karti
   Karti hai bapa payham
-  
+
   6
   Baba hai kahan mere hai bain sakina ke
   Mar jaungi ro ro ke bin shaah e madina ke
   Kya is ko bataye hum
-  
+
   7
   Be parda bahan teri bazaar mein jayegi
   Amma ki tarha zainab darbar mein jayegi
   Kya is se bada hai gham
-  
+
   8
   Hamsheer rasan basta jab qaid mein jayegi
   Zinda mein tera matam ek roz karayegi
   Be monis o be yaaram
-  
+
   9
   Jee bhar ke kiya matam abbas e dilawar ka
   Qasim ali asghar ka hamshakle payambar ka
   Ta hashr karenge hum
-  
+
   10
   Ye mazhar o mesum ki din raat azadari
   Manzoor kare zehra ye nauhon ki tayyari

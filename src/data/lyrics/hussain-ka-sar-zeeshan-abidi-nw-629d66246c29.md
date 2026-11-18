@@ -45,4 +45,3 @@ Jab uske samne la kar rakha Hussain ka sar
 
 Lipat ke sogayi Zeeshan baap se beti
 Andheri qaid mein jis dam mila Hussain ka sar
-

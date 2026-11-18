@@ -9,10 +9,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Sajjad tera seena dardan da khazeena aey
-  
+
   1
   Aj qaid teray rallay Zainab te Sakina aey
-  
+
   2
   Sajjad muhari toon turya wi na janda aey
   Ik rait garam zakhmi pairan diyan talyan nay

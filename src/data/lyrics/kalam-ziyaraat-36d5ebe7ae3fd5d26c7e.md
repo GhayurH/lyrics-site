@@ -10,11 +10,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Haey qayamat ka hay samaa
-  
+
   1
   Chanay lagi sham-e-gharibaan
   Khaima-e-Sadat se uth duwan
-  
+
   2
   1) Dhal gaya din khatm larayi hui, moat ki khamoshi hay chayi hui
   Chak gareban khudai hui, khak basar Fatima jayi hui

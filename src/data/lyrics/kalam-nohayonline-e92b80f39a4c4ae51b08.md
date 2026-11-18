@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Aaja akbar shabihe paighambar
-  
+
   1
   Shakle zehra tujhe bulaati hai
   Khaali hujron mein yaadon ke
@@ -20,31 +20,31 @@ romanLyrics: |-
   Kaise dekhegi teri maajayi
   Bain kar ke ye khud bhi roti hai
   Nani salma ko bhi rulaati hai
-  
+
   2
   Khatm muddat ho ab judaai ki
   Nana surat dikha de bhai ki
   Gham ki roodad jo ke dukiyari
   Roz nana ko ro sunaati hai
-  
+
   3
   Deti paigham hai parindo ko
   Koi akbar se jaa ke ye keh do
   Lab pe sughra ke naam hai tera
   Ashk shaam o sahar bahaati hai
-  
+
   4
   Din ko takti hai raah wo teri
   Raat kat'ti hai yaad mein teri
   Jab se bichda behen se tu akbar
   Chain ek pal kahan wo paati hai
-  
+
   5
   Jab kabhi dekhti hai gehwara
   Yaad aata hai hasliyon waala
   Deti hai loriyon khayalon mein
   Jhoola asghar ka wo jhulaati hai
-  
+
   6
   Boli jawwad shaah ki dukhtar
   Yaad karti hai tujhko ro ro kar

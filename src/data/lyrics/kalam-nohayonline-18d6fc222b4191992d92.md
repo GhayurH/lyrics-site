@@ -17,49 +17,49 @@ romanLyrics: |-
   Shehzadiyan bazaaron mein hoti hai wo tash'heer
   Ki hai ye musalman ne sadaat ki tauqeer
   Haye hoti hai sadqon ki bauchar wavaila
-  
+
   2
   Qaidi hai wo kufe mein kabhi jinki thi shaahi
   Quran ki aayaat mein hai jinki gawahi
   Hoti hai kahin yun bhi kisi ghar ki tabahi
   Haye lut gayi zehra ki sarkar wavaila
-  
+
   3
   Abid ye sada dete hai thaame huwe bedi
   Kis mod pe laayi hai mujhe meri yateemi
   Langar ke sabab meri kamar hogayi dohri
   Haye kaise kate raahe pur khaar wavaila
-  
+
   4
   Maloom hai ye sab ko naazon ke pale hai
   In kaanton pe paidal jo kayi meel chale hai
   Ek rassi hai aur chote bade baare gale hai
   Haye zulm o sitam ki hai yalghaar wavaila
-  
+
   5
   Kehta hai koi dekho wo abbas ka sar hai
   Rehwaar ki gardan mein jo sar garme safar hai
   Sharminda hai balwe mein jo zainab khule sar hai
   Haye naize pe chalna hai dushwaar wavaila
-  
+
   6
   Aurat koi kehti hai wo hai maadar e akbar
   Rakhe huwe haathon ko jo hai apne jigar par
   Jaise kisi barchi se ho chalni dil e maadar
   Haye daaghe pisar se hai seena figaar wavaila
-  
+
   7
   Kehti hai koi maa mere jarrar kahan ho
   Bano ne kaha asghar e nadan kahan ho
   Ek shor hai abbas e alamdar kahan ho
   Haye durre lagate hai aghiyaar wavaila
-  
+
   8
   Jab dekhti hai bali sakina ye nazare
   Bazaar mein har simt tamashayi hai saare
   Tab kehti hai baba mere tum ran ko sidhare
   Haye kya karun mai dukhiya lachaar wavaila
-  
+
   9
   Ay aamir o nayyar ye qayamat ki ghadi hai
   Zainab dar e sa'at pe sar nange khadi hai

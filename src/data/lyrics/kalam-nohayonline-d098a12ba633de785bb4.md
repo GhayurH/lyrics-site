@@ -17,25 +17,25 @@ romanLyrics: |-
   Saron ko dar se patakne ki kaam aati hai
   Baraste rehte hai aankhon se ta-sehar sab ki
   Lahoo bhare hue manzar hussain haye hussain
-  
+
   2
   Palat ke aun o mohamed bhi ghar nahi aate
   Ab umme laila ko akbar nazar nahi aate
   Tadapti rehti hai qasim ki yaad mein farwa
   Rubab kehti hai asghar hussain haye hussain
-  
+
   3
   Guzur gaye hai kayi din na sabr hai na kharaar
   Tumhe bulaati hai raaton ko neend mein kayi baar
   Kabhi kabhi yahan hum sab se chup ke kone mein
   Sakina roti hai aksar hussain haye hussain
-  
+
   4
   Kate jo pani ki khaatir kareeb nehr e furaat
   Wohi to thay mere baazu wohi to thay mere haath
   Mila huwa hai dil o jaan mein zakhm ki soorat
   Hai jiska naam alam par hussain haye hussain
-  
+
   5
   Pahar hai nok-e-sinaaṅ, do pahar hai khanjar ka
   Ye Shaam naiza ho jaise, ye raat hai talwaar
@@ -47,7 +47,7 @@ romanLyrics: |-
   Jigar hassan ka tha seene mein dil batool ka tha
   Wo jism chod ke aayi hoo tapte sehra mein
   Wo sar hai noke sina par hussain haye hussain
-  
+
   7
   Jo hum pe toot gaya aasman e ranj o mehan
   Qayaam qaid mein hota hai aur safar mein rasan

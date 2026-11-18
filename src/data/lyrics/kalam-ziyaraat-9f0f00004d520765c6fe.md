@@ -10,19 +10,19 @@ published: false
 romanLyrics: |-
   Sughra teray baghair safar mera adhoora ho ga
   Veeran ghar may kaise, ab tera guzara ho ga
-  
+
   1
   Beemar behan ho to chora nahi jata
   Sab log ja rahay hain, Kia mera sahara ho ga
-  
+
   2
   Gar Karbala may tujh ko may na bula saka
   Shadi ka khab wallah, Akbar ka na poora ho ga
-  
+
   3
   Kayi bar bibi Sughra mehmal pe charhi ho gi
   Kayi bar rotay rotay, Akbar ne utara ho ga
-  
+
   4
   Nashad baara chowda Masoom ne kaha
   Jannat may ronay walo, ghar aadha tumhara ho ga

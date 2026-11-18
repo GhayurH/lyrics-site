@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Ho gaye zainab se khafaa Aai mere baba
-  
+
   1
   Kya beti se pyaari thi qaza Aai mere baba
   Kya beti se pyaari thi qaza Aai mere baba

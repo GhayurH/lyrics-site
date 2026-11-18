@@ -9,25 +9,25 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain Ya Hussain Ya Hussain Ya Hussain
-  
+
   1
   Zehra ka ladla bay jurm-o-bai khata haey maara gaiya
   Yeh Zainab ka hai biradar kai lutti haey jis ki chadar,
   Huwai Akber zibah Asgher ho khoraam hai bapa
-  
+
   2
   1) Akber diya hai tu nai, Asgher diya hai tu nai
   Kehnai laga Khuda Mazloom Shukriya Tera Ghar Bhi Lut Gaiya
   Yeh Zainab ka hai biradar kai lutti hai jis ki chadar,
   Huwai Akber zibah Asgher ho khoraam hai bapa
-  
+
   3
   2) Jo Lash bai qafan hai sehra main bai dafan hai
   Hai binailaila Kehnai laga Khuda Mazloom shukriya
   Tu rehbar hai tu sabar hai kai sajdai main tera sar hai,
   Tu Ahmed ka ho dilbar hai ho yeh deen ki baka
   Huwai Akber zibah Asgher ho khoraam hai bapa
-  
+
   4
   3) Chainai Rasul to hai Jigar-e-Batool Tu Hai
   Farzand-e-Mustafa Ehsan hai taira, maira deen bach gaiya

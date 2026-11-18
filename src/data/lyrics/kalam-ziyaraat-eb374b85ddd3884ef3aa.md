@@ -13,27 +13,27 @@ romanLyrics: |-
   Dasht e khoon khar may Allah ka lashkar ujra
   Noor ke halqay ka tabida wo gohar ujra
   Pisr Haider ka Zainab ka baradar ujra
-  
+
   2
   Nargha e aada may farzand e Payambar aaya
   Payasa sahil ke kinaray dil e Haider aaya
-  
+
   3
   Karbla aan ke ghar baar lutaya may ne
   Wada nana se kia tha jo nibhaya may ne
   Apnay bachon ko bardar ko kataya may ne
   Nanhay Asghar ko bhi reti pe sulaya may ne
-  
+
   4
   Dekh na pao gi rukh apna phira lo amma
   Qatl hota hoon nigahon ko hata lo amma
-  
+
   5
   Garm reti pe kia sar ko jhuka kar sajda
   Aur huay khaliq e Akbar se yun Sarwar goya
   Akbar o Ashgar o Abbas kiye tujh pe fida
   Qasim o Aon o Muhammad ko bhi qurban kia
-  
+
   6
   Teri marzi pe bharay ghar ko lutaya may ne
   Teri chahat may nahi kuch bhi bachaya may ne

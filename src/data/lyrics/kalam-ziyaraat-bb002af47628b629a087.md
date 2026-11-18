@@ -15,14 +15,14 @@ romanLyrics: |-
   Baad teray Zulm o sitam
   Ham pe huay
   Sehtay rahay
-  
+
   2
   May khaak par yun thi parri
   Tha hath may daman Ali
   Rassi may thi gardan Ali
   Chorro unhain kehti rahi
   Baba meray
-  
+
   3
   Aati hay Zahra ki sada
   Baba baba meray
@@ -30,7 +30,7 @@ romanLyrics: |-
   Karti rahi aah o buka
   Baba baba meray
   Aey baba baba meray
-  
+
   4
   Zulm o sitam ke tootay
   Aisay paharr baba
@@ -38,7 +38,7 @@ romanLyrics: |-
   Ho jatay wo siyah(ha)
   Shab pe agar ye parrtay
   Din may badal wo jata
-  
+
   5
   Karti rahi aah o buka
   Baba baba meray
@@ -46,7 +46,7 @@ romanLyrics: |-
   Aati hay Zahra ki sada
   Baba baba meray
   Aey baba baba meray
-  
+
   6
   Teray baad baba ummat
   Itni badal gayi thi
@@ -54,7 +54,7 @@ romanLyrics: |-
   Na to un ki pairawi ki
   Gardan may bhi rassi thi
   May zameen par parri thi
-  
+
   7
   Karti rahi aah o buka
   Baba baba meray
@@ -62,7 +62,7 @@ romanLyrics: |-
   Aati hay Zahra ki sada
   Baba baba meray
   Aey baba baba meray
-  
+
   8
   Mera hath baba jis ke
   Tu ne hath may diya tha
@@ -70,7 +70,7 @@ romanLyrics: |-
   Jisay aap ne kaha tha
   Usay qaidi tha banaya
   Usay roz o shab rulaya
-  
+
   9
   Karti rahi aah o buka
   Baba baba meray
@@ -78,7 +78,7 @@ romanLyrics: |-
   Aati hay Zahra ki sada
   Baba baba meray
   Aey baba baba meray
-  
+
   10
   Haqqe Ali ki khatir
   Dastak diye hain dar dar
@@ -86,7 +86,7 @@ romanLyrics: |-
   Koi na aaya bahar
   Zehra ka ghar jalanay
   Sab aa gaye hain dar par
-  
+
   11
   Karti rahi aah o buka
   Baba baba meray
@@ -94,7 +94,7 @@ romanLyrics: |-
   Aati hay Zahra ki sada
   Baba baba meray
   Aey baba baba meray
-  
+
   12
   Thokar se dar ko meray
   Logon ne tha giraya
@@ -102,7 +102,7 @@ romanLyrics: |-
   Thi teri beti Zahra
   Pehlu shikasta kar ke
   Mohsin ko meray maara
-  
+
   13
   Karti rahi aah o buka
   Baba baba meray
@@ -110,7 +110,7 @@ romanLyrics: |-
   Aati hay Zahra ki sada
   Baba baba meray
   Aey baba baba meray
-  
+
   14
   Jhutlaya mujh ko baba
   Hasanal ko us ne bhaya
@@ -118,7 +118,7 @@ romanLyrics: |-
   Meri aik bhi na maana
   Mujhe tazyani maara
   Zara rehm bhi na khaya
-  
+
   15
   Karti rahi aah o buka
   Baba baba meray
@@ -126,7 +126,7 @@ romanLyrics: |-
   Aati hay Zahra ki sada
   Baba baba meray
   Aey baba baba meray
-  
+
   16
   Haq apna mangnay may
   Darbar may gayi jo
@@ -134,7 +134,7 @@ romanLyrics: |-
   Thay dantay mujhe wo
   Khutba jo un ko deti
   Kartay thay shor o ghul wo
-  
+
   17
   Karti rahi aah o buka
   Baba baba meray
@@ -142,7 +142,7 @@ romanLyrics: |-
   Aati hay Zahra ki sada
   Baba baba meray
   Aey baba baba meray
-  
+
   18
   Baatil ke rukh se parda
   Abbas yun hataya
@@ -150,7 +150,7 @@ romanLyrics: |-
   Zehra ne hay batay
   Yehi asal e zindagi hay
   Isay na kabhi bhulana
-  
+
   19
   Karti rahi aah o buka
   Baba baba meray

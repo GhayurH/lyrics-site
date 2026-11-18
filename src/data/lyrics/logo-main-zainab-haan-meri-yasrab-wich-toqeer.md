@@ -22,23 +22,23 @@ published: false
 romanLyrics: |-
   Logo Main Zainab Haan Meri Yasrab Wich Toqeer Hondi Si
   Jadon Ghazi Jiyonda Si Mera Mere Sir Di Chadar Tatheer Hondi Si
-  
+
   1
   Jadon Wehray Che Turni Saan Hasan Parhda Si Bismillah Te Hath Shabeer Si Pharda
   Mere Almaan Walay Ghazi De Hathaan Wich Odhi Shamsheer Hondi Si
-  
+
   2
   Khudai Wehriyaan Pasay Hawa V Puch Ke Aandi Si Parinday Puch Ke Udhday San
   Sadhay Ghar Di Chaar Dewari Wich Bas Hashmi Chan Di Tanveer Hondi Si
-  
+
   3
   Kadi Soraj Diyaan Kirnaa Mere Piyo Di Ijazat Bin Qadam Wehray Che Nayi Rakhiya
   Mere Parday Layi Kayi Kayi Wari Soraj Niklan Di Takheer Hondi Si
-  
+
   4
   Mere Lafzaan Diyaan Izataan Jiwein Quraan Diya Aayataan Mere Babay Diyaan Bataan
   Kadon Majmiyan Wich Main Boli Saan Meri Pardiyaan De Wich Taqreer Hondi Si
-  
+
   5
   Kehya AKBAR Aye Bibi Ne Sadawaan Te V Pehrey San Hijabaan Wich Azana San
   Saday Pak Darood Di Tasbeeh Te Nanay De Ghar Wich Takbeer Hondi Si

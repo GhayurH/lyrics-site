@@ -10,35 +10,35 @@ aliases: []
 published: false
 romanLyrics: |-
   Maula haq imam ya hassan ya hussain
-  
+
   1
   Wo abide bemaar tha chalne se jo lachaar tha
   Aur shaam ka bazaar tha aur mustufa ki betiyan
-  
+
   2
   Shabbir ki wo laadli seene pe wo shah ke pali
   Jiski aba ban mein jali moo pe tamachon ke nishan
-  
+
   3
   Pyase galay khanjar chale chadar chini qaime jale
   Abbas ke parcham talay rokar kahe ye bibiyan
-  
+
   4
   Ro kar kahe qasim ki maa maara gaya qasim jawan
   Ay laal mai dhoondu kahan mehendi teri sehra tera
-  
+
   5
   Wo asghar e baysheer tha aur hurmala ka teer tha
   Pyasa gala kyunkar kata larzi zameen aur aasmaan
-  
+
   6
   Shaam e ghariban cha gayi abid ko ghairat aagayi
   Pehre pe zainab aagayi abbas aur akbar kahan
-  
+
   7
   Wo zainab o kulsooom thi chadar se jo mehroom thi
   Na mehramon ke darmiyan aur murtaza ki betiyan
-  
+
   8
   Wo bawafa abbas tha dukhiya dilon ki aas tha
   Pani mila par na piya pyasi rahi shehzadiyan

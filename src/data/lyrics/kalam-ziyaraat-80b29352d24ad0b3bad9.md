@@ -11,27 +11,27 @@ published: false
 romanLyrics: |-
   Halchal hay foje Shaam may Abbas aatay hain
   Teeron pay teer neezon pay nezay chalatey hain
-  
+
   1
   1) Kya waqt par gaya hai Muhammad kee aal par
   Chaddar nahein hai,  balon sey moon ko chupatey hain.
-  
+
   2
   2) Asghar ko maan sulatee hai chup chup kay god mein
   Khaimon ko tor,  tor kai jab teer aatey hain.
-  
+
   3
   3) Dil pani pani hota hai bachon ka pyaas sey
   Sookhi zaban,  honton par Asghar phiratay hain.
-  
+
   4
   4) Ghoray duraye Shaam key lashkar ko atey hain
   Kam umr bachey,  khaimon mein ghabraye jatey hain.
-  
+
   5
   5) Duniya ko dediya hai sabaq yeh Hussain ney
   Rahe Khuda mein,  istarah sur ko katatey hain.
-  
+
   6
   6) Kya waqt par gaya hai Muhammad kee aal par
   Chaddar nahein hai,  balon sey moon ko chupatey hain.

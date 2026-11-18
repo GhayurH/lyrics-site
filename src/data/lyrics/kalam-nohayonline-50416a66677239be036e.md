@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya hussain ibne ali ya ali ibne hussain
-  
+
   1
   Hai inhi ka to lahoo deen ki buniyadon mein
-  
+
   2
   Sulhe shabbar se mili thi shahe deen ko mohlat
   Kuch dino baad phir utha jo sawale bayyat
   Dil ne samjhaya ke bas aagaya waqt e hijrat
   Khaafila leke chale suye haram jo hazrat
   Zalzale aane lage jabr ke aywano mein
-  
+
   3
   Aise halaat bigaade gaye phir kaabe ke
   Haram e paak mein bhi shaah na rehne paaye
   Haj ko umre se badal kar shahe laulaak chale
   Aur phir ghayr ke maqtal ki taraf laaye gaye
   Kuch taras kuch nahi tauheed ke rakhwalon mein
-  
+
   4
   Nainawa par jo ruka ashqe shahe jinn o bashar
   Sheh ne logon se khareedi wo zameene mehshar
   Kufa-o-shaam se aate rahe payham lashkar
   Subhe ashoor ko phir goonji azane akbar
   Hurrate roz chala roshni bardaron mein
-  
+
   5
   Kaunsa dukh hai wo dukh shahe deen ne na saha
   Jung karte hue ghazi ko bahot yaad kiya
   Shahe mazloom pe har tarha ka hathyar chala
   Khanjar-o-taygh-o-tabar pathar-o-barchi bhaala
   Jism teero pe raha khoon ki bocharon mein
-  
+
   6
   Aandhiyan chalne lagi asr ka aaya hungaam
   Parda e qaima utha uthgaya bemaar imam
   Hujjate haq ne kiya farqe bureeda ko sal am
   Hashr tak phailgayi shaam e ghariban teri shaam
   Juz ali kaun hai itrat ke nigehwaron mein
-  
+
   7
   Khaafla leke chala dashte bala se bemaar
   Jarase kaarwan zanjeere garan ki jhankaar
   Garm reti pa sulagte hue chaalon ki bahaar
   Sar khule bibiyan aur sar pe wo sehra ka ghubaar
   Kayi atfaal giray oonth se maidano mein
-  
+
   8
   Qaid khane mein sakina ki jo tadfeen hui
   Haram e shaah ke azaadi ki bunyad rakhi
   Ghar mein qaatil ke aza e shahe dilgeer rakhi
   Karbala kya hai ye pehchan to zainab ne bhi di
   Phir qadam rakh diya sajjad ne toofano mein
-  
+
   9
   Arbaeen marqad e sarwar pe kiya abid ne
   Gham ki rodaad ko nana se kaha abid ne

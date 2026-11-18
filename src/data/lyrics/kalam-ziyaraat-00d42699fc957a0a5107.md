@@ -10,35 +10,35 @@ published: false
 romanLyrics: |-
   Dasht may goonj rahi thi Ali Akbar ki azaan
   Haey jhulta di laeno ne Muhammad ki zubaan
-  
+
   1
   Waqt e rukhsat Ali Akbar se ye Zainab ne kaha
   Tum pe qurban zamana aey meri raahat e jaan
-  
+
   2
   Aisi azaan parrhi Karbo bala ronay lagi
   Cha gayi sham e gharibaan may ye pyason ki fughan
-  
+
   3
   Ashk Shabbir ki ankhon se to rukhtay hi nahi
   Haey takhti thi ke jaise koi parrhta ho quraan
-  
+
   4
   Allah Allah meray jazbat bikhar jaatay hain
   Ro ke Zainab ye pukari koi day mujh ko amaan
-  
+
   5
   Joarr kar hathon ko Akbar se Sakina ne kaha
   Bhayya meray ho fida tum pe meri nanhi si jaan
-  
+
   6
   Ik talatum tha bapa foaj e sitamgaron may
   Meri awaz may hota tha Muhammad ka gumaan
-  
+
   7
   Sun ke azaan Madinay may wo tarrpi ho gi
   Jis ki nazron may hain Akbar teray qadmo ke nishaan
-  
+
   8
   Aaj jo Allaho Akbar ki sada goojti hay
   Us ko Yawar khoon e Akbar ne kiya phir se jawan

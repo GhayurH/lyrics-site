@@ -12,125 +12,125 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas Abbas Abbas
-  
+
   Abalfazl Abalfazl Abalfazl Alamdar
-  
+
   Saqqiye Aale Abba Abalfazl
-  
+
   Tishna Labe Karbala Abalfazl
-  
+
   Chishma E Aabe Baqa Abalfazl
-  
+
   Ya Abalfazl Ya Abalfazl Ya Abalfazl Ya Abalfazl
-  
+
   Abalfazl Ya Abalfazl Ya Abalfazl
-  
+
   Karb Shabir Ke Chehre Se Mitane Wale
-  
+
   Ranj Se Aale Muhammad Ko Churane Wale
-  
+
   Tham Le Hath Pareshan Azadaron Ka
-  
+
   Aye Sakina Ke Liye Bazu Katane Wale
-  
+
   Abalfazl Ya Abalfazl Ya Abalfazl
-  
+
   Toot Jaye Na Meri Aaas Hai Umede Haram
-  
+
   Mere Zakhmo Ka Faqt Aap Ho Ghazi Marham
-  
+
   Arbaien Pe Hame Bulwale Ziyarat Ke Liye
-  
+
   Aap Ko Pehlu Shakista Kisi Bibi Ki Kasam
-  
+
   Abalfazl Ya Abalfazl Ya Abalfazl
-  
+
   Hum Ko Dunya Ka Tarafdar Na Hone De Na
-  
+
   Sirf Bato Ka Azadar Na Hone De Na
-  
+
   Sadqa Shehzadi Ruqaiya Ke Bhandhe Hathu Ka
-  
+
   Ham Ko Mushkil Main Giraftar Na Hone De Na
-  
+
   Abalfazl Ya Abalfazl Ya Abalfazl
-  
+
   Likhdo Taqdeer Main Phir Karbala Jana Ghazi
-  
+
   Apna Darbar Hame Jald Dikhana Ghazi
-  
+
   Wasta Deta Hu Zakhme Ali Akbar Ka Tume
-  
+
   Karbala Sare Javano Ko Bulana Ghazi
-  
+
   Abalfazl Ya Abalfazl Ya Abalfazl
-  
+
   Os Ghari Nazro Main Ashur Ki Ro Yaad Aai
-  
+
   Aansu Aakhu Main Bhare Honto Pe Faryad Aai
-  
+
   Samne Pani Tha Our Pi Bhi Nahi Saqta Tha
-  
+
   Mujko Roze Main Teri Peyas Bohat Yaad Aai
-  
+
   Abalfazl Ya Abalfazl Ya Abalfazl
-  
+
   Tum Ho Shabir Ki Beti Ka Sahara Ghazi
-  
+
   Bin Tumhare Na Huwa Os Ka Guzara Ghazi
-  
+
   Shimr Ne Jab Bhi Sakina Ko Tamache Mare
-  
+
   Os Ne Baba Ko Nahi Tum Ko Pukara Ghazi
-  
+
   Abalfazl Ya Abalfazl Ya Abalfazl
-  
+
   Os Ghari Khama E Sadat Main Kohram Huwa
-  
+
   Khoon Bhara Jis Ghari Rn Se Tera Parcham Aaya
-  
+
   Peyasi Mar Jaugi Aur Pani NAhi Magu Gi
-  
+
   Toor Kar Quze Ye Masoom Sakina Ne Kaha
-  
+
   Abalfazl Ya Abalfazl Ya Abalfazl
-  
+
   Tum Ne Aacha Huwa Bhai Ki Na Ghurbat Dakhi
-  
+
   Tane Deta Tha Koi Shah Pe Hasta Tha Koi
-  
+
   Apne Bhai Ki Madad Ke Liye Rn Main Aa Kar
-  
+
   Lash Zainab Ne Uthai Hai Ali Akbar Ki
-  
+
   Shah Ne Ro Kar Kaha Abalfazl
-  
+
   Uthu Mere Bawafa Abalfazl
-  
+
   Tanha Hai Bhai Tera Abalfazl
-  
+
   Abalfazl Abalfazl Abalfazl Alamdar
-  
+
   Aakhari Lamho Main Shabir Bohat Peyase Thy
-  
+
   Bari Hasrat Se Sowe Nahar Nazar Karte The
-  
+
   Shimr Has Has Ke Lagata Raha 13 Zarbain
-  
+
   Aur Har War Pe Shabir Sada De Te Thy
-  
+
   Abalfazl Ya Abalfazl Ya Abalfazl
-  
+
   Mir Sajjad Beya Kese Kare Wo Manzar
-  
+
   Sham Ki Foj Main Jab Aag Lagai Aa Kar
-  
+
   Chinne Aa Gaye JAb Sar Se Rida Zainab Ki
-  
+
   Os Ghari Kehti Rahi Saniye Zahra Ro Kar
-  
+
   Abalfazl Abalfazl Abalfazl Alamdar
-  
+
   Abbas
 # source_id: nohawriteups:3a8468baad069257bb83
 # source_url: https://www.nohawriteups.org/ya-abalfazl-astitle-kalam-mir-hasan-mir-nohay-2022/

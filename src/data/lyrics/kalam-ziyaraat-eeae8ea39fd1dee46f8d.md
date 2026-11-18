@@ -10,67 +10,67 @@ published: false
 romanLyrics: |-
   Khoo se rangeen hui Karb o bala
   Karbala aaj bhi hay karb o bala
-  
+
   1
   Wada tifli ka nibhanay ko chalay
   Ummat e jad ko bachanay ko chalay
   Pyas khanjar ki bujhanay ko chalay
   Ho ga kuch dair may sar tan se juda
-  
+
   2
   Noor ankhon ka jo tha rooth gaya
   Sehra Qasim ka teray toot gaya
   Tera Abbas tujh se choot gaya
   Teer shishmah e Mujahid pe chala
-  
+
   3
   Baad e Shabbir ye kehta tha laeen
   Ghar walo karna hay aaram nahi
   Jang may foji bhi taktay hain kaheen
   Looto sadaat ko aur cheeno rida
-  
+
   4
   Phatta tha seena jo kehti thi behen
   Aey ghareebul watan aey tashna dehan
   Qaid may jaati hoon bandhwa ke rasan
   Aaon gi karnay ab chehlum may tera
-  
+
   5
   Aik rassi may bandhay bara galay
   Haey ye zulam aur nazaon ke palay
   Kis se shikwa karay naseeb jali
   Koi pardes may apna na raha
-  
+
   6
   Aag khaimo me lagi kunba luta
   Kurta nadan Sakina ka jala
   Jhoola shashmahay ka baqi na raha
   Aagay taqdeer may kia kia hay likha
-  
+
   7
   Kaise behlaye Sakina ko behan
   Raat din roti hay aseer e mehan
   Lash us ne bhi to dekhi be kafan
   Aur teray dafan ka saman na hua
-  
+
   8
   Khaimo may aaj koi baat nahi
   Akbar o Qasim o Abbas nahi
   Mujh ko ab bhook nahi pyas nahi
   Tu hay be gor o kafan may berida
-  
+
   9
   Dekhon kin anhkon se manzar ye akhi
   Sar tera tasht may hay aur shaqi
   Marta hay lab o dandon par charri
   Kash aa jati mujhe pehlay qaza
-  
+
   10
   Maoon ki goad may bachay na rahay
   Pusht se oonton ki gir gir ke maray
   Ham jo roey to adoo khoob hansay
   Murda bachon ko uthanay na dia
-  
+
   11
   Rotay hain jinn o malak aur bashar
   Ankhain har ik ki hain ashkon se tar

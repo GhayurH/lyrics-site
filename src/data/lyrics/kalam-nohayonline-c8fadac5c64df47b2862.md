@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Sakina qaid ho kar shaam ke zindan may jab aayi
-  
+
   1
   Wo bacchi us andhere ghar ki tareeki se ghabrayi
   Zameen to farsh thi saaya faghan tha charkh neenaayi
   Muqaddar ne musibat ki ye pehli raat dikhlayi
-  
+
   2
   Phuphi ke paas rehti thi na maa ke paas soti thi
   Barehna sar khadi zindan ke darwaze pe roti thi
-  
+
   3
   Udhar se jo guzar ta tha usay kehti thi sunta jaa
   Mai bekas qaid may baithi hoo ek paigham hai mera
-  
+
   4
   Agar baba milay tujhko to tu kehna qasam kha kha
   Sakina par musibat hai khabar lo ai shahe waala
-  
+
   5
   Agar tujhse kahe qaimon may sota chod aaya hoo
   To tu kehna dar e zindan pe rota chod aaya hoo

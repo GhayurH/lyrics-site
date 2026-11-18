@@ -12,45 +12,45 @@ published: false
 romanLyrics: |-
   Khake karbobala kar rahi hai buka
   Ya hussain ya hussain
-  
+
   1
   Ho sake na labe nehr qaime bapa
-  
+
   2
   Bhai abbas tha tera maara gaya
   Laasha ibne hassan ka bhi tukde hua
   Tere akbar ke seene pe naiza laga
-  
+
   3
   Teer gardan pe asghar ne khaya magar
   Teri himmat ke sadqe ali ke pisar
   Tune har haal mein shukre khaaliq kiya
-  
+
   4
   Haye yalghaar tujpe wo kuffar ki
   Kaisi baarish hui teer o talwar ki
   Sar tera haye sajde mein kaata gaya
-  
+
   5
   Phool zainab ne apne fida kar diye
   Dil ke tukde thay dono luta kar diye
   Hausla teri hamsheer ka marhaba
-  
+
   6
   Baad tere sakina ke gowhar chine
   Qaid abid huwe aur qaime jale
   Tera sar noke naiza pe rakha gaya
-  
+
   7
   Reesma teri zainab ke baandhi gayi
   Sar pe baakhi kise ke rida na rahi
   Aale ahmed pe kaisa ajab waqt tha
-  
+
   8
   Tere seene pe soti thi jo laadli
   Teri furqat mein wo ghut'ke mar hi gayi
   Is tarha se hui zulm ki inteha
-  
+
   9
   Khaak e paye ghulamane shabbir hoo
   Mai rehan azmi gham ki taqreer hoo

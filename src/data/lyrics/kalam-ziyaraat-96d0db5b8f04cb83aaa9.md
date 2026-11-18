@@ -11,10 +11,10 @@ published: false
 romanLyrics: |-
   Ya Hussain Ya Hussain ….. (2)
   Jab Rehaa Hoke Sajjad Laute Watan
-  
+
   1
   Ya Hussain Ya Hussain
-  
+
   2
   Ro Padhe Dekh Kar Haaye Apna Chaman
   Daudkh Te Rote Pahuche Hanafiya Chachaa

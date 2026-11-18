@@ -10,52 +10,52 @@ published: false
 romanLyrics: |-
   chala mai wada nibhane salaam maa ke mazaar
   salaam nana ke roze, salaam maa ke mazaar
-  
+
   mai tera deen bachaunga, ay mere nana
   mai apna khoon bahaunga ay mere nana
   hussain jaata hai marne, salaam maa ke mazaar
   salaam nana ke roze….
-  
+
   meri shareeke safar banke, saath chal amma
   safar pe jaata hu kapde mere badal amma
   libaas-e-khuld saja de, badan pe phir ek baar
   salaam nana ke roze….
-  
+
   dua karo koi sar berida, na ho amma
   namaaz-e-shaukhe shahadat khaza na ho amma
   na aaye mere chaman pe, sitam ki gardo ghuba
   salaam nana ke roze….
-  
+
   diye jalane ko nana, tumhare roze par
   zaroor aayegi sughra har ek shaam-o-sehar
   khuda kare rahe roshan, sada tumhara mazaar
   salaam nana ke roze….
-  
+
   tumhare jaisa hai nana, ye mera laal akbar
   dua karo na lage isko aasman ki nazar
   lutay na door watan se, hamare dil ka qaraar
   salaam nana ke roze….
-  
+
   tamam phool se bache hai, aur garm hawa
   hamare khoon ki pyasi hai fauje zulmo jafa
   safar me koi shajar bhi, nahi hai saaya ada
   salaam nana ke roze….
-  
+
   haan ek phool to aisa hai, jo khila bhi nahi
   na paaye pani to kar sakta wo gila bhi nahi
   wo jiske dehn se aati, hai doodh ki mehkaat
   salaam nana ke roze….
-  
+
   meri sakina kahan aur, rasan ke bandh kahan
   zameen-e-garm pe chalna usay pasand kahan
   qadam wo phool se nazuk, wo raaste purkhaar
   salaam nana ke roze….
-  
+
   yehi hai sarwaro rehaan, zindagi ka sharaf
   kabhi ziarat-e-karbobala hai kabhi hai najaf
   inhi fizaon may aati, hai shah-e-deen ki pukaar
   salaam nana ke roze….
-  
+
   ————————————————————-
 # source_id: nohawriteups:163eb3e67e6c121475d7
 # source_url: https://www.nohawriteups.org/salam-nana-ke-roze-nadeem-sarwar-noha-lyrics/

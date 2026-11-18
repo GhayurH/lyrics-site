@@ -13,24 +13,24 @@ romanLyrics: |-
   Koi bhi daur ho bas woh yazeed hota hai
   Laboon pay naad e Ali aur hath seenay par
   Jo is tarah say gaya woh shaheed hota hai
-  
+
   2
   Man mata ala hubbe aale Muhammad mata shaheeda
   Ailan kar do dunya may sari
   Sab ko bata do apna aqeeda
-  
+
   3
   Apni sawari un ka safeena
   Jo hukm-e-Rab se Nooh ne banaya
   Jin par nigahain hain Panjtan ki
   Khun se jisay ham ne hay sajaya
-  
+
   4
   Gar barq karrkay toofan barsay
   Ya phir yazeedi hizyan barsay
   Sab kuch mitay ga matam rahay ga
   Sun le zamana apna hay dawa
-  
+
   5
   Matam karain gay matam karain gay
   Har dam karian gay pehlay se ziada

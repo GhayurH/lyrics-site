@@ -11,32 +11,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Sar peeto momino ke ye zarbat ki raat hai
-  
+
   1
   Damaad e shaah e deen ki shahadat ki raat hai
   Kehte hai dil se hyder e safdar basad alam
   Ye aakhri khuda ki ibaadat ki raat hai
-  
+
   2
   Sajde mein haq ke khaasa e daawar hua shaheed
   Aafat bapa karo ye qayamat ki raat hai
-  
+
   3
   Daare fana se hyder e karraar uth gaye
   Ahle haram pe aaj musibat ki raat hai
-  
+
   4
   Kehte they roke zainab o kulsoom se ali
   Aao gale lago ke ye furqat ki raat hai
-  
+
   5
   Ro ro ke dil se kehte thay sibtain mustafa
   Kyun kar kategi haye musibat ki raat hai
-  
+
   6
   Pursa do mustafa ke nawason ko baap ka
   Sar peeto rozadaar ye aafat ki raat hai
-  
+
   7
   Maula nabi ki aal se shaukat ke ishq ki
   Deeje gawahi aap shahadat ki raat hai

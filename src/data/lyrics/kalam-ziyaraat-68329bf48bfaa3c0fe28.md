@@ -10,24 +10,24 @@ aliases: []
 published: false
 romanLyrics: |-
   Jab rida sar se chini mai sada deti rahi
-  
+
   1
   Tu na aaya Ghazi
   Aale imran kahan aur zindaa kahan
   Ye behan qaid hui tu na aaya Ghazi
-  
+
   2
   Humko pani na milay, teri khusboo to rahe
   Tere baazu na kate, chahe mashkeeza chiday
   Ye magar ho na saka, tere baazu hai juda
   Mujhpe hai tashalabi, tu na aaya Ghazi
-  
+
   3
   Dhoop may tu tha shajar, tujhse aabaad tha ghar
   Hai barehna mera sar, kya nahi tujhko khabar
   Ay alamdare wafa, is behan ko ba-khuda
   Tujhse dhaaras thi badi, tu na aaya Ghazi
-  
+
   4
   Aagayi shame-alam, lutgaye ahle haram
   Rayt par jalti huvi, hogaya thanda alam
@@ -37,19 +37,19 @@ romanLyrics: |-
   Ye musalman saare, shehr dar shehr gaye
   Khilqate koofa kabhi, khilqate shaam kabhi
   Aur haa hum pe hasi, tu na aaya Ghazi
-  
+
   5
   Kitni bebas thi behan, ay shehenshahe wafa
   Naam le le ke mera, jab ye zaalim ne kaha
   Naaz tha jispe tujhe, ab bulao na usay
   Aur mai roti rahi, tu na aaya Ghazi
-  
+
   6
   Qaid-khane may qaza, jab sakina ko mili
   Deke kurte ka kafan, bachi dafnayi gayi
   Us ghadi naam tera, surate nade-ali
   Dukh may dohrati rahi, tu na aaya Ghazi
-  
+
   7
   Roya rehaan qalam, karke ye baat raqam
   Khoon may doob gaya, mere ghazi ka alam

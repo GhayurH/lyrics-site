@@ -12,40 +12,40 @@ published: false
 romanLyrics: |-
   Abbas ke laashe pa ye shabbir pukare
   Utho mere bhai
-  
+
   1
   Hum qaime se yahan aaye hai lene ko tumhare
-  
+
   2
   Peeri ka saath chin gaya hum hogaye be-aas
   Koi na raha paas
   Aa jao tumhi ay meri peeri ke sahare
-  
+
   3
   Kya ye bhi koi to mohabbat ka hai andaaz
   Ay aashiq e jaanbaaz
   Darya ko to keh kar gaye kausar ko sidhare
-  
+
   4
   Tum bali sakina ke liye laaye na pani
   Wo roti hai jaani
   Bachi ki zaban dekho aur asghar ke ishaare
-  
+
   5
   Qurban huwe mashk pe tum jaan e biradar
   Lekin mere safdar
   Tum arshe wafa ke ho chamakte huwe taare
-  
+
   6
   Dhaaras thi badi sab ko khayaal iska to karte
   Ghurbat may na marte
   Tum jeete magar hum bhi to himmat nahi haare
-  
+
   7
   Cheenege rida zainab o kulsoom ki ashraar
   Ay ghazi o jarraar
   Hum chod ke ab jaye unhe kis ke sahare
-  
+
   8
   Kehte thay wazir aah ye jab shaah e do aalam
   Ek hashr tha payham

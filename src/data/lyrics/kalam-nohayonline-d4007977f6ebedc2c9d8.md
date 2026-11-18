@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Saqqa e haram sunte hai pyason ki sadayein
-  
+
   1
   Abbas ko tadpati hai qaimon ki fizayein
   Is tarha se mashkeeza bhara nahr pe ghazi
@@ -19,7 +19,7 @@ romanLyrics: |-
   Abbas jaa rahe hai
   Hosh o hawaas le kar
   Bachon ki aas le kar
-  
+
   2
   Aankhon may pyaas le kar
   Abbas jaa rahe hai...
@@ -27,7 +27,7 @@ romanLyrics: |-
   Qaimon may ghul macha hai
   Ek majlis e aza hai
   Abbas jaa rahe hai...
-  
+
   3
   Mashk e sakina khaali
   Thi jaise ek sawaali
@@ -35,7 +35,7 @@ romanLyrics: |-
   Abbas jaa rahe hai...
   Haathon ko de ke ghazi
   Jeeti hai ran may baazi
-  
+
   4
   Pyasa hai ab namazi
   Abbas jaa rahe hai...
@@ -43,7 +43,7 @@ romanLyrics: |-
   Farq e falak hai zakhmi
   Baazu talak hai zakhmi
   Abbas jaa rahe hai...
-  
+
   5
   Gurz e sitam laga hai
   Teer e sitam chala hai
@@ -51,7 +51,7 @@ romanLyrics: |-
   Abbas jaa rahe hai...
   Mask o alam mile hai
   Ahle haram mile hai
-  
+
   6
   Loh o qalam mile hai
   Abbas jaa rahe hai...

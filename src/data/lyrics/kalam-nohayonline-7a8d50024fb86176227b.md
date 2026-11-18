@@ -14,42 +14,42 @@ romanLyrics: |-
   Jeevan ka asasa tha peeri ka sahara tha
   Kya jaane wo kya kya tha
   Akbar mera pyara tha raaj dulara tha
-  
+
   1
   Akbar ki jawani par sau jaan se fida madar
   Ay kaash usay dekhun ek baar nazar bhar kar
   Wo ankhon ka taara tha raaj dulara tha
-  
+
   2
   Ye din thay jawani ke akbar teri shadi ke
   Kis tarha lutay armaan teri maa dukhiyari ke
   Aisa to na socha tha raaj dulara tha
-  
+
   3
   Kya khoob wo soorat thi nana ki shabahat thi
   Wabasta bahot tumse apno ki mohabbat thi
   Wo sab ka dulara tha raaj dulara tha
-  
+
   4
   Ek daaghe alam dekar kis samt chale akbar
   Sar kham kiye rokar beta teri rahon par
   Bab ka ye naala tha raaj dulara tha
-  
+
   5
   Seene mein jo bhala hai is dil mein bhi uthra hai
   Kaise ye sahum sadma ye maa ka kaleja hai
   Wo nazon ka paala tha raaj dulara tha
-  
+
   6
   Maidan se jo aate tum aur maa ko bulate tum
   Pani mai tumhe deti aur pyaas bujhate tum
   Kya maa ko pukara tha raaj dulara tha
-  
+
   7
   Jab yaad teri aaye dil tumko kahan paye
   Itna to bata jao madar ye kahan jaye
   Yun mujhko rulana tha raaj dulara tha
-  
+
   8
   Jab ali shanawar ye zikre gham sunata hai
   Zakira ka ye noha har maa ko rulaata hai

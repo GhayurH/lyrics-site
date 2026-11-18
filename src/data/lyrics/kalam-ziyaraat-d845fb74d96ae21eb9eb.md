@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya Abbas ya Abbas!!
-  
+
   1
   Jab hawaon may nami mehsoos ki abbas ne,
   Ehtiyatan saans rok li abbas ne
@@ -22,7 +22,7 @@ romanLyrics: |-
   Bata di hazrat-e-abbas ne aukhaad pani ki
   Kate baazu chidi mashkeeza bachi reh gayi pyaasi,
   Zameen pe khoon bankar hogayi barsaat pani ki
-  
+
   2
   2. Jahan bhi pani-o-mask-o-alam ki baat chali,
   Ali ke laal ke qadmo tale faraad chali
@@ -30,7 +30,7 @@ romanLyrics: |-
   Dua-e-fatima zehra bhi saat saat chali
   Alam ke dam se hai ab tak hayaat pani ki,
   Jari ki jeet hui aur maath pani ki
-  
+
   3
   3. Wo ek mashk jo kausar samayt kar nikli,
   Labon pe apne samandar samayt kar nikli
@@ -38,7 +38,7 @@ romanLyrics: |-
   Jo ek zarb se laskhar samayt kar nikli
   Agar na kehti ye aab-e-hayaat pani ki,
   Har ek nigaah se gir jaati zaat pani ki
-  
+
   4
   4. Sakina bibi ke sadkhe ali ke laal salaam,
   Jari shaki asad-e-sher-e-zuljalaal salaam
@@ -46,7 +46,7 @@ romanLyrics: |-
   Nahi hai dono jahaan may teri misaal salaam
   Tere kate hue baazu nijaat pani ki,
   Tere badan ka pasina zakaat pani ki
-  
+
   5
   5. Himaayat-e-shah-e-mazloom may panaah abbas,
   Sabaat-o-jurrat-o-ghairat ki inteha abbas
@@ -54,7 +54,7 @@ romanLyrics: |-
   Lab-e-faraath fakadh tune ye likha abbas
   Hamari tashnalabi hai faraath pani ki,
   Hayaat pyason ki thairi wafaath pani ki
-  
+
   6
   6. Meri hayat ka samaan nasir-e-shabbir,
   Badalta rehta hai jo kaayanat ki taqdeer

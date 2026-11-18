@@ -12,12 +12,12 @@ published: false
 romanLyrics: |-
   Tum pe laakhon caroron durood o salaam
   Ya hussain
-  
+
   1
   Ya hussain ya hussain ya hussain ya hussain
   Mere sayyed hussain mere pyase hussain
   Mere aaqa hussain mere maula hussain
-  
+
   2
   Tu ne bachpan ka waada wafa kar diya
   Naam e allah apna bhara ghar diya
@@ -26,7 +26,7 @@ romanLyrics: |-
   Matami de rahe hai jabhi ko sada
   Mere sayyed hussain mere pyase hussain
   Mere aaqa hussain mere maula hussain
-  
+
   3
   Ek tu hi mahafiz hai quran ka
   Pesh tohfa kare tujhe hum jaan ka
@@ -35,7 +35,7 @@ romanLyrics: |-
   Zindagi hai hamari ye farshe aza
   Mere sayyed hussain mere pyase hussain
   Mere aaqa hussain mere maula hussain
-  
+
   4
   Ye dua hai hamesha moharram rahe
   Hum rahe na rahe tera matam rahe
@@ -44,7 +44,7 @@ romanLyrics: |-
   Baant'ti hai wafa ek alam ki hawa
   Mere sayyed hussain mere pyase hussain
   Mere aaqa hussain mere maula hussain
-  
+
   5
   Kyun na likhe ye haq baat mera qalam
   Tere dam se hai islam ke dam mein dam
@@ -53,7 +53,7 @@ romanLyrics: |-
   Yani kaabe se afzal hai karbobala
   Mere sayyed hussain mere pyase hussain
   Mere aaqa hussain mere maula hussain
-  
+
   6
   Chal rahe hai hussaini teri raah par
   Mar ke jeene ka tu ne sikhaya hunar
@@ -62,7 +62,7 @@ romanLyrics: |-
   Aur awaaz deta hai deen e khuda
   Mere sayyed hussain mere pyase hussain
   Mere aaqa hussain mere maula hussain
-  
+
   7
   Yaad hai har ghadi bas hamay karbala
   Karte rehte hai din raat ye tazkira
@@ -71,7 +71,7 @@ romanLyrics: |-
   Beh rahi hai har ek aankh se alqama
   Mere sayyed hussain mere pyase hussain
   Mere aaqa hussain mere maula hussain
-  
+
   8
   Tere akbar ke seene pe naiza laga
   Teer se tere asghar ka cheda gala
@@ -80,7 +80,7 @@ romanLyrics: |-
   Tere ghazi ko darya pe maara gaya
   Mere sayyed hussain mere pyase hussain
   Mere aaqa hussain mere maula hussain
-  
+
   9
   Tere qaime jalaye gaye dasht mein
   Tere atfaal pyase rahe dasht mein
@@ -89,7 +89,7 @@ romanLyrics: |-
   Subhe ashoor se shaam tak ghar luta
   Mere sayyed hussain mere pyase hussain
   Mere aaqa hussain mere maula hussain
-  
+
   10
   Shadman mujhse honge ali o nabi
   Umr bhar nauhe likhega mazhar yunhi

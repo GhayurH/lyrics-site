@@ -10,32 +10,32 @@ aliases: []
 published: false
 romanLyrics: |-
   Bain karti thi ye zainab ke bachao bhai
-  
+
   1
   Qaime jalte hai madad ke liye aao bhai
   Balwa e aam may beparda khadi hai zainab
   Binte zehra ko layeeno se bachao bhai
-  
+
   2
   Ghash may hai sayyede sajjad jale qaimon may
   Aake bemaar ko godhi may uthao bhai
-  
+
   3
   Tum to pehchan sakoge na hamari surat
   Apni surat hamay ek baar dikhao bhai
-  
+
   4
   Ab to akbar hai na qasim hai na bhai abbas
   Hai rasan basta haram inko chudao bhai
-  
+
   5
   Hai gala khushk sakina ka labon par dam hai
   Pani darya se isay laake pilao bhai
-  
+
   6
   Hichkiyan leke wo roti hai bulaati hai tumhe
   Apne seene pe sakina ko sulao bhai
-  
+
   7
   Qaid khane se ye zainab ki sada aati thi
   Apni beti ke janaze ko uthao bhai

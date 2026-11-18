@@ -11,7 +11,7 @@ published: false
 romanLyrics: |-
   Haye Akbar, Haye Akbar
   Betay Ky Qatilon Sy, Ekk Baap Pochta Hai
-  
+
   1
   Koi Mujhay Bata De Lasha Kahan Para Hai
   Akbar Mera Kahan Hai

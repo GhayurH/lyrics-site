@@ -10,27 +10,27 @@ published: false
 romanLyrics: |-
   Qafila salar, Abid e beemar
   Abid e beemar, Shaam ka bazaar
-  
+
   1
   Pusht hay zakhmi, paoon may chalay
   Hathkarri berri, touq sambhalay
   Aik qadam bhi chalna hay dushwar
-  
+
   2
   Sang dilon ne maray hain pathar
   Aag kisi ne phainki hay sar par
   Kanp raha hay deen ka sardar
-  
+
   3
   Jakrri hui hay bali Sakina
   Kis ko sunaye dard ye apna
   Charon taraf hain haey sitamgar
-  
+
   4
   Durre Sakina khati hay ya Rab
   Khoon ke ansoo roti hay Zainab
   Dil pe ghamon ki chalti hay talwar
-  
+
   5
   Shaer o zakir mil ke ghoar
   Fikr e Mujeed aur lehn e Khaleel aur

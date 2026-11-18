@@ -13,127 +13,127 @@ romanLyrics: |-
   Ek pa ek dashte bayabaa(n) me hua shore ajab
   Aag khaimo me lagaye hain adoo haye ghazab
   Di sada Baanu-e-Muztar ne ke dauro Zainab
-  
+
   2
   Ghash me hai Aabid-e-beemar jagao Bibi
   Jalti hai masnad-e-Sajjad bujhao Bibi
-  
+
   3
   Pyas itni hai ke bistar bhi uthana mushkil
   Hai maraz aisa ke karwat bhi badalna mushkil
   Dhoop ithni hai ke sehra me teher na mushkil
   Zoaf aisa hai ke do gaam bhi chalna mushkil
-  
+
   4
   Sainkdon zakhm liye Aabid-e-dilgeer chala
   Haye kis haal me pehene hue zanjeer chala
-  
+
   5
   Al gharaz baap ke laashe pe jo aye Aabid
   The khade dayr talak sar ko jhukaye Aabid
   Hoke be chain ye Zainab ne kaha ay Aabid
   Gham se dam tera kahin toot na jaye Aabid
-  
+
   6
   Marhala sakht hai ab khud ko sambhalo beta
   Baap ke laashe se nazron ko hata lo beta
-  
+
   7
   Maqsade haq ke liye ab tujhe jeena hoga
   Mushkilon se tujhe har lamha guzarna hoga
   Daagh phupion ki aseeri ka uthana hoga
   Ujde kumbe ko liye ab tujhe chalna hoga
-  
+
   8
   Har qadam par tere hamrah chalungi pyaare
   Saya ban kar mai tere saath chalungi pyaare
-  
+
   9
   Ye suqan sunke bhatije ne phupi ko dekha
   Ro ke farmaya phupi jaa(n) ye ghazab hai kaisa
   Ran me be goro kafan baap ka laasha hai padha
   Shiddathe dard se phat’ta hai kaleja mera
-  
+
   10
   Aasmano se bhi ye baar-e-musibath na uthe
   Beta maujud rahe baap ki mayyath na uthe
-  
+
   11
   Phir tane Shah ki taraf dekh ke bole baba
   Ye pisar kaise bandhe haathon ko khole baba
   Dhoop barsane lagi aag ke gole baba
   Hain mere paon me garmi ke phapole baba
-  
+
   12
   Pa ba zanjeer hun kaise tumhe dafnaon mai
   Kaash ajaye abhi maut toh marjaon mai
-  
+
   13
   Taaziyane liye ithne me sitam gar aaye
   Durre beemar pa be jurm-o-khata barsaye
   Nangi oonton pa Nabizaadiyon ko bithlaye
   Khauf o dehshat se aseerane bala tharraye
-  
+
   14
   Ithni tezi se adu oonton ko dauraate the
   Bachhe girte the jigar maaon ke phat jaate the
-  
+
   15
   Aise aalam me Sakina ne pukara bhaiya
   Pushte naaqa pe chhila jata hai seena bhaiya
   Dard-o-gham se mera phat’ta hai kaleja bhaiya
   Saans lena bhi toh dushwar hai mera bhaiya
-  
+
   16
   Is musibath se mujhe jald churalo bhaiya
   Mar rahi hai ye behen aake bachalo bhaiya
-  
+
   17
   Sunke aawaz-e-Sakina ko jo pahunche Sajjad
   Boli bhaiya mujhe baba ki bahut aai hai yaad
   Abhi sunne hi na paaye the behen ki faryad
   Durre lehrate hue aagaye shaami jallad
-  
+
   18
   Pusht par aisa kisi shaqs ne koda mara
   Dil se ek aah uthi khaak pe beemar gira
-  
+
   19
   Daud kar goad me Aabid ko liya Zainab ne
   Dashte shafqath sare aqdas pe rakha Zainab ne
   Rayth ko zaqmon se phir saaf kiya Zainab ne
   Choom kar baazu e Sajjad kaha Zainab ne
-  
+
   20
   Uth mere laal phupi jaan ho qurba(n) tujh par
   Imtehan aur bhi baaqi hain meri jaan tujh par
-  
+
   21
   Ab tujhe sainkdon taklifen uthani hogi
   Sar khule bibiyan aage tere chalti hongi
   In nazaron se teri aankhen bhi chhalni hongi
   Sakhtiyan raahe safar ki tujhe sehni hongi
-  
+
   22
   Din me aaram na raaton ko bhi sona hoga
   Dhoop ka odna mitti ka bichona hoga
-  
+
   23
   Aag barsayenge zaalim tere sar par jani
   Ashqiya phekenge tujh par abhi patthar jaani
   Bibiyan sham me jayenge khule sar jaani
   Tujhko rehna hai abhi qaid ke andar jani
-  
+
   24
   Khaatema tujh pa hare ek zulm ka hoga beta
   Tu hai sabir ka pisar sabr dikhana hoga
-  
+
   25
   Aakherash aye Madine me Shahinshahe anaam
   Ay Mujeeb ham ne kiya Shah se ek din ye kalam
   Sadma kab sabse zyada tumhe pahuncha hai Imam
   Roke farmate the Sajjad ke al-Shaam al-Shaam
-  
+
   26
   Saaneha Sham ke baazar ka bhoolun kaise
   Waaqiya qasre sitamgar ka sunaon kaise.

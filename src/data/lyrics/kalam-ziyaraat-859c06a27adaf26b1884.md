@@ -11,39 +11,39 @@ published: false
 romanLyrics: |-
   Matam zameen pe hota hay aur arsh par buka
   Taboot e Murtaza ko uthatay hain Ambiya
-  
+
   1
   Chehray pe khoon behta hay sar hay shigafta
   Dunya se is tarha mera mushkil kusha chala
-  
+
   2
   Wo jis ko dekhna bhi ibadat kaha gaya
   Dooba hua hay khoon may wo chehra Imam ka
-  
+
   3
   Ummat yateem ho gayi be aasra hayat
   Jo sab ke bojh uthata tha dunya se uth gaya
-  
+
   4
   Jinn o Malak Rasool o bashar saray aa gaye
   Kis shan se utha tha janaza Imam ka
-  
+
   5
   Abbas ko supard kiya hay Hussain ke
   Jatay huay Ali ki hay ankhon may Karbala
-  
+
   6
   Zainab kahan hay poochtay hain ghash may Murtaza
   Ankhain hain band samnay manzar hay Shaam ka
-  
+
   7
   Mola mila hay aap ko taboot aur kafan
   Be gor o be kafan raha lasha Hussain ka
-  
+
   8
   Beta usi ka pyasa raha teen roz tak
   Qatil ko apnay jis ne ke sharbat ata kiya
-  
+
   9
   Mushkil may sab ki jaan bachata tha jo qamar
   Sajday may zalimo ne usay qatl kar diya

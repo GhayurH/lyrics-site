@@ -11,31 +11,31 @@ published: false
 romanLyrics: |-
   Lut gaye aal e Muhammad ke gharanay walay
   Tarsay pani ko jo Kausar ke lutanay walay
-  
+
   1
   Ho gayi sham unhain Shaam ke bazaroon may
   Aik beemar ko lakon hain satanay walay
-  
+
   2
   Zahra kehti bakshwa doon gi unhain mehshar may
   Jo meray laal pe ansoo hain bahanay walay
-  
+
   3
   Pani tak tu ne maanga meray mazloom Hussain
   Tegh o khanjar se pyas apni bujhanay walay
-  
+
   4
   Boli Zainab jo giri khaak pe tasweer e Rasool
   Chal basay yaad bhi nana ki dilanay walay
-  
+
   5
   Ro ke kehti thi Sakina meray chacha ho kahan
   Loat kar aaye nahi pani pilanay walay
-  
+
   6
   Boli Fizza na inhain maro zara sharm karo
   Ye to nabiyon ki bhi hain shaan barrhanay walay
-  
+
   7
   Teer besheer ko kehtay huay roya Kausar
   Kyun huay zibha zuban khusk phiranay walay

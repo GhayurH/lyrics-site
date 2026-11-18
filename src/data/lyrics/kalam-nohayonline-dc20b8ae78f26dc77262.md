@@ -15,55 +15,55 @@ romanLyrics: |-
   Wo pairawe wilayat hai
   Aliun waliullah aliun waliullah
   Ali ali ali ali ali
-  
+
   2
   Zalimon ki maut hai aur aasra mazloom ka
   Ali ali aliun waliullah
   Hum azadaron ki ye pehchan hai zer e falak
   Godh se maadar ki le kar qabr ki aaghosh tak
-  
+
   3
   Ek markaz ek nukhta ek mehwar ek sada
   Ali ali aliun waliullah...
   Jo isay naafiz kare wo qaum zindabad hai
   Adliya ki shaan hai ye adl ki buniyad hai
-  
+
   4
   Sirf naara hi nahi ye hai nizaame kibriya
   Ali ali aliun waliullah...
   Sab se pehle ghar jala jiska ali ke naam par
   Ho gayi wo khud zaeefa phasliyan tooti magar
-  
+
   5
   Fatema ki siskiyon mein aakhri dam tak raha
   Ali ali aliun waliullah...
   Saltanat ke waaste tha kab qayame karbala
   Is liye sheh ne kiya tha ehtemame karbala
-  
+
   6
   Jaanti thi saari dunya maanta koi na tha
   Ali ali aliun waliullah...
   Hichkiyan maa ki bani zainab musalle par giri
   Naam sun kar baba jaan ka ro diya ibne ali
-  
+
   7
   Subhe ashoora azaan mein naujawan ne jab kaha
   Ali ali aliun waliullah...
   Be-ridayi aur khutba al haafizo alamaan
   Fatha ka aelaan sun kar goonji awaaze azaan
-  
+
   8
   Bar sare darbaar zainab ne ye saabit kar diya
   Ali ali aliun waliullah...
   Zainab ki jayedaad aliun waliullah
   Emaan se muraad aliun waliullah
-  
+
   9
   Ha sab ka hai mafaad aliun waliullah
   Hai bait e ittehad aliun waliullah
   Ghaibat mein muntazir ko rulao na doston
   Is naare ko fasaad banao na doston
-  
+
   10
   Jab bhi ghaibat se takallum aane waala aayega
   Chaahta hai jo khuda darwesh wo ho jayega

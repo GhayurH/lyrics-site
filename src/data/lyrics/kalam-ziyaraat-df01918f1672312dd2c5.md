@@ -10,31 +10,31 @@ aliases: []
 published: false
 romanLyrics: |-
   Be isme Rabbil Husain
-  
+
   1
   Aao maatam karo, Bibi ki dua lo logo,
   Gham e Shabbir me do aasoo bahaa lo logo,
-  
+
   2
   Jab bhi Abbas ki yaad aae Sakina ki tarha,
   Ek sukhi si koi mashk, uthaa lo logo,
-  
+
   3
   Kufa o Shaam ke har mod pe Zainab ne kaha,
   May nabi zaadi, meraa pardaa bachaa lo logo,
-  
+
   4
   Binte Tatheer kujaa Shaam ka bazaar kujaa,
   Sar pe chaadar nahi, nazro ko jhukaa lo logo,
-  
+
   5
   Shaah e bekas ki sabilo pe chalo Ahle Azaa,
   Yaad Asgar ko karo, pyaas bujhaa lo logo,
-  
+
   6
   Roz e Aashoor ye Zainab ki sadaa aati hay,
   Mere bhai ka janazaa hay, uthaa lo logo,
-  
+
   7
   Aaj tak goonj rahi hay, ye sadaa maqtal me,
   Qayd se meri Sakina ko churha lo logo,

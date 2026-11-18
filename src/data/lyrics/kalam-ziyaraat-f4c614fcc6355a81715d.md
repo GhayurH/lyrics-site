@@ -10,72 +10,72 @@ published: false
 romanLyrics: |-
   Nana teri Zainab aa gayee hay
   Nana teri Zainab lut ke aa gaye hay
-  
+
   1
   1) Darbaron mey baazaron may
   Teray deen ki aan bacha gaye hay
   Nana teri Zainab aa gaye hay
-  
+
   2
   2) Ye neel rasan ke shaano par
   Ye khaak-e-balaa mere baalon par
   Nana, meri hasti khaak banaa gaye hay
   Nana teri Zainab aa gaye hay
-  
+
   3
   3) Ye khun ke chinte chadar par
   Lipti thi may laashe Akber par
   Nana, ik barchi dil mera khaa gayi hay
   Nana teri Zainab aa gaye hay
-  
+
   4
   4) Halqe jo paray hain aankhon may
   Khun roti rahi hun raahon may
   Nana, ab aankh meri pathra gaye hay
   Nana teri Zainab aa gaye hay
-  
+
   5
   5) Kaanton pay kabhi angaaron may
   May chalke gaye baazaaron may
   Nana, yun mujhpe zaeefi chaa gaye hay
   Nana teri Zainab aa gaye hay
-  
+
   6
   6) Ik rassi may baara the galay
   Baazu bhi pase gardan thay bandhay
   Nana, ummat ye qayamat dhaa gaye hay
   Nana teri Zainab aa gaye hay
-  
+
   7
   7) Girte rahay bachay unton say
   Phainkay gaye pathar kothon say
   Nana, khud mout meri gabraa gaye hay
   Nana teri Zainab aa gaye hay
-  
+
   8
   8) Neend ati nahi jis bachi ko
   Kehti thi phuphi ab ghar ko chalo
   Nana, zindaan ki zamin use khaa gaye hay
   Nana teri Zainab aa gaye hay
-  
+
   9
   9) Parday ka muhaafiz tha Ghazi
   Tasweer tha meray baba ki
   Nana, use raas taraaye aa gaye hay
   Nana teri Zainab aa gaye hay
-  
+
   10
   10) Tumse thi ijazat leke gaye
   Kis haal mei dekho ab aaye
   Nana, ab meri qamar kham khaa gaye hay
   Nana teri Zainab aa gaye hay
-  
+
   11
   11) Karti hun sawal ye ab tumse
   Be parda kabhi dekha tha mujhe
   Nana, kyun kabr teri tharra gaye hay
   Nana teri Zainab aa gaye hay
-  
+
   12
   12) Do laal fida bhai pe kiye
   Bhaai pe ridaa bhi ki sadqay

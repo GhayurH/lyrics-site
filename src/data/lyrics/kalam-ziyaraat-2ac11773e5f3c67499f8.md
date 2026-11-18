@@ -12,32 +12,32 @@ romanLyrics: |-
   Ab to aa jao Shahanshah-e-Wafa
   Ro ro kehti thi Sakina ran me
   Lut gayi sani-e-Zahra ki rida
-  
+
   2
   Shimr ne maaray tamachay hain mere kano pe
   Jhirrkiyan de ke uthaya hay mujhe
   Baba ki lash pe sonay na diya
-  
+
   3
   Cheen li sab ki ridayain aur jalaye khaime
   Aisa loota hay musalmano ne
   Na kia Aal-e-Muhammad ka haya
-  
+
   4
   Tum ko Abbas ki taqat pe bharosa tha bohat
   Qaid honay se bachaye tum ko
   Aa ke yeh Shimr ne Zainab se kaha
-  
+
   5
   Shaam janay ke liye qafila tayyar hay jo
   Un me ik raat ki byahi hay kharri
   Hathon se utra nahi rang-e-hina
-  
+
   6
   Toarr di mar ke Akbar ke jigar may barchi
   Aur sitamgar ne kaha Maula se
   Ye suna hay ke tu sabir hay barra
-  
+
   7
   Sahib-ul-Asr yeh alfaz ata kartay hain
   Koi khoobi ye nahi Akhtar ki

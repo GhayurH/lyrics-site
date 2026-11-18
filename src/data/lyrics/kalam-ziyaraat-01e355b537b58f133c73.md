@@ -10,23 +10,23 @@ published: false
 romanLyrics: |-
   Haey Sajjad nay gham kaisaay uthahain hon gay
   Loag bazaron main Zainab ko jo laye hon gay
-  
+
   1
   1) Yad Abbas ki Zainab ko satati ho gi
   Log Khaiyyam ko jab lootnay aaye hon gay
-  
+
   2
   2) Na Alamdar na Qasim aur na Akber hi rahay
   Kaisay saidaniyon kay perday banaey hon gay
-  
+
   3
   3) Qabar main lasha-e-Shabbar bhi tarapta ho ga
   Sehray Qasim nay jo mathay pay sajayey hon gay
-  
+
   4
   4) Bheer bhi aam thi aur sar pay ridayen bhi na thi
   Kaisay namus nay phir chehray chupaiyain hon gay
-  
+
   5
   5) Socho Akhtar zara Zainab ka hashar kiya ho ga
   Sar shaheedon kay jo zalim nay utaray hon gay

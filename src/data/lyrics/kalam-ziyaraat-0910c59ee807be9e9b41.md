@@ -10,41 +10,41 @@ published: false
 romanLyrics: |-
   Tha ye Bano ka bayan, kis ko doon ab lorian
   Dhoondti phirti hay maadar hay mera Asghar kahan
-  
+
   1
   Tera jhoola jal gaya, aey meray tishna dahaan
   Dhoondti phirti hay maadar hay mera Asghar kahaan
-  
+
   2
   Haey woh nazuk gala, teen din se khushk tha
   Barhh ke moj e teer ne wo, kis qadar zakhmi kiya
   Tar hui khoon se zabaan, le sakay na hichkiyaan
   Dhoondti phirti hay maadar hay mera Asghar kahaan
-  
+
   3
   Khoon bhara kurta tera, haey wo bhi chin gaya
   Ab jiyon kis ke saharay, paas meray kiya raha
   Zindagi hay raegan, umar bhar hoon noha khawan
   Dhoondti phirti hay maadar hay mera Asghar kahaan
-  
+
   4
   Khaali jhoola dekh kar, aey meray noor e nazar
   Ankh faryadi hay meri, aur rota hay jigar
   Soo gaye ho tum kahan, chain paya kaisay maa
   Dhoondti phirti hay mada hay mera Asghar kahaan
-  
+
   5
   May musafir Shaam ki, khatm had aaram ki
   Qaid ho kar ja rahi hoon, gard hay aalam ki
   Bandh chuki hain rassiyan, ham kahaan ab tum kahaan
   Dhoondti phirti hay maadar hay mera Asghar kahaan
-  
+
   6
   Jaam ashkon ke piyo, aaj ki shab soo rahoo
   Umr lag jaye hamari, tum yuhin jeetay rahoo
   Tum pe qurbaan meri jaan, aey qarar e be-kasaan
   Dhoondti phirti hay maadar hay mera Asghar kahaan
-  
+
   7
   Mir kiya Rehan kiya, jis ne ye Noha suna
   Ashk ankhon se baha kar, us ne ro ro kar kaha

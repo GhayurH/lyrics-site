@@ -9,26 +9,26 @@ aliases: []
 published: false
 romanLyrics: |-
   Judaeyan maar gaeyaan nay haar gaeyan nay sahwaa’n meriyan..
-  
+
   Sani)
   Gawah beemar diyan nay- meray Izhar diyan nay rahwaa’n teriyan .
-  
+
   Antra)
   Jina hathaa’n tu Asghar karbal nu tur peya si Rab janay ki keya si
   Tu man babay di tureya si , tay sun kay kyun na mureya hanwaa’n meriyan .
-  
+
   Antra)
   Menu lagda aay Akbar hun tu nae murr Kay aana , mukna nahin mera rona
   Tu meray ron muka ja tay ban kay sir tay aaja chawaan meriyan .
-  
+
   Antra)
   Muk gae udeek teri main Akbar sochni aan Haye naal kyun na gae aan
   Tu deray door nay laye koi sun’da nahin Haye sadawaa’n meriyan..
-  
+
   Antra)
   Wangu Yaqoob diyan akhiyn her wailay rondiyan nay ek pal na sondiyan nay
   Main aasa’n veeran rakhiyan teri rahwaa’n tay lagiyan nigahwaa’n meriyan .
-  
+
   URDU
 # source_id: nohawriteups:f8e2503d6800e3e26e02
 # source_url: https://www.nohawriteups.org/judiyaan-maar-gaiyaan-nay/

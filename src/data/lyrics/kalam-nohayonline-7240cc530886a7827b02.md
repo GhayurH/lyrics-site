@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Farshe majlis pe fatema zehra
-  
+
   1
   Lamha lamha shumaar karti hai
   Ay azadaro aao majlis mein
@@ -19,7 +19,7 @@ romanLyrics: |-
   Ay azadaro suno keh rahi hai sayyeda
   Har ek chahne waale ko bakshwa doongi
   Mere hussain ko rote raho dua doongi
-  
+
   2
   Tum apne ghar mein azakhane jab sajaoge
   Jaza rasool se iski zaroor paaoge
@@ -27,7 +27,7 @@ romanLyrics: |-
   Gham apna bhool ke ashoor jab manaoge
   Tumhare dil ke har ek zakhm ki dawa doongi
   Mere hussain ko rote...
-  
+
   3
   Ajeeb haal se aaungi mai sare mehshar
   Ke laaungi mai wahan godh mein hussain ka sar
@@ -35,7 +35,7 @@ romanLyrics: |-
   To saath laashaye asghar bhi aur hassan ka jigar
   Khuda se baba ki ummat ko bakshwa doongi
   Mere hussain ko rote...
-  
+
   4
   Ba waqt e asr guluye hussain kat'ta tha
   Pisar ke gird phiri roohe fathema zehra
@@ -43,7 +43,7 @@ romanLyrics: |-
   Ke chakki pees ke maine hussain ko paala
   Karo na qatl isay mai tumhe dua doongi
   Mere hussain ko rote...
-  
+
   5
   Meri sakina o zainab ki sab kaneezein sune
   Wasiyat ek meri hai dhyan mein rakhe
@@ -51,7 +51,7 @@ romanLyrics: |-
   To ek lamha bhi khud ko wo berida na kare
   Mai tumko betiyan zainab si baah la doongi
   Mere hussain ko rote...
-  
+
   6
   Tum is jahan mein hamara sahara ban jao
   Hamare bhai se izzat to banke dikhlao
@@ -59,7 +59,7 @@ romanLyrics: |-
   Aza ki rooh ko nuksaan tum na pahunchao
   Ye mere wada hai mai tumko bakshwa doongi
   Mere hussain ko rote...
-  
+
   7
   Jo umr bhar mere bachon ka nauha khwan hoga
   Ba roze hashr wo utna hi shadman hoga

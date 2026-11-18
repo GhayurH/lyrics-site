@@ -15,67 +15,67 @@ romanLyrics: |-
   Dheeme dheeme tapakte hai aansu
   Haey Sughra ka khat parh rahe hai
   Bole kya may jawaab is ka doon
-  
+
   2
   Haey Sughra bata kya likhoon
   Haey Sughra bata kya likhoon
-  
+
   3
   1) May to pardes may lut gaya
   Apne lashkar ko may ro chuka
   Tera baba ghareeb hogaya
   Haey iske siwa kya likhoon
   Haey Sughra bata kya likhoon
-  
+
   4
   2) Aandhiya mera ghar legayi
   Mere lakht-e-jigar legayi
   Mera noor-e-nazar legayi
   Haey iske siwa kya likhoon
   Haey Sughra bata kya likhoon
-  
+
   5
   3) Khat tera ab sunaawu kise
   Kon meri sada par uthe
   Shab ko jaage huwe sogaye
   Haey iske siwa kya likhoon
   Haey Sughra bata kya likhoon
-  
+
   6
   4) Haey Sughra wo bhai tera
   Jisne tujh se tha wada kiya
   Kha gayi usko karbobala
   Haey iske siwa kya likhoon
   Haey Sughra bata kya likhoon
-  
+
   7
   5) Pyaar tune tha jisko likha
   Ghutinyo bhi jo na chal saka
   Haan wo Asghar bhi ab na raha
   Haey iske siwa kya likhoon
   Haey Sughra bata kya likhoon
-  
+
   8
   6) Shab ko dulha banaya jisse
   Raas aayi na mehendhi jisse
   Royi sehre ki lariyaan jisse
   Haey iske siwa kya likhoon
   Haey Sughra bata kya likhoon
-  
+
   9
   7) Ab Sakina ka hafiz khuda
   Waqt Zainab pe bhi hai khara
   Mujh ko ghere huwe hai qaza
   Haey iske siwa kya likhoon
   Haey Sughra bata kya likhoon
-  
+
   10
   8) Ye to accha huwa laadli
   Apne ghar may tu rehgayi
   Beridaayi se to bachgayi
   Haey iske siwa kya likhoon
   Haey Sughra bata kya likhoon
-  
+
   11
   9) Khat wo "Rehan-o-Sarwar" tha kya
   Khaak se mera maula utha

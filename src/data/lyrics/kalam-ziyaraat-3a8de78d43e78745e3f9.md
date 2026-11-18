@@ -10,27 +10,27 @@ published: false
 romanLyrics: |-
   Wafa thi unke liye auy yeh wafa ke liye
   Ali ne maanga tha Ghazi ko Karbala ke liye
-  
+
   1
   Jari ke pairon ko chooma hai, roz e Aashoora
   Yeh khushnaseebi rahi, mauje al qama ke liye
-  
+
   2
   Hussain Jhoola Jhulate thay, Inko yeh kah kar
   Yeh kaam aayega Zainab, trte rida ke liye
-  
+
   3
   Lab e Furath jo bazoo qalam hue inke
   Bohut bada tha yeh gham rooh e Sayyada ke liye
-  
+
   4
   Alam ke saaye mein aate hi mil gayi seyhat
   Tadap rahe thay kai din se jo shifa ke liye
-  
+
   5
   Na jane kis liye Haidar ne Inke baazo ko
   Hazaar bose gale se laga laga ke diye
-  
+
   6
   Sakina Baba se isne wigha dilaao hame
   Zara sa kaam yeh kar do faqat Chacha ke liye

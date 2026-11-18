@@ -19,7 +19,7 @@ romanLyrics: |-
   Qurban ho chuke thay sab ansar o aqraba
   Ghurbat ki bekasi thi shah e mashreqain thay
   Nau laakh fauj e shaam mein tanha hussain thay
-  
+
   2
   Tanhaai dhoondti hai wo lashkar kidhar gaya
   Tooti hui kamar hai jawan bhai mar gaya
@@ -27,7 +27,7 @@ romanLyrics: |-
   Armaan tha jiski shadi ka wo bhi guzar gaya
   Rota hai dil shabih e payambar nahi raha
   Sughra ki yaad aati hai akbar nahi raha
-  
+
   3
   Mai kis tarha bayan karun us waqt kya tha haal
   Kha kar sitam ka teer jo asghar hua nidhaal
@@ -35,7 +35,7 @@ romanLyrics: |-
   Bano na dekh le kahin sheh ko tha ye khayal
   Jitna lahoo ugal diya maah e muneer ne
   Utna to doodh bhi na piya tha sagheer ne
-  
+
   4
   Bache ki apne qabr banane lage hussain
   Khud bebasi ki laash uthaane lage hussain
@@ -43,7 +43,7 @@ romanLyrics: |-
   Matti mein apna chand chupane lage hussain
   Thi itni garm rayt ke ghabra gaye hussain
   Chehre pe khaak daal ke tharra gaye hussain
-  
+
   5
   Rote huwe imam jo qaime ke dar pe aaye
   Thay hamsafar hussain ke tanhaiyo ke saaye
@@ -51,7 +51,7 @@ romanLyrics: |-
   Koi nahi bacha mere maula ka haye haye
   Aayi sada ye fikr ke shaah e umam na kar
   Zainab tujhe sawaar karayegi gham na kar
-  
+
   6
   Aaye hussain ran mein safon ki safayi ki
   Aada se bhook pyaas mein aisi ladayi ki
@@ -59,7 +59,7 @@ romanLyrics: |-
   Aise mein sheh ko laash nazar aayi bhai ki
   Goonji sada ye fatema zehra ke chain ki
   Abbas uth ke dekho ladayi hussain ki
-  
+
   7
   Baatein tasavuraat mein karte thay shaah e deen
   Itne mein gherne lagay maula ko sab layeen
@@ -67,7 +67,7 @@ romanLyrics: |-
   Bibi pukaarti thi batao to ahle keen
   Pyase ko kyun lahoo ke ghareeb-ud-dayaar ke
   Tum ko milega kya mere bacha ko maar ke
-  
+
   8
   Sajjad kya bayan ho wo karb ki ghadi
   Chalne lagi jo halq pe mazloom ke churi

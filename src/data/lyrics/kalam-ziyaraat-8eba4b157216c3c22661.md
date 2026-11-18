@@ -10,14 +10,14 @@ aliases: []
 published: false
 romanLyrics: |-
   Shabih Imam e Zama khenchtay hain
-  
+
   1
   Tasavar may tasveer e jan khenchtay hain
-  
+
   2
   Kaha ro ke Akbar nay aey dard tham ja
   Ke senay say Baba sina khenchtay hain
-  
+
   3
   Akbar nay kaha ro ker aey dard zara tham ja
   Baba meray senay say sina khench rahay hain

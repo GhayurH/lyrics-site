@@ -23,7 +23,7 @@ romanLyrics: |-
   Pardaseya veera
   Haye bhain di thi ae rehai vay
   Pardaseya veera
-  
+
   2
   Safran Da Kya Haal Sunawa
   Vich Pardesan Banj Ridawaa
@@ -33,7 +33,7 @@ romanLyrics: |-
   Pardaseya veera
   Haye bhain di thi ae rehai vay
   Pardaseya veera
-  
+
   3
   Baad Teray Oo Vela Aya
   Naizay Tey Nal Ambriya Jaya
@@ -43,7 +43,7 @@ romanLyrics: |-
   Pardaseya veera
   Haye bhain di thi ae rehai vay
   Pardaseya veera
-  
+
   4
   Rasiyan de Vich bandhiyan bawan
   Sang Bharjaiyan baj ridawan
@@ -53,7 +53,7 @@ romanLyrics: |-
   Pardaseya veera
   Haye bhain di thi ae rehai vay
   Pardaseya veera
-  
+
   5
   Haye pohonchi Jad mae Sham vechal ae
   Haye har Ghar Ghar da Vich kar ke ujaly
@@ -63,7 +63,7 @@ romanLyrics: |-
   Pardaseya veera
   Haye bhain di thi ae rehai vay
   Pardaseya veera
-  
+
   6
   Har Sou Tha Mahool Sharabi
   Sar Tange Thi Behan Tumhari
@@ -73,7 +73,7 @@ romanLyrics: |-
   Pardaseya veera
   Haye bhain di thi ae rehai vay
   Pardaseya veera
-  
+
   7
   Ghairat Wala Putar Muhrai
   Khoon Jigar Ankheyan Chu Jari
@@ -83,7 +83,7 @@ romanLyrics: |-
   Pardaseya veera
   Haye bhain di thi ae rehai vay
   Pardaseya veera
-  
+
   8
   Haye Shimar diyan jhirrkan tou dar gaye
   Vich zindan Sakina marr haye
@@ -93,7 +93,7 @@ romanLyrics: |-
   Pardaseya veera
   Haye bhain di thi ae rehai vay
   Pardaseya veera
-  
+
   9
   Haye qabar Hussain koon gal nal la ke
   Saian Jawad O Sarwar aakhy

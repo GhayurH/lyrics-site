@@ -16,42 +16,42 @@ romanLyrics: |-
   Ay phool se sipahi tujhko salaam mera
   Tu ne kiya hai uncha dunya mein naam mera
   Aaja tujhe maa seene se lagaye
-  
+
   2
   Ammu hai paas tere baba hai aur akbar
   Darna na zaalimon se ay bezuban asghar
   Maa ko bulaana jab neend na aaye
-  
+
   3
   Maa teri tashnagi par qurban meri jaani
   Kyun beh raha hai darya tujhko mila na pani
   Aaja ke maadar pani pilaaye
-  
+
   4
   Tu chand mere ghar ka dunya se jaane waale
   Tu kya gaya hai ghar se ruqsat huwe ujaale
   Tareekiyon ke baadal se chaaye
-  
+
   5
   Aulaad ka bichadna sab se bada hai sadma
   Ujdi hai kokh meri dil ro raha hai mera
   Ye aag dil ki maa kaise bujhaye
-  
+
   6
   Maadar ke saamne jab pani ka jaam aaye
   Be-saakhta labon par tera hi naam aaye
   Pani mein tera chehra nazar aaye
-  
+
   7
   Dil se nikal rahi hai ab ye duayein har pal
   Maa ban ke tujhko paale ye sar zameen e maqtal
   Darti hoo lekin tu khauf na khaaye
-  
+
   8
   Sunti hoo ro diya tha tujh par sitam ka lashkar
   Tu muskura raha tha jis waqt teer kha kar
   Kaise tujhe maa dil se bhulaye
-  
+
   9
   Faryad ek maa ki khirtaas se jo aaye
   Mazhar wo aansuon ki barsaat kar ke jaaye

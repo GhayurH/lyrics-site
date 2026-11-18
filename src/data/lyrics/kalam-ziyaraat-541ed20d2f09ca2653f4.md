@@ -11,10 +11,10 @@ published: false
 romanLyrics: |-
   Ya abbas
   Aa dekh mere ghaazi, ooncha hai alam teraa
-  
+
   1
   Dil seenay mein jab taaka hai, bhulega na gham tera
-  
+
   2
   1) Zainab ki duwa bankarrr, ik waqt woh aayenga
   Har ghar pay saja honga, abbas alam tera

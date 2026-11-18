@@ -10,19 +10,19 @@ published: false
 romanLyrics: |-
   Yun aalam-e-ghurbat may Ya Rab na lutay koi
   Darya ke qareeb aa kar pyasa na rahay koi
-  
+
   1
   Akbar ki jawani par khud roye jawani bhi
   Arman kisi maa ke dil may na rahay koi
-  
+
   2
   Yeh keh ke giri Zainab Shabbir kay lashay par
   Be gor-o-kafan lasha ban may na rahay koi
-  
+
   3
   Kat-ti hui gardan se aati thi sada paiham
   Yun pyasay ki gardan par khanjar na chalay koi
-  
+
   4
   Bazar may Kufay kay Zainab ne kaha ro kar
   Yun parda nasheen ya Rab dar dar na phiray koi

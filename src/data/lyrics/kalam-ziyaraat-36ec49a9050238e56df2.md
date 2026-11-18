@@ -15,49 +15,49 @@ romanLyrics: |-
   Di tarap kar dar-e-qaime se ye zainab ne sada
   Abhi khanjar na chalaa abhi khanjar na chalaa
   Zaalim abhi khanjar na chalaa
-  
+
   2
   1) jab giray ghoray se maqtal may shahe karbobala
   Khanjare zulm liye shimre sitamgaar barha
   Di tarap kar dar-e-khaime se ye Zainab ne sada
   Abhi khanjar na chalaa abhi khanjar na chalaa
   Zaalim abhi khanjar na chalaa
-  
+
   3
   2) loot mat behre khuda fatima Zehra ka chayn
   Aur kuch dair theher ja aray zaalim ke Hussain
   Bakshishe ummate jad ki abhi kartey hain dua
   Abhi khanjar na chalaa abhi khanjar na chalaa
   Zaalim abhi khanjar na chalaa
-  
+
   4
   3) teen din hogaye pyasa hay nabi ka jani
   Zibha karna hay to do ghoont pila day pani
   Kund khanjar hay meray bhai ka sookha hay gala
   Abhi khanjar na chalaa abhi khanjar na chalaa
   Zaalim abhi khanjar na chalaa
-  
+
   5
   4) bosa gaahe nabavi hay ye gala aey zaalim
   Sheh-ragay deen pay khanjar na chala aey zaalim
   Choomtay thay isi halqoom ko mahboob e khuda
   Abhi khanjar na chalaa abhi khanjar na chalaa
   Zaalim abhi khanjar na chalaa
-  
+
   6
   5) chor kar khuld zara fatahey khyber aa lain
   Aur kuch dayr teher ja ke payambar aa lain
   Aati hi hongi woh aa lene de amma ko zara
   Abhi khanjar na chalaa abhi khanjar na chalaa
   Zaalim abhi khanjar na chalaa
-  
+
   7
   6) kya karoon jaon kahan kis ko pukaroon bhai
   Kaise dekhegi tumhain torhtey dam maa jaayi
   Ya ilahi mujhe shabbir se pehle le utha
   Abhi khanjar na chalaa abhi khanjar na chalaa
   Zaalim abhi khanjar na chalaa
-  
+
   8
   7) haey kis dil say karoon tazkiraye joro jafa
   Kat gaya saamnay Zainab ke shahe deen ka gala

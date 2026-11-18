@@ -11,37 +11,37 @@ published: false
 romanLyrics: |-
   Aa gayee binte Ali, berida haath bandhe bhare bazaaron may
   Jiss ne sooraj nah kabhi dekha tha, ro rahee hay voh gunahgaron may
-  
+
   1
   1) Kaun jaanay ke yeh hay kaun, rassan pehne hooe
   Berida rotee hai sajjad ke peeche chup ke
   Siskiyanh doobi hainh jiss Bibi kee
   Hae zanjeero kee jhankaron meinh
-  
+
   2
   2) Hae Zahra teri kismet nah millah Haqq tujh ko
   Aisee tazim teri ki hai mussalmanonh ne
   Tera Haqq mangne aayee Zainab
   Ek menosh ke darrbaronh meinh
-  
+
   3
   3) Kahan Zainab aur kahan shaam ke logonh ka hajoom
   Sarr barehana oonchee avaaz mainh khutbe parhna
   Qatlay murrsal ka havaala de karr
   Chadare Mangna badhkaronh mein
-  
+
   4
   4) Aag Khaymonh ko Luggee aur thay Sajjad be hosh
   Roro Abbas ko deti thihsadaen Zainab
   Loot lo chadare Sayyedaniyyonh kee
   Shor barpa tha sitamgaronh meinh
-  
+
   5
   5) Jiss tarha bali Sakina rahe Baba ke beghair
   Sogayyi chaen se tanhhaee meinh rote rote
   Hitchkiyyanh dabb gayyee Massooma kee
   Hae zindano ke deevaronh meinh
-  
+
   6
   6) Jiss jagga Majlis-e-Shabbir ho barpa Akhtar
   Chhorr Karr dukhiyya vahanh rotee hai Zahra aa Karr

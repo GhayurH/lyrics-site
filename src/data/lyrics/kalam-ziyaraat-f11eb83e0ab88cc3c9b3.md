@@ -11,19 +11,19 @@ published: false
 romanLyrics: |-
   Pani nahi mangoon gi Ammo meray aa jao
   Hajat nahi ab mujh ko mashkeeza bhi chorr aao
-  
+
   1
   Aamada hain janay ko baba bhi soey maidan
   Wo jayain na yun tanha aa kar inhain sajahao
-  
+
   2
   Karti hay chachi girya munh dhanp ke aanchal se
   Aur fazal bhi rota hay aa kar isay behlao
-  
+
   3
   Pani ki kaheen khaatir bazo na kata dena
   Tum ko hay qasam meri Ammo meray loat aao
-  
+
   4
   Abbas ki mehshar may aey kash sada aaye
   Parrhtay huay woh noha jannat may Anees aao

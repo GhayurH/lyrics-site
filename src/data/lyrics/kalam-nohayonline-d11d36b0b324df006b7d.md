@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Thay bain sakina ke abbas nahi aaye
-  
+
   1
   Darya pa gaye aise abbas nahi aaye
   Aisa to na hota tha jab tak thay madine may
   Kya karbobala aaye abbas nahi aaye
-  
+
   2
   Ek mai hi na thi pyasi bache bhi to pyase thay
   Kyun rooth gaye mujhse abbas nahi aaye
-  
+
   3
   Panchi hoke maanus ho har shaam palat'te hai
   Kya baat khuda jaane abbas nahi aaye
-  
+
   4
   Kehde koi sughra se hum bhoole nahi tujhko
   Hum kabke ghar aajate abbas nahi aaye
-  
+
   5
   Ab chadare zainab ka allah muhafiz hai
   Parde ke jo zaamin thay abbas nahi aaye
-  
+
   6
   Bemaar bhatije par nanhi si bhatiji par
   Kya kya na sitam toote abbas nahi aaye
-  
+
   7
   Darbar ki aarayish aur qaidi rasan basta
   Chaubees pahar guzre abbas nahi aaye
-  
+
   8
   Kuch yaad nahi aata aisa bhi hua sibte
   Jafar ke bulane se abbas nahi aaye

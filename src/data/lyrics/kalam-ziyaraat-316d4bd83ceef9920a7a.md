@@ -15,7 +15,7 @@ romanLyrics: |-
   Apna haq mang rahi hoon ghasib say,
   Kalma go kursi nasheen hain
   Aur may kab say khari hoon
-  
+
   2
   1) Poocha Haider nay bata kya kya masjid main howa
   Ro kay bus itna kaha,
@@ -23,7 +23,7 @@ romanLyrics: |-
   Kabhi mai khakh pe bethi, hoon thak kaar
   Kabhi bayton nay sambhaala,
   Kabhi rastey main giri hoon
-  
+
   3
   2) Woh toh kamsin hain abhi
   Door hai shaam say bhi
@@ -32,7 +32,7 @@ romanLyrics: |-
   Kahan jaati ho batawo aey amma
   Mainay Zainab say chupaya
   Kay may darbaar chali hoon
-  
+
   4
   3) Aisay khamosh ho kyu
   Aey na chaho jo kaho
@@ -41,7 +41,7 @@ romanLyrics: |-
   Saath behno ka nibhana Karbal main
   Nangay saar kaisay chalengi,
   Bas yehi soch rahi hoon
-  
+
   5
   4. Jitne dukh maine sahe
   Gar woh din par bhi pade

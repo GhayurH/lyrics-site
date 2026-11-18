@@ -11,7 +11,7 @@ published: false
 romanLyrics: |-
   Ameer Hussain
   Ghareeb Hussain
-  
+
   1
   Ameer bhi hay ghareeb bhi hay
   Hussain mehboob e kibriya hay

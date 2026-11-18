@@ -9,29 +9,29 @@ aliases: []
 published: false
 romanLyrics: |-
   Okha hogaya akbar laee sughra nu samjhona
-  
+
   1
   Tu manta mandiya reh jaana...2, akbar ne mud nai ona
   Okha hogaya akbar lai sughra nu samjhona...2
-  
+
   2
   1) kiwe sughra nu kawe he jina mendi karbal vich
   Kiwe sughra nu kawe Barchhi nal mehendiya laawega
   Tera akbar jagto sona
-  
+
   3
   2) naal baabe de bitha veera nu dekhle ranjke
   Naal baabe de bitha,ek waari je ye bichhad gaya..2, ey wela fir nai ona
-  
+
   4
   3) enjh band howandge ay jand de fer khulne nai
   Enjh band howandge ey ghar ey wede howandge...2, parwaasi koi nai hona
-  
+
   5
   4) khaakte kadmaa di daswi nu tu wi sojaani
   Khaak te kadma di, karbal vich shaame gareeba nu
   Asa saare khaak te sona
-  
+
   6
   5) turghe mehmil akbar, maiyyatane waang lag dene
   Turghe mehmil akbar, takdi khuliyan akhiya nu...2, ey saara khaab darona

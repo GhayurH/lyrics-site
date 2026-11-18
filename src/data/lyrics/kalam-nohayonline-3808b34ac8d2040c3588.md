@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   Qabre sarwar pe nauha kuna hai behan
-  
+
   1
   Teri turbat pe ab mehman hai behan
   Ek amaanat jo saumpi thi tu ne mujhe
   Gham hai sharminda us ko hum laa na sake
   Wo wahan shaam mein aur yahan hai behan
-  
+
   2
   Tum pe royi to bas taziyane lage
   Raah pukhaar thi paon zakhmi huwe
   Do sahara mujhe natawan hai behan
-  
+
   3
   Shaam e ashoor ko saare qaime jale
   Ro rahi thi tumhe yaad karte huwe
   Ab bhi un sholon ke darmiyan hai behan
-  
+
   4
   Qabr par bhai ki koi saaya na tha
   Bhai ki qabr se tab lipat kar kaha
   Dhoop mein qabr ka sayeban hai behan
-  
+
   5
   Karne chehlum tera aayi hai ghamzada
   Gham na kar teri tanha lehad hai to kya
   Qabr par teri girya kuna hai behan
-  
+
   6
   Chadarein chin gayi haath bhi thay bandhe
   Hum ko bazaar o darbar mein le gaye
   Ek musibat ka kohe giran hai behan
-  
+
   7
   Ek taraf qabr teri hai ay bhai jaan
   Doosri simt ghazi ki turbat ayan
   Do taraf bhai hai darmiyan hai behan
-  
+
   8
   Jao jab karbala majid e khasta jan
   Jab bhi mukhtar ho koi nauha kuna

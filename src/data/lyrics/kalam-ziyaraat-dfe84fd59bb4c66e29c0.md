@@ -10,19 +10,19 @@ published: false
 romanLyrics: |-
   Mujraee mushtaq hay qudsi kalam aisa to ho
   Bazm may shor-e-durood uthay salam aisa to ho
-  
+
   1
   Hay Ali Allah ka ham nam naam aisa to ho
   Khana zade haq hua zil ihteram aisa to ho
-  
+
   2
   Ya Ali jab munh se nikla mushkilain aasan huyeen
   Ism-e-Azam ka asar rakhta ho naam aisa to ho
-  
+
   3
   Jin-o-ins o wahsh o tayr o qudsi o ghilman o hoor
   Sab ke sab bayaat karain jis ki Imam aisa to ho
-  
+
   4
   Shah-e-Mardan sher-e-yazdan fatahe Khaibar Ali
   Shah-e-mardan fatahe khaibar Amirul Momineen

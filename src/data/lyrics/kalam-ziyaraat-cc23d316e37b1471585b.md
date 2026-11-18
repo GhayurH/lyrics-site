@@ -10,40 +10,40 @@ published: false
 romanLyrics: |-
   SarAllah Ya Saratul Hussain
   Ya Shaheed o Ya Mazloom
-  
+
   1
   Dhoop may tera lasha hay parra
-  
+
   2
   Tu jidhar hay us taraf haq ki rah - Ya Hussain, Ya Hussain
   Mil gayi Kaabaaay ko sajda gah - Ya Hussain, Ya Hussain
   Mil gayi Kaabaaay ko sajda gah
   Sar jo naizay par utha hay tera
-  
+
   3
   Murtajiz Zainab ke pas aa gaya - Ya Hussain, Ya Hussain
   Aakhri lamhy-mey Shahe Huda - Ya Hussain, Ya Hussain
   Aakhri lamhy-mey Shahe Huda
   Khoon bhari ankhon-se kya keh diya
-  
+
   4
   Aayain gay jis din Imam e Zamaan - Ya Hussain, Ya Hussain
   Le ke Abbas e jari ka nishan - Ya Hussain, Ya Hussain
   Le ke Abbas e jari ka nishan
   Aur labon par hoo gi ye sada
-  
+
   5
   Be kafan taira tan e pak hay - Ya Hussain, Ya Hussain
   Khoon hay sahraa ki khaak hay - Ya Hussain, Ya Hussain
   Khoon hay sahraa ki khaak hay
   Dhoop may tera lasha hay parra
-  
+
   6
   Ahl e dil ye silsila na rukay - Ya Hussain, Ya Hussain
   Ansoyon ka toofan na thamay - Ya Hussain, Ya Hussain
   Ansoyon ka toofan na thamay
   Ashk hain zakhmo ki teray dawa
-  
+
   7
   Loh o kursi ho gaye noha gar - Ya Hussain, Ya Hussain
   Gir gaya lo aasman khaak par - Ya Hussain, Ya Hussain

@@ -13,56 +13,56 @@ romanLyrics: |-
   Azmat ki inteha tu
   Zehra ki hay dua tu
   Sab se buland hay tera maqaam
-  
+
   2
   Himmat nahi kisi may is zikr ko mitaye
   Batil ne har tarha se har taur aazmaye
   Ghar bhi luthaya tum ne
   Sar bhi kathaya tum ne
   Bakhsha gham-e-Hussain ko dawaam
-  
+
   3
   Jag may nahin hai milti koi misaal teri
   Taareef kar rahe hain maazi-o-haal teri
   Arbo may aur ajam may
   Ibn-e-Ali ke gham may
   Peeta raha shahadaton ke jam
-  
+
   4
   In qaatilon ke hamle nakaam ho rahe hain
   Teri wafa ke charche ab aam ho rahe hain
   Baatil may khalbali hai
   Maatam gali gali hai
   Neendein hui hai kufr ki haraam
-  
+
   5
   Ro ro ke de rahi hain Zainab duaein tum ko
   Hairat se dekhti hain Karbal ki maaein tum ko
   Ba sidq e ba yaqeen ho
   Karbal ke tum amee ho
   Mamnoo hai tumhara khaas-o-aam
-  
+
   6
   Koi maqaam pooche Sajjad se tumhara
   Maatam tera bana hai jis ke liye sahara
   Wo natawan musafir
   Wo dard ka payambar
   Karta hai ab bhi shaam, shaam, shaam
-  
+
   7
   In beyaqeenio main ahl-e-yakeen tum ho
   Deen-e-Muhammadi ke aslan ameen tum ho
   Dil chaahta hai mera
   Ho shaam ya sawera
   Karta rahoon yuhin tumhe salaam
-  
+
   8
   Saanson may teri khushboo dil main hai pyaar tera
   Ab aa bhi jaao sab ko hay intezaar tera
   Aey aaliyon se aali
   Aey bekason ke waali
   Sambhalo ab jahan ka nizaam
-  
+
   9
   May kia hoon arsh wale tum par salam bhejein
   In ansuon ke badle kausar ke jaam bhejein

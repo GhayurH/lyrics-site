@@ -10,19 +10,19 @@ published: false
 romanLyrics: |-
   Baghdad ke ik pul pe kharra soch raha hoon,
   Masoom qabilay ki khata soch raha hoon,
-  
+
   1
   Kabhi khanjar, kabhi talwar, kabhi zehr ki surat,
   SAADAAT ko kia ajar mila soch raha hoon.
-  
+
   2
   Hay Pul Pe rasan basta para Lasha-e-KAZIM
   Islam sikhany ka sila soch raha hoon,
-  
+
   3
   Socho to wo thi Lasha-e-KAZIM k liye bhi
   Goonji jo thi HAL MIN ki sada soch raha hoon
-  
+
   4
   Lanat hay bohat choti Saqeefay k liye to
   Me lafz koi is se bara soch raha hoon

@@ -10,26 +10,26 @@ aliases: []
 published: false
 romanLyrics: |-
   Mera ghar jalaya lutiyan ridawan ro akhay Zainab kis pasay jawan
-  
+
   1
   Abid bachawan ya agh bujawaan ro akhay zainab kis pasay jawan
-  
+
   2
   1) Yusuf ton sohnay meray veer maaray may Shaam chaliyan be kafan saray
   Qabaran banawaan yaan rasiyan pawaan,  ro akhay Zainab kis pasay jawan
-  
+
   3
   2) May deen bachawan vich Shaam aayi sab logh vekhan meri be ridayi
   Khutbay sunawaan yaan mu lukawaan,  ro akhay Zainab kis pasay jawan
-  
+
   4
   3) Khaimaych Qasim di laash aayi chum chum ke tukray kaway Zehra jaayi
   Hun sehray lawaan yaan saf vichawaan,  ro akhay Zainab kis pasay jawan
-  
+
   5
   4) Jis veer de lay chadya medina jiwain qatal hoya bulna kadi na
   Ohnu kafan pawan yaan Shaam jawaan,  ro akhay Zainab kis pasay jawan
-  
+
   6
   5) Veeran de qatil khaimaych aagay ay Hassan Zainab Abid nu akhay
   Hun jal may jawaan yaan baahar awaan,  ro akhay Zainab kis pasay jawan

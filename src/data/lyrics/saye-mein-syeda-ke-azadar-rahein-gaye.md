@@ -13,39 +13,39 @@ published: false
 romanLyrics: |-
   Jab hoga sawa neze pe khurshid-e-qayamat
   Saaye mein Sayyeda ke azaadaar raheṅge
-  
+
   1
   Barhta hi chala jaaega Shabbir ka maatam
   Aaye jo gham-e-Sheh ke alamdaar raheṅge
-  
+
   2
   Hum qabr mein so jaaeṅge jab bekhabari se
   Maatam ke nishaan ruh mein bedaar raheṅge
-  
+
   3
   Har chiz ko dunya mein fanaa hona hai ik din
   Qaayim gham-e-Shabbir ke aasaar raheṅge
-  
+
   4
   Jannat mein agar majlis-e-Shabbir na hogi
   Hum ahl-e-aza khuld se bezaar raheṅge
-  
+
   5
   Ik baar zara naam-e-Ali le ke to dekho
   Mushkil mein madadgaar woh har baar raheṅge
-  
+
   6
   Bejaan khudaaon se kaha Bint-e-Asad ne
   Kaabe mein to ab Haidar-e-Karraar raheṅge
-  
+
   7
   Zainab ka khule sar bhare darbaar mein jaana
   Sajjad isi dard se bimaar raheṅge
-  
+
   8
   Woh mashk ka chhidna woh Sakina ka bilakna
   Abbas ke sine pe sada waar raheṅge
-  
+
   9
   Rehaan mera naama-e-aamaal hai nauha
   Parwaana-e-jannat mere ash'aar raheṅge

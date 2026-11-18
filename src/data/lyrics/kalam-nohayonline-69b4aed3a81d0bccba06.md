@@ -12,97 +12,97 @@ published: false
 romanLyrics: |-
   Dushman ko bhi maloom tha sarwar ka jahan hai
   Hamshakle payambar hai ye shabbir ki jaan hai
-  
+
   1
   Aapas mein kar rahe thay sitamgar ye mashwara
   Sarwar ko maarna hai to akbar ko maar do
   Marna hai is jawan ka marna hussain ka
   Sarwar ko maarna hai to akbar ko maar do
-  
+
   2
   Kaante pade hai pyaas se iski zaban par
   Lekin taras na khaiyo sarwar ki jaan par
   Peeche se chup ke waar karo is jawan par
   Hoga ye waar muttalabi khandan par
-  
+
   3
   Bach kar na jaane paaye ye tasveer e mustafa
   Sarwar ko maarna hai...
   Aage badho rasool ki kheti ujaad do
   Naiza jawan laal ke seene mein gaad do
-  
+
   4
   Zehra ke aur ali ke kaleje ko phaad do
   Jaldi karo hussain ki saansein ukhaad do
   Mar jayenge hussain agar ye juda hua
   Sarwar ko maarna hai to...
-  
+
   5
   Sabr o raza ki had se guzar jayenge hussain
   Lekin pisar ka daagh na seh payenge hussain
   Aisa jigar kahan se bhala layenge hussain
   Akbar ki laash dekh ke mar jayenge hussain
-  
+
   6
   Un ko shikast dene ka hai ek raasta
   Sarwar ko maarna hai to...
   Hamshakle mustafa hai niraala hai ye jawan
   Ye bhi rahe khayaal ke aala hai ye jawan
-  
+
   7
   Zehra ke poore ghar ka ujaala hai ye jawan
   Binte ali ki godh ka paala hai ye jawan
   Is naujawan mein hai basa dil hussain ka
   Sarwar ko maarna hai to...
-  
+
   8
   Atthara saal paal ke jisko jawan kiya
   Wo dilbare hussain hai hamshakle mustafa
   Ye gham hussain par hai masayib ki inteha
   Bete ka sehra dekh na paayein shahe huda
-  
+
   9
   Inaam tum yazeed se lena bohat bada
   Sarwar ko maarna hai to...
   Chaaron taraf se gher ke maaro isay sina
   Dil tak jo jaaye tod ke akbar ki phasliyan
-  
+
   10
   Dekhein jo zakhm shah to nikle badan se jaan
   Ho jaaye is diyaar mein be-aas be-amaan
   Akbar ke baad jee nahi sakte shahe huda
   Sarwar ko maarna hai to...
-  
+
   11
   Yawar koi nahi hai wo kis ko bulayenge
   Tanha hussain laasha e akbar pe aayenge
   Jab apne naujawan ko zinda na payenge
   Khud maut ko hussain gale se lagayenge
-  
+
   12
   Khanjar ko saunp denge wo sookha hua gala
   Sarwar ko maarna hai to...
   Sarwar ko ek pal na sukoon aur qaraar do
   Is sakht imtehan se sheh ko guzaar do
-  
+
   13
   Pushte faras se khaak pe is ko utaar do
   Barchi uthao seena e akbar pe maar do
   Tukde kaleja hoga isi gham se dekhna
   Sarwar ko maarna hai to...
-  
+
   14
   Maqtal ki simt daudte jaate rahe hussain
   Aankhon se khoon ke ashk bahate rahe hussain
   Girte thay jab to khud ko uthaate rahe hussain
   Ro ro ke ye sada bhi lagate rahe hussain
-  
+
   15
   Abbas fauje shaam ka naara suno zara
   Sarwar ko maarna hai to...
   Waiz bhi ashkbaar hai mesum bhi nauha gar
   Mazhar bhi ro raha hai hussain e ghareeb par
-  
+
   16
   Sun kar bayan ye rota hai surani har bashar
   Baithe layeen chain se akbar ko maar kar

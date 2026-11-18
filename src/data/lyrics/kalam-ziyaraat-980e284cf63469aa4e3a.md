@@ -17,7 +17,7 @@ romanLyrics: |-
   Tum pa ajaiy ga sabr ka marhala
   Baat saari Sakina ne Sheh ki suni
   Aur jawaaban bus itna hi kehti rahi
-  
+
   2
   Acha baba sulanay toh aaogay na.. Roz chehra dikhanay toh aaogay na
   Bolay Shabbir aey meri noor-e-nazar
@@ -57,7 +57,7 @@ romanLyrics: |-
   Sunke sab mushkilain bas yeah kehti rahi
   Gar main ruthi mananay toh aaogey na
   Roz chehra dikhanay toh aaogay na
-  
+
   3
   Likh kay Salman dil ro raha hai mera
   Zain jab Shah-e-wala ne rokar kaha
@@ -65,7 +65,7 @@ romanLyrics: |-
   Beti sabir ki thi boli woh sabira
   Mera lasha uthanay toh aaogey naa
   Roz chehra dikhanay toh aaogay na
-  
+
   4
   Acha baba sulanay toh aaogay na.. Roz chehra dikhanay toh aaogay na
 # source_id: ziyaraat:980e284cf63469aa4e3a

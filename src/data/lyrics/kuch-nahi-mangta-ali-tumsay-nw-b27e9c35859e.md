@@ -10,28 +10,28 @@ published: false
 romanLyrics: |-
   Kuch Nahi Mangta Ali Tumsay ye wasihat Na Tum Bhula Deyna
   Kufa walo meray Gharanay Ko meri Tableegh Ka Sila Deyna
-  
+
   Itni Khudar hai meri beti Isnay Mujhsay Bhi Kuch Nahi Manga
   Gar Wo Bazar Mai Rida Mangay Khums Mai Isay Rida Deyna
-  
+
   Ajj Tak Kiya Kesi Ki Beti Ko Mainay Darbar Mai Bulaya Hai
   Ay Darbar Main Agar Zainab Apni Nazaray Wahin Jhuka Leyna
-  
+
   Baap Dada Ki Zarb Ka Badla Betiyon say Nahi Liya Jaata
   Pardadaron Say Jhung Mat Karna Qaidiyon Ko Na Haq Bhula Deyna
-  
+
   Kafla Aik Yahan Se Guzarat Gah Jis Mai Piyasay Yateem Bhi Hongay
   Hosakay Tuh Bhujana Piyaas Inki Pardadaron Ko Rasta Deyna
-  
+
   Tukray Tukray Karo Badan Mera Kardo Pamaal Mera Lasha Abhi
   Haath Uthana Na Sakina s.a Par Is yateema Ko hosla deyna
-  
+
   Meri Ankhon Kay Samnay Logo Fatima S.A Nay Tamachay Khai Hain
   Mainay Zehra S.A Ko Rotay Dekha Hai, Ab Na Zainab S.A Ka Gham Dekha Deyna
-  
+
   Rokay Kehtey Thay Ye Ali Mohsin Meri Ankhon Say Khoon Barsay Gah
   Ab Mai Sajjad Ban Kay Aongah Bheerd Rahon Say Tum Hata Deyna
-  
+
   URDU
 # source_id: nohawriteups:b27e9c35859eda0bacac
 # source_url: https://www.nohawriteups.org/kuch-nahi-mangta-ali-tumsay/

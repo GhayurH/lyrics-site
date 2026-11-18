@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Ay nehre alqama
-  
+
   1
   Aaj bhi is bekasi par ro rahi hai karbala
   Alqama behti rahi aur khaafila pyasa raha
-  
+
   2
   Pyasa tha tere samne kunba rasool ka
-  
+
   3
   Ay nehre alqama tera mehman tha hussain
   Kyun tere paas reh ke bhi usko mila na chain
   Tujhse hai ye gila ay nehre alqama
   Pyasa tha tere saamne...
-  
+
   4
   Qaime thay ahle bait ke kitne tere qareeb
   Pyase hi tere saamne wo mar gaye ghareeb
   Roti thi karbala ay nehre alqama
   Pyasa tha tere saamne...
-  
+
   5
   Mashkeeza jis ke haath mein tha dosh par alam
   Saahil pe tere aaye thay abbas ke qadam
   Rutba tujhe mila ay nehre alqama
   Pyasa tha tere saamne...
-  
+
   6
   Sookhi padi thi mashke sakina tarayi mein
   Do boond pani kya na tha saari khudayi mein
   Tune ye kya kiya ay nehre alqama
   Pyasa tha tere saamne...
-  
+
   7
   Ek bekasi si ahle haram par tamaam thi
   Kitni udaas shaam e ghariban ki shaam thi
   Ay wa musibata ay nehre alqama
   Pyasa tha tere saamne...
-  
+
   8
   Nauhon mein hai jo tazkira e alqama hilal
   Charon taraf hai aaj bhi ek matam e malaal

@@ -15,7 +15,7 @@ romanLyrics: |-
   Baap ke samnay Baqir ne kaha heeay baba
   Ghusl may aap ko kis tarha bhala doon baba
   Jism zakhmo ke nishano se bhara hay sara
-  
+
   2
   Yaad aata hay mujhe shaam barabar baba
   Haey bazar may maoon ka khula sar baba
@@ -23,7 +23,7 @@ romanLyrics: |-
   Khoon rulatay thay tumhain Shaam ke manzar baba
   Zulm ki andhiyan chalti theen laeen hanstay thay
   Haey sab bibyan roti theen laeen hanstay thay
-  
+
   3
   Jism par aap ke nazrain may tikaoon kaise
   Ghusl ka haq jo mila hay wo nibhaoon kaise
@@ -31,7 +31,7 @@ romanLyrics: |-
   Apni ankhon se wo manzar may bhulaoon kaise
   Shaam ki raah may jab moar koi aata tha
   Pusht par durray laeen aap ki barsata tha
-  
+
   4
   Ghusl detay huay gardan ki jo baari aayi
   Haey ye dekh ke nam aankh hui Baqar ki
@@ -39,7 +39,7 @@ romanLyrics: |-
   Ro ke Baqar ne kaha haey ghareebi teri
   Haey gardan ke nishanat ye batlatay hain
   Aray towq pehnay huay tum ne jo safar katay hain
-  
+
   5
   Paaon dhonay ke liye hath barrhaya may ne
   Yaad aaya hay mujhe Shaam ka manzar phir se
@@ -47,7 +47,7 @@ romanLyrics: |-
   Dekh kar aap ko sab log yehi kehtay thay
   Bairian pehn ke kanton pe chala jata hay
   Kitna sabir hay ke har zulm saha jata hay
-  
+
   6
   Qatl sab Karbala may meray ajdad huay
   Sham ke baad na phir aap kabhi shaad huay
@@ -55,7 +55,7 @@ romanLyrics: |-
   Hath rassi ke nishanon se na aazad huay
   Waqt aisa na kisi ko bhi dikhaye Mola
   Baap naize pe ho aur maa ho khulay sar baba
-  
+
   7
   Aap ki ankhon ne maoon ko khulay sar dekha
   Aap ki ankhon ne phupyon ko khulay sar dekha
@@ -63,7 +63,7 @@ romanLyrics: |-
   Aap ki ankhon ne chachyon ko khulay sar dekha
   Haey bazar may ye zulm o sitam hotay rahay
   Aap chalees baras haey lahoo rotay rahay
-  
+
   8
   Ghusl jab de chukay Sajjad ko Mola Baqar
   Dafan phir baap ko kar aaye Baqaea Baqar

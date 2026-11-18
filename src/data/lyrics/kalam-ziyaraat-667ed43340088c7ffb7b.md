@@ -10,11 +10,11 @@ published: false
 romanLyrics: |-
   Sakina utho, Meri jaan utho,
   Rehayi mili, Chalo ghar chalain
-  
+
   1
   Ye karti thi maa, lahad par buka,
   Meri ladli, Chalo ghar chalain
-  
+
   2
   1. Yahan sey chalo, Chalain karbala,
   Wahi par tumhey milen gey chacha,
@@ -22,7 +22,7 @@ romanLyrics: |-
   Dikhana unhain yeh kurta jala,
   Chacha jaan ko, dikhana zara,
   Ridah khoon bhari, Chalo ghar chalain
-  
+
   3
   2. Pidar sey milo, to dil joyi ho,
   Batana unhain, bohot royi ho,
@@ -30,7 +30,7 @@ romanLyrics: |-
   Sakina kabhi kaheen soyi ho,
   Lahad jab milay, tujhe baap ki
   To kehna yahi, Chalo ghar chalain
-  
+
   4
   3. Lahad jab mile tuje bhaiyi ki
   Tu kehna usay meri ladli,
@@ -38,7 +38,7 @@ romanLyrics: |-
   Hamey ab nahi aziyaat koi,
   Meray bezubaan utho ghar chalain,
   Shabih e Nabi, Chalo ghar chalain
-  
+
   5
   4. Mazar e Nabi laraz jaye ga,
   Behan jab teri karay gi buka
@@ -46,7 +46,7 @@ romanLyrics: |-
   Kahan hay bata baradar mera
   Sunanay isay ye rodad e gham,
   Yehi bebasi chalo ghar chalain
-  
+
   6
   5. Batana unhai sabhi sakhtiyan,
   Mileen kis qadar tujey ghurkiya
@@ -54,7 +54,7 @@ romanLyrics: |-
   Chini kis tarha teri baaliya,
   Bata na unhai bujhi kis tarha
   Teri tashnaghi, Chalo ghar chalain
-  
+
   7
   6. Labe alqama tu karna fughaan,
   Teri mauj hay abhi tak rawaan,
@@ -62,7 +62,7 @@ romanLyrics: |-
   Chacha ke merey hain baazu kahan,
   Kahan mashk hay kahan hay alam,
   Kahan hay jarii, Chalo ghar chalain
-  
+
   8
   7. Sar e qaid gham teri har gharii,
   Labo par bhuka faqat thi yahi,
@@ -70,7 +70,7 @@ romanLyrics: |-
   Yahan neendh kya mujey aayeghi
   Buka karti thi yahi raat din,
   Yahan sey puphi, Chalo ghar chalain
-  
+
   9
   8. Behen ke liye teri ladli,
   Rahi ghamzada bani mattami
@@ -78,7 +78,7 @@ romanLyrics: |-
   Wahan meheve gham hain Sughra teri,
   Behen se aghar tuje pyaar hay,
   Fughaan sun meri, Chalo ghar chalain
-  
+
   10
   9. Gaya marqade Sakina pe gar,
   Karega wahan ye Mazhar bayaan,

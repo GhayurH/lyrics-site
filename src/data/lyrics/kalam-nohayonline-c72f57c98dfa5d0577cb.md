@@ -15,61 +15,61 @@ romanLyrics: |-
   Dil thaam ke kehne lagi ye zainabe muztar
   Kya beet gayi shaam ke bazaar mein logon
   Sajjad se poocho
-  
+
   2
   Mafhoom aseeri ka khula shaam mein jaa kar
   Jab nauha kuna noke sina par hue sarwar
   Bhaiya ne jo nauha kiya yasrab ke makeeno
   Sajjad se poocho
-  
+
   3
   Kya beet gayi…
   Mehfooz hai aankhon mein aziyyat ke wo lamhe
   Sadaat khule sar thay tamashayi khade thay
   Us dard ki shiddat ko agar poochna chaho
-  
+
   4
   Sajjad se poocho
   Kya beet gayi…
   Thay haath pase pusht bandhe sar mein padi khaak
   Sadmo se kaleje thay garebaan ki tarha chaak
-  
+
   5
   Ay logon mile zakhm jo un raahon mein humko
   Sajjad se poocho
   Kya beet gayi…
   Jab girta tha abbas ka sar noke sina se
-  
+
   6
   Kya is ka sabab hai jo laeen poochne aate
   Mai kehti thi mujse nahi ye baat layeeno
   Sajjad se poocho
   Kya beet gayi…
-  
+
   7
   Pathar kahi barsaye gaye ehle haram par
   Baaghi kabhi kehlayi gayi aale payambar
   Afsos yehi hai ke musalman thay sabhi to
   Sajjad se poocho
-  
+
   8
   Kya beet gayi…
   Jab gir gayi naaqe se mere bhai ki dukhtar
   Wo naiza ruka jispe rakha tha sare sarwar
   Us dam jo aziyat hui aulaade nabi ko
-  
+
   9
   Sajjad se poocho
   Kya beet gayi…
   Jab milgayi zindan se aseeron ko rihaai
   Ghar jaye ke na jaye kaho fatema jaayi
-  
+
   10
   Ro kar kaha zainab ne ke mujhse nahi bano
   Sajjad se poocho
   Kya beet gayi…
   Jab mazhar-o-irfan kiya sughra ne nauha
-  
+
   11
   Zainab ki zaeefi ka sabab maa se jo poocha
   Maa kehne lagi roke kaleje ko sambhalo

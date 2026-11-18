@@ -13,22 +13,22 @@ romanLyrics: |-
   Behan tumhari hay
   Tu be khata gaya mara, meray bhi sar se rida,
   Gayi utari hay
-  
+
   2
   Ajr aisa mila, Nana ki haey ummat se
   Hain kan zakhmi Sakina ke, Sajjad ki ankhon
   Se khoon jari hay
-  
+
   3
   Jaise teer chalay, Shabbir pe hain Karbal may
   Hui hay aal e Muhammad pe, Sham may aisay,
   Haey sang bari hay
-  
+
   4
   Teri lash Hussain hay dhoop may behan majboor
   Is baat ne mari bohat dil e Zainab
   Pe zarb kari hay
-  
+
   5
   Qadam qadam pe shaheed hona hay teri Zainab ne
   Hay us ke sath safar may, tha jis ne Akbar ko

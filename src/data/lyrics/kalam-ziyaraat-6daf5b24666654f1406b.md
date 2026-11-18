@@ -9,30 +9,30 @@ aliases: []
 published: false
 romanLyrics: |-
   Haey masjid may qatal Ghazi ka baba ho gaya
-  
+
   1
   Fatima ki betiyon pay,  zulm kaisa ho gaya
-  
+
   2
   1) Josh main aakar farishto say laga kehnay khuda
   Saar khula hai Fatima ka ro rahay hai Mustafa
   Hashar say pehlay yeh kaisa,  hashar barpa ho gaya
-  
+
   3
   2) Aagayee pardes main saadaat pay barbaadiyaan
   Lut gayee hai koofa main konain ki shahzaadiyaan
   Kat gayey sajday main Haider,  deen zinda ho gaya
-  
+
   4
   3) Dekh kar baba ko zakhmi ro rahee hain baytiyaan
   Arsh pay saaray faarishtay lay rahay hain siskiyaan
   Aasmaan hilnay laga,  nabiyon pay sakta ho gaya
-  
+
   5
   4) Hai abhee Shabbir-o-Shabbar aur alambardaar hai
   Ghar hai teray baba ka, kab Shaam ka bazaar hai
   Saniyey Zehra tumhaara,  sir kyun uryan ho gaya
-  
+
   6
   5) Rakh lia jhooli main sir aapka Shabbir nay
   Dekh kar baba ko zakhmi yeh kaha dilgeer nay

@@ -15,31 +15,31 @@ romanLyrics: |-
   Us ne ro kar padar se ye poocha
   Baba itna mujhe batayain gay
   Kia Sakina ko bhool payain gay
-  
+
   2
   Is qadar aap ka hay khushk gala
   Aah bharnay ka hosla na raha
   Kis tarha lorian sunayain gay
   Kia Sakina ko bhool payain gay
-  
+
   3
   Apnay jazbat kar liye qaboo
   Aap ne zabt kar liye ansoo
   Zakhm e dil kis tarha chupayain gay
   Kia Sakina ko bhool payain gay
-  
+
   4
   Koi baqi nahi raha baba
   Aap khud ja ke laye har lasha
   Apni khatir kisay bulayain gay
   Kia Sakina ko bhool payain gay
-  
+
   5
   Aakhri bar dekh loon chehra
   Mujh ko janay hay kyun yaqeen baba
   Aap ab loat kar na aayain gay
   Kia Sakina ko bhool payain gay
-  
+
   6
   Sheh ne beti ke sar pe hath rakha
   Aur darwesh ro ke itna kaha

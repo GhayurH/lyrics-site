@@ -15,31 +15,31 @@ romanLyrics: |-
   Tareekh ne maana hai ke aisa nahi dekha
   Asghar teri maadar pe tera sadma hai kaisa
   Us ko kabhi saaye se guzarta nahi dekha
-  
+
   2
   Surat to dikha jao ke bechain hai maadar
   Armaan tha maa ne tere sehra nahi dekha
-  
+
   3
   Gir gir ke sambhalti rahi bazaaron may zainab
   Pehle kabhi bazaar ka rasta nahi dekha
-  
+
   4
   Yun to lade dunya may kayi baar mujahid
   Haste hue koi bache ko ladta nahi dekha
-  
+
   5
   Abbas tere baad yun roti thi sakina
   Aansu jo giray uske to tham'ta nahi dekha
-  
+
   6
   Abbas ne be-chadari zainab ki jo dekhi
   Naize pe sar e ghazi sambhalta nahi dekha
-  
+
   7
   Sab qatl huwe tanha hai ab sayyede sajjad
   Aisa sipay salaar zamane ne nahi dekha
-  
+
   8
   Shabbir tere sajde se zinda hai namazein
   Teeron pe kabhi aisa musalla nahi dekha

@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   Qaid khane may na mar jaye sakina baba
-  
+
   1
   Ab to aajao bulaati hai hazeena baba
   Koi baaghi mujhe kehta hai to koi qaidi
   Aap ke baad hai jeena koi jeena baba
-  
+
   2
   Aap to jaante hai neend nahi aayegi
   Na mil amujhko agar aap ka seena baba
-  
+
   3
   Raah takti hoo mai ammu ki na laute ab tak
   Un ko keh dijiye pani nahi peena baba
-  
+
   4
   Kaisa barbaad hua dekho bhara ghar apna
   Raas aaya na moharram ka maheena baba
-  
+
   5
   Har ghadi yaad sataati hai behan sughra ki
   Jaane kab jaaungi mai apne madina baba
-  
+
   6
   Ro ke kehti thi sakina sar e zindan yasir
   Aao ab le ke chalo mujhko madina baba

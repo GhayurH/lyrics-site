@@ -16,19 +16,19 @@ romanLyrics: |-
   Kha gaya sheh ko ye gham abbas ka
   Jab gulu e shaah pe khanjar chala
   Tadpa laasha dam ba dam abbas ka
-  
+
   2
   Kar ke qabza nehr pe dikhla diya
   Ab bhi qaayam hai bharam abbas ka
-  
+
   3
   Saf jaa takrayi dar o deewar se
   Dekh kar jaah o hasham abbas ka
-  
+
   4
   Jab sakina roti thi baad e hussain
   Zikr karte thay haram abbas ka
-  
+
   5
   Nauha gar hoon mai shahe karbobala
   Ye hai irfan pe karam abbas ka

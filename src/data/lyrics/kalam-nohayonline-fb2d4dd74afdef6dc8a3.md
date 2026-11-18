@@ -12,35 +12,35 @@ published: false
 romanLyrics: |-
   Ahle madina kehte thay ro kar
   Haye mere bemaar imam
-  
+
   1
   Kar gaye rehlat jaanib e kausar
-  
+
   2
   Qaime jalaye chadarein cheena
   Aur zar o zewar loota
   Legaye aada aap ka bistar
-  
+
   3
   Hathkadi bedi tauq pinaaya
   Ahle jafa ne baad e hussain
   Baandhe kamar mein aap ke langar
-  
+
   4
   Rote rahe chalees baras tak
   Baba ko apne roz wo shaam
   Chain ne aaya aap ko din bhar
-  
+
   5
   Roti thi jab baali sakina
   Durre lagaata tha zaalim
   Sadme sahe sab aap ne dil par
-  
+
   6
   Kaanton pa paidal aap gaye
   Az karbobala taa kufa o shaam
   Aabile paaon ke phoote hai ye keh kar
-  
+
   7
   Fatema zehra lene ko pursa
   Aati hai majlis mein us jaa

@@ -10,35 +10,35 @@ published: false
 romanLyrics: |-
   Aae Rab e jahan panjitan e paak ka sadqa
   Iss qoum ka daman gham e shabir say bhar day
-  
+
   1
   Bachoon ko aata ker Ali Asghar ka tabassum
   Burhoon ko Habib Ibn e Mazahir ki nazar day
-  
+
   2
   Kamsin ko milay walwalaye auno Muhammad
   Har eik jawan ko Ali Akbar ka jigar day
-  
+
   3
   Maoon ko sikha saniy e Zahra ka saliqa
   Behnoon ko Sakina ki duaoon ka asar day
-  
+
   4
   Maula tujhay Zainab ki asiri ki qasam hai
   Bay jurm asiroon ko rahai ki khabar day
-  
+
   5
   Jo chadar e Zainab ki azadar hain mola
   Mehfooz rahein aisi khawateen kay parday
-  
+
   6
   Jo deen kay kam aayein woh aulad aata ker
   Jo majlisay Shabir ki khatir ho woh ghar day
-  
+
   7
   Muflis pay zaro lal jawahir ki ho barish
   Maqrooz ka har qarz ada ghaib say ker day
-  
+
   8
   Gham koi na day humko siwa e gham e Shabir
   Shabir ka gham bant raha hai to idhar dey

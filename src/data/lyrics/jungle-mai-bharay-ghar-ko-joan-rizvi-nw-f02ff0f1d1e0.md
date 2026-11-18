@@ -9,58 +9,58 @@ aliases: []
 published: false
 romanLyrics: |-
   Joan Rizvi (Version)
-  
+
   Jungle main bharay ghar ko luta aye hai Zainab(sa)
   Aey shair e Madina
-  
+
   Abid(as)ko kissi tarhan bacha laye hai Zainab(sa) \
   Aey Shair e Madina
-  
+
   Bundwakay k rasan hathoon main aur khutbay suna kay
   ghar bar luta k
   dewar baray kufr ki dha aye hai Zainab(sa)
   Aey Shair e Madina
-  
+
   Jis shehr main shahzadioon ki tarhan rahe thi
   nazoon sa pali thi
   sir nungay ussi shehr main ho aye hai Zainab(sa)
   Aey Shair e Madina
-  
+
   Jo hijr pidar main rahe her waqt perashaan
   sui nahi ik aan
   is bachi ko zindan main sula aye hai Zainab(sa)
   Aey Shair e Madina
-  
+
   Dharas thi bauhat bhai ko jis bhai k dam say
   dil phat ta hai ghum say
   sahil pa akaila ussay chor aye hai Zainab
   Aey Shair e Madina
-  
+
   Chey maa kay Asghar(as) ko bhi jhoolay k bajae
   dukh dard chupaye
   aaghosh main turbat kay sula aye hai Zainab(sa)
   Aey Shair e Madina
-  
+
   thay Aun o Muhammad(as) jo mere ankhoon k taray
   mamoon k dularay
   qurban unhain bhai pay ker aye hai Zainab(sa)
   Aey Shair e Madina
-  
+
   Tha Akbar nashad jo is ghar ka ujala
   woh gaisoon wala
   marqad main akala ussay chor aye hai Zainab(sA)
   Aey Shair e Madina
-  
+
   kis waqt khuda janay qadam niklay thay ghar sa
   chadar chini sir say
   ab tak na masaib sa nikal aye hai Zainab(sa)
   Aey Shair e Madina
-  
+
   Reh jayay ga Akhtar ufaq e ghum pa tera naam
   kya khoon inaam
   noha tera sunnay k lia aye hai Zainab(sa)
   Aey Shair e Madina
-  
+
   Urdu
 # source_id: nohawriteups:f02ff0f1d1e09bd9e123
 # source_url: https://www.nohawriteups.org/jungle-mai-bharay-ghar-ko-joan-rizvi/

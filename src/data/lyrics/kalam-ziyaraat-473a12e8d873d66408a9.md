@@ -10,37 +10,37 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas Abbas Abbas, ya Abbas
-  
+
   1
   1) Beta hai tu Ali Ka Zahra ki tu dua hay
   Shabbir tera aaqa Ummul Baneen maa hay
   Haar surat-ochalan may Haider say na juda hay
   Ta hashar tuj say qayam duniya main bas wafa hay
-  
+
   2
   2) Barchi jighar pay khaaye Akbar bhi sow rahay hay
   Tapati zameen pay Qasim kay tukaray chun rahay hay
   Pakaray qamar ko apani maqtal main dekha tay hay
   Tanha main rehay gaya hun roro kay keh rahay hay
-  
+
   3
   3) Jaltay huway hai khaimay lutti huwi ridaaye
   Sehemeay huway hai baachay Zainab kisay bulaaye
   Abbas tum kahaan ho Abbas tum kahaan ho
   Roro kay dil ko thaamay dayti hai yah sadaaye
-  
+
   4
   4) Shaam-e-ghariban main jis ka kurta jalgaya hay
   Kaano sai baaliya bi haaye Shimaar legaya hay
   Is bebasi seh Mola bacchi koyi na tarsay
   Farsh-e-Aza pay rokar har dil yeh kehraha hay
-  
+
   5
   5) Ay Fatima kay pyaaray Haider kay yeh dulaaray
   Zainab kay maahaparay Hasshim kay ghaar kay taarey
   Ek baar humko aakaa Karbobala bulaawo
   Dil ki muraad sabh ki aakar tuhai sunaaye
-  
+
   6
   6) Taqdeer kay sataye teray dhaar pay saar jhukaaye
   Ashko ki ilteja hum Ghazi tujhay sunaaye

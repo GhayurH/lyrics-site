@@ -10,30 +10,30 @@ aliases: []
 published: false
 romanLyrics: |-
   Abid-e-beemar ki aankhon say khoon rukta nahi
-  
+
   1
   Jisko Zainab kay liye parda kaheen milta nahi
-  
+
   2
   1) Dekho na mera tamaasha rokay Abid nay kaha
   Saath meray aaee hay hokay voh qaidi bay rida
   Nangay sar jisko kabhi,  baba nay bhi dekha nahi
-  
+
   3
   2) Kaisee Sehmi Hay Sakina Khoon Kanon Say Rawan
   Pouchti Dikhlakay Abid, Ko Tamachon Kay Nishan
   Kab Watan Main Jayenge Kohi Yahaan Apni Nahi
-  
+
   4
   3) Zid na karna tum Sakina safar mein Zainab kay saath
   Pehloo mein so jaana beti jab bhi hojaae gi raat
   Laut kar aaey ga ab,  beti tera baba nahi
-  
+
   5
   4) سامنے عابد کے بن مئی لوٹ گیا زہرا کا گھر
   کس طرح زینب کو دیکھا شام میں وہ ننگے سر
   دیکھا ہے کائنات نے صبر کوئی ایسا نہیں
-  
+
   6
   5) رات بھی ہوجاے گی جب ہے داشت-ا-کربلا
   اسکا جھولا جل گیا پانی بھی اسکو نا ملا

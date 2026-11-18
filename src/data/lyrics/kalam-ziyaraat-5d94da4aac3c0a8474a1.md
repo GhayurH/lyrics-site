@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Hussain Zindabad
-  
+
   1
   1) Khuda ka paak ka pyaaraa hussain zindabad.
   Nabi ki ankho ka tara hussain zindabad.

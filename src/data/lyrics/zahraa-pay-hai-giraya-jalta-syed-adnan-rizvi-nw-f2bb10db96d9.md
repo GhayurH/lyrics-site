@@ -10,25 +10,25 @@ published: false
 romanLyrics: |-
   Zahraa pay hai giraya jalta howa dar kesay
   Ujraa hai pal may dekho basta howa ghar kesay
-  
+
   Maqtal may pasliyoun kay masoom chal basa hai
   Haider ko bataeiy gi Mohsin ki khabar kesay
-  
+
   Ghush kar gaya hai Maa kay qadmo say lipat kar woh
   Ab Fatima uthaey Baitay ka woh saar kesay
-  
+
   Mafluj ho gaya hai ek haath tera Bibi
   Zahraa qoonout tera howa hai qasar kesay
-  
+
   Zainab too ek qadam bhi ghar may nahi chali hai
   Bazaroun say phir uss ka hona hai guzar kesay
-  
+
   Na dhoondo Baqiya may tum qaabar Fatima ki
   Mola nay chupai hai Aaey gi nazar kesay
-  
+
   Pehlu e Shikasta say mansuub jab hai noha
   Tahrir e Salamat may Aaey na asar kesay
-  
+
   URDU
 # source_id: nohawriteups:f2bb10db96d98290e6e2
 # source_url: https://www.nohawriteups.org/zahraa-pay-hai-giraya-jalta-syed-adnan-rizvi/

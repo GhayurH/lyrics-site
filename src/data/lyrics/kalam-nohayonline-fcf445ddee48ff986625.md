@@ -12,77 +12,77 @@ published: false
 romanLyrics: |-
   Ek dukhiya ka nauha tha
   Mere kadiyal jawan akbar
-  
+
   1
   Akbar akbar akbar akbar
   Andhera hai qayamat ka
-  
+
   2
   Akbar akbar akbar akbar
   Lagaate haath mein mehendi
   Rachaate dhoom se shaadi
   Magar khoon ka bandha sehra
-  
+
   3
   Akbar akbar...
   Tasavvur jab sataata hai
   Kaleja moo ko aata hai
   Bade naazon se paala tha
-  
+
   4
   Akbar akbar...
   Faqad dunya nahi chodi
   Kamar shabbir ki todi
   Ajal se jod kar rishta
-  
+
   5
   Akbar akbar...
   Batao kya batayenge
   Ye gham kab tak chupayenge
   Tumhe poochegi jab sughra
-  
+
   6
   Akbar akbar...
   Jawani khoon mein doobi
   Kameini lut gayi meri
   Diya taqdeer ne dhoka
-  
+
   7
   Akbar akbar...
   Khayaal aata hai reh reh kar
   Meri dhaaras dil e sarwar
   Kaan laa kar tumhe khoya
-  
+
   8
   Akbar akbar...
   Zaban par bas ye naale hai
   Aseer e zulm hote hai
   Tumhe allah ko saumpa
-  
+
   9
   Akbar akbar...
   Tumhe pani na de paayi
   Balayein tak na le paayi
   Liye jaati hoo ye sadma
-  
+
   10
   Akbar akbar...
   Baraati ban ke sab jaate
   Dulhan ko le ke ghar aate
   Yehi armaan tha mera
-  
+
   11
   Akbar akbar...
   Kitaabein gham ki padhte hai
   Saf e matam pe baithe hai
   Labon par hai yehi nauha
-  
+
   12
   Akbar akbar...
   Jo maa keh kar hui ruqsat
   Raqam karta hai wo ishrat
   Rahungi tum se sharminda
-  
+
   13
   Akbar akbar...
 # source_id: nohayonline:fcf445ddee48ff986625

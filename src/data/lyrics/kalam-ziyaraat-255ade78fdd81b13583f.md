@@ -13,50 +13,50 @@ romanLyrics: |-
   Yad aata tha har waqt usay baap ka seena
   Woh kaifiat e gham thi ke dushwar tha jeena
   Ankhon may phira karti thi tasweer e Madina
-  
+
   2
   Samjha ke Sakina ko fughan karti thi Zainab
   Rodad parindon se bayan karti thi Zainab
-  
+
   3
   Ik satayi hui bachchi ko sataya na karo
   Aey parindo dar e zindan se guzra na karo
-  
+
   4
   Kia khabar tum ko ke hay kon yahan par qaidi
   In pe ashoor ko tooti hay qayamat kaisi
   In may mojood hay Shabbir ki kamsin bachchi
   Tum isay yad Madinay ke dilaya na karo
   Aey parindo dar e zindan se guzra na kari
-  
+
   5
   Jab se choota hay yateema se pidar ka seena
   Raat ko uth ke kaha karti hay baba baba
   Ab to dekha nahi jata hay tarrapna is ka
   Kon se munh se kahoon is se ke roya na karo
   Aey parindo dar e zindaan se guzra na karo
-  
+
   6
   Tum to azad fazaon ke musafir thahray
   Shaam hotay hi pohonch jao gay tum ghar apnay
   Dard kia samjho gay tum log jila watno ke
   Zakhm jo sookh chukay hain unhay taza na karo
   Aey parindo dar e zindaan se guzra na karo
-  
+
   7
   Asr e Ashoor se rehti hay ye sehmi sehmi
   Aaj tak bujh na saki tashna dahani is ki
   Kal thi shehzadi magar aaj hay ik faryadi
   Ghamzada pehlay se hay gham may izafa na karo
   Aey parindo dar e zindan se guzra na karo
-  
+
   8
   Barri mushkil se sulaya hay tassali de kar
   Janay kab ho ga mayassar isay Yasrab ka safar
   Ho ga ihsan tumhara ye dil e muztar par
   Is ko ihsas aseeri ka dilaya na karo
   Aey parindo dar e zindan se guzra na karo
-  
+
   9
   Qaid khanay may thi Nayab ye Zainab ki fughan
   Baap ki yaad may bechain Sakina hay yahan

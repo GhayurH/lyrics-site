@@ -11,32 +11,32 @@ published: false
 romanLyrics: |-
   Bibi fatema Zehra
   Islam ki azmat ka,  Hay baab sunehra
-  
+
   1
   Sadqe me tere bibi abad har ek anghan
   Saye me tere bibi shiyyat ka jahaan roshan
   Kirdaar tera bibi,  Duniya me ikehra
-  
+
   2
   Panjetan ka wasila hay imaan ki taqat hai
   Bibi ki ghulami hi ik sayaa-e-rehmat hai
   Roshan hai har ek dil ka,  Ujla huwa sehra
-  
+
   3
   Baba bhi mila aisa waris jo risalat ka
   Shohar bhi mila aisa wo fakhr-e-shujaat ka
   Beto ka hai is din se,  Rishta bharra gehra
-  
+
   4
   Shiyo ka saharaa hai shabbir ka ye matam
   Har cheez se barrhkar hai sadat ke ghar ka gham
   Darte nahi ham chahe,  Sochon pe ho pehra
-  
+
   5
   Sadme jo sahe tune wo likh hi nahi sakhte
   Bibi ke masaaib to ham keh bhi nahi sakte
   Ta hashr karenge ham,  Matam tera Zehra
-  
+
   6
   Ummat na samaj payi tazeem risalat ko
   Darbaro me layi hai tathir ki waris ko

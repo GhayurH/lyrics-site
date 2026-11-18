@@ -12,73 +12,73 @@ published: false
 romanLyrics: |-
   Karbala basa kar apna ghar luta kar
   Godh ke sabhi pale rayt mein chupa kar
-  
+
   1
   Karbala se shaam ja rahe hai hussain
   Naize pe quran suna rahe hai hussain
   Karbala se shaam ja rahe hai hussain
   Jang e karbala ko maine fatha kar liya
-  
+
   2
   Faatahe damishq hogi binte sayyeda
   Ye qadam qadam bata rahe hai hussain
   Naize pe quran suna...
   Karbala se shaam...
-  
+
   3
   Bibyon ke sar khule koi na dekh le
   Har nigaah meri samt hi jami rahe
   Sab ko maujiza dikha rahe hai hussain
   Naize pe quran suna...
-  
+
   4
   Karbala se shaam...
   Bain thay sakina ke mai ro nahi saki
   Baba kitne din huwe mai so nahi saki
   Lori beti ko suna rahe hai hussain
-  
+
   5
   Naize pe quran suna...
   Karbala se shaam...
   Be-rida haram hai chaar samt ahle shar
   Khoon ro raha hai saarban jhukaye sar
-  
+
   6
   Us ka hausla bada rahe hai hussain
   Naize pe quran suna...
   Karbala se shaam...
   Aag aur patharon ki barishein hui
-  
+
   7
   Zakhmi sar behan ka hai lahoo lahoo jabeen
   Zakhm patharon se khaa rahe hai hussain
   Naize pe quran suna...
   Karbala se shaam...
-  
+
   8
   Jab suna ye shireen ne to ro ke di sada
   Jaag utha naseeb mera ay mere khuda
   Aaj mere ghar pe aa rahe hai hussain
   Naize pe quran suna...
-  
+
   9
   Karbala se shaam...
   Bete bhanje bhatije ban mein so chuke
   Alqama pe sher jaisa bhai kho chuke
   Waada aakhri nibha rahe hai hussain
-  
+
   10
   Naize pe quran suna...
   Karbala se shaam...
   Khaafile se mutmain imam ho gaye
   Shaam pahunche khatm saare kaam ho gaye
-  
+
   11
   Nana se duayein paa rahe hai hussain
   Naize pe quran suna...
   Karbala se shaam...
   Maante hai matami bhi aur farhan bhi
-  
+
   12
   Daastan e gham safar ki mazhar abidi
   Likh raha hoo mai likha rahe hai hussain

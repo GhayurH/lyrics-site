@@ -9,11 +9,11 @@ aliases: []
 published: false
 romanLyrics: |-
   Akbar mera sehrayan wala Akbar
-  
+
   1
   Zakhm dil kay dikhaoon main kaisay
   Tera laasha uthaoon main kaisay
-  
+
   2
   1) Laashay Akbar pe Shah jab ponchay
   Dil ko haathon se thaam kar bolay
@@ -21,7 +21,7 @@ romanLyrics: |-
   Aag dil main meray lagadi hai
   Aag dil ki bujaoon main kaisay
   Tera laasha utaoon main kaisay
-  
+
   3
   2) Tu hai kariyal jawaan ay beta
   Baap tera zaeef hai kitna
@@ -29,7 +29,7 @@ romanLyrics: |-
   Mujh ko aata nahin nazar khaima
   Laikay khaimon mai jaoon mai kaisay
   Tera laasha utaoon main kaisay
-  
+
   4
   3) Jis neh athara saal pala tha
   Kaisay dekhegi woh tera laasha
@@ -37,7 +37,7 @@ romanLyrics: |-
   Kaisay jhelay gi vo tera sadma
   Teri maa ko bataoon main kaisay
   Tera laasha utaoon main kaisay
-  
+
   5
   4) Dekh aya hai qasid-e-Sughra
   Raah takti hai woh dukhi behna
@@ -45,7 +45,7 @@ romanLyrics: |-
   Wada Sughra ka kyon bhula dala
   Ghum ye dil seh lagaoon mai kaisay
   Tera laasha utaoon main kaisay
-  
+
   6
   5) Bhayi bheno ka hai ajab rishta
   Jiska saani kahin nahin milta
@@ -53,7 +53,7 @@ romanLyrics: |-
   Aik dukhiya ki laaj rakh layna
   Mar gaya tu bataoon main kaisay
   Tera laasha utaoon main kaisay
-  
+
   7
   6) Lutf jeenay mai ab kahan Akbar
   Dil seh uthti hai yeh fughan Akbar
@@ -61,12 +61,12 @@ romanLyrics: |-
   Khoon rulai gi wo azaan Akbar
   Teri suraat bhulaoon mai kaisay
   Tera laasha utawo main kaisay
-  
+
   8
   7) Zabt ghum kah woh haal hai beta dekhu kaisay yeh zakaam seenay ka
   May toh pardes mai akela hun dekh kar zakham kya karo batala
   Is peh marhum lagaoon mai kaisay,  tera laasha utawo main kaisay
-  
+
   9
   8) Aysi gurbaat peh moou nahin morro mai hun tanha mujhe na youn choro
   Kya guzarti hai baap kay dil par ghum zada dil ko youn nahi toro

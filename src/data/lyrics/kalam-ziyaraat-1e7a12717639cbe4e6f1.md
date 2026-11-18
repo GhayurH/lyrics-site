@@ -9,53 +9,53 @@ aliases: []
 published: false
 romanLyrics: |-
   Aey Muhammad Baqir, Aey Muhammad Baqir
-  
+
   1
   Kehtay thay Abid e muztar
   Ankhon se lahoo barsa kar
-  
+
   2
   Rakhna hay khayal e Sakina
   Dukh us ke gham hi sehna
   Jab soey wo ghabra kar
   Tum saaya karna sar par
-  
+
   3
   Zanjeer meri qismat hay
   Aur dhoop may bhi shiddat hay
   Jalti hui is bairri par
   Tum ashk bahana dilbar
-  
+
   4
   Tum sath phuphi ke rehna
   Jo keh dain wo sun lena
   Tum hathon ko phaila kar
   Ban jana un ki chaadar
-  
+
   5
   Jab madar e Asghar roey
   Jab tak na Sakina soey
   Tum aisay jagtay rehna
   Jis tarha chand falak par
-  
+
   6
   Jab tum ko pyas sataey
   Aur pani bhi mil jaye
   Le jana tum wo pani
   Pehlay qabr e Asghar par
-  
+
   7
   Kamsin hay abhi choota hay
   Tu Haider ka pota hay
   Tum laaj hamari rakhna
   Chaltay rehna kaanton par
-  
+
   8
   Zindan may jab ho jana
   Durron se nahi ghabrana
   Dat jana zulm ke aagay
   Khutbat hamaray sun kar
-  
+
   9
   Rehan wo kamsin bacha
   Jab qaid e sitam may pohoncha

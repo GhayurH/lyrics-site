@@ -24,45 +24,45 @@ romanLyrics: |-
   Dekha Koi Zaeefa Chali Aati Hai Idhar
   Amma Ki Khushbo Aayi Tu Uthnay Lagay Hussain
   Tazeem Jab Na Ho Saki Kehne Lagay Hussain
-  
+
   Zakhm Itnay Hain Keh Utha Nahi Jata Amma
   Mil Ke Nu Lakh Ne Itna Mujhe Mara Amma
-  
+
   1
   Iss Se Pehle Keh Meri Beti Yeh Dekhey Aa Ke
   Shimar Se Keh Do Utar Jaye Mere Seene Se
   Dekho Soti Hai Yahan Meri Sakina Amma
-  
+
   2
   Haye Pardais Mein Yeh Waqt Hai Kaisa Hum Par
   Dekho Tum Pani Pilati Thi Jisay Uth Uth Kar
   Aaj Aagosh Mein Mar Jaye Ga Pyasa Amma
-  
+
   3
   Main Ne Dekha Hai Ossay Chehray Ke Bal Girtay Hoye
   Kat Chukay Hath Mera Bhai Uthay Ga Kaisay
   De Ke Aawaz Ossay Tum Na Bolana Amma
-  
+
   4
   Gurz, Talwar-o-Tabar, Naiza-o-Bhala Mara
   Jis Ko Kuch Bhi Na Mila Oss Ne Tamacha Mara
   Mujh Pe Barsa Diya Jo Hath Mein Aaya Amma
-  
+
   5
   Oss Ne Dekha Hai Abhi Sirf Mera Zakhmi Badan
   Larkharatay Hoye Girti Hai Sanbhalti Hai Bahan
   Kaisay Dekhey Gi Bahan Bhai Ka Marna Amma
-  
+
   6
   Haye Shabeer Ne Yeh Maa Se Kaha Ro Ro Kar
   Chalne Wala Hai Meri Sokhi Ragoon Par Khanjar
   Meri Gardan Pe Abhi Hath Na Rakhna Amma
-  
+
   7
   Kitne Arman Merey Dil Mein Hi Dam Toor Gaye
   Dekho Tanha Ali Akbar Bhi Humein Chor Gaye
   Chid Gaya Barchi Se Akbar Ka Kaleja Amma
-  
+
   8
   Aakhri Waar Howa Kat Gaya Shabeer Ka Sar
   Maa Tarapti Rahi Zeeshan-o- Raza Ro Ro Kar

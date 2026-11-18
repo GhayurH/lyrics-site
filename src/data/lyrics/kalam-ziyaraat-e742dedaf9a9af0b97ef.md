@@ -10,43 +10,43 @@ published: false
 romanLyrics: |-
   Noha kuna hay Zainab e muztar Ali ke baad
   Kohram hay macha hua ghar ghar Ali ke baad
-  
+
   1
   Mehrab ghamzada hay namazi kidhar gaya
   Veeran hay Rasool ka mimbar Ali ke baad
-  
+
   2
   Bewain aur yateem rahay intezar may
   Kitnay ghareeb baithay thay dar par Ali ke baad
-  
+
   3
   Kis dil se ab Hussain parhain gay namaz e Eid
   Masjid may ja ke roeen gay Shabbar Ali ke baad
-  
+
   4
   Kulsoom apnay baba ko jee bhar ke dekh lo
   Sehri na aisi ho gi mayassar Ali ke baad
-  
+
   5
   Sab ronaqain hi ho gayeen rukhsat Ali ke sath
   Soona kuch is tarha se hua ghar Ali ke baad
-  
+
   6
   Zainab ki zindagi may na aayi koi khushi
   Bigrra kuch is tarha se muqaddar Ali ke baad
-  
+
   7
   Abbas ro rahay thay sambhalay huay alam
   Ghar may tha aik hashar ka manzar Ali ke baad
-  
+
   8
   Yaad e Ali ke ashkon ne dekha hilal e Eid
   Kia Eid kartay Aal-e-Payamabar Ali ke baad
-  
+
   9
   Nohay Ali ke parrhti theen Zainab jigar figar
   Hujray may roz sham-a jala kar Ali ke baad
-  
+
   10
   Zainab ye keh ke sooey Madina chaleen Zafar
   Ham kia karain gay Koofay may reh kar Ali ke baad

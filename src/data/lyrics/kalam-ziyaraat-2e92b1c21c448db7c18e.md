@@ -10,11 +10,11 @@ published: false
 romanLyrics: |-
   Raza da baba tu aayan aey tur wi chalyan aey
   Dasa cha Mola kadoon teek hun judaiyan nay
-  
+
   1
   Athaween eidaan guzar gaiyan intezaran wich
   O dekh rowndiyan dhiyaan diyan duhaiyan nay
-  
+
   2
   Ditha hay khaab tusan day may aaon toon pehlaan
   Mukaan nanay koon dainday may ambiya dekhay
@@ -22,7 +22,7 @@ romanLyrics: |-
   Teray mazar te ronday may bil qaza dekhay
   Sunay nay baqaya wichon vain dadi Zehra day
   Siran che paiyan ne khaakan Batool jaiyan ne
-  
+
   3
   Ghareeb dhiyan ne ro ro ke piyo toon puchya aey
   Hathan koon baba tu chadar ch kyun lukaya aey
@@ -30,7 +30,7 @@ romanLyrics: |-
   Khuda toon baad saday sir te kainda saaya aey
   Tu chauda saal pichon aayan aj wi qaidi ain
   Dasa cha baba aey zanjeeran kain pawaiyan nain
-  
+
   4
   May kiya dasawan taqaza aey ain fitrat da
   Aey piyo te dhiyan da rishta ajeeb honda hay
@@ -38,7 +38,7 @@ romanLyrics: |-
   Dhiyan da jag te anokha naseeb honda hay
   Samajh gayan ke mulaqaat aj akheeri hay
   Siran te johokhan yateemi ne aa basaiyan nay
-  
+
   5
   Toon baad muddatan de aaya aey chorr chalya aey
   Dasa ke javain kairray dais hun tayyari aey
@@ -46,7 +46,7 @@ romanLyrics: |-
   Barri baichain asaan zindagi guzari aey
   Koyi te haal dasa kyun khamosh hain Maula
   Kerray diton ni ajan honiyan rehaiyan nay
-  
+
   6
   Milay rehai ukoon sadqa Moosa Kazim da
   Koi wi qaid azadar jo tera howay

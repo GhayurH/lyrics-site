@@ -11,37 +11,37 @@ aliases: []
 published: false
 romanLyrics: |-
   Ye alam abbas ka hai ye alam abbas ka
-  
+
   1
   Ye alam ahle wafa ki aabru hai jaan hai
   Ye alam mazloomi e shabbir ki pehchaan hai
   Ye alam abbas hai islam hai quran hai
-  
+
   2
   Is alam ke saaye ne islam ko di hai amaan
   Ye alam kehta rahega tashnagi ki daastan
   Ye alam hai hazrate abbas e ghazi ka nashan
-  
+
   3
   Ye alam deta hai dhaaras lashkare islam ko
   Ye alam zinda rakhega karbala ke naam ko
   Ye alam dega sukoon in gardishe ayyaam ko
-  
+
   4
   Ye alam aale nabi ke pyaas ki tasveer hai
   Ye alam par bekasi ki daastan tehreer hai
   Ye alam armaan e qalb e zainab e dilgeer hai
-  
+
   5
   Ye alam ek bekas o mazloom ki awaaz hai
   Ye alam mein deen e haq ki azmaton ka raaz hai
   Ye alam ek bawafa jarraar ka ejaaz hai
-  
+
   6
   Ahle emaaan ahle irfan ki zaroorat hai alam
   Har jari har mard e maidan ki zaroorat hai alam
   Ye alam to shaahe zeeshan ki zaroorat hai alam
-  
+
   7
   Ay zaheer e ghamnawa nauha likho abbas ka
   Ek sakina ke liye aur shaahe deen ki pyaas ka

@@ -11,14 +11,14 @@ aliases: []
 published: false
 romanLyrics: |-
   Laash akbar ki jo maqtal se utha laaye hussain
-  
+
   1
   Naujawan ko safe awwal se utha laaye hussain
   Chand ko shaam ke baadal se utha laaye hussain
   Jaan balab sher ko jangal se utha laaye hussain
   Di sada laashe pisar aan ke leja bano
   Chid gaya barchi se akbar ka kaleja bano
-  
+
   2
   Dekhle aakhri deedar pisar marta hai
   Saamne ankhon ke ye noor e nazar marta hai
@@ -26,7 +26,7 @@ romanLyrics: |-
   Moo se bahar hai zaban tashna jigar marta hai
   Dam hai seene may ruka zaqmon se khoon jaari hai
   Haye bano tera ghar lutne ki tayyari hai
-  
+
   3
   Pahunchi qaime may jo hazrat ke ye pur dard sada
   Muztarib hogayi namoose rasoole do sara
@@ -34,7 +34,7 @@ romanLyrics: |-
   Fizza daudi suye dar phaynk ke sar par se rida
   Peet'ti zainab e muztar nikal aayi baahar
   Bano ghabrake khule sar nikal aayi baahar
-  
+
   4
   Shaah ke kaandhe pe dekha ali akbar ko nidhaal
   Haath phayla ke ye chillayi ke hai hai mere laal
@@ -42,7 +42,7 @@ romanLyrics: |-
   Raas aaya na mere bache ko atharwan saal
   Tukde tayghon se badan hogaya saara hae hae
   Kaun tha jisne mere sher ko mara hae hae
-  
+
   5
   Roke bano se ye farmane lage sarwar e deen
   Sar na peeto abhi zindan hai mera maah jabeen

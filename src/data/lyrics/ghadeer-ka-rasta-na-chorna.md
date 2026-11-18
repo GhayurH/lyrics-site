@@ -22,7 +22,7 @@ published: false
 romanLyrics: |-
   Ali Ali Ali Haider Haider
   Man Kunto Maula Fa Haza Ali Maula
-  
+
   1
   Molaiyo Ghadeer Ka Rasta Na Chorna
   Sab Chor Dena Zikar Ali Ka Na Chorna
@@ -30,7 +30,7 @@ romanLyrics: |-
   Meesum Tum Iss Darakht Ko Pyasa Na Chorna
   Bugz-e-Ali Ki Aag Se Jaltay Hain Jin Ke Dil
   Zikar-e-Ali Se Unn Ko Jalana Na Chorna
-  
+
   2
   Hum Ko Yeh Maein Deti Hain Jholay Mein Loriyaan
   Matam Namaz Our Tabara Na Chorna
@@ -38,7 +38,7 @@ romanLyrics: |-
   Qatil Hussain Ka Koi Zindah Na Chorna
   Shia Ho Tum Ali Ke Tu Sajjad Ki Tarha
   Matam Ke Sath Sath Musalla Na Chorna
-  
+
   3
   Gar Chahtey Ho Tum Keh Namazein Qabool Hoon
   Darwaza-e-Batool Pe Sajdah Na Chorna
@@ -46,7 +46,7 @@ romanLyrics: |-
   Jibreel Tum Hussain Ka Jhola Na Chorna
   Gar Chahtey Ho Razi Hoon Hasnain-o-Fatima
   Haider Ke Dushmano Pe Tabara Na Chorna
-  
+
   4
   Har Momina Behan Se Hai Yeh Iltija Meri
   Zainab Ki Gar Kaneez Ho Pardah Na Chorna
@@ -54,7 +54,7 @@ romanLyrics: |-
   Jab Tak Hai Sans Khon Ka Pursa Na Chorna
   Akbar Kaha Batool Ne Bahir Bahisht Se
   Koi Ali Ka Chahney Wala Na Chorna
-  
+
 ---
 علی علی علی حیدر حیدر
 من کن تو مولا فا ہازہ علی مولا

@@ -9,7 +9,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas ka matam hay wafadar ka matam
-  
+
   1
   Hay foaj e Hussaini ke alamdar ka matam
   Saqa e haram Syed o salar ka matam
@@ -43,29 +43,29 @@ romanLyrics: |-
   Majlis may jalooson may azakhno ke andar
   Bhai ki itaet se kabhi sar na uthaya
   Us ashiq e Shabbir dilafgar ka matam
-  
+
   2
   Pani na piya nehr pe shanay bhi kataye
   Har rukh pe hua Jafer e Tayyar ka matam
   Seenay pe sina kha ke hua Akbar e mehro
   Karna na mila Bano ko dildar ka matam
-  
+
   3
   Jab lasha e Hur aaye to Zainab ye pukari
   Lo aa ke karo Sheh ke tarafdar ka matam
-  
+
   4
   Aaye the madinay se rahay Karb e bala may
   Shabbir gharibul watan be yar ka matam
-  
+
   5
   Wada kia ik sar ka bahattar diye fidye
   Sardar e jinaa sadiq o dildar ka matam
-  
+
   6
   Khaima jala zewar luta dar dar phiri mari
   Qatra na mila bano ke dildar ka matam
-  
+
   7
   Bazo pe rasan bal khulay Shaam ka darbar
   Zainab ne kiya ahista raqam dar ka matam

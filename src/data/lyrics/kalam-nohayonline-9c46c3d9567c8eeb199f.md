@@ -17,55 +17,55 @@ romanLyrics: |-
   Paikare sabr o riza roohe risalat ma'ab
   Faatahe karbobala lakhte dil e bu-turaab
   Ambiya ki zindagi fatema ke jaan o tan
-  
+
   2
   Kis jagah taqdeer ka laaya safeena mujhe
   Dekh mila hai yahan gham ka dafeena mujhe
   Kaash ke kar le qubool jadh ka madina mujhe
   Jaati hoon saughaat mein leke nishane rasan
-  
+
   3
   Teri qasam ay hussain qabr pe aati zaroor
   Aake lehed par teri shamma jalati zaroor
   Chadar e ashke aza roke chadhati zaroor
   Kya kare zindan mein qaid thi teri behen
-  
+
   4
   Peshe nazar har ghadi ghurbate ahle haram
   Qasime muztar ki yaad aun o mohamed ka gham
   Baad tere ay hussan mujhpe thi har har qadam
   Dard o alam ki ghata baarishe ranj o mehen
-  
+
   5
   Gham ki har ek daastan jaake sunaungi mai
   Neel jo shaano pe hai wo bhi dikhaungi mai
   Roke mazaar e nabi par ye bataungi mai
   Loota gaya kis tarha nana tumhara chaman
-  
+
   6
   Dil ke nageenein sar e dashte bala kho gaye
   Ran mein dileron ko aayi qaza so gaye
   Bhai bhatije pisar mujhse juda ho gaye
   Sone na degi mujhe ab mere dil ki chubhan
-  
+
   7
   Gham mein tere raat din roye na kyun dil malool
   Khusboo e deene khuda baaghe imamat ke phool
   Haye re ghurbat teri raakib e doshe rasool
   Na hui turbat naseeb laash rahi bekafan
-  
+
   8
   Gham ki meri daastan haal safar ka suno
   Roohe payambar utho mere baradar utho
   Uth ke zara qabr se daade shuja'at to do
   Jeet ke kufa o shaam aayi hai dukhiya behen
-  
+
   9
   Raas na aaya tujhe ye safar e karbala
   Maa ki lehed bhi chuti nana ka rauza chuta
   Zindagi bhar ke liye door madina hua
   Koi nahi deher mein tujhsa ghareebul watan
-  
+
   10
   Kya teri fikre rasa kya tera nauha bilal
   Khatra e na-cheez tu aur wo darya bilal

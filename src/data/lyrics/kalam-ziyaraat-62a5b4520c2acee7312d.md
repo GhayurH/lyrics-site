@@ -10,37 +10,37 @@ published: false
 romanLyrics: |-
   Bohot sukoon sai khuda ki taraf chala hai hussain
   Pata chaley na yeh maan ko tarap raha hai hussain
-  
+
   1
   Jo mera farz tha amma ada kia main nay
   Zameen main lasha-e-Asghar chupa dia main nay
   Jawan baitay ka lasha utha liya main nay
   Main ab bhi pyasa hoon pani nahi piya main nay
-  
+
   2
   Ghamon sai bhai kay tooti hui hay meri qamar
   Jigar sai Akbar-e-mehru kay kat raha hai jigar
   Khuda ka shukr ada kar raha hoon lashon par
   Na royen aap bohot mutmain hoon main madar
-  
+
   3
   Meri hi goad mai bachcha hua mera beda
   Jigar sai apnay jawan kay nikali mai nay sina
   Galay pey kund jo khunjar yeh ho raha hay rawan
   Bas aakhri yeh mera imtehaan hai amma
-  
+
   4
   Zameen aa na saki raas koi baat nahin
   Nahi madad koi pass koi baat nahin
   Hui na khatm meri pyaas koi baat nahin
   Khuda ko de diya Abbas koi baat nahin
-  
+
   5
   Nikal ke kabr se nana meri taraf hain rawan
   Yeh dekho amma ke baba bhi aa gaye hain yahan
   Hai muntazir mera is dam Khuda-e-kaun-o-makan
   Sabhi yeh kehte hain Shabbir hai mera mehmaan
-  
+
   6
   Qamar yeh kehte huay mutmain huay maula
   Nikal ke aayega ghaibat se jab pisar mera

@@ -12,45 +12,45 @@ published: false
 romanLyrics: |-
   Din raat sakina bibi par
   Zindan ka andhera rota hai
-  
+
   1
   Faryad yateema ki sun kar
-  
+
   2
   Hai qaid mein dukhiya khaak nasheen
   Ammu bhi nahi baba bhi nahi
   Shehzadi ki is ghurbat par
-  
+
   3
   Jo naah uthane waale thay
   Ab karbobala mein maare gaye
   Karti hai fughan wo shaam o sahar
-  
+
   4
   Kaano se lahoo behta hi raha
   Thi us pe tamachon ki eeza
   Hai tashnalabi se zakhmi jigar
-  
+
   5
   Kamsin khwahar hai nauha kuna
   Gardan mein pada hai tauq e garan
   Sajjad ki ghurbat par aksar
-  
+
   6
   Abbas ki aankhon ka taara
   Aayi thi jo ban kar sheh ki dua
   Wo karti rahi kaanton pa safar
-  
+
   7
   Yaad aata hai seena e shaah e zaman
   Aankhon mein bhala ab neend kahan
   Ghash khaati hai bekas muztar
-  
+
   8
   Ro ro ke wo sab se kehti thi
   Ghabraata hai dil lagta hai yehi
   Jaaungi na wapas apne ghar
-  
+
   9
   Us shehzadi ki khidmat mein
   Ashkon ke diye hum pesh kare

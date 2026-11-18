@@ -12,32 +12,32 @@ romanLyrics: |-
   Maa ka naala laash tak aata hai akbar ghar may aao
   Dekh koi yun bhi rulwata hai akbar ghar may aao
   Haaye akbar ghar may aao
-  
+
   2
   Aakhri dedaar mumkin ho to dikhlado mujhe
   Laash uthane ran may baap aata hai akbar ghar may aao
   Haaye akbar ghar may aao
-  
+
   3
   Tukde tukde hogaya nazuk kaleja waqte jab
   Is tarha barchi koi khata hai akbar ghar may aao
   Haaye akbar ghar may aao
-  
+
   4
   Sadqe jaungi wafa ehde jawani ne na kuch
   Itne jaldi koi mar jaata hai akbar ghar may aao
   Haaye akbar ghar may aao
-  
+
   5
   Tum yahan maqtal may ho aur maa hai deowri par tapa
   Meri jaan ulfat may farq aata hai a akbar ghar may aao
   Haaye akbar ghar may aao
-  
+
   6
   Tumse milna kya tumhari maa ke kismat may nahi
   Dil mera kaahe ko ghabrata hai akbar ghar may aao
   Haaye akbar ghar may aao
-  
+
   7
   Qaime ke dar par tumhare waaste roti hai maa
   Aise koi maa ko rulwata hai akbar ghar may aao

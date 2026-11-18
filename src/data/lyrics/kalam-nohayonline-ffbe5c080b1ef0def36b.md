@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Mazloom hussaina maghmoom hussaina
-  
+
   1
   Lachaar hussaina beyaar hussaina
   Ay bekason ke khaafila salaar hussaina
@@ -25,72 +25,72 @@ romanLyrics: |-
   Maghmoom hussaina maghmoom hussaina
   Hai aale nabi be-sar o samaan hussaina
   Ghar fatema ka hogaya veeran hussaina
-  
+
   2
   Zainab ki hai faryad nahi koi madadgaar
   Sajjad hai bemaar
   Dhaate hai sitam hum pe musalman hussaina
-  
+
   3
   Ghar fatema ka hogaya...
   Kaisi ye khiza aayi ke hum hogaye barbaad
   Zainab ki hai faryad
   Ujda hai payambar ka gulistan hussaina
-  
+
   4
   Ghar fatema ka hogaya...
   Ashoor ke din lut gayi zehra ki kameini
   Ya rab hai duhaai
   Islam pe ghar hogaya qurban hussaina
-  
+
   5
   Ghar fatema ka hogaya...
   Zianab pe hai tanhaai wo ab kisko bachaye
   Kya hogaya haye
   Hai ahle haram ran mein pareshan hussaina
-  
+
   6
   Ghar fatema ka hogaya...
   Afsos jawan laal ko dulha na banaya
   Sehra na sajaya
   Poora na hua maa ka ye armaan hussaina
-  
+
   7
   Ghar fatema ka hogaya...
   Aulaad e nabi lut gayi barbaad hua ghar
   Zainab hai khule sar
   Ay tashna dahan kaari e quran hussaina
-  
+
   8
   Ghar fatema ka hogaya...
   Ghar kar diya qurban magar deen bachaya
   Har ranj uthaya
   Hai deen e khuda par tera ehsaan hussaina
-  
+
   9
   Ghar fatema ka hogaya...
   Sarkar e jina dosh e nabi ka wo makeen hai
   Nabiyon ka yakeen hai
   Ummat ne bhulayi hai teri shaan hussaina
-  
+
   10
   Ghar fatema ka hogaya...
   Sar tan se juda hogaya aur baad e shahadat
   Hai teri ye azmat
   Padta raha naize pe tu quran hussaina
-  
+
   11
   Ghar fatema ka hogaya...
   Zainab ko abhi shaam ke bazaar hai jaana
   Aur ashk bahaana
   Manzil hai meri shaam ka zindan hussaina
-  
+
   12
   Ghar fatema ka hogaya...
   Yazdan ke labon par hai muhib ab yehi nauha
   Maghmoom hai zehra
   Hai bain ye dukhiya ka meri jaan hussaina
-  
+
   13
   Ghar fatema ka hogaya...
 # source_id: nohayonline:ffbe5c080b1ef0def36b

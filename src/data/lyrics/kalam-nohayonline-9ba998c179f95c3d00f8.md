@@ -14,42 +14,42 @@ romanLyrics: |-
   Suno saqqa e haram tumhe bachon ki qasam
   Toot jaye na bharam aao lehrake alam
   Abbas chale aao abbas chale aao
-  
+
   1
   Tum se to sakina ko badi aas hai ghazi
   Tum aao to manzoor hamein pyaas hai ghazi
   Tu to dil e shabbir ka ehsaas hai ghazi
   Zara sunlo ye sada aake tum behre khuda
   Mera dum ghutne laga ab to ghar laut ke aa
-  
+
   2
   Tum baazu e shabbir ho lashkar ke alamdar
   Tum saani e hyder ho dil e jafar e tayyar
   Tum sote ho haibat mein pada abid e beemar
   Aag qaimon mein lagi sar se chadar bhi chini
   Hai bahot tashna labi ay jari ibne jari
-  
+
   3
   Lo shimr ne maara wo sakina ko tamacha
   Kaano se lahoo behta hai jalne laga kurta
   Masooma ko deta nahi koi bhi dilaasa
   Kya gawara hai tumhe ay alamdare wafa
   Haath zainab ke bandhe aur sakina ka gala
-  
+
   4
   Pardes mein ujde na koi aise gharana
   Jis tarha se ujda mera ghar ay mere bhaiya
   Roti hui marqad se chali aayi hai zehra
   Labe darya pe sada ashk aankhon se rawan
   Dil se uth'ta hai dhuan dhoonde hum tum ko kahan
-  
+
   5
   Parcham jo tera khoon mein bhara aaya hai bhaiya
   Kis ne ye mere dil pe sitam dhaaya hai bhaiya
   Pardes mein taqdeer ne rulwaya hai bhaiya
   Kab se majboor hoo mai nehr se door hoo mai
   Izn milta jo mujhe lene khud aati tujhe
-  
+
   6
   Mesum sare majlis ye teri girya o zaari
   Rehaan ke lafzon pe bhi rikhat hui taari

@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   Sha ast hussain baadshah ast hussain
-  
+
   1
   Deen ast hussain deen panah ast hussain
   Sar daad na daad dast dar daste yazeed
   Haqqa ke binaye la ilaah ast hussain
-  
+
   2
   Soyi hui dunya ko jagane waala
   Jaage hue fitne ko sulaane waala
   Aalam ko siraate haq pe laane waala
   Raah hast hussain khizrega ast hussain
-  
+
   3
   Khanjar hai kamar may na sina haath may hai
   Har gaam tahummal ki ye na haath may hai
   Bhooka pyasa hai aur jina haath may hai
   Dar manzile sabr sar bara ast hussain
-  
+
   4
   Tooti hui bhai ke alam se hai kamar
   Farzande jawan ke gham may hai dukhpe basar
   Chehre pe mala hua hai khoone asghar
   Ay ahle nigaah daad kwah ast hussain
-  
+
   5
   Ran may tehre to bibiyan ho betaab
   Ghar may jaye to maange asghar ko rabab
   Maa kokh jali ko haye kya denge jawab
   Muztar ba khayaale khaimagah ast hussain
-  
+
   6
   Ahmed ke nawase ne bachayi tauheed
   Khud hogaya kalme ki himayat may shaheed

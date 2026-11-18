@@ -10,10 +10,10 @@ aliases: []
 published: false
 romanLyrics: |-
   Loko may ujar gayi aan
-  
+
   1
   Mera maariya veer Hussain
-  
+
   2
   Zainab paye kardi hai vain
   Lokon may ujar gaye aan
@@ -22,21 +22,21 @@ romanLyrics: |-
   Keevain kafan puwawan chan veeran
   Meri chadar vi na ray ay
   Khulay vaal tai kardi vain
-  
+
   3
   2) Tu saang uthay main mehmaal tay
   Haey Shaam diyaan nay raavan
   Main bhul gayan Awn-o-Mohammad nu
   Ghazi diyan katiyan bavan
   Haey kon sunay meray vain
-  
+
   4
   3) Tatheer di waris sir nangai
   Jadon wich bazar dai gayi hai
   Har pasaiyon khalqat saari nai
   Ditay tohfe hasbuna de
   Mainu ujri Zainab kain
-  
+
   5
   4) Munh ker kai dariya val Zainab
   Akhay veer Abbas hun aja

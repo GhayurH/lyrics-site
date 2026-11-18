@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   Pyara hamay hai jaan se maula ka zuljanah
-  
+
   1
   Kehte hai sab ye shaan se maula ka zuljanah
   Taqte hawa hoo mai to suleiman mera sawaar
   Hai zeen meri rehl to quran mera sawaar
   Kehta ye kul jahan se maula ka zuljanah
-  
+
   2
   Kuchle kahin badan kahin pamaal sar kiye
   Aada ko raundh raundh ke sum khoon may tar kiye
   Baitha na itmenaan se maula ka zuljanah
-  
+
   3
   Aaya hai seena taan ke teeron ke saamne
   Takraya tan han dasht may maula ke waaste
   Har zulm ke chataan se maula ka zuljanah
-  
+
   4
   Be-misl gar thi taygh to la-saani rahwaar
   Jaise ke ran may chalti thi maula ki zulfeqar
   Chalta tha aisi shaan se maula ka zuljanah
-  
+
   5
   Zaalim koi bhi saamne na us ke tik saka
   Rehta tha saath saath wo mazloom ke sada
   Guzra har imtehan se maula ka zuljanah
-  
+
   6
   Poocha jo mehlekha ne mere baba hai kahan
   Sar ta jhuka thay aankh se aansu rawan dawan
   Kehta bhi kya zaban se maula ka zuljanah
-  
+
   7
   Teeron se zakhm khaata raha aspe bawafa
   Lekin wo sheh ko chod ke aage nahi bada
   Teeron ke darmiyan se maula ka zuljanah
-  
+
   8
   Farshe zameen pe zeen se ran may wo jab giray
   Lag jaye koi teer na maula hussain ke
   Ye dekhta tha dyaan se maula ka zuljanah
-  
+
   9
   Aamir sawaar doshe nabi ka hai raahwaar
   Raf raf ki tarha kyun na shanawar ho ba-waqar

@@ -26,7 +26,7 @@ romanLyrics: |-
   Daman Phailaye Betha Hoon Kab Se
   Nahi Lauton Ga Jab Tak Meri Mushkil Na Ho Aasan
   Allah Muhammad Ali Fatima Hasan Husain
-  
+
   1
   Aap Ke Asghar Ke Jholay Se Lipta Hoon
   Be Oladon Ke Haq Mein Yeh Kehta Hoon
@@ -35,10 +35,10 @@ romanLyrics: |-
   Pori Yeh Dua Ho
   Aoulad Atta Ho
   Be Oladon Ko Aap Ke Sadqay Mil Jaye Santan
-  
+
   Yaad Aati Hai Jab Karbala Dil Rota Hai Mera
   Mujhe Dekhna Hai Har Baras Abbas Ka Roza
-  
+
   2
   Janta Hoon Muflis Hoon Ghar Mein Ghurbat Hai
   Karb-o-Bala Jane Ki Phir Bhi Hasrat Hai
@@ -47,7 +47,7 @@ romanLyrics: |-
   Meri Aas Ko Bhaijein
   Abbas Ko Bhejein
   Saqa-e-Sakina Ki Ghurbat Par Hona Hai Qurban
-  
+
   3
   Dekhta Hoon Apne Bachoon Ka Jab Chehra
   Hota Hai Ahsas Ghar Na Hone Ka
@@ -56,7 +56,7 @@ romanLyrics: |-
   Jahan Alam Sajaon
   Majlis Karwaon
   Meri Hasrat Hai Ke Aap Banein Ik Din Mere Mehman
-  
+
   4
   Jald Shifa Mil Jaye Sab Beemaron Ko
   Maon Se Milwa Dein Unn Ke Pyaron Ko
@@ -65,7 +65,7 @@ romanLyrics: |-
   Gham Sheh Ke Siwaye
   Gham Koi Na Aaye
   Karta Hoon Dua Mehfooz Rahe Har Molai Ki Jan
-  
+
   5
   Maula Hussain Ko Akbar Ka Pursa De Kar
   Hum Ne Shab-e-Juma Yeh Dua Mangi Ro Kar
@@ -74,7 +74,7 @@ romanLyrics: |-
   Mushkil Na Hoon Rastay
   Barzakh Ke Safar Se
   Mere Marhomeen Ki Mehshar Tak Har Manzil Ho Aasan
-  
+
   6
   Maula Ne Tu Pyar Sikhaya Hai Hum Ko
   Apna Chahney Wala Banaya Hai Hum Ko
@@ -83,7 +83,7 @@ romanLyrics: |-
   Parcham Lehrao
   Dunya Ko Batao
   Yeh Wird Hamesha Sath Karein Gay Hind Our Pakistan
-  
+
   7
   Ghaibat Mein Hain Maula Kitne Saloon Se
   Waqif Hain Phir Bhi Woh Hamarey Haloon Se
@@ -92,7 +92,7 @@ romanLyrics: |-
   Woh Khud Aa Jaein
   Ya Humein Bulaein
   Woh Samne Baith Ke Bolein Sunao Phir Se Raza, Zeeshan
-  
+
 ---
 درود شریف
 کردو کرم رکھلو بھرم

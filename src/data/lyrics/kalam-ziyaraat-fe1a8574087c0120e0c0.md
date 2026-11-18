@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya Hussain Ya Hussain Ya Hussain
-  
+
   1
   Ya Hussain kushta e tegh e jafa
   Ya Hussain sibt e Rasool e Khuda
@@ -18,7 +18,7 @@ romanLyrics: |-
   Dar badar le gaye baani e jafa
   Be dafan laasha e besar hay ghareeb e Zehra
   Hay badan ghoron se pamal tera wa waila
-  
+
   2
   Nainawa dasht e bala Karbala
   Kyun hui joar o jafa Karbala
@@ -26,7 +26,7 @@ romanLyrics: |-
   Kuch to keh kuch to bata Karbala
   Apnay mehman pe ye bandish e pani kyunkar
   Jis ki madar ko mehr may mila hoaz e Kausar
-  
+
   3
   Aik maqtal may bahattar lashay
   Bhanjay betay bhateejay pyasay
@@ -34,7 +34,7 @@ romanLyrics: |-
   Aik Quran ke paray jaisay
   Khaak urr urr shaheedon ka kafan banti thi
   Khuld se Fatima Zehra ka sada aati thi
-  
+
   4
   Ik taraf behta tha darya e Furaat
   Ik taraf pyason pe mushkil thi hayaat
@@ -42,7 +42,7 @@ romanLyrics: |-
   Kaise guzri tan e sad pash ke sath
   Koi bhai ko koi roti thi beton ke liye
   Be kasi wo thi ke anson na thay ankhon ke liye
-  
+
   5
   Tashna lab be watan o be khata
   Sar tha sajday may tehe taigh gala
@@ -50,7 +50,7 @@ romanLyrics: |-
   Noha karti theen janab e Zehra
   Khaime ke dar pe bahan karti thi faryad o fughan
   Jaise sehra may kisi shakhs ki aawaz e azaan
-  
+
   6
   Mar gaya sher e alamdar e jari
   Chal gayi Qasim e mehroo pe churi
@@ -58,7 +58,7 @@ romanLyrics: |-
   Kha ke seenay pe sitam ki barchi
   Ghar ka ghar Zainab e mazloom ka barbad hua
   Lut gaya shehr e Nabi Karbala aabad hua
-  
+
   7
   Kat gaye bazoo e saqqa e haram
   Chid gayi mashk hua thanda alam
@@ -72,7 +72,7 @@ romanLyrics: |-
   Ho har ik lab pe Hussaini noha
   Hashr may sheh ke azadaron se pursa loon gi
   May azadaron ko jannat ki basharat doon gi
-  
+
   8
   Kar ke Rehan may likhon Noha
   Gham se seena hay mera Karb o bala

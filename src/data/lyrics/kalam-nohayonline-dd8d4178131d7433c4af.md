@@ -11,29 +11,29 @@ aliases: []
 published: false
 romanLyrics: |-
   Shakle ali ghazi mera qayam rahe iski wafa
-  
+
   1
   Abbas alam tera jo log uthayenge
   Zahra ki duaaon ke saaye mein wo aayenge
   Tehreer hai darya par ghazi ki wafadari
   Shabbir tere munkir kya usko mitayenge
-  
+
   2
   Hai tujhse yehi waada shabbir ki majlis mein
   Abbas tere gham mein hum khoon bahayenge
-  
+
   3
   Baazu jo qalam ho kar darya pe giray tere
   Hum hashr talak inka ab sog manayenge
-  
+
   4
   Zainab ki tamanna hai khwahish hai sakina ki
   Har ghar pe alam tera hum log sajayenge
-  
+
   5
   Khush hoga mera ghazi sarwar bhi dua denge
   Pani pe sakina ki hum nazr dilayenge
-  
+
   6
   Rehaan bapa hogi majlis jo qayamat mein
   Nauha ye hasan sadiq jannat mein sunayenge

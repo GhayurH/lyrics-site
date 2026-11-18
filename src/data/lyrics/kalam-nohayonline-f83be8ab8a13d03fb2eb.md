@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas ka parcham hai alamdar ka parcham
-  
+
   1
   Uncha hai mere sayyed o sardar ka parcham
   Parcham mere murshid ka jo ghar ghar pe laga hai
   Ye saare azadaron pe zehra ki ataa hai
   Is parchame abbas ko zainab ki dua hai
   Kaun isko jhukayega bhala kis mein hai ye dum
-  
+
   2
   Ghazi ka sakina se wafa ka hai ye aalam
   Parcham se juda mashk hai na mashk se parcham
   Jaise kisi baazu pe ho taweez muqaddam
   Ye bali sakina ki dua saath hai har dum
-  
+
   3
   Matam na ruka tha na ruka hai na rukega
   Parcham na jhuka tha na jhuka hai na jhukega
   Har lehza julooson ki qayadat ye karega
   Ho koi faza koi waba koi bhi mausam
-  
+
   4
   Parcham ye mareezon ko shifa baant raha hai
   Dunya ko mohabbat ki fiza baant raha hai
   Aulaad makan rizq o wafa baant raha hai
   Kya fikr ho dunya ki hamay kya ho bhala gham
-  
+
   5
   Ye baat hai bachpan ki mujhe yaad abhi bhi
   Har aat moharram ko jo baba se kahi thi
   Ye parcham e abbas uthana hai mujhe bhi
   Kuch saath mera di jiye hai umr meri kam
-  
+
   6
   Manzar ye julooson mein nazar aata hai hum ko
   Tasleem kiya sab ne isi jood o karam ko
   Sar jhukta nahi uska uthaye jo alam ko
   Ye naara lagate hai kabhi aap kabhi hum
-  
+
   7
   Haan mazhar o farhan nazar aayega ek din
   Maula ka alam kaabe pe lehrayega ek din

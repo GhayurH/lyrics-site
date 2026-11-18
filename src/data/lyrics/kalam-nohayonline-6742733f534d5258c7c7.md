@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Ya fatema zahra
-  
+
   1
   Ya zahra
   Maadar do jahan fatema jaan dil bado basti
@@ -23,31 +23,31 @@ romanLyrics: |-
   Khatoon e jina waaris e tatheer sarapa
   Ashraaf e nisa aks e nabi aks e khudaija
   Meezan e wafa rooh e dua fatema zahra
-  
+
   2
   Uftaad dar e khaana toda pehlu shakista
   Ummat ne tera haq na diya fatema zahra
   Mohsin ki shahadat ka sabab ban gayi dunya
   Wirsa hai tera ashk e aza fatema zahra
-  
+
   3
   Ay ashk fishan baad e nabi binte payambar
   Tha sog mein baba ke azakhana tera ghar
   Rote they tere saath ali sarwar o shabbar
   Ay khasta jigar mehwe buka fatema zahra
-  
+
   4
   Dar karbobala tishna labi tere pisar ki
   Taraaji hui kis tarha zahra tere ghar ki
   Be-gor o kafan laash rahi noor e nazar ki
   Aalam ba khuda sog mein tha fatema zahra
-  
+
   5
   Bacchon pe tere fauje sitamgaar ki yalghaar
   Zanjeer bakaf tauq e garan abid e bemaar
   Darbare alam qaide sitam dukhtare ghamkhwar
   Aada ke sitam kunba tera fatema zahra
-  
+
   6
   Ay sarwar o rehaan sar e majlis e shabbir
   Jab fatema hoti hai dilafgaar o gulu geer
