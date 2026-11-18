@@ -5,7 +5,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
-tags: []
+tags: ["noRoman"]
 aliases: []
 published: false
 # source_id: ziyaraat:9e0c3924f8bba54cb0ec

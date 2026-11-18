@@ -6,6 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hilal Naqvi"
+reciter: "Nadeem Sarwar"
 tags: []
 aliases: []
 published: false
