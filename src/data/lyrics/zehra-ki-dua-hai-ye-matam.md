@@ -1,10 +1,11 @@
 ---
 title: "زہرا کی دعا ہے یہ ماتم، یہ ماتم کیسے رک جائے"
-alternateTitle: "Zehra Ki Dua Hai Ye Matam"
+alternateTitle: "Zehra Ki Dua Hai Ye Matam, Ye Matam Kaise Ruk Jaye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Ali Jawed Maqsood"
 tags: []
 aliases:
   - "Zehra Ki Dua Hai Ye Matam"
