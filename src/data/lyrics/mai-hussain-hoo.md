@@ -5,7 +5,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "N. Sarwar & Rehaan Azmi"
+poet: "Nadeem Sarwar & Rehan Azmi"
+reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
