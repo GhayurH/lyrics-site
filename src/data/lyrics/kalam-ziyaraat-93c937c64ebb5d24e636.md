@@ -1,5 +1,5 @@
 ---
-title: "بی بی ہتھ کڈ کفن وچوں آکھے کربلا دا غریب"
+title: "بی‌بی ہتھ کڈ کفن وچوں آکھے کربلا دا غریب"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"

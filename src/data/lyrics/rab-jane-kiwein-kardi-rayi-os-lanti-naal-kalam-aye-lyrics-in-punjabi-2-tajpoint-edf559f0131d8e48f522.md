@@ -14,7 +14,7 @@ published: false
 ---
 
 Rab Jane Kiwein Kardi Rayi Os Lanti Naal Kalam Aye.
-Sun Khutbay BiBi Zainab De Rat Roya Pak Imam Aye.
+Sun Khutbay Bibi Zainab De Rat Roya Pak Imam Aye.
 
 1
 Parh Aayataan Sorat Kaaf Diyaan Darbar Che Boli Shehzadi.

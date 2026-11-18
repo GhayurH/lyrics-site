@@ -24,7 +24,7 @@ Kardi Nahin Gawarah Sughra Ghairat Veraan Di.
 Taun Zahra Di Tasveer Ayein Sadi Peshiyaan Ne Darbaraan.
 Kehya Umm Ul-Banin Ne Ja Ke Qabar-e-Zahra Te.
 Rowan Gayiyaan Zahra Jaiyaan Ghazi Di Wafa Te.
-BiBi Teri Dhiyaan Di Main Mar Ke V Shukar Guzaran.
+Bibi Teri Dhiyaan Di Main Mar Ke V Shukar Guzaran.
 Akbar Da Seena Chum Ke Sughra Aye Aakhay.
 Na Veer Lahawin Mainu Mehmal Taun Aa Ke.
 Jithay Zainab Othay Sughra Main Safraan Layi Teyar Aan.

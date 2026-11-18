@@ -29,4 +29,4 @@ Meri Pak Ibadat Howay Gi Jadon Veran Shakal Wakhawin Ga.
 Jay Tere Bajoon Watna Te Veran Teri Sughra Mar Jaway.
 Aye Yaad Rakhein Ais Ujari Nu Tu Aa Ke Kafan Pawawein Ga.
  Zeeshan Duawaan Karda Aye Har Matami Nu Maula Akbar.
-Hai Wasta BiBi Sughra Da Apni Jageer Bolawein Ga.
+Hai Wasta Bibi Sughra Da Apni Jageer Bolawein Ga.

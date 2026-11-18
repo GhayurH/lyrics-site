@@ -24,7 +24,7 @@ Shukriya Kehne Ko Aaye Hain Tere Dar Pe Hussain.
 Le Ke Humrah Sawa Lakh Payamber Zainab.
 
 2
-Youn Tu Pali Hain Kayi Hujatein BiBi Tu Ne.
+Youn Tu Pali Hain Kayi Hujatein Bibi Tu Ne.
 Mojza Sab Se Bara Hai Tera Akbar Zainab.
 Taig-e-Haider Ke Bohat Waar Hain Mashoor Magar.
 Kab Koi Hai Tere Khutbay Ke Barabar Zainab.

@@ -35,7 +35,7 @@ Jahan Mein Matami Sar Youn Utha Ke Chalta Hai.
 Tumhare Dar Pe Jo Sar Ko Jhuka Diya Zainab.
 Baqa-e-Sajdah Shabeer Ki Jo Baat Chali.
 Jabeen Ne Chom Liye Tere Naqsh-e-Pa Zainab.
-Sand Yeh Kafi Hai BiBi Teri Sakhawat Par.
+Sand Yeh Kafi Hai Bibi Teri Sakhawat Par.
 Qasiday Parhti Hai Khud Tere Hal Atta Zainab.
 Salam Karti Hai Tujh Ko Namaz Yeh Keh Kar.
 Azza Ko Tu Ne Ibadat Bana Diya Zainab.

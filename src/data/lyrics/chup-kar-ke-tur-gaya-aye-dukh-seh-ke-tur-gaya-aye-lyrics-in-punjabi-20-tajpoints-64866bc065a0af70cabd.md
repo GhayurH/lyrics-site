@@ -28,5 +28,5 @@ Kyun Taras Na Aaye Nanay De Rozay Te Ja Ke Aye Janaza Mur Gaya Aye.
 3
 Qasim Nu Maula Ne Taweez Pawaya Samjhan Layi Qasim Nu Seene Te Litaya.
 Gal Sun Mera Jaya Aynj Da Pamal Toon Hona Aye Banay Khak Oh Shifa Aye.
-Aal-e- Abdullah Aye Mazloom Bara Aye Ik BiBi Zehar Piyaye Ik Teer Chalaye.
+Aal-e- Abdullah Aye Mazloom Bara Aye Ik Bibi Zehar Piyaye Ik Teer Chalaye.
 Haye Arsh Halaye Kita Aye Basharat Lokaan Ne Ainu Qatal Be Khata Aye.

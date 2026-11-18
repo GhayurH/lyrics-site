@@ -29,7 +29,7 @@ Masjid Mein Musalay Ki Sorat Bichta Hai Farsh-e-Azza.
 Kofay Ke Yateemo Ke Sar Par Ab Hath Rakhay Ga Kaun Bhala.
 Inn Faqa Karne Walon Ko Ab Kaun Khilaye Ga Khana.
 Koi Bhi Nahi Leta Hai Khabar Seh Roz Ka Hai Faqa.
-Roti Hain Kahin BiBi Zainab Hasnain Tarap Kar Rotay Hain.
+Roti Hain Kahin Bibi Zainab Hasnain Tarap Kar Rotay Hain.
 Baba Ke Khali Bistar Ko Bas Bachay Taktay Rehtey Hain.
 Amma Bhi Nahi Baba Bhi Nahi Hai Kitna Bara Sadma.
 Zahra Ke Gharanay Par Haider, Azlan Qayamat Ke Din Hain.

@@ -34,7 +34,7 @@ Shorow Jaisay Hi Khutba Hasan Ka Hota Hai.
 3
 Hasan Zameen Pe Sakhawat Hi Itni Kartay Hain Keh.
 Khuda Ke Arsh Pe Charcha Hasan Ka Hota Hai.
-Nawaz Deti Hain Dolat Khadija BiBi Ossay.
+Nawaz Deti Hain Dolat Khadija Bibi Ossay.
 Woh Jis Ke Ghar Mein Bhi Sikka Hasan Ka Hota Hai.
 Wahan Pe Loag Hoon Sarsabz Kis Tarha Na Asad.
 Jahan Labon Pe Qaseeda Hasan Ka Hota Hai.

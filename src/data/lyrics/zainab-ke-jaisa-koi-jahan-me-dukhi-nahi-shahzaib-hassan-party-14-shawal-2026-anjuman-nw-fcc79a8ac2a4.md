@@ -23,7 +23,7 @@ Zainab Ka Jaisa Koi Jahan Me Dukhi Nai
 
 Witness the deeply emotional noha “ Zainab sa Ka Jesa Koi Jahan Me Dhukhi Nahi”, recited by Shahzaib Hassan and presented by Anjuman e Hussania on 14 Shawal 2026 at Ghazi Abad , Written by Aqeel Shah , this noha captures the pain of Bibi Zainab A.S., reflecting the sorrow of separation and the grief of walking with his mother through the paths of suffering after Karbala. A soulful tribute to the resilience of the Ahlul Bayt, this noha is a must-watch for true azadars.
 
-نوحہ پاک( شہادت بی بی زینب سلام اللہ علیھا)
+نوحہ پاک( شہادت بی‌بی زینب سلام اللہ علیھا)
 
 زینب کے جیسا کوئی جہاں میں دُکھی نہیں
 
@@ -31,7 +31,7 @@ Witness the deeply emotional noha “ Zainab sa Ka Jesa Koi Jahan Me Dhukhi Nahi
 
 چودہ سو میل کِتنا ہے مشکل سفر کِیا
 
-گھر کے صحن میں بی بی کبھی جو چلی نہیں
+گھر کے صحن میں بی‌بی کبھی جو چلی نہیں
 
 رونے دِیا نہ بھائی کے لاشے پہ جب گئی
 

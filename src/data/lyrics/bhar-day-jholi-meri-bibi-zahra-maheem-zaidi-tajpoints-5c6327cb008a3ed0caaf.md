@@ -21,7 +21,7 @@ Mushkil Kusha Hain Haider-e-Safdar Jahan Ke.
 
 2
 Mushkil Kusha-e-Haider-e-Safdar Hain Fatima.
-Bhar De Jholi Meri BiBi Zahra, Laut Kar Main Na Jaon Gi Khali.
+Bhar De Jholi Meri Bibi Zahra, Laut Kar Main Na Jaon Gi Khali.
 Apne Bachoon Ka Sadqa Atta Kar, Dar Pe Aayi Hoon Ban Kar Sawali.
 Fatima Hai Hijab-e-Khuda Hai, Tu Batool-e-Zaman Syeda Hai.
 
@@ -51,6 +51,6 @@ Teri Chakki Hai Raziq Hamari, Hum Hain Bibi Tere Dar Ke Sail.
 
 7
 Bhar De Kashkool-e-Hajat Hamara, Tujh Se Faryad Hai Shahzadi.
-Bas Iram Our Maheem Ki Hai, Iltija Ik Yehi BiBi Zahra.
+Bas Iram Our Maheem Ki Hai, Iltija Ik Yehi Bibi Zahra.
 Tere Aada Se Badlay Ki Khatir, Ho Zahoor Ab Imam-e-Zamaan Ka.
 Tu Hai Razi Tu Razi Khuda Hai, Teri Marzi Hai Marzi Khuda Ki.

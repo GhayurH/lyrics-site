@@ -30,7 +30,7 @@ Karbal De Sare Shaheedan Di Aawaz Aayi Kuhram De Wich.
 Asaan Deen Banaya Wich Karbal Taun Sanu Bachaya Sham De Wich.
 Toon Khutbay Parh Darbaraan Wich Ditti Deen Di Mushkil Taal Aye.
 Jis Welay Da Aye Poor Aaya Karbal Di Tarti Kaindi Aye.
-Ik BiBi Umm Ul-Mosayab Aye Jehri Khak Te Uthdi Baindi Aye.
+Ik Bibi Umm Ul-Mosayab Aye Jehri Khak Te Uthdi Baindi Aye.
 Oss Maqtal De Wich Muk Gayi Aye Do Jag De Shah Di Aal Aye.
 Phatda Aye Seena Matami Da Oh Manzar Jad V Yaad Aaye.
  Hadi Jiwein Ujray Syed Aye Sochda Sochda Mar Jaway.

@@ -35,4 +35,4 @@ Ik Bar Chehra Dikha Jao Baba.
 Aye Pyaray Baba Phir Hum Kahan Tum Kahan.
 Chalo Sham Chalte Hain:REHAN-o-SARWAR:.
 Wahan Dekhna Kya Hai Chehlum Ka Manzar.
-BiBi Sakina Kartin Hain Ab Tak Fogaan.
+Bibi Sakina Kartin Hain Ab Tak Fogaan.

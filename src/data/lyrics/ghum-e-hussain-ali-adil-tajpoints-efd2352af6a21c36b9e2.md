@@ -43,7 +43,7 @@ Jawan Betay Ke Lashay Pe Sheh Ne Di Yeh Sada.
 5
 Zamana Yeh Na Kahey Keh Hussain Haar Gaya.
 Tumhara Lasha Uthana Bohat Zarori Hai.
-Sakina BiBi Ke Dil Ki Yehi Tu Hasrat Hai.
+Sakina Bibi Ke Dil Ki Yehi Tu Hasrat Hai.
 Nishan Sabar-o-Wafa Our Daleel-e-Azmat Hai.
 
 6

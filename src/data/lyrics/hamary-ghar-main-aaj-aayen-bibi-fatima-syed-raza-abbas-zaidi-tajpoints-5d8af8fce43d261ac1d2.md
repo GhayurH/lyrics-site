@@ -28,7 +28,7 @@ Ghareeb Hoon Tu Kya Howa Woh Aaein Gi.
 3
 Humein Bhi Khush Naseeb Woh Banaein Gi.
 Utha Ke Hath De Ke Wasta Hussain Ka.
-Dua Karo Dua Karo Hamarey Ghar Mein Aaj Aaein BiBi Fatima.
+Dua Karo Dua Karo Hamarey Ghar Mein Aaj Aaein Bibi Fatima.
 Bicha Ke Farsh-e-Gham Yahan Jinhein Bola Rahe Hain Hum.
 
 4
@@ -40,7 +40,7 @@ Jo Pursa Lainay Aati Hai Ghareeb Lal Ka.
 5
 Alam Ke Sath Lazmi Sajana Aik Mashk Bhi.
 Chacha Se Door Na Rahe Hussain Ki Woh Ladli.
-Zaror BiBi Aaein Gi Hamarey Ghar.
+Zaror Bibi Aaein Gi Hamarey Ghar.
 Sakina Ko Bhi Laein Gi Hamarey Ghar.
 
 6

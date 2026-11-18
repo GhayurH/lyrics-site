@@ -16,7 +16,7 @@ published: false
 Main Fatima Zahra Hun Wajhi Hasan Zaidi
 Jis Waqt Nabi Zadi Darbar Se Ghar Pohanchi.
 Chehray Pe Thakawat Thi Our Baloon Mein Safaidi Thi.
-Zainab Ne Jo Pocha Ke Tum Kaun Ho Aye BiBi.
+Zainab Ne Jo Pocha Ke Tum Kaun Ho Aye Bibi.
 Sar Apna Utha Kar Yeh Zahra Ne Kaha Beti.
 Main Fatima Zahra Hoon Pehchan Mera Chehra.
 Zainab Main Teri Maa Hoon.

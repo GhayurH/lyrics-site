@@ -35,7 +35,7 @@ Parh Ke Rotay Hain Hum Zyarat-e-Nahiya.
 Aye Qateel-e-Jafa Ya Hussain Ya Hussain.
 Haye Sham-e-Ghareebaan Na Bholein Gay Hum.
 Haye Syedaniyaan Our Unn Pe Sitam.
-BiBi Zainab Chalein Le Ke Dein Ka Alam.
+Bibi Zainab Chalein Le Ke Dein Ka Alam.
 Zainabi Azam Tha Ya Hussain Ya Hussain.
 Pori:REHAN-o-SARWAR: Dua Ho Gayi.
 Muntaqil Nasal Mein Ab Azza Ho Gayi.

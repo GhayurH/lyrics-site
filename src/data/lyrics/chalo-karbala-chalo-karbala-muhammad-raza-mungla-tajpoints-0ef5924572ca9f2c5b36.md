@@ -56,7 +56,7 @@ Karbala Walon Ka Gham Kaisay Hoga Kabhi Kam.
 Dil Mein Zindah Rahe Har Dam Gham-e-Aoulad-e-Nabi.
 Alqama Ke Jo Kinaray Hai Saja Ik Darbar.
 Chal Ke Abbas Ki Jageer Ko Dekho Ik Bar.
-BiBi Zahra Ki Dua Hai Wohi Baab-e-Atta.
+Bibi Zahra Ki Dua Hai Wohi Baab-e-Atta.
 
 8
 Saqqa Bachoon Ko Bana Kar Lo Dua Pyason Ki.

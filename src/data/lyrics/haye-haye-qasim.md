@@ -90,7 +90,7 @@ romanLyrics: |-
 
   12
   Jawad Rehan Te Sarwar Nu
-  Nayi Bhulnrey Wainr Oss BiBi De
+  Nayi Bhulnrey Wainr Oss Bibi De
   Jinday Sadqay Aj V Jari Aye
   Teda Ghar Ghar Matam Haye Qasim
 

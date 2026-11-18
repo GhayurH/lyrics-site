@@ -25,7 +25,7 @@ Aamad-e-Hind Ka Gul Itrat-e-Shabeer Mein Hai.
 Shor-e-Matam Haram-e-Sahib Tatheer Mein Hai.
 Kehti Hai Jaon Kahan Paon Tu Zanjeer Mein Hai.
 Paon Uthta Hai Tu Zanjeer Lipat Jati Hai.
-Tha Idhar BiBi Sakina Se Yeh Zainab Ka Biyaan.
+Tha Idhar Bibi Sakina Se Yeh Zainab Ka Biyaan.
 Hind Darbar Se Jab Aaye Gi Soye Zindaan.
 Sabar Tum Ko Hai Dikhana Na Uthay Shoor-o-Fogaan.
 Haye Yeh Din Bhi Aseeri Tumhein Dikhlati Hai.

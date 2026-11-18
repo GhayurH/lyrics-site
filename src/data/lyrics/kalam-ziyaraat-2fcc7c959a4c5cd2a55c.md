@@ -94,16 +94,16 @@ romanLyrics: |-
 نثار کر دیے بچھے نہ بچ سکا بھایی..
 اسیر ہوکے جسے شامیوں کے نرغے میں
 حسینیت ہے سکھانا علیؑ کے لہجے میں..
-سکینہؑ بی بی تمہارے غلام حاضر ہیں
+سکینہؑ بی‌بی تمہارے غلام حاضر ہیں
 بجھے جو پیاس تو اشکوں کے جام حاضر ہیں..
-یہ سن یہ حشر یہ صدمے نۓ نۓ بی بی
-کہاں پہ بیٹھی ہو قیمے تو جل گئے بی بی..
+یہ سن یہ حشر یہ صدمے نۓ نۓ بی‌بی
+کہاں پہ بیٹھی ہو قیمے تو جل گئے بی‌بی..
 نہ اس طرح کوئی کھیتی ہری بھری اجڑے
 تمہاری مانگ بھی اجڑی ہے گود بھی اجڑی..
 پہاڑ رات بڑی دیر ہے سویرے میں
 کہاں ہو شام غریباں کے گھپ اندھیرے میں
-زمین گرم یتیمی کی سختیاں بی بی
-وہ سینہ جس پہ کے سو تی تھی اب کہاں بی بی..
+زمین گرم یتیمی کی سختیاں بی‌بی
+وہ سینہ جس پہ کے سو تی تھی اب کہاں بی‌بی..
 جناب مادرے بےشیر کو بھی سب کا سلام
 عجیب وقت ہے کیا دیں تسّلیوں کا پیام..
 ابھی کلیجے میں ایک آگ سی لگی ہوگی
@@ -143,13 +143,13 @@ Even she sacrificed her children but couldn’t save her Brother.
 Be it under the custody of Syrians’ confinement,
 حسینیت ہے سکھانا علیؑ کے لہجے میں..
 She must preach HUSSAINIAT in the accent of Ali (a.s).
-سکینہؑ بی بی تمہارے غلام حاضر ہیں
+سکینہؑ بی‌بی تمہارے غلام حاضر ہیں
 Sakina Bibi your servants are in your service,
 بجھے جو پیاس تو اشکوں کے جام حاضر ہیں..
 If your thirst quenches, our tears are at your submission.
-یہ سن یہ حشر یہ صدمے نۓ نۓ بی بی
+یہ سن یہ حشر یہ صدمے نۓ نۓ بی‌بی
 O’ Bibi, your age; your condition; your miseries… unprecedented!
-کہاں پہ بیٹھی ہو قیمے تو جل گئے بی بی..
+کہاں پہ بیٹھی ہو قیمے تو جل گئے بی‌بی..
 O’ Bibi, where have you taken the refuge? Tents are burned!
 نہ اس طرح کوئی کھیتی ہری بھری اجڑے
 Never let the full bloomed flourishing harvest be ruined,
@@ -159,9 +159,9 @@ Ah! Your husband is ruined, your newborn is ruined.
 The prolonged night takes long time for daybreak,
 کہاں ہو شام غریباں کے گھپ اندھیرے میں
 Where have you gone in the utter-darkness of ‘Sham-e Ghariban’?
-زمین گرم یتیمی کی سختیاں بی بی
+زمین گرم یتیمی کی سختیاں بی‌بی
 O’ Bibi, in the hotbed soil and in the hardship of orphan hood!
-وہ سینہ جس پہ کے سو تی تھی اب کہاں بی بی..
+وہ سینہ جس پہ کے سو تی تھی اب کہاں بی‌بی..
 O’ Bibi, where will you find the chest that you used to sleep?
 جناب مادرے بےشیر کو بھی سب کا سلام
 Salutation from all on the Mother of feed-less (Ali Asghar (a.s))

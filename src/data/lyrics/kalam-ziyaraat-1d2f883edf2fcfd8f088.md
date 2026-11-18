@@ -16,7 +16,7 @@ Yeh Raah-e-Shaam Hai Tera Watan Nahi ZAINAB
 Yahan Hussain Nahi Hai Hassan Nahi ZAINAB
 
 1
-Yahan Rida Ka Tasawur Muhaal Hai BiBi
+Yahan Rida Ka Tasawur Muhaal Hai Bibi
 Yahan Janazoun Ko Milta Nahi Kafan ZAINAB
 
 2

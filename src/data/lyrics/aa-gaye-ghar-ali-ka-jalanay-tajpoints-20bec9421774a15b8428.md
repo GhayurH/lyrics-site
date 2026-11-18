@@ -27,7 +27,7 @@ Galiyon Mein Murtaza Ko Phiranay Aa Gaye Ghar Ali Ka Jalanay.
 
 3
 Kartay Tazeem Jis Ki Nabi They.
-BiBi Darbar Mein Woh Gayi Hai.
+Bibi Darbar Mein Woh Gayi Hai.
 Mustafa Ke Jigar Ko Dukhanay Aa Gaye Ghar Ali Ka Jalanay.
 Ajar Ummat Se Kaisa Mila Hai.
 

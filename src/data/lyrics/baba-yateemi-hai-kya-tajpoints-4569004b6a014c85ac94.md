@@ -21,7 +21,7 @@ Lipti Hoi Thi Sakina Summo Se.
 Maula Sakina Ko Godi Mein Le Kar.
 Ro Ro Ke Kehne Lagay Keh Aye Dilbar.
 Hum Ko Na Tarpao Khud Ko Sanbhalo.
-BiBi Yateemi Ki Adat Bhi Dalo.
+Bibi Yateemi Ki Adat Bhi Dalo.
 Bachi Ne Baba Ke Chehray Ko Choma.
 Our Ro Ke Kehne Lagi Keh Aye Baba.
 Acha Mujhe Aap Itna Bata Dein Zara.

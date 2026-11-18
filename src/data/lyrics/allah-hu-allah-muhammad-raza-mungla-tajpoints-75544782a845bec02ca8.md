@@ -46,7 +46,7 @@ Elahi! Wasta Tujh Ko Rida-e-Zainab Ka.
 6
 Rahe Sharefon Ka Mehfooz Ta Abad Pardah.
 Ba Haq e Bali Sakina Ho Unn Pe Khas Atta.
-Unhein Naseeb Rahe BiBi Syeda Ki Raza.
+Unhein Naseeb Rahe Bibi Syeda Ki Raza.
 Jinhein Hai Bakht Kushai Ki Chah, Kar Dena.
 
 7

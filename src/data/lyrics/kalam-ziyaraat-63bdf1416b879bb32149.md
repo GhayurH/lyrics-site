@@ -1,5 +1,5 @@
 ---
-title: "سکینہؑ بی بی کے بین"
+title: "سکینہؑ بی‌بی کے بین"
 language: "Roman Urdu"
 lang: "ur"
 direction: "ltr"

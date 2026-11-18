@@ -17,7 +17,7 @@ published: false
 Munh Kar Ke Najaf Te Yasrab Wal Ro Wain Kare Zainab Dukhya.
 Mar Putar Bhatijay Veer Gaye Koi Aasra Nahin Sajjad Siwa.
 Khat Akbar De Seene Uttay Piya Rakh Ke Qasad Ronda Aye.
-Mere Aaon Taun Pehlaan Akbar De Sughra BiBi San Aakhri Sah.
+Mere Aaon Taun Pehlaan Akbar De Sughra Bibi San Aakhri Sah.
 
 2
 Wich Khilriyaan Lashaan Babal Nu Adh Raat Sakina Labhdi Aye.

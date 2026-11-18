@@ -81,7 +81,7 @@ romanLyrics: |-
   Dulhan Bhi La Jawab Hai Dulha Bhi La Jawab Hai.
 
   12
-  Dulhan Hain BiBi Fatima Dulha Abu Turab Hai.
+  Dulhan Hain Bibi Fatima Dulha Abu Turab Hai.
   Khushi Se Muhammad Ka Chehra Khila Tha.
   Ali Our Zahra Ka Rishta Howa Tha.
   Kahin Dil Ke Armaan Bahey Aansoon Mein.
@@ -166,7 +166,7 @@ romanLyrics: |-
 درِ مرتضیٰ پر ستارے نے آکر جب آواز دی مبارک ہو
 
 دلہن بھی لاجواب ہے دولہا بھی لاجواب ہے
-دلہن ہیں بی بی فاطمہ دولہا ابوتراب ہے
+دلہن ہیں بی‌بی فاطمہ دولہا ابوتراب ہے
 خوشی سے محمد کو چہرا کھِلا تھا
 علی اور زہرا کا رشتہ ہوا تھا تھا
 کہیں دل کے ارماں بہے آنسوؤں میں

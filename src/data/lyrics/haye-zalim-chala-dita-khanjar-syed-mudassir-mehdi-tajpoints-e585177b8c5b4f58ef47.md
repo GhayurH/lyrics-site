@@ -30,7 +30,7 @@ Shimar De Hath Wichon Chura Khanjar.
 Aliya Sham Jana Kis Welay?.
 Kar Deway Ga Aye Faisla Khanjar.
 Zakhmi Hath Cha Ke Zakhmi Pehlu Taun.
-BiBi Zahra Ne Rokiya Khanjar.
+Bibi Zahra Ne Rokiya Khanjar.
 Baad Shabeer De Lahaway Ga.
 Ghazi Di Bhain Di Rida Khanjar.
 Pak Bibi Di Pak Chadar Nal.

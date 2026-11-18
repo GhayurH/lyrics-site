@@ -22,7 +22,7 @@ Phophi Ko Ab Ossi Dilbar Ki Yaad Aati Hai.
 2
 Sakina Sughra Ko Armaan Tha Jis Ki Shadi Ka.
 Behan Ko Apne Baradar Ki Yaad Aati Hai.
-Woh Jis Ko Nazoon Se Pala Tha BiBi Zainab Ne.
+Woh Jis Ko Nazoon Se Pala Tha Bibi Zainab Ne.
 Ab Oss Hi Mah-e-Munawar Ki Yaad Aati Hai.
 
 3

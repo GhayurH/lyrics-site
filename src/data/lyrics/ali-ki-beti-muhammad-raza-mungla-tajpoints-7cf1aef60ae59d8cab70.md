@@ -56,10 +56,10 @@ Ab Bhi Hai Nasal-e-Yazeedi Ko Tera Dar Zainab!
 Dabdaba Tera Ali Sa Hai Ali Ki Beti!.
 
 8
-Bani e Matam-e-Shabbir Hai BiBi Zainab.
-Our Raza Deen Ki Taqdeer Hai BiBi Zainab.
-Waris-e-Chadar-e-Tatheer Hai BiBi Zainab.
-Aye Iram! Mehwar-e-Tehreer Hai BiBi Zainab.
+Bani e Matam-e-Shabbir Hai Bibi Zainab.
+Our Raza Deen Ki Taqdeer Hai Bibi Zainab.
+Waris-e-Chadar-e-Tatheer Hai Bibi Zainab.
+Aye Iram! Mehwar-e-Tehreer Hai Bibi Zainab.
 
 9
 Apne Aousaf Mein Yakta Hai Ali Ki Beti.

@@ -56,7 +56,7 @@ Bas Yeh Mehsos Karta Raha Hoon.
 Doon Ga Maula Ko Ghazi Ka Pursa.
 Jaltay Khaimay Udasi Ka Pursa.
 Our Satar Qadam Se Main Doon Ga.
-BiBi Zainab Ko Bhai Ka Pursa Tha.
+Bibi Zainab Ko Bhai Ka Pursa Tha.
 Kaisay Dekha Tha Bhai Pe Khanjar.
 Sochtay Sochtay Ro Diya Hoon.
 Aye Hasan Our Zeeshan Aao.

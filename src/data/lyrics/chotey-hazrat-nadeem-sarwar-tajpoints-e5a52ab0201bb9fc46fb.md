@@ -81,7 +81,7 @@ Ab Mujhe Karbala Bola Bhejo.
 9
 Wasta Syed-e-Madina Ka.
 Wasta Zainab-o-Sakina Ka.
-BiBi Umm Ul-Baneen Ka Sadqa.
+Bibi Umm Ul-Baneen Ka Sadqa.
 Wasta Panjtan Ka Deta Hoon.
 Wasta Be Kafan Ka Deta Hoon.
 Chotay Hazrat Hussain Ke Bhai.

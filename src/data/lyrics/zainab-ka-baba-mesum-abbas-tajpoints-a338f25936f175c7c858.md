@@ -97,7 +97,7 @@ romanLyrics: 'Zainab Ka Baba Mesum Abbas Lyrics
 
   Jo Musayab Hain Mazhar Woh Likhtay Raho.
 
-  BiBi Zahra Ko Ashkon Se Pursa Bhi Do.
+  Bibi Zahra Ko Ashkon Se Pursa Bhi Do.
 
   Bas Yeh Aagaz-e-Karb-o-Bala Hai.'
 # source_id: nohayonline:794f1f856905c55f6389
@@ -135,7 +135,7 @@ romanLyrics: 'Zainab Ka Baba Mesum Abbas Lyrics
 ۵
 روزہ داروں کے کاندھوں پہ تابوت ہے
 سر ہے خونی قبا اور روتے ہوے
-یا‌ علی یا علی کی جو آواز ہے
+یا علی یا علی کی جو آواز ہے
 ہر عزادار یہ کہہ رہا ہے
 
 ۶
@@ -159,5 +159,5 @@ romanLyrics: 'Zainab Ka Baba Mesum Abbas Lyrics
 ۹
 فرش مجلس پہ میثم یہ نوحہ کرو
 جو مصایب ہے مظہر وہ لکھتے رہو
-بی بی زہرا کو اشکوں سے پرسہ بھی دو
+بی‌بی زہرا کو اشکوں سے پرسہ بھی دو
 بس یہ آغاز کربوبلا ہے

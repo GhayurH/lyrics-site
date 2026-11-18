@@ -37,5 +37,5 @@ Kadi Sir Lehraye Neziyaan Te Kadi Chadraan Ne Lehraiyan.
 4
 Aye Aakh Sakina Rondi Aye Chachay Di Nishani Mil Jaway.
 Mashkezay Naal Wandawaan Gi Main Qaid Diyaan Tanhaiyaan.
- Akbar Aye BiBi Wain Karey Almaan Walay Diyaan Bhaina Waan.
+ Akbar Aye Bibi Wain Karey Almaan Walay Diyaan Bhaina Waan.
 Tere Sir Di Qasam Assi Safraan Wich Kisay Moor Te Nayi Ghabraiyan.

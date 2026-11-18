@@ -16,7 +16,7 @@ romanLyrics: 'Veerani (x10), Zainab ko or rulai veeran gharun ki veerani
 
   Ek aangan may Umm e Salma Sughra k aanso ponchay
 
-  Dil per apnay pathar rakh ker BiBi say aa ker bolay
+  Dil per apnay pathar rakh ker Bibi say aa ker bolay
 
   Sughra uth ja inn rastun say ab koi nahi jo i
 
@@ -85,7 +85,7 @@ romanLyrics: 'Veerani (x10), Zainab ko or rulai veeran gharun ki veerani
 
 ۱
 اِک آنگن ميں اُمِ سلمٰیؑ صُغریٰؑ کے آنسو پونچھے
-دل پر اپنے پتھر رکھ کر بی بیؑ سے آ کر بولے
+دل پر اپنے پتھر رکھ کر بی‌بیؑ سے آ کر بولے
 صغریٰؑ اٹھ جا ان رَستوں سے اب کوئی نہيں جو آئے
 
 ۲

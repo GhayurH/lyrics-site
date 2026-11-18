@@ -56,7 +56,7 @@ Mujhe Mara Hai Itna Ke Kamar Tak Jhuk Gayi Meri.
 Tamachay Zoor Se Partay They Unn Ke Hath They Bhari.
 
 6
-Hajoom-e-Aam Tha Baba Har Ik BiBi Thi Nangay Sar.
+Hajoom-e-Aam Tha Baba Har Ik Bibi Thi Nangay Sar.
 Kisay Aawaz Hum Detey Koi Monis Na Tha Yawar.
 Chupaya Rukh Ko Baloon Se Na Thi Sar Par Koi Chadar.
 Musalmano Ne Na Socha Ke Hain Yeh Aal-e-Peygamber.

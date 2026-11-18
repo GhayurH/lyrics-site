@@ -33,7 +33,7 @@ Tum Ossay Baraat Samjho Qasim-e-Noshah Ki.
 Hai Siyah Joray Mein Ik Dulhan Hamarey Sath Bhi.
 Hasraton Ke Naam Ki Mehndi Rachaney Aaye Hain.
 Hukam Hai Abbas Ka Paidal Hi Aaye Har Koi.
-Hai Hamarey Sath Ik BiBi Jo Chal Sakti Na Thi.
+Hai Hamarey Sath Ik Bibi Jo Chal Sakti Na Thi.
 Oss Ko Chalna Aa Gaya Hai Yeh Bataney Aaye Hain.
 Suntay Hain Karta Nahi Koi Diya Roshan Yahan.
 Turbat-e-Shabeer Par Rehti Hain Bas Tareekiyaan.

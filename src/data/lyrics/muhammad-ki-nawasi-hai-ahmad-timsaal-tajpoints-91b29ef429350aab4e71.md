@@ -29,7 +29,7 @@ Na Ghabrao Mere Seene Mein Jab Tak Sans Baqi Hai.
 3
 Bala Hai Dasht-e-Ghurbat Hai Our Oss Pe Zainab-e-Muztar.
 Chupati Hai Kabhi Chehray Ko Baloon Se Kabhi Barh Kar.
-Sakina BiBi Ko Ghoron Ki Tapoon Se Bachati Hai.
+Sakina Bibi Ko Ghoron Ki Tapoon Se Bachati Hai.
 
 4
 Ghamo Se Choor Bibi Ka Tha Kitna Hosla Dekho.

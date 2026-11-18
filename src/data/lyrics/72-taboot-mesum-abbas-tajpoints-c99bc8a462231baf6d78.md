@@ -51,5 +51,5 @@ Jo Zahra Se Wadah Kiya Woh Nibhao.
 Yeh Azlan-o- Mesum Jahan Ko Batana.
 Sheh-e-Dein Ko Inn Sab Ne Tanha Na Chora.
 Hum Inn Ko Bhi Hone Nahi Dein Gay Tanha.
-Duaein Humein Dein Gi Khud BiBi Zahra.
+Duaein Humein Dein Gi Khud Bibi Zahra.
 Dilon Ki Muradein Yahan Aa Ke Pao.

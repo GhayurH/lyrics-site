@@ -16,7 +16,7 @@ published: false
 1
 Fizza Yeh Dua Karna Nadeem Sarwar
 Fizza Yeh Dua Karna ALLAH Na Dikhaway.
-Shala Kisay BiBi Te Ainj Waqt Na Aaway.
+Shala Kisay Bibi Te Ainj Waqt Na Aaway.
 Gin Gin Ke Main Thak Payi Aan.
 Iss Dil Diyaan Dardaan Koon.
 Hik Rasi Che Tu Fizza Sang Maiday Bandhi Rayi Ayein.

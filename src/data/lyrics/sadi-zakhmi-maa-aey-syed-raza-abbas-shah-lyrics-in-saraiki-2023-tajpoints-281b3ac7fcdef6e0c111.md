@@ -24,7 +24,7 @@ Taidi Sand V Dakhlendi Rayi Aye Bhawein Sadiyaan Qasmaan V Chendi Rayi Aye.
 Wal V Aye Nana Ummat Ne Chori Khali Walaye Sadi Zakhmi Maa Aye.
 
 2
-Kyun Haq Manganr Te Taun BiBi Tul Gayin Hin Loag Aahday Maslay Taun Bhul Gayin.
+Kyun Haq Manganr Te Taun Bibi Tul Gayin Hin Loag Aahday Maslay Taun Bhul Gayin.
 Haan Dhi Nabi Di Kayi Waar Nana Bhawein Dasaye Sadi Zakhmi Maa Aye.
 Hasda Rehya Aye Teda Shehar Sara Saday Dhaday Logaan Sadi Maa Koon Mara.
 Jeendi Wadi Hay Saday Babay Kolon Chehra Lokaye Sadi Zakhmi Maa Aye.

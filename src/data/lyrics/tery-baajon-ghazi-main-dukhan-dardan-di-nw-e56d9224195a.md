@@ -39,4 +39,4 @@ Aa Najaf Choo’n BaBa, Aakhri Wailay Te, Gal La Lay Mainu
 Saah Muk Gaye Mere Rahwa’n Wich, Mai Tere Waihray Da, Armaan Ho Gayee
 
 Shaam Wich Zainab De, Waikh K Rozay Nu, Mai Samar Rona Waa’n
-Tera BiBi Watan Churra Chadya, Keewe’n Ummat Naanay Dee, Musalmaan Ho Gayee
+Tera Bibi Watan Churra Chadya, Keewe’n Ummat Naanay Dee, Musalmaan Ho Gayee

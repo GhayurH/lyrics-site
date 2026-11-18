@@ -27,7 +27,7 @@ Beton Ne Dukhi Maa Ko Tha Phir Khud Hi Sanbhala.
 
 3
 Ashab Ne Dar Bint-e-Muhammad Ka Jalaya.
-Maloon Ne Woh Dar Meri BiBi Pe Giraya.
+Maloon Ne Woh Dar Meri Bibi Pe Giraya.
 Phir Khak Se Fizza Ne Hi Zahra Ko Uthaya.
 Darbar Mein Boli Ke Yeh Hasnain Hain Sachay.
 

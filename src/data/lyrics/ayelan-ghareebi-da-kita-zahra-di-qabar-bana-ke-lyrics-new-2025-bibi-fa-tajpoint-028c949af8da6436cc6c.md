@@ -29,4 +29,4 @@ Ummat Taun Qabar Chupawan Layi Aaya Nayi Charag Jala Ke.
 Karda Aye Tilawat Raat Welay Zainab, Kulsoom Da Baba.
 Dhiyaan Nal Ral Ke Ronda Aye Lailatul Qadar Te Aa Ke.
 Har Matami Akbar Chahnda Aye Zahra Di Qabar Te Pursa.
-Haye BiBi, BiBi Wain Karey Peshani Qabar Te La Ke.
+Haye Bibi, Bibi Wain Karey Peshani Qabar Te La Ke.

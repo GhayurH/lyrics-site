@@ -50,7 +50,7 @@ Zabaan Hai Ayenthi Hoi Teen Din Se Pyasay Hain.
 5
 Nida Yeh Aayi Ke Gardan Se Khainch Jaan Inn Ki.
 Kaha Main Kya Kahon Gardan Pe Chal Rahi Hai Churi.
-Churi Pakar Ke Yeh Chilati Hai Koi BiBi.
+Churi Pakar Ke Yeh Chilati Hai Koi Bibi.
 Na Zibha Kar Mere Bachay Ko Main Dua Doon Gi.
 Jahan Rawaan Tere Khanjar Ki Aab Hai Zalim.
 Yeh Bosa Gah-e-Risalat Maab Hai Zalim.

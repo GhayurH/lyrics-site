@@ -1,5 +1,5 @@
 ---
-title: "پامال لاشہ دیکھ کے کہتی ہیں بی‌بیاں"
+title: "پامال لاشہ دیکھ کے کہتی ہیں بیبیاں"
 alternateTitle: "Paamaal Laasha Dekh"
 language: "Urdu"
 lang: "ur"
@@ -49,7 +49,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=326
 # raw_sha256: 2cfac5adb1a22582b074397ac78aeba9d89fc678ddac1ef021757ed05d84f704
 ---
-پامال لاشہ دیکھ کے کہتی ہیں بی‌بیاں
+پامال لاشہ دیکھ کے کہتی ہیں بیبیاں
 زہرا کی طرح ٹوٹی ہیں قاسم کی پسلیاں
 
 ۱

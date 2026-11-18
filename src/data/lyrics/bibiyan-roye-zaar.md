@@ -1,5 +1,5 @@
 ---
-title: "بی‌بیاں روئے زار و زار"
+title: "بیبیاں روئے زار و زار"
 alternateTitle: "Bibiyaṅ Roye Zaar"
 language: "Urdu"
 lang: "ur"
@@ -87,7 +87,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2998
 # raw_sha256: 83c5cdd73d996b48b34e74be3bc55eb2b9bbac0905dabb9203631616284454f4
 ---
-بی‌بیاں روئے زار و زار
+بیبیاں روئے زار و زار
 شہزادیاں روئے زار و زار
 لٹ گیا کربل میں گھر بار
 حسین حسین حسین حسین

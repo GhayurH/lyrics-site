@@ -35,7 +35,7 @@ Noor Ke Har Mansab Ki Hai Goya Zahra Se Pehchan.
 Apne Hoon Woh Ya Keh Paraye Sab Ne Baat Yeh Mani Hai.
 Zahra Ke Beton Ne Kal Bhi Deen Ki, Ki Nigrani Hai.
 Aaj Bhi Zahra Ka Ik Beta Deen Ka Hai Nigran.
-BiBi Khadija Ne Kal Tak Tum Sab Ke Baron Ko Pala Tha.
+Bibi Khadija Ne Kal Tak Tum Sab Ke Baron Ko Pala Tha.
 Aaj Ke Kalma Goyon Tum Ko Palney Wali Hain Zahra.
 Bag-e-Fidak Ke Dar Par Ja Kar Kehta Tha Salman.
 

@@ -34,7 +34,7 @@ Ghami Khushi Mein Badalti Hai Qum Ki Wadi Mein.
 3
 Farishtay Kartay Hain Oss Ko Ibadaton Mein Shumar.
 Har Ik Ghari Jo Guzarti Hai Qum Ki Wadi Mein.
-Raza Ke Door Ki Zainab Hain BiBi Masooma.
+Raza Ke Door Ki Zainab Hain Bibi Masooma.
 Sada Yeh Roz Hi Aati Hai Qum Ki Wadi Mein.
 Nawein Imam Ne Hum Ko Bata Diya Hasnain.
 Sand Bhi Khuld Ki Milti Hai Qum Ki Wadi Mein.

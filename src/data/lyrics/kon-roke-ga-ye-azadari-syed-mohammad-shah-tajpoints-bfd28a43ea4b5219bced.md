@@ -40,7 +40,7 @@ Ghar Aaeingi Ab, Mere Syeda.
 Izn-e-Zahra Hai Yeh Azadari.
 Har Ghali Mein Sabeel Hai Jo Lagi.
 Yeh Duaein Hain Mashk Wali Ki.
-Tere Sadqay Mein Aye Meri BiBi.
+Tere Sadqay Mein Aye Meri Bibi.
 
 6
 Aaj Pyasa Nahi Hai Koi Bhi.
@@ -99,7 +99,7 @@ Woh Sokha Howa, Gala Kat Gaya.
 15
 Oss Pe Rona Hai Yeh Azadari.
 :ARSALAN AZMI: Khuda Ki Qasam.
-Mujh Pe Hai BiBi Syeda Ka Karam.
+Mujh Pe Hai Bibi Syeda Ka Karam.
 Chalta Rehta Hai Jo Yeh Mera Qalam.
 
 16

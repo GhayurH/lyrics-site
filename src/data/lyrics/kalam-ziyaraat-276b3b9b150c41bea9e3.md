@@ -89,7 +89,7 @@ romanLyrics: 'Mai Bint e Ali hun
 
   Rehan idher naam e Nabi gonja fiza may
 
-  BiBi nay kaha fakhr say
+  Bibi nay kaha fakhr say
 
   Mai jeet gai hun'
 reciter: Meer Hasan Meer
@@ -150,5 +150,5 @@ reciter: Meer Hasan Meer
 ۹
 ہونے لگی دربار میں مشترکہ اذانيں
 ريحان ادھر نام نبی گونجا فضا ميں
-بی بی نے کہا فخر سے
+بی‌بی نے کہا فخر سے
 ميں جيت گئ ھوں

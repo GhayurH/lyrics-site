@@ -25,7 +25,7 @@ Lehad Se Uth Ke Galay Se Lagao Aye Nana.
 Shikasta Ho Gaya Pehlu Hamari Amma Ka.
 Hamara Bhai Woh Mohsin Shaheed-e-Zulm Howa.
 Humein Na Mar Dein Hum Ko Bachao Aye Nana.
-Uthaya Jalta Ho Dar Jo BiBi Fizza Ne.
+Uthaya Jalta Ho Dar Jo Bibi Fizza Ne.
 Tu Dekha Meekh Gari Hai Badan Pe Amma Ke.
 Yeh Kis Khata Ki Saza Hai Batao Aye Nana.
 Woh Janeshen Tumhara Hamara Woh Baba.

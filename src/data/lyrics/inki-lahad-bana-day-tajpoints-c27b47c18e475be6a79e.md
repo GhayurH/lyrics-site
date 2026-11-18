@@ -21,7 +21,7 @@ Meelon Talak Woh Mojon Pe Mehway Safar Rahe.
 
 2
 Mojon Ke Lab Pe Noha Tha Ik Shoor-o-Shain Tha.
-Darya Kinaray Yeh Kissi BiBi Ka Bain Tha.
+Darya Kinaray Yeh Kissi Bibi Ka Bain Tha.
 Ahsan Kar Musiyab Zahra Ki Tu Dua Le Inn Ki Lahad Bana De.
 Mehman Ban Ke Tere Aaye Hain Dono Lashay Inn Ki Lahad Bana De.
 

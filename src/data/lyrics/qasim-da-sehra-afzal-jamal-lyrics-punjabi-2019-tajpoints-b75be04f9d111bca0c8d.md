@@ -35,10 +35,10 @@ Phar Sakina, Qasim Di Waag Aye.
 Mangay Sughra Hissay Da Laag Aye.
 Aakhay Bibi Pardais Aaya Qasim Da Sehra.
 Janj Hasan De Chan Di Aayi.
-BiBi Zainab Khaimay Bithayi.
+Bibi Zainab Khaimay Bithayi.
 
 5
-BiBi Kubra Di Maa Wadhaya Qasim Da Sehra.
+Bibi Kubra Di Maa Wadhaya Qasim Da Sehra.
 Wela Cheti Shahid Oh Aaway.
 Ujray Wehray Mehdi Wasaway.
 Jis Takhayul Wich Likhaya Qasim Da Sehra.

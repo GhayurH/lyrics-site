@@ -16,7 +16,7 @@ published: false
 1
 Sun Lay Ghazi Mola Duawaan Lyrics In Punjabi
 Aasra Aye Momina Da Har Dam Tere Alam Di Chawaan.
-Tu Pardah BiBi Zainab Da Nalay Chan Zahra De Ghar Da.
+Tu Pardah Bibi Zainab Da Nalay Chan Zahra De Ghar Da.
 Raway Qayam Pardah Momina Da Tainu Wasta Chadar-e-Zainab Da.
 Mangdiyan Ne Tere Dar Taun Maula Dukhiyaan Bhaina Te Mawaan.
 Tu Bhar De Khali Jholiyaan Nu Tainu Wasta Pyasay Asghar Da.

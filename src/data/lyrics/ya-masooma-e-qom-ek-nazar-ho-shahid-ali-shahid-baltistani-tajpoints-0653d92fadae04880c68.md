@@ -44,7 +44,7 @@ Iss Qaum Ke Rehbar Mein Baseerat Ka Hunar Ho.
 Har Shab Ko Tum Azam Ka Paikar Bhi Bana Do.
 Youn Deen Pe Mitne Ka Hunar Unn Ko Sikha Do.
 Har Sans Pe Maula Ki Itaat Ki Mohar Ho.
-BiBi Unhein Do Asghar-e-Be Sheer Ka Sadqa.
+Bibi Unhein Do Asghar-e-Be Sheer Ka Sadqa.
 
 6
 Aoulad Ki Naimat Se Tarapti Hain Jo Dukhiya.
@@ -54,6 +54,6 @@ Jab Karb-o-Bala Jane Se Mehroom Hoye Hum.
 
 7
 Yeh Saal Bhi Mehromi Mein Mera Na Basar Ho.
-BiBi Tumhein Sultan-e-Khurasaan Ki Qasam Hai.
+Bibi Tumhein Sultan-e-Khurasaan Ki Qasam Hai.
 Ijaz Dikha Do Keh Yehi Waqt-e-Karam Hai.
  Jafar Ki Zabaan Mein Bhi Atta Kuch Tu Asar Ho.

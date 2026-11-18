@@ -28,5 +28,5 @@ Lagda Aye Safar De Wich Akbar Denda Aazan Fajar Di Aye.
 3
 4- Tur Gaya Teri Sorat Wala Reh Gayi Si Hum Shakal-e-Zahra.
 Lailatul Qadar De Ghar Kaisi Aye Aayi Raat Qadar Di Aye.
-5- Akbar Pehla Din Wichran Da Ainj BiBi Sughra Layi Hoya.
+5- Akbar Pehla Din Wichran Da Ainj Bibi Sughra Layi Hoya.
 Jiwein Hashar De Din Aye Pehla Din Te Pehli Raat Qabar Di Aye.

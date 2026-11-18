@@ -28,5 +28,5 @@ Oss Par Hain Zulm Kartay Dekhey Ghulam Tak.
 3
 Rona Hai Syedon Ne Jane Kahan Kahan.
 Chahe Woh Qum Ya Karbal Ya Ho Woh Sham Tak.
-Masoom Meri Bi Bi Izzat Khuda Ki Aap.
+Masoom Meri Bibi Izzat Khuda Ki Aap.
  Jarrar Ka Hai Pursa Sajdah Salam Tak.

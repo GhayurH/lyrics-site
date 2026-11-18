@@ -43,7 +43,7 @@ Loag Pehchan Letey Hain Aksar.
 
 7
 Karbala Mein Jo Maqam-e-Ali Akbar Pe Gaya.
-Aik BiBi Ke Sisakney Ki Sadaon Ko Suna.
+Aik Bibi Ke Sisakney Ki Sadaon Ko Suna.
 Mustaqil Aaj Bhi Hai Noha Gar.
 
 8

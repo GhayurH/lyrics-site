@@ -41,7 +41,7 @@ Jinhoon Ne Gham Unn Ka Becha Mimber Ka Rutba Na Samjha.
 
 4
 Yeh Bhi Tu Hain Ahl-e-Kofa Se Kartay Hain Dhoka Yeh Maula Se.
-Mehshar Mein Pocha Jo BiBi Ne Bolein Gay Kya Yeh Zahra Se.
+Mehshar Mein Pocha Jo Bibi Ne Bolein Gay Kya Yeh Zahra Se.
 Bibi Humein Kar Do Atta Yeh Hosla.
 Sare Azadar-e-Karbala Aa Jaein Shehar-e-Madina.
 Our Phir Yeh Hasrat Bhi Pori Karein Gunbad Baqiya Pe Banwaein.

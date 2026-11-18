@@ -29,7 +29,7 @@ Ab Kaun Sanbhalay Ga Bhala Aap Ke Ghar Ko Anwar-e-Nazar Ko.
 Jati Ho Kahan Chor Ke Hasnain Ko Tanha Ya Fatima Zahra.
 
 3
-Thamtay Hi Nahi Zulm-o-Sitam Aap Pe BiBi Kaisi Hai Ghareebi.
+Thamtay Hi Nahi Zulm-o-Sitam Aap Pe Bibi Kaisi Hai Ghareebi.
 Na Roshni Mojood Hai Turbat Pe Na Saya Ya Fatima Zahra.
  Haider Yeh Haqeeqat Hai Keh Jab Aaein Gaye Maula Bulwaein Gaye Maula.
 Haan Own Baqiya Mein Tum Parhna Yehi Noha Ya Fatima Zahra.

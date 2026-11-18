@@ -37,5 +37,5 @@ Jis Tarha Tatheer Ka Zainab Pe Saya Hoga.
 4
 Hai Sakhi Abbas Ka Rahwar Ashal Iss Liye.
 Haan Sawali Iss Ke Aagay Yeh Zamana Ho Gaya.
-Deti Hain BiBi Ruqaiya Dad Khud Qambar Tujhe.
+Deti Hain Bibi Ruqaiya Dad Khud Qambar Tujhe.
 Youn Tere Har Shair Ka Dunya Mein Charcha Ho Gaya.

@@ -17,7 +17,7 @@ published: false
 Allah Teri Dunya Mein Pareshan Hai Zahra.
 Ummat Ne Nazar Phair Li Hairan Hai Zahra.
 Be Misal Gawahon Ki Gawahi Ko Na Mana.
-BiBi Ki Fazeelat Ko Musalmaan Ne Na Jana.
+Bibi Ki Fazeelat Ko Musalmaan Ne Na Jana.
 Samjha Hi Nahi Bolta Quran Hai Zahra.
 Tehreer Nabi Pak Hawaon Mein Ura Kar.
 Darbar Mein Fasiq Ne Kaha Taish Mein Aa Kar.
@@ -25,7 +25,7 @@ Iss Masla-e-Islam Se Anjan Hai Zahra.
 Bolay Yeh Ali Maula Zara Sharam Tu Khao.
 Makhdoma Konain Ko Mat Aisay Rulao.
 Farman-e-Muhammad Hai Meri Jan Hai Zahra.
-Pehlu Ke Waram BiBi Ko Soney Nahi Detey.
+Pehlu Ke Waram Bibi Ko Soney Nahi Detey.
 Ik Taraf Musalman Bhi Roney Nahi Detey.
 Ab Dunya Mein Kuch Roz Ki Mehman Hai Zahra.
 Khaliq Ne Tujhe Dehar Mein Sadiqa Banaya.

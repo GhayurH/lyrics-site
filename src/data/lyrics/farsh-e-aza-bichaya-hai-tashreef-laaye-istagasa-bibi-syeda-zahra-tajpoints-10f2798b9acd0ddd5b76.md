@@ -24,14 +24,14 @@ Mere Bhi Ghar Ko Noor Ka Markaz Banaiye.
 
 2
 Noha Unhein Sunaein Gay Aankhein Karein Gay Nam.
-Pursa Karein Gay BiBi Khadija Ko Paish Hum.
+Pursa Karein Gay Bibi Khadija Ko Paish Hum.
 Aye Bibi Apni Maa Ko Bhi Humrah Laiye.
 Main Hoon Ghareeb Mera Tu Koi Nahi Yahan.
 
 3
 Yeh Iltija Hai Aap Se Shehzadi-e-Jinna.
 Dam Bhar Ko Aa Ke Mera Bhi Rutba Barhaiye.
-BiBi Sakina Zainab-o-Kulsoom Sath Hoon.
+Bibi Sakina Zainab-o-Kulsoom Sath Hoon.
 Laila Hoon Sath Jab Sheh-e-Mazloom Sath Hoon.
 
 4

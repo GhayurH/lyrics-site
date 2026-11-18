@@ -25,7 +25,7 @@ Masoom Ke Galay Se Kar Paar Teer Dala.
 2
 Hathoon Pe Baba Jaan Ke Asghar Ko Cheer Wala.
 Ab Lash Be Khata Ki Nezay Pe Hai Uthani.
-Asghar Ki Qabar Pe Yeh BiBi Rubab Boli.
+Asghar Ki Qabar Pe Yeh Bibi Rubab Boli.
 Be Sheer Reh Gayi Hai Hasrat Meri Adhori.
 
 3
@@ -41,7 +41,7 @@ Asghar Ke Baad Kis Ko Lori Hai Ab Sonani.
 Shabbir Keh Rahe They Ab Dair Na Lagao.
 
 5
-Umm-e-Rubab BiBi Meri Madad Ko Aao.
+Umm-e-Rubab Bibi Meri Madad Ko Aao.
 Maqtal Mein Ladlay Ki Haye Qabar Hai Banani.
 Maa Boli Aab Ka Na Ran Mein Sawal Karna.
 Gar Teer Marey Zalim Gardan Ko Dhaal Karna.
@@ -50,4 +50,4 @@ Gar Teer Marey Zalim Gardan Ko Dhaal Karna.
 Khud Teer Kha Ke Rakhna Mehfooz Sheh Ka Jani.
 Sab Pursa Daar Mohsin Ro Ro Ke Keh Rahe Hain.
 Aal-e-Abba Ke Gham Mein Jo Ashk Beh Rahe Hain.
-Kar Lein Qabool BiBi Ashkon Ki Yeh Rawani.
+Kar Lein Qabool Bibi Ashkon Ki Yeh Rawani.

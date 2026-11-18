@@ -27,5 +27,5 @@ Zainab De Khaimay Wal Ghazi Rukh Kita Zeen Taun Lainr Welay.
 Oh Apnran Kaba Takda Hoya Dunya Taun Janra Chanda Aye.
 Assi Khadam Aan Oh Malik Ne Har Welay Dasda Rainda Si.
 Abbas Fazal Nu Lagda Aye Abbas Banaran Chanda Aye.
- Saqlain Furat Da Panri Nayi Haq Mehar-e-BiBi Zahra Aye.
+ Saqlain Furat Da Panri Nayi Haq Mehar-e-Bibi Zahra Aye.
 Aye Dig Na Jaway Rait Uttay Abbas Bacharan Chanda Aye.
