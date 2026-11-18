@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: true
 romanLyrics: |-
-  Haram ko le ke su-e-Shaam jab bari Zainab
+  Haram ko le ke su-e-Shaam jab barhi Zainab
   Kabhi Husain bani aur kabhi Ali Zainab
 
   1
@@ -65,7 +65,7 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=2913
 # raw_sha256: 6c13b18f9817aa7625aa60c6d2dc2f4b382c252f8e0f1e20f28f2ba54312d26c
 ---
-حرم کو لے کے سوئے شام جب بڑی زینب
+حرم کو لے کے سوئے شام جب بڑھی زینب
 کبھی حسین بنی اور کبھی علی زینب
 
 ۱
