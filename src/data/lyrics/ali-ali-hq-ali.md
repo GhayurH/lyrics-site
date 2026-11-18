@@ -4,7 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-tags: []
+tags: ["noRoman"]
 aliases: []
 published: false
 # source_id: ziyaraat:2b740597fa6dd51b4cf7

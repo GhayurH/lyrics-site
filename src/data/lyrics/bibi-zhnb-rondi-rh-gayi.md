@@ -1,5 +1,5 @@
 ---
-title: "بی‌بی زہنبؑ روندی رہ گئی"
+title: "بی‌بی زینبؑ روندی رہ گئی"
 language: "Urdu"
 lang: "ur"
 direction: "ltr"

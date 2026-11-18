@@ -7,72 +7,57 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Momino Haider e karrar ka matam karlo
-
+romanLyrics: |-
+  Momino Haider-e-Karrar ka maatam kar lo
+  Lo Muhammad ke alamdaar ka maatam kar lo
 
   1
-
-  Aur Muhammed ke alamdar ka matam karlo
-
-  Khaak urrao ke Ali sher e khuda maare gaye
-
-  Baazu e Ahmed-e-Mukhtar ka matam karlo
-
+  Khaak uraao ke Ali Sher-e-Khuda maare gaye
+  Baazu-e-Ahmad-e-Mukhtar ka maatam kar lo
 
   2
-
-  Jo ke panchon may bhi hai bara imamo bhi hai
-
-  Saare nabiyon ke madagaar ka matam karlo
-
+  Jis ke dar se na gaya khaali sawaali koi
+  Us sakhi saahib-e-kirdaar ka maatam kar lo
 
   3
-
-  Mil ke Jibreel ke ustad ka pursa dedo
-
-  Sahibe duldul o talwaar ka matam karlo
-
+  Jo ke chaudah meiṅ bhi haiṅ baarah imaamoṅ meiṅ bhi haiṅ
+  Saare nabiyoṅ ke madadgaar ka maatam kar lo
 
   4
-
-  Apne qaatil ko diya jisne ke jaame shireen
-
-  Saare nabiyon ke sardar ka matam karlo
-
+  Har wali kehta hai ye kar ke Ali ka maatam
+  Mere Aaqa mere Sarkaar ka maatam kar lo
 
   5
-
-  Shehr e Koofa ki hawa khak fiza roti hay
-
-  Lashkar e deen ke salar ka matam kar lo
-
+  Mil ke Jibrail ke ustaad ka pursa de do
+  Saahib-e-Duldul o talwaar ka maatam kar lo
 
   6
-
-  Jo Khuda ka hay wali aur wasi Ahmed ka
-
-  Haq ki jagir ke haqdar ka matam kar lo
-
+  Apne qaatil ko diya jis ne ke jaam-e-shirin
+  Saare waliyoṅ ke sardaar ka maatam kar lo
 
   7
-
-  Hay aza khana tera dil aey azadar e Ali
-
-  Lo Muhammad ke parastar ka matam kar lo
-
+  Wo jo Zahra ke janaaze pe raha mahv-e-fughaaṅ
+  Ae azaadaaro azaadaar ka maatam kar lo
 
   8
-
-  Wo jo Zehra ke janazay pe raha mehw e fughaan
-
-  Aey azadro azadar ka matam kar lo
-
+  Marte dam jis ko tha Zainab ki asiri ka khayaal
+  Aise mazlum hayaadaar ka maatam kar lo
 
   9
+  Shahr-e-Kufa ki hawa khaak fiza roti hai
+  Lashkar-e-din ke saalaar ka maatam kar lo
 
-  Martay dam jis ko tha Zainab ki aseeri ka khayal
+  10
+  Jo Khuda ka hai wali aur wasi Ahmad ka
+  Haq ki jaagir ke haqdaar ka maatam kar lo
 
-  Aisay mazloom hayadar ka matam kar lo'
+  11
+  Hai azaakhaana tera dil ae azaadaar-e-Ali
+  Lo Muhammad ke parastaar ka maatam kar lo
+
+  12
+  Kufa o Karb o Bala Shaam se aati hai sada
+  Ujre saadaat ke gulzaar ka maatam kar lo
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: ziyaraat:bff348936aca10e9140a
 # source_url: https://www.ziyaraat.net/api/noha/2792
@@ -82,40 +67,53 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # raw_sha256: c3965129c5d8036183b36920f0ce19bd0b1f5ed84925e38471c159e513d238fe
 ---
 
-مومنو حیدرِ کرارؑ کا ماتم کرلو
+مومنو حیدرِ کرارؑ کا ماتم کر لو
 لو محمدؐ کے علمدارؑ کا ماتم کر لو
-جو کے چودہ میں بھی ہے بارہ اماموں میں بھی ہے
-سارے نبیوں کے مددگار کا ماتم کر لو
-مومنو حیدرِ کرارؑ کا ماتم کرلو
 
 ۱
 خاک اُڑاؤ کہ علیؑ شیرِ خدا مارے گئے
 بازوئے احمدِ مختارؐ کا ماتم کر لو
 
 ۲
+جس کے در سے نہ گیا خالی سوالی کوئی
+اس سخی صاحبِ کردار کا ماتم کر لو
+
+۳
+جو کہ چودہ میں بھی ہے بارہ اماموں میں بھی ہے
+سارے نبیوں کے مددگار کا ماتم کر لو
+
+۴
+ہر ولی کہتا ہے یہ کر کے علیؑ کا ماتم
+میرے آقا میرے سرکار کا ماتم کر لو
+
+۵
 مل کے جبرئیل کے استاد کا پُرسہ دے دو
 صاحبِ دُلدُل و تلوار کا ماتم کر لو
 
-۳
+۶
 اپنے قاتل کو دیا جس نے کہ جامِ شیریں
-سارے ولیوں کــــــے سردار کا ماتم کر لو
+سارے ولیوں کے سردار کا ماتم کر لو
 
-۴
-وہ جو زہراؑ كے جنازے پہ رہا محو فغاں
+۷
+وہ جو زہراؑ کے جنازے پہ رہا محوِ فغاں
 اے عزادارو عزادار کا ماتم کر لو
 
-۵
+۸
 مرتے دم جس کو تھا زینبؑ کی اسیری کا خیال
 ایسے مظلوم حیادار کا ماتم کر لو
 
-۶
-شہر کوفہ کی ہوا خاک فضا روتی ہے
-لشکرِ دین كے سالار کا ماتم کر لو
+۹
+شہرِ کوفہ کی ہوا خاک فضا روتی ہے
+لشکرِ دین کے سالار کا ماتم کر لو
 
-۷
+۱۰
 جو خدا کا ہے ولی اور وصی احمدؐ کا
-حق کی جاگیر كے حقدار کا ماتم کر لو
+حق کی جاگیر کے حقدار کا ماتم کر لو
 
-۸
-ہے عزا خانہ تیرا دِل اے عزادارِ علیؑ
-لو محمدؐ كے پرِستار کا ماتم کر لو
+۱۱
+ہے عزا خانہ تیرا دل اے عزادارِ علیؑ
+لو محمدؐ کے پرستار کا ماتم کر لو
+
+۱۲
+کوفہ و کرب و بلا شام سے آتی ہے صدا
+اُجڑے سادات کے گلزار کا ماتم کر لو
