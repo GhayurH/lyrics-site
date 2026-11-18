@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mazhar Abidi"
-reciter: "Irfan Haider"
+reciter: ["Irfan Haider", "Anjuman Karwan-e-Aza (Irfan Haider)"]
 tags: []
 aliases: []
 published: true
