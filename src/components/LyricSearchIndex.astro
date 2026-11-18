@@ -1,7 +1,7 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import { getLyricKalamTypes, getLyricReciters } from "../lib/lyrics";
-import { searchIndexAliases } from "../lib/search-normalization";
+import { searchIndexAliases, searchExcerptLines } from "../lib/search-normalization";
 interface Props { lyric: CollectionEntry<"lyrics"> }
 const { lyric } = Astro.props as Props;
 const { data } = lyric;
@@ -18,7 +18,12 @@ const searchTerms = [
   ...categories,
   ...data.tags,
   ...data.aliases,
+  // Pagefind indexes metadata too. Keep spelling variants searchable without
+  // putting titles, aliases, and a second copy of the poem into excerpts.
+  searchIndexAliases([data.title, data.alternateTitle, data.romanLyrics, lyric.body].filter(Boolean).join(" ")),
 ].filter(Boolean).join(" ");
+const indexedBodyLines = searchExcerptLines(lyric.body, data.title);
+const indexedRomanLines = searchExcerptLines(data.romanLyrics, data.alternateTitle ?? data.title);
 ---
 <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
       <span data-pagefind-meta="searchTerms">{searchTerms}</span>
@@ -36,16 +41,13 @@ const searchTerms = [
       {data.tags.map((tag) => <span data-pagefind-filter="tag">{tag}</span>)}
     </div>
 
-    {/* Index only real poetry. Paragraphs keep distinct source lines apart
-        so Pagefind cannot join them into unreadable search excerpts. */}
+    {/* Index only verses, not titles/alternate titles/aliases already in
+        metadata. Separate lines make excerpts readable. */}
     <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
-      <p>{searchIndexAliases([data.title, data.alternateTitle, data.romanLyrics, lyric.body].filter(Boolean).join(" "))}</p>
-      <p>{data.title}</p>
-      {data.alternateTitle && <p>{data.alternateTitle}</p>}
-      {(lyric.body ?? "").split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
+      {indexedBodyLines.map((line) => (
         <p lang={data.lang} dir={data.direction}>{line}</p>
       ))}
-      {data.romanLyrics?.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
+      {indexedRomanLines.map((line) => (
         <p lang="en" dir="ltr">{line}</p>
       ))}
     </div>

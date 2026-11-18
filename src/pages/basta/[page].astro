@@ -17,7 +17,7 @@ import "../../styles/basta-shell.css";
 import "../../styles/basta-navigation.css";
 import "../../styles/basta-text.css";
 import "../../styles/corrections.css";
-import { searchIndexAliases } from "../../lib/search-normalization";
+import { searchIndexAliases, searchExcerptLines } from "../../lib/search-normalization";
 import { loadBastaKalamCatalog } from "../../lib/basta-kalam-data";
 import { bastaKalamId } from "../../lib/basta-kalam-units";
 import { unclaimedBastaPageText } from "../../lib/basta-search";
@@ -102,6 +102,16 @@ const bastaIndexSearchTerms = pageIndexEntries
   ])
   .filter(Boolean)
   .join(" ");
+const pageSearchTerms = [
+  bastaIndexSearchTerms,
+  searchIndexAliases([indexedUrdu, indexedRoman, bastaIndexSearchTerms].join(" ")),
+].filter(Boolean).join(" ");
+const indexedUrduLines = searchExcerptLines(
+  indexedUrdu, pageIndexEntries.length === 1 ? pageIndexEntries[0].name : undefined,
+);
+const indexedRomanLines = searchExcerptLines(
+  indexedRoman, pageIndexEntries.length === 1 ? pageIndexEntries[0].romanName : undefined,
+);
 const haalFilters = [
   ...new Set(
     pageIndexEntries
@@ -152,8 +162,8 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
           <span data-pagefind-filter="kalamType">{kalamType}</span>
         ))}
         <span data-pagefind-meta="page">{page}</span>
-        {bastaIndexSearchTerms && (
-          <span data-pagefind-meta="searchTerms">{bastaIndexSearchTerms}</span>
+        {pageSearchTerms && (
+          <span data-pagefind-meta="searchTerms">{pageSearchTerms}</span>
         )}
         {haalFilters.map((haal) => (
           <span data-pagefind-filter="haal">{haal}</span>
@@ -164,15 +174,10 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
     {/* Search-only source separates printed lines from reader controls,
         navigation, scans, and stanza buttons. */}
     {indexedPage && <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
-      <p>{searchIndexAliases([indexedUrdu, indexedRoman, bastaIndexSearchTerms].join(" "))}</p>
-      <p>Basta — Page {page}</p>
-      {pageIndexEntries.map((indexEntry) => (
-        <p>{indexEntry.romanName?.trim() || indexEntry.name}</p>
-      ))}
-      {indexedUrdu.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
+      {indexedUrduLines.map((line) => (
         <p lang="ur" dir="rtl">{line}</p>
       ))}
-      {indexedRoman.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
+      {indexedRomanLines.map((line) => (
         <p lang="en" dir="ltr">{line}</p>
       ))}
     </div>}

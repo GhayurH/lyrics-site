@@ -32,3 +32,14 @@ export function searchIndexAliases(source: string): string {
   }
   return [...aliases].join(" ");
 }
+
+// Keep titles searchable as metadata, but don't repeat an opening line that
+// already appears as the result title or alternate title in the excerpt.
+// Only drop the *first* identical line; later repetitions can be real poetry.
+export function searchExcerptLines(source: string | undefined, title: string | undefined): string[] {
+  const lines = (source ?? "").split(/\r?\n/u).map((line) => line.trim()).filter(Boolean);
+  const normalizedTitle = title?.trim().normalize("NFKC").toLocaleLowerCase();
+  if (normalizedTitle && lines[0]?.normalize("NFKC").toLocaleLowerCase() === normalizedTitle)
+    lines.shift();
+  return lines;
+}
