@@ -7,7 +7,7 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
-tags: ["fixme"]
+tags: []
 aliases: []
 published: true
 romanLyrics: |-
