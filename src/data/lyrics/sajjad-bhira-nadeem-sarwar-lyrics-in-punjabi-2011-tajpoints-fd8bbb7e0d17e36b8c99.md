@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Bhira Nadeem Sarwar Lyrics In Punjabi 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fd8bbb7e0d17e36b8c99

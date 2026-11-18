@@ -1,10 +1,10 @@
 ---
 title: "Kabhi To Raaz Khulega Ya Ali Ya Fatima Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:23bef7d29d53730300f7

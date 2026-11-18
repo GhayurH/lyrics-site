@@ -1,10 +1,10 @@
 ---
 title: "Bol Rahi Hai Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9000d90a96cb99dd8bcc

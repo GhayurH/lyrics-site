@@ -1,11 +1,11 @@
 ---
 title: "Amma Tedi Qabar Te Zainab Ujar Ke Aa Gayi Mir Hasan Mir Lyrics Saraiki 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Maqsood"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:74000ce121295be66b1f

@@ -1,11 +1,11 @@
 ---
 title: "Mazlomiyat Ka Kaba Janaza Raza Ka Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nisar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2c91c6057ce043a8784b

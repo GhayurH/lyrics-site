@@ -1,10 +1,10 @@
 ---
 title: "گونجی بوقتِ عصر صدا میں حسینؑ ہوں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ac59907de339efb37f4f

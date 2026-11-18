@@ -1,10 +1,10 @@
 ---
 title: "Bholay Nahi They Nohay Mazloom-e-Karbala Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2135fa8520656008db87

@@ -1,11 +1,11 @@
 ---
 title: "Saah Aanday Nayi Par Zahra Di Ahiyaan Choon Athro Aanday Ne Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eb231e3f6f15dcaa7390

@@ -1,11 +1,11 @@
 ---
 title: "Jalal-e-Rab-e-Aula Hai Hussain Ka Ghazi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f027d04b5b9625c075d6

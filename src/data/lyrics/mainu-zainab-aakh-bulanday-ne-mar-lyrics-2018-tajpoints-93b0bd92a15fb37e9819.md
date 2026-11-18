@@ -1,6 +1,6 @@
 ---
 title: "Mainu Zainab Aakh Bulanday Ne Mar Jawaan Gi Veera"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

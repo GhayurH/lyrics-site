@@ -1,11 +1,11 @@
 ---
 title: "Yehi Ik Naam Hai Sacha Ali Mola"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e7999587e4b76efd111a

@@ -1,11 +1,11 @@
 ---
 title: "Madine Ki Fizaon Mein Dar-e-Haider"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a78c95d4adc33e8a5dfc

@@ -1,6 +1,6 @@
 ---
 title: "Enj Maa Nay Vaikheya Asghar Nu Shabeer Di Jholi Paa Kay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

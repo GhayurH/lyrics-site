@@ -1,11 +1,11 @@
 ---
 title: "Sakhi Abbas Alamdar Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 ---

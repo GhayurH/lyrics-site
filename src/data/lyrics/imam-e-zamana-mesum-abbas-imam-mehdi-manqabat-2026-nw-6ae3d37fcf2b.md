@@ -1,6 +1,6 @@
 ---
 title: "Imam e Zamana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

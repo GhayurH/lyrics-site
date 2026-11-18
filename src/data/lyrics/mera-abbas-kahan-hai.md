@@ -1,10 +1,10 @@
 ---
 title: "میرا عباسؑ کہاں ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:78f10b706279cee49c33

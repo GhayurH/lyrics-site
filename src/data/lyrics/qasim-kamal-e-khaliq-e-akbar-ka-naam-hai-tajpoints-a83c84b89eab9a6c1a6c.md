@@ -1,11 +1,11 @@
 ---
 title: "Qasim Kamal E Khaliq E Akbar Ka Naam Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a83c84b89eab9a6c1a6c

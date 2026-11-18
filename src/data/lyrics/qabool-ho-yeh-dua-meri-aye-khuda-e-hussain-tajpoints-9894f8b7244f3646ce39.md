@@ -1,11 +1,11 @@
 ---
 title: "Qabool Ho Yeh Dua Meri Aye Khuda-e-Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Alam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9894f8b7244f3646ce39

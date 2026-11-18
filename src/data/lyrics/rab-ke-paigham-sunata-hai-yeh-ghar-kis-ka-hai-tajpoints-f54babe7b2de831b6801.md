@@ -1,11 +1,11 @@
 ---
 title: "Rab Ke Paigham Sunata Hai Yeh Ghar Kis Ka Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f54babe7b2de831b6801

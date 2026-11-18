@@ -1,10 +1,10 @@
 ---
 title: "میرے غازی جری تیری کیا بات ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:43607215aa5695dfc0d1

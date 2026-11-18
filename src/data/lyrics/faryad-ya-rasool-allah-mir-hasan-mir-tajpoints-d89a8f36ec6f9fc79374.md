@@ -1,10 +1,10 @@
 ---
 title: "Faryad Ya Rasool Allah Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d89a8f36ec6f9fc79374

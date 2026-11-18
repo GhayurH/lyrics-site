@@ -1,11 +1,11 @@
 ---
 title: "Faryad-e-Atash Lab Pe Kabhi Laye Sakina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saifi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:06569d53398e81670291

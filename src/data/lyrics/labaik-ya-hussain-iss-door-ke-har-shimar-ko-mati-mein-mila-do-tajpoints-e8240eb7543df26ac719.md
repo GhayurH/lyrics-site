@@ -1,11 +1,11 @@
 ---
 title: "Labaik Ya Hussain Iss Door Ke Har Shimar Ko Mati Mein Mila Do"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e8240eb7543df26ac719

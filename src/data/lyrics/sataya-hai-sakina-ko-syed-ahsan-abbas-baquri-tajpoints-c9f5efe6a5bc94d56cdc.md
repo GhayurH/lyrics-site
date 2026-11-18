@@ -1,11 +1,11 @@
 ---
 title: "Sataya Hai Sakina Ko Syed Ahsan Abbas Baquri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c9f5efe6a5bc94d56cdc

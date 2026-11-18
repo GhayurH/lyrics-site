@@ -1,11 +1,11 @@
 ---
 title: "Qatra Qatra Aik Hai Askari Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Bilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4c06aefe24f9a894ed2c

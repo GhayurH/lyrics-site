@@ -1,11 +1,11 @@
 ---
 title: "Mera Mulk-e-Pakistan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:49baa59fa05b59750223

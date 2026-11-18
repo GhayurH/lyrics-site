@@ -1,6 +1,6 @@
 ---
 title: "Hur Ne Pehle Niyat Bandhi Khaime KI Zawwari Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

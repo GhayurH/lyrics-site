@@ -1,11 +1,11 @@
 ---
 title: "Aaqa Aa Jaiye Shahid Ali Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aqeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:494159eb68345105949c

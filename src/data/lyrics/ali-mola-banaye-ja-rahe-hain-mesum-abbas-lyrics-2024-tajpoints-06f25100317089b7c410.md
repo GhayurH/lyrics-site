@@ -1,11 +1,11 @@
 ---
 title: "Ali Mola Banaye Ja Rahe Hain Mesum Abbas Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:06f25100317089b7c410

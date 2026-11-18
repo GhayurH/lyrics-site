@@ -1,6 +1,6 @@
 ---
 title: "Haye Sayyeda Zainab, Jaane Karbala Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Sahib Ul Asr Mukhtar Hussain Fatehpuri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:72cd9596e69b717380a3

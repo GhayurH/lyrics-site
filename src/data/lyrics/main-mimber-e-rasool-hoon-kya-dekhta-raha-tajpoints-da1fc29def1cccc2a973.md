@@ -1,11 +1,11 @@
 ---
 title: "Main Mimber E Rasool Hoon Kya Dekhta Raha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:da1fc29def1cccc2a973

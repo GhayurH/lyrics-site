@@ -1,11 +1,11 @@
 ---
 title: "Zainab Ke Sar Se Utha Mula Ali Ka Saya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:def3a989fb94b3214fc3

@@ -1,10 +1,10 @@
 ---
 title: "جب غم شبیرؑ میں سب مبتلا ہو جائیں گے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:82ffdb78a65c693caad5

@@ -1,10 +1,10 @@
 ---
 title: "Hukam E Shabbir Se Jo Zabt Ki Dewar Howa Hasan Sadiq Lyrics 2002"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2dadf44e376091a20ab1

@@ -1,11 +1,11 @@
 ---
 title: "Ghadeer-e-Khum Ali Raza Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:62a43e5399148eeabf04

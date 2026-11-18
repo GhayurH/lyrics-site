@@ -1,10 +1,10 @@
 ---
 title: "Zakhmi Hain Ali Maula"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8d46a0c905d072fd3d74

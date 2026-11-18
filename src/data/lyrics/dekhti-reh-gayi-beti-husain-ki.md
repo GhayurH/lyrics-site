@@ -1,10 +1,10 @@
 ---
 title: "دیکھتی رہ گئی بیٹی حسینؑ کی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1fffc41b4e9a4d0e0e1c

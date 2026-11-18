@@ -1,6 +1,6 @@
 ---
 title: "Zainab Hain Safaar Main, Hy Khaq Hai Saar Main"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Hoiyaan Qaidi Chadraan Lay Gayiyaan Aa Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5c8e27eed7e33a2eea91

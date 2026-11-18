@@ -1,11 +1,11 @@
 ---
 title: "Roshni Ko Hussain Kehte Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:78736727dd648e71300e

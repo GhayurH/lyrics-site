@@ -1,6 +1,6 @@
 ---
 title: "Aayi Darbaar Ch Jis Velay Sain Babay Di Sanad Chakay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Hassan De Jigar Da Tukra Faheem Ali Lyrics In Saraiki 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bahlool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:959e30ac7d3040eb7057

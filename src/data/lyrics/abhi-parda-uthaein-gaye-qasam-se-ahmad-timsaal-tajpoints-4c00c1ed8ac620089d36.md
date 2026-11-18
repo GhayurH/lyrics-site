@@ -1,11 +1,11 @@
 ---
 title: "Abhi Parda Uthaein Gaye Qasam Se Ahmad Timsaal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4c00c1ed8ac620089d36

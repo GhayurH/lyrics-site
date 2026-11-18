@@ -1,11 +1,11 @@
 ---
 title: "شبیہہِ امامِ زماں کھینچتے ہیں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Meer Hasan Meer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:f8da6564bfef728bad7f

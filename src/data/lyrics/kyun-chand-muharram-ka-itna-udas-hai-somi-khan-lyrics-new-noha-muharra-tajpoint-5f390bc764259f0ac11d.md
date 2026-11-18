@@ -1,11 +1,11 @@
 ---
 title: "Kyun Chand Muharram Ka Itna Udas Hai Somi Khan Lyrics New Noha Muharram 2025 Chand Raat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:5f390bc764259f0ac11d

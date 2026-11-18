@@ -1,11 +1,11 @@
 ---
 title: "Dekho Utha Hai Dahar Se Jafar Ka Janaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e30567403bd60a69ecba

@@ -1,11 +1,11 @@
 ---
 title: "Chupa Kay Roti Hain Rizwan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0432c860451fb97f97fc

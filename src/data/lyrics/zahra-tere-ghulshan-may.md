@@ -1,6 +1,6 @@
 ---
 title: "Zahra Tayray Ghulshan May, Ab Kehsay Baharaay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

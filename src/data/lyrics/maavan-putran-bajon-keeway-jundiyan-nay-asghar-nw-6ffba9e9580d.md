@@ -1,6 +1,6 @@
 ---
 title: "Maavan Putran Bajon Keeway Jundiyan Nay Asghar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

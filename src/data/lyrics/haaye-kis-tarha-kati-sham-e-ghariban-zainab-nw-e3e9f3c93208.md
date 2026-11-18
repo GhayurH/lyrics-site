@@ -1,7 +1,7 @@
 ---
 title: "ہائے کس طرح کٹی شامِ غریباں زینب"
 alternateTitle: "Haye Kis Tarha Kati Shaam-e-Gharibaaṅ Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

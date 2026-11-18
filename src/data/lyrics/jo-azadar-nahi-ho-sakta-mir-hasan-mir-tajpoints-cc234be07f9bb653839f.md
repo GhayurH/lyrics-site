@@ -1,11 +1,11 @@
 ---
 title: "Jo Azadar Nahi Ho Sakta Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cc234be07f9bb653839f

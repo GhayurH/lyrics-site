@@ -1,11 +1,11 @@
 ---
 title: "Mola Raza Ke Baba Mohammed Abbas Karim"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Karim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3fcd2d086ec89eb3d106

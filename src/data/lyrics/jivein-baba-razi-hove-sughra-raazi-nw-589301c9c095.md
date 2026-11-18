@@ -1,6 +1,6 @@
 ---
 title: "Jivein Baba Razi, Hove Sughra Raazi,"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

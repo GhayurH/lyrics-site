@@ -1,11 +1,11 @@
 ---
 title: "توں رَت رونا جے چھڈ دیویں - سجادؑ سجادؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:9c27f6310e66ea99f821

@@ -1,11 +1,11 @@
 ---
 title: "Murtaza Mil Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:106e1313ec628ed363a4

@@ -1,11 +1,11 @@
 ---
 title: "Ya Elahi Khair Kar Syed Kazim Hussain Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kazim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:840bee0f9bdc5ceedc7b

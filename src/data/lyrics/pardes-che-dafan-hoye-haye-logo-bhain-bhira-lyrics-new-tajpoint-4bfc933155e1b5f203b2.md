@@ -1,10 +1,10 @@
 ---
 title: "Pardes Che Dafan Hoye Haye Logo Bhain Bhira Lyrics New"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:4bfc933155e1b5f203b2

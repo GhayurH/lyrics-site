@@ -1,6 +1,6 @@
 ---
 title: "Aye Maula Raza Maula Raza Shah e Khorasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

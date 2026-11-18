@@ -1,11 +1,11 @@
 ---
 title: "Mar Jandi Tere Naal Bhira Bemar Nu Kon Bachanda Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3a0260bf54f52d36d706

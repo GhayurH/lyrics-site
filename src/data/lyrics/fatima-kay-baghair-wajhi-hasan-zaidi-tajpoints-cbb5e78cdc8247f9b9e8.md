@@ -1,11 +1,11 @@
 ---
 title: "Fatima Kay Baghair Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cbb5e78cdc8247f9b9e8

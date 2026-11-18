@@ -1,11 +1,11 @@
 ---
 title: "Gham Shah-e-Shahedaan Ka Manana Hi Parey Ga Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:db928d8f72a3baa6b938

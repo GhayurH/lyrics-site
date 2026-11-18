@@ -1,11 +1,11 @@
 ---
 title: "Karbala Se Jo Kabi Ho Ke Hawa Aati Hai Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shaheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0bf502f55b54fdf1711a

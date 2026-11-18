@@ -1,6 +1,6 @@
 ---
 title: "Aalamo Masaib May Giraftar Hai Sughra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

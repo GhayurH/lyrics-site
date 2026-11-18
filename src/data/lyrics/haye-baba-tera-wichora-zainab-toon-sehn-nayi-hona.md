@@ -1,6 +1,6 @@
 ---
 title: "Haye Baba Tera Wichora Zainab Toon Sehn Nayi Hona"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

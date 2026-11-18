@@ -1,6 +1,6 @@
 ---
 title: "Hur Zara Pehchaan Mujhko Bolta Quran Hun Main"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Yeh Ghar Zahra Ka Hai Rajab Ali Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a148b7de6618718872ce

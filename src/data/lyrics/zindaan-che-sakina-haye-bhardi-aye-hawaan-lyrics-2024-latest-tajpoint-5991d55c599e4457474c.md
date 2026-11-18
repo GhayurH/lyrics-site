@@ -1,11 +1,11 @@
 ---
 title: "Zindaan Che Sakina Haye Bhardi Aye Hawaan Lyrics 2024 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:5991d55c599e4457474c

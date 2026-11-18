@@ -1,10 +1,10 @@
 ---
 title: "Wawaila Haye Wa Waila Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0e368209057a8166e381

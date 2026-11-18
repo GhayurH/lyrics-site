@@ -1,11 +1,11 @@
 ---
 title: "Nana Tere Hasnain Hain Hum"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f8d59bc51ce20222d541

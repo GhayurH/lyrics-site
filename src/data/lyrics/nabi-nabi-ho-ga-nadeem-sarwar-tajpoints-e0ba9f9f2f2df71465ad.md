@@ -1,11 +1,11 @@
 ---
 title: "Nabi Nabi Ho Ga Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e0ba9f9f2f2df71465ad

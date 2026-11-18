@@ -1,11 +1,11 @@
 ---
 title: "Umm E Laila Sanbhal Zainab Ko Mir Hasan Lyrics 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8a6eb580722cd0e45fd2

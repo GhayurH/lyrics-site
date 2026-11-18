@@ -1,11 +1,11 @@
 ---
 title: "Aankhon Mein Dil Liye Howay Sarkar Raat Din"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c00f5236ca6b76a688f8

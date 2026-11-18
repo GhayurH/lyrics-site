@@ -1,11 +1,11 @@
 ---
 title: "Saqi-e-Kausar Ne Ki Aisi Pazeerai Ke Bas Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sarosh"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:024539afdb4306f1348e

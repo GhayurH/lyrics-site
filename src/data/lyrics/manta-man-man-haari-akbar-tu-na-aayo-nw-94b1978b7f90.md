@@ -1,6 +1,6 @@
 ---
 title: "Manta Man Man Haari Akbar Tu Na Aayo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

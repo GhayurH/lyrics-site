@@ -1,11 +1,11 @@
 ---
 title: "Gham E Hussain Anjuman E Dar E Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Fazal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d537c36b8c9911f9d260

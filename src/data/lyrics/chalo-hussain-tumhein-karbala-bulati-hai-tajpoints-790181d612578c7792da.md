@@ -1,11 +1,11 @@
 ---
 title: "Chalo Hussain Tumhein Karbala Bulati Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naveed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:790181d612578c7792da

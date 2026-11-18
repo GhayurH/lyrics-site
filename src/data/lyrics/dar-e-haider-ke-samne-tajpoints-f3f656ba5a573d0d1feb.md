@@ -1,11 +1,11 @@
 ---
 title: "Dar E Haider Ke Samne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f3f656ba5a573d0d1feb

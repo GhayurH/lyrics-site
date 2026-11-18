@@ -1,6 +1,6 @@
 ---
 title: "Afsos Ravayga Behna Nu, Teri Qabr Bana Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

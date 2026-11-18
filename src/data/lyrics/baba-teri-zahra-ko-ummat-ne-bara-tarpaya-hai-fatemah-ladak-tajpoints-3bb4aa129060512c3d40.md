@@ -1,11 +1,11 @@
 ---
 title: "Baba Teri Zahra Ko Ummat Ne Bara Tarpaya Hai Fatemah Ladak"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3bb4aa129060512c3d40

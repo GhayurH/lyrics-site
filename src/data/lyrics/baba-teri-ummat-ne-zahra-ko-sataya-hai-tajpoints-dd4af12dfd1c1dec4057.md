@@ -1,11 +1,11 @@
 ---
 title: "Baba Teri Ummat Ne Zahra Ko Sataya Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dd4af12dfd1c1dec4057

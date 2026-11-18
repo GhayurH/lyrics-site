@@ -1,11 +1,11 @@
 ---
 title: "Dar Gira Kaise Gira Kyun Syeda Roti Rahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3e83da7ead98e6e259e2

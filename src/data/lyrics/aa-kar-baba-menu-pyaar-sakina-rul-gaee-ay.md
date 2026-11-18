@@ -1,6 +1,6 @@
 ---
 title: "Aa Kar Baba Menu Pyaar, Sakina Rul Gaee Ay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

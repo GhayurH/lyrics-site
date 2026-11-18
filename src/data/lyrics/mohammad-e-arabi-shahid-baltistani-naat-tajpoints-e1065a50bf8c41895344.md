@@ -1,11 +1,11 @@
 ---
 title: "Mohammad E Arabi Shahid Baltistani Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Aasi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e1065a50bf8c41895344

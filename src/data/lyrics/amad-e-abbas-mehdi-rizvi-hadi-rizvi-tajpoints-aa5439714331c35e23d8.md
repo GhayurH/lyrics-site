@@ -1,11 +1,11 @@
 ---
 title: "Amad E Abbas Mehdi Rizvi Hadi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aa5439714331c35e23d8

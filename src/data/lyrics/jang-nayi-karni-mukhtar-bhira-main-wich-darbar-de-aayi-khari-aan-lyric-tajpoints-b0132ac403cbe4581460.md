@@ -1,11 +1,11 @@
 ---
 title: "Jang Nayi Karni Mukhtar Bhira Main Wich Darbar De Aayi Khari Aan Lyrics In Saraiki 2008"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b0132ac403cbe4581460

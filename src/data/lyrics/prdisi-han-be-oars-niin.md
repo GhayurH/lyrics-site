@@ -1,10 +1,10 @@
 ---
 title: "پردیسی ہاں بے وارث نئیں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cb6a64c0c2c41f58a0fd

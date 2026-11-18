@@ -1,11 +1,11 @@
 ---
 title: "Karam Ki Jisy Inteha Bolte Hain Sonu Monu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Arsalan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0c5b03c9d27d734a8d59

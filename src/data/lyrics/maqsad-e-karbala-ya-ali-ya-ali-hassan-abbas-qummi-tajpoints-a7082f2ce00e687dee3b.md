@@ -1,11 +1,11 @@
 ---
 title: "Maqsad-e-Karbala Ya Ali Ya Ali Hassan Abbas Qummi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a7082f2ce00e687dee3b

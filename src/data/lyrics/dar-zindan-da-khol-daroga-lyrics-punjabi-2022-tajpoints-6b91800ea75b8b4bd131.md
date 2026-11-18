@@ -1,11 +1,11 @@
 ---
 title: "Dar Zindan Da Khol Daroga Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6b91800ea75b8b4bd131

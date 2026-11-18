@@ -1,6 +1,6 @@
 ---
 title: "Abhi Chehra Kafan Mai Mat Chupao"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

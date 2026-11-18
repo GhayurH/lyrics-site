@@ -1,11 +1,11 @@
 ---
 title: "Aay Zair E Hussain Syed Ali Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naqsh"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f0dad30e9f9b8a796437

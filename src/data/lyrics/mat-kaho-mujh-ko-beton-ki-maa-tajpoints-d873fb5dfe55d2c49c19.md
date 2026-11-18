@@ -1,11 +1,11 @@
 ---
 title: "Mat Kaho Mujh Ko Beton Ki Maa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d873fb5dfe55d2c49c19

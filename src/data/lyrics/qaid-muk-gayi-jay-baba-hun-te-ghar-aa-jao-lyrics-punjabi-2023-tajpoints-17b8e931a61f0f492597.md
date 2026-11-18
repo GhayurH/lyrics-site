@@ -1,11 +1,11 @@
 ---
 title: "Qaid Muk Gayi Jay Baba Hun Te Ghar Aa Jao Lyrics Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:17b8e931a61f0f492597

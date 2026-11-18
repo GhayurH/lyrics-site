@@ -1,10 +1,10 @@
 ---
 title: "اِک بار مجھے بابا کا دیدار کرا دو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:782cb9c33f6fc03bc824

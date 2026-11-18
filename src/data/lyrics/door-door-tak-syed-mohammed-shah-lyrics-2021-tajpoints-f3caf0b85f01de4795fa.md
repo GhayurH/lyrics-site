@@ -1,11 +1,11 @@
 ---
 title: "Door Door Tak Syed Mohammed Shah Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f3caf0b85f01de4795fa

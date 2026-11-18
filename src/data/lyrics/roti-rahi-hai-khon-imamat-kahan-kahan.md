@@ -1,6 +1,6 @@
 ---
 title: "Roti Rahi Hai Khon Imamat Kahan Kahan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

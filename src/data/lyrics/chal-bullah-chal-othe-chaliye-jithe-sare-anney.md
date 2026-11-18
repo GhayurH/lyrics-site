@@ -1,6 +1,6 @@
 ---
 title: "Chal Bullah Chal Othe Chaliye Jithe Sare Anney"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

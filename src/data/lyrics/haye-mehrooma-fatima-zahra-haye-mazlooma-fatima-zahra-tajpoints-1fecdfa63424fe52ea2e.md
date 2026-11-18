@@ -1,11 +1,11 @@
 ---
 title: "Haye Mehrooma Fatima Zahra Haye Mazlooma Fatima Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1fecdfa63424fe52ea2e

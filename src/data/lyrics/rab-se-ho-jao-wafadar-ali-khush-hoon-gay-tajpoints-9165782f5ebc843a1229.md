@@ -1,11 +1,11 @@
 ---
 title: "Rab Se Ho Jao Wafadar Ali Khush Hoon Gay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9165782f5ebc843a1229

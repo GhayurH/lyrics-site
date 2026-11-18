@@ -1,11 +1,11 @@
 ---
 title: "Mitti Madinay Ki Mukhtar Hussain Fatehpuri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sarosh"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4d6dcdcc1492c21086eb

@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Ne Ro Faryad Kiti Haye Ainj Da Waqt Na Aaye Lyrics Punjabi 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:813b4ebabddd24e2b693

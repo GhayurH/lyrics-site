@@ -1,10 +1,10 @@
 ---
 title: "پیارے نبیؐ کی پیاری نواسی شام کو قیدی بن کئے چلی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:db356a1553e6d86a2b35

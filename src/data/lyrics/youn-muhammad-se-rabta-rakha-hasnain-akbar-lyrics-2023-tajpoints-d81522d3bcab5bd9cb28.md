@@ -1,11 +1,11 @@
 ---
 title: "Youn Muhammad Se Rabta Rakha Hasnain Akbar Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d81522d3bcab5bd9cb28

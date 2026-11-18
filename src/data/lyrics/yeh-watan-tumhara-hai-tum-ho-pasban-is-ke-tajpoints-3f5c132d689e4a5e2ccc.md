@@ -1,10 +1,10 @@
 ---
 title: "Yeh Watan Tumhara Hai Tum Ho Pasban Is Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3f5c132d689e4a5e2ccc

@@ -1,11 +1,11 @@
 ---
 title: "Na Bholay Na Bholay Shabbir Nahi Bholay Nadeem Sarwar Lyrics 1998"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f601548fea2dc5f3c023

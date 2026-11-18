@@ -1,10 +1,10 @@
 ---
 title: "Rehti Hain Ibadat Mein Azadar Ki Sansein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c3756cef9a2955e20146

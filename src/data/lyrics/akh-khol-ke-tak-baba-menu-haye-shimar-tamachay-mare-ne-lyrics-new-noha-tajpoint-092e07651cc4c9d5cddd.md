@@ -1,11 +1,11 @@
 ---
 title: "Akh Khol Ke Tak Baba Menu Haye Shimar Tamachay Mare Ne Lyrics New Noha 13 Safar 2025 |Sirat Ul Jannah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:092e07651cc4c9d5cddd

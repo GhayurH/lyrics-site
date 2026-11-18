@@ -1,11 +1,11 @@
 ---
 title: "Alajal Ya Imam E Zamana Askari Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2e956ab6cece6fd8644e

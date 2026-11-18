@@ -1,11 +1,11 @@
 ---
 title: "Aye Chand Muharram Ke Aana Na Madine Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:13d319502b63c5bece7e

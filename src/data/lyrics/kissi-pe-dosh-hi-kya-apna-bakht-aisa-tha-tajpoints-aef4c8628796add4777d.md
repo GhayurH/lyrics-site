@@ -1,11 +1,11 @@
 ---
 title: "Kissi Pe Dosh Hi Kya Apna Bakht Aisa Tha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aef4c8628796add4777d

@@ -1,6 +1,6 @@
 ---
 title: "Nana Tere Wasday Shehar Wichon Shabir Musafir Chaliya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

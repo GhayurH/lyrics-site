@@ -1,11 +1,11 @@
 ---
 title: "Sadaat Ka Howa Hai Muqadar Laho Laho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bahlool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6f74f483332c28d9d725

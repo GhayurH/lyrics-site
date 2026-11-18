@@ -1,11 +1,11 @@
 ---
 title: "Zanjeer Roye Zindan Roya Kazmi Brothers Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Imran"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a729c7b2e13e9b407f4e

@@ -1,6 +1,6 @@
 ---
 title: "Nanhi Zahra Hun Zara Samjho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

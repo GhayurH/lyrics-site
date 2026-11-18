@@ -1,11 +1,11 @@
 ---
 title: "Tere Shagna Te Wain Painday Ne Teri Mehndi Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f7dd0644890bed57753b

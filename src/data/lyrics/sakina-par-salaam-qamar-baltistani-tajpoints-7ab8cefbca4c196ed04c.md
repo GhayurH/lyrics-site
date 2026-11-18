@@ -1,11 +1,11 @@
 ---
 title: "Sakina Par Salaam Qamar Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Fazil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7ab8cefbca4c196ed04c

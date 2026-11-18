@@ -1,11 +1,11 @@
 ---
 title: "Sar Jhukate Nahi Katate Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Qabil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:61e151d5818442e51e91

@@ -1,6 +1,6 @@
 ---
 title: "Ummat Nay Vich Sajday Day, Tawheed Tay Vaar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

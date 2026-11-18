@@ -1,11 +1,11 @@
 ---
 title: "Nana Sughra Nu Raindiyaan Ne Tangaan Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:05fc7f3c249d052d7811

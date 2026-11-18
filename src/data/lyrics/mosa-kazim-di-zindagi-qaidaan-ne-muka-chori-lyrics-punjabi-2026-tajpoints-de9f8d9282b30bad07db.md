@@ -1,11 +1,11 @@
 ---
 title: "Mosa Kazim Di Zindagi Qaidaan Ne Muka Chori Lyrics Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Basharat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:de9f8d9282b30bad07db

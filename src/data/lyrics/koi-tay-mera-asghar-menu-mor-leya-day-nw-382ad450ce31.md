@@ -1,6 +1,6 @@
 ---
 title: "Koi Tay Mera Asghar Menu Mor Leya Day"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

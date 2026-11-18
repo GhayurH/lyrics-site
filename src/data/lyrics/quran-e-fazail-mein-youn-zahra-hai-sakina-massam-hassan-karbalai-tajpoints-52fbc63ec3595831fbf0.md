@@ -1,11 +1,11 @@
 ---
 title: "Quran-e-Fazail Mein Youn Zahra Hai Sakina Massam Hassan Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Faizan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:52fbc63ec3595831fbf0

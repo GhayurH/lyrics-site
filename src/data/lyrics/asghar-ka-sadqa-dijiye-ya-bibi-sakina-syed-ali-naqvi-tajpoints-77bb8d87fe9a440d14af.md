@@ -1,11 +1,11 @@
 ---
 title: "Asghar Ka Sadqa Dijiye Ya Bibi Sakina Syed Ali Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:77bb8d87fe9a440d14af

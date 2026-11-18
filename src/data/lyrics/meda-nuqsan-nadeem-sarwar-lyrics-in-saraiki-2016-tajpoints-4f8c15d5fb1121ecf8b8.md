@@ -1,10 +1,10 @@
 ---
 title: "Meda Nuqsan Nadeem Sarwar Lyrics In Saraiki 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4f8c15d5fb1121ecf8b8

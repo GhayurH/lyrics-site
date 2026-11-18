@@ -1,6 +1,6 @@
 ---
 title: "Kehtay Thay Run Mein Sarwar Maara Gaya Birader"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Ya Hussain Tu Be Misaal Hai Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:66efa9df40eb604a3283

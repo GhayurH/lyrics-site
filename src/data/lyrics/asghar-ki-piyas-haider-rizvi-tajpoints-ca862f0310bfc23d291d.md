@@ -1,11 +1,11 @@
 ---
 title: "Asghar Ki Piyas Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kazim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ca862f0310bfc23d291d

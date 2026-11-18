@@ -1,6 +1,6 @@
 ---
 title: "Faras Ki Zeen Se Beshak Utar Gaye Haiṅ Husain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,10 +1,10 @@
 ---
 title: "میں بھائی بھائی کرتی تھی لاشہ بہن بہن"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5f1f2c907eabad1922a0

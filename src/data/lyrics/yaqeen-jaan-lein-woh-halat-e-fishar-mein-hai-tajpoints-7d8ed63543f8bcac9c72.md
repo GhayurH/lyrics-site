@@ -1,11 +1,11 @@
 ---
 title: "Yaqeen Jaan Lein Woh Halat-e-Fishar Mein Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7d8ed63543f8bcac9c72

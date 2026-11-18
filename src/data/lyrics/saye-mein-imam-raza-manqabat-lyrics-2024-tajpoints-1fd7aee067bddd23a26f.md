@@ -1,11 +1,11 @@
 ---
 title: "Saye Mein Imam Raza Manqabat Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1fd7aee067bddd23a26f

@@ -1,6 +1,6 @@
 ---
 title: "Mukiyan Na Udeekan Akbar Day Vichoray Sughara Nu Mukaya Ay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

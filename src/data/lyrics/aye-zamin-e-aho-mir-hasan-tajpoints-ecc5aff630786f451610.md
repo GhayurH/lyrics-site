@@ -1,11 +1,11 @@
 ---
 title: "Aye Zamin E Aho Mir Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ecc5aff630786f451610

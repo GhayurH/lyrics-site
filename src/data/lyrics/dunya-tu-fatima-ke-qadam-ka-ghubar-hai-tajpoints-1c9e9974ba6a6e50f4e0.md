@@ -1,11 +1,11 @@
 ---
 title: "Dunya Tu Fatima Ke Qadam Ka Ghubar Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Najam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1c9e9974ba6a6e50f4e0

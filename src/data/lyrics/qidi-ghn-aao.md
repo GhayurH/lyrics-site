@@ -1,11 +1,11 @@
 ---
 title: "قیدی گھن آؤ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Aseer-e-Baghdad (Multan Party)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:80adcdf56bbdc9eff53d

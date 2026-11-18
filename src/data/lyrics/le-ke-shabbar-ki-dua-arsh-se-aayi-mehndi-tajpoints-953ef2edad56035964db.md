@@ -1,11 +1,11 @@
 ---
 title: "Le Ke Shabbar Ki Dua Arsh Se Aayi Mehndi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:953ef2edad56035964db

@@ -1,11 +1,11 @@
 ---
 title: "Bheer Barhti Ja Rahi Hai Sham Ke Bazar Ki Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:23ec3ce903b1b170f23e

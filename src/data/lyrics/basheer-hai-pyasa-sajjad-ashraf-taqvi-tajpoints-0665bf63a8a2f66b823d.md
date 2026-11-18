@@ -1,11 +1,11 @@
 ---
 title: "Basheer Hai Pyasa Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0665bf63a8a2f66b823d

@@ -1,11 +1,11 @@
 ---
 title: "Chadar Ke Piche Piche Woh Chalta Chala Gaya 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cec64444c5349f3a6f6f

@@ -1,11 +1,11 @@
 ---
 title: "Taqi Di Lash Te Aa Ke Kehway Zahra Musalmana New Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:fa52c537477041af7ac2

@@ -1,11 +1,11 @@
 ---
 title: "Ya Nabi Ya Nabi Ya Nabi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Khursheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:21675ca08cf846b1b259

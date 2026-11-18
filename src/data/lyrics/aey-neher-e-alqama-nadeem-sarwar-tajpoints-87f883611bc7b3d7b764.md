@@ -1,11 +1,11 @@
 ---
 title: "Aey Neher E Alqama Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:87f883611bc7b3d7b764

@@ -1,11 +1,11 @@
 ---
 title: "Mery Zakhmi Baba Syed Ali Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fca8179214c280c1995d

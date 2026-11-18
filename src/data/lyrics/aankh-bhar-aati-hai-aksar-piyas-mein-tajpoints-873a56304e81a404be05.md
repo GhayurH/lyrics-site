@@ -1,11 +1,11 @@
 ---
 title: "Aankh Bhar Aati Hai Aksar Piyas Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:873a56304e81a404be05

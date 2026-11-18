@@ -1,11 +1,11 @@
 ---
 title: "Kabe Pe Likh Do Ye Misra Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Azlan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fc9b4864726bb93ba3e8

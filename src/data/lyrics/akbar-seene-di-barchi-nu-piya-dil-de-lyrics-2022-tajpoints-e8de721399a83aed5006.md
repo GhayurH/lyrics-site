@@ -1,11 +1,11 @@
 ---
 title: "Akbar Seene Di Barchi Nu Piya Dil De Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e8de721399a83aed5006

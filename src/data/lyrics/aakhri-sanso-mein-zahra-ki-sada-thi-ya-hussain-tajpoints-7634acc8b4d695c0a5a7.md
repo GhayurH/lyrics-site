@@ -1,11 +1,11 @@
 ---
 title: "Aakhri Sanso Mein Zahra Ki Sada Thi Ya Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7634acc8b4d695c0a5a7

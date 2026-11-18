@@ -1,11 +1,11 @@
 ---
 title: "Parey Shahadtaan De Sare Koha Ke Roya Jadoon Fakhar-e-Kibriya Aye Lyrics Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7941e7e3d951feee1611

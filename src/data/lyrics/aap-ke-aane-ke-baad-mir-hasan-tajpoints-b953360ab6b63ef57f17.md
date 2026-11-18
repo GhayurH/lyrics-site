@@ -1,11 +1,11 @@
 ---
 title: "Aap Ke Aane Ke Baad Mir Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takkallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b953360ab6b63ef57f17

@@ -1,6 +1,6 @@
 ---
 title: "Tayra Mamnoon Hay Khuda Zainub"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

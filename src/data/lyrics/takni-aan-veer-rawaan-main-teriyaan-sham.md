@@ -1,6 +1,6 @@
 ---
 title: "Takni Aan Veer Rawaan Main Teriyaan Sham"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

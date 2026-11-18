@@ -1,11 +1,11 @@
 ---
 title: "Aye Khuda Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Hamd"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ebb8c62ed5e8a6ac8e9f

@@ -1,10 +1,10 @@
 ---
 title: "مارے گئے شبیرؑ فضا میں یہ صدا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5ad239f727a296bb336a

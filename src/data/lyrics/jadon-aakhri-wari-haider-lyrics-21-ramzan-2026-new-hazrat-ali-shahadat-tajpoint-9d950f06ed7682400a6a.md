@@ -1,11 +1,11 @@
 ---
 title: "Jadon Aakhri Wari Haider Lyrics 21 Ramzan 2026 New Hazrat Ali Shahadat Noha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Izan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:9d950f06ed7682400a6a

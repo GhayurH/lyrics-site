@@ -1,11 +1,11 @@
 ---
 title: "Abbas Ya Abbas Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Kaleem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:80b90b376ffcb227a0fb

@@ -1,11 +1,11 @@
 ---
 title: "Haq Zahra Ka Chupaya Kis Ne Kon They Woh New"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:15e37ec914d1244fba8b

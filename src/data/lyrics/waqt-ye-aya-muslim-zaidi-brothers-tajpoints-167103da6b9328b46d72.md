@@ -1,11 +1,11 @@
 ---
 title: "Waqt Ye Aya Muslim Zaidi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:167103da6b9328b46d72

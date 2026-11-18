@@ -1,11 +1,11 @@
 ---
 title: "Main Dhi Zahra Di Haan Ik Chadar Mangdi Aan Mir Hasan Mir Lyrics Saraiki 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d20c8f4d264fd60e17ee

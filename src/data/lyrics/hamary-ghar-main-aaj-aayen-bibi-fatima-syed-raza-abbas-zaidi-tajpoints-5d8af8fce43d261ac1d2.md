@@ -1,11 +1,11 @@
 ---
 title: "Hamary Ghar Main Aaj Aayen Bibi Fatima Syed Raza Abbas Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5d8af8fce43d261ac1d2

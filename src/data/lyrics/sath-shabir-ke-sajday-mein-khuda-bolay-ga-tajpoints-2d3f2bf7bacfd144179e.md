@@ -1,11 +1,11 @@
 ---
 title: "Sath Shabir Ke Sajday Mein Khuda Bolay Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bahlool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2d3f2bf7bacfd144179e

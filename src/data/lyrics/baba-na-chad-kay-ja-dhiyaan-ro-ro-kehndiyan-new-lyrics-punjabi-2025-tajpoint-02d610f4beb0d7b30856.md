@@ -1,11 +1,11 @@
 ---
 title: "Baba Na Chad Kay Ja Dhiyaan Ro Ro Kehndiyan New Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tosif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:02d610f4beb0d7b30856

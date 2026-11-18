@@ -1,11 +1,11 @@
 ---
 title: "Ali Mola Dikhaye Ja Rahey Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7f6a38a669cc6f6dd6fc

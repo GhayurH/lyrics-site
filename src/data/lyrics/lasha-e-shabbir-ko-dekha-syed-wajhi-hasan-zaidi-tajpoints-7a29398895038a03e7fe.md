@@ -1,11 +1,11 @@
 ---
 title: "Lasha E Shabbir Ko Dekha Syed Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7a29398895038a03e7fe

@@ -1,11 +1,11 @@
 ---
 title: "Sharaab E Wilaay E Hassan Pee Rahay Hain Sayyed Zaire Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zaire"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:32318ea1b0c8056651dc

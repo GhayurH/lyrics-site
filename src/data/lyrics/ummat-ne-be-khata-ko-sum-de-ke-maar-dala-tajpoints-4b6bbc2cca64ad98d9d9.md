@@ -1,10 +1,10 @@
 ---
 title: "Ummat Ne Be Khata Ko Sum De Ke Maar Dala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4b6bbc2cca64ad98d9d9

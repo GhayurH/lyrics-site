@@ -1,11 +1,11 @@
 ---
 title: "Main Malka Sharam O Haya Di Koi Ghairat Mand Rida Deway Lyrics Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b086b2b3078680aa4b46

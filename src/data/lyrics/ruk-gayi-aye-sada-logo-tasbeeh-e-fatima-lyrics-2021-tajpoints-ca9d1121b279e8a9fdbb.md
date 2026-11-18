@@ -1,11 +1,11 @@
 ---
 title: "Ruk Gayi Aye Sada Logo Tasbeeh E Fatima Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ca9d1121b279e8a9fdbb

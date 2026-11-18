@@ -1,11 +1,11 @@
 ---
 title: "Chehlum Hai Karbala Mein Hussaini Sipah Ka Rehan Azmi Lyrics 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3a11e51e73a3f3430e04

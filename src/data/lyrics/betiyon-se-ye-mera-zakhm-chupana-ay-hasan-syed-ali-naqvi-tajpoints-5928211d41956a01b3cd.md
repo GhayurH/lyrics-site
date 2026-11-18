@@ -1,11 +1,11 @@
 ---
 title: "Betiyon Se Ye Mera Zakhm Chupana Ay Hasan Syed Ali Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shakeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5928211d41956a01b3cd

@@ -1,11 +1,11 @@
 ---
 title: "Haye Sham De Bazar Wichon Ch Faiyaz Party Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:974ea2d64e92ca6ae127

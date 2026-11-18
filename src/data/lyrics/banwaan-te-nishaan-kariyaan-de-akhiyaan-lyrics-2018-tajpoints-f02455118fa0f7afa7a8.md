@@ -1,10 +1,10 @@
 ---
 title: "Banwaan Te Nishaan Kariyaan De Akhiyaan Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f02455118fa0f7afa7a8

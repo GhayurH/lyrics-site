@@ -1,11 +1,11 @@
 ---
 title: "Azakhana Faqeer Arif Imam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Faqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5682dc90f3a5695804c7

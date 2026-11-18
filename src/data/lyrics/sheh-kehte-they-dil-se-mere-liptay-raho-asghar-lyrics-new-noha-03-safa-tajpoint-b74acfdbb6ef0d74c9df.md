@@ -1,11 +1,11 @@
 ---
 title: "Sheh Kehte They Dil Se Mere Liptay Raho Asghar Lyrics New Noha 03 Safar 2025 Anjuman E Guldasta E Jaffria Lahore"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:b74acfdbb6ef0d74c9df

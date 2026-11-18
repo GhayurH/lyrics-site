@@ -1,11 +1,11 @@
 ---
 title: "Bekas Hussain Si Hai Sakina Hussain Ki Lyrics New Noha 02 Safar 2025 Bibi Sakina Chan Peer Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Mohsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:aac4aed93d09b2ba2f44

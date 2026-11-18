@@ -1,11 +1,11 @@
 ---
 title: "Suno Ahl-e-Watan Hum Pe Inayat Hai Yeh Malik Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d175d192308d71ad8436

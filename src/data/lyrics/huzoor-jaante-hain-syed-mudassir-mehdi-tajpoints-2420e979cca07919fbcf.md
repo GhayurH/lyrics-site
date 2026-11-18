@@ -1,11 +1,11 @@
 ---
 title: "Huzoor Jaante Hain Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2420e979cca07919fbcf

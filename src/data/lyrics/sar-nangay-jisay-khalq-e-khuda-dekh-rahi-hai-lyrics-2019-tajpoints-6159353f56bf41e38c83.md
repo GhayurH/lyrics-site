@@ -1,11 +1,11 @@
 ---
 title: "Sar Nangay Jisay Khalq E Khuda Dekh Rahi Hai Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6159353f56bf41e38c83

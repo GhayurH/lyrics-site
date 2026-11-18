@@ -1,6 +1,6 @@
 ---
 title: "Dooba Lahu Me Laut Ke, Aaya Jo Zuljanah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

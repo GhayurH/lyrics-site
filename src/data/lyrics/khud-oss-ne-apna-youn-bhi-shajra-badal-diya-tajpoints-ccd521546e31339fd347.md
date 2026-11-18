@@ -1,11 +1,11 @@
 ---
 title: "Khud Oss Ne Apna Youn Bhi Shajra Badal Diya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ccd521546e31339fd347

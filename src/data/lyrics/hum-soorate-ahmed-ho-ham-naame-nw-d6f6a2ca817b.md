@@ -1,6 +1,6 @@
 ---
 title: "Hum Soorate Ahmed Ho Ham Naame"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Rozadaroon Mein Matam Bapa Hai Askari Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Askari"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:982199898456a06a5fc4

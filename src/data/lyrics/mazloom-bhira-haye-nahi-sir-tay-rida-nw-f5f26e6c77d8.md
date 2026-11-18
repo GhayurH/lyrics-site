@@ -1,6 +1,6 @@
 ---
 title: "Mazloom Bhira, Haye Nahi Sir Tay Rida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

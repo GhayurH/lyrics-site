@@ -1,11 +1,11 @@
 ---
 title: "Tere Putar Ameer Da Lasha Mazloom Hussain Ne Chaya Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3b08b5b64b8127bbe2c0

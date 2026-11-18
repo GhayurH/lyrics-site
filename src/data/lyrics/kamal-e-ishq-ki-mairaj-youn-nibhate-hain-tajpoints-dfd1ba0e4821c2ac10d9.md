@@ -1,11 +1,11 @@
 ---
 title: "Kamal-e-Ishq Ki Mairaj Youn Nibhate Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Zaidi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dfd1ba0e4821c2ac10d9

@@ -1,11 +1,11 @@
 ---
 title: "Aisay Hote Hain Ali Ke Nokar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:96bfd6d16e48019474d2

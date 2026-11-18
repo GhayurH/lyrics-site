@@ -1,11 +1,11 @@
 ---
 title: "Deen E Islam Ko Parwan Charhaya Sheh Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shamim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4122f17f5db2b3cc4780

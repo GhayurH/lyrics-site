@@ -1,11 +1,11 @@
 ---
 title: "Aye Bali Sakina Syed Ali Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bcc506fdf0f9dbe238c5

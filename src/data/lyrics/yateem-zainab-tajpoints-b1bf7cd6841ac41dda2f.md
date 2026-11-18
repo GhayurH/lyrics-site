@@ -1,11 +1,11 @@
 ---
 title: "Yateem Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b1bf7cd6841ac41dda2f

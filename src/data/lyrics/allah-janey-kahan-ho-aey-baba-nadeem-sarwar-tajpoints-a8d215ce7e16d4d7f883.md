@@ -1,11 +1,11 @@
 ---
 title: "Allah Janey Kahan Ho Aey Baba Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Anees"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a8d215ce7e16d4d7f883

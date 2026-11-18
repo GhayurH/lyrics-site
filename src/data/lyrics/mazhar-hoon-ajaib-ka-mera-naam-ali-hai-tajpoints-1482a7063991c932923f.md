@@ -1,11 +1,11 @@
 ---
 title: "Mazhar Hoon Ajaib Ka Mera Naam Ali Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1482a7063991c932923f

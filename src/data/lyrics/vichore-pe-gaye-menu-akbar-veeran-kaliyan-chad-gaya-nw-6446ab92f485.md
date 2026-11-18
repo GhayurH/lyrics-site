@@ -1,6 +1,6 @@
 ---
 title: "Vichore Pe Gaye Menu Akbar Veeran Kaliyan Chad Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

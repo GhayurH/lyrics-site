@@ -1,11 +1,11 @@
 ---
 title: "Zulm Sehti Hai Woh Baba Ke Gham Mein Rone Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qasim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:82725674221659a9d6de

@@ -1,11 +1,11 @@
 ---
 title: "Sana E Imam E Raza Syed Mohammad Shah Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6675915936b9dc96f5ab

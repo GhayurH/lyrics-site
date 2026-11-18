@@ -1,11 +1,11 @@
 ---
 title: "Pak Nabi Jeray Ladlay Nu Chum Chum Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e991e311f89ed3b0773e

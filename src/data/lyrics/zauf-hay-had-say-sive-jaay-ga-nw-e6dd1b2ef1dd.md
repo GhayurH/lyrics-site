@@ -1,6 +1,6 @@
 ---
 title: "Zauf Hay Had Say Sive Jaay Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

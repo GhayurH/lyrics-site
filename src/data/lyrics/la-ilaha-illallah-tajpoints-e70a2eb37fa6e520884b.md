@@ -1,10 +1,10 @@
 ---
 title: "La Ilaha Illallah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e70a2eb37fa6e520884b

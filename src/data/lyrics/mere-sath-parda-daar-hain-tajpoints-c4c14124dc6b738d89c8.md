@@ -1,11 +1,11 @@
 ---
 title: "Mere Sath Parda Daar Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c4c14124dc6b738d89c8

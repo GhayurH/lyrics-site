@@ -1,6 +1,6 @@
 ---
 title: "Run Mein Hai Nala Kuna"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

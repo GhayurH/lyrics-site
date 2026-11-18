@@ -1,11 +1,11 @@
 ---
 title: "آج کوفے میں ہے کہرام علیؑ ہائے علیؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Ali Safdar Rizvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:de7bb63d38b8b58bd6c2

@@ -1,10 +1,10 @@
 ---
 title: "Jab Aaya E Baligh"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7a7864d22765c88bb097

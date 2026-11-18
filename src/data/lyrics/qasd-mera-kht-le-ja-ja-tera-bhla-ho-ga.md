@@ -1,10 +1,10 @@
 ---
 title: "قاصد میرا خط لے جا جا تیرا بھلا ہو گا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ebde957bc41c6b1b3d50

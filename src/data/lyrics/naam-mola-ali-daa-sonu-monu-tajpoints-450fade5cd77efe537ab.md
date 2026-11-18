@@ -1,11 +1,11 @@
 ---
 title: "Naam Mola Ali Daa Sonu Monu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:450fade5cd77efe537ab

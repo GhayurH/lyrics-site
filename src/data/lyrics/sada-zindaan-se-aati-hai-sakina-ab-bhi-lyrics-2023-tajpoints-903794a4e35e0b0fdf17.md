@@ -1,11 +1,11 @@
 ---
 title: "Sada Zindaan Se Aati Hai Sakina Ab Bhi Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:903794a4e35e0b0fdf17

@@ -1,11 +1,11 @@
 ---
 title: "Takhleeq E Kainat Ka Mehwar Jo Zaat Thi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1a93d4148dc367602642

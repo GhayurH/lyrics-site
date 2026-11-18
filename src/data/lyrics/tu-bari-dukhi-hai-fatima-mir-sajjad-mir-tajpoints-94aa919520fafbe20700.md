@@ -1,11 +1,11 @@
 ---
 title: "Tu Bari Dukhi Hai Fatima Mir Sajjad Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:94aa919520fafbe20700

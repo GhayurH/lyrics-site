@@ -1,10 +1,10 @@
 ---
 title: "Yaad Ujari Nu Veer Karda Aye Ch Faiyaz Party Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0ab430faf8193c61a392

@@ -1,10 +1,10 @@
 ---
 title: "Ya Fatima Zahra Shahid Ali Shahid"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7d9db3cecce49bb74df7

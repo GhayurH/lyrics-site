@@ -1,10 +1,10 @@
 ---
 title: "Ghazi Ki Zaat Sajjad Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fca6df40febb655bd65e

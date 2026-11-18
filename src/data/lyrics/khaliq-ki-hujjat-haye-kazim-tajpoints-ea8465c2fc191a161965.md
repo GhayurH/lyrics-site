@@ -1,11 +1,11 @@
 ---
 title: "Khaliq Ki Hujjat Haye Kazim"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ea8465c2fc191a161965

@@ -1,11 +1,11 @@
 ---
 title: "Hussain Waris Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Navaid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5e8df7c37b88759a772b

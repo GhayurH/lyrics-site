@@ -1,11 +1,11 @@
 ---
 title: "Kaise Main Likhon Shan Teri Shah E Khurasan Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ed295bbbeb9f05ed5a03

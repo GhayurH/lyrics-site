@@ -1,11 +1,11 @@
 ---
 title: "Hazaron Ayatein Syed Mohammad Shah Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a0fd801f68a7deae74b8

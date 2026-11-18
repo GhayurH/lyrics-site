@@ -1,11 +1,11 @@
 ---
 title: "Bazar Mein Abbas Ki Tasveer Hai Fizza Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dd644bb882c6599e1c52

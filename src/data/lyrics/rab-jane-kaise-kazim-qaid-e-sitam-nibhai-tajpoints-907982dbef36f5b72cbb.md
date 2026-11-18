@@ -1,11 +1,11 @@
 ---
 title: "Rab Jane Kaise Kazim Qaid E Sitam Nibhai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:907982dbef36f5b72cbb

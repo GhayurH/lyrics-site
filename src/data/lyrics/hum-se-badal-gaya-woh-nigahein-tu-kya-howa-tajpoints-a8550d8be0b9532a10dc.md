@@ -1,10 +1,10 @@
 ---
 title: "Hum Se BadaL Gaya Woh Nigahein Tu Kya Howa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a8550d8be0b9532a10dc

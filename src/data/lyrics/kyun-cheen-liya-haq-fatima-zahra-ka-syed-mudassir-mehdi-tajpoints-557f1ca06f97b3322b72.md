@@ -1,11 +1,11 @@
 ---
 title: "Kyun Cheen Liya Haq Fatima Zahra KA Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zamin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:557f1ca06f97b3322b72

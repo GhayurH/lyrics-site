@@ -1,10 +1,10 @@
 ---
 title: "مجھ سے لوگو علیؑ کا بدلہ لو وہ ہے زینبؑ نبی کی بیٹی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cff4b521240435e6db67

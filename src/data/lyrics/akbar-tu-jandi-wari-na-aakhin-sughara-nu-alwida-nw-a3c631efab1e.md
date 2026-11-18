@@ -1,6 +1,6 @@
 ---
 title: "Akbar Tu Jandi Wari Na Aakhin Sughra Nu Alwida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

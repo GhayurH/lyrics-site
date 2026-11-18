@@ -1,11 +1,11 @@
 ---
 title: "Rahein Gay Door Nazron Se Imam E Ins O Jaan Kab Tak"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8b4a2c7ce303f039d7a7

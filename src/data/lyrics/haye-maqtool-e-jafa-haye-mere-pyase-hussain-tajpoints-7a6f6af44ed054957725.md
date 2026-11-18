@@ -1,11 +1,11 @@
 ---
 title: "Haye Maqtool-e-Jafa Haye Mere Pyase Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mussadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7a6f6af44ed054957725

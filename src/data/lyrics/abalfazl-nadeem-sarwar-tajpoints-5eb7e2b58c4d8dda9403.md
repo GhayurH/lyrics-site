@@ -1,10 +1,10 @@
 ---
 title: "Abalfazl Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5eb7e2b58c4d8dda9403

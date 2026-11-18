@@ -1,11 +1,11 @@
 ---
 title: "Abbas Kahan Ho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d3866c58023b9036d1f3

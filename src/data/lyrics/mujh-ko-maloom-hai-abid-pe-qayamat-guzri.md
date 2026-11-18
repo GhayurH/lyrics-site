@@ -1,10 +1,10 @@
 ---
 title: "مجھ کو معلوم ہے عابدؑ پہ قیامت گزری"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:3c6f61cfe2ddd23e0999

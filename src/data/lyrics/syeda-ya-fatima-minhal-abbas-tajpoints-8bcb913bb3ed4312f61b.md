@@ -1,11 +1,11 @@
 ---
 title: "Syeda Ya Fatima Minhal Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8bcb913bb3ed4312f61b

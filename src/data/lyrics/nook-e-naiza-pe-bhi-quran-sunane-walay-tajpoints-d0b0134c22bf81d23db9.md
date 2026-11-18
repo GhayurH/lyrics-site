@@ -1,11 +1,11 @@
 ---
 title: "Nook-e-Naiza Pe Bhi Quran Sunane Walay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d0b0134c22bf81d23db9

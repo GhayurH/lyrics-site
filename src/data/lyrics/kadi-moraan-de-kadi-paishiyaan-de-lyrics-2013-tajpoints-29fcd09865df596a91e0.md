@@ -1,11 +1,11 @@
 ---
 title: "Kadi Moraan De Kadi Paishiyaan De Lyrics 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:29fcd09865df596a91e0

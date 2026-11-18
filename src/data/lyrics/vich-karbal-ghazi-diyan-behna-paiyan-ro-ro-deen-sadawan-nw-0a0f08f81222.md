@@ -1,6 +1,6 @@
 ---
 title: "Vich Karbal, Ghazi Diyan Behna, Paiyan Ro Ro Deen Sadawan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

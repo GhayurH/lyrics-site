@@ -1,11 +1,11 @@
 ---
 title: "Ayelan Ghareebi Da Kita Zahra Di Qabar Bana Ke Lyrics New 2025 Bibi Fatima Zahra Noha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:028c949af8da6436cc6c

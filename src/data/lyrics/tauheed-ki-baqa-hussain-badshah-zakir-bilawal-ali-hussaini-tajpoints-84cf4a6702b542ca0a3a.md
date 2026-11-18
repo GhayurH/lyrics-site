@@ -1,11 +1,11 @@
 ---
 title: "Tauheed Ki Baqa Hussain Badshah Zakir Bilawal Ali Hussaini"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:84cf4a6702b542ca0a3a

@@ -1,11 +1,11 @@
 ---
 title: "Mujhe Rasool Ki Tabeer E Khuwab Kehte Hain Ahmad Timsaal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1f94acc27b6ba3ea0380

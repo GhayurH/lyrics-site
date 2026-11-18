@@ -1,6 +1,6 @@
 ---
 title: "Rang Laal Hogaya Shabbir Day"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

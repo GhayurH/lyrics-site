@@ -1,6 +1,6 @@
 ---
 title: "Main Hoon Aik Phool Aza Kahnay Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

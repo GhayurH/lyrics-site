@@ -1,11 +1,11 @@
 ---
 title: "Ya Ali Musa Reza Muhammad Raza Mungla Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7893cd41757d71014ed9

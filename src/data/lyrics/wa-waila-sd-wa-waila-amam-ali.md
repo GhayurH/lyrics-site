@@ -1,10 +1,10 @@
 ---
 title: "وا ویلا صد وا ویلا ۔ امام علیؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a12fa8bd0c901424398a

@@ -1,10 +1,10 @@
 ---
 title: "اے بے برادر زینبؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:f5add0239e6370443094

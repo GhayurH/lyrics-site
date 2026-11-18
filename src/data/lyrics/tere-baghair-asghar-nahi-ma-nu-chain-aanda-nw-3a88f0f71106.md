@@ -1,6 +1,6 @@
 ---
 title: "Tere Baghair Asghar Nahi Ma Nu Chain Aanda"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Biyaan Ayat Ko Ayat Kar Rahi Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fe397c80524c3a97e9ef

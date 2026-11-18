@@ -1,10 +1,10 @@
 ---
 title: "Bewa Maa Bachray Da Kaaj Rachaya Aye Lyrics 2024 Complete"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:b68d0dfc4b898055ffcc

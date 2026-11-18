@@ -1,11 +1,11 @@
 ---
 title: "Chalo Karbala Chalo Karbala Muhammad Raza Mungla"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zahra"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0ef5924572ca9f2c5b36

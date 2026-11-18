@@ -1,10 +1,10 @@
 ---
 title: "Gham Se Mere Bachon Ko Bachana Meri Fizza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5b3d5037fd71565592ad

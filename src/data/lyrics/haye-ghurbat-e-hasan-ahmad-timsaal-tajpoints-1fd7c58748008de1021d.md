@@ -1,11 +1,11 @@
 ---
 title: "Haye Ghurbat E Hasan Ahmad Timsaal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1fd7c58748008de1021d

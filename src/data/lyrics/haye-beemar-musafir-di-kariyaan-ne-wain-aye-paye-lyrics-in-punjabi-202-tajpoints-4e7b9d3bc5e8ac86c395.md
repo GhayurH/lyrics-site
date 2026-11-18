@@ -1,11 +1,11 @@
 ---
 title: "Haye Beemar Musafir Di Kariyaan Ne Wain Aye Paye Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Baqir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4e7b9d3bc5e8ac86c395

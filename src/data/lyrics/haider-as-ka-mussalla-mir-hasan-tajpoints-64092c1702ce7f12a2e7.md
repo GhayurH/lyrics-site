@@ -1,7 +1,7 @@
 ---
 title: "حیدر کا مصلّٰی ہوں میں"
 alternateTitle: "Haider Ka Musalla Hoon Main"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

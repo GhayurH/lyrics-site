@@ -1,11 +1,11 @@
 ---
 title: "Zamana Laa Nahi Sakta Jawab Qasim Ka Sajid Bakhtiari"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:86d7fa0a0d9b57d9ef22

@@ -1,6 +1,6 @@
 ---
 title: "Achay Mere Baba Na Sakina Se Chhupana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

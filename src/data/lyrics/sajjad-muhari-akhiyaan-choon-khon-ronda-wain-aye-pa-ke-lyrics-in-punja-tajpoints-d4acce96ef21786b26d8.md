@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Muhari Akhiyaan Choon Khon Ronda Wain Aye Pa Ke Lyrics In Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d4acce96ef21786b26d8

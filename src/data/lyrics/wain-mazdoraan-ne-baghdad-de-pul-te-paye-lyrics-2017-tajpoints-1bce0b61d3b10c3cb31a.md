@@ -1,11 +1,11 @@
 ---
 title: "Wain Mazdoraan Ne Baghdad De Pul Te Paye Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1bce0b61d3b10c3cb31a

@@ -1,10 +1,10 @@
 ---
 title: "Alamdar Alamdar Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cffa15d4f85d430f2622

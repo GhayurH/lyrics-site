@@ -1,11 +1,11 @@
 ---
 title: "Imam-e-Zamana Ki Nazar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:02760f07f9c333fa152c

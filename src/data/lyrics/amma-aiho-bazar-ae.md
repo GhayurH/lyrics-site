@@ -1,10 +1,10 @@
 ---
 title: "اماں ایہو بازار اے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:718631e453275c444e62

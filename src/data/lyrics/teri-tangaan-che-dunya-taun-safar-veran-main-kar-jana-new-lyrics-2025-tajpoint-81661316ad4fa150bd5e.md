@@ -1,10 +1,10 @@
 ---
 title: "Teri Tangaan Che Dunya Taun Safar Veran Main Kar Jana New Lyrics 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:81661316ad4fa150bd5e

@@ -1,11 +1,11 @@
 ---
 title: "Haye Arshan Taun Pak Zahra Ne Ro Ro Ke Wain Paye Lyrics New Noha 28 Safar 2025 Asghar Khan Party SKT"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:c059461c004a9813e280

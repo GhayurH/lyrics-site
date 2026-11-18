@@ -1,6 +1,6 @@
 ---
 title: "Kaliyan Shahzadian Aaya Shaam Bazaar Baaj Ridawa Te"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "13 Rajab Hai Kabay Pe Mukhtar Hussain Fatehpuri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mukhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1c0b01690f1a6d8a72cc

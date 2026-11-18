@@ -1,11 +1,11 @@
 ---
 title: "Ya Aba Abdillah Rohi Wa Jismi Lakal Fida Mir Hasan Lyrics 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c4716101ec00bba05ad7

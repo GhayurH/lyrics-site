@@ -1,11 +1,11 @@
 ---
 title: "Teri Zahra Madine Mein Syed Shahryar Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Waseem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b3cbec86c18f5939ea2f

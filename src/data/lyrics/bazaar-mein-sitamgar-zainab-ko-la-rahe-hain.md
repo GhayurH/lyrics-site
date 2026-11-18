@@ -1,11 +1,11 @@
 ---
 title: "بازار میں ستمگر زینبؑ کو لا رہے ہیں عباسؑ کو بلاؤ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:21886a5644292d41502b

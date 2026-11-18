@@ -1,11 +1,11 @@
 ---
 title: "Aye Manba-e-Tauqeer Tere Zikar Ke Sadqe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fa2c7de0c9c54b399a41

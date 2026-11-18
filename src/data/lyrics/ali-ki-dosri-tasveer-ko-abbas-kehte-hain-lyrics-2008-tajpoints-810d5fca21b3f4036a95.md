@@ -1,11 +1,11 @@
 ---
 title: "Ali Ki Dosri Tasveer Ko Abbas Kehte Hain Lyrics 2008"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:810d5fca21b3f4036a95

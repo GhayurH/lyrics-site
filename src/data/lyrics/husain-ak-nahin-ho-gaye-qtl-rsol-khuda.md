@@ -1,11 +1,11 @@
 ---
 title: "حسینؑ اک نہیں ہو گئے قتل رسولِ خداؐ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ba6a4c277addb6a792e6

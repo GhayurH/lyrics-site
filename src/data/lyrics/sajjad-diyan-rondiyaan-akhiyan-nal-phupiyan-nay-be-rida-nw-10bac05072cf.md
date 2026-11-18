@@ -1,6 +1,6 @@
 ---
 title: "Sajjad Diyan Rondiyaan Akhiyan, Naal Phupiyan Nay Be Rida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

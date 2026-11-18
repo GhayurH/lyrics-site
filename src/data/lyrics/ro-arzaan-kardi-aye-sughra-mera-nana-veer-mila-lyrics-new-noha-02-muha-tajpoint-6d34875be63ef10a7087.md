@@ -1,11 +1,11 @@
 ---
 title: "Ro Arzaan Kardi Aye Sughra Mera Nana Veer Mila Lyrics New Noha 02 Muharram 2025 Sirat Ul Jannah Sialkot"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:6d34875be63ef10a7087

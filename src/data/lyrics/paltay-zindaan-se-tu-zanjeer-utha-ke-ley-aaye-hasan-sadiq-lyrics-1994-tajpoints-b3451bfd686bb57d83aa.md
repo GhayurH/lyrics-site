@@ -1,11 +1,11 @@
 ---
 title: "Paltay Zindaan Se Tu Zanjeer Utha Ke Ley Aaye Hasan Sadiq Lyrics 1994"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b3451bfd686bb57d83aa

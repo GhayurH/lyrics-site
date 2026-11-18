@@ -1,11 +1,11 @@
 ---
 title: "Aahista Chacha Nadeem Sarwar Lyrics In Punjabi 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sarwar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:058a596cae972c74bb36

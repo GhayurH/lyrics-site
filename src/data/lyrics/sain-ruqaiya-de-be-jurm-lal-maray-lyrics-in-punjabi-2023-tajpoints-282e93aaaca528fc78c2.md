@@ -1,11 +1,11 @@
 ---
 title: "Sain Ruqaiya De Be Jurm Lal Maray Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Basharat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:282e93aaaca528fc78c2

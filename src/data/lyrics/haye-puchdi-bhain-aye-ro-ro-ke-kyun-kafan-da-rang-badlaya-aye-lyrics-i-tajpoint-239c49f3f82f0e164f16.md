@@ -1,11 +1,11 @@
 ---
 title: "Haye Puchdi Bhain Aye Ro Ro Ke Kyun Kafan Da Rang Badlaya Aye Lyrics In Punjabi 28 Safar 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rizwan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:239c49f3f82f0e164f16

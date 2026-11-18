@@ -1,11 +1,11 @@
 ---
 title: "Karyal Jawan Ki Lash Uthaney Chaley Hain Hum Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4aa6f2f8cc33bb2b99d9

@@ -1,10 +1,10 @@
 ---
 title: "قرآنِ کربلا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a8f0924ac3ffd993bb06

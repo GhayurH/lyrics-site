@@ -1,11 +1,11 @@
 ---
 title: "Main Ghulam-e-Haider-e-Karar Hoon Molai Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b330c41d02bbdd26e245

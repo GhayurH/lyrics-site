@@ -1,11 +1,11 @@
 ---
 title: "Ali Se Puchna Baba Syed Mohammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7d3dfc62533e3ee1f4ce

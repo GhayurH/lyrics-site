@@ -1,11 +1,11 @@
 ---
 title: "Baba Kay Baad Dukh Yeh Uthayegi Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:70e3f5b6b511f437070f

@@ -1,11 +1,11 @@
 ---
 title: "Naam Ali Ka Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mazhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c8c977fcac5741716b0e

@@ -1,11 +1,11 @@
 ---
 title: "Hum Tou Gham E Hussain Syed Ali Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zahid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:371ebdc868d1e0e370df

@@ -1,11 +1,11 @@
 ---
 title: "Aankhon Mein Youn Tasveer Sajai Tere Dar Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:511293232af94901ad36

@@ -1,10 +1,10 @@
 ---
 title: "زہراؑ دا پاک بابا سُن دھی دیاں دہایاں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4398f2986b99079bdfdb

@@ -1,6 +1,6 @@
 ---
 title: "Nana Hy Ay Sochan Rendiya Nay Bemaar Nu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

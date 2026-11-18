@@ -1,11 +1,11 @@
 ---
 title: "Mashhad Mein Ye Chokhat Chom Kar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ae265b672d89ba2a84dc

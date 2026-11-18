@@ -1,10 +1,10 @@
 ---
 title: "Ik Zehar Se Jawad Ke Seene Mein Ghutan Hai Lyrics New"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:db18fa556a4b115c058a

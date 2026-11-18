@@ -1,11 +1,11 @@
 ---
 title: "Tu Bari Sakhi Hai Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:29f3f5f5775aabda6a9b

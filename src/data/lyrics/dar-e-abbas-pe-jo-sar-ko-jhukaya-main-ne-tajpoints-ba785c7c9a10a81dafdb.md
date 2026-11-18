@@ -1,11 +1,11 @@
 ---
 title: "Dar-e-Abbas Pe Jo Sar Ko Jhukaya Main Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ba785c7c9a10a81dafdb

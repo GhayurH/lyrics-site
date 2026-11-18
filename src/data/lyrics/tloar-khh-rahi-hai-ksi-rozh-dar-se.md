@@ -1,10 +1,10 @@
 ---
 title: "تلوار کہہ رہی ہے کسی روزہ دار سے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:648db6a140281fe29c74

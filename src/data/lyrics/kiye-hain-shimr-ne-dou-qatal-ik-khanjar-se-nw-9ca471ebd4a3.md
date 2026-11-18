@@ -1,6 +1,6 @@
 ---
 title: "Kiye Hain Shimr Ne Dou Qatal Ik Khanjar Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

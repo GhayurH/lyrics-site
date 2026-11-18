@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Agar Sar Na Katatay Tu Ye Islam Na Hota Lyrics 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4df12455b5fa537af76d

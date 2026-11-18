@@ -1,11 +1,11 @@
 ---
 title: "Jo Kainat Gham E Fatima Mein Dhal Jaye Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0c73af9e6a684c42ff6d

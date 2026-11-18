@@ -1,11 +1,11 @@
 ---
 title: "Zain Ul Abideen Tera Bara Okha Painda Aye Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:732d8086b6fced3ba7db

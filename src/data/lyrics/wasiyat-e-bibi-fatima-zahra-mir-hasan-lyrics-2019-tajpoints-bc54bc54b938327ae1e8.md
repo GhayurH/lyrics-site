@@ -1,11 +1,11 @@
 ---
 title: "Wasiyat-e-Bibi Fatima Zahra Mir Hasan Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bc54bc54b938327ae1e8

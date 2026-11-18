@@ -1,11 +1,11 @@
 ---
 title: "Aj De Ga Kon Pehray Haye Shama Pay Gayiyan Ne Lyrics In Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sardar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b84b9f9abee643b399ad

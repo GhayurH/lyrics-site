@@ -1,11 +1,11 @@
 ---
 title: "Keh Rahi Thi Sakina Syed Mehdi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:40440fe6558afad8c6b4

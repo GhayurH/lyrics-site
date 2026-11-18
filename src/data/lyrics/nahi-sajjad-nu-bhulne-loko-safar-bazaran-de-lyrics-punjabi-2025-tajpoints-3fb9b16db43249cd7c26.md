@@ -1,11 +1,11 @@
 ---
 title: "Nahi Sajjad Nu Bhulne Loko Safar Bazaran De Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3fb9b16db43249cd7c26

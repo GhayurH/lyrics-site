@@ -1,11 +1,11 @@
 ---
 title: "Karbala Ki Ziyarat Syed Wasif Abideen Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3bf75252ab06764e544a

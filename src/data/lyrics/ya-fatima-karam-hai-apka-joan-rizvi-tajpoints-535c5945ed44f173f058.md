@@ -1,11 +1,11 @@
 ---
 title: "Ya Fatima Karam Hai Apka Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:535c5945ed44f173f058

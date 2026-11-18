@@ -1,11 +1,11 @@
 ---
 title: "Hal Akber Ka Syed Ali Naqvi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:621371784bbd8e6da4a2

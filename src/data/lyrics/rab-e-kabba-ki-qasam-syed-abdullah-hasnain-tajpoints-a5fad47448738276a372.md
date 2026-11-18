@@ -1,11 +1,11 @@
 ---
 title: "Rab E Kabba Ki Qasam Syed Abdullah Hasnain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Waheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a5fad47448738276a372

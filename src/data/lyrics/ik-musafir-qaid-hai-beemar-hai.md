@@ -1,11 +1,11 @@
 ---
 title: "اِک مسافر قید ہے بیمار ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Rizvia Party"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1b146068087f7b83ad10

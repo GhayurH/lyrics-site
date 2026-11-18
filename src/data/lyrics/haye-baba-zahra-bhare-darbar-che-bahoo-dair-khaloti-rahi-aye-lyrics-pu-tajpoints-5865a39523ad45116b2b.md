@@ -1,11 +1,11 @@
 ---
 title: "Haye Baba Zahra Bhare Darbar Che Bahoo Dair Khaloti Rahi Aye Lyrics Punjabi 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5865a39523ad45116b2b

@@ -1,11 +1,11 @@
 ---
 title: "Zakhm Moula Ke Sar Pe Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kaleem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0c2b55fcac61c18fbb0f

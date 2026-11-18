@@ -1,11 +1,11 @@
 ---
 title: "Thori Hai Subbaib Abidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:685676d4a54e35f08c87

@@ -1,11 +1,11 @@
 ---
 title: "Matam Karo Hazrat Imam Hussain Ka Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:47a3918dcff38001cae2

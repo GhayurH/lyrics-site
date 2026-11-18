@@ -1,11 +1,11 @@
 ---
 title: "Mere Waris Hain Karbala Walay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1df1dfd472b334cd3e8a

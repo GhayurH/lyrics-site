@@ -1,6 +1,6 @@
 ---
 title: "Raitaanch Dul Gaye, Mityaanch Rul Gaye, Maa Nu Rawavay, Qasim Di Mehndi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Har Aik Haal Mein Shajrah Zaror Bole Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Waqar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:47451fb4b3830aace2d9

@@ -1,11 +1,11 @@
 ---
 title: "Safar Zainab Te Abid Di Gharebi Da Sonanda Aye Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:13d6cedea3398316cfbc

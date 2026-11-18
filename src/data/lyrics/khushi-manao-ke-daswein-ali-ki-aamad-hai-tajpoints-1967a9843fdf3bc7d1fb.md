@@ -1,11 +1,11 @@
 ---
 title: "Khushi Manao Ke Daswein Ali Ki Aamad Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1967a9843fdf3bc7d1fb

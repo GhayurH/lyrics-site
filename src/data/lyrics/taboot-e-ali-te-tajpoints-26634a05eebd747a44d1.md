@@ -1,11 +1,11 @@
 ---
 title: "Taboot-e-Ali Te"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:26634a05eebd747a44d1

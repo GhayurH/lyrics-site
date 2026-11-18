@@ -1,11 +1,11 @@
 ---
 title: "Zair E Karbala Mehdi Rizvi And Hadi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:13b1afb90336e9a023a8

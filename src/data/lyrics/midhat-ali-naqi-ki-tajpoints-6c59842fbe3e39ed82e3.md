@@ -1,11 +1,11 @@
 ---
 title: "Midhat Ali Naqi Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6c59842fbe3e39ed82e3

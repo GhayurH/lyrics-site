@@ -1,11 +1,11 @@
 ---
 title: "Bas Ali Hai Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5010db81b235d5002462

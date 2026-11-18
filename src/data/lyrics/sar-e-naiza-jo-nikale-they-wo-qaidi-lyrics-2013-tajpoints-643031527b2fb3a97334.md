@@ -1,11 +1,11 @@
 ---
 title: "Sar-e-Naiza Jo Nikale They Wo Qaidi Lyrics 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:643031527b2fb3a97334

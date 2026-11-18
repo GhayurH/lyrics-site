@@ -1,10 +1,10 @@
 ---
 title: "عرض کرتی تھی رو رو کے صغراؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d39be939cf8938000bb8

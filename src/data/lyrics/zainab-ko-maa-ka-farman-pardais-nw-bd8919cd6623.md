@@ -1,6 +1,6 @@
 ---
 title: "Zainab Ko Maa Ka Farman Pardais"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

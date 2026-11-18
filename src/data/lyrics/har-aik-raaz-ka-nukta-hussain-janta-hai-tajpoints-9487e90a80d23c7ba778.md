@@ -1,11 +1,11 @@
 ---
 title: "Har Aik Raaz Ka Nukta Hussain Janta Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Turab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9487e90a80d23c7ba778

@@ -1,10 +1,10 @@
 ---
 title: "Hum Ayse Wafa Keish Yahan Chand Rahe Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8e7180ff1dee042b7a7e

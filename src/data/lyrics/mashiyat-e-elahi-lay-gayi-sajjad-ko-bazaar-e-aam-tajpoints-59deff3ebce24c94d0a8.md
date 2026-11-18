@@ -1,11 +1,11 @@
 ---
 title: "Mashiyat-e-Elahi Lay Gayi Sajjad Ko Bazaar-e-Aam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:59deff3ebce24c94d0a8

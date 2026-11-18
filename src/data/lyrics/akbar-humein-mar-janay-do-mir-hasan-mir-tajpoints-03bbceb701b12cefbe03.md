@@ -1,11 +1,11 @@
 ---
 title: "Akbar Humein Mar Janay Do Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:03bbceb701b12cefbe03

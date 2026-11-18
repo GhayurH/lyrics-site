@@ -1,11 +1,11 @@
 ---
 title: "Main Matami Hoon Saleem Mastan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Waseem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:855fd0c66a1ed240849e

@@ -1,6 +1,6 @@
 ---
 title: "Hai Saawan Aukhiyaṅ Ne Zainab De Veer Diyaṅ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

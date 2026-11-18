@@ -1,10 +1,10 @@
 ---
 title: "لبیک یا حسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d69f5bfcf1c281a5338f

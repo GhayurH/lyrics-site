@@ -1,11 +1,11 @@
 ---
 title: "Sare Dardoon Ka Darman Sajjad Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:20114172b08df8cb412c

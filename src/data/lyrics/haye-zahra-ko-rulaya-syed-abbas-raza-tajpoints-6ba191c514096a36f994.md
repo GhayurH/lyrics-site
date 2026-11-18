@@ -1,11 +1,11 @@
 ---
 title: "Haye Zahra Ko Rulaya Syed Abbas Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6ba191c514096a36f994

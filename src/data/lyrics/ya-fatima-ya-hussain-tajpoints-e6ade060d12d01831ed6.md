@@ -1,11 +1,11 @@
 ---
 title: "Ya Fatima Ya Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e6ade060d12d01831ed6

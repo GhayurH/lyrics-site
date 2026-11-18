@@ -1,11 +1,11 @@
 ---
 title: "Jald Hi Mehdi Ayenge Meesum Kashmiri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Iram"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4a0e4bb295e292eae72f

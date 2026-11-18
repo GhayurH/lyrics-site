@@ -1,11 +1,11 @@
 ---
 title: "Zamin E Ghareban Shaukat Raza Shaukat Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shaukat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1a2f4578b3027826ed56

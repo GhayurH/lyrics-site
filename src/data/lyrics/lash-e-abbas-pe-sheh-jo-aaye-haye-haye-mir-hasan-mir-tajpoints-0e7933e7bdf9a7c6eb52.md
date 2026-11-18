@@ -1,10 +1,10 @@
 ---
 title: "Lash-e-Abbas Pe Sheh Jo Aaye Haye Haye Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0e7933e7bdf9a7c6eb52

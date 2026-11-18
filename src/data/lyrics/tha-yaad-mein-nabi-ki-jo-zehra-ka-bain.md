@@ -1,10 +1,10 @@
 ---
 title: "تھا یاد میں نبیؐ کی جو زہراؑ کا بین ہائے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2469ef726df1ebb3f88f

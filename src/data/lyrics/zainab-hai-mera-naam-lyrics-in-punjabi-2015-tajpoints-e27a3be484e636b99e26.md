@@ -1,10 +1,10 @@
 ---
 title: "Zainab Hai Mera Naam Lyrics In Punjabi 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e27a3be484e636b99e26

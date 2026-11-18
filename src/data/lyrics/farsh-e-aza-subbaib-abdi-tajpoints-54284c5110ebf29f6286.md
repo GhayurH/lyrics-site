@@ -1,10 +1,10 @@
 ---
 title: "Farsh E Aza Subbaib Abdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:54284c5110ebf29f6286

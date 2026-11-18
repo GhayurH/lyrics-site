@@ -1,11 +1,11 @@
 ---
 title: "Jo Loag May-e-Ishq Se Sarshar Rahein Gaye Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:36a4fb49bc9a20aa2cb0

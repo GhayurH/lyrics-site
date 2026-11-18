@@ -1,11 +1,11 @@
 ---
 title: "Eidaan Ne Guzar Gayiyaan Mere Lal Nayi Aaye Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sardar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a99398385224976ce82d

@@ -1,11 +1,11 @@
 ---
 title: "بھائی بھائی پکارتی رہی میں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Meer Hasan Meer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8abc86714b70d20f3005

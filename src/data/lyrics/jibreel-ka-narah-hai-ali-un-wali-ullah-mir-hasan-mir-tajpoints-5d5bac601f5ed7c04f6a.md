@@ -1,11 +1,11 @@
 ---
 title: "Jibreel Ka Narah Hai Ali Un Wali Ullah Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hamid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5d5bac601f5ed7c04f6a

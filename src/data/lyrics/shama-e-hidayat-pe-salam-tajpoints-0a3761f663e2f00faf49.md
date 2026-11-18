@@ -1,11 +1,11 @@
 ---
 title: "Shama-e-Hidayat Pe Salam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Shakeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0a3761f663e2f00faf49

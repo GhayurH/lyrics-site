@@ -1,11 +1,11 @@
 ---
 title: "Haye Baba Mera Akbar Maar Dita Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:30a9ee625bb3af6faf04

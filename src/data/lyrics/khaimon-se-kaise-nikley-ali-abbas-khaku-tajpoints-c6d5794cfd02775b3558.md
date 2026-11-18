@@ -1,11 +1,11 @@
 ---
 title: "Khaimon Se Kaise Nikley Ali Abbas Khaku"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c6d5794cfd02775b3558

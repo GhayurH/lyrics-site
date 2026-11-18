@@ -1,11 +1,11 @@
 ---
 title: "Naqi Aaye Zamane Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:53d0687887f87bb7e167

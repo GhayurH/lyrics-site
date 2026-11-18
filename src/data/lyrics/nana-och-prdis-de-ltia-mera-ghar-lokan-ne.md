@@ -1,10 +1,10 @@
 ---
 title: "نانا وچ پردیس دے لٹیا میرا گھر لوکاں نے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a27cb770ea5176406ba2

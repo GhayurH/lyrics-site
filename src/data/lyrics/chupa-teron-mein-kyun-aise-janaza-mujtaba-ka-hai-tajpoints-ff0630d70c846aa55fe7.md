@@ -1,11 +1,11 @@
 ---
 title: "Chupa Teron Mein Kyun Aise Janaza Mujtaba Ka Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nisar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ff0630d70c846aa55fe7

@@ -1,11 +1,11 @@
 ---
 title: "Takleef Mit Gayi Magar Ahsas Reh Giya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c25eba41263fd52caba2

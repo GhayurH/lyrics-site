@@ -1,10 +1,10 @@
 ---
 title: "Main Dukh Kiwein Suna Ghazi Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f37dc9ec9ce803590ec5

@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Ke Chehre Se Gham Dur Karne Wale Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:da0016c53c81cedc5c53

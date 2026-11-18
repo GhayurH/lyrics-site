@@ -1,11 +1,11 @@
 ---
 title: "Bhainr Roway Te Kahway Maanr Wadha De Ghazi Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:372b3e398f5a36621e18

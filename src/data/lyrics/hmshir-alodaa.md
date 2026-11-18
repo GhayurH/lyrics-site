@@ -1,10 +1,10 @@
 ---
 title: "ہمشیر الوداع"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:fa13759a44fc8d849549

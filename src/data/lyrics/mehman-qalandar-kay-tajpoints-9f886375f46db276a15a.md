@@ -1,11 +1,11 @@
 ---
 title: "Mehman Qalandar Kay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mazhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9f886375f46db276a15a

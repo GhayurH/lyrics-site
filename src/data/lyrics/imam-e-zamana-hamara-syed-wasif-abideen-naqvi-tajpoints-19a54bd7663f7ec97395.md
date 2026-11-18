@@ -1,11 +1,11 @@
 ---
 title: "Imam E Zamana Hamara Syed Wasif Abideen Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:19a54bd7663f7ec97395

@@ -1,11 +1,11 @@
 ---
 title: "رووے نہ دور وطن توں شالا بیمار کوئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:69a423abbe1540ebc1b4

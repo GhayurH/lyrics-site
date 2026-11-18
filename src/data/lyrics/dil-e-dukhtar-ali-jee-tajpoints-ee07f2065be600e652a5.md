@@ -1,11 +1,11 @@
 ---
 title: "Dil E Dukhtar Ali Jee"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ee07f2065be600e652a5

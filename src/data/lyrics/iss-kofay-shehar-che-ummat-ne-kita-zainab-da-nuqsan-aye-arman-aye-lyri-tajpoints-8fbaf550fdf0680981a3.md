@@ -1,11 +1,11 @@
 ---
 title: "Iss Kofay Shehar Che Ummat Ne Kita Zainab Da Nuqsan Aye Arman Aye Lyrics Punjabi 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8fbaf550fdf0680981a3

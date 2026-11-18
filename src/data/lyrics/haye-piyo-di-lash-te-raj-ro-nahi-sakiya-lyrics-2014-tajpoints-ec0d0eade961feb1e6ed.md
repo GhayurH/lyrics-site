@@ -1,10 +1,10 @@
 ---
 title: "Haye Piyo Di Lash Te Raj Ro Nahi Sakiya Lyrics 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ec0d0eade961feb1e6ed

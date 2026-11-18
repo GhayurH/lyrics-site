@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Tere Beghair Asghar Khan Lyrics Punjabi 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d422c2338fd0e9846c5

@@ -1,6 +1,6 @@
 ---
 title: "Mere Khutbou Sai Toot Jaye Ga Tere Darbar Ka Ghuroor Sabhi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

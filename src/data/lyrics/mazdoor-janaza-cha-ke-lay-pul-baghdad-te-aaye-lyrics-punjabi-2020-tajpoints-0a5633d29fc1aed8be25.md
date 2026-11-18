@@ -1,11 +1,11 @@
 ---
 title: "Mazdoor Janaza Cha Ke Lay Pul Baghdad Te Aaye Lyrics Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naeem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0a5633d29fc1aed8be25

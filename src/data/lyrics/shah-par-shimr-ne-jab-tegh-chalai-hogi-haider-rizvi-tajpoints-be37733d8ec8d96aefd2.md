@@ -1,11 +1,11 @@
 ---
 title: "Shah Par Shimr Ne Jab Tegh Chalai Hogi Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:be37733d8ec8d96aefd2

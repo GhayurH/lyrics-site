@@ -1,11 +1,11 @@
 ---
 title: "To Kia Karogay Shahid Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Surani"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c1347fc9db8c0693cefd

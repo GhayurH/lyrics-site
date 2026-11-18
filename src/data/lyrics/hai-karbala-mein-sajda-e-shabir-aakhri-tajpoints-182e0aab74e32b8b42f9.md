@@ -1,7 +1,7 @@
 ---
 title: "ہے کربلا میں سجدۂ شبیر آخری"
 alternateTitle: "Hai Karbala Mein Sajda-e-Shabbir Aakhri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

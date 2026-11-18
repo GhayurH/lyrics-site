@@ -1,11 +1,11 @@
 ---
 title: "Oh Band Akhiyaan Chum Ke Bhain Diyan Lyrics Punjabi 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0c89744ea3a0672c0bb9

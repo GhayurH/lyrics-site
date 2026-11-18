@@ -1,11 +1,11 @@
 ---
 title: "Baghdad Shehar Mein Bara Zulm Howa Hai Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1ef63b7c0855a07c2028

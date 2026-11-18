@@ -1,11 +1,11 @@
 ---
 title: "Amma Jawab Do Sonu Monu 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:258c7c6a69d8e059f82c

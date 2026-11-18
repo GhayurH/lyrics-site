@@ -1,10 +1,10 @@
 ---
 title: "Pyar Aisay Tu Yateemo Se Kiya Jata Hai Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:899ec4739a46e4e5036b

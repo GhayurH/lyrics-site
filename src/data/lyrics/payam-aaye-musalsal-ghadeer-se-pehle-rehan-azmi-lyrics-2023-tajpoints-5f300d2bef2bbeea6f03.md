@@ -1,11 +1,11 @@
 ---
 title: "Payam Aaye Musalsal Ghadeer Se Pehle Rehan Azmi Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5f300d2bef2bbeea6f03

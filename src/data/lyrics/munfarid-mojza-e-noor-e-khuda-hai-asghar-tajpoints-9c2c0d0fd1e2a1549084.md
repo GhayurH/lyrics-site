@@ -1,11 +1,11 @@
 ---
 title: "Munfarid Mojza-e-Noor-e-Khuda Hai Asghar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Bilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9c2c0d0fd1e2a1549084

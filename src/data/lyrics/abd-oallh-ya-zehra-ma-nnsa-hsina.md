@@ -1,11 +1,11 @@
 ---
 title: "ابد واللہ یا زہراؑ ما ننسا حسیناؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b0cc985312bbba03a00d

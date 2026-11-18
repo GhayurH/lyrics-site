@@ -1,11 +1,11 @@
 ---
 title: "Tur Gaya Aye Sajjad Dunya Toon Tur Gaya Aye Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:23150f39e2723328edc6

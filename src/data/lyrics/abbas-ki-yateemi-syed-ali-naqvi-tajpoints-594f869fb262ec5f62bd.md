@@ -1,11 +1,11 @@
 ---
 title: "Abbas Ki Yateemi Syed Ali Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shakeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:594f869fb262ec5f62bd

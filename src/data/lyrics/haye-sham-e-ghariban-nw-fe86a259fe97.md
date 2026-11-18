@@ -1,6 +1,6 @@
 ---
 title: "Haye Sham e Ghariban"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

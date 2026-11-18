@@ -1,11 +1,11 @@
 ---
 title: "Jab Tak Ali Akbar Ki Maa Zinda Rahi Roti Rahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sohail"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:78772c369d9e2cbe1476

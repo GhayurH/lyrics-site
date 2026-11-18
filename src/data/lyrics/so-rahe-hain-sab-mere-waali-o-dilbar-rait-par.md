@@ -1,6 +1,6 @@
 ---
 title: "So Rahe Hain Sab Mere Waali O Dilbar Rait Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

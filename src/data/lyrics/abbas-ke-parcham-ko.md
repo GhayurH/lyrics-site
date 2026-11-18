@@ -1,7 +1,7 @@
 ---
 title: "Abbas Ke Parcham Ko Hawa Choom Rahi Hai"
 # source_poet: Jawad
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

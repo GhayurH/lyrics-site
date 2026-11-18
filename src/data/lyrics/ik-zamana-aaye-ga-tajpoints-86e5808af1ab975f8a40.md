@@ -1,11 +1,11 @@
 ---
 title: "Ik Zamana Aaye Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:86e5808af1ab975f8a40

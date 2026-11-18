@@ -1,11 +1,11 @@
 ---
 title: "Main Hosh Mein Tha Tu Phir Oss Pe Mar Giya Kaise"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kamil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:626a4876dc2253fac03a

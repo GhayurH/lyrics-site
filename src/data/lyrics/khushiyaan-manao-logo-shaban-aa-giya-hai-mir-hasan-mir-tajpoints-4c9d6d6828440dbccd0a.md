@@ -1,11 +1,11 @@
 ---
 title: "Khushiyaan Manao Logo Shaban Aa Giya Hai Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4c9d6d6828440dbccd0a

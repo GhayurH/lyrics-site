@@ -1,11 +1,11 @@
 ---
 title: "Pehlu E Zahra Shakista Ho Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zaair"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8d0bda9976a9090d5388

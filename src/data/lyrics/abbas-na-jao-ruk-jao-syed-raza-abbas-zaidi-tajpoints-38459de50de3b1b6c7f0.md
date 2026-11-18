@@ -1,11 +1,11 @@
 ---
 title: "Abbas Na Jao Ruk Jao Syed Raza Abbas Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:38459de50de3b1b6c7f0

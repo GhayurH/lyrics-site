@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Main Razi Haan Lyrics In Punjabi 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0e7a9d0330f25e85487d

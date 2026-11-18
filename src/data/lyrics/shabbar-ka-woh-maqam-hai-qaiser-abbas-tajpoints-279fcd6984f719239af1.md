@@ -1,11 +1,11 @@
 ---
 title: "Shabbar Ka Woh Maqam Hai Qaiser Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rizwan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:279fcd6984f719239af1

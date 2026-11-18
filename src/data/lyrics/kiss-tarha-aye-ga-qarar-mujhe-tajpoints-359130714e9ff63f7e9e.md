@@ -1,10 +1,10 @@
 ---
 title: "Kiss Tarha Aye Ga Qarar Mujhe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:359130714e9ff63f7e9e

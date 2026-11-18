@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Kare Wain Sir Wekh Ke Mawaan De Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d41037cb67e3daace1f5

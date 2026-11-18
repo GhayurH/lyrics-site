@@ -1,11 +1,11 @@
 ---
 title: "Shah-e-Deen Ka Hosla Abbas Hai Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:288bb918261ecd5a3d35

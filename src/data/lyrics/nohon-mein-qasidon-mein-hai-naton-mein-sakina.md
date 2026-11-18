@@ -1,6 +1,6 @@
 ---
 title: "Nohon Mein Qasidon Mein Hai Naton Mein Sakina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,10 +1,10 @@
 ---
 title: "Main Farsh-e-Aza Hon Musahar Rizvi Asim Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:01d4f5a918ab35b64441

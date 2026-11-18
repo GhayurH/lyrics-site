@@ -1,11 +1,11 @@
 ---
 title: "Kaise Zahra Pe Howa Zulm Bataya Jaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:0910398f93a8c0f2a8f2

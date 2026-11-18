@@ -1,11 +1,11 @@
 ---
 title: "Keh Raha Hai Yehi Khuda-e-Rasool"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b569c9ffa8e0db26d5da

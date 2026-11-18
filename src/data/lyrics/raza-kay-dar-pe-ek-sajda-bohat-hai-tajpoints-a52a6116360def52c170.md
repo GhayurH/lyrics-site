@@ -1,11 +1,11 @@
 ---
 title: "Raza Kay Dar Pe Ek Sajda Bohat Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mudassir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a52a6116360def52c170

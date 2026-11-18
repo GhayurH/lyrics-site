@@ -1,11 +1,11 @@
 ---
 title: "Shar E Khuda Par Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9fe07c7ac40ca953fa9e

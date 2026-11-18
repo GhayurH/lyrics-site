@@ -1,11 +1,11 @@
 ---
 title: "نوکری شبیرؑ کی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ac5c0b2ef6f935be5e6f

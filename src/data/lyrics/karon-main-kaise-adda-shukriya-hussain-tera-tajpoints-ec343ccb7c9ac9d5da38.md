@@ -1,11 +1,11 @@
 ---
 title: "Karon Main Kaise Adda Shukriya Hussain Tera"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ec343ccb7c9ac9d5da38

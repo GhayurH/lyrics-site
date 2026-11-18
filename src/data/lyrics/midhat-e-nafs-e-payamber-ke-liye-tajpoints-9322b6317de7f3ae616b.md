@@ -1,11 +1,11 @@
 ---
 title: "Midhat-e-Nafs-e-Payamber Ke Liye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9322b6317de7f3ae616b

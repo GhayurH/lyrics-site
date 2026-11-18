@@ -1,11 +1,11 @@
 ---
 title: "Yun Sakina Ko Mila Hai Tera Pursa Baba Muhammad Raza Mungla"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2ea4037000a3d27d9b31

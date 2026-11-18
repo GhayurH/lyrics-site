@@ -1,11 +1,11 @@
 ---
 title: "Nana Ro Ro Takni Aan Chan Veer Diyaan Rahwaan 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e3a79737d1d5cf469154

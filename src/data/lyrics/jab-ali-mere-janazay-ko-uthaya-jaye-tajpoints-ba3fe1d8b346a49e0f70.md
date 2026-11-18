@@ -1,11 +1,11 @@
 ---
 title: "Jab Ali Mere Janazay Ko Uthaya Jaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ba3fe1d8b346a49e0f70

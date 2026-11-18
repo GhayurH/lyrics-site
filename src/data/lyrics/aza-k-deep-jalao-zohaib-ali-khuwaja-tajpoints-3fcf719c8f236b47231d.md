@@ -1,11 +1,11 @@
 ---
 title: "Aza K Deep Jalao Zohaib Ali Khuwaja"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Taseer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3fcf719c8f236b47231d

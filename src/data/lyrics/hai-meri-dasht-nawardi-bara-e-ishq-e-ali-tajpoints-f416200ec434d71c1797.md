@@ -1,7 +1,7 @@
 ---
 title: "ہے میری دشت نوردی برائے عشقِ علی"
 alternateTitle: "Hai Meri Dasht Nawardi Bara-e-Ishq-e-Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

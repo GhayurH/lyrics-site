@@ -1,11 +1,11 @@
 ---
 title: "Taboot E Mola Sajjad Shehbaz Haideri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shehbaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fb17d616f8f594226f88

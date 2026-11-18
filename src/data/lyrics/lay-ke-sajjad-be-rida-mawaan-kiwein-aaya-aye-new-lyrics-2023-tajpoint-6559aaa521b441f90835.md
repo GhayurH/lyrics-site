@@ -1,11 +1,11 @@
 ---
 title: "Lay Ke Sajjad Be Rida Mawaan Kiwein Aaya Aye New Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:6559aaa521b441f90835

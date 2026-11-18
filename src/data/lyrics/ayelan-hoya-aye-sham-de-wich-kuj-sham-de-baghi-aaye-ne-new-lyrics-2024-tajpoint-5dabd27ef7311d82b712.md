@@ -1,10 +1,10 @@
 ---
 title: "Ayelan Hoya Aye Sham De Wich Kuj Sham De Baghi Aaye Ne New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:5dabd27ef7311d82b712

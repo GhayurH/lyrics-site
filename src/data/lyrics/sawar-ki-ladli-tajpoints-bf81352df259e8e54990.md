@@ -1,11 +1,11 @@
 ---
 title: "Sawar Ki Ladli"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Laeeq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bf81352df259e8e54990

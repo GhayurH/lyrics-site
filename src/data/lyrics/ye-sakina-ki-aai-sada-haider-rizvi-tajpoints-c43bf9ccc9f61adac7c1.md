@@ -1,11 +1,11 @@
 ---
 title: "Ye Sakina Ki Aai Sada Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c43bf9ccc9f61adac7c1

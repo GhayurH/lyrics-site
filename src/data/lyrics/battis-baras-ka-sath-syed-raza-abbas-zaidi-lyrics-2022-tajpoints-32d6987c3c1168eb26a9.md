@@ -1,11 +1,11 @@
 ---
 title: "Battis Baras Ka Sath Syed Raza Abbas Zaidi Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Anees"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:32d6987c3c1168eb26a9

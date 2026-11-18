@@ -1,11 +1,11 @@
 ---
 title: "Meri Turbat Par Aye Baba Aa Nahi Sakta Koi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:592928a18d3489c28ad7

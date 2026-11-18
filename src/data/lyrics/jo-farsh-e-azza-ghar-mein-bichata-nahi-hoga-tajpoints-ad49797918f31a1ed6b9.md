@@ -1,11 +1,11 @@
 ---
 title: "Jo Farsh-e-Azza Ghar Mein Bichata Nahi Hoga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ad49797918f31a1ed6b9

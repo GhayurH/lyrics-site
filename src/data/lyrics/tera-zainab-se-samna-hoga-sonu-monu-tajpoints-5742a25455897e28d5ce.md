@@ -1,11 +1,11 @@
 ---
 title: "Tera Zainab Se Samna Hoga Sonu Monu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5742a25455897e28d5ce

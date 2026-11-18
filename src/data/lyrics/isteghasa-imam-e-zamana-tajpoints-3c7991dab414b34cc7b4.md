@@ -1,10 +1,10 @@
 ---
 title: "Isteghasa Imam-e-Zamana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3c7991dab414b34cc7b4

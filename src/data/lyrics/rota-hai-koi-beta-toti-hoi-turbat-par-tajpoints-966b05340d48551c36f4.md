@@ -1,11 +1,11 @@
 ---
 title: "Rota Hai Koi Beta Toti Hoi Turbat Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qasim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:966b05340d48551c36f4

@@ -1,10 +1,10 @@
 ---
 title: "اے پالنے والے میرے بابا کو بچا لے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:3ca5744a3c05dbb1bc54

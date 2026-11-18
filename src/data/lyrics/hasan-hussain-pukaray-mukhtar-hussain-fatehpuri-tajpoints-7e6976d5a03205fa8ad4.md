@@ -1,11 +1,11 @@
 ---
 title: "Hasan Hussain Pukaray Mukhtar Hussain Fatehpuri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7e6976d5a03205fa8ad4

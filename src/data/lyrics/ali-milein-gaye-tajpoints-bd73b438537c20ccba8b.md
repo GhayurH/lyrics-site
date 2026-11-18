@@ -1,11 +1,11 @@
 ---
 title: "Ali Milein Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Naqsh"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bd73b438537c20ccba8b

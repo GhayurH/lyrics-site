@@ -1,11 +1,11 @@
 ---
 title: "ہئے ہئے قاسمؑ ہائے قاسمؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4b05b0031ab097a1bfe8

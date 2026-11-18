@@ -1,10 +1,10 @@
 ---
 title: "ڈوبی ہوئی دکھ کے ساغر میں سورج کی سنہری تھالی تھی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e4829d80331eaa74169d

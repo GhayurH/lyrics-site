@@ -1,11 +1,11 @@
 ---
 title: "Mujh Ko Zindan Kay Mohsin Mir Ji 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Khalil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1ac9ea9b6b8cceb1db26

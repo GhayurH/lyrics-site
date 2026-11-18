@@ -1,11 +1,11 @@
 ---
 title: "Dunya Te Kaliyaan Abid Ne Katiya Zindan Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2431ad57aaa98f4b3947

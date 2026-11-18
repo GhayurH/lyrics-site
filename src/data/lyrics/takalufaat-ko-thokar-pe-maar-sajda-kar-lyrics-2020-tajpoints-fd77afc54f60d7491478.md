@@ -1,11 +1,11 @@
 ---
 title: "Takalufaat Ko Thokar Pe Maar Sajda Kar Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fd77afc54f60d7491478

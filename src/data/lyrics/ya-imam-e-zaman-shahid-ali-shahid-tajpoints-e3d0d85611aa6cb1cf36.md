@@ -1,11 +1,11 @@
 ---
 title: "Ya Imam E Zaman Shahid Ali Shahid"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shahid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e3d0d85611aa6cb1cf36

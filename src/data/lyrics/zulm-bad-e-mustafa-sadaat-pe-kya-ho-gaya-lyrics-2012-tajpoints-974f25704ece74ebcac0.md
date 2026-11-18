@@ -1,6 +1,6 @@
 ---
 title: "Zulm Baad-e-Mustafa Sadaat Pe Kya Ho Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

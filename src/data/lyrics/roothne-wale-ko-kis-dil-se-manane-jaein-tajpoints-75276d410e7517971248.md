@@ -1,11 +1,11 @@
 ---
 title: "Roothne Wale Ko Kis Dil Se Manane Jaein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Baghi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:75276d410e7517971248

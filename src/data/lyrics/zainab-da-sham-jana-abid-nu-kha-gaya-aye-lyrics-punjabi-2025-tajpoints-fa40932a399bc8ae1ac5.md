@@ -1,11 +1,11 @@
 ---
 title: "Zainab Da Sham Jana Abid Nu Kha Gaya Aye Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fa40932a399bc8ae1ac5

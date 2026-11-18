@@ -1,11 +1,11 @@
 ---
 title: "Main Sachi Aan Jiwein Sacha Aye Kalme Wich Naam Khuda Da Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:342a831ff6f370782d85

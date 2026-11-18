@@ -1,11 +1,11 @@
 ---
 title: "Ay Momino Ayyam Hain Yeh Askari Hassan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7271fbe7c9ec1b619991

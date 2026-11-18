@@ -1,6 +1,6 @@
 ---
 title: "Jai Joundi Agayi Bazaran Chon Tera Chehlum Veer Karawan Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

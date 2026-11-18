@@ -1,11 +1,11 @@
 ---
 title: "Mariyam Hain Hajrah Hain Na Sarah Hain Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nayyar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5531a7d4f5cfac175bda

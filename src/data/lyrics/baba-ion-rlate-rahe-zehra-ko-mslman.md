@@ -1,11 +1,11 @@
 ---
 title: "بابا یوں رُلاتے رہے زہراؑ کو مسلمان"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:457f14530335fa2a1a27

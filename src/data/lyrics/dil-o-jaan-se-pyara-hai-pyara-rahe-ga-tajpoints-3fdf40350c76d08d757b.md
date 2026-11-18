@@ -1,11 +1,11 @@
 ---
 title: "Dil-o-Jaan Se Pyara Hai Pyara Rahe Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3fdf40350c76d08d757b

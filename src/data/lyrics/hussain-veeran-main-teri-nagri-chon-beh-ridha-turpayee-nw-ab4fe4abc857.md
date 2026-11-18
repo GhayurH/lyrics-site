@@ -1,6 +1,6 @@
 ---
 title: "Hussain veeran main, teri nagri chon beh-ridha turpayee"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

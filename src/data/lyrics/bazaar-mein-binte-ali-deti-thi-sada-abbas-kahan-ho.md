@@ -1,6 +1,6 @@
 ---
 title: "Bazaar Mein Binte Ali Deti Thi Sada Abbas Kahan Ho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

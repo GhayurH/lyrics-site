@@ -1,11 +1,11 @@
 ---
 title: "Muslim Mery Bhai Syed Ali Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mehdi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7d072821b6ed3bcbdfac

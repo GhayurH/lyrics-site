@@ -1,10 +1,10 @@
 ---
 title: "Arey Oh Sham Walo Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b6baa4d63f324024d8f5

@@ -1,6 +1,6 @@
 ---
 title: "Kya Qayamat Teri Beti Py"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

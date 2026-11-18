@@ -1,6 +1,6 @@
 ---
 title: "Abbas Tere Dar Sa Duniya Mai Dar Kahan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Haider Ka Hamla Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6b796c586a3da397cf7a

@@ -1,6 +1,6 @@
 ---
 title: "Zahra Tere Bachchon Ka Koi Apna Nahin Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

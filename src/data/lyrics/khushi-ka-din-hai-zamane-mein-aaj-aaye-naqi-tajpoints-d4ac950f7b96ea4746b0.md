@@ -1,11 +1,11 @@
 ---
 title: "Khushi Ka Din Hai Zamane Mein Aaj Aaye Naqi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d4ac950f7b96ea4746b0

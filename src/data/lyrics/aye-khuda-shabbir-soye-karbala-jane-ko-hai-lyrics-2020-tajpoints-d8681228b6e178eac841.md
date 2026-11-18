@@ -1,11 +1,11 @@
 ---
 title: "Aye Khuda Shabbir Soye Karbala Jane Ko Hai Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d8681228b6e178eac841

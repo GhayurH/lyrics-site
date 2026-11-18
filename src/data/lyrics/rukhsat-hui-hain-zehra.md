@@ -1,6 +1,6 @@
 ---
 title: "Rukhsat Hui Hain Zehra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

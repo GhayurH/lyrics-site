@@ -1,11 +1,11 @@
 ---
 title: "Kabaa Ali Da Aye Te Jannat Hussain Di Lyrics In Punjabi 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:be1d74ae87f8051549ec

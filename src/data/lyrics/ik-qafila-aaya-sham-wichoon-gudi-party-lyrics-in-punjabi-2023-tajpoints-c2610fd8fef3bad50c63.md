@@ -1,11 +1,11 @@
 ---
 title: "Ik Qafila Aaya Sham Wichoon Gudi Party Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hadi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c2610fd8fef3bad50c63

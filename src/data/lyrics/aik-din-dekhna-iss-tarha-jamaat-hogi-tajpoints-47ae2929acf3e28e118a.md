@@ -1,11 +1,11 @@
 ---
 title: "Aik Din Dekhna Iss Tarha Jamaat Hogi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:47ae2929acf3e28e118a

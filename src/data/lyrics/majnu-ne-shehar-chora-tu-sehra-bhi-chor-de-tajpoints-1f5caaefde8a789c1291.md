@@ -1,11 +1,11 @@
 ---
 title: "Majnu Ne Shehar Chora Tu Sehra Bhi Chor De"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Iqbal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1f5caaefde8a789c1291

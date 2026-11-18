@@ -1,11 +1,11 @@
 ---
 title: "Kithay Sughra Nu V Nana Sukh Da Saa Aaway Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:42544331b4717a851fc5

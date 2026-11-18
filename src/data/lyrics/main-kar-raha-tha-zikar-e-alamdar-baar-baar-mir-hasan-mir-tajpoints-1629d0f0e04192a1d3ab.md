@@ -1,11 +1,11 @@
 ---
 title: "Main Kar Raha Tha Zikar E Alamdar Baar Baar Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1629d0f0e04192a1d3ab

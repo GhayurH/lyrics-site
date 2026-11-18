@@ -1,11 +1,11 @@
 ---
 title: "Rooh E Rasool Dekh Rahi Thi Batool Ko Anjuman Rasool E Khuda Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d4872097dc6d9e5635c

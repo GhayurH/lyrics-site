@@ -1,11 +1,11 @@
 ---
 title: "Laot Aao Darya Say Abbas Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bba8357eab4dc2763f32

@@ -1,11 +1,11 @@
 ---
 title: "Kankar Bhi Hain Gohar Ke Baraber Tere Dar Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0978cd801793e4d94723

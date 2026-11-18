@@ -1,6 +1,6 @@
 ---
 title: "Kufe Main Gir Gaye Hain Muslim"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Zuban-e-Be-Zubani Se Ali Asghar Batatay Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7ad0cc5dbaa88458ccd5

@@ -1,11 +1,11 @@
 ---
 title: "Sana Masooma-e-Qum Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:51fd1f3c2bd4c96177f4

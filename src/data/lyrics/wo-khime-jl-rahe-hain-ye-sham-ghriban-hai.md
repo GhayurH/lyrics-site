@@ -1,10 +1,10 @@
 ---
 title: "وہ خیمے جل رہے ہیں یہ شامِ غریباں ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:97b0ace2e3e952d15930

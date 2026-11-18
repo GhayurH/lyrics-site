@@ -1,6 +1,6 @@
 ---
 title: "Jeri Makhdooma Da Qul"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

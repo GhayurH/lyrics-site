@@ -1,11 +1,11 @@
 ---
 title: "Baba Yeh Musalmaan Mujhe Rone Nahi Detey"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sardar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c1587f4226c84dbcad8c

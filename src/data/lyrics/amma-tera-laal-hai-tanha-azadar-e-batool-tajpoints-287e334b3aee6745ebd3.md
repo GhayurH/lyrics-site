@@ -1,11 +1,11 @@
 ---
 title: "Amma Tera Laal Hai Tanha Azadar E Batool"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:287e334b3aee6745ebd3

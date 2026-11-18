@@ -1,10 +1,10 @@
 ---
 title: "Main Ummul Baneen Hoon Logo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:23afd01b5d2f7e02ab4a

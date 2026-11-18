@@ -1,11 +1,11 @@
 ---
 title: "Mera Naa Fizza Aey Loko Mere Naal Lyrics 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dc863774e6615637a854

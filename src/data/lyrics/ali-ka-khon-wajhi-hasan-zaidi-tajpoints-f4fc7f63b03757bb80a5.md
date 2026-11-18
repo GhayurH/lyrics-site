@@ -1,11 +1,11 @@
 ---
 title: "Ali Ka Khon Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f4fc7f63b03757bb80a5

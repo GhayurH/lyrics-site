@@ -1,6 +1,6 @@
 ---
 title: "Mere Ghareeb Ko Lakhon Nay Milke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

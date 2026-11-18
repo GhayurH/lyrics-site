@@ -1,11 +1,11 @@
 ---
 title: "Ho Kahan Aun O Muhammad Meesum Kashmiri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1700074794bc645e7976

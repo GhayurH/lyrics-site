@@ -1,6 +1,6 @@
 ---
 title: "Chaderain Sar Pe Nahi Saath Alamdar nahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

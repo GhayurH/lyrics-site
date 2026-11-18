@@ -1,11 +1,11 @@
 ---
 title: "Nawazishon Ka Nazool Ho Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b5dcb478f024ff6d15aa

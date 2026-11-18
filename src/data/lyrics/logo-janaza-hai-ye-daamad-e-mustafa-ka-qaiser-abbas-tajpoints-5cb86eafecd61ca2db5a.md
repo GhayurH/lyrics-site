@@ -1,11 +1,11 @@
 ---
 title: "Logo Janaza Hai Ye Daamad E Mustafa Ka Qaiser Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qaiser"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5cb86eafecd61ca2db5a

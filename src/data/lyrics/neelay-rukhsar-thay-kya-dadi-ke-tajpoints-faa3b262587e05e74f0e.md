@@ -1,11 +1,11 @@
 ---
 title: "Neelay Rukhsar Thay Kya Dadi Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:faa3b262587e05e74f0e

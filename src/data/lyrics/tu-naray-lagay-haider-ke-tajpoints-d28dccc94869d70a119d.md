@@ -1,11 +1,11 @@
 ---
 title: "Tu Naray Lagay Haider Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d28dccc94869d70a119d

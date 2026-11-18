@@ -1,11 +1,11 @@
 ---
 title: "Nayi Turya Jana Zainab Kolon Sham Diyaan Safraan Nu Lyrics Punjabi 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:11968b890fe0bb0cc5f0

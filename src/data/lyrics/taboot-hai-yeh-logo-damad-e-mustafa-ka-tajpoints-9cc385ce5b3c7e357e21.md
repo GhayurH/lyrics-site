@@ -1,11 +1,11 @@
 ---
 title: "Taboot Hai Yeh Logo Damad E Mustafa Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Lal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9cc385ce5b3c7e357e21

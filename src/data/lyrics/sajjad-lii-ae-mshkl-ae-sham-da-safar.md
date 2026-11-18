@@ -1,11 +1,11 @@
 ---
 title: "سجادؑ لئی اے مشکل اے شام دا سفر"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a53c302b96211708bcfc

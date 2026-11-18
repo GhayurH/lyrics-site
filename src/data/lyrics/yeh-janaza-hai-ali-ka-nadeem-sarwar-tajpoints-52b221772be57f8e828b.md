@@ -1,10 +1,10 @@
 ---
 title: "Yeh Janaza Hai Ali Ka Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:52b221772be57f8e828b

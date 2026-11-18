@@ -1,6 +1,6 @@
 ---
 title: "Ab Bhi Aati Hain Sakina Ki Sadaaein Logo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

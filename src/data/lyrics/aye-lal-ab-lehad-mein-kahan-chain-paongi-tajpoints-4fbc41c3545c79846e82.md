@@ -1,11 +1,11 @@
 ---
 title: "Aye Lal Ab Lehad Mein Kahan Chain Paongi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rizvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4fbc41c3545c79846e82

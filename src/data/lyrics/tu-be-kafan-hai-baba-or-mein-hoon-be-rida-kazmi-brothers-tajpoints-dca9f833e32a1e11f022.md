@@ -1,11 +1,11 @@
 ---
 title: "Tu Be Kafan Hai Baba Or Mein Hoon Be Rida Kazmi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azlan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dca9f833e32a1e11f022

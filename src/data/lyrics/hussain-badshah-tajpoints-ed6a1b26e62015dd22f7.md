@@ -1,11 +1,11 @@
 ---
 title: "Hussain Badshah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ed6a1b26e62015dd22f7

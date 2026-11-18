@@ -1,6 +1,6 @@
 ---
 title: "Farmaan-e-Mustafa Se Anjaan O Musalmaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

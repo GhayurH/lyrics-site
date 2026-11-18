@@ -1,6 +1,6 @@
 ---
 title: "Yeh Kaisa Chand Muharram Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

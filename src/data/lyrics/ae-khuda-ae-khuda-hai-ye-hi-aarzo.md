@@ -1,10 +1,10 @@
 ---
 title: "اے خدا اے خدا ہے یہ ہی آرزو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:df426276d40ca923951b

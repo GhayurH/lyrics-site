@@ -1,11 +1,11 @@
 ---
 title: "Madh E Abbas Ali Kazmi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9be084b511847f70df46

@@ -1,11 +1,11 @@
 ---
 title: "Aye Ghareeb Ul Ghuraba Aye Mere Bahi Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a8b145f591684097ebd2

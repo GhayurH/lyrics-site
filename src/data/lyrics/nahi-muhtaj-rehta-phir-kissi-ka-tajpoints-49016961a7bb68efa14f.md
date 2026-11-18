@@ -1,11 +1,11 @@
 ---
 title: "Nahi Muhtaj Rehta Phir Kissi Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:49016961a7bb68efa14f

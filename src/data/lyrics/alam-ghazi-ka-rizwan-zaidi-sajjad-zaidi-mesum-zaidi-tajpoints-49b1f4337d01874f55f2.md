@@ -1,11 +1,11 @@
 ---
 title: "Alam Ghazi Ka Rizwan Zaidi Sajjad Zaidi & Mesum Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:49b1f4337d01874f55f2

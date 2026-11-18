@@ -1,11 +1,11 @@
 ---
 title: "Mehrab Giri Ujra Mimber Dar-e-Batool"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naveed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:55daf03c918a227f12de

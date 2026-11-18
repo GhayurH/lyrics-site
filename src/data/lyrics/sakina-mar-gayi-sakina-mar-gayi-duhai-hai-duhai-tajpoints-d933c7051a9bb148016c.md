@@ -1,11 +1,11 @@
 ---
 title: "Sakina Mar Gayi Sakina Mar Gayi Duhai Hai Duhai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d933c7051a9bb148016c

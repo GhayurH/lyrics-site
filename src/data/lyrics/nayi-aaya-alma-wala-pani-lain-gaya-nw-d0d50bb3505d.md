@@ -1,6 +1,6 @@
 ---
 title: "Nayi Aaya Alma Wala Pani Lain Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

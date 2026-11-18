@@ -1,11 +1,11 @@
 ---
 title: "Shadi Mola Ali O Janab E Syeda"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:59dcaa2b512203450111

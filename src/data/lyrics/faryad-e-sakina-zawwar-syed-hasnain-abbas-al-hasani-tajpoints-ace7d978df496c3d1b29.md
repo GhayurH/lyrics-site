@@ -1,11 +1,11 @@
 ---
 title: "Faryad E Sakina Zawwar Syed Hasnain Abbas Al-Hasani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ace7d978df496c3d1b29

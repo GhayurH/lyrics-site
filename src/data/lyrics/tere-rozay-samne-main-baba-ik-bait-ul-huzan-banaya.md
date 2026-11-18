@@ -1,6 +1,6 @@
 ---
 title: "Tere Rozay Samne Main Baba Ik Bait ul Huzan Banaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

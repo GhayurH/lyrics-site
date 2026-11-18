@@ -1,6 +1,6 @@
 ---
 title: "Zahra Darbar Che Rondi Rayi Darbari Sare Hasday Re"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

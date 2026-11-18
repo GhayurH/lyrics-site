@@ -1,6 +1,6 @@
 ---
 title: "Kalma Quran Te Bach Gaye Zainab Da Kuch Vi Na Reya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

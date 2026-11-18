@@ -1,11 +1,11 @@
 ---
 title: "ہائے مظلومہ فاطمہ زہراؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Farhan Ali"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5dbe47ece6e936031bf9

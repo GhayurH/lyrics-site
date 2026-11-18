@@ -1,6 +1,6 @@
 ---
 title: "Asr Ka Waqt Qareeb Aagaya Lo Jaate Hai Ham"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

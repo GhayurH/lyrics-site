@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Bhira Di Maiyyat Nu Teraan Taun Veer Bachawin New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:93c9c063b0da76364570

@@ -1,10 +1,10 @@
 ---
 title: "Zakhmi Maa Zehra Sonu Monu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6983fbba0d9bc11cd250

@@ -1,11 +1,11 @@
 ---
 title: "Dulhan Wi Lajawab Aye Dulha Wi Lajawab Aye Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fe40c27de7dfb9a34610

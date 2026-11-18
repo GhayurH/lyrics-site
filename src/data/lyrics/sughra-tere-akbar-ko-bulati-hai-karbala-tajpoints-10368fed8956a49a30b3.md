@@ -1,11 +1,11 @@
 ---
 title: "Sughra Tere Akbar Ko Bulati Hai Karbala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:10368fed8956a49a30b3

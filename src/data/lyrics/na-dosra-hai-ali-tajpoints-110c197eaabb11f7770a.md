@@ -1,11 +1,11 @@
 ---
 title: "Na Dosra Hai Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:110c197eaabb11f7770a

@@ -1,6 +1,6 @@
 ---
 title: "Abbas Alam Tera Maqtal Se Aa Raha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

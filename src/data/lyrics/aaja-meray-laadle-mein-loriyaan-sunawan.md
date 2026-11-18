@@ -1,6 +1,6 @@
 ---
 title: "Aaja Meray Laadle Mein Loriyaan Sunawan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

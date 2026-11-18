@@ -1,11 +1,11 @@
 ---
 title: "Aa Gaye Ghar Ali Ka Jalanay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:20bec9421774a15b8428

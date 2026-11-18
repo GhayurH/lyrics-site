@@ -1,10 +1,10 @@
 ---
 title: "Qaid Khaney Mein Ali Shanawar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6a7ec77361eabf64aa76

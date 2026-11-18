@@ -1,11 +1,11 @@
 ---
 title: "Fatima Fatima Mukhtar Hussain Fatehpuri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a98f86a49b2a795263aa

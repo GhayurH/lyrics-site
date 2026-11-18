@@ -1,11 +1,11 @@
 ---
 title: "Zameen E Dasht Pe Bikhra Hussain Ka Lasha 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Murtajiz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:f36ad451c4a0b4e32803

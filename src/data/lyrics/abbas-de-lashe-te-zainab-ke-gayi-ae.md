@@ -1,6 +1,6 @@
 ---
 title: "Abbas De Lashe Te Zainab Ke Gayi Ae"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

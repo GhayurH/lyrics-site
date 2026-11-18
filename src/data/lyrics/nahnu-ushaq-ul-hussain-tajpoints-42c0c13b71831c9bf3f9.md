@@ -1,11 +1,11 @@
 ---
 title: "Nahnu Ushaq Ul Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Minhaj"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:42c0c13b71831c9bf3f9

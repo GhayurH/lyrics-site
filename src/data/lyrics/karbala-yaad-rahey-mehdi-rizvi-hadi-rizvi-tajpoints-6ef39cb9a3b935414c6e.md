@@ -1,11 +1,11 @@
 ---
 title: "Karbala Yaad Rahey Mehdi Rizvi Hadi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6ef39cb9a3b935414c6e

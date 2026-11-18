@@ -1,11 +1,11 @@
 ---
 title: "Dar E Bahisht Pe Ism E Ali Likha Howa Hai Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3443d4723f04747e956b

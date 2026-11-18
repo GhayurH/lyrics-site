@@ -1,11 +1,11 @@
 ---
 title: "Ay Akhi Abbas Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9ebd9fe8d214d10a3702

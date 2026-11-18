@@ -1,6 +1,6 @@
 ---
 title: "Hogayi Dair Mujhe Mola Qasim"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

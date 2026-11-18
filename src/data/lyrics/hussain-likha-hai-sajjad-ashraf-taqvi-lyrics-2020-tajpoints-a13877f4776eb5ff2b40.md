@@ -1,11 +1,11 @@
 ---
 title: "Hussain Likha Hai Sajjad Ashraf Taqvi Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a13877f4776eb5ff2b40

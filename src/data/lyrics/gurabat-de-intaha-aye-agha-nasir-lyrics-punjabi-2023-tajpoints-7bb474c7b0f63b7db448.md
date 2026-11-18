@@ -1,11 +1,11 @@
 ---
 title: "Gurabat De Intaha Aye Agha Nasir Lyrics Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7bb474c7b0f63b7db448

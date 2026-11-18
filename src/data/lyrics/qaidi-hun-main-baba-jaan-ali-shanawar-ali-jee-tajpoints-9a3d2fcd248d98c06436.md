@@ -1,10 +1,10 @@
 ---
 title: "Qaidi Hun Main Baba Jaan Ali Shanawar – Ali Jee"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9a3d2fcd248d98c06436

@@ -1,11 +1,11 @@
 ---
 title: "Nayi Lash La Waris Aye Loko Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0088081e508530a2863c

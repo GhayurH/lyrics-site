@@ -1,11 +1,11 @@
 ---
 title: "Palat Ke Agaya Lasha Qaiser Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zaheer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:881ca7f375575713c66e

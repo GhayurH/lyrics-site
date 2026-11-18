@@ -1,11 +1,11 @@
 ---
 title: "Kuch Na Kissi Se Boleinge"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Faraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fbeeb8978cfd2ccd9a49

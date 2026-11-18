@@ -1,11 +1,11 @@
 ---
 title: "Deen Hain Deen Ki Baqa Hain Hussain Zakir Bilawal Ali Hussaini"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Abbas"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a45740a01e0f6d46050e

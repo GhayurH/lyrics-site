@@ -1,11 +1,11 @@
 ---
 title: "Main Hussain Hun Ali Shanawar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3bd9c3fc5d44ab15df18

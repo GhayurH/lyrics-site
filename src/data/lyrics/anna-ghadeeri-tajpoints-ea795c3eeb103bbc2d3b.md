@@ -1,11 +1,11 @@
 ---
 title: "Anna Ghadeeri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Abbas"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ea795c3eeb103bbc2d3b

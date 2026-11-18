@@ -1,11 +1,11 @@
 ---
 title: "Kaisi Ghurbat Hai Madinay Mein Khurram Murtaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37d6099d60bf50dafa2f

@@ -1,11 +1,11 @@
 ---
 title: "Khazina Khushiyon Ka Mahe Shaban Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mazhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e5f9a0c7fe2ad258c158

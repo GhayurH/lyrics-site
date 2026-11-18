@@ -1,11 +1,11 @@
 ---
 title: "Mujh Par Utar Rahe Hain Sahife Naye Naye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:506f71eb233f1258d59a

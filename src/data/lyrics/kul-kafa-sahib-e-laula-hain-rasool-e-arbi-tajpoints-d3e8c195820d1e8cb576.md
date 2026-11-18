@@ -1,11 +1,11 @@
 ---
 title: "Kul Kafa Sahib-e-Laula Hain Rasool-e-Arbi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d3e8c195820d1e8cb576

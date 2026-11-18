@@ -1,11 +1,11 @@
 ---
 title: "Kaise Ye Haal E Dard O Alam Qaiser Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rizwan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:116d2a7ea84bca25b488

@@ -1,6 +1,6 @@
 ---
 title: "Karbala Ke Khak Ur Kar Dhanp Lay Shabeer Ko"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

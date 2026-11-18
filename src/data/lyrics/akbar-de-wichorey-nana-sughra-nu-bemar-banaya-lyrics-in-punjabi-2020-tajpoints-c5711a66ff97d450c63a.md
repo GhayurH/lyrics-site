@@ -1,11 +1,11 @@
 ---
 title: "Akbar De Wichorey Nana Sughra Nu Bemar Banaya Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c5711a66ff97d450c63a

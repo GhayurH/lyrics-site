@@ -1,11 +1,11 @@
 ---
 title: "Qabar Asghar Ki Banane Mein Bohat Dair Lagi Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:320bee0775696a15e598

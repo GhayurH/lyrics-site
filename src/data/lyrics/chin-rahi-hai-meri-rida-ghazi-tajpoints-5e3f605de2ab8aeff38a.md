@@ -1,11 +1,11 @@
 ---
 title: "Chin Rahi Hai Meri Rida Ghazi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5e3f605de2ab8aeff38a

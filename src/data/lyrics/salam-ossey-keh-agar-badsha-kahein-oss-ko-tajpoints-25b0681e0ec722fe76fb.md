@@ -1,11 +1,11 @@
 ---
 title: "Salam Ossey Keh Agar Badsha Kahein Oss Ko"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:25b0681e0ec722fe76fb

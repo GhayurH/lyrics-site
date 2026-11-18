@@ -1,10 +1,10 @@
 ---
 title: "تنہائی میں زنداں کی یہ کہتی تھی سکینہؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:9095c9f90efd050880ca

@@ -1,10 +1,10 @@
 ---
 title: "یہ صدا دیتی ہے زینبؑ میرے جانی عباسؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:17e1fb8b8113fd436668

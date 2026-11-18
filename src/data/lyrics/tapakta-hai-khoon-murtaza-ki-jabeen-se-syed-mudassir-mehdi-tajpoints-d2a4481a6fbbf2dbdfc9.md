@@ -1,11 +1,11 @@
 ---
 title: "Tapakta Hai Khoon Murtaza Ki Jabeen Se Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d2a4481a6fbbf2dbdfc9

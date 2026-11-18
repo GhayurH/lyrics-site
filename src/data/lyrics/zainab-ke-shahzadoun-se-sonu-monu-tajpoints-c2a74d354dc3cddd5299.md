@@ -1,11 +1,11 @@
 ---
 title: "Zainab Ke Shahzadoun Se Sonu Monu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c2a74d354dc3cddd5299

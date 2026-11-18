@@ -1,11 +1,11 @@
 ---
 title: "Main Hussain Hoon Woh Hussain Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f287eb5b2413450f2543

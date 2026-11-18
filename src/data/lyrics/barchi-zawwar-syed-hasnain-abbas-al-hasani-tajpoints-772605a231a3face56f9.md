@@ -1,11 +1,11 @@
 ---
 title: "Barchi Zawwar Syed Hasnain Abbas Al Hasani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:772605a231a3face56f9

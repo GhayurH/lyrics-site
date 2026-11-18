@@ -1,6 +1,6 @@
 ---
 title: "Goonj Rahi Hai Ye Sada Ya Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

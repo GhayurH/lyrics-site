@@ -1,11 +1,11 @@
 ---
 title: "Sakina Rehai Mili Hai Chalo Sarwar Raza Karabalai Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cd4c6d409fdf17b56f59

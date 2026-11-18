@@ -1,11 +1,11 @@
 ---
 title: "Shiyon Ki Eid Aayi Hai Shia Manaein Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a12571091120a4cf1aeb

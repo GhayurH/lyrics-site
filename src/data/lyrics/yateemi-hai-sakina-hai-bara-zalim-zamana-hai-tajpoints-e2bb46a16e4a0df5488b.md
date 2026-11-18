@@ -1,11 +1,11 @@
 ---
 title: "Yateemi Hai Sakina Hai Bara Zalim Zamana Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farhan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e2bb46a16e4a0df5488b

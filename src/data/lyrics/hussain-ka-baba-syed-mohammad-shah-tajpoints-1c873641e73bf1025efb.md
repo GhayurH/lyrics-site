@@ -1,11 +1,11 @@
 ---
 title: "Hussain Ka Baba Syed Mohammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1c873641e73bf1025efb

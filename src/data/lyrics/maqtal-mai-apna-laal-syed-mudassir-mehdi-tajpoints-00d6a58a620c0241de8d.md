@@ -1,11 +1,11 @@
 ---
 title: "Maqtal Mai Apna Laal Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Murtajiz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:00d6a58a620c0241de8d

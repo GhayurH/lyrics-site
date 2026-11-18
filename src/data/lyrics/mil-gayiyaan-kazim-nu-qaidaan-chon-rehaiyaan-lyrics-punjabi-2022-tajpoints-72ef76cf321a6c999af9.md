@@ -1,11 +1,11 @@
 ---
 title: "Mil Gayiyaan Kazim Nu Qaidaan Chon Rehaiyaan Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:72ef76cf321a6c999af9

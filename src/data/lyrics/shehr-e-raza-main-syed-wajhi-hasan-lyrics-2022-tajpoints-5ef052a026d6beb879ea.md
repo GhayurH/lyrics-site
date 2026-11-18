@@ -1,11 +1,11 @@
 ---
 title: "Shehr E Raza Main Syed Wajhi Hasan Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5ef052a026d6beb879ea

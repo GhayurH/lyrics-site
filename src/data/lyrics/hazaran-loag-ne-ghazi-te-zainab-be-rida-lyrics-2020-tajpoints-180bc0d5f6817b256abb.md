@@ -1,11 +1,11 @@
 ---
 title: "Hazaran Loag Ne Ghazi Te Zainab Be Rida Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:180bc0d5f6817b256abb

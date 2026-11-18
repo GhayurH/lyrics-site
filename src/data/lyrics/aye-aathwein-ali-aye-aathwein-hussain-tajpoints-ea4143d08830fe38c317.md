@@ -1,11 +1,11 @@
 ---
 title: "Aye Aathwein Ali Aye Aathwein Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ea4143d08830fe38c317

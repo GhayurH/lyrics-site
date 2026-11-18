@@ -1,11 +1,11 @@
 ---
 title: "Darbar Se Kya Zakhm Utha Layi Hai Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mazhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fb587b1b0b9deb691bf1

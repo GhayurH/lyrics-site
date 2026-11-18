@@ -1,11 +1,11 @@
 ---
 title: "المدد یا زہراؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Shahid Baltistani"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0791cbfc953160487f8e

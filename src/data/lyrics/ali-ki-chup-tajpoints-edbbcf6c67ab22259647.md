@@ -1,11 +1,11 @@
 ---
 title: "Ali Ki Chup"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:edbbcf6c67ab22259647

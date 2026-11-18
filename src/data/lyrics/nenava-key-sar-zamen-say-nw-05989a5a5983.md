@@ -1,6 +1,6 @@
 ---
 title: "Nenava Key Sar Zamen Say"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

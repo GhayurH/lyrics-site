@@ -1,11 +1,11 @@
 ---
 title: "Kahan Aasan Hai Paidal Najaf Se Karbala Jana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f8fa7a196e1b6edbfb9a

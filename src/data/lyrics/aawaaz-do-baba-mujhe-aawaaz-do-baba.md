@@ -1,6 +1,6 @@
 ---
 title: "Aawaaz Do Baba Mujhe Aawaaz Do Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

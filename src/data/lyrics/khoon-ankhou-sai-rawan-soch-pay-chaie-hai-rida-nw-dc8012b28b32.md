@@ -1,6 +1,6 @@
 ---
 title: "Khoon Ankhou Sai Rawan, Soch Pay Chaie Hai Rida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

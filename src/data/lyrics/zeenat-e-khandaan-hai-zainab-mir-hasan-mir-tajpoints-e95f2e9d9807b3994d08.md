@@ -1,11 +1,11 @@
 ---
 title: "Zeenat E Khandaan Hai Zainab Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e95f2e9d9807b3994d08

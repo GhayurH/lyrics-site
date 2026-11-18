@@ -1,11 +1,11 @@
 ---
 title: "Waqt Yeh Teri Sakina Pay Hassan Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cb390735135affc04460

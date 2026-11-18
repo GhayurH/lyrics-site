@@ -1,10 +1,10 @@
 ---
 title: "Na Maro Musalmano Ye Zahra Ka Chain Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dedbeceee801548ff823

@@ -1,10 +1,10 @@
 ---
 title: "Zindagi Bad Tere Aise Bitayi Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e24835f5a8b197c2da6b

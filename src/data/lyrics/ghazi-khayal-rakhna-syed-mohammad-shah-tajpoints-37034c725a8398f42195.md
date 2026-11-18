@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Khayal Rakhna Syed Mohammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37034c725a8398f42195

@@ -1,11 +1,11 @@
 ---
 title: "Wohi Khuda Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Hamd"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7b721cd9aa50632e0ae3

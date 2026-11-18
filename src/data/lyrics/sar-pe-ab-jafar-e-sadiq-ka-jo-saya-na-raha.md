@@ -1,10 +1,10 @@
 ---
 title: "سر پہ اب جعفر صادقؑ کا جو سایہ نہ رہا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2ead3e5487d1757ad7f6

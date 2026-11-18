@@ -1,11 +1,11 @@
 ---
 title: "Pardes Mein Logon Se Rida Mangti Rahi Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:84c4021d70dbb8dab080

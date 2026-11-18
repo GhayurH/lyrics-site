@@ -1,11 +1,11 @@
 ---
 title: "Jab Mola Mehdi Aaein Gaye Mir Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Tehzeeb"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ec875a8520e014679953

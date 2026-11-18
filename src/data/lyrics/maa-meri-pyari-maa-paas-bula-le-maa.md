@@ -1,11 +1,11 @@
 ---
 title: "ماں میری پیاری ماں پاس بلا لے ماں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Farhan Ali"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:23a717302c1c64265cb3

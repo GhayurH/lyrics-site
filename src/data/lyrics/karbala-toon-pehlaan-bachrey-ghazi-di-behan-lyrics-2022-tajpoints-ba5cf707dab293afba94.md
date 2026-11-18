@@ -1,11 +1,11 @@
 ---
 title: "Karbala Toon Pehlaan Bachrey Ghazi Di Behan Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ba5cf707dab293afba94

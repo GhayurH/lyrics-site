@@ -1,11 +1,11 @@
 ---
 title: "Yateemi Wich Rujhi Hui Han Faheem Ali Lyrics In Saraiki 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9c91e70c07aaf65e1dcd

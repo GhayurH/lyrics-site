@@ -1,6 +1,6 @@
 ---
 title: "Ab To Aajao Shahenshah-e-Wafa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

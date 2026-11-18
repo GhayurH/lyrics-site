@@ -1,6 +1,6 @@
 ---
 title: "Mera Chay Maah Da Hay Asghar Aj Akbar Ban Kay Jaway Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

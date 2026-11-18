@@ -1,11 +1,11 @@
 ---
 title: "Ishq-e-Haider Mein Salman Apni Jagah Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wafa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:807826918d4f6c071337

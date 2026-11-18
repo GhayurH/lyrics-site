@@ -1,10 +1,10 @@
 ---
 title: "So Jaye Thori Dair Sakina To Jaiye Mir Hasan Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6a4b5607edb81b598d36

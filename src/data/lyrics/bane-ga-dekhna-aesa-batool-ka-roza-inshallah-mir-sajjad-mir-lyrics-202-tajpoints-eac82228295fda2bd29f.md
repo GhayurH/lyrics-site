@@ -1,11 +1,11 @@
 ---
 title: "Bane Ga Dekhna Aesa Batool Ka Roza Inshallah Mir Sajjad Mir Lyrics 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eac82228295fda2bd29f

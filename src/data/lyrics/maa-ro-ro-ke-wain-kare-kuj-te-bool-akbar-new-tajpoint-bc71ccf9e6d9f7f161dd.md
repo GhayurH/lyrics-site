@@ -1,11 +1,11 @@
 ---
 title: "Maa Ro Ro Ke Wain Kare Kuj Te Bool Akbar New"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:bc71ccf9e6d9f7f161dd

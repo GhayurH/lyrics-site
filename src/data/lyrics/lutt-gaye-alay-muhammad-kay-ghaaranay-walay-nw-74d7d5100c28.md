@@ -1,6 +1,6 @@
 ---
 title: "Lutt Gaye Alay Muhammad Kay Ghaaranay Walay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

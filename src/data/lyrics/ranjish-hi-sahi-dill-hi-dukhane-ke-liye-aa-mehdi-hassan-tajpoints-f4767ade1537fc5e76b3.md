@@ -1,10 +1,10 @@
 ---
 title: "Ranjish Hi Sahi Dill Hi Dukhane Ke Liye Aa Mehdi Hassan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f4767ade1537fc5e76b3

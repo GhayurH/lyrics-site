@@ -1,6 +1,6 @@
 ---
 title: "Shabbir Di Maa Di Azmat Tu Ja Nabian De"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

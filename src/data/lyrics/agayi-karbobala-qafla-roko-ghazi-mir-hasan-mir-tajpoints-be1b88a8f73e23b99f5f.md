@@ -1,11 +1,11 @@
 ---
 title: "Agayi Karbobala Qafla Roko Ghazi Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:be1b88a8f73e23b99f5f

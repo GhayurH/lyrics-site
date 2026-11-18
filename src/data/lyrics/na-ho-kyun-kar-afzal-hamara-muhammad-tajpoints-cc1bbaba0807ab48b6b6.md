@@ -1,11 +1,11 @@
 ---
 title: "Na Ho Kyun Kar Afzal Hamara Muhammad"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Daag"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cc1bbaba0807ab48b6b6

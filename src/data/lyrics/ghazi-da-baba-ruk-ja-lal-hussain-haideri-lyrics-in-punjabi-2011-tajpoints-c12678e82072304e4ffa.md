@@ -1,10 +1,10 @@
 ---
 title: "Ghazi Da Baba Ruk Ja Lal Hussain Haideri Lyrics In Punjabi 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c12678e82072304e4ffa

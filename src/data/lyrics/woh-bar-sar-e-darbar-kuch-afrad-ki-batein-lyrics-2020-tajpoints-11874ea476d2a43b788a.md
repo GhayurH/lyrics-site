@@ -1,11 +1,11 @@
 ---
 title: "Woh Bar Sar E Darbar Kuch Afrad Ki Batein Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:11874ea476d2a43b788a

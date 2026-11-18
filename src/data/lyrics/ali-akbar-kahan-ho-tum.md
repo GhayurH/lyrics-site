@@ -1,11 +1,11 @@
 ---
 title: "علی اکبرؑ کہاں ہو تم"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Ali Safdar Rizvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:34853f1d7c9a937bef51

@@ -1,10 +1,10 @@
 ---
 title: "Bichrey Safar Mein Aisay Muslim Ke Pisar Dono"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b9baae24570b4b79003f

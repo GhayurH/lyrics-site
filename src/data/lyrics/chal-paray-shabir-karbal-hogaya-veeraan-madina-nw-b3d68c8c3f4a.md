@@ -1,6 +1,6 @@
 ---
 title: "Chal Paray Shabbir Karbal Ho Gaya Veeran Madina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Oss Par Hoi Yeh Khas Inayat Raza Ki Hai Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0dd3b4c1b9a2fc22b9cb

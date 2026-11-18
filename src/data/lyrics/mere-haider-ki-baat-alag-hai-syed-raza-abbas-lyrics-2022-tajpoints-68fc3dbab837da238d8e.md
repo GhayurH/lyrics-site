@@ -1,11 +1,11 @@
 ---
 title: "Mere Haider Ki Baat Alag Hai Syed Raza Abbas Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:68fc3dbab837da238d8e

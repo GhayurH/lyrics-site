@@ -1,11 +1,11 @@
 ---
 title: "Tasbeeh-e-Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cc5ae558d6dd3f62b010

@@ -1,11 +1,11 @@
 ---
 title: "Baba Yateemi Hai Kya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4569004b6a014c85ac94

@@ -1,11 +1,11 @@
 ---
 title: "Imam Hasan Mujtaba Manqabat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6436fd627cd05e9b0aed

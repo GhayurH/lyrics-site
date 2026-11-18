@@ -1,11 +1,11 @@
 ---
 title: "Maa Sonati Thi Sakina Ko Kahani Qaid Mein Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:43b9d0d802c64ef3ad6d

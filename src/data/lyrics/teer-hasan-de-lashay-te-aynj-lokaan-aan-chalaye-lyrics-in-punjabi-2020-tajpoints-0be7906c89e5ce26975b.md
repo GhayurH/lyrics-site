@@ -1,11 +1,11 @@
 ---
 title: "Teer Hasan De Lashay Te Aynj Lokaan Aan Chalaye Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0be7906c89e5ce26975b

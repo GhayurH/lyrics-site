@@ -1,11 +1,11 @@
 ---
 title: "Hussainiat Ki Fizza Tou Hai Na"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shaukat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:82a5b6d88f35027548bd

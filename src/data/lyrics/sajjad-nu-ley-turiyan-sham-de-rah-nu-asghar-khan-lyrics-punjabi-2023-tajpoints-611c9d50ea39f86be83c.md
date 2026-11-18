@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Nu Ley Turiyan Sham De Rah Nu Asghar Khan Lyrics Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:611c9d50ea39f86be83c

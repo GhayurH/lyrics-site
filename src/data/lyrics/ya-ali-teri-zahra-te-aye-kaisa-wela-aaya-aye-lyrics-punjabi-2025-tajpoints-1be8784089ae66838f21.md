@@ -1,11 +1,11 @@
 ---
 title: "Ya Ali Teri Zahra Te Aye Kaisa Wela Aaya Aye Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1be8784089ae66838f21

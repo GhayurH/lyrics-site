@@ -1,11 +1,11 @@
 ---
 title: "Aye Munkir E Haider Tere Barey Mein Nahi Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ammar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a980346ca614d30baf4b

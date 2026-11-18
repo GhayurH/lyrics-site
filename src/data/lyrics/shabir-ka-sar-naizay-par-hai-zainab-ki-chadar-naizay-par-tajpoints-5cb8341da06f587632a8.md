@@ -1,11 +1,11 @@
 ---
 title: "Shabir Ka Sar Naizay Par Hai Zainab Ki Chadar Naizay Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5cb8341da06f587632a8

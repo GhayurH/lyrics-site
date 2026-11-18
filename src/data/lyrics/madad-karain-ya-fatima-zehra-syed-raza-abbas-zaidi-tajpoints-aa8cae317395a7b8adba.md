@@ -1,11 +1,11 @@
 ---
 title: "Madad Karain Ya Fatima Zehra Syed Raza Abbas Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Munajat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aa8cae317395a7b8adba

@@ -1,11 +1,11 @@
 ---
 title: "Masjid Mein Zakhmi Kabay Ka Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:20527f025548b1a039a5

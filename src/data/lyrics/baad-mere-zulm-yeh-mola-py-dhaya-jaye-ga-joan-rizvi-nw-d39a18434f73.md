@@ -1,6 +1,6 @@
 ---
 title: "BAAD MERE ZULM YEH MOLA PY DHAYA JAYE GA -Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

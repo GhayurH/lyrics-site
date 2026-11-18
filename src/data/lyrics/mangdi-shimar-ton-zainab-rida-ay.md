@@ -1,6 +1,6 @@
 ---
 title: "Mangdi Shimar Ton Zainab Rida Ay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

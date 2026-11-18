@@ -1,11 +1,11 @@
 ---
 title: "Sab Mil Ke Kaho Syed-o-Sardar Qalandar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:97eb0fa023af6a797ff0

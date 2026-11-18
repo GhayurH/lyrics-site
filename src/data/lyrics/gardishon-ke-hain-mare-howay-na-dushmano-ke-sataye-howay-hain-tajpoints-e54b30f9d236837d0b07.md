@@ -1,11 +1,11 @@
 ---
 title: "Gardishon Ke Hain Mare Howay Na Dushmano Ke Sataye Howay Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e54b30f9d236837d0b07

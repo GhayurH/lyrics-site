@@ -1,10 +1,10 @@
 ---
 title: "غازی کو بچپنے میں ماں یہ سبق پڑھائے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:67f9b5e74a811cb73c19

@@ -1,11 +1,11 @@
 ---
 title: "Zamin Hain Raza Mola Meesum Kashmiri Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d16fa89ed1e46f4aed75

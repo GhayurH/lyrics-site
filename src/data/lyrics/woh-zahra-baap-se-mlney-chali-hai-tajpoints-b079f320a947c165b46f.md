@@ -1,11 +1,11 @@
 ---
 title: "Woh Zahra Baap Se Mlney Chali Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b079f320a947c165b46f

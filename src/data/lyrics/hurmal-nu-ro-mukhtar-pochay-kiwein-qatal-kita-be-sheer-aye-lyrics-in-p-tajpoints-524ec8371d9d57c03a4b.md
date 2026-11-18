@@ -1,11 +1,11 @@
 ---
 title: "Hurmal Nu Ro Mukhtar Pochay Kiwein Qatal Kita Be Sheer Aye Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hadi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:524ec8371d9d57c03a4b

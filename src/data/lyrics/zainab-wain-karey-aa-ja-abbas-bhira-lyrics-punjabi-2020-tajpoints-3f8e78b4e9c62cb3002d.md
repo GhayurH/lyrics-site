@@ -1,11 +1,11 @@
 ---
 title: "Zainab Wain Karey Aa Ja Abbas Bhira Lyrics Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3f8e78b4e9c62cb3002d

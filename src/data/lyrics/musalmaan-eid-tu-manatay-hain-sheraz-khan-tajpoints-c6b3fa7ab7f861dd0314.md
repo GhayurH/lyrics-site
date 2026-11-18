@@ -1,11 +1,11 @@
 ---
 title: "Musalmaan Eid Tu Manatay Hain Sheraz Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c6b3fa7ab7f861dd0314

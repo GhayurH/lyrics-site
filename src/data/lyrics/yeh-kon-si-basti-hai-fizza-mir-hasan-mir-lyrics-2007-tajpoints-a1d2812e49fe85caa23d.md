@@ -1,11 +1,11 @@
 ---
 title: "Yeh Kon Si Basti Hai Fizza Mir Hasan Mir Lyrics 2007"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a1d2812e49fe85caa23d

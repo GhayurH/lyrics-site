@@ -1,6 +1,6 @@
 ---
 title: "Ranj Na Ho Mera Bhira, Be Kafan Laasha Tera"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Muslim Ke Ladloon Par Yeh Kaisi Jafa Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:faa4461c705a362e216c

@@ -1,6 +1,6 @@
 ---
 title: "Shaheed-e-Karbala Hussain, Hussain Hussain Imam Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

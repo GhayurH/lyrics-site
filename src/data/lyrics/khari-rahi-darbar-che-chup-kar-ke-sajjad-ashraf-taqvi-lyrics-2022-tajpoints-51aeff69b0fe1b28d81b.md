@@ -1,10 +1,10 @@
 ---
 title: "Khari Rahi Darbar Che Chup Kar Ke Sajjad Ashraf Taqvi Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:51aeff69b0fe1b28d81b

@@ -1,11 +1,11 @@
 ---
 title: "Ag Lag Gayi Aye Mir Hasan Mir Lyrics 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bf56dd393ad7a1b260dd

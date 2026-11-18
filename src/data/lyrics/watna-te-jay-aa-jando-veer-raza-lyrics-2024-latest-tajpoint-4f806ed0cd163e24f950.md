@@ -1,11 +1,11 @@
 ---
 title: "Watna Te Jay Aa Jando Veer Raza Lyrics 2024 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:4f806ed0cd163e24f950

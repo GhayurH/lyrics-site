@@ -1,6 +1,6 @@
 ---
 title: "Merey Mola Ali (AS) Ko Jis Gari Ayi Kaza Hogi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

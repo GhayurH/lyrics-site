@@ -1,11 +1,11 @@
 ---
 title: "Qum Main Kuch Roz Guzaron Hasnain Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Faraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a2611ea9eb431649b2b4

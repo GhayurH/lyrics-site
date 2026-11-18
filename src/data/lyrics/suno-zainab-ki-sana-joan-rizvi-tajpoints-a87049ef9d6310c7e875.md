@@ -1,11 +1,11 @@
 ---
 title: "Suno Zainab Ki Sana Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a87049ef9d6310c7e875

@@ -1,11 +1,11 @@
 ---
 title: "Ibn E Al Reza Zaki O Hasan Askari Hain Aap"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:13b408987589542360b8

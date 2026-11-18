@@ -1,10 +1,10 @@
 ---
 title: "روحِ شبیرؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4cad55738d31628491e3

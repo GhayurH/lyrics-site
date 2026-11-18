@@ -1,11 +1,11 @@
 ---
 title: "Iss Tarha Bad E Nabi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bahlool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e43482d4e72545c20ef5

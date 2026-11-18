@@ -1,7 +1,7 @@
 ---
 title: "Bhaiyya Mujhe Bhool Na Jaana"
 alternateTitle: "Sar Par Agar Sehra Sajaana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Sehra"

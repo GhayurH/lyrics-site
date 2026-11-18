@@ -1,11 +1,11 @@
 ---
 title: "Bulawa Hazrat E Abbas As Ka Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jary"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8bb45a3eccf522e00463

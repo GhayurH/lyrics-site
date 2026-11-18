@@ -1,11 +1,11 @@
 ---
 title: "Mere Mola Ke Bhi Mola Tera Syed Mohammad Shah Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4cde319cb021492ff57d

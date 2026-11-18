@@ -1,11 +1,11 @@
 ---
 title: "Dar-e-Qabool-e-Farooh-o-Usool Hain Zahra Musaddas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4fa4b676ab4ce38f835f

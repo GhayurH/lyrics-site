@@ -1,11 +1,11 @@
 ---
 title: "Qaim Rahey Ye Majlis O Matam Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e3603f591f8398319a3c

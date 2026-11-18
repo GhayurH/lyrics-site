@@ -1,11 +1,11 @@
 ---
 title: "Yeh Ghurbat-e-Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:67b20ac285ed349b4133

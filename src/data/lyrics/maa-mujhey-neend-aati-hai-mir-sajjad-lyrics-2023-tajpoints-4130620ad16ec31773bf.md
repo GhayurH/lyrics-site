@@ -1,11 +1,11 @@
 ---
 title: "Maa Mujhey Neend Aati Hai Mir Sajjad Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4130620ad16ec31773bf

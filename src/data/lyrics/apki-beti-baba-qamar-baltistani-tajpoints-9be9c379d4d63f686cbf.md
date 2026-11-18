@@ -1,11 +1,11 @@
 ---
 title: "Apki Beti Baba Qamar Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zaire"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9be9c379d4d63f686cbf

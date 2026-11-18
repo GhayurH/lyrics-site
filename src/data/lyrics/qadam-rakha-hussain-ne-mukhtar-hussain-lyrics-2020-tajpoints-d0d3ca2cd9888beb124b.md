@@ -1,11 +1,11 @@
 ---
 title: "Qadam Rakha Hussain Ne Mukhtar Hussain Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d0d3ca2cd9888beb124b

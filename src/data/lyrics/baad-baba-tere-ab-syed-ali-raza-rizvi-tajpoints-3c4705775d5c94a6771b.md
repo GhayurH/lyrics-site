@@ -1,11 +1,11 @@
 ---
 title: "Baad Baba Tere Ab Syed Ali Raza Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3c4705775d5c94a6771b

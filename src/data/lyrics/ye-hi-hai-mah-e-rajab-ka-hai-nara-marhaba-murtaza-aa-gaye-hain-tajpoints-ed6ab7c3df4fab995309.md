@@ -1,11 +1,11 @@
 ---
 title: "Ye Hi Hai Mah-e-Rajab Ka Hai Nara Marhaba Murtaza Aa Gaye Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ed6ab7c3df4fab995309

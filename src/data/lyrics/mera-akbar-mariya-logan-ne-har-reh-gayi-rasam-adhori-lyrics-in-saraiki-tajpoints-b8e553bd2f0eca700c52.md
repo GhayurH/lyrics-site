@@ -1,11 +1,11 @@
 ---
 title: "Mera Akbar Mariya Logan Ne Har Reh Gayi Rasam Adhori Lyrics In Saraiki 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nashad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b8e553bd2f0eca700c52

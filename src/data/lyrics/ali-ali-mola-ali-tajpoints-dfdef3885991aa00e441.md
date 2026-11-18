@@ -1,10 +1,10 @@
 ---
 title: "Ali Ali Mola Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dfdef3885991aa00e441

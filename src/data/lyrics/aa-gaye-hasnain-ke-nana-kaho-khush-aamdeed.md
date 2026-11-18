@@ -1,6 +1,6 @@
 ---
 title: "Aa Gaye Hasnain Ke Nana Kaho Khush Aamdeed"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"

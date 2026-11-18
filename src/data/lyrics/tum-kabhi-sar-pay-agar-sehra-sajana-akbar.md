@@ -1,6 +1,6 @@
 ---
 title: "Tum Kabhi Sar Pay Agar Sehra Sajana Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Sehra"

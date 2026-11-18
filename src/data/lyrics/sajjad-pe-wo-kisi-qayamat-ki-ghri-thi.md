@@ -1,10 +1,10 @@
 ---
 title: "سجادؑ پہ وہ کیسی قیامت کی گھڑی تھی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d04ddc8b8809dfa7cf75

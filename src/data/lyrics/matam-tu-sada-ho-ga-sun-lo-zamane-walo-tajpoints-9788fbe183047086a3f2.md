@@ -1,11 +1,11 @@
 ---
 title: "Matam Tu Sada Ho Ga Sun Lo Zamane Walo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9788fbe183047086a3f2

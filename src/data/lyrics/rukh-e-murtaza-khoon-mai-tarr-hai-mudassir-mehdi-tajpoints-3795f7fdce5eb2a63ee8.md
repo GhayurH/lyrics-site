@@ -1,11 +1,11 @@
 ---
 title: "Rukh E Murtaza Khoon Mai Tarr Hai Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mudassir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3795f7fdce5eb2a63ee8

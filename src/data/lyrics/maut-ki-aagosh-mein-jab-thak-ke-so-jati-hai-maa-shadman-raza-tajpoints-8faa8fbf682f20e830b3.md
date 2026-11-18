@@ -1,11 +1,11 @@
 ---
 title: "Maut Ki Aagosh Mein Jab Thak Ke So Jati Hai Maa – Shadman Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8faa8fbf682f20e830b3

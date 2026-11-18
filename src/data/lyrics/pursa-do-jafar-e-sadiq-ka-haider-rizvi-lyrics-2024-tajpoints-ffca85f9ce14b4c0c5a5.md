@@ -1,11 +1,11 @@
 ---
 title: "Pursa Do Jafar E Sadiq Ka Haider Rizvi Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ffca85f9ce14b4c0c5a5

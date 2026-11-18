@@ -1,11 +1,11 @@
 ---
 title: "Main Mehdi Putar Di Aas Ich Haan Lyrics In Saraiki 2002"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1cec08230fdbb9ca8457

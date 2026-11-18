@@ -1,6 +1,6 @@
 ---
 title: "Wada Bhen Te Bhira Da, Wada Bhen Te Bhira Da"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

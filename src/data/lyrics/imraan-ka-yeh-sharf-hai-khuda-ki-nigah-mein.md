@@ -1,6 +1,6 @@
 ---
 title: "Imraan Ka Yeh Sharf Hai Khuda Ki Nigah Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

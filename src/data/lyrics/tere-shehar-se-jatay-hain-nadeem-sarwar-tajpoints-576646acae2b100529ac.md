@@ -1,11 +1,11 @@
 ---
 title: "Tere Shehar Se Jatay Hain Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:576646acae2b100529ac

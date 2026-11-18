@@ -1,6 +1,6 @@
 ---
 title: "Yeh Oss Ki Marzi Hai Aye Na Khakdaan Ki Taraf"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

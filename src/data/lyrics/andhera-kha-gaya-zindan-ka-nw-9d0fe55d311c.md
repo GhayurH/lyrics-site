@@ -1,6 +1,6 @@
 ---
 title: "Andhera Kha Gaya Zindan Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

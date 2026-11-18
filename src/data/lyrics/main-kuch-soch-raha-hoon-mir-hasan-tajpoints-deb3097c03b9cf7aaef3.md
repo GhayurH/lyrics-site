@@ -1,11 +1,11 @@
 ---
 title: "Main Kuch Soch Raha Hoon Mir Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Debal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:deb3097c03b9cf7aaef3

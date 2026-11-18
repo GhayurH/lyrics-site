@@ -1,7 +1,7 @@
 ---
 title: "شبیر کو مہمان نہ بنایا ہوتا"
 alternateTitle: "Shabbir Ko Mehmaan Na Banaya Hota"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Tashnagi Hoton Pe Le Kar Chal Diye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

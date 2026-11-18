@@ -1,11 +1,11 @@
 ---
 title: "Zindan Kha Gaya Aye Kazim Di Nojawani Lyrics Punjabi 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ameer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e8e67af730d4f768ed67

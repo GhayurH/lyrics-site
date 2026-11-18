@@ -1,11 +1,11 @@
 ---
 title: "Ali Ka Tarana Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f8e46ec216a2b1f68f26

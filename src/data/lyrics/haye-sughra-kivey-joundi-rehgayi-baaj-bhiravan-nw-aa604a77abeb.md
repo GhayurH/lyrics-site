@@ -1,6 +1,6 @@
 ---
 title: "Haye Sughra Kivey Joundi Rehgayi Baaj"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

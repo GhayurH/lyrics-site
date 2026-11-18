@@ -1,11 +1,11 @@
 ---
 title: "Jab Koi Dua Our Na Dawa Kaam Karey Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0107bd078f77cf840b69

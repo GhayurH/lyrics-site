@@ -1,11 +1,11 @@
 ---
 title: "Giriya Kuna Batool Ka Kunba Hai Eid Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Iram"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8e8c75a8f8aeec34b201

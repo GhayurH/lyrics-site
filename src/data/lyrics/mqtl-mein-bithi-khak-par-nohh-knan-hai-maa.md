@@ -1,10 +1,10 @@
 ---
 title: "مقتل میں بیٹھی خاک پر نوحہ کناں ہے ماں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7f253a3cb76616a37333

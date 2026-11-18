@@ -1,10 +1,10 @@
 ---
 title: "علی علی علی علی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:742f596d333dcb4991b7

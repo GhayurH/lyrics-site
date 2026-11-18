@@ -1,6 +1,6 @@
 ---
 title: "Ridawan Lai Gaiyan Ghazi Ty Bhena Be Rida Ho Gaiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

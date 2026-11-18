@@ -1,11 +1,11 @@
 ---
 title: "Baon Okhi Ikki Ramzan Di Raat Aye Saqlain Ali Lyrics Punjabi 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ba5daee066c01b3c4f76

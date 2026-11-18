@@ -1,11 +1,11 @@
 ---
 title: "Kartay Hain Ata Mola Raza Mukhtar Hussain Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Siraj"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:956f5ca12e9378119fcb

@@ -1,11 +1,11 @@
 ---
 title: "Jung Larne Nahi Hum Aaye Hasnain Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3d0e50541c5f01ab6300

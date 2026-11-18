@@ -1,11 +1,11 @@
 ---
 title: "Taqwa Ki Barhi Shan Mere Mola Taqi Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a9784aaa034848918ae8

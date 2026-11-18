@@ -1,11 +1,11 @@
 ---
 title: "Jo Dhondne Tumhein Maqtal Mein Aaon Gi Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khizar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4bb5d3985dfad6c59f9f

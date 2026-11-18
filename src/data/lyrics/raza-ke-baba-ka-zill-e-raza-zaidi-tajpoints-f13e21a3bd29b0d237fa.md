@@ -1,11 +1,11 @@
 ---
 title: "Raza Ke Baba Ka Zill E Raza Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f13e21a3bd29b0d237fa

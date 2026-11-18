@@ -1,6 +1,6 @@
 ---
 title: "Sajday Main Sar Kata kay Shabbir Karbala Main"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,10 +1,10 @@
 ---
 title: "Abbas Hamara Hey Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eb03a149ff515f786259

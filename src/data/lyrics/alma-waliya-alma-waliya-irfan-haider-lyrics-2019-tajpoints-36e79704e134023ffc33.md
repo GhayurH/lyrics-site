@@ -1,11 +1,11 @@
 ---
 title: "Alma Waliya Alma Waliya Irfan Haider Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:36e79704e134023ffc33

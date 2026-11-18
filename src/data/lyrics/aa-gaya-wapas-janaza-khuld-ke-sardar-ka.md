@@ -1,10 +1,10 @@
 ---
 title: "آ گیا واپس جنازہ خلد کے سردار کا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:402ce1859d686abe8a73

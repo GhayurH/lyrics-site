@@ -1,11 +1,11 @@
 ---
 title: "Uth Maa Tainu Main Qaidaan Walay Sarey Haal Sunawaan Lyrics In Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7c0d13190f04d2d1583c

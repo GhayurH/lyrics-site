@@ -1,11 +1,11 @@
 ---
 title: "Sada Akbar Ki Ati Thi Mere Senay Main Barchi Hai Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:16eb2aa3ba927886f4c8

@@ -1,11 +1,11 @@
 ---
 title: "Dulha Banay Hain Mola Saleem Mastan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5110a986005accf4f65a

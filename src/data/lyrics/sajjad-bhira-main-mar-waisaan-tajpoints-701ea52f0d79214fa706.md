@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Bhira Main Mar Waisaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:701ea52f0d79214fa706

@@ -1,6 +1,6 @@
 ---
 title: "Shabbir Dondta Hai Akbar Kahan Gira Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

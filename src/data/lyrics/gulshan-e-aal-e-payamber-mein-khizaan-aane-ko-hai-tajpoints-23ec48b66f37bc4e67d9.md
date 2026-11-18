@@ -1,10 +1,10 @@
 ---
 title: "Gulshan E Aal E Payamber Mein Khizaan Aane Ko Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:23ec48b66f37bc4e67d9

@@ -1,11 +1,11 @@
 ---
 title: "Hussain Ka Akbar Syed Raza Abbas Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:30d4c575f95dfd081ba0

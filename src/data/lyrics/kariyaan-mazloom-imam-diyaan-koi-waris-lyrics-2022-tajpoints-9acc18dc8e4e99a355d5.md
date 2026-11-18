@@ -1,10 +1,10 @@
 ---
 title: "Kariyaan Mazloom Imam Diyaan Koi Waris Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9acc18dc8e4e99a355d5

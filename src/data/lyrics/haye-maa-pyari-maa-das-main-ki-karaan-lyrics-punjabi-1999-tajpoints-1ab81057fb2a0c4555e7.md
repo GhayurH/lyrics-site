@@ -1,11 +1,11 @@
 ---
 title: "Haye Maa Pyari Maa Das Main Ki Karaan Lyrics Punjabi 1999"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1ab81057fb2a0c4555e7

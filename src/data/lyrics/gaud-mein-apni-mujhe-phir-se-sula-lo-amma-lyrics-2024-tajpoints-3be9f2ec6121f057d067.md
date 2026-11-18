@@ -1,11 +1,11 @@
 ---
 title: "Gaud Mein Apni Mujhe Phir Se Sula Lo Amma Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3be9f2ec6121f057d067

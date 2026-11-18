@@ -1,11 +1,11 @@
 ---
 title: "Dard Ka Sultan Abid Aise Gham Mein Choor Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zaheer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:00113e05784496b6b126

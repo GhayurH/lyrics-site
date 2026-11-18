@@ -1,11 +1,11 @@
 ---
 title: "Qurbaniyan Bhulniyan Nai Muhammad Raza Mungla Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eee2dacf01d9215b27a0

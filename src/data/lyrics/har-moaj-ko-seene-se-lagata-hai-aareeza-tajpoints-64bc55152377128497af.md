@@ -1,11 +1,11 @@
 ---
 title: "Har Moaj Ko Seene Se Lagata Hai Aareeza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Athar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:64bc55152377128497af

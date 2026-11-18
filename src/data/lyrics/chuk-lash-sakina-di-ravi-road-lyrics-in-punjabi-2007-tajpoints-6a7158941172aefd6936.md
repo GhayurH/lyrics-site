@@ -1,11 +1,11 @@
 ---
 title: "Chuk Lash Sakina Di Ravi Road Lyrics In Punjabi 2007"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6a7158941172aefd6936

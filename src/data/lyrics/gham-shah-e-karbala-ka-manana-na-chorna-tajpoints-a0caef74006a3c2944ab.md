@@ -1,11 +1,11 @@
 ---
 title: "Gham Shah-e-Karbala Ka Manana Na Chorna"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Danish"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a0caef74006a3c2944ab

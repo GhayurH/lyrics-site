@@ -1,11 +1,11 @@
 ---
 title: "Ummat Ne Diya Zehar Jawaan Saal Taqi Ko Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2f9adc6152ad5a794d27

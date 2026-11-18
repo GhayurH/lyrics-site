@@ -1,11 +1,11 @@
 ---
 title: "Neend Ayegi Baba Ko Pukaregi Sakina Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:078779ad0876b40bcf20

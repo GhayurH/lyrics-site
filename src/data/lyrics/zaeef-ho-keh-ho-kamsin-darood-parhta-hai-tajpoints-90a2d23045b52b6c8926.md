@@ -1,11 +1,11 @@
 ---
 title: "Zaeef Ho Keh Ho Kamsin Darood Parhta Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Mohsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:90a2d23045b52b6c8926

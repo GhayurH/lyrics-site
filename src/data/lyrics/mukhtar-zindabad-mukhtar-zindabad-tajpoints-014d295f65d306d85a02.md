@@ -1,11 +1,11 @@
 ---
 title: "Mukhtar Zindabad Mukhtar Zindabad"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallaum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:014d295f65d306d85a02

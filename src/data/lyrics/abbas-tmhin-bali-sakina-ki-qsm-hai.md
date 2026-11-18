@@ -1,11 +1,11 @@
 ---
 title: "عباسؑ تمہیں بالی سکینہؑ کی قسم ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 reciter: "Farhan Ali"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b756564dff11998cef27

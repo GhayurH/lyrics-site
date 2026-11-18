@@ -1,6 +1,6 @@
 ---
 title: "Sun Dukhray Sham Bazaran Da Zainab Tu Aalma Waleya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

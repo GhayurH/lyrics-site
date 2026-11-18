@@ -1,6 +1,6 @@
 ---
 title: "Ay Zaafare Jin Aap Bhi Laye Thay Wahan Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

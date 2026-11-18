@@ -1,11 +1,11 @@
 ---
 title: "ماں بلاتی ہے آ اے حسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6e80f1ab3aa0db9ea1d1

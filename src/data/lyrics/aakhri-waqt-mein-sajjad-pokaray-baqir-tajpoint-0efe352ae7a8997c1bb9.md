@@ -1,11 +1,11 @@
 ---
 title: "Aakhri Waqt Mein Sajjad Pokaray Baqir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:0efe352ae7a8997c1bb9

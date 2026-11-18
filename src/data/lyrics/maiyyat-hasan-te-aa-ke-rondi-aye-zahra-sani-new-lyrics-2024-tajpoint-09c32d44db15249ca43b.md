@@ -1,11 +1,11 @@
 ---
 title: "Maiyyat Hasan Te Aa Ke Rondi Aye Zahra Sani New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:09c32d44db15249ca43b

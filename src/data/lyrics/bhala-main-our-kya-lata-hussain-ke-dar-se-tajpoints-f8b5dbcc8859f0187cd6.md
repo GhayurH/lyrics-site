@@ -1,11 +1,11 @@
 ---
 title: "Bhala Main Our Kya Lata Hussain Ke Dar Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f8b5dbcc8859f0187cd6

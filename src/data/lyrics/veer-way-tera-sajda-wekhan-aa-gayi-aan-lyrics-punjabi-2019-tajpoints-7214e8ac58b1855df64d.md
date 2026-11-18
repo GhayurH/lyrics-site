@@ -1,11 +1,11 @@
 ---
 title: "Veer Way Tera Sajda Wekhan Aa Gayi Aan Lyrics Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7214e8ac58b1855df64d

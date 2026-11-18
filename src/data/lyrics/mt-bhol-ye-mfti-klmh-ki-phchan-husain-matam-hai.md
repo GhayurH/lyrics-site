@@ -1,10 +1,10 @@
 ---
 title: "مت بھول یہ مفتی کلمہ کی پہچان حسینؑ ماتم ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c3cd5d64158c8e195d4a

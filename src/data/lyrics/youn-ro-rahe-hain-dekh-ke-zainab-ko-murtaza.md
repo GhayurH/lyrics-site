@@ -1,6 +1,6 @@
 ---
 title: "Youn Ro Rahe Hain Dekh Ke Zainab Ko Murtaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

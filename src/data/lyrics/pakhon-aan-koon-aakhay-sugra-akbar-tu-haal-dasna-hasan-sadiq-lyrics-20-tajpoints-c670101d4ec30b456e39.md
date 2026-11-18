@@ -1,10 +1,10 @@
 ---
 title: "Pakhon Aan Koon Aakhay Sugra Akbar Tu Haal Dasna Hasan Sadiq Lyrics 2006"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c670101d4ec30b456e39

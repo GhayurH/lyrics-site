@@ -1,11 +1,11 @@
 ---
 title: "Shifaat Ki Azaan Mula Naqi Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a0e1f4c0e505cc48324a

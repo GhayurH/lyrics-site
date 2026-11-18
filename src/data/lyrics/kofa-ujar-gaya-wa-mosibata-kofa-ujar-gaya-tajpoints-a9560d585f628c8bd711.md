@@ -1,11 +1,11 @@
 ---
 title: "Kofa Ujar Gaya Wa Mosibata Kofa Ujar Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kami"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a9560d585f628c8bd711

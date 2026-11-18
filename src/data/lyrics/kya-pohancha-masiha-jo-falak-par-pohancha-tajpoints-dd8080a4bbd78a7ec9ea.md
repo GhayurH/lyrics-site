@@ -1,11 +1,11 @@
 ---
 title: "Kya Pohancha Masiha Jo Falak Par Pohancha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kausri"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dd8080a4bbd78a7ec9ea

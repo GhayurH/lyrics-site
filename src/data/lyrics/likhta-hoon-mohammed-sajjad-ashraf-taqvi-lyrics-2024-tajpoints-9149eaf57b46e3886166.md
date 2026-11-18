@@ -1,11 +1,11 @@
 ---
 title: "Likhta Hoon Mohammed Sajjad Ashraf Taqvi Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Naveed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9149eaf57b46e3886166

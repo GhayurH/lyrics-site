@@ -1,10 +1,10 @@
 ---
 title: "جو قید ہو کے چلا کاروانِ آلِ نبیؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5bcd5bcf1418cd7b1f3c

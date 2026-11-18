@@ -1,11 +1,11 @@
 ---
 title: "Asghar Teer Nu Rook Bachra Lyrics In Punjabi 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:86903b19e91093956cdd

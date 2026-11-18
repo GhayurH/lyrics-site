@@ -1,10 +1,10 @@
 ---
 title: "بقیعہ سے آ رہی ہے صدا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:42306355669d816f7ccc

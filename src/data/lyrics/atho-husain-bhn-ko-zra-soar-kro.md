@@ -1,10 +1,10 @@
 ---
 title: "اٹھو حسینؑ بہن کو ذرا سوار کرو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:f427148b840b177fa633

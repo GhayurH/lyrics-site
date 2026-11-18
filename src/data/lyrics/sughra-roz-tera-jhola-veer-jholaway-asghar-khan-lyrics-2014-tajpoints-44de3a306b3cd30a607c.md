@@ -1,11 +1,11 @@
 ---
 title: "Sughra Roz Tera Jhola Veer Jholaway Asghar Khan Lyrics 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:44de3a306b3cd30a607c

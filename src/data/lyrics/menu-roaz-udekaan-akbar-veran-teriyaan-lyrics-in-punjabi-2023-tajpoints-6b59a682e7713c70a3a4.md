@@ -1,11 +1,11 @@
 ---
 title: "Menu Roaz Udekaan Akbar Veran Teriyaan Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6b59a682e7713c70a3a4

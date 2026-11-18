@@ -1,11 +1,11 @@
 ---
 title: "Abbas Ka Lasha Hasnain Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a91ff66f9b4b5b726077

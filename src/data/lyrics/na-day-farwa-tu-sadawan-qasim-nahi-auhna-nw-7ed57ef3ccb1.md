@@ -1,6 +1,6 @@
 ---
 title: "Na Day Farwa Tu Sadawan Qasim Nahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

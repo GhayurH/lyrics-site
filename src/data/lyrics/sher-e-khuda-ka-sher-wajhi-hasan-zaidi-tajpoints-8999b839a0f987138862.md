@@ -1,11 +1,11 @@
 ---
 title: "Sher-e-Khuda Ka Sher Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8999b839a0f987138862

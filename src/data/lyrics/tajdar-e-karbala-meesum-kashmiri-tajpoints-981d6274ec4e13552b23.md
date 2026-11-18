@@ -1,11 +1,11 @@
 ---
 title: "Tajdar E Karbala Meesum Kashmiri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:981d6274ec4e13552b23

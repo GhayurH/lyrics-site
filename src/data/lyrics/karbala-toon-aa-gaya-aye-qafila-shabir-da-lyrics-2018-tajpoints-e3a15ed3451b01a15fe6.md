@@ -1,11 +1,11 @@
 ---
 title: "Karbala Toon Aa Gaya Aye Qafila Shabir Da Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e3a15ed3451b01a15fe6

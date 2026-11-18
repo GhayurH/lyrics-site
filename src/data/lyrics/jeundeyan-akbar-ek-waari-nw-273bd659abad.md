@@ -1,6 +1,6 @@
 ---
 title: "Jeundeyan Akbar Ek Waari"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Qalam Qirtas Mangtay Hain Dawat E Kausari Dedo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Taseer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5e73e612fa7bb1816d0d

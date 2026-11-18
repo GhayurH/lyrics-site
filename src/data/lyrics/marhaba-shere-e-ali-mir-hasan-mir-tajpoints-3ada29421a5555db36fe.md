@@ -1,11 +1,11 @@
 ---
 title: "Marhaba Shere-e-Ali Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3ada29421a5555db36fe

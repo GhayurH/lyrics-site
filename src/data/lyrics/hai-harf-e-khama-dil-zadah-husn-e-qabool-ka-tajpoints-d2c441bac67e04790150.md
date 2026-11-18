@@ -1,7 +1,7 @@
 ---
 title: "ہے حرفِ خامہ دل زدہ حسنِ قبول کا"
 alternateTitle: "Hai Harf-e-Khaama Dilzada Husn-e-Qubul Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"

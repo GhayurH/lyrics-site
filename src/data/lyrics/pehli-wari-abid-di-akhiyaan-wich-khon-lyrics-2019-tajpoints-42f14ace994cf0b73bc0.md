@@ -1,11 +1,11 @@
 ---
 title: "Pehli Wari Abid Di Akhiyaan Wich Khon Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:42f14ace994cf0b73bc0

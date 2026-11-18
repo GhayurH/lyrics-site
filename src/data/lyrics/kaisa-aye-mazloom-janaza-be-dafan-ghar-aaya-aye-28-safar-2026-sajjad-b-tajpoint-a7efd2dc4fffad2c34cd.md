@@ -1,11 +1,11 @@
 ---
 title: "Kaisa Aye Mazloom Janaza Be Dafan Ghar Aaya Aye 28 Safar 2026 Sajjad Bukhari Group Sialkot"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:a7efd2dc4fffad2c34cd

@@ -1,11 +1,11 @@
 ---
 title: "Esayi V Mubahla Wich Jhutla Na Sakay Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dcdd5251dadecb7666b5

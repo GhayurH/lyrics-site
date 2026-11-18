@@ -1,6 +1,6 @@
 ---
 title: "Akhiyan Fazal Diyan Takdiyan Reh Gaiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

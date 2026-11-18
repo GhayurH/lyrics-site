@@ -1,11 +1,11 @@
 ---
 title: "Laila Duain Kijiye Jeeta Rahay Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:08d3429acef4ab2be8d1

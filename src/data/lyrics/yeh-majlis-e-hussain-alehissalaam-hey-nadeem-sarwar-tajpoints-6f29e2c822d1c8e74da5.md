@@ -1,11 +1,11 @@
 ---
 title: "Yeh Majlis E Hussain Alehissalaam Hey Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sarwar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6f29e2c822d1c8e74da5

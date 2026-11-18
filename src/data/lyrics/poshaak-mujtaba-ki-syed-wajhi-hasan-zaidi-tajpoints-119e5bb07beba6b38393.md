@@ -1,11 +1,11 @@
 ---
 title: "Poshaak Mujtaba Ki Syed Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:119e5bb07beba6b38393

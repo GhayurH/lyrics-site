@@ -1,11 +1,11 @@
 ---
 title: "Shaam-e-Ghareebaan Sheher-e-Madina Saleem Mastan Wa Bradraan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Marsiya"
 poet: "Ahsaan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:05e5add9b010ff3b1ba5

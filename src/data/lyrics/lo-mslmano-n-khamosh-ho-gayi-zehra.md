@@ -1,10 +1,10 @@
 ---
 title: "لو مسلمانو ں خاموش ہو گئی زہراؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:55afd3485a73dbd79161

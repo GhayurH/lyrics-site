@@ -1,11 +1,11 @@
 ---
 title: "Masjid Bhi Ro Rahi Hai Kaba Bhi Ro Raha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d176560a5f3457ebed3e

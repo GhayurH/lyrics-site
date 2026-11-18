@@ -1,10 +1,10 @@
 ---
 title: "میں پیدل چلا کربلا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:3fb92bcfe520c2aa39d1

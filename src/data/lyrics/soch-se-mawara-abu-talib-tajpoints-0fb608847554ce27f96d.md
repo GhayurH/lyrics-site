@@ -1,11 +1,11 @@
 ---
 title: "Soch Se Mawara Abu Talib"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0fb608847554ce27f96d

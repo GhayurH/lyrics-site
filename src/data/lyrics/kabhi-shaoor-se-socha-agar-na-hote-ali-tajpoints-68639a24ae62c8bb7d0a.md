@@ -1,11 +1,11 @@
 ---
 title: "Kabhi Shaoor Se Socha Agar Na Hote Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:68639a24ae62c8bb7d0a

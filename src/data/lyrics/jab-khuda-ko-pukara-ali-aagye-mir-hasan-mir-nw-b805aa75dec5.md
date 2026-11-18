@@ -1,6 +1,6 @@
 ---
 title: "Jab Khuda Ko Pukara Ali Aa Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

@@ -1,11 +1,11 @@
 ---
 title: "Khul Gaye Band E Kafan Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8727e891b660ff34d32c

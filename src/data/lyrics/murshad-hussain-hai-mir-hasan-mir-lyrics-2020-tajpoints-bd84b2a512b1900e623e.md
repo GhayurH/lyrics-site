@@ -1,11 +1,11 @@
 ---
 title: "Murshad Hussain Hai Mir Hasan Mir Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Dabeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bd84b2a512b1900e623e

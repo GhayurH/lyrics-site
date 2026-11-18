@@ -1,6 +1,6 @@
 ---
 title: "Rahein Gi Dahar Mein Jab Tak Shaor Ki Batein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

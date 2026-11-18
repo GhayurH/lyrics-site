@@ -1,11 +1,11 @@
 ---
 title: "Baali Sakina Ki Kahani Meesum Kashmiri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Iram"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ce06b14f7bf7d9c1a304

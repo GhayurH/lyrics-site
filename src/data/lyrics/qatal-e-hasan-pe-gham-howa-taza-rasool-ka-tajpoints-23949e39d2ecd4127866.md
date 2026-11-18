@@ -1,11 +1,11 @@
 ---
 title: "Qatal E Hasan Pe Gham Howa Taza Rasool Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:23949e39d2ecd4127866

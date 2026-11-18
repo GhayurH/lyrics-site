@@ -1,6 +1,6 @@
 ---
 title: "Yeh Daard Sakina Ko Tah Hashar Rulaye Gah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

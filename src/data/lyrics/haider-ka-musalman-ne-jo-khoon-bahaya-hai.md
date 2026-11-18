@@ -1,10 +1,10 @@
 ---
 title: "حیدرؑ کا مسلماں نے جو خون بہایا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0dde8ffecba3667c2073

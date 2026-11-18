@@ -1,11 +1,11 @@
 ---
 title: "Zakhmi Thi Kitni Maa Syed Ali Meesum Abidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9bcd1574c918b8a43931

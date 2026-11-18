@@ -1,11 +1,11 @@
 ---
 title: "Lasha E Hassan Par Khuram Murtaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:26b980d6e9ed18d498b2

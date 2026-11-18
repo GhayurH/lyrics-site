@@ -1,11 +1,11 @@
 ---
 title: "Niyat-e-Shauq Bhar Na Jaye Kahin"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:740c6c041da5c6f6effc

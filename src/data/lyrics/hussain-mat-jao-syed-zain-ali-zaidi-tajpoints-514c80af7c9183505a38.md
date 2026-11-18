@@ -1,11 +1,11 @@
 ---
 title: "Hussain Mat Jao Syed Zain Ali Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:514c80af7c9183505a38

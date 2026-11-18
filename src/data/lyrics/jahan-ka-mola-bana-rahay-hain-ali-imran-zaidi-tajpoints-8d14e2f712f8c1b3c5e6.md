@@ -1,11 +1,11 @@
 ---
 title: "Jahan Ka Mola Bana Rahay Hain Ali Imran Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zaigham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8d14e2f712f8c1b3c5e6

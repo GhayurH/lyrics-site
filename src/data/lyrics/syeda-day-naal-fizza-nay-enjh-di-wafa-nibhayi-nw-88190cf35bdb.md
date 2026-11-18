@@ -1,6 +1,6 @@
 ---
 title: "Syeda Day Naal Fizza Nay Enjh Di Wafa Nibhayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

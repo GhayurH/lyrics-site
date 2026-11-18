@@ -1,7 +1,7 @@
 ---
 title: "ہے اربعینِ شاہِ شہیدانِ کربلا"
 alternateTitle: "Hai Arbaeen-e-Shah-e-Shaheedaan-e-Karbala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Marsiya"

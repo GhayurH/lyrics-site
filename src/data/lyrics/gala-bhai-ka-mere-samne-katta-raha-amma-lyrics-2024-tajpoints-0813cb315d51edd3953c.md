@@ -1,11 +1,11 @@
 ---
 title: "Gala Bhai Ka Mere Samne Katta Raha Amma Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0813cb315d51edd3953c

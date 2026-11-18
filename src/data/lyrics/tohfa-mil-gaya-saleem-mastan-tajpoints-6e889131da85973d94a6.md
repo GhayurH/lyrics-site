@@ -1,11 +1,11 @@
 ---
 title: "Tohfa Mil Gaya Saleem Mastan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Waseem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6e889131da85973d94a6

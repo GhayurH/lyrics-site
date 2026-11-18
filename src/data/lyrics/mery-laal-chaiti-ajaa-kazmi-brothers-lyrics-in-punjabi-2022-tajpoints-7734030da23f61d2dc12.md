@@ -1,11 +1,11 @@
 ---
 title: "Mery Laal Chaiti Ajaa Kazmi Brothers Lyrics In Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Amar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7734030da23f61d2dc12

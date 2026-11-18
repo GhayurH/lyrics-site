@@ -1,6 +1,6 @@
 ---
 title: "Kaha Sakina Ne Zainab Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

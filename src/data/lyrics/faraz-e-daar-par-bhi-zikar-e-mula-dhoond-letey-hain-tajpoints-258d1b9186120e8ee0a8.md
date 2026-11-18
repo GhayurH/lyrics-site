@@ -1,11 +1,11 @@
 ---
 title: "Faraz-e-Daar Par Bhi Zikar-e-Mula Dhoond Letey Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:258d1b9186120e8ee0a8

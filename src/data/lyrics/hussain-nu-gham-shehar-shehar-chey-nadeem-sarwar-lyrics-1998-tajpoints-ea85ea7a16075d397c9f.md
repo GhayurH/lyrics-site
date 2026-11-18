@@ -1,11 +1,11 @@
 ---
 title: "Hussain Nu Gham Shehar Shehar Chey Nadeem Sarwar Lyrics 1998"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ea85ea7a16075d397c9f

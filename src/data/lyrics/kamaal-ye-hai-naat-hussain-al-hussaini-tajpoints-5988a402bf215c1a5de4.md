@@ -1,11 +1,11 @@
 ---
 title: "Kamaal Ye Hai Naat Hussain Al Hussaini"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Turab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5988a402bf215c1a5de4

@@ -1,11 +1,11 @@
 ---
 title: "Al Madad Maula Raza Mir Hasan Mir Lyrics 2003"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e2964deefc3b304dacb1

@@ -1,6 +1,6 @@
 ---
 title: "Sughra Nu Udeekan Nay Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

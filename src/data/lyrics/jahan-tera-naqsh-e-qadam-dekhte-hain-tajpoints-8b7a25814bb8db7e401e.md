@@ -1,11 +1,11 @@
 ---
 title: "Jahan Tera Naqsh-e-Qadam Dekhte Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8b7a25814bb8db7e401e

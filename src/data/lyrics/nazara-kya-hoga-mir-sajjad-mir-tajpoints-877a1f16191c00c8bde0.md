@@ -1,11 +1,11 @@
 ---
 title: "Nazara Kya Hoga Mir Sajjad Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Debal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:877a1f16191c00c8bde0

@@ -1,11 +1,11 @@
 ---
 title: "Emaan Ki Qasam Mazhar-e-Eman Hai Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0beac9330b4e3e43fca2

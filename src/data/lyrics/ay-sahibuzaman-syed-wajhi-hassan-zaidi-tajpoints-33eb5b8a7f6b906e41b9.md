@@ -1,11 +1,11 @@
 ---
 title: "Ay Sahibuzaman Syed Wajhi Hassan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:33eb5b8a7f6b906e41b9

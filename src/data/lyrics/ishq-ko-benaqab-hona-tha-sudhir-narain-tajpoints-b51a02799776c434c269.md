@@ -1,11 +1,11 @@
 ---
 title: "Ishq Ko Benaqab Hona Tha Sudhir Narain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jigar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b51a02799776c434c269

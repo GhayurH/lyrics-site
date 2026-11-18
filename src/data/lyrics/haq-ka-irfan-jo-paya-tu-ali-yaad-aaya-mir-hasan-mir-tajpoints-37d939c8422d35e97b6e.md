@@ -1,11 +1,11 @@
 ---
 title: "Haq Ka Irfan Jo Paya Tu Ali Yaad Aaya Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37d939c8422d35e97b6e

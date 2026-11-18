@@ -1,11 +1,11 @@
 ---
 title: "Chaun Salaan Di Ik Masoma Thak Gayi Aye Hosle Dey De Kay Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rizwan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c2c352e80e733de77fab

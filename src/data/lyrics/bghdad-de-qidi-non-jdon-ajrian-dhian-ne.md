@@ -1,10 +1,10 @@
 ---
 title: "بغداد دے قیدی نوں جدوں اجڑیاں دھیاں نے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ab8f5f1456accb95f123

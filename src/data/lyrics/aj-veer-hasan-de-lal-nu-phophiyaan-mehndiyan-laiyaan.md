@@ -1,6 +1,6 @@
 ---
 title: "Aj Veer Hasan De Lal Nu Phophiyaan Mehndiyan Laiyaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

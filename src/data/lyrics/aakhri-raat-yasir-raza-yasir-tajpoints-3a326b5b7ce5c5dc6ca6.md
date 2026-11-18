@@ -1,11 +1,11 @@
 ---
 title: "Aakhri Raat Yasir Raza Yasir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3a326b5b7ce5c5dc6ca6

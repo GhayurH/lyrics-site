@@ -1,11 +1,11 @@
 ---
 title: "Ali Ne Dekha Hai Zeeshan Abidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4fd788c73cafe11387cc

@@ -1,6 +1,6 @@
 ---
 title: "Kaisay Darbar Mein Gaee Hogi Hai Nabuwat Ki Abroo Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

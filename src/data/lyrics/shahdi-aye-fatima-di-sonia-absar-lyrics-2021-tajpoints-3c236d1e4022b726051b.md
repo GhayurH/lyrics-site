@@ -1,11 +1,11 @@
 ---
 title: "Shahdi Aye Fatima Di Sonia Absar Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3c236d1e4022b726051b

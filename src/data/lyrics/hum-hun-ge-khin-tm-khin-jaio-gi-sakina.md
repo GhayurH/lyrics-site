@@ -1,10 +1,10 @@
 ---
 title: "ہم ہوں گے کہیں تم کہیں جائو گی سکینہ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e2c75f541840b3677507

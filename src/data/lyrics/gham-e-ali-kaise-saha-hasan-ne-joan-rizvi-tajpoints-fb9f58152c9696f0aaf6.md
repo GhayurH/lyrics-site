@@ -1,11 +1,11 @@
 ---
 title: "Gham-e-Ali Kaise Saha Hasan Ne Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fb9f58152c9696f0aaf6

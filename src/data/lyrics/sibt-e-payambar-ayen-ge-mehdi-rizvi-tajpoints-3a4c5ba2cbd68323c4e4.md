@@ -1,11 +1,11 @@
 ---
 title: "Sibt E Payambar Ayen Ge Mehdi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3a4c5ba2cbd68323c4e4

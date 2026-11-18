@@ -1,11 +1,11 @@
 ---
 title: "Sarr BaSajda Han Sawa Lakh Paymber Akbar Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6ff5670f1249bbfc4ad1

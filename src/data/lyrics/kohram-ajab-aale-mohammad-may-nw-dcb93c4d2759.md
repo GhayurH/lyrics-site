@@ -1,6 +1,6 @@
 ---
 title: "Kohram Ajab Aale Mohammad May"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Sughra Ne Jadon Chan Wal Takiya Honra Ayen Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e8ee355dab5787187590

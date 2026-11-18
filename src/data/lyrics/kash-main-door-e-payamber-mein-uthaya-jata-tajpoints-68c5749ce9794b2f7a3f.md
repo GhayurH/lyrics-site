@@ -1,11 +1,11 @@
 ---
 title: "Kash Main Door-e-Payamber Mein Uthaya Jata"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Noor"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:68c5749ce9794b2f7a3f

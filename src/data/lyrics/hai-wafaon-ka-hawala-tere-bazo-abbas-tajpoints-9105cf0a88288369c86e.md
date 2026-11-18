@@ -1,11 +1,11 @@
 ---
 title: "Hai Wafaon Ka Hawala Tere Bazo Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9105cf0a88288369c86e

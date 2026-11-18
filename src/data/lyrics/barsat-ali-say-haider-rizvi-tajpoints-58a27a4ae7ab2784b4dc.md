@@ -1,11 +1,11 @@
 ---
 title: "Barsat Ali Say Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:58a27a4ae7ab2784b4dc

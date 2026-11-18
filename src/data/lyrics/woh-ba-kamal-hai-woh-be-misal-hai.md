@@ -1,6 +1,6 @@
 ---
 title: "Woh Ba-Kamal Hai Woh Be-Misal Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

@@ -1,6 +1,6 @@
 ---
 title: "Qasima Das Ki Tere Mei Shagan Manawan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

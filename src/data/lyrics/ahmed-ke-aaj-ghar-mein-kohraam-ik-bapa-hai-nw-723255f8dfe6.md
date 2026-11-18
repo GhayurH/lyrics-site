@@ -1,6 +1,6 @@
 ---
 title: "Ahmed Ke Aaj Ghar Mein, Kohraam Ik Bapa Hai,"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

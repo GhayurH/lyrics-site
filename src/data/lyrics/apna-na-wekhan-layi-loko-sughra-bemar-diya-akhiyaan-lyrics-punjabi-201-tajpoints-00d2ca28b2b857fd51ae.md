@@ -1,11 +1,11 @@
 ---
 title: "Apna Na Wekhan Layi Loko Sughra Bemar Diya Akhiyaan Lyrics Punjabi 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:00d2ca28b2b857fd51ae

@@ -1,11 +1,11 @@
 ---
 title: "Teri Nalain Pey Ya Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9b584c38956befc62809

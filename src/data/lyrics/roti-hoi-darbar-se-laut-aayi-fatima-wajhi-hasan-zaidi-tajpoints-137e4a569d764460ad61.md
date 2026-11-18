@@ -1,11 +1,11 @@
 ---
 title: "Roti Hoi Darbar Se Laut Aayi Fatima Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:137e4a569d764460ad61

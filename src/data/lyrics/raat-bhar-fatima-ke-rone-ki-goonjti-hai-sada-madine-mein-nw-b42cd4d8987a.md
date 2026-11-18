@@ -1,6 +1,6 @@
 ---
 title: "Raat Bhar Fatima Ke Rone Ki Goonjti Hai Sada Madine Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

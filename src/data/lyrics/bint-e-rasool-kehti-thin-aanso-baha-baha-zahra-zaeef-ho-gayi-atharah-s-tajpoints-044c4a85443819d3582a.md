@@ -1,11 +1,11 @@
 ---
 title: "Bint-e-Rasool Kehti Thin Aanso Baha Baha Zahra Zaeef Ho Gayi Atharah Saal Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:044c4a85443819d3582a

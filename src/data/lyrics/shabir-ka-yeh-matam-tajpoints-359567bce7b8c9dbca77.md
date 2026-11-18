@@ -1,11 +1,11 @@
 ---
 title: "Shabir Ka Yeh Matam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:359567bce7b8c9dbca77

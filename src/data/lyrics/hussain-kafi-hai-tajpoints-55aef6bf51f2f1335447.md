@@ -1,11 +1,11 @@
 ---
 title: "Hussain Kafi Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:55aef6bf51f2f1335447

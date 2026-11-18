@@ -1,11 +1,11 @@
 ---
 title: "Badan Hussain Ka Zeeshan Abidi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6ce8c656029082a92c67

@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Tere Naal Kadi Haye Bhaina Na Hondiyan Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d221422cadfc85007b1c

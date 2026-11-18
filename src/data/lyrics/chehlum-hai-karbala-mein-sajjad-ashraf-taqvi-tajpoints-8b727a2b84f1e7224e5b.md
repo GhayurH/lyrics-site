@@ -1,11 +1,11 @@
 ---
 title: "Chehlum Hai Karbala Mein Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8b727a2b84f1e7224e5b

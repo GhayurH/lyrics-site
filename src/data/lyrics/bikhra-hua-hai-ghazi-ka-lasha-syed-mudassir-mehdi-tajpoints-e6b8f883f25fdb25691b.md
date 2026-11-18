@@ -1,11 +1,11 @@
 ---
 title: "Bikhra Hua Hai Ghazi Ka Lasha Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jary"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e6b8f883f25fdb25691b

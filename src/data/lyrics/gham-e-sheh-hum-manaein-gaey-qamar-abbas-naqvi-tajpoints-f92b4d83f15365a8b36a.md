@@ -1,11 +1,11 @@
 ---
 title: "Gham E Sheh Hum Manaein Gaey Qamar Abbas Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f92b4d83f15365a8b36a

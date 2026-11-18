@@ -1,11 +1,11 @@
 ---
 title: "Ya Shah-e-Khurasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cd94f1dd9ed7f35b7216

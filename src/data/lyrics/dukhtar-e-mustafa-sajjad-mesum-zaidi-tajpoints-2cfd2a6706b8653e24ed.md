@@ -1,11 +1,11 @@
 ---
 title: "Dukhtar E Mustafa Sajjad Mesum Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2cfd2a6706b8653e24ed

@@ -1,11 +1,11 @@
 ---
 title: "Baba Ki Beti Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:17aa823688d73c7c0adc

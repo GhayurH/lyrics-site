@@ -1,11 +1,11 @@
 ---
 title: "Ishq Karne Ka Falsafa Kya Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6ca3cfb2bd657a87c5d6

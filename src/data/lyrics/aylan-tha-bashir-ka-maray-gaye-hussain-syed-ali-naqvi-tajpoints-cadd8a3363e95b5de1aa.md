@@ -1,11 +1,11 @@
 ---
 title: "Aylan Tha Bashir Ka Maray Gaye Hussain Syed Ali Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Iram"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cadd8a3363e95b5de1aa

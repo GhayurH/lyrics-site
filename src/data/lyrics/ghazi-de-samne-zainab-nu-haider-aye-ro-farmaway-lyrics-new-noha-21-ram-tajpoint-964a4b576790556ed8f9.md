@@ -1,12 +1,12 @@
 ---
 title: "Ghazi De Samne Zainab Nu Haider Aye Ro Farmaway"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Sabir"
 reciter: "Babu Khan Party Sialkot"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:964a4b576790556ed8f9

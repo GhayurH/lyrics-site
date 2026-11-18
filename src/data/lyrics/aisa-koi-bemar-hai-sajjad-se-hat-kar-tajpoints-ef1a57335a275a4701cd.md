@@ -1,11 +1,11 @@
 ---
 title: "Aisa Koi Bemar Hai Sajjad Se Hat Kar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ef1a57335a275a4701cd

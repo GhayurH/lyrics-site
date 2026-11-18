@@ -1,11 +1,11 @@
 ---
 title: "Hussain Hussain Ya Hussain Mula"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:45fb8ea3c51848a2adb2

@@ -1,6 +1,6 @@
 ---
 title: "Ghazi Ki Behan Zainab Islam Bachanay Aayi Hay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Har Azadar Ko Zawar Banaya Jaye Master Ali Zamin"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:64ee35c196f9bb392e3a

@@ -1,11 +1,11 @@
 ---
 title: "Midhat E Shah E Zaman Raza Hasani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mehshar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a45bd36f92e24b1fb16d

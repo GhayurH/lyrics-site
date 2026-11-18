@@ -1,11 +1,11 @@
 ---
 title: "Roab Abbas Ki Aankhon Mein Hai Haider Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e7157a6a1aa3e3cccab4

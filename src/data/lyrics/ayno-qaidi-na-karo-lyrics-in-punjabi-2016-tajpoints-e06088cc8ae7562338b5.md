@@ -1,11 +1,11 @@
 ---
 title: "Ayno Qaidi Na Karo Lyrics In Punjabi 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e06088cc8ae7562338b5

@@ -1,10 +1,10 @@
 ---
 title: "بیٹی سے یہ فرمانے لگے شاہ مدینہ رونا نہ سکینہ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:164baea5b3d35d12b28c

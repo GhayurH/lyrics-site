@@ -1,11 +1,11 @@
 ---
 title: "Baba Teri Zahra Ko Satatay Hain Musalmaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:92e90f7e8232b928194f

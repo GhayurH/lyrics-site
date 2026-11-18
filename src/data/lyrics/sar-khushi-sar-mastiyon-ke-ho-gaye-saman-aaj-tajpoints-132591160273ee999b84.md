@@ -1,11 +1,11 @@
 ---
 title: "Sar Khushi Sar Mastiyon Ke Ho Gaye Saman Aaj"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:132591160273ee999b84

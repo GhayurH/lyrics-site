@@ -1,10 +1,10 @@
 ---
 title: "میری چادر ظالم لوٹتے ہیں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:29996b0811d183d72e28

@@ -1,6 +1,6 @@
 ---
 title: "Assi Waris Nayi Baba Tere Ummat Farman Sunaya Aye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

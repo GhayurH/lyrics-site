@@ -1,11 +1,11 @@
 ---
 title: "Shab Safar Mein Kat Rahi Thi Dil Mera Kehta Raha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b76b4a4b04a75567f6c0

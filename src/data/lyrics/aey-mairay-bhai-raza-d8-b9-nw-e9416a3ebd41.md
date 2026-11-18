@@ -1,6 +1,6 @@
 ---
 title: "Aey Mairay Bhai Raza (ع)"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

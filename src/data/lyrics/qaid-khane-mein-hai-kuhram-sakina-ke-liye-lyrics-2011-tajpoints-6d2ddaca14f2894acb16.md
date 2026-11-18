@@ -1,11 +1,11 @@
 ---
 title: "Qaid Khane Mein Hai Kuhram Sakina Ke Liye Lyrics 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6d2ddaca14f2894acb16

@@ -1,11 +1,11 @@
 ---
 title: "Jafar Ke Gham Mein Royi Sari Hi Kainat Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:292a2ffe75ca3d74a861

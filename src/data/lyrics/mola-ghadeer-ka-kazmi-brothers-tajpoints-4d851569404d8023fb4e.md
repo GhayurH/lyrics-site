@@ -1,11 +1,11 @@
 ---
 title: "Mola Ghadeer Ka Kazmi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4d851569404d8023fb4e

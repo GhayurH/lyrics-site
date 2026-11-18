@@ -1,6 +1,6 @@
 ---
 title: "Haye Baad-e-Rasool Ummat Nay Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

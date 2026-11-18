@@ -1,11 +1,11 @@
 ---
 title: "Sajda Asim Raza Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:af1c63be30fb5c8986b1

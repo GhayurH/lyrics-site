@@ -1,10 +1,10 @@
 ---
 title: "Sajjad Takay Arshaan Wal Sham Walay Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:103df1c6cab2ff86c4f3

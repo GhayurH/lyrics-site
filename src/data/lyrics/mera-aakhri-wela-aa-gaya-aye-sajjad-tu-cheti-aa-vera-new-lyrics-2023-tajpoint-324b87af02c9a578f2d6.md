@@ -1,11 +1,11 @@
 ---
 title: "Mera Aakhri Wela Aa Gaya Aye Sajjad Tu Cheti Aa Vera New Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qaisar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:324b87af02c9a578f2d6

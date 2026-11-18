@@ -1,11 +1,11 @@
 ---
 title: "Taboot Hasan Da Kyun Haye Wapis Mur Ke Aaya Aye New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shaukat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:3f01520c2e294a21d0d0

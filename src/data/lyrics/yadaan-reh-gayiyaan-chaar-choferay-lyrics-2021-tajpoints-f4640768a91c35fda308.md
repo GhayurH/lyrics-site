@@ -1,11 +1,11 @@
 ---
 title: "Yadaan Reh Gayiyaan Chaar Choferay Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f4640768a91c35fda308

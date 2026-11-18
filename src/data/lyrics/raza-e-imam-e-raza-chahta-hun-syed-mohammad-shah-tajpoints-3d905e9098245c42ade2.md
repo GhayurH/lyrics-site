@@ -1,11 +1,11 @@
 ---
 title: "Raza E Imam E Raza Chahta Hun Syed Mohammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Debal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3d905e9098245c42ade2

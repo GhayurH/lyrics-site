@@ -1,11 +1,11 @@
 ---
 title: "Rahe Zinda Agar Bibi Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b734214e0513b3f9cd97

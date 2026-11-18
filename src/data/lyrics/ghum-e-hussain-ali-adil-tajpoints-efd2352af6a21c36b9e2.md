@@ -1,11 +1,11 @@
 ---
 title: "Ghum E Hussain Ali Adil"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:efd2352af6a21c36b9e2

@@ -1,11 +1,11 @@
 ---
 title: "Aj Arshaan Te Rab Farmaya Qasida Mola Ali 13 Rajab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Qasida"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:69198fa67562fe234fe0

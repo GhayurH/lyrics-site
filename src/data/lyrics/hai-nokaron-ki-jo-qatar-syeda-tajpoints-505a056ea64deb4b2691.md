@@ -1,7 +1,7 @@
 ---
 title: "ہے نوکروں کی جو قطار سیدہ"
 alternateTitle: "Hai Naukaroṅ Ki Jo Qataar Syeda"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

@@ -1,10 +1,10 @@
 ---
 title: "یوں بےوطن کبھی نہ کسی کو خدا کرے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7f14e52ee677d3d70b83

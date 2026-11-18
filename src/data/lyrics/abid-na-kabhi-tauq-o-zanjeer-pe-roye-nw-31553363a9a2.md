@@ -1,6 +1,6 @@
 ---
 title: "Abid Na Kabhi Tauq-o-Zanjeer Pe Roye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

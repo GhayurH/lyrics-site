@@ -1,11 +1,11 @@
 ---
 title: "Abbas Alam Tera Jo Loag Uthaein Gaye Hasan Sadiq Lyrics 2004"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c62e3b41f3bb65f9a4dd

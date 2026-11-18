@@ -1,6 +1,6 @@
 ---
 title: "Ay Shaam Ke Logon Mein Binte Ali Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

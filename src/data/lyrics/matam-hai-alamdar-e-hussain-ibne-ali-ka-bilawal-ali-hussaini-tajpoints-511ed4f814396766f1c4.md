@@ -1,11 +1,11 @@
 ---
 title: "Matam Hai Alamdar E Hussain Ibne Ali Ka Bilawal Ali Hussaini"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bilawal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:511ed4f814396766f1c4

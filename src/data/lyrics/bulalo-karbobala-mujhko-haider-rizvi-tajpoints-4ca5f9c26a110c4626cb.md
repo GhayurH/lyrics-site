@@ -1,11 +1,11 @@
 ---
 title: "Bulalo Karbobala Mujhko Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4ca5f9c26a110c4626cb

@@ -1,11 +1,11 @@
 ---
 title: "Bint-e-Nabi Hai Kehti Pehlu Pe Hath Rakh Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f0048bb797eb63dd3f03

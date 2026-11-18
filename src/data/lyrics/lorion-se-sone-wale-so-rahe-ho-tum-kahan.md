@@ -1,10 +1,10 @@
 ---
 title: "لوریوں سے سونے والے سو رہے ہو تم کہاں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6b29dd25e4a7c8d6c046

@@ -1,11 +1,11 @@
 ---
 title: "Izzat Maab Fizza Faheem Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bahlool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e50d86a29a3a5e9b9ddb

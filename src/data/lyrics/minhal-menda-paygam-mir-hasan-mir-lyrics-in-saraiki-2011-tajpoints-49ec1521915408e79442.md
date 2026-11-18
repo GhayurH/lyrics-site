@@ -1,11 +1,11 @@
 ---
 title: "Minhal Menda Paygam Mir Hasan Mir Lyrics In Saraiki 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:49ec1521915408e79442

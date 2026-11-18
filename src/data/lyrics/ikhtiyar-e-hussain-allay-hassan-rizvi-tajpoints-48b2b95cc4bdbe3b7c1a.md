@@ -1,11 +1,11 @@
 ---
 title: "Ikhtiyar E Hussain Allay Hassan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mushaf"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:48b2b95cc4bdbe3b7c1a

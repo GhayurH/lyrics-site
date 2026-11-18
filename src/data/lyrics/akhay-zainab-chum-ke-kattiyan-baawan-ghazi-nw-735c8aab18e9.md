@@ -1,6 +1,6 @@
 ---
 title: "Akhay Zainab Chum Ke Kattiyan Baawan Ghazi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

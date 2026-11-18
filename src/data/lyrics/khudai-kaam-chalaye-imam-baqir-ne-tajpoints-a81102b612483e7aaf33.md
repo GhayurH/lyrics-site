@@ -1,11 +1,11 @@
 ---
 title: "Khudai Kaam Chalaye Imam Baqir Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a81102b612483e7aaf33

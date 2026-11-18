@@ -1,11 +1,11 @@
 ---
 title: "Khushbo Talash Karti Thi Chahat Jo Phol Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:943f6a379471161368db

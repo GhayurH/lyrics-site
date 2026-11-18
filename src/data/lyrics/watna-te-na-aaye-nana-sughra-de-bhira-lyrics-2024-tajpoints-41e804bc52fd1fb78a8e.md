@@ -1,11 +1,11 @@
 ---
 title: "Watna Te Na Aaye Nana Sughra De Bhira Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nadir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:41e804bc52fd1fb78a8e

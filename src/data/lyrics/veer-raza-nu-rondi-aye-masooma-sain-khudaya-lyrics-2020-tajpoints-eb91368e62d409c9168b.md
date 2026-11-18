@@ -1,11 +1,11 @@
 ---
 title: "Veer Raza Nu Rondi Aye Masooma Sain Khudaya Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eb91368e62d409c9168b

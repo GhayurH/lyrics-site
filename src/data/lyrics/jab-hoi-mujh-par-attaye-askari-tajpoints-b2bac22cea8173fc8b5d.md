@@ -1,11 +1,11 @@
 ---
 title: "Jab Hoi Mujh Par Attaye Askari"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b2bac22cea8173fc8b5d

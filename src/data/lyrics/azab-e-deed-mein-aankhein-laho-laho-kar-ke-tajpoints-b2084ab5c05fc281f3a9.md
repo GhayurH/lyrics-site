@@ -1,11 +1,11 @@
 ---
 title: "Azab-e-Deed Mein Aankhein Laho Laho Kar Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b2084ab5c05fc281f3a9

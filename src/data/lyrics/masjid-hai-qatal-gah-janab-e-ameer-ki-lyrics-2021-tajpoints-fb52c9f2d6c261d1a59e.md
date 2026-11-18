@@ -1,6 +1,6 @@
 ---
 title: "Masjid Hai Qatal Gah Janab-e-Ameer Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

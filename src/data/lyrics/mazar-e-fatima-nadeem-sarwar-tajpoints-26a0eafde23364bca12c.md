@@ -1,10 +1,10 @@
 ---
 title: "Mazar E Fatima Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:26a0eafde23364bca12c

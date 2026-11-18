@@ -1,11 +1,11 @@
 ---
 title: "Baba Kay Shahr Mai Nasir Asghar Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Alvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:91af73be754792c281e4

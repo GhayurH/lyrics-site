@@ -1,11 +1,11 @@
 ---
 title: "Markaz E Bazm E Kisa Hai Fatima Ali Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7e60306ffdeafb33e9b0

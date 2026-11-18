@@ -1,6 +1,6 @@
 ---
 title: "Maiku Zeen To Ummat Laha Choray"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

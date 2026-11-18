@@ -1,11 +1,11 @@
 ---
 title: "Shabeeh-e-Aks-e-Payamber Ki Yaad Aati Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rubab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7f84c37901c48c744a66

@@ -1,11 +1,11 @@
 ---
 title: "Ali-o-Zahra Ki Poti Sakina Bint-e-Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fcd94dc68143bd7b82d2

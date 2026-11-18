@@ -1,11 +1,11 @@
 ---
 title: "Zahra Sanad Uthaye Darbar Mein Khari Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shahid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3e2aa67bfbc834d8540d

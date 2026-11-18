@@ -1,11 +1,11 @@
 ---
 title: "Alamdar Ka Matam Meesum Kashmiri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c1ef04fd27bcb64418e1

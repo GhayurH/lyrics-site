@@ -1,11 +1,11 @@
 ---
 title: "Uthta Jata Hai Dilon Se Aytbar E Zindagi Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0371eb14acb670a68cd7

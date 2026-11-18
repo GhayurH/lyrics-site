@@ -1,11 +1,11 @@
 ---
 title: "Mere Murshad Mere Sardar Qalandar Saeen Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5136388f212559ac116b

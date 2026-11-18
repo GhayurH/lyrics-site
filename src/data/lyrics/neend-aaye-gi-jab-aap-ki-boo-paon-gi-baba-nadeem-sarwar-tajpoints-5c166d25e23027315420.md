@@ -1,11 +1,11 @@
 ---
 title: "Neend Aaye Gi Jab Aap Ki Boo Paon Gi Baba Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Anees"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5c166d25e23027315420

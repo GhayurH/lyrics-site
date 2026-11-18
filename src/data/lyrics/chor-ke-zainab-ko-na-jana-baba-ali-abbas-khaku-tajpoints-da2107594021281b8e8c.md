@@ -1,11 +1,11 @@
 ---
 title: "Chor Ke Zainab Ko Na Jana Baba Ali Abbas Khaku"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:da2107594021281b8e8c

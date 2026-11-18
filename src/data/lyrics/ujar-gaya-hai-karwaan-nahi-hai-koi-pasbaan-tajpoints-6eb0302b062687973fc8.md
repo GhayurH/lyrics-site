@@ -1,11 +1,11 @@
 ---
 title: "Ujar Gaya Hai Karwaan Nahi Hai Koi Pasbaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6eb0302b062687973fc8

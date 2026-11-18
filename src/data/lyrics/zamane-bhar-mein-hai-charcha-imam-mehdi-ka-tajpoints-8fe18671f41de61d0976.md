@@ -1,11 +1,11 @@
 ---
 title: "Zamane Bhar Mein Hai Charcha Imam Mehdi Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8fe18671f41de61d0976

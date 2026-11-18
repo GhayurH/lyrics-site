@@ -1,10 +1,10 @@
 ---
 title: "Karbala Khurrasan Mai Allay Hassan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:02d3cc85b3aefd98979e

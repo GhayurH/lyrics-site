@@ -1,11 +1,11 @@
 ---
 title: "Weraan Lahad Pari Hai Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6b2546a9c029cc41a9bd

@@ -1,10 +1,10 @@
 ---
 title: "اے غریب الغرباء اے میرے بھائی رضاؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ee68326382b6df1c0697

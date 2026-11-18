@@ -1,11 +1,11 @@
 ---
 title: "Haye Maar Dita Lokaan Baba Mera Bhira Lyrics 2006"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a8db41e7da8e40acbeca

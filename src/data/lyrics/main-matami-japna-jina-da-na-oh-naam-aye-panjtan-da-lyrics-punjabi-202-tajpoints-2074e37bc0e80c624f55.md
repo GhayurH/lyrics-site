@@ -1,11 +1,11 @@
 ---
 title: "Main Matami Japna Jina Da Na Oh Naam Aye Panjtan Da Lyrics Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2074e37bc0e80c624f55

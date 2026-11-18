@@ -1,11 +1,11 @@
 ---
 title: "Waris-e-Haider Waris-e-Zahra Qayam Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qamar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2604e4f8cd694662114e

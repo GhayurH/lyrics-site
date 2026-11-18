@@ -1,6 +1,6 @@
 ---
 title: "Deeva Baleya Na Phul Paaey Eh Qabar Kedi Eh Rahwaan Vich"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

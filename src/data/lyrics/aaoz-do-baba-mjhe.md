@@ -1,10 +1,10 @@
 ---
 title: "آوز دو بابا مجھے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7967d761b374cd49d42b

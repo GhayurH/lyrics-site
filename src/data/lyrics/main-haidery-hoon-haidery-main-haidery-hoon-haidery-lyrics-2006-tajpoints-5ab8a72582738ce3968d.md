@@ -1,11 +1,11 @@
 ---
 title: "Main Haidery Hoon Haidery Main Haidery Hoon Haidery Lyrics 2006"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5ab8a72582738ce3968d

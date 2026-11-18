@@ -1,11 +1,11 @@
 ---
 title: "Akbar Di Pak Jageer Wichon Hoya Qafila Aynj Teyar Aye Lyrics In Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5bef44c46eff4e752068

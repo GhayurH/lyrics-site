@@ -1,6 +1,6 @@
 ---
 title: "Sada Rahay Ga Hussain Hussain Farhan Ali Waris"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

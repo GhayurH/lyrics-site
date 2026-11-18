@@ -1,11 +1,11 @@
 ---
 title: "Di Masjid-e-Kofa Mein Yeh Tauheed Sada Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c7328a9ddd8ce2ffa814

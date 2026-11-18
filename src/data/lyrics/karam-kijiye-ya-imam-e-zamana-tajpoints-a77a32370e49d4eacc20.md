@@ -1,11 +1,11 @@
 ---
 title: "Karam Kijiye Ya Imam E Zamana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a77a32370e49d4eacc20

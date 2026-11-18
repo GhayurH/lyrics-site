@@ -1,11 +1,11 @@
 ---
 title: "Bad E Rasool Kaisa Ummat Ne Zulm Dhaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c04eee4b7a5f3be094e7

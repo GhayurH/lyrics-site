@@ -1,10 +1,10 @@
 ---
 title: "دل میں اکبرؑ کے ہے سنا بابا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:24008b950e3e47e4f881

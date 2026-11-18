@@ -1,11 +1,11 @@
 ---
 title: "Matam Karo Logo Arsalan Rizvi Najam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:41db5e9c6203ffbb1639

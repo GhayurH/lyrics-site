@@ -1,6 +1,6 @@
 ---
 title: "Aaja Fazal Da Baba Besheer Di Ma Kurlavay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Na Maar Tamachay Masoom Bhari Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

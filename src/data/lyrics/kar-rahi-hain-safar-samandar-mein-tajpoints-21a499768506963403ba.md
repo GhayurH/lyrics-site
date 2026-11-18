@@ -1,11 +1,11 @@
 ---
 title: "Kar Rahi Hain Safar Samandar Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:21a499768506963403ba

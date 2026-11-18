@@ -1,11 +1,11 @@
 ---
 title: "Woh Diya Our Roshni Batein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4993b4165dc3dc897480

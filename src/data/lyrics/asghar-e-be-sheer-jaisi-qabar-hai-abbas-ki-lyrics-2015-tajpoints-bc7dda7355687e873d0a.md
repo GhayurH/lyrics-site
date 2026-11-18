@@ -1,11 +1,11 @@
 ---
 title: "Asghar-e-Be-Sheer Jaisi Qabar Hai Abbas Ki Lyrics 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bc7dda7355687e873d0a

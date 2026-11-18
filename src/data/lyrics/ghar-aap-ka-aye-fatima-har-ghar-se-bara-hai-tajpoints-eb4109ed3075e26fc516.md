@@ -1,11 +1,11 @@
 ---
 title: "Ghar Aap Ka Aye Fatima Har Ghar Se Bara Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Kashif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eb4109ed3075e26fc516

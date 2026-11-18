@@ -1,11 +1,11 @@
 ---
 title: "مادر دو جہاں فاطمہؑ جاں دل بد و بستی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5f1b83cfea644a9755e5

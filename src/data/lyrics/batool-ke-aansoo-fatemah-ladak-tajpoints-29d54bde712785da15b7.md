@@ -1,11 +1,11 @@
 ---
 title: "Batool Ke Aansoo Fatemah Ladak"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:29d54bde712785da15b7

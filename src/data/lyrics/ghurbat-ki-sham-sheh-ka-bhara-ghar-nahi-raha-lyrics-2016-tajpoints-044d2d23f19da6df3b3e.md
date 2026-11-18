@@ -1,11 +1,11 @@
 ---
 title: "Ghurbat Ki Sham Sheh Ka Bhara Ghar Nahi Raha Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:044d2d23f19da6df3b3e

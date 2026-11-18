@@ -1,11 +1,11 @@
 ---
 title: "Youn Sakina Ko Tere Bad Sataya Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:608bf66852e015e2ac1d

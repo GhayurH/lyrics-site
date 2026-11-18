@@ -1,11 +1,11 @@
 ---
 title: "Abbas Mein Haider Ka Jalwa Nazar Atta Hai Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c631b2e7bcbbf3589f3c

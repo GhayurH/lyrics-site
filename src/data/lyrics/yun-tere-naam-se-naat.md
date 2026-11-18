@@ -1,6 +1,6 @@
 ---
 title: "Yun Tere Naam Se Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"

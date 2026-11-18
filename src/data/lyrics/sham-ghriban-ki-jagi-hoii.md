@@ -1,10 +1,10 @@
 ---
 title: "شامِ غریباں کی جاگی ہوئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c2f91b2f69b933a3a8ad

@@ -1,11 +1,11 @@
 ---
 title: "Fatima Ke Naam Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Syed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c374a02a48290ab1a0d5

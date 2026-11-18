@@ -1,11 +1,11 @@
 ---
 title: "رکدا نئیں اکھیاں چوں ہائے خون مہاری دا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cfd2965ab791ec49ac5d

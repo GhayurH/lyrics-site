@@ -1,11 +1,11 @@
 ---
 title: "Mere Habib Mere Dost Karbala Aaja"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:12d186456c9c75111856

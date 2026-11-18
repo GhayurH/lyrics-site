@@ -1,11 +1,11 @@
 ---
 title: "Sher E Murtaza Ghazi Sayyed Zaire Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dfcf41fb047a20d98a15

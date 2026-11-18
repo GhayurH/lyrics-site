@@ -1,11 +1,11 @@
 ---
 title: "Islam De Kul Sarmaye Di Hayi Virsa Daar Batool Aye Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kazim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f6f08faaba5ba5a4789e

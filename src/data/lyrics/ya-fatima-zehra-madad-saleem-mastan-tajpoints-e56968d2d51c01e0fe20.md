@@ -1,11 +1,11 @@
 ---
 title: "Ya Fatima Zehra Madad Saleem Mastan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e56968d2d51c01e0fe20

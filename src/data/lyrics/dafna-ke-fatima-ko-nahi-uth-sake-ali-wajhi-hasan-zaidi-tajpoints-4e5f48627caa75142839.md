@@ -1,11 +1,11 @@
 ---
 title: "Dafna Ke Fatima Ko Nahi Uth Sake Ali Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4e5f48627caa75142839

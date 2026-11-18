@@ -1,11 +1,11 @@
 ---
 title: "Ali Ki Beti Muhammad Raza Mungla"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7cf1aef60ae59d8cab70

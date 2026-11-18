@@ -1,11 +1,11 @@
 ---
 title: "Salam Us Pe Jise Baar Baar Mara Gaya Syed Mohammed Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:313f3b139d5578780ad6

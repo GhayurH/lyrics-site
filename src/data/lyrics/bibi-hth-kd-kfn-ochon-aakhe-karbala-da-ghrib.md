@@ -1,10 +1,10 @@
 ---
 title: "بی‌بی ہتھ کڈ کفن وچوں آکھے کربلا دا غریب"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:93c937c64ebb5d24e636

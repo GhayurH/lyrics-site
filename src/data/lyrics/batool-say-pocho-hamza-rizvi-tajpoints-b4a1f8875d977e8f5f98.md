@@ -1,11 +1,11 @@
 ---
 title: "Batool Say Pocho Hamza Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b4a1f8875d977e8f5f98

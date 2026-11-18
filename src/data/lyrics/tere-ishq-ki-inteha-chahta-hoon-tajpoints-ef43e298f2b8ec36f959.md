@@ -1,10 +1,10 @@
 ---
 title: "Tere Ishq Ki Inteha Chahta Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ef43e298f2b8ec36f959

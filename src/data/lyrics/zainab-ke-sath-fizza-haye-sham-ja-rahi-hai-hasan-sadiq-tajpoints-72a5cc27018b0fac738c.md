@@ -1,11 +1,11 @@
 ---
 title: "Zainab Ke Sath Fizza Haye Sham Ja Rahi Hai Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:72a5cc27018b0fac738c

@@ -1,11 +1,11 @@
 ---
 title: "Allah Hussain Sabar Tera Kitna Bara Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a026a2d98344f5d8c5ca

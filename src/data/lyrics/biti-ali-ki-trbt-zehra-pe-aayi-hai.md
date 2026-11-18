@@ -1,11 +1,11 @@
 ---
 title: "بیٹی علیؑ کی تربتِ زہراؑ پہ آئی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Ashraf Abbas"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c057f22836a9b6e42b3a

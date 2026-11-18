@@ -1,10 +1,10 @@
 ---
 title: "Ishq Taseer Se Nomeed Nahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8cbe5f62cf836992641f

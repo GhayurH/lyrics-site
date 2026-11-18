@@ -1,10 +1,10 @@
 ---
 title: "Zuljenah Ali Jee"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:75db646abf962588ab0e

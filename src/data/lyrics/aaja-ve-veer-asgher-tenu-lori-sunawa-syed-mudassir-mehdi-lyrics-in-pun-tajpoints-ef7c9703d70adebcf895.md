@@ -1,10 +1,10 @@
 ---
 title: "Aaja Ve Veer Asgher Tenu Lori Sunawa Syed Mudassir Mehdi Lyrics In Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ef7c9703d70adebcf895

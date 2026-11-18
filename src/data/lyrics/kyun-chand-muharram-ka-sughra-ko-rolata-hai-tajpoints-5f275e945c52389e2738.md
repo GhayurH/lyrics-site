@@ -1,11 +1,11 @@
 ---
 title: "Kyun Chand Muharram Ka Sughra Ko Rolata Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5f275e945c52389e2738

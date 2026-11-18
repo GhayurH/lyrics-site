@@ -1,11 +1,11 @@
 ---
 title: "مسلمؑ کے شہزادے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Meer Hasan Meer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:bac9adb7e8bdb9f2f0b9

@@ -1,11 +1,11 @@
 ---
 title: "Haye Sajjad Ne Bazaraan De Kiwein Safar Lyrics 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1c7efe85aeb1c4f572c5

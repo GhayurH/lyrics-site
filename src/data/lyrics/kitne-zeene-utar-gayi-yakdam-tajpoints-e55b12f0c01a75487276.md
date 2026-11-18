@@ -1,10 +1,10 @@
 ---
 title: "Kitne Zeene Utar Gayi Yakdam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e55b12f0c01a75487276

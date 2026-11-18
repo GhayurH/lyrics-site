@@ -1,11 +1,11 @@
 ---
 title: "Aik Baar Aur Mujhe Goud Mein Le Lo Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:93c866aeddddbadf510c

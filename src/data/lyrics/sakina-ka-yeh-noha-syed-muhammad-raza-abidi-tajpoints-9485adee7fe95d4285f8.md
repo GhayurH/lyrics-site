@@ -1,11 +1,11 @@
 ---
 title: "Sakina Ka Yeh Noha Syed Muhammad Raza Abidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Uzma"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9485adee7fe95d4285f8

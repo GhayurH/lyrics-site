@@ -1,10 +1,10 @@
 ---
 title: "یا وجیہاَ عند اللہ اشفع لنا عند اللہ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:325db21d4283cde2f31d

@@ -1,6 +1,6 @@
 ---
 title: "Haye Masjid Main Qatal Ghazi Ka Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

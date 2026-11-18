@@ -1,11 +1,11 @@
 ---
 title: "Khaima Jo Alqama Se Uthaya Hussain Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:668476cca3de2573e72d

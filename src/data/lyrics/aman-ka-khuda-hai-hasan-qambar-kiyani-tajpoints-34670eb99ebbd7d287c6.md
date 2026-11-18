@@ -1,11 +1,11 @@
 ---
 title: "Aman Ka Khuda Hai Hasan Qambar Kiyani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:34670eb99ebbd7d287c6

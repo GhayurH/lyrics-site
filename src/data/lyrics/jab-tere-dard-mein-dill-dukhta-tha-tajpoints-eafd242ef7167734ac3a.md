@@ -1,10 +1,10 @@
 ---
 title: "Jab Tere Dard Mein Dill Dukhta Tha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eafd242ef7167734ac3a

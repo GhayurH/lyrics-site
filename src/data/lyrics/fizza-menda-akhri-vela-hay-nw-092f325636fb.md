@@ -1,6 +1,6 @@
 ---
 title: "Fizza Menda Akhri Vela Hay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Har Zulm Ka Nishana Banaya Batool Ko"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9566b0434d62f7fd01d3

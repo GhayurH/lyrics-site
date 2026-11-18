@@ -1,11 +1,11 @@
 ---
 title: "Gham Mein Besheer Ke Zakir Bilawal Ali Hussaini"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nafees"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d40a1a34bbab9d81416b

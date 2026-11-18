@@ -1,6 +1,6 @@
 ---
 title: "Waang Ruku De Lokon Ek Qaidi Turda Jaavay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

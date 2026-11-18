@@ -1,11 +1,11 @@
 ---
 title: "Kon Kar Sakta Hai Iss Qadar Inayat Pori"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f98cad34385a632c179a

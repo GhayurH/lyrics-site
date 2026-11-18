@@ -1,11 +1,11 @@
 ---
 title: "Mera Akbar Na Raha Qasid Yasir Raza Yasir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b65330dae9051b5f1dd0

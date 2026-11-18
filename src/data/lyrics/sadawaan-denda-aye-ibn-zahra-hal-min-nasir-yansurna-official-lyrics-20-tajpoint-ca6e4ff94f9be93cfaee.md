@@ -1,11 +1,11 @@
 ---
 title: "Sadawaan Denda Aye Ibn Zahra Hal Min Nasir Yansurna Official Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:ca6e4ff94f9be93cfaee

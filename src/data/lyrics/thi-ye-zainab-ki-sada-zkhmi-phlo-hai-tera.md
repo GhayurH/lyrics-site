@@ -1,10 +1,10 @@
 ---
 title: "تھی یہ زینبؑ کی صدا زخمی پہلو ہے تیرا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:dcb8157950c20b48c6e8

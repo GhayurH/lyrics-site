@@ -1,11 +1,11 @@
 ---
 title: "نہ دے فروہؑ توں صداواں قاسمؑ نئیں اونا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5845e0b51e087fa5e6e5

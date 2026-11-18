@@ -1,11 +1,11 @@
 ---
 title: "Gard-e-Gham Se Mujhe Maila Nahi Hone Deta"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b5d7adfd76a915ea6569

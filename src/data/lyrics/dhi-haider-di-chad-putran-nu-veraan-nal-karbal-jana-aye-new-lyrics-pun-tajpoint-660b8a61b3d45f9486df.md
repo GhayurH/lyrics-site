@@ -1,11 +1,11 @@
 ---
 title: "Dhi Haider Di Chad Putran Nu Veraan Nal Karbal Jana Aye New Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:660b8a61b3d45f9486df

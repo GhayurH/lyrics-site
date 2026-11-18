@@ -1,7 +1,7 @@
 ---
 title: "ہے شہادت عسکری کی"
 alternateTitle: "Hai Shahaadat Askari Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

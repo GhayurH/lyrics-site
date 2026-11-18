@@ -1,6 +1,6 @@
 ---
 title: "Sub Hay Jihad Shaam Ghariban"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

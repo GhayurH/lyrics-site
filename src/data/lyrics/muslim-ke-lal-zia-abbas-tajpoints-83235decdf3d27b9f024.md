@@ -1,11 +1,11 @@
 ---
 title: "Muslim Ke Lal Zia Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saaib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:83235decdf3d27b9f024

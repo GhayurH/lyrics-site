@@ -1,6 +1,6 @@
 ---
 title: "Zamana Jaan Le Haider Ki Zulfiqar Hoon Main"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

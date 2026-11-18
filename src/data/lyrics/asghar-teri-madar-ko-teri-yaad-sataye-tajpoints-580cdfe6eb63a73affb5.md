@@ -1,11 +1,11 @@
 ---
 title: "Asghar Teri Madar Ko Teri Yaad Sataye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:580cdfe6eb63a73affb5

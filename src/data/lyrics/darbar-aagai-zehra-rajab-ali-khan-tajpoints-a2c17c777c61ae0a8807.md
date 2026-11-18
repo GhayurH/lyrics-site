@@ -1,11 +1,11 @@
 ---
 title: "Darbar Aagai Zehra Rajab Ali Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sahaab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a2c17c777c61ae0a8807

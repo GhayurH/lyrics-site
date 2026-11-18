@@ -1,11 +1,11 @@
 ---
 title: "Sawal Ummat Se Kar Raha Hai Hasan Ka Teeron Bhara Janaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Behlool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ed137064f9eea0287c92

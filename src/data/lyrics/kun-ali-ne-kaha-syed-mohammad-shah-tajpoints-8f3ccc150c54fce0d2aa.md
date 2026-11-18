@@ -1,11 +1,11 @@
 ---
 title: "Kun Ali Ne Kaha Syed Mohammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8f3ccc150c54fce0d2aa

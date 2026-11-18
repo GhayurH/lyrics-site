@@ -1,11 +1,11 @@
 ---
 title: "Tasbih E Imam Musa Kazim Syed Raza Abbas Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Munajat"
 poet: "Salman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:02657626869e1e788d35

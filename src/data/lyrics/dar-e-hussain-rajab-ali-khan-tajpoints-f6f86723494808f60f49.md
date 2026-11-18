@@ -1,11 +1,11 @@
 ---
 title: "Dar E Hussain Rajab Ali Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Bilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f6f86723494808f60f49

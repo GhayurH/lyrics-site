@@ -1,11 +1,11 @@
 ---
 title: "Mere Imam Bohat Jald Aaney Waley Hain Mehdi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b9b48b2366df23cf2d38

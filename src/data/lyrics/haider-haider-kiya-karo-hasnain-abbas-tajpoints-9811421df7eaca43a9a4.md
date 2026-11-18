@@ -1,11 +1,11 @@
 ---
 title: "Haider Haider Kiya Karo Hasnain Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9811421df7eaca43a9a4

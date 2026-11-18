@@ -1,6 +1,6 @@
 ---
 title: "Ujreyan Vaireyan Vich Sughra Karay Duawan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

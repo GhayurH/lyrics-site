@@ -1,11 +1,11 @@
 ---
 title: "رہ گئی علیؑ کی بیٹیؑ غم اٹھانے کے لئے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c4aabba0726387e60993

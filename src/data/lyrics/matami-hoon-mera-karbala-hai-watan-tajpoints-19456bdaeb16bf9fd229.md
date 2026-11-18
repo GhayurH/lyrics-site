@@ -1,11 +1,11 @@
 ---
 title: "Matami Hoon Mera Karbala Hai Watan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:19456bdaeb16bf9fd229

@@ -1,11 +1,11 @@
 ---
 title: "Munh Kar Ke Najaf Te Yasrab Wal Ro Wain Kare Zainab Dukhya New Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ijaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:f68c5c8be67452b3191e

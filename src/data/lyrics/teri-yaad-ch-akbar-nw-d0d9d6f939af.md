@@ -1,6 +1,6 @@
 ---
 title: "Teri Yaad Ch Akbar Mey Rondi Naa Marjava"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

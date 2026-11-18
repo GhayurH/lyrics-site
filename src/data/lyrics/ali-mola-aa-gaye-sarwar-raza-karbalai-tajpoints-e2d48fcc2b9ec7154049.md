@@ -1,11 +1,11 @@
 ---
 title: "Ali Mola Aa Gaye Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e2d48fcc2b9ec7154049

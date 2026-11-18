@@ -1,7 +1,7 @@
 ---
 title: "ہے دعا یاد مگر حرفِ دعا یاد نہیں"
 alternateTitle: "Hai Dua Yaad Magar Harf-e-Dua Yaad Nahiṅ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"

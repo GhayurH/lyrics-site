@@ -1,11 +1,11 @@
 ---
 title: "Aa Baba Kar Madad Meri Hun Aa Baba Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:69d0096cb5ebe8ea35a1

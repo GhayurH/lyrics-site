@@ -1,11 +1,11 @@
 ---
 title: "Abu Talib Ki Yeh Nishani Hai Saqlain Akbar Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:307d191a7641496c9acd

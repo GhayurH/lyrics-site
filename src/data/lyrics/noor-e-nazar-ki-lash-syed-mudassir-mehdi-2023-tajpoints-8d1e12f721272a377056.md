@@ -1,11 +1,11 @@
 ---
 title: "Noor E Nazar Ki Lash Syed Mudassir Mehdi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jary"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8d1e12f721272a377056

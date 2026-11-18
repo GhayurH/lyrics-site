@@ -1,11 +1,11 @@
 ---
 title: "Aisi Bhi Thi Aik Maa Zeeshan Abidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:427567879a7fcda15cd3

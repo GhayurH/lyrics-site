@@ -1,11 +1,11 @@
 ---
 title: "Nad-e-Ali Ka Wird Karo Yeh Gham Wam Dar War Kya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nayyar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0642a1aa9695cc3c0eee

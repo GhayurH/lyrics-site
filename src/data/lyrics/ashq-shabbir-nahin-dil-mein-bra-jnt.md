@@ -1,10 +1,10 @@
 ---
 title: "عشقِ شبیرؑ نہیں دل میں براۓ جنت"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:45660555d9fd225e8126

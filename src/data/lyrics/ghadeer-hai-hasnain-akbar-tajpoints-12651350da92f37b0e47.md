@@ -1,11 +1,11 @@
 ---
 title: "Ghadeer Hai Hasnain Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:12651350da92f37b0e47

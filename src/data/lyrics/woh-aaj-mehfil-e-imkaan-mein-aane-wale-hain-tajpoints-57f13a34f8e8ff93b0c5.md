@@ -1,11 +1,11 @@
 ---
 title: "Woh Aaj Mehfil-e-Imkaan Mein Aane Wale Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:57f13a34f8e8ff93b0c5

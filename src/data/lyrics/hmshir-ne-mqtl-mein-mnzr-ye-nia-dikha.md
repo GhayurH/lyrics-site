@@ -1,10 +1,10 @@
 ---
 title: "ہمشیر نے مقتل میں منظر یہ نیا دیکھا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ae8b1ec9c22c4e306097

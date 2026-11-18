@@ -1,11 +1,11 @@
 ---
 title: "Dilon Pe Qabza Hussain Ka Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:75dcc32907c910578edc

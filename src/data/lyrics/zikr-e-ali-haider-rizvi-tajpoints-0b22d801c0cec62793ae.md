@@ -1,10 +1,10 @@
 ---
 title: "Zikr-e-Ali Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0b22d801c0cec62793ae

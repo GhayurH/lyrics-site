@@ -1,11 +1,11 @@
 ---
 title: "Aaj Ke Din Howa Wo Noor Zahoor Jis Se Khair-ul-NIsa Ki Zaat Bani Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Navaid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c4be3b9500d50180b4fe

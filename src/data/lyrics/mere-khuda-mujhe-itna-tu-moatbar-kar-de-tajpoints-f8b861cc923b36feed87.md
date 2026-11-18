@@ -1,10 +1,10 @@
 ---
 title: "Mere Khuda Mujhe Itna Tu Moatbar Kar De"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f8b861cc923b36feed87

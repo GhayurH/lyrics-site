@@ -1,11 +1,11 @@
 ---
 title: "Pochy Zainab Sy Koi Faraz Ali Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:606508541c91ecc5e6b4

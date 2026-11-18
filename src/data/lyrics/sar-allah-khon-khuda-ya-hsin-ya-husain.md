@@ -1,11 +1,11 @@
 ---
 title: "ثار اللہ خونِ خدا یا حسیںؑ یا حسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Ali Safdar Rizvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:53481ce3194e50a921df

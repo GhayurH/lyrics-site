@@ -1,11 +1,11 @@
 ---
 title: "Khuda Ke Ghar Mein Khuda Ke Wali Ko Mara Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shahi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:766e6be9c460f1a31e93

@@ -1,11 +1,11 @@
 ---
 title: "Na Sir Di Chadar Mangni Aan Na Puchni Lyrics 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b191ffe2ca0e6c4641f5

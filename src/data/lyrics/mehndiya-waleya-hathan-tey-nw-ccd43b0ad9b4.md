@@ -1,6 +1,6 @@
 ---
 title: "Mehndiya Waleya Hathan Tey"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

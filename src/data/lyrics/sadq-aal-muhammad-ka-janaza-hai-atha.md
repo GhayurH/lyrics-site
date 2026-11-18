@@ -1,11 +1,11 @@
 ---
 title: "صادقِ آلِ محمدؑ کا جنازہ ہے اٹھا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Rizvia Party"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c8c01fe7a26b5973d0d5

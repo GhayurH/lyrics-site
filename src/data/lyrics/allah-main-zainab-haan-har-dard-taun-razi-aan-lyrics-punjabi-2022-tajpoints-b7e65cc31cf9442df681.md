@@ -1,11 +1,11 @@
 ---
 title: "Allah Main Zainab Haan Har Dard Taun Razi Aan Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b7e65cc31cf9442df681

@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Nu Bulaye Koi Ghazi Nu Bulaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:914ff734eb9d277e5ac3

@@ -1,6 +1,6 @@
 ---
 title: "Dou Veer Menday Vich Maktal Day"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

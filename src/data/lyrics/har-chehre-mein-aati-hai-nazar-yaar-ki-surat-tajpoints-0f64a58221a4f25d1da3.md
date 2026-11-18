@@ -1,11 +1,11 @@
 ---
 title: "Har Chehre Mein Aati Hai Nazar Yaar Ki Surat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wasif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0f64a58221a4f25d1da3

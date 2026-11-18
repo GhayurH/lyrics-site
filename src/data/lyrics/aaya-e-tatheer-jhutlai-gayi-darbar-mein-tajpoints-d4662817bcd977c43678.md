@@ -1,11 +1,11 @@
 ---
 title: "Aaya-e-Tatheer Jhutlai Gayi Darbar Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zakir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d4662817bcd977c43678

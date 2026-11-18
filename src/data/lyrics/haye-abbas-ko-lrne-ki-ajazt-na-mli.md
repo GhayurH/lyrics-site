@@ -1,10 +1,10 @@
 ---
 title: "ہائے عباسؑ کو لڑنے کی اجازت نہ ملی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:69c3c1d977dc83b4ec10

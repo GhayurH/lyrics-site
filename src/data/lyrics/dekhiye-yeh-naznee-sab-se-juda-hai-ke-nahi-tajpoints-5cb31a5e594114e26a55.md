@@ -1,11 +1,11 @@
 ---
 title: "Dekhiye Yeh Naznee Sab Se Juda Hai Ke Nahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5cb31a5e594114e26a55

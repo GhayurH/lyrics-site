@@ -1,6 +1,6 @@
 ---
 title: "Hazrat Se Juda Hogaya Abbas Sa Bhai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

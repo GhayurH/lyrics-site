@@ -1,11 +1,11 @@
 ---
 title: "Hindu Ki Bakhshish"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Kausri"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:af32d73f0ca1fe8ec4d8

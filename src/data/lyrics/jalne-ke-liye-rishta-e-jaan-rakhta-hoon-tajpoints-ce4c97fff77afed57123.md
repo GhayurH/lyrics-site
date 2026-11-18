@@ -1,11 +1,11 @@
 ---
 title: "Jalne Ke Liye Rishta-e-Jaan Rakhta Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nazim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ce4c97fff77afed57123

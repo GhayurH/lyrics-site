@@ -1,11 +1,11 @@
 ---
 title: "Aa Gaya Shaban Khushiyon Ke Zamane Aa Gaye Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b75c365b697f6eb28132

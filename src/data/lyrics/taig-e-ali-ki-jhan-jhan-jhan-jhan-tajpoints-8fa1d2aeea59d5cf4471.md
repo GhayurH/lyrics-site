@@ -1,11 +1,11 @@
 ---
 title: "Taig E Ali Ki Jhan Jhan Jhan Jhan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8fa1d2aeea59d5cf4471

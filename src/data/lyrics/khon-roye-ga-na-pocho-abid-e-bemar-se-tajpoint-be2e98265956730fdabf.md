@@ -1,11 +1,11 @@
 ---
 title: "Khon Roye Ga Na Pocho Abid E Bemar Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:be2e98265956730fdabf

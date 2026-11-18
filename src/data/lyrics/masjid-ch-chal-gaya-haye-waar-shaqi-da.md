@@ -1,10 +1,10 @@
 ---
 title: "مسجد چہ چل کیا ہائے وار شقی دا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2734070c3b8266f76553

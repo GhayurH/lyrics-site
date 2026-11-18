@@ -1,11 +1,11 @@
 ---
 title: "Haye Abbas Tere Bazo Uthaon Kaisay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6aa0ae30f81b107ffb1b

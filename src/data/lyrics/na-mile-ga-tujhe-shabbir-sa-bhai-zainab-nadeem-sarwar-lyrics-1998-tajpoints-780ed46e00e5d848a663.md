@@ -1,7 +1,7 @@
 ---
 title: "نہ ملے گا تجھے شبیرؑ سا بھائی زینبؑ"
 alternateTitle: "Na Milega Tujhe Shabbir Sa Bhai Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

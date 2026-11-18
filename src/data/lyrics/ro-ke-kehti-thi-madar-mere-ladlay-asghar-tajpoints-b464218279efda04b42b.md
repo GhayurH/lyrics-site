@@ -1,11 +1,11 @@
 ---
 title: "Ro Ke Kehti Thi Madar Mere Ladlay Asghar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Alam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b464218279efda04b42b

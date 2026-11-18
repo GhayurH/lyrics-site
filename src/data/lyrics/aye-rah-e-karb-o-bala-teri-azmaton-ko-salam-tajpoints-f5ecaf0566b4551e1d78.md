@@ -1,11 +1,11 @@
 ---
 title: "Aye Rah E Karb O Bala Teri Azmaton Ko Salam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f5ecaf0566b4551e1d78

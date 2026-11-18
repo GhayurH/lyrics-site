@@ -1,10 +1,10 @@
 ---
 title: "بابا ہے مصیبت کا سفر"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:52aca51258ccd4a5d797

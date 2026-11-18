@@ -1,11 +1,11 @@
 ---
 title: "Bibi Masoom E Qum Imam E Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:491612ac799230a2ca78

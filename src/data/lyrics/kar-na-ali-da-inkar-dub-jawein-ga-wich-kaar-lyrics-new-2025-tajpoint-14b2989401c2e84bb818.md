@@ -1,11 +1,11 @@
 ---
 title: "Kar Na Ali Da Inkar Dub Jawein Ga Wich Kaar Lyrics New 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mirza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:14b2989401c2e84bb818

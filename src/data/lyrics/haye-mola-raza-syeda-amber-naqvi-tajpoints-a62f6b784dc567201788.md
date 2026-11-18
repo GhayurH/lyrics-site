@@ -1,11 +1,11 @@
 ---
 title: "Haye Mola Raza Syeda Amber Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Amber"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a62f6b784dc567201788

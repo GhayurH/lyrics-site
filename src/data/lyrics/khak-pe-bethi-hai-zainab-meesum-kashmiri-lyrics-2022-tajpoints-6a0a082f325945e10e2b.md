@@ -1,11 +1,11 @@
 ---
 title: "Khak Pe Bethi Hai Zainab Meesum Kashmiri Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6a0a082f325945e10e2b

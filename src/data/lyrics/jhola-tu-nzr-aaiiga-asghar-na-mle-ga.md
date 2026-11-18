@@ -1,10 +1,10 @@
 ---
 title: "جھولا تو نظر آئیگا اصغرؑ نہ ملے گا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4a8358e9049f40a36b72

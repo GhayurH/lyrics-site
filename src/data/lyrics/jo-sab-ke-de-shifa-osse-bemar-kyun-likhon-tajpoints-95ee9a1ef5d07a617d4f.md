@@ -1,11 +1,11 @@
 ---
 title: "Jo Sab Ke De Shifa Osse Bemar Kyun Likhon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:95ee9a1ef5d07a617d4f

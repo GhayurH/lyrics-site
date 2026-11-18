@@ -1,11 +1,11 @@
 ---
 title: "Ya Fatima Ka Karkay Wazifa Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:59427b911974614d34ab

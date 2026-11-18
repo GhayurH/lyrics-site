@@ -1,6 +1,6 @@
 ---
 title: "Veer Ve Hun Aaja, Haye Shaama Paiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Haye Sajjad Diyaan Akhiyaan Rat Roiyaan Lyrics In Punjabi 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0a5fd24510e0dc041bf8

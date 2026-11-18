@@ -1,6 +1,6 @@
 ---
 title: "Matam Bhira Da Kardi Gayee Shaam Zahra Jayee"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Meri Qammar Nu Akbar Tour Gaya Keeway Laash Jawan Uthawan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

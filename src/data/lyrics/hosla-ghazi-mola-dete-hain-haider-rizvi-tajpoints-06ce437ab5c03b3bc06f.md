@@ -1,11 +1,11 @@
 ---
 title: "Hosla Ghazi Mola Dete Hain Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:06ce437ab5c03b3bc06f

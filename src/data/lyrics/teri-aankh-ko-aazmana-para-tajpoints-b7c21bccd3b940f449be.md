@@ -1,10 +1,10 @@
 ---
 title: "Teri Aankh Ko Aazmana Para"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b7c21bccd3b940f449be

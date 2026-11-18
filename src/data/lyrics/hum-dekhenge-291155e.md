@@ -1,10 +1,10 @@
 ---
 title: "ہم دیکھیں گے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:291155e8b72cb6db7291

@@ -1,10 +1,10 @@
 ---
 title: "تمہیں حسینؑ زمانہ سلام کہتا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:039b60e7dc1fad71bc24

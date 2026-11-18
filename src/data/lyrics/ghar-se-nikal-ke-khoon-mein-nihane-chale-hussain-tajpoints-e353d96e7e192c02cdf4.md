@@ -1,11 +1,11 @@
 ---
 title: "Ghar Se Nikal Ke Khoon Mein Nihane Chale Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naveed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e353d96e7e192c02cdf4

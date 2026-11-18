@@ -1,11 +1,11 @@
 ---
 title: "Zakhmi Hai Bohot Gaisuon Wala Nabeel Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sardar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e15001a3771ded80ff02

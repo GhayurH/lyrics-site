@@ -1,11 +1,11 @@
 ---
 title: "Jang E Hazrat Abbas Alamdar Mir Sajjad Mir Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:247d838a8cbb4b6ac24c

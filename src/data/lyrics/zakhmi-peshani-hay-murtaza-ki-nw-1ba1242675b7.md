@@ -1,6 +1,6 @@
 ---
 title: "Zakhmi peshani hay Murtaza ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

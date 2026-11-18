@@ -1,6 +1,6 @@
 ---
 title: "Karte Thay Sarwar Buka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

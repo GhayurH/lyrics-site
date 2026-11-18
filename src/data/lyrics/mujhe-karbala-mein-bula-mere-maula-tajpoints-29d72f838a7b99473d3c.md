@@ -1,11 +1,11 @@
 ---
 title: "Mujhe Karbala Mein Bula Mere Maula"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:29d72f838a7b99473d3c

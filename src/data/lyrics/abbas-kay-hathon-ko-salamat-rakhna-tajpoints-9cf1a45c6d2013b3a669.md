@@ -1,11 +1,11 @@
 ---
 title: "Abbas Kay Hathon Ko Salamat Rakhna"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9cf1a45c6d2013b3a669

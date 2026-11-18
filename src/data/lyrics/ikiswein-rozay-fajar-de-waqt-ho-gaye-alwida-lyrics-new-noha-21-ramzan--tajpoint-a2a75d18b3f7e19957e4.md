@@ -1,11 +1,11 @@
 ---
 title: "Ikiswein Rozay Fajar De Waqt Ho Gaye Alwida Lyrics New Noha 21 Ramzan 2026 Shahadat Hazrat Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Ijaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:a2a75d18b3f7e19957e4

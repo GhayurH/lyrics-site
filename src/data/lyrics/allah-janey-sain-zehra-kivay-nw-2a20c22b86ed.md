@@ -1,6 +1,6 @@
 ---
 title: "Allah Janey Sain Zehra Kivay Darbaar Gayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

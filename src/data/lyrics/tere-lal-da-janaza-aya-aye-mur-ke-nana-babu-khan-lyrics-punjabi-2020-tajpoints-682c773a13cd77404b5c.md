@@ -1,11 +1,11 @@
 ---
 title: "Tere Lal Da Janaza Aya Aye Mur Ke Nana Babu Khan Lyrics Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:682c773a13cd77404b5c

@@ -1,11 +1,11 @@
 ---
 title: "Jaag Raha Hai Rehan Azmi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f2df553321d06f4c1a0a

@@ -1,6 +1,6 @@
 ---
 title: "Akbar Kay Janazay Pay Mujhay Lay Chalo Bhaiya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

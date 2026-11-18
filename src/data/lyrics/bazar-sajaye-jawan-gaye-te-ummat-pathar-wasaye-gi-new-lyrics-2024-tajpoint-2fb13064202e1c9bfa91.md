@@ -1,11 +1,11 @@
 ---
 title: "Bazar Sajaye Jawan Gaye Te Ummat Pathar Wasaye Gi New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:2fb13064202e1c9bfa91

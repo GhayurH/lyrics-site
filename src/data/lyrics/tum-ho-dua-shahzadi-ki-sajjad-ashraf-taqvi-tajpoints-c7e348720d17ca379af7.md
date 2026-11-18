@@ -1,11 +1,11 @@
 ---
 title: "Tum Ho Dua Shahzadi Ki Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c7e348720d17ca379af7

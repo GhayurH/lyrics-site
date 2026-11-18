@@ -1,11 +1,11 @@
 ---
 title: "Ali Ka Chehra Hey Qambar Ali Kiyani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6c461b8224165a06d7a8

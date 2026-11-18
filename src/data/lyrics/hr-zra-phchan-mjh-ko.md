@@ -1,10 +1,10 @@
 ---
 title: "حرؑ ذرا پہچان مجھ کو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:9420a2d353ee229cd5e9

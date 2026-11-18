@@ -1,6 +1,6 @@
 ---
 title: "Jandi War Sun Lay Ghazi Haye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

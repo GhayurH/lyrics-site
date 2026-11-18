@@ -1,6 +1,6 @@
 ---
 title: "Deen-e-Nabi Da Waaris Beywaarisa De Vaangu Pardes Turpeya Ey"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

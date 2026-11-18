@@ -1,11 +1,11 @@
 ---
 title: "Ya Muhammad Tere Daar Ki Naat Saleem Mastan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Waseem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2bcd65fade6ddbde84e7

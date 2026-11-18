@@ -1,6 +1,6 @@
 ---
 title: "Utha Koi Janaaza Phir Fatima a.s. Kay Ghar Say"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Pehle Namoos E Risalat Ke Azadar Hain Abid Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f90886a0e1999b4ca39f

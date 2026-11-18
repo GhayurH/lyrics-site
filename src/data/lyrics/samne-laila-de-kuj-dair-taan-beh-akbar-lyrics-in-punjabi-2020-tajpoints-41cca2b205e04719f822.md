@@ -1,11 +1,11 @@
 ---
 title: "Samne Laila De Kuj Dair Taan Beh Akbar Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:41cca2b205e04719f822

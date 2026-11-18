@@ -1,10 +1,10 @@
 ---
 title: "بھینی دا مان غازی تک لے گیاں رداواں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:05273d267ec0398b0940

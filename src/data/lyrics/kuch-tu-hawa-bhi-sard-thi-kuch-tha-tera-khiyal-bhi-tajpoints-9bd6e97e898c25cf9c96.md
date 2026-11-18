@@ -1,10 +1,10 @@
 ---
 title: "Kuch Tu Hawa Bhi Sard Thi Kuch Tha Tera Khiyal Bhi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9bd6e97e898c25cf9c96

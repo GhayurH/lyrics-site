@@ -1,11 +1,11 @@
 ---
 title: "Kis Ne Zehar Imam Raza Ko Pila Diya Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sardar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:08a9bc1bc5f1e1ec1516

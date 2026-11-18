@@ -1,6 +1,6 @@
 ---
 title: "Ali Batool Ki Turbat Bana Kay Rote Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

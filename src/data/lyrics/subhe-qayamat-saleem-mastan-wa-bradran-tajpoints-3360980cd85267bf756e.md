@@ -1,10 +1,10 @@
 ---
 title: "Subhe Qayamat Saleem Mastan Wa Bradran"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3360980cd85267bf756e

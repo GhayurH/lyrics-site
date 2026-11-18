@@ -1,6 +1,6 @@
 ---
 title: "Rajaz Ya Aun o Muhammad"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

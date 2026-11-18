@@ -1,11 +1,11 @@
 ---
 title: "Bekasoon Ka Qafila Hai Sham Ka Bazar Hai Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bbe3bc41255bf6ab90a4

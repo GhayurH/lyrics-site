@@ -1,11 +1,11 @@
 ---
 title: "Khud Baap Jawaan Lal Ki Maiyyat Ko Uthaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f320e870b7682feb4b27

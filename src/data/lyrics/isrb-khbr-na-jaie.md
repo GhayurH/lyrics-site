@@ -1,10 +1,10 @@
 ---
 title: "یثرب خبر نہ جائے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a16675473ed177058630

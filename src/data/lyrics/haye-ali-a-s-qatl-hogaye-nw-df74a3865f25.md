@@ -1,6 +1,6 @@
 ---
 title: "Haye Ali (A.S) Qatl Hogaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

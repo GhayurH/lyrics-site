@@ -1,11 +1,11 @@
 ---
 title: "Kafir Howa Dunya Ka Musalman Ali Ka Ammar Yasir Magsi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ammar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9d524f155a1d8aa54ceb

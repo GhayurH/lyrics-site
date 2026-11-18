@@ -1,11 +1,11 @@
 ---
 title: "Al-Fatima-to-Bizato Minni"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bcf7142ab2e86f732e4f

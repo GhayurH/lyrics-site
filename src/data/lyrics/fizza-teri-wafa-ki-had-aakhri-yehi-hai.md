@@ -1,6 +1,6 @@
 ---
 title: "فضه تیری وفا کی حد آخری یہی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Veer Ali Akbar Ne Rab Janrey Lyrics In Punjabi 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d6dcccea1735ae5c8ed

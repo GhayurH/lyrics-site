@@ -1,11 +1,11 @@
 ---
 title: "Eman Hussain Syed Hussain Raza Kazmi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:265d7d40ce41240d9aba

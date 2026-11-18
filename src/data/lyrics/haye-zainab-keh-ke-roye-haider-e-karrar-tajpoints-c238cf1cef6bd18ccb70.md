@@ -1,11 +1,11 @@
 ---
 title: "Haye Zainab Keh Ke Roye Haider-e-Karrar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c238cf1cef6bd18ccb70

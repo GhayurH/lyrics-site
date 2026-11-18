@@ -1,11 +1,11 @@
 ---
 title: "دنیا سے جا رہی ہے بابا کی عزادار"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Not Available"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:007a507bde76cf53c709

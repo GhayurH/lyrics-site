@@ -1,10 +1,10 @@
 ---
 title: "واکے پُتر جوان"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5feb32b6991357a33bbe

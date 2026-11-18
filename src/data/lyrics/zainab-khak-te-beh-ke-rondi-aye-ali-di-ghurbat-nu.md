@@ -1,6 +1,6 @@
 ---
 title: "Zainab Khak Te Beh Ke Rondi Aye Ali Di Ghurbat Nu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

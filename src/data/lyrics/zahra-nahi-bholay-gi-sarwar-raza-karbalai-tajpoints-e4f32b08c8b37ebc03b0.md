@@ -1,11 +1,11 @@
 ---
 title: "Zahra Nahi Bholay Gi Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e4f32b08c8b37ebc03b0

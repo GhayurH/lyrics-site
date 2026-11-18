@@ -1,11 +1,11 @@
 ---
 title: "Veer Mar Gaye Ne Lal Mar Gaye Hoi Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bebd32f729fcb5b5db67

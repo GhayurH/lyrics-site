@@ -1,11 +1,11 @@
 ---
 title: "Ghadeer Ki Sada Ali Ali Hasnain Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eacde826ffeb99f54156

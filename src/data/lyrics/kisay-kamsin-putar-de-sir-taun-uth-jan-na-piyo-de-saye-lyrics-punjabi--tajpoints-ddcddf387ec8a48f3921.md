@@ -1,11 +1,11 @@
 ---
 title: "Kisay Kamsin Putar De Sir Taun Uth Jan Na Piyo De Saye Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ddcddf387ec8a48f3921

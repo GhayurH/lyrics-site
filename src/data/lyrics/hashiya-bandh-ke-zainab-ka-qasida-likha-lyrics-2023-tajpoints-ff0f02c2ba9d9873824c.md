@@ -1,11 +1,11 @@
 ---
 title: "Hashiya Bandh Ke Zainab Ka Qasida Likha Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ff0f02c2ba9d9873824c

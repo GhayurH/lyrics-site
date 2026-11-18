@@ -1,11 +1,11 @@
 ---
 title: "Jahan Hussain Pe Seena Zani Nahi Ho Gi Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eb188e23418fa5f9f867

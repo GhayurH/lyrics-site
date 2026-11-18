@@ -1,11 +1,11 @@
 ---
 title: "Aye Chand Karbala Ke Tu Ne Tu Dekhey Hoon Gay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "o-Soz KhuwaN::Ustad Sibt-e-Jafar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1e180a965a9977a67d78

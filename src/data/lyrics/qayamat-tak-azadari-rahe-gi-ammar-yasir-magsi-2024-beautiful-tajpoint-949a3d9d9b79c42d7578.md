@@ -1,11 +1,11 @@
 ---
 title: "Qayamat Tak Azadari Rahe Gi Ammar Yasir Magsi 2024 Beautiful"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ammar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:949a3d9d9b79c42d7578

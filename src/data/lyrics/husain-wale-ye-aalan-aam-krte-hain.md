@@ -1,10 +1,10 @@
 ---
 title: "حسینؑ والے یہ اعلانِ عام کرتے ہیں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4a205e936afbe9fe0237

@@ -1,11 +1,11 @@
 ---
 title: "Sab Sy Bara Hussain Raza Hassan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shaukat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:883c067545e87d527dc7

@@ -1,11 +1,11 @@
 ---
 title: "Madh E Shah E Do Alam Ki Kya Baat Hai Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c568e3f282ce11531053

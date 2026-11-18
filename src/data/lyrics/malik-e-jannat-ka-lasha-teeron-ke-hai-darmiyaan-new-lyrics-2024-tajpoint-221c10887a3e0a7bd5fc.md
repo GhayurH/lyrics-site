@@ -1,11 +1,11 @@
 ---
 title: "Malik E Jannat Ka Lasha Teeron Ke Hai Darmiyaan New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:221c10887a3e0a7bd5fc

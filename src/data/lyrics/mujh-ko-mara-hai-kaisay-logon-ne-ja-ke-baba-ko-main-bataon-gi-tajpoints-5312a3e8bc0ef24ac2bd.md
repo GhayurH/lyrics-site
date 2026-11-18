@@ -1,11 +1,11 @@
 ---
 title: "Mujh Ko Mara Hai Kaisay Logon Ne Ja Ke Baba Ko Main Bataon Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nisar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5312a3e8bc0ef24ac2bd

@@ -1,11 +1,11 @@
 ---
 title: "Pathran Che Dub Gaya Aye Chan Hashmi Gharan Da Lyrics New 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:3f4818726ab8a45cfce1

@@ -1,11 +1,11 @@
 ---
 title: "صورتِ شیرِ خدا جاہ و حشم کس کا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cc66661400cb3cc5d4c5

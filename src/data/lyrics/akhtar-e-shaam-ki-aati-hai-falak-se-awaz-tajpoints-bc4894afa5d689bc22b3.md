@@ -1,10 +1,10 @@
 ---
 title: "Akhtar-e-Shaam Ki Aati Hai Falak Se Awaz"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bc4894afa5d689bc22b3

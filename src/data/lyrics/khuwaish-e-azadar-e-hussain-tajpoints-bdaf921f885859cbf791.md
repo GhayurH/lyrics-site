@@ -1,11 +1,11 @@
 ---
 title: "Khuwaish E Azadar E Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Laeeq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bdaf921f885859cbf791

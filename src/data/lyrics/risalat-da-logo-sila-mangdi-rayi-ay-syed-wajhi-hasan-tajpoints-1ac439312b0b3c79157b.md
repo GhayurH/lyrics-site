@@ -1,11 +1,11 @@
 ---
 title: "Risalat Da Logo Sila Mangdi Rayi Ay Syed Wajhi Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1ac439312b0b3c79157b

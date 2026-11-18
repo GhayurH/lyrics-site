@@ -1,11 +1,11 @@
 ---
 title: "Dard-e-Yateemi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saleem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8d3f84c7e88be42e0e8e

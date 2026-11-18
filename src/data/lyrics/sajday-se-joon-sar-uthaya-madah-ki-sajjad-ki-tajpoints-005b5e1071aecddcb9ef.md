@@ -1,11 +1,11 @@
 ---
 title: "Sajday Se Joon Sar Uthaya Madah Ki Sajjad Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:005b5e1071aecddcb9ef

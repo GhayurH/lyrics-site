@@ -1,11 +1,11 @@
 ---
 title: "Zindan Mein Baba Ko Bulati Hai Sakina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Laeeq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d2b50dc1f00e8acb5c05

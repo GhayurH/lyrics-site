@@ -1,11 +1,11 @@
 ---
 title: "Jashan Khum Ke Maidaan Mein Saj Gaya Wilayat Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:40904abf123c517e9687

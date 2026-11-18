@@ -1,11 +1,11 @@
 ---
 title: "Zulm Toon Pehlaan Ummat Nane Di Kujh Nayi Sochiya New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ijaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:82199bebdc688958a067

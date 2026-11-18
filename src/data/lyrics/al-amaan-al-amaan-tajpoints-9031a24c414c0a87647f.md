@@ -1,11 +1,11 @@
 ---
 title: "Al-Amaan Al-Amaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naqvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9031a24c414c0a87647f

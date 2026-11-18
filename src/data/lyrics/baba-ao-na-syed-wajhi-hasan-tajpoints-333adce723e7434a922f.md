@@ -1,11 +1,11 @@
 ---
 title: "Baba Ao Na Syed Wajhi Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:333adce723e7434a922f

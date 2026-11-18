@@ -1,11 +1,11 @@
 ---
 title: "Haye Zahra Ko Rolaya Sataya Bhi Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6e81f2201fbf3c6db6f3

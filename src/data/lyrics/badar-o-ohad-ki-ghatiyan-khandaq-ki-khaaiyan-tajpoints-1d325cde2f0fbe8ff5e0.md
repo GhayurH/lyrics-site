@@ -1,11 +1,11 @@
 ---
 title: "Badar-o-Ohad Ki Ghatiyan Khandaq Ki Khaaiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d325cde2f0fbe8ff5e0

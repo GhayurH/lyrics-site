@@ -1,11 +1,11 @@
 ---
 title: "Beta Abu Talib Ka Zakhmi Howa Masjid Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cab294b80e631e2fd507

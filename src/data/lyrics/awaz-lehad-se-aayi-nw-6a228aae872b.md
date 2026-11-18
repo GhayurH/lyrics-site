@@ -1,6 +1,6 @@
 ---
 title: "Awaz Lehad Se Aayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

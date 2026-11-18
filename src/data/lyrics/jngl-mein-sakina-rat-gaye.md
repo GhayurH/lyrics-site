@@ -1,10 +1,10 @@
 ---
 title: "جنگل میں سکینہؑ رات گئے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:f175b9570d30b4973c7d

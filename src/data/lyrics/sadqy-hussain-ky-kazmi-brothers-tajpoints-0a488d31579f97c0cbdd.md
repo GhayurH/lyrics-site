@@ -1,11 +1,11 @@
 ---
 title: "Sadqy Hussain Ky Kazmi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Arsalan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0a488d31579f97c0cbdd

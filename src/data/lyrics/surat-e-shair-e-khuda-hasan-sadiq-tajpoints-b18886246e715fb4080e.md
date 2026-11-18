@@ -1,11 +1,11 @@
 ---
 title: "Surat-e-Shair-e-Khuda Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b18886246e715fb4080e

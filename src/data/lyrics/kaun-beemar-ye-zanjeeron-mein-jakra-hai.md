@@ -1,10 +1,10 @@
 ---
 title: "کون بیمار یہ زنجیروں میں جکڑا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1a05d4d6520156b0e4a2

@@ -1,10 +1,10 @@
 ---
 title: "Hussain Jate Hain Hasnain Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cf645c4e82a05c69102f

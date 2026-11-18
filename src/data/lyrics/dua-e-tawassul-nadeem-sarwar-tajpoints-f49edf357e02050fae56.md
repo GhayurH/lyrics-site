@@ -1,11 +1,11 @@
 ---
 title: "Dua-e-Tawassul Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Sarwar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f49edf357e02050fae56

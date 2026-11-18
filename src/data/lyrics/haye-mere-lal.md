@@ -1,10 +1,10 @@
 ---
 title: "ہائے میرے لعل"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6ecbdf18be5e29bdf0df

@@ -1,11 +1,11 @@
 ---
 title: "Khum Mein Nabi Ne Saaf Pukara Haider Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9d13d49afab7401ab7c2

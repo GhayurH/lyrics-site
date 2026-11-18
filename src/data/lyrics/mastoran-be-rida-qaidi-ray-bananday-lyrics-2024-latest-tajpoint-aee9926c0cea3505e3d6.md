@@ -1,11 +1,11 @@
 ---
 title: "Mastoran Be Rida Qaidi Ray Bananday Lyrics 2024 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:aee9926c0cea3505e3d6

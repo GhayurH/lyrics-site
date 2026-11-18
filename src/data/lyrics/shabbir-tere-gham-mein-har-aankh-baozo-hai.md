@@ -1,10 +1,10 @@
 ---
 title: "شبیرؑ تیرے غم میں ہر آنکھ باوضو ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4d87b1c47ec07ebfb9ca

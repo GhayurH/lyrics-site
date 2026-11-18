@@ -1,6 +1,6 @@
 ---
 title: "Allah Janay Sain Zainab Ne Kiwein Qaid Nibhaayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

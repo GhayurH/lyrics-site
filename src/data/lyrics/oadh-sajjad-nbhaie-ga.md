@@ -1,11 +1,11 @@
 ---
 title: "وعدہ سجادؑ نبھائے گا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6cba7e673922e309d571

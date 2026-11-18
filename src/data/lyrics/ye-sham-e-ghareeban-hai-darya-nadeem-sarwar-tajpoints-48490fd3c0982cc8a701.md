@@ -1,11 +1,11 @@
 ---
 title: "Ye Sham-e-Ghareeban Hai Darya Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:48490fd3c0982cc8a701

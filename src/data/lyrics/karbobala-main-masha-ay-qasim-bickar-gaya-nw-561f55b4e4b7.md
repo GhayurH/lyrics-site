@@ -1,6 +1,6 @@
 ---
 title: "Karbobala Main Masha Ay Qasim Bickar Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

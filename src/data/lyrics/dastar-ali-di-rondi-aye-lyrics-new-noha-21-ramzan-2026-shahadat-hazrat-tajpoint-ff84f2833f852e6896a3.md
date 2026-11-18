@@ -1,11 +1,11 @@
 ---
 title: "Dastar Ali Di Rondi Aye Lyrics New Noha 21 Ramzan 2026 Shahadat Hazrat Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:ff84f2833f852e6896a3

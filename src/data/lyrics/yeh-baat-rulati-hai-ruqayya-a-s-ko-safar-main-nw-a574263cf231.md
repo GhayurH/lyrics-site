@@ -1,6 +1,6 @@
 ---
 title: "Yeh Baat Rulati Hai Ruqayya (A.S) Ko Safar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

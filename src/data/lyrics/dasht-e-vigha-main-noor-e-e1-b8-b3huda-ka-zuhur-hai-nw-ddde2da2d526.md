@@ -1,6 +1,6 @@
 ---
 title: "Dasht-e-Vigha Main Noor-e-ḳhuda Ka Zuhur Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

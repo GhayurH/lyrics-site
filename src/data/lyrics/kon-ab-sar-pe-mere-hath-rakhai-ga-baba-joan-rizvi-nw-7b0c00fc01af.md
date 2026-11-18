@@ -1,6 +1,6 @@
 ---
 title: "Kon Ab Sar Pe Mere Hath Rakhai Ga Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

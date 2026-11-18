@@ -1,11 +1,11 @@
 ---
 title: "Abbas Hai Abbas Hai Anjuman Makhdumiya Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zaidi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c6eac633d6d5e2fc1371

@@ -1,11 +1,11 @@
 ---
 title: "Haider Ka Janaza Haider Ka Janaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Laeek"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1613664696763fe8ac3a

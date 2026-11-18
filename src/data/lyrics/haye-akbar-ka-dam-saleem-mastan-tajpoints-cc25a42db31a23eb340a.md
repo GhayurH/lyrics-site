@@ -1,11 +1,11 @@
 ---
 title: "Haye Akbar Ka Dam Saleem Mastan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cc25a42db31a23eb340a

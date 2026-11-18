@@ -1,11 +1,11 @@
 ---
 title: "Haye Jadoon Ghazi Diyaan Banwaan Na Raiyaan Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:67629086709b9aedc4bd

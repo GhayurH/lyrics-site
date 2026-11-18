@@ -1,10 +1,10 @@
 ---
 title: "حکم فاسق کا ہے بازار سجایا جائے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:eeb4cca0a92ca7315242

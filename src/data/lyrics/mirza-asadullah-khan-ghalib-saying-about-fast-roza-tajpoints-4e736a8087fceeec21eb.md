@@ -1,11 +1,11 @@
 ---
 title: "Mirza Asadullah Khan Ghalib Saying About Fast – Roza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4e736a8087fceeec21eb

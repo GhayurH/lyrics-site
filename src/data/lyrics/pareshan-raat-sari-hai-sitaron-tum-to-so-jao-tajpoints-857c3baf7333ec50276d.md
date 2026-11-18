@@ -1,10 +1,10 @@
 ---
 title: "Pareshan Raat Sari Hai Sitaron Tum To So Jao"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:857c3baf7333ec50276d

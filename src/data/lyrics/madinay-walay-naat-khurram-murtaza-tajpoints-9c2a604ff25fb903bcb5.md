@@ -1,11 +1,11 @@
 ---
 title: "Madinay Walay Naat Khurram Murtaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9c2a604ff25fb903bcb5

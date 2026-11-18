@@ -1,11 +1,11 @@
 ---
 title: "Tumhe Dillagi Bhool Jaani Paregi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Purnam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:95f92d36aa20f779d50d

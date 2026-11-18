@@ -1,11 +1,11 @@
 ---
 title: "Ab To Ajaiye Qaiser Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rizwan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:16a28ec055ef62070d3d

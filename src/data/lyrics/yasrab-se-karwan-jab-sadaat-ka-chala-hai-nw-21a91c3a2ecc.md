@@ -1,6 +1,6 @@
 ---
 title: "Yasrab Se Karwan Jab Sadaat Ka Chala Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

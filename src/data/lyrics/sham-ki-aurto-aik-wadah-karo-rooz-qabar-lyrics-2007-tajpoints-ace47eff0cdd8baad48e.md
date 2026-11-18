@@ -1,6 +1,6 @@
 ---
 title: "Sham Ki Aurto Aik Wadah Karo Rooz Qabar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

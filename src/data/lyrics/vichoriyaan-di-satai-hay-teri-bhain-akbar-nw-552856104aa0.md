@@ -1,6 +1,6 @@
 ---
 title: "Vichoriyaan Di Satai Hay Teri Bhain Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

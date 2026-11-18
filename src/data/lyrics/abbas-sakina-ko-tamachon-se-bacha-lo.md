@@ -1,10 +1,10 @@
 ---
 title: "عباسؑ سکینہؑ کوتمانچوں سے بچا لو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:318c0d53f34c989d18ec

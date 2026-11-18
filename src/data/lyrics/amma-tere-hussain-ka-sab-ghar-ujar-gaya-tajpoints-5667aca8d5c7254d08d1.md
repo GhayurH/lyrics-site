@@ -1,11 +1,11 @@
 ---
 title: "Amma Tere Hussain Ka Sab Ghar Ujar Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Laeeq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5667aca8d5c7254d08d1

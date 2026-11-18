@@ -1,11 +1,11 @@
 ---
 title: "Kya Yehi Islam Tha Phaila Howa Bad E Nabi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:87245faae2656c581d45

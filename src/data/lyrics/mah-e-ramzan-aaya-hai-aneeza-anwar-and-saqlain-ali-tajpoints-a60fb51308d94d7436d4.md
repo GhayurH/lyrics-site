@@ -1,11 +1,11 @@
 ---
 title: "Mah-e-Ramzan Aaya Hai Aneeza Anwar And Saqlain Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a60fb51308d94d7436d4

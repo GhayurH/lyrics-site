@@ -1,11 +1,11 @@
 ---
 title: "Ho Qatal Namaz Gayi Loko Lyrics New Noha 21 Ramzan 2026 Mola Ali Shahadat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Rizwan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:b6dede747f341ebd7c24

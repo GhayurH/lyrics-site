@@ -1,11 +1,11 @@
 ---
 title: "Kofa O Sham Ke Be Dard Sitamgaron Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4a03fe69013567554b6c

@@ -1,11 +1,11 @@
 ---
 title: "Zahra Jaiyan Da Asra Ghazi Mir Hasan Mir Lyrics Saraiki 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:01ced7ce1e327f41f10e

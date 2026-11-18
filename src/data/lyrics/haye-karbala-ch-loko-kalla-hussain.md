@@ -1,6 +1,6 @@
 ---
 title: "Haye Karbala Ch Loko Kalla Husain Reh Geya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

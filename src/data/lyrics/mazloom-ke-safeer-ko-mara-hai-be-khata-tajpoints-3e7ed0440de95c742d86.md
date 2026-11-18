@@ -1,11 +1,11 @@
 ---
 title: "Mazloom Ke Safeer Ko Mara Hai Be Khata"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sardar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3e7ed0440de95c742d86

@@ -1,11 +1,11 @@
 ---
 title: "Aaye Hasan Jahan Mein Har Samat Roshni Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9a4093fc04d6514c7946

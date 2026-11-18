@@ -1,11 +1,11 @@
 ---
 title: "Chon Salaan Da Baqir Qaidi Kita Inj Zanjeeraan Wich Lyrics Punjabi 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:901e1069707aa3c804f3

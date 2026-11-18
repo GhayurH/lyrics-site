@@ -1,11 +1,11 @@
 ---
 title: "Baar Kuhsaar E Imamat Ka Bata Sakte Hain Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:46c08bf1d5fa019c165b

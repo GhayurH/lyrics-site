@@ -1,7 +1,7 @@
 ---
 title: "ہائے قیداں وچ رو رو کے سکینہ مر گئی"
 alternateTitle: "Haye Qaidaaṅ Wich Ro Ro Ke Sakina Mar Gayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

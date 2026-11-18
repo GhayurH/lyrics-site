@@ -1,11 +1,11 @@
 ---
 title: "نعلے کرتے تھے شہہ کرب و بلا واویلا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e0de5af58a38d02f9dde

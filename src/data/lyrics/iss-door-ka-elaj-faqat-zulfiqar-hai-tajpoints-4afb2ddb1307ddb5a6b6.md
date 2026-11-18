@@ -1,11 +1,11 @@
 ---
 title: "Iss Door Ka Elaj Faqat Zulfiqar Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rizvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4afb2ddb1307ddb5a6b6

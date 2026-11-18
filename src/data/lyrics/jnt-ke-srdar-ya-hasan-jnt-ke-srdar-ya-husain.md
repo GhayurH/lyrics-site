@@ -1,10 +1,10 @@
 ---
 title: "جنّت کے سردار یا حسنؑ جنّت کے سردار یا حسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c21dca046bb857f1c599

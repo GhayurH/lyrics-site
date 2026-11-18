@@ -1,11 +1,11 @@
 ---
 title: "Yeh Azadar Ke Aanso"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4e4e7116d1cbe9adb9b9

@@ -1,11 +1,11 @@
 ---
 title: "Khuda Ka Banda Nuseriyon Ka Bana Khuda Hai Woh Murtaza Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cbe55e2e54c871a37c91

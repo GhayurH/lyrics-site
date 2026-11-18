@@ -1,6 +1,6 @@
 ---
 title: "Ghazi as Rakhi Khas Khayal Ahna Pardey Daran Da"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

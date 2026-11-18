@@ -1,10 +1,10 @@
 ---
 title: "یہ کس کا گھر لٹا ہے خدارا جواب دو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cbdeb626a051452ed4aa

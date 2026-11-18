@@ -1,11 +1,11 @@
 ---
 title: "Mardam-e-Chashm Mere Dedah-e-Purnam Mein Rahe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Nazim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:156e802d539f82b58022

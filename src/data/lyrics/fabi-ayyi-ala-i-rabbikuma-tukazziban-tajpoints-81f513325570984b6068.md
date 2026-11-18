@@ -1,11 +1,11 @@
 ---
 title: "Fabi-Ayyi Ala-I Rabbikuma Tukazziban"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:81f513325570984b6068

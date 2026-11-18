@@ -1,11 +1,11 @@
 ---
 title: "Ali Aa Phonchay Mukhtar Hussain Fatehpuri Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7a56c23893fa27559bb7

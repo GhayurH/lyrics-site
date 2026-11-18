@@ -1,11 +1,11 @@
 ---
 title: "Kitay Wain Masoma Qum Ne Menu Veran Shakal Wakha Ja New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:953d815437cbd5afb3e3

@@ -1,6 +1,6 @@
 ---
 title: "Avas Ahrahi Hay, Aik Sina ay Sina say"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

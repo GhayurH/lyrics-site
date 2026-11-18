@@ -1,11 +1,11 @@
 ---
 title: "Yaad E Karbala Syed Mudassir Mehdi Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3e6924344e698a9df5d1

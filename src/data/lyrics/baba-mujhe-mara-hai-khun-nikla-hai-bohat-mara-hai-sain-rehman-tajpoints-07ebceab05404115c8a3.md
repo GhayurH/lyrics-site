@@ -1,11 +1,11 @@
 ---
 title: "Baba Mujhe Mara Hai Khun Nikla Hai Bohat Mara Hai Sain Rehman"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Salamat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:07ebceab05404115c8a3

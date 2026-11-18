@@ -1,11 +1,11 @@
 ---
 title: "Okha Ho Gaya Akbar Layi Sughra Nu Lyrics 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a55167ebe4209ac84daf

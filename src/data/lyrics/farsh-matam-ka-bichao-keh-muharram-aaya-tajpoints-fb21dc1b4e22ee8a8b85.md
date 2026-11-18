@@ -1,11 +1,11 @@
 ---
 title: "Farsh Matam Ka Bichao Keh Muharram Aaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fb21dc1b4e22ee8a8b85

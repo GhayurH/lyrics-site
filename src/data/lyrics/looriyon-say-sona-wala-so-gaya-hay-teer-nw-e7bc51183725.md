@@ -1,6 +1,6 @@
 ---
 title: "Looriyon Say Sona Wala So gaya hay Teer"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

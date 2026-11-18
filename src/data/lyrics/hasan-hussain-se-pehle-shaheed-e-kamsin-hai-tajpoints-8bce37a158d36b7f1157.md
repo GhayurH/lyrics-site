@@ -1,11 +1,11 @@
 ---
 title: "Hasan Hussain Se Pehle Shaheed-e-Kamsin Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8bce37a158d36b7f1157

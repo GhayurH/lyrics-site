@@ -1,11 +1,11 @@
 ---
 title: "Pa Ke Siraan Che Mitiyaan Ro Kenr Zahra Jaiyaan Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:938f4ec8b9c8dd125b0a

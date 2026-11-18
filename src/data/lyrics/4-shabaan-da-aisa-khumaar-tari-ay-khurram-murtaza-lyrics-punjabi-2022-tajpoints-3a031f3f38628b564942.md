@@ -1,11 +1,11 @@
 ---
 title: "4 Shabaan Da Aisa Khumaar Tari Ay Khurram Murtaza Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Khurram"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3a031f3f38628b564942

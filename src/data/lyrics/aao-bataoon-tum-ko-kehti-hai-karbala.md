@@ -1,6 +1,6 @@
 ---
 title: "Aao bataoon tum ko kehti hai Karbala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

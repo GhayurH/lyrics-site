@@ -1,11 +1,11 @@
 ---
 title: "Madh-e-Fatima Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nawazish"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8e93c606e079e39b1e11

@@ -1,6 +1,6 @@
 ---
 title: "Rab Rakha Bhain Da Veera Shala Watan Te Khairi Aveen"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

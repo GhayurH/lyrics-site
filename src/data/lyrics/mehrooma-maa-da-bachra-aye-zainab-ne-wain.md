@@ -1,6 +1,6 @@
 ---
 title: "Mehrooma Maa Da Bachra Aye Zainab Ne Wain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

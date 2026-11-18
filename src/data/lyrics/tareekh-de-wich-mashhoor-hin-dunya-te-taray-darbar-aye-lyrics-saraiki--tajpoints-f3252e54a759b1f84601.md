@@ -1,11 +1,11 @@
 ---
 title: "Tareekh De Wich Mashhoor Hin Dunya Te Taray Darbar Aye Lyrics Saraiki 2007"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khanrez"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f3252e54a759b1f84601

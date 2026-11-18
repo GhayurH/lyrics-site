@@ -1,11 +1,11 @@
 ---
 title: "Taboot Pa Zahra Ke Mahfooz Sultanpuri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5b23a1f0f427244d5aa4

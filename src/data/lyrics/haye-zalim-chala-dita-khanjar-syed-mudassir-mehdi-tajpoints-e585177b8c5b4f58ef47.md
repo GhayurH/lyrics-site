@@ -1,11 +1,11 @@
 ---
 title: "Haye Zalim Chala Dita Khanjar Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e585177b8c5b4f58ef47

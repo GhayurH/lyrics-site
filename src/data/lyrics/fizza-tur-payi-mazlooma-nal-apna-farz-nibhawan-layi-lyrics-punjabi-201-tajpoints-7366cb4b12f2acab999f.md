@@ -1,11 +1,11 @@
 ---
 title: "Fizza Tur Payi Mazlooma Nal Apna Farz Nibhawan Layi Lyrics Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7366cb4b12f2acab999f

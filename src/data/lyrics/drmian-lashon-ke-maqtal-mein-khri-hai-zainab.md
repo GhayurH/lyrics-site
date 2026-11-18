@@ -1,10 +1,10 @@
 ---
 title: "درمیاں لاشوں کے مقتل میں کھڑی ہے زینبؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ffe8ed2ff1500e414f58

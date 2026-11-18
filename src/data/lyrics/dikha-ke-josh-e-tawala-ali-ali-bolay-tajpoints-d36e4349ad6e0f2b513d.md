@@ -1,11 +1,11 @@
 ---
 title: "Dikha Ke Josh-e-Tawala Ali Ali Bolay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ashhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d36e4349ad6e0f2b513d

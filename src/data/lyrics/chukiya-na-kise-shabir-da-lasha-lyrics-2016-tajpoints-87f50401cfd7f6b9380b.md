@@ -1,11 +1,11 @@
 ---
 title: "Chukiya Na Kise Shabir Da Lasha Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:87f50401cfd7f6b9380b

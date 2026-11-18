@@ -1,11 +1,11 @@
 ---
 title: "Musalman Dil Se Gar Nehj E Balaga Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:414c7238a117536093d1

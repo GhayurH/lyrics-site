@@ -1,11 +1,11 @@
 ---
 title: "Parhte Raho Sare Nad E Ali Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:16aef651fcebe2b5179d

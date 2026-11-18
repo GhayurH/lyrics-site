@@ -1,11 +1,11 @@
 ---
 title: "Dil Se Juda Kabhi Ghum-e-Mola Nahi Kiya Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zafar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4a4aac903ba8887a4dd0

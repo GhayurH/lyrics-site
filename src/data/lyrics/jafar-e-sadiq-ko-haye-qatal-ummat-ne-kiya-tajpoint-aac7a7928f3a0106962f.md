@@ -1,11 +1,11 @@
 ---
 title: "Jafar E Sadiq Ko Haye Qatal Ummat Ne Kiya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:aac7a7928f3a0106962f

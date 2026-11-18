@@ -1,11 +1,11 @@
 ---
 title: "Apne Hatho Se Chupa Leti Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:336317e7c8c24a5c2fe0

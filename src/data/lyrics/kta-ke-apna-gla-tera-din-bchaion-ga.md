@@ -1,10 +1,10 @@
 ---
 title: "کٹا کے اپنا گلا تیرا دیں بچائوں گا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5c23224418ca531f1d99

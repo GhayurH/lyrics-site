@@ -1,11 +1,11 @@
 ---
 title: "Manam Ghulam E Hazrat E Shah E Najaf Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Anees"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e3d0950018685541aead

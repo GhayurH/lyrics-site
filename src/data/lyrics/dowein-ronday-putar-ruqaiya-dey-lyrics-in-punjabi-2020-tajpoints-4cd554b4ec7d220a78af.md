@@ -1,11 +1,11 @@
 ---
 title: "Dowein Ronday Putar Ruqaiya Dey Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4cd554b4ec7d220a78af

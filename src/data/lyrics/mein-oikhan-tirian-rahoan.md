@@ -1,10 +1,10 @@
 ---
 title: "میں ویکھاں تیریاں راہواں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7f0c4137b523a3c51dea

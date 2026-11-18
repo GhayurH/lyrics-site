@@ -1,10 +1,10 @@
 ---
 title: "کربلا وچ عوںؑ دی ماں دیوے غازیؑ نوں صدا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d7e724664731d364fa60

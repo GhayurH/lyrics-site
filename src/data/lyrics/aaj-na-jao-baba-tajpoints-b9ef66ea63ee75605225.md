@@ -1,10 +1,10 @@
 ---
 title: "Aaj Na Jao Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b9ef66ea63ee75605225

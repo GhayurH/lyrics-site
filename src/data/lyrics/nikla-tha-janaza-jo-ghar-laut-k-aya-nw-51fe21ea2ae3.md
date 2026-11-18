@@ -1,6 +1,6 @@
 ---
 title: "Nikla Tha Janaza Jo Ghar Laut K Aya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

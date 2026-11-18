@@ -1,11 +1,11 @@
 ---
 title: "Ayi Aakhri Neend Sakina Nu Mitiyaan Te Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0754805944e27c71e458

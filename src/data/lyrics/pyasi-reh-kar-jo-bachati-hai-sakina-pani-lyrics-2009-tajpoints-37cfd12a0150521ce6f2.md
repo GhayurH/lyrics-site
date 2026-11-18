@@ -1,11 +1,11 @@
 ---
 title: "Pyasi Reh Kar Jo Bachati Hai Sakina Pani Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37cfd12a0150521ce6f2

@@ -1,11 +1,11 @@
 ---
 title: "Darbaan Bangaya Kaaba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:972e50be5cb6cefbba2e

@@ -1,11 +1,11 @@
 ---
 title: "Zulm Zahra Par Hoye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:572406f45bc70ab1f99c

@@ -1,6 +1,6 @@
 ---
 title: "Main Veer Teriyan Rahwaan Takni"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

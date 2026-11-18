@@ -1,11 +1,11 @@
 ---
 title: "Yeh Baqaiya Ke Andheron Se Sada Aati Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2524f5476a3c2017cb1e

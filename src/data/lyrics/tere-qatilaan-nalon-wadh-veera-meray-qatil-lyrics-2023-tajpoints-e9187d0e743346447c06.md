@@ -1,11 +1,11 @@
 ---
 title: "Tere Qatilaan Nalon Wadh Veera Meray Qatil Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e9187d0e743346447c06

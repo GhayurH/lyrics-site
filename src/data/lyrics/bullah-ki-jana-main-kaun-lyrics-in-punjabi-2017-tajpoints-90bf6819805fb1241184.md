@@ -1,11 +1,11 @@
 ---
 title: "Bullah Ki Jana Main Kaun Lyrics In Punjabi 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bullah"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:90bf6819805fb1241184

@@ -1,6 +1,6 @@
 ---
 title: "Payi Aundi Ay, Veer Di Nagri Vich Ban Zainab Faathe Shaamey"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

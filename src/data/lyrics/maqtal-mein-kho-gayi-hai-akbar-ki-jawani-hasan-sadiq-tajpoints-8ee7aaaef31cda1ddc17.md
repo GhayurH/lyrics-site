@@ -1,11 +1,11 @@
 ---
 title: "Maqtal Mein Kho Gayi Hai Akbar Ki Jawani Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8ee7aaaef31cda1ddc17

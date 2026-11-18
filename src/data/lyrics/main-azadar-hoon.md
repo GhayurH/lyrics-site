@@ -1,6 +1,6 @@
 ---
 title: "Main Azadar Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

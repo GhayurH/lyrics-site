@@ -1,6 +1,6 @@
 ---
 title: "Muhammad Ki Beti Ko Maar Diya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

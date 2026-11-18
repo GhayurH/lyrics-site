@@ -1,11 +1,11 @@
 ---
 title: "Sham De Rahwaan Te Haye Bemar Turda Jaway Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7215e9105a69f1fc1365

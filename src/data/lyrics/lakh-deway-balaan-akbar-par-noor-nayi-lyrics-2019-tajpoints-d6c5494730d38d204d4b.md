@@ -1,11 +1,11 @@
 ---
 title: "Lakh Deway Balaan Akbar Par Noor Nayi Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d6c5494730d38d204d4b

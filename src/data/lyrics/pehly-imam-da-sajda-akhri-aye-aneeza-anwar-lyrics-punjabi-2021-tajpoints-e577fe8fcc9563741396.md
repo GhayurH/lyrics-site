@@ -1,11 +1,11 @@
 ---
 title: "Pehly Imam Da Sajda Akhri Aye Aneeza Anwar Lyrics Punjabi 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e577fe8fcc9563741396

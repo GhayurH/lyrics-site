@@ -1,11 +1,11 @@
 ---
 title: "Shehar Sherin Lagay Hum Ko Behad Tera Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Taseer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:506385ec969ccf002e1d

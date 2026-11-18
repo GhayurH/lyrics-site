@@ -1,10 +1,10 @@
 ---
 title: "شامِ غریباں ہوئی زینبؑ اے کہہ کے روئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7ab9247bf28a175029bb

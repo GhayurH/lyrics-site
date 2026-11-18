@@ -1,10 +1,10 @@
 ---
 title: "Ulfat Mein Bhi Mujh Ko Dukh Diye Jate Ho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0a81089b23ab6a4fdcc8

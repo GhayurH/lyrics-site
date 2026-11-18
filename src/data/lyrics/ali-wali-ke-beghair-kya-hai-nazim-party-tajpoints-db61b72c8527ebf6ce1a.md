@@ -1,10 +1,10 @@
 ---
 title: "Ali Wali Ke Beghair Kya Hai Nazim Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:db61b72c8527ebf6ce1a

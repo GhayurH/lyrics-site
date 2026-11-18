@@ -1,11 +1,11 @@
 ---
 title: "Ghar Mein Allah Ke Ali Par Yun Syed Ahsan Abbas Baquri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahsan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7aad98bd6dc467674707

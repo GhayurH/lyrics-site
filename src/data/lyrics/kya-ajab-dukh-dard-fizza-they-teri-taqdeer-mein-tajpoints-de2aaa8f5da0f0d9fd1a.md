@@ -1,11 +1,11 @@
 ---
 title: "Kya Ajab Dukh Dard Fizza They Teri Taqdeer Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:de2aaa8f5da0f0d9fd1a

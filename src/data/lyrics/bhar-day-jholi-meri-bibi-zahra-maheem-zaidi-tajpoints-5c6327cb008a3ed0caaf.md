@@ -1,11 +1,11 @@
 ---
 title: "Bhar Day Jholi Meri Bibi Zahra Maheem Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Iram"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5c6327cb008a3ed0caaf

@@ -1,11 +1,11 @@
 ---
 title: "آکھو کوئی حرمل نوں نہ تیر چلاوے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:29129ac0c22d543689a0

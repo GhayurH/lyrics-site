@@ -1,11 +1,11 @@
 ---
 title: "Qaid V Muk Gayi Kazim Nu Koi Rowan Te Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c58c7170c95b66b40808

@@ -1,11 +1,11 @@
 ---
 title: "Imam E Zamana Nahi Ayenge Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mukhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a6f88763c1d839447b06

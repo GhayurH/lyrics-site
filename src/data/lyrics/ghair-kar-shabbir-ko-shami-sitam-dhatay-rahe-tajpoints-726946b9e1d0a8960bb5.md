@@ -1,11 +1,11 @@
 ---
 title: "Ghair Kar Shabbir Ko Shami Sitam Dhatay Rahe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khurram"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:726946b9e1d0a8960bb5

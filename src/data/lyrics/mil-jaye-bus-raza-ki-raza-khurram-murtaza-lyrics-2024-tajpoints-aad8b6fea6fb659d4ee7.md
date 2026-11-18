@@ -1,11 +1,11 @@
 ---
 title: "Mil Jaye Bus Raza Ki Raza Khurram Murtaza Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aad8b6fea6fb659d4ee7

@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Parda Tere Hawale Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hussaini"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:de28736195e09e40e277

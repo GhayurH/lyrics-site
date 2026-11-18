@@ -1,11 +1,11 @@
 ---
 title: "Parh Naad-e-Ali Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:91c2f20155fa96babdb3

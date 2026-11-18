@@ -1,11 +1,11 @@
 ---
 title: "Meer E Karwan Abbas Hai Raza Hassan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Razz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d9874886ae9efc20af4

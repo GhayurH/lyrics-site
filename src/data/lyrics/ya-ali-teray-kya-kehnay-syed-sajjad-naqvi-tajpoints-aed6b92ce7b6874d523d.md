@@ -1,11 +1,11 @@
 ---
 title: "Ya Ali Teray Kya Kehnay Syed Sajjad Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aed6b92ce7b6874d523d

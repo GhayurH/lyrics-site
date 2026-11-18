@@ -1,11 +1,11 @@
 ---
 title: "Abbas Kehtey Reh Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e2de48bd6b3d5b0e0d63

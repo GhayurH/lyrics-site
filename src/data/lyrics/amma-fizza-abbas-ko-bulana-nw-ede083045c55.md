@@ -1,6 +1,6 @@
 ---
 title: "Amma Fizza Abbas Ko Bulana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

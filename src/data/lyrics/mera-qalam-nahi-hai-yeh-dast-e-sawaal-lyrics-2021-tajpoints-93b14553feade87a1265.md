@@ -1,11 +1,11 @@
 ---
 title: "Mera Qalam Nahi Hai Yeh Dast E Sawaal Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:93b14553feade87a1265

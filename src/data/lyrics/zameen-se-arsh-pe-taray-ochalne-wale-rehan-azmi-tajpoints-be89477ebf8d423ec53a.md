@@ -1,11 +1,11 @@
 ---
 title: "Zameen Se Arsh Pe Taray Ochalne Wale Rehan Azmi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Hamd"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:be89477ebf8d423ec53a

@@ -1,11 +1,11 @@
 ---
 title: "Teeron Ke Musalay Per Woh Sajda-e-Shukrana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:170ec249ef3d9058a632

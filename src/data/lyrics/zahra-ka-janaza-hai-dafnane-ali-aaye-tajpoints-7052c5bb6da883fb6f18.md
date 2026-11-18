@@ -1,11 +1,11 @@
 ---
 title: "Zahra Ka Janaza Hai Dafnane Ali Aaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shabbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7052c5bb6da883fb6f18

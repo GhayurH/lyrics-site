@@ -1,6 +1,6 @@
 ---
 title: "Bano Yeh Abid Ko Batla Rahi Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

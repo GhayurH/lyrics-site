@@ -1,6 +1,6 @@
 ---
 title: "Zahra Jo Pyaro (Sindhi) Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

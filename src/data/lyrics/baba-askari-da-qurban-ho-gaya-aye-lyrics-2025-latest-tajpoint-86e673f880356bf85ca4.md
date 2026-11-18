@@ -1,11 +1,11 @@
 ---
 title: "Baba Askari Da Qurban Ho Gaya Aye Lyrics 2025 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Soz"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:86e673f880356bf85ca4

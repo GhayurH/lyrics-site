@@ -1,11 +1,11 @@
 ---
 title: "Haye Rul Gayi Mehndi Lyrics In Punjabi Mir Hasan Mir 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:79f6e2f2e7c5f5ff7fe5

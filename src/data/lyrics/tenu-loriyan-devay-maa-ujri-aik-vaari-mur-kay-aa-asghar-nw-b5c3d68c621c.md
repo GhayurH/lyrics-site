@@ -1,6 +1,6 @@
 ---
 title: "Tenu Loriyan Devay Maa Ujri Aik Vaari Mur Kay Aa Asghar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

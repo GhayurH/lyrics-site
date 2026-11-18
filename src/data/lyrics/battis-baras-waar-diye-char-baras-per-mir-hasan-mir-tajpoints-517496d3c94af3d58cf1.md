@@ -1,11 +1,11 @@
 ---
 title: "Battis Baras Waar Diye Char Baras Per Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:517496d3c94af3d58cf1

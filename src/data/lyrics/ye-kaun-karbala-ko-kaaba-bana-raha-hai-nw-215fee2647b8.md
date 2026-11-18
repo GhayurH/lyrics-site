@@ -1,6 +1,6 @@
 ---
 title: "Ye Kaun Karbala Ko Kaaba Bana Raha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

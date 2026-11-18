@@ -1,11 +1,11 @@
 ---
 title: "Haan Yehi Maa Hai Ali Akbar Ki Muhammad Raza Mungla Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e7084ecb051d3c40815c

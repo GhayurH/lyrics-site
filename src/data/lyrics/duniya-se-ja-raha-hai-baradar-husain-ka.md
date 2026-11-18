@@ -1,10 +1,10 @@
 ---
 title: "دنیا سے جا رہا ہے برادر حسینؑ کا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:313552ed77ae9b7548a6

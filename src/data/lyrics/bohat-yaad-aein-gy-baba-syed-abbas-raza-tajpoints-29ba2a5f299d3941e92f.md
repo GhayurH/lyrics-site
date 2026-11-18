@@ -1,11 +1,11 @@
 ---
 title: "Bohat Yaad Aein Gy Baba Syed Abbas Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:29ba2a5f299d3941e92f

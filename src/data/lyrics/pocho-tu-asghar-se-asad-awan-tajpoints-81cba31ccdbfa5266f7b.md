@@ -1,11 +1,11 @@
 ---
 title: "Pocho Tu Asghar Se Asad Awan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:81cba31ccdbfa5266f7b

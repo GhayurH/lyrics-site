@@ -1,11 +1,11 @@
 ---
 title: "Qaid Muk Gayi Aye Sakina Mar Gayi Aye Sajjad Wain Paway Lyrics Punjabi 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d9dfffd50b86c651922e

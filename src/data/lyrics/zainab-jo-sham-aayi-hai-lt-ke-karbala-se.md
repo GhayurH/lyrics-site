@@ -1,10 +1,10 @@
 ---
 title: "زینبؑ جو شام آئی ہے لٹ کے کربلا سے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4cc839ec59da2d981b54

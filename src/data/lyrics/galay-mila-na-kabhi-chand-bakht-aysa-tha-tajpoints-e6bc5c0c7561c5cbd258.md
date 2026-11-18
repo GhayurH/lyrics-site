@@ -1,10 +1,10 @@
 ---
 title: "Galay Mila Na Kabhi Chand Bakht Aysa Tha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e6bc5c0c7561c5cbd258

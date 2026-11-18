@@ -1,11 +1,11 @@
 ---
 title: "Bibi Zainab Ki Guftar Azadar E Batool"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0d796ae160ddd1b9b02f

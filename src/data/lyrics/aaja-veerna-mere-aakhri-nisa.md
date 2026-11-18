@@ -1,6 +1,6 @@
 ---
 title: "Aaja Veerna Mere Aakhri Nisa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

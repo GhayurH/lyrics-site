@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Ki Jawani Bazaar Kha Gaya Hai Sibtain Haider"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a592994b478e7903d64b

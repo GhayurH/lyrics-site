@@ -1,11 +1,11 @@
 ---
 title: "جب کربلا میں پہنچے سرکار شاہِ والاؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Ghulaman-e-Hur (Syed Kashif Raza)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ef1409f2bce97b5a80e3

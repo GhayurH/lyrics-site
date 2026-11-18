@@ -1,11 +1,11 @@
 ---
 title: "Jang-e-Ohad Mein Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:10a8d27caf1c9cd41dab

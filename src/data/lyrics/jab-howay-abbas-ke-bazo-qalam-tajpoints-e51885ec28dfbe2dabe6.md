@@ -1,11 +1,11 @@
 ---
 title: "Jab Howay Abbas Ke Bazo Qalam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e51885ec28dfbe2dabe6

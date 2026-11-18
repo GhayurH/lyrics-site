@@ -1,6 +1,6 @@
 ---
 title: "Asalam O Alaika Ya Sayeda Alwida Alwida Sayeda Alwida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

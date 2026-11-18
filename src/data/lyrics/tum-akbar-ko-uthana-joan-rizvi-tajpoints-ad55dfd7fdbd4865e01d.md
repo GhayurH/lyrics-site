@@ -1,11 +1,11 @@
 ---
 title: "Tum Akbar Ko Uthana Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ad55dfd7fdbd4865e01d

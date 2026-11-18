@@ -1,10 +1,10 @@
 ---
 title: "Aashoor Ka Suraj Keh De Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Marsiya"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5f46fbb34c4621c3a230

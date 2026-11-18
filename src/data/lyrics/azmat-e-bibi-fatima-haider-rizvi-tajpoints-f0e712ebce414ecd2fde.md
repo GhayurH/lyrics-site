@@ -1,11 +1,11 @@
 ---
 title: "Azmat E Bibi Fatima Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f0e712ebce414ecd2fde

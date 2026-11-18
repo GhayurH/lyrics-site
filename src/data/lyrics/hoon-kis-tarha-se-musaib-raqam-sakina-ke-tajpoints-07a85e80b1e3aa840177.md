@@ -1,11 +1,11 @@
 ---
 title: "Hoon Kis Tarha Se Musaib Raqam Sakina Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:07a85e80b1e3aa840177

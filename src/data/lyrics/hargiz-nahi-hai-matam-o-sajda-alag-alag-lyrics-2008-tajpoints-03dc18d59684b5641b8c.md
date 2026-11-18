@@ -1,11 +1,11 @@
 ---
 title: "Hargiz Nahi Hai Matam O Sajda Alag Alag Lyrics 2008"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:03dc18d59684b5641b8c

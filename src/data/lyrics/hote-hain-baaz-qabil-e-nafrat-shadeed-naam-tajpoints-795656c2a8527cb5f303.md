@@ -1,10 +1,10 @@
 ---
 title: "Hote Hain Baaz Qabil-e-Nafrat Shadeed Naam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:795656c2a8527cb5f303

@@ -1,11 +1,11 @@
 ---
 title: "Suno Suno Zainab De Ahsan Suno Asghar Lyrics 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:04194ff00970a24726bf

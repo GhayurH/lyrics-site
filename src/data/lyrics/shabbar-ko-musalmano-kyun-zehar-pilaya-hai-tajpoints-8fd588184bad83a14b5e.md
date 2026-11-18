@@ -1,11 +1,11 @@
 ---
 title: "Shabbar Ko Musalmano Kyun Zehar Pilaya Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qamar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8fd588184bad83a14b5e

@@ -1,11 +1,11 @@
 ---
 title: "Rida V Na Rayi Zainab De Sir Te Na Riye Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:389f383f0c4eccd25b3e

@@ -1,6 +1,6 @@
 ---
 title: "Nahi Hai Koi Rida Sar Pe Jo Daale Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Aa Ja Ghazi Tujhe Mazloom Yaad Karte Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e70c0c1d0e94f3d47530

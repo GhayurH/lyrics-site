@@ -1,11 +1,11 @@
 ---
 title: "Dard Ho Dil Mein Tu Dawa Kijiye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5ab00d5c3c94fe1edf37

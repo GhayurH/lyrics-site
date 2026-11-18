@@ -1,11 +1,11 @@
 ---
 title: "Al-Ajal Kehte Hoye Ahl-e-Azza Aao Sab Sham Chalein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7a89d204c3916768f6c5

@@ -1,11 +1,11 @@
 ---
 title: "Jafar Ka Janaza Hai Ali Raza Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5a62c5a2ddce407af298

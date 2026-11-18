@@ -1,11 +1,11 @@
 ---
 title: "Jabeen Surk Hui Hai Syed Ali Ghazi Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Alina"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:090bec393127b69c8264

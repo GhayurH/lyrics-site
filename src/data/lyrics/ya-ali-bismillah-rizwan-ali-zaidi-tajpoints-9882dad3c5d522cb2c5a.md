@@ -1,11 +1,11 @@
 ---
 title: "Ya Ali Bismillah Rizwan Ali Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Touqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9882dad3c5d522cb2c5a

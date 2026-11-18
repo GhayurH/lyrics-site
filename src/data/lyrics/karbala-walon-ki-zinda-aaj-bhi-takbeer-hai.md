@@ -1,10 +1,10 @@
 ---
 title: "کربلا والوں کی زندہ آج بھی تکبیر ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0c5b0b568cd717b91f85

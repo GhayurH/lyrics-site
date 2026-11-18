@@ -1,6 +1,6 @@
 ---
 title: "Sajjad Layi Aye Mushkil Aye Shaam Da Safar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

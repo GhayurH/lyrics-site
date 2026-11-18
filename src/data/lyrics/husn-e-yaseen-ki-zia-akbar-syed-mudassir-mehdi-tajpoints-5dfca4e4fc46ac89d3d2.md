@@ -1,11 +1,11 @@
 ---
 title: "Husn E Yaseen Ki Zia Akbar Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mudassir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5dfca4e4fc46ac89d3d2

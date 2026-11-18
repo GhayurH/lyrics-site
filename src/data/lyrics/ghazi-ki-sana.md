@@ -1,6 +1,6 @@
 ---
 title: "Suno Shabbir Se Ghazi Ki Sana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

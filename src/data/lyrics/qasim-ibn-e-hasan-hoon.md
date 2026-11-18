@@ -1,10 +1,10 @@
 ---
 title: "Qasim Ibn-e-Hasan Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # Consecutive original pages consolidated in source order; original source provenance retained.

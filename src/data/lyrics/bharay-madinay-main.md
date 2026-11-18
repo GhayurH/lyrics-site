@@ -1,6 +1,6 @@
 ---
 title: "Bharay Madinay Main"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

@@ -1,10 +1,10 @@
 ---
 title: "Aal E Rasool Kocha O Bazar Ya Ali Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:17fa23e2069dc11e6f21

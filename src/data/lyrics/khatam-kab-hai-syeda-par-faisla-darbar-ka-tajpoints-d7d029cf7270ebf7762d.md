@@ -1,11 +1,11 @@
 ---
 title: "Khatam Kab Hai Syeda Par Faisla Darbar Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d7d029cf7270ebf7762d

@@ -1,11 +1,11 @@
 ---
 title: "Kadoon Mukne Ne Vichore Nana Behan Bhira De 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c6c2b481b4a48764011f

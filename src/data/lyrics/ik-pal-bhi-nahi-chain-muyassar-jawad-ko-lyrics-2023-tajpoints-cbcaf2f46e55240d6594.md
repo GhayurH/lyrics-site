@@ -1,11 +1,11 @@
 ---
 title: "Ik Pal Bhi Nahi Chain Muyassar Jawad Ko Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Taseer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cbcaf2f46e55240d6594

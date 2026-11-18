@@ -1,6 +1,6 @@
 ---
 title: "Boli Zehra Zainab Ka Yun Saath Nibhana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

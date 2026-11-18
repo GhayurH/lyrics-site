@@ -1,10 +1,10 @@
 ---
 title: "Sorah E Kahaf Sunata Hai Yeh Sar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3bc744d2738c070f3ac9

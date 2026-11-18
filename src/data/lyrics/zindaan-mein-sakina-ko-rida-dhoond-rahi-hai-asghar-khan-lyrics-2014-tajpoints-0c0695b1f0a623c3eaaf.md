@@ -1,11 +1,11 @@
 ---
 title: "Zindaan Mein Sakina Ko Rida Dhoond Rahi Hai Asghar Khan Lyrics 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nadir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0c0695b1f0a623c3eaaf

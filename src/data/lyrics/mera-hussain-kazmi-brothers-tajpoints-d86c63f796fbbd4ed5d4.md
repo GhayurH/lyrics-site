@@ -1,11 +1,11 @@
 ---
 title: "Mera Hussain Kazmi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d86c63f796fbbd4ed5d4

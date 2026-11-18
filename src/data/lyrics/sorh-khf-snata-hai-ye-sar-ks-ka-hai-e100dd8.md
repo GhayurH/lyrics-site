@@ -1,11 +1,11 @@
 ---
 title: "سورۃِ کہف سناتا ہے یہ سر کس کا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Meer Hasan Meer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e100dd8722d725634dc7

@@ -1,10 +1,10 @@
 ---
 title: "Ya Ali Mere Zakhmi Pehlu Ko Zainab Se Chupana Sonu Monu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c329dbd9585e3c2f22f7

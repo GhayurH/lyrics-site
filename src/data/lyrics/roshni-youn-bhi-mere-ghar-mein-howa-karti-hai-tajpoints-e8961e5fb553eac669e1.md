@@ -1,11 +1,11 @@
 ---
 title: "Roshni Youn Bhi Mere Ghar Mein Howa Karti Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Fareedi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e8961e5fb553eac669e1

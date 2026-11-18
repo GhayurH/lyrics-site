@@ -1,11 +1,11 @@
 ---
 title: "Zindan Mein Roti Rahi Hai Bali Sakina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cfedec01df222e2d25d1

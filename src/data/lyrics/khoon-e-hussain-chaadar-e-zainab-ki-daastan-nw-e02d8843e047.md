@@ -1,6 +1,6 @@
 ---
 title: "Khoon-e-Hussain Chaadar-e-Zainab Ki Daastan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Darbar ich Zahra Nay Ditiya Nay Sadawaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

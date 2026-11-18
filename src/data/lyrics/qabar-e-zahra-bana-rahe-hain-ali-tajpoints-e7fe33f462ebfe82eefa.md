@@ -1,11 +1,11 @@
 ---
 title: "Qabar-e-Zahra Bana Rahe Hain Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e7fe33f462ebfe82eefa

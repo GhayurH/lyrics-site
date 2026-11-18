@@ -1,11 +1,11 @@
 ---
 title: "Khandaan E Risaalat Ka Noor E Nazar Hai Imam E Hassan Ali Raza Jafri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7954bdcccb1d573c8346

@@ -1,11 +1,11 @@
 ---
 title: "Haye Lasha E Hassan Arif Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c7816addfb1f3f8c4f80

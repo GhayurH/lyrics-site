@@ -1,11 +1,11 @@
 ---
 title: "Mitti Mein Na Milao Yeh Qabar E Syeda Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:038cd42c9ae13ecc6b01

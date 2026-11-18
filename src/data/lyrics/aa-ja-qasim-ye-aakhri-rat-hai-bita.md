@@ -1,10 +1,10 @@
 ---
 title: "آ جا قاسمؑ یہ آخری رات ہے بیٹا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7ea4529e9e4904e0305e

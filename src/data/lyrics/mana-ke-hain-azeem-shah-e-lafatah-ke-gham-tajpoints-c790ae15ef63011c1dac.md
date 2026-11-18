@@ -1,11 +1,11 @@
 ---
 title: "Mana Ke Hain Azeem Shah-e-Lafatah Ke Gham"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c790ae15ef63011c1dac

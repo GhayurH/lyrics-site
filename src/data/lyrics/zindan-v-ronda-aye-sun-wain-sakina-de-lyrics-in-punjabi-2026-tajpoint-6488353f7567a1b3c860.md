@@ -1,11 +1,11 @@
 ---
 title: "Zindan V Ronda Aye Sun Wain Sakina De Lyrics In Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:6488353f7567a1b3c860

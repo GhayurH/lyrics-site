@@ -1,11 +1,11 @@
 ---
 title: "Sehan E Shifa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d58d0533f6ab7a92bf1e

@@ -1,10 +1,10 @@
 ---
 title: "Jaane Woh Kaise Loag The Jinke Pyar Ko Pyar Mila"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5180f034dfb7e0de2189

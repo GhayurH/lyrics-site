@@ -1,11 +1,11 @@
 ---
 title: "Darya Te Kat Gayiyan Ne Ghazi Diyan Banwaan Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:84e9099413584ef3554c

@@ -1,6 +1,6 @@
 ---
 title: "Veerana Qaid May Baali Sakina Ko Rulata Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,10 +1,10 @@
 ---
 title: "یا زہراؑ یا زہراؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:af168e6d7304cf7cf7be

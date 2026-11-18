@@ -1,11 +1,11 @@
 ---
 title: "Ya Syeda Ya Fatima Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8504d9dd0542154d6a90

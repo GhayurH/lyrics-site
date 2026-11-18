@@ -1,11 +1,11 @@
 ---
 title: "Naizay Ka Na Khanjar Ka Na Talwar Ka Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ae377a293cda49f35fdb

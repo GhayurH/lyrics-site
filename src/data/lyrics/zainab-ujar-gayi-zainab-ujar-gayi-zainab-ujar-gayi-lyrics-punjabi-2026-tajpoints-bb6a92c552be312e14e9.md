@@ -1,11 +1,11 @@
 ---
 title: "Zainab Ujar Gayi Zainab Ujar Gayi Zainab Ujar Gayi Lyrics Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bb6a92c552be312e14e9

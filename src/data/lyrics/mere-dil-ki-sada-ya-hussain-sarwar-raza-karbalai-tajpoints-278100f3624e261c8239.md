@@ -1,11 +1,11 @@
 ---
 title: "Mere Dil Ki Sada Ya Hussain Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Waheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:278100f3624e261c8239

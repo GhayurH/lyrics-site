@@ -1,6 +1,6 @@
 ---
 title: "Darbar Sajandiyan Shamiyan Nu Hoi Peshi Wich Takheer Aye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

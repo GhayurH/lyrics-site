@@ -1,11 +1,11 @@
 ---
 title: "Dhondne Nikle The Jo Duniya Mein Haider Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e5fcb489c71023daadfd

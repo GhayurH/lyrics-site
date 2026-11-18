@@ -1,6 +1,6 @@
 ---
 title: "Zainab Ne Kaha Baap Ke Khadmon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

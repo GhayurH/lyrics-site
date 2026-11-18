@@ -1,11 +1,11 @@
 ---
 title: "Rukhsat E Ali Akbar Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Iram"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5ef6e7524a9512ce9b0a

@@ -1,11 +1,11 @@
 ---
 title: "Jalta Howa Darwaza Saghir And Hadi Hassan Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:70d6f65ade5bd75348c7

@@ -1,6 +1,6 @@
 ---
 title: "Ghazi Diyan Baawan Lay Gaiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

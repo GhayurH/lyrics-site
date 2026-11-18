@@ -1,11 +1,11 @@
 ---
 title: "Ronda Reya Nabi Da Darbar Raza Hassan Sadiq Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Irfan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e14aa84c2b4c0979aa14

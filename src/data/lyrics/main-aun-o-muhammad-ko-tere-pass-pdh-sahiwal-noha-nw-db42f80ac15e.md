@@ -1,6 +1,6 @@
 ---
 title: "Main Aun o Muhammad Ko Tere Pass"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

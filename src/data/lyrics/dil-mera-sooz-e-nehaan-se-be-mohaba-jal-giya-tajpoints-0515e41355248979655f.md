@@ -1,11 +1,11 @@
 ---
 title: "Dil Mera Sooz-e-Nehaan Se Be Mohaba Jal Giya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0515e41355248979655f

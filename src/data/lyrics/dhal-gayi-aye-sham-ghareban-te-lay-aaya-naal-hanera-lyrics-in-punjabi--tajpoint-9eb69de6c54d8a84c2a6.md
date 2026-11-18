@@ -1,11 +1,11 @@
 ---
 title: "Dhal Gayi Aye Sham Ghareban Te Lay Aaya Naal Hanera Lyrics In Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:9eb69de6c54d8a84c2a6

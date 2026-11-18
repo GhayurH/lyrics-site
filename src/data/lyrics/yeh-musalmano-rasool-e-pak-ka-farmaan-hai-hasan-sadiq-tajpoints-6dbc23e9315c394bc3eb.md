@@ -1,11 +1,11 @@
 ---
 title: "Yeh Musalmano Rasool E Pak Ka Farmaan Hai Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ameer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6dbc23e9315c394bc3eb

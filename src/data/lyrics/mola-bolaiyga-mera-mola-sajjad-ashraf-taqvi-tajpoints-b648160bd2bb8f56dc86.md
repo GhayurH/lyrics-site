@@ -1,11 +1,11 @@
 ---
 title: "Mola Bolaiyga Mera Mola Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kaleem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b648160bd2bb8f56dc86

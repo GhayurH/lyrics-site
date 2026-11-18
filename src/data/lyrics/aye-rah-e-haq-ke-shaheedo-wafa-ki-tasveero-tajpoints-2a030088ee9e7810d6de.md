@@ -1,10 +1,10 @@
 ---
 title: "Aye Rah-e-Haq Ke Shaheedo Wafa Ki Tasveero"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2a030088ee9e7810d6de

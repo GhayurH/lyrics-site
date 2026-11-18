@@ -1,11 +1,11 @@
 ---
 title: "Ya Rab Har Aik Ko Yeh Sadat Naseeb Ho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mehshar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:00e8121a565edea4efde

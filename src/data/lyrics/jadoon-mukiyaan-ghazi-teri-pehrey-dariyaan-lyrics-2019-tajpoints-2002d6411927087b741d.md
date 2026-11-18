@@ -1,11 +1,11 @@
 ---
 title: "Jadoon Mukiyaan Ghazi Teri Pehrey Dariyaan Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2002d6411927087b741d

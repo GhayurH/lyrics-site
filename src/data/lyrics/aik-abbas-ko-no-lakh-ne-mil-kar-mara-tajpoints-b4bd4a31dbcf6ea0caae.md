@@ -1,10 +1,10 @@
 ---
 title: "Aik Abbas Ko No Lakh Ne Mil Kar Mara"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b4bd4a31dbcf6ea0caae

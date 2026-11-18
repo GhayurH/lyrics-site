@@ -1,11 +1,11 @@
 ---
 title: "Qaidi Piyo De Naam Te Dhiyaan Ne Wain Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7064746a290e2b21ce2f

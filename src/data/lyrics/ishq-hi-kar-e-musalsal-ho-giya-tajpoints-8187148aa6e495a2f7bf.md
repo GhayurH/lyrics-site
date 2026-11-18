@@ -1,11 +1,11 @@
 ---
 title: "Ishq Hi Kar-e-Musalsal Ho Giya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tabish"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8187148aa6e495a2f7bf

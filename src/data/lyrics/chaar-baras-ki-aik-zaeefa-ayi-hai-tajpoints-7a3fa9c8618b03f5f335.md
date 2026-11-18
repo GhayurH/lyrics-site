@@ -1,11 +1,11 @@
 ---
 title: "Chaar Baras Ki Aik Zaeefa Ayi Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7a3fa9c8618b03f5f335

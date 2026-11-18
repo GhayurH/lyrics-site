@@ -1,6 +1,6 @@
 ---
 title: "Na Kaho Qum Main Bana Kon Wasi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

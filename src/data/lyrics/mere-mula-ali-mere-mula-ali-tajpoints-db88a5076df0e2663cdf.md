@@ -1,11 +1,11 @@
 ---
 title: "Mere Mula Ali Mere Mula Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:db88a5076df0e2663cdf

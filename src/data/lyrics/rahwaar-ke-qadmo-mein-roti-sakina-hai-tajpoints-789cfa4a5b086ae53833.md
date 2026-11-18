@@ -1,11 +1,11 @@
 ---
 title: "Rahwaar Ke Qadmo Mein Roti Sakina Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:789cfa4a5b086ae53833

@@ -1,11 +1,11 @@
 ---
 title: "Ais Dard Ne Abid Nu Baon Khon Rawaya Aye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a31f1b81bdf7221209a7

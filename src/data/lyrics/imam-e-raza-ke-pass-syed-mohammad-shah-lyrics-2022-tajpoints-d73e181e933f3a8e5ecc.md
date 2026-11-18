@@ -1,11 +1,11 @@
 ---
 title: "Imam E Raza Ke Pass Syed Mohammad Shah Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d73e181e933f3a8e5ecc

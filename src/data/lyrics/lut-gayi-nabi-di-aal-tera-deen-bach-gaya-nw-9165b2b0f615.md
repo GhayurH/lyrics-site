@@ -1,6 +1,6 @@
 ---
 title: "Lut Gayi Nabi Di Aal Tera Deen Bach Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

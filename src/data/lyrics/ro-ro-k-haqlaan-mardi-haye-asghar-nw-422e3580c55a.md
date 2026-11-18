@@ -1,6 +1,6 @@
 ---
 title: "Ro Ro K Haqlaan Mardi Haye Asghar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

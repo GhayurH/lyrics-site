@@ -1,6 +1,6 @@
 ---
 title: "Hookay Bharda Vaikhay Phuppiyan Di Lachari Sajjad Muhari"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

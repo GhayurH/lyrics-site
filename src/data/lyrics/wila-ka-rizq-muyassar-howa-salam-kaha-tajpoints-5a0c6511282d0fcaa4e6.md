@@ -1,11 +1,11 @@
 ---
 title: "Wila Ka Rizq Muyassar Howa Salam Kaha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5a0c6511282d0fcaa4e6

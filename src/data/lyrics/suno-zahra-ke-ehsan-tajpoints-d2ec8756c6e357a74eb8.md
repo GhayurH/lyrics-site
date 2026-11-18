@@ -1,11 +1,11 @@
 ---
 title: "Suno Zahra Ke Ehsan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d2ec8756c6e357a74eb8

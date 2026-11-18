@@ -1,6 +1,6 @@
 ---
 title: "Main Bewaye Muslim Hon Mera Naam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

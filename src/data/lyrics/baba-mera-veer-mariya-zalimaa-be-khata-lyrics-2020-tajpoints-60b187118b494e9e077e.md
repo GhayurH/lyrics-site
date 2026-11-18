@@ -1,11 +1,11 @@
 ---
 title: "Baba Mera Veer Mariya Zalimaa Be Khata Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:60b187118b494e9e077e

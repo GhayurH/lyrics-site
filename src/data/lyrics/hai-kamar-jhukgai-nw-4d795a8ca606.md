@@ -1,7 +1,7 @@
 ---
 title: "ہائے کمر جھک گئی"
 alternateTitle: "Haye Kamar Jhuk Gayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

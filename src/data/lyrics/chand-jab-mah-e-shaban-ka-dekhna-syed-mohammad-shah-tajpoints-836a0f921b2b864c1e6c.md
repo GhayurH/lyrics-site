@@ -1,11 +1,11 @@
 ---
 title: "Chand Jab Mah E Shaban Ka Dekhna Syed Mohammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:836a0f921b2b864c1e6c

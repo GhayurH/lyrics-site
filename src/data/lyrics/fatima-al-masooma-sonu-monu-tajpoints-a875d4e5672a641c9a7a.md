@@ -1,11 +1,11 @@
 ---
 title: "Fatima Al Masooma Sonu Monu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Arsalan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a875d4e5672a641c9a7a

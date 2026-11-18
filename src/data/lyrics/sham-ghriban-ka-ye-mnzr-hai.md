@@ -1,10 +1,10 @@
 ---
 title: "شام غریباں کا یہ منظر ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d693c926f177dc4a38c6

@@ -1,10 +1,10 @@
 ---
 title: "Khuda Hafiz Aye Karbala Walo Sachay Bhai Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1093475b5edd302d37e2

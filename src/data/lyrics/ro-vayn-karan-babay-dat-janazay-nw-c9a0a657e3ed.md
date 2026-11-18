@@ -1,6 +1,6 @@
 ---
 title: "Ro Vayn Karan Babay Dat Janazay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Zulm Ke Saray Taqaze Aazmane Ke Liye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e3ae7b378392eb60ea84

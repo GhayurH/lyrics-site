@@ -1,11 +1,11 @@
 ---
 title: "Sir Wekh Ke Zainab Da Liya Haider Aakhri Sa Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:717994ee18b940cd16bc

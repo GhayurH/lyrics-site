@@ -1,11 +1,11 @@
 ---
 title: "Kehti Rahi Sakina Le Ayo Pani Chacha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:84c0d08116f2fd718a1c

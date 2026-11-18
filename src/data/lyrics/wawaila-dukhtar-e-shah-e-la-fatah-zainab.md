@@ -1,10 +1,10 @@
 ---
 title: "وا ویلا ہائے وا ویلا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:17299eefe97b3ea211c4

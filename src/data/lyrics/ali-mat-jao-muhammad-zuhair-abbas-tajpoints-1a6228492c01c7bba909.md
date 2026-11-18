@@ -1,11 +1,11 @@
 ---
 title: "Ali Mat Jao Muhammad Zuhair Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1a6228492c01c7bba909

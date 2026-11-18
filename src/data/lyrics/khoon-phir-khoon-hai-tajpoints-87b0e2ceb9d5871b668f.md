@@ -1,10 +1,10 @@
 ---
 title: "Khoon Phir Khoon Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:87b0e2ceb9d5871b668f

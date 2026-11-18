@@ -1,11 +1,11 @@
 ---
 title: "Hussain Qadir Hai Syed Ali Ghazi Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hussain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8cdd0fcef3354c2b30d2

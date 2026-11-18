@@ -1,10 +1,10 @@
 ---
 title: "جس کے دن رات کٹے قید کے اندھیرے میں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:93fc7a3a95f8634d40b2

@@ -1,11 +1,11 @@
 ---
 title: "Tum Rehnuma Ho Mola Payamber Ki Shan Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1fcd835763f93d680bec

@@ -1,10 +1,10 @@
 ---
 title: "بابے دا گل چم کے روندی رئی سکینہؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:90bb5cc0496804e4ad14

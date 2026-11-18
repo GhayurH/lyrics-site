@@ -1,11 +1,11 @@
 ---
 title: "Aisa Ali Ke Lehjay Mein Mukhtar Hussain Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8619e71449759ea1d9e2

@@ -1,10 +1,10 @@
 ---
 title: "Zahra Terey Gulshan Ka Ali Shanawar & Ali Jee"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bf7aedeef958c6194647

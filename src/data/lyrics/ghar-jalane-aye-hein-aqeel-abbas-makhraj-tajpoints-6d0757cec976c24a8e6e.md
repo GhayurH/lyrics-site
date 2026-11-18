@@ -1,11 +1,11 @@
 ---
 title: "Ghar Jalane Aye Hein Aqeel Abbas Makhraj"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6d0757cec976c24a8e6e

@@ -1,10 +1,10 @@
 ---
 title: "Shan-e-Ali Akbar Suno"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1f80b873d99372c322f9

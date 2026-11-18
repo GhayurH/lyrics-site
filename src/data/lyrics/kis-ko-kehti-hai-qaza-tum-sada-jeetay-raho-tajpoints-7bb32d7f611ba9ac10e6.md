@@ -1,11 +1,11 @@
 ---
 title: "Kis Ko Kehti Hai Qaza Tum Sada Jeetay Raho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7bb32d7f611ba9ac10e6

@@ -1,11 +1,11 @@
 ---
 title: "Kis Bulandi Par Khudaya Martaba Zahra Ka Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a0bc6701549547ca6d85

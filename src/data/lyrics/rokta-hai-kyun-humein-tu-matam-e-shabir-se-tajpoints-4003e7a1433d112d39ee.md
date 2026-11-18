@@ -1,10 +1,10 @@
 ---
 title: "Rokta Hai Kyun Humein Tu Matam E Shabir Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4003e7a1433d112d39ee

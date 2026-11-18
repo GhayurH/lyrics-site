@@ -1,11 +1,11 @@
 ---
 title: "Utari Hai Aaj Rab Ki Naimat Ghadeer Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7cf5cfb5c0147a33925a

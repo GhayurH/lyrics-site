@@ -1,10 +1,10 @@
 ---
 title: "Sajjad Ko Woh Sham Ke Manzar Nahi Bholay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:748779d8728bec4653fa

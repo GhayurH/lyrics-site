@@ -1,11 +1,11 @@
 ---
 title: "Apne Dil Ke Hosle Ko Aazmatay Hain Hussain Lyrics New"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:459e651f6eb9af936f9e

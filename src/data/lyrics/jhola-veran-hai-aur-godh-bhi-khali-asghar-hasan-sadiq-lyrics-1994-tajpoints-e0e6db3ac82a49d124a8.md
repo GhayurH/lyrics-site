@@ -1,11 +1,11 @@
 ---
 title: "Jhola Veran Hai Aur Godh Bhi Khali Asghar Hasan Sadiq Lyrics 1994"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e0e6db3ac82a49d124a8

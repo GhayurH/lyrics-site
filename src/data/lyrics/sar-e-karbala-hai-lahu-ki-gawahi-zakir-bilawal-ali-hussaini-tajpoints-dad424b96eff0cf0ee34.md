@@ -1,11 +1,11 @@
 ---
 title: "Sar-e-Karbala Hai Lahu Ki Gawahi Zakir Bilawal Ali Hussaini"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bilawal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dad424b96eff0cf0ee34

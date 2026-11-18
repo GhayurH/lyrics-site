@@ -1,11 +1,11 @@
 ---
 title: "Kuch Iss Liye Bhi Rakhi Dill Se Hai Qareeb Ghadeer"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2ac11a9987d0fb963754

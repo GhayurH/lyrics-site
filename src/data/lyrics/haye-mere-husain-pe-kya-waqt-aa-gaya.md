@@ -1,10 +1,10 @@
 ---
 title: "ہائے میرے حسینؑ پہ کیا وقت آ گیا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:92e0f2886eb54d1409cb

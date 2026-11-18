@@ -1,10 +1,10 @@
 ---
 title: "مار دتا لوکاں بابا میرا بھرا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0a14ef8b0eeca3b24dce

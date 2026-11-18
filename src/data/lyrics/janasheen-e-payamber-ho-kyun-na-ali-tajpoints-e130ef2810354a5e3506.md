@@ -1,11 +1,11 @@
 ---
 title: "Janasheen-e-Payamber Ho Kyun Na Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e130ef2810354a5e3506

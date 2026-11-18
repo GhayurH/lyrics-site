@@ -1,11 +1,11 @@
 ---
 title: "Mere Khiyal Ko Nisbat Hoi Madine Se Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Iqtidar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a6d53e8e11ae37d0cf32

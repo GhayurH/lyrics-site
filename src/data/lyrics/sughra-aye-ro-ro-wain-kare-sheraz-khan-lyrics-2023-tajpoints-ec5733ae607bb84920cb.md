@@ -1,11 +1,11 @@
 ---
 title: "Sughra Aye Ro Ro Wain Kare Sheraz Khan Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ec5733ae607bb84920cb

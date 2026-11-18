@@ -1,11 +1,11 @@
 ---
 title: "Logo Main Behan Hussain Di Haan Asghar Khan Lyrics 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f2b21d756980d1cddc67

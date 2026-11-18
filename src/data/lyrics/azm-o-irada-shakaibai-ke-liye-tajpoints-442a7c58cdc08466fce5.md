@@ -1,11 +1,11 @@
 ---
 title: "Azm-o-Irada Shakaibai Ke Liye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shahi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:442a7c58cdc08466fce5

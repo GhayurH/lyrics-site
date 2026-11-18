@@ -1,6 +1,6 @@
 ---
 title: "Hun Vasna Nai Kadi Hun Vasna Nai Kadi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

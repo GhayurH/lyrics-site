@@ -1,11 +1,11 @@
 ---
 title: "Nanna Mujahid Aagaya Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kaleem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0bf8a4f3db4a49fb74c9

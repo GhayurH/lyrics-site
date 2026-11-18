@@ -1,11 +1,11 @@
 ---
 title: "Hum Se Gham-e-Shabbir Bhulaya Nahi Jata"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nisar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9702621e1c101254ed91

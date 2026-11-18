@@ -1,11 +1,11 @@
 ---
 title: "Gash Se Utho Sakina Jaan Dekho Baba Ka Sar Aa Gaya Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:32a08a2d24c98b79ed42

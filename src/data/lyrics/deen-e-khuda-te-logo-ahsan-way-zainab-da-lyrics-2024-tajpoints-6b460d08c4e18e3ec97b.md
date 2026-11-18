@@ -1,11 +1,11 @@
 ---
 title: "Deen E Khuda Te Logo Ahsan Way Zainab Da Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6b460d08c4e18e3ec97b

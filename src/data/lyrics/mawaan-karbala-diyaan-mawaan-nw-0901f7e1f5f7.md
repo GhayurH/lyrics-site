@@ -1,6 +1,6 @@
 ---
 title: "Mawaan Karbala Diyaan Mawaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

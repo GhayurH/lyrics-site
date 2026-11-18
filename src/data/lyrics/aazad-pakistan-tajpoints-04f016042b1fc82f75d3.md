@@ -1,10 +1,10 @@
 ---
 title: "Aazad Pakistan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:04f016042b1fc82f75d3

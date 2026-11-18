@@ -1,6 +1,6 @@
 ---
 title: "Rovay Na Door Watan Ton Shala Beemar Koyi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "منگدی شمر توں زینبؑ ردا اے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4bb257ce17c4fc5089b5

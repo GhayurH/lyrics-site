@@ -1,10 +1,10 @@
 ---
 title: "Akbar Aa Teri Bhain De Muk Gaye Sa Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8283acc146a497de276c

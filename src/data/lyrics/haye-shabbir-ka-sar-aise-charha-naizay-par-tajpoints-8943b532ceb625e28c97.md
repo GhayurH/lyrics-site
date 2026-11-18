@@ -1,11 +1,11 @@
 ---
 title: "Haye Shabbir Ka Sar Aise Charha Naizay Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8943b532ceb625e28c97

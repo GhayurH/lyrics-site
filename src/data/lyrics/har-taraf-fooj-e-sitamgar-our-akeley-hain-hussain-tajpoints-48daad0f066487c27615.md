@@ -1,10 +1,10 @@
 ---
 title: "Har Taraf Fooj-e-Sitamgar Our Akeley Hain Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:48daad0f066487c27615

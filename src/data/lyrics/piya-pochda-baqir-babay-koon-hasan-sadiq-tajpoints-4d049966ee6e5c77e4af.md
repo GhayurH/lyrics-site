@@ -1,11 +1,11 @@
 ---
 title: "Piya Pochda Baqir Babay Koon Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khursheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4d049966ee6e5c77e4af

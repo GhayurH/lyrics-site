@@ -1,11 +1,11 @@
 ---
 title: "Ya Muhammad Ho Karam Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8faec180b6db31fbd727

@@ -1,11 +1,11 @@
 ---
 title: "Baba Mainu Kalma Go Darbar Bolaya Aye Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:208304bc01e3a74e2a2d

@@ -1,11 +1,11 @@
 ---
 title: "Ishq-e-Sarkar Mein Dill Machalne Laga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dbe30570c2e4263e602f

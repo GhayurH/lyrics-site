@@ -1,11 +1,11 @@
 ---
 title: "Kahin Dushman Ke Piaday Kahin Aswar Giray"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Bilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5de870dc72ad6feb6f39

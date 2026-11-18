@@ -1,6 +1,6 @@
 ---
 title: "Abbas Hurn Aa Aaya Sham Da Bazaaray"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

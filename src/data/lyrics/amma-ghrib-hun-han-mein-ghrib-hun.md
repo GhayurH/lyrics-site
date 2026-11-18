@@ -1,10 +1,10 @@
 ---
 title: "اماں غریب ہوں ہاں میں غریب ہوں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:aff772e05b562212761c

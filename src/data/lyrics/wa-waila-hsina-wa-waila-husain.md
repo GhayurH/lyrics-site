@@ -1,11 +1,11 @@
 ---
 title: "وا ویلا حسیناً وا ویلا حسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Sajid Jafry"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:513e82de69b2cda2f4b1

@@ -1,11 +1,11 @@
 ---
 title: "Fatima Aur Zulfiqar Guftugu Mir Sajjad Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:edb2b17e6f7a8a5c7bd1

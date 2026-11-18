@@ -1,10 +1,10 @@
 ---
 title: "Kabhi Khud Pe Kabhi Halat Pe Rona Aaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:27897f79730bf383392d

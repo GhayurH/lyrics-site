@@ -1,11 +1,11 @@
 ---
 title: "Haye Darya Pe Howa Qatal Alamdar-e-Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zahoor"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3d90b6474e0f100e6947

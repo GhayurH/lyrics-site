@@ -1,10 +1,10 @@
 ---
 title: "Ho Gaya Matam Bapa Jadon Akbar Zeen Toon Leh Gaya Latest Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:dd10316b05baac54b7e8

@@ -1,10 +1,10 @@
 ---
 title: "امُ البنینؑ کا ہے بولتا قرآن غازیؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a50cd5701f548f227786

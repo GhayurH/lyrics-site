@@ -1,10 +1,10 @@
 ---
 title: "Zahra Ki Betiyon Par Aaya Hai Waqt Kaisa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b1d7cd73d9ea0942e104

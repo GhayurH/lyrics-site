@@ -1,11 +1,11 @@
 ---
 title: "Tur Wanj Musafir Multan Party 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bb647149e71e5bf30343

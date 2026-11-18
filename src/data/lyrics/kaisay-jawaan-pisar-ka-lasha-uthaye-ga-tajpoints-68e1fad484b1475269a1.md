@@ -1,11 +1,11 @@
 ---
 title: "Kaisay Jawaan Pisar Ka Lasha Uthaye Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:68e1fad484b1475269a1

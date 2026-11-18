@@ -1,11 +1,11 @@
 ---
 title: "Wafa Ko Naaz Hai Jis Par Ossay Abbas Kehte Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bfe7559b7f66cf3570d8

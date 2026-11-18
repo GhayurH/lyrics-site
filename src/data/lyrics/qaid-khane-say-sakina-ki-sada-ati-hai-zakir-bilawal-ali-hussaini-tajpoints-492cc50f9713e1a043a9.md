@@ -1,11 +1,11 @@
 ---
 title: "Qaid Khane Say Sakina Ki Sada Ati Hai Zakir Bilawal Ali Hussaini"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:492cc50f9713e1a043a9

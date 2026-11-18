@@ -1,11 +1,11 @@
 ---
 title: "Keh Kya Hai Matami Mughees Hashmmi Lyrics New"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Soz"
 poet: "Navaid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:e06a5c5e616f4033393f

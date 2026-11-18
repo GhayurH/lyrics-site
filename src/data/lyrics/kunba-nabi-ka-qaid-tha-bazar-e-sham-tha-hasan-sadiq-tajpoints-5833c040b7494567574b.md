@@ -1,10 +1,10 @@
 ---
 title: "Kunba Nabi Ka Qaid Tha Bazar-e-Sham Tha Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5833c040b7494567574b

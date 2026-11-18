@@ -1,11 +1,11 @@
 ---
 title: "Rooz Jeena Rooz Marna Safraan Wich Bemaar Ne Lyrics Punjabi 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a5ce56197c0e9ea55614

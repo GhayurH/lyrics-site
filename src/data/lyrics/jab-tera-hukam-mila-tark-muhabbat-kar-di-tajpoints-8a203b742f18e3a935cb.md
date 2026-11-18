@@ -1,10 +1,10 @@
 ---
 title: "Jab Tera Hukam Mila Tark Muhabbat Kar Di"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8a203b742f18e3a935cb

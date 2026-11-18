@@ -1,11 +1,11 @@
 ---
 title: "Yun Fazail Tere Parday Ke Hain Andar Zehra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d74ff0f5f1e8ab13d88d

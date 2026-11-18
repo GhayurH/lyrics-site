@@ -1,11 +1,11 @@
 ---
 title: "Ghadeer E Khum Sajaya Ja Raha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bca3f81e4e4c298ad182

@@ -1,6 +1,6 @@
 ---
 title: "Kaisay Sulagti Rait Pay Soya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Suno Arsh Walo Suno Farsh Walo Main Sehra Ali Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Sehra"

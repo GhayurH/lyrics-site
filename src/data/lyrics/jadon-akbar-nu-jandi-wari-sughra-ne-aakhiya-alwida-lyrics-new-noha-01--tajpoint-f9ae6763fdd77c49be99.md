@@ -1,11 +1,11 @@
 ---
 title: "Jadon Akbar Nu Jandi Wari Sughra Ne Aakhiya Alwida Lyrics New Noha 01 Muharram 2025 Chan Peer Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:f9ae6763fdd77c49be99

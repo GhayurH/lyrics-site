@@ -1,11 +1,11 @@
 ---
 title: "Farwa Gathri Seene Nal La Lay Qasim Lay Aayan Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e5e4233bf8b66dbf93c8

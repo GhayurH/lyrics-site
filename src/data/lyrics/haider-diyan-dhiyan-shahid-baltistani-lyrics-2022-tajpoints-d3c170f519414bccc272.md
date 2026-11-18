@@ -1,7 +1,7 @@
 ---
 title: "حیدر دیاں دھیاں"
 alternateTitle: "Haider Diyaan Dhiyaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

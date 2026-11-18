@@ -1,10 +1,10 @@
 ---
 title: "Toon Nayi Janda Akbar Wichora Ki Saza Aye Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c63a8d4ebbbd1f641869

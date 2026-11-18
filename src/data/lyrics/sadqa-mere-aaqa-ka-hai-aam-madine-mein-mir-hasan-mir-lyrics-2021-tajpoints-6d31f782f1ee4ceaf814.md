@@ -1,11 +1,11 @@
 ---
 title: "Sadqa Mere Aaqa Ka Hai Aam Madine Mein Mir Hasan Mir Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Mehshar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6d31f782f1ee4ceaf814

@@ -1,11 +1,11 @@
 ---
 title: "Darbar Se Aayi Hai Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4fb5cea6f7102e9b99c7

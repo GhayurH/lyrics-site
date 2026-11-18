@@ -1,11 +1,11 @@
 ---
 title: "Mere Bachray Kol Nai Main Kiwein Eid Manwaan Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Aqdas"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37a9944e90d20a33263c

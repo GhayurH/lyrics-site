@@ -1,11 +1,11 @@
 ---
 title: "Aseer Ho Ke Nabi Zadi Be Rida Aayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:788742741d337e25e185

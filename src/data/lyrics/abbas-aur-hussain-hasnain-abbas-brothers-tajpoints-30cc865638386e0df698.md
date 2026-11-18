@@ -1,11 +1,11 @@
 ---
 title: "Abbas Aur Hussain Hasnain Abbas Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nawazish"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:30cc865638386e0df698

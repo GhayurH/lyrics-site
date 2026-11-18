@@ -1,11 +1,11 @@
 ---
 title: "Zindaan Mein Sakina Yeh Buka Karti Thi Ro Kar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:51502ea8a57fbbf9d4d4

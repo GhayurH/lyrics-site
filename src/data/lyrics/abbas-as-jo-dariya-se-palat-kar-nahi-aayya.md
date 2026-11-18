@@ -1,6 +1,6 @@
 ---
 title: "Abbas (as) jo Dariya Se Palat Kar Nahi Aayya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

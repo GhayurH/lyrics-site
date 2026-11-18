@@ -1,11 +1,11 @@
 ---
 title: "Shaheedan E Kufa Saleem Mastan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Marsiya"
 poet: "Ahsaan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:12c5f401abc1b3d8b592

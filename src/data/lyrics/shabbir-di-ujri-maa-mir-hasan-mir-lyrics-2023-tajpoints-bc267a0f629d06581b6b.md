@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Di Ujri Maa Mir Hasan Mir Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bc267a0f629d06581b6b

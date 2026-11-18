@@ -1,11 +1,11 @@
 ---
 title: "Zainab Ko Baba Ke Ghum Me Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0b267f41eb12f99ddaac

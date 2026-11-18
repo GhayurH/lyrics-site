@@ -1,6 +1,6 @@
 ---
 title: "Hukam e Khaliq Se Har Ik Cheez Fana Tu Ho Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

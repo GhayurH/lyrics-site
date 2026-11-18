@@ -1,11 +1,11 @@
 ---
 title: "Khowabaan Ch Veer Nu Nana Asghar Khan Lyrics 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1130e96307814b3286fe

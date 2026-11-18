@@ -1,6 +1,6 @@
 ---
 title: "Mithy Kyu Ja Rahay Hai Qadmon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

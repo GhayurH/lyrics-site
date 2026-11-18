@@ -1,11 +1,11 @@
 ---
 title: "Dil-e-Mehdi Mein Jis Gham Ki Har Ik Lamha Harrarat Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5b0bf9d569ae43841a0d

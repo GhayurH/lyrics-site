@@ -1,10 +1,10 @@
 ---
 title: "فاطمہ آج جناں میں ہیں کھلے سر ہائے ہائے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:f4df17edf39ad15f9e09

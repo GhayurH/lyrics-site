@@ -1,11 +1,11 @@
 ---
 title: "Jo Nahi Janta Fatima Kon Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0dc1d143bc236c2b94a1

@@ -1,10 +1,10 @@
 ---
 title: "ہائے شامِ غریباں کو زینبؑ نے کہا رو کے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c6d89b802644b85b2f1c

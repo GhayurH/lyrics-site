@@ -1,10 +1,10 @@
 ---
 title: "سکینہؑ بی‌بی کے بین"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:63bdf1416b879bb32149

@@ -1,10 +1,10 @@
 ---
 title: "اے بارھویں مولاؑ میرا ایمان جگا دے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7567e3b164e20b48382a

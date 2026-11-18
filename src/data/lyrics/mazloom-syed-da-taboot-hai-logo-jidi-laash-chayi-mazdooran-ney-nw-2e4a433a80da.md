@@ -1,6 +1,6 @@
 ---
 title: "Mazloom Syed Da Taboot Hai Logo Jidi Laash Chayi Mazdooran Ney"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

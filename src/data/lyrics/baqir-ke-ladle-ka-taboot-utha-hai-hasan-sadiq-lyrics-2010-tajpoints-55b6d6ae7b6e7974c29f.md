@@ -1,11 +1,11 @@
 ---
 title: "Baqir Ke Ladle Ka Taboot Utha Hai Hasan Sadiq Lyrics 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khursheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:55b6d6ae7b6e7974c29f

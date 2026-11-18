@@ -1,10 +1,10 @@
 ---
 title: "گھر لوٹ کے گھر میں پہلا دیا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ad86daca33ca21b95429

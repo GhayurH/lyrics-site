@@ -1,6 +1,6 @@
 ---
 title: "Logo Ay Janaza Mur Aya Mazloom Imam Hassan Da"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

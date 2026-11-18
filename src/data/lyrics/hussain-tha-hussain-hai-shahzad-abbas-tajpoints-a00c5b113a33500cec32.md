@@ -1,11 +1,11 @@
 ---
 title: "Hussain Tha Hussain Hai Shahzad Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a00c5b113a33500cec32

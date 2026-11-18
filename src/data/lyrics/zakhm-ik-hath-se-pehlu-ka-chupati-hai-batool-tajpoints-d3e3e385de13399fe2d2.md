@@ -1,11 +1,11 @@
 ---
 title: "Zakhm Ik Hath Se Pehlu Ka Chupati Hai Batool"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Hunain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d3e3e385de13399fe2d2

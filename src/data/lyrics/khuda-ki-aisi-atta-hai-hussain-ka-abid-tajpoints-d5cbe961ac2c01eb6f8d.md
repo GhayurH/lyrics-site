@@ -1,11 +1,11 @@
 ---
 title: "Khuda Ki Aisi Atta Hai Hussain Ka Abid"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d5cbe961ac2c01eb6f8d

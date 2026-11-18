@@ -1,10 +1,10 @@
 ---
 title: "Labbaik Ya Imam Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:adccab35ef40839ec669

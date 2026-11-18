@@ -1,11 +1,11 @@
 ---
 title: "Islam Se Kamal Wafa Ki Hussain Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b0db6f6930025abd0f84

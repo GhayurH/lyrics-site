@@ -1,11 +1,11 @@
 ---
 title: "Kis Tarha Koi Likhey Teri Shahadat Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aaea5597052037542ee3

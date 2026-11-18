@@ -1,11 +1,11 @@
 ---
 title: "Hasan Bhira Di Lash Nu Shabbir Kinj Bachaye Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d7ab22a9db62ae5400ba

@@ -1,11 +1,11 @@
 ---
 title: "Fatima Ki Sada Haye Taqi Syed Raza Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:15ed3d73032535991f79

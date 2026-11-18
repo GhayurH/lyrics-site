@@ -1,11 +1,11 @@
 ---
 title: "Kaisi Yeh Eid Ayi Aoulad E Murtaza Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:41034baedbfcdc754eaa

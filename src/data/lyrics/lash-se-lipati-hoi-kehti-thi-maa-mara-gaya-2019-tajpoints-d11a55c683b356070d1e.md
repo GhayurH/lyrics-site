@@ -1,11 +1,11 @@
 ---
 title: "Lash Se Lipati Hoi Kehti Thi Maa Mara Gaya 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d11a55c683b356070d1e

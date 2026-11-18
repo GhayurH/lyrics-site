@@ -1,10 +1,10 @@
 ---
 title: "Main Fatima Zahra Hun Wajhi Hasan Zaidi Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f90f0da637e811c54aad

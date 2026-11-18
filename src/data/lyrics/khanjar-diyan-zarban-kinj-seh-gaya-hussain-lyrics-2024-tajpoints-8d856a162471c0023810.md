@@ -1,11 +1,11 @@
 ---
 title: "Khanjar Diyan Zarban Kinj Seh Gaya Hussain Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tosif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8d856a162471c0023810

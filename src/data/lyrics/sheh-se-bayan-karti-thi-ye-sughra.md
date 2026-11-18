@@ -1,6 +1,6 @@
 ---
 title: "Sheh Se Bayan Karti Thi Ye Sughra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

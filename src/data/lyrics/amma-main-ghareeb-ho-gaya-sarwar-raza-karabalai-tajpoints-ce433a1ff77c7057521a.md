@@ -1,10 +1,10 @@
 ---
 title: "Amma Main Ghareeb Ho Gaya Sarwar Raza Karabalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ce433a1ff77c7057521a

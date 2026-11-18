@@ -1,11 +1,11 @@
 ---
 title: "Gurbat E Fatima Qamar Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shams"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:261f0e6d1f25cf9dc2af

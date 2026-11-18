@@ -1,11 +1,11 @@
 ---
 title: "Medan E Qirtas Qambar Kiyani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:382f88442f01bcffe60e

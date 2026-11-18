@@ -1,11 +1,11 @@
 ---
 title: "Bazar Pe Bazar Guzarte Rahe Qaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5abd28dde8577465fca5

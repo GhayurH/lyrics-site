@@ -1,11 +1,11 @@
 ---
 title: "Aks E Haider E Karrar Mukhtar Fatehpuri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Faraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:75100834b6734c57bb19

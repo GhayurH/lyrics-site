@@ -1,11 +1,11 @@
 ---
 title: "Hussain Hai Tu Hai Laillah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hameed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4f7ca4a6591d12fd5a1d

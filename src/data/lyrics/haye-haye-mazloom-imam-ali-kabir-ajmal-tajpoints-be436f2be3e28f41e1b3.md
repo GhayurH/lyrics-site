@@ -1,11 +1,11 @@
 ---
 title: "Haye Haye Mazloom Imam Ali Kabir Ajmal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ajmal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:be436f2be3e28f41e1b3

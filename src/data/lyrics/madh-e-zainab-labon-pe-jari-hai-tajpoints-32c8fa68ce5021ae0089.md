@@ -1,11 +1,11 @@
 ---
 title: "Madh-e-Zainab Labon Pe Jari Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:32c8fa68ce5021ae0089

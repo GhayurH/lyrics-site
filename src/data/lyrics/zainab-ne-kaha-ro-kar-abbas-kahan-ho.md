@@ -1,10 +1,10 @@
 ---
 title: "زینبؑ نے کہا رو کر عباسؑ کہاں ہو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b115375ffda18871295f

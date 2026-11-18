@@ -1,11 +1,11 @@
 ---
 title: "Aye Rab-e-Zuljalal Qayamat Ki Ghari Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wahid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8741c7a165296fb218a0

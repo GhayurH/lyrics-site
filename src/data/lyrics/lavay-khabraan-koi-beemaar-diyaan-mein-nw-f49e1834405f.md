@@ -1,6 +1,6 @@
 ---
 title: "Lavay Khabraan Koi Beemaar Diyaan Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

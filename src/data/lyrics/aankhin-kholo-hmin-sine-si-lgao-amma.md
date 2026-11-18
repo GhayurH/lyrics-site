@@ -1,10 +1,10 @@
 ---
 title: "آنکھین کھولو ہمیں سینے سی لگاؤ اماں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4fb48cb3df50f93ae90a

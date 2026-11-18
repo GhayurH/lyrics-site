@@ -1,11 +1,11 @@
 ---
 title: "Karte Hain Ali Wale Yeh Iqrar Qalandar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cb1371eacbd90cd339d5

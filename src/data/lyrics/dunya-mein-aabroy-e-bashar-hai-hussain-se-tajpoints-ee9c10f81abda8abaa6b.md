@@ -1,11 +1,11 @@
 ---
 title: "Dunya Mein Aabroy-e-Bashar Hai Hussain Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ee9c10f81abda8abaa6b

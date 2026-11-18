@@ -1,11 +1,11 @@
 ---
 title: "Main Abid Da Har Moor Te Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8d9b3c2cf34b5e1b1ad5

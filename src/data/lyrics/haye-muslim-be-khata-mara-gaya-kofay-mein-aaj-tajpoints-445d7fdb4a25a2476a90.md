@@ -1,11 +1,11 @@
 ---
 title: "Haye Muslim Be-Khata Mara Gaya Kofay Mein Aaj"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qasim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:445d7fdb4a25a2476a90

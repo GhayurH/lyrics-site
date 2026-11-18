@@ -1,11 +1,11 @@
 ---
 title: "Tur Pay Lashaan De Waris Shaam De Safraan Nu Lyrics Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:23e4873c883cde042370

@@ -1,10 +1,10 @@
 ---
 title: "ہائے واویلا عینَ شہدا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:9944eddfcd1820d654ca

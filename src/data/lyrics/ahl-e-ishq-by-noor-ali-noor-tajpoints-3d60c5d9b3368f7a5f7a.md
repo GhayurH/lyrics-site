@@ -1,10 +1,10 @@
 ---
 title: "Ahl-e-Ishq By Noor Ali Noor"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3d60c5d9b3368f7a5f7a

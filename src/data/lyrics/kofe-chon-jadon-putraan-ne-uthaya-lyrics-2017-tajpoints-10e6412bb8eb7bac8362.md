@@ -1,11 +1,11 @@
 ---
 title: "Kofe Chon Jadon Putraan Ne Uthaya Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:10e6412bb8eb7bac8362

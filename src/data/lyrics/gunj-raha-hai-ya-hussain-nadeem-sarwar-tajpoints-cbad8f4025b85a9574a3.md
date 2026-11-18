@@ -1,11 +1,11 @@
 ---
 title: "Gunj Raha Hai Ya Hussain Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cbad8f4025b85a9574a3

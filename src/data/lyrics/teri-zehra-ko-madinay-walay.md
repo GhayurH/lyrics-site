@@ -1,6 +1,6 @@
 ---
 title: "Teri Zehra Ko Madinay Walay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

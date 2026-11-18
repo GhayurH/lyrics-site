@@ -1,11 +1,11 @@
 ---
 title: "Mustafa Jane Rehmat Pe Lakhon Salam Shahid Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Darwaish"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b11d122a7cb629e007bb

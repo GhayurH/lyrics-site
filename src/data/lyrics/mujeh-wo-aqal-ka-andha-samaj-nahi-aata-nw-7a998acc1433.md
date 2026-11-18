@@ -1,6 +1,6 @@
 ---
 title: "Mujeh Wo Aqal Ka Andha Samaj Nahi Aata"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Al Ajal Zeeast Ka Ab Rakht E Safar Hai Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f6afd16422e927162386

@@ -1,11 +1,11 @@
 ---
 title: "Taat-e-Nabi Mein Jo Karte Hain Bashar Sajday"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:32f9089a1698bf56c76c

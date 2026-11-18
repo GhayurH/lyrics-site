@@ -1,6 +1,6 @@
 ---
 title: "Rab Janay Kevain, Lungiyan Nay Sajjad Diyan Ghariyaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

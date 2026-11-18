@@ -1,11 +1,11 @@
 ---
 title: "اے علی اصغرؑ میرے تیری شجاعت کو سلام"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 reciter: "Hasan Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:73a4820bd2beb9017327

@@ -1,10 +1,10 @@
 ---
 title: "اللہ جانے سین زہراؑ کیویں دربار گئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:fb2fd0c1b3ae8c480146

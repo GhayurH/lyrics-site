@@ -1,10 +1,10 @@
 ---
 title: "غازی کے بعد زینبؑ سر دی ردا لٹا کے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cbfb086821212006c514

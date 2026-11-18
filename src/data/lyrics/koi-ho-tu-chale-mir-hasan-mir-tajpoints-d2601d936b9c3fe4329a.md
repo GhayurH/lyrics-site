@@ -1,11 +1,11 @@
 ---
 title: "Koi Ho Tu Chale Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ashraf"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d2601d936b9c3fe4329a

@@ -1,11 +1,11 @@
 ---
 title: "سجّادؑ سے پوچھو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Ali Safdar Rizvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cbf38f3d83128a2c71cf

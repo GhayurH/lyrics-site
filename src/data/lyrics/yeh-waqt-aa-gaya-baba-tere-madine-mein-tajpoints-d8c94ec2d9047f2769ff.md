@@ -1,11 +1,11 @@
 ---
 title: "Yeh Waqt Aa Gaya Baba Tere Madine Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d8c94ec2d9047f2769ff

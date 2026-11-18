@@ -1,11 +1,11 @@
 ---
 title: "Farzand E Abu Talib Nu Wich Masjid De Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:55ebd90be7645ef131f5

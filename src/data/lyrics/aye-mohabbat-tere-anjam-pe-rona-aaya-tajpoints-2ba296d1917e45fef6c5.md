@@ -1,11 +1,11 @@
 ---
 title: "Aye Mohabbat Tere Anjam Pe Rona Aaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shakeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2ba296d1917e45fef6c5

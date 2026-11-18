@@ -1,11 +1,11 @@
 ---
 title: "Dilon Pe Nash-e-Mowadat Hain Jo Ubhare Howay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8ab78562b7d79faaffbb

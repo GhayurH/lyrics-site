@@ -1,10 +1,10 @@
 ---
 title: "Ali Akbar Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:864b6f07be8974d0014b

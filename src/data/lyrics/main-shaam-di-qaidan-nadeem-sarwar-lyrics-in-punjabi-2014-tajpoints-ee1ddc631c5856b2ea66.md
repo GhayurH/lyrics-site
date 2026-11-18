@@ -1,10 +1,10 @@
 ---
 title: "Main Shaam Di Qaidan Nadeem Sarwar Lyrics In Punjabi 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ee1ddc631c5856b2ea66

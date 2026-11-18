@@ -1,11 +1,11 @@
 ---
 title: "Yeh Wazifa Ho Zindagi Ke Liye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Taseer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:da97be38deeb77aa4ad1

@@ -1,10 +1,10 @@
 ---
 title: "Kon Qayal Tha Salami Keh Jina Our Bhi Hai Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fdaa03e381e8dc343828

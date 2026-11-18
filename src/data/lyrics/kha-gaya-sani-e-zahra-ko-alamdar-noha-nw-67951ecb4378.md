@@ -1,6 +1,6 @@
 ---
 title: "Kha Gaya Sani e Zahra Ko Alamdar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

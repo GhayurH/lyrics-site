@@ -1,10 +1,10 @@
 ---
 title: "سجادؑ ہائے سجادؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5d3a4733aeaa0c6b0a91

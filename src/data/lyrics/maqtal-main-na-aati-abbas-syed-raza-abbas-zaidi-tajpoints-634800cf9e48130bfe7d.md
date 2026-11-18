@@ -1,11 +1,11 @@
 ---
 title: "Maqtal Main Na Aati Abbas Syed Raza Abbas Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sahaab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:634800cf9e48130bfe7d

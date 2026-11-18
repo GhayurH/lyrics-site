@@ -1,11 +1,11 @@
 ---
 title: "Mera Kaba Najaf Ka Nagar Hai Our Najaf Hi Hai Mera Madina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0dc05bb8a5d674dd083e

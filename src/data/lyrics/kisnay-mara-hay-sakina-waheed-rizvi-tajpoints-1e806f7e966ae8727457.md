@@ -1,11 +1,11 @@
 ---
 title: "Kisnay Mara Hay Sakina Waheed Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1e806f7e966ae8727457

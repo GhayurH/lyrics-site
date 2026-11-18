@@ -1,10 +1,10 @@
 ---
 title: "اصغرؑ کا تیر کیسے کھنچے گا حسینؑ سے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:06e83e932f253df8f947

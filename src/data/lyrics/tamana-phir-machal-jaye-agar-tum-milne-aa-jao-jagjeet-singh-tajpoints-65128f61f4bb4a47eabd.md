@@ -1,10 +1,10 @@
 ---
 title: "Tamana Phir Machal Jaye Agar Tum Milne Aa Jao Jagjeet Singh"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:65128f61f4bb4a47eabd

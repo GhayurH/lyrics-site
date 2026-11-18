@@ -1,10 +1,10 @@
 ---
 title: "Ghareeb Bhai Ka Chehlum Mana Rahi Hai Behan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:31ccd539673013af4750

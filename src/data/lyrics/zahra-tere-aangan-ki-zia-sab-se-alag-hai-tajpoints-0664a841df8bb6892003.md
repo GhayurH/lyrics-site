@@ -1,11 +1,11 @@
 ---
 title: "Zahra Tere Aangan Ki Zia Sab Se Alag Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nisa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0664a841df8bb6892003

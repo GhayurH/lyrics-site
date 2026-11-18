@@ -1,11 +1,11 @@
 ---
 title: "Maqtal De Pasay Tur Paya Fatima Da Ladla Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:20d86cd919eaab3daff3

@@ -1,11 +1,11 @@
 ---
 title: "زنداں دے در تے شامیاں نوں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ed3d4685d4f056a69fb8

@@ -1,11 +1,11 @@
 ---
 title: "Tabeer Mere Khuwab Ki Mola Dikhayi De Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2c7eecfa4c4f2823a1cf

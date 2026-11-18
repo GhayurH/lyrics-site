@@ -1,11 +1,11 @@
 ---
 title: "Tarteeb Banai Zainab Te Shabir Bahatar Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a52e9664b33be301478a

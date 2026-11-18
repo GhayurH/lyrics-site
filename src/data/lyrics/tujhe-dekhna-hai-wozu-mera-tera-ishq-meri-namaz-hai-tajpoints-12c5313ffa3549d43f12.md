@@ -1,11 +1,11 @@
 ---
 title: "Tujhe Dekhna Hai Wozu Mera Tera Ishq Meri Namaz Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:12c5313ffa3549d43f12

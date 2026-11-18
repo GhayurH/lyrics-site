@@ -1,11 +1,11 @@
 ---
 title: "Hussain Ki Yeh Mohabbat Hai Our Musalsal Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cb7acf5bf6e175493fad

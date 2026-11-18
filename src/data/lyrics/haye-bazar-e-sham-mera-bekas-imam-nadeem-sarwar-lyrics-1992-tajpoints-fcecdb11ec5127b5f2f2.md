@@ -1,7 +1,7 @@
 ---
 title: "سر کھلے ہائے زینب کہاں آ گئی"
 alternateTitle: "Sar Khule Haye Zainab Kahan Aa Gayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

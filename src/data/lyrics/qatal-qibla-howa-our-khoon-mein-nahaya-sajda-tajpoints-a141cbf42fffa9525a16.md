@@ -1,11 +1,11 @@
 ---
 title: "Qatal Qibla Howa Our Khoon Mein Nahaya Sajda"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naveed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a141cbf42fffa9525a16

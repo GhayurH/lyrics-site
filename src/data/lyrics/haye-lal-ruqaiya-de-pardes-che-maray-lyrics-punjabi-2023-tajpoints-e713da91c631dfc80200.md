@@ -1,11 +1,11 @@
 ---
 title: "Haye Lal Ruqaiya De Pardes Che Maray Lyrics Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e713da91c631dfc80200

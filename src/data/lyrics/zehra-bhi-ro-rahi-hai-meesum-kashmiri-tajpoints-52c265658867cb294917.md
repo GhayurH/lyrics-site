@@ -1,11 +1,11 @@
 ---
 title: "Zehra Bhi Ro Rahi Hai Meesum Kashmiri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:52c265658867cb294917

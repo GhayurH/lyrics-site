@@ -1,11 +1,11 @@
 ---
 title: "Ghareeb Koi Nahi Hussain Ke Jaisa Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hussaini"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d684d98d3ce79e38c1e4

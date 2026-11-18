@@ -1,11 +1,11 @@
 ---
 title: "Abbas Ki Aamad Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:92b5f91d8b34c7ab511c

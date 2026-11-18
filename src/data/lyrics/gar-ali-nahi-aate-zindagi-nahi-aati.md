@@ -1,6 +1,6 @@
 ---
 title: "Gar Ali Nahi Aate Zindagi Nahi Aati"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

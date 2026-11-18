@@ -1,11 +1,11 @@
 ---
 title: "Ali Ke Zikar Ki Mehfil Sajaye Jis Ka Jee Chahe Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2632e0282dae3d390eac

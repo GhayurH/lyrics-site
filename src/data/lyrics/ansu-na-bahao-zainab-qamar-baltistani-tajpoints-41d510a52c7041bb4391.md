@@ -1,11 +1,11 @@
 ---
 title: "Ansu Na Bahao Zainab Qamar Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shams"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:41d510a52c7041bb4391

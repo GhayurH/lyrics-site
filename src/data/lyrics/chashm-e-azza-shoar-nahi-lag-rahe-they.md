@@ -1,6 +1,6 @@
 ---
 title: "Chashm e Azza Shoar Nahi Lag Rahe They"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

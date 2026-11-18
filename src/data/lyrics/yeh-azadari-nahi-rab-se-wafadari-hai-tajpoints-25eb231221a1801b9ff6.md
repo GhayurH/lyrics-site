@@ -1,11 +1,11 @@
 ---
 title: "Yeh Azadari Nahi Rab Se Wafadari Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Salamat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:25eb231221a1801b9ff6

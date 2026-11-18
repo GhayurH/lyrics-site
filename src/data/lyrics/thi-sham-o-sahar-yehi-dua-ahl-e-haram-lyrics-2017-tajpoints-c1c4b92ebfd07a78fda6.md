@@ -1,11 +1,11 @@
 ---
 title: "Thi Sham O Sahar Yehi Dua Ahl E Haram Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c1c4b92ebfd07a78fda6

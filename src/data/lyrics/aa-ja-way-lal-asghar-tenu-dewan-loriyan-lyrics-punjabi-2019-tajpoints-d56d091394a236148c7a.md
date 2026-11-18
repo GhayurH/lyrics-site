@@ -1,11 +1,11 @@
 ---
 title: "Aa Ja Way Lal Asghar Tenu Dewan Loriyan Lyrics Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d56d091394a236148c7a

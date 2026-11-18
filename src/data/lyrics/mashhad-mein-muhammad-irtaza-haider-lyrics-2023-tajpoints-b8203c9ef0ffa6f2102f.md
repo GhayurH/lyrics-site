@@ -1,11 +1,11 @@
 ---
 title: "Mashhad Mein Muhammad Irtaza Haider Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b8203c9ef0ffa6f2102f

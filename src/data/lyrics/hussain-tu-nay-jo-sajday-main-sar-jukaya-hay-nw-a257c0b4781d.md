@@ -1,6 +1,6 @@
 ---
 title: "Hussain tu Nay Jo Sajday Main Sar Jukaya hay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

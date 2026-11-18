@@ -1,11 +1,11 @@
 ---
 title: "Dar E Abbas Par Shahid Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Darwaish"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:389524a10f7d4fa8ce20

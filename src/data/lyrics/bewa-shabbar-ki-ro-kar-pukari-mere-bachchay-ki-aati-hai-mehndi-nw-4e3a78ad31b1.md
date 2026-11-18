@@ -1,6 +1,6 @@
 ---
 title: "Bewa Shabbar Ki Ro Kar Pukari Mere Bachchay Ki Aati Hai Mehndi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

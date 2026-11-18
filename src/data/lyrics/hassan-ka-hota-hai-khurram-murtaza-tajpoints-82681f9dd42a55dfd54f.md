@@ -1,11 +1,11 @@
 ---
 title: "Hassan Ka Hota Hai Khurram Murtaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:82681f9dd42a55dfd54f

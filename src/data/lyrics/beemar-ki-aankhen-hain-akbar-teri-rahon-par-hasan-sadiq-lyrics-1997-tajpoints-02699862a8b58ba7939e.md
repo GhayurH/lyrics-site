@@ -1,11 +1,11 @@
 ---
 title: "Beemar Ki Aankhen Hain Akbar Teri Rahon Par Hasan Sadiq Lyrics 1997"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:02699862a8b58ba7939e

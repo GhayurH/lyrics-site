@@ -1,10 +1,10 @@
 ---
 title: "Ro Aakhdi Rayi Zahra Main Jhot Nayi Kaindi Lyrics 2024 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:71103cdf8ef2004b6392

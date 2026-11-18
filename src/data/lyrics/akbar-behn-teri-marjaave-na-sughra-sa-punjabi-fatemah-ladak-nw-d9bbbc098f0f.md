@@ -1,6 +1,6 @@
 ---
 title: "Akbar Behn Teri Marjaave Na Sughra (sa)"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

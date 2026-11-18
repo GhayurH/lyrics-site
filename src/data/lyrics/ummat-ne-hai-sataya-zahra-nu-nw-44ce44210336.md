@@ -1,6 +1,6 @@
 ---
 title: "Ummat Ne Hai Sataya Zahra Nu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

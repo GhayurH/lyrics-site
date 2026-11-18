@@ -1,11 +1,11 @@
 ---
 title: "Kon Rokay Ga Gham E Jaan Ko Namodari Se Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a08717c56c98f3fa5bda

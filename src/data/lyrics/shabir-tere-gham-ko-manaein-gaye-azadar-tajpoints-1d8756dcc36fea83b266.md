@@ -1,11 +1,11 @@
 ---
 title: "Shabir Tere Gham Ko Manaein Gaye Azadar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Alam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d8756dcc36fea83b266

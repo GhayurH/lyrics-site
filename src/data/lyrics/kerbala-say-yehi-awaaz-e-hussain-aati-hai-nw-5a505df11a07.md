@@ -1,6 +1,6 @@
 ---
 title: "Kerbala Say Yehi Awaaz-e-Hussain Aati Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

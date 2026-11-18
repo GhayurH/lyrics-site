@@ -1,11 +1,11 @@
 ---
 title: "Ridawaan De Diyo Rawaan De Diyo MSO Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:df19add54255b8ceff8b

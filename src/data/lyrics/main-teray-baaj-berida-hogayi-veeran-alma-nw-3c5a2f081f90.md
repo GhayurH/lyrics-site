@@ -1,6 +1,6 @@
 ---
 title: "Main Teray Baaj Berida Hogayi, Veeran Alma"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,7 +1,7 @@
 ---
 title: "ہے ولیِ مشہد یہ بڑائی تیرے در کی"
 alternateTitle: "Hai Wali-e-Mashhad Ye Barayi Tere Dar Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

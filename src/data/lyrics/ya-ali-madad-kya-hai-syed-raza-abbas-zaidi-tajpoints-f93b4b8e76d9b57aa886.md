@@ -1,11 +1,11 @@
 ---
 title: "Ya Ali Madad Kya Hai Syed Raza Abbas Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sohail"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f93b4b8e76d9b57aa886

@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Muhari Jonda Riya Kiwein Sham Che Aa Ke Lyrics Latest 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:5b5497deab331a53c857

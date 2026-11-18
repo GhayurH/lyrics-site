@@ -1,11 +1,11 @@
 ---
 title: "Rajaz Suno Hussain Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:75d0f70e7b8786813b99

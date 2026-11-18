@@ -1,11 +1,11 @@
 ---
 title: "بی‌بی زہنبؑ روندی رہ گئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6dea09df841e38d5bd0d

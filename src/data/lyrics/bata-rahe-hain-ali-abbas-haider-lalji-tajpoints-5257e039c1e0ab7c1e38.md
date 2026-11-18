@@ -1,11 +1,11 @@
 ---
 title: "Bata Rahe Hain Ali Abbas Haider Lalji"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5257e039c1e0ab7c1e38

@@ -1,6 +1,6 @@
 ---
 title: "Chadaron Ka Naam Sun Kar Ro Pari Bint e Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

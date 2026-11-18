@@ -1,11 +1,11 @@
 ---
 title: "Jahan Main Qaid Hoon Baba Bara Andhera Hai Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:86a20a8995ad5437309c

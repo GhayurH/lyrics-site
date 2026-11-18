@@ -1,11 +1,11 @@
 ---
 title: "واقعہ رنج و مصائب کا بیاں کرتا ہوں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Farhan Ali"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c6bc4da3364880cfbf56

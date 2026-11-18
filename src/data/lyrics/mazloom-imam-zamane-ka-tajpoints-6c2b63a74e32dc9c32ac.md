@@ -1,11 +1,11 @@
 ---
 title: "Mazloom Imam Zamane Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6c2b63a74e32dc9c32ac

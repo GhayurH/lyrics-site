@@ -1,11 +1,11 @@
 ---
 title: "Sakina Per Musibat Ki Huwi Hai Inteha Ghazi Syed Mehdi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7ace1a4cbe65a339ff2c

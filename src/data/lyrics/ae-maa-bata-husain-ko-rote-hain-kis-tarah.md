@@ -1,10 +1,10 @@
 ---
 title: "اے ماں بتا حسینؑ کو روتے ہیں کس طرح"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2776e412fe76be497c63

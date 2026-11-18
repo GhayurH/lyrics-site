@@ -1,6 +1,6 @@
 ---
 title: "Karbobala Lahoo Ka Safar Dekhti Rahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

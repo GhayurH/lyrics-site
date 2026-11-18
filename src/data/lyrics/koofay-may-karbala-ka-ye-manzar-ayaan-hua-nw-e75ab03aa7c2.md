@@ -1,6 +1,6 @@
 ---
 title: "Koofay may Karbala ka ye manzar ayaan hua"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

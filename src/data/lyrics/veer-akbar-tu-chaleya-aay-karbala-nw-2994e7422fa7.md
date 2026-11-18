@@ -1,6 +1,6 @@
 ---
 title: "Veer Akbar Tu Chaleya Aay Karbala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

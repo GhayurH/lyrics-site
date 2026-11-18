@@ -1,10 +1,10 @@
 ---
 title: "سکینہؑ وین کردی رئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a39d33a71de9ddc7927a

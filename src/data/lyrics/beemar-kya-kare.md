@@ -1,10 +1,10 @@
 ---
 title: "بیمار کیا کرے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1c6c3cdb843e665e41a6

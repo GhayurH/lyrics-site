@@ -1,11 +1,11 @@
 ---
 title: "Aamad E Mehdi Qaiser Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qaiser"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37ad4dfa659f9cc23fed

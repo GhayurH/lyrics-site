@@ -1,6 +1,6 @@
 ---
 title: "Baqir Nay Kamsini Main Jahilay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

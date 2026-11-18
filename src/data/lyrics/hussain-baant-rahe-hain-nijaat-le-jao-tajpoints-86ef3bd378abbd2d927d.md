@@ -1,6 +1,6 @@
 ---
 title: "Hussain Baant Rahe Hain Nijaat Le Jao"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

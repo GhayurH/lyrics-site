@@ -1,6 +1,6 @@
 ---
 title: "Ujri Nou Chad Kay Kalliyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Khuda E Abbas Hasnain Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Bay"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d9eb433d15cac4bfb2a7

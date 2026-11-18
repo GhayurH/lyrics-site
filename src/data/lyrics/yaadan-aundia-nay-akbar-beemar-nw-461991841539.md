@@ -1,6 +1,6 @@
 ---
 title: "Yaadan Aundia Nay Akbar Beemar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,10 +1,10 @@
 ---
 title: "پکاروں گی میں بابا کو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c1f43af47776d1d44312

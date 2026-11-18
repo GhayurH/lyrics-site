@@ -1,11 +1,11 @@
 ---
 title: "Maqtal E Imam Hussain Syed Askari Hassan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7e08572f56954fc9a6d7

@@ -1,11 +1,11 @@
 ---
 title: "Nana Mein Agai Hoon Ghar Bar Sab Luta Ke Zakir Bilawal Ali Hussaini"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Abbas"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d635891eacbb8bd8c318

@@ -1,11 +1,11 @@
 ---
 title: "Rodad Apne Gham Ki Sunati Hai Karbala Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c219b40e1671b4399743

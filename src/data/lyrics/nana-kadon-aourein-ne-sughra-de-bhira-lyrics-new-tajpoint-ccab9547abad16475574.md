@@ -1,11 +1,11 @@
 ---
 title: "Nana Kadon Aourein Ne Sughra De Bhira Lyrics New"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rida"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:ccab9547abad16475574

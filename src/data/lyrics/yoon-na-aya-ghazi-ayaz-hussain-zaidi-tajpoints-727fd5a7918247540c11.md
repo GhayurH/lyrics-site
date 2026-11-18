@@ -1,11 +1,11 @@
 ---
 title: "Yoon Na Aya Ghazi Ayaz Hussain Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:727fd5a7918247540c11

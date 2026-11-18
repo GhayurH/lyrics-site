@@ -1,11 +1,11 @@
 ---
 title: "Fizza Tujhe Salam Zahra Se Kiya Wadah Mir Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e151dc26a828eaedd03b

@@ -1,11 +1,11 @@
 ---
 title: "Abid-e-Na Tawaan Hathkari Beriyaan Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sarwar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aac3335b6602ff360391

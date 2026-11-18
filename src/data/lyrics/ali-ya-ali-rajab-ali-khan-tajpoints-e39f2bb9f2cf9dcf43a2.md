@@ -1,11 +1,11 @@
 ---
 title: "Ali Ya Ali Rajab Ali Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e39f2bb9f2cf9dcf43a2

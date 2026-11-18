@@ -1,11 +1,11 @@
 ---
 title: "Hain Jahan Mein Naib E Shabir Zain Ul Abideen"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:da4441c4a2e432c1dfbf

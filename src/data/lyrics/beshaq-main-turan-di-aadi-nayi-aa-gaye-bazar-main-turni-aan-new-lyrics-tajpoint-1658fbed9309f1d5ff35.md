@@ -1,11 +1,11 @@
 ---
 title: "Beshaq Main Turan Di Aadi Nayi Aa Gaye Bazar Main Turni Aan New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:1658fbed9309f1d5ff35

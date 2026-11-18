@@ -1,11 +1,11 @@
 ---
 title: "Tamachon Ki Saza Baba Ali Raza Abidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b040a548218a7802c724

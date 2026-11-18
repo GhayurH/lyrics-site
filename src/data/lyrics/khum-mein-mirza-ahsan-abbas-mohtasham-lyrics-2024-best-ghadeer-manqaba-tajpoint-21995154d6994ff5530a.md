@@ -1,11 +1,11 @@
 ---
 title: "Khum Mein Mirza Ahsan Abbas Mohtasham Lyrics 2024 Best Ghadeer Manqabat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:21995154d6994ff5530a

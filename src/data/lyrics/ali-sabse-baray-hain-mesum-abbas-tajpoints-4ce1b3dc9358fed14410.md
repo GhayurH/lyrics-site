@@ -1,11 +1,11 @@
 ---
 title: "Ali Sabse Baray Hain Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mazhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4ce1b3dc9358fed14410

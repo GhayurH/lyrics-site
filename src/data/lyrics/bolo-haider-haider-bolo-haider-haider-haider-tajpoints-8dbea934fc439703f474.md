@@ -1,11 +1,11 @@
 ---
 title: "Bolo Haider Haider Bolo Haider Haider Haider"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8dbea934fc439703f474

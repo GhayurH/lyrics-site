@@ -1,11 +1,11 @@
 ---
 title: "Mout Mujh Ko Darane Chali Hai Asad Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Karrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:73e23c610f3b9b0aa31d

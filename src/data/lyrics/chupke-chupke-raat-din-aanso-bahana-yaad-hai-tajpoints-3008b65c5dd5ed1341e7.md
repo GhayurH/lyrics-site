@@ -1,11 +1,11 @@
 ---
 title: "Chupke Chupke Raat Din Aanso Bahana Yaad Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasrat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3008b65c5dd5ed1341e7

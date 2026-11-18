@@ -1,10 +1,10 @@
 ---
 title: "اب بھی سجادؑ کی آنکھوں ہے لہو جاری ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a1c23b8e4713e577e2f7

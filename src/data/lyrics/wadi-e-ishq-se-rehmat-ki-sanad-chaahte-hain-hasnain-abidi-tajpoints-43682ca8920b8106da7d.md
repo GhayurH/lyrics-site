@@ -1,11 +1,11 @@
 ---
 title: "Wadi E Ishq Se Rehmat Ki Sanad Chaahte Hain Hasnain Abidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hassaan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:43682ca8920b8106da7d

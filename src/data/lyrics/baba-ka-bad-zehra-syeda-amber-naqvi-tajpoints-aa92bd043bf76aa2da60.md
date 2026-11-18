@@ -1,11 +1,11 @@
 ---
 title: "Baba Ka Bad Zehra Syeda Amber Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naqsh"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aa92bd043bf76aa2da60

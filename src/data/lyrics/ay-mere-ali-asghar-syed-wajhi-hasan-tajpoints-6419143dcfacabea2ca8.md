@@ -1,11 +1,11 @@
 ---
 title: "Ay Mere Ali Asghar Syed Wajhi Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6419143dcfacabea2ca8

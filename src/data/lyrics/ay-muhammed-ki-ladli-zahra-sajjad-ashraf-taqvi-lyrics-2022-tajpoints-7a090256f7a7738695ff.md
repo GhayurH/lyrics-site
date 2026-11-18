@@ -1,11 +1,11 @@
 ---
 title: "Ay Muhammed Ki Ladli Zahra Sajjad Ashraf Taqvi Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7a090256f7a7738695ff

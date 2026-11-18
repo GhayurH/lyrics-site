@@ -1,11 +1,11 @@
 ---
 title: "Sakina Imamat Ka Sitara Hai Syed Raza Abbas Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:78ef77264e3e684a1327

@@ -1,11 +1,11 @@
 ---
 title: "Abro Ke Isharay Mein Har Ik Izn E Safar Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3b64209232590c76f982

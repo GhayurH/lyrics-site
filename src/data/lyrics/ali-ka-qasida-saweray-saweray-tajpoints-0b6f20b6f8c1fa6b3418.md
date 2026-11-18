@@ -1,11 +1,11 @@
 ---
 title: "Ali Ka Qasida Saweray Saweray"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sohail"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0b6f20b6f8c1fa6b3418

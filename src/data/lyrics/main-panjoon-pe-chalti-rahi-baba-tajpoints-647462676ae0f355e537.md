@@ -1,11 +1,11 @@
 ---
 title: "Main Panjoon Pe Chalti Rahi Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mazhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:647462676ae0f355e537

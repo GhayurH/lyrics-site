@@ -1,11 +1,11 @@
 ---
 title: "قید میں وہ جانے والی مر گئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:836db7aff28f850d2325

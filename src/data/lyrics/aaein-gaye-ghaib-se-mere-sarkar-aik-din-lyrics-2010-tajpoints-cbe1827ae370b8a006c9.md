@@ -1,11 +1,11 @@
 ---
 title: "Aaein Gaye Ghaib Se Mere Sarkar Aik Din Lyrics 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallaum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cbe1827ae370b8a006c9

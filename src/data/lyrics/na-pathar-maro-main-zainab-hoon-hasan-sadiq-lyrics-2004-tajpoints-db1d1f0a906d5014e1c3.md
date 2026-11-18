@@ -1,11 +1,11 @@
 ---
 title: "Na Pathar Maro Main Zainab Hoon Hasan Sadiq Lyrics 2004"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:db1d1f0a906d5014e1c3

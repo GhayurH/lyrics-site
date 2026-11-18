@@ -1,11 +1,11 @@
 ---
 title: "Hum Azadar E Hussaini Jiss Jagah Bhi Jaein Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ac3579005348c15c7d33

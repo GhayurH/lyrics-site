@@ -1,11 +1,11 @@
 ---
 title: "Farman E Risalat Ko Bholatey Ho Mosalmaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1bd7eefedbbff7e7a218

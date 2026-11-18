@@ -1,11 +1,11 @@
 ---
 title: "Jalta Hua Darwaza Dr Syed Ali Abbas Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ali"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cc624058c0211d6a23d3

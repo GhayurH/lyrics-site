@@ -1,11 +1,11 @@
 ---
 title: "Chor Kar Duniya Chalay Sajjad Khoon Rote Howay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9be0b63d01517221cdd4

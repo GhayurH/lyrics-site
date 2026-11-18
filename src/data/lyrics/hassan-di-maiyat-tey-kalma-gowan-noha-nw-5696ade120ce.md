@@ -1,6 +1,6 @@
 ---
 title: "Hassan Di Maiyat Tey Kalma Gowan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

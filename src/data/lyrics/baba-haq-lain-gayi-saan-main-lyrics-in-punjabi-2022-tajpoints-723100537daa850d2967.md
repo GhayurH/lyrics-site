@@ -1,11 +1,11 @@
 ---
 title: "Baba Haq Lain Gayi Saan Main Lyrics In Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:723100537daa850d2967

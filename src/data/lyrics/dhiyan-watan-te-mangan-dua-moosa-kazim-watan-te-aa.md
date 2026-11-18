@@ -1,10 +1,10 @@
 ---
 title: "دھیاں وطن تے منگنڑ دعا موسیٰ کاظمؑ وطن تے آ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:371ce33abae0693ba49e

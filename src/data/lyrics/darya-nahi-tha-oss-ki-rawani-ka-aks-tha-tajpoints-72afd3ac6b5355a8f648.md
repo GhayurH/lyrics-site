@@ -1,11 +1,11 @@
 ---
 title: "Darya Nahi Tha Oss Ki Rawani Ka Aks Tha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:72afd3ac6b5355a8f648

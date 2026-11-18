@@ -1,11 +1,11 @@
 ---
 title: "Haye Aise Sham Aai Hai Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8c91fd9e1375e091a6ad

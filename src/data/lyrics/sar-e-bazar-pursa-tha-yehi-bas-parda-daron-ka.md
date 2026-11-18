@@ -1,6 +1,6 @@
 ---
 title: "Sar e Bazar Pursa Tha Yehi Bas Parda Daron Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

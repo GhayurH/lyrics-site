@@ -1,6 +1,6 @@
 ---
 title: "Ye Qaid Mai Ali Akbar Ki Maa Ka Naala Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Alam Abbas Ka Seene Laga Ke Chalte Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naqvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2a0e34ee32da7057afe3

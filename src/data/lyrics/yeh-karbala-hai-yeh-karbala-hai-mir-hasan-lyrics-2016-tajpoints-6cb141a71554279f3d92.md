@@ -1,11 +1,11 @@
 ---
 title: "Yeh Karbala Hai Yeh Karbala Hai Mir Hasan Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6cb141a71554279f3d92

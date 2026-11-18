@@ -1,11 +1,11 @@
 ---
 title: "Tasbeeh-e-Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:04da9685bf5ff1c957b7

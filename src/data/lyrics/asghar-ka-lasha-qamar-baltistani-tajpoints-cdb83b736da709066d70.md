@@ -1,11 +1,11 @@
 ---
 title: "Asghar Ka Lasha Qamar Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cdb83b736da709066d70

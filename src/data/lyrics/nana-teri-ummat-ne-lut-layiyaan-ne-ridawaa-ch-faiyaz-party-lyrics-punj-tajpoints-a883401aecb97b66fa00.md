@@ -1,11 +1,11 @@
 ---
 title: "Nana Teri Ummat Ne Lut Layiyaan Ne Ridawaa Ch Faiyaz Party Lyrics Punjabi 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Amanat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a883401aecb97b66fa00

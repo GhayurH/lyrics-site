@@ -1,11 +1,11 @@
 ---
 title: "Pukarein Sani E Zahra Hussain Tanha Hai Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fe0f31903f4cb2ba5b86

@@ -1,10 +1,10 @@
 ---
 title: "Zahra Tay Kalma Go Nay Shahid Baltistani Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c811410030a4256c007b

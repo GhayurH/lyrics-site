@@ -1,11 +1,11 @@
 ---
 title: "Ali Sher-e-Khuda Haider Haider Mir Hasan Mir Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b7db3172eea1dcdd5170

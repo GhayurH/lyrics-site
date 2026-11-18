@@ -1,11 +1,11 @@
 ---
 title: "Janaza Baap Ka Abbas Raza Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:843d9498f164153c6913

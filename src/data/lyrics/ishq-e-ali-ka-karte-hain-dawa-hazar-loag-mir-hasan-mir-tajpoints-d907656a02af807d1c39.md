@@ -1,11 +1,11 @@
 ---
 title: "Ishq-e-Ali Ka Karte Hain Dawa Hazar Loag Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mukhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d907656a02af807d1c39

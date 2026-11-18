@@ -1,6 +1,6 @@
 ---
 title: "Ik Din Mein Fatima Ka Bhara Ghar Ujar Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

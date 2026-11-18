@@ -1,10 +1,10 @@
 ---
 title: "صادقِ آلِ محمدؑ پر ستم ایسا ہوا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a2a4fdb30af774fcbbaf

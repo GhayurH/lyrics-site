@@ -1,11 +1,11 @@
 ---
 title: "Shaam Hoi Haye Sughra Pareshan Udeekay Lyrics 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:441145dcc80390e5b8fa

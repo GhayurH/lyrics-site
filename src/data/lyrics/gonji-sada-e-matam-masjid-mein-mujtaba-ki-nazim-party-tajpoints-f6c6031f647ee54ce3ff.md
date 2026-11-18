@@ -1,11 +1,11 @@
 ---
 title: "Gonji Sada E Matam Masjid Mein Mujtaba Ki Nazim Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f6c6031f647ee54ce3ff

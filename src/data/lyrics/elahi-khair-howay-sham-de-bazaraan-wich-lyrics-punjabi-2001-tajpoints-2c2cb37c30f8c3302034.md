@@ -1,11 +1,11 @@
 ---
 title: "Elahi Khair Howay Sham De Bazaraan Wich Lyrics Punjabi 2001"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2c2cb37c30f8c3302034

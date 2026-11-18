@@ -1,11 +1,11 @@
 ---
 title: "Matam Mein Uth Rahe Hain Jo Yeh Hath Bar Bar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:84cde21ddbb68c36164c

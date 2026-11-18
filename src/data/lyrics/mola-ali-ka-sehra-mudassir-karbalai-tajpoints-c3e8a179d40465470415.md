@@ -1,11 +1,11 @@
 ---
 title: "Mola Ali Ka Sehra Mudassir Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nasim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c3e8a179d40465470415

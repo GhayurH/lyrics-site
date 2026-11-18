@@ -1,11 +1,11 @@
 ---
 title: "Mustafa Ki Jo Yeh Nokari Hai Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Farhan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ade95cff1d25723f8e97

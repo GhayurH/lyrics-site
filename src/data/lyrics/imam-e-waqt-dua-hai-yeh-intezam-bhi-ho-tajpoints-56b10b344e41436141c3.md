@@ -1,11 +1,11 @@
 ---
 title: "Imam-e-Waqt Dua Hai Yeh Intezam Bhi Ho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:56b10b344e41436141c3

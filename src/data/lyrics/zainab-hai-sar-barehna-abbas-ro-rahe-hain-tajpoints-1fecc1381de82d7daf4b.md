@@ -1,11 +1,11 @@
 ---
 title: "Zainab Hai Sar Barehna Abbas Ro Rahe Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1fecc1381de82d7daf4b

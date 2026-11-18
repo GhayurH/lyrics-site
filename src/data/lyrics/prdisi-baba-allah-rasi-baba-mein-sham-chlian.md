@@ -1,11 +1,11 @@
 ---
 title: "پردیسی بابا اللہ راسی بابا میں شام چلیاں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Safdar Abbas"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6adeae29f500dca96eaf

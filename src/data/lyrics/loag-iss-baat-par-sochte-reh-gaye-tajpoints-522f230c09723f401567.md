@@ -1,11 +1,11 @@
 ---
 title: "Loag Iss Baat Par Sochte Reh Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:522f230c09723f401567

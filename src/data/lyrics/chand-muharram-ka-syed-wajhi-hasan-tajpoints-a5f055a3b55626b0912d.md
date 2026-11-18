@@ -1,10 +1,10 @@
 ---
 title: "Chand Muharram Ka Syed Wajhi Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a5f055a3b55626b0912d

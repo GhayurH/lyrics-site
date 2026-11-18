@@ -1,11 +1,11 @@
 ---
 title: "Karbala Thikana Hay Shahid Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37230935fb8fc1d74c65

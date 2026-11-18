@@ -1,7 +1,7 @@
 ---
 title: "ہے طوقِ گراں زیبِ گلو پاؤں میں زنجیر"
 alternateTitle: "Hai Tauq-e-Giraan Zaib-e-Gulu Paaon Mein Zanjeer"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

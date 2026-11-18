@@ -1,6 +1,6 @@
 ---
 title: "Hassan De Chan Di Mehndi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

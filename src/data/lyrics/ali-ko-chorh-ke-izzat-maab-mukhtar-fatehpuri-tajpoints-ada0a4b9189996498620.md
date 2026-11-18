@@ -1,11 +1,11 @@
 ---
 title: "Ali Ko Chorh Ke Izzat Maab Mukhtar Fatehpuri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Bilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ada0a4b9189996498620

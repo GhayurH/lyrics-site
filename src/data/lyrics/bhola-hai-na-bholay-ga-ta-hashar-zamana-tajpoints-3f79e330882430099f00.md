@@ -1,6 +1,6 @@
 ---
 title: "Bhoola Hai Na Bhoolega Ta Hashr Zamaana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

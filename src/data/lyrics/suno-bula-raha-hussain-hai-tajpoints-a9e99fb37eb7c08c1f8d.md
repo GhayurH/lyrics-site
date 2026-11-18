@@ -1,10 +1,10 @@
 ---
 title: "Suno Bula Raha Hussain Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a9e99fb37eb7c08c1f8d

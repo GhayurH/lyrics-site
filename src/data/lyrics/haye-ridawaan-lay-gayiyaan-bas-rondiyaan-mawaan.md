@@ -1,6 +1,6 @@
 ---
 title: "Haye Ridawaan Lay Gayiyaan Bas Rondiyaan Mawaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

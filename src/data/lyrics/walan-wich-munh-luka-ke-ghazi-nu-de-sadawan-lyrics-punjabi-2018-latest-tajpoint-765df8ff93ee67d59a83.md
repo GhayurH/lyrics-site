@@ -1,10 +1,10 @@
 ---
 title: "Walan Wich Munh Luka Ke Ghazi Nu De Sadawan Lyrics Punjabi 2018 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:765df8ff93ee67d59a83

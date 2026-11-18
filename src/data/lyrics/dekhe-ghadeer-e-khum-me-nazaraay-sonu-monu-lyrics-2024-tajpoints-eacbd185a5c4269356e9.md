@@ -1,11 +1,11 @@
 ---
 title: "Dekhe Ghadeer E Khum Me Nazaraay Sonu Monu Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Kashif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eacbd185a5c4269356e9

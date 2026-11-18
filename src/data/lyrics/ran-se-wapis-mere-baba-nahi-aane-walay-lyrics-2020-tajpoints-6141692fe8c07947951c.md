@@ -1,11 +1,11 @@
 ---
 title: "Ran Se Wapis Mere Baba Nahi Aane Walay Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6141692fe8c07947951c

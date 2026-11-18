@@ -1,11 +1,11 @@
 ---
 title: "Mehndiyaan Waliyaan Hathaan Te Rasiyaan Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:309dcf1179578d5ca4a2

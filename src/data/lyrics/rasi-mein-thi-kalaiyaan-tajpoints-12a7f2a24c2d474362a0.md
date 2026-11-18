@@ -1,11 +1,11 @@
 ---
 title: "Rasi Mein Thi Kalaiyaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mukhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:12a7f2a24c2d474362a0

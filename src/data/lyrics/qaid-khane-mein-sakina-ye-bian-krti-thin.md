@@ -1,11 +1,11 @@
 ---
 title: "قید خانے میں سکینہؑ یہ بیاں کرتی تھیں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a27a3e1b0bcaf5ff4020

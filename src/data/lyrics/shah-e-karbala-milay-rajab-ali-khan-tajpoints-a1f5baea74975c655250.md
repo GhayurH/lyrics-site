@@ -1,11 +1,11 @@
 ---
 title: "Shah-e-Karbala Milay Rajab Ali Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a1f5baea74975c655250

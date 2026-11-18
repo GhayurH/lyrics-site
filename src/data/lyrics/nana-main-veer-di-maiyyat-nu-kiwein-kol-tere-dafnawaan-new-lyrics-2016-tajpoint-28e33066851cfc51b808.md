@@ -1,10 +1,10 @@
 ---
 title: "Nana Main Veer Di Maiyyat Nu Kiwein Kol Tere Dafnawaan New Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:28e33066851cfc51b808

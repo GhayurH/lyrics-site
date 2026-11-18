@@ -1,11 +1,11 @@
 ---
 title: "Haye Deway Jala Ke Wichari Sughra Kare Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:767415babd1298adc435

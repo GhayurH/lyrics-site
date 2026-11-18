@@ -1,11 +1,11 @@
 ---
 title: "Allaho Akbar Fatima Karbalai Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Naqsh"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:75df1fcb1688884bc775

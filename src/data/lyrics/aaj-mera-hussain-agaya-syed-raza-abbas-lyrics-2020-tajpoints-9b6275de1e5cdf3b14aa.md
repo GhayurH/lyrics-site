@@ -1,11 +1,11 @@
 ---
 title: "Aaj Mera Hussain Agaya Syed Raza Abbas Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9b6275de1e5cdf3b14aa

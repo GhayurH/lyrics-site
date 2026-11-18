@@ -1,11 +1,11 @@
 ---
 title: "Masooma E Qum Ky Leay Syed Qamar Abbas Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sohail"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2424b992aa9bc13e384a

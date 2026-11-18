@@ -1,6 +1,6 @@
 ---
 title: "Armaan Tha Sehre Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

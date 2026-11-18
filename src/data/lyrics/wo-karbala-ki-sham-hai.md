@@ -1,10 +1,10 @@
 ---
 title: "وہ کربلا کی شام ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:87e35ce796bde8eb0bc1

@@ -1,11 +1,11 @@
 ---
 title: "Zainab Da Baba Kofay Wich Piya Ro Ke Aye Farmaway Lyrics New Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:48a3762529e8198af757

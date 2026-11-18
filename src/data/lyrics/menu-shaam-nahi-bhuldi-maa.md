@@ -1,6 +1,6 @@
 ---
 title: "Menu Shaam Nahi Bhuldi Maa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

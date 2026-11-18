@@ -1,11 +1,11 @@
 ---
 title: "Quran E Mustafa Ki Haqeeqat Hain Fatima Lyrics 2008"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ef99b9cd3bdf1f67d699

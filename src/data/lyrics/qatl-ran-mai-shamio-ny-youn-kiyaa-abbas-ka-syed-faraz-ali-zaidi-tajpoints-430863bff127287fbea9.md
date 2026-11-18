@@ -1,11 +1,11 @@
 ---
 title: "Qatl Ran Mai Shamio Ny Youn Kiyaa Abbas Ka Syed Faraz Ali Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:430863bff127287fbea9

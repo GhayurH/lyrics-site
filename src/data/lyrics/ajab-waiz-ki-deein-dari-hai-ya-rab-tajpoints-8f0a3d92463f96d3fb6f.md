@@ -1,10 +1,10 @@
 ---
 title: "Ajab Waiz Ki Deein Dari Hai Ya Rab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8f0a3d92463f96d3fb6f

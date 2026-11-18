@@ -1,11 +1,11 @@
 ---
 title: "Turbat Pe Fatima Ki Mehdi Ka Yeh Noha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:11f44e89091855efbf6d

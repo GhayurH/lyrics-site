@@ -1,10 +1,10 @@
 ---
 title: "زینبؑ تیرے درداں توں یہ حال ہو گیا اے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:557f5d48ce883b5511b2

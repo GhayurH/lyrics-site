@@ -1,11 +1,11 @@
 ---
 title: "Kaisay Phir Oss Hussain Pe Salle Ala Na Ho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:617513a12b01d9040388

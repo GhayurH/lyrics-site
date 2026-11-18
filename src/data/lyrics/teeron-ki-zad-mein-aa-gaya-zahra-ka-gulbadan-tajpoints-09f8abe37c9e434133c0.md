@@ -1,11 +1,11 @@
 ---
 title: "Teeron Ki Zad Mein Aa Gaya Zahra Ka Gulbadan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ameer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:09f8abe37c9e434133c0

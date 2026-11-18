@@ -1,11 +1,11 @@
 ---
 title: "Mil Gayi Tujh Ko Khudai Ya Ali Kehnay Kay Bad Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fdbe48e239ee9d2befd3

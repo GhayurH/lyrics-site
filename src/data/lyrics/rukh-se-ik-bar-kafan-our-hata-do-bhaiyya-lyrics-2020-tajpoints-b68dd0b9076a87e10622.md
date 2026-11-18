@@ -1,10 +1,10 @@
 ---
 title: "Rukh Se Ik Bar Kafan Our Hata Do Bhaiyya Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b68dd0b9076a87e10622

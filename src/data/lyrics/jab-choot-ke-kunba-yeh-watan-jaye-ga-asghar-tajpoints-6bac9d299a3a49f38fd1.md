@@ -1,11 +1,11 @@
 ---
 title: "Jab Choot Ke Kunba Yeh Watan Jaye Ga Asghar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shahi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6bac9d299a3a49f38fd1

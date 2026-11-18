@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Sham Dai Lokan Meri Lut Layi Pak Rida Asghar Khan Lyrics Punjabi 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2cfe40118974250915e3

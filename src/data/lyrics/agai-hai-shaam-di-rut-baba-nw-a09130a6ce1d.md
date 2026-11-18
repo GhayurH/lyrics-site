@@ -1,6 +1,6 @@
 ---
 title: "Agai Hai Shaam Di Rut Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

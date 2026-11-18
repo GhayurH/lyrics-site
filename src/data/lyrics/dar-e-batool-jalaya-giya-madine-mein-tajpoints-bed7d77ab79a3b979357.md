@@ -1,11 +1,11 @@
 ---
 title: "Dar-e-Batool Jalaya Giya Madine Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bed7d77ab79a3b979357

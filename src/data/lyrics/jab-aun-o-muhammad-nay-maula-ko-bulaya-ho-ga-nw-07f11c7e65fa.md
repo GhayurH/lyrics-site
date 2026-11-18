@@ -1,6 +1,6 @@
 ---
 title: "Jab Aun O Muhammad Nay Maula Ko Bulaya Ho Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

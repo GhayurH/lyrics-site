@@ -1,6 +1,6 @@
 ---
 title: "Jere Puttar Kun Dekh Na Rajda Han"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

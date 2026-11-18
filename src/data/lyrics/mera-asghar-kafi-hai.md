@@ -1,10 +1,10 @@
 ---
 title: "میرا اصغرؑ کافی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5e8409c19f9b1537c875

@@ -1,6 +1,6 @@
 ---
 title: "Main Kalla Reh Gaya Akber Mera Jag Tey Reya Koi Nai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

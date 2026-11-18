@@ -1,11 +1,11 @@
 ---
 title: "Subh-e-Ashoor Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b4a35a8ddc5f2d4600d6

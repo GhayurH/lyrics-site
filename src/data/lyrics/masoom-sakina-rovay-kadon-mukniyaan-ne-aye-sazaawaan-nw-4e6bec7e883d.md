@@ -1,6 +1,6 @@
 ---
 title: "Masoom Sakina Rovay Kadon Mukniyaan Ne Aye Sazaawaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

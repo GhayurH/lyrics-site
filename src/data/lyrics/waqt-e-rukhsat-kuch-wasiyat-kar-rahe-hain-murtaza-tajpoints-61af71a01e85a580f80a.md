@@ -1,11 +1,11 @@
 ---
 title: "Waqt E Rukhsat Kuch Wasiyat Kar Rahe Hain Murtaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:61af71a01e85a580f80a

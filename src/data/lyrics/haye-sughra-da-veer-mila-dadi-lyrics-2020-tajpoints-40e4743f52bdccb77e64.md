@@ -1,11 +1,11 @@
 ---
 title: "Haye Sughra Da Veer Mila Dadi Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:40e4743f52bdccb77e64

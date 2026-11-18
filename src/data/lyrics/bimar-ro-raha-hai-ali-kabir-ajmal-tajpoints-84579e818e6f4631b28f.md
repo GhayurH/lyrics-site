@@ -1,11 +1,11 @@
 ---
 title: "Bimar Ro Raha Hai Ali Kabir Ajmal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ajmal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:84579e818e6f4631b28f

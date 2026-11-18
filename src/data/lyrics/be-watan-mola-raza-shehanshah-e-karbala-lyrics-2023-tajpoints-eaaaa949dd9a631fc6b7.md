@@ -1,11 +1,11 @@
 ---
 title: "Be Watan Mola Raza Shehanshah E Karbala Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eaaaa949dd9a631fc6b7

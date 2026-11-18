@@ -1,10 +1,10 @@
 ---
 title: "خنجر قریب زانوئے قاتل قریب ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:9800df70a9122b5d2c8e

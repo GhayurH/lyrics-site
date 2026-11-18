@@ -1,7 +1,7 @@
 ---
 title: "Band Akhiyaan Kar Na, Kehway Bhain Teri"
 alternateTitle: "Ae Shaam Ban Gayi Maqtal Hai Meri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

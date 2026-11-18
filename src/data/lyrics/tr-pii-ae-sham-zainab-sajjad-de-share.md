@@ -1,11 +1,11 @@
 ---
 title: "ٹر پئی اے شام زینب سجاد دے سہارے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:96afc7c9ca9bc9a4b7c9

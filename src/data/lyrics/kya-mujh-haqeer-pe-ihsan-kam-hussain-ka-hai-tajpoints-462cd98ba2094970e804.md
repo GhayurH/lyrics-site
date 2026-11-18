@@ -1,11 +1,11 @@
 ---
 title: "Kya Mujh Haqeer Pe Ihsan Kam Hussain Ka Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:462cd98ba2094970e804

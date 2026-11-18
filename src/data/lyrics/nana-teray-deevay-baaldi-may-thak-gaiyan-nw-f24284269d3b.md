@@ -1,6 +1,6 @@
 ---
 title: "Nana Teray Deevay Baaldi May Thak Gaiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

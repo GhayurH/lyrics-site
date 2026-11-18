@@ -1,6 +1,6 @@
 ---
 title: "Bariyan Pehne Huey Qafila Salaar Chala, Hy Beemar Chala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

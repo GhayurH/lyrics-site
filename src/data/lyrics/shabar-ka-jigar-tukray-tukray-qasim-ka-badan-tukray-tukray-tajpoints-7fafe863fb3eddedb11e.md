@@ -1,11 +1,11 @@
 ---
 title: "Shabar Ka Jigar Tukray Tukray Qasim Ka Badan Tukray Tukray"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7fafe863fb3eddedb11e

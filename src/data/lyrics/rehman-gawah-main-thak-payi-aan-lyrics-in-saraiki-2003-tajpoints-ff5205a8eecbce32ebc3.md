@@ -1,10 +1,10 @@
 ---
 title: "Rehman Gawah Main Thak Payi Aan Lyrics In Saraiki 2003"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ff5205a8eecbce32ebc3

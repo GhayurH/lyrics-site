@@ -1,11 +1,11 @@
 ---
 title: "Sajda Ik Aisa Karb O Bala Mein Ada Howa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9f5d286ce9f54deebb89

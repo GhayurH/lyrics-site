@@ -1,6 +1,6 @@
 ---
 title: "Ghar Jalaya Gaya Hai Jafar Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

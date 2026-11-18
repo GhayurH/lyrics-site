@@ -1,11 +1,11 @@
 ---
 title: "میں دے رہی ہوں تجھے دشت میں صدا غازیؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Mukhtar Ali Shedi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:352e99a26e6a3e836482

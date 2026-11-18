@@ -1,11 +1,11 @@
 ---
 title: "Har Taraf Ya Ali Hamza Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b7251e41c219189d4c09

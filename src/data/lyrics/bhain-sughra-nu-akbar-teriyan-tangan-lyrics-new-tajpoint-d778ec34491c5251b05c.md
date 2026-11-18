@@ -1,11 +1,11 @@
 ---
 title: "Bhain Sughra Nu Akbar Teriyan Tangan Lyrics New"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:d778ec34491c5251b05c

@@ -1,11 +1,11 @@
 ---
 title: "Zakhm Chupati Hay Fatima Syed Hamza Rizvi Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f0d0b944a0b0cbc4e759

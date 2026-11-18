@@ -1,11 +1,11 @@
 ---
 title: "Bharay Darbar Mein Bulaya Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:14926c30657a50d1e1a0

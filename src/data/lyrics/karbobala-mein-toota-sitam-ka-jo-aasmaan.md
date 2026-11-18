@@ -1,6 +1,6 @@
 ---
 title: "Karbobala Mein Toota Sitam Ka Jo Aasmaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

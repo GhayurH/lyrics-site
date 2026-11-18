@@ -1,11 +1,11 @@
 ---
 title: "Jashn Zahra Ka Jab Manatay Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5a405ec7709c76870a00

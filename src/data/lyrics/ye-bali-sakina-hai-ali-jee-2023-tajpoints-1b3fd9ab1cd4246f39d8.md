@@ -1,10 +1,10 @@
 ---
 title: "Ye Bali Sakina Hai Ali Jee 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1b3fd9ab1cd4246f39d8

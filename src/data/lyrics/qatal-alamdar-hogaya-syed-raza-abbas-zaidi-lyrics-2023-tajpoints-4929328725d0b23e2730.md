@@ -1,11 +1,11 @@
 ---
 title: "Qatal Alamdar Hogaya Syed Raza Abbas Zaidi Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4929328725d0b23e2730

@@ -1,6 +1,6 @@
 ---
 title: "Aaj Koofay may hay kohram Ali haey Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

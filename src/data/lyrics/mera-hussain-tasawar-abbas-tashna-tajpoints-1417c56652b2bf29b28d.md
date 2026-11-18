@@ -1,11 +1,11 @@
 ---
 title: "Mera Hussain Tasawar Abbas Tashna"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1417c56652b2bf29b28d

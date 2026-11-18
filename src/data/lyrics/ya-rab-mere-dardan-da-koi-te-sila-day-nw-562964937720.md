@@ -1,6 +1,6 @@
 ---
 title: "Ya Rab Mere Dardan Da Koi Te Sila Day"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

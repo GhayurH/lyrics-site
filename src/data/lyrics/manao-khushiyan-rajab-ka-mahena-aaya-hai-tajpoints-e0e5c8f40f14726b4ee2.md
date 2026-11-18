@@ -1,11 +1,11 @@
 ---
 title: "Manao Khushiyan Rajab Ka Mahena Aaya Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e0e5c8f40f14726b4ee2

@@ -1,10 +1,10 @@
 ---
 title: "Yeh Hum Jo Hijar Mein Dewar-o-Dar Ko Dekhte Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:31f475c449a876fd8d6d

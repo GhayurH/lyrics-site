@@ -1,11 +1,11 @@
 ---
 title: "Baba Ik Baat Main Ab Tak Na Samaj Payi Hoon Lyrics Latest In Urdu 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Salamat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:9e01cd0bfbdcb80f68e6

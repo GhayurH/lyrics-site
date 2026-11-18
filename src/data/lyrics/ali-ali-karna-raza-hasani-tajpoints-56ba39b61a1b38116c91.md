@@ -1,11 +1,11 @@
 ---
 title: "Ali Ali Karna Raza Hasani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:56ba39b61a1b38116c91

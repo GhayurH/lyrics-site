@@ -1,11 +1,11 @@
 ---
 title: "Allah Teri Dunya Mein Pareshan Hai Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:214493fc2d902a636e5a

@@ -1,11 +1,11 @@
 ---
 title: "Badan Sy Nok E Naiza Tak Kazmi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahsan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9b7985e329055e1d0e12

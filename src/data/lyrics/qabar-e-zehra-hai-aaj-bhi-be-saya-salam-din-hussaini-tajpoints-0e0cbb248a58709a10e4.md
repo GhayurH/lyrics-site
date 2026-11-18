@@ -1,11 +1,11 @@
 ---
 title: "Qabar E Zehra Hai Aaj Bhi Be Saya Salam Din Hussaini"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0e0cbb248a58709a10e4

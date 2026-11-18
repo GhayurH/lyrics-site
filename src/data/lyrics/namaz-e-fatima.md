@@ -1,6 +1,6 @@
 ---
 title: "Namaz-e-Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

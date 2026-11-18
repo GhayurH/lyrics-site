@@ -1,11 +1,11 @@
 ---
 title: "Shah E Aman Da Janaza Jadoon Veraan Chaya Lyrics 2012 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:e7cf24031b5758f6435f

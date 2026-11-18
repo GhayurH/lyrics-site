@@ -1,10 +1,10 @@
 ---
 title: "رہے گا اب صدا حسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0f43eb4c3d7f415bc481

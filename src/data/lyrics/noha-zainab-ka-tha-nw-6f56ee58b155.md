@@ -1,6 +1,6 @@
 ---
 title: "Noha Zainab Ka Tha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

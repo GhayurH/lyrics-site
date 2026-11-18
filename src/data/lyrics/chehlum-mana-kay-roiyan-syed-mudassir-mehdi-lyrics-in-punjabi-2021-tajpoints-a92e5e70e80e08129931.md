@@ -1,11 +1,11 @@
 ---
 title: "Chehlum Mana Kay Roiyan Syed Mudassir Mehdi Lyrics In Punjabi 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a92e5e70e80e08129931

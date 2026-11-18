@@ -1,11 +1,11 @@
 ---
 title: "Kazim Diyaan Dhiyaan Wain Karan Sun Haal E Maiyat Aye Lyrics Punjabi 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:071947d75b3c49f89c3e

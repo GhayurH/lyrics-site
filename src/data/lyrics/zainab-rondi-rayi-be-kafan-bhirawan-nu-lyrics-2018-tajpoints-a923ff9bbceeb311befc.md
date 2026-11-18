@@ -1,11 +1,11 @@
 ---
 title: "Zainab Rondi Rayi Be Kafan Bhirawan Nu Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a923ff9bbceeb311befc

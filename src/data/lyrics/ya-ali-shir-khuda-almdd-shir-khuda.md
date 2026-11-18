@@ -1,10 +1,10 @@
 ---
 title: "یا علیؑ شیرِ خدا المدد شیرِ خداؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:701fd95e7db0c713ae5f

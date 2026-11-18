@@ -1,11 +1,11 @@
 ---
 title: "Nikla Hai Tera Ghar Se Do Baar Janaza Haye Hasan Mula"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farhan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f90dace7cfeb3fa36b98

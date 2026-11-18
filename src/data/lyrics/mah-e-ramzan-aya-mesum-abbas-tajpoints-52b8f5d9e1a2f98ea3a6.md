@@ -1,11 +1,11 @@
 ---
 title: "Mah-e-Ramzan Aya Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:52b8f5d9e1a2f98ea3a6

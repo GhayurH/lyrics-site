@@ -1,11 +1,11 @@
 ---
 title: "Ghar Rab Da Aye Wich Mera Maula Aaya Aye Lyrics Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Qasida"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eda9741b68bef60d3e30

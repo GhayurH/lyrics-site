@@ -1,11 +1,11 @@
 ---
 title: "Yaad Aayi Fatima Ki Khurram Murtaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a19e42d15e32838f8750

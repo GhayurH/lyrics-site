@@ -1,11 +1,11 @@
 ---
 title: "Wichoray Pa Ke Nahi Aaya Roway Bhain Akbar Lyrics In Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:34866392b4d4b4ae5fc9

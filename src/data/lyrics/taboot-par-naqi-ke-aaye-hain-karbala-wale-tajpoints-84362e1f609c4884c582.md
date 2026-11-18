@@ -1,11 +1,11 @@
 ---
 title: "Taboot Par Naqi Ke Aaye Hain Karbala Wale"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shahbaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:84362e1f609c4884c582

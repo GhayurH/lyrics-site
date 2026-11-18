@@ -1,11 +1,11 @@
 ---
 title: "Mohtaj-e-Lafziyaat Na Tha Zikar-e-Panjtan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ashhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0494789049b887429ac7

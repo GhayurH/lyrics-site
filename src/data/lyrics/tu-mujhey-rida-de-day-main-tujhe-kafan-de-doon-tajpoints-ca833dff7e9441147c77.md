@@ -1,10 +1,10 @@
 ---
 title: "Tu Mujhey Rida De Day Main Tujhe Kafan De Doon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ca833dff7e9441147c77

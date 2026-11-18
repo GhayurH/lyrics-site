@@ -1,11 +1,11 @@
 ---
 title: "میں انتقام لوں گا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Ali Safdar Rizvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8bec9d84075536c73880

@@ -1,11 +1,11 @@
 ---
 title: "Kissi Mein Dam Nahi Itna Sar-e-Shehar-e-Sitam Nikle"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Baqi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f1e89f3d017d408d42b0

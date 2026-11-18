@@ -1,10 +1,10 @@
 ---
 title: "سجادؑ تے سکینہ زینبؑ تیرے حوالے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:9b293e6543161e600b4d

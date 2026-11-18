@@ -1,6 +1,6 @@
 ---
 title: "Karbala Karbala Karbala Aagayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

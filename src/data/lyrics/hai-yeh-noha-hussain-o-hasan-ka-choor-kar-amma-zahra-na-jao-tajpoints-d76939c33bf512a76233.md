@@ -1,11 +1,11 @@
 ---
 title: "Hai Yeh Noha Hussain O Hasan Ka Choor Kar Amma Zahra Na Jao"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Kami"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d76939c33bf512a76233

@@ -1,6 +1,6 @@
 ---
 title: "Sughra Ko Rulata Hai Ye Chand Muharram Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

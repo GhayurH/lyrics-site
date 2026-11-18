@@ -1,10 +1,10 @@
 ---
 title: "اے فاطمہ صغراؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:20fa94c8fc806c8c17ef

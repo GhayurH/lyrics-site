@@ -1,11 +1,11 @@
 ---
 title: "Hain Dar-e-Haider Pe Salman Our Qanbar Aik Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:34abf854cfc37b8d1a54

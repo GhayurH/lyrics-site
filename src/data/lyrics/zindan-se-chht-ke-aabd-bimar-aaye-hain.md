@@ -1,11 +1,11 @@
 ---
 title: "زنداں سے چھٹ کے عابدِ بیمارؑ آئے ہیں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Farhan Ali"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5b93951f56881bbc8a5c

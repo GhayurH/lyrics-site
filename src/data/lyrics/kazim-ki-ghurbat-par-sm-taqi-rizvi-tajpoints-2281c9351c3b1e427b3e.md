@@ -1,11 +1,11 @@
 ---
 title: "Kazim Ki Ghurbat Par SM Taqi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2281c9351c3b1e427b3e

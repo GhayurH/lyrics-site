@@ -1,11 +1,11 @@
 ---
 title: "Main Faqeer Hoon Main Malang Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Havi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ff4b0abfb3af8be44233

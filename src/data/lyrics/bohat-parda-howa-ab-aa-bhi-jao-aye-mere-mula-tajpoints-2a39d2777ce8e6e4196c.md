@@ -1,11 +1,11 @@
 ---
 title: "Bohat Parda Howa Ab Aa Bhi Jao Aye Mere Mula"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2a39d2777ce8e6e4196c

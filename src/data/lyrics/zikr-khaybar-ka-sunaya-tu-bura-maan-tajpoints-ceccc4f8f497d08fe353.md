@@ -1,11 +1,11 @@
 ---
 title: "Zikr Khaybar Ka Sunaya Tu Bura Maan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ceccc4f8f497d08fe353

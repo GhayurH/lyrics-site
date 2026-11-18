@@ -1,11 +1,11 @@
 ---
 title: "Qasim Banra Shadi Tedi Bilawal Ali Hussaini Lyrics In Saraiki 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Johar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6c4f31babb96c7f4a9b1

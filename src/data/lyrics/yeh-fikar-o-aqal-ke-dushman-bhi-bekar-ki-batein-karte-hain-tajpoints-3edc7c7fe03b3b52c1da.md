@@ -1,11 +1,11 @@
 ---
 title: "Yeh Fikar-o-Aqal Ke Dushman Bhi Bekar Ki Batein Karte Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3edc7c7fe03b3b52c1da

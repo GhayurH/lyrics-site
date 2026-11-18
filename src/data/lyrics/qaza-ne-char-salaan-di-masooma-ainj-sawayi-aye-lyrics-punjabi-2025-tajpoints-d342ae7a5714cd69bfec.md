@@ -1,11 +1,11 @@
 ---
 title: "Qaza Ne Char Salaan Di Masooma Ainj Sawayi Aye Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d342ae7a5714cd69bfec

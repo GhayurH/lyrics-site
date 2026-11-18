@@ -1,11 +1,11 @@
 ---
 title: "Kafan Ab Chor Do Zainab Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dcfdbdeee77662b77b3f

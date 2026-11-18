@@ -1,10 +1,10 @@
 ---
 title: "نانا وعدہ میں زینبؑ دا اوکھے وقت"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:fabb545e9e0be14a513c

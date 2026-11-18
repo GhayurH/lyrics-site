@@ -1,6 +1,6 @@
 ---
 title: "Shah Bhen Day Saamnay Ro Ro"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

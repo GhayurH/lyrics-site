@@ -1,11 +1,11 @@
 ---
 title: "Muntazir Hain Aap Ke Ghulam Al Ajal Imam Mir Hasan Mir Lyrics 2006"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a2670f0783df21e8df7e

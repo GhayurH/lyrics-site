@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Nu Denday Ne Sajjad Ashraf Taqvi Lyrics In Punjabi 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sardar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ade680a358b514232eca

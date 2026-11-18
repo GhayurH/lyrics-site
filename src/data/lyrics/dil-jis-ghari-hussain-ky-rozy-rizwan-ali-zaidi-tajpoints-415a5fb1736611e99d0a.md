@@ -1,11 +1,11 @@
 ---
 title: "Dil Jis Ghari Hussain Ky Rozy Rizwan Ali Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:415a5fb1736611e99d0a

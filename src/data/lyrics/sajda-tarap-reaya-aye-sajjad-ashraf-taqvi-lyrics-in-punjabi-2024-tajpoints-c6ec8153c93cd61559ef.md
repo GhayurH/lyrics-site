@@ -1,11 +1,11 @@
 ---
 title: "Sajda Tarap Reaya Aye Sajjad Ashraf Taqvi Lyrics In Punjabi 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naveed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c6ec8153c93cd61559ef

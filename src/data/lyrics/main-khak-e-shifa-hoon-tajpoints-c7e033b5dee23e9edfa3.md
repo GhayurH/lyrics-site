@@ -1,11 +1,11 @@
 ---
 title: "Main Khak-e-Shifa Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c7e033b5dee23e9edfa3

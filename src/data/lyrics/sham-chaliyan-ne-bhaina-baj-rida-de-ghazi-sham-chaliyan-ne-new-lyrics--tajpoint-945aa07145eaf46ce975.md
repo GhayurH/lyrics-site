@@ -1,11 +1,11 @@
 ---
 title: "Sham Chaliyan Ne Bhaina Baj Rida De Ghazi Sham Chaliyan Ne New Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:945aa07145eaf46ce975

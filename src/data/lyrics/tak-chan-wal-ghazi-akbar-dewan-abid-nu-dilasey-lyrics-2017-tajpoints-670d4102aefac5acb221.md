@@ -1,11 +1,11 @@
 ---
 title: "Tak Chan Wal Ghazi Akbar Dewan Abid Nu Dilasey Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:670d4102aefac5acb221

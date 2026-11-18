@@ -1,11 +1,11 @@
 ---
 title: "Paish-e-Rab Nazar Aayi Oss Ki Zaat Sajday Mein Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b203b6fdc210a6b08157

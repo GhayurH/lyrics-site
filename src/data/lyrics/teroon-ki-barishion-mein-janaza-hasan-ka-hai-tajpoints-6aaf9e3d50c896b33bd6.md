@@ -1,10 +1,10 @@
 ---
 title: "Teroon Ki Barishion Mein Janaza Hasan Ka Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6aaf9e3d50c896b33bd6

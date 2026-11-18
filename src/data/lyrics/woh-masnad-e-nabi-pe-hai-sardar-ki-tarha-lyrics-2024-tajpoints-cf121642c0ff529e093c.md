@@ -1,11 +1,11 @@
 ---
 title: "Woh Masnad E Nabi Pe Hai Sardar Ki Tarha Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cf121642c0ff529e093c

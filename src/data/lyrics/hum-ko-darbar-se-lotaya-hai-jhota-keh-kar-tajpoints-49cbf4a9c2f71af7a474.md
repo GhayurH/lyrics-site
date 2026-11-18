@@ -1,11 +1,11 @@
 ---
 title: "Hum Ko Darbar Se Lotaya Hai Jhota Keh Kar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:49cbf4a9c2f71af7a474

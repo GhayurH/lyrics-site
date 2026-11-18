@@ -1,10 +1,10 @@
 ---
 title: "ہائے حسن عسکریؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:449b68099ea7d68d37c7

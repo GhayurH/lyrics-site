@@ -1,11 +1,11 @@
 ---
 title: "Sitaron Ki Chamak Mein Hai Zia-e-Jafar Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:029fed6dde1c4fe353ba

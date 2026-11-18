@@ -1,6 +1,6 @@
 ---
 title: "Daman Sakina Choro, Wo Guzar Gaya Zamana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

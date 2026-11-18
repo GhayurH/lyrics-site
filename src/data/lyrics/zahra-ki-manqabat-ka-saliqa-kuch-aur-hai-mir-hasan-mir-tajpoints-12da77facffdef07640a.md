@@ -1,11 +1,11 @@
 ---
 title: "Zahra Ki Manqabat Ka Saliqa Kuch Aur Hai Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:12da77facffdef07640a

@@ -1,11 +1,11 @@
 ---
 title: "Bait-e-Ali Raza Mein Taqi Ka Zahoor Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5b72081186898bbde7c9

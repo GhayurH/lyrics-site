@@ -1,11 +1,11 @@
 ---
 title: "Muslim Jo Qatal Ho Gaye Kofe Ki Rah Mein Rehan Azmi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1f35c8a5f123ede286cc

@@ -1,6 +1,6 @@
 ---
 title: "Churwa Do Humein Gham Se Yehi Waqt-e-Karam Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

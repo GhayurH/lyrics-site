@@ -1,11 +1,11 @@
 ---
 title: "Uth Wikh Chalyan Main Sham Ghazi Danish Ali Hashmi Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37d6f2abf94cba54a323

@@ -1,11 +1,11 @@
 ---
 title: "Asghar Teri Kahani SM Taqi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a527cee7d8eb1b1a0e2e

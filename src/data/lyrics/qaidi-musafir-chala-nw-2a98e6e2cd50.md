@@ -1,6 +1,6 @@
 ---
 title: "Qaidi Musafir Chala, Rezgaaro Ko Paani Pilaata"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

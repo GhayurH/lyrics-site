@@ -1,11 +1,11 @@
 ---
 title: "Kaba Mein Ja Raha Tu Na Do Tana Kiya Kahin"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:118d140321b6bdb9ff81

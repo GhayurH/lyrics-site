@@ -1,11 +1,11 @@
 ---
 title: "Mere Maula Karam Ho Karam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Munawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b69fbc3f86e39cd8496d

@@ -1,11 +1,11 @@
 ---
 title: "Hussain Apka Chelum Syed Abbas Raza Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asmee"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6b888c9296fb71531e8e

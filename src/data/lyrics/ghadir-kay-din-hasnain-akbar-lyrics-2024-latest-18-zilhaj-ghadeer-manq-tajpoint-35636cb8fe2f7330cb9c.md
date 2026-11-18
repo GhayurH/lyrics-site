@@ -1,11 +1,11 @@
 ---
 title: "Ghadir Kay Din Hasnain Akbar Lyrics 2024 Latest 18 Zilhaj Ghadeer Manqabat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:35636cb8fe2f7330cb9c

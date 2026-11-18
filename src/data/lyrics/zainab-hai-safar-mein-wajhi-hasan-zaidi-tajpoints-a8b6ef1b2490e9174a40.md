@@ -1,10 +1,10 @@
 ---
 title: "Zainab Hai Safar Mein Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a8b6ef1b2490e9174a40

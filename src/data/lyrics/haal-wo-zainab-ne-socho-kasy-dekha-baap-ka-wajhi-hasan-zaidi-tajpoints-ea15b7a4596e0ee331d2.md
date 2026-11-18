@@ -1,11 +1,11 @@
 ---
 title: "Haal Wo Zainab Ne Socho Kasy Dekha Baap Ka Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jary"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ea15b7a4596e0ee331d2

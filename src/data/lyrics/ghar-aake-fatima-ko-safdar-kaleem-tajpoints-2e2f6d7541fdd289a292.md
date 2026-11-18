@@ -1,11 +1,11 @@
 ---
 title: "Ghar Aake Fatima Ko Safdar Kaleem"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2e2f6d7541fdd289a292

@@ -1,11 +1,11 @@
 ---
 title: "Sakina Zindaan Ky Andhery Mein Sibtain Haider 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Alvi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:622421230fd92f43c54b

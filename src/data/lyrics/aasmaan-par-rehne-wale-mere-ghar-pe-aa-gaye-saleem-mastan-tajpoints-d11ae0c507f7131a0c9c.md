@@ -1,11 +1,11 @@
 ---
 title: "Aasmaan Par Rehne Wale Mere Ghar Pe Aa Gaye Saleem Mastan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Fazil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d11ae0c507f7131a0c9c

@@ -1,11 +1,11 @@
 ---
 title: "Lash Bhai Ki Na Bhai Ko Khuda Dikhlaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4be9afd72fd6e0ce271a

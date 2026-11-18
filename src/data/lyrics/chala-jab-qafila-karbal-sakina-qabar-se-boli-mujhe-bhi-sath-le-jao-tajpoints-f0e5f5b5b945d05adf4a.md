@@ -1,11 +1,11 @@
 ---
 title: "Chala Jab Qafila Karbal Sakina Qabar Se Boli Mujhe Bhi Sath Le Jao"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f0e5f5b5b945d05adf4a

@@ -1,11 +1,11 @@
 ---
 title: "Aey Baba Mera Ghar Jalaya Gaya Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sarwar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:626eeb9cb4794132a76a

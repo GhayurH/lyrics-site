@@ -1,11 +1,11 @@
 ---
 title: "Alamdar Ho Kahan Faheem Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bb3e9cd3db1093d15e5b

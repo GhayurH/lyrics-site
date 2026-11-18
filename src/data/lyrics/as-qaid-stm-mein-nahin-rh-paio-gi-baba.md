@@ -1,10 +1,10 @@
 ---
 title: "اس قید ستم میں نہیں رہ پائو گی بابا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cac9b00e8de83bb6e1fd

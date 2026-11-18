@@ -1,11 +1,11 @@
 ---
 title: "Suno Sehra Ali Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dd0f02a265e8d70a4a70

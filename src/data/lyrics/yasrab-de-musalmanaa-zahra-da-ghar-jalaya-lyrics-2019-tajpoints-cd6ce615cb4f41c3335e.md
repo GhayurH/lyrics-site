@@ -1,11 +1,11 @@
 ---
 title: "Yasrab De Musalmanaa Zahra Da Ghar Jalaya Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cd6ce615cb4f41c3335e

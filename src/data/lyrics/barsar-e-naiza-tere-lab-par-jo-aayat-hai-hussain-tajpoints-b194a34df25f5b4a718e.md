@@ -1,11 +1,11 @@
 ---
 title: "Barsar-e-Naiza Tere Lab Par Jo Aayat Hai Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shahi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b194a34df25f5b4a718e

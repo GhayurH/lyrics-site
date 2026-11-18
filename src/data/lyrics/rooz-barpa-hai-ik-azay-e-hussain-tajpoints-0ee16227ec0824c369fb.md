@@ -1,11 +1,11 @@
 ---
 title: "Rooz Barpa Hai Ik Azay-e-Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0ee16227ec0824c369fb

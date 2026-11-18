@@ -1,11 +1,11 @@
 ---
 title: "Neza Sawar Bhai Aisay Quran Parh"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:153b05d91990a2e388fb

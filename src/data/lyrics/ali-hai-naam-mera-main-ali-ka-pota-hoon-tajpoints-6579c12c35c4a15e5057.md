@@ -1,11 +1,11 @@
 ---
 title: "Ali Hai Naam Mera Main Ali Ka Pota Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6579c12c35c4a15e5057

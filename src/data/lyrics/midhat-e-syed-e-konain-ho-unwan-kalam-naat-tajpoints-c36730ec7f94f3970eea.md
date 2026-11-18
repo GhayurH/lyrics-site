@@ -1,11 +1,11 @@
 ---
 title: "Midhat E Syed E Konain Ho Unwan Kalam Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c36730ec7f94f3970eea

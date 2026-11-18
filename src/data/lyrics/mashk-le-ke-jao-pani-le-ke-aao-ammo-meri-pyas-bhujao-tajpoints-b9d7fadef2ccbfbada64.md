@@ -1,11 +1,11 @@
 ---
 title: "Mashk Le Ke Jao Pani Le Ke Aao Ammo Meri Pyas Bhujao"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Faheem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b9d7fadef2ccbfbada64

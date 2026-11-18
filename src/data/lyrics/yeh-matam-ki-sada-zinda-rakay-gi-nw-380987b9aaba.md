@@ -1,6 +1,6 @@
 ---
 title: "Yeh Matam Ki Sada Zinda Rakay Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

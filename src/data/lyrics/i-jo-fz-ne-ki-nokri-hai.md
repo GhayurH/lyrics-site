@@ -1,11 +1,11 @@
 ---
 title: "یه جو فضه نے کی نوکری ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ef40c393d75dcad04ba8

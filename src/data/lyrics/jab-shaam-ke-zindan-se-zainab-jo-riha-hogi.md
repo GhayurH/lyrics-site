@@ -1,10 +1,10 @@
 ---
 title: "جب شام کے زنداں سے زینبؑ جو رہا ہو گی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:148245f13b72a8da08fc

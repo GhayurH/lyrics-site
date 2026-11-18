@@ -1,11 +1,11 @@
 ---
 title: "Ya Ali Medi Maiyyat Utay Meda Haq Khawanr Walay Na Aawan Lyrics Saraiki 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qurban"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a694838314209781c947

@@ -1,11 +1,11 @@
 ---
 title: "Jab Kabhi Pani Haram Ke Rubaru Abuzar Jaffri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Eesaar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cc114d5796911496a86a

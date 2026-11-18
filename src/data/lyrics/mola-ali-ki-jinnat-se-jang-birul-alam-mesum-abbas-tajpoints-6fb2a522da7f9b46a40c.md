@@ -1,11 +1,11 @@
 ---
 title: "Mola Ali Ki Jinnat Se Jang Birul Alam Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6fb2a522da7f9b46a40c

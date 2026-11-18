@@ -1,11 +1,11 @@
 ---
 title: "Tarap Raha Hai Watan Mein Ghulam Ay Mola Askari Hassan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c44ddf9d86090c532f97

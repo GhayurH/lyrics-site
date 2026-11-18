@@ -1,6 +1,6 @@
 ---
 title: "Aay Fajar Ruk Ja Aae Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

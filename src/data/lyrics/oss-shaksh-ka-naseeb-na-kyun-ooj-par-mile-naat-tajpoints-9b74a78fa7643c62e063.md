@@ -1,11 +1,11 @@
 ---
 title: "Oss Shaksh Ka Naseeb Na Kyun Ooj Par Mile Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9b74a78fa7643c62e063

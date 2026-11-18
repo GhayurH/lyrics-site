@@ -1,7 +1,7 @@
 ---
 title: "ہے انبیا کا وظیفہ علی علی کرنا"
 alternateTitle: "Hai Anbiya Ka Wazifa Ali Ali Karna"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

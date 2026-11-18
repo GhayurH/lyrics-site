@@ -1,10 +1,10 @@
 ---
 title: "کیا کیا نہ ظلم ڈھایا گیا بابا تیرے بعد"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:9c4c75acf11605cd2148

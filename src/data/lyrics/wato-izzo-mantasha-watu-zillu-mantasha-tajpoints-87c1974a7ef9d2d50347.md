@@ -1,11 +1,11 @@
 ---
 title: "Wato Izzo Mantasha Watu Zillu Mantasha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sarwar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:87c1974a7ef9d2d50347

@@ -1,11 +1,11 @@
 ---
 title: "Yeh Jo Ik Raiza Almas Meri Khaak Mein Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9a03054d4d0c1e4927cf

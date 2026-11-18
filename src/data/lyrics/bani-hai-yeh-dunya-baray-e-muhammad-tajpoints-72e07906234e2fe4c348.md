@@ -1,11 +1,11 @@
 ---
 title: "Bani Hai Yeh Dunya Baray-e-Muhammad"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:72e07906234e2fe4c348

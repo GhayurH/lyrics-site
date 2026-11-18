@@ -1,11 +1,11 @@
 ---
 title: "Veer Ghazi Darya Taun Na Aaya Lyrics New Noha Ghazi Abbas Alamdar 05 Muharram 2025 Asghar Khan Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:e3eb49b84953589dc837

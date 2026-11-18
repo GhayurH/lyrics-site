@@ -1,11 +1,11 @@
 ---
 title: "Tere Darbar Wich Baba Agha Nasir Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f330b0a9f291a57fb5ef

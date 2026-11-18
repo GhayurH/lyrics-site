@@ -1,6 +1,6 @@
 ---
 title: "Qatil Nu Ali Nay Shabbir Da Sadqa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

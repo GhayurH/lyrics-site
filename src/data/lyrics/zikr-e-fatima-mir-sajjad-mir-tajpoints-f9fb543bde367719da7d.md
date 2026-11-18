@@ -1,11 +1,11 @@
 ---
 title: "Zikr E Fatima Mir Sajjad Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f9fb543bde367719da7d

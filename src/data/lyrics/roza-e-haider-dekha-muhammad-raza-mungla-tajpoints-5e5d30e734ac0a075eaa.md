@@ -1,11 +1,11 @@
 ---
 title: "Roza E Haider Dekha Muhammad Raza Mungla"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zahra"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5e5d30e734ac0a075eaa

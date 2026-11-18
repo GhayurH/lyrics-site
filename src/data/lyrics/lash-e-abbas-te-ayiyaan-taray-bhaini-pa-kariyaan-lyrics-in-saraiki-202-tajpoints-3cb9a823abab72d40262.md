@@ -1,11 +1,11 @@
 ---
 title: "Lash E Abbas Te Ayiyaan Taray Bhaini Pa Kariyaan Lyrics In Saraiki 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3cb9a823abab72d40262

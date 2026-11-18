@@ -1,11 +1,11 @@
 ---
 title: "Musallah Khon Mein Tar Hai Syed Abbas Raza Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Abbas"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a21e5540c857643eeabe

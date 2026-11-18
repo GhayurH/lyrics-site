@@ -1,11 +1,11 @@
 ---
 title: "Sab Shaheedon Se Juda Hai Ye Mosibat Teri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6c235a5d48c0d3383482

@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Diyaan Bhaina Jadon Bazar Gayiyaan Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:640c41b55db7c1bbe8e1

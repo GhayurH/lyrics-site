@@ -1,11 +1,11 @@
 ---
 title: "Haider E Karrar Owais Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f2767adfe5cdac13d7ac

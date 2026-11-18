@@ -1,6 +1,6 @@
 ---
 title: "Ye Matam Sada Rahay Aur Iss Sai Siva Rahay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

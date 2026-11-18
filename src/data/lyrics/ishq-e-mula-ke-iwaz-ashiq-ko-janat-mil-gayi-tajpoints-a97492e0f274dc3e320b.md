@@ -1,11 +1,11 @@
 ---
 title: "Ishq-e-Mula Ke Iwaz Ashiq Ko Janat Mil Gayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a97492e0f274dc3e320b

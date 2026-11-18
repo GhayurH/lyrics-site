@@ -1,6 +1,6 @@
 ---
 title: "Chaya Holay Holay Pak Ali Dheeyaan Da Naam Musallay Tay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

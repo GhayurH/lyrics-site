@@ -1,10 +1,10 @@
 ---
 title: "جب وعدہ طفلی کا وفا کر چکے شبیرؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:426f086af173a87d162a

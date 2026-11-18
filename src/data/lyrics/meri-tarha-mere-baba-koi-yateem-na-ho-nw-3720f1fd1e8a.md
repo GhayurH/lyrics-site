@@ -1,6 +1,6 @@
 ---
 title: "Meri Tarha Mere Baba Koi Yateem Na Ho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

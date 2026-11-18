@@ -1,10 +1,10 @@
 ---
 title: "Ye Baat Ja Ke Koi Taliban Se Keh De"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c0b938f16cd31579a4f0

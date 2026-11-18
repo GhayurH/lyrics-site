@@ -1,11 +1,11 @@
 ---
 title: "Adab Se Rakhi Jo Khak-e-Shifa Musalle Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6c12b61f7b1786fec522

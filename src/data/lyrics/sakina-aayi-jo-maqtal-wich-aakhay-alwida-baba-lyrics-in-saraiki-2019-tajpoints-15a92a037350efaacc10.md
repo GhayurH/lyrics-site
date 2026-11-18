@@ -1,11 +1,11 @@
 ---
 title: "Sakina Aayi Jo Maqtal Wich Aakhay Alwida Baba Lyrics In Saraiki 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shahan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:15a92a037350efaacc10

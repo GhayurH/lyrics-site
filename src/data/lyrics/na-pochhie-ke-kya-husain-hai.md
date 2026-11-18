@@ -1,10 +1,10 @@
 ---
 title: "نہ پوچھیے کہ کیا حسینؑ ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:9e36620fe42886cc5fe0

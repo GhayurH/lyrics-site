@@ -1,11 +1,11 @@
 ---
 title: "Wadh Gayi Aye Rat Akhiyaan Di Tak Bheer Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4a6e3f74e459f7f58f3a

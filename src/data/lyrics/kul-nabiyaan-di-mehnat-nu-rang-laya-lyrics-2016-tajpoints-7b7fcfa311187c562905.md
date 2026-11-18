@@ -1,11 +1,11 @@
 ---
 title: "Kul Nabiyaan Di Mehnat Nu Rang Laya Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7b7fcfa311187c562905

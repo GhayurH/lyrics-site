@@ -1,11 +1,11 @@
 ---
 title: "Kariyan Tauq Ne Waqat Langaye Ne Kazim Di Ghurbat De Lyrics Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3ad60ad094d7b9a7ff46

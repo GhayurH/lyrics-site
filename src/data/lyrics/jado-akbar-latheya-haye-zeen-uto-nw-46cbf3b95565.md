@@ -1,6 +1,6 @@
 ---
 title: "Jado Akbar Latheya Haye Zeen Uto"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

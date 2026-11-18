@@ -1,10 +1,10 @@
 ---
 title: "Gira Abbas Tha Askari Hassan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d95e5e2b3b11000c1378

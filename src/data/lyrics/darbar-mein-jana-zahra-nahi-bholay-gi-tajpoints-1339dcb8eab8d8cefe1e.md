@@ -1,11 +1,11 @@
 ---
 title: "Darbar Mein Jana Zahra Nahi Bholay Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1339dcb8eab8d8cefe1e

@@ -1,11 +1,11 @@
 ---
 title: "Karbal Ke Muhammed Ko Saja Ke Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naveed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:05c3cc558116f1906fb7

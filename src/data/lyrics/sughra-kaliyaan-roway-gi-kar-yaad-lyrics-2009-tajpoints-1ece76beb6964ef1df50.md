@@ -1,11 +1,11 @@
 ---
 title: "Sughra Kaliyaan Roway Gi Kar Yaad Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1ece76beb6964ef1df50

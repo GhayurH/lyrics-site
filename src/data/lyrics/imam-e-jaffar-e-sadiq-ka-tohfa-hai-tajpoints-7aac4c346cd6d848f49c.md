@@ -1,11 +1,11 @@
 ---
 title: "Imam-e-Jaffar-e-Sadiq Ka Tohfa Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7aac4c346cd6d848f49c

@@ -1,11 +1,11 @@
 ---
 title: "Allah Ki Nabi Ko Atta Main Batool Hoon Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1159507a99bfa6526cc1

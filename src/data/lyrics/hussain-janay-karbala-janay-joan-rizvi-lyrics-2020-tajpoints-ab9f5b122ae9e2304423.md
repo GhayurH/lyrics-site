@@ -1,11 +1,11 @@
 ---
 title: "Hussain Janay Karbala Janay – Joan Rizvi Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ab9f5b122ae9e2304423

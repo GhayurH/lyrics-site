@@ -1,10 +1,10 @@
 ---
 title: "فضّہؑ یہ دعا کرنا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6123f373e62280685a34

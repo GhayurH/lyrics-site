@@ -1,10 +1,10 @@
 ---
 title: "پیاسی ہے سکینہؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:dff5cd99d99acfb5c6e0

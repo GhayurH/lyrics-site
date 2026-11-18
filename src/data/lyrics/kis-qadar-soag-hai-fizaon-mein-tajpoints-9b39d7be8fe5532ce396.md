@@ -1,11 +1,11 @@
 ---
 title: "Kis Qadar Soag Hai Fizaon Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9b39d7be8fe5532ce396

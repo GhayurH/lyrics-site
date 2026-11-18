@@ -1,11 +1,11 @@
 ---
 title: "Yeh Na Thi Hamari Qismat Keh Wisal-e-Yaar Hota"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6140bd457df215a0cf1c

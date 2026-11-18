@@ -1,11 +1,11 @@
 ---
 title: "Aye Meri Masoom Shehzadi Janab E Syeda Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Munajat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:459a291d93fb1e0dba22

@@ -1,10 +1,10 @@
 ---
 title: "Fatima Zehra Teri Hammad Nagri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:61e2a3c216ce648d5a9e

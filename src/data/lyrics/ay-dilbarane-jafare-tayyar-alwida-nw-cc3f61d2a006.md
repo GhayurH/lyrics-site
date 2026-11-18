@@ -1,6 +1,6 @@
 ---
 title: "Ay Dilbarane Jafare Tayyar Alwida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

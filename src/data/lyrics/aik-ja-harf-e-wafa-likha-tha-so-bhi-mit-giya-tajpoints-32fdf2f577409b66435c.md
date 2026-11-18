@@ -1,10 +1,10 @@
 ---
 title: "Aik Ja Harf-e-Wafa Likha Tha So Bhi Mit Giya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:32fdf2f577409b66435c

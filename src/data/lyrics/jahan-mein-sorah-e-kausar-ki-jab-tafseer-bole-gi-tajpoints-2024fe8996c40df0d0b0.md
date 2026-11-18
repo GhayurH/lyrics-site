@@ -1,11 +1,11 @@
 ---
 title: "Jahan Mein Sorah-e-Kausar Ki Jab Tafseer Bole Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2024fe8996c40df0d0b0

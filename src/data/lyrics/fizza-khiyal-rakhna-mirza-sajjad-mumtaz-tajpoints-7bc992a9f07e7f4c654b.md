@@ -1,11 +1,11 @@
 ---
 title: "Fizza Khiyal Rakhna Mirza Sajjad Mumtaz"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7bc992a9f07e7f4c654b

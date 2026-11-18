@@ -1,6 +1,6 @@
 ---
 title: "Chadraan Sir Te Nahi, Zakhm Pairan Ch Paray"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

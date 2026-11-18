@@ -1,11 +1,11 @@
 ---
 title: "Main Pardah-e-Ghaibat Se Samaa Dekh Raha Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:78fdf585f76f0e142924

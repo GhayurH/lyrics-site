@@ -1,6 +1,6 @@
 ---
 title: "Aik Baar Aur Mujhe Godh Mein Le Lo Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

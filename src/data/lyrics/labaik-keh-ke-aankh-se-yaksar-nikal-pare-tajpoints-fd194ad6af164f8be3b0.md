@@ -1,11 +1,11 @@
 ---
 title: "Labaik Keh Ke Aankh Se Yaksar Nikal Pare"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fd194ad6af164f8be3b0

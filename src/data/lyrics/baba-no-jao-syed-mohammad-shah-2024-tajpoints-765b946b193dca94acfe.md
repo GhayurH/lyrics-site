@@ -1,10 +1,10 @@
 ---
 title: "Baba No Jao Syed Mohammad Shah 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:765b946b193dca94acfe

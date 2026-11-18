@@ -1,11 +1,11 @@
 ---
 title: "Chadrein Mangi Tu Har Sheher Se Aye Pathar Lyrics 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:85c89abdfb8b4ab4265e

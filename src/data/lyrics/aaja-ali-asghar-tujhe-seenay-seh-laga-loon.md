@@ -1,6 +1,6 @@
 ---
 title: "Aaja Ali Asghar Tujhe Seenay Seh Laga Loon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

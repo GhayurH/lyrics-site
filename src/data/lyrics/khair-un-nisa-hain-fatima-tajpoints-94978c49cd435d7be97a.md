@@ -1,11 +1,11 @@
 ---
 title: "Khair-un-Nisa Hain Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:94978c49cd435d7be97a

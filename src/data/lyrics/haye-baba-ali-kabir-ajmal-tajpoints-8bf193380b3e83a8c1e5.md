@@ -1,11 +1,11 @@
 ---
 title: "Haye Baba Ali Kabir Ajmal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Aarzoo"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8bf193380b3e83a8c1e5

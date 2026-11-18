@@ -1,6 +1,6 @@
 ---
 title: "Khizar Bhi La Na Sake Aik Boond Pani Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

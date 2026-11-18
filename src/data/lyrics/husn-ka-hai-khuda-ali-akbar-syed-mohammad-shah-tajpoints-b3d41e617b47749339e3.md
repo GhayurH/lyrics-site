@@ -1,11 +1,11 @@
 ---
 title: "Husn Ka Hai Khuda Ali Akbar Syed Mohammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b3d41e617b47749339e3

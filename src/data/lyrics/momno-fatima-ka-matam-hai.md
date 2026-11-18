@@ -1,10 +1,10 @@
 ---
 title: "مومنو فاطمہؑ کا ماتم ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:744fc5dc7dece3b83fb9

@@ -1,11 +1,11 @@
 ---
 title: "Bugz Haider Se Rakhna Buri Baat Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:49d948e046fc95034e90

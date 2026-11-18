@@ -1,11 +1,11 @@
 ---
 title: "Ay Muhammad Kay Khuda Khurram Murtaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Hamd"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ddd0e41374e9d016e7e5

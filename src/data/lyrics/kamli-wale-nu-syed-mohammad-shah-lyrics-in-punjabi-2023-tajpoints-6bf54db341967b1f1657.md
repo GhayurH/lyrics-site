@@ -1,11 +1,11 @@
 ---
 title: "Kamli Wale Nu Syed Mohammad Shah Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naeem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6bf54db341967b1f1657

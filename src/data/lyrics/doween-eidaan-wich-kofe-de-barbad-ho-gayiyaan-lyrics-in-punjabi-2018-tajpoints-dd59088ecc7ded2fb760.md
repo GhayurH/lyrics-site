@@ -1,11 +1,11 @@
 ---
 title: "Doween Eidaan Wich Kofe De Barbad Ho Gayiyaan Lyrics In Punjabi 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dd59088ecc7ded2fb760

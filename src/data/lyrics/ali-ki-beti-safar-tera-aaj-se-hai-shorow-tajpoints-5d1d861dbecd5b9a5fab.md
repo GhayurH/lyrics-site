@@ -1,11 +1,11 @@
 ---
 title: "Ali Ki Beti Safar Tera Aaj Se Hai Shorow"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5d1d861dbecd5b9a5fab

@@ -1,11 +1,11 @@
 ---
 title: "Bazoo Jo Nahi Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f635f3d0a8dbbc5dcc8c

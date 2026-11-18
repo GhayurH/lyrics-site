@@ -1,10 +1,10 @@
 ---
 title: "Wada Shahid Baltistani 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f49623a3f4fa0214364b

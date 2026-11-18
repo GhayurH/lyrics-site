@@ -1,11 +1,11 @@
 ---
 title: "13 Rajab Ko Aaya Ali Hai Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:91a5b5b2029de22e3ade

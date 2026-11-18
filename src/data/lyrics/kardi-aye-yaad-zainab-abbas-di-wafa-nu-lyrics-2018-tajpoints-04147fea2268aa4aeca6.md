@@ -1,11 +1,11 @@
 ---
 title: "Kardi Aye Yaad Zainab Abbas Di Wafa Nu Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:04147fea2268aa4aeca6

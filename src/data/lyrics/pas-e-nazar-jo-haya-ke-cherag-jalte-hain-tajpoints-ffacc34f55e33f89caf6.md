@@ -1,11 +1,11 @@
 ---
 title: "Pas-e-Nazar Jo Haya Ke Cherag Jalte Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ffacc34f55e33f89caf6

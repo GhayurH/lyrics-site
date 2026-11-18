@@ -1,10 +1,10 @@
 ---
 title: "کوئی نہ رہا سناٹا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a4fe43e81ee5be13073d

@@ -1,11 +1,11 @@
 ---
 title: "Tu Nojawaan Hai Akbar Lasha Uthaon Kaise"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hunain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:82865208139d5805cd18

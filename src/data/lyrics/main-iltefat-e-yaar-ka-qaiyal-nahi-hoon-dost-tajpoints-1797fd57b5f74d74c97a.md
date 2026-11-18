@@ -1,11 +1,11 @@
 ---
 title: "Main Iltefat-e-Yaar Ka Qaiyal Nahi Hoon Dost"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sagar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1797fd57b5f74d74c97a

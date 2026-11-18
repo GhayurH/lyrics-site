@@ -1,6 +1,6 @@
 ---
 title: "Jay Joundi Agayi Dukhi Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

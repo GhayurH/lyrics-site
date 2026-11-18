@@ -1,11 +1,11 @@
 ---
 title: "Baqir Ne Pocha Abid Se Baba Bazar Saja Hai Kyun"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b75a86aa84e146e4b219

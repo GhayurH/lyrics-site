@@ -1,7 +1,7 @@
 ---
 title: "Be Kafan Janazeyaan Saf Ban Layi"
 alternateTitle: "Sajjad Parhawan Aaya Babay Diyan Panj Takbiraan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

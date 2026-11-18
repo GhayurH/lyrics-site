@@ -1,10 +1,10 @@
 ---
 title: "Saja Rakhi Hai Jashan-e-Aamad-e-Sarkar Pe Dunya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:59614f8d29604df38233

@@ -1,11 +1,11 @@
 ---
 title: "Yaad Arahi Hai Teri Karbala Hussain Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:051f3535a71c02272906

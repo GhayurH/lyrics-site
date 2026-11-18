@@ -1,11 +1,11 @@
 ---
 title: "Shehar-e-Sarwar Ki Aab-o-Hawa Our Hai Lyrics Urud 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b82e79d666b67c14ddb7

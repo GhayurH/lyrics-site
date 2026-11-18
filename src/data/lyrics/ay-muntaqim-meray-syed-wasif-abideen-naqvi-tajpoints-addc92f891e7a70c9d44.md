@@ -1,11 +1,11 @@
 ---
 title: "Ay Muntaqim Meray Syed Wasif Abideen Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:addc92f891e7a70c9d44

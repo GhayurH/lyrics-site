@@ -1,6 +1,6 @@
 ---
 title: "Ay Chaand Muharram Tu Hi Baatha, Khatoon Ka Chaand"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

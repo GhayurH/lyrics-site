@@ -1,11 +1,11 @@
 ---
 title: "Allah Ho Akbar Ali Ali Sibtain Haider"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Jary"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1c7a2092162a8f8942ea

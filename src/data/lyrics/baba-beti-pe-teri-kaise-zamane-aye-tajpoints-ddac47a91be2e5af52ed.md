@@ -1,11 +1,11 @@
 ---
 title: "Baba Beti Pe Teri Kaise Zamane Aye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Fida"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ddac47a91be2e5af52ed

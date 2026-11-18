@@ -1,11 +1,11 @@
 ---
 title: "Kyun Jal Raha Hai Bait E Payamber Ko Kya Howa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:96e528baf00f902fb5e6

@@ -1,10 +1,10 @@
 ---
 title: "زینبؑ کا ہے ارمان"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1183163a0b43f674ba02

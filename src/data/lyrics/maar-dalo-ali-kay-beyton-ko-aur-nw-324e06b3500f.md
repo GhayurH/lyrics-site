@@ -1,6 +1,6 @@
 ---
 title: "Maar Dalo Ali Kay Beyton Ko Aur"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

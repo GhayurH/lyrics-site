@@ -1,11 +1,11 @@
 ---
 title: "Dua E Azadar Shakeel Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Sahaab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2c4547d0e72686cab529

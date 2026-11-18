@@ -1,6 +1,6 @@
 ---
 title: "Shabbir Salaam Howyee Tenu Shaam Di Qaidan Da"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

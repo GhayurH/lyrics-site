@@ -1,11 +1,11 @@
 ---
 title: "Bahaya Kis Ne Nabi Ka Tu Pehlay Khon Bata Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:245b8d2e698bfb042b29

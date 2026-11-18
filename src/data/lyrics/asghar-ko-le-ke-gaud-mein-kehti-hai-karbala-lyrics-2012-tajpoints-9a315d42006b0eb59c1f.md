@@ -1,11 +1,11 @@
 ---
 title: "Asghar Ko Le Ke Gaud Mein Kehti Hai Karbala Lyrics 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9a315d42006b0eb59c1f

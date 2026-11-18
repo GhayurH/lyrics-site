@@ -1,6 +1,6 @@
 ---
 title: "Bhulna Nahi Sajjad Nu, Hy Sham Zainab Di Rida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

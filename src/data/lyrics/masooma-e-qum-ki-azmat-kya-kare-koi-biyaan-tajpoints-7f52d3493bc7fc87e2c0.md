@@ -1,11 +1,11 @@
 ---
 title: "Masooma-e-Qum Ki Azmat Kya Kare Koi Biyaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7f52d3493bc7fc87e2c0

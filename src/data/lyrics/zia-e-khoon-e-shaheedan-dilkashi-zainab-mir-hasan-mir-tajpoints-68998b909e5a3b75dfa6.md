@@ -1,11 +1,11 @@
 ---
 title: "Zia-e-Khoon-e-Shaheedan Dilkashi Zainab Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Nisar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:68998b909e5a3b75dfa6

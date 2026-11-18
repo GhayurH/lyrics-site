@@ -1,11 +1,11 @@
 ---
 title: "Taboot Uth Raha Hai Mola Ali Naqi Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:087ff21e4b5ae727c5b2

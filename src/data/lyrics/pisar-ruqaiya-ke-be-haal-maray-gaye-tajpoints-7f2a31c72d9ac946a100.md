@@ -1,11 +1,11 @@
 ---
 title: "Pisar Ruqaiya Ke Be Haal Maray Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7f2a31c72d9ac946a100

@@ -1,11 +1,11 @@
 ---
 title: "Farwa Ujar Gayi Aye Qasim Yateem Hoya MSO Party Sialkot Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:61ade877ee8b7a6e0cbe

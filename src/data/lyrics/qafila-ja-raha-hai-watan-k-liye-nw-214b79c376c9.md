@@ -1,6 +1,6 @@
 ---
 title: "Qafila Ja Raha Hai Watan K Liye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

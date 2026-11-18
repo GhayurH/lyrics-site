@@ -1,11 +1,11 @@
 ---
 title: "Matam-e-Shabir Kar Ke Le Lo Zahra Ki Dua"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7444f44eef1f205f80e8

@@ -1,11 +1,11 @@
 ---
 title: "Najaf Ki Galiyon Main Syed Wajhi Hasan Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9c77e5f69acaefc1dc12

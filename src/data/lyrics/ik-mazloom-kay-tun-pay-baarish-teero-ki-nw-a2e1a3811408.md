@@ -1,6 +1,6 @@
 ---
 title: "Ik Mazloom Kay Tun Pay Baarish Teero Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Imtehane Hussain AS Saleem Mastan Wa Bradran"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Marsiya"
 poet: "Nasim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0e187dd35723081f8938

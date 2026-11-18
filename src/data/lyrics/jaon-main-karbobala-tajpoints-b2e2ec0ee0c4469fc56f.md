@@ -1,11 +1,11 @@
 ---
 title: "Jaon Main Karbobala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b2e2ec0ee0c4469fc56f

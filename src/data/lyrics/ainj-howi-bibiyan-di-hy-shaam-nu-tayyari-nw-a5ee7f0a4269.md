@@ -1,6 +1,6 @@
 ---
 title: "Ainj Howi Bibiyan Di, Hy Shaam Nu Tayyari"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

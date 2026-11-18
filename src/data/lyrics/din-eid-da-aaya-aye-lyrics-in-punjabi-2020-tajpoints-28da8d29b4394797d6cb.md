@@ -1,11 +1,11 @@
 ---
 title: "Din Eid Da Aaya Aye Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:28da8d29b4394797d6cb

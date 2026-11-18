@@ -1,11 +1,11 @@
 ---
 title: "Aa Bhi Jao Imam-e-Zamana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6d4c689dc5b4797cd8f9

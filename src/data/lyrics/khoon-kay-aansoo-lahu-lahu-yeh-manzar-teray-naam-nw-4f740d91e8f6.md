@@ -1,6 +1,6 @@
 ---
 title: "Khoon Kay Aansoo, Lahu Lahu Yeh Manzar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

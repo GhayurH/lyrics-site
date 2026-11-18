@@ -1,11 +1,11 @@
 ---
 title: "Hum Ali Ke Dewane Har Adda Ghadeeri Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ea45ad435f818c354aad

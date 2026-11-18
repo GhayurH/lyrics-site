@@ -1,6 +1,6 @@
 ---
 title: "Zainab Ye Roke Boli Bhaiya Na Dil Dukhao"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Un Ke Tu Kissi Kam Bhi Aate Nahi Aanso"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:75a6c9376b51d99afb91

@@ -1,11 +1,11 @@
 ---
 title: "Midhat Hussain Ki Aayan Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3ab8b37f185925eef90e

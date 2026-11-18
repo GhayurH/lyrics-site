@@ -1,11 +1,11 @@
 ---
 title: "Aane Ko Hain Batool"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:43177a92abfe7d2b3e8e

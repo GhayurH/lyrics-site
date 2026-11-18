@@ -1,11 +1,11 @@
 ---
 title: "Ali Shaoor Ki Sarhad Mein Aa Saka Bhi Nahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shaukat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6a727855e62592801bee

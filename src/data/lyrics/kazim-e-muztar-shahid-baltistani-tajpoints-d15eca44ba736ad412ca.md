@@ -1,10 +1,10 @@
 ---
 title: "Kazim E Muztar Shahid Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d15eca44ba736ad412ca

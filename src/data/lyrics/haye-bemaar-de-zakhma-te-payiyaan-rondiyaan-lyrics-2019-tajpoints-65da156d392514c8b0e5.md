@@ -1,11 +1,11 @@
 ---
 title: "Haye Bemaar De Zakhma Te Payiyaan Rondiyaan Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:65da156d392514c8b0e5

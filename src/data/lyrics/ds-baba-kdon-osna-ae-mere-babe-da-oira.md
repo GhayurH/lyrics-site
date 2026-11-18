@@ -1,10 +1,10 @@
 ---
 title: "دس بابا کدوں وسنا اے میرے بابے دا ویڑا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cba824c7d70fa3df3d4d

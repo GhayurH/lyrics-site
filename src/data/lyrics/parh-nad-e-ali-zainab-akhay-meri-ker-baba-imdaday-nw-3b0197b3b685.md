@@ -1,6 +1,6 @@
 ---
 title: "Parh Nad-e-Ali Zainab Akhay Meri Ker Baba Imdaday"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

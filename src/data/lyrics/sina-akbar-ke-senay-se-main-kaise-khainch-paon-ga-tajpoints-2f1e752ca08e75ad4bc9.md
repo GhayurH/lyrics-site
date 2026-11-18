@@ -1,11 +1,11 @@
 ---
 title: "Sina Akbar Ke Senay Se Main Kaise Khainch Paon Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2f1e752ca08e75ad4bc9

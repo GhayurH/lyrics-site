@@ -1,11 +1,11 @@
 ---
 title: "Kar Layi Aye Veer Ghazi Main Sham Nu Tayari New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:68cb17f85c07ae1286ce

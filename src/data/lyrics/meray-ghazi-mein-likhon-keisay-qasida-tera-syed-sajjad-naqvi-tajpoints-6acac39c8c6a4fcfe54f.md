@@ -1,11 +1,11 @@
 ---
 title: "Meray Ghazi Mein Likhon Keisay Qasida Tera Syed Sajjad Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hani"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6acac39c8c6a4fcfe54f

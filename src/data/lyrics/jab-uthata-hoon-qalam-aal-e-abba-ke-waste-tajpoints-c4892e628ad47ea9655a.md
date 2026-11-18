@@ -1,11 +1,11 @@
 ---
 title: "Jab Uthata Hoon Qalam Aal-e-Abba Ke Waste"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c4892e628ad47ea9655a

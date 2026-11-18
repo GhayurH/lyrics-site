@@ -1,11 +1,11 @@
 ---
 title: "Ameer Muslim Ghareeb Muslim"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d49a3a0b846abc8050c4

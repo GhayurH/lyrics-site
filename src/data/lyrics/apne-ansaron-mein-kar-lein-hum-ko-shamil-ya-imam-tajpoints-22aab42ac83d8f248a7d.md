@@ -1,11 +1,11 @@
 ---
 title: "Apne Ansaron Mein Kar Lein Hum Ko Shamil Ya Imam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:22aab42ac83d8f248a7d

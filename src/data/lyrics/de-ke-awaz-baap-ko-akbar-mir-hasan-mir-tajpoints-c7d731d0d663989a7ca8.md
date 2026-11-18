@@ -1,6 +1,6 @@
 ---
 title: "De Ke Awaz Baap Ko Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

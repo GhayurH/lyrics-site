@@ -1,10 +1,10 @@
 ---
 title: "Raza Da Baba Tu Aaya Aein Lyrics Saraiki 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:970046ecc59d1b544fba

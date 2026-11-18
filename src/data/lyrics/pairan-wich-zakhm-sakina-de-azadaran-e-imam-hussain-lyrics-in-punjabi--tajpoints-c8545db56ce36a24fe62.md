@@ -1,11 +1,11 @@
 ---
 title: "Pairan Wich Zakhm Sakina De Azadaran E Imam Hussain Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c8545db56ce36a24fe62

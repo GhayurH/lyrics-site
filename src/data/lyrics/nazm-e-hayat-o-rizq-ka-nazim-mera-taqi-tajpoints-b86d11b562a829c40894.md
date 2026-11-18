@@ -1,11 +1,11 @@
 ---
 title: "Nazm E Hayat O Rizq Ka Nazim Mera Taqi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Taseer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b86d11b562a829c40894

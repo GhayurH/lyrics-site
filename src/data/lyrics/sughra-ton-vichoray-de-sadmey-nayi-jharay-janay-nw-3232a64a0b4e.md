@@ -1,6 +1,6 @@
 ---
 title: "Sughra Ton Vichoray De Sadmey Nayi Jharay Janay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

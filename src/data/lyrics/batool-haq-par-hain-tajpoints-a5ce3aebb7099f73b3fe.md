@@ -1,11 +1,11 @@
 ---
 title: "Batool Haq Par Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Naeem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a5ce3aebb7099f73b3fe

@@ -1,11 +1,11 @@
 ---
 title: "Ali Imam Man-Asto Manam Ghulam-e-Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e80f9e38e400b8c7f662

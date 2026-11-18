@@ -1,11 +1,11 @@
 ---
 title: "Salam Ay Zuhair Ibn E Qain Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b6c3e7ead021d03d89eb

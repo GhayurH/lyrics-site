@@ -1,6 +1,6 @@
 ---
 title: "Haye Zainab Bewaris Ho Gayi Parde Kon Bachaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

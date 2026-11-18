@@ -1,11 +1,11 @@
 ---
 title: "Muqassir Our Nusehri Ke Liye Jaghra Bana Dala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Naeem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6a9e3bf446854e0c9af0

@@ -1,11 +1,11 @@
 ---
 title: "Ali Ka Jawab Koi Nahi Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sharar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:18ab1ef878b277e30c41

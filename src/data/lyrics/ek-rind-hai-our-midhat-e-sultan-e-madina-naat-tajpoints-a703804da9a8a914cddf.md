@@ -1,11 +1,11 @@
 ---
 title: "Ek Rind Hai Our Midhat-e-Sultan-e-Madina Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Jigar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a703804da9a8a914cddf

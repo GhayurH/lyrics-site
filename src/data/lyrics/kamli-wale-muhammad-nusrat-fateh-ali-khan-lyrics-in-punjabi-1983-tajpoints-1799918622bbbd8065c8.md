@@ -1,11 +1,11 @@
 ---
 title: "Kamli Wale Muhammad Nusrat Fateh Ali Khan Lyrics In Punjabi 1983"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Bari"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1799918622bbbd8065c8

@@ -1,11 +1,11 @@
 ---
 title: "Ameer Bhi Hai Ghareeb Bhi Hai Mir Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ea679784c9a5b7d1ed4c

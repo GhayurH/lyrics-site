@@ -1,11 +1,11 @@
 ---
 title: "Bazaar Araha Hai Kazmi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7f96aa3f95378dcb56d8

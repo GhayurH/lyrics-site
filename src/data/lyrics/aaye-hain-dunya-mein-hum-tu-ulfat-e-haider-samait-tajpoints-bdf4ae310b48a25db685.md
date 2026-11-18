@@ -1,11 +1,11 @@
 ---
 title: "Aaye Hain Dunya Mein Hum Tu Ulfat E Haider Samait"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "e-Aal-e-Nabi Jaein Gay Sab,:MEHSHAR: Samait"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bdf4ae310b48a25db685

@@ -1,10 +1,10 @@
 ---
 title: "علیؑ والے ہیں ہم ہم کو مٹانے کون آئے گا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b6f1fecc5c574ecf2c0d

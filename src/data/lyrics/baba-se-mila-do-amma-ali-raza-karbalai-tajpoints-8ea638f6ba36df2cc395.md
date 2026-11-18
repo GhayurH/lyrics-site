@@ -1,11 +1,11 @@
 ---
 title: "Baba Se Mila Do Amma Ali Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8ea638f6ba36df2cc395

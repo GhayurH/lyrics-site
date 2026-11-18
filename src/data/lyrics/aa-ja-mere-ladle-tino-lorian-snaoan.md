@@ -1,10 +1,10 @@
 ---
 title: "آ جا میرے لاڈلے تینو لوریاں سناواں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:406c12cc953c1362f1d5

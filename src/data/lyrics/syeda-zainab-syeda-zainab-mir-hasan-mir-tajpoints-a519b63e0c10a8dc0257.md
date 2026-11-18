@@ -1,11 +1,11 @@
 ---
 title: "Syeda Zainab Syeda Zainab Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a519b63e0c10a8dc0257

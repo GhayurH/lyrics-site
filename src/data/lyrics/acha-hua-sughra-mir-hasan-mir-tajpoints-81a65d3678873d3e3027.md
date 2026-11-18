@@ -1,6 +1,6 @@
 ---
 title: "Acha Hua Sughra Tu Mere Saath Nahi Thi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

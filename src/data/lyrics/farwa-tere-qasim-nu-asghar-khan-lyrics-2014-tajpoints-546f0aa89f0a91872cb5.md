@@ -1,11 +1,11 @@
 ---
 title: "Farwa Tere Qasim Nu Asghar Khan Lyrics 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:546f0aa89f0a91872cb5

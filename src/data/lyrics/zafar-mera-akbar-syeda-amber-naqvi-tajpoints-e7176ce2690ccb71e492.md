@@ -1,11 +1,11 @@
 ---
 title: "Zafar Mera Akbar Syeda Amber Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e7176ce2690ccb71e492

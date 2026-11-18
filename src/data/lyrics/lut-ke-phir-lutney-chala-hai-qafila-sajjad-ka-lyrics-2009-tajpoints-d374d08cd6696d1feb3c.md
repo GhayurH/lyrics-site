@@ -1,11 +1,11 @@
 ---
 title: "Lut Ke Phir Lutney Chala Hai Qafila Sajjad Ka Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d374d08cd6696d1feb3c

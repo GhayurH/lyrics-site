@@ -1,11 +1,11 @@
 ---
 title: "Karbal Wich Aayi Saan Veraan De Sahare Lyrics 2024 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ajmal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:4659d006c484a699c365

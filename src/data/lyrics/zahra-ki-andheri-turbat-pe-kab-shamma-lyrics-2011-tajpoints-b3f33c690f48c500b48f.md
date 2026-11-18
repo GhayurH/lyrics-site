@@ -1,11 +1,11 @@
 ---
 title: "Zahra Ki Andheri Turbat Pe Kab Shamma Lyrics 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b3f33c690f48c500b48f

@@ -1,11 +1,11 @@
 ---
 title: "Kya Pochte Ho Mujh Se Keh Kya Kya Hasan Ka Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:757a2e2de27c949102fb

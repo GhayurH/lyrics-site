@@ -1,11 +1,11 @@
 ---
 title: "Dama Dam Mast Qalandar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e3d474c17b1ffc1cf71c

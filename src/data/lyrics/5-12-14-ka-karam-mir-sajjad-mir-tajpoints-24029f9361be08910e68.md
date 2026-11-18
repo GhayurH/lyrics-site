@@ -1,11 +1,11 @@
 ---
 title: "5 12 14 Ka Karam Mir Sajjad Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:24029f9361be08910e68

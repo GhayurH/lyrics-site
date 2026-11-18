@@ -1,11 +1,11 @@
 ---
 title: "Karbal Di Sar Zameen Te Zainab Di Hai Sada Ravi Road Lahore Party Lyrics Punjabi 2002"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Manzoor"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:24246f20ef96831a6644

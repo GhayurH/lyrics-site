@@ -1,10 +1,10 @@
 ---
 title: "ہم ہی وہی قبیلہ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:242de0701e11b75cbdd4

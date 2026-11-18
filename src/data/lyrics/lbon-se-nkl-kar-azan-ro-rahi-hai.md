@@ -1,10 +1,10 @@
 ---
 title: "لبوں سے نکل کر اذان رو رہی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:afafe0e485fb8cfe41da

@@ -1,10 +1,10 @@
 ---
 title: "Maula Muhammad"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:605bfc4a439d4c1b82a9

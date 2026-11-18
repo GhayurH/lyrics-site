@@ -1,11 +1,11 @@
 ---
 title: "Maqtal Mein Raza Hasani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:950b8a00e0381184f7f5

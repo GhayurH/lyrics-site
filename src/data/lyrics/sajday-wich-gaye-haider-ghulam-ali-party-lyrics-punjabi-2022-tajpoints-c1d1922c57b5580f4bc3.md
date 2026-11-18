@@ -1,11 +1,11 @@
 ---
 title: "Sajday Wich Gaye Haider Ghulam Ali Party Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c1d1922c57b5580f4bc3

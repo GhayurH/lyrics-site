@@ -1,11 +1,11 @@
 ---
 title: "Har Moor Te Main Ghazi Tainu Bolandi Rayiyan Latest Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:18b18b8cd28abd4222f3

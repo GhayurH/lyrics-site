@@ -1,11 +1,11 @@
 ---
 title: "Paighambar-e-Aalam Ki Tasveer Ali Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1839a6ab789a09c49363

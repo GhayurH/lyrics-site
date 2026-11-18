@@ -1,10 +1,10 @@
 ---
 title: "کیسے دربار میں گئی ہوگی اے نبوت کی آبرو زہراؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b189a0e0209c984b7d44

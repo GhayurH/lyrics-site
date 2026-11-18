@@ -1,11 +1,11 @@
 ---
 title: "Aaja Veerna Bhain Sughra Takdi Tere Raah Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Baqar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1e8e0886b167bc6e2d64

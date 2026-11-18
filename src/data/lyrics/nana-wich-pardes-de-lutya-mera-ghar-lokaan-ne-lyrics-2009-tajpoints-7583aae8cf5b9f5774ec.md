@@ -1,11 +1,11 @@
 ---
 title: "Nana Wich Pardes De Lutya Mera Ghar Lokaan Ne Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7583aae8cf5b9f5774ec

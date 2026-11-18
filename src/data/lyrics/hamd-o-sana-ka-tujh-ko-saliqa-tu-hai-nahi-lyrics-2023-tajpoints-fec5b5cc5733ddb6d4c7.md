@@ -1,11 +1,11 @@
 ---
 title: "Hamd O Sana Ka Tujh Ko Saliqa Tu Hai Nahi Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fec5b5cc5733ddb6d4c7

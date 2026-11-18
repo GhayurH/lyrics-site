@@ -1,11 +1,11 @@
 ---
 title: "Hath Gardan Se Hatalo Amma Meesum Kashmiri Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5600360a2c19150f8b32

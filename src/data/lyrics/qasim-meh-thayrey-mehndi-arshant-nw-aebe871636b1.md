@@ -1,6 +1,6 @@
 ---
 title: "Qasim Meh Teri Mehndi Arshant"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

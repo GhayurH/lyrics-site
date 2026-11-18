@@ -1,10 +1,10 @@
 ---
 title: "عموں بھی گئے بابا بھی گئے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8c51a11abdc69af13ce5

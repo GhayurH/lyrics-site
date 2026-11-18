@@ -1,11 +1,11 @@
 ---
 title: "Ali Ke Aashiq E Anmool Ki Kahani Hai Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:682d9865f3287986a676

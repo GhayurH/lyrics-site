@@ -1,11 +1,11 @@
 ---
 title: "Dushmani Kya Thi Hasan Se Zulm Kyun Dhate Rahe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dbf0e39e6a8db1186609

@@ -1,11 +1,11 @@
 ---
 title: "Samajh Ke Zahra Sataya Gaya Sakina Ko"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c9860157f8d36fe679d1

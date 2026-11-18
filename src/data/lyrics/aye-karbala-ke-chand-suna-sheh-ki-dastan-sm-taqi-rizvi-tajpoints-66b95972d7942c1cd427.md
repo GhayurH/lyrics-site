@@ -1,11 +1,11 @@
 ---
 title: "Aye Karbala Ke Chand Suna Sheh Ki Dastan SM Taqi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:66b95972d7942c1cd427

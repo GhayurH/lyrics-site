@@ -1,11 +1,11 @@
 ---
 title: "Al-Hafeez-o-Al-Amaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nisa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:48aef3b4077e751b87c9

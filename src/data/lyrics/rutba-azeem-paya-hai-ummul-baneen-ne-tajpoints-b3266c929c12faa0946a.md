@@ -1,11 +1,11 @@
 ---
 title: "Rutba Azeem Paya Hai Ummul Baneen Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b3266c929c12faa0946a

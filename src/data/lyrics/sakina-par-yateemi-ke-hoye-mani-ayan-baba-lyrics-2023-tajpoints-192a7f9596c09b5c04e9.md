@@ -1,11 +1,11 @@
 ---
 title: "Sakina Par Yateemi Ke Hoye Mani Ayan Baba Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:192a7f9596c09b5c04e9

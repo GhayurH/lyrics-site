@@ -1,11 +1,11 @@
 ---
 title: "Kehte The Rokar Ali Fatemah Ladak"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e2ab3bdc532f548bef11

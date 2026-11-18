@@ -1,10 +1,10 @@
 ---
 title: "ذوالجناح ذوالجناح"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5e2ff03a2b90408e11e3

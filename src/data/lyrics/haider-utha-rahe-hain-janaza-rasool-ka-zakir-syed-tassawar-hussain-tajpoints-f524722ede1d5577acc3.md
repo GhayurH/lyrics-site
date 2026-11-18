@@ -1,11 +1,11 @@
 ---
 title: "Haider Utha Rahe Hain Janaza Rasool Ka Zakir Syed Tassawar Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hilmi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f524722ede1d5577acc3

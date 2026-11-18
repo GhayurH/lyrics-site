@@ -1,11 +1,11 @@
 ---
 title: "Nukta Cheen Hain Gham-e-Dil Oss Ko Sunaye Na Bane"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c6a580d608d3b35b08fe

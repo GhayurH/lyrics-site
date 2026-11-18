@@ -1,11 +1,11 @@
 ---
 title: "Zahra Ki Tarha Zaeefa Dikhne Lagi Sakina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b2b7206564dc0209b263

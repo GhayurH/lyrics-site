@@ -1,11 +1,11 @@
 ---
 title: "Zindan Che Musa Kazim Da Aj Loko Khatam Jahad Hoya Lyrics Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a202d554ae93ccfe176c

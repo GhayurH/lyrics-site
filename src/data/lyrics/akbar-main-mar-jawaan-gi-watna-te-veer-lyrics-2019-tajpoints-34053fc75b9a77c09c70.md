@@ -1,11 +1,11 @@
 ---
 title: "Akbar Main Mar Jawaan Gi Watna Te Veer Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:34053fc75b9a77c09c70

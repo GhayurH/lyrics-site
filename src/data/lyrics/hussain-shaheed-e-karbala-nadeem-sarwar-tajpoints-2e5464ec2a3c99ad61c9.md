@@ -1,10 +1,10 @@
 ---
 title: "Hussain Shaheed-e-Karbala Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2e5464ec2a3c99ad61c9

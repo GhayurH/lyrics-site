@@ -1,11 +1,11 @@
 ---
 title: "Jahan Mai Subh-o-Masaa Ya Hussain Hota Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Waseem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:796bc72d7a71b4227046

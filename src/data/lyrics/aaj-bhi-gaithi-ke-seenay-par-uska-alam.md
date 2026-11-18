@@ -1,6 +1,6 @@
 ---
 title: "Aaj Bhi Gaithi Ke Seenay Par Uska Alam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

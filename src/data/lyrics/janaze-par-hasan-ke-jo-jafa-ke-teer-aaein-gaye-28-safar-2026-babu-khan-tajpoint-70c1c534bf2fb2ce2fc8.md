@@ -1,11 +1,11 @@
 ---
 title: "Janaze Par Hasan Ke Jo Jafa Ke Teer Aaein Gaye 28 Safar 2026 Babu Khan Party Sialkot"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:70c1c534bf2fb2ce2fc8

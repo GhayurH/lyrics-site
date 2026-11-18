@@ -1,6 +1,6 @@
 ---
 title: "دیکھ کر زہرہؑ کی میت مرتضیٰؑ روئے بہت"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

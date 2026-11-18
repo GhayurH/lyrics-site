@@ -1,11 +1,11 @@
 ---
 title: "Ghadeer Yaad Rahay Mir Hasan Mir Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Anees"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7ddcb535adc841c67662

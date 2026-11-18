@@ -1,6 +1,6 @@
 ---
 title: "Karbala Akbar Mera Hai Noujawan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

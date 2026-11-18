@@ -1,10 +1,10 @@
 ---
 title: "Haq De Sake Na Ahl-e-Madina Batool Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f49eada5dbee7e86514c

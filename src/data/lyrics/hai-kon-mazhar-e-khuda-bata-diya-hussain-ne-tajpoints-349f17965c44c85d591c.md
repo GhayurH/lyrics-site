@@ -1,7 +1,7 @@
 ---
 title: "ہے کون مظہرِ خدا بتا دیا حسین نے"
 alternateTitle: "Hai Kaun Mazhar-e-Khuda Bata Diya Husain Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

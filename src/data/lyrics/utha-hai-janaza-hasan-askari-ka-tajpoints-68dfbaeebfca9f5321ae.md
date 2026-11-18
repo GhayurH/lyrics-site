@@ -1,11 +1,11 @@
 ---
 title: "Utha Hai Janaza Hasan Askari Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nisar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:68dfbaeebfca9f5321ae

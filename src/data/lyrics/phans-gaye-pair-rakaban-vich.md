@@ -1,10 +1,10 @@
 ---
 title: "پھنس گئے پیر رکاباں وچ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:36d914116de4b252ca9c

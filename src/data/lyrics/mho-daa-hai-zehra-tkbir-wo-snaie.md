@@ -1,10 +1,10 @@
 ---
 title: "محوِ دعا ہے زہراؑ تکبیر وہ سنائے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d7efe56ba1017b3807b8

@@ -1,11 +1,11 @@
 ---
 title: "Karb O Bala Ke Dasht Mein Zainb Ki Hai Sada"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c8a06fdc09e020e9f594

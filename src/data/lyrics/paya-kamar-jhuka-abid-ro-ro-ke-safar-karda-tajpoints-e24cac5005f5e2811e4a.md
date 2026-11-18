@@ -1,11 +1,11 @@
 ---
 title: "Paya Kamar Jhuka Abid Ro Ro Ke Safar Karda"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e24cac5005f5e2811e4a

@@ -1,6 +1,6 @@
 ---
 title: "Laash-e-Akbar Utha Rahe Hain Husain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

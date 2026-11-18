@@ -1,11 +1,11 @@
 ---
 title: "Haye O Mainda Ghareeb Baba Sharafat Ali Lyrics 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khursheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:23e81744bc6f3f0a12a2

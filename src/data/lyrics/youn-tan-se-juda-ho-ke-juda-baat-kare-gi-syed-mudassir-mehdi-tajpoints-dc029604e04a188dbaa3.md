@@ -1,11 +1,11 @@
 ---
 title: "Youn Tan Se Juda Ho Ke Juda Baat Kare Gi Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dc029604e04a188dbaa3

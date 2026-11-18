@@ -1,11 +1,11 @@
 ---
 title: "Utha Hai Phir Janaza Khair Ul Nisa Ke Ghar Se Lyrics New 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:6778f84581520aff2726

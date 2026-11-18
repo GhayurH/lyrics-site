@@ -1,11 +1,11 @@
 ---
 title: "Shabir Ran Mein Tanha Sab Ko Bula Rahe Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:de58e4c83fad30724442

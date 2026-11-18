@@ -1,11 +1,11 @@
 ---
 title: "Allah Hu Allah Muhammad Raza Mungla"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:75544782a845bec02ca8

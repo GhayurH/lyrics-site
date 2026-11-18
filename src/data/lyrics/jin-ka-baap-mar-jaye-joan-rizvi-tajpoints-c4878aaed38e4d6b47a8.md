@@ -1,11 +1,11 @@
 ---
 title: "Jin Ka Baap Mar Jaye Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c4878aaed38e4d6b47a8

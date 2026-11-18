@@ -1,11 +1,11 @@
 ---
 title: "Haye Oye Lutiyaan Gayiyaan Jokaan Hasan Sadiq Lyrics 2004"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khursheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8ff020a8878044e4420f

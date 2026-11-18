@@ -1,6 +1,6 @@
 ---
 title: "Haye Challiyan, Challiyan Shaam Dey Raawan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

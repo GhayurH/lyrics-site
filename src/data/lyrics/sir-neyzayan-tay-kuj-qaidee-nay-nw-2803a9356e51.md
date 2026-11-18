@@ -1,6 +1,6 @@
 ---
 title: "Sir Neyzayan Tay, Kuj Qaidee Nay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

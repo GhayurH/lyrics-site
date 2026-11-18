@@ -1,6 +1,6 @@
 ---
 title: "Khair Ul Wara Ki Beti Ko Darbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Hallmin Ki Ik Sada Syed Wajhi Hasan Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a88a957d2d28e1239fd9

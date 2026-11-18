@@ -1,11 +1,11 @@
 ---
 title: "Ro Ke Bibi Ne Kaha Sham Ke Bazar Mein Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:64973a714a95049ad04d

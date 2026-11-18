@@ -1,6 +1,6 @@
 ---
 title: "Ay Mere Baba Jan Ho Rahi Hai Azaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Okhiyaan Rahwaan Te Painday Karne Pay Gaye Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a06bca66e2b5a8d321dc

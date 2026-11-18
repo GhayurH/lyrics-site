@@ -1,10 +1,10 @@
 ---
 title: "کیسے جئے گی صغراؑ اکبرؑ تیرے بغیر"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ae9db4dc569b83b2cac6

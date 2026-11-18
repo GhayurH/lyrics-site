@@ -1,11 +1,11 @@
 ---
 title: "Abu Talib Ki Midhat Ka Sila Hargiz Na Kam Loon Ga Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f1aa69e49fe4eb289565

@@ -1,11 +1,11 @@
 ---
 title: "Zindaan Hai Sakina Hai Andhera Hai Jafa Hai Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:17aae201df1eaa22549b

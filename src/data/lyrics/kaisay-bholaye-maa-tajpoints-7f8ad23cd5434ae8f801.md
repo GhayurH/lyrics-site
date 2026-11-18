@@ -1,11 +1,11 @@
 ---
 title: "Kaisay Bholaye Maa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7f8ad23cd5434ae8f801

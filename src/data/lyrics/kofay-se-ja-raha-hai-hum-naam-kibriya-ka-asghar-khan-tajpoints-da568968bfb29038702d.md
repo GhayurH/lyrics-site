@@ -1,11 +1,11 @@
 ---
 title: "Kofay Se Ja Raha Hai Hum Naam Kibriya Ka Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:da568968bfb29038702d

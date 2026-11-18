@@ -1,11 +1,11 @@
 ---
 title: "Liye Tehreer Baba Ki Gayin Darbar Hain Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nisar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0bd580e451f7804b9953

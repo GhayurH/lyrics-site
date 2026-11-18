@@ -1,11 +1,11 @@
 ---
 title: "Pardais Che Zahra Jaiyaan Nu Babay Nu Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:568399059e320027b9fa

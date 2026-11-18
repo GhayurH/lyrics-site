@@ -1,6 +1,6 @@
 ---
 title: "Akbar Bhi Nahi Baakhi Asghar Bhi Nahi Baakhi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

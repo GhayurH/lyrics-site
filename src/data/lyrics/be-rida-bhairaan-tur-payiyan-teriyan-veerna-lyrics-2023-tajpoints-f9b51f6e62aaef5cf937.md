@@ -1,11 +1,11 @@
 ---
 title: "Be Rida Bhairaan Tur Payiyan Teriyan Veerna Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f9b51f6e62aaef5cf937

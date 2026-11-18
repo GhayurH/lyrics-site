@@ -1,10 +1,10 @@
 ---
 title: "رونے پہ پہرا مصائب کس صحرا اکیلی ہے زہراؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ddf6908a91460c7e0262

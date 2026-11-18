@@ -1,11 +1,11 @@
 ---
 title: "Sar E Abbas Atta Hai Mir Hasan Mir Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b7a8947b383d5c8cfcb6

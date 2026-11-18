@@ -1,11 +1,11 @@
 ---
 title: "Ali Ke Samne Mara Syed Mohammad Shah Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ecaaccaa730c781bc471

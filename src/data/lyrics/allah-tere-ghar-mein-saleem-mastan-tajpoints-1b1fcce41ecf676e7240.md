@@ -1,11 +1,11 @@
 ---
 title: "Allah Tere Ghar Mein Saleem Mastan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ahsaan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1b1fcce41ecf676e7240

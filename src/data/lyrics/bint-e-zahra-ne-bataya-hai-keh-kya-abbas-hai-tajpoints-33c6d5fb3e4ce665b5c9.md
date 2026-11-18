@@ -1,11 +1,11 @@
 ---
 title: "Bint E Zahra Ne Bataya Hai Keh Kya Abbas Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:33c6d5fb3e4ce665b5c9

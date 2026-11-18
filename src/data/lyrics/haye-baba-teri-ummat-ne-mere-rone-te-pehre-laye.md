@@ -1,10 +1,10 @@
 ---
 title: "ہائے بابا تیری امت نے میرے رونے تے پہرے لائے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1231204e531a90d22a9d

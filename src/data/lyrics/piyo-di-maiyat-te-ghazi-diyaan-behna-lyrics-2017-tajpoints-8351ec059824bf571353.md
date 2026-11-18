@@ -1,11 +1,11 @@
 ---
 title: "Piyo Di Maiyat Te Ghazi Diyaan Behna Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8351ec059824bf571353

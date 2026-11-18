@@ -1,11 +1,11 @@
 ---
 title: "Aa Gaya Maidan E Khum Islam Pora Ho Gaya Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e721569ecc7ee7c53fb9

@@ -1,7 +1,7 @@
 ---
 title: "زینبؑ سے پہلے زہراؑ دربار میں گئی"
 alternateTitle: "Zainab Se Pehle Zahra Darbar Mein Gayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

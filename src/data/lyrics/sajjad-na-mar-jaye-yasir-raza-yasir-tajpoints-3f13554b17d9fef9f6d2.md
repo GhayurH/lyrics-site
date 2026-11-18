@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Na Mar Jaye Yasir Raza Yasir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3f13554b17d9fef9f6d2

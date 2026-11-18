@@ -1,11 +1,11 @@
 ---
 title: "Aaj Bhai Se Bhai Juda Ho Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:733c1beb734da853ad38

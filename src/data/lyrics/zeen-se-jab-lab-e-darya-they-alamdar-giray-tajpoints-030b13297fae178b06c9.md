@@ -1,11 +1,11 @@
 ---
 title: "Zeen Se Jab Lab-e-Darya They Alamdar Giray"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hamza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:030b13297fae178b06c9

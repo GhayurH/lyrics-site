@@ -1,11 +1,11 @@
 ---
 title: "Main Das Aaiyaan Bazaraan Wich Lyrics Punjabi 2021 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:b8931ee95bbeb4440866

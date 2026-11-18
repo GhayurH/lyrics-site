@@ -1,10 +1,10 @@
 ---
 title: "مجھے لے چلو بابا مجھے لے چلو بابا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:885cc01dae6c5a01a392

@@ -1,6 +1,6 @@
 ---
 title: "Chup Chaap Khara Puo Baqir Da"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

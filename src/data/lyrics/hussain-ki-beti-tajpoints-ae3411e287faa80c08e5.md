@@ -1,10 +1,10 @@
 ---
 title: "Hussain Ki Beti"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ae3411e287faa80c08e5

@@ -1,11 +1,11 @@
 ---
 title: "Chain Zahra Ko Tere Bad Na Aaya Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4b815f420d71f6fab54a

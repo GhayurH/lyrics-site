@@ -1,11 +1,11 @@
 ---
 title: "Mutasil Har Ghari Hussain Se Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3148893aaca0c44d95a5

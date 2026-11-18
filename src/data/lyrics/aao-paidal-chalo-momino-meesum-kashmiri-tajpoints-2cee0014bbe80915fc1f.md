@@ -1,11 +1,11 @@
 ---
 title: "Aao Paidal Chalo Momino Meesum Kashmiri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2cee0014bbe80915fc1f

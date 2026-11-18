@@ -1,6 +1,6 @@
 ---
 title: "Main Sham Turpaiyaan Deen Di Baka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

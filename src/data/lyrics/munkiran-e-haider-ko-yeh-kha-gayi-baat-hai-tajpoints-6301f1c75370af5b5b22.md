@@ -1,11 +1,11 @@
 ---
 title: "Munkiran-e-Haider Ko Yeh Kha Gayi Baat Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6301f1c75370af5b5b22

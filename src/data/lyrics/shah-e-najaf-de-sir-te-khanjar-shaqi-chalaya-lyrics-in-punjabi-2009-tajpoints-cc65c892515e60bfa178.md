@@ -1,11 +1,11 @@
 ---
 title: "Shah E Najaf De Sir Te Khanjar Shaqi Chalaya Lyrics In Punjabi 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tanveer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cc65c892515e60bfa178

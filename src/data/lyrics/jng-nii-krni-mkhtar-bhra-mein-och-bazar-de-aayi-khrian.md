@@ -1,11 +1,11 @@
 ---
 title: "جنگ نئی کرنی مختار بھرا میں وچ بازار دے آئی کھڑیاں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7b365267ff1c8fe60627

@@ -1,11 +1,11 @@
 ---
 title: "Zawaron Ke Youn Naaz Uthate Hain Farishte"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Bilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f455c0626fa8f69b6a7b

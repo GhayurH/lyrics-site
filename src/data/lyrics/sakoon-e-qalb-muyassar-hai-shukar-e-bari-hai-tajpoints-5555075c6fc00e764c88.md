@@ -1,11 +1,11 @@
 ---
 title: "Sakoon-e-Qalb Muyassar Hai Shukar-e-Bari Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5555075c6fc00e764c88

@@ -1,11 +1,11 @@
 ---
 title: "Tor Ker Band E Kafan Mujh Ko Bula Lo Amma Mir Hasan Mir Lyrics 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4fd27b4f23688a28bdb8

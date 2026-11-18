@@ -1,10 +1,10 @@
 ---
 title: "Eid Ka Din Hai Galay Hum Ko Laga Kar Miliye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2d247dfb4fc099803234

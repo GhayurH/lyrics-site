@@ -1,11 +1,11 @@
 ---
 title: "Murtaza Ki Betiyoon Par Zulm Ki Yalgar Hai Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9c244c3a9db344b4553b

@@ -1,11 +1,11 @@
 ---
 title: "Muharam Aa Giya Aab Tak Ali Akbar Nahi Aaye Ahsan Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naveed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3a7e4d95f5b9e1a5538f

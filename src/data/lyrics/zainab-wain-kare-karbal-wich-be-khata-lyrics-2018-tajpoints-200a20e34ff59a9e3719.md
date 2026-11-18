@@ -1,11 +1,11 @@
 ---
 title: "Zainab Wain Kare Karbal Wich Be Khata Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:200a20e34ff59a9e3719

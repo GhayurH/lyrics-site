@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Ka Akbar Askari Hassan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Askari"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:365c61dce966b47df411

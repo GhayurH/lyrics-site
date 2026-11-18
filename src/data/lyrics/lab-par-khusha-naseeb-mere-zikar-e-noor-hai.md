@@ -1,6 +1,6 @@
 ---
 title: "Lab Par Khusha Naseeb Mere Zikar e Noor Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

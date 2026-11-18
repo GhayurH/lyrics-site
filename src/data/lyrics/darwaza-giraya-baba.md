@@ -1,7 +1,7 @@
 ---
 title: "Darwaza Giraya Baba"
 alternateTitle: "Ummat Ne Teri Zahra Par Darwaza Giraya Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: ur
 direction: ltr
 kalamType: Noha

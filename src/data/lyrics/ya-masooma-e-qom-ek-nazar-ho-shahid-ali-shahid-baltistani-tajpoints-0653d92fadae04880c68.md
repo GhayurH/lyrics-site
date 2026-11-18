@@ -1,11 +1,11 @@
 ---
 title: "Ya Masooma E Qom Ek Nazar Ho Shahid Ali Shahid Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Jafar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0653d92fadae04880c68

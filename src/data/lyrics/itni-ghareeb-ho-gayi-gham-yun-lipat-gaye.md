@@ -1,11 +1,11 @@
 ---
 title: "اتنی غریب ہو گئی غم یوں لپٹ گئے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0c9ce1ff9e4739b53ab3

@@ -1,11 +1,11 @@
 ---
 title: "Abu Talib Se Ustad Sibte Jafar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Jafar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:222c99b29bd9471bbbe0

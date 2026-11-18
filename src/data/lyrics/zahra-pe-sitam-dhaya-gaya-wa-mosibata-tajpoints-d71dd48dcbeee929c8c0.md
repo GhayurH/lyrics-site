@@ -1,11 +1,11 @@
 ---
 title: "Zahra Pe Sitam Dhaya Gaya Wa Mosibata"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nabeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d71dd48dcbeee929c8c0

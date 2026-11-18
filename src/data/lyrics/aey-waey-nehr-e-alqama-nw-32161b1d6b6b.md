@@ -1,6 +1,6 @@
 ---
 title: "Aey Waey Nehr-e-Alqama"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

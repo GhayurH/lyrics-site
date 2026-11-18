@@ -1,11 +1,11 @@
 ---
 title: "Assalam Un Aleyk Ali Shanawar Ali Jee"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shanawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6df654e83b55b6148637

@@ -1,11 +1,11 @@
 ---
 title: "Saja Howa Hai Tamam Aalam Hussain Tashreef La Rahe Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7d32456e741226df177d

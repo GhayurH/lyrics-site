@@ -1,11 +1,11 @@
 ---
 title: "Makan-e-Hasat Koi La-Makaan Sanwarta Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Faqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3c7f1ced00cca11977fd

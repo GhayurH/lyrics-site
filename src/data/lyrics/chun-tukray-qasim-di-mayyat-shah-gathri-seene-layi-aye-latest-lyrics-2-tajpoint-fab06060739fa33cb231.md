@@ -1,6 +1,6 @@
 ---
 title: "Chun Tukray Qasim Di Mayyat Shah Gathri Seene Layi Aye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

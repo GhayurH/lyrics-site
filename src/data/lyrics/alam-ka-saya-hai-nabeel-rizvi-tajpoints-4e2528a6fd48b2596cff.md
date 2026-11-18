@@ -1,11 +1,11 @@
 ---
 title: "Alam Ka Saya Hai Nabeel Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nabeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4e2528a6fd48b2596cff

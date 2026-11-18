@@ -1,10 +1,10 @@
 ---
 title: "Totti Sansoon Mein Abid Se Sakina Ne Kaha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4b4e891f846cc3d17a68

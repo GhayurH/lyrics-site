@@ -1,11 +1,11 @@
 ---
 title: "Mere Bachoon Se Mere Zakhm Chupana Mola"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ad3245a59f70d1ad56a6

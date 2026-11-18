@@ -1,10 +1,10 @@
 ---
 title: "Tehro Maqtal Na Abhi Jao Khudara Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:75a934754e27ed22d502

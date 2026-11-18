@@ -1,11 +1,11 @@
 ---
 title: "Haye Akbar Allah O Akbar Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3429d9882347a1f7e069

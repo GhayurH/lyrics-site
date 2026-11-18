@@ -1,11 +1,11 @@
 ---
 title: "Ali Kay Dar Per"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Razi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:126521b6ef1b1a6f1a64

@@ -1,11 +1,11 @@
 ---
 title: "Jab Yousuf E Hussain Ka Mukhtar Hussain Lyrics 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8b8610c8dcd874b9f8ba

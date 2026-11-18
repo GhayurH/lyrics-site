@@ -1,11 +1,11 @@
 ---
 title: "Tujhe Rone Mere Baba Teri Zahra Kahan Jaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2cc99ab500c92f7ff4ba

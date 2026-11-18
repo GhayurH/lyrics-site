@@ -1,11 +1,11 @@
 ---
 title: "Ummat Dar E Rasool Jalane Ko Aayi Hai Lyrics New 03 Jamadi Ul Sani Ayyam E Fatamiya 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Navaid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:365d2d6438a25d7944ab

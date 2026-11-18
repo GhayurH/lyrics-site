@@ -1,11 +1,11 @@
 ---
 title: "Mola Hasan Mohammed Abbas Karim"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Karim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9f77f09d1bb0a10c7ecd

@@ -1,10 +1,10 @@
 ---
 title: "جب گئی آلِ پیمبرؑ کربلا سے شام تک"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:88a0e6a1c468439caf9e

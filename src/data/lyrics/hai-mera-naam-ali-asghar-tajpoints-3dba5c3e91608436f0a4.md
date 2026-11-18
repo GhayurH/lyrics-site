@@ -1,11 +1,11 @@
 ---
 title: "Hai Mera Naam Ali Asghar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallaum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3dba5c3e91608436f0a4

@@ -1,11 +1,11 @@
 ---
 title: "Ali Ke Zikar Ka Kya Hai Sawab Mat Pocho Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a931941cae873357ebaa

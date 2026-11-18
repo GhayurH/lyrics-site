@@ -1,11 +1,11 @@
 ---
 title: "Kevain Syedan Eid Manai Raza Hassan Sadiq Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khursheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:675379f5d17c65f487e7

@@ -1,11 +1,11 @@
 ---
 title: "Zaat E Wajib Tera Ehsan Abu Talib Hain Rehan Azmi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dec163c1d1877eec2f24

@@ -1,11 +1,11 @@
 ---
 title: "Aagosh-e-Muhammad Ka Youn Pala To Dikhao"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:de8e1c807028029b8cae

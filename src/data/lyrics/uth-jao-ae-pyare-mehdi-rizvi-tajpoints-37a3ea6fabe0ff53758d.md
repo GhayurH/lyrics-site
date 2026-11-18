@@ -1,11 +1,11 @@
 ---
 title: "Uth Jao Ae Pyare Mehdi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37a3ea6fabe0ff53758d

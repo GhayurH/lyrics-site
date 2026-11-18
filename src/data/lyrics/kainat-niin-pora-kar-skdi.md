@@ -1,11 +1,11 @@
 ---
 title: "کائنات نئیں پورا کر سکدی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b0fb2476366bd6a4c60a

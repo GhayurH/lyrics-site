@@ -1,6 +1,6 @@
 ---
 title: "Sajjad Nu Ay Manzar, Bulna Nay Zindagi Sari"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

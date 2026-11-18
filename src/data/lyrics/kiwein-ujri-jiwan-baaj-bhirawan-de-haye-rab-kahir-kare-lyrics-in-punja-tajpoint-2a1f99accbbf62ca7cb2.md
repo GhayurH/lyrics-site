@@ -1,11 +1,11 @@
 ---
 title: "Kiwein Ujri Jiwan Baaj Bhirawan De Haye Rab Kahir Kare Lyrics In Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Amar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:2a1f99accbbf62ca7cb2

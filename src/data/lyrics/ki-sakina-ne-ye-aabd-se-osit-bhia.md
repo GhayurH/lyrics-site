@@ -1,10 +1,10 @@
 ---
 title: "کی سکینہؑ نے یہ عابدؑ سے وصیت بھیا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ac522ab0500cbce6a93b

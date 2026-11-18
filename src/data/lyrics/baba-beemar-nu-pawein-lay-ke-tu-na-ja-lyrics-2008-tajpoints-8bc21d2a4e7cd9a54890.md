@@ -1,11 +1,11 @@
 ---
 title: "Baba Beemar Nu Pawein Lay Ke Tu Na Ja Lyrics 2008"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8bc21d2a4e7cd9a54890

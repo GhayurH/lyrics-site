@@ -1,10 +1,10 @@
 ---
 title: "Sheh Ka Matam Karne Bapa Hum Chale Hain Karbala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:10ff2ffc6da323149f82

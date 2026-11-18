@@ -1,11 +1,11 @@
 ---
 title: "Jis Ke Din Raat Katay Qaid Ke Andherey Mein Lyrics 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ff446cea5b5218a8601e

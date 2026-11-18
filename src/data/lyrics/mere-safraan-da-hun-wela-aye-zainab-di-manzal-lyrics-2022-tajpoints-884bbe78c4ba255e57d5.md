@@ -1,11 +1,11 @@
 ---
 title: "Mere Safraan Da Hun Wela Aye Zainab Di Manzal Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:884bbe78c4ba255e57d5

@@ -1,11 +1,11 @@
 ---
 title: "Turya Jadon Janaza Mola Ali Raza Da Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d979fe437942d1328aef

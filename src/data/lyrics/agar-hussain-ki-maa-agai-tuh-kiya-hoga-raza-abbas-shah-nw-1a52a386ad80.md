@@ -1,6 +1,6 @@
 ---
 title: "Agar Hussain Ki Maa Agai Tuh Kiya Hoga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

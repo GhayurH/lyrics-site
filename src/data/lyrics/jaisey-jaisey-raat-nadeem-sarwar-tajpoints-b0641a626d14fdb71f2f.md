@@ -1,10 +1,10 @@
 ---
 title: "Jaisey Jaisey Raat Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b0641a626d14fdb71f2f

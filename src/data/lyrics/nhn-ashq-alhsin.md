@@ -1,10 +1,10 @@
 ---
 title: "نحنُ عشق الحسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:9ba12ea6a66912bcc875

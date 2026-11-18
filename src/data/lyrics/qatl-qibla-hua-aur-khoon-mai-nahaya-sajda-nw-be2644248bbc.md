@@ -1,6 +1,6 @@
 ---
 title: "Qatl Qibla Hua, Aur Khoon Mai Nahaya Sajda"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

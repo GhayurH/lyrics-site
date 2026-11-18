@@ -1,11 +1,11 @@
 ---
 title: "Aqeda Hai Mera Juda Bolta Hai Hasnain Akbar Best Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:207434c7d6f95bc7d41c

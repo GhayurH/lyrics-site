@@ -1,10 +1,10 @@
 ---
 title: "Kabhi Aey Haqiqat-e-Muntazir Nazar Aa Libas-e-Majaz Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:06abe42e00e17fb15af9

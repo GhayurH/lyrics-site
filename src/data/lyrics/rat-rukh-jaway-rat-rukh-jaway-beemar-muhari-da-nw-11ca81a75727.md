@@ -1,6 +1,6 @@
 ---
 title: "Rat Rukh Jaway, Rat Rukh Jaway, Beemar Muhari Da"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

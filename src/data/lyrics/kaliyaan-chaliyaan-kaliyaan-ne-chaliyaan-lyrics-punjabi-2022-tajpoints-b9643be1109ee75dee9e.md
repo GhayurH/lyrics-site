@@ -1,11 +1,11 @@
 ---
 title: "Kaliyaan Chaliyaan Kaliyaan Ne Chaliyaan Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b9643be1109ee75dee9e

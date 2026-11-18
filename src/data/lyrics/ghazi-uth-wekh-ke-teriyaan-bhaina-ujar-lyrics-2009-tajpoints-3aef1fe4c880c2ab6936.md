@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Uth Wekh Ke Teriyaan Bhaina Ujar Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3aef1fe4c880c2ab6936

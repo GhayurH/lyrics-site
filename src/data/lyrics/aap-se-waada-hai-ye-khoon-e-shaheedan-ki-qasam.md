@@ -1,10 +1,10 @@
 ---
 title: "آپ سے وعدہ ہے یہ خونِ شہیداں کی قسم"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:23ad5c4bb4e8a2145559

@@ -1,6 +1,6 @@
 ---
 title: "Khol Di Ay Beemar Gharan De Jhandre Kadi Band Kardi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

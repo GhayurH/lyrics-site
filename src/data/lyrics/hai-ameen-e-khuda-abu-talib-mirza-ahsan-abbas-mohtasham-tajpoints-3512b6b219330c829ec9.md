@@ -1,7 +1,7 @@
 ---
 title: "ہے امینِ خدا ابو طالب"
 alternateTitle: "Hai Amin-e-Khuda Abu Talib"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

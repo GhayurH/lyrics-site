@@ -1,11 +1,11 @@
 ---
 title: "Bhula Sake Gi Na Dunya Teri Wafa Ghazi Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mushtaq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5e0ac7dae45ca87f601c

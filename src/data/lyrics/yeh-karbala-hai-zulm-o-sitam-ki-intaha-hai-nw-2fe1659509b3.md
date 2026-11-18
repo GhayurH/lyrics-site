@@ -1,7 +1,7 @@
 ---
 title: "ظلم و ستم کی انتہا ہے، یہ کربلا ہے"
 alternateTitle: "Zulm-o-Sitam Ki Intiha Hai, Ye Karbala Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

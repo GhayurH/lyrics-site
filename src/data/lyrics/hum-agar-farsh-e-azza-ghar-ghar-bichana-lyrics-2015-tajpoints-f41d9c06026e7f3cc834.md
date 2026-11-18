@@ -1,11 +1,11 @@
 ---
 title: "Hum Agar Farsh-e-Azza Ghar Ghar Bichana Lyrics 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f41d9c06026e7f3cc834

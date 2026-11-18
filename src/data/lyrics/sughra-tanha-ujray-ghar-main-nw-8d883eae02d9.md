@@ -1,6 +1,6 @@
 ---
 title: "Sughra Tanha Ujray Ghar Main"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

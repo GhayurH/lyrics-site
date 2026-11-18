@@ -1,10 +1,10 @@
 ---
 title: "زنداں چہ موسیٰ کاظمؑ دی رات آخری اے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:99ab6ca7f1546181b95e

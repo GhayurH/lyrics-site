@@ -1,11 +1,11 @@
 ---
 title: "Karbala Ki Maon Ki Ghurbat Saleem Mastan Wa Bradran"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d09390968fc13fdb3235

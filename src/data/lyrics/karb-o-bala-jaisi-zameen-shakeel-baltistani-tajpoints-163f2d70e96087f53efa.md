@@ -1,11 +1,11 @@
 ---
 title: "Karb-o-Bala Jaisi Zameen Shakeel Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ansar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:163f2d70e96087f53efa

@@ -1,11 +1,11 @@
 ---
 title: "Ujri Rubab Nu Shami Standay Ray Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bde32a50fb9c9d5c77dc

@@ -1,11 +1,11 @@
 ---
 title: "Wo Humsafar Tha Magar Usse Humnawai Na Thi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naseer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:764719e6df6324a63f5c

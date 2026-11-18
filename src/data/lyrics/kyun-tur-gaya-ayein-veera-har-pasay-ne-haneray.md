@@ -1,6 +1,6 @@
 ---
 title: "Kyun Tur Gaya Ayein Veera Har Pasay Ne Haneray"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

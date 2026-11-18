@@ -1,11 +1,11 @@
 ---
 title: "Bhain Sughra Tera Jhola Asghar Roz Jholaway Lyrics 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fb0e4b1c1389699fd192

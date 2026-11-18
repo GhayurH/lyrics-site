@@ -1,11 +1,11 @@
 ---
 title: "اللہ جانے کدوں مڑ کے آونا اے زہراؑ جائیاں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7fc75405e51aaeaebdbc

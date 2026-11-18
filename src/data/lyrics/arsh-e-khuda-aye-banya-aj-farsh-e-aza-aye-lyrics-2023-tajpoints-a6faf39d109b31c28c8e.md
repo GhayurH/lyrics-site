@@ -1,11 +1,11 @@
 ---
 title: "Arsh E Khuda Aye Banya Aj Farsh E Aza Aye Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a6faf39d109b31c28c8e

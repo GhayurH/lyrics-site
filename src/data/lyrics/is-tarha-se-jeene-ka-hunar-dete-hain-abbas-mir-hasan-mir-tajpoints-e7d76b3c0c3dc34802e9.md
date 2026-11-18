@@ -1,11 +1,11 @@
 ---
 title: "Is Tarha Se Jeene Ka Hunar Dete Hain Abbas Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e7d76b3c0c3dc34802e9

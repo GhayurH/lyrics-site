@@ -1,10 +1,10 @@
 ---
 title: "روحِ رسولؐ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:924b6d188996a4c3401e

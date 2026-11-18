@@ -1,11 +1,11 @@
 ---
 title: "Udekaan Akbar Veer Diyaan Ch Faiyaz Party Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d8f3114d4b8c03428425

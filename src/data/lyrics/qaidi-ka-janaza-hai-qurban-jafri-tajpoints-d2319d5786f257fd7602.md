@@ -1,11 +1,11 @@
 ---
 title: "Qaidi Ka Janaza Hai Qurban Jafri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qurban"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d2319d5786f257fd7602

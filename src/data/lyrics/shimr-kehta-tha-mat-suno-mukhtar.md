@@ -1,6 +1,6 @@
 ---
 title: "Shimr Kehta Tha Mat Suno Mukhtar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

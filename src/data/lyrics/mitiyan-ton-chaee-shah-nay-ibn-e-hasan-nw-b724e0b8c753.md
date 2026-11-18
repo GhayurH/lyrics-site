@@ -1,6 +1,6 @@
 ---
 title: "Mitiyan Ton Chaee Shah Nay Ibn-e-Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

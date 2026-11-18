@@ -1,10 +1,10 @@
 ---
 title: "اِس لا الہ پہ جس نے گھر کو لٹا دیا اُس کو بھلا دیا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c8337c982594973398c7

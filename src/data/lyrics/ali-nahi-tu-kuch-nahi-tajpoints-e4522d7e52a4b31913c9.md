@@ -1,11 +1,11 @@
 ---
 title: "Ali Nahi Tu Kuch Nahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e4522d7e52a4b31913c9

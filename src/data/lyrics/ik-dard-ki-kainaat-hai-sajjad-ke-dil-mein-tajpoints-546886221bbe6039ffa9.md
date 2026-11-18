@@ -1,11 +1,11 @@
 ---
 title: "Ik Dard Ki Kainaat Hai Sajjad Ke Dil Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:546886221bbe6039ffa9

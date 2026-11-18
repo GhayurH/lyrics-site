@@ -1,11 +1,11 @@
 ---
 title: "Kahan Ho Mere Hussain Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azlan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:77f57791e8e03177b117

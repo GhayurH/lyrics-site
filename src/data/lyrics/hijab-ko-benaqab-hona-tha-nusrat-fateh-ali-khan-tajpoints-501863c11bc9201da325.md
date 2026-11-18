@@ -1,10 +1,10 @@
 ---
 title: "Hijab Ko Benaqab Hona Tha Nusrat Fateh Ali Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:501863c11bc9201da325

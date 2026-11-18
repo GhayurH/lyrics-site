@@ -1,11 +1,11 @@
 ---
 title: "Zehar E Qatil Le Gaya Jafar E Sadiq Ki Jaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1a7044b30ed8d19c0b41

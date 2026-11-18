@@ -1,11 +1,11 @@
 ---
 title: "Roze Nabi Taun Aayi Aye Ahmad Di Aye Sada Sheraz Khan Lyrics Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tosif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f8b8e2e6ef1cc3ab9b38

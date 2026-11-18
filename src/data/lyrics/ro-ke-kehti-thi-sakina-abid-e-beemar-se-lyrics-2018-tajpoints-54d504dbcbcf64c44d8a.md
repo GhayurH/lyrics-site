@@ -1,11 +1,11 @@
 ---
 title: "Ro Ke Kehti Thi Sakina Abid E Beemar Se Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:54d504dbcbcf64c44d8a

@@ -1,11 +1,11 @@
 ---
 title: "Zahra Peshi Te Aayi Aye Sheraz Khan Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fb2d36c89138cc56be55

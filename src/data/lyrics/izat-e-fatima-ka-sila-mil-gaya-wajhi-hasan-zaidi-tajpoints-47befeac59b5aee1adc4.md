@@ -1,11 +1,11 @@
 ---
 title: "Izat E Fatima Ka Sila Mil Gaya Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:47befeac59b5aee1adc4

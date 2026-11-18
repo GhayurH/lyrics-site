@@ -1,6 +1,6 @@
 ---
 title: "Karbal Dy Musafir Nu Roo Akhdi Rae Sughra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

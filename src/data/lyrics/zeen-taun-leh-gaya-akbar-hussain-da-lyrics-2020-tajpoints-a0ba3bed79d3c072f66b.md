@@ -1,11 +1,11 @@
 ---
 title: "Zeen Taun Leh Gaya Akbar Hussain Da Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a0ba3bed79d3c072f66b

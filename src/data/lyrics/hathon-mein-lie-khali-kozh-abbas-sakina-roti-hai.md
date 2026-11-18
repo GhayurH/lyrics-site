@@ -1,10 +1,10 @@
 ---
 title: "ہاتھوں میں لئے خالی کوزہ عباسؑ سکینہؑ روتی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7e6e54f2c47c548b5447

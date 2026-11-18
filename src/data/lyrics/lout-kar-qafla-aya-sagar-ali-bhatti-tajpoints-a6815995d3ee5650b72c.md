@@ -1,11 +1,11 @@
 ---
 title: "Lout Kar Qafla Aya Sagar Ali Bhatti"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sanagar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a6815995d3ee5650b72c

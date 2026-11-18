@@ -1,10 +1,10 @@
 ---
 title: "Talu-e-Sehar Hai Sham-e-Qalandar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6def1a7708f185659c48

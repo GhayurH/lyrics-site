@@ -1,11 +1,11 @@
 ---
 title: "Yateem Kehte Hain Log Hum Ko Ali Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:06d60bbd96b2587675cf

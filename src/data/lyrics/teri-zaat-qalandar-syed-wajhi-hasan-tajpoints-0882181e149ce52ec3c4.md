@@ -1,11 +1,11 @@
 ---
 title: "Teri Zaat Qalandar Syed Wajhi Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0882181e149ce52ec3c4

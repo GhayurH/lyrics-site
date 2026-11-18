@@ -1,11 +1,11 @@
 ---
 title: "Aankhon Mein Ashkoon Ke Nazrane Le Kar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Rahat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:24c3cd7fb06bbeed1cda

@@ -1,11 +1,11 @@
 ---
 title: "Ali Ko Sataaya Logo Ny Shaan Rizwan Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d266f547ef87b35d9ec1

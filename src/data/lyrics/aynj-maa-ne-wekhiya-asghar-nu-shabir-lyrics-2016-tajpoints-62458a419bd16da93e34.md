@@ -1,11 +1,11 @@
 ---
 title: "Aynj Maa Ne Wekhiya Asghar Nu Shabir Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:62458a419bd16da93e34

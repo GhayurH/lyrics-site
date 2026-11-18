@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Ki Gardan Pe Hai Shamshir Jafa Ki Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:23ae89c82923cc47b02e

@@ -1,11 +1,11 @@
 ---
 title: "Aap Ajayen Jo Mola Shahid Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Darwaish"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4d1ddbbe9bbd43a36625

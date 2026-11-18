@@ -1,11 +1,11 @@
 ---
 title: "Nanay De Rozay Te Ja Ke Sughra Arzaan Kardi Aye Lyrics Punjabi 2026 Bibi Sughra Noha MSO Party Silkot"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:9e669f614b20602998ed

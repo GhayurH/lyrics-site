@@ -1,11 +1,11 @@
 ---
 title: "Hassan Ke Lal Janab-e-Ameer Qasim Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ab75420061a24fcb5f70

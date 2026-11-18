@@ -1,6 +1,6 @@
 ---
 title: "Aao Zindan Mei Roshni Ban Ker, Mere Baba Bara Andhera Hay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

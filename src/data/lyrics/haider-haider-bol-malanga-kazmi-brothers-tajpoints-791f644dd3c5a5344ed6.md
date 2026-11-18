@@ -1,11 +1,11 @@
 ---
 title: "Haider Haider Bol Malanga Kazmi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Bulleh"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:791f644dd3c5a5344ed6

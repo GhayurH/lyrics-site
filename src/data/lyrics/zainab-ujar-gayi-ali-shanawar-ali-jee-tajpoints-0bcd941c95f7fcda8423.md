@@ -1,11 +1,11 @@
 ---
 title: "Zainab Ujar Gayi Ali Shanawar Ali Jee"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0bcd941c95f7fcda8423

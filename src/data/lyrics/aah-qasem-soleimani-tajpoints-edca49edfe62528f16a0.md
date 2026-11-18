@@ -1,11 +1,11 @@
 ---
 title: "Aah Qasem Soleimani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:edca49edfe62528f16a0

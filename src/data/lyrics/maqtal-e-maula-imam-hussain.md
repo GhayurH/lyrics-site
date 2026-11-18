@@ -1,7 +1,7 @@
 ---
 title: "Maqtal-e-Maula Imam Husain"
 alternateTitle: "Maqtal-e-Maula Imam Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

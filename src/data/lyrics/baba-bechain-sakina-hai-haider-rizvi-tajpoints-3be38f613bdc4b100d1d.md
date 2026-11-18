@@ -1,11 +1,11 @@
 ---
 title: "Baba Bechain Sakina Hai Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3be38f613bdc4b100d1d

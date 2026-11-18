@@ -1,11 +1,11 @@
 ---
 title: "Roti Hai Kyun Batool Meesam Zaidi Bhawana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zaki"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b5fec12094f4e78eb2cf

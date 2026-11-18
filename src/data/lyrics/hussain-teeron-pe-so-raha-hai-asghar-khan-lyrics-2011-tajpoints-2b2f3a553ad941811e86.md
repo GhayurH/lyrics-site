@@ -1,11 +1,11 @@
 ---
 title: "Hussain Teeron Pe So Raha Hai Asghar Khan Lyrics 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2b2f3a553ad941811e86

@@ -1,11 +1,11 @@
 ---
 title: "Sibt-e-Nabi Ko Zehar Se Masmom Kiya Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:550d4e70575717884ac9

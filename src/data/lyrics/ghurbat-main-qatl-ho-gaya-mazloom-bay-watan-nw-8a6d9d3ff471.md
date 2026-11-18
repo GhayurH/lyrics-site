@@ -1,6 +1,6 @@
 ---
 title: "Ghurbat Main Qatl Ho Gaya Mazloom Bay Watan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

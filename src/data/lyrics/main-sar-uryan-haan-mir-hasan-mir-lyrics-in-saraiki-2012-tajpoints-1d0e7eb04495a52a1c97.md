@@ -1,11 +1,11 @@
 ---
 title: "Main Sar Uryan Haan Mir Hasan Mir Lyrics In Saraiki 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d0e7eb04495a52a1c97

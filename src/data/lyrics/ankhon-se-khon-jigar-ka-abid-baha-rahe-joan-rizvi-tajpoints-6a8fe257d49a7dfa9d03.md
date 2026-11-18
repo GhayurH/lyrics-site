@@ -1,11 +1,11 @@
 ---
 title: "Ankhon Se Khon Jigar Ka Abid Baha Rahe Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6a8fe257d49a7dfa9d03

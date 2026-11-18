@@ -1,10 +1,10 @@
 ---
 title: "Jurm-e-Ulfat Pe Log Hamen Saza Dete Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6a9e8edcb7b87b897ca7

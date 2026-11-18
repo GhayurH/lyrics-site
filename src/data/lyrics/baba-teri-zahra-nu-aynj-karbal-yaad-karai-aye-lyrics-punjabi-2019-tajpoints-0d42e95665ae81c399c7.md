@@ -1,11 +1,11 @@
 ---
 title: "Baba Teri Zahra Nu Aynj Karbal Yaad Karai Aye Lyrics Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0d42e95665ae81c399c7

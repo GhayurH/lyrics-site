@@ -1,11 +1,11 @@
 ---
 title: "Haan Woh Hain Mujtaba Haan Woh Hain Mujtaba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:34f6f22ef5eefdd20186

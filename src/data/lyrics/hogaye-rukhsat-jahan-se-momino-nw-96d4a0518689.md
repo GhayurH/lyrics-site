@@ -1,6 +1,6 @@
 ---
 title: "Hogaye Rukhsat Jahan Se Momino"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

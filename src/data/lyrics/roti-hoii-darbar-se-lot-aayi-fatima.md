@@ -1,10 +1,10 @@
 ---
 title: "روتی ہوئی دربار سے لوٹ آئی فاطمہؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7eb1edd407d1ac0ff104

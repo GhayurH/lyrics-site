@@ -1,10 +1,10 @@
 ---
 title: "مدحِ حیدرؑ کرتے ہیں اہلِ جفا کے سامنے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6935164a5d926f66d616

@@ -1,11 +1,11 @@
 ---
 title: "Jafar E Sadiq Ka Taboot Utha Hai Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Basharat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3ff88e88cceb2dc11594

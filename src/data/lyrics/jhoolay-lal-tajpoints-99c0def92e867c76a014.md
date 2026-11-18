@@ -1,10 +1,10 @@
 ---
 title: "Jhoolay Lal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:99c0def92e867c76a014

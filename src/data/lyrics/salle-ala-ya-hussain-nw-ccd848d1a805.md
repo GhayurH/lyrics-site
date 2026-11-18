@@ -1,6 +1,6 @@
 ---
 title: "Salle ala ya hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Ya Hussain Marahaba Ya Hussain Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b9cc62fa16d465e4b63a

@@ -1,10 +1,10 @@
 ---
 title: "ہائے او مینڈا مظلوم بابا دھی تینڈی کوں نئیں رون دیندے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:909efbbe2d84b4fa0bfd

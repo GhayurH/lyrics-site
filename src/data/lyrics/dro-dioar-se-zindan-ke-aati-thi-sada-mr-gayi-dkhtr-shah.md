@@ -1,10 +1,10 @@
 ---
 title: "درو دیوار سے زنداں کے آتی تھی صدا مر گئی دختر شاہ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e38b70781c3cce6d3830

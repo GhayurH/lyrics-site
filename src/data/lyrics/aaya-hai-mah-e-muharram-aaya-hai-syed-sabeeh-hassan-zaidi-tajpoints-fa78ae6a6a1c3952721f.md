@@ -1,11 +1,11 @@
 ---
 title: "Aaya Hai Mah-e-Muharram Aaya Hai Syed Sabeeh Hassan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fa78ae6a6a1c3952721f

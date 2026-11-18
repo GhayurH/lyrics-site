@@ -1,11 +1,11 @@
 ---
 title: "Har Welay Putar Sajjad Tu Rat Na Roya Kar Hasan Sadiq Lyrics 2004"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khursheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1e30341e8d45a7b864fa

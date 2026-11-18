@@ -1,11 +1,11 @@
 ---
 title: "Karne Do Mujhe Saqi-e-Kausar Ki Sana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b58548e8c495ab16d3fd

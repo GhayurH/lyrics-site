@@ -1,11 +1,11 @@
 ---
 title: "Qatal Masjid Main Qully Eman Ho Gaya Hai Master Ali Zamin"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bd50ed8334236fe171ff

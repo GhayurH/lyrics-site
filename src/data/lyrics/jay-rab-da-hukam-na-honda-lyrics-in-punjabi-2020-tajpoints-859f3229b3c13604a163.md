@@ -1,11 +1,11 @@
 ---
 title: "Jay Rab Da Hukam Na Honda Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:859f3229b3c13604a163

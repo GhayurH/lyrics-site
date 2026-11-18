@@ -1,11 +1,11 @@
 ---
 title: "Koi Bacha Le Mere Bhai Ka Gala Aa Ke Syed Ali Naqvi Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5f9977642c466e134826

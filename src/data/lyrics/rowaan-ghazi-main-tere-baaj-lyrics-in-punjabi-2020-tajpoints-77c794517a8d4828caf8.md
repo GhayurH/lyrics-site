@@ -1,11 +1,11 @@
 ---
 title: "Rowaan Ghazi Main Tere Baaj Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Abdullah"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:77c794517a8d4828caf8

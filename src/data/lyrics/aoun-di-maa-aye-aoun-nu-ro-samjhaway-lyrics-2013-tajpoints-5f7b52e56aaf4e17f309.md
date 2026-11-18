@@ -1,11 +1,11 @@
 ---
 title: "Aoun Di Maa Aye Aoun Nu Ro Samjhaway Lyrics 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5f7b52e56aaf4e17f309

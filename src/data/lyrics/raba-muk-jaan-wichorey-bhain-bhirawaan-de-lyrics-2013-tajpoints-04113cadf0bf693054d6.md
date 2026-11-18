@@ -1,11 +1,11 @@
 ---
 title: "Raba Muk Jaan Wichorey Bhain Bhirawaan De Lyrics 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:04113cadf0bf693054d6

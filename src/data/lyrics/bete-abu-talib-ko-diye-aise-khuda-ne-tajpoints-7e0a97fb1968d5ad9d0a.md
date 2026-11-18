@@ -1,11 +1,11 @@
 ---
 title: "Bete Abu Talib Ko Diye Aise Khuda Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7e0a97fb1968d5ad9d0a

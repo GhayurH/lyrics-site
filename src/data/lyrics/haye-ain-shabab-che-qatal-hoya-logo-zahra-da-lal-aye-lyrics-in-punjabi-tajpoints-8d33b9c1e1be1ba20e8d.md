@@ -1,11 +1,11 @@
 ---
 title: "Haye Ain Shabab Che Qatal Hoya Logo Zahra Da Lal Aye Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8d33b9c1e1be1ba20e8d

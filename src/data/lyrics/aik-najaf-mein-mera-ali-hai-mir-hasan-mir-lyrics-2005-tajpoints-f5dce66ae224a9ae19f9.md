@@ -1,11 +1,11 @@
 ---
 title: "Aik Najaf Mein Mera Ali Hai Mir Hasan Mir Lyrics 2005"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f5dce66ae224a9ae19f9

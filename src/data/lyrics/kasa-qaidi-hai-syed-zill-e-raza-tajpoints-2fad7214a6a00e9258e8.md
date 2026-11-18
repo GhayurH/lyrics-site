@@ -1,10 +1,10 @@
 ---
 title: "Kasa Qaidi Hai Syed Zill E Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2fad7214a6a00e9258e8

@@ -1,10 +1,10 @@
 ---
 title: "Izn E Wida Na Mil Paya Khara Hai Aas Liye Lyrics 2024 Official"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:1391b0bf4ab845909afc

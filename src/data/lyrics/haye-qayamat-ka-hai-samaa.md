@@ -1,7 +1,7 @@
 ---
 title: "Haye Qayamat Ka Hai Samaa"
 alternateTitle: "Chane Lagi Sham-e-Ghareeban"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

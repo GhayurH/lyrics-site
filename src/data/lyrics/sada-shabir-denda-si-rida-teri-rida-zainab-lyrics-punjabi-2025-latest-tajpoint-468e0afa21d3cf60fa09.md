@@ -1,11 +1,11 @@
 ---
 title: "Sada Shabir Denda Si Rida Teri Rida Zainab Lyrics Punjabi 2025 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:468e0afa21d3cf60fa09

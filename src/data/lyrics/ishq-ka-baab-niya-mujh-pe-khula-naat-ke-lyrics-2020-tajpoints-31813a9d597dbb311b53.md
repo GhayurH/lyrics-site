@@ -1,11 +1,11 @@
 ---
 title: "Ishq Ka Baab Niya Mujh Pe Khula Naat Ke Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:31813a9d597dbb311b53

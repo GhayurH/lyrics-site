@@ -1,6 +1,6 @@
 ---
 title: "Baba Tere Baaj Sakina Nu Kera Loriyaan Naal Sulaway Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

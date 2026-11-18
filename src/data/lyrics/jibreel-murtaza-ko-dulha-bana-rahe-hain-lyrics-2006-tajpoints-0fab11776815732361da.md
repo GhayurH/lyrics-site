@@ -1,11 +1,11 @@
 ---
 title: "Jibreel Murtaza Ko Dulha Bana Rahe Hain Lyrics 2006"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0fab11776815732361da

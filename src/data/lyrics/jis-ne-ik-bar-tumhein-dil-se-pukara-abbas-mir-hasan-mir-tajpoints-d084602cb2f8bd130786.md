@@ -1,11 +1,11 @@
 ---
 title: "Jis Ne Ik Bar Tumhein Dil Se Pukara Abbas Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d084602cb2f8bd130786

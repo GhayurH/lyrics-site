@@ -1,10 +1,10 @@
 ---
 title: "Abbas E Ammu Janum Ali Jee"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dc23975094c9bfd77fcd

@@ -1,11 +1,11 @@
 ---
 title: "Haq Mera Bhool Gaye Ahl-e-Madina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ffd2c375f842784ebb58

@@ -1,10 +1,10 @@
 ---
 title: "Rahwaan De Wich Sain Ruqaiya Roway Te Kurlaway Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:13adb23de982e99d8174

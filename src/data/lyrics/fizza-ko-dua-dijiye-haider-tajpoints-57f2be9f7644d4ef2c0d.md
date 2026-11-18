@@ -1,11 +1,11 @@
 ---
 title: "Fizza Ko Dua Dijiye Haider"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:57f2be9f7644d4ef2c0d

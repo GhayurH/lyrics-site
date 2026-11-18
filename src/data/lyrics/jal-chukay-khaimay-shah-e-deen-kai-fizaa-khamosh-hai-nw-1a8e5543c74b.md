@@ -1,6 +1,6 @@
 ---
 title: "Jal Chukay Khaimay Shah-e-Deen Kai Fizaa Khamosh Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

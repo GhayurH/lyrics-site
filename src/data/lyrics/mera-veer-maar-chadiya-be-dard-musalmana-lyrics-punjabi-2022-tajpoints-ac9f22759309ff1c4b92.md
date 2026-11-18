@@ -1,11 +1,11 @@
 ---
 title: "Mera Veer Maar Chadiya Be Dard Musalmana Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ac9f22759309ff1c4b92

@@ -1,11 +1,11 @@
 ---
 title: "Haidery Shamsheer Ki Sorat Hai Tu Mukhtar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d5790e8ec1cd3d607494

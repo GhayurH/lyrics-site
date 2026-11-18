@@ -1,6 +1,6 @@
 ---
 title: "Haye Mar Na Jaway Zainab Babay Da Haal Tak Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

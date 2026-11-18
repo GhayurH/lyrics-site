@@ -1,11 +1,11 @@
 ---
 title: "Har Koi Abbas Par Youn Zulm Dhata Reh Gaya Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:da0af5e63122849d2d16

@@ -1,11 +1,11 @@
 ---
 title: "Sar Dar-e-All-e-Muhammad Par Jhukana Lyrics 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4fa2438cf027488343d5

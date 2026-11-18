@@ -1,6 +1,6 @@
 ---
 title: "Laal Meray Bichray Hain Bhaiya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Kab Talak Shama Jali Yaad Nahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qateel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2e4a175f096ebf0aa7a7

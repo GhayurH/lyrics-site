@@ -1,11 +1,11 @@
 ---
 title: "Hazaroon Khowaishein Aysi Keh Har Khowaish Peh Dam Nikle"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1f1a1d3436567011c24f

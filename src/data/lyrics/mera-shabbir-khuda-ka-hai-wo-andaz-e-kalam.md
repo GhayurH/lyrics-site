@@ -1,10 +1,10 @@
 ---
 title: "میرا شبیرؑ خدا کا ہے وہ انداذِ کلام"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:026fd450e94452af8df5

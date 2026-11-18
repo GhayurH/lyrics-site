@@ -1,10 +1,10 @@
 ---
 title: "صبحِ عاشور ہے دے دے اکبرؑ اذاں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b467e69628af3f6683df

@@ -1,11 +1,11 @@
 ---
 title: "Deti Hai Tujh Ko Sada Maula Raza Teri Behan Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c4cdf60b4e4efeda292b

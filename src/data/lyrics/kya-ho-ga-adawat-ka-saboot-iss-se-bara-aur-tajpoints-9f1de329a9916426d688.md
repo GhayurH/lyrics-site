@@ -1,11 +1,11 @@
 ---
 title: "Kya Ho Ga Adawat Ka Saboot Iss Se Bara Aur"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Bilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9f1de329a9916426d688

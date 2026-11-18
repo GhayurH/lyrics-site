@@ -1,10 +1,10 @@
 ---
 title: "بھری جوانی میں اکبرؑ کو موت آئی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a38bad63813762d4f52e

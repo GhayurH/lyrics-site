@@ -1,11 +1,11 @@
 ---
 title: "Jag Toon Wakhri Sakhi Ghazi Di Wafa Aye Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Qasida"
 poet: "Mirza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e5c27867fd47e4083b5e

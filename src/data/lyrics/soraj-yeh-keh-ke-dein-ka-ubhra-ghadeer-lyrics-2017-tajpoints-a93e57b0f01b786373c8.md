@@ -1,11 +1,11 @@
 ---
 title: "Soraj Yeh Keh Ke Dein Ka Ubhra Ghadeer Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a93e57b0f01b786373c8

@@ -1,11 +1,11 @@
 ---
 title: "Salam Hai Arz-e-Karbala Par Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ed205cff2860a06c21e2

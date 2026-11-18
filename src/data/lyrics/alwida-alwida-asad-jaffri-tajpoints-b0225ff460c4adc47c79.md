@@ -1,11 +1,11 @@
 ---
 title: "Alwida Alwida Asad Jaffri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b0225ff460c4adc47c79

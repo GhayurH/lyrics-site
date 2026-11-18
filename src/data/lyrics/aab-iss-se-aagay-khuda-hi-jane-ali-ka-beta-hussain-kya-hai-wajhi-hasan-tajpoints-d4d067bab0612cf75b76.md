@@ -1,7 +1,7 @@
 ---
 title: "اب اس سے آگے خدا ہی جانے علی کا بیٹا حسین کیا ہے"
 alternateTitle: "Ab Is Se Aage Khuda Hi Jaane Ali Ka Beta Husain Kya Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

@@ -1,11 +1,11 @@
 ---
 title: "Tu Rab Ka Mohafiz Hai Tu Rab Tera Nigehbaan Lyrics 2004"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:12494c2aeef03a419499

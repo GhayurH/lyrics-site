@@ -1,11 +1,11 @@
 ---
 title: "Barah Galay Soz Sheraz Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Soz"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ab1006e44a6295e943e4

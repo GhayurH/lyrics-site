@@ -1,11 +1,11 @@
 ---
 title: "Yateemi Aa Gayi Zainab Master Syed Mohammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:16766baa130ebf6da3bf

@@ -1,11 +1,11 @@
 ---
 title: "Mera Maula Hasan Woh Peshwa Hai Qambar Kiyani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:45900fb6d13d267af996

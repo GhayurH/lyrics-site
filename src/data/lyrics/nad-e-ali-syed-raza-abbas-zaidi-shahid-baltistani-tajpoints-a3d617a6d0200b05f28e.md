@@ -1,11 +1,11 @@
 ---
 title: "Nad E Ali Syed Raza Abbas Zaidi Shahid Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Darwaish"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a3d617a6d0200b05f28e

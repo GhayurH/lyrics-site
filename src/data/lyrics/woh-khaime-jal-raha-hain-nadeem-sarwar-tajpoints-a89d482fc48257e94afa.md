@@ -1,11 +1,11 @@
 ---
 title: "Woh Khaime Jal Raha Hain Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a89d482fc48257e94afa

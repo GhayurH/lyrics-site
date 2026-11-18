@@ -1,11 +1,11 @@
 ---
 title: "Darbar Di Peshi Zainab Di Sajjad Nu Khon Rawa Gayi Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qamar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2d206c92ed4517a9ddce

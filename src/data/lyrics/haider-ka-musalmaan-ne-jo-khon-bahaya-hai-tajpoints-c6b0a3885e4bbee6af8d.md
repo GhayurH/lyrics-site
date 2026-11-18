@@ -1,7 +1,7 @@
 ---
 title: "حیدر کا مسلمان نے جو خون بہایا ہے"
 alternateTitle: "Haider Ka Musalmaan Ne Jo Khun Bahaaya Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

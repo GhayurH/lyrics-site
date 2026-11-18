@@ -1,11 +1,11 @@
 ---
 title: "Tasbeeh E Fatima Zehra Aqeel Abbas Makhraj"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Areeb"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d23f954858359df4da39

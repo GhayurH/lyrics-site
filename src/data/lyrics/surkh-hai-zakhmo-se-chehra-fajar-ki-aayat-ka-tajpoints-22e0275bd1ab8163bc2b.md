@@ -1,11 +1,11 @@
 ---
 title: "Surkh Hai Zakhmo Se Chehra Fajar Ki Aayat Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:22e0275bd1ab8163bc2b

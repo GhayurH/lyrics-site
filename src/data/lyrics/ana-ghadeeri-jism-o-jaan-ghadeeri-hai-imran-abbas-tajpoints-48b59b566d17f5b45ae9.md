@@ -1,11 +1,11 @@
 ---
 title: "Ana Ghadeeri Jism O Jaan Ghadeeri Hai Imran Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:48b59b566d17f5b45ae9

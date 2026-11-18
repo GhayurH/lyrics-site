@@ -1,11 +1,11 @@
 ---
 title: "Wo Kab Ayen Khuda Jaane Sitaro Tum Tu So Jao"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qabil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5f4356b3de70312afce4

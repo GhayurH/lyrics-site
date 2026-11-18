@@ -1,11 +1,11 @@
 ---
 title: "Kab Tak Tu Unchi Awaz Mein Bolega"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3b0077dab837a77f54a0

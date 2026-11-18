@@ -1,6 +1,6 @@
 ---
 title: "Tazeem Karo Es Bibi Di Jeri Apnay Piyo Di Maa Ay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

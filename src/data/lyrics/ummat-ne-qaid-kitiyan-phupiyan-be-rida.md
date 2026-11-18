@@ -1,10 +1,10 @@
 ---
 title: "امت نے قید کیتیاں ہائے پھپھیاں بے ردا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:30f33451a147931d32fc

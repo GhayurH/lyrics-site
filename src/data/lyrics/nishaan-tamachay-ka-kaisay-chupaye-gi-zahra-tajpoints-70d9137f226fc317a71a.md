@@ -1,11 +1,11 @@
 ---
 title: "Nishaan Tamachay Ka Kaisay Chupaye Gi Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wahid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:70d9137f226fc317a71a

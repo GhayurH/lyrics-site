@@ -1,11 +1,11 @@
 ---
 title: "Tamachon Sy Bachalo Baba Haider Rizvi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azlan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:222b116400c3b134c251

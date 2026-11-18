@@ -1,10 +1,10 @@
 ---
 title: "Hazrat E Abbas Nadeem Sarwar 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:90bdd8bb650af8a21c22

@@ -1,10 +1,10 @@
 ---
 title: "شبرؑ کے جنازے کو مسلمانوں نے واپس لوٹا دیا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d38c165f7461dde178ef

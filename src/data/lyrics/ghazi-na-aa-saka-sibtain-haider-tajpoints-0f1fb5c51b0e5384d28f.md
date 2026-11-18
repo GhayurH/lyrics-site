@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Na Aa Saka Sibtain Haider"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sahaab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0f1fb5c51b0e5384d28f

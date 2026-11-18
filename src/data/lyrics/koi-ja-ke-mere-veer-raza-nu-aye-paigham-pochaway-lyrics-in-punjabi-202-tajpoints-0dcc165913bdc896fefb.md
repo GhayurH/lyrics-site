@@ -1,11 +1,11 @@
 ---
 title: "Koi Ja Ke Mere Veer Raza Nu Aye Paigham Pochaway Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0dcc165913bdc896fefb

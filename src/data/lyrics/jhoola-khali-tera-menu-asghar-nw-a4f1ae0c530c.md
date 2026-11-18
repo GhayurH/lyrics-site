@@ -1,6 +1,6 @@
 ---
 title: "Jhoola Khali Tera Menu Asghar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Asghar Tere Jholay Nu Jhulawan Aa Ja Veerna Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0477c9c43ce5622c30fd

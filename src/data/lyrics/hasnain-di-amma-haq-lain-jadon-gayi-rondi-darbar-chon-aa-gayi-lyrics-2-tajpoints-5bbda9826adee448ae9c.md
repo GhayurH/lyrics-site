@@ -1,11 +1,11 @@
 ---
 title: "Hasnain Di Amma Haq Lain Jadon Gayi Rondi Darbar Chon Aa Gayi Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5bbda9826adee448ae9c

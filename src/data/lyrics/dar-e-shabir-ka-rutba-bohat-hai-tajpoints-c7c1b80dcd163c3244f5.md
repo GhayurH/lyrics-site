@@ -1,11 +1,11 @@
 ---
 title: "Dar-e-Shabir Ka Rutba Bohat Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c7c1b80dcd163c3244f5

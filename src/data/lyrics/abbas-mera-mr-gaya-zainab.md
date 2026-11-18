@@ -1,10 +1,10 @@
 ---
 title: "عباسؑ میرا مر گیا زینبؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a65fd2829a7c639fb594

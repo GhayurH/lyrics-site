@@ -1,11 +1,11 @@
 ---
 title: "Iss Baar Bhi Main Ne Bheja Hai Sarkar Areeza Pani Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:178066889d1f798aead1

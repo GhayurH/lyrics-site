@@ -1,11 +1,11 @@
 ---
 title: "Kabe Mein Aye Hain Shair-e-Khuda Ali Badshah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:994020a1ce575f9db0bd

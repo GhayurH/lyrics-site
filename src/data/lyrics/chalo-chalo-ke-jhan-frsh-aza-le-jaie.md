@@ -1,10 +1,10 @@
 ---
 title: "چلو چلو کہ جہاں فرشِ عزا لے جائے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:83769eaa6c640e36da94

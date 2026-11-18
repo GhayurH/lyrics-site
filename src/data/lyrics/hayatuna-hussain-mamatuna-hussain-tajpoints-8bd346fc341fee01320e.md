@@ -1,10 +1,10 @@
 ---
 title: "Hayatuna Hussain Mamatuna Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8bd346fc341fee01320e

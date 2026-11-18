@@ -1,11 +1,11 @@
 ---
 title: "Ali Mola Ali Mola Ahsan Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aneer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9fd40e90e1e6dd75630c

@@ -1,11 +1,11 @@
 ---
 title: "Al Madad Fatima Bint E Mosa Raza Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fdab850e72fb60ee729c

@@ -1,6 +1,6 @@
 ---
 title: "Sulagti Rait Pay Sajday Ki Inteha Dekhi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

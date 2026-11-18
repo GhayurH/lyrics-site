@@ -1,11 +1,11 @@
 ---
 title: "Kese Sakina Dekhiye Mukhtar Fatehpuri 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4ef855197e9a1af075b2

@@ -1,10 +1,10 @@
 ---
 title: "Rozadar Namazi Te Aj Chal Gaya Waar Qaza Da Lyrics Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:73eb7d0a8156dbe2f9d5

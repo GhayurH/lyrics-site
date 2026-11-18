@@ -1,11 +1,11 @@
 ---
 title: "Chand Zahra Ka Hai Logo Dosra Hai Yeh Imam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3dde633a20df1a104c5a

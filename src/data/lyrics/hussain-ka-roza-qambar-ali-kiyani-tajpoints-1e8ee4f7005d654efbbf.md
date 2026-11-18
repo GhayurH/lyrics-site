@@ -1,11 +1,11 @@
 ---
 title: "Hussain Ka Roza Qambar Ali Kiyani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1e8ee4f7005d654efbbf

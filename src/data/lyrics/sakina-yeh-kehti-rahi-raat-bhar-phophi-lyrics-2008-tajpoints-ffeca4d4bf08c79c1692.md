@@ -1,11 +1,11 @@
 ---
 title: "Sakina Yeh Kehti Rahi Raat Bhar Phophi Lyrics 2008"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ffeca4d4bf08c79c1692

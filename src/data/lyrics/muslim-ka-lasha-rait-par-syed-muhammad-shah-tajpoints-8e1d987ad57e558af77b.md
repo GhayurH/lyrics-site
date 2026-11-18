@@ -1,11 +1,11 @@
 ---
 title: "Muslim Ka Lasha Rait Par Syed Muhammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8e1d987ad57e558af77b

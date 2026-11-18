@@ -1,10 +1,10 @@
 ---
 title: "Fatima Khamosh Hai Meesum Kashmiri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9003852b1b2befd8f884

@@ -1,11 +1,11 @@
 ---
 title: "Sughra Nu Maar Gaye Ne Akbar De Wichoray Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6e7e221a119e597f14ec

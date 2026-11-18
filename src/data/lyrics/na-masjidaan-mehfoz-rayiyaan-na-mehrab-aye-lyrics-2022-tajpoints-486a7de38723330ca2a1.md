@@ -1,11 +1,11 @@
 ---
 title: "Na Masjidaan Mehfoz Rayiyaan Na Mehrab Aye Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:486a7de38723330ca2a1

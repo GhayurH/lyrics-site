@@ -1,11 +1,11 @@
 ---
 title: "Hun Qaid Muk Gayi Aye Jawaan Karbal Keh Watna Nu Jawaan Asghar Khan Lyrics Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5ec520c4bebff369847f

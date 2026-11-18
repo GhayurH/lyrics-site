@@ -1,10 +1,10 @@
 ---
 title: "اے حسینؑ اے شاہ کربلا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:92e577c36b4e4382033c

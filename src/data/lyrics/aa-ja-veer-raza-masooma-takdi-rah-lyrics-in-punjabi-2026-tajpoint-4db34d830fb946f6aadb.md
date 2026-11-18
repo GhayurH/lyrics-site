@@ -1,11 +1,11 @@
 ---
 title: "Aa Ja Veer Raza Masooma Takdi Rah Lyrics In Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Fida"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:4db34d830fb946f6aadb

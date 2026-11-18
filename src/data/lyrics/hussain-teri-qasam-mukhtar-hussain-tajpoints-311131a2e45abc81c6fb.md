@@ -1,11 +1,11 @@
 ---
 title: "Hussain Teri Qasam Mukhtar Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:311131a2e45abc81c6fb

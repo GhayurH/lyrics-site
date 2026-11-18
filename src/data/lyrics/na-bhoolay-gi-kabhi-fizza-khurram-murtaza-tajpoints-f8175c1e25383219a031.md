@@ -1,11 +1,11 @@
 ---
 title: "Na Bhoolay Gi Kabhi Fizza Khurram Murtaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f8175c1e25383219a031

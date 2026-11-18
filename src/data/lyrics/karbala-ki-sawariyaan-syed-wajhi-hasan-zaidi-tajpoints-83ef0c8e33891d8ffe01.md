@@ -1,11 +1,11 @@
 ---
 title: "Karbala Ki Sawariyaan Syed Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:83ef0c8e33891d8ffe01

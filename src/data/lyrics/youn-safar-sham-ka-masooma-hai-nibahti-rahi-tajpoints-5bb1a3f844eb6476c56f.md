@@ -1,11 +1,11 @@
 ---
 title: "Youn Safar Sham Ka Masooma Hai Nibahti Rahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5bb1a3f844eb6476c56f

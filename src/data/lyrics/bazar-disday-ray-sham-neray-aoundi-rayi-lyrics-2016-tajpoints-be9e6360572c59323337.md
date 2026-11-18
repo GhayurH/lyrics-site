@@ -1,6 +1,6 @@
 ---
 title: "Bazar Disday Ray Sham Neray Aoundi Rayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Muhammad Ki Nawasi Hai Ahmad Timsaal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:91b29ef429350aab4e71

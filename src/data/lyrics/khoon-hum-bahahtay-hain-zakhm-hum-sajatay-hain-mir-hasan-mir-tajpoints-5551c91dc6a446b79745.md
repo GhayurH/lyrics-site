@@ -1,11 +1,11 @@
 ---
 title: "Khoon Hum Bahahtay Hain Zakhm Hum Sajatay Hain Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5551c91dc6a446b79745

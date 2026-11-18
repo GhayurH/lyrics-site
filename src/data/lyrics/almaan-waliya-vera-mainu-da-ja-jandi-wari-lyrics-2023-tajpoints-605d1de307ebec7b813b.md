@@ -1,11 +1,11 @@
 ---
 title: "Almaan Waliya Vera Mainu Da Ja Jandi Wari Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:605d1de307ebec7b813b

@@ -1,10 +1,10 @@
 ---
 title: "Sadah Yeh Deti Thi Bint E Ali Hussain Ke Bad Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6014481e8d64cd38b4b6

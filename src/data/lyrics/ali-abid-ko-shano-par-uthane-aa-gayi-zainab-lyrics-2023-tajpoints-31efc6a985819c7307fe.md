@@ -1,11 +1,11 @@
 ---
 title: "Ali Abid Ko Shano Par Uthane Aa Gayi Zainab Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:31efc6a985819c7307fe

@@ -1,11 +1,11 @@
 ---
 title: "Khuda E Lam Yazal Se Lam Yazal Par Baat Jari Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d198fa2c362fccf86fa4

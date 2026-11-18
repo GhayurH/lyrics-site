@@ -1,11 +1,11 @@
 ---
 title: "Kuch Aise Sataya Hai Muslim Ko Kofiyon Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8267d5885ecd654f9b44

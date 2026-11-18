@@ -1,11 +1,11 @@
 ---
 title: "Sham De Safaraan Toon Aa Gayi Aye Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a29ea245a3ce92a275b0

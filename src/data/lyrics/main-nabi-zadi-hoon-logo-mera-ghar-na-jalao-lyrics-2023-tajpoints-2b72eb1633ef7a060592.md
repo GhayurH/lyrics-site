@@ -1,10 +1,10 @@
 ---
 title: "Main Nabi Zadi Hoon Logo Mera Ghar Na Jalao Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2b72eb1633ef7a060592

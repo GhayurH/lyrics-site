@@ -1,11 +1,11 @@
 ---
 title: "کہتے تھے یہ عباسؑ سکینہؑ سے یہ دلبر"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:009ca051123161b1da6b

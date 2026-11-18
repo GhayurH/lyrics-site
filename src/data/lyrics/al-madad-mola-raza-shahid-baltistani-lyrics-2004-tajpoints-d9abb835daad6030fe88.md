@@ -1,11 +1,11 @@
 ---
 title: "Al Madad Mola Raza Shahid Baltistani Lyrics 2004"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d9abb835daad6030fe88

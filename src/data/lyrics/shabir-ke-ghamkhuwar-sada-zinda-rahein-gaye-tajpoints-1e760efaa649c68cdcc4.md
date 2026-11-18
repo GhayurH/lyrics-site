@@ -1,11 +1,11 @@
 ---
 title: "Shabir Ke Ghamkhuwar Sada Zinda Rahein Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1e760efaa649c68cdcc4

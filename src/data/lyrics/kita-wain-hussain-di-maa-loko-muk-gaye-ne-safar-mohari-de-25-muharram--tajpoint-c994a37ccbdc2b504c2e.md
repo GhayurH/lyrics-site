@@ -1,11 +1,11 @@
 ---
 title: "Kita Wain Hussain Di Maa Loko Muk Gaye Ne Safar Mohari De 25 Muharram 2021 Noha Amir Ali Najfi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:c994a37ccbdc2b504c2e

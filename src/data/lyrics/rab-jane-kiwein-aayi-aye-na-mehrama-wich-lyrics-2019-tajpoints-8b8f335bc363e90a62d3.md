@@ -1,10 +1,10 @@
 ---
 title: "Rab Jane Kiwein Aayi Aye Na Mehrama Wich Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8b8f335bc363e90a62d3

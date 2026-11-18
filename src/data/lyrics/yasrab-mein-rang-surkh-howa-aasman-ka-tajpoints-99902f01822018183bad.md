@@ -1,11 +1,11 @@
 ---
 title: "Yasrab Mein Rang Surkh Howa Aasman Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:99902f01822018183bad

@@ -1,11 +1,11 @@
 ---
 title: "Taboot Sakina Ka Zindaan Mein Uthate Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b9850f1fce6c7476e1bc

@@ -1,6 +1,6 @@
 ---
 title: "Paak Zainab Teri Rida Ton Warian Jadon Bawan Ghazi Nay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

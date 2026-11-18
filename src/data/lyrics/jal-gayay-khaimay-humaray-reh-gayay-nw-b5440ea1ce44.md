@@ -1,6 +1,6 @@
 ---
 title: "Jal Gayay Khaimay Humaray Reh Gayay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

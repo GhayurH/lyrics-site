@@ -1,6 +1,6 @@
 ---
 title: "Aap Ache Hain Chacha Par Yeh Zamaana Nahi Acha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

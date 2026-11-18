@@ -1,10 +1,10 @@
 ---
 title: "الوداع مالکِ مشرقین الوداع"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:afdf11483c45b0871be5

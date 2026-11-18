@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Se Mango Syed Mudassir Mehdi 2023 Urdu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mudassir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b2ffd4c5247e222c30c7

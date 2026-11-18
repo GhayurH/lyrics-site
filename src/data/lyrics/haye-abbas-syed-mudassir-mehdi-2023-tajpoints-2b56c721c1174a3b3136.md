@@ -1,11 +1,11 @@
 ---
 title: "Haye Abbas Syed Mudassir Mehdi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2b56c721c1174a3b3136

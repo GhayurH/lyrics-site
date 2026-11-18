@@ -1,11 +1,11 @@
 ---
 title: "Zulm Jafar Pe Madina Mein Dhaya Hai Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e111ef698ed131c53eb2

@@ -1,6 +1,6 @@
 ---
 title: "Khayaal-e-Fatima Deen Ki Hai Abroo Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

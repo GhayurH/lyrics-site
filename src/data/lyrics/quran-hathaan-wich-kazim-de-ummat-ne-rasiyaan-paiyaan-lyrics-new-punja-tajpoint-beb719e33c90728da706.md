@@ -1,11 +1,11 @@
 ---
 title: "Quran Hathaan Wich Kazim De Ummat Ne Rasiyaan Paiyaan Lyrics New Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:beb719e33c90728da706

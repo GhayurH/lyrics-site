@@ -1,11 +1,11 @@
 ---
 title: "Zainab Yeh Keh Na Paaein Ke Shabir Mar Lyrics 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eb0328323a17508d3edf

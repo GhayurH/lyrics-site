@@ -1,11 +1,11 @@
 ---
 title: "La Daingy Tumhein Pani Mir Jawad Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a16bee7edc5a1e2e66c0

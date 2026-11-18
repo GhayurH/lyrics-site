@@ -1,11 +1,11 @@
 ---
 title: "Salam Umm Ul Baneen"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:006385ad043f78e978c4

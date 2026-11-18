@@ -1,11 +1,11 @@
 ---
 title: "Teraan Di Hoyi Barish Haye Tere Janaze Tay Ya Hasan Lyrics Punjabi 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e9a2b648aa37e311e4d6

@@ -1,11 +1,11 @@
 ---
 title: "Maula Mera Ve Ghar Nadeem Sarwar Lyrics 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khursheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3cb1e62d935f0b421740

@@ -1,11 +1,11 @@
 ---
 title: "Bhole Gi Kaise Dunya Shabar Tera Janaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Laeeq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9c2283099d33c14e8c1a

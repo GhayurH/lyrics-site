@@ -1,10 +1,10 @@
 ---
 title: "یا زینبِؑ کبریٰ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8f81eb4e845851e02751

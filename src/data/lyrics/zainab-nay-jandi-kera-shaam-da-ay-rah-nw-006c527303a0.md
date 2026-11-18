@@ -1,6 +1,6 @@
 ---
 title: "Zainab Nay Jandi Kera Shaam Da Ay Rah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

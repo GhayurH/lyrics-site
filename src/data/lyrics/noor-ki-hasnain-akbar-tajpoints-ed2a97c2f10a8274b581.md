@@ -1,10 +1,10 @@
 ---
 title: "Noor Ki Hasnain Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ed2a97c2f10a8274b581

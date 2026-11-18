@@ -1,11 +1,11 @@
 ---
 title: "کربل چوں پیا لکھداں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Mewa Khan Kalidi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:65f3f0229bc4a6b28870

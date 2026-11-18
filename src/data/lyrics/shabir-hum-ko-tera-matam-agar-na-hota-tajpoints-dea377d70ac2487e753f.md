@@ -1,11 +1,11 @@
 ---
 title: "Shabir Hum Ko Tera Matam Agar Na Hota"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Zaidi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dea377d70ac2487e753f

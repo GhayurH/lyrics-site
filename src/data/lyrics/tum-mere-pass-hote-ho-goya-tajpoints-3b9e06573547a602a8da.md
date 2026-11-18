@@ -1,11 +1,11 @@
 ---
 title: "Tum Mere Pass Hote Ho Goya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Momin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3b9e06573547a602a8da

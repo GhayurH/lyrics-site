@@ -1,11 +1,11 @@
 ---
 title: "Do Honsla Baba Zainab Ko Mir Hasan Mir Lyrics 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:80b93b58400a55230f33

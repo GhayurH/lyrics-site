@@ -1,11 +1,11 @@
 ---
 title: "Tere Baghair Akbar Mir Hasan Mir Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e0bf909e9f3f52a51ab1

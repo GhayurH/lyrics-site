@@ -1,11 +1,11 @@
 ---
 title: "Kazim Pay Intahaye Aseri Guzar Gayi Syed Zill E Raza Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8f092cdd835def7c83f6

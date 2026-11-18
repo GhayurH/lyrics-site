@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Ka Zawar Hai Abbas Haider Lalji"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7b616d61838b2ff02e85

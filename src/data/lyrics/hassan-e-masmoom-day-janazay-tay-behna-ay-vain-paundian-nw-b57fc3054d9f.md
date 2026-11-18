@@ -1,6 +1,6 @@
 ---
 title: "Hassan-e-Masmoom Day Janazay Tay Behna Ay Vain Paundian"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

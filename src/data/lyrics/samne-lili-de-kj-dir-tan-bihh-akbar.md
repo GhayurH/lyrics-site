@@ -1,10 +1,10 @@
 ---
 title: "سامنے لیلیٰؑ دے کج دیر تاں بیہہ اکبرؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:93ed774ca843387e5627

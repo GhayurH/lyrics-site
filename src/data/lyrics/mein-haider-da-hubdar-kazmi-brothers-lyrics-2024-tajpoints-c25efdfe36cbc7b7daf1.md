@@ -1,11 +1,11 @@
 ---
 title: "Mein Haider Da Hubdar Kazmi Brothers Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c25efdfe36cbc7b7daf1

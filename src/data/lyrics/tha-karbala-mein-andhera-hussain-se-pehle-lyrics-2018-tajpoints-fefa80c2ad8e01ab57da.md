@@ -1,11 +1,11 @@
 ---
 title: "Tha Karbala Mein Andhera Hussain Se Pehle Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fefa80c2ad8e01ab57da

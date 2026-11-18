@@ -1,11 +1,11 @@
 ---
 title: "Karam Kar De Ham Par Hai Ramzan Malik Ameer Hasan Aamir Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aamir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a1b27f40921bae59a0b4

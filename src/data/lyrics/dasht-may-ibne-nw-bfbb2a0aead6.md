@@ -1,6 +1,6 @@
 ---
 title: "Dasht Mein Ibn-e-Hasan Par Waqt Kaisa Aa Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

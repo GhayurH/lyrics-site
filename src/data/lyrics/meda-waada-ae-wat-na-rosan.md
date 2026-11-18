@@ -1,10 +1,10 @@
 ---
 title: "میڈا وعدہ اے وت نہ رو ساں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:26de23ea6f7ea5b664ba

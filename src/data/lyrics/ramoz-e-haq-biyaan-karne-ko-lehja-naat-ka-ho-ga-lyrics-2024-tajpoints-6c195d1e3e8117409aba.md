@@ -1,11 +1,11 @@
 ---
 title: "Ramoz E Haq Biyaan Karne Ko Lehja Naat Ka Ho Ga Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Shehwaar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6c195d1e3e8117409aba

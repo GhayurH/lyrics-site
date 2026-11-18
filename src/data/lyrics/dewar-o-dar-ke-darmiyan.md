@@ -1,6 +1,6 @@
 ---
 title: "Dewar o Dar Ke Darmiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

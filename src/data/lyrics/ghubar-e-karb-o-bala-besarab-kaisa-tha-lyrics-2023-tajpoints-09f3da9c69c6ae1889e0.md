@@ -1,11 +1,11 @@
 ---
 title: "Ghubar E Karb O Bala Besarab Kaisa Tha Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:09f3da9c69c6ae1889e0

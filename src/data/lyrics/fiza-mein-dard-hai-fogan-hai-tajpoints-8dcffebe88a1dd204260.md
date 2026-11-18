@@ -1,11 +1,11 @@
 ---
 title: "Fiza Mein Dard Hai Fogaan Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8dcffebe88a1dd204260

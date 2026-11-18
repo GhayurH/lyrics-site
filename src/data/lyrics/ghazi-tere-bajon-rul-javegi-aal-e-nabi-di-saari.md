@@ -1,10 +1,10 @@
 ---
 title: "غازی تیرے باجوں رل جاوے گی آل نبی دی ساری"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1f902554f810d24c52f6

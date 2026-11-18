@@ -1,11 +1,11 @@
 ---
 title: "Ab Ke Hum Bichre Tu Shayad Kabhi Khowabon Mein Milein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Faraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4dbf2bd27825dc300d07

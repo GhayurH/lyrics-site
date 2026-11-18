@@ -1,11 +1,11 @@
 ---
 title: "Ya Imam E Raza Ilteja Hai Muhammad Raza Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Johar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:509d5257244df7e1447f

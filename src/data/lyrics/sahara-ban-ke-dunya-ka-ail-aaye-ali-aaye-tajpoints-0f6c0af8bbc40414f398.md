@@ -1,11 +1,11 @@
 ---
 title: "Sahara Ban Ke Dunya Ka Ail Aaye Ali Aaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0f6c0af8bbc40414f398

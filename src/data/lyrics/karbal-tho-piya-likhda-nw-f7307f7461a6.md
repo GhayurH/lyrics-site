@@ -1,6 +1,6 @@
 ---
 title: "Karbal Tho Piya Likhda"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

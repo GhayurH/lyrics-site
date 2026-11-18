@@ -1,6 +1,6 @@
 ---
 title: "Muslim Di Lash Nu Lokan Ne Haye Galiyan Wich Phiraya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

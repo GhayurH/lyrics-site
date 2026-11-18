@@ -1,11 +1,11 @@
 ---
 title: "ہو گۓ رخصت جہاں سے مومنوں مولا نقی۴"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Rizvia Party"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d1e6cec99dd6c120a685

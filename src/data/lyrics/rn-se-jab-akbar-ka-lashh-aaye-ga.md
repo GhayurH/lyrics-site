@@ -1,10 +1,10 @@
 ---
 title: "رن سے جب اکبرؑ کا لاشہ آئے گا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cbc4e6353a6e2dea1c9d

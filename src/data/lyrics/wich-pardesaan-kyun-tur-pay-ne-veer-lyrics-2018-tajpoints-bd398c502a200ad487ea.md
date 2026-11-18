@@ -1,11 +1,11 @@
 ---
 title: "Wich Pardesaan Kyun Tur Pay Ne Veer Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bd398c502a200ad487ea

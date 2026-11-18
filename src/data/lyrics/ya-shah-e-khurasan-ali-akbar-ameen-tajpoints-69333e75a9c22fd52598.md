@@ -1,11 +1,11 @@
 ---
 title: "Ya Shah E Khurasan Ali Akbar Ameen"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:69333e75a9c22fd52598

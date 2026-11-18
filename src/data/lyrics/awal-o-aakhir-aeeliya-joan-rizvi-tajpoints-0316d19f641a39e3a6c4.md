@@ -1,11 +1,11 @@
 ---
 title: "Awal O Aakhir Aeeliya Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0316d19f641a39e3a6c4

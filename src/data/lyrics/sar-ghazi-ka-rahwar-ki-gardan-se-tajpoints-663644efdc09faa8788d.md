@@ -1,11 +1,11 @@
 ---
 title: "Sar Ghazi Ka Rahwar Ki Gardan Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:663644efdc09faa8788d

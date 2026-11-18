@@ -1,11 +1,11 @@
 ---
 title: "Arman Milay Khak Main Sary Ali Akbar Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b96aea9427cb3bac8dad

@@ -1,11 +1,11 @@
 ---
 title: "Ro Paindi Aye Sughra Soz Asghar Khan Lyrics Punjabi 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Soz"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:feb864d275771cef2c94

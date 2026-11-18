@@ -1,10 +1,10 @@
 ---
 title: "اج روندے ھوۓ دنیا توں ٹر زینب دے غم خوار گۓ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:12f7e3f9ad3b2a0460fd

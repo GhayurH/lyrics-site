@@ -1,10 +1,10 @@
 ---
 title: "ہم کو ہے اپنی جان سے پیارا غمِ حسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:25316b4ec9ea66510740

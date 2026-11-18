@@ -1,11 +1,11 @@
 ---
 title: "Aao Aaj Azadaro Zahra Ki Dua Le Lo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Mureed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:418acd11b5c324719e4e

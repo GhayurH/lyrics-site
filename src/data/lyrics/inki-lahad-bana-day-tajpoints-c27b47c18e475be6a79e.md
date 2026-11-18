@@ -1,11 +1,11 @@
 ---
 title: "Inki Lahad Bana Day"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c27b47c18e475be6a79e

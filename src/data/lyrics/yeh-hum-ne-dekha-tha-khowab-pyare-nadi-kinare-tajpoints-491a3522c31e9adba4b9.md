@@ -1,11 +1,11 @@
 ---
 title: "Yeh Hum Ne Dekha Tha Khowab Pyare Nadi Kinare"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:491a3522c31e9adba4b9

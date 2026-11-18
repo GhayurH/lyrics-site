@@ -1,6 +1,6 @@
 ---
 title: "Zindaan Se Reha Ho Kar Bano Ab Kya Jaye Gi Madina Na Asghar Hai Na Sakina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

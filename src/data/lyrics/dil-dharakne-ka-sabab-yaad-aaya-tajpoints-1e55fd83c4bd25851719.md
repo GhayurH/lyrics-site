@@ -1,11 +1,11 @@
 ---
 title: "Dil Dharakne Ka Sabab Yaad Aaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1e55fd83c4bd25851719

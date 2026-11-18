@@ -1,11 +1,11 @@
 ---
 title: "Sakina Piyasi Hai Farrukh Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c1ae29b1d5a514c53c70

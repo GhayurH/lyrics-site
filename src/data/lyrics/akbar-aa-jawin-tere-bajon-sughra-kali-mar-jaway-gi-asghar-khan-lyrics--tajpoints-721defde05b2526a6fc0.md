@@ -1,11 +1,11 @@
 ---
 title: "Akbar Aa Jawin Tere Bajon Sughra Kali Mar Jaway Gi Asghar Khan Lyrics Punjabi 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:721defde05b2526a6fc0

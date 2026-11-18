@@ -1,10 +1,10 @@
 ---
 title: "Kaise Pardes Mein Kazim Pe Zamane Aaye Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:15320b783676ffb54ba4

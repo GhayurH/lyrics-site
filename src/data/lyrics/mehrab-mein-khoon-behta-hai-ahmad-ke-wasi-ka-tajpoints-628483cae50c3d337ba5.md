@@ -1,11 +1,11 @@
 ---
 title: "Mehrab Mein Khoon Behta Hai Ahmad Ke Wasi Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:628483cae50c3d337ba5

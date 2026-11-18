@@ -1,7 +1,7 @@
 ---
 title: "Main Khak-e-Karbala Hoon Shifa Bantti Hoon Main"
 alternateTitle: "Main Khak-e-Shifa Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

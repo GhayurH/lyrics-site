@@ -1,11 +1,11 @@
 ---
 title: "Turbat Pe Fatima Ki Dr Amir Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f4f4723419ea25b3a5e2

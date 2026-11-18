@@ -1,11 +1,11 @@
 ---
 title: "Manzar Barey Barey"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f963cf43eefe3ce3ed87

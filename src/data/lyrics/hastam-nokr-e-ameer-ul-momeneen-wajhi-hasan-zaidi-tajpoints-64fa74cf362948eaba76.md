@@ -1,11 +1,11 @@
 ---
 title: "Hastam Nokr E Ameer Ul Momeneen Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:64fa74cf362948eaba76

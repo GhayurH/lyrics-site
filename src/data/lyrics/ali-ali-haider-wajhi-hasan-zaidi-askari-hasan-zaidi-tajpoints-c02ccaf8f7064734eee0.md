@@ -1,11 +1,11 @@
 ---
 title: "Ali Ali Haider Wajhi Hasan Zaidi Askari Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Dabeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c02ccaf8f7064734eee0

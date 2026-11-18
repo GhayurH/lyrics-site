@@ -1,11 +1,11 @@
 ---
 title: "Quran Sonandi Ja Zainab Babay Nu Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f61fe5da49fde9c8b692

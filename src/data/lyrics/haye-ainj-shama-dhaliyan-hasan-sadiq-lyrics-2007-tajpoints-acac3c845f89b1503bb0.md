@@ -1,10 +1,10 @@
 ---
 title: "Haye Ainj Shama Dhaliyan Hasan Sadiq Lyrics 2007"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:acac3c845f89b1503bb0

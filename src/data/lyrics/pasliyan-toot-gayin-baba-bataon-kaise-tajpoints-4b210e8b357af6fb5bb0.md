@@ -1,11 +1,11 @@
 ---
 title: "Pasliyan Toot Gayin Baba Bataon Kaise"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4b210e8b357af6fb5bb0

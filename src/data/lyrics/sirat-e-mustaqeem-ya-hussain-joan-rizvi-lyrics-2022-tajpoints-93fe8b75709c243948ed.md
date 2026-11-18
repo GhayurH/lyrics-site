@@ -1,11 +1,11 @@
 ---
 title: "Sirat E Mustaqeem Ya Hussain Joan Rizvi Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:93fe8b75709c243948ed

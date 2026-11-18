@@ -1,6 +1,6 @@
 ---
 title: "Aaja Asghar Veer Na Shaama Pai Gaiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

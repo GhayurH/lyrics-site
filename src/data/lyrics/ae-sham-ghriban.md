@@ -1,10 +1,10 @@
 ---
 title: "اے شام غریباں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:baaa521c8f7a34869690

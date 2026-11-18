@@ -1,11 +1,11 @@
 ---
 title: "Midhat E Zehra Zamin Per"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:59647493005d05c6cd11

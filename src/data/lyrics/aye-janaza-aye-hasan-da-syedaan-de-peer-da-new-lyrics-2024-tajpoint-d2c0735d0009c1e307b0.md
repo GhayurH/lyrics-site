@@ -1,11 +1,11 @@
 ---
 title: "Aye Janaza Aye Hasan Da Syedaan De Peer Da New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bahadur"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:d2c0735d0009c1e307b0

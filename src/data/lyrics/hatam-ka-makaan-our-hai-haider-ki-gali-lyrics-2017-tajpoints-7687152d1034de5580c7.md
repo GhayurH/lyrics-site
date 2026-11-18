@@ -1,11 +1,11 @@
 ---
 title: "Hatam Ka Makaan Our Hai Haider Ki Gali Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7687152d1034de5580c7

@@ -1,11 +1,11 @@
 ---
 title: "Fazeelat Payi Hai Kya Murtaza Ne Khuda Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:02cebcc3ea512cfb9651

@@ -1,11 +1,11 @@
 ---
 title: "Ya Zahra Isteghasa Bibi Fatima Wajhi Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Dabeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fa3cc74ed12e1718de01

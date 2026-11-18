@@ -1,11 +1,11 @@
 ---
 title: "Allah Ke Ism Sare Bikhrey Hain Karbala – Gudi Khan Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:79323825aeb082eea27b

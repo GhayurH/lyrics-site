@@ -1,10 +1,10 @@
 ---
 title: "Jaisa Mera Maula Waisa Koi Nayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # Consolidated consecutive source pages; page-order and provenance retained.

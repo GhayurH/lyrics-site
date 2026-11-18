@@ -1,11 +1,11 @@
 ---
 title: "Koi Tu Bulaye Mujh Ko Keh Ke Sakina Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9e4064f5b0d248bcc0dd

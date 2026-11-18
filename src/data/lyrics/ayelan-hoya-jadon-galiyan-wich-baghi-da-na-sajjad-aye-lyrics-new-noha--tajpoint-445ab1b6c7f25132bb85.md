@@ -1,11 +1,11 @@
 ---
 title: "Ayelan Hoya Jadon Galiyan Wich Baghi Da Na Sajjad Aye Lyrics New Noha 25 Muharram 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:445ab1b6c7f25132bb85

@@ -1,11 +1,11 @@
 ---
 title: "Azadar Ki EID"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:43ceedd32133443a3fe7

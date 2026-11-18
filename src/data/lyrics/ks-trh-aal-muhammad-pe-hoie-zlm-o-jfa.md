@@ -1,10 +1,10 @@
 ---
 title: "کس طرح آلِ محمدؑ پہ ہوئے ظلم و جفا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b286f5266114eb7f9fb0

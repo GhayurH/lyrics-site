@@ -1,11 +1,11 @@
 ---
 title: "Haye Ghazi Jundiyan Mar Gaiyan Shahid Baltistani Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:069cc3a15bf1b76f90fe

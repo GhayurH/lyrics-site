@@ -1,11 +1,11 @@
 ---
 title: "محمدؐ کا نواسہ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ec78bc3149dd533bc9cc

@@ -1,11 +1,11 @@
 ---
 title: "Tasbeeh Al Zahra Muhammad Abbas Hussaini"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Abbas"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3d2ab8efd3907f7c44dd

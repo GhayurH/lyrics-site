@@ -1,11 +1,11 @@
 ---
 title: "Charag-e-Khana-e-Zahra Hussain Aaya Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:59984a5d912701332fab

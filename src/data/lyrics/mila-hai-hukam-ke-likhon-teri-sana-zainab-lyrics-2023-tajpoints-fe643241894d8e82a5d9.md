@@ -1,11 +1,11 @@
 ---
 title: "Mila Hai Hukam Ke Likhon Teri Sana Zainab Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fe643241894d8e82a5d9

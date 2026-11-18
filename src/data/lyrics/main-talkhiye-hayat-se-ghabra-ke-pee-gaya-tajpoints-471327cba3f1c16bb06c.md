@@ -1,11 +1,11 @@
 ---
 title: "Main Talkhiye Hayat Se Ghabra Ke Pee Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sagar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:471327cba3f1c16bb06c

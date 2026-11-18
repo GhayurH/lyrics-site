@@ -1,10 +1,10 @@
 ---
 title: "Rassi Say Ghut Ta Hai Mera Gala Yasir Raza Yasir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:205dbf120993b18d5e72

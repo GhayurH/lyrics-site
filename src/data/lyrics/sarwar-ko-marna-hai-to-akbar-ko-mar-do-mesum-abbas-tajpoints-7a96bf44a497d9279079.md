@@ -1,11 +1,11 @@
 ---
 title: "Sarwar Ko Marna Hai To Akbar Ko Mar Do Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Waiz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7a96bf44a497d9279079

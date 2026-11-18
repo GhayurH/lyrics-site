@@ -1,11 +1,11 @@
 ---
 title: "Roodad-e-Mohabbat Kya Kahiye Kuch Yaad Rahi Kuch Bhool Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:06b0f0cd8ccac48401fc

@@ -1,11 +1,11 @@
 ---
 title: "Kanpte Honton Se Jab Main Ne Kaha Hai Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shaiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bb6dcb4f70ab4fd310c6

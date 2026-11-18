@@ -1,10 +1,10 @@
 ---
 title: "Ana Abbas-e-Alamdar Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bf2a14ef5d41a8585933

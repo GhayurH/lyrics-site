@@ -1,6 +1,6 @@
 ---
 title: "Menu Sham Di Paishi Maar Gae"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

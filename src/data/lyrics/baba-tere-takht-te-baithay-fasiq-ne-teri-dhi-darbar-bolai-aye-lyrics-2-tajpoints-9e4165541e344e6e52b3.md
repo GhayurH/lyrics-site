@@ -1,11 +1,11 @@
 ---
 title: "Baba Tere Takht Te Baithay Fasiq Ne Teri Dhi Darbar Bolai Aye Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tosif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9e4165541e344e6e52b3

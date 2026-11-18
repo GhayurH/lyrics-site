@@ -1,11 +1,11 @@
 ---
 title: "Jab Na Maloom Ho Ajnabi Kon Hai Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "o-Soz Khuwaan:SIBT-E-JAFAR: Hoon Main Mere Madah Mamdoh Hain Har Jagah"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:eb7be77cea6f865ea093

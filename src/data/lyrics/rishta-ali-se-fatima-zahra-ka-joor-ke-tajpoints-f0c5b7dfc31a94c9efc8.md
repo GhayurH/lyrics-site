@@ -1,11 +1,11 @@
 ---
 title: "Rishta Ali Se Fatima Zahra Ka Joor Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Buzar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f0c5b7dfc31a94c9efc8

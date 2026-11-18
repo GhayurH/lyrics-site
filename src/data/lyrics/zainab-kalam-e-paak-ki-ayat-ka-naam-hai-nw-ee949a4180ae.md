@@ -1,6 +1,6 @@
 ---
 title: "Zainab Kalam-e-Paak Ki Ayat Ka Naam Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

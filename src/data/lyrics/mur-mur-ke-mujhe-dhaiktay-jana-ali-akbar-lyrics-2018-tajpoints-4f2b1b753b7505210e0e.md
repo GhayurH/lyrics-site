@@ -1,11 +1,11 @@
 ---
 title: "Mur Mur Ke Mujhe Dhaiktay Jana Ali Akbar Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallaum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4f2b1b753b7505210e0e

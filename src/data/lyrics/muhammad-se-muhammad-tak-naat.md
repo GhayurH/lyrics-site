@@ -1,6 +1,6 @@
 ---
 title: "Muhammad Se Muhammad Tak Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"

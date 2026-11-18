@@ -1,11 +1,11 @@
 ---
 title: "Haye Mola Imam Jafar E Sadiq Hasnain Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d874d30b5fa4d1ee21c

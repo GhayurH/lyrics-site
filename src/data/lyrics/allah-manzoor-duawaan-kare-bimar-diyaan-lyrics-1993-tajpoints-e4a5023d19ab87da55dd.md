@@ -1,10 +1,10 @@
 ---
 title: "Allah Manzoor Duawaan Kare Bimar Diyaan Lyrics 1993"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e4a5023d19ab87da55dd

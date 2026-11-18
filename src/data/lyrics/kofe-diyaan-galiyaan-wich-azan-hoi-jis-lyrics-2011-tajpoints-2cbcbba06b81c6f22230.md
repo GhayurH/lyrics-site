@@ -1,11 +1,11 @@
 ---
 title: "Kofe Diyaan Galiyaan Wich Azan Hoi Jis Lyrics 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2cbcbba06b81c6f22230

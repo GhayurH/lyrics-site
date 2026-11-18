@@ -1,11 +1,11 @@
 ---
 title: "Mera Mola Raza Hai Mukhtar Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mukhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6012f143920313b2190b

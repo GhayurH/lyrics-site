@@ -1,6 +1,6 @@
 ---
 title: "Sajda Wafa Pei Kardi Abbas Bawafa Nu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

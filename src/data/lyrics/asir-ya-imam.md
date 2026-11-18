@@ -1,10 +1,10 @@
 ---
 title: "اسیر یا امامؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c5060a0b5d8f99156919

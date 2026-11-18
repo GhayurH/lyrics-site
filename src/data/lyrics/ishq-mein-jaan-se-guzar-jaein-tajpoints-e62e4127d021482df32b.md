@@ -1,11 +1,11 @@
 ---
 title: "Ishq Mein Jaan Se Guzar Jaein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasrat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e62e4127d021482df32b

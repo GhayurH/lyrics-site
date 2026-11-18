@@ -1,6 +1,6 @@
 ---
 title: "Chad Dais Nabi Da Syedan Nay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

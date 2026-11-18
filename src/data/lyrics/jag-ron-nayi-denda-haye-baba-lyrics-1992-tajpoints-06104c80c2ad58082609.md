@@ -1,11 +1,11 @@
 ---
 title: "Jag Ron Nayi Denda Haye Baba Lyrics 1992"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:06104c80c2ad58082609

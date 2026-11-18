@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Nu Qatal Nayi Karna Aino Qadam Qadam Tarparaan Aye Lyrics In Punjabi Saraiki 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:97188400773913cb3a88

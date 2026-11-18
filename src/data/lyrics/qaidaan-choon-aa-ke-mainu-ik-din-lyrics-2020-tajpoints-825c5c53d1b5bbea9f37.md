@@ -1,11 +1,11 @@
 ---
 title: "Qaidaan Choon Aa Ke Mainu Ik Din Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:825c5c53d1b5bbea9f37

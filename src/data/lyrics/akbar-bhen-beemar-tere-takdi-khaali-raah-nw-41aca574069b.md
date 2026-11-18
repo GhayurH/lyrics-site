@@ -1,6 +1,6 @@
 ---
 title: "Akbar Bhen Beemar Tere Takdi Khaali Raah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

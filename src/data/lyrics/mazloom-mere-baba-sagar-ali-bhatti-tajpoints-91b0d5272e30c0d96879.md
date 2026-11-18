@@ -1,11 +1,11 @@
 ---
 title: "Mazloom Mere Baba Sagar Ali Bhatti"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Fayaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:91b0d5272e30c0d96879

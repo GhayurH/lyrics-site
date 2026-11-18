@@ -1,11 +1,11 @@
 ---
 title: "Aap Ki Zaat Se Kuch Itni Muhabbat Naat Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e719bd81e8c13e095fc0

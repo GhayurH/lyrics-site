@@ -1,11 +1,11 @@
 ---
 title: "Midhat Hasan Ki Hay Syed Hamza Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8df55d4592988e5a2f97

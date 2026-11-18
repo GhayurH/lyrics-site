@@ -1,11 +1,11 @@
 ---
 title: "Itna Tu Dosti Ka Sila Dijiye Mujhe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d4183f0d2f9111048d0

@@ -1,11 +1,11 @@
 ---
 title: "Aye Noor E Khuda Mehwar E Anwaar Muhammad Mohammad Raza Mungla"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:da21911bb03bf215c3aa

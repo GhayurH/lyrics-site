@@ -1,11 +1,11 @@
 ---
 title: "Dar E Maula Raza Hai Aur Main Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Arman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5626e63d8a1879fcab74

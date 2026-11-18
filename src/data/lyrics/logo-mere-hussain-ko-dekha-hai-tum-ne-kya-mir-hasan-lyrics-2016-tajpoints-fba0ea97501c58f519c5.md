@@ -1,11 +1,11 @@
 ---
 title: "Logo Mere Hussain Ko Dekha Hai Tum Ne Kya Mir Hasan Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fba0ea97501c58f519c5

@@ -1,11 +1,11 @@
 ---
 title: "Kuj Adab Janazey Jandiyaan Da Kafir V Jag Te Karde Ne New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:d15218fe5b3747e35aaf

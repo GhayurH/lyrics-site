@@ -1,11 +1,11 @@
 ---
 title: "Karbobala Ki Basti Laeeq Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shaukat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:25f9916ca5e853a2db92

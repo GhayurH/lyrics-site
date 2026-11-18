@@ -1,11 +1,11 @@
 ---
 title: "Gaein Na Kaisay Hum Tere Gungaan Ya Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Alam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f30253224946443255ab

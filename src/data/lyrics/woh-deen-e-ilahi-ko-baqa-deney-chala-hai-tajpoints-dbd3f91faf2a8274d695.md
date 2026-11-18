@@ -1,11 +1,11 @@
 ---
 title: "Woh Deen-e-Ilahi Ko Baqa Deney Chala Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dbd3f91faf2a8274d695

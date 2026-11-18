@@ -1,11 +1,11 @@
 ---
 title: "Safar Phophiyaan Di Peshi De Sonanre Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:20b6d297acd734739d8f

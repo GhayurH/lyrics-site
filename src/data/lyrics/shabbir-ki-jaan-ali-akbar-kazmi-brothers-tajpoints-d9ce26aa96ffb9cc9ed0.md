@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Ki Jaan Ali Akbar Kazmi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Azlan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d9ce26aa96ffb9cc9ed0

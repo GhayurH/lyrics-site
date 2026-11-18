@@ -1,11 +1,11 @@
 ---
 title: "Lash-e-Akbar Pe Zainab Pukari"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Faheem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b9b4664c1d2097c254a8

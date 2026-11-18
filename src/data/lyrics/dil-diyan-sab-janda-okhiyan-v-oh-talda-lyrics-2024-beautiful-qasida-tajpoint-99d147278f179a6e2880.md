@@ -1,11 +1,11 @@
 ---
 title: "Dil Diyan Sab Janda Okhiyan V Oh Talda Lyrics 2024 Beautiful Qasida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Qasida"
 poet: "Mirza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:99d147278f179a6e2880

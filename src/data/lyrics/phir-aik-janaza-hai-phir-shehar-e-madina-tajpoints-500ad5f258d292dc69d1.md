@@ -1,11 +1,11 @@
 ---
 title: "Phir Aik Janaza Hai Phir Shehar E Madina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:500ad5f258d292dc69d1

@@ -1,11 +1,11 @@
 ---
 title: "Akbar Ki Yaad Aaye Gi Jab Bhi Azan Ho Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:387f5bd98a7103d5b0e1

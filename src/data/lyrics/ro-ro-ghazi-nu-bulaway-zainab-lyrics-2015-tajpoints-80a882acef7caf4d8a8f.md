@@ -1,11 +1,11 @@
 ---
 title: "Ro Ro Ghazi Nu Bulaway Zainab Lyrics 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:80a882acef7caf4d8a8f

@@ -1,6 +1,6 @@
 ---
 title: "Tha Yeh Hussain Ka Noha Yehi Hasan Ki Fogan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

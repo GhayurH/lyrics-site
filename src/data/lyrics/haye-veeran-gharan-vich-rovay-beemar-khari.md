@@ -1,6 +1,6 @@
 ---
 title: "Haye Veeran Gharan Vich Rovay Beemar Khari"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

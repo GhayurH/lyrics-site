@@ -1,11 +1,11 @@
 ---
 title: "Ye Fauj-E-Hussaini K Alamdar Ka Gham Hai Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kaleem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:754955cde6b359d33231

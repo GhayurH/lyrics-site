@@ -1,11 +1,11 @@
 ---
 title: "Pathar Barsane Walo Main Qaidi Hoon Pardesi Hoon Mir Hasan Lyrics 2004"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c46e1070d4e5bddbda35

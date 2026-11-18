@@ -1,11 +1,11 @@
 ---
 title: "Zair E Khanjar Jab Adda Sajda Kiya Shabbir Ne Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3adacfb954b92163ed47

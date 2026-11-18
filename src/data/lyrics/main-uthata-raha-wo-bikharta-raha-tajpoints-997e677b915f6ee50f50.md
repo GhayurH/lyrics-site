@@ -1,11 +1,11 @@
 ---
 title: "Main Uthata Raha Wo Bikharta Raha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:997e677b915f6ee50f50

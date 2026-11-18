@@ -1,11 +1,11 @@
 ---
 title: "Jahan Hussain Ka Roza Dikhai Deta Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6a64dbc64afda400951c

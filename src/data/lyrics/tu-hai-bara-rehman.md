@@ -1,6 +1,6 @@
 ---
 title: "Tu Hai Bara Rehman Maula"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

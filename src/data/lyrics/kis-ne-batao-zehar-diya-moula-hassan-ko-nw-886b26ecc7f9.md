@@ -1,6 +1,6 @@
 ---
 title: "Kis Ne Batao Zehar Diya Moula Hassan Ko"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

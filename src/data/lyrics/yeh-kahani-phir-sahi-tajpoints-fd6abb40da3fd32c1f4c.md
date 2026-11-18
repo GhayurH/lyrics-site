@@ -1,11 +1,11 @@
 ---
 title: "Yeh Kahani Phir Sahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fd6abb40da3fd32c1f4c

@@ -1,11 +1,11 @@
 ---
 title: "Safeer E Aal E Nabi Kalma Gowaan Marya Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:107cb8a982f7f35cb5a9

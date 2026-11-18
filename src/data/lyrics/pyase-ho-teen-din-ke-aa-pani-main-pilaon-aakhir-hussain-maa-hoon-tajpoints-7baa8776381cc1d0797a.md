@@ -1,11 +1,11 @@
 ---
 title: "Pyase Ho Teen Din Ke Aa Pani Main Pilaon Aakhir Hussain Maa Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7baa8776381cc1d0797a

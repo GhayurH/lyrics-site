@@ -1,11 +1,11 @@
 ---
 title: "Meri Aankhon Ko Aankhon Ka Kinara Kon De Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qaiser"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aa978d0d5ae0e525b273

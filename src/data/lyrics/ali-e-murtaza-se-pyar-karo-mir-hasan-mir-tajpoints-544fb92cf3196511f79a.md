@@ -1,11 +1,11 @@
 ---
 title: "Ali-e-Murtaza Se Pyar Karo Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallaum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:544fb92cf3196511f79a

@@ -1,10 +1,10 @@
 ---
 title: "عباسؑ کو ہاتھوں کا سہارہ کوئی دے دےا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:aa2ee209e4d87d01b644

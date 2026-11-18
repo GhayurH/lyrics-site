@@ -1,11 +1,11 @@
 ---
 title: "Dar E Zahra Jala Diya Baba Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hadi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:10e09943e1ac20a50cb4

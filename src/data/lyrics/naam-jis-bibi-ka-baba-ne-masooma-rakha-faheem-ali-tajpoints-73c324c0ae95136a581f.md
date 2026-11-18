@@ -1,11 +1,11 @@
 ---
 title: "Naam Jis Bibi Ka Baba Ne Masooma Rakha Faheem Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:73c324c0ae95136a581f

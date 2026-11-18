@@ -1,11 +1,11 @@
 ---
 title: "Karbala Walon Pay Yeh Kaisa Muharram Aaya Hasan Sadiq Lyrics 1995"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7bd494d224342a69c2ac

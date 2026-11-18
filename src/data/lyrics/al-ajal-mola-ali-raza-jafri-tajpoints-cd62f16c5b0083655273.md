@@ -1,11 +1,11 @@
 ---
 title: "Al Ajal Mola Ali Raza Jafri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shehwaar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cd62f16c5b0083655273

@@ -1,10 +1,10 @@
 ---
 title: "Ko Ba Ko Phail Gayi Baat Shanasai Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ee67b4ebdff262355edb

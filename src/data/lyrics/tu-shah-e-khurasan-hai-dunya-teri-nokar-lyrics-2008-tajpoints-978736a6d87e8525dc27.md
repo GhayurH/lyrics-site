@@ -1,11 +1,11 @@
 ---
 title: "Tu Shah E Khurasan Hai Dunya Teri Nokar Lyrics 2008"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:978736a6d87e8525dc27

@@ -1,11 +1,11 @@
 ---
 title: "Hassan Ki Sana Karein Sajjad Ashraf"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c7095fa287b8b9871bbe

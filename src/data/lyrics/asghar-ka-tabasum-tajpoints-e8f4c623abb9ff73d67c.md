@@ -1,11 +1,11 @@
 ---
 title: "Asghar Ka Tabasum"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e8f4c623abb9ff73d67c

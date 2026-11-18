@@ -1,11 +1,11 @@
 ---
 title: "Hamare Aathwein Quran Hain Raza Maula Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0b92188dc650e1014198

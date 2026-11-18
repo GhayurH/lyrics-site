@@ -1,11 +1,11 @@
 ---
 title: "Kare Wain Sakina Da Lasha Baba Baba Lyrics Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:db23f8a8be709ce884e6

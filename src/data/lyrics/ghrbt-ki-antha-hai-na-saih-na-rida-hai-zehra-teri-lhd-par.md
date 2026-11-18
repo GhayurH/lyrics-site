@@ -1,10 +1,10 @@
 ---
 title: "غربت کی انتہا ہے نہ سایہ نہ ردا ہے زہراؑ تیری لحد پر"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:535e5122e059db2b1d90

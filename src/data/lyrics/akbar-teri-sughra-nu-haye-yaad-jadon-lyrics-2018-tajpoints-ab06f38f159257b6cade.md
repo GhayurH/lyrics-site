@@ -1,11 +1,11 @@
 ---
 title: "Akbar Teri Sughra Nu Haye Yaad Jadon Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ab06f38f159257b6cade

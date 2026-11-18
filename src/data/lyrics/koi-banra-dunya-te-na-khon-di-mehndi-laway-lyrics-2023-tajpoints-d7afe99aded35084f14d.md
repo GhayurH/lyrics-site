@@ -1,11 +1,11 @@
 ---
 title: "Koi Banra Dunya Te Na Khon Di Mehndi Laway Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d7afe99aded35084f14d

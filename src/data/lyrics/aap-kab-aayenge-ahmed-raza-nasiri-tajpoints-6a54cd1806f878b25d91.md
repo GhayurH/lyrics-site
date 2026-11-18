@@ -1,11 +1,11 @@
 ---
 title: "Aap Kab Aayenge Ahmed Raza Nasiri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nadeem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6a54cd1806f878b25d91

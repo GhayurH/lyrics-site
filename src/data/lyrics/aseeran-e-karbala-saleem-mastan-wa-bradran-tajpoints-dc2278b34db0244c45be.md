@@ -1,11 +1,11 @@
 ---
 title: "Aseeran E Karbala Saleem Mastan Wa Bradran"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Marsiya"
 poet: "Ahsaan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dc2278b34db0244c45be

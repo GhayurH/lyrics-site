@@ -1,11 +1,11 @@
 ---
 title: "Dono Jahan Mein Ja Baja Charcha Hasan Ameer Ka Adeel Izhar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f4588fa887854f464a97

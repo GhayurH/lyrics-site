@@ -1,6 +1,6 @@
 ---
 title: "Fatima Jaiyan Veeraan Diyan Laashan Tay Ro Vain Paundiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

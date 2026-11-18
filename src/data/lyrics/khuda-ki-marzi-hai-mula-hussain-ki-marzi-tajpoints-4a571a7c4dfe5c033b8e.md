@@ -1,11 +1,11 @@
 ---
 title: "Khuda Ki Marzi Hai Mula Hussain Ki Marzi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4a571a7c4dfe5c033b8e

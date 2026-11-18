@@ -1,11 +1,11 @@
 ---
 title: "Iss Baat Se Mehsoos Karo Kya Hai Sakina Mir Hasan Mir Lyrics 2007"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4304238ee37d2b8294ea

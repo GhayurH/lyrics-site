@@ -1,11 +1,11 @@
 ---
 title: "Ishq E Ali De Raaz Qalandar Denda Aye Lyrics 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:95dac8cee2dc67a5ba23

@@ -1,11 +1,11 @@
 ---
 title: "Zamana Muntazir Hai Jis Ka Ya Rab Woh Imam Aaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7ecb887acfdf76d4ab69

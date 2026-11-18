@@ -1,11 +1,11 @@
 ---
 title: "Bekhre Huwe Ha Lashe Sagar Ali Bhatti"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Fayaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ca14487d62d31c02a2d1

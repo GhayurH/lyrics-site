@@ -1,11 +1,11 @@
 ---
 title: "Noor Ne Noor Ko Aaina Bana Rakha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ba07cea9af3d46465028

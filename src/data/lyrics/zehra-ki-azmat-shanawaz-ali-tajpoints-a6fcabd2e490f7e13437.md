@@ -1,11 +1,11 @@
 ---
 title: "Zehra Ki Azmat Shanawaz Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a6fcabd2e490f7e13437

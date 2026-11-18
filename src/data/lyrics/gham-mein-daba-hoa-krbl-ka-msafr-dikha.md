@@ -1,11 +1,11 @@
 ---
 title: "غم میں ڈابا ہوا کربل کا مسافر دیکھا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Katri Bawa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d4422965f436b5cf1bd1

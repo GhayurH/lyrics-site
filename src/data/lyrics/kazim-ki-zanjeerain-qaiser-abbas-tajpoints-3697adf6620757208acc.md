@@ -1,11 +1,11 @@
 ---
 title: "Kazim Ki Zanjeerain Qaiser Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qaiser"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3697adf6620757208acc

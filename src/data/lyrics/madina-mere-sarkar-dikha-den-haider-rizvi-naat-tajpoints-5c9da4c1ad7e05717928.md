@@ -1,11 +1,11 @@
 ---
 title: "Madina Mere Sarkar Dikha Den Haider Rizvi Naat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5c9da4c1ad7e05717928

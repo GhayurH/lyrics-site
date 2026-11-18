@@ -1,11 +1,11 @@
 ---
 title: "Nabi Apne Betey Ki Ghurbat Pe Roye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:969a3314438081872b61

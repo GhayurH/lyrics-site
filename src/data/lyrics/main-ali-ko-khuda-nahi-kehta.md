@@ -1,6 +1,6 @@
 ---
 title: "Main Ali Ko Khuda Nahi Kehta"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

@@ -1,6 +1,6 @@
 ---
 title: "Haaye Shaam Aagaya, Kya Maqaam Aagaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

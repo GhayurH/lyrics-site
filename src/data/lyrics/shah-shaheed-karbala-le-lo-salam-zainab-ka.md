@@ -1,11 +1,11 @@
 ---
 title: "شاہِ شہیدِ کربلا لے لو سلام زینبؑ کا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:892161acc2b5c73a61f0

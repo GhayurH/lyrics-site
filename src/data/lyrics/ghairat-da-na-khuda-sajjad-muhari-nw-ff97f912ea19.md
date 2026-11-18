@@ -1,6 +1,6 @@
 ---
 title: "Ghairat Da Na Khuda Sajjad Muhari"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

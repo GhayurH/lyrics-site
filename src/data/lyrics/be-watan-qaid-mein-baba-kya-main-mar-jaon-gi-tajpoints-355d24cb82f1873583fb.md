@@ -1,10 +1,10 @@
 ---
 title: "Be Watan Qaid Mein Baba Kya Main Mar Jaon Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:355d24cb82f1873583fb

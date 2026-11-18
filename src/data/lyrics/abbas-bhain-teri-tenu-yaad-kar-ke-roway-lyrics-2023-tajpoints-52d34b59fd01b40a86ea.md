@@ -1,11 +1,11 @@
 ---
 title: "Abbas Bhain Teri Tenu Yaad Kar Ke Roway Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:52d34b59fd01b40a86ea

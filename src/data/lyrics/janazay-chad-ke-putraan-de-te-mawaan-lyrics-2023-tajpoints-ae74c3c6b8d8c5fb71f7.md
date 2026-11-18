@@ -1,11 +1,11 @@
 ---
 title: "Janazay Chad Ke Putraan De Te Mawaan Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ae74c3c6b8d8c5fb71f7

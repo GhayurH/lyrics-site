@@ -1,11 +1,11 @@
 ---
 title: "Khuwab-e-Safar-e-Arbaeen"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # Consecutive original pages consolidated in source order; original source provenance retained.

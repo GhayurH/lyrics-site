@@ -1,10 +1,10 @@
 ---
 title: "Allah Ho Akbar Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:33bf2f3a815ec7a4b6ea

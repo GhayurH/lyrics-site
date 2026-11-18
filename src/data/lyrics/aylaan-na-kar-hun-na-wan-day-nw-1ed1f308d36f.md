@@ -1,6 +1,6 @@
 ---
 title: "Aylaan Na Kar Hun Na Wan Day"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

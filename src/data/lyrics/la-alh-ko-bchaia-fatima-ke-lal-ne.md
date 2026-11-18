@@ -1,10 +1,10 @@
 ---
 title: "لا الہ کو بچایا فاطمہؑ کے لعل نے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e11c00b8c86544e13bc1

@@ -1,11 +1,11 @@
 ---
 title: "Kali Bethi Bhain Sughra Tera Jhola Roz Lyrics 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4ddcc992b5f73d87b9af

@@ -1,11 +1,11 @@
 ---
 title: "Ya Ali Murtaza Salamun Alaik"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Najam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b75634659bfd796a12aa

@@ -1,6 +1,6 @@
 ---
 title: "Zindaan Me Jabke Dukhtar e Shabbir Mar Gayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

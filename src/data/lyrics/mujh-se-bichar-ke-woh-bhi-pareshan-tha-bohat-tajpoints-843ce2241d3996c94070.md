@@ -1,11 +1,11 @@
 ---
 title: "Mujh Se Bichar Ke Woh Bhi Pareshan Tha Bohat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Baqi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:843ce2241d3996c94070

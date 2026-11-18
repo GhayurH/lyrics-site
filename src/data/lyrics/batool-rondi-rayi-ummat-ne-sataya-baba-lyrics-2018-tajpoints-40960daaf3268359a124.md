@@ -1,11 +1,11 @@
 ---
 title: "Batool Rondi Rayi Ummat Ne Sataya Baba Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:40960daaf3268359a124

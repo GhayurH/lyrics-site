@@ -1,11 +1,11 @@
 ---
 title: "Kazim Ke Pisar Pe Yeh Kya Zulm Howa Hai Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a9cf8311e451afc86840

@@ -1,6 +1,6 @@
 ---
 title: "Na Ro Aun Di Amri Tur Ja Aj"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

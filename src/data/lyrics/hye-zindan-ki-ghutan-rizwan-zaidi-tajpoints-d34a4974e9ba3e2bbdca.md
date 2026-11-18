@@ -1,11 +1,11 @@
 ---
 title: "Hye Zindan Ki Ghutan Rizwan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d34a4974e9ba3e2bbdca

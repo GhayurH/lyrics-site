@@ -1,10 +1,10 @@
 ---
 title: "حالِ کربلا میں کیا بتاؤں نانا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4c9f5ec8bb0af3e8777f

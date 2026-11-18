@@ -1,11 +1,11 @@
 ---
 title: "Sadaqton Ka Ye Mayar Ban Ke Nikle Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1f66418689f239fc3b44

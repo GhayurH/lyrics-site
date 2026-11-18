@@ -1,11 +1,11 @@
 ---
 title: "Baba Sakina Ki Tainu Apna Haal Sunaye Lyrics In Punjabi 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:be8cc1c45c3a3c432e3b

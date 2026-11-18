@@ -1,6 +1,6 @@
 ---
 title: "Gham Mein Doba Howa Karbal Ka Musafir Dekha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

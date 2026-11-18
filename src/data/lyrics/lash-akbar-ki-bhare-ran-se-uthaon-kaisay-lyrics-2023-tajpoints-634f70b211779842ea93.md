@@ -1,11 +1,11 @@
 ---
 title: "Lash Akbar Ki Bhare Ran Se Uthaon Kaisay Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:634f70b211779842ea93

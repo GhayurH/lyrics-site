@@ -1,11 +1,11 @@
 ---
 title: "Ali Ke Jah-o-Jalalat Ka Naam Hai Zainab 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1533a057b7f2850b69ad

@@ -1,11 +1,11 @@
 ---
 title: "Kyun Musalmana Ne Zainab De Piyo Nu Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ff032ec1c599055454ad

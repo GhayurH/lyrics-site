@@ -1,11 +1,11 @@
 ---
 title: "Baghdad De Qaidi Nu Jadon Ujriyaan Dhiyaan Ne Lyrics 2005"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8bcdec537d5305f1262d

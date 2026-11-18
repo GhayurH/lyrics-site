@@ -1,11 +1,11 @@
 ---
 title: "Yeh Dekha Gaya Hai Dar-e-Mustafa Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ea377591a3984c9711ac

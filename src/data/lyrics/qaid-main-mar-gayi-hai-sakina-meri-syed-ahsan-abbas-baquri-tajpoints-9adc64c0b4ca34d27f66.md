@@ -1,11 +1,11 @@
 ---
 title: "Qaid Main Mar Gayi Hai Sakina Meri Syed Ahsan Abbas Baquri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahsan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9adc64c0b4ca34d27f66

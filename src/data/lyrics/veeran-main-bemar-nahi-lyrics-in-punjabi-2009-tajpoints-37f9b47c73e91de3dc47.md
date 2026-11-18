@@ -1,11 +1,11 @@
 ---
 title: "Veeran Main Bemar Nahi Lyrics In Punjabi 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37f9b47c73e91de3dc47

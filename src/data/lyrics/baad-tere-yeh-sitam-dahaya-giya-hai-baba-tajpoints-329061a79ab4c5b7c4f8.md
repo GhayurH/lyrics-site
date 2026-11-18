@@ -1,11 +1,11 @@
 ---
 title: "Baad Tere Yeh Sitam Dahaya Giya Hai Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:329061a79ab4c5b7c4f8

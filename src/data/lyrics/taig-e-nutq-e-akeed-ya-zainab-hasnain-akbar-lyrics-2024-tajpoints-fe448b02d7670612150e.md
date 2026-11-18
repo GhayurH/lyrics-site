@@ -1,11 +1,11 @@
 ---
 title: "Taig E Nutq E Akeed Ya Zainab Hasnain Akbar Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fe448b02d7670612150e

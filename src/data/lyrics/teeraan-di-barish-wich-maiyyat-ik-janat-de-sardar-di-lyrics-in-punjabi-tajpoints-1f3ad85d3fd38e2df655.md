@@ -1,11 +1,11 @@
 ---
 title: "Teeraan Di Barish Wich Maiyyat Ik Janat De Sardar Di Lyrics In Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ijaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1f3ad85d3fd38e2df655

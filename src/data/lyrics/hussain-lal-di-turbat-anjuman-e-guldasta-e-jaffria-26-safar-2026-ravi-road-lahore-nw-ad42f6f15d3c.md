@@ -1,6 +1,6 @@
 ---
 title: "Hussain Lal Di Turbat Anjuman e Guldasta e Jaffria 26 Safar 2026 Ravi Road Lahore"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

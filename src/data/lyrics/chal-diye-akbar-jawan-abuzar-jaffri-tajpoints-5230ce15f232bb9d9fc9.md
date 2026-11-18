@@ -1,11 +1,11 @@
 ---
 title: "Chal Diye Akbar Jawan Abuzar Jaffri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5230ce15f232bb9d9fc9

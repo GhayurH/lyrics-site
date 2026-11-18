@@ -1,11 +1,11 @@
 ---
 title: "Jay Kar Deen Ilm Wich Honda Sir Nezay Kyun Charde Hoo Lyrics In Punjabi 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bahoo"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4eec9b6c5e842f498182

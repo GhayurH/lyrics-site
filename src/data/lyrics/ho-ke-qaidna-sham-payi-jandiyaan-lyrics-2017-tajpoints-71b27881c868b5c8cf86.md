@@ -1,10 +1,10 @@
 ---
 title: "Ho Ke Qaidna Sham Payi Jandiyaan Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:71b27881c868b5c8cf86

@@ -1,11 +1,11 @@
 ---
 title: "Hum Najaf Aa Gaye Our Kya Chahiye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:45f07197a1a94a3608df

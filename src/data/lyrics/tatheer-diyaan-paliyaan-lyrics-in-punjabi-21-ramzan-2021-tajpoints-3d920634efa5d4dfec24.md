@@ -1,11 +1,11 @@
 ---
 title: "Tatheer Diyaan Paliyaan Lyrics In Punjabi 21 Ramzan 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3d920634efa5d4dfec24

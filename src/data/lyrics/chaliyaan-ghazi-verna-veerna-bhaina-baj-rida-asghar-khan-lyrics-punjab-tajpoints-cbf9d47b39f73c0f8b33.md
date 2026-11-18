@@ -1,11 +1,11 @@
 ---
 title: "Chaliyaan Ghazi Verna Veerna Bhaina Baj Rida Asghar Khan Lyrics Punjabi 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cbf9d47b39f73c0f8b33

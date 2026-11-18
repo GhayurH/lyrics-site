@@ -1,11 +1,11 @@
 ---
 title: "تیری زهرا پہ مصیبت کی گهڑی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Meer Hasan Meer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:90ca556b5daa83ee756a

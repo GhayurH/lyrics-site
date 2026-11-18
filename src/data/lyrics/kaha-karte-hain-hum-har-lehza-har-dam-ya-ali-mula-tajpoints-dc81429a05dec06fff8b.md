@@ -1,11 +1,11 @@
 ---
 title: "Kaha Karte Hain Hum Har Lehza Har Dam Ya Ali Mula"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dc81429a05dec06fff8b

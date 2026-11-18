@@ -1,11 +1,11 @@
 ---
 title: "Janasheen-e-Imam-e-Raza Aa Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f474107900087190bf44

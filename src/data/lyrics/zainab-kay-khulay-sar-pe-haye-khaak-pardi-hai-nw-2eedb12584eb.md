@@ -1,6 +1,6 @@
 ---
 title: "Zainab Kay Khulay Sar Pe, Haye Khaak Pardi Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

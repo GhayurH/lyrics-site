@@ -1,11 +1,11 @@
 ---
 title: "Bibi Zahra Jo Bhi Aaya Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e8c56a32188758ddf2e2

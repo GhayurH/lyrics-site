@@ -1,11 +1,11 @@
 ---
 title: "Qaid Khana Hai Aseri Hai Fatemah Ladak Lyrics 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:991567b5d15fc5a8f762

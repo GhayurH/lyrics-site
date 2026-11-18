@@ -1,11 +1,11 @@
 ---
 title: "Kaisay Milta Hai Khuda Dekh Liya Hai Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:71866db875c281687363

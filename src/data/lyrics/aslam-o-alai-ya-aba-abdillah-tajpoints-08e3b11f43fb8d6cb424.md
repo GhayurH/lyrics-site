@@ -1,11 +1,11 @@
 ---
 title: "Aslam O Alai Ya Aba Abdillah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:08e3b11f43fb8d6cb424

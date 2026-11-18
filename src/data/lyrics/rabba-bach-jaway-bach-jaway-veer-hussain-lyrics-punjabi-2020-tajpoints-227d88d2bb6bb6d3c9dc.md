@@ -1,11 +1,11 @@
 ---
 title: "Rabba Bach Jaway Bach Jaway Veer Hussain Lyrics Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:227d88d2bb6bb6d3c9dc

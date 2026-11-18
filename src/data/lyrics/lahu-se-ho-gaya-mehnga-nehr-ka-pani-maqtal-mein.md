@@ -1,10 +1,10 @@
 ---
 title: "ہائے لہو سے ہو گیا مہنگا نہر کا پانی مقتل میں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:1202f0159550d9fff0ce

@@ -1,11 +1,11 @@
 ---
 title: "Lash-e-Be Sar Ko Jo Seeney Se Lagaya Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qasim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e01bd5b124b8eeeda301

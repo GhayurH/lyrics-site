@@ -1,11 +1,11 @@
 ---
 title: "Haq Mor Mera Pehchan Menu Mera Rakhiya Naam Khuda Zahra Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tosif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cdb35e2eea3ab85b5fea

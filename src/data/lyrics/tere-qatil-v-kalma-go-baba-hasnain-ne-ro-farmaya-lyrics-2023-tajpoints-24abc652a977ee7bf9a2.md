@@ -1,11 +1,11 @@
 ---
 title: "Tere Qatil V Kalma Go Baba Hasnain Ne Ro Farmaya Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:24abc652a977ee7bf9a2

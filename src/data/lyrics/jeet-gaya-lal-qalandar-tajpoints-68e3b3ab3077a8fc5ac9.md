@@ -1,11 +1,11 @@
 ---
 title: "Jeet Gaya Lal Qalandar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Farhan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:68e3b3ab3077a8fc5ac9

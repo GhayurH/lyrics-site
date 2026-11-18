@@ -1,11 +1,11 @@
 ---
 title: "Dard-e-Shabir Jis Insan Ka Muqadar Thehre"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4a34b3289e6924b73e24

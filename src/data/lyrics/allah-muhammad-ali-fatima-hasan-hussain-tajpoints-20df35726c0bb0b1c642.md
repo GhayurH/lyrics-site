@@ -1,11 +1,11 @@
 ---
 title: "Allah Muhammad Ali Fatima Hasan Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:20df35726c0bb0b1c642

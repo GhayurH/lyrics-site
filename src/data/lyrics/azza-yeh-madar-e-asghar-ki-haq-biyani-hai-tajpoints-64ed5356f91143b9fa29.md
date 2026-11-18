@@ -1,11 +1,11 @@
 ---
 title: "Azza Yeh Madar E Asghar Ki Haq Biyani Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nisar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:64ed5356f91143b9fa29

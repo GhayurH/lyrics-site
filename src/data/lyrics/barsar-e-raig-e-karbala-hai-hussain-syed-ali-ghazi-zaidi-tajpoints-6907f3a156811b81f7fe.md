@@ -1,11 +1,11 @@
 ---
 title: "Barsar E Raig E Karbala Hai Hussain Syed Ali Ghazi Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahsan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6907f3a156811b81f7fe

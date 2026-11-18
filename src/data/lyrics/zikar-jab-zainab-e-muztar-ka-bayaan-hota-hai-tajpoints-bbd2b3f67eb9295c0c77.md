@@ -1,11 +1,11 @@
 ---
 title: "Zikar Jab Zainab-e-Muztar Ka Bayaan Hota Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ameer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bbd2b3f67eb9295c0c77

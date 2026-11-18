@@ -1,11 +1,11 @@
 ---
 title: "Noor-e-Khaliq Ki Zia Asal-e-Taharat Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ac65b3e449cac255893c

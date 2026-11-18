@@ -1,10 +1,10 @@
 ---
 title: "Mushkil Kusha Batool"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:68cda168c3a1b355fd94

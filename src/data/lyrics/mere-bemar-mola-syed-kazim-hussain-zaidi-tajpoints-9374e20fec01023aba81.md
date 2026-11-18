@@ -1,11 +1,11 @@
 ---
 title: "Mere Bemar Mola Syed Kazim Hussain Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mirza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9374e20fec01023aba81

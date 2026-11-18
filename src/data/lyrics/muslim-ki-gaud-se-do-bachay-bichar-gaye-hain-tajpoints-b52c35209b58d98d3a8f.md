@@ -1,11 +1,11 @@
 ---
 title: "Muslim Ki Gaud Se Do Bachay Bichar Gaye Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Debal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b52c35209b58d98d3a8f

@@ -1,11 +1,11 @@
 ---
 title: "Qaid Ho Ke Jo Karb-o-Bala Se Chala Ab Wohi Qafila Sham Mein Aa Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:da5b8466361519b5764d

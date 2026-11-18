@@ -1,11 +1,11 @@
 ---
 title: "Kera Janda C Wich Yasrab De Kadi Aisay Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f9022d0aa80dbb1e4ec1

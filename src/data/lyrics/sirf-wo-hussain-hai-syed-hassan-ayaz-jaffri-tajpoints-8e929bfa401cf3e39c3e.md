@@ -1,11 +1,11 @@
 ---
 title: "Sirf Wo Hussain Hai Syed Hassan Ayaz Jaffri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8e929bfa401cf3e39c3e

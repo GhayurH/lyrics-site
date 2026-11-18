@@ -1,11 +1,11 @@
 ---
 title: "Karbala Tujpe Jo Qurban Bahatar Kar Dey"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e1af89a1182acf807b5e

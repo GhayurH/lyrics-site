@@ -1,7 +1,7 @@
 ---
 title: "Luti Paak Rasool Di Aal"
 alternateTitle: "Tapdiyan Raitan Te"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

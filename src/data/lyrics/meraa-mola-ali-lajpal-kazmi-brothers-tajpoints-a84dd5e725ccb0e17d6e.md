@@ -1,11 +1,11 @@
 ---
 title: "Meraa Mola Ali Lajpal Kazmi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a84dd5e725ccb0e17d6e

@@ -1,6 +1,6 @@
 ---
 title: "Ay Rat Hun Nayi Rukdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

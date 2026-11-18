@@ -1,10 +1,10 @@
 ---
 title: "کرتے ہیں سب زندان میں فغاں واویلا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:da13ef0652e703b6bb3b

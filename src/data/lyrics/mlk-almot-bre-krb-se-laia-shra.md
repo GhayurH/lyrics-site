@@ -1,10 +1,10 @@
 ---
 title: "ملک الموت بڑے کرب سے لایا سہرا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7e48df24ef4126914ef5

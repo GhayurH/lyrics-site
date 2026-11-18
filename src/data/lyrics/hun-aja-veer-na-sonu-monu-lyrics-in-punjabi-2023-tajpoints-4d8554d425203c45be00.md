@@ -1,11 +1,11 @@
 ---
 title: "Hun Aja Veer Na Sonu Monu Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naeem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4d8554d425203c45be00

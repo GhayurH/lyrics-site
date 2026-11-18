@@ -1,10 +1,10 @@
 ---
 title: "قاسمؑ کے جنازے پہ کیا درد کا منظر ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a3fbfd95fb2c1dd58c25

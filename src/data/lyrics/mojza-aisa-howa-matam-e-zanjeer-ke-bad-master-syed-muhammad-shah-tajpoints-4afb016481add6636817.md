@@ -1,11 +1,11 @@
 ---
 title: "Mojza Aisa Howa Matam E Zanjeer Ke Bad Master Syed Muhammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4afb016481add6636817

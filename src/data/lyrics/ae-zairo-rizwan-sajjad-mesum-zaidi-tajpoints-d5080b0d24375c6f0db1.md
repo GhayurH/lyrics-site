@@ -1,11 +1,11 @@
 ---
 title: "Ae Zairo Rizwan Sajjad Mesum Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d5080b0d24375c6f0db1

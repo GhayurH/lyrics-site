@@ -1,10 +1,10 @@
 ---
 title: "تیری لاش کو میں اصغرؑ دفناؤں اب کہاں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6b2cfab9b36146a7e23c

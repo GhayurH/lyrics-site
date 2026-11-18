@@ -1,6 +1,6 @@
 ---
 title: "Woh Hasnain Ki Maa Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

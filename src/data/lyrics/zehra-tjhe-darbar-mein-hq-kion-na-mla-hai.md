@@ -1,10 +1,10 @@
 ---
 title: "زہراؑ تجھے دربار میں حق کیوں نہ ملا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:fc7c9c99580b11df21ac

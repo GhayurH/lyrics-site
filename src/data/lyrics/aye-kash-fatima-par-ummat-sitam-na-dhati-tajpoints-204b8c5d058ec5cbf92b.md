@@ -1,11 +1,11 @@
 ---
 title: "Aye Kash Fatima Par Ummat Sitam Na Dhati"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:204b8c5d058ec5cbf92b

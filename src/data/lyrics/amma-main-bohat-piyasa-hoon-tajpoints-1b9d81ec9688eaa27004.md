@@ -1,11 +1,11 @@
 ---
 title: "Amma Main Bohat Piyasa Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Laeeq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1b9d81ec9688eaa27004

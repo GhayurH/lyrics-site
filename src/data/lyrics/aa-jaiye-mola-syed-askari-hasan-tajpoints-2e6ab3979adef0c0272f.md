@@ -1,11 +1,11 @@
 ---
 title: "Aa Jaiye Mola Syed Askari Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mussadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2e6ab3979adef0c0272f

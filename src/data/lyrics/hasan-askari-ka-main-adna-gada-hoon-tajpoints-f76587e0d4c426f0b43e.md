@@ -1,11 +1,11 @@
 ---
 title: "Hasan Askari Ka Main Adna Gada Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f76587e0d4c426f0b43e

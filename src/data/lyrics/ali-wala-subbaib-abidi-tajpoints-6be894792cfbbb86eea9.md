@@ -1,11 +1,11 @@
 ---
 title: "Ali Wala Subbaib Abidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Subbaib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6be894792cfbbb86eea9

@@ -1,11 +1,11 @@
 ---
 title: "Main Rahun Ya Na Rahun Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sarwar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fdd5f72476e13c147e54

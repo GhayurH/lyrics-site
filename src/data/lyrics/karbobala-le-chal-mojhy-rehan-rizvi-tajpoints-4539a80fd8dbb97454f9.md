@@ -1,11 +1,11 @@
 ---
 title: "Karbobala Le Chal Mojhy Rehan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4539a80fd8dbb97454f9

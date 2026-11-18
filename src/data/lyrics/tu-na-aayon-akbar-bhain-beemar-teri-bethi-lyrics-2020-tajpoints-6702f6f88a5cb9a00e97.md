@@ -1,10 +1,10 @@
 ---
 title: "Tu Na Aayon Akbar Bhain Beemar Teri Bethi Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6702f6f88a5cb9a00e97

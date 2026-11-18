@@ -1,11 +1,11 @@
 ---
 title: "Jab Kar Chukey Jahan Se Safar Aakhri Rasool"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7264921318b9f5a136f1

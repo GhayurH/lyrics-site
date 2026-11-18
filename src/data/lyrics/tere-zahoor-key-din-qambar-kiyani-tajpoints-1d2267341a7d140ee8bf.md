@@ -1,11 +1,11 @@
 ---
 title: "Tere Zahoor Key Din Qambar Kiyani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d2267341a7d140ee8bf

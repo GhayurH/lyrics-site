@@ -1,11 +1,11 @@
 ---
 title: "Dua-e-Fatima Zahra Hussain Ka Ashiq Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5a65e6a59165fc921d7a

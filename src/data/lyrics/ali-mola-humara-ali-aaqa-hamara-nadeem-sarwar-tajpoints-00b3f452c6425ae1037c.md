@@ -1,11 +1,11 @@
 ---
 title: "Ali Mola Humara Ali Aaqa Hamara Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:00b3f452c6425ae1037c

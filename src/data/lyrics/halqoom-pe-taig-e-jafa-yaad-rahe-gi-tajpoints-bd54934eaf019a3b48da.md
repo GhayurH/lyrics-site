@@ -1,11 +1,11 @@
 ---
 title: "Halqoom Pe Taig-e-Jafa Yaad Rahe Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bd54934eaf019a3b48da

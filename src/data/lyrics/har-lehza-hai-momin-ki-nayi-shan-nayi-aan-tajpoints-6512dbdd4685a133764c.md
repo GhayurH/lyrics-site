@@ -1,10 +1,10 @@
 ---
 title: "Har Lehza Hai Momin Ki Nayi Shan Nayi Aan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6512dbdd4685a133764c

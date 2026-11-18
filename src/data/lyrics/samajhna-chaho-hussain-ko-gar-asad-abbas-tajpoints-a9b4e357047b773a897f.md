@@ -1,11 +1,11 @@
 ---
 title: "Samajhna Chaho Hussain Ko Gar Asad Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Salamat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a9b4e357047b773a897f

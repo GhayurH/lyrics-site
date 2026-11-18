@@ -1,11 +1,11 @@
 ---
 title: "Abbas Ne Dekha Khali Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:206f5c87c54dc4713d5c

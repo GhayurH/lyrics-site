@@ -1,11 +1,11 @@
 ---
 title: "Watna Te Mur Aa Ja Akbar Khat Ujari Da Aaya Aye New Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:c6cbefeb7a37a70d98e4

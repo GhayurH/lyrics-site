@@ -1,10 +1,10 @@
 ---
 title: "الوداع یا حسینؑ اے حسینؑ الوداع"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b60d7769bd9de6d32fd1

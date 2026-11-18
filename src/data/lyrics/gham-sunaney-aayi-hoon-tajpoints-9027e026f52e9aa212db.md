@@ -1,11 +1,11 @@
 ---
 title: "Gham Sunaney Aayi Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9027e026f52e9aa212db

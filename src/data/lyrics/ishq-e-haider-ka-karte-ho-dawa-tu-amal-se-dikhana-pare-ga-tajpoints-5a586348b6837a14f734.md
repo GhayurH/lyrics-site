@@ -1,11 +1,11 @@
 ---
 title: "Ishq-e-Haider Ka Karte Ho Dawa Tu Amal Se Dikhana Pare Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Adil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5a586348b6837a14f734

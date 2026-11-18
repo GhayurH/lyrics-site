@@ -1,11 +1,11 @@
 ---
 title: "Jab Gayi Aal-e-Payamber Karbala Se Sham Tak Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mehshar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c3d6443c021ff74afa98

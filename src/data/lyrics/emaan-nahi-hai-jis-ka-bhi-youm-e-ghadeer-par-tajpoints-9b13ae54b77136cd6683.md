@@ -1,11 +1,11 @@
 ---
 title: "Emaan Nahi Hai Jis Ka Bhi Youm E Ghadeer Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9b13ae54b77136cd6683

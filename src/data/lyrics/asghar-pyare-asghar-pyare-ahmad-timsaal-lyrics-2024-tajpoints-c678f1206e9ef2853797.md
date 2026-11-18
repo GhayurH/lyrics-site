@@ -1,11 +1,11 @@
 ---
 title: "Asghar Pyare Asghar Pyare Ahmad Timsaal Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c678f1206e9ef2853797

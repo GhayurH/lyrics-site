@@ -1,6 +1,6 @@
 ---
 title: "Ummat Ne Qaid Kitiyan Hy Phupiyan Be Rida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

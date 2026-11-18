@@ -1,11 +1,11 @@
 ---
 title: "Youn Tu Hai Khana-e-Khuda Kaba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:152455ee48f592bcc9fe

@@ -1,11 +1,11 @@
 ---
 title: "Teri Zahra Nu Tarpaya Ay Allay Hassan Rizvi Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 ---

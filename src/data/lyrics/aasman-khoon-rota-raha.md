@@ -1,10 +1,10 @@
 ---
 title: "آسماں خون روتا رہا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2f4bd02fa8773ab9225b

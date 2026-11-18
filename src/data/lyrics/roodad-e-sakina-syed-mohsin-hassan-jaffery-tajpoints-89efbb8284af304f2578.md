@@ -1,11 +1,11 @@
 ---
 title: "Roodad E Sakina Syed Mohsin Hassan Jaffery"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Marsiya"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:89efbb8284af304f2578

@@ -1,11 +1,11 @@
 ---
 title: "Mera Rehbar Ali Dua E Subh Azadar E Batool"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ee0fdc48f51d36f5a5d2

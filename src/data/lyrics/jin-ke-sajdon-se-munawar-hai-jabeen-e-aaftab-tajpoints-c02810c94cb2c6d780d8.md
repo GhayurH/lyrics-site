@@ -1,10 +1,10 @@
 ---
 title: "Jin Ke Sajdon Se Munawar Hai Jabeen-e-Aaftab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c02810c94cb2c6d780d8

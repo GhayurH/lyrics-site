@@ -1,11 +1,11 @@
 ---
 title: "Is Shor Ki Aadi Nahi Zainab Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6cb0228725be96f02920

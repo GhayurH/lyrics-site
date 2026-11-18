@@ -1,10 +1,10 @@
 ---
 title: "دئے مشکلوں میں تو نے سہارے حسین کو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:3ed77bc016f22891cb8a

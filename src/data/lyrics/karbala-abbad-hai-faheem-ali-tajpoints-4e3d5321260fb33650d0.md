@@ -1,11 +1,11 @@
 ---
 title: "Karbala Abbad Hai Faheem Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shaukat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4e3d5321260fb33650d0

@@ -1,10 +1,10 @@
 ---
 title: "Almaa Wale De Piyo Nu Wich Masjid De Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:04da675a1c9592b8e70e

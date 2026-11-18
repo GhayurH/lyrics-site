@@ -1,10 +1,10 @@
 ---
 title: "یا حسینؑ یا ابا عبداللہؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d9bb860d52560e7e273b

@@ -1,11 +1,11 @@
 ---
 title: "Akbar Kahi Pe Hain Kahi Asghar Zameen Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dc93f6ffce0b7299b844

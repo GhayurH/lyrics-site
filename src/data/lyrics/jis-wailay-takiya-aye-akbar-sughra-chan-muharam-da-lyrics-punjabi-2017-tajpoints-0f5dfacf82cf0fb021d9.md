@@ -1,11 +1,11 @@
 ---
 title: "Jis Wailay Takiya Aye Akbar Sughra Chan Muharam Da Lyrics Punjabi 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeshaan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0f5dfacf82cf0fb021d9

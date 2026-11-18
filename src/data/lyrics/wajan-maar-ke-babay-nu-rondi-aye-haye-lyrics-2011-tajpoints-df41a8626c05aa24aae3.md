@@ -1,11 +1,11 @@
 ---
 title: "Wajan Maar Ke Babay Nu Rondi Aye Haye Lyrics 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:df41a8626c05aa24aae3

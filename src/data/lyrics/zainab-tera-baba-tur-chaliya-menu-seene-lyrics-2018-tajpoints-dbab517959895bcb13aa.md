@@ -1,11 +1,11 @@
 ---
 title: "Zainab Tera Baba Tur Chaliya Menu Seene Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dbab517959895bcb13aa

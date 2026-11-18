@@ -1,11 +1,11 @@
 ---
 title: "Khoon Mein Batlao Keh Doba Yeh Lasha Kis Ka Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:32d4fd77dad66b57bd6c

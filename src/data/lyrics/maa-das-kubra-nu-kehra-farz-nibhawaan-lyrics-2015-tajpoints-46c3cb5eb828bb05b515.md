@@ -1,11 +1,11 @@
 ---
 title: "Maa Das Kubra Nu Kehra Farz Nibhawaan Lyrics 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:46c3cb5eb828bb05b515

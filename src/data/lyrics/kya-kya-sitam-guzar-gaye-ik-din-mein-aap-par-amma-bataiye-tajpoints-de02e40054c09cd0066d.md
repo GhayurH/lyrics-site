@@ -1,11 +1,11 @@
 ---
 title: "Kya Kya Sitam Guzar Gaye Ik Din Mein Aap Par Amma Bataiye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:de02e40054c09cd0066d

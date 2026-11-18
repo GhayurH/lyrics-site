@@ -1,11 +1,11 @@
 ---
 title: "Shah E Aman De Pak Janaze Te Bhaina Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0bfb6738c1d05f843a3c

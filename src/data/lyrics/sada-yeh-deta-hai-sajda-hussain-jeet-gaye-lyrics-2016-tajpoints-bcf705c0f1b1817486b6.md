@@ -1,11 +1,11 @@
 ---
 title: "Sada Yeh Deta Hai Sajda Hussain Jeet Gaye Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bcf705c0f1b1817486b6

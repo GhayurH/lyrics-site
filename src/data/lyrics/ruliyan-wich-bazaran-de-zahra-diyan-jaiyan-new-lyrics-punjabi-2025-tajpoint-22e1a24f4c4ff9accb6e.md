@@ -1,11 +1,11 @@
 ---
 title: "Ruliyan Wich Bazaran De Zahra Diyan Jaiyan New Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:22e1a24f4c4ff9accb6e

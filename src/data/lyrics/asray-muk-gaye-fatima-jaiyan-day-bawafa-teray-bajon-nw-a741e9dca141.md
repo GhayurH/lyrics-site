@@ -1,6 +1,6 @@
 ---
 title: "Asray Muk Gaye Fatima Jaiyan Day Bawafa Teray Bajon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

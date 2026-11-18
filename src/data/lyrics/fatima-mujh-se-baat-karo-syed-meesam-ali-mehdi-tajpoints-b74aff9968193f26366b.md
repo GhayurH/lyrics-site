@@ -1,11 +1,11 @@
 ---
 title: "Fatima Mujh Se Baat Karo Syed Meesam Ali Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Meesam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b74aff9968193f26366b

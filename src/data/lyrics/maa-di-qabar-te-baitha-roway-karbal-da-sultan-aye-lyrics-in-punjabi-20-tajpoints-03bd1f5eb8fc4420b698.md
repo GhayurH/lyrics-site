@@ -1,11 +1,11 @@
 ---
 title: "Maa Di Qabar Te Baitha Roway Karbal Da Sultan Aye Lyrics In Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zaire"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:03bd1f5eb8fc4420b698

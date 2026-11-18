@@ -1,6 +1,6 @@
 ---
 title: "Ek Riwayat May Hai Ke Baade Aseeri Sajjad"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Fatima Zahra Ki Chadar Syed Askari Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:998cc6aaa54b21d44573

@@ -1,11 +1,11 @@
 ---
 title: "Hussain Ker Dein Gy Shahzad Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Naeem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:64738dc20863ed9e60c6

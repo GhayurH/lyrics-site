@@ -1,11 +1,11 @@
 ---
 title: "Mere Mola Reza Massam Hassan Karbalai Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Faizan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:07eacb1687d8cc02c31f

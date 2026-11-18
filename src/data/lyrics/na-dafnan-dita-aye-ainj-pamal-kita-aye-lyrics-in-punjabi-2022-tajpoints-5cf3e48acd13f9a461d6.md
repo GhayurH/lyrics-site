@@ -1,11 +1,11 @@
 ---
 title: "Na Dafnan Dita Aye Ainj Pamal KIta Aye Lyrics In Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5cf3e48acd13f9a461d6

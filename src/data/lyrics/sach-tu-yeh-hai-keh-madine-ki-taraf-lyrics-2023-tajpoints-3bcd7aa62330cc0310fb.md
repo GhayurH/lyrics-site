@@ -1,11 +1,11 @@
 ---
 title: "Sach Tu Yeh Hai Keh Madine Ki Taraf Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3bcd7aa62330cc0310fb

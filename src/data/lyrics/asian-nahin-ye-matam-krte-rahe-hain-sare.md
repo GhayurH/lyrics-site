@@ -1,11 +1,11 @@
 ---
 title: "عسیاں نہیں یہ ماتم کرتے رہے ہیں سارے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7ece88a44af0b7eff99e

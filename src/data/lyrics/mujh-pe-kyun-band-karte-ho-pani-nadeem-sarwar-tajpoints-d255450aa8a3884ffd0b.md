@@ -1,11 +1,11 @@
 ---
 title: "Mujh Pe Kyun Band Karte Ho Pani Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d255450aa8a3884ffd0b

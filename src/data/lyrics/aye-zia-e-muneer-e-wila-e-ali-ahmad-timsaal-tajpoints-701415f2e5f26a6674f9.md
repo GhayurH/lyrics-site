@@ -1,11 +1,11 @@
 ---
 title: "Aye Zia E Muneer E Wila E Ali Ahmad Timsaal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:701415f2e5f26a6674f9

@@ -1,6 +1,6 @@
 ---
 title: "Bad-e-Hussain Kisnay Kaha Main Yateem Houn"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

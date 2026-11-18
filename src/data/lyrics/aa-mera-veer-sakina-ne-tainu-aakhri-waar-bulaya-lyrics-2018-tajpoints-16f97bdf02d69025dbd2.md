@@ -1,11 +1,11 @@
 ---
 title: "Aa Mera Veer Sakina Ne Tainu Aakhri Waar Bulaya Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:16f97bdf02d69025dbd2

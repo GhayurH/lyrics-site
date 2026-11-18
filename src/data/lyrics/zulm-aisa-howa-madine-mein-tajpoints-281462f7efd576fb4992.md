@@ -1,11 +1,11 @@
 ---
 title: "Zulm Aisa Howa Madine Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:281462f7efd576fb4992

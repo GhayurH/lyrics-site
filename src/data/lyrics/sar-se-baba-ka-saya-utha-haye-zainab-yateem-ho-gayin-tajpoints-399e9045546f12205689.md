@@ -1,10 +1,10 @@
 ---
 title: "Sar Se Baba Ka Saya Utha Haye Zainab Yateem Ho Gayin"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:399e9045546f12205689

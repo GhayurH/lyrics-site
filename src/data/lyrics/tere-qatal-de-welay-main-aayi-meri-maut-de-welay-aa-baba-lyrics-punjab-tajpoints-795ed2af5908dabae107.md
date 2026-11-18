@@ -1,11 +1,11 @@
 ---
 title: "Tere Qatal De Welay Main Aayi Meri Maut De Welay Aa Baba Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:795ed2af5908dabae107

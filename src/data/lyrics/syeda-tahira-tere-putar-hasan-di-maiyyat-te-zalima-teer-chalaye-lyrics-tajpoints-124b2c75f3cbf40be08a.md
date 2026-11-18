@@ -1,11 +1,11 @@
 ---
 title: "Syeda Tahira Tere Putar Hasan Di Maiyyat Te Zalima Teer Chalaye Lyrics In Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:124b2c75f3cbf40be08a

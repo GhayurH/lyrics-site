@@ -1,6 +1,6 @@
 ---
 title: "Taboot Utha Saqi-e-Kosar Ka Jo Ghar Say"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

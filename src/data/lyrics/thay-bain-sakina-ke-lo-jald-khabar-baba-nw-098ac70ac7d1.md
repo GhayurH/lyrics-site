@@ -1,6 +1,6 @@
 ---
 title: "Thay Bain Sakina Ke Lo Jald Khabar Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

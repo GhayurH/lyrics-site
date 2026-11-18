@@ -1,11 +1,11 @@
 ---
 title: "Sajjad Yeh Kehta Tha Rokar Main Sham Mein Oss Pal Mar Hi Giya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ec269b4e0354267d9b26

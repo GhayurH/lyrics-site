@@ -1,11 +1,11 @@
 ---
 title: "Sangaan De Utay Behna Sang Ray Zainab Lyrics 2015"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4d57f3f4e7de75c38634

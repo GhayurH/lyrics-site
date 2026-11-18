@@ -1,11 +1,11 @@
 ---
 title: "Ishq-e-Haider Jeet Gaya Mir Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c5c089d66c5979e34cea

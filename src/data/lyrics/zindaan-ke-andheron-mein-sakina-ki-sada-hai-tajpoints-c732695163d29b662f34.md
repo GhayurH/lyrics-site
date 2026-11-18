@@ -1,11 +1,11 @@
 ---
 title: "Zindaan Ke Andheron Mein Sakina Ki Sada Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qamar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c732695163d29b662f34

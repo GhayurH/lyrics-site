@@ -1,11 +1,11 @@
 ---
 title: "Zainab Kay Dono Pyaray Hassan Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:668fa634b56c0d06fb6b

@@ -1,11 +1,11 @@
 ---
 title: "Mustaqil Yeh Atta Hussain Ki Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b5e7b49bd3f4b654dc74

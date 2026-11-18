@@ -1,11 +1,11 @@
 ---
 title: "Shagan Manawan Syed Raza Abbas Zaidi Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:38d1fcc6246bb3d3363d

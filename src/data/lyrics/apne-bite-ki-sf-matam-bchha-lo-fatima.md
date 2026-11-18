@@ -1,10 +1,10 @@
 ---
 title: "اپنے بیٹے کی صف ماتم بچھا لو فاطمہ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:b5e2ba0dd59173d8cc4c

@@ -1,6 +1,6 @@
 ---
 title: "Menu Shaam Sawaire Yaadan Aundian Ne Aaja Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

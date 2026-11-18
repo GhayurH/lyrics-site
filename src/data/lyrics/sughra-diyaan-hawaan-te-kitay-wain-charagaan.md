@@ -1,6 +1,6 @@
 ---
 title: "Sughra Diyaan Hawaan Te Kitay Wain Charagaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

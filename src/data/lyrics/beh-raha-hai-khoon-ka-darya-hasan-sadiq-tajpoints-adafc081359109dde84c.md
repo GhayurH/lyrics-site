@@ -1,11 +1,11 @@
 ---
 title: "Beh Raha Hai Khoon Ka Darya Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Gulzar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:adafc081359109dde84c

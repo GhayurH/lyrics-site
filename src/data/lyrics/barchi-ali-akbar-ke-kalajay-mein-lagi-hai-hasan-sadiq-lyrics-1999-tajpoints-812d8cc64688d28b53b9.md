@@ -1,11 +1,11 @@
 ---
 title: "Barchi Ali Akbar Ke Kalajay Mein Lagi Hai Hasan Sadiq Lyrics 1999"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:812d8cc64688d28b53b9

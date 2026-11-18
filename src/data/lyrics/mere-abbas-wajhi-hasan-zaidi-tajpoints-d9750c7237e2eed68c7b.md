@@ -1,11 +1,11 @@
 ---
 title: "Mere Abbas Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Munajat"
 poet: "Nisa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d9750c7237e2eed68c7b

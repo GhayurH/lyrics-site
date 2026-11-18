@@ -1,11 +1,11 @@
 ---
 title: "Chom Kar Zainab Ki Chadar Murtaza Rotay Rahe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0359fbb25ab40f751476

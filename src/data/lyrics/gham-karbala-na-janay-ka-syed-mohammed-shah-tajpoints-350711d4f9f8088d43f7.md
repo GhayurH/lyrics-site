@@ -1,10 +1,10 @@
 ---
 title: "Gham Karbala Na Janay Ka Syed Mohammed Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:350711d4f9f8088d43f7

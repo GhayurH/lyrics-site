@@ -1,6 +1,6 @@
 ---
 title: "Meray Bhaiya Meray Ghazi Meray Pyaray Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

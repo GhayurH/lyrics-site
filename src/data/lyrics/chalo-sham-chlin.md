@@ -1,10 +1,10 @@
 ---
 title: "چلو شام چلیں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e4ddf2f525c2e19fdee9

@@ -1,11 +1,11 @@
 ---
 title: "La Hawla Wala Quwwata Illa Billah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7821088459f2b3a51a15

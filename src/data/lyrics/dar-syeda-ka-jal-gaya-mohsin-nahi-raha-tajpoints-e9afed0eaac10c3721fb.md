@@ -1,11 +1,11 @@
 ---
 title: "Dar Syeda Ka Jal Gaya Mohsin Nahi Raha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e9afed0eaac10c3721fb

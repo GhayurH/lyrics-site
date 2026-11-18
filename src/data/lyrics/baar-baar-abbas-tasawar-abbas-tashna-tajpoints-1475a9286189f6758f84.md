@@ -1,11 +1,11 @@
 ---
 title: "Baar Baar Abbas Tasawar Abbas Tashna"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1475a9286189f6758f84

@@ -1,11 +1,11 @@
 ---
 title: "Ali Ka Zikar Karon Ga Bura Lagay Tu Lagay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ccefcb5ee82de2cffa80

@@ -1,11 +1,11 @@
 ---
 title: "Jang E Sifeen Moula Abbas Ka Hamla Naeem Raza Haider"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:26c98a291127e7ddcd0c

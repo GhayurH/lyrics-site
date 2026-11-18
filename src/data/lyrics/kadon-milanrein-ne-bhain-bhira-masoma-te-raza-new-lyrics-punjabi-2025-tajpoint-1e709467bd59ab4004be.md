@@ -1,11 +1,11 @@
 ---
 title: "Kadon Milanrein Ne Bhain Bhira Masoma Te Raza New Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:1e709467bd59ab4004be

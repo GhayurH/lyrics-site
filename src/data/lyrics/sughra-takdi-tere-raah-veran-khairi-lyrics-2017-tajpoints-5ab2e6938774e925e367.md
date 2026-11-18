@@ -1,11 +1,11 @@
 ---
 title: "Sughra Takdi Tere Raah Veran Khairi Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5ab2e6938774e925e367

@@ -1,11 +1,11 @@
 ---
 title: "Sab Jhot Tha Jo Chashma-e-Haiwaan Ke Pass Tha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:84da30b717d805e5f2f4

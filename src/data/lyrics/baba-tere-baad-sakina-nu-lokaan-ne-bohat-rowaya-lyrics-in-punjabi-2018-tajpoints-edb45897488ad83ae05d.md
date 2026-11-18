@@ -1,11 +1,11 @@
 ---
 title: "Baba Tere Baad Sakina Nu Lokaan Ne Bohat Rowaya Lyrics In Punjabi 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:edb45897488ad83ae05d

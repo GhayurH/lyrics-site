@@ -1,11 +1,11 @@
 ---
 title: "Main Khak-e-Karbala Hoon Rutba Mera Juda Hai Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3e0d19e9e8b93464917a

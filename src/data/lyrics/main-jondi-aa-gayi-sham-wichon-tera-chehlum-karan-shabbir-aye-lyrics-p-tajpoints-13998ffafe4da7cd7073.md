@@ -1,11 +1,11 @@
 ---
 title: "Main Jondi Aa Gayi Sham Wichon Tera Chehlum Karan Shabbir Aye Lyrics Punjabi 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:13998ffafe4da7cd7073

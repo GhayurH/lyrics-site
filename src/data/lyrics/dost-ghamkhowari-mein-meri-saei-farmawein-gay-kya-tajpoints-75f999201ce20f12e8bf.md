@@ -1,11 +1,11 @@
 ---
 title: "Dost Ghamkhowari Mein Meri Saei Farmawein Gay Kya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:75f999201ce20f12e8bf

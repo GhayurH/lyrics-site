@@ -1,11 +1,11 @@
 ---
 title: "Mehndi Lawan Ayiyaan Qasim Nu Zahra Jaiyaan Lyrics 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2fd011cd40163459023c

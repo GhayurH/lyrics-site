@@ -1,6 +1,6 @@
 ---
 title: "Abbas veer Aa Teri Bhain Di Rida Haye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Akbar Tujay Karbal Ki Sehar Dhoond Rahi Hay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

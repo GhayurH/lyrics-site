@@ -1,11 +1,11 @@
 ---
 title: "Jab Pareshan Kabhi Ranj-o-Alam Karte Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:42eaccc7046fe464bee8

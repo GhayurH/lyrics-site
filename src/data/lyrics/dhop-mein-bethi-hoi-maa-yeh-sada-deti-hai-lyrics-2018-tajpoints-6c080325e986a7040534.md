@@ -1,11 +1,11 @@
 ---
 title: "Dhop Mein Bethi Hoi Maa Yeh Sada Deti Hai Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6c080325e986a7040534

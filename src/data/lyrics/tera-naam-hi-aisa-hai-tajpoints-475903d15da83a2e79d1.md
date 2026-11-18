@@ -1,11 +1,11 @@
 ---
 title: "Tera Naam Hi Aisa Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aqeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:475903d15da83a2e79d1

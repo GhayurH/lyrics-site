@@ -1,11 +1,11 @@
 ---
 title: "Aaye They Jo Dar Jalane Ahmad E Mursal Ke Bad"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f7978706cc76b650ef83

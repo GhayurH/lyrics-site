@@ -1,10 +1,10 @@
 ---
 title: "ریتاں تے ڈھل گئی مٹیاں چے رُل گئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:61a40825ec047c4fa8c8

@@ -1,6 +1,6 @@
 ---
 title: "Kis Shan Say Utha Hai Haye Ghazi Alam Tera"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

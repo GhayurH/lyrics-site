@@ -1,11 +1,11 @@
 ---
 title: "Banda Moatbar Honra Chanda Aye Agar Aa Lyrics 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a2a20d37a80ecf393f45

@@ -1,6 +1,6 @@
 ---
 title: "Menu Veeran Teriyan, Teriyan Yadan Nai Bohot Sataya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

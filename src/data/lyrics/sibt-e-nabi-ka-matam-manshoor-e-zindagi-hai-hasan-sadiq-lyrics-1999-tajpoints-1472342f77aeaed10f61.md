@@ -1,11 +1,11 @@
 ---
 title: "Sibt E Nabi Ka Matam Manshoor E Zindagi Hai Hasan Sadiq Lyrics 1999"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ameer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1472342f77aeaed10f61

@@ -1,11 +1,11 @@
 ---
 title: "Tere Sadqay Mein Zahra Ho Raha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b7f56d5708b315c8f75f

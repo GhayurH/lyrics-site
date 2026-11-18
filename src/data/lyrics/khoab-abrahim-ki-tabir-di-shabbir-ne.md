@@ -1,10 +1,10 @@
 ---
 title: "خواب ابراہیم کی تعبیر دی شبیرؑ نے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:44599f4b3214000e32f1

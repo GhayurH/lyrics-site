@@ -1,10 +1,10 @@
 ---
 title: "وقارِ دینِ خدا ہے حسینؑ کا ماتم"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:51af6f9aa0340fe63ac5

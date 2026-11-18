@@ -1,11 +1,11 @@
 ---
 title: "Haye Mainu Veer Kha Gaye Zindan De Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0a2289efbbfa8a6660bc

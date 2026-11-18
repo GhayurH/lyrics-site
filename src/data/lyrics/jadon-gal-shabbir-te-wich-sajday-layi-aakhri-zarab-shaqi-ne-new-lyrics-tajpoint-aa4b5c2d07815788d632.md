@@ -1,11 +1,11 @@
 ---
 title: "Jadon Gal Shabbir Te Wich Sajday Layi Aakhri Zarab Shaqi Ne New Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shahid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:aa4b5c2d07815788d632

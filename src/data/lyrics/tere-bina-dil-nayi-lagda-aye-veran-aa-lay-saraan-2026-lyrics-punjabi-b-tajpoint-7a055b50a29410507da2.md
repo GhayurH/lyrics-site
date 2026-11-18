@@ -1,11 +1,11 @@
 ---
 title: "Tere Bina Dil Nayi Lagda Aye Veran Aa Lay Saraan 2026 Lyrics Punjabi Babu Khan Party Sialkot"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:7a055b50a29410507da2

@@ -1,11 +1,11 @@
 ---
 title: "Un Ke Mujra The Jo Zere Aasmaan Bethe Howay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Daag"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:38110a3857eb5f2c9ffc

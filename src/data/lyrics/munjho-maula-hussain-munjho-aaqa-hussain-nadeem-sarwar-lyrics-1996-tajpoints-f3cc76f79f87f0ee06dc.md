@@ -1,10 +1,10 @@
 ---
 title: "Munjho Maula Hussain Munjho Aaqa Hussain Nadeem Sarwar Lyrics 1996"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f3cc76f79f87f0ee06dc

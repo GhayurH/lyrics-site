@@ -1,11 +1,11 @@
 ---
 title: "Ali Wasiyat Layi Ghazi Nu Bolaya Aye Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0f96447de73e3968c59b

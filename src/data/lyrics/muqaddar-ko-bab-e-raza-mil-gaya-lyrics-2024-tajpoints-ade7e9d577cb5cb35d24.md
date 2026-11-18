@@ -1,11 +1,11 @@
 ---
 title: "Muqaddar Ko Bab E Raza Mil Gaya Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ade7e9d577cb5cb35d24

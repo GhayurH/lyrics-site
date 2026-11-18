@@ -1,11 +1,11 @@
 ---
 title: "Ho Salam Oss Par Keh Jo Qaidi Bhi Hai Beemar Bhi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Irfan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0da2b0b110ff3495a688

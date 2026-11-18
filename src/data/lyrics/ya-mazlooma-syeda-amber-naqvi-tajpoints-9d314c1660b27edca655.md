@@ -1,10 +1,10 @@
 ---
 title: "Ya Mazlooma Syeda Amber Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9d314c1660b27edca655

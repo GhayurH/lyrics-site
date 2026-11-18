@@ -1,10 +1,10 @@
 ---
 title: "اے زینبؑ وین کریندی رئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e9b8eb01cea6e245e328

@@ -1,10 +1,10 @@
 ---
 title: "علیؑ نے مانگا تھا غازیؑ کو کربلا کے لئے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ac072f1cfa56033d1b2f

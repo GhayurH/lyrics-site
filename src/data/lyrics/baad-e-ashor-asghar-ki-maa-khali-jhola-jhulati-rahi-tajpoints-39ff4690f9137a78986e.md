@@ -1,10 +1,10 @@
 ---
 title: "Baad-e-Ashor Asghar Ki Maa Khali Jhola Jhulati Rahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:39ff4690f9137a78986e

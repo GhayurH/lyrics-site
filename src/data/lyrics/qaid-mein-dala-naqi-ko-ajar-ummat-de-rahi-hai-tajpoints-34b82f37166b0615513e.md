@@ -1,11 +1,11 @@
 ---
 title: "Qaid Mein Dala Naqi Ko Ajar Ummat De Rahi Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:34b82f37166b0615513e

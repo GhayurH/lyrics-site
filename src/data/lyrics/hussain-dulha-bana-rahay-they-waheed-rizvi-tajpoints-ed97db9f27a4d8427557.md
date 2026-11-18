@@ -1,11 +1,11 @@
 ---
 title: "Hussain Dulha Bana Rahay They Waheed Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ed97db9f27a4d8427557

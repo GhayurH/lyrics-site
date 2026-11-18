@@ -1,11 +1,11 @@
 ---
 title: "Sar O Badan Imam E Mazloom E Karbala Ka Mukalma Hasnain Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0d559a6bdd63189bc4ad

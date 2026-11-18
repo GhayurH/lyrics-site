@@ -1,11 +1,11 @@
 ---
 title: "Pisar E Musa E Kazim Raza Mashhad Se Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d4a1fb3f533fbc228232

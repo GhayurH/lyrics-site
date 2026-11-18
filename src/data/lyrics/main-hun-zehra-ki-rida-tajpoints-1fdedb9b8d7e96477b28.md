@@ -1,11 +1,11 @@
 ---
 title: "Main Hun Zehra Ki Rida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Waseem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1fdedb9b8d7e96477b28

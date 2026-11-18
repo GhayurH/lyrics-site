@@ -1,6 +1,6 @@
 ---
 title: "Main Wekhi Aye Ruldi Mehndi Qasim Di Wich Sehrawaa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

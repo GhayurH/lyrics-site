@@ -1,11 +1,11 @@
 ---
 title: "Tukre Hasan K Laal Ke Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f99ae2ea38d2f500654c

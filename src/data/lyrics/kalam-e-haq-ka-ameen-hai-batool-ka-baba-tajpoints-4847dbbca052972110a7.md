@@ -1,11 +1,11 @@
 ---
 title: "Kalam-e-Haq Ka Ameen Hai Batool Ka Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4847dbbca052972110a7

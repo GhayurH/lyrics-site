@@ -1,11 +1,11 @@
 ---
 title: "Ik Ghareeb-ul-Watan Qaid Mein Mar Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5dcb3b3f58ee6bcfef3f

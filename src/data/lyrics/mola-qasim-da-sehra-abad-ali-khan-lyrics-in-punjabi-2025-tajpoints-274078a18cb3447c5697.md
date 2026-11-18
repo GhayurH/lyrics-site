@@ -1,11 +1,11 @@
 ---
 title: "Mola Qasim Da Sehra Abad Ali Khan Lyrics In Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Qasida"
 poet: "Abad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:274078a18cb3447c5697

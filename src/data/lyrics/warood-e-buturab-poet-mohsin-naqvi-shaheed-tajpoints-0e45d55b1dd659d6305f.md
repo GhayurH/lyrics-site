@@ -1,10 +1,10 @@
 ---
 title: "Warood-e-Buturab Poet Mohsin Naqvi Shaheed"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0e45d55b1dd659d6305f

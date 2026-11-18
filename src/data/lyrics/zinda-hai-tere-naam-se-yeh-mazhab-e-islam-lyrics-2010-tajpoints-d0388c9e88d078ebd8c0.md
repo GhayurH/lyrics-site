@@ -1,11 +1,11 @@
 ---
 title: "Zinda Hai Tere Naam Se Yeh Mazhab E Islam Lyrics 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d0388c9e88d078ebd8c0

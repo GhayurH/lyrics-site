@@ -1,11 +1,11 @@
 ---
 title: "Qaid Khane Se Sakina Ko Chorao Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8056e0c801c8982ff759

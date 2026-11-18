@@ -1,11 +1,11 @@
 ---
 title: "Kiya Hai Shan E Syeda Shahid Ali Shahid"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shahid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:806a067bfd7c019e3f14

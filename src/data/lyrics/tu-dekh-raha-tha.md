@@ -1,10 +1,10 @@
 ---
 title: "تو دیکھ رہا تھا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6f237cf486d2dd77a228

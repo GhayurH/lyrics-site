@@ -1,6 +1,6 @@
 ---
 title: "Main Rul Gayi Wich Bazaran De, Tu Baba Aakay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

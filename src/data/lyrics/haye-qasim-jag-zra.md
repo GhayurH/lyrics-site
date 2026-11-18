@@ -1,11 +1,11 @@
 ---
 title: "ہائے قاسم جاگ ذرا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e752aaf7a29b8587dfec

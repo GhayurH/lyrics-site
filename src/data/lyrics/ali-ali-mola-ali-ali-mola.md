@@ -1,6 +1,6 @@
 ---
 title: "Ali Ali Maula Ali Ali Maula"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

@@ -1,10 +1,10 @@
 ---
 title: "Hussain Chahein Tu Syed Mohammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c17dcd6f70bea86e0371

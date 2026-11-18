@@ -1,11 +1,11 @@
 ---
 title: "Hasrat E Rasool"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cbf5bd82d2413f8e1da7

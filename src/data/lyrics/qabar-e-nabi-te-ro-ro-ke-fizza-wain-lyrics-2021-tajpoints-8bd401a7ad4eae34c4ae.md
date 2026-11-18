@@ -1,11 +1,11 @@
 ---
 title: "Qabar E Nabi Te Ro Ro Ke Fizza Wain Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8bd401a7ad4eae34c4ae

@@ -1,11 +1,11 @@
 ---
 title: "Kazim Kay Pak Janazay Ko Sonu Monu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:59715825a14803e9fc76

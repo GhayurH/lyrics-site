@@ -1,10 +1,10 @@
 ---
 title: "شکستہ پسلیاں ہیں سیّدہؑ کی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2891d759ccd9d71edd89

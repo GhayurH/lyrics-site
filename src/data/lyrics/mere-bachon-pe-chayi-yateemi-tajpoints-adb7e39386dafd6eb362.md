@@ -1,10 +1,10 @@
 ---
 title: "Mere Bachon Pe Chayi Yateemi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:adb7e39386dafd6eb362

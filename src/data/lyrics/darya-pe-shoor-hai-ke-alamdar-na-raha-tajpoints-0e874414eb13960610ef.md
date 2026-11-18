@@ -1,11 +1,11 @@
 ---
 title: "Darya Pe Shoor Hai Ke Alamdar Na Raha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0e874414eb13960610ef

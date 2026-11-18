@@ -1,11 +1,11 @@
 ---
 title: "Jis Waqt Main Ne Nara-e-Haider Laga Liya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Alam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6da5a7425f30090ad75b

@@ -1,6 +1,6 @@
 ---
 title: "Ali (AS) Hai Bolta Quran Suno"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

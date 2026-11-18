@@ -1,6 +1,6 @@
 ---
 title: "Hassan Raza Di Maiyat Te Teeran Diyan Hoiyan Chawan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

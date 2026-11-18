@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Janaza Shabar Da Ghar Wapis Moor Liaye Lyrics 28 Safar 2026 Asghar Khan Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:d10e2ff185a34ed4600e

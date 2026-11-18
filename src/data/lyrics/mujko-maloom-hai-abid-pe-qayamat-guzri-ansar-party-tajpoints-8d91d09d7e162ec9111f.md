@@ -1,11 +1,11 @@
 ---
 title: "Mujko Maloom Hai Abid Pe Qayamat Guzri Ansar Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8d91d09d7e162ec9111f

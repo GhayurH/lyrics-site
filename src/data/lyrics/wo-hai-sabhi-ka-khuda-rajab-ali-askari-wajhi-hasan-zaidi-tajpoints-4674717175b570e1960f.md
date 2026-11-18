@@ -1,11 +1,11 @@
 ---
 title: "Wo Hai Sabhi Ka Khuda Rajab Ali Askari Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Hamd"
 poet: "Mussadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4674717175b570e1960f

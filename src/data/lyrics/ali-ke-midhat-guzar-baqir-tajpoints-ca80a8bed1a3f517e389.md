@@ -1,11 +1,11 @@
 ---
 title: "Ali Ke Midhat Guzar Baqir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ca80a8bed1a3f517e389

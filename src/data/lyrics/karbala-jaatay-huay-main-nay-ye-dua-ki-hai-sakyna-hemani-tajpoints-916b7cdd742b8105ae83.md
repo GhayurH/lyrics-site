@@ -1,11 +1,11 @@
 ---
 title: "Karbala Jaatay Huay Main Nay Ye Dua Ki Hai Sakyna Hemani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Sakyna"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:916b7cdd742b8105ae83

@@ -1,6 +1,6 @@
 ---
 title: "Pardesaan Day Vich Ja Kay Koyi Dukh Na Uthaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

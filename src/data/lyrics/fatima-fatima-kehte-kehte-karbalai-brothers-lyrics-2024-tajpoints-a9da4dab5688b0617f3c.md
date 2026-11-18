@@ -1,11 +1,11 @@
 ---
 title: "Fatima Fatima Kehte Kehte Karbalai Brothers Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a9da4dab5688b0617f3c

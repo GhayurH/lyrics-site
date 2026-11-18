@@ -1,10 +1,10 @@
 ---
 title: "Umm E Kulsoom Rizwan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b7fef746e01db39fb5b9

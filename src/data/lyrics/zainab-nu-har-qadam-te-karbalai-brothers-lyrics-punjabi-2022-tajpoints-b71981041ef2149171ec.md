@@ -1,11 +1,11 @@
 ---
 title: "Zainab Nu Har Qadam Te Karbalai Brothers Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b71981041ef2149171ec

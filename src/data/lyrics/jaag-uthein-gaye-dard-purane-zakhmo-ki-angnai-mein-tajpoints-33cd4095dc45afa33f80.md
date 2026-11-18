@@ -1,11 +1,11 @@
 ---
 title: "Jaag Uthein Gaye Dard Purane Zakhmo Ki Angnai Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Fanna"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:33cd4095dc45afa33f80

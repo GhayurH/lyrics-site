@@ -1,6 +1,6 @@
 ---
 title: "Deewar o Dar Key Darmiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

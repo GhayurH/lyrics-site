@@ -1,6 +1,6 @@
 ---
 title: "Hussain Aik Nahi Hogaye Katal Rasool-e-Khudah."
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

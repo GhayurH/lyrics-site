@@ -1,11 +1,11 @@
 ---
 title: "Sitam Ki Guzri Hai Ik Aisi Raat Zahra Par Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:052a1337e60eb0fccd3c

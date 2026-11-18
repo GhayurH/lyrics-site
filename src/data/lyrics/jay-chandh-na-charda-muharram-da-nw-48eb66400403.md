@@ -1,6 +1,6 @@
 ---
 title: "Jay Chandh Na Charda Muharram Da"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

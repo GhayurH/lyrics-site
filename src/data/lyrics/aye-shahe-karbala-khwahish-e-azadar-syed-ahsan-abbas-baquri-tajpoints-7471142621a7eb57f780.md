@@ -1,11 +1,11 @@
 ---
 title: "Aye Shahe Karbala Khwahish E Azadar Syed Ahsan Abbas Baquri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ahsan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7471142621a7eb57f780

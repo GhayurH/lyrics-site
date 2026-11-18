@@ -1,11 +1,11 @@
 ---
 title: "Kya Biyaan Ho Mujh Se Azmat Syed-e-Sajjad Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:26216f77cd0e28503dcf

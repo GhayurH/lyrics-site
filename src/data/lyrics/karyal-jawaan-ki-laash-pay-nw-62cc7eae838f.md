@@ -1,6 +1,6 @@
 ---
 title: "Karyal Jawaan Ki Laash Pay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

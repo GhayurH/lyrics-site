@@ -1,10 +1,10 @@
 ---
 title: "Azal Se Aaik Hi Manzar Hai Meri Ankhon 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a08d710495a46bd2d064

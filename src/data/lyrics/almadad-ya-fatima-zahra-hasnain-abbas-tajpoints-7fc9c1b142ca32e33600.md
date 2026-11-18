@@ -1,11 +1,11 @@
 ---
 title: "Almadad Ya Fatima Zahra Hasnain Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7fc9c1b142ca32e33600

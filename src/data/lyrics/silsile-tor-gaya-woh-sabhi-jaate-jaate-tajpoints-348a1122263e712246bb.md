@@ -1,11 +1,11 @@
 ---
 title: "Silsile Tor Gaya Woh Sabhi Jaate Jaate"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Faraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:348a1122263e712246bb

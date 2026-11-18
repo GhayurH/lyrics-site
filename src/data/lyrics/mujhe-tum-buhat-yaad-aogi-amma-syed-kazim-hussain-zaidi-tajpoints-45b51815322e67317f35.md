@@ -1,11 +1,11 @@
 ---
 title: "Mujhe Tum Buhat Yaad Aogi Amma Syed Kazim Hussain Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:45b51815322e67317f35

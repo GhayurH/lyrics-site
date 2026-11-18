@@ -1,11 +1,11 @@
 ---
 title: "Hijab E Ghaib Sy Mehdi Zaror Aein Gaey Qamar Abbas Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a24a47e8f1a78c320a43

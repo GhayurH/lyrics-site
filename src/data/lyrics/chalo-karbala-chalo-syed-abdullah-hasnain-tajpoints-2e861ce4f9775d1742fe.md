@@ -1,11 +1,11 @@
 ---
 title: "Chalo Karbala Chalo Syed Abdullah Hasnain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Waheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2e861ce4f9775d1742fe

@@ -1,11 +1,11 @@
 ---
 title: "Darbar Mei Zahra Ko Bulaya Gaya Baba Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e29d5feabd9686a50647

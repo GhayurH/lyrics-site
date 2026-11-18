@@ -1,11 +1,11 @@
 ---
 title: "Behan Sughra Tarapti Hai Kab Akbar Laut Aao Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e476a3c7ee047609299e

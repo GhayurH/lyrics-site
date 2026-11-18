@@ -1,10 +1,10 @@
 ---
 title: "عباسؑ الا ان کَسَرَ زہری"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0fd5b74726ccd4b0398f

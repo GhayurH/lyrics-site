@@ -1,10 +1,10 @@
 ---
 title: "Baghdad Ke Pul Par Hai Rakha Lasha E Kazim"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f31bfb477a9b4a7a8470

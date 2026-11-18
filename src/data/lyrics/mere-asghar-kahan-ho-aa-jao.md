@@ -1,10 +1,10 @@
 ---
 title: "میرے اصغرؑ کہاں ہو آ جاؤ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:536b99388d475307cc37

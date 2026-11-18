@@ -1,11 +1,11 @@
 ---
 title: "Hasan Askari Ka Zikar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shehwaar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c16849811df4c5b66de2

@@ -1,11 +1,11 @@
 ---
 title: "اللہُ باقی مِن کلِّ فانی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:33713abfe4baedfacb3b

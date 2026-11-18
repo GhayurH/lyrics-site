@@ -1,11 +1,11 @@
 ---
 title: "Rukhsat E Hussain Mehdi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2b6ffd5ac5f6502f9a16

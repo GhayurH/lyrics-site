@@ -1,11 +1,11 @@
 ---
 title: "Dou Ghari Bus Ankh Bhar Ky Dekh Lun Akbar Tujhay Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:648dc2f77db80de8a8ce

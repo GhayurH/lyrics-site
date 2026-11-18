@@ -1,6 +1,6 @@
 ---
 title: "Tashnagi Mashq-O-Alam Bali Sakina Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

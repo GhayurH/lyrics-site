@@ -1,11 +1,11 @@
 ---
 title: "Bazar Me Zainab Ka Jana Laeeq Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c169e9e3f2222c0458c5

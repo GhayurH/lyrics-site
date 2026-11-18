@@ -1,11 +1,11 @@
 ---
 title: "Chaddar Hassan Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b98f3b6bca2d03bb60ee

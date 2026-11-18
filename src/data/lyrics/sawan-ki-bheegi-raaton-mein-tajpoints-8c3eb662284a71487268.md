@@ -1,10 +1,10 @@
 ---
 title: "Sawan Ki Bheegi Raaton Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8c3eb662284a71487268

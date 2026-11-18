@@ -1,11 +1,11 @@
 ---
 title: "Ilm-o-Hikmat Ka Samandar Hain Muhammad Baqir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b32b470eb721a1508096

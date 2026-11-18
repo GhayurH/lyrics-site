@@ -1,11 +1,11 @@
 ---
 title: "Ali Ke Naam Se Tan Man Mein Ik Surror Rahe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6de04f2636bb82b9bc5d

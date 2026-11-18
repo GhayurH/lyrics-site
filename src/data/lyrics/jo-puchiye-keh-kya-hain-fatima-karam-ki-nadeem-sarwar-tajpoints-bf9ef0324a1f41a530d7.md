@@ -1,11 +1,11 @@
 ---
 title: "Jo Puchiye Keh Kya Hain Fatima Karam Ki Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sarwar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bf9ef0324a1f41a530d7

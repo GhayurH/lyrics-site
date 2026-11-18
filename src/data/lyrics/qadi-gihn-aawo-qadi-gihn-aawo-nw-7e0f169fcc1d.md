@@ -1,6 +1,6 @@
 ---
 title: "Qadi Gihn Aawo, Qadi Gihn Aawo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

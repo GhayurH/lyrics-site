@@ -1,10 +1,10 @@
 ---
 title: "رب جانے کنج حق لین لئی زہراؑ اجڑی دربار گئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ceaeb696f3532d53bcd4

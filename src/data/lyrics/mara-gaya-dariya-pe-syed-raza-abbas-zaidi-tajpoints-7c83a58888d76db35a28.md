@@ -1,7 +1,7 @@
 ---
 title: "مارا گیا دریا پہ جو شیدائے سکینہ"
 alternateTitle: "Mara Gaya Dariya Pe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

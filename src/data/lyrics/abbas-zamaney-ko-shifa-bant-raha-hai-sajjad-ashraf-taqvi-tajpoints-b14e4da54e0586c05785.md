@@ -1,11 +1,11 @@
 ---
 title: "Abbas Zamaney Ko Shifa Bant Raha Hai Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b14e4da54e0586c05785

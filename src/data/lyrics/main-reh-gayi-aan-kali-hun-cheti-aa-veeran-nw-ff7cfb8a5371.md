@@ -1,6 +1,6 @@
 ---
 title: "Main Reh Gayi Aan Kali Hun Cheti Aa Veeran"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

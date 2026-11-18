@@ -1,11 +1,11 @@
 ---
 title: "Khuda Hai Hussain Ka Sajjad Ashraf Taqvi Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:26122c394cb98ca58d92

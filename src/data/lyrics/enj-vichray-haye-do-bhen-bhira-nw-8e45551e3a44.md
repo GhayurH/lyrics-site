@@ -1,6 +1,6 @@
 ---
 title: "Enj Vichray Haye Do Bhen Bhira"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Pamaal Sumay Aspa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

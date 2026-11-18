@@ -1,11 +1,11 @@
 ---
 title: "Ayyam E Ali Mesum Abbas 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b32debabf4e977e965d0

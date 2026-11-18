@@ -1,11 +1,11 @@
 ---
 title: "Aye Zameen Bais-e-Takreem Hain Ashab-e-Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e2f5e8c9c77263036cad

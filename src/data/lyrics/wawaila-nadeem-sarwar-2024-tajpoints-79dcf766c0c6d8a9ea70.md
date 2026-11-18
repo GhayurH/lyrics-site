@@ -1,10 +1,10 @@
 ---
 title: "Wawaila Nadeem Sarwar 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:79dcf766c0c6d8a9ea70

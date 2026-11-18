@@ -1,11 +1,11 @@
 ---
 title: "Dhi Mosa E Kazim Di Ro Ro Ke Farmaya Aye Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5307f5fc266c6938460b

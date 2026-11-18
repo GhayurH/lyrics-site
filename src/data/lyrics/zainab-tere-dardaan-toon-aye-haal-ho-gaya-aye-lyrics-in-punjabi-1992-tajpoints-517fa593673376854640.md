@@ -1,11 +1,11 @@
 ---
 title: "Zainab Tere Dardaan Toon Aye Haal Ho Gaya Aye Lyrics In Punjabi 1992"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sahib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:517fa593673376854640

@@ -1,6 +1,6 @@
 ---
 title: "Har Darood Aur Har Salam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

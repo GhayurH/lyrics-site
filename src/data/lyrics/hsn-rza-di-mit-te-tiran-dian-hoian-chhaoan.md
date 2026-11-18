@@ -1,10 +1,10 @@
 ---
 title: "حسن رضاؑ دی میت تے تیراں دیاں ہویاں چھاواں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e088cfc9548ecb81c818

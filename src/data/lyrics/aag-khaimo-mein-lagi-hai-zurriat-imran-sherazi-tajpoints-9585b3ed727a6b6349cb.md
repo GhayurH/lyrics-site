@@ -1,11 +1,11 @@
 ---
 title: "Aag Khaimo Mein Lagi Hai Zurriat Imran Sherazi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9585b3ed727a6b6349cb

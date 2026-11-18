@@ -1,10 +1,10 @@
 ---
 title: "زہرا کج سوچ ذرا ایویں بھلدی پئی اے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:73e84893efbbf0f2dee9

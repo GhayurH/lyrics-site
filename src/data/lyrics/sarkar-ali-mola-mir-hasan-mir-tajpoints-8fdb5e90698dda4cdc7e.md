@@ -1,11 +1,11 @@
 ---
 title: "Sarkar Ali Mola Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Karrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8fdb5e90698dda4cdc7e

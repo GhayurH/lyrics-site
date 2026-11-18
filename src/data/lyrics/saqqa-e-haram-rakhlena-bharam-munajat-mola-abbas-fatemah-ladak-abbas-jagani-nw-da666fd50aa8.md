@@ -1,6 +1,6 @@
 ---
 title: "Saqqa e Haram Rakhlena Bharam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

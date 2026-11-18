@@ -1,11 +1,11 @@
 ---
 title: "Naam-e-Shabir Liya Phir Nahi Thehra Pani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:211eeae88fcce7987a15

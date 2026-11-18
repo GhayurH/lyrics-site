@@ -1,11 +1,11 @@
 ---
 title: "Rakhe Mabood Ne Bakhshish Ke Bahane Kitne Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:064e1824a6540b30822a

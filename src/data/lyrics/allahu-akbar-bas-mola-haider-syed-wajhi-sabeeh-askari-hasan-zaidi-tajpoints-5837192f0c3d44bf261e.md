@@ -1,11 +1,11 @@
 ---
 title: "Allahu Akbar Bas Mola Haider Syed Wajhi Sabeeh Askari Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Dabeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5837192f0c3d44bf261e

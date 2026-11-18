@@ -1,11 +1,11 @@
 ---
 title: "Thehri Hui Hai Hasnain Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:73aed201aa609652710c

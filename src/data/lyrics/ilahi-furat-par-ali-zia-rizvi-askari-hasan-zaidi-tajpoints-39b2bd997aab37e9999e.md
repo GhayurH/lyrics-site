@@ -1,11 +1,11 @@
 ---
 title: "Ilahi Furat Par Ali Zia Rizvi Askari Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Anees"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:39b2bd997aab37e9999e

@@ -1,7 +1,7 @@
 ---
 title: "سجاد سے رونے کا سبب پوچھ رہا ہے"
 alternateTitle: "Sajjad Se Rone Ka Sabab Pooch Raha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

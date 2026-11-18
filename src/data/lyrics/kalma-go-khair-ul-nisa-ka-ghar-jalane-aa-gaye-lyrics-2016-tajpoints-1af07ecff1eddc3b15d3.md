@@ -1,11 +1,11 @@
 ---
 title: "Kalma Go Khair Ul Nisa Ka Ghar Jalane Aa Gaye Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1af07ecff1eddc3b15d3

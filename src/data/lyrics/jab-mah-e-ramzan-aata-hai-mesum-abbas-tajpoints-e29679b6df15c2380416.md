@@ -1,11 +1,11 @@
 ---
 title: "Jab Mah E Ramzan Aata Hai Mesum Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mazhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e29679b6df15c2380416

@@ -1,11 +1,11 @@
 ---
 title: "Sawaan Gindi Bhain Nu Aa Ke Veran Gal Nal La Lyrics New 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:4987d68a3bc46bfbd7dd

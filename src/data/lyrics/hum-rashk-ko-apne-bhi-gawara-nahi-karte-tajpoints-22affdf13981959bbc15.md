@@ -1,11 +1,11 @@
 ---
 title: "Hum Rashk Ko Apne Bhi Gawara Nahi Karte"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:22affdf13981959bbc15

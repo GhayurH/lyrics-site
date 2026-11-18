@@ -1,10 +1,10 @@
 ---
 title: "Sir Ghazi Da Tak Nezay Te Ik Chadar Wekh Ke Dig Painda New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:55ac10577b7865563166

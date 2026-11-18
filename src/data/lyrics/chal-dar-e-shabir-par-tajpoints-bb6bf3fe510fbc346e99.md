@@ -1,11 +1,11 @@
 ---
 title: "Chal Dar E Shabir Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Jafar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bb6bf3fe510fbc346e99

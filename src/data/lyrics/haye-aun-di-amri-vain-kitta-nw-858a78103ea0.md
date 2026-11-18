@@ -1,6 +1,6 @@
 ---
 title: "Haye Aun Di Amri Vain Kitta"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

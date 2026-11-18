@@ -1,6 +1,6 @@
 ---
 title: "Kujh Balaaan Aan Sakina Nu Aye Puchiya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Fatima Zahra Ki Sana Karte Hain Syed Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8c25ce0424b23beadc4e

@@ -1,11 +1,11 @@
 ---
 title: "لوریاں والا بھرا جل گیا اے جھولا تیڈا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Qurban Jafry"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e91a9d202dfed2ed769f

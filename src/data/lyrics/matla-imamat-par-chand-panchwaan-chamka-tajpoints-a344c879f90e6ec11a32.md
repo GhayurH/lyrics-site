@@ -1,11 +1,11 @@
 ---
 title: "Matla Imamat Par Chand Panchwaan Chamka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a344c879f90e6ec11a32

@@ -1,6 +1,6 @@
 ---
 title: "Ai raat na dhalna kay ujad jaaye gi Zainab."
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

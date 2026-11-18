@@ -1,11 +1,11 @@
 ---
 title: "Jehray Dukh Wekhay Mere Babay Ne Kiwein Rat Latest Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:180a02c44e29eeee2d13

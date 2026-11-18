@@ -1,11 +1,11 @@
 ---
 title: "Zindan Ki Sada Dr Amir Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5749f5c01d4c2d051bad

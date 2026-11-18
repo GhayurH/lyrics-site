@@ -1,10 +1,10 @@
 ---
 title: "میرے بابا گھر چلیں اب شام ڈھل گئی آتا نظر نہیں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:5e181ea2ab0e7aa0d616

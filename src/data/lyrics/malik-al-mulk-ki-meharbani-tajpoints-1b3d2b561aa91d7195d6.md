@@ -1,11 +1,11 @@
 ---
 title: "Malik-Al-Mulk Ki Meharbani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1b3d2b561aa91d7195d6

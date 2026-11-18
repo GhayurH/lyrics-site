@@ -1,11 +1,11 @@
 ---
 title: "Kitna Haseen Hai Mera Hussain Syed Raza Abbas Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:09affbb99e43f1602df3

@@ -1,6 +1,6 @@
 ---
 title: "Akbar Ka Lahu Sheh Ki Abba Tak Pohanch Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

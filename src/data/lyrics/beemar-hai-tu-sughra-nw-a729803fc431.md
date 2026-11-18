@@ -1,6 +1,6 @@
 ---
 title: "Beemar Hai Tu Sughra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Aay Raat Fazal Lang Jaan Tay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

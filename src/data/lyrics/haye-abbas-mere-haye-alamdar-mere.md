@@ -1,11 +1,11 @@
 ---
 title: "ہائے عباس میرے ہائے علمدار میرے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2112a76f96c57cd36b17

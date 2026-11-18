@@ -1,6 +1,6 @@
 ---
 title: "Fatima Ka Janaza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Jab Riza Rab Se Thi Payi Sheh Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2a866a624b880017cb0e

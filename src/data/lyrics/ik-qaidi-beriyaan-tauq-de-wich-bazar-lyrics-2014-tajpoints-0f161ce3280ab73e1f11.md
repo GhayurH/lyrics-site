@@ -1,11 +1,11 @@
 ---
 title: "Ik Qaidi Beriyaan Tauq De Wich Bazar Lyrics 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0f161ce3280ab73e1f11

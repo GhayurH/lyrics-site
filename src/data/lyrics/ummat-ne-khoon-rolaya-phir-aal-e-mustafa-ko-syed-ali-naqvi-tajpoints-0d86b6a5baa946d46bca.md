@@ -1,11 +1,11 @@
 ---
 title: "Ummat Ne Khoon Rolaya Phir Aal-e-Mustafa Ko Syed Ali Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ali"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0d86b6a5baa946d46bca

@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Ke Sajday Ko Khuda Dekh Raha Hai Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8e12c133d211509a985c

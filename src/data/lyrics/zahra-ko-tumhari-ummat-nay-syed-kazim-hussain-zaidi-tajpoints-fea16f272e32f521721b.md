@@ -1,11 +1,11 @@
 ---
 title: "Zahra Ko Tumhari Ummat Nay Syed Kazim Hussain Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fea16f272e32f521721b

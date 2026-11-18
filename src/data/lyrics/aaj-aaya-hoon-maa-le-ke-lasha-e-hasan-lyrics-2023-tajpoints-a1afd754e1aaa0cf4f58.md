@@ -1,11 +1,11 @@
 ---
 title: "Aaj Aaya Hoon Maa Le Ke Lasha E Hasan Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a1afd754e1aaa0cf4f58

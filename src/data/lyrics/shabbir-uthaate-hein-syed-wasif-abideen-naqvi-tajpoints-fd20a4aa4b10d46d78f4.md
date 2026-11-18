@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Uthaate Hein Syed Wasif Abideen Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fd20a4aa4b10d46d78f4

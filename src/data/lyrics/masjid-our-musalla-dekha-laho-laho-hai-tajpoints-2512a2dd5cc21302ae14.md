@@ -1,11 +1,11 @@
 ---
 title: "Masjid Our Musalla Dekha Laho Laho Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2512a2dd5cc21302ae14

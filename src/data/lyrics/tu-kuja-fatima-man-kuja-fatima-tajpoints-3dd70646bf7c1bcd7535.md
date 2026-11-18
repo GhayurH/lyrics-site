@@ -1,11 +1,11 @@
 ---
 title: "Tu Kuja Fatima Man Kuja Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3dd70646bf7c1bcd7535

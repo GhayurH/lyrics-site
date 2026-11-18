@@ -1,6 +1,6 @@
 ---
 title: "Bharay Darbar Main Zahra Ko Bulaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

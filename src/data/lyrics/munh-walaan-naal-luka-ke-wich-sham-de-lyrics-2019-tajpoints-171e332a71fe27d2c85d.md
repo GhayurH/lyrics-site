@@ -1,11 +1,11 @@
 ---
 title: "Munh Walaan Naal Luka Ke Wich Sham De Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:171e332a71fe27d2c85d

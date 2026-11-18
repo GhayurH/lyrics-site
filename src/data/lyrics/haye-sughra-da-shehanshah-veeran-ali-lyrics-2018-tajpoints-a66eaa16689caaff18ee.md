@@ -1,11 +1,11 @@
 ---
 title: "Haye Sughra Da Shehanshah Veeran Ali Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a66eaa16689caaff18ee

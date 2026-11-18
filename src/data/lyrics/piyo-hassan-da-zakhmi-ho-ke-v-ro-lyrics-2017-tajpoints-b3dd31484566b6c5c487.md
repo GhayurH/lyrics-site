@@ -1,11 +1,11 @@
 ---
 title: "Piyo Hassan Da Zakhmi Ho Ke V Ro Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b3dd31484566b6c5c487

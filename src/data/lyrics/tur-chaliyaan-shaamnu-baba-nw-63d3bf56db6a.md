@@ -1,6 +1,6 @@
 ---
 title: "Tur Chaliyaan Shaam Nu Baba Main Veer Koha Ke"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

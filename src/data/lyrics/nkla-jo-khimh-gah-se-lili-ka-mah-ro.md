@@ -1,10 +1,10 @@
 ---
 title: "نکلا جو خیمہ گاہ سے لیلیٰ کا ماہ رو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:4c40bc90a8a25335099f

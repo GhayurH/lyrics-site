@@ -1,10 +1,10 @@
 ---
 title: "Ho Alamdar Kahan Shehbaz Haideri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8766e8aac65564046d41

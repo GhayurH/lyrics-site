@@ -1,11 +1,11 @@
 ---
 title: "Kehya Zainab Nana Ayi Aan Main Karan Salam Akheri Lyrics 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:57394ec0c59bdc7f6927

@@ -1,6 +1,6 @@
 ---
 title: "Tere Sajjad Ne Baba Qaza Kayi Waar Wekhi Ae"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

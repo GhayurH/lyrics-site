@@ -1,10 +1,10 @@
 ---
 title: "Kya Waqt Para Hai Baba Rajab Ali Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:38fb60b76d729833f9dd

@@ -1,10 +1,10 @@
 ---
 title: "شرافت ہو برہنہ سرتو غیرت خون روتی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:341348308bb0e3353993

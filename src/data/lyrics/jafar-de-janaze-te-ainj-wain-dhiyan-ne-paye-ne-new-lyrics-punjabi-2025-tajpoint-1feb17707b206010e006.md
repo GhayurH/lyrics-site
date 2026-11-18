@@ -1,11 +1,11 @@
 ---
 title: "Jafar De Janaze Te Ainj Wain Dhiyan Ne Paye Ne New Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:1feb17707b206010e006

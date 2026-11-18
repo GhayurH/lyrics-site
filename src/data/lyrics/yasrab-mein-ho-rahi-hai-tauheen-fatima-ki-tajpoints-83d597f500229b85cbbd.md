@@ -1,11 +1,11 @@
 ---
 title: "Yasrab Mein Ho Rahi Hai Tauheen Fatima Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:83d597f500229b85cbbd

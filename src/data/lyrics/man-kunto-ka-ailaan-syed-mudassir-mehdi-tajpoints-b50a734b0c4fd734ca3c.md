@@ -1,11 +1,11 @@
 ---
 title: "Man Kunto Ka Ailaan Syed Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Naqsh"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b50a734b0c4fd734ca3c

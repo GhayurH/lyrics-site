@@ -1,10 +1,10 @@
 ---
 title: "Halat E Abbas Pe Giriya Kuna Shabir Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:2b44c4bb24da88d88192

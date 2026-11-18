@@ -1,6 +1,6 @@
 ---
 title: "Dunya Walo Shabir Kay Matam Pe Pabandi Kyun Lagaty Ho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

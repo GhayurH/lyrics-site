@@ -1,10 +1,10 @@
 ---
 title: "یا حبیبی یا حسینؑ یا شافی یا حسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2511772d1f2b073c8dab

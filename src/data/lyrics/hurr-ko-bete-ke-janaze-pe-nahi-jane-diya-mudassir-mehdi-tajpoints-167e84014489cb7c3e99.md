@@ -1,11 +1,11 @@
 ---
 title: "Hurr Ko Bete Ke Janaze Pe Nahi Jane Diya Mudassir Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:167e84014489cb7c3e99

@@ -1,10 +1,10 @@
 ---
 title: "ہوئی شام نہ آیا اصغرؑ میں لوری سنائوں کس کو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:f980e880d12dd7623d01

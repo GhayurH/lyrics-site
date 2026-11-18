@@ -1,11 +1,11 @@
 ---
 title: "Aye Musalman Dar E Zahra Jalaya Tu Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e3e4f9de23745e8de0f0

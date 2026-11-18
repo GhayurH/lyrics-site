@@ -1,6 +1,6 @@
 ---
 title: "Haye Veran Hoya Haye Veran Hoya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

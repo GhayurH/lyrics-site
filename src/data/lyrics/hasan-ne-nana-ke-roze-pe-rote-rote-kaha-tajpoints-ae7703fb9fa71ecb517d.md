@@ -1,11 +1,11 @@
 ---
 title: "Hasan Ne Nana Ke Roze Pe Rote Rote Kaha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ae7703fb9fa71ecb517d

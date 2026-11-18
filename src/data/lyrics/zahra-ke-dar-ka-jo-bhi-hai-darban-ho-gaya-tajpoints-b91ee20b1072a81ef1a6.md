@@ -1,11 +1,11 @@
 ---
 title: "Zahra Ke Dar Ka Jo Bhi Hai Darban Ho Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b91ee20b1072a81ef1a6

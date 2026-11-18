@@ -1,11 +1,11 @@
 ---
 title: "Phophi Yeh Prinday Kahan Ja Rahe Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shahi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c0869ae9aef8632cc177

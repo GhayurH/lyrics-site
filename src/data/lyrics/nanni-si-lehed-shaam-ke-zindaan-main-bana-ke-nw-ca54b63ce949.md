@@ -1,6 +1,6 @@
 ---
 title: "Nanni Si Lehed Shaam Ke Zindaan Main"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

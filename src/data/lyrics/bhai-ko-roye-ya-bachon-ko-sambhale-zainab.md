@@ -1,10 +1,10 @@
 ---
 title: "بھائی کو روئے یا بچوں کو سنبھالے زینبؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:3a47ed593d5f2891ec39

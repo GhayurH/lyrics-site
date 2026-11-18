@@ -1,11 +1,11 @@
 ---
 title: "Roti Thi Bohat Jo Baba Ko Zindaan Mein Woh Bachi Guzari Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cc211af7b528826783de

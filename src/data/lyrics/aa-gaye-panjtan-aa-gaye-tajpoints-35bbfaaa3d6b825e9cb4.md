@@ -1,11 +1,11 @@
 ---
 title: "Aa Gaye Panjtan Aa Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:35bbfaaa3d6b825e9cb4

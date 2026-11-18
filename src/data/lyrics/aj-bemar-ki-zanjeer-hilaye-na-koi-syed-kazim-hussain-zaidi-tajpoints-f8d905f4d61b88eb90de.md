@@ -1,11 +1,11 @@
 ---
 title: "Aj Bemar Ki Zanjeer Hilaye Na Koi Syed Kazim Hussain Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kazim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f8d905f4d61b88eb90de

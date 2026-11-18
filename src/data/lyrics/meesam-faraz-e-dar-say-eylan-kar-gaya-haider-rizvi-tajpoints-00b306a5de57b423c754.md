@@ -1,11 +1,11 @@
 ---
 title: "Meesam Faraz-E-Dar Say Eylan Kar Gaya Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sohail"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:00b306a5de57b423c754

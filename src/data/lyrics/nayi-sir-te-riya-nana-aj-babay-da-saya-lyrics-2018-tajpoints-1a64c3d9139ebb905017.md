@@ -1,11 +1,11 @@
 ---
 title: "Nayi Sir Te Riya Nana Aj Babay Da Saya Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1a64c3d9139ebb905017

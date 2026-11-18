@@ -1,11 +1,11 @@
 ---
 title: "ہائے میرا ویر حسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Shahid Baltistani"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e00766c2157038bb0ca4

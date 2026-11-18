@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Haye Saday Parday Na Ray Asghar Khan Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nadir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ceb2ecf7d586042e4780

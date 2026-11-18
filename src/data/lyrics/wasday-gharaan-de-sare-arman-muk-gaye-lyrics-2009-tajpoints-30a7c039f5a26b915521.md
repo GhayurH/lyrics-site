@@ -1,11 +1,11 @@
 ---
 title: "Wasday Gharaan De Sare Arman Muk Gaye Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:30a7c039f5a26b915521

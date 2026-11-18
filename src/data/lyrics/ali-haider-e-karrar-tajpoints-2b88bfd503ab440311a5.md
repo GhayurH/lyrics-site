@@ -1,11 +1,11 @@
 ---
 title: "Ali Haider-e-Karrar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2b88bfd503ab440311a5

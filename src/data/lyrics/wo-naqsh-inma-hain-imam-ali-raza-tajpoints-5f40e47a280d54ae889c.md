@@ -1,11 +1,11 @@
 ---
 title: "Wo Naqsh Inma Hain Imam Ali Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5f40e47a280d54ae889c

@@ -1,11 +1,11 @@
 ---
 title: "Yeh Bait E Fatima Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ali"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:72a1beddfd1c2cf4434d

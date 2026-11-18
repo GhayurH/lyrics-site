@@ -1,11 +1,11 @@
 ---
 title: "Meray Aaqa Mohammad Naeem Raza Haider And Syed Haider Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:768d24635ce074932226

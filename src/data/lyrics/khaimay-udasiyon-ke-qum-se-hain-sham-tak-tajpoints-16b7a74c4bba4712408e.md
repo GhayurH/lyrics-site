@@ -1,11 +1,11 @@
 ---
 title: "Khaimay Udasiyon Ke Qum Se Hain Sham Tak"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:16b7a74c4bba4712408e

@@ -1,11 +1,11 @@
 ---
 title: "Aye Qatil E Shabbir Tu Kya Kaat Raha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:48cdbf2bb57503a2cf54

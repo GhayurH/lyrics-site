@@ -1,6 +1,6 @@
 ---
 title: "Haye Sajjad Keevain, Zulmaan Di Inteha Seh Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Abbas Nu Chup Kha Gayi Karbal Vich Bhen Bhira Di"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

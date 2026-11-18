@@ -1,6 +1,6 @@
 ---
 title: "Baba Teri Zahra (S.A) Nu Ik Payshi Maar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

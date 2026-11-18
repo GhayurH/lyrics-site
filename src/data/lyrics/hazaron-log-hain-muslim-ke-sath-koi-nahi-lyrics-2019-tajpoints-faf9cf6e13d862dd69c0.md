@@ -1,11 +1,11 @@
 ---
 title: "Hazaron Log Hain Muslim Ke Sath Koi Nahi Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:faf9cf6e13d862dd69c0

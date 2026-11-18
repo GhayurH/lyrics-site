@@ -1,6 +1,6 @@
 ---
 title: "Ridawaan Leh Gayiyaan Ghazi Te Bhaina Be Rida Ho Gayiyaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

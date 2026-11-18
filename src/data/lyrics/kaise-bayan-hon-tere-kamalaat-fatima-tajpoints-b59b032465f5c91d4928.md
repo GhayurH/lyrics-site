@@ -1,11 +1,11 @@
 ---
 title: "Kaise Bayan Hon Tere Kamalaat Fatima"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shaukat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b59b032465f5c91d4928

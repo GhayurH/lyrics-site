@@ -1,6 +1,6 @@
 ---
 title: "Mera Zakhmi Veer Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

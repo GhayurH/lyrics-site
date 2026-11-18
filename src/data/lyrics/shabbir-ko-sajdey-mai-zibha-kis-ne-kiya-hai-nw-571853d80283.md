@@ -1,6 +1,6 @@
 ---
 title: "Shabbir Ko Sajde Mein Zibha Kisne Kiya Hai by Lahore Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

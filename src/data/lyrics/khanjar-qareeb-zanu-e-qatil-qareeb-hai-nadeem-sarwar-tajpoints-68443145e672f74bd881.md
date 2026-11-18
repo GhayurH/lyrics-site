@@ -1,10 +1,10 @@
 ---
 title: "Khanjar Qareeb Zanu-e-Qatil Qareeb Hai Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:68443145e672f74bd881

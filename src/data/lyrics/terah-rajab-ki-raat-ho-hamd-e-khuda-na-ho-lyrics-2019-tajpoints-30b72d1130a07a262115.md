@@ -1,11 +1,11 @@
 ---
 title: "Terah Rajab Ki Raat Ho Hamd E Khuda Na Ho Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:30b72d1130a07a262115

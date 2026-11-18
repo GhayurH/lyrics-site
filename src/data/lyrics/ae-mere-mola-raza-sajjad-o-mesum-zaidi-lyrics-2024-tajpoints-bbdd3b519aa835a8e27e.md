@@ -1,11 +1,11 @@
 ---
 title: "Ae Mere Mola Raza Sajjad O Mesum Zaidi Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rizwaan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bbdd3b519aa835a8e27e

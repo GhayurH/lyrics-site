@@ -1,11 +1,11 @@
 ---
 title: "Sabar Ki Yeh Kaisi Manzil Pe Khara Sajjad Hai New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:334f03bf1e45bb9a10fb

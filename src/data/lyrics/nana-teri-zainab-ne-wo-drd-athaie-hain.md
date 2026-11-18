@@ -1,10 +1,10 @@
 ---
 title: "نانا تیری زینبؑ نے وہ درد اٹھائے ہیں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c2d74a93995d3f534f28

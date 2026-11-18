@@ -1,11 +1,11 @@
 ---
 title: "ویران حویلی میں صغراؑ گھبراتی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Hasan Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8d455d910604aef8577a

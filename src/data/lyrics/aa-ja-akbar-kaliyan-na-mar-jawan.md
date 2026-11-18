@@ -1,10 +1,10 @@
 ---
 title: "آ جا اکبرؑ کلیاں نہ مر جاواں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2a0c7777a7a0b03b1593

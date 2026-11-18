@@ -1,11 +1,11 @@
 ---
 title: "Teergi E Zindagi Mein Roshni Abbas Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fa068faeeb1fd09ad267

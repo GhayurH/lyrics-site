@@ -1,11 +1,11 @@
 ---
 title: "Muslim De Lal Rul Gaye Kofe Shehar Che Aa Ke Lyrics Punjabi 2022 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Soz"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:5739f727c81e6fc1c4c2

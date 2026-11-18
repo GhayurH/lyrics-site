@@ -1,11 +1,11 @@
 ---
 title: "Kabay Ko Qibla Kar Diya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ebfc8534a98c8bdfdd32

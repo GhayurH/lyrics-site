@@ -1,11 +1,11 @@
 ---
 title: "Maa Maa Hoti Hai Syed Raza Abbas Zaidi Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:702d80ca8d3c414aabf3

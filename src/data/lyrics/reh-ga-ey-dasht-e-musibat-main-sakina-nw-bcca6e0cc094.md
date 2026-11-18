@@ -1,6 +1,6 @@
 ---
 title: "Reh Ga Ey Dasht-e-Musibat Main Sakina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,10 +1,10 @@
 ---
 title: "Maa Main Naize Pe Hoon Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dc457a615c788562c5f1

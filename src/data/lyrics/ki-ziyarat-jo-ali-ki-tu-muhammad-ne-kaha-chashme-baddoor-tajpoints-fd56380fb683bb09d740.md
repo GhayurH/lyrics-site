@@ -1,11 +1,11 @@
 ---
 title: "Ki Ziyarat Jo Ali Ki Tu Muhammad Ne Kaha Chashme Baddoor"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fd56380fb683bb09d740

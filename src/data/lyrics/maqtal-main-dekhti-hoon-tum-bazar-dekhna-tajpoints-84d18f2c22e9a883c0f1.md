@@ -1,11 +1,11 @@
 ---
 title: "Maqtal Main Dekhti Hoon Tum Bazar Dekhna"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtiar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:84d18f2c22e9a883c0f1

@@ -1,6 +1,6 @@
 ---
 title: "Mera Ghar Jalaya Lutiyan Ridawan Ro Akhay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

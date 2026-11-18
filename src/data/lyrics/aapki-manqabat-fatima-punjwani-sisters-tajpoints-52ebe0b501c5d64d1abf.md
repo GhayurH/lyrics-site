@@ -1,11 +1,11 @@
 ---
 title: "Aapki Manqabat Fatima Punjwani Sisters"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:52ebe0b501c5d64d1abf

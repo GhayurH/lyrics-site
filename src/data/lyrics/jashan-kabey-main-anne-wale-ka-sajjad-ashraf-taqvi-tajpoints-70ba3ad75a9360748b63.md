@@ -1,11 +1,11 @@
 ---
 title: "Jashan Kabey Main Anne Wale Ka Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:70ba3ad75a9360748b63

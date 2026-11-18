@@ -1,11 +1,11 @@
 ---
 title: "Tukre Howa Qasim Ka Badan Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1a45e4a7834f5f76b290

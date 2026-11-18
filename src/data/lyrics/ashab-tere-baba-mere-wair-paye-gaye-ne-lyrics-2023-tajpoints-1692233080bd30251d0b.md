@@ -1,11 +1,11 @@
 ---
 title: "Ashab Tere Baba Mere Wair Paye Gaye Ne Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1692233080bd30251d0b

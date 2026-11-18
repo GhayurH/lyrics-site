@@ -1,6 +1,6 @@
 ---
 title: "Aaja Akbar Teri Sughra Mar Na Jaway"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

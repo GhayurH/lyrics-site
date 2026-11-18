@@ -1,10 +1,10 @@
 ---
 title: "ہائے ویران گھراں وچ رووے بیمار کھڑی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6588479709b2915774a4

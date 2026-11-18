@@ -1,11 +1,11 @@
 ---
 title: "Teri Ummat Ne Bara Zulm Kiya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:803aa47c0c92f89d9f8b

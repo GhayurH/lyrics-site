@@ -1,11 +1,11 @@
 ---
 title: "Nabi Ki Beti Syed Zakariya Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:12edc1a447c2fae36e2c

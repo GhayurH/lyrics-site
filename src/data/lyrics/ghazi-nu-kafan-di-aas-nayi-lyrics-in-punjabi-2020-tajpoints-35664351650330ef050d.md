@@ -1,11 +1,11 @@
 ---
 title: "Ghazi Nu Kafan Di Aas Nayi Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:35664351650330ef050d

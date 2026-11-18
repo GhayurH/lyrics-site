@@ -1,6 +1,6 @@
 ---
 title: "Aati Hai Qaime Ke Dar Se Ye Sada"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

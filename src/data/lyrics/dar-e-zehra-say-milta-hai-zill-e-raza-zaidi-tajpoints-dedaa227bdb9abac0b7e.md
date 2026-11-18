@@ -1,11 +1,11 @@
 ---
 title: "Dar E Zehra Say Milta Hai Zill E Raza Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dedaa227bdb9abac0b7e

@@ -1,6 +1,6 @@
 ---
 title: "Nana Neend Nahi Aundi Haan Karo Roz Duawan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Chan Wekh Muharram Da Nana Jind Zainab Di Ghabrai Aye Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:823d516aad129a42e36e

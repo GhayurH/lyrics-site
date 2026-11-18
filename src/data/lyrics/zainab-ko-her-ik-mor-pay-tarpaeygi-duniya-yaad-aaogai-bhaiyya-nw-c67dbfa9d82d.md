@@ -1,6 +1,6 @@
 ---
 title: "Zainab Ko Her Ik Mor Pay Tarpaeygi Duniya, Yaad Aaogai Bhaiyya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

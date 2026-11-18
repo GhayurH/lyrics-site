@@ -1,11 +1,11 @@
 ---
 title: "Aaj Zainab Ki Shadi Ka Din Hai Ameer Hasan Aamir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fb9352009c5002e4815c

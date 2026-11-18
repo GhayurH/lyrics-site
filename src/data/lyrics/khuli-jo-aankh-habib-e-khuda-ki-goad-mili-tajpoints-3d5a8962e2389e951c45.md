@@ -1,11 +1,11 @@
 ---
 title: "Khuli Jo Aankh Habib-e-Khuda Ki Goad Mili"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ejaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3d5a8962e2389e951c45

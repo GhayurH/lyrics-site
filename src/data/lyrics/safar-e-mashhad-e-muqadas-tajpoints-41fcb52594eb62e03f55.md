@@ -1,11 +1,11 @@
 ---
 title: "Safar E Mashhad E Muqadas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:41fcb52594eb62e03f55

@@ -1,10 +1,10 @@
 ---
 title: "بابا تیرے باجوں تیری دھیاں رل گئیاں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a8167102398c8fda027c

@@ -1,10 +1,10 @@
 ---
 title: "اے شامِ غریباں کیا بھائی کی خطا تھی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0babd68faa1c0118ed95

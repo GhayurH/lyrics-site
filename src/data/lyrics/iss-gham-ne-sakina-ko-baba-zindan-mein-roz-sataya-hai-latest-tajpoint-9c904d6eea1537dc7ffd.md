@@ -1,11 +1,11 @@
 ---
 title: "Iss Gham Ne Sakina Ko Baba Zindan Mein Roz Sataya Hai Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:9c904d6eea1537dc7ffd

@@ -1,6 +1,6 @@
 ---
 title: "Ali Akbar Taang Teri Behn Nu Bohat Sataundi Ey"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

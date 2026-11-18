@@ -1,10 +1,10 @@
 ---
 title: "زینبؑ کے کھلے سر پہ عابدؑ کی نظر ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:d7bb2042b8a0bc27156b

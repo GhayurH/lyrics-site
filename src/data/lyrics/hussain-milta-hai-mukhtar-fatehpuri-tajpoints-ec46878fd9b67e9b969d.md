@@ -1,11 +1,11 @@
 ---
 title: "Hussain Milta Hai Mukhtar Fatehpuri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ec46878fd9b67e9b969d

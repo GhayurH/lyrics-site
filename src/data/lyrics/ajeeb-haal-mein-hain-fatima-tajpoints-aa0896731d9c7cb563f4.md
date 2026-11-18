@@ -1,12 +1,12 @@
 ---
 title: "عجیب حال میں ہیں فاطمہؑ کے دونوں پسر"
 alternateTitle: "Ajeeb Haal Mein Hain Fatima Ke Dono Pisar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aa0896731d9c7cb563f4

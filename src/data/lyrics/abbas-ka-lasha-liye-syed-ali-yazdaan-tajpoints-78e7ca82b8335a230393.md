@@ -1,11 +1,11 @@
 ---
 title: "Abbas Ka Lasha Liye Syed Ali Yazdaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mussadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:78e7ca82b8335a230393

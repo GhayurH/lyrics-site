@@ -1,11 +1,11 @@
 ---
 title: "Zindagi Insaan Ki Ik Dam Ke Siwa Kuch Bhi Nahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Iqbal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:57b9adbb33d33575562f

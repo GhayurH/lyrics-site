@@ -1,11 +1,11 @@
 ---
 title: "Khon Barsa Magar Afsos Na Barsa Pani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8b0ee168eef3cad2fc31

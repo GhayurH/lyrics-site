@@ -1,11 +1,11 @@
 ---
 title: "Shabir Ka Bhai Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9a66ec7b4b5cdd379bc4

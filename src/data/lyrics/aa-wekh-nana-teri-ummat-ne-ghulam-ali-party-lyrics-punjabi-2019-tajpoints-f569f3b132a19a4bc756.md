@@ -1,11 +1,11 @@
 ---
 title: "Aa Wekh Nana Teri Ummat Ne Ghulam Ali Party Lyrics Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f569f3b132a19a4bc756

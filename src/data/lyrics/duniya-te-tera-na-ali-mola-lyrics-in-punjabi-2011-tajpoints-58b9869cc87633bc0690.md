@@ -1,11 +1,11 @@
 ---
 title: "Duniya Te Tera Na Ali Mola Lyrics In Punjabi 2011"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:58b9869cc87633bc0690

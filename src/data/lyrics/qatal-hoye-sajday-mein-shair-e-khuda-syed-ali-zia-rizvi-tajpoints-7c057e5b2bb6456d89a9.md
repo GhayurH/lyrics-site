@@ -1,11 +1,11 @@
 ---
 title: "Qatal Hoye Sajday Mein Shair-e-Khuda Syed Ali Zia Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Anees"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7c057e5b2bb6456d89a9

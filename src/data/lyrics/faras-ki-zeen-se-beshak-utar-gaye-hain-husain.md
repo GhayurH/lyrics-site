@@ -1,10 +1,10 @@
 ---
 title: "فرس کی زین سے بیشک اتر گئے ہیں حسینؑ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0988016df098bfbd2d09

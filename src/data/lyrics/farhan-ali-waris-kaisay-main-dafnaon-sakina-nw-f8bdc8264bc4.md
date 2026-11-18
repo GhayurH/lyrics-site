@@ -1,6 +1,6 @@
 ---
 title: "Kaisay Main Dafnaon Sakina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

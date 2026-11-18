@@ -1,11 +1,11 @@
 ---
 title: "Aaye Jab Sham Ka Naam Sayyed Zaire Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zaair"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:254b29cc862301ca1bb2

@@ -1,11 +1,11 @@
 ---
 title: "Ja Veerna Khairi Jawin Koi Khat Bemar Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b35e56826e44093c2b50

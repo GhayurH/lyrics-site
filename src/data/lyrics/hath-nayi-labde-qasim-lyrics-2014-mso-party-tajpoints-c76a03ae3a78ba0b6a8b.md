@@ -1,11 +1,11 @@
 ---
 title: "Hath Nayi Labde Qasim Lyrics 2014 MSO Party"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c76a03ae3a78ba0b6a8b

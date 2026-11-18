@@ -1,11 +1,11 @@
 ---
 title: "Ali Ke Qadmon Main Mehdi Rizvi And Hadi Rizvi Lyrics Urud 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ahsaan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:23685626ccdd55329609

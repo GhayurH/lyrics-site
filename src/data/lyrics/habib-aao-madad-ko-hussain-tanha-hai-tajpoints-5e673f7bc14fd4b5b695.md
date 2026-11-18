@@ -1,11 +1,11 @@
 ---
 title: "Habib Aao Madad Ko Hussain Tanha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5e673f7bc14fd4b5b695

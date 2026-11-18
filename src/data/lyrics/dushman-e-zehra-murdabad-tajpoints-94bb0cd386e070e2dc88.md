@@ -1,11 +1,11 @@
 ---
 title: "Dushman E Zehra Murdabad"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:94bb0cd386e070e2dc88

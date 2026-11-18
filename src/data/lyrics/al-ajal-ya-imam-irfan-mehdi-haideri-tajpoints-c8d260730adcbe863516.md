@@ -1,11 +1,11 @@
 ---
 title: "Al Ajal Ya Imam Irfan Mehdi Haideri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shehwaar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c8d260730adcbe863516

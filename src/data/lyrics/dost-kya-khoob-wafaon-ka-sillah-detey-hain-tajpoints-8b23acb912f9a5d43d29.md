@@ -1,11 +1,11 @@
 ---
 title: "Dost Kya Khoob Wafaon Ka Sillah Detey Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tabish"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8b23acb912f9a5d43d29

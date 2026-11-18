@@ -1,11 +1,11 @@
 ---
 title: "Eman Reza Jaan Saleem Mastan 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Fazil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:986eaa8de78ab2de7d49

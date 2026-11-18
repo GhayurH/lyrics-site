@@ -1,11 +1,11 @@
 ---
 title: "Karde Ghazi Karam Lyrics In Punjabi 2011 Mir Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:36156716e3efd35c0f63

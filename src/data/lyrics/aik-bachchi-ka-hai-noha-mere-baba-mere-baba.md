@@ -1,11 +1,11 @@
 ---
 title: "ایک بچّی کا ہے نوحہ میرے بابا میرے بابا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Syed Raza Abbas Shah"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:25521167578f78464ed5

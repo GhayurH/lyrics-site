@@ -1,10 +1,10 @@
 ---
 title: "تھے بین سکینہؑ کے عباسؑ نہیں آئے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8fdd75bf649d3c3df9e3

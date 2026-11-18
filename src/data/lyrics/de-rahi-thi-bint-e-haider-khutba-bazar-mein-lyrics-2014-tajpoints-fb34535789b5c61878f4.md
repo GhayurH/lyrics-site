@@ -1,11 +1,11 @@
 ---
 title: "De Rahi Thi Bint E Haider Khutba Bazar Mein Lyrics 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fb34535789b5c61878f4

@@ -1,10 +1,10 @@
 ---
 title: "Hun Moor Moharaan Kyun Nayi Aya Akbar Hun Moor Muharaan Lyrics In Punjabi 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9e3e24ced5f91dd47d92

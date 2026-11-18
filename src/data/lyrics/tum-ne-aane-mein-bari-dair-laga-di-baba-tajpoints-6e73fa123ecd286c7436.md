@@ -1,11 +1,11 @@
 ---
 title: "Tum Ne Aane Mein Bari Dair Laga Di Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6e73fa123ecd286c7436

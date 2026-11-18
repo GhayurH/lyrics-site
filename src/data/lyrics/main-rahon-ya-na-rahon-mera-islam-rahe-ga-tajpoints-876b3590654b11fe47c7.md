@@ -1,10 +1,10 @@
 ---
 title: "Main Rahon Ya Na Rahon Mera Islam Rahe Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:876b3590654b11fe47c7

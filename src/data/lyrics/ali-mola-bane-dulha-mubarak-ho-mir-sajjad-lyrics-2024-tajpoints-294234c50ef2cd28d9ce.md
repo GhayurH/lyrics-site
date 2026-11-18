@@ -1,11 +1,11 @@
 ---
 title: "Ali Mola Bane Dulha Mubarak Ho Mir Sajjad Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:294234c50ef2cd28d9ce

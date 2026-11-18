@@ -1,11 +1,11 @@
 ---
 title: "Kalla Hussain Reh Gaya Karbal Di Khak Tay Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Riaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b1defa6adae788032894

@@ -1,11 +1,11 @@
 ---
 title: "Ayat Hai Fatima Shakeel Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Farhat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:28ec0da18fd523ba421e

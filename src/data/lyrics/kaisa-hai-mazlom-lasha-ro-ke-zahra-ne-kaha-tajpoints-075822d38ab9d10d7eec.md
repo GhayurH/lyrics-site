@@ -1,11 +1,11 @@
 ---
 title: "Kaisa Hai Mazlom Lasha Ro Ke Zahra Ne Kaha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:075822d38ab9d10d7eec

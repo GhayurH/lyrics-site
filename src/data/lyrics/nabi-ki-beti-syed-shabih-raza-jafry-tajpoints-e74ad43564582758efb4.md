@@ -1,11 +1,11 @@
 ---
 title: "Nabi Ki Beti Syed Shabih Raza Jafry"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shabih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e74ad43564582758efb4

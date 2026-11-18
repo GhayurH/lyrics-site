@@ -1,10 +1,10 @@
 ---
 title: "Kon Roke Ga Ye Azadari Syed Mohammad Shah"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bfd28a43ea4b5219bced

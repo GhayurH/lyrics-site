@@ -1,11 +1,11 @@
 ---
 title: "Ali Akbar Ki Midhat Ho Rahi Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shadan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ef9520d94e300832ba68

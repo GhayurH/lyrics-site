@@ -1,11 +1,11 @@
 ---
 title: "Jo Hum Naat Kar K Mehak Batool Zainabi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1813d1e38a7fb98402a6

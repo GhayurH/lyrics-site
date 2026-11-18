@@ -1,6 +1,6 @@
 ---
 title: "Mere Bachy Hain Abhi Chohte Ya Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

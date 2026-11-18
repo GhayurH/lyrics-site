@@ -1,11 +1,11 @@
 ---
 title: "Baba Mere Asghar Ko Sabahat Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Osaaf"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:183726eb3bded09e6792

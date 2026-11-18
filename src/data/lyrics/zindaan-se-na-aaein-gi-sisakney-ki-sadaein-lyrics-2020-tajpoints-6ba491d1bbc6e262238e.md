@@ -1,11 +1,11 @@
 ---
 title: "Zindaan Se Na Aaein Gi Sisakney Ki Sadaein Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6ba491d1bbc6e262238e

@@ -1,11 +1,11 @@
 ---
 title: "کیسا ہے دل یہ ماں کا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:86bc22a5942f172e25f8

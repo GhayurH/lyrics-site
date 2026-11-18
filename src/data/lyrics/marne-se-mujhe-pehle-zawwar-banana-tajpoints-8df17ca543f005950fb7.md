@@ -1,11 +1,11 @@
 ---
 title: "Marne Se Mujhe Pehle Zawwar Banana"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zaair"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8df17ca543f005950fb7

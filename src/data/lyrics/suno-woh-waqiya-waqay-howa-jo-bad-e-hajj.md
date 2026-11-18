@@ -1,6 +1,6 @@
 ---
 title: "Suno Woh Waqiya Waqay Howa Jo Bad e Hajj"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

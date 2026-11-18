@@ -1,11 +1,11 @@
 ---
 title: "Jandi Wari Babay Ne Aye Sughra Nu Farmaya Official Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:c0379108fd72c9c69b76

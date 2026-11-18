@@ -1,10 +1,10 @@
 ---
 title: "اسیری میں بابا بہت یاد آئے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:39e6bf7a839f441547be

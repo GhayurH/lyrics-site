@@ -1,6 +1,6 @@
 ---
 title: "Na Bajde Ghoray Toun Ghazi Lendha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

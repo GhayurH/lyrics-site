@@ -1,11 +1,11 @@
 ---
 title: "Akbar Di Qabar Te Ro Ro Ke Si Abid Wain Aye Panda Latest Very Sad Noha Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:f96dd67ae30242a359ac

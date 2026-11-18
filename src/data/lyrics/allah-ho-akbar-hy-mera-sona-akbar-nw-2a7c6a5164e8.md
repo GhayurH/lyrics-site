@@ -1,6 +1,6 @@
 ---
 title: "Allah Ho Akbar Hy Mera Sona Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

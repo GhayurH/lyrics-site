@@ -1,11 +1,11 @@
 ---
 title: "Shab Unwi Mah Ramzan Di Hayi Rona Pak Ameer Namaz De Wich Lyrics New Noha 21 Ramzan 2026 Hazrat Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:74d2fff27c36ccb923d2

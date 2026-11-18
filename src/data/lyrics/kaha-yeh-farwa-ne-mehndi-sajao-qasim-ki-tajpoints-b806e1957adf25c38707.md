@@ -1,11 +1,11 @@
 ---
 title: "Kaha Yeh Farwa Ne Mehndi Sajao Qasim Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zaire"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b806e1957adf25c38707

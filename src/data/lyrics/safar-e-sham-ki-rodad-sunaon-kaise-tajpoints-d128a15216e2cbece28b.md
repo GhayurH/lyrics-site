@@ -1,11 +1,11 @@
 ---
 title: "Safar-e-Sham Ki Rodad Sunaon Kaise"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d128a15216e2cbece28b

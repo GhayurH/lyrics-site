@@ -1,6 +1,6 @@
 ---
 title: "Jab Ashqiyan Ne Hai Zeen Se Giraya Ghazi Ko"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

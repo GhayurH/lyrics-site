@@ -1,6 +1,6 @@
 ---
 title: "Rab Jaane Zakhmi Asghar Kivey Maa Nai Vekheya Ay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Do Shahzaday, Aun o Mohammad Wich Karbal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

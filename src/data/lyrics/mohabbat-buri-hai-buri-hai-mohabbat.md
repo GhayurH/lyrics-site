@@ -1,6 +1,6 @@
 ---
 title: "Mohabbat Buri Hai Buri Hai Mohabbat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

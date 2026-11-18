@@ -1,6 +1,6 @@
 ---
 title: "Koi Sughra Da Sunayra Akbar Nu Pohnchaway"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

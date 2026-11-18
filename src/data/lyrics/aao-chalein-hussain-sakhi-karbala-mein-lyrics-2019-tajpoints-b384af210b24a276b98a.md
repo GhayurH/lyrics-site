@@ -1,11 +1,11 @@
 ---
 title: "Aao Chalein Hussain Sakhi Karbala Mein Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b384af210b24a276b98a

@@ -1,6 +1,6 @@
 ---
 title: "Jangal Pahaad Karte Hai Nad-e-Ali Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

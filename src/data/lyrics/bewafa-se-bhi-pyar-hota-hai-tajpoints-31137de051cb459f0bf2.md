@@ -1,11 +1,11 @@
 ---
 title: "Bewafa Se Bhi Pyar Hota Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Purnam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:31137de051cb459f0bf2

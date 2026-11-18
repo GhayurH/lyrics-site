@@ -1,11 +1,11 @@
 ---
 title: "لہو لہو نظر آتی ہے کربلا کی فضا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Mewa Khan Kalidi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:effc6b0aef0e671e2306

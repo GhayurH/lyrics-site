@@ -1,11 +1,11 @@
 ---
 title: "Haye Haye Rasool Zadi Ko Ummat Ne Sataya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0ff160d3977258b6da01

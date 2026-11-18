@@ -1,11 +1,11 @@
 ---
 title: "Dilon Mein Pyar Bona Chahta Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:57c81498fd7436e75e8d

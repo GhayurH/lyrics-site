@@ -1,11 +1,11 @@
 ---
 title: "Bazar Ich Ro Ro Ke Loko Bemar Sada Deway Asghar Khan Lyrics Punjabi 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ef5061011585d13fef06

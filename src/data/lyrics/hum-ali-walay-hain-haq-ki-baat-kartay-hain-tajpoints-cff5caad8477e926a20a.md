@@ -1,11 +1,11 @@
 ---
 title: "Hum Ali Walay Hain Haq Ki Baat Kartay Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cff5caad8477e926a20a

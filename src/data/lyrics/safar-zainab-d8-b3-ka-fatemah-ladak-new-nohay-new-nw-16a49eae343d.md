@@ -1,6 +1,6 @@
 ---
 title: "Safar Zainabس ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

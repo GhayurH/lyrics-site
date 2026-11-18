@@ -1,11 +1,11 @@
 ---
 title: "Zakhmi Khari Hai Sorah E Kausar Laho Laho Qambar Kiyani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:08e84155ac35219e3706

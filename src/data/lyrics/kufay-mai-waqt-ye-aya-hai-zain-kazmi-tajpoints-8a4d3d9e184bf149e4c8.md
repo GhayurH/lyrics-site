@@ -1,11 +1,11 @@
 ---
 title: "Kufay Mai Waqt Ye Aya Hai Zain Kazmi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8a4d3d9e184bf149e4c8

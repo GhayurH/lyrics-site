@@ -1,10 +1,10 @@
 ---
 title: "یا علیؑ یاعلیؑ تجھ جیسا نہیں دنیا میں سخی کوئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c5cb7d5e5ae797f73e25

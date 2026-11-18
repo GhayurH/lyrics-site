@@ -1,11 +1,11 @@
 ---
 title: "Darwaza E Hussain Pe Sajda Kiye Beghair Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:47367287e4069bb2f12b

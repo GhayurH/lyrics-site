@@ -1,11 +1,11 @@
 ---
 title: "Tera Takallum Chehak Raha Hai Misal E Gulshan Mehak Raha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:efeb1f093616440c4cde

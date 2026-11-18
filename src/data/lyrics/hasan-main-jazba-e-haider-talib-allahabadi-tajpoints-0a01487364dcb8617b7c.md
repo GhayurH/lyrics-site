@@ -1,11 +1,11 @@
 ---
 title: "Hasan Main Jazba E Haider Talib Allahabadi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Talib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0a01487364dcb8617b7c

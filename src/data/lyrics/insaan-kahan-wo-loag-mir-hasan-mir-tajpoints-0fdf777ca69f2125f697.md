@@ -1,11 +1,11 @@
 ---
 title: "Insaan Kahan Wo Loag Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Farazdaq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0fdf777ca69f2125f697

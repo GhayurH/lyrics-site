@@ -1,11 +1,11 @@
 ---
 title: "Phophiyan Di Peshi Abid Nu Haye Khon Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f1a55d8a6846ab03f9f6

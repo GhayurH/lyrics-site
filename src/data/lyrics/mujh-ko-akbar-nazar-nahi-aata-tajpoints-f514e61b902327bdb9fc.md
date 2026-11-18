@@ -1,11 +1,11 @@
 ---
 title: "Mujh Ko Akbar Nazar Nahi Aata"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qasim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f514e61b902327bdb9fc

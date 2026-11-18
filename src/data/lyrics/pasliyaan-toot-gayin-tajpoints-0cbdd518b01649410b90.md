@@ -1,11 +1,11 @@
 ---
 title: "Pasliyaan Toot Gayin"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mirza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0cbdd518b01649410b90

@@ -1,11 +1,11 @@
 ---
 title: "Karbala Walo Kay Nam Faheem Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qurban"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0baaf32fd269469c407d

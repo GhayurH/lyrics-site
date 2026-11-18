@@ -1,11 +1,11 @@
 ---
 title: "Abbas Bhira Da Ser Shahrukh Abbas Khan Saqlain Abbas Khan Lyrics In Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c8cb2b1e0fd18a733112

@@ -1,11 +1,11 @@
 ---
 title: "Aa Gayi Bint-e-Ali Berida Haath Baandhe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Soz"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:20f23185f8ca1078dd31

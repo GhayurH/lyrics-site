@@ -1,11 +1,11 @@
 ---
 title: "Abbas Teriyaan Behna Tere Baad Ne Rul Gayiyaan Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:319d241e77cf9c9d83a4

@@ -1,11 +1,11 @@
 ---
 title: "Mera Akbar Kyun Nahi Aya Syed Raza Abbas Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6b36f0cca7addb3a740d

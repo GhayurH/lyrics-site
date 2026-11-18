@@ -1,11 +1,11 @@
 ---
 title: "Kyun Na Serab Kare Sibt E Nabi Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6c8cd71223ab65534e86

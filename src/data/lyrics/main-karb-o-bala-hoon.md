@@ -1,11 +1,11 @@
 ---
 title: "Main Karb-o-Bala Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # Consecutive original pages consolidated in source order; original source provenance retained.

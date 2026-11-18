@@ -1,11 +1,11 @@
 ---
 title: "Main Deen-e-Muhammad Ko Baqa Dene Chali Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bab6081020b97f8120b9

@@ -1,11 +1,11 @@
 ---
 title: "Aankhon Se Khon Roya Sajjad Umar Sari"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b1727b0702436fdab8ae

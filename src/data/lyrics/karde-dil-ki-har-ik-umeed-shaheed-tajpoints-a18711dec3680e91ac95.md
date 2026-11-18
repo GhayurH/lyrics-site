@@ -1,11 +1,11 @@
 ---
 title: "Karde Dil Ki Har Ik Umeed Shaheed"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a18711dec3680e91ac95

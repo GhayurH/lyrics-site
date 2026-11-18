@@ -1,11 +1,11 @@
 ---
 title: "Hussain Sab Teri Qurbaniyoon Ka Sadqa Hai Lyrics 2010"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:836be1e52f491ce82b9b

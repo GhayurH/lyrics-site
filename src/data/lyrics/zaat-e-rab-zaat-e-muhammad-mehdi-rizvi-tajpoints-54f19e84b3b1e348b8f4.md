@@ -1,11 +1,11 @@
 ---
 title: "Zaat E Rab Zaat E Muhammad Mehdi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:54f19e84b3b1e348b8f4

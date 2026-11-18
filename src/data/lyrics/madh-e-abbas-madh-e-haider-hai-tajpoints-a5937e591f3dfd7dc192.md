@@ -1,11 +1,11 @@
 ---
 title: "Madh-e-Abbas Madh-e-Haider Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a5937e591f3dfd7dc192

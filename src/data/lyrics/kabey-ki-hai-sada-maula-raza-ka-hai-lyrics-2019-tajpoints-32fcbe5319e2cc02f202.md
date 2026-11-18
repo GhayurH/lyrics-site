@@ -1,11 +1,11 @@
 ---
 title: "Kabey Ki Hai Sada Maula Raza Ka Hai Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:32fcbe5319e2cc02f202

@@ -1,11 +1,11 @@
 ---
 title: "Yeh Bhi Sunehri Jaliyon Ki Shan Hi Tu Hai Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fa3798ada5356de04cb3

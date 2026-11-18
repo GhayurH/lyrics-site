@@ -1,11 +1,11 @@
 ---
 title: "Afsos Shehbaz Haideri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shehbaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:940bcdf57d231391e7e3

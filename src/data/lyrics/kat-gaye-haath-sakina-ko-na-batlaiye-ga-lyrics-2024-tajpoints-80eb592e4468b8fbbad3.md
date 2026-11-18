@@ -1,11 +1,11 @@
 ---
 title: "Kat Gaye Haath Sakina Ko Na Batlaiye Ga Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Aimaad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:80eb592e4468b8fbbad3

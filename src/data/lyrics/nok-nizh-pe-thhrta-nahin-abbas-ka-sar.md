@@ -1,11 +1,11 @@
 ---
 title: "نوکِ نیزہ پہ ٹھہرتا نہیں عباسؑ کا سر"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6871ea61c2aabc778cba

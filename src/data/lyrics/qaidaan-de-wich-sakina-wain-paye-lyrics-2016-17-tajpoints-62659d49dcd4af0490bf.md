@@ -1,11 +1,11 @@
 ---
 title: "Qaidaan De Wich Sakina Wain Paye Lyrics 2016-17"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:62659d49dcd4af0490bf

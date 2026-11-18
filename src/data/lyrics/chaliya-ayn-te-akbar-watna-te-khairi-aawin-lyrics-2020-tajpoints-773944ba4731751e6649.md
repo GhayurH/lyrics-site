@@ -1,11 +1,11 @@
 ---
 title: "Chaliya Ayn Te Akbar Watna Te Khairi Aawin Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:773944ba4731751e6649

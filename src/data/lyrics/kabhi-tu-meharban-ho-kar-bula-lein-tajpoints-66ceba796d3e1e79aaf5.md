@@ -1,11 +1,11 @@
 ---
 title: "Kabhi Tu Meharban Ho Kar Bula Lein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:66ceba796d3e1e79aaf5

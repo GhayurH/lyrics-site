@@ -1,6 +1,6 @@
 ---
 title: "Ruk Jaata Matam Zainab Ko"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

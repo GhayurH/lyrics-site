@@ -1,6 +1,6 @@
 ---
 title: "Jholiyan Cha Kai Kawo Dard Vichora Daikhai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Badan Kahin Tu Kahin Sar Hussain Bolta Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1c37ae3b925c177e09b7

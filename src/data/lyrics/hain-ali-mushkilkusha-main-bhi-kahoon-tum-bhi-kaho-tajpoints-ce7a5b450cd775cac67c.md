@@ -1,11 +1,11 @@
 ---
 title: "Hain Ali Mushkilkusha Main Bhi Kahoon Tum Bhi Kaho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Kashif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ce7a5b450cd775cac67c

@@ -1,11 +1,11 @@
 ---
 title: "Jab Raat Dhali Aadhi Maikhane Ko Hosh Aaya Nusrat Fateh Ali Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Fana"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3ead8d132417c4fe7ef0

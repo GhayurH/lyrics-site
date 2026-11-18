@@ -1,11 +1,11 @@
 ---
 title: "Wain Ghurbat De Maula Sajjad Ne Paye Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:15084da1673ec66d23d6

@@ -1,11 +1,11 @@
 ---
 title: "Kya Khoob Hai Rutba Sadiq Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:65240ebb807ba2857671

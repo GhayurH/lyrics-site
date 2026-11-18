@@ -1,11 +1,11 @@
 ---
 title: "Youn Bhai Ke Chehlum Ki Zainab Ne Ibtida Ki"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Dilawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:aaceb5d88ddbaaba7541

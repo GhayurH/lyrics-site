@@ -1,6 +1,6 @@
 ---
 title: "Takdi Rahvaan Teriyaan Chun Veeran"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

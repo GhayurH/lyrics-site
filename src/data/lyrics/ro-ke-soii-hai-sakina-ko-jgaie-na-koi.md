@@ -1,10 +1,10 @@
 ---
 title: "رو کے سوئی ہے سکینہؑ کو جگائے نہ کوئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:f973bf63af702d641efa

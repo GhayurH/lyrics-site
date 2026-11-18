@@ -1,7 +1,7 @@
 ---
 title: "ہے سخاوت کا آسماں عباس"
 alternateTitle: "Hai Sakhawat Ka Aasmaan Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

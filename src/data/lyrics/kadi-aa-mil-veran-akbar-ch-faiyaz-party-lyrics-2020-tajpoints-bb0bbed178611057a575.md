@@ -1,11 +1,11 @@
 ---
 title: "Kadi Aa Mil Veran Akbar Ch Faiyaz Party Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bb0bbed178611057a575

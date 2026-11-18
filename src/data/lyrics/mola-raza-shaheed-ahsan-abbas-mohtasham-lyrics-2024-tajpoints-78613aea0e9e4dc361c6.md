@@ -1,11 +1,11 @@
 ---
 title: "Mola Raza Shaheed Ahsan Abbas Mohtasham Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:78613aea0e9e4dc361c6

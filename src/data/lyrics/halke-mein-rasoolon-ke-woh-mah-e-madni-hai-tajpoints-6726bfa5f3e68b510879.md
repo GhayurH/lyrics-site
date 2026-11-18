@@ -1,11 +1,11 @@
 ---
 title: "Halke Mein Rasoolon Ke Woh Mah-e-Madni Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Ameer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6726bfa5f3e68b510879

@@ -1,11 +1,11 @@
 ---
 title: "Jafar Ne Lahu Ugla Hoi Surkh Qaba Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Safdar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d229ef412475e268f891

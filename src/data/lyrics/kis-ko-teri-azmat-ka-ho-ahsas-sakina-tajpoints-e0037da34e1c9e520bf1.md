@@ -1,11 +1,11 @@
 ---
 title: "Kis Ko Teri Azmat Ka Ho Ahsas Sakina"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Taseer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e0037da34e1c9e520bf1

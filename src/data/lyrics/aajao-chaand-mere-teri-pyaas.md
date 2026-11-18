@@ -1,6 +1,6 @@
 ---
 title: "Aajao Chaand Mere Teri Pyaas Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

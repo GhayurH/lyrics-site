@@ -1,10 +1,10 @@
 ---
 title: "گر فضیلت رسول زادیؑ کی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:0bcd9fea1a03ca6e326e

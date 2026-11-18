@@ -1,11 +1,11 @@
 ---
 title: "Naam Asghar Hai Mera Main Ali Ka Hoon Ali"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f9d2793eb31c91933541

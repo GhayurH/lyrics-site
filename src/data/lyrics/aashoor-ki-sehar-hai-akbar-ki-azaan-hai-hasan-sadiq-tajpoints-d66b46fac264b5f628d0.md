@@ -1,10 +1,10 @@
 ---
 title: "Aashoor Ki Sehar Hai Akbar Ki Azaan Hai Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d66b46fac264b5f628d0

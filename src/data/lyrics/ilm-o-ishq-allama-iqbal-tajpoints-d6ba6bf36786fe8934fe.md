@@ -1,10 +1,10 @@
 ---
 title: "Ilm-o-Ishq Allama Iqbal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d6ba6bf36786fe8934fe

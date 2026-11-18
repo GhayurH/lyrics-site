@@ -1,6 +1,6 @@
 ---
 title: "Mola Tere Huzoor Mein Hazir Hai Ye Ghulam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Sughra Nu Aina Dasda Jawin Tu Veer Kadon Mur Aawein Ga Lyrics Punjabi 2025"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f3a9196002ce3b36ffec

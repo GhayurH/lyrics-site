@@ -1,6 +1,6 @@
 ---
 title: "Rabba Manzoor Karein Meda Che Maah Da Mehman"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Azmatoon Ka Hai Aasmaan Zahra Shahid Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Darwaish"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:40cd4b077f0d6be459b1

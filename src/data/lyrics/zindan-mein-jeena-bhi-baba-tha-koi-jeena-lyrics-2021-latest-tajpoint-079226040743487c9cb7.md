@@ -1,11 +1,11 @@
 ---
 title: "Zindan Mein Jeena Bhi Baba Tha Koi Jeena Lyrics 2021 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sahar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:079226040743487c9cb7

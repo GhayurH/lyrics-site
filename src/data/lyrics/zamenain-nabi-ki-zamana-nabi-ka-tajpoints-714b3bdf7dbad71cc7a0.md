@@ -1,11 +1,11 @@
 ---
 title: "Zamenain Nabi Ki Zamana Nabi Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Navaid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:714b3bdf7dbad71cc7a0

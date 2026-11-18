@@ -1,11 +1,11 @@
 ---
 title: "Zikar Haider Ka Sunane Mein Maza Aata Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b7479445f24c5308477d

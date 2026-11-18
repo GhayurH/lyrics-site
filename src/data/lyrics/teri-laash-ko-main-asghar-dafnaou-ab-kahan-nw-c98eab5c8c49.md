@@ -1,6 +1,6 @@
 ---
 title: "Teri Laash Ko Main Asghar Dafnaou Ab Kahan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Mehndiyaan Wale Nu Dardaan Di Mari Maa Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8603c33f448e41dd1cf9

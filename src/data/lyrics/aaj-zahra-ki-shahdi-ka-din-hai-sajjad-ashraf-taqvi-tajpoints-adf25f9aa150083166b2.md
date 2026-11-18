@@ -1,11 +1,11 @@
 ---
 title: "Aaj Zahra Ki Shahdi Ka Din Hai Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:adf25f9aa150083166b2

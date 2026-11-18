@@ -1,11 +1,11 @@
 ---
 title: "Ujray Veray Aa Ke Cheri Zainab Pyasay Veer Di Gal Lyrics Punjabi 1998"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nisar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:69a78210f830b2fd6c62

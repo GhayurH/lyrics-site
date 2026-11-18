@@ -1,6 +1,6 @@
 ---
 title: "Bhool Na Paey Gi Zehra, Kufa Walon Ki Wafa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

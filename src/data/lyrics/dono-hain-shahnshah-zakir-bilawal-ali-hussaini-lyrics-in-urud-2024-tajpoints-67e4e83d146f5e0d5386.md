@@ -1,11 +1,11 @@
 ---
 title: "Dono Hain Shahnshah Zakir Bilawal Ali Hussaini Lyrics In Urud 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:67e4e83d146f5e0d5386

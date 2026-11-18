@@ -1,11 +1,11 @@
 ---
 title: "Kaise Batool Sholon Se Kis Tarha Ab Bachaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Salamat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8d58059e37253ece9ed0

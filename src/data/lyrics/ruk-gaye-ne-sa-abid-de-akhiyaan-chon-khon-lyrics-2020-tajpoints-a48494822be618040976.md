@@ -1,11 +1,11 @@
 ---
 title: "Ruk Gaye Ne Sa Abid De Akhiyaan Chon Khon Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a48494822be618040976

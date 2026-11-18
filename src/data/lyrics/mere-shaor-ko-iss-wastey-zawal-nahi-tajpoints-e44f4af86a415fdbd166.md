@@ -1,11 +1,11 @@
 ---
 title: "Mere Shaor Ko Iss Wastey Zawal Nahi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e44f4af86a415fdbd166

@@ -1,11 +1,11 @@
 ---
 title: "Haal Kya Ho Gaya Sakina Ka Joan Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2ecac9ebfc2cd87a28cb

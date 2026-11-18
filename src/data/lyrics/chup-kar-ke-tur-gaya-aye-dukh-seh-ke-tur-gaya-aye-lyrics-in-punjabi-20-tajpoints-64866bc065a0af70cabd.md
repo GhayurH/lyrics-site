@@ -1,11 +1,11 @@
 ---
 title: "Chup Kar Ke Tur Gaya Aye Dukh Seh Ke Tur Gaya Aye Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Abdullah"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:64866bc065a0af70cabd

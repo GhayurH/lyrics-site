@@ -1,6 +1,6 @@
 ---
 title: "Sajjad De Athru Bazaar'ch Aakay Rang Badla Gaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

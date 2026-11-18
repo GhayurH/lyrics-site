@@ -1,11 +1,11 @@
 ---
 title: "Bhen Teri Ujar Gayi Ghazi Abbas Haider Lalji Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0a4095cb13c03d468cbe

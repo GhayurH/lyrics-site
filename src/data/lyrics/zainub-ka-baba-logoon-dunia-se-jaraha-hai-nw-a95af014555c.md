@@ -1,7 +1,7 @@
 ---
 title: "زینبؑ کا بابا لوگوں دنیا سے جا رہا ہے"
 alternateTitle: "Zainab Ka Baba Logon Duniya Se Ja Raha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Zakhmi Khuda Ke Ghar Mein Khuda Ka Wali Howa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c4f1a30b7c2df2e8da44

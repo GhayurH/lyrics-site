@@ -1,11 +1,11 @@
 ---
 title: "Baba Teri Ladli Zahra Nu Aye Dard Gaye Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c0f3258087f326c14cf9

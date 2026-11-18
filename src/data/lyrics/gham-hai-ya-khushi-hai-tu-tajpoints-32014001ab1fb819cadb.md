@@ -1,11 +1,11 @@
 ---
 title: "Gham Hai Ya Khushi Hai Tu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:32014001ab1fb819cadb

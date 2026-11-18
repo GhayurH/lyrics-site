@@ -1,11 +1,11 @@
 ---
 title: "Fajar Welay Ikiswein Rozay Lyrics 21 Ramzan 2026 New Noha Ghulam Ali Party Mundeki Noha Hazrat Ali AS"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:b386b69c9d81855224d6

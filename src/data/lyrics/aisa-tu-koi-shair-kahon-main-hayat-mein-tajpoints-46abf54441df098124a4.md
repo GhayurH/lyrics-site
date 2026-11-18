@@ -1,11 +1,11 @@
 ---
 title: "Aisa Tu Koi Shair Kahon Main Hayat Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ansar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:46abf54441df098124a4

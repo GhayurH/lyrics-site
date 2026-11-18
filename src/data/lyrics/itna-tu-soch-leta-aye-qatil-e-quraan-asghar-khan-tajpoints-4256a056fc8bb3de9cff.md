@@ -1,10 +1,10 @@
 ---
 title: "Itna Tu Soch Leta Aye Qatil E Quraan Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4256a056fc8bb3de9cff

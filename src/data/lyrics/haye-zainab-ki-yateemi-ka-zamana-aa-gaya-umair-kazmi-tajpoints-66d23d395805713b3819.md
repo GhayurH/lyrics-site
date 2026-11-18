@@ -1,11 +1,11 @@
 ---
 title: "Haye Zainab Ki Yateemi Ka Zamana Aa Gaya Umair Kazmi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:66d23d395805713b3819

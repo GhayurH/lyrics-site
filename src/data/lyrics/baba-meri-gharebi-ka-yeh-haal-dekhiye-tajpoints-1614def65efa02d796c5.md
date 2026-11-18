@@ -1,11 +1,11 @@
 ---
 title: "Baba Meri Gharebi Ka Yeh Haal Dekhiye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1614def65efa02d796c5

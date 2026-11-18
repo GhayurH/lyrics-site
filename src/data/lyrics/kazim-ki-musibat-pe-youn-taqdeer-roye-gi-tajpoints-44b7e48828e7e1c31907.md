@@ -1,11 +1,11 @@
 ---
 title: "Kazim Ki Musibat Pe Youn Taqdeer Roye Gi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zahra"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:44b7e48828e7e1c31907

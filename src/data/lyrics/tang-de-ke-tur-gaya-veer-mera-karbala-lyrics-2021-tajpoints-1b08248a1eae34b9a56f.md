@@ -1,11 +1,11 @@
 ---
 title: "Tang De Ke Tur Gaya Veer Mera Karbala Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1b08248a1eae34b9a56f

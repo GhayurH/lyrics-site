@@ -1,11 +1,11 @@
 ---
 title: "Wich Sham Shehar Aye Keh Ke Liya Zainab Aakhri Sah Lyrics In Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:9dbc93e568db862bce61

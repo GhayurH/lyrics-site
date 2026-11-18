@@ -1,11 +1,11 @@
 ---
 title: "Koi Ummeed Bar Nahi Aati"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cfad34b3bae1de88776c

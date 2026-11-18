@@ -1,11 +1,11 @@
 ---
 title: "Sakina Se Kiya Wadah Nibhane Aao Gaye Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bffb4cc2ad307b4cba9b

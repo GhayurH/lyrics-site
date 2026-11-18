@@ -1,11 +1,11 @@
 ---
 title: "Aye Bint E Payambar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Meesum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:29a779cf4526c8bead5b

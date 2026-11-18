@@ -1,11 +1,11 @@
 ---
 title: "Darbar Sharabi De Kinj Parde Daraan Aa Gayiyaan Latest Lyrics 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:6fb60c70762f9fcaaef8

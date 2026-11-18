@@ -1,10 +1,10 @@
 ---
 title: "شبیرؑ تیری عظمت کی قسم میں شان علیؑ دکھلا دیتی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:54bf4e26e350284a9e97

@@ -1,11 +1,11 @@
 ---
 title: "Aa Gaya Mah E Rajab Mir Hasan Mir Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:39bf83dd8c66d8047839

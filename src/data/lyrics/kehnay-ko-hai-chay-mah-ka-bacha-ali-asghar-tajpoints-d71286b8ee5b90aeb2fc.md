@@ -1,11 +1,11 @@
 ---
 title: "Kehnay Ko Hai Chay Mah Ka Bacha Ali Asghar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d71286b8ee5b90aeb2fc

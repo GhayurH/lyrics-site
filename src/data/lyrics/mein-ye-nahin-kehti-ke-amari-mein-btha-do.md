@@ -1,11 +1,11 @@
 ---
 title: "میں یہ نہیں کہتی کہ عماری میں بٹھا دو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:9c964af4fe86fa806a89

@@ -1,11 +1,11 @@
 ---
 title: "Hussain Ka Gham Khwar Jaye Ga Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a432fa7e75b779bab809

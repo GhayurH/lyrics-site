@@ -1,10 +1,10 @@
 ---
 title: "Abu Talib Mohsin Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:373e6b99d8ef1a95b106

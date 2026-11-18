@@ -1,11 +1,11 @@
 ---
 title: "Phir Aya Hai Shaban Mola Mola Kar Mir Hasan Mir Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Quaid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7ffe0d488bfb98d81491

@@ -1,11 +1,11 @@
 ---
 title: "Hussain Ibn-e-Ali Aaye Raza Hasan Qasida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Khursheed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3b175bc2d114fe6a73d8

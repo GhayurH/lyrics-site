@@ -1,11 +1,11 @@
 ---
 title: "Maa Khadija Ki Tarha Baba Payamber Ki Tarha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f2ee74a6a4bd76e26703

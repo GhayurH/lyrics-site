@@ -1,11 +1,11 @@
 ---
 title: "Chehlum Hussain Ka Hai Syed Kumail Mehdi Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ansar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7115cfccd34d33008b12

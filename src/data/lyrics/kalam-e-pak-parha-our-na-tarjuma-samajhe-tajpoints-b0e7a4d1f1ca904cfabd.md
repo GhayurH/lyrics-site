@@ -1,11 +1,11 @@
 ---
 title: "Kalam-e-Pak Parha Our Na Tarjuma Samajhe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Bilal"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b0e7a4d1f1ca904cfabd

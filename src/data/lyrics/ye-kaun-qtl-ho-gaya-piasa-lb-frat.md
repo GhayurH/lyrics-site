@@ -1,10 +1,10 @@
 ---
 title: "یہ کون قتل ہو گیا پیاسا لبِ فرات"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6d70962b7ddd9b14fdb5

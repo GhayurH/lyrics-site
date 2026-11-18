@@ -1,6 +1,6 @@
 ---
 title: "Lay Kay Aa Gae Do Gawahwa Nu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

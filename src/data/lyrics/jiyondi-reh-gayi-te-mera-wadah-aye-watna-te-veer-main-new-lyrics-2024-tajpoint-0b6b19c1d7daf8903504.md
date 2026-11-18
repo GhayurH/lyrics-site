@@ -1,11 +1,11 @@
 ---
 title: "Jiyondi Reh Gayi Te Mera Wadah Aye Watna Te Veer Main New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:0b6b19c1d7daf8903504

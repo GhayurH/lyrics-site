@@ -1,10 +1,10 @@
 ---
 title: "میں بیٹھی مل کے راہواں میرا ویر نئیں آیا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:616bca4bacf40ead0ecf

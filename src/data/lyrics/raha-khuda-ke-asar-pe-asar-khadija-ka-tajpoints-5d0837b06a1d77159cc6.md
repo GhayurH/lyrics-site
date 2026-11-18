@@ -1,11 +1,11 @@
 ---
 title: "Raha Khuda Ke Asar Pe Asar Khadija Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shaukat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5d0837b06a1d77159cc6

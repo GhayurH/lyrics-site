@@ -1,6 +1,6 @@
 ---
 title: "Kya Kya Main Sunaoon Ae Baba"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

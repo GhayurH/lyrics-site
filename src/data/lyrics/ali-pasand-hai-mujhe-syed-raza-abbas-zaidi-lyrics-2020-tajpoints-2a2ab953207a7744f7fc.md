@@ -1,11 +1,11 @@
 ---
 title: "Ali Pasand Hai Mujhe Syed Raza Abbas Zaidi Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2a2ab953207a7744f7fc

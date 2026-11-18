@@ -1,11 +1,11 @@
 ---
 title: "Shabbir Diyan Tin Dhiyan Ne Bare Okhay Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cf9b3af3afad9ced3a6e

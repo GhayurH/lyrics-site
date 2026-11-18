@@ -1,10 +1,10 @@
 ---
 title: "قاسمؑ دی میندی آ گئی"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7be788739760f78bc641

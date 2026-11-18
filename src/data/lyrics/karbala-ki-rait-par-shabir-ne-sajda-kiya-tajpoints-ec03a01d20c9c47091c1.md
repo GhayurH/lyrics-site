@@ -1,11 +1,11 @@
 ---
 title: "Karbala Ki Rait Par Shabir Ne Sajda Kiya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ec03a01d20c9c47091c1

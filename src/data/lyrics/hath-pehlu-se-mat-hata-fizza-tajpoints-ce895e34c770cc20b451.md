@@ -1,11 +1,11 @@
 ---
 title: "Hath Pehlu Se Mat Hata Fizza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ce895e34c770cc20b451

@@ -1,11 +1,11 @@
 ---
 title: "Alfaz Atta Hoon Mujhe Kuch Itne Asar Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:07886b524f80dd460f6a

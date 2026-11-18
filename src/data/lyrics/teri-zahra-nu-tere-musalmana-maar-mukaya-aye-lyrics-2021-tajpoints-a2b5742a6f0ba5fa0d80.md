@@ -1,11 +1,11 @@
 ---
 title: "Teri Zahra Nu Tere Musalmana Maar Mukaya Aye Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a2b5742a6f0ba5fa0d80

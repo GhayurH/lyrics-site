@@ -1,11 +1,11 @@
 ---
 title: "Dhiyan Des Paraye Wekhiya Babal Aakhri Wari Lyrics Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ed5d085682dac6b0979a

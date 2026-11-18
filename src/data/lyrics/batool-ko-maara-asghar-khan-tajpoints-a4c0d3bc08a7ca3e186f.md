@@ -1,11 +1,11 @@
 ---
 title: "Batool Ko Maara Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a4c0d3bc08a7ca3e186f

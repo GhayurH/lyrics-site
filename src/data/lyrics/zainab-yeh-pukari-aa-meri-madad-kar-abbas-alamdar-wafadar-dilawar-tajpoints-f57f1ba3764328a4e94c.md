@@ -1,11 +1,11 @@
 ---
 title: "Zainab Yeh Pukari Aa Meri Madad Kar Abbas Alamdar Wafadar Dilawar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f57f1ba3764328a4e94c

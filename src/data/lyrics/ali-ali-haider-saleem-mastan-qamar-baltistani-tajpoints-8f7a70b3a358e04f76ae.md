@@ -1,11 +1,11 @@
 ---
 title: "Ali Ali Haider Saleem Mastan Qamar Baltistani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Fazil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8f7a70b3a358e04f76ae

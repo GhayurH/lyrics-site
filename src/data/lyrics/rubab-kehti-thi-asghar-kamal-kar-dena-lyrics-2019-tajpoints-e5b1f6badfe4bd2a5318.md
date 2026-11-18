@@ -1,11 +1,11 @@
 ---
 title: "Rubab Kehti Thi Asghar Kamal Kar Dena Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e5b1f6badfe4bd2a5318

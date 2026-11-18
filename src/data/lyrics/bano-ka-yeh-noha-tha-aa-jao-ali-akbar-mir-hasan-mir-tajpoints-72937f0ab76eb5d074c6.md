@@ -1,11 +1,11 @@
 ---
 title: "Bano Ka Yeh Noha Tha Aa Jao Ali Akbar Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Gohar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:72937f0ab76eb5d074c6

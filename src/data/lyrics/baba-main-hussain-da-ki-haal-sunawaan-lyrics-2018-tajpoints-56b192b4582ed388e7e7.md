@@ -1,11 +1,11 @@
 ---
 title: "Baba Main Hussain Da Ki Haal Sunawaan Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:56b192b4582ed388e7e7

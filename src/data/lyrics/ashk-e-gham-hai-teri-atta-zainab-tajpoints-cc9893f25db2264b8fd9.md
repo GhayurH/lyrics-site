@@ -1,11 +1,11 @@
 ---
 title: "Ashk E Gham Hai Teri Atta Zainab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cc9893f25db2264b8fd9

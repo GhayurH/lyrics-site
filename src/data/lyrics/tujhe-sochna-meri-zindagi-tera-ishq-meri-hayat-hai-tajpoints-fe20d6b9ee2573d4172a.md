@@ -1,11 +1,11 @@
 ---
 title: "Tujhe Sochna Meri Zindagi Tera Ishq Meri Hayat Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fe20d6b9ee2573d4172a

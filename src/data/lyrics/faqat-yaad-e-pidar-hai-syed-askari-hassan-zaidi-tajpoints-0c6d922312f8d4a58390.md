@@ -1,11 +1,11 @@
 ---
 title: "Faqat Yaad E Pidar Hai Syed Askari Hassan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asim"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0c6d922312f8d4a58390

@@ -1,6 +1,6 @@
 ---
 title: "Zindan Se Chutke Abid e Bemaar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

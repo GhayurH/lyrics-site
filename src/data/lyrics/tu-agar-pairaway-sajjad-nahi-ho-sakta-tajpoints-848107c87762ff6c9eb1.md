@@ -1,11 +1,11 @@
 ---
 title: "Tu Agar Pairaway Sajjad Nahi Ho Sakta"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:848107c87762ff6c9eb1

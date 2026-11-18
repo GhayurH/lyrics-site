@@ -1,10 +1,10 @@
 ---
 title: "مشک و علم"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:2bb812f28e0e666f51f6

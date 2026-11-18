@@ -1,11 +1,11 @@
 ---
 title: "Sada Aye Rehniyaan Jag Te Sadawaan Naal Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:02a345b5a2be66429551

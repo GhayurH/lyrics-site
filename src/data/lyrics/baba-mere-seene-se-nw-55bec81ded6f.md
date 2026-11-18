@@ -1,6 +1,6 @@
 ---
 title: "Baba Mere Seene Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

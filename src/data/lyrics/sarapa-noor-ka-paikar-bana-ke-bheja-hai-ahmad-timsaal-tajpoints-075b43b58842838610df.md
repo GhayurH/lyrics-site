@@ -1,11 +1,11 @@
 ---
 title: "Sarapa Noor Ka Paikar Bana Ke Bheja Hai Ahmad Timsaal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:075b43b58842838610df

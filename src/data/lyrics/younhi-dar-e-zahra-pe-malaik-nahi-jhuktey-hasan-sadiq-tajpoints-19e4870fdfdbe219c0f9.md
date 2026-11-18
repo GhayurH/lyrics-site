@@ -1,11 +1,11 @@
 ---
 title: "Younhi Dar E Zahra Pe Malaik Nahi Jhuktey Hasan Sadiq"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ameer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:19e4870fdfdbe219c0f9

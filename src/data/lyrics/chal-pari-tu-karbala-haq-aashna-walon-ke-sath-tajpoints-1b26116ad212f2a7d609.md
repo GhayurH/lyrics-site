@@ -1,11 +1,11 @@
 ---
 title: "Chal Pari Tu Karbala Haq Aashna Walon Ke Sath"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azai"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1b26116ad212f2a7d609

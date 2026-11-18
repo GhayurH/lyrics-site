@@ -1,10 +1,10 @@
 ---
 title: "Rida Hai Sar Pe Na Bhai Ka Sar Pe Saya Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9a305184c7a656391164

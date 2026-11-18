@@ -1,6 +1,6 @@
 ---
 title: "Juda Zainab Say Na Karo Logo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

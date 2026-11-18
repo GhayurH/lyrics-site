@@ -1,10 +1,10 @@
 ---
 title: "بتول زادیؑ تیرے پرسہ دار آئے ہیں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7d24760117ce1cf5c63e

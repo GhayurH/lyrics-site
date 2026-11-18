@@ -1,10 +1,10 @@
 ---
 title: "Shabar Ke Janaze Ko Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:39aa27161e2c3094ec9c

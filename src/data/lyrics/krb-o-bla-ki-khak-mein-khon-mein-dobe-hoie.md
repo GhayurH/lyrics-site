@@ -1,10 +1,10 @@
 ---
 title: "کرب و بلا کی خاک میں خوں میں ڈوبے ہوئے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ffb72f9db7ba617fd3a6

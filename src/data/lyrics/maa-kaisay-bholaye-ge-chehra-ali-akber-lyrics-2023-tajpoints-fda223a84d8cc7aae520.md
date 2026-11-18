@@ -1,11 +1,11 @@
 ---
 title: "Maa Kaisay Bholaye Ge Chehra Ali Akber Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fda223a84d8cc7aae520

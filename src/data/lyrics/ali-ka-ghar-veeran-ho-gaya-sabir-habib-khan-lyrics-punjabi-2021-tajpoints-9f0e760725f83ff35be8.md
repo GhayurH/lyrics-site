@@ -1,11 +1,11 @@
 ---
 title: "Ali Ka Ghar Veeran Ho Gaya Sabir Habib Khan Lyrics Punjabi 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9f0e760725f83ff35be8

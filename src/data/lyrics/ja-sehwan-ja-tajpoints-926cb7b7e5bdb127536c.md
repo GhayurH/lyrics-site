@@ -1,11 +1,11 @@
 ---
 title: "Ja Sehwan Ja"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:926cb7b7e5bdb127536c

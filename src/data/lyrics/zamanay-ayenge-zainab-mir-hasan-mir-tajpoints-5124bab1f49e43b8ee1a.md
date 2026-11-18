@@ -1,11 +1,11 @@
 ---
 title: "Zamanay Ayenge Zainab Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5124bab1f49e43b8ee1a

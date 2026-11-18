@@ -1,10 +1,10 @@
 ---
 title: "حسنینؑ جدوں چایا تابوت مرتضیٰؑ دا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:ccbde916cb9b3efd8e3a

@@ -1,11 +1,11 @@
 ---
 title: "Sakina Royi Qamber Zaidi Urdu Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:32d0818f930b3b6de1e2

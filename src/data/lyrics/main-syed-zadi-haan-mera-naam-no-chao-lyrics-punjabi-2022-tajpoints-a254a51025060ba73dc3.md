@@ -1,11 +1,11 @@
 ---
 title: "Main Syed Zadi Haan Mera Naam No Chao Lyrics Punjabi 2022"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a254a51025060ba73dc3

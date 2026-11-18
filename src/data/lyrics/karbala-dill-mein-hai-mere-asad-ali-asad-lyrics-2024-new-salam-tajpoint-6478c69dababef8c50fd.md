@@ -1,11 +1,11 @@
 ---
 title: "Karbala Dill Mein Hai Mere Asad Ali Asad Lyrics 2024 New Salam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:6478c69dababef8c50fd

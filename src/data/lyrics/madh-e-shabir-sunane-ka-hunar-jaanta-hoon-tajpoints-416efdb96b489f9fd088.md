@@ -1,11 +1,11 @@
 ---
 title: "Madh-e-Shabir Sunane Ka Hunar Jaanta Hoon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:416efdb96b489f9fd088

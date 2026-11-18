@@ -1,10 +1,10 @@
 ---
 title: "ہائے مارا گیا کلَ ایمان ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:cbfc02588b849db2e128

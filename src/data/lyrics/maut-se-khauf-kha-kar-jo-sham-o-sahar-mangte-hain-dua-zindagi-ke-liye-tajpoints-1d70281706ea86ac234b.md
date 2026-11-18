@@ -1,11 +1,11 @@
 ---
 title: "Maut Se Khauf Kha Kar Jo Sham-o-Sahar Mangte Hain Dua Zindagi Ke Liye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Saeed"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1d70281706ea86ac234b

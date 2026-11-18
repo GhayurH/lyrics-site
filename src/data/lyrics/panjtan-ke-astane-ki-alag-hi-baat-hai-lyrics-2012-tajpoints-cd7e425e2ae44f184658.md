@@ -1,11 +1,11 @@
 ---
 title: "Panjtan Ke Astane Ki Alag Hi Baat Hai Lyrics 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cd7e425e2ae44f184658

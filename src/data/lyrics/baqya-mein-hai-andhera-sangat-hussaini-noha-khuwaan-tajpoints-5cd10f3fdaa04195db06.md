@@ -1,11 +1,11 @@
 ---
 title: "Baqya Mein Hai Andhera Sangat Hussaini Noha Khuwaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5cd10f3fdaa04195db06

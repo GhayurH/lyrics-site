@@ -1,6 +1,6 @@
 ---
 title: "Baat Aayegi Parde Ki To Yaad Aayegi Zainab (S.A)"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

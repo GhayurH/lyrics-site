@@ -1,11 +1,11 @@
 ---
 title: "Aj Mola Ali Ki Aamad Hai Kashan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Kashan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dc92ff7d5ce608d60ad8

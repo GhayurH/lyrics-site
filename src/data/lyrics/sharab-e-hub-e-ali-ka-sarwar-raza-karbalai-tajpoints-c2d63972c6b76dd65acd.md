@@ -1,11 +1,11 @@
 ---
 title: "Sharab-e-Hub-e-Ali Ka Sarwar Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c2d63972c6b76dd65acd

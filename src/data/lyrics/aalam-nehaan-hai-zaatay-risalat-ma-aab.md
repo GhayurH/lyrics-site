@@ -1,6 +1,6 @@
 ---
 title: "Aalam Nehaan Hai Zaatay Risalat Ma’aab"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

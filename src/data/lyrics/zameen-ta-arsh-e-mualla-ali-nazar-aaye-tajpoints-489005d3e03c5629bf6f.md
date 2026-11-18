@@ -1,11 +1,11 @@
 ---
 title: "Zameen Ta Arsh-e-Mualla Ali Nazar Aaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:489005d3e03c5629bf6f

@@ -1,11 +1,11 @@
 ---
 title: "Galay Pe Taig Hai Ghazi Bachane Aa Jao"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Naqsh"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3b09dd0422f155b3bbfd

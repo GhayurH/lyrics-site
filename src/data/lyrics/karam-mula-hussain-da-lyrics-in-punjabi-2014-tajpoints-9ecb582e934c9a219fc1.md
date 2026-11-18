@@ -1,11 +1,11 @@
 ---
 title: "Karam Mula Hussain Da Lyrics In Punjabi 2014"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9ecb582e934c9a219fc1

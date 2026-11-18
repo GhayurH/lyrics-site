@@ -1,6 +1,6 @@
 ---
 title: "Allah Manzoor Jay Kaar Lenda Dua Sughra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

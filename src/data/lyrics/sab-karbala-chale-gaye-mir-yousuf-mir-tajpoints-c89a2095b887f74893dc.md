@@ -1,10 +1,10 @@
 ---
 title: "Sab Karbala Chale Gaye Mir Yousuf Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c89a2095b887f74893dc

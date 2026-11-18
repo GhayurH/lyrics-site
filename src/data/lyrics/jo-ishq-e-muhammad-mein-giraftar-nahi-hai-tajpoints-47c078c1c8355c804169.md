@@ -1,11 +1,11 @@
 ---
 title: "Jo Ishq-e-Muhammad Mein Giraftar Nahi Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:47c078c1c8355c804169

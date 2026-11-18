@@ -1,6 +1,6 @@
 ---
 title: "Bus Itna Bata Do Mera Abbas Kahan Tha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

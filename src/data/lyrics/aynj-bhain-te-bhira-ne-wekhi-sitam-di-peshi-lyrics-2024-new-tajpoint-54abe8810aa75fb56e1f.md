@@ -1,11 +1,11 @@
 ---
 title: "Aynj Bhain Te Bhira Ne Wekhi Sitam Di Peshi Lyrics 2024 New"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:54abe8810aa75fb56e1f

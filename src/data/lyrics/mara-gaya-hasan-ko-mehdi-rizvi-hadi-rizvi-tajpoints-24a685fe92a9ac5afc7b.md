@@ -1,11 +1,11 @@
 ---
 title: "Mara Gaya Hasan Ko Mehdi Rizvi Hadi Rizvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:24a685fe92a9ac5afc7b

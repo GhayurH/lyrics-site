@@ -1,11 +1,11 @@
 ---
 title: "Akbar Diyan Aakhri Sahwan Ne Rab Khair Kare Sughra Di Lyrics Punjabi 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f8446aae5b7498c55f62

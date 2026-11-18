@@ -1,11 +1,11 @@
 ---
 title: "Kya Ummat-e-Ahmad Mein Musalman Koi Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e59a0cbae6a2d6e62602

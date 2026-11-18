@@ -1,11 +1,11 @@
 ---
 title: "Mere Rashke Qamar Tune Pehli Nazar Jab Nazar Se Milayi Maza Aa Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Fanaa"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8ad08db0fc87cc16f5c7

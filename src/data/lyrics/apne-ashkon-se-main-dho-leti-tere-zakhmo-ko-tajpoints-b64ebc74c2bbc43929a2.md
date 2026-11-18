@@ -1,11 +1,11 @@
 ---
 title: "Apne Ashkon Se Main Dho Leti Tere Zakhmo Ko"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sahaab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b64ebc74c2bbc43929a2

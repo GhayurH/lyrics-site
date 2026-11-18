@@ -1,10 +1,10 @@
 ---
 title: "Mazloom Naqi Di Phori Te Sir Pitdi Zahra Aayi Aye Lyrics Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1a1e2b6abd2d1ee0c4d1

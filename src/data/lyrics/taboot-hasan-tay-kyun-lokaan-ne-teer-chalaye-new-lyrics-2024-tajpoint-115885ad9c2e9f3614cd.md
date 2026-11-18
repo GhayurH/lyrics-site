@@ -1,11 +1,11 @@
 ---
 title: "Taboot Hasan Tay Kyun Lokaan Ne Teer Chalaye New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:115885ad9c2e9f3614cd

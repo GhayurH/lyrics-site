@@ -1,10 +1,10 @@
 ---
 title: "Aa Ali Asghar Aa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:376236b98bd1405ae51d

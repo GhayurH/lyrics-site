@@ -1,11 +1,11 @@
 ---
 title: "Saal Bhar Ke Ghamzada Aanso Bahane Aaye Hain Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:61a62fd2bae033a2443e

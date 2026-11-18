@@ -1,10 +1,10 @@
 ---
 title: "اے کربلا ایں نالہ و شیون ایں گریہ و زاری"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:fd041fca005d12b45d2b

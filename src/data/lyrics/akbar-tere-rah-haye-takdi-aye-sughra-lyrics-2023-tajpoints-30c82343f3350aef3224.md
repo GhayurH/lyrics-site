@@ -1,11 +1,11 @@
 ---
 title: "Akbar Tere Rah Haye Takdi Aye Sughra Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:30c82343f3350aef3224

@@ -1,6 +1,6 @@
 ---
 title: "Bano Kahan Talash Karein Apne Laal Ko"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

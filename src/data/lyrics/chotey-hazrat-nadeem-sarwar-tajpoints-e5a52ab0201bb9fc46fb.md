@@ -1,10 +1,10 @@
 ---
 title: "Chotey Hazrat Nadeem Sarwar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e5a52ab0201bb9fc46fb

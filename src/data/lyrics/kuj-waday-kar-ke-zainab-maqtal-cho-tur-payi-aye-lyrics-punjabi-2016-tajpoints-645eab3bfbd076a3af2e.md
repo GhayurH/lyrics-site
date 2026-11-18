@@ -1,11 +1,11 @@
 ---
 title: "Kuj Waday Kar Ke Zainab Maqtal Cho Tur Payi Aye Lyrics Punjabi 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeshaan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:645eab3bfbd076a3af2e

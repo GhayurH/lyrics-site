@@ -1,11 +1,11 @@
 ---
 title: "Akbar De Naal Lasha Zainab Da Cha Nayi Sakda Lyrics Punjabi 2026 Parveiz Asghar Khan Party Sialkot"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:3d2be231886300a23f6d

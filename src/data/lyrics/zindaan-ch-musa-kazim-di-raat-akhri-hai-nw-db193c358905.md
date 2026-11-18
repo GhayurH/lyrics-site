@@ -1,6 +1,6 @@
 ---
 title: "Zindaan Ch Musa Kazim Di Raat Akhri Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

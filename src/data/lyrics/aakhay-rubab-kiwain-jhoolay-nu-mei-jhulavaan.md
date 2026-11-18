@@ -1,6 +1,6 @@
 ---
 title: "Aakhay Rubab Kiwain Jhoolay Nu Mei Jhulavaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,11 +1,11 @@
 ---
 title: "Sakina Haye Qaid Muk Gayi Tauq Leh Gaye Bemar De Asghar Khan Lyrics 2013"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nadir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:530874d0596b4ed52916

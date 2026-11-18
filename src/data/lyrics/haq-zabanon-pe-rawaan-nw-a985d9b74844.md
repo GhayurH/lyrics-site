@@ -1,6 +1,6 @@
 ---
 title: "Haq Zabanon Pe Rawaan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,6 +1,6 @@
 ---
 title: "Ghairat Da Kaaba Logon Mola Mera Sajjad Ay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

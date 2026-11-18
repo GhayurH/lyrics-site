@@ -1,11 +1,11 @@
 ---
 title: "Ridawan Qaid Hogayiyan Mir Hasan Mir Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b0dd9e40763c1f4bf897

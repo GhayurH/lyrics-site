@@ -1,11 +1,11 @@
 ---
 title: "Waar Zalim Ne Chalaya Murtaza Ameer Te Lyrics Punjabi 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:163d1d0fcd74bcf0930d

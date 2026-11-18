@@ -1,11 +1,11 @@
 ---
 title: "Sham Ke Bazar Mein Hai Charagaan Chaar Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8e71ca6e5428f7ae0a5a

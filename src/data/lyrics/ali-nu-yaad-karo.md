@@ -1,10 +1,10 @@
 ---
 title: "Ali Nu Yaad Karo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # Consolidated from three consecutive Tajpoints pages, in source order.

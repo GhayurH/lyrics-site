@@ -1,11 +1,11 @@
 ---
 title: "Sitam Mujh Pe Hoye Baba Zia Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zia"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:10f341b9432596862eef

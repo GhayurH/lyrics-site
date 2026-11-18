@@ -1,11 +1,11 @@
 ---
 title: "Hasnain Jadoon Babay Da Taboot Uthaya Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:390033863683761180ba

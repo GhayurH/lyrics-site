@@ -1,11 +1,11 @@
 ---
 title: "Putraan De Baaj Kiwein Maan Eid Manaway Gi Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b7029f8e01f185764ca5

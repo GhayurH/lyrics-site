@@ -1,11 +1,11 @@
 ---
 title: "Sar-e-Hussain Kata Hai Jiss Ibteda Ke Liye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Navaid"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:051d56749ba1c857cba4

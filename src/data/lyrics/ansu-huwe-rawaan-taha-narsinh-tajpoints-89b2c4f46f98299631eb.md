@@ -1,11 +1,11 @@
 ---
 title: "Ansu Huwe Rawaan Taha Narsinh"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saaib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:89b2c4f46f98299631eb

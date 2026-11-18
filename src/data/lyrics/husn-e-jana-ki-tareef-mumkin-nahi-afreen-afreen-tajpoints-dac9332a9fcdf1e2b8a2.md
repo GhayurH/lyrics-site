@@ -1,10 +1,10 @@
 ---
 title: "Husn-e-Jana Ki Tareef Mumkin Nahi Afreen Afreen"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dac9332a9fcdf1e2b8a2

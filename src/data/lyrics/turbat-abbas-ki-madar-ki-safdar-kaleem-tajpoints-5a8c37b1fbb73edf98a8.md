@@ -1,11 +1,11 @@
 ---
 title: "Turbat Abbas Ki Madar Ki Safdar Kaleem"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5a8c37b1fbb73edf98a8

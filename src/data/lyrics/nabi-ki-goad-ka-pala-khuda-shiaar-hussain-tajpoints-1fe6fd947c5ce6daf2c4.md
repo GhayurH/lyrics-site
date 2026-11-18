@@ -1,11 +1,11 @@
 ---
 title: "Nabi Ki Goad Ka Pala Khuda Shiaar Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1fe6fd947c5ce6daf2c4

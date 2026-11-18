@@ -1,10 +1,10 @@
 ---
 title: "Roi Jab Ladli Muhammad Ki Kazmi Brothers"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:534613eddfb96624f5b8

@@ -1,11 +1,11 @@
 ---
 title: "Dum Mera Ghutne Laga Rasiyaan Khole Koi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Salamat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:490bf0bc01f93d3e1bb0

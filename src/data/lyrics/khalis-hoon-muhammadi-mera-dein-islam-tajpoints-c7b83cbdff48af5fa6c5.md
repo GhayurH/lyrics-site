@@ -1,10 +1,10 @@
 ---
 title: "Khalis Hoon Muhammadi Mera Dein Islam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c7b83cbdff48af5fa6c5

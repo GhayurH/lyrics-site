@@ -1,6 +1,6 @@
 ---
 title: "Wo Itni Khush Nazar Aati Hai Lal Kapron Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

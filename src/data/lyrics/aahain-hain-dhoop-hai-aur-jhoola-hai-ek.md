@@ -1,6 +1,6 @@
 ---
 title: "Aahain Hain Dhoop Hai Aur Jhoola hai ek"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

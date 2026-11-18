@@ -1,11 +1,11 @@
 ---
 title: "Kis Ne Sang-e-Khamshi Phainka Bhare Bazaar Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:72c8e34f2a397628c940

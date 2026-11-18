@@ -1,11 +1,11 @@
 ---
 title: "Dowaan Putraan Nu Lay Ke Zahra Jadon Wich Darbar De Aayi Lyrics Ayyam E Fatamiya 2025 New Noha MSO"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:1e3345d2305c136f39a4

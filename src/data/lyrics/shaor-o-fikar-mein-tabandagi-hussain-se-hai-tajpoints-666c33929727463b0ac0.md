@@ -1,11 +1,11 @@
 ---
 title: "Shaor-o-Fikar Mein Tabandagi Hussain Se Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:666c33929727463b0ac0

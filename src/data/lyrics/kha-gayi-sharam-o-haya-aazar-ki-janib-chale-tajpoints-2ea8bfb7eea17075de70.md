@@ -1,11 +1,11 @@
 ---
 title: "Kha Gayi Sharam O Haya Aazar Ki Janib Chale"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2ea8bfb7eea17075de70

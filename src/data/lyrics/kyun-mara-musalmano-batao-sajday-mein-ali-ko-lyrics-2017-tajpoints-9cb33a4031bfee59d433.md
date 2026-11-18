@@ -1,11 +1,11 @@
 ---
 title: "Kyun Mara Musalmano Batao Sajday Mein Ali Ko Lyrics 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9cb33a4031bfee59d433

@@ -1,6 +1,6 @@
 ---
 title: "Barbadi Jo Aa Matam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

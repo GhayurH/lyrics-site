@@ -1,11 +1,11 @@
 ---
 title: "Maa Sochti Hai Kaise Tamana Baiyaan Ho Lyrics 2016"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:727316b08073e04d667c

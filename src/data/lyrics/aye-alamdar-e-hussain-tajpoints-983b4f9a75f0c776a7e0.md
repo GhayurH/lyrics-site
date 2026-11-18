@@ -1,10 +1,10 @@
 ---
 title: "Aye Alamdar E Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:983b4f9a75f0c776a7e0

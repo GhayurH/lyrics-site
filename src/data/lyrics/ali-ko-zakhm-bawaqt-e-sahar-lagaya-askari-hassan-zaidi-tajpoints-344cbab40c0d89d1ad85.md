@@ -1,11 +1,11 @@
 ---
 title: "Ali Ko Zakhm Bawaqt E Sahar Lagaya Askari Hassan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Askari"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:344cbab40c0d89d1ad85

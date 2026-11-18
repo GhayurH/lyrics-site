@@ -1,11 +1,11 @@
 ---
 title: "Quran Mustafa Hain To Yaseen Fatima Sibtain Haider"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mehdi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:fe21ce29a21affc3b79a

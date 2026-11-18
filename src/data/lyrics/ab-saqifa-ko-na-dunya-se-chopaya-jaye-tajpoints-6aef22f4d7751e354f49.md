@@ -1,11 +1,11 @@
 ---
 title: "Ab Saqifa Ko Na Dunya Se Chopaya Jaye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Joun"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6aef22f4d7751e354f49

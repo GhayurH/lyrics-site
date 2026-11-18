@@ -1,11 +1,11 @@
 ---
 title: "Karachi Dharna 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4cf61bbdcfc185e8d3e2

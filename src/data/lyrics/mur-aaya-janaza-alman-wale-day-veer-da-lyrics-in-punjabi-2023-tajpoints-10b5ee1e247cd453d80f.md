@@ -1,10 +1,10 @@
 ---
 title: "Mur Aaya Janaza Alman Wale Day Veer Da Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:10b5ee1e247cd453d80f

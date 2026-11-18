@@ -1,10 +1,10 @@
 ---
 title: "برسات میں تیروں کی یہ کس کا جنازہ ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8030394a922351287c35

@@ -1,10 +1,10 @@
 ---
 title: "یوں باغیوں نے لُوٹا باغِ شہہِ زمنؑ کو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a144aa8039e0768938d6

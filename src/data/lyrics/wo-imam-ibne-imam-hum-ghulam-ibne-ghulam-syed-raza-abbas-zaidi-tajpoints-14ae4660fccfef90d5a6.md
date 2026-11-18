@@ -1,11 +1,11 @@
 ---
 title: "Wo Imam Ibne Imam Hum Ghulam Ibne Ghulam Syed Raza Abbas Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:14ae4660fccfef90d5a6

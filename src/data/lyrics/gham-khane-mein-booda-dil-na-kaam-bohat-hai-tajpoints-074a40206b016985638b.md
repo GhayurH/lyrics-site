@@ -1,11 +1,11 @@
 ---
 title: "Gham Khane Mein Booda Dil Na Kaam Bohat Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ghalib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:074a40206b016985638b

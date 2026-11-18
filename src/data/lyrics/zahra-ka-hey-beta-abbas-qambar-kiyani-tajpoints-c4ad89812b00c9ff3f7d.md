@@ -1,11 +1,11 @@
 ---
 title: "Zahra Ka Hey Beta Abbas Qambar Kiyani"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c4ad89812b00c9ff3f7d

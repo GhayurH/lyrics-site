@@ -1,11 +1,11 @@
 ---
 title: "نے شیر کا لاشہ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Meesum Abbas"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:7c97ff44ad875d25f955

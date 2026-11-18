@@ -1,11 +1,11 @@
 ---
 title: "Aya Na Hoga Iss Tarha Rang-o-Shabab Rait Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Adeeb"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ec33082982e699b8412a

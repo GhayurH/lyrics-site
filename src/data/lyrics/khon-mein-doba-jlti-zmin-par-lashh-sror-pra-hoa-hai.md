@@ -1,10 +1,10 @@
 ---
 title: "خون میں ڈوبا جلتی زمیں پر لاشہءِ سرورؑ پڑا ہوا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:c9c03c8527d04c97c6ac

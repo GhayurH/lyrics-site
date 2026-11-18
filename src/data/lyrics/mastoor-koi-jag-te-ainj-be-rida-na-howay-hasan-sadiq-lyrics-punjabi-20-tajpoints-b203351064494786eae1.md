@@ -1,11 +1,11 @@
 ---
 title: "Mastoor Koi Jag Te Ainj Be Rida Na Howay Hasan Sadiq Lyrics Punjabi 2003"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Riaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b203351064494786eae1

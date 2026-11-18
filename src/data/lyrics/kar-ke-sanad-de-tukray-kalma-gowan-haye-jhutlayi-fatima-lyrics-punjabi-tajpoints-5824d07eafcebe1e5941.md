@@ -1,11 +1,11 @@
 ---
 title: "Kar Ke Sanad De Tukray Kalma Gowan Haye Jhutlayi Fatima Lyrics Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tosif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5824d07eafcebe1e5941

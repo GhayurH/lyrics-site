@@ -1,11 +1,11 @@
 ---
 title: "Aye Khoni Lariyaan Wala Sehra Qasim Ne Paya Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c3699b221a553a32afad

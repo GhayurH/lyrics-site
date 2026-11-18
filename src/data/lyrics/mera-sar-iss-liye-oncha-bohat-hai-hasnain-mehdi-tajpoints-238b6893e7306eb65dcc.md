@@ -1,11 +1,11 @@
 ---
 title: "Mera Sar Iss Liye Oncha Bohat Hai Hasnain Mehdi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:238b6893e7306eb65dcc

@@ -1,11 +1,11 @@
 ---
 title: "Yeh Mah-e-Muharram Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shanawar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d2394cfbfdb2b9872800

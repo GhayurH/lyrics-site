@@ -1,11 +1,11 @@
 ---
 title: "Aa Rahi Hai Roza-e-Zainab Se"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f084e885a77493db7118

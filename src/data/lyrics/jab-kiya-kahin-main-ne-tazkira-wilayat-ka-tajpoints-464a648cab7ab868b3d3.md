@@ -1,11 +1,11 @@
 ---
 title: "Jab Kiya Kahin Main Ne Tazkira Wilayat Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:464a648cab7ab868b3d3

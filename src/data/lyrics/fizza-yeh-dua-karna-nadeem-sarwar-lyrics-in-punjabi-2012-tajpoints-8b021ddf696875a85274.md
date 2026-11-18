@@ -1,11 +1,11 @@
 ---
 title: "Fizza Yeh Dua Karna Nadeem Sarwar Lyrics In Punjabi 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Jawad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8b021ddf696875a85274

@@ -1,10 +1,10 @@
 ---
 title: "Maalik Ya Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # Consolidated consecutive source pages; page-order and provenance retained.

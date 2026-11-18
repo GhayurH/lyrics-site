@@ -1,11 +1,11 @@
 ---
 title: "Ye Chaand Kaisa Nikla Hai Al-e-Nabi Pe"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6ee7bee70bee8b31a777

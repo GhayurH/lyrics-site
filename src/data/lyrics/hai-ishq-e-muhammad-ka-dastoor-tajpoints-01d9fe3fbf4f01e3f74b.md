@@ -1,11 +1,11 @@
 ---
 title: "Hai Ishq E Muhammad Ka Dastoor"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:01d9fe3fbf4f01e3f74b

@@ -1,10 +1,10 @@
 ---
 title: "کون ہے یہ مستور جو اب تک اصغرؑ اصغرؑ کہتی ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:a75bfd1fffed152c8754

@@ -1,10 +1,10 @@
 ---
 title: "Wo Jiss Kissi Ko Hai Paas-e-Shahadat-e-Uzma"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f12fd86220939f853645

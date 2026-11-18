@@ -1,6 +1,6 @@
 ---
 title: "Al Madad Mola Raza Aye Mere Mola Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"

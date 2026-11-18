@@ -1,11 +1,11 @@
 ---
 title: "Sakhawaton Ke Samandar Hain Imam Zamin Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yousufi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:60f35708efe834e4d822

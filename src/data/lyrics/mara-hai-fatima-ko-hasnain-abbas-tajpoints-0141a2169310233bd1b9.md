@@ -1,11 +1,11 @@
 ---
 title: "Mara Hai Fatima Ko Hasnain Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Aasi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0141a2169310233bd1b9

@@ -1,6 +1,6 @@
 ---
 title: "Jaisi Sorat Ain Di Waisi Sorat Gain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

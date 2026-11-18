@@ -1,11 +1,11 @@
 ---
 title: "Har Fazeelat Ki Khuda Ne Aal E Paigambar Ke Naam"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:30c44d542fc197f08c61

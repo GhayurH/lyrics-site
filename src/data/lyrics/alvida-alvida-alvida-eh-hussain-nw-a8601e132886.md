@@ -1,6 +1,6 @@
 ---
 title: "Alvida Alvida Alvida eh Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

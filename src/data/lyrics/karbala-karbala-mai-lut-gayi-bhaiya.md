@@ -1,10 +1,10 @@
 ---
 title: "کربلا کربلا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:25a82c43e6508aecf15c

@@ -1,6 +1,6 @@
 ---
 title: "Jab Chaand Muharram Ka Aata Hai Nazar Logon"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

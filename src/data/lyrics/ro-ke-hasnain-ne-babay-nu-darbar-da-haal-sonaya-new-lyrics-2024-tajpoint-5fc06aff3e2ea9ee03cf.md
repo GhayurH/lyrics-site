@@ -1,11 +1,11 @@
 ---
 title: "Ro Ke Hasnain Ne Babay Nu Darbar Da Haal Sonaya New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Soz"
 poet: "Yousuf"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:5fc06aff3e2ea9ee03cf

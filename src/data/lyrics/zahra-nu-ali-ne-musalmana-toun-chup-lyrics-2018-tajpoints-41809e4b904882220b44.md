@@ -1,11 +1,11 @@
 ---
 title: "Zahra Nu Ali Ne Musalmana Toun Chup Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:41809e4b904882220b44

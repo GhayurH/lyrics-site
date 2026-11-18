@@ -1,11 +1,11 @@
 ---
 title: "Nana Bazaraan Wich Main Qambar Kiyani Lyrics Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7762c78f4101bcb4dd9f

@@ -1,6 +1,6 @@
 ---
 title: "Jab Qata Ki Masafat e Shab Aaftaab Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

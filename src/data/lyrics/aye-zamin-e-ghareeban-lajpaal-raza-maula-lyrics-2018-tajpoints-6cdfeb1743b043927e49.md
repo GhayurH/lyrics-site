@@ -1,11 +1,11 @@
 ---
 title: "Aye Zamin E Ghareeban Lajpaal Raza Maula Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6cdfeb1743b043927e49

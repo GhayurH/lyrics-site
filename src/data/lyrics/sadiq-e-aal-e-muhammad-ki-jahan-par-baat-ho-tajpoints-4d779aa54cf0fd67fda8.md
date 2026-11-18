@@ -1,11 +1,11 @@
 ---
 title: "Sadiq E Aal E Muhammad Ki Jahan Par Baat Ho"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Salam"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4d779aa54cf0fd67fda8

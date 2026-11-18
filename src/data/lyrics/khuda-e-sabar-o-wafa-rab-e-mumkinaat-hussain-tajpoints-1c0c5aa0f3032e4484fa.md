@@ -1,11 +1,11 @@
 ---
 title: "Khuda-e-Sabar-o-Wafa Rab-e-Mumkinaat Hussain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:1c0c5aa0f3032e4484fa

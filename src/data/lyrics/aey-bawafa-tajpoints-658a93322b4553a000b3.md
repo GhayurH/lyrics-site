@@ -1,10 +1,10 @@
 ---
 title: "Aey Bawafa"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:658a93322b4553a000b3

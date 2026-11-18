@@ -1,11 +1,11 @@
 ---
 title: "Shoor Sa Barpa Hai Kyun Medan Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5f3071f2e17f814ba9d5

@@ -1,11 +1,11 @@
 ---
 title: "Jab Dil Ne Ya Hussain Kaha Joan Rizvi Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e0f74804daf5ffc7634b

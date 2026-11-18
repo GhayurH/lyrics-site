@@ -1,6 +1,6 @@
 ---
 title: "Aik Nezay Per Rida Thi, Aik Pay Sar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

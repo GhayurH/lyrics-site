@@ -1,11 +1,11 @@
 ---
 title: "Karbala Ka Aaya Manzar Fatima Ke Samne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:138771d3cf37d0bb249a

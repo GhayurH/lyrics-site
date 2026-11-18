@@ -1,11 +1,11 @@
 ---
 title: "Minal Hussain Ki Tafseer Hain Ali Akbar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sahil"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3ef34b545bfb0f3fcc64

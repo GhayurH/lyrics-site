@@ -1,11 +1,11 @@
 ---
 title: "Dar-e-Fatima Zahra Se Dhuwaan Uthta Tha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasnain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:cb6bb30a0969a9fc19b0

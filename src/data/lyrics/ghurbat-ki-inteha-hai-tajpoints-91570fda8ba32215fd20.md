@@ -1,11 +1,11 @@
 ---
 title: "Ghurbat Ki Inteha Hai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Aqeel"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:91570fda8ba32215fd20

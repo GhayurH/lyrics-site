@@ -1,11 +1,11 @@
 ---
 title: "Kya Karbala Shahadat E Zahra Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kaleem"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:76a30a3a4b62eff66aa0

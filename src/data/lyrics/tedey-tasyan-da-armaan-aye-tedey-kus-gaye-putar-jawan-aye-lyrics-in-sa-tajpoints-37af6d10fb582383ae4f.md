@@ -1,11 +1,11 @@
 ---
 title: "Tedey Tasyan Da Armaan Aye Tedey Kus Gaye Putar Jawan Aye Lyrics In Saraiki 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Maqbool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:37af6d10fb582383ae4f

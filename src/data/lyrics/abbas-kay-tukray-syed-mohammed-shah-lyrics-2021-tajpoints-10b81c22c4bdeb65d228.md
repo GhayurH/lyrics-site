@@ -1,10 +1,10 @@
 ---
 title: "Abbas Kay Tukray Syed Mohammed Shah Lyrics 2021"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:10b81c22c4bdeb65d228

@@ -1,11 +1,11 @@
 ---
 title: "Surah-e-Fajr Ki Zia Meesum Kashmiri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Iram"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d437478cb4bcd0f28f80

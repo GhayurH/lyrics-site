@@ -1,11 +1,11 @@
 ---
 title: "Aao Hum Bazm-e-Nabi Aaj Sajaein Logo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Farman"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f3adad50656d235c42f8

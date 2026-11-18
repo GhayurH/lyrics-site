@@ -1,11 +1,11 @@
 ---
 title: "Islam Ki Tarveej Ka Unwan Khadija Rehan Azmi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e8d708ee278e4493416d

@@ -1,10 +1,10 @@
 ---
 title: "Main Mohsin Hun Pehlu Shikasta Maa Safi Raza"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e6cdb173199221679c05

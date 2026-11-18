@@ -1,6 +1,6 @@
 ---
 title: "Lut Layi Paak Zainab Di Musalamana Rida"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

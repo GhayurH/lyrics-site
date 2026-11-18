@@ -1,11 +1,11 @@
 ---
 title: "Wazu Hanjwan Da Kita Aye Tera Noha Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b6ab5354f713dbc97030

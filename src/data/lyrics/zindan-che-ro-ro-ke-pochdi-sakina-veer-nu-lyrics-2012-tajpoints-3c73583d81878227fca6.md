@@ -1,11 +1,11 @@
 ---
 title: "Zindan Che Ro Ro Ke Pochdi Sakina Veer Nu Lyrics 2012"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3c73583d81878227fca6

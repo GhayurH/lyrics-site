@@ -1,10 +1,10 @@
 ---
 title: "Pamaliy E Lash E Hussain Wajhi Hasan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b98de1a0d0153fcbe66a

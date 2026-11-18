@@ -1,6 +1,6 @@
 ---
 title: "Nahi Bhulna Haye Sain Ruqaiyya Nu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

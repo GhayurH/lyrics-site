@@ -1,6 +1,6 @@
 ---
 title: "Thi Ran Mein Sada Nara e Takbeer Ko Maaro"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

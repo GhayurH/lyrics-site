@@ -1,11 +1,11 @@
 ---
 title: "Zikar-e-Hussain Zikar-e-Khuda Aik Baat"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Kashif"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3a4840d1b90501511345

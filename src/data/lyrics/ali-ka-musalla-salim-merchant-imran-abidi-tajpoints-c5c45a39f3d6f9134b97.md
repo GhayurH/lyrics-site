@@ -1,10 +1,10 @@
 ---
 title: "Ali Ka Musalla Salim Merchant Imran Abidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c5c45a39f3d6f9134b97

@@ -1,11 +1,11 @@
 ---
 title: "De Gawahi Ye Kainat Teri"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Hamd"
 poet: "Mumtaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9195d73cb39f4cdb32b7

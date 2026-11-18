@@ -1,11 +1,11 @@
 ---
 title: "مولاؑ ماں ام البنینؑ سے مت کہنا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Meer Hasan Meer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:e7217a95d1a250b1e15f

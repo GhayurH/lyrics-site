@@ -1,11 +1,11 @@
 ---
 title: "Baghdad Diyan Qaidan Ne Kazim Nu Mar Mukaya Lyrics Punjabi 2026"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e4b54ecb030e88a80d01

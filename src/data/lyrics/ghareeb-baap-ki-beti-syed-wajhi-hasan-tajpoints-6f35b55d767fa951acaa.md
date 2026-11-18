@@ -1,11 +1,11 @@
 ---
 title: "Ghareeb Baap Ki Beti Syed Wajhi Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajih"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6f35b55d767fa951acaa

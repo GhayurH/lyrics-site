@@ -1,11 +1,11 @@
 ---
 title: "Madh E Raza Mir Yousuf Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yousuf"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:99e6792211f592d7939f

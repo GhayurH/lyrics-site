@@ -1,11 +1,11 @@
 ---
 title: "الاماں الاماں - گستاخوں کے ہجوم میں زینبؑ تھی درمیاں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Chakwal Party"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:030feecb6ec5a52e1337

@@ -1,11 +1,11 @@
 ---
 title: "Do Shahzaday Hain Aun-o-Muhammad Sabeeh Hassan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a30461c4c4ba5355bb50

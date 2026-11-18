@@ -1,11 +1,11 @@
 ---
 title: "Lanat Bar Dushman E Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mazhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:a1aa0c3bda5eb3c563b0

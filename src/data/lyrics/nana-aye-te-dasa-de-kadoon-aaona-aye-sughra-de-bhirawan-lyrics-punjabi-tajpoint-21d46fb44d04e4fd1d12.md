@@ -1,11 +1,11 @@
 ---
 title: "Nana Aye Te Dasa De Kadoon Aaona Aye Sughra De Bhirawan Lyrics Punjabi 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:21d46fb44d04e4fd1d12

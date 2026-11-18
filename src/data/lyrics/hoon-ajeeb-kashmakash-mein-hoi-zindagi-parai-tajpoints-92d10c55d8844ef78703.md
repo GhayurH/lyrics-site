@@ -1,10 +1,10 @@
 ---
 title: "Hoon Ajeeb Kashmakash Mein Hoi Zindagi Parai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:92d10c55d8844ef78703

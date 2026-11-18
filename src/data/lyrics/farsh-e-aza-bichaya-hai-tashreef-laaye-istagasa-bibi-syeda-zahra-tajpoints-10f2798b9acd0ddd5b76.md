@@ -1,11 +1,11 @@
 ---
 title: "Farsh E Aza Bichaya Hai Tashreef Laaye Istagasa Bibi Syeda Zahra"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:10f2798b9acd0ddd5b76

@@ -1,11 +1,11 @@
 ---
 title: "Rukh E Murtaza Dekh Kar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d703bd2942fb075d400c

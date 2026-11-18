@@ -1,11 +1,11 @@
 ---
 title: "Lokan Ne Marya Kyun Sajday Che Murtaza Nu Lyrics New Noha 24 Ramzan 2026 Hazrat Ali AS Shahadat Noha"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:4ebfd346d156e0c6a0d9

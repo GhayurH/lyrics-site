@@ -1,6 +1,6 @@
 ---
 title: "Zahra De Janazay Te Zainab Ro Ro Kay Vain Ay Kardi Ay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

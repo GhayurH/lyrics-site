@@ -1,11 +1,11 @@
 ---
 title: "Aye Alamdar E Wafa Bazo Katanay Walay Hasan Sadiq Lyrics 1994"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5ad12209776d61a9885a

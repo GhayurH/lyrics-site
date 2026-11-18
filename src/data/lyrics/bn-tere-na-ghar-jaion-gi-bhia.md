@@ -1,10 +1,10 @@
 ---
 title: "بن تیرے نہ گھر جائوں گی بھیا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:962b15cbe91043e960da

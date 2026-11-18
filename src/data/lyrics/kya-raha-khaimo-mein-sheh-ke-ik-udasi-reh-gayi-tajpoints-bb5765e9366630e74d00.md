@@ -1,11 +1,11 @@
 ---
 title: "Kya Raha Khaimo Mein Sheh Ke Ik Udasi Reh Gayi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rehan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bb5765e9366630e74d00

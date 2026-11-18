@@ -1,11 +1,11 @@
 ---
 title: "Ism E Mohammad Ko Chomte Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d03e14dc726be02348d0

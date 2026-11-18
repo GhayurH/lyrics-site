@@ -1,6 +1,6 @@
 ---
 title: "Haye Sajjad Diyan Akhian Lahoo Rondiyan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

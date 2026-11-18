@@ -1,11 +1,11 @@
 ---
 title: "Eid E Zahra Hai Sab Se Juda Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Aarzoo"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:408e25475ad652c45762

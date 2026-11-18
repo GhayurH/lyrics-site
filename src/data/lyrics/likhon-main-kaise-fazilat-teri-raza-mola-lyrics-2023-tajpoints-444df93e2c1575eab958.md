@@ -1,11 +1,11 @@
 ---
 title: "Likhon Main Kaise Fazilat Teri Raza Mola Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Taseer"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:444df93e2c1575eab958

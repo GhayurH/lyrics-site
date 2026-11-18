@@ -1,11 +1,11 @@
 ---
 title: "Sana E Zahra Ny Qamar Abbas Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7959067b5cebbff776a2

@@ -1,11 +1,11 @@
 ---
 title: "Aye Muntaqim Imam E Zamaan Hujjat E Khuda Kab Ho Ga Intiqam E Shaheedan E Karbala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0b6f6d80bc1cce95b300

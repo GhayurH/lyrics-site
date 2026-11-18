@@ -1,10 +1,10 @@
 ---
 title: "سجادؑ خوں رو کے کہتا تھا ہر بشر سے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:49f7b352216cfb19dba8

@@ -1,10 +1,10 @@
 ---
 title: "بابا میرے اصغرؑ کو میری گود میں دے دو"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:67d9eeba6c8195bddfbf

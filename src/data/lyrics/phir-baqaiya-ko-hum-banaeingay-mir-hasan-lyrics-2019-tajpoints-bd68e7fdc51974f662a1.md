@@ -1,11 +1,11 @@
 ---
 title: "Phir Baqaiya Ko Hum Banaeingay Mir Hasan Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:bd68e7fdc51974f662a1

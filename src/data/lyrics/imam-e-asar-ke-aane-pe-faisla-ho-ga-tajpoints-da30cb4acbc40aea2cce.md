@@ -1,11 +1,11 @@
 ---
 title: "Imam-e-Asar Ke Aane Pe Faisla Ho Ga"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:da30cb4acbc40aea2cce

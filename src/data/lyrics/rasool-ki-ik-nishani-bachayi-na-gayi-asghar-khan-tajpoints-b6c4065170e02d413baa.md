@@ -1,11 +1,11 @@
 ---
 title: "Rasool Ki Ik Nishani Bachayi Na Gayi Asghar Khan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Salamat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:b6c4065170e02d413baa

@@ -1,11 +1,11 @@
 ---
 title: "Beemar Layi Dohri Mushkil Aye Kinj Qabar Lyrics 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:01cfd1fa758b563a135e

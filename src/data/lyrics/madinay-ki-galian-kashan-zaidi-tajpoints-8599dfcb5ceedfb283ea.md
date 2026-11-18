@@ -1,11 +1,11 @@
 ---
 title: "Madinay Ki Galian Kashan Zaidi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kashan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:8599dfcb5ceedfb283ea

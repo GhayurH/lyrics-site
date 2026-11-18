@@ -1,11 +1,11 @@
 ---
 title: "Kujh Nayi Si Mangiya Abid Ne Bas Sir Diyaan Chadraan New Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:ba6634a7b2f2155e0a8b

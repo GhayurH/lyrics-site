@@ -1,11 +1,11 @@
 ---
 title: "Tum Nahi Jao Maa Mirza Ali Hassan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:137db34abe197d88029f

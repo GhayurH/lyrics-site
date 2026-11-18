@@ -1,10 +1,10 @@
 ---
 title: "Ro Rahi Hai Tujhe Karbala Syeda Sajjad Ashraf Taqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:92c7ff1ecc81b580aba0

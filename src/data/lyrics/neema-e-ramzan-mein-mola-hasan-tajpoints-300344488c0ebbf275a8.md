@@ -1,11 +1,11 @@
 ---
 title: "Neema E Ramzan Mein Mola Hasan"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:300344488c0ebbf275a8

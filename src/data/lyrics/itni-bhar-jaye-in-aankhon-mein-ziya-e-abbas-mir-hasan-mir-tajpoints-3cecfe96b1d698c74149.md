@@ -1,11 +1,11 @@
 ---
 title: "Itni Bhar Jaye In Aankhon Mein Ziya-e-Abbas Mir Hasan Mir"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Mussadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3cecfe96b1d698c74149

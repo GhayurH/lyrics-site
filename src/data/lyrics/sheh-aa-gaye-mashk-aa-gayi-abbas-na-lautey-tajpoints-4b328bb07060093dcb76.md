@@ -1,10 +1,10 @@
 ---
 title: "Sheh Aa Gaye Mashk Aa Gayi Abbas Na Lautey"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4b328bb07060093dcb76

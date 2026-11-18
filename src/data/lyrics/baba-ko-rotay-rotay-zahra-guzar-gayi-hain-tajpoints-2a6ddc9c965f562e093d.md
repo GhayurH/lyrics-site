@@ -1,11 +1,11 @@
 ---
 title: "Baba Ko Rotay Rotay Zahra Guzar Gayi Hain"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2a6ddc9c965f562e093d

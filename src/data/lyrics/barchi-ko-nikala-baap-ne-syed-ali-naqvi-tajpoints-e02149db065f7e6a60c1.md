@@ -1,11 +1,11 @@
 ---
 title: "Barchi Ko Nikala Baap Ne Syed Ali Naqvi"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e02149db065f7e6a60c1

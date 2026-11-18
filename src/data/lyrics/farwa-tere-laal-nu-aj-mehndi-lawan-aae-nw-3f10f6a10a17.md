@@ -1,6 +1,6 @@
 ---
 title: "Farwa Tere Laal Nu, Aj Mehndi Lawan Aae"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

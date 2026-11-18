@@ -1,10 +1,10 @@
 ---
 title: "ایا ہے علم اور علمدار نہ آیا"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8670d2101b45f40c5983

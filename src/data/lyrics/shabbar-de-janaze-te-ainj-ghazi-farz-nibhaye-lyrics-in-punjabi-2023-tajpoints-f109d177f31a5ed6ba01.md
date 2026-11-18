@@ -1,11 +1,11 @@
 ---
 title: "Shabbar De Janaze Te Ainj Ghazi Farz Nibhaye Lyrics In Punjabi 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:f109d177f31a5ed6ba01

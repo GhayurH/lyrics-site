@@ -1,11 +1,11 @@
 ---
 title: "Ye Ro Kay Ghazi Say Bolay Haider Ali Raza Karbalai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c0ae69bb5de78b4a5c4c

@@ -1,11 +1,11 @@
 ---
 title: "Maula Maula Haider Haider Boltay Rahiye"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6ff2f47d61f4a780f61b

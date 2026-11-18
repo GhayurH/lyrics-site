@@ -1,11 +1,11 @@
 ---
 title: "Fatima Hai Rizwan Zaidi Sons"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Rizwan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:21175ee2d4b8e6486ca5

@@ -1,11 +1,11 @@
 ---
 title: "Na Koi Din Ashor Sa Hai Na Koi Zameen Hai Karb-o-Bala"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Wajhi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4e17595587db4a155acb

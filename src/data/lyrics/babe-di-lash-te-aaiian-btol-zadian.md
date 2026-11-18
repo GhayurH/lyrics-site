@@ -1,10 +1,10 @@
 ---
 title: "بابے دی لاش تے آئیاں بتولؑ زادیاں"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:8adc315b97ccbb7aba46

@@ -1,11 +1,11 @@
 ---
 title: "Ya Babul Hawaij Alamdaar Gohar Iqbal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Asad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:d30f47d1f0bbf9b5e8b5

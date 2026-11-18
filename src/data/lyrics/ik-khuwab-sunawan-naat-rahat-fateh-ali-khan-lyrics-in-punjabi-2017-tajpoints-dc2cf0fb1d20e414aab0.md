@@ -1,11 +1,11 @@
 ---
 title: "Ik Khuwab Sunawan Naat Rahat Fateh Ali Khan Lyrics In Punjabi 2017"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Sadiq"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:dc2cf0fb1d20e414aab0

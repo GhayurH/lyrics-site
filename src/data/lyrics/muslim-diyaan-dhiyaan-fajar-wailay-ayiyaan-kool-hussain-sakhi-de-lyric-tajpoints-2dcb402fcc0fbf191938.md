@@ -1,11 +1,11 @@
 ---
 title: "Muslim Diyaan Dhiyaan Fajar Wailay Ayiyaan Kool Hussain Sakhi De Lyrics 2009"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sarwar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:2dcb402fcc0fbf191938

@@ -1,11 +1,11 @@
 ---
 title: "Fazaye Madina Rizwan Zaidi And Sons Lyrics 2024"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Izhar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:9b581f7b4e0ce8cf3246

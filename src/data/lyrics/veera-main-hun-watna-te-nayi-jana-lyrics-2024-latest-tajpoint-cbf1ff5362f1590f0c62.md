@@ -1,11 +1,11 @@
 ---
 title: "Veera Main Hun Watna Te Nayi Jana Lyrics 2024 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:cbf1ff5362f1590f0c62

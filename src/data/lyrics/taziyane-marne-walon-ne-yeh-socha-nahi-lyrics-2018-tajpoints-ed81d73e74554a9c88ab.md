@@ -1,11 +1,11 @@
 ---
 title: "Taziyane Marne Walon Ne Yeh Socha Nahi Lyrics 2018"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:ed81d73e74554a9c88ab

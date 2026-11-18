@@ -1,7 +1,7 @@
 ---
 title: "ہے سب کی جھولیوں میں پتھر"
 alternateTitle: "Hai Sab Ki Jholiyoṅ Meiṅ Patthar"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

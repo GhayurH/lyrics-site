@@ -1,11 +1,11 @@
 ---
 title: "Mehboob E Kibriya Ki Sakina Hai Fatima Lyrics 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Zeeshan"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7f53466a7279b90cd23c

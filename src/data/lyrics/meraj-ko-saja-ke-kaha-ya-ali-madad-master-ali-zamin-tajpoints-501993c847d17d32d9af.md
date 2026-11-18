@@ -1,11 +1,11 @@
 ---
 title: "Meraj Ko Saja Ke Kaha Ya Ali Madad Master Ali Zamin"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Batool"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:501993c847d17d32d9af

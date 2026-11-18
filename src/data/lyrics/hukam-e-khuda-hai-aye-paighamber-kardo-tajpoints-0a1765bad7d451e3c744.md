@@ -1,11 +1,11 @@
 ---
 title: "Hukam-e-Khuda Hai Aye Paighamber Kardo"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Nayab"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:0a1765bad7d451e3c744

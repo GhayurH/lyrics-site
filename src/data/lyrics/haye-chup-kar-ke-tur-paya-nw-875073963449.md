@@ -1,6 +1,6 @@
 ---
 title: "Haye Chup Kar Ke Tur Paya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

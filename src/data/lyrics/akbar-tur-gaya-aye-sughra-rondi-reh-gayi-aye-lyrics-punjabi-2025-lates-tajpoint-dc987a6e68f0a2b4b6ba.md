@@ -1,11 +1,11 @@
 ---
 title: "Akbar Tur Gaya Aye Sughra Rondi Reh Gayi Aye Lyrics Punjabi 2025 Latest"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoint:dc987a6e68f0a2b4b6ba

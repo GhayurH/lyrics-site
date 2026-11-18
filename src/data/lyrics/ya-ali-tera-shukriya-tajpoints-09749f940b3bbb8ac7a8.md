@@ -1,11 +1,11 @@
 ---
 title: "Ya Ali Tera Shukriya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:09749f940b3bbb8ac7a8

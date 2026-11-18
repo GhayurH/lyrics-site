@@ -1,11 +1,11 @@
 ---
 title: "Qabar Mein Ahmad E Mursal Ko Sataya Kis Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Fiyaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:36334c73500d7dd80066

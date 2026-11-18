@@ -1,10 +1,10 @@
 ---
 title: "Hussain Ki Maa Sonu Monu"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:5223be8db06dcb8a1a9d

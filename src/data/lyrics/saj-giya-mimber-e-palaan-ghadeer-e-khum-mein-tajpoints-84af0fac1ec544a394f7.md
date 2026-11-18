@@ -1,11 +1,11 @@
 ---
 title: "Saj Giya Mimber-e-Palaan Ghadeer-e-Khum Mein"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Yasir"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:84af0fac1ec544a394f7

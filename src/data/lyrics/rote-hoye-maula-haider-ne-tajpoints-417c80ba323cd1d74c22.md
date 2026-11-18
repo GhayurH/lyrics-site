@@ -1,11 +1,11 @@
 ---
 title: "Rote Hoye Maula Haider Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:417c80ba323cd1d74c22

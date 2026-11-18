@@ -1,11 +1,11 @@
 ---
 title: "Aata Hai Tishnagi Ka Samandar Furat Par"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c908279442b2a747f14f

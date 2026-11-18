@@ -1,6 +1,6 @@
 ---
 title: "Haye Zahra Ko Sataya Hai Musalmano Ne"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"

@@ -1,10 +1,10 @@
 ---
 title: "دامن سکینہ چھوڑو وہ گزر گیا زمانہ"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:6cf2519ae7af7e33814c

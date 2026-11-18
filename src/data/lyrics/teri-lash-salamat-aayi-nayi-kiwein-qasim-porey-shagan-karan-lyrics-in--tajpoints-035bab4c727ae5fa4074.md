@@ -1,11 +1,11 @@
 ---
 title: "Teri Lash Salamat Aayi Nayi Kiwein Qasim Porey Shagan Karan Lyrics In Punjabi 2020"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ijaz"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:035bab4c727ae5fa4074

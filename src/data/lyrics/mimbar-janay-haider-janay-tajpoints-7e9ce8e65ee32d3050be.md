@@ -1,10 +1,10 @@
 ---
 title: "Mimbar Janay Haider Janay"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7e9ce8e65ee32d3050be

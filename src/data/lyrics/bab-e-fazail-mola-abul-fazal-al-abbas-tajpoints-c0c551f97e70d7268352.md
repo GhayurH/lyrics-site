@@ -1,11 +1,11 @@
 ---
 title: "Bab E Fazail Mola Abul Fazal Al Abbas"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Marsiya"
 poet: "Ahmad"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:c0c551f97e70d7268352

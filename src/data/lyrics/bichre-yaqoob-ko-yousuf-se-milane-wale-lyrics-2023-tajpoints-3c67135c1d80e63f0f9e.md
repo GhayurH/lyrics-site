@@ -1,11 +1,11 @@
 ---
 title: "Bichre Yaqoob Ko Yousuf Se Milane Wale Lyrics 2023"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:3c67135c1d80e63f0f9e

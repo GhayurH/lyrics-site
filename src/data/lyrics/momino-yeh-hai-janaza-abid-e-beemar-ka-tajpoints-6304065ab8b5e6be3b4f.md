@@ -1,11 +1,11 @@
 ---
 title: "Momino Yeh Hai Janaza Abid-e-Beemar Ka"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Shajeeha"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:6304065ab8b5e6be3b4f

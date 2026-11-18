@@ -1,6 +1,6 @@
 ---
 title: "Vichar Gaye Ne Haye Kyun Nana Veer Pyarey"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"

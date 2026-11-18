@@ -1,11 +1,11 @@
 ---
 title: "Din Bhar Hussain Apne Lahoo Mai"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7768511b736fb702b317

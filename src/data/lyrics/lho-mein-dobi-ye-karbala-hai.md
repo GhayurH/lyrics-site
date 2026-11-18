@@ -1,11 +1,11 @@
 ---
 title: "لہو میں ڈوبی یہ کربلا ہے"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
 reciter: "Mukhtar Ali Shedi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: ziyaraat:dff83bde16df1c8ec48c

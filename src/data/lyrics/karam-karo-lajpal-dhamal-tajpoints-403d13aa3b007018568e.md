@@ -1,11 +1,11 @@
 ---
 title: "Karam Karo Lajpal Dhamal"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Raza"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:403d13aa3b007018568e

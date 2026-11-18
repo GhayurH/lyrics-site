@@ -1,11 +1,11 @@
 ---
 title: "Nuqsan Ali Diyaan Dhiyaan Da Nadeem Abbas Lonay Wala Lyrics In Punjabi 2019"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqib"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7c534c226381c28d6233

@@ -1,11 +1,11 @@
 ---
 title: "Log Kehte Hain Kabay Mein Noor Aa Gaya"
-language: "Roman Urdu"
+language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Qasida"
 poet: "Najfi"
-tags: []
+tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:7ace4e38019f09b1fcde
