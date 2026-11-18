@@ -13,6 +13,7 @@ published: true
 romanLyrics: |-
   Baba mere baba
   Zainab ki thi fughaaṅ
+  Mahshar ka hai samaaṅ
 
   1
   Kaisi hai ye nida
@@ -39,6 +40,7 @@ romanLyrics: |-
 ---
 بابا میرے بابا
 زینب کی تھی فغاں
+محشر کا ہے سماں
 
 ۱
 کیسی ہے یہ ندا
