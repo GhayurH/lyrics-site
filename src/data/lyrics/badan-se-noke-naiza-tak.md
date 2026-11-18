@@ -5,7 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Ahsan Zaidi"
+poet: "Syed Ahsan Zaidi"
 reciter: "Kazmi Brothers"
 tags: []
 aliases: []
