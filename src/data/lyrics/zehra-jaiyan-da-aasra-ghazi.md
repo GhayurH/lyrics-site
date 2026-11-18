@@ -4,6 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Raza"
 reciter: "Chakwal Party"
 tags: []
 aliases: []
@@ -159,7 +160,37 @@ romanLyrics: 'Zahra jayain da aasra Ghazi
 
   Nangay sar dar badar phiraiday rae
 
-  Kis na keta mera haya Ghazi'
+  Kis na keta mera haya Ghazi
+
+  22
+
+  Aj vi Bint-e-Husain rondi ae
+
+  Hath mere qaid taun chhura Ghazi
+
+  23
+
+  Sir taun Zainab de lai gayi chaadar
+
+  Jadon maqtal nu tur paya Ghazi
+
+  24
+
+  Aakhe Ummul Baneen das Zainab
+
+  Zin taun haaye kiven latha Ghazi
+
+  25
+
+  Aan Shabbir vain kita ae
+
+  Haaye Zainab nai riha Ghazi
+
+  26
+
+  Kar ke maatam Raza Baqiye vich
+
+  Aap rondi ae Fatima Ghazi'
 # source_id: ziyaraat:103626d9435f0ce042c3
 # source_url: https://www.ziyaraat.net/api/noha/2632
 # raw_sha256: b567e3e8599a8de72bc0cc6f019825753fe7a4d008a3bd0c9a54039f64636fe8
@@ -258,3 +289,23 @@ romanLyrics: 'Zahra jayain da aasra Ghazi
 ۲۱
 ننگے سَر دَر بدر پھراتے رہے
 نہ کسی نے کیا حیا غازیؑ
+
+۲۲
+آج وی بنتِ حسین روندی اے
+ہتھ میرے قید توں چھڑا غازی
+
+۲۳
+سر توں زینب دے لے گئی چادر
+جدوں مقتل نوں ٹر پایا غازی
+
+۲۴
+آکھے ام البنین دس زینب
+زین توں ہائے کیویں لتھا غازی
+
+۲۵
+آں شبیر بین کیتا اے
+ہائے زینب نئیں ریا غازی
+
+۲۶
+کر کے ماتم رضا بقیعہ وچ
+آپ روندی اے فاطمہ غازی
