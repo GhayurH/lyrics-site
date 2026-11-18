@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Zafar Abbas Zafar"
-reciter: "Nadeem Sarwar"
+reciter: ["Nadeem Sarwar", "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"]
 tags: []
 aliases: []
 published: true
