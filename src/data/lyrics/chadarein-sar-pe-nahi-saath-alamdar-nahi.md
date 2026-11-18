@@ -7,6 +7,61 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Chadarein sar pe nahi, saath alamdar nahi
+  Des begana, yahan koi madadgar nahi
+
+  1
+  Shamiyon sharm karo, dur hato parda karo
+  Zehra-e-Sani hai, kabhi aayi ye bazaar nahi
+
+  2
+  Ae Shimr zulm na kar, ro ke ye Fizza ne kaha
+  Taziyanon ke qabil Abid-e-bimar nahi
+
+  3
+  Tisra din hai dar-e-saat pe Zainab hai khari
+  Hai abhi der, saja Sham ka darbar nahi
+
+  4
+  Ae Musalmano mujhe chand ridaein de do
+  Mangta is ke siwa kuchh bhi ye bimar nahi
+
+  5
+  Chadarein gar nahi dete to batao mujh ko
+  Kya Nabi zadiyan ye khums ki haqdar nahi
+
+  6
+  Chashm-e-Sajjad mein ye khun ke dhare kiun hain
+  Is ke rone ka sabab tauq-e-giranbar nahi
+
+  7
+  Raste kaise hain, ye kaisi hain galiyan logo
+  In se waqif ye meri itrat-e-athar nahi
+
+  8
+  Kiun ye har gaam mujhe khun rulae ghairat
+  Meri in aankhon ne dekhe kabhi bazaar nahi
+
+  9
+  Saath amma hain meri aur sinan par baba
+  Mujh ko le jana abhi zulm ke darbar nahi
+
+  10
+  Meri ghairat bhi buka karne lagi hai mujh par
+  Be-rida Ahl-e-Haram, koi madadgar nahi
+
+  11
+  Dhoop hai sar pe kari, us pe sitam khak-e-safar
+  Meri taqdir mein ab saya-e-divar nahi
+
+  12
+  Imtehan kaisa hai ye bhai mujhe batla do
+  Jang larni hai magar haath mein talwar nahi
+
+  13
+  Raaz Mazhar ye khula qaid-e-sitam mein ik din
+  Jis ko bimar samajhte the wo bimar nahi
 # source_id: ziyaraat:2e1f42e89d98fc6de6ca
 # source_url: https://www.ziyaraat.net/api/noha/2752
 # raw_sha256: aa7e57accc0d7bd0bec09a8f4f80ec1af958578f42181b95834371426e56c0a8
