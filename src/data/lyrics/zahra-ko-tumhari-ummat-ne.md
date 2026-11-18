@@ -1,19 +1,19 @@
 ---
-title: "Zahra Ko Tumhari Ummat Nay Syed Kazim Hussain Zaidi"
+title: "زہرا کو تمہاری امت نے دربار بلایا اے بابا"
 language: "Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
+kalamType: "Noha"
 poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fea16f272e32f521721b
-# source_url: https://tajpoints.com/2025/11/zahra-ko-tumhari-ummat-nay-syed-kazim.html
-# raw_sha256: 7294b67dc7370ac98e491e90637d5fca94d4c2dbe52eaab4aad8e62daa11ab80
+# editorial_note: "Alternate closing attribution has Zeeshan and Hussain instead of Zeeshan and Kazim."
+# alternate_reading: "ZEESHAN-o-HUSSAIN Yeh Zahra Ne Baba Ki Lehad Par Bain Kiye"
+# alternate_reading: "Qunfuz Ne Tumhari Beti Par Hai Hath Uthaya Aye Baba"
+# alternate_reading: "Aye Kash Koi Apna Hota Tehreer Ke Tukray Chun Leta"
+# attribution_note: "Recitation credited to Syed Kazim Hussain Zaidi and Syed Hussain Shah in different witnesses; verify roles."
 ---
-
-Zahra Ko Tumhari Ummat Nay Syed Kazim Hussain Zaidi.
 
 1
 Zahra Ko Tumhari Ummat Ne Darbar Bulaya Aye Baba.
