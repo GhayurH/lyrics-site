@@ -12,9 +12,11 @@ const pathFromRoot = (name) => new URL(name, root);
 async function readSitemap(name) {
   if (!live) return readFile(new URL(name, dist), "utf8");
   const response = await fetch(new URL(name, site + "/"), {
-    headers: { "user-agent": "KalamArchiveSitemapAudit/1.0" },
+    headers: { "user-agent": process.env.SITEMAP_AUDIT_USER_AGENT || "KalamArchiveSitemapAudit/1.0" },
   });
-  assert(response.ok, name + ": HTTP " + response.status);
+  assert(response.ok, name + ": HTTP " + response.status +
+    " (server: " + (response.headers.get("server") || "unknown") +
+    ", cf-ray: " + (response.headers.get("cf-ray") || "none") + ")");
   return response.text();
 }
 
