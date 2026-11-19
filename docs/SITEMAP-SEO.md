@@ -65,3 +65,22 @@ Google indexing or imply that the poems are duplicates.
 Submit only `https://kalamarchive.com/sitemap-index.xml`. Google may take
 time to reprocess its children, and successful sitemap processing does not
 guarantee indexing. Investigate exclusions separately from route coverage.
+
+## Live comparison limitation observed on 19 November 2026
+
+An independent GitHub Actions request for the deployed
+`https://kalamarchive.com/sitemap-index.xml` returned HTTP 403 with
+`cf-mitigated: challenge`, from Cloudflare, even with a browser-like
+user agent. This prevented an independent XML count from that runner.
+It does **not** show that Googlebot is blocked: Search Console had
+successfully processed the sitemap index, and its URL inspections
+reported successful Googlebot page fetches.
+
+If the live comparison returns 403, inspect Cloudflare Security Events
+for the `/sitemap-index.xml` request and check whether verified Googlebot
+is being challenged. Do not disable site-wide bot security on the basis
+of blocked GitHub Actions requests alone.
+
+The local build-time sitemap verification succeeded: **4,359** generated
+URLs, including **3,349** published standalone lyrics and **454** printed
+Basta pages, with all generated archive/category routes represented.
