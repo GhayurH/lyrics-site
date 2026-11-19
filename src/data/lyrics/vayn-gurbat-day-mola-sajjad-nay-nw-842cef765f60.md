@@ -15,29 +15,25 @@ published: false
 # editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
-Vayn ghurbat day Mola Sajjad nay paye..
+Vayn Ghurbat Day Mola Sajjad Nay Paye
+Phuphiyan Tay Maawaan Day Burqay Jado Lokaan Aan Lahaye
 
-Sani)
-Phuphiyan tay maawaa’n day burqay jado loka’n aan lahaye..
+1
+Khoon Day Athroo Sajjad Diyan Akhiyan Chon Hoye Pehli Dafa Jari
+Jado Zainab Day Sir Di Chadar Nu Shimr Nay Hath Si Laye
 
-Antra)
-Khoon day athroo Sajjad diyan akhiyan cho hoye pehli dafa jari
-Jado Zainab day sir di chadar nu shimar nay hath si laye ..
+2
+Janwar Apnay Sairab Vi Kerday Raye Chawaan Wich Ban Day Raye
+Dhup Wich Baithay Qaidi Bachay Raye Takday Door Toun Saye
 
-Antra)
-Janwar apnay sairab vi kerday raye chawaa’n wich ban day raye
-Dhup wich baithay qaidi bachay raye takday door toun saye..
+3
+Zalimaan Kita Shabbir Day Sir Kitay Aelan Aye Wakhra Si
+Darbar Taen Aye Sir Shami Hathaan Chon Honda Aaye
 
-Antra)
-Zalimaa’n kita Shabir day sir kitay aelan aay wakhra si
-Darbar taen aay sir shami hathaa’n cho honda aaye ..
+4
+Dig Pae Zainab Turday Hoya Naqay Toun Tak Bazu Ghazi Day
+Bajhiyan Hoeyan Bahwaan Nal Keewain Hun Khaak Toun Bazu Chaye
 
-Antra)
-Dig pae Zainab turday hoya naqay toun tak bazu Ghazi day
-Bajhiyan hoeyan bahwaa’n nal keewain hun khaak tou bazu chaye..
-
-Antra)
-Mout tay Akbar bazar guzarday hi Abid nu aa gae si
-Per aedi saawaa’n nay mukan wich chali saal nay laye..
-
-Shared via Nohay Writeups for iOS
+5
+Mout Tay Akbar Bazar Guzarday Hi Abid Nu Aa Gae Si
+Par Aedi Saawaan Nay Mukan Wich Chali Saal Nay Laye

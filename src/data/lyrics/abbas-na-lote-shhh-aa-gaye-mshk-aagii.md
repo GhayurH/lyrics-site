@@ -9,75 +9,55 @@ reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Abbas na laute sheh aagaye mashk aagayi
-
+romanLyrics: |-
+  Abbas Na Laute Sheh Aa Gaye Mashk Aa Gayi
 
   1
-
-  Maqtal ki zameen bha gayi abbas na laute
-
+  Maqtal Ki Zameen Bha Gayi Abbas Na Laute
 
   2
-
-  Is shaan se maqtal ko sidhara tha alamdaar
-
-  Aada ki nazar khaa gayi abbas na laute
-
+  Is Shaan Se Maqtal Ko Sidhara Tha Alamdar
+  Aada Ki Nazar Kha Gayi Abbas Na Laute
 
   3
-
-  Jab teer chala beh gaya sab mashk se pani
-
-  Abbas ko sharm aagayi abbas na laute
-
+  Jab Teer Chala Beh Gaya Sab Mashk Se Pani
+  Abbas Ko Sharm Aa Gayi Abbas Na Laute
 
   4
-
-  Rone ke liye laasha e shabbir pe ran may
-
-  Firdaus se maa aagayi abbas na laute
-
+  Rone Ke Liye Lasha-e-Shabbir Pe Ran Mein
+  Firdaus Se Maa Aa Gayi Abbas Na Laute
 
   5
-
-  Qaimon may lagi aag to ammu ko bulane
-
-  Masoom sakina gayi abbas na laute
-
+  Khaimon Mein Lagi Aag To Ammu Ko Bulane
+  Masoom Sakina Gayi Abbas Na Laute
 
   6
-
-  Had hogayi bhai ko manane labe saahil
-
-  Khud saani e zehra gayi abbas na laute
-
+  Had Ho Gayi Bhai Ko Manane Lab-e-Sahil
+  Khud Sani-e-Zahra Gayi Abbas Na Laute
 
   7
-
-  Kya jaaniye kyun rooth gaye kehti thi zainab
-
-  Ruqsat ki ghadi aagayi abbas na laute
-
+  Kya Janiye Kyun Rooth Gaye Kehti Thi Zainab
+  Rukhsat Ki Ghari Aa Gayi Abbas Na Laute
 
   8
-
-  Behta hua kano se lahoo sookhe hue lab
-
-  Dikhlane sakina gayi abbas na laute
-
+  Behta Hua Kanon Se Lahu Sokhe Hue Lab
+  Dikhlane Sakina Gayi Abbas Na Laute
 
   9
-
-  Deti rahi awaaz pe awaaz sakina
-
-  Aakhir ko khaza aagayi abbas na laute
-
+  Deti Rahi Awaz Pe Awaz Sakina
+  Aakhir Ko Qaza Aa Gayi Abbas Na Laute
 
   10
+  Pani Ke Liye Mashk-o-Alam Le Ke Gaye Thay
+  Din Dhal Gaya Raat Aa Gayi Abbas Na Laute
 
-  Pani ke liye mashk o alam le ke gaye thay
+  11
+  Jaage They Kai Shab Ke Kai Din Ke They Pyase
+  Abbas Ko Neend Aa Gayi Abbas Na Laute
 
-  Din dhal gaya raat aagayi abbas na laute'
+  12
+  Zainab Ki Fughan Maqtal-e-Shabbir Mein Yawar
+  Har Ek Ko Tarpa Gayi Abbas Na Laute
 # source_id: nohayonline:2763177dc3dafbe1eed6
 # source_url: https://www.nohayonline.com/details_content.php?id=460
 # raw_sha256: 52d52b98917c8e238e6d6dd4caf5392f3d2ba4ddf95cfe7fe6fd138ed6cb483d
@@ -129,3 +109,11 @@ romanLyrics: 'Abbas na laute sheh aagaye mashk aagayi
 ۱۰
 پانی کے لئے مشق و علم لے کے گئے تھے
 دن ڈھال گیا رات آگیی عباس نہ لوٹے
+
+۱۱
+جاگے تھے کئی شب کے کئی دن کے تھے پیاسے
+عباس کو نیند آ گئی عباس نہ لوٹے
+
+۱۲
+زینب کی فغاں مقتلِ شبیر میں یاور
+ہر ایک کو تڑپا گئی عباس نہ لوٹے
