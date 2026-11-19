@@ -311,7 +311,7 @@ test("manual Shahmukhi Panjabi edition aligns with its preserved Roman reading",
   const text = await readFile(new URL("../" + path, import.meta.url), "utf8");
   const file = reviewMarkdown({ path, kind: "lyrics", text });
   assert.equal(file.fields.language, "Panjabi");
-  assert.equal(file.fields.lang, "pa");
+  assert.equal(file.fields.lang, "pa-Arab");
   assert.equal(file.fields.direction, "rtl");
   assert.match(file.fields.title, /[\u0600-\u06FF]/u);
   assert(file.body.includes("اٹھ نانا، میرے درد ونڈا"));
@@ -326,7 +326,7 @@ test("manual Shahmukhi Panjabi edition aligns with its preserved Roman reading",
 });
 
 test("Shahmukhi Panjabi sources require a separate Roman edition", () => {
-  const text = "---\\ntitle: پنجابی\\nlanguage: Panjabi\\nlang: pa\\ndirection: rtl\\nkalamType: Noha\\n---\\n۱\\nپہلا مصرع\\n".replaceAll("\\n", "\n");
+  const text = "---\\ntitle: پنجابی\\nlanguage: Panjabi\\nlang: pa-Arab\\ndirection: rtl\\nkalamType: Noha\\n---\\n۱\\nپہلا مصرع\\n".replaceAll("\\n", "\n");
   const file = reviewMarkdown({ path: "src/data/lyrics/panjabi.md", kind: "lyrics", text });
   assert(file.issues.some(issue => issue.code === "missing-roman"));
 });
@@ -338,7 +338,7 @@ test("Balti source has a manually numbered Roman edition without Arabic script c
   const text = await readFile(new URL("../" + path, import.meta.url), "utf8");
   const result = reviewMarkdown({ path, kind: "lyrics", text });
   assert.equal(result.fields.language, "Balti");
-  assert.equal(result.fields.lang, "bft");
+  assert.equal(result.fields.lang, "bft-Arab");
   assert(result.roman?.includes("Abbas Abbas Alamdar"));
   assert.deepEqual([...result.roman.matchAll(/^\d+$/gm)].map(m => Number(m[0])), [1,2,3,4]);
   assert(!result.issues.some(issue => issue.code === "arabic-in-roman"));
