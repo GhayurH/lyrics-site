@@ -1,22 +1,35 @@
 ---
 /* File role: Render source stanzas and six-verse 4+2 groups consistently in Urdu and Roman. */
 import { layoutLyricStanzas, lyricStanzaClassNames, lyricLineClassName } from "../lib/lyric-stanzas";
+import type { StanzaPattern } from "../lib/stanza-pattern";
 
 interface Props {
   text: string;
   className: string;
-  sixVerseLayout?: "pairs";
+  stanzaPattern?: StanzaPattern;
+  /** Index the displayed verses directly rather than duplicating the poem in hidden HTML. */
+  indexForSearch?: boolean;
+  searchTitle?: string;
 }
 
-const { text, className, sixVerseLayout } = Astro.props as Props;
-const stanzas = layoutLyricStanzas(text);
+const { text, className, stanzaPattern, indexForSearch = false, searchTitle } = Astro.props as Props;
+const stanzas = layoutLyricStanzas(text, stanzaPattern);
+const openingVerse = stanzas.flat().find((line) => !line.number);
+const normalized = (value: string) => value.trim().normalize("NFKC").toLocaleLowerCase();
+const openingRepeatsTitle = Boolean(openingVerse && searchTitle &&
+  normalized(openingVerse.text) === normalized(searchTitle));
 ---
 
-<div class:list={[className, "lyric-reading-text"]}>
+<div class:list={[className, "lyric-reading-text"]} data-pagefind-body={indexForSearch ? true : undefined}>
   {stanzas.map((stanza) => (
-    <div class={lyricStanzaClassNames(stanza, sixVerseLayout)}>
+    <div class={lyricStanzaClassNames(stanza, stanzaPattern)}>
       {stanza.map((line) => (
-        <span class={lyricLineClassName(line)}>{line.text}</span>
+        <>
+          <span class={lyricLineClassName(line)}
+            data-pagefind-ignore={indexForSearch && (line.number ||
+              (openingRepeatsTitle && line === openingVerse)) ? true : undefined}>{line.text}</span>
+          {"\n"}
+        </>
       ))}
     </div>
   ))}

@@ -17,6 +17,20 @@ test("search shows verified Basta kalams once without redundant page links", asy
   await expect(page.locator(".pf-result-title a[href='/basta/391/']")).toHaveCount(0);
 });
 
+test("search excerpts show verses without repeating the title and alternate title", async ({ page }) => {
+  await page.goto("/search/?q=" + encodeURIComponent("hashim ke ghara"));
+  const title = "ہاشم کے گھرانے کے قمر ہے میری فریاد";
+  const result = page.locator(".pf-result").filter({
+    has: page.getByRole("link", { name: title, exact: true }),
+  });
+  await expect(result).toHaveCount(1, { timeout: 20000 });
+  await expect(result.locator(".search-result-roman-title")).toHaveText("Hashim Ke Gharane Ke Qamar");
+  const excerpt = result.locator(".pf-result-excerpt");
+  await expect(excerpt).toBeVisible();
+  await expect(excerpt).not.toContainText(title);
+  await expect(excerpt).not.toContainText("Hashim Ke Gharane Ke Qamar");
+});
+
 test("search filters select multiple alternatives within each facet", async ({ page }) => {
   await page.goto("/search/?kalamType=Soz&kalamType=Salam");
   const facet = page.locator('[data-search-facet="kalamType"]');
@@ -83,5 +97,17 @@ test("independent reciters each retrieve the same kalam without a combined facet
   for (const reciter of ["Sachey Bhai", "Shadman Raza"]) {
     await expect(page.locator('.lyric-details a[href*="reciter="]')
       .filter({ hasText: reciter })).toHaveCount(1);
+  }
+});
+
+
+test("Shahmukhi titles are found with Arabic keyboard spelling @smoke", async ({ page }) => {
+  for (const [query, url] of [
+    ["علي سوہنا", "/lyrics/ali-sohna-sher-rab-da/"],
+    ["سكينه بیمار", "/lyrics/zindaan-day-vich-ro-ro-sakina-beemaar-nu-bulaway/"],
+  ]) {
+    await page.goto("/search/?q=" + encodeURIComponent(query));
+    await expect(page.locator('a.pf-result-link[href="' + url + '"]')).toBeVisible({ timeout: 20000 });
+    expect(new URL(page.url()).searchParams.get("q")).toBe(query);
   }
 });

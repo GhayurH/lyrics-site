@@ -1,11 +1,15 @@
 // Numbered-stanza extraction and printed-page provenance are independent of index mapping.
 // Source texts and repeated/missing counters are never repaired or renumbered here.
 import { parseStanzaNumber, stanzaNumberValue } from "./stanza-numbers.ts";
+import type { StanzaPattern } from "./stanza-pattern.ts";
+import type { BastaStanzaStyle } from "./basta-text.ts";
 
 export interface BastaSourceFragment {
   page: number;
   urdu: string;
   roman?: string;
+  stanzaPattern?: StanzaPattern;
+  stanzaStyle?: BastaStanzaStyle;
 }
 export interface BastaStanza {
   id: string;
@@ -14,6 +18,7 @@ export interface BastaStanza {
   urdu: string;
   roman?: string;
   pages: number[];
+  stanzaPattern?: StanzaPattern;
 }
 export interface BastaResolvedStanza extends BastaStanza {
   sourceKalamId: string;
@@ -26,7 +31,7 @@ export function normalizePrintedStanzaNumber(value: string): number | null {
   return number !== null && Number.isSafeInteger(number) && number > 0 ? number : null;
 }
 
-type NumberedLine = { line: string; page: number };
+type NumberedLine = { line: string; page: number; stanzaPattern?: StanzaPattern };
 function uniquePages(lines: NumberedLine[]): number[] {
   return [...new Set(lines.map((item) => item.page))];
 }
@@ -34,7 +39,7 @@ function collectLines(fragments: BastaSourceFragment[], kind: "urdu" | "roman"):
   return fragments.flatMap((fragment) => {
     const text = fragment[kind];
     if (!text) return [];
-    return text.split("\n").map((line) => ({ line, page: fragment.page }));
+    return text.split("\n").map((line) => ({ line, page: fragment.page, stanzaPattern: fragment.stanzaPattern }));
   });
 }
 /** Preserve printed source pages in each numbered stanza's identity metadata. */
@@ -76,6 +81,7 @@ export function extractBastaStanzas(fragments: BastaSourceFragment[]): {
       urdu: group.map((line) => line.line).join("\n").trim(),
       ...(romanAligned ? { roman: romanGroup.map((line) => line.line).join("\n").trim() } : {}),
       pages: uniquePages([lines[item.index], ...group]),
+      ...(lines[item.index].stanzaPattern !== undefined ? { stanzaPattern: lines[item.index].stanzaPattern } : {}),
     };
   });
   if (stanzas.some((stanza) => !stanza.urdu))

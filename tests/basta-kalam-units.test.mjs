@@ -257,3 +257,18 @@ test("page 451 is a subtitle of poem 49 rather than a new indexed identity", asy
   assert.match(body(source), /\[\[subtitle\]\]/);
   assert.match(romanBody(source), /\[\[subtitle\]\]/);
 });
+
+test("Basta Markdown per-fragment stanzaPatterns follow each indexed kalam into recitation", () => {
+  const entries = [
+    { ...first, page: 230, name: "پہلا عنوان" },
+    { ...second, page: 230, name: "دوسرا عنوان" },
+  ];
+  const report = buildBastaKalamCatalog(entries, [{
+    page: 230,
+    stanzaPattern: 2,
+    stanzaPatterns: { "2": "4+2" },
+    urdu: "پہلا عنوان\n\n۱\nالف\nب\n\n---***---\n\nدوسرا عنوان\n\n۱\nج\nد\nہ\nو\nز\nح",
+  }]);
+  assert.deepEqual(report.kalams.map(kalam => kalam.stanzaPattern), [2, "4+2"]);
+  assert.deepEqual(report.kalams.map(kalam => kalam.stanzas[0]?.stanzaPattern), [2, "4+2"]);
+});

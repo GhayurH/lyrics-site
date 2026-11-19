@@ -48,6 +48,13 @@
   margin-top: .85em;
   padding-top: .5em;
 }
+/* Explicit two-verse form uses the same opposing inset as Basta couplets. */
+.lyric-stanza-couplet .lyric-verse:nth-last-child(2) {
+  padding-inline-end: clamp(1.75rem, 6%, 3rem);
+}
+.lyric-stanza-couplet .lyric-verse:last-child {
+  margin-inline-start: clamp(1.75rem, 6%, 3rem);
+}
 /* The six-verse form matches Basta: first four lines are end-inset,
    and the final pair has start indentation and framing rules. */
 .lyric-stanza-six:not(.lyric-stanza-pairs) .lyric-verse:not(:nth-last-child(-n+2)) {

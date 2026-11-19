@@ -1,80 +1,62 @@
-/* File role: About-page bilingual copy, archive links, and responsive contact. */
-.about-page { max-width: var(--content-intro); margin-inline: auto; }
-.about-page .page-header-simple { margin-bottom: clamp(1.75rem, 4vw, 2.5rem); }
-.about-section { margin-block-start: clamp(2rem, 5vw, 3rem); }
-.about-bilingual {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: clamp(1.25rem, 3vw, 2.5rem);
-}
+/* File role: Responsive About/guide page with bilingual opening, anchored feature instructions, and contact/support sections. */
+.about-page { max-width: 72rem; margin-inline: auto; }
+.about-page .page-header-simple { margin-bottom: clamp(1.5rem, 4vw, 2.5rem); }
+.about-page a { text-underline-offset: .18em; }
+.about-page a:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
+.about-bilingual { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(1.25rem, 3vw, 2.5rem); }
 .about-language { min-width: 0; }
-.about-language h2 {
-  margin: 0 0 .7rem;
-  font-size: clamp(1.15rem, 2.5vw, 1.4rem);
-  line-height: 1.4;
-}
+.about-language h2 { margin: 0 0 .7rem; font-size: clamp(1.15rem, 2.5vw, 1.4rem); line-height: 1.4; }
 .about-language p { margin: 0; line-height: 1.7; color: var(--secondary-text); overflow-wrap: break-word; }
-.about-language[lang="ur"], .about-path-urdu { text-align: right; }
+.about-language[lang="ur"] { text-align: right; }
 .about-language[lang="ur"] h2 { line-height: 2; }
-.about-language[lang="ur"] p, .about-path .about-path-urdu { line-height: 2.3; }
-
+.about-language[lang="ur"] p { line-height: 2.3; }
 .about-intro { padding-block: clamp(1.25rem, 3vw, 1.75rem); border-block: var(--ui-border); }
-.about-section-heading { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 0 1.25rem; margin-bottom: 1rem; }
-.about-section-heading h2 { margin: 0; font-size: clamp(1.3rem, 3vw, 1.65rem); }
-.about-section-heading p { margin: 0; color: var(--secondary-text); line-height: 2; }
 
-.about-paths { border-top: var(--ui-border); }
-.about-path {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  align-items: center;
-  gap: 1rem;
-  min-height: var(--ui-target);
-  padding: 1rem .5rem;
-  border-bottom: var(--ui-border);
-  color: var(--primary-text);
-  text-decoration: none;
-}
-.about-path:hover { background: var(--tag-background); }
-.about-path:focus-visible, .about-contact-email:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
-.about-path h3 { margin: 0; font-size: 1.08rem; line-height: 1.4; }
-.about-path p { margin: .2rem 0 0; color: var(--secondary-text); line-height: 1.6; overflow-wrap: break-word; }
-.about-path .about-path-urdu { margin-top: .1rem; }
-.about-path-arrow { align-self: center; font-size: 1.35rem; color: var(--secondary-text); }
+.about-contents { margin-block: clamp(1.6rem, 4vw, 2.6rem); padding: 1.2rem clamp(1rem, 3vw, 1.65rem); border: var(--ui-border); border-radius: var(--ui-panel-radius); background: var(--surface-background); }
+.about-contents-title { margin: 0 0 .8rem; font-weight: 700; }
+.about-contents ul { display: flex; flex-wrap: wrap; gap: .6rem 1.25rem; padding: 0; margin: 0; list-style: none; }
+.about-contents a { display: inline-block; line-height: 1.6; }
 
-.about-sources { padding-bottom: clamp(.5rem, 2vw, 1rem); }
-.about-contact {
-  padding: clamp(1.1rem, 3vw, 2rem);
-  border: var(--ui-border);
-  border-radius: var(--ui-panel-radius);
-  background: var(--surface-background);
-}
-.about-contact-email {
-  display: inline-flex;
-  flex-direction: column;
-  gap: .15rem;
-  max-width: 100%;
-  min-height: var(--ui-target);
-  margin-top: 1.25rem;
-  padding: .7rem 1rem;
-  border: var(--ui-border);
-  border-radius: var(--ui-radius-tight);
-  background: var(--tag-background);
-  font-family: var(--font-ui);
-  line-height: 1.5;
-  direction: ltr;
-  unicode-bidi: isolate;
-  text-align: left;
-  overflow-wrap: anywhere;
-  text-decoration: none;
-}
-.about-contact-email span { font-size: .78rem; color: var(--secondary-text); }
-.about-contact-email strong { font-size: clamp(.85rem, 2.5vw, 1rem); font-weight: 650; }
+.about-guide-section { margin-block-start: clamp(3rem, 6vw, 4.7rem); scroll-margin-top: 5.5rem; }
+.about-guide-heading { max-width: 51rem; margin-bottom: 1.5rem; }
+.about-guide-heading .eyebrow { margin-bottom: .4rem; }
+.about-guide-heading h2, .about-support h2 { margin: 0 0 .65rem; font-size: clamp(1.5rem, 3vw, 2rem); line-height: 1.25; }
+.about-guide-heading > p:last-child { margin: 0; color: var(--secondary-text); line-height: 1.8; }
+
+.about-principles { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.about-principles > div { min-width: 0; padding: 1.1rem 1.2rem; border-block-start: 3px solid var(--secondary-text); background: var(--surface-background); }
+.about-principles strong { display: block; margin-bottom: .35rem; font-size: 1.03rem; }
+.about-principles p { margin: 0; line-height: 1.65; color: var(--secondary-text); }
+
+.about-feature-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(.9rem, 2vw, 1.25rem); }
+.about-feature { display: flex; flex-direction: column; min-width: 0; padding: clamp(1.1rem, 2.5vw, 1.5rem); border: var(--ui-border); border-radius: var(--ui-panel-radius); background: var(--surface-background); }
+.about-feature h3 { font-size: clamp(1.1rem, 2vw, 1.25rem); line-height: 1.4; margin: 0 0 .5rem; }
+.about-feature > p { margin: 0 0 .8rem; color: var(--secondary-text); line-height: 1.72; overflow-wrap: break-word; }
+.about-feature ol { margin: .35rem 0 .9rem; padding-inline-start: 1.3rem; }
+.about-feature li { padding-inline-start: .15rem; margin-bottom: .5rem; line-height: 1.65; }
+.about-feature li::marker { color: var(--secondary-text); font-weight: 650; }
+.about-feature .about-feature-note { font-size: .91rem; margin-top: auto; padding-top: .65rem; border-top: var(--ui-border); }
+.about-feature-link { align-self: flex-start; margin-top: auto; font-weight: 700; line-height: 1.65; }
+.about-feature-link span { margin-inline-start: .2rem; }
+
+.about-contact { padding: clamp(1.2rem, 3vw, 2rem); border: var(--ui-border); border-radius: var(--ui-panel-radius); background: var(--surface-background); }
+.about-contact-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; }
+.about-contact-grid h3 { margin: 0 0 .4rem; font-size: 1.1rem; }
+.about-contact-grid p { margin: 0; line-height: 1.7; color: var(--secondary-text); }
+.about-contact-email { display: inline-flex; flex-direction: column; max-width: 100%; gap: .2rem; margin-top: 1.5rem; padding: .65rem 1rem; border: var(--ui-border); border-radius: var(--ui-radius-tight); background: var(--tag-background); direction: ltr; unicode-bidi: isolate; text-align: left; text-decoration: none; font-family: var(--font-ui); overflow-wrap: anywhere; }
+.about-contact-email span { font-size: .82rem; color: var(--secondary-text); }
+.about-contact-email strong { font-size: clamp(.88rem, 2.5vw, 1rem); }
 .about-contact-email:hover { text-decoration: underline; }
 
-@media (max-width: 700px) {
-  .about-bilingual { grid-template-columns: minmax(0, 1fr); }
+.about-support { padding: clamp(1.5rem, 4vw, 2.5rem); margin-bottom: clamp(1rem, 3vw, 2rem); border-radius: var(--ui-panel-radius); border: var(--ui-border); background: var(--surface-background); }
+.about-support-copy { max-width: 55rem; }
+.about-support p:not(.eyebrow) { margin: 0 0 1rem; line-height: 1.8; }
+.about-support-action { display: inline-flex; align-items: center; gap: .45rem; margin-top: .5rem; padding: .75rem 1rem; border: var(--ui-border); border-radius: var(--ui-radius-tight); background: var(--tag-background); text-decoration: none; font-weight: 700; line-height: 1.5; }
+.about-support-action:hover { text-decoration: underline; }
+
+@media (max-width: 760px) {
+  .about-bilingual, .about-principles, .about-feature-grid, .about-contact-grid { grid-template-columns: minmax(0, 1fr); }
   .about-intro > .about-language + .about-language { padding-top: 1.25rem; border-top: var(--ui-border); }
-  .about-section-heading { display: block; }
-  .about-path { padding-inline: .25rem; }
+  .about-contents ul { gap: .4rem 1rem; }
+  .about-feature { padding: 1.15rem; }
 }

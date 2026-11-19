@@ -17,7 +17,7 @@ import "../../styles/basta-shell.css";
 import "../../styles/basta-navigation.css";
 import "../../styles/basta-text.css";
 import "../../styles/corrections.css";
-import { searchIndexAliases } from "../../lib/search-normalization";
+import { searchIndexAliases, searchExcerptLines } from "../../lib/search-normalization";
 import { loadBastaKalamCatalog } from "../../lib/basta-kalam-data";
 import { bastaKalamId } from "../../lib/basta-kalam-units";
 import { unclaimedBastaPageText } from "../../lib/basta-search";
@@ -74,6 +74,7 @@ const {
 
 const page = entry.data.page;
 const stanzaStyle = getBastaStanzaStyleForPage(page);
+const { stanzaPattern, stanzaPatterns } = entry.data;
 const urduText = (entry.body ?? "").trim();
 const romanText = (entry.data.romanLyrics ?? "").trim();
 const hasRomanText = romanText.length > 0;
@@ -90,6 +91,13 @@ const pageIndexEntries = typedIndexEntries.filter(
   (indexEntry) => indexEntry.page === page &&
     !indexedKalamIds.has(bastaKalamId(indexEntry)),
 );
+// Printed-page metadata must use the full printed index. The subset above
+// deliberately excludes verified kalams only to avoid duplicate Pagefind results.
+const pageTitleEntries = typedIndexEntries.filter((indexEntry) => indexEntry.page === page);
+const pageTitleEntry = pageTitleEntries.length === 1 ? pageTitleEntries[0] : undefined;
+const pageKalamTitle = pageTitleEntry
+  ? [pageTitleEntry.name, pageTitleEntry.romanName].filter(Boolean).join(" — ")
+  : undefined;
 const bastaIndexSearchTerms = pageIndexEntries
   .flatMap((indexEntry) => [
     indexEntry.name,
@@ -101,6 +109,16 @@ const bastaIndexSearchTerms = pageIndexEntries
   ])
   .filter(Boolean)
   .join(" ");
+const pageSearchTerms = [
+  bastaIndexSearchTerms,
+  searchIndexAliases([indexedUrdu, indexedRoman, bastaIndexSearchTerms].join(" ")),
+].filter(Boolean).join(" ");
+const indexedUrduLines = searchExcerptLines(
+  indexedUrdu, pageIndexEntries.length === 1 ? pageIndexEntries[0].name : undefined,
+);
+const indexedRomanLines = searchExcerptLines(
+  indexedRoman, pageIndexEntries.length === 1 ? pageIndexEntries[0].romanName : undefined,
+);
 const haalFilters = [
   ...new Set(
     pageIndexEntries
@@ -114,13 +132,11 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
 ---
 
 <BaseLayout
-  title={`Basta — page ${page} | Kalam Archive`}
+  title={`Basta — page ${page}${pageKalamTitle ? ` — ${pageKalamTitle}` : ""} | Kalam Archive`}
   description={
     entry.data.imageOnly
       ? `Original scan of Basta page ${page}.`
-      : hasRomanText
-        ? `Basta page ${page}: original scan, Urdu text, and Roman Urdu where available.`
-        : `Basta page ${page}: original scan and Urdu text.`
+      : `Basta page ${page}${pageKalamTitle ? ` — ${pageKalamTitle}` : ""}: original scan and Urdu${hasRomanText ? " and Roman Urdu" : ""} transcription.`
   }
 >
   <article
@@ -151,8 +167,8 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
           <span data-pagefind-filter="kalamType">{kalamType}</span>
         ))}
         <span data-pagefind-meta="page">{page}</span>
-        {bastaIndexSearchTerms && (
-          <span data-pagefind-meta="searchTerms">{bastaIndexSearchTerms}</span>
+        {pageSearchTerms && (
+          <span data-pagefind-meta="searchTerms">{pageSearchTerms}</span>
         )}
         {haalFilters.map((haal) => (
           <span data-pagefind-filter="haal">{haal}</span>
@@ -163,15 +179,10 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
     {/* Search-only source separates printed lines from reader controls,
         navigation, scans, and stanza buttons. */}
     {indexedPage && <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
-      <p>{searchIndexAliases([indexedUrdu, indexedRoman, bastaIndexSearchTerms].join(" "))}</p>
-      <p>Basta — Page {page}</p>
-      {pageIndexEntries.map((indexEntry) => (
-        <p>{indexEntry.romanName?.trim() || indexEntry.name}</p>
-      ))}
-      {indexedUrdu.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
+      {indexedUrduLines.map((line) => (
         <p lang="ur" dir="rtl">{line}</p>
       ))}
-      {indexedRoman.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
+      {indexedRomanLines.map((line) => (
         <p lang="en" dir="ltr">{line}</p>
       ))}
     </div>}
@@ -229,6 +240,8 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
             romanText={romanText}
             variant="page"
             stanzaStyle={stanzaStyle}
+            stanzaPattern={stanzaPattern}
+            stanzaPatterns={stanzaPatterns}
             page={page}
           />
         )
@@ -242,7 +255,7 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
             dir="rtl"
             aria-label={`Urdu text of Basta page ${page}`}
           >
-            <BastaText text={urduText} className="basta-urdu-text" indentStanzas={page >= settings.romanLyricsStartPage} stanzaStyle={stanzaStyle} />
+            <BastaText text={urduText} className="basta-urdu-text" indentStanzas={page >= settings.romanLyricsStartPage} stanzaStyle={stanzaStyle} stanzaPattern={stanzaPattern} stanzaPatterns={stanzaPatterns} />
           </section>
         )
       }

@@ -21,7 +21,7 @@ export function GET({ props }: { props: { item: CollectionEntry<"lyrics"> } }) {
       kalamTypes: getLyricKalamTypes(item.data),
       urdu: romanOnly ? "" : item.body || "",
       roman: romanOnly ? item.body || "" : item.data.romanLyrics || "",
-      sixVerseLayout: item.data.sixVerseLayout,
+      stanzaPattern: item.data.stanzaPattern,
     },
   });
 }

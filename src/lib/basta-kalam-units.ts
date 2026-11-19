@@ -5,6 +5,8 @@ import { extractBastaStanzas, normalizePrintedStanzaNumber, type BastaSourceFrag
 export { normalizePrintedStanzaNumber } from "./basta-stanzas.ts";
 export type { BastaSourceFragment, BastaStanza, BastaResolvedStanza } from "./basta-stanzas.ts";
 import { splitBastaKalams } from "./basta-text.ts";
+import type { BastaStanzaStyle } from "./basta-text.ts";
+import { fragmentStanzaPattern, type StanzaPattern } from "./stanza-pattern.ts";
 
 export interface BastaKalamIndex {
   /** Permanent override when the printed section/number changes. */
@@ -20,6 +22,9 @@ export interface BastaSourcePage {
   page: number;
   urdu: string;
   roman?: string;
+  stanzaPattern?: StanzaPattern;
+  stanzaPatterns?: Record<string, StanzaPattern>;
+  stanzaStyle?: BastaStanzaStyle;
 }
 export interface BastaKalam {
   id: string;
@@ -35,6 +40,8 @@ export interface BastaKalam {
   urdu: string;
   roman?: string;
   preface: string;
+  stanzaPattern?: StanzaPattern;
+  stanzaStyle?: BastaStanzaStyle;
   stanzas: BastaStanza[];
   /** True only when the source explicitly contains isolated stanza numerals. */
   numbered: boolean;
@@ -124,6 +131,9 @@ export function buildBastaKalamCatalog(
     const fragment = (part: number): BastaSourceFragment => ({
       page: page.page, urdu: urduPieces[part],
       ...(romanMatches ? { roman: romanPieces[part] } : {}),
+      ...(fragmentStanzaPattern(page.stanzaPattern, page.stanzaPatterns, part) !== undefined
+        ? { stanzaPattern: fragmentStanzaPattern(page.stanzaPattern, page.stanzaPatterns, part) } : {}),
+      ...(page.stanzaStyle ? { stanzaStyle: page.stanzaStyle } : {}),
     });
     // Page 141 is an editorial instruction page, not a continuation of the
     // Salam on 140. These two pages must never be combined.
@@ -252,7 +262,10 @@ export function buildBastaKalamCatalog(
       status: problems.length ? "review" : "ready", issues: problems,
       urdu: item.parts.map((part) => part.urdu).join("\n").trim(),
       ...(allRoman ? { roman: item.parts.map((part) => part.roman).join("\n").trim() } : {}),
-      preface: extracted.preface, stanzas: extracted.stanzas,
+      preface: extracted.preface,
+      stanzaPattern: item.parts.find((part) => part.stanzaPattern !== undefined)?.stanzaPattern,
+      stanzaStyle: item.parts[0]?.stanzaStyle,
+      stanzas: extracted.stanzas,
       numbered: extracted.stanzas.length > 0,
     };
   });

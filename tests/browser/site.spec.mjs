@@ -105,16 +105,25 @@ test("homepage continues local reading without showing an empty placeholder", as
   await expect(page.locator('.home-continue-link[href="/lyrics/aa-asghar-bin-tere/"]')).toBeVisible();
 });
 
-test("search results index poetry without including metadata controls", async ({ page }) => {
+test("search results index poetry without including metadata controls @smoke", async ({ page }) => {
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   const source = page.locator("[data-pagefind-body]");
-  await expect(source).toHaveCount(1);
-  await expect(source).not.toContainText("About this kalam");
-  await expect(source).not.toContainText("Original lyric sheet");
+  // A bilingual lyric indexes its two visible language panels, not a third
+  // hidden copy of the poem.
+  await expect(source).toHaveCount(2);
+  await expect(source.locator(".lyric-verse")).not.toHaveCount(0);
+  await expect(page.locator(".visually-hidden[data-pagefind-body]")).toHaveCount(0);
+  for (const panel of await source.all()) {
+    await expect(panel).not.toContainText("About this kalam");
+    await expect(panel).not.toContainText("Original lyric sheet");
+  }
   // All text on page 328 belongs to a verified individual kalam, so
   // its printed page stays browsable but is not indexed a second time.
   await page.goto("/basta/328/");
   await expect(page.locator("[data-pagefind-body]")).toHaveCount(0);
+  // The source page still needs its descriptive metadata even when its
+  // separately indexed kalam has been excluded from printed-page Pagefind.
+  await expect(page).toHaveTitle(/Lachar Husaina/);
   // Page 140 has an unclaimed fragment alongside verified kalams:
   // index only that remaining fragment, not the reader controls.
   await page.goto("/basta/140/");
@@ -219,4 +228,23 @@ test("empty correction can be cancelled and reopened without submitting", async 
   await expect(dialog.locator("[data-correction-message]")).toBeEmpty();
   await page.keyboard.press("Escape");
   await expect(dialog).toBeHidden();
+});
+
+test("About guide keeps its bilingual introduction and all feature routes reachable", async ({ page }) => {
+  await page.goto("/about/");
+  const intro = page.locator(".about-intro");
+  await expect(intro.locator('section[lang="en"]')).toBeVisible();
+  await expect(intro.locator('section[lang="ur"]')).toBeVisible();
+  for (const id of ["purpose", "discover", "reading", "basta", "saved", "recitations", "contact", "support"]) {
+    await expect(page.locator(`#${id}`)).toBeVisible();
+    await expect(page.locator(`.about-contents a[href="#${id}"]`)).toHaveCount(1);
+  }
+  await expect(page.locator(".about-feature")).toHaveCount(22);
+  await expect(page.locator("#support")).toContainText("Free and ad-free. Always.");
+  await expect(page.locator("#support .about-support-action"))
+    .toHaveAttribute("href", /^mailto:lyricsadmin@gmail\.com/);
+
+  await page.setViewportSize({ width: 390, height: 844 });
+  await expect.poll(() => page.evaluate(() => document.documentElement.scrollWidth - innerWidth))
+    .toBeLessThanOrEqual(2);
 });

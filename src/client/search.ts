@@ -1,5 +1,6 @@
 // File role: Pagefind search-page controller: URL synchronization, active-filter chips, filter removal, and clear-all behavior.
 import { toPagefindOrFilters } from "../lib/search-filters";
+import { normalizeSearchQuery } from "../lib/search-normalization";
 const FILTER_KEYS = [
   "collection",
   "kalamType",
@@ -147,7 +148,8 @@ export async function initSearchPage(): Promise<void> {
     const engine = instance.__pagefind__;
     if (!engine) throw Error("Pagefind filter adapter unavailable");
     const originalSearch = engine.search.bind(engine);
-    engine.search = (term, options) => originalSearch(term, {
+    engine.search = (term, options) => originalSearch(
+      typeof term === "string" ? normalizeSearchQuery(term) : term, {
       ...options,
       filters: toPagefindOrFilters(options?.filters as SearchFilters ?? {}),
     });

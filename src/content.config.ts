@@ -3,6 +3,12 @@ import { defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 import { z } from "astro/zod";
 
+// A single editorial declaration for stanza length and six-line structure.
+const stanzaPattern = z.union([
+  z.number().int().min(1).max(12),
+  z.enum(["4+2", "2+2+2"]),
+]);
+
 const lyrics = defineCollection({
   loader: glob({
     pattern: "**/*.md",
@@ -48,8 +54,8 @@ const lyrics = defineCollection({
     bastaPage: z.number().int().positive().optional(),
     bastaNote: z.enum(["original-selection", "additional-stanzas"]).optional(),
     romanLyrics: z.string().optional(),
-    // Per-poem alternate six-verse indentation (two + two + two).
-    sixVerseLayout: z.enum(["pairs"]).optional(),
+    // Optional shared stanza length/layout, e.g. 2, 4, "4+2", "2+2+2".
+    stanzaPattern: stanzaPattern.optional(),
     // Printed Urdu includes intentionally longer choral responses than Roman.
     stanzaLineExceptions: z.array(z.number().int().positive()).optional(),
   }),
@@ -72,6 +78,9 @@ const basta = defineCollection({
     continuationNote: z.string().optional(),
     // Only original transcriptions have this block; its absence is intentional.
     romanLyrics: z.string().optional(),
+    // Page default. Individual ---***--- fragments may override by 1-based order.
+    stanzaPattern: stanzaPattern.optional(),
+    stanzaPatterns: z.record(z.string().regex(/^[1-9][0-9]*$/), stanzaPattern).optional(),
     published: z.boolean().default(true),
   }),
 });

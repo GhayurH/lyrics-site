@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "astro dev",
     "prebuild": "npm test && npm run source:check",
-    "build": "astro build && pagefind && node scripts/generate-offline-search-manifest.mjs",
+    "build": "astro build && node scripts/verify-sitemap.mjs && pagefind && node scripts/generate-offline-search-manifest.mjs",
     "preview": "astro preview",
     "test": "node --experimental-strip-types --test tests/*.test.mjs",
     "test:smoke": "playwright test --grep @smoke",
@@ -21,7 +21,9 @@
     "content:review": "node --experimental-strip-types scripts/review-content.mjs",
     "perf:assets": "node scripts/report-build-assets.mjs",
     "perf:browser": "playwright test --grep @perf",
-    "roman:review": "node scripts/normalize-roman.mjs --report"
+    "roman:review": "node scripts/normalize-roman.mjs --report",
+    "sitemap:verify": "node scripts/verify-sitemap.mjs",
+    "sitemap:verify:live": "node scripts/verify-sitemap.mjs --live"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.5",
@@ -44,10 +46,11 @@
     "@playwright/test": "1.65.1",
     "pagefind": "^1.6.0",
     "typescript": "^6.0.3",
-    "wrangler": "^4.162.0"
+    "wrangler": "^4.164.0"
   },
   "allowScripts": {
     "esbuild@0.28.2": true,
-    "workerd@1.20261113.1": true
-  }
+    "workerd@1.20261117.1": true
+  },
+  "packageManager": "npm@12.2.2"
 }

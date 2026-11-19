@@ -55,14 +55,23 @@ const category = getLyricKalamType(data);
 // English is an original language, never a "Roman" transliteration.
 const isRomanOnly = data.direction === "ltr" && data.language !== "English" && !data.romanLyrics;
 const isEnglishOnly = data.language === "English" && data.direction === "ltr";
+const alternateForSEO = data.alternateTitle?.trim() &&
+  data.alternateTitle.trim().normalize("NFKC").toLocaleLowerCase() !== data.title.trim().normalize("NFKC").toLocaleLowerCase()
+  ? data.alternateTitle.trim() : undefined;
+const seoTitle = alternateForSEO ? `${data.title} (${alternateForSEO})` : data.title;
+const seoLanguage = isRomanOnly ? `Roman ${data.language}` :
+  data.language + (data.romanLyrics
+    ? data.language === "Urdu" ? " and Roman Urdu" : " and Roman transliteration"
+    : "");
+const seoDescription = `Read ${seoTitle} in ${seoLanguage}${data.poet ? `, by ${data.poet}` : ""}.`;
 function neighborTitle(entry: CollectionEntry<"lyrics">) {
   return entry.data.alternateTitle ?? entry.data.title;
 }
 ---
 
 <BaseLayout
-  title={`${data.title} | Kalam Archive`}
-  description={`Read ${data.title} in ${isRomanOnly ? "Roman " + data.language : data.language + (data.romanLyrics ? (data.language === "Urdu" ? " and Roman Urdu" : " and Roman transliteration") : "")}.`}
+  title={`${seoTitle} | Kalam Archive`}
+  description={seoDescription}
 >
   <article
     class="lyric-page"
@@ -100,7 +109,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
         <h2 class="lyric-version-heading">
           <span class="lyric-focus-title kalam-reading-title" lang={data.lang} dir={data.direction}>{data.title}</span>
         </h2>
-        <LyricVerses text={lyric.body ?? ""} className={isRomanOnly || isEnglishOnly ? "roman-lyrics-text" : "lyrics-text"} sixVerseLayout={data.sixVerseLayout} />
+        <LyricVerses text={lyric.body ?? ""} className={isRomanOnly || isEnglishOnly ? "roman-lyrics-text" : "lyrics-text"} stanzaPattern={data.stanzaPattern} indexForSearch searchTitle={data.title} />
       </section>
 
       {
@@ -117,7 +126,7 @@ function neighborTitle(entry: CollectionEntry<"lyrics">) {
                 {data.alternateTitle ?? data.title}
               </span>
             </h2>
-            <LyricVerses text={data.romanLyrics} className="roman-lyrics-text" sixVerseLayout={data.sixVerseLayout} />
+            <LyricVerses text={data.romanLyrics} className="roman-lyrics-text" stanzaPattern={data.stanzaPattern} indexForSearch searchTitle={data.alternateTitle ?? data.title} />
           </section>
         )
       }

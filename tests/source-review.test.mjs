@@ -260,13 +260,18 @@ test("publication checks own lyric stanza-number and pairs declarations", () => 
   const missing = lyric("پہلی\nدوسری", "First\nSecond") + "\n";
   assert.equal(check(missing).filter(code => code === "missing-lyric-stanza-number").length, 2);
   const pairs = lyric("۱\nپہلی\nدوسری", "1\nFirst\nSecond")
-    .replace('kalamType: "Salam"', 'kalamType: "Salam"\nsixVerseLayout: "pairs"') + "\n";
-  assert.equal(check(pairs).filter(code => code === "invalid-six-verse-layout").length, 2);
+    .replace('kalamType: "Salam"', 'kalamType: "Salam"\nstanzaPattern: "2+2+2"') + "\n";
+  assert.equal(check(pairs).filter(code => code === "invalid-stanza-pattern").length, 2);
   const valid = lyric("۱\n" + Array(6).fill("پہلی").join("\n"),
     "1\n" + Array(6).fill("First").join("\n"))
-    .replace('kalamType: "Salam"', 'kalamType: "Salam"\nsixVerseLayout: "pairs"') + "\n";
+    .replace('kalamType: "Salam"', 'kalamType: "Salam"\nstanzaPattern: "2+2+2"') + "\n";
   assert.deepEqual(check(valid), []);
-  assert.deepEqual(check(pairs.replace('sixVerseLayout: "pairs"', 'published: false\nsixVerseLayout: "pairs"')), []);
+  const couplets = lyric("۱\nپہلی\nدوسری", "1\nFirst\nSecond")
+    .replace('kalamType: "Salam"', 'kalamType: "Salam"\nstanzaPattern: 2') + "\n";
+  assert.deepEqual(check(couplets), []);
+  const stale = couplets.replace("stanzaPattern: 2", "stanzaPattern: 5");
+  assert.equal(check(stale).filter(code => code === "invalid-stanza-pattern").length, 2);
+  assert.deepEqual(check(pairs.replace('stanzaPattern: "2+2+2"', 'published: false\nstanzaPattern: "2+2+2"')), []);
 });
 
 test("Roman ṅ is the sole accepted Latin diacritic, including in Roman metadata", () => {

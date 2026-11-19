@@ -18,6 +18,9 @@ const searchTerms = [
   ...categories,
   ...data.tags,
   ...data.aliases,
+  // Pagefind indexes metadata too. Keep spelling variants searchable without
+  // putting titles, aliases, and a second copy of the poem into excerpts.
+  searchIndexAliases([data.title, data.alternateTitle, data.romanLyrics, lyric.body].filter(Boolean).join(" ")),
 ].filter(Boolean).join(" ");
 ---
 <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
@@ -34,18 +37,4 @@ const searchTerms = [
       {reciters.map((reciter) => <span data-pagefind-filter="reciter">{reciter}</span>)}
       {data.occasion && <span data-pagefind-filter="occasion">{data.occasion}</span>}
       {data.tags.map((tag) => <span data-pagefind-filter="tag">{tag}</span>)}
-    </div>
-
-    {/* Index only real poetry. Paragraphs keep distinct source lines apart
-        so Pagefind cannot join them into unreadable search excerpts. */}
-    <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
-      <p>{searchIndexAliases([data.title, data.alternateTitle, data.romanLyrics, lyric.body].filter(Boolean).join(" "))}</p>
-      <p>{data.title}</p>
-      {data.alternateTitle && <p>{data.alternateTitle}</p>}
-      {(lyric.body ?? "").split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
-        <p lang={data.lang} dir={data.direction}>{line}</p>
-      ))}
-      {data.romanLyrics?.split(/\r?\n/u).map((line) => line.trim()).filter(Boolean).map((line) => (
-        <p lang="en" dir="ltr">{line}</p>
-      ))}
     </div>

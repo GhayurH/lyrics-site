@@ -11,7 +11,7 @@ aliases: ["Bain Ul Haramain Sajjad Ashraf Taqvi", "bain-ul-haramain-sajjad-ashra
 published: true
 poet: "Noor Ali Noor"
 reciter: "Sajjad Ashraf Taqvi"
-sixVerseLayout: "pairs"
+stanzaPattern: "2+2+2"
 romanLyrics: |-
   1
   Bas isi soch meiṅ baitha huṅ maiṅ Bain al-Haramain

@@ -1,5 +1,6 @@
 // File role: Shared Basta text helpers for detecting the explicit between-kalam marker and rendering each kalam as a separate text block.
 import { parseStanzaNumber } from "./stanza-numbers.ts";
+import type { StanzaPattern } from "./stanza-pattern.ts";
 import { isStanzaNumber, isCreditLine, isKnownByline, isGenreHeading,
   matchesOpeningTitle, hasIntroductoryBlock } from "./basta-source-roles.ts";
 
@@ -62,6 +63,7 @@ export function layoutBastaKalam(
   indentStanzas = true,
   style: BastaStanzaStyle = "auto",
   prefaceOnly = false,
+  pattern?: StanzaPattern,
 ): BastaDisplayLine[] {
   const lines = text.replace(/\r\n?/g, "\n").split("\n");
   const display: BastaDisplayLine[] = lines.map((line) => {
@@ -132,7 +134,10 @@ export function layoutBastaKalam(
       block.end - block.start >= 8 &&
       (block.end - block.start) % 2 === 0,
     );
-  const usesCouplets = style === "couplet" || inferredCouplets;
+  // Markdown overrides page/section guesses, including the old Salam mode.
+  const usesCouplets = pattern === undefined
+    ? style === "couplet" || inferredCouplets
+    : pattern === 2 || pattern === "2+2+2";
 
   // Identify the poem's opening title, not the section heading or poet's
   // name. The title normally repeats as the first line of the verse block.
@@ -196,8 +201,9 @@ export function layoutBastaKalam(
     }
   }
 
-  // Titles are independent of stanza indentation (including early Basta pages).
-  if (!indentStanzas) return display;
+  // An isolated recitation preface has no verses. Reprocessing its title and
+  // poet as a two-line stanza would justify and indent the poet's name.
+  if (!indentStanzas || prefaceOnly) return display;
 
   let previousVerseCount = 0;
   let previousCoupletBlock: { start: number; end: number } | undefined;
@@ -216,7 +222,7 @@ export function layoutBastaKalam(
     }
 
     let endsWithCouplet = false;
-    if (usesCouplets && count >= 5) {
+    if (usesCouplets && (count >= 5 || (pattern === 2 && count >= 4))) {
       // Two-line stanzas may be transcribed as one continuous paragraph.
       // Preserve explicit four-line stanza blocks as originally printed.
       for (let offset = 0; offset < count; offset += 2) {
@@ -227,7 +233,7 @@ export function layoutBastaKalam(
         display[first + offset].coupletSeparator = true;
       }
       endsWithCouplet = count % 2 === 0;
-    } else if (count === 6) {
+    } else if (count === 6 && (pattern === undefined || pattern === 6 || pattern === "4+2")) {
       // The first four verses share the first-couplet-line end inset;
       // the framed closing two share the second-line start inset.
       for (let verse = first; verse < last - 2; verse++) {
@@ -239,7 +245,8 @@ export function layoutBastaKalam(
       display[last - 1].sixClosingEnd = true;
     } else if (count === 2) {
       // A source blank may divide a 6-line stanza into 4 + 2.
-      const closesSixLineStanza = previousVerseCount === 4 && !usesCouplets;
+      const closesSixLineStanza = previousVerseCount === 4 && !usesCouplets &&
+        (pattern === undefined || pattern === 6 || pattern === "4+2");
       if (closesSixLineStanza) {
         // The 4+2 case is only identifiable upon reaching the final pair.
         // Retroactively apply the opposite inset to its first four verses.

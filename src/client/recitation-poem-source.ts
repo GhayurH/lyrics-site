@@ -1,9 +1,10 @@
 // Canonical lazy source loading and validation for the Recitation Set reader.
 import type { BastaKalam } from "../lib/basta-kalam-units";
+import type { StanzaPattern } from "../lib/stanza-pattern";
 export type Poem = {
   title: string; alternateTitle?: string; urdu: string; roman?: string;
   sourceUrl: string; image?: string; lang: string; direction: string;
-  kind: "lyric" | "basta"; basta?: BastaKalam; sixVerseLayout?: "pairs";
+  kind: "lyric" | "basta"; basta?: BastaKalam; stanzaPattern?: StanzaPattern;
 };
 const poemCache = new Map<string, Promise<Poem>>();
 export async function fetchPoem(kind: "lyric" | "basta", id: string): Promise<Poem> {
@@ -23,7 +24,7 @@ export async function fetchPoem(kind: "lyric" | "basta", id: string): Promise<Po
           sourceUrl: lyric.sourceUrl || "/lyrics/" + encodeURIComponent(id) + "/",
           lang: lyric.lang || "ur",
           direction: lyric.direction || "rtl",
-          sixVerseLayout: lyric.sixVerseLayout === "pairs" ? "pairs" : undefined };
+          stanzaPattern: lyric.stanzaPattern };
       }
       const kalam = payload.kalam as BastaKalam;
       if (!kalam || kalam.id !== id || kalam.status !== "ready") throw Error("Unverified source");

@@ -3,6 +3,7 @@
 import { stanzaNumberValue } from "./stanza-numbers.ts";
 import { isBastaBoundary, splitBastaSource } from "./basta-text.ts";
 import { splitLyricStanzas, layoutLyricStanzas } from "./lyric-stanzas.ts";
+import { stanzaVerseCount, type StanzaPattern } from "./stanza-pattern.ts";
 import { arabic, latin, unusualLatin, record, checkLines, type ReviewFinding } from "./source-text-quality.ts";
 export type { ReviewFinding } from "./source-text-quality.ts";
 
@@ -265,18 +266,29 @@ export function reviewPublicationConventions(file: ReviewedMarkdown, text: strin
       "Omit the Roman literal when no transcription exists; never invent missing Roman text");
 
   if (kind !== "lyrics" || fields.published === "false") return issues;
-  // A paired 4+2/2+2+2 stanza is a layout declaration, not permission to
-  // invent missing lines or ignore an edition with different source text.
+  // The common declaration describes observed source verses, never invents or
+  // renumbers them. A missing declared form is a stale editorial override.
+  if (fields.sixVerseLayout !== undefined)
+    record(issues, path, 2, "obsolete-stanza-layout",
+      "Use stanzaPattern instead of sixVerseLayout");
+  const declared = fields.stanzaPattern;
+  const pattern: StanzaPattern | undefined = declared === "4+2" || declared === "2+2+2"
+    ? declared : declared && /^[1-9][0-9]*$/u.test(declared) &&
+      Number(declared) <= 12 ? Number(declared) : undefined;
+  if (declared !== undefined && pattern === undefined)
+    record(issues, path, 2, "invalid-stanza-pattern",
+      "stanzaPattern must be an integer 1–12, 4+2, or 2+2+2");
   for (const [label, edition] of [["Urdu", body], ["Roman", roman]] as const) {
     if (!edition?.trim()) continue;
     if (!splitLyricStanzas(edition).some(stanza => stanza[0]?.number))
       record(issues, path, label === "Urdu" ? file.bodyLine : file.romanLine ?? 2,
         "missing-lyric-stanza-number", label + " edition has no numbered stanza");
-    if (fields.sixVerseLayout === "pairs" &&
-        !layoutLyricStanzas(edition).some(stanza =>
-          stanza.filter(line => !line.number).length === 6))
+    if (pattern !== undefined &&
+        !layoutLyricStanzas(edition, pattern).some(stanza =>
+          stanza.filter(line => !line.number).length === stanzaVerseCount(pattern)))
       record(issues, path, label === "Urdu" ? file.bodyLine : file.romanLine ?? 2,
-        "invalid-six-verse-layout", label + " pairs layout has no six-verse stanza");
+        "invalid-stanza-pattern", label + " has no " + stanzaVerseCount(pattern) +
+        "-verse stanza matching stanzaPattern");
   }
   return issues;
 }

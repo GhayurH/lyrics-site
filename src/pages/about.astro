@@ -1,12 +1,12 @@
 ---
-// File role: Bilingual archive introduction, reading paths, source notes, and contact.
+// File role: Public-facing guide to the archive, its reading tools, Basta, saved/offline access, and Recitation Sets.
 import BaseLayout from "../layouts/BaseLayout.astro";
 import "../styles/about.css";
 ---
 
 <BaseLayout
-  title="About & Contact | Kalam Archive"
-  description="Learn about Kalam Archive, its Urdu poetry collections and reading tools, and how to send corrections or contributions."
+  title="About & Guide | Kalam Archive"
+  description="Discover Kalam Archive, learn how to search, read Urdu and Roman Urdu, explore Basta, save pages offline, and build Recitation Sets."
 >
   <article class="about-page">
     <header class="page-header-simple">
@@ -34,85 +34,334 @@ import "../styles/about.css";
       </section>
     </div>
 
-    <section class="about-section" aria-labelledby="about-explore-heading">
-      <div class="about-section-heading">
-        <h2 id="about-explore-heading">Explore the archive</h2>
-        <p lang="ur" dir="rtl">کلام کی تلاش اور مطالعہ</p>
+    <nav class="about-contents" aria-label="On this page">
+      <p class="about-contents-title">On this page</p>
+      <ul>
+        <li><a href="#purpose">Our purpose</a></li>
+        <li><a href="#discover">Browse &amp; search</a></li>
+        <li><a href="#reading">Reading tools</a></li>
+        <li><a href="#basta">Basta archive</a></li>
+        <li><a href="#saved">Saved &amp; offline</a></li>
+        <li><a href="#recitations">Recitation Sets</a></li>
+        <li><a href="#contact">Corrections &amp; contact</a></li>
+        <li><a href="#support">Keep it free</a></li>
+      </ul>
+    </nav>
+
+    <section id="purpose" class="about-guide-section about-purpose" aria-labelledby="purpose-heading">
+      <div class="about-guide-heading">
+        <p class="eyebrow">Our purpose</p>
+        <h2 id="purpose-heading">A practical home for kalam</h2>
+        <p>
+          The aim is simple: make kalam easier to preserve, discover, read, and use in a
+          majlis. The archive brings together individual lyrics and the original Basta
+          book, with tools built for readers, reciters, and anjumans.
+        </p>
       </div>
-      <div class="about-paths">
-        <a class="about-path" href="/search/">
-          <div>
-            <h3>Browse &amp; search</h3>
-            <p>Find kalam by its Urdu or Roman Urdu text, or browse by type.</p>
-            <p class="about-path-urdu" lang="ur" dir="rtl">
-              اردو یا رومن اردو سے کلام تلاش کریں، یا قسم کے لحاظ سے دیکھیں۔
-            </p>
-          </div>
-          <span class="about-path-arrow" aria-hidden="true">→</span>
-        </a>
-        <a class="about-path" href="/basta/">
-          <div>
-            <h3>Basta</h3>
-            <p>Read the book page by page or continuously, with original scans and available transcriptions.</p>
-            <p class="about-path-urdu" lang="ur" dir="rtl">
-              بستہ کو صفحہ بہ صفحہ یا مسلسل پڑھیں، اصل صفحات کی تصاویر اور دستیاب متن کے ساتھ۔
-            </p>
-          </div>
-          <span class="about-path-arrow" aria-hidden="true">→</span>
-        </a>
-        <a class="about-path" href="/recite/">
-          <div>
-            <h3>Recitation Sets</h3>
-            <p>Arrange a majlis programme, select Marsiya stanzas, and share one link with your group.</p>
-            <p class="about-path-urdu" lang="ur" dir="rtl">
-              مجلس کے لیے کلام ترتیب دیں، مرثیوں کے بند منتخب کریں اور ایک ہی لنک سب کے ساتھ شیئر کریں۔
-            </p>
-          </div>
-          <span class="about-path-arrow" aria-hidden="true">→</span>
-        </a>
+      <div class="about-principles">
+        <div><strong>Preserve the source</strong><p>Keep original Basta page scans available alongside transcriptions so readings can be checked.</p></div>
+        <div><strong>Read your way</strong><p>Choose scripts, layouts, fonts, colours, and a distraction-free reading view.</p></div>
+        <div><strong>Put kalam to use</strong><p>Save useful material and assemble shareable programmes without needing an account.</p></div>
       </div>
     </section>
 
-    <div class="about-section about-sources about-bilingual">
-      <section class="about-language" lang="en" dir="ltr" aria-labelledby="about-sources-en">
-        <h2 id="about-sources-en">Sources &amp; corrections</h2>
-        <p>
-          Transcriptions are checked and corrected as errors are found. Basta keeps
-          its original page scans alongside the text so you can compare them.
-          Some entries may still have mistakes or missing information.
-        </p>
-      </section>
-      <section class="about-language" lang="ur" dir="rtl" aria-labelledby="about-sources-ur">
-        <h2 id="about-sources-ur">ماخذ اور اصلاحات</h2>
-        <p>
-          متن میں غلطیاں سامنے آنے پر ان کی اصلاح کی جاتی ہے۔ بستہ میں اصل صفحات کی
-          تصاویر بھی موجود ہیں تاکہ متن کا موازنہ کیا جا سکے۔ بعض کلام میں اب بھی
-          غلطیاں یا معلومات کی کمی ہو سکتی ہے۔
-        </p>
-      </section>
-    </div>
+    <section id="discover" class="about-guide-section" aria-labelledby="discover-heading">
+      <div class="about-guide-heading">
+        <p class="eyebrow">01 · Discover</p>
+        <h2 id="discover-heading">Find the kalam you need</h2>
+        <p>Browse by category, look up a phrase, or narrow a search using the details attached to each kalam.</p>
+      </div>
+      <div class="about-feature-grid">
+        <article class="about-feature">
+          <h3>Browse by Kalam Type</h3>
+          <p>Explore nohas, salams, marsiyas, manqabats, and other types across the archive, including Basta entries.</p>
+          <ol>
+            <li>Open <a href="/">Browse</a> from the main navigation.</li>
+            <li>Select a Kalam Type to view matching entries.</li>
+            <li>Open a kalam to read it or add it to a recitation programme.</li>
+          </ol>
+          <a class="about-feature-link" href="/">Browse categories <span aria-hidden="true">→</span></a>
+        </article>
+        <article class="about-feature">
+          <h3>Search Urdu and Roman Urdu</h3>
+          <p>Search titles and poem text in either script, even when you only remember a line or part of a phrase.</p>
+          <ol>
+            <li>Type a phrase in the <a href="/search/">Search</a> page or the homepage search box.</li>
+            <li>Use <strong>Search in</strong> to choose Lyrics, Basta, or both.</li>
+            <li>Refine with Kalam Type, Haal, tags, language, occasion, poet, or reciter; clear filters when needed.</li>
+          </ol>
+          <a class="about-feature-link" href="/search/">Open advanced search <span aria-hidden="true">→</span></a>
+        </article>
+        <article class="about-feature">
+          <h3>Explore credits and metadata</h3>
+          <p>Where recorded, each lyric can show the poet, reciter, occasion, Haal, language, and Kalam Type.</p>
+          <ol>
+            <li>On a lyric page, open <strong>About this kalam</strong>.</li>
+            <li>Select a linked poet, reciter, type, or other field to find related kalam.</li>
+          </ol>
+        </article>
+        <article class="about-feature">
+          <h3>Share individual kalams</h3>
+          <p>Individual lyric and verified Basta kalam pages have their own URLs, so you can send someone directly to a poem rather than a long list.</p>
+          <ol>
+            <li>Open the kalam you want to share.</li>
+            <li>Copy its page URL from your browser and send it to the reader.</li>
+          </ol>
+        </article>
+      </div>
+    </section>
 
-    <section id="contact" class="about-section about-contact" aria-labelledby="contact-heading">
-      <div class="about-bilingual">
-        <div class="about-language" lang="en" dir="ltr">
-          <h2 id="contact-heading">Contact &amp; contributions</h2>
-          <p>
-            Found an error, have a kalam to suggest, or want to ask a question?
-            Email us. For corrections, please include the page link and the relevant verse.
-          </p>
+    <section id="reading" class="about-guide-section" aria-labelledby="reading-heading">
+      <div class="about-guide-heading">
+        <p class="eyebrow">02 · Read</p>
+        <h2 id="reading-heading">Make every reading view your own</h2>
+        <p>The same core reader controls work across standalone lyrics, Basta, and Recitation Sets, with options depending on what the source contains.</p>
+      </div>
+      <div class="about-feature-grid">
+        <article class="about-feature">
+          <h3>Urdu, Roman Urdu, and original images</h3>
+          <p>Read Urdu and Roman Urdu together or separately. Basta also offers the original scan wherever one is available.</p>
+          <ol>
+            <li>Open a poem or a Basta page and find the reading toolbar.</li>
+            <li>Open <strong>View</strong> if the options are collapsed, then use <strong>Show</strong> to select Urdu, Roman, or Image.</li>
+            <li>On wider screens, editions can appear alongside each other; on narrower screens, they stack.</li>
+          </ol>
+          <p class="about-feature-note">Only editions actually available for that source are offered.</p>
+        </article>
+        <article class="about-feature">
+          <h3>Resize bilingual text and adjust spacing</h3>
+          <p>Parallel Urdu and Roman text share a reading area, with verse sizing designed to fit the available width.</p>
+          <ol>
+            <li>When two text columns appear side by side, drag the divider to give one more room.</li>
+            <li>Choose <strong>Compact</strong>, <strong>Default</strong>, or <strong>Relaxed</strong> under <strong>Line Spacing</strong>.</li>
+            <li>The text layout adapts as the available width changes.</li>
+          </ol>
+        </article>
+        <article class="about-feature">
+          <h3>Focus Mode and fullscreen reading</h3>
+          <p>Remove surrounding distractions for a majlis, public recitation, or sustained reading session.</p>
+          <ol>
+            <li>Select <strong>Focus Mode</strong> in the reading toolbar.</li>
+            <li>Use <strong>Options</strong> to change editions or spacing, and <strong>Browser fullscreen</strong> when desired.</li>
+            <li>Select <strong>Exit</strong> to return to the regular page without losing your place.</li>
+          </ol>
+        </article>
+        <article class="about-feature">
+          <h3>Themes, custom colours, and fonts</h3>
+          <p>Choose from light, dark, sepia, AMOLED, and other reading palettes, or create your own. Urdu and Roman fonts can be selected separately.</p>
+          <ol>
+            <li>Use the palette-shaped <strong>Appearance settings</strong> button in the site header.</li>
+            <li>Under <strong>Colors</strong>, select a theme or start a Custom palette and adjust its colours.</li>
+            <li>Under <strong>Fonts</strong>, choose the Urdu and English/Roman Urdu faces and preview them.</li>
+          </ol>
+          <p class="about-feature-note">Appearance choices save automatically on this device. Some optional fonts require installation.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="basta" class="about-guide-section" aria-labelledby="basta-heading">
+      <div class="about-guide-heading">
+        <p class="eyebrow">03 · Preserve &amp; explore</p>
+        <h2 id="basta-heading">The complete Basta book archive</h2>
+        <p>Read the original printed pages and their transcriptions together, or open verified poems as complete individual kalams.</p>
+      </div>
+      <div class="about-feature-grid">
+        <article class="about-feature">
+          <h3>Read page by page</h3>
+          <p>See an original page scan next to Urdu text and Roman Urdu where available.</p>
+          <ol>
+            <li>From <a href="/basta/">Basta</a>, choose <strong>Page by page</strong>.</li>
+            <li>Use the Previous/Next navigation or enter a printed page number to jump directly.</li>
+            <li>Select a scan to enlarge it for closer reading.</li>
+          </ol>
+          <a class="about-feature-link" href="/basta/">Open Basta <span aria-hidden="true">→</span></a>
+        </article>
+        <article class="about-feature">
+          <h3>Read continuously</h3>
+          <p>Move through multiple printed pages as one reading session without opening each page separately.</p>
+          <ol>
+            <li>Choose <a href="/basta/read/">Continuous reader</a> on the Basta landing page.</li>
+            <li>Select visible editions, navigate with page controls or Contents, and use Focus Mode if helpful.</li>
+            <li>Return later using your locally saved reading progress.</li>
+          </ol>
+          <a class="about-feature-link" href="/basta/read/">Open continuous reader <span aria-hidden="true">→</span></a>
+        </article>
+        <article class="about-feature">
+          <h3>Printed index and individual kalams</h3>
+          <p>Find a work using its place in the original book, or read a verified complete kalam spanning several pages.</p>
+          <ol>
+            <li>Open the <a href="/basta/index/">printed index</a> or <a href="/basta/kalams/">individual kalam list</a>.</li>
+            <li>Select an entry. Verified poems open in their own reader; entries under review lead to their source pages.</li>
+            <li>On a multi-page individual kalam, use scan <strong>Previous</strong>/<strong>Next</strong> to compare the relevant source pages.</li>
+          </ol>
+        </article>
+        <article class="about-feature">
+          <h3>Check sources and download the book</h3>
+          <p>Read against the original printed page, inspect the source of numbered stanzas, or keep a copy of the book.</p>
+          <ol>
+            <li>On an individual Basta kalam, open <strong>Source scans for numbered stanzas</strong> to locate printed sources.</li>
+            <li>Select a page image for the full-size scan.</li>
+            <li>Use <strong>Download PDF</strong> on <a href="/basta/">Basta</a> for the complete original book.</li>
+          </ol>
+        </article>
+      </div>
+    </section>
+
+    <section id="saved" class="about-guide-section" aria-labelledby="saved-heading">
+      <div class="about-guide-heading">
+        <p class="eyebrow">04 · Keep your place</p>
+        <h2 id="saved-heading">Save, resume, and read offline</h2>
+        <p>Keep track of the kalams and pages you use regularly, with your personal library stored in this browser.</p>
+      </div>
+      <div class="about-feature-grid">
+        <article class="about-feature">
+          <h3>Favorites, bookmarks, and reading history</h3>
+          <p>Save standalone lyrics, individual Basta kalams, printed pages, and selected Basta stanzas.</p>
+          <ol>
+            <li>Use the save or bookmark control on a lyric, Basta page, individual kalam, or numbered stanza.</li>
+            <li>Open <a href="/saved/">Saved &amp; recent</a> to revisit your selections and recently viewed lyrics.</li>
+            <li>Use <strong>Continue reading</strong> to resume Basta when a saved position exists.</li>
+          </ol>
+          <a class="about-feature-link" href="/saved/">Open your library <span aria-hidden="true">→</span></a>
+        </article>
+        <article class="about-feature">
+          <h3>Save material for offline reading</h3>
+          <p>Download selected archive pages for times when the internet is unreliable or unavailable.</p>
+          <ol>
+            <li>Open <a href="/saved/">Saved &amp; recent</a>, then <strong>Backup and offline reading</strong>.</li>
+            <li>Choose <strong>Save bookmarked pages offline</strong>; optionally include original Basta scans.</li>
+            <li>For wider preparation, download the offline search index or save a specific Basta page range.</li>
+          </ol>
+          <p class="about-feature-note">Offline copies need to be downloaded while online and remain subject to browser storage and device limitations.</p>
+        </article>
+        <article class="about-feature">
+          <h3>Back up and transfer your library</h3>
+          <p>Move saved items, reading positions, preferences, and local Recitation Set drafts between browsers or devices.</p>
+          <ol>
+            <li>In <a href="/saved/">Saved &amp; recent</a>, select <strong>Export JSON backup</strong>.</li>
+            <li>Keep the downloaded file somewhere secure.</li>
+            <li>Use <strong>Import backup</strong> on the new browser or device to restore it.</li>
+          </ol>
+          <p class="about-feature-note">A backup may contain private organizer links for published programmes. Do not share it publicly.</p>
+        </article>
+        <article class="about-feature">
+          <h3>No account needed</h3>
+          <p>Saved favorites, recent reading history, themes, bookmarks, and unpublished programme drafts live in your browser. Clearing browser data can erase them, so export a backup if you need to keep them.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="recitations" class="about-guide-section" aria-labelledby="recitations-heading">
+      <div class="about-guide-heading">
+        <p class="eyebrow">05 · Recite together</p>
+        <h2 id="recitations-heading">Plan and share Recitation Sets</h2>
+        <p>Build a majlis programme from the archive, arrange it in recitation order, and give your group one reader link.</p>
+      </div>
+      <div class="about-feature-grid">
+        <article class="about-feature">
+          <h3>Create a programme or use a template</h3>
+          <p>Make your own sequence of up to 40 entries, or start with a reusable programme template.</p>
+          <ol>
+            <li>Open <a href="/recite/">Recitation Sets</a> and choose <strong>New set</strong> or <strong>Start from template</strong>.</li>
+            <li>Add a title and, if useful, an occasion and description.</li>
+            <li>Find kalam using the built-in Urdu/Roman title search, or use <strong>Add to set</strong> on a lyric page.</li>
+          </ol>
+          <a class="about-feature-link" href="/recite/">Build a Recitation Set <span aria-hidden="true">→</span></a>
+        </article>
+        <article class="about-feature">
+          <h3>Arrange the order and assign reciters</h3>
+          <p>Adjust the programme for your gathering rather than changing the source poems.</p>
+          <ol>
+            <li>Drag entries into order or use their arrow buttons.</li>
+            <li>Add reciter assignments and notes, or repeat a kalam when needed.</li>
+            <li>Keep separate local drafts and duplicate a set to adapt it for another occasion.</li>
+          </ol>
+        </article>
+        <article class="about-feature">
+          <h3>Customize Marsiya stanzas</h3>
+          <p>For supported, verified numbered Basta Marsiyas, build the exact stanza sequence needed for a recitation.</p>
+          <ol>
+            <li>Open the stanza-arrangement controls for that Marsiya in your programme.</li>
+            <li>Reorder or repeat stanzas, or borrow one from another verified Marsiya.</li>
+            <li>Restore the original sequence if needed. The archive's source text remains unchanged.</li>
+          </ol>
+        </article>
+        <article class="about-feature">
+          <h3>Publish a link or share a QR code</h3>
+          <p>Let others read the programme without giving them permission to edit it.</p>
+          <ol>
+            <li>When ready, select <strong>Publish set</strong>.</li>
+            <li>Share the <strong>read-only public link</strong> or display its QR code.</li>
+            <li>Keep the separate <strong>private organizer link</strong> secure: it allows changes and deletion.</li>
+          </ol>
+          <p class="about-feature-note">Published links normally expire two years after the last authorized update; the organizer can choose to keep a programme available until deleted.</p>
+        </article>
+        <article class="about-feature">
+          <h3>Guide the gathering live</h3>
+          <p>Move participating readers through the same programme while allowing each person to choose whether to follow.</p>
+          <ol>
+            <li>Use the organizer controls to <strong>Start live</strong> and advance through kalams.</li>
+            <li>Readers can choose <strong>Follow organizer live</strong> or navigate independently.</li>
+            <li>Stop live following when the coordinated part ends; an internet connection is required for live updates.</li>
+          </ol>
+        </article>
+        <article class="about-feature">
+          <h3>Read, print, or export your programme</h3>
+          <p>Use the same readable Urdu/Roman layout for the whole programme, on screen or on paper.</p>
+          <ol>
+            <li>Open <strong>Read set</strong> and choose <strong>Continuous</strong> or <strong>One at a time</strong>.</li>
+            <li>Use the reading toolbar and Focus Mode as needed.</li>
+            <li>Open <strong>Offline reading &amp; printing</strong> to save a self-contained HTML reading copy or print/save as PDF.</li>
+          </ol>
+          <p class="about-feature-note">Offline HTML includes text and programme details, not original page scans or live following.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="contact" class="about-guide-section about-contact" aria-labelledby="contact-heading">
+      <div class="about-guide-heading">
+        <p class="eyebrow">Corrections &amp; contributions</p>
+        <h2 id="contact-heading">Help keep the archive accurate</h2>
+        <p>
+          Transcriptions and metadata are improved as errors are found. Original Basta scans
+          make comparison possible, but some entries may still have mistakes, missing Roman
+          text, or incomplete credits. If you notice an issue, your correction is welcome.
+        </p>
+      </div>
+      <div class="about-contact-grid">
+        <div>
+          <h3>Suggest a correction</h3>
+          <p>Use <strong>Suggest correction</strong> on a lyric or Basta kalam page, or email us with the page URL, the relevant verse, and your proposed correction.</p>
         </div>
-        <section class="about-language" lang="ur" dir="rtl" aria-labelledby="contact-heading-ur">
-          <h2 id="contact-heading-ur">رابطہ اور تعاون</h2>
-          <p>
-            اگر متن میں غلطی ملے، کوئی کلام شامل کرانا چاہیں یا سوال ہو تو ای میل کریں۔
-            اصلاح کی صورت میں متعلقہ صفحے کا لنک اور مصرع بھی بھیجیں۔
-          </p>
-        </section>
+        <div>
+          <h3>Contribute kalam or information</h3>
+          <p>Share missing kalam, source images, accurate transcriptions, poet or reciter details, or suggestions for improving the archive.</p>
+        </div>
       </div>
       <a class="about-contact-email" href="mailto:lyricsadmin@gmail.com">
-        <span>Send an email</span>
+        <span>Contact the archive</span>
         <strong>lyricsadmin@gmail.com</strong>
       </a>
+    </section>
+
+    <section id="support" class="about-guide-section about-support" aria-labelledby="support-heading">
+      <div class="about-support-copy">
+        <p class="eyebrow">Keep Kalam Archive accessible</p>
+        <h2 id="support-heading">Free and ad-free. Always.</h2>
+        <p>
+          Kalam Archive is free to use and will remain ad-free. Reading kalam, searching the
+          archive, viewing original pages, and preparing recitation programmes should not
+          come with advertisements or a paywall.
+        </p>
+        <p>
+          Keeping the website online still has costs, including hosting and storage for
+          original scans. If you would like to help cover those ongoing costs and keep the
+          archive available to everyone, please get in touch about contributing.
+        </p>
+        <a class="about-support-action" href="mailto:lyricsadmin@gmail.com?subject=Supporting%20Kalam%20Archive">
+          Contribute to running costs <span aria-hidden="true">→</span>
+        </a>
+      </div>
     </section>
   </article>
 </BaseLayout>

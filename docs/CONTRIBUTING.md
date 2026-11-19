@@ -9,7 +9,15 @@ The repository stores culturally and religiously significant source text. Treat 
 - Original-language `lang` fields follow [Language codes](LANGUAGE_CODES.md), including `ur`, `pa-Arab`, `skr-Arab` and `bft-Arab` for Arabic-script originals. `romanLyrics` does not declare a separate language.
 - Follow [Transliteration](TRANSLITERATION.md) for **all** Roman orthography, pronunciation, edition-completeness rules and source-text exceptions; do not duplicate those standards here.
 - For **بی‌بی**, retain the canonical U+200C non-joiner in the Urdu source. Other invisible code points remain subject to review.
-- Standalone `sixVerseLayout: "pairs"` is used only for reviewed 2+2+2 forms; default six-verse layout is 4+2. Intentional different Urdu/Roman stanza verse counts require a *current* `stanzaLineExceptions` declaration.
+- Optional **stanzaPattern** is the shared verse-count/layout declaration for both standalone lyrics and Basta. Examples: `stanzaPattern: 2` (two-verse couplets), `stanzaPattern: 3` (three-verse stanzas), `stanzaPattern: 4`, `stanzaPattern: "4+2"` (six verses with framed last two), or `stanzaPattern: "2+2+2"` (three paired couplets). An integer from 1 to 12 is supported; `6` uses the default 4+2 styling. When absent, keep existing source-based inference. The previous `sixVerseLayout` field is obsolete.
+- On a **Basta page**, `stanzaPattern` applies to every printed kalam fragment on that page. For mixed pages use `stanzaPatterns` to override particular fragments in their 1-based `---***---` order (not the index's poem numbers). E.g.:
+  ```yaml
+  stanzaPattern: 2
+  stanzaPatterns:
+    "3": "4+2"
+  ```
+  Here the third kalam uses 4+2; the others remain couplets. Page, continuous, individual-kalam and Recitation Set readers all consume the shared declaration. Keep the same pattern on a kalam's continued pages when changing the form; do not use fragment metadata to change or silently regroup its source lines.
+- Intentional different Urdu/Roman stanza verse counts require a *current* `stanzaLineExceptions` declaration; this is an edition-completeness exception, not a stanza layout override.
 - `[[subtitle]] ` and `[[refrain]] ` may mark explicitly reviewed subordinate headings/refrains in **both** editions. These markers are metadata for visual roles; they are hidden by the renderer. Do not infer them automatically from arbitrary lines.
 - Provenance links are metadata (`bastaPage`, `bastaNote`), not in-verse credits.
 

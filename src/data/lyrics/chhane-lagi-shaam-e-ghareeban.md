@@ -6,7 +6,8 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
-sixVerseLayout: "pairs"
+
+stanzaPattern: "2+2+2"
 tags: []
 aliases:
   - "Chhane Lagi Shaam e Ghareeban"

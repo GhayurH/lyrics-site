@@ -6,7 +6,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Hamd"
 poet: "Mir Ahmed Navaid (Naveed)"
-sixVerseLayout: "pairs"
+stanzaPattern: "2+2+2"
 tags: []
 aliases: ["Woh Tu Hai Woh Main Hoon Hamd"]
 published: true
