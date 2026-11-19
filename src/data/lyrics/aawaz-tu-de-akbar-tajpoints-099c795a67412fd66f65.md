@@ -9,142 +9,64 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Aawaz Tu De Akbar"
-romanLyrics: 'Karwal jawan ki laash par, kehta raha, ro kar pidar
-
-  Awaaz to day Akbar, haey Awaaz to day Akbar
-
+romanLyrics: |-
+  Kariyal jawan ki laash par kehta raha ro kar pidar
+  Awaaz to de Akbar haye awaaz to de Akbar
+  Girta hua uthta hua aa to gaya hoon main magar gum ho gaya noor-e-nazar
 
   1
-
-  Girta howa uthta howa, aa tu gaya hun mein magar, ghum hogaya noor-e-nazar.
-
+  Tu Nojawan Hai Akbar, Aur Hai Zaeef Baba
+  Kaisay Uthaoon Mayyat, Mujh Ko To Bata Dai Itna
+  Jaana Hai Ab Khayyam Tak, Kaisay Karoon Main Ye Safar
+  Kham Hogayee Meri Kamar
 
   2
-
-  1) Tu nojawan hai Akbar, aur hai zaeef hay baba
-
-  Kaisay uthaoon mayyat, mujko tu bata de itna
-
-  Jaana hai ab khayyam tak, kaisay karun main ye safar
-
-  Kham hogayee meri qamar
-
-  Awaaz To Day Akbar, haaye
-
+  Aayee Sada Jidher Sai, Main Uss Taraf Bharun Ga
+  Awaaz Suntai Suntai, Tujhay Ran Main Dhoond Hee Lun Ga
+  Tu Hai Jidher Pyaarai Merai, Dheerai Sai Yeh Kehtay Huwai
+  Baba Idher Baba Idher
 
   3
-
-  2) Aayi Sadaa Jidhar Se, Mai us Taraf Barhunga
-
-  Aayi Sadaa Jidhar Se
-
-  Awaaz Sunte Sunte, Tujhe Ran Mai Dhundh hi lunga
-
-  Tu Hai Jidhar Pyaare Mere, Dheere Se Yeh Kehte Huwe
-
-  Baba Idhar, Baba Idhar
-
+  Sughra Ke Naamaghar Ko, Khat Ka Jawab Kya Dun
+  Jo Muntazir Hai Us Ko, Barchee Ka Haal Suna Dun
+  Rastay Sai Ab Nazarain’ Hata, Maara Gaiya Bhai Tera
+  Kya Bhej Dun Us Ko Khabar
 
   4
-
-  3) Sughra Ke Naamwar ko, khat ka jawaab kya doon
-
-  Sughra Ke Naamwar ko
-
-  Jo Muntazir Hai Usko, Barchhi Ka Haal Sunadun
-
-  Raste Se Ab Nazren Hata, Maara Gaya Bhaai Tera
-
-  Kya Bhejdun Usko Khabar haaye
-
+  Teri Sada Ko Sun Ker, Woh Phir Sai Jee Uthay Gi
+  Hamsheer Teri Warna, Shayad Nahi Jee Paayai Gi
+  Seenay Ki Barchi Thaam Kai, Sughra Ko Us Kai Naam Sai
+  Ik Baar Himmat Jor Ker
 
   5
-
-  4) Teri Sadaa Ko Sunkar, Woh Phir Se Jee Uthegi
-
-  Teri Sadaa Ko Sunkar
-
-  Hamshir Teri Warna, Shaayad Nahin Jee paayegi
-
-  Seenay Ki Barchhi Thaamke, Sughra Ko Uske Naam Se
-
-  Ek baar himmat Jorr Kar
-
+  Barchi Sai Bas Kaleja, Tera Nahi Chidda Hai
+  Maqtal Main Fatima Nai Dil Apna Thaam Liya Hai
+  Bhai Hassan Nana Nabi, Baba Ali Dadi Teri
+  Moujood Hain Sab Hi Idher
 
   6
-
-  5) Barchhi Se Bas Kalejaa, Tera Nahi Chhidaa Hai
-
-  Barchhi Se Bas Kalejaa
-
-  Maqtal Mai Fatema Ne, Dil apnaa Thaam Liya Hai
-
-  Bhaai Hassan Nana Nabi, Baba Ali Daadi Teri
-
-  Mawjud Hai Sab Hi Idhar
-
+  Kaisai Bayaan Karun Main, Woh Dardnaak Manzar
+  Saktay Main Thi Khudayaee, Rota Tha Sara Lashkar
+  Jab Fatima Kai Laal Nai, Hathon Pai Lai Ker Khaak Sai
+  Rakh Ker Kaha Zaanon Pai Sar
 
   7
-
-  6) Kaise Bayaan Karun Mai, Woh Dardnaak Manzar
-
-  Kaise Bayaan Karun Mai
-
-  Sakhte Mai Thi Khudaai, Rota Tha Saara Lashkar
-
-  Jab Fatema Ke Laal ne, Haathon Pe Lekar Khaak Se
-
-  Rakh Kar Kahaan Zaanun Pe Sar
-
+  Laashey Kai Dono Janib, Baithi Hain Maaein Dono
+  Seeney Kai Bosai Dai Kar Laiti Hain Balaein Dono
+  Zainab Idhar Laila Idhar, Choomai Tera Zakhmi Jiger
+  In Sai To Koee Baat Kar
 
   8
-
-  7) Laashe Ke Dono Jaanib, Baithi Hai Maaen Dono
-
-  Laashe Ke Dono Jaanib
-
-  Seenay Pe Bosen Dekar, Leti Hai Malaaen Dono
-
-  Zainab Idhar Laila Idhar, Chume Tera Zakhmi Jigar
-
-  Inse Toh Koi Baat Kar
-
+  Takra Rahi Hai Har Su Khaimai Main Um-e-ZLaila
+  Usko Pata Chala Jab Aya Hai Tera Lasha
+  Teri Maut Ki Sun Kar Khabar, Girta Nahi Khaimay Ka Dar
+  Aaisa Huwa Uspar Asar
 
   9
-
-  8) Teri Sadaa Ko Sunkar, Woh Phir Se Jee Uthegi
-
-  Teri Sadaa Ko Sunkar
-
-  Hamshir Teri Warna, Shaayad Nahin Jee paayegi
-
-  Sine Ki Barchhi Thaamke, Sughra Ko Uske Naam Se
-
-  Ek baar himmat Jor kar
-
-
-  10
-
-  9) Takra rahi hain har su khaimein mein Umm-e-Laila
-
-  Usko pata chala jab aya hai tera lasha
-
-  Teri maut ki sunkar khabar, girta nahi khaime ka dar
-
-  Aisa huwa uspar asar
-
-
-  11
-
-  10) Akbar Janaabe Akbar, Khaamosh Ho Gaye Thay
-
-  Akbar Janaabe Akbar
-
-  Shabbir Sar Jhukaaye, Laashe Ke Paas Khade The
-
-  Zainab Kabhi Laila Kabhi, Behnne Kabhi Kabhi Naamwar
-
-  Kehta Rahaa Yeh Saara Ghar'
+  Akbar Janabe Akbar Khamosh Ho Gaey Thay
+  Shabbir Sar Jhukaey Lashay Kai Paas Kharey Thay
+  Zainab Kabhi Laila Kabhi, Behnain’ Kabhi, Kabhi Naamawar
+  Kehta Raha Yeh Sara Ghar
 # source_id: tajpoints:099c795a67412fd66f65
 # source_url: https://tajpoints.com/2017/02/kariyal-jawaan-ki-laash-par-kehta-raha.html
 # raw_sha256: 37e9774a72ada920c86f9051e1e70fc2481c5326fc8c8497f1a2d84f0783ddfe
@@ -162,63 +84,60 @@ romanLyrics: 'Karwal jawan ki laash par, kehta raha, ro kar pidar
 ---
 
 کڑیل جواں کی لاش پر کہتا رہا رو کر پدر
-آواز تو دے اکبر ۔۔۔۔
+آواز تو دے اکبر
 گرتا ہوا اُٹھتا ہوا ٓتو گیا ہوں میں مگر
 گُم ہوگیا نورِنظر
-آواز۔۔۔
 
 ۱
 تُو نوجواں ہے اکبر اور ضعیف بابا
 کیسے اُٹھائوںمیت مجھ کو تُو بتا دے اتنا
 جانا ہے اب خیام تک کیسے کروں میں یہ سفر
 خم ہوگئی میری کمر
-آواز۔۔۔
 
 ۲
 آئی صدا جدھر سے میں اُس طرف بڑھوںگا
 آواز سنتے سنتے تجھے اُن میںڈھونڈ ہی لوںگا
 تُو ہے جدھر پیارے میرے دِھرے سے یہ کہتے ہوئے
 بابا اِدھر بابااِدھر
-آواز۔۔۔
 
 ۳
 صغرا کے نامہ ور کو خط کا جواب کیا دوں
 وہ منتظر ہے اُس کو برچھی کا حال سُنادوں
 رستہ سے اب نظریں ہٹا مارا گیا بھائی تیرا
 کیا بھیج دوں اُس کو خبر
-آواز۔۔۔
 
 ۴
 تیری صدا کو سن کر وہ پھر سے جی اُٹھے گی
 ہمشیر تیری ورنہ شاید نہیں جی پائے گی
 سینے کی برچھی تھام کہ صغرا کو اُس کے نام سے
 اک بار ہمت جوڑ کر
-آواز۔۔۔
 
 ۵
 برچھی سے بس کلیجہ تیرا نہیں چھدا ہے
 مقتل میں فاطمہ نے دل اپنا تھام لیا ہے
 بھائی حسن نانا نبی باباعلی دادی تیری
 موجود ہیں سب ہی ادھر
-آواز۔۔۔
 
 ۶
 کیسے بیاں کروں میں وہ درد ناک منظر
 سکتے میںتھے خدائی روتا تھا سارا لشکر
 جب فاطمہ کے لال نے ہاتھوں پہ لیکر خاک سے
 رکھ کر کہا زانوں سر
-آواز۔۔۔
 
 ۷
 لاشے کے دونو جانب بیٹھیں ہیں مائیں دونوں
 سینے پہ بوسے دیکر لیتی ہیں بلائیں دونوں
 زینب اِدھر لیلہ اُدھر چومیں تیرا زخمی جگر
 اِن سے تو کوئی بات کر
-آواز۔۔۔
 
 ۸
+ٹکرا رہی ہے ہر سو خیمے میں امِ لیلیٰ
+اُس کو پتا چلا جب آیا ہے تیرا لاشہ
+تیری موت کی سن کر خبر گرتا نہیں خیمے کا در
+ایسا ہوا اُس پر اثر
+
+۹
 اکبر جنابِ اکبر خاموش ہوگئے تھے
 شبیر سر جھکائے لاشے کے پاس کھڑے تھے
 زینب کبھی لیلہ کبھی بہنیںکبھی کبھی نامہ ور
 کہتا رہا یہ سارا گھر
-آواز۔
