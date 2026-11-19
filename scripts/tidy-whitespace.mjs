@@ -55,7 +55,7 @@ const tidy = text => {
   // CRLF, trailing ASCII spaces/tabs, and all EOF newlines (including the final one).
   // Do not trim leading/interior whitespace or normalize Unicode.
   return text.replace(/\r\n?/gu, "\n").replace(/[ \t]+$/gmu, "")
-    .replace(/\n+$/u, "") + "\n";
+    .replace(/\n+$/u, "");
 };
 const write = flags.has("--write");
 let checked = 0, changed = 0;
