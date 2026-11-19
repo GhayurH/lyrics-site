@@ -37,6 +37,10 @@ romanLyrics: |-
   6
   Jis haath ne giraya tha hamshakl-e-Mustafa
   Neza liye wo haath rida tak pahunch gaya
+
+  7
+  Barchhi gari hui thi to qasid bhi aa gaya
+  Sughra ka intezar qaza tak pahunch gaya
 # source_id: nohayonline:63169507b6a7870ca5ef
 # source_url: https://www.nohayonline.com/details_content.php?id=1067
 # raw_sha256: 165eaec557f5acf3f4bb61257c35feaeffa9eb7e5c38ec00cdd9a65f88e00dbb
@@ -67,3 +71,7 @@ romanLyrics: |-
 ۶
 جس ہاتھ نے گرایا تھا ہمشکل مصطفیٰ
 نیزہ لیے وہ ہاتھ ردا تک پہنچ گیا
+
+۷
+برچھی گڑی ہوئی تھی تو قاصد بھی آ گیا
+صغریٰ کا انتظار قضا تک پہنچ گیا
