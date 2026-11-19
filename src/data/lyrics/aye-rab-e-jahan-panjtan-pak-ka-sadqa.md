@@ -90,6 +90,9 @@ romanLyrics: |-
   20
   Sar Par Ho Sada Parcham-e-Abbas Ka Saya
   Mohsin Ki Dua Khatam Ho Ab Iss Ko Asar De
+# editorial_variant_pending: Alternate captivity petition, stanza ۷: مولا تجھے زینبؑ کی اسیری کی قسم ہے
+# editorial_variant_pending: Alternate wealth petition, stanza ۶: مفلس پہ زر و لال جواہر کی ہو بارش
+# editorial_variant_pending: Alternate pairing of stanza ۹ and stanza ۱۷ lines: جو دین کے کام آئیں وہ اولاد عطا کر / جو مجلسِ شبیرؑ کی خاطر ہو وہ گھر دے
 ---
 
 ۱

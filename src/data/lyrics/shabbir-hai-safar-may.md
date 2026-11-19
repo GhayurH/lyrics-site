@@ -6,7 +6,9 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Raza"
-reciter: "Nasir Asghar Party (SM)"
+reciter:
+  - "Nasir Asghar Party (SM)"
+  - "Sajjad Ashraf Taqvi"
 tags: []
 aliases: ["Shabbir Hai Safar May"]
 published: true
@@ -36,6 +38,8 @@ romanLyrics: |-
 # source_id: nohayonline:6f0b39bd97f9586e80c6
 # source_url: https://www.nohayonline.com/details_content.php?id=2268
 # raw_sha256: 4354e1eb672dc4bd5c3cb89f8646f3e979e83f3030d13ffed7965078be91b7e9
+# editorial_variant_pending: Alternate line for stanza ۴: Khon-e-Lab-e-Shaheedan Tafseer Hai Qurani
+# editorial_variant_pending: Current canonical stanza ۴ reads Khun-e-rag-e-shahidaṅ tafsir hai puraani; compare independent recordings before choosing a reading
 ---
 شبیر ہے سفر میں اور ساتھ زہرا ثانی
 دہرائی حسبنا کی امت نے پھر کہانی
