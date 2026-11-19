@@ -1,9 +1,10 @@
 ---
-title: "Haye Masoom Sakina Tanha Hasan Sadiq"
+title: "ہائے معصوم سکینہؑ تنہا زنداں میں دم توڑ گئی"
 language: "Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Other"
+kalamType: "Noha"
+reciter: "Hasan Sadiq"
 poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
