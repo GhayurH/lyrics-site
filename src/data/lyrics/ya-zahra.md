@@ -113,6 +113,41 @@ romanLyrics: |-
 
   ae meri bibi, tere dar pe sar jhukate haiṅ
   har Husaini ka tere tukroṅ pe hi guzara hai
+  12
+  Boliṅ Zahra Ali se Ya Maula
+  Gham ye mujh se nahiṅ saha jaata
+  Qatl-e-Mohsin se barh ke mushkil tha
+  Bhare darbaar meiṅ mera jaana
+
+  13
+  Jab tha rassi meiṅ Murtaza ka gala
+  Imtihaan zabt ka wo tha tera
+  Haaṅ Madina ujar gaya hota
+  Tu jo de deti bad-dua Zahra
+
+  14
+  Tu hijaab-e-Khuda hai Ya Zahra
+  Dard tere haiṅ sab se poshida
+  Kitni muztar hai kitni zakhmi hai
+  Ya Ali jaante haiṅ Ya Fizza
+
+  15
+  Ae Muhammad ki laadli dukhtar
+  Gham meiṅ tere hai Murtaza muztar
+  Jis ne dhaaya tha baab-e-Khaibar ko
+  Gir gaya khaak par wo ye keh kar
+
+  16
+  Hum ko har aan ye nadaamat hai
+  Hum haiṅ mujrim teri adaalat hai
+  Rizq aulaad zindagi har pal
+  Jo bhi kuchh hai teri badaulat hai
+
+  17
+  Waqt-e-aakhir hai bas mera Bibi
+  Anginat haiṅ mere gunaah Bibi
+  Waasta tujh ko tere bachchoṅ ka
+  Bakhshwaana mere gunaah Bibi
 ---
 
 یا زہرا یا زہرا
@@ -217,3 +252,39 @@ romanLyrics: |-
 
 اے میری بی‌بی، تیرے در پہ سر جھکاتے ہیں
 ہر حسینی کا تیرے ٹکڑوں پہ ہی گزارا ہے
+
+۱۲
+بولیں زہرا علی سے یا مولا
+غم یہ مجھ سے نہیں سہا جاتا
+قتلِ محسن سے بڑھ کے مشکل تھا
+بھرے دربار میں میرا جانا
+
+۱۳
+جب تھا رسی میں مرتضیٰ کا گلا
+امتحان ضبط کا وہ تھا تیرا
+ہاں مدینہ اجڑ گیا ہوتا
+تو جو دے دیتی بددعا زہرا
+
+۱۴
+تو حجابِ خدا ہے یا زہرا
+درد تیرے ہیں سب سے پوشیدہ
+کتنی مضطر ہے کتنی زخمی ہے
+یا علی جانتے ہیں یا فضہ
+
+۱۵
+اے محمد کی لاڈلی دختر
+غم میں تیرے ہے مرتضیٰ مضطر
+جس نے ڈھایا تھا بابِ خیبر کو
+گر گیا خاک پر وہ یہ کہہ کر
+
+۱۶
+ہم کو ہر آن یہ ندامت ہے
+ہم ہیں مجرم تری عدالت ہے
+رزق اولاد زندگی ہر پل
+جو بھی کچھ ہے تری بدولت ہے
+
+۱۷
+وقتِ آخر ہے بس میرا بی بی
+ان گنت ہیں میرے گناہ بی بی
+واسطہ تجھ کو تیرے بچوں کا
+بخشوانا میرے گناہ بی بی

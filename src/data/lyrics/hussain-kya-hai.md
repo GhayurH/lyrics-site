@@ -38,6 +38,9 @@ romanLyrics: |-
   Khuda na de di jise khudaai
   Husain wo hai Husain wo hai
 
+  Shah ast Husain, Baadshah ast Husain
+  Din ast Husain, Din panaah ast Husain
+
   4
   Wo jis ne khaak-e-shifa banaai
   Wo jis ne nafs-e-jahaaṅ chalaai
@@ -99,6 +102,9 @@ romanLyrics: |-
 کرے جو نبیوں کی رہنمائی
 خدا نہ دے دی جسے خدائی
 حسین وہ ہے حسین وہ ہے
+
+شاہ است حسین، بادشاہ است حسین
+دیں است حسین، دیں پناہ است حسین
 
 ۴
 وہ جس نے خاک شفا بنائی
