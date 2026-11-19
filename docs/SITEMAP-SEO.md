@@ -25,8 +25,8 @@ Astro renders the HTML but before Pagefind builds its index. The verifier:
 - Reads the sitemap index and every child sitemap.
 - Rejects malformed children, duplicate URLs, off-site links, query strings,
   and fragments.
-- Checks every generated `/lyrics/`, `/basta/`, and `/categories/` HTML
-  route appears in the sitemap.
+- Compares every generated HTML route with every sitemap URL in both
+  directions, catching missing pages and stale/unbuilt URLs.
 - Compares the number of lyric and printed Basta routes against the
   published Markdown files, so missing pages cannot hide behind the sitemap.
 
@@ -83,4 +83,4 @@ of blocked GitHub Actions requests alone.
 
 The local build-time sitemap verification succeeded: **4,359** generated
 URLs, including **3,349** published standalone lyrics and **454** printed
-Basta pages, with all generated archive/category routes represented.
+Basta pages, with every generated HTML route represented.
