@@ -75,6 +75,11 @@ jobs:
         run: npm run check
       - name: Production build (unit tests, source checks, Astro and Pagefind)
         run: npm run build
+      # One-off diagnostic for this PR: compare the currently deployed sitemap
+      # with a source-equivalent main build, then remove this temporary step.
+      - name: One-time live sitemap comparison
+        if: github.head_ref == 'fix/sitemap-verification-html-seo-2026-11-19'
+        run: npm run sitemap:verify:live
       - name: Report JavaScript, CSS, and font asset sizes
         run: npm run perf:assets
       - name: Generate editorial review report (Basta and standalone)
