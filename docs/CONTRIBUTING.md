@@ -22,6 +22,27 @@ The main sources are `src/data/lyrics/*.md` (standalone works), `src/data/basta/
 
 Do **not** use bulk scripted stanza alignment or OCR-generated transcription as a substitute for line-by-line editorial review. Correctness is not established by identical line counts.
 
+
+## Codex-assisted original-language and Roman review
+
+After Round 2 deduplication is finished, the new bounded CLI can inspect ONLY standalone lyrics added on this branch relative to the merge base with main. It is currently prepared but not running. The imported worker under kalam-archive-imports/backups/kalam-review-2026-11-16 is archival and must not be restarted.
+
+The default command and all plan/prompt commands are read-only; they never create a tracker or call Codex:
+
+    npm run kalam:plan
+    npm run kalam:plan -- --task source --json
+    npm run kalam:plan -- --task roman
+    npm run kalam:plan -- --task audit
+    npm run kalam:prompt -- --path src/data/lyrics/FILE.md
+
+Only when manual processing is authorized after dedup, opt in to ONE poem:
+
+    npm run kalam:run -- --path src/data/lyrics/FILE.md --confirm-run
+
+The run command checks the active Round 2 branch, a clean worktree, newly added-file scope, and local Codex installation/authentication. It uses non-interactive Codex exec with workspace-write and ephemeral sessions, without deprecated full-auto flags. It never creates a tracking CSV, schedules batches, commits or pushes. Unexpected file changes and whitespace errors are reported, not silently discarded.
+
+The three tasks are source-language reconstruction from Roman-only material, Roman creation for originals without a transcription, and an audit of existing transliterations. Uncertain or genuine Latin-script originals are excluded from speculative reconstruction. Follow the canonical Editorial standards and the narrow prompt at scripts/kalam-codex-instructions.md. A human must verify every result; a matching verse count alone is insufficient. The scanner is covered by the Node test suite and can also be tested directly with python3 -m unittest discover -s tests -p test_kalam_codex.py.
+
 ## Mechanical cleanup and synchronization
 
 For files changed against `main` (including local edits), `npm run whitespace:fix` removes CRLF, trailing ASCII spaces and **all** terminal newlines, including the final newline. It preserves internal blank lines, YAML literal indentation and Unicode poetry. Use `npm run whitespace:check` for the corresponding read-only report. Use `--all` with `scripts/tidy-whitespace.mjs` only when deliberately touching all tracked text sources.

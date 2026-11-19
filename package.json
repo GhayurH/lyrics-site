@@ -23,7 +23,10 @@
     "perf:browser": "playwright test --grep @perf",
     "roman:review": "node scripts/normalize-roman.mjs --report",
     "sitemap:verify": "node scripts/verify-sitemap.mjs",
-    "sitemap:verify:live": "node scripts/verify-sitemap.mjs --live"
+    "sitemap:verify:live": "node scripts/verify-sitemap.mjs --live",
+    "kalam:plan": "python3 scripts/kalam_codex.py plan",
+    "kalam:prompt": "python3 scripts/kalam_codex.py prompt",
+    "kalam:run": "python3 scripts/kalam_codex.py run"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.5",
