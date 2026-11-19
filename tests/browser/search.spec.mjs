@@ -99,3 +99,15 @@ test("independent reciters each retrieve the same kalam without a combined facet
       .filter({ hasText: reciter })).toHaveCount(1);
   }
 });
+
+
+test("Shahmukhi titles are found with Arabic keyboard spelling @smoke", async ({ page }) => {
+  for (const [query, url] of [
+    ["علي سوہنا", "/lyrics/ali-sohna-sher-rab-da/"],
+    ["سكينه بیمار", "/lyrics/zindaan-day-vich-ro-ro-sakina-beemaar-nu-bulaway/"],
+  ]) {
+    await page.goto("/search/?q=" + encodeURIComponent(query));
+    await expect(page.locator('a.pf-result-link[href="' + url + '"]')).toBeVisible({ timeout: 20000 });
+    expect(new URL(page.url()).searchParams.get("q")).toBe(query);
+  }
+});
