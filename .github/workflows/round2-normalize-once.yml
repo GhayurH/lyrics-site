@@ -40,7 +40,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git rm .github/workflows/round2-normalize-once.yml
+          git rm -f .github/workflows/round2-normalize-once.yml
           git add -u
           git commit -m 'chore: apply safe Round 2 source normalization [skip ci]'
           git push origin HEAD:refs/heads/round2-kalams-2026-11-14
