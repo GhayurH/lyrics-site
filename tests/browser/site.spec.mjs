@@ -105,16 +105,21 @@ test("homepage continues local reading without showing an empty placeholder", as
   await expect(page.locator('.home-continue-link[href="/lyrics/aa-asghar-bin-tere/"]')).toBeVisible();
 });
 
-test("search results index poetry without including metadata controls", async ({ page }) => {
+test("search results index poetry without including metadata controls @smoke", async ({ page }) => {
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   const source = page.locator("[data-pagefind-body]");
   await expect(source).toHaveCount(1);
+  await expect(source.locator(".lyric-verse")).not.toHaveCount(0);
+  await expect(page.locator(".visually-hidden[data-pagefind-body]")).toHaveCount(0);
   await expect(source).not.toContainText("About this kalam");
   await expect(source).not.toContainText("Original lyric sheet");
   // All text on page 328 belongs to a verified individual kalam, so
   // its printed page stays browsable but is not indexed a second time.
   await page.goto("/basta/328/");
   await expect(page.locator("[data-pagefind-body]")).toHaveCount(0);
+  // The source page still needs its descriptive metadata even when its
+  // separately indexed kalam has been excluded from printed-page Pagefind.
+  await expect(page).toHaveTitle(/Lachar Husaina/);
   // Page 140 has an unclaimed fragment alongside verified kalams:
   // index only that remaining fragment, not the reader controls.
   await page.goto("/basta/140/");
