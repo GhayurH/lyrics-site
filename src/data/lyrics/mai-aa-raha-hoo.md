@@ -11,6 +11,10 @@ tags: []
 aliases: ["Mai Aa Raha Hoo"]
 published: true
 romanLyrics: |-
+  Assalamu alaiki ya Sayyidatana Ruqaiyya
+  Assalamu alaiki ya bint Fatimat az-Zahra, Sayyidat nisa al-alamin
+  Assalamu alaiki ya bint Husain ash-shahid
+
   Maiṅ aa raha huṅ Sakina
 
   Hai bas khatm hone ko hai imtihaaṅ
@@ -69,6 +73,10 @@ romanLyrics: |-
 # source_url: https://www.nohayonline.com/details_content.php?id=1606
 # raw_sha256: 450b673c6ef92b54aeb31b7ad0c4a56a7e37e89f88a66a1b8c782592539b0795
 ---
+
+السلام علیکِ یا سیدتنا رقیہ
+السلام علیکِ یا بنت فاطمۃ الزہرا سیدۃ نساء العالمین
+السلام علیکِ یا بنت حسین الشہید
 
 میں آ رہا ہوں سکینہ
 
