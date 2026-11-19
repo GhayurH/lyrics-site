@@ -1,7 +1,7 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import { getLyricKalamTypes, getLyricReciters } from "../lib/lyrics";
-import { searchIndexAliases, searchExcerptLines } from "../lib/search-normalization";
+import { searchIndexAliases } from "../lib/search-normalization";
 interface Props { lyric: CollectionEntry<"lyrics"> }
 const { lyric } = Astro.props as Props;
 const { data } = lyric;
@@ -22,8 +22,6 @@ const searchTerms = [
   // putting titles, aliases, and a second copy of the poem into excerpts.
   searchIndexAliases([data.title, data.alternateTitle, data.romanLyrics, lyric.body].filter(Boolean).join(" ")),
 ].filter(Boolean).join(" ");
-const indexedBodyLines = searchExcerptLines(lyric.body, data.title);
-const indexedRomanLines = searchExcerptLines(data.romanLyrics, data.alternateTitle ?? data.title);
 ---
 <div class="pagefind-data" data-pagefind-ignore aria-hidden="true">
       <span data-pagefind-meta="searchTerms">{searchTerms}</span>
@@ -39,15 +37,4 @@ const indexedRomanLines = searchExcerptLines(data.romanLyrics, data.alternateTit
       {reciters.map((reciter) => <span data-pagefind-filter="reciter">{reciter}</span>)}
       {data.occasion && <span data-pagefind-filter="occasion">{data.occasion}</span>}
       {data.tags.map((tag) => <span data-pagefind-filter="tag">{tag}</span>)}
-    </div>
-
-    {/* Index only verses, not titles/alternate titles/aliases already in
-        metadata. Separate lines make excerpts readable. */}
-    <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
-      {indexedBodyLines.map((line) => (
-        <p lang={data.lang} dir={data.direction}>{line}</p>
-      ))}
-      {indexedRomanLines.map((line) => (
-        <p lang="en" dir="ltr">{line}</p>
-      ))}
     </div>

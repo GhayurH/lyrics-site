@@ -11,7 +11,7 @@ import "../../../styles/basta-shell.css";
 import "../../../styles/basta-text.css";
 import "../../../styles/basta-kalam.css";
 import "../../../styles/corrections.css";
-import { searchIndexAliases, searchExcerptLines } from "../../../lib/search-normalization";
+import { searchIndexAliases } from "../../../lib/search-normalization";
 import { getBastaKalamTypeForSection } from "../../../lib/basta-categories";
 import bastaIndex from "../../../data/basta/index.json";
 import { bastaKalamId } from "../../../lib/basta-kalam-units";
@@ -34,13 +34,13 @@ const searchTerms = [
   kalam.name, kalam.romanName, kalam.sectionRoman, sourceIndex?.haal, sourceIndex?.romanHaal,
   searchIndexAliases([kalam.name, kalam.romanName, kalam.urdu, kalam.roman].filter(Boolean).join(" ")),
 ].filter(Boolean).join(" ");
-const indexedUrduLines = searchExcerptLines(kalam.urdu, kalam.name);
-const indexedRomanLines = searchExcerptLines(kalam.roman, kalam.romanName);
+const seoTitle = kalam.romanName && kalam.romanName !== kalam.name
+  ? `${kalam.romanName} (${kalam.name})` : kalam.name;
 const sourceScanUrl = (value: number) => `/images/basta/original/${String(value).padStart(3, "0")}.png`;
 ---
 <BaseLayout
-  title={`${kalam.romanName || kalam.name} | Basta | Kalam Archive`}
-  description={`Read ${kalam.romanName || kalam.name} in Urdu${hasRoman ? " and Roman Urdu" : ""}, with the original Basta page scans.`}
+  title={`${seoTitle} | Basta | Kalam Archive`}
+  description={`Read ${seoTitle} in Urdu${hasRoman ? " and Roman Urdu" : ""}, alongside the original Basta scans.`}
 >
   <article class="basta-page basta-kalam-page" data-reader-shell>
     <div class="pagefind-data" aria-hidden="true">
@@ -51,10 +51,6 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
       {displayHaal && <span data-pagefind-filter="haal">{displayHaal}</span>}
       <span data-pagefind-meta="page">{page}</span>
       <span data-pagefind-meta="searchTerms">{searchTerms}</span>
-    </div>
-    <div class="visually-hidden" aria-hidden="true" data-pagefind-body>
-      {indexedUrduLines.map((verse) => <p lang="ur" dir="rtl">{verse}</p>)}
-      {indexedRomanLines.map((verse) => <p lang="en" dir="ltr">{verse}</p>)}
     </div>
     <ReaderSubnav ariaLabel="Basta navigation" items={[
         { label: "Basta", href: "/basta/" },
@@ -125,9 +121,9 @@ const sourceScanUrl = (value: number) => `/images/basta/original/${String(value)
         </figcaption>}
       </figure>
       {hasRoman
-        ? <BastaParallelText urduText={kalam.urdu} romanText={kalam.roman || ""} variant="page" page={page} stanzaStyle={kalam.stanzaStyle} stanzaPattern={kalam.stanzaPattern} />
+        ? <BastaParallelText urduText={kalam.urdu} romanText={kalam.roman || ""} variant="page" page={page} stanzaStyle={kalam.stanzaStyle} stanzaPattern={kalam.stanzaPattern} indexForSearch />
         : <section class="basta-page-text basta-page-urdu" lang="ur" dir="rtl">
-            <BastaText text={kalam.urdu} className="basta-urdu-text" stanzaStyle={kalam.stanzaStyle} stanzaPattern={kalam.stanzaPattern} />
+            <BastaText text={kalam.urdu} className="basta-urdu-text" stanzaStyle={kalam.stanzaStyle} stanzaPattern={kalam.stanzaPattern} indexForSearch />
           </section>}
     </div>
   </article>

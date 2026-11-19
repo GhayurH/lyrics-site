@@ -10,13 +10,14 @@ interface Props {
   stanzaStyle?: BastaStanzaStyle;
   stanzaPattern?: StanzaPattern;
   stanzaPatterns?: Record<string, StanzaPattern>;
+  indexForSearch?: boolean;
 }
 
-const { text, className, indentStanzas = true, stanzaStyle = "auto", stanzaPattern, stanzaPatterns } = Astro.props as Props;
+const { text, className, indentStanzas = true, stanzaStyle = "auto", stanzaPattern, stanzaPatterns, indexForSearch = false } = Astro.props as Props;
 const kalams = splitBastaKalams(text);
 ---
 
-<div class={className}>
+<div class={className} data-pagefind-body={indexForSearch ? true : undefined}>
   {
     kalams.map((kalam, index) => (
       <>
@@ -27,7 +28,11 @@ const kalams = splitBastaKalams(text);
         )}
         <div class="basta-kalam-text">
           {layoutBastaKalam(kalam, indentStanzas, stanzaStyle, false, fragmentStanzaPattern(stanzaPattern, stanzaPatterns, index)).filter((line) => !line.hidden).map((line) => (
-            <span class={bastaVerseClassNames(line)}>{line.text}</span>
+            <>
+              <span class={bastaVerseClassNames(line)}
+                data-pagefind-ignore={indexForSearch && Boolean(line.stanzaNumber) ? true : undefined}>{line.text}</span>
+              {"\n"}
+            </>
           ))}
         </div>
       </>
