@@ -16,7 +16,7 @@
     "check": "astro check",
     "source:check": "node scripts/source-workflow.mjs --check",
     "source:sync": "node scripts/source-workflow.mjs --sync",
-    "whitespace:fix": "node scripts/tidy-whitespace.mjs --write --changed",
+    "whitespace:fix": "node scripts/tidy-whitespace.mjs --write --all",
     "whitespace:check": "node scripts/tidy-whitespace.mjs --check --changed",
     "content:review": "node --experimental-strip-types scripts/review-content.mjs",
     "perf:assets": "node scripts/report-build-assets.mjs",
