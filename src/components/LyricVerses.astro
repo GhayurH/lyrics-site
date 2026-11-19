@@ -24,9 +24,12 @@ const openingRepeatsTitle = Boolean(openingVerse && searchTitle &&
   {stanzas.map((stanza) => (
     <div class={lyricStanzaClassNames(stanza, stanzaPattern)}>
       {stanza.map((line) => (
-        <span class={lyricLineClassName(line)}
-          data-pagefind-ignore={indexForSearch && (line.number ||
-            (openingRepeatsTitle && line === openingVerse)) ? true : undefined}>{line.text}</span>{"\n"}
+        <>
+          <span class={lyricLineClassName(line)}
+            data-pagefind-ignore={indexForSearch && (line.number ||
+              (openingRepeatsTitle && line === openingVerse)) ? true : undefined}>{line.text}</span>
+          {"\n"}
+        </>
       ))}
     </div>
   ))}
