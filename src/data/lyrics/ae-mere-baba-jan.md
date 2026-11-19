@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Yawar Abbas"
 reciter: "Shahid Baltistani"
 tags: []
 aliases: ["ay-mere-baba-jan-darbar-e-sham"]
