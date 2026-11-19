@@ -1,0 +1,28 @@
+name: Round2 whitespace normalization (one time)
+on:
+  push:
+    branches: [round2-kalams-2026-11-14]
+    paths: [.github/workflows/round2-whitespace-once.yml]
+permissions:
+  contents: write
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Normalize every tracked text file once
+        run: npm run whitespace:fix
+      - name: Remove temporary runner and commit normalized sources
+        shell: bash
+        run: |
+          rm -- .github/workflows/round2-whitespace-once.yml
+          git add -u
+          git diff --cached --check
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "chore: run round2 whitespace normalizer once [skip ci]"
+          git push origin HEAD:round2-kalams-2026-11-14
