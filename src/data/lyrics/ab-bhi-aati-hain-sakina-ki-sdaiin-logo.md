@@ -12,42 +12,42 @@ published: false
 romanLyrics: |-
   Ab bhi aati haiṅ Sakina ki sadaaeṅ logo, haaye zindaanoṅ se
   Mere Baba ko mila do, maiṅ duaaeṅ duṅgi, siskiyaaṅ le ke jo kehti thi musalmaanoṅ se
-  
+
   1
   Bole Sajjad Sakina, ye muqaddar tera
   Bekafan tujh ko liye phirta huṅ bazaaroṅ meiṅ
   Aur lahu aaj bhi jaari hai tere kaanoṅ se
-  
+
   2
   Jaa ke maqtal meiṅ pukaari ye Sakina ro kar
   Bhaiya Qasim, mere Akbar, tum kahaaṅ ho saare
   Mere Baba ko bacha lo aa ke shaitaanoṅ se
-  
+
   3
   Jab chali ghar se tere saath sabhi the Zainab
   Aun o Muhammad o Akbar yaad aate hoṅge
   Laut ke aati jo hogi tu qaidkhaanoṅ se
-  
+
   4
   Lab-e-darya se Alamdar ki aayi ye sada
   Ae Sakina tujh se sharminda hai chacha tera
   Paani pahunchaa na saka haaye kate shaanoṅ se
-  
+
   5
   Aath azaaneṅ ba-yak waqt fiza meiṅ gunjiṅ
   Saani-e-Zahra ke khutboṅ ko dabaane ke liye
   Shor barpa kiya darbaar meiṅ azaanoṅ se
-  
+
   6
   Boli masuma phuphi, rit hai ye Shaamiyoṅ ki
   Kar ke paaband-e-rasan aur gira ke patthar
   Is tarah koi to milta nahiṅ mehmanoṅ se
-  
+
   7
   Saath ghoroṅ ke masumoṅ ko dauraaya jaaye
   Kisi qaanun ya mazhab meiṅ kabhi aisa suluk
   Koi insaan to karta nahiṅ insaanoṅ se
-  
+
   8
   Qayam-e-Aal-e-Muhammad ye hai Akhtar ki dua
   Sadqa Hasnain ka ae Maula, sada-e-matam

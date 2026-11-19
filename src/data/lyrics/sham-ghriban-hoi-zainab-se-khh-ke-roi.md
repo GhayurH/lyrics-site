@@ -52,4 +52,3 @@ Aynu zarb ay kaari ay
 Sajjad ne ay johar aysa jahaad kita
 Gham e shah abaad kita
 Matam diya pukara ajj wi ne wich bazaaran ay jahaad te jari ay
-

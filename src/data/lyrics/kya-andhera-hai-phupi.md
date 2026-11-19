@@ -12,42 +12,42 @@ romanLyrics: |-
   Kya andhera hai phuphi, kya andhera hai phuphi
   Qaid khaane meiṅ Sakina ye bayaan karti thi
   Shama mangwaaiye warna maiṅ nahiṅ jine ki
-  
+
   1
   Apne sine se laga lo maiṅ tumhaare sadqe
   God meiṅ le lo mujhe
   Dil dharakta hai mera khauf se tharraata hai ji
-  
+
   2
   Kiuṅ lain qaid meiṅ laaye haiṅ mujhe kya malum
   Haye Baba mazlum
   Gaye maidaan ko jis din se khabar meri na li
-  
+
   3
   Baba aa jaate to phir Shimr ko hota malum
   Kaun hai ye masum
   Kya samajh kar mujhe yuṅ ghurkiyaaṅ deta hai shaqi
-  
+
   4
   Aaj ki shab ko bhi kya Baba nahiṅ aaeṅge
   Mujh ko tarpaaeṅge
   Un ke sine pe agar soti to nind aa jaati
-  
+
   5
   Baad mere jo yahaaṅ hove padar ka aana
   Un se ye farmaana
   Mar gai ghut ke andhere meiṅ tumhaari beti
-  
+
   6
   Sabr karti huṅ magar ho nahiṅ sakta mujh se
   Yahaaṅ se le chaliye mujhe
   Warna pachhtaao gi zinda na rahuṅ gi maiṅ kabhi
-  
+
   7
   Paani laane ko kahaaṅ ruth gaye mujh se chacha
   Aap hi socheṅ zara
   Hote ammu to maiṅ is tarah tamaache khaati
-  
+
   8
   Puchhne ki meri un se nahiṅ himmat parti
   Ae meri achchhi phuphi

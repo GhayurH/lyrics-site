@@ -5,7 +5,7 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: []
+tags: ["noRoman"]
 aliases: []
 published: false
 # source_id: ziyaraat:1974f58534ac4799e39e

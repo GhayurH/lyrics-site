@@ -17,75 +17,48 @@ romanLyrics: |-
   Musalle pe akbar ki maa ro rahi hai
 
   1
-
   Dua hai yehi ghamzada maa ke lab par
-
   Khudaya salamat rahe mera akbar
-
   Wo le le ke bas hichkiyan ro rahi hai
 
   2
-
   Kabhi khaak par baith kar reh guzar mein
-
   Judaai mein akbar ki veraan ghar mein
-
   Behan ghamzada neem jaan ro rahi hai
 
   3
-
-  Tadapti hai sughra chale aao bhaiya
-
+  Tarapti hai sughra chale aao bhaiya
   Kahin mar na jaye judaai mein sughra
-
   Wo bemaar aur natawan ro rahi hai
 
   4
-
   Abhi to gaya hi nahi ran mein akbar
-
   Abhi dil hai akbar ka seene ke andar
-
   Magar phir bhi noke sina ro rahi hai
 
   5
-
   Wahan par madine mein roti hai sughra
-
   Yahan par sakina ke lab par hai nauha
-
   Behen ek yahan ek wahan ro rahi hai
 
   6
-
   Dua kar rahi hai ye karbal mein laila
-
   Na maut aaye akbar ko mere khudaya
-
   Jawani ye sun kar bayan ro rahi hai
 
   7
-
   Ay naazon ke paale zara sa teher jaa
-
   Ke zainab sajaale tere sar pe sehra
-
   Ke aun o mohamed ki maa ro rahi hai
 
   8
-
   Nabi dekhte hai falak se ye manzar
-
-  Safon mein khade sab namazi hai muztar
-
+  Safon mein khare sab namazi hai muztar
   Imamat liye hichkiyan ro rahi hai
 
   9
-
   Madine mein akbar jahan se chale hai
-
   Zameen pe qadam ke nishan wo pade hai
-
   Behen dekh kar kuch nishan ro rahi hai
 ---
 

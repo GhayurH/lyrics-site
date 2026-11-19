@@ -1,19 +1,21 @@
 ---
 title: "قبر اصغرؑ کی بنانے میں بہت دیر لگی"
+alternateTitle: "Qabr Asghar Ki Banane Mein Bohat Dair Lagi
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Mir Takallum"
-reciter: "Meer Hasan Meer"
+reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
   Qabr Asghar Ki Banane Mein Bohat Dair Lagi
 
-  1
   Sheh Ko Ek Chand Chhupane Mein Bohat Dair Lagi
+
+  1
   Kuch Qadam Door Hai Bazar Se Darbar Magar
   Phir Bhi Shehzadi Ko Aane Mein Bohat Dair Lagi
 
@@ -40,21 +42,13 @@ romanLyrics: |-
   7
   Karbala Ja Ke Takallum Ne Yehi Puchha Tha
   Mujhko Sarkar Bulane Mein Bohat Dair Lagi
-# source_id: nohayonline:a8bd4dd41a6263f9b930
-# source_url: https://www.nohayonline.com/content_salaam.php?id=42
-# raw_sha256: 170da195c57ca4bd63cc5d7ab465e11cef41b78dc02e75f94903d85b2abd7fc1
-# source_id: ziyaraat:75d402074fd887dbc56f
-# source_url: https://www.ziyaraat.net/api/noha/1527
-# raw_sha256: 88304d8cda4b4b9282ffa5f13c5bca76cb8377869bac165cb8d5a9138af8ff44
-# source_id: ziyaraat:b9d827dd30814ec2921e
-# source_url: https://www.ziyaraat.net/api/noha/690
-# raw_sha256: 80d55da35dd3f792a8da7189ff355539169e59bded0dc8f66c00bc1765168052
 ---
 
 قبر اصغر کی بنانے میں بہت دیر لگی
 
-۱
 شہ کو اک چاند چھپانے میں بہت دیر لگی
+
+۱
 کچھ قدم دور ہے بازار سے دربار مگر
 پھر بھی شہزادی کو آنے میں بہت دیر لگی
 

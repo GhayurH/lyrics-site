@@ -10,35 +10,35 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  
+
   Reh Gaye Dasht Main Tanha To Watan Yaad Aya
   Pani Paya To Har Ek Tashna Dahan Yaad Aya
   Leky Har Chez Madiny Se Chali The Zainab
   Bhai Ke Lash Pe Pohnchi To Kafan Yaad Aya
-  
+
   So Rahy Hain Sab Mere Waali O Dilbar Rait Par
   Bano Bethi He Rahain Ge Zindage Bhar Rait Par
-  
+
   1
   Hoti Chadar Saya Karti Haye Kitne Dhoop Hai
   Soraha Hai Aag Ke Maidan Main Akbar Rait Par
-  
+
   2
   Piyas Main Bachon Ke Kuch Hojati The Shiddat Siwa
   Phaiktay Thy Jab Adu Pani Dekha Kar Rait Par
-  
+
   3
   Jhola Tera Jal Gaya To Kya Howa Aye Mery Laal
   Loriyan Dongi Tujhe Aja Leta Kar Rait Par
-  
+
   4
   Baap Ke Ceny Par Sir Rakh Kar Jisay Atti Ho Neend
   Kesy Soye Shah Ke Wo Nanni Dukhtar Rait Par
-  
+
   5
   Shaam Ke Rastay Main Sar Shabbir Ka Us Dum Ruka
   Gir Gaye Naqay Se Jab Bano Ke Dukhtar Rait Par
-  
+
   6
   Honge Asan Mushkilain Aur Ziyarat-e-Shabbir Bhe
   Jab Anees Hoga Lahad Main Tera Bister Rait Par

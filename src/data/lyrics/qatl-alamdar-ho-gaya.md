@@ -21,7 +21,7 @@ romanLyrics: |-
   Haye hum ghareeb hogaye
   Sher jaisa bhai tha mera
   Haye hum ghareeb hogaye
-  
+
   1
   Hum ko ye gham hai tumko sahara na de sake
   Aise to koi bhi na gira jaise tum gire
@@ -29,7 +29,7 @@ romanLyrics: |-
   Baazu nahi thay tere, haye alamdar
   Kisne sambhala tujhe, haye alamdar
   Chehra tera zakhmi hogaya
-  
+
   2
   Socha nahi tha aise pukaroge tum mujhe
   Armaan tha lehad mein utaroge tum mujhe
@@ -37,7 +37,7 @@ romanLyrics: |-
   Naazon se paala tumhe, haye alamdar
   Aaj meri godh mein, haye alamdar
   Bhai tera dum nikal gaya
-  
+
   3
   Dooba hua lahoo mein wo dekhegi jab alam
   Pyasi sakina kaise sahegi tumhara gham
@@ -45,7 +45,7 @@ romanLyrics: |-
   Pani chacha laayenge, haye alamdar
   Kaise bataaun usay, haye alamdar
   Maare gaye nehr pe chacha
-  
+
   4
   Abbas teri behne tere gham mein royengi
   Soti thi tere dam se jo aankhein na soyengi
@@ -53,7 +53,7 @@ romanLyrics: |-
   Zinda hai bhai mera, haye alamdar
   Dhoondegi chehra tera, haye alamdar
   Maar dega unko gham tera
-  
+
   5
   Tum jaante thay hum mein nahi hai ye hausla
   Laasha bhi apna tum ne uthane nahi diya
@@ -61,7 +61,7 @@ romanLyrics: |-
   Baazu utha loo tere, haye alamdar
   Kaise sameintun tujhe, haye alamdar
   Tu kahan kahan bikhar gaya
-  
+
   6
   Uth'te huwe hussain se utha nahi gaya
   Aao hamein sahara do akbar se ye kaha
@@ -69,7 +69,7 @@ romanLyrics: |-
   Qaimon ke jaanib chale, haye alamdar
   Kehte thay sar peet ke, haye alamdar
   Dekh ay zameen e karbala
-  
+
   7
   Qaimon mein aa ke shaah ne zainab se jab kaha
   Dhaaras thi jiske dum se wo abbas mar gaya
@@ -77,7 +77,7 @@ romanLyrics: |-
   Kehne lagi bibiyan, haye alamdar
   Chod gaye tum kahan, haye alamdar
   Kaun ab bachayega rida
-  
+
   8
   Ghazi ki laash laaye ho jaise shah e zaman
   Aise alam ko dekh ke lipti thi har behan

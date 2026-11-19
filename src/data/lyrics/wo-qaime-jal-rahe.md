@@ -1,6 +1,6 @@
 ---
-title: "یزید بولا بڑی فوج میرے ہاتھ میں ہے"
-alternateTitle: "Wo Qaime Jal Rahe"
+title: "وہ خیمے جل رہے ہیں"
+alternateTitle: "Wo Khaime Jal Rahe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

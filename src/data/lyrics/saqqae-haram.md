@@ -72,25 +72,25 @@ romanLyrics: |-
   Saqqa-e-Sakina pyasa hai
   Ab hashr talak dariya saare
   dene ko salaami aaye hain
-  
+
   11
   Ik jaanib roza tumhara hai
   Shabbir ka roza ek taraf
   Bainul Haramain aa kar
   humne daaman apne phailaaye hain
-  
+
   12
   Kya aap pe Aaqa guzri thi
   kuch kahiye musibat apni bhi
   Bin haathon ke kaise lehra kar
   ghore se zameen par aaye hain
-  
+
   13
   Zahra ke laal ka pyasa gala
   gardan ki pusht se katta gaya
   Khanjar ki har ik zarbat par
   ye arz o sama tharraye hain
-  
+
   14
   Ek qabr hai Shaam ke zindaan mein
   ek mashk abhi tak khaali hai

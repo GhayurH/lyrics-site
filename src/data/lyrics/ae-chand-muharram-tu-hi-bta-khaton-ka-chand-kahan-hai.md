@@ -9,34 +9,34 @@ aliases: []
 published: false
 romanLyrics: |-
   Ae chand-e-Muharram tu hi bata, Khatoon ka chand kahan hai
-  
+
   1
   Aabaad hai dunya saari, Zahra ka chaman veeraan hai
-  
+
   2
   Kehti thi Sakina Abid ko, is qaid mein main mar jaungi
   Chhoro na akela bhai, tareek bahut zindan hai
-  
+
   3
   Dekha na suna zaahir aisa, zakhmon se badan hai chur magar
   Jaari hai zubaan pe zikr-e-Khuda, gardan pe khanjar rawaan hai
-  
+
   4
   Tu par-e-Jibrail ki zeenat tha, kiun laasha tera paamaal hua
   Be-gor-o-kafan ho bhai mere, Zainab ko yehi armaan hai
-  
+
   5
   Ae Kufiyo main hun bint-e-Ali, aur waaris chaadar-e-Zahra ki
   Dekho na tamaasha sharm karo, ab Zainab sar uryaan hai
-  
+
   6
   Aulaad ka gham bhaaiyon ke varam, kat-ta hai kaleja qadam qadam
   Haye kaise uthaaye khoon bhari, Akbar ki laash jawaan hai
-  
+
   7
   Shabbir chale jab Karbal ko, Sughra ne daaman thaam liya
   Sambhaal ke rakhna Baba mere, Ali Asghar bahut naadaan hai
-  
+
   8
   Tanveer utha ke haathon mein, Sayyid ne sawaal-e-aab kiya
   Tum bhi ho musalmaan reham karo, Asghar ki khushk zubaan hai

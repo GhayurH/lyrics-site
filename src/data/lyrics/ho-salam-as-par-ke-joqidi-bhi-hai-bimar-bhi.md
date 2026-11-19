@@ -11,45 +11,45 @@ published: false
 romanLyrics: |-
   Ho Salam us par ke jo qaidi bhi hai bimaar bhi
   Paaon meiṅ hain aable aur aabloṅ meiṅ khaar bhi
-  
+
   1
   Aankh may ansoo aur zakhm jigar main honton pay rida ka nauha,
   Karbobala se haey sham talak wo kanton pay safar karta tha,
   Be rida sadaniyan, us par sitam bazaar bhee
-  
+
   2
   Nokay sinaa par, hai baap ka sar hai is baath pay dil bekaboo,
   Be chadar hain namoos e payambar, mahol sharabi har sue,
   Khoon roye sarbaan aur syeday abraar bhee
-  
+
   3
   Dhaiknay wali ankon ne dekhaa us raah may yeh bhee manzar,
   Aik musafir pabanday safar hai khud apnee lash utha kar,
   Yeh Imam-e-Waqt hai aur kafala salaar bhee
-  
+
   4
   Kehta tha ke tauq-e-giraan aaya mere hisse meiṅ
   Warna is fauj meiṅ khanjar bhi hain talwaar bhi hai
-  
+
   5
   Khoon ragon ka ya ghairatay Hashim, kehti hay jhukalay sar ko,
   Toq o salasil kya qaid karayngay hay sabr kay is pekar ko,
   Sar uthay kis tarhan hai rah mai bazaar bhee
-  
+
   6
   Daikh kay Zainab Sajjad ki halat faryaad yehee karti theen,
   Mera yaqeen hai imaan hai mera, aey Shaam kay bekas qaidi,
   Royain gay tujh par sadaa, masnad bhee aur dastaar bhee
-  
+
   7
   Baitha kaheen par jab thak kay musafir chalees shabon ka jaga,
   Neend jo aayi bekas qaidi ko, duroon say jagaya jataa,
   Dekh kar royaa falak, aur Zainab-e-Lachaar bhee
-  
+
   8
   Puchha ik shakhs ne Shabbir tumhaara hai kaun
   Kaha Baba bhi hai Aaqa bhi hai Sardaar bhi hai
-  
+
   9
   Nauha konaa hain Irfan aur Mazhar tareekh o maqatil sab hee,
   Aalay payambar, aur sham ki galiyan, Shabir ka beta qaidi,

@@ -12,37 +12,37 @@ published: false
 romanLyrics: |-
   Aik baar aur mujhe god mein le lo Baba
   Jor kar nanhe se haathon ko Sakina ne kaha
-  
+
   1
   Apni Beti Ki Taraf Pyar Se Dekho Baba.
   Yeh Meri Aakhri Khuwaish Hi Samajh Lo Baba.
   Kuch Nahi Mango Gi Phir Tum Se Yeh Wadah Hai Mera.
-  
+
   2
   Pass Be-Sheer Ke Maqtal Mein Chale Jao Gaye.
   Mujh Ko Maloom Hai Ab Aap Nahi Ayo Gaye.
   Kya Yeh Mumkin Nahi Kuch Dair Theher Jao Zara.
-  
+
   3
   Phool Ki Tarha Sada Sath Hi Rakha Mujh Ko.
   Aaj Tak Aap Ne Tanha Nahi Chora Mujh Ko.
   Ab Mujhe Choor Ke Kyun Jate Ho Tanha Baba.
-  
+
   4
   Tanha Maidan Mein Hargiz Nahi Jane Dete.
   Hote Ghazi Tu Sakina Ki Sifarash Karte.
   Aap Ko Wasta Ghazi Ke Kate Shano Ka.
-  
+
   5
   Yeh Amanat Na Koi Cheen Le Mujh Se Aa Kar.
   Sath Le Jaiye Baba Mere Kano Ke Gohar.
   Apni Masoom Sakina Pe Yeh Ahsaan Ho Ga.
-  
+
   6
   Phir Se Quran Muhabbat Ki Tilawat Kar Loon.
   Dil Yeh Kehta Hai Keh Jee Bhar Ke Ziyarat Kar Loon.
   Ab Kahan Ho Gi Mulaqat Na Jane Baba.
-  
+
   7
   Waqt Aye Kash Takallum Jo Wahin Ruk Jata.
   Apne Baba Se Sakina Na Kabhi Hoti Juda.

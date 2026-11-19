@@ -15,7 +15,7 @@ romanLyrics: |-
   Roz qabre sakina pe aaogi tum
   Jab talak laut kar mai na aaun
   Aake shamma jalaogi tum
-  
+
   1
   Surate Shahe Deen Bekafan Bhi,
   Mere Jaisi Aseer-e-Mehen Bhi
@@ -23,7 +23,7 @@ romanLyrics: |-
   Misl-e-Asghar Rahi Bekafan Bhi
   Kya Kafan Ki Tarah Roz Chadar,
   Iss Lahad Par Chadhaaogi Tum
-  
+
   2
   Ek yasrab ki thi shaahzadi
   Uska saqqa tha abbas e ghazi
@@ -31,7 +31,7 @@ romanLyrics: |-
   Aur khabze mai karli taraayi
   Loriyon mein ye sachi kahani
   Roz isko suna'ogi tum
-  
+
   3
   Humne zindan se paayi rehaai
   Ab behen paas hogi na bhai
@@ -39,7 +39,7 @@ romanLyrics: |-
   Meri bachi hai gham ki satayi
   Tum ne bazaar mein to sataya
   Ab na isko sataogi tum
-  
+
   4
   Jab kabhi qaid khane mein aana
   Berida bibiyon ko na laana
@@ -47,7 +47,7 @@ romanLyrics: |-
   Iski tanhaiyan yun mitana
   Chote chote se bachon ko laa kar
   Paas iske sula'ogi tum
-  
+
   5
   Qabre bekas pe aansoo bahane
   Haal qaide sitam ka sunane
@@ -55,7 +55,7 @@ romanLyrics: |-
   Iske baba ka chehlum manane
   Itna kehdo hamari taraf se
   Iska chehlum mana'ogi tum
-  
+
   6
   Main sikhaati hoon gham ka saliqa
   Kaise behlaogi dil dukhi ka
@@ -63,7 +63,7 @@ romanLyrics: |-
   Naam lena tum Ibn-e-Ali ka
   Baba aate hain aate hain Bibi
   Bas yehi kehti jaaogi tum
-  
+
   7
   Shamiyon ki bahu betiyon se
   Keh rahi thi wo akbar ye roke

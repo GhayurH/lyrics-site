@@ -12,50 +12,50 @@ published: false
 romanLyrics: |-
   Zindan hai sakina hai andhera hai jafa hai
   Kya qabr ka manzar hai ujaala na hawa hai
-  
+
   Neend aati nahi bachon ko jab tak na ho maadar
-  
+
   Paas iske na maadar hai na baba na chacha hai
-  
-  
+
+
   1
   Tumko nahi kuch dard ka ehsaas kahan ho
-  
+
   Ghayre hai mujhe ranj o alamo yaas kahan ho
-  
+
   Mar jaungi zindan ke andhere may tadap kar
-  
+
   Ay mere chacha jaan abbas kahan ho
-  
+
   Zindan may kise bali sakina ne pukara
-  
+
   Us laasha sare karbobala uthne laga hai
-  
+
   2
   Abbas chacha aayenge ghar leke chalenge
-  
+
   Ab zulm e yazeedi ka bharam toot raha hai
-  
+
   3
   Kuch moo se kaho meri masoom sakina
-  
+
   Ye maa teri khamoshi pe qurban sakina
-  
+
   Ab rone ki awaaz bhi aati nahi beta
-  
+
   Lori to nahi deta ye zindan sakina
-  
+
   Khamosh ho tum kyon nahi baba ko bulaati
-  
+
   Tareeki zindan may ye zainab ki sada hai
-  
+
   4
   Zakhmi hai badan saara khoon kaanoṅ se jaari
   Rukhsaar bhi nile haiṅ to daaman bhi jala hai
-  
+
   5
   Mai bali sakina ka azadar hoo rehaan
-  
+
   Nauhe ka har ek sher sakina ki ata hai
 # source_id: nohayonline:bb57b34e0567eccb362a
 # source_url: https://www.nohayonline.com/details_content.php?id=684
