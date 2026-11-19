@@ -4,10 +4,12 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-reciter: "Ali Safdar Rizvi"
+alternateTitle: "Aao Matam Karo Bibi Ki Dua Lo Logon"
+reciter: "Ali Safdar Rizvi; Anjuman Azadaran-e-Dar-e-Batool"
 tags: []
 aliases: []
 published: false
+# editorial_note: Alternate opening reads "کر کے ماتم بنتِ زہرا کی دعا لو لوگوں" and the shared Sham-bazaar verse reads "ملکہ تطہیر کجا"; keep as variant readings rather than duplicate stanzas.
 romanLyrics: |-
   Be isme Rabbil Husain
 
@@ -38,6 +40,22 @@ romanLyrics: |-
   7
   Aaj tak gunj rahi hai, ye sadaa maqtal me,
   Qayd se meri Sakina ko churha lo logo,
+
+  8
+  Fatima Zahra ko mehman bulana hai agar
+  Apne ghar mein bhi azakhana saja lo logo
+
+  9
+  Shab-e-Aashur pe Zainab ne kaha ro ro kar
+  Mar na jaye mere bhai ko bacha lo logo
+
+  10
+  Tum se gar ho na sake matam-e-Shabbir agar
+  Naam par pyason ke pani hi pila lo logo
+
+  11
+  Be-rida parda-nashin guzrenge kaise mere
+  Bole Sajjad ye majma to hata lo logo
 # source_id: ziyaraat:df01918f1672312dd2c5
 # source_url: https://www.ziyaraat.net/api/noha/2838
 # raw_sha256: c63870763652b30f26e9e8366978ce47adb3b729d54cad77a1548bf78e58906c
@@ -72,3 +90,19 @@ romanLyrics: |-
 ۷
 آج تک گونج رہی ہے، یہ صدا مقتل میں،
 قید سے میری سكینہ کو چھُڑا لو لوگوں،
+
+۸
+فاطمہ زہرا کو مہمان بلانا ہے اگر
+اپنے گھر میں بھی عزا خانہ سجا لو لوگوں
+
+۹
+شبِ عاشور پہ زینب نے کہا رو رو کر
+مر نہ جائے میرے بھائی کو بچا لو لوگوں
+
+۱۰
+تم سے گر ہو نہ سکے ماتمِ شبیر اگر
+نام پر پیاسوں کے پانی ہی پلا لو لوگوں
+
+۱۱
+بے ردا پردہ نشیں گزریں گے کیسے میرے
+بولے سجاد یہ مجمع تو ہٹا لو لوگوں
