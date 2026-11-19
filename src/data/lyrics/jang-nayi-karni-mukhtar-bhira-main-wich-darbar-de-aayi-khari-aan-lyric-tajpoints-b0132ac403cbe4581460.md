@@ -4,6 +4,7 @@ language: "Saraiki"
 lang: "skr"
 direction: "ltr"
 kalamType: "Other"
+reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []

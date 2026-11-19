@@ -4,6 +4,34 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Raza"
+romanLyrics: |-
+  Be Kafan Khak-e-Shifa Par Deen Ka Sultan Hai
+  Noha Gar Qaidi Gaye Aur Karbala Veeran Hai
+
+  1
+  Jism Hai Ke Aayaton Pe Aayatein Likhi Hui
+  Aur Sar-e-Aqdas Ani Par Bolta Quran Hai
+
+  2
+  Lash-e-Akbar Pe Ye Ro Ro Ke Muhari Ne Kaha
+  Karbala Mushkil Hai Lekin Shaam Se Aasan Hai
+
+  3
+  Ae Ali Akbar Ye Dasht-e-Karbala Hai Dhyan Se
+  Tere Pehlu Mein Ali Asghar Ki Nanhi Jaan Hai
+
+  4
+  Halq-e-Asghar Pe Jafa Ka Teer Chal Jaane Ke Baad
+  Zindagi Khamosh Hai Aur Maut Bhi Hairan Hai
+
+  5
+  Ghairat-e-Islam Kya Tujh Ko Gawara Hai Ye Baat
+  Malik-e-Kaun-o-Makaan Aur Shaam Ka Zindan Hai
+
+  6
+  Matam-e-Zanjeer Aur Seena Zani Keh De Raza
+  Ye Muqaddar Hai Hamara Aur Yehi Pehchan Hai
 reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []

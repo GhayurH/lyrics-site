@@ -5,6 +5,7 @@ language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false

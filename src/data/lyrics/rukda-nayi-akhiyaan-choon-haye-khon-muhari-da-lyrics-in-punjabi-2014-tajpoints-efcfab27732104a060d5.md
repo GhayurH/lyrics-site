@@ -4,6 +4,7 @@ language: "Panjabi"
 lang: "pa"
 direction: "ltr"
 kalamType: "Noha"
+reciter: "Katri Bawa"
 poet: "Tanveer"
 tags: ["noUrdu"]
 aliases: []
@@ -47,21 +48,26 @@ Oh Aayataan Qurani Naizay Uttay Charha Ke.
 Hilay Na Dil Kisay V Hafiz Kisay Qari Da.
 
 7
+Zainab Aye Deen Kaar Dena, Shimr Maare Kore
+Beemar Hai Woh Lagharr, Bari Dair Da Behosh Aye
+Muk Jaave Na Saans Zalim, Sajjad Muhari Da
+
+8
 Mera Waqt Hai Akheri Mainu Babay Kita Yaad Aye.
 Mere Khol Rasan Veran Aa Jaldi Taun Sajjad Aye.
 Muk Safar Gaya Abid Aj Safraan Di Mari Da.
 
-8
+9
 Rat Akhiyaan Di Hai Wadh Gayi Ho Zard Gaya Chehra.
 Darbar Ajay Door Aye Kar Hosla Chan Mera.
 Sir Naizay Te Ronda Aye Quran De Qari Da.
 
-9
+10
 Aay Shamiyo, main Zainab haan, main Batool jaiyaan
 Sir nangay, hath ch rasiyaan, ho qaid Shaam aaiyaan
 Wekho na ainj tamasha, haye meri lachari da
 
-10
+11
 Aj Tak Nayi Aye Samjhay Tanveer Musalman Aye.
 Shabeer Da Gham Karna Aye Deen Te Eman Aye.
 Janat Hai Sila Adna Aidi Matamdari Da.

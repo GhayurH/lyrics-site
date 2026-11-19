@@ -4,6 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Khursheed"
 reciter: "Hasan Sadiq"
 tags: []
 aliases: []
