@@ -4,7 +4,7 @@ alternateTitle: "Haye Raza Veraaṅ Ae Raahwaaṅ Takdi Rehndi Maasuma"
 recitationId: "haye-raza-veran-aye-rahwaan-takdi-rendi-masooma-lyrics-new-noha-24-rab"
 # Panjabi text in Shahmukhi script.
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Fida Husain Ravi Road"

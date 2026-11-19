@@ -2,7 +2,7 @@
 title: "علی سوہنا شیر رب دا"
 alternateTitle: "Ali Sohna Sher Rab Da"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sarwar Shakir"

@@ -2,7 +2,7 @@
 title: "چلی ضرب علیؑ تے سجدے وچ"
 alternateTitle: "Chali Zarb Ali Te Sajde Vich"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Saqlain"

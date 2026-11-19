@@ -2,7 +2,7 @@
 title: "علی کا راج"
 alternateTitle: "Ali Ka Raaj"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Zeeshan Abidi, Iftikhar Haider"

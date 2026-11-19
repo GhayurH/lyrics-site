@@ -2,7 +2,7 @@
 title: "علی علی کرنا ضرور چاہی دا"
 alternateTitle: "Ali Ali Karna Zaroor Chahi Da"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Hasnain Akbar"

@@ -1,7 +1,7 @@
 ---
 title: "اٹھ نانا، میرے درد ونڈا، میں ویر کھو کے آئی ہاں"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Noha"
 alternateTitle: "Uth Nana Mere Dard Wandaa Main Veer Kuha K Ai Han"

@@ -2,7 +2,7 @@
 title: "حق نعرہ حیدری یا علی"
 alternateTitle: "Haq Naara Haideri Ya Ali"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asad Ali Asad"

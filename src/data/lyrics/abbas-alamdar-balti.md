@@ -1,7 +1,7 @@
 ---
 title: "Abbas Alamdar Balti Noha"
 language: "Balti"
-lang: "bft"
+lang: "bft-Arab"
 direction: "rtl"
 kalamType: "Noha"
 tags: []

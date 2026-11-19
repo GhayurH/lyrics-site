@@ -2,7 +2,7 @@
 title: "زنداں سکینہ دے بابا درد ودھا گئے"
 alternateTitle: "Zindaaṅ Sakina De Baba Dard Wadhaa Gaye"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Noha"
 poet: "Hasnain Akbar"

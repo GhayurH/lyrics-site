@@ -2,7 +2,7 @@
 title: "سجاد دے اکھیاں سفراں دی رہی فضہ سائیں گواہ اے"
 alternateTitle: "Sajjad De Okhiyan Safran Di Rayi Fizza Sain Gawah Aye"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 poet: "Malik Shahid Abbas Awan Karbalai"
 reciter: "Pervaiz Pilla Party"

@@ -2,7 +2,7 @@
 title: "زندان دے وچ رو رو سکینہ بیمار نوں بلاوے"
 alternateTitle: "Zindaan De Vich Ro Ro Sakina Bimaar Nu Bulaawe"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Khan Tassaduq Khan"

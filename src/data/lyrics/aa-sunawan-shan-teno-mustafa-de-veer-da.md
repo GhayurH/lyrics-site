@@ -2,7 +2,7 @@
 title: "آ دساں واں شان تیکوں مصطفیٰ دے ویر دا"
 alternateTitle: "Aa dasaaṅ waaṅ shaan tekoṅ Mustafa de vir da"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Manqabat"
 tags: []

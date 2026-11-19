@@ -2,7 +2,7 @@
 title: "حق دا ولی"
 alternateTitle: "Haq Da Wali"
 language: "Panjabi"
-lang: "pa"
+lang: "pa-Arab"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Sajjad Ali Turab"
