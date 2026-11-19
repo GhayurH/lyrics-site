@@ -1,0 +1,16 @@
+name: Round2 original-language full audit
+on:
+  push:
+    branches: [round2-kalams-2026-11-14]
+    paths: [.github/workflows/round2-language-audit.yml]
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: node scripts/audit-round2-language-codes.mjs
