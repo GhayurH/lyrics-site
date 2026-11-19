@@ -1,6 +1,6 @@
 ---
-title: "ایسے آے علی اکبر سر میدان وغا"
-alternateTitle: "Ana Ali Yabnul"
+title: "انا علی ابن الحسین ابن علی"
+alternateTitle: "Ana Ali Yabnul Husain Yabna Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -18,11 +18,11 @@ romanLyrics: |-
 
   Yak bayak salle ala naara-e-Akbar gunja
   Ana Ali Yabnul Husain Yabna Ali
-  Nahno Wa Baytul La Aulabin Nabi
-  Ama Tarau Laa Kayfi Aymiaan Abi
-  Walaah Laayakum Fi Nabana Dagi
-  Hazrabe Tum Fisseb Ahme An Abi
-  Zarbe Gulamin Hashmi In Alavi
+  Nahnu Wa Baytullah Aula bin Nabi
+  Ama Tarauna Kayfi Ahmi an Abi
+  Walaah La Yahkum Fina abna Dayi
+  Azribkum Bissaifi Ahmi an Abi
+  Zarbe Gulamin Hashmiin  Alavi
 
   1
   Naam Akbar Ali Akbar hai mera
@@ -79,16 +79,6 @@ romanLyrics: |-
   Khaak duniya hai tere baad Akbar
   Nauha jaari tha Rehaan o Sarwar
   Ran meiṅ roti thi sada-e-zakhmi
-# source_id: nohayonline:a512e098bc70ad69eebd
-# source_url: https://www.nohayonline.com/details_content.php?id=802
-# raw_sha256: 1405165f2a3d3fed3c5ae70ed61d83920c08949ea139b15db9a896bb05ec5ab5
-# source_id: ziyaraat:1b73def919ac566d9dae
-# source_url: https://www.ziyaraat.net/api/noha/1655
-# raw_sha256: 58e7ea9dbe8f2323401a5d66f0ecb57154e2f4eb18f9af409e226cb6e5e656c4
-# source_id: ziyaraat:ec53f63911a6f9db3ede
-# source_url: https://www.ziyaraat.net/api/noha/1010
-# raw_sha256: 91550f496f4c915244d425840360f441999e00db44b4dd0007e798e9857456bb
-# added_stanza_source: roman:kalam-nohayonline-a512e098bc70ad69eebd
 ---
 
 ایسے آے علی اکبر سر میدان وغا
