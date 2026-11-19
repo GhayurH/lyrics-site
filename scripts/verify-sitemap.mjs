@@ -83,17 +83,19 @@ for (const childUrl of childUrls) {
   }
 }
 
-const groups = ["lyrics", "basta", "categories"];
-const builtRoutes = new Set();
-for (const group of groups) {
-  for (const path of await htmlRoutes(new URL(group + "/", dist), "/" + group + "/"))
-    builtRoutes.add(new URL(path, site).href);
-}
-assert(builtRoutes.size > 0, "No generated archive routes were found in dist/");
+// Audit every generated HTML route, not just archive pages, to detect both
+// missing pages and stale sitemap entries from an older build.
+const builtRoutes = new Set((await htmlRoutes(dist, "/"))
+  .map((path) => new URL(path, site).href));
+assert(builtRoutes.size > 0, "No generated HTML routes were found in dist/");
 
 const missing = [...builtRoutes].filter((url) => !indexedUrls.has(url));
 assert.equal(missing.length, 0,
   "Sitemap missing " + missing.length + " built pages:\n" + missing.slice(0, 25).join("\n"));
+const unexpected = [...indexedUrls].filter((url) => !builtRoutes.has(url));
+assert.equal(unexpected.length, 0,
+  "Sitemap lists " + unexpected.length + " URLs without built HTML:\n" +
+  unexpected.slice(0, 25).join("\n"));
 
 const publishedLyrics = await publishedMarkdownCount("src/data/lyrics");
 const builtLyrics = [...builtRoutes].filter((url) => new URL(url).pathname.startsWith("/lyrics/")).length;
@@ -107,4 +109,4 @@ assert.equal(printedBasta, publishedBasta,
 
 console.log("Sitemap verified (" + (live ? "live" : "dist") + "): " + indexedUrls.size +
   " URLs, " + builtLyrics + " standalone lyrics, " + printedBasta +
-  " Basta printed pages, " + builtRoutes.size + " archive and category routes covered.");
+  " Basta printed pages, " + builtRoutes.size + " generated HTML routes covered.");
