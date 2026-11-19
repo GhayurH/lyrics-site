@@ -20,23 +20,27 @@ jobs:
         with:
           node-version: '24'
           cache: npm
-      - name: Install dependencies
-        run: npm ci
-      - name: Run complete canonical source normalizer
-        run: npm run source:sync
-      - name: Final whitespace cleanup of Round 2 changes
+      - run: npm ci
+      - name: Repair Round 2 whitespace
         run: node scripts/tidy-whitespace.mjs --write --changed
-      - name: Verify mechanical changes
+      - name: Normalize Bibi ZWNJ policy
+        run: node --experimental-strip-types scripts/normalize-bibi.mjs --write
+      - name: Normalize Roman transcription
+        run: node --experimental-strip-types scripts/normalize-roman.mjs --write
+      - name: Reconcile Basta title labels
+        run: node scripts/sync-basta-index.mjs
+      - name: Validate reviewed Basta fragment assignments
+        run: node --experimental-strip-types scripts/refresh-basta-fragments.mjs --check
+      - name: Final whitespace cleanup
+        run: node scripts/tidy-whitespace.mjs --write --changed
+      - name: Verify patch whitespace
         run: git diff --check
-      - name: Commit normalized files only
+      - name: Commit normalized content and remove one-time workflow
         shell: bash
         run: |
-          if git diff --quiet; then
-            echo 'No source changes needed.'
-            exit 0
-          fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/round2-normalize-once.yml
           git add -u
-          git commit -m 'chore: run complete Round 2 source normalization [skip ci]'
+          git commit -m 'chore: apply safe Round 2 source normalization [skip ci]'
           git push origin HEAD:refs/heads/round2-kalams-2026-11-14
