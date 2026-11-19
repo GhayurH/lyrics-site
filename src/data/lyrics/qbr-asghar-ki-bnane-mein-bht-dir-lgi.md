@@ -1,6 +1,6 @@
 ---
 title: "قبر اصغرؑ کی بنانے میں بہت دیر لگی"
-alternateTitle: "Qabr Asghar Ki Banane Mein Bohat Dair Lagi
+alternateTitle: "Qabr Asghar Ki Banane Mein Bohat Dair Lagi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

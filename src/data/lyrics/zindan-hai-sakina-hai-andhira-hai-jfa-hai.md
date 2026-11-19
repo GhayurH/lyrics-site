@@ -17,7 +17,6 @@ romanLyrics: |-
 
   Paas iske na maadar hai na baba na chacha hai
 
-
   1
   Tumko nahi kuch dard ka ehsaas kahan ho
 
