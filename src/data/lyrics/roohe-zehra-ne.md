@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab gire ghode se abbas to pahunche maula
+  Jab gire ghore se abbas to pahunche maula
   Zakhmi abbas ka sar aap ne zaano pe rakha
-  Poch kar khoon ko aankhon se kiya ek gila
+  Poch kar khuṅ ko aankhoṅ se kiya ek gila
   Zindagi bhar kabhi tum ne na mujhe bhai kaha
   Dil ye kehta hai ke zehra ne kaha to hoga
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye abbas ke kaano mein kaha
-  Ay mere laal tu shabbir ko bhai kehde
-  Tujhko godhi mein sambhala mere shabbir ne hai
-  Teer aankhon se nikala mere shabbir ne hai
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye abbas ke kaano meiṅ kaha
+  Ae mere laal tu shabbir ko bhai kehde
+  Tujhko godhi meiṅ sambhala mere shabbir ne hai
+  Tir aankhoṅ se nikala mere shabbir ne hai
   Aakhri waqt hai shabbir ke tu lag ja gale
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
   Tujhko har waqt hai farzande payambar ka khayal
   Mujhse dekha nahi jaata mere shabbir ka haal
-  Aarzoo iski hai ke abbas mujhe bhai kahe
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
-  Chakkiyan pees ke shabbir ko maine paala
-  Ab nahi koi bhi ise bhai isay kehne waala
-  Mere shabbir ne maqtal mein bahot ranj sahe
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
-  Bhai jitne bhi thay kehte rahe maula aaqa
+  Aarzu iski hai ke abbas mujhe bhai kahe
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
+  Chakkiyaṅ pees ke shabbir ko maiṅ ne paala
+  Ab nahi koi bhi ise bhai ise kehne waala
+  Mere shabbir ne maqtal meiṅ bahot ranj sahe
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
+  Bhai jitne bhi the kehte rahe maula aaqa
   Ehteraman kisi bhai ne bhi bhai na kaha
   Bhai kehlaane ko beta mera kab tak tarse
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
-  Tu to kuch dam mein mere paas chala aayega
-  Mera shabbir to tanha yahan reh jayega
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
+  Tu to kuch dam meiṅ mere paas chala aayega
+  Mera shabbir to tanha yahaṅ reh jayega
   Is se pehle ki gala bete ka khanjar se kate
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
   Mera shabbir meri jaan hai nabi ka waaris
   Mere abbas jari tu hai ali ka waaris
   Tere baba ki bhi khwahish hai ke tu bhai kehde
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
-  Yaad rakhega jahan tu ne wafa wo ki hai
-  Tune farzande mohamed ke liye jaan di hai
-  Ye tere zakhm tera khoon mai tere sadqe
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
-  Jab gira ghode se to tu ne sada ek di thi
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
+  Yaad rakhega jahaṅ tu ne wafa wo ki hai
+  Tune farzande mohamed ke liye jaaṅ di hai
+  Ye tere zakhm tera khuṅ mai tere sadqe
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
+  Jab gira ghore se to tu ne sada ek di thi
   Mai tere paas hi shabbir se pehle pahunchi
   Haq mera hai ke tu ab maanle ye maa jo kahe
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
-  Jism mein teer hai baazu hai juda zakhmi sar
-  Mai bahot roti hoo beta teri mazloomi par
-  Khoon bhare daste bureeda tere maine choome
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
+  Jism meiṅ tir hai baazu hai juda zakhmi sar
+  Mai bahot roti hoo beta teri mazlumi par
+  Khuṅ bhare daste bureeda tere maiṅ ne chume
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
   Mere shabbir ko dhaaras hai sakina ko aas
   Roz e mehshar bhi tu hai baabe hawaij abbas
   Ye kate haath mai laaungi shifa'at ke liye
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
-  Ay qamar karb mein abbas kare kya na kare
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
+  Ae qamar karb meiṅ abbas kare kya na kare
   Ek taraf maa ki qasam ek taraf zehra hai
-  Dil se bhai kaha honton se magar keh na sake
-  Ay mere laal tu shabbir ko bhai kehde
-  Rooh e zehra ne ye...
+  Dil se bhai kaha hontoṅ se magar keh na sake
+  Ae mere laal tu shabbir ko bhai kehde
+  Ruh e zehra ne ye...
 # source_id: nohayonline:37a130fcaaac667e97b1
 # source_url: https://www.nohayonline.com/details_content.php?id=2617
 # raw_sha256: 89750e48fa143c08bab36b13616d226c58862ec60d9688983eddb3aa2f7c7c11

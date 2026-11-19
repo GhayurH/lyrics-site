@@ -11,8 +11,8 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab suni sheh ne sada ran mein alam gir gaya
-  Sheh ne kamar thaam li qaimon mein kohraam tha
+  Jab suni sheh ne sada ran meiṅ alam gir gaya
+  Sheh ne kamar thaam li qaimon meiṅ kohraam tha
   Shaah ne akbar se ye ro kar kaha
   Le chalo laashe pe alamdar ke
   Gir gaya uska alam ho gaya hum par sitam
@@ -20,48 +20,48 @@ romanLyrics: |-
   Wavaila alamdar wavaila alamdar
   Wavaila alamdar wavaila alamdar
   Hum se chala bhi nahi jaata hai ab
-  Haste hai mazloom ki haalat pe sab
-  Thaam ek baazu mera ay ali akbar zara
+  Haste hai mazlum ki haalat pe sab
+  Thaam ek baazu mera ae ali akbar zara
   Le chalo laashe pe alamdar ke
   Wavaila alamdar...
-  Haathon mein raasha hai kamar mein hai kham
-  Jaanibe maqtal nahi badte qadam
+  Haathoṅ meiṅ raasha hai kamar meiṅ hai kham
+  Jaanibe maqtal nahi barte qadam
   Hum nahi reh payenge laash pe to jayenge
   Le chalo laashe pe alamdar ke
   Wavaila alamdar...
   Jo bhi gira usko uthaata tha wo
-  Qaimon mein har laash ko laata tha wo
+  Qaimon meiṅ har laash ko laata tha wo
   Shimr se keh do zara kaate na sar bhai ka
   Le chalo laashe pe alamdar ke
   Wavaila alamdar...
-  Haye mera battees baras ka jawan
-  Gir gaya maqtal mein na jaane kahan
-  Pani jahan hai gira hoga wahin bawafa
+  Haye mera battis baras ka jawaaṅ
+  Gir gaya maqtal meiṅ na jaane kahaṅ
+  Pani jahaṅ hai gira hoga wahin bawafa
   Le chalo laashe pe alamdar ke
   Wavaila alamdar...
-  Kuch bhi zaban se na batyega wo
+  Kuch bhi zabaṅ se na batyega wo
   Hum se har ek dard chupayega wo
-  Uski hai ye hichkiyan sun na le saydaniya
+  Uski hai ye hichkiyaṅ sun na le saydaniya
   Le chalo laashe pe alamdar ke
   Wavaila alamdar...
   Haath juda jism se kaise huwe
-  Kaise nazar aate hai tukde pade
+  Kaise nazar aate hai tukre pare
   Haye mera bawafa hogaya pamaal kya
   Le chalo laashe pe alamdar ke
   Wavaila alamdar...
-  Seene se ek baar lagalun usay
-  Godh mein sar rakh ke sulalun usay
-  Beton se bad kar hai wo saani e hyder hai wo
+  Sine se ek baar lagalun use
+  Godh meiṅ sar rakh ke sulalun use
+  Betoṅ se bad kar hai wo saani e hyder hai wo
   Le chalo laashe pe alamdar ke
   Wavaila alamdar...
-  Kya hua gar yan nahi umme baneen
+  Kya hua gar yaṅ nahi umme banin
   Laashe alamdar akeli nahi
   Roti hai maa fatema hai ye unhi ki sada
   Le chalo laashe pe alamdar ke
   Wavaila alamdar...
-  Kya likhe sajjad bayan e hussain
+  Kya likhe sajjad bayan e Husain
   Aata nahi tha unhe ek pal bhi chain
-  Khaak pe gir jaate thay ro ke ye farmate thay
+  Khaak pe gir jaate the ro ke ye farmate the
   Le chalo laashe pe alamdar ke
   Wavaila alamdar...
 # source_id: nohayonline:aea1f8e0791dbd608689

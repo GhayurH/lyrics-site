@@ -1,6 +1,6 @@
 ---
 title: "جب لشکر حسین سرِ خاک سو گیا"
-alternateTitle: "Mai Hussain Hoo"
+alternateTitle: "Mai Husain Hoo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,65 +12,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab lashkare hussain sar e khaak so gaya
+  Jab lashkare Husain sar-e-khaak so gaya
   Aur fatema ke laal ka koi nahi raha
-  Hal min mughisuna ki shah e deen ne di sada
-  Goonja fiza mein aakhri khutba hussain ka
-  Mai nabi ki aankhon ka noor hoo
-  Mai hussain hoo wo hussain hoo
-  Mai ali ke dil ka suroor hoo
-  Mai hussain hoo wo hussain hoo
+  Hal min mughisuna ki shah e diṅ ne di sada
+  Gunja fiza meiṅ aakhri khutba Husain ka
+  Mai nabi ki aankhoṅ ka nur hoo
+  Mai Husain hu wo Husain hu
+  Mai ali ke dil ka surur hoo
+  Mai Husain hu wo Husain hu
   Meri maa hai janabe sayyeda
-  Mera bhai hassan dil e mustafa
+  Mera bhai Hasan dil-e-mustafa
   Meri ham qadam meri do behan
-  Mera bhai ghazi qaraar e mann
-  Mai hussain hoo wo hussain hoo
-  Dil e fatema ka mai chain hoo
-  Mai hussain hoo wo hussain hoo
-  Mai hussain ya hussain maula
-  Mai sawaar e dosh e rasool hoo
-  Mai hussain jaan e batool hoo
-  Mai kalaam e rab ki misaal hoo
+  Mera bhai ghazi qaraar-e-mann
+  Mai Husain hu wo Husain hu
+  Dil-e-fatema ka mai chain hoo
+  Mai Husain hu wo Husain hu
+  Mai Husain ya Husain maula
+  Mai sawaar-e-dosh-e-rasul hoo
+  Mai Husain jaan-e-batul hoo
+  Mai kalaam-e-rab ki misaal hoo
   Mai gharana e lazawaal hoo
   Mujhe naaz apne chaman pe hai
   Mai hoo paanchwa rukne panjatan
-  Mai hussain hoo wo hussain hoo
-  Mai hussain ya hussain maula
-  Mai hussain waaris e deen hoo
-  Mai gumaan nahi mai yaqeen hoo
-  Mujhe ishq naam e khuda se hai
+  Mai Husain hu wo Husain hu
+  Mai Husain ya Husain maula
+  Mai Husain waaris-e-din hoo
+  Mai gumaaṅ nahi mai yaqin hoo
+  Mujhe ishq naam-e-khuda se hai
   Meri jang ahle dagha se hai
   Meri zindagi mere rab ki hai
   Mai chala hoo ghar se liye kafan
-  Mai hussain hoo wo hussain hoo
-  Dil e fatema ka mai chain hoo
-  Mai hussain hoo wo hussain hoo
-  Mai hussain ya hussain maula
+  Mai Husain hu wo Husain hu
+  Dil-e-fatema ka mai chain hoo
+  Mai Husain hu wo Husain hu
+  Mai Husain ya Husain maula
   Mai hazaar sadme utha chuka
   Mai charaagh apne bujha chuka
   Mai tamaam lashkar gawa chuka
-  Mai zameen e maqtal saja chuka
+  Mai zamin-e-maqtal saja chuka
   Lo mai zuljanah se gir gaya
-  Na hai zeen pe aur na zameen pe tan
-  Mai hussain hoo wo hussain hoo
-  Mai hussain ya hussain maula
-  Lo mai nok e naiza pe aa gaya
-  Mai kamaal e maqsad ko paa gaya
+  Na hai ziṅ pe aur na zamiṅ pe tan
+  Mai Husain hu wo Husain hu
+  Mai Husain ya Husain maula
+  Lo mai nok-e-naiza pe aa gaya
+  Mai kamaal-e-maqsad ko paa gaya
   Tah e taygh sajda ada kiya
-  Mai utha to pesh e khuda gaya
+  Mai utha to pesh-e-khuda gaya
   Hai sada e hal min ka maujeza
-  Hai jahan mein zinda mera sukhan
-  Mai hussain hoo wo hussain hoo
-  Dil e fatema ka mai chain hoo
-  Mai hussain hoo wo hussain hoo
-  Mai hussain ya hussain maula
-  Mai hussain jaan e karbala
-  Hai yahan ki matti mein bhi shifa
+  Hai jahaṅ meiṅ zinda mera sukhan
+  Mai Husain hu wo Husain hu
+  Dil-e-fatema ka mai chain hoo
+  Mai Husain hu wo Husain hu
+  Mai Husain ya Husain maula
+  Mai Husain jaan-e-karbala
+  Hai yahaṅ ki matti meiṅ bhi shifa
   Lo rehaan o sarwar karo dua
-  Rahe saaya sab par hussain ka
+  Rahe saaya sab par Husain ka
   Rahe hashr tak yehi silsila
-  Yehi ek sada ho zameen zaman
-  Mai hussain hoo wo hussain hoo
+  Yehi ek sada ho zamiṅ zaman
+  Mai Husain hu wo Husain hu
 # source_id: nohayonline:ffc343195669754dab8e
 # source_url: https://www.nohayonline.com/details_content.php?id=1735
 # raw_sha256: 9c76488eac07883293485416ffcd0f276f2cb5a4e3f33c5c345b8555ee37b5df

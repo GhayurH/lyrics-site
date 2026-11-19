@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Warid haram ka khaafila kufe mein jab hua
+  Warid haram ka khaafila kufe meiṅ jab hua
   Muslim ki laash dekh ke zainab ne ye kaha
   Laashe muslim pe ye zainab ne kaha ro ro kar
-  Aap ki laash bhi be-gor o kafan hai bhaiya
-  Be kafan kabobala mein hai mere lakhte jigar
-  Aap ki laash bhi be-gor o kafan hai bhaiya
+  Aap ki laash bhi begor o kafan hai bhaiya
+  Bekafan kabobala meiṅ hai mere lakhte jigar
+  Aap ki laash bhi begor o kafan hai bhaiya
   Kaisi ye aal e payembar pe musibat aayi
-  Ranj ye dil pe sahay kis tarha zehra jaayi
-  Bhai shabbir ka laasha hai pada reti par
-  Aap ki laash bhi be-gor o kafan hai bhaiya
+  Ranj ye dil pe sahe kis tarha zehra jaayi
+  Bhai shabbir ka laasha hai para reti par
+  Aap ki laash bhi begor o kafan hai bhaiya
   Laashe muslim pe...
-  Yun to zinda hoo magar jaan kahan baaqi hai
-  Ab to jeene ka bhi armaan kahan baaqi hai
-  Haye afsoos nahi sar pe hamare chadar
-  Aap ki laash bhi be-gor o kafan hai bhaiya
+  Yuṅ to zinda hoo magar jaan kahaṅ baaqi hai
+  Ab to jine ka bhi armaan kahaṅ baaqi hai
+  Haye afsus nahi sar pe hamare chadar
+  Aap ki laash bhi begor o kafan hai bhaiya
   Laashe muslim pe...
-  Zulm laashon pe shaheedo ke hai yun dhaaye gaye
-  Sar kiye tan se juda ghode bhi daudaye gaye
-  Ab bhi taaza hai nighaho mein meri wo manzar
-  Aap ki laash bhi be-gor o kafan hai bhaiya
+  Zulm laashoṅ pe shaheedo ke hai yuṅ dhaaye gaye
+  Sar kiye tan se juda ghore bhi dauraye gaye
+  Ab bhi taaza hai nighaho meiṅ meri wo manzar
+  Aap ki laash bhi begor o kafan hai bhaiya
   Laashe muslim pe...
   Haal dekha nahi jaata hai ruqayya ka zara
   Kis tarha dil pe uthayegi ye sadma dukhiya
-  Hogaye maa se juda phool se do noor e nazar
-  Aap ki laash bhi be-gor o kafan hai bhaiya
+  Hogaye maa se juda phul se do nur e nazar
+  Aap ki laash bhi begor o kafan hai bhaiya
   Laashe muslim pe...
-  Ek musafir ko hazaron ne sataya bhai
-  Daarul ammaara se yun tumko giraya bhai
+  Ek musafir ko hazaroṅ ne sataya bhai
+  Daarul ammaara se yuṅ tumko giraya bhai
   Khaak par jaise gira tha bani hashim ka qamar
-  Aap ki laash bhi be-gor o kafan hai bhaiya
+  Aap ki laash bhi begor o kafan hai bhaiya
   Laashe muslim pe...
   Cheenli aale payambar ki rida aada ne
-  Zulm yun aap pe aur hum pe kiya aada ne
-  Ab hai naaqon pe rasan basta janazon ka safar
-  Aap ki laash bhi be-gor o kafan hai bhaiya
+  Zulm yuṅ aap pe aur hum pe kiya aada ne
+  Ab hai naaqoṅ pe rasan basta janazoṅ ka safar
+  Aap ki laash bhi begor o kafan hai bhaiya
   Laashe muslim pe...
-  Gham ka manzar wo bayan hoga shuja'at kaise
+  Gham ka manzar wo bayaṅ hoga shuja'at kaise
   Kaamp uthi laasha e muslim bhi ye naale sun ke
-  Saath naizon pe hai hamraah shaheedon ke bhi sar
-  Aap ki laash bhi be-gor o kafan hai bhaiya
+  Saath naizoṅ pe hai hamraah shahidoṅ ke bhi sar
+  Aap ki laash bhi begor o kafan hai bhaiya
   Laashe muslim pe...
 # source_id: nohayonline:bfe83a94c7750d4dc24b
 # source_url: https://www.nohayonline.com/details_content.php?id=1519

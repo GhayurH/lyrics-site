@@ -8,8 +8,8 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mujhe pe kyun band karte ho paani
-  Ya Hussain
+  Mujhe pe kiun band karte ho paani
+  Ya Husain
 
   1
   Mera nana nabi meri maa Syeda
@@ -17,7 +17,7 @@ romanLyrics: |-
   Hum hi hain panjatan
 
   2
-  Meri kya he khata,, mujhpe kyun band karte ho pani
+  Meri kya he khata,, mujhpe kiun band karte ho pani
 
   3
   Kya Muhammad ka pyara nahin hun
@@ -29,7 +29,7 @@ romanLyrics: |-
   Aur Quran tumko sunaya
   Kya ma nana ka saaya nahin hun
   Kya nabi ka nawasa nahin hun
-  Mujhpe kyun band karte ho pani
+  Mujhpe kiun band karte ho pani
   Kya Muhammad ka pyara nahin hun
 
   5
@@ -37,7 +37,7 @@ romanLyrics: |-
   Aur masjid may us ghar ka ghar he
   Kya may us ghar may khela nahin hun
   Kya nabi ka nawasa nahin hun
-  Mujhpe kyun band karte ho pani
+  Mujhpe kiun band karte ho pani
   Kya Muhammad ka pyara nahin hun
 
   6
@@ -45,7 +45,7 @@ romanLyrics: |-
   Mujhko nana ne jhula jhulaya
   Apna bachpan may bhula nahin hun
   Kya nabi ka nawasa nahin hun
-  Mujhpe kyun band karte ho pani
+  Mujhpe kiun band karte ho pani
   Kya Muhammad ka pyara nahin hun
 
   7
@@ -53,15 +53,15 @@ romanLyrics: |-
   Kitna pyara mera bachpana tha
   Kya may unka dulhara nahin hun
   Kya nabi ka nawasa nahin hun
-  Mujhpe kyun band karte ho pani
+  Mujhpe kiun band karte ho pani
   Kya Muhammad ka pyara nahin hun
 
   8
   5) May jo paani kabhi maangta tha
-  Kyun tarapti thi maa ab may samjha
+  Kiun tarapti thi maa ab may samjha
   Paas asghar ke jaata nahin hun
   Kya nabi ka nawasa nahin hun
-  Mujhpe kyun band karte ho pani
+  Mujhpe kiun band karte ho pani
   Kya Muhammad ka pyara nahin hun
 
   9
@@ -69,15 +69,15 @@ romanLyrics: |-
   Khun may duba nazar aaye maqtal
   Jang karne may aya nahin hun
   Kya nabi ka nawasa nahin hun
-  Mujhpe kyun band karte ho pani
+  Mujhpe kiun band karte ho pani
   Kya Muhammad ka pyara nahin hun
 
   10
-  7) Ik sada thi ye "rehaan-o-sarwar"
-  Kehrahe the Hussain ibne haider
+  7) Ik sada thi ye "rehaan o sarwar"
+  Kehrahe the Husain ibne haider
   Kya may mehman aaya nahin hun
   Kya nabi ka nawasa nahin hun
-  Mujhpe kyun band karte ho pani
+  Mujhpe kiun band karte ho pani
   Kya Muhammad ka pyara nahin hun
   Kya may Zehra ka jaya nahin hun
   Kya nabi ka nawasa nahin hun

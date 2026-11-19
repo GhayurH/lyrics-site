@@ -9,7 +9,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bare baron se bara hai Husain ka Asghar
+  Bare baroṅ se bara hai Husain ka Asghar
   Husainiyat ki baqa hai Husain ka Asghar
 
   1
@@ -17,15 +17,15 @@ romanLyrics: |-
   Amir-e-Karbobala hai Husain ka Asghar
 
   2
-  Yazidiyat ko khilona bana ke jhule mein
+  Yazidiyat ko khilona bana ke jhule meiṅ
   Abhi bhi khel raha hai Husain ka Asghar
 
   3
   Ghurur karti thi jis Hurmala pe fauj-e-Yazid
-  Usi pe ran mein hansa hai Husain ka Asghar
+  Usi pe ran meiṅ hansa hai Husain ka Asghar
 
   4
-  Kabhi shauur ki aankhon se parh kitab-e-atash
+  Kabhi shauur ki aankhoṅ se parh kitab-e-atash
   Waraq waraq pe likha hai Husain ka Asghar
 
   5

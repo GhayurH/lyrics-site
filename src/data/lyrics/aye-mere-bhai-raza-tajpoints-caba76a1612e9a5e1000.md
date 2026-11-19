@@ -8,7 +8,7 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Aye Mere Bhai Raza"
+alternateTitle: "Ae Mere Bhai Raza"
 romanLyrics: |-
   Ae mere bhai Raza maiṅ Sani-e-Zainab huṅ
   Tu Sani-e-Husain ae Gharib-ul-Ghuraba

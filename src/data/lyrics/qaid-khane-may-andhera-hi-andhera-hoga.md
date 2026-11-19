@@ -14,24 +14,24 @@ romanLyrics: |-
 
   1
   Is may ek choti si bachi ka janaza hoga
-  Bediyan paon may haathon pa bahan ka laasha
+  Beriyaṅ paoṅ may haathoṅ pa bahan ka laasha
   Socho kis tarhe se abid ne uthaaya hoga
 
   2
-  Poochti rehti thi zainab se sakina payham
+  Puchti rehti thi zainab se sakina payham
   Kya watan laut ke humko kabhi jaana hoga
 
   3
-  Wo sakina jise seene pe sulaate thay hussain
-  Kya khabar thi ke tamache usay khaana hoga
+  Wo sakina jise sine pe sulaate the Husain
+  Kya khabar thi ke tamache use khaana hoga
 
   4
-  Baaliyan kaano se jab shimr ne cheeni hogi
-  Us ghadi laasha e abbas bhi tadpa hoga
+  Baaliyaṅ kaano se jab shimr ne chini hogi
+  Us ghari laasha e abbas bhi tarpa hoga
 
   5
   Har tamache pa ye kehti thi ye kamsin bachi
-  Ay shaki ruk abhi ammu mera aata hoga
+  Ae shaki ruk abhi ammu mera aata hoga
 # source_id: nohayonline:7d66d31332a95d486f68
 # source_url: https://www.nohayonline.com/details_content.php?id=991
 # raw_sha256: 4f2dd4bd5e27d3f281fc41d09d37bb1f79377a500981cb72a5c9215a291c798a

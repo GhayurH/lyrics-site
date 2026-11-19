@@ -11,72 +11,72 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Maqtal mein jab gira shah e deen ka jawan pisar
-  Ghash kha ke gir pade shah e laulaak khaak par
+  Maqtal meiṅ jab gira shah e diṅ ka jawan pisar
+  Ghash kha ke gir pare shah e laulaak khaak par
   Sadma wo tha ke kuch unhe aata na tha nazar
   Manzar bata rahi hai riwayaat motbar
   Apne pisar ki laash pe shabbir gir gaye
-  Shaana hila ke laash ka ye poochne lage
+  Shaana hila ke laash ka ye puchne lage
   Tere jaisa hi uska seena hai
-  Mere akbar ko kahin dekha hai
+  Mere akbar ko kahiṅ dekha hai
   Kaise tujhko lagi hai ye barchi
   Kya khabar ye tere padar ko mili
-  Mai to be maut mar gaya hota
+  Mai to bemaut mar gaya hota
   Mere akbar ko jo lagi hoti
-  Jaane kyun dil mera tadapta hai
+  Jaane kiuṅ dil mera tarapta hai
   Mere akbar ko kahin...
   Tere jaisa hi uska...
-  Mujhko maloom hai wo zakhmi hai
-  Fauj ye uske khoon ki pyasi hai
-  Tere seene pe jo lahoo hai laga
-  Us lahoo mein to khusboo uski hai
-  Wo yaqeenan yahan se guzra hai
+  Mujhko malum hai wo zakhmi hai
+  Fauj ye uske khuṅ ki pyasi hai
+  Tere sine pe jo lahu hai laga
+  Us lahu meiṅ to khusbu uski hai
+  Wo yaqinan yahaṅ se guzra hai
   Mere akbar ko kahin...
   Tere jaisa hi uska...
   Tu nahi usko jaanta hai agar
-  Mujhko pura yaqeen hai is par
-  Usko jo dekhe bhoolta hi nahi
-  Is qadar wo haseen hai mera pisar
+  Mujhko pura yaqin hai is par
+  Usko jo dekhe bhulta hi nahi
+  Is qadar wo hasin hai mera pisar
   Chaudvi chand jaisa chehra hai
   Mere akbar ko kahin...
   Tere jaisa hi uska...
-  Maine usko kaha tha ay beta
-  Mujhko mud mud ke dekhte jaana
-  Haan magar is tarha gaya hai wo
+  Maiṅ ne usko kaha tha ae beta
+  Mujhko mur mur ke dekhte jaana
+  Haaṅ magar is tarha gaya hai wo
   Phir palat kar kabhi nahi aaya
-  Maine har simt usko dhoondha hai
+  Maiṅ ne har simt usko dhoondha hai
   Mere akbar ko kahin...
   Tere jaisa hi uska...
-  Jab wo zeen se zameen pe aaya hai
+  Jab wo zin se zamiṅ pe aaya hai
   Aakhri baar usko dekha hai
-  Haye beenayi ja chuki meri
-  Ab mera din mein haal aisa hai
-  Mere charon taraf andhera hai
+  Haye binayi ja chuki meri
+  Ab mera din meiṅ haal aisa hai
+  Mere charoṅ taraf andhera hai
   Mere akbar ko kahin...
   Tere jaisa hi uska...
   Mai jo awaaz doo wo aayega
   Aa ke mujhko gale lagayega
-  Par mai awaaz yun nahi deta
-  Apne zakhmon ko wo chupayega
+  Par mai awaaz yuṅ nahi deta
+  Apne zakhmoṅ ko wo chupayega
   Hai bahadur ali ka pota hai
   Mere akbar ko kahin...
   Tere jaisa hi uska...
   Aur ye soch kar bhi mai chup hoo
-  Wo na dekhe jo ladkhada ke giroo
+  Wo na dekhe jo ladkhara ke giroo
   Apni quwwat ko kar raha hoo jamaa
-  Chal ke pairon pe mai wahan pahunchoo
-  Mai jo tadpoo to wo tadapta hai
+  Chal ke pairoṅ pe mai wahaṅ pahunchoo
+  Mai jo tadpoo to wo tarapta hai
   Mere akbar ko kahin...
   Tere jaisa hi uska...
-  Usne tujhko yahan nahi dekha
-  Chod kar warna wo nahi jaata
-  Tere zakhmon pe rakhta wo marham
+  Usne tujhko yahaṅ nahi dekha
+  Chor kar warna wo nahi jaata
+  Tere zakhmoṅ pe rakhta wo marham
   Tujhko pani mera pisar deta
   Haye lekin wo khud bhi pyasa hai
   Mere akbar ko kahin...
   Tere jaisa hi uska...
   Bola salman azmi wo jawan
-  Mai hi akbar hoo mere baba jaan
+  Mai hi akbar hoo mere baba jaaṅ
   Na hi gehra hai itna zakhm e jigar
   Na hi sadma koi hai zakhm e sina
   Jitna sadma tumhara kehna hai

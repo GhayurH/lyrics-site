@@ -1,6 +1,6 @@
 ---
 title: "آواز دے رہی تھی"
-alternateTitle: "Amma Hussain Hoo"
+alternateTitle: "Amma Husain Hoo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,46 +12,46 @@ published: false
 romanLyrics: |-
   1
   Awaaz de rahi thi
-  Maqtal mein laashe sarwar
-  Kya dhoondti ho maadar
+  Maqtal meiṅ laashe sarwar
+  Kya dhundti ho maadar
   Laashe pe mere aa kar
-  Amma hussain hoo mai
-  Seene pe haath rakh do
+  Amma Husain hoo mai
+  Sine pe haath rakh do
   Shayad ke chain aaye
   Mumkin nahi nazar ab
-  Tumko hussain aaye
-  Laasha hai mera be-sar
-  Amma hussain hoo mai...
-  Tum choomti thi jis ko
+  Tumko Husain aaye
+  Laasha hai mera besar
+  Amma Husain hoo mai...
+  Tum chumti thi jis ko
   Amma ye wo gala hai
   Khanjar se kat chuka hai
-  Ab khoon ris raha hai
+  Ab khun ris raha hai
   Pehchan mujhko maadar
-  Amma hussain hoo mai...
+  Amma Husain hoo mai...
   Wo dekho laashe akbar
-  Naize mein dil hai jis ka
-  Tanha uthaaya maine
+  Naize meiṅ dil hai jis ka
+  Tanha uthaaya maiṅ ne
   Is ka jawan laasha
-  Tukde jigar hai maadar
-  Amma hussain hoo mai...
-  Deti hai maa tadap kar
-  Asghar ko jab sadayein
-  Bano ko dhoondti hai
-  Baysheer ki nigahein
+  Tukre jigar hai maadar
+  Amma Husain hoo mai...
+  Deti hai maa tarap kar
+  Asghar ko jab sadayeiṅ
+  Bano ko dhundti hai
+  Baysheer ki nigaheiṅ
   Lagti hai chot dil par
-  Amma hussain hoo mai...
+  Amma Husain hoo mai...
   Amma mai kho chuka hoo
   Abbas jaisa bhai
-  Baazu utha liye thay
+  Baazu utha liye the
   Mayyat nahi uthaayi
   Aaya hoo sab luta kar
-  Amma hussain hoo mai...
+  Amma Husain hoo mai...
   Jaayegi ab samar na
-  Taa hashr maa yahan se
+  Taa hashr maa yahaṅ se
   Kehtii thi laashe sarwar
   Ab bhi raza ye maa se
-  Baithi raho yahan par
-  Amma hussain hoo mai...
+  Baithi raho yahaṅ par
+  Amma Husain hoo mai...
 # source_id: nohayonline:4808a784cfb8885b77e1
 # source_url: https://www.nohayonline.com/details_content.php?id=2391
 # raw_sha256: 478946646ffb2abe07717b63994b3fb747eca04dc6df5360b6c204e3d60c6ca3

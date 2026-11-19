@@ -59,8 +59,8 @@ romanLyrics: |-
   Ye din kisi ko na rab dikhaye
   Jawan ki mayyat padar uthaye
   Utha raha hai jo laashe akbar
-  Hussain ka ye jigar hai haye
-  Khaleel sabr e hussain dekhe
+  Husain ka ye jigar hai haye
+  Khaleel sabr e Husain dekhe
   Ke apne dil ka lahoo bahane
 
   7

@@ -17,44 +17,44 @@ romanLyrics: |-
   Tujhpe shehzadi e kaunain meri jaan fida
   Kya mila tujhko zamane se masayib ke siwa
   Baad paighambar e islam hui aur jafa
-  Cheeni jageer e fidak baap ka virsa na diya
-  Tujhko jhuthlaya gaya kitna tadpaya gaya
-  Haye afsos mohamed ka chaman loot liya
+  Chini jagir e fidak baap ka virsa na diya
+  Tujhko jhuthlaya gaya kitna tarpaya gaya
+  Haye afsos mohamed ka chaman lut liya
   Ya fatema salamullah alaiha...
-  Wo jo rehte thay shifa’at ke talabgaar sabhi
+  Wo jo rehte the shifa’at ke talabgaar sabhi
   Aa gaye ghar ko jalane wo sitamgaar sabhi
   Tune aayaat suna di sar e darbar sabhi
   Phir bhi jhutlaate rahe tujhko gunehgaar sabhi
   Tune jab nauha kiya has diye ahl e jafa
   Aur quran ki aayat ne ye bain kiya
   Ya fatema salamullah alaiha...
-  Phasliyan toot gayi jalta hua dar jo gira
+  Phasliyaṅ tut gayi jalta hua dar jo gira
   Aur mohsin ki shahadat ka tujhe dard mila
   Roye is baat pe hyder jo tujhe ghusl diya
   Ta dame marg tera haath na pehlu se hata
-  Kyun chupaya tha bhala tune ye zakhme jafa
+  Kiuṅ chupaya tha bhala tune ye zakhme jafa
   Mai tere baad isi baat pe hoo mehve buka
   Ya fatema salamullah alaiha...
-  Maa chali jaye to lagta hai khuda rooth gaya
-  Sayeban koi nahi dunya may maadar se bada
-  Meri bibi teri mayyat pe ye beton ne kaha
-  Neend raaton ki gayi aap ka saaya jo utha
-  Humko tadpao nahi chod ke jao nahi
-  Ab kahan payenge hum aap ke anchal ki hawa
+  Maa chali jaye to lagta hai khuda ruth gaya
+  Sayebaṅ koi nahi dunya may maadar se bara
+  Meri bibi teri mayyat pe ye betoṅ ne kaha
+  Nind raatoṅ ki gayi aap ka saaya jo utha
+  Humko tadpao nahi chor ke jao nahi
+  Ab kahaṅ payenge hum aap ke anchal ki hawa
   Ya fatema salamullah alaiha...
-  Mai tere naam ki tasbeeh jo padta hoo kabhi
-  Khoon rulati hai mujhe teri musibat bibi
+  Mai tere naam ki tasbih jo parta hoo kabhi
+  Khuṅ rulati hai mujhe teri musibat bibi
   Wo ibadat wo musalle pe teri nauha gari
-  Haath ek pehlu pe ek haath se tasbeeh padi
-  Wo ruku aur sujood teri gurbat pe durood
-  Is aziyat may namazein na hui teri qaza
+  Haath ek pehlu pe ek haath se tasbih pari
+  Wo ruku aur sujud teri gurbat pe durud
+  Is aziyat may namazeiṅ na hui teri qaza
   Ya fatema salamullah alaiha...
-  Ek pal ko bhi tere gham ko na mai bhool saka
+  Ek pal ko bhi tere gham ko na mai bhul saka
   Teri marqad ka suna phir mai baqayya pahuncha
   Wo udaasi wo andhera wo sitamgaar fiza
   Haye marqad ki alamat ko bhi rehne na diya
   Rauza ban jaye tera ye hai armaan mera
-  Phir wahan jaaye ziyarat ko sabhi ahle aza
+  Phir wahaṅ jaaye ziyarat ko sabhi ahle aza
   Ya fatema salamullah alaiha...
 # source_id: nohayonline:a10cfc54dae9131b8a50
 # source_url: https://www.nohayonline.com/details_content.php?id=1326

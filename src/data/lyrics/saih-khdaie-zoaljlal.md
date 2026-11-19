@@ -41,8 +41,8 @@ romanLyrics: |-
 
   6
   De raha hay deen-e-Kibriya tumhe salam
-  Almadad Hussain almadad shah-e-huda
-  Bay watan Hussain, mere dil ke cheyn,
+  Almadad Husain almadad shah-e-huda
+  Bay watan Husain, mere dil ke cheyn,
   Hamsafar tumhare saath maa huwi, Aur saaya-e-khuda-e-zul jalaal
 
   7
@@ -55,11 +55,11 @@ romanLyrics: |-
   Akbar-e-Jawaan jigar pe khayen gay sina
   Maa kahengi mera chaand khogaya kaha
   Uspe nohakhwaan, honge meri jaan,
-  Mei bi aur Hassan bi aur Rasool bi, Aur saaya-e-khuda-e-zul jalaal
+  Mei bi aur Hasan bi aur Rasool bi, Aur saaya-e-khuda-e-zul jalaal
 
   9
   Ye Sada mazar-e-Syeda se Mazhar Abidi
-  Sunke rodiyey Hussain Mustafa ki aal bhi
+  Sunke rodiyey Husain Mustafa ki aal bhi
   Jaawo mere laal, jaawo mere laal,
   Tumpe har qadam rahe dua meri, aur saaya-e-khuda-e-zuljalaal
 # source_id: ziyaraat:6eb2e88f1b763040c0be

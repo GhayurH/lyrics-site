@@ -32,7 +32,7 @@ romanLyrics: |-
   Saahib-e-Duldul o talwaar ka maatam kar lo
 
   6
-  Apne qaatil ko diya jis ne ke jaam-e-shirin
+  Apne qaatil ko diya jis ne ke jaam-e-shiriṅ
   Saare waliyoṅ ke sardaar ka maatam kar lo
 
   7

@@ -46,7 +46,7 @@ romanLyrics: |-
   6
   Bazaraan Haan Darbaraan, Haan Taun Wanjraan Aye Sang Beemar
   Mera Ik Paigham Hai Behna, Mere Azadaron Se Kehna
-  Jab Bhi Thanda Pani Peena, Pyasay Hussain Ki Pyas Pe Rona
+  Jab Bhi Thanda Pani Peena, Pyasay Husain Ki Pyas Pe Rona
   Haan Ghar Ghar Haan Ta Mehshar, Haan Mujhe Roein Gay Pursay Daar
 # source_id: ziyaraat:3209e2580307ae838f3b
 # source_url: https://www.ziyaraat.net/api/noha/2939

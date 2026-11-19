@@ -1,6 +1,6 @@
 ---
 title: "زنداں میں نہیں آتی کیوں تازہ ہوا بھیا"
-alternateTitle: "Zindaaṅ Mein Nahiṅ Aati"
+alternateTitle: "Zindaaṅ Meiṅ Nahiṅ Aati"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

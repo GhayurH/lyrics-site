@@ -13,34 +13,34 @@ romanLyrics: |-
   Abbas Na Laute Sheh Aa Gaye Mashk Aa Gayi
 
   1
-  Maqtal Ki Zameen Bha Gayi Abbas Na Laute
+  Maqtal Ki Zamiṅ Bha Gayi Abbas Na Laute
 
   2
   Is Shaan Se Maqtal Ko Sidhara Tha Alamdar
   Aada Ki Nazar Kha Gayi Abbas Na Laute
 
   3
-  Jab Teer Chala Beh Gaya Sab Mashk Se Pani
+  Jab Tir Chala Beh Gaya Sab Mashk Se Pani
   Abbas Ko Sharm Aa Gayi Abbas Na Laute
 
   4
-  Rone Ke Liye Lasha-e-Shabbir Pe Ran Mein
+  Rone Ke Liye Lasha-e-Shabbir Pe Ran Meiṅ
   Firdaus Se Maa Aa Gayi Abbas Na Laute
 
   5
-  Khaimon Mein Lagi Aag To Ammu Ko Bulane
-  Masoom Sakina Gayi Abbas Na Laute
+  Khaimoṅ Meiṅ Lagi Aag To Ammu Ko Bulane
+  Masum Sakina Gayi Abbas Na Laute
 
   6
   Had Ho Gayi Bhai Ko Manane Lab-e-Sahil
   Khud Sani-e-Zahra Gayi Abbas Na Laute
 
   7
-  Kya Janiye Kyun Rooth Gaye Kehti Thi Zainab
+  Kya Janiye Kiuṅ Ruth Gaye Kehti Thi Zainab
   Rukhsat Ki Ghari Aa Gayi Abbas Na Laute
 
   8
-  Behta Hua Kanon Se Lahu Sokhe Hue Lab
+  Behta Hua Kanoṅ Se Lahu Sokhe Hue Lab
   Dikhlane Sakina Gayi Abbas Na Laute
 
   9
@@ -48,15 +48,15 @@ romanLyrics: |-
   Aakhir Ko Qaza Aa Gayi Abbas Na Laute
 
   10
-  Pani Ke Liye Mashk-o-Alam Le Ke Gaye Thay
+  Pani Ke Liye Mashk o Alam Le Ke Gaye The
   Din Dhal Gaya Raat Aa Gayi Abbas Na Laute
 
   11
-  Jaage They Kai Shab Ke Kai Din Ke They Pyase
-  Abbas Ko Neend Aa Gayi Abbas Na Laute
+  Jaage The Kai Shab Ke Kai Din Ke The Pyase
+  Abbas Ko Nind Aa Gayi Abbas Na Laute
 
   12
-  Zainab Ki Fughan Maqtal-e-Shabbir Mein Yawar
+  Zainab Ki Fughaṅ Maqtal-e-Shabbir Meiṅ Yawar
   Har Ek Ko Tarpa Gayi Abbas Na Laute
 # source_id: nohayonline:2763177dc3dafbe1eed6
 # source_url: https://www.nohayonline.com/details_content.php?id=460

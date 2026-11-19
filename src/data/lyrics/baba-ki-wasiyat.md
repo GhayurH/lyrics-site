@@ -11,31 +11,31 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ekkees ki shabe aakhri saanson ka hai qissa
+  Ekkis ki shabe aakhri saansoṅ ka hai qissa
   Aulaad ko hasrat se ali maula ne dekha
   Dil phatne laga dekha jo zainab ne ye girya
-  Maula ne tadapte huwe ghazi ko pukara
-  Bolay ke ay abbas bhale jaan lutaana
+  Maula ne tarapte huwe ghazi ko pukara
+  Bole ke ae abbas bhale jaan lutaana
   Ye hukm mera aakhri dam tak na bhulana
-  Baba ki wasiyat hai isa dil mein basa le
+  Baba ki wasiyat hai isa dil meiṅ basa le
   Ghazi meri zainab ki rida tere hawaale
   Abbas tum ab uski rida ban ke dikhana
-  Kurte tere jisne hai badi dayr sambhale
+  Kurte tere jisne hai bari dayr sambhale
   Baba ki wasiyat hai...
   Zainab ke kabhi nakshe dekho to ghazi
   Suraj se bhi kehna ke nazar apni hataale
   Baba ki wasiyat hai...
-  Shabbir se zainab ko bichadne nahi dena
-  Zehra ne ye dono hai bade naaz se paale
+  Shabbir se zainab ko bicharne nahi dena
+  Zehra ne ye dono hai bare naaz se paale
   Baba ki wasiyat hai...
   Zainab ne suna roke kaha baba ne ghazi
-  Zanjeer na zainab ke koi haath mein daale
+  Zanjir na zainab ke koi haath meiṅ daale
   Baba ki wasiyat hai...
   Zainab ne kaha baba mere ghazi ke hote
   Jurrat hai kise koi mujhe qaidi banale
   Baba ki wasiyat hai...
   Maula ne kaha waqt hai badal jaate hai beti
-  Ehsaas nahi karte kabhi lootne waale
+  Ehsaas nahi karte kabhi lutne waale
   Baba ki wasiyat hai...
   Ghazi ne kaha john mai tab tak hoo muhafiz
   Jab tak ye mere baazu koi kaat na daale

@@ -13,42 +13,42 @@ romanLyrics: |-
   1
   Mai jaane nahi dene thi baba ke sawari
   Maqtal ko nahi jaaiye ruk jaye khudara
-  Kya beti se pyari hai qaza ay mere baba
-  Zakhmon ke aziyat se sakina ko bacha len
-  Jaate huwe haathon se inhe aap chupa len
+  Kya beti se pyari hai qaza ae mere baba
+  Zakhmoṅ ke aziyat se sakina ko bacha leṅ
+  Jaate huwe haathoṅ se inhe aap chupa leṅ
   Kaano se gauhar nochne aa jayenge adaa
   Kya beti se pyari hai...
   Zehra hoo samajhti hoo mai ismat ke ishaare
-  Shayad na rahe chadarein ab sar pe hamare
-  Kyun yaas se hai chadar e tatheer ko chooma
+  Shayad na rahe chadareiṅ ab sar pe hamare
+  Kiuṅ yaas se hai chadar e tathir ko chuma
   Kya beti se pyari hai...
-  Ruqsaron pe is tarha mujhe bosay kiye hai
-  Jaise ke mere gaalon pe kuch neel pade hai
+  Ruqsaron pe is tarha mujhe bose kiye hai
+  Jaise ke mere gaaloṅ pe kuch nil pare hai
   Mai kis ko pukarungi agar shimr ne maara
   Kya beti se pyari hai...
-  Jis tarha utaara hai mujhe seene se baba
+  Jis tarha utaara hai mujhe sine se baba
   Yaad aaya hai manzar mujhe yasrab ke safar ka
-  Bhaiya ne tha mehmil se yun sughra ko utaara
+  Bhaiya ne tha mehmil se yuṅ sughra ko utaara
   Kya beti se pyari hai...
-  Yasrab mein mere naaz uthaate rahe jaise
-  Taskeen e dil o jaan bulaate rahe jaise
+  Yasrab meiṅ mere naaz uthaate rahe jaise
+  Taskin e dil o jaaṅ bulaate rahe jaise
   Ab kaun kahega mujhe is tarha sakina
   Kya beti se pyari hai...
-  Pardes mein hojaye jo bewa koi beti
-  Bas baap hi reh jaata hai umeed dukhi ke
-  Ro ro ke ye poochti hai aap se kubra
+  Pardes meiṅ hojaye jo bewa koi beti
+  Bas baap hi reh jaata hai umid dukhi ke
+  Ro ro ke ye puchti hai aap se kubra
   Kya beti se pyari hai...
-  Ye bain jo uth'te hai abhi aap ke gham mein
-  Shaamil hai meri daadi bhi in ahle haram mein
+  Ye bain jo uth'te hai abhi aap ke gham meiṅ
+  Shaamil hai meri daadi bhi in ahle haram meiṅ
   Roti hui takti hai mujhe fatema zehra
   Kya beti se pyari hai...
-  Pani ki zaroorat hi nahi pyasi nahi hoo
+  Pani ki zarurat hi nahi pyasi nahi hoo
   Kis aas pe ruqsat ki ijazat tumhe de doo
-  Maine to koi laut ke aata nahi dekha
+  Maiṅ ne to koi laut ke aata nahi dekha
   Kya beti se pyari hai...
   Akbar tha ajab sajda e shabbir ka manzar
-  Gardan pe layeen waar kiye jaata tha gin kar
-  Har waar pe kaano mein yehi goonjh raha tha
+  Gardan pe layiṅ waar kiye jaata tha gin kar
+  Har waar pe kaano meiṅ yehi goonjh raha tha
   Kya beti se pyari hai...
 # source_id: nohayonline:cf0d796b1eb4f3bcd56f
 # source_url: https://www.nohayonline.com/details_content.php?id=2655

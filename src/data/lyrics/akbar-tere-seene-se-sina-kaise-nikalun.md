@@ -1,6 +1,6 @@
 ---
 title: "اکبر تیرے سینے سے سناں کیسے نکالوں"
-alternateTitle: "Akbar Tere Seene Se"
+alternateTitle: "Akbar Tere Sine Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,52 +10,52 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Akbar tere seene se sina kaise nikalun
+  Akbar tere sine se sina kaise nikaluṅ
 
   1
-  Bas itna bata de ke jigar kaise sambhalun
+  Bas itna bata de ke jigar kaise sambhaluṅ
   Kehti hai mere laal meri maamta mujhse
-  Is dard ko tere mai kaleje mein chupalun
+  Is dard ko tere mai kaleje meiṅ chupaluṅ
 
   2
-  Gar ho na aziyaat jo tere zakhme jigar mein
-  Ek baar mere laal galay tujhko lagalun
+  Gar ho na aziyaat jo tere zakhme jigar meiṅ
+  Ek baar mere laal gale tujhko lagalun
 
   3
-  Ay karbobala tu hi bata de koi rasta
+  Ae karbobala tu hi bata de koi rasta
   Mai maut se kaise ali akbar ko bachalun
 
   4
-  Kuch dayr tehar ja mere bache tu jahan mein
+  Kuch dayr tehar ja mere bache tu jahaṅ meiṅ
   Zakhmi tera seena tere dada ko dikhalun
 
   5
-  Ay waqt e qaza de de tu itni mujhe mohlat
-  Mai apne jawan laal ko dulha to banalun
+  E waqt e qaza de de tu itni mujhe mohlat
+  Mai apne jawaaṅ laal ko dulha to banaluṅ
 
   6
-  Khulti nahi aankhein ye nahi bolta mujhse
-  Is neend se kaise ali akbar ko jagalun
+  Khulti nahi aankheiṅ ye nahi bolta mujhse
+  Is nind se kaise ali akbar ko jagalun
 
   7
   Bosa liya peshani e akbar ka ye keh kar
-  Behte huwe ashkon ka mai sehra to sajalun
+  Behte huwe ashkoṅ ka mai sehra to sajalun
 
   8
-  Baithe thay zameen par yehi kehte huwe sarwar
-  Ab dil ki tamanna ke charaghon ko bujhalun
+  Baithe the zamiṅ par yehi kehte huwe sarwar
+  Ab dil ki tamanna ke charaghoṅ ko bujhalun
 
   9
   Is baap ki himmat ko zara de de sahara
-  Maqtal ki zameen se mai tere laash uthalun
+  Maqtal ki zamiṅ se mai tere laash uthalun
 
   10
   Jab uth na saki laash to shabbir ne socha
-  Bachon ko madad ke liye qaime se bulaalun
+  Bachoṅ ko madad ke liye qaime se bulaaluṅ
 
   11
-  Masroof e aza hote hi dil kehta hai yawar
-  Aansu ali akbar ki musibat pa bahalun
+  Masruf e aza hote hi dil kehta hai yawar
+  Aansu ali akbar ki musibat pa bahaluṅ
 # source_id: nohayonline:e1c613d5ce9c2d8ee996
 # source_url: https://www.nohayonline.com/details_content.php?id=1862
 # raw_sha256: ca6a8a76ec3b5d68151aecc3888794aefc029af5b8d006ffae40756d4d91517d

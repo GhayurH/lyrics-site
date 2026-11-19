@@ -47,7 +47,7 @@ romanLyrics: |-
   6
   Liptay huay hain mayyat se bachchay
   Madar pe girya kartay hain bachchay
-  Kyunkar hataey mayyat uthaey
+  Kiunkar hataey mayyat uthaey
   Baqea ko jaey, Qismat Ali ki
   So gayi hay raiyyat, Zehra ki mayyat
 

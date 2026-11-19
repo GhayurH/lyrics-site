@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ay momino jab majlise shabbir mein aana
-  Bachon ka tumhe waasta ye bhool na jaana
-  Ye soch ke jee khol ke tum ashq bahana
-  Majlis jahan hogi wahan aati hai sakina
+  Ae momino jab majlise shabbir meiṅ aana
+  Bachoṅ ka tumhe waasta ye bhul na jaana
+  Ye soch ke ji khol ke tum ashq bahana
+  Majlis jahaṅ hogi wahaṅ aati hai sakina
   Pani na mila aaj bhi pyasi hai sakina
   Pyasi hai sakina haye pyasi hai sakina
   Allah kare aaye kabhi aisa zamana
   Ho shaam ke zindan ki taraf aap ka jaana
   Phat jayega dil dekh ke wo gham ka thikana
-  Behaal hui qabr mein soti hai sakina
+  Behaal hui qabr meiṅ soti hai sakina
   Pani na mila aaj bhi pyasi hai sakina
-  Yun jaanibe darya gaye abbase dilawar
+  Yuṅ jaanibe darya gaye abbase dilawar
   Aur darya se mashqeeza bhara ba-dile muztar
-  Darya ki har ek mauj ye kehti thi tadap kar
-  Hai teesra din haaye tadapti hai sakina
+  Darya ki har ek mauj ye kehti thi tarap kar
+  Hai tisra din haaye tarapti hai sakina
   Pani na mila aaj bhi pyasi hai sakina
-  Shaam aagayi jab chaane laga ban mein andhera
+  Shaam aagayi jab chaane laga ban meiṅ andhera
   Zainab ne kiya bhai ke laashe pe ye nauha
-  Kya tumne sakina ko kahin dekha hai bhaiya
-  Ek kooza liye dasht mein aayi hai sakina
+  Kya tumne sakina ko kahiṅ dekha hai bhaiya
+  Ek kooza liye dasht meiṅ aayi hai sakina
   Pani na mila aaj bhi pyasi hai sakina
   Jab gyara moharram ko suye shaam sidhari
   Darya ki taraf dekh ke zainab ye pukari
   Abbas na mar jaye bhatiji ye tumhari
-  Behaal meri godh mein soti hai sakina
+  Behaal meri godh meiṅ soti hai sakina
   Pani na mila aaj bhi pyasi hai sakina
   Is tarha sitam dhaate hai ab zulm ke baani
-  Laakar ye bhare kooze baha dete hai pani
-  Kuch aur bhi bad jaati hai yun tashna dahani
+  Laakar ye bhare kuze baha dete hai pani
+  Kuch aur bhi bad jaati hai yuṅ tashna dahani
   Bhai ki taraf dekh ke roti hai sakina
   Pani na mila aaj bhi pyasi hai sakina
-  Aansu abhi bachi ke nahi paaye thay thamne
+  Aansu abhi bachi ke nahi paaye the thamne
   Phir maar diya durra kisi ehle sitam ne
   Sajjad ko har gaam rulaaya isi gham ne
-  Is umr mein ye sakhtiyan sehti hai sakina
+  Is umr meiṅ ye sakhtiyaṅ sehti hai sakina
   Pani na mila aaj bhi pyasi hai sakina
-  Durro ki aziyat se tadapti hai hazeena
-  Dukhta hai badan siskiyan leti hai sakina
+  Durro ki aziyat se tarapti hai hazeena
+  Dukhta hai badan siskiyaṅ leti hai sakina
   Sone ke liye paas nahi baba ka seena
-  Ek kone mein sehmi hui baithi hai sakina
+  Ek kone meiṅ sehmi hui baithi hai sakina
   Pani na mila aaj bhi pyasi hai sakina
   Ye zulm bhi kamsin pe sitamgaaro ne dhaaya
-  Rakha hai usay qaid wahan par yak o tanha
-  Rehta hai jahan din mein qayamat ka andhera
+  Rakha hai use qaid wahaṅ par yak o tanha
+  Rehta hai jahaṅ din meiṅ qayamat ka andhera
   Darr darr ke na mar jaaye akeli hai sakina
   Pani na mila aaj bhi pyasi hai sakina
-  Kehta hai suno haaton ko jode huwe gowhar
-  Aaj aise bahe aankhon se ashkon ka samandar
+  Kehta hai suno haatoṅ ko jore huwe gowhar
+  Aaj aise bahe aankhoṅ se ashkoṅ ka samandar
   Ye kehti huwi jaaye na shabbir ki dukhtar
-  Lab khushk zaban sookhi hai roti hai sakina
+  Lab khushk zabaṅ sukhi hai roti hai sakina
   Pani na mila aaj bhi pyasi hai sakina
 # source_id: nohayonline:e33dab7eb1e9ba21f55f
 # source_url: https://www.nohayonline.com/details_content.php?id=693

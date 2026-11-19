@@ -15,30 +15,30 @@ romanLyrics: |-
   Ro ro ke apne baba ko sughra ne khat likha
   Tum gaye ghar se meri lut gayi dunya baba
   Yaad aayi na tumhe fatema sughra baba
-  Karbala jaa ke hamay bhool gaye kya baba
-  Kya kahun usne hai kis tarha se tadpaya mujhe
+  Karbala jaa ke hamay bhul gaye kya baba
+  Kya kahuṅ usne hai kis tarha se tarpaya mujhe
   Eid ka chand falak par jo nazar aaya mujhe
-  Us ghadi dil mein mere dard utha tha baba
+  Us ghari dil meiṅ mere dard utha tha baba
   Yaad aayi na tumhe...
-  Baba teen eidein guzari hai yahan ro ro kar
-  Mujhko eidi mein mile askhe aza zakhme jigar
-  Maine har eid pe ye nauha padha tha baba
+  Baba tin eideiṅ guzari hai yahaṅ ro ro kar
+  Mujhko eidi meiṅ mile askhe aza zakhme jigar
+  Maiṅ ne har eid pe ye nauha parha tha baba
   Yaad aayi na tumhe...
-  Ab to asghar bhi mera ghutniyon chalta hoga
-  Yaad kar ke mujhe jhoole mein machalta hoga
+  Ab to asghar bhi mera ghutniyoṅ chalta hoga
+  Yaad kar ke mujhe jhule meiṅ machalta hoga
   Mujhko sab yaad hai par zulm hai kaisa baba
   Yaad aayi na tumhe...
-  Sunti hoon dasht mein akbar ki rachayi shadi
-  Bhai qasim ke bhi haaton mein lagi hai mehendi
-  Jab sakina ko wahan neg diya tha baba
+  Sunti huṅ dasht meiṅ akbar ki rachayi shadi
+  Bhai qasim ke bhi haatoṅ meiṅ lagi hai mehendi
+  Jab sakina ko wahaṅ neg diya tha baba
   Yaad aayi na tumhe...
   Baba kismat se muqaddar se gila kya karna
   Mere akbar ne bhula daala jo waada apna
-  Khat mera dasht mein jab aap ne paaya baba
+  Khat mera dasht meiṅ jab aap ne paaya baba
   Yaad aayi na tumhe...
-  Jab nazar aate hai bacchon ke ye khaali hujre
+  Jab nazar aate hai bacchoṅ ke ye khaali hujre
   Yaad phir aun o mohamed ki satati hai mujhe
-  Sab ki yaadon ne mujhe khoon rulaya baba
+  Sab ki yaadoṅ ne mujhe khun rulaya baba
   Yaad aayi na tumhe...
   Kaise farhan ye mazhar ye masayib likhe
   Fatema sughra ke ehsaas qalam band kiye

@@ -18,17 +18,17 @@ romanLyrics: |-
   Soja sakina soja sakina
   Na ghabrao zakhmi badan ko na dekho
   Sakina mere pairahan ko na dekho
-  Ye baba ka hai imtehan ay hazeena
+  Ye baba ka hai imtehaṅ ae hazeena
   Soja sakina...
-  Meri zindagi mein na aansu bahao
-  Wagarna mai keh doonga qaime mein jao
-  Tumhe mere bin aur kuch din hai jeena
+  Meri zindagi meiṅ na aansu bahao
+  Wagarna mai keh doonga qaime meiṅ jao
+  Tumhe mere bin aur kuch din hai jina
   Soja sakina...
   Tujhe kis tarha se dilaase doo beti
-  Mai kuch dayr ka aur mehman hoo beti
-  Hai majhdhaar mein mera is dam safina
+  Mai kuch dayr ka aur mehmaṅ hoo beti
+  Hai majhdhaar meiṅ mera is dam safina
   Soja sakina...
-  Mere baad guzrenge faaqon pe faaqe
+  Mere baad guzrenge faaqoṅ pe faaqe
   Mere baad khaane hai tujhko tamache
   Na tu jaa sakegi palat kar madina
   Soja sakina...
@@ -36,21 +36,21 @@ romanLyrics: |-
   Abhi taziyane bhi khaane hai tujhko
   Hai maathe pe tere ye kaisa pasina
   Soja sakina...
-  Sakina mere khoon ki laaj rakhna
+  Sakina mere khun ki laaj rakhna
   Kisi se kabhi koi shikwa na karna
-  Har ek saans par khoon ka ghoont peena
+  Har ek saans par khun ka ghunt pina
   Soja sakina...
-  Tujhe aaj kyun neend aati nahi hai
-  Hai khamosh kyun kuch bataati nahi hai
+  Tujhe aaj kiuṅ nind aati nahi hai
+  Hai khamosh kiuṅ kuch bataati nahi hai
   Tu anghushtari ka hai meri nagina
   Soja sakina...
   Mera sar dikhayega tujhko sitamgar
-  Tere sar se phir cheen lega wo chadar
+  Tere sar se phir chin lega wo chadar
   Satayega reh reh ke tujhko kamina
   Soja sakina...
-  Sada denge asif azadaar sun kar
-  Na padh aur aamir ay sheh ke sukhanwar
-  Ke tadpenge marqad mein shaahe madina
+  Sada deṅge asif azadaar sun kar
+  Na parh aur aamir ae sheh ke sukhanwar
+  Ke tadpenge marqad meiṅ shaahe madina
   Soja sakina...
 # source_id: nohayonline:8ae7b7db1c023523985d
 # source_url: https://www.nohayonline.com/details_content.php?id=2140

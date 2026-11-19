@@ -14,41 +14,41 @@ romanLyrics: |-
   Ye kaunsi mastoora hai kya maang rahi hai
   Islam ki khidmat ka sila maang rahi hai
   Har saahibe ghairat se rida maang rahi hai
-  Pardes mein marne ki dua maang rahi hai
-  Afsurda hai aflaak siyah posh zameen hai
-  Jibreel zara dekhiye zainab to nahi hai
+  Pardes meiṅ marne ki dua maang rahi hai
+  Afsurda hai aflaak siyah posh zamiṅ hai
+  Jibril zara dekhiye zainab to nahi hai
   Allah ye kaisa manzar hai
-  Beparda shamiyon mein aulade payambar hai
+  Beparda shamiyoṅ meiṅ aulade payambar hai
   Allah ye kaisa manzar hai
   Nida de raha hai ye haskar manadi
-  Ay logon gharon se nikal aao jaldi
+  Ae logon gharon se nikal aao jaldi
   Sazae do inko ye baaghi hai baaghi
   Bajte hai shadiyane har haat mein pathar hai
   Allah ye kaisa…
-  Kahan khauf khaata hai zaalim kisi se
+  Kahaṅ khauf khaata hai zaalim kisi se
   Bulata hai ek ek ko wo naam leke
-  Har ek bibi chupti hai zainab ke peeche
+  Har ek bibi chupti hai zainab ke piche
   Khud ko chupaye zainab fizza ki pusht par hai
   Allah ye kaisa…
-  Batata hai shimr aa ke khud shamiyon ko
-  Ke kaata hai maine isi se saron ko
-  Dikhata hai lehrake phir bibiyon ko
-  Haaton mein us shaqi ke ek khoon bhara khanjar hai
+  Batata hai shimr aa ke khud shamiyoṅ ko
+  Ke kaata hai maiṅ ne isi se saroṅ ko
+  Dikhata hai lehrake phir bibiyoṅ ko
+  Haatoṅ meiṅ us shaqi ke ek khuṅ bhara khanjar hai
   Allah ye kaisa…
-  Hua hai asar itna beenaaiyo par
-  Ajab kashmakash mein hai asghar ki madar
+  Hua hai asar itna binaaiyo par
+  Ajab kashmakash meiṅ hai asghar ki madar
   Har ek naiza bardaar ke paas jaa kar
-  Ro ro ke poochti hai kya ye mera asghar hai
+  Ro ro ke puchti hai kya ye mera asghar hai
   Allah ye kaisa…
   Aseeron pe kaisi musibat bani hai
-  Har ek bibi bazaar mein dhoondti hai
-  Sakina kahin bheed mein kho gayi hai
-  Mehshar se pehle barpa bazaar mein mehshar hai
+  Har ek bibi bazaar meiṅ dhundti hai
+  Sakina kahiṅ bhir meiṅ kho gayi hai
+  Mehshar se pehle barpa bazaar meiṅ mehshar hai
   Allah ye kaisa…
-  Qayamat mein kaisi qayamat hai barpa
-  Takallum hai godhi mein asghar ka laasha
+  Qayamat meiṅ kaisi qayamat hai barpa
+  Takallum hai godhi meiṅ asghar ka laasha
   Adalat mein khaaliq ki aati hai zehra
-  Nazre jhuki hai sab ki nabiyon ke labon par hai
+  Nazre jhuki hai sab ki nabiyoṅ ke laboṅ par hai
   Allah ye kaisa…
 # source_id: nohayonline:e408eb43d39e82cdf504
 # source_url: https://www.nohayonline.com/details_content.php?id=287

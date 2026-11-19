@@ -8,19 +8,19 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Yasrab may hashr hay bapa Baqar guzar gaye
-  Matam bapa hay jabaja Baqar guzar gaye
+  Yasrab may hashr hai bapa Baqar guzar gaye
+  Matam bapa hai jabaja Baqar guzar gaye
 
   1
-  Bewa ke bain hain meray waali na jayey
-  Jafar pe toota saneha Baqar guzar gaye
+  Bewa ke bain haiṅ mere waali na jaye
+  Jafar pe tuta saneha Baqar guzar gaye
 
   2
-  Hazrat ko zekr zeen may Hashsham ne diya
-  Hay tukray jigar ho gaya Baqar guzar gaye
+  Hazrat ko zekr zin may Hashsham ne diya
+  He tukre jigar ho gaya Baqar guzar gaye
 
   3
-  Mojood Karbala may thay Baqar Hussainiyo
+  Mojud Karbala may the Baqar Hussainiyo
   Dil may gham o alam liye Baqar guzar gaye
 
   4
@@ -28,19 +28,19 @@ romanLyrics: |-
   Kaisa sitam ye dha diya Baqar guzar gaye
 
   5
-  Jaltay huay khayam ke sholon may jo ghiray
-  Sham e ghariban ghul utha Baqar guzar gaye
+  Jalte hue khayam ke sholoṅ may jo ghire
+  Sham-e-gharibaṅ ghul utha Baqar guzar gaye
 
   6
-  Ro ro ke haal beton ka hota hay ghair ab
+  Ro ro ke haal beton ka hota hai ghair ab
   Saya pidar ka uth gaya Baqar guzar gaye
 
   7
-  Jafar ke bain thay yehi Mola ki laash par
-  Beta yateem ho gaya Baqar guzar gaye
+  Jafar ke bain the yehi Mola ki laash par
+  Beta yatim ho gaya Baqar guzar gaye
 
   8
-  Saray jahan may hota hay matam Imam ka
+  Sare jahaṅ may hota hai matam Imam ka
   Haider ne noha likh diay Baqar guzar gaye
 # source_id: ziyaraat:c09dd6bda389e1bf2458
 # source_url: https://www.ziyaraat.net/api/noha/2195

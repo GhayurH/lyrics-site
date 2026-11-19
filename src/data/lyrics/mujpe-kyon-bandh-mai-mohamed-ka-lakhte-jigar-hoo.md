@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Mai mohamed ka lakhte jigar hoo
-  Mujhpe kyon bandh karte ho pani
+  Mujhpe kyoṅ bandh karte ho pani
 
   1
   Mai hoo mushkil kusha ki nashani
@@ -30,12 +30,12 @@ romanLyrics: |-
   Kis liye mujhpe jor o jafa hai
 
   5
-  Mai hoo hyder ki aankhon ka taara
+  Mai hoo hyder ki aankhoṅ ka taara
   Mai hoo sarkare aalam ka pyara
 
   6
   Kalmago tum nabi ka mai beta
-  Tum musalman ho mai hoo nawasa
+  Tum musalman ho mai hu nawasa
 
   7
   Mere baysheer par rehm khao
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   8
   Mirza chalta tha gardan pe khanjar
-  Tha yehi nauha sheh ki zaban par
+  Tha yehi nauha sheh ki zabaṅ par
 # source_id: nohayonline:b91b7359122ac8f9eed0
 # source_url: https://www.nohayonline.com/details_content.php?id=496
 # raw_sha256: 070088ff909f02a4c2c2bd04ce1f7785e9265e902ae28c3e29c0ee412f0096f4

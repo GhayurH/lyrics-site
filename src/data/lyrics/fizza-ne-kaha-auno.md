@@ -11,16 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab ran mein aaye hyder o jafar ke mehlaqa
-  Aur bekason pe toot padi fauje ashkiyan
+  Jab ran meiṅ aaye hyder o jafar ke mehlaqa
+  Aur bekason pe tut pari fauje ashkiyan
   Nagaah ek zaeefa khule sar barehna pa
   Qaime ke dar pe aayi dilafgar o gham zada
   Dekha jo aah bhar ke suye nehre alqama
   Naizo uchal ke reh gaya pani furaat ka
   Do nanhe nanhe laashe basad girya o buka
   Laate huwe dikhayi diye shaahe karbala
-  Sar peetne lagi wo musibat mubtila
-  Poocha jo bibiyon ne lab e nehr kya hua
+  Sar pitne lagi wo musibat mubtila
+  Pucha jo bibiyoṅ ne lab-e-nehr kya hua
   Fizza ne kaha aun o mohamed gaye maare
   Darya ke kanare
   Mamu pe fida hogaye zainab ke dulaare
@@ -32,22 +32,22 @@ romanLyrics: |-
   Fizza ne kaha...
   Dekhenge na pani ki taraf aankh utha ke
   Waada tha ye maa se
-  Shehzado ne dam tod diya pyaas ke maare
+  Shehzado ne dam tor diya pyaas ke maare
   Darya ke kanare
   Fizza ne kaha...
-  Maqtal ke andhere mein hai is ghar ke ujaale
-  Do phool se laashe
-  Jo chand ke tukde thay banay toote hue taare
+  Maqtal ke andhere meiṅ hai is ghar ke ujaale
+  Do phul se laashe
+  Jo chand ke tukre the bane tute hue taare
   Darya ke kanare
   Fizza ne kaha...
-  Qaime mein abhi laane ki jaldi nahi logon
+  Qaime meiṅ abhi laane ki jaldi nahi logon
   Akbar se ye keh do
-  Bachon ko mere bhai ka sadqa to utaare
+  Bachoṅ ko mere bhai ka sadqa to utaare
   Darya ke kanare
   Fizza ne kaha…
-  Acha hai ke sotay rahe moo khaak pe rakh ke
-  Saaye mein alam ke
-  Abbas ke qadmon mein rahe laal hamare
+  Acha hai ke sote rahe moo khaak pe rakh ke
+  Saaye meiṅ alam ke
+  Abbas ke qadmoṅ meiṅ rahe laal hamare
   Darya ke kanare
   Fizza ne kaha...
   Yaad aagaye muslim ke pisar bekas o muztar
@@ -57,17 +57,17 @@ romanLyrics: |-
   Fizza ne kaha...
   Kaata gaya jab khusk gala sibte nabi ka
   Farzande ali ka
-  Islam ki sheh rag se bahe khoon ke dhaare
+  Islam ki sheh rag se bahe khun ke dhaare
   Darya ke kanare
   Fizza ne kaha...
-  Ghar lut'ta hai zainab ka qayamat ki ghadi hai
-  Khamosh khadi hai
+  Ghar lut'ta hai zainab ka qayamat ki ghari hai
+  Khamosh khari hai
   Sunta nahi koi to kise jaa ke pukare
   Darya ke kanare
   Fizza ne kaha...
-  Saahir haram e shaah mein kohram bapa hai
+  Saahir haram-e-shaah meiṅ kohram bapa hai
   Zainab ki sada hai
-  Mai lut gayi pardes mein hae hae mere pyare
+  Mai lut gayi pardes meiṅ hae hae mere pyare
   Darya ke kanare
   Fizza ne kaha...
 # source_id: nohayonline:f6a6fd5f80b7bf2520f5

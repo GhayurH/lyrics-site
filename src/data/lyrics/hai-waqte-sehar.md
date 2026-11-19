@@ -1,6 +1,6 @@
 ---
 title: "ہے وقتِ سحر خوں میں تر وارثِ قرآن"
-alternateTitle: "Hai Waqt-e-Sehar Khun Meiṅ Tar Waaris-e-Quraan"
+alternateTitle: "Hai Waqt-e-Sehar Khuṅ Meiṅ Tar Waaris-e-Quraan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

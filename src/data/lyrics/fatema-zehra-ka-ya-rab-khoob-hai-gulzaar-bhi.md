@@ -9,7 +9,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Fatema zehra ka ya rab khoob hai gulzaar bhi
+  Fatema zehra ka ya rab khub hai gulzaar bhi
 
   1
   Gul hi gul hai aur nazar aata nahi ek khaar bhi

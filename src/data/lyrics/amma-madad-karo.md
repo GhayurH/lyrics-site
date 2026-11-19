@@ -13,44 +13,44 @@ romanLyrics: |-
   1
   Haye haye ali akbar
   Barchi nikaalne lage jab shaah e karbala
-  Awaaz maa ko de ke ye mazloom ne kaha
-  Hai aap ke hussain ki ghurbat ka imtehan
+  Awaaz maa ko de ke ye mazlum ne kaha
+  Hai aap ke Husain ki ghurbat ka imtehaṅ
   Amma madad karo
-  Kaise nikalun seena e akbar se mai sina
+  Kaise nikaluṅ sina e akbar se mai sina
   Amma madad karo
-  Hai aap ke hussain ki ghurbat ka imtehan
+  Hai aap ke Husain ki ghurbat ka imtehaṅ
   Amma madad karo
-  Bardaasht kis tarha se ye kar payega hussain
-  Bete ke saath dasht mein mar jayega hussain
-  Kadiyal jawan ragadta hai maqtal mein aediyan
+  Bardaasht kis tarha se ye kar payega Husain
+  Bete ke saath dasht meiṅ mar jayega Husain
+  Kariyal jawaaṅ ragadta hai maqtal meiṅ aeriyaṅ
   Amma madad karo...
   Afsos aa na paaya mai usko utaarne
-  Zeen se gira diya isay naize ke waar ne
-  Tooti hai aap ki tarha akbar ki phasliyan
+  Ziṅ se gira diya ise naize ke waar ne
+  Tuti hai aap ki tarha akbar ki phasliyaṅ
   Amma madad karo...
   Akbar ke saath saath mera dil bhi chid gaya
-  Uth'ta nahi hai haath tumhare ghareeb ka
+  Uthta nahi hai haath tumhare gharib ka
   Pehle mere kaleje se tum khaynch lo sina
   Amma madad karo...
-  Paala hai jis ne naazon se hai intezar mein
-  Chadar na bhool jaaye wo akbar ke pyar mein
-  Zainab ko rok lo kahin aa jaaye na yahan
+  Paala hai jis ne naazoṅ se hai intezar meiṅ
+  Chadar na bhul jaaye wo akbar ke pyar meiṅ
+  Zainab ko rok lo kahiṅ aa jaaye na yahaṅ
   Amma madad karo...
   Aati hai sharm baap ko bete ke saamne
-  Aankhon pe rakh do haath dikhayi na de isay
-  Rote zaeef baap ko dekhe na naujawan
+  Aankhoṅ pe rakh do haath dikhayi na de ise
+  Rote zaif baap ko dekhe na naujawaṅ
   Amma madad karo...
-  Amma ghadi ye kaisi ajab imtehan ki hai
-  Do bekason ke haath mein mayyat jawan ki hai
-  Pehlu shikasta aap ka meri kamar kamaan
+  Amma ghari ye kaisi ajab imtehaṅ ki hai
+  Do bekasoṅ ke haath meiṅ mayyat jawaaṅ ki hai
+  Pehlu shikasta aap ka meri kamar kamaaṅ
   Amma madad karo...
-  Tooti hui kamar hai meri mera saath do
-  Mai chaahta hoo qaime mein akbar ko le chalo
-  Zinda to dekh le isay ek baar is ki maa
+  Tuti hui kamar hai meri mera saath do
+  Mai chaahta hoo qaime meiṅ akbar ko le chalo
+  Zinda to dekh le ise ek baar is ki maa
   Amma madad karo...
   Pahuncha ke laash sheh ne takallum di ye sada
   Zainab jo mujhse poochegi kya mai bataungi
-  Mujhse na hogi tum hi shahadat karo bayan
+  Mujhse na hogi tum hi shahadat karo bayaṅ
   Amma madad karo...
 # source_id: nohayonline:efe45a7de7bd1b07d5ab
 # source_url: https://www.nohayonline.com/details_content.php?id=3181

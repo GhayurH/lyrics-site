@@ -121,14 +121,14 @@ romanLyrics: |-
 
   28
   Nahi la’eenon may insaan koi Khuda hafiz
-  Darinde aur ye be-warisi Khuda hafiz
+  Darinde aur ye bewarisi Khuda hafiz
 
   29
   There is not one human among the brutes, may Allah protect you
   These wild beasts and your loneliness, may Allah protect you
 
   30
-  Shareek-e-haq darood-o-salam-e-payghambar
+  Shareek-e-haq darood o salam-e-payghambar
   Salam sayyid-e-lawlaak ke lute ghar par
 
   31
@@ -144,7 +144,7 @@ romanLyrics: |-
   Salam O unshrouded martyrs, Islam owes it to you
 
   34
-  Salam tum pe Rasool-o-Butool ke pyaro
+  Salam tum pe Rasool o Butool ke pyaro
   Salam mehr-e-shahadat ke gird sayyaro
 
   35

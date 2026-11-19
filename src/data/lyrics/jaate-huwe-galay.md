@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Nikla jo qaimagaah se laila ka maahroo
-  Beti ali ki ashkon se karne lagi wazoo
-  Lehra rahi thi barchiyan maqtal mein chaar soo
-  Akbar se keh rahe thay shah e tashna e guloo
-  Jo haal dil ka hai na sunoge hussain se
-  Jaate huwe galay na miloge hussain se
-  Tum jaa rahe ho chalti hai seene pe barchiyan
-  Kis tarha jaane doo tumhe naizon ke darmiyan
-  Aaye na zakhm chaand se seene pe meri jaan
-  Jaan e pidar dua bhi na loge hussain se
-  Jaate huwe galay na...
+  Nikla jo qaimagaah se laila ka maahru
+  Beti ali ki ashkoṅ se karne lagi wazu
+  Lehra rahi thi barchiyaṅ maqtal meiṅ chaar su
+  Akbar se keh rahe the shah e tashna e gulu
+  Jo haal dil ka hai na sunoge Husain se
+  Jaate huwe gale na miloge Husain se
+  Tum jaa rahe ho chalti hai sine pe barchiyaṅ
+  Kis tarha jaane doo tumhe naizoṅ ke darmiyaṅ
+  Aaye na zakhm chaand se sine pe meri jaaṅ
+  Jaan e pidar dua bhi na loge Husain se
+  Jaate huwe gale na...
   Jaate ho jao tumko magar ye rahe khayaal
-  Seene ke saamne se na hargis hatay ye dhaal
+  Sine ke saamne se na hargis hate ye dhaal
   Naiza koi kaleje pe aaye na mere laal
-  Tum haal e dil bhi keh na sakoge hussain se
-  Jaate huwe galay na...
-  Tanha ho tum yahan to wahan laakhon ashqiyan
-  Pyasi tumhari khoon ki baani e jafa
+  Tum haal-e-dil bhi keh na sakoge Husain se
+  Jaate huwe gale na...
+  Tanha ho tum yahaṅ to wahaṅ laakhoṅ ashqiyan
+  Pyasi tumhari khun ki baani e jafa
   Ek shor hai ke aata hai hamshakle mustufa
-  Ay chaand badliyon mein chupoge hussain se
-  Jaate huwe galay na...
+  Ae chaand badliyoṅ meiṅ chupoge Husain se
+  Jaate huwe gale na...
   Qaime ka parda uth'ta hai girta hai baar baar
   Kis tarha aaye maa ko phupi ko teri qaraar
   Chaukhat pe baithi sughra bhi karti hai intezar
-  Hum khat mein kya likhe na kahoge hussain se
-  Jaate huwe galay na...
-  Tum apne saath baap ki beenayi le chale
+  Hum khat meiṅ kya likhe na kahoge Husain se
+  Jaate huwe gale na...
+  Tum apne saath baap ki binayi le chale
   Quwwat kamar ki pehle hi abbas le gaye
-  Beta ghareeb baap bhala kis tarha jeeye
-  Tum bhi nigahein phayr chaloge hussain se
-  Jaate huwe galay na...
-  Seena pisar ka choom ke shabbir ro diye
-  Akbar pukaare yun mere baba na roiye
-  Aata hoo laut kar abhi qaime mein jaaiye
-  Kyun keh rahe ho mil na sakoge hussain se
-  Jaate huwe galay na...
+  Beta gharib baap bhala kis tarha jiye
+  Tum bhi nigaheiṅ phayr chaloge Husain se
+  Jaate huwe gale na...
+  Seena pisar ka chum ke shabbir ro diye
+  Akbar pukaare yuṅ mere baba na roiye
+  Aata hoo laut kar abhi qaime meiṅ jaaiye
+  Kiuṅ keh rahe ho mil na sakoge Husain se
+  Jaate huwe gale na...
   Barchi jigar pe khaa ke jo akbar guzar gaye
-  Sheh kehte thay samar yehi laashe jawan se
-  Tum bhi pidar se jaate ho ay laal rooth ke
-  Seene se kya na uthke lagoge hussain se
-  Jaate huwe galay na...
+  Sheh kehte the samar yehi laashe jawan se
+  Tum bhi pidar se jaate ho ae laal ruth ke
+  Sine se kya na uthke lagoge Husain se
+  Jaate huwe gale na...
 # source_id: nohayonline:bc9408ab9a792934e223
 # source_url: https://www.nohayonline.com/details_content.php?id=2309
 # raw_sha256: d67cf6e78168505610e76bb65b8d9705b6a9db62c81319fe03c504ad602c63e5

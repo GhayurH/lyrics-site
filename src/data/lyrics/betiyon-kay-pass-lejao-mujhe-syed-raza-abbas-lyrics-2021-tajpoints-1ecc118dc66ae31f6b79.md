@@ -11,7 +11,7 @@ published: false
 # source_id: tajpoints:1ecc118dc66ae31f6b79
 # source_url: https://tajpoints.com/2021/04/betiyon-kay-pass-lejao-mujhe-syed-raza.html
 # raw_sha256: 440cf39b492f01d4160ccac459563156e9587357e9f6286e0fcbad1c82e372db
-alternateTitle: "Betiyon Ke Pas Le Jao Mujhe"
+alternateTitle: "Betiyoṅ Ke Pas Le Jao Mujhe"
 reciter: "Syed Raza Abbas Zaidi"
 romanLyrics: |-
   Betiyon Kay Pass Lejao Mujhe Syed Raza Abbas Zaidi
@@ -19,8 +19,8 @@ romanLyrics: |-
 
   1
   Sar Shikasta Ho Gaya Uth Na Sakay Maula Ali.
-  They Sirhaney Shabar-o-Shabeer Our Abbas Bhi.
-  Baap Ko Jab Betiyon Ki Yaad Tarpaney Lagi.
+  They Sirhaney Shabar o Shabeer Our Abbas Bhi.
+  Baap Ko Jab Betiyoṅ Ki Yaad Tarpaney Lagi.
   Dekh Kar Beton Ka Chehra Yeh Ali Kehne Lagay.
 
   2
@@ -51,19 +51,19 @@ romanLyrics: |-
   Kal Main Jab Kulsoom Ke Ghar Se Chala Roney Lagi.
   Mere Seene Se Lipat Kar Mujh Se Yeh Kehne Lagi.
   Ja Rahe Hain Laut Kar Phir Aaeingay Kab Ghar Mere.
-  Le Chalo Ab Betiyon Se Door Main Kaisay Rahon.
+  Le Chalo Ab Betiyoṅ Se Dur Maiṅ Kaise Rahoṅ.
 
   7
-  Zainab-o-Kulsoom Ke Ja Kar Main Shaney Chom Loon.
+  Zainab o Kulsoom Ke Ja Kar Maiṅ Shaney Chom Loon.
   Haan Issi Kofay Mein Hoon Gay Hath Dono Ke Bandhay.
   Dekh Kar Abbas Ka Chehra Ali Ne Yeh Kaha.
   Samne Rehna Hamesha Orh Kar Meri Abba.
 
   8
   Betiyaan Jeeti Rahein Chehra Tumhara Dekh Ke.
-  Haye Zeeshan-o- Raza Jab Hukam Baba Ka Suna.
-  Ghar Ki Janib Le Chaley Betay Basad Aah-o-Baqa.
-  Our Ali Beton Se Ro Ro Kar Yehi Kehte Rahe.
+  Haye Zishan-o- Raza Jab Hukam Baba Ka Suna.
+  Ghar Ki Janib Le Chale Bete Basad Aah o Baqa.
+  Our Ali Betoṅ Se Ro Ro Kar Yehi Kehte Rahe.
 # additional_source_id: nohawriteups:389bd79e1aba9db6a1f3
 # additional_source_url: https://www.nohawriteups.org/betiyon-kay-pass-lejao-mujhe/
 # additional_raw_sha256: 8e9287541bd192225f83d33db2a8f1052c11375ccd9f676027db6e6c678ce188

@@ -1,6 +1,6 @@
 ---
 title: "عسکری کی سامرہ میں ہائے شہادت ہو گئی"
-alternateTitle: "Askari Ki Saamra Mein"
+alternateTitle: "Askari Ki Saamra Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

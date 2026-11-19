@@ -24,7 +24,7 @@ romanLyrics: |-
   May nabi zaadi, meraa pardaa bachaa lo logo,
 
   4
-  Binte Tatheer kujaa Shaam ka bazaar kujaa,
+  Binte Tathir kujaa Shaam ka bazaar kujaa,
   Sar pe chaadar nahi, nazro ko jhukaa lo logo,
 
   5
@@ -32,11 +32,11 @@ romanLyrics: |-
   Yaad Asgar ko karo, pyaas bujhaa lo logo,
 
   6
-  Roz e Aashoor ye Zainab ki sadaa aati hay,
-  Mere bhai ka janazaa hay, uthaa lo logo,
+  Roz e Aashur ye Zainab ki sadaa aati hai,
+  Mere bhai ka janazaa hai, uthaa lo logo,
 
   7
-  Aaj tak goonj rahi hay, ye sadaa maqtal me,
+  Aaj tak gunj rahi hai, ye sadaa maqtal me,
   Qayd se meri Sakina ko churha lo logo,
 # source_id: ziyaraat:df01918f1672312dd2c5
 # source_url: https://www.ziyaraat.net/api/noha/2838

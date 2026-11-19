@@ -1,6 +1,6 @@
 ---
 title: "اللّٰہ اکبر اللّٰہ اکبر حسین حسین"
-alternateTitle: "Bismillah Hussain"
+alternateTitle: "Bismillah Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Allhu akbar allahu akbar hussain hussain
+  Allhu akbar allahu akbar Husain Husain
   Ba waqt e asr karbala raazi ba zuljana
   Pusht e zuljana pe faateh khyber ka laal
-  Aayi sada e ghaib zehra ke noor e ain
-  Shehenshah e mashraqain bismillah husssain
+  Aayi sada e ghaib zehra ke nur e ain
+  Shehenshah-e-mashraqain bismillah husssain
   Marhaba marhaba shaahe karbobala
-  Aagaye hai ali aur rasool e khuda
-  Apni sawari ran ko badhao
-  Taygh uthao ya hussain
-  Faatah e lashkar ho ibne hyder
-  Sabko batao ya hussain
+  Aagaye hai ali aur rasul-e-khuda
+  Apni sawari ran ko barhao
+  Taygh uthao ya Husain
+  Faatah-e-lashkar ho ibne hyder
+  Sabko batao ya Husain
   Bismillah husssain...
-  Taygh e yadullahi ay shuja e arab
-  Deene mohamed ki tu baqa ka sabab
+  Taygh e yadullahi e shuja e arab
+  Dine mohamed ki tu baqa ka sabab
   Shaane imamat shaane qayadat
-  Teri wirasat ya hussain
+  Teri wirasat ya Husain
   Ye fauje aada yaad karegi
-  Teri shuja'at ya hussain
+  Teri shuja'at ya Husain
   Bismillah husssain...
   Jab ke tera faras ran ki jaanib chala
-  Jaan bachane laga lashkare ashqiyan
-  Ran ko ulat kar maidan palat kar
-  Tu ne dikhaya ya hussain
+  Jaaṅ bachane laga lashkare ashqiyan
+  Ran ko ulat kar maidaṅ palat kar
+  Tu ne dikhaya ya Husain
   Khandaq o khyber badr ka manzar
-  Yaad dilaya ya hussain
+  Yaad dilaya ya Husain
   Bismillah husssain...
   Taygh teri chali hashr barpa hua
   Ek hone laga maimana maisara
-  Tayghon pe tayghein dhaalon pe dhaalein
-  Laashon pe laashein ya hussain
+  Tayghoṅ pe taygheiṅ dhaaloṅ pe dhaaleiṅ
+  Laashoṅ pe laasheiṅ ya Husain
   Sehmi hui thi bikhri hui thi
-  Faujon ki saansein ya hussain
+  Faujoṅ ki saanseiṅ ya Husain
   Bismillah husssain...
-  Shaah ladte rahe shaah ladte rahe
+  Shaah larte rahe shaah larte rahe
   Jang ko dekhne ambiya aagaye
-  Pyaas ke aalam mein ye ladayi
-  Tera jigar hai ya hussain
+  Pyaas ke aalam meiṅ ye larayi
+  Tera jigar hai ya Husain
   Tu ne bataya ke sher e daawar
-  Ka tu pisar hai ya hussain
+  Ka tu pisar hai ya Husain
   Bismillah husssain...
   Daf'atan ruk gaye daste shaahe huda
-  Aayi aflaak se irjaee ki sada
+  Aayi aflaak se irjai ki sada
   Rab tera tujhse raazi hua hai
-  Aao palat kar ya hussain
+  Aao palat kar ya Husain
   Sajda e aakhir ka waqt hai ye
-  Mehboob e daawar ya hussain
+  Mehbub e daawar ya Husain
   Bismillah husssain...
-  Teer chalte thay kahin se kahin naize hai chale
+  Tir chalte the kahiṅ se kahiṅ naize hai chale
   Pusht e rahwaar se shabbir sar e farsh gire
   Dar se qaime ke behan dekh rahi thi dukhiya
   Aur sakina ki sada thi mere baba baba
   Hashr barpa hua salman o raza
   Aayi jab fatema zehra ki sada
   Hai tanha tu pyaasa
-  Zakhmi jabeen zakhmi badan
+  Zakhmi jabiṅ zakhmi badan
   Khaak e watan tera kafan
-  Haye hussain
+  Haye Husain
 # source_id: nohayonline:7119d99183c8b428cb72
 # source_url: https://www.nohayonline.com/details_content.php?id=2650
 # raw_sha256: e61c45575270c4382ec7e0605e04743acd17cf31fbe915affdaf8bb29475142a

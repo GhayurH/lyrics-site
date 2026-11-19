@@ -12,46 +12,46 @@ published: false
 romanLyrics: |-
   1
   Haye kya qayamat hai
-  Seena e akbar se takrayi sina
-  Tukde tukde hogaya laila ka dil
-  Ran mein ghode se gira kadiyal jawan
-  Tukde tukde hogaya laila ka dil
-  Jis ghadi laaya gaya maadar ko laashe ke khareeb
-  Ungliyan thi zulf e akbar mein tadapti thi ghareeb
-  Dekh kar seene pe barchi ka nishan
-  Tukde tukde hogaya...
-  Chand se seene mein uljha hai kahan barchi ka phal
+  Sina e akbar se takrayi sina
+  Tukre tukre hogaya laila ka dil
+  Ran meiṅ ghore se gira kariyal jawaaṅ
+  Tukre tukre hogaya laila ka dil
+  Jis ghari laaya gaya maadar ko laashe ke khareeb
+  Ungliyaṅ thi zulf e akbar meiṅ tarapti thi gharib
+  Dekh kar sine pe barchi ka nishaṅ
+  Tukre tukre hogaya...
+  Chand se sine meiṅ uljha hai kahaṅ barchi ka phal
   Maa ko batlade nikalegi koi mushkil ka hal
-  Kuch to moo se bol ay baba ki jaan
-  Tukde tukde hogaya...
-  Khoon ho kar reh gayi sab hasratein akbar ke saath
-  Barchiyon ne lootli lamhon mein maa ki kayenat
-  Keh rahi hai ro ke saari bibiyan
-  Tukde tukde hogaya...
+  Kuch to moo se bol ae baba ki jaaṅ
+  Tukre tukre hogaya...
+  Khun ho kar reh gayi sab hasrateiṅ akbar ke saath
+  Barchiyoṅ ne lootli lamhoṅ meiṅ maa ki kayenat
+  Keh rahi hai ro ke saari bibiyaṅ
+  Tukre tukre hogaya...
   Dekh kar naize pe apne laal ko rone lagi
   Kaifiyat ek ghamzada maa ki ajab hone lagi
-  Qaatil e akbar nazar aaya jahan
-  Tukde tukde hogaya...
+  Qaatil e akbar nazar aaya jahaṅ
+  Tukre tukre hogaya...
   Dekh kar naize pa sar akbar ka sab ne sar dhuna
-  Aurton ko shaam ki jis waqt ye kehte suna
-  Mar gayi ho is jawan bete ki maa
-  Tukde tukde hogaya...
-  Aur kuch bhi badh gaya ek ghamzada maa ka malaal
+  Aurtoṅ ko shaam ki jis waqt ye kehte suna
+  Mar gayi ho is jawaaṅ bete ki maa
+  Tukre tukre hogaya...
+  Aur kuch bhi barh gaya ek ghamzada maa ka malaal
   Sun ke aansu aagaye bemaar beti ka sawaal
-  Hai kahan jis dam pukari bhai jaan
-  Tukde tukde hogaya...
-  Ye hua mehsoos ke ashoor ka din aagaya
-  Yaad ay karbobala tera muazzin aagaya
-  Masjidon mein jab kabhi goonji azaan
-  Tukde tukde hogaya...
-  Apne yusuf ki judaai maa ko tadpane lagi
+  Hai kahaṅ jis dam pukari bhai jaaṅ
+  Tukre tukre hogaya...
+  Ye hua mehsus ke ashur ka din aagaya
+  Yaad ae karbobala tera muazzin aagaya
+  Masjidoṅ meiṅ jab kabhi gunji azaaṅ
+  Tukre tukre hogaya...
+  Apne yusuf ki judaai maa ko tarpane lagi
   Chand si surat ali akbar ki yaad aane lagi
-  Chand ko tere jo dekha aasman
-  Tukde tukde hogaya...
-  Farshe majlis par azadaron ka chehra zard hai
-  Aamir o akhtar har ek misre mein itna dard hai
-  Sun ke nauha keh rahe hai do jahan
-  Tukde tukde hogaya...
+  Chand ko tere jo dekha aasmaṅ
+  Tukre tukre hogaya...
+  Farshe majlis par azadaroṅ ka chehra zard hai
+  Aamir o akhtar har ek misre meiṅ itna dard hai
+  Sun ke nauha keh rahe hai do jahaṅ
+  Tukre tukre hogaya...
 # source_id: nohayonline:1b2252979641b1e01430
 # source_url: https://www.nohayonline.com/details_content.php?id=3620
 # raw_sha256: 41a72b6b11bb5c942f03dfe950223ddaa584f6d7cc9bcd2ddf872ba6841275d5

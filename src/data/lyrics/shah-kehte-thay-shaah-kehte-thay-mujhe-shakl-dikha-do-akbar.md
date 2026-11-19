@@ -1,6 +1,6 @@
 ---
 title: "شاہ کہتے تھے مجھے شکل دکھا دو اکبر"
-alternateTitle: "Shah Kehte Thay"
+alternateTitle: "Shah Kehte The"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,19 +9,19 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Shaah kehte thay mujhe shakl dikha do akbar
+  Shaah kehte the mujhe shakl dikha do akbar
 
   1
   Aa nahi sakte ho awaaz suna do akbar
-  Thokare khaake ye majboor pidar gir na pade
-  Noor aankhon may nahi raah dikha do akbar
+  Thokare khaake ye majbur pidar gir na pare
+  Nur aankhoṅ may nahi raah dikha do akbar
 
   2
-  Paalne waali phupi ghash may padi hai beta
+  Paalne waali phupi ghash may pari hai beta
   Usko chal kar zara daaman ki hawa do akbar
 
   3
-  Baal khole huwe maadar ye khadi hai beta
+  Baal khole huwe maadar ye khari hai beta
   Usko samjha ke aba apni udha do akbar
 
   4
@@ -29,8 +29,8 @@ romanLyrics: |-
   Dayr se sote hai abbas jaga do akbar
 
   5
-  Asr ka waqt qareeb aa gaya jaago mere laal
-  Ek baar apni azan mujhko suna do akbar
+  Asr ka waqt qarib aa gaya jaago mere laal
+  Ek baar apni azaṅ mujhko suna do akbar
 # source_id: nohayonline:f72144771030164b7400
 # source_url: https://www.nohayonline.com/details_content.php?id=1405
 # raw_sha256: 1ee64b785eab3187af2bb3c5e4803756294feaaeceb930eafb318b6e0438387b

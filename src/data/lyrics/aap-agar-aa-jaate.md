@@ -11,15 +11,15 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aaye jab shaam e ghariban mein ali duldul sawar
+  Aaye jab shaam e gharibaṅ mein ali duldul sawar
   Jalti reti se uthi zehra ki beti bekharar
   Baap ke khadmon se lipti aur ye rokar kaha
   Aap agar aa jaate baba aap agar aa jaate baba
-  Cheenta na shimr chadar aap agar aa jaate baba
+  Chinta na shimr chadar aap agar aa jaate baba
   Aap agar aa jaate baba ghar nahi lut'ta mera
   Aap agar aa jaate baba sar pe reh jaati rida
   Aap agar aa jaate baba...
-  Tashnagi aur bekasi se dil sabhi ke choor thay
+  Tashnagi aur bekasi se dil sabhi ke choor the
   Mai bohat majboor thi darya se qaime door thay
   Aap agar aa jaate baba khushk na rehte ye saagar
   Aap agar aa jaate baba...
@@ -27,28 +27,28 @@ romanLyrics: |-
   Ro rahi thi karbala ki dhoop is tanhaai par
   Aap agar aa jaate baba qatl na hota baradar
   Aap agar aa jaate baba...
-  Bekas o majboor hai sehra mein beti aap ki
+  Bekas o majboor hai sehra meiṅ beti aap ki
   Hogayi tanha bhari dunya mein beti aap ki
   Aap agar aa jaate baba yun nahi lut'ta bhara ghar
   Aap agar aa jaate baba...
   Sogaye karbobala ke dasht mein tashna dahan
-  Akbar o abbas o asghar qasim e ibne hassan
+  Akbar o abbas o asghar qasim e ibne Hasan
   Aap agar aa jaate baba daagh na sehti ye dil par
   Aap agar aa jaate baba...
-  Ya bunaya ki sada sun kar sakina dasht mein
+  Ya bunaya ki sada sun kar sakina dasht meiṅ
   Dhoondti phirti thi wo baba ka seena dasht mein
   Aap agar aa jaate baba dekh na paate wo manzar
   Aap agar aa jaate baba...
   Aap agar aa jaate to jalte nahi baba qayaam
   Ap agar aa jaate na mai dekhti ghurbat ki shaam
   Ap agar aa jaate baba khaak na hoti saron par
-  Dekhti thi bano e dilgeer hasrat se mujhe
-  Jis ghadi bali sakina ke gohar cheene gaye
+  Dekhti thi bano e dilgir hasrat se mujhe
+  Jis ghari bali sakina ke gohar chine gaye
   Aap agar aa jaate baba kaano se chinte na gohar
   Aap agar aa jaate baba...
   Ho sada rehaan o safdar ki sar e karbobala
   Haa usi ka shor dobara sar e zindan utha
-  Aap agar aa jaate baba ghudkiyan khaati na dukhtar
+  Aap agar aa jaate baba ghurkiyaṅ khaati na dukhtar
   Aap agar aa jaate baba...
 # source_id: nohayonline:45849d6019d561feb24c
 # source_url: https://www.nohayonline.com/details_content.php?id=1540

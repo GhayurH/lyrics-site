@@ -1,6 +1,6 @@
 ---
 title: "روکر یہ بیان کرتی تھی زنداں میں سکینہ"
-alternateTitle: "Zindan May Sakina"
+alternateTitle: "Zindaṅ May Sakina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,16 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Rokar ye bayan karti thi zindan may sakina
+  Rokar ye bayan karti thi zindaṅ may sakina
   Kab hoke reha qaid se jaungi madina
   Sab kat gaya maidan may baba ka wo lashkar
   Abbas chacha hai na qasim hai na akbar
 
   2
-  Roti thi bain karti thi mazloom sakina
+  Roti thi bain karti thi mazlum sakina
   Na aun o mohamed hai na bhai mera asghar
   Abid se bain karti thi rokar ye sakina
-  Ud kar kahan jaate hai sare sham parinde
+  Ur kar kahaṅ jaate hai sare sham parinde
 
   3
   Zainab se sakina ne kaha aah ye bhar ke
@@ -30,8 +30,8 @@ romanLyrics: |-
 
   4
   Kab jaungi is qaid se chutkar mai madina
-  Tahir hui khamosh bayan baba se karke
-  Zindan se reha to hui lekin hui mar ke
+  Tahir hui khamosh bayaṅ baba se karke
+  Zindaṅ se reha to hui lekin hui mar ke
   Karbal se wo zindan tak so bhi saki na
 # source_id: nohayonline:c9f2fba4013e0733f4ed
 # source_url: https://www.nohayonline.com/details_content.php?id=1001

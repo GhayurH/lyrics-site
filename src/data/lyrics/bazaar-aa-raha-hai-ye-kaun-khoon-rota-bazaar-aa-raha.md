@@ -10,31 +10,31 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ye kaun khoon rota bazaar aa raha hai
+  Ye kaun khun rota bazaar aa raha hai
 
   1
-  Lab pe sawaal e chadar aankhon mein karbala hai
-  Mahol hai sharabi uryan aayatein hai
+  Lab pe sawaal-e-chadar aankhoṅ meiṅ karbala hai
+  Mahol hai sharabi uryan aayateiṅ hai
   Ghairat ke na khuda par ghurbat ki imtehan hai
 
   2
-  Abid haya ka kaaba kaise na khoon roye
-  Namoos us jari ki balwe mein berida hai
+  Abid haya ka kaaba kaise na khun roye
+  Namus us jari ki balwe meiṅ berida hai
 
   3
-  Ghairat se khoon mein tar har aankh hai sina par
-  Darbar waqt e payshi nazdeek aa chuka hai
+  Ghairat se khun meiṅ tar har aankh hai sina par
+  Darbar waqt e payshi nazdik aa chuka hai
 
   4
-  Hilne lagi zameen aur bazaar thar tharaya
-  Zainab ka patharon se jab zakhmi sar hua hai
+  Hilne lagi zamiṅ aur bazaar thar tharaya
+  Zainab ka patharoṅ se jab zakhmi sar hua hai
 
   5
-  Balon mein aa chuki hai masooma ke safedi
-  Shimr e layeen ne uspe itna sitam kiya hai
+  Baloṅ meiṅ aa chuki hai masooma ke safedi
+  Shimr-e-layiṅ ne uspe itna sitam kiya hai
 
   6
-  Haider karenge matam is baat ka hashr tak
+  Haider kareṅge matam is baat ka hashr tak
   Sajjad ki jawani bazaar kha gaya hai
 # source_id: nohayonline:2b94b21ac575969387e9
 # source_url: https://www.nohayonline.com/details_content.php?id=1005

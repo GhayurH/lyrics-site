@@ -12,51 +12,51 @@ published: false
 romanLyrics: |-
   1
   Ya abal fazlil abbas
-  Ay alamdare karbala ghazi
-  Ay wafadare fatema ghazi
+  Ae alamdare karbala ghazi
+  Ae wafadare fatema ghazi
   Jo bhi parcham tera uthaata hai
   Wo dua fatema se paata hai
   Us alam par jo ek panja hai
   Panjetan paanch hai batata hai
   Jo bhi parcham...
   Mera ghazi ka wo bhatija hai
-  Teer khaa kar jo muskurata hai
+  Tir khaa kar jo muskurata hai
   Jo bhi parcham...
-  Maa ye kehti hai kamiyab hoon mai
+  Maa ye kehti hai kamiyab huṅ mai
   Mera beta alam uthaata hai
   Jo bhi parcham...
   Ye shareefun nasab ka shewa hai
   Har koi kab alam uthaata hai
   Jo bhi parcham...
-  Daad dete hai khud hussain usay
+  Daad dete hai khud Husain use
   Jab namazi alam uthaata hai
   Jo bhi parcham...
   Naaz karta hai ye alam khud par
-  Daste ghazi mein jab bhi aata hai
+  Daste ghazi meiṅ jab bhi aata hai
   Jo bhi parcham...
-  Iske saaye mein jo bhi palte hai
+  Iske saaye meiṅ jo bhi palte hai
   Unko ye sher dil banata hai
   Jo bhi parcham...
   Bewafaon khareeb mat aana
   Ye alam shajre jaan jaata hai
   Jo bhi parcham...
   Us se khush kaise ho mera ghazi
-  Bhaiyon ka jo dil dukhata hai
+  Bhaiyoṅ ka jo dil dukhata hai
   Jo bhi parcham...
-  Hai alam mein jo ek mashkeeza
+  Hai alam meiṅ jo ek mashkeeza
   Kya mohabbat hai ye batata hai
   Jo bhi parcham...
   Hai alam ki mukhalifat phir bhi
   Ye zamane pe chaaya jaata hai
   Jo bhi parcham...
   Ye alam mard ki alaamat hai
-  Ab bhi mardon mein paaya jaata hai
+  Ab bhi mardoṅ meiṅ paaya jaata hai
   Jo bhi parcham...
-  Khud sakina duayein deti hai
+  Khud sakina duayeiṅ deti hai
   Jab bhi parcham koi sajata hai
   Jo bhi parcham...
-  Ay sharar naqvi shadman kaho
-  Ye alam aasman banata hai
+  Ae sharar naqvi shadman kaho
+  Ye alam aasmaṅ banata hai
   Jo bhi parcham...
 # source_id: nohayonline:592b1c60b20de141ff05
 # source_url: https://www.nohayonline.com/details_content.php?id=3729

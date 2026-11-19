@@ -13,40 +13,40 @@ romanLyrics: |-
   Ya fatema zahra ya fatema zahra
 
   1
-  Jeete hai faqad hum ghame sarwar ke sahare
-  Ashkon ke siwa kuch bahi nahi paas hamare
+  Jite hai faqad hum ghame sarwar ke sahare
+  Ashkoṅ ke siwa kuch bahi nahi paas hamare
   Kya nazr kare muflis o nadaar hai bibi
-  Hum aap ke bachon ke azadar hai bibi
+  Hum aap ke bachoṅ ke azadar hai bibi
 
   2
-  Dekho to mere khaum ke bachon ko bhi hai gham
-  Jo maaon ki godhi may kiya karte hai matam
+  Dekho to mere khaum ke bachoṅ ko bhi hai gham
+  Jo maaoṅ ki godhi may kiya karte hai matam
   Nadaan ho ke phir bhi samajhdar hai bibi
-  Hum aap ke bachon ke azadar hai bibi
+  Hum aap ke bachoṅ ke azadar hai bibi
 
   3
   Dete hai tumhe shabbar o shabbir ka pursa
   Maqsoos bahattar may hai baysheer ka pursa
   Qasim ke aur abbas ke ghamkhwar hai bibi
-  Hum aap ke bachon ke azadar hai bibi
+  Hum aap ke bachoṅ ke azadar hai bibi
 
   4
   Din dhal gaya aur asr ka hangaam jo aaya
   Sab qatl huwe reh gaye tanha shahe waala
   Bhai na bhatije na ansaar hai bibi
-  Hum aap ke bachon ke azadar hai bibi
+  Hum aap ke bachoṅ ke azadar hai bibi
 
   5
-  Ashoor ka din hai ke qayamat ka hai manzar
+  Ashur ka din hai ke qayamat ka hai manzar
   Aur gardan e shabbir pe chalta hua khanjar
   Har simt se ab naiza o talwaar hai bibi
-  Hum aap ke bachon ke azadar hai bibi
+  Hum aap ke bachoṅ ke azadar hai bibi
 
   6
   Kausar ki dua hai liye abbas ka parcham
   Mohsin dar e shabbir pe jaa kar kare matam
   Bas itni inayat ke talabgaar hai bibi
-  Hum aap ke bachon ke azadar hai bibi
+  Hum aap ke bachoṅ ke azadar hai bibi
 # source_id: nohayonline:f0da3edcf6ea9b5af9ed
 # source_url: https://www.nohayonline.com/details_content.php?id=2481
 # raw_sha256: eb74c61668c98756a2755597925c658a5930e5609a075780f466a99e81e6d1d4

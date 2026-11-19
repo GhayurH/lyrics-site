@@ -12,50 +12,50 @@ published: false
 romanLyrics: |-
   1
   Aajao ali asghar aajao ali asghar
-  Maa jhoola jhulaye raaton ko uth kar lori sunaye
-  Ay phool se sipahi tujhko salaam mera
-  Tu ne kiya hai uncha dunya mein naam mera
-  Aaja tujhe maa seene se lagaye
+  Maa jhula jhulaye raatoṅ ko uth kar lori sunaye
+  Ae phul se sipahi tujhko salaam mera
+  Tu ne kiya hai uncha dunya meiṅ naam mera
+  Aaja tujhe maa sine se lagaye
 
   2
   Ammu hai paas tere baba hai aur akbar
-  Darna na zaalimon se ay bezuban asghar
-  Maa ko bulaana jab neend na aaye
+  Darna na zaalimoṅ se ae bezuban asghar
+  Maa ko bulaana jab nind na aaye
 
   3
   Maa teri tashnagi par qurban meri jaani
-  Kyun beh raha hai darya tujhko mila na pani
+  Kiuṅ beh raha hai darya tujhko mila na pani
   Aaja ke maadar pani pilaaye
 
   4
   Tu chand mere ghar ka dunya se jaane waale
   Tu kya gaya hai ghar se ruqsat huwe ujaale
-  Tareekiyon ke baadal se chaaye
+  Tarikiyoṅ ke baadal se chaaye
 
   5
-  Aulaad ka bichadna sab se bada hai sadma
-  Ujdi hai kokh meri dil ro raha hai mera
+  Aulaad ka bicharna sab se bara hai sadma
+  Ujri hai kokh meri dil ro raha hai mera
   Ye aag dil ki maa kaise bujhaye
 
   6
   Maadar ke saamne jab pani ka jaam aaye
-  Be-saakhta labon par tera hi naam aaye
-  Pani mein tera chehra nazar aaye
+  besaakhta laboṅ par tera hi naam aaye
+  Pani meiṅ tera chehra nazar aaye
 
   7
-  Dil se nikal rahi hai ab ye duayein har pal
-  Maa ban ke tujhko paale ye sar zameen e maqtal
+  Dil se nikal rahi hai ab ye duayeiṅ har pal
+  Maa ban ke tujhko paale ye sar zamin e maqtal
   Darti hoo lekin tu khauf na khaaye
 
   8
   Sunti hoo ro diya tha tujh par sitam ka lashkar
-  Tu muskura raha tha jis waqt teer kha kar
+  Tu muskura raha tha jis waqt tir kha kar
   Kaise tujhe maa dil se bhulaye
 
   9
   Faryad ek maa ki khirtaas se jo aaye
-  Mazhar wo aansuon ki barsaat kar ke jaaye
-  Farshe aza par irfan sunaye
+  Mazhar wo aansuoṅ ki barsaat kar ke jaaye
+  Farshe aza par irfaṅ sunaye
 # source_id: nohayonline:db3c3d206a91846a14fc
 # source_url: https://www.nohayonline.com/details_content.php?id=2202
 # raw_sha256: bac7270f88475d93208ed23d4b9cc23e3716de1fa77ec4b234600c4b2fe0891b

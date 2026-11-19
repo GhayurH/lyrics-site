@@ -24,104 +24,104 @@ romanLyrics: |-
   Tu sarkar e man
   Hyder ya hyder maula
   Ya ali hyder maula
-  Hai wird e zaban naara e mastana
-  Behlol ki tarha hoo mai deewana
+  Hai wird e zabaṅ naara e mastana
+  Behlol ki tarha hoo mai diwana
   Hum dono ka hai ek hi sultan
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Darweshon ke halqe mein yehi baat suni hai
-  Jo ishq sikhaata hai wo taleem yehi hai
-  Idraak ke par jalte hai khamoshi badi hai
+  Darweshoṅ ke halqe meiṅ yehi baat suni hai
+  Jo ishq sikhaata hai wo talim yehi hai
+  Idraak ke par jalte hai khamoshi bari hai
   Jo bola payambar ne wohi maana
   Hyder ko nahi koi bhi pehchaana
-  Kehte hai yehi meesam o salman
+  Kehte hai yehi misam o salman
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Hai wird e zaban naara e mastana
-  Behlol ki tarha hoo mai deewana
+  Hai wird e zabaṅ naara e mastana
+  Behlol ki tarha hoo mai diwana
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
   Ashjaar bane khaama samandar ho siyaahi
-  Jibreel sukhanwar ki kare pusht panaahi
-  Honge na raqam wasfe ali doonga gawahi
-  Mumkin hi kahan lafzon mein le aana
-  Haan nehje balagha se yehi jaana
-  Quran pade jis ko wo quran
+  Jibril sukhanwar ki kare pusht panaahi
+  Honge na raqam wasfe ali dunga gawahi
+  Mumkin hi kahaṅ lafzoṅ meiṅ le aana
+  Haaṅ nehje balagha se yehi jaana
+  Quran pare jis ko wo quran
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Hai wird e zaban naara e mastana
-  Behlol ki tarha hoo mai deewana
+  Hai wird e zabaṅ naara e mastana
+  Behlol ki tarha hoo mai diwana
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
   Likh zaahir o baatin ke masayil se nikal kar
   Zehno ke sawalaat ko idraak se hal kar
   Pabandi e halaat hai likhna hai sambhal kar
-  Bas itna likho jitna isay jaana
+  Bas itna likho jitna ise jaana
   Fatwa na laga de koi begaana
   Har gaam khata karta hai ausaan
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Hai wird e zaban naara e mastana
-  Behlol ki tarha hoo mai deewana
+  Hai wird e zabaṅ naara e mastana
+  Behlol ki tarha hoo mai diwana
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
   Kulle emaan meri jaan hyder
   Haq ki pehchaan meri jaan hyder
-  Deen ki shaan meri jaan hyder
+  Din ki shaan meri jaan hyder
   Bole salman meri jaan hyder
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Hai wird e zaban naara e mastana
-  Behlol ki tarha hoo mai deewana
+  Hai wird e zabaṅ naara e mastana
+  Behlol ki tarha hoo mai diwana
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Karta hai dilon par bhi hukumat mera maula
-  Taqseem kare dozakh o jannat mera maula
-  Yun bhi to bada deta hai hairat mera maula
-  Ek waqt mein chalees jagah jaana
+  Karta hai diloṅ par bhi hukumat mera maula
+  Taqsim kare dozakh o jannat mera maula
+  Yuṅ bhi to bara deta hai hairat mera maula
+  Ek waqt meiṅ chalis jagah jaana
   Phir apne musalle pe nazar aana
   Phir khud ko bataata hai ek insan
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Hai wird e zaban naara e mastana
-  Behlol ki tarha hoo mai deewana
+  Hai wird e zabaṅ naara e mastana
+  Behlol ki tarha hoo mai diwana
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Mashoor zamane mein hai deewana e hyder
+  Mashur zamane meiṅ hai deewana e hyder
   Sab khutb o wali bangaye mastana e hyder
   Hai inke liye qibla numan khaana e hyder
-  Ye faqr hai dunya mein malangana
-  Hyder se milay khuld ka parwana
-  Hai wird e zaban naara ye har aan
+  Ye faqr hai dunya meiṅ malangana
+  Hyder se mile khuld ka parwana
+  Hai wird e zabaṅ naara ye har aan
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Hai wird e zaban naara e mastana
-  Behlol ki tarha hoo mai deewana
+  Hai wird e zabaṅ naara e mastana
+  Behlol ki tarha hoo mai diwana
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Tu mera hai mai tera hoo ay mere maula ali
-  Teri chaukat pe pada hoo ay mere maula ali
-  Baadshah tu mai gada hoo ay mere maula ali
-  Tujhpe sau baar fida hoo ay mere maula ali
+  Tu mera hai mai tera hoo ae mere maula ali
+  Teri chaukat pe para hoo ae mere maula ali
+  Baadshah tu mai gada hoo ae mere maula ali
+  Tujhpe sau baar fida hoo ae mere maula ali
   Hai tera karam apna mujhe maana
-  Kyun kar na karun sajda e shukrana
-  Naslon pe meri tera hai ehsaan
+  Kiun kar na karuṅ sajda e shukrana
+  Nasloṅ pe meri tera hai ehsaan
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Hai wird e zaban naara e mastana
-  Behlol ki tarha hoo mai deewana
+  Hai wird e zabaṅ naara e mastana
+  Behlol ki tarha hoo mai diwana
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
   Mazhar dil e wehshi ka thikana to yehi hai
   Maane na koi maane batana to yehi hai
-  Safdar ke labon par bhi taraana to yehi hai
+  Safdar ke laboṅ par bhi taraana to yehi hai
   Hyder ki wilayat se na hat jaana
-  Bharna pade chaahe koi harjaana
+  Bharna pare chaahe koi harjaana
   Har gaam tumhara hai nigehban
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-  Hai wird e zaban naara e mastana
-  Behlol ki tarha hoo mai deewana
+  Hai wird e zabaṅ naara e mastana
+  Behlol ki tarha hoo mai diwana
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
 # source_id: nohayonline:14fd65b1da437b6a784b

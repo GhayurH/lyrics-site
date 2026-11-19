@@ -70,7 +70,7 @@ romanLyrics: |-
 
   15
   Salam tum pah shaheedon ke bekafan laashon,
-  Salam tum pah Rasool-o-Batool ke pyaaro.
+  Salam tum pah Rasool o Batool ke pyaaro.
 
   16
   Bachein jo aglay baras hum hain aur yeh gham phir hai,

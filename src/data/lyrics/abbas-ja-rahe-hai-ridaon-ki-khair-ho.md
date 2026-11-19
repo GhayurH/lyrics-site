@@ -10,40 +10,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ja rahe hai ridaon ki khair ho
+  Abbas ja rahe hai ridaoṅ ki khair ho
 
   1
-  Behno ki khair betiyon maa'on ki khair ho
+  Behno ki khair betiyoṅ maa'on ki khair ho
   Maangi hai wo jo bali sakina ne raat bhar
-  Maango dua ke saari duaon ki khair ho
+  Maango dua ke saari duaoṅ ki khair ho
 
   2
-  Bachon ke lab pe ek sada al atash ki hai
-  Pyase labon pe aayi sadaon ki khair ho
+  Bachoṅ ke lab pe ek sada al atash ki hai
+  Pyase laboṅ pe aayi sadaoṅ ki khair ho
 
   3
-  Maatha jari ka choom ke zainab ne di dua
-  Ay mere sher teri wafaon ki khair ho
+  Maatha jari ka chum ke zainab ne di dua
+  Ae mere sher teri wafaoṅ ki khair ho
 
   4
-  Zainab ka sayeban hai abbas e bawafa
-  Ya rab batool zadi ki chaaon ki khair ho
+  Zainab ka sayeban hai abbas-e-bawafa
+  Ya rab batul zadi ki chaaoṅ ki khair ho
 
   5
-  Abbas may tamam adayein ali ki hai
-  Sher e khuda ki saari adaon ki khair ho
+  Abbas may tamam adayeiṅ ali ki hai
+  Sher-e-khuda ki saari adaoṅ ki khair ho
 
   6
   Thandi hawa jab aayi hai kehti hai ye rabab
-  Nehre furaat teri hawaon ki khair ho
+  Nehre furaat teri hawaoṅ ki khair ho
 
   7
   Ek pal may tune kar diye raushan kayi chiragh
-  Bujhte charagh teri ziyaon ki khair ho
+  Bujhte charagh teri ziyaoṅ ki khair ho
 
   8
-  Rab e jali se noor ali ki hai ye dua
-  Ahle aza ki saari azaon ki khair ho
+  Rab-e-jali se nur ali ki hai ye dua
+  Ahle aza ki saari azaoṅ ki khair ho
 # source_id: nohayonline:d567fa1cf83e23a77105
 # source_url: https://www.nohayonline.com/details_content.php?id=1125
 # raw_sha256: 73ac5278a41e91f7faf70be2a8d88f066dcfaae9b6c5ea4fe40bbf2e31b78905

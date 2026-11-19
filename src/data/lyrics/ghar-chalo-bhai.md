@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shaam e ashoor jab rote rote
+  Shaam e ashur jab rote rote
   Ghash kha gayi sakina
   Khwaab may dekhti hai sakina
   Bhaiya qaasim ka aaya hai sehra
   Jab na aaya nazar usko dulha
-  Maqtal may usko dhoondne nikli wo jaa ba jaa
+  Maqtal may usko dhundne nikli wo jaa ba jaa
   Nagaah usko laasha e qasim nazar aaya
   Laashe qasim pe boli sakina
   Ghar chalo bhai mehndi lagalo
   Ghar may shadi ki masnad bichai hai
   Fatema kubra dulhan bani hai
-  Dhoom shaadi ki ran may machai hai
+  Dhum shaadi ki ran may machai hai
   Ghar chalo bhai...
   Manqabat dada hyder ki pad kar
   Haath may tera sehra utha kar
   Tujhko awaaz deti hai khwahar
   Ghar chalo bhai...
-  Ye ghadi mujhko rab ne dikhayi
+  Ye ghari mujhko rab ne dikhayi
   Aaj hai teri rasm e hinaayi
   Neg mehndi ka dena hai bhai
   Ghar chalo bhai...
-  Kaisa kubra ka bigda muqaddar
-  Syaah kapde hai uske badan par
-  Kyun ye kehti hoo mai ban may ro kar
+  Kaisa kubra ka bigra muqaddar
+  Syaah kapre hai uske badan par
+  Kiuṅ ye kehti hoo mai ban may ro kar
   Ghar chalo bhai...
-  Jis ghadi toota khwaab e sakina
+  Jis ghari tuta khwaab e sakina
   Khud ko usne sar e dasht paaya
-  Peet ke sar pukari wo dukhiya
+  Pit ke sar pukari wo dukhiya
   Ghar chalo bhai...
-  Hai phupi ke labon par ye nauha
+  Hai phupi ke laboṅ par ye nauha
   Hogaya qatl maqtal may dulha
-  Raaegan hai mera ab ye kehna
+  Raaegaṅ hai mera ab ye kehna
   Ghar chalo bhai...
-  Amma farwa ko kaise sambhalun
+  Amma farwa ko kaise sambhaluṅ
   Kis tarha mai tasalli unhe doo
   Pehle khud ko ye kehke sambhalo
   Ghar chalo bhai...
   Dasht may tha jo pur dard manzar
   Keh nahi paaye irfan o mazhar
-  Kaampti thi zameen bas ye sun kar
+  Kaampti thi zamiṅ bas ye sun kar
   Ghar chalo bhai...
 # source_id: nohayonline:a33fea735d1f6ce3c7d5
 # source_url: https://www.nohayonline.com/details_content.php?id=2207

@@ -13,39 +13,39 @@ romanLyrics: |-
 
   1
   Sadaye de rahi hai thokare khaati hai maa dar dar
-  Kahan sote ho kyon dete nahi awaaz uth uth kar
+  Kahaṅ sote ho kyoṅ dete nahi awaaz uth uth kar
 
   2
-  Sadaon par sadayein de raha hai baap hal min ki
-  Musibati ki ghadi hai chain se sote ho tum dilbar
+  Sadaoṅ par sadayeiṅ de raha hai baap hal min ki
+  Musibati ki ghari hai chain se sote ho tum dilbar
 
   3
-  Zaeefi mein pidar yun thokarein khata hai dar dar ki
-  Koi aisa nahi de de sahara jo zara badh kar
+  Zaifi meiṅ pidar yuṅ thokareiṅ khata hai dar dar ki
+  Koi aisa nahi de de sahara jo zara barh kar
 
   4
-  Faras se khaak par girne ko hai jaan-o-dile zehra
+  Faras se khaak par girne ko hai jaan o dile zehra
   Hazaro zakhm hai aur ek jisme sibte payghambar
 
   5
-  Kise awaaz doo kisko pukarun is musibat mein
-  Guluye shaahe deen par chal raha hai shimr ka khanjar
+  Kise awaaz doo kisko pukaruṅ is musibat meiṅ
+  Guluye shaahe din par chal raha hai shimr ka khanjar
 
   6
-  Madad ke waaste kisko pukarun aah qaime mein
-  Lagi hai aag aur ghash mein pade hai abid e muztar
+  Madad ke waaste kisko pukaruṅ aah qaime meiṅ
+  Lagi hai aag aur ghash meiṅ pare hai abid-e-muztar
 
   7
-  Galay mein tauq bedi paon mein haaton mein hatkadiyan
-  Chala jaata hai meer e kaarwan pehne hue langar
+  Gale meiṅ tauq beri paoṅ meiṅ haatoṅ meiṅ hatkariyaṅ
+  Chala jaata hai mir-e-kaarwaṅ pehne hue langar
 
   8
-  Kahan par so rahe ho ghairate aale bani hashim
+  Kahaṅ par so rahe ho ghairate aale bani hashim
   Sare bazaare kufa hoo mere sar par nahi chadar
 
   9
-  Phuphi amma chupaye chehra e ismat ko balon se
-  Khule sar jaa rahi hai shaam ke darbar mein dilbar
+  Phuphi amma chupaye chehra-e-ismat ko baloṅ se
+  Khule sar jaa rahi hai shaam ke darbar meiṅ dilbar
 # source_id: nohayonline:f113a3ed2e74aefab2b7
 # source_url: https://www.nohayonline.com/details_content.php?id=464
 # raw_sha256: ba05fe036307a99af9516df69bc9a11f367503ab180305fa7e9c9bbd7cd8f7a8

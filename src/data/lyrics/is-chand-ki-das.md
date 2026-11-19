@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Doobi hui dukh ke saagar mein
+  Dubi hui dukh ke saagar meiṅ
   Suraj ki sunehri thaali thi
   Is chand ki das ko saanj talak
   Shabbir se dunya khaali thi
-  Baba hi ke dam ke saathi thay
+  Baba hi ke dam ke saathi the
   Akbar bhi gaye qasim bhi gaye
   Moo takne ko ek ek ka rahi
   Chaati pe jo sone waali thi
   Is chand ki das ko...
-  Is dhab se na ujda baagh kahin
-  Is dhab se na laagi aag kahin
-  Sookhi hui patti patti thi
-  Tooti hui daali daali thi
+  Is dhab se na ujra baagh kahiṅ
+  Is dhab se na laagi aag kahiṅ
+  Sukhi hui patti patti thi
+  Tuti hui daali daali thi
   Is chand ki das ko...
-  Sarwar ke hassan ki widwa ne
-  Do chand se tukde waar diye
-  Bacche to jiyale thay thi magar
-  Maata bhi badi dil waali thi
+  Sarwar ke Hasan ki widwa ne
+  Do chand se tukre waar diye
+  Bacche to jiyale the thi magar
+  Maata bhi bari dil waali thi
   Is chand ki das ko...
   Kya lutke gaye karbal se haram
-  Jab aayi hai sakhiyan milne ko
-  Jis maang ko dekha ujdi thi
+  Jab aayi hai sakhiyaṅ milne ko
+  Jis maang ko dekha ujri thi
   Jis godh ko dekha khaali thi
   Is chand ki das ko...
   Najmi ye hussaini chaukhat hai
-  Yan aa ke muraein milti hai
+  Yaṅ aa ke muraeiṅ milti hai
   Is daawar se bhiksha le ke chale
-  Aaye thay to jholi khaali thi
+  Aaye the to jholi khaali thi
   Is chand ki das ko...
 # source_id: nohayonline:8c02ab43ebe85f421aed
 # source_url: https://www.nohayonline.com/details_content.php?id=3540

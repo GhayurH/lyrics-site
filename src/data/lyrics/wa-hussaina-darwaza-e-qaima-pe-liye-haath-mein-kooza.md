@@ -11,83 +11,83 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Darwaza e qaima pe liye haath mein kooza
+  Darwaza e qaima pe liye haath meiṅ kooza
   Abbas ka shabbbir ka wo takti thi wo rasta
   Behlati thi dil apna wo de de ke dilaasa
   Aab shaam hui pani liye aayenge chacha
   Phir khud hi wo kehne lagi ghabra ke phupi se
   Darya se abhi tak mere baba nahi palte
-  Gehre huwe ashoor ko jab shaam ke saaye
+  Gehre huwe ashur ko jab shaam ke saaye
   Kehti thi sakina koi ye mujhko bataye
-  Kyun ay phuphi amma mera baba nahi aaye
-  Din doob gaya wa hussaina
+  Kiuṅ ae phuphi amma mera baba nahi aaye
+  Din dub gaya wa hussaina
   Pani na mila wa hussaina
-  Sookha hai gala wa hussaina
-  Sun kar ye sakina ka bayan saani e zehra
+  Sukha hai gala wa hussaina
+  Sun kar ye sakina ka bayaṅ saani e zehra
   Kehne lagi darya pe bohat sakht hai pehra
-  Pani abhi layenge meri jaan tere baba
+  Pani abhi layenge meri jaaṅ tere baba
   Mashkeeza liye wa hussaina
   Darya pe chale wa hussaina
   Wo tere liye wa hussaina
   Phir kehne lagi roke sakina phupi jao
-  Baba nahi aate to chacha jaan ko bulao
-  Bhaiya ali akbar hai kahan kuch tu batao
+  Baba nahi aate to chacha jaaṅ ko bulao
+  Bhaiya ali akbar hai kahaṅ kuch tu batao
   Lagta hai mujhe wa hussaina
-  Sab rooth gaye wa hussaina
+  Sab ruth gaye wa hussaina
   Rone se mere wa hussaina
   Keh do ke mai ab pyaas ka shikwa na karungi
-  Seene pe bhi sone ke liye zid na karungi
+  Sine pe bhi sone ke liye zid na karungi
   Pani nahi milta na sahi ashk piyungi
   Sunlo ye sada wa hussaina
   Laut aao chacha wa hussaina
   Tum behre khuda wa hussaina
-  Kyun khaali pada hai ali asghar ka ye jhoola
-  Hujre mein nazar aata nahi qasim e naushah
-  Kyun khoon mein dooba hai alam mere chacha ka
+  Kiuṅ khaali para hai ali asghar ka ye jhula
+  Hujre meiṅ nazar aata nahi qasim e naushah
+  Kiuṅ khun meiṅ duba hai alam mere chacha ka
   Dam ghutne laga wa hussaina
-  Seene mein mera wa hussaina
+  Sine meiṅ mera wa hussaina
   Do mujhko sada wa hussaina
-  Chadar ye lahoo rang tumhari hui kaise
-  Kya gham hai ke aankhon mein nazar aate hai halqe
-  Maine to tumhe dekha nahi is tarha rote
+  Chadar ye lahu rang tumhari hui kaise
+  Kya gham hai ke aankhoṅ meiṅ nazar aate hai halqe
+  Maiṅ ne to tumhe dekha nahi is tarha rote
   Kya gham hai tumhe wa hussaina
   Batloa hamay wa hussaina
-  Aray hum bhi to sune wa hussaina
+  Are hum bhi to sune wa hussaina
   Zainab ko bhi aakhir na raha zapt ka yaara
-  Sar peet ke kehne laagi ye saani e zehra
+  Sar pit ke kehne laagi ye saani e zehra
   Aada na bhare ghar ko sakina tera maara
   Sab maare gaye wa hussaina
   Pani ke liye wa hussaina
   Baba bhi tere wa hussaina
   Ab koi nahi aayega ab sabr ki jaa hai
-  Maqtal mein tere pyaron ka sar tan se juda hai
-  Mardon mein faqad sayyede sajjad bacha hai
+  Maqtal meiṅ tere pyaroṅ ka sar tan se juda hai
+  Mardoṅ meiṅ faqad sayyede sajjad bacha hai
   Khamosh raho wa hussaina
   Aur sabr karo wa hussaina
   Bas ashk piyo wa hussaina
-  Kuch dayr mein jal jayenge qaime bhi hamare
+  Kuch dayr meiṅ jal jayenge qaime bhi hamare
   Chin jayenge kaano se gohar bibi tumhare
-  Kaano se tere khoon ke bahege abhi dhaare
+  Kaano se tere khuṅ ke bahege abhi dhaare
   Yeh zulm chala wa hussaina
-  Ay dukhtare man wa hussaina
+  Ae dukhtare man wa hussaina
   Basndhege rasan wa hussaina
   Bhadkegi abhi aag jalega tera daaman
-  Sar naizon pe aur khaak pe tadpege sabhi tan
+  Sar naizoṅ pe aur khaak pe tadpege sabhi tan
   Shabbir ki ghurbat pe bohat royega ye ban
   Ye baani e shar wa hussaina
   Le jaaye kidhar wa hussaina
   Kisko hai khabar wa hussaina
-  Sajjad ke pairon mein bhi zanjeer padegi
+  Sajjad ke pairoṅ meiṅ bhi zanjir padegi
   Daadi teri roti hui hamraah chalegi
   Chadar na tere aur na mere sar pe rahegi
-  Be gor o kafan wa hussaina
+  Begor o kafan wa hussaina
   Dekhegi behan wa hussaina
   Shabbir ka tan wa hussaina
   Rehaan sakina ne suni dard ki taqreer
-  Boli ke phupi yun bhi bigad jaati hai taqdeer
-  Ab kuch na kaho chalte hai seene pe mere teer
+  Boli ke phupi yuṅ bhi bigar jaati hai taqdir
+  Ab kuch na kaho chalte hai sine pe mere tir
   Karti thi buka wa hussaina
-  Ay ahle jafa wa hussaina
+  Ae ahle jafa wa hussaina
   Kya zulm kiya wa hussaina
   Sunlo ye sada wa hussaina
   Laut aao chacha wa hussaina

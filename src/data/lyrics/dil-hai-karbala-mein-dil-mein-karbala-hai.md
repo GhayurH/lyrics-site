@@ -11,87 +11,87 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hussain ne apna dil allah ko ata kiya
-  Aur allah ne hussain ko laakhon dil ata kiye
-  Ishq e khuda karbala
+  Husain ne apna dil allah ko ata kiya
+  Aur allah ne Husain ko laakhoṅ dil ata kiye
+  Ishq-e-khuda karbala
   Dars e wafa karbala
   Raahnuma karbala
   Raah e baqa karbala
   Gham ki dawa
   Haq ka pata
-  Deen ki sada
+  Din ki sada
   Rab ki ata
-  Seeno mein hai karbala
-  Zehno mein hai karbala
-  Dhadkano mein karbala
-  Saanson mein hai karbala
+  Sino meiṅ hai karbala
+  Zehno meiṅ hai karbala
+  Dharkano meiṅ karbala
+  Saansoṅ meiṅ hai karbala
   Jo kabhi na ja saka karbala
   Ho ke jo bhi aa gaya karbala
-  Sun sako to do dilon ki ek hi sada hai
-  Dil hai karbala mein dil mein karbala hai
-  Sote jaagte nigah mein haramsara hai
+  Sun sako to do diloṅ ki ek hi sada hai
+  Dil hai karbala meiṅ dil meiṅ karbala hai
+  Sote jaagte nigah meiṅ haramsara hai
   Dil hai karbala mein...
-  Zindagi mein aisa koi shakhs to dikha nahi
-  Jo ye keh de karbala mein maanga aur mila nahi
-  Dhoondhte ho tum kahan hai yahin pe la makaan
-  Karbala hussain ki hussain ka khuda hai
+  Zindagi meiṅ aisa koi shakhs to dikha nahi
+  Jo ye keh de karbala meiṅ maanga aur mila nahi
+  Dhundhte ho tum kahaṅ hai yahin pe la makaaṅ
+  Karbala Husain ki Husain ka khuda hai
   Dil hai karbala mein...
-  Is qadar buland ye zameen be sabab nahi
+  Is qadar buland ye zamiṅ besabab nahi
   Tishnalab ki sarzameen pe koi tishnalab nahi
   Rizq ilm aagahi mil rahi hai zindagi
-  Jis ke haath kat gaye yahan wo baanta hai
+  Jis ke haath kat gaye yahaṅ wo baanta hai
   Dil hai karbala mein...
-  Zaayri ka jab sharaf mila hussain ki qasam
-  Pehli baar karbala mein maine jab rakhe qadam
-  Kaifiyat bataun kya haal e dil sunaun kya
+  Zaayri ka jab sharaf mila Husain ki qasam
+  Pehli baar karbala meiṅ maiṅ ne jab rakhe qadam
+  Kaifiyat batauṅ kya haal e dil sunauṅ kya
   Aisa lag raha tha bas yehi watan mera hai
   Dil hai karbala mein...
   Har nabi ko karbala dikhayi hai khuda ne
   Karbala ki manzilat batayi hai khuda ne
   Zakhm ho ya ho qaza har maraz ki hai dawa
-  Sar zameen e karbala ki khaak bhi shifa hai
+  Sar zamin-e-karbala ki khaak bhi shifa hai
   Dil hai karbala mein...
-  Qarz hai yehi lahoo pe aur farz bhi yehi
-  Majlis e hussain ko hai waqf saari zindagi
+  Qarz hai yehi lahu pe aur farz bhi yehi
+  Majlis e Husain ko hai waqf saari zindagi
   Farsh e gham bichaye hum aur alam sajaye hum
-  Bachpane mein walidayn se yehi suna hai
+  Bachpane meiṅ walidayn se yehi suna hai
   Dil hai karbala mein...
   Ya zehra ya zehra ya zehra ya zehra
   Abad wallah ya zehra maaninsa hussaina
   Waada syeda se jo kiya tha wo nibhayenge
   Aane waali nasl ko bhi karbala sunayenge
-  Ishq ke ye marhale tay karenge ishq se
-  Majlis e hussain se yehi sabakh mila hai
+  Ishq ke ye marhale te kareṅge ishq se
+  Majlis-e-Husain se yehi sabakh mila hai
   Dil hai karbala mein...
-  Ghar mein jo alam saja rahe hai hum
-  Majlis e aza kara rahe hai hum
+  Ghar meiṅ jo alam saja rahe hai hum
+  Majlis-e-aza kara rahe hai hum
   Har baras ye gham mana rahe hai hum
   Nauhe marsiye suna rahe hai hum
-  Daawa jab kiya hai to saboot bhi diya hai
+  Daawa jab kiya hai to sabut bhi diya hai
   Dil hai karbala mein...
-  Zainab e hazeen ne qaid e shaam mein yehi kaha
+  Zainab e haziṅ ne qaid e shaam meiṅ yehi kaha
   Mere laal mera bhai aur mera bawafa
-  Sabke laashe hai wahan mai aseer hoo yahan
-  Is liye to har ghadi labon pe ye buka hai
+  Sabke laashe hai wahaṅ mai asir hoo yahaṅ
+  Is liye to har ghari laboṅ pe ye buka hai
   Dil hai karbala mein...
-  Mesum aur mazhar abidi daleel chahiye
-  Jab jahan jise nijaat ki sabeel chahiye
+  Mesum aur mazhar abidi dalil chahiye
+  Jab jahaṅ jise nijaat ki sabil chahiye
   Usko mashwara ye do wird raat din karo
   Bas yehi nijaat hai agar tu keh raha hai
   Dil hai karbala mein...
   Kehte rahe ahle aza
-  Hussain hussain hussain hussain
+  Husain Husain Husain Husain
   Lab pe rahe zikr tera
-  Hussain hussain hussain hussain
+  Husain Husain Husain Husain
   Tujhse kare yuhin wafa
-  Hussain hussain hussain hussain
+  Husain Husain Husain Husain
   Tere azadaar sada
-  Hussain hussain hussain hussain
-  Hussain tere liye hussain tere liye
-  Aqeeda bas ye kahe hussain tere liye
-  Sada ye dil se uthe hussain tere liye
-  Ye haath khalk huwe hussain tere liye
-  Ye dil dhadakta rahe hussain tere liye
+  Husain Husain Husain Husain
+  Husain tere liye Husain tere liye
+  Aqeeda bas ye kahe Husain tere liye
+  Sada ye dil se uthe Husain tere liye
+  Ye haath khalk huwe Husain tere liye
+  Ye dil dharakta rahe Husain tere liye
 # source_id: nohayonline:7852751773418cbd7bec
 # source_url: https://www.nohayonline.com/details_content.php?id=1309
 # raw_sha256: 05f128b17bb4ee5b808c0eb2b98b24de7d59aa03895878fce88749b85c9cf18f

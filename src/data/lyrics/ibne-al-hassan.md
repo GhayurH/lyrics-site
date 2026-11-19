@@ -1,6 +1,6 @@
 ---
 title: "اک بیٹا ہے حسن ایک ہے حسین"
-alternateTitle: "Ibne Al Hassan"
+alternateTitle: "Ibne Al Hasan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,58 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ek beta hai hassan ek hai hussain
+  Ek beta hai Hasan ek hai Husain
   Dono hai zehra ka dil ka chain
-  Ibne al hassan ibne al hussain
-  Haye hassan waye hussain
+  Ibne al Hasan ibne al Husain
+  Haye Hasan waye Husain
   Pukari maa mere shahzaade
-  Ek ka janaza teeron par aa gaya
-  Ek ke janaze par teeron ki hai bauchaar
-  Boli ye ro kar maa ay mere noor e ain
-  Ibne al hassan ibne al hussain
-  Haye hassan waye hussain
+  Ek ka janaza tiroṅ par aa gaya
+  Ek ke janaze par tiroṅ ki hai bauchaar
+  Boli ye ro kar maa ae mere nur-e-ain
+  Ibne al Hasan ibne al Husain
+  Haye Hasan waye Husain
   Pukari maa mere shahzaade
   Ek ka kafan haye sabz qabaa ka tha
   Ek ka kafan haye khaake karbala hua
-  Noore chashme ahmed zehra ke dil ka chain
-  Ibne al hassan ibne al hussain
-  Haye hassan waye hussain
+  Nure chashme ahmed zehra ke dil ka chain
+  Ibne al Hasan ibne al Husain
+  Haye Hasan waye Husain
   Pukari maa mere shahzaade
-  Girya zameen hui girya falak hua
-  Gham mein shehzadon ke khoon roye mustufa
+  Girya zamiṅ hui girya falak hua
+  Gham meiṅ shehzadoṅ ke khun roye mustufa
   Hai hashr ka samaa barpa hai shor o shain
-  Ibne al hassan ibne al hussain
-  Haye hassan waye hussain
+  Ibne al Hasan ibne al Husain
+  Haye Hasan waye Husain
   Pukari maa mere shahzaade
   Turbat e mujtaba teht e shams o qamar
-  Laasha e shaahe deen aur jalti rayt par
+  Laasha e shaahe diṅ aur jalti rayt par
   Haye re haye re ye ghurbat e sibtain
-  Ibne al hassan ibne al hussain
-  Haye hassan waye hussain
+  Ibne al Hasan ibne al Husain
+  Haye Hasan waye Husain
   Pukari maa mere shahzaade
-  Haye baade qaza teeron ka silsila
-  Dono ki laashon ka manzar hai ek sa
+  Haye baade qaza tiroṅ ka silsila
+  Dono ki laashoṅ ka manzar hai ek sa
   Ummat ne kab diya aale nabi ko chain
-  Ibne al hassan ibne al hussain
-  Haye hassan waye hussain
+  Ibne al Hasan ibne al Husain
+  Haye Hasan waye Husain
   Pukari maa mere shahzaade
-  Qalb e maula hassan tukdon mein bat gaya
-  Qalb e shaahe zaman zakhmon se phat gaya
+  Qalb e maula Hasan tukroṅ meiṅ bat gaya
+  Qalb e shaahe zaman zakhmoṅ se phat gaya
   Kehti rahi ye maa haye haye hasnain
-  Ibne al hassan ibne al hussain
-  Haye hassan waye hussain
+  Ibne al Hasan ibne al Husain
+  Haye Hasan waye Husain
   Pukari maa mere shahzaade
   Itrat pe royenge ye arz ye samaa
   Royegi ta-abad tum dono ko ye maa
-  Ay meri jaan hassan ay meri jaan hussain
-  Ibne al hassan ibne al hussain
-  Haye hassan waye hussain
+  Ae meri jaaṅ Hasan ae meri jaaṅ Husain
+  Ibne al Hasan ibne al Husain
+  Haye Hasan waye Husain
   Pukari maa mere shahzaade
   Dayam e gul figaar kaise paaye qaraar
-  Chashme yazdan lahoo roti hai zaar zaar
+  Chashme yazdaṅ lahu roti hai zaar zaar
   Sunke sar e majlis ek dukhiya maa ke bain
-  Ibne al hassan ibne al hussain
-  Haye hassan waye hussain
+  Ibne al Hasan ibne al Husain
+  Haye Hasan waye Husain
   Pukari maa mere shahzaade
 # source_id: nohayonline:22aa3a8baabb349b97c0
 # source_url: https://www.nohayonline.com/details_content.php?id=1454

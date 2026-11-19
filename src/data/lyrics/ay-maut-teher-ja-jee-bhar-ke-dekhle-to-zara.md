@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jee bhar ke dekhle to zara
-  Ay maut teher ja ke mera laal hai jawan
-  Jee bhar ke dekhle to zara usko uski maa
+  Ji bhar ke dekhle to zara
+  Ae maut teher ja ke mera laal hai jawaaṅ
+  Ji bhar ke dekhle to zara usko uski maa
 
   2
-  Usko jawan palkon ke saaye mein hai kiya
-  Kaanta bhi uske paaon my chubne nahi diya
-  Dekhegi kaise seene mein barchi ko uski maa
+  Usko jawaaṅ palkoṅ ke saaye meiṅ hai kiya
+  Kaanta bhi uske paaoṅ my chubne nahi diya
+  Dekhegi kaise sine meiṅ barchi ko uski maa
 
   3
-  Armaan hai uske haaton mein mehendi lagaun mai
-  Taaron se uski shaadi ka sehra banaun mai
+  Armaaṅ hai uske haatoṅ meiṅ mehendi lagauṅ mai
+  Taaroṅ se uski shaadi ka sehra banauṅ mai
   Kaise bhula sakegi bhala usko uski maa
 
   4
   Dekha hai na suna hai kabhi aisa waqiya
-  Baysheer ke galay pe chala teere hurmala
-  Dekhegi ye kin aankhon se manzar ko uski maa
+  Baysheer ke gale pe chala tire hurmala
+  Dekhegi ye kin aankhoṅ se manzar ko uski maa
 
   5
-  Beta to ek zameen par chal paaya na mera
-  Jhoole se jo gaya tha wo ghar aaya na mera
-  Jhoole mein abhi dhoondti hai usko uski maa
+  Beta to ek zamiṅ par chal paaya na mera
+  Jhule se jo gaya tha wo ghar aaya na mera
+  Jhule meiṅ abhi dhundti hai usko uski maa
 
   6
-  Jaungi kaise chod ke maqtal ko mai bhala
-  Sotay hai yahan bete aur sartaj bhi mera
+  Jaungi kaise chor ke maqtal ko mai bhala
+  Sote hai yahaṅ bete aur sartaj bhi mera
   Kehti hai ek bete se ye usko uski maa
 
   7
-  Bemaar ko bhi chain kahan baade karbala
+  Bemaar ko bhi chain kahaṅ baade karbala
   Zakhmo pe zakhm usko bhi ek saat hai mila
-  Lo jaa rahi hai chod ke ab usko uski maa
+  Lo jaa rahi hai chor ke ab usko uski maa
 
   8
-  Pahunchu dare haider pe hai armaan naeem ka
-  Nauha padhun mai rauze pe hamshakle nabi ka
+  Pahunchu dare haider pe hai armaaṅ naim ka
+  Nauha parhuṅ mai rauze pe hamshakle nabi ka
   Deti hai dua aaj ye bas usko uski maa
 # source_id: nohayonline:6c77e6b0ec73a93c01f6
 # source_url: https://www.nohayonline.com/details_content.php?id=752

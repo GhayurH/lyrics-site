@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Maqtal may sar ko peet ke kehti thi fatema
-  Zaalim mere hussain ke sar ko na kar juda
+  Maqtal may sar ko pit ke kehti thi fatema
+  Zaalim mere Husain ke sar ko na kar juda
   Zakhmi hai mera lakhte jigar khushk hai gala
-  Pyasa hai teen roz ka ye mera mehleka
+  Pyasa hai tin roz ka ye mera mehleka
   Zaalim ne ek maa ki na aah o buka suni
-  Aakhir galay pe phayr di farzand ke churi
+  Aakhir gale pe phayr di farzand ke churi
   Le gaya shimr bete ka sar kaat kar
-  Reh gayi ek maa khoon rote huwe
-  Saamne mar gaya haye noor e nazar
-  Reh gayi ek maa khoon rote huwe
+  Reh gayi ek maa khun rote huwe
+  Saamne mar gaya haye nur-e-nazar
+  Reh gayi ek maa khun rote huwe
   Le gaya shimr bete ka...
   Kund khanjar chalata raha behaya
-  Waqt e aakhir na pyase ko pani diya
+  Waqt-e-aakhir na pyase ko pani diya
   Haye chalti rahi jab churi halq par
-  Reh gayi ek maa khoon rote huwe
+  Reh gayi ek maa khun rote huwe
   Le gaya shimr bete ka...
-  Us ghadi roye bekas pa arz o samaa
+  Us ghari roye bekas pa arz o samaa
   Kha ke ghash gir gayi dasht may sayyeda
-  Baal pakde huwe jab chala le ke sar
-  Reh gayi ek maa khoon rote huwe
+  Baal pakre huwe jab chala le ke sar
+  Reh gayi ek maa khun rote huwe
   Le gaya shimr bete ka...
-  Haye sookhe galay par chali jab churi
+  Haye sukhe gale par chali jab churi
   Apni maa ko sada ro ke sarwar ne di
   Amma pyasa hoo kehta raha ek pisar
-  Reh gayi ek maa khoon rote huwe
+  Reh gayi ek maa khun rote huwe
   Le gaya shimr bete ka...
-  Jaa bajaa jism par teer khaye huwe
+  Jaa bajaa jism par tir khaye huwe
   Kaisa shakir hai khaaliq ke sajde may hai
-  Zakhmi teeron pe bete ka tan dekh kar
-  Reh gayi ek maa khoon rote huwe
+  Zakhmi tiroṅ pe bete ka tan dekh kar
+  Reh gayi ek maa khun rote huwe
   Le gaya shimr bete ka...
   Baap ki muntazir hai wo dukhiya udhar
   Mar gaya dasht may us ka baba idhar
   Koi pahunchade yasrab may haye khabar
-  Reh gayi ek maa khoon rote huwe
+  Reh gayi ek maa khun rote huwe
   Le gaya shimr bete ka...
-  Kaise dekhun ye haalat pisar ki bhala
-  Kar raha hai layeen tanse sar ko juda
-  Gham se hone laga mera tukde jigar
-  Reh gayi ek maa khoon rote huwe
+  Kaise dekhuṅ ye haalat pisar ki bhala
+  Kar raha hai layiṅ tanse sar ko juda
+  Gham se hone laga mera tukre jigar
+  Reh gayi ek maa khun rote huwe
   Le gaya shimr bete ka...
   Godh may jis ko rakhti thi apne sada
   Zulm aada ne us par ye kaisa kiya
   Laash uski hai jalti hui khaak par
-  Reh gayi ek maa khoon rote huwe
+  Reh gayi ek maa khun rote huwe
   Le gaya shimr bete ka...
   Ek qayaamt ka manzar wo rehan tha
   Kaise danish raqam ho wo aah o buka
   Haye bekas ka naize pe aaya jo sar
-  Reh gayi ek maa khoon rote huwe
+  Reh gayi ek maa khun rote huwe
   Le gaya shimr bete ka...
 # source_id: nohayonline:1d23f87619cc1302215d
 # source_url: https://www.nohayonline.com/details_content.php?id=2068

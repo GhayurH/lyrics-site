@@ -8,7 +8,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hay ibadat Hussain ka matam
+  Hay ibadat Husain ka matam
   Hum ko Quran ne bataya hay
 
   1
@@ -46,7 +46,7 @@ romanLyrics: |-
   Jo ke jannat ka ghar banata hay
 
   5
-  Taqat e matam e hussain bani
+  Taqat e matam e Husain bani
   Lal sain ki taqat e parwaz
   Yehi taghoot e la makan
   Yehi abdullah shah ki awaz
@@ -74,7 +74,7 @@ romanLyrics: |-
   Daikh kar iska mojzati asar
   Daikh kar iski fazilat o azmat
   Bat ta hashr hogai ye gohar
-  Jo karay ga hussain ka matam
+  Jo karay ga Husain ka matam
   Matami woh shareefzada hay
 # source_id: ziyaraat:05eb2efc8ad21278e6e0
 # source_url: https://www.ziyaraat.net/api/noha/2144

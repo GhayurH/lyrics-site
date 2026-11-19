@@ -9,30 +9,30 @@ aliases: []
 published: false
 romanLyrics: |-
   Madine me aayi ye kaisi qayamath, nikalti hai ghar se Khadeeja ki mayyat,
-  Hai mehzoon shaahe madeena ki haalath, nikalti hai ghar se Khadeeja ki mayyath..
+  Hai mehzun shaahe madeena ki haalath, nikalti hai ghar se Khadeeja ki mayyath..
 
   1
-  Nikalte hain rote hue sab gharon se, ke jaise utha maa ka saaya saron se,
+  Nikalte haiṅ rote hue sab gharoṅ se, ke jaise utha maa ka saaya saroṅ se,
   Yunmasroof gham hai Mohammed ki ummat nikalti hai ghar se Khadeeja ki mayyath..
 
   2
-  Hai Maa aur beti me ab toh judayi, Nabi kaise beti ko den ab tasalli,
+  Hai Maa aur beti me ab toh judayi, Nabi kaise beti ko deṅ ab tasalli,
   Ke tuta hai Zehra pa koh e musibath, nikalti hai ghar se Khadeeja ki mayyath..
 
   3
-  Koi Maa ke marne ka gham kya bataye, Yateemi ka sadma yateema hi jaane,
+  Koi Maa ke marne ka gham kya bataye, Yatimi ka sadma yatima hi jaane,
   Sahe Fatima kaise maadar ki furqat, nikalti hai ghar se Khadeeja ki mayyath..
 
   4
-  Ye tanhayi aur ye yateemi ka sadma, bina Maa ke dushwar hota hai jeena,
+  Ye tanhayi aur ye yatimi ka sadma, bina Maa ke dushwar hota hai jina,
   Mile kaise binte Khadeeja ko rahat, nikalti hai ghar se Khadeeja ki mayyath..
 
   5
-  Nadi aankh se aansuon ki rawan hai, Zaban par faqat haye Maa haye Maa hai,
-  Kahan Fatima ko hai rone ki fursat, nikalti hai ghar se Khadeeja ki mayyath..
+  Nadi aankh se aansuoṅ ki rawaṅ hai, Zabaṅ par faqat haye Maa haye Maa hai,
+  Kahaṅ Fatima ko hai rone ki fursat, nikalti hai ghar se Khadeeja ki mayyath..
 
   6
-  Mujeeb aaj har ummati ro raha hai, Razi shehr e yasrab me matam bapa hai,
+  Mujib aaj har ummati ro raha hai, Razi shehr e yasrab me matam bapa hai,
   Ke Zehra ki Maa kar gayin aaj rehlath, nikalti hai ghar se Khadeeja ki mayyath..
 # source_id: ziyaraat:3ccab4b33485ae934971
 # source_url: https://www.ziyaraat.net/api/noha/2312

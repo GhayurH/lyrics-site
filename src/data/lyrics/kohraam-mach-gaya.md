@@ -13,41 +13,41 @@ published: false
 romanLyrics: |-
   1
   Alwida alwida
-  Qaime mein aake shah ne jab alwida kaha
+  Qaime meiṅ aake shah ne jab alwida kaha
   Kohraam mach gaya
-  Tha jis ka intezar wo sa'ath qareeb hai
-  Din dhal raha hai shame musibat qareeb hai
-  Kuch dayr ki hai baat qayamat qareeb hai
-  Zainab ghareeb bhai ki ruksat qareeb hai
+  Tha jis ka intezar wo sa'ath qarib hai
+  Din dhal raha hai shame musibat qarib hai
+  Kuch dayr ki hai baat qayamat qarib hai
+  Zainab gharib bhai ki ruksat qarib hai
   Ye keh ke maanga maa ka jo kurta sila hua
   Kohraam mach gaya...
-  Kuch door hatke qaime mein bole shahe zaman
-  Zehmat na ho to baazu badhao behan
-  Mai bosay loo wahan ke bandhegi jahan rasan
-  Baazu badha ke roti thi hamsheer khastatan
-  Bhai behan ke baazu ko jab choomne laga
+  Kuch dur hatke qaime meiṅ bole shahe zaman
+  Zehmat na ho to baazu barhao behan
+  Mai bose loo wahaṅ ke bandhegi jahaṅ rasan
+  Baazu barha ke roti thi hamshir khastatan
+  Bhai behan ke baazu ko jab chumne laga
   Kohraam mach gaya...
-  Ye sunke binte fatema zehra tadap gayi
-  Boli gala badhao bas ab jald ya aqi
+  Ye sunke binte fatema zehra tarap gayi
+  Boli gala barhao bas ab jald ya aqi
   Amma ki baat aaj mujhe yaad aagayi
-  Mai bosay loo wahan ke chalegi jahan churi
-  Zainab ne badke chooma baradar ka jab gala
+  Mai bose loo wahaṅ ke chalegi jahaṅ churi
+  Zainab ne badke chuma baradar ka jab gala
   Kohraam mach gaya...
   Beti se phir ye kehne laga fatema ka laal
   Rehna phupi ke paas rakhengi tera khayal
   Ghurbat hai tum phupi se na karna koi sawaal
   Warna tere padar ko bahot hoyega malaal
-  Phir sar pe haath rakh ke jo dene lagay dua
+  Phir sar pe haath rakh ke jo dene lage dua
   Kohraam mach gaya...
   Beti ko jab supurde behan kar chuke imam
-  Ro kar behan se kehne lage aasman maqam
-  Jaana watan jo qaid se chutkar ay tishnaqam
+  Ro kar behan se kehne lage aasmaṅ maqam
+  Jaana watan jo qaid se chutkar ae tishnaqam
   Kehna lehad pe maa ki mera aakhri salam
   Aaya jo lab pe fatema zehra ka tazkira
   Kohraam mach gaya...
   Abid se phir ye kehne lage shaahe karbala
-  Bewao'n ka aur yateemon ka ab tum ho aasra
-  Jo imtehan mera tha sab maine de diya
+  Bewaoṅ ka aur yatimoṅ ka ab tum ho aasra
+  Jo imtehan mera tha sab maiṅ ne de diya
   Aage tera jihad hai bemaare karbala
   Bemaar beta baap se jis dam juda hua
   Kohraam mach gaya...
@@ -57,9 +57,9 @@ romanLyrics: |-
   Tanhai ke siwa koi yawar nahi bacha
   Jab suye nehr dekh ke ghazi ko di sada
   Kohraam mach gaya...
-  Bhai ko tanha dekh ke zainab tadap gayi
-  Roti hui hussain ke nazdeek aagayi
-  Aur phir raqaab thaam ke boli ay shaahe deen
+  Bhai ko tanha dekh ke zainab tarap gayi
+  Roti hui Husain ke nazdik aagayi
+  Aur phir raqaab thaam ke boli ae shaahe diṅ
   Lo mai sawaar karti hoo abbas gar nahi
   Wayiz hua sawaar jo zehra ka laadla
   Kohraam mach gaya...

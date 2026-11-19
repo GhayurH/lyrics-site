@@ -1,6 +1,6 @@
 ---
 title: "سائے میں سیدہ کے عزادار رہیں گے"
-alternateTitle: "Saaye Mein Sayyeda"
+alternateTitle: "Saaye Meiṅ Sayyeda"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

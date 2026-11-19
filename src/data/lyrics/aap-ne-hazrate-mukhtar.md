@@ -12,55 +12,55 @@ published: false
 romanLyrics: |-
   1
   Jab koi qaatile shabbir giraftaar hua
-  Ye khabar sunke koi khidmate maula mein gaya
+  Ye khabar sunke koi khidmate maula meiṅ gaya
   Ashk barsaate huwe abid e muztar ne kaha
   Tune badla liya mukhtaar hai ehsaan tera
   Qalbe zehra ke har ek zakhm pe marham rakha
-  Aap ne hazrat e mukhtaar bada kaam kiya
-  Aap ke hausle kar dete hai qaumon ko jawan
-  Aap ke khoon mein hyder ki mohabbat thi rawan
-  Aap ke hubb mein imran ka jazba tha ayan
-  Aap ke josh pe nazaan hai bahot karbobala
+  Aap ne hazrat-e-mukhtaar bara kaam kiya
+  Aap ke hausle kar dete hai qaumoṅ ko jawan
+  Aap ke khun meiṅ hyder ki mohabbat thi rawaṅ
+  Aap ke hubb meiṅ imran ka jazba tha ayaṅ
+  Aap ke josh pe nazaaṅ hai bahot karbobala
   Aap ne hazrate mukhtaar...
-  Aag jo dil mein hai us aag ka darya kya hai
+  Aag jo dil meiṅ hai us aag ka darya kya hai
   Ek maula ke azadaar ka jazba kya hai
   Inteqam e ali asghar ka takaza kya hai
-  Aap ke khoon mein tha josh abu talib ka
+  Aap ke khun meiṅ tha josh abu talib ka
   Aap ne hazrate mukhtaar...
   Aap ko aal e payambar ka tha kitna ehsaas
-  Bhool paaye na kabhi aap sakina ki pyaas
-  Pani peete huwe thi ek sada ya abbas
+  Bhul paaye na kabhi aap sakina ki pyaas
+  Pani pite huwe thi ek sada ya abbas
   Aap ne daste bureeda ka liya tha badla
   Aap ne hazrate mukhtaar...
   Rajat e jism e murattab hai wo manzar kya hai
   Hujjat e asr ki azmat ka samandar kya hai
-  Jiske lashkar mein ali honge wo lashkar kya hai
-  Wo sadi aayegi mukhtaar thay jiska lamha
+  Jiske lashkar meiṅ ali honge wo lashkar kya hai
+  Wo sadi aayegi mukhtaar the jiska lamha
   Aap ne hazrate mukhtaar...
-  Zulm ke daur mein mazloom ki taaqat mukhtaar
+  Zulm ke daur meiṅ mazlum ki taaqat mukhtaar
   Jabr ke saamne inkaar ki himmat mukhtaar
-  Hashr tak dil pe yazeedon ke hai haibat mukhtaar
-  Aap ne laakhon jigar chaak kiye hai tanha
+  Hashr tak dil pe yazidoṅ ke hai haibat mukhtaar
+  Aap ne laakhoṅ jigar chaak kiye hai tanha
   Aap ne hazrate mukhtaar...
-  Roz hote hai yahan kitne azadaar shaheed
-  Faisla kar liya ab zulm nahi sehne mazeed
-  Kaat kar rakhdo azadaron zara nasle yazeed
-  Aap ke josh se milta hai hamein bhi jazba
+  Roz hote hai yahaṅ kitne azadaar shahid
+  Faisla kar liya ab zulm nahi sehne mazid
+  Kaat kar rakhdo azadaroṅ zara nasle yazid
+  Aap ke josh se milta hai hameiṅ bhi jazba
   Aap ne hazrate mukhtaar...
   Ye to allah ki nemat hai shahadat lelo
   Ashke shabbir se talwaar ki taaqat lelo
-  Mat daro hazrat e mukhtaar se himmat lelo
-  Daad deti hai inhe roohe shahe karbobala
+  Mat daro hazrat-e-mukhtaar se himmat lelo
+  Daad deti hai inhe ruhe shahe karbobala
   Aap ne hazrate mukhtaar...
   Baaqi rehta hai abhi jor o jafa ka badla
   Noke naiza se chini ek rida ka badla
-  Apni hadh mein jo liya karbobala ka badla
-  Inteqam asl mein baaqi hai abhi waaris ka
+  Apni hadh meiṅ jo liya karbobala ka badla
+  Inteqam asl meiṅ baaqi hai abhi waaris ka
   Aap ne hazrate mukhtaar...
-  Ay qamar sog badha chain dilon ne paaya
+  Ae qamar sog barha chain diloṅ ne paaya
   Saamne aap ke jis dam sar e hurmal aaya
   Zere lab jis tarha sajjad ne ho farmeina
-  Aap ne hazrat e mukhtaar bada kaam kiya
+  Aap ne hazrat-e-mukhtaar bara kaam kiya
   Aap ne hazrate mukhtaar...
 # source_id: nohayonline:369a4ae420695eb7c50a
 # source_url: https://www.nohayonline.com/details_content.php?id=2345

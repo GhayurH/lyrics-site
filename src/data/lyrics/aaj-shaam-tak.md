@@ -10,52 +10,52 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Subhe ashoor baade azan
-  Karbala kar rahi hai fughan
-  Qaimo mein sirf hoga dhuan aaj shaam tak
-  Ghat jayegi ye umre rawan aaj shaam tak
+  Subhe ashur baade azaṅ
+  Karbala kar rahi hai fughaṅ
+  Qaimo meiṅ sirf hoga dhuaṅ aaj shaam tak
+  Ghat jayegi ye umre rawaṅ aaj shaam tak
 
   1
-  Kaisi saji hai baargah e shere zuljalaal
-  Akbar sa naujawan koi qasim sa khush jamaal
+  Kaisi saji hai baargah-e-shere zuljalaal
+  Akbar sa naujawaṅ koi qasim sa khush jamaal
   Abbas sar se taaba qadam hyderi jalaal
   Dekhe suye qayam kisi ki nahi majaal
-  Lekin jiyega koi kahan aaj shaam tak
+  Lekin jiyega koi kahaṅ aaj shaam tak
 
   2
-  Bachon mein keh rahi hai sakina khushi khushi
+  Bachoṅ meiṅ keh rahi hai sakina khushi khushi
   Do ek pahar ki baat hai apni ye tishnagi
-  Bhari hai lashkaron pe har ek farde hashmi
+  Bhari hai lashkaroṅ pe har ek farde hashmi
   Qayam rahe khuda mere ammu ki zindagi
-  Hojayenge watan ko rawan aaj shaam tak
+  Hojayenge watan ko rawaṅ aaj shaam tak
 
   3
   Rakhe namaz padh ke musalle lapayt kar
   Lo ahle shar ke saamne ja pahunche pur jigar
-  Lagta nahi hai zeest ki hai aakhri sahar
+  Lagta nahi hai zist ki hai aakhri sahar
   Ye josh ye kharosh ye raunak to hai magar
-  Har samt hogi aah o fughan aaj shaam tak
+  Har samt hogi aah o fughaṅ aaj shaam tak
 
   4
-  Akbar khade hai ulte hue apni aastin
-  Din dhal raha hai chupne lage hai rukhe haseen
-  Zainab ko ho chala hai aseeri ka ab yaqeen
+  Akbar khare hai ulte hue apni aastiṅ
+  Din dhal raha hai chupne lage hai rukhe hasiṅ
+  Zainab ko ho chala hai asiri ka ab yaqiṅ
   Lo waqte asr aa gaya shabbir bhi nahi
   Badlega baar baar samaa aaj shaam tak
 
   5
-  As-haab o aqroba mein na baaqi koi raha
-  Qaime mein aaye rote huwe shaahe karbala
-  Bosa galay pa bhai ke zainab ne jab liya
-  Baazu behan ka choom ke shabbir ne kaha
-  Honge yahan rasan ke nishan aaj shaam tak
+  As-haab o aqroba meiṅ na baaqi koi raha
+  Qaime meiṅ aaye rote huwe shaahe karbala
+  Bosa gale pa bhai ke zainab ne jab liya
+  Baazu behan ka chum ke shabbir ne kaha
+  Honge yahaṅ rasan ke nishaṅ aaj shaam tak
 
   6
-  Ghash mein pade hai abid e beemar farsh par
-  Teemaar daar daud rahe hai idhar udhar
-  Khona hai kya dabeer kisi ko nahi khabar
-  Aada uthayenge inhe bistar ghaseet kar
-  Gardan mein hoga tauq e garan aaj shaam tak
+  Ghash meiṅ pare hai abid e bimar farsh par
+  Timaar daar daur rahe hai idhar udhar
+  Khona hai kya dabir kisi ko nahi khabar
+  Aada uthayenge inhe bistar ghasit kar
+  Gardan meiṅ hoga tauq e garaṅ aaj shaam tak
 ---
 
 صبح عاشور بعد اذاں

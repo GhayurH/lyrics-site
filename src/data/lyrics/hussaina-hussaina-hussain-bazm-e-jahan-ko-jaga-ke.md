@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hussain bazm e jahan ko jaga ke soye hai
+  Husain bazm e jahaṅ ko jaga ke soye hai
   Chiragh e quwwate baatil bujha ke soye hai
   Sitam ke qasr ko thokar se dha ke soye hai
-  Udoo ke taygh talay muskurake soye hai
-  Hussaina hussaina haye hussain hussaina
-  Noha tha ye zainab e dilgeer ka
+  Udu ke taygh tale muskurake soye hai
+  Hussaina hussaina haye Husain hussaina
+  Noha tha ye zainab e dilgir ka
   Koi nahi sar pe raha aasra
-  Waqt tha ye ahle haram pe kada
-  Ghar bhara ujda chin gayi rida
+  Waqt tha ye ahle haram pe kara
+  Ghar bhara ujra chin gayi rida
   Hussaina hussaina...
-  Dulha ka ran mein hua tukde badan
+  Dulha ka ran meiṅ hua tukre badan
   Dekh ke roya kiye shaahe zaman
   Ho gaya pamaal sheh ka gulbadan
-  Tukde badan tha kaun utha'ta
+  Tukre badan tha kaun utha'ta
   Hussaina hussaina...
   Aun o mohamad jo gire khaak par
-  Raahe haq mein ho gaye qurban pisar
-  Pahunchi jo qaime mein ye gham ki khabar
+  Raahe haq meiṅ ho gaye qurbaṅ pisar
+  Pahunchi jo qaime meiṅ ye gham ki khabar
   Maa ne kiya tha shukr khuda ka
   Hussaina hussaina...
-  Seene pe akbar ke jab barchi lagi
-  Sakht thi boodhe pidar pe ye ghadi
-  Kaandhe pe leke laashe jawan laal ki
-  Thokare khaata qaime mein pahuncha
+  Sine pe akbar ke jab barchi lagi
+  Sakht thi burhe pidar pe ye ghari
+  Kaandhe pe leke laashe jawaaṅ laal ki
+  Thokare khaata qaime meiṅ pahuncha
   Hussaina hussaina...
   Rehm kha cheh maah ka bacha hai ye
   Bano ka bhi sab ka dulaara hai ye
-  Pyaas se gehware mein tadpa hai ye
+  Pyaas se gehware meiṅ tarpa hai ye
   Pani mila na paas tha darya
   Hussaina hussaina...
   Nehr pe abbas ke shaane kate
@@ -46,15 +46,15 @@ romanLyrics: |-
   Zainab o kulsum ne naale kiye
   Ghazi ka laasha dekh ke roya
   Hussaina hussaina...
-  Qatl huwe kund churi se hussain
+  Qatl huwe kund churi se Husain
   Maadar e shabbir ye karti thi bain
   Kaise mile pyasi sakina ko chain
   Ahle haram ka tha yehi nauha
   Hussaina hussaina...
-  As-salaam ya hussain as-salaam
+  As-salaam ya Husain as-salaam
   Roze pe ek roz ho uska qayaam
-  Dije najaf ko raza ay imam
-  Ay mere maula ay mere aaqa
+  Dije najaf ko raza ae imam
+  Ae mere maula ae mere aaqa
   Hussaina hussaina...
 # source_id: nohayonline:06f2e11636c42fa62d3f
 # source_url: https://www.nohayonline.com/details_content.php?id=933

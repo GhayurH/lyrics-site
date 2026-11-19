@@ -12,51 +12,51 @@ aliases: []
 published: false
 romanLyrics: |-
   Sughra ghash se chaunk kar uthi
-  Boli sar ko peet'ti hui
-  Haye meri neend ud gayi
+  Boli sar ko pitti hui
+  Haye meri nind ur gayi
   Mere baba khairiyat se ho
 
   1
-  Dekha aaj maine kaisa khaab
-  Rayth par pade hai kuch gulaab
+  Dekha aaj maiṅ ne kaisa khaab
+  Rayth par pare hai kuch gulaab
   Chun rahe hai jinko bu-turaab
-  Khoon ro raha hai aaftab
+  Khun ro raha hai aaftab
 
   2
-  Ek taraf alam hai khoon mein tar
+  Ek taraf alam hai khun meiṅ tar
   Jhuk gayi hai shaah ki kamar
   Ja rahi hai jis taraf nazar
-  Bibiyan khadi hai nange sar
+  Bibiyaṅ khari hai nange sar
 
   3
-  Haye haye qasim-e-jawan
+  Haye haye qasim-e-jawaaṅ
   Bain kar rahi hai jiski maa
-  Hil gaye zameen-o-aasman
-  Todi jab dulhan ne choodiyan
+  Hil gaye zamin o aasmaṅ
+  Tori jab dulhan ne churiyaṅ
 
   4
   Ek bachi seena-e-padar
-  Dhoondti rahi idhar udhar
+  Dhundti rahi idhar udhar
   Baap so raha tha khaak par
   Jis ke tan se kat chuka tha sar
 
   5
-  Qaid hai rasool-zaadiyan
-  Haath mein bandhi hai rassiyan
-  Be kajawa hai amariyaan
-  Khoon ro raha hai saarban
+  Qaid hai rasul-zaadiyaṅ
+  Haath meiṅ bandhi hai rassiyaṅ
+  Bekajawa hai amariyaaṅ
+  Khuṅ ro raha hai saarbaṅ
 
   6
-  Khwaab ye bada ajeeb tha
-  Baad shaah e deen ghareeb tha
-  Kya yehi mera naseeb tha
-  Be-kafan mera tabeeb tha
+  Khwaab ye bara ajib tha
+  Baad shaah-e-diṅ gharib tha
+  Kya yehi mera nasib tha
+  bekafan mera tabib tha
 
   7
   Sarwar o rehaan ki dua
-  Ho qabool shaah e karbala
+  Ho qabul shaah-e-karbala
   Koi beti aur is tarha
-  Phir tadap ke yun na de sada
+  Phir tarap ke yuṅ na de sada
 # source_id: nohayonline:29b816e18abfba5dc2dc
 # source_url: https://www.nohayonline.com/details_content.php?id=402
 # raw_sha256: 0e377128326db7cf36fb8c434445adab6542daeb106c61cb187b4e8795c5e40b

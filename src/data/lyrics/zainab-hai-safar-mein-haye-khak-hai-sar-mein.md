@@ -9,40 +9,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zainab hai safar mein haaye khaak hai sar mein
-  Kab hogi riha qaid se kab jaayegi ghar mein
+  Zainab hai safar meiṅ haaye khaak hai sar meiṅ
+  Kab hogi riha qaid se kab jaayegi ghar meiṅ
 
   1
-  Chehre ko zara baalon se tum dhaanp lo Bibi
-  Maahaul sharaabi hai teri raahguzar mein
+  Chehre ko zara baaloṅ se tum dhaanp lo Bibi
+  Maahaul sharaabi hai teri raahguzar meiṅ
 
   2
   Taarikh teri jang ko dohraati rahegi
-  Asghar jo lari tu ne nanhi si umr mein
+  Asghar jo lari tu ne nanhi si umr meiṅ
 
   3
   Ik waqt tha Kufe ki shahzaadi thi Zainab
-  Kis haal mein aayi hai ye Baba ke shehr mein
+  Kis haal meiṅ aayi hai ye Baba ke shehr meiṅ
 
   4
   Jis parde ka zaamin tha Abbas-e-Dilawar
-  Hai zakhm usi parde ka Abid ke jigar mein
+  Hai zakhm usi parde ka Abid ke jigar meiṅ
 
   5
   The tan pe phate kapre aur kaan bhi zakhmi
-  Abid ne utaara jo Sakina ko qabar mein
+  Abid ne utaara jo Sakina ko qabar meiṅ
 
   6
-  Kaanton pe jo chalta hai ghairat ka Khuda hai
-  Dunya ne nahi jaana kiun kham hai kamar mein
+  Kaantoṅ pe jo chalta hai ghairat ka Khuda hai
+  Dunya ne nahi jaana kiuṅ kham hai kamar meiṅ
 
   7
-  Kiun aa ke Madine mein bhi khun rota raha hai
-  Bazaar ka har zulm hai Abid ki nazar mein
+  Kiuṅ aa ke Madine meiṅ bhi khuṅ rota raha hai
+  Bazaar ka har zulm hai Abid ki nazar meiṅ
 
   8
   Shabbir ke maatam se ae rokne waalo
-  Zainab ki ye sunnat hai momin ki nazar mein
+  Zainab ki ye sunnat hai momin ki nazar meiṅ
 # source_id: nohayonline:8a44ae57cacb7fbf1e74
 # source_url: https://www.nohayonline.com/details_content.php?id=1643
 # raw_sha256: 635e4bf5df1fec07d01a482229ce4c63f1a8c9f70cb8151206173f8334829f8a

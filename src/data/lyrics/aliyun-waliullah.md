@@ -12,49 +12,49 @@ published: false
 romanLyrics: |-
   1
   Haye ali, haye ali
-  Zehra se poocho kya hai aliyun waliullah
-  Iske liye batool ka do baar ghar jala
+  Zehra se pucho kya hai aliyun waliullah
+  Iske liye batul ka do baar ghar jala
   Baghdad, sham o kufa, khurasan o karbala
-  Ummat ne fatema ko kahan dukh nahi diya
-  Sab kuch lutaya deen ki hifazat ke waaste
-  Zehra ujad gayi hai wilayat ke waaste
-  Darbar mein bachane gayi fathema zehra
+  Ummat ne fatema ko kahaṅ dukh nahi diya
+  Sab kuch lutaya diṅ ki hifazat ke waaste
+  Zehra ujar gayi hai wilayat ke waaste
+  Darbar meiṅ bachane gayi fathema zehra
   Aliyun waliullah, aliyun waliullah
-  Sunta na tha madine mein zehra ki koi baat
-  Lekar hassan hussain ko har subho apne saath
+  Sunta na tha madine meiṅ zehra ki koi baat
+  Lekar Hasan Husain ko har subho apne saath
   Ghar ghar pe yaad jaake dilaati thi sayyeda
   Aliyun waliullah, aliyun waliullah
-  Gham mein abu turaab ke ghut ghut ke mar gayi
+  Gham meiṅ abu turaab ke ghut ghut ke mar gayi
   Dar parda fatema ki wasiyat yehi to thi
-  Aaye na wo janaze par jisne nahi padha
+  Aaye na wo janaze par jisne nahi parha
   Aliyun waliullah, aliyun waliullah
-  Tooti hui thi phasliyan dam tha ruka hua
+  Tuti hui thi phasliyaṅ dam tha ruka hua
   Tha sayyeda pe jalta hua dar gira hua
-  Phir bhi labe batool pe jari thi ye sada
+  Phir bhi labe batul pe jari thi ye sada
   Aliyun waliullah, aliyun waliullah
-  Zainab pukari ay mere mazloom be watan
+  Zainab pukari ae mere mazlum bewatan
   Wada tumhari laash pe karti hai ye behan
-  Ek din zaroor shaam ki galiyon mein goonjega
+  Ek din zarur shaam ki galiyoṅ meiṅ goonjega
   Aliyun waliullah, aliyun waliullah
-  Aaye najaf se sham-e-ghariban mein jab ali
+  Aaye najaf se sham-e-gharibaṅ meiṅ jab ali
   Zainab ye kehke apne padar se lipat gayi
-  Khanjar talay bhi bhai ke zakhmi labon pe tha
+  Khanjar tale bhi bhai ke zakhmi laboṅ pe tha
   Aliyun waliullah, aliyun waliullah
-  Boli sakina aaya jo zindan mein sheh ka sar
+  Boli sakina aaya jo zindaṅ meiṅ sheh ka sar
   Kaise bata'un shaam ka kaise kiya safar
-  Gir gir ke khoon kano se deta raha sada
+  Gir gir ke khun kano se deta raha sada
   Aliyun waliullah, aliyun waliullah
-  Zindan mein ek qabr banane ke waaste
-  Hamsheer ka janaza uthane ke waaste
-  Nade ali ki shakl mein sajjad ne padha
+  Zindaṅ meiṅ ek qabr banane ke waaste
+  Hamshir ka janaza uthane ke waaste
+  Nade ali ki shakl meiṅ sajjad ne parha
   Aliyun waliullah, aliyun waliullah
-  Na mehramo ki bheed thi darbar e sham mein
-  Zainab ne de ke khutba zabane imam mein
-  Be waqt ki azan mein dabne nahi diya
+  Na mehramo ki bhir thi darbar e sham meiṅ
+  Zainab ne de ke khutba zabane imam meiṅ
+  Bewaqt ki azan meiṅ dabne nahi diya
   Aliyun waliullah, aliyun waliullah
-  Maa ki lehad pe bain takallum thay beti ke
+  Maa ki lehad pe bain takallum the beti ke
   Pehlu pe zakhm khaake bachaya tha aap ne
-  Maine rida luta ke bachaya hai ba-khuda
+  Maiṅ ne rida luta ke bachaya hai ba-khuda
   Aliyun waliullah, aliyun waliullah
 # source_id: nohayonline:605e7ccaf5ad86467332
 # source_url: https://www.nohayonline.com/details_content.php?id=18

@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Namaz e shab mein koi baap maangta hai dua
+  Namaz e shab meiṅ koi baap maangta hai dua
   Allah allah allah allah
-  Sukoon e dil ke liye kar mujhe sakina ataa
-  Jod kar nanhe se haathon ko sakina ne kaha
+  Sukun e dil ke liye kar mujhe sakina ataa
+  Jor kar nanhe se haathoṅ ko sakina ne kaha
   Kya isi din ke liye mujhko tha maanga baba
-  Jaane kyun jashn manate hai sata kar mujhko
-  Apne bachon ko hasate hai rula kar mujhko
-  Shamiyon ne mere rone ko tamasha samjha
+  Jaane kiuṅ jashn manate hai sata kar mujhko
+  Apne bachoṅ ko hasate hai rula kar mujhko
+  Shamiyoṅ ne mere rone ko tamasha samjha
   Kya isi din ke liye...
-  Jod kar nanhe se...
-  Baba jaan is ka sabab kya hai khuda hi jaane
-  Fatema naam kisi ko jo bataya maine
-  Be jhijhak us ne sakina ko tamacha maara
+  Jor kar nanhe se...
+  Baba jaaṅ is ka sabab kya hai khuda hi jaane
+  Fatema naam kisi ko jo bataya maiṅ ne
+  Bejhijhak us ne sakina ko tamacha maara
   Kya isi din ke liye...
-  Jod kar nanhe se...
-  Aap ne eid pe jo durr mujhe pehnaye thay
+  Jor kar nanhe se...
+  Aap ne eid pe jo durr mujhe pehnaye the
   Shimr ne kaano se is tarha wo gohar noche
-  Durr nahi khoon bhi hai shimr ke haathon mein mera
+  Durr nahi khun bhi hai shimr ke haathoṅ mein mera
   Kya isi din ke liye...
-  Jod kar nanhe se...
-  Qabr tak bhool na payegi tumhari beti
+  Jor kar nanhe se...
+  Qabr tak bhul na payegi tumhari beti
   Kaat kar ungli tumhari jo angothi khaynchi
   Pehn kar us ko hi zaalim ne tamacha maara
   Kya isi din ke liye...
-  Jod kar nanhe se...
-  Khums mein maang raha hai mera bhai chadar
-  Shaam ke log humein maar rahe hai patthar
-  Aurtein phenk rahi hai meri jaanib sadqa
+  Jor kar nanhe se...
+  Khums meiṅ maang raha hai mera bhai chadar
+  Shaam ke log humeiṅ maar rahe hai patthar
+  Aurteiṅ phenk rahi hai meri jaanib sadqa
   Kya isi din ke liye...
-  Jod kar nanhe se...
+  Jor kar nanhe se...
   Aap ki laash ko jis tarha se pamaal kiya
-  Jeete ji mera layeeno ne wohi haal kiya
-  Baandh kar ghodon se paidal mujhe daudaya gaya
+  Jite ji mera layino ne wohi haal kiya
+  Baandh kar ghoroṅ se paidal mujhe dauraya gaya
   Kya isi din ke liye...
-  Jod kar nanhe se...
-  Us ne abbas ke badle yun sakina se liye
-  Reh gaye haathon mein zaalim ke kuch baal mere
-  Mujhko aaya hi nahi koi chudane waala
+  Jor kar nanhe se...
+  Us ne abbas ke badle yuṅ sakina se liye
+  Reh gaye haathoṅ meiṅ zaalim ke kuch baal mere
+  Mujhko aaya hi nahi koi churane waala
   Kya isi din ke liye...
-  Jod kar nanhe se...
-  Sun ke mohsin ye buka karte thay sab arsh nasheen
-  Jo sakina thi sukoon us ke muqaddar mein nahi
-  Khoon mein doobi hai tumhari wo tahajjud ki dua
+  Jor kar nanhe se...
+  Sun ke mohsin ye buka karte the sab arsh nashiṅ
+  Jo sakina thi sukuṅ us ke muqaddar meiṅ nahi
+  Khuṅ meiṅ dubi hai tumhari wo tahajjud ki dua
   Kya isi din ke liye...
-  Jod kar nanhe se...
+  Jor kar nanhe se...
 # source_id: nohayonline:be428e99d1af1daa1cef
 # source_url: https://www.nohayonline.com/details_content.php?id=2779
 # raw_sha256: 0627bd1bb1ca188ade185d170bac1b9ff340a6815c4c90a1d0336717dd8f59fc

@@ -11,62 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab mashk e sakina pe laga teer sitam ka
-  Bikhre huwe laashon ne kaha haye hussaina
-  Be dast alamdar ko be-deeno ne maara
-  Ghode se gira khaak pe saqqa e sakina
+  Jab mashk e sakina pe laga tir sitam ka
+  Bikhre huwe laashoṅ ne kaha haye hussaina
+  Bedast alamdar ko bedeeno ne maara
+  Ghore se gira khaak pe saqqa e sakina
   Darya pe utha shor alamdar alamdar
   Saqqa e haram syed o salaar alamdar
-  Jaane se tere sheh ki kamar toot gayi hai
+  Jaane se tere sheh ki kamar tut gayi hai
   Abbas tera rasta behan dekh rahi hai
-  Shabbir huwe jeene se bezaar alamdar
+  Shabbir huwe jine se bezaar alamdar
   Abbas abbas abbas alamdar
   Darya pe utha shor...
-  Pahunchi ye khabar qaima e shabbir mein jis dam
+  Pahunchi ye khabar qaima e shabbir meiṅ jis dam
   Shabbir kamar thaam ke karne lage matam
-  Ye bain kiye ay mere gham khaar alamdar
+  Ye bain kiye ae mere gham khaar alamdar
   Abbas abbas abbas alamdar
   Darya pe utha shor...
-  Haathon mein liye kooze tadapte rahe pyase
-  Aur pyason ke halqe mein sakina ke thay naale
-  Pyason pe fida hogaya gham khaar alamdar
+  Haathoṅ meiṅ liye kuze tarapte rahe pyase
+  Aur pyasoṅ ke halqe meiṅ sakina ke the naale
+  Pyasoṅ pe fida hogaya gham khaar alamdar
   Abbas abbas abbas alamdar
   Darya pe utha shor...
-  Sadaat ko jab lootne aayenge sitamgar
+  Sadaat ko jab lutne aayenge sitamgar
   Phir kaun bachayega teri behna ki chadar
   Aaja meri chadar ke nigehdaar alamdar
   Abbas abbas abbas alamdar
   Darya pe utha shor...
-  Bain sakina ne kiya haye alamdare hussain
-  Nahar se ajao chacha haye alamdare hussain
-  Karti hoo mai ye ilteja haye alamdare hussain
-  Mujhe na tadpao chacha haye alamdare hussain
-  Baazu e saqqae haram haye alamdare hussain
-  Jab huwe darya pe qalam haye alamdare hussain
-  Rone lage shaah e umam haye alamdare hussain
-  Is se bada nahi sitam haye alamdare hussain
-  Abbas ke nazdeek jo pahunche shah e waala
-  Sar bhai ka ye kehte huwe godh mein rakha
+  Bain sakina ne kiya haye alamdare Husain
+  Nahar se ajao chacha haye alamdare Husain
+  Karti hoo mai ye ilteja haye alamdare Husain
+  Mujhe na tarpao chacha haye alamdare Husain
+  Baazu e saqqae haram haye alamdare Husain
+  Jab huwe darya pe qalam haye alamdare Husain
+  Rone lage shaah e umam haye alamdare Husain
+  Is se bara nahi sitam haye alamdare Husain
+  Abbas ke nazdik jo pahunche shah e waala
+  Sar bhai ka ye kehte huwe godh meiṅ rakha
   Tum to meri fauj ke salaar alamdar
   Abbas abbas abbas alamdar
   Darya pe utha shor...
-  Ay dhaaras e shabbir zara aankhein to kholo
+  E dhaaras e shabbir zara aankheiṅ to kholo
   Hasrat hai ke ek baar mujhe bhai to bolo
   Kya yaad hai bachpan ka tumhe pyar alamdar
   Abbas abbas abbas alamdar
   Darya pe utha shor...
   Qasim bhi gaye aun o mohamed bhi sidhare
   Akbar bhi chale jayenge ab baad tumhare
-  Koi na raha saaya e deewar alamdar
+  Koi na raha saaya e diwar alamdar
   Abbas abbas abbas alamdar
   Darya pe utha shor...
-  Deti thi yehi zainab e dilgeer duhaai
-  Mai tere sahare pe watan chod ke aayi
-  Kyun chod ke jaate ho wafadar alamdar
+  Deti thi yehi zainab e dilgir duhaai
+  Mai tere sahare pe watan chor ke aayi
+  Kiuṅ chor ke jaate ho wafadar alamdar
   Abbas abbas abbas alamdar
   Darya pe utha shor...
   Ghazi ki shahadat pe qayamat ka tha manzar
-  Kar sakta nahi koi bayan mesum o mazhar
+  Kar sakta nahi koi bayaṅ mesum o mazhar
   Alfaaz ka lashkar hai qalamkaar alamdar
   Abbas abbas abbas alamdar
   Darya pe utha shor...

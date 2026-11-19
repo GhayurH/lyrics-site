@@ -11,7 +11,7 @@ published: false
 # source_id: tajpoints:f2749797c2810830973a
 # source_url: https://tajpoints.com/2024/01/ali-walon-ko-ali-mubarak-syed-raza.html
 # raw_sha256: 280cdbe807f87226a7caddcaa518252572659df80974defd1af3fcba4fc096b4
-alternateTitle: "Ali Walon Ko Ali Mubarak"
+alternateTitle: "Ali Waloṅ Ko Ali Mubarak"
 reciter: "Syed Raza Abbas Zaidi"
 romanLyrics: |-
   1
@@ -95,7 +95,7 @@ romanLyrics: |-
   14
   Yeh Hans Kar Abuzar Se Salman Bolay.
   Chalo Pas Ja Kar Kahin Sheikh Jee Se.
-  Yahan Kyun Kharey Hain Sharafat Se Ja Kar Kahin Ya Ali Mubarak Ho.
+  Yahan Kiun Kharey Hain Sharafat Se Ja Kar Kahin Ya Ali Mubarak Ho.
   Bari Aarzu Hai Keh Woh Din Bhi Dekhein.
 
   15

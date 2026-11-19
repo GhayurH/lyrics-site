@@ -10,46 +10,46 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Karti thi buka shaam ke zindan mein sakina
+  Karti thi buka shaam ke zindaṅ meiṅ sakina
   Baba mere baba baba mere baba
 
   1
   Aa jaaiye aa jaaiye ab jald khudara
 
   2
-  Mai dar pe khadi takti thi jab aap ka rasta
-  Ek loot machi aag lagi zulm ye toota
-  Hum par thi qayamat ki ghadi haste thay aada
+  Mai dar pe khari takti thi jab aap ka rasta
+  Ek lut machi aag lagi zulm ye tuta
+  Hum par thi qayamat ki ghari haste the aada
 
   3
-  Jab khaynch rahe thay mere durr kaano se ashraar
-  Aur zad pe tamachon ke thay baba mere ruqsaar
+  Jab khaynch rahe the mere durr kaano se ashraar
+  Aur zad pe tamachoṅ ke the baba mere ruqsaar
   Ammu ko kabhi tum ko bulaati thi mai dukhiya
 
   4
-  Phir baand ke rassi mein hamay haye khule sar
-  Bazaron mein darbaron mein laaye ye sitamgar
+  Phir baand ke rassi meiṅ hame haye khule sar
+  Bazaroṅ meiṅ darbaroṅ meiṅ laaye ye sitamgar
   Khaati thi tamache mai tumhe jab bhi pukara
 
   5
-  Jab tak na sula lete thay seene pe mujhe aap
-  Karte na thay apne se juda haye mujhe aap
-  Kya mujhse khata hogayi kyun aap ne choda
+  Jab tak na sula lete the sine pe mujhe aap
+  Karte na the apne se juda haye mujhe aap
+  Kya mujhse khata hogayi kiuṅ aap ne chora
 
   6
-  Mai khaak basar nauha kuna shaam o sahar hoon
-  Ab taalib e deedar e shahe jinn o bashar hoon
-  Khud aap hi aaye na qaza ne mujhe poocha
+  Mai khaak basar nauha kuna shaam o sahar huṅ
+  Ab taalib e didar e shahe jinn o bashar huṅ
+  Khud aap hi aaye na qaza ne mujhe pucha
 
   7
   Zinda na rahungi mai agar aap na aaye
-  Mar jaungi zinda hi mai ek roz mein haye
+  Mar jaungi zinda hi mai ek roz meiṅ haye
   Ab mujhko judaai nahi ek pal bhi gawara
 
   8
-  Phat'ta tha jigar maa ka phupi jaan balab thi
-  Sajjad tadapte thay ghadi gham ki ajab thi
-  Masroor wo jab kehti thi laut aaiye baba
+  Phat'ta tha jigar maa ka phupi jaaṅ balab thi
+  Sajjad tarapte the ghari gham ki ajab thi
+  Masrur wo jab kehti thi laut aaiye baba
 # source_id: nohayonline:89b440b5bac20a37b0b6
 # source_url: https://www.nohayonline.com/details_content.php?id=3449
 # raw_sha256: 12201ac89241205c950e5fc1d686e4a4abe8877f3a92061ce6329293e5acfc4a

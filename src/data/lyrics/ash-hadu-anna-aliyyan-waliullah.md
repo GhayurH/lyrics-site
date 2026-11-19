@@ -25,7 +25,7 @@ romanLyrics: |-
   3
   Darbar may bachanay,  gai Fatima Zahra, Ali un Wali Ullah
   Sunta na tha Madinay may Zahra ki koi baat
-  Lay ker Hassan Hussain ko her subah apnay sath
+  Lay ker Hasan Husain ko her subah apnay sath
   Ghar ghar pe yad ja k,  dilate thee Syeddah, Ali un Wali Ullah
 
   4

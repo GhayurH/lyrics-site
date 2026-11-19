@@ -1,6 +1,6 @@
 ---
 title: "سر علی کا سجدۂ خالق میں ضربت کے لیے"
-alternateTitle: "Sar Ali Ka Sajda-e-Khaaliq Mein Zarbat Ke Liye"
+alternateTitle: "Sar Ali Ka Sajda-e-Khaaliq Meiṅ Zarbat Ke Liye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

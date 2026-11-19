@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Kya andhera hai phuphi, kya andhera hai phuphi
-  Qaid khaane meiṅ Sakina ye bayaan karti thi
+  Qaid khaane meiṅ Sakina ye bayaaṅ karti thi
   Shama mangwaaiye warna maiṅ nahiṅ jine ki
 
   1
@@ -19,7 +19,7 @@ romanLyrics: |-
   Dil dharakta hai mera khauf se tharraata hai ji
 
   2
-  Kiuṅ lain qaid meiṅ laaye haiṅ mujhe kya malum
+  Kiuṅ laiṅ qaid meiṅ laaye haiṅ mujhe kya malum
   Haye Baba mazlum
   Gaye maidaan ko jis din se khabar meri na li
 

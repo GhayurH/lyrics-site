@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haathon may ali asghar ko liye
-  Shabbir sadaa ye dete thay
+  Haathoṅ may ali asghar ko liye
+  Shabbir sadaa ye dete the
   Kya mujhse ladegi fauje jafa
   Nau laakh is lashkar ke liye
   Mere asghar kaafi hai
-  Khud iski sana quran ki tarha
+  Khud iski sana quraṅ ki tarha
   Quran shuja'at karta hai
   Ye sher e khuda ka pota hai
-  Talwaar bina ladne ke liye
+  Talwaar bina larne ke liye
   Mera asgar kaafi hai...
   Kamsin hai magar lachaar nahi
   Abbas ke jaise tewar hai
   Bas ek ishaare se apne
-  Toofan bapa kar ne ke liye
+  Tufan bapa kar ne ke liye
   Mera asgar kaafi hai...
   Ro de to baras jaaye badal
   Bole to qayamat aa jaye
-  Ay marhabe dashte karbobala
+  Ae marhabe dashte karbobala
   Khyber ko tere dhaane ke liye
   Mera asgar kaafi hai...
-  Ummat pe jafa manzoor nahi
-  Mai saabir hoo majboor nahi
+  Ummat pe jafa manzur nahi
+  Mai saabir hoo majbur nahi
   Ye hukme mashiyat hai warna
   Abbas tere badle ke liye
   Mera asgar kaafi hai...
   Allaah re himmat bano ki
   Khud fauje sitam se kehti thi
-  Shabbir pe teer na barsao
-  Har teer e sitam khaane ke liye
+  Shabbir pe tir na barsao
+  Har tir e sitam khaane ke liye
   Mera asgar kaafi hai...
   Jab aayi sakina maqtal may
   Ek laash se aati thi ye sada
   Madaar ki godh may sojao
-  Pehlu may mere so ne ke liye
+  Pehlu me mere so ne ke liye
   Mera asgar kaafi hai...
   Sughra ko khabar ye ho na saki
   Dunya se gaya pyasa bhai
   Usne to likha hai khat may yehi
-  Ay baba mere jeene ke liye
+  Ae baba mere jine ke liye
   Mera asgar kaafi hai...
   Rehaan nahi fikre mehshar
   Jab baab e hawaij hai asghar
   Firdaus may ibne zahra ke
-  Qadmon may jagah paane ke liye
+  Qadmoṅ may jagah paane ke liye
   Mera asgar kaafi hai...
 # source_id: nohayonline:359dbf9a5b9804ad577e
 # source_url: https://www.nohayonline.com/details_content.php?id=2414

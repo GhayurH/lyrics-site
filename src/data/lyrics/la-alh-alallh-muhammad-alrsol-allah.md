@@ -10,34 +10,34 @@ published: false
 romanLyrics: |-
   1
   La ilaha il allah Muhammadur Rasooallah
-  Ki lazawal darsgah Hussain hay
+  Ki lazawal darsgah Husain hay
   Na jis ki koi nazeer hay na jis ki koi misal hay
-  Woh be misal shahnshah Hussain hay
+  Woh be misal shahnshah Husain hay
 
   2
   Hussian roh-e-kainat hay
-  Hussain fakhr-e-moajzat hay
+  Husain fakhr-e-moajzat hay
   Khuda ne jis ko marhaba
   Hay nafs-e-mutmaen kaha
-  Woh Karbala ka Mustafa Hussain hay
+  Woh Karbala ka Mustafa Husain hay
 
   3
-  Hussain la ilah ki zindagi
-  Hussain ambiya ki bandagi
+  Husain la ilah ki zindagi
+  Husain ambiya ki bandagi
   La ilah se pooch lo
   Ke sari kainat may
-  Siraf bina-e-la ilah Hussain hay
+  Siraf bina-e-la ilah Husain hay
 
   4
-  Hussain deen ka shabab hay
-  Hussain dars ki kitab hay
+  Husain deen ka shabab hay
+  Husain dars ki kitab hay
   Kafan ke band khol kar
   Bulaya jis ne maa ne khud
-  Woh Fatima ka ladla Hussain hay
+  Woh Fatima ka ladla Husain hay
 
   5
   Tarap chuki Shabeeh-e-Mustafa
-  Magar Hussain hi datta hua
+  Magar Husain hi datta hua
   Pisar jawan ki lash pe
   Hay mutmaen khara raha
   Yeh woh khaleel-e-Karbala Husssain hay
@@ -47,7 +47,7 @@ romanLyrics: |-
   Kafan hay jis ka khak-e-Karbala
   Kafan behan na kar saki
   Hay dhoop may para raha
-  Yeh woh ghareeb-e-Karbala Hussain hay
+  Yeh woh ghareeb-e-Karbala Husain hay
 # source_id: ziyaraat:7a81895cd59500c71a94
 # source_url: https://www.ziyaraat.net/api/noha/2245
 # raw_sha256: 751f0dbad4ed2fafe4eb74c9b2ca943cc6ccd6899c00cebb27152df24c229a82

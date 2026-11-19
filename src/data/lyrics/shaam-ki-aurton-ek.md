@@ -1,6 +1,6 @@
 ---
 title: "شام کی عورتوں ایک وعدہ کرو"
-alternateTitle: "Shaam Ki Aurton Ek"
+alternateTitle: "Shaam Ki Aurtoṅ Ek"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,14 +11,14 @@ aliases: []
 published: false
 # editorial_note: "One stanza restored from the TajPoints Roman witness; Urdu manually transcribed for comparison at final review."
 romanLyrics: |-
-  Shaam ki aurton ek waada karo
+  Shaam ki aurtoṅ ek waada karo
   Roz qabre sakina pe aaogi tum
-  Jab talak laut kar mai na aaun
+  Jab talak laut kar mai na aauṅ
   Aake shamma jalaogi tum
 
   1
-  Surate Shahe Deen Bekafan Bhi,
-  Mere Jaisi Aseer-e-Mehen Bhi
+  Surate Shahe Diṅ Bekafan Bhi,
+  Mere Jaisi Asir-e-Mehen Bhi
   Khaali Kurte Mai Madhfun-e-Ghurbat,
   Misl-e-Asghar Rahi Bekafan Bhi
   Kya Kafan Ki Tarah Roz Chadar,
@@ -26,14 +26,14 @@ romanLyrics: |-
 
   2
   Ek yasrab ki thi shaahzadi
-  Uska saqqa tha abbas e ghazi
+  Uska saqqa tha abbas-e-ghazi
   Mashq le kar gaya suye darya
   Aur khabze mai karli taraayi
-  Loriyon mein ye sachi kahani
+  Loriyoṅ meiṅ ye sachi kahani
   Roz isko suna'ogi tum
 
   3
-  Humne zindan se paayi rehaai
+  Humne zindaṅ se paayi rehaai
   Ab behen paas hogi na bhai
   Baat itni si bas yaad rakhna
   Meri bachi hai gham ki satayi
@@ -41,15 +41,15 @@ romanLyrics: |-
   Ab na isko sataogi tum
 
   4
-  Jab kabhi qaid khane mein aana
-  Berida bibiyon ko na laana
-  Tumko asghar bhi dega duayein
-  Iski tanhaiyan yun mitana
-  Chote chote se bachon ko laa kar
+  Jab kabhi qaid khane meiṅ aana
+  Berida bibiyoṅ ko na laana
+  Tumko asghar bhi dega duayeiṅ
+  Iski tanhaiyaṅ yuṅ mitana
+  Chote chote se bachoṅ ko laa kar
   Paas iske sula'ogi tum
 
   5
-  Qabre bekas pe aansoo bahane
+  Qabre bekas pe aansu bahane
   Haal qaide sitam ka sunane
   Khafila karbala ko chala hai
   Iske baba ka chehlum manane
@@ -57,15 +57,15 @@ romanLyrics: |-
   Iska chehlum mana'ogi tum
 
   6
-  Main sikhaati hoon gham ka saliqa
+  Maiṅ sikhaati huṅ gham ka saliqa
   Kaise behlaogi dil dukhi ka
   Jab bhi rone ki aawaaz aaye
   Naam lena tum Ibn-e-Ali ka
-  Baba aate hain aate hain Bibi
+  Baba aate haiṅ aate haiṅ Bibi
   Bas yehi kehti jaaogi tum
 
   7
-  Shamiyon ki bahu betiyon se
+  Shamiyoṅ ki bahu betiyoṅ se
   Keh rahi thi wo akbar ye roke
   Ye amanat hai pardesiyo ki
   Kar rahi hoo tumhare hawale

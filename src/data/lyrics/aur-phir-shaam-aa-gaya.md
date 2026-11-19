@@ -12,92 +12,92 @@ published: false
 romanLyrics: |-
   1
   Karb o bala se loat ke aaya jo qafla
-  Qabr e Nabi pe matam e Shabbir jab hua
-  Zainab ne baal kholay Nabi ke mazaar par
-  Boli luta ke aayi hoon jangal may saara ghar
-  Aray Nana
-  May roti rahi mera ghar ujrra tera deen bacha Nana
-  Laikin meray Hussain ne waada nibha diya
+  Qabr-e-Nabi pe matam-e-Shabbir jab hua
+  Zainab ne baal khole Nabi ke mazaar par
+  Boli luta ke aayi huṅ jangal may saara ghar
+  Are Nana
+  May roti rahi mera ghar ujrra tera din bacha Nana
+  Laikin mere Husain ne waada nibha diya
 
   2
-  Hussain ya Hussain ya Hussain
+  Husain ya Husain ya Husain
 
   3
-  Nana teray sheher se chala
-  Zehra ka laadla Deen ke kaam aa gaya
-  Salaar e qafla ban gaya beemar natawan
+  Nana tere sheher se chala
+  Zehra ka laadla Din ke kaam aa gaya
+  Salaar-e-qafla ban gaya bimar natawaṅ
   Aur phir Shaam aa gaya
 
   4
-  Raahon ke sangrezon ne pursa diya usay
-  Haey Nana Shaam walon ne baaghi kaha usay
-  Aey deen ke badshah teray is mazloom laal par
+  Raahoṅ ke sangrezon ne pursa diya use
+  Hae Nana Shaam waloṅ ne baaghi kaha use
+  Ae din ke badshah tere is mazlum laal par
   Ye bhi ilzaam aa gaya
   Aur phir Shaam aa gaya
-  Nana teray sheher se....
+  Nana tere sheher se....
 
   5
-  Aey Nana baazuon may jab baandhi gayi rasan
-  May ro parhi to naize se bolay Shah e zaman
-  Aey behna gham saho har gharhi ummat ke wastay
+  Ae Nana baazuoṅ may jab baandhi gayi rasan
+  May ro parhi to naize se bole Shah e zaman
+  Ae behna gham saho har gharhi ummat ke waste
   Sun ke aaram aa gaya
   Aur phir Shaam aa gaya
-  Nana teray sheher se....
+  Nana tere sheher se....
 
   6
-  Nana bataoon kaise may kiya ho gaye sitam
-  Kufay ke dar pe jaise hi pohonchay aseer e gham
-  Abid ke lab hilay dekh kar Muslim ki laash ko
+  Nana batauṅ kaise may kiya ho gaye sitam
+  Kufe ke dar pe jaise hi pohonche asir-e-gham
+  Abid ke lab hile dekh kar Muslim ki laash ko
   Lab pe Ash-Shaam aa gaya
   Aur phir Shaam aa gaya
-  Nana teray sheher se....
+  Nana tere sheher se....
 
   7
-  Waan ik Yahoodi rehta tha Bahya tha jis ka naam
-  Wo kalma parrh ke chaadarain le aaya khush kharam
-  Phir chadarain chini phir wohi behurmati hui
+  Waaṅ ik Yahudi rehta tha Bahya tha jis ka naam
+  Wo kalma parrh ke chaadaraiṅ le aaya khush kharam
+  Phir chadaraiṅ chini phir wohi behurmati hui
   Sabr phir kaam aa gaya
   Aur phir Shaam aa gaya
-  Nana teray sheher se....
+  Nana tere sheher se....
 
   8
-  Koofay may ham jo aa gaye beparda noha gar
-  Kehta tha Koofay walon se ye shimr e bad gohar
-  Hakim ko do khabar laya hoon naizon pe sab ke sar
-  Lenay in-aam aa gaya
+  Kufe may ham jo aa gaye beparda noha gar
+  Kehta tha Kufe waloṅ se ye shimr e bad gohar
+  Hakim ko do khabar laya huṅ naizoṅ pe sab ke sar
+  Lene in-aam aa gaya
   Aur phir Shaam aa gaya
-  Nana teray sheher se....
+  Nana tere sheher se....
 
   9
-  Abid ko aa ke Khooli ne gham ki khabar ye di
-  Hakim ke samnay abhi peshi hay aap ki
+  Abid ko aa ke Khuli ne gham ki khabar ye di
+  Hakim ke samne abhi peshi hai aap ki
   Nana ye saneha aap ke sadaat ke liye
   Ban ke kohraam aa gaya
   Aur phir Shaam aa gaya
-  Nana teray sheher se....
+  Nana tere sheher se....
 
   10
-  Beghairaton ke shahr may sadaat aa gayay
-  Pohonchay jo dil ko thaam ke haakim ke saamnay
-  Aey Nana us gharri aik ik bibi ke zehn may
+  Beghairaton ke shahr may sadaat aa gaye
+  Pohonche jo dil ko thaam ke haakim ke saamne
+  Ae Nana us gharri aik ik bibi ke zehn may
   Tera zarghaam aa gaya
   Aur phir Shaam aa gaya
-  Nana teray sheher se....
+  Nana tere sheher se....
 
   11
-  Wo batain likh saka hi nahi Mazhar Abidi
-  Jo keh rahi thi Nana se beti Batool ki
-  Aey Nana meray dard ka Irfan hay jisay
-  Aray ansoo na ruk sakain gay kabhi us ki ankh se
+  Wo bataiṅ likh saka hi nahi Mazhar Abidi
+  Jo keh rahi thi Nana se beti Batul ki
+  Ae Nana mere dard ka Irfan hai jise
+  Are ansu na ruk sakaiṅ ge kabhi us ki ankh se
 
   12
-  Jab Shaam pohoncha qafila - haey haey haey
-  Sadaat may kohraam tha - haey haey
-  Pathar bhi lagay, sau zakhm sahay
-  Durray lagay, tanay sahay
-  Sab hanstay rahay, ham rotay rahay
-  Bas haey Hussaina kehtay rahay
-  Hussain ya Hussain ya Hussain
+  Jab Shaam pohoncha qafila - hai hai hai
+  Sadaat may kohraam tha - hai hai
+  Pathar bhi lage, sau zakhm sahe
+  Durre lage, tane sahe
+  Sab hanste rahe, ham rote rahe
+  Bas hae Hussaina kehte rahe
+  Husain ya Husain ya Husain
 # source_id: ziyaraat:1b1ab03ac3cc897370ab
 # source_url: https://www.ziyaraat.net/api/noha/1943
 # raw_sha256: ed5aa7470063b2f3c0bc10503c2690842cfc61ebf97e5f0c4150bf984ce4d5c8

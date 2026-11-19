@@ -1,6 +1,6 @@
 ---
 title: "شیریں میں آ گیا"
-alternateTitle: "Shireen Mai Aagaya"
+alternateTitle: "Shiriṅ Mai Aagaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,57 +11,57 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Lut ke jab khaafla shireen ke makan tak pahuncha
-  Nok e naiza se ye aane lagi maula ki sada
+  Lut ke jab khaafla shiriṅ ke makaṅ tak pahuncha
+  Nok-e-naiza se ye aane lagi maula ki sada
   Waada hua wafa ek sar ne di sada
-  Shireen mai aagaya
-  Ghar mera lut gaya zainab hai be rida
-  Shireen mai aagaya
+  Shiriṅ mai aagaya
+  Ghar mera lut gaya zainab hai berida
+  Shiriṅ mai aagaya
 
   1
   Kuch dayr ke liye hai tere ghar may bas qayam
-  Jaldi se kar ghareeb ki majlis ka ehtamam
+  Jaldi se kar gharib ki majlis ka ehtamam
   Aayi hai fatema farshe aza bicha
 
   2
-  Maare hai sang shehr ke logon ne is qadar
+  Maare hai sang shehr ke logoṅ ne is qadar
   Behno ke saath saath hai zakhmi mera bhi sar
-  Pehchaan ab zara chehra lahoo bhara
+  Pehchaan ab zara chehra lahu bhara
 
   3
   Wo keh rahi thi bhai mujhe sharm aayegi
-  Shireen ko binte fatema kya moo dikhayegi
+  Shiriṅ ko binte fatema kya moo dikhayegi
   Zainab hai berida ghar ke diye bujha
 
   4
-  Pairon se meri behno ke kaante nikaal le
+  Pairoṅ se meri behno ke kaante nikaal le
   Wo dekh gir rahi hai sakina sambhaal le
-  Le kar tumhare ghar pyason ka khaafla
+  Le kar tumhare ghar pyasoṅ ka khaafla
 
   5
-  Ruqsat ke din ridayein tujhe di thi kis liye
+  Ruqsat ke din ridayeiṅ tujhe di thi kis liye
   Sar nange mere kunbe ki haalat se jaan le
-  Ab waqt aagaya laa chadarein wo laa
+  Ab waqt aagaya laa chadareiṅ wo laa
 
   6
-  Zakhmon se choor chehre ko pechaanti to ho
-  Mehman tum hussain ko ab maanti to ho
-  Badh kar utaaro phir naize se sar mera
+  Zakhmoṅ se chur chehre ko pechaanti to ho
+  Mehman tum Husain ko ab maanti to ho
+  Barh kar utaaro phir naize se sar mera
 
   7
-  Baraat le ke aaya hoo kadiyal jawan ki
-  Haalat magar ajeeb hai is khaandan ki
+  Baraat le ke aaya hoo kariyal jawan ki
+  Haalat magar ajib hai is khaandan ki
   Dulha ke saath hai naize pe sar mera
 
   8
-  Taane tu roz sunti thi wo bhool jayenge
-  Itne ameer log tere ghar kyun aayenge
+  Taane tu roz sunti thi wo bhul jayenge
+  Itne amir log tere ghar kiuṅ aayenge
   Jaa unse kehde jaa naize pe hoo to kya
 
   9
-  Shireen rida sambhal ke dar ki taraf badhi
-  Haye hussain keh ke takallum wo ro padi
-  Zakhmi labon se jab aane lagi sada
+  Shiriṅ rida sambhal ke dar ki taraf barhi
+  Haye Husain keh ke takallum wo ro pari
+  Zakhmi laboṅ se jab aane lagi sada
 # source_id: nohayonline:245d62f6db4f965d6422
 # source_url: https://www.nohayonline.com/details_content.php?id=2568
 # raw_sha256: 23f65fda8f36e5a2745f3a2694028191b0922d43b8d8c9f3a34732fe33f553cb

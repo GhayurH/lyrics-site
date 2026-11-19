@@ -1,6 +1,6 @@
 ---
 title: "کہتی ہے سحر غم کی اکبر تو کہاں ہے"
-alternateTitle: "Akbar Tu Kahan Hai"
+alternateTitle: "Akbar Tu Kahaṅ Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

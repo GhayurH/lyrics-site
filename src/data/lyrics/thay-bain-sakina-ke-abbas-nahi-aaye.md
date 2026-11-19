@@ -1,6 +1,6 @@
 ---
 title: "تھے بین سکینہ کے عباس نہیں آئے"
-alternateTitle: "Thay Bain Sakina Ke"
+alternateTitle: "The Bain Sakina Ke"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,24 +10,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Thay bain sakina ke abbas nahi aaye
+  The bain sakina ke abbas nahi aaye
 
   1
   Darya pa gaye aise abbas nahi aaye
-  Aisa to na hota tha jab tak thay madine may
+  Aisa to na hota tha jab tak the madine may
   Kya karbobala aaye abbas nahi aaye
 
   2
-  Dil wahi thi maine hi Baba se rida ran ki
-  Faryaad karun kis se Abbas nahi aaye
+  Dil wahi thi maiṅ ne hi Baba se rida ran ki
+  Faryaad karuṅ kis se Abbas nahi aaye
 
   3
   Jis tarah se nikle the us tarah Madine ko
   Kis tarah se lautenge Abbas nahi aaye
 
   4
-  Ek mai hi na thi pyasi bache bhi to pyase thay
-  Kyun rooth gaye mujhse abbas nahi aaye
+  Ek mai hi na thi pyasi bache bhi to pyase the
+  Kiuṅ ruth gaye mujhse abbas nahi aaye
 
   5
   Panchi hoke maanus ho har shaam palat'te hai
@@ -38,20 +38,20 @@ romanLyrics: |-
   Durr chhine gaye mere Abbas nahi aaye
 
   7
-  Kehde koi sughra se hum bhoole nahi tujhko
+  Kehde koi sughra se hum bhule nahi tujhko
   Hum kabke ghar aajate abbas nahi aaye
 
   8
   Ab chadare zainab ka allah muhafiz hai
-  Parde ke jo zaamin thay abbas nahi aaye
+  Parde ke jo zaamin the abbas nahi aaye
 
   9
   Bemaar bhatije par nanhi si bhatiji par
-  Kya kya na sitam toote abbas nahi aaye
+  Kya kya na sitam tute abbas nahi aaye
 
   10
   Darbar ki aarayish aur qaidi rasan basta
-  Chaubees pahar guzre abbas nahi aaye
+  Chaubis pahar guzre abbas nahi aaye
 
   11
   Kuch yaad nahi aata aisa bhi hua sibte

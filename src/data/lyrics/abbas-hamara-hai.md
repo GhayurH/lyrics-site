@@ -12,64 +12,64 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas e ali aaye khareeb e shehe abrar
+  Abbas-e-ali aaye khareeb-e-shehe abrar
   Bhai ko alam deke kiya sheh ne bahot pyar
   Has has ke rafeeko se ye karne lage guftar
   Jaisi ye meri fauj hai waisa hi alamdar
-  Ghazi sa koi deen ka sardar na hoga
-  Abbas sa dunya mein alamdar na hoga
+  Ghazi sa koi din ka sardar na hoga
+  Abbas sa dunya meiṅ alamdar na hoga
   Saqi abbas hamara hai alamdar hamara
-  Hashim ka qamar hyder e karrar ka pyara
+  Hashim ka qamar hyder-e-karrar ka pyara
   Saqi abbas hamara hai…
   Hyder ke gharane ki saqawat saqi abbas
-  Khoone abu talib ki sadaqat saqi abbas
-  Zehra ki dua'on ki taharat saqi abbas
+  Khune abu talib ki sadaqat saqi abbas
+  Zehra ki dua'oṅ ki taharat saqi abbas
   Khudrat ne banaya nahi phir aisa dubara
   Saqi abbas hamara hai…
-  Quran e wafa sher e nayastane ali hai
+  Quran-e-wafa sher-e-nayastane ali hai
   Zehra ki tamanna hai dil o jaane ali hai
-  Is ke liye bachpan hi se farman e ali hai
+  Is ke liye bachpan hi se farman-e-ali hai
   Mai ilm ka darya hoo ye darya ka kanara
   Saqi abbas hamara hai…
-  Paida huve abbas to godi mein utha kar
+  Paida huve abbas to godi meiṅ utha kar
   Zainab ne rakha naam kaleje se laga kar
   Chota sa alam sheh ne diya unko saja kar
   Dekha jo alam ne to alam khud ye pukara
   Saqi abbas hamara hai…
-  Ye panjetan e paak ke lashkar ka nishan hai
-  Kehte hai ye shabbir mera sher e jawan hai
-  Aisa koi dunya mein alamdar kahan hai
+  Ye panjetan-e-paak ke lashkar ka nishaṅ hai
+  Kehte hai ye shabbir mera sher-e-jawaaṅ hai
+  Aisa koi dunya meiṅ alamdar kahaṅ hai
   Sehwan se hai shehbaz qalandar ka ye nara
   Saqi abbas hamara hai…
-  Abbas e ali roohe wafa jaane wafa hai
-  Abbas e ali fatema zehra ki dua hai
-  Har waqt alam choomti rehti ye hawa hai
-  Bhoola nahi abbas ko darya ka kanara
+  Abbas-e-ali ruhe wafa jaane wafa hai
+  Abbas-e-ali fatema zehra ki dua hai
+  Har waqt alam chumti rehti ye hawa hai
+  Bhula nahi abbas ko darya ka kanara
   Saqi abbas hamara hai…
-  Dunya e shahadat mein kahan uska hai saani
-  Jo saare shaheedo ki safon mein raha ghazi
-  Be-dast bhi hokar jo bhare jholiyan sabki
+  Dunya e shahadat meiṅ kahaṅ uska hai saani
+  Jo saare shaheedo ki safoṅ meiṅ raha ghazi
+  bedast bhi hokar jo bhare jholiyan sabki
   Hashim ka qamar saare fakhiro ka sahara
   Saqi abbas hamara hai…
   Laazim hai ke hum dekhenge ek roz ye manzar
-  Farmeinenge jab mehdi e daura sar-e-mimbar
+  Farmeinenge jab mehdi-e-daura sar-e-mimbar
   Kaabe se namudar jo hoga mera lashkar
   Hoga yehi lashkar ka alamdar hamara
   Saqi abbas hamara hai…
   Yaad aata hai wo ruqsate abbas ka manzar
-  Wo rona sakina ka pharayre ko pakad kar
+  Wo rona sakina ka pharayre ko pakar kar
   Wo dekhna zainab ka kabhi ghar kabhi chadar
   Kehti thi palat aayein behen bhai ka pyara
   Saqi abbas hamara hai…
   Abbas gaye hogaya maula mera tanha
-  Dekha kabhi maidan to kabhi jaanib e darya
+  Dekha kabhi maidaṅ to kabhi jaanib-e-darya
   Nagaah alam nehr pe girte huwe dekha
   Zainab se kaha sher gaya nehr pe maara
   Saqi abbas hamara hai…
-  Ay sarwar o rehaan ye emaan hai apna
+  Ae sarwar o rehaan ye emaan hai apna
   Abbas ke parcham ka sada sar pe hai saaya
-  Padne ke liye hashr mein shabbir ka noha
-  Abbas bulayenge hamein kar ke ishara
+  Parne ke liye hashr meiṅ shabbir ka noha
+  Abbas bulayenge hameiṅ kar ke ishara
   Saqi abbas hamara hai…
 # source_id: nohayonline:e3d7f1d3c53484c96312
 # source_url: https://www.nohayonline.com/details_content.php?id=332

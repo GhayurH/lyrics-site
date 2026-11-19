@@ -11,37 +11,37 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye wo shaam e ghariban wo andhera sehra
+  Haye wo shaam e gharibaṅ wo andhera sehra
   Jalte qaimon se chali ran ki taraf ek dukhiya
-  Aag daaman may thi kaano se lahoo jaari tha
+  Aag daaman may thi kaano se lahu jaari tha
   Baap ki laash pe aa kar ye sakina ne kaha
   Kab se awaaz tumhe deti hoo pyare baba
   Mujhse pehle bhala tum so gaye kaise baba
   Utho baba utho baba utho baba
-  Shaam e ghariban may tha sakina ka nauha
+  Shaam e gharibaṅ may tha sakina ka nauha
   Utho baba utho baba utho baba utho baba
-  Mai karungi na tamachon ki kabhi tum se shikayat
+  Mai karungi na tamachoṅ ki kabhi tum se shikayat
   Kya nahi aap ko baba apni beti se mohabbat
   Dekho phupi se aa gaye milne ko dada
   Utho baba...
-  Tum ko zehmat na ho patthar mai hata deti hoo baba
-  Zakhmi haathon se musalla mai bana deti hoo baba
+  Tum ko zehmat na ho patthar mai hata deti hu baba
+  Zakhmi haathoṅ se musalla mai bana deti hoo baba
   Ho gaya ban may waqt namaz e maghrib ka
   Utho baba...
   Zakhm dukhte hai bahot mere sambhalo mujhe baba
   Apni aaghosh may jaldi se chupa lo mujhe baba
   Shimr ke darr se dam na nikal jaye mera
   Utho baba...
-  Khuld se aaye thay jode ye kabhi maa se suna tha
-  Chadarein aaj manga do baba ehsaan ye hoga
+  Khuld se aaye the jore ye kabhi maa se suna tha
+  Chadareiṅ aaj manga do baba ehsaan ye hoga
   Chin gaya ban may aap ki behno ka parda
   Utho baba...
-  Tum se bichdi thi mai kuch dayr to tooti ye qayamat
+  Tum se bichri thi mai kuch dayr to tuti ye qayamat
   Jaane kya hogayi hogi unki cheh maah may haalat
   Paas tumhare ban ke mai aayi hoo sughra
   Utho baba...
   Shimr ne maar ke durre usko jis waqt uthaya
-  Peeche mud mud ke takallum yehi kehti thi sakina
+  Piche mur mur ke takallum yehi kehti thi sakina
   Shaam chali hoo ab na bachungi mai zinda
   Utho baba...
 # source_id: nohayonline:dca9612afc4b98cec653

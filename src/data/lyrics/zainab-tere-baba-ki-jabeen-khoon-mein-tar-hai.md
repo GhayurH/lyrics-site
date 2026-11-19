@@ -1,6 +1,6 @@
 ---
 title: "زینبؑ تیرے بابا کی جبیں خون میں تر ہے"
-alternateTitle: "Zainab Tere Baba Ki Jabeen Khoon Mein Tar Hai"
+alternateTitle: "Zainab Tere Baba Ki Jabiṅ Khun Meiṅ Tar Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,13 +10,13 @@ aliases: []
 published: false
 romanLyrics: |-
 
-  Zainab Tere Baba Ki Jabeen Khoon Mein Tar Hai
+  Zainab Tere Baba Ki Jabiṅ Khun Meiṅ Tar Hai
   Haider Ki Allamdar-e  Hussaini Pe Nazar Hai
 
   1
-  Zainab Ke Khulay Sar Pe Hai Haidar Ki Nigahein
-  Yaad Aanay Lagi Shaam Ke Bazaar Ki Rahein
-  Ikkisveen Ramzan Ki  Honay Ko Saher Hai
+  Zainab Ke Khule Sar Pe Hai Haidar Ki Nigaheiṅ
+  Yaad Aane Lagi Shaam Ke Bazaar Ki Raheiṅ
+  Ikkisveen Ramzan Ki  Hone Ko Saher Hai
 
   2
   Shabbir Ki Dhaaras Hai Yeh Zainab Ka Bharam Hai
@@ -25,18 +25,18 @@ romanLyrics: |-
 
   3
   Socho To Musalmaano Ke Yeh Baat Bari Hai
-  Haq Maangnay Zehra Sar-e-Darbar Khari Hai
-  Ay Ghairat-e-Islam Bata  Aaj Kidhar Hai
+  Haq Maangne Zehra Sar-e-Darbar Khari Hai
+  Ae Ghairat-e-Islam Bata  Aaj Kidhar Hai
 
   4
   Voh Waqt Bhi Hoga Ke Koi Paas Na Hoga
-  Gharbaar Lutay Ga Magar Abbas Na Hoga
-  Aur Jaaeygi Bazaar Usay  Yeh Bhi Khabar Hai
+  Gharbaar Lute Ga Magar Abbas Na Hoga
+  Aur Jaaeygi Bazaar Use  Yeh Bhi Khabar Hai
 
   5
-  Iss gham ki muhafiz hai muhib Zainab-e-dilgeer
-  Duniya Mein Jo Baqi Hai Azadari-e-Shabbir
-  Yeh Fatima Zehra Ki  Duaon Ka Asar Hai
+  Iss gham ki muhafiz hai muhib Zainab-e-dilgir
+  Duniya Meiṅ Jo Baqi Hai Azadari-e-Shabbir
+  Yeh Fatima Zehra Ki  Duaoṅ Ka Asar Hai
 # source_id: nohawriteups:87016d54d7783b901904
 # source_url: https://www.nohawriteups.org/zainab-tere-baba-ki-jabeen-khoon-mein-tar-hai/
 # original_html: snapshots/nohawriteups/original_html/87016d54d7783b901904.html.gz

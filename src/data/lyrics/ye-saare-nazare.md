@@ -12,92 +12,92 @@ published: false
 romanLyrics: |-
   1
   Wo jisko saare hussaini salaam kehte hai
-  Usay hussain alaihis salaam kehte hai
-  Hussain hussain maula hussain
-  Ya hussain maula
-  Hussain hussain maula hussain
-  Ya hussain maula
+  Use Husain alaihis salaam kehte hai
+  Husain Husain maula Husain
+  Ya Husain maula
+  Husain Husain maula Husain
+  Ya Husain maula
   Maahe aza ka chaand nikla
-  Aagayi ghar mein fatema zahra
+  Aagayi ghar meiṅ fatema zahra
   Libaas kaale pehan ke saare
-  Hussain waale farshe aza pe aaye
-  Utha ke parcham karenge matam
-  Dilon mein har dam zinda rahega ye gham
+  Husain waale farshe aza pe aaye
+  Utha ke parcham kareṅge matam
+  Diloṅ meiṅ har dam zinda rahega ye gham
   Dekhna ek din ban kar hussaini bolega ye zamana
   Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya hussain
-  Chauda sadiyan beet chuki hai
-  Gham ye koi bhi na bhoola
-  Dekho hamare ghar mein saja hai
-  Babul hawaij ka jhoola
-  Jhoole se behne lipti hui hai
-  Le kar haathon mein kurta
+  Hum ho na ho hamesha hota rahega ya Husain
+  Chauda sadiyaṅ bit chuki hai
+  Gham ye koi bhi na bhula
+  Dekho hamare ghar meiṅ saja hai
+  Babul hawaij ka jhula
+  Jhule se behne lipti hui hai
+  Le kar haathoṅ meiṅ kurta
   Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya hussain
-  Dekho julooson mein jo hussaini
+  Hum ho na ho hamesha hota rahega ya Husain
+  Dekho julusoṅ meiṅ jo hussaini
   Baandhe huwe hai sar pe kafan
   Aashiq e maula hai ye saare
   Karbobala hai in ka watan
-  Dil mein udaasi aankhon mein aansu
-  Honton pe maula maula
+  Dil meiṅ udaasi aankhoṅ meiṅ aansu
+  Hontoṅ pe maula maula
   Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya hussain
-  Rahe salamat ishq e hussaini
+  Hum ho na ho hamesha hota rahega ya Husain
+  Rahe salamat ishq-e-hussaini
   Rahe salamat saare hussaini
-  Hussain ya hussain maula
-  Hussain ya hussain maula
+  Husain ya Husain maula
+  Husain ya Husain maula
   Qasim ki mehndi akbar ka sehra
-  Taboot o zuljanah
-  Wo sheh nasheen mein patke alam ke
-  Tasbeeh e fatema
+  Tabut o zuljanah
+  Wo sheh nashiṅ meiṅ patke alam ke
+  Tasbih e fatema
   Laa kar koi jo baante to
-  Yaad aati hai bibiyan
-  Aur choti choti shehzadiyon
-  Mein bat'ti hai baaliyan
+  Yaad aati hai bibiyaṅ
+  Aur choti choti shehzadiyoṅ
+  Meiṅ bat'ti hai baaliyaṅ
   Saath alam ke mashk e sakina
   Dekhi to dil ye bola
   Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya hussain
+  Hum ho na ho hamesha hota rahega ya Husain
   Aat moharam hum karte hai
   Haazri maula ghazi ki
-  Bachon ko apne saqqa bana kar
+  Bachoṅ ko apne saqqa bana kar
   Sab ko pilaate hai pani
   Ghazi ka sadqa milta hai us ko
   Aata hai jo bhi pyaasa
   Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya hussain
-  Paon dabata hai koi khadim
+  Hum ho na ho hamesha hota rahega ya Husain
+  Paoṅ dabata hai koi khadim
   Koi hataata hai pathar
   Karbobala ki samt najaf se
   Jaate hai jab zaair chal kar
-  Ek sada hai sab ke labon par
+  Ek sada hai sab ke laboṅ par
   Labbaika ya hussaina
   Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya hussain
-  Ashoor ki shab saare hussaini
-  Ghar ghar charaghan karte hai
-  Aur azakhano mein jaa kar
-  Rote hai nauha padhte hai
+  Hum ho na ho hamesha hota rahega ya Husain
+  Ashur ki shab saare hussaini
+  Ghar ghar charaghaṅ karte hai
+  Aur azakhano meiṅ jaa kar
+  Rote hai nauha parhte hai
   Karte hai matam sun kar azaane
-  Akbar subhe ashoora
+  Akbar subhe ashura
   Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya hussain
-  Aag pe chalna khoon bahana
-  Baap se hum ne seekha hai
+  Hum ho na ho hamesha hota rahega ya Husain
+  Aag pe chalna khuṅ bahana
+  Baap se hum ne sikha hai
   Rokega hum ko kya ye zamana
   Matam hamara virsa hai
-  Jab tak badan mein khoon hai baaqi
-  Maula ko denge pursa
+  Jab tak badan meiṅ khun hai baaqi
+  Maula ko deṅge pursa
   Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya hussain
-  Zeeshan aur irfan e aza
+  Hum ho na ho hamesha hota rahega ya Husain
+  Zishan aur irfan e aza
   Hum khalq huwe is gham ke liye
   Maa ne hamari paala hai hum ko
   Majlis aur matam ke liye
-  Ungli pakad kar majlis mein laa kar
+  Ungli pakar kar majlis meiṅ laa kar
   Maa ne bataya beta
   Ye saare nazare ishq ke hai
-  Hum ho na ho hamesha hota rahega ya hussain
+  Hum ho na ho hamesha hota rahega ya Husain
 # source_id: nohayonline:64edc9aaa2f640d8a9a7
 # source_url: https://www.nohayonline.com/details_content.php?id=2809
 # raw_sha256: bd85e368b5f586afa38d075e45f19fc32a4c36609bd9f335b7e70d9a910f9e8a

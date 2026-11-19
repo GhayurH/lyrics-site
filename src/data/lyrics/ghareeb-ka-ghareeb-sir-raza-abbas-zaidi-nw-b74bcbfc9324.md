@@ -1,6 +1,6 @@
 ---
 title: "غریب کا یہ غریب سر ہے جو در بدر ہے"
-alternateTitle: "Ghareeb Ka Ghareeb Sar"
+alternateTitle: "Gharib Ka Gharib Sar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -23,77 +23,77 @@ published: false
 # raw_sha256: b9c19f8884a090d800bbb3e343d4cc0d35db62771f21999bc13e52b53171f52e
 # added_stanza_source: roman:kalam-nohayonline-99e7ab15fdf1379f816d
 romanLyrics: |-
-  Kabhi Yeh Shereen Ke Ghar Mila Hai
+  Kabhi Yeh Sheriṅ Ke Ghar Mila Hai
   Kabhi Yeh Rahib Ke Ghar Gaya Hai
   Kabhi Shajar Pe Rasan Se Bandha
-  Kabhi Yeh Sandooq Mein Rakha Hai
+  Kabhi Yeh Sandooq Meiṅ Rakha Hai
   Na Jane Iss Ka Safar Hai Kaisa
-  Nahi Hai Mazloom Koi Aisa
-  Ghareeb Ka Yeh Ghareeb Sar Hai Jo Dar Badar Hai
+  Nahi Hai Mazlum Koi Aisa
+  Gharib Ka Yeh Gharib Sar Hai Jo Dar Badar Hai
 
   1
-  Hai Reesh Jis Ki Lahu Mein Dobi
-  Ragein Bhi Sokhi Hoi Hain Jis Ki
-  Bhari Hai Zulfoon Mein Khak Haye
-  Katay Hain Lab Our Jabeen Hai Zakhmi
-  Ayyaan Hain Chehray Se Gham Bala Ke
-  Ho Jaisay Mara Rula Rula Ke
+  Hai Rish Jis Ki Lahu Meiṅ Dobi
+  Rageiṅ Bhi Sokhi Hoi Haiṅ Jis Ki
+  Bhari Hai Zulfuṅ Meiṅ Khak Haye
+  Kate Haiṅ Lab Our Jabiṅ Hai Zakhmi
+  Ayyaaṅ Haiṅ Chehre Se Gham Bala Ke
+  Ho Jaise Mara Rula Rula Ke
 
   2
   Chala Tha Jis Waqt Iss Pe Khanjar
-  Tha Gaud Mein Fatima Ki Yeh Sar
-  Khari Thin Satar Qadam Pe Zainab
-  Gira Yeh Sar Jab Zameen Pe Kat Kar
-  Uthaya Zulfoon Se Shimar Ne Sar
-  Tapak Raha Tha Lahu Zameen Par
+  Tha Gaud Meiṅ Fatima Ki Yeh Sar
+  Khari Thiṅ Satar Qadam Pe Zainab
+  Gira Yeh Sar Jab Zamiṅ Pe Kat Kar
+  Uthaya Zulfuṅ Se Shimar Ne Sar
+  Tapak Raha Tha Lahu Zamiṅ Par
 
   3
-  Sawar Nook-e-Sina Pe Ho Kar
-  Chala Hai Karb-o-Bala Se Yeh Sar
+  Sawar Nuk-e-Sina Pe Ho Kar
+  Chala Hai Karb o Bala Se Yeh Sar
   Nazar Hai Akbar Ke Sar Ki Janib
-  Ajeeb Ghurbat Ka Hai Yeh Manzar
-  Karey Yeh Akbar Se Jab Bhi Batein
-  Tu Khon Roti Hain Iss Ki Aankhein
+  Ajib Ghurbat Ka Hai Yeh Manzar
+  Kare Yeh Akbar Se Jab Bhi Bateiṅ
+  Tu Khon Roti Haiṅ Iss Ki Aankheiṅ
 
   4
   Yeh Sar Jo Kholi Ke Hath Aaya
-  Ajeeb Zalim Ne Zulm Dhaya
-  Ghar Oss Ke Zahra Tarap Ke Pohanchin
-  Jab Oss Ne Tandoor Mein Chupaya
+  Ajib Zalim Ne Zulm Dhaya
+  Ghar Oss Ke Zahra Tarap Ke Pohanchiṅ
+  Jab Oss Ne Tandur Meiṅ Chupaya
   Kiye Jo Zahra Ne Bain Ro Kar
-  Tarap Raha Tha Hussain Ka Sar
+  Tarap Raha Tha Husain Ka Sar
 
   5
-  Nazar Paray Jab Behan Ke Sar Par
-  Pukarey Abbas Ko Tarap Kar
+  Nazar Pare Jab Behan Ke Sar Par
+  Pukare Abbas Ko Tarap Kar
   Tamachay Jab Bhi Sakina Khaye
-  Zameen Pe Gir Jaye Haye Yeh Sar
+  Zamiṅ Pe Gir Jaye Haye Yeh Sar
   Koi Jo Abid Pe Zulm Dhaye
-  Pukarey Naizay Se Haye Haye
+  Pukare Naize Se Haye Haye
 
   6
-  Giri Thi Naqay Se Jab Sakina
-  Wahin Yeh Sar Bhi Thehar Gaya Tha
+  Giri Thi Naqe Se Jab Sakina
+  Wahiṅ Yeh Sar Bhi Thehar Gaya Tha
   Nazar Na Aayi Jab Iss Ko Beti
   Tarap Ke Zainab Ki Simt Dekha
   Kaha Yeh Zainab Se Jald Jao
   Meri Sakina Ko Dhond Lao
 
   7
-  Sitam Yeh Darbar Mein Howa Tha
-  Ghareeb Sar Tasht Mein Rakha Tha
-  Yazid Dandan-e-Shah-e-Dein Par
+  Sitam Yeh Darbar Meiṅ Howa Tha
+  Gharib Sar Tasht Meiṅ Rakha Tha
+  Yazid Dandan-e-Shah-e-Deiṅ Par
   Chari Ko Hans Hans Ke Marta Tha
-  Sakina Abid Ko Dekhti Thin
-  Padar Ki Ghurbat Pe Ro Rahi Thin
+  Sakina Abid Ko Dekhti Thiṅ
+  Padar Ki Ghurbat Pe Ro Rahi Thiṅ
 
   8
   Hai Sham Ki Qaid Ka Yeh Manzar
   Mila Sakina Ko Baap Ka Sar
-  Raza-o- Zeeshan Thi Qayamat
+  Raza-o- Zishan Thi Qayamat
   Kaha Sakina Ne Jab Lipat Kar
-  Naseeb Kya Ho Gaya Hamara
-  Hai Mere Seene Pe Sar Tumhara
+  Nasib Kya Ho Gaya Hamara
+  Hai Mere Sine Pe Sar Tumhara
 
 ---
 کبھی یہ شیریں کے گھر ملا ھے

@@ -11,7 +11,7 @@ romanLyrics: |-
   Eh rat hun nahi rukhdi, Eh rat hun nahi rukhdi
 
   1
-  Touheed diyan shahzadi nu ainjh paidal safar karai
+  Touhid diyaṅ shahzadi nu ainjh paidal safar karai
   Patharan da mi barsaya, Eh rat hun nahi rukhdi
 
   2
@@ -20,13 +20,13 @@ romanLyrics: |-
   Rasiyan de vich dafnaya, Eh rat hun nahi rukhdi
 
   3
-  2. Aik lal si hassan da chan varga jida lasha si pamaal hoya
+  2. Aik lal si Hasan da chan varga jida lasha si pamaal hoya
   Jidi ma si armaan barah nahi putar nahi puttar nu sehre paya
   Ghadri vich lasha paya, Eh rat hun nahi rukhdi
 
   4
-  3. Mera almaan wala ghazi si jide bazooan tay si mahn barah
-  Jida laash len kaya maqtal piya digda zahra jhaya
+  3. Mera almaan wala ghazi si jide bazuan te si mahn barah
+  Jida laash leṅ kaya maqtal piya digda zahra jhaya
   Nahi ghazi nu chuk paya, Eh rat hun nahi rukhdi
 
   5
@@ -35,8 +35,8 @@ romanLyrics: |-
   Mere rat nu surkh banaya, Eh rat hun nahi rukhdi
 
   6
-  5. Jeraa parch jibrail tay sonda si ohda lasha gharam zameen
-  Be adab naal ohday sir nu qatil nai aahn kai chaya
+  5. Jeraa parch jibrail te sonda si ohda lasha gharam zamin
+  Beadab naal ohde sir nu qatil nai aahn kai chaya
   Ohdi bhen dai samne laya, Eh rat hun nahi rukhdi
 
   7
@@ -45,9 +45,9 @@ romanLyrics: |-
   Iss gham bhi maan banaya, Eh rat hun nahi rukhdi
 
   8
-  7. Jaffar tayar da sarmaya, Jodon ma nu millen layi aya
+  7. Jaffar tayar da sarmaya, Jodon ma nu milleṅ layi aya
   Hasrat si ma sine lawe, Ma sine naal nah laya
-  Inna lillah farmaya, Eh rat hun nahi rukhdi
+  Inna lillah farmaya, Eh rat huṅ nahi rukhdi
 
   9
   8. Qasim sibtal nahi jahn sakai oh sham gariba de manzar

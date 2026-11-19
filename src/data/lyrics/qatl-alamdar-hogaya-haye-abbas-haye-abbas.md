@@ -13,63 +13,63 @@ romanLyrics: |-
   1
   Haye abbas haye abbas
   Mashk chidi baazu kate qatl alamdar hua
-  Thi labe hussain par buka lachaar hua mai
-  Khaak udaye hussain dashte bayaban mein
+  Thi labe Husain par buka lachaar hua mai
+  Khaak uraye Husain dashte bayaban meiṅ
   Qatl alamdar hogaya laachar hua mai
-  Aaj ali ka pisar ban mein akela hua
-  Laashe shaheedon ke hai charon taraf ashkiyan
+  Aaj ali ka pisar ban meiṅ akela hua
+  Laashe shahidoṅ ke hai charoṅ taraf ashkiyan
   Dil hai mera karbala aankh meri alqama
-  Kaun sahara bane zulm ke toofan mein
+  Kaun sahara bane zulm ke tufan meiṅ
   Qatl alamdar hogaya laachar hua mai
-  Khaak udaye hussain...
+  Khaak uraye Husain...
   Shiddate alaam se kaamp raha hai badan
   Aayenge imdad ko shere khuda saf shikan
   Bekas o laachar hai ek ghareebul watan
-  Koi maseeha nahi aaj bayaban mein
+  Koi masiha nahi aaj bayaban meiṅ
   Qatl alamdar hogaya laachar hua mai
-  Khaak udaye hussain...
+  Khaak uraye Husain...
   Bhai ki sunkar sada dasht ko sarwar chale
-  Padte huwe marsiya aankhon mein aansu liye
-  Raah mein mazloom ko bhai ke baazu mile
-  Ek qayamat hui gham se dil o jaan mein
+  Parte huwe marsiya aankhoṅ meiṅ aansu liye
+  Raah meiṅ mazlum ko bhai ke baazu mile
+  Ek qayamat hui gham se dil o jaan meiṅ
   Qatl alamdar hogaya laachar hua mai
-  Khaak udaye hussain...
+  Khaak uraye Husain...
   Baazu uthaate huwe bole shahe karbala
-  Jeene se bezaar hai ibne shahe la-fata
-  Zabt ke bandhan sabhi toot gaye hai khuda
-  Koi kami ab nahi maut ke samaan mein
+  Jine se bezaar hai ibne shahe la-fata
+  Zabt ke bandhan sabhi tut gaye hai khuda
+  Koi kami ab nahi maut ke samaan meiṅ
   Qatl alamdar hogaya laachar hua mai
-  Khaak udaye hussain...
+  Khaak uraye Husain...
   Thokare khaate chale haath rakhe qalb par
-  Furqate abbas mein tooti hui thi kamar
-  Kehte rahe har qadam qalb o jigar peet kar
-  Naam mera likh gaya dard ke quran mein
+  Furqate abbas meiṅ tuti hui thi kamar
+  Kehte rahe har qadam qalb o jigar pit kar
+  Naam mera likh gaya dard ke quran meiṅ
   Qatl alamdar hogaya laachar hua mai
-  Khaak udaye hussain...
+  Khaak uraye Husain...
   Shaah ko al mukhtasar bhai ka laasha mila
-  Thaam ke dil shaahe deen karne lage marsiya
-  Saath hamara abhi chodo nahi ba-wafa
-  Kehte thay ahle sitam zulm ke maidan mein
+  Thaam ke dil shaahe diṅ karne lage marsiya
+  Saath hamara abhi choro nahi ba-wafa
+  Kehte the ahle sitam zulm ke maidan meiṅ
   Qatl alamdar hogaya laachar hua mai
-  Khaak udaye hussain...
-  Dam tha labon par ruka kehne laga ba-wafa
+  Khaak uraye Husain...
+  Dam tha laboṅ par ruka kehne laga ba-wafa
   Aakhri dedaar ko baakhi tha ye silsila
   Bhai ko bhai kaha jaam e shahadat piya
-  Aur badhe ranj o gham qalb e pareshan mein
+  Aur barhe ranj o gham qalb e pareshan meiṅ
   Qatl alamdar hogaya laachar hua mai
-  Khaak udaye hussain...
-  Khoon mein dooba alam laaye jo shaahe zaman
-  Qaimon mein kohraam tha bhai se boli bahan
-  Chod ke abbas ko aaye ho kyun pur mahan
-  Shaah ne rokar kaha dashte bayaban mein
+  Khaak uraye Husain...
+  Khun meiṅ duba alam laaye jo shaahe zaman
+  Qaimon meiṅ kohraam tha bhai se boli bahan
+  Chor ke abbas ko aaye ho kiuṅ pur mahan
+  Shaah ne rokar kaha dashte bayaban meiṅ
   Qatl alamdar hogaya laachar hua mai
-  Khaak udaye hussain...
-  Safdar o mazhar bhala kaise bayan ho wo gham
-  Bali sakina ke thay bain ye zere alam
+  Khaak uraye Husain...
+  Safdar o mazhar bhala kaise bayaṅ ho wo gham
+  Bali sakina ke the bain ye zere alam
   Laut bhi aao chacha aap ko meri qasam
-  Hashr utha qaima e sayyede zeeshan mein
+  Hashr utha qaima e sayyede zishan meiṅ
   Qatl alamdar hogaya laachar hua mai
-  Khaak udaye hussain...
+  Khaak uraye Husain...
 # source_id: nohayonline:904248a8fbfbb2fab59e
 # source_url: https://www.nohayonline.com/details_content.php?id=894
 # raw_sha256: 6689bf31a82cf19826b7af53ce9cb2364ce2673cb8d340ea55e73b58d95159a5

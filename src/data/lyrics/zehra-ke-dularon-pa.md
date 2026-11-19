@@ -1,6 +1,6 @@
 ---
 title: "زہرا کے دلاروں پہ عجب ظلم و جفا ہے"
-alternateTitle: "Zehra Ke Dularon Pa"
+alternateTitle: "Zehra Ke Dularoṅ Pa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

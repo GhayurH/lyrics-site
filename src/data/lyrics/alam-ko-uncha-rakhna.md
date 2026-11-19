@@ -13,86 +13,86 @@ romanLyrics: |-
   1
   Yaadgaar e karbala hai ye alam abbas ka
   Aaj bhi lehra raha hai ye alam abbas ka
-  Ay sher e nayastane hyder
+  E sher e nayastane hyder
   Teri yaad ko zinda rakhna hai
   Is alam ko uncha rakhna hai
   Aap dikhlate ho dunya ko wafa ka raasta
-  Aap bulwaate ho ghazi zaairon ko karbala
+  Aap bulwaate ho ghazi zaairoṅ ko karbala
   Aap milwaate ho shaahe karbala se bakhuda
   Hum sab ka waseela ya abbas
   Hua sab ka wazeefa ya abbas
   Sab ne dil se maana hai
   Is alam ko uncha rakhna hai
-  Ali ke noore ain
+  Ali ke nure ain
   Ummul baneen ke chain
-  Ay jaane hussain
+  Ae jaane Husain
   Teri yaad ko zinda rakhna hai
   Is alam ko uncha rakhna hai
   Maula abbas ya abbas ya abbas ya abbas
   Ye khuda hai waseela sab ka pyara hai alam
-  Ghamzada logon ka dunya mein sahara hai alam
+  Ghamzada logoṅ ka dunya meiṅ sahara hai alam
   Bakhuda hai naaz humko ye hamara hai alam
   Jo alam pe aaya ya abbas
   Jo maanga wo paaya ya abbas
   Alam pe jaate rehna hai
   Is alam ko uncha rakhna hai
-  Ay sher e nayastane hyder
+  E sher e nayastane hyder
   Teri yaad ko zinda rakhna hai
   Is alam ko uncha rakhna hai
   Maula abbas ya abbas ya abbas ya abbas
-  Aaj charcha hai jahan mein jaa baja abbas ka
-  Aaj har bazme wafa mein tazkira abbas ka
-  Bakhuda har khaum mein har bawafa abbas ka
-  Har dil mein hai rehta dil mein dhadakta
-  Dil mein hamare rehna hai
+  Aaj charcha hai jahaṅ meiṅ jaa baja abbas ka
+  Aaj har bazme wafa meiṅ tazkira abbas ka
+  Bakhuda har khaum meiṅ har bawafa abbas ka
+  Har dil meiṅ hai rehta dil meiṅ dharakta
+  Dil meiṅ hamare rehna hai
   Is alam ko uncha rakhna hai
-  Bechain hai kyun betaab hai kyun
-  Kyun dil par apne boj liye
+  Bechain hai kiuṅ betaab hai kiuṅ
+  Kiuṅ dil par apne boj liye
   Chup chaap ghamo ko sehta hai
   Tu pursadaar hai ghazi ka
   Chal aaj alam par chalte hai
   Abbas waseela hai rab ka
   Abbas se keh jo kehna hai
   Ye alam hai maula ghazi ka
-  Yahan rab ki rizayein milti hai
-  Yahan chauda shifayein milti hai
-  Yahan baara atayein milti hai
-  Yahan paanch panahein milti hai
+  Yahaṅ rab ki rizayeiṅ milti hai
+  Yahaṅ chauda shifayeiṅ milti hai
+  Yahaṅ baara atayeiṅ milti hai
+  Yahaṅ paanch panaheiṅ milti hai
   Bas saath alam ke rehna hai
   Jab alam hai saath to samjho alam waala bhi hai
   Jab alam waala hai to samjho shah e waala bhi hai
   Saath hai bibi sakina aur mashkeeza bhi hai
-  Ye alam jahan hai ya abbas
-  Mera chain wahan hai ya abbas
+  Ye alam jahaṅ hai ya abbas
+  Mera chain wahaṅ hai ya abbas
   Saath isi ke chalna hai
   Is alam ko uncha rakhna hai
-  Ali ke noore ain
+  Ali ke nure ain
   Ummul baneen ke chain
-  Ay jaane hussain
+  Ae jaane Husain
   Teri yaad ko zinda rakhna hai
   Is alam ko uncha rakhna hai
   Maula abbas ya abbas ya abbas ya abbas
   Laut kar darya se jab aaya na ghazi bawafa
-  Zainab o kulsoom ne di wa hijaba ki sada
+  Zainab o kulsum ne di wa hijaba ki sada
   Dekh kar khaali alam abbas ka matam hua
   Zainab ne pukara ya abbas
   Waada hai hamara ya abbas
   Alam ye ghar ghar sajna hai
   Is alam ko uncha rakhna hai
-  Ay sher e nayastane hyder
+  E sher e nayastane hyder
   Teri yaad ko zinda rakhna hai
   Is alam ko uncha rakhna hai
   Maula abbas ya abbas ya abbas ya abbas
   Mere saath hai mere saath hai
   Ye alam hamesha saath hai
-  Mera chain hai sukoon hai
+  Mera chain hai sukun hai
   Meri raahat ye alam
-  Mera sayeban mera paasban
+  Mera sayebaṅ mera paasbaṅ
   Meri chaahat ye alam
-  Mai chalun kahin mere saath hai
-  Mai rahun kahin mere saath hai
-  Mai chalun kahin mai rahun kahin
-  Har raste par har mod par
+  Mai chaluṅ kahiṅ mere saath hai
+  Mai rahuṅ kahiṅ mere saath hai
+  Mai chaluṅ kahiṅ mai rahuṅ kahiṅ
+  Har raste par har mor par
   Ye alam hamesha saath hai
 # source_id: nohayonline:60b5771f06ca084aa8ba
 # source_url: https://www.nohayonline.com/details_content.php?id=1647

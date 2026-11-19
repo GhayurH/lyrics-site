@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sehriyan waala qasim
+  Sehriyaṅ waala qasim
   Maa ka dulaara qasim
   Pehchaane maa kaise
   Laasha tumhara qasim
-  Ek gathri mein aa gaya qasim
+  Ek gathri meiṅ aa gaya qasim
   Maa ko itna hi mil saka qasim
   Haye qasim haye haye qasim
-  Gir gaye shaah e deen ye kehte huwe
+  Gir gaye shaah e diṅ ye kehte huwe
   Dekho abbas gir gaya qasim
   Haye qasim...
   Ek gathri mein...
-  Ek ek tukda de raha tha sada
+  Ek ek tukra de raha tha sada
   Ye raha ammu aap ka qasim
   Haye qasim...
   Ek gathri mein...
-  Haye maqtal mein chaar jaanib se
-  Sheh ki tazeem ko utha qasim
+  Haye maqtal meiṅ chaar jaanib se
+  Sheh ki tazim ko utha qasim
   Haye qasim...
   Ek gathri mein...
-  Tere tukdon ko chun'ne ki khaatir
+  Tere tukroṅ ko chun'ne ki khaatir
   Khud chali aayi fatema qasim
   Haye qasim...
   Ek gathri mein...
-  Hai sumon ke nishan chehre par
+  Hai sumoṅ ke nishan chehre par
   Tera kya haal ho gaya qasim
   Haye qasim...
   Ek gathri mein...
-  Itna kamsin tha ran mein girte huwe
+  Itna kamsin tha ran meiṅ girte huwe
   Tu ne amma ko di sada qasim
   Haye qasim...
   Ek gathri mein...
-  Sheh ne dhoonda usay bahot ran mein
+  Sheh ne dhunda use bahot ran meiṅ
   Par mukammal nahi mila qasim
   Haye qasim...
   Ek gathri mein...

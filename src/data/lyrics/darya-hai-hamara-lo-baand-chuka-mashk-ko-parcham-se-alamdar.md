@@ -12,49 +12,49 @@ published: false
 romanLyrics: |-
   1
   Lo baand chuka mashk ko parcham se alamdar
-  Darya ki taraf dekha bade ghaiz se ek baar
-  Taweez sakina ki duaon ka utha ke
+  Darya ki taraf dekha bare ghaiz se ek baar
+  Tawiz sakina ki duaoṅ ka utha ke
   Zainab se kaha baandh de baazu pe hamare
   Is shaan se nikla suye darya wo wafadaar
-  Ek shor utha aaya shahe deen ka alamdar
+  Ek shor utha aaya shahe diṅ ka alamdar
   Abbas alamdar abbas alamdar
-  Abbas ne ye keh ke layeeno ko pukara
+  Abbas ne ye keh ke layino ko pukara
   Darya hai hamara darya hai hamara
   Hum hyder e karrar ke keh laate hai saani
   Le jayenge pani
-  Bas keh diya hum aagaye ab chodo kanara
+  Bas keh diya hum aagaye ab choro kanara
   Darya hai hamara...
-  Be-taygh hi ladne ke liye aate hai dekho
+  betaygh hi larne ke liye aate hai dekho
   Lo raasta roko
-  Hat'te ho ke siffeen ka dikhlaye nazara
+  Hat'te ho ke siffin ka dikhlaye nazara
   Darya hai hamara...
-  Hum maalik o mukhtar hai is kon o makan ke
-  Is aab e rawan ke
+  Hum maalik o mukhtar hai is kon o makaṅ ke
+  Is aab e rawaṅ ke
   Ye khaam khayali hai ke darya hai tumhara
   Darya hai hamara...
   Hum baazu e shabbir hai saqqa e haram hai
-  Pyason ka bharam hai
+  Pyasoṅ ka bharam hai
   Shahid hai isi baat pe ye dasht bhi saara
   Darya hai hamara...
   Hai dukhtare shabbir hamay jaan se pyari
   Hai saans hamari
-  Keh kar yehi aaye thay karo zabt ka yaara
+  Keh kar yehi aaye the karo zabt ka yaara
   Darya hai hamara...
   Pehre jo bithaye hai bohat naaz hai tum ko
-  Darya se to poocho
+  Darya se to pucho
   Khud tum ko batayega ye darya ka kanara
   Darya hai hamara...
   Shabbir se kehti thi yehi fatema jaayi
-  Deti hoon duhaai
+  Deti huṅ duhaai
   Ye keh ke alamdar ko bulwao khudara
   Darya hai hamara...
   Abbas ke marqad ke jo atraaf hai pani
   Ye bhi hai nishani
   Goya ke alamdar ye karta hai ishaara
   Darya hai hamara...
-  Abbas ke qabze mein hai darya o samandar
+  Abbas ke qabze meiṅ hai darya o samandar
   Kehta hai ye safdar
-  Phir kyun na azadaar lagaye yehi naara
+  Phir kiuṅ na azadaar lagaye yehi naara
   Darya hai hamara...
 # source_id: nohayonline:5ad74b44c8c8281ec76f
 # source_url: https://www.nohayonline.com/details_content.php?id=3026

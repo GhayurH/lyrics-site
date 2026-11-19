@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zaanu pe rakh ke sar ko mazloom e karbala
-  Kehte thay tadap kar
-  Mar na jaaye kahin wo maa akbar
-  Is tarha lo na hichkiyan akbar
-  Khoon jo seene se hai rawan akbar
-  Kar ke tanha chale kahan akbar
+  Zaanu pe rakh ke sar ko mazlum e karbala
+  Kehte the tarap kar
+  Mar na jaaye kahiṅ wo maa akbar
+  Is tarha lo na hichkiyaṅ akbar
+  Khuṅ jo sine se hai rawaṅ akbar
+  Kar ke tanha chale kahaṅ akbar
   Mar na jaaye kahin...
-  Laasha qaimon mein le ke jaana hai
-  Zakhm maaon se ye chupana hai
-  Aise ragdo na aediyan akbar
+  Laasha qaimon meiṅ le ke jaana hai
+  Zakhm maaoṅ se ye chupana hai
+  Aise ragdo na aeriyaṅ akbar
   Mar na jaaye kahin...
   Haal e ghurbat tumhe sunana tha
-  Maa ne seene tumhe lagana tha
-  Aa gayi darmiyan sina akbar
+  Maa ne sine tumhe lagana tha
+  Aa gayi darmiyaṅ sina akbar
   Mar na jaaye kahin...
-  Dil ki dhadkan ko aasra de do
+  Dil ki dharkan ko aasra de do
   Hum ko awaaz e mustafa de do
-  Ab nahi doge kya azaan akbar
+  Ab nahi doge kya azaaṅ akbar
   Mar na jaaye kahin...
   Sun ke teri sada e adrikni
-  Daude kehte huwe ye ibne ali
-  Aa raha hoo mai meri jaan akbar
+  Daure kehte huwe ye ibne ali
+  Aa raha hoo mai meri jaaṅ akbar
   Mar na jaaye kahin...
-  Meri beenayi kho gayi hai pisar
+  Meri binayi kho gayi hai pisar
   Mujhko aata nahi hai kuch bhi nazar
-  Do na awaaz ho kahan akbar
+  Do na awaaz ho kahaṅ akbar
   Mar na jaaye kahin...
-  Haath seene pe dhar liya beta
-  Maine mehsoos kar liya beta
-  Zakhm gehra hai meri jaan akbar
+  Haath sine pe dhar liya beta
+  Maiṅ ne mehsus kar liya beta
+  Zakhm gehra hai meri jaaṅ akbar
   Mar na jaaye kahin...
-  Mere yusuf tum hi thay ay pyare
-  Meri aankhon ke tum hi thay taare
-  Kho gaya mera kul jahan akbar
+  Mere yusuf tum hi the ae pyare
+  Meri aankhoṅ ke tum hi the taare
+  Kho gaya mera kul jahaṅ akbar
   Mar na jaaye kahin...
   Likh zoha dil mera bhi phat'ta hai
   Saath barchi ke dil bhi khichti hai

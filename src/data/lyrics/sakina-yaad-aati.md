@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Rehaai milgayi zainab abhi yaadon ki qaidi hai
+  Rehaai milgayi zainab abhi yaadoṅ ki qaidi hai
   Watan to aagayi maa ki lehad par bain karti hai
-  Amanat apne bhai ki pase zindan chod aayi
-  Sakina ab andheri qabr mein kis tarha soti hai
+  Amanat apne bhai ki pase zindan chor aayi
+  Sakina ab andheri qabr meiṅ kis tarha soti hai
   Sakina yaad aati hai sakina yaad aati hai
-  Hawaein shaam aati hai to zainab chaunk jaati hai
+  Hawaeiṅ shaam aati hai to zainab chaunk jaati hai
   Sakina yaad aati hai
   Phupi bemaar sughra ko agar pani pilaati hai
   Sakina yaad aati hai
-  Alam abbas ka dekhe to palkein bheeg jaati hai
-  Ali akbar ke hujre mein kayi yaadein satati hai
-  Kisi bachi ke kaano mein nazar baali jo aati hai
+  Alam abbas ka dekhe to palkeiṅ bhig jaati hai
+  Ali akbar ke hujre meiṅ kayi yaadeiṅ satati hai
+  Kisi bachi ke kaano meiṅ nazar baali jo aati hai
   Sakina yaad aati hai
-  Hawaein shaam aati hai...
-  Lehad pe maa ki jab dukhda sunane ke liye jaye
-  Aziyat patharon ki aur kabhi zindan yaad aaye
-  Na jaane rote rote kyon har ek gham bhool jaati hai
+  Hawaeiṅ shaam aati hai...
+  Lehad pe maa ki jab dukhra sunane ke liye jaye
+  Aziyat patharoṅ ki aur kabhi zindan yaad aaye
+  Na jaane rote rote kyoṅ har ek gham bhul jaati hai
   Sakina yaad aati hai
-  Hawaein shaam aati hai...
+  Hawaeiṅ shaam aati hai...
   Wuzu karte huye pani ki thandak se larazti hai
   Falak par abid ab dekhe to shehzadi ye kehti hai
-  Madine mein ye baarish to baras ke dil dukhaati hai
+  Madine meiṅ ye baarish to baras ke dil dukhaati hai
   Sakina yaad aati hai
-  Hawaein shaam aati hai...
-  Bahot yaadein bahot baatein abhi seene mein baakhi hai
-  Rasan ke daagh durro ke nishan seene mein baakhi hai
-  Tasavvur mein ali asghar ko jab jhoola jhulaati hai
+  Hawaeiṅ shaam aati hai...
+  Bahot yaadeiṅ bahot baateiṅ abhi sine meiṅ baakhi hai
+  Rasan ke daagh durro ke nishaṅ sine meiṅ baakhi hai
+  Tasavvur meiṅ ali asghar ko jab jhula jhulaati hai
   Sakina yaad aati hai
-  Hawaein shaam aati hai...
-  Koi zindan ka dar khulne ka khissa bhi na dohraye
-  Kahin aisa na ho gham se meri dhadkan hi ruk jaye
-  Rehaai ki ghadi mein hind jab chaadar udaati hai
+  Hawaeiṅ shaam aati hai...
+  Koi zindaṅ ka dar khulne ka khissa bhi na dohraye
+  Kahiṅ aisa na ho gham se meri dharkan hi ruk jaye
+  Rehaai ki ghari meiṅ hind jab chaadar uraati hai
   Sakina yaad aati hai
-  Hawaein shaam aati hai...
-  Kabhi sughra jo seene se lipat kar sone lagti hai
-  Behan abbas e ghazi tadap ke rone lagti hai
+  Hawaeiṅ shaam aati hai...
+  Kabhi sughra jo sine se lipat kar sone lagti hai
+  Behan abbas e ghazi tarap ke rone lagti hai
   Kabhi shabbir ka seena kabhi ghurbat rulaati hai
   Sakina yaad aati hai
-  Hawaein shaam aati hai...
+  Hawaeiṅ shaam aati hai...
   Kabhi abid se chupti hai kabhi umme sakina se
-  Palat kar aayi hai jabse rehaai paake zindan se
-  Rehaai paane walon se kahan nazrein milaati hai
+  Palat kar aayi hai jabse rehaai paake zindaṅ se
+  Rehaai paane waloṅ se kahaṅ nazreiṅ milaati hai
   Sakina yaad aati hai
-  Hawaein shaam aati hai...
-  Nigahein phayr leti hai agar baqar nazar aaye
-  Agar baaton hi baaton mein rasan ka zikr aajaye
-  To aankhein bandh karke khaak par wo baith jaati hai
+  Hawaeiṅ shaam aati hai...
+  Nigaheiṅ phayr leti hai agar baqar nazar aaye
+  Agar baatoṅ hi baatoṅ meiṅ rasan ka zikr aajaye
+  To aankheiṅ bandh karke khaak par wo baith jaati hai
   Sakina yaad aati hai
-  Hawaein shaam aati hai...
-  Na bhooli hai na bhoolegi kabhi bazaar ka manzar
-  Baraste thay aseeron ke saron par jis ghadi pathar
-  Watan aakar bhi ek nanhi lehad khaabon mein aati hai
+  Hawaeiṅ shaam aati hai...
+  Na bhuli hai na bhoolegi kabhi bazaar ka manzar
+  Baraste the asiroṅ ke saroṅ par jis ghari pathar
+  Watan aakar bhi ek nanhi lehad khaaboṅ meiṅ aati hai
   Sakina yaad aati hai
-  Hawaein shaam aati hai...
+  Hawaeiṅ shaam aati hai...
   Kabhi rehaan aur rizwan jaana qabre zainab par
-  Nazar aayega tumko dard mein dooba ye ek manzar
+  Nazar aayega tumko dard meiṅ duba ye ek manzar
   Musalsal qabre zainab se yehi awaaz aati hai
   Sakina yaad aati hai
-  Hawaein shaam aati hai...
+  Hawaeiṅ shaam aati hai...
 # source_id: nohayonline:1d4cb63da0d5c9bec5b7
 # source_url: https://www.nohayonline.com/details_content.php?id=919
 # raw_sha256: 69dfb23340d0cc36c045f2defc61061f9821ff69239468ea097d9de04c1bf75f

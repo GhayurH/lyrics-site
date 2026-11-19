@@ -11,52 +11,52 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Laash akbar ki jo maqtal se utha laaye hussain
+  Laash akbar ki jo maqtal se utha laaye Husain
 
   1
-  Naujawan ko safe awwal se utha laaye hussain
-  Chand ko shaam ke baadal se utha laaye hussain
-  Jaan balab sher ko jangal se utha laaye hussain
+  Naujawaṅ ko safe awwal se utha laaye Husain
+  Chand ko shaam ke baadal se utha laaye Husain
+  Jaaṅ balab sher ko jangal se utha laaye Husain
   Di sada laashe pisar aan ke leja bano
   Chid gaya barchi se akbar ka kaleja bano
 
   2
-  Dekhle aakhri deedar pisar marta hai
-  Saamne ankhon ke ye noor e nazar marta hai
+  Dekhle aakhri didar pisar marta hai
+  Saamne ankhoṅ ke ye nur e nazar marta hai
   Ab koi dam may tera rashke kamar marta hai
-  Moo se bahar hai zaban tashna jigar marta hai
-  Dam hai seene may ruka zaqmon se khoon jaari hai
+  Moo se bahar hai zabaṅ tashna jigar marta hai
+  Dam hai sine may ruka zaqmon se khuṅ jaari hai
   Haye bano tera ghar lutne ki tayyari hai
 
   3
   Pahunchi qaime may jo hazrat ke ye pur dard sada
-  Muztarib hogayi namoose rasoole do sara
+  Muztarib hogayi namuse rasule do sara
   Kaha chilla ke sakina ne ke hae hae bhaiya
-  Fizza daudi suye dar phaynk ke sar par se rida
-  Peet'ti zainab e muztar nikal aayi baahar
+  Fizza dauri suye dar phaynk ke sar par se rida
+  Pitti zainab e muztar nikal aayi baahar
   Bano ghabrake khule sar nikal aayi baahar
 
   4
   Shaah ke kaandhe pe dekha ali akbar ko nidhaal
   Haath phayla ke ye chillayi ke hai hai mere laal
-  Kya ghazab hogaya ay baadshahe nek khisaal
-  Raas aaya na mere bache ko atharwan saal
-  Tukde tayghon se badan hogaya saara hae hae
+  Kya ghazab hogaya ae baadshahe nek khisaal
+  Raas aaya na mere bache ko atharwaṅ saal
+  Tukre tayghoṅ se badan hogaya saara hae hae
   Kaun tha jisne mere sher ko mara hae hae
 
   5
-  Roke bano se ye farmane lage sarwar e deen
-  Sar na peeto abhi zindan hai mera maah jabeen
-  Saans aati hai pa har dam hai dame baaz paseen
-  Kooch unka bhi hai aur hum bhi hai marne ke qareen
+  Roke bano se ye farmane lage sarwar e diṅ
+  Sar na pito abhi zindan hai mera maah jabiṅ
+  Saans aati hai pa har dam hai dame baaz pasiṅ
+  Kuch unka bhi hai aur hum bhi hai marne ke qariṅ
   Sab chute ab na raha koi hamara bano
-  Is jawan bete ke gham ne hame maara bano
+  Is jawaaṅ bete ke gham ne hame maara bano
 
   6
   Zakhmi hone ki khabar kis ne meri pahunchayi
-  Jhoot hai maine to hargiz nahin barchhi khaayi
-  Marg se pehle ho maatam ye zabun hai amma
-  Mere kapron pe to Abbas ka hai khoon amma
+  Jhut hai maiṅ ne to hargiz nahiṅ barchhi khaayi
+  Marg se pehle ho maatam ye zabuṅ hai amma
+  Mere kaproṅ pe to Abbas ka hai khuṅ amma
 
   7
   Boli Bano ke jo kehte ho Khuda yun hi kare
@@ -66,15 +66,15 @@ romanLyrics: |-
 
   8
   Sab tere dil ki mere dil ko khabar hai beta
-  Haath seene pe tera khoon mein tar hai beta
+  Haath sine pe tera khun meiṅ tar hai beta
   Sansanata hai badan jaan chali jaati hai
-  Haaye is lahu se to mere doodh ki boo aati hai
+  Haaye is lahu se to mere dudh ki bu aati hai
 
   9
   Ae mere sher tujhe lutf-e-jawaani na mila
-  Doodh pi pi ke pale aur tumhe paani na mila
+  Dudh pi pi ke pale aur tumhe paani na mila
   Mar gaye mujh ko dulhan bhi na dikhayi beta
-  Khaak mein mil gayi Bano ki kamayi beta
+  Khaak meiṅ mil gayi Bano ki kamayi beta
 # source_id: nohayonline:3cebdc71282d18b7af0f
 # source_url: https://www.nohayonline.com/content_salaam.php?id=37
 # raw_sha256: 3ed6ff9ef11c1840a69044c98af899ed880a2242ddb1900a2cc8dc7958a6e70f

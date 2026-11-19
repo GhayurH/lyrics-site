@@ -71,31 +71,31 @@ romanLyrics: |-
   Ab qabr se paani lipta hai
   Saqqa-e-Sakina pyasa hai
   Ab hashr talak dariya saare
-  dene ko salaami aaye hain
+  dene ko salaami aaye haiṅ
 
   11
   Ik jaanib roza tumhara hai
   Shabbir ka roza ek taraf
   Bainul Haramain aa kar
-  humne daaman apne phailaaye hain
+  humne daaman apne phailaaye haiṅ
 
   12
   Kya aap pe Aaqa guzri thi
   kuch kahiye musibat apni bhi
-  Bin haathon ke kaise lehra kar
-  ghore se zameen par aaye hain
+  Bin haathoṅ ke kaise lehra kar
+  ghore se zamiṅ par aaye haiṅ
 
   13
   Zahra ke laal ka pyasa gala
   gardan ki pusht se katta gaya
   Khanjar ki har ik zarbat par
-  ye arz o sama tharraye hain
+  ye arz o sama tharraye haiṅ
 
   14
-  Ek qabr hai Shaam ke zindaan mein
+  Ek qabr hai Shaam ke zindaan meiṅ
   ek mashk abhi tak khaali hai
   Hum pyasi Sakina ki khatir
-  aankhon mein aansu laaye hain
+  aankhoṅ meiṅ aansu laaye haiṅ
 
   15
   Darbaar Sakhi Abbas ka tha

@@ -30,7 +30,7 @@ romanLyrics: |-
   Nehar say paani nahi detay musalmaan dekhna
 
   5
-  4) Zainab-o-Kulsoom say kehta tha Shimar-e-bad gohar
+  4) Zainab o Kulsoom say kehta tha Shimar-e-bad gohar
   Shaam may jao gi nangay sar phiro gi dar badar
   Karbala kay baad ab tareekh zindaan dekhna
 

@@ -9,73 +9,73 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain Zindabad
+  Husain Zindabad
 
   1
-  1) Khuda ka paak ka pyaaraa hussain zindabad.
-  Nabi ki ankho ka tara hussain zindabad.
-  Dile batool ka paraa hussain zindabad.
-  Ali ka raj gulara (hussain zindabad)
-  Lagaye jaan ye nara (hussain zindabad)
-  Kaho ye milke hamara hussain zindabad (Hussain Zindabad)
-  2) Amire shehr shahadat hai tera naam hussain.
-  Tuji pe behja hai islam me salaam hussain.
-  Hai tere hato me konain ka nizaam hussain.
-  Suna jo noke sina par (tera kalaam hussain)
-  Pukaa utha ye nazaara (hussain zindabad)
-  Lagaye jaan ye nara (hussain zindabad)
+  1) Khuda ka paak ka pyaaraa Husain zindabad.
+  Nabi ki ankho ka tara Husain zindabad.
+  Dile batool ka paraa Husain zindabad.
+  Ali ka raj gulara (Husain zindabad)
+  Lagaye jaan ye nara (Husain zindabad)
+  Kaho ye milke hamara Husain zindabad (Husain Zindabad)
+  2) Amire shehr shahadat hai tera naam Husain.
+  Tuji pe behja hai islam me salaam Husain.
+  Hai tere hato me konain ka nizaam Husain.
+  Suna jo noke sina par (tera kalaam Husain)
+  Pukaa utha ye nazaara (Husain zindabad)
+  Lagaye jaan ye nara (Husain zindabad)
   3) Kiya hai pani tere ghawsalo ne pathar ko.
   Shikast di hai teri pyaas ne samandar ko.
   Fana ke kabr me dafna kiya sikandar ko.
   Ulat ke rakhdiya tune (har ek manzar ko)
-  Hakikato ko ubharaa (hussain zindabad)
-  Lagaye jaan ye nara (hussain zindabad)
+  Hakikato ko ubharaa (Husain zindabad)
+  Lagaye jaan ye nara (Husain zindabad)
   4) Kayaar shab pe ujalo ne hukmaraani ki.
   Jale diye to hawo ne paas pani ki.
   Mili zaif ko ugrayi ya jawaani ki.
   Zaban hogayi majbur (be zabaani ki)
-  Ye tera faiz he saraa (hussain zindabad)
-  Lagaye jaan ye nara (hussain zindabad)
-  5) Payaame haq hai khuda ki kasam bayame hussain.
-  Har eik cheez hai konain ki ghulam hussain.
-  Wo mohtaram hai jo karta hai ehtaram hussain.
-  Aghar yazid se lena hai (intikaam hussain)
-  Laghawo dhoop ye nara (hussain zindabad)
-  Lagaye jaan ye nara (hussain zindabad)
-  6) Jo ghar lutaata hai usko hussain kehte hai.
-  Jo din bachaata hai usko hussain kehte hai.
-  Jo hurmalaata hai usko hussain kehte hai.
-  Jo jeet jaata hai (usko hussain kehte hai)
-  Shujaawo tone pukaraa (hussain zindabad)
-  Lagaye jaan ye nara (hussain zindabad)
+  Ye tera faiz he saraa (Husain zindabad)
+  Lagaye jaan ye nara (Husain zindabad)
+  5) Payaame haq hai khuda ki kasam bayame Husain.
+  Har eik cheez hai konain ki ghulam Husain.
+  Wo mohtaram hai jo karta hai ehtaram Husain.
+  Aghar yazid se lena hai (intikaam Husain)
+  Laghawo dhoop ye nara (Husain zindabad)
+  Lagaye jaan ye nara (Husain zindabad)
+  6) Jo ghar lutaata hai usko Husain kehte hai.
+  Jo din bachaata hai usko Husain kehte hai.
+  Jo hurmalaata hai usko Husain kehte hai.
+  Jo jeet jaata hai (usko Husain kehte hai)
+  Shujaawo tone pukaraa (Husain zindabad)
+  Lagaye jaan ye nara (Husain zindabad)
   7) Baraaye jung ye laykar jo zulfikaar gaya.
   Amir shaam ko beta ali ka haar gaya.
   Kiya ye wakt ne aylaan ikhtidaar gaya.
-  Hussain jit gaye or (yazid hargaya)
-  Khuda ka din pukaraa (hussain zindabad)
-  Lagaye jaan ye nara (hussain zindabad)
+  Husain jit gaye or (yazid hargaya)
+  Khuda ka din pukaraa (Husain zindabad)
+  Lagaye jaan ye nara (Husain zindabad)
   8) Ali ka laal shahe mashrakayn zindaa hay.
   Wo kalb fatema zehra ka cheyn zindaa hai.
   Shabaab fate hai kadro hunain zindaa hai.
-  Yazid margayaa mera (hussain zinda hai)
-  Ye zindagi ka hai naraa (hussain zindabad)
-  Lagaye jaan ye nara (hussain zindabad)
+  Yazid margayaa mera (Husain zinda hai)
+  Ye zindagi ka hai naraa (Husain zindabad)
+  Lagaye jaan ye nara (Husain zindabad)
   9) Ye tera dost bhi tera adoo bhi kehta hai.
   Chiraag andhiyo ki rubaru bhi kehta hai.
   Alam bhi tegh bhi chah dil gulu bhi kehta hai.
   Nazar bhi fikr bhi dil bhi (lahu bhi kehta hai)
-  Jo katl hoke naharaa (hussain zindabad)
-  Lagaye jaan ye nara (hussain zindabad)
+  Jo katl hoke naharaa (Husain zindabad)
+  Lagaye jaan ye nara (Husain zindabad)
   10) Wafa ka samt tera gohar sada pasand rahe.
   Nishan matame shabbir al jo band rahe.
-  Alam hussain ke lashkar ka sar baland rahe.
+  Alam Husain ke lashkar ka sar baland rahe.
   Yazid kabr ki gayrayiyo (me band rahe)
-  Dile hussain hamara (hussain zindabad)
-  11) Lagaye jaan ye nara (hussain zindabad)
-  Kaho ye milke dobara (hussain zindabad)
-  Laghawo dhoop ke nara (hussain zindabad)
-  Lagaye jaan ye nara (hussain zindabad)
-  Kaho ye milke dobara (hussain zindabad)
+  Dile Husain hamara (Husain zindabad)
+  11) Lagaye jaan ye nara (Husain zindabad)
+  Kaho ye milke dobara (Husain zindabad)
+  Laghawo dhoop ke nara (Husain zindabad)
+  Lagaye jaan ye nara (Husain zindabad)
+  Kaho ye milke dobara (Husain zindabad)
 # source_id: ziyaraat:5d94da4aac3c0a8474a1
 # source_url: https://www.ziyaraat.net/api/noha/267
 # raw_sha256: 1cba438f54ef00dce07f79b6ff36475d5a30278ae94a738d61e4d458a9bc40a1

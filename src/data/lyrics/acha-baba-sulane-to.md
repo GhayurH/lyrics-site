@@ -12,55 +12,55 @@ published: false
 romanLyrics: |-
   1
   Kar raha hai ye raavi bayan karbala
-  Usne ashoor ki shab ka manzar likha
-  Seena e shaah pa binte shaah e huda
-  Aur shabbir kehte thay ye baarha
+  Usne ashur ki shab ka manzar likha
+  Sina e shaah pa binte shaah e huda
+  Aur shabbir kehte the ye baarha
   Hum ko jaana hai kal karne waada wafa
   Tum pe aajayega sabr ka marhala
   Bat saari sakina ne sheh ki suni
   Aur jawaban wo bas itna kehti rahi
   Acha baba sulane to aaoge na
   Roz chehra dikhane to aaoge na
-  Bole shabbir ay meri noor e nazar
+  Bole shabbir e meri nur e nazar
   Tumko karna hai ab shaam tak ka safar
   Tumko qaidi banayenge ab ahle shar
   Boli shehzadi mujhko nahi koi darr
   Tum kaho tum sulane to aaoge na
   Roz chehra dikhane to aaoge na
   Acha baba sulane to...
-  Shaah kehne lage ay meri laadli
-  Tumpe aayegi ab shaam e gham ki ghadi
-  Aag daaman mein hogi tumhare lagi
+  Shaah kehne lage ae meri laadli
+  Tumpe aayegi ab shaam e gham ki ghari
+  Aag daaman meiṅ hogi tumhare lagi
   Boli wo fikr mujhko nahi hai koi
   Mera daaman bujhane to aaoge na
   Roz chehra dikhane to aaoge na
   Acha baba sulane to...
-  Muztarib dil se kehne lage shaah e deen
-  Teri qismat mein beti sukoon ab nahi
-  Ab tamache lagayega shimr e layeen
-  Sunke ye baat kehne lagi wo hazeen
+  Muztarib dil se kehne lage shaah e diṅ
+  Teri qismat meiṅ beti sukun ab nahi
+  Ab tamache lagayega shimr e layiṅ
+  Sunke ye baat kehne lagi wo haziṅ
   Shimr se tum bachane to aaoge na
   Roz chehra dikhane to aaoge na
   Acha baba sulane to...
-  Phir kiya sheh ne beti se kuch yun sukhan
-  Sab haram honge ab to aseer e mehan
-  Tere haathon mein bhi ab bandhegi rasan
+  Phir kiya sheh ne beti se kuch yuṅ sukhan
+  Sab haram honge ab to asir-e-mehan
+  Tere haathoṅ meiṅ bhi ab bandhegi rasan
   Boli ye baat sunke wo tashna dahan
-  Tum galay se lagane to aaoge na
+  Tum gale se lagane to aaoge na
   Roz chehra dikhane to aaoge na
   Acha baba sulane to...
-  Roke shabbir ne uske bosay liye
+  Roke shabbir ne uske bose liye
   Bole rukhsar bhi honge zakhmi tere
   Tere rone ke shehzadi din aagaye
   Boli tum kaise dekhoge rote huwe
-  Haan mujhe chup karane to aaoge na
+  Haaṅ mujhe chup karane to aaoge na
   Roz chehra dikhane to aaoge na
   Acha baba sulane to...
-  Badhti jaati thi bechaini shabbir ki
+  Barhti jaati thi bechaini shabbir ki
   Har sitam wo uthane pe raazi hui
   Zinda baba na honge samajh na saki
-  Sunke sab mushkilein bas ye kehti rahi
-  Gar mai roothi manane to aaoge na
+  Sunke sab mushkileiṅ bas ye kehti rahi
+  Gar mai ruthi manane to aaoge na
   Roz chehra dikhane to aaoge na
   Acha baba sulane to...
   Likh ke salman dil phat raha hai mera

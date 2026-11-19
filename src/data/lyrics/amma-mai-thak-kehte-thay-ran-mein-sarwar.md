@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kehte thay ran mein sarwar
+  Kehte the ran meiṅ sarwar
   Maara gaya baradar
-  Tooti kamar hai meri
+  Tuti kamar hai meri
   Laashe utha utha kar
   Amma mai thak gaya hoo
   Seh roz ka hoo pyasa
@@ -24,45 +24,45 @@ romanLyrics: |-
   Amma mai thak gaya hoo...
   Ye fikr khaa rahi hai
   Ab shaam aa rahi hai
-  Mansoobein fauje aada
+  Mansubeiṅ fauje aada
   Ab ye bana rahi hai
-  Cheene haram ki chadar
+  Chine haram ki chadar
   Amma mai thak gaya hoo...
-  Ay amma ye na poocho
+  Ae amma ye na pucho
   Kya hogaya hai mujhko
   Tum khud hi zakhme akbar
-  Maidan mein aake dekho
+  Maidaṅ meiṅ aake dekho
   Qaabu nahi hai dil par
   Amma mai thak gaya hoo...
   Maqtal se chun ke laaya
   Pamaal ek laasha
-  Haathon ki jiski mehndi
+  Haathoṅ ki jiski mehndi
   Deti thi mujhko pursa
   Aansu baha baha kar
   Amma mai thak gaya hoo...
   Bedast ho ke ghazi
-  Sota hai neend gehri
-  Dooba lahoo mein parcham
+  Sota hai nind gehri
+  Duba lahu meiṅ parcham
   Zakhmi hai mashk uski
   Usko jagaa jagaa kar
   Amma mai thak gaya hoo...
-  Tooti kamar sambhalun
-  Ya dil pe haath rakhun
-  Jo teer aa rahe hai
-  Haathon se kaise rokun
+  Tuti kamar sambhaluṅ
+  Ya dil pe haath rakhuṅ
+  Jo tir aa rahe hai
+  Haathoṅ se kaise rokuṅ
   Khud ko bacha bacha kar
   Amma mai thak gaya hoo...
-  Khushboo bata rahi hai
-  Aap aagayi hai rann mein
-  Mai kab se dhoondta hoo
-  Karbobala ke ban mein
+  Khushbu bata rahi hai
+  Aap aagayi hai rann meiṅ
+  Mai kab se dhundta hoo
+  Karbobala ke ban meiṅ
   Aajao khud hi maadar
   Amma mai thak gaya hoo...
   Aayi sada e zehra
-  Rehaan karbala mein
+  Rehaan karbala meiṅ
   Tanha nahi hai ab tu
-  Is maqtal e jafa mein
-  Kyun keh raha hai dilbar
+  Is maqtal e jafa meiṅ
+  Kiuṅ keh raha hai dilbar
   Amma mai thak gaya hoo...
 # source_id: nohayonline:184cb41c25b7b52a1bec
 # source_url: https://www.nohayonline.com/details_content.php?id=2392

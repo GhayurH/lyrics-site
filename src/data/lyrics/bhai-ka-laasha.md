@@ -12,10 +12,10 @@ published: false
 romanLyrics: |-
   1
   Dushman ko bhi na bhai ka matam khuda dikhaye
-  Logon batao bhai ko bhai kahan se laaye
+  Logoṅ batao bhai ko bhai kahaṅ se laaye
   Bhai ko khuda bhai ka laasha na dikhaye
   Bhai ko khuda bhai...
-  Laashe pe alamdar ke sheh kehte thay haye
+  Laashe pe alamdar ke sheh kehte the haye
   Bhai ko khuda bhai...
   Kya saani e zehra ko mai batlaunga bhaiya
   Mai laash se uthkar to nahi jaunga bhaiya
@@ -23,50 +23,50 @@ romanLyrics: |-
   Bhai ko khuda bhai...
   Phat jayega gham se mera dil thaam lo abbas
   Ab dayr bahot ho gayi ghar ko chalo abbas
-  Aisa na ho maqtal mein sakina chali aaye
+  Aisa na ho maqtal meiṅ sakina chali aaye
   Bhai ko khuda bhai...
-  Ab haaton mein larza hai kahan jaan rahi hai
-  Mazloom ki ghurbat mein kamar toot gayi hai
+  Ab haatoṅ meiṅ larza hai kahaṅ jaan rahi hai
+  Mazlum ki ghurbat meiṅ kamar tut gayi hai
   Ya rab kisi dushman pe bhi ye waqt na aaye
   Ho gaya marna sitam abbas ka
   Abbas pani lao abbas pani lao
-  Haaton mein khaali kooze bache liye huwe hai
+  Haatoṅ meiṅ khaali kuze bache liye huwe hai
   Ghirde sakina dekho halqa kiye huwe hai
   Bache na jaane kab ka pani piye huwe hai
   Bin aab mar na jaye pani inhe pilao
   Abbas abbas abbas pani lao abbas pani lao
   Bhai ko khuda bhai...
-  Pehlu mein sada maine bithaya tumhe bhai
-  Jis bhai ne godi mein uthaya tumhe bhai
+  Pehlu meiṅ sada maiṅ ne bithaya tumhe bhai
+  Jis bhai ne godi meiṅ uthaya tumhe bhai
   Wo bhai bhala kaise teri laash uthaye
   Bhai ko khuda bhai...
   Maa behne hai hamshakle payambar ke hawale
   Mai mashk o alam karta hoo akbar ke hawale
-  Himmat nahi shabbir mein jo qaimon mein jaye
+  Himmat nahi shabbir meiṅ jo qaimon meiṅ jaye
   Bhai ko khuda bhai...
   Sadaat hai ye shaam ke lashkar ko batao
   Jaate huwe ye shimr se kehte huwe jao
   Wo meri sakina ko tamache na lagaye
-  Toot gayi aas meri toot gayi aas
+  Tut gayi aas meri tut gayi aas
   In shab shabe matame hussaina
   Laachar laachar laachar hussaina
-  Dayr hui mere chacha jaan ko sidhare
+  Dayr hui mere chacha jaaṅ ko sidhare
   Akbar o baba hai gaye nehr kanare
   Amma mera qalb jala pyaas ke maare
-  Toot'te jaate hai mere dil ke sahare
-  Toot gayi aas meri toot gayi aas
+  Tut'te jaate hai mere dil ke sahare
+  Tut gayi aas meri tut gayi aas
   Bhai ko khuda bhai...
   Akbar ko abhi jaane do humne to kaha tha
   Aulaad to mil jaati hai bhai nahi milta
-  Shabbir kahan se tumhe ab dhoond ke laaye
+  Shabbir kahaṅ se tumhe ab dhund ke laaye
   Bhai ko khuda bhai...
   Sadaat ye kehte hai ke hum pyase rahenge
   Tum ne na piya pani to hum bhi na piyenge
-  Allah hamein pyasa hi dunya se uthaye
+  Allah hameiṅ pyasa hi dunya se uthaye
   Bhai ko khuda bhai...
-  Mud mud ke takay jaate thay abbas ka laasha
-  Girte kabhi uth'te thay takallum shahe waala
-  Akbar badi mushkil se sambhale huwe aaye
+  Mur mur ke take jaate the abbas ka laasha
+  Girte kabhi uth'te the takallum shahe waala
+  Akbar bari mushkil se sambhale huwe aaye
   Bhai ko khuda bhai...
 # source_id: nohayonline:c132018449fd061b8e6c
 # source_url: https://www.nohayonline.com/details_content.php?id=1074

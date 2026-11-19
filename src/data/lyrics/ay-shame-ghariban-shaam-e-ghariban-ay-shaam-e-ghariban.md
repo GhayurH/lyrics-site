@@ -1,6 +1,6 @@
 ---
 title: "اے شام غریباں اے شام غریباں"
-alternateTitle: "Ay Shame Ghariban"
+alternateTitle: "E Shame Gharibaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,40 +10,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ay shaam e ghariban ay shaam e ghariban
+  E shaam e gharibaṅ e shaam e gharibaṅ
   Zainab ki sada aayi
-  Ay shaam e ghariban ay shaam e ghariban
+  E shaam e gharibaṅ e shaam e gharibaṅ
 
   1
   Kya bhai ki khata thi kya bhai ki khata thi
 
   2
   Sab qaime jal chuke hai chadar nahi hai sar par
-  Akbar raha na ghazi ay shaam e ghariban
+  Akbar raha na ghazi e shaam e gharibaṅ
 
   3
-  Seene pe sone waali khaati hai ab tamache
-  Hadh hogayi jafa ki ay shaam e ghariban
+  Sine pe sone waali khaati hai ab tamache
+  Hadh hogayi jafa ki e shaam e gharibaṅ
 
   4
-  Jalte huwe gharon mein jhoola bhi jal gaya hai
-  Rota hai aasman bhi ay shaam e ghariban
+  Jalte huwe gharoṅ meiṅ jhula bhi jal gaya hai
+  Rota hai aasmaṅ bhi e shaam e gharibaṅ
 
   5
-  Ghash mein pada hai abid kaise jagaye zainab
-  Hai har taraf udaasi hai ay shaam e ghariban
+  Ghash meiṅ para hai abid kaise jagaye zainab
+  Hai har taraf udaasi hai e shaam e gharibaṅ
 
   6
-  Be-sar pade hai laashe zainab kise sada de
-  Looti gayi ridayein ay shaam e ghariban
+  besar pare hai laashe zainab kise sada de
+  Luti gayi ridayeiṅ e shaam e gharibaṅ
 
   7
   Baazu bandhe huwe hai qaidi bani hui hai
-  Kufe ki shaahzadi ay shaam e ghariban
+  Kufe ki shaahzadi e shaam e gharibaṅ
 
   8
-  Rehaan ran may tadpa ek bawafa ka laasha
-  Zainab ne jab sada di ay shaam e ghariban
+  Rehaan ran may tarpa ek bawafa ka laasha
+  Zainab ne jab sada di e shaam e gharibaṅ
 # source_id: nohayonline:d7d02334f0a7120ab4c3
 # source_url: https://www.nohayonline.com/details_content.php?id=3339
 # raw_sha256: ae127dc01fad2ceacc0631ee7f0a8871d6270f619717ecbb0ef619a54157c329

@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ay gule gulzaar ali akbaram
+  Ae gule gulzaar ali akbaram
   Shaah ke dildaar ali akbaram
   Ya ali ali akbar ya ali ali akbar
   Ya ali ya ali ya ali akbar akbar akbar
@@ -20,52 +20,52 @@ romanLyrics: |-
   Salaam salaam ali akbar
   Naujawano ke madadgaar ali akbar hai
   Waqt ke hyder e karraar ali akbar hai
-  Lashkar e husn mein yusuf to faqat shaamil hai
-  Haan magar khaafila salaar ali akbar hai
+  Lashkar e husn meiṅ yusuf to faqat shaamil hai
+  Haaṅ magar khaafila salaar ali akbar hai
   Ali akbar ali akbar ali akbar ali ali
   Yusuf e laila dilbare zehra...
-  Yun to khud husn mein naadir hai hussain ibne ali
-  Par teri zaat pe faakhir hai hussain ibne ali
-  Saari dunya hai hussain ibne ali ki zaair
-  Aur tere chehre ke zaair hai hussain ibne ali
+  Yuṅ to khud husn meiṅ naadir hai Husain ibne ali
+  Par teri zaat pe faakhir hai Husain ibne ali
+  Saari dunya hai Husain ibne ali ki zaair
+  Aur tere chehre ke zaair hai Husain ibne ali
   Ali akbar ali akbar ali akbar ali ali
   Yusuf e laila dilbare zehra...
   Aap hai saaqi e kausar ki nishani akbar
-  Aap ke honton ka pyasa hai ye pani akbar
-  Humko majlis ke tabarruk mein shahadat de de
+  Aap ke hontoṅ ka pyasa hai ye pani akbar
+  Humko majlis ke tabarruk meiṅ shahadat de de
   Aap ke naam jawano ki jawani ali akbar
   Ali akbar ali akbar ali akbar ali ali
   Yusuf e laila dilbare zehra...
   Shabihe payambar akbar zibha ba maidan
   Shaah ka dilbar akbar zibha ba maidan
   Socha bhi na tha maa ne ye din kabhi aayega
-  Marne ke liye akbar maidan mein jayega
-  Qaimon mein bapa matam ay mere jawan akbar
+  Marne ke liye akbar maidan meiṅ jayega
+  Qaimon meiṅ bapa matam ae mere jawaaṅ akbar
   Zibha ba maidan
   Shabihe payambar akbar zibha ba maidan
   Salaam ali akbar salaam ali akbar
-  Jo zameen maskane shabbir ali akbar hai
-  Aap ke naam pe tehreer ali akbar hai
-  Humko thodi si jagah de de lehad ki khaatir
-  Karbala aap ki jageer ali akbar hai
+  Jo zamiṅ maskane shabbir ali akbar hai
+  Aap ke naam pe tehrir ali akbar hai
+  Humko thori si jagah de de lehad ki khaatir
+  Karbala aap ki jagir ali akbar hai
   Ali akbar ali akbar ali akbar ali ali
   Yusuf e laila dilbare zehra...
-  Yaad ashoor ki aati hai musalle pe hamein
-  Maqsade shaah bataati hai musalle pe hamein
-  Jab azan sunte hai mehsoos yehi hota hai
-  Teri awaaz bulaati hai musalle pe hamein
+  Yaad ashur ki aati hai musalle pe hameiṅ
+  Maqsade shaah bataati hai musalle pe hameiṅ
+  Jab azaṅ sunte hai mehsus yehi hota hai
+  Teri awaaz bulaati hai musalle pe hameiṅ
   Ali akbar ali akbar ali akbar ali ali
   Yusuf e laila dilbare zehra...
-  Ek ek zakhm ko aankhon mein basa rakha hai
-  Zakhmi seena tera seene se laga rakha hai
+  Ek ek zakhm ko aankhoṅ meiṅ basa rakha hai
+  Zakhmi sina tera sine se laga rakha hai
   Sheh ko bardaasht nahi tujhse judaai ek pal
-  Is liye aaj bh pehlu mein sula rakha hai
+  Is liye aaj bh pehlu meiṅ sula rakha hai
   Ali akbar ali akbar ali akbar ali ali
   Yusuf e laila dilbare zehra...
-  Khat e sughra jo mila laashe ali akbar par
-  Mir sajjad bahot roye wo padh kar sarwar
-  Fatema sughra ki tehreer yahan khatm hui
-  Apni shadi mein mujhe bhool na jaana akbar
+  Khat-e-sughra jo mila laashe ali akbar par
+  Mir sajjad bahot roye wo parh kar sarwar
+  Fatema sughra ki tehrir yahaṅ khatm hui
+  Apni shadi meiṅ mujhe bhul na jaana akbar
   Ali akbar ali akbar ali akbar ali ali
   Yusuf e laila dilbare zehra...
 # source_id: nohayonline:7f51fa26ff577b1ec872

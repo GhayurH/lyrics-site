@@ -10,57 +10,57 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haye kya aalam e tanhai hai
+  Haye kya aalam-e-tanhai hai
 
   1
   Aab aakhri ruqsat ko chale sayyede waala
-  Kohram tha dil hotay thay gham se taho baala
+  Kohram tha dil hote the gham se taho baala
   Shabbir ne godhi se sakina ko utara
   Ghazi ko kabhi akbar o qasim ko pukara
   Baba ko qasam de ke bulaati thi sakina
-  Sar peet'ti peeche chali jaati thi sakina
-  Achay mere baba
+  Sar pitti piche chali jaati thi sakina
+  Ache mere baba
 
   2
-  Achay mere baba na sakina se chupana
+  Ache mere baba na sakina se chupana
   Kahin bhool na jana
-  Dil rota hai kyun pehna hai malboos purana
-  Kahin bhool na jana
+  Dil rota hai kiuṅ pehna hai malbus purana
+  Kahiṅ bhul na jana
   Is tarha safar par koi jaata nahi dekha
   Pehne tumhe aisa kabhi kurta nahi dekha
-  Mai jaan gayi aaj hai maqtal mein thikana
-  Kahin bhool na jana
-  Achay mere baba…
-  Sheh bolay mai qurban meri jaan sakina
+  Mai jaan gayi aaj hai maqtal meiṅ thikana
+  Kahiṅ bhul na jana
+  Ache mere baba…
+  Sheh bole mai qurban meri jaan sakina
   Ek waada hai jo aaj nibhana hai sakina
-  Qaimo se nikal kar na hamein dhoondne aana
-  Kahin bhool na jana
-  Achay mere baba…
-  Kal raat se bechain thay mai dekh rahi thi
-  Mai seene pe layti thi magar soyi kahan thi
-  Ab samjhi tumhe humse bohat door hai jaana
-  Kahin bhool na jana
-  Achay mere baba…
-  Aata hai nazar haal ghareebi ka tumhari
-  Lagta hai ye samaan yateemi ka hamari
-  Baba hamein jeene nahi dega ye zamana
-  Kahin bhool na jana
-  Achay mere baba…
+  Qaimo se nikal kar na hameiṅ dhundne aana
+  Kahiṅ bhul na jana
+  Ache mere baba…
+  Kal raat se bechain the mai dekh rahi thi
+  Mai sine pe layti thi magar soyi kahaṅ thi
+  Ab samjhi tumhe humse bohat dur hai jaana
+  Kahiṅ bhul na jana
+  Ache mere baba…
+  Aata hai nazar haal gharibi ka tumhari
+  Lagta hai ye samaan yatimi ka hamari
+  Baba hameiṅ jine nahi dega ye zamana
+  Kahiṅ bhul na jana
+  Ache mere baba…
   Akbar kabhi asghar kabhi qasim ne rulaya
   Jo ran ko gaya aaj palat kar nahi aaya
-  Bhooli nahi ab tak mai chacha jaan ka jaana
-  Kahin bhool na jana
-  Achay mere baba…
-  Pehlu se shahe deen ke na hat-ti thi sakina
-  Daaman kabhi qadmon se lipat-ti thi sakina
-  Tadpata hai ye aap ka daaman ko chudana
-  Kahin bhool na jana
-  Achay mere baba…
-  Ay sarwar o rehan ye kehne lagay sarwar
-  Hum bhi wahin jaate hai jahan sotay hai asghar
+  Bhuli nahi ab tak mai chacha jaan ka jaana
+  Kahiṅ bhul na jana
+  Ache mere baba…
+  Pehlu se shahe diṅ ke na hat-ti thi sakina
+  Daaman kabhi qadmoṅ se lipat-ti thi sakina
+  Tarpata hai ye aap ka daaman ko churana
+  Kahiṅ bhul na jana
+  Ache mere baba…
+  Ae sarwar o rehan ye kehne lage sarwar
+  Hum bhi wahiṅ jaate hai jahaṅ sote hai asghar
   Beti phuphi amma ko na ro ro ke rulana
-  Kahin bhool na jana
-  Achay mere baba…
+  Kahiṅ bhul na jana
+  Ache mere baba…
 # source_id: nohayonline:40fc5b92ef7455407943
 # source_url: https://www.nohayonline.com/details_content.php?id=356
 # raw_sha256: 80cdb77531f4fff57f3e37265d1deefcd60203fce7fe75185866f22869e2ec0e

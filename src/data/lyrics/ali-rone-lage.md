@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Rone waalon rone waalon
+  Rone waaloṅ rone waaloṅ
   Dekh kar beti ke aansu khud bhi ro jaata hai baap
-  Kitna bebas betiyon ke gham mein ho jaata hai baap
-  Sar shikasta hogaya lekin ali khamosh thay
-  Betiyon ka jab khayal aaya ali rone lage
-  Dard ki shiddat mein bhi na aankh se aansu bahe
-  Betiyon ka jab khayal aaya ali rone lage
-  Jab hassan ne baap ka sar apne zaano par rakha
+  Kitna bebas betiyoṅ ke gham meiṅ ho jaata hai baap
+  Sar shikasta hogaya lekin ali khamosh the
+  Betiyoṅ ka jab khayal aaya ali rone lage
+  Dard ki shiddat meiṅ bhi na aankh se aansu bahe
+  Betiyoṅ ka jab khayal aaya ali rone lage
+  Jab Hasan ne baap ka sar apne zaano par rakha
   Zakhm gehra dekh ke shabbir ne girya kiya
-  Apne beton ko musalsal hausla dete rahe
-  Betiyon ka jab...
-  Betiyon ke haal ka tha baap ki aankhon mein gham
-  Haye zainab haye chadar keh rahe thay har qadam
-  Masjid e kufa se ghar tak raaston ko dekh ke
-  Betiyon ka jab...
-  Dekh ke is haal mein mar jaaye na zainab meri
+  Apne betoṅ ko musalsal hausla dete rahe
+  Betiyoṅ ka jab...
+  Betiyoṅ ke haal ka tha baap ki aankhoṅ meiṅ gham
+  Haye zainab haye chadar keh rahe the har qadam
+  Masjid-e-kufa se ghar tak raastoṅ ko dekh ke
+  Betiyoṅ ka jab...
+  Dekh ke is haal meiṅ mar jaaye na zainab meri
   Saamne uske mai ghar se chal ke aaya tha abhi
-  Apne beton ke sahare haye ghar jaate huwe
-  Betiyon ka jab...
-  Karbala yaad aayi to chooma gala shabbir ka
+  Apne betoṅ ke sahare haye ghar jaate huwe
+  Betiyoṅ ka jab...
+  Karbala yaad aayi to chuma gala shabbir ka
   Aur phir abbas ke shaano ka bhi bosa liya
-  Haan magar sajjad ke nanhe se paon choom ke
-  Betiyon ka jab...
-  Kitne manzar aa rahe thay murtaza ke roo baroo
-  Zakhmi sar se beh ke aa pahuncha jo chehre tak lahoo
-  Shaam mein sar pe baraste patharon ka soch ke
-  Betiyon ka jab...
-  Jab gayi darbar zahra thay sahabi saamne
-  Shaam ke darbar mein honge sharabi saamne
-  Aakhri sanson mein naame fatema lete huwe
-  Betiyon ka jab...
-  Kyun ali ki aankh se hote rahe aansu rawan
-  Bas wo samjhega khuda ne di hai jis ko betiyan
-  Dil tadap kar reh gaya jab ye suna zeeshan se
-  Betiyon ka jab...
+  Haaṅ magar sajjad ke nanhe se paoṅ chum ke
+  Betiyoṅ ka jab...
+  Kitne manzar aa rahe the murtaza ke roo baroo
+  Zakhmi sar se beh ke aa pahuncha jo chehre tak lahu
+  Shaam meiṅ sar pe baraste patharoṅ ka soch ke
+  Betiyoṅ ka jab...
+  Jab gayi darbar zahra the sahabi saamne
+  Shaam ke darbar meiṅ honge sharabi saamne
+  Aakhri sansoṅ meiṅ naame fatema lete huwe
+  Betiyoṅ ka jab...
+  Kiuṅ ali ki aankh se hote rahe aansu rawaṅ
+  Bas wo samjhega khuda ne di hai jis ko betiyaṅ
+  Dil tarap kar reh gaya jab ye suna zishan se
+  Betiyoṅ ka jab...
 # source_id: nohayonline:1c5b0d43d4e3bc8367d6
 # source_url: https://www.nohayonline.com/details_content.php?id=3183
 # raw_sha256: 6baf7ec828fabfbbfd3c5fa3e99364b9dc860153d6b377168ef393df75a7a40c

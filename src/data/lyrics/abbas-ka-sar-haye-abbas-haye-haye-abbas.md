@@ -12,43 +12,43 @@ published: false
 romanLyrics: |-
   1
   Haye abbas haye haye abbas
-  Ghairat ka aasman zainab ka sayeban
+  Ghairat ka aasmaṅ zainab ka sayebaṅ
   Kaise zainab ki taraf dekhta abbas ka sar
   Sharm se khaak pe girta raha abbas ka sar
 
   2
-  Shaam ke logon ne pathar se kiya isteqbal
-  Jun hi bazar mein daakhil hua abbas ka sar
+  Shaam ke logoṅ ne pathar se kiya isteqbal
+  Jun hi bazar meiṅ daakhil hua abbas ka sar
   Kaise zainab ki taraf...
-  Yun bhi is sar se liya badr o ohad ka badla
+  Yuṅ bhi is sar se liya badr o ohad ka badla
 
   3
-  Hoo ba hoo baba ali jaisa tha abbas ka sar
+  Hu ba hu baba ali jaisa tha abbas ka sar
   Kaise zainab ki taraf...
   Wo sina par bhi na aaqa ke barabar aaya
-  Sheh ki ta'zeem mein jhukta raha abbas ka sar
+  Sheh ki ta'zeem meiṅ jhukta raha abbas ka sar
 
   4
   Kaise zainab ki taraf...
-  Paon ke aabile abid ko kahan yaad rahe
-  Jab gira garm zameen par gira abbas ka sar
+  Paoṅ ke aabile abid ko kahaṅ yaad rahe
+  Jab gira garm zamiṅ par gira abbas ka sar
   Kaise zainab ki taraf...
 
   5
-  Yun bhi baandha gaya rahwaar ki gardan se isay
-  Zulm nazdeek se dekhe zara abbas ka sar
+  Yuṅ bhi baandha gaya rahwaar ki gardan se ise
+  Zulm nazdik se dekhe zara abbas ka sar
   Kaise zainab ki taraf...
-  Pehle chadar se lahoo saaf kiya zainab ne
+  Pehle chadar se lahu saaf kiya zainab ne
 
   6
   Saath asbaab ke jis dam mila abbas ka sar
   Kaise zainab ki taraf...
-  Nehr pe jis ghadi abbas ne dam toda tha
-  Dilbar e zahra ki godhi mein tha abbas ka sar
+  Nehr pe jis ghari abbas ne dam tora tha
+  Dilbar e zahra ki godhi meiṅ tha abbas ka sar
 
   7
   Kaise zainab ki taraf...
-  Yaad zeeshan sar e shere khuda aane laga
+  Yaad zishan sar e shere khuda aane laga
   Gurz se aise shikasta hua abbas ka sar
   Kaise zainab ki taraf...
 # source_id: nohayonline:579f121414ecdf6aa8ac

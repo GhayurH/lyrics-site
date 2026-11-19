@@ -13,7 +13,7 @@ romanLyrics: |-
 
   mai tera deen bachaunga, ay mere nana
   mai apna khoon bahaunga ay mere nana
-  hussain jaata hai marne, salaam maa ke mazaar
+  Husain jaata hai marne, salaam maa ke mazaar
   salaam nana ke roze….
 
   meri shareeke safar banke, saath chal amma
@@ -27,7 +27,7 @@ romanLyrics: |-
   salaam nana ke roze….
 
   diye jalane ko nana, tumhare roze par
-  zaroor aayegi sughra har ek shaam-o-sehar
+  zaroor aayegi sughra har ek shaam o sehar
   khuda kare rahe roshan, sada tumhara mazaar
   salaam nana ke roze….
 

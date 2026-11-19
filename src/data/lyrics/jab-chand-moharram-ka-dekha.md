@@ -11,66 +11,66 @@ published: false
 romanLyrics: |-
   1
   Jab chand moharram ka dekha
-  Mazloom ka khissa yaad aaya
+  Mazlum ka khissa yaad aaya
   Yasrab ki udaasi yaad aayi
-  Aur ujda madina yaad aaya
+  Aur ujra madina yaad aaya
 
   2
-  Dekha jo mahe nau gardoon par
-  Khoon behne laga aansu ban kar
-  Naize ki ani ke saath jawan
+  Dekha jo mahe nau garduṅ par
+  Khuṅ behne laga aansu ban kar
+  Naize ki ani ke saath jawaaṅ
   Bete ka kaleje yaad aaya
 
   3
   Yasrab ki udaasi...
   Qaabu na raha kuch bhi dil par
-  Seene mein laga gham ka nishtar
-  Jab chand ko dekha misle kamaan
+  Sine meiṅ laga gham ka nishtar
+  Jab chand ko dekha misle kamaaṅ
 
   4
   Baysheer ka khissa yaad aaya
   Yasrab ki udaasi...
-  Maqtal mein jo pahunchi fauje khuda
-  Tharrayi zameen gardoon kaampa
+  Maqtal meiṅ jo pahunchi fauje khuda
+  Tharrayi zamiṅ garduṅ kaampa
 
   5
   Shabbir ko sehra yaad aaya
   Abbas ko darya yaad aaya
   Yasrab ki udaasi...
-  Haathon se kaleja thaam liya
+  Haathoṅ se kaleja thaam liya
 
   6
   Aur dekh ke maqtal ko roye
-  Jab sarwar e deen ko waqte safar
-  Sughra ka tadapna yaad aaya
+  Jab sarwar e diṅ ko waqte safar
+  Sughra ka tarapna yaad aaya
   Yasrab ki udaasi...
 
   7
-  Jab bazme hussaini mein dekha
+  Jab bazme hussaini meiṅ dekha
   Lehrate huwe parcham haq ka
   Darya ki taraayi yaad aayi
   Abbas ka shaana yaad aaya
 
   8
   Yasrab ki udaasi...
-  Naaqe se tadap kar maajayi
-  Maqtal mein giri behosh hui
-  Jab zer e falak be-gor o kafan
+  Naaqe se tarap kar maajayi
+  Maqtal meiṅ giri behosh hui
+  Jab zer e falak begor o kafan
 
   9
   Maajaye ka laasha yaad aaya
   Yasrab ki udaasi...
-  Chaunk uth'ti thi sote mein aksar
-  Raaton ko rabab e khasta jigar
+  Chaunk uth'ti thi sote meiṅ aksar
+  Raatoṅ ko rabab e khasta jigar
 
   10
-  Zindan ke andhere mein usko
+  Zindaṅ ke andhere meiṅ usko
   Godhi ka ujaala yaad aaya
   Yasrab ki udaasi...
-  Kufe mein jo pahunche aale nabi
+  Kufe meiṅ jo pahunche aale nabi
 
   11
-  Pabande rasan thay sab qaidi
+  Pabande rasan the sab qaidi
   Hyder ki dulaari beti ko
   Baba ka zamana yaad aaya
   Yasrab ki udaasi...

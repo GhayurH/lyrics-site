@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zindan ki tareekiyon mein
-  Apne seene se lagaye huwe
+  Zindan ki tarikiyoṅ meiṅ
+  Apne sine se lagaye huwe
   Shabbir ka sar sakina kehti thi
   Baba baba suno mera safar
-  Aray sab ke thay shaane bandhe
+  Are sab ke thay shaane bandhe
   Mera bandha tha ghala
-  Mai panjon pe chalti rahi baba
-  Aap se kaise kahun kaise kata wo safar
+  Mai panjoṅ pe chalti rahi baba
+  Aap se kaise kahuṅ kaise kata wo safar
   Aale payambar chali rote huwe nange sar
-  Aap chale naize par kaanton pe bhai chala
-  Mai panjon pe chalti...
-  Mere phupi raah mein ashk bahati rahi
-  Zulm rulaate rahe dhoop jalati rahi
-  Zakhm mere paon ka dhoop se jalta raha
-  Mai panjon pe chalti...
+  Aap chale naize par kaantoṅ pe bhai chala
+  Mai panjoṅ pe chalti...
+  Mere phupi raah meiṅ ashk bahati rahi
+  Zulm rulaate rahe dhup jalati rahi
+  Zakhm mere paoṅ ka dhup se jalta raha
+  Mai panjoṅ pe chalti...
   Maazi ke kuch waqeye yaad jo aaye mujhe
-  Seene pe kaise muje aap sulaate rahe
-  Yaadon mein yun khogayi bhool gayi har jafa
-  Mai panjon pe chalti...
-  Sabr ka daaman mere haath se choota nahi
+  Sine pe kaise muje aap sulaate rahe
+  Yaadoṅ meiṅ yuṅ khogayi bhul gayi har jafa
+  Mai panjoṅ pe chalti...
+  Sabr ka daaman mere haath se chuta nahi
   Naize se kya aap ne baba ye dekha nahi
   Khichti rahi reesma chalta raha khafila
-  Mai panjon pe chalti...
+  Mai panjoṅ pe chalti...
   Aankh barasne lagi qalb hua nauha ghar
   Aaya nazar jab mujhe naize pe asghar ka sar
-  Roti rahi mai usay wo mujhe rota raha
-  Mai panjon pe chalti...
-  Tum ko kafan dediya rayt ke toofan ne
-  Baalon se parda kiya meri phuphi jaan ne
+  Roti rahi mai use wo mujhe rota raha
+  Mai panjoṅ pe chalti...
+  Tum ko kafan dediya rayt ke tufan ne
+  Baaloṅ se parda kiya meri phuphi jaan ne
   Aur mere dard ka koi madawa na tha
-  Mai panjon pe chalti...
-  Raah mein ammu ko jab dekha to maine kaha
-  Khol do meri rasan godh mein lelo chacha
-  Dekh ke rote rahe meri aseeri chacha
-  Mai panjon pe chalti...
+  Mai panjoṅ pe chalti...
+  Raah meiṅ ammu ko jab dekha to maiṅ ne kaha
+  Khol do meri rasan godh meiṅ lelo chacha
+  Dekh ke rote rahe meri asiri chacha
+  Mai panjoṅ pe chalti...
   Chain mayassar mujhe aa na saka ek pal
-  Zakhmi gala hogaya aur mere paon shal
-  Raat safar mein kati din bhi safar mein kata
-  Mai panjon pe chalti...
+  Zakhmi gala hogaya aur mere paoṅ shal
+  Raat safar meiṅ kati din bhi safar meiṅ kata
+  Mai panjoṅ pe chalti...
   Baba madine ke wo din bhi mujhe yaad hai
-  Sabz amaari mein jab bait ke jaati thi mai
+  Sabz amaari meiṅ jab bait ke jaati thi mai
   Aaj zara dekhiye kaise safar tay kiya
-  Mai panjon pe chalti...
-  Ek rasan mein bandhe chote badon ke galay
-  Laashon pe rote huwe karbobala se chale
+  Mai panjoṅ pe chalti...
+  Ek rasan meiṅ bandhe chote baroṅ ke gale
+  Laashoṅ pe rote huwe karbobala se chale
   Haal mera dekh ke rone lagi karbala
-  Mai panjon pe chalti...
-  Mazhar o irfan tum nauha padho is tarha
-  Shaam ke zindan mein bibi meri jis tarha
+  Mai panjoṅ pe chalti...
+  Mazhar o irfan tum nauha parho is tarha
+  Shaam ke zindan meiṅ bibi meri jis tarha
   Dekh ke baba ka sar karti thi aaho buka
-  Mai panjon pe chalti...
+  Mai panjoṅ pe chalti...
 # source_id: nohayonline:1234e707b9c7e1221621
 # source_url: https://www.nohayonline.com/details_content.php?id=3590
 # raw_sha256: 6601fc5ff9b252a2aa3aaa3c04520c9796371c37eda97b5fb787c973c61d40bd

@@ -15,47 +15,47 @@ romanLyrics: |-
   Jab mai bibi sakina ke rauze pe tha
   Dekh kar unke rauze ko dil ne kaha
   Kal ye rauza hi bibi ka zindan tha
-  Dekha rauza to maazi mein mai kho gaya
+  Dekha rauza to maazi meiṅ mai kho gaya
   Saamne mere zindan tha shaam ka
-  Us ghadi mere lab par fughan aa gayi
+  Us ghari mere lab par fughaṅ aa gayi
   Roshni ka safar bhi nahi
   Aur hawa ka guzar bhi nahi
   Kis khadar habs hai al amaan
-  Kaise rehti ho bibi yahan
+  Kaise rehti ho bibi yahaṅ
   Haye haye
   Tum ko yaad e padar sone deti nahi
-  Aur us pe sitam hai ye khauf e layeen
+  Aur us pe sitam hai ye khauf-e-layiṅ
   Zabte gham ek aazaar hai
   Saans lena bhi dushwaar hai
-  Tum to tum qaid hai sisikiyan
+  Tum to tum qaid hai sisikiyaṅ
   Kaise rehti ho...
-  Zakhm khaati ho aur ashk peeti ho tum
-  Mujhko hairat hai kis tarha jeeti ho tum
+  Zakhm khaati ho aur ashk piti ho tum
+  Mujhko hairat hai kis tarha jiti ho tum
   Taziyaane dawa ban gaye
   Ya andhere shifa ban gaye
-  Qaid mein aisa mumkin kahan
+  Qaid meiṅ aisa mumkin kahaṅ
   Kaise rehti ho...
-  Meri bibi mujassam fughan ho gayi
-  Kya khata thi ke qaidi yahan ho gayi
-  Kamsini mein yateemi mili
-  Ghar se nikli aseeri mili
+  Meri bibi mujassam fughaṅ ho gayi
+  Kya khata thi ke qaidi yahaṅ ho gayi
+  Kamsini meiṅ yatimi mili
+  Ghar se nikli asiri mili
   Sun raha hoo ye kehti hai maa
   Kaise rehti ho...
-  Fitrati saari baatein mujhe hai khabar
-  Qaid mein qaidi ko yaad aata hai ghar
-  Phool ban ke chaman mein rahi
-  Kitne naazon se ghar mein pali
-  Ab ye gham ye sitam sakhtiyan
+  Fitrati saari baateiṅ mujhe hai khabar
+  Qaid meiṅ qaidi ko yaad aata hai ghar
+  Phul ban ke chaman meiṅ rahi
+  Kitne naazoṅ se ghar meiṅ pali
+  Ab ye gham ye sitam sakhtiyaṅ
   Kaise rehti ho...
-  Shaam ki aurton se suna hai yehi
+  Shaam ki aurtoṅ se suna hai yehi
   Tum jo roti ho sota nahi hai shaqi
   Maarta hai wo sajjad ko
   Seh ke sajjad uftaad ko
-  Karte rehte hai bas ye fughan
+  Karte rehte hai bas ye fughaṅ
   Kaise rehti ho...
-  Dil pe kohe garan ek ehsaas hai
+  Dil pe kohe garaṅ ek ehsaas hai
   Chote bacche to darte hai tanhaai se
-  Har ghadi pehradaron ka dar
+  Har ghari pehradaron ka dar
   Saath koi nahi nauhagar
   Na padar na chacha aur na maa
   Kaise rehti ho...
@@ -63,25 +63,25 @@ romanLyrics: |-
   Phir to haq hai tumhara ke nauha karo
   Haye qismat ye na ho saka
   Hukm zaalim se tujh ko mila
-  Nauha khwani pe pabandiyan
+  Nauha khwani pe pabandiyaṅ
   Kaise rehti ho...
-  Aayi kaano mein ye qaidiyon ki fughan
-  Roke kehti hai zindan mein kuch bibiyan
+  Aayi kaano meiṅ ye qaidiyoṅ ki fughaṅ
+  Roke kehti hai zindaṅ meiṅ kuch bibiyaṅ
   Hum ye keh keh ke matam kare
-  Is yateema ko zindan mein
-  Pursa deti hai tanhaiyan
+  Is yateema ko zindaṅ meiṅ
+  Pursa deti hai tanhaiyaṅ
   Kaise rehti ho...
-  Phir tasalsul tasawwur ka toota mera
+  Phir tasalsul tasawwur ka tuta mera
   Mere peshe nazar rauza bibi ka tha
-  Haath masroofe matam huwe
-  Ashk aankhon se girne lage
-  Phir bhi honton pe thi ye fughan
+  Haath masrufe matam huwe
+  Ashk aankhoṅ se girne lage
+  Phir bhi hontoṅ pe thi ye fughaṅ
   Kaise rehti ho...
   Lafz mazhar ke ehsaas farhan ka
-  Wo ye kehta hai bibi se maine kaha
-  Maine ye keh ke matam kiya
-  Jin layeeno ne ki thi jafa
-  Un ki aulaad ke darmiyan
+  Wo ye kehta hai bibi se maiṅ ne kaha
+  Maiṅ ne ye keh ke matam kiya
+  Jin layino ne ki thi jafa
+  Un ki aulaad ke darmiyaṅ
   Kaise rehti ho...
 # source_id: nohayonline:8d89de90921ab23686f1
 # source_url: https://www.nohayonline.com/details_content.php?id=2661

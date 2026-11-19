@@ -12,41 +12,41 @@ published: false
 romanLyrics: |-
   1
   Mashk kaandhe pe liye ya ali kehke uthe
-  Dekha jibreel ne jab darr gaye kehne lage
+  Dekha jibril ne jab darr gaye kehne lage
   Dekho abbas chale dekho abbas chale
   Alqama khair mana wo alamdar e wafa
   Khaa ke zehra ki qasam saath zainab ki dua
-  Teri jaanib hai chala kaun rokega usay
+  Teri jaanib hai chala kaun rokega use
   Dekho abbas chale...
-  Zulfein wal lail hasham aankhein wan najm baham
-  Tayghe hyder ki tarha dodo ab unke thay kham
+  Zulfeiṅ wal lail hasham aankheiṅ wan najm baham
+  Tayghe hyder ki tarha doro ab unke the kham
   Seena tha misle asa baazu parcham se khule
   Dekho abbas chale...
   Jab alam unka khul;a hogayi saaf fiza
   Boli panje ki chamak marhaba salle alaa
   Alqama kehni lagi maut koi na bahe
   Dekho abbas chale...
-  Daf'atan kaami zameen aagaya sab ko yaqeen
+  Daf'atan kaami zamiṅ aagaya sab ko yaqiṅ
   Lashkare shaam ki ab khairiat koi nahi
-  Al-amaan ki thi sada ghaiz aankhon may liye
+  Al-amaaṅ ki thi sada ghaiz aankhoṅ may liye
   Dekho abbas chale...
-  Pyase bachon ne kaha tishnagi hogi fana
+  Pyase bachoṅ ne kaha tishnagi hogi fana
   Chal ke qaimon ki taraf aayega ab darya
-  Khaali koozon ne kaha lelo haathon may mujhe
+  Khaali kuzon ne kaha lelo haathoṅ may mujhe
   Dekho abbas chale...
   Thi sakina ki sada mil ke karte hai dua
   Ya ali kije madad hai jo ghusse may chacha
   Jaa ke darya pe unhe jang na yaad rahe
   Dekho abbas chale...
-  Nagahaan shor hua sher ghode se gira
-  Aas bachon ki gayi jab alam jhukne laga
+  Nagahaan shor hua sher ghore se gira
+  Aas bachoṅ ki gayi jab alam jhukne laga
   Jhuk gayi sheh ki kamar ro ke farmane lage
   Dekho abbas chale...
   Ghash sakina ko hua khaak pe kooza gira
   Khud ba khud girne lagi sar se zainab ki rida
   Boli darbaar may ab mai pukarungi kise
   Dekho abbas chale...
-  Waqt rehaan tha kya ho ke be-baazu gira
+  Waqt rehaan tha kya ho ke bebaazu gira
   Saahil e zulm pe jab wo alamdar e wafa
   Haye us waqt raza keh ke shabbir gire
   Dekho abbas chale...

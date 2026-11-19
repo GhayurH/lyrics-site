@@ -12,28 +12,28 @@ published: false
 romanLyrics: |-
   1
   Jo qaid hoke chala karwan e aale nabi
-  Nazar sakina ki sajjad e natawan pe padi
-  Ke taziyane bhi jis ko laga rahe thay shaqi
-  Tadapti is tarha shimr e layeen se kehne lagi
-  Khol de bediyan bhai bemaar hai
+  Nazar sakina ki sajjad e natawaṅ pe pari
+  Ke taziyane bhi jis ko laga rahe the shaqi
+  Tarapti is tarha shimr e layiṅ se kehne lagi
+  Khol de beriyaṅ bhai bemaar hai
   Soch behre khuda ye hai aale aba
-  Yun na durre laga bhai bemaar hai
-  Khol de bediyan...
+  Yuṅ na durre laga bhai bemaar hai
+  Khol de beriyan...
   Pehle hi isko gham kya diye tu ne kam
   Ab na kar ye sitam bhai bemaar hai
-  Khol de bediyan...
-  Kya milega tujhe isko yun maar ke
+  Khol de beriyan...
+  Kya milega tujhe isko yuṅ maar ke
   Ye aziyat na de bhai bemaar hai
-  Khol de bediyan...
-  Dekh ay bad gumaan kar na ye sakhtiyan
-  De de isko amaan bhai bemaar hai
-  Khol de bediyan...
-  Jism hai khoon se tar ab to kuch rehm kar
+  Khol de beriyan...
+  Dekh ae bad gumaaṅ kar na ye sakhtiyaṅ
+  De de isko amaaṅ bhai bemaar hai
+  Khol de beriyan...
+  Jism hai khuṅ se tar ab to kuch rehm kar
   Ye hai raahe safar bhai bemaar hai
-  Khol de bediyan...
-  Khoon rota raha shabbar e benawa
+  Khol de beriyan...
+  Khun rota raha shabbar e benawa
   Sun ke uski sada bhai bemaar hai
-  Khol de bediyan...
+  Khol de beriyan...
 # source_id: nohayonline:055e11f108c4a55cd810
 # source_url: https://www.nohayonline.com/details_content.php?id=3777
 # raw_sha256: 12454c4723fae132d8173e94b39875386a933333c75581b41881ba1ab6799db6

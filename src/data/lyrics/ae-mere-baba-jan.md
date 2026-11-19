@@ -10,53 +10,53 @@ tags: []
 aliases: ["ay-mere-baba-jan-darbar-e-sham"]
 published: false
 romanLyrics: |-
-  Us waqt jab ke Zainab darbaar mein gayi thi
-  Qaari namaaziyon se mehfil saji hui thi
-  Zaalim ye puchhta tha Ghazi tera kahan hai
-  Baalon se munh chhupaaye Zainab ye keh rahi thi
-  Ae mere Baba jaan ho rahi hai azaan sar chhupaun kahan
-  Majma-e-aam mein be-watan be-amaan aa gaya karwaan
+  Us waqt jab ke Zainab darbaar meiṅ gayi thi
+  Qaari namaaziyoṅ se mehfil saji hui thi
+  Zaalim ye puchhta tha Ghazi tera kahaṅ hai
+  Baaloṅ se munh chhupaaye Zainab ye keh rahi thi
+  Ae mere Baba jaan ho rahi hai azaaṅ sar chhupauṅ kahaṅ
+  Majma-e-aam meiṅ bewatan beamaan aa gaya karwaaṅ
 
   1
-  Main bhi hun Marziya bint-e-Khair-un-Nisa
-  Mere lehje mein hai Baba teri ada
-  Naam Zainab mera tu ne jo rakh diya de de apni zubaan
+  Maiṅ bhi huṅ Marziya bint-e-Khair-un-Nisa
+  Mere lehje meiṅ hai Baba teri ada
+  Naam Zainab mera tu ne jo rakh diya de de apni zubaaṅ
 
   2
-  Baba jaan main rida maangti reh gayi
-  Baam-o-dar saj gaye jite ji mar gayi
-  Halqa-e-Shaam mein naam sun kar mera mar gaya naatawaan
+  Baba jaaṅ maiṅ rida maangti reh gayi
+  Baam o dar saj gaye jite ji mar gayi
+  Halqa-e-Shaam meiṅ naam sun kar mera mar gaya naatawaaṅ
 
   3
-  Baba jaan ye tera aakhri tha bayaan
-  Teri chaadar bachaayega Ghazi jawaan
-  Mar gaya baawafa chhin gayi hai rida kehti hain Bibiyaan
+  Baba jaaṅ ye tera aakhri tha bayaaṅ
+  Teri chaadar bachaayega Ghazi jawaaṅ
+  Mar gaya baawafa chhin gayi hai rida kehti haiṅ Bibiyaaṅ
   Abbas Abbas Abbas
 
   4
   Ruk na paaya mere baawafa ka wo sar
   Nok-e-naiza se aane laga khaak par
-  Behan ko dar-ba-dar dekh kar nange sar seh na paaya jawaan
+  Behan ko dar-ba-dar dekh kar nange sar seh na paaya jawaaṅ
 
   5
-  Haath kaanon pe hain nil gaalon pe hain
-  Aur nishaan jo Sakina ke shaanon pe hain
-  Har nishaan se yehi aa rahi hai sada Baba jaan Baba jaan
+  Haath kaanoṅ pe haiṅ nil gaaloṅ pe haiṅ
+  Aur nishaaṅ jo Sakina ke shaanoṅ pe haiṅ
+  Har nishaaṅ se yehi aa rahi hai sada Baba jaaṅ Baba jaaṅ
 
   6
-  Shaam-e-Aashur se Shaam-o-Kufa talak
-  Main ne maanga nahi hai khiraaj-e-Fadak
-  Meri chaadar se hai meri maa ka sukun sun le zaalim jahaan
+  Shaam-e-Aashur se Shaam o Kufa talak
+  Maiṅ ne maanga nahi hai khiraaj-e-Fadak
+  Meri chaadar se hai meri maa ka sukuṅ sun le zaalim jahaaṅ
 
   7
-  Kal thi maa aaj main bhi hun darbaar mein
-  Misl-e-Zahra khari hun main aghyaar mein
-  Us taraf hain shaqi is taraf reh gayin be-pidar betiyaan
+  Kal thi maa aaj maiṅ bhi huṅ darbaar meiṅ
+  Misl-e-Zahra khari huṅ maiṅ aghyaar meiṅ
+  Us taraf haiṅ shaqi is taraf reh gayiṅ bepidar betiyaaṅ
 
   8
-  Aisa khutba diya main ne darbaar mein
-  Likh raha hai jo Yawar tere pyaar mein
-  Lehja-e-Haidari har azaan ke liye hai sada-e-azaan
+  Aisa khutba diya maiṅ ne darbaar meiṅ
+  Likh raha hai jo Yawar tere pyaar meiṅ
+  Lehja-e-Haidari har azaaṅ ke liye hai sada-e-azaaṅ
 # source_id: ziyaraat:b27e24ddbfe34108eec1
 # source_url: https://www.ziyaraat.net/api/noha/130
 # raw_sha256: 0999338b9b314d8dcebf4b851502761ad8c032854dfdfb054cc646895f72e0dc

@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Tareekh e karbala ka sab ko sabakh hai yaad
-  Hai khoon e sheh ke sadqe tauheed zindabad
-  Chauda sau saal guzre lekin labe rawan se
-  Aati hai ye sadayein masjid ki har azan se
-  Maidan e karbala mein khamosh mayyaton ne
+  Tarikh e karbala ka sab ko sabakh hai yaad
+  Hai khun-e-sheh ke sadqe tauhid zindabad
+  Chauda sau saal guzre lekin labe rawaṅ se
+  Aati hai ye sadayeiṅ masjid ki har azaṅ se
+  Maidan e karbala meiṅ khamosh mayyatoṅ ne
   Islam ki baqa ka elaan kar diya
-  Hasnain ke lahoo ke cheento ki rehmato ne
+  Hasnain ke lahu ke cheento ki rehmato ne
   Dunya ke har bashar par ehsaan kar diya hai
-  Shaah e mardan shere yazdan quwate parwardigar
+  Shaah e mardan shere yazdaṅ quwate parwardigar
   La fata illa ali la saif illa zulfeqaar
   Ye hai ali ka rutba abbas unka beta
-  Teeron ki barishon mein mashkeeza bhar raha hai
+  Tiroṅ ki barishoṅ meiṅ mashkeeza bhar raha hai
   Maidan e karbala mein...
-  Aale iba pani ki ek ek boondh ko haye taraste hai
-  Ahle haram registano mein maare maare phirte hai
-  Sehra e karbala mein un zaalimo ke haathon
+  Aale iba pani ki ek ek bundh ko haye taraste hai
+  Ahle haram registano meiṅ maare maare phirte hai
+  Sehra e karbala meiṅ un zaalimo ke haathoṅ
   Sarkar e do jahan ka pyara sa ghar luta hai
   Maidan e karbala mein...
-  Kya hai rutba aale nabi ka aao mohamed se poocho
-  Baaghe jina ke shehzadon se aun o mohamed se poocho
+  Kya hai rutba aale nabi ka aao mohamed se pucho
+  Baaghe jina ke shehzadoṅ se aun o mohamed se pucho
   Sajde se sar utha'ta kaise nabi khuda ka
-  Kaandhe pa apne jisne noore nazar liya hai
+  Kaandhe pa apne jisne nure nazar liya hai
   Maidan e karbala mein...
   Jo bhi gaya maqtal ki taraf laasha uska wapas aaya
   Aada ne har ek mujahid ko dhoka de kar maara
-  Ansar e shaah e deen ne tauheed ko bachane
-  Ishq e ali mein khud ko qurban kar diya hai
+  Ansar e shaah e deen ne tauhid ko bachane
+  Ishq e ali meiṅ khud ko qurban kar diya hai
   Maidan e karbala mein...
-  Baade shahe deen zainabe muztar deen ka alam lekar nikli
-  Shaam aur kufa ke darbaron ko wo ulat kar hi palti
-  Baatil samajh raha tha qatl e hussain kar ke
-  Tauheed ka tasavvur dunya se mit gaya hai
+  Baade shahe diṅ zainabe muztar diṅ ka alam lekar nikli
+  Shaam aur kufa ke darbaroṅ ko wo ulat kar hi palti
+  Baatil samajh raha tha qatl e Husain kar ke
+  Tauhid ka tasavvur dunya se mit gaya hai
   Maidan e karbala mein...
 # source_id: nohayonline:3691da1adb5f935bbc44
 # source_url: https://www.nohayonline.com/details_content.php?id=1184

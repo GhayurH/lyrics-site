@@ -11,61 +11,61 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ab waqt ke zaalim hosh mein aa
+  Ab waqt ke zaalim hosh meiṅ aa
   Abhi aakhri hyder baakhi hai
   Wo zlum o sitam baakhi na rahe
   Shabbir ka lashkar baakhi hai
-  Uth'ta hai alam batlane ko
+  Uthta hai alam batlane ko
   Abbas e dilawar baakhi hai
-  Phir saani e hyder hi toote
+  Phir saani e hyder hi tute
   Naize se qayamat layega
   Kaabe pe alam lehrayega
-  Ay aale payambar ke dushman
-  Sun ghaur se wo din door nahi
-  Parde mein jo sheh ka waaris hai
-  Mukhtar hai wo majboor nahi
+  Ae aale payambar ke dushman
+  Sun ghaur se wo din dur nahi
+  Parde meiṅ jo sheh ka waaris hai
+  Mukhtar hai wo majbur nahi
   Wo hukme khuda ka taabe hai
-  Lachaar nahi be-noor nahi
+  Lachaar nahi benoor nahi
   Jab shaane wigha dikhlayega
   Bin maut hi tu mar jayega
   Tum karbobala kaise loge
   Wo karbobala shabbir ki hai
   Daakhil nahi ho sakte hargiz
-  Wo jaye amaan baysheer ki hai
-  Aur jo bhi shahe mazloom ki hai
-  Wo sarwar ki hamsheer ki hai
+  Wo jaye amaaṅ baysheer ki hai
+  Aur jo bhi shahe mazlum ki hai
+  Wo sarwar ki hamshir ki hai
   Sehra e atash tu kya lega
   Jab shaam nahi le payega
-  Hai shaam mein zainba ka rauza
-  Zindan mein sakina ka rauza
-  Rauzon pe abhi bhi rehta hai
+  Hai shaam meiṅ zainba ka rauza
+  Zindaṅ meiṅ sakina ka rauza
+  Rauzoṅ pe abhi bhi rehta hai
   Abbas aur akbar ka pehra
-  Qabron hi hifazat ko ek din
+  Qabroṅ hi hifazat ko ek din
   Wo saakin e ghaibat aayega
   Phir hashr tumhara kya hoga
   Jab tayghe ali dikhlayega
-  Har ghar mein bapa majlis hogi
-  Har ghar mein bichegi farshe aza
-  Nauhon ki sadayein goonjegi
-  Har soo sheh ka matam hoga
-  Tameer baqayya mein hoga
+  Har ghar meiṅ bapa majlis hogi
+  Har ghar meiṅ bichegi farshe aza
+  Nauhoṅ ki sadayeiṅ goonjegi
+  Har su sheh ka matam hoga
+  Tamir baqayya meiṅ hoga
   Phir aale payambar ka rauza
-  Ujda hai jo gulshan barson se
+  Ujra hai jo gulshan barsoṅ se
   Dubara sajaya jayega
   Gulshan gulshan sehra sehra
-  Koocha koocha pariya pariya
+  Kucha kucha pariya pariya
   Har zarra padhega dunya ka
   Bas iski adalat ka kalma
-  Kaunain mein raaij hoga faqad
+  Kaunain meiṅ raaij hoga faqad
   Maula ke gharane ka sikka
   Ab jald hi kaabe ki chath par
   Ghazi ka alam lehrayega
   Abbas e jari ne parcham ko
-  Gaada bhi to gaada pani mein
+  Gaara bhi to gaara pani meiṅ
   Ye mashke sakina milne ko
-  Aajaye na maula pani mein
+  Aajaye na maula pani meiṅ
   Rehan o mubarak is tarha
-  Tehrara pursa pani mein
+  Tehrara pursa pani meiṅ
   Jis tarha jari pyasa palta
   Wo maula mera batlayaga
 # source_id: nohayonline:ddbd3eb2203ab900fad0

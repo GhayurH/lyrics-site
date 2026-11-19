@@ -10,44 +10,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mawaan Karbala diyaan mawaan
-  Putraan Diyaan Lashaan De Tukray Rayiyaan Labdiyaan Wich Sehrawan
+  Mawaaṅ Karbala diyaaṅ mawaaṅ
+  Putraaṅ Diyaaṅ Lashaaṅ De Tukre Rayiyaaṅ Labdiyaaṅ Wich Sehrawaṅ
 
   1
-  Sabar De Malik Choon Sain Laila Aakhay Izn Jay Dewin Te
-  Main Sabar Di Sanjh Che Akbar De Seene Choon Sangh Hatawaan
+  Sabar De Malik Choon Sain Laila Aakhe Izn Je Dewiṅ Te
+  Maiṅ Sabar Di Sanjh Che Akbar De Sine Chuṅ Sangh Hatawaaṅ
 
   2
-  Aakhay Maa Qasim Di Maa Te Ahsan Karein Dair Taein Larda Rawin
-  Tere Tukray Mutabiq Wadhniyaan Ne Mere Veer Hussain Di Sanwaan
+  Aakhe Maa Qasim Di Maa Te Ahsan Kareiṅ Dair Taeiṅ Larda Rawiṅ
+  Tere Tukre Mutabiq Wadhniyaaṅ Ne Mere Veer Husain Di Sanwaaṅ
 
   3
-  Jadon Qaidi Ho Ke Langiyaan Maqtal Choon Wain Zainab Kita
-  Lashaan Wal Mawaan Na Wekhan Kitay Ruk Na Jawan Sanwaan
+  Jadoṅ Qaidi Ho Ke Langiyaaṅ Maqtal Chuṅ Wain Zainab Kita
+  Lashaaṅ Wal Mawaaṅ Na Wekhan Kite Ruk Na Jawan Sanwaaṅ
 
   4
-  Ro Ke Har Maa Ayho Kaindi Rayi Shamiyaan Nu Bhawein Durray Maro
-  Bas De Do Ijazat Wich Sehra Main Putar Di Qabar Banawaan
+  Ro Ke Har Maa Ayho Kaindi Rayi Shamiyaaṅ Nu Bhaweiṅ Durre Maro
+  Bas De Do Ijazat Wich Sehra Maiṅ Putar Di Qabar Banawaaṅ
 
   5
-  Sain Zainab Ne Kehya Khol Abid Akhiyaan Jay Te Sanwaan Rukiyaan
-  Mainu Sham-e-Ghareebaan De Welay Deway Ga Kaun Salawaan
+  Saiṅ Zainab Ne Kehya Khol Abid Akhiyaaṅ Je Te Sanwaaṅ Rukiyaaṅ
+  Mainu Sham-e-Gharibaaṅ De Wele Dewe Ga Kaun Salawaaṅ
 
   6
-  Wain Kulsoom Da Si Lal Man Ke Ghazi Tainu Main Pa Liya Si
-  Mere Sir Di Chadar Haye V Lath Gayi Jadon Lathiyaan Teriyaan Banwaan
+  Wain Kulsum Da Si Lal Man Ke Ghazi Tainu Maiṅ Pa Liya Si
+  Mere Sir Di Chadar Haye V Lath Gayi Jadoṅ Lathiyaaṅ Teriyaaṅ Banwaaṅ
 
   7
-  Sangh Te Asghar Nu Wekh Ke Aakhay Rubab Jay Na Qaidi Howaan
-  Sir Sangh Te Tera Lawan Layi Main Dair Kadi Na Lawaan
+  Sangh Te Asghar Nu Wekh Ke Aakhe Rubab Je Na Qaidi Howaaṅ
+  Sir Sangh Te Tera Lawan Layi Maiṅ Dair Kadi Na Lawaaṅ
 
   8
-  Shimar De Khanjar De Waar Zahra Rokay Naal Aye Sain Kehway
-  Main Chakiyaan Peeas Ke Pa Liya Si Kiwein Hath Gardan Taun Chawaan
+  Shimar De Khanjar De Waar Zahra Rokay Naal Ae Saiṅ Kehwe
+  Maiṅ Chakiyaaṅ Pias Ke Pa Liya Si Kiweiṅ Hath Gardan Tauṅ Chawaaṅ
 
   9
-  Chodah Sadiyaan Hoiyaan Fatima Di Nohaan Al-Ajal Parh Diyaan
-  Saqlain Ajay V Takdiyaan Ne Oh Mehdi Putar Di Rahwaan
+  Chodah Sadiyaaṅ Hoiyaaṅ Fatima Di Nohaaṅ Al-Ajal Parh Diyaan
+  Saqlain Aje V Takdiyaaṅ Ne Oh Mehdi Putar Di Rahwaaṅ
 # source_id: ziyaraat:401f3d4ba8f1098968ef
 # source_url: https://www.ziyaraat.net/api/noha/2823
 # raw_sha256: 4850cbe29a5935b3362722e8d4822474e2883a03d6372f30523dbb045ad95bc7

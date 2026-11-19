@@ -11,8 +11,8 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Karbal may kisi ghar ko ujadta nahi dekha
-  Tareekh ne maana hai ke aisa nahi dekha
+  Karbal may kisi ghar ko ujarta nahi dekha
+  Tarikh ne maana hai ke aisa nahi dekha
   Asghar teri maadar pe tera sadma hai kaisa
   Us ko kabhi saaye se guzarta nahi dekha
 
@@ -21,28 +21,28 @@ romanLyrics: |-
   Armaan tha maa ne tere sehra nahi dekha
 
   3
-  Gir gir ke sambhalti rahi bazaaron may zainab
+  Gir gir ke sambhalti rahi bazaaroṅ may zainab
   Pehle kabhi bazaar ka rasta nahi dekha
 
   4
-  Yun to lade dunya may kayi baar mujahid
-  Haste hue koi bache ko ladta nahi dekha
+  Yuṅ to lade dunya may kayi baar mujahid
+  Haste hue koi bache ko larta nahi dekha
 
   5
-  Abbas tere baad yun roti thi sakina
-  Aansu jo giray uske to tham'ta nahi dekha
+  Abbas tere baad yuṅ roti thi sakina
+  Aansu jo gire uske to tham'ta nahi dekha
 
   6
-  Abbas ne be-chadari zainab ki jo dekhi
-  Naize pe sar e ghazi sambhalta nahi dekha
+  Abbas ne bechadari zainab ki jo dekhi
+  Naize pe sar-e-ghazi sambhalta nahi dekha
 
   7
   Sab qatl huwe tanha hai ab sayyede sajjad
   Aisa sipay salaar zamane ne nahi dekha
 
   8
-  Shabbir tere sajde se zinda hai namazein
-  Teeron pe kabhi aisa musalla nahi dekha
+  Shabbir tere sajde se zinda hai namazeiṅ
+  Tiroṅ pe kabhi aisa musalla nahi dekha
 # source_id: nohayonline:faf6fcb42449074a939b
 # source_url: https://www.nohayonline.com/details_content.php?id=1981
 # raw_sha256: c0233ccafe289ac78f3eae50d30af3a747baf71b22c1b578150ba35610357de6

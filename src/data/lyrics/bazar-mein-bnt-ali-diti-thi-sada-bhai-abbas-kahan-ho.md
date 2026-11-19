@@ -36,7 +36,7 @@ romanLyrics: |-
   Ab dhundti hai tumko bhaiya meri binaai
 
   5
-  Be-monis o yaawar hai batlaao kidhar jaaye
+  bemonis o yaawar hai batlaao kidhar jaaye
   Is tarah to jine se behtar hai ke mar jaaye
   Faryaad kare kis se hoti nahiṅ sunwaai
 

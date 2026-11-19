@@ -11,71 +11,71 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khwaab mein zahra ne baba ko jo dekha ek shab
+  Khwaab meiṅ zahra ne baba ko jo dekha ek shab
   Khush hui paas mai baba ke chali jaungi ab
-  Haye rone lagi bachon ka khayal aa gaya jab
-  Ye khabar hi na hui paas hussain aa gaye kab
-  Amma dhoondenge kahan yaad agar aayengi
+  Haye rone lagi bachoṅ ka khayal aa gaya jab
+  Ye khabar hi na hui paas Husain aa gaye kab
+  Amma dhoondenge kahaṅ yaad agar aayeṅgi
   Hum to mar jayenge agar aap chali jayengi
-  Maa ne jab ye suna dil tadapne laga
+  Maa ne jab ye suna dil tarapne laga
   Pyar karte huye fatema ne kaha
-  Dekho hussain mere hussain
+  Dekho Husain mere Husain
   Aise nahi kehte
   Maa kisi ki hamesha rahi hai kabhi
-  Mai bhi bichdi thi amma se bachpan mein hi
+  Mai bhi bichri thi amma se bachpan meiṅ hi
   Maa ke jaane ka dukh to bahot tha magar
-  Dekho mai bhi to bin maa ke jeeti rahi
-  Tumko meri qasam tum se bichde jo hum
-  Zabt karna hai ay laal maa ka ye gham
-  Dekho hussain mere hussain
+  Dekho mai bhi to bin maa ke jiti rahi
+  Tumko meri qasam tum se bichre jo hum
+  Zabt karna hai ae laal maa ka ye gham
+  Dekho Husain mere Husain
   Aise nahi kehte
-  Haal maine kisi ko sunaya nahi
+  Haal maiṅ ne kisi ko sunaya nahi
   Khud to royi ali ko bataya nahi
   Mera pehlu shakista hai bas isliye
-  Apne seene se tujhko lagaya nahi
-  Tooti hai phasliyan kar na paayi bayan
-  Kitni takleef mein jee rahi hai ye maa
-  Dekho hussain mere hussain
+  Apne sine se tujhko lagaya nahi
+  Tuti hai phasliyaṅ kar na paayi bayaṅ
+  Kitni taklif meiṅ ji rahi hai ye maa
+  Dekho Husain mere Husain
   Aise nahi kehte
-  Mujhko maloom hai mere noor e nazar
+  Mujhko malum hai mere nur e nazar
   Pyaas lagti hai tumko bahot raat bhar
   Pyaas sehne ki aadat bhi daalo zara
-  Pyaasa rehna pade kab kahan kya khabar
+  Pyaasa rehna pare kab kahaṅ kya khabar
   Pyaas tum ko lage aur na pani mile
   Ye dua hai ke wo din na aaye kabhi
-  Dekho hussain mere hussain
+  Dekho Husain mere Husain
   Aise nahi kehte
-  Ay mere dil mere chain mere haseen
+  Ae mere dil mere chain mere hasiṅ
   Na pareshan ho maa abhi hai yahin
   Dekho marne ki ab baat karna nahi
-  Maut se pehle hum mar na jaye kahin
+  Maut se pehle hum mar na jaye kahiṅ
   Tum ho dunya meri tum se hai zindagi
-  Tum ko dekhun to chalti hai saansein meri
-  Dekho hussain mere hussain
+  Tum ko dekhuṅ to chalti hai saanseiṅ meri
+  Dekho Husain mere Husain
   Aise nahi kehte
   Tumko khaana bhi fizza khilayegi ab
   Aur savere wohi moo dhulayegi ab
-  Tum jahan jaoge saath jayegi wo
+  Tum jahaṅ jaoge saath jayegi wo
   Saath maa ki tarha wo nibhayegi ab
   Paalegi ab wohi zid na karna koi
   Khush rahoge to maa ko bhi hogi khushi
-  Dekho hussain mere hussain
+  Dekho Husain mere Husain
   Aise nahi kehte
   Din wo aaya ke jab chal basi fatema
   Maa ki mayyat pe shabbir ne di sada
   Tum bulaogi to paas aaunga mai
-  Toote bande kafan fatema ne kaha
-  Aaja ay meri jaan tujhpe qurban maa
-  Jab hussain aake lipte to boli ye maa
-  Dekho hussain mere hussain
+  Tute bande kafan fatema ne kaha
+  Aaja ae meri jaaṅ tujhpe qurban maa
+  Jab Husain aake lipte to boli ye maa
+  Dekho Husain mere Husain
   Aise nahi kehte
-  Ay raza aur zeeshan dil thaam lo
-  Roke shabbir kehte thay amma suno
+  Ae raza aur zishan dil thaam lo
+  Roke shabbir kehte the amma suno
   Dekho tumne bulaaya to mai aa gaya
   Jab bulaunga aaogi waada karo
   Maa ne waada kiya beta chup hogaya
   Jab janaza utha phir na aayi sada
-  Mere hussain
+  Mere Husain
 # source_id: nohayonline:a295a54d8c4514371edc
 # source_url: https://www.nohayonline.com/details_content.php?id=1033
 # raw_sha256: a2272bc763f60d9854989a66ba29448b7afe947fa7ed4ee48acfbb1ec6c7dfdd

@@ -17,27 +17,27 @@ romanLyrics: |-
   Mera kis tarha jalaya gaya ghar
   Ya ali aap gawahi dena
   Mere pehlu pe jo darwaza gira
-  Mujhko bacchon ne tadapte dekha
-  Zakhmi pehlu se lahoo behta raha
+  Mujhko bacchoṅ ne tarapte dekha
+  Zakhmi pehlu se lahu behta raha
   Mera mohsin bhi hua mujhse juda
   Bain jarte hai mere zakhm e jigar
   Ya ali aap gawahi dena...
-  Apni aankhon se qayamat dekhi
+  Apni aankhoṅ se qayamat dekhi
   Yani darbar e sitam ki peshi
-  Apna haq lene ki khaatir maine
+  Apna haq lene ki khaatir maiṅ ne
   Us ko dikhlayi sanad baba ki
   Mujhko jhutlaata raha wo has kar
   Ya ali aap gawahi dena...
   Tazkira kya ho namaze shab ka
   Kar saki mai na ruku aur sajda
   Zakhm pehlu ka chupa kar tumse
-  Uth ke raaton ko mai karti thi buka
+  Uth ke raatoṅ ko mai karti thi buka
   Meri ghurbat pa ba-roz e mehshar
   Ya ali aap gawahi dena...
-  Jisko siddiqa kahan tha rab ne
-  Usko jhutla ke layeen haste rahe
-  Chaar sau kursi nasheen baithe rahe
-  Mai khadi roti rahi dil thaame
+  Jisko siddiqa kahaṅ tha rab ne
+  Usko jhutla ke layiṅ haste rahe
+  Chaar sau kursi nasheeṅ baithe rahe
+  Mai khari roti rahi dil thaame
   Kaisi badli hai zamane ki nazar
   Ya ali aap gawahi dena...
   Mere mohsin ki shahadat ka ye gham
@@ -48,14 +48,14 @@ romanLyrics: |-
   Ya ali aap gawahi dena...
   Hai faqat ek wasiyat ye meri
   Tum mujhe ghusl o kafan dena ali
-  Tum janaze ko uthaana shab mein
+  Tum janaze ko uthaana shab meiṅ
   Meri marqad bhi na dekhe koi
-  Kaise dunya se kiya maine safar
+  Kaise dunya se kiya maiṅ ne safar
   Ya ali aap gawahi dena...
-  Hai ghazab safdar o mazhar ye bayan
-  Khoon hai chashme qalam se bhi rawan
-  Qabre zehra ki thi chalees jagah
-  Sun ke rote thay ali bas ye fughan
+  Hai ghazab safdar o mazhar ye bayaṅ
+  Khun hai chashme qalam se bhi rawaṅ
+  Qabre zehra ki thi chalis jagah
+  Sun ke rote the ali bas ye fughaṅ
   Ta dame marg raha darde jigar
   Ya ali aap gawahi dena...
 # source_id: nohayonline:202f276a7baebd9d607a

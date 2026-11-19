@@ -1,6 +1,6 @@
 ---
 title: "جو جاتی ہے مجلس میں ماں سیدہ"
-alternateTitle: "Hamara Ansu Hussain"
+alternateTitle: "Hamara Ansu Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jo aati hai majlis mein maa sayyeda
+  Jo aati hai majlis meiṅ maa sayyeda
   Wo ro ro ke deti hai humko sada
   Meri aarzu shehwan o shain hai
-  Hamara aansu hussain hai
+  Hamara aansu Husain hai
   Mohamed ke dil ka yehi bain hai
-  Hamara aansu hussain hai
+  Hamara aansu Husain hai
   Dil e fatema ka yehi bain hai
-  Hamara aansu hussain hai
-  Ye teri shahadat hai kitni azeem
-  Ke kehna pada rab ko tu hai kareem
+  Hamara aansu Husain hai
+  Ye teri shahadat hai kitni azim
+  Ke kehna para rab ko tu hai karim
   Imamat ki tu zaib hai zain hai
-  Hamara aansu hussain hai
+  Hamara aansu Husain hai
   Shahadat ka jis dam suna waqia
-  Tadap kar ye adam ne rab se kaha
+  Tarap kar ye adam ne rab se kaha
   Ye dil mera rone ko bechain hai
-  Hamara aansu hussain hai
+  Hamara aansu Husain hai
   Allah koi gham na de
-  Siwaye ghame hussain
+  Siwaye ghame Husain
   Hue khalq ko rone ko rote hai hum
-  In ashkon ko chehro se dhote hai hum
-  Najaat aansuon ke hi maa bain hai
-  Hamara aansu hussain hai
+  In ashkoṅ ko chehro se dhote hai hum
+  Najaat aansuoṅ ke hi maa bain hai
+  Hamara aansu Husain hai
   Sitamgar se zahra ne ro kar kaha
-  Tu sukhe galay par na khanjar chala
+  Tu sukhe gale par na khanjar chala
   Ye sibte nabi shaan e harmain hai
-  Atash ki hai shiddat hai sookha gala
-  Yehi zibha karta hai kyun be-khata
+  Atash ki hai shiddat hai sukha gala
+  Yehi zibha karta hai kiuṅ bekhata
   Labe fatema par yehi bain hai
-  Hamara aansu hussain hai
-  Lagi aag qaimon mein baad e pidar
-  Hai sajjad ghash mein pade khaak par
-  Sakina ke honton pa ye bain hai
-  Hamara aansu hussain hai
-  Tamache sitamgar ne maara hussain
-  Sukoon hai na din mein hai raaton ko chain
-  Sakina ki aankhein hai aur rayn hai
-  Hamara aansu hussain hai
+  Hamara aansu Husain hai
+  Lagi aag qaimon meiṅ baad e pidar
+  Hai sajjad ghash meiṅ pare khaak par
+  Sakina ke hontoṅ pa ye bain hai
+  Hamara aansu Husain hai
+  Tamache sitamgar ne maara Husain
+  Sukuṅ hai na din meiṅ hai raatoṅ ko chain
+  Sakina ki aankheiṅ hai aur rayn hai
+  Hamara aansu Husain hai
   Dil e hashmi ki hai ye arze gham
   Ke rauze pe rote hue nikle dam
-  Labon par jo irfan ke bain hai
-  Hamara aansu hussain hai
+  Laboṅ par jo irfan ke bain hai
+  Hamara aansu Husain hai
 # source_id: nohayonline:d1b93a99c8726b19ba7e
 # source_url: https://www.nohayonline.com/details_content.php?id=1178
 # raw_sha256: cfa1b6cb173c4dc28cc8dfaf8fa4b7850749ac5c1780cc2a54fe2d7b46074727

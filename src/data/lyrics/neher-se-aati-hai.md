@@ -12,46 +12,46 @@ published: false
 romanLyrics: |-
   1
   Mauje alqama kar rahi hai bain
-  Lut gayi zainab lut gaye hussain
+  Lut gayi zainab lut gaye Husain
   Binte shahe lafata kar rahi hai marsiya
   Haye alamadar
   Nehr se aati hai ye sada
   Qatl alamdar ho gaya
-  Pyaase thay sab nauha gar
+  Pyaase the sab nauha gar
   Thaam li sheh ne kamar
-  Zainab e dilgeer ne kaha
+  Zainab e dilgir ne kaha
   Qatl alamdar ho gaya...
   Kitna wafadar tha sab ka madadgaar tha
-  Saaya e deewar tha fauj ka salaar tha
+  Saaya e diwar tha fauj ka salaar tha
   Hogaye laachar hum kehte hai shaahe umam
-  Ro rahi hai saath mein wafa
+  Ro rahi hai saath meiṅ wafa
   Qatl alamdar ho gaya...
   Dukhtare shaahe umam kaise sahe ab ye gham
-  Khaak nasheen hai haram dekhte girta alam
+  Khaak nashiṅ hai haram dekhte girta alam
   Karne lagi marsiya pani nahi aayega
   Ek naya mujhko gham mila
   Qatl alamdar ho gaya...
-  Laasha jawan bhai ka kaise uthega bhala
+  Laasha jawaaṅ bhai ka kaise uthega bhala
   Bole shahe karbala aaiye sher e khuda
   Mera sahara bano koi dilaasa to do
   Koi madadgaar na raha
   Qatl alamdar ho gaya...
   Haye ye laachargi pyasi sakina rahi
-  Tooti umeedein meri aur kamar kham hui
+  Tuti umideiṅ meri aur kamar kham hui
   Mashk e sakina chidi beh gaya pani sabhi
   Kohe alam uspe jab gira
   Qatl alamdar ho gaya...
   Sunte ho akbar sada rote hai shaahe huda
   Fizza ne rokar kaha aao sambhalo zara
-  Choota watan ghar luta pyase rahe gham na tha
+  Chuta watan ghar luta pyase rahe gham na tha
   Ab hai masayeb ki inteha
   Qatl alamdar ho gaya...
   Ek alamdar ke jaane se ye gham mile
-  Tashna dahan ro diye haath se kooze gire
+  Tashna dahan ro diye haath se kuze gire
   Hum ne to nauhe kiye ahle sitam khush huwe
   Shimr ne jab fauj se kaha
   Qatl alamdar ho gaya...
-  Dasht mein shabbir par zulm huwe is qadar
+  Dasht meiṅ shabbir par zulm huwe is qadar
   Safdar o mazhar magar tha wo ali ka pisar
   Sabr bhi karta raha shukr bhi karta raha
   Zabt ye gham ho nahi saka

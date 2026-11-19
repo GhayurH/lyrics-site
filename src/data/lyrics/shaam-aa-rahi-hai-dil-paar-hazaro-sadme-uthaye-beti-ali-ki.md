@@ -51,7 +51,7 @@ romanLyrics: |-
 
   9
   Tharraye naize se ro ke sar bhi
-  Gir gir ke tarpe farsh-e-zamin par
+  Gir gir ke tarpe farsh-e-zamiṅ par
   Haalat pe apni royi tarap kar
   Yuṅ sar jhukaaye beti Ali ki
 ---

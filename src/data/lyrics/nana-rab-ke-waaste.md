@@ -13,30 +13,30 @@ romanLyrics: |-
   1
   Zahra haye zahra
   Qabre nabi udaas madina udaas hai
-  Kamsin hussain nana ke rauze pe aa gaya
-  Nana mere nana mai hussain
+  Kamsin Husain nana ke rauze pe aa gaya
+  Nana mere nana mai Husain
   Nana rab ke waaste sun meri dua
   Bemaar hai ye maa meri dukhiya ko de shifa
-  Jud sakti hai to jod de amma ki phasliyan
+  Jur sakti hai to jor de amma ki phasliyaṅ
   Ummat ne meri maa ko zakhmi bahot kiya
   Nana rab ke waaste...
   Lagte rahe tamache mai dekhta reh gaya
-  Bebas hussain reh gaya maa ko bacha na saka
+  Bebas Husain reh gaya maa ko bacha na saka
   Nana rab ke waaste...
-  Deewar o dar ke darmiyan maa pis ke reh gayi
+  Diwar o dar ke darmiyaṅ maa pis ke reh gayi
   Chilla rahi thi dard se mohsin guzar gaya
   Nana rab ke waaste...
-  Leti hai jab bhi saans to dukhti hai phasliyan
+  Leti hai jab bhi saans to dukhti hai phasliyaṅ
   Maa ka ye haal dekh kar phat'ta hai dil mera
   Nana rab ke waaste...
   Pehlu ke dard ke sabab so bhi nahi saki
   Bacche na roye is liye chup chup ke ki buka
   Nana rab ke waaste...
-  Ummat nahi samajh saki rutba batool ka
-  Darbar mein batool ko jhutla diya gaya
+  Ummat nahi samajh saki rutba batul ka
+  Darbar meiṅ batul ko jhutla diya gaya
   Nana rab ke waaste...
   Farhan aur mazhar o nashad ro diye
-  Sun kar yeh bain kaamp utha rauza rasool ka
+  Sun kar yeh bain kaamp utha rauza rasul ka
   Nana rab ke waaste...
 # source_id: nohayonline:6660947372ea4e514929
 # source_url: https://www.nohayonline.com/details_content.php?id=2696

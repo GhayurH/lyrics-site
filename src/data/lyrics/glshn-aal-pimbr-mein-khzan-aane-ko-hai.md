@@ -8,23 +8,23 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Gulshan-e-Aal-e-Payambar Mein Khizaan Aane Ko Hai
-  Haider-o-Safdar Ka Saya Sar Se Uth Jaane Ko Hai
+  Gulshan-e-Aal-e-Payambar Meiṅ Khizaaṅ Aane Ko Hai
+  Haider o Safdar Ka Saya Sar Se Uth Jaane Ko Hai
 
   1
   Aaj Zainab Ko Nazar Aane Laga Bazar-e-Sham
-  Fatima Kya Phir Kisi Darbar Mein Jaane Ko Hai
+  Fatima Kya Phir Kisi Darbar Meiṅ Jaane Ko Hai
 
   2
-  Zainab-o-Kulsoom Rakhna Hausle Apne Buland
+  Zainab o Kulsum Rakhna Hausle Apne Buland
   Aaj Phir Koi Qayamat Ki Khabar Aane Ko Hai
 
   3
   Jab Gire Ghore Se Ghazi To Sakina Ne Kaha
-  Durr Mere Aur Chadar-e-Tatheer Chhin Jaane Ko Hai
+  Durr Mere Aur Chadar-e-Tathir Chhin Jaane Ko Hai
 
   4
-  Nanhe Nanhe Baazuon Mein Daal Kar Chhoti Si Mashk
+  Nanhe Nanhe Baazuoṅ Meiṅ Daal Kar Chhoti Si Mashk
   Sher-e-Haq Abbas Ki Kuch Shan Dikhane Ko Hai
 
   5
@@ -32,19 +32,19 @@ romanLyrics: |-
   Ibn-e-Muljim Aaj Kuch Aisa Ghazab Dhaane Ko Hai
 
   6
-  Zainab-o-Kulsoom Ko Seene Se Kar Lo Ab Juda
+  Zainab o Kulsum Ko Sine Se Kar Lo Ab Juda
   Baap Ke Chehre Ki Rangat Ab Badal Jaane Ko Hai
 
   7
-  Chha Gayi Hai Kyun Udaasi Shabbar-o-Shabbir Par
-  Saaf Zahir Hai Yateemi Sar Pe Chha Jaane Ko Hai
+  Chha Gayi Hai Kiuṅ Udaasi Shabbar o Shabbir Par
+  Saaf Zahir Hai Yatimi Sar Pe Chha Jaane Ko Hai
 
   8
-  Karbala Walon Ki Shayad Tashnagi Ka Hai Khayal
+  Karbala Waloṅ Ki Shayad Tashnagi Ka Hai Khayal
   Saqi-e-Kausar Zara Pehle Chale Jaane Ko Hai
 
   9
-  Ta Qayamat Khoon Roye Gi Zameen-e-Karbala
+  Ta Qayamat Khuṅ Roye Gi Zamin-e-Karbala
   Zulm Ki Kaali Ghata Sar Pe Chha Jaane Ko Hai
 # source_id: ziyaraat:92722b31b23d232fd0e7
 # source_url: https://www.ziyaraat.net/api/noha/494

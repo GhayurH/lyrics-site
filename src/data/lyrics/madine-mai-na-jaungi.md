@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab qaid se azad hui aal e payambar
+  Jab qaid se azad hui aal-e-payambar
   Aur karbobala aa gaye sab waaris o yawar
-  Tab bibiyan rone lagi qabron se lipat kar
-  Abid se ye farmani lagi zainab e muztar
-  Ay laal watan chalne pe majboor na karna
-  Maajaye ki turbat se mujhe door na karna
+  Tab bibiyaṅ rone lagi qabroṅ se lipat kar
+  Abid se ye farmani lagi zainab-e-muztar
+  Ae laal watan chalne pe majbur na karna
+  Maajaye ki turbat se mujhe dur na karna
   Madine mai na jaungi
-  Hussain ibne ali ki qabr pe aansu bahaungi
+  Husain ibne ali ki qabr pe aansu bahaungi
   Madine mai na jaungi
-  Akela chod doo kaise mai zehra ki kameini ko
+  Akela chor doo kaise mai zehra ki kameini ko
   Abhi royi nahi dil khol ke mai apne bhai ko
-  Yahan farshe aza shabbir ka mai to bichaungi
+  Yahaṅ farshe aza shabbir ka mai to bichaungi
   Madine mai na jaungi...
   Koi poochega qasim ko koi poochega akbar ko
   Koi abbas ko poochega koi aake sarwar ko
   Hua barbaad saara ghar mai kis kis ko bataungi
   Madine mai na jaungi...
-  Yahan aayi to athara baradar saath laayi thi
+  Yahaṅ aayi to athara baradar saath laayi thi
   Chali thi jab madine se bhara ghar saath laayi thi
   Wahan jaa kar nazar sughra se mai kaise milaungi
   Madine mai na jaungi...
   Madine shauq se jaati ali akbar agar hote
   Pisar hote na hote bhai mere humsafar hote
-  Jo milne bibiyan aayengi mai to mar hi jaungi
+  Jo milne bibiyaṅ aayeṅgi mai to mar hi jaungi
   Madine mai na jaungi...
   Kiya hai qatl aada ne mohamed ke nawase ko
-  Sukoon miljayega is amr se do din ke pyase ko
-  Hussain ibne ali ke naam par pani pilaungi
+  Sukuṅ miljayega is amr se do din ke pyase ko
+  Husain ibne ali ke naam par pani pilaungi
   Madine mai na jaungi...
-  Yahan par aan kar ab ambiya aansu bahayenge
-  Hassan zehra mohamed hyder e karrar aayenge
-  Hussain ibne ali ka marsiya sab ko sunaungi
+  Yahaṅ par aan kar ab ambiya aansu bahayenge
+  Hasan zehra mohamed hyder-e-karrar aayeṅge
+  Husain ibne ali ka marsiya sab ko sunaungi
   Madine mai na jaungi...
-  Mere bhai ki turbat soona jangal aur veerana
-  Andhera ban ye tanhaai ye charon samt sannata
-  Yahan reh kar ghame shabbir ki basti basaungi
+  Mere bhai ki turbat suna jangal aur veerana
+  Andhera ban ye tanhaai ye charoṅ samt sannata
+  Yahaṅ reh kar ghame shabbir ki basti basaungi
   Madine mai na jaungi...
   Bithaya kaise anwar naaqe pa sarwar ki khwahar ko
-  Sunati thi sukhan yehi magar sajjad e muztar ko
+  Sunati thi sukhan yehi magar sajjad-e-muztar ko
   Charaghe qabr ashkon se mai ro ro kar jalaungi
   Madine mai na jaungi...
 # source_id: nohayonline:05e66d0cd6684dcc7640

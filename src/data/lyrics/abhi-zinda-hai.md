@@ -11,74 +11,74 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jaan ki ramaq hussain mein dekhi na jab koi
-  Haibat se paas aate nahi thay magar shaqi
+  Jaan ki ramaq Husain meiṅ dekhi na jab koi
+  Haibat se paas aate nahi the magar shaqi
   Ye dekhne ke zinda hai kya dilbar e ali
-  Bola shaqi ke qaimon ke jaanib badho abhi
-  Ek haath utha lahoo mein shahe mashraqain hai
-  Qaimon ko mat bado abhi zinda hussain hai
+  Bola shaqi ke qaimon ke jaanib barho abhi
+  Ek haath utha lahu meiṅ shahe mashraqain hai
+  Qaimon ko mat bado abhi zinda Husain hai
   Mat bado jaanib e qaima
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
-  Ismat o aaya e tatheer ke rakhwaale hai
-  Hurmat e khaana e kaaba ye haram waale hai
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
+  Ismat o aaya e tathir ke rakhwaale hai
+  Hurmat-e-khaana-e-kaaba ye haram waale hai
   Jal na jaaye koi qaima
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
   Mat bado jaanib e qaima...
-  Dar pe qaime ke hai hamsheer meri mazlooma
-  Mere qaime mein sakina hai meri masooma
+  Dar pe qaime ke hai hamshir meri mazlooma
+  Mere qaime meiṅ sakina hai meri masooma
   Us taraf jaane na dega
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
   Mat bado jaanib e qaima...
-  Lootne ke liye qaimon ki taraf ho jaate
+  Lutne ke liye qaimon ki taraf ho jaate
   Dekh sakta nahi beti ko tamache khaate
-  Shimr aage nahi badhna
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
+  Shimr aage nahi barhna
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
   Mat bado jaanib e qaima...
-  Tum ne abbas ke bhi kaat diye thay baazu
-  Meri aaghosh mein cheda mere asghar ka gulu
+  Tum ne abbas ke bhi kaat diye the baazu
+  Meri aaghosh meiṅ cheda mere asghar ka gulu
   Keh ke ye shaah ne roka
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
   Mat bado jaanib e qaima...
-  Mere chehre pe hai asghar ke lahoo ki surkhi
-  Mere seene mein hai akbar ke jigar ki barchi
-  Tukde qasim ka hai laasha
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
+  Mere chehre pe hai asghar ke lahu ki surkhi
+  Mere sine meiṅ hai akbar ke jigar ki barchi
+  Tukre qasim ka hai laasha
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
   Mat bado jaanib e qaima...
-  Aakhri saans hai ay zaalimon mai ghalib hoo
-  Mai hussain ibne ali ibne abu talib hoo
-  Azm zakhmo se na toota
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
+  Aakhri saans hai ae zaalimoṅ mai ghalib hoo
+  Mai Husain ibne ali ibne abu talib hoo
+  Azm zakhmo se na tuta
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
   Mat bado jaanib e qaima...
-  Tum jo badhte ho udhar mujhko jalaal aata hai
+  Tum jo barhte ho udhar mujhko jalaal aata hai
   Ya ali ye meri ghairat ka sawaal aata hai
-  Aage badhne nahi dega
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
+  Aage barhne nahi dega
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
   Mat bado jaanib e qaima...
-  Teer paiwast thay mai pushte faras se jo gira
-  Mai ghaseet'ta hua qaimon ki taraf hoo badhta
-  Beh gaya khoon ka darya
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
+  Tir paiwast the mai pushte faras se jo gira
+  Mai ghasit'ta hua qaimon ki taraf hu barhta
+  Beh gaya khun ka darya
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
   Mat bado jaanib e qaima...
-  Hai yateem ismein hi sehmi hui kuch maayein hai
-  Bain karti hui qaime mein ye bewayein hai
-  Bibiyon ka hai sahara
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
+  Hai yatim ismein hi sehmi hui kuch maayeiṅ hai
+  Bain karti hui qaime meiṅ ye bewayeiṅ hai
+  Bibiyoṅ ka hai sahara
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
   Mat bado jaanib e qaima...
-  Ay qamar hona hai ek din mere mehdi ka zaroor
-  Sheh ye kehte hai ke waaris mera aayega zaroor
+  Ae qamar hona hai ek din mere mehdi ka zarur
+  Sheh ye kehte hai ke waaris mera aayega zarur
   Le ke badla wo kahega
-  Choor zakhmo se hai tanha
-  Abhi zinda hai hussain
+  Chur zakhmo se hai tanha
+  Abhi zinda hai Husain
   Mat bado jaanib e qaima...
 # source_id: nohayonline:b09a941b1ad868dbe1f0
 # source_url: https://www.nohayonline.com/details_content.php?id=2347

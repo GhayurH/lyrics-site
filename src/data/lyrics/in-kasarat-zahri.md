@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Do haath haathon par liye kehte thay ye sibte nabi
+  Do haath haathoṅ par liye kehte the ye sibte nabi
   Bhai mera maara gaya kis kaam ki ab zindagi
   In kasarata zahri ya aqi in kasarata zahri ya aqi
   Monis nahi hamdam nahi nasir nahi yawar nahi
-  Dushman ke lashkar char soo mera koi lashkar nahi
-  Abbas aankhein khol kar dekho to tanhaai meri
+  Dushman ke lashkar char su mera koi lashkar nahi
+  Abbas aankheiṅ khol kar dekho to tanhaai meri
   In kasarata zahri ya aqi...
-  Kis se kahun dunya ne jo tujhpar mazalim dhaaye hai
-  Aankhon se dekhun kis tarha jo zakhm tu ne khaaye hai
-  Shaane kate sar shak hua aankhon mein aaye teer bhi
+  Kis se kahuṅ dunya ne jo tujhpar mazalim dhaaye hai
+  Aankhoṅ se dekhuṅ kis tarha jo zakhm tu ne khaaye hai
+  Shaane kate sar shak hua aankhoṅ meiṅ aaye tir bhi
   In kasarata zahri ya aqi...
-  Keh dunga kya kulsoom se zainab se kya batlaunga
+  Keh dunga kya kulsum se zainab se kya batlaunga
   Teri sakina ko bhala kya keh ke mai samjhaunga
-  Khaali alam le jaunga qaime ke dar par jis ghadi
+  Khaali alam le jaunga qaime ke dar par jis ghari
   In kasarata zahri ya aqi...
-  Qaime mein hai mehwe dua sab behne teri chaah mein
-  Bacche bhi hai muntazir aankhein bichaye raah mein
-  Kooze liye hai haath mein teri bhatiji laadli
+  Qaime meiṅ hai mehwe dua sab behne teri chaah meiṅ
+  Bacche bhi hai muntazir aankheiṅ bichaye raah meiṅ
+  Kuze liye hai haath meiṅ teri bhatiji laadli
   In kasarata zahri ya aqi...
-  Dil mein koi dehshat na thi khatra koi sar par na tha
+  Dil meiṅ koi dehshat na thi khatra koi sar par na tha
   Bhaiya tere hote huwe dushman ka koi darr na tha
-  Ab wo bhi ruqsat hogayi bacchon ko ek dhaaras jo thi
+  Ab wo bhi ruqsat hogayi bacchoṅ ko ek dhaaras jo thi
   In kasarata zahri ya aqi...
-  Jab karbala ke dasht mein shaam e ghariban aayegi
-  Qaimon se uthega dhuaan kaali ghata cha jayegi
+  Jab karbala ke dasht meiṅ shaam e gharibaṅ aayegi
+  Qaimon se uthega dhuaaṅ kaali ghata cha jayegi
   Aakhir sada degi kise meri behen ki bekasi
   In kasarata zahri ya aqi...
   Beti wo jis ke naaz khud hyder uthaate aaye ho
-  Hamraah jis hamsheer ko athara bhai laaye ho
+  Hamraah jis hamshir ko athara bhai laaye ho
   Ab us behen ke sar se bhi us ki rida chin jayegi
   In kasarata zahri ya aqi...
   Kya alqama ke ghaat par matam kuna hai koi maa
-  Kya baal apne khol kar roti hai khatoone jina
+  Kya baal apne khol kar roti hai khatune jina
   Ye kis ke nauhe ki sada lohe se takrane lagi
   In kasarata zahri ya aqi...
   Nayyar nahi likh payega aamir nahi pad payega
-  Abbas ka matam hai ye seene mein dil phat jayega
-  Jo marsiya sheh ne padha wo marsiya soche koi
+  Abbas ka matam hai ye sine meiṅ dil phat jayega
+  Jo marsiya sheh ne parha wo marsiya soche koi
   In kasarata zahri ya aqi...
 # source_id: nohayonline:11761a44fde2e86ea716
 # source_url: https://www.nohayonline.com/details_content.php?id=3489

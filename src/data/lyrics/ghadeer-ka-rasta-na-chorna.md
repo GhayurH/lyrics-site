@@ -1,6 +1,6 @@
 ---
 title: "مولائیو غدیر کا راستہ نہ چھوڑنا"
-alternateTitle: "Ghadeer Ka Rasta Na Chorna"
+alternateTitle: "Ghadir Ka Rasta Na Chorna"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -24,36 +24,36 @@ romanLyrics: |-
   Man Kunto Maula Fa Haza Ali Maula
 
   1
-  Molaiyo Ghadeer Ka Rasta Na Chorna
+  Molaiyo Ghadir Ka Rasta Na Chorna
   Sab Chor Dena Zikar Ali Ka Na Chorna
-  Phal Aik Roz De Ga Yeh Bolay Abu Turab
-  Meesum Tum Iss Darakht Ko Pyasa Na Chorna
-  Bugz-e-Ali Ki Aag Se Jaltay Hain Jin Ke Dil
+  Phal Aik Roz De Ga Yeh Bole Abu Turab
+  Misum Tum Iss Darakht Ko Pyasa Na Chorna
+  Bugz-e-Ali Ki Aag Se Jalte Haiṅ Jin Ke Dil
   Zikar-e-Ali Se Unn Ko Jalana Na Chorna
 
   2
-  Hum Ko Yeh Maein Deti Hain Jholay Mein Loriyaan
+  Hum Ko Yeh Maeiṅ Deti Haiṅ Jhole Meiṅ Loriyaaṅ
   Matam Namaz Our Tabara Na Chorna
-  Zahra Ne Khuwab Mein Abu Ishaq Se Kaha
-  Qatil Hussain Ka Koi Zindah Na Chorna
+  Zahra Ne Khuwab Meiṅ Abu Ishaq Se Kaha
+  Qatil Husain Ka Koi Zindah Na Chorna
   Shia Ho Tum Ali Ke Tu Sajjad Ki Tarha
   Matam Ke Sath Sath Musalla Na Chorna
 
   3
-  Gar Chahtey Ho Tum Keh Namazein Qabool Hoon
-  Darwaza-e-Batool Pe Sajdah Na Chorna
+  Gar Chahte Ho Tum Keh Namazeiṅ Qabul Huṅ
+  Darwaza-e-Batul Pe Sajdah Na Chorna
   Aayat Koi Our Bhi Le Aaye Ga Magar
-  Jibreel Tum Hussain Ka Jhola Na Chorna
-  Gar Chahtey Ho Razi Hoon Hasnain-o-Fatima
+  Jibril Tum Husain Ka Jhola Na Chorna
+  Gar Chahte Ho Razi Huṅ Hasnain o Fatima
   Haider Ke Dushmano Pe Tabara Na Chorna
 
   4
   Har Momina Behan Se Hai Yeh Iltija Meri
-  Zainab Ki Gar Kaneez Ho Pardah Na Chorna
-  Gar Samne Rasool Ke Hona Hai Surkhru
+  Zainab Ki Gar Kaniz Ho Pardah Na Chorna
+  Gar Samne Rasul Ke Hona Hai Surkhru
   Jab Tak Hai Sans Khon Ka Pursa Na Chorna
-  Akbar Kaha Batool Ne Bahir Bahisht Se
-  Koi Ali Ka Chahney Wala Na Chorna
+  Akbar Kaha Batul Ne Bahir Bahisht Se
+  Koi Ali Ka Chahne Wala Na Chorna
 
 ---
 علی علی علی حیدر حیدر

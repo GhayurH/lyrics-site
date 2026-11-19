@@ -14,28 +14,28 @@ romanLyrics: |-
   Ae mere gharib Husain
 
   1
-  Bande kafan ko tod ke
+  Bande kafan ko tor ke
   Aayi hai phir se maa
 
   2
-  Maathe pe teer pehlu may paywast barchiyan
+  Maathe pe tir pehlu may paywast barchiyaṅ
   Aur qalb may sina
-  Marham lagayegi teri maadar kahan kahan
+  Marham lagayegi teri maadar kahaṅ kahaṅ
 
   3
-  Baahein galay may daal lo himmat zara karo
-  Ay laal ghar chalo
-  In patharon ke dher may tum chup gaye kahan
+  Baaheiṅ gale may daal lo himmat zara karo
+  Ae laal ghar chalo
+  In patharoṅ ke dher may tum chup gaye kahaṅ
 
   4
-  Rakh doongi haath gardan o khanjar ke darmiyan
-  Waada hai meri jaan
+  Rakh dungi haath gardan o khanjar ke darmiyaṅ
+  Waada hai meri jaaṅ
   Ghazi ki tarha dasht may qurban hogi maa
 
   5
-  Kadiyal jawan ki laash pe tera tha imtehan
+  Kariyal jawaaṅ ki laash pe tera tha imtehaṅ
   Tayyaar ab hai maa
-  Beta mai tere seene se khaynchungi khud sina
+  Beta mai tere sine se khaynchungi khud sina
 
   6
   Mohsin ke baad se meri jaise jhuki kamar
@@ -43,9 +43,9 @@ romanLyrics: |-
   Aise hai baad ghazi ke teri kamar kamaan
 
   7
-  Bete ke saath dasht may maadar ka khoon bahe
+  Bete ke saath dasht may maadar ka khuṅ bahe
   Keh do ye shimr se
-  Gardan pe pehle wo kare khanjar mere rawan
+  Gardan pe pehle wo kare khanjar mere rawaṅ
 
   8
   Amma hata lo haath takallum thi ye sada

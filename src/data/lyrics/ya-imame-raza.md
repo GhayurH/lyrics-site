@@ -11,37 +11,37 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Mangton ki sun le maula
+  Mangtoṅ ki sun le maula
   Hum dar pe tere dete hai sada
-  Ya imam e raza ya ghareeb al ghurba
+  Ya imam e raza ya gharib al ghurba
   Har matami ki sun lo karte hai sab dua
-  Ya imam e raza ya ghareeb al ghurba
+  Ya imam e raza ya gharib al ghurba
   Tere dar pe aaye maula sab aas ye laga ke
-  Jo mareez la-dawa hai use dard se shifa de
-  Tere sehan may shifa hai hai yahin kahin khuda
+  Jo mariz la-dawa hai use dard se shifa de
+  Tere sehan may shifa hai hai yahin kahiṅ khuda
   Ya imam e raza...
-  Wo jo godiyan hai khaali tere dar pe hai sawali
-  Sabhi aa ke choomti hai teri shehnashi ki jaali
+  Wo jo godiyaṅ hai khaali tere dar pe hai sawali
+  Sabhi aa ke chumti hai teri shehnashi ki jaali
   Asghar ke sadke un ko aulaad ho ata
   Ya imam e raza...
-  Tu hi jaanta hai maula bichde huwon ka sadma
+  Tu hi jaanta hai maula bichre huwoṅ ka sadma
   Teri behan fatema ho akbar ho ya ke sughra
-  Bhai behan jo bichde maula unhe mila
+  Bhai behan jo bichre maula unhe mila
   Ya imam e raza...
-  Nazre karam ho teri rahe door tang dasti
+  Nazre karam ho teri rahe dur tang dasti
   Tere matami ko maula na rizq ki ho tangi
   Ho karz momino ka ab ghaib se ada
   Ya imam e raza...
-  Angoor may zehr tha mamoon ne jo bheja
-  Us zehr ne kiya tha tukde tera kaleja
-  Ro kar utha rahe hai taboot hum tera
+  Angur may zehr tha mamun ne jo bheja
+  Us zehr ne kiya tha tukre tera kaleja
+  Ro kar utha rahe hai tabut hum tera
   Ya imam e raza...
   Qum ki wo shahazadi masooma behan teri
-  Tujhse bichad ke maula zainab ki tarha royi
-  Tujhko hai us ka pursa pursa usay tera
+  Tujhse bichar ke maula zainab ki tarha royi
+  Tujhko hai us ka pursa pursa use tera
   Ya imam e raza...
-  Farhan ki duayein maula unhe bualyein
-  Mehroom hai jo ab tak iran wo bhi jaayein
+  Farhan ki duayeiṅ maula unhe bualyeiṅ
+  Mehrum hai jo ab tak iran wo bhi jaayeiṅ
   Hamrah khaafile ke mazhar ko bhi bula
   Ya imam e raza...
 # source_id: nohayonline:2b280e586844c541c97e

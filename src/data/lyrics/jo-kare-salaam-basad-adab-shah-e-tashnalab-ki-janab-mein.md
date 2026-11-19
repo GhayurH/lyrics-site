@@ -12,7 +12,7 @@ romanLyrics: |-
   To ba-roze hashr ajab nahi woh rawan ho sheh ke rakab may
 
   1
-  Jo Shameem booey Hussain thi wo araq may sheh ke thi booey khush
+  Jo Shameem booey Husain thi wo araq may sheh ke thi booey khush
   Na woh boo hay anbar o mishk may na woh boo hay itr o gulab may
 
   2
@@ -21,7 +21,7 @@ romanLyrics: |-
 
   3
   Shab-e-qatl chonk ke neend se yeh pukareen Zainab-e-dil hazeen
-  Mujhe haey Hussain barehna sar nazar aayin Fatima khawab may
+  Mujhe haey Husain barehna sar nazar aayin Fatima khawab may
 
   4
   Abhi sar ke balon se maa meri io zameen jharr ke kehti theen
@@ -36,12 +36,12 @@ romanLyrics: |-
   Mujhe sajda karne do farz hai toh layeen ne bola jawab me
 
   7
-  Na milegi fursate dam zadan na padhen Hussain namaz ko
+  Na milegi fursate dam zadan na padhen Husain namaz ko
   Ke nahi qubool ye bandage teri aaj haq ki janab me
 
   8
-  Kaha tab habeeb ne ae layeen ye Hussain sibte Rasool hai
-  Sharaf-o-Kamal Hussain ka hai bayan Hadees-o-kitab me
+  Kaha tab habeeb ne ae layeen ye Husain sibte Rasool hai
+  Sharaf o Kamal Husain ka hai bayan Hadees o kitab me
 
   9
   Ajab ehle sham the be haya jinhe paas sharm zara na tha

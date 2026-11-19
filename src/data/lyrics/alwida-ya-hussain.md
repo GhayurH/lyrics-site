@@ -1,6 +1,6 @@
 ---
 title: "شاہ مشرقین فاطمہ کے چین"
-alternateTitle: "Alwida Ya Hussain"
+alternateTitle: "Alwida Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,40 +12,40 @@ published: false
 romanLyrics: |-
   1
   Shaah e mashraqain fatema ke chain
-  Ya maula hussain alvida
-  Alvida ya hussain alvida ya hussain
+  Ya maula Husain alvida
+  Alvida ya Husain alvida ya Husain
   Roke zainab ye karti thi bain alvida
-  Alvida ya hussain...
+  Alvida ya Husain...
   Aaj akbar ki mayyat pe mai ro chuki
   Haath afsos abbas se dho chuki
-  Kisko kisko kahun mai kisay kho chuki
+  Kisko kisko kahuṅ mai kise kho chuki
   Bhai ab zulm ki inteha ho chuki
-  Alvida ya hussain...
-  Bhai kya kehke bewon ko samjhaungi
+  Alvida ya Husain...
+  Bhai kya kehke bewoṅ ko samjhaungi
   Sar khule kaise darbar may jaungi
   Kaise baali sakina ko behlaungi
-  Mere maajaye tumko kahan paungi
-  Alvida ya hussain...
+  Mere maajaye tumko kahaṅ paungi
+  Alvida ya Husain...
   Bhai tum thokare ran may khaate rahe
-  Laash maidan se qaime may laate rahe
-  Har tarha deen e haq ko bachate rahe
-  Apni manzil ke nazdeek aate rahe
-  Alvida ya hussain...
-  Ab wo baysheer ki bezubani kahan
-  Akbar e naujawan ki jawani kahan
-  Ab wo abbas ki paasbani kahan
-  Al-atash ki sadaein hai pani kahan
-  Alvida ya hussain...
-  Aao tumko galay se lagaye behan
+  Laash maidaṅ se qaime may laate rahe
+  Har tarha din e haq ko bachate rahe
+  Apni manzil ke nazdik aate rahe
+  Alvida ya Husain...
+  Ab wo baysheer ki bezubani kahaṅ
+  Akbar e naujawaṅ ki jawani kahaṅ
+  Ab wo abbas ki paasbani kahaṅ
+  Al-atash ki sadaeiṅ hai pani kahaṅ
+  Alvida ya Husain...
+  Aao tumko gale se lagaye behan
   Aao bhaiya ke qurban jaye behan
   Kaun baaqi hai kisko bulaye behan
-  Aao ghode pe khud hi bithaye behan
-  Alvida ya hussain...
+  Aao ghore pe khud hi bithaye behan
+  Alvida ya Husain...
   Ran se halmin ki nagaah aayi sada
-  Choor zakhmo se hai ab badan shaah ka
-  Ay muazzam hui zulm ki imtehan
-  Kat gaya shaah e bekas ka sookha gala
-  Alvida ya hussain...
+  Chur zakhmo se hai ab badan shaah ka
+  Ae muazzam hui zulm ki imtehaṅ
+  Kat gaya shaah e bekas ka sukha gala
+  Alvida ya Husain...
 # source_id: nohayonline:f8b560a753c51343eacf
 # source_url: https://www.nohayonline.com/details_content.php?id=1171
 # raw_sha256: 0fcbbaf1be0c963eb9d79495dccbf09e645da1140f3ccefb03fffc6b9305e8f2

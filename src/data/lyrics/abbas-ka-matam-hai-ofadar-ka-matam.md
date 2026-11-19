@@ -8,46 +8,46 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ka matam hay wafadar ka matam
+  Abbas ka matam hai wafadar ka matam
 
   1
-  Hay foaj e Hussaini ke alamdar ka matam
+  Hai foaj-e-Hussaini ke alamdar ka matam
   Saqa e haram Syed o salar ka matam
   Jis sher ne pani ko zara muh na lagaya
   Jo nehr pe pyasa gaya pyasa palat aaya
-  Masoom Sakina ke wafadar ka alam
+  Masum Sakina ke wafadar ka alam
   Shabbir ke lashkar ka alam jis ka alam tha
   Ghurbat may jo Shabbir ki taqat ka bharam tha
-  Farzand e Muhammad ke madadgar ka matam
+  Farzand-e-Muhammad ke madadgar ka matam
   Jo ik naye andaz se maidan may aaya
-  Be tegh kiya Sham ke lashkar ka safaya
-  Us sher e Ali zaigham e jeedar ka matam
+  Betegh kiya Sham ke lashkar ka safaya
+  Us sher-e-Ali zaigham-e-jeedar ka matam
   Shabbir ko bhi naz tha kirdar pe jis ke
-  Konain bhi hairan hay eesar pe jis ke
-  Matam hay ye us sahib e eesar ka matam
-  Har hukm e Sheh wala pe sar jis ne jhukaya
-  Wo jis ne itaet ke fareezay to nibhaya
-  Us Syed e Konain ke ghamkhawar ka matam
-  Jab tashna dahan bachon ne ro ro ke bulaya
-  Wo danton se mashkeeza uthaey huay aaya
-  Karta hua ashkon se dilafgar ka matam
+  Konain bhi hairan hai isar pe jis ke
+  Matam hai ye us sahib-e-isar ka matam
+  Har hukm-e-Sheh wala pe sar jis ne jhukaya
+  Wo jis ne itaet ke farize to nibhaya
+  Us Syed-e-Konain ke ghamkhawar ka matam
+  Jab tashna dahan bachoṅ ne ro ro ke bulaya
+  Wo dantoṅ se mashkeeza uthae hue aaya
+  Karta hua ashkoṅ se dilafgar ka matam
   Bhai ko samajhta tha jo aaqa ke barabar
-  Jo ho gaya qurban Hussain ibne Ali par
-  Hay shah ke us aashiq o hubdar ka matam
-  Jo rota raha mashk kalejay se lagaye
+  Jo ho gaya qurban Husain ibne Ali par
+  Hai shah ke us aashiq o hubdar ka matam
+  Jo rota raha mashk kaleje se lagaye
   Jis sher ke bazo bhi qalam ho gaye aaye
-  Jo kar na saka Syed e Abrar ka matam
-  Sardar ka ye moajza dekhay zara dunya
-  Har mulk may har shahr may ab hota hay barpa
+  Jo kar na saka Syed-e-Abrar ka matam
+  Sardar ka ye moajza dekhe zara dunya
+  Har mulk may har shahr may ab hota hai barpa
   Ik dasht may ujrri hui sarkar ka matam
   Majlis may jalooson may azakhno ke andar
   Bhai ki itaet se kabhi sar na uthaya
   Us ashiq e Shabbir dilafgar ka matam
 
   2
-  Pani na piya nehr pe shanay bhi kataye
-  Har rukh pe hua Jafer e Tayyar ka matam
-  Seenay pe sina kha ke hua Akbar e mehro
+  Pani na piya nehr pe shane bhi kataye
+  Har rukh pe hua Jafer-e-Tayyar ka matam
+  Sine pe sina kha ke hua Akbar-e-mehro
   Karna na mila Bano ko dildar ka matam
 
   3
@@ -55,8 +55,8 @@ romanLyrics: |-
   Lo aa ke karo Sheh ke tarafdar ka matam
 
   4
-  Aaye the madinay se rahay Karb e bala may
-  Shabbir gharibul watan be yar ka matam
+  Aaye the madine se rahe Karb e bala may
+  Shabbir gharibul watan beyar ka matam
 
   5
   Wada kia ik sar ka bahattar diye fidye
@@ -67,10 +67,10 @@ romanLyrics: |-
   Qatra na mila bano ke dildar ka matam
 
   7
-  Bazo pe rasan bal khulay Shaam ka darbar
+  Bazo pe rasan bal khule Shaam ka darbar
   Zainab ne kiya ahista raqam dar ka matam
   Khaime se nikal aayi behan bhai ke gham may
-  Karti hui Abbas e alamdar ka mata
+  Karti hui Abbas-e-alamdar ka mata
 # source_id: ziyaraat:fb66f91effd24f0a4658
 # source_url: https://www.ziyaraat.net/api/noha/2565
 # raw_sha256: 357cc34b39eb4c7c0d4d350cf35d180b84b4e25159e9c187015075e1b9849832

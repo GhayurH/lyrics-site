@@ -1,6 +1,6 @@
 ---
 title: "آئے فرس کی زین سے جب خاک پر حسین"
-alternateTitle: "Main Thak Gaya Huṅ"
+alternateTitle: "Main Thak Gaya Hun"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

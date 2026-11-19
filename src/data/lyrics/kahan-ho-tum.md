@@ -1,6 +1,6 @@
 ---
 title: "کہاں ہو تم میرے غازی ذرا چلے آنا"
-alternateTitle: "Kahan Ho Tum"
+alternateTitle: "Kahaṅ Ho Tum"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

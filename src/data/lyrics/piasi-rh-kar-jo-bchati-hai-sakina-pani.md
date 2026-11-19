@@ -15,23 +15,23 @@ romanLyrics: |-
   Tauq-e-Abid pe girati hai Sakina pani
 
   1
-  Ab to aankhon mein bhi aaye to chupa leti hai
+  Ab to aankhoṅ meiṅ bhi aaye to chupa leti hai
   Shimr se itna chupati hai Sakina pani
 
   2
-  Hont khulte hain to Abbas ada hota hai
+  Hont khulte haiṅ to Abbas ada hota hai
   Jab bhi pani ko bulati hai Sakina pani
 
   3
-  Aab-e-Kausar bhi patakhta hai fasilon pe jabeen
-  Jab bhi chullu mein uthati hai Sakina pani
+  Aab-e-Kausar bhi patakhta hai fasiloṅ pe jabiṅ
+  Jab bhi chullu meiṅ uthati hai Sakina pani
 
   4
   Kisi mashkize ke behne se jo uthti hai sada
   Us ko aawaz ye aati hai Sakina pani
 
   5
-  Haal aisa hai ke mutthi mein uthaye mitti
+  Haal aisa hai ke mutthi meiṅ uthaye mitti
   Zer-e-lab bolti jati hai Sakina pani
 
   6

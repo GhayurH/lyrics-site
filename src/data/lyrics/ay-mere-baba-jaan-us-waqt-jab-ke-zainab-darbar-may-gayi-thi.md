@@ -12,44 +12,44 @@ published: false
 romanLyrics: |-
   1
   Us waqt jab ke zainab darbar may gayi thi
-  Khaari namaziyon se mehfil saji hui thi
-  Zaalim ye poochta tha ghazi tera kahan hai
-  Balon se moo chupaye zainab ye keh rahi thi
-  Ay mere baba jaan ho rahi hai azan sar chupa'un kahan
-  Majmaye aam may bewatan be-ama aa gaya karwan
-  Ay mere baba jaan…
+  Khaari namaziyoṅ se mehfil saji hui thi
+  Zaalim ye puchta tha ghazi tera kahaṅ hai
+  Baloṅ se moo chupaye zainab ye keh rahi thi
+  Ae mere baba jaaṅ ho rahi hai azaṅ sar chupa'un kahaṅ
+  Majmaye aam may bewatan beama aa gaya karwaṅ
+  Ae mere baba jaaṅ…
   Mai bhi hoo marzia binte khairun-nisa
   Mere lehje may hai baba teri aada
-  Naam zainab mera tune jo rakh diya dedi apni zuban
-  Ay mere baba jaan…
-  Baba jaan mai rida maangti reh gayi
-  Baam o dar sajgaye jeete ji mar gayi
-  Halqae shaam may naam sunkar mera margaya natawan
-  Ay mere baba jaan…
-  Haath kaano pe hai neel gaalo pe hai
-  Aur nishan jo sakina ke shaano pe hai
-  Har nishan se yahi aa rahi hai sada baba jaan baba jaan
-  Ay mere baba jaan…
-  Sham e ashoor se shaam o kufa talak
+  Naam zainab mera tune jo rakh diya dedi apni zubaṅ
+  Ae mere baba jaaṅ…
+  Baba jaaṅ mai rida maangti reh gayi
+  Baam o dar sajgaye jite ji mar gayi
+  Halqae shaam may naam sunkar mera margaya natawaṅ
+  Ae mere baba jaaṅ…
+  Haath kaano pe hai nil gaalo pe hai
+  Aur nishaṅ jo sakina ke shaano pe hai
+  Har nishaṅ se yahi aa rahi hai sada baba jaaṅ baba jaaṅ
+  Ae mere baba jaaṅ…
+  Sham-e-ashur se shaam o kufa talak
   Maine maanga nahi hai khiraaje fadak
-  Meri chadar se hai meri maa ka sukoon sunle zalim jahan
-  Ay mere baba jaan…
-  Baba jaan ye tera aakhri tha bayaan
-  Teri chadar bachayega ghazi jawan
-  Margaya bawafa chingayi hai rida kehti hai bibiyan
+  Meri chadar se hai meri maa ka sukuṅ sunle zalim jahaṅ
+  Ae mere baba jaaṅ…
+  Baba jaaṅ ye tera aakhri tha bayaaṅ
+  Teri chadar bachayega ghazi jawaaṅ
+  Margaya bawafa chingayi hai rida kehti hai bibiyaṅ
   Abbas abbas abbas
   Ruk na paaya mere bawafa ka wo sar
   Noke naiza se aane laga khaak par
-  Behan ko darbadar dekh kar nange sar seh na paya jawan
-  Ay mere baba jaan…
+  Behan ko darbadar dekh kar nange sar seh na paya jawaaṅ
+  Ae mere baba jaaṅ…
   Kal thi maa aaj mai bhi hoon darbar may
-  Misle zahra khadi hoon mai aghiyar may
-  Us taraf hai shaqi is taraf rehgaye bepadar betiyan
-  Ay mere baba jaan…
-  Aisa khutba diya maine darbar may
+  Misle zahra khari huṅ mai aghiyar may
+  Us taraf hai shaqi is taraf rehgaye bepadar betiyaṅ
+  Ae mere baba jaaṅ…
+  Aisa khutba diya maiṅ ne darbar may
   Likh raha hai jo yawar tere pyar may
-  Lehjaye hyderi har azan ke liye hai sada e azan
-  Ay mere baba jaan…
+  Lehjaye hyderi har azaṅ ke liye hai sada e azaṅ
+  Ae mere baba jaaṅ…
 # source_id: nohayonline:9bf92418d91f1d0acd99
 # source_url: https://www.nohayonline.com/details_content.php?id=113
 # raw_sha256: 1a497a9c3be72334ea907066fa9a913e8570627edd6da9955f9aeeeb4ebb30e4

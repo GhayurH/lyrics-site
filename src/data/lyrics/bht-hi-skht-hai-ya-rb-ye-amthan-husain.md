@@ -12,68 +12,68 @@ romanLyrics: |-
   Haey, Khuda ne jab malakul maut ko ye izn diya
   Ke roohe Hazrat-e-Sarwar nikaal kar le aa
   Rahay khayaal ke, Shabbir ko na ho eezaa
-  Hussain,  Pehle hi zakhmo se chur chur hua
+  Husain,  Pehle hi zakhmo se chur chur hua
   Malak pukara ye, mujh say na ho sake ga khudaa
 
   2
-  May kis tarha se nikaloon, badan se jaan-e-Hussain
-  Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
+  May kis tarha se nikaloon, badan se jaan-e-Husain
+  Bohat hi sakht hay ya Rab, ye imtehan-e-Husain
 
   3
   1. Haey, Laga hai zakhm tabar, beh raha hai sar se lahoo
   Bhare hain khoon mein jaane Rasool ke gesu
   Qareeb jaake rakhoon dil pe kis tarah qaboo
   Ke is lahoo mein tho hai Fatema ke doodh ki bu
-  May kis tarha se nikaloon, badan se jaan-e-Hussain
-  Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
+  May kis tarha se nikaloon, badan se jaan-e-Husain
+  Bohat hi sakht hay ya Rab, ye imtehan-e-Husain
 
   4
   2. Haey, May phir in-aankhon pe dhaoon sitam ye kya hay zaroor
   Bichar ke jo Ali Akber se ho gayeen benoor
   Nida ye aayi dahan se nikaal jaane huzoor
   Kaha dahan mein tho kaante pade hain Rabbe ghafoor
-  May kis tarha se nikaloon, badan se jaan-e-Hussain
-  Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
+  May kis tarha se nikaloon, badan se jaan-e-Husain
+  Bohat hi sakht hay ya Rab, ye imtehan-e-Husain
 
   5
   3. Nida ye aayi ke gardan se khynchna in ki
   Kaha my kya kahoon garden pe chal rahi hai churi
   Churi pakadke ye chillati hay koi bibi
   Na zibha kar mere bacche ko mai duwa doongi
-  May kis tarha se nikaloon, badan se jaan-e-Hussain
-  Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
+  May kis tarha se nikaloon, badan se jaan-e-Husain
+  Bohat hi sakht hay ya Rab, ye imtehan-e-Husain
 
   6
   4. Haey, Nida ye aayi ke seene se qabz kar le jaan
   Kaha wo teeron se chalni hay aey mere Rehmaan
   Abhi tho maarke barchi hata tha ek shaitan
   Aur ab to hay tahe zaanuye Shimr ye quraan
-  May kis tarha se nikaloon, badan se jaan-e-Hussain
-  Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
+  May kis tarha se nikaloon, badan se jaan-e-Husain
+  Bohat hi sakht hay ya Rab, ye imtehan-e-Husain
 
   7
   5. Haey, Nida ye aayi ke mazloomiyet kay rutba shinas
   Qamr se khynchle kaabe ki jaan be waswaas
   Kaha malak ne tarap kar ba-dardo hasrato yaas
   Qamar tho toot gayi, jabse mar gaye Abbas
-  May kis tarha se nikaloon, badan se jaan-e-Hussain
-  Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
+  May kis tarha se nikaloon, badan se jaan-e-Husain
+  Bohat hi sakht hay ya Rab, ye imtehan-e-Husain
 
   8
   6. Falak se tab hua roohul amee ka ran mein nuzool
   Kaha pukar ke muh dhamp lo baraye Batool
   Pisar ke laash pe kholegi baal binte Rasool
   Sada ye thi malakul mauth ki ba huzn malool
-  May kis tarha se nikaloon, badan se jaan-e-Hussain
-  Bohat hi sakht hay ya Rab, ye imtehan-e-Hussain
+  May kis tarha se nikaloon, badan se jaan-e-Husain
+  Bohat hi sakht hay ya Rab, ye imtehan-e-Husain
 
   9
   7. Haey, Isay ye hukm hu par- fikr –ye hay ay yazdaan
   Har ek juzv hay zakhmi lagaaoon haath kahan
   Khuda pukara ye mushkil karenge hum aasaan
   Na tu nikaal mere aashiqe ghareeb ki jaan
-  May khud nikal raha hoon badan se jaan-e-Hussain
-  Ke khatm honay ko ab hay yeh imtehan-e-Hussain
+  May khud nikal raha hoon badan se jaan-e-Husain
+  Ke khatm honay ko ab hay yeh imtehan-e-Husain
 # source_id: ziyaraat:dcd4c57ed1c2eabf7a66
 # source_url: https://www.ziyaraat.net/api/noha/986
 # raw_sha256: fa3f6eb241c0ac9c636ea42cfa85d689fcc6c12b892923f58bc38a8de8c3019a

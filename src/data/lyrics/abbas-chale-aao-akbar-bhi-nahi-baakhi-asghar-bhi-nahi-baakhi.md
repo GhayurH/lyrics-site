@@ -15,32 +15,32 @@ romanLyrics: |-
   1
   Akbar bhi nahi baakhi asghar bhi nahi baakhi
   Quran tha jis ghar may wo ghar bhi nahi baakhi
-  Har tarha ke sadmon se betaab sakina hai
-  Aa kar usay samjhao
+  Har tarha ke sadmoṅ se betaab sakina hai
+  Aa kar use samjhao
 
   2
-  Kano ki lawaen khenchi kano se gowhar tode
-  Ya kaah-kashan todi ya shams-o-qamar tode
-  Tode hai zamane may iqlaaq ke saanche bhi
+  Kano ki lawaeṅ khenchi kano se gowhar tore
+  Ya kaah-kashan tori ya shams o qamar tore
+  Tore hai zamane may iqlaaq ke saanche bhi
   Maare hai tamache bhi bachi pa taras khao
 
   3
-  Ye raat ye tareeki ye dasht ye sannata
-  Lamho ke taghayyur ne sadiyon ka safar kaata
+  Ye raat ye tariki ye dasht ye sannata
+  Lamho ke taghayyur ne sadiyoṅ ka safar kaata
   Ye jalte hue qaime ghabrake na mar jaaye
-  Masoom kidhar jaaye masoom ko samjhao
+  Masum kidhar jaaye masum ko samjhao
 
   4
   Kya aise bahadur ko dekha kabhi dunya ne
-  Daaton se alam thaama baazu se katay shaane
-  Sar giriya e wehshat may deewar se maaregi
+  Daatoṅ se alam thaama baazu se kate shaane
+  Sar giriya e wehshat may diwar se maaregi
   Ammu ko puka-regi ammu ko bula lao
 
   5
-  Ek haul sa uth'ta hai is shaam e ghariban may
-  Ek khauf sa dasta hai jangal may biyaban may
-  Zanjeeer bapa bhai phuphi bhi rasan basta
-  Phir band har ek rasta ab aur na tadpao
+  Ek haul sa uthta hai is shaam e gharibaṅ may
+  Ek khauf sa dasta hai jangal may biyabaṅ may
+  Zanjier bapa bhai phuphi bhi rasan basta
+  Phir band har ek rasta ab aur na tarpao
 # source_id: nohayonline:8feb7871f7afb5346056
 # source_url: https://www.nohayonline.com/details_content.php?id=268
 # raw_sha256: a91050a3be61db65192aa642a2fca5b6c753b9a51c4437d0fa2067acb5b0a20b

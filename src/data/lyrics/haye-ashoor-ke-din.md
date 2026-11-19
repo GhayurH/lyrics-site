@@ -1,6 +1,6 @@
 ---
 title: "آیا کیا دورِ بلا ہائے عاشور کے دن"
-alternateTitle: "Haye Ashoor Ke Din"
+alternateTitle: "Haye Ashur Ke Din"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

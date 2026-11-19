@@ -12,26 +12,26 @@ romanLyrics: |-
 
   1
   Fatima Zehra ka beta banu Hashim ka qamar
-  Chowda masoomo ki hay ankh ka tara Abbas
+  Chowda masoomo ki hai ankh ka tara Abbas
 
   2
-  Koyi kia samjhay usay jis ko kahay aale e Nabi
-  Ham hain ghamkhar zamanay ke hamara Abbas
+  Koyi kia samjhe use jis ko kahe aale-e-Nabi
+  Ham haiṅ ghamkhar zamane ke hamara Abbas
 
   3
-  Khud hi mashkeezay may Abbas ke aa jati furat
-  Us ko kar detay agar aik ishara Abbas
+  Khud hi mashkize may Abbas ke aa jati furat
+  Us ko kar dete agar aik ishara Abbas
 
   4
-  Teri turbat ke jo zawwar hain batlatay hain
-  Alqama par hay tera ab bhi ijara Abbas
+  Teri turbat ke jo zawwar haiṅ batlate haiṅ
+  Alqama par hai tera ab bhi ijara Abbas
 
   5
   Sheh ne Abbas ko sompi jo sipah salari
   Har zamaa par hay faqat aik hi nara Abbas
 
   6
-  Wo to kehye na mila izn e wigha Ghazi ko
+  Wo to kehye na mila izn-e-wigha Ghazi ko
   Warna kis jang may afwaj se hara Abbas
 
   7
@@ -39,24 +39,24 @@ romanLyrics: |-
   Loat ke ran se na aa ga tumhara Abbas
 
   8
-  Hasrat o yas se taktay thay haram aur Hussain
-  Le ke mashkeezi may de maidan sidhara Abbas
+  Hasrat o yas se takte the haram aur Husain
+  Le ke mashkeezi may de maidaṅ sidhara Abbas
 
   9
-  Rakh ke sar bao pe Abbas ka kehtay thay Hussain
-  Sath ghurbat may na yun choro khudara Abbas
+  Rakh ke sar bao pe Abbas ka kehte the Husain
+  Sath ghurbat may na yuṅ choro khudara Abbas
 
   10
-  Sar barahna jo haram thay sar e nok e sina
+  Sar barahna jo haram the sar-e-nok-e-sina
   Dekhta kaise bhala sharm ka mara Abbas
 
   11
-  Chadrain chinnay pe yaad aaya har ik bibi ko
+  Chadraiṅ chinne pe yaad aaya har ik bibi ko
   Har tamachay pe Sakina ne pukara Abbas
 
   12
-  Sibt e Jafer ho azadari ko kyun harshr ki fikr
-  Ho ga waan pehlay se mojood hamara Abbas
+  Sibt-e-Jafer ho azadari ko kiuṅ harshr ki fikr
+  Ho ga waaṅ pehle se mojud hamara Abbas
 # source_id: ziyaraat:424841e715ab964837f1
 # source_url: https://www.ziyaraat.net/api/noha/2552
 # raw_sha256: fc2ca1a3f2fab6548d6ac1b9e9bc12f4d056add96d6b744589445f4ced2bd15a

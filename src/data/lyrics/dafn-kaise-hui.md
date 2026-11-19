@@ -13,27 +13,27 @@ published: false
 romanLyrics: |-
   1
   Shikasta baazu shikasta pehlu
-  Baalon mein safedi hai
+  Baaloṅ meiṅ safedi hai
   Haye zahra haye zahra haye zahra
   Dafn kaise hui zahra ye ali jaante hai
-  Kaise turbat mein utaara ye ali jaante hai
+  Kaise turbat meiṅ utaara ye ali jaante hai
   Dar ke girne se hua jiska shikasta pehlu
-  Phasliyan zakhmi thi aur toot chuka tha baazu
+  Phasliyaṅ zakhmi thi aur tut chuka tha baazu
   Kaise utha wo janaza ye ali jaante hai
   Dafn kaise hui zahra...
   Samne us ke tha amma ne tamacha khaaya
-  Kitne din jaane hassan kuch na kisi se bola
+  Kitne din jaane Hasan kuch na kisi se bola
   Wo na bhoolega tamacha ye ali jaante hai
   Dafn kaise hui zahra...
   Ghusl dete huwe zahra ko ali rote rahe
-  Ab talak haath pe zakhmon ke nihsan baaqi thay
+  Ab talak haath pe zakhmoṅ ke nihsan baaqi the
   Kis ne maara tha wo durra ye ali jaante hai
   Dafn kaise hui zahra...
-  Phasliyan toot chuki jab ye ali ne dekha
-  Karb se cheekh ke maula ne kaha ya zahra
+  Phasliyaṅ tut chuki jab ye ali ne dekha
+  Karb se chikh ke maula ne kaha ya zahra
   Ghusl kis tarha diya tha ye ali jaante hai
   Dafn kaise hui zahra...
-  Saans lete huwe takleef se karrahti thi
+  Saans lete huwe taklif se karrahti thi
   Dard itna tha ke karwat bhi na le paati thi
   Kab se soyi nahi zahra ye ali jaante hai
   Dafn kaise hui zahra...
@@ -43,15 +43,15 @@ romanLyrics: |-
   Dafn kaise hui zahra...
   Baap ka pursa jise dene na aaya koi
   Roti rehti thi jo turbat se lipat kar bibi
-  Kitna yaad aate thay baba ye ali jaante hai
+  Kitna yaad aate the baba ye ali jaante hai
   Dafn kaise hui zahra...
   Zakhm khaa kar bhi wilayat ki hifazat ki hai
-  Jaa ke dar dar pe yun zahra ne gawahi di hai
+  Jaa ke dar dar pe yuṅ zahra ne gawahi di hai
   Kitna ehsaan hai uska ye ali jaante hai
   Dafn kaise hui zahra...
-  Kitni mazloom thi zakhmi thi nabi ki beti
-  Qabr bhi maula ne zeeshan chupa di uski
-  Hai kahan marqad e zahra ye ali jaante hai
+  Kitni mazlum thi zakhmi thi nabi ki beti
+  Qabr bhi maula ne zishan chupa di uski
+  Hai kahaṅ marqad e zahra ye ali jaante hai
   Dafn kaise hui zahra...
 # source_id: nohayonline:a32fc4b899d7eda06235
 # source_url: https://www.nohayonline.com/details_content.php?id=3550

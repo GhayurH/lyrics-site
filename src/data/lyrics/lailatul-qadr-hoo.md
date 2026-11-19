@@ -19,13 +19,13 @@ romanLyrics: |-
   Ta hashr rahenge taaza
   Hasrat hai raat ke parde may
   Mera uthe paak janaza
-  Lailatul qadr hoo mera taboot
+  Lailatul qadr hoo mera tabut
   Ya ali raat ko uthana tum
-  Mujhko jis jis ne bhi sataya usay
+  Mujhko jis jis ne bhi sataya use
   Meri mayyat pe na bulana tum
-  Hai jigar daar hai shaheedon ke
+  Hai jigar daar hai shahidoṅ ke
   Ye kaleje chabane waale hai
-  Mai hoo mazdoor inki nazron se
+  Mai hoo mazdur inki nazroṅ se
   Meri turbat ko bhi chupana tum
   Lailatul qadr hoo...
   Mere pehlu ka zakhm gehra hai
@@ -33,23 +33,23 @@ romanLyrics: |-
   Dafn ke waqt bhi mera maula
   Haath pehlu se na hatana tum
   Lailatul qadr hoo...
-  Mere baazu ke neel dekh chuki
-  Meri chadar se khoon ponch chuki
+  Mere baazu ke nil dekh chuki
+  Meri chadar se khun ponch chuki
   In masayib se wo bhi guzregi
   Kuch na zainab se ab chupana tum
   Lailatul qadr hoo...
-  Jabse zakhmi hui hoo mai maula
+  Jabse zakhmi hui hu mai maula
   Wo meri godh may nahi soye
-  Raat ke waqt mere bachon ko
+  Raat ke waqt mere bachoṅ ko
   Meri turbat may leke aana tum
   Lailatul qadr hoo...
   Naam leke mujhe pukara gaya
   Mere ghar aake mujhko maara gaya
-  Teri amma batool qatl hui
+  Teri amma batul qatl hui
   Mere abbas ko batana tum
   Lailatul qadr hoo...
-  Phasliyan tod di hai ummat ne
-  Thak chuki hoo mai zulm sehte huwe
+  Phasliyaṅ tor di hai ummat ne
+  Thak chuki hu mai zulm sehte huwe
   Jaa rahi hoo mai paas baba ke
   Ab wahin mujhse milne aana tum
   Lailatul qadr hoo...

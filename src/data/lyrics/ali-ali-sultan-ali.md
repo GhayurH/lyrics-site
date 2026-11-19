@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hyder ke fazail padti hai ye dunya
-  Hyder ke fazail padta hai khuda bhi
+  Hyder ke fazail parti hai ye dunya
+  Hyder ke fazail parta hai khuda bhi
   Ali maula ali ali sultan ali
   Hum maula ali ke hai maan'ne waale
-  Haan sher e khuda ka hai maan'ne waale
+  Haaṅ sher e khuda ka hai maan'ne waale
   Ali ali sultan ali sher e khuda rab ka wali
   Allah ki hujjat hai hyder hai waliyullah
   Hyder hai safiullah hyder hai kaleemullah
@@ -23,34 +23,34 @@ romanLyrics: |-
   Hyder ki ita'at hi khaaliq ki ita'at hai
   Ali ali sultan ali...
   Likha hai ali maula jannat ke makano par
-  Likha hai ali maula rehmat ki ghataon par
-  Likha hai ali maula sooron ki zabano par
-  Yani ke ali maula har shay ki zuroorat hai
+  Likha hai ali maula rehmat ki ghataoṅ par
+  Likha hai ali maula suroṅ ki zabano par
+  Yani ke ali maula har shay ki zururat hai
   Ali ali sultan ali...
-  Masjid ki minaron se kyunkar na sada aaye
-  Bus ek wahi aaye dil mein jo ali laaye
-  Jo dushman e hyder hai dozakh mein chala jaaye
+  Masjid ki minaroṅ se kiuṅkar na sada aaye
+  Bus ek wahi aaye dil meiṅ jo ali laaye
+  Jo dushman e hyder hai dozakh meiṅ chala jaaye
   Ye rab ka iraada hai aur uski hi chaahat hai
   Ali ali sultan ali...
   Tu qaatil e marhab hai tu faatah e khyber hai
-  Tu khalq mein ay maula allah ka lashkar hai
-  Kaunain mein kaun aise lashkar ke barabar hai
+  Tu khalq meiṅ ae maula allah ka lashkar hai
+  Kaunain meiṅ kaun aise lashkar ke barabar hai
   Allah ki nusrat bhi teri hi to nusrat hai
   Ali ali sultan ali...
-  Tauheed ki khaatir hi sar tu ne kataya hai
+  Tauhid ki khaatir hi sar tu ne kataya hai
   Kaabe ko bachaya hai islam bachaya hai
   Jo waada khuda se tha tu ne wo nibhaya hai
-  Yun shukr tera karti allah ki khudrat hai
+  Yuṅ shukr tera karti allah ki khudrat hai
   Ali ali sultan ali...
-  Ekkeeswi ramzan ko aankhein hai sabhi pur nam
-  Hasnain tadapte hai zainab bhi hui be dam
+  Ekkeeswi ramzaṅ ko aankheiṅ hai sabhi pur nam
+  Hasnain tarapte hai zainab bhi hui bedam
   Dekha nahi jaata hai ye dard bhara aalam
-  Barpa ye hui kaisi kufe mein qayamat hai
+  Barpa ye hui kaisi kufe meiṅ qayamat hai
   Ali ali sultan ali...
-  Khoon koni se tere jo behta tha mere maula
+  Khuṅ koni se tere jo behta tha mere maula
   Kya zarb lagayi thi zaalim ne tujhe maula
-  Jo dard hai seene mein dikhlaye kise maula
-  Sar peeto ke ay nasir maula ki shahadat hai
+  Jo dard hai sine meiṅ dikhlaye kise maula
+  Sar pito ke ae nasir maula ki shahadat hai
   Ali ali sultan ali...
 # source_id: nohayonline:a5eef130f6eea41ee89e
 # source_url: https://www.nohayonline.com/details_content.php?id=2429

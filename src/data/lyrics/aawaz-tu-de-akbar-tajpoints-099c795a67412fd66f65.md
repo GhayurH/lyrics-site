@@ -41,7 +41,7 @@ romanLyrics: |-
   5
   Barchi Sai Bas Kaleja, Tera Nahi Chidda Hai
   Maqtal Main Fatima Nai Dil Apna Thaam Liya Hai
-  Bhai Hassan Nana Nabi, Baba Ali Dadi Teri
+  Bhai Hasan Nana Nabi, Baba Ali Dadi Teri
   Moujood Hain Sab Hi Idher
 
   6

@@ -15,42 +15,42 @@ romanLyrics: |-
   1
   Sakina ke liye abbas aada se darya aaj le lenge
   Ali ke sher hai abbas ke tewar batate hai
-  Sitamgaron ke qabze se ye darya aaj le lenge
+  Sitamgaroṅ ke qabze se ye darya aaj le lenge
 
   2
-  Sitamgaron se ye aun o mohamed ran mein kehte thay
+  Sitamgaroṅ se ye aun o mohamed ran meiṅ kehte the
   Mere hamle dayare shaam o kufa aaj le lenge
 
   3
-  Wiladat keh rahi hai budshikan ki sehn e kaaba mein
-  Khuda waale buthon se apna kaaba aaj le lenge
+  Wiladat keh rahi hai budshikan ki sehn e kaaba meiṅ
+  Khuda waale buthoṅ se apna kaaba aaj le lenge
 
   4
-  Saji hai karbala teeron se talwaron se naizon se
+  Saji hai karbala tiroṅ se talwaroṅ se naizoṅ se
   Ye ansar e hussaini jaane kya kya aaj le lenge
 
   5
-  Nikal jayegi hasrat jang ki abbas kehte thay
+  Nikal jayegi hasrat jang ki abbas kehte the
   Sakina ki sifarish ka sahara aaj le lenge
 
   6
-  Hai jis se azmate kaaba zameene karbala boli
-  Jabeen e shaah e deen se hum wo sajda aaj le lenge
+  Hai jis se azmate kaaba zamine karbala boli
+  Jabin e shaah e diṅ se hum wo sajda aaj le lenge
 
   7
   Ali ibne kareema ka ho ye hurr sheh se kehta hai
   Hum apne haath se daaman tumhara aaj le lenge
 
   8
-  Ulat kar aasteen abbas be-deeno se kehte hai
+  Ulat kar aastiṅ abbas bedeeno se kehte hai
   Ye darya hi nahi hum saari dunya aaj le lenge
 
   9
-  Hum aate hai kaha abbas ne ay lashkar e aada
+  Hum aate hai kaha abbas ne e lashkar e aada
   Jo kal darya tumhara tha wo darya aaj le lenge
 
   10
-  Jhapak jaye nigaah e barq jisko dekh kar salik
+  Jhapak jaye nigaah-e-barq jisko dekh kar salik
   Ali ki madha se aisa ujaala aaj le lenge
 # source_id: nohayonline:5ff9432ab1f3f5a89ee5
 # source_url: https://www.nohayonline.com/details_content.php?id=1213

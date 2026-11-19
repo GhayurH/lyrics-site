@@ -1,6 +1,6 @@
 ---
 title: "منگدی شمر توں زینب ردائیں"
-alternateTitle: "Mangdi Shimar Ton Zainab Rida Ay"
+alternateTitle: "Mangdi Shimar Toṅ Zainab Rida Ay"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,20 +11,20 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mangdi Shimar ton Zainab rida ae
+  Mangdi Shimar toṅ Zainab rida ae
   Ainj dhi Ali di hoi gharib ae
   Rehya kaun baqi kis nu bulaaye
   Ainj dhi Ali di hoi gharib ae
 
   1
   Jis bhain de veer hovan athara
-  Rul gayi ae kiun oh wich bazaaraṅ
+  Rul gayi ae kiuṅ oh wich bazaaraṅ
   Bachiya na koi Abid siwa ae
 
   2
   Pamaal takiya babe da sina
   Bhul zakhm apne gayi hai Sakina
-  Puchhdi Najaf da Zainab ton raah ae
+  Puchhdi Najaf da Zainab toṅ raah ae
 
   3
   Maqtal jo aayi ohde waal khul gaye
@@ -42,22 +42,22 @@ romanLyrics: |-
   Duji waar Kufe aayi rasiyaṅ paa ae
 
   6
-  Dunya ton wakhri ae Zainab hai ujri
+  Dunya toṅ wakhri ae Zainab hai ujri
   Jinde bhraavaaṅ di hove wasdi nagri
   Nayi bhain kithe madfan di ja ae
 
   7
-  Neze ton la ke sar jholi paandi
+  Neze toṅ la ke sar jholi paandi
   La naal sine le Shaam jaandi
-  Masruf hath hiṅ lut gayi rida ae
+  Masruf hath hin lut gayi rida ae
 
   8
   Amari de vaangoṅ zulfaṅ nu dhondi
   Chum zakhm gal de ae raj ke rondi
-  Ho gayi bhra ton Zainab juda ae
+  Ho gayi bhra toṅ Zainab juda ae
 
   9
-  Tanveer Zainab Baqiye ja ke
+  Tanvir Zainab Baqiye ja ke
   Haalaat safraaṅ de maaṅ nu suna ke
   Sab daagh zakhmaaṅ de Bibi wakha ae
 # source_id: ziyaraat:1c4835d79a4c5567b613

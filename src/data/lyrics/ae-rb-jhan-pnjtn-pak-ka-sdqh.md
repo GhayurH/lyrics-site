@@ -8,40 +8,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aae Rab e jahan panjitan e paak ka sadqa
-  Iss qoum ka daman gham e shabir say bhar day
+  Aae Rab-e-jahaṅ panjitan-e-paak ka sadqa
+  Iss qoum ka daman gham-e-shabir se bhar de
 
   1
-  Bachoon ko aata ker Ali Asghar ka tabassum
-  Burhoon ko Habib Ibn e Mazahir ki nazar day
+  Bachuṅ ko aata ker Ali Asghar ka tabassum
+  Burhuṅ ko Habib Ibn-e-Mazahir ki nazar de
 
   2
-  Kamsin ko milay walwalaye auno Muhammad
-  Har eik jawan ko Ali Akbar ka jigar day
+  Kamsin ko mile walwalaye auno Muhammad
+  Har eik jawan ko Ali Akbar ka jigar de
 
   3
-  Maoon ko sikha saniy e Zahra ka saliqa
-  Behnoon ko Sakina ki duaoon ka asar day
+  Mauṅ ko sikha saniy-e-Zahra ka saliqa
+  Behnuṅ ko Sakina ki duauṅ ka asar de
 
   4
-  Maula tujhay Zainab ki asiri ki qasam hai
-  Bay jurm asiroon ko rahai ki khabar day
+  Maula tujhe Zainab ki asiri ki qasam hai
+  Bejurm asiruṅ ko rahai ki khabar de
 
   5
-  Jo chadar e Zainab ki azadar hain mola
-  Mehfooz rahein aisi khawateen kay parday
+  Jo chadar-e-Zainab ki azadar haiṅ mola
+  Mehfuz raheiṅ aisi khawatin ke parde
 
   6
-  Jo deen kay kam aayein woh aulad aata ker
-  Jo majlisay Shabir ki khatir ho woh ghar day
+  Jo din ke kam aayeiṅ woh aulad aata ker
+  Jo majlisay Shabir ki khatir ho woh ghar de
 
   7
   Muflis pay zaro lal jawahir ki ho barish
-  Maqrooz ka har qarz ada ghaib say ker day
+  Maqruz ka har qarz ada ghaib se ker de
 
   8
-  Gham koi na day humko siwa e gham e Shabir
-  Shabir ka gham bant raha hai to idhar dey
+  Gham koi na de humko siwa-e-gham-e-Shabir
+  Shabir ka gham bant raha hai to idhar de
 # source_id: ziyaraat:46f0df7131115cc33d34
 # source_url: https://www.ziyaraat.net/api/noha/474
 # raw_sha256: 5a24ae93315382898fdb46cd30ad24321ec610b027f9a7837576ba87a4a6bdc7

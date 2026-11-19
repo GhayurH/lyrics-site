@@ -10,9 +10,9 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hussain
+  Husain
   Kaba hai siyah posh falak mehv e buka hai
-  Ye gumbad e aflaak se kyun shor uthha hai
+  Ye gumbad e aflaak se kiun shor uthha hai
   Kohram baqayya ki fizaoon main bapa hai
   Ye koun gira
   Haaye hussaina
@@ -39,8 +39,8 @@ romanLyrics: |-
   4
   Ye ho gaya maloom ye khasaan-e-khuda hai
   Ye kaisa bashar hai jo zamaney se juda hai
-  Kounain main kyun iss key liye hashar bapa hai
-  Kyun isskey liye arsh-e-mualla pe hai matam
+  Kounain main kiun iss key liye hashar bapa hai
+  Kiun isskey liye arsh-e-mualla pe hai matam
   Rotey hain nabbi.w.w sarey siyah posh hain adam
   Ye koun gira reyti per
   Ye koun gira

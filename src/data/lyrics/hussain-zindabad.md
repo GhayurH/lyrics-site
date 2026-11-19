@@ -75,7 +75,7 @@ romanLyrics: |-
   Karam hai Mustafa ka apna mulk shaad o baad hai
 
   10
-  Husain jis ko aap ka dar-o-dayaar mil gaya
+  Husain jis ko aap ka dar o dayaar mil gaya
   Use khud apni zindagi ka aetbaar mil gaya
   Nafas nafas use Khuda hazaar baar mil gaya
   Salaam ya Husain ka jise jawaab mil gaya

@@ -13,31 +13,31 @@ romanLyrics: |-
   1
   Asghar aaja asghar aaja
   Veeran aaja veeran aaja
-  Aaja ay laal asghar jhoola jhulaun aaja
-  Paaya na teen din se pani ka tu ne khatra
+  Aaja ae laal asghar jhula jhulauṅ aaja
+  Paaya na tin din se pani ka tu ne khatra
   Gul ki tarha se beta nazuk hai jism tera
-  Sholay ugal rahi hai ran ki zameen aaja
-  Aaja ay laal asghar...
+  Shole ugal rahi hai ran ki zamiṅ aaja
+  Aaja ae laal asghar...
   Socha nahi tha aise lut jayegi kameini
-  Is kamsini mein teri ho jayegi judaai
+  Is kamsini meiṅ teri ho jayegi judaai
   Tere baghair beta kis kaam hai dunya
-  Aaja ay laal asghar...
-  Zufein teri sawarun chehra tera sajaun
-  Teri balayien lelun sadqa tea utaarun
-  Maangu duayein rab se jeene ki tere beta
-  Aaja ay laal asghar...
-  Toofan utha rahe hai har simt zalzalein hai
+  Aaja ae laal asghar...
+  Zufeiṅ teri sawaruṅ chehra tera sajauṅ
+  Teri balayieṅ leluṅ sadqa tea utaaruṅ
+  Maangu duayeiṅ rab se jine ki tere beta
+  Aaja ae laal asghar...
+  Tufaṅ utha rahe hai har simt zalzaleiṅ hai
   Aandhi bhi chal rahi hai qaime bhi jal rahe hai
-  Aaja ke jald beta ab jal na jaaye jhoola
-  Aaja ay laal asghar...
+  Aaja ke jald beta ab jal na jaaye jhula
+  Aaja ae laal asghar...
   Tere baghair kaise ab chain se rahungi
-  Asghar mai tujhko khokar pal bhar na jee sakungi
+  Asghar mai tujhko khokar pal bhar na ji sakungi
   Maadar ko bhi bulaale tu jis jagah hai beta
-  Aaja ay laal asghar...
+  Aaja ae laal asghar...
   Zahid wo tera nauha mohsin suna raha hai
-  Har maa ke dil ka armaan isme raqam hua hai
-  Toofan e gham hai isme hai hasraton ka darya
-  Aaja ay laal asghar...
+  Har maa ke dil ka armaaṅ isme raqam hua hai
+  Tufan e gham hai isme hai hasratoṅ ka darya
+  Aaja ae laal asghar...
 # source_id: nohayonline:80071d2e0fda0e0e68ec
 # source_url: https://www.nohayonline.com/details_content.php?id=2451
 # raw_sha256: be1186850ddde4563eb653a8d6a6655aa0f7c088e93f6a784a70c0a27ef62bbf

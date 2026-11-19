@@ -13,15 +13,15 @@ published: false
 romanLyrics: |-
   Alam jo darya se aata hua dikhayi diya
   Sakina dar pe jo pahunchi to baap ko dekha
-  Ye ro ke bacchi ne poocha kahan hai mere chacha
-  Alam sakina ke haathon mein de ke sheh ne kaha
-  Alam badha do sakina chala gaya abbas
-  Hussain hogaya tanha chala gaya abbas
+  Ye ro ke bacchi ne pucha kahaṅ hai mere chacha
+  Alam sakina ke haathoṅ meiṅ de ke sheh ne kaha
+  Alam barha do sakina chala gaya abbas
+  Husain hogaya tanha chala gaya abbas
 
   1
-  Yaqeen aata nahi tha ke mar gaya ghazi
-  Mai thap thapata raha uske gaal ay beti
-  Magar hussain ki us waqt aas toot gayi
+  Yaqin aata nahi tha ke mar gaya ghazi
+  Mai thap thapata raha uske gaal ae beti
+  Magar Husain ki us waqt aas tut gayi
   Jab aake maa ne bataya chala gaya abbas
 
   2
@@ -38,15 +38,15 @@ romanLyrics: |-
 
   4
   Kisi ne gurz jo maara to wo sambhal na saka
-  Kate thay haath sahara wo kis tarha leta
-  Zameen pe aise gira zakhmi ho gaya chehra
+  Kate the haath sahara wo kis tarha leta
+  Zamiṅ pe aise gira zakhmi ho gaya chehra
   Dobara uth nahi paaya chala gaya abbas
 
   5
-  Kahan kahan usay royi hai meri tanhaai
-  Kahin badan tha kahin haath kya ghadi aayi
-  Bikhar gaya mera battees saal ka bhai
-  Pada hai dasht mein laasha chala gaya abbas
+  Kahaṅ kahaṅ use royi hai meri tanhaai
+  Kahiṅ badan tha kahiṅ haath kya ghari aayi
+  Bikhar gaya mera battis saal ka bhai
+  Para hai dasht meiṅ laasha chala gaya abbas
 
   6
   Jawan bhai ka mar jaana sakht manzil hai
@@ -55,21 +55,21 @@ romanLyrics: |-
   Teri phupi ko batana chala gaya abbas
 
   7
-  Laga hai haath pe jo khoon ye usi ka hai
-  Tha uski aankh mein jo teer maine khayncha hai
-  Wo jaanta tha mere dil mein kya tamanna hai
+  Laga hai haath pe jo khun ye usi ka hai
+  Tha uski aankh meiṅ jo tir maiṅ ne khayncha hai
+  Wo jaanta tha mere dil meiṅ kya tamanna hai
   Pukaar kar mujhe bhaiya chala gaya abbas
 
   8
-  Zameen pe girne se dandaan uske zakhmi thay
-  Kate thay hont badan choor choor zakhmon se
-  Tum aise haal mein ghazi ko dekhti kaise
+  Zamiṅ pe girne se dandaan uske zakhmi the
+  Kate the hont badan chur chur zakhmoṅ se
+  Tum aise haal meiṅ ghazi ko dekhti kaise
   Jabhi to ghar nahi aaya chala gaya abbas
 
   9
-  Ghadi wo aayi thi zeeshan aur raza kaisi
-  Kaha ye qaimon mein jab sheh ne mar gaya ghazi
-  Giri zameen pe ghash khaa ke bibyan saari
+  Ghari wo aayi thi zishan aur raza kaisi
+  Kaha ye qaimon meiṅ jab sheh ne mar gaya ghazi
+  Giri zamin pe ghash khaa ke bibyaṅ saari
   Koi bhi sun nahi paaya chala gaya abbas
 # source_id: nohayonline:5077fbc803bfa5786b19
 # source_url: https://www.nohayonline.com/details_content.php?id=2738

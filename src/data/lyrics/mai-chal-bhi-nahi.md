@@ -1,6 +1,6 @@
 ---
 title: "میں چل بھی نہیں سکتا قیدی ہوں میں اماں"
-alternateTitle: "Main Chal Bhi Nahiṅ"
+alternateTitle: "Maiṅ Chal Bhi Nahiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

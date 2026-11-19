@@ -12,68 +12,68 @@ published: false
 romanLyrics: |-
   1
   Jab aayi gyara moharam meinane karbobala
-  Behan ne bhai ke pahile huve lahoo se kaha
-  Ay shahe bekasan khudahafiz
-  Ay mere bhai jaan khudahafiz
-  Lo chala karwan khuda hafiz
+  Behan ne bhai ke pahile huve lahu se kaha
+  Ae shahe bekasan khudahafiz
+  Ae mere bhai jaaṅ khudahafiz
+  Lo chala karwaṅ khuda hafiz
   Bhai shabbir fi-amanillah
-  Chali hamsheer fi-amanillah
-  Zameen pe bikhre huve noor is behan ka salaam
-  Badan darida o majboor is behan ka salaam
-  Chali hai tumse bahot door is behan ka salaam
-  Misaale fatema har dukh mein muskura'ungi
-  Hussain zinda hai dunya ko mai bata'ungi
+  Chali hamshir fi-amanillah
+  Zamiṅ pe bikhre huve nur is behan ka salaam
+  Badan darida o majbur is behan ka salaam
+  Chali hai tumse bahot dur is behan ka salaam
+  Misaale fatema har dukh meiṅ muskura'ungi
+  Husain zinda hai dunya ko mai bata'ungi
   Bhai shabbir fi-amanillah
-  Chali hamsheer fi-amanillah
+  Chali hamshir fi-amanillah
   Salaam umme abiha ke godh ke paale
   Salaam karte hai zehra ke haath ke chaale
   Salaam zulfe mohamed se khelne waale
   Padenge durre to mai sabr aazma'ungi
-  Hussain zinda hai dunya ko mai bata'ungi
+  Husain zinda hai dunya ko mai bata'ungi
   Bhai shabbir fi-amanillah
-  Chali hamsheer fi-amanillah
+  Chali hamshir fi-amanillah
   Ye gham nahi hai ke mai sogwaar qaidi hoo
   Abu turab ki aur fatema ki beti hoo
-  Mai is kaleje mein quwwat ali ki rakhti hoo
-  Yazid e waqt ke khyber ki mai gira'ungi
-  Hussain zinda hai dunya ko mai bata'ungi
+  Mai is kaleje meiṅ quwwat ali ki rakhti hoo
+  Yazid-e-waqt ke khyber ki mai gira'ungi
+  Husain zinda hai dunya ko mai bata'ungi
   Bhai shabbir fi-amanillah
-  Chali hamsheer fi-amanillah
-  Rahe wafa ke bahatar masafiron ki qasam
+  Chali hamshir fi-amanillah
+  Rahe wafa ke bahatar masafiroṅ ki qasam
   Labe faraat sulagte huwe gharon ki qasam
   Sina ki nok pe rakhe huwe saron ki qasam
   Jalaale hazrate abbas banke cha'ungi
-  Hussain zinda hai dunya ko mai bata'ungi
+  Husain zinda hai dunya ko mai bata'ungi
   Bhai shabbir fi-amanillah
-  Chali hamsheer fi-amanillah
+  Chali hamshir fi-amanillah
   Khushi se ehle sitam baandh le mere baazu
-  Banenge nooh ka toofan ab mere ansuu
-  Na chup sakegi ye khoone hussain ki khushboo
-  Mai sar khule huwe darbar e shaam ja'ungi
-  Hussain zinda hai dunya ko mai bata'ungi
+  Banenge nuh ka tufan ab mere ansuu
+  Na chup sakegi ye khune Husain ki khushbu
+  Mai sar khule huwe darbar-e-shaam ja'ungi
+  Husain zinda hai dunya ko mai bata'ungi
   Bhai shabbir fi-amanillah
-  Chali hamsheer fi-amanillah
-  Nigaah jaanib e darya uthi to itna kaha
+  Chali hamshir fi-amanillah
+  Nigaah jaanib-e-darya uthi to itna kaha
   Mere diler alamdar faatahe darya
   Tujhe khabar hai mere sar se chin gayi hai rida
   Tere alam ka pharera rida bana'ungi
-  Hussain zinda hai dunya ko mai bata'ungi
+  Husain zinda hai dunya ko mai bata'ungi
   Bhai shabbir fi-amanillah
-  Chali hamsheer fi-amanillah
+  Chali hamshir fi-amanillah
   Jo pahunchi shaam to bazaar ko saja dekha
   Kabhi najaf to kabhi suye karbala dekha
   Pukari baba mera tumne hausla dekha
-  Jahan bhi jaungi farshe aza bicha'ungi
-  Hussain zinda hai dunya ko mai bata'ungi
+  Jahaṅ bhi jaungi farshe aza bicha'ungi
+  Husain zinda hai dunya ko mai bata'ungi
   Bhai shabbir fi-amanillah
-  Chali hamsheer fi-amanillah
+  Chali hamshir fi-amanillah
   Suna hai sarwar o rehaan khahare shabbir
-  Ali ke lehje mein karti thi jis ghadi taqreer
-  Yazeed o shimr ke seene pe chalti thi shamsheer
+  Ali ke lehje meiṅ karti thi jis ghari taqrir
+  Yazeed o shimr ke sine pe chalti thi shamshir
   Wo jab ye kehti thi waade ko mai nibha'ungi
-  Hussain zinda hai dunya ko mai bata'ungi
+  Husain zinda hai dunya ko mai bata'ungi
   Bhai shabbir fi-amanillah
-  Chali hamsheer fi-amanillah
+  Chali hamshir fi-amanillah
 # source_id: nohayonline:dba6ccecaa114959239f
 # source_url: https://www.nohayonline.com/details_content.php?id=361
 # raw_sha256: 2469f5d18e99f48d10e669490abfdaaccd2519c0318848f0eedc9eb5cfb0c894

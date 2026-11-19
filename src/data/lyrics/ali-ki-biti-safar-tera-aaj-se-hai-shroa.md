@@ -16,41 +16,41 @@ romanLyrics: |-
   1
   Kaisa aulad-e-Muhammad pe ye Ramzan aaya
   Masjid-e-Kufa se ho zakhmi hai Quran aaya
-  Hain rote betiyan aur bete dekh behta lahu
+  Haiṅ rote betiyaṅ aur bete dekh behta lahu
 
   2
   Baad mere ye Musalman satayenge tujhe
   Sar barehna sar-e-bazar phirayenge tujhe
-  Tera Sajjad bazaron mein bahayega lahu
+  Tera Sajjad bazaroṅ meiṅ bahayega lahu
 
   3
   Milega zehar Hasan ko lutegi teri rida
   Meri Zainab mera Husain karega jaise ada
-  Namaz aakhri hogi woh khoon se karke wuzu
+  Namaz aakhri hogi woh khun se karke wuzu
 
   4
-  Teri zindagi mein to dukh koi na paye Zainab
+  Teri zindagi meiṅ to dukh koi na paye Zainab
   Teri zindagi ka jo maqsad hai rida-e-Zainab
   Ye yaad rakhna baad mere mere Ghazi tu
 
   5
-  Meri aulad se yun badla Badr ka lenge
-  Chadarein lutenge pani ka na qatra denge
+  Meri aulad se yuṅ badla Badr ka lenge
+  Chadareiṅ lutenge pani ka na qatra deṅge
   Tujhe le jayenge sar nange Sham mere adu
 
   6
-  Dekho faryad yatimon ki yun sunta hai Khuda
+  Dekho faryad yatimoṅ ki yuṅ sunta hai Khuda
   Ibn-e-Muljim ta hashr gunjegi lanat ki sada
   Ban gaya kaise hai ibrat dekho Haider ka adu
 
   7
-  Bahayen aansu falak aur ro rahi hai zamin
-  Na jao Baba hamara yahan pe koi nahi
-  Bewafaon ka shehar hai yahan dushman har su
+  Bahayeṅ aansu falak aur ro rahi hai zamiṅ
+  Na jao Baba hamara yahaṅ pe koi nahi
+  Bewafaon ka shehar hai yahaṅ dushman har su
 
   8
-  Ho Madina ya wo Kufa ho ya Karbal ki zamin
-  Hogi Sajjad Abu Talib ke khoon se rangin
+  Ho Madina ya wo Kufa ho ya Karbal ki zamiṅ
+  Hogi Sajjad Abu Talib ke khun se rangiṅ
   Bacha hai din-e-Khuda inke karke sajda ruku
 # source_id: ziyaraat:7d2bf8d7bfff1d40f932
 # source_url: https://www.ziyaraat.net/api/noha/1263

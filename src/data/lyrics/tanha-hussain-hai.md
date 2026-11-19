@@ -1,6 +1,6 @@
 ---
 title: "تنہا حسین ہے"
-alternateTitle: "Tanha Hussain Hai"
+alternateTitle: "Tanha Husain Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Tanha hussain hai
-  Hai karbala ka ajeeb manzar
-  Hussain tanha khade huwe hai
+  Tanha Husain hai
+  Hai karbala ka ajib manzar
+  Husain tanha khare huwe hai
   Na ba sipaahi na ab hai lashkar
-  Hussain tanha khade huwe hai
+  Husain tanha khare huwe hai
   Ye ghar nabi ka basa basaya
-  Luta hai maqtal mein ay khudaya
+  Luta hai maqtal meiṅ ae khudaya
   Sada musalsal wo de raha hai
   Palat ke ran se koi na aaya
-  Habeeb hai ab na koi yawar
-  Hussain tanha khade...
+  Habib hai ab na koi yawar
+  Husain tanha khare...
   Badan pe naiza kisi ne maara
   Kisi ne barchi ka phal utaara
   Madad ko aao koi khudara
-  Lahoo mein tar hai libaas saara
-  Chale bhi aao kahan ho akbar
-  Hussain tanha khade…
-  Kahan ho abbas aaj ran mein
-  Ghareeb bhai ki jang dekho
+  Lahu meiṅ tar hai libaas saara
+  Chale bhi aao kahaṅ ho akbar
+  Husain tanha khare…
+  Kahaṅ ho abbas aaj ran meiṅ
+  Gharib bhai ki jang dekho
   Tum ek saabir ki ek musafir
-  Ki pyaas mein ye umang dekho
-  Ye waqt e nusrat ay baradar
-  Hussain tanha khade...
-  Hai khaak aalood jis mein sarwar
-  Lahoo se chehra ataa hua hai
-  Nabi ki dastaar gir padi hai
+  Ki pyaas meiṅ ye umang dekho
+  Ye waqt-e-nusrat ae baradar
+  Husain tanha khare...
+  Hai khaak aalud jis meiṅ sarwar
+  Lahu se chehra ataa hua hai
+  Nabi ki dastaar gir pari hai
   Abaa ka damaan phata hua hai
-  Hai bain fizza ke ye labon par
-  Hussain tanha khade...
-  Hussain tanha hai shaam e gham hai
-  Fughan hai chashme falak bhi nam hai
+  Hai bain fizza ke ye laboṅ par
+  Husain tanha khare...
+  Husain tanha hai shaam e gham hai
+  Fughaṅ hai chashme falak bhi nam hai
   Ye ek pyase pe kya sitam hai
   Badan hai zakhmi kamar bhi kham hai
   Nahi hai abbas sa dilawar
-  Hussain tanha khade...
-  Muarriqon ko bula ke poocho
-  Viqar e insaniiyat kahan hai
+  Husain tanha khare...
+  Muarriqoṅ ko bula ke pucho
+  Viqar e insaniiyat kahaṅ hai
   Shikasta pehlu pe haath rakh kar
   Jo ro rahi hai wo kaun maa hai
   Jo bain karti hai haye ro kar
-  Hussain tanha khade...
-  Ba roz e ashoor is jari ne
-  Khuda ke deen ko nikhaar baksha
-  Wajood e haq ko hayaat bakshi
-  Rasool ko aetbaar baksha
-  Khuda ke deen ke kafeel ban kar
-  Hussain tanha khade...
+  Husain tanha khare...
+  Ba roz e ashur is jari ne
+  Khuda ke diṅ ko nikhaar baksha
+  Wajud-e-haq ko hayaat bakshi
+  Rasul ko aetbaar baksha
+  Khuda ke diṅ ke kafil ban kar
+  Husain tanha khare...
   Mohib aza ko farogh dena
   Hussainiyat ka shiyaar rakhna
-  Ay yazdan bibi ki aarzoo hai
+  Ae yazdaṅ bibi ki aarzu hai
   Ye farshe gham barqaraar rakhna
   Har ek zulm o sitam ki zad par
-  Hussain tanha khade...
+  Husain tanha khare...
 # source_id: nohayonline:44180ed734962cc2a73e
 # source_url: https://www.nohayonline.com/details_content.php?id=2508
 # raw_sha256: a395c3866847d90f63c7eb6682dc72bed73aa20925903852a5ceb8795e5dc88b

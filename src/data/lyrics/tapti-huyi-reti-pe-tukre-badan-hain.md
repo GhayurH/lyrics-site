@@ -31,7 +31,7 @@ romanLyrics: |-
   Tukrro ko jamaa karta,  Haay shahe zaman hay
 
   6
-  Kurbani hassan teri kaam agayi is deen ke
+  Kurbani Hasan teri kaam agayi is deen ke
   Aale nabi ke sadke,  Ye din jo roshan hay
 
   7

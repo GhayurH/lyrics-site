@@ -12,14 +12,14 @@ published: false
 romanLyrics: |-
   1
   Aijaz e imamat se sajjad chale aaye
-  Aur ganje shaheedan may be-gor o kafan laashe
+  Aur ganje shahidaṅ may begor o kafan laashe
   Shabbir ke maqtal may sajjad jyun hi pahunche
   Awaaz ye aati thi shabbir ke laashe se
-  Aao ay beta do hamay pursa in shaheedon ka
+  Aao ae beta do hamay pursa in shahidoṅ ka
   Dafn karne mujhe tu aaya hai dhyan rakhna magar mere laal
   Mai hoo zakhmi badan pehnana kafan sajjad zara aahista
-  Ay khuda-wand e gham tujhpe khud bhi masayab ka saaya hai
-  Tera ehsan hai be-kafan ko kafan dene aaya hai
+  E khuda-wand e gham tujhpe khud bhi masayab ka saaya hai
+  Tera ehsan hai bekafan ko kafan dene aaya hai
   Mere tashna dahan pehnana kafan sajjad zara aahista
   Mai hoo zakhmi badan...
   Tu akela hai aur dafn karne ko laashe bahattar hai
@@ -30,19 +30,19 @@ romanLyrics: |-
   Dhyan rakhna magar zakhmi seena hai us jaan e maadar ka
   Ho na koi dukhan pehnana kafan sajjad zara aahista
   Mai hoo zakhmi badan...
-  Sab ke laashe tujhe mil hi jayenge maqtal may ay qaidi
-  Dhoond na dasht may ek gathdi may hai laash qasim ki
-  Haye wo ibne hassan pehnana kafan sajjad zara aahista
+  Sab ke laashe tujhe mil hi jayenge maqtal may ae qaidi
+  Dhoond na dasht may ek gathri may hai laash qasim ki
+  Haye wo ibne Hasan pehnana kafan sajjad zara aahista
   Mai hoo zakhmi badan...
   Laashe abbas ko baad may uske marqad may le jaana
-  Dono baazu juda hai unhe dhoond kar pehle le aana
+  Dono baazu juda hai unhe dhund kar pehle le aana
   Wo hai saqqae man pehnana kafan sajjad zara aahista
   Mai hoo zakhmi badan...
   Lene jaao jo tum nehr se laashe aun o mohamad ke
-  Maa to royi nahi inke laashon pe tum rona shehzade
+  Maa to royi nahi inke laashoṅ pe tum rona shehzade
   Dono hai gulbadan pehnana kafan sajjad zara aahista
   Mai hoo zakhmi badan...
-  Saari fauj e khuda be-kafan so rahi hai isi ban may
+  Saari fauj e khuda bekafan so rahi hai isi ban may
   Shauzab o jaun o hurr hai habib aur ghazi ke bete hai
   Sab hai tashna dahan pehnana kafan sajjad zara aahista
   Mai hoo zakhmi badan...

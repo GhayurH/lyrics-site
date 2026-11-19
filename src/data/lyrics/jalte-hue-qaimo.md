@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jalte hue qaimon may sada goonj rahi hai
+  Jalte hue qaimon may sada gunj rahi hai
   Abbas abbas abbas ab aao
-  Ye lashkare be-deen rida cheen raha hai
+  Ye lashkare bedeen rida chin raha hai
   Saydaniyo pa shimr ki durro se jafa hai
   Abbas abbas abbas bachao
   Na mehramo ka majma hai aur hum hai khule sar
-  Ghayre hue hai dushmane deen aur sitamgar
+  Ghayre hue hai dushmane diṅ aur sitamgar
   Abbas abbas abbas hatao
   Zaalim hamay lachaar samjhte hai baradar
   Naizo ki chubote hai ani pusht pa aa kar
   Abbas abbas abbas bachao
   Durr bali sakina ke sitamgar ne utaare
-  Rukhsaar pa be-jurm tamache bhi hai maare
+  Rukhsaar pa bejurm tamache bhi hai maare
   Abbas abbas abbas bulao
   Zid karti hai soti nahi roti hai sakina
   Aagosh tumhari hai na hai baap ka seena
   Abbas abbas abbas sulao
-  Aada ne jala dala bayaban may maskan
+  Aada ne jala dala bayabaṅ may maskan
   Jalta hai sakina ka teri aag se daaman
   Abbas abbas abbas bujhao
-  Ay kaash anees itna hi ban jaye muqaddar
-  Bosa loo zarih e shah e abrar ka ja kar
+  Ae kaash anis itna hi ban jaye muqaddar
+  Bosa lu zarih e shah e abrar ka ja kar
   Abbas abbas abbas bulao
 # source_id: nohayonline:e22151e491c0bd610d88
 # source_url: https://www.nohayonline.com/details_content.php?id=232

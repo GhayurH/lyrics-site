@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ay meri sakina
+  Ae meri sakina
   Tum bhej to rahi ho bas itna yaad rakhna
   Yaad aayega abbas magar laut kar nahi
   Jaane ki tum ijazat in ko dila rahi ho
   Tum ko khabar nahi hai kya karne jaa rahi ho
   Ye jaa ke laut aaye mumkin nahi sakina
   Yaad aayega abbas magar...
-  Bachpan mein in ki godhi gehwara tha tumhara
+  Bachpan meiṅ in ki godhi gehwara tha tumhara
   Maa ban ke tumko bibi abbas ne hai paala
   Ro'ogi jab to kis ka tumko milega shaana
   Yaad aayega abbas magar...
   Saaya utha jo inka phir chain na milega
-  Phir kaun haath sar pe yun pyar se rakhega
-  Ro ro ke phir sadayein ammu ko tum na dena
+  Phir kaun haath sar pe yuṅ pyar se rakhega
+  Ro ro ke phir sadayeiṅ ammu ko tum na dena
   Yaad aayega abbas magar...
   Ye baat raaz ki hai tum ko bata raha hoo
   Zainab se aaj tak mai jis ko chupa raha hoo
-  Baad unke phir mera bhi mumkin nahi hai jeena
+  Baad unke phir mera bhi mumkin nahi hai jina
   Yaad aayega abbas magar...
-  Do haath khoon mein doobe dekho agar kahin to
-  Seene se dam nikalta mehsoos hoga tum ko
-  Wo haath choom kar bas seene se tum lagana
+  Do haath khuṅ meiṅ dube dekho agar kahiṅ to
+  Sine se dam nikalta mehsus hoga tum ko
+  Wo haath chum kar bas sine se tum lagana
   Yaad aayega abbas magar...
-  Barsaat patharon ki dekhi to kya karogi
+  Barsaat patharoṅ ki dekhi to kya karogi
   Thaamogi haath kis ka naaqe se jab girogi
-  Taqdeer mein hai likha bazaar e shaam jaana
+  Taqdir meiṅ hai likha bazaar e shaam jaana
   Yaad aayega abbas magar...
-  Zindan ke andhere tanhaiyon ka aalam
-  Us par sitam ye hoga dooba lahoo mein parcham
-  Ek zakhmi mashk us par dekho to khoob rona
+  Zindan ke andhere tanhaiyoṅ ka aalam
+  Us par sitam ye hoga duba lahu meiṅ parcham
+  Ek zakhmi mashk us par dekho to khub rona
   Yaad aayega abbas magar...
   Kehti hai ye sakina rehaan jaise ab bhi
   Ammu ko mere laa do maangungi ab na pani

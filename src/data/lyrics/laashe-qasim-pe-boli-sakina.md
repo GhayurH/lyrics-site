@@ -22,43 +22,43 @@ romanLyrics: |-
   Dekha jaata nahi is ka chehra
 
   3
-  Kitne tukde huwe tere bhaiya
+  Kitne tukre huwe tere bhaiya
   Jab aba may tumhe laaye bhaiya
   Mai ye samjhi ke hai tera sehra
 
   4
-  Kya khabar thi ye mujhko ay bhai
-  Maut aayi hai tujhko ay bhai
+  Kya khabar thi ye mujhko ae bhai
+  Maut aayi hai tujhko ae bhai
   Teri mayyat hai aur hai sakina
 
   5
   Teri mayyat nahi dekhi jaati
-  Wo kalayi bhi hai khoon may doobi
+  Wo kalayi bhi hai khuṅ may dubi
   Jis pa baba ne baandha tha kangna
 
   6
-  Kaise bewa jiyegi ay qasim
-  Jab safar tay karegi ay qasim
-  Nok e naiza pe sar tera hoga
+  Kaise bewa jiyegi ae qasim
+  Jab safar tay karegi ae qasim
+  Nok-e-naiza pe sar tera hoga
 
   7
   Kaun us se batayega aakhir
-  Bekason ka na tha koi nasir
-  Kufiyon ne unhe maar daala
+  Bekasoṅ ka na tha koi nasir
+  Kufiyoṅ ne unhe maar daala
 
   8
   Laashe qasim hai aur hai qayamat
-  Ud gayi ruye kubra ki rangat
-  Jis ghadi dekha waaris ka laasha
+  Ur gayi ruye kubra ki rangat
+  Jis ghari dekha waaris ka laasha
 
   9
   Dekha maa ne jo bete ka laasha
   Yaad waaris ka aaya kaleja
-  Jin ka tukde jigar tasht may tha
+  Jin ka tukre jigar tasht may tha
 
   10
   Rukh madine ki jaanib kiya jab
-  Boli sun ke ye sughra ay ya rab
+  Boli sun ke ye sughra ae ya rab
   Ho chuki hai behan teri bewa
 
   11

@@ -14,58 +14,58 @@ romanLyrics: |-
 
   1
   Abbas peshwa hai mera karbala chalo
-  Dunya ke dard o gham ki dawa karbala mein hai
-  Jannat ki khush gawari fiza karbala mein hai
-  Kya gham ki ab bhi khaake shifa karbala mein hai
-  Ab bhi sitamgaron ki khaza karbala mein hai
+  Dunya ke dard o gham ki dawa karbala meiṅ hai
+  Jannat ki khush gawari fiza karbala meiṅ hai
+  Kya gham ki ab bhi khaake shifa karbala meiṅ hai
+  Ab bhi sitamgaroṅ ki khaza karbala meiṅ hai
   Awaaz de rahi hai wafa karbala chalo
 
   2
   Zahra ki hai dua ke azadaar kam na ho
   Sarwar ka gham ho sab pe zamane ke gham na ho
   Ya rab jahane faani ka gauhar alam na ho
-  Bekaar raaston pe kisi ke khadam na ho
+  Bekaar raastoṅ pe kisi ke khadam na ho
   Bas ek hi hai raahe khuda karbala chalo
 
   3
   Dunya ke zulm o jor batane ke waaste
   Ghazi ko haal apna sunane ke waaste
   Zakhme jigar ye sheh ko dikhane ke waaste
-  Karbobala mein noha sunane ke waaste
-  Karne baeed ranj o bala karbala chalo
+  Karbobala meiṅ noha sunane ke waaste
+  Karne baid ranj o bala karbala chalo
 
   4
-  Hai rauza e hussain mera maqsade hayaat
-  Uljhan mein din guzarte hai be-chainiyo mein raat
-  Wo dekhle jahan pe kate thay jari ke haath
+  Hai rauza e Husain mera maqsade hayaat
+  Uljhan meiṅ din guzarte hai bechainiyo meiṅ raat
+  Wo dekhle jahaṅ pe kate the jari ke haath
   Hum jaaye karbala bhi to maa ki dua ke saath
   Paane ko dard e dil ki dawa karbala chalo
 
   5
-  Humse milenge aakhri rehbar wahin kahin
-  Hasnain ka suna hai ke ghar hai wahin kahin
-  Rehte hai karbala mein payambar wahin kahin
-  Le jaaye kaash humko muqaddar wahin kahin
+  Humse milenge aakhri rehbar wahin kahiṅ
+  Hasnain ka suna hai ke ghar hai wahin kahiṅ
+  Rehte hai karbala meiṅ payambar wahin kahiṅ
+  Le jaaye kaash humko muqaddar wahin kahiṅ
   Subhe masa yehi hai dua karbala chalo
 
   6
   Shehre najaf hi shahe najaf ka dayaar hai
   Gulshan shahe zaman ka wahin la zawaal hai
   Guncho ke lab pe salle ala baar baar hai
-  Gunche wahin pe wahin pe jina ki bahaar hai
+  Gunche wahiṅ pe wahiṅ pe jina ki bahaar hai
   Leni hai gar jina ki fiza karbala chalo
 
   7
   Abbas ke alam ko liye dosh par nikal
   Karbobala hai jaana to paidal najaf se chal
-  Bayyat ko apne paon se tu bhi zara kuchal
-  Sajjad chal rahe thay jahan par sambhal sambhal
+  Bayyat ko apne paoṅ se tu bhi zara kuchal
+  Sajjad chal rahe the jahaṅ par sambhal sambhal
   Zainab ki yaad aaj rida karbala chalo
 
   8
-  Jab se hui naseeb mubarak ko karbala
-  Aakhein lahoo barasti hai rehan baareha
-  Sarwar ka hai nashayb mein rauza bana hua
+  Jab se hui nasib mubarak ko karbala
+  Aakhein lahu barasti hai rehan baareha
+  Sarwar ka hai nashayb meiṅ rauza bana hua
   Zainab bhi haye shaam se karti hai ye sada
   Tanha hai ab bhi bhai mera karbala chalo
 # source_id: nohayonline:f221deb168f65c64aa9c

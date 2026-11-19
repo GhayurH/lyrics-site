@@ -14,43 +14,43 @@ romanLyrics: |-
   Karte hai matam haram abbas ka
   Ho gaya marna sitam abbas ka
   Haye alamdar haye alamdar
-  Kehte thay kamar thaam ke ye sayyed e abraar
+  Kehte the kamar thaam ke ye sayyed e abraar
   Haye alamdar haye alamdar
   Ye haal hai laashe ka sambhala nahi jaata
-  Teer ankh se bhai ki nikaala nahi jaata
+  Tir ankh se bhai ki nikaala nahi jaata
   Imdad ko aajaiye ya hyder e kararar
   Haye alamdar haye alamdar...
-  Zainab ne teri aas pe choda tha madina
-  Mai kaise bataaun usay saqqa e sakina
+  Zainab ne teri aas pe chora tha madina
+  Mai kaise bataauṅ use saqqa e sakina
   Maara gaya zainab teri chadar ka nigehdaar
   Haye alamdar haye alamdar...
-  Tum qatl huwe hum pe bhi chal jayegi shamsheer
-  Aghyaar may reh jayegi tanha meri hamsheer
+  Tum qatl huwe hum pe bhi chal jayegi shamshir
+  Aghyaar may reh jayegi tanha meri hamshir
   Zainab ki rida bachne ke baaqi nahi aasaar
   Haye alamdar haye alamdar...
-  Jis tarha se ghar laye thay masjid se ali ko
+  Jis tarha se ghar laye the masjid se ali ko
   Us tarha se le jayenge qaime mai jari ko
   Akbar mere bhai ka janaza karo tayyaar
   Haye alamdar haye alamdar...
-  Baazu bhi qalam hogaye ay baazu e shabbir
-  Tukde hai badan aankh may paywast hua teer
-  Kis ne ye meri maa ki duaon pe kiya waar
+  Baazu bhi qalam hogaye e baazu e shabbir
+  Tukre hai badan aankh may paywast hua tir
+  Kis ne ye meri maa ki duaoṅ pe kiya waar
   Haye alamdar haye alamdar...
-  Aati hai sada loot lo namoos e nabi ko
-  Ab maarna aasan hai hussain ibne ali ko
+  Aati hai sada lut lo namus-e-nabi ko
+  Ab maarna aasaṅ hai Husain ibne ali ko
   Marne pe tere jashn manate hai sitamgaar
   Haye alamdar haye alamdar...
   Akbar hamay mushkil se bahot laaye hai bhai
   Maidan may girte huwe hum aaye hai bhai
-  Aankhein to zara kholo mere monis o ghamkhwar
+  Aankheiṅ to zara kholo mere monis o ghamkhwar
   Haye alamdar haye alamdar...
   Ek baat tumhe karb ki batlaata hoo bhaiya
   Jab bhi koi masooma ke maarega tamacha
   Ro ro ke pukaregi sakina tumhe har baar
   Haye alamdar haye alamdar...
   Tha mir takallum yehi shabbir ka nauha
-  Jaate huwe poora karo armaan hamara
-  Ay bhai hamay bhai pukaro zara ek baar
+  Jaate huwe pura karo armaan hamara
+  Ae bhai hamay bhai pukaro zara ek baar
   Haye alamdar haye alamdar...
 # source_id: nohayonline:925592545654d581db53
 # source_url: https://www.nohayonline.com/details_content.php?id=1931

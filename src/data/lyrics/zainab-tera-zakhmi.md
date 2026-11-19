@@ -12,32 +12,32 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Fajr unneeswi ramzan ki tadpati hai
+  Fajr unneeswi ramzaṅ ki tarpati hai
   Fatema zehra ki jis waqt sada aati hai
   Aa dekh le zainab tera zakhmi baba
   Ghar laut ke aaya hai
-  Kaandho pe uthaye yun bete hai laaye
+  Kaandho pe uthaye yuṅ bete hai laaye
   Lagta hai janaza hai
   Aa dekh le zainab tera zakhmi baba
   Ghar laut ke aaya hai
   Mushkil se safar ye tay hai kiya
-  Jaari hai lahoo ka darya
+  Jaari hai lahu ka darya
   Masjid se ghar tak har ek qadam par
-  Beton ne sambhala hai
+  Betoṅ ne sambhala hai
   Aa dekh le zainab...
   Haalat hi ajab hai baba ki
   Pehchaan'na mushkil hoga
-  Zehra ki ghareebi yaad aayegi bibi
-  Tar khoon may chehra hai
+  Zehra ki gharibi yaad aayegi bibi
+  Tar khun may chehra hai
   Aa dekh le zainab...
   Jarrah se hujre ke baahar
-  Jab haal hassan ne poocha
-  Wo ro ke pukara mushkil hua jeena
+  Jab haal Hasan ne pucha
+  Wo ro ke pukara mushkil hua jina
   Ye zakhm hi aisa hai
   Aa dekh le zainab...
-  Ab shaam e ghariban may tum ko
+  Ab shaam e gharibaṅ may tum ko
   Ye chehra nazar aayega
-  Ay saani e zahra kuch roz ka mehman
+  E saani e zahra kuch roz ka mehman
   Ab aap ka baba hai
   Aa dekh le zainab...
   Ye shaana hila kar kehti hai
@@ -45,7 +45,7 @@ romanLyrics: |-
   Bibi uth jao ashkon ko chupao
   Baba ne bulaaya hai
   Aa dekh le zainab...
-  Qadmon may gir ke zainab ke
+  Qadmoṅ may gir ke zainab ke
   Ghazi ki behan ye boli
   Baba ko bachalo sadqe mujhe kar do
   Haazir ye ruqayya hai
@@ -57,11 +57,11 @@ romanLyrics: |-
   Aa dekh le zainab...
   Shabbar ka jigar shabbir ka sar
   Abbas e jari ka baazu
-  Kat'te dekhogi ay baba ki pyari
+  Kat'te dekhogi ae baba ki pyari
   Ye zakhm to pehla hai
   Aa dekh le zainab...
   Ye kehke takallum beti se
-  Khamosh huwe thay maula
+  Khamosh huwe the maula
   Darbar ke dar par mai aaunga milne
   Zainab mera waada hai
   Aa dekh le zainab...

@@ -11,71 +11,71 @@ aliases: ["زینب کی نظر فضہ پر"]
 published: false
 romanLyrics: |-
   Zainab ki nazar fizza par
-  Fizza ki nazar hussain par
-  Hussain ki nazar alam par
-  Alam gira hussain gir gaye
+  Fizza ki nazar Husain par
+  Husain ki nazar alam par
+  Alam gira Husain gir gaye
   Fizza giri zainab giri
-  Goonji maqtal mein ye hussain ke sada
-  Haye hum ghareeb hogaye
+  Gunji maqtal meiṅ ye Husain ke sada
+  Haye hum gharib hogaye
   Qatl alamdar hogaya
-  Haye hum ghareeb hogaye
+  Haye hum gharib hogaye
   Sher jaisa bhai tha mera
-  Haye hum ghareeb hogaye
+  Haye hum gharib hogaye
 
   1
   Hum ko ye gham hai tumko sahara na de sake
   Aise to koi bhi na gira jaise tum gire
-  Ghode se girte huwe, haye alamdar
-  Baazu nahi thay tere, haye alamdar
+  Ghore se girte huwe, haye alamdar
+  Baazu nahi the tere, haye alamdar
   Kisne sambhala tujhe, haye alamdar
   Chehra tera zakhmi hogaya
 
   2
   Socha nahi tha aise pukaroge tum mujhe
-  Armaan tha lehad mein utaroge tum mujhe
-  Yaad hai bachpan hamein, haye alamdar
-  Naazon se paala tumhe, haye alamdar
-  Aaj meri godh mein, haye alamdar
+  Armaan tha lehad meiṅ utaroge tum mujhe
+  Yaad hai bachpan hameiṅ, haye alamdar
+  Naazoṅ se paala tumhe, haye alamdar
+  Aaj meri godh meiṅ, haye alamdar
   Bhai tera dum nikal gaya
 
   3
-  Dooba hua lahoo mein wo dekhegi jab alam
+  Duba hua lahu meiṅ wo dekhegi jab alam
   Pyasi sakina kaise sahegi tumhara gham
   Baithi hai is aas pe, haye alamdar
   Pani chacha laayenge, haye alamdar
-  Kaise bataaun usay, haye alamdar
+  Kaise bataauṅ use, haye alamdar
   Maare gaye nehr pe chacha
 
   4
-  Abbas teri behne tere gham mein royengi
-  Soti thi tere dam se jo aankhein na soyengi
+  Abbas teri behne tere gham meiṅ royengi
+  Soti thi tere dam se jo aankheiṅ na soyengi
   Behno ko ye maan tha, haye alamdar
   Zinda hai bhai mera, haye alamdar
   Dhoondegi chehra tera, haye alamdar
   Maar dega unko gham tera
 
   5
-  Tum jaante thay hum mein nahi hai ye hausla
+  Tum jaante the hum meiṅ nahi hai ye hausla
   Laasha bhi apna tum ne uthane nahi diya
   Itni ijazat to de, haye alamdar
-  Baazu utha loo tere, haye alamdar
-  Kaise sameintun tujhe, haye alamdar
-  Tu kahan kahan bikhar gaya
+  Baazu utha lu tere, haye alamdar
+  Kaise sameintuṅ tujhe, haye alamdar
+  Tu kahaṅ kahaṅ bikhar gaya
 
   6
-  Uth'te huwe hussain se utha nahi gaya
-  Aao hamein sahara do akbar se ye kaha
-  Chod ke laasha uthe, haye alamdar
+  Uth'te huwe Husain se utha nahi gaya
+  Aao hameiṅ sahara do akbar se ye kaha
+  Chor ke laasha uthe, haye alamdar
   Qaimon ke jaanib chale, haye alamdar
-  Kehte thay sar peet ke, haye alamdar
-  Dekh ay zameen e karbala
+  Kehte the sar pit ke, haye alamdar
+  Dekh e zamin e karbala
 
   7
-  Qaimon mein aa ke shaah ne zainab se jab kaha
+  Qaimon meiṅ aa ke shaah ne zainab se jab kaha
   Dhaaras thi jiske dum se wo abbas mar gaya
-  Sun ke ye aah o fughan, haye alamdar
-  Kehne lagi bibiyan, haye alamdar
-  Chod gaye tum kahan, haye alamdar
+  Sun ke ye aah o fughaṅ, haye alamdar
+  Kehne lagi bibiyaṅ, haye alamdar
+  Chor gaye tum kahaṅ, haye alamdar
   Kaun ab bachayega rida
 
   8
@@ -84,7 +84,7 @@ romanLyrics: |-
   Dekh ke apni rida, haye alamdar
   Behno ne ro kar kaha, haye alamdar
   Hum se juda hogaya, haye alamdar
-  Bain thay zeeshan aur raza
+  Bain the zishan aur raza
 # source_id: nohayonline:bfc4c51c1b85f532bdc3
 # source_url: https://www.nohayonline.com/details_content.php?id=1821
 # raw_sha256: 80ad7d41fe43503821ba9d32bd2c045b5dafa80970201151fccfe41cc5bfbac4

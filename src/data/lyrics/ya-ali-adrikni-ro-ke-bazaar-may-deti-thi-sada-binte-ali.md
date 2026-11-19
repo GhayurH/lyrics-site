@@ -15,19 +15,19 @@ romanLyrics: |-
   1
   Ro ke bazaar may deti thi sada binte ali
   Ya ali adrikni ya ali adrikni
-  Nok e naiza se sada deta hai ibne zehra
+  Nok-e-naiza se sada deta hai ibne zehra
   Log zainab ki taraf dekh rahe hai baba
   Zer e khanjar nazar aati hai tumhari beti
 
   2
-  Imtehan ghairat e sajjad ka kaisa hoga
+  Imtehaṅ ghairat-e-sajjad ka kaisa hoga
   Qatl darbar may sajjad dobara hoga
-  Maangne aaya hai bacchi ko kaneezi may shaqi
+  Maangne aaya hai bacchi ko kanizi may shaqi
 
   3
   Keh do zaalim se mujhe maar le aa kar durra
   Baba zainab se ye manzar nahi dekha jaata
-  Maarta hai wo mere bhai ke honton pe chadi
+  Maarta hai wo mere bhai ke hontoṅ pe chari
 
   4
   Sar khule shaam may sadaat jidhar jaate hai
@@ -37,21 +37,21 @@ romanLyrics: |-
   5
   Aap ke samne jo baat nahi karti thi
   Aaj bazaar may wo beti bhi khutbe degi
-  Aap ke lehje ki is waqt zaroorat hai badi
+  Aap ke lehje ki is waqt zarurat hai bari
 
   6
   Abhi darbar se pehle hi guzar jayegi
   Sun liya saani e zahra ne to mar jayegi
-  Log kehte hai hussain ibne ali ko baaghi
+  Log kehte hai Husain ibne ali ko baaghi
 
   7
   Saare bazaar ne has has ke tamasha dekha
   Aur bhi shimr ne is baat pe is ko maara
-  Jab tamanchon pe sakina ye tadap kar boli
+  Jab tamanchoṅ pe sakina ye tarap kar boli
 
   8
   Baab e sa’at ka jo bazaar se dekha manzar
-  Thay takallum wahan sab log uthaye patthar
+  The takallum wahaṅ sab log uthaye patthar
   Saani e zehra ye kehti hui naaqe se giri
 # source_id: nohayonline:8ede7f0b9e63cf5838ca
 # source_url: https://www.nohayonline.com/details_content.php?id=2579

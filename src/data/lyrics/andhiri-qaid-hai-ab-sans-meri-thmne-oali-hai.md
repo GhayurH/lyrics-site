@@ -8,33 +8,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Andheri qaid hay ab sans meri thamne wali hay
-  Chalay aao meray baba Sakina marnay wali hay
+  Andheri qaid hai ab sans meri thamne wali hai
+  Chale aao mere baba Sakina marne wali hai
 
   1
-  Reha ho kar chalay jayain gay sab hi apnay apnay ghar
+  Reha ho kar chale jayaiṅ ge sab hi apne apne ghar
   Magar beti tumhari jan ab de de gi ro ro kar
-  Ye lagta hay yahan ab qabar meri bannay wali hay
+  Ye lagta hai yahaṅ ab qabar meri banne wali hai
 
   2
-  Ujalay may may rehti thi bhula baithay ho kia bolo
-  Jala do shama koi aa ke ye maloom hay tum ko
-  Andharay may tumhari bachchi kitna darnay wali hay
+  Ujale may may rehti thi bhula baithe ho kia bolo
+  Jala do shama koi aa ke ye malum hai tum ko
+  Andhare may tumhari bachchi kitna darne wali hai
 
   3
-  Tumharay seenay par baba mujhay sonay ki adat thi
+  Tumhare sine par baba mujhe sone ki adat thi
   May ashura se ab tak chain se so hi nahi payi
-  Bohat need aa rahi hay ankh meri lagnay wali hay
+  Bohat nid aa rahi hai ankh meri lagne wali hai
 
   4
   May jis ki muntazir thi moat wo paigham le aayi
-  Tumharay pas aanay ki ghari nazdeek hay aayi
-  Meray sar se museebat qaid ki ab talnay wali hay
+  Tumhare pas aane ki ghari nazdik hai aayi
+  Mere sar se musibat qaid ki ab talne wali hai
 
   5
-  Mila hukm e rehai hay magar may ghar na jaoon gi
-  Juda reh kar may sab se sham ka zinda basaoon gi
-  Museebat ye bhi ik nanhi si jaan par parnay wali hay
+  Mila hukm e rehai hai magar may ghar na jauṅ gi
+  Juda reh kar may sab se sham ka zinda basauṅ gi
+  Musibat ye bhi ik nanhi si jaaṅ par parne wali hai
 # source_id: ziyaraat:ff6d3b7e9a174129ba40
 # source_url: https://www.ziyaraat.net/api/noha/2863
 # raw_sha256: f323794a12e9ddd13d8dc159f2c3728ef184207517b8caecbc2bc83c50e6dbdc

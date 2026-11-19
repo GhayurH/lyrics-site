@@ -15,12 +15,12 @@ romanLyrics: |-
   Saqqa e haram sher e wigha hazrate abbas
   Abbas abbas haye abbas haye abbas
   Shabbir ki ita'at thi faqat unki shariyat
-  Mashoor zamane mein hai maula ki shuja'at
+  Mashur zamane meiṅ hai maula ki shuja'at
   Paayi asadullah ki kul tumne virasat
   Baatil ke liye misle qaza hazrate abbas
   Abbas abbas...
-  Gar hukm mile karde abhi shaam ko tashkeer
-  Abbas ke kabze mein ali ki jo hai shamsheer
+  Gar hukm mile karde abhi shaam ko tashkir
+  Abbas ke kabze meiṅ ali ki jo hai shamshir
   Bas muntazir hai izn jo de hazrate shabbir
   De wada khilaafi ki saza hazrate abbas
   Abbas abbas...
@@ -29,50 +29,50 @@ romanLyrics: |-
   Baatil ke liye aahini dewaar hai abbas
   Islam ke parcham ki baqa hazrate abbas
   Abbas abbas...
-  Farmate thay shabbir ho tum zeenate lashkar
+  Farmate the shabbir ho tum zinate lashkar
   Qayam hai tere dam se meri shaukat e lashkar
   Ek aah ki farmeina ke ye qismat e lashkar
-  Hai kaun jo lashkar mein ruka hazrate abbas
+  Hai kaun jo lashkar meiṅ ruka hazrate abbas
   Abbas abbas...
   Paate hi riza maula se lene chale pani
   Darya ko chala tab asadullah ka jaani
-  Thay nehr pe qabza kiye wo zulm ke baani
-  Kab daud padi fauje jafa hazrate abbas
+  The nehr pe qabza kiye wo zulm ke baani
+  Kab daur pari fauje jafa hazrate abbas
   Abbas abbas...
-  Ashoor ko jab maara gaya shaah ka lashkar
+  Ashur ko jab maara gaya shaah ka lashkar
   Aur pyaas se bache nazar aane lage muztar
   Dekha na gaya ghazi se wo karb ka manzar
   Sarwar se chale lene riza hazrate abbas
   Abbas abbas...
-  Mashkeeze mein tab pani ko bharne lage maula
-  Ghode se kaha tu hai kayi roz se pyasa
+  Mashkize meiṅ tab pani ko bharne lage maula
+  Ghore se kaha tu hai kayi roz se pyasa
   Rehwaar ye bola ke nahi mujhko ye zeba
-  Phir aab ko chullu mein liya hazrate abbas
+  Phir aab ko chullu meiṅ liya hazrate abbas
   Abbas abbas...
   Mashkeeza liye qaime ke jaanib chale hazrat
-  Teer aate thay padne lagi talwaron ki zarbat
-  Mashkeeze pe jab teer laga ghut gayi taaqat
-  Shabbir ko dete thay sada hazrate abbas
+  Tir aate the parne lagi talwaroṅ ki zarbat
+  Mashkize pe jab tir laga ghut gayi taaqat
+  Shabbir ko dete the sada hazrate abbas
   Abbas abbas...
   Ya rab na kisi bhai ko manzar ye dikhaye
-  Jis tarha kamar pakde wahan shaah thay aaye
-  Abbas se farmate thay mai kya karoo haye
-  Kyun hote ho tum hum se juda hazrate abbas
+  Jis tarha kamar pakre wahaṅ shaah the aaye
+  Abbas se farmate the mai kya karoo haye
+  Kiuṅ hote ho tum hum se juda hazrate abbas
   Abbas abbas...
-  Qaime mein hussain aaye liye ghazi ka parcham
-  Qaimo mein haram ke tha bapa ghazi ka matam
-  Thay bain sakina ke labon par yehi payham
-  Kyun sogaye darya pe chacha hazrate abbas
+  Qaime meiṅ Husain aaye liye ghazi ka parcham
+  Qaimo meiṅ haram ke tha bapa ghazi ka matam
+  The bain sakina ke laboṅ par yehi payham
+  Kiuṅ sogaye darya pe chacha hazrate abbas
   Abbas abbas...
-  Ye bain thay zainab ke suno mere dilawar
-  Tanha hai hussain aur udhar laakhon ka lashkar
-  Baad'az shahe deen hoyega barpa yahan mehshar
-  Cheenenge layeen meri rida hazrate abbas
+  Ye bain the zainab ke suno mere dilawar
+  Tanha hai Husain aur udhar laakhoṅ ka lashkar
+  Baad'az shahe diṅ hoyega barpa yahaṅ mehshar
+  Cheenenge layiṅ meri rida hazrate abbas
   Abbas abbas...
   Aijaz qalam rok lo mehshar ka samaa hai
-  Ghazi ke alam mein ye buka shor o fughan hai
-  Aqif yahan matam mein har ek peer o jawan hai
-  Hai sab ke labon ki ye sada hazrate abbas
+  Ghazi ke alam meiṅ ye buka shor o fughaṅ hai
+  Aqif yahaṅ matam meiṅ har ek pir o jawaaṅ hai
+  Hai sab ke laboṅ ki ye sada hazrate abbas
   Abbas abbas...
 # source_id: nohayonline:00de6cab20fe33298455
 # source_url: https://www.nohayonline.com/details_content.php?id=860

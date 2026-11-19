@@ -12,70 +12,70 @@ published: false
 romanLyrics: |-
   1
   Falak par chaand nazar aaya moharram ka
-  Be saakhta aankhon ne meri khoon bahaya
-  Logon ne mujhe rote huwe dekh ke poocha
+  Besaakhta aankhoṅ ne meri khun bahaya
+  Logoṅ ne mujhe rote huwe dekh ke pucha
   Shehzadi zara ye to bata gham hai ye kaisa
-  Kyun farshe aza aap ne ghar mein hai bichaya
+  Kiuṅ farshe aza aap ne ghar meiṅ hai bichaya
   Sughra ne kaha ahle madina
   Ghar zehra ka veeran hua hai
-  Ay logon mohamed ka nawasa
-  Pardes mein mehman hua hai
-  Nana ke madine mein udaasi ka hai matam
-  Hamshakle nabi hai na shehenshaah e do aalam
+  Ae logoṅ mohamed ka nawasa
+  Pardes meiṅ mehman hua hai
+  Nana ke madine meiṅ udaasi ka hai matam
+  Hamshakle nabi hai na shehenshaah-e-do aalam
   Wehshat si barasti hai dar o baam se har dam
   Baba
   Jis din se gaye hai mere baba
   Ghar zehra ka veeran hua hai
-  Ay logon mohamed ka...
+  Ae logoṅ mohamed ka...
   Jis din se gaye hai mere baba mere ghar se
   Ek lamha nahi aisa ke aansu nahi barse
   Dil mera sakina se mulaqaat ko tarse
   Dunya
   Is gham ko samjhti nahi dunya
   Ghar zehra ka veeran hua hai
-  Ay logon mohamed ka...
+  Ae logoṅ mohamed ka...
   Is gham ko samajhti nahi dunya mere nana
   Sughra pe qayamat hai padar ka chale jaana
   Dil kehta hai is ghar ko musibat se bachana
   Allah
   Tu dekh raha hai mere allah
   Ghar zehra ka veeran hua hai
-  Ay logon mohamed ka...
+  Ae logoṅ mohamed ka...
   Tu dekh raha hai mere allah udaasi
   Ahmed ka nawasa hai na ahmed ki nawasi
-  Ummat ki nigahon mein nahi sharm zara si
+  Ummat ki nigahoṅ meiṅ nahi sharm zara si
   Kaaba
-  Is gham mein siyaah posh hai kaaba
+  Is gham meiṅ siyaah posh hai kaaba
   Ghar zehra ka veeran hua hai
-  Ay logon mohamed ka...
-  Is gham mein siyaah posh hai kaaba bhi haram bhi
-  Kulsoom bhi zainab bhi shehenshaah e umam bhi
+  Ae logoṅ mohamed ka...
+  Is gham meiṅ siyaah posh hai kaaba bhi haram bhi
+  Kulsum bhi zainab bhi shehenshaah-e-umam bhi
   Akbar bhi chacha jaan bhi aur unka alam bhi
   Sughra
   Ye dard bataye kise sughra
   Ghar zehra ka veeran hua hai
-  Ay logon mohamed ka...
+  Ae logoṅ mohamed ka...
   Ye dard bataye kise sughra ke hua kya
   Ghar qabr sa lagta hai na akbar hai na baba
-  Is qabr mein hai fatema sughra ka janaza
+  Is qabr meiṅ hai fatema sughra ka janaza
   Sadma
   Sughra ko rulaata hai ye sadma
   Ghar zehra ka veeran hua hai
-  Ay logon mohamed ka...
+  Ae logoṅ mohamed ka...
   Sughra ko rulaata hai ye sadma ali akbar
-  Ghar waalon ki furqat mein guzar jayegi khwahar
-  Dekhun koi gehwara to yaad aate hai asghar
+  Ghar waaloṅ ki furqat meiṅ guzar jayegi khwahar
+  Dekhuṅ koi gehwara to yaad aate hai asghar
   Ab kya
-  Daaman mein mere reh gaya ab kya
+  Daaman meiṅ mere reh gaya ab kya
   Ghar zehra ka veeran hua hai
-  Ay logon mohamed ka...
-  Daaman mein mere reh gaya ab kya mere nana
+  Ae logoṅ mohamed ka...
+  Daaman meiṅ mere reh gaya ab kya mere nana
   Mazhar yehi faryaad kiya karti thi sughra
-  Tum chaaho jo beemar ke zakhmon ka madawa
+  Tum chaaho jo bimar ke zakhmoṅ ka madawa
   Nauha
   Irfan suna do yehi nauha
   Ghar zehra ka veeran hua hai
-  Ay logon mohamed ka...
+  Ae logoṅ mohamed ka...
 # source_id: nohayonline:fda5efabc1d024048865
 # source_url: https://www.nohayonline.com/details_content.php?id=2226
 # raw_sha256: 4eba431db4ce05ff7b932b0fae15b8f2633407e741436fc8390726e56d089475

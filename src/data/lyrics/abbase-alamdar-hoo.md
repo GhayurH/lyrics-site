@@ -12,39 +12,39 @@ published: false
 romanLyrics: |-
   1
   Haye ghurbate abbas
-  Ruqsaar mere khoon se ghalta bhi pade hai
-  Tapti hui reti se moo ghazi ke atay hai
-  Taqdeer se lachaar hoo be-dast hoo aaqa
-  Abbas e alamdar hoo be-dast hoo aaqa
-  Mai bekas o lachaar hoo be-dast hoo aaqa
+  Ruqsaar mere khun se ghalta bhi pare hai
+  Tapti hui reti se moo ghazi ke ate hai
+  Taqdir se lachaar hoo bedast hoo aaqa
+  Abbas e alamdar hoo bedast hoo aaqa
+  Mai bekas o lachaar hoo bedast hoo aaqa
   Abbas e alamdar hoo...
-  Mai kis tarha aaqa teri tazeem ko uthoon
-  Zakhmi hai mere honth bhi lab kis tarha kholoon
-  Mai kaisa madadgaar hoo be-dast hoo aaqa
+  Mai kis tarha aaqa teri tazim ko uthuṅ
+  Zakhmi hai mere honth bhi lab kis tarha kholuṅ
+  Mai kaisa madadgaar hoo bedast hoo aaqa
   Abbas e alamdar hoo...
-  Jinpe tha bada naaz wohi saath nahi hai
+  Jinpe tha bara naaz wohi saath nahi hai
   Ye waqt ajab hai ke mere haath nahi hai
-  Mai hoke bhi lachaar hoo be-dast hoo aaqa
+  Mai hoke bhi lachaar hoo bedast hoo aaqa
   Abbas e alamdar hoo...
   Sunta hoo sakina ka gala hoga rasan may
-  Hai taab kahan itni bhala ghuncha dahan may
-  Is gham se mai do chaar hoo be-dast hoo aaqa
+  Hai taab kahaṅ itni bhala ghuncha dahan may
+  Is gham se mai do chaar hoo bedast hoo aaqa
   Abbas e alamdar hoo...
-  Mai kaise kahoon kis tarha ghode se gira hoo
-  Karwat bhi nahi badli mai waise hi pada hoo
-  Kitna mai labe aar hoo be-dast hoo aaqa
+  Mai kaise kahuṅ kis tarha ghore se gira hoo
+  Karwat bhi nahi badli mai waise hi para hoo
+  Kitna mai labe aar hoo bedast hoo aaqa
   Abbas e alamdar hoo...
   Shabbir ne abbas ka sar zaano pe rakha
   Phir bole alamdar se bhai kaho bhaiya
-  Sun kar tera ghamkhaar hoo be-dast hoo aaqa
+  Sun kar tera ghamkhaar hoo bedast hoo aaqa
   Abbas e alamdar hoo...
-  Jab sar pe laga gurz to phir gir pade abbas
+  Jab sar pe laga gurz to phir gir pare abbas
   Aaqa mere jab mashk chidi mar gaye abbas
-  Har gham se giraftaar hoo be-dast hoo aaqa
+  Har gham se giraftaar hoo bedast hoo aaqa
   Abbas e alamdar hoo...
-  Rehan o mubarak pe ayan kaise ye gham ho
-  Jab khoon may dooba hua ghazi ka alam ho
-  Ghamkhwar hoo lachaar hoo be-dast hoo aaqa
+  Rehan o mubarak pe ayaṅ kaise ye gham ho
+  Jab khun may duba hua ghazi ka alam ho
+  Ghamkhwar hoo lachaar hoo bedast hoo aaqa
   Abbas e alamdar hoo...
 # source_id: nohayonline:12b1f139cdd239be98a7
 # source_url: https://www.nohayonline.com/details_content.php?id=716

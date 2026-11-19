@@ -1,6 +1,6 @@
 ---
 title: "ڈھل گیء عاشور کی رات"
-alternateTitle: "Subhe Ashoor Hai"
+alternateTitle: "Subhe Ashur Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,77 +11,77 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dhal gayi ashoor ki raat
+  Dhal gayi ashur ki raat
   Phaili safedi subho ki
   Roke bola ibne zehra
-  Waqt aaya hai azan ka
-  Ay shabihe mustafa
-  Subhe ashoor hai
-  Dede akbar azan
-  Ay shabihe mustafa
-  Ay mere kadiyal jawan
-  Mere nawjawan
-  De aisi azan
+  Waqt aaya hai azaṅ ka
+  Ae shabihe mustafa
+  Subhe ashur hai
+  Dede akbar azaṅ
+  Ae shabihe mustafa
+  Ae mere kariyal jawaaṅ
+  Mere nawjawaṅ
+  De aisi azaṅ
   Jo pahunche jina
-  Rahe taa jahan
+  Rahe taa jahaṅ
   Jaane baba
-  Subhe ashoor hai...
-  Ay shabihe mustafa
-  Ay mere kadiyal jawan
+  Subhe ashur hai...
+  Ae shabihe mustafa
+  Ae mere kariyal jawaaṅ
   Shabihe nabi
-  Yahan hai tu hi
+  Yahaṅ hai tu hi
   Sare karbala
   Phuphi ka teri
   Hai ye nauha
-  Subhe ashoor hai...
-  Ay shabihe mustafa
-  Ay mere kadiyal jawan
+  Subhe ashur hai...
+  Ae shabihe mustafa
+  Ae mere kariyal jawaaṅ
   Dil e ghamzada
   Kare ye buka
   Meri jang ki
-  Ho yun ibteda
+  Ho yuṅ ibteda
   Mere beta
-  Subhe ashoor hai...
-  Ay shabihe mustafa
-  Ay mere kadiyal jawan
-  Ye gham ka samaan
-  Jo dekha yahan
+  Subhe ashur hai...
+  Ae shabihe mustafa
+  Ae mere kariyal jawaaṅ
+  Ye gham ka samaaṅ
+  Jo dekha yahaṅ
   Behan nauhagar
   Musalle pe maa
   Boli fizza
-  Subhe ashoor hai...
-  Ay shabihe mustafa
-  Ay mere kadiyal jawan
-  Azan ho to yun
-  Mujhe ho sukoon
-  Hare ek lafz mein
-  Nazar aaye khoon
+  Subhe ashur hai...
+  Ae shabihe mustafa
+  Ae mere kariyal jawaaṅ
+  Azaṅ ho to yuṅ
+  Mujhe ho sukuṅ
+  Hare ek lafz meiṅ
+  Nazar aaye khuṅ
   Mere jadd ka
-  Subhe ashoor hai...
-  Ay shabihe mustafa
-  Ay mere kadiyal jawan
-  Azan mein asar
+  Subhe ashur hai...
+  Ae shabihe mustafa
+  Ae mere kariyal jawaaṅ
+  Azaṅ meiṅ asar
   Ho itna pisar
   Rakhe jab hawa
-  Usay dosh par
+  Use dosh par
   Sun le sughra
-  Subhe ashoor hai...
-  Ay shabihe mustafa
-  Ay mere kadiyal jawan
-  Abhi hai yahan
+  Subhe ashur hai...
+  Ae shabihe mustafa
+  Ae mere kariyal jawaaṅ
+  Abhi hai yahaṅ
   Mere naujawan
-  Sunenge azan
-  Mere nana jaan
+  Sunenge azaṅ
+  Mere nana jaaṅ
   Tere dada
-  Subhe ashoor hai...
-  Ay shabihe mustafa
-  Ay mere kadiyal jawan
-  Azan bete ki
+  Subhe ashur hai...
+  Ae shabihe mustafa
+  Ae mere kariyal jawaaṅ
+  Azaṅ bete ki
   Jo mazhar suni
   Kaha shaah ne
-  Yehi us ghadi
+  Yehi us ghari
   Shukre maula
-  Subhe ashoor hai...
+  Subhe ashur hai...
 # source_id: nohayonline:9208c1ed09b12a946b61
 # source_url: https://www.nohayonline.com/details_content.php?id=2775
 # raw_sha256: 250dc0fe08f65550a7608aaaa3018a7e6baeefb5158a6a3cc456b747185c6b5a

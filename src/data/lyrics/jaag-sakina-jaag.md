@@ -12,35 +12,35 @@ aliases: []
 published: false
 romanLyrics: |-
   Lo hogayi rehaai lo khaafila chala
-  Sar jab har ek shaheed ka sajjad ko mila
+  Sar jab har ek shahid ka sajjad ko mila
   Tab marqade sakina pe sajjad ne kaha
   Jaag sakina jaag baba ka sar aaya
 
   1
-  Baba tumhara aaya gaya waqt neend ka
-  Seene pe sone waali matti pe sogayi
+  Baba tumhara aaya gaya waqt nind ka
+  Sine pe sone waali matti pe sogayi
   Baba ko rote rote jo khamosh hogayi
   Ro ro ke maa ne qabre sakina pe ye kaha
 
   2
   Bibi karo salaam adab ka maqaam hai
   Bibi tere sarhane shahe tishna-kaam hai
-  Ay jaan jaldi badlo ye kurta phata hua
+  Ae jaan jaldi badlo ye kurta phata hua
 
   3
-  Baba ko dhoondti thi sakina utho utho
-  Raton ko jaagti thi sakina utho utho
-  Lo aa gaye hai baba ay jaan jaag ja
+  Baba ko dhundti thi sakina utho utho
+  Ratoṅ ko jaagti thi sakina utho utho
+  Lo aa gaye hai baba ae jaan jaag ja
 
   4
-  Baba ke paas sona na sona zameen par
-  Rakho labon ko lab par jabeen ko jabeen par
+  Baba ke paas sona na sona zamin par
+  Rakho laboṅ ko lab par jabiṅ ko jabin par
   Aada ki ghudkiyon ka zamana guzar gaya
 
   5
   Paighaam roz deti thi ammu ke naam tum
   Roti thi yaad karke unhe subho shaam tum
-  Jaago ke ja rahe hai jahaan sote hai chacha
+  Jaago ke ja rahe hai jahaaṅ sote hai chacha
 
   6
   Kis tarha soyi baali sakina na poochiye
@@ -48,7 +48,7 @@ romanLyrics: |-
   Jaagi na phir kabhi wo bahot maa ne di sada
 
   7
-  Sadiyan guzar gayi hai magar sarwar-o-rehaan
+  Sadiyaṅ guzar gayi hai magar sarwar o rehaan
   Zindane shaam roye to rota hai aasman
   Ab bhi pukarte hai yehi shaahe karbala
 ---

@@ -16,7 +16,7 @@ romanLyrics: |-
   1
   Aapas mein kar rahe thay sitamgar ye mashwara
   Sarwar ko maarna hai to akbar ko maar do
-  Marna hai is jawan ka marna hussain ka
+  Marna hai is jawan ka marna Husain ka
   Sarwar ko maarna hai to akbar ko maar do
 
   2
@@ -33,15 +33,15 @@ romanLyrics: |-
 
   4
   Zehra ke aur ali ke kaleje ko phaad do
-  Jaldi karo hussain ki saansein ukhaad do
-  Mar jayenge hussain agar ye juda hua
+  Jaldi karo Husain ki saansein ukhaad do
+  Mar jayenge Husain agar ye juda hua
   Sarwar ko maarna hai to...
 
   5
-  Sabr o raza ki had se guzar jayenge hussain
-  Lekin pisar ka daagh na seh payenge hussain
-  Aisa jigar kahan se bhala layenge hussain
-  Akbar ki laash dekh ke mar jayenge hussain
+  Sabr o raza ki had se guzar jayenge Husain
+  Lekin pisar ka daagh na seh payenge Husain
+  Aisa jigar kahan se bhala layenge Husain
+  Akbar ki laash dekh ke mar jayenge Husain
 
   6
   Un ko shikast dene ka hai ek raasta
@@ -52,13 +52,13 @@ romanLyrics: |-
   7
   Zehra ke poore ghar ka ujaala hai ye jawan
   Binte ali ki godh ka paala hai ye jawan
-  Is naujawan mein hai basa dil hussain ka
+  Is naujawan mein hai basa dil Husain ka
   Sarwar ko maarna hai to...
 
   8
   Atthara saal paal ke jisko jawan kiya
-  Wo dilbare hussain hai hamshakle mustafa
-  Ye gham hussain par hai masayib ki inteha
+  Wo dilbare Husain hai hamshakle mustafa
+  Ye gham Husain par hai masayib ki inteha
   Bete ka sehra dekh na paayein shahe huda
 
   9
@@ -69,15 +69,15 @@ romanLyrics: |-
 
   10
   Dekhein jo zakhm shah to nikle badan se jaan
-  Ho jaaye is diyaar mein be-aas be-amaan
+  Ho jaaye is diyaar mein beaas beamaan
   Akbar ke baad jee nahi sakte shahe huda
   Sarwar ko maarna hai to...
 
   11
   Yawar koi nahi hai wo kis ko bulayenge
-  Tanha hussain laasha e akbar pe aayenge
+  Tanha Husain laasha e akbar pe aayenge
   Jab apne naujawan ko zinda na payenge
-  Khud maut ko hussain gale se lagayenge
+  Khud maut ko Husain gale se lagayenge
 
   12
   Khanjar ko saunp denge wo sookha hua gala
@@ -92,16 +92,16 @@ romanLyrics: |-
   Sarwar ko maarna hai to...
 
   14
-  Maqtal ki simt daudte jaate rahe hussain
-  Aankhon se khoon ke ashk bahate rahe hussain
-  Girte thay jab to khud ko uthaate rahe hussain
-  Ro ro ke ye sada bhi lagate rahe hussain
+  Maqtal ki simt daudte jaate rahe Husain
+  Aankhon se khoon ke ashk bahate rahe Husain
+  Girte thay jab to khud ko uthaate rahe Husain
+  Ro ro ke ye sada bhi lagate rahe Husain
 
   15
   Abbas fauje shaam ka naara suno zara
   Sarwar ko maarna hai to...
   Waiz bhi ashkbaar hai mesum bhi nauha gar
-  Mazhar bhi ro raha hai hussain e ghareeb par
+  Mazhar bhi ro raha hai Husain e ghareeb par
 
   16
   Sun kar bayan ye rota hai surani har bashar

@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ghareeb e zehra pa kya waqt hai ghareebi ka
-  Gareban chaak hai balon may khaak e karbobala
+  Gharib-e-zehra pa kya waqt hai gharibi ka
+  Garebaṅ chaak hai baloṅ may khaak-e-karbobala
   Talaash karte hai rasta nazar nahi aata
   Ye haal dekh ke haste hai sheh pa ahle jafa
-  Behan ki kaandhon par kul kaayenat laate hai
+  Behan ki kaandhoṅ par kul kaayenat laate hai
   Qadam qadam pe ye awaaz dete jaate hai
   Umme laila sambhaal zainab ko
   Laa raha hoo mai laasha e akbar
   Umme laila sambhaal…
-  Bole honge hussain ye ro kar
+  Bole honge Husain ye ro kar
   Umme laila sambhaal…
-  Naujawan laash hai zaeefi hai
-  Meri nazron se dekh manzar ko
-  Kaise hamsheer ko sambhalunga
+  Naujawaṅ laash hai zaifi hai
+  Meri nazroṅ se dekh manzar ko
+  Kaise hamshir ko sambhalunga
   Mai sambhale huwe hoo akbar ko
   Tera ehsaan hoga ye mujh par
   Umme laila sambhaal…
   Laa raha hoo mai…
-  Is ke seene se le ke naame ali
+  Is ke sine se le ke naame ali
   Maine barchi abhi nikaali hai
-  Imtehan de chuki hai meri ghurbat
+  Imtehaṅ de chuki hai meri ghurbat
   Ab teri bekasi ki baari hai
   Tu bhi is waqt ya ali keh kar
   Umme laila sambhaal…
   Laa raha hoo mai…
-  Do nageene thay iski jholi may
+  Do nagine the iski jholi may
   Dono akbar pe kar diye sadqa
-  Sabr aisa ke apne beton par
-  Maine rote isay nahi dekha
+  Sabr aisa ke apne betoṅ par
+  Maiṅ ne rote ise nahi dekha
   Hai magar ab ye laasha e akbar
   Umme laila sambhaal…
   Laa raha hoo mai…
-  Rok rakha hai apne ashkon ko
+  Rok rakha hai apne ashkoṅ ko
   Sab se chup chup ke aahe bharti hai
   Mai samajhta hoo maadare akbar
   Teri mamta pe jo guzarti hai
   Rak ke apne kaleje par pathar
   Umme laila sambhaal…
   Laa raha hoo mai…
-  Aise laashe jawan uthaye hoo
+  Aise laashe jawaaṅ uthaye hoo
   Aediyan khat banati aati hai
-  In nishano ko peeche peeche mere
+  In nishano ko piche piche mere
   Amma zahra mitati aati hai
-  Uski nazrein na dekhe ye manzar
+  Uski nazreiṅ na dekhe ye manzar
   Umme laila sambhaal…
   Laa raha hoo mai…
-  Ay takallum wo shaam o koofa ka
-  Tay hua hoga is taraf se safar
+  Ae takallum wo shaam o koofa ka
+  Te hua hoga is taraf se safar
   Amma zainab sambhaalna maa ko
   Kehte honge sina se ye akbar
-  Aur hoga hussain ke lab par
+  Aur hoga Husain ke lab par
   Umme laila sambhaal…
   Laa raha hoo mai…
 # source_id: nohayonline:c05fa6eb61daa730deb6

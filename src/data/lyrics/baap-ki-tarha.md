@@ -12,48 +12,48 @@ published: false
 romanLyrics: |-
   1
   Ekeeswi ki subha qayamat ka tha samaa
-  Thar'ra raha tha chand larazta tha aasman
-  Baitus sharaf may baithe thay sab log neem jaan
+  Thar'ra raha tha chand larazta tha aasmaṅ
+  Baitus sharaf may baithe the sab log nim jaaṅ
   Hyder ne baari baari har ek par nigah ki
   Zainab ko junhi dekha to ek sard aah ki
   Beti ko dekh dekh ke rone lage ali
   Sarwar ka haath thaam ke kehne lage ali
   Baap ki tarha kaleje se lagana beta
-  Phir meri laash se zainab ko chudana beta
-  Betiyan baap se manoos bahot hoti hai
+  Phir meri laash se zainab ko churana beta
+  Betiyaṅ baap se manus bahot hoti hai
   Choti choti si musibat pe bahot roti hai
   Zakhm sar ka meri zainab se chupana beta
   Baap ki tarha kaleje se...
-  Bain ehsaan yateemi se kare ghabrakar
+  Bain ehsaan yatimi se kare ghabrakar
   Laash par meri jo gir jaye pachade kha kar
   Kar ke dam nade ali usko uthana beta
   Baap ki tarha kaleje se...
   Haye ye darr hai mujhe jaan ko khote khote
-  Meri bachi kahin mar jaye na rote rote
-  Chup ke zainab se kafan mujhko udhana beta
+  Meri bachi kahiṅ mar jaye na rote rote
+  Chup ke zainab se kafan mujhko urhana beta
   Baap ki tarha kaleje se...
-  Karwan amn ka sab zulm o sitam lootenge
+  Karwaṅ amn ka sab zulm o sitam lootenge
   Meri bachi pe bahot ranj o alam tootenge
   Har musibat se mere baad bachana beta
   Baap ki tarha kaleje se...
-  Laash par meri to jee bhar ke abhi rolegi
-  Par teri laash pe ye laakhon sitam jhelegi
+  Laash par meri to ji bhar ke abhi rolegi
+  Par teri laash pe ye laakhoṅ sitam jhelegi
   Naaz saare meri zainab ke uthana beta
   Baap ki tarha kaleje se...
-  Phir ye kehne lage aankon se baha kar aansu
-  Choom lena meri jaanib se behan ke baazu
-  Jis ghadi marne ko maidan may jaana beta
+  Phir ye kehne lage aankoṅ se baha kar aansu
+  Chum lena meri jaanib se behan ke baazu
+  Jis ghari marne ko maidan may jaana beta
   Baap ki tarha kaleje se...
-  Chain se raaton ko zainab na kabhi soyegi
+  Chain se raatoṅ ko zainab na kabhi soyegi
   Mere veeran musalle pe bahot royegi
-  Kar ke talqeen usay aas bandhana beta
+  Kar ke talqin use aas bandhana beta
   Baap ki tarha kaleje se...
   Sabr wo meri judaai pe na kar payegi
   Mujhko jo qabr may dekhegi to mar jayegi
   Saath may usko janaze may na laana beta
   Baap ki tarha kaleje se...
-  Ainee khamoosh huwe maula shahadat paayi
-  Utha taboot jo aamir to sada ye aayi
+  Aini khamush huwe maula shahadat paayi
+  Utha tabut jo aamir to sada ye aayi
   Mujhpe jo guzri musibat na batana beta
   Baap ki tarha kaleje se...
 # source_id: nohayonline:568861c310125b096f85

@@ -1,6 +1,6 @@
 ---
 title: "قبر رسول پر یہی حسنین کے تھے بین"
-alternateTitle: "Hassan Hussain Pukare"
+alternateTitle: "Hasan Husain Pukare"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,56 +13,56 @@ romanLyrics: |-
   1
   Qabr e rasool par yehi hasnain ke thay bain
   Nana tumhare baad na amma ne paaya chain
-  Hassan hussain pukare ab aao ay nana
+  Hasan Husain pukare ab aao ay nana
   Hamari amma hai zakhmi bachao ay nana
 
   2
   Tumhare jaane se maa ko bohat aziyat hai
   Pahaad waqt hai har lamha ek musibat hai
   Lehad se uth ke galay se lagao ay nana
-  Hassan hussain pukare...
+  Hasan Husain pukare...
 
   3
   Shikasta hogaya pehlu hamari amma ka
   Hamara bhai wo mohsin shaheed e zulm hua
   Hamay na maarde humko bachao ay nana
-  Hassan hussain pukare...
+  Hasan Husain pukare...
 
   4
   Uthaya jalta hua dar jo bibi fizza ne
   To dekha maykhein gadi hai badan pe amma ke
   Ye kis khata ki saza hai batao ay nana
-  Hassan hussain pukare...
+  Hasan Husain pukare...
 
   5
   Wo janasheen tumhara hamara wo baba
   Gala khuda ke wali ka rasan se baandha gaya
   Gala chuda ke galay se lagao ay nana
-  Hassan hussain pukare...
+  Hasan Husain pukare...
 
   6
   Kisi nabi ke bhi bachon pe kya ye zulm hua
   Jala ho dar kahin durra kahin tamacha laga
   Hum ahlebait e nabi hai batao ay nana
-  Hassan hussain pukare...
+  Hasan Husain pukare...
 
   7
   Khuda hi jaane ke kab tak sitam uthana hai
   Hamay to sar ko katana hai ghar lutana hai
   Jahan ho tum wahin hum ko bulalo ay nana
-  Hassan hussain pukare...
+  Hasan Husain pukare...
 
   8
   Ay nana qabr se dekha to hoga wo manzar
   Gira tha jalta hua dar jo amma ke upar
   Har ek zakhm pe marham lagao ay nana
-  Hassan hussain pukare...
+  Hasan Husain pukare...
 
   9
-  Hassan hussain ay majid jo roye zaar o qataar
+  Hasan Husain ay majid jo roye zaar o qataar
   Laraz rahi thi wahan qabre ahmed e mukhtar
   Bilak ke kehte thay bache bachao ay nana
-  Hassan hussain pukare...
+  Hasan Husain pukare...
 # source_id: nohayonline:b69b9396a9b83be77561
 # source_url: https://www.nohayonline.com/details_content.php?id=1424
 # raw_sha256: 6a4dfe2d3f1b37e9147ccb1b108ba67f0c15ccf0748b10c6dfca55dbc65e4756

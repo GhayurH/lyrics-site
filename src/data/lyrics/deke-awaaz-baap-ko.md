@@ -16,54 +16,54 @@ romanLyrics: |-
   Haye akbar..
   Deke awaaz baap ko akbar
   Sochte hai ke aayenge kaise
-  Ladkhadate huwe jo aa bhi gaye
+  Larkhadate huwe jo aa bhi gaye
   Haye mera laasha uthayenge kaise
   Deke awaaz baap ko...
   Hur ke bete ki laash par
-  Hur se keh rahe thay abhi yehi baba
+  Hur se keh rahe the abhi yehi baba
   Baap laashe jawan uthata nahi
   Iska lasha mai khud utha'unga
   Ab wahi marhala hai baba par
   Mere laasha uthayenge kaise
   Deke awaaz baap ko...
-  Ek mehshar bapa tha qaimein mein
+  Ek mehshar bapa tha qaimein meiṅ
   Maa se jis dam gaya tha mai milne
-  Aake baba ne us ghadi
-  Daaman khud chudaya tha meri behno se
-  Mera daaman chudana aasan tha
+  Aake baba ne us ghari
+  Daaman khud churaya tha meri behno se
+  Mera daaman churana aasan tha
   Dil se barchi chudayenge kaise
   Deke awaaz baap ko...
   Fikr barchi ki kuch nahi mujko
-  Dil mein bas ye khayal aata hai
-  Apne kadiyal jawan ke laashe par
-  Jeete jee baap mar hi jaata hai
-  Is zaeefi mein ek saat padar
+  Dil meiṅ bas ye khayal aata hai
+  Apne kariyal jawaaṅ ke laashe par
+  Jite ji baap mar hi jaata hai
+  Is zaifi meiṅ ek saat padar
   Do janaze uthayenge kaise
   Deke awaaz baap ko...
   Ab mai samjha ke kis liye baba
-  Mere seene ko chooma karte thay
+  Mere sine ko chuma karte the
   Yaad aati thi unko jab sughra
-  Meri aakhon mein dekha karte thay
-  Gham hai ab mera meri aankhon mein
-  Mujhse nazrein milayenge kaise
+  Meri aankhoṅ meiṅ dekha karte the
+  Gham hai ab mera meri aankhoṅ meiṅ
+  Mujhse nazreiṅ milayenge kaise
   Deke awaaz baap ko...
   Ayna ayna ali-ul akbar ki
-  Ran mein awaaz jab wo dete hai
-  Haye ghurbat ghareeb e zehra ki
+  Ran meiṅ awaaz jab wo dete hai
+  Haye ghurbat gharib e zehra ki
   Dekh kar shaam waale haste hai
   Raasta unko mujh tak aane ka
   Phir ye qaatil batayenge kaise
   Deke awaaz baap ko...
-  Qatle shabbir ki hai tayyari ran mein
+  Qatle shabbir ki hai tayyari ran meiṅ
   Chamka rahe hai sab khanjar
-  Barchi seene mein hai mere lekin
-  Itna majboor bhi nahi akbar
+  Barchi sine meiṅ hai mere lekin
+  Itna majbur bhi nahi akbar
   Shaam ke log mere hote huwe
   Sheh pe khanjar chalayenge kaise
   Deke awaaz baap ko...
-  Aankh mein askh lab pe nauha tha
-  Ay takallum ajeeb lamha tha
-  Dil mein wo baar baar kehta tha
+  Aankh meiṅ askh lab pe nauha tha
+  Ae takallum ajib lamha tha
+  Dil meiṅ wo baar baar kehta tha
   Aane wala hai qaaside sughra
   Bhai ki laash par mere baba
   Khat behan ka sunayenge kaise

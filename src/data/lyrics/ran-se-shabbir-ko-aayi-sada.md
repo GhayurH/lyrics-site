@@ -9,31 +9,31 @@ tags: []
 aliases: ["کرتے ہیں ماتم حرم عباس کا"]
 published: false
 romanLyrics: |-
-  Karte hain matam haram Abbas ka
+  Karte haiṅ matam haram Abbas ka
 
   1
   Ran se ye Shabbir ko ye aayi sada
-  Jald khabar lijye Shah e huda
+  Jald khabar lijye Shah-e-huda
   Aap ke qadmo pe ho khadim fida
-  Ho gaye Abbas ke shanay fida
+  Ho gaye Abbas ke shane fida
 
   2
   Ghamzada Zainab se ye Sheh ne kaha
-  Chorr sidharay hamain bhayya kahan
-  Mashk chidi khoon me alam bhar gaya
+  Chorr sidhare hamaiṅ bhayya kahaṅ
+  Mashk chidi khun me alam bhar gaya
   Ab na alamdar na lashkar raha
 
   3
-  Gham may baraday ke hay tooti qamar
-  Chal basay Akbar nahi aata nazar
-  Kamptay hatho pe hay lash e pisar
-  Gham se phata jata hay Sheh ka jigar
+  Gham may baraday ke hai tuti qamar
+  Chal base Akbar nahi aata nazar
+  Kampte hatho pe hai lash-e-pisar
+  Gham se phata jata hai Sheh ka jigar
 
   4
-  Sibt e Nabi tum pe ho lakhon salam
+  Sibt-e-Nabi tum pe ho lakhoṅ salam
   Ho gaye ummat pe fida tashna kam
-  Arz ye ham sab ki hay tum se Imam
-  Roza dikha dijye shah e anaam
+  Arz ye ham sab ki hai tum se Imam
+  Roza dikha dijye shah-e-anaam
 ---
 
 کرتے ہیں ماتم حرم عباس کا

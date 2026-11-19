@@ -8,23 +8,23 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Piyason kai liyai maut ka paighaam sahar hai
+  Piyasoṅ kai liyai maut ka paighaam sahar hai
   Chal jayai ga Shabbir ki gardan pai bhi khanjer.
 
-  Is raat chamaktai hain falak per jo sitarai
-  Lut jayai ga aik roz main Zahra ka bhara ghar.
+  Is raat chamaktai haiṅ falak per jo sitarai
+  Lut jayai ga aik roz maiṅ Zahra ka bhara ghar.
 
-  Abbas kai shaanai bhi kalam hon gai labai naher
-  Chin jaayi gi kal Zainab-o-Kulsoom ki chadar.
+  Abbas kai shaanai bhi kalam hoṅ gai labai naher
+  Chin jaayi gi kal Zainab o Kulsum ki chadar.
 
-  Jo seenai pai Shabbir kai soti hai Sakina
-  Dhundai gi na mil jayai gi lut jayain gain Gohar.
+  Jo sinai pai Shabbir kai soti hai Sakina
+  Dhundai gi na mil jayai gi lut jayaiṅ gain Gohar.
 
-  Beemar ka bister bhi adu kainchain gai aaker
-  Pehnayain gai beemar ko woh aahain nilangar.
+  Bimar ka bister bhi adu kainchain gai aaker
+  Pehnayaiṅ gai bimar ko woh aahaiṅ nilangar.
 
-  Yeh raat agar dhal gayi sooraj nikal aya
-  Mur jhayai ga pardes main Zahra ka gulistar.
+  Yeh raat agar dhal gayi suraj nikal aya
+  Mur jhayai ga pardes maiṅ Zahra ka gulistar.
 # source_id: nohawriteups:7ef50b4a360482b6d94c
 # source_url: https://www.nohawriteups.org/piyason-kai-liye-maut-ka-paigham/
 # original_html: snapshots/nohawriteups/original_html/7ef50b4a360482b6d94c.html.gz

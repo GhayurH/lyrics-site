@@ -28,7 +28,7 @@ romanLyrics: |-
   Wal wal saddayndee reh gaye
 
   4
-  3) Na Hussain koun maarein wasta ay
+  3) Na Husain koun maarein wasta ay
   Kalli bhaynee da ay asra ae
   Veer day qatil koun hy
   Mintaan karayndee reh gaye

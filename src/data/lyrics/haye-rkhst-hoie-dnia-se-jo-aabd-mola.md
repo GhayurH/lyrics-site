@@ -9,68 +9,68 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haey rukhshat huay dunya se jo Abid Mola
-  Ghusl denay ke liye baap ko beta aaya
+  Hae rukhshat hue dunya se jo Abid Mola
+  Ghusl dene ke liye baap ko beta aaya
   Jism jab baap ka dekha to kaha wa waila
-  Baap ke samnay Baqir ne kaha heeay baba
-  Ghusl may aap ko kis tarha bhala doon baba
-  Jism zakhmo ke nishano se bhara hay sara
+  Baap ke samne Baqir ne kaha heee baba
+  Ghusl may aap ko kis tarha bhala duṅ baba
+  Jism zakhmo ke nishano se bhara hai sara
 
   2
-  Yaad aata hay mujhe shaam barabar baba
-  Haey bazar may maoon ka khula sar baba
+  Yaad aata hai mujhe shaam barabar baba
+  Hae bazar may maun ka khula sar baba
   Nok par naize ki nanha Ali Asghar baba
-  Khoon rulatay thay tumhain Shaam ke manzar baba
-  Zulm ki andhiyan chalti theen laeen hanstay thay
-  Haey sab bibyan roti theen laeen hanstay thay
+  Khuṅ rulate the tumhaiṅ Shaam ke manzar baba
+  Zulm ki andhiyaṅ chalti thiṅ laiṅ hanste the
+  Hae sab bibyaṅ roti thiṅ laiṅ hanste the
 
   3
-  Jism par aap ke nazrain may tikaoon kaise
-  Ghusl ka haq jo mila hay wo nibhaoon kaise
-  Apnay hathon ko teri pusht pe laoon kaise
-  Apni ankhon se wo manzar may bhulaoon kaise
+  Jism par aap ke nazraiṅ may tikauṅ kaise
+  Ghusl ka haq jo mila hai wo nibhauṅ kaise
+  Apne hathoṅ ko teri pusht pe lauṅ kaise
+  Apni ankhoṅ se wo manzar may bhulauṅ kaise
   Shaam ki raah may jab moar koi aata tha
-  Pusht par durray laeen aap ki barsata tha
+  Pusht par durre laiṅ aap ki barsata tha
 
   4
-  Ghusl detay huay gardan ki jo baari aayi
-  Haey ye dekh ke nam aankh hui Baqar ki
-  Towq aur gardan e beemar ki yaad aanay lagi
-  Ro ke Baqar ne kaha haey ghareebi teri
-  Haey gardan ke nishanat ye batlatay hain
-  Aray towq pehnay huay tum ne jo safar katay hain
+  Ghusl dete hue gardan ki jo baari aayi
+  Hae ye dekh ke nam aankh hui Baqar ki
+  Towq aur gardan-e-bimar ki yaad aane lagi
+  Ro ke Baqar ne kaha hae gharibi teri
+  Hae gardan ke nishanat ye batlate haiṅ
+  Are towq pehne hue tum ne jo safar kate haiṅ
 
   5
-  Paaon dhonay ke liye hath barrhaya may ne
-  Yaad aaya hay mujhe Shaam ka manzar phir se
-  Haey tum kaise chalay raah may un kanton pe
-  Dekh kar aap ko sab log yehi kehtay thay
-  Bairian pehn ke kanton pe chala jata hay
-  Kitna sabir hay ke har zulm saha jata hay
+  Paaoṅ dhone ke liye hath barrhaya may ne
+  Yaad aaya hai mujhe Shaam ka manzar phir se
+  Hae tum kaise chale raah may un kantoṅ pe
+  Dekh kar aap ko sab log yehi kehte the
+  Bairiaṅ pehn ke kantoṅ pe chala jata hai
+  Kitna sabir hai ke har zulm saha jata hai
 
   6
-  Qatl sab Karbala may meray ajdad huay
-  Sham ke baad na phir aap kabhi shaad huay
-  Sham may aisy hain ujray ke na aabad huay
-  Hath rassi ke nishanon se na aazad huay
+  Qatl sab Karbala me mere ajdad hue
+  Sham ke baad na phir aap kabhi shaad hue
+  Sham may aisy haiṅ ujre ke na aabad hue
+  Hath rassi ke nishanoṅ se na aazad hue
   Waqt aisa na kisi ko bhi dikhaye Mola
-  Baap naize pe ho aur maa ho khulay sar baba
+  Baap naize pe ho aur maa ho khule sar baba
 
   7
-  Aap ki ankhon ne maoon ko khulay sar dekha
-  Aap ki ankhon ne phupyon ko khulay sar dekha
-  Aap ki ankhon ne behno ko khulay sar dekha
-  Aap ki ankhon ne chachyon ko khulay sar dekha
-  Haey bazar may ye zulm o sitam hotay rahay
-  Aap chalees baras haey lahoo rotay rahay
+  Aap ki ankhoṅ ne mauṅ ko khule sar dekha
+  Aap ki ankhoṅ ne phupyoṅ ko khule sar dekha
+  Aap ki ankhoṅ ne behno ko khule sar dekha
+  Aap ki ankhoṅ ne chachyoṅ ko khule sar dekha
+  Hae bazar may ye zulm o sitam hote rahe
+  Aap chalis baras hae lahu rote rahe
 
   8
-  Ghusl jab de chukay Sajjad ko Mola Baqar
+  Ghusl jab de chuke Sajjad ko Mola Baqar
   Dafan phir baap ko kar aaye Baqaea Baqar
-  Haey Zeeshan magar koi ye dekhay ja kar
-  Haey mazloom ki ghurbat ka ajab hay manzar
-  Khud bhi mazloom tha turbat bhi hay mazloom us ki
-  Turbat e Fatima Zehra ki tarha tooti hui
+  Hae Zishan magar koi ye dekhe ja kar
+  Hae mazlum ki ghurbat ka ajab hai manzar
+  Khud bhi mazlum tha turbat bhi hai mazlum us ki
+  Turbat-e-Fatima Zehra ki tarha tuti hui
 # source_id: ziyaraat:d98b48d895bd568c04de
 # source_url: https://www.ziyaraat.net/api/noha/2576
 # raw_sha256: e32520436d93bb9102137b8cd3134f2887d75241597c6c1951eefdb57bfcb9ed

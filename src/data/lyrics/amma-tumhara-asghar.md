@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Apne haathon se baba ne
-  Turbat mein sulaya tha mujhko
+  Apne haathoṅ se baba ne
+  Turbat meiṅ sulaya tha mujhko
   Aur shaam ke zaalim lashkar ke
-  Naizon ne sataya tha mujhko
-  Turbat mein mujhe rehne na diya
+  Naizoṅ ne sataya tha mujhko
+  Turbat meiṅ mujhe rehne na diya
   Sar mera bhi naize pe utha
   Amma amma
   Amma tumhara asghar naize pe aagaya hai
-  Do baar zibha mujhko ran mein kiya gaya hai
+  Do baar zibha mujhko ran meiṅ kiya gaya hai
   Noke sina pe amma dohra hai dard mera
-  Ek naize par barabar mein aap ki rida hai
+  Ek naize par barabar meiṅ aap ki rida hai
   Amma tumhara asghar...
-  Chaale pade hai kaise zakhmi huwe hai kaise
-  Kuch to batao amma haathon ko kya hua hai
+  Chaale pare hai kaise zakhmi huwe hai kaise
+  Kuch to batao amma haathoṅ ko kya hua hai
   Amma tumhara asghar...
   Apna khayaal rakhna meri na fikr karna
-  Dadi ne mujhko apni godhi mein le liya hai
+  Dadi ne mujhko apni godhi meiṅ le liya hai
   Amma tumhara asghar...
   Cheh maah ke ali ka din bhi hai cheh moharram
-  Maa dekhti hai ab bhi jhoola kahan saja hai
+  Maa dekhti hai ab bhi jhula kahaṅ saja hai
   Amma tumhara asghar...
-  Nikla tha jab watan se tha godh mein tumhari
+  Nikla tha jab watan se tha godh meiṅ tumhari
   Hamraah ab tumhare sar kat ke jaa raha hai
   Amma tumhara asghar...
-  Ghazi ka hoon bhatija aankhein mai kholun kaise
-  Maine suna hai amma behno ka sar khula hai
+  Ghazi ka huṅ bhatija aankheiṅ mai kholuṅ kaise
+  Maiṅ ne suna hai amma behno ka sar khula hai
   Amma tumhara asghar...
-  Naize se mai sakina ko dekhta raha hoon
-  Chehra meri behen ka zakhmon se bhar gaya hai
+  Naize se mai sakina ko dekhta raha huṅ
+  Chehra meri behen ka zakhmoṅ se bhar gaya hai
   Amma tumhara asghar...
-  Zindan bhi dhoop mein thi turbat bhi dhoop mein hai
-  Bano ne ay takallum waada nibha diya hai
+  Zindaṅ bhi dhup meiṅ thi turbat bhi dhup meiṅ hai
+  Bano ne ae takallum waada nibha diya hai
   Amma tumhara asghar...
 # source_id: nohayonline:d2f1ea2f931c69ddc07a
 # source_url: https://www.nohayonline.com/details_content.php?id=3624

@@ -68,7 +68,7 @@ romanLyrics: |-
   Sajjad pe ye zulm o jafa, Fatima Zehra
 
   15
-  16) Kis dil se Hussain aap ki rodad parrhon ga
+  16) Kis dil se Husain aap ki rodad parrhon ga
   Mazhar jo bayan likh na saka, Fatima Zehra
 # source_id: ziyaraat:29f958d800991f69b433
 # source_url: https://www.ziyaraat.net/api/noha/396

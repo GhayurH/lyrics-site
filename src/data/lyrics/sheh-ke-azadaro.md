@@ -11,68 +11,68 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Azadaron
+  Azadaroṅ
   Tum fatema zahra ki dua ho
   Salamat raho
-  Sheh ke azadaron salamat raho
+  Sheh ke azadaroṅ salamat raho
   Tum ko sabakh ishq ke sab yaad hai
   Tum se azakhaane ye abaad hai
   Apne musalle pe tumhare liye
   Mehwe dua sayyade sajjad hai
   Apna payame aza jaari rakho
   Sheh ke azadaron...
-  Aag dil e zulm mein in se lagi
+  Aag dil e zulm meiṅ in se lagi
   Aansu tumahare hai bahot kheemti
-  Kaise mitayega tumhe ye jahan
+  Kaise mitayega tumhe ye jahaṅ
   Tum ho dua maadar e hasnain ki
   Waada e zehra wafa karte raho
   Sheh ke azadaron...
   Tumse ulajhte nahi dunya ke gham
   Kaisa mila hai tumhe jaah o hasham
-  Badte julooso mein tumhare qadam
+  Barte julooso meiṅ tumhare qadam
   Rondte jaate hai sipaahe sitam
-  Zer e alam aise hi badte chalo
+  Zer e alam aise hi barte chalo
   Sheh ke azadaron...
-  Qadam badhta rahe
+  Qadam barhta rahe
   Aao karbala ki taraf
   Sabr ka paigham sunaate raho
-  Dard ki tasveer banaate raho
+  Dard ki tasvir banaate raho
   Aaj bhi soye huwe insaan ko
   Hyderi naare se jagaate raho
   Baarvi sarkar ko raazi rakho
   Sheh ke azadaron...
   Salamat raho
-  Ishq ki taleem tumahre liye
-  Khuld ki taqseem tumhare liye
-  Pyaas pe mazloom ki rote ho tum
-  Kausar o tasneem tumhare liye
-  Pyason ko pani bhi pilaate raho
+  Ishq ki talim tumahre liye
+  Khuld ki taqsim tumhare liye
+  Pyaas pe mazlum ki rote ho tum
+  Kausar o tasnim tumhare liye
+  Pyasoṅ ko pani bhi pilaate raho
   Sheh ke azadaron...
   Karte raho shaah pe aah o buka
-  Khushiyan tumhe deta rahega khuda
+  Khushiyaṅ tumhe deta rahega khuda
   Jafar e sadiq ki hai tumko dua
   Ghar rahe abaad tumhare sada
   Tum ko zamane ka koi gham na ho
   Sheh ke azadaron...
-  Raazi rahe tumse khuda e hussain
-  Ghamga tumhara hai aza e hussain
-  Tumko dikhane ke liye jannatein
-  Karbobala jald bulaye hussain
-  Dil se duayein yehi karte raho
+  Raazi rahe tumse khuda e Husain
+  Ghamga tumhara hai aza e Husain
+  Tumko dikhane ke liye jannateiṅ
+  Karbobala jald bulaye Husain
+  Dil se duayeiṅ yehi karte raho
   Sheh ke azadaron...
-  Aaqa hussain maula hussain
+  Aaqa Husain maula Husain
   Aa raha hoo mai bhi karbala
-  Leke badhe deen ke paigham ko
-  Tod diya kufr ke asnaam ko
-  Apne usoolon pe rahe muttahid
+  Leke barhe din ke paigham ko
+  Tor diya kufr ke asnaam ko
+  Apne usuloṅ pe rahe muttahid
   Khalta hai ye dushmane islam ko
   Farshe ghame shaah pe tum ek ho
   Sheh ke azadaron...
-  Parchame abbas ka ho sayeban
-  Naame maula badta rahe kaarwan
-  Aale mohamed bhi rahe shadman
-  Aise takallum karo haq ka bayan
-  Daaman e shabbir ko thaame raho
+  Parchame abbas ka ho sayebaṅ
+  Naame maula barta rahe kaarwaṅ
+  Aale mohamed bhi rahe shadmaṅ
+  Aise takallum karo haq ka bayaṅ
+  Daaman-e-shabbir ko thaame raho
   Sheh ke azadaron...
 # source_id: nohayonline:cd562847102c1c10351d
 # source_url: https://www.nohayonline.com/details_content.php?id=1577

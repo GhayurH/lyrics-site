@@ -27,11 +27,11 @@ romanLyrics: |-
   3
   Main Bint-e-Ali Aan Ismat Di Kali Aan.
   Sehrawan Andar Be Pardah Khari Aan.
-  Main Kyun Na Rowaan Mainu Disdi Aye Akbar De Qatal Di Thaan.
+  Main Kiun Na Rowaan Mainu Disdi Aye Akbar De Qatal Di Thaan.
   Hai Bheer Bazari Wadh Gayi Bemari.
 
   4
-  Khara Abid Roway Haye Zaar-o-Zaari.
+  Khara Abid Roway Haye Zaar o Zaari.
   Ohno Mar Gaye Ne Phophiyaan De Sadmay Kariyaan De Ronr Nishaan.
   Be Ghairat Majma Hai Charey Pasay.
   Zainab Nu Amari De Aanr Dilasay.

@@ -10,33 +10,33 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zindan hai sakina hai andhera hai jafa hai
+  Zindaṅ hai sakina hai andhera hai jafa hai
   Kya qabr ka manzar hai ujaala na hawa hai
 
-  Neend aati nahi bachon ko jab tak na ho maadar
+  Nind aati nahi bachoṅ ko jab tak na ho maadar
 
   Paas iske na maadar hai na baba na chacha hai
 
   1
-  Tumko nahi kuch dard ka ehsaas kahan ho
+  Tumko nahi kuch dard ka ehsaas kahaṅ ho
 
-  Ghayre hai mujhe ranj o alamo yaas kahan ho
+  Ghayre hai mujhe ranj o alamo yaas kahaṅ ho
 
-  Mar jaungi zindan ke andhere may tadap kar
+  Mar jaungi zindan ke andhere may tarap kar
 
-  Ay mere chacha jaan abbas kahan ho
+  Ae mere chacha jaan abbas kahaṅ ho
 
-  Zindan may kise bali sakina ne pukara
+  Zindaṅ may kise bali sakina ne pukara
 
   Us laasha sare karbobala uthne laga hai
 
   2
   Abbas chacha aayenge ghar leke chalenge
 
-  Ab zulm e yazeedi ka bharam toot raha hai
+  Ab zulm-e-yazidi ka bharam tut raha hai
 
   3
-  Kuch moo se kaho meri masoom sakina
+  Kuch moo se kaho meri masum sakina
 
   Ye maa teri khamoshi pe qurban sakina
 
@@ -44,12 +44,12 @@ romanLyrics: |-
 
   Lori to nahi deta ye zindan sakina
 
-  Khamosh ho tum kyon nahi baba ko bulaati
+  Khamosh ho tum kyoṅ nahi baba ko bulaati
 
-  Tareeki zindan may ye zainab ki sada hai
+  Tariki zindan may ye zainab ki sada hai
 
   4
-  Zakhmi hai badan saara khoon kaanoṅ se jaari
+  Zakhmi hai badan saara khun kaanoṅ se jaari
   Rukhsaar bhi nile haiṅ to daaman bhi jala hai
 
   5

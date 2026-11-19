@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Virde zaban hai ek pyase ki kahani
+  Virde zabaṅ hai ek pyase ki kahani
   Muztarib dajla ka pani
-  Sawa naize pe suraj aa gaya har soo dhuan hai
-  Ro rahe hai pyase bache alqama bhi door hai
-  Ye roze ashoor hai ye roze ashoor hai
-  Har taraf bikhre hai laashe sar kahin baazu kahin
-  Aasman se khoon barsa khoon ugalti hai zameen
+  Sawa naize pe suraj aa gaya har su dhuaṅ hai
+  Ro rahe hai pyase bache alqama bhi dur hai
+  Ye roze ashur hai ye roze ashur hai
+  Har taraf bikhre hai laashe sar kahiṅ baazu kahiṅ
+  Aasmaṅ se khun barsa khuṅ ugalti hai zamiṅ
   Ambiya hai mahwe matam karbala hai soghwaar
-  Ek pyase ke galay par shimr ke khanjar ki dhaar
-  Rayt ke teele pe zainab hai magar majboor hai
-  Ye roze ashoor hai...
-  Kya yehi hota hai logon ek musafir se suno
-  Saathvi se band pani aath pehron ki hai bhook
+  Ek pyase ke gale par shimr ke khanjar ki dhaar
+  Rayt ke tile pe zainab hai magar majbur hai
+  Ye roze ashur hai...
+  Kya yehi hota hai logoṅ ek musafir se suno
+  Saathvi se band pani aath pehroṅ ki hai bhuk
   Iski ghurbat par to roye zulm bhi aur sabr bhi
   Mayyatein bhi khud uthayi khud banayi qabr bhi
-  Jism hai teeron se chalni dil ghamon se choor hai
-  Ye roze ashoor hai...
-  Zindagi ke maalikon par zindagi hai nauhakhan
-  Bayn karte hai kanare alqama mehwe fughan
-  Ro rahe hai zinda laashe mayyaton par sar nahi
+  Jism hai tiroṅ se chalni dil ghamoṅ se chur hai
+  Ye roze ashur hai...
+  Zindagi ke maalikoṅ par zindagi hai nauhakhan
+  Bayn karte hai kanare alqama mehwe fughaṅ
+  Ro rahe hai zinda laashe mayyatoṅ par sar nahi
   Kya kare kisko bulaaye wo ke jinke ghar nahi
   Maut khud karti hai matam zindagi na-soor hai
-  Ye roze ashoor hai...
-  Jis taraf uthe nigahein bas yehi aaye nazar
-  Be badan laashe sina par teer talwar o tabar
-  Dasht ki jalti zameen par baithe hai ahle haram
+  Ye roze ashur hai...
+  Jis taraf uthe nigaheiṅ bas yehi aaye nazar
+  Bebadan laashe sina par tir talwar o tabar
+  Dasht ki jalti zamiṅ par baithe hai ahle haram
   Ek sakina ek baqir chand bache mehwe gham
-  Aur musafir keh raha hai sab mujhe manzoor hai
-  Ye roze ashoor hai...
-  Baant'ta the dhoop suraj aaj kyun gahen aa gaya
+  Aur musafir keh raha hai sab mujhe manzur hai
+  Ye roze ashur hai...
+  Baant'ta the dhup suraj aaj kiuṅ gahen aa gaya
   Ek libaase sog saare dasht ko pehna gaya
-  Usne dekha ek beta jiska bigda bakht hai
+  Usne dekha ek beta jiska bigra bakht hai
   Waarise shabbir hai aur wo imame waqt hai
-  Aaj wo bemaar bhi hai bekas o ranjoor hai
-  Ye roze ashoor hai...
-  Kis khadar pur noor laashe reh gaye jo bekafan
+  Aaj wo bemaar bhi hai bekas o ranjur hai
+  Ye roze ashur hai...
+  Kis khadar pur nur laashe reh gaye jo bekafan
   Ek hamshakle payambar ek qasim gulbadan
-  Hai kahin aun o mohamed aur kahin hai bezaban
-  So gaya darya pe jaake bekason ka paasban
-  Inke gham mein asmaan par chaand bhi be-noor hai
-  Ye roze ashoor hai...
+  Hai kahiṅ aun o mohamed aur kahiṅ hai bezaban
+  So gaya darya pe jaake bekason ka paasbaṅ
+  Inke gham meiṅ asmaaṅ par chaand bhi benoor hai
+  Ye roze ashur hai...
   Nauhakhan irfan haider maadare shabbir bhi
   Kya masayib aaj likhe tune mazhar abidi
   Beridayi bikhre laashe aur ye jalte qayaam
   Aa gaye kaghaz pe jaise dasht ke manzar tamaam
-  Lafz hai ya jalte qaime har satar ashoor hai
-  Ye roze ashoor hai...
+  Lafz hai ya jalte qaime har satar ashur hai
+  Ye roze ashur hai...
 # source_id: nohayonline:c2be81cd3f8a229f8057
 # source_url: https://www.nohayonline.com/details_content.php?id=951
 # raw_sha256: 7520c8df07d3102d01ca1518a583031d53cdb2b11cf781cb022dcf98408eb279

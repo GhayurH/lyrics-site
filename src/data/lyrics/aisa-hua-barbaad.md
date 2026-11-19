@@ -11,42 +11,42 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ujad gaye sadaat
+  Ujar gaye sadaat
   Ho na saka phir shaad bhara ghar zehra ka
   Aisa hua barbaad bhara ghar zehra ka
-  Chehel pehel jab ghar aangan mein hoti hai
+  Chehel pehel jab ghar aangan meiṅ hoti hai
   Tanhaai saaye se lipat kar roti hai
   Aa jaata hai yaad bhara ghar zehra ka
   Aisa hua barbaad...
-  Khoon mein dooba mashkeeza hai parcham hai
+  Khun meiṅ duba mashkeeza hai parcham hai
   Jangal hai pyase bacche hai matam hai
-  Gham ki hai roodad bhara ghar zehra ka
+  Gham ki hai rudad bhara ghar zehra ka
   Aisa hua barbaad...
-  Qatl huwe sab koi nahi hamdardon mein
-  Ghash se utho ek tum hi bache ho mardon mein
-  Ujad gaya sajjad bhara ghar zehra ka
+  Qatl huwe sab koi nahi hamdardoṅ meiṅ
+  Ghash se utho ek tum hi bache ho mardoṅ meiṅ
+  Ujar gaya sajjad bhara ghar zehra ka
   Aisa hua barbaad...
-  Qaimon mein kuch bhi na bacha ashoor ke din
-  Aaj aisa taaraaj hua ashoor ke din
+  Qaimon meiṅ kuch bhi na bacha ashur ke din
+  Aaj aisa taaraaj hua ashur ke din
   Phir na hua aabaad bhara ghar zehra ka
   Aisa hua barbaad...
-  Doobi hai ashkon mein duayein ek maa ki
-  Aati hai maqtal mein sadayein ek maa ki
+  Dubi hai ashkoṅ meiṅ duayeiṅ ek maa ki
+  Aati hai maqtal meiṅ sadayeiṅ ek maa ki
   Maut na kar barbaad bhara ghar zehra ka
   Aisa hua barbaad...
-  Pyason ki har cheez jala di qaimon mein
-  Bedardon ne loot macha di qaimon mein
+  Pyasoṅ ki har chiz jala di qaimon meiṅ
+  Bedardon ne lut macha di qaimon meiṅ
   Karta raha faryad bhara ghar zehra ka
   Aisa hua barbaad...
-  Ab na watan mein qasim akbar lautenge
-  Ek faqad bas abid e muztar lautenge
+  Ab na watan meiṅ qasim akbar lautenge
+  Ek faqad bas abid-e-muztar lautenge
   Sughra mat kar yaad bhara ghar zehra ka
   Aisa hua barbaad...
-  Tauq galay mein hai pairon mein zanjeerein
-  Ghoom rahi hai aankhon mein sab tasveerein
-  Bhoole nahi sajjad bhara ghar zehra ka
+  Tauq gale meiṅ hai pairoṅ meiṅ zanjireiṅ
+  Ghum rahi hai aankhoṅ meiṅ sab tasvireiṅ
+  Bhule nahi sajjad bhara ghar zehra ka
   Aisa hua barbaad...
-  Hai aankhon mein khoon ke manzar aaj talak
+  Hai aankhoṅ meiṅ khun ke manzar aaj talak
   Gham ki qaid se aamir o akhtar aaj talak
   Ho na saka azaad bhara ghar zehra ka
   Aisa hua barbaad...

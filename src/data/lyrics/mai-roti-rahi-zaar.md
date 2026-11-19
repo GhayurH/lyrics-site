@@ -12,11 +12,11 @@ published: false
 romanLyrics: |-
   1
   Jab qasid e sughra maqtal pahuncha
-  Usne dekha dasht mein tanha
+  Usne dekha dasht meiṅ tanha
   Baithe hai sarwar
-  Haathon pe lekar laashaye akbar
+  Haathoṅ pe lekar laashaye akbar
   Dil thaam ke phir maula ne
-  Tehreer padi sughra ki
+  Tehrir padi sughra ki
   Dukhiya ne kiya tha nauha
   Baba tum bhi na aaye
   Bhaiya akbar na aaye
@@ -25,10 +25,10 @@ romanLyrics: |-
   Nauha tha ye sughra ka
   Jab sham dhale mai baithi
   Chaukat pe aakar
-  Nazron ko bicha kar royi
+  Nazroṅ ko bicha kar royi
   Ye baat keh kar
-  Tujhe aaj bhi raahein roti hai
-  Hamsheer ki baahein roti hai
+  Tujhe aaj bhi raaheiṅ roti hai
+  Hamshir ki baaheiṅ roti hai
   Mere akbar mere ghamkhwar
   Zaar o zaar mai roti rahi...
   Nauha tha ye sughra ka...
@@ -36,44 +36,44 @@ romanLyrics: |-
   Aansoo bahana
   Yaad aaye mujhe har lamha
   Asghar ka jaana
-  Jhoole ki hilakar doriyan
-  Deti hoo usay mai loriyan
-  Mera jeena hua dushwaar
+  Jhule ki hilakar doriyaṅ
+  Deti hoo use mai loriyaṅ
+  Mera jina hua dushwaar
   Zaar o zaar mai roti rahi...
   Nauha tha ye sughra ka...
-  Din raat tumhare gham mein
+  Din raat tumhare gham meiṅ
   Roti hai sughra
-  Ay baba chacha se kehna
+  Ae baba chacha se kehna
   Marti hai sughra
-  Kyun door mai tumse rehti hoo
+  Kiuṅ dur mai tumse rehti hoo
   Mai bhi to sakina jaisi hoo
   Kya mujhse nahi hai pyar
   Zaar o zaar mai roti rahi...
   Nauha tha ye sughra ka...
-  Nazron mein sabhi ke chehre
+  Nazroṅ meiṅ sabhi ke chehre
   Rehte hai baba
-  Kyun aun o mohamed mujhse
-  Roothe hai baba
+  Kiuṅ aun o mohamed mujhse
+  Ruthe hai baba
   Mere qasim o akbar aajaye
   Sab mere baradar aajaye
-  Nahi jeene se phir inkaar
+  Nahi jine se phir inkaar
   Zaar o zaar mai roti rahi...
   Nauha tha ye sughra ka...
-  Kuch roz ki mai mehman hoo
-  Dunya mein baba
+  Kuch roz ki mai mehmaṅ hoo
+  Dunya meiṅ baba
   Kya tumko gawara hai mai
-  Mar jaun tanha
+  Mar jauṅ tanha
   Kuch roz agar na aayenge
-  Sughra ko lehad mein payenge
+  Sughra ko lehad meiṅ payenge
   Mere baba mere sardaar
   Zaar o zaar mai roti rahi...
   Nauha tha ye sughra ka...
   Amma se phuphi zainab se
   Keh dena baba
-  Tum fateha padhne mere
+  Tum fateha parhne mere
   Marqad pe aana
   Akbar bhi agar saath aayega
-  Beemar ko chain aa jayega
+  Bimar ko chain aa jayega
   Saare kunbe ki matamadar
   Zaar o zaar mai roti rahi...
   Nauha tha ye sughra ka...

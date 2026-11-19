@@ -1,6 +1,6 @@
 ---
 title: "اربعین کرنا ہے شاہِ کربلائی کا"
-alternateTitle: "Arbaeen Karna Hai"
+alternateTitle: "Arbain Karna Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

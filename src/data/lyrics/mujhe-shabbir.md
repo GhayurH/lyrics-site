@@ -12,45 +12,45 @@ published: false
 romanLyrics: |-
   1
   Nabi ki aankh ka taara ali ko jaan se pyara
-  Bachaya deen hai jisne usay shabbir kehte hai
+  Bachaya din hai jisne use shabbir kehte hai
   Mohammad ka nawasa hoo mujhe shabbir kehte hai
-  Har ek baala se hoo aala mujhe shabbir kehte hai
+  Har ek baala se hu aala mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
-  Sawaal e bayyat e faasiq karun tasleem na mumkin
-  Bhala hinda ke bete ki karun tazeem na mumkin
+  Sawaal e bayyat e faasiq karuṅ taslim na mumkin
+  Bhala hinda ke bete ki karuṅ tazim na mumkin
   Mai beta fatema ka hoo mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
-  Mai wo hoo jiska jhoola bhi farishton ne jhulaya hai
-  Mai wo hoo jisko kaandhon par mohamed ne chadaya hai
+  Mai wo hu jiska jhula bhi farishtoṅ ne jhulaya hai
+  Mai wo hu jisko kaandhoṅ par mohamed ne charaya hai
   Ali ka mai dulaara hoo mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
-  Samajh may mai agar thoda bahot aaun to phir kehna
+  Samajh may mai agar thora bahot aauṅ to phir kehna
   Subhana rabbi al aala subhana rabbi al aala
-  Kahan aakhir mai tum sa hoo mujhe shabbir kehte hai
+  Kahaṅ aakhir mai tum sa hoo mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
-  Mai jisko chahun doo aulaad jisko chahun par de doo
-  Khatayen bakhsh doo jannat may jisko chahun ghar de doo
+  Mai jisko chahuṅ doo aulaad jisko chahuṅ par de doo
+  Khatayen bakhsh doo jannat may jisko chahuṅ ghar de doo
   Sakhawat ka mai darya hoo mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
-  Mai jis dam ghaiz may aaun falak kaanmpe zameen kaampe
-  Paron ki khairiyat ke waaste roohul ameen kaampe
+  Mai jis dam ghaiz may aauṅ falak kaanmpe zamiṅ kaampe
+  Paroṅ ki khairiyat ke waaste roohul ameen kaampe
   Bahadur baap jaisa hoo mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
-  Qadam peeche hataun raahe haq may ho nahi sakta
+  Qadam piche hatauṅ raahe haq may ho nahi sakta
   Mai apni khandaani saakh hargiz kho nahi sakta
   Abu talib ka pota hoo mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
-  Meri nazron may ye nau laakh to nau ke barabar hai
+  Meri nazroṅ may ye nau laakh to nau ke barabar hai
   Mere hamraah jitne fard hai wo khud may lashkar hai
   Shuja’at ka khabeela hoo mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
   Iraada kar liya jis shay ka usko kab nahi paaya
-  Riyayat se kabhi maine koi mansab nahi paaya
-  Khateeb e noke naiza hoo mujhe shabbir kehte hai
+  Riyayat se kabhi maiṅ ne koi mansab nahi paaya
+  Khatib-e-noke naiza hoo mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
   Jo ghabrata nahi asif kabhi talwaar o khanjar se
   Jo aamir fatha ka aelaan karta hai kate sar se
-  Mai wo banda khuda ka hoo mujhe shabbir kehte hai
+  Mai wo banda khuda ka hu mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
 # source_id: nohayonline:a701ccdaee8b7623b528
 # source_url: https://www.nohayonline.com/details_content.php?id=2456

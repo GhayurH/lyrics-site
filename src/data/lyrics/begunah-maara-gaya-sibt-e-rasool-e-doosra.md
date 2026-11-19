@@ -9,7 +9,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Begunah mara gaya sibte rasool e dosara wa Hassan e sabz e qaba
+  Begunah mara gaya sibte rasool e dosara wa Hasan e sabz e qaba
 
   1
   Kalma goyo nai kiya khoob kiya wada wafa
@@ -18,24 +18,24 @@ romanLyrics: |-
   Bhai ki lash peh ro ro keh yeh Zainab nai kaha
   Arzoo thi bhaiya
   Kash Abudullah o Qasim ko banateh doolah
-  Wa Hassan e sabz qaba.
+  Wa Hasan e sabz qaba.
   Aik toh bagh e fidaq or khilafaat cheeni
   Uss pay ki bay deeni
   Pehlu main nana keh bhi dafn nahin hone diya
-  Wa Hassan e sabz qaba
+  Wa Hasan e sabz qaba
   Tere taboot peh kis wasteh mare gaye teer
   Aye musalamano keh peer
   Kalma parhte na theh jud ka tere Ahle- Jafa
 
   3
-  Khuld seh aaye sada baita Hassan jaldi aa
+  Khuld seh aaye sada baita Hasan jaldi aa
   Takeh doon tujh ko dekha
   Teer mare tujh chalnee hai kaleja mera
-  Wa Hassan e sabz qaba
+  Wa Hasan e sabz qaba
   Waqt e rehlat teray nana hai waseeat ki thi
   Uspeh takeed e ye kee
   Ahlebait aur e kalamul lah heh bas mere siwa
-  Wa Hassan e sabz qaba
+  Wa Hasan e sabz qaba
 # source_id: ziyaraat:23cba5293a32785a9235
 # source_url: https://www.ziyaraat.net/api/noha/2089
 # raw_sha256: 79671dafa6d33f44174c8970a77bcd33ebc90210dec5cc0e897abedffaaee977

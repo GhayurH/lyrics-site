@@ -8,46 +8,46 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pukari Masjid e Koofa ujarr gaya Koofa
+  Pukari Masjid-e-Koofa ujarr gaya Koofa
   Utha Imam ka saaya ujarr gaya Koofa
 
   1
   Bujha se zahr may khanjar ko ibne Muljim ne
-  Sar e Ali pe jo zarbat lagayi zaalim ne
-  Jahan pe chaaya andhera ujar gaya Koofa
+  Sar-e-Ali pe jo zarbat lagayi zaalim ne
+  Jahaṅ pe chaaya andhera ujar gaya Koofa
 
   2
-  Ye kaisi zarb lagi tootnay lageen sansain
-  Do neem ho gaya sar khoon se bhar gayeen ankhain
-  Shaheed ho gaya Maula ujarr gaya Koofa
+  Ye kaisi zarb lagi tutne lagiṅ sansaiṅ
+  Do nim ho gaya sar khoon se bhar gayeen ankhaiṅ
+  Shahid ho gaya Maula ujarr gaya Koofa
 
   3
-  Namaz e subha ke doraa bapa hua mehshar
-  Sitam ki taigh se shaq ho gaya sar e Haider
-  Lahoo se tar hay musalla ujarr gaya Koofa
+  Namaz-e-subha ke doraa bapa hua mehshar
+  Sitam ki taigh se shaq ho gaya sar-e-Haider
+  Lahu se tar hai musalla ujarr gaya Koofa
 
   4
   Khuda ke shair ko aayi jo aakhri hichki
-  Hasan Hussain pe chaayi fiza yateemi ki
-  Hay ghash may Zainab e Kubra ujarr gaya Koofa
+  Hasan Husain pe chaayi fiza yatimi ki
+  Hai ghash may Zainab-e-Kubra ujarr gaya Koofa
 
   5
-  Paharr toota hay Abbas par museebat ka
-  Ye din hay Zainab o Kulsoom par qayamat ka
-  Ghamoo may gharq hay kunba ujarr gaya Koofa
+  Paharr tuta hai Abbas par musibat ka
+  Ye din hai Zainab o Kulsum par qayamat ka
+  Ghamoo may gharq hai kunba ujarr gaya Koofa
 
   6
   Hui jahan se rehlat jo Shah e aalam ki
-  Yateem ho gayi ummat Rasool e Akram ki
-  Imam e waqt sidhara ujarr gaya Koofa
+  Yatim ho gayi ummat Rasul-e-Akram ki
+  Imam-e-waqt sidhara ujarr gaya Koofa
 
   7
-  Mujeeb Shabbar o Shabbir khoon rotay hain
-  Kalejay Zainab o Kulsoom ke laraztay hain
+  Mujib Shabbar o Shabbir khun rote haiṅ
+  Kaleje Zainab o Kulsum ke larazte haiṅ
   Udas ho gaya Kaaba ujarr gaya Koofa
 
   8
-  (Mujeeb Alipuri)
+  (Mujib Alipuri)
 # source_id: ziyaraat:b2c1097935ca5de09aae
 # source_url: https://www.ziyaraat.net/api/noha/1941
 # raw_sha256: deec3016d0b142e24da539a35242a03fc689bbb7ca1009e2025b81ea2377a863

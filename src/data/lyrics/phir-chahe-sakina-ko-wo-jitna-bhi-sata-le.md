@@ -9,42 +9,42 @@ aliases: []
 published: false
 romanLyrics: |-
   tha bain sakeena ka hai rukne ko mera dil
-  jaata hai rida cheen ke baysheer ka qatil
-  aasan ye kar dein mere bhaiya meri mushkil
+  jaata hai rida chin ke bayshir ka qatil
+  aasan ye kar deiṅ mere bhaiya meri mushkil
   gohar bhi nahi chahiye na chahiye mehmil
   kar de jo mere sar ki rida mere hawale
   phir chaahe sakina ko wo jitna bhi sata le
   khanjar se gala sheh ke mere saamne kaata
-  pathar tan e mazloom pe maare gaye bhaiya
-  zakhmon pe magar baba ke ab rayt na daale
+  pathar tan-e-mazlum pe maare gaye bhaiya
+  zakhmoṅ pe magar baba ke ab rayt na daale
   phir chaahe sakina ko..
-  gohar mere cheene ye sitam maine saha hai
-  khoon mera sitamgaar ke haathon pe laga hai
-  bas mera lahoo haathon se wo apne hata le
+  gohar mere chine ye sitam maiṅ ne saha hai
+  khuṅ mera sitamgaar ke haathoṅ pe laga hai
+  bas mera lahu haathoṅ se wo apne hata le
   phir chaahe sakina ko..
-  rahwaron ko tayyar jo karte hai musalmaan
+  rahwaroṅ ko tayyar jo karte hai musalmaaṅ
   bhaiya ye sitam dekh ke mar jayengi amma
   pamaali se laasha ali asghar ka bacha le
   phir chaahe sakina ko..
-  karta hai dukhi shaah ki hamsheer ko jaise
-  lehrata hai wo chadar e tatheer ko jaise
-  naize pe mere baba ka sar yun na uchale
+  karta hai dukhi shaah ki hamshir ko jaise
+  lehrata hai wo chadar-e-tathir ko jaise
+  naize pe mere baba ka sar yuṅ na uchale
   phir chaahe sakina ko..
-  talwaron se chehre pa kayi zakhm lage hai
-  mazloom ke ye hont to pehle se kate hai
-  ab baba ke honton se chadi apni hata le
+  talwaroṅ se chehre pa kayi zakhm lage hai
+  mazlum ke ye hont to pehle se kate hai
+  ab baba ke hontoṅ se chari apni hata le
   phir chaahe sakina ko..
-  hum se sahi jaati nahi taashon ki aziyat
-  haste hai layeen dekh ke hum saaron ki haalat
+  hum se sahi jaati nahi taashoṅ ki aziyat
+  haste hai layiṅ dekh ke hum saaroṅ ki haalat
   raste se hamare ye tamashayi hata le
   phir chaahe sakina ko..
-  mai apne liye chahun to nahi maangti bhaiya
-  in shaam ki raahon mein faqat waqt de itna
-  daaman se karun saaf tere pairon ke chaale
+  mai apne liye chahuṅ to nahi maangti bhaiya
+  in shaam ki raahoṅ meiṅ faqat waqt de itna
+  daaman se karuṅ saaf tere pairoṅ ke chaale
   phir chaahe sakina ko..
-  akbar thi tadap kar ye sakina ki sadayein
-  rakta hai sar e ghazi pe behno ki ridayein
-  ye chadrein wo sar se chacha jaan ke utha le
+  akbar thi tarap kar ye sakina ki sadayeiṅ
+  rakta hai sar-e-ghazi pe behno ki ridayeiṅ
+  ye chadreiṅ wo sar se chacha jaaṅ ke utha le
   phir chaahe sakina ko..
 # source_id: nohayonline:f23c2ad611b293044c5c
 # source_url: https://www.nohayonline.com/details_content.php?id=2937

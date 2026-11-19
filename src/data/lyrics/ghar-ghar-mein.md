@@ -1,6 +1,6 @@
 ---
 title: "گھر گھر میں صفِ ماتمِ شبیر بچھا دے"
-alternateTitle: "Ghar Ghar Mein"
+alternateTitle: "Ghar Ghar Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

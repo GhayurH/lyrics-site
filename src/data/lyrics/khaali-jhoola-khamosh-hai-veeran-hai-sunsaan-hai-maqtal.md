@@ -13,50 +13,50 @@ romanLyrics: |-
   1
   Khamosh hai veeran hai sunsaan hai maqtal
   Ek maa ki sada sun ke pashemaan hai maqtal
-  Khaali jhoole ko ye maa kaise jhulaye asghar
+  Khaali jhule ko ye maa kaise jhulaye asghar
   Tera jaana jo mere dil ko dukhaye asghar
 
   2
-  Aa tere khoon bhare kapde badal doon beta
-  Khaak aur khoon mein hai chand sa chehra tera
-  Maa ye ashkon se tera chehra dhulaye asghar
-  Khaali jhoole ko ye...
+  Aa tere khuṅ bhare kapre badal duṅ beta
+  Khaak aur khuṅ meiṅ hai chand sa chehra tera
+  Maa ye ashkoṅ se tera chehra dhulaye asghar
+  Khaali jhule ko ye...
 
   3
-  Aa tere qadh se bada teer jo maara tujhko
+  Aa tere qadh se bara tir jo maara tujhko
   Aaja aaghosh meri degi dilaasa tujhko
-  Chand lamhon ke liye chain to paaye asghar
-  Khaali jhoole ko ye...
+  Chand lamhoṅ ke liye chain to paaye asghar
+  Khaali jhule ko ye...
 
   4
-  Tere jhoole ki taraf dekh ke dil rota hai
-  Kya kisi se pidar yun bhi juda hota hai
+  Tere jhule ki taraf dekh ke dil rota hai
+  Kya kisi se pidar yuṅ bhi juda hota hai
   Zakhm furqat ka teri maa ko rulaye asghar
-  Khaali jhoole ko ye...
+  Khaali jhule ko ye...
 
   5
-  Dekh le ghar ki tarha godh bhi ujdi meri
-  Maa ki aankhon se juda kaise ho tasveer teri
-  Neend aaye na mujhe gham ye jagaye asghar
-  Khaali jhoole ko ye...
+  Dekh le ghar ki tarha godh bhi ujri meri
+  Maa ki aankhoṅ se juda kaise ho tasvir teri
+  Nind aaye na mujhe gham ye jagaye asghar
+  Khaali jhule ko ye...
 
   6
-  Mujhpe kya baat gayi kaise bataun asghar
-  Dhoop mein qabr teri dekh rahi hai maadar
-  Tu bata kaise ye maa saaye mein jaaye asghar
-  Khaali jhoole ko ye...
+  Mujhpe kya baat gayi kaise batauṅ asghar
+  Dhup meiṅ qabr teri dekh rahi hai maadar
+  Tu bata kaise ye maa saaye meiṅ jaaye asghar
+  Khaali jhule ko ye...
 
   7
-  Bhool sakti hi nahi jhoole se jaana tera
-  Khaa ke ek teer e sitam pyaas bujhana tera
-  Jiske seene mein hai dil usko rulaye asghar
-  Khaali jhoole ko ye...
+  Bhul sakti hi nahi jhule se jaana tera
+  Khaa ke ek tir e sitam pyaas bujhana tera
+  Jiske sine meiṅ hai dil usko rulaye asghar
+  Khaali jhule ko ye...
 
   8
   Maa ki faryad suni safdar o mazhar hum ne
-  Mera waada hai sanad khuld ki doongi mai usay
-  Jo tere jhoole pe ye nauha sunaye asghar
-  Khaali jhoole ko ye...
+  Mera waada hai sanad khuld ki dungi mai use
+  Jo tere jhule pe ye nauha sunaye asghar
+  Khaali jhule ko ye...
 # source_id: nohayonline:be341ae1d6c85c3045f9
 # source_url: https://www.nohayonline.com/details_content.php?id=3753
 # raw_sha256: b420613a31e27bab70d440d7dd5b64fcc8211d8bd34daf7942faa32acf41538c

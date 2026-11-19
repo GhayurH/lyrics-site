@@ -1,6 +1,6 @@
 ---
 title: "اکبر نوجواں تجھکو ڈھونڈوں کہاں"
-alternateTitle: "Akbar Naujawan"
+alternateTitle: "Akbar Naujawaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

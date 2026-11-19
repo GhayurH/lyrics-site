@@ -39,7 +39,7 @@ romanLyrics: |-
   Husain wo hai Husain wo hai
 
   Shah ast Husain, Baadshah ast Husain
-  Din ast Husain, Din panaah ast Husain
+  Diṅ ast Husain, Diṅ panaah ast Husain
 
   4
   Wo jis ne khaak-e-shifa banaai

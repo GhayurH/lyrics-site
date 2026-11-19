@@ -9,77 +9,77 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Hussain Ya Hussain Ya Hussain
+  Ya Husain Ya Husain Ya Husain
 
   1
-  Ya Hussain kushta e tegh e jafa
-  Ya Hussain sibt e Rasool e Khuda
-  Haey sar bar sare naiza tera
-  Dar badar le gaye baani e jafa
-  Be dafan laasha e besar hay ghareeb e Zehra
-  Hay badan ghoron se pamal tera wa waila
+  Ya Husain kushta-e-tegh-e-jafa
+  Ya Husain sibt-e-Rasul-e-Khuda
+  Hae sar bar sare naiza tera
+  Dar badar le gaye baani-e-jafa
+  Bedafan laasha e besar hai gharib e Zehra
+  Hai badan ghoroṅ se pamal tera wa waila
 
   2
-  Nainawa dasht e bala Karbala
-  Kyun hui joar o jafa Karbala
-  Kia thi pyason ki khata Karbala
+  Nainawa dasht-e-bala Karbala
+  Kiuṅ hui joar o jafa Karbala
+  Kia thi pyasoṅ ki khata Karbala
   Kuch to keh kuch to bata Karbala
-  Apnay mehman pe ye bandish e pani kyunkar
-  Jis ki madar ko mehr may mila hoaz e Kausar
+  Apne mehman pe ye bandish-e-pani kiunkar
+  Jis ki madar ko mehr may mila hoaz-e-Kausar
 
   3
-  Aik maqtal may bahattar lashay
-  Bhanjay betay bhateejay pyasay
-  Para para huay saray aisay
-  Aik Quran ke paray jaisay
-  Khaak urr urr shaheedon ka kafan banti thi
+  Aik maqtal may bahattar lashe
+  Bhanje bete bhatije pyase
+  Para para hue sare aise
+  Aik Quran ke pare jaise
+  Khaak urr urr shahidoṅ ka kafan banti thi
   Khuld se Fatima Zehra ka sada aati thi
 
   4
-  Ik taraf behta tha darya e Furaat
-  Ik taraf pyason pe mushkil thi hayaat
-  Baad e Shabbir aseeron ki wo raat
-  Kaise guzri tan e sad pash ke sath
-  Koi bhai ko koi roti thi beton ke liye
-  Be kasi wo thi ke anson na thay ankhon ke liye
+  Ik taraf behta tha darya-e-Furaat
+  Ik taraf pyasoṅ pe mushkil thi hayaat
+  Baad-e-Shabbir asiroṅ ki wo raat
+  Kaise guzri tan-e-sad pash ke sath
+  Koi bhai ko koi roti thi betoṅ ke liye
+  Bekasi wo thi ke anson na the ankhoṅ ke liye
 
   5
-  Tashna lab be watan o be khata
-  Sar tha sajday may tehe taigh gala
-  Aik ik zakhm se khoon behta tha
-  Noha karti theen janab e Zehra
-  Khaime ke dar pe bahan karti thi faryad o fughan
-  Jaise sehra may kisi shakhs ki aawaz e azaan
+  Tashna lab bewatan o bekhata
+  Sar tha sajde may tehe taigh gala
+  Aik ik zakhm se khuṅ behta tha
+  Noha karti thiṅ janab e Zehra
+  Khaime ke dar pe bahan karti thi faryad o fughaṅ
+  Jaise sehra may kisi shakhs ki aawaz-e-azaaṅ
 
   6
-  Mar gaya sher e alamdar e jari
-  Chal gayi Qasim e mehroo pe churi
-  Mar gaya dasht may hamshakl e Nabi
-  Kha ke seenay pe sitam ki barchi
-  Ghar ka ghar Zainab e mazloom ka barbad hua
-  Lut gaya shehr e Nabi Karbala aabad hua
+  Mar gaya sher-e-alamdar-e-jari
+  Chal gayi Qasim-e-mehru pe churi
+  Mar gaya dasht may hamshakl-e-Nabi
+  Kha ke sine pe sitam ki barchi
+  Ghar ka ghar Zainab-e-mazlum ka barbad hua
+  Lut gaya shehr-e-Nabi Karbala aabad hua
 
   7
   Kat gaye bazoo e saqqa e haram
   Chid gayi mashk hua thanda alam
-  Khaima e sheh may tha barpa matam
-  Noha kartay thay sabhi Ahle haram
-  Aey alamdar utho chinti hay Zainab ki rida
-  Koi baqi na raha Abid e muztar ke siwa
-  Fatima Zehra ye deti hain dua
-  Ta qayamt rahay ye farsh e aza
-  Yunhi aati rahay matam ki sada
+  Khaima-e-sheh may tha barpa matam
+  Noha karte the sabhi Ahle haram
+  Ae alamdar utho chinti hai Zainab ki rida
+  Koi baqi na raha Abid-e-muztar ke siwa
+  Fatima Zehra ye deti haiṅ dua
+  Ta qayamt rahe ye farsh-e-aza
+  Yunhi aati rahe matam ki sada
   Ho har ik lab pe Hussaini noha
-  Hashr may sheh ke azadaron se pursa loon gi
-  May azadaron ko jannat ki basharat doon gi
+  Hashr may sheh ke azadaroṅ se pursa luṅ gi
+  May azadaroṅ ko jannat ki basharat duṅ gi
 
   8
   Kar ke Rehan may likhon Noha
-  Gham se seena hay mera Karb o bala
-  Ankh se behta hay khoon ka darya
-  Kartay hain qalb o jigar bhi girya
-  Haey wo bekas o mazloom wo be yaar Hussain
-  Roeen gay hashar talak tujh ko azadar Hussain
+  Gham se seena hai mera Karb o bala
+  Ankh se behta hai khuṅ ka darya
+  Karte haiṅ qalb o jigar bhi girya
+  Hae wo bekas o mazlum wo beyaar Husain
+  Roiṅ ge hashar talak tujh ko azadar Husain
 # source_id: ziyaraat:fe1a8574087c0120e0c0
 # source_url: https://www.ziyaraat.net/api/noha/2056
 # raw_sha256: b8580c9ff75aeddd046898dc87b309482d1d3fedf5d423e52f07aed763c47a82

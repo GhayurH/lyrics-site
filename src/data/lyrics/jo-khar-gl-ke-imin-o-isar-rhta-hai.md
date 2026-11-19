@@ -8,24 +8,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jo khaar gul ke yameen o yasar rehta hay
-  Qareeb jitna bhi rehta ho khaar rehta hay
+  Jo khaar gul ke yamin o yasar rehta hai
+  Qarib jitna bhi rehta ho khaar rehta hai
 
   1
-  Jo tap ke aaye ghadeer aur jang e khaibar se
-  Unhi ko bughz e Ali ka bukhar rehta hay
+  Jo tap ke aaye ghadir aur jang-e-khaibar se
+  Unhi ko bughz-e-Ali ka bukhar rehta hai
 
   2
-  Najaf may khuld may kaabay may qalb-e-momin may
-  Kahan kahan mera parwardigar rehta hay
+  Najaf may khuld may kaabe may qalb-e-momin may
+  Kahaṅ kahaṅ mera parwardigar rehta hai
 
   3
-  Na haadsaat e zaman na fikr barzakh o hashr
-  Ke gird naad-e-Ali ka hisaar rehta hay
+  Na haadsaat-e-zaman na fikr barzakh o hashr
+  Ke gird naad-e-Ali ka hisaar rehta hai
 
   4
-  Agar cheh hajj bhi karay aur namaz o roza bhi
-  Adoey aal e nabi beshumar rehta hay
+  Agar cheh hajj bhi kare aur namaz o roza bhi
+  Adoe aal-e-nabi beshumar rehta hai
 # source_id: ziyaraat:4857d03006ef990dff87
 # source_url: https://www.ziyaraat.net/api/noha/2285
 # raw_sha256: 73df9c89e97187bc95d42c545e2da153e9bbb0f3e296390128b33ce15b6aad35

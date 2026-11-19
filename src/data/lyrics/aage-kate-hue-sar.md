@@ -13,29 +13,29 @@ romanLyrics: |-
   1
   Gyara moharram ki aayi sehar
   Aaye rasan le ke kuch ahle shar
-  Qaidi bani saari shahzadiyan
-  Ek reesma mein sabhi nauha gar
-  Yun karbala se kiya aale nabi ne safar
-  Aage kate huwe sar peeche khule huwe sar
-  Maaon ki nazaron mein noor e nazar
-  Behno ki nazaron mein bhai ke sar
+  Qaidi bani saari shahzadiyaṅ
+  Ek reesma meiṅ sabhi nauha gar
+  Yuṅ karbala se kiya aale nabi ne safar
+  Aage kate huwe sar piche khule huwe sar
+  Maaoṅ ki nazaroṅ meiṅ nur-e-nazar
+  Behno ki nazaroṅ meiṅ bhai ke sar
   Mehmil kajawe na haudaj koi
-  Kaanton bhare raaston se guzar
-  Nauha aseeron ka hai
-  Kaise uthaayen nazar
+  Kaantoṅ bhare raastoṅ se guzar
+  Nauha asiroṅ ka hai
+  Kaise uthaayeṅ nazar
   Aage kate huwe sar...
   Naaqe se bali sakina giri
   Aur khaafile se juda ho gayi
-  Aaghosh mein sayyeda ne liya
-  Itne mein zainab wahan aa gayi
+  Aaghosh meiṅ sayyeda ne liya
+  Itne meiṅ zainab wahaṅ aa gayi
   Ro kar kaha dekh lo
   Amma hamara safar
   Aage kate huwe sar...
-  Takreeb manzil pe chautha qayaam
+  Takrib manzil pe chautha qayaam
   Esaayi muslim ne ki sulhe aam
-  Ek shaks le aaya kuch chaadarein
-  Tareekh mein jis ka yahya hai naam
-  Maloom jab ye hua
+  Ek shaks le aaya kuch chaadareiṅ
+  Tarikh meiṅ jis ka yahya hai naam
+  Malum jab ye hua
   Aale nabi hai magar
   Aage kate huwe sar...
   Kya zulm ki intaha ho gayi
@@ -45,40 +45,40 @@ romanLyrics: |-
   Ye dekh kar gir gaya
   Naize se ghazi ka sar
   Aage kate huwe sar...
-  Majma layeeno ka raahe kathan
+  Majma layino ka raahe kathan
   Barsaye pathar sabhi mard o zan
   Zainab kare kaise apna difa
-  Gardan mein haath aur us mein rasan
+  Gardan meiṅ haath aur us meiṅ rasan
   Khud se nahi uth saki
   Jab gir gayi khaak par
   Aage kate huwe sar...
   Zainab pe tehre na koi nazar
-  Quran padne laga sheh ka sar
+  Quran parne laga sheh ka sar
   Baba ko dekha to rone laga
   Zainab ko dekha hua nauhagar
   Sajjad bebas hua
   Jaaye to jaaye kidhar
   Aage kate huwe sar...
-  Raaste mein aaya jo shireen ka ghar
-  Shireen ke kaano mein pahunchi khabar
-  Khush hoke nikli hussain aa gaye
+  Raaste meiṅ aaya jo shiriṅ ka ghar
+  Shiriṅ ke kaano meiṅ pahunchi khabar
+  Khush hoke nikli Husain aa gaye
   Rone lagi phir wo ye dekh kar
-  Aaya hai kis haal mein
+  Aaya hai kis haal meiṅ
   Aaqa mera mere ghar
   Aage kate huwe sar...
   Ahle haram nauhagar aa gaye
-  Naizon pe shohda ke sar aa gaye
+  Naizoṅ pe shohda ke sar aa gaye
   Shabbir waade nibhaate huwe
   Ek raat raahib ke ghar aa gaye
   Raahib ka dil phat gaya
   Ye khaafla dekh kar
   Aage kate huwe sar...
   Bazaar to muqtasir hi sa tha
-  Adtees ghanton mein wo tay hua
-  Jab baabe saa'at pe pahunche haram
+  Artis ghantoṅ meiṅ wo tay hua
+  Jab baabe saaat pe pahunche haram
   Farhan o mazhar ajab waqt tha
   Kis tarha daakhil huwe
-  Darbar mein nauhagar
+  Darbar meiṅ nauhagar
   Aage kate huwe sar...
 # source_id: nohayonline:5b6c05370abd623d3a1d
 # source_url: https://www.nohayonline.com/details_content.php?id=2344

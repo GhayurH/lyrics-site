@@ -12,50 +12,50 @@ published: false
 romanLyrics: |-
   1
   Shaam ke zindan may ek choti si qaidi
-  Haathon may paon may aur gardan may hai rassi
-  Aur seene pe baba ka hai sar sar se hai lipti
+  Haathoṅ may paoṅ may aur gardan may hai rassi
+  Aur sine pe baba ka hai sar sar se hai lipti
   Moo pe moon ko rakh ke bahot dayr wo royi
   Haye rote rote us ne jo li aakhri hichki
-  Zindan may dam tod gayi shaah ki pyari
+  Zindan may dam tor gayi shaah ki pyari
   Sakina sakina
-  Karte thay sajjad ye nauha
-  Kaise mai dafnaun sakina
+  Karte the sajjad ye nauha
+  Kaise mai dafnauṅ sakina
   Qaidi agar qaid may mar jaata hai koi
-  Laash ko rassi se chuda dete hain us ki
-  Zakhmon may paywast rasan hai tere aise
-  Maine teri laash se rassi nahi kholi
-  Laasha bikhar jaye kahin na
-  Kaise mai dafnaun sakina...
-  Khoon rulaata hai ye manzar meri behna
-  Jism tera khoon may hai tar meri behna
-  Haathon pe laasha hai tera soch raha hoo
+  Laash ko rassi se chura dete haiṅ us ki
+  Zakhmoṅ may paywast rasaṅ hai tere aise
+  Maiṅ ne teri laash se rassi nahi kholi
+  Laasha bikhar jaye kahiṅ na
+  Kaise mai dafnauṅ sakina...
+  Khun rulaata hai ye manzar meri behna
+  Jism tera khun may hai tar meri behna
+  Haathoṅ pe laasha hai tera soch raha hoo
   Ghusl ko pani bhi mayassar nahi behna
   Tu hi bata de meri behna
-  Kaise mai dafnaun sakina...
-  Kaisi musibat ye padi door watan se
-  Baba bhi mehroom hai aur tu bhi kafan se
-  Chaahun chudhana to chuda bhi nahi sakta
-  Khoon bhara kurta jo chipka hai badan se
+  Kaise mai dafnauṅ sakina...
+  Kaisi musibat ye pari dur watan se
+  Baba bhi mehrum hai aur tu bhi kafan se
+  Chaahuṅ chudhana to chura bhi nahi sakta
+  Khun bhara kurta jo chipka hai badan se
   Tera kafan hai yehi kurta
-  Kaise mai dafnaun sakina...
-  Yaad mujhe aata hai ay ghamzada khwahar
-  Mujhse yehi poochti rehti thi tu aksar
-  Dafn mai ho jaun agar qaid e sitam may
-  Shimr na aa jaye kahin meri lehad par
+  Kaise mai dafnauṅ sakina...
+  Yaad mujhe aata hai ae ghamzada khwahar
+  Mujhse yehi puchti rehti thi tu aksar
+  Dafn mai ho jaun agar qaid-e-sitam may
+  Shimr na aa jaye kahiṅ meri lehad par
   Ab isi zindan may dukhiya
-  Kaise mai dafnaun sakina...
-  Tu hi nahi teri to saansein bhi thi qaidi
-  Dekhi nahi pehle kahin aisi aseeri
-  Sona jo chaaha to tujhe neend na aayi
-  Rona jo chaaha to tamachon ki saza thi
+  Kaise mai dafnauṅ sakina...
+  Tu hi nahi teri to saanseiṅ bhi thi qaidi
+  Dekhi nahi pehle kahiṅ aisi asiri
+  Sona jo chaaha to tujhe nind na aayi
+  Rona jo chaaha to tamachoṅ ki saza thi
   Hogi teri qabr bhi tanha
-  Kaise mai dafnaun sakina...
+  Kaise mai dafnauṅ sakina...
   Mazhar o farhan yehi baat hai nauha
-  Haathon pe ek qaidi ke ek qaidi ka laasha
-  Kaise bandhe haathon se mai qabr banaun
+  Haathoṅ pe ek qaidi ke ek qaidi ka laasha
+  Kaise bandhe haathoṅ se mai qabr banaun
   Sab ko rulaata tha ye sajjad ka jumla
   Haye wo sajjad ka kehna
-  Kaise mai dafnaun sakina...
+  Kaise mai dafnauṅ sakina...
 # source_id: nohayonline:a98b0e68c42990bd83af
 # source_url: https://www.nohayonline.com/details_content.php?id=2224
 # raw_sha256: de1a20b52224e328e8217551a9bfaf593c2d6db177d6c5405fa8f17378441e4d

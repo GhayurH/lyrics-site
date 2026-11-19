@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zindan se jab reha hue sadaat e karbala
+  Zindaṅ se jab reha hue sadaat e karbala
   Maa ne lipat ke qabr e sakina pe di sada
   Utho sakina chale karbala
   Choti si turbat pe maa ne kaha
-  Zindan se jaata hai ab khaafla
+  Zindaṅ se jaata hai ab khaafla
   Mujhe shaahzadi tumhari qasam
-  Na rakhungi zindan se bahar qadam
-  Safar ki ab hoti hai tayyariyan
-  Amari mein baithe hai ahle haram
+  Na rakhungi zindaṅ se bahar qadam
+  Safar ki ab hoti hai tayyariyaṅ
+  Amari meiṅ baithe hai ahle haram
   Ghurbat ka mere tumhe waasta
   Utho sakina chale...
   Wo pehle ke jaisi to ghurbat nahi
-  Ay bibi hamari wo haalat nahi
-  Tumhe shaamiyon se ab ay meri jaan
-  Kafan maangne ki zaroorat nahi
+  Ae bibi hamari wo haalat nahi
+  Tumhe shaamiyoṅ se ab ae meri jaaṅ
+  Kafan maangne ki zarurat nahi
   Lo mil gayi hai tumhari rida
   Utho sakina chale...
   Mujhe yaad asghar ki hai bekasi
   Lehad se wo mayyat nikali gayi
   Akele mai rehne na dungi tumhe
-  Bharosa nahi shamiyon ka koi
-  Rehte hai charon taraf ashkhiyan
+  Bharosa nahi shamiyoṅ ka koi
+  Rehte hai charoṅ taraf ashkhiyan
   Utho sakina chale...
-  Ye shaami kahan tumko behlayenge
+  Ye shaami kahaṅ tumko behlayenge
   Tumhari lehad par nahi aayenge
-  Rahega andhera hi zindan mein
-  Haram jab yahan se chale jayenge
+  Rahega andhera hi zindaṅ meiṅ
+  Haram jab yahaṅ se chale jayenge
   Kaun aayega phir jalane diya
   Utho sakina chale...
   Kahani padar ki sunaugi mai
-  Agar neend aayi sulaungi mai
+  Agar nind aayi sulaungi mai
   Akele na naaqe pe baithogi tum
   Tumhe saath apne bithaogi mai
-  Ab to rasan mein na hoga gala
+  Ab to rasan meiṅ na hoga gala
   Utho sakina chale...
   Mujhe maar daalega bas yehi gham
-  Kamar mein hai beti tumhari jo kham
-  Waram baazuon ka mujhe yaad hai
+  Kamar meiṅ hai beti tumhari jo kham
+  Waram baazuoṅ ka mujhe yaad hai
   Tumhe to dikhayi bhi deta hai kam
   Akbar se bibi milegi shifa
   Utho sakina chale...
-  Badi dayr tehri hai darbar mein
-  Yahan par na roko zyada unhe
+  Bari dayr tehri hai darbar meiṅ
+  Yahaṅ par na roko zyada unhe
   Ke pehlu pe ek haath rakhe huwe
   Sada de rahi hai sakina tumhe
   Lene ko aayi hai khud sayyeda
   Utho sakina chale...
-  Thi zindan mein akbar ajab wo ghadi
+  Thi zindaṅ meiṅ akbar ajab wo ghari
   Rehaai pe roti thi har ek phupi
-  Idhar khoon rota tha abid udhar
-  Sakina lehad mein tadapti rahi
+  Idhar khun rota tha abid udhar
+  Sakina lehad meiṅ tarapti rahi
   Jab bhi ye maadar ne ro kar kaha
   Utho sakina chale...
 # source_id: nohayonline:ccac656a953725015a97

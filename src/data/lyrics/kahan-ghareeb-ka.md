@@ -11,55 +11,55 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Gham e hussain may kaisa sharaf ye paaya hai
-  Ke apne haaton se mai ne alam sajaya hai
+  Gham e Husain may kaisa sharaf ye paaya hai
+  Ke apne haatoṅ se mai ne alam sajaya hai
   Suna hai aati hai majlis may fatema zehra
   Ye baat soch ke farsh e aza bichaya hai
   Karam ye majlis e shabbir ne kiya warna
-  Kahan ghareeb ka ghar aur kahan hussain ki maa
-  Khabar hai binte rasool e khuda ke aane ki
-  Badal rahi hai hawayein ghareeb khaane ki
-  Mera naseeb ke mehman hui meri zehra
-  Kahan ghareeb ka ghar...
+  Kahaṅ gharib ka ghar aur kahaṅ Husain ki maa
+  Khabar hai binte rasul e khuda ke aane ki
+  Badal rahi hai hawayeiṅ gharib khaane ki
+  Mera nasib ke mehmaṅ hui meri zehra
+  Kahaṅ gharib ka ghar...
   Farishte shaah o gadagar sabhi hai pesh e nazar
   Hai ambiya ki qataare lagi mere ghar par
   Tumhare aane se bibi ye martaba paaya
-  Kahan ghareeb ka ghar...
-  Ye majlis e shabbir may behte hue aansu
-  Firdaus ke baaghon may saja deti hai zehra
-  Shehzadi zameen par isay girne nahi deti
+  Kahaṅ gharib ka ghar...
+  Ye majlis-e-shabbir may behte hue aansu
+  Firdaus ke baaghoṅ may saja deti hai zehra
+  Shehzadi zamiṅ par ise girne nahi deti
   Bach jaaye to kausar may mila deti hai zehra
   Ye nauhakhani ye soz o salaam aur matam
   Hamare ashq hai bibi ke zakhm ka marham
   Agar na hote waseela ye matam o nauha
-  Kahan ghareeb ka ghar...
-  Ghareeb khane ko jannat bana diya bibi
+  Kahaṅ gharib ka ghar...
+  Gharib khane ko jannat bana diya bibi
   Khushi ye aisi hai jisne rula diya bibi
-  Har ek ashq ne aankhon se girte girte kaha
-  Kahan ghareeb ka ghar...
-  Sar e hussain jo shireen ke ghar may aaya tha
-  Sar e hussain ke hamraah aayi thi zerha
-  Jo dekha bibi ko shireen ne ye kiya nauha
-  Kahan ghareeb ka ghar...
+  Har ek ashq ne aankhoṅ se girte girte kaha
+  Kahaṅ gharib ka ghar...
+  Sar e Husain jo shiriṅ ke ghar may aaya tha
+  Sar e Husain ke hamraah aayi thi zerha
+  Jo dekha bibi ko shiriṅ ne ye kiya nauha
+  Kahaṅ gharib ka ghar...
   Jab kisi ghar may koi mar jaaye
   Dunya gham baatne ko aati hai
-  Haye kitni ghareeb hai zehra
+  Haye kitni gharib hai zehra
   Pursa lene bhi chal ke aati hai
-  Ghar may mere majlis huwi
+  Ghar me mere majlis huwi
   Aur bich gaya farsh e aza
-  Zaakir ne jab majlis padhi
-  Aur haal ruqsat ka jo padha
+  Zaakir ne jab majlis parhi
+  Aur haal ruqsat ka jo parha
   Itna royi zehra
-  Farhan aur mazhar padha
-  Nauha shahe mazloom ka
-  Tha zikr jab ashoor ka
+  Farhan aur mazhar parha
+  Nauha shahe mazlum ka
+  Tha zikr jab ashur ka
   Shabbir par khanjar chala
   Itna royi zehra
   Dete rahe ahle aza
   Ghazi ka pursa sarwar ka pursa
   Akbar ka qasim ka asghar ka pursa
   Itna royi zehra
-  Zainab ka kulsoom o fizza ka pursa
+  Zainab ka kulsum o fizza ka pursa
   Sajjad bali sakina ka pursa
   Itna royi zehra
   Baali ka pursa chadar ka pursa

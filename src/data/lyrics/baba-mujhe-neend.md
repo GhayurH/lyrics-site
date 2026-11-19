@@ -14,59 +14,59 @@ romanLyrics: |-
   Jab bali sakina ko mili laash padar ki
   Baba ke khareeb aake ye kehne lagi bacchi
   Rukhsar bhi zakhmi mera daaman bhi jala hai
-  Jaagi hoon kayi roz ki ek ye bhi jafa hai
-  Tum ne bhi na poocha to bahot roungi baba
-  Tum khud hi bata do ke kahan soungi baba
-  Baba mujhe ab neend aa rahi hai
-  Seene se teeron ko tum hatalo
-  Baba mujhe ab neend aa rahi hai
-  Sau zakhm seh kar bhi royi nahi hoon
-  Mai aath pehron se soyi nahi hoon
+  Jaagi huṅ kayi roz ki ek ye bhi jafa hai
+  Tum ne bhi na pucha to bahot roungi baba
+  Tum khud hi bata do ke kahaṅ soungi baba
+  Baba mujhe ab nind aa rahi hai
+  Sine se tiroṅ ko tum hatalo
+  Baba mujhe ab nind aa rahi hai
+  Sau zakhm seh kar bhi royi nahi huṅ
+  Mai aath pehroṅ se soyi nahi huṅ
   Sone nahi deti furqat tumhari
-  Laayi yahan tak mohabbat tumhari
-  Ek baar uth kar galay se laga lo
+  Laayi yahaṅ tak mohabbat tumhari
+  Ek baar uth kar gale se laga lo
   Baba mujhe ab...
   Jab se gaye aap gham bhi siwa hai
   Bewarison par sitam bhi siwa hai
   Karte hai nauha dil o jaan mere
   Rukhsar zakhmi hai aur kaan mere
-  Haathon ko apne jhoola bana lo
+  Haathoṅ ko apne jhula bana lo
   Baba mujhe ab...
   Pehnayi jo eid par tum ne mujhko
-  Wo baliyan chin gayi baba dekho
-  Kaano se mere lahoo beh raha hai
-  Rukhsar neele hai daaman jala hai
-  Hoon choor zakhmon se tum sambhalo
+  Wo baliyaṅ chin gayi baba dekho
+  Kaano se mere lahu beh raha hai
+  Rukhsar nile hai daaman jala hai
+  Huṅ chur zakhmoṅ se tum sambhalo
   Baba mujhe ab...
   Awaaz sunti hui ya bunayya
-  Pahunchi hoon laashe talak mehwe girya
-  Rukhsar seene pe rakhun mai kaise
-  Ay baba seene pe hai teer itne
-  Kuch dayr pehlu mein hi sula lo
+  Pahunchi huṅ laashe talak mehwe girya
+  Rukhsar sine pe rakhuṅ mai kaise
+  Ae baba sine pe hai tir itne
+  Kuch dayr pehlu meiṅ hi sula lo
   Baba mujhe ab...
   Dekhi nahi jaati haalat tumhari
   Mujhko rulaati hai ghurbat tumhari
   Ye soch kar paas aayi tumhare
   Phir shimr mujhko tamache na maare
-  Zaalim ki nazron se mujhko chupalo
+  Zaalim ki nazroṅ se mujhko chupalo
   Baba mujhe ab...
   Baba masayeb se chalni jigar hai
-  Ek shab ki mehman hoon kal safar hai
+  Ek shab ki mehman huṅ kal safar hai
   Bas aakhri raat sone do baba
   Phir so sakegi na bali sakina
-  Mujhko bhi dedo sukoon tum bhi paa lo
+  Mujhko bhi dedo sukuṅ tum bhi paa lo
   Baba mujhe ab...
-  Amma se aksar suna hai ye maine
-  Jannat se aaye thay kapde tumhare
+  Amma se aksar suna hai ye maiṅ ne
+  Jannat se aaye the kapre tumhare
   Khudrat tumhari hai pyase musafir
-  Mai hoon pareshan ab meri khaatir
+  Mai huṅ pareshan ab meri khaatir
   Jannat se koi bichona manga lo
   Baba mujhe ab...
   Mazhar sakina ki is bekasi par
   Qurban ho jaaye mai aur safdar
-  Rote thay ye sun ke shaahe madina
+  Rote the ye sun ke shaahe madina
   Karti thi faryaad bali sakina
-  Seene se teeron ko tum hata lo
+  Sine se tiroṅ ko tum hata lo
   Baba mujhe ab...
 # source_id: nohayonline:851f52d7a9166cfef5f5
 # source_url: https://www.nohayonline.com/details_content.php?id=3128

@@ -12,76 +12,76 @@ romanLyrics: |-
   1
   Maula maqtal may sar ko jhukaaye
   Laash-e-Akbar pe tanha khare hai
-  Dheeme dheeme tapakte hai aansu
-  Haey Sughra ka khat parh rahe hai
-  Bole kya may jawaab is ka doon
+  Dhime dhime tapakte hai aansu
+  Hae Sughra ka khat parh rahe hai
+  Bole kya may jawaab is ka duṅ
 
   2
-  Haey Sughra bata kya likhoon
-  Haey Sughra bata kya likhoon
+  Hae Sughra bata kya likhuṅ
+  Hae Sughra bata kya likhuṅ
 
   3
   1) May to pardes may lut gaya
   Apne lashkar ko may ro chuka
-  Tera baba ghareeb hogaya
-  Haey iske siwa kya likhoon
-  Haey Sughra bata kya likhoon
+  Tera baba gharib hogaya
+  Hae iske siwa kya likhuṅ
+  Hae Sughra bata kya likhuṅ
 
   4
   2) Aandhiya mera ghar legayi
   Mere lakht-e-jigar legayi
-  Mera noor-e-nazar legayi
-  Haey iske siwa kya likhoon
-  Haey Sughra bata kya likhoon
+  Mera nur-e-nazar legayi
+  Hae iske siwa kya likhuṅ
+  Hae Sughra bata kya likhuṅ
 
   5
   3) Khat tera ab sunaawu kise
   Kon meri sada par uthe
   Shab ko jaage huwe sogaye
-  Haey iske siwa kya likhoon
-  Haey Sughra bata kya likhoon
+  Hae iske siwa kya likhuṅ
+  Hae Sughra bata kya likhuṅ
 
   6
-  4) Haey Sughra wo bhai tera
+  4) Hai Sughra wo bhai tera
   Jisne tujh se tha wada kiya
   Kha gayi usko karbobala
-  Haey iske siwa kya likhoon
-  Haey Sughra bata kya likhoon
+  Hai iske siwa kya likhuṅ
+  Hae Sughra bata kya likhuṅ
 
   7
   5) Pyaar tune tha jisko likha
   Ghutinyo bhi jo na chal saka
-  Haan wo Asghar bhi ab na raha
-  Haey iske siwa kya likhoon
-  Haey Sughra bata kya likhoon
+  Haaṅ wo Asghar bhi ab na raha
+  Hae iske siwa kya likhuṅ
+  Hae Sughra bata kya likhuṅ
 
   8
   6) Shab ko dulha banaya jisse
   Raas aayi na mehendhi jisse
-  Royi sehre ki lariyaan jisse
-  Haey iske siwa kya likhoon
-  Haey Sughra bata kya likhoon
+  Royi sehre ki lariyaaṅ jisse
+  Hae iske siwa kya likhuṅ
+  Hae Sughra bata kya likhuṅ
 
   9
   7) Ab Sakina ka hafiz khuda
   Waqt Zainab pe bhi hai khara
   Mujh ko ghere huwe hai qaza
-  Haey iske siwa kya likhoon
-  Haey Sughra bata kya likhoon
+  Hae iske siwa kya likhuṅ
+  Hae Sughra bata kya likhuṅ
 
   10
   8) Ye to accha huwa laadli
   Apne ghar may tu rehgayi
   Beridaayi se to bachgayi
-  Haey iske siwa kya likhoon
-  Haey Sughra bata kya likhoon
+  Hae iske siwa kya likhuṅ
+  Hae Sughra bata kya likhuṅ
 
   11
-  9) Khat wo "Rehan-o-Sarwar" tha kya
+  9) Khat wo "Rehan o Sarwar" tha kya
   Khaak se mera maula utha
   Laash-e-Akbar pe khat rakhdiya
-  Haey iske siwa kya likhoon
-  Haey Sughra bata kya likhoon
+  Hae iske siwa kya likhuṅ
+  Hai Sughra bata kya likhuṅ
 # source_id: ziyaraat:b553e789038aaab49963
 # source_url: https://www.ziyaraat.net/api/noha/140
 # raw_sha256: 685512e6c2779d2317199a5c836679d5218b1fd0bf16ccc2f21edc2063acb553

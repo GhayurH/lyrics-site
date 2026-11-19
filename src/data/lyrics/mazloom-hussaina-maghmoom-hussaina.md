@@ -1,6 +1,6 @@
 ---
 title: "مظلوم حسینا مغموم حسینا"
-alternateTitle: "Mazloom Hussaina"
+alternateTitle: "Mazlum Hussaina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,20 +10,20 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mazloom hussaina maghmoom hussaina
+  Mazlum hussaina maghmum hussaina
 
   1
   Lachaar hussaina beyaar hussaina
-  Ay bekason ke khaafila salaar hussaina
+  Ae bekasoṅ ke khaafila salaar hussaina
   Wo khanjar e bepeer kuja haye muqaddar
   Aur bosagahe ahmed e mukhtar hussaina
-  Balkhaye na kyun dil mera jab noke sina par
+  Balkhaye na kiuṅ dil mera jab noke sina par
   Bandh jaye tere gaysu e khamdaar hussaina
-  Adam safiuallah se ta isie dauran
+  Adam safiuallah se ta isie dauraṅ
   Aisi na luti thi koi sarkar hussaina
-  Mazloom hussaina mazloom hussaina
-  Maghmoom hussaina maghmoom hussaina
-  Hai aale nabi be-sar o samaan hussaina
+  Mazlum hussaina mazlum hussaina
+  Maghmum hussaina maghmum hussaina
+  Hai aale nabi besar o samaan hussaina
   Ghar fatema ka hogaya veeran hussaina
 
   2
@@ -35,11 +35,11 @@ romanLyrics: |-
   Ghar fatema ka hogaya...
   Kaisi ye khiza aayi ke hum hogaye barbaad
   Zainab ki hai faryad
-  Ujda hai payambar ka gulistan hussaina
+  Ujra hai payambar ka gulistan hussaina
 
   4
   Ghar fatema ka hogaya...
-  Ashoor ke din lut gayi zehra ki kameini
+  Ashur ke din lut gayi zehra ki kameini
   Ya rab hai duhaai
   Islam pe ghar hogaya qurban hussaina
 
@@ -47,37 +47,37 @@ romanLyrics: |-
   Ghar fatema ka hogaya...
   Zianab pe hai tanhaai wo ab kisko bachaye
   Kya hogaya haye
-  Hai ahle haram ran mein pareshan hussaina
+  Hai ahle haram ran meiṅ pareshan hussaina
 
   6
   Ghar fatema ka hogaya...
-  Afsos jawan laal ko dulha na banaya
+  Afsos jawaaṅ laal ko dulha na banaya
   Sehra na sajaya
-  Poora na hua maa ka ye armaan hussaina
+  Pura na hua maa ka ye armaan hussaina
 
   7
   Ghar fatema ka hogaya...
   Aulaad e nabi lut gayi barbaad hua ghar
   Zainab hai khule sar
-  Ay tashna dahan kaari e quran hussaina
+  E tashna dahan kaari e quran hussaina
 
   8
   Ghar fatema ka hogaya...
-  Ghar kar diya qurban magar deen bachaya
+  Ghar kar diya qurban magar diṅ bachaya
   Har ranj uthaya
-  Hai deen e khuda par tera ehsaan hussaina
+  Hai din e khuda par tera ehsaan hussaina
 
   9
   Ghar fatema ka hogaya...
-  Sarkar e jina dosh e nabi ka wo makeen hai
-  Nabiyon ka yakeen hai
+  Sarkar e jina dosh e nabi ka wo makiṅ hai
+  Nabiyoṅ ka yakiṅ hai
   Ummat ne bhulayi hai teri shaan hussaina
 
   10
   Ghar fatema ka hogaya...
   Sar tan se juda hogaya aur baad e shahadat
   Hai teri ye azmat
-  Padta raha naize pe tu quran hussaina
+  Parta raha naize pe tu quran hussaina
 
   11
   Ghar fatema ka hogaya...
@@ -87,8 +87,8 @@ romanLyrics: |-
 
   12
   Ghar fatema ka hogaya...
-  Yazdan ke labon par hai muhib ab yehi nauha
-  Maghmoom hai zehra
+  Yazdaṅ ke laboṅ par hai muhib ab yehi nauha
+  Maghmum hai zehra
   Hai bain ye dukhiya ka meri jaan hussaina
 
   13

@@ -19,7 +19,7 @@ romanLyrics: |-
 
   2
   Koi qari bataye mujhe
-  Zainab ki rida kyun chini
+  Zainab ki rida kiun chini
   Zainab haya ki malka Kuch to jawab do
 
   3

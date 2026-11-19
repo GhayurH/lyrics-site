@@ -9,42 +9,42 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab chalay ran ko shah e Karb o bala
+  Jab chale ran ko shah-e-Karb o bala
   Shor khaimo may tha qayamat ka
   Sheh ne beti ko goad may jo liya
-  Us ne ro kar padar se ye poocha
-  Baba itna mujhe batayain gay
-  Kia Sakina ko bhool payain gay
+  Us ne ro kar padar se ye pucha
+  Baba itna mujhe batayaiṅ ge
+  Kia Sakina ko bhul payaiṅ ge
 
   2
-  Is qadar aap ka hay khushk gala
-  Aah bharnay ka hosla na raha
-  Kis tarha lorian sunayain gay
-  Kia Sakina ko bhool payain gay
+  Is qadar aap ka hai khushk gala
+  Aah bharne ka hosla na raha
+  Kis tarha loriaṅ sunayaiṅ ge
+  Kia Sakina ko bhul payaiṅ ge
 
   3
-  Apnay jazbat kar liye qaboo
-  Aap ne zabt kar liye ansoo
-  Zakhm e dil kis tarha chupayain gay
-  Kia Sakina ko bhool payain gay
+  Apne jazbat kar liye qabu
+  Aap ne zabt kar liye ansu
+  Zakhm-e-dil kis tarha chupayaiṅ ge
+  Kia Sakina ko bhul payaiṅ ge
 
   4
   Koi baqi nahi raha baba
   Aap khud ja ke laye har lasha
-  Apni khatir kisay bulayain gay
-  Kia Sakina ko bhool payain gay
+  Apni khatir kise bulayaiṅ ge
+  Kia Sakina ko bhul payaiṅ ge
 
   5
-  Aakhri bar dekh loon chehra
-  Mujh ko janay hay kyun yaqeen baba
-  Aap ab loat kar na aayain gay
-  Kia Sakina ko bhool payain gay
+  Aakhri bar dekh luṅ chehra
+  Mujh ko jane hai kiuṅ yaqiṅ baba
+  Aap ab loat kar na aayaiṅ ge
+  Kia Sakina ko bhul payaiṅ ge
 
   6
   Sheh ne beti ke sar pe hath rakha
   Aur darwesh ro ke itna kaha
-  Tum se pehlay na khuld jayain gay
-  Kia Sakina ko bhool payain gay
+  Tum se pehle na khuld jayaiṅ ge
+  Kia Sakina ko bhul payaiṅ ge
 # source_id: ziyaraat:ec2fb356a73a32b147c6
 # source_url: https://www.ziyaraat.net/api/noha/2323
 # raw_sha256: 9e4d676583ac4c4ddefe678b629ff4d64dbe3a1477e7785c577133c928a1de2c

@@ -1,6 +1,6 @@
 ---
 title: "نہ بھولنے دیں گی نہ بھولنے دیں گی"
-alternateTitle: "Na Bhoolne Dengi"
+alternateTitle: "Na Bhulne Dengi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,23 +11,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Na bhoolne dengi na bhoolne dengi
-  Dunya ko faramosh yun karne nahi dengi
+  Na bhulne dengi na bhulne dengi
+  Dunya ko faramosh yuṅ karne nahi dengi
   Bhaiya tujhe zainab kabhi marne nahi dengi
   Parcham mai teri fatha ka lehra ke rahungi
-  Ghar ghar mein tera naam mai pahuncha ke rahungi
-  Aankhon ko kabhi ashkon se bharne nahi dengi
+  Ghar ghar meiṅ tera naam mai pahuncha ke rahungi
+  Aankhoṅ ko kabhi ashkoṅ se bharne nahi dengi
   Bhaiya tujhe zainab...
   Baatil se kabhi haq ka wali dar nahi sakta
   Waada hai mera mar ke bhi tu mar nahi sakta
-  Khursheed e imamat kabhi bujhne nahi dengi
+  Khurshid e imamat kabhi bujhne nahi dengi
   Bhaiya tujhe zainab...
   Mar jaaye mera laal fida ho mera akbar
-  Allah ki is raah mein lut jaaye bhara ghar
+  Allah ki is raah meiṅ lut jaaye bhara ghar
   Asghar ko bhi ab maut se darne nahi dengi
   Bhaiya tujhe zainab...
   Rutba jo tera hai wo kabhi ghat nahi sakta
-  Jeete ji mere naam tera mit nahi sakta
+  Jite ji mere naam tera mit nahi sakta
   Parcham tere inkaar ka jhukne nahi dengi
   Bhaiya tujhe zainab...
   Ab naala o shewan bhi na ghabra ke karungi
@@ -38,17 +38,17 @@ romanLyrics: |-
   Paaya na mere bhai ne do boond bhi pani
   Hal min ki sada ab kabhi dabne nahi dengi
   Bhaiya tujhe zainab...
-  Bhaiya mai bandhe haathon se ye kaam karungi
+  Bhaiya mai bandhe haathoṅ se ye kaam karungi
   Ek ek musibat mai teri aam karungi
   Dil soz shahadat teri chipne nahi dengi
   Bhaiya tujhe zainab...
-  Hai meri rasaayi meri awaaz jahan tak
-  Pahunchaungi mai ab tera paigham wahan tak
+  Hai meri rasaayi meri awaaz jahaṅ tak
+  Pahunchaungi mai ab tera paigham wahaṅ tak
   Is rang e azadari ko ghatne nahi dengi
   Bhaiya tujhe zainab...
   Aamir ye azadaar hai zainab ki dua se
-  Ainee ye sada aati hai har farshe aza se
-  Matam kabhi mazloom ka rukne nahi dengi
+  Aini ye sada aati hai har farshe aza se
+  Matam kabhi mazlum ka rukne nahi dengi
   Bhaiya tujhe zainab....
 # source_id: nohayonline:2b23ce569c95894561a0
 # source_url: https://www.nohayonline.com/details_content.php?id=1630

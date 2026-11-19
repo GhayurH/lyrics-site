@@ -12,12 +12,12 @@ romanLyrics: |-
   Loko may ujar gayi aan
 
   1
-  Mera maariya veer Hussain
+  Mera maariya veer Husain
 
   2
   Zainab paye kardi hai vain
   Lokon may ujar gaye aan
-  1) Mazloom Hussain di lash utay
+  1) Mazloom Husain di lash utay
   Aj sog di malka aayi hai
   Keevain kafan puwawan chan veeran
   Meri chadar vi na ray ay
@@ -26,7 +26,7 @@ romanLyrics: |-
   3
   2) Tu saang uthay main mehmaal tay
   Haey Shaam diyaan nay raavan
-  Main bhul gayan Awn-o-Mohammad nu
+  Main bhul gayan Awn o Mohammad nu
   Ghazi diyan katiyan bavan
   Haey kon sunay meray vain
 

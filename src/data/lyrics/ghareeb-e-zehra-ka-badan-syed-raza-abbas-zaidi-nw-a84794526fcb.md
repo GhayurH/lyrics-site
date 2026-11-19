@@ -1,6 +1,6 @@
 ---
 title: "غریبِ زہراؑ کا یہ بدن ھے"
-alternateTitle: "Ghareeb e Zehra Ka Badan"
+alternateTitle: "Gharib-e-Zehra Ka Badan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -19,80 +19,80 @@ published: false
 # source_url: https://tajpoints.com/2022/07/ghareeb-e-zehra-ka-badan-syed-raza.html
 # raw_sha256: c296afd0def1461388041b1526c4f1946cd849f966fe4356fe07b1d7a81cc5ad
 romanLyrics: |-
-  Jo Garam Reti Pe Be Kafan Hai
-  Ghareeb-e-Zahra Ka Yeh Badan Hai
+  Jo Garam Reti Pe Bekafan Hai
+  Gharib-e-Zahra Ka Yeh Badan Hai
 
   1
-  Kiya Hai Pamal Iss Ko Ran Mein
-  Hain Zakhm Hi Zakhm Iss Badan Mein
+  Kiya Hai Pamal Iss Ko Ran Meiṅ
+  Haiṅ Zakhm Hi Zakhm Iss Badan Meiṅ
   Nahi Hai Koi Uthane Wala
-  Bohat Akela Hai Iss Watan Mein
-  Idhar Ki Sab Pasliyaan Udhar Hain
-  Udhar Ki Sab Pasliyaan Idhar Hain
+  Bohat Akela Hai Iss Watan Meiṅ
+  Idhar Ki Sab Pasliyaaṅ Udhar Haiṅ
+  Udhar Ki Sab Pasliyaaṅ Idhar Haiṅ
 
   2
-  Padar Ke Seene Pe Soney Wali
-  Jab Iss Badan Ke Qareeb Pohanchi
-  Yeh Aa Ke Shimar Laeen Ne Dekha
+  Padar Ke Sine Pe Sone Wali
+  Jab Iss Badan Ke Qarib Pohanchi
+  Yeh Aa Ke Shimar Laiṅ Ne Dekha
   Padar Se Lipati Hoi Thi Beti
-  Pakar Ke Baloon Se Jab Choraya
-  Badan Zameen Par Tarap Raha Tha
+  Pakar Ke Baluṅ Se Jab Choraya
+  Badan Zamiṅ Par Tarap Raha Tha
 
   3
   Yeh Woh Badan Hai Keh Jis Ka Seena
-  Haan Chomtay They Sheh-e-Madina
-  Bhara Hai Teeron Se Haye Ghurbat
-  Kahan Pe Soye Gi Ab Sakina
+  Haaṅ Chomte The Sheh-e-Madina
+  Bhara Hai Tiroṅ Se Haye Ghurbat
+  Kahaṅ Pe Soye Gi Ab Sakina
   Yehi Woh Seena Hai Jis Pe Charh Kar
-  Laeen Ne Kata Hussain Ka Sar
+  Laiṅ Ne Kata Husain Ka Sar
 
   4
-  Akela Lakhon Se Zakhm Kha Kar
+  Akela Lakhoṅ Se Zakhm Kha Kar
   Yeh So Gaya Jab Sitam Utha Kar
-  Andherey Ban Mein Issi Badan Se
+  Andhere Ban Meiṅ Issi Badan Se
   Behan Ne Pathar Hataye Aa Kar
   Na Jane Zainab Ne Kaisa Dekha
-  Ghareeb Bhai Ka Zakhmi Lasha
+  Gharib Bhai Ka Zakhmi Lasha
 
   5
-  Laeen Woh Bajdal Tha Naam Jis Ka
-  Sirhaney Jab Iss Badan Ke Pohancha
+  Laiṅ Woh Bajdal Tha Naam Jis Ka
+  Sirhane Jab Iss Badan Ke Pohancha
   Angothi Kis Tarha Lotta Woh
-  Tha Zakhmi Hathoon Pe Waram Itna
+  Tha Zakhmi Hathuṅ Pe Waram Itna
   Na Utari Zalim Se Jab Angothi
   Tu Kaat Kar Le Gaya Woh Ungli
 
   6
-  Saron Ko Naizon Pe Jab Charhaya
+  Saroṅ Ko Naizoṅ Pe Jab Charhaya
   Sar Aik Chota Sa Mil Na Paya
-  Laeen Ne Naiza Zameen Pe Mara
+  Laiṅ Ne Naiza Zamiṅ Pe Mara
   Tu Lasha Asghar Ka Sath Aaya
   Padar Ke Zakhmi Badan Pe Rakh Kar
-  Chalaya Nanhay Galay Pe Khanjar
+  Chalaya Nanhe Gale Pe Khanjar
 
   7
-  Kahin Pe Talwar Ke Nishaan Hain
-  Kahin Pe Naizay Hain Barchiyaan Hain
+  Kahiṅ Pe Talwar Ke Nishaaṅ Haiṅ
+  Kahiṅ Pe Naize Haiṅ Barchiyaaṅ Haiṅ
   Lahu Bhi Zakhmo Se Ris Raha Hai
-  Ghareeb Ki Zakhmi Ayeriyaan Hain
+  Gharib Ki Zakhmi Ayeriyaaṅ Haiṅ
   Badan Hai Yeh Chak Chak Haye
-  Bhari Hai Zakhmo Mein Khak Haye
+  Bhari Hai Zakhmo Meiṅ Khak Haye
 
   8
   Hoi Thi Woh Jin Ki Naal Bandi
-  They Aam Ghoron Se Our Wazni
-  Jo Ghorey Doray They Iss Badan Par
+  The Aam Ghoroṅ Se Our Wazni
+  Jo Ghore Dore The Iss Badan Par
   Kuchalna Unn Ki Khasosiyat Thi
   Na Jane Kis Tarha Maa Ne Dekha
-  Summo Ke Neechay Ghareeb Beta
+  Summo Ke Niche Gharib Beta
 
   9
-  Hussain Ki Jab Lehad Pe Jana
-  Raza-o- Zeeshan Yaad Rakhna
-  Bichi Hai Turbat Mein Ik Chatai
-  Yeh Dil Ki Aankhon Se Dekh Lena
-  Wahin Yeh Zakhmi Badan Rakha Hai
-  Sagheer Seene Pe So Raha Hai
+  Husain Ki Jab Lehad Pe Jana
+  Raza-o- Zishan Yaad Rakhna
+  Bichi Hai Turbat Meiṅ Ik Chatai
+  Yeh Dil Ki Aankhoṅ Se Dekh Lena
+  Wahiṅ Yeh Zakhmi Badan Rakha Hai
+  Saghir Sine Pe So Raha Hai
 ---
 جو گرم ریتی پہ بے کفن ھے
 غریبِ زہراؑ کا یہ بدن ھے

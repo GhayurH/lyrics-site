@@ -1,6 +1,6 @@
 ---
 title: "فاطمہ یتیم ہو گئی"
-alternateTitle: "Fatema Yateem Ho Gayi"
+alternateTitle: "Fatema Yatim Ho Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,70 +14,70 @@ romanLyrics: |-
   Subbat alayya masaibu law annaha
   Subbat alal ayyami sirna layaliya
 
-  Jiska jee chaahe wo zehra pe sitam dhaata hai
-  Pursa kya aise yateemon ko diya jaata hai
+  Jiska ji chaahe wo zehra pe sitam dhaata hai
+  Pursa kya aise yatimoṅ ko diya jaata hai
   Mera darwaza jalaya kar diya pehlu shikasta
-  Phasliyan tod di meri
+  Phasliyaṅ tor di meri
   Ya ali hyder e karrar
   Kya unhe khabar nahi ali
-  Fatema yateem ho gayi
+  Fatema yatim ho gayi
   Zahra haye zahra zahra haye zahra
 
   1
-  Sochti thi mustafa ki hoon mai laadli
+  Sochti thi mustafa ki huṅ mai laadli
   Pursa dene aayenge madine se sabhi
   Intezar farshe gham pe karti reh gayi
   Mere sar pe haath rakhne aaya na koi
-  Teen din ke baad aaye to
+  Tin din ke baad aaye to
   Ghar mera jala diya ali
 
   2
-  Zaalimon ne jalta dar giraya jis ghadi
+  Zaalimoṅ ne jalta dar giraya jis ghari
   Haye mujhko fikr thi bas apne laal thi
-  Phasliyon ke tootne ki kab sada suni
+  Phasliyoṅ ke tutne ki kab sada suni
   Mera mohsin ab nahi bacha samajh gayi
   Jiska intezar tha mujhe
   Chehra uska dekh na saki
 
   3
   Aap se na jaane unko kitna bughz tha
-  Ya ali kaha to aage ek layeen bada
-  Kya bataun jab talak wo thak nahi gaya
+  Ya ali kaha to aage ek layiṅ bara
+  Kya batauṅ jab talak wo thak nahi gaya
   Haath par wo taaziyane maarta raha
-  Ungliyon mein itna dard hai
+  Ungliyoṅ meiṅ itna dard hai
   Haath na uthega ab kabhi
 
   4
-  Kaise ye tamache ka nishan chupaungi
-  Poochega hussain to mai kya bataungi
-  Kaise apne bachon se nzazar milaungi
-  Saamne hassan ke ab mai kaise jaungi
-  Mujhpe haath utha jahan kabhi
-  Bhool na sakungi wo gali
+  Kaise ye tamache ka nishaṅ chupaungi
+  Poochega Husain to mai kya bataungi
+  Kaise apne bachoṅ se nzazar milaungi
+  Saamne Hasan ke ab mai kaise jaungi
+  Mujhpe haath utha jahaṅ kabhi
+  Bhul na sakungi wo gali
 
   5
-  Mujhko dekhte hi masnad apni chod kar
-  Karte thay adab mera jahan mere padar
-  Jaane kab talak khadi thi mai magar
-  Baithe has rahe thay sab wo mere haal par
-  Unka ye sulook dekh kar
-  Dekho mai zaeefa hogayi
+  Mujhko dekhte hi masnad apni chor kar
+  Karte the adab mera jahaṅ mere padar
+  Jaane kab talak khari thi mai magar
+  Baithe has rahe the sab wo mere haal par
+  Unka ye suluk dekh kar
+  Dekho mai zaifa hogayi
 
   6
-  Zakhmi aur yateem meri tarha ya ali
-  Hogi ek laadli mere hussain ki
+  Zakhmi aur yatim meri tarha ya ali
+  Hogi ek laadli mere Husain ki
   Choti zehra hone pe sitam uthayegi
   Qaid hoke jab wo shehre shaam jayegi
   Khayegi tamache shimr ke
-  Raah mein sakina bhi meri
+  Raah meiṅ sakina bhi meri
 
   7
-  Kaise zeeshan likhe kis tarha farhan padhe
-  Fatema zehra pe jo zulm madine mein huwe
+  Kaise zishan likhe kis tarha farhan parhe
+  Fatema zehra pe jo zulm madine meiṅ huwe
   Bibi har zulm pe kehti thi yehi ro ro ke
-  Kya yateemon pe sitam karta hai koi aise
+  Kya yatimoṅ pe sitam karta hai koi aise
   Hai dua waqt kisi maa pe na aaye aisa
-  Saamne bachon ke jis tarha mujhe maara gaya
+  Saamne bachoṅ ke jis tarha mujhe maara gaya
 # source_id: nohayonline:2d14a55aafffc8b187c2
 # source_url: https://www.nohayonline.com/details_content.php?id=3078
 # raw_sha256: 5cfc3cbf297b0bb784383354819c114ae9996942551372a7924b145d5d39cfa6

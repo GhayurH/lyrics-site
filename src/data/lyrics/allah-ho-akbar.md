@@ -11,81 +11,81 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Roze ashoor hai zuljanah par sawaar
-  Gham ka seene pe baar
-  Kaun maqtal mein aata hai parwardigaar
-  Dil mein bhai ka beton ka apno ka gham
+  Roze ashur hai zuljanah par sawaar
+  Gham ka sine pe baar
+  Kaun maqtal meiṅ aata hai parwardigaar
+  Dil meiṅ bhai ka betoṅ ka apno ka gham
   Seh raha hai musalsal sitam par sitam
-  Khoon mein dooba libaas e ghareebi liye
-  Ran mein dekho hussain aa raha hai
-  Khushk honton se sookhi zaban se
+  Khuṅ meiṅ duba libaas-e-gharibi liye
+  Ran meiṅ dekho Husain aa raha hai
+  Khushk hontoṅ se sukhi zabaṅ se
   Jo sada pe sada de raha hai
-  Shaamiyon shaamiyon
-  Shaamiyon aao maqtal mein aao
+  Shaamiyoṅ shaamiyoṅ
+  Shaamiyoṅ aao maqtal meiṅ aao
   Ek pyase ki jang dekho ek pyase ki jang dekho
   Allahu akbar allahu akbar
   Naam mere khuda ka rahega
   Kalma e la ilaaha rahega
-  Deen quran kaaba rahega
+  Din quran kaaba rahega
   Mera islam zinda rahega
-  Taygh meri qaza mein dhali hai
-  Mere baazu mein zor e ali hai
-  Shaamiyon shaamiyon...
+  Taygh meri qaza meiṅ dhali hai
+  Mere baazu meiṅ zor e ali hai
+  Shaamiyoṅ shaamiyon...
   Karbala haq ki taaqat rahegi
-  Ye lahoo ki tamazat rahegi
+  Ye lahu ki tamazat rahegi
   Meri dharti ki izzat rahegi
   Mere parcham ki hurmat rahegi
   Khatm ho jaayegi har ghulami
-  Mujhko tareekh degi salaami
-  Shaamiyon shaamiyon...
-  Tum ho sairaab aur mai hoo pyasa
-  Tum hazaron ho aur mai hoo tanha
-  Mar gaya hai jawan bhai mera
-  Le gaya noor aankhon ka beta
+  Mujhko tarikh degi salaami
+  Shaamiyoṅ shaamiyon...
+  Tum ho sairaab aur mai hu pyasa
+  Tum hazaroṅ ho aur mai hu tanha
+  Mar gaya hai jawaaṅ bhai mera
+  Le gaya nur aankhoṅ ka beta
   Jang ka naam ab tum na loge
   Kya ali aagaye ye kahoge
-  Shaamiyon shaamiyon...
-  Khoon kyun aadmi ka bahayein
-  Amn ke phool har jaa khilayein
-  Saari insaniyat ko jagayein
-  Zulm se haan magar haath uthayein
-  Tum ne majboor mujhko kiya hai
+  Shaamiyoṅ shaamiyon...
+  Khun kiuṅ aadmi ka bahayeiṅ
+  Amn ke phul har jaa khilayeiṅ
+  Saari insaniyat ko jagayeiṅ
+  Zulm se haaṅ magar haath uthayeiṅ
+  Tum ne majbur mujhko kiya hai
   Ab meri taygh o amr e khuda hai
-  Shaamiyon shaamiyon...
-  Wo jo laashon pe laashe uthaye
+  Shaamiyoṅ shaamiyon...
+  Wo jo laashoṅ pe laashe uthaye
   Ek khatra jo pani na paaye
-  Jis ka ghoda bhi thak kar kara hai
-  Jang us ki hazaron se haaye
-  Phir bhi jinn o malak jang dekhein
-  Arsh waale meri jang dekhein
-  Shaamiyon shaamiyon...
+  Jis ka ghora bhi thak kar kara hai
+  Jang us ki hazaroṅ se haaye
+  Phir bhi jinn o malak jang dekheiṅ
+  Arsh waale meri jang dekheiṅ
+  Shaamiyoṅ shaamiyon...
   Mere baba ali aa chuke hai
-  Mere bhaiya hassan aa chuke hai
+  Mere bhaiya Hasan aa chuke hai
   Daad abbas bhi de rahe hai
   Mujhko akbar mere dekhte hai
-  Dar e qaima pe behne khadi hai
+  Dar e qaima pe behne khari hai
   Amma zahra dua de rahi hai
-  Shaamiyon shaamiyon...
-  Jab kiya pad ke takbeer hamla
+  Shaamiyoṅ shaamiyon...
+  Jab kiya pad ke takbir hamla
   Shor uthne laga al amaan ka
   Shola e zulfiqar aisa chamka
-  Paaon tak khoon mein dooba tha ghoda
-  Ran mein uthne lagi khoon ki maujein
-  Jaa ke kufe se takrayi faujein
-  Shaamiyon shaamiyon...
+  Paaoṅ tak khuṅ meiṅ duba tha ghora
+  Ran meiṅ uthne lagi khuṅ ki maujeiṅ
+  Jaa ke kufe se takrayi faujeiṅ
+  Shaamiyoṅ shaamiyon...
   Jab ye dekha falak se ye manzar
-  Bola jibreel se rabb e akbar
+  Bola jibril se rabb e akbar
   Keh do shabbir se ab ye jaa kar
-  Imtehan khatm hai ibne hyder
+  Imtehaṅ khatm hai ibne hyder
   Mutmain nafs waale palat aa
   Rab tera tujhse raazi hua
   Tera zaakir hai tera khuda
-  Ay hussain irjaeee irjaeee marhaba
+  Ae Husain irjaie irjaie marhaba
   Shor rehaan o sarwar utha
-  Asr e aashoor ka waqt tha
-  Aa rahi thi azaan ki sada
-  Sheh ne sajde mein sar rakh diya
-  Ya hussain ya hussain ya hussain ya hussain
+  Asr-e-aashur ka waqt tha
+  Aa rahi thi azaaṅ ki sada
+  Sheh ne sajde meiṅ sar rakh diya
+  Ya Husain ya Husain ya Husain ya Husain
 # source_id: nohayonline:d6c5460aeb67158c0088
 # source_url: https://www.nohayonline.com/details_content.php?id=2608
 # raw_sha256: 67a9b1f5d39b01e1e7d13b62fda41304b0d3e3d341ee22cdbc6f4d855d09f5b2

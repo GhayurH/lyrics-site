@@ -12,105 +12,105 @@ published: false
 romanLyrics: |-
   1
   Karbala karbala
-  Roz azadaron ke hum khaafile
+  Roz azadaroṅ ke hum khaafile
   Dekhte hai karbala jaate huwe
   Hum ko bhi sarkar bula lijiye
   Bula lijiye bula lijiye
   Sab ki sada karbala
   Sab ki dua karbala
-  Poocho azadaron se to sab ye kahenge
+  Poocho azadaroṅ se to sab ye kahenge
   Bas maula bulalein
-  Sun lein sadayein
-  Hum ko dikhayein karbobala
-  Kaash hamein hazrat e abbas bulayein
-  Karbobala ka hamein deedar karadein
-  Hussain ya hussain
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Kaash hameiṅ hazrat e abbas bulayeiṅ
+  Karbobala ka hameiṅ didar karadeiṅ
+  Husain ya Husain
   Karbobala jaan e azadaar hai
   Karbobala ishq ka darbar hai
   Karbobala jannat e zawwar hai
-  Saara jahan jis ka talabgaar hai
+  Saara jahaṅ jis ka talabgaar hai
   Karbobala jaan hai
   Sab ka ye armaan hai
   Rauza e shabbir pe sab mil ke chalenge
   Bas maula bulalein
-  Sun lein sadayein
-  Hum ko dikhayein karbobala
-  Kaash hamein hazrat e abbas bulayein
-  Karbobala ka hamein deedar karadein
-  Hussain ya hussain
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Kaash hameiṅ hazrat e abbas bulayeiṅ
+  Karbobala ka hameiṅ didar karadeiṅ
+  Husain ya Husain
   Maula hum ne hamesha se yehi hai suna
   Maal se daulat se nahi waasta
   Jis pe karam hota hai abbas ka
   Log wohi jaate hai karbobala
-  Ghazi bula lo hamein
-  Rauza dikha do hamein
-  Hum to bas ab tum se hi faryad karenge
+  Ghazi bula lo hameiṅ
+  Rauza dikha do hameiṅ
+  Hum to bas ab tum se hi faryad kareṅge
   Bas maula bulalein
-  Sun lein sadayein
-  Hum ko dikhayein karbobala
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
   Sab ki sada karbala
   Sab ki dua karbala
-  Poocho azadaron se to sab ye kahenge
+  Poocho azadaroṅ se to sab ye kahenge
   Maula ab bhi caroro hai muhib aap ke
   Karbobala jo ke nahi aa sake
-  Dil mein ziyaraat ki hasrat liye
-  Kehte hai maula hamein bulwaiye
+  Dil meiṅ ziyaraat ki hasrat liye
+  Kehte hai maula hameiṅ bulwaiye
   Ya shah e karbobala
   Un ki bhi sun lo sada
-  Wo bhi bulaawe ka intezar karenge
+  Wo bhi bulaawe ka intezar kareṅge
   Bas maula bulalein
-  Sun lein sadayein
-  Hum ko dikhayein karbobala
-  Kaash hamein hazrat e abbas bulayein
-  Karbobala ka hamein deedar karadein
-  Hussain ya hussain
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Kaash hameiṅ hazrat e abbas bulayeiṅ
+  Karbobala ka hameiṅ didar karadeiṅ
+  Husain ya Husain
   Aana hai hum ko aana hai hum ko
-  Aana hai hum ko ya hussain aana hai hum ko
-  Aana hai hum ko mere maula wahan
-  Asghar o qasim ali akbar jahan
-  Honge shaheedon ke masayib bayan
-  Karna hai phir matam e tishna laban
-  Ganje shaheedan ka gham
-  Shaam e ghariban ka gham
-  Hum wahan ashoora o chehlum bhi karenge
+  Aana hai hum ko ya Husain aana hai hum ko
+  Aana hai hum ko mere maula wahaṅ
+  Asghar o qasim ali akbar jahaṅ
+  Honge shahidoṅ ke masayib bayaṅ
+  Karna hai phir matam e tishna labaṅ
+  Ganje shahidaṅ ka gham
+  Shaam e gharibaṅ ka gham
+  Hum wahaṅ ashoora o chehlum bhi kareṅge
   Bas maula bulalein
-  Sun lein sadayein
-  Hum ko dikhayein karbobala
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
   Sab ki sada karbala
   Sab ki dua karbala
-  Poocho azadaron se to sab ye kahenge
+  Poocho azadaroṅ se to sab ye kahenge
   Dekhna hai manzar e karbobala
-  Door thi kitni wo nehr alqama
+  Dur thi kitni wo nehr alqama
   Jis jagah maula ne di hal min sada
-  Jis jagah qaimw jalay sab kuch luta
-  Ghazi gira tha jahan
-  Royi sakina jahan
-  Nauha padhenge wahan matam bhi karenge
+  Jis jagah qaimw jale sab kuch luta
+  Ghazi gira tha jahaṅ
+  Royi sakina jahaṅ
+  Nauha padhenge wahaṅ matam bhi kareṅge
   Bas maula bulalein
-  Sun lein sadayein
-  Hum ko dikhayein karbobala
-  Kaash hamein hazrat e abbas bulayein
-  Karbobala ka hamein deedar karadein
-  Hussain ya hussain
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
+  Kaash hameiṅ hazrat e abbas bulayeiṅ
+  Karbobala ka hameiṅ didar karadeiṅ
+  Husain ya Husain
   Karbobala waale shaheedo salaam
   Aap ka sheda hai ye aalam tamaam
   Dil pe likhe hai jo ye bahattar naam
   Yaad rakhenge ye tumhare ghulam
   Aap se waada raha
   Aayenge jab karbala
-  Aa ke salaam ap ko sau baar karenge
+  Aa ke salaam ap ko sau baar kareṅge
   Bas maula bulalein
-  Sun lein sadayein
-  Hum ko dikhayein karbobala
+  Sun leiṅ sadayeiṅ
+  Hum ko dikhayeiṅ karbobala
   Sab ki sada karbala
   Sab ki dua karbala
-  Poocho azadaron se to sab ye kahenge
+  Poocho azadaroṅ se to sab ye kahenge
   Aana hai maula aana hai hum ko
-  Aana hai hum ko ya hussain
+  Aana hai hum ko ya Husain
   Aana hai hum ko
-  Haa ganje shaheedan pe
+  Haa ganje shahidaṅ pe
   Haa nehr e alqama pe
-  Aana hai hum ko ya hussain
+  Aana hai hum ko ya Husain
   Aana hai hum ko
   Haa ana hai hum ko
   Maqam e kaf e abbas

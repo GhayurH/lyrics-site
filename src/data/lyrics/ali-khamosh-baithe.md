@@ -13,51 +13,51 @@ romanLyrics: |-
   1
   Haye ghurbat e ali
   Zahra ko dafn kar ke jo hyder e karrar aaye
-  Sar ko jhukaye aasteen ulte ba-haal e zaar aaye
+  Sar ko jhukaye aastiṅ ulte ba-haal e zaar aaye
   Daaman phata hua hai gareban chaak hai
   Sar par mazaare fatema zehra ki khaak hai
-  Ali khamosh baithe hai udaasi ghar mein chayi hai
-  Bina maadar ke bacchon par ye pehli raat aayi hai
-  Kahin bistar pe moo dhaampe huwe zainab sisakti hai
-  Kahin kulsoom chupke chupke roti hai tadapti hai
-  Ke nanhi bacchiyon ke ashkon se bheegi chatayi hai
-  Bina maadar ke bacchon par...
-  Jidhar bhi dekhte hai jaan nazar aati hai bacchon ko
-  Dar o deewar mein bas maa nazar aati hai bacchon ko
-  Ye nanhe bacchon ko taqdeer kis manzil pe laayi hai
-  Bina maadar ke bacchon par...
+  Ali khamosh baithe hai udaasi ghar meiṅ chayi hai
+  Bina maadar ke bacchoṅ par ye pehli raat aayi hai
+  Kahiṅ bistar pe moo dhaampe huwe zainab sisakti hai
+  Kahiṅ kulsum chupke chupke roti hai tarapti hai
+  Ke nanhi bacchiyoṅ ke ashkoṅ se bhigi chatayi hai
+  Bina maadar ke bacchoṅ par...
+  Jidhar bhi dekhte hai jaaṅ nazar aati hai bacchoṅ ko
+  Dar o diwar meiṅ bas maa nazar aati hai bacchoṅ ko
+  Ye nanhe bacchoṅ ko taqdir kis manzil pe laayi hai
+  Bina maadar ke bacchoṅ par...
   Kahe kis se ali jo zakhm dil par khaaye baithe hai
-  Kaleje se hassan hussain ko liptaye baithe hai
+  Kaleje se Hasan Husain ko liptaye baithe hai
   Haye mushkil kusha pe waqt ye mushkil kushaai hai
-  Bina maadar ke bacchon par...
-  Kabhi kulsoom ko dekha kabhi zainab ko behlaya
-  Kabhi sote huwe hasnain ke baalon ko sehlaya
+  Bina maadar ke bacchoṅ par...
+  Kabhi kulsum ko dekha kabhi zainab ko behlaya
+  Kabhi sote huwe hasnain ke baaloṅ ko sehlaya
   Kabhi pani pila kar shaah ko dhaaras bandhayi hai
-  Bina maadar ke bacchon par...
-  Kaha bacchon ne ro ro kar khudara ab to aa jao
-  Thapak kar loriyan de kar hamay amma sula jao
-  Batao aaj tak tanha hamay kya neend aayi hai
-  Bina maadar ke bacchon par...
-  Kabhi lipte musalle se kabhi quran ko chooma
-  Kabhi naalain dekhi bistare veeran ko chooma
-  Kabhi tasbeeh maa ki aankhon se apne lagayi hai
-  Bina maadar ke bacchon par...
-  Andhere sar patakte hai ujaala kyun nahi hota
-  Ye kaisi raat aayi hai savera kyun nahi hota
+  Bina maadar ke bacchoṅ par...
+  Kaha bacchoṅ ne ro ro kar khudara ab to aa jao
+  Thapak kar loriyaṅ de kar hamay amma sula jao
+  Batao aaj tak tanha hamay kya nind aayi hai
+  Bina maadar ke bacchoṅ par...
+  Kabhi lipte musalle se kabhi quran ko chuma
+  Kabhi naalain dekhi bistare veeran ko chuma
+  Kabhi tasbih maa ki aankhon se apne lagayi hai
+  Bina maadar ke bacchoṅ par...
+  Andhere sar patakte hai ujaala kiun nahi hota
+  Ye kaisi raat aayi hai savera kiun nahi hota
   Qasam is raat ne bhi aaj na dhalne ki khaayi hai
-  Bina maadar ke bacchon par...
-  Jo aayi maa ki khusboo farq par ek saibaan le kar
-  Wo bacche aur bhi kuch roye zyada hichkiyan le kar
-  Ali ne chadar e zehra jo bacchon ko udhayi hai
-  Bina maadar ke bacchon par...
+  Bina maadar ke bacchoṅ par...
+  Jo aayi maa ki khusbu farq par ek saibaaṅ le kar
+  Wo bacche aur bhi kuch roye zyada hichkiyaṅ le kar
+  Ali ne chadar e zehra jo bacchoṅ ko urhayi hai
+  Bina maadar ke bacchoṅ par...
   Ali hasrat se takte hai kabhi betaab hote hai
-  Mere masoom bacche kis tarha bin maa ke sote hai
+  Mere masum bacche kis tarha bin maa ke sote hai
   Duhaai khaaliq e akbar duhaai hai duhaai hai
-  Bina maadar ke bacchon par...
-  Musalsal raat bhar aamir sabhi ke ashk behte thay
-  Laga kar seene se ainee ali bacchon ko kehte thay
+  Bina maadar ke bacchoṅ par...
+  Musalsal raat bhar aamir sabhi ke ashk behte the
+  Laga kar sine se aini ali bacchoṅ ko kehte the
   Tumhari maa se aur hum se qayamat tak judaai hai
-  Bina maadar ke bacchon par...
+  Bina maadar ke bacchoṅ par...
 # source_id: nohayonline:3d7f14f5ece0e1ee566a
 # source_url: https://www.nohayonline.com/details_content.php?id=3055
 # raw_sha256: 4550781a8aea1a37ec6ac30879b8a38c81a8b12d6ad527ed2461f4e9346ed3ba

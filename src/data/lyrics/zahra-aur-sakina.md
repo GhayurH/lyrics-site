@@ -16,13 +16,13 @@ romanLyrics: |-
   Haye sakina haye sakina
   Zahra ki tarha aansu bahati hai sakina
   Bachpan may zaeefa nazar aati hai sakina
-  Hyder se shikayat kiya karte thay hamesha
+  Hyder se shikayat kiya karte the hamesha
   Zahra ko musalmano ne rone na diya tha
-  Rone pe tamache yahan khaati hai sakina
+  Rone pe tamache yahaṅ khaati hai sakina
   Zahra ki tarha aansu...
   Kis karb se guzri hai bataya na kisi ko
   Zahra ne koi zakhm dikhaya na ali ko
-  Sajjad se zakhmon ko chupati hai sakina
+  Sajjad se zakhmoṅ ko chupati hai sakina
   Zahra ki tarha aansu...
   Jalte huwe darwaze ko zehra ne bujhaya
   Dono ko musibat may kisi ne na bachaya
@@ -30,19 +30,19 @@ romanLyrics: |-
   Zahra ki tarha aansu...
   Zehra ko mila baap pe rone ke liye ghar
   Allah re shabbir ki beti ka muqaddar
-  Zindan ko azakhana banati hai sakina
+  Zindaṅ ko azakhana banati hai sakina
   Zahra ki tarha aansu...
   Darbar e sahaba may gayi fatema zahra
   Ye soch ke sajjad ne phir sar na uthaya
   Darbar sharabi ka hai jaati hai sakina
   Zahra ki tarha aansu...
-  Zahra bhi bahot tadpi thi furqat may padar ki
+  Zahra bhi bahot tarpi thi furqat may padar ki
   Par baap ko is tarha sada deti hai bacchi
   Zahra ko bhi turbat may rulaati hai sakina
   Zahra ki tarha aansu...
-  Dono ki hi turbat pe andheron ka hai pehra
-  Yun lagta hai sajjad sada deti hai zahra
-  Mehdi tujhe zindan may bulaati hai sakina
+  Dono ki hi turbat pe andheroṅ ka hai pehra
+  Yuṅ lagta hai sajjad sada deti hai zahra
+  Mehdi tujhe zindaṅ may bulaati hai sakina
   Zahra ki tarha aansu...
 # source_id: nohayonline:087b2aa86d8e5ba4eb56
 # source_url: https://www.nohayonline.com/details_content.php?id=2402

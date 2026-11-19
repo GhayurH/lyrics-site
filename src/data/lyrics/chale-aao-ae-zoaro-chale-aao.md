@@ -9,18 +9,18 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain Hussain.....
+  Husain Husain.....
 
   1
-  Salam Ya Hussain.....(2)
-  Bas Ya Hussain.....(2)
-  Ya Ali Ya Hussain.....(2)
-  Jahan Hussain Wahan Laelha Illallah.....(2)
-  Hamare hai ya Hussain.....(2)
+  Salam Ya Husain.....(2)
+  Bas Ya Husain.....(2)
+  Ya Ali Ya Husain.....(2)
+  Jahan Husain Wahan Laelha Illallah.....(2)
+  Hamare hai ya Husain.....(2)
   Abad wallah Ya Zehra Manind sa Hussaina.....(2)
 
   2
-  Labbaik ya Hussain.....(2)
+  Labbaik ya Husain.....(2)
 
   3
   Maula labbaik labbaik ya Abaabdillah
@@ -74,7 +74,7 @@ romanLyrics: |-
   Chale Aao, Chale Aao,........
 
   11
-  Tum jo kehte ho abad wallah manind sa Hussain,
+  Tum jo kehte ho abad wallah manind sa Husain,
   Amma Zehra (s.w.) bhi yahin karti hai ro ro kar bain,
   Mere mazloomi pe rote hai shahe badro hunnain,
   Mere baba bhi abtak hai mere gam me bechain,
@@ -184,7 +184,7 @@ romanLyrics: |-
   Ahl-e-aza
   Roz-e-jaza
   Denge tumhein
-  Lutf-o-karam
+  Lutf o karam
   Bagh-e-Iram
   Mein hun Husain
   Tum pe salaam-e-Karbala maatami

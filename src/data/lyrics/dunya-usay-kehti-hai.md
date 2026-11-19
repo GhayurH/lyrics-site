@@ -1,6 +1,6 @@
 ---
 title: "دنیا اسے کہتی ہےعلمدار علمدار"
-alternateTitle: "Dunya Usay Kehti Hai"
+alternateTitle: "Dunya Use Kehti Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

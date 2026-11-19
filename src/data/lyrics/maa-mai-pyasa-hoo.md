@@ -11,48 +11,48 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ghode se jab zameen pe girne lage hussain
+  Ghore se jab zamin pe girne lage Husain
   Dekha ke baal khole huwe ro rahi hai maa
-  Tehri nigaah toote huwe pehluon pe jab
-  Bachpan ki yaad aa gayi bole shahe zamaan
+  Tehri nigaah tute huwe pehluoṅ pe jab
+  Bachpan ki yaad aa gayi bole shahe zamaaṅ
   Maa mai pyasa hoo maa
-  Naazon ka paala hoo maa
+  Naazoṅ ka paala hoo maa
   Maa mai pyasa hoo maa
-  Naizon se chalni saara badan hai
-  Mera lahoo hi mera kafan hai
-  Khoon may dooba hoo maa
+  Naizoṅ se chalni saara badan hai
+  Mera lahu hi mera kafan hai
+  Khun may duba hoo maa
   Maa mai pyasa hoo...
-  Ab saamne hai maut ki raahein
-  Godi may lelo phailado baahein
-  Ghode se girta hoo maa
+  Ab saamne hai maut ki raaheiṅ
+  Godi may lelo phailado baaheiṅ
+  Ghore se girta hoo maa
   Maa mai pyasa hoo...
   Darya pe hai mere ghazi ka laasha
   Chalni hai barchi se akbar ka seena
   Kitna akela hoo maa
   Maa mai pyasa hoo...
   Dekho zara ye naize ye bhaale
-  Waaqif nahi kya barchiyon waale
+  Waaqif nahi kya barchiyoṅ waale
   Kis ka nawasa hoo maa
   Maa mai pyasa hoo...
   Yaad hai mujhko teri kahani
   Ab marsiya meri kahani
   Dard ka qissa hoo maa
   Maa mai pyasa hoo...
-  Khoon rulayegi teri adayein
-  Khanjar ke neeche doonga duayein
+  Khun rulayegi teri adayeiṅ
+  Khanjar ke niche dunga duayeiṅ
   Aap ka beta hoo maa
   Maa mai pyasa hoo...
-  Sadmon pe sadme khaaye hai maine
-  Laashon pe laashe uthaye hai maine
-  Zakhmon se toota hoo maa
+  Sadmoṅ pe sadme khaaye hai maiṅ ne
+  Laashoṅ pe laashe uthaye hai maiṅ ne
+  Zakhmoṅ se tuta hoo maa
   Maa mai pyasa hoo...
   Khushk hai gardan kund hai khanjar
   Dekhogi kaise qatl ka manzar
   Sajde may jaata hoo maa
   Maa mai pyasa hoo...
-  Tumhi kaho kaise sajda karun mai
-  Poora wo bachpan ka waada karun mai
-  Teeron pe tehra hoo maa
+  Tumhi kaho kaise sajda karuṅ mai
+  Pura wo bachpan ka waada karuṅ mai
+  Tiroṅ pe tehra hoo maa
   Maa mai pyasa hoo...
   Charcha mere gham ka yun hi badhega
   Nayyar likhega aamir padhega

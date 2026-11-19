@@ -13,63 +13,63 @@ romanLyrics: |-
   1
   Asghar ko jaga de koi
   Akbar ko bata de koi
-  Bemaar behan ne khat mein
+  Bemaar behan ne khat meiṅ
   Sab haal e zaar likha hai
-  Akbar ko duaein di hai
+  Akbar ko duaeiṅ di hai
   Asghar ko pyar likha hai
-  Bemaar behan ne khat mein
+  Bemaar behan ne khat meiṅ
   Sab haal e zaar likha hai
-  Sughra ne na poocho khat mein
-  Kya kya tehreer kiya hai
-  Poocha hai har ek bhai ko
-  Zikre hamsheer kiya hai
-  Kyun bhol gaye dukhiya ko
+  Sughra ne na pucho khat meiṅ
+  Kya kya tehrir kiya hai
+  Pucha hai har ek bhai ko
+  Zikre hamshir kiya hai
+  Kiuṅ bhol gaye dukhiya ko
   Sab rishtedaar likha hai
   Bemaar behan ne khat mein...
-  Bhaiya ne khoob behan ki
+  Bhaiya ne khub behan ki
   Ulfat ka karz chukaya
-  Pardes mein jaa kar apna
+  Pardes meiṅ jaa kar apna
   Waada bhi yaad na aaya
   Lene ko na aaye akbar
   Shikwa har baar likha hai
   Bemaar behan ne khat mein...
   Jis din se aap gaye hai
-  Udti hai khaak watan mein
+  Urti hai khaak watan meiṅ
   Kab jaane bahaar aayegi
-  Umeed ke is gulshan mein
-  Baba hai akele ghar mein
-  Jeena dushwaar likha hai
+  Umid ke is gulshan meiṅ
+  Baba hai akele ghar meiṅ
+  Jina dushwaar likha hai
   Bemaar behan ne khat mein...
-  Furqat mein jhula kar asghar
+  Furqat meiṅ jhula kar asghar
   Khaali tera gehwara
-  Yaadon mein teri sughra ka
+  Yaadoṅ meiṅ teri sughra ka
   Kat jaata hai din saara
   Nanhe se musafir tujh par
   Sadqe sau bar likha hai
   Bemaar behan ne khat mein...
-  Itni si dabe lafzon mein
+  Itni si dabe lafzoṅ meiṅ
   Sughra ne jasarat ki hai
   Ammu se gila furqat ka
   Baba se shikayat ki hai
-  Kyun bhool gaye gurbat mein
+  Kiuṅ bhul gaye gurbat meiṅ
   Sab zimmedar likha hai
   Bemaar behan ne khat mein...
   Jab aun o mohamed mujhko
   Tanhaai mein yaad aate hai
   Do chand se chehre
-  Meri nazron mein samaa jaate hai
+  Meri nazroṅ meiṅ samaa jaate hai
   Kab hoga na jaane unka
   Mujhko dedaar likha hai
   Bemaar behan ne khat mein...
-  Kyun door watan se jaa kar
+  Kiuṅ dur watan se jaa kar
   Saare ehbaab base hai
-  Aankhon mein mere bhaiya ki
+  Aankhoṅ meiṅ mere bhaiya ki
   Shadi ke khwaab saje hai
-  Karti hoo khayalon mein mai
+  Karti hoo khayaloṅ meiṅ mai
   Sehra tayyar likha hai
   Bemaar behan ne khat mein...
-  Padte hai shahe deen jab khat
-  Har laash tadap jaati hai
+  Parte hai shahe diṅ jab khat
+  Har laash tarap jaati hai
   Qasim ko hijab aata hai
   Akbar ko haya aati hai
   Kya koi nahi hai baba
@@ -79,7 +79,7 @@ romanLyrics: |-
   Mushkil se jigar ko thaama
   Akbar ki laash pe rakha
   Ye keh ke behan ka naama
-  Khud uth ke maseeha padh le
+  Khud uth ke masiha parh le
   Haal e bemaar likha hai
   Bemaar behan ne khat mein...
 # source_id: nohayonline:e0978a1802734ec4c367

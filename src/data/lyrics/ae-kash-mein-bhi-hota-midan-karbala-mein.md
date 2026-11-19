@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aye kash main bhi hota maidan e Karbala may
+  Aye kash maiṅ bhi hota maidan e Karbala may
   Aye kaash, ae kaash, ae kaash
   Aye kaash me bhi hota maidany Karbala may
 
@@ -18,52 +18,52 @@ romanLyrics: |-
   Mera bhi zikar ata Quraan e Karbala may
 
   3
-  Zahra k ladley py jaan apni waar deta
-  Tableegh-e-Mustafa ka qarza utaar deta
+  Zahra k ladle py jaaṅ apni waar deta
+  Tabligh-e-Mustafa ka qarza utaar deta
   Hur ki tarha se me bhi aada se jang kar ke
-  Insaniyat ka chehra khoon se nikhaar deta
+  Insaniyat ka chehra khuṅ se nikhaar deta
 
   4
   Sheh ki taraf jo barrhta wo haath kaat deta
-  Maidan-e-jang sara lashon se paat deta
-  Juz maut aur kaheen bhi jaaye amaan na milti
+  Maidan-e-jang sara lashoṅ se paat deta
+  Juz maut aur kahiṅ bhi jaaye amaan na milti
   Dil zindagi se sab ka aisa uchaat deta
 
   5
-  Nasl e yazeediat ko aisa sabaq sekhata
-  Naam o nasab bhi apna har fard bhool jata
+  Nasl e yazidiat ko aisa sabaq sekhata
+  Naam o nasab bhi apna har fard bhul jata
   Sufiyaniyat ki aisi mitti kharaab hoti
-  Ta hashar phir na koi Namrood sar uthata
+  Ta hashar phir na koi Namrud sar uthata
 
   6
-  Mola ba jabr e qismat dil me rahi ye hasrat
-  Hasil hoyi na mujko sarmaya e shahadat
-  Ashk e aza ki barish karti rahain gi ankhain
-  Seena zani karon ga is gham me ta qiamat
+  Mola ba jabr-e-qismat dil me rahi ye hasrat
+  Hasil hoyi na mujko sarmaya-e-shahadat
+  Ashk-e-aza ki barish karti rahaiṅ gi ankhaiṅ
+  Seena zani karoṅ ga is gham me ta qiamat
 
   7
-  Mera salaam un per jo tashna lab rakhe hain
-  Be jurm Karbala me jin k galay kate hain
-  Ghorron se rond daalay aada ne jin ki lashay
-  Tapti hoi zameen per jo be kafan parray hain
+  Mera salaam un per jo tashna lab rakhe haiṅ
+  Bejurm Karbala me jin k gale kate haiṅ
+  Ghorroṅ se rond daale aada ne jin ki lashe
+  Tapti hoi zamiṅ per jo bekafan parre haiṅ
 
   8
-  Wo shaam e gham, wo khaimay, wo raat, wo fizayain
-  Bachon ki sehmi sehmi wo muztarib sadayain
-  Aulaad-e-fatima par kya kya sitam na toote
-  Syedaniyo k sar se cheeni gayen ridayain
+  Wo shaam-e-gham, wo khaime, wo raat, wo fizayaiṅ
+  Bachoṅ ki sehmi sehmi wo muztarib sadayaiṅ
+  Aulaad-e-fatima par kya kya sitam na tute
+  Syedaniyo k sar se chini gayen ridayaiṅ
 
   9
-  Jab ran se arahi thi awaaz e istighasa
-  Pur dard kis qadar tha andaaz e istighasa
-  Shayad na tha jahan me koi siwaye Asghar
-  Hota jo rahe haq me imdaad e istighasa
+  Jab ran se arahi thi awaaz-e-istighasa
+  Pur dard kis qadar tha andaaz-e-istighasa
+  Shayad na tha jahaṅ me koi siwaye Asghar
+  Hota jo rahe haq me imdaad-e-istighasa
 
   10
-  Her bazm her zabaan per hain karbala k charchay
-  Ta hasher kam na hoongy aal e iba k charchay
-  Abbas e bafawaa se daad e wafa jo milti
-  Hotay gali gali me meri wafa k charchay
+  Her bazm her zabaaṅ per haiṅ karbala k charche
+  Ta hasher kam na hoongy aal-e-iba k charche
+  Abbas-e-bafawaa se daad-e-wafa jo milti
+  Hote gali gali me meri wafa k charche
 # source_id: ziyaraat:fb0297f1ee1e937481f7
 # source_url: https://www.ziyaraat.net/api/noha/1280
 # raw_sha256: 2696c44690aa13209bb182e1b8570139f386e1da95efa52aac6e51098f97ed8a

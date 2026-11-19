@@ -11,68 +11,68 @@ romanLyrics: |-
   Wo bas Karbala hai, wo bas Karbala hai
 
   1
-  Jahan behr-e-sajda falaq bhi jhuka hai
-  Jahan qasr-e-batil giraya gaya hai
+  Jahaṅ behr-e-sajda falaq bhi jhuka hai
+  Jahaṅ qasr-e-batil giraya gaya hai
 
   2
   Shariyat ka sajda baqa mangta hai
-  Ke Kabaa jahan se shifaa mangta hai
-  Jahan par Khuda bhi basaya gaya hai
+  Ke Kabaa jahaṅ se shifaa mangta hai
+  Jahaṅ par Khuda bhi basaya gaya hai
 
   3
-  Hai jannat jahan Fatima bant ti hai
-  Wahan maut bhi dekhiye kampti hai
-  Jahan har yazeedi mitaya gaya hai
+  Hai jannat jahaṅ Fatima bant ti hai
+  Wahaṅ maut bhi dekhiye kampti hai
+  Jahaṅ har yazidi mitaya gaya hai
 
   4
-  Jo apnay Khuda se bhi larta raha hai
+  Jo apne Khuda se bhi larta raha hai
   Ke Adam ka inkaar karta raha hai
-  Wo iblees jis jaa jhukaya gaya hai
+  Wo iblis jis jaa jhukaya gaya hai
 
   5
-  Hui sajda gah jo zamanay ki khatir
-  Muhammad ke betay ke sajday ki khatir
-  Jahan arsh Rab ka bichaya gaya hai
+  Hui sajda gah jo zamane ki khatir
+  Muhammad ke bete ke sajde ki khatir
+  Jahaṅ arsh Rab ka bichaya gaya hai
 
   6
-  Wafaon ki ghairat ke Rab sogaye hain
-  Jo kartay thay unka adab sogaye hain
+  Wafaoṅ ki ghairat ke Rab sogaye haiṅ
+  Jo karte the unka adab sogaye haiṅ
   Taharat ka khaima jalaya gaya hai
 
   7
-  Jahan dosti dushmani khul rahi hai
-  Jahan roshni har qadam tul rahi hai
-  Jahan Hurr ko alaa banaya gaya hai
+  Jahaṅ dosti dushmani khul rahi hai
+  Jahaṅ roshni har qadam tul rahi hai
+  Jahaṅ Hurr ko alaa banaya gaya hai
 
   8
-  Ye Akbar pukaray ye Asghar pukaray
-  Sar-e-Karbala ye bahatar pukaray
-  Jahan jaan dena sikhaya gaya hai
+  Ye Akbar pukare ye Asghar pukare
+  Sar-e-Karbala ye bahatar pukare
+  Jahaṅ jaan dena sikhaya gaya hai
 
   9
-  Kiya hai malaayik ne sajda jahan par
-  Jahan sirf Aah-o-buqa hai zuban par
-  Jahan khoon-e-Zahra bahaya gaya hai
+  Kiya hai malaayik ne sajda jahaṅ par
+  Jahaṅ sirf Aah o buqa hai zuban par
+  Jahaṅ khun-e-Zahra bahaya gaya hai
 
   10
-  Ye maqtal mein rutba hua kisko haasil
-  Jahan Behr-e-khidmat pohanchna tha mushkil
-  Wahan Bibi Fizza ka saya gaya hai
+  Ye maqtal meiṅ rutba hua kisko haasil
+  Jahaṅ Behr-e-khidmat pohanchna tha mushkil
+  Wahaṅ Bibi Fizza ka saya gaya hai
 
   11
-  Jahan roshni ki bichi ek ridaa hai
-  Jahan sar ba sajda saf-e-ambiya hai
-  Jahan sar sinaa par uthaya gaya hai
+  Jahaṅ roshni ki bichi ek ridaa hai
+  Jahaṅ sar ba sajda saf-e-ambiya hai
+  Jahaṅ sar sinaa par uthaya gaya hai
 
   12
-  Khuda dekhta hai jissay Mustafa mein
-  Jissay Bint-e-Khyber ne pala ridaa mein
+  Khuda dekhta hai jisse Mustafa meiṅ
+  Jisse Bint-e-Khyber ne pala ridaa meiṅ
   Sinah pe wo Akbar uthaya gaya hai
 
   13
-  Imam-e-Zaman ke sabhi muntazir hain
-  Khuda ki qasam sab nabi muntazir hain
-  Jahan un ka maskal banaya gaya hai
+  Imam-e-Zaman ke sabhi muntazir haiṅ
+  Khuda ki qasam sab nabi muntazir haiṅ
+  Jahaṅ un ka maskal banaya gaya hai
 # source_id: ziyaraat:077f82755939b8a8733e
 # source_url: https://www.ziyaraat.net/api/noha/2536
 # raw_sha256: c426f0fa04c1f342b0e4e5cf46b33e0f8ea67a879ba425e3493abe3394d5f889

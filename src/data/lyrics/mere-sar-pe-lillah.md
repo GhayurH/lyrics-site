@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye salaami layeeno ne kya kya jafa ki
+  Haye salaami layino ne kya kya jafa ki
   Nashaati hui ya mushkil kusha ki
-  Thi shaam e ghariban qayamat bapa thi
+  Thi shaam e gharibaṅ qayamat bapa thi
   Ke ek haath zainab ki chadar tak aaya
   Wo zainab ke lab par faqat ek sada thi
   Mere sar pe lillaah rehne de chaadar
   Kuch hai shimr keemat samajh is rida ki
   Ke ye paak chaadar hai khairunnissa ki
   Mere sar pe lillaah...
-  Khule sar jisay bhaiyon ne na dekha
+  Khule sar jise bhaiyoṅ ne na dekha
   Utha raat may jis ki maa ka janaza
   Wo din may hai mohtaaj bas ek rida ki
   Mere sar pe lillaah...
   Lo baandho mere haath kehti thi zainab
-  Na cheeno rida keh ke roti thi zainab
-  Mai mazloom beti hoo mushkil khusha ki
+  Na chino rida keh ke roti thi zainab
+  Mai mazlum beti hoo mushkil khusha ki
   Mere sar pe lillaah...
-  Zara jaag ay mere ghayyoor bhai
+  Zara jaag ae mere ghayyur bhai
   Ke ab baat meri rida tak hai aayi
-  Behen ko zaroorat hai teri wafa ki
+  Behen ko zarurat hai teri wafa ki
   Mere sar pe lillaah...
   Utho mere sajjad jalte hai qaime
-  Sambhalun akeli mai bachon ko kaise
-  Mai kaise sahun sakhtiyan ashkiyan ki
+  Sambhaluṅ akeli mai bachoṅ ko kaise
+  Mai kaise sahuṅ sakhtiyaṅ ashkiyan ki
   Mere sar pe lillaah...
-  Wo shaam e ghariban may baba ka aana
-  Wo zainab ka haathon se chehra chupana
+  Wo shaam e gharibaṅ may baba ka aana
+  Wo zainab ka haathoṅ se chehra chupana
   Khuda se rida ke liye ilteja ki
   Mere sar pe lillaah...
-  Tamashayi kufe ki galiyon may kehte
-  Zamane badalte hai lamhon may kitne
+  Tamashayi kufe ki galiyoṅ may kehte
+  Zamane badalte hai lamhoṅ may kitne
   Ke sar nange zainab hai khudrat khuda ki
   Mere sar pe lillaah...
-  Wo maaye wo behne kaneezan e zainab
+  Wo maaye wo behne kanizan e zainab
   Jo hai aaj bhi pursa daaran e zainab
   Rakhe laaj zainab ki bas us sada ki
   Mere sar pe lillaah...
   Gaye unke rauze pe rehaan o sarwar
-  Mila ek sukoon sheh ka nauha suna kar
+  Mila ek sukuṅ sheh ka nauha suna kar
   Khalish aaj tak hai magar us buka ki
   Mere sar pe lillaah...
 # source_id: nohayonline:e800b89afdeba70790ec

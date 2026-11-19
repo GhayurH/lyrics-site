@@ -9,40 +9,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Darya e lahoo may deen ke liye
-  Ahmed ka nawasa doob gaya
-  Deen apna bachanay ki khaatir
-  Islam ka taara doob gaya
+  Darya e lahu may diṅ ke liye
+  Ahmed ka nawasa dub gaya
+  Din apna bachane ki khaatir
+  Islam ka taara dub gaya
 
   2
-  Noshah ka lasha khaimay may
+  Noshah ka lasha khaime may
   Kis tarha se Sarwar le aaye
-  Maa jis ki balayain leti thi
-  Wo khoon may chehra doob gaya
+  Maa jis ki balayaiṅ leti thi
+  Wo khun may chehra dub gaya
 
   3
-  Hamshakl Nabi marnay ko chala
+  Hamshakl Nabi marne ko chala
   Maa sar ko jhukaye roti rahi
-  Chehray ki udasi keh uthi
-  Qismat ka sitara doob gaya
+  Chehre ki udasi keh uthi
+  Qismat ka sitara dub gaya
 
   4
   Abbas jo le ke mashkeeza
-  Khaimay se chalay darya ki taraf
-  Yun moj e barrheen muztar ho kar
-  Pani may kanara doob gaya
+  Khaime se chale darya ki taraf
+  Yuṅ moj e barrhiṅ muztar ho kar
+  Pani may kanara dub gaya
 
   5
-  Jab teer lagaya zalim ne
+  Jab tir lagaya zalim ne
   Ihsas ki dunyi kaamp uthi
-  Yun nanhay galay se khoon baha
-  Besheer ka kurta doob gaya
+  Yuṅ nanhe gale se khun baha
+  Beshir ka kurta dub gaya
 
   6
-  Asghar ke galay par teer laga
+  Asghar ke gale par tir laga
   Konain may chaya sannata
-  Besheer lahoo may kiya dooba
-  Quran ka para doob gaya
+  Beshir lahu may kiya duba
+  Quran ka para dub gaya
 # source_id: ziyaraat:59d119bf8889aa86224a
 # source_url: https://www.ziyaraat.net/api/noha/2232
 # raw_sha256: d37a74130a5b8cf1e268a666822dcd9443d0ee8cd82d3af36aa933e8255c806f

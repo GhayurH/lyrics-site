@@ -1,6 +1,6 @@
 ---
 title: "کربلا والوں پہ جو گذری وہ قیامت اور ہے"
-alternateTitle: "Karbala Walon Pa"
+alternateTitle: "Karbala Waloṅ Pa"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

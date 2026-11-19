@@ -14,59 +14,59 @@ romanLyrics: |-
 
   1
   Karbala na bhoolenge karbala na bhoolenge
-  Rehbaron ki sar zameen hai ambiya ki rehguzar
-  Mehwe sajda hai yahin par khaana e kaaba ka sar
-  Sab ko milta hai yahan se khuld ka zaad e safar
+  Rehbaroṅ ki sar zamiṅ hai ambiya ki rehguzar
+  Mehwe sajda hai yahiṅ par khaana-e-kaaba ka sar
+  Sab ko milta hai yahaṅ se khuld ka zaad-e-safar
 
   2
   Yaad baaqi hai khuda ki karbala ki yaad se
-  Dhoom hai salle alaa ki karbala ki yaad se
+  Dhum hai salle alaa ki karbala ki yaad se
   Saans chalti hai wafa ki karbala ki yaad se
 
   3
-  Saaf go bebaak hai karte hai ye waada hussain
-  Gham hai seene chaak hai karte hai ye waada hussain
-  Jin ke shajre paak hai karte hai ye waada hussain
+  Saaf go bebaak hai karte hai ye waada Husain
+  Gham hai sine chaak hai karte hai ye waada Husain
+  Jin ke shajre paak hai karte hai ye waada Husain
 
   4
-  Saari dunya ko sunayenge bayan e karbala
-  Apne seeno par likhenge daastan e karbala
-  Hum kabhi jhukne nahi denge nishan e karbala
+  Saari dunya ko sunayenge bayan-e-karbala
+  Apne sino par likhenge daastan-e-karbala
+  Hum kabhi jhukne nahi deṅge nishan-e-karbala
 
   5
-  Apni jaanein nazr kar denge shahadat ke liye
-  Dher sajdon ka laga denge hifazat ke liye
-  Sar ke bal aayenge hum iski ziyarat ke liye
+  Apni jaaneiṅ nazr kar deṅge shahadat ke liye
+  Dher sajdoṅ ka laga deṅge hifazat ke liye
+  Sar ke bal aayeṅge hum iski ziyarat ke liye
 
   6
   Karbala to qasre laa ilaah ki bunyad hai
-  Sayyed e sajjad ka khutba to hum ko yaad hai
-  Matami seeno mein ab bhi karbala aabad hai
+  Sayyed-e-sajjad ka khutba to hum ko yaad hai
+  Matami sino meiṅ ab bhi karbala aabad hai
 
   7
-  Khoon se iska naam likh denge har ek manzar mein hum
-  Farsh matam ka bicha denge zamane bhar mein hum
-  Phir azakhana sajayenge khuda ke ghar mein hum
+  Khuṅ se iska naam likh deṅge har ek manzar meiṅ hum
+  Farsh matam ka bicha deṅge zamane bhar meiṅ hum
+  Phir azakhana sajayenge khuda ke ghar meiṅ hum
 
   8
-  Khoon mein doobe huwe pyason ke laashe yaad hai
-  Sehme sehme tashnalab masoom bacche yaad hai
-  Dasht mein jalte huwe veeran qaime yaad hai
+  Khun meiṅ dube huwe pyasoṅ ke laashe yaad hai
+  Sehme sehme tashnalab masum bacche yaad hai
+  Dasht meiṅ jalte huwe veeran qaime yaad hai
 
   9
-  Aa rahi thi al-atash ki jo sadayein yaad hai
-  Chin gayi thi jo saron se wo ridayein yaad hai
-  Jo rasan basta thi wo majboor maayein yaad hai
+  Aa rahi thi al-atash ki jo sadayeiṅ yaad hai
+  Chin gayi thi jo saroṅ se wo ridayeiṅ yaad hai
+  Jo rasan basta thi wo majbur maayeiṅ yaad hai
 
   10
-  Karbala ay karbala ay karbala ay karbala
+  Karbala ae karbala ae karbala ae karbala
   Hashr tak chalta rahega ye hussaini khaafila
   Sun rahe hai aaj bhi hum log hal min ki sada
 
   11
-  Al-madad ay gohar e haq al-madad shaah e najaf
-  Saaye mein aake alam ke hum uthaate hai halaf
-  Raaste sab mod denge karbala teri taraf
+  Al-madad ae gohar-e-haq al-madad shaah-e-najaf
+  Saaye meiṅ aake alam ke hum uthaate hai halaf
+  Raaste sab mor deṅge karbala teri taraf
 # source_id: nohayonline:13f10bf37e89354f67a8
 # source_url: https://www.nohayonline.com/details_content.php?id=3269
 # raw_sha256: 977ec8bd070fc255db9a88a52f00c6a733a1efedafa85e4cecff76ef4dcafc96

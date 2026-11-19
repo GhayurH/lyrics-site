@@ -13,61 +13,61 @@ romanLyrics: |-
   1
   Khayaal e sughra
   Khabar aayi aane ko hai khaafila
-  To sughra ne qalbe hazeen se kaha
-  Tadapne se rone se ab kaam kya
+  To sughra ne qalbe haziṅ se kaha
+  Tarapne se rone se ab kaam kya
   Tera shukriya rab ada kaise ho
-  Ke bichde huon ko milaata hai tu
+  Ke bichre huoṅ ko milaata hai tu
   Phir uth kar ye ghazi ki maa se kaha
   Chalo amma aaya hai kunba mera
-  Ab mai kahan roti hoo
-  Ujaale meri simt badhne lage
-  Ke baba hussain aaj ghar aa rahe hai
-  Mai baba ko dekhungi to jee uthungi
-  Balayein sakina ki asghar ki lungi
+  Ab mai kahaṅ roti hoo
+  Ujaale meri simt barhne lage
+  Ke baba Husain aaj ghar aa rahe hai
+  Mai baba ko dekhungi to ji uthungi
+  Balayeiṅ sakina ki asghar ki lungi
   Bahot khush hoo aata hai akbar mera
-  Ab mai kahan roti hoo...
-  Mai baba ke jhuk kar qadam choom lungi
+  Ab mai kahaṅ roti hoo...
+  Mai baba ke jhuk kar qadam chum lungi
   Bhulaya mujhe unse shikwa karungi
   Na tum aaye baba na ghar aaye akbar
-  Na paate hamein dayr hoti jo dam bhar
-  Tum aaye karun kyun na shukre khuda
-  Ab mai kahan roti hoo...
+  Na paate hameiṅ dayr hoti jo dam bhar
+  Tum aaye karuṅ kiuṅ na shukre khuda
+  Ab mai kahaṅ roti hoo...
   Sajaalun mai akbar ka hujra zara
   Suna hai mera bhai dulha bana
-  Na yaad aayi behna hai dil mein chuban
+  Na yaad aayi behna hai dil meiṅ chuban
   Magar khush hoo layega akbar dulhan
   To saaya karungi mai quran ka
-  Ab mai kahan roti hoo...
-  Na pyasi ho meri sakina kahin
-  Hai pehla safar aur jalti zameen
-  Na garmi se sookhe huwe ho galay
-  Banalun mai sharbat sabhi ke liye
+  Ab mai kahaṅ roti hoo...
+  Na pyasi ho meri sakina kahiṅ
+  Hai pehla safar aur jalti zamiṅ
+  Na garmi se sukhe huwe ho gale
+  Banaluṅ mai sharbat sabhi ke liye
   Pilayenge ghar aake sab ko chacha
-  Ab mai kahan roti hoo...
+  Ab mai kahaṅ roti hoo...
   Jo guzri phupi ko bataungi mai
-  Galay mil ke amma se roungi mai
-  Liye hongi asghar ko chadar talay
+  Gale mil ke amma se roungi mai
+  Liye hongi asghar ko chadar tale
   Ke nanhi se jaan zer e saaya rahe
-  Meri godh mein hoga asghar mera
-  Ab mai kahan roti hoo...
+  Meri godh meiṅ hoga asghar mera
+  Ab mai kahaṅ roti hoo...
   Achanak utha shor aaye haram
-  Badhi kehke sughra elaahi karam
-  Galay mil ke ghazi ki maa se kaha
+  Barhi kehke sughra elaahi karam
+  Gale mil ke ghazi ki maa se kaha
   Chalo amma aaya hai kunba mera
   Na ro'o khudara khushi ki hai jaa
-  Ab mai kahan roti hoo...
-  Jo nikli to aahon ka toofan tha
-  Nazar aaya ujda hua khaafila
+  Ab mai kahaṅ roti hoo...
+  Jo nikli to aahoṅ ka tufan tha
+  Nazar aaya ujra hua khaafila
   Jo ghash khaake wo gham ki maari giri
   To naaqe se maa ki amaari giri
-  Kabhi phir na goonji fiza mein sada
-  Ab mai kahan roti hoo...
-  Madine ki galyion mein ab bhi samar
+  Kabhi phir na gunji fiza meiṅ sada
+  Ab mai kahaṅ roti hoo...
+  Madine ki galyioṅ meiṅ ab bhi samar
   Ye dekha hai phat'ta hai gham se jigar
-  Fiza saari ashkon se bheegi hui
+  Fiza saari ashkoṅ se bhigi hui
   Ye kehti hai sughra to ab na rahi
-  Hai khamosh honton pe nauha raza
-  Ab mai kahan roti hoo...
+  Hai khamosh hontoṅ pe nauha raza
+  Ab mai kahaṅ roti hoo...
 # source_id: nohayonline:c93617b38d9dc7fedf6b
 # source_url: https://www.nohayonline.com/details_content.php?id=2376
 # raw_sha256: 351a89882c24b184826da0d6007d350ec83e3c718c2a213912679144ebbca77e

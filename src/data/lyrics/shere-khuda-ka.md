@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Teri aankhein saqi abbas teri zulfein saqi abbas
+  Teri aankheiṅ saqi abbas teri zulfeiṅ saqi abbas
   Tera chehra saqi abbas hai misle hyder e karraar
   Sher e khuda ka sher hai abbas
   Abbas abbas abbas abbas abbas
-  Hyder ne duaon may bas tujhko hi maanga hai
+  Hyder ne duaoṅ may bas tujhko hi maanga hai
   Zahra ki tamanna tu zainab ka sahara hai
-  Kulsoom ka bhai hai shabbir ka chehra hai
-  Taqdeer hai kya teri kya shaan teri maula
+  Kulsum ka bhai hai shabbir ka chehra hai
+  Taqdir hai kya teri kya shaan teri maula
   Sher e khuda ka sher...
-  Shabbar ki haqeeqat tu shabbir ka lashkar tu
-  Maidan may ay ghazi hai hyder e safdar tu
-  Ek waar may kartha hai maloono be-sar tu
-  Ye tera qasida bhi rab jhoom ke hai padta
+  Shabbar ki haqiqat tu shabbir ka lashkar tu
+  Maidaṅ may e ghazi hai hyder e safdar tu
+  Ek waar may kartha hai maluno besar tu
+  Ye tera qasida bhi rab jhum ke hai parta
   Sher e khuda ka sher...
-  Jibreel larazte hai aur arsh larazta hai
+  Jibril larazte hai aur arsh larazta hai
   Haibat hai tumhari wo khamosh jo darya hai
   Abbas tumhe suraj hairani se takta hai
-  Talwaar chalayi hai siffeen may jis lamha
+  Talwaar chalayi hai siffin may jis lamha
   Sher e khuda ka sher...
   Jo sar ko jhukate hai abbas ki chaukhat par
   Meraj wo paate hai abbas ki chaukhat par
   Sar jo na jhukate hai abbas ki chaukhat par
   Us shakhs se khush hargiz allah nahi hoga
   Sher e khuda ka sher...
-  Tu saaqi e kausar ka farzand hai ay ghazi
+  Tu saaqi e kausar ka farzand hai e ghazi
   Is waaste sarwar ne di mashk tujhe ghazi
   Ab bali sakina ki bas pyaas bujhe ghazi
-  Ye kehke shah e deen ne maidan may tujhe bheja
+  Ye kehke shah e diṅ ne maidaṅ may tujhe bheja
   Sher e khuda ka sher...
-  Abbas pa maidan may kya zulm hua haye
+  Abbas pa maidaṅ may kya zulm hua haye
   Shaane bhi kate unke mashkeeza chida haye
-  Ghazi ka ye armaan bhi pyasa hi raha haye
+  Ghazi ka ye armaaṅ bhi pyasa hi raha haye
   Afsos kay qaimon may pani na pahunch paaya
   Sher e khuda ka sher...
-  Baatenge sada kooze pani se bhare maula
+  Baatenge sada kuze pani se bhare maula
   Zawwar ka waada hai ye tujhse mere maula
   Arif ko bulale tu rauze pa tere maula
   Nasir ne bhi ro ro kar tujhse hai yehi maanga

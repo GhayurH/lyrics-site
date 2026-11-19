@@ -47,7 +47,7 @@ romanLyrics: |-
   6
   Boli "Akbar" yeh ro ke Shehzaday
   Sirf trehreer hi nahi thi wo
-  Bizat-o-minni ke wo tukre thay
+  Bizat o minni ke wo tukre thay
   Jo hawa mein gaye uraye hain
 # source_id: ziyaraat:76e5e90ef31e5f442a71
 # source_url: https://www.ziyaraat.net/api/noha/1147

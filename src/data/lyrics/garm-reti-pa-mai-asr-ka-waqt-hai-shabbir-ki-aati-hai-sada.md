@@ -1,6 +1,6 @@
 ---
 title: "گرم ریتی پہ میں گرتا ہوں سنبھالو اماں"
-alternateTitle: "Garm Reti Pe Main Girta Hoon"
+alternateTitle: "Garm Reti Pe Maiṅ Girta Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -13,57 +13,57 @@ published: false
 romanLyrics: |-
   Asr ka waqt hai shabbir ki aati hai sada
   Chur zakhmo se badan hogaya amma mera
-  Apni aagosh mein ab mujko chupalo amma
-  Arey dhoop hai apni abaa aan ke daalo amma
+  Apni aagosh meiṅ ab mujko chupalo amma
+  Are dhup hai apni abaa aan ke daalo amma
   Garm reti pa mai girta hu sambhalo amma
 
   1
   Thak gaya laashe utha kar mai bhare lashkar ki
   Laash qasim ki mai laaya hoo kabhi akbar ki
-  Khud banayi hai lehad maine ali asghar
-  Do tasalli mujhe seene se lagalo amma
+  Khud banayi hai lehad maiṅ ne ali asghar
+  Do tasalli mujhe sine se lagalo amma
 
   2
-  Teer talwaar se khanjar se badan zakhmi hai
-  Khaak jalti hai to zakhmo mein chubhan hoti hai
-  Mere zakhmo se mere dil ka lahoo jaari hai
+  Tir talwaar se khanjar se badan zakhmi hai
+  Khaak jalti hai to zakhmo meiṅ chubhan hoti hai
+  Mere zakhmo se mere dil ka lahu jaari hai
   Apni chadar ko mere zakhmo pe daalo amma
 
   3
   Mera abbas khafa hogaya amma mujhse
   Wo nahi aaya utha laaya tha baazu uske
   Aap ek kaam kare nehr kanare jaake
-  Mere roothe huwe bhai ko manalo amma
+  Mere ruthe huwe bhai ko manalo amma
 
   4
-  Chakkiya peesi hai godhi mein bithakar mujko
+  Chakkiya pisi hai godhi meiṅ bithakar mujko
   Jaagti rehti thi zaanu pe sulakar mujko
-  Loriya deti thi jhoole mein jhulakar mujko
-  Ek dafa godh mein phir apni sulalo amma
+  Loriya deti thi jhule meiṅ jhulakar mujko
+  Ek dafa godh meiṅ phir apni sulalo amma
 
   5
-  Aur kuch dayr ka mehman hoon tum paas raho
-  Rayt zakhmo mein hai aanchal se usay saaf karo
-  Aati hai rone ki awaaz e sakina dekho
+  Aur kuch dayr ka mehman huṅ tum paas raho
+  Rayt zakhmo meiṅ hai aanchal se use saaf karo
+  Aati hai rone ki awaaz-e-sakina dekho
   Jao tum jaa ke sakina ko sambhalo amma
 
   6
-  Dekho wo aag lagi shaam e ghariban aayi
+  Dekho wo aag lagi shaam-e-gharibaṅ aayi
   Dekho ghabra ke nikal aayi meri maajayi
-  Dekho behosh sakina ka pada hai bhai
-  Jao sajjad ko sholon se nikalo amma
+  Dekho behosh sakina ka para hai bhai
+  Jao sajjad ko sholoṅ se nikalo amma
 
   7
   Hai guzarish meri tumse to ab itni maadar
   Amma baba ki kasam dhaamp lo moo par chadar
-  Dekha jayega na ab tumse ye khooni manzar
-  Qatl hota hoo nigahon ko hatalo amma
+  Dekha jayega na ab tumse ye khuni manzar
+  Qatl hota hoo nigahoṅ ko hatalo amma
 
   8
-  Hogi jab hashr ke maidan mein majlis barpa
+  Hogi jab hashr ke maidan meiṅ majlis barpa
   Farshe gham sheh ka bichayegi janabe zehra
   Aayegi hazrate shabbir ki rehaan sada
-  Aaj jee khol ke tum ashk bahalo amma
+  Aaj ji khol ke tum ashk bahalo amma
 # source_id: nohayonline:462473763a277f0e37b5
 # source_url: https://www.nohayonline.com/details_content.php?id=370
 # raw_sha256: de827deccef0d58aed1bc4b15c8340c29b331bcd65209a4e2eedf49ef56808c9

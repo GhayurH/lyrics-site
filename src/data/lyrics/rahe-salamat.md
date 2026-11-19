@@ -11,71 +11,71 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sina pe bol raha hai hussain ibne ali
-  Lahoo mein apne naha kar
+  Sina pe bol raha hai Husain ibne ali
+  Lahu meiṅ apne naha kar
   Hazaar sadme utha kar
   Yazeediyat ko mita kar
-  Khuda ke deen ka parcham baland maine kiya
-  Kisi yazeed mein taaqat kahan jhukaye mujhe
-  Safar ba noke sina khud pasand maine kiya
-  Sune ye saara zamana hussain ki awaaz
-  Qubool is liye naize ki nauk ki maine
+  Khuda ke din ka parcham baland maiṅ ne kiya
+  Kisi yazid meiṅ taaqat kahaṅ jhukaye mujhe
+  Safar ba noke sina khud pasand maiṅ ne kiya
+  Sune ye saara zamana Husain ki awaaz
+  Qubul is liye naize ki nauk ki maiṅ ne
   Mera kata hua sar dushmano se past na ho
   Mai sar uthaye huwe dushmano se kehta hoo
-  Hussain hota wohi hai jise shikast na ho
-  Mere azadaron ay mere ghamkharon
+  Husain hota wohi hai jise shikast na ho
+  Mere azadaroṅ ae mere ghamkharon
   Tumhare azm ko mere salaam
   Rahe salamat ta qayamat
   Rahe salamat ishq e hussaini
   Range wafa dikhlaata hai
   Warna kaun kisi ki khaatir
-  Apna khoon bahata hai
-  Ye kaale kapde jo zeb e tan hai
-  Ishq e hussaini ki hai daleel
-  Jhoole amaari taaziyadari
-  Seena zani pani ki sabeel
-  Ahle aza ko ye tehzeebe
-  Ishq e hussain sikhata hai
+  Apna khun bahata hai
+  Ye kaale kapre jo zeb e tan hai
+  Ishq-e-hussaini ki hai dalil
+  Jhule amaari taaziyadari
+  Seena zani pani ki sabil
+  Ahle aza ko ye tehzibe
+  Ishq-e-Husain sikhata hai
   Rahe salamat...
   Ye chote bache aur shabbe daari
-  Yun to bada mushkil hai safar
+  Yuṅ to bara mushkil hai safar
   Socho agar tum ahle zamana
-  Ishq e hussaini ka hai asar
-  Ishq e hussain hi in bachon ko
+  Ishq-e-hussaini ka hai asar
+  Ishq-e-Husain hi in bachoṅ ko
   Farshe aza tak laata hai
   Rahe salamat...
-  Dekho zara tum kaabe mein jaa kar
-  Sirf musalman honge wahan
+  Dekho zara tum kaabe meiṅ jaa kar
+  Sirf musalmaṅ honge wahaṅ
   Farshe aza wo wahid jagah hai
-  Apne paraye sab hai jahan
+  Apne paraye sab hai jahaṅ
   Aata wohi hai farshe aza par
-  Jisko hussain bulaata hai
+  Jisko Husain bulaata hai
   Rahe salamat...
   Wo jo binaye farhse aza hai
   Hum hai usi bibi ki dua
-  Ishq e hussaini tha uske dil mein
-  Aur hamein virse mein mila
-  Jisko mila virse mein ye matam
+  Ishq-e-hussaini tha uske dil meiṅ
+  Aur hameiṅ virse meiṅ mila
+  Jisko mila virse meiṅ ye matam
   Ahle aza kehlaata hai
   Rahe salamat...
-  Ishq e hussaini dil mein basa kar
+  Ishq-e-hussaini dil meiṅ basa kar
   Zinda rakhi ghazi ne wafa
   Jisne wafa ko zinda rakha hai
   Bali sakina ka hai chacha
   Usko dua deti hai sakina
   Jo bhi alam ko utha'ta hai
   Rahe salamat...
-  Ishq e hussaini se hai namazein
-  Ishq e hussaini farshe aza
-  Ishq e hussaini sholon pe chalna
-  Seena zani zanjeer o khama
-  Ishq e hussaini ti taaqat se
-  Matami khoon mein nahata hai
+  Ishq-e-hussaini se hai namazeiṅ
+  Ishq-e-hussaini farshe aza
+  Ishq-e-hussaini sholoṅ pe chalna
+  Seena zani zanjir o khama
+  Ishq-e-hussaini ti taaqat se
+  Matami khuṅ meiṅ nahata hai
   Rahe salamat...
-  Suno mazhar o irfan ay azadaran e man
+  Suno mazhar o irfan e azadaran e man
   Yehi wo shohdaye karbala hai
   Jinhone hal min ki sada par laabbaik kaha
-  Aur mere ishq mein apni jaano ka nazrana pesh kiya
+  Aur mere ishq meiṅ apni jaano ka nazrana pesh kiya
 # source_id: nohayonline:37f74747d78cf962bfc7
 # source_url: https://www.nohayonline.com/details_content.php?id=992
 # raw_sha256: 11fae5d8078b1ad0d5a545f603f1072171fcee54e421a89ea863123cb8f587e0

@@ -10,44 +10,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aa gayi Bint-e-Ali berida, haath baandhe bhare bazaaron mein
-  Jis ne suraj na kabhi dekha tha, ro rahi hai woh gunahgaaron mein
+  Aa gayi Bint-e-Ali berida, haath baandhe bhare bazaaroṅ meiṅ
+  Jis ne suraj na kabhi dekha tha, ro rahi hai woh gunahgaaroṅ meiṅ
 
   1
-  Kaun jaane ke ye hain kaun rasan pehne hue
+  Kaun jaane ke ye haiṅ kaun rasan pehne hue
   Berida roti hai Sajjad ke pichhe chhup kar
-  Siskiyaan doobi hain jis Bibi ki
-  Haye zanjeeron ki jhankaaron mein
+  Siskiyaaṅ dubi haiṅ jis Bibi ki
+  Haye zanjeeron ki jhankaaroṅ meiṅ
 
   2
   Haye Zahra teri qismat, na mila haq tujh ko
-  Aisi taazim teri ki hai Musalmaanon ne
+  Aisi taazim teri ki hai Musalmaanoṅ ne
   Tera haq maangne aayi Zainab
-  Ek mai-nosh ke darbaaron mein
+  Ek mai-nosh ke darbaaroṅ meiṅ
 
   3
-  Kahaan Zainab aur kahaan Shaam ke logon ka hujum
-  Sar-barehna unchi aawaaz mein khutbe parhna
+  Kahaaṅ Zainab aur kahaaṅ Shaam ke logoṅ ka hujum
+  Sar-barehna unchi aawaaz meiṅ khutbe parhna
   Khatam-e-Mursal ka hawaala de kar
-  Chaadarein maangna badkaaron mein
+  Chaadareiṅ maangna badkaaroṅ meiṅ
 
   4
-  Aag khaimon ko lagi aur the Sajjad behosh
-  Ro ro Abbas ko deti thi sadaaein Zainab
-  Lut lo chaadarein Sayyidaaniyon ki
-  Shor barpa tha sitamgaaron mein
+  Aag khaimoṅ ko lagi aur the Sajjad behosh
+  Ro ro Abbas ko deti thi sadaaeiṅ Zainab
+  Lut lo chaadareiṅ Sayyidaaniyon ki
+  Shor barpa tha sitamgaaroṅ meiṅ
 
   5
   Kis tarah baali Sakina aaj Baba ke baghair
-  So gayi chain se tanhaai mein rote rote
-  Hichkiyaan dab gayin Masuma ki
-  Haye zindaan ki diwaaron mein
+  So gayi chain se tanhaai meiṅ rote rote
+  Hichkiyaaṅ dab gayiṅ Masuma ki
+  Haye zindaan ki diwaaroṅ meiṅ
 
   6
   Jis jagah majlis-e-Shabbir ho barpa Akhtar
-  Chhor kar Baqiya wahaan roti hai Zahra aa ke
+  Chhor kar Baqiya wahaaṅ roti hai Zahra aa ke
   Baal khole hue sar pitti hai
-  Apne pyaaron ke azaadaaron mein
+  Apne pyaaroṅ ke azaadaaroṅ meiṅ
 # source_id: ziyaraat:787c631978ed218c2f86
 # source_url: https://www.ziyaraat.net/api/noha/733
 # raw_sha256: b6798a2cdbe5241a20f9acbb204169abcfece1a2ade393de23471b55951e133d

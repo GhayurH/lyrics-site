@@ -12,45 +12,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ay karbala bata ay alqama bata
-  Tanha hussain dekh rahe thay ye maajra
+  Ae karbala bata ae alqama bata
+  Tanha Husain dekh rahe the ye maajra
   Aaya tha kis tarha se tarayi pe bawafa
-  Aur kis tarha se khoon mein tar hoke reh gaya
+  Aur kis tarha se khun meiṅ tar hoke reh gaya
   Alam abbas ka alam abbas ka
-  Ye wo alam hai jis se shaheedon ki shaan hai
-  Qurbaniyon ka naam wafa ka nishan hai
-  Bachon ki aabru hai sakina ki jaan hai
+  Ye wo alam hai jis se shahidoṅ ki shaan hai
+  Qurbaniyoṅ ka naam wafa ka nishan hai
+  Bachoṅ ki aabru hai sakina ki jaan hai
   Alam abbas ka...
-  Lehra raha hai iska pharera hawaon mein
-  Iski bulandiyon ka hai charcha fizaaon mein
-  Sab karbala hai iske pharere ki chaaon mein
+  Lehra raha hai iska pharera hawaoṅ meiṅ
+  Iski bulandiyoṅ ka hai charcha fizaaoṅ meiṅ
+  Sab karbala hai iske pharere ki chaaoṅ meiṅ
   Alam abbas ka...
-  Phaila hua hai iska jo saaya hussain tak
-  Rasta isi ne sab ko dikhaya hussain tak
-  Hurr bhi isi ko dekh ke aaya hussain tak
+  Phaila hua hai iska jo saaya Husain tak
+  Rasta isi ne sab ko dikhaya Husain tak
+  Hurr bhi isi ko dekh ke aaya Husain tak
   Alam abbas ka...
-  Pyason ka is alam mein safina bhi dekhiye
-  Panje mein roshni ka khazeena bhi dekhiya
+  Pyasoṅ ka is alam meiṅ safina bhi dekhiye
+  Panje meiṅ roshni ka khazeena bhi dekhiya
   Lipti hui hai mashk e sakina bhi dekhiye
   Alam abbas ka...
-  Dekh is alam ke saaye mein yakja hai kaun kaun
+  Dekh is alam ke saaye meiṅ yakja hai kaun kaun
   Qasim hai wehab e kalbi o aabis umair o aun
-  Akbar se khoobroo ke barabar khade hai john
+  Akbar se khubru ke barabar khare hai john
   Alam abbas ka...
-  Ghazi ke khoon se jo mili hai baqa isay
-  Haasil ye iftekhaar rahega sada isay
-  Har daur mein uthayenge ahle aza isay
+  Ghazi ke khuṅ se jo mili hai baqa ise
+  Haasil ye iftekhaar rahega sada ise
+  Har daur meiṅ uthayenge ahle aza ise
   Alam abbas ka...
-  Bete bichad gaye hai ye dil ko malaal hai
+  Bete bichar gaye hai ye dil ko malaal hai
   Lekin bahan ko bhai ke haq ka sawaal hai
-  Zainab ko har dua mein isi ka khayaal hai
+  Zainab ko har dua meiṅ isi ka khayaal hai
   Alam abbas ka...
-  Ay tashna lab wafaaon ke darya salaam le
+  Ae tashna lab wafaaoṅ ke darya salaam le
   Har apne soghwaar ka pyasa salaam le
-  Ay karbala ke daste bureeda salaam le
+  Ae karbala ke daste bureeda salaam le
   Alam abbas ka...
-  Hum ko jo ye taraayi mein behre karam mila
-  Tareekh ko hilal kahan ye hasham mila
+  Hum ko jo ye taraayi meiṅ behre karam mila
+  Tarikh ko hilal kahaṅ ye hasham mila
   Zainab ki ye dua thi ke aisa alam mila
   Alam abbas ka...
 # source_id: nohayonline:119c5085c17ea1da4dc9

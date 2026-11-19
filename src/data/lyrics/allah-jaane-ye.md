@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab sakina ko sar e hazrate shabbir mila
+  Jab sakina ko sar-e-hazrate shabbir mila
   Moo pe moo rakh ke sakina ne kiya tha nauha
   Baba ye zaalim dunya
   Kabhi nehr pe pehra lagaati hai
-  Kabhi pyason ko tadpaati hai
-  Mehmaan ko khoon rulaati hai
+  Kabhi pyasoṅ ko tarpaati hai
+  Mehmaan ko khuṅ rulaati hai
   Sadaat ko qaidi banaati hai
   Sadaat ki ghurbat pe bhi khamosh hai dunya
-  Sach hai badi ehsaan faramosh hai dunya
+  Sach hai bari ehsaan faramosh hai dunya
   Beti ko saath baap ke rehne nahi deti hai
   Allah jaane ye dunya kaisi hai
-  Baba yahan rone pe tamachon ki saza hai
-  Ashkon pe bhi faryad pe bhi pehra laga hai
-  Bin baap ki bachi ko tadapne nahi deti hai
+  Baba yahaṅ rone pe tamachoṅ ki saza hai
+  Ashkoṅ pe bhi faryad pe bhi pehra laga hai
+  Bin baap ki bachi ko tarapne nahi deti hai
   Allah jaane ye dunya...
-  Baba mere kaano se rawan khoon hai abhi tak
-  Taqdeer meri mujhse khafa kyun hai abhi tak
-  Ghar loot ke bhi chain se jeene nahi deti hai
+  Baba mere kaano se rawaṅ khuṅ hai abhi tak
+  Taqdir meri mujhse khafa kiuṅ hai abhi tak
+  Ghar lut ke bhi chain se jine nahi deti hai
   Allah jaane ye dunya...
-  Baba jo guzarti hai tumhe kaise bataun
+  Baba jo guzarti hai tumhe kaise batauṅ
   Sab log alag qaid hai mai qaid alag hoo
-  Ek lamha bhi ghar walon se milne nahi deti hai
+  Ek lamha bhi ghar waloṅ se milne nahi deti hai
   Allah jaane ye dunya...
   Baba ye andhera hi mujhe qatl karega
-  Lagta hai ye zindan meri qabr banega
-  Zindan se ghar kyun mujhe jaane nahi deti hai
+  Lagta hai ye zindaṅ meri qabr banega
+  Zindaṅ se ghar kiuṅ mujhe jaane nahi deti hai
   Allah jaane ye dunya...
   Baba phupi amma ki judaai pe hoo muztar
   Sajjad mere saath hai na saath hai baqer
-  Aankhon se mere ashk bhi behne nahi deti hai
+  Aankhoṅ se mere ashk bhi behne nahi deti hai
   Allah jaane ye dunya...
   Baba mere har dard ka irfan hai tum ko
-  Ay mazhar e yazdan ke pisar mujhko bachalo
-  Jeena to kuja chain se marne nahi deti hai
+  E mazhar e yazdaṅ ke pisar mujhko bachalo
+  Jina to kuja chain se marne nahi deti hai
   Allah jaane ye dunya...
 # source_id: nohayonline:2603ee5d2af809f5c55c
 # source_url: https://www.nohayonline.com/details_content.php?id=2217

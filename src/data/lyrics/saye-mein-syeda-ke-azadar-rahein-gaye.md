@@ -1,6 +1,6 @@
 ---
 title: "سائے میں سیدہ کے عزادار رہیں گے"
-alternateTitle: "Saaye Mein Sayyeda Ke Azaadaar Raheṅge"
+alternateTitle: "Saaye Meiṅ Sayyeda Ke Azaadaar Raheṅge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,34 +12,34 @@ aliases: []
 published: false
 romanLyrics: |-
   Jab hoga sawa neze pe khurshid-e-qayamat
-  Saaye mein Sayyeda ke azaadaar raheṅge
+  Saaye meiṅ Sayyeda ke azaadaar raheṅge
 
   1
   Barhta hi chala jaaega Shabbir ka maatam
   Aaye jo gham-e-Sheh ke alamdaar raheṅge
 
   2
-  Hum qabr mein so jaaeṅge jab bekhabari se
-  Maatam ke nishaan ruh mein bedaar raheṅge
+  Hum qabr meiṅ so jaaeṅge jab bekhabari se
+  Maatam ke nishaan ruh meiṅ bedaar raheṅge
 
   3
-  Har chiz ko dunya mein fanaa hona hai ik din
+  Har chiz ko dunya meiṅ fanaa hona hai ik din
   Qaayim gham-e-Shabbir ke aasaar raheṅge
 
   4
-  Jannat mein agar majlis-e-Shabbir na hogi
+  Jannat meiṅ agar majlis-e-Shabbir na hogi
   Hum ahl-e-aza khuld se bezaar raheṅge
 
   5
   Ik baar zara naam-e-Ali le ke to dekho
-  Mushkil mein madadgaar woh har baar raheṅge
+  Mushkil meiṅ madadgaar woh har baar raheṅge
 
   6
-  Bejaan khudaaon se kaha Bint-e-Asad ne
-  Kaabe mein to ab Haidar-e-Karraar raheṅge
+  Bejaan khudaaoṅ se kaha Bint-e-Asad ne
+  Kaabe meiṅ to ab Haidar-e-Karraar raheṅge
 
   7
-  Zainab ka khule sar bhare darbaar mein jaana
+  Zainab ka khule sar bhare darbaar meiṅ jaana
   Sajjad isi dard se bimaar raheṅge
 
   8

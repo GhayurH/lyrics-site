@@ -1,6 +1,6 @@
 ---
 title: "مسلم عقیل ہوں سفیر حسین ہوں"
-alternateTitle: "Mai Safeere Hussain"
+alternateTitle: "Mai Safire Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,111 +11,111 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Muslim e aqeel hoon safeer e hussain hoon
+  Muslim e aqil huṅ safir e Husain huṅ
   Baatil ka khauf e haq se kaleja laraz utha
   Bas ek sada se haakim e kufa laraz utha
-  Ehsaas e qalb e haq hoon zameer e hussain hoon
-  Mai aashiq e ali hoon asseer e hussain hoon
-  Zainab ka intekhab musheer e hussain hoon
-  Pehchaan lo mujhko mai safeer e hussain hoon
-  Mai safeer e hussain hoon
-  Muslim e aqeel hoon mai jaan le jahan
-  Ashjaul arab kahe zameen o aasman
-  Hashmi wirasaton se azm hai jawan
-  Hyderi shuja'atein lahoon mein hai rawan
-  Mai waqt ka hisaar hoon
-  Mai noor ki bahaar hoon
-  Zameen ka ikhtetaar hoon
-  Falak ka iftekhar hoon
-  Mai ishq ka sheaar hoon
-  Wafa ka aetbaar hoon
-  Dua ka ikhteyar hoon
-  Mai sheh ka jaan nisar hoon
-  Mai safeer e hussain hoon...
-  Aetmaad rakta hai ali ka noor e ain
-  Ki mujhe imam ne siparaton ki zain
+  Ehsaas e qalb e haq huṅ zameer e Husaiṅ huṅ
+  Mai aashiq e ali huṅ assir e Husain huṅ
+  Zainab ka intekhab mushir e Husain huṅ
+  Pehchaan lo mujhko mai safir e Husain huṅ
+  Mai safir e Husain huṅ
+  Muslim e aqil huṅ mai jaan le jahaṅ
+  Ashjaul arab kahe zamin o aasmaṅ
+  Hashmi wirasatoṅ se azm hai jawaaṅ
+  Hyderi shuja'atein lahoon meiṅ hai rawaṅ
+  Mai waqt ka hisaar huṅ
+  Mai nur ki bahaar huṅ
+  Zamiṅ ka ikhtetaar huṅ
+  Falak ka iftekhar huṅ
+  Mai ishq ka sheaar huṅ
+  Wafa ka aetbaar huṅ
+  Dua ka ikhteyar huṅ
+  Mai sheh ka jaaṅ nisar huṅ
+  Mai safir e Husain huṅ...
+  Aetmaad rakta hai ali ka nur-e-ain
+  Ki mujhe imam ne siparatoṅ ki zain
   Sar pe hai mere dua e shaah e mashraqain
-  Mai akela zaat mai hoon lashkar e hussain
-  Mai hausle ki jast hoon
-  Wafa e haq parast hoon
-  Maye wila se mast hoon
-  Mai deen ka bandobast hoon
-  Mai aetebaar e hast hoon
-  Mai har hisaar e dast hoon
-  Mai kufa e zameer mein
-  Yazeed ki shikast hoon
-  Mai safeer e hussain hoon...
-  Ye ghulame shaahe deen haq batayega
+  Mai akela zaat mai huṅ lashkar e Husain
+  Mai hausle ki jast huṅ
+  Wafa e haq parast huṅ
+  Maye wila se mast huṅ
+  Mai diṅ ka bandobast huṅ
+  Mai aetebaar e hast huṅ
+  Mai har hisaar-e-dast huṅ
+  Mai kufa e zamir meiṅ
+  Yazid ki shikast huṅ
+  Mai safir e Husain huṅ...
+  Ye ghulame shaahe diṅ haq batayega
   Sheh ka saath dega jo falaah payega
   Jang jo karega mujhse maat khayega
   Taygh se meri na koi bach ke jayega
   Mai daur e inqelaab hoon
-  Mai taygh ka shabab hoon
-  Mai nusraton ka khwab hoon
-  Mai khoon ka hisaab hoon
-  Mai ilm ki kitaab hoon
-  Mai jehl par azaab hoon
-  Hussain ki haseen sifaraton ka intekhab hoon
-  Mai safeer e hussain hoon...
-  Aa raha hoon choom kar qadam imam ka
-  Haat mein baland hai alam imam ka
-  Leke aa raha hoon mai bharam imam ka
-  Kufiyon pata hai tum ko gham imam ka
+  Mai taygh ka shabab huṅ
+  Mai nusratoṅ ka khwab huṅ
+  Mai khuṅ ka hisaab huṅ
+  Mai ilm ki kitaab huṅ
+  Mai jehl par azaab huṅ
+  Husain ki hasiṅ sifaratoṅ ka intekhab huṅ
+  Mai safir e Husain huṅ...
+  Aa raha huṅ chum kar qadam imam ka
+  Haat meiṅ baland hai alam imam ka
+  Leke aa raha huṅ mai bharam imam ka
+  Kufiyoṅ pata hai tum ko gham imam ka
   Zindagi hai tashna kaam
   Din ka kab hai ehteram
-  Qatl o khoon hai aaj aam
-  Mushkilon mein hai imam
-  Chod kar wafa awaam
-  Khwahishon ki hai ghulam
+  Qatl o khun hai aaj aam
+  Mushkiloṅ meiṅ hai imam
+  Chor kar wafa awaam
+  Khwahishoṅ ki hai ghulam
   Jo bhi hai mera kalaam
-  Hai hussain ka payam
-  Mai safeer e hussain hoon...
-  Ghaibate imam mein ho aisa intezar
-  Ilm par yaqeen ho amal pe aetebaar
+  Hai Husain ka payam
+  Mai safir e Husain huṅ...
+  Ghaibate imam meiṅ ho aisa intezar
+  Ilm par yaqin ho amal pe aetebaar
   Nasiran e haq ka phir se hona hai shumaar
-  Muntakhib safeer hoga kaun ab ki baar
+  Muntakhib safir hoga kaun ab ki baar
   Agar ho saum aur salaat
   Hajj o khums aur zakat
-  Amr aur nahi ki deen e haq mein saari mumkinaat
-  Ho hussain hi hussain
-  Bhool jaaye apni zaat
-  Deen pe yun amal kare
+  Amr aur nahi ki din e haq meiṅ saari mumkinaat
+  Ho Husain hi Husain
+  Bhul jaaye apni zaat
+  Diṅ pe yuṅ amal kare
   To keh sake ye hum ye baat
-  Mai safeer e hussain hoon...
-  Muslim e ghareeb ne kiya hai jab kalaam
-  Marte dam naseeb ho ziyarat e imam
-  Karbala uthi kiya hawaon par qayam
-  Dekh kar hussain ko kaha hai as-salam
+  Mai safir e Husain huṅ...
+  Muslim e gharib ne kiya hai jab kalaam
+  Marte dam nasib ho ziyarat e imam
+  Karbala uthi kiya hawaoṅ par qayam
+  Dekh kar Husain ko kaha hai as-salam
   As salamo alaika ya aba abdillah
   As salamo alaika yabna rasoolillah
-  Choor choor jism hai jigar hai paash paash
-  Hai kahan pisar mere kahan karun talaash
+  Chur chur jism hai jigar hai paash paash
+  Hai kahaṅ pisar mere kahaṅ karuṅ talaash
   Qatl kar ke le chale hai mujhko bad-khamash
-  Maut ke bhi baad hai safar mein meri laash
-  Mai safeer e hussain hoon...
+  Maut ke bhi baad hai safar meiṅ meri laash
+  Mai safir e Husain huṅ...
   Nazim aur razi ki tarz sab se hai juda
   Jaffar aur baksh bhai aur ali zia
-  Javedan hai lehja ab bhi sachey bhai ka
+  Javedan hai lehja ab bhi sache bhai ka
   Hum hai tifle maktab aur ye asaateza
-  Ye hai aza ka kaarwan
-  Ye hai lehen ki kehkeshan
-  Ye lehja o khayal mein ghame hussain ki azan
-  Ye karbala ki dastaan
-  Yeh zikr sheh ka sayeban
-  Azeem hai jo nauhakhwan unhi ka hoon mai tarjuma
-  Mai safeer e hussain hoon...
+  Ye hai aza ka kaarwaṅ
+  Ye hai lehen ki kehkeshaṅ
+  Ye lehja o khayal meiṅ ghame Husain ki azaṅ
+  Ye karbala ki dastaaṅ
+  Yeh zikr sheh ka sayebaṅ
+  Azim hai jo nauhakhwan unhi ka huṅ mai tarjuma
+  Mai safir e Husain huṅ...
   Rizwan farhan sab hai nauha gar
   Nasir o shujah aur ali safdar
-  Shadman shahid o nadeem sarwar
+  Shadmaṅ shahid o nadim sarwar
   Sab ke sab ki ek hi sada hai ye qamar
-  Mai hoon aza ke paksh par
-  Mai hoon dilon ke arsh par
-  Mai majlison mein nauha gar
-  Majlis aur juloos mein hoon jalwa gar
+  Mai huṅ aza ke paksh par
+  Mai huṅ diloṅ ke arsh par
+  Mai majlisoṅ meiṅ nauha gar
+  Majlis aur julus meiṅ huṅ jalwa gar
   Gali gali nagar nagar
-  Mai aansuon ka hamsafar
-  Mai poori kayenat mein hussain ka payaam bar
-  Mai safeer e hussain hoon...
+  Mai aansuoṅ ka hamsafar
+  Mai puri kayenat meiṅ Husain ka payaam bar
+  Mai safir e Husain huṅ...
 # source_id: nohayonline:e95a6d79f1127cab1f1f
 # source_url: https://www.nohayonline.com/details_content.php?id=3227
 # raw_sha256: a2f60680786c87c6c9c09e166e9b1da6d3b431817f8a83798d97eece0eef634d

@@ -8,47 +8,47 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Darood un par salam un par Mere nabi ka jo hai gharana
+  Darud un par salam un par Mere nabi ka jo hai gharana
 
   Hai jin kay dam se jahan ki ronaq , Jahan ka mosam bhi hai suhana
 
-  Darood un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
 
-  Maqam e Mehboob e Kibriya ki, Nahin hai wussat mere bayan main
+  Maqam e Mehboob e Kibriya ki, Nahiṅ hai wussat mere bayan maiṅ
 
   Rehman Khud ka raha hai Sallu, Alla ka har waqt yeh tarana
 
-  Darood un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
 
-  Bana kay Tasweer Murtaza ki, kaha yeh jibreel se Khuda ne
+  Bana kay Taswir Murtaza ki, kaha yeh jibril se Khuda ne
 
   Rahay na koi kami kahi par, Luta do sub hussn ka Khazana
 
-  Darood un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
 
-  Kaneez e Khaliq Janab e Zehra, Jin k dum se haya jahan main
+  Kaniz e Khaliq Janab e Zehra, Jin k dum se haya jahan maiṅ
 
-  Zuban kholain to ayatain ho, rukay to Tatheer ka fasana
+  Zuban kholain to ayatain ho, rukay to Tathir ka fasana
 
-  Darood un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
 
-  Hassan jahan ka ameer aisa, hayat jibreel sa farishta
+  Hasan jahan ka amir aisa, hayat jibril sa farishta
 
   Bahisht Jageer mujtaba ki, Hai jis main Panjtan ka ana jan
 
-  Darood un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
 
-  Hussain sabr o shukar ki manzil, Hussain waris e Anbiya hain
+  Husain sabr o shukar ki manzil, Husain waris e Anbiya hain
 
-  Hussain azmat do jahan hai, jissay na bhoolay ga yeh zaman
+  Husain azmat do jahan hai, jissay na bhule ga yeh zaman
 
-  Darood un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
 
   Aie mere parwardigar hum ko, dikha day karb o bala ki nagri
 
   Jaha pay imran aur anjum, ada krain soz panjagana
 
-  Darood un par salam un par Mere nabi ka jo hai gharana (x1)
+  Darud un par salam un par Mere nabi ka jo hai gharana (x1)
 # source_id: nohawriteups:f11c652ee775f83c6962
 # source_url: https://www.nohawriteups.org/darood-un-par-salam-un-par-mere-nabi-ka-jo-hai-gharana-lyrics/
 # original_html: snapshots/nohawriteups/original_html/f11c652ee775f83c6962.html.gz

@@ -59,7 +59,7 @@ romanLyrics: |-
   Bheji hai sajaa kar haye Qasim
 
   7
-  Sanu Raas Na Aayi Karb-o-Bala
+  Sanu Raas Na Aayi Karb o Bala
   Tu Baaj Kafan Main Baaj Rida
   Taiday Qatal De Baad Laeena Ne
   Maidi Lut Layi Chadar Haye Qasim

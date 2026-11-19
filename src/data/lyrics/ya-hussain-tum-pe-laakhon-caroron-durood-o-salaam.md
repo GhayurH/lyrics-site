@@ -1,6 +1,6 @@
 ---
 title: "تم پہ لاکھوں کروڑوں درود و سلام"
-alternateTitle: "Ya Hussain"
+alternateTitle: "Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,22 +10,22 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Tum pe laakhon caroron durood o salaam
-  Ya hussain
+  Tum pe laakhoṅ caroron durud o salaam
+  Ya Husain
 
   1
-  Ya hussain ya hussain ya hussain ya hussain
-  Mere sayyed hussain mere pyase hussain
-  Mere aaqa hussain mere maula hussain
+  Ya Husain ya Husain ya Husain ya Husain
+  Mere sayyed Husain mere pyase Husain
+  Mere aaqa Husain mere maula Husain
 
   2
   Tu ne bachpan ka waada wafa kar diya
   Naam e allah apna bhara ghar diya
-  Tera ehsaan hai deen par
+  Tera ehsaaṅ hai din par
   Keh rahe hai ye jinn o bashar
   Matami de rahe hai jabhi ko sada
-  Mere sayyed hussain mere pyase hussain
-  Mere aaqa hussain mere maula hussain
+  Mere sayyed Husain mere pyase Husain
+  Mere aaqa Husain mere maula Husain
 
   3
   Ek tu hi mahafiz hai quran ka
@@ -33,71 +33,71 @@ romanLyrics: |-
   Har azadaar maange dua
   Ta qayamat rahe karbala
   Zindagi hai hamari ye farshe aza
-  Mere sayyed hussain mere pyase hussain
-  Mere aaqa hussain mere maula hussain
+  Mere sayyed Husain mere pyase Husain
+  Mere aaqa Husain mere maula Husain
 
   4
   Ye dua hai hamesha moharram rahe
   Hum rahe na rahe tera matam rahe
-  Door karta rahe sab ke gham
+  Dur karta rahe sab ke gham
   Yunhi lehraye tera alam
   Baant'ti hai wafa ek alam ki hawa
-  Mere sayyed hussain mere pyase hussain
-  Mere aaqa hussain mere maula hussain
+  Mere sayyed Husain mere pyase Husain
+  Mere aaqa Husain mere maula Husain
 
   5
-  Kyun na likhe ye haq baat mera qalam
-  Tere dam se hai islam ke dam mein dam
+  Kiuṅ na likhe ye haq baat mera qalam
+  Tere dam se hai islam ke dam meiṅ dam
   Haq yehi hai khuda ki qasam
   Likh raha hai jo mera qalam
   Yani kaabe se afzal hai karbobala
-  Mere sayyed hussain mere pyase hussain
-  Mere aaqa hussain mere maula hussain
+  Mere sayyed Husain mere pyase Husain
+  Mere aaqa Husain mere maula Husain
 
   6
   Chal rahe hai hussaini teri raah par
-  Mar ke jeene ka tu ne sikhaya hunar
+  Mar ke jine ka tu ne sikhaya hunar
   Tere jaisa nahi hai jari
   Keh rahe hai abhi tak ali
-  Aur awaaz deta hai deen e khuda
-  Mere sayyed hussain mere pyase hussain
-  Mere aaqa hussain mere maula hussain
+  Aur awaaz deta hai din e khuda
+  Mere sayyed Husain mere pyase Husain
+  Mere aaqa Husain mere maula Husain
 
   7
-  Yaad hai har ghadi bas hamay karbala
+  Yaad hai har ghari bas hamay karbala
   Karte rehte hai din raat ye tazkira
-  Saari dunya ke gham bhool kar
+  Saari dunya ke gham bhul kar
   Farshe matam pe hai nauha gar
   Beh rahi hai har ek aankh se alqama
-  Mere sayyed hussain mere pyase hussain
-  Mere aaqa hussain mere maula hussain
+  Mere sayyed Husain mere pyase Husain
+  Mere aaqa Husain mere maula Husain
 
   8
-  Tere akbar ke seene pe naiza laga
-  Teer se tere asghar ka cheda gala
-  Tere qasim ko tukde kiya
+  Tere akbar ke sine pe naiza laga
+  Tir se tere asghar ka cheda gala
+  Tere qasim ko tukre kiya
   Tera bemaar qaidi bana
   Tere ghazi ko darya pe maara gaya
-  Mere sayyed hussain mere pyase hussain
-  Mere aaqa hussain mere maula hussain
+  Mere sayyed Husain mere pyase Husain
+  Mere aaqa Husain mere maula Husain
 
   9
-  Tere qaime jalaye gaye dasht mein
-  Tere atfaal pyase rahe dasht mein
-  Tere asghar ka jhoola jala
-  Teri zainab ki cheeni rida
-  Subhe ashoor se shaam tak ghar luta
-  Mere sayyed hussain mere pyase hussain
-  Mere aaqa hussain mere maula hussain
+  Tere qaime jalaye gaye dasht meiṅ
+  Tere atfaal pyase rahe dasht meiṅ
+  Tere asghar ka jhula jala
+  Teri zainab ki chini rida
+  Subhe ashur se shaam tak ghar luta
+  Mere sayyed Husain mere pyase Husain
+  Mere aaqa Husain mere maula Husain
 
   10
-  Shadman mujhse honge ali o nabi
+  Shadmaṅ mujhse honge ali o nabi
   Umr bhar nauhe likhega mazhar yunhi
   Ek pal na rukega qalam
-  Jab talak hai mere dam mein dam
+  Jab talak hai mere dam meiṅ dam
   Mera har lafz deta rahega sada
-  Mere sayyed hussain mere pyase hussain
-  Mere aaqa hussain mere maula hussain
+  Mere sayyed Husain mere pyase Husain
+  Mere aaqa Husain mere maula Husain
 # source_id: nohayonline:c7f24540f6396b140943
 # source_url: https://www.nohayonline.com/details_content.php?id=3228
 # raw_sha256: 8b8510642ee3a7f2414369c63ad0d3c8e2104658b51f8657298a5f1e79057494

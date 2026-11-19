@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab sar e hussain kat ke khaak pe gira
+  Jab sar e Husain kat ke khaak pe gira
   Aa rahi thi shaah ke badan se ye sada
   Maa haye maa haye maa
-  Maa tumhari godh mein ab hussain kaise soyega
+  Maa tumhari godh meiṅ ab Husain kaise soyega
   Amma mera sar nahi raha
   Jis ki tum nazar utaarti rahi ho maa
-  Aankhein wo kahan wo mera chehra ab kahan
-  Zulfein tum sawaarti thi kitne pyar se
-  Maatha kaise choomogi hussain ka yahan
-  Hasratein nikalogi aaj kaise khud batao na
+  Aankheiṅ wo kahaṅ wo mera chehra ab kahaṅ
+  Zulfeiṅ tum sawaarti thi kitne pyar se
+  Maatha kaise choomogi Husain ka yahaṅ
+  Hasrateiṅ nikalogi aaj kaise khud batao na
   Amma mera sar...
   Shimr kaat'ta tha amma jab mera dahan
   Kuch qadam se dekhti rahi meri behen
-  Baalon se utha ke sar wo saath le gaya
-  Khaak par tadapta reh gaya mera badan
+  Baaloṅ se utha ke sar wo saath le gaya
+  Khaak par tarapta reh gaya mera badan
   Mere khushk halq par khanjar itni dayr tak chala
   Amma mera sar...
-  Amma koi kurta le gaya hussain ka
-  Koi khoon bhara amaama le gaya mera
-  Ungli meri kaat di angoothi ke liye
+  Amma koi kurta le gaya Husain ka
+  Koi khuṅ bhara amaama le gaya mera
+  Ungli meri kaat di anguthi ke liye
   Dekho ab mere badan pe kuch nahi bacha
-  Loot'te rahe mujhe shamiyon ko jab pata chala
+  Lut'te rahe mujhe shamiyoṅ ko jab pata chala
   Amma mera sar...
-  Zakhmi hoke jab zameen par gira hussain
-  Pyasa mar gaya tumhara laadla hussain
-  Dafn kar chuka hoon apne sheerkhwar ko
-  Dekho ek din mein kitna thak chuka hussain
+  Zakhmi hoke jab zamin par gira Husain
+  Pyasa mar gaya tumhara laadla Husain
+  Dafn kar chuka huṅ apne sheerkhwar ko
+  Dekho ek din meiṅ kitna thak chuka Husain
   Haath bhai ke kate seena chid gaya jawan ka
   Amma mera sar...
-  Chaar saal jisko maine pyar se rakha
+  Chaar saal jisko maiṅ ne pyar se rakha
   Kha chuki hai aaj wo tamacha shimr ka
-  Kurta jal chuka hai chin gayi hai baaliyan
-  Baba tum kahan ho de rahi hai wo sada
-  Ab sakina dasht mein kaise dhoondegi badan mera
+  Kurta jal chuka hai chin gayi hai baaliyaṅ
+  Baba tum kahaṅ ho de rahi hai wo sada
+  Ab sakina dasht meiṅ kaise dhoondegi badan mera
   Amma mera sar...
   Zainab aayegi jab amma meri laash par
   Wo yahin giregi bhai bhai bol kar
-  Pattharon ko laash se wo jab hatayegi
-  Chaahta tha dekh loon behen ko ek nazar
+  Pattharoṅ ko laash se wo jab hatayegi
+  Chaahta tha dekh luṅ behen ko ek nazar
   Haye hasrata magar mai behen ko kaise dekhunga
   Amma mera sar...
-  Zeeshan abidi ye goonji dasht mein sada
+  Zishan abidi ye gunji dasht meiṅ sada
   Beta tere paas aagayi hai fatema
-  Maa to maa hai godh mein utha legi tujhe
+  Maa to maa hai godh meiṅ utha legi tujhe
   Sar nahi to kya hua badan to hai tera
-  Soja meri godh mein dekh maa se ab na bolna
+  Soja meri godh meiṅ dekh maa se ab na bolna
   Amma mera sar...
 # source_id: nohayonline:bbe1e5ef7ac6400548a9
 # source_url: https://www.nohayonline.com/details_content.php?id=3701

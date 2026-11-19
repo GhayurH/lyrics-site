@@ -9,7 +9,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Alwida alwida alwida aey Hussain
+  Alwida alwida alwida aey Husain
 
   1
   1) Ye sadaye fughan aur ye majlisain
@@ -27,7 +27,7 @@ romanLyrics: |-
   3) Baksh dain ho gayi ho jo koi khata
   Haqqe khidmat na humse ada ho saka
   Gham yehi hay na jee bhar ke matam kiya
-  Teri khaatir na kyun apna sar de diya
+  Teri khaatir na kiun apna sar de diya
 
   4
   4) Gar jiye saal bhar phir karenge ye gham
@@ -36,7 +36,7 @@ romanLyrics: |-
   Haey afsos jee bhar ke roye na hum
 
   5
-  5) Alwida aey Hussain aey Hussain alwida
+  5) Alwida aey Husain aey Husain alwida
   Alwida aey Shahe mashraqain alwida
   Binte Ahmed kay aey noore ain alwida
   Hay mujahid ke lab par ye bain alwida

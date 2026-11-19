@@ -12,40 +12,40 @@ romanLyrics: |-
   1
   Al atash al atash al atash
   Aaqa adrikni adrikni
-  Koshish to bahot ki maine
-  Bhari thi ye mashk bhi maine
-  Aaqa hussain sharminda hoo
-  Maula hussain sharminda hoo
-  Aankhon se nazar nahi aata
+  Koshish to bahot ki maiṅ ne
+  Bhari thi ye mashk bhi maiṅ ne
+  Aaqa Husain sharminda hoo
+  Maula Husain sharminda hoo
+  Aankhoṅ se nazar nahi aata
   Na baazu hai tan par maula
   Karna tha jo na kar paaya
-  Aaqa hussain sharminda hoo
+  Aaqa Husain sharminda hoo
   Afsos mashk khaali hai
   Le jao alam ye mera
   Le jao ye mashk e sakina
-  Poora na hua mera waada
+  Pura na hua mera waada
   Laasha mera na le jaana
-  Daaton se bhi mashk ko thaama
-  Seene se us ko chupaya
-  Gaya tha ke wapas aaun
+  Daatoṅ se bhi mashk ko thaama
+  Sine se us ko chupaya
+  Gaya tha ke wapas aauṅ
   Par kuch bhi na mai kar paaya
   Afsos mashk khaali hai
-  Koshish to bahot ki maine
-  Bhari thi ye mashk bhi maine
-  Aaqa hussain sharminda hoo
-  Maula hussain sharminda hoo
-  Aankhon se nazar nahi aata
+  Koshish to bahot ki maiṅ ne
+  Bhari thi ye mashk bhi maiṅ ne
+  Aaqa Husain sharminda hoo
+  Maula Husain sharminda hoo
+  Aankhoṅ se nazar nahi aata
   Na baazu hai tan par maula
   Karna tha jo na kar paaya
-  Aaqa hussain sharminda hoo
+  Aaqa Husain sharminda hoo
   Afsos mashk khaali hai
   Le jao alam ye mera
   Le jao ye mashk e sakina
-  Poora na hua mera waada
+  Pura na hua mera waada
   Laasha mera na le jaana
-  Daaton se bhi mashk ko thaama
-  Seene se us ko chupaya
-  Gaya tha ke wapas aaun
+  Daatoṅ se bhi mashk ko thaama
+  Sine se us ko chupaya
+  Gaya tha ke wapas aauṅ
   Par kuch bhi na mai kar paaya
   Afsos mashk khaali hai
   Aaqa adrikni

@@ -10,44 +10,44 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Din dhal gaya hai logon
-  Ghar jal gaya hai logon
-  Zainab ujad gayi hai
-  Haye shaam e ghariban
-  Zainab ke sar se dekho chadar bhi cheen li hai
+  Din dhal gaya hai logoṅ
+  Ghar jal gaya hai logoṅ
+  Zainab ujar gayi hai
+  Haye shaam e gharibaṅ
+  Zainab ke sar se dekho chadar bhi chin li hai
   Bemaar ek jaan ko kaisi saza ye di hai
   Abid bhi ro raha hai daaman bhigo raha hai
-  Zainab ujad gayi hai
+  Zainab ujar gayi hai
   Haye shaam e ghariban...
-  Loota hai zalimon ne zahra ke gulistan ko
-  Dekho lage tamache nanhi si ek jaan ko
-  Be-aasra sakina bhai padar bhi cheena
-  Zainab ujad gayi hai
+  Luta hai zalimoṅ ne zahra ke gulistaṅ ko
+  Dekho lage tamache nanhi si ek jaaṅ ko
+  beaasra sakina bhai padar bhi china
+  Zainab ujar gayi hai
   Haye shaam e ghariban...
   Laashe pe jaake baap ke kehti hai ye sakina
   Phir kab milega baba mujhko tera ye seena
-  Dushman jahan hai mera cheena hai pyar tera
-  Zainab ujad gayi hai
+  Dushman jahaṅ hai mera china hai pyar tera
+  Zainab ujar gayi hai
   Haye shaam e ghariban...
-  Aaya sawaar koi qaimon mein ek hijab mein
-  Poocha batool zaadi ne tu kaun hai naqaab mein
+  Aaya sawaar koi qaimon meiṅ ek hijab meiṅ
+  Pucha batul zaadi ne tu kaun hai naqaab meiṅ
   Bole ali na ghabra ye kya hua hai batla
-  Zainab ujad gayi hai
+  Zainab ujar gayi hai
   Haye shaam e ghariban...
   Roke kaha ye zainab ne hum lut gaye hai baba
-  Maidan e karbala mein hum mit gaye hai baba
+  Maidan e karbala meiṅ hum mit gaye hai baba
   Haye zulm kya hua hai haye kya sitam hua hai
-  Zainab ujad gayi hai
+  Zainab ujar gayi hai
   Haye shaam e ghariban
   Daaman kisi ka dekho aatish se jal raha hai
-  Logon yehi sakina asghar se jo juda hai
-  Bhai kisi ka bichda gulshan ali ka ujda
-  Zainab ujad gayi hai
+  Logoṅ yehi sakina asghar se jo juda hai
+  Bhai kisi ka bichra gulshan ali ka ujra
+  Zainab ujar gayi hai
   Haye shaam e ghariban
-  Nasir ye shaam kaisi aayi hai karbala mein
-  Kya kya musibaton ko laayi hai karbala mein
-  Bhai bichad gaya hai ghar bhi ujad gaya hai
-  Zainab ujad gayi hai
+  Nasir ye shaam kaisi aayi hai karbala meiṅ
+  Kya kya musibatoṅ ko laayi hai karbala meiṅ
+  Bhai bichar gaya hai ghar bhi ujar gaya hai
+  Zainab ujar gayi hai
   Haye shaam e ghariban
 # source_id: nohayonline:3bdbfa8a140d3c606784
 # source_url: https://www.nohayonline.com/details_content.php?id=801

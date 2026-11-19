@@ -23,7 +23,7 @@ romanLyrics: |-
 
   4
   Tu par-e-Jibrail ki zeenat tha, kiun laasha tera paamaal hua
-  Be-gor-o-kafan ho bhai mere, Zainab ko yehi armaan hai
+  begor o kafan ho bhai mere, Zainab ko yehi armaan hai
 
   5
   Ae Kufiyo main hun bint-e-Ali, aur waaris chaadar-e-Zahra ki

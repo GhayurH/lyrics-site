@@ -8,47 +8,47 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  SarAllah Ya Saratul Hussain
-  Ya Shaheed o Ya Mazloom
+  SarAllah Ya Saratul Husain
+  Ya Shahid o Ya Mazlum
 
   1
-  Dhoop may tera lasha hay parra
+  Dhup may tera lasha hai parra
 
   2
-  Tu jidhar hay us taraf haq ki rah - Ya Hussain, Ya Hussain
-  Mil gayi Kaabaaay ko sajda gah - Ya Hussain, Ya Hussain
-  Mil gayi Kaabaaay ko sajda gah
-  Sar jo naizay par utha hay tera
+  Tu jidhar hai us taraf haq ki rah - Ya Husain, Ya Husain
+  Mil gayi Kaabaae ko sajda gah - Ya Husain, Ya Husain
+  Mil gayi Kaabaae ko sajda gah
+  Sar jo naize par utha hai tera
 
   3
-  Murtajiz Zainab ke pas aa gaya - Ya Hussain, Ya Hussain
-  Aakhri lamhy-mey Shahe Huda - Ya Hussain, Ya Hussain
+  Murtajiz Zainab ke pas aa gaya - Ya Husain, Ya Husain
+  Aakhri lamhy-mey Shahe Huda - Ya Husain, Ya Husain
   Aakhri lamhy-mey Shahe Huda
-  Khoon bhari ankhon-se kya keh diya
+  Khuṅ bhari ankhoṅ-se kya keh diya
 
   4
-  Aayain gay jis din Imam e Zamaan - Ya Hussain, Ya Hussain
-  Le ke Abbas e jari ka nishan - Ya Hussain, Ya Hussain
-  Le ke Abbas e jari ka nishan
-  Aur labon par hoo gi ye sada
+  Aayaiṅ ge jis din Imam-e-Zamaan - Ya Husain, Ya Husain
+  Le ke Abbas-e-jari ka nishaṅ - Ya Husain, Ya Husain
+  Le ke Abbas-e-jari ka nishaṅ
+  Aur laboṅ par hu gi ye sada
 
   5
-  Be kafan taira tan e pak hay - Ya Hussain, Ya Hussain
-  Khoon hay sahraa ki khaak hay - Ya Hussain, Ya Hussain
-  Khoon hay sahraa ki khaak hay
-  Dhoop may tera lasha hay parra
+  Bekafan taira tan-e-pak hai - Ya Husain, Ya Husain
+  Khun hai sahraa ki khaak hai - Ya Husain, Ya Husain
+  Khun hai sahraa ki khaak hai
+  Dhup may tera lasha hai parra
 
   6
-  Ahl e dil ye silsila na rukay - Ya Hussain, Ya Hussain
-  Ansoyon ka toofan na thamay - Ya Hussain, Ya Hussain
-  Ansoyon ka toofan na thamay
-  Ashk hain zakhmo ki teray dawa
+  Ahl-e-dil ye silsila na ruke - Ya Husain, Ya Husain
+  Ansoyoṅ ka tufaṅ na thame - Ya Husain, Ya Husain
+  Ansoyoṅ ka tufaṅ na thame
+  Ashk haiṅ zakhmo ki tere dawa
 
   7
-  Loh o kursi ho gaye noha gar - Ya Hussain, Ya Hussain
-  Gir gaya lo aasman khaak par - Ya Hussain, Ya Hussain
-  Gir gaya lo aasman khaak par
-  Zulm se jab sar zameen par gira
+  Loh o kursi ho gaye noha gar - Ya Husain, Ya Husain
+  Gir gaya lo aasmaṅ khaak par - Ya Husain, Ya Husain
+  Gir gaya lo aasmaṅ khaak par
+  Zulm se jab sar zamiṅ par gira
 # source_id: ziyaraat:cc23d316e37b1471585b
 # source_url: https://www.ziyaraat.net/api/noha/2098
 # raw_sha256: 10f3b73b7b2fbaf86a9b494f8595d3c649d929ce1cb73b5a1f3365130e3054f8

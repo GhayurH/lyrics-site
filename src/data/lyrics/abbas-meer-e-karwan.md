@@ -12,68 +12,68 @@ published: false
 romanLyrics: |-
   1
   Yasrab se suye karbala
-  Ek kaarwan ruqsat hua
+  Ek kaarwaṅ ruqsat hua
   Sar pe alam saaya fighan
   Ghazi ki aati hai sada
   Pehla safar zainab ka hai
   Sunsaan kar do raasta
-  Kaarwan kaarwan abbas meer e karwan
+  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
   Kya shaan hai kya dab daba
   Kya log hai quranuma
   Salle alaa salle alaa
   Ayaat ka hai khaafila
-  Mashk o alam inka nishan
-  Abbas meer e karwaan
-  Kaarwan kaarwan abbas meer e karwan
+  Mashk o alam inka nishaṅ
+  Abbas mir-e-karwaaṅ
+  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
   Allah ke pyare hai ye
   Aale nabi saare hai ye
   Quran ke paare hai ye
   Kaunain ke taare hai ye
-  Zer e qadam hai asmaan
-  Abbas meer e karwaan
-  Kaarwan kaarwan abbas meer e karwan
+  Zer e qadam hai asmaaṅ
+  Abbas mir e karwaaṅ
+  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
   Koi shabihe mustafa
-  Koi hassan ka dilruba
-  Hai koi aks e sayyeda
+  Koi Hasan ka dilruba
+  Hai koi aks-e-sayyeda
   Shabbir ka ye khaafila
-  Thaame alam jo hai jawan
-  Abbas meer e karwaan
-  Kaarwan kaarwan abbas meer e karwan
+  Thaame alam jo hai jawaaṅ
+  Abbas mir e karwaaṅ
+  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
   Yasrab se taa ba karbala
   Har din tawaafe khaafila
   Abbas karta hi raha
   Parde ka zimmedar tha
-  Yun mutmain thi bibiyan
-  Abbas meer e karwaan
-  Kaarwan kaarwan abbas meer e karwan
+  Yuṅ mutmain thi bibiyan
+  Abbas mir e karwaaṅ
+  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
   Abbas wo kirdaar hai
-  Baad e ali salaar hai
+  Baad-e-ali salaar hai
   Aisa alam bardaar hai
-  Maidan mein be-talwaar hai
+  Maidan meiṅ betalwaar hai
   Phir bhi alam ka paasban
-  Abbas meer e karwaan
-  Kaarwan kaarwan abbas meer e karwan
+  Abbas mir e karwaaṅ
+  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
   Lo aa gaya uska alam
-  Ghazi jisay kehte hai hum
+  Ghazi jise kehte hai hum
   Kehte chalo ye dam badam
-  Abbas meer e lashkaram
+  Abbas mir e lashkaram
   Babul hawaaij mehrbaan
-  Abbas meer e karwaan
-  Kaarwan kaarwan abbas meer e karwan
+  Abbas mir e karwaaṅ
+  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
   Jab shaam pahuncha khaafila
   Khutba ye zainab ne diya
   Sunle ye qaum e ashkiya
   Hum hai bina e la ilaah
-  Kashti hai deen hum baadbaan
-  Abbas meer e karwaan
-  Kaarwan kaarwan abbas meer e karwan
-  Tha hashr mein maula ali
+  Kashti hai diṅ hum baadbaaṅ
+  Abbas mir e karwaaṅ
+  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
+  Tha hashr meiṅ maula ali
   Ye sarwar o rehaan bhi
   Nazre karam se aap ki
-  Rakhte hai ummeed e qawi
-  Nauhon se denge ye bayan
-  Abbas meer e karwaan
-  Kaarwan kaarwan abbas meer e karwan
+  Rakhte hai ummid-e-qawi
+  Nauhoṅ se denge ye bayan
+  Abbas mir e karwaaṅ
+  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
 # source_id: nohayonline:6c2739fa53d1e871a2fe
 # source_url: https://www.nohayonline.com/details_content.php?id=1724
 # raw_sha256: aeffe3270939381ca9b41003fb1c1cfc5dafbf5a5375ae303fa231a8cc4b2a72

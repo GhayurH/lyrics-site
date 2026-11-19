@@ -11,8 +11,8 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ay khuda mujhko ghame zahra mein wo taufeek de
-  Is qadar girya karun ke phasliyan dukhne lage
+  Ae khuda mujhko ghame zahra meiṅ wo taufeek de
+  Is qadar girya karuṅ ke phasliyaṅ dukhne lage
   Haye zahra haye zahra
   Fizza fizza madad ko aao
   Jalte dar ko mere pehlu se hatao fizza
@@ -22,33 +22,33 @@ romanLyrics: |-
   Aake is zulm se ab mujhko bachao fizza
   Boli zahra meri imdad ko aao fizza
   Jalte dar ko mere...
-  Kaise mujhpar ye musalman ne qayamat dhaayi
-  Mujpe dhaaye wo sitam tooti hai meri phasli
+  Kaise mujhpar ye musalmaṅ ne qayamat dhaayi
+  Mujpe dhaaye wo sitam tuti hai meri phasli
   Tum khudara na ali ko ye batao fizza
   Boli zahra meri imdad ko aao fizza
   Jalte dar ko mere...
   Zakhmi pehlu hai asaa ka hai sahara dekho
-  Phir bhi bacchon se chupati hoon mai in zakhmon ko
-  Tum bhi un se mere zakhmon ko chupao fizza
+  Phir bhi bacchoṅ se chupati huṅ mai in zakhmoṅ ko
+  Tum bhi un se mere zakhmoṅ ko chupao fizza
   Boli zahra meri imdad ko aao fizza
   Jalte dar ko mere...
-  Rukhe baatil pe pada parda uthane ke liye
+  Rukhe baatil pe para parda uthane ke liye
   Haq wilayat ka zamane ko batane ke liye
   Sar e darbar mera saath nibhao fizza
   Boli zahra meri imdad ko aao fizza
   Jalte dar ko mere...
   Wo sitam kaunsa hai mujhpe jo dhaaya na gaya
-  Mere bacche ko to dunya mein bhi aane na diye
+  Mere bacche ko to dunya meiṅ bhi aane na diye
   Farshe matam mere mohsin ka bichao fizza
   Boli zahra meri imdad ko aao fizza
   Jalte dar ko mere...
   Rauza e ahmad e mukhtar laraz uthega
-  Meri roodad e masayib jo sunenge baba
+  Meri rudad e masayib jo sunenge baba
   Tum bhi baba ko mera haal sunao fizza
   Boli zahra meri imdad ko aao fizza
   Jalte dar ko mere...
   Hum bhi dekhenge munawar jab imam aayenge
-  Phir baqiya mein wo nauha yehi padhwayenge
+  Phir baqiya meiṅ wo nauha yehi parhwayenge
   Jalte dar ko mere pehlu se hatao fizza
   Boli zahra meri imdad ko aao fizza
   Jalte dar ko mere...

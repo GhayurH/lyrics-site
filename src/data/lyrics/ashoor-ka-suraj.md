@@ -1,6 +1,6 @@
 ---
 title: "عاشور کا سورج جلتا ہے"
-alternateTitle: "Ashoor Ka Suraj"
+alternateTitle: "Ashur Ka Suraj"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

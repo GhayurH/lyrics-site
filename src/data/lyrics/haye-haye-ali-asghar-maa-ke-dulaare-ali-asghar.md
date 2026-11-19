@@ -19,8 +19,8 @@ romanLyrics: |-
   Haye Haye Ali Asghar
 
   1
-  Har samt nazar aata hai maqtal mein andhera
-  Tum raat ko uth jao agar neend se beta
+  Har samt nazar aata hai maqtal meiṅ andhera
+  Tum raat ko uth jao agar nind se beta
   Ghabrana nahi paas hai bhaiya Ali Akbar
 
   2
@@ -50,7 +50,7 @@ romanLyrics: |-
 
   7
   Majbur thi ghar meiṅ mere paani hi nahiṅ tha
-  Warna to dhula deti maiṅ ye khun bhara chehra
+  Warna to dhula deti maiṅ ye khuṅ bhara chehra
   Daadi se shikaayat nahiṅ karna meri jaa kar
 
   8

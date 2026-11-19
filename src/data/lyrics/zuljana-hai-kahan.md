@@ -14,37 +14,37 @@ romanLyrics: |-
   Khaali aaya hai shabbir ka zuljana
   Zuljana zuljana
   Zuljanah se sakina ne ro kar kaha
-  Kyun hai baage kati jism zakhmi tera
-  Zeen khali hai kyun aur sar hai jhuka
-  Bolta kyun nahi chup hai teri zaban
-  Zuljana zuljanah hai kahan baba jaan
-  Tere pairon se lipti mai kehti rahi
-  Baad baba ke mai jee nahi paungi
-  Mere baba ko tu chod aaya kahan
+  Kiuṅ hai baage kati jism zakhmi tera
+  Zin khali hai kiuṅ aur sar hai jhuka
+  Bolta kiuṅ nahi chup hai teri zabaṅ
+  Zuljana zuljanah hai kahaṅ baba jaaṅ
+  Tere pairoṅ se lipti mai kehti rahi
+  Baad baba ke mai ji nahi paungi
+  Mere baba ko tu chor aaya kahaṅ
   Zuljana zuljana hai kahan...
-  Ab tamachon se mujhko bachayega kaun
-  Mujhko seene pe apne sulayega kaun
-  Is yateemi mein ab kaun hai sayeban
+  Ab tamachoṅ se mujhko bachayega kaun
+  Mujhko sine pe apne sulayega kaun
+  Is yatimi meiṅ ab kaun hai sayebaṅ
   Zuljana zuljana hai kahan...
   Jis tarha mere saare sahare gaye
   Tu bata kya mere baba maare gaye
-  Kyun teri aankh se hai ye aansu rawan
+  Kiuṅ teri aankh se hai ye aansu rawaṅ
   Zuljana zuljana hai kahan...
-  Kund khanjar chalane laga jab layeen
+  Kund khanjar chalane laga jab layiṅ
   Mere baba ko pani diya ya nahi
-  Ya dam e zibha bhi thay wo tishna dahan
+  Ya dam e zibha bhi the wo tishna dahaṅ
   Zuljana zuljana hai kahan...
   Mujhko batla gaye zakhm tere hai jo
-  Itna zakhmi hai tu kitne zakhmi thay wo
-  Teer kitne lage kis khadar barchiyan
+  Itna zakhmi hai tu kitne zakhmi the wo
+  Tir kitne lage kis khadar barchiyaṅ
   Zuljana zuljana hai kahan...
   Dard e furqat se dil mera phat jayega
-  Apne baba ke seene pe chain aayega
-  Hai jahan baba jaan mujhko le chal wahan
+  Apne baba ke sine pe chain aayega
+  Hai jahaṅ baba jaaṅ mujhko le chal wahaṅ
   Zuljana zuljana hai kahan...
   Haye farhan o mazhar sakina dukhi
   Zuljana se lipat kar wo roti rahi
-  Keh rahi thi ye masoom ki siskiyan
+  Keh rahi thi ye masum ki siskiyaṅ
   Zuljana zuljana hai kahan...
 # source_id: nohayonline:8afec2bcaff0bc897fa6
 # source_url: https://www.nohayonline.com/details_content.php?id=2382

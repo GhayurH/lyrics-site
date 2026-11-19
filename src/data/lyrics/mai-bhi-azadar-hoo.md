@@ -13,47 +13,47 @@ romanLyrics: |-
   1
   Allah allah
   Sajjad aur raahe shaam
-  Jab raahe shaam mein thak kar ke
-  Pyason ka khaafila baith gaya
+  Jab raahe shaam meiṅ thak kar ke
+  Pyasoṅ ka khaafila baith gaya
   Sajjad bula kar baqar ko
-  Dheeme dheeme ye kehta tha
+  Dhime dhime ye kehta tha
   Waada karo jab tak jiyenge
-  Matam karenge dono rahenge sogwaar
-  Baqar se yehi kehte rahe abid e beemar
+  Matam kareṅge dono rahenge sogwaar
+  Baqar se yehi kehte rahe abid e bimar
   Haa mai bhi azadaar hoo aur tum bhi azadaar
   Mai aadam e saadat hoo kehta hai zamana
-  Mar jaaun agar raah mein ye bhool na jaana
+  Mar jaauṅ agar raah meiṅ ye bhul na jaana
   Ho tum hi mere baad mere waaris e dastaar
   Baqar se yehi kehte rahe...
   Haa mai bhi azadaar hoo...
-  Baqar zara dhoondo meri hamsheer kahan hai
-  Baba ka jahan sar hai yaqeenan wo wahan hai
-  Keh do usay aage hai safar aur bhi dhushwaar
+  Baqar zara dhundo meri hamshir kahaṅ hai
+  Baba ka jahaṅ sar hai yaqinan wo wahaṅ hai
+  Keh do use aage hai safar aur bhi dhushwaar
   Baqar se yehi kehte rahe...
   Haa mai bhi azadaar hoo...
-  Asghar ki tarha pyaas se behaal hua hoo
-  Qasim ki tarha mai bhi to pamaal hua hoo
-  Akbar ki tarha mere bhi seene pe huwe waar
+  Asghar ki tarha pyaas se behaal hua hu
+  Qasim ki tarha mai bhi to pamaal hua hu
+  Akbar ki tarha mere bhi sine pe huwe waar
   Baqar se yehi kehte rahe...
   Haa mai bhi azadaar hoo...
   Hai naam ali mera mohamed hai tera naam
-  Kyunkar na mache arsh pe ye dekh ke kohraam
-  Hai tere rasan haathon mein aur mai hoo giraftaar
+  Kiuṅkar na mache arsh pe ye dekh ke kohraam
+  Hai tere rasan haathoṅ meiṅ aur mai hoo giraftaar
   Baqar se yehi kehte rahe...
   Haa mai bhi azadaar hoo...
   Beta ye iraada hai khuda wande jali ka
-  Baazaron se ab hoga guzar binte ali ka
-  Royega hamein dekh ke naize pe alamdaar
+  Baazaroṅ se ab hoga guzar binte ali ka
+  Royega hameiṅ dekh ke naize pe alamdaar
   Baqar se yehi kehte rahe...
   Haa mai bhi azadaar hoo...
   Kya kya na sitam dhaaye hai baazare sitam ne
-  Baalon se chupa rakha tha chehron ko haram ne
+  Baaloṅ se chupa rakha tha chehroṅ ko haram ne
   Ghairat ka janaza tha sar e majma e aghyaar
   Baqar se yehi kehte rahe...
   Haa mai bhi azadaar hoo...
-  Ay akhtar o irfan e aza ahle aza se
+  Ae akhtar o irfan-e-aza ahle aza se
   Kehdo ke na ghaafil rahe matam ki sada se
-  Hai yehi sada marhame zakhme dile beemar
+  Hai yehi sada marhame zakhme dile bimar
   Baqar se yehi kehte rahe...
   Haa mai bhi azadaar hoo...
 # source_id: nohayonline:f2f62bd54095caeaea83

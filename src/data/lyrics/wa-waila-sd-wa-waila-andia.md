@@ -38,7 +38,7 @@ romanLyrics: |-
   Ye inayaton ka sila diya
   Wo charagh qabr e Nabi ka tha
   Jisay Karbala may bujha diya
-  Ye Hussain tera hi kaam tha
+  Ye Husain tera hi kaam tha
   Ke sab apnay laal fida kiye
   Tujhe in sitaron ne doob kar
   Shab e gham ka chand banaya diya
@@ -47,10 +47,10 @@ romanLyrics: |-
   Kaheen nojawan ka jigar diya
   Kaheen bezaban ka gala diya
   Kaho dil kahan se wo layain gay
-  Jo Hussain kahimay may jayain gay
+  Jo Husain kahimay may jayain gay
   Jisay maa ki goad se laaye thay
   Usay zair e khaak sula diya
-  Na Hussain ghoray pe tham sakay
+  Na Husain ghoray pe tham sakay
   Ke sada azaan ki buland thi
   Wo namaz e asr ka waqt tha
   Ke zameen pe khud ko gira diya
@@ -60,8 +60,8 @@ romanLyrics: |-
   To lahoo bhi apna mila diya
 
   7
-  Hussain Imam Hussain Haider
-  Hussain Imam Hussain Haider
+  Husain Imam Husain Haider
+  Husain Imam Husain Haider
 # source_id: ziyaraat:a8af84d48249a602c362
 # source_url: https://www.ziyaraat.net/api/noha/2080
 # raw_sha256: 8765bd1f1d2e4187d66a3718d7d6be6da3f640eefed3a15c2947092c4ae2396a

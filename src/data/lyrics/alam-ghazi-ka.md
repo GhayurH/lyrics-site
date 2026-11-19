@@ -12,63 +12,63 @@ published: false
 romanLyrics: |-
   1
   Baatil ka dam ghut'ta hai
-  Ye jab bhi kahin uth'ta hai
+  Ye jab bhi kahiṅ uth'ta hai
   Alam ghazi ka alam ghazi ka
-  Ejaaz e atash dikhlata hai
-  Mafhoome ata samjhata hai
+  Ejaaz-e-atash dikhlata hai
+  Mafhume ata samjhata hai
   Ek mashk liye ye aata hai
   Aur abre karam barsata hai
   Jab lutf o karam karta hai
   Har jholi ko bharta hai
   Alam ghazi ka...
-  Roshan hai charaagh e haq jis se
+  Roshan hai charaagh-e-haq jis se
   Wo iske pharere ki hai hawa
   Abbas se nisbat hai isko
-  Har sar pe isi ke taaj e wafa
-  Taufeeq e aza deta hai
+  Har sar pe isi ke taaj-e-wafa
+  Taufiq-e-aza deta hai
   Paighame wafa deta hai
   Alam ghazi ka...
   Hairaan hai yusuf bhi jis par
   Paayi ha jawani bhi aisi
-  Waliyon ki tarha ye chalta hai
-  Khaamat hai farishton ki jaisi
-  Jab majlis mein aata hai
+  Waliyoṅ ki tarha ye chalta hai
+  Khaamat hai farishtoṅ ki jaisi
+  Jab majlis meiṅ aata hai
   Kaunain pe cha jaata hai
   Alam ghazi ka...
-  Ghazi ne wafa ke jalwon se
+  Ghazi ne wafa ke jalwoṅ se
   Is tarha sajaya hai ye alam
-  Taqreeb e halaf bardari mein
-  Waliyon ne uthaya hai ye alam
-  Paymana e salaari hai
-  Minaar e wafadari hai
+  Taqrib-e-halaf bardari meiṅ
+  Waliyoṅ ne uthaya hai ye alam
+  Paymana-e-salaari hai
+  Minaar-e-wafadari hai
   Alam ghazi ka...
   Jo haazir hona chaahte hai
-  Darbar e imamat mein dil se
-  Nazdeek bulata hai unko
+  Darbar-e-imamat meiṅ dil se
+  Nazdik bulata hai unko
   Panje se ishare kar kar ke
   Manzil ki khabar deta hai
   Khud zaade safar deta hai
   Alam ghazi ka...
-  Jab waqt kada aa jaata hai
-  Shabbir ke ghamkharon ke liye
-  Sheron ki tarha se uth'ta hai
-  Maula ke azadaron ke liye
-  Aandhi se ulajh padta hai
-  Toofano se ladta hai
+  Jab waqt kara aa jaata hai
+  Shabbir ke ghamkharoṅ ke liye
+  Sheroṅ ki tarha se uthta hai
+  Maula ke azadaroṅ ke liye
+  Aandhi se ulajh parta hai
+  Tufano se larta hai
   Alam ghazi ka...
-  Tareekh gawahi deti hai
+  Tarikh gawahi deti hai
   Koi saani nahi is parcham ka
-  Zinda hai agar beenayi teri
-  Ay munkir ghaur se dekh zara
+  Zinda hai agar binayi teri
+  Ae munkir ghaur se dekh zara
   Sab jhande hogaye thande
   Uncha hai khuda ke bande
   Alam ghazi ka...
   Allah re iska jaah o hasham
   Chauda sau baras ka hai ye alam
-  Na ispe zaeefi aayi hai
-  Na iski kamar mein aaya hai kham
-  Azmat ka nishan hai gohar
-  Sadiyon se jawan hai gohar
+  Na ispe zaifi aayi hai
+  Na iski kamar meiṅ aaya hai kham
+  Azmat ka nishaṅ hai gohar
+  Sadiyoṅ se jawaaṅ hai gohar
   Alam ghazi ka...
 # source_id: nohayonline:be2b4c407deabb64aa6a
 # source_url: https://www.nohayonline.com/details_content.php?id=1130

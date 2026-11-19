@@ -42,7 +42,7 @@ romanLyrics: |-
   6
   Jaam ashkon ke piyo, aaj ki shab soo rahoo
   Umr lag jaye hamari, tum yuhin jeetay rahoo
-  Tum pe qurbaan meri jaan, aey qarar e be-kasaan
+  Tum pe qurbaan meri jaan, aey qarar e bekasaan
   Dhoondti phirti hay maadar hay mera Asghar kahaan
 
   7

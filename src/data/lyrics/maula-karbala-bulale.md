@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khaafile hai rawan jaa baja mai phir se tanha reh gaya
+  Khaafile hai rawaṅ jaa baja mai phir se tanha reh gaya
   Nikaal koi raasta maula
-  Maula tadap raha hoon dar dar bhatak raha hoon
-  Faryad kar raha hoon
+  Maula tarap raha huṅ dar dar bhatak raha huṅ
+  Faryad kar raha huṅ
   Maula karbala bulaale rauza dikha de maula
   Din raat aisi koi nahi jo tujhko nahi pukara
-  Majlis mein ja ke aansu baha ke har saal hai guzara
-  Ye saal bhi hai beeta phir intezaar jeeta
+  Majlis meiṅ ja ke aansu baha ke har saal hai guzara
+  Ye saal bhi hai bita phir intezaar jita
   Aaya nahi bulawa
   Maula karbala bulaale...
   Ye bhi dua hai jab bhi bulana aisa sabab banana
   Maa baap mere aulaad meri aaye mera gharana
-  Mere paas kuch nahi hai na zar hai na zameen hai
-  Tujhpe hi bas yaqeen hai
+  Mere paas kuch nahi hai na zar hai na zamiṅ hai
+  Tujhpe hi bas yaqiṅ hai
   Maula karbala bulaale...
-  Hoon beqaraar kitna hai pyaar ek baar aazma le
-  Jitni thakan ho sookha dahan ho ya paaon mein ho chaale
-  Paidal safar karunga sab sakhtiyan sahunga
+  Huṅ beqaraar kitna hai pyaar ek baar aazma le
+  Jitni thakan ho sukha dahan ho ya paaoṅ meiṅ ho chaale
+  Paidal safar karunga sab sakhtiyaṅ sahunga
   Nauha tera padhunga
   Maula karbala bulaale...
-  Karbobala mein zawwaron ka mai khadim bana rahunga
-  Muaqqib mein jaa ke khaana khila ke saqqayi bhi karunga
-  Palkein bichaunga mai sab ko bulaunga mai
-  Paaon dabaunga mai
+  Karbobala meiṅ zawwaroṅ ka mai khadim bana rahunga
+  Muaqqib meiṅ jaa ke khaana khila ke saqqayi bhi karunga
+  Palkeiṅ bichaunga mai sab ko bulaunga mai
+  Paaoṅ dabaunga mai
   Maula karbala bulaale...
   Ghazi ke dar pe de ke salami aaunga tere dar par
-  Do badshahon ki saltanat mein jannat ka hoga manzar
-  Aise haseen lamhe qismat mein meri likh de
-  Ay baadshah bula le
+  Do badshahoṅ ki saltanat meiṅ jannat ka hoga manzar
+  Aise hasin lamhe qismat meiṅ meri likh de
+  Ae baadshah bula le
   Maula karbala bulaale...
-  Tere haram ki jaali pakad ke lipta rahunga aise
-  Muddat ke baad masoom bacha lipta ho maa se jaise
+  Tere haram ki jaali pakar ke lipta rahunga aise
+  Muddat ke baad masum bacha lipta ho maa se jaise
   Sajde karunga maula ro ro ke doonga pursa
-  Armaan kar de poora
+  Armaan kar de pura
   Maula karbala bulaale...
   Dekhunga nehre alqama matam karunga pyaas ka
-  Zeen se gira tha tu jahan maqam e saahib uz zamaan
-  Ja kar kaf e abbas par matam karo sar peet kar
-  Khaayi jahan pe thi sina maqam e akbar hai wahan
-  Maqam e asghar pe jaaunga jhoole pe mannat badhaunga
-  Wo qaimagaah e bekasan karunga majlis mai wahan
-  Bhulaun kaise tu bata wo ek teela rayt ka
-  Sattar qadam ka faasla jahan hai teri qatl gaah
-  Wahan se dekha tha behen ne chala tha khanjar shimr ka
+  Ziṅ se gira tha tu jahaṅ maqam e saahib uz zamaan
+  Ja kar kaf e abbas par matam karo sar pit kar
+  Khaayi jahaṅ pe thi sina maqam e akbar hai wahaṅ
+  Maqam e asghar pe jaaunga jhule pe mannat badhaunga
+  Wo qaimagaah e bekasaṅ karunga majlis mai wahaṅ
+  Bhulauṅ kaise tu bata wo ek teela rayt ka
+  Sattar qadam ka faasla jahaṅ hai teri qatl gaah
+  Wahaṅ se dekha tha behen ne chala tha khanjar shimr ka
   Farhan o mazhar hai dua maula sar e karbobala
   De qabr ki hum ko jagah
   Ya maula karbala bula le rauza dikha de maula

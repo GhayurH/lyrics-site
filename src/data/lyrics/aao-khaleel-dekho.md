@@ -1,6 +1,6 @@
 ---
 title: "آؤ خلیل دیکھو آغاز ہے فغاں کا"
-alternateTitle: "Aao Khaleel Dekho"
+alternateTitle: "Aao Khalil Dekho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

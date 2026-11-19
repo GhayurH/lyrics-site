@@ -10,11 +10,11 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hai khoon mein doobe huwe hyder ke nawase
+  Hai khun meiṅ dube huwe hyder ke nawase
   Aun o mohamed aun o mohamed
 
   1
-  Jafer ke hai potay
+  Jafer ke hai pote
 
   2
   Abdullah ke pyare
@@ -41,31 +41,31 @@ romanLyrics: |-
   Tum dono ho paare
 
   10
-  Ghazi ke chaheete
+  Ghazi ke chahite
 
   11
-  Islam panayi mein lade aisi ada se
+  Islam panayi meiṅ lare aisi ada se
   Dikhlaye gaye shaan kayi roz ke pyase
-  Be-jaan diye palte na maidane wigha se
+  bejaan diye palte na maidane wigha se
 
   12
   Zainab ke khazane ke ye anmol gohar hai
-  Islam ki aankhon ke ye do noor e nazar
-  Shamsheer hai mamu ke to emaan ke sipar hai
+  Islam ki aankhoṅ ke ye do nur e nazar
+  Shamshir hai mamu ke to emaan ke sipar hai
 
   13
-  Zinda na kisi sarkash o maghroor ko choda
-  Kya maimana kya maisara har morcha toda
-  Laakhon se lade fauj ke har bal ko maroda
+  Zinda na kisi sarkash o maghrur ko chora
+  Kya maimana kya maisara har morcha tora
+  Laakhoṅ se lare fauj ke har bal ko maroda
 
   14
-  Zakhmon se lahoo behta hai tayghon se badan choor
-  Maa kehti hai bache meri aankhon mein nahi noor
-  Hai maamta nazdeek magar mai hoo bahot door
+  Zakhmoṅ se lahu behta hai tayghoṅ se badan chur
+  Maa kehti hai bache meri aankhoṅ meiṅ nahi nur
+  Hai maamta nazdik magar mai hoo bahot dur
 
   15
-  Ghode se gire jalti hui khaak pe jarraar
-  Ek shor utha chal basay mamu ke tarafdaar
+  Ghore se gire jalti hui khaak pe jarraar
+  Ek shor utha chal base mamu ke tarafdaar
   Dil par ali fitrat giri ek barkh shar arbaar
 # source_id: nohayonline:a6044ef341068a91d703
 # source_url: https://www.nohayonline.com/details_content.php?id=1328

@@ -1,6 +1,6 @@
 ---
 title: "پردیسی کنبے والوں کی یاد جو تیر چبھوتی ہے"
-alternateTitle: "Pardesi Kunbe Walon"
+alternateTitle: "Pardesi Kunbe Waloṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

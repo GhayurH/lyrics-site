@@ -1,6 +1,6 @@
 ---
 title: "تعویذ حسن جب قاسم نے"
-alternateTitle: "Taweez-e-Hasan"
+alternateTitle: "Tawiz-e-Hasan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

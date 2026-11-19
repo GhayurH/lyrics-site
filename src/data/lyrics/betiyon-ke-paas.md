@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab chali talwaar haye zehr may doobi hui
+  Jab chali talwaar haye zehr may dubi hui
   Sar shikasta hogaya uth na sake maula ali
-  Thay sirhane shabbar o shabbir aur abbas bhi
-  Baap ko jab betiyon ki yaad tadpane lagi
-  Dekh kar beton ka chehra ye ali kehne lage
-  Waqt kam hai betiyon ke paas le jao mujhe
+  The sirhane shabbar o shabbir aur abbas bhi
+  Baap ko jab betiyoṅ ki yaad tadpane lagi
+  Dekh kar betoṅ ka chehra ye ali kehne lage
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar zainab ko meri saans may saans aayegi
-  Dekh kar kulsoom ko ye zindagi badh jayegi
-  Baap kuch din aur jee le betiyon ke saamne
-  Waqt kam hai betiyon ke paas le jao mujhe
-  Dekh kar beton ka chehra...
-  Zakhm zarbat ka wahan ye dekhna zaahir na ho
-  Khoon sar se saaf kar ke phir amaama baandh do
-  Betiyan ghabra na jaaye meri haalat dekh ke
-  Waqt kam hai betiyon ke paas le jao mujhe
-  Dekh kar beton ka chehra...
+  Dekh kar kulsum ko ye zindagi barh jayegi
+  Baap kuch din aur ji le betiyoṅ ke saamne
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
+  Dekh kar betoṅ ka chehra...
+  Zakhm zarbat ka wahaṅ ye dekhna zaahir na ho
+  Khun sar se saaf kar ke phir amaama baandh do
+  Betiyaṅ ghabra na jaaye meri haalat dekh ke
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
+  Dekh kar betoṅ ka chehra...
   Haye phir shabbir se rote huwe bole ali
   Wo agar maange to de dena nishani baap ki
   Ye musalla saath rakh lo meri zainab ke liye
-  Waqt kam hai betiyon ke paas le jao mujhe
-  Dekh kar beton ka chehra...
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
+  Dekh kar betoṅ ka chehra...
   Is liye hi baap se beti ka hai rishta ajab
-  Betiyan hai baap ki mayyat pe raunaq ka sabab
-  Khush naseebi hai khuda beti ataa kar de jise
-  Waqt kam hai betiyon ke paas le jao mujhe
-  Dekh kar beton ka chehra...
+  Betiyaṅ hai baap ki mayyat pe raunaq ka sabab
+  Khush nasibi hai khuda beti ataa kar de jise
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
+  Dekh kar betoṅ ka chehra...
   Apne baba ke janaze par jo royi fatema
-  Us ghadi mai apni zainab ke liye rota raha
-  Kitna mushkil hai bichadna betiyon ka baap se
-  Waqt kam hai betiyon ke paas le jao mujhe
-  Dekh kar beton ka chehra...
-  Kal mai jab kulsoom ke ghar se chala rone lagi
-  Mere seene se lipat kar mujhse ye kehne lagi
+  Us ghari mai apni zainab ke liye rota raha
+  Kitna mushkil hai bicharna betiyoṅ ka baap se
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
+  Dekh kar betoṅ ka chehra...
+  Kal mai jab kulsum ke ghar se chala rone lagi
+  Mere sine se lipat kar mujhse ye kehne lagi
   Jaa rahe hai laut kar phir aayenge kab ghar mere
-  Waqt kam hai betiyon ke paas le jao mujhe
-  Dekh kar beton ka chehra...
-  Le chalo ab betiyon se door mai kaise rahun
-  Zainab o kulsoom ke jaa kar mai shaane choom lun
-  Haan isi kufe may honge haath dono ke bandhe
-  Waqt kam hai betiyon ke paas le jao mujhe
-  Dekh kar beton ka chehra...
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
+  Dekh kar betoṅ ka chehra...
+  Le chalo ab betiyoṅ se dur mai kaise rahuṅ
+  Zainab o kulsum ke jaa kar mai shaane chum luṅ
+  Haaṅ isi kufe may honge haath dono ke bandhe
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
+  Dekh kar betoṅ ka chehra...
   Dekh kar abbas ka chehra ali ne ye kaha
-  Saamne rehna hamesha odh kar meri abaa
-  Betiyan jeeti rahe chehra tumhara dekh ke
-  Waqt kam hai betiyon ke paas le jao mujhe
-  Dekh kar beton ka chehra...
-  Haye zeeshan o raza jab hukm baba ka suna
+  Saamne rehna hamesha orh kar meri abaa
+  Betiyaṅ jiti rahe chehra tumhara dekh ke
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
+  Dekh kar betoṅ ka chehra...
+  Haye zishan o raza jab hukm baba ka suna
   Ghar ki jaanib le chale bete basad aah o buka
-  Aur ali beton se ro ro kar yehi kehte rahe
-  Waqt kam hai betiyon ke paas le jao mujhe
-  Dekh kar beton ka chehra...
+  Aur ali betoṅ se ro ro kar yehi kehte rahe
+  Waqt kam hai betiyoṅ ke paas le jao mujhe
+  Dekh kar betoṅ ka chehra...
 # source_id: nohayonline:fd190e281dd7dcd8a896
 # source_url: https://www.nohayonline.com/details_content.php?id=2665
 # raw_sha256: 92b0c1662c4b3d0718c169b77d1b909edd59814b86fc1fe8d13e3edc2cb4ccdc

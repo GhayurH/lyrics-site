@@ -35,7 +35,7 @@ romanLyrics: |-
   Jo haath karta raha hai Husain ka maatam
 
   6
-  Jo poochha maiṅ ne Ilaahi gham-e-hayaat hai kya
+  Jo puchha maiṅ ne Ilaahi gham-e-hayaat hai kya
   Har ek wali ne kaha hai Husain ka maatam
 
   7

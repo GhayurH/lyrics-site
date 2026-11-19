@@ -1,6 +1,6 @@
 ---
 title: "بھرے دربار میں روتی رہی کھڑی زہرا"
-alternateTitle: "Bhare Darbar Mein Roti Rahi Khari Zehra"
+alternateTitle: "Bhare Darbar Meiṅ Roti Rahi Khari Zehra"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bhare Darbar Mein Roti Rahi Khari Zehra
+  Bhare Darbar Meiṅ Roti Rahi Khari Zehra
   Na Jaane Kis Tarah Haq Maangti Rahi Zehra
 
   ۱
@@ -20,21 +20,21 @@ romanLyrics: |-
 
   ۲
   Nabi Ke Baad Ye Kya Ho Gaya Zamaane Ko
-  Kiun Kalma Go Hain Chale Tera Ghar Jalaane Ko
+  Kiuṅ Kalma Go Haiṅ Chale Tera Ghar Jalaane Ko
   Sahegi Kis Tarah Tu Ye Sitamgari Zehra
 
   ۳
   Wo Apne Baba Ko Marzi Se Ro Nahi Sakti
-  Kiun Apne Ashkon Se Palkein Bhigo Nahi Sakti
+  Kiuṅ Apne Ashkoṅ Se Palkeiṅ Bhigo Nahi Sakti
   Dikhai Waqt Ne Kaisi Sitamgari Zehra
 
   ۴
-  Sanad Ke Tukre Hawa Mein Ura Ke Hansne Laga
+  Sanad Ke Tukre Hawa Meiṅ Ura Ke Hansne Laga
   Rasul Zaadi Se Gustaakh Aise Kehne Laga
   Bata Ab Kaun Si Jaagir Hai Teri Zehra
 
   ۵
-  Khudaara Soch Ke Daanishwaron Ye Batlaao
+  Khudaara Soch Ke Daanishwaroṅ Ye Batlaao
   Nahi Sataai Gayi Bibi Phir Ye Samjhaao
   To Rone Kis Liye Baitul Huzn Gayi Zehra
 
@@ -44,13 +44,13 @@ romanLyrics: |-
   Bhula Na Paayegi Ummat Ki Berukhi Zehra
 
   ۷
-  Gale Mein Daale Rasan Murtaza Ko Le Ke Chale
-  Manaat o Laat Ke Pairau Kuduuraton Ke Pale
+  Gale Meiṅ Daale Rasan Murtaza Ko Le Ke Chale
+  Manaat o Laat Ke Pairau Kuduuratoṅ Ke Pale
   Rahi Ye Zulm Bhi Chaukhat Se Dekhti Zehra
 
   ۸
   Siyaah Baal Jo Maa Ke Safed Tar Dekhe
-  Tauqeer Kaise Kahun Betiyon Ne Sar Pite
+  Tauqir Kaise Kahuṅ Betiyoṅ Ne Sar Pite
   Gayi Hai Jis Tarah Ghar Se Thaki Thaki Zehra
 # source_id: nohawriteups:db8157f37d9e90454c58
 # source_url: https://www.nohawriteups.org/bharay-darbar-may-roti-rahi-khari-zehra/

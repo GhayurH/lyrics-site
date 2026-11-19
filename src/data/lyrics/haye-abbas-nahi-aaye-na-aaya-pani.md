@@ -14,31 +14,31 @@ romanLyrics: |-
 
   1
   Dhondti reh gayi kooze may sakina pani
-  Rote dekha jo sakina ko to bachon ne kaha
+  Rote dekha jo sakina ko to bachoṅ ne kaha
   Aisa lagta hai hamay ab na milenga pani
 
   2
   Roye behte huwe pani ke liye jab ghazi
-  Roya abbas ko mashkeeze se behta pani
+  Roya abbas ko mashkize se behta pani
 
   3
   Aks dikhta tha sakina ka kabhi asghar ka
   Kaise abbas ne behte huwe dekha pani
 
   4
-  Usko maloom tha pyasi hai bhatiji meri
+  Usko malum tha pyasi hai bhatiji meri
   Paas hote huwe moo se na lagaya pani
 
   5
   Laashe abbas pe rote rahe pyase shabbir
-  Aur mashkeeze pe karta raha girya pani
+  Aur mashkize pe karta raha girya pani
 
   6
   Gir gaya ghazi ka sar naize se jab zaalim ne
   Saamne bali sakina ke bahaya pani
 
   7
-  Aisa ammu ki judaai ka hua sadma usay
+  Aisa ammu ki judaai ka hua sadma use
   Phir kabhi bali sakina ne na maanga pani
 
   8
@@ -46,11 +46,11 @@ romanLyrics: |-
   Fazl ne jab bhi madine may pilaya pani
 
   9
-  Bhool na jaana alamdare wafa ki ghurbat
-  Jab bhi pyason ko sabeelon se pilana pani
+  Bhul na jaana alamdare wafa ki ghurbat
+  Jab bhi pyasoṅ ko sabiloṅ se pilana pani
 
   10
-  Hum ne khud dekha hai zeeshan o raza ye manzar
+  Hum ne khud dekha hai zishan o raza ye manzar
   Ab bhi abbas ki turbat se hai lipta pani
 # source_id: nohayonline:ef590bf2cd14b347fdd6
 # source_url: https://www.nohayonline.com/details_content.php?id=2725

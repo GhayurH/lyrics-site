@@ -14,22 +14,22 @@ romanLyrics: |-
   Utho mere bhai
 
   1
-  Hum qaime se yahan aaye hai lene ko tumhare
+  Hum qaime se yahaṅ aaye hai lene ko tumhare
 
   2
-  Peeri ka saath chin gaya hum hogaye be-aas
+  Piri ka saath chin gaya hum hogaye beaas
   Koi na raha paas
-  Aa jao tumhi ay meri peeri ke sahare
+  Aa jao tumhi ae meri piri ke sahare
 
   3
   Kya ye bhi koi to mohabbat ka hai andaaz
-  Ay aashiq e jaanbaaz
+  E aashiq e jaanbaaz
   Darya ko to keh kar gaye kausar ko sidhare
 
   4
   Tum bali sakina ke liye laaye na pani
   Wo roti hai jaani
-  Bachi ki zaban dekho aur asghar ke ishaare
+  Bachi ki zabaṅ dekho aur asghar ke ishaare
 
   5
   Qurban huwe mashk pe tum jaan e biradar
@@ -37,19 +37,19 @@ romanLyrics: |-
   Tum arshe wafa ke ho chamakte huwe taare
 
   6
-  Dhaaras thi badi sab ko khayaal iska to karte
+  Dhaaras thi bari sab ko khayaal iska to karte
   Ghurbat may na marte
-  Tum jeete magar hum bhi to himmat nahi haare
+  Tum jite magar hum bhi to himmat nahi haare
 
   7
-  Cheenege rida zainab o kulsoom ki ashraar
-  Ay ghazi o jarraar
-  Hum chod ke ab jaye unhe kis ke sahare
+  Cheenege rida zainab o kulsum ki ashraar
+  Ae ghazi o jarraar
+  Hum chor ke ab jaye unhe kis ke sahare
 
   8
-  Kehte thay wazir aah ye jab shaah e do aalam
+  Kehte the wazir aah ye jab shaah e do aalam
   Ek hashr tha payham
-  Tum mujhse zaeefi may juda ho gaye pyare
+  Tum mujhse zaifi may juda ho gaye pyare
 # source_id: nohayonline:e02c82adbcd67c15d617
 # source_url: https://www.nohayonline.com/details_content.php?id=1149
 # raw_sha256: c477f780be1543693ae9d918cd86129696a2bdfe5a21aa99bf58b2af6ba9ab8a

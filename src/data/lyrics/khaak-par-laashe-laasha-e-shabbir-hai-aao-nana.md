@@ -14,8 +14,8 @@ romanLyrics: |-
   Kya yehi ajre risalat hai batao nana
 
   1
-  Bhai be-ghusl o kafan dashte bala may hai pada
-  Paas mayyat ke udhane ko nahi koi rida
+  Bhai beghusl o kafan dashte bala may hai para
+  Paas mayyat ke urhane ko nahi koi rida
   Ab koi raah nawasi ko dikhao nana
 
   2
@@ -25,42 +25,42 @@ romanLyrics: |-
 
   3
   Koi hamdard nahi koi sahara bhi nahi
-  Dashte zulmat may koi poochne waala bhi nahi
-  Ab ghareebon pe taras aap hi khao nana
+  Dashte zulmat may koi puchne waala bhi nahi
+  Ab ghariboṅ pe taras aap hi khao nana
 
   4
-  Thak ke soye hai badi dayr may pyase bache
-  Dashte tareek may ab kaun hai jo pehra de
+  Thak ke soye hai bari dayr may pyase bache
+  Dashte tarik may ab kaun hai jo pehra de
   Mere ghazi mere abbas ko lao nana
 
   5
-  Aap ke laal pa tooti hai qayamat dekho
+  Aap ke laal pa tuti hai qayamat dekho
   Qatl ke baad bhi ummat ki adawat dekho
   Laash pamaali ki zad par hai bachao nana
 
   6
   Baap ko ro nahi sakti hai sakina apne
-  Sehmi sehmi si hai masoom tamache kha ke
-  Shimr ke zulm se bachi ko chudao nana
+  Sehmi sehmi si hai masum tamache kha ke
+  Shimr ke zulm se bachi ko churao nana
 
   7
   Sar pe kunbe ki hifazat ka hai zimma pehle
-  Saamna shaam e ghariban ka karungi kaise
+  Saamna shaam e gharibaṅ ka karungi kaise
   Hausla do meri himmat ko badao nana
 
   8
   Hashr rone ki sada se hai andhere ban may
-  Seena e shaah se lipti hai sakina ran may
-  Baap ki laash se beti ko chudao nana
+  Sina e shaah se lipti hai sakina ran may
+  Baap ki laash se beti ko churao nana
 
   9
-  Baandhne aaye hai zaalim mere baazu may rasan
+  Baandhne aaye hai zaalim mere baazu me rasan
   Kab se awaaz lagaati hai musibat may behan
   Bhai soya lab e darya hai jagao nana
 
   10
-  Bain sadiq ye behan ke thay larazti thi zameen
-  Rone waala mere bhai pe yahan koi nahi
+  Bain sadiq ye behan ke the larazti thi zamiṅ
+  Rone waala mere bhai pe yahaṅ koi nahi
   Aao ab farshe aza aa ke bichao nana
 # source_id: nohayonline:cc0b04382419fd97bbda
 # source_url: https://www.nohayonline.com/details_content.php?id=1769

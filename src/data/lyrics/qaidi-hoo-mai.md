@@ -1,6 +1,6 @@
 ---
 title: "قیدی ہوں میں بابا جاں"
-alternateTitle: "Qaidi Huṅ Main Baba Jaaṅ"
+alternateTitle: "Qaidi Huṅ Maiṅ Baba Jaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

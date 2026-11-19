@@ -1,6 +1,6 @@
 ---
 title: "یہ ماہِ محرم ہے یہ ایّامِ عزا ہیں"
-alternateTitle: "Yeh Mah-e-Muharram Hai Yeh Ayyam-e-Aza Hain"
+alternateTitle: "Yeh Mah-e-Muharram Hai Yeh Ayyam-e-Aza Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -14,48 +14,48 @@ published: false
 romanLyrics: |-
   Arz-e-Karbala Arz-e-Nainawa
 
-  Yeh Mah-e-Muharram Hai Yeh Ayyam-e-Aza Hain
-  Matam Yeh Muhammad Ke Nawasay Ka Bapa Hai
+  Yeh Mah-e-Muharram Hai Yeh Ayyam-e-Aza Haiṅ
+  Matam Yeh Muhammad Ke Nawase Ka Bapa Hai
 
   1
-  Iss Mah Mein Looti Gayi Zahra Ki Kamai
-  Talwar Muhammad Ke Nawasay Pe Chalai
-  Iss Mah Mein Jibreel Se Noha Yeh Suna Hai
+  Iss Mah Meiṅ Luti Gayi Zahra Ki Kamai
+  Talwar Muhammad Ke Nawase Pe Chalai
+  Iss Mah Meiṅ Jibril Se Noha Yeh Suna Hai
 
   2
   Iss Mah-e-Muharram Ne Qayamat Yeh Dikhai
   Iss Chand Ne Sughra Ko Khabar Ja Ke Sunai
-  Veeran Madina Hai Basi Karb-o-Bala Hai
+  Veeran Madina Hai Basi Karb o Bala Hai
 
   3
-  Iss Mah Mein Sadaat Ne Din Kaisay Guzarey
-  Masoomo Ko Pani Na Mila Nehar Kinaray
-  Kya Zulm Muhammad Ke Gharanay Ne Saha Hai
+  Iss Mah Meiṅ Sadaat Ne Din Kaise Guzare
+  Masoomo Ko Pani Na Mila Nehar Kinare
+  Kya Zulm Muhammad Ke Gharane Ne Saha Hai
 
   4
   Jab Chand Muharram Ka Nazar Aata Hai Hum Ko
   Sajta Hai Azakhana Tu Yaad Aata Hai Hum Ko
-  Iss Chand Mein Khoon Aal-e-Muhammad Ka Baha Hai
+  Iss Chand Meiṅ Khuṅ Aal-e-Muhammad Ka Baha Hai
 
   5
-  Ashor Ka Din Bhool Na Paye Ga Zamana
-  Loota Gaya Oss Roz Muhammad Ka Gharana
-  Oss Roz Se Dunya Mein Bichi Farsh-e-Azza Hai
+  Ashor Ka Din Bhul Na Paye Ga Zamana
+  Luta Gaya Oss Roz Muhammad Ka Gharana
+  Oss Roz Se Dunya Meiṅ Bichi Farsh-e-Azza Hai
 
   6
-  Kya Hoslay Maon Ke They Kya Shair They Bachay
-  Woh Maqsad-e-Zahra Thi Yeh Haider Ke Iraday
-  Inn Maon Se Bachoon Se Bani Khak-e-Shifa Hai
+  Kya Hosle Maoṅ Ke The Kya Shair The Bache
+  Woh Maqsad-e-Zahra Thi Yeh Haider Ke Irade
+  Inn Maoṅ Se Bachuṅ Se Bani Khak-e-Shifa Hai
 
   7
-  Woh Aoun-o-Muhammad Ali Akbar Ali Asghar
+  Woh Aoun o Muhammad Ali Akbar Ali Asghar
   Woh Qasim-e-Noshah Woh Abbas Dilawar
-  Maqtal Inhi Shehzadon Ke Zakhmo Se Saja Hai
+  Maqtal Inhi Shehzadoṅ Ke Zakhmo Se Saja Hai
 
   8
-  Hun Sarwar o Rehan Shanawar ke Ali Jee
-  Hai Nokari Wirsay Mein Hussain Ibn-e-Ali Ki
-  Aawaz-o-Qalam Dono Issi Dar Ki Atta Hai
+  Huṅ Sarwar o Rehan Shanawar ke Ali Ji
+  Hai Nokari Wirse Meiṅ Husain Ibn-e-Ali Ki
+  Aawaz o Qalam Dono Issi Dar Ki Atta Hai
 ---
 
 ارض کربلا ارض نینوا

@@ -14,8 +14,8 @@ romanLyrics: |-
   ghar ghar biche farshe aza
   dil mein ho gham shabbir ka
   aankhon mein ho ashk e aza
-  majlis hussain ki ho
-  ya matam hussain ka
+  majlis Husain ki ho
+  ya matam Husain ka
   yehi charagh jalenge..
   abbas saqqa e haram
   jiske huwe baazu qalam

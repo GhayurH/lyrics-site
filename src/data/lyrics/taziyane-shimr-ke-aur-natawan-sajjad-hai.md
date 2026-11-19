@@ -11,27 +11,27 @@ aliases: []
 published: false
 romanLyrics: |-
   Taziyane Shimr ke aur natawan Sajjad hai
-  Phir bhi le kar chal raha sab karawan Sajjad hai
+  Phir bhi le kar chal raha sab karawaṅ Sajjad hai
 
   1
-  Deen ka har ilm-e-Haider, ismat-e-Aal-e-Rasul
-  Aur Quran-e-Khuda ka pasban Sajjad hai
+  Din ka har ilm-e-Haider, ismat-e-Aal-e-Rasul
+  Aur Quran-e-Khuda ka pasbaṅ Sajjad hai
 
   2
   Is qadar rona lahu ka karta hai zahir yehi
-  Aal-e-Ahmed ke masaib ka Quran Sajjad hai
+  Aal-e-Ahmed ke masaib ka Quraṅ Sajjad hai
 
   3
-  Jis tarah hai is zameen par aasman saaya figan
-  Us tarah hi deen ke sar par saayeban Sajjad hai
+  Jis tarah hai is zamiṅ par aasmaṅ saaya figan
+  Us tarah hi diṅ ke sar par saayebaṅ Sajjad hai
 
   4
   Paas rakh kar kuch kaha na qatil-e-Akbar ko bhi
-  Dekho kitna hi reham-dil mehrban Sajjad hai
+  Dekho kitna hi reham-dil mehrbaṅ Sajjad hai
 
   5
-  Khatam ho sakti nahi jo hashr tak bhi ae Ameer
-  Dard o gham ki ek aisi dastan Sajjad hai
+  Khatam ho sakti nahi jo hashr tak bhi ae Amir
+  Dard o gham ki ek aisi dastaṅ Sajjad hai
 # source_id: nohayonline:79abf7ead8a50d60f7f4
 # source_url: https://www.nohayonline.com/details_content.php?id=2229
 # raw_sha256: 34a8b30d71e01dbb129110c22aeb535f8a54655091479d4a27a9c898c5e69868

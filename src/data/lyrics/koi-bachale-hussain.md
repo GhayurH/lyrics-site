@@ -1,6 +1,6 @@
 ---
 title: "صدا یہ دیتی تھی زہرا میرا حسین حسین"
-alternateTitle: "Koi Bachale Hussain"
+alternateTitle: "Koi Bachale Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sada ye deti thi zehra mera hussain hussain
-  Hai teen roz ka pyasa mera hussain hussain
-  Khada hai dasht mein tanha mera hussain hussain
-  Koi bachale hussain ko mere
-  Sada ye fatema zehra ki goonji maqtal mein
+  Sada ye deti thi zehra mera Husain Husain
+  Hai tin roz ka pyasa mera Husain Husain
+  Khara hai dasht meiṅ tanha mera Husain Husain
+  Koi bachale Husain ko mere
+  Sada ye fatema zehra ki gunji maqtal meiṅ
   Hai mera laal akela nahi koi yawar
-  Taras to khao koi is ghareeb o muztar par
-  Chala na de ye sitamgar hussain par khanjar
-  Koi bachale hussain ko...
+  Taras to khao koi is gharib o muztar par
+  Chala na de ye sitamgar Husain par khanjar
+  Koi bachale Husain ko...
   Ye kaisa ajr diya tum ne meri khidmat ka
   Koi to karde ada aaj haq risalat ka
   Madad ko aaye koi waqt hai qayamat ka
-  Koi bachale hussain ko...
+  Koi bachale Husain ko...
   Zara to socho mohamed ka ye nawasa hai
-  Ay logon deen e khuda ka yehi asaasa hai
-  Bala ke dasht mein seh roz ka ye pyasa hai
-  Koi bachale hussain ko...
-  Kahin se aate hai pathar kahin se teer o tabar
-  Sitam hai kaisa hazaron hai zakhm ek dil par
-  Ghira he nargha e aada mein mera lakhte jigar
-  Koi bachale hussain ko...
-  Jo mujhpe beet rahi hai bata nahi sakti
-  Jo zakhm dil pe lagay wo dikha nahi sakti
+  E logoṅ din e khuda ka yehi asaasa hai
+  Bala ke dasht meiṅ seh roz ka ye pyasa hai
+  Koi bachale Husain ko...
+  Kahiṅ se aate hai pathar kahiṅ se tir o tabar
+  Sitam hai kaisa hazaroṅ hai zakhm ek dil par
+  Ghira hai nargha-e-aada meiṅ mera lakhte jigar
+  Koi bachale Husain ko...
+  Jo mujhpe bit rahi hai bata nahi sakti
+  Jo zakhm dil pe lage wo dikha nahi sakti
   Mai apne lakhte jigar ko bacha nahi sakti
-  Koi bachale hussain ko...
+  Koi bachale Husain ko...
   Mai ek maa hoo mujhe sabr kis tarha aaye
   Nabi ki beti hoo mujh par koi taras khaaye
-  Mai qatl gaah mein karti hoo bain ye haye
-  Koi bachale hussain ko...
-  Tamaam ahle jahan ne sada suni safdar
-  Ghareeb maa ki ye aah o buka suni safdar
-  Fughan ye sab ne sar e nainawa suni safdar
-  Koi bachale hussain ko...
+  Mai qatl gaah meiṅ karti hoo bain ye haye
+  Koi bachale Husain ko...
+  Tamaam ahle jahaṅ ne sada suni safdar
+  Gharib maa ki ye aah o buka suni safdar
+  Fughaṅ ye sab ne sar e nainawa suni safdar
+  Koi bachale Husain ko...
 # source_id: nohayonline:be882676bf63a031d4e9
 # source_url: https://www.nohayonline.com/details_content.php?id=1558
 # raw_sha256: c2e5eb98601b4961615ba647904655723e055f742e4d0eea11028418ed69a723

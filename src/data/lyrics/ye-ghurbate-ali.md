@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Pehlu bhi shikasta hai aur qabr bhi tooti hai
-  Zahra ki ghareebi hi hyder ki ghareebi hai
+  Pehlu bhi shikasta hai aur qabr bhi tuti hai
+  Zahra ki gharibi hi hyder ki gharibi hai
   Ye ghurbate ali hai ye ghurbate ali hai
-  Haq maang ne jo zahra darbar mein gayi hai
+  Haq maang ne jo zahra darbar meiṅ gayi hai
   Ye ghurbate ali hai...
   Awaaz aa rahi hai mai binte mustafa hoo
-  Baba ke kalma goyon mai hi to fatema hoo
+  Baba ke kalma goyoṅ mai hi to fatema hoo
   Pehchan'ne se dunya inkaar kar rahi hai
   Ye ghurbate ali hai...
   Sun kar salaam e hyder koi nahi hai rukta
   Wajib nahi samajhta koi jawab dena
   Afsos fatema bhi ye baat jaanti hai
   Ye ghurbate ali hai...
-  Masjid mein sar jhukaye maula khade huwe hai
-  Haakim ki tohmaton ko chup chaap sun rahe hai
-  Siddiqa sab ke aagay jhutlaayi ja rahi hai
+  Masjid meiṅ sar jhukaye maula khare huwe hai
+  Haakim ki tohmatoṅ ko chup chaap sun rahe hai
+  Siddiqa sab ke aage jhutlaayi ja rahi hai
   Ye ghurbate ali hai...
-  Kehti hai ro ke zahra jaane na doongi tanha
-  Patke mein murtaza ke hai haath sayyeda ka
+  Kehti hai ro ke zahra jaane na dungi tanha
+  Patke meiṅ murtaza ke hai haath sayyeda ka
   Ab hai kisi ka durra aur dukhtare nabi hai
   Ye ghurbate ali hai...
-  Ek kooche mein pahonch kar dekha hai mujtaba ne
+  Ek kuche meiṅ pahonch kar dekha hai mujtaba ne
   Zaalim ne zarb maari kaise khuda hi jaane
-  Binte nabi zameen par ghash khaake gir padi hai
+  Binte nabi zamiṅ par ghash khaake gir pari hai
   Ye ghurbate ali hai...
-  Mazloome karbala ko yaad aa gayi sakina
+  Mazlume karbala ko yaad aa gayi sakina
   Beti pe mustafa ki qunfuz ka haath utha
-  Pehlu mein murtaza ki talwaar ro padi hai
+  Pehlu meiṅ murtaza ki talwaar ro pari hai
   Ye ghurbate ali hai...
-  Pehlu bhi hai shikasta haathon pe bhi hai chaale
+  Pehlu bhi hai shikasta haathoṅ pe bhi hai chaale
   Hai aap ki amanat ab aap ke hawaale
   Ye kehke murtaza ne mayyat nabi ko di hai
   Ye ghurbate ali hai...
   Kaafi hai bas ye fiqra rone ko zindagi bhar
-  Haathon ko apne aksar kehte thay mal ke hyder
+  Haathoṅ ko apne aksar kehte the mal ke hyder
   Khyber shikan ki zauja ghut ghut ke mar gayi hai
   Ye ghurbate ali hai...
   Kaise likhe takallum ghurbat ali wali ki
-  Zauja sahabiyon ke darbar mein gayi thi
-  Beti sharabiyon ke darbar mein gayi hai
+  Zauja sahabiyoṅ ke darbar meiṅ gayi thi
+  Beti sharabiyoṅ ke darbar meiṅ gayi hai
   Ye ghurbate ali hai...
 # source_id: nohayonline:aa5cdb812a2051087b59
 # source_url: https://www.nohayonline.com/details_content.php?id=1036

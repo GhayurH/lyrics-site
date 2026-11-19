@@ -1,6 +1,6 @@
 ---
 title: "خدمت گزاران کربوبلا"
-alternateTitle: "Khadim Al Hussain"
+alternateTitle: "Khadim Al Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -17,63 +17,63 @@ romanLyrics: |-
   Tum mujhse raazi mai tum se raazi
   Dete hai tum ko dua murtaza
   Raazi hongi tum se fatema
-  Ahsant khadim al hussain
+  Ahsant khadim al Husain
   Tum hamari shaan ho
   Tum bhi mezbaan ho
   Raazi hongi tum se fatema
-  Ahsant khadim al hussain...
-  Zairon ki khidmat par mamoor ho tum
-  Is azeem nemat se mashoor ho tum
+  Ahsant khadim al Husain...
+  Zairoṅ ki khidmat par mamur ho tum
+  Is azim nemat se mashur ho tum
   Karbala ki ye fiza keh rahi hai marhaba
   Ghazi de rahe hai hausla
-  Ahsant khadim al hussain...
+  Ahsant khadim al Husain...
   Jo najaf se jaate hai paidal haram ko
   Tum sahara dete ho har ahle gham ko
-  Jaa baja sabeel hai ishq ki daleel hai
+  Jaa baja sabil hai ishq ki dalil hai
   Ehtemaam aab aur ghiza
-  Ahsant khadim al hussain...
+  Ahsant khadim al Husain...
   Har qadam moakib jo tum ne banaye
   Jo safar se thak jaaye aaram paaye
-  Ho koi mareez e gham ya zaeef e mohtaram
+  Ho koi mariz e gham ya zaif e mohtaram
   Sab ko baant'te ho tum dawa
-  Ahsant khadim al hussain...
-  Nabeena zaair ki beenayi tum ho
-  Maazoor zaair ki besaakhi tum ho
-  Is qadar hujoom mein de rahe ho rahatein
-  Kyun na zaairon ki ho sada
-  Ahsant khadim al hussain...
+  Ahsant khadim al Husain...
+  Nabeena zaair ki binayi tum ho
+  Maazur zaair ki besaakhi tum ho
+  Is qadar hujum meiṅ de rahe ho rahateiṅ
+  Kiuṅ na zaairoṅ ki ho sada
+  Ahsant khadim al Husain...
   Halabikom
   Sada dete hai shabbir
-  Bana doonga mai taqdeer
-  Chale aao ay zawwar
+  Bana dunga mai taqdir
+  Chale aao ae zawwar
   Mere gham ke talabgaar
   Masayib se na ghabrao
   Dar e ghazi pe aa jao
   Qadam qadam kare ata
-  Badhaate jaaye hausla
+  Barhaate jaaye hausla
   Dikha rahe hai raasta
   Tumhare ishq pe fida
   Ata kare tumhe sila
-  Zaairon ki naalain bhi jodte ho
-  Kab tum is fareeze se moo modte ho
-  Khoob naukri hai ye qalb ki khushi hai ye
+  Zaairoṅ ki naalain bhi jorte ho
+  Kab tum is farize se moo morte ho
+  Khub naukri hai ye qalb ki khushi hai ye
   Hai nijaat ka ye raasta
-  Ahsant khadim al hussain...
-  Ki hai shaah rahon pe khidmat guzari
-  Mausamon ki shiddat mein bhi pursadari
+  Ahsant khadim al Husain...
+  Ki hai shaah rahoṅ pe khidmat guzari
+  Mausamoṅ ki shiddat meiṅ bhi pursadari
   Din ho raat ho ya shaam apne kaam se hai kaam
   Boli haar maan kar hawa
-  Ahsant khadim al hussain...
-  Bachon mein bhi aayi aadat tumhari
-  Naslon ko ye baat tum ne sikha di
-  Matam o buka karo tum bhi marsiya padho
-  Tumse bhi kahengi sayyeda
-  Ahsant khadim al hussain...
-  Khadimeen e karbal ki jo naukri hai
+  Ahsant khadim al Husain...
+  Bachoṅ meiṅ bhi aayi aadat tumhari
+  Nasloṅ ko ye baat tum ne sikha di
+  Matam o buka karo tum bhi marsiya parho
+  Tumse bhi kaheṅgi sayyeda
+  Ahsant khadim al Husain...
+  Khadimin e karbal ki jo naukri hai
   Mazhar ki mesum ki khwahish yehi hai
-  Khadimon mein naam ho aisa intezam ho
+  Khadimoṅ meiṅ naam ho aisa intezam ho
   Hum se bole shaah e karbala
-  Ahsant khadim al hussain...
+  Ahsant khadim al Husain...
 # source_id: nohayonline:546d2aa613b3690c9ea4
 # source_url: https://www.nohayonline.com/details_content.php?id=2164
 # raw_sha256: b233a966c0d75764d5d956eb48f291824f1ba8c0347dec9fcda1a9ae367bfc43

@@ -9,11 +9,11 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Hussain Ya Hussain ….. (2)
+  Ya Husain Ya Husain ….. (2)
   Jab Rehaa Hoke Sajjad Laute Watan
 
   1
-  Ya Hussain Ya Hussain
+  Ya Husain Ya Husain
 
   2
   Ro Padhe Dekh Kar Haaye Apna Chaman
@@ -60,7 +60,7 @@ romanLyrics: |-
   Sarwar Jawaad Reh Ken Da
   Ratro Ke Baba Baqir Da…..(2)
   Main Naal Bhirawa Mar Jaanda …..(2)
-  Kyun Junda Watan Te Warya Chacha
+  Kiun Junda Watan Te Warya Chacha
   Aahista Chacha….. Hole Darn Al Naa…..(2)
   Main Haa Zakhmi Padha….. Aahista Chacha…..
 # source_id: ziyaraat:96d0db5b8f04cb83aaa9

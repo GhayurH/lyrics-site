@@ -12,38 +12,38 @@ published: false
 romanLyrics: |-
   1
   Ye kehte hai maqtal se ab bhi shahe abraar
-  Haq baat pe mar jaana ay mere azadaar
+  Haq baat pe mar jaana ae mere azadaar
   Hal min nasirin yansurna
-  Jaan gawa dena izzat na gawana
-  Dekho mera sajda tum bhool na jaana
+  Jaaṅ gawa dena izzat na gawana
+  Dekho mera sajda tum bhul na jaana
   Tum hi to ho mere maqsad ke alamdaar
   Hal min nasirin yansurna...
-  Rakhna nigahon mein abid ki aseeri
-  Haathon mein hathkadiyan aur paon mein bedi
-  Hona jo zamane ki musibat mein giraftaar
+  Rakhna nigahoṅ meiṅ abid ki asiri
+  Haathoṅ meiṅ hathkariyaṅ aur paoṅ meiṅ beri
+  Hona jo zamane ki musibat meiṅ giraftaar
   Hal min nasirin yansurna...
   Rona jawano tum akbar se jawan ko
-  Bhool nahi jaana awaaz e azan ko
-  Ban jaana zamane mein islaam ka kirdaar
+  Bhul nahi jaana awaaz e azaṅ ko
+  Ban jaana zamane meiṅ islaam ka kirdaar
   Hal min nasirin yansurna...
-  Haye ye majboori haye ye ghareebi
+  Haye ye majburi haye ye gharibi
   Baap ne khud bete ki qabr banayi
-  Hilti thi zameen ran ki jab roti thi talwaar
+  Hilti thi zamiṅ ran ki jab roti thi talwaar
   Hal min nasirin yansurna...
-  Rakhna hifazat mein behno ki ridayein
-  Tumko khuda bakshe us sar ki wafayein
+  Rakhna hifazat meiṅ behno ki ridayeiṅ
+  Tumko khuda bakshe us sar ki wafayeiṅ
   Wo sar ke jo naize se gir jaata tha har baar
   Hal min nasirin yansurna...
   Saamne abid ke tha hashr ka manzar
-  Balwe mein zainab thi be maqna o chadar
-  Tum bhool nahi jaana wo shaam ka bazaar
+  Balwe meiṅ zainab thi bemaqna o chadar
+  Tum bhul nahi jaana wo shaam ka bazaar
   Hal min nasirin yansurna...
-  Padta hua nauha karta hua maatam
-  Dard liye dil mein aur haath mein parcham
-  Yun aayega ghaibat se dunya ka nigehdaar
+  Parta hua nauha karta hua maatam
+  Dard liye dil meiṅ aur haath meiṅ parcham
+  Yuṅ aayega ghaibat se dunya ka nigehdaar
   Hal min nasirin yansurna...
-  Shayar o zakir ho ay nayyar o aamir
-  Haan tum mere nasir ho ay nayyar o aamir
+  Shayar o zakir ho ae nayyar o aamir
+  Haaṅ tum mere nasir ho ae nayyar o aamir
   Abbas mera hoga tum sab ka madadgaar
   Hal min nasirin yansurna...
 # source_id: nohayonline:d5d88b582f984a9af0f0

@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Waqt e aakhir ye kaha akbar ne baba jaan
-  Dekhlun ek baar phir se behna ko jo hai wahan
-  Haa usi lamha nazar aayi madine ki zameen
-  Kar rahi thi ye bayan sar ko jhukaye nazneen
-  Lene aao bhai mujhko ghut raha hai dam yahan
-  Dar pe apne sar ko rakh kar keh rahi thi nazneen
+  Waqt-e-aakhir ye kaha akbar ne baba jaan
+  Dekhluṅ ek baar phir se behna ko jo hai wahaṅ
+  Haa usi lamha nazar aayi madine ki zamiṅ
+  Kar rahi thi ye bayan sar ko jhukaye naznin
+  Lene aao bhai mujhko ghut raha hai dam yahaṅ
+  Dar pe apne sar ko rakh kar keh rahi thi nazniṅ
   Bhai akbar lene mujhko ab talak aaye nahi
-  Yaad mein teri ye behna mar na jaye bhai jaan
+  Yaad meiṅ teri ye behna mar na jaye bhai jaaṅ
   Lene aao bhai mujhko...
-  Aankhon se uske bahe jaate thay ashkon ke chiraag
-  Bekasi aur bebasi ka dil mein tha uske jo daagh
-  Maathe ki har ek shikan se uth'ta tha gham ka dhuan
+  Aankhoṅ se uske bahe jaate the ashkoṅ ke chiraag
+  Bekasi aur bebasi ka dil meiṅ tha uske jo daagh
+  Maathe ki har ek shikan se uthta tha gham ka dhuaṅ
   Lene aao bhai mujhko...
-  Hogayi hai wo firaaqe gham mein is tarha nidhaal
+  Hogayi hai wo firaaqe gham meiṅ is tarha nidhaal
   Dekh kar sunsan dar ko lochti thi sar ke baal
-  Yaad aate hai jo akbar sunti thi jab bhi azan
+  Yaad aate hai jo akbar sunti thi jab bhi azaṅ
   Lene aao bhai mujhko...
   Baap ki shafqat kabhi aur maa ki mamta thi kabhi
   Bhai behno ki mohabbat pyar karti thi phupi
-  Phirta tha aankhon mein uske har ghadi saara samaa
+  Phirta tha aankhoṅ meiṅ uske har ghari saara samaa
   Lene aao bhai mujhko...
-  Haye bemaari ka aalam uspe hai tanhaiyan
-  Choomti hai bhai akbar ke khadmon ke nishan
-  Ashkon se likh likh ke khat mein kar diya sab kuch bayan
+  Haye bemaari ka aalam uspe hai tanhaiyaṅ
+  Chumti hai bhai akbar ke khadmon ke nishaṅ
+  Ashkoṅ se likh likh ke khat meiṅ kar diya sab kuch bayaṅ
   Lene aao bhai mujhko...
   Baith kar din bhar musalle par ye karti thi dua
-  Kunbe se mere milaado mujhko ay behre khuda
-  Ghutniyon chalta ab hoga mera asghar be-zuban
+  Kunbe se mere milaado mujhko ae behre khuda
+  Ghutniyoṅ chalta ab hoga mera asghar bezuban
   Lene aao bhai mujhko...
-  Dil ka khoon ban kar siyaahi karta hai ahmed raqam
-  Aur rahega ta qayamat dil mein ye irfan ke gham
-  Sogh mein tere ay bibi rota hai saara jahan
+  Dil ka khun ban kar siyaahi karta hai ahmed raqam
+  Aur rahega ta qayamat dil meiṅ ye irfaṅ ke gham
+  Sogh meiṅ tere ae bibi rota hai saara jahaṅ
   Lene aao bhai mujhko...
 # source_id: nohayonline:72bea60541eb9533b840
 # source_url: https://www.nohayonline.com/details_content.php?id=913

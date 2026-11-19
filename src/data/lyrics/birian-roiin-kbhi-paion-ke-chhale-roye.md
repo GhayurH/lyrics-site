@@ -8,43 +8,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Berriyan royeen kabhi paon ke chaale roye
-  Kaise qaidi thay jinhe qaid ke taale roye
+  Berriyaṅ royeen kabhi paoṅ ke chaale roye
+  Kaise qaidi the jinhe qaid ke taale roye
 
   1
   Jab suna maara gaya pani pilane wala
-  Kaampte haton may sukhe hue pyale roye
-  Bediya royeyn...
+  Kaampte hatoṅ may sukhe hue pyale roye
+  Bediya royeyṅ...
 
   2
   Jane kya sochke shabbir bahot dayr talak
   Karke baysheer ko turbat ke hawale roye
-  Bediya royeyn....
+  Bediya royeyṅ....
 
   3
-  Bhoolne walay tujhe kaise bataye koi
-  Kis khadar tujhko tere chahne walay roye
-  Bediya royeyn....
+  Bhulne wale tujhe kaise bataye koi
+  Kis khadar tujhko tere chahne wale roye
+  Bediya royeyṅ....
 
   4
   Bekasi baap ko le aayi hai kis manzil par
   Barchi bete ke kaleje se nikale roye
-  Bediya royeyn...
+  Bediya royeyṅ...
 
   5
-  Haye afsos ke jis waqt jale thay qaime
-  Dayr tak shame ghariban ko ujale roye
-  Bediya royeyn...
+  Haye afsos ke jis waqt jale the qaime
+  Dayr tak shame gharibaṅ ko ujale roye
+  Bediya royeyṅ...
 
   6
   Pyase jismo may ye paywast hue jab bhi kabhi
-  Dekh kar sookhi ragay barchiya bhaalay roye
-  Bediya royeyn...
+  Dekh kar sukhi ragay barchiya bhaale roye
+  Bediya royeyṅ...
 
   7
-  Bhai ki laash hai aur shor yateemo ka nazeer
+  Bhai ki laash hai aur shor yateemo ka nazir
   Ek behan aise may bachon sambhale roye
-  Bediya royeyn...
+  Bediya royeyṅ...
 # source_id: ziyaraat:427fc4836f6e0b1d07aa
 # source_url: https://www.ziyaraat.net/api/noha/1905
 # raw_sha256: 635ad1f058020e635f762f372fb655d7c5a2dcbebb555fceaf49d1c1695bd01a

@@ -12,58 +12,58 @@ published: false
 romanLyrics: |-
   1
   Riwayat may hai jab bhi
-  Khafela daudaya jaata tha
+  Khafela dauraya jaata tha
   Sar e shabbir naize se
   Sada ye deta jaata tha
-  Sambhalo tum isay zainab
+  Sambhalo tum ise zainab
   Abhi bazaar jaana hai
-  Yateemi hai sakina hai
-  Bada zaalim zamana hai
-  Layeen isko daraate hai
+  Yatimi hai sakina hai
+  Bara zaalim zamana hai
+  Layiṅ isko daraate hai
   Kabhi durre lagate hai
-  Sitamgar tayz naaqon se
-  Isay neeche giraate hai
+  Sitamgar tayz naaqoṅ se
+  Ise niche giraate hai
   Sakina jab bhi roti hai
   Tamache bhi lagate hai
-  Meri bachi ko ay zainab
-  Layeeno se bachana hai
-  Yateemi hai sakina hai...
-  Kahan ye phool si bachi
-  Kahan seh roz ke faaqe
+  Meri bachi ko ae zainab
+  Layino se bachana hai
+  Yatimi hai sakina hai...
+  Kahaṅ ye phul si bachi
+  Kahaṅ seh roz ke faaqe
   Abhi dekhe hai khud isne
   Chacha aur bhai ke laashe
-  Bade sadme uthaaye hai
-  Kayi raaton ki jaagi hai
-  Hamare baad seene par
+  Bare sadme uthaaye hai
+  Kayi raatoṅ ki jaagi hai
+  Hamare baad sine par
   Tumhe isko sulaana hai
-  Yateemi hai sakina hai...
+  Yatimi hai sakina hai...
   Kaleja thaam lo zainab
-  Ye manzar khoon rulaata hai
+  Ye manzar khuṅ rulaata hai
   Mera sajjad ghairat se
-  Nigahon ko jhukata hai
+  Nigahoṅ ko jhukata hai
   Ke zaalim ab sakina ko
-  Kaneezi may bulaata hai
-  Behan na-paak nazron se
+  Kanizi may bulaata hai
+  Behan na-paak nazroṅ se
   Sakina ko chupana hai
-  Yateemi hai sakina hai...
-  Yazeed e nehs kehta hai
+  Yatimi hai sakina hai...
+  Yazid e nehs kehta hai
   Meri baali sakina se
   Agar hai pyar baba ko
   To kehdo sar se khud aaye
-  Hai waqt e imtehan zainab
+  Hai waqt e imtehaṅ zainab
   Meri bachi na mar jaaye
   Hamare sar ko khud uth kar
   Ab uske paas jaana hai
-  Yateemi hai sakina hai...
+  Yatimi hai sakina hai...
   Gaye qabr e sakina par
   Jyunhi farhan aur mazhar
   Bahot roye kiya matam
   Jo dekha shaam ka manzar
-  Unhi logon ke narghe may
+  Unhi logoṅ ke narghe may
   Ghiri hai aaj bhi muztar
   Wohi tanhaai ab bhi hai
   Andhera qaid khaana hai
-  Yateemi hai sakina hai...
+  Yatimi hai sakina hai...
 # source_id: nohayonline:1fa4bdf982cf09a1af76
 # source_url: https://www.nohayonline.com/details_content.php?id=949
 # raw_sha256: 5b1f6889ac07bf5685d2dd4df134acc3a2118f54bb83f8a67862e1627572f8de

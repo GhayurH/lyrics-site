@@ -1,6 +1,6 @@
 ---
 title: "بیان کرتا ہوں میں وقتِ عصر کا منظر"
-alternateTitle: "Aah Ya Hussain"
+alternateTitle: "Aah Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,81 +11,81 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bayaan karta hoon mai waqte asr ka manzar
+  Bayaan karta huṅ mai waqte asr ka manzar
   Tha ek khushk gala aur shimr ka khanjar
-  Mayane khanjar o sar thi hussain ki maadar
+  Mayane khanjar o sar thi Husain ki maadar
   Jo de rahi thi sada bekhata hai mera pisar
-  Kahan ye narm gala aur kahan ye kund churi
-  Hai teen roz ka pyasa hussain ibne ali
-  Ek sayed ko pardesi ko mehman bana kar loot liya
-  Dasht mein goonj utha zehra ka nauha
-  Aah ya hussain
+  Kahaṅ ye narm gala aur kahaṅ ye kund churi
+  Hai tin roz ka pyasa Husain ibne ali
+  Ek sayed ko pardesi ko mehmaṅ bana kar lut liya
+  Dasht meiṅ gunj utha zehra ka nauha
+  Aah ya Husain
   Na maaro na maaro
-  Mai maa hoon bata mai kaise
-  Dekhun ye dard ka manzar
-  Sookha hai gala pyase ka
+  Mai maa huṅ bata mai kaise
+  Dekhuṅ ye dard ka manzar
+  Sukha hai gala pyase ka
   Tu rok le apna khanjar
-  Khuda ke liye isay chod de
+  Khuda ke liye ise chor de
   Ye meri saari dunya hai
-  Dasht mein goonj utha zehra ka nauha
-  Aah ya hussain
+  Dasht meiṅ gunj utha zehra ka nauha
+  Aah ya Husain
   Na maaro...
   Abbas e jari ke baazu
-  Kaate gaye ran mein haye
-  Ek din mein mere bacche ne
+  Kaate gaye ran meiṅ haye
+  Ek din meiṅ mere bacche ne
   Kya kya na zakhm uthaye
-  Khuda ke liye isay chod de
+  Khuda ke liye ise chor de
   Abbas ke baad ye tanha hai
-  Dasht mein goonj utha zehra ka nauha
-  Aah ya hussain
+  Dasht meiṅ gunj utha zehra ka nauha
+  Aah ya Husain
   Na maaro...
   Allah re jis dam akbar
-  Ghode se zameen par aaya
+  Ghore se zamiṅ par aaya
   Shabbir ko us sadme ne
   Ghutno ke bal chalwaya
-  Khuda ke liye isay chod de
+  Khuda ke liye ise chor de
   Hamshakle nabi ka baba hai
-  Dasht mein goonj utha zehra ka nauha
-  Aah ya hussain
+  Dasht meiṅ gunj utha zehra ka nauha
+  Aah ya Husain
   Na maaro...
   Armaan dil e shabbar ke
-  Yun karbobala mein bikhre
-  Chunta raha maqtal mein ye
-  Qasim ke badan ke tukde
-  Khuda ke liye isay chod de
-  Ye laasha dhoond ke laaya hai
-  Dasht mein goonj utha zehra ka nauha
-  Aah ya hussain
+  Yuṅ karbobala meiṅ bikhre
+  Chunta raha maqtal meiṅ ye
+  Qasim ke badan ke tukre
+  Khuda ke liye ise chor de
+  Ye laasha dhund ke laaya hai
+  Dasht meiṅ gunj utha zehra ka nauha
+  Aah ya Husain
   Na maaro...
-  Seene pe lahoo akbar ka
-  Chehre pe lahoo asghar ka
-  Shaano pe lahoo lashkar ka
+  Sine pe lahu akbar ka
+  Chehre pe lahu asghar ka
+  Shaano pe lahu lashkar ka
   Kya haal hua sarwar ka
-  Khuda ke liye isay chod de
+  Khuda ke liye ise chor de
   Ye tere nabi ka nawasa hai
-  Dasht mein goonj utha zehra ka nauha
-  Aah ya hussain
+  Dasht meiṅ gunj utha zehra ka nauha
+  Aah ya Husain
   Na maaro...
-  Hurr john o habeeb aur muslim
-  Maare gaye ran mein pyase
+  Hurr john o habib aur muslim
+  Maare gaye ran meiṅ pyase
   Laaya hai utha kar tanha
   Maqtal se sabhi ke laashe
-  Khuda ke liye isay chod de
-  Kyun itna isay tadpaya hai
-  Dasht mein goonj utha zehra ka nauha
-  Aah ya hussain
+  Khuda ke liye ise chor de
+  Kiuṅ itna ise tarpaya hai
+  Dasht meiṅ gunj utha zehra ka nauha
+  Aah ya Husain
   Na maaro...
   Irfan e aza ka akhtar
   Chamkega to sab dekhenge
   Har zarb pe ye zaalim se
   Mai kehti rahi ro ro ke
-  Khuda ke liye isay chod de
+  Khuda ke liye ise chor de
   Ye ahle azaa ka qibla hai
-  Dasht mein goonj utha zehra ka nauha
-  Aah ya hussain
+  Dasht meiṅ gunj utha zehra ka nauha
+  Aah ya Husain
   Na maaro...
-  Hussain bekafan hussain bekhata
-  Shaheed e karbala bina e la ilaah
+  Husain bekafan Husain bekhata
+  Shahid e karbala bina e la ilaah
 # source_id: nohayonline:d0160124291c7af93388
 # source_url: https://www.nohayonline.com/details_content.php?id=3197
 # raw_sha256: 576bc4365b711f7c1864cb8cae747d6e72edec74ed306ed914dc6ed4821bba2f

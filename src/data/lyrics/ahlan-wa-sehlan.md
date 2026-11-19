@@ -13,7 +13,7 @@ romanLyrics: |-
   1
   Matam kuna nauha kuna
   Ahle aza suye jina
-  Pahunche lahoo may ho ke tar
+  Pahunche lahu may ho ke tar
   Aati thi jannat ki sada
   Marhaba marhaba marhaba marhaba
   Ahlan wa sehlan marhaba
@@ -22,45 +22,45 @@ romanLyrics: |-
   Mai kya meri auqaat kya
   Kehti hai khud bhi sayyeda
   Ahlan wa sehlan...
-  Ye matam e zanjeer hai
-  Khushnoodi e sahbbir hai
+  Ye matam e zanjir hai
+  Khushnudi e sahbbir hai
   Ye faisla to ho chuka
-  Jannat pe bhi tehreer hai
+  Jannat pe bhi tehrir hai
   Ahlan wa sehlan...
   Tu ne uthaaya tha alam
-  Jalti zameen par thay qadam
+  Jalti zamiṅ par the qadam
   Ghazi kahega hashr may
   De kar dua kehte hai hum
   Ahlan wa sehlan...
   Zakhme ali akbar ka gham
-  Seene pe tere hai raqam
+  Sine pe tere hai raqam
   Karta hua seena zani
   Jannat may rakh apne qadam
   Ahlan wa sehlan...
   Gehwara e asghar ko tu
-  Lekar phira hai koo ba koo
+  Lekar phira hai ku ba ku
   Kehne lagi asghar ki maa
   Jannat teri jannat ka tu
   Ahlan wa sehlan...
-  Wo choti choti baaliyan
-  Rakh kar alam ke darmiyan
+  Wo choti choti baaliyaṅ
+  Rakh kar alam ke darmiyaṅ
   Rota tha dhaade maar kar
-  Ay bewatan ke nauhakwan
+  Ae bewatan ke nauhakwan
   Ahlan wa sehlan...
   Abid ka matamdaar hai
-  Nazron may wo bazaar hai
+  Nazroṅ may wo bazaar hai
   Roya hai ek bemaar ko
   Jannat ka tu haqdaar hai
   Ahlan wa sehlan...
   Zainab ke baazu ki rasan
   Deti rahi tujhko mehan
-  Jannat teri maqrooz hai
+  Jannat teri maqruz hai
   Aaja baraye panjetan
   Ahlan wa sehlan...
-  Rehaan kya taqdeer hai
+  Rehaan kya taqdir hai
   Tu shayar e shabbir hai
   Har sher par ek ghar mila
-  Jannat teri jageer hai
+  Jannat teri jagir hai
   Ahlan wa sehlan...
 # source_id: nohayonline:ef5b97318ba36e9a7388
 # source_url: https://www.nohayonline.com/details_content.php?id=2388

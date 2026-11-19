@@ -15,36 +15,36 @@ romanLyrics: |-
   Shehzadi zainab salaam
   Kehta hai ye dashte sitam kehte hai sab ahle qalam
   Jumle ki ye rawani nahi alfaaz aur maani nahi
-  Bas teen hi maayein hai ye jin ka koi saani nahi
+  Bas tin hi maayeiṅ hai ye jin ka koi saani nahi
   Ek akbar ki maa ek zainab ki maa
   Ek aun o mohamed ki maa
-  Maa ki fitrat se hat kar diye imtehan
-  Inke eesaar pe sadqe dono jahan
-  Kar gayi haq pe qurban rifl o jawan
+  Maa ki fitrat se hat kar diye imtehaṅ
+  Inke isaar pe sadqe dono jahaṅ
+  Kar gayi haq pe qurban rifl o jawaaṅ
   Ek akbar ki maa...
-  Haadson se bachaati hai bacchon ko maa
-  Maa ka aanchal hai aulaad ka sayeban
-  Haan magar is rawish par chali hai kahan
+  Haadsoṅ se bachaati hai bacchoṅ ko maa
+  Maa ka aanchal hai aulaad ka sayebaṅ
+  Haaṅ magar is rawish par chali hai kahaṅ
   Ek akbar ki maa...
   Ro ke aun o mohamed se maa ne kaha
   Apne mamu pe hona hai tumko fida
-  Kar ke beton ko qurban thi shadman
+  Kar ke betoṅ ko qurban thi shadmaṅ
   Ek akbar ki maa...
   Chand laila ka tha hum shabihe nabi
   Uske laashe pe khud maut rone lagi
-  Kaisi bemisl maayein hai rabb e jahan
+  Kaisi bemisl maayeiṅ hai rabb e jahaṅ
   Ek akbar ki maa...
   Apne baalon se khud fatema nauhagar
-  Jhaadne aa gayi qatl gaahe pisar
-  Inko rab ne chuna hai pare imtehan
+  Jhaarne aa gayi qatl gaahe pisar
+  Inko rab ne chuna hai pare imtehaṅ
   Ek akbar ki maa...
   Umme farwa rubab aur bano ka gham
-  Karbala ki sabhi maayein hai mohtaram
-  Haan magar inka saani milega kahan
+  Karbala ki sabhi maayeiṅ hai mohtaram
+  Haaṅ magar inka saani milega kahaṅ
   Ek akbar ki maa...
-  Khatm mazhar ne safdar kiya yun kalaam
-  Karbala ki sabhi bibiyon ko salaam
-  Bibiyon ki nigahon mein thi sayeban
+  Khatm mazhar ne safdar kiya yuṅ kalaam
+  Karbala ki sabhi bibiyoṅ ko salaam
+  Bibiyoṅ ki nigahoṅ meiṅ thi sayebaṅ
   Ek akbar ki maa...
 # source_id: nohayonline:f4513233114b003d5fe6
 # source_url: https://www.nohayonline.com/details_content.php?id=3125

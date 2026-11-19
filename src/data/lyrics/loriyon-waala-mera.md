@@ -1,6 +1,6 @@
 ---
 title: "لوریوں والے راج دلارے"
-alternateTitle: "Loriyon Waala Mera"
+alternateTitle: "Loriyoṅ Waala Mera"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Loriyon waale raj dulaare
-  Ay mere pyare haye ali asghar
+  Loriyoṅ waale raj dulaare
+  Ae mere pyare haye ali asghar
   Haye ali asghar haye ali asghar
-  Loriyon waala mera jal gaya jhoola tera
-  Tu kahan hai mere asghar dhoondti phirti hai maa
-  Godh ujdi hai meri ghar bhi ujda hai mera
-  Tu kahan hai mere asghar dhoondti phirti hai maa
-  Kyun hua mujhse khafa kya hui maa se khata
-  Kar ke jo veeran jhoola tu gaya suye qaza
-  Hai nigahon may meri har ghadi chehra tera
-  Tu kahan hai mere asghar...
-  Ay mere noor e nazar ay mere lakhte jigar
-  Band jab aankhein karun mai aaye bas tu hi nazar
-  Khwab may doo loriyan doo kabhi dar pe sada
-  Tu kahan hai mere asghar...
-  Aa dhula doo moo tera khaak o khoon may hai atta
-  Aa mere asghar badal doo khoon bhara kurta tera
-  Teer jab tujhko laga khoon may tar hogaya
-  Tu kahan hai mere asghar...
-  Shiddat e gham kha gayi qalb ko tadpa gayi
-  Maa ke bin ay laal tujhko kis tarha neend aagayi
+  Loriyoṅ waala mera jal gaya jhula tera
+  Tu kahaṅ hai mere asghar dhundti phirti hai maa
+  Godh ujri hai meri ghar bhi ujra hai mera
+  Tu kahaṅ hai mere asghar dhundti phirti hai maa
+  Kiuṅ hua mujhse khafa kya hui maa se khata
+  Kar ke jo veeran jhula tu gaya suye qaza
+  Hai nigahoṅ may meri har ghari chehra tera
+  Tu kahaṅ hai mere asghar...
+  Ae mere nur-e-nazar ae mere lakhte jigar
+  Band jab aankheiṅ karuṅ mai aaye bas tu hi nazar
+  Khwab may doo loriyaṅ doo kabhi dar pe sada
+  Tu kahaṅ hai mere asghar...
+  Aa dhula doo moo tera khaak o khuṅ may hai atta
+  Aa mere asghar badal doo khuṅ bhara kurta tera
+  Tir jab tujhko laga khuṅ may tar hogaya
+  Tu kahaṅ hai mere asghar...
+  Shiddat e gham kha gayi qalb ko tarpa gayi
+  Maa ke bin ae laal tujhko kis tarha nind aagayi
   Kisne di lori tujhe dasht may ye to bata
-  Tu kahan hai mere asghar...
+  Tu kahaṅ hai mere asghar...
   Zindagi dushwar hai maa teri ghamkhwar hai
-  Dhoop may hai qabr teri maut matamdar hai
-  Raaton ko uth uth ke mai karti rehti hoo buka
-  Tu kahan hai mere asghar...
-  Teer se karke shaheed mutmain kab thay yazeed
-  Qabr se laasha nikaala phir kiya tujhko shaheed
+  Dhup may hai qabr teri maut matamdar hai
+  Raatoṅ ko uth uth ke mai karti rehti hoo buka
+  Tu kahaṅ hai mere asghar...
+  Tir se karke shahid mutmain kab the yazid
+  Qabr se laasha nikaala phir kiya tujhko shahid
   Le gaye wo sar tera baad uske kya hua
-  Tu kahan hai mere asghar...
+  Tu kahaṅ hai mere asghar...
   Mesum o mazhar wo gham ho nahi sakte raqam
-  Bain jab karti thi maadar rote thay ahle haram
+  Bain jab karti thi maadar rote the ahle haram
   Sirf is faryad par qaime may kohraam tha
-  Tu kahan hai mere asghar...
+  Tu kahaṅ hai mere asghar...
 # source_id: nohayonline:4609d07e13e1beb68e75
 # source_url: https://www.nohayonline.com/details_content.php?id=1636
 # raw_sha256: 137b0fa857804392deee058b1f91c79ee853cd17feaa801e3955d484370ae6f1

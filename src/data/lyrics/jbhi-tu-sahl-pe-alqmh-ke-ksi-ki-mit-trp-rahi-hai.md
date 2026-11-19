@@ -9,45 +9,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ye sham e ashoor ka hay manzar
-  Hay karb main itrat e payambar
+  Ye sham e ashur ka hai manzar
+  Hai karb maiṅ itrat e payambar
   Jabhi to sahil pe alqama ke
-  Kisi ki mayyat tarap rahi hay
+  Kisi ki mayyat tarap rahi hai
 
   2
-  1) Ye koi mehve buka hay shayad
-  Kisi nay ammu kaha hay shayad
-  Barha hay shayad koi sitamgar
+  1) Ye koi mehve buka hai shayad
+  Kisi ne ammu kaha hai shayad
+  Barha hai shayad koi sitamgar
   Jabhi to sahil pe alqama ke
-  Kisi ki mayyat tarap rahi hay
+  Kisi ki mayyat tarap rahi hai
 
   3
   2) Wo bholi bhali si aik bacchi
   Najaf ki janib jo tak rahi thi
-  Kisi nay cheeney hain us ke gohar
+  Kisi ne chine haiṅ us ke gohar
   Jabhi to sahil pe alqama ke
-  Kisi ki mayyat tarap rahi hay
+  Kisi ki mayyat tarap rahi hai
 
   4
-  3) Atash say bacchay machal rahay hayn
-  Ye phool sholon main jal rahay hayn
-  Chaman main kumla gaye gul e tar
+  3) Atash se bacche machal rahe hayṅ
+  Ye phul sholoṅ maiṅ jal rahe hayṅ
+  Chaman maiṅ kumla gaye gul e tar
   Jabhi to sahil pe alqama ke
-  Kisi ki mayyat tarap rahi hay
+  Kisi ki mayyat tarap rahi hai
 
   5
-  4) Hujoom e gham say jo neem jan hay
-  Wohi jo bemaar natawan hay
-  Kisi nay kheyncha hay uska bistar
+  4) Hujum e gham se jo nim jaṅ hai
+  Wohi jo bemaar natawaṅ hai
+  Kisi ne kheyncha hai uska bistar
   Jabhi to sahil pe alqama ke
-  Kisi ki mayyat tarap rahi hay
+  Kisi ki mayyat tarap rahi hai
 
   6
-  5) Rahi jo kufay ki shahzadi
-  Kisi nay shayad usay sada di
-  Chini hay Kausar ab uski chadar
+  5) Rahi jo kufe ki shahzadi
+  Kisi ne shayad use sada di
+  Chini hai Kausar ab uski chadar
   Jabhi to sahil pe alqama ke
-  Kisi ki mayyat tarap rahi hay
+  Kisi ki mayyat tarap rahi hai
 # source_id: ziyaraat:8fd13b66386313d403e1
 # source_url: https://www.ziyaraat.net/api/noha/650
 # raw_sha256: 7289b1742d5b55081553b913ae84cb4a9d50b7fe350bc8203691b312a5a7bbf6

@@ -8,8 +8,8 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haye kis tarha kati Shaam-e-Ghariban Zainab
-  Kitna purhaul tha Karbal ka bayabaan Zainab
+  Haye kis tarha kati Shaam-e-Gharibaṅ Zainab
+  Kitna purhaul tha Karbal ka bayabaaṅ Zainab
 
   1
   Aag khaimoṅ meiṅ lagi bhai bhatije na pisar
@@ -17,23 +17,23 @@ romanLyrics: |-
 
   2
   Ek barchhi ne jigar kar diya chhalni warna
-  Kitne the dil meiṅ tere hasrat o armaan Zainab
+  Kitne the dil meiṅ tere hasrat o armaaṅ Zainab
 
   3
   Aag ke sholoṅ se Sajjad ko laayi kiun kar
-  Aaj tak qalb hai us haal pe giryaan Zainab
+  Aaj tak qalb hai us haal pe giryaaṅ Zainab
 
   4
   Qalb-e-majruh pe kya guzri shab-e-ghurbat meiṅ
-  Aaya jis waqt nazar ganj-e-shahidaan Zainab
+  Aaya jis waqt nazar ganj-e-shahidaaṅ Zainab
 
   5
   Tuta sa neza liye aap andheri shab meiṅ
-  Misl-e-Abbas rahi sab ki nigehbaan Zainab
+  Misl-e-Abbas rahi sab ki nigehbaaṅ Zainab
 
   6
   Pusht par haath bandhe sar khule aada ke sitam
-  Kaise dafnaati bhala laashe shahidaan Zainab
+  Kaise dafnaati bhala laashe shahidaaṅ Zainab
 # source_id: nohayonline:441559e1e6526ad4c22f
 # source_url: https://www.nohayonline.com/details_content.php?id=225
 # raw_sha256: b2039d4fca60a3548fec85116e7b66653a6560dd42a2354254e595477faa38f9

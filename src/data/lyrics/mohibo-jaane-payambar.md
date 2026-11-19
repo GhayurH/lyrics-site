@@ -11,40 +11,40 @@ published: false
 romanLyrics: |-
   1
   Mohibbo jaane payambar ki ye sawari iai
-  Hassan ke chote baradar ki ye sawari hai
-  Butool e paak ke dilbar ki ye sawari hai
-  Ke ibne hyder e safdar ki ye sawari hai
-  Hussain kushta e khanjar ki ye sawari hai
+  Hasan ke chote baradar ki ye sawari hai
+  Butul-e-paak ke dilbar ki ye sawari hai
+  Ke ibne hyder-e-safdar ki ye sawari hai
+  Husain kushta e khanjar ki ye sawari hai
   Adab se qayede se sar jhukaye saath chalo
-  Udake khaak kaho haye sayyade khush khoo
-  Ye chahiye hai ke sar peeto aur girya ho
-  Mila na ghusl o kafan jis ghareeb o bekas ko
-  Usi shaheed ki bekas ki ye sawari hai
-  Hussain ibne ali tashnakaam khasta jigar
-  Jhulaya jhoole mein gibreel ne jise aksar
-  Janab e fatema zehra ki jaan noor e nazar
-  Shaheed o bekas o mazloom fidya e daawar
-  Nabi ke deen ke yawar ki ye sawari hai
-  Diya na aab layeeno ne jisko ghurbat mein
-  Butool jiske liye peet'ti hai jannat mein
-  Khuda ka shukr kiya jisne har musibat mein
-  Layeen ne kaata gala jiska haq ki ta'at mein
-  Usi ghareeb ki muztar ki ye sawari hai
-  Shaheed ho gaya jo teen roz ka pyasa
-  Libaas le gaye sab loot kar sitam aara
-  Jo zulm ho gaye unko bayan kare koi kya
+  Urake khaak kaho haye sayyade khush khu
+  Ye chahiye hai ke sar pito aur girya ho
+  Mila na ghusl o kafan jis gharib o bekas ko
+  Usi shahid ki bekas ki ye sawari hai
+  Husain ibne ali tashnakaam khasta jigar
+  Jhulaya jhule meiṅ gibreel ne jise aksar
+  Janab e fatema zehra ki jaan nur e nazar
+  Shahid o bekas o mazlum fidya e daawar
+  Nabi ke din ke yawar ki ye sawari hai
+  Diya na aab layino ne jisko ghurbat meiṅ
+  Butul jiske liye pitti hai jannat meiṅ
+  Khuda ka shukr kiya jisne har musibat meiṅ
+  Layiṅ ne kaata gala jiska haq ki ta'at meiṅ
+  Usi gharib ki muztar ki ye sawari hai
+  Shahid ho gaya jo tin roz ka pyasa
+  Libaas le gaye sab lut kar sitam aara
+  Jo zulm ho gaye unko bayaṅ kare koi kya
   Hua ye qaher ke pamaal ho gaya laasha
   Hazaar haif usi sarwar ki ye sawari hai
-  Ali bhi fatema bhi thi hussain ki shayda
+  Ali bhi fatema bhi thi Husain ki shayda
   Ye motabar hai rawayet ke roz eid ka tha
   Libaas bheja khuda ne ye martaba paaya
   Kiya khush inko bane asht rahmat e wala
   Sawaar e dosh e payambar ki ye sawari hai
-  Ye wo ghareeb hai jisko mila na ghusl o kafan
-  Raha hai dhoop mein be gor jiska zakhmi tan
-  Jo tha butool ka dildaar aur imam e zaman
-  Phiri hai barehna sar karbala mein jiski bahen
-  Usi ghareeb usi safdar ki ye sawari hai
+  Ye wo gharib hai jisko mila na ghusl o kafan
+  Raha hai dhup meiṅ begor jiska zakhmi tan
+  Jo tha butul ka dildaar aur imam e zaman
+  Phiri hai barehna sar karbala meiṅ jiski bahen
+  Usi gharib usi safdar ki ye sawari hai
 # source_id: nohayonline:40fbd9267cf804300856
 # source_url: https://www.nohayonline.com/details_content.php?id=1158
 # raw_sha256: d8d957aa5b47f7f04ea06c85791d528c6b785973fddfe36501fe2518d4e3d6e4

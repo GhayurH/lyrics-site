@@ -49,7 +49,7 @@ romanLyrics: |-
 
   10
   Meri ghairat bhi buka karne lagi hai mujh par
-  Be-rida Ahl-e-Haram, koi madadgar nahi
+  berida Ahl-e-Haram, koi madadgar nahi
 
   11
   Dhoop hai sar pe kari, us pe sitam khak-e-safar

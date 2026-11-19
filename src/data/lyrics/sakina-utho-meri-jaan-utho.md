@@ -9,78 +9,78 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  sakina utho meri jaan utho
+  sakina utho meri jaaṅ utho
   rehaai mili chalo ghar chale
   ye karti thi maa lehad par buka
   meri laadli chalo ghar chale
-  yahan se chalo chale karbala
-  wahin par tumhe milenge chacha
+  yahaṅ se chalo chale karbala
+  wahiṅ par tumhe milenge chacha
   sitam jo huwe batana unhe
   dikhana unhe ye kurta jala
   chacha jaan ko dikhana zara
-  rida khoon bhari chalo ghar chale
+  rida khuṅ bhari chalo ghar chale
   sakina utho..
   batana unhe sabhi saqtiyan
-  mili kis qadar tujhe ghurkiyan
+  mili kis qadar tujhe ghurkiyaṅ
   hamari rida luti kis tarha
-  chini kis tarha teri baaliyan
+  chini kis tarha teri baaliyaṅ
   batana unhe bujhi kis tarha
   teri tashnagi chalo ghar chale
   sakina utho..
   padar se milo to dil-joyi ho
   batana unhe bahut royi ho
   qasam lo agar tumhare bina
-  sakina kabhi kahin soyi ho
-  lehad baap ki milay jab tujhe
+  sakina kabhi kahiṅ soyi ho
+  lehad baap ki mile jab tujhe
   tu kehna yehi chalo ghar chale
   sakina utho..
   lehad jab mile tujhe bhai ki
-  tu kehna usay meri laadli
-  rehaai mili hamein qaid se
+  tu kehna use meri laadli
+  rehaai mili hameiṅ qaid se
   hamein ab nahi azziyat koi
   mere bezuban utho ghar chale
   shabihe nabi chalo ghar chale
   sakina utho..
-  labe alqama tu karna fughan
-  teri mauj hai abhi tak rawan
+  labe alqama tu karna fughaṅ
+  teri mauj hai abhi tak rawaṅ
   meri pyaas par hue jo fida
-  chacha ke mere hai baazu kahan
-  kahan mashk hai kahan hai alam
+  chacha ke mere hai baazu kahaṅ
+  kahaṅ mashk hai kahaṅ hai alam
   kahan hai jari chalo ghar chale
   sakina utho..
   na ab gham koi na uftaad hai
-  wo zanjeer se ab azaad hai
+  wo zanjir se ab azaad hai
   phupi bhi teri tere saat hai
   tere saat hi wo sajjad hai
   meri ghamzada shabe gham kati
   sehar ho chuki chalo ghar chale
   sakina utho..
-  labon par tere yehi baat thi
+  laboṅ par tere yehi baat thi
   watan jayenge kabhi hum phupi
   tujhe shimr ka nahi khauf ab
   satayenge na tujhe ab shaqi
   nikal qaid se shuru hum kare
   nayi zindagi chalo ghar chale
   sakina utho..
-  gharibon ka ye luta khaafila
+  ghariboṅ ka ye luta khaafila
   wida hoke phir watan jayega
   tujhe payegi jo sughra teri
   to bemaar ko milegi dawa
-  galay milke phir bahut royegi
+  gale milke phir bahut royegi
   wo behna teri chalo ghar chale
   sakina utho..
   mazaar e nabi laraz jayega
   behan jab teri karegi buka
-  kahan hai chacha kahan hai padar
-  kahan hai bata baradar mera
-  sunane usay ye roodade gham
+  kahaṅ hai chacha kahaṅ hai padar
+  kahaṅ hai bata baradar mera
+  sunane use ye rudade gham
   yehi bebasi chalo ghar chale
   sakina utho..
   gaya marqad e sakina pe gar
-  karega wahan ye mazhar bayan
-  ata umr kar isay daimi
+  karega wahaṅ ye mazhar bayaṅ
+  ata umr kar ise daimi
   ye irfan hai tera nauhaqan
-  wahan jaa ke phir kahega nahi
+  wahaṅ jaa ke phir kahega nahi
   mera dil kabhi chalo ghar chale
   sakina utho..
 # source_id: nohayonline:081845286d63e4be5e95

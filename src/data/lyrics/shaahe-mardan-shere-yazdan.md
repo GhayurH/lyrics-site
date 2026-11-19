@@ -1,6 +1,6 @@
 ---
 title: "شاہ مرداں شیر یزداں"
-alternateTitle: "Shaahe Mardan"
+alternateTitle: "Shaahe Mardaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,37 +10,37 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Shaahe mardan shere yazdan
+  Shaahe mardaṅ shere yazdaṅ
 
   1
   Quwwate parwardigaar hai ali
-  Kaha meesam ne daar par
-  Haan mera pyaar hai ali
+  Kaha misam ne daar par
+  Haaṅ mera pyaar hai ali
   Jaaneman maula ali ishqe-man raahe najaf
-  Kyun na deewana ho wo dil hai jahan shaahe najaf
-  Maine in aankhon se dekhi hai karam gaahe najaf
-  Saare jahan se haseen hai najaf ki zameen
-  Jahan rehte hai do aalam ke baadshah
-  Yani dono jahan mein teri sarkaar hai ali
+  Kiuṅ na deewana ho wo dil hai jahaṅ shaahe najaf
+  Maiṅ ne in aankhoṅ se dekhi hai karam gaahe najaf
+  Saare jahaṅ se hasiṅ hai najaf ki zamiṅ
+  Jahaṅ rehte hai do aalam ke baadshah
+  Yani dono jahaṅ meiṅ teri sarkaar hai ali
 
   2
-  Baadshahon ka shahenshah zabardast ali
+  Baadshahoṅ ka shahenshah zabardast ali
   Tu bulandi hai tujhe kaun kare past ali
   Kar diya teri mohabbat ne mujhe mast ali
-  Dil mein dhadakta hai tu mera maula hai tu
+  Dil meiṅ dharakta hai tu mera maula hai tu
   Hum malango ko tujhse ishq ho gaya
-  Jahan bat'ti hai shaahiyan tera darbar hai ali
+  Jahaṅ bat'ti hai shaahiyaṅ tera darbar hai ali
 
   3
   Lehja tera sunte hi baadal ne garaj kar kaha
-  Naam tera aaya chali dhoop mein thandi hawa
+  Naam tera aaya chali dhup meiṅ thandi hawa
   Dekh tere ishq ne deewana mujhe kar diya
   Koi nahi sirf ali tu hai baadshah
 
   4
-  Saare rindon ka thikana hai tera dar hyder
-  Wajd mein jhoomta rehta hai qalandar hyder
-  Jab bhi lagta hai wahan naara e hyder hyder
+  Saare rindoṅ ka thikana hai tera dar hyder
+  Wajd meiṅ jhumta rehta hai qalandar hyder
+  Jab bhi lagta hai wahaṅ naara e hyder hyder
   Maula jise tu mila wo wali ban gaya
   Dekho sehwan se aa rahi hai ye sada
   Hyderiyam qalandaram mera sardar hai ali
@@ -50,46 +50,46 @@ romanLyrics: |-
   Sirf dil hi nahi zehno pe tera raaj ali
   Tujhko allah ne pehnaya hai ye taaj ali
   Shaahe wilayat hai tu meri chaahat hai tu
-  Baad allah o nabi sab se tu bada
+  Baad allah o nabi sab se tu bara
   Wah kya shaandaar ye teri dastaar hai ali
 
   6
-  Teri baaton mein guzarti hai meri shaam ali
-  Hum faqeeron ka sahara hai tera naam ali
+  Teri baatoṅ meiṅ guzarti hai meri shaam ali
+  Hum faqiroṅ ka sahara hai tera naam ali
   Dono aalam ki madad karna tera kaam ali
   Chalti hai marzi teri mere maula ali
   Tune jo keh diya samjho wo ho gaya
-  Marzi e kirdigaar ka tu khareedaar hai ali
+  Marzi e kirdigaar ka tu kharidaar hai ali
 
   7
   Haye ali haye ali haye ali
   Itni taaqat thi ke jo chaahe wo kar sakta tha
-  Wo bina taygh bhi maidaan mein utar sakta tha
+  Wo bina taygh bhi maidaaṅ meiṅ utar sakta tha
   Kaise talwaar chalaani hai wo sab jaanta tha
   Baad allah ke wo hukme nabi maanta tha
   Quwwate parwardigaar teri ghurbat pe nisaar
-  Tu ne jo sabr kiya koi nahin kar sakta
+  Tu ne jo sabr kiya koi nahiṅ kar sakta
   Tera darwaza jalaya teri zahra ko rulaya
-  Teri gardan mein rasan thi
+  Teri gardan meiṅ rasan thi
   Phir bhi tu kuch nahi bola
   Mere maula
   Tu hi tha baade nabi sab ka imam
   Phir bhi karta nahi tha koi salaam
-  Tu madine mein kitna tanha tha
+  Tu madine meiṅ kitna tanha tha
   Qabre zahra pe baitha rehta tha
   Haye ali haye haye ali teri tanhaai
   Kufe se jo karbobala tak aayi
-  Tere har waar ka yun badla liya
-  Tere bacchon ka gala kaat diya
+  Tere har waar ka yuṅ badla liya
+  Tere bacchoṅ ka gala kaat diya
   Tera qasim tera ghazi tera akbar
   Mar gaye aun o mohamed ali asghar
   Tera ek beta teri tarha bahot tanha tha
-  Tha jo maidan mein seh roz ka bhooka pyasa
-  Haye hussain haye hussain haye hussain
-  Dekh kar jis ki taraf kehte thay laakhon aada
-  Ghayr kar maaro isay ye hai ali ka beta
-  Aaj rote hai isi baat pe zeeshan o raza
-  Maula har daur mein tera hi lahoo behta raha
+  Tha jo maidaṅ meiṅ seh roz ka bhuka pyasa
+  Haye Husain haye Husain haye Husain
+  Dekh kar jis ki taraf kehte the laakhoṅ aada
+  Ghayr kar maaro ise ye hai ali ka beta
+  Aaj rote hai isi baat pe zishan o raza
+  Maula har daur meiṅ tera hi lahu behta raha
 # source_id: nohayonline:a640ba554ece68e04e59
 # source_url: https://www.nohayonline.com/details_content.php?id=3635
 # raw_sha256: ce6e28c92c43f243dfe162028ba695ccfb1b7dd922960ce029609562f6230a77

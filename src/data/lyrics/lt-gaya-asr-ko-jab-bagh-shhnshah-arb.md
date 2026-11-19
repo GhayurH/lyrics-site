@@ -70,7 +70,7 @@ romanLyrics: |-
 
   13
   Taaziyane liye ithne me sitam gar aaye
-  Durre beemar pa be jurm-o-khata barsaye
+  Durre beemar pa be jurm o khata barsaye
   Nangi oonton pa Nabizaadiyon ko bithlaye
   Khauf o dehshat se aseerane bala tharraye
 
@@ -81,7 +81,7 @@ romanLyrics: |-
   15
   Aise aalam me Sakina ne pukara bhaiya
   Pushte naaqa pe chhila jata hai seena bhaiya
-  Dard-o-gham se mera phat’ta hai kaleja bhaiya
+  Dard o gham se mera phat’ta hai kaleja bhaiya
   Saans lena bhi toh dushwar hai mera bhaiya
 
   16

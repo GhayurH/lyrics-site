@@ -73,7 +73,7 @@ romanLyrics: |-
   11
   11) Karti hun sawal ye ab tumse
   Be parda kabhi dekha tha mujhe
-  Nana, kyun kabr teri tharra gaye hay
+  Nana, kiun kabr teri tharra gaye hay
   Nana teri Zainab aa gaye hay
 
   12

@@ -30,7 +30,7 @@ romanLyrics: |-
 
   3
   Seh ke koi dikhaaye zara ab is ne mushkil jo sar pe sahi hai
-  Karbala ho ya Shaam-e-Ghariban har jagah saath hi ye rahi hai
+  Karbala ho ya Shaam-e-Gharibaṅ har jagah saath hi ye rahi hai
   Jis se baandhi thi zaalim ne Zainab us rasan se Fizza bandhi hai
 
   4

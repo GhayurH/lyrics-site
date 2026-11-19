@@ -13,16 +13,16 @@ romanLyrics: |-
   1
   Nisaar kar chuke jab raahe haq may asghar ko
   Tab aaye qaime may sheh ruqsate mukarrar ko
-  Bayaan kaise karoon bekas ke manzar ko
-  Thi pesh manzilein dushware ibne hyder ko
+  Bayaan kaise karuṅ bekas ke manzar ko
+  Thi pesh manzileiṅ dushware ibne hyder ko
   Koi na tha jo karata sawaar sarwar ko
-  Bithaya ghode pe hamsheer ne biradar ko
+  Bithaya ghore pe hamshir ne biradar ko
 
   2
   Har ek bibi ka dil gham se tha taho-bala
-  Na koi monis-o-yawar na godh ka paala
+  Na koi monis o yawar na godh ka paala
   Koi lipat-ti thi daaman se kartii thi naala
-  Khade thay sar ko jhukaye huwe shahe wala
+  Khade the sar ko jhukaye huwe shahe wala
   Koi na tha jo karata....
 
   3
@@ -33,52 +33,52 @@ romanLyrics: |-
   Koi na tha jo karata....
 
   4
-  Pukari zainab-e-mustar kahan ho ay akbar
-  Akela fauje adoo may chala nabi ka pisar
-  Qabar na loge chacha ki ay qasime mustar
-  Kahan pe hai mera shere jari wafa paykar
+  Pukari zainab-e-mustar kahaṅ ho ae akbar
+  Akela fauje adu may chala nabi ka pisar
+  Qabar na loge chacha ki ae qasime mustar
+  Kahaṅ pe hai mera shere jari wafa paykar
   Koi na tha jo karata....
 
   5
   Ye nowha karti thi maqtal may zainab-e-kubra
   Bachane wala koi mere bhai ka na raha
-  Gulu bureeda se deta tha har shaheed sada
+  Gulu bureeda se deta tha har shahid sada
   Mile hayaat to phir ho hazaar baar fida
   Koi na tha jo karata....
 
   6
-  Kaha hussain ne zainab se alvida hamsheer
+  Kaha Husain ne zainab se alvida hamshir
   Bula rahe hai paye jang kaf se bepeer
-  Khayal rakhna sakina ka hai bahut hi sagheer
-  Muaf karna jo karde kabhi koi tafseer
+  Khayal rakhna sakina ka hai bahut hi saghir
+  Muaf karna jo karde kabhi koi tafsir
   Koi na tha jo karata....
 
   7
-  Lagaam thaam ke ghode ke bole ye shabbir
-  Hamare saath hai zulmo sitam ka tu bhi aseer
-  Safar hai aakhri tujhpar mera ye ay dilgeer
-  Tuhi hai munis-o-gham khwar mera waqte akheer
+  Lagaam thaam ke ghore ke bole ye shabbir
+  Hamare saath hai zulmo sitam ka tu bhi asir
+  Safar hai aakhri tujhpar mera ye ae dilgir
+  Tuhi hai munis o gham khwar mera waqte akhir
   Koi na tha jo karata....
 
   8
   Imam-e-waqt se jab zuljana ne ye suna
   Zubaane haal se wo bezubaan huwa goya
-  Huzoor aap pe sau baar meri jaan fida
-  Zehe naseeb ke ye farz aap ne sawmpa
+  Huzur aap pe sau baar meri jaan fida
+  Zehe nasib ke ye farz aap ne sawmpa
   Koi na tha jo karata....
 
   9
   Mai jaanta hoo ke ye aakhri sawari hai
-  Karoo jihad ye khud mujko beqarari hai
+  Karu jihad ye khud mujko beqarari hai
   Sumo se lipti hui aapki dulaari hai
   Mere padar ko na leja ye lab pe jaari hai
   Koi na tha jo karata....
 
   10
-  Anees rukhsate aakhir ke waqt tha mehshar
-  Koi to peet-ti thi seena koi bibi sar
+  Anis rukhsate aakhir ke waqt tha mehshar
+  Koi to pit-ti thi seena koi bibi sar
   Kabhi pukarti thi apne pyaro ko rokar
-  Kahan pe ho zara ye haal dekh lo aakar
+  Kahaṅ pe ho zara ye haal dekh lo aakar
   Koi na tha jo karata....
 # source_id: ziyaraat:5fc3f58bf77addf59184
 # source_url: https://www.ziyaraat.net/api/noha/1170

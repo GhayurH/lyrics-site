@@ -1,6 +1,6 @@
 ---
 title: "ایسا علم ہے کہاں"
-alternateTitle: "Aisa Alam Hai Kahan"
+alternateTitle: "Aisa Alam Hai Kahaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

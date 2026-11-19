@@ -12,49 +12,49 @@ published: false
 romanLyrics: |-
   1
   Jaane kya haadsa hai hone ko
-  Jee bahot chaahta hai rone ko
-  Boli ye sughra ay baade saba
-  Baba ki kuch baatein suna
+  Ji bahot chaahta hai rone ko
+  Boli ye sughra ae baade saba
+  Baba ki kuch baateiṅ suna
   Ghabra raha hai dil mera
-  Baba ki kuch baatein suna
+  Baba ki kuch baateiṅ suna
   Boli ye sughra...
   Mai muntazir hoo baba se kehna
   Sab haal mera jaa ke batana
   Boli ye sughra
   Dua meri leja tu jaati hawa
-  Baba ki kuch baatein suna
+  Baba ki kuch baateiṅ suna
   Boli ye sughra...
   Bas ay hawa tu akbar se kehna
   Mar jaungi to aaoge bhaiya
   Boli ye sughra
   Waada kiya tha bhula kyu diya
-  Baba ki kuch baatein suna
+  Baba ki kuch baateiṅ suna
   Boli ye sughra...
-  Baba ki khushboo mujhko sungade
-  Kis des mein hai itna bata de
+  Baba ki khushbu mujhko sungade
+  Kis des meiṅ hai itna bata de
   Boli ye sughra
   Alam tu ne dekha chacha ka bata
-  Baba ki kuch baatein suna
+  Baba ki kuch baateiṅ suna
   Boli ye sughra...
   Akbar ne shaadi jis dum rachayi
   Sach kehna usko mai yaad aayi
   Boli ye sughra
   Lagta tha kaisa wo dulha bana
-  Baba ki kuch baatein suna
+  Baba ki kuch baateiṅ suna
   Boli ye sughra...
   Asghar ko mere tum pyaar karna
   Wo ghutniyo ab chalta to hoga
   Boli ye sughra
-  Balayein bhi lena usay choomna
-  Baba ki kuch baatein suna
+  Balayeiṅ bhi lena use chumna
+  Baba ki kuch baateiṅ suna
   Boli ye sughra...
   Na sughra se jab dil sambhala gaya
-  To ashkoon se baba ko khat mein likha
+  To ashkuṅ se baba ko khat meiṅ likha
   Sun kar samar ye jaati hawa ne
   Dekha raza jo aansu chupa ke
   Boli ye sughra
   Rona hai kaisa chupati hai kya
-  Baba ki kuch baatein suna
+  Baba ki kuch baateiṅ suna
   Boli ye sughra...
 # source_id: nohayonline:5be58f5d0e6ac3590609
 # source_url: https://www.nohayonline.com/details_content.php?id=2398

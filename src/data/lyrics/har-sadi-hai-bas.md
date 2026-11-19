@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Wo sadi bhi thi ghame hussain ki
-  Ye sadi bhi hai ghame hussain ki
-  Har sadi hai bas ghame hussain ki
-  Is zameen o aasman ko hai fanaa
-  Chand aur kehkashan ko hai fanaa
-  Aadmi ki daastan ko hai fanaa
-  Zindagi hai bas ghame hussain ki
+  Wo sadi bhi thi ghame Husain ki
+  Ye sadi bhi hai ghame Husain ki
+  Har sadi hai bas ghame Husain ki
+  Is zamin o aasmaṅ ko hai fanaa
+  Chand aur kehkashaṅ ko hai fanaa
+  Aadmi ki daastaṅ ko hai fanaa
+  Zindagi hai bas ghame Husain ki
   Har sadi hai bas...
-  Jaagta hai kyun zameer e aadmi
+  Jaagta hai kiuṅ zamir e aadmi
   Ye to tu ne socha hi nahi kabhi
-  Kyun chaman mein hai bahaar e zindagi
-  Taazgi hai bas ghame hussain ki
+  Kiuṅ chaman meiṅ hai bahaar e zindagi
+  Taazgi hai bas ghame Husain ki
   Har sadi hai bas...
   Fikr hai tujeh azal se bas yehi
-  Na masjidon mein majlisein kare koi
+  Na masjidoṅ meiṅ majliseiṅ kare koi
   Khaana e khuda libaas matami
-  Aagahi hai bas ghame hussain ki
+  Aagahi hai bas ghame Husain ki
   Har sadi hai bas...
-  Kinriya to deen ko rasool ko
-  Zindagi mili har ek usool ko
-  Hai salaam is liye batool ko
-  Baat ki hai bas ghame hussain ki
+  Kinriya to din ko rasul ko
+  Zindagi mili har ek usul ko
+  Hai salaam is liye batul ko
+  Baat ki hai bas ghame Husain ki
   Har sadi hai bas...
-  Bhai bhai yun to hai sabhi magar
-  Bat gaye hai nafraton mein jaan kar
+  Bhai bhai yuṅ to hai sabhi magar
+  Bat gaye hai nafratoṅ meiṅ jaan kar
   Phailta gaya bughz ka shajar
-  Dushmani hai bas ghame hussain ki
+  Dushmani hai bas ghame Husain ki
   Har sadi hai bas...
   Ye sada hai dil ki mazhar abidi
   Fikr ko hayaat e javeda mili
   Raat din mera kaam hai yehi
-  Shayari hai bas ghame hussain ki
+  Shayari hai bas ghame Husain ki
   Har sadi hai bas...
 # source_id: nohayonline:66982e188b8c8abbffe5
 # source_url: https://www.nohayonline.com/details_content.php?id=2771

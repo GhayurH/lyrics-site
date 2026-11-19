@@ -12,47 +12,47 @@ published: false
 romanLyrics: |-
   1
   Momino utha janaza
-  Baqir e mazloom ka
+  Baqir e mazlum ka
   Qatle na-haq kalmago ne
-  Phir kiya masoom ka
-  Ahle arsh o farsh mein
+  Phir kiya masum ka
+  Ahle arsh o farsh meiṅ
   Mehshar bapa hai al amaan
   Gham se phat'ta hai kaleja
-  Sadiq e maghmoom ka
-  Gham e baqir mein roti hai khudayi
+  Sadiq e maghmum ka
+  Gham e baqir meiṅ roti hai khudayi
   Jafa ye kalmago ne kaisi dhaayi
-  Yun phir hai gulshan e saadaat ujda
-  Madina sog e baqir mein hai dooba
-  Sar apna peet ke kehti hai farwa
-  Yateemi jafar e sadiq pa chaayi
+  Yuṅ phir hai gulshan e saadaat ujra
+  Madina sog e baqir meiṅ hai duba
+  Sar apna pit ke kehti hai farwa
+  Yatimi jafar e sadiq pa chaayi
   Gham e baqir mein...
-  Wo jis se rahmatein hoti thi naazil
+  Wo jis se rahmateiṅ hoti thi naazil
   Ye ummat hogayi uski hi qaatil
   Bata aakhir hua kya tujh ko haasil
   Mawaddat kaisi ummat ne nibhayi
   Gham e baqir mein...
-  Lehad mein fatema ko phir rulaya
-  Sutoon e rauza e hyder hilaya
+  Lehad meiṅ fatema ko phir rulaya
+  Sutun e rauza e hyder hilaya
   Hishaam e bad nasab ne zulm dhaaya
   Duhaai ya muhamed hai duhaai
   Gham e baqir mein...
   Sada e haye wawaila lagaate
   Imam e ilm par aansu bahaate
   Chale hai marsiya qudsi sunaate
-  Hai ta aflaak nauhon ki rasaayi
+  Hai ta aflaak nauhoṅ ki rasaayi
   Gham e baqir mein...
-  Shahe yasrab zara khidmaat dekhein
-  Di ummat ne nayi saughaat dekhein
-  Gham o aazaar hai din raat dekhein
+  Shahe yasrab zara khidmaat dekheiṅ
+  Di ummat ne nayi saughaat dekheiṅ
+  Gham o aazaar hai din raat dekheiṅ
   Luti phir fatema ki hai kamaayi
   Gham e baqir mein...
   Sitam aisa hua aflaak roye
-  Lehad mein sayyed e laulaak roye
-  Hue jafar gareeban chaak roye
+  Lehad meiṅ sayyed e laulaak roye
+  Hue jafar garibaṅ chaak roye
   Gira dil par hai ehsaas e judaai
   Gham e baqir mein...
   Wila e hyder e safdar ki khaatir
-  Shahe mazloom ke maqtal ka zaakir
+  Shahe mazlum ke maqtal ka zaakir
   Hua ruqsat wo karbal ka musafir
   Aziyat jis ne bachpan se uthaayi
   Gham e baqir mein...

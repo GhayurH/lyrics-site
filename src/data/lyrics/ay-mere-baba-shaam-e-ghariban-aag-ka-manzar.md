@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shaam e ghariban aag ka manzar
+  Shaam e gharibaṅ aag ka manzar
   Aaye najaf se faatahe khyber
-  Ujdi hui zainab ne dekha
+  Ujri hui zainab ne dekha
   Rote huwe jab baap ka chehra
-  Maqtal mein goonja zainab ka nauha
-  Ay mere baba haye mere baba
-  Kya kya masayib toote hai mujh par
-  Batla raha hai ye khooni manzar
-  Ek din mein ujda mera bhara ghar
+  Maqtal meiṅ gunja zainab ka nauha
+  Ae mere baba haye mere baba
+  Kya kya masayib tute hai mujh par
+  Batla raha hai ye khuni manzar
+  Ek din meiṅ ujra mera bhara ghar
   Na rahe bhai na koi beta
-  Ay mere baba...
-  Ye karbala hai ya khooni jangal
+  Ae mere baba...
+  Ye karbala hai ya khuni jangal
   Dekho to baba tum suye maqtal
-  Sab ke lahoo se bheega hai aanchal
-  Saare azeezon ka gham uthaya
-  Ay mere baba...
+  Sab ke lahu se bhiga hai aanchal
+  Saare azizoṅ ka gham uthaya
+  Ae mere baba...
   Dekh sako to ye dekho baba
   Bikhra hua hai qasim ka sehra
-  Hai tukde tukde dulha ka laasha
+  Hai tukre tukre dulha ka laasha
   Dil ko sambhale roti hai farwa
-  Ay mere baba...
+  Ae mere baba...
   Bhoolega kaise ye qalb mera
   Ghazi ke shaane akbar ka seena
-  Bano ka nauha asghar ka jhoola
-  Dil mein hai mere ye daagh kaisa
-  Ay mere baba...
-  Paala tha jisko maa ban ke maine
+  Bano ka nauha asghar ka jhula
+  Dil meiṅ hai mere ye daagh kaisa
+  Ae mere baba...
+  Paala tha jisko maa ban ke maiṅ ne
   Cheda kaleja uska sina ne
   Sunlo zara nauha uski maa se
   Laila ka dil bhi gham se chida tha
-  Ay mere baba...
+  Ae mere baba...
   Kya tumne baba dekhi taraayi
   Baazu bureeda hai mera bhai
   Baad us ke hum pe uftaad aayi
   Tha us ke dam se parda hamara
-  Ay mere baba...
-  Abid ko sholon se bhi nikaala
-  Deti thi bacchon ko mai sahara
-  Ahle haram ko maine sambhala
+  Ae mere baba...
+  Abid ko sholoṅ se bhi nikaala
+  Deti thi bacchoṅ ko mai sahara
+  Ahle haram ko maiṅ ne sambhala
   Tanha diya hai qaimon ke pehra
-  Ay mere baba...
+  Ae mere baba...
   Ye mere aansu kehte hai baba
   Is tarha rone se kya milega
-  Jaise bhi ho ab jeena padega
-  Zindagi bhar ka gham maine paaya
-  Ay mere baba...
+  Jaise bhi ho ab jina padega
+  Zindagi bhar ka gham maiṅ ne paaya
+  Ae mere baba...
   Farhan o mazhar kaisa tha manzar
-  Baap ke qadmon se wo lipat kar
+  Baap ke qadmoṅ se wo lipat kar
   Kehti thi zainab mera luta ghar
   Waqte madad tha koi na aaya
-  Ay mere baba...
+  Ae mere baba...
 # source_id: nohayonline:fd08252984bb4eb2a471
 # source_url: https://www.nohayonline.com/details_content.php?id=3419
 # raw_sha256: ab1c7e204ad4da08341bcdc8e7775ca9b77e4c19371dcf29eb8f31879c3ed584

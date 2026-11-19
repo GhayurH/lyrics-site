@@ -41,7 +41,7 @@ romanLyrics: |-
 
   2
   Janta Hoon Muflis Hoon Ghar Mein Ghurbat Hai
-  Karb-o-Bala Jane Ki Phir Bhi Hasrat Hai
+  Karb o Bala Jane Ki Phir Bhi Hasrat Hai
   Door Main Ab Maula Se Reh Na Paon Ga
   Unn Ki Yaad Mein Ro Ro Kar Mar Jaon Ga
   Meri Aas Ko Bhaijein
@@ -67,7 +67,7 @@ romanLyrics: |-
   Karta Hoon Dua Mehfooz Rahe Har Molai Ki Jan
 
   5
-  Maula Hussain Ko Akbar Ka Pursa De Kar
+  Maula Husain Ko Akbar Ka Pursa De Kar
   Hum Ne Shab-e-Juma Yeh Dua Mangi Ro Kar
   Chor Gaye Hain Hum Ko Jitnay Bhi Pyaray
   Rehmatein Nazil Kijiye Unn Ki Qabron Pe

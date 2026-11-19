@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ek khwab mein dekha kisi aalim ne ye manzar
+  Ek khwab meiṅ dekha kisi aalim ne ye manzar
   Kehta hai koi qarz mera zikr hai tum par
-  Mazloomi e abbas bayan kyun nahi karte
-  Tum log kabhi mere masayib nahi padte
-  Sar choor tha paywast tha jab teer jabeen par
-  Bin haaton ke abbas gire kaise zameen par
-  Mushkil mein hai abbas musibat mein hai abbas
-  Is doobti kashti ko kinara koi de de
-  Abbas ko haaton ka sahara koi de de
+  Mazlumi e abbas bayaṅ kiuṅ nahi karte
+  Tum log kabhi mere masayib nahi parte
+  Sar chur tha paywast tha jab tir jabiṅ par
+  Bin haatoṅ ke abbas gire kaise zamiṅ par
+  Mushkil meiṅ hai abbas musibat meiṅ hai abbas
+  Is dubti kashti ko kinara koi de de
+  Abbas ko haatoṅ ka sahara koi de de
   Jab nehr se pani liye wapas hua ghazi
-  Bhagi hui wo faujein udoo laut ke aayi
-  Baarish hui pyase pe wahan teer e sitam ki
+  Bhagi hui wo faujeiṅ udu laut ke aayi
+  Baarish hui pyase pe wahaṅ tir e sitam ki
   Baazu bhi kate maskh chidi beh gaya pani
-  Is doobti kashti ko kinara koi de de
-  Abbas ko haaton ka...
-  Saabir hai ladayi ka kahan izn mila hai
-  Dil toot gaya mashk pe jab teer laga hai
-  Ghazi ka lahoo mashk e sakina se baha hai
-  Ghode pe ye lehrata hua dekh raha hai
-  Is doobti kashti ko kinara koi de de
-  Abbas ko haaton ka...
-  Be-baam ka dar kis tarha girta hai zameen par
-  Be-dosh ka sar kis tarha girta hai zameen par
-  Bes-haak shajar kis tarha girta hai zameen par
-  Be-dast bashar kis tarha girta hai zameen par
-  Is doobti kashti ko kinara koi de de
-  Abbas ko haaton ka...
+  Is dubti kashti ko kinara koi de de
+  Abbas ko haatoṅ ka...
+  Saabir hai larayi ka kahaṅ izn mila hai
+  Dil tut gaya mashk pe jab tir laga hai
+  Ghazi ka lahu mashk e sakina se baha hai
+  Ghore pe ye lehrata hua dekh raha hai
+  Is dubti kashti ko kinara koi de de
+  Abbas ko haatoṅ ka...
+  bebaam ka dar kis tarha girta hai zamiṅ par
+  bedosh ka sar kis tarha girta hai zamiṅ par
+  Bes-haak shajar kis tarha girta hai zamiṅ par
+  bedast bashar kis tarha girta hai zamiṅ par
+  Is dubti kashti ko kinara koi de de
+  Abbas ko haatoṅ ka...
   Ya jaafar e tayyaar madad ke liye aao
   Ya sayyed e abraar madad ke liye aao
   Ya hyder e karraar madad ke liye aao
-  Ay sab ke madad gaar madad ke liye aao
-  Is doobti kashti ko kinara koi de de
-  Abbas ko haaton ka...
-  Zehra ka hai ghode pe wo naam e shahe dilgeer
-  Saahii ki tarha jism hua itne lage teer
-  Girta hai magar girne mein hojati hai takheer
-  Dekhein koi mazloomi e abbas ki tasveer
-  Is doobti kashti ko kinara koi de de
-  Abbas ko haaton ka...
-  Hai teer meri aankh mein mushkil ki ghadi hai
-  Zakhmi hai badan mera ajal paas khadi hai
-  Pani nahi pahunchaya wasiyat ye kadi hai
-  Is waqt sakina se hamein sharm badi hai
-  Is doobti kashti ko kinara koi de de
-  Abbas ko haaton ka...
-  Jo saath nibahate thay madad ke liye aayein
-  Jo naaz uthaate thay madad ke liye aayein
-  Jo mujhko sulaate thay madad ke liye aayein
-  Jhoola ko jhulaate thay madad ke liye aayein
-  Is doobti kashti ko kinara koi de de
-  Abbas ko haaton ka...
-  Dushman mere aaqa ke yahan saare layeen hai
-  Kuch dayr ke mehman hai hum khaak nasheen hai
+  Ae sab ke madad gaar madad ke liye aao
+  Is dubti kashti ko kinara koi de de
+  Abbas ko haatoṅ ka...
+  Zehra ka hai ghore pe wo naam e shahe dilgir
+  Saahii ki tarha jism hua itne lage tir
+  Girta hai magar girne meiṅ hojati hai takhir
+  Dekheiṅ koi mazlumi e abbas ki tasvir
+  Is dubti kashti ko kinara koi de de
+  Abbas ko haatoṅ ka...
+  Hai tir meri aankh meiṅ mushkil ki ghari hai
+  Zakhmi hai badan mera ajal paas khari hai
+  Pani nahi pahunchaya wasiyat ye kari hai
+  Is waqt sakina se hameiṅ sharm bari hai
+  Is dubti kashti ko kinara koi de de
+  Abbas ko haatoṅ ka...
+  Jo saath nibahate the madad ke liye aayeiṅ
+  Jo naaz uthaate the madad ke liye aayeiṅ
+  Jo mujhko sulaate the madad ke liye aayeiṅ
+  Jhula ko jhulaate the madad ke liye aayeiṅ
+  Is dubti kashti ko kinara koi de de
+  Abbas ko haatoṅ ka...
+  Dushman mere aaqa ke yahaṅ saare layiṅ hai
+  Kuch dayr ke mehman hai hum khaak nashiṅ hai
   Jo haath gire kat ke tarapte wo wahin hai
-  Mai kaise dua maangun mere haath nahi hai
-  Is doobti kashti ko kinara koi de de
-  Abbas ko haaton ka...
-  Ek sar se baha khoon ka darya hai zameen tak
-  Bin haathon ke abbas ko aana hai zameen tak
-  Zehra ka qamar kis tarha pahuncha hai zameen tak
-  Ay pushte e faras faasla kitna hai zameen tak
-  Is doobti kashti ko kinara koi de de
-  Abbas ko haaton ka...
+  Mai kaise dua maanguṅ mere haath nahi hai
+  Is dubti kashti ko kinara koi de de
+  Abbas ko haatoṅ ka...
+  Ek sar se baha khun ka darya hai zamiṅ tak
+  Bin haathoṅ ke abbas ko aana hai zamiṅ tak
+  Zehra ka qamar kis tarha pahuncha hai zamiṅ tak
+  E pushte e faras faasla kitna hai zamiṅ tak
+  Is dubti kashti ko kinara koi de de
+  Abbas ko haatoṅ ka...
 # source_id: nohayonline:77f747d6d6f27fb5f3da
 # source_url: https://www.nohayonline.com/details_content.php?id=2325
 # raw_sha256: 4e4af3d1255e6df225d486766aee6d0aa840a6800974ee5bd2d621d809c98373

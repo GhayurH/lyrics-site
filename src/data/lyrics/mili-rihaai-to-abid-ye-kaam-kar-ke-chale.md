@@ -25,27 +25,27 @@ romanLyrics: |-
 
   3
   Sakina Shaam Ke Zindaan Meiṅ Reh Gayi Tanha
-  Chale Aseer Riha Ho Ke Su-e-Karbobala
+  Chale Asir Riha Ho Ke Su-e-Karbobala
   Ye Marhala Bhi To Abid Tamaam Kar Ke Chale
 
   4
   Tamache Khati Rahi Sheh Ko Yaad Karti Rahi
-  Qadam Qadam Pe Sakina Ghareeb Marti Rahi
-  Aseer Iss Tarha Sar Shehr-e-Shaam Kar Ke Chale
+  Qadam Qadam Pe Sakina Gharib Marti Rahi
+  Asir Iss Tarha Sar Shehr-e-Shaam Kar Ke Chale
 
   5
   Watan Bhi Ja Ke Ye Roeṅge Sheh Ke Gham Meiṅ
   Ab In Ki Umr Basar Hogi Sheh Ke Matam Meiṅ
-  Jo Zeest Apni Bahattar Ke Naam Kar Ke Chale
+  Jo Zist Apni Bahattar Ke Naam Kar Ke Chale
 
   6
   Wo Kaise Bhuleṅge Jo Lag Gaye Judai Ke Daagh
-  Jalaye Qabr Pe Ro Ro Ke Aansuon Ke Charagh
+  Jalaye Qabr Pe Ro Ro Ke Aansuoṅ Ke Charagh
   Diloṅ Ke Sabr Ki Khatir Ye Kaam Kar Ke Chale
 
   7
-  Kaha Tha Ghar Ko Lutaunga Deen Bachaunga
-  Maiṅ Apne Sar Ko Kataunga Deen Bachaunga
+  Kaha Tha Ghar Ko Lutaunga Din Bachaunga
+  Maiṅ Apne Sar Ko Kataunga Din Bachaunga
   Yehi Husain Alh Aslam Kar Ke Chale
 
   8

@@ -1,6 +1,6 @@
 ---
 title: "دُکھتے ہیں میرے کان"
-alternateTitle: "Dukhte Hain Mere Kaan"
+alternateTitle: "Dukhte Haiṅ Mere Kaan"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,30 +11,30 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sajjad zindaan ke andheron se mujh ko tu bacha le
-  Bhai mujhe aaghosh-e-imamat mein chhupa le
-  Dukhte hain mere kaan sula do mujhe bhaiya sula do mujhe bhaiya
-  Tum maan ki tarha lori suna do mujhe bhaiya
+  Sajjad zindaaṅ ke andheroṅ se mujh ko tu bacha le
+  Bhai mujhe aaghosh-e-imamat meiṅ chhupa le
+  Dukhte haiṅ mere kaan sula do mujhe bhaiya sula do mujhe bhaiya
+  Tum maaṅ ki tarha lori suna do mujhe bhaiya
 
   1
   Lagta hai andhere se dar teri Sakina ko
   Tum sar mere baba ka dila do mujhe bhaiya
 
   2
-  Dekha hai in aankhon ne baba ka gala katte
+  Dekha hai in aankhoṅ ne baba ka gala katte
   Bhulungi bhala kaise bata do mujhe bhaiya
 
   3
-  Main saat Muharram se pyasi hun mere bhaiya
-  Do boond ho gar pani pila do mujhe bhaiya
+  Maiṅ saat Muharram se pyasi huṅ mere bhaiya
+  Do bund ho gar pani pila do mujhe bhaiya
 
   4
-  Bhaiya mere kaanon se ab tak hai lahu jari
+  Bhaiya mere kaanoṅ se ab tak hai lahu jari
   Tum aa ke zara marham laga do mujhe bhaiya
 
   5
   Karta hai sitam zalim sone bhi nahi deta
-  Aaghosh-e-imamat mein chhupa do mujhe bhaiya
+  Aaghosh-e-imamat meiṅ chhupa do mujhe bhaiya
 
   6
   Sajjad se Sakina ro ke ye Fazal boli

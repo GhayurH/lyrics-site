@@ -14,52 +14,52 @@ romanLyrics: |-
   Amma nana ki nishani Ali Akbar na raha
   Reh gaya dard-e-kamar haye baradar na raha
   Ab khabar aap ne li ghar ki ke jab ghar na raha
-  Aur ab dam-e-zibh ye pure mere armaan karna
-  Arsh ke niche na baalon ko pareshan karna
+  Aur ab dam-e-zibh ye pure mere armaaṅ karna
+  Arsh ke niche na baaloṅ ko pareshaṅ karna
   Jao ke na ab der karo dekho na amma
-  Ab laal tera zin pe hai aur na zamin par
+  Ab laal tera zin pe hai aur na zamiṅ par
 
   1
-  Aap aayi hain amma main salaami ko na utha
-  Hai dard kaleje mein jo uthne nahi deta
-  Hasrat thi tere pehlu mein dam mera nikalta
-  Main chain se so jata teri god mein maadar
+  Aap aayi haiṅ amma maiṅ salaami ko na utha
+  Hai dard kaleje meiṅ jo uthne nahi deta
+  Hasrat thi tere pehlu meiṅ dam mera nikalta
+  Maiṅ chain se so jata teri god meiṅ maadar
 
   2
-  Kuch der mein neze pe rakha hoga mera sar
+  Kuch der meiṅ neze pe rakha hoga mera sar
   Na dekhna us waqt mujhe maadar-e-muztar
   Chal jaega us waqt tere qalb pe khanjar
   Ghore abhi daurenge meri laash ke upar
 
   3
-  Main subh se ta asr uthata raha laashe
-  Daaman mein chune Qasim-e-naushah ke tukre
+  Maiṅ subh se ta asr uthata raha laashe
+  Daaman meiṅ chune Qasim-e-naushah ke tukre
   Lipta Ali Akbar ka kaleja tha sina se
   Amma mere chehre pe hai khun-e-Ali Asghar
 
   4
-  Kis haal mein amma hai teri god ka paala
-  Maqtal mein mera kho gaya har ek ujala
+  Kis haal meiṅ amma hai teri god ka paala
+  Maqtal meiṅ mera kho gaya har ek ujala
   Hai kaun Sakina ko meri puchhne wala
   Soegi mere sine pe kaise meri dukhtar
 
   5
-  Dekho to qayamat hai bapa ahl-e-haram mein
-  Khaime se nikal aayi hai Zainab mere gham mein
-  Ab aane ko hain bibiyaan baahar koi dam mein
-  Samjhao unhein amma rahein khaime ke andar
+  Dekho to qayamat hai bapa ahl-e-haram meiṅ
+  Khaime se nikal aayi hai Zainab mere gham meiṅ
+  Ab aane ko haiṅ bibiyaaṅ baahar koi dam meiṅ
+  Samjhao unheiṅ amma raheiṅ khaime ke andar
 
   6
   Lo saans ukharne lagi dil dub raha hai
-  Nazron mein meri Zainab-e-muztar ki rida hai
-  Abid se thi ummid so wo ghash mein para hai
+  Nazroṅ meiṅ meri Zainab-e-muztar ki rida hai
+  Abid se thi ummid so wo ghash meiṅ para hai
   Kya hoga mere baad Sakina ka muqaddar
 
   7
-  Ae Sarwar o Rehan bayaan kaise ho manzar
+  Ae Sarwar o Rehan bayaaṅ kaise ho manzar
   Sheh kehte the amma ye kara waqt hai mujh par
-  Kis tarha kaleje se lagun aap ke uth kar
-  Chumunga qadam aap ke ab main lab-e-kausar
+  Kis tarha kaleje se laguṅ aap ke uth kar
+  Chumunga qadam aap ke ab maiṅ lab-e-kausar
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: tajpoints:b76afda0e0a2ee837261
 # source_url: https://tajpoints.com/2022/12/jaao-key-na-ab-daer-karo-nadeem-sarwar.html

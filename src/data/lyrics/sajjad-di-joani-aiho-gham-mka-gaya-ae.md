@@ -10,7 +10,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Sajjad di jawani, iyo gham muka gaya aey
-  Rulyan nay wich bazaraan, kyun aayatan qurani, iyo gham muka gaya aey
+  Rulyan nay wich bazaraan, kiun aayatan qurani, iyo gham muka gaya aey
 
   1
   1. Maa Aon di pukaray, day way cha koi chadar

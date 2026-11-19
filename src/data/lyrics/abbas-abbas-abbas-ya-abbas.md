@@ -12,40 +12,40 @@ romanLyrics: |-
   Abbas Abbas Abbas, ya Abbas
 
   1
-  1) Beta hai tu Ali Ka Zahra ki tu dua hay
-  Shabbir tera aaqa Ummul Baneen maa hay
-  Haar surat-ochalan may Haider say na juda hay
-  Ta hashar tuj say qayam duniya main bas wafa hay
+  1) Beta hai tu Ali Ka Zahra ki tu dua hai
+  Shabbir tera aaqa Ummul Baneen maa hai
+  Haar surat-ochalan may Haider se na juda hai
+  Ta hashar tuj se qayam duniya maiṅ bas wafa hai
 
   2
-  2) Barchi jighar pay khaaye Akbar bhi sow rahay hay
-  Tapati zameen pay Qasim kay tukaray chun rahay hay
-  Pakaray qamar ko apani maqtal main dekha tay hay
-  Tanha main rehay gaya hun roro kay keh rahay hay
+  2) Barchi jighar pay khaaye Akbar bhi sow rahe hay
+  Tapati zamiṅ pay Qasim ke tukare chun rahe hay
+  Pakare qamar ko apani maqtal maiṅ dekha tay hay
+  Tanha maiṅ rehe gaya huṅ roro ke keh rahe hay
 
   3
-  3) Jaltay huway hai khaimay lutti huwi ridaaye
-  Sehemeay huway hai baachay Zainab kisay bulaaye
-  Abbas tum kahaan ho Abbas tum kahaan ho
-  Roro kay dil ko thaamay dayti hai yah sadaaye
+  3) Jalte huwe hai khaime lutti huwi ridaaye
+  Sehemee huwe hai baache Zainab kise bulaaye
+  Abbas tum kahaaṅ ho Abbas tum kahaaṅ ho
+  Roro ke dil ko thaame dayti hai yah sadaaye
 
   4
-  4) Shaam-e-ghariban main jis ka kurta jalgaya hay
-  Kaano sai baaliya bi haaye Shimaar legaya hay
-  Is bebasi seh Mola bacchi koyi na tarsay
-  Farsh-e-Aza pay rokar har dil yeh kehraha hay
+  4) Shaam-e-gharibaṅ maiṅ jis ka kurta jalgaya hai
+  Kaano sai baaliya bi haaye Shimaar legaya hai
+  Is bebasi seh Mola bacchi koyi na tarse
+  Farsh-e-Aza pay rokar har dil yeh kehraha hai
 
   5
-  5) Ay Fatima kay pyaaray Haider kay yeh dulaaray
-  Zainab kay maahaparay Hasshim kay ghaar kay taarey
+  5) Ae Fatima ke pyaare Haider ke yeh dulaare
+  Zainab ke maahaparay Hasshim ke ghaar ke taare
   Ek baar humko aakaa Karbobala bulaawo
   Dil ki muraad sabh ki aakar tuhai sunaaye
 
   6
-  6) Taqdeer kay sataye teray dhaar pay saar jhukaaye
-  Ashko ki ilteja hum Ghazi tujhay sunaaye
-  Beemar-e-saaribaan kay zakhmo ka waasta hai
-  Jitnay bhi khasta dil hai Mola shifa woh paaye
+  6) Taqdir ke sataye tere dhaar pay saar jhukaaye
+  Ashko ki ilteja hum Ghazi tujhe sunaaye
+  Bimar-e-saaribaaṅ ke zakhmo ka waasta hai
+  Jitne bhi khasta dil hai Mola shifa woh paaye
 # source_id: ziyaraat:473a12e8d873d66408a9
 # source_url: https://www.ziyaraat.net/api/noha/243
 # raw_sha256: 86a3e51a6450c2fa18b40a5d752f471338acf8e49a6c53939bb354ed11cbf2f1

@@ -31,7 +31,7 @@ romanLyrics: |-
   Ao Zainab e Hazeen dikhain tum ko haal e zaar
   Zakhm e tan hazar hain jigar alam se hay figar
   Jawan laal mar gaya kaleja barchi se chida
-  Kalega barchi se chida Hussain dekhta raha
+  Kalega barchi se chida Husain dekhta raha
   Al firaq al wida Al firaq al wida
 
   4
@@ -51,13 +51,13 @@ romanLyrics: |-
   6
   As salam aey Fatima Rabab Zainab e Hazeen
   Salam Fizza Lila aur Sakina jaan e Shah e deen
-  Hussain marnay ko chala shaheed kunba ho gaya
+  Husain marnay ko chala shaheed kunba ho gaya
   Shaheed kunba ho gay ajeeb waqt aa gaya
   Al firaq al wida Al firaq al wida
 
   7
   Alaika minni as salam aey dukhtar e Ali Wali
-  Salam sakinan e khaima e Hussain bin Ali
+  Salam sakinan e khaima e Husain bin Ali
   Ghareeb o bedayar ka salam dilfigar ka
   Salam dilfigar ka qabool bibyon karo
   Al firaq al wida Al firaq al wida
@@ -72,19 +72,19 @@ romanLyrics: |-
   9
   Kharra tha sar jhukaye choor zakhmo se Nabi ka laal
   Ayan tha chehron se haram se bekasi gham o malal
-  Kaha Hussain ne behan karo na is tarha mehan
+  Kaha Husain ne behan karo na is tarha mehan
   KAro na is tarha mehan tumhe to karna hay safar
   Al firaq al wida Al firaq al wida
 
   10
-  Hussain ban ke karna hay yahan se Shaam ka safar
+  Husain ban ke karna hay yahan se Shaam ka safar
   Chalay ga sath sath naizay par bahan hamara sar
   Bandhay gi bazo may rasan shakista ho ga apirahan
   Shakista ho ga pairahan karin gay ye shaqi jafa
   Al firaq al wida Al firaq al wida
 
   11
-  Anees rukhsat e Hussain kis tarha se ho bayan
+  Anees rukhsat e Husain kis tarha se ho bayan
   Bandhi hui theen bibyon ki soz e gham sehichkiya
   Haram bilak ke rotay thay jigar figar hotay thay
   Jigar figar hotay thay buland hoti thi sada

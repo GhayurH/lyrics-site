@@ -18,7 +18,7 @@ romanLyrics: |-
   Sada haq koi devay na devay, tu apna khums ada kar
 
   2
-  2) Ay khaliq vaikh Hussain ha may, wada har haal nibaa sakdah,
+  2) Ay khaliq vaikh Husain ha may, wada har haal nibaa sakdah,
   Maslain day sona bachray da, may tahtul hanak wala sakda,
   Puyu putar di laash kiven chainda, karbal to app nigah kar
 

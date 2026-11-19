@@ -1,6 +1,6 @@
 ---
 title: "زنجیر میں جکڑے ہوئے بیمار کا ماتم"
-alternateTitle: "Zanjir Mein Jakre"
+alternateTitle: "Zanjir Meiṅ Jakre"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

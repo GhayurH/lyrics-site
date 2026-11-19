@@ -14,16 +14,16 @@ romanLyrics: |-
 
   1
   Abbas alam tera jo log uthayenge
-  Zahra ki duaaon ke saaye mein wo aayenge
-  Tehreer hai darya par ghazi ki wafadari
+  Zahra ki duaaoṅ ke saaye meiṅ wo aayenge
+  Tehrir hai darya par ghazi ki wafadari
   Shabbir tere munkir kya usko mitayenge
 
   2
-  Hai tujhse yehi waada shabbir ki majlis mein
-  Abbas tere gham mein hum khoon bahayenge
+  Hai tujhse yehi waada shabbir ki majlis meiṅ
+  Abbas tere gham meiṅ hum khuṅ bahayenge
 
   3
-  Baazu jo qalam ho kar darya pe giray tere
+  Baazu jo qalam ho kar darya pe gire tere
   Hum hashr talak inka ab sog manayenge
 
   4
@@ -35,8 +35,8 @@ romanLyrics: |-
   Pani pe sakina ki hum nazr dilayenge
 
   6
-  Rehaan bapa hogi majlis jo qayamat mein
-  Nauha ye hasan sadiq jannat mein sunayenge
+  Rehaan bapa hogi majlis jo qayamat meiṅ
+  Nauha ye hasan sadiq jannat meiṅ sunayenge
 # source_id: nohayonline:dd8d4178131d7433c4af
 # source_url: https://www.nohayonline.com/details_content.php?id=2954
 # raw_sha256: 10b156db979aaae24c299d88c17cc18db99b38432c97300d7557baf7c7d7d62e

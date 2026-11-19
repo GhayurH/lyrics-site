@@ -12,61 +12,61 @@ published: false
 romanLyrics: |-
   1
   Kardo karam rakhlo bharam
-  Mai ban ke sawali aap ke dar par aaya hoon
+  Mai ban ke sawali aap ke dar par aaya huṅ
   Bin aap ke mera nahi koi sahara ho karam khudara
-  Daaman phailaye baitha hoon kab se
+  Daaman phailaye baitha huṅ kab se
   Nahi lautunga jab tak meri mushkil na ho aasan
-  Allah mohamed ali fatema hassan hussain
-  Aap ke asghar ke jhoole se lipta hoon
-  Be-auladon ke haq mein ye kehta hoon
-  Jo bhi jhoole se kurta le kar jaaye
+  Allah mohamed ali fatema Hasan Husain
+  Aap ke asghar ke jhule se lipta huṅ
+  beauladon ke haq meiṅ ye kehta huṅ
+  Jo bhi jhule se kurta le kar jaaye
   Us bibi ki khaali jholi hai wo bhar jaaye
-  Poori ye dua ho aulaad ataa ho
-  Be-auladon ko aap ke sadqe mil jaye santaan
+  Puri ye dua ho aulaad ataa ho
+  beauladon ko aap ke sadqe mil jaye santaan
   Allah mohamed ali fatema...
-  Jald shifa mil jaaye sab bemaaron ko
-  Maaon se milwadein unke pyaron ko
-  Jo maqrooz hai karz ada ho ab unka
-  Rahe salamat maaon behno ka parda
+  Jald shifa mil jaaye sab bemaaroṅ ko
+  Maaoṅ se milwadeiṅ unke pyaroṅ ko
+  Jo maqruz hai karz ada ho ab unka
+  Rahe salamat maaoṅ behno ka parda
   Ghame sheh ke siwae gham koi na aaye
-  Karta hoon dua mehfooz rahe har maulai ki jaan
+  Karta huṅ dua mehfuz rahe har maulai ki jaan
   Allah mohamed ali fatema...
   Yaad aati hai jab karbala dil rota hai mera
   Mujhe dekhna hai har baras abbas ka rauza
-  Jaanta hoon muflis hoon ghar mein ghurbat hai
+  Jaanta huṅ muflis huṅ ghar meiṅ ghurbat hai
   Karbobala jaane ki phir bhi hasrat hai
-  Door mai ab maula se reh na paaunga
-  Unki yaad mein ro ro kar mar jaaunga
-  Meri aas ko bhejein abbas ko bhejein
+  Dur mai ab maula se reh na paaunga
+  Unki yaad meiṅ ro ro kar mar jaaunga
+  Meri aas ko bhejeiṅ abbas ko bhejeiṅ
   Saqqa-e-sakina ki ghurbat par hona hai qurban
   Allah mohamed ali fatema...
-  Dekhta hoon apne bachon ka jab chehra
+  Dekhta huṅ apne bachoṅ ka jab chehra
   Hota hai ehsaas ghar na hone ka
-  Waasta deta hoon mai jalte qaimon ka
+  Waasta deta huṅ mai jalte qaimon ka
   Ho jaaye is saal mera bhi ghar apna
-  Jahan alam sajaaun majlis karwaun
+  Jahaṅ alam sajaauṅ majlis karwauṅ
   Meri hasrat hai ke aap bane ek din mere mehman
   Allah mohamed ali fatema...
-  Maula hussain ko akbar ka pursa de kar
+  Maula Husain ko akbar ka pursa de kar
   Hum ne shabe jumma ye dua maangi ro kar
   Chod gaye hai hum ko jitne bhi pyare
-  Rehmatein naazil kijiye unki qabron pe
+  Rehmateiṅ naazil kijiye unki qabroṅ pe
   Mushkil na ho raste barzakh ke safar se
-  Mere marhumeen ki mehshar tak har manzil ho aasan
+  Mere marhumin ki mehshar tak har manzil ho aasan
   Allah mohamed ali fatema...
   Maula ne to pyaar sikhaya hai hum ko
   Apna chaahne waala banaya hai hum ko
   Yaad ye rakhna waqt koi bhi aa jaaye
-  Apna hussaini rishta toot nahi paaye
+  Apna hussaini rishta tut nahi paaye
   Parcham lehrao dunya ko batao
   Ye wird hamesha saath karenge hind aur pakistan
   Allah mohamed ali fatema...
-  Ghaibat mein hai maula kitne saalon se
+  Ghaibat meiṅ hai maula kitne saaloṅ se
   Waakif hai phir bhi wo hamare haalon se
   Zinda rahe ya hum mar jaaye ya zahra
-  Dekhna hai har haal mein maula ka chehra
-  Wo khud aa jaayein ya hamein bulayein
-  Wo saamne baith ke bole sunao phir se raza zeeshan
+  Dekhna hai har haal meiṅ maula ka chehra
+  Wo khud aa jaayeiṅ ya hameiṅ bulayeiṅ
+  Wo saamne baith ke bole sunao phir se raza zishan
   Allah mohamed ali fatema...
 # source_id: nohayonline:2ac4a2d17986c6e39f24
 # source_url: https://www.nohayonline.com/details_content.php?id=2797

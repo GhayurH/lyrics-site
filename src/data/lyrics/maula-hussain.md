@@ -1,6 +1,6 @@
 ---
 title: "حسین میرا ہے کہتے ہیں زمانے والے"
-alternateTitle: "Maula Hussain"
+alternateTitle: "Maula Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hussain mera hai kehte hai zamane waale
-  Ke baadshahi har ek dil pe hai ab tera hussain
-  Nahi hai deen o mazahib ka yahn koi bandish
-  Ye tera ishq hi sar char ke bolta hai hussain
-  Hussain se ye deen hai
-  Wo deen jo azeem hai
-  Khaaliq bhi kya kareem hai
+  Husain mera hai kehte hai zamane waale
+  Ke baadshahi har ek dil pe hai ab tera Husain
+  Nahi hai din o mazahib ka yahṅ koi bandish
+  Ye tera ishq hi sar char ke bolta hai Husain
+  Husain se ye din hai
+  Wo din jo azim hai
+  Khaaliq bhi kya karim hai
   Banaya usko is tarha
-  Baatil se jaake wo lada
-  Yazeediyat ke chehre se naqaab ko ulat diya
-  Hussain uska naam hai jo waaris e quran hai
-  Rasool e paak ne kaha mai is se hoo wo mujhse hai
-  Khuda ne bad ke di sada zibhe azeem tu bana
+  Baatil se jaake wo lara
+  Yazidiyat ke chehre se naqaab ko ulat diya
+  Husain uska naam hai jo waaris e quran hai
+  Rasul e paak ne kaha mai is se hu wo mujhse hai
+  Khuda ne bad ke di sada zibhe azim tu bana
   Ay nafse mutmaina tera intezar mujhko hai
   Jisne raza e haq ke liye jaan ko qurban ki
-  Deen e payambari ke liye jaan ko qurban ki
-  Jis ne azeez aqroba ko deen pe qurban ki
-  Insan pe har aan tu ehsaan bana hai
-  Maula hussain maula hussain
+  Din e payambari ke liye jaan ko qurban ki
+  Jis ne aziz aqroba ko din pe qurban ki
+  Insan pe har aan tu ehsaaṅ bana hai
+  Maula Husain maula Husain
   Har ek azadaar ka pehchaan bana hai
-  Maula hussain maula hussain
-  Uska lahoo to zarb hai karbal ki zameen mein
-  Na sochna wo dab gaya karbal ki zameen mein
+  Maula Husain maula Husain
+  Uska lahu to zarb hai karbal ki zamiṅ meiṅ
+  Na sochna wo dab gaya karbal ki zamiṅ meiṅ
   Insaniyat ko jazba e emaan diya hai
-  Maula hussain maula hussain
+  Maula Husain maula Husain
   Insan pe har aan...
-  Kaaba bacha quran bacha deen bhi bacha
-  Lekin hussain ka bhara ghar hogaya tabaah
+  Kaaba bacha quraṅ bacha din bhi bacha
+  Lekin Husain ka bhara ghar hogaya tabaah
   Hai fakhr mohamed ko wo nawasa mera hai
-  Maula hussain maula hussain
+  Maula Husain maula Husain
   Insan pe har aan...
   Hai fikhr na gham jaan lutaane ka zara bhi
-  Kya josh hai himmat hai kasam rab e jahan ki
-  Raahe khuda mein shaukhe shahadat sikhaya hai
-  Maula hussain maula hussain
+  Kya josh hai himmat hai kasam rab e jahaṅ ki
+  Raahe khuda meiṅ shaukhe shahadat sikhaya hai
+  Maula Husain maula Husain
   Insan pe har aan...
   Qasim kabhi akbar kabhi abbas sa bhai
-  Ran mein shaheed hote thay har ek sipaahi
-  Apne zeef kaandhe pe laasha uthaya hai
-  Maula hussain maula hussain
+  Ran meiṅ shahid hote the har ek sipaahi
+  Apne zif kaandhe pe laasha uthaya hai
+  Maula Husain maula Husain
   Insan pe har aan...
-  Kaate pade hai pyaas ki shiddat se zaban mein
-  Aur garm hawa garm zameen dashte bala mein
+  Kaate pare hai pyaas ki shiddat se zaban meiṅ
+  Aur garm hawa garm zamiṅ dashte bala meiṅ
   Aasan na tha aisa jihad is ne kiya hai
-  Maula hussain maula hussain
+  Maula Husain maula Husain
   Insan pe har aan...
-  Zehra ki duaon ka talabgaar hai aazam
-  Ahsan padho nauha karo sar peet ke matam
-  Shauke ghame hussain to naslo ka pata hai
-  Maula hussain maula hussain
+  Zehra ki duaoṅ ka talabgaar hai aazam
+  Ahsan parho nauha karo sar pit ke matam
+  Shauke ghame Husain to naslo ka pata hai
+  Maula Husain maula Husain
   Insan pe har aan...
 # source_id: nohayonline:c12bb8b4a39584b19633
 # source_url: https://www.nohayonline.com/details_content.php?id=1481

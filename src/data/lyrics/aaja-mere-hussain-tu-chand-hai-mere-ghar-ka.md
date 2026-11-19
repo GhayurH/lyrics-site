@@ -1,6 +1,6 @@
 ---
 title: "آجا میرے حسین"
-alternateTitle: "Aaja Mere Hussain"
+alternateTitle: "Aaja Mere Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,78 +10,78 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aaja mere hussain
+  Aaja mere Husain
 
   1
   Tu chand hai mere ghar ka
-  Tu phool hai is aangan ka
-  Tu is dil ki hai dhadkan
-  Tu noor hai in aankhon ka
-  Teri yaad mein tadpun din bhar
-  Jaagun mai saari rayn
+  Tu phul hai is aangan ka
+  Tu is dil ki hai dharkan
+  Tu nur hai in aankhoṅ ka
+  Teri yaad meiṅ tarpuṅ din bhar
+  Jaaguṅ mai saari rayn
 
   2
-  Kya chakki pees ke beta
+  Kya chakki pis ke beta
   Is din ke liye tha paala
-  Khanjar hai galay par pyase
-  Manzar ye dehun kaise
+  Khanjar hai gale par pyase
+  Manzar ye dehuṅ kaise
   Ahmed ka nawasa hai
-  Ye beta hai mera hussain
+  Ye beta hai mera Husain
 
   3
-  Ghar baar luta kar dekhun
-  Ye haal bhi dilbar dekhun
-  Tu tanha khada hai ban mein
-  Ujdi hai kook is ban mein
+  Ghar baar luta kar dekhuṅ
+  Ye haal bhi dilbar dekhuṅ
+  Tu tanha khara hai ban meiṅ
+  Ujri hai kook is ban meiṅ
   Chaale hai mere is dil par
-  Ashkon se tar hai nayn
+  Ashkoṅ se tar hai nayn
 
   4
-  Khoon roti hai ye dukhiya
+  Khun roti hai ye dukhiya
   Bebas hai kitni mamta
   Mehshar ka hai ye manzar
-  Sajde mein sar aur khanjar
+  Sajde meiṅ sar aur khanjar
   Lillaah rehm tu karna
   Kaunain huwe bechain
 
   5
-  Be-aab na zibha kar tu
+  beaab na zibha kar tu
   Allah se kuch to darr tu
-  Kya soch ke tu badta hai
+  Kya soch ke tu barta hai
   Zehra ka ye fidya hai
-  Kyun arsh ko tu dhaata hai
+  Kiuṅ arsh ko tu dhaata hai
   Khudrat ke hai ye bain
 
   6
   Dil par hai udaasi chaayi
-  Baalon se maqtal jhaadi
-  Beenayi gayi hai maa ki
-  Tooti hai kamar bhi meri
+  Baaloṅ se maqtal jhaari
+  Binayi gayi hai maa ki
+  Tuti hai kamar bhi meri
   Ye din bhi kaisa aaya
-  Haider ke noore ain
+  Haider ke nure ain
 
   7
   Khanjar ko chalta dekha
-  Pyase ko tadapta dekha
-  Baakhi hai no koi ghar mein
-  Meri dunya luti pal bhar mein
-  Beemar bacha kunbe mein
-  Thay maa ke shor o shain
+  Pyase ko tarapta dekha
+  Baakhi hai no koi ghar meiṅ
+  Meri dunya luti pal bhar meiṅ
+  Bimar bacha kunbe meiṅ
+  The maa ke shor o shain
 
   8
-  Be-aas tadapti khaahar
+  beaas tarapti khaahar
   Nikli hai ghar se baahar
-  Maqtal mein aayi zainab
+  Maqtal meiṅ aayi zainab
   Kya uspe hai ye musibat
-  Bichde hai ran mein us se
+  Bichre hai ran meiṅ us se
   Sardare jina hasnain
 
   9
-  Saabir hai jahan mein iqtaa
+  Saabir hai jahaṅ meiṅ iqtaa
   Iqbal hai jiska banda
   Qurbani ki ab khaatir
-  Zehra hai ran mein haazir
-  Aa godh mein meri aaja
+  Zehra hai ran meiṅ haazir
+  Aa godh meiṅ meri aaja
   Maa kabse hai bechain
 # source_id: nohayonline:4ee0b7e2bb54d51f2e3d
 # source_url: https://www.nohayonline.com/details_content.php?id=928

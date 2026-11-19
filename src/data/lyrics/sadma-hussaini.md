@@ -15,7 +15,7 @@ romanLyrics: |-
   Shukria hyder e karrar
   Aap ne mujko banaya
   Apne bete ka azadaar
-  Mam misli mai azadare hussain
+  Mam misli mai azadare Husain
   Risalat e man nabavi
   Wilayat e man alavi
   Ismat e man fatami
@@ -24,7 +24,7 @@ romanLyrics: |-
   Ghairat e man abbasi
   Ye jo sharaf mujko mila
   Aur kise rab ne diya
-  Goondha gaya mera khameer
+  Gundha gaya mera khamir
   Usme mili khaak e shifa
   Unse mujhe hai khalk kiya
   Aab e baqa khaak e shifa
@@ -39,51 +39,51 @@ romanLyrics: |-
   Ashk e aza karbobala
   Risalat e man...
   Seena hai kaaba e aza
-  Kaabe ka maulood ali
+  Kaabe ka maulud ali
   Rab ne jo meesakh liya
-  Dil mein tha maujood ali
+  Dil meiṅ tha maujud ali
   Aur karam mujh par ye hua
-  Dil jo diya us mein rakha
+  Dil jo diya us meiṅ rakha
   Ishq e khuda sheh ki aza
   Risalat e man...
-  Pehle wahan wird kiya
-  Sallu alaihe ya hussain
+  Pehle wahaṅ wird kiya
+  Sallu alaihe ya Husain
   Ab ye wazeefa hai mera
-  Sallu alaihe ya hussain
-  Kaam hai ye dunya mein mera
-  Nauha likha nauha padha
+  Sallu alaihe ya Husain
+  Kaam hai ye dunya meiṅ mera
+  Nauha likha nauha parha
   Nauha suna kehta raha
   Risalat e man...
   Ishq e ali mujko mila
   Aur ghame karbobala
   Jab bhi uthe mere qadam
   Pahuncha sare farsh e aza
-  Qaidi koi yaadon mein raha
-  Tauq e jafa mein tha gala
+  Qaidi koi yaadoṅ meiṅ raha
+  Tauq e jafa meiṅ tha gala
   Kehta raha zainul leba
   Risalat e man...
   Asr ka hangaam e sitam
-  Bhool na paunga kabhi
-  Rayt ke teele pe khadi
+  Bhul na paunga kabhi
+  Rayt ke tile pe khari
   Ek bahan roti rahi
   Dekhi nahi phir aisi jafa
   Khushk gala kat'ta raha
-  Khoon baha kehta hua
+  Khuṅ baha kehta hua
   Risalat e man...
   Baad e shah e karbobala
   Ahle haram qaidi bane
   Shaam talak aise gaye
-  Ek rasan baara galay
+  Ek rasan baara gale
   Binte ali thi mehve buka
-  Lehje mein tha sher e khuda
+  Lehje meiṅ tha sher e khuda
   Mehve buka khutba diya
   Risalat e man...
   Hoti hai maula ki ata
   Likhta hai mazhar ka qalam
   Mujhpe bhi irfan e aza
-  Hai ye shah e deen ka karam
+  Hai ye shah e diṅ ka karam
   Nade ali jo mujko mila
-  Shukr e khuda khoon mera
+  Shukr e khuda khuṅ mera
   Meri tarha kehne laga
   Risalat e man...
 # source_id: nohayonline:c90dbfd302972fe98612

@@ -12,46 +12,46 @@ published: false
 romanLyrics: |-
   1
   Jo dard fatema ne ali se chupaye hai
-  Tanhaai may kaneez ko apni sunaye hai
-  Batool ro padi fizza ko ye bataate huye
-  Hassan ne dekha hai mujhko tamache khaate huye
-  Batool ro padi fizza ko ye bataate huye
+  Tanhaai may kaniz ko apni sunaye hai
+  Batul ro pari fizza ko ye bataate huye
+  Hasan ne dekha hai mujhko tamache khaate huye
+  Batul ro pari fizza ko ye bataate huye
   Na jaane kya kiya zaalim ne fatema pe sitam
-  Zaeef ho gayi beti rasool ki ek dam
-  Sanad ke tukdon ko darbar may uthaate huye
-  Batool ro padi...
-  Mai aaj shehr e madina ko hi mita doongi
-  Agar ali ko na choda tu bad'dua doongi
-  Kaha batool ne sar se rida hataate huye
-  Batool ro padi...
-  Jo mujhpe guzri hai mujhse na ho sakegi bayan
-  Wo dekho ab bhi hai dewaar par lahoo ke nishan
-  Mai dekhti hoo inhe roz aate jaate huye
-  Batool ro padi...
-  Bataya sab ko jo mafhoom hai wilayat ka
-  Labon pe shikwa na binte rasool ki aaya
+  Zaif ho gayi beti rasul ki ek dam
+  Sanad ke tukroṅ ko darbar may uthaate huye
+  Batul ro pari...
+  Mai aaj shehr e madina ko hi mita dungi
+  Agar ali ko na chora tu bad'dua dungi
+  Kaha batul ne sar se rida hataate huye
+  Batul ro pari...
+  Jo mujhpe guzri hai mujhse na ho sakegi bayaṅ
+  Wo dekho ab bhi hai dewaar par lahu ke nishaṅ
+  Mai dekhti hu inhe roz aate jaate huye
+  Batul ro pari...
+  Bataya sab ko jo mafhum hai wilayat ka
+  Laboṅ pe shikwa na binte rasul ki aaya
   Ali ali hi kiya taaziyane khaate huye
-  Batool ro padi...
+  Batul ro pari...
   Woh mujhse chup ke meri bekasi pe rota hai
   Khayaal rakhna ye nazuk mizaaj beta hai
   Mere janaze se shabbir ko hataate huye
-  Batool ro padi...
-  Abu haasan ko tha patke se maine thaama huwa
-  Magar layeen ne durre se yun mujhe maara
-  Zameen pe gar gayi fizza mai ladkhadate huye
-  Batool ro padi...
+  Batul ro pari...
+  Abu haasan ko tha patke se maiṅ ne thaama huwa
+  Magar layin ne durre se yuṅ mujhe maara
+  Zamiṅ pe gar gayi fizza mai larkhadate huye
+  Batul ro pari...
   Ba roze hashr mai mehdi ko yeh bataungi
-  Tamaam phasliyan tooti hai is liye meri
-  Layeen ne maara tha thokar se aate jaate huye
-  Batool ro padi...
+  Tamaam phasliyaṅ tuti hai is liye meri
+  Layiṅ ne maara tha thokar se aate jaate huye
+  Batul ro pari...
   Mera fareeza nibhayegi laadli meri
-  Ghirayga sholon may jis waqt ek aur ali
-  Chalegi aag pe zainab usay bachate huye
-  Batool ro padi...
+  Ghirayga sholoṅ may jis waqt ek aur ali
+  Chalegi aag pe zainab use bachate huye
+  Batul ro pari...
   Padar ki qabr pe akbar wo ro ke kehti thi
   Hifaazat aap ne mujhko ali ki saunpi thi
-  Tamache maine hai khaaye unhe bachate huye
-  Batool ro padi...
+  Tamache maiṅ ne hai khaaye unhe bachate huye
+  Batul ro pari...
 # source_id: nohayonline:ef931b854a882d155586
 # source_url: https://www.nohayonline.com/details_content.php?id=1016
 # raw_sha256: 471686f74fbfa0892d252c979c5c70f50313639464bb8aa41f18ed6dcc86dd3f

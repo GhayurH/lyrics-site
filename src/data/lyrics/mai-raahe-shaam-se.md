@@ -1,6 +1,6 @@
 ---
 title: "میں راہِ شام سے گزری ہوں بے ردا بابا"
-alternateTitle: "Main Raah-e-Shaam Se"
+alternateTitle: "Maiṅ Raah-e-Shaam Se"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

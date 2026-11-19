@@ -1,6 +1,6 @@
 ---
 title: "حسین راضی رہے فاطمہ رہے راضی"
-alternateTitle: "Hussain Raazi Ho"
+alternateTitle: "Husain Raazi Ho"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hussain raazi rahe fatema rahe raazi
-  Chalo hussain ki mil kar kare azadari
-  Hussain ahle aza ka khuloos dekhte hai
-  Ghame hussain mein hargiz na ho riyakari
-  Yazeediyat se ho nafrat amal hussaini ho
-  Yehi hussain se dar asl hai wafadari
-  Chalo sabeel lagayein hussain raazi ho
-  Sabhi ko pani pilayein hussain raazi ho
-  Karo hussain ka matam bichao farshe aza
-  Tumhare ghar mein bhi aayegi fatema zehra
-  Aza ka farsh bichayein hussain raazi ho
-  Sabhi ko pani pilayein hussain raazi ho
-  Chalo sabeel lagayein...
+  Husain raazi rahe fatema rahe raazi
+  Chalo Husain ki mil kar kare azadari
+  Husain ahle aza ka khulus dekhte hai
+  Ghame Husain meiṅ hargiz na ho riyakari
+  Yazidiyat se ho nafrat amal hussaini ho
+  Yehi Husain se dar asl hai wafadari
+  Chalo sabil lagayeiṅ Husain raazi ho
+  Sabhi ko pani pilayeiṅ Husain raazi ho
+  Karo Husain ka matam bichao farshe aza
+  Tumhare ghar meiṅ bhi aayegi fatema zehra
+  Aza ka farsh bichayeiṅ Husain raazi ho
+  Sabhi ko pani pilayeiṅ Husain raazi ho
+  Chalo sabil lagayein...
   Pilao pani jo dushman bhi maang le pani
-  Kabhi na bhoolna seerat ghareeb e zahra ki
-  Dilon se bughz mitayein hussain raazi ho
-  Sabhi ko pani pilayein hussain raazi ho
-  Chalo sabeel lagayein...
-  Duayein fatema dengi ali dua denge
+  Kabhi na bhulna sirat gharib e zahra ki
+  Diloṅ se bughz mitayeiṅ Husain raazi ho
+  Sabhi ko pani pilayeiṅ Husain raazi ho
+  Chalo sabil lagayein...
+  Duayeiṅ fatema dengi ali dua denge
   Jo apne bacho ko saqqai hum sikha denge
-  Alam jari ka uthayein hussain raazi ho
-  Sabhi ko pani pilayein hussain raazi ho
-  Chalo sabeel lagayein...
-  Banao ghar mein bhi chota sa ek azakhana
-  Duayein dengi tumhe dil se zainab e kubra
-  Imam baade sajayein hussain raazi ho
-  Sabhi ko pani pilayein hussain raazi ho
-  Chalo sabeel lagayein...
-  Zamana dekh ke bole hussain waale hai
-  Imam e kaun o makan ke qadam pe chalte hai
-  Hayaat aisi banayein hussain raazi ho
-  Sabhi ko pani pilayein hussain raazi ho
-  Chalo sabeel lagayein...
-  Ghame hussain manayein bhula ke gham apne
-  Ho sog dil mein badan par libaas ho kaale
-  Kiya jo waada nibhayein hussain raazi ho
-  Sabhi ko pani pilayein hussain raazi ho
-  Chalo sabeel lagayein...
-  Aza e sheh mein dikhawa na ho riyakari
-  Unhe rumaal mein lele hamari shahzadi
-  Hum aise ashk bahayein hussain raazi ho
-  Sabhi ko pani pilayein hussain raazi ho
-  Chalo sabeel lagayein...
+  Alam jari ka uthayeiṅ Husain raazi ho
+  Sabhi ko pani pilayeiṅ Husain raazi ho
+  Chalo sabil lagayein...
+  Banao ghar meiṅ bhi chota sa ek azakhana
+  Duayeiṅ dengi tumhe dil se zainab e kubra
+  Imam baare sajayeiṅ Husain raazi ho
+  Sabhi ko pani pilayeiṅ Husain raazi ho
+  Chalo sabil lagayein...
+  Zamana dekh ke bole Husain waale hai
+  Imam e kaun o makaṅ ke qadam pe chalte hai
+  Hayaat aisi banayeiṅ Husain raazi ho
+  Sabhi ko pani pilayeiṅ Husain raazi ho
+  Chalo sabil lagayein...
+  Ghame Husain manayeiṅ bhula ke gham apne
+  Ho sog dil meiṅ badan par libaas ho kaale
+  Kiya jo waada nibhayeiṅ Husain raazi ho
+  Sabhi ko pani pilayeiṅ Husain raazi ho
+  Chalo sabil lagayein...
+  Aza e sheh meiṅ dikhawa na ho riyakari
+  Unhe rumaal meiṅ lele hamari shahzadi
+  Hum aise ashk bahayeiṅ Husain raazi ho
+  Sabhi ko pani pilayeiṅ Husain raazi ho
+  Chalo sabil lagayein...
   Mere imam ne dushman ko da diya pani
   Gawara kar liya itrat meri rahi pyasi
-  Adoo ko pani pilayein hussain raazi ho
-  Sabhi ko pani pilayein hussain raazi ho
-  Chalo sabeel lagayein...
+  Adu ko pani pilayeiṅ Husain raazi ho
+  Sabhi ko pani pilayeiṅ Husain raazi ho
+  Chalo sabil lagayein...
   Sabhi ke dil ki tamanna hai danish o rehan
-  Bulayein maula ho pura hamara ye armaan
-  Piyada karbaal jaayein hussain raazi ho
-  Sabhi ko pani pilayein hussain raazi ho
-  Chalo sabeel lagayein...
+  Bulayeiṅ maula ho pura hamara ye armaaṅ
+  Piyada karbaal jaayeiṅ Husain raazi ho
+  Sabhi ko pani pilayeiṅ Husain raazi ho
+  Chalo sabil lagayein...
 # source_id: nohayonline:b9b26d2992d4bf4d8b3e
 # source_url: https://www.nohayonline.com/details_content.php?id=1399
 # raw_sha256: 2c0c8edb4010bae3d9ac9c462ab892bc3a3ccd5648ebb9a965a78aa9be7135ce

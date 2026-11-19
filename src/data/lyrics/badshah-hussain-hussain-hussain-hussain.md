@@ -1,6 +1,6 @@
 ---
 title: "حسین حسین حسین"
-alternateTitle: "Badshah Hussain"
+alternateTitle: "Badshah Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,89 +11,89 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hussain hussain hussain
+  Husain Husain Husain
   Badshah e mann
-  Shehenshah e mann
+  Shehenshah-e-mann
   Qibla e dilam kaaba e dilam
-  Hussain hussain
-  Badshah hussain shehenshah hussain
-  Deen ka aasra hussain hai
-  Hussain ya hussain
-  Kayenat mein baat baat mein
-  Teri baat tera tazkera hussain hai
-  Badshah hussain shehenshah hussain
-  Deen ka aasra hussain hai
-  Tujhko dil waalon ka sultan kaha jaata hai
-  Ishq mein tere koi teer o tabar khaata hai
-  Koi laakhon se bahattar mein chala aata hai
+  Husain Husain
+  Badshah Husain shehenshah Husain
+  Diṅ ka aasra Husain hai
+  Husain ya Husain
+  Kayenat meiṅ baat baat meiṅ
+  Teri baat tera tazkera Husain hai
+  Badshah Husain shehenshah Husain
+  Diṅ ka aasra Husain hai
+  Tujhko dil waaloṅ ka sultan kaha jaata hai
+  Ishq meiṅ tere koi tir o tabar khaata hai
+  Koi laakhoṅ se bahattar meiṅ chala aata hai
   Tujhse jab mila hurr samajh gaya
-  Hai fana yazeed aur baqa hussain hai
-  Badshah hussain shehenshah hussain
-  Deen ka aasra hussain hai
-  Hussain ya hussain...
+  Hai fana yazid aur baqa Husain hai
+  Badshah Husain shehenshah Husain
+  Diṅ ka aasra Husain hai
+  Husain ya Husain...
   Tu balandi hai zabardast hai aala tu hai
   Jisko abbas kahe maula wo maula tu hai
-  Arsh waalon ko zameen baatne waala tu hai
-  Kyun na farsh pe aasman jhuke
-  Maalik e zameen e karbala hussain hai
-  Badshah hussain shehenshah hussain
-  Deen ka aasra hussain hai
-  Hussain ya hussain...
-  Tu hi hai toote dilon ka sahara hussain
-  Hai aashiqon ki sada tu hamara hussain
-  Jab se seeno mein basaya hai tera gham maula
-  Dil ki dhadkan bhi hame lagti hai matam maula
-  Saal bhar rehta hai aankhon mein moharram maula
-  Hai nishane gham seeno pe raqam
-  Bas hamare qalb par likha hussain hai
-  Badshah hussain shehenshah hussain
-  Deen ka aasra hussain hai
-  Hussain ya hussain...
-  Chauda sadiyon se tere gham ka safar jaari hai
+  Arsh waaloṅ ko zamiṅ baatne waala tu hai
+  Kiuṅ na farsh pe aasmaṅ jhuke
+  Maalik e zamin e karbala Husain hai
+  Badshah Husain shehenshah Husain
+  Diṅ ka aasra Husain hai
+  Husain ya Husain...
+  Tu hi hai tute diloṅ ka sahara Husain
+  Hai aashiqoṅ ki sada tu hamara Husain
+  Jab se sino meiṅ basaya hai tera gham maula
+  Dil ki dharkan bhi hame lagti hai matam maula
+  Saal bhar rehta hai aankhoṅ meiṅ moharram maula
+  Hai nishane gham sino pe raqam
+  Bas hamare qalb par likha Husain hai
+  Badshah Husain shehenshah Husain
+  Diṅ ka aasra Husain hai
+  Husain ya Husain...
+  Chauda sadiyoṅ se tere gham ka safar jaari hai
   Ye azakhane alam tujhse wafadari hai
-  Aaj har ghar mein bapa teri azadari hai
-  Har faqeer ki hai sada yehi
-  Zindabad aaj bhi mera hussain hai
-  Badshah hussain shehenshah hussain
-  Deen ka aasra hussain hai
-  Hussain ya hussain...
+  Aaj har ghar meiṅ bapa teri azadari hai
+  Har faqir ki hai sada yehi
+  Zindabad aaj bhi mera Husain hai
+  Badshah Husain shehenshah Husain
+  Diṅ ka aasra Husain hai
+  Husain ya Husain...
   Maut ko maar ke jo karbobala tak pahuncha
-  Wo hussain ibne ali teri raza tak pahuncha
+  Wo Husain ibne ali teri raza tak pahuncha
   Bas tere paas jo pahuncha wo khuda tak pahuncha
   Manzil e khuda sirf karbala
-  Is liye hamara raasta hussain hai
-  Badshah hussain shehenshah hussain
-  Deen ka aasra hussain hai
-  Hussain ya hussain...
+  Is liye hamara raasta Husain hai
+  Badshah Husain shehenshah Husain
+  Diṅ ka aasra Husain hai
+  Husain ya Husain...
   Hussaina hussaina
-  Ya saarallah hussain
-  Ay qateel e jafa
-  Ay ghareeb e zahra
-  Shaheed e karbala hussain
-  Jab murtajiz sawaar wo ran mein utar gaya
+  Ya saarallah Husain
+  E qatil e jafa
+  E gharib e zahra
+  Shahid e karbala Husain
+  Jab murtajiz sawaar wo ran meiṅ utar gaya
   Dushman ki maut saath chali wo jidhar gaya
   Utha jo uske saamne wo sar se sar gaya
-  Aaya jo zulfiqar ki zadd mein wo mar gaya
+  Aaya jo zulfiqar ki zadd meiṅ wo mar gaya
   Koi soorma bach nahi saka
-  Pyaas mein bhi is tarha lada hussain hai
+  Pyaas meiṅ bhi is tarha lara Husain hai
   Hussaina hussaina
-  Jab irjaee ki arsh se aayi sada hussain
-  Palta tu ran se qaimon ki jaanib chala hussain
-  Maqtal mein tujhko ghayr ke maara gaya hussain
-  Zehra ne aake thaam liya jab gira hussain
+  Jab irjai ki arsh se aayi sada Husain
+  Palta tu ran se qaimon ki jaanib chala Husain
+  Maqtal meiṅ tujhko ghayr ke maara gaya Husain
+  Zehra ne aake thaam liya jab gira Husain
   Shimr ne rakhi halq par churi
-  Maa pukari mera laadla hussain hai
-  Badshah hussain shehenshah hussain
-  Deen ka aasra hussain hai
-  Hussain ya hussain...
-  Haq ki manzil pe raha sab ke dilon par chaaya
+  Maa pukari mera laadla Husain hai
+  Badshah Husain shehenshah Husain
+  Diṅ ka aasra Husain hai
+  Husain ya Husain...
+  Haq ki manzil pe raha sab ke diloṅ par chaaya
   Jis ka sar kaat ke bhi koi jhuka na paaya
-  Wo usi shaan se zeeshan sina par aaya
-  Hai yazeed ka naam mit gaya
-  Aaj har zaban pe sirf ya hussain hai
-  Badshah hussain shehenshah hussain
-  Deen ka aasra hussain hai
-  Hussain ya hussain...
+  Wo usi shaan se zishan sina par aaya
+  Hai yazid ka naam mit gaya
+  Aaj har zaban pe sirf ya Husain hai
+  Badshah Husain shehenshah Husain
+  Diṅ ka aasra Husain hai
+  Husain ya Husain...
 # source_id: nohayonline:3cc930db0bce6daffa18
 # source_url: https://www.nohayonline.com/details_content.php?id=3569
 # raw_sha256: 372a0fec825d66847db8b9a9dc40eb36ae9708caf7b6cfd9bac266b45c9b36f9

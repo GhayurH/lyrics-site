@@ -16,22 +16,22 @@ romanLyrics: |-
   Teri turbat pe ab mehman hai behan
   Ek amaanat jo saumpi thi tu ne mujhe
   Gham hai sharminda us ko hum laa na sake
-  Wo wahan shaam mein aur yahan hai behan
+  Wo wahaṅ shaam meiṅ aur yahaṅ hai behan
 
   2
   Tum pe royi to bas taziyane lage
-  Raah pukhaar thi paon zakhmi huwe
-  Do sahara mujhe natawan hai behan
+  Raah pukhaar thi paoṅ zakhmi huwe
+  Do sahara mujhe natawaṅ hai behan
 
   3
-  Shaam e ashoor ko saare qaime jale
+  Shaam e ashur ko saare qaime jale
   Ro rahi thi tumhe yaad karte huwe
-  Ab bhi un sholon ke darmiyan hai behan
+  Ab bhi un sholoṅ ke darmiyaṅ hai behan
 
   4
   Qabr par bhai ki koi saaya na tha
   Bhai ki qabr se tab lipat kar kaha
-  Dhoop mein qabr ka sayeban hai behan
+  Dhup meiṅ qabr ka sayebaṅ hai behan
 
   5
   Karne chehlum tera aayi hai ghamzada
@@ -39,19 +39,19 @@ romanLyrics: |-
   Qabr par teri girya kuna hai behan
 
   6
-  Chadarein chin gayi haath bhi thay bandhe
-  Hum ko bazaar o darbar mein le gaye
-  Ek musibat ka kohe giran hai behan
+  Chadareiṅ chin gayi haath bhi the bandhe
+  Hum ko bazaar o darbar meiṅ le gaye
+  Ek musibat ka kohe giraṅ hai behan
 
   7
-  Ek taraf qabr teri hai ay bhai jaan
-  Doosri simt ghazi ki turbat ayan
-  Do taraf bhai hai darmiyan hai behan
+  Ek taraf qabr teri hai ae bhai jaaṅ
+  Dusri simt ghazi ki turbat ayaṅ
+  Do taraf bhai hai darmiyaṅ hai behan
 
   8
-  Jao jab karbala majid e khasta jan
+  Jao jab karbala majid e khasta jaṅ
   Jab bhi mukhtar ho koi nauha kuna
-  Aisa lagta hai mehwe fughan hai behan
+  Aisa lagta hai mehwe fughaṅ hai behan
 # source_id: nohayonline:3808b34ac8d2040c3588
 # source_url: https://www.nohayonline.com/details_content.php?id=2092
 # raw_sha256: 5398c0df061162c2209e143e19d21b28833da32ed667bbe6426dcd4ca2bc9423

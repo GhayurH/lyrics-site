@@ -11,76 +11,76 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hum se na poocho
-  Aaj ye sadma azeem hai
+  Hum se na pucho
+  Aaj ye sadma azim hai
   Mar jaaye jis ka baap
-  Wo ummat yateem hai
+  Wo ummat yatim hai
   Ya ali ye kya ghazab hua
-  Haye hum yateem hogaye
+  Haye hum yatim hogaye
   Saaya sar se aap ka utha
-  Haye hum yateem hogaye
+  Haye hum yatim hogaye
   Hai siyaah posh sogwaar
-  Jin ke dil mein hai ali ka pyar
+  Jin ke dil meiṅ hai ali ka pyar
   Momino ki hai yehi sada
   Alwida shaahe zulfiqar
   Kis ne qatl aap ko kiya
-  Haye hum yateem hogaye
+  Haye hum yatim hogaye
   Ya ali ye kya...
-  Hai amaama surkh ay imam
-  Ho qubool aakhri salaam
-  Aansu aankh mein liye huwe
+  Hai amaama surkh ae imam
+  Ho qubul aakhri salaam
+  Aansu aankh meiṅ liye huwe
   Pursa de rahe hai sab ghulam
-  Ghar mein bich gayi safe aza
-  Haye hum yateem hogaye
+  Ghar meiṅ bich gayi safe aza
+  Haye hum yatim hogaye
   Ya ali ye kya...
-  Dekha jab hassan ne zakhmi sar
+  Dekha jab Hasan ne zakhmi sar
   Roye baba baba bol kar
-  Ibne muljim e layeen ne
+  Ibne muljim-e-layiṅ ne
   Ek namazi rozadaar par
   Waar itni zor se kiya
-  Haye hum yateem hogaye
+  Haye hum yatim hogaye
   Ya ali ye kya...
-  Kehti hai ali ki betiyan
-  Aankhein kholiye ay baba jaan
-  Dekhenge kafan mein aap ko
-  Hum ne aisa socha tha kahan
+  Kehti hai ali ki betiyaṅ
+  Aankheiṅ kholiye ae baba jaan
+  Dekhenge kafan meiṅ aap ko
+  Hum ne aisa socha tha kahaṅ
   Dil ko kaise chain aayega
-  Haye hum yateem hogaye
+  Haye hum yatim hogaye
   Ya ali ye kya...
   Kaun pyar se bulayega
-  Kaun ab galay lagayega
-  Sar pe haath rakh ke baba jaan
+  Kaun ab gale lagayega
+  Sar pe haath rakh ke baba jaaṅ
   Kaun hum ko dega ab dua
   Kaise guzrega din eid ka
-  Haye hum yateem hogaye
+  Haye hum yatim hogaye
   Ya ali ye kya...
   Maa ke baad baap hi to tha
   Jis ne hum ko rone na diya
   Jab bhi maa ki yaad aayi to
-  Baba ne galay laga liya
+  Baba ne gale laga liya
   Kaun dega hum ko hausla
-  Haye hum yateem hogaye
+  Haye hum yatim hogaye
   Ya ali ye kya...
   Lipti jab janaze se behan
-  Bole ye hussain se hassan
+  Bole ye Husain se Hasan
   Teher jao thori dayr aur
   Baandhna nahi abhi kafan
   Dekhne do chehra baap ka
-  Haye hum yateem hogaye
+  Haye hum yatim hogaye
   Ya ali ye kya...
-  Jab se ye tabeeb ne kaha
-  Doodh hai ilaaj marz ka
-  Aaye thay jo pyale thaam kar
-  Kaun un yateemon ko bhala
+  Jab se ye tabib ne kaha
+  Dudh hai ilaaj marz ka
+  Aaye the jo pyale thaam kar
+  Kaun un yatimoṅ ko bhala
   Jaa ke ye khabar sunayega
-  Haye hum yateem hogaye
+  Haye hum yatim hogaye
   Ya ali ye kya...
-  Zakhmi sar wo khoon ya ali
-  Bhool na sakenge hum kabhi
-  Haan shahadat e ali ke din
-  Mesum aur zeeshan abidi
+  Zakhmi sar wo khun ya ali
+  Bhul na sakenge hum kabhi
+  Haaṅ shahadat e ali ke din
+  Mesum aur zishan abidi
   De rahe hai ro ke ye sada
-  Haye hum yateem hogaye
+  Haye hum yatim hogaye
   Ya ali ye kya...
 # source_id: nohayonline:23df852a6b0e8eb65a30
 # source_url: https://www.nohayonline.com/details_content.php?id=3383

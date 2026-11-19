@@ -16,39 +16,39 @@ romanLyrics: |-
   Ahle aza tum jab shaam jaana
   Tum hamesha yaad rakhna us zamane ka mehal
   Jis jagah tum ho wahin zainab rasan basta thi kal
-  Thay yahin zanjeer mein jakde huwe zainuleba
+  The yahin zanjir meiṅ jakre huwe zainuleba
   Ahle aza tum jab...
   Ye sakina ki lehed hai jis jagah hai roshni
-  Sochiye ek din yahan par kis khadar thi teeragi
-  Band thi saari sabeelein khatm tha har aasra
+  Sochiye ek din yahaṅ par kis khadar thi tiragi
+  Band thi saari sabileiṅ khatm tha har aasra
   Ahle aza tum jab...
-  Bibiyan paon uthaati thi magar uthta na tha
-  Abid e beemar ka ghairat se sar uthta na tha
-  Har taraf baazar mein tha aaina hi aaina
+  Bibiyaṅ paoṅ uthaati thi magar uthta na tha
+  Abid e bimar ka ghairat se sar uthta na tha
+  Har taraf baazar meiṅ tha aaina hi aaina
   Ahle aza tum jab...
-  Ye wo darwaza hai tehri thi jahan par bibiyan
-  Kam nahi thay hashr ke manzar se wo ruswaiyan
-  Has rahe thay berida sadaat par ahle jafa
+  Ye wo darwaza hai tehri thi jahaṅ par bibiyaṅ
+  Kam nahi the hashr ke manzar se wo ruswaiyaṅ
+  Has rahe the berida sadaat par ahle jafa
   Ahle aza tum jab...
-  Har taraf se zulm ke patthar baraste thay yahin
-  Waaris e tatheer chadar ko taraste thay yahin
-  Goya barpa thi yahin par doosri ek karbobala
+  Har taraf se zulm ke patthar baraste the yahin
+  Waaris e tathir chadar ko taraste the yahin
+  Goya barpa thi yahin par dusri ek karbobala
   Ahle aza tum jab...
-  Moo ko aata tha kaleja zainabe dilgeer ka
-  Jis jagah ek tasht mein rakha tha sar shabbir ka
+  Moo ko aata tha kaleja zainabe dilgir ka
+  Jis jagah ek tasht meiṅ rakha tha sar shabbir ka
   Tha yahin baitha hua haakim sharabi behaya
   Ahle aza tum jab...
-  Ya khuda qaidi na ho aise yateemi mein koi
-  Phir na maange is tarha bacchi kaneezi mein koi
+  Ya khuda qaidi na ho aise yatimi meiṅ koi
+  Phir na maange is tarha bacchi kanizi meiṅ koi
   Tha sakina ke liye ek hashr ka wo samaa
   Ahle aza tum jab...
-  Zulm ki roodad batlayenge tumko raaste
-  Thay yahin par ek rassi mein bandhe baara gale
-  Ye ali ki betiyan hai thi munadi ki nida
+  Zulm ki rudad batlayenge tumko raaste
+  The yahin par ek rassi meiṅ bandhe baara gale
+  Ye ali ki betiyaṅ hai thi munadi ki nida
   Ahle aza tum jab...
-  Nayyar o aamir ki hai tum se guzarish zaairon
+  Nayyar o aamir ki hai tum se guzarish zaairoṅ
   Ho sake to ek yateema ke liye lekar chalo
-  Nanhi si do baliyan aur ek choti si rida
+  Nanhi si do baliyaṅ aur ek choti si rida
   Ahle aza tum jab...
 # source_id: nohayonline:ab1c28a1b7f35c0c429d
 # source_url: https://www.nohayonline.com/details_content.php?id=3608

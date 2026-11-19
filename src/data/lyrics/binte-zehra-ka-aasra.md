@@ -15,13 +15,13 @@ romanLyrics: |-
   Binte zehra ka aasra ghazi
   Hua karbal may jab juda ghazi
   Binte zehra ka...
-  Ab bhi binte hussain roti hai
-  Qaid se aake tu chuda ghazi
+  Ab bhi binte Husain roti hai
+  Qaid se aake tu chura ghazi
   Binte zehra ka...
   Sar se zainab ki gir gayi chadar
-  Jis ghadi ran ko tu chala ghazi
+  Jis ghari ran ko tu chala ghazi
   Binte zehra ka...
-  Kund khanjar se shimr yun maare
+  Kund khanjar se shimr yuṅ maare
   Jaanta hai nahi raha ghazi
   Binte zehra ka...
   Meri chadar khuda ka parda hai
@@ -30,11 +30,11 @@ romanLyrics: |-
   Kaise jaungi shaam aur kufa
   Mujhko mehmil may tu bitha ghazi
   Binte zehra ka...
-  Pooche ummul baneen zainab se
-  Kis tarha zeen se gira ghazi
+  Puche ummul baneen zainab se
+  Kis tarha zin se gira ghazi
   Binte zehra ka...
-  Cheh jagah se hussain chun aaye
-  Phir bhi poora na mil saka ghazi
+  Cheh jagah se Husain chun aaye
+  Phir bhi pura na mil saka ghazi
   Binte zehra ka...
   Qaime jalte rahe bulaati rahi
   Shimr se aake tu bacha ghazi

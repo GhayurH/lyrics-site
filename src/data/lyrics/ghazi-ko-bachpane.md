@@ -12,54 +12,54 @@ published: false
 romanLyrics: |-
   1
   Mere beta abbas
-  Madine mein ek raat ummul baneen
+  Madine meiṅ ek raat ummul baneen
   Bete ko lori suna rahi hai
   Abbas abbas abbas abbas
-  Ghazi ko bachpane mein maa ye sabakh padhaye
-  Tere baazuon ke hote zainab na gham uthaye
-  Hyder ki zaujiyat mein jis din se hoo mai aayi
-  Unke labon pe maine bas ye dua hai paayi
+  Ghazi ko bachpane meiṅ maa ye sabakh parhaye
+  Tere baazuoṅ ke hote zainab na gham uthaye
+  Hyder ki zaujiyat meiṅ jis din se hoo mai aayi
+  Unke laboṅ pe maiṅ ne bas ye dua hai paayi
   Ya rab wo laal de jo zainab ke kaam aaye
   Abbas abbas abbas abbas
   Ghazi ko bachpane mein...
-  Maana ke tu banega salaar o meer e lashkar
-  Lekin hussain ka tu ban kar rahega naukar
+  Maana ke tu banega salaar o mir e lashkar
+  Lekin Husain ka tu ban kar rahega naukar
   Itna khayaal rakhna sar maa ka jhuk na jaaye
   Abbas abbas abbas abbas
   Ghazi ko bachpane mein...
-  Aaqa hussain ko tum bhai kabhi na kehna
+  Aaqa Husain ko tum bhai kabhi na kehna
   Jab tak hai saans baaqi ban kar ghulam rehna
   Meri dua hai tumko saqqayyi raas aaye
   Abbas abbas abbas abbas
   Ghazi ko bachpane mein...
-  Mai hoo kaneez-e-zehra fizza se phir bhi kam hoo
+  Mai hoo kaniz-e-zehra fizza se phir bhi kam hoo
   Ye soch soch kar mai bas mubtila e gham hoo
-  Tere sabab se beta zahra na rooth jaaye
+  Tere sabab se beta zahra na ruth jaaye
   Abbas abbas abbas abbas
   Ghazi ko bachpane mein...
   Ye ghar hai sayyeda ka is ghar ki shaan parda
-  Is ghar ki betiyon ko suraj na dekh paaya
-  Shahzadiyon ke sar tak teri nazar na jaaye
+  Is ghar ki betiyoṅ ko suraj na dekh paaya
+  Shahzadiyoṅ ke sar tak teri nazar na jaaye
   Abbas abbas abbas abbas
   Ghazi ko bachpane mein...
-  Ab karbala ka manzar raavi ne yun likha hai
+  Ab karbala ka manzar raavi ne yuṅ likha hai
   Abbas fauje sheh ka salaar ban gaya hai
   Kis ki majaal hai jo sheh se nazar milaye
   Abbas abbas abbas abbas
   Ghazi ko bachpane mein...
-  Ashoor ko hai tooti pyason pe kya qayamat
-  Ladne ke mil na paayi jarraar ko ijazat
+  Ashur ko hai tuti pyasoṅ pe kya qayamat
+  Larne ke mil na paayi jarraar ko ijazat
   Abbas jaa rahe hai mashk o alam uthaye
   Abbas abbas abbas abbas
   Ghazi ko bachpane mein...
-  Ghazi ke raaste par nazrein hai bibiyon ki
-  Aur hai dua musalsal zainab ke ye labon ki
-  Meri rida ka zaamin ay kaash laut aaye
+  Ghazi ke raaste par nazreiṅ hai bibiyoṅ ki
+  Aur hai dua musalsal zainab ke ye laboṅ ki
+  Meri rida ka zaamin ae kaash laut aaye
   Abbas abbas abbas abbas
   Ghazi ko bachpane mein...
-  Rehaan azmi jab be-dast ho ke ghazi
-  Maqtal mein gir gaya tha reti pe karbala ki
-  Maadar ki wo naseehat ghazi ko yaad aaye
+  Rehaan azmi jab bedast ho ke ghazi
+  Maqtal meiṅ gir gaya tha reti pe karbala ki
+  Maadar ki wo nasihat ghazi ko yaad aaye
   Abbas abbas abbas abbas
   Ghazi ko bachpane mein...
 # source_id: nohayonline:e0d0afc9c82523a52a26

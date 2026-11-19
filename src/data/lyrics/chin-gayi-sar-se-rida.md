@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aal e mohamed pe aafat ki ghadi hai
-  Bhaiya teri behna sar nange khadi hai
+  Aal-e-mohamed pe aafat ki ghari hai
+  Bhaiya teri behna sar nange khari hai
   Naala o shewan se ek hashr bapa hai
   Koi na waris raha qaima har ek jal gaya
   Chin gayi sar se rida karti thi zainab buka
-  Utne lage qaimon se aag ke sholay
-  Kaise teri behna bachon ko sambhale
-  Ghash may mera abid sholon may ghira hai
+  Utne lage qaimon se aag ke shole
+  Kaise teri behna bachoṅ ko sambhale
+  Ghash may mera abid sholoṅ may ghira hai
   Chin gayi sar se rida...
-  Haye ali akbar tum kyon nahi aaye
+  Haye ali akbar tum kyoṅ nahi aaye
   Zaalimo ne aake sab qaime jalaye
   Kaun kare nusrat koi na raha hai
   Chin gayi sar se rida...
-  Cheen liye kaano se shimr ne gauhar
+  Chin liye kaano se shimr ne gauhar
   Kis se kare shikwa baba na baradar
-  Khoon sakina ke kaano se baha hai
+  Khun sakina ke kaano se baha hai
   Chin gayi sar se rida...
   Aag ne daaman ko jab uske jalaya
   Bali sakina ne ro ro ke sunaya
-  Dasht e bayaban hai aur karbobala hai
+  Dasht-e-bayabaṅ hai aur karbobala hai
   Chin gayi sar se rida...
   Maut ke sehra may gham ghurda hirasaa
-  Dhoondti hai bachi har samt pareshan
+  Dhundti hai bachi har samt pareshaṅ
   Lab pe faqat baba baba ki sada hai
   Chin gayi sar se rida...
-  Maqtal may goonji aawaz e bunaya
-  Yun na karo naale aelaiya aelaiya
-  Door hai darya bhi aur khooni fiza hai
+  Maqtal may gunji aawaz-e-bunaya
+  Yuṅ na karo naale aelaiya aelaiya
+  Dur hai darya bhi aur khuni fiza hai
   Chin gayi sar se rida...
   Tere chacha ko hai is waqt aziyat
   Jao na darya pe gar hai koi ulfat
   Mujhse kaho beta jo unse gila hai
   Chin gayi sar se rida...
   Teri phupi beta sehra e bala may
-  Dhoondti hai tumko wo girdo-niwa may
-  Teri judaai se masroof e-buka hai
+  Dhundti hai tumko wo girdo-niwa may
+  Teri judaai se masruf e-buka hai
   Chin gayi sar se rida...
-  Sunke anees e gham ye nauha iram may
-  Hoor o malak naale karne lage gham may
-  Majlis e sarwar may kohraam bapa hai
+  Sunke anis-e-gham ye nauha iram may
+  Hur o malak naale karne lage gham may
+  Majlis-e-sarwar may kohraam bapa hai
   Chin gayi sar se rida...
 # source_id: nohayonline:df390bcb3680c2ae5f22
 # source_url: https://www.nohayonline.com/details_content.php?id=349

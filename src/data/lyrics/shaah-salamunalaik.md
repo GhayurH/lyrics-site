@@ -22,9 +22,9 @@ romanLyrics: |-
   Pyasi sakina salaam
   Aun o mohamed salaam
   Hurr e dilawar salaam
-  Zainab o kulsoom salaam
+  Zainab o kulsum salaam
   Aaqa e qamber salaam
-  Shiyon ke maula salaam
+  Shiyoṅ ke maula salaam
 # source_id: nohayonline:44d2e5144001768397ef
 # source_url: https://www.nohayonline.com/details_content.php?id=3534
 # raw_sha256: 1b191703806514d9f6a66cdd45d938ae8ecc35d4ad374d50e71c6a0eb8ec2100

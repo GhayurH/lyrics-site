@@ -12,42 +12,42 @@ published: false
 romanLyrics: |-
   1
   Saahil ki taraf dekh ke kehti thi ye zainab
-  Abbas kahan ho mere abbas kahan ho
+  Abbas kahaṅ ho mere abbas kahaṅ ho
   Zainab ki ye faryaad hai daaman may chupalo
-  Abbas sakina ko tamachon se bacha lo
+  Abbas sakina ko tamachoṅ se bacha lo
   Kehti hai sakina ke ajab haal hai haye
-  Kooze liye baithi rahi ammu nahi aaye
-  Baba bhi nahi kaun yahan humko bachaye
-  Ek baar isay daste bureeda may utha lo
+  Kuze liye baithi rahi ammu nahi aaye
+  Baba bhi nahi kaun yahaṅ humko bachaye
+  Ek baar ise daste bureeda may utha lo
   Abbas sakina ko...
-  Seena isay baba ka mayassar nahi kab se
-  Zindan ki zameen par ye agar soye to kaise
-  Abid ki ye zanjeer pe sar rakhe huwe hai
-  Le jao isay godh may bachi ko sula lo
+  Seena ise baba ka mayassar nahi kab se
+  Zindaṅ ki zamiṅ par ye agar soye to kaise
+  Abid ki ye zanjir pe sar rakhe huwe hai
+  Le jao ise godh may bachi ko sula lo
   Abbas sakina ko...
-  Zindan may zara chain nahi paati hai bachi
+  Zindaṅ may zara chain nahi paati hai bachi
   Dukh hadh se guzarta hai to chillaati hai bachi
-  Jab shimr hai badta to laraz jaati hai bachi
+  Jab shimr hai barta to laraz jaati hai bachi
   Imdaad karo bhai yateema ki dua lo
   Abbas sakina ko...
   Sar par mere chadar nahi kuch aas nahi hai
-  Maloom hai zinda mera abbas nahi hai
+  Malum hai zinda mera abbas nahi hai
   Kehti hai sakina ke mujhe pyaas nahi hai
   Mai kis se madad maangu sakina ko sambhalo
   Abbas sakina ko...
-  Beemar madad is ki koi kar nahi sakta
-  Dar jaati hai ye jab hai koi isko jhidakta
-  Kasno se lahoo is ke abhi tak hai tapakta
+  Bimar madad is ki koi kar nahi sakta
+  Dar jaati hai ye jab hai koi isko jhirakta
+  Kasno se lahu is ke abhi tak hai tapakta
   Kehti hai chacha jaan mujhe paas bula lo
   Abbas sakina ko...
-  Chillaati hai zindan may kidhar jaaye sakina
+  Chillaati hai zindaṅ may kidhar jaaye sakina
   Aisa na ho tanhaai may darr jaaye sakina
   Baba se judaai may na mar jaaye sakina
-  Saahil se utho qaid se ab isko chuda lo
+  Saahil se utho qaid se ab isko chura lo
   Abbas sakina ko...
   Zindan may zainab ki qamar hai yehi faryad
-  Zinda na sakina rahi itni hui be-daad
-  Tadfeen ho kaise ke hai zanjeer may sajjad
+  Zinda na sakina rahi itni hui bedaad
+  Tadfin ho kaise ke hai zanjir may sajjad
   Mayyat ko sakina ki koi bad ke utha lo
   Abbas sakina ko...
 # source_id: nohayonline:16883b0bb28ade825df0

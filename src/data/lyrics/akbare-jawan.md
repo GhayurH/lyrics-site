@@ -1,6 +1,6 @@
 ---
 title: "لیلیٰ کی جان شہ کے پسر اکبر جواں"
-alternateTitle: "Akbare Jawan"
+alternateTitle: "Akbare Jawaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

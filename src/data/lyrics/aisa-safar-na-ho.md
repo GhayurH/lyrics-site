@@ -11,43 +11,43 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sajde may hai zameen to falak hai qayaam may
+  Sajde may hai zamiṅ to falak hai qayaam may
   Quwwat nahi hai utne ki bemaar imam may
-  Aaya sar e hussain to kohraam mach gaya
-  Goonji sada sakina ki zindan e shaam may
-  Baba kisi ghareeb ka aisa safar na ho
+  Aaya sar e Husain to kohraam mach gaya
+  Gunji sada sakina ki zindan e shaam may
+  Baba kisi gharib ka aisa safar na ho
   Ghurbat may is tarha koi taraaj ghar na ho
   Aisa safar na ho aisa safar na ho
   Baba mai dekhti rahi ke hua qatl aap ka
   Dihklaye rab na beti ko ye haal baap ka
   Sar jism se kisi ke juda is qadar na ho
   Aisa safar na ho...
-  Daaghe yateemi kya hai khabar tak na thi mujhe
+  Daaghe yatimi kya hai khabar tak na thi mujhe
   Ye baat aap hi ne to batlaayi thi mujhe
-  Baccha wohi yateem hai jiska pidar na ho
+  Baccha wohi yatim hai jiska pidar na ho
   Aisa safar na ho...
   Jab bhi tamache maarta tha shimr e bad gohar
-  Baba tadap tadap ke mai gir jaati khaak par
+  Baba tarap tarap ke mai gir jaati khaak par
   Beti ke aage baap ka naize pe sar na ho
   Aisa safar na ho...
   Har pal tumhe bulaati thi baba ab aaiye
-  Meri madad ko kyun nahi aaye bataiye
+  Meri madad ko kiuṅ nahi aaye bataiye
   Mumkin na ho ke aap ko meri khabar na ho
   Aisa safar na ho...
   Kufe ki raah may kabhi bazaar e aam may
-  Ahle sitam ke saamne darbar e shaam may
+  Ahle sitam ke saamne darbar-e-shaam may
   Meri tarha kisi ka bhi uryan sar na ho
   Aisa safar na ho...
-  Jakda hua tha mera gala rassiyon ke beech
-  Mai berida khadi thi tamashaiyon ke beech
+  Jakra hua tha mera gala rassiyoṅ ke bich
+  Mai berida khari thi tamashaiyoṅ ke bich
   Bazaar e shaam jaisi koi reh guzar na ho
   Aisa safar na ho...
   Ye kamsini may koh e musibat to dekhiye
   Zindan e shaam may meri haalat to dekhiye
   Pinjre may jaise panchi ho aur jiske par na ho
   Aisa safar na ho...
-  Godhi may leke sar e shaah e ins o jaan
-  Mohsin mujeeb bali sakina ne ki fughan
+  Godhi may leke sar e shaah e ins o jaaṅ
+  Mohsin mujib bali sakina ne ki fughaṅ
   Mujh ghamzada ki tarha koi bepidar na ho
   Aisa safar na ho...
 # source_id: nohayonline:d6320fae6e6d4c1bcb60

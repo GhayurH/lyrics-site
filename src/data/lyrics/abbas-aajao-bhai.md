@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Maqtal mein pahunche jab shaah e waala
-  Laashe jawan aur qaimon ko dekha
+  Maqtal meiṅ pahunche jab shaah-e-waala
+  Laashe jawaaṅ aur qaimon ko dekha
   Darya ko dekha phir ye pukara
   Ab ye salame aakhir hai mera
   Abbas aajao bhai akela hai
-  Tanha musafir ko lakhon ne ghera hai
+  Tanha musafir ko lakhoṅ ne ghera hai
   Tum ne na dekhi ghurbat hamari
   Zainab thi laayi meri sawari
   Ruqsat ka meri manzar ajab tha
-  Seene se lag jao bhai akela hai
+  Sine se lag jao bhai akela hai
   Abbas aajao…
-  Jab se ho bichde abbas hum se
+  Jab se ho bichre abbas hum se
   Ahle haram hai lipte alam se
   Kaise jiyegi bali sakina
   Kya hoga batlao bhai akela hai
   Abbas aajao…
-  Lashkar kahan ka jab tum nahi ho
+  Lashkar kahaṅ ka jab tum nahi ho
   Aada to khush hai ab tum nahi ho
   Kitna akela kitna hoo tanha
-  Seene mein hai ghao bhai akela hai
+  Sine meiṅ hai ghao bhai akela hai
   Abbas aajao…
   Din bhar uthaye kitne janaze
   Ab kaun hai jo dega dilaase
-  Hotay agar tum dete dilaasa
+  Hote agar tum dete dilaasa
   Aao chale aao bhai akela hai
   Abbas aajao…
   Mujh par baraste ye sang dekho
   Bekas ki tanha ki jang dekho
-  Dekho na toote nana se waada
-  Himmat badha jao bhai akela hai
+  Dekho na tute nana se waada
+  Himmat barha jao bhai akela hai
   Abbas aajao…
   Jab shimr khanjar ko phayrta tha
   Qaatil ne shah se khud ye suna tha
   Pyasa gala us dam ye pukara
-  Soorat dikha jao bhai akela hai
+  Surat dikha jao bhai akela hai
   Abbas aajao…
   Sar sheh ka aaya noke sina par
   Aayi sada ye rehaan o sarwar
-  Be-sar pada hai bhai ka laasha
+  besar para hai bhai ka laasha
   Ab toh chale aao bhai akela hai
   Abbas aajao…
 # source_id: nohayonline:edb521df26894fb2c0e8

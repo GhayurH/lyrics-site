@@ -9,30 +9,30 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Main Sar Uryan haan Abbas Kewain Shaam jawan gin
-  Rida day baaj walan dan
+  Maiṅ Sar Uryaṅ haaṅ Abbas Kewaiṅ Shaam jawaṅ gin
+  Rida de baaj walaṅ dan
 
   1
-  Kewain Parda Banawan Gin.
+  Kewaiṅ Parda Banawaṅ Gin.
 
   2
-  Teray Lashay tay roi nahin, Te tur pain Shaam tay pasay
-  Hoya Wada mein ruwan lai, teri turbat tay awan gin.
+  Tere Lashe te roi nahiṅ, Te tur pain Shaam te pase
+  Hoya Wada meiṅ ruwaṅ lai, teri turbat te awan gin.
 
   3
-  Zara na fikr kar veeran, Jay safraan which meinu milyan
-  Main Apnay Hisay da pani, wi balan nun pilanwan gin.
+  Zara na fikr kar veeran, Je safraan which meinu milyan
+  Maiṅ Apne Hise da pani, wi balan nuṅ pilanwan gin.
 
   4
-  Meray babay kun hasrat rai, mera lehja o nahin sunyan
-  Main which darbar das veeran, keewain khutba sunawan gin.
+  Mere babe kun hasrat rai, mera lehja o nahiṅ sunyan
+  Maiṅ which darbar das veeran, kiwain khutba sunawan gin.
 
   5
-  Wafa day shehanshan kun din, ali di jaan aadi rai
-  Tu sham awan day abid kun, main Ghazi ban wakhan wa gin.
+  Wafa de shehanshan kun din, ali di jaan aadi rai
+  Tu sham awan de abid kun, maiṅ Ghazi ban wakhan wa gin.
 
   6
-  Kewain Parda Banawan Gin.
+  Kewaiṅ Parda Banawaṅ Gin.
 # source_id: ziyaraat:510e4003dc5a60e9622b
 # source_url: https://www.ziyaraat.net/api/noha/2585
 # raw_sha256: 7add559571b4d6474d87342c3fb6b416dff4e6328aa7c6d34de3dd151ecc87c0

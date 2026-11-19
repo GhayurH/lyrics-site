@@ -14,27 +14,27 @@ romanLyrics: |-
   1
   Haye sakina haye haye haye shaam
   Din raat sada jo aati hai
-  Har dil ko jo tadpati hai
+  Har dil ko jo tarpati hai
   Ye bali sakina hai
-  Zindan mein jo roti hai
+  Zindaṅ meiṅ jo roti hai
   Baba ko bulaati hai
   Ye bali sakina hai
-  Naazon se pali hai ye bachi
-  Sab us ke naaz uthaate thay
+  Naazoṅ se pali hai ye bachi
+  Sab us ke naaz uthaate the
   Kabhi maa kabhi baba bhai chacha
-  Sab is pe waari jaate thay
+  Sab is pe waari jaate the
   Kabhi ye godhi kabhi wo godhi
   Masooma ko yaad aati hai
   Ye bali sakina hai
-  Zindan mein jo roti hai...
-  Baba se bichad kar beti ne
+  Zindaṅ meiṅ jo roti hai...
+  Baba se bichar kar beti ne
   Kya kya na masayab dekhe hai
   Pyasi bhi rahi qaidi bhi bani
   Zaalim se tamache khaaye hai
-  Jo seena e shaah pe soti thi
+  Jo sina e shaah pe soti thi
   Ab wohi khaak pe soti hai
   Ye bali sakina hai
-  Zindan mein jo roti hai...
+  Zindaṅ meiṅ jo roti hai...
   Zindan ke dar se jo guzre
   Bibi har ek se kehti hai
   Baba se milo to keh dena
@@ -42,15 +42,15 @@ romanLyrics: |-
   Tum paas chale aao baba
   Ro ro ke wo chillaati hai
   Ye bali sakina hai
-  Zindan mein jo roti hai...
-  Ashoor se lekar zindan tak
-  Har zulm usay yaad aata hai
+  Zindaṅ meiṅ jo roti hai...
+  Ashur se lekar zindaṅ tak
+  Har zulm use yaad aata hai
   Abbas akbar qasim asghar
-  Baba ka gham tadpata hai
-  Zindan mein matam kar kar ke
+  Baba ka gham tarpata hai
+  Zindan meiṅ matam kar kar ke
   Jo sab ka sogh manaati hai
   Ye bali sakina hai
-  Zindan mein jo roti hai...
+  Zindaṅ meiṅ jo roti hai...
   Sajjad se ro ro kehti hai
   Kab milne baba aayenge
   Ache bhaiya ye batla do
@@ -58,7 +58,7 @@ romanLyrics: |-
   Kabhi bhai se kabhi amma se
   Har waqt sawaal jo karti hai
   Ye bali sakina hai
-  Zindan mein jo roti hai...
+  Zindaṅ meiṅ jo roti hai...
 # source_id: nohayonline:b1b33a061da52af86f89
 # source_url: https://www.nohayonline.com/details_content.php?id=1845
 # raw_sha256: 27533a472fe054076b8a1ff012a13823aa30a564af4b44567716f1153bb534f8

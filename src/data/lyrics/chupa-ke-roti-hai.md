@@ -11,40 +11,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sitam jo dhaaye musalman ne mujhpe baade nabi
-  Tadap ke dekhe hai hasnain ne sitam wo sabhi
-  Mai aansuon ko chupa loongi tooti phasli bhi
-  Jhuki kamar ye zaeefi na chup sakegi kabhi
+  Sitam jo dhaaye musalmaṅ ne mujhpe baade nabi
+  Tarap ke dekhe hai hasnain ne sitam wo sabhi
+  Mai aansuoṅ ko chupa loongi tuti phasli bhi
+  Jhuki kamar ye zaifi na chup sakegi kabhi
   Shikasta pehlu mera aa ke dhaamp de fizza
-  Ke aise haal mein zainab na dekh le fizza
-  Chupa ke roti hai bacchon se phasliyan zahra
-  Ali ko dekh ke leti hai siskiyan zahra
-  Giraya jis ghadi zaalim ne dar ko pehlu par
-  Pukarti rahi fizza ko naagahan zahra
+  Ke aise haal meiṅ zainab na dekh le fizza
+  Chupa ke roti hai bacchoṅ se phasliyaṅ zahra
+  Ali ko dekh ke leti hai siskiyaṅ zahra
+  Giraya jis ghari zaalim ne dar ko pehlu par
+  Pukarti rahi fizza ko naagahaṅ zahra
   Chupa ke roti hai...
   Har ek saans pe phasli ko thaam leti hai
   Ali bhi dekh ke kehte hai al-amaan zahra
   Chupa ke roti hai...
-  Jigar ke tukde huwe jaa rahe thay bibi ke
-  Sanad ke tukde uthaana tha imtehan zahra
+  Jigar ke tukre huwe jaa rahe the bibi ke
+  Sanad ke tukre uthaana tha imtehaṅ zahra
   Chupa ke roti hai...
-  Utha ke tukde sanad ke larazte haathon se
-  Bataun kaise chali jaanib e makaan zahra
+  Utha ke tukre sanad ke larazte haathoṅ se
+  Batauṅ kaise chali jaanib-e-makaaṅ zahra
   Chupa ke roti hai...
   Na jaane kaun sa ummat ne zulm dhaaya hai
-  Zaeef ho gayi ek din mein naujawan zahra
+  Zaif ho gayi ek din meiṅ naujawaṅ zahra
   Chupa ke roti hai...
-  Na maa ke rone ki awaaz betiyan sunle
-  Sisak ke leti rahi haye hichkiyan zahra
+  Na maa ke rone ki awaaz betiyaṅ sunle
+  Sisak ke leti rahi haye hichkiyaṅ zahra
   Chupa ke roti hai...
-  Alaida hoti nahi pal ko betiyan maa se
+  Alaida hoti nahi pal ko betiyaṅ maa se
   Ke phir milegi ye aaghosh aur na maa zahra
   Chupa ke roti hai...
   Wo apni daadi ke qatil se khud nimat lega
-  Pisar jo aap ka aayega gyarwan zahra
+  Pisar jo aap ka aayega gyarwaṅ zahra
   Chupa ke roti hai...
-  Uthega maa ka jo saaya to aasim o rizwan
-  Bohat satayega hasnain ko jahan zahra
+  Uthega maa ka jo saaya to aasim o rizwaṅ
+  Bohat satayega hasnain ko jahaṅ zahra
   Chupa ke roti hai...
 # source_id: nohayonline:6a5955059905e84a60f1
 # source_url: https://www.nohayonline.com/details_content.php?id=3276

@@ -14,65 +14,65 @@ romanLyrics: |-
 
   1
   Ya zahra masooma masooma masooma
-  Ay bibi tum jaisi dekhi nahi mazlooma
+  Ae bibi tum jaisi dekhi nahi mazlooma
   Gham koi aisa ho jo tum ne nahi dekha
   Ummat ke taane bhi faaqe bhi sahe tum ne
   Baba ki furqat mein din raat kiya nauha
-  Sadmon se bhara har din hai tera
+  Sadmoṅ se bhara har din hai tera
   Dil kehne laga ya zahra
 
   2
-  Pehle to zaalim ne jageer teri cheeni
-  Maani na logon ne tehreer mohamed ki
-  Tujhko bi jhutlaya beton ko bhi jhutlaya
+  Pehle to zaalim ne jagir teri chini
+  Maani na logoṅ ne tehrir mohamed ki
+  Tujhko bi jhutlaya betoṅ ko bhi jhutlaya
   Moo dhaampe chadar se tu roti rahi bibi
   Par kis ne suna wo nauha tera
   Ye bhi hai jafa ya zahra
 
   3
-  Baad iske logon ne jab ghar ko tere ghera
-  Bachon ko dhamkaya ek shor hua barpa
-  Talwarein naize thay aur mashale haathon mein
-  Yun toote wo zaalim ghar phoonk diya saara
+  Baad iske logoṅ ne jab ghar ko tere ghera
+  Bachoṅ ko dhamkaya ek shor hua barpa
+  Talwareiṅ naize the aur mashale haathoṅ meiṅ
+  Yuṅ tute wo zaalim ghar phunk diya saara
   Ghar tera luta darwaza jala
-  Ye gham hai bada ya zahra
+  Ye gham hai bara ya zahra
 
   4
   Jab jalta darwaza pehlu pe gira bibi
-  Baazu bhi zakhmi thay pehlu bhi hua zakhmi
+  Baazu bhi zakhmi the pehlu bhi hua zakhmi
   Darwaze ke upar se ahle sitam guzre
-  Is tarha ay bibi ek aur jafa dekhi
+  Is tarha ae bibi ek aur jafa dekhi
   Mohsin bhi tera dunya se gaya
   Ye gham bhi saha ya zahra
 
   5
   Teri ghurbat ki qasam haye meri shehzadi
-  Tu bhi mazloom hai mazloom ali maula bhi
+  Tu bhi mazlum hai mazlum ali maula bhi
   Ek taraf tayghe ali ek taraf hukme nabi
-  Zakhmi pehlu hai tera unke galay mein rassi
+  Zakhmi pehlu hai tera unke gale meiṅ rassi
   Jab rasan baandhi gayi teri faryad suni
   Al madad sher e jali haye kya karte ali
-  Aisi to dunya mein ghurbat na kabhi dekhi
-  Aaya na mayyat mein yasrab ka makeen koi
-  Bas dono shehzade thay nauha kuna tujh par
+  Aisi to dunya meiṅ ghurbat na kabhi dekhi
+  Aaya na mayyat meiṅ yasrab ka makiṅ koi
+  Bas dono shehzade the nauha kuna tujh par
   Dafnaya maula ne jab tujhko meri bibi
-  Chalees jagah marqad tha tera
-  Kyun aisa kiya ya zahra
+  Chalis jagah marqad tha tera
+  Kiuṅ aisa kiya ya zahra
 
   6
   Waise to posheeda bibi teri turbat hai
-  Lekin jo zaahir mein marqad ki alaamat hai
-  Tareeki roti hai marqad pe tere ab tak
+  Lekin jo zaahir meiṅ marqad ki alaamat hai
+  Tariki roti hai marqad pe tere ab tak
   Rone par paabandi ye kaisi mohabbat hai
-  Yun kar ke buka ye ahle aza
+  Yuṅ kar ke buka ye ahle aza
   Royenge sada ya zahra
 
   7
-  Lafzon mein likh paaye wo zakhm koi kaise
+  Lafzoṅ meiṅ likh paaye wo zakhm koi kaise
   Ummat se jo tum ne hai baade nabi khaaye
   Royenge ta mehshar ye ahle aza bibi
   Mesum bhi mazhar bhi royenge yehi keh ke
-  Aankhon ki aza matam ki fiza
+  Aankhoṅ ki aza matam ki fiza
   Ye haq hai tera ya zahra
 # source_id: nohayonline:740bc45a2b332fdb3a1d
 # source_url: https://www.nohayonline.com/details_content.php?id=3169

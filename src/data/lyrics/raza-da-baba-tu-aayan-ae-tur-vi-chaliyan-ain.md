@@ -8,52 +8,52 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Raza da baba tu aayan aey tur wi chalyan aey
-  Dasa cha Mola kadoon teek hun judaiyan nay
+  Raza da baba tu aayaṅ ae tur wi chalyaṅ aey
+  Dasa cha Mola kaduṅ tik hun judaiyaṅ nay
 
   1
-  Athaween eidaan guzar gaiyan intezaran wich
-  O dekh rowndiyan dhiyaan diyan duhaiyan nay
+  Athawiṅ eidaaṅ guzar gaiyaṅ intezaraṅ wich
+  O dekh rowndiyaṅ dhiyaaṅ diyaṅ duhaiyaṅ nay
 
   2
-  Ditha hay khaab tusan day may aaon toon pehlaan
-  Mukaan nanay koon dainday may ambiya dekhay
+  Ditha hai khaab tusaṅ de may aaon tuṅ pehlaaṅ
+  Mukaan nane kuṅ dainde may ambiya dekhe
   Habib Hur te Abuzar Hilal Qambar vi
-  Teray mazar te ronday may bil qaza dekhay
-  Sunay nay baqaya wichon vain dadi Zehra day
-  Siran che paiyan ne khaakan Batool jaiyan ne
+  Tere mazar te ronde may bil qaza dekhe
+  Sune nay baqaya wichoṅ vain dadi Zehra de
+  Siraṅ che paiyaṅ ne khaakaṅ Batul jaiyaṅ ne
 
   3
-  Ghareeb dhiyan ne ro ro ke piyo toon puchya aey
-  Hathan koon baba tu chadar ch kyun lukaya aey
-  Inhan hathan da jay saya naseeb naeen saa koon
-  Khuda toon baad saday sir te kainda saaya aey
-  Tu chauda saal pichon aayan aj wi qaidi ain
-  Dasa cha baba aey zanjeeran kain pawaiyan nain
+  Gharib dhiyaṅ ne ro ro ke piyo tuṅ puchya ae
+  Hathaṅ kuṅ baba tu chadar ch kiuṅ lukaya ae
+  Inhaṅ hathaṅ da je saya nasib naiṅ saa koon
+  Khuda toon baad sade sir te kainda saaya ae
+  Tu chauda saal pichoṅ aayan aj wi qaidi ain
+  Dasa cha baba ae zanjiraṅ kaiṅ pawaiyaṅ naiṅ
 
   4
-  May kiya dasawan taqaza aey ain fitrat da
-  Aey piyo te dhiyan da rishta ajeeb honda hay
-  Puttar te honday ne bunyad baap daday di
-  Dhiyan da jag te anokha naseeb honda hay
-  Samajh gayan ke mulaqaat aj akheeri hay
-  Siran te johokhan yateemi ne aa basaiyan nay
+  May kiya dasawaṅ taqaza aey ain fitrat da
+  Ae piyo te dhiyaṅ da rishta ajib honda hay
+  Puttar te honde ne bunyad baap dade di
+  Dhiyaṅ da jag te anokha nasib honda hay
+  Samajh gayaṅ ke mulaqaat aj akhiri hay
+  Siraṅ te johokhaṅ yatimi ne aa basaiyan ne
 
   5
-  Toon baad muddatan de aaya aey chorr chalya aey
-  Dasa ke javain kairray dais hun tayyari aey
+  Tuṅ baad muddataṅ de aaya aey chorr chalya aey
+  Dasa ke javaiṅ kairre dais hun tayyari ae
   Tu hi hain laal sakhi laal Mola Jafer da
-  Barri baichain asaan zindagi guzari aey
-  Koyi te haal dasa kyun khamosh hain Maula
-  Kerray diton ni ajan honiyan rehaiyan nay
+  Barri baichain asaaṅ zindagi guzari ae
+  Koyi te haal dasa kiuṅ khamosh haiṅ Maula
+  Kerre ditoṅ ni ajaṅ honiyaṅ rehaiyaṅ nay
 
   6
-  Milay rehai ukoon sadqa Moosa Kazim da
-  Koi wi qaid azadar jo tera howay
-  Mila day sadqa maidi sain di judai da
-  Vicharr gaya je kisay bhain da bhira howay
-  O bibiyan diyan Ghazi tu jholian bhar day
-  Jinaan jinaan ne teray dar te aasan laiyan nay
+  Mile rehai ukuṅ sadqa Musa Kazim da
+  Koi wi qaid azadar jo tera howe
+  Mila de sadqa maidi sain di judai da
+  Vicharr gaya je kise bhain da bhira howe
+  O bibiyaṅ diyaṅ Ghazi tu jholiaṅ bhar de
+  Jinaaṅ jinaaṅ ne tere dar te aasaṅ laiyaṅ ne
 # source_id: ziyaraat:2e92b1c21c448db7c18e
 # source_url: https://www.ziyaraat.net/api/noha/1842
 # raw_sha256: 9c0c7beb05b88272cf11f5141fc50d1bbcafd7044616b7c90a371bfdf4e6233a

@@ -1,6 +1,6 @@
 ---
 title: "حسب نسب میں ہوں لاثانی"
-alternateTitle: "Haan Mai Abbas Hoo"
+alternateTitle: "Haaṅ Mai Abbas Hoo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,83 +11,83 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hasab nasab mein hoon la saani
+  Hasab nasab meiṅ huṅ la saani
   Mashk o alam hai meri nishani
-  Hai mere shaano mein bhi quwwate yazdani
-  Agar karun darya ko ishara
-  Qaimon mein aa jaaye wo saara
-  Mere isharon par chalta hai darya ka pani
+  Hai mere shaano meiṅ bhi quwwate yazdani
+  Agar karuṅ darya ko ishara
+  Qaimon meiṅ aa jaaye wo saara
+  Mere isharoṅ par chalta hai darya ka pani
   Lo jaan lo mujhko pehchan lo mujhko
-  Haan mai abbas hoon abbas
+  Haaṅ mai abbas huṅ abbas
   Ayyohan naas ayyohan naas
-  Haan mai abbas hoon
-  Haan mai abbas
+  Haaṅ mai abbas huṅ
+  Haaṅ mai abbas
   Sun lo ye ta’aruf mera
-  Mai beta hoon hyder ka
+  Mai beta huṅ hyder ka
   Saqqa e sakina mujhko
   Kehti hai ye saari dunya
-  Mai baazu e sarwar hoon
-  Ghairat ka samandar hoon
-  Khud zaat mein lashkar hoon
+  Mai baazu e sarwar huṅ
+  Ghairat ka samandar huṅ
+  Khud zaat meiṅ lashkar huṅ
   Ayyohan naas ayyohan naas
-  Haan mai abbas hoon...
-  Jab ghaiz mein waar karunga
+  Haaṅ mai abbas huṅ...
+  Jab ghaiz meiṅ waar karunga
   Aisi yalghaar karunga
-  Ek laash ke do do tukde
+  Ek laash ke do do tukre
   Phir do ke chaar karunga
   Mohlat hai sambhal jao
   Kasrat pe na itrao
   Mat sher se takrao
-  Salar hoon jarrar hoon jeedaar hoon mai
-  Haan mai abbas hoon abbas
-  Maine jo khat khaynch diya hai paar karun to jaanun
-  Mujhse aa kar aankh milao phir mai tum ko maanun
-  Sabaq wohi siffeen ka tum ko phir se yaad dilaun
-  Palat ke dharti ulat ke darya tum ko ghaiz dikhaun
+  Salar huṅ jarrar huṅ jeedaar huṅ mai
+  Haaṅ mai abbas huṅ abbas
+  Maiṅ ne jo khat khaynch diya hai paar karuṅ to jaanuṅ
+  Mujhse aa kar aankh milao phir mai tum ko maanuṅ
+  Sabaq wohi siffin ka tum ko phir se yaad dilauṅ
+  Palat ke dharti ulat ke darya tum ko ghaiz dikhauṅ
   Ye taygh ye khanjar kya hai
   Bas dekh lo tewar kya hai
-  Pairon se masal doon dharti
+  Pairoṅ se masal duṅ dharti
   Nau laakh ka lashkar kya hai
-  Sar tan se uda dunga
-  Mitti mein mila dunga
+  Sar tan se ura dunga
+  Mitti meiṅ mila dunga
   Ek hashr macha dunga
   Ayyohan naas ayyohan naas
-  Haan mai abbas hoon...
-  Mai cheen ke tum se darya
+  Haaṅ mai abbas huṅ...
+  Mai chin ke tum se darya
   Bhar loonga abhi mashkeeza
   Tum dekhte reh jaoge
   Na rok sakoge rasta
-  Jo keh doon wo karta hoon
-  Kab maut se mai darta hoon
-  Har baar yehi kehta hoon
+  Jo keh duṅ wo karta huṅ
+  Kab maut se mai darta huṅ
+  Har baar yehi kehta huṅ
   Ayyohan naas ayyohan naas
-  Haan mai abbas hoon...
-  Jab mashk chidi pyason ki
+  Haaṅ mai abbas huṅ...
+  Jab mashk chidi pyasoṅ ki
   Aur beh gaya saara pani
   Ghazi ne kata ke baazu
-  Tareekh wafa ki likh di
+  Tarikh wafa ki likh di
   Shabbir jo laashe par
   Pahunche to suna aakar
-  Jumle thay yehi lab par
-  Haan mai abbas hoon...
-  Ek aankh mein teer laga tha
+  Jumle the yehi lab par
+  Haaṅ mai abbas huṅ...
+  Ek aankh meiṅ tir laga tha
   Shabbir ne jab wo nikala
   Zaanu pe rakha jab sar ko
   Ghazi ne kiya ye nauha
-  Aankhon mein sakina ka
+  Aankhoṅ meiṅ sakina ka
   Chehra hai mere aaqa
   Ab kaise ye bolunga
   Ayyohan naas ayyohan naas
-  Haan mai abbas hoon...
+  Haaṅ mai abbas huṅ...
   Wo sher wafa ka paikar
   Jab qatl hua darya par
-  Karti thi tadap kar zainab
-  Ye bain hi meesum o mazhar
+  Karti thi tarap kar zainab
+  Ye bain hi misum o mazhar
   Ho jaungi jab tanha
-  Tab khoon rulayega
-  Ay bhai tera kehna
+  Tab khun rulayega
+  Ae bhai tera kehna
   Ayyohan naas ayyohan naas
-  Haan mai abbas hoon...
+  Haaṅ mai abbas huṅ...
 # source_id: nohayonline:1e964888276d674f47d6
 # source_url: https://www.nohayonline.com/details_content.php?id=3647
 # raw_sha256: f3301e5c94924144721697270525ef8eaec895d56bf55c171cf37eb1beb33ce4

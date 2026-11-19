@@ -29,8 +29,8 @@ romanLyrics: |-
   Husain Husain Husain Husain
 
   2
-  Begor-o-kafan laashe haiṅ pare
-  Kya khurd-o-kalaan kya chhote bare
+  Begor o kafan laashe haiṅ pare
+  Kya khurd o kalaaṅ kya chhote bare
   Hue tir hazaaroṅ dil ke paar
   Karb o Bala meiṅ hai ye pukaar
   Husain Husain Husain Husain

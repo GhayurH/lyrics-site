@@ -12,54 +12,54 @@ published: false
 # source_url: https://www.ziyaraat.net/api/noha/226
 # raw_sha256: dd3fa5e17bb3e5ef4113478668724cc0d19d65d86611374896ed3e695bbb93fd
 romanLyrics: |-
-  Labon se nikal kar azan ro rahi hai
+  Laboṅ se nikal kar azaṅ ro rahi hai
 
   Musalle pe akbar ki maa ro rahi hai
 
   1
   Dua hai yehi ghamzada maa ke lab par
   Khudaya salamat rahe mera akbar
-  Wo le le ke bas hichkiyan ro rahi hai
+  Wo le le ke bas hichkiyaṅ ro rahi hai
 
   2
-  Kabhi khaak par baith kar reh guzar mein
-  Judaai mein akbar ki veraan ghar mein
-  Behan ghamzada neem jaan ro rahi hai
+  Kabhi khaak par baith kar reh guzar meiṅ
+  Judaai meiṅ akbar ki veraan ghar meiṅ
+  Behan ghamzada nim jaaṅ ro rahi hai
 
   3
   Tarapti hai sughra chale aao bhaiya
-  Kahin mar na jaye judaai mein sughra
-  Wo bemaar aur natawan ro rahi hai
+  Kahiṅ mar na jaye judaai meiṅ sughra
+  Wo bemaar aur natawaṅ ro rahi hai
 
   4
-  Abhi to gaya hi nahi ran mein akbar
-  Abhi dil hai akbar ka seene ke andar
+  Abhi to gaya hi nahi ran meiṅ akbar
+  Abhi dil hai akbar ka sine ke andar
   Magar phir bhi noke sina ro rahi hai
 
   5
-  Wahan par madine mein roti hai sughra
-  Yahan par sakina ke lab par hai nauha
-  Behen ek yahan ek wahan ro rahi hai
+  Wahaṅ par madine meiṅ roti hai sughra
+  Yahaṅ par sakina ke lab par hai nauha
+  Behen ek yahaṅ ek wahaṅ ro rahi hai
 
   6
-  Dua kar rahi hai ye karbal mein laila
+  Dua kar rahi hai ye karbal meiṅ laila
   Na maut aaye akbar ko mere khudaya
-  Jawani ye sun kar bayan ro rahi hai
+  Jawani ye sun kar bayaṅ ro rahi hai
 
   7
-  Ay naazon ke paale zara sa teher jaa
+  Ae naazoṅ ke paale zara sa teher jaa
   Ke zainab sajaale tere sar pe sehra
   Ke aun o mohamed ki maa ro rahi hai
 
   8
   Nabi dekhte hai falak se ye manzar
-  Safon mein khare sab namazi hai muztar
-  Imamat liye hichkiyan ro rahi hai
+  Safoṅ meiṅ khare sab namazi hai muztar
+  Imamat liye hichkiyaṅ ro rahi hai
 
   9
-  Madine mein akbar jahan se chale hai
-  Zameen pe qadam ke nishan wo pade hai
-  Behen dekh kar kuch nishan ro rahi hai
+  Madine meiṅ akbar jahaṅ se chale hai
+  Zamiṅ pe qadam ke nishaṅ wo pare hai
+  Behen dekh kar kuch nishaṅ ro rahi hai
 ---
 
 لبوں سے نکل کر اذاں رو رہی ہے

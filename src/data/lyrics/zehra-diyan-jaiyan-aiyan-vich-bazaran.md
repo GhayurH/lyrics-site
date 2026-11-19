@@ -9,16 +9,16 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya hussain, ya hussain
+  Ya Husain, ya Husain
   Zehra diya jayyan ayyan wich bazaaran
 
   1
-  Haay kyun, ayya wich bazaaran
-  Ho kyun no no,
-  Ho kyun no no meel turaiyyan
+  Haay kiun, ayya wich bazaaran
+  Ho kiun no no,
+  Ho kiun no no meel turaiyyan
 
   2
-  Haay kyun, ayya wich bazaaran
+  Haay kiun, ayya wich bazaaran
   1) No milandhi manzal rehgayi
   Zehra jayi uth to leh gayi
   Ro payya rat puttar de akhiyan

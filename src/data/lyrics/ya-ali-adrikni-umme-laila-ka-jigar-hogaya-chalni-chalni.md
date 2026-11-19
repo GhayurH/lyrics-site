@@ -13,37 +13,37 @@ romanLyrics: |-
 
   1
   Umme laila ka jigar hogaya chalni chalni
-  Dekhiye seena e akbar may hai barchi ki ani
+  Dekhiye seena-e-akbar may hai barchi ki ani
 
   2
-  Dekhiye dekhiye dam toot raha hai kis ka
+  Dekhiye dekhiye dam tut raha hai kis ka
   Hai qayamat barpa
-  Qaima e itrate athaar may hai seena zani
+  Qaima-e-itrate athaar may hai seena zani
 
   3
   Sar jhukaye hue baithe hai sarane sarwar
-  Jaan balab hai akbar
-  Haye mazloom ki kaisi hai ghareeb ul watani
+  Jaaṅ balab hai akbar
+  Haye mazlum ki kaisi hai gharib ul watani
 
   4
-  Qaima e shaah may ghul hota ha innalilaah
-  Dam e aakhir hai aah
-  Hichkiyan leta hai hamshakle rasool e madani
+  Qaima-e-shaah may ghul hota ha innalilaah
+  Dam-e-aakhir hai aah
+  Hichkiyaṅ leta hai hamshakle rasul-e-madani
 
   5
   Khaak may milti hai akbar ki jawani maula
   Keh rahi hai fizza
-  Mil gaya khaak may shabbir ka sar be chamani
+  Mil gaya khaak may shabbir ka sar bechamani
 
   6
   Laashe akbar pe ajab maadare akbar ka hai haal
   Haal se hai behaal
-  Rote rote wo kahin jaan na dede apni
+  Rote rote wo kahiṅ jaan na dede apni
 
   7
-  Ye zaeefi ye jawan laal ki mayyat maula
+  Ye zaifi ye jawaaṅ laal ki mayyat maula
   Kaise uthegi bhala
-  Aao imdad ko az behre rasool e madani
+  Aao imdad ko az behre rasul-e-madani
 # source_id: nohayonline:92bc025db0724c7946f5
 # source_url: https://www.nohayonline.com/details_content.php?id=511
 # raw_sha256: beb0b2b09cc3ef56980827762e197fbe6a89470b037e08978a8257f5153f161d

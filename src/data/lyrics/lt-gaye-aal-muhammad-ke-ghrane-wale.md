@@ -9,43 +9,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Lut gaye aal e Muhammad ke gharanay walay
-  Tarsay pani ko jo Kausar ke lutanay walay
+  Lut gaye aal-e-Muhammad ke gharane wale
+  Tarse pani ko jo Kausar ke lutane wale
 
   1
-  Ho gayi sham unhain Shaam ke bazaroon may
-  Aik beemar ko lakon hain satanay walay
+  Ho gayi sham unhaiṅ Shaam ke bazaruṅ may
+  Aik bimar ko lakoṅ haiṅ satane wale
 
   2
-  Zahra kehti bakshwa doon gi unhain mehshar may
-  Jo meray laal pe ansoo hain bahanay walay
+  Zahra kehti bakshwa duṅ gi unhaiṅ mehshar may
+  Jo mere laal pe ansu haiṅ bahane wale
 
   3
-  Pani tak tu ne maanga meray mazloom Hussain
-  Tegh o khanjar se pyas apni bujhanay walay
+  Pani tak tu ne maanga mere mazlum Husain
+  Tegh o khanjar se pyas apni bujhane wale
 
   4
-  Boli Zainab jo giri khaak pe tasweer e Rasool
-  Chal basay yaad bhi nana ki dilanay walay
+  Boli Zainab jo giri khaak pe taswir-e-Rasul
+  Chal base yaad bhi nana ki dilane wale
 
   5
-  Ro ke kehti thi Sakina meray chacha ho kahan
-  Loat kar aaye nahi pani pilanay walay
+  Ro ke kehti thi Sakina mere chacha ho kahaṅ
+  Loat kar aaye nahi pani pilane wale
 
   6
-  Boli Fizza na inhain maro zara sharm karo
-  Ye to nabiyon ki bhi hain shaan barrhanay walay
+  Boli Fizza na inhaiṅ maro zara sharm karo
+  Ye to nabiyoṅ ki bhi haiṅ shaan barrhane wale
 
   7
-  Teer besheer ko kehtay huay roya Kausar
-  Kyun huay zibha zuban khusk phiranay walay
+  Tir besheer ko kehte hue roya Kausar
+  Kiuṅ hue zibha zubaṅ khusk phirane wale
   8
   Azm-e-Shabbir Ko Dekha To Pukar Uthe Khalil
   Marhaba Laasha-e-Akbar Ko Uthane Waale
 
   9
-  Hurr Ki Taqdeer Ko Ek Pal Mein Badal Dete Hain
-  Aise Hote Hain Muhammad Ke Gharane Waale
+  Hurr Ki Taqdir Ko Ek Pal Meiṅ Badal Dete Haiṅ
+  Aise Hote Haiṅ Muhammad Ke Gharane Waale
 # source_id: ziyaraat:a36eefce923457dd2fd5
 # source_url: https://www.ziyaraat.net/api/noha/1924
 # raw_sha256: d6ff659ac1a2e5455bdfc766bdbf36a944691c19ade7edcbf396f0fb834eaad3

@@ -10,39 +10,39 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jo bhi masroof-e-salam-e-shuhada rehta hai
+  Jo bhi masruf-e-salam-e-shuhada rehta hai
   Go woh rehta nahi par naam sada rehta hai
 
   1
   Ae falak baad-e-fana kate gaye dast-e-Husain
-  Ik na ik zulm tere ghar mein naya rehta hai
+  Ik na ik zulm tere ghar meiṅ naya rehta hai
 
   2
-  Shimr kehta tha yehi maa hay Ali Akbar ki
-  Jis ka ik hath kalejay pe dhara rehta hay
+  Shimr kehta tha yehi maa hai Ali Akbar ki
+  Jis ka ik hath kaleje pe dhara rehta hai
 
   3
-  Hay yeh sharmindagi pani ke na pohchanay ki
-  Naizay pe bhi sar e Abbas jhuka rehta hain
+  Hai yeh sharmindagi pani ke na pohchane ki
+  Naize pe bhi sar-e-Abbas jhuka rehta haiṅ
 
   4
-  Shaam hoti hay to unthon se utartay hain haram
-  Par sar e Shah to naizay pe charrha rehta hay
+  Shaam hoti hai to unthoṅ se utarte haiṅ haram
+  Par sar-e-Shah to naize pe charrha rehta hai
 
   5
   Aan ke Hind ki beti ne Sakina se kaha
-  Sar tera kis liye har waqt khula rehta hay
+  Sar tera kis liye har waqt khula rehta hai
 
   6
-  Woh lagi kehnay ke yateemo ki nishani hay yehi
-  Kurta be warsi bachon ka phata rehta hay
+  Woh lagi kehne ke yateemo ki nishani hai yehi
+  Kurta bewarsi bachoṅ ka phata rehta hai
 
   7
-  Baap mara gaya bhai moye zindan mein phansi
-  Is musibat mein bhala hosh baja rehta hai
+  Baap mara gaya bhai moye zindaṅ meiṅ phansi
+  Is musibat meiṅ bhala hosh baja rehta hai
 
   8
-  Tawaf-e-Kaaba ka tujhe shauq hai az bas ke Dabeer
+  Tawaf-e-Kaaba ka tujhe shauq hai az bas ke Dabir
   Muztarib dil sifat-e-qibla numa rehta hai
 # source_id: ziyaraat:088e9618acec5b9b8f2a
 # source_url: https://www.ziyaraat.net/api/noha/2241

@@ -11,72 +11,72 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kuch aise lade jang mein zainab ke dulhare
-  Maidan se udoo bhaage sabhi khauf ke maare
-  Ghul tha ke ran aisa kabhi padte nahi dekha
-  Bachon ko is andaaz se ladte nahi dekha
-  Badte thay kabhi gaah sarak jaate thay abbas
-  Jab waar wo karte thay to ye farmate thay abbas
-  Jeete raho aun o mohamed
-  Taygh zameen ka hunar tum hi dikhate raho
-  Khoon se talwaar ki pyaas bhujate raho
+  Kuch aise lare jang meiṅ zainab ke dulhare
+  Maidaṅ se udu bhaage sabhi khauf ke maare
+  Ghul tha ke ran aisa kabhi parte nahi dekha
+  Bachoṅ ko is andaaz se larte nahi dekha
+  Barte the kabhi gaah sarak jaate the abbas
+  Jab waar wo karte the to ye farmate the abbas
+  Jite raho aun o mohamed
+  Taygh zamiṅ ka hunar tum hi dikhate raho
+  Khun se talwaar ki pyaas bhujate raho
   Dushmane shabbir ki hasti mitaate raho
-  Hyderi jaah o hasham aur badhate raho
-  Aise lado phir hi kahe faateh e khyber
-  Jeete raho aun o mohamed...
+  Hyderi jaah o hasham aur barhate raho
+  Aise laro phir hi kahe faateh e khyber
+  Jite raho aun o mohamed...
   Aise chale taygh ab dasht o daman kaat de
   Waar karo sar pe tum kar wo badan kaat de
-  Marhab o antar ke dil zer e kafan kaat de
+  Marhab o antar ke dil zer-e-kafan kaat de
   Nehr ki har mauj ko tashna dahan kaat de
-  Jhoom ke khud taygh e ali bole muqarrar
-  Jeete raho aun o mohamed...
-  Qalb mein jaa kar lado lashkare kuffaar ke
+  Jhum ke khud taygh-e-ali bole muqarrar
+  Jite raho aun o mohamed...
+  Qalb meiṅ jaa kar laro lashkare kuffaar ke
   Chehre pe tewar rakho jafar e tayyar ke
-  Zarb mein andaaz ho hyder e karrar ke
-  Jaag uthay dasht se ahle sitam haar ke
+  Zarb meiṅ andaaz ho hyder e karrar ke
+  Jaag uthe dasht se ahle sitam haar ke
   Aaye baqiyya se sada dosh e hawa par
-  Jeete raho aun o mohamed...
+  Jite raho aun o mohamed...
   Saaye se talwaar ke maut bhi bach kar chale
-  Ek qadam aage na peeche ye lashkar chale
-  Charon taraf dasht mein maut ka manzar chale
+  Ek qadam aage na piche ye lashkar chale
+  Charoṅ taraf dasht meiṅ maut ka manzar chale
   Maut kahe kaam kya dono jari gar chale
-  Mere hunar tum ne dikhaye hai yahan par
-  Jeete raho aun o mohamed...
-  Har baar sada dete thay ay gaysuon waalon
+  Mere hunar tum ne dikhaye hai yahaṅ par
+  Jite raho aun o mohamed...
+  Har baar sada dete the ae gaysuoṅ waaloṅ
   Kya kehna hai phir bad ke wohi haat nikalo
-  Rahwaar badhe jaate hai baaghon ko sambhalo
-  Halqa hai kadi aankh zira poshon pe daalo
-  In haathon ke bose ke liye aaye payambar
-  Qasim bhi kahe mai bhi kahun aur ali akbar
-  Jeete raho aun o mohamed...
-  Aun ye kehne lage khoob mohamed lade
-  Goya mohamed huwe aun bhi behad lade
-  Maut ko bhi dasht mein karte huwe rad lade
-  Dono lade is tarha jaise abb o jadh lade
+  Rahwaar barhe jaate hai baaghoṅ ko sambhalo
+  Halqa hai kari aankh zira poshoṅ pe daalo
+  In haathoṅ ke bose ke liye aaye payambar
+  Qasim bhi kahe mai bhi kahuṅ aur ali akbar
+  Jite raho aun o mohamed...
+  Aun ye kehne lage khub mohamed lare
+  Goya mohamed huwe aun bhi behad lare
+  Maut ko bhi dasht meiṅ karte huwe rad lare
+  Dono lare is tarha jaise abb o jadh lare
   Maa bhi dar e qaima pe kehne lagi ro kar
-  Jeete raho aun o mohamed...
-  Ladte huwe nehr par aagaye al mukhtasar
-  Narghae aada mein phir ghir gaye dono pisar
-  Teer kahin se chale aur kahin se tabar
+  Jite raho aun o mohamed...
+  Larte huwe nehr par aagaye al mukhtasar
+  Narghae aada meiṅ phir ghir gaye dono pisar
+  Tir kahiṅ se chale aur kahiṅ se tabar
   Shaah ko awaaz di girte huwe khaak par
   Pahunche shahe karbobala tha yehi lab par
-  Jeete raho aun o mohamed...
-  Aa gaye abbas ki ankhon mein ashke aza
-  Jeet gaye pyaas se nehr pe wo mehlaqa
-  Nargha e aada mein bhi dono ko ye yaad tha
+  Jite raho aun o mohamed...
+  Aa gaye abbas ki ankhoṅ meiṅ ashke aza
+  Jit gaye pyaas se nehr pe wo mehlaqa
+  Nargha e aada meiṅ bhi dono ko ye yaad tha
   Maa ki nasihat pe hi ho gaye dono fida
-  Shukr ke sajde mein giri maadar e muztar
-  Jeete raho aun o mohamed...
-  Dono ko maidan se qaime mein laaye hussain
-  Halqa kiye laashon ka karne lage sab hi bain
+  Shukr ke sajde meiṅ giri maadar-e-muztar
+  Jite raho aun o mohamed...
+  Dono ko maidan se qaime meiṅ laaye Husain
+  Halqa kiye laashoṅ ka karne lage sab hi bain
   Fizza ne awaaz di binte shahe mashraqain
-  Shaah pe sadqe huwe dekh tere noor e ain
+  Shaah pe sadqe huwe dekh tere nur-e-ain
   Zainab e muztar ne kaha shaane hila kar
-  Jeete raho aun o mohamed...
-  Kya hashr tha qaime mein bapa mazhar o irfan
-  Shabbir jo laashon pe huwe chaak girebaan
-  Laashon se mukhatib yun hui zainab e zeeshan
-  Tum bhai pe qurban huwe tujpe mai qurban
+  Jite raho aun o mohamed...
+  Kya hashr tha qaime meiṅ bapa mazhar o irfan
+  Shabbir jo laashoṅ pe huwe chaak girebaaṅ
+  Laashoṅ se mukhatib yuṅ hui zainab-e-zishan
+  Tum bhai pe qurbaṅ huwe tujpe mai qurbaṅ
   Jo keh ke chale ghar se wohi kar ke dikhaya
   Ab qadr hui maa ko bada faqr hai tum par
   Jeete raho aun o mohamed...

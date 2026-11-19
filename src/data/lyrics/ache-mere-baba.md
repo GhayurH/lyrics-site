@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zindan ke andhere mein ek bachi roti hai
+  Zindaṅ ke andhere meiṅ ek bachi roti hai
   Wo bachi ro ro kar faryad ye karti hai
   Ache mere baba pyare mere ammu
-  Sunli jo meri faryad o fughan
-  Aa jaaye dilaane mujhko amaan
-  Is qaid mein jo hai haal mera
-  Ho sakta nahi kuch uska bayan
+  Sunli jo meri faryad o fughaṅ
+  Aa jaaye dilaane mujhko amaaṅ
+  Is qaid meiṅ jo hai haal mera
+  Ho sakta nahi kuch uska bayaṅ
   Ache mere baba...
   Kab laut ke hum ghar jayenge
-  Zindan se rehaayi payenge
-  Gar lene na aaye aap hamein
+  Zindaṅ se rehaayi payenge
+  Gar lene na aaye aap hameiṅ
   Hum ghut ghut ke mar jayenge
   Ache mere baba...
   Lilaah karam kuch farmeine
-  Lilaah yahan se le jaaye
+  Lilaah yahaṅ se le jaaye
   Ehsaan kare hum pe aa kar
   Surat to khudara dikhlaye
   Ache mere baba...
-  Jis qaid mein humko rakha gaya
-  Ehwaal bada wo tha uska
+  Jis qaid meiṅ humko rakha gaya
+  Ehwaal bara wo tha uska
   Qaidi ke bhi rehne ke khaabil
-  Wo qaid nahi hai ay baba
+  Wo qaid nahi hai ae baba
   Ache mere baba...
-  Ek lamha sukoon milta hi nahi
+  Ek lamha sukuṅ milta hi nahi
   Zindan ka dar khulta hi nahi
   Kab din guzre kab raat hui
   Kuch iska pata chalta hi nahi
   Ache mere baba...
-  Darr lagta hai is veerane mein
-  Tauqeer na kije aane mein
+  Darr lagta hai is veerane meiṅ
+  Tauqir na kije aane meiṅ
   Kya zulm na hote hum par
-  Is haam ke qaid khaane mein
+  Is haam ke qaid khaane meiṅ
   Ache mere baba...
-  Taskeen dilaane aate nahi
-  Kyun humko bachane aate nahi
-  Bas itna batade kyun humko
+  Taskin dilaane aate nahi
+  Kiuṅ humko bachane aate nahi
+  Bas itna batade kiuṅ humko
   Azaad karane aate nahi
   Ache mere baba...
   Ye qaid e sitam ye qaid e bala
-  Hum rehte hai jis mein wawaila
-  Ye maskan e insan ho kaise
-  Is mein hai basera zulmat ka
+  Hum rehte hai jis meiṅ wawaila
+  Ye maskan e insaṅ ho kaise
+  Is meiṅ hai basera zulmat ka
   Ache mere baba...
-  Kyun sunte nahi hai aah o fughan
-  Faryad kare kis se be-jaan
+  Kiuṅ sunte nahi hai aah o fughaṅ
+  Faryad kare kis se bejaan
   Pardes hai zaalim hai dunya
-  Imdad karega kaun yahan
+  Imdad karega kaun yahaṅ
   Ache mere baba...
   Har lamha bulaati thi dukhiya
-  Har lamha ye padti thi nauha
-  Ho dayam o yazdan kaise bayan
+  Har lamha ye parti thi nauha
+  Ho dayam o yazdaṅ kaise bayaṅ
   Jis karb se wo deti thi sada
   Ache mere baba...
 # source_id: nohayonline:24dc7abd538884f1f575

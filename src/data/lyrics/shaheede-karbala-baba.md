@@ -1,6 +1,6 @@
 ---
 title: "شہید کربلا بابا"
-alternateTitle: "Shaheede Karbala Baba"
+alternateTitle: "Shahide Karbala Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,15 +9,15 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Shaheed e karbala baba
+  Shahid e karbala baba
 
   1
-  Ghareeb ul be-watan baba
+  Gharib ul bewatan baba
   Bayan karti thi ye sughra
   Mere be kafan baba
-  Hassan ko zehr pilwaya
-  Tumhe tayghon se katwaya
-  Mitaya rafta rafta yun
+  Hasan ko zehr pilwaya
+  Tumhe tayghoṅ se katwaya
+  Mitaya rafta rafta yuṅ
   Nishan e panjetan baba
 
   2

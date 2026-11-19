@@ -8,32 +8,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sajday may maar dala damad Mustafa ka
-  Ummat ne kar diya hay,  haey waar yun qaza ka
+  Sajde may maar dala damad Mustafa ka
+  Ummat ne kar diya hai,  hae waar yuṅ qaza ka
 
   1
-  Pardes may yateemi Zainab pe cha gayi hay
-  Haey qatl ho gaya hay,  sartaj Fatima ka
+  Pardes may yatimi Zainab pe cha gayi hai
+  Hae qatl ho gaya hai,  sartaj Fatima ka
 
   2
-  Haider ki betiyon pe haey toot gayi qayamat
-  Dhaya hay kalma go ne,  aisa sitam jafa ka
+  Haider ki betiyoṅ pe hae tut gayi qayamat
+  Dhaya hai kalma go ne,  aisa sitam jafa ka
 
   3
-  Taboot jab uthaya Hasnain ne baba ka
-  Ghar may Ali ke barpa,  hua hashr hay bala ka
+  Tabut jab uthaya Hasnain ne baba ka
+  Ghar may Ali ke barpa,  hua hashr hai bala ka
 
   4
   Arsh o farash pe us dam kohram mach gaye hain
-  Jibreel ne ailan ja,  kiya qatle Murtaza ka
+  Jibril ne ailaṅ ja,  kiya qatle Murtaza ka
 
   5
-  Haey kalma go ne us pe talwar hay chala di
+  Hae kalma go ne us pe talwar hai chala di
   Lehraya jis ne parcham,  har simt la ilah ka
 
   6
-  Us ko fiza zamana kaise mita sakay ga
-  Ke matmi asar hay,  Zainab ki ik dua ka
+  Us ko fiza zamana kaise mita sake ga
+  Ke matmi asar hai,  Zainab ki ik dua ka
 # source_id: ziyaraat:d966d0cde936aa236640
 # source_url: https://www.ziyaraat.net/api/noha/2255
 # raw_sha256: bb61e7101cbf5cc8fc50205be209a7aa768c694cc81219c63ff03ef8b9df8bde

@@ -11,49 +11,49 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Azadarane imam e hussain
+  Azadarane imam e Husain
   Ali ki sher dil beti zainabe kubra
-  Baazaron mein hussain ke baad
+  Baazaroṅ meiṅ Husain ke baad
   Dar badar phirayi gayi
   Abbas ke behan ko jab khabar mili
   Bazaar e sham aagaya
-  Bazaar e shaam ka hujoom
-  Tamashaiyon ka hujoom
+  Bazaar e shaam ka hujum
+  Tamashaiyoṅ ka hujum
   Ali ki beti ne najaf ki taraf rukh kiya
-  Be saakhta baba ali ko awaaz di
-  Baba baba aray baba
-  Hogayi berida waqt kaisa pada
+  Besaakhta baba ali ko awaaz di
+  Baba baba are baba
+  Hogayi berida waqt kaisa para
   Sar khula hai mera baba shaam aagaya
-  Kaun hai ab mera ay mere baba jaan
-  Qaid hoo be-khata baba shaam aagaya
+  Kaun hai ab mera ae mere baba jaaṅ
+  Qaid hu bekhata baba shaam aagaya
   Aap ko hai khabar kitni hairaan hoo
   Jaungi kis tarha mai pareshan hoo
-  Bheed hai har taraf aur mai nange sar
-  Aagayi be rida baba shaam agaya
+  Bhir hai har taraf aur mai nange sar
+  Aagayi berida baba shaam agaya
   Hogayi berida...
-  Be kafan bhai ko chod kar aa gayi
+  Bekafan bhai ko chor kar aa gayi
   Bhai aisa ke tha jo meri zindagi
-  Jism karbal mein hai aur naize par sar
-  Bhai ka hai chadha baba shaam agaya
+  Jism karbal meiṅ hai aur naize par sar
+  Bhai ka hai charha baba shaam agaya
   Hogayi berida...
   Kis se jaake bhala haale dil mai kahoo
   Baba imdaad ko ab sada kis ko doo
-  Qatl ran mein huwe haye sher mere
+  Qatl ran meiṅ huwe haye sher mere
   Jinka tha aasra baba shaam agaya
   Hogayi berida...
-  Dil mein hasrat thi jo poori ho na saki
+  Dil meiṅ hasrat thi jo puri ho na saki
   Shadi akbar ki kab haye zainab ne ki
-  Dil pe khaye sina mar gaya naujawan
+  Dil pe khaye sina mar gaya naujawaṅ
   Dulha ban na saka baba shaam agaya
   Hogayi berida...
   Ghairat e sayyeda mai hoo binte ali
-  Majma e aam mein aaj hoo mai khadi
-  Dekh kar be-rida kyun na bhai mera
-  Khoon roye bhala baba shaam agaya
+  Majma e aam meiṅ aaj hoo mai khari
+  Dekh kar berida kiuṅ na bhai mera
+  Khun roye bhala baba shaam agaya
   Hogayi berida...
-  Har muhibbe ali us ghadi ro diya
-  Jab ke imran ne nauha danish padha
-  Shaam mein aa gayi aap ki laadli
+  Har muhibbe ali us ghari ro diya
+  Jab ke imran ne nauha danish parha
+  Shaam meiṅ aa gayi aap ki laadli
   Do mujhe hausla baba shaam agaya
   Hogayi berida...
 # source_id: nohayonline:b1a2d01eb5c6da07c611

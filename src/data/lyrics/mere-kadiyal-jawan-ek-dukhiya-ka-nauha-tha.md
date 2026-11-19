@@ -11,7 +11,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Ek dukhiya ka nauha tha
-  Mere kadiyal jawan akbar
+  Mere kariyal jawan akbar
 
   1
   Akbar akbar akbar akbar
@@ -19,21 +19,21 @@ romanLyrics: |-
 
   2
   Akbar akbar akbar akbar
-  Lagaate haath mein mehendi
-  Rachaate dhoom se shaadi
-  Magar khoon ka bandha sehra
+  Lagaate haath meiṅ mehendi
+  Rachaate dhum se shaadi
+  Magar khuṅ ka bandha sehra
 
   3
   Akbar akbar...
   Tasavvur jab sataata hai
   Kaleja moo ko aata hai
-  Bade naazon se paala tha
+  Bare naazoṅ se paala tha
 
   4
   Akbar akbar...
-  Faqad dunya nahi chodi
-  Kamar shabbir ki todi
-  Ajal se jod kar rishta
+  Faqad dunya nahi chori
+  Kamar shabbir ki tori
+  Ajal se jor kar rishta
 
   5
   Akbar akbar...
@@ -43,26 +43,26 @@ romanLyrics: |-
 
   6
   Akbar akbar...
-  Jawani khoon mein doobi
+  Jawani khun meiṅ dubi
   Kameini lut gayi meri
-  Diya taqdeer ne dhoka
+  Diya taqdir ne dhoka
 
   7
   Akbar akbar...
   Khayaal aata hai reh reh kar
   Meri dhaaras dil e sarwar
-  Kaan laa kar tumhe khoya
+  Kaaṅ laa kar tumhe khoya
 
   8
   Akbar akbar...
-  Zaban par bas ye naale hai
-  Aseer e zulm hote hai
+  Zabaṅ par bas ye naale hai
+  Asir e zulm hote hai
   Tumhe allah ko saumpa
 
   9
   Akbar akbar...
   Tumhe pani na de paayi
-  Balayein tak na le paayi
+  Balayeiṅ tak na le paayi
   Liye jaati hoo ye sadma
 
   10
@@ -73,9 +73,9 @@ romanLyrics: |-
 
   11
   Akbar akbar...
-  Kitaabein gham ki padhte hai
+  Kitaabeiṅ gham ki parhte hai
   Saf e matam pe baithe hai
-  Labon par hai yehi nauha
+  Laboṅ par hai yehi nauha
 
   12
   Akbar akbar...

@@ -12,56 +12,56 @@ published: false
 romanLyrics: |-
   1
   Ya ali maula
-  Suna har ek ne jibreel ne pukara hai
-  Khuda ke ghar mein ali ko adoo ne maara hai
-  Har ek ali ka azadaar be sahara hai
+  Suna har ek ne jibril ne pukara hai
+  Khuda ke ghar meiṅ ali ko adu ne maara hai
+  Har ek ali ka azadaar besahara hai
   Khuda ke ghar mein...
-  Sar e ali pe lagi zehr mein bujhi shamsheer
-  Shakhi ne deen ke rehbar ki ki na kuch tauqeer
-  Yateem hogaye abbas o shabbar o shabbir
-  Yateem hogayi kulsoom zainab e dilgeer
-  Lahoo se surk hua kaisa ye musalla hai
+  Sar e ali pe lagi zehr meiṅ bujhi shamshir
+  Shakhi ne din ke rehbar ki ki na kuch tauqir
+  Yatim hogaye abbas o shabbar o shabbir
+  Yatim hogayi kulsum zainab e dilgir
+  Lahu se surk hua kaisa ye musalla hai
   Khuda ke ghar mein...
   Najaf ke simt chale jayenge ali ab to
   Palat ke aayenge ab to kabhi na kufe ko
-  Sitamgaron ki sada aayegi ke aage bado
-  Nabi ali nahi ab ahlebait ko looto
+  Sitamgaroṅ ki sada aayegi ke aage bado
+  Nabi ali nahi ab ahlebait ko luto
   Har ek qalb ne maula tumhe pukara hai
   Khuda ke ghar mein...
-  Madi ke dar pe jo peshaniya lagadte thay
-  Wo aur akdenge pehle se jo akadte thay
-  Hassan se bhi wo ladenge jo tumse ladte thay
-  Hassan se jhagdenge jo tumse bhi jhagadte thay
-  Hai aage toofan bahot door ab kanara hai
+  Madi ke dar pe jo peshaniya lagadte the
+  Wo aur akrenge pehle se jo akarte the
+  Hasan se bhi wo larenge jo tumse larte the
+  Hasan se jhagrenge jo tumse bhi jhagarte the
+  Hai aage tufan bahot dur ab kanara hai
   Khuda ke ghar mein...
-  Hussain ko bhi shakhi ghayr kar le aayenge
-  Wo bhooke pyason pe teere sitam chalayenge
+  Husain ko bhi shakhi ghayr kar le aayenge
+  Wo bhuke pyasoṅ pe tire sitam chalayenge
   Badegi baani e shar qaime bhi jalayenge
-  Haram ko ya ali be-inteha satayenge
+  Haram ko ya ali beinteha satayenge
   Sada uthegi shahe karbala ko maara hai
   Khuda ke ghar mein...
-  Nishana teer e sitam ka banega asghar bhi
-  Kaleja deen pe dega jawan akbar bhi
-  Nabi ke deen pe fida hoyenge bahattar bhi
+  Nishana tir e sitam ka banega asghar bhi
+  Kaleja din pe dega jawan akbar bhi
+  Nabi ke diṅ pe fida hoyenge bahattar bhi
   To degi apni rida murtaza ki dukhtar bhi
-  Ali rahe na jahan mein to ye nazara hai
+  Ali rahe na jahaṅ meiṅ to ye nazara hai
   Khuda ke ghar mein...
   Kata ke shaane tarayi pe soyega abbas
   Bujhayi jaa na sakegi sakina bibi ki pyaas
-  Jo bibiyon se bandhegi wo toot jayegi aas
-  Sitamgaron se bachane ko koi hoga na paas
-  Sitamgaron ka sitam kab unhe gawara hai
+  Jo bibiyoṅ se bandhegi wo tut jayegi aas
+  Sitamgaroṅ se bachane ko koi hoga na paas
+  Sitamgaroṅ ka sitam kab unhe gawara hai
   Khuda ke ghar mein...
-  Lahoo ke askhon se moo dho gaya ali maula
+  Lahu ke askhon se moo dho gaya ali maula
   Jo jaagta tha bashar so gaya ali maula
   Tumhare baad ghazab hogaya ali maula
-  Na jaane deen kahan kho gaya ali maula
-  Jo tumse bughz tha karbal mein aashkaara hai
+  Na jaane din kahaṅ kho gaya ali maula
+  Jo tumse bughz tha karbal meiṅ aashkaara hai
   Khuda ke ghar mein...
   Pidar nahi to mile unke dil ko kaise chain
-  Tadapna beton ka aur haye betiyon ka bain
+  Tarapna betoṅ ka aur haye betiyoṅ ka bain
   Janaza saaqi e kausar ka le chale hasnain
-  Hassan kaho ke chute humse shaahe badr o hunain
+  Hasan kaho ke chute humse shaahe badr o hunain
   Har ek chaahne waale ne ye pukara hai
   Khuda ke ghar mein...
 # source_id: nohayonline:b8c6d11eef3de6f4448e

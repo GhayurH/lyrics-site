@@ -16,52 +16,52 @@ romanLyrics: |-
   1
   Ali ibne abi talib ghalib alaa kulle ghalib
   Agha jaanam agha jaanam agha jaanam ya ali
-  Ishqe ali rehmatullah bughz e ali lanatullah
-  Madhosh hoon mai jaam e wilayat pee kar
-  Baitha hoon dar e ishq pe misle qambar
-  Mat chedo mujhe mai sag e hyder hoon mawali hoon
-  Abbas ke baba ka mai aashiq hoon jalaali hoon
+  Ishqe ali rehmatullah bughz-e-ali lanatullah
+  Madhosh huṅ mai jaam-e-wilayat pi kar
+  Baitha huṅ dar-e-ishq pe misle qambar
+  Mat chero mujhe mai sag e hyder huṅ mawali huṅ
+  Abbas ke baba ka mai aashiq huṅ jalaali huṅ
   Log deewana o mastana samajhte hai mujhe
-  Aur mai hazrate behlol ki danaayi hoon
+  Aur mai hazrate behlol ki danaayi huṅ
   Mera qibla hai najaf aur manzil hai ali
-  Jo dhadakta hai mere seene mein wo dil hai ali
-  Mujhko pehchanle dunya mai ali waala hoon
-  Jod kar haath mai karta hoon salaam aur kehta hoon
+  Jo dharakta hai mere sine meiṅ wo dil hai ali
+  Mujhko pehchanle dunya mai ali waala huṅ
+  Jor kar haath mai karta huṅ salaam aur kehta huṅ
   Ya ali madad hyder ya ali madad hyder
-  Ye sunnat e nabi hai kaho ya ali madad
-  Ya ali mujhko tere ishq e muqaddas ki qasam
-  Tu ne har daur mein rakha hai malango ka bharam
+  Ye sunnat-e-nabi hai kaho ya ali madad
+  Ya ali mujhko tere ishq-e-muqaddas ki qasam
+  Tu ne har daur meiṅ rakha hai malango ka bharam
   Laal shahbaaz qalandar bhi yehi kehte hai
   Hyderiam qalandaram mastam
   Bakhuda aaj bhi sehwan se ye aati hai sada
-  Aasmano mein yehi kehte huwe mai udta hoon
+  Aasmano meiṅ yehi kehte huwe mai urta huṅ
   Ya ali madad hyder ya ali madad hyder
-  Ye sunnat e nabi hai kaho ya ali madad
+  Ye sunnat-e-nabi hai kaho ya ali madad
   Aaj lagta hai mujhe daar pe aana mera
   Ya ali aap ki nalayn thikana mera
-  Jo bhi munkir hai usay maut nazar aata hai
-  Naara e hyder e karrar lagana mera
-  Muskura kar ye sar e daar kaha meesum ne
-  Wird ye karte huwe mai bhi yahan tak pahuncha hoon
+  Jo bhi munkir hai use maut nazar aata hai
+  Naara-e-hyder-e-karrar lagana mera
+  Muskura kar ye sar-e-daar kaha misum ne
+  Wird ye karte huwe mai bhi yahaṅ tak pahuncha huṅ
   Ya ali madad hyder ya ali madad hyder
-  Ye sunnat e nabi hai kaho ya ali madad
+  Ye sunnat-e-nabi hai kaho ya ali madad
   Saari dunya ne ye ilzaam lagaya mujh par
-  Maine iqraar kiya mai hoon ali ka naukar
+  Maiṅ ne iqraar kiya mai huṅ ali ka naukar
   Dost ehbaab halaali bhi hai maulayi bhi
   Baith kar shaam o sehar karte hai hyder hyder
   Bas wohi shakhs mujhe apna nazar aata hai
-  Jis ke pakeezah labon se mai ye jumla sunta hoon
+  Jis ke pakizah laboṅ se mai ye jumla sunta huṅ
   Ya ali madad hyder ya ali madad hyder
-  Ye sunnat e nabi hai kaho ya ali madad
+  Ye sunnat-e-nabi hai kaho ya ali madad
   Kaash din aisa bhi aaye ke ali mujhse kahe
   Aa ke mimbar pe meri jang sunao mujhko
-  Kaisa lagta hoon mai jab mujhpe jalaal aata hai
-  Ran mein jab hazrat e imran ka laal aata hai
-  Unke qadmon se lipat kar ye kahunga maula
-  Jang ladna koi seekhe to ali se seekhe
+  Kaisa lagta huṅ mai jab mujhpe jalaal aata hai
+  Ran meiṅ jab hazrat-e-imran ka laal aata hai
+  Unke qadmoṅ se lipat kar ye kahunga maula
+  Jang larna koi sikhe to ali se sikhe
   Jis ke chehre se chalakte ho elaahi tewar
   Aur lehje se dahal jaate ho lashkar ke jigar
-  Taygh haathon mein jo aajaye kahe jinn o bashar
+  Taygh haathoṅ meiṅ jo aajaye kahe jinn o bashar
   Al-amaan sher e khuda faatah e khyber hyder
   Tera hamla meri sarkaar nahi rok saka
   Aaj tak koi tera waar nahi rok saka
@@ -70,18 +70,18 @@ romanLyrics: |-
   Ali ainullah ali janbullah
   Ali baabullah ali izzatullah
   Sher e jari tu hai nafs e nabi tu hai
-  Khyber mein utri jo naade ali tu hai
+  Khyber meiṅ utri jo naade ali tu hai
   Jab bhi koi mushkil aayi to maulaji
-  Maine kaha ya ali madad
+  Maiṅ ne kaha ya ali madad
   Aag se tu ne hi ibrahim bachaya
   Aur hazrate yaqub ko yusuf se milaya
   Tu sab ki madad karta raha jis ne pukara
   Ya ali madad hyder ya ali madad hyder
-  Ye sunnat e nabi hai kaho ya ali madad
-  Akhtar aur irfan e aza naade ali par
+  Ye sunnat-e-nabi hai kaho ya ali madad
+  Akhtar aur irfan-e-aza naade ali par
   Khaas karam hai ye tera saaqi e kausar
-  Aate hai majlis mein ye jab bar sar e mimbar
-  Hota hai sab ke labon par ali hyder hyder
+  Aate hai majlis meiṅ ye jab bar sar-e-mimbar
+  Hota hai sab ke laboṅ par ali hyder hyder
 # source_id: nohayonline:cd0ef34a50621e1aab0a
 # source_url: https://www.nohayonline.com/details_content.php?id=2842
 # raw_sha256: c912a25314317056f9c2917714c73d62566b09ac7ef45dd186924c28a42d56c3

@@ -12,34 +12,34 @@ published: false
 romanLyrics: |-
   1
   Dahum ko karbobala may bapa hua mehshar
-  Shaheed hogaye yan saare shaahe jinn o bashar
+  Shahid hogaye yaṅ saare shaahe jinn o bashar
   Bureeda laasha e abbas hai tarayi par
   Akela reh gaya maqtal may sibte payghambar
-  Yazeedi fauj ka nargha hai aur ghurbat hai
+  Yazidi fauj ka nargha hai aur ghurbat hai
   Husssain ran may akele hai kya qayamat hai
-  Zakhmon se badan choor hai tanha hi khada hai
-  Shabbir pe ghurbat may ajab waqt pada hai
-  Narghe may layeeno ke nawasa hai nabi ka
+  Zakhmoṅ se badan chur hai tanha hi khara hai
+  Shabbir pe ghurbat may ajab waqt para hai
+  Narghe may layino ke nawasa hai nabi ka
   Kya ajre risalat ka payambar ko mila hai
-  Zakhmon se badan...
-  Pani ke ewaz teeron ki barsat hui hai
+  Zakhmoṅ se badan...
+  Pani ke ewaz tiroṅ ki barsat hui hai
   Ab chaak gareban payambar ne kiya hai
-  Zakhmon se badan...
+  Zakhmoṅ se badan...
   Shabbir ki nusrat ke liye koi nahi hai
   Kaisa ye sitam aale payambar pe hua hai
-  Zakhmon se badan...
-  Islam ke seene may utar jaati wo barchi
+  Zakhmoṅ se badan...
+  Islam ke sine may utar jaati wo barchi
   Akbar ne kaleje pe jise rok liya hai
-  Zakhmon se badan...
+  Zakhmoṅ se badan...
   Shabbir ki dhaaras hai ye hamshakle payambar
-  Tapte huwe sehra may jo dam tod raha hai
-  Zakhmon se badan...
+  Tapte huwe sehra may jo dam tor raha hai
+  Zakhmoṅ se badan...
   Maqtal se alam laaye hai shabbir akele
-  Zainab ko yaqeen shaam may jaane ka hua hai
-  Zakhmon se badan...
+  Zainab ko yaqiṅ shaam may jaane ka hua hai
+  Zakhmoṅ se badan...
   Shabbir ka matam hai muhib ruk nahi sakta
   Zainab k aye armaan hai zehra ki dua hai
-  Zakhmon se badan...
+  Zakhmoṅ se badan...
 # source_id: nohayonline:6d8baee333d3aa9128f4
 # source_url: https://www.nohayonline.com/details_content.php?id=1114
 # raw_sha256: 9556b8a6f3b08f49df69b18611f6349d40bd411b34edf89a07f7a43e6d3980c8

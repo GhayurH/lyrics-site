@@ -1,6 +1,6 @@
 ---
 title: "زنداں میں سکینہ کا تھا نوحہ میرے بابا"
-alternateTitle: "Zindaaṅ Mein Sakina"
+alternateTitle: "Zindaaṅ Meiṅ Sakina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

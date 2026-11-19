@@ -11,71 +11,71 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Naiza seene se nikaalne ki jo baari aayi
+  Naiza sine se nikaalne ki jo baari aayi
   Shaah par haye musibat bhi ye bhaari aayi
-  Arsh se farsh pe nabiyon ki sawari aayi
-  Roti sar peet'ti ahmed ki dulaari aayi
-  Aasteen ulte huwe shaah e huda baithe thay
-  Haath kaandhe pe dhare sher e khuda kehte thay
-  Khaynch le seene se barchi ki ani bismillah
+  Arsh se farsh pe nabiyoṅ ki sawari aayi
+  Roti sar pitti ahmed ki dulaari aayi
+  Aastiṅ ulte huwe shaah e huda baithe the
+  Haath kaandhe pe dhare sher e khuda kehte the
+  Khaynch le sine se barchi ki ani bismillah
   Ya aba abdillah
   Bismillah ya aba abdillah
   Ro ke kehte the ye bete se ali bismillah
   Ya aba abdillah
-  Ek mehshar hai malayak mein sabhi rote hai
-  Tere pehlu mein rasool e arabi rote hai
+  Ek mehshar hai malayak meiṅ sabhi rote hai
+  Tere pehlu meiṅ rasul e arabi rote hai
   Daad dete hai ibrahim nabi
   Bismillah ya aba abdillah
   Bismillah ya aba abdillah
-  Khaynch le seene se...
+  Khaynch le sine se...
   Tu mera laal hai ye sab ko bata de beta
-  Baap ke khoon ki taaseer dikha de beta
+  Baap ke khun ki taasir dikha de beta
   Haath larze na tera mere jari
   Bismillah ya aba abdillah
   Bismillah ya aba abdillah
-  Khaynch le seene se...
-  Ay mere laal akela tu nahi jangal mein
-  Ambiya auliya hai bhai hassan maqtal mein
-  Teri maa fatema zahra hai khadi
+  Khaynch le sine se...
+  Ae mere laal akela tu nahi jangal meiṅ
+  Ambiya auliya hai bhai Hasan maqtal meiṅ
+  Teri maa fatema zahra hai khari
   Bismillah ya aba abdillah
   Bismillah ya aba abdillah
-  Khaynch le seene se...
+  Khaynch le sine se...
   Waada tifli ka kiya tha jo ada kar beta
   Ro le akbar ko kaleje se laga kar beta
-  Thaam le seene ko padh naad e ali
+  Thaam le sine ko parh naad e ali
   Bismillah ya aba abdillah
   Bismillah ya aba abdillah
-  Khaynch le seene se...
-  Sher zakhmi hai ye jangal mein pada dekh na le
-  Naiza akbar ke kaleje mein gada dekh na le
-  Roti sar peet'ti zainab hai chali
+  Khaynch le sine se...
+  Sher zakhmi hai ye jangal meiṅ para dekh na le
+  Naiza akbar ke kaleje meiṅ gara dekh na le
+  Roti sar pitti zainab hai chali
   Bismillah ya aba abdillah
   Bismillah ya aba abdillah
-  Khaynch le seene se...
+  Khaynch le sine se...
   Laashe ghar bhar ke hai kaandhe pe uthaye tu ne
-  Shaane abbas ke seene se lagaye tu ne
-  Imtihan aur ye khanjar ka sahi
+  Shaane abbas ke sine se lagaye tu ne
+  Imtihaṅ aur ye khanjar ka sahi
   Bismillah ya aba abdillah
   Bismillah ya aba abdillah
-  Khaynch le seene se...
-  Ay mere laal na kar dayr taqaddum waladi
+  Khaynch le sine se...
+  Ae mere laal na kar dayr taqaddum waladi
   Warna ho jayega andhayr taqaddum waladi
-  Jald aasaan ho mushkil ki ghadi
+  Jald aasaan ho mushkil ki ghari
   Bismillah ya aba abdillah
   Bismillah ya aba abdillah
-  Khaynch le seene se...
-  Mujhko maloom hai dunya se safar karta hai
-  Saamne aankhon ke ek laal jawan marta hai
-  Hoti hai seene mein takleef badi
+  Khaynch le sine se...
+  Mujhko malum hai dunya se safar karta hai
+  Saamne aankhoṅ ke ek laal jawaaṅ marta hai
+  Hoti hai sine meiṅ taklif bari
   Bismillah ya aba abdillah
   Bismillah ya aba abdillah
-  Khaynch le seene se...
-  Naiza seene se junhi sheh ne nikala aamir
+  Khaynch le sine se...
+  Naiza sine se junhi sheh ne nikala aamir
   Ho gaya sab ka kaleja to ho baala aamir
   Aini kehta raha wo rab ka wali
   Bismillah ya aba abdillah
   Bismillah ya aba abdillah
-  Khaynch le seene se...
+  Khaynch le sine se...
 # source_id: nohayonline:518a7c45bebfd4a4ab0f
 # source_url: https://www.nohayonline.com/details_content.php?id=1625
 # raw_sha256: 2f1d18243120477f22ec78463e634dafa0d7a2bee19af56c1c9b65637a73ad5c

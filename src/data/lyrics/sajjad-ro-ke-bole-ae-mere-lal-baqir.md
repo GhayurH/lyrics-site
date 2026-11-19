@@ -8,61 +8,61 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sajjad ro ke bolay
-  Aey meray laal Baqar
+  Sajjad ro ke bole
+  Ae mere laal Baqar
 
   1
-  Kar sabr meray beta
+  Kar sabr mere beta
   Khud to sambhal Baqar
 
   2
-  Mat peet seena o sar
-  Mat kar tu aisay Noha
-  Tar khoon may hoon laikin
-  Zinda abhi hoon beta
-  Khak e safar ko sar par
-  Aisay na daal Baqar
-  Toq e garan se teri
-  Gardan bandhi hui hay
-  Ye wazn hay ke jis se
-  Kham pusht ho gayi hay
+  Mat pit seena o sar
+  Mat kar tu aise Noha
+  Tar khun may huṅ laikin
+  Zinda abhi huṅ beta
+  Khak-e-safar ko sar par
+  Aise na daal Baqar
+  Toq-e-garaṅ se teri
+  Gardan bandhi hui hai
+  Ye wazn hai ke jis se
+  Kham pusht ho gayi hai
   Zalim se rehm ka tu
   Mat kar sawal Baqar
-  Deen ki baqa ki khatir
+  Din ki baqa ki khatir
   Tu ne tamachay khaey
   Tu wo Imam jis ne
-  Tifli may gham uthaey
-  Dunya na la sakay gi
+  Tifli may gham uthae
+  Dunya na la sake gi
   Teri misal Baqar
-  Har gaam imtihaan hain
-  Aur Shaam ka safar hay
-  Be parda bibiyan hain
-  Aur Shaam ka safar hay
-  Tujh ko rula raha hay
+  Har gaam imtihaaṅ haiṅ
+  Aur Shaam ka safar hai
+  Beparda bibiyaṅ haiṅ
+  Aur Shaam ka safar hai
+  Tujh ko rula raha hai
   Bas ye khayal Baqar
-  Saidaniyon ko zalim
-  Durray laga raha hay
+  Saidaniyoṅ ko zalim
+  Durre laga raha hai
   Un ka khayal mujh ko
-  Har dam rula raha hay
-  Gar ho sakay to un ki
+  Har dam rula raha hai
+  Gar ho sake to un ki
   Mushkil ko taal Baqar
-  Zad par hay ranj o gham ke
+  Zad par hai ranj o gham ke
   Meri bahan Sakina
-  Rukhsar par tamachay
-  Sehti hay wo hazeena
+  Rukhsar par tamache
+  Sehti hai wo hazeena
   Ja kar meri bahan ko
   Gham se nikal Baqar
   Karb o bala ke ban may
-  Gham tu ne jo sahay hain
-  Sadmay jo teray dil par
-  Bazar may lagay hain
-  Ho ga na in ghamon ka
+  Gham tu ne jo sahe haiṅ
+  Sadme jo tere dil par
+  Bazar may lage haiṅ
+  Ho ga na in ghamoṅ ka
   Ab indimal Baqar
-  Aey Noor zakhm apnay
-  Ashkon se dho ke Abid
-  Aey Noor keh rahay thay
+  Ae Nur zakhm apne
+  Ashkoṅ se dho ke Abid
+  Ae Nur keh rahe the
   Baqar se ro ke Abid
-  Seh le safar ke saray
+  Seh le safar ke sare
   Ranj o malal Baqar
 # source_id: ziyaraat:bc90dad75572572a23a8
 # source_url: https://www.ziyaraat.net/api/noha/2194

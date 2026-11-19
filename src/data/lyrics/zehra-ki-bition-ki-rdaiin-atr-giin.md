@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   Ummat ne diya hai kya ajr-e-risaalat
   Zahra ki betiyoṅ ki ridaaeṅ utar gayiṅ
-  Sajjad ko zaeef sadaaeṅ ye kar gayiṅ
+  Sajjad ko zaif sadaaeṅ ye kar gayiṅ
   Tab hi bazaar-e-Shaam meiṅ uryaaṅ sar gayiṅ
 
   1

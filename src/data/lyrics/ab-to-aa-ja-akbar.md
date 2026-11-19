@@ -9,43 +9,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Behnain roti hain teri yaad may tanha Akbar
+  Behnaiṅ roti haiṅ teri yaad may tanha Akbar
   Ab to aa ja Akbar
 
   1
-  Teri masnad se abhi tak teri khushboo aaye
-  Mujh ko Quran ke lafzon may nazar ty aaye
-  Aisi halat may bata,  behn karay kia Akbar
+  Teri masnad se abhi tak teri khushbu aaye
+  Mujh ko Quran ke lafzoṅ may nazar ty aaye
+  Aisi halat may bata,  behn kare kia Akbar
 
   2
   Jab se is ghar se gayi teri sawari bhayya
   May ne payi hi nahi khaak tumhari bhayya
-  Hay mita jata tera,  nash e kaf e pa Akbar
+  Hai mita jata tera,  nash-e-kaf-e-pa Akbar
 
   3
-  Khab may dekha hay ik khoon bhara kurta may ne
-  Teray lasahy ko rawan us may hay dekh may ne
-  Sath may Ammo bhi hain,  aur hain baba Akbar
+  Khab may dekha hai ik khun bhara kurta may ne
+  Tere lasahy ko rawaṅ us may hai dekh may ne
+  Sath may Ammo bhi haiṅ,  aur haiṅ baba Akbar
 
   4
-  Teray sehray ki ajab may ne hain larryan dekheen
-  May ne Sajjad ke hathon may hain karyan dekheen
-  Janay kyun sar pe nahi,  phupyon ke parda Akbar
+  Tere sehre ki ajab may ne haiṅ larryaṅ dekhiṅ
+  May ne Sajjad ke hathoṅ may haiṅ karyaṅ dekhiṅ
+  Jane kiuṅ sar pe nahi,  phupyoṅ ke parda Akbar
 
   5
   Yusuf e aal e aba khab mera sach to nahi
-  Tu mujhe aish talak chorr chala ho na kaheen
-  Meray dil ko hay isi,  fikr ne ghaira Akbar
+  Tu mujhe aish talak chorr chala ho na kahiṅ
+  Mere dil ko hai isi,  fikr ne ghaira Akbar
 
   6
-  Aey Khuda rakhna meray bhai ke waday ka bharam
-  Tujh ko hay fakhr e do alam ke charaghon ki qasam
-  Roz karti hoon dua,  Rab se aey bhayya Akbar
+  Ae Khuda rakhna mere bhai ke wade ka bharam
+  Tujh ko hai fakhr-e-do alam ke charaghoṅ ki qasam
+  Roz karti huṅ dua,  Rab se ae bhayya Akbar
 
   7
   Chorr kar tum jo gaye koi na aaya ghar may
-  Sath rehta hay meray moat ka saaya ghar may
-  Dukh rulata hay mujhay,  ujrray gharon ka Akbar
+  Sath rehta hai mere moat ka saaya ghar may
+  Dukh rulata hai mujhe,  ujrre gharoṅ ka Akbar
 # source_id: ziyaraat:2928b493139f419ebdec
 # source_url: https://www.ziyaraat.net/api/noha/2506
 # raw_sha256: d89d21c14d9abcdc0f1ebe5eb69f3495a2569dd2cdf29bb371b50e25f058b38d

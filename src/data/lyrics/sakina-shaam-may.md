@@ -1,6 +1,6 @@
 ---
 title: "سکینہ شام میں مر کر یہی سمجھا گئی لوگو"
-alternateTitle: "Sakina Shaam Mein"
+alternateTitle: "Sakina Shaam Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

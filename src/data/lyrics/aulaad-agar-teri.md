@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jawan bete ko aaghosh mein uthaye huwe
-  Hussain khaak pe baithe hai sar jhukaye huwe
+  Jawan bete ko aaghosh meiṅ uthaye huwe
+  Husain khaak pe baithe hai sar jhukaye huwe
   Aulaad agar hoti teri
   Mera dard samajhta tu akbar
-  Ek laashe jawan pe ek baba
+  Ek laashe jawaaṅ pe ek baba
   Deta tha sada ye ro ro kar
   Aulaad agar hoti teri
   Mera dard samajhta tu akbar
   Na khud ko sambhala jaata hai
   Na tujhko sambhaala jaata hai
-  Tujhe kya maloom jawan beta
+  Tujhe kya malum jawaaṅ beta
   Kis tarha se paala jaata hai
-  Girta hoo kabhe mai uth'ta hoo
+  Girta hoo kabhe mai uthta hoo
   Jaaunga tujhe kaise le kar
   Aulaad agar hoti teri...
   Laila se ye keh kar aaya hoo
   Akbar ne bulaaya hai mujhko
   Tum maa ho dua maango us ne
-  Seene pe na barchi khaayi ho
-  Jene ke duayein karti hai
-  Qaime mein teri maa ro ro kar
+  Sine pe na barchi khaayi ho
+  Jene ke duayeiṅ karti hai
+  Qaime meiṅ teri maa ro ro kar
   Aulaad agar hoti teri...
   Athara baras tujhko apne
-  Seene se lagaya hai maine
+  Sine se lagaya hai maiṅ ne
   Tere saath apne armaano ko
-  Parwaan chadhaya hai maine
+  Parwaan charhaya hai maiṅ ne
   Armaan tha meri mayyat ko
   Kaandhe pe uthaye tu akbar
   Aulaad agar hoti teri...
-  Akbar meri zainab ke dil mein
+  Akbar meri zainab ke dil meiṅ
   Armaan tha teri shadi ka
-  Ay kaash wo tere maathe pe
+  Ae kaash wo tere maathe pe
   Ek baar saja leti sehra
-  Bandhna tha jahan par haye sehra
-  Hai khoon laga us maathe par
+  Bandhna tha jahaṅ par haye sehra
+  Hai khun laga us maathe par
   Aulaad agar hoti teri...
   Is baat pe rona aata hai
   Mere saath agar aati sughra
-  Awaaz teri sun kar ran mein
+  Awaaz teri sun kar ran meiṅ
   Tujhe dhondne aa jaati sughra
   Teri laash pe aa kar mar jaati
   Sughra bhaiya bhaiya keh kar
   Aulaad agar hoti teri...
-  Jitna mai ghareeb hoo ay akbar
-  Koi baap ghareeb na ho itna
+  Jitna mai gharib hoo ae akbar
+  Koi baap gharib na ho itna
   Pani khud maanga tha tu ne
   Pyasa tha na jaane kitna
   Tere kehne par bhi mai tujhko
@@ -64,23 +64,23 @@ romanLyrics: |-
   Ye aakhri khwahish hai meri
   Sajjad se keh doonga jaa kar
   Jab baara moharram wo sab ke
-  Laashon ko dafanaye aa kar
-  Mere pehlu mein tum ko dafna de
-  Kabhi door na ho mera akbar
+  Laashoṅ ko dafanaye aa kar
+  Mere pehlu meiṅ tum ko dafna de
+  Kabhi dur na ho mera akbar
   Aulaad agar hoti teri...
   Aasaan nahi hai ye lamha
-  Us waqt bataya tha maine
+  Us waqt bataya tha maiṅ ne
   Tere saamne hurr ke bete ka
-  Jab laasha uthaya tha maine
+  Jab laasha uthaya tha maiṅ ne
   Aulaad ka gham kya hota hai
-  Pooche ye koi mujhse aa kar
+  Puche ye koi mujhse aa kar
   Aulaad agar hoti teri...
-  Kaandhe pe jawan laasha le kar
+  Kaandhe pe jawaaṅ laasha le kar
   Jab qaimon tak pahunche maula
-  Zeeshan o raza ye kehte huwe
-  Chooma ali akbar ka chehra
+  Zishan o raza ye kehte huwe
+  Chuma ali akbar ka chehra
   Teri laash utha kar kis tarha
-  Jaaun mai qaimon ke andar
+  Jaauṅ mai qaimon ke andar
   Aulaad agar hoti teri...
 # source_id: nohayonline:59a4f67ac7f40deea615
 # source_url: https://www.nohayonline.com/details_content.php?id=1649

@@ -13,45 +13,45 @@ romanLyrics: |-
   1
   Rehgayi dasht may tanha to watan yaad aaya
   Pani paaya to har ek tishna dahan yaad aaya
-  Leke har cheez madine se chali thi zainab
+  Leke har chiz madine se chali thi zainab
   Bhai ki laash pe pahunchi to kafan yaad aaya
-  Tu be-kafan hai hussain behan be-rida hai
+  Tu bekafan hai Husain behan berida hai
   Aayi thi madine se le kar mai apna bhara ghar bhai
-  Logon ne mera ghar loot liya bas paas rahi tanhai
-  Yahan tashna lab tu raha hai behan be-rida hai
-  Tu be-kafan hai hussain...
-  Pani se tujhe mehroom rakha aur mujhko tere matam se
-  Tukde hai kaleja zainab ka ay bhai faqat is gham se
-  Sina par tera sar rakha hai behan be-rida hai
-  Tu be-kafan hai hussain...
-  Tu mere liye faryad kare mai tere liye ay bhai
-  Mazloom musafir teri behan baaghi ki behan kehlayi
-  Ye gham is sitam se bada hai behan be-rida hai
-  Tu be-kafan hai hussain...
+  Logoṅ ne mera ghar lut liya bas paas rahi tanhai
+  Yahaṅ tashna lab tu raha hai behan berida hai
+  Tu bekafan hai Husain...
+  Pani se tujhe mehrum rakha aur mujhko tere matam se
+  Tukre hai kaleja zainab ka ae bhai faqat is gham se
+  Sina par tera sar rakha hai behan berida hai
+  Tu bekafan hai Husain...
+  Tu mere liye faryad kare mai tere liye ae bhai
+  Mazlum musafir teri behan baaghi ki behan kehlayi
+  Ye gham is sitam se bara hai behan berida hai
+  Tu bekafan hai Husain...
   Laashe se tere aati hai sada sunti hai behan majaye
-  Ay kaash koi tadbeer bane aur zainab shaam na jaye
-  Aseer e rasan khafila hai behan be-rida hai
-  Tu be-kafan hai hussain...
+  Ae kaash koi tadbir bane aur zainab shaam na jaye
+  Asir e rasan khafila hai behan berida hai
+  Tu bekafan hai Husain...
   Mai qaidi bani aur shaam chali mehmil na amari aayi
-  Zainab ke liye hai sab se bada gham tujhse bichadna bhai
-  Tujhe ye hi gham kha gaya hai behan be-rida hai
-  Tu be-kafan hai hussain...
-  Amma ki sada ye aati hai kyun loot liya pyase ko
+  Zainab ke liye hai sab se bara gham tujhse bicharna bhai
+  Tujhe ye hi gham kha gaya hai behan berida hai
+  Tu bekafan hai Husain...
+  Amma ki sada ye aati hai kiuṅ lut liya pyase ko
   Sar tera badan se kaat liya pamaal kiya laashe ko
-  Qateel e jafa tu hua hai behan be-rida hai
-  Tu be-kafan hai hussain...
-  Hai kaan sakina ke zakhmi abid ka muqaddar bedi
-  Naizon pe shaheedo ke sar hai sadaat bane hai qaidi
-  Abhi shaam ka marhala hai behan be-rida hai
-  Tu be-kafan hai hussain...
-  Ghar tera khareeb e asr luta mai shaam e alam may ujdi
-  Khoon tera baha bejurm o khata hamsheer is gham may ujdi
-  Tere khoon se ye wafa hai behan be-rida hai
-  Tu be-kafan hai hussain...
+  Qatil e jafa tu hua hai behan berida hai
+  Tu bekafan hai Husain...
+  Hai kaaṅ sakina ke zakhmi abid ka muqaddar beri
+  Naizoṅ pe shaheedo ke sar hai sadaat bane hai qaidi
+  Abhi shaam ka marhala hai behan berida hai
+  Tu bekafan hai Husain...
+  Ghar tera khareeb e asr luta mai shaam e alam may ujri
+  Khun tera baha bejurm o khata hamshir is gham may ujri
+  Tere khun se ye wafa hai behan berida hai
+  Tu bekafan hai Husain...
   Ta umr padhenge ye nauha farhan aur mazhar rokar
   Zainab ke baradar ke marqad par humne suna hai aksar
-  Shahe deen ka ye marsiya hai behan be-rida hai
-  Tu be-kafan hai hussain...
+  Shahe diṅ ka ye marsiya hai behan berida hai
+  Tu bekafan hai Husain...
 # source_id: nohayonline:3ec504b843c19a6f351c
 # source_url: https://www.nohayonline.com/details_content.php?id=996
 # raw_sha256: b9597385ba343657403837ff12c1654c3512b86c0098e779cf074edbad1853d8

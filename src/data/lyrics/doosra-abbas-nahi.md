@@ -12,26 +12,26 @@ published: false
 romanLyrics: |-
   1
   Haye sakina haye pyaas
-  Khoon mein dooba hua
+  Khun meiṅ duba hua
   Dekh kar khaali alam
   Ek kohraam macha
   Bache khamosh huwe jab sakina ne kaha
   Pani maange na koi roke sakina boli
-  Paas baba ke mere doosra abbas nahi
+  Paas baba ke mere dusra abbas nahi
   Ilteja hai ye meri koi pyasa na kare
   Shikwa-e-tashnalabi
   Paas baba ke mere...
   Pani maange na koi...
-  Mere baba se inhe door hatado bachon
-  Khaali koozo ko kahi jaake chupado bachon
-  Dekh kar khusk inhe wo na mehsoos kare
+  Mere baba se inhe dur hatado bachoṅ
+  Khaali koozo ko kahi jaake chupado bachoṅ
+  Dekh kar khusk inhe wo na mehsus kare
   Apne bhai ki kami
   Paas baba ke mere...
   Pani maange na koi...
   Kaash pani ke liye unse na kehti aa kar
   Kya khabar thi ke nahi aayenge ammu jaa kar
-  Sharm aaati hai mujhe dekh kar tooti kamar
-  Jaan nikalti hai meri
+  Sharm aaati hai mujhe dekh kar tuti kamar
+  Jaaṅ nikalti hai meri
   Paas baba ke mere...
   Pani maange na koi...
   Mujhko ehsaas na ho apne chacha ke gham ka
@@ -43,16 +43,16 @@ romanLyrics: |-
   Dekh hal-min ki sada dasht se aayi asghar
   Itna ehsaan to kar behan pe bhai asghar
   Uth ja baysheer mere baandhle sar se kafan
-  Ab zaroorat hai teri
+  Ab zarurat hai teri
   Paas baba ke mere...
   Pani maange na koi...
   Jis se dhaaras thi tujhe kat gaye baazu uske
-  Teer-o-talwar hai aur tanha hai baba tere
-  Aana mushkil hai watan koi umeed nahi
+  Tir o talwar hai aur tanha hai baba tere
+  Aana mushkil hai watan koi umid nahi
   Kehde sughra se koi
   Paas baba ke mere...
   Pani maange na koi...
-  Karbala kaamp gayi kaisi takallum thi ghadi
+  Karbala kaamp gayi kaisi takallum thi ghari
   Dekhti thi wo kabhi baap ko darya ko kabhi
   Sheh pe chalti thi churi bachi ye kehti hui
   Khaak par baith gayi

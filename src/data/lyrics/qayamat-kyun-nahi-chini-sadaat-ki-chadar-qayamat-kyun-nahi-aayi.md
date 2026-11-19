@@ -1,6 +1,6 @@
 ---
 title: "قیامت کیوں نہیں آی"
-alternateTitle: "Qayamat Kyun Nahi"
+alternateTitle: "Qayamat Kiuṅ Nahi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Qayamat kyun nahi aayi
-  Chini sadaat ki chadar qayamat kyun nahi aayi
-  Phiri aale nabi dar dar qayamat kyun nahi aayi
-  Jala daaman raha khamosh ye charkhe kohan kyun kar
-  Sakina ke chine gauhar qayamat kyun nahi aayi
+  Qayamat kiuṅ nahi aayi
+  Chini sadaat ki chadar qayamat kiuṅ nahi aayi
+  Phiri aale nabi dar dar qayamat kiuṅ nahi aayi
+  Jala daaman raha khamosh ye charkhe kohan kiuṅ kar
+  Sakina ke chine gauhar qayamat kiuṅ nahi aayi
 
   2
-  Wo nazuk sa gala aur hurmala ka teer wo bhaari
-  Tadap ke reh gaye asghar qayamat kyun nahi aayi
+  Wo nazuk sa gala aur hurmala ka tir wo bhaari
+  Tarap ke reh gaye asghar qayamat kiuṅ nahi aayi
 
   3
   Qayaam e umme laila ka wo manzar yaad hai hum ko
-  Huwe rukhsat ali akbar qayamat kyun nahi aayi
+  Huwe rukhsat ali akbar qayamat kiuṅ nahi aayi
 
   4
-  Kati sehre ki ladiyan hogaya zakhmi badan saara
-  Hui mehendi bhi khoon may tar qayamat kyun nahi aayi
+  Kati sehre ki lariyaṅ hogaya zakhmi badan saara
+  Hui mehendi bhi khun may tar qayamat kiuṅ nahi aayi
 
   5
   Guzarta hi raha ek kund khanjar sheh ki gardan se
-  Tadapti hi rahi maadar qayamat kyun nahi aayi
+  Tarapti hi rahi maadar qayamat kiuṅ nahi aayi
 
   6
-  Doham ki subh se qaid e alam ki subhe rukhsat tha
-  Bapa hota raha mehshar qayamat kyun nahi aayi
+  Doham ki subh se qaid-e-alam ki subhe rukhsat tha
+  Bapa hota raha mehshar qayamat kiuṅ nahi aayi
 
   7
   Ab is se bad ke zehra pe musibat aur kya hogi
-  Khule saydaniyo ke sar qayamat kyun nahi aayi
+  Khule saydaniyo ke sar qayamat kiuṅ nahi aayi
 
   8
-  Lehed pe sheh ki baithe sochte hai dayam o yazdan
-  Luta zehra ka poora ghar qayamat kyun nahi aayi
+  Lehed pe sheh ki baithe sochte hai dayam o yazdaṅ
+  Luta zehra ka pura ghar qayamat kiuṅ nahi aayi
 # source_id: nohayonline:eef00124f16da1c98c17
 # source_url: https://www.nohayonline.com/details_content.php?id=2494
 # raw_sha256: b4775c5026c72e60f0713d8c47baadc5111d5834a89876aea9bc7c3731b0acf0

@@ -1,6 +1,6 @@
 ---
 title: "نوجواں لال مر گیا"
-alternateTitle: "Zaeefi Hussain Ki"
+alternateTitle: "Zaeefi Husain Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Naujawan laal mar gaya
+  Naujawaṅ laal mar gaya
   Haye akbar
-  Kadiyal jawan bete ka laasha hai khaak par
-  Maqtal mein ro rahi hai zaeefi hussain ki
-  Beenayi jaa chuki hai kuch aata nahi nazar
-  Maqtal mein ro rahi zaeefi hussain ki
-  Haye mazloom hussain
-  Do bhaanje hussain ke pehle hi mar gaye
-  Qasim bhi ammu jaan ko be-aas kar gaye
-  Ab hai jawan laal ka laasha lahoo mein tar
-  Maqtal mein ro rahi...
+  Kariyal jawan bete ka laasha hai khaak par
+  Maqtal meiṅ ro rahi hai zaifi Husain ki
+  Binayi jaa chuki hai kuch aata nahi nazar
+  Maqtal meiṅ ro rahi zaifi Husain ki
+  Haye mazlum Husain
+  Do bhaanje Husain ke pehle hi mar gaye
+  Qasim bhi ammu jaaṅ ko beaas kar gaye
+  Ab hai jawan laal ka laasha lahu meiṅ tar
+  Maqtal meiṅ ro rahi...
   Haye fatema ka laal
-  Boodhe pidar ke saamne farzand mar gaya
-  Seena ghamon se baap ka ghurbat mein bhar gaya
+  Burhe pidar ke saamne farzand mar gaya
+  Seena ghamoṅ se baap ka ghurbat meiṅ bhar gaya
   Shabbir haath malte hai akbar ki laash par
-  Maqtal mein ro rahi...
-  Haye hussain
+  Maqtal meiṅ ro rahi...
+  Haye Husain
   Dil phat raha hai fatema zahra ke chain ka
-  Koi nahi hai poochne waala hussain ka
-  Jalti hui zameen hai aur laasha e pisar
-  Maqtal mein ro rahi...
-  Mazloom e karbala
-  Toda gaya zaeef ka pardes mein asaa
-  Loota gaya hussain ki peeri ka aasra
-  Ghurbat mein maar dala gaya naujawan pisar
-  Maqtal mein ro rahi...
-  Naujawan laal
-  Bete ke gham se choor hai mazloom e karbala
+  Koi nahi hai puchne waala Husain ka
+  Jalti hui zamiṅ hai aur laasha e pisar
+  Maqtal meiṅ ro rahi...
+  Mazlum e karbala
+  Tora gaya zaif ka pardes meiṅ asaa
+  Luta gaya Husain ki piri ka aasra
+  Ghurbat meiṅ maar dala gaya naujawaṅ pisar
+  Maqtal meiṅ ro rahi...
+  Naujawaṅ laal
+  Bete ke gham se chur hai mazlum e karbala
   Aur has rahe hai baap ki ghurbat pe ashqiyan
   Koi zara furaat pe jaa kar kare khabar
-  Maqtal mein ro rahi...
-  Haye ghurbat e hussain
-  Sadma bahot hai bekas o tanha hussain ko
-  Deta nahi hai koi sahara hussain ko
+  Maqtal meiṅ ro rahi...
+  Haye ghurbat e Husain
+  Sadma bahot hai bekas o tanha Husain ko
+  Deta nahi hai koi sahara Husain ko
   Bas nehre alqama ki taraf dekh dekh kar
-  Maqtal mein ro rahi...
-  Haye mazloom husain
-  Laasha hai naujawan ka kaise uthayenge
+  Maqtal meiṅ ro rahi...
+  Haye mazlum husain
+  Laasha hai naujawaṅ ka kaise uthayenge
   Lekar ke qaimagah talak kaise jayenge
-  Abbas aao jald taraayi ko chod kar
-  Maqtal mein ro rahi...
+  Abbas aao jald taraayi ko chor kar
+  Maqtal meiṅ ro rahi...
   Haye fatema ka laal
-  Aankhon se khoon behta hai aur sar pe khaak hai
-  Mazloom e karbala ka gireban chaak hai
+  Aankhoṅ se khun behta hai aur sar pe khaak hai
+  Mazlum e karbala ka gireban chaak hai
   Atthara saal waale ka zaanu pe rakh ke sar
-  Maqtal mein ro rahi...
-  Mazloom e karbala
-  Waiz jawan ki laash hai zahra ka laal hai
-  Ab kaun boodhe baap ka pursane haal hai
-  Thaame hai dono haathon se tooti hui kamar
-  Maqtal mein ro rahi...
+  Maqtal meiṅ ro rahi...
+  Mazlum e karbala
+  Waiz jawaaṅ ki laash hai zahra ka laal hai
+  Ab kaun burhe baap ka pursane haal hai
+  Thaame hai dono haathoṅ se tuti hui kamar
+  Maqtal meiṅ ro rahi...
 # source_id: nohayonline:4310b05746fafa58cdae
 # source_url: https://www.nohayonline.com/details_content.php?id=2866
 # raw_sha256: 7b46c11cb157970f7d8154e879ad7cba4f292867c82bd904ecaa166d6891f020

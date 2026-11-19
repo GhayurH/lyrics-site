@@ -12,49 +12,49 @@ published: false
 romanLyrics: |-
   1
   Haye asghar mere asghar
-  Ay raaj dulare asghar
+  Ae raaj dulare asghar
   Maa tujhko pukare asghar
   Meri aankh ke taare asghar
   Aaja mere pyare asghar
-  Ay mere bezaban tum reh gaye kahan
+  Ae mere bezaban tum reh gaye kahaṅ
   Asghar jiyegi kaise tere baghair maa
   Chehra wo chand jaisa kaise bhulaye maa
   Asghar jiyegi kaise tere baghair maa
   Kya waqt aagaya hai bano ki bekasi par
   Ghurbat pe teri matam kaise karegi ki maadar
-  Aada ne bandh di hai haathon mein rassiyan
+  Aada ne bandh di hai haathoṅ meiṅ rassiyaṅ
   Asghar jiyegi kaise...
-  Himmat pe maa tumhari qurban kyun na jaaye
-  Sunti hoo teer khaakar tum ran mein muskuraye
+  Himmat pe maa tumhari qurban kiuṅ na jaaye
+  Sunti hoo tir khaakar tum ran meiṅ muskuraye
   Maadar ki laaj rakh li shabaash meri jaan
   Asghar jiyegi kaise...
   Maadar ki hai wasiyat beta khayaal rakhna
-  Godhi mein inki asghar jaane ki zid na karna
-  Pehle hi hai shikasta dadi ki phasliyan
+  Godhi meiṅ inki asghar jaane ki zid na karna
+  Pehle hi hai shikasta dadi ki phasliyaṅ
   Asghar jiyegi kaise...
-  Kya zer e khaak ab bhi soye ho moo chupaye
-  Maa saari bibiyon se sharminda ho na jaaye
-  Har ek shaheed ka hai sar bar sare sina
+  Kya zer-e-khaak ab bhi soye ho moo chupaye
+  Maa saari bibiyoṅ se sharminda ho na jaaye
+  Har ek shahid ka hai sar bar sare sina
   Asghar jiyegi kaise...
-  Dushwaar hogaya hai gham mein tumhare jeena
+  Dushwaar hogaya hai gham meiṅ tumhare jina
   Ab khaali godh jaa kar maa kya kare madina
-  Mujhko wahin bulalo ay laal ho jahan
+  Mujhko wahin bulalo ae laal ho jahaṅ
   Asghar jiyegi kaise...
-  Saansein to chal rahi hai zinda kahan rahi hai
+  Saanseiṅ to chal rahi hai zinda kahaṅ rahi hai
   Maa zindagi se apni azaadi chaahti hai
-  Mushkil kusha ho tum bhi khulwado bediyan
+  Mushkil kusha ho tum bhi khulwado beriyaṅ
   Asghar jiyegi kaise...
-  Jangal mein ek beta awaaz goonjti hai
-  Ye soch kar bhi maadar maqtal mein ro rahi hai
-  Lagta hai dard se tum lete ho siskiyan
+  Jangal meiṅ ek beta awaaz gunjti hai
+  Ye soch kar bhi maadar maqtal meiṅ ro rahi hai
+  Lagta hai dard se tum lete ho siskiyaṅ
   Asghar jiyegi kaise...
-  Ye ujdi godh beta kaise sukoon paaye
+  Ye ujri godh beta kaise sukun paaye
   Haalat pe teri maa ki haste hai shaam waale
-  Daaman mein hai tumhare jhoole ki lakdiyan
+  Daaman meiṅ hai tumhare jhule ki lakriyaṅ
   Asghar jiyegi kaise...
-  Rote thay sab takallum ek maa ne jab kaha tha
-  Paigham karbala mein jaa kar hawa ye dena
-  Zindan ke dar pe ab bhi baithi hai ek maa
+  Rote the sab takallum ek maa ne jab kaha tha
+  Paigham karbala meiṅ jaa kar hawa ye dena
+  Zindaṅ ke dar pe ab bhi baithi hai ek maa
   Asghar jiyegi kaise...
 # source_id: nohayonline:f2dc205ffeada1cdf1b7
 # source_url: https://www.nohayonline.com/details_content.php?id=1072

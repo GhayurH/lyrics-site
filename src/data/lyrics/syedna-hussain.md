@@ -1,6 +1,6 @@
 ---
 title: "تو ہی زریعہ تو ہی ہیلا"
-alternateTitle: "Syedna Hussain"
+alternateTitle: "Syedna Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Tu hi zariya tu hi heela
+  Tu hi zariya tu hi hila
   Meri bakshish ka waseela
-  Har ghadi mera wazeefa
+  Har ghari mera wazeefa
   Mere har gham ka madawa
-  Syedna hussain hussain
-  Murshadna hussain
-  Tu deen ka sutoon hai tu deen ka waqaar
-  Mohsin hai tu hi deen ka tu deen ka qaraar
-  Kis se misaal doo teri kis mein karun shumaar
+  Syedna Husain Husain
+  Murshadna Husain
+  Tu din ka sutun hai tu din ka waqaar
+  Mohsin hai tu hi din ka tu din ka qaraar
+  Kis se misaal doo teri kis meiṅ karuṅ shumaar
   Riffat ko teri dekh ke kehti hai karbala
-  Syedna hussain hussain...
-  Baatil har ek daur mein paata raha zawaal
-  Auje hussainiyat mein na dekha gaya zawaal
-  Tere udoo ka hissa khata o saza zawaal
-  Har daur teri jeet hai har daur karbala
-  Syedna hussain hussain...
-  Hojata sab halaak tabahi ke zad mein tha
-  Deen e rasool e pak tabahi ke zad mein tha
-  Insan dard naak tabahi ke zad mein tha
-  Jaan de ke tune bakshi hai har ek ko jila
-  Syedna hussain hussain...
-  Baatil buton se haq ki taraf rukh ko mod kar
-  Hurr aaya jab hai shaam ke lashkar ko chod kar
-  Kehne laga hussain se ye haath jod kar
+  Syedna Husain Husain...
+  Baatil har ek daur meiṅ paata raha zawaal
+  Auje hussainiyat meiṅ na dekha gaya zawaal
+  Tere udu ka hissa khata o saza zawaal
+  Har daur teri jit hai har daur karbala
+  Syedna Husain Husain...
+  Hojata sab halaak tabahi ke zad meiṅ tha
+  Din e rasul e pak tabahi ke zad meiṅ tha
+  Insan dard naak tabahi ke zad meiṅ tha
+  Jaaṅ de ke tune bakshi hai har ek ko jila
+  Syedna Husain Husain...
+  Baatil butoṅ se haq ki taraf rukh ko mor kar
+  Hurr aaya jab hai shaam ke lashkar ko chor kar
+  Kehne laga Husain se ye haath jor kar
   Rab ki qasam hai raahe jina saath aap ka
-  Syedna hussain hussain...
-  Marqad ki wehshaton ka mujhe koi gham nahi
-  Apni musibaton ka mujhe koi gham nahi
-  Aur gham ke marhalon ka mujhe koi gham nahi
+  Syedna Husain Husain...
+  Marqad ki wehshatoṅ ka mujhe koi gham nahi
+  Apni musibatoṅ ka mujhe koi gham nahi
+  Aur gham ke marhaloṅ ka mujhe koi gham nahi
   Deta har ek gham ko tera gham hai hausla
-  Syedna hussain hussain...
+  Syedna Husain Husain...
   Ye justaju ye haq ki talabgari kam na ho
   Maula tumhare ghar se wafadari kam na ho
   Mushkil ho koi bhi ye azadari kam na ho
   Karte hai bas khuda se azadar ye dua
-  Syedna hussain hussain...
-  Mauj e sitam uthi bhi to saahil na choo saki
-  Kaali ghatayein zulm ki har simt cha gayi
-  Lekin teri shuwaon ki hadh tak na aa saki
+  Syedna Husain Husain...
+  Mauj e sitam uthi bhi to saahil na chu saki
+  Kaali ghatayeiṅ zulm ki har simt cha gayi
+  Lekin teri shuwaoṅ ki hadh tak na aa saki
   Suraj teri hayaat ka rashan raha sada
-  Syedna hussain hussain...
+  Syedna Husain Husain...
   Bete ka laasha dosh pe tha rab ka shukriya
   Karke supurd khaak kiya rab ka shukriya
   Har gaam pe tu karta raha rab ka shukriya
   Tujhko salaam sabr o tahammul ne khud kiya
-  Syedna hussain hussain...
-  Itni kahan thi fikre shanwar ki riffatein
-  Aamir jo zam hussain ki karta ye azmatein
-  Unki nawazishein hai ye unki inayatein
-  Socha tha bas hussain ko aur misra hogaya
-  Syedna hussain hussain...
+  Syedna Husain Husain...
+  Itni kahaṅ thi fikre shanwar ki riffateiṅ
+  Aamir jo zam Husain ki karta ye azmateiṅ
+  Unki nawazisheiṅ hai ye unki inayateiṅ
+  Socha tha bas Husain ko aur misra hogaya
+  Syedna Husain Husain...
 # source_id: nohayonline:1f96c483ab15146fd859
 # source_url: https://www.nohayonline.com/details_content.php?id=1292
 # raw_sha256: 458228c24980f9f27600bee2308d8a915773d43d76092acd20a6489ff3650a1d

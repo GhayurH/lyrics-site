@@ -1,6 +1,6 @@
 ---
 title: "اربعیں کے سوگواروں الوداع"
-alternateTitle: "Arbaeen Ke Soghwaro"
+alternateTitle: "Arbaiṅ Ke Soghwaro"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

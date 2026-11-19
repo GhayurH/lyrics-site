@@ -14,49 +14,49 @@ romanLyrics: |-
   Ya abbas ya abbas
   Tumhi se aas lagaye udaas baithe hai
   Ye pyase bacche jo zainab ke paas baithe hai
-  Abbas kahan ho abbas kahan ho
-  Pani zara qaimon mein lao ghazi
+  Abbas kahaṅ ho abbas kahaṅ ho
+  Pani zara qaimon meiṅ lao ghazi
   Pani sakina ko pilao
-  Bacchon ko tum chehra dikhao ghazi
+  Bacchoṅ ko tum chehra dikhao ghazi
   Pani sakina ko pilao
-  Ab tak na pyaas bujhi qaime ke dar pe khadi
+  Ab tak na pyaas bujhi qaime ke dar pe khari
   Roti hai kooza uthaye
-  Asghar ko dekhti hai sab se ye poochti hai
-  Mere chacha kyun na aaye
-  Pani usay laa kar pilao ghazi
+  Asghar ko dekhti hai sab se ye puchti hai
+  Mere chacha kiuṅ na aaye
+  Pani use laa kar pilao ghazi
   Pani sakina ko pilao
   Pani zara qaimon mein...
-  Bolo abbase jari kyun itni dayr hui
-  Bacchon ko aa kar sambhalo
+  Bolo abbase jari kiuṅ itni dayr hui
+  Bacchoṅ ko aa kar sambhalo
   Karte hai yaad tumhe phaila ke haath unhe
-  Seene se apne laga lo
+  Sine se apne laga lo
   Dekha nahi kab se aa jao ghazi
   Pani sakina ko pilao
   Pani zara qaimon mein...
-  Kooze utha lo sabhi aate hi honge abhi
-  Mashkeeza qaimon mein le ke
+  Kuze utha lo sabhi aate hi honge abhi
+  Mashkeeza qaimon meiṅ le ke
   La denge pani hame rokega kaun unhe
   Ammu bahadur hai mere
-  Toote na dil bacchon ka aao ghazi
+  Tute na dil bacchoṅ ka aao ghazi
   Pani sakina ko pilao
   Pani zara qaimon mein...
-  Aa jao laut ke ghar neend aa rahi hai magar
+  Aa jao laut ke ghar nind aa rahi hai magar
   Soti nahi hai sakina
-  Tumko maloom hai sab soti hai paas hoon jab
+  Tumko malum hai sab soti hai paas huṅ jab
   Tum aur baba ka seena
-  Lori usay aa kar sunao ghazi
+  Lori use aa kar sunao ghazi
   Pani sakina ko pilao
   Pani zara qaimon mein...
   Jab se ye shor utha abbas maara gaya
-  Tooti hai sab pe qayamat
-  Karte hai ro ro ke dua darya pe ho ay khuda
+  Tuti hai sab pe qayamat
+  Karte hai ro ro ke dua darya pe ho ae khuda
   Ammu hamare salamat
-  Hausla bacchon ka badhao ghazi
+  Hausla bacchoṅ ka barhao ghazi
   Pani sakina ko pilao
   Pani zara qaimon mein...
-  Maqtal mein jo bhi gaya wapas na laut saka
-  Masoom ghabra rahe hai
-  Dikhta nahi hai alam dil mein saqqa e haram
+  Maqtal meiṅ jo bhi gaya wapas na laut saka
+  Masum ghabra rahe hai
+  Dikhta nahi hai alam dil meiṅ saqqa e haram
   Kya kya khayal aa rahe hai
   Phir se zara parcham uthao ghazi
   Pani sakina ko pilao
@@ -66,14 +66,14 @@ romanLyrics: |-
   Bali sakina ne kaha
   Dekho wo aate hai chacha
   Jab wo alam paas aaya
-  Bacchon ka dil toot gaya
-  Khoon mein dooba wo alam
-  Rakh ke shahe deen ne kaha
-  Qatl alamdar ho gaya haye hum ghareeb ho gaye
-  Sher jaisa bhai tha mera haye hum ghareeb ho gaye
-  Bacchon ne kooze phaynke ro ro ke alam se lipte
-  Dekho ay zeeshan o raza deta hai ta'seer sada
-  Yaad wo manzar aaya shor tha qaimon mein bapa
+  Bacchoṅ ka dil tut gaya
+  Khun meiṅ duba wo alam
+  Rakh ke shahe diṅ ne kaha
+  Qatl alamdar ho gaya haye hum gharib ho gaye
+  Sher jaisa bhai tha mera haye hum gharib ho gaye
+  Bacchoṅ ne kuze phaynke ro ro ke alam se lipte
+  Dekho ae zishan o raza deta hai ta'seer sada
+  Yaad wo manzar aaya shor tha qaimon meiṅ bapa
   Haye sakina haye pyaas
   Haye sakina haye pyaas
 # source_id: nohayonline:e7b090df39b4a9dfbdae

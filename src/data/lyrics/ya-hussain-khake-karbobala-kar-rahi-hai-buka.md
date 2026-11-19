@@ -1,6 +1,6 @@
 ---
 title: "خاک کربوبلا کر رہی بکا"
-alternateTitle: "Ya Hussain"
+alternateTitle: "Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,14 +11,14 @@ aliases: []
 published: false
 romanLyrics: |-
   Khake karbobala kar rahi hai buka
-  Ya hussain ya hussain
+  Ya Husain ya Husain
 
   1
   Ho sake na labe nehr qaime bapa
 
   2
   Bhai abbas tha tera maara gaya
-  Laasha ibne hassan ka bhi tukde hua
+  Laasha ibne Hasan ka bhi tukde hua
   Tere akbar ke seene pe naiza laga
 
   3

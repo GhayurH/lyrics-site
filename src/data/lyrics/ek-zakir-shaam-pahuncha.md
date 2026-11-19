@@ -13,7 +13,7 @@ romanLyrics: |-
   Saw the market and the palace n asked himself.
 
   1
-  When Zainab was bareheaded, Hussain lying shroud less
+  When Zainab was bareheaded, Husain lying shroud less
   The sun standing still on the head,
 
   2
@@ -30,11 +30,11 @@ romanLyrics: |-
 
   5
   To pass over this short distance
-  How much time did the sister of Hussain, Zainab take?
+  How much time did the sister of Husain, Zainab take?
 
   6
   The guard lamented on listening to this question and said,
-  You are a reciter of Hussain and you posses the courage to hear this
+  You are a reciter of Husain and you posses the courage to hear this
 
   7
   You covered the distance in a short span
@@ -58,7 +58,7 @@ romanLyrics: |-
 
   12
   In the grief-stricken hand came the whole of responsibility
-  Zainab became Ali, Abbas Hussain too
+  Zainab became Ali, Abbas Husain too
 
   13
   For the frightful children protector became the daughter of Ali
@@ -92,7 +92,7 @@ romanLyrics: |-
   20
   Slaughtered my whole family oh Baba, pulled off my cloak
   Akbar & Asgher departed Qasim n Abbas alongside too
-  The knife slit through the neck of Hussain
+  The knife slit through the neck of Husain
 
   21
   I could do nothing but be a helpless spectator
@@ -103,7 +103,7 @@ romanLyrics: |-
   Under the shadow of shrine of Abbas this Noha have we written
 
   23
-  When Sarwar recited at the shrine of Hussain
+  When Sarwar recited at the shrine of Husain
   It seemed like
   The whole of Prophet hood have congregated for the mourning.
 # source_id: ziyaraat:06126b3a5391d49d2848

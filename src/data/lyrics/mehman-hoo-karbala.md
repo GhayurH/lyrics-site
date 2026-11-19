@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Raqm hai waqeya tareekh mein logon aise
+  Raqm hai waqeya tarikh meiṅ logoṅ aise
   De chuke ghusl o kafan fatema zehra ko ali
   Ro ke phir aap ne hasnain se zainab se kaha
   Aakhri waqt hai dedaar karo maa ka sabhi
-  Sunke baba ki sada aaye hassan aur zainab
-  Aur na mayyat ke kareeb aaye hussain ibne ali
+  Sunke baba ki sada aaye Hasan aur zainab
+  Aur na mayyat ke kareeb aaye Husain ibne ali
   Karbala ka hoo mai mehman sada do amma
   Roke shabbir ye bole ke mai aaunga tabhi
   Amma amma mehman hoo mai karbobala ka
   Ek baar sada de ke kaleje se lagalo
   Dil ko mai sambhalunga mujhe tum to sambhalo
-  Jo aag hai seene mein zara usko bujhalo
+  Jo aag hai sine meiṅ zara usko bujhalo
   Hai aakhri dedaar sada deke bulalo
-  Ye hi hoga jeene ke liye mera sahara
+  Ye hi hoga jine ke liye mera sahara
   Amma amma mehman hoo...
-  Pehle hi muqaddar mein bahot ranj o alam thay
-  Ab tum bhi mujhe chod ke jaati ho jahan se
-  Qaboo na raha qalb pe gham toote hai aise
+  Pehle hi muqaddar meiṅ bahot ranj o alam the
+  Ab tum bhi mujhe chor ke jaati ho jahaṅ se
+  Qabu na raha qalb pe gham tute hai aise
   Sab jaanta hoo aap ne sadme jo uthaye
-  Kaise bhoolun mai aap ke sadmon ko khudara
+  Kaise bhuluṅ mai aap ke sadmoṅ ko khudara
   Amma amma mehman hoo...
-  Ek din mein bahattar ke uthaunga mai laashe
+  Ek din meiṅ bahattar ke uthaunga mai laashe
   Shikwa na magar lab pe mere hoga khuda se
-  Khojayenge is dasht mein sab godh ke paale
+  Khojayenge is dasht meiṅ sab godh ke paale
   Asghar hoke ya qasim hoke ya zainab ke dulaare
   Dunya meri is tarha ujadenge ye aada
   Amma amma mehman hoo...
-  Chin jayegi har cheez meri dashte bala mein
-  Khoon hoga jawan laal ka zainab ki rida mein
-  Ho jaunga be-aas jo mai dashte bala mein
-  Hal min ki sada goonjegi us waqt fiza mein
+  Chin jayegi har chiz meri dashte bala meiṅ
+  Khun hoga jawaaṅ laal ka zainab ki rida meiṅ
+  Ho jaunga beaas jo mai dashte bala meiṅ
+  Hal min ki sada goonjegi us waqt fiza meiṅ
   Us dam koi na aake mujhe dega sahara
   Amma amma mehman hoo...
-  Khojayenge sab karbobala mein mere atfaal
-  Abbas sa bhai hoke akbar sa jawan laal
+  Khojayenge sab karbobala meiṅ mere atfaal
+  Abbas sa bhai hoke akbar sa jawaaṅ laal
   Hojayega us waqt behan ka bhi bura haal
-  Ho jaunga jis waqt sare dasht mein pamaal
+  Ho jaunga jis waqt sare dasht meiṅ pamaal
   Hoga zaamin zainab ke liye naam khuda ka
   Amma amma mehman hoo...
-  Bazaar mein zainab ko phirayenge sitamgar
-  Har mod pe aulaad e ali khayegi pathar
+  Bazaar meiṅ zainab ko phirayenge sitamgar
+  Har mor pe aulaad e ali khayegi pathar
   Kaanto pe chalega wo mera abid e muztar
   Gir jayegi naaqe se sakina meri duhktar
-  Tum hi to phir bachi ko wahan dogi dilaasa
+  Tum hi to phir bachi ko wahaṅ dogi dilaasa
   Amma amma mehman hoo...
-  Mazhar mai likhun lafz wo khirtaas pe kaise
+  Mazhar mai likhuṅ lafz wo khirtaas pe kaise
   Jab bande kafan khulne lage binte nabi ke
   Safdar ye kaha bibi ne haye mere bache
-  Lag ja mere seene se mere naazon ke paale
-  Kaise hoga karbal mein mera laal akela
+  Lag ja mere sine se mere naazoṅ ke paale
+  Kaise hoga karbal meiṅ mera laal akela
   Amma amma mehman hoo...
 # source_id: nohayonline:e88ee3002d32014ee828
 # source_url: https://www.nohayonline.com/details_content.php?id=1038

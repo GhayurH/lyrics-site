@@ -11,58 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sada rahega hussain ka gham
+  Sada rahega Husain ka gham
   Ye shor e girya ye shor e matam
   Khuda kare khuda kare
   Qaim rahe ye majlis o matam khuda kare
-  Taaza rahe dilon mein muharram khuda kare
-  Sehne haram mein ahle aza ki rasayi ho
-  Ghaibat nasheen ke haath se parcham kushayi ho
+  Taaza rahe diloṅ meiṅ muharram khuda kare
+  Sehne haram meiṅ ahle aza ki rasayi ho
+  Ghaibat nashiṅ ke haath se parcham kushayi ho
   Lehraye baam e kaaba pe parcham khuda kare
   Qaim rahe ye majlis...
-  Lillaah aansuon se na khaali kabhi rahe
-  Ashke ghame hussain se aankhein bhari rahe
-  Roomal sayyeda ka rahe nam khuda kare
+  Lillaah aansuoṅ se na khaali kabhi rahe
+  Ashke ghame Husain se aankheiṅ bhari rahe
+  Rumal sayyeda ka rahe nam khuda kare
   Qaim rahe ye majlis...
-  Taboot zuljanah alam jhoola taaziya
+  Tabut zuljanah alam jhula taaziya
   In par jo aetraaz kare khud hai bewafa
   Apna rahe aqeeda musallam khuda kare
   Qaim rahe ye majlis...
-  Matam daba na paaye dhamakon ki bhi sada
+  Matam daba na paaye dhamakoṅ ki bhi sada
   Rukne na paaye majlis o matam ka silsila
-  Ban jaaye hum shaheedon ke mehram khuda kare
+  Ban jaaye hum shahidoṅ ke mehram khuda kare
   Qaim rahe ye majlis...
-  Har matami ke dil mein ye armaan hai basa
-  Paidal najaf se kab ho safar arbaeen ka
+  Har matami ke dil meiṅ ye armaan hai basa
+  Paidal najaf se kab ho safar arbain ka
   Qayam ke saath saath chale hum khuda kare
   Qaim rahe ye majlis...
-  Haan wohi rahe jo apne buzurgon ka tha chalan
-  Ek anjuman hatay to badhe ek anjuman
-  Ho har juloos aise munazzam khuda kare
+  Haaṅ wohi rahe jo apne buzurgoṅ ka tha chalan
+  Ek anjuman hate to barhe ek anjuman
+  Ho har julus aise munazzam khuda kare
   Qaim rahe ye majlis...
   Rehta hai saal bhar kisi bibi ko intezaar
   Qasim ki mehendi jaaye jo lekar ye pursa daar
-  Matam se goonje phir se muqayyam khuda kare
+  Matam se gunje phir se muqayyam khuda kare
   Qaim rahe ye majlis...
-  Jannat sajaye pyason ke sadqe zameen par
+  Jannat sajaye pyasoṅ ke sadqe zamin par
   Khwahish hai sab ki mokib e ummul baneen par
-  Khuddam e zaaireen bane hum khuda kare
+  Khuddam e zaairin bane hum khuda kare
   Qaim rahe ye majlis...
-  Maqtal mein jisne khaak pe ragdi thi aediyan
-  Sairaab uski pyaas ke sadqe ho ye jahan
-  Bat'ta rahe sabeelon se zam zam khuda kare
+  Maqtal meiṅ jisne khaak pe ragdi thi aeriyaṅ
+  Sairaab uski pyaas ke sadqe ho ye jahaṅ
+  Bat'ta rahe sabiloṅ se zam zam khuda kare
   Qaim rahe ye majlis...
   Dekha hai jab se maahe aza dil hai beqaraar
-  Sughra madine waalon se kehti hai baar baar
+  Sughra madine waaloṅ se kehti hai baar baar
   Ho khairiyat se shaahe mu'azzam khuda kare
   Qaim rahe ye majlis...
-  Teele pe hai khadi hui mazloom ki behen
-  Khanjar talay hussain ke lab par hai ye sukhan
+  Tile pe hai khari hui mazlum ki behen
+  Khanjar tale Husain ke lab par hai ye sukhan
   Zainab na dekhe nazha ka aalam khuda kare
   Qaim rahe ye majlis...
-  Isyaan se hashr tak meri farde amal ho paak
+  Isyaaṅ se hashr tak meri farde amal ho paak
   Har dam yehi dua hai takallum ye meri khwaab
-  Khaake dar e hussain mein ho zam khuda kare
+  Khaake dar e Husain meiṅ ho zam khuda kare
   Qaim rahe ye majlis...
 # source_id: nohayonline:690492aee27264ac1681
 # source_url: https://www.nohayonline.com/details_content.php?id=3634

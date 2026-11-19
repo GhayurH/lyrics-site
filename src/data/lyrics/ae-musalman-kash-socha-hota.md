@@ -9,46 +9,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aey muslaman kash socha hota
-  Ke Muhammad(sawaw) ka nawasa hay yeh
-  Halat-e-sajda main hay bay kas or majbor bhi hay
-  Aur kaye roz ka pyasa hay yeh
+  Ae muslamaṅ kash socha hota
+  Ke Muhammad(sawaw) ka nawasa hai yeh
+  Halat-e-sajda maiṅ hai bekas or majbor bhi hai
+  Aur kaye roz ka pyasa hai yeh
 
   2
-  1. Aqal haeran thi isay banda ke RAHMAN kahain
-  Nokay nayza pay isay bolta Quran kahain
-  Ya to Rab hay jo k bandy sa nazar aata hay
-  Gar hay insan to Khuda sa hay yeh
+  1. Aqal haeraṅ thi ise banda ke RAHMAN kahaiṅ
+  Nokay nayza pay ise bolta Quran kahaiṅ
+  Ya to Rab hai jo k bandy sa nazar aata hai
+  Gar hai insan to Khuda sa hai yeh
 
   3
-  2. Boli Zainab zulm Shabeer pay dhanay walo
-  Pathroo kay talay mayyat ko chupanay walo
-  Haey kandhay pay uthaty thay jisy khatm e Rasul
-  Meray us bhai ka lasha hay yeh
+  2. Boli Zainab zulm Shabir pay dhane walo
+  Pathroo ke tale mayyat ko chupanay walo
+  Hae kandhe pay uthaty the jisy khatm e Rasul
+  Mere us bhai ka lasha hai yeh
 
   4
   3. Jis ka Ghazi na raha or Ali Akbar na bacha
-  Bhai ki lash pay jisay khul ke ronay na diya
-  Aaj matam sar e bazar jo hum karty hain
-  Isi Zainab ka dilasa hay yeh
+  Bhai ki lash pay jise khul ke rone na diya
+  Aaj matam sar e bazar jo hum karty haiṅ
+  Isi Zainab ka dilasa hai yeh
 
   5
-  4. Syedon ka bhara ghar bar jalaya kyun hay
-  Bibio ko bhary bazar pihraiya kyun hay
-  Tu nay to yea bhi na socha ke jo qaidi hain banay
-  Pak Zehra ka asasa hay yeh
+  4. Syedoṅ ka bhara ghar bar jalaya kiuṅ hai
+  Bibio ko bhary bazar pihraiya kiuṅ hai
+  Tu ne to yea bhi na socha ke jo qaidi haiṅ bane
+  Pak Zehra ka asasa hai yeh
 
   6
-  5. May hoon Zainab mujhe Haider tu samajhta kyun hay
-  Sun ke khutba mera maloon bigarta kyun hay
-  Boli Zainab ke yeh khutba hi nahi sun aey Yazeed
-  Pak Quraan ka khulasa hay yeh
+  5. May huṅ Zainab mujhe Haider tu samajhta kiuṅ hai
+  Sun ke khutba mera malun bigarta kiuṅ hai
+  Boli Zainab ke yeh khutba hi nahi sun ae Yazid
+  Pak Quraaṅ ka khulasa hai yeh
 
   7
-  6. Sani-e-Zehra ki Akhtar yeh ata hay tujh ko
-  Noha likhnay ke liye dard mila hay tujh ko
-  Teray alfaz may hay Fatima Zehra ki dua
-  Tera andaz juda sa hay yeh
+  6. Sani-e-Zehra ki Akhtar yeh ata hai tujh ko
+  Noha likhne ke liye dard mila hai tujh ko
+  Tere alfaz may hay Fatima Zehra ki dua
+  Tera andaz juda sa hai yeh
 # source_id: ziyaraat:3429e2bcb424e6a9abdc
 # source_url: https://www.ziyaraat.net/api/noha/705
 # raw_sha256: 62fb23ac720a1859ecb5e84200e9e43581520eeb7459395a552f47676a38872f

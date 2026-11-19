@@ -1,6 +1,6 @@
 ---
 title: "زنداں میں سکینہ یہ بکا کرتی تھی رو کر"
-alternateTitle: "Zindaaṅ Mein Sakina Ye"
+alternateTitle: "Zindaaṅ Meiṅ Sakina Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ooncha rahe ooncha rahe ghazi alam tera
-  Har daur mein ooncha raha ghazi alam tera
+  Uncha rahe uncha rahe ghazi alam tera
+  Har daur meiṅ uncha raha ghazi alam tera
   Chauda sau baras se jhuk na saka
   Yeh rab ka karam hai
   Abbas ka alam hai abbas ka alam hai
   Panja hai jalaale daste khuda
   Patka iska zainab ki rida
-  Taweez e wafa hai mashkeeza
+  Tawiz e wafa hai mashkeeza
   Ye mashk o alam honge na juda
   Patke par raqam hai
   Abbas ka alam hai...
-  Sadiyon pe muheet is ka saaya
+  Sadiyoṅ pe muhit is ka saaya
   Ye shaan wafa ki keh laaya
   Hyder ne mohamed se paaya
   Zainab ki dua zehra ki ataa
-  Pyason ka bharam hai
+  Pyasoṅ ka bharam hai
   Abbas ka alam hai...
-  Ghar ghar se juloos e gham nikle
-  Taboot ke saath alam nikle
+  Ghar ghar se julus e gham nikle
+  Tabut ke saath alam nikle
   Hum karte huwe matam nikle
-  Roke jo julooson ka rasta
-  Ab kis mein ye dum hai
+  Roke jo julusoṅ ka rasta
+  Ab kis meiṅ ye dum hai
   Abbas ka alam hai...
   Go laakh mitana chaaha magar
   Jaari hai azadari ka safar
@@ -43,16 +43,16 @@ romanLyrics: |-
   Aa dekh zamane dekh zara
   Ye paak alam ki paak hawa
   Karti hai ataa deti hai shifa
-  Ghabrana nahi kahin jaana nahi
+  Ghabrana nahi kahiṅ jaana nahi
   Jo maango wo kam hai
   Abbas ka alam hai...
   Hazma ko mila jafar ko mila
-  Phir khyber mein hyder ko mila
+  Phir khyber meiṅ hyder ko mila
   Hyder se dil e sarwar ko mila
   Nisbat ka sharaf ya shaahe najaf
   Kya jaaho hasham hai
   Abbas ka alam hai...
-  Tareekh e alamdari hai alam
+  Tarikh e alamdari hai alam
   Zainab ki azadari hai alam
   Zehra se wafadari hai alam
   Deti hai sada ye sheh ki aza
@@ -61,12 +61,12 @@ romanLyrics: |-
   Jab baarwa hyder aayega
   Haq kya hai pata chal jayega
   Kaabe pe alam lehrayega
-  Ye manzar haan dekhega jahan
-  Ooncha jo alam hai
+  Ye manzar haaṅ dekhega jahaṅ
+  Uncha jo alam hai
   Abbas ka alam hai...
-  Jab hashr ki dhoop mein pahunchenge
+  Jab hashr ki dhup meiṅ pahunchenge
   Ghazi ka alam jab dekhenge
-  Farhan aur mazhar keh denge
+  Farhan aur mazhar keh deṅge
   Ab roz e qayamat ka hum ko
   Na darr hai na gham hai
   Abbas ka alam hai...

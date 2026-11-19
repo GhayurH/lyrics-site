@@ -41,7 +41,7 @@ romanLyrics: |-
   Maindi hasrat hai mainkon bachry di azaan sunra mai kaabaa haan
 
   8
-  (Kalaam Hussain Gohar)
+  (Kalaam Husain Gohar)
 # source_id: ziyaraat:112746b8aef526e9baf3
 # source_url: https://www.ziyaraat.net/api/noha/2547
 # raw_sha256: 0e9c75b0c7e91a52519274e4262eb22c0b6e247f85ca558a5a03824f669c8bcb

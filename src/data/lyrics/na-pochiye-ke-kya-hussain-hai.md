@@ -11,7 +11,7 @@ aliases:
   - "Na Pochiye Ke Kya Husain Hai"
 published: true
 romanLyrics: |-
-  Na poochiye ke kya Husain hai
+  Na puchiye ke kya Husain hai
   Khuda Ke Din Ka Na-Khuda
   Har Ibtida Ki Ibtida
   Karam Ki Inteha Husain Hai
@@ -27,8 +27,8 @@ romanLyrics: |-
   Jo Mar Rahe The Unko Zindagi Ka Gur Sikha Diya
   Husain Hai Hayat Gar, Husain Azmatoṅ Ka Ghar
   Azim Rehnuma Husain Hai
-  Thi har taraf jahan sada
-  Khula ye raaz bhi wahan
+  Thi har taraf jahaṅ sada
+  Khula ye raaz bhi wahaṅ
   Hayat baantta Husain hai
 
   3

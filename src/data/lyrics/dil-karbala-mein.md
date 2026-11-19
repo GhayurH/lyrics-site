@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kya poochte ho ahle aza kya karun bayan
-  Mai zaair e hussain hoo aur ek nauhakhwan
-  Aaya hoo karbala se basad ranj aur fughan
-  Koi kare sawaal aansu hai kyun rawan
-  Dil karbala mein reh gaya mai aagaya yahan
-  Ye dil bina hussain ke paaye sukoon kahan
-  Naam e hussain kaafi tha rone ke waaste
-  Ek ek qadam rulaati hai yun karbala mujhe
+  Kya puchte ho ahle aza kya karuṅ bayaṅ
+  Mai zaair e Husain hoo aur ek nauhakhwan
+  Aaya hoo karbala se basad ranj aur fughaṅ
+  Koi kare sawaal aansu hai kiuṅ rawaṅ
+  Dil karbala meiṅ reh gaya mai aagaya yahaṅ
+  Ye dil bina Husain ke paaye sukuṅ kahaṅ
+  Naam e Husain kaafi tha rone ke waaste
+  Ek ek qadam rulaati hai yuṅ karbala mujhe
   Pehle mai qaimagah e hussaini pe ruk gaya
-  Yaad aagaya ke ek behan yan thi nauhakhwan
-  Ghurbat mein qatl hogaya mazloom bewatan
+  Yaad aagaya ke ek behan yaṅ thi nauhakhwan
+  Ghurbat meiṅ qatl hogaya mazlum bewatan
   Mai bhai bhai kehti thi laasha behan behan
   Dil karbala mein reh gaya...
-  Nikla mai uske baad qayaam e hussain se
-  Aasaar thodi door thay qatl e yadain ke
+  Nikla mai uske baad qayaam e Husain se
+  Aasaar thori dur the qatl e yadain ke
   Dekha maqam e baazu bureeda mai ro diya
-  Kaise pukara hoga wafaon ka aasman
+  Kaise pukara hoga wafaoṅ ka aasmaṅ
   Mere haath nahi hai mere haath nahi hai
   Dil karbala mein reh gaya...
-  Nazdeek tha maqam e ali akbar e jawan
-  Girya kuna thi sehra liye chand bibiyan
-  Awaaz ek fazaon mein dil ko hilaati thi
-  Baba mile to kehna ke kehta tha ek jawan
-  Hai jaan ab labon par barchi na khaynchna
+  Nazdik tha maqam e ali akbar e jawaaṅ
+  Girya kuna thi sehra liye chand bibiyaṅ
+  Awaaz ek fazaoṅ meiṅ dil ko hilaati thi
+  Baba mile to kehna ke kehta tha ek jawaaṅ
+  Hai jaan ab laboṅ par barchi na khaynchna
   Bole pidar se akbar barchi na khaynchna
   Dil karbala mein reh gaya...
-  Gehwara ek choti imaarat mein tha rakha
-  Gehware mein shooluka tha ek khoon mein bhara
-  Gehwara choom choom ke de de ke loriyan
-  Lagta tha keh rahi ho hussain o hassan ki maa
+  Gehwara ek choti imaarat meiṅ tha rakha
+  Gehware meiṅ shuluka tha ek khun meiṅ bhara
+  Gehwara chum chum ke de de ke loriyaṅ
+  Lagta tha keh rahi ho Husain o Hasan ki maa
   Maa qurban asghar jaan aa jao
   Dil karbala mein reh gaya...
-  Haan wo maqam jo ke zameen se baland tha
+  Haaṅ wo maqam jo ke zamiṅ se baland tha
   Beti ali o zehra ki pahunchi basad buka
   Dekhi jo chalti gardan e shabbir par churi
-  Bibi pukaari baba ghazab hogaya yahan
+  Bibi pukaari baba ghazab hogaya yahaṅ
   Zainab lipat ke baap se deti rahi sada
-  Sattar qadam ka faasla bhai behan mein tha
+  Sattar qadam ka faasla bhai behan meiṅ tha
   Dil karbala mein reh gaya...
-  Jannat nishan hai aaj bhi rauza hussain ka
-  Maqsood e kayenat hai baba hussain ka
-  Itne ameer baap ke bete ne kyun kaha
-  Faryad kar rahi ho jo sookhi hui zuban
-  Amma ghareeb hoo mai amma ghareeb hoo mai
+  Jannat nishaṅ hai aaj bhi rauza Husain ka
+  Maqsud e kayenat hai baba Husain ka
+  Itne amir baap ke bete ne kiuṅ kaha
+  Faryad kar rahi ho jo sukhi hui zubaṅ
+  Amma gharib hoo mai amma gharib hoo mai
   Dil karbala mein reh gaya...
-  Manzar bada ajeeb tha rehaan aur raza
+  Manzar bara ajib tha rehaan aur raza
   Maqtal ke simt jaane lage shaah e karbala
-  Aur neend se sakina ke chehre pe warm tha
-  Godhi mein leke sheh ne kaha ab na ho fughan
-  Meri sakina ko neend aa rahi hai
+  Aur nind se sakina ke chehre pe warm tha
+  Godhi meiṅ leke sheh ne kaha ab na ho fughaṅ
+  Meri sakina ko nind aa rahi hai
   Dil karbala mein reh gaya...
 # source_id: nohayonline:4aa0e6cbc69761b77e16
 # source_url: https://www.nohayonline.com/details_content.php?id=2675

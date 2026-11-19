@@ -1,6 +1,6 @@
 ---
 title: "سوے میداں نہ ابھی چھوڑ کے جاؤ مجھکو"
-alternateTitle: "Abhi Na Maidan Mein"
+alternateTitle: "Abhi Na Maidaṅ Mein"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,30 +11,30 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Suye maidan na abhi chod ke jao mujhko
-  Is tarha jaane padar door meri aankhon se
+  Suye maidaṅ na abhi chor ke jao mujhko
+  Is tarha jaane padar dur meri aankhoṅ se
   Saath le jayegi ye teri judaai aakhir
-  Ay mere tashna dahan noor meri aankhon se
-  Abhi na maidan mein jao akbar
+  Ae mere tashna dahaṅ nur meri aankhoṅ se
+  Abhi na maidaṅ meiṅ jao akbar
   Ke laal zahra ka mar na jaye
   Idhar tumhari baraat nikle
-  Udhar ye jaan se guzar na jaye
+  Udhar ye jaaṅ se guzar na jaye
   Abhi na maidan...
-  Zaeef baba jawan bete
-  Ke baad jee kar bhi kya karega
-  Raha na aankhon ka noor baakhi
-  To deeda e tar bhi kya karega
+  Zaif baba jawan bete
+  Ke baad ji kar bhi kya karega
+  Raha na aankhoṅ ka nur baakhi
+  To dida e tar bhi kya karega
   Tumhare dam se jo saans baba
   Ka chal raha hai teher na jaye
   Abhi na maidan...
-  Tumhari furqat garan hai dil pe
-  Andhera aankhon pe cha raha hai
+  Tumhari furqat garaṅ hai dil pe
+  Andhera aankhoṅ pe cha raha hai
   Tumhari ruqsat ke waqt dil ko
   Khayaal payham ye kha raha hai
-  Tumhare marne se bibiyon ke
-  Saron se chadar utar na jaye
+  Tumhare marne se bibiyoṅ ke
+  Saroṅ se chadar utar na jaye
   Abhi na maidan...
-  Tumhari sughra ko khat mein baba
+  Tumhari sughra ko khat meiṅ baba
   Tasalli kaise bhala wo dega
   Batao itna to jaate jaate
   Jawab qasid ko kya wo dega
@@ -42,23 +42,23 @@ romanLyrics: |-
   Wo sughra bemaar mar na jaye
   Abhi na maidan...
   Tumhari shaadi ka jashn karne
-  Kahan kahan se hai aaye zaalim
-  Tumhe lagane lahoo ki mehendi
-  Hai barchiyon ko sajaye zaalim
-  Tumhare nazuk badan mein koi
+  Kahaṅ kahaṅ se hai aaye zaalim
+  Tumhe lagane lahu ki mehendi
+  Hai barchiyoṅ ko sajaye zaalim
+  Tumhare nazuk badan meiṅ koi
   Sitam ki barchi utar na jaye
   Abhi na maidan...
-  Shabih e ahmed ho tum ay akbar
-  Tumhare dam se hi raahatein hai
-  Tumhare sehre ki paak ladiyan
-  Tamaam quran ki aayatein hai
-  Ye gham hai humko zameen pe beta
+  Shabih e ahmed ho tum e akbar
+  Tumhare dam se hi raahateiṅ hai
+  Tumhare sehre ki paak lariyaṅ
+  Tamaam quraṅ ki aayateiṅ hai
+  Ye gham hai humko zamiṅ pe beta
   Tumhara sehra bikhar na jaye
   Abhi na maidan...
-  Hussain ghash khaake gir pade hai
+  Husain ghash khaake gir pare hai
   Baraat akbar ki jaa rahi hai
   Samajh ke dulha shabih e ahmed
-  Pe phool ummat gira rahi hai
+  Pe phul ummat gira rahi hai
   Ab aur natiq na likhna aage
   Ke phat hamara jigar na jaye
   Abhi na maidan...

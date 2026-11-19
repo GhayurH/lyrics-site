@@ -8,32 +8,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sadaat ne matam ka phir farsh bichaya hay
-  Gham mola Taqi tera kainat pe chaaya hay
+  Sadaat ne matam ka phir farsh bichaya hai
+  Gham mola Taqi tera kainat pe chaaya hai
 
   1
-  Bachpan may yateemi ka sadma tha saha tu nay
-  Tujhe zehr jawani may zaalim ne pilaya hay
+  Bachpan may yatimi ka sadma tha saha tu ne
+  Tujhe zehr jawani may zaalim ne pilaya hai
 
   2
-  Aey Motasim billah laanat ho sada tujh pe
-  Ismat ka diya tu nay dhokay se bujhaya hay
+  Ae Motasim billah laanat ho sada tujh pe
+  Ismat ka diya tu ne dhoke se bujhaya hai
 
   3
-  Pardes may thay tanh afsoos Taqi Mola
-  Jab waqt sahadat ka mazloom ke aaya hay
+  Pardes may the tanh afsus Taqi Mola
+  Jab waqt sahadat ka mazlum ke aaya hai
 
   4
-  Zindaan may ro ro ke kehtay thay Taqi Mola
-  Aabid ki aseera nay haey mujh ko rulaya hay
+  Zindaan may ro ro ke kehte the Taqi Mola
+  Aabid ki asira ne hae mujh ko rulaya hai
 
   5
-  Yasrab se Naqi rotay Baghdad may aayey hain
-  Mola ka janaza yun Mola ne parrhaya hay
+  Yasrab se Naqi rote Baghdad may aaye haiṅ
+  Mola ka janaza yuṅ Mola ne parrhaya hai
 
   6
-  Hay Mola Jawwad apni bakhshish ke liye kaafi
-  Jo ashk teray gham may ankhoon ne bahaya hay
+  Hai Mola Jawwad apni bakhshish ke liye kaafi
+  Jo ashk tere gham may ankhuṅ ne bahaya hai
 # source_id: ziyaraat:6c783dae447c305dfd2a
 # source_url: https://www.ziyaraat.net/api/noha/1831
 # raw_sha256: 06e66a62fe3d3b1a83069592b46055056066c6a679e9cf2891b5186db83131f0

@@ -12,18 +12,18 @@ published: false
 romanLyrics: |-
   1
   Raahe hussaini par jo insan chalta nahi
-  Zinda reh kar bhi wo insan zinda nahi
-  Hubbe aale mohamed mein jo mar jaaye
+  Zinda reh kar bhi wo insaṅ zinda nahi
+  Hubbe aale mohamed meiṅ jo mar jaaye
   To wo mar bhi jaaye agar to marta nahi
   Mam maata aala hubbe aale mohamed
-  Maata shaheeda
-  Aale nabi ki ulfat mein logon
+  Maata shahida
+  Aale nabi ki ulfat meiṅ logoṅ
   Jo mar gaya wo marta nahi hai
   Hai haq ka waada aur sacha waada
   Usko khuda khud rakhta hai zinda
   Mam maata aala hubbe...
   Matam to hoga matam to hoga
-  Har simt hoga har ghar mein hoga
+  Har simt hoga har ghar meiṅ hoga
   Roze azal se roze abad tak
   Zehra se hai ye khaaliq ka waada
   Mam maata aala hubbe...
@@ -32,33 +32,33 @@ romanLyrics: |-
   Har matami ka jazba to dekho
   Ghazi ka parcham girne na dega
   Mam maata aala hubbe...
-  Muslim habeeb o john aur haabis
-  Shabbir ke sab be-misl naasir
-  Jab ladte ladte maidan mein girte
-  Sab ke labon par tha ek naara
+  Muslim habib o john aur haabis
+  Shabbir ke sab bemisl naasir
+  Jab larte larte maidan meiṅ girte
+  Sab ke laboṅ par tha ek naara
   Mam maata aala hubbe...
   Haye wo qasim haye wo asghar
   Abbas e ghazi haye wo akbar
   Ro ro ke un par hum jaan denge
-  Poora karenge hum apna waada
+  Pura karenge hum apna waada
   Mam maata aala hubbe...
   Jab bhi shahadat paata hai koi
   Shabbir usko aate hai lene
-  Aansu baha kar khud shaah e deen ko
+  Aansu baha kar khud shaah e din ko
   Deta hai pursa karbobala ka
   Mam maata aala hubbe...
   Hum rone waale karbobala ke
   Darte nahi hai jor o sitam se
   Gardan katayi baazu kataye
-  Lekin na choda gham karbala ka
+  Lekin na chora gham karbala ka
   Mam maata aala hubbe...
-  Ay meri maaon ay meri behno
+  Ae meri maaoṅ ae meri behno
   Darna nahi tum daur e sitam se
   Sughra ke gham se laila ke gham se
   Bad kar nahi koi gham hamara
   Mam maata aala hubbe...
   Maajid ye likh kar sab ko bata do
-  Ay shadman tum sab ko suna do
+  Ae shadman tum sab ko suna do
   Hum matami hai shaah e huda ke
   Mar kar bhi hum to rehte hai zinda
   Mam maata aala hubbe...

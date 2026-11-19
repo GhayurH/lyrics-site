@@ -14,9 +14,9 @@ romanLyrics: |-
   Sajjad Nu Lai Tur Payi Aye, Kiwein Bheer Bazaar Che Gayi Aye Zainab Jane
 
   1
-  Tur Payi Aye Deen Bachawan Layi, Hizyaan Da Daagh Mitawan Layi
+  Tur Payi Ae Din Bachawan Layi, Hizyaan Da Daagh Mitawan Layi
   Veeran Shabbir De Sajde Nu, Wich Shaam De Rang Charhawan Layi
-  Har Zulm Nu Sehndi Rahi Aye, Kiwein Wich Darbar De Gayi Aye
+  Har Zulm Nu Sehndi Rahi Ae, Kiweiṅ Wich Darbar De Gayi Ae
 
   2
   Karbal Di Jang Shabbir Lari, Wich Shaam De Par Okhi Si Ghari
@@ -24,29 +24,29 @@ romanLyrics: |-
   Kithe Zakir Aye Ban Gayi Aye, Kiwein Jhirkaan Sehndi Rahi Aye
 
   3
-  Aye Hausla Aun Di Maa Da Aye, Darbar Che Waqt Qaza Da Aye
-  Aye Jhagra Ve Nawazi Nahi, Aye Jhagra Aj Wafa Da Aye
-  Abbas Ali Ban Gayi Aye, Kiwein Shamiyan Samne Rahi Aye
+  Ae Hausla Aun Di Maa Da Ae, Darbar Che Waqt Qaza Da Ae
+  Ae Jhagra Ve Nawazi Nahi, Ae Jhagra Aj Wafa Da Ae
+  Abbas Ali Ban Gayi Ae, Kiweiṅ Shamiyaṅ Samne Rahi Ae
 
   4
   Maa Zahra Vi Darbar Gayi, Wich Burqe De Guftaar Rahi
-  Gayi Zainab Vi Darbar De, Wich Be-Parda Aye Lachar Rahi
-  Ohdi Sanad De Tukre Kite, Aye Chadar Mangdi Rahi Aye
+  Gayi Zainab Vi Darbar De, Wich beParda Ae Lachar Rahi
+  Ohdi Sanad De Tukre Kite, Ae Chadar Mangdi Rahi Ae
 
   5
   Ik Aisa Waqt Vi Aaya Si, Zalim Ne Hukm Sunaya Si
   Darbar Che Qatl Karo Abid, Zainab Imam Bachaya Si
-  Ehde Sadqe Imamat Rahi Aye, Kiwein Nasal Bacha Gayi Aye
+  Ehde Sadqe Imamat Rahi Ae, Kiweiṅ Nasal Bacha Gayi Ae
 
   6
-  Aj Qaidi Ban Ke Aayi Aye, Kadi Malka Ban Ke Aayi Si
+  Aj Qaidi Ban Ke Aayi Ae, Kadi Malka Ban Ke Aayi Si
   Si Kita Suraj Ne Parda, Kufe Ne Fazilat Payi Si
-  Kithe Oh Shana, Kithe Aj Zainab, Kiwein Kufe Ton Lang Gayi Aye
+  Kithe Oh Shana, Kithe Aj Zainab, Kiweiṅ Kufe Toṅ Lang Gayi Ae
 
   7
-  Shahrooz Aye Gal Islam Di Aye, Ik Bibi Qaidan Shaam Di Aye
-  Oh Bibi Deen Di Malka Aye, Naale Dukhtar Paak Imam Di Aye
-  Tauheed Azal Kar Gayi Aye, Jiwein Mushkil Hal Kar Gayi Aye
+  Shahruz Ae Gal Islam Di Ae, Ik Bibi Qaidan Shaam Di Ae
+  Oh Bibi Din Di Malka Ae, Naale Dukhtar Paak Imam Di Ae
+  Tauhid Azal Kar Gayi Ae, Jiweiṅ Mushkil Hal Kar Gayi Ae
 # source_id: ziyaraat:0048e2a21b264cf9ca7e
 # source_url: https://www.ziyaraat.net/api/noha/1407
 # raw_sha256: cfa5ac8ec8e0179ca67c65f612617777a7301236042caf04722d5a7b35952211

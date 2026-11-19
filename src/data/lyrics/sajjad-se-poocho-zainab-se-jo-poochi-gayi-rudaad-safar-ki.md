@@ -11,70 +11,70 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zainab se jo poochi gayi rudaad safar ki
+  Zainab se jo puchi gayi rudaad safar ki
   Dil thaam ke kehne lagi ye zainabe muztar
-  Kya beet gayi shaam ke bazaar mein logon
-  Sajjad se poocho
+  Kya bit gayi shaam ke bazaar meiṅ logon
+  Sajjad se pucho
 
   2
-  Mafhoom aseeri ka khula shaam mein jaa kar
+  Mafhum asiri ka khula shaam meiṅ jaa kar
   Jab nauha kuna noke sina par hue sarwar
-  Bhaiya ne jo nauha kiya yasrab ke makeeno
-  Sajjad se poocho
+  Bhaiya ne jo nauha kiya yasrab ke makino
+  Sajjad se pucho
 
   3
-  Kya beet gayi…
-  Mehfooz hai aankhon mein aziyyat ke wo lamhe
-  Sadaat khule sar thay tamashayi khade thay
-  Us dard ki shiddat ko agar poochna chaho
+  Kya bit gayi…
+  Mehfuz hai aankhoṅ meiṅ aziyyat ke wo lamhe
+  Sadaat khule sar the tamashayi khare the
+  Us dard ki shiddat ko agar puchna chaho
 
   4
-  Sajjad se poocho
-  Kya beet gayi…
-  Thay haath pase pusht bandhe sar mein padi khaak
-  Sadmo se kaleje thay garebaan ki tarha chaak
+  Sajjad se pucho
+  Kya bit gayi…
+  The haath pase pusht bandhe sar meiṅ pari khaak
+  Sadmo se kaleje the garebaaṅ ki tarha chaak
 
   5
-  Ay logon mile zakhm jo un raahon mein humko
-  Sajjad se poocho
-  Kya beet gayi…
+  Ae logon mile zakhm jo un raahoṅ meiṅ humko
+  Sajjad se pucho
+  Kya bit gayi…
   Jab girta tha abbas ka sar noke sina se
 
   6
-  Kya is ka sabab hai jo laeen poochne aate
-  Mai kehti thi mujse nahi ye baat layeeno
-  Sajjad se poocho
-  Kya beet gayi…
+  Kya is ka sabab hai jo laiṅ puchne aate
+  Mai kehti thi mujse nahi ye baat layino
+  Sajjad se pucho
+  Kya bit gayi…
 
   7
   Pathar kahi barsaye gaye ehle haram par
   Baaghi kabhi kehlayi gayi aale payambar
-  Afsos yehi hai ke musalman thay sabhi to
-  Sajjad se poocho
+  Afsos yehi hai ke musalmaṅ the sabhi to
+  Sajjad se pucho
 
   8
-  Kya beet gayi…
+  Kya bit gayi…
   Jab gir gayi naaqe se mere bhai ki dukhtar
   Wo naiza ruka jispe rakha tha sare sarwar
   Us dam jo aziyat hui aulaade nabi ko
 
   9
-  Sajjad se poocho
-  Kya beet gayi…
-  Jab milgayi zindan se aseeron ko rihaai
+  Sajjad se pucho
+  Kya bit gayi…
+  Jab milgayi zindaṅ se asiroṅ ko rihaai
   Ghar jaye ke na jaye kaho fatema jaayi
 
   10
   Ro kar kaha zainab ne ke mujhse nahi bano
-  Sajjad se poocho
-  Kya beet gayi…
-  Jab mazhar-o-irfan kiya sughra ne nauha
+  Sajjad se pucho
+  Kya bit gayi…
+  Jab mazhar o irfan kiya sughra ne nauha
 
   11
-  Zainab ki zaeefi ka sabab maa se jo poocha
+  Zainab ki zaifi ka sabab maa se jo pucha
   Maa kehne lagi roke kaleje ko sambhalo
-  Sajjad se poocho
-  Kya beet gayi…
+  Sajjad se pucho
+  Kya bit gayi…
 # source_id: nohayonline:c72f57c98dfa5d0577cb
 # source_url: https://www.nohayonline.com/details_content.php?id=555
 # raw_sha256: ebe11a899e8294dd9285f15f0ddcd1057ba01925b8dfaee42c3548a3afa6bfd6

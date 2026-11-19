@@ -14,50 +14,50 @@ romanLyrics: |-
 
   1
   Nagar nagar gali gali
-  Kahin khafi kahin jali
+  Kahiṅ khafi kahiṅ jali
   Wohi wasi wohi wali
   Pukara jab bala tali
   Ruki thi nafs jo chali
   Ali ali ali ali ali ali
   Waqt ka imam hai ali
   Khud khuda ka naam hai ali
-  Kahin nazar kahin gohar kahin dua
-  Kahin asar kahin khabar
+  Kahiṅ nazar kahiṅ gohar kahiṅ dua
+  Kahiṅ asar kahiṅ khabar
   Ali ali ali ali ali ali
 
   2
-  Aasman pe jab gaye nabi
-  Tha wahan bhi lehjaye ali
-  Haram haram iram iram zameen zameen
+  Aasmaṅ pe jab gaye nabi
+  Tha wahaṅ bhi lehjaye ali
+  Haram haram iram iram zamiṅ zamiṅ
   Arab arab ajam ajam
   Ali ali ali ali ali ali
 
   3
   Izn se tere hawa chale
-  Tujhse pooch kar diya jale
-  Imame haq nizaame haq usoole haq
-  Kaleeme haq kalaame haq
+  Tujhse puch kar diya jale
+  Imame haq nizaame haq usule haq
+  Kalime haq kalaame haq
   Ali ali ali ali ali ali
 
   4
   Mil gaya jo hukme bu-turab
   Aagaya palat ke aaftab
-  Dua bhi tum ataa bhi tum yaqeen ki
+  Dua bhi tum ataa bhi tum yaqiṅ ki
   Ibteda bhi inteha bhi tum
   Ali ali ali ali ali ali
 
   5
   Kayenat ka sha'oor hai
-  Kirdigaar ka ghuroor hai
-  Likho ali padho ali nafas nafas
+  Kirdigaar ka ghurur hai
+  Likho ali parho ali nafas nafas
   Kaho ali suno ali
   Ali ali ali ali ali ali
 
   6
   Sab turab tum abu-turab
   Tum har ek sawaal ka jawab
-  Seher mein tum qamar mein tum
-  Yaqeen mein tum safar mein tum hazar mein tum
+  Seher meiṅ tum qamar meiṅ tum
+  Yaqiṅ meiṅ tum safar meiṅ tum hazar meiṅ tum
   Ali ali ali ali ali ali
 
   7
@@ -71,21 +71,21 @@ romanLyrics: |-
   Kufe ki nazar badal gayi
   Murtuza pe taygh chal gayi
   Wo shor utha ghazab hua
-  Ay momino manao gham karo aza
+  Ae momino manao gham karo aza
   Ali ali ali ali ali ali
 
   9
-  Ay jalaal e khandaq o hunain
-  Ek nazar ho jaanib e hussain
-  Tera chaman hai be-kafan
+  E jalaal e khandaq o hunain
+  Ek nazar ho jaanib e Husain
+  Tera chaman hai bekafan
   Lute haram chini rida bandhi rasan
   Ali ali ali ali ali ali
 
   10
-  Aamir aur nayyar e ghareeb
-  Tere nauha khwan tere khateeb
+  Aamir aur nayyar e gharib
+  Tere nauha khwaṅ tere khatib
   Karam bhi tu qasam bhi tu
-  Zaban bhi tu sukhan bhi tu qalam bhi tu
+  Zabaṅ bhi tu sukhan bhi tu qalam bhi tu
   Ali ali ali ali ali ali
 # source_id: nohayonline:80cad0e3bc9bdf04a81b
 # source_url: https://www.nohayonline.com/details_content.php?id=3401

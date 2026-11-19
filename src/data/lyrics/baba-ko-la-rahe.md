@@ -12,52 +12,52 @@ published: false
 romanLyrics: |-
   1
   Uneesvi ki subha wo mehshar bapa hua
-  Aati thi aasman se jibreel ki sada
-  Masjid mein mustafa ka wasi qatl hogaya
-  Daude saron ko peet'te sibtain e mustafa
-  Dekha ki khoon mein lot'te hai shaahe mashraqain
-  Lipta ke apne seene se roye ba-shor o shain
-  Pehle namaziyon ko padayi namaz phir
-  Masjid se leke baba ko nikle hassan hussain
+  Aati thi aasman se jibril ki sada
+  Masjid meiṅ mustafa ka wasi qatl hogaya
+  Daure saroṅ ko pit'te sibtain e mustafa
+  Dekha ki khuṅ meiṅ lot'te hai shaahe mashraqain
+  Lipta ke apne sine se roye ba-shor o shain
+  Pehle namaziyoṅ ko parayi namaz phir
+  Masjid se leke baba ko nikle Hasan Husain
   Koi zainab ko thaam le jaa kar
-  Ghar mein baba ko laa rahe hai hussain
-  Hoga barpa abhi yahan mehshar
-  Gham mein baba ke ro rahi hogi
+  Ghar meiṅ baba ko laa rahe hai Husain
+  Hoga barpa abhi yahaṅ mehshar
+  Gham meiṅ baba ke ro rahi hogi
   Hosh apne wo kho rahi hogi
   Haye aa jaaye na wo deodi par
-  Ghar mein baba ko...
+  Ghar meiṅ baba ko...
   Arsh waale pachade khaate hai
   Chand taare bhi thar'tharate hai
   Subha aayi hai aaj nauha gar
-  Ghar mein baba ko...
+  Ghar meiṅ baba ko...
   Dil pe sadme sabhi uthalunga
   Kaise zainab ko mai sambhalunga
   Sochte jaa rahe hai ye shabbar
-  Ghar mein baba ko...
+  Ghar meiṅ baba ko...
   Pyar karne ko nana jaan nahi
   Haye amma ka sayeban nahi
   Kaun dhaaras bandhayega bad kar
-  Ghar mein baba ko...
+  Ghar meiṅ baba ko...
   Taygh zaalim ne aisi maari hai
   Zakhm sar ka bahot hi kaari hai
   Koi jaa kar bicha de ek chadar
-  Ghar mein baba ko...
+  Ghar meiṅ baba ko...
   Zakhm sar ka na dekh payegi
-  Wo pachaade zaroor khayegi
-  Kaise samjhayenge usay jaa kar
-  Ghar mein baba ko...
-  Raah mein khoon tapakta jaata hai
+  Wo pachaare zarur khayegi
+  Kaise samjhayenge use jaa kar
+  Ghar meiṅ baba ko...
+  Raah meiṅ khuṅ tapakta jaata hai
   Aur amaama latakta jaata hai
   Kaise thaame do paara sar sarwar
-  Ghar mein baba ko...
-  Betiyon ki ajeeb hai fitrat
-  Hoti hai baap se badi ulfat
+  Ghar meiṅ baba ko...
+  Betiyoṅ ki ajib hai fitrat
+  Hoti hai baap se bari ulfat
   Koi ehwaal keh na de jaa kar
-  Ghar mein baba ko...
+  Ghar meiṅ baba ko...
   Dar pe aaye junhi shahe waala
-  Ainee kohraam hogaya barpa
+  Aini kohraam hogaya barpa
   Koi aamir ye kehta tha ro kar
-  Ghar mein baba ko...
+  Ghar meiṅ baba ko...
 # source_id: nohayonline:a3c13b3cfa2641449427
 # source_url: https://www.nohayonline.com/details_content.php?id=3390
 # raw_sha256: ecdfac4d9e63cbdc3a70b6b14a7cb4e2cc5577278d56a22ef2bbd4a7674961c6

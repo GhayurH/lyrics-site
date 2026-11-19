@@ -11,23 +11,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Mere sayyed maula sayeen
+  Mere sayyed maula sayiṅ
   Babul hawaij maula hamare
-  Ay saqi abbas
+  Ae saqi abbas
   Mere dar pe alam hai tera
   Mai tera hoo tu mera
   Bas ek dua karta hai
   Maula har aashiq tera
   Mere ghar may aaye ek baar
   Hamare maula ghazi sarkar...
-  Hum log julooson may ghazi
+  Hum log julusoṅ may ghazi
   Tera alam utha kar chalte hai
   Abbas abhi tak zinda hai
   Ye dekh ke dushman jalte hai
   Haye nasli aur asli alam bardaar
   Hamare maula ghazi sarkar...
   Ye baab e ata ka maalik hai
-  Dunya waalon na ghabrao
+  Dunya waaloṅ na ghabrao
   Tum waasta le kar zainab ka
   Abbas ke dar par aa jao
   Nahi karte kabhi inkaar
@@ -38,9 +38,9 @@ romanLyrics: |-
   Nau laakh ka jaane hota
   Le jaate agar talwaar
   Hamare maula ghazi sarkar...
-  Akbar ko funoon e harb sabhi
+  Akbar ko funun-e-harb sabhi
   Tu ne hi sikhaye hai maula
-  Ustad hai zainab zaadon ka
+  Ustad hai zainab zaadoṅ ka
   Shagird hai qasim bhi tera
   Hashim ke sipaah saalaar
   Hamare maula ghazi sarkar...
@@ -51,16 +51,16 @@ romanLyrics: |-
   Lagta hai tera darbaar
   Hamare maula ghazi sarkar...
   Wo baabe hawaij ka dar hai
-  Jahan bichde huwe mil jaate hai
+  Jahaṅ bichre huwe mil jaate hai
   Is baar kahenge hum jaa kar
   Maa baap bahot yaad aate hai
   Milwado hamay ek baar
   Hamare maula ghazi sarkar...
-  Ay zeeshan o irfan e aza
+  E zishan o irfan e aza
   Jab maahe moharram aata hai
   Ye soch ke roz e ashoora
-  Har matami khoon bahata hai
-  Galay mil ke karenge pyar
+  Har matami khun bahata hai
+  Gale mil ke kareṅge pyar
   Hamare maula ghazi sarkar...
 # source_id: nohayonline:f6cfd4e81620ac576516
 # source_url: https://www.nohayonline.com/details_content.php?id=1652

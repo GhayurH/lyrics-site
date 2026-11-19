@@ -16,33 +16,33 @@ romanLyrics: |-
   Baghdad ka qaidi pardesi maula o mera qaidi maula
   Qaid khana musa e kazim ka maqtal ban gaya
   Baap ki mayyat uthaane aaiye maula raza
-  Ho salaam us par jise zindan mein maut aa gayi
-  Haath ki zanjeer haye gosht jiska kha gayi
-  Beh raha hai jis ke zakhmon se lahoo wa ghurbata
+  Ho salaam us par jise zindan meiṅ maut aa gayi
+  Haath ki zanjir haye gosht jiska kha gayi
+  Beh raha hai jis ke zakhmoṅ se lahu wa ghurbata
   Qaid khana musae kazim...
-  Qaid bhi aisi jahan seedhi na ho paaye kamar
-  Kyun na wo aansu bahaate haalat e sajjad par
+  Qaid bhi aisi jahaṅ sidhi na ho paaye kamar
+  Kiuṅ na wo aansu bahaate haalat e sajjad par
   Haye yaad aata tha jab bhi tauq aur zakhmi gala
   Qaid khana musae kazim...
   Jaa ke ye masooma e qum ko koi dede khabar
   Ab nahi aayenge baba phir madine laut kar
   Aaj se baba ka apne dekhna mat raasta
   Qaid khana musae kazim...
-  Betiyon se haye jo mil na saka chauda baras
+  Betiyoṅ se haye jo mil na saka chauda baras
   Dekhta rehta tha yasrab ki taraf wo baap bas
-  Betiyon ko yaad karke qaid mein rota raha
+  Betiyoṅ ko yaad karke qaid meiṅ rota raha
   Qaid khana musae kazim...
   Ghurbate aale mohamed par karo matam bapa
-  Qaid khane se uthega ye janaza doosra
+  Qaid khane se uthega ye janaza dusra
   Wo jo khaati thi tamache us sakina ki tarha
   Qaid khana musae kazim...
   Zeher se maara gaya hai phir se zehra ka pisar
-  Haath pehlu par rakhe aayi hai turbat chod kar
+  Haath pehlu par rakhe aayi hai turbat chor kar
   Baithi mayyat ke sirhane ro rahi hai fatema
   Qaid khana musae kazim...
-  Aaj matam hai bapa us be-watan ki yaad mein
-  Haye jo sab se zyada zakhmi tha baghdad mein
-  Is liye farhan roya hai qalam zeeshan ka
+  Aaj matam hai bapa us bewatan ki yaad meiṅ
+  Haye jo sab se zyada zakhmi tha baghdad meiṅ
+  Is liye farhan roya hai qalam zishan ka
   Qaid khana musae kazim...
 # source_id: nohayonline:07b7166576188ec67ae1
 # source_url: https://www.nohayonline.com/details_content.php?id=3417

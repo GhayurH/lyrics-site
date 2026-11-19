@@ -10,8 +10,8 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aik baar aur mujhe god mein le lo Baba
-  Jor kar nanhe se haathon ko Sakina ne kaha
+  Aik baar aur mujhe god meiṅ le lo Baba
+  Jor kar nanhe se haathoṅ ko Sakina ne kaha
 
   1
   Apni Beti Ki Taraf Pyar Se Dekho Baba.
@@ -19,34 +19,34 @@ romanLyrics: |-
   Kuch Nahi Mango Gi Phir Tum Se Yeh Wadah Hai Mera.
 
   2
-  Pass Be-Sheer Ke Maqtal Mein Chale Jao Gaye.
-  Mujh Ko Maloom Hai Ab Aap Nahi Ayo Gaye.
+  Pass beShir Ke Maqtal Meiṅ Chale Jao Gaye.
+  Mujh Ko Malum Hai Ab Aap Nahi Ayo Gaye.
   Kya Yeh Mumkin Nahi Kuch Dair Theher Jao Zara.
 
   3
-  Phool Ki Tarha Sada Sath Hi Rakha Mujh Ko.
+  Phul Ki Tarha Sada Sath Hi Rakha Mujh Ko.
   Aaj Tak Aap Ne Tanha Nahi Chora Mujh Ko.
-  Ab Mujhe Choor Ke Kyun Jate Ho Tanha Baba.
+  Ab Mujhe Chur Ke Kiuṅ Jate Ho Tanha Baba.
 
   4
-  Tanha Maidan Mein Hargiz Nahi Jane Dete.
+  Tanha Maidan Meiṅ Hargiz Nahi Jane Dete.
   Hote Ghazi Tu Sakina Ki Sifarash Karte.
   Aap Ko Wasta Ghazi Ke Kate Shano Ka.
 
   5
-  Yeh Amanat Na Koi Cheen Le Mujh Se Aa Kar.
+  Yeh Amanat Na Koi Chin Le Mujh Se Aa Kar.
   Sath Le Jaiye Baba Mere Kano Ke Gohar.
-  Apni Masoom Sakina Pe Yeh Ahsaan Ho Ga.
+  Apni Masum Sakina Pe Yeh Ahsaaṅ Ho Ga.
 
   6
   Phir Se Quran Muhabbat Ki Tilawat Kar Loon.
-  Dil Yeh Kehta Hai Keh Jee Bhar Ke Ziyarat Kar Loon.
+  Dil Yeh Kehta Hai Keh Ji Bhar Ke Ziyarat Kar Loon.
   Ab Kahan Ho Gi Mulaqat Na Jane Baba.
 
   7
-  Waqt Aye Kash Takallum Jo Wahin Ruk Jata.
+  Waqt Ae Kash Takallum Jo Wahiṅ Ruk Jata.
   Apne Baba Se Sakina Na Kabhi Hoti Juda.
-  Phir Kabhi Aati Na Masoom Labon Se Yeh Sada.
+  Phir Kabhi Aati Na Masum Laboṅ Se Yeh Sada.
 ---
 ایک بار اور مجھے گود میں لے لو بابا
 جوڑ کر ننھے سے ہاتھوں کو سکینہ نے کہا

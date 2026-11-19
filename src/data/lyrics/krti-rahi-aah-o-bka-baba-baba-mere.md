@@ -11,105 +11,105 @@ published: false
 romanLyrics: |-
   1
   Baba meary
-  Ghar may teray
-  Baad teray Zulm o sitam
-  Ham pe huay
-  Sehtay rahay
+  Ghar may tere
+  Baad tere Zulm o sitam
+  Ham pe hue
+  Sehte rahe
 
   2
-  May khaak par yun thi parri
+  May khaak par yuṅ thi parri
   Tha hath may daman Ali
   Rassi may thi gardan Ali
-  Chorro unhain kehti rahi
-  Baba meray
+  Chorro unhaiṅ kehti rahi
+  Baba mere
 
   3
-  Aati hay Zahra ki sada
-  Baba baba meray
-  Aey baba baba meray
+  Aati hai Zahra ki sada
+  Baba baba mere
+  Ae baba baba mere
   Karti rahi aah o buka
-  Baba baba meray
-  Aey baba baba meray
+  Baba baba mere
+  Ae baba baba mere
 
   4
-  Zulm o sitam ke tootay
-  Aisay paharr baba
-  Parrtay agar dino pe
-  Ho jatay wo siyah(ha)
+  Zulm o sitam ke tute
+  Aise paharr baba
+  Parrte agar dino pe
+  Ho jate wo siyah(ha)
   Shab pe agar ye parrtay
   Din may badal wo jata
 
   5
   Karti rahi aah o buka
-  Baba baba meray
-  Aey baba baba meray
-  Aati hay Zahra ki sada
-  Baba baba meray
-  Aey baba baba meray
+  Baba baba mere
+  Ae baba baba mere
+  Aati hai Zahra ki sada
+  Baba baba mere
+  Ae baba baba mere
 
   6
-  Teray baad baba ummat
+  Tere baad baba ummat
   Itni badal gayi thi
-  Ho gayi adoo Ali ki
+  Ho gayi adu Ali ki
   Na to un ki pairawi ki
   Gardan may bhi rassi thi
-  May zameen par parri thi
+  May zamin par parri thi
 
   7
   Karti rahi aah o buka
-  Baba baba meray
-  Aey baba baba meray
-  Aati hay Zahra ki sada
-  Baba baba meray
-  Aey baba baba meray
+  Baba baba mere
+  Ae baba baba mere
+  Aati hai Zahra ki sada
+  Baba baba mere
+  Ae baba baba mere
 
   8
   Mera hath baba jis ke
   Tu ne hath may diya tha
-  De raha hoon may amanat
-  Jisay aap ne kaha tha
-  Usay qaidi tha banaya
-  Usay roz o shab rulaya
+  De raha huṅ may amanat
+  Jise aap ne kaha tha
+  Use qaidi tha banaya
+  Use roz o shab rulaya
 
   9
   Karti rahi aah o buka
-  Baba baba meray
-  Aey baba baba meray
-  Aati hay Zahra ki sada
-  Baba baba meray
-  Aey baba baba meray
+  Baba baba mere
+  Ae baba baba mere
+  Aati hai Zahra ki sada
+  Baba baba mere
+  Ae baba baba mere
 
   10
   Haqqe Ali ki khatir
-  Dastak diye hain dar dar
+  Dastak diye haiṅ dar dar
   Mangi gawahi jab to
   Koi na aaya bahar
-  Zehra ka ghar jalanay
-  Sab aa gaye hain dar par
+  Zehra ka ghar jalane
+  Sab aa gaye haiṅ dar par
 
   11
   Karti rahi aah o buka
-  Baba baba meray
-  Aey baba baba meray
-  Aati hay Zahra ki sada
-  Baba baba meray
-  Aey baba baba meray
+  Baba baba mere
+  Ae baba baba mere
+  Aati hai Zahra ki sada
+  Baba baba mere
+  Ae baba baba mere
 
   12
-  Thokar se dar ko meray
-  Logon ne tha giraya
-  Us jaltay dar ke peechay
+  Thokar se dar ko mere
+  Logoṅ ne tha giraya
+  Us jalte dar ke piche
   Thi teri beti Zahra
   Pehlu shikasta kar ke
-  Mohsin ko meray maara
+  Mohsin ko mere maara
 
   13
   Karti rahi aah o buka
-  Baba baba meray
-  Aey baba baba meray
-  Aati hay Zahra ki sada
-  Baba baba meray
-  Aey baba baba meray
+  Baba baba mere
+  Ae baba baba mere
+  Aati hai Zahra ki sada
+  Baba baba mere
+  Ae baba baba mere
 
   14
   Jhutlaya mujh ko baba
@@ -121,43 +121,43 @@ romanLyrics: |-
 
   15
   Karti rahi aah o buka
-  Baba baba meray
-  Aey baba baba meray
-  Aati hay Zahra ki sada
-  Baba baba meray
-  Aey baba baba meray
+  Baba baba mere
+  Ae baba baba mere
+  Aati hai Zahra ki sada
+  Baba baba mere
+  Ae baba baba mere
 
   16
-  Haq apna mangnay may
+  Haq apna mangne may
   Darbar may gayi jo
   Tehqir kar ke meri
-  Thay dantay mujhe wo
+  The dante mujhe wo
   Khutba jo un ko deti
-  Kartay thay shor o ghul wo
+  Karte the shor o ghul wo
 
   17
   Karti rahi aah o buka
-  Baba baba meray
-  Aey baba baba meray
-  Aati hay Zahra ki sada
-  Baba baba meray
-  Aey baba baba meray
+  Baba baba mere
+  Ae baba baba mere
+  Aati hai Zahra ki sada
+  Baba baba mere
+  Ae baba baba mere
 
   18
   Baatil ke rukh se parda
-  Abbas yun hataya
-  Kar ke bayan wilayat
-  Zehra ne hay batay
-  Yehi asal e zindagi hay
-  Isay na kabhi bhulana
+  Abbas yuṅ hataya
+  Kar ke bayaṅ wilayat
+  Zehra ne hai batay
+  Yehi asal e zindagi hai
+  Ise na kabhi bhulana
 
   19
   Karti rahi aah o buka
-  Baba baba meray
-  Aey baba baba meray
-  Aati hay Zahra ki sada
-  Baba baba meray
-  Aey baba baba meray
+  Baba baba mere
+  Ae baba baba mere
+  Aati hai Zahra ki sada
+  Baba baba mere
+  Ae baba baba mere
 # source_id: ziyaraat:bb002af47628b629a087
 # source_url: https://www.ziyaraat.net/api/noha/2174
 # raw_sha256: 4cccffaebb5d0b820b72a37c06db79b63fd3c032aa1c87e2aa31a19c9db9aef5

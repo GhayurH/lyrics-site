@@ -8,26 +8,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Judaeyan maar gaeyaan nay haar gaeyan nay sahwaa’n meriyan..
+  Judaeyaṅ maar gaeyaaṅ nay haar gaeyaṅ nay sahwaaṅ meriyan..
 
   Sani)
-  Gawah beemar diyan nay- meray Izhar diyan nay rahwaa’n teriyan .
+  Gawah bimar diyaṅ nay- mere Izhar diyaṅ nay rahwaaṅ teriyan .
 
   Antra)
-  Jina hathaa’n tu Asghar karbal nu tur peya si Rab janay ki keya si
-  Tu man babay di tureya si , tay sun kay kyun na mureya hanwaa’n meriyan .
+  Jina hathaaṅ tu Asghar karbal nu tur peya si Rab janay ki keya si
+  Tu man babay di tureya si , tay sun kay kiun na mureya hanwaa’n meriyan .
 
   Antra)
-  Menu lagda aay Akbar hun tu nae murr Kay aana , mukna nahin mera rona
+  Menu lagda ae Akbar hun tu nae murr Ke aana , mukna nahin mera rona
   Tu meray ron muka ja tay ban kay sir tay aaja chawaan meriyan .
 
   Antra)
-  Muk gae udeek teri main Akbar sochni aan Haye naal kyun na gae aan
-  Tu deray door nay laye koi sun’da nahin Haye sadawaa’n meriyan..
+  Muk gae udik teri maiṅ Akbar sochni aaṅ Haye naal kiun na gae aaṅ
+  Tu deray door nay laye koi sun’da nahin Haye sadawaaṅ meriyan..
 
   Antra)
-  Wangu Yaqoob diyan akhiyn her wailay rondiyan nay ek pal na sondiyan nay
-  Main aasa’n veeran rakhiyan teri rahwaa’n tay lagiyan nigahwaa’n meriyan .
+  Wangu Yaqub diyan akhiyṅ her waile rondiyaṅ ne ek pal na sondiyan ne
+  Main aasaṅ veeran rakhiyan teri rahwaaṅ tay lagiyan nigahwaaṅ meriyan .
 
   URDU
 # source_id: nohawriteups:f8e2503d6800e3e26e02

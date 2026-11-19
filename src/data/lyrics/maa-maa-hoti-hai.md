@@ -11,76 +11,76 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Waqt nazdeek tha aakhri raat thi
+  Waqt nazdik tha aakhri raat thi
   Zakhmi zahra ne fizza ko awaaz di
   Aayi fizza to zahra ne ro kar kaha
   Ab tumhare hawale hai ye ghar mera
-  Tumko maloom hai mera haal ay bahan
-  Mere bachon ka rakhna khayaal ay bahan
-  Ye fizza pukari batayein ye bibi
-  Kami kaise maa ki mai poori karungi
+  Tumko malum hai mera haal ae bahan
+  Mere bachoṅ ka rakhna khayaal ae bahan
+  Ye fizza pukari batayeiṅ ye bibi
+  Kami kaise maa ki mai puri karungi
   Maa maa hoti hai
-  Wo dekhte hain tum ko to milta hai un ko chain
-  Amma pukaarte hain tumhein bhi Hasan Husain
-  Mai bhooli nahi aap ka ghar chalana
-  Wo ek waqt mein do fareeze nibhana
-  Wo chakki chalana wo jhoola jhulana
+  Wo dekhte haiṅ tum ko to milta hai un ko chain
+  Amma pukaarte haiṅ tumheiṅ bhi Hasan Husain
+  Mai bhuli nahi aap ka ghar chalana
+  Wo ek waqt meiṅ do farize nibhana
+  Wo chakki chalana wo jhula jhulana
   Kabhi aap ke bin na guzra koi din
   Mujhe amma fizza wo kehte hai lekin
   Maa maa hoti hai
-  Aadat hai loriyon ki mere dil ke chain ko
+  Aadat hai loriyoṅ ki mere dil ke chain ko
   Lori suna ke tum bhi sulaana Husain ko
-  Wo godhi mein lekar usay pyar karna
+  Wo godhi meiṅ lekar use pyar karna
   Wo kehna mere laal soja hussaina
   Wo awaaz sunte hi bete ka sona
   Mai jab usko lori sunaungi bibi
-  Kahan se wo awaaz laaungi bibi
+  Kahaṅ se wo awaaz laaungi bibi
   Maa maa hoti hai
-  Lagti bahut hai pyaas mere noor-e-ain ko
-  Uth uth ke shab mein paani pilaana Husain ko
+  Lagti bahut hai pyaas mere nur-e-ain ko
+  Uth uth ke shab meiṅ paani pilaana Husain ko
   Ho pyasa to pani piladungi bibi
   Mai khaana bhi usko khiladungi bibi
-  Savere mein chehra dhuladungi bibi
-  Galay se laga'un wo roothe mana'un
-  Magar maa ki khusboo kahan se mai laa'un
+  Savere meiṅ chehra dhuladungi bibi
+  Gale se laga'un wo ruthe mana'un
+  Magar maa ki khusbu kahaṅ se mai laa'un
   Maa maa hoti hai
   Zaalim ne dar gira ke meri god ujaar kar
   Ek nasl khatm ki mere Mohsin ko maar kar
-  Ay bibi wo dar jab uthaya tha maine
-  Shikasta hai pehlu ye dekha tha maine
-  Wo jab aap se haal poocha tha maine
-  Na hum phasliyon ka na pehlu ka sadma
+  Ae bibi wo dar jab uthaya tha maiṅ ne
+  Shikasta hai pehlu ye dekha tha maiṅ ne
+  Wo jab aap se haal pucha tha maiṅ ne
+  Na hum phasliyoṅ ka na pehlu ka sadma
   Thi ye fikr mohsin na mar jaye mera
   Maa maa hoti hai
   Jab bhi Hasan ke saamne jaati hai Fatima
-  Haathon se apne gaal chhupaati hai Fatima
-  Kaha roke fizza ne ay shaahzadi
+  Haathoṅ se apne gaal chhupaati hai Fatima
+  Kaha roke fizza ne ae shaahzadi
   Wo chup chup ke rota hai ghurbat pe maa ki
-  Nishan ungliyon ke hai chehre pe ab bhi
+  Nishaṅ ungliyoṅ ke hai chehre pe ab bhi
   Janaze pe aa ke wo chehra jo dekhe
   Mai us waqt usko sambhalungi kaise
   Maa maa hoti hai
-  Beparda laayi jaayengi bazaar betiyaan
-  Meri tarah se jaayengi darbaar betiyaan
-  Unhe shaamiyon se bachalungi bibi
-  Mai haathon ko chadar banalungi bibi
-  Unhe apne peeche chupalungi bibi
+  Beparda laayi jaayengi bazaar betiyaaṅ
+  Meri tarah se jaayengi darbaar betiyaaṅ
+  Unhe shaamiyoṅ se bachalungi bibi
+  Mai haathoṅ ko chadar banalungi bibi
+  Unhe apne piche chupalungi bibi
   Khule sar wo aaye jo darbar jaye
   Chali aaiyega jo zainab bulaye
   Maa maa hoti hai
   Tasbih kar rahi thi jo aawaaz kho gayi
-  Thak kar ghamon se Fatima khaamosh ho gayi
+  Thak kar ghamoṅ se Fatima khaamosh ho gayi
   Janaze pe zehra ke dekha ye manzar
   Kaha jab ye shabbir ne maa se ro kar
-  Ay amma bulalo hai bechain dilbar
+  Ae amma bulalo hai bechain dilbar
   Ye sunkar kafan se uthe haath maa ke
   Ye fizza ne dekha to boli ali se
   Maa maa hoti hai
-  Raza aur zeeshan kaisa samaa tha
+  Raza aur zishan kaisa samaa tha
   Wo jab shimr ne sheh pe khanjar chalaya
-  Pahunch kar ye maqtal mein fizza ne dekha
+  Pahunch kar ye maqtal meiṅ fizza ne dekha
   Pisar ke sirhane kaha fatema ne
-  Lehad chod aayi hoo tujhko bachane
+  Lehad chor aayi hoo tujhko bachane
   Maa maa hoti hai
 # source_id: nohayonline:ec7cfbf065e99966227f
 # source_url: https://www.nohayonline.com/details_content.php?id=1022

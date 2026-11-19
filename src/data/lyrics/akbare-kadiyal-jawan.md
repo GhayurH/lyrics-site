@@ -1,6 +1,6 @@
 ---
 title: "اکبر کڑیل جواں اکبر کڑیل جواں"
-alternateTitle: "Akbare Kadiyal Jawan"
+alternateTitle: "Akbare Kariyal Jawaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

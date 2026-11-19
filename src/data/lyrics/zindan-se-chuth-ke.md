@@ -12,44 +12,44 @@ published: false
 romanLyrics: |-
   1
   Karbala aagaye sadaat karbala aagaye sadaat
-  Uthiye hussain aap ke zawwar aaye hai
-  Zindan se chuth ke abid e bemaar aaye hai
-  Bhoole nahi hai shaam aur kufe ke raaste
+  Uthiye Husain aap ke zawwar aaye hai
+  Zindaṅ se chuth ke abid e bemaar aaye hai
+  Bhule nahi hai shaam aur kufe ke raaste
   Tarse huwe hai maula ye matam ke waaste
   Sab kuch luta ke aap ke ghamkhaar aaye hai
-  Zindan se chuth ke...
+  Zindaṅ se chuth ke...
   Zainab ne chalte naaqe se khud ko gira diya
   Phir koniyo se chal ke gayi bhai se kaha
-  Hum log hoke koocha o bazaar aaye hai
-  Zindan se chuth ke...
-  Gardan pe aur jism pe zanjeer ke nishan
-  Ek ek zakhm dard ki kehta hai daastan
-  Zindan se zinda laut ke lachaar aaye hai
-  Zindan se chuth ke...
-  Jee khol kar yahan tera matam karenge hum
-  Karbobala mein majlis e chehlum karenge hum
-  Ay maula shaam waale azadar aaye hai
-  Zindan se chuth ke...
-  Zindan mein ek teri azadar reh gayi
-  Karbobala na aayi na zindan se ghar gayi
+  Hum log hoke kucha o bazaar aaye hai
+  Zindaṅ se chuth ke...
+  Gardan pe aur jism pe zanjir ke nishaṅ
+  Ek ek zakhm dard ki kehta hai daastaṅ
+  Zindaṅ se zinda laut ke lachaar aaye hai
+  Zindaṅ se chuth ke...
+  Ji khol kar yahaṅ tera matam kareṅge hum
+  Karbobala meiṅ majlis e chehlum kareṅge hum
+  Ae maula shaam waale azadar aaye hai
+  Zindaṅ se chuth ke...
+  Zindaṅ meiṅ ek teri azadar reh gayi
+  Karbobala na aayi na zindaṅ se ghar gayi
   Dafna ke usko abid e bemaar aaye hai
-  Zindan se chuth ke...
-  Zindan mein karke aaya hai majlis ye kaarwan
-  Sab bibiyan thi matami zainab thi nauhakhwan
-  Mehwe buka o deeda e khoon khwaar aaye hai
-  Zindan se chuth ke...
-  Kaisa safar batool ki beti ne tay kiya
-  Dete nahi thay log aseeron ko raasta
-  Tay karke saari manzilein dushwaar aaye hai
-  Zindan se chuth ke...
-  Be-dard thay wo shaam aur kufe ke sab makeen
-  Tang hogayi thi aale mohamed pe ye zameen
-  Sadaat hoke jeene se bezaar aaye hai
-  Zindan se chuth ke...
-  Farhan o mazhar abdi kyun na ho nauhagar
+  Zindaṅ se chuth ke...
+  Zindaṅ meiṅ karke aaya hai majlis ye kaarwaṅ
+  Sab bibiyaṅ thi matami zainab thi nauhakhwan
+  Mehwe buka o dida e khuṅ khwaar aaye hai
+  Zindaṅ se chuth ke...
+  Kaisa safar batul ki beti ne te kiya
+  Dete nahi the log asiroṅ ko raasta
+  Te karke saari manzileiṅ dushwaar aaye hai
+  Zindaṅ se chuth ke...
+  bedard the wo shaam aur kufe ke sab makiṅ
+  Tang hogayi thi aale mohamed pe ye zamiṅ
+  Sadaat hoke jine se bezaar aaye hai
+  Zindaṅ se chuth ke...
+  Farhan o mazhar abdi kiuṅ na ho nauhagar
   Sajjad chut ke qaid se baba ki qabr par
   Lekar nishane tauq e garabaar aaye hai
-  Zindan se chuth ke...
+  Zindaṅ se chuth ke...
 # source_id: nohayonline:a37c2f2ad1e5fc6c9336
 # source_url: https://www.nohayonline.com/details_content.php?id=1092
 # raw_sha256: 5fd919005dc3805cdcd5a9bf8faf649408a2facfe5b56275212c1632164b244a

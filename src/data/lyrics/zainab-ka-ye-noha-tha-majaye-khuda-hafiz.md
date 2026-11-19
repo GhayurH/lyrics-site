@@ -15,16 +15,16 @@ romanLyrics: |-
   1
   Kya din hamay furqat ne dikhlaye khuda hafiz
   Ek godh ke paale hai khele hai ek aangan may
-  Ab chod chale mujhko tanhai ke is ban may
+  Ab chor chale mujhko tanhai ke is ban may
   Shikwa ye behan lab par kya laaye khuda hafiz
 
   2
-  Ab kaun sakina ko seene pe sulayega
+  Ab kaun sakina ko sine pe sulayega
   Roothegi agar bachi kaun usko manayega
   Ro roke na wo bachi mar jaye khuda hafiz
 
   3
-  Khud apne hi haathon se amma ne siya tha jo
+  Khud apne hi haathoṅ se amma ne siya tha jo
   Amma ki wasiyat thi kurta wohi ab pehno
   Puri wo wasiyat bhi hojaye khuda hafiz
 

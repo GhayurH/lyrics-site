@@ -1,6 +1,6 @@
 ---
 title: "اے پالنے والے اے پالنے والے"
-alternateTitle: "Ay Paalne Waale"
+alternateTitle: "E Paalne Waale"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,16 +10,16 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ay paalne waale ay paalne waale
+  Ae paalne waale ae paalne waale
 
   1
-  Ay paalne waale mujhe baba se milaade
+  Ae paalne waale mujhe baba se milaade
   Jab baba sakina ke na maidan se laute
   Us waqt sakina ne kaha dasht may roke
   Hai koi jo baba ko mere aaj bachaale
 
   2
-  Din bhar meri aankhon ne yehi dekha hai manzar
+  Din bhar meri aankhoṅ ne yehi dekha hai manzar
   Jo bhi gaya maidan may aaya na palat kar
   Baba hai idhar tanha udhar shaam ka lashkar
 
@@ -31,22 +31,22 @@ romanLyrics: |-
   4
   Pani jo gaye lene chacha jaan hamare
   Neendh aagayi unko bhi taraai ke kinare
-  Pardes may jee paaungi mai kiske sahare
+  Pardes may ji paaungi mai kiske sahare
 
   5
-  Seene pe mujhe baba ke chain aata hai so kar
-  Is ban may unhe haye kahan dhoondun mai jaa kar
-  Bin baap ke ab neendh mujhe aayegi kyun kar
+  Sine pe mujhe baba ke chain aata hai so kar
+  Is ban may unhe haye kahaṅ dhunduṅ mai jaa kar
+  Bin baap ke ab neendh mujhe aayegi kiuṅ kar
 
   6
   Ek baar mere baba mujhe aake pukare
-  Aagosh may ay kaash mujhe aake sulaade
-  Ab lamhon may sab dard unhe apna batade
+  Aagosh may ae kaash mujhe aake sulaade
+  Ab lamhoṅ may sab dard unhe apna batade
 
   7
   Daanish suye maidan hi takti thi sakina
-  Baba ki judaai may tadapti thi sakina
-  Bas haaton ko phailake ye kehti thi sakina
+  Baba ki judaai may tarapti thi sakina
+  Bas haatoṅ ko phailake ye kehti thi sakina
 # source_id: nohayonline:e334e5e57d82ea289375
 # source_url: https://www.nohayonline.com/content_salaam.php?id=18
 # raw_sha256: 8dad95386c1f5de978b4873013328e693da8d4c5582e003d9912a99b1441a74d

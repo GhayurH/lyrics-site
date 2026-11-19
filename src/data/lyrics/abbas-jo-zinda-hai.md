@@ -13,28 +13,28 @@ romanLyrics: |-
   Abhi dur Karbala hai Abbas jo zinda hai
 
   1
-  Is noori karwaan meiṅ noori amaariyaṅ haiṅ
-  Noori amaariyoṅ meiṅ noori sawaariyaṅ haiṅ
+  Is nuri karwaaṅ meiṅ nuri amaariyaṅ haiṅ
+  Nuri amaariyoṅ meiṅ nuri sawaariyaṅ haiṅ
   Sar par alam khula hai Abbas jo zinda hai
 
   2
   Na mehramoṅ ka majma hat hat ke hai guzarta
-  Pehre meiṅ baawafa ke tay ho raha hai raasta
+  Pehre meiṅ baawafa ke te ho raha hai raasta
   Kya shaan o dabdaba hai Abbas jo zinda hai
 
   3
-  Abbas jaisa bhai saalaar-e-karwaan hai
+  Abbas jaisa bhai saalaar-e-karwaaṅ hai
   Bole Husain mujh ko phir koi gham kahaṅ hai
   Har gham ki ye dawa hai Abbas jo zinda hai
 
   4
-  Zainab haya ki malka Kulsoom aur Ruqayya
+  Zainab haya ki malka Kulsum aur Ruqayya
   Laila Rubab Farwa Kubra Sakina Fizza
   Har Bibi ba rida hai Abbas jo zinda hai
 
   5
   Asghar se khelti hai khush hai bahut Sakina
-  Jab chahti hai sona hai Baba jaan ka sina
+  Jab chahti hai sona hai Baba jaaṅ ka sina
   Gham se na aashna hai Abbas jo zinda hai
 # source_id: nohawriteups:34a7e3cecdd274521386
 # source_url: https://www.nohawriteups.org/abbas-a-s-jo-zinda-hai/

@@ -1,6 +1,6 @@
 ---
 title: "شب کی تاریکی میں نمازِ شب کے بعد"
-alternateTitle: "Namaze Shab Mein"
+alternateTitle: "Namaze Shab Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shab ki tareeki mein namaze shab ke baad
-  Mera mazloom imam dua maang raha hai
-  Mere maula tujhe waasta is ghareeb ke ashkon ka
-  Sukoone dil ke liye kar mujhe sakina ata
+  Shab ki tariki meiṅ namaze shab ke baad
+  Mera mazlum imam dua maang raha hai
+  Mere maula tujhe waasta is gharib ke ashkoṅ ka
+  Sukune dil ke liye kar mujhe sakina ata
   Allah allah allah allah
-  Namaze shab mein koi baap maangta hai dua
+  Namaze shab meiṅ koi baap maangta hai dua
   Allah allah allah allah
-  Sukoone dil ke liye kar mujhe sakina ata
+  Sukune dil ke liye kar mujhe sakina ata
   Diya hai sabr to mujhko qaraar bhi dede
-  Mehek batool ki hyder ka pyar bhi dede
-  Usay mai dekhun to yaad aaye mujhko maa zahra
+  Mehek batul ki hyder ka pyar bhi dede
+  Use mai dekhun to yaad aaye mujhko maa zahra
   Allah allah allah allah
-  Namaze shab mein koi baap...
-  Wo mere seene pe soye to dhadkane khush ho
-  Chale wo ungli pakad kar to aahatein khush ho
-  Wo maange pani to haathon ko mai karun kooza
+  Namaze shab meiṅ koi baap...
+  Wo mere sine pe soye to dharkane khush ho
+  Chale wo ungli pakar kar to aahateiṅ khush ho
+  Wo maange pani to haathoṅ ko mai karuṅ kooza
   Allah allah allah allah
-  Namaze shab mein koi baap...
+  Namaze shab meiṅ koi baap...
   Suna hai beti janaze ki hoti hai raunaq
   Mujhe bhi chahiye quran e zindagi ka waraq
-  Milay janaze ki raunaq bara e karbobala
+  Mile janaze ki raunaq bara e karbobala
   Allah allah allah allah
-  Namaze shab mein koi baap...
+  Namaze shab meiṅ koi baap...
   Ibadaton ka sila tujhse maangta hoo mai
   Yehi to ek dua tujhse maangta hoo mai
   Charaghe qaima bhujaun to wo ho misle diya
   Allah allah allah allah
-  Namaze shab mein koi baap...
-  Sataye yaad usay jab hamare seene ki
-  To qaid khane mein majlis bapa kare meri
+  Namaze shab meiṅ koi baap...
+  Sataye yaad use jab hamare sine ki
+  To qaid khane meiṅ majlis bapa kare meri
   Phupi ke saath musalle pe wo kare girya
   Allah allah allah allah
-  Namaze shab mein koi baap...
-  Khuda ne sunli dua e hussain ibne ali
+  Namaze shab meiṅ koi baap...
+  Khuda ne sunli dua-e-Husain ibne ali
   Mili wo beti jo bilkul shabihe zahra thi
-  Sukoon mil gaya sheh ko sakina naam rakha
+  Sukun mil gaya sheh ko sakina naam rakha
   Allah allah allah allah
-  Namaze shab mein koi baap...
-  Magar sukoon ye karbobala mein jaata raha
-  Hui yateem sakina bandha rasan mein gala
-  Hussein rote thay kehke barsare naiza
+  Namaze shab meiṅ koi baap...
+  Magar sukun ye karbobala meiṅ jaata raha
+  Hui yatim sakina bandha rasan meiṅ gala
+  Hussein rote the kehke barsare naiza
   Allah allah allah allah
-  Namaze shab mein koi baap...
-  Sitam ye shaam ke darbar mein hua kaisa
-  Jise hussain ne apne khuda se maanga tha
-  Usay kaneezi mein apni kisi ne maang liya
+  Namaze shab meiṅ koi baap...
+  Sitam ye shaam ke darbar meiṅ hua kaisa
+  Jise Husain ne apne khuda se maanga tha
+  Use kanizi meiṅ apni kisi ne maang liya
   Allah allah allah allah
-  Namaze shab mein koi baap...
-  Pasay hussain sakina ne wo sitam dekhe
-  Tadap ke kehti thi bacchi padar ke laashe se
-  Chupalo khoon bhare daaman mein mujhko ay baba
+  Namaze shab meiṅ koi baap...
+  Pasay Husain sakina ne wo sitam dekhe
+  Tarap ke kehti thi bacchi padar ke laashe se
+  Chupalo khuṅ bhare daaman meiṅ mujhko ae baba
   Allah allah allah allah
-  Namaze shab mein koi baap...
-  Sar e hussain se aayi sada sar e maidan
-  Namaz e shab ki dua ka asar sakina jaan
+  Namaze shab meiṅ koi baap...
+  Sar e Husain se aayi sada sar e maidaṅ
+  Namaz e shab ki dua ka asar sakina jaaṅ
   Karenga teri hifazat wo naam hai jiska
   Allah allah allah allah
-  Namaze shab mein koi baap...
+  Namaze shab meiṅ koi baap...
   Rehaan azmi kehti thi karbala ki faza
   Hai baap beti ka ye imtehan kaisa khuda
   Har ek zulm pe dono ke lab pe hai ye sada
   Allah allah allah allah
-  Namaze shab mein koi baap...
+  Namaze shab meiṅ koi baap...
 # source_id: nohayonline:a886b81160ab4215409f
 # source_url: https://www.nohayonline.com/details_content.php?id=2412
 # raw_sha256: 07e6d6f045c81f6e101cb1d00f6d535d84609a4bb8a796c7ff42b417b1c11dfe

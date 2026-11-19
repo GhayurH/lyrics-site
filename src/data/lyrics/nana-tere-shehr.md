@@ -11,67 +11,67 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bazaar ho kar zindan se chut kar
+  Bazaar ho kar zindaṅ se chut kar
   Zainab aagayi nana
-  Pardes jaa kar ujda mera ghar
-  Bichde baradar sab kuch luta kar
-  Nana tere shehr mein zainab ujad ke aagayi
-  Mai to ujad gayi hoo karbobala basa gayi
+  Pardes jaa kar ujra mera ghar
+  Bichre baradar sab kuch luta kar
+  Nana tere shehr meiṅ zainab ujar ke aagayi
+  Mai to ujar gayi hoo karbobala basa gayi
   Nana tere shehr mein...
-  Ay nana sun sako to rudaad e gham sunaun
-  Jo zakhm maine khaye wo sab tumhe dikhaun
+  Ae nana sun sako to rudaad-e-gham sunauṅ
+  Jo zakhm maiṅ ne khaye wo sab tumhe dikhauṅ
   Sare karbala mera ghar luta
   Baradar gaye chini hai rida
-  Mai to ujad gayi hoo
+  Mai to ujar gayi hoo
   Bhai se jo kiye wo waade sabhi nibha gayi
   Nana tere shehr mein...
-  Maahe rajab mein mera bhai watan se nikla
-  Ay nana baad tere ummat ne yun sataya
+  Maahe rajab meiṅ mera bhai watan se nikla
+  Ae nana baad tere ummat ne yuṅ sataya
   Suye karbala chala khaafla
   Musafir bana tera laadla
-  Mai to ujad gayi hoo
+  Mai to ujar gayi hoo
   Ab mera ghar lutega ye baat dil ko kha gayi
   Nana tere shehr mein...
-  Sheh ne zameen khareedi karbal hai naam jiska
-  Itne mein ashkiyan ki faujon ne hum ko ghera
-  Qayaam e haram khuda ki qasam
-  Hatay nehr se hua ye sitam
-  Mai to ujad gayi hoo
-  Ye baat mujhko nana tasveer e gham bata gayi
+  Sheh ne zamiṅ kharidi karbal hai naam jiska
+  Itne meiṅ ashkiyan ki faujoṅ ne hum ko ghera
+  Qayaam-e-haram khuda ki qasam
+  Hate nehr se hua ye sitam
+  Mai to ujar gayi hoo
+  Ye baat mujhko nana tasvir e gham bata gayi
   Nana tere shehr mein...
-  Phir saatvi se nana pehre thay alqama par
-  Pani ki bandishein thi aulaad e fatema par
-  Mere tifl sab huwe jaan balab
-  Ghareeb ul watan huwe tashna lab
-  Mai to ujad gayi hoo
-  Ye dard sehte sehte ashoor ki shab aa gayi
+  Phir saatvi se nana pehre the alqama par
+  Pani ki bandisheiṅ thi aulaad e fatema par
+  Mere tifl sab huwe jaaṅ balab
+  Gharib ul watan huwe tashna lab
+  Mai to ujar gayi hoo
+  Ye dard sehte sehte ashur ki shab aa gayi
   Nana tere shehr mein...
-  Ashoor ki wo shab to rote huwe guzaari
-  Subhe daham ki nana akbar ne jab azaan di
+  Ashur ki wo shab to rote huwe guzaari
+  Subhe daham ki nana akbar ne jab azaaṅ di
   Wigha zulm ki shuru hogayi
   Sare karbala qayamat hui
-  Mai to ujad gayi hoo
-  Bhai ne jo khareedi sab ko zameen ye kha gayi
+  Mai to ujar gayi hoo
+  Bhai ne jo kharidi sab ko zamiṅ ye kha gayi
   Nana tere shehr mein...
-  Ek ek kar ke nana peer o jawan sidhare
-  Maqtal mein koi soya koi nehr kinare
+  Ek ek kar ke nana pir o jawaaṅ sidhare
+  Maqtal meiṅ koi soya koi nehr kinare
   Gule tan mere baradar mere
-  Khafa hogaye kahin khogaye
-  Mai to ujad gayi hoo
-  Naion pe sab ke sar thay kaisi ghadi ye aa gayi
+  Khafa hogaye kahiṅ khogaye
+  Mai to ujar gayi hoo
+  Naioṅ pe sab ke sar the kaisi ghari ye aa gayi
   Nana tere shehr mein...
   Khanjar chala tha jis dum shabbir ke gale par
-  Sab zulm dekhti thi ye bad naseeb khwahar
+  Sab zulm dekhti thi ye bad nasib khwahar
   Gala kat gaya mere bhai ka
-  Kafan bhi usay nahi mil saka
-  Mai to ujad gayi hoo
-  Phir iske baad nana aandhi ghamon ki cha gayi
+  Kafan bhi use nahi mil saka
+  Mai to ujar gayi hoo
+  Phir iske baad nana aandhi ghamoṅ ki cha gayi
   Nana tere shehr mein...
   Larza nabi ka rauza mazhar ye bain sun kar
-  Kaise bayan karega farshe aza pe safdar
-  Kahan ho saka bayan qaid ka
+  Kaise bayaṅ karega farshe aza pe safdar
+  Kahaṅ ho saka bayaṅ qaid ka
   Yahin khatm hai mera marsiya
-  Mai to ujad gayi hoo
+  Mai to ujar gayi hoo
   Kehti thi binte zehra nana mai lutke aa gayi
   Nana tere shehr mein...
 # source_id: nohayonline:e872c0c8a8ba76e4985b

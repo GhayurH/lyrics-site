@@ -46,7 +46,7 @@ romanLyrics: |-
   Keh ke ye fauj mein duba wo shujaa-e-azali
   Naara zan tha ke ana ibn-e-Husain ibn-e-Ali
   Tir chalne lage naize chale talwaar chali
-  Barq-e-Shamsheer-e-Do Dam Se Saf-e-Kuffar Jali
+  Barq-e-Shamshir-e-Do Dam Se Saf-e-Kuffar Jali
   Kis tarah larta hai hamshakl-e-Payambar dekho
   Aaj shamshir-e-Husaini ke bhi jauhar dekho
 

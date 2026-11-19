@@ -11,68 +11,68 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Yasrab se shaahe deen jo suye karbala chale
+  Yasrab se shaahe diṅ jo suye karbala chale
   Ba hasrat o masaib o aah o buka chale
   Israar tha ye fatema sughra ka shaah se
   Baba khudara saath mujhe le ke jaaiye
-  Sunkar fughan ye fatema sughra se bole shaah
+  Sunkar fughaṅ ye fatema sughra se bole shaah
   Bemaar hai tu sughra batlade mujhe itna
-  Le jaun tujhe kaise
-  Aasan nahi beta raahon ki jafa sehna
-  Le jaun tujhe kaise
-  Har gaam musibat hai raahon mein aziyat hai
-  Tu chal nahi payegi kanton pe musafat hai
+  Le jauṅ tujhe kaise
+  Aasan nahi beta raahoṅ ki jafa sehna
+  Le jauṅ tujhe kaise
+  Har gaam musibat hai raahoṅ meiṅ aziyat hai
+  Tu chal nahi payegi kantoṅ pe musafat hai
   Tu ghar ka ujaala ay sughra
-  Tu soorate zahra ay sughra
-  Kar sabr kar yaara ay sughra
-  Kar zapt khudara ay sughra
+  Tu surate zahra ae sughra
+  Kar sabr kar yaara ae sughra
+  Kar zapt khudara ae sughra
   Tu seh nahi payegi hai sakht safar beta
-  Le jaun tujhe kaise
+  Le jauṅ tujhe kaise
   Bemaar hai tu sughra...
-  Humko hai jahan rukna pur haul hai wo sehra
-  Kehte hai jise karbal humko hai wahan lutna
-  Har simt kaza hai ay sughra
-  Na aabo ghiza hai ay sughra
-  Karbal wo jagah hai ay sughra
-  Bas zulm o jafa hai ay sughra
-  Is gham to behtar hai tu ghar mein rahe tanha
-  Le jaun tujhe kaise
+  Humko hai jahaṅ rukna pur haul hai wo sehra
+  Kehte hai jise karbal humko hai wahaṅ lutna
+  Har simt kaza hai ae sughra
+  Na aabo ghiza hai ae sughra
+  Karbal wo jagah hai ae sughra
+  Bas zulm o jafa hai ae sughra
+  Is gham to behtar hai tu ghar meiṅ rahe tanha
+  Le jauṅ tujhe kaise
   Bemaar hai tu sughra...
-  Le godh mein asghar ko is nanhe musafir ko
-  Jee bhar ke tu ay sughra ab dekh le akbar ko
-  Ek mera guletar ay sughra
-  Ek shakle payambar ay sughra
-  De ruqsat mil kar ay sughra
-  Tayyar hai dilbar ay sughra
+  Le godh meiṅ asghar ko is nanhe musafir ko
+  Ji bhar ke tu ae sughra ab dekh le akbar ko
+  Ek mera guletar ae sughra
+  Ek shakle payambar ae sughra
+  De ruqsat mil kar ae sughra
+  Tayyar hai dilbar ae sughra
   Ye khafila jaata hai ab jaanibe karbobala
-  Le jaun tujhe kaise
+  Le jauṅ tujhe kaise
   Bemaar hai tu sughra...
-  Soyi ek din sughra aur khwaab mein ye dekha
+  Soyi ek din sughra aur khwaab meiṅ ye dekha
   Lut'ta hai bhara kunba shabbir huwe tanha
-  Kehte thay tadap kar ay sughra
-  Meri pyari dukhtar ay sughra
-  Tu dekh ye manzar ay sughra
-  Koi nahi yawar ay sughra
+  Kehte the tarap kar ae sughra
+  Meri pyari dukhtar ae sughra
+  Tu dekh ye manzar ae sughra
+  Koi nahi yawar ae sughra
   Ab jaan liya tune mai is liye kehta tha
-  Le jaun tujhe kaise
+  Le jauṅ tujhe kaise
   Bemaar hai tu sughra...
   Ghabra ke uthi muztar nani se kaha ro kar
-  Dekha hai abhi maine kehte thay yehi sarwar
-  Ab mere galay par ay sughra
-  Chalne ko hai khanjar ay sughra
-  Koi nahi yawar ay sughra
-  Maare gaye dilbar ay sughra
-  Ye soch ke hi maine bola tha tujhe beta
-  Le jaun tujhe kaise
+  Dekha hai abhi maiṅ ne kehte the yehi sarwar
+  Ab mere gale par ae sughra
+  Chalne ko hai khanjar ae sughra
+  Koi nahi yawar ae sughra
+  Maare gaye dilbar ae sughra
+  Ye soch ke hi maiṅ ne bola tha tujhe beta
+  Le jauṅ tujhe kaise
   Bemaar hai tu sughra...
   Shabbir ka jab kunba nana ke shehar pahuncha
   Farhan aur safdar ye zainab ne kaha sughra
-  Barbaad hua ghar ay sughra
-  Hua qatl baradar ay sughra
-  Abbas aur akbar ay sughra
-  Koi nahi sar par ay sughra
+  Barbaad hua ghar ae sughra
+  Hua qatl baradar ae sughra
+  Abbas aur akbar ae sughra
+  Koi nahi sar par ae sughra
   Is waaste bhai ne bola tha tujhe beta
-  Le jaun tujhe kaise
+  Le jauṅ tujhe kaise
   Bemaar hai tu sughra...
 # source_id: nohayonline:b6d6d3b2a50da27fae4a
 # source_url: https://www.nohayonline.com/details_content.php?id=80

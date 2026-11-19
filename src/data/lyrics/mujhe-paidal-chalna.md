@@ -33,10 +33,10 @@ romanLyrics: |-
   Har gham se guzarna aa gaya
 
   2
-  Kaindi Si Ro Payi Sainr Aye
-  Majboor Baon Teri Bhainr Aye
-  Na Gal Kisay De Painr Aye
-  Jiwein Zalim Rasiyaan Pa Gaya
+  Kaindi Si Ro Payi Sainr Ae
+  Majbur Baoṅ Teri Bhainr Ae
+  Na Gal Kise De Painr Ae
+  Jiweiṅ Zalim Rasiyaaṅ Pa Gaya
 
   3
   Le Shaam se maiṅ aa gayi
@@ -46,8 +46,8 @@ romanLyrics: |-
 
   4
   Dukhi Bhainr Da Ghazi Bhira
-  Hunr Ki Karan Mainu Dasa
-  Khali Veer Way Main Be Rida
+  Hunr Ki Karaṅ Mainu Dasa
+  Khali Veer We Maiṅ Berida
   Tera Jhanra Mar Muka Gaya
 
   5
@@ -57,15 +57,15 @@ romanLyrics: |-
   Mujhe yaad Madina aa gaya
 
   6
-  Ro Bhainr Aye Dendi Sada
-  Bhainraan De Aa Parday Bana
-  Lokaan Da Aye Majma Bara
+  Ro Bhainr Ae Dendi Sada
+  Bhainraaṅ De Aa Parde Bana
+  Lokaaṅ Da Ae Majma Bara
   Sajjad Mainda Gash Kha Gaya
 
   7
-  Gaya Dard Aye Dil Cheer Aye
-  Wekhi Zulm Di Akheer Aye
-  Wich Zulm Di Zanjeer De
+  Gaya Dard Ae Dil Chir Ae
+  Wekhi Zulm Di Akhir Ae
+  Wich Zulm Di Zanjir De
   Ruk Baqir Da Hay Kha Gaya
 
   8
@@ -75,10 +75,10 @@ romanLyrics: |-
   Har dard ko sehna aa gaya
 
   9
-  Lalaan Nu Aye Chanra Tera
+  Lalaan Nu Ae Chanra Tera
   Wich Sham De Janra Tera
   Sang Zulm De Khanra Tera
-  Khursheed Nu Neer Rawa Gaya
+  Khurshid Nu Nir Rawa Gaya
 
   10
   Ae Sarwar o Rehaan ab

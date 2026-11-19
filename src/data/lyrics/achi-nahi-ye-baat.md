@@ -11,11 +11,11 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ashoor ki shab haye sakina ka wo rona
-  Aur sayyade mazloom ka beti se ye kehna
-  Aray tu roye mai ye dekh nahi sakta sakina
+  Ashur ki shab haye sakina ka wo rona
+  Aur sayyade mazlum ka beti se ye kehna
+  Are tu roye mai ye dekh nahi sakta sakina
   Achi nahi ye baat na roya karo bibi
-  Pehlu mein kabhi maa ke bhi soya karo bibi
+  Pehlu meiṅ kabhi maa ke bhi soya karo bibi
 
   1
   Kya hove kisi shab ko jo hum ghar may na aaye
@@ -23,29 +23,29 @@ romanLyrics: |-
   Tadpogi nahi dard se ye waada karo bibi
 
   2
-  Baitha karo kuch dayr charaghon ko bhuja kar
-  Samjha karo is khaak ko ay laadli bistar
-  Baali kabhi yun hi nahi pehna karo bibi
+  Baitha karo kuch dayr charaghoṅ ko bhuja kar
+  Samjha karo is khaak ko ae laadli bistar
+  Baali kabhi yuṅ hi nahi pehna karo bibi
 
   3
   Kuch dayr ko ye farz karo hum na rahe gar
   Baakhi na rahe haath koi rakhne ko sar par
-  Mahol yateemon ka bhi socha karo bibi
+  Mahol yatimoṅ ka bhi socha karo bibi
 
   4
-  Aadat zara tanhaai mein rehne ki bhi daalo
-  Tasveer tasavvur mein aseeri ki bana lo
+  Aadat zara tanhaai meiṅ rehne ki bhi daalo
+  Tasvir tasavvur meiṅ asiri ki bana lo
   Azaad parindo ko na dekha karo bibi
 
   5
-  Asghar ko na manoos karo pyar se apne
-  Akbar ki uroosi ke na dekha karo sapne
+  Asghar ko na manus karo pyar se apne
+  Akbar ki urusi ke na dekha karo sapne
   Sughra ke kareeb itna na baitha karo bibi
 
   6
   Zindan se rehaan sada aati hai aksar
   Jaise ke sakina se ye farmate ho sarwar
-  Ab darr se layeeno ke na jaaga karo bibi
+  Ab darr se layino ke na jaaga karo bibi
 ---
 
 عاشور کی شب ہائے سکینہ کا وہ رونا

@@ -1,6 +1,6 @@
 ---
 title: "اللہ ہی اللہ تو ہی تو اللہ"
-alternateTitle: "Ya Ali Ya Hussain"
+alternateTitle: "Ya Ali Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -15,137 +15,137 @@ romanLyrics: |-
   Jo mohammad ka wafadar hai allah uska
   Karbala uski najaf uska madina uska
   Zindagi hai to bas ali ki tarha
-  Maut aaye to ya hussain hussain
-  Ya ali ya hussain
+  Maut aaye to ya Husain Husain
+  Ya ali ya Husain
   Awaaze mohamed ka asar khatm na hoga
   Thak jayega suraj ye safar khatm na hoga
-  Ya ali ya hussain...
-  La rayb ke rasool ki dono hai zeb o zain
-  Pehlu mein ya ali hai to godi mein ya hussain
+  Ya ali ya Husain...
+  La rayb ke rasul ki dono hai zeb o zain
+  Pehlu meiṅ ya ali hai to godi meiṅ ya Husain
   Loh o qalam ka ilm ka saahil hai ya ali
-  Jab tak khuda ka mulk hai maalik hai ya hussain
+  Jab tak khuda ka mulk hai maalik hai ya Husain
   Ye ilm ka dar sabr ka ghar khatm na hoga
   Thak jayega suraj ye safar khatm na hoga
-  Ya ali ya hussain...
+  Ya ali ya Husain...
   Ye saltanate ishq hai khuddaar milenge
   Salman o abuzar se wafadar milenge
-  Aashiq yahan mesum se jigar daar milenge
-  Jeene ke liye marne pe tayyar milenge
-  Kat jaye zaban ishq magar khatm na hoga
+  Aashiq yahaṅ mesum se jigar daar milenge
+  Jine ke liye marne pe tayyar milenge
+  Kat jaye zabaṅ ishq magar khatm na hoga
   Thak jayega suraj ye safar khatm na hoga
-  Ya ali ya hussain...
-  Muslim bine aqeel safeer e hussain hai
-  Hubbe ali hai dil mein musheer e hussain hai
-  Wo baadshah aur ye vazir e hussain hai
-  Aisa vazir hai ke faqeer e hussain hai
+  Ya ali ya Husain...
+  Muslim bine aqil safir e Husain hai
+  Hubbe ali hai dil meiṅ mushir e Husain hai
+  Wo baadshah aur ye vazir e Husain hai
+  Aisa vazir hai ke faqir e Husain hai
   Ta hashr sifarat ka safar khatm na hoga
   Thak jayega suraj ye safar khatm na hoga
-  Ya ali ya hussain...
-  Hurr ko saqi hussain ne aali bana diya
+  Ya ali ya Husain...
+  Hurr ko saqi Husain ne aali bana diya
   Aisa ke panjatan ka sawali bana diya
   Naade ali ne isko jalaali bana diya
   Rumaale fatema ne misaali bana diya
   Ye dar hai ata'on ka ye dar khatm na hoga
   Thak jayega suraj ye safar khatm na hoga
-  Ya ali ya hussain...
-  Ay mere rabbe jahan ay mohamed ke khuda
+  Ya ali ya Husain...
+  Ae mere rabbe jahaṅ ae mohamed ke khuda
   Ye tera ishq hi tha jiski parwaaz juda
   Ye tera ishq hi tha panjetan se jo mila
-  Ishq ka tere safar ishq hyder mein mila
-  Kabhi mesum kabhi miqdad o abuzar mein mila
-  Kabhi salman ke dil mein kabhi qambar mein mila
-  Aur maqtal mein jo dekha to bahattar mein mila
+  Ishq ka tere safar ishq hyder meiṅ mila
+  Kabhi mesum kabhi miqdad o abuzar meiṅ mila
+  Kabhi salman ke dil meiṅ kabhi qambar meiṅ mila
+  Aur maqtal meiṅ jo dekha to bahattar meiṅ mila
   Laaiq e ishq hai tu tera jalwa har soo
-  Ay mere rabb e jahan ay mohamed ke khuda
+  E mere rabb e jahaṅ e mohamed ke khuda
   Ishq tu ne bhi kiya wo mohamed tera
-  Jiski chahat ke liye ye jahan khalq kiya
+  Jiski chahat ke liye ye jahaṅ khalq kiya
   Wo tera ishq hi tha wo tera ishq hi tha
-  Ay mere rabb e jahan ek ajab ishq hua
-  Wo sar e karbobala tera aashiq hai khada
-  Khoon mein dooba hua de chuka lakhte jigar
-  De chuka noore nazar de chuka saara wo ghar
-  Aur khanjar ke talay us ka sajde mein hai sar
+  E mere rabb e jahaṅ ek ajab ishq hua
+  Wo sar e karbobala tera aashiq hai khara
+  Khun meiṅ duba hua de chuka lakhte jigar
+  De chuka nure nazar de chuka saara wo ghar
+  Aur khanjar ke tale us ka sajde meiṅ hai sar
   Na namaz aisi na aashiq ka kaleja aisa
-  Nok e naiza pe bhi karta hi raha zikr tera
-  Ya ali ya hussain...
-  Ek zulfiqar khalq mein do haath se chali
-  Daste hussain o panja e mushkil kusha ali
+  Nok-e-naiza pe bhi karta hi raha zikr tera
+  Ya ali ya Husain...
+  Ek zulfiqar khalq meiṅ do haath se chali
+  Daste Husain o panja e mushkil kusha ali
   Ye mustafa ki jaan wo allah ka wali
   Dono ka martaba bhi do aalam pe hai jali
   Dono ka is kamaal se sajda adaa hua
-  Hyder se ibteda hui yan khatema hua
-  Ya ali ya hussain...
-  Hai waqte asr marzi e parwardigar hai
+  Hyder se ibteda hui yaṅ khatema hua
+  Ya ali ya Husain...
+  Hai waqte asr marzi-e-parwardigar hai
   Ab pusht e zuljana pe maula sawaar hai
-  Pehlu mein khoon roti hui zulfiqar hai
+  Pehlu meiṅ khun roti hui zulfiqar hai
   Hamraah zuljanah bhi bohat dilfigaar hai
   Qurban zuljanah pe aur zulfiqar par
   Chalte thai dono marzi e parwardigar par
-  Ya ali ya hussain...
+  Ya ali ya Husain...
   Jaisi wo zulfiqar thi waisa tha zuljanah
   Bachpan se saath saath hi rehta tha zuljanah
-  Be-misl o be-nazeer tha aala tha zuljanah
-  Kyunkar na ho rasool ne paala tha zuljanah
+  bemisl o benazeer tha aala tha zuljanah
+  Kiuṅkar na ho rasul ne paala tha zuljanah
   Pehla sawaar wo nabi e kirdigaar hai
-  Aur doosra ye doshe nabi ka sawaar hai
-  Ya ali ya hussain...
-  Cheete ki jast sher ki chitwan hiran ki aankh
+  Aur dusra ye doshe nabi ka sawaar hai
+  Ya ali ya Husain...
+  Chite ki jast sher ki chitwan hiran ki aankh
   Chalta tha dekh dekh ke shaahe zaman ki aankh
-  Padti thi yun har ek pe us saf shikan ki aankh
-  Ladti ho jaise jang mein shamsheer zan ki aankh
+  Padti thi yuṅ har ek pe us saf shikan ki aankh
+  Larti ho jaise jang meiṅ shamshir zan ki aankh
   Taygh aayi jispe uska bhi waar uspe chal gaya
   Wo sar gira gayi to ye laasha kuchal gaya
-  Ya ali ya hussain...
+  Ya ali ya Husain...
   Kehta tha zulfiqar se ab meri jang dekh
   Chal mere saath saath zara mera rang dekh
-  Is pyaas mein ladaayi ka mera bhi dhang dekh
-  Raahe hayaat kitno pe karta hoon tang dekh
+  Is pyaas meiṅ laraayi ka mera bhi dhang dekh
+  Raahe hayaat kitno pe karta huṅ tang dekh
   Maana tu zulfiqar hai marhab shikaar hai
   Lekin ye dekh kaun ye mujhpar sawaar hai
-  Ya ali ya hussain...
-  Simta jamaa udaa idhar aaya udhar gaya
+  Ya ali ya Husain...
+  Simta jamaa uraa idhar aaya udhar gaya
   Chamka phira jamaal dikhaya tehar gaya
-  Teeron se udke barchiyon mein be-khatar gaya
-  Bar haq kiya safon ko saron se guzar gaya
-  Aaya jo zad mein iski ajal aa gayi usay
-  Ek taap padi jis pe zameen kha gayi usay
-  Ya ali ya hussain...
-  Allah re ladaayi mein shaukat hussain ki
-  Thi taygh o zuljanah mein surrat hussain ki
-  Khudrat baghor takti thi surat hussain ki
-  Qehre khuda se kam na thi haibat hussain ki
-  Bole ali hussain ho ab bhi hawaas mein
-  Aisi to jang hum na lade bhook o pyaas mein
-  Hussain ya hussain...
-  Aayi sada e ghaib ke bas bas hussain bas
-  Dam le hawa mein chand nafas ay hussain bas
-  Garmi se haampta hai faras ay hussain bas
-  Waqte namaze asr hai bas bas hussain bas
-  Hussain ya hussain...
-  Ye sunte thay hazrat jo laga pusht pe bhaala
-  Qarboos pe tharra ke giray hazrat e waala
-  Jibreel ne qadmon se rakabon ko nikala
-  Aur haathon ko gardan mein yadullah ne daala
-  Dekha jo zuljanah ne ghash khaate zeen par
-  Bas baith gaya tayk ke ghutno ko zameen par
-  Quran rehle zeen se sar e farsh gir pada
-  Dewaar e kaaba baith gayi arsh gir pada
-  Hussain ya hussain...
-  Chillayi fatema mera baccha hai be-gunah
-  Ay arz e nainawa mera baccha hai be-gunah
-  Ay nehr e alqama mera baccha hai be-gunah
-  Ay zulfiqar tu hi bachale hussain ko
-  Ay zuljanah tujhse mai loongi hussain ko
-  Hussain ya hussain...
-  Dooba lahoo mein laut ke aaya hai zuljanah
+  Tiroṅ se udke barchiyoṅ meiṅ bekhatar gaya
+  Bar haq kiya safoṅ ko saroṅ se guzar gaya
+  Aaya jo zad meiṅ iski ajal aa gayi use
+  Ek taap pari jis pe zamiṅ kha gayi use
+  Ya ali ya Husain...
+  Allah re laraayi meiṅ shaukat Husain ki
+  Thi taygh o zuljanah meiṅ surrat Husain ki
+  Khudrat baghor takti thi surat Husain ki
+  Qehre khuda se kam na thi haibat Husain ki
+  Bole ali Husain ho ab bhi hawaas meiṅ
+  Aisi to jang hum na lare bhuk o pyaas meiṅ
+  Husain ya Husain...
+  Aayi sada e ghaib ke bas bas Husain bas
+  Dam le hawa meiṅ chand nafas ae Husain bas
+  Garmi se haampta hai faras ae Husain bas
+  Waqte namaze asr hai bas bas Husain bas
+  Husain ya Husain...
+  Ye sunte the hazrat jo laga pusht pe bhaala
+  Qarboos pe tharra ke gire hazrat-e-waala
+  Jibril ne qadmoṅ se rakaboṅ ko nikala
+  Aur haathoṅ ko gardan meiṅ yadullah ne daala
+  Dekha jo zuljanah ne ghash khaate zin par
+  Bas baith gaya tayk ke ghutno ko zamiṅ par
+  Quran rehle ziṅ se sar e farsh gir pada
+  Dewaar e kaaba baith gayi arsh gir para
+  Husain ya Husain...
+  Chillayi fatema mera baccha hai begunah
+  E arz e nainawa mera baccha hai begunah
+  E nehr e alqama mera baccha hai begunah
+  Ae zulfiqar tu hi bachale Husain ko
+  Ae zuljanah tujhse mai lungi Husain ko
+  Husain ya Husain...
+  Duba lahu meiṅ laut ke aaya hai zuljanah
   Samjhi sakina baba ko laaya hai zuljanah
   Sar khaak par patak ke pukara wo rahwaar
-  Saydaniyo bichad gaya mujhse mera sawaar
+  Saydaniyo bichar gaya mujhse mera sawaar
   Jaldi utaarlo ye tabarruk ye zulfiqar
-  Aray kat'ta hai wan gulu e shahenshaah e naamdaar
-  Zehra khareeb e laashe pisar khaak udaati hai
-  Aray qaimon mein jaao lootne ko fauj aati hai
-  Hussain ya hussain...
+  Are kat'ta hai waṅ gulu e shahenshaah e naamdaar
+  Zehra khareeb e laashe pisar khaak uraati hai
+  Are qaimon meiṅ jaao lutne ko fauj aati hai
+  Husain ya Husain...
 # source_id: nohayonline:18960c03aeead2c2def4
 # source_url: https://www.nohayonline.com/details_content.php?id=3042
 # raw_sha256: 41836c7c439288b683e0b882d38d1da8231f61c59f270e2142ffa2994e33015b

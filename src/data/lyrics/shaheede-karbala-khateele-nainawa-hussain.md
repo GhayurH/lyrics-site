@@ -1,6 +1,6 @@
 ---
 title: "شہید کربلا حسین"
-alternateTitle: "Shaheede Karbala"
+alternateTitle: "Shahide Karbala"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,70 +11,70 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shaheede karbala hussain
-  Khateele nainawa hussain
-  Hussain hussain hussain hussain
-  Hai waqte ruqsate hussain
+  Shaheede karbala Husain
+  Khateele nainawa Husain
+  Husain Husain Husain Husain
+  Hai waqte ruqsate Husain
 
   2
   Sakina kar rahi hai bain
   Na jaaye tanha chod kar
   Mitega sab ke dil ka chain
-  Zabihe maariya hussain
+  Zabihe maariya Husain
 
   3
-  Hussain hussain…
+  Husain Husain…
   Wo zulm kaun sa raha
   Jo aap par nahi hua
   Siwaye sabr o shukr ke
 
   4
   Zuban se kuch nahi kaha
-  Ghamon ki intehan hussain
-  Hussain hussain…
+  Ghamon ki intehan Husain
+  Husain Husain…
   Ay sher ghaziyon utho
 
   5
   Hamara haal dekh lo
   Haazar nauso aur pachaas
   Hai zaqm behta hai lahoo
-  Bina e la-ilaah hussain
+  Bina e la-ilaah Husain
 
   6
-  Hussain hussain…
+  Husain Husain…
   Ay mere bhai saf shikan
   Ay baazu e shahe zaman
   Kamar khameeda kar gaya
 
   7
   Teri judaai ka mehan
-  Sukoone mustufa hussain
-  Hussain hussain…
+  Sukoone mustufa Husain
+  Husain Husain…
   Kahan ho akbar e jari
 
   8
-  Ye kyun hai beta berukhi
+  Ye kiun hai beta berukhi
   Akela reh gaya pidar
   Qabar lo aake baap ki
-  Kharaar e sayyeda hussain
+  Kharaar e sayyeda Husain
 
   9
-  Hussain hussain…
+  Husain Husain…
   Udoo ke teer shola baar
   Badan ko kar gaye figaar
   Magar sambhala dosh par
 
   10
   Tane imam e zeewaqaar
-  Nishana e jafa hussain
-  Hussain hussain…
-  Ye maqtal e hussain ka
+  Nishana e jafa Husain
+  Husain Husain…
+  Ye maqtal e Husain ka
 
   11
   Bayan hashr tha bapa
   Zameen larazti thi anees
   Falak se aati thi sada
-  Qateel e maariya hussain
+  Qateel e maariya Husain
 # source_id: nohayonline:73957f08a9ee2c2c817b
 # source_url: https://www.nohayonline.com/details_content.php?id=293
 # raw_sha256: 1848781f15feb8525deb2a3ca3ae406a26daf8092124cd285f35ab65607ed057

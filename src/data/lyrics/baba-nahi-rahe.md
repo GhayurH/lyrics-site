@@ -12,43 +12,43 @@ published: false
 romanLyrics: |-
   1
   Arshe bari se aayi jo ta'damat sada
-  Kufa shehr mein hashr ka hangaam hogaya
-  Goonji fiza mein jab ye sada haye murtaza
+  Kufa shehr meiṅ hashr ka hangaam hogaya
+  Gunji fiza meiṅ jab ye sada haye murtaza
   Nauha kuna kaha jo manadi ne alvida
   Zainab rida ko thaam ke karne lagi buka
   Baba nahi rahe baba nahi rahe
   Masjid hai soghwar musalla hai ghamzada
-  Sajde mein sar ali ka shikasta kiya gaya
-  Kufa shehr mein aaj hai aaghaz e karbala
+  Sajde meiṅ sar ali ka shikasta kiya gaya
+  Kufa shehr meiṅ aaj hai aaghaz e karbala
   Baba nahi rahe baba nahi rahe
   Zainab rida ko thaam ke...
-  Be aasra huwe thay jo bacche tadap gaye
-  Pyale jo doodh ke thay wo haathon se gir gaye
-  Dar par ali ke saare yateemon ne di sada
+  Beaasra huwe the jo bacche tarap gaye
+  Pyale jo dudh ke the wo haathoṅ se gir gaye
+  Dar par ali ke saare yatimoṅ ne di sada
   Baba nahi rahe baba nahi rahe
   Zainab rida ko thaam ke...
-  Raaton ko uth ke pani pilayega kaun ab
-  Bole hussain pyaas bujhayega kaun ab
+  Raatoṅ ko uth ke pani pilayega kaun ab
+  Bole Husain pyaas bujhayega kaun ab
   Amma ke baad aagayi baba ko bhi qaza
   Baba nahi rahe baba nahi rahe
   Zainab rida ko thaam ke...
-  Dekha bade jo bhai ko rone lagi behan
-  Haye hassan pukaar ke boli tera badan
-  Dekhungi an-khareeb mai teeron bhara hua
+  Dekha bare jo bhai ko rone lagi behan
+  Haye Hasan pukaar ke boli tera badan
+  Dekhungi an-khareeb mai tiroṅ bhara hua
   Baba nahi rahe baba nahi rahe
   Zainab rida ko thaam ke...
   Jis ki dua ne usko alamdaar kar diya
   Abbas tha wo hyder e karrar kar diya
-  Kaise kare yaqeen wo abbas e bawafa
+  Kaise kare yaqin wo abbas e bawafa
   Baba nahi rahe baba nahi rahe
   Zainab rida ko thaam ke...
   Ye soch kar ke mujhko ye beti kahe abhi
-  Mayyat pe apne baap ki nade ali padhi
-  Ab tak qubool kar na saki binte sayyeda
+  Mayyat pe apne baap ki nade ali parhi
+  Ab tak qubul kar na saki binte sayyeda
   Baba nahi rahe baba nahi rahe
   Zainab rida ko thaam ke...
-  Muslim ke saath masjide kufa mein ya khuda
-  Pursa batool e paak ki beti ka ho bapa
+  Muslim ke saath masjide kufa meiṅ ya khuda
+  Pursa batul e paak ki beti ka ho bapa
   Zarbat ki jaa pe bain kare yasir e aza
   Baba nahi rahe baba nahi rahe
   Zainab rida ko thaam ke...

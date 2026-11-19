@@ -12,34 +12,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab giray ghode se maqtal mein shahe karbobala
-  Khanjare zulm liye shimre sitamgaar badha
-  Di tadap kar dar e qaime se ye zainab ne sada
+  Jab gire ghore se maqtal meiṅ shahe karbobala
+  Khanjare zulm liye shimre sitamgaar barha
+  Di tarap kar dar e qaime se ye zainab ne sada
   Abhi khanjar na chala abhi khanjar na chala
   Zaalim abhi khajar na chala
-  Loot mat behre khuda fatema zehra ka chayn
-  Aur kuch dayr teher ja arey zaalim ke hussain
+  Lut mat behre khuda fatema zehra ka chayn
+  Aur kuch dayr teher ja are zaalim ke Husain
   Bakshishe ummate jad ki abhi karte hai dua
   Abhi khanjar na chala...
-  Teen din hogaye pyasa hai nabi ka jaani
-  Zibha karna hai to do ghoont pilade pani
-  Kund khanjar hai mere bhai ka sookha hai gala
+  Tin din hogaye pyasa hai nabi ka jaani
+  Zibha karna hai to do ghunt pilade pani
+  Kund khanjar hai mere bhai ka sukha hai gala
   Abhi khanjar na chala...
-  Bosagaahe nabawi hai ye gala ay zaalim
-  Sheh ragay deen pe khanjar na chala ay zaalim
-  Choomte thay isi halqoom ko mahboob e khuda
+  Bosagaahe nabawi hai ye gala ae zaalim
+  Sheh ragay diṅ pe khanjar na chala ae zaalim
+  Chumte the isi halqum ko mahbub e khuda
   Abhi khanjar na chala...
-  Chod kar khuld zara faatahe khyber aa le
+  Chor kar khuld zara faatahe khyber aa le
   Aur kuch dayr teher ja ke payambar aa le
   Aati hi hogi wo aa lene de amma ko zara
   Abhi khanjar na chala...
-  Kya karoo ja'un kahan kis ko pukarun bhai
-  Kaise dekhegi tumhe todte dam majaayi
+  Kya karoo ja'uṅ kahaṅ kis ko pukaruṅ bhai
+  Kaise dekhegi tumhe torte dam majaayi
   Ya ilaahi mujhe shabbir se pehle le utha
   Abhi khanjar na chala...
   Haye kis dil se karoo tazkira e jor o jafa
-  Kat gaya saamne zainab ke shahe deen ka gala
-  Cheekhti reh gayi zainab sare maqtal ba khuda
+  Kat gaya saamne zainab ke shahe din ka gala
+  Chikhti reh gayi zainab sare maqtal ba khuda
   Abhi khanjar na chala...
 # source_id: nohayonline:a327477f1d57839e3a45
 # source_url: https://www.nohayonline.com/details_content.php?id=461

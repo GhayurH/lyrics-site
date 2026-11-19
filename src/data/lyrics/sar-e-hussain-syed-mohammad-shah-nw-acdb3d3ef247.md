@@ -1,6 +1,6 @@
 ---
 title: "سرِ حسین"
-alternateTitle: "Sar-e-Hussain"
+alternateTitle: "Sar-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,40 +12,40 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Godi Mein Le Ke Bethi Hai Zahra Sar-e-Hussain
-  Zakhmi Hai Maa Ke Hathoon Ke Jaisa Sar-e-Hussain
+  Godi Meiṅ Le Ke Bethi Hai Zahra Sar-e-Husain
+  Zakhmi Hai Maa Ke Hathuṅ Ke Jaisa Sar-e-Husain
 
   2
-  Ik Maa Duhai Deti Rahi Our Laeen Ne
-  Naizay Pe Rakh Ke Zulfoon Se Bandha Sar-e-Hussain
+  Ik Maa Duhai Deti Rahi Our Lain Ne
+  Naize Pe Rakh Ke Zulfuṅ Se Bandha Sar-e-Husain
 
   3
-  Rakha Alag Alag Gaya Sandooq Mein Magar
-  Akbar Ke Sar Ke Sath Hi Nikla Sar-e-Hussain
+  Rakha Alag Alag Gaya Sandooq Meiṅ Magar
+  Akbar Ke Sar Ke Sath Hi Nikla Sar-e-Husain
 
   4
-  Naqay Se Jitni Bar Giri Dukhtar-e-Hussain
-  Naizay Se Utni Bar Gira Tha Sar-e-Hussain
+  Naqe Se Jitni Bar Giri Dukhtar-e-Husain
+  Naize Se Utni Bar Gira Tha Sar-e-Husain
 
   5
-  Ik Gaud Mein Sakina Ki Ik Bar Qabar Mein
-  Do Bar Qaid Khane Mein Aaya Sar-e-Hussain
+  Ik Gaud Meiṅ Sakina Ki Ik Bar Qabar Meiṅ
+  Do Bar Qaid Khane Meiṅ Aaya Sar-e-Husain
 
   6
-  Shereen Se Jo Kiya Tha Woh Wadah Nibha Diya
-  Pohanchay Nahi Hussain Tu Pohancha Sar-e-Hussain
+  Sheriṅ Se Jo Kiya Tha Woh Wadah Nibha Diya
+  Pohanche Nahi Husain Tu Pohancha Sar-e-Husain
 
   7
-  Aisay Tu Zibha Hota Nahi Gosfand Bhi
-  Hans Hans Ke Jaisay Shimar Ne Kata Sar-e-Hussain
+  Aise Tu Zibha Hota Nahi Gosfand Bhi
+  Hans Hans Ke Jaise Shimar Ne Kata Sar-e-Husain
 
   8
-  Zainab Ko Yaad Aa Gaye Bosay Rasool Ke
-  Rahoon Mein Pathron Ne Jo Choma Sar-e-Hussain
+  Zainab Ko Yaad Aa Gaye Bose Rasul Ke
+  Rahuṅ Meiṅ Pathroṅ Ne Jo Choma Sar-e-Husain
 
   9
-  Baloon Mein Gird Abro Takallum Katay Hoye
-  Acha Howa Na Sughra Ne Dekha Sar-e-Hussain
+  Baluṅ Meiṅ Gird Abro Takallum Kate Hoye
+  Acha Howa Na Sughra Ne Dekha Sar-e-Husain
 # source_id: nohawriteups:acdb3d3ef2476d1eab87
 # source_url: https://www.nohawriteups.org/sar-e-hussain-syed-mohammad-shah/
 # original_html: snapshots/nohawriteups/original_html/acdb3d3ef2476d1eab87.html.gz

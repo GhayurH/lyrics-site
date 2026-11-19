@@ -11,35 +11,35 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Safar hai kis ka ke tooba salaam kehta hai
+  Safar hai kis ka ke tuba salaam kehta hai
   Faraaz e arshe mo'alla salaam kehta hai
   Ye kaun jaata hai kaaba salaam kehta hai
-  Musafiron ko madina salaam kehta hai
-  Hussain ye karam e kaar saaz kya kehna
-  Durood o ishq o salaam e niyaz kya kehna
+  Musafiroṅ ko madina salaam kehta hai
+  Husain ye karam e kaar saaz kya kehna
+  Durud o ishq o salaam e niyaz kya kehna
   Ye husn ki nigaye imtiyaz kya kehna
   Kisi ka jalwa e yakta salaam kehta hai
-  Musafiron ko madina...
+  Musafiroṅ ko madina...
   Kidhar se dard ke maalik hawaye dard aayi
-  Ye kis ki aah tadap kar faza may lehrayi
-  Chale ho leke kidhar naazish e maseehayi
-  Koi mareez tumhara salaam kehta hai
-  Musafiron ko madina...
+  Ye kis ki aah tarap kar faza may lehrayi
+  Chale ho leke kidhar naazish e masihayi
+  Koi mariz tumhara salaam kehta hai
+  Musafiroṅ ko madina...
   Ye jaante hai bane ho rahe riza ke liye
-  Bahot dino se ho be-chain karbala ke liye
-  Hussain mud ke zara dekh lo khuda ke liye
+  Bahot dino se ho bechain karbala ke liye
+  Husain mur ke zara dekh lo khuda ke liye
   Rawaqe mashad e zehra salaam kehta hai
-  Musafiron ko madina...
-  Nazar ke hai ye ishare zaban nahi khulti
-  Kisi ke dard ke maare zaban nahi khulti
-  Nabi ke raaj dulaare zaban nahi khulti
-  Dilon ka dard e maseeha salaam kehta hai
-  Musafiron ko madina...
+  Musafiroṅ ko madina...
+  Nazar ke hai ye ishare zabaṅ nahi khulti
+  Kisi ke dard ke maare zabaṅ nahi khulti
+  Nabi ke raaj dulaare zabaṅ nahi khulti
+  Diloṅ ka dard e masiha salaam kehta hai
+  Musafiroṅ ko madina...
   Salaam lijiye aaqa ab apne bando ka
   Har ek qaum ke millat ke haq pasando ka
-  Salaam saare zamane ke dard mandon ka
-  Hussain saara zamana salaam kehta hai
-  Musafiron ko madina...
+  Salaam saare zamane ke dard mandoṅ ka
+  Husain saara zamana salaam kehta hai
+  Musafiroṅ ko madina...
 # source_id: nohayonline:622812148ca33df8120f
 # source_url: https://www.nohayonline.com/content_salaam.php?id=38
 # raw_sha256: 409e9f204b7cfdbcdaa2610961623556cfb65835988677f421942d46a7ae5ce9

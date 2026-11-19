@@ -9,7 +9,7 @@ aliases: []
 published: false
 romanLyrics: |-
   Zahra tay kalma ghonn nay darvaza enjh girayah
-  Aj tak Hassan dee maa nay, paasay ton' haath nayee chaya
+  Aj tak Hasan dee maa nay, paasay ton' haath nayee chaya
 
   1
   1) Babay Nabi nun aakhay, takseer kee aai meri,
@@ -33,7 +33,7 @@ romanLyrics: |-
 
   5
   5) Main jaan gayin baba keeta Batul vain aai
-  Ummat nay maar dainai merai Hassan Hussain aai
+  Ummat nay maar dainai merai Hasan Husain aai
   Darbar jakay aai ho mainu nazar hai aaya
 # source_id: ziyaraat:a6210e7b5e3d8e34bacf
 # source_url: https://www.ziyaraat.net/api/noha/1480

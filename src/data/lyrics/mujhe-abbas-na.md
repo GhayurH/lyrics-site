@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Abbas ameer e lashkaram kaisa hai jaah o hasham
-  Ek haath mein hai mashk aur ek haath mein parcham
-  Chalo bhaago yahan se chodo darya aagaye hai hum
+  Abbas amir e lashkaram kaisa hai jaah o hasham
+  Ek haath meiṅ hai mashk aur ek haath meiṅ parcham
+  Chalo bhaago yahaṅ se choro darya aagaye hai hum
   Mai qamar e bani hashim hoo suno abbas hoo mai
   Mere baba ali jaisa agar na ho mera hamraah
   Nahi kehna nahi kehna mujhe abbas na kehna
   Suno darya ke pehradaron ye ghazi ka naara hai
   Hamari milkiyat hai pani par qabza hamara hai
   Agar himmat hai to bolo ke ye darya tumhara hai
-  Suno ay shaamiyon sunlo
-  Agar ek waar mein na cheen loo tumse mai ye darya
+  Suno ae shaamiyoṅ sunlo
+  Agar ek waar meiṅ na chin loo tumse mai ye darya
   Nahi kehna nahi kehna...
-  Ali ka laal ho jarrar hoo naade ali hoo mai
-  Jalaal aaye to sar se paon tak yaad e ali hoo mai
-  Ye hargiz bhool na jaan ali baad e ali hoo mao
-  Suno ay shaamiyon sunlo
+  Ali ka laal ho jarrar hu naade ali hu mai
+  Jalaal aaye to sar se paoṅ tak yaad e ali hoo mai
+  Ye hargiz bhul na jaan ali baad e ali hoo mao
+  Suno ae shaamiyoṅ sunlo
   Agar talwaar ki tarha na kaate tumko ye naiza
   Nahi kehna nahi kehna...
-  Ladoge mujhse kya tumko mera ash'al kuchal dega
-  Agar mai hukm dedun nehr ka naqsha badal dega
+  Laroge mujhse kya tumko mera ash'al kuchal dega
+  Agar mai hukm deduṅ nehr ka naqsha badal dega
   Lehad tak yaad rakhoge tumhe aisi ajal dega
   Suno ay shaamiyon sunlo
   Jo kehta hoo wo karta hoo agar aisa na ho wallah
   Nahi kehna nahi kehna...
-  Jeena hai ya marna hai khud sochlo kya karna hai
-  Naslon ko tumhari warna mere naam se hi darna hai
-  Agar roohon ko bhi na kaat doo mai jismon ki tarha
+  Jina hai ya marna hai khud sochlo kya karna hai
+  Nasloṅ ko tumhari warna mere naam se hi darna hai
+  Agar ruhoṅ ko bhi na kaat doo mai jismoṅ ki tarha
   Nahi kehna nahi kehna...
-  Na ladne ki ijazat hai na ladne ka iraada hai
+  Na larne ki ijazat hai na larne ka iraada hai
   Sakin akab se pyasi hai ye gham sab se zyada hai
   Bas ek mashkeeza bharne do mere tumse ye waada hai
-  Suno ay shaamiyon sunlo
+  Suno ae shaamiyoṅ sunlo
   Agar pani piye ek boond ye seh roz ka pyasa
   Nahi kehna nahi kehna...
-  Wahan zeeshan o irfan e aza pehra hai ghazi ka
-  Jabhi to karbala koi yazeedi jaa nahi sakta
+  Wahaṅ zishan o irfan e aza pehra hai ghazi ka
+  Jabhi to karbala koi yazidi jaa nahi sakta
   Wafa ke baadshah ka unhe hai khauf itna
-  Ali ka sher hai wo saron ko kaat dega
-  Suno ay shaamiyon sunlo
+  Ali ka sher hai wo saroṅ ko kaat dega
+  Suno ae shaamiyoṅ sunlo
   Abhi tak yaad hai unko mere ghazi ka ye kehna
   Nahi kehna nahi kehna...
 # source_id: nohayonline:7c314dc88638e425153b

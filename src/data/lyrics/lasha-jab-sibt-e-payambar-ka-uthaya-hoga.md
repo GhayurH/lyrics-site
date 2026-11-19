@@ -13,27 +13,27 @@ romanLyrics: |-
   Khuld Mai chain Muhammad ko na aya hoga
 
   1
-  Sar Khulay Lehad Say Tab, Fatimah Nikli Hongi
-  Zehr Jodha Nay Jo Shabbar, Ko Pilaya Hoga
+  Sar Khule Lehad Se Tab, Fatimah Nikli Hongi
+  Zehr Jodha Ne Jo Shabbar, Ko Pilaya Hoga
 
   2
-  kabr Mai hassan toh us waqt, hi utray Hongay
-  Maa nay jab daman e tatheer, bichaya hoga
+  kabr Mai Hasan toh us waqt, hi utre Hongay
+  Maa ne jab daman e tathir, bichaya hoga
 
   3
-  Dastaan Hassan Nay Ap-ni Jo sunaayi hogi
+  Dastaan Hasan Ne Ap-ni Jo sunaayi hogi
   Maa nay ro ro ke kalejay, say lagaya hoga
 
   4
-  Dil Ke Sab Hasan nay armaan nikalay Hongay
+  Dil Ke Sab Hasan ne armaan nikalay Hongay
   Sehra qasim ko khaayalon, mai lagaya hoga
 
   5
-  Jo ke maadar ke janazay, pe na ghar se nikli
-  Kaise beemar unhay shaam, Mai laya hoga
+  Jo ke maadar ke janaze, pe na ghar se nikli
+  Kaise bimar unhay shaam, Mai laya hoga
 
   6
-  Jin ko ab naaz Madinay, pe bohat hai gohar
+  Jin ko ab naaz Madine, pe bohat hai gohar
   Unki kismat Mai likha deis, paraya hoga
 # source_id: ziyaraat:331453b8f8cee680f953
 # source_url: https://www.ziyaraat.net/api/noha/456

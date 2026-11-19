@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khazane ki jo zeenat ho usay almaas kehte hai
+  Khazane ki jo zinat ho use almaas kehte hai
   Tamanna pani ki hoti hai jab to pyaas kehte hai
-  Jahan peete hai sab pani usay kehte hai sab darya
-  Jo darya ko pilaata ho usay abbas kehte hai
+  Jahaṅ pite hai sab pani use kehte hai sab darya
+  Jo darya ko pilaata ho use abbas kehte hai
   Alamdar e wafa
   Us zikr ka hai zaamin zargham karbala ka
-  Ta hashr zikr hoga is dehr mein wafa ka
-  Maujon ne tashnalab ko uth uth ke di salaami
+  Ta hashr zikr hoga is dehr meiṅ wafa ka
+  Maujoṅ ne tashnalab ko uth uth ke di salaami
   Darya pe aise aaya farzand murtaza ka
   Alamdar e wafa
   Ta hashr zikr hoga...
-  Jis ka alam hai ooncha baazu nahi hai jin ke
+  Jis ka alam hai uncha baazu nahi hai jin ke
   Ye hai dua e zainab ejaaz hai wafa ka
   Alamdar e wafa
   Ta hashr zikr hoga...
-  Is tarha ki jari ne jazbon ki paasdaari
+  Is tarha ki jari ne jazboṅ ki paasdaari
   Abbas naam rakha shabbir ne wafa ka
   Alamdar e wafa
   Ta hashr zikr hoga...
@@ -34,19 +34,19 @@ romanLyrics: |-
   Ab kaun hai muhafiz bhaiya meri rida ka
   Alamdar e wafa
   Ta hashr zikr hoga...
-  Tha aandhiyon ki zad pe islam ka safina
-  Abbas ke alam ne moda hai rukh hawa ka
+  Tha aandhiyoṅ ki zad pe islam ka safina
+  Abbas ke alam ne mora hai rukh hawa ka
   Alamdar e wafa
   Ta hashr zikr hoga...
   Sher e jari ka parcham khul kar ye keh raha hai
-  Badta rahega yunhi ye kaarwan wafa ka
+  Barta rahega yunhi ye kaarwaṅ wafa ka
   Alamdar e wafa
   Ta hashr zikr hoga...
   Ro ro ke pyase bache faryad kar rahe hai
-  Matam bapa hai ran mein saqqa e karbala ka
+  Matam bapa hai ran meiṅ saqqa e karbala ka
   Alamdar e wafa
   Ta hashr zikr hoga...
-  Abbas ke alam ko jo choo ke aaye gohar
+  Abbas ke alam ko jo chu ke aaye gohar
   Hai zindagi ka zaamin jhonka wohi hawa ka
   Alamdar e wafa
   Ta hashr zikr hoga...

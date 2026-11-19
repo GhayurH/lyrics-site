@@ -12,36 +12,36 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Yazeed bola badi fauj mere haath mein hai
-  Hussain bole natija khuda ke haath mein hai
-  Yazeed bola jo bayyat karo khazana hai
-  Hussain bole ke nana ko moo dikhana hai
-  Yazeed bola mai zaalim hoo zulm karta hoo
-  Hussain bole mai sayyed hoo sabr karta hoo
-  Wo qaime jal rahe hai ye shaam e ghariban hai
-  Ye ban mein bikhri laashein ab shaam ka zindan hai
-  Wo qaime jal rahe hai ye shaam e ghariban hai
-  Ek do peher mein ujda ghar ek fatema ka
-  Ye jis jagah pe qaime ab us jagah dhuwan hai
+  Yazid bola bari fauj mere haath meiṅ hai
+  Husain bole natija khuda ke haath meiṅ hai
+  Yazid bola jo bayyat karo khazana hai
+  Husain bole ke nana ko moo dikhana hai
+  Yazid bola mai zaalim hoo zulm karta hoo
+  Husain bole mai sayyed hoo sabr karta hoo
+  Wo qaime jal rahe hai ye shaam e gharibaṅ hai
+  Ye ban meiṅ bikhri laasheiṅ ab shaam ka zindaṅ hai
+  Wo qaime jal rahe hai ye shaam e gharibaṅ hai
+  Ek do peher meiṅ ujra ghar ek fatema ka
+  Ye jis jagah pe qaime ab us jagah dhuwaṅ hai
   Wo qaime jal rahe hai...
-  Akbar ne jab azan di ye bekasi kahan thi
-  Wo subho ki azan thi ye shaam ki azan hai
+  Akbar ne jab azaṅ di ye bekasi kahaṅ thi
+  Wo subho ki azaṅ thi ye shaam ki azaṅ hai
   Wo qaime jal rahe hai...
-  Be-sar koi namaazi be-dast koi ghazi
-  Seene mein ek jawan ke tooti hui sina hai
+  besar koi namaazi bedast koi ghazi
+  Sine meiṅ ek jawaaṅ ke tuti hui sina hai
   Wo qaime jal rahe hai...
   Pehra badal gaya hai zainab ye karbala hai
-  Zainab ke haath mein ab abbas ka nishan hai
+  Zainab ke haath meiṅ ab abbas ka nishaṅ hai
   Wo qaime jal rahe hai...
-  Kya dhoondti hai seena aa paas aa sakina
-  Seene pe sone waali baba tera yahan hai
+  Kya dhundti hai seena aa paas aa sakina
+  Sine pe sone waali baba tera yahaṅ hai
   Wo qaime jal rahe hai...
   Maula Ali jo aaye Zainab pukaari haaye
   Ghar lut gaya hai Baba kunba lahu lahaan hai
   Ab Shaam ka safar hai har Bibi nange sar hai
-  Bejurm qaidiyon ka Sajjad sarbaan hai
+  Bejurm qaidiyoṅ ka Sajjad sarbaan hai
   Bazaar-e-Shaam dekha darbaar-e-Shaam dekha
-  Shaam-e-ghariban har dam Zainab ki nauha khwaan hai
+  Shaam-e-gharibaṅ har dam Zainab ki nauha khwaaṅ hai
   Wo qaime jal rahe hai...
   Rehaan ho ke sarwar hai sayyeda ke naukar
   Ek nauhago hai inka ek inka nauhakhwan hai

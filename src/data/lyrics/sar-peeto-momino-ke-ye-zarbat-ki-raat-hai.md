@@ -1,6 +1,6 @@
 ---
 title: "سر پیٹو مومنوں کہ یہ ضربت کی رات ہے"
-alternateTitle: "Sar Peeto Momino"
+alternateTitle: "Sar Pito Momino"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,15 +10,15 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Sar peeto momino ke ye zarbat ki raat hai
+  Sar pito momino ke ye zarbat ki raat hai
 
   1
-  Damaad e shaah e deen ki shahadat ki raat hai
+  Damaad e shaah e diṅ ki shahadat ki raat hai
   Kehte hai dil se hyder e safdar basad alam
   Ye aakhri khuda ki ibaadat ki raat hai
 
   2
-  Sajde mein haq ke khaasa e daawar hua shaheed
+  Sajde meiṅ haq ke khaasa e daawar hua shahid
   Aafat bapa karo ye qayamat ki raat hai
 
   3
@@ -26,20 +26,20 @@ romanLyrics: |-
   Ahle haram pe aaj musibat ki raat hai
 
   4
-  Kehte they roke zainab o kulsoom se ali
+  Kehte the roke zainab o kulsum se ali
   Aao gale lago ke ye furqat ki raat hai
 
   5
-  Ro ro ke dil se kehte thay sibtain mustafa
-  Kyun kar kategi haye musibat ki raat hai
+  Ro ro ke dil se kehte the sibtain mustafa
+  Kiuṅ kar kategi haye musibat ki raat hai
 
   6
-  Pursa do mustafa ke nawason ko baap ka
-  Sar peeto rozadaar ye aafat ki raat hai
+  Pursa do mustafa ke nawasoṅ ko baap ka
+  Sar pito rozadaar ye aafat ki raat hai
 
   7
   Maula nabi ki aal se shaukat ke ishq ki
-  Deeje gawahi aap shahadat ki raat hai
+  Dije gawahi aap shahadat ki raat hai
 # source_id: nohayonline:ab0bd695fa5470686fc7
 # source_url: https://www.nohayonline.com/details_content.php?id=1982
 # raw_sha256: e28cf741af2bf7233cf852f423b55d3a321ed4e24339e5a0ad501bf391411e14

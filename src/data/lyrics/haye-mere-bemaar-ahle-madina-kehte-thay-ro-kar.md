@@ -10,24 +10,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ahle madina kehte thay ro kar
+  Ahle madina kehte the ro kar
   Haye mere bemaar imam
 
   1
   Kar gaye rehlat jaanib e kausar
 
   2
-  Qaime jalaye chadarein cheena
-  Aur zar o zewar loota
+  Qaime jalaye chadareiṅ china
+  Aur zar o zewar luta
   Legaye aada aap ka bistar
 
   3
-  Hathkadi bedi tauq pinaaya
-  Ahle jafa ne baad e hussain
-  Baandhe kamar mein aap ke langar
+  Hathkari beri tauq pinaaya
+  Ahle jafa ne baad e Husain
+  Baandhe kamar meiṅ aap ke langar
 
   4
-  Rote rahe chalees baras tak
+  Rote rahe chalis baras tak
   Baba ko apne roz wo shaam
   Chain ne aaya aap ko din bhar
 
@@ -37,13 +37,13 @@ romanLyrics: |-
   Sadme sahe sab aap ne dil par
 
   6
-  Kaanton pa paidal aap gaye
+  Kaantoṅ pa paidal aap gaye
   Az karbobala taa kufa o shaam
-  Aabile paaon ke phoote hai ye keh kar
+  Aabile paaoṅ ke phute hai ye keh kar
 
   7
   Fatema zehra lene ko pursa
-  Aati hai majlis mein us jaa
+  Aati hai majlis meiṅ us jaa
   Pursa do farhat tum bhi ye keh kar
 # source_id: nohayonline:fb2d4dd74afdef6dc8a3
 # source_url: https://www.nohayonline.com/details_content.php?id=2959

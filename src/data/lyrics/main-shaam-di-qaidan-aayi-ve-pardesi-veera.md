@@ -95,7 +95,7 @@ romanLyrics: |-
   Pardaseya veera
 
   9
-  Haye qabar Hussain koon gal nal la ke
+  Haye qabar Husain koon gal nal la ke
   Saian Jawad O Sarwar aakhy
   Tera chelum karn aayi vay
   Pardaseya veera

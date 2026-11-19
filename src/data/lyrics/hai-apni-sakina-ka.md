@@ -11,23 +11,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sar ghazi ka jab shaah ne seene se lagaya
+  Sar ghazi ka jab shaah ne sine se lagaya
   Sheh rag se sada aane lagi haye sakina
-  Farmate thay abbas mai sharminda hoon aaqa
+  Farmate the abbas mai sharminda huṅ aaqa
   Pani mai sakina ke liye laa nahi paaya
   Hai apni sakina ka abbas ko gham maula
   Pyasi rahi shahzaadi aur marte hai hum maula
-  Tashreef jo laaye hai tazeem ko uth jaata
+  Tashrif jo laaye hai tazim ko uth jaata
   Sar apna jhuka kar mai aadaab baja laata
-  Uthne se bhi qaasir hoon baazu hai qalam maula
+  Uthne se bhi qaasir huṅ baazu hai qalam maula
   Pyasi rahi shahzaadi...
   Hai apni sakina ka...
-  Khaatoon e jina ne yun girne se bachaya hai
+  Khaatun-e-jina ne yuṅ girne se bachaya hai
   Rahwaar se bibi ne khud mujhko utaara hai
   Hai khaak pe bibi ke ye naqshe qadam maula
   Pyasi rahi shahzaadi...
   Hai apni sakina ka...
-  Aati hai sada koi badhti hai pareshani
+  Aati hai sada koi barhti hai pareshani
   Jaise ke koi bacchi kehti ho chacha pani
   Hai maut se bad kar ye zehra ki qasam maula
   Pyasi rahi shahzaadi...
@@ -37,29 +37,29 @@ romanLyrics: |-
   Kis tarha se jhelegi wo ranj o alam maula
   Pyasi rahi shahzaadi...
   Hai apni sakina ka...
-  Maqtal mein pada rehne dijega mera laasha
+  Maqtal meiṅ para rehne dijega mera laasha
   Abbas ki ghairat ko bardaasht nahi hoga
   Mayyat pe meri roye ab ahle haram maula
   Pyasi rahi shahzaadi...
   Hai apni sakina ka...
   Jaate huwe hasrat hai ye aap ke khaadim ko
-  Bas saani e zahra ke qaime ki ziyarat ho
-  Rukh phayr dein us jaanib ab waqt hai kam maula
+  Bas saani-e-zahra ke qaime ki ziyarat ho
+  Rukh phayr deiṅ us jaanib ab waqt hai kam maula
   Pyasi rahi shahzaadi...
   Hai apni sakina ka...
-  Reti pe tera khaadim pairon ko ragadta hai
-  Hai zakhm lage itne khoon jism se behta hai
-  Ruk ruk ke nikalta hai ab seene se dam maula
+  Reti pe tera khaadim pairoṅ ko ragadta hai
+  Hai zakhm lage itne khuṅ jism se behta hai
+  Ruk ruk ke nikalta hai ab sine se dam maula
   Pyasi rahi shahzaadi...
   Hai apni sakina ka...
-  Mai aap ke chehre ko dekhun to bhala kaise
-  Ek teer se zakhmi hai ek aankh hai tar khoon se
-  Ye teer hata dein to ho jaaye karam maula
+  Mai aap ke chehre ko dekhuṅ to bhala kaise
+  Ek tir se zakhmi hai ek aankh hai tar khuṅ se
+  Ye tir hata deiṅ to ho jaaye karam maula
   Pyasi rahi shahzaadi...
   Hai apni sakina ka...
-  Abbas ke qaime mein maula ne alam rakh ke
-  Kaati hai tanaabein yun akbar ke abhi jaise
-  Dafnaate hai ghazi ki hasrat mein alam maula
+  Abbas ke qaime meiṅ maula ne alam rakh ke
+  Kaati hai tanaabeiṅ yuṅ akbar ke abhi jaise
+  Dafnaate hai ghazi ki hasrat meiṅ alam maula
   Pyasi rahi shahzaadi...
   Hai apni sakina ka...
 # source_id: nohayonline:405a61281b0d1ec1f79d

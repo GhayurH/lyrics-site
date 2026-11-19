@@ -11,17 +11,17 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ae logo aao tum ko bataaun
-  Rehmat-e-Baari tum ko dikhaaun
-  Saare jahaan ka hai ek sahaara
+  Ae logo aao tum ko bataauṅ
+  Rehmat-e-Baari tum ko dikhaauṅ
+  Saare jahaaṅ ka hai ek sahaara
   Ye jo alam mere ghar pe laga hai
   Ye hai alam Abbas ka
 
-  Gham se nikaale mushkilein taale
+  Gham se nikaale mushkileiṅ taale
   Kaisa wasila Rab ne diya
 
   1
-  Hum ne alam jab ghar mein sajaaya, ghar mein rakhe Zahra ne qadam
+  Hum ne alam jab ghar meiṅ sajaaya, ghar meiṅ rakhe Zahra ne qadam
   Dur hue sab ranj o masaaib, phir kaisi mushkil kaisa gham
   Dast-e-karam hai, Sheh ka bharam hai, jis ka koi saani na mila
 
@@ -32,13 +32,13 @@ romanLyrics: |-
 
   3
   Dekho alam ka surkh pharera, chaadar-e-Zainab se hai bana
-  Jo bhi alam ke saaye mein aaya, duniya ke sab gham bhul gaya
+  Jo bhi alam ke saaye meiṅ aaya, duniya ke sab gham bhul gaya
   Ab jaa ke maana saara zamaana saaya figan ghar ghar pe hua
 
   4
-  Aisa alam duniya mein dikhaao jis ki ataa ho Rab ki ataa
-  Shaan-e-azaadaari ye alam hai, dekho azaakhaano mein zara
-  Mannatein puri karta hai sab ki, zinda hai is ke dam se wafa
+  Aisa alam duniya meiṅ dikhaao jis ki ataa ho Rab ki ataa
+  Shaan-e-azaadaari ye alam hai, dekho azaakhaano meiṅ zara
+  Mannateiṅ puri karta hai sab ki, zinda hai is ke dam se wafa
 
   5
   Hamza o Jafar ka ye alam hai, hai ye alam Haider ka alam
@@ -47,13 +47,13 @@ romanLyrics: |-
 
   6
   Qatl hua jab darya pe Ghazi, tut gayi Maula ki kamar
-  Laasha nahi Sheh laaye Jarri ka, laaye alam hi khun mein tar
+  Laasha nahi Sheh laaye Jarri ka, laaye alam hi khun meiṅ tar
   Beti se bole Shabbir ro ke aaye nahi darya se chacha
 
   7
   Karbala ke dasht ka manzar kaise likhuṅ rota hai qalam
   Baad-e-Jarri aulaad-e-Payambar nauhakunaaṅ thi zer-e-alam
-  Baali Sakina karti thi nauha saaye mein is ke aayi qaza
+  Baali Sakina karti thi nauha saaye meiṅ is ke aayi qaza
 
   8
   Panja alam ka Mesum o Mazhar dast-e-karam Abbas ka hai

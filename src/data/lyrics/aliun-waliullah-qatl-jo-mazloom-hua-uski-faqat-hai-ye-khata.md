@@ -11,31 +11,31 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Qatl jo mazloom hua uski faqat hai ye khata
+  Qatl jo mazlum hua uski faqat hai ye khata
   Wo pairawe wilayat hai
   Aliun waliullah aliun waliullah
   Ali ali ali ali ali
 
   2
-  Zalimon ki maut hai aur aasra mazloom ka
+  Zalimoṅ ki maut hai aur aasra mazlum ka
   Ali ali aliun waliullah
-  Hum azadaron ki ye pehchan hai zer e falak
+  Hum azadaroṅ ki ye pehchan hai zer e falak
   Godh se maadar ki le kar qabr ki aaghosh tak
 
   3
   Ek markaz ek nukhta ek mehwar ek sada
   Ali ali aliun waliullah...
-  Jo isay naafiz kare wo qaum zindabad hai
+  Jo ise naafiz kare wo qaum zindabad hai
   Adliya ki shaan hai ye adl ki buniyad hai
 
   4
   Sirf naara hi nahi ye hai nizaame kibriya
   Ali ali aliun waliullah...
   Sab se pehle ghar jala jiska ali ke naam par
-  Ho gayi wo khud zaeefa phasliyan tooti magar
+  Ho gayi wo khud zaeefa phasliyaṅ tuti magar
 
   5
-  Fatema ki siskiyon mein aakhri dam tak raha
+  Fatema ki siskiyoṅ meiṅ aakhri dam tak raha
   Ali ali aliun waliullah...
   Saltanat ke waaste tha kab qayame karbala
   Is liye sheh ne kiya tha ehtemame karbala
@@ -43,14 +43,14 @@ romanLyrics: |-
   6
   Jaanti thi saari dunya maanta koi na tha
   Ali ali aliun waliullah...
-  Hichkiyan maa ki bani zainab musalle par giri
-  Naam sun kar baba jaan ka ro diya ibne ali
+  Hichkiyaṅ maa ki bani zainab musalle par giri
+  Naam sun kar baba jaaṅ ka ro diya ibne ali
 
   7
-  Subhe ashoora azaan mein naujawan ne jab kaha
+  Subhe ashoora azaaṅ meiṅ naujawaṅ ne jab kaha
   Ali ali aliun waliullah...
-  Be-ridayi aur khutba al haafizo alamaan
-  Fatha ka aelaan sun kar goonji awaaze azaan
+  beridayi aur khutba al haafizo alamaaṅ
+  Fatha ka aelaan sun kar gunji awaaze azaaṅ
 
   8
   Bar sare darbaar zainab ne ye saabit kar diya
@@ -61,13 +61,13 @@ romanLyrics: |-
   9
   Ha sab ka hai mafaad aliun waliullah
   Hai bait e ittehad aliun waliullah
-  Ghaibat mein muntazir ko rulao na doston
-  Is naare ko fasaad banao na doston
+  Ghaibat meiṅ muntazir ko rulao na dostoṅ
+  Is naare ko fasaad banao na dostoṅ
 
   10
   Jab bhi ghaibat se takallum aane waala aayega
   Chaahta hai jo khuda darwesh wo ho jayega
-  Us ghadi raij zameen par har taraf ho jayega
+  Us ghari raij zamiṅ par har taraf ho jayega
   Ali ali aliun waliullah...
 # source_id: nohayonline:dc20b8ae78f26dc77262
 # source_url: https://www.nohayonline.com/details_content.php?id=3182

@@ -32,12 +32,12 @@ romanLyrics: |-
   2
   Hyder ko zakhmi dekhh ke bekal hai mustafa
   Pehlu shikasta roti hai maqdooma sayyeda
-  Mehroon hai hussain to maghmoon mujtaba
+  Mehroon hai Husain to maghmoon mujtaba
   Furqat ka daagh darte hai sardar e ausiya
   Aulaad ro rahi hai shahe deen ki zaar zaar
 
   3
-  Be-deen bad naseeb o nasab dushmane khuda
+  bedeen bad naseeb o nasab dushmane khuda
   Tune sutoone noore hidayat gira diya
   Tune imame jinn o bashar qatl kar diya
   Tune dil e rasool e moazzam dukha diya

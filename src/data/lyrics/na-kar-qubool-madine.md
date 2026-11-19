@@ -1,6 +1,6 @@
 ---
 title: "مت کر ہمیں قبول اے نانا کے مدینے"
-alternateTitle: "Na Kar Qubool Madine"
+alternateTitle: "Na Kar Qubul Madine"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,47 +12,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Mat kar hamein qubool ay nana ke madine
+  Mat kar hameiṅ qubul ae nana ke madine
   Madina aagaya jab ye sada ubharne lagi
-  Ye pushte naaqa se kulsoom bain karne lagi
+  Ye pushte naaqa se kulsum bain karne lagi
   Luta ke aaye hai zehra ke hum gharane ko
-  Na kar qubool madine hamare aane ko
-  Batayein kaise jo hum par guzar gaya mehshar
-  Sar e hussain tadapta tha noke naiza par
-  Har ek shehr mein maare gaye hamein pathar
-  Hamare chehron ki jaanib thi shaamiyo ki nazar
-  Na haath bhi thay ye azaad moo chupane ko
-  Na kar qubool...
-  Bichad ke apni behan se dubara mil na saki
-  Wo dil mein le gayi hasrat madine aane ki
-  Musibaton ke andheron mein chal basi bachi
-  Hamein rehaai mili wo hai aaj bhi qaidi
+  Na kar qubul madine hamare aane ko
+  Batayeiṅ kaise jo hum par guzar gaya mehshar
+  Sar-e-Husain tarapta tha noke naiza par
+  Har ek shehr meiṅ maare gaye hameiṅ pathar
+  Hamare chehroṅ ki jaanib thi shaamiyo ki nazar
+  Na haath bhi the ye azaad moo chupane ko
+  Na kar qubul...
+  Bichar ke apni behan se dubara mil na saki
+  Wo dil meiṅ le gayi hasrat madine aane ki
+  Musibaton ke andheroṅ meiṅ chal basi bachi
+  Hameiṅ rehaai mili wo hai aaj bhi qaidi
   Basa liya hai sakina ne qaid khane ko
-  Na kar qubool...
+  Na kar qubul...
   Madina lut gayi sarkar tere waali ki
-  Mere hussain ke sookhe galay pe taygh chali
-  Bacha na abid e bemaar ke siwa koi
-  Hamari godiyan pardes mein hui khaali
-  Qadam uthaye nahi jaate ghar mein aane ko
-  Na kar qubool...
-  Gali gali mein phiraya gaya ghareebon ko
-  Qadam qadam pe rulaya gaya ghareebon ko
-  Bicha ke kaante chalaya gaya ghareebon ko
-  Tamaash beeno mein laaya gaya ghareebon ko
-  Sawaab samjha gaya hai hamein satane ko
-  Na kar qubool...
-  Tarha tarha se sitamgar hamein saza dete
+  Mere Husain ke sukhe gale pe taygh chali
+  Bacha na abid-e-bemaar ke siwa koi
+  Hamari godiyaṅ pardes meiṅ hui khaali
+  Qadam uthaye nahi jaate ghar meiṅ aane ko
+  Na kar qubul...
+  Gali gali meiṅ phiraya gaya ghariboṅ ko
+  Qadam qadam pe rulaya gaya ghariboṅ ko
+  Bicha ke kaante chalaya gaya ghariboṅ ko
+  Tamaash bino meiṅ laaya gaya ghariboṅ ko
+  Sawaab samjha gaya hai hameiṅ satane ko
+  Na kar qubul...
+  Tarha tarha se sitamgar hameiṅ saza dete
   Wo taaziyano ki bemaar ko dawa dete
-  Utha ke saaye se wo dhoop mein bitha dete
-  Ghareeb e zehra ka pursa bhala wo kya dete
-  Na aaya koi rida bhi hamein udhane ko
-  Na kar qubool...
+  Utha ke saaye se wo dhup meiṅ bitha dete
+  Gharib e zehra ka pursa bhala wo kya dete
+  Na aaya koi rida bhi hameiṅ urhane ko
+  Na kar qubul...
   Na likh sakega takallum samaa wo tera qalam
-  Thay gird ahle madina ajeeb tha aalam
+  The gird ahle madina ajib tha aalam
   Ye kehke naaqon se uthre siyaah posh ahle haram
-  Yahan pe chain se hoga hussain ka matam
-  Taras gaye thay hum ashk e aza bahane ko
-  Na kar qubool...
+  Yahaṅ pe chain se hoga Husain ka matam
+  Taras gaye the hum ashk-e-aza bahane ko
+  Na kar qubul...
 # source_id: nohayonline:6942e023d9d4be1bf503
 # source_url: https://www.nohayonline.com/details_content.php?id=320
 # raw_sha256: 0dde397286c7d0547f28125edb0c1d01f440481f1217c9ad8806d284a631a087

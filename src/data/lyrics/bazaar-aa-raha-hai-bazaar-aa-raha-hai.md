@@ -13,42 +13,42 @@ romanLyrics: |-
   Bazaar aa raha hai bazaar aa raha hai
 
   1
-  Sharm o haya ki malka be-maqna o rida hai
+  Sharm o haya ki malka bemaqna o rida hai
   Sab qatl ho chuke hai shabbir ke fidaayi
   Ansar o aqraba bhi
   Kis ko bulaye haye sunta nahi hai koi
-  Faryad bekason ki
+  Faryad bekasoṅ ki
   Behaal gham ke maare bemaar e karbla hai
 
   2
-  Kaisi hai ye qayamat hai kaisi ye ghadi hai
+  Kaisi hai ye qayamat hai kaisi ye ghari hai
   Hai kaisi bekasi hai
-  Sar berida hai sab ke haathon mein bibiyon ke
+  Sar berida hai sab ke haathoṅ meiṅ bibiyoṅ ke
   Rassi bandhi hui hai
-  Bemaar ke galay mein tauq e garan pada hai
+  Bemaar ke gale meiṅ tauq e garaṅ para hai
 
   3
   Kya zulm kya sitam hai aayi hai qaid hokar
   Aulaad mustafa ki
-  Bemaar saarban ke pairon pe sar ko rakh ke
-  Roti hai bediyan bhi
-  Sun sun ke ye sadayein har zakhm ro raha hai
+  Bemaar saarbaṅ ke pairoṅ pe sar ko rakh ke
+  Roti hai beriyaṅ bhi
+  Sun sun ke ye sadayeiṅ har zakhm ro raha hai
 
   4
-  Baalon se moo chupa kar saydaniyan pukari
+  Baaloṅ se moo chupa kar saydaniyaṅ pukari
   Aa kar hamay bachao
   Abbas jald aao abbas jald aao abbas jald aao
   Ek ghul hai chaar jaanib ek shor uth raha hai
 
   5
-  Mazloom bibiyon ko hote hai khush rula kar
+  Mazlum bibiyoṅ ko hote hai khush rula kar
   Ahle sitam jafagar
-  Faryad kar rahi hai saydaniya tadap kar
+  Faryad kar rahi hai saydaniya tarap kar
   Koi dilaade chadar
   Abbas ko bulao zainab ki ye sada hai
 
   6
-  Chaaron taraf sakina qaidi yateem bacchi
+  Chaaroṅ taraf sakina qaidi yatim bacchi
   Hasrat se dekhti hai
   Kya waqt aagaya hai abbas ki bhatiji
   Chup chup ke ro rahi hai
@@ -56,13 +56,13 @@ romanLyrics: |-
 
   7
   Ghaiz o ghazab ke maare larza hai ek sina par
-  Kadiyal jawan ka sar
+  Kariyal jawan ka sar
   Rukta nahi hai haye ghazi ka sar sina par
-  Gir jaata hai zameen par
-  Aankhon se sheh ki khoon ka behna bata raha hai
+  Gir jaata hai zamiṅ par
+  Aankhoṅ se sheh ki khuṅ ka behna bata raha hai
 
   8
-  Zainab ne ro ke jis dam poocha ye shaahe deen se
+  Zainab ne ro ke jis dam pucha ye shaahe diṅ se
   Hukme imam kya hai
   Aayi sada ye gohar shaahe umam ke sar se
   Bhai bhi chal raha hai

@@ -15,66 +15,66 @@ romanLyrics: |-
   Jab aaya madine sota hi nahi tha
   Bas rota tha
   Ek shab fizza ne aake kaha
-  Shehzade kyun sote nahi ho mere aaqa zade
+  Shehzade kiuṅ sote nahi ho mere aaqa zade
   Maula baqer ne ro ke kaha amma
-  Dekha hai in aankhon ne dada ke kate sar ko
+  Dekha hai in aankhoṅ ne dada ke kate sar ko
   Na bhoolunga mai wo karbobala
   Padhunga sada yehi marsiya
-  Haan mai rounga
+  Haaṅ mai rounga
   Mai rounga amma fizza mai rounga
-  Dekha hai in aankhon ne jab karbobala pahunche
+  Dekha hai in aankhoṅ ne jab karbobala pahunche
   Darya pe lage qaime darya se hate qaime
-  Na bhoolunga mai wo tifl o jawan
-  Thay tashna dahan labe alqama
-  Haan mai rounga
+  Na bhoolunga mai wo tifl o jawaaṅ
+  The tashna dahan labe alqama
+  Haaṅ mai rounga
   Mai rounga...
-  Dekha hai in aankhon ne ashoor ka wo manzar
-  Laashe hi bayaban se sheh laate rahe din bhar
+  Dekha hai in aankhoṅ ne ashur ka wo manzar
+  Laashe hi bayabaṅ se sheh laate rahe din bhar
   Na bhoolunga mai wo ranj o alam
   Sar e dasht e gham huwe sar qalam
-  Haan mai rounga
+  Haaṅ mai rounga
   Mai rounga...
-  Dekha hai in aankhon ne naizon pe shaheedon ko
-  Aur shaam e ghariban mein jalte huwe qaimon ko
-  Na bhoolunga mai chini chadarein
-  Jali masnadein mere saamne
-  Haan mai rounga
+  Dekha hai in aankhoṅ ne naizoṅ pe shahidoṅ ko
+  Aur shaam e gharibaṅ meiṅ jalte huwe qaimon ko
+  Na bhoolunga mai chini chadareiṅ
+  Jali masnadeiṅ mere saamne
+  Haaṅ mai rounga
   Mai rounga...
-  Dekha hai in aankhon ne kaunain ki shehzadi
+  Dekha hai in aankhoṅ ne kaunain ki shehzadi
   Jis waqt bani qaidi ghazi ko bulaati thi
   Na bhoolunga mai haram ka safar
   Chale nange sar rasan pehen kar
-  Haan mai rounga
+  Haaṅ mai rounga
   Mai rounga...
-  Dekha hai in aankhon ne kaanto pe safar karna
-  Un shaam ki galiyon mein ek qaidi ka khoon rona
+  Dekha hai in aankhoṅ ne kaanto pe safar karna
+  Un shaam ki galiyoṅ meiṅ ek qaidi ka khuṅ rona
   Na bhoolunga mai saje baam o dar
-  Har ek gaam par wo naizon pe sar
-  Haan mai rounga
+  Har ek gaam par wo naizoṅ pe sar
+  Haaṅ mai rounga
   Mai rounga...
-  Dekha hai in aankhon ne us waqt aseeri mein
-  Shabbir ki dukhtar ko jab maanga kaneezi mein
+  Dekha hai in aankhoṅ ne us waqt asiri meiṅ
+  Shabbir ki dukhtar ko jab maanga kanizi meiṅ
   Na bhoolunga mai haram ro diye
-  Sabhi karb se tadapne lage
-  Haan mai rounga
+  Sabhi karb se tarapne lage
+  Haaṅ mai rounga
   Mai rounga...
-  Dekha hai in aankhon ne zindan ka wo manzar
-  Laasha tha sakina ka bemaar ke haathon par
+  Dekha hai in aankhoṅ ne zindan ka wo manzar
+  Laasha tha sakina ka bemaar ke haathoṅ par
   Na bhoolunga mai phupi ki qaza
   Kafan ban gaya wo kurta jala
-  Haan mai rounga
+  Haaṅ mai rounga
   Mai rounga...
-  Dekha hai in aankhon ne zindan se reha hoke
-  Wo ujde huwe qaidi jab karbobala pahunche
+  Dekha hai in aankhoṅ ne zindaṅ se reha hoke
+  Wo ujre huwe qaidi jab karbobala pahunche
   Na bhoolunga mai ke daadi meri
   Ye kehne lagi behen aagayi
-  Haan mai rounga
+  Haaṅ mai rounga
   Mai rounga...
-  Dekha hai in aankhon ne irfan e aza ban kar
+  Dekha hai in aankhoṅ ne irfan e aza ban kar
   Dekho mere chehre ko har gham ka hai ye mazhar
   Na bhoolunga mai kabhi karbala
   Wo qaid e jafa dayaar e saza
-  Haan mai rounga
+  Haaṅ mai rounga
   Mai rounga...
 # source_id: nohayonline:ea2d3d860b93057e0691
 # source_url: https://www.nohayonline.com/details_content.php?id=3583

@@ -12,14 +12,14 @@ published: false
 romanLyrics: |-
   1
   Pad raha hai rajas ghazi e bawafa
-  Mehn mein sayyeda ke tu hai alqama
-  Behti hai tu jahan hai elaaqa mera
+  Mehn meiṅ sayyeda ke tu hai alqama
+  Behti hai tu jahaṅ hai elaaqa mera
   Kya mere naam se tu nahi aashna
   Abbas hoo abbas hoo pani to leke jaunga
   Dosh pe hai parcham ko uthaye
   Mashk hai kaandhe par rakhi
   Rok sake ye fauj e sitam
-  Ab kis mein taaqat hai itni
+  Ab kis meiṅ taaqat hai itni
   Mai ali ka laal hoo darya
   Utha le jaunga
   Haa mai abbas hoo haa mai abbas hoo
@@ -28,12 +28,12 @@ romanLyrics: |-
   Saari dunya jaanti hai
   Apni chadar ka zaamin bhi
   Binte zehra maanti hai
-  Hai ragon mein khoon kis ka
+  Hai ragoṅ meiṅ khun kis ka
   Aaj ye batlaunga
   Haa mai abbas hoo haa mai abbas hoo
   Abbas hoo abbas hoo...
   Taygh mere maula ne nahi di
-  Haath mein bas ek naiza hai
+  Haath meiṅ bas ek naiza hai
   Phir bhi khyber khandaq jaisa
   Aaj ye mera hamla hai
   Koi marhab hai to aaye
@@ -41,14 +41,14 @@ romanLyrics: |-
   Haa mai abbas hoo haa mai abbas hoo
   Abbas hoo abbas hoo...
   Nehr to kya hai saath samandar
-  Bhar loo ek mashkeeze mein
-  Dekh lo ek hamle mein aaya
-  Darya mere qabze mein
-  Tashnalab hoo tashnagi mein
+  Bhar loo ek mashkize meiṅ
+  Dekh lo ek hamle meiṅ aaya
+  Darya mere qabze meiṅ
+  Tashnalab hoo tashnagi meiṅ
   Pyaas le ke jaunga
   Haa mai abbas hoo haa mai abbas hoo
   Abbas hoo abbas hoo...
-  Ye jo wafa rag rag mein bhari hai
+  Ye jo wafa rag rag meiṅ bhari hai
   Ye to dua e zehra hai
   Mere alam ke saaye par bhi
   Unki rida ka saaya hai
@@ -60,31 +60,31 @@ romanLyrics: |-
   Phir bhi alam lehrayega
   Saahil se ab mera parcham
   Koi hata na paayega
-  Aaj se jageer-daare
+  Aaj se jagir-daare
   Karbala kehlaunga
   Haa mai abbas hoo haa mai abbas hoo
   Abbas hoo abbas hoo...
-  Khaali kooza haath mein lekar
-  Dar pe sakina hai jo khadi
+  Khaali kooza haath meiṅ lekar
+  Dar pe sakina hai jo khari
   Is pe sadqe mere baazu
   Is pe nichawar pyaas meri
   Is ne gar pani na paaya
-  Jeete ji mar jaunga
+  Jite ji mar jaunga
   Haa mai abbas hoo haa mai abbas hoo
   Abbas hoo abbas hoo...
   Waada kar ke aaya hoo mai
-  Pyaas ke maare bachon se
+  Pyaas ke maare bachoṅ se
   Ab to khareedunga mai pani
-  Apne jigar ka khoon deke
+  Apne jigar ka khuṅ deke
   Mashk khaali reh gayi to
   Laut kar na jaunga
   Haa mai abbas hoo haa mai abbas hoo
   Abbas hoo abbas hoo...
   Aaj bhi hai rehaan o raza ye
-  Darya ki faryadon mein
+  Darya ki faryadoṅ meiṅ
   Kaise jaa ke bich jaaye ye
-  Maujein uske qadmon mein
-  Jo ye kehta tha yahan se
+  Maujeiṅ uske qadmoṅ meiṅ
+  Jo ye kehta tha yahaṅ se
   Mashk bhar ke jaunga
   Haa mai abbas hoo haa mai abbas hoo
   Abbas hoo abbas hoo...

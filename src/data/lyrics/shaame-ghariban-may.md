@@ -1,6 +1,6 @@
 ---
 title: "شامِ غریباں آگئی بے کسی چھا گئی"
-alternateTitle: "Shaame Ghariban May"
+alternateTitle: "Shaame Gharibaṅ May"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shaam e gham aagayi bekasi chagayi
+  Shaam-e-gham aagayi bekasi chagayi
   Shaam ki fauj qaimon talak aagayi
   Aatishe zulm qaime jalaane lagi
   Mere khuda labe furaat sayeban jal gaya
-  Jalay qayaam sayyeda ka phir makaan jal gaya
-  Shaam e gariban mein haram karte thay faryad
+  Jale qayaam sayyeda ka phir makaan jal gaya
+  Shaam-e-gariban meiṅ haram karte the faryad
   Haye haye haye haye
   Haye alamadar
-  Shaam e gariban mein…
+  Shaam-e-garibaṅ mein…
   Chadare chin gayi lut gaya maal o zar
-  Qaima dar qaima hai bibiyon ka safar
-  Betiyan fatema ki huwi nauhagar
-  Tadap tadap ke ya ali pukarti thi bibiyan
-  Idhar udhar bas apne laal dhoondti thi bibiyan
+  Qaima dar qaima hai bibiyoṅ ka safar
+  Betiyaṅ fatema ki huwi nauhagar
+  Tarap tarap ke ya ali pukarti thi bibiyaṅ
+  Idhar udhar bas apne laal dhundti thi bibiyaṅ
   Jalne laga haye udhar bistare bemaar
   Haye haye haye haye
   Haye alamadar
-  Shaam e gariban mein…
-  Kya kare zainab e khasta dil kya kare
+  Shaam-e-garibaṅ mein…
+  Kya kare zainab-e-khasta dil kya kare
   Na rahe waarisane haram na rahe
   Raat aayi nahi aur sab sogaye
-  Dhuwan dhuwan fiza lahoo lahoo hai dashte karbala
+  Dhuwaṅ dhuwaṅ fiza lahu lahu hai dashte karbala
   Kisi nasheb se hai mustaqil sada e fatema
-  Naala e ya fatema ya hydare karrar
+  Naala-e-ya fatema ya hydare karrar
   Haye haye haye haye
   Haye alamadar
-  Shaam e gariban mein…
-  Khaak par aagayi bibiyan nauhagar
-  Godh mein pyase bachon ke rakhe hai sar
+  Shaam-e-garibaṅ mein…
+  Khaak par aagayi bibiyaṅ nauhagar
+  Godh meiṅ pyase bachoṅ ke rakhe hai sar
   Kisko awaaz de haye jaaye kidhar
   Na koi bhai hai na bhai ka pisar na bhanja
   Ali ki laadli ne bhai ka alam utha liya
-  Mir e sadar mir e haram zainabe laachar
+  Mir-e-sadar mir-e-haram zainabe laachar
   Haye haye haye haye
   Haye alamadar
-  Shaam e gariban mein…
+  Shaam-e-garibaṅ mein…
   Haye rehaan o sarwar sare karbala
-  Hoke be-dast ek laasha e bawafa
+  Hoke bedast ek laasha-e-bawafa
   Dekhta rehgaya khaafila chal diya
   Salaam bekafan badan wo jinke sar huve juda
-  Salam dukhtarane fatema aseer o berida
-  Ek rasan baara galay koocha o baazar
+  Salam dukhtarane fatema asir o berida
+  Ek rasan baara gale kucha o baazar
   Haye haye haye haye
   Haye alamadar
-  Shaam e gariban mein…
+  Shaam-e-garibaṅ mein…
 # source_id: nohayonline:daa8602a4c17be17dde8
 # source_url: https://www.nohayonline.com/details_content.php?id=425
 # raw_sha256: 32bdaeb34824278a78ff85e034b33077ac36e5f066bec10a0314b31452bae763

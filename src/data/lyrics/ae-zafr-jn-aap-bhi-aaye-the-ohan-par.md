@@ -26,7 +26,7 @@ romanLyrics: |-
   3
   Allah re wo saani-e-Haidar ba alamdaar
   Wo Shah ka wafadaar
-  Kis tarah gira ghore se bedast zamiṅ par
+  Kis tarah gira ghore se bedast zamin par
 
   4
   Sunte haiṅ ke barchhi meiṅ kaleja nikal aaya

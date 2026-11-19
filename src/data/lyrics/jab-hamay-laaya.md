@@ -1,6 +1,6 @@
 ---
 title: "ہاے بازار ہاے سجاد ہاے بازار ہاے سجاد"
-alternateTitle: "Jab Hamay Laaya"
+alternateTitle: "Jab Hame Laaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,45 +12,45 @@ published: false
 romanLyrics: |-
   1
   Haye bazaar haye sajjad haye bazaar haye sajjad
-  Ay momino sunata hoon mai gham ka waqeya
-  Padhte thay subho-shaam ye sajjad marsiya
+  Ae momino sunata huṅ mai gham ka waqeya
+  Parhte the subho-shaam ye sajjad marsiya
   Baba pe haye apne mai qurban na ho saka
   Ash shaam haye shaam yehi lab pe thi sada
-  Minhal ne jo zulm ki poochi hai inteha
+  Minhal ne jo zulm ki puchi hai inteha
   Ro ro ke tab ye sayyede sajjad ne kaha
-  Jab hamay laaya gaya khaynchte bazaaron mein
-  Dhoom tha jashn ka us waqt sitamgaaron mein
-  Haye minhal bayan kaise karun wo manzar
-  Ek rassi mein bandhe baara galay thay kas kar
-  Sab se choti thi behen meri giraftaaron mein
+  Jab hamay laaya gaya khaynchte bazaaroṅ meiṅ
+  Dhum tha jashn ka us waqt sitamgaaroṅ meiṅ
+  Haye minhal bayaṅ kaise karuṅ wo manzar
+  Ek rassi meiṅ bandhe baara gale the kas kar
+  Sab se choti thi behen meri giraftaaroṅ meiṅ
   Jab hamay laaya gaya...
   Haye mai sayyede sajjad na bhoolunga wo din
-  Sab mere qatl huwe karbobala mein lekin
-  Haye mai qatl hua shaam ke bazaaron mein
+  Sab mere qatl huwe karbobala meiṅ lekin
+  Haye mai qatl hua shaam ke bazaaroṅ meiṅ
   Jab hamay laaya gaya...
-  Jis ghadi shaam ke bazaar mein hum laaye gaye
-  Haye patthar bhi saron par mere barsaye gaye
-  Khoon mein tar thay khade sang ki baucharon mein
+  Jis ghari shaam ke bazaar meiṅ hum laaye gaye
+  Haye patthar bhi saroṅ par mere barsaye gaye
+  Khun meiṅ tar the khare sang ki baucharoṅ meiṅ
   Jab hamay laaya gaya...
   Nok e naiza pe jo baysheer nazar aata tha
   Dil mera farte masayab se phata jaata tha
-  Sab se chota tha mera bhai fidakaron mein
+  Sab se chota tha mera bhai fidakaron meiṅ
   Jab hamay laaya gaya...
-  Ho jo minhal agar shaam ke zindan se guzar
-  Apni aankhon se zara dekhna manzar jaa kar
-  Aaj bhi khoon ke hai cheete dar o deewaron mein
+  Ho jo minhal agar shaam ke zindaṅ se guzar
+  Apni aankhoṅ se zara dekhna manzar jaa kar
+  Aaj bhi khun ke hai chite dar o diwaroṅ meiṅ
   Jab hamay laaya gaya...
   Haye sajjad pe thi kaisi qayamat aayi
-  Aake ye sayyede sajjad se pooche koi
-  Kitni takleef hui shaam ke bazaaron mein
+  Aake ye sayyede sajjad se puche koi
+  Kitni taklif hui shaam ke bazaaroṅ meiṅ
   Jab hamay laaya gaya...
   Haal tab bali sakina ka ajab hota tha
   Shimr jab pani dikha kar wo baha deta tha
-  Rehem khaata na tha koi bhi jafakaron mein
+  Rehem khaata na tha koi bhi jafakaron meiṅ
   Jab hamay laaya gaya...
-  Kyun na us pehle azadaar ko roye aalam
-  Haye aamir na kare ahle aza kyun matam
-  Ek azadaar ka matam hai azadaaron mein
+  Kiuṅ na us pehle azadaar ko roye aalam
+  Haye aamir na kare ahle aza kiuṅ matam
+  Ek azadaar ka matam hai azadaaroṅ meiṅ
   Jab hamay laaya gaya...
 # source_id: nohayonline:b5f4fc486dc13b125416
 # source_url: https://www.nohayonline.com/details_content.php?id=3490

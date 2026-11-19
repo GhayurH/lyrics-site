@@ -25,14 +25,14 @@ romanLyrics: |-
   Khud faaqa kash reh reh ke bhi
   Saael ke kaase bhar diye
   Jo kuch bhi tha chup chap wo
-  Raahe khuda mein de diya
+  Raahe khuda meiṅ de diya
   Ya sayyeda...
 
   3
-  Tazeem yun baba ne ki
+  Tazim yuṅ baba ne ki
   Umme abiha ban gayi
   Is waaste ashraaf ne
-  Tazeem tere ghar ki thi
+  Tazim tere ghar ki thi
   Dar par tere utre malak
   Khud chal ke taara aagaya
 
@@ -42,7 +42,7 @@ romanLyrics: |-
   Aur saahib e aflaak ho
   Tum tahira tum marzia
   Tum rijz se bhi paak ho
-  Bas ek teri dehleez par
+  Bas ek teri dehliz par
 
   5
   Sajde kare sab ambiya
@@ -54,33 +54,33 @@ romanLyrics: |-
 
   6
   Shehzadi e kaunain ki
-  Tauseef kaise ho bhala
+  Tausif kaise ho bhala
   Ya sayyeda...
-  Gham tujhpe hai itne pade
+  Gham tujhpe hai itne pare
   Umme masayeb hogayi
   Baba ka gham mohsin ka gham
 
   7
-  Dil mein liye hi mar gayi
+  Dil meiṅ liye hi mar gayi
   Teri shahadat ka sabab
   Darbaar jana hogaya
   Ya sayyeda...
   Baad e mohamed aap par
-  Toote masayeb kis khadar
+  Tute masayeb kis khadar
 
   8
   Pehlu shikasta kar gaye
   Jo aag laaye tere ghar
   Ummat ne baba ko tere
-  Ajre risalat yun diya
+  Ajre risalat yuṅ diya
   Ya sayyeda...
-  Subbat alaiyya baba jaan
+  Subbat alaiyya baba jaaṅ
 
   9
   Kehti rahi jab fatema
-  Likhun bhala mai shadman
+  Likhuṅ bhala mai shadmaṅ
   Kis tarha se ye marsiya
-  Binte rasoole paak par
+  Binte rasule paak par
   Jo zulm baqar ho gaya
   Ya sayyeda...
 # source_id: nohayonline:e96500db6ea7f6aca118

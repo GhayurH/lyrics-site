@@ -12,74 +12,74 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ghazi abbas ko de ke deen ka alam
+  Ghazi abbas ko de ke diṅ ka alam
   Bole sibte nabi mera ek kaam kar
-  Mere baazu alamdar shaah e wafa
-  Ay ghani o sakhi mera ek kaam kar
-  Ay khuda e wafa sayyeda ki dua
-  Jurraton ke wali mera ek kaam kar
-  Dekh akse wali ay meri zindagi
+  Mere baazu alamdar shaah-e-wafa
+  Ae ghani o sakhi mera ek kaam kar
+  E khuda e wafa sayyeda ki dua
+  Jurratoṅ ke wali mera ek kaam kar
+  Dekh akse wali ae meri zindagi
   Misle nade ali mera ek kaam kar
   Chahta hai ye shabbir bhai mere
   Aaj sab tera jaah o hashm dekhle
-  Is tarah shamiyon se tu kar guftagoo
+  Is tarah shamiyoṅ se tu kar guftagu
   Lehjaye hydery ka bharam dekhle
   Ab ye parda utha inko jaake bata
   Azme shabbir azme hussaini hai kya
-  Hum muhafiz hai quran-o-islam ke
+  Hum muhafiz hai quran o islam ke
   Kis liye aaye hai bar sare karbala
-  Bol aise ke khaliq ko kehna pade
-  Zaat e hyder ke aqqas kya baat hai
+  Bol aise ke khaliq ko kehna pare
+  Zaat-e-hyder ke aqqas kya baat hai
   Aaj nehje balagha ka khaliq kahe
   Wah mere laal abbas kya baat hai
   Zaate hyder ke aqqas kya baat hai
   Mere ghazi jari teri kya baat hai
   Baat aaqa ki ghazi ne jis dam suni
-  Daf-atan sher ne ek angdayi li
-  Shaam ki fauj mein mach gayi khalbali
+  Daf-atan sher ne ek angrayi li
+  Shaam ki fauj meiṅ mach gayi khalbali
   Log kehne lage aa gaye kya ali
-  Aur roohe ali muskurane lagi
+  Aur ruhe ali muskurane lagi
   Wah mere laal…
   Mere ghazi jari…
   Bole abbas ye lashkare shaam se
   Wo jo waqif nahi hai mere naam se
   Ba khabar wo nahi apne anjam se
   Munsalik mai bhi hoo khum ke paigham se
-  Yun nawaza mujhe sheh ne inaam se
+  Yuṅ nawaza mujhe sheh ne inaam se
   Wah mere laal…
   Mere ghazi jari…
-  Mai bataun tumhe kaun shabbir hai
-  Aqse islam quran ki tafseer hai
-  Khuld baaghe iram uski jageer hai
-  Uske qadmon tale hurr ki taqdeer hai
-  Mere baare mein uski ye taqreer hai
+  Mai batauṅ tumhe kaun shabbir hai
+  Aqse islam quraṅ ki tafsir hai
+  Khuld baaghe iram uski jagir hai
+  Uske qadmoṅ tale hurr ki taqdir hai
+  Mere baare meiṅ uski ye taqrir hai
   Wah mere laal…
   Mere ghazi jari…
-  Ye ghulami e sheh ka sharaf hai mila
+  Ye ghulami-e-sheh ka sharaf hai mila
   Malkaye khuld ne mujh ko beta kaha
   Naam abbas zainab ne mera rakha
-  Jhoola shabbir ne hai jhulaya mera
-  Phir hassan ne galay se laga kar kaha
+  Jhula shabbir ne hai jhulaya mera
+  Phir Hasan ne gale se laga kar kaha
   Wah mere laal…
   Mere ghazi jari…
-  Pyaas bachon ki laayi yahan tak mujhe
+  Pyaas bachoṅ ki laayi yahaṅ tak mujhe
   Mashk ek bhar ke le ja'unga nehr se
-  Mere aaqa ne roka ladayi se hai
-  Warna roke mujhe hosla hai kisay
+  Mere aaqa ne roka larayi se hai
+  Warna roke mujhe hosla hai kise
   Mai hoo betaab sunlo yehi ek sada
   Wah mere laal…
   Mere ghazi jari…
   Jab mukammal huwa zindagi ka safar
   Bola shabbir se bawafa nehr par
-  Apne pairon pe rakh lijiye mera sar
+  Apne pairoṅ pe rakh lijiye mera sar
   Khush ho ummul baneen jab sune ye khabar
   Mere bete se shabbir ne keh diya
   Wah mere laal…
   Mere ghazi jari…
   Haye rehaan o sarwar ajab waqt tha
-  Hoke be-dast jab mera ghazi gira
-  Bawafa ka alam khoon mein tar hogaya
-  Rooh e zehra pukari sare karbala
+  Hoke bedast jab mera ghazi gira
+  Bawafa ka alam khuṅ meiṅ tar hogaya
+  Ruh-e-zehra pukari sare karbala
   Tune saqqayi ka haq ada kar diya
   Wah mere laal…
   Mere ghazi jari…

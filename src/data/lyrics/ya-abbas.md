@@ -10,52 +10,52 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab hawaon may nami mehsoos ki abbas ne
+  Jab hawaoṅ may nami mehsus ki abbas ne
   Ehtiyatan saans rokli abbas ne
   Mauje kausar sar utha kar dekhti hi reh gayi
   Itni unchayi par rakh di tashnagi abbas ne
   Ya abbas ya abbas
   Saja rakhi thi darya par ajab baarat pani ki
-  Bahot karte thay ashrare yazidi baat pani ki
+  Bahot karte the ashrare yazidi baat pani ki
   Magar darya pe pahunche thokare maari chale aaye
   Batadi hazrate abbas ne auqaad pani ki
   Kate baazu chidi mashkeeza bachi reh gayi pyasi
-  Zameen pe khoon bankar hogayi barsaat pani ki
+  Zamiṅ pe khun bankar hogayi barsaat pani ki
   Ya abbas ya abbas
-  Jahan bhi pani-o-mashk-o-alam ki baat chali
-  Ali ke laal ke qadmon talay faraat chali
-  Wafa-e-ishq-o-mohabbat ki kaayanat chali
+  Jahaṅ bhi pani o mashk o alam ki baat chali
+  Ali ke laal ke qadmoṅ tale faraat chali
+  Wafa-e-ishq o mohabbat ki kaayanat chali
   Dua-e-fatema zehra bhi saat saat chali
   Alam ke dam se hai ab tak hayaat pani ki
-  Jari ki jeet hui aur maath pani ki
+  Jari ki jit hui aur maath pani ki
   Ya abbas ya abbas
   Wo ek mashk jo kausar samayt kar nikli
-  Labon pe apne samandar samayt kar nikli
-  Tabassum e ali asghar samayt kar nikli
+  Laboṅ pe apne samandar samayt kar nikli
+  Tabassum-e-ali asghar samayt kar nikli
   Jo ek zarb se laskhar samayt kar nikli
-  Agar na kehti ye aab e hayaat pani ki
+  Agar na kehti ye aab-e-hayaat pani ki
   Har ek nigaah se gir jaati zaat pani ki
   Ya abbas ya abbas
   Sakina bibi ke saqqe ali ke laal salam
   Jari sakhi asad-e-sher-e-zuljalaal salam
   Wafa ki aakhri hadke mahay kamaal salam
-  Nahi hai dono jahan may teri misaal salam
+  Nahi hai dono jahaṅ may teri misaal salam
   Tere kate hue baazu nijaat pani ki
   Tere badan ka pasina zakaat pani ki
   Ya abbas ya abbas
-  Himayat-e-shah-e-mazloom may panah abbas
-  Tabaat-o-jurrat-o-ghairat ki inteha abbas
+  Himayat-e-shah-e-mazlum may panah abbas
+  Tabaat o jurrat o ghairat ki inteha abbas
   Janab-e-zainab-e-bekas ka aasra abbas
   Lab-e-faraath fakad tune ye likha abbas
   Hamari tashnalabi hai faraath pani ki
-  Hayaat pyason ki thairi wafaat pani ki
+  Hayaat pyasoṅ ki thairi wafaat pani ki
   Ya abbas ya abbas
   Meri hayaat ka samaan nasir-e-shabbir
-  Badalta rehta hai jo kaayanat ki taqdeer
-  Faraat-o-mashq-o-alam jis ki hashr tak jageer
-  Mai aur ye meri tanzeem iske dar ke fakheer
+  Badalta rehta hai jo kaayanat ki taqdir
+  Faraat o mashq o alam jis ki hashr tak jagir
+  Mai aur ye meri tanzim iske dar ke fakheer
   Bahegi chasm-e-aza se faraat pani ki
-  Chalegi majlis-o-matam may baat pani ki
+  Chalegi majlis o matam may baat pani ki
   Ya abbas ya abbas
 # source_id: nohayonline:bd3b60a6d8edbc2f3558
 # source_url: https://www.nohayonline.com/details_content.php?id=118

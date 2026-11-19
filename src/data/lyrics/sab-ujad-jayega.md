@@ -1,6 +1,6 @@
 ---
 title: "سب اجڑ جائے گا زہرا کا مکاں"
-alternateTitle: "Sab Ujad Jayega"
+alternateTitle: "Sab Ujar Jayega"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

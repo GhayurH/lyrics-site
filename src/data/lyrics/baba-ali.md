@@ -11,55 +11,55 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Subhe unees falak par jo namudaar hui
+  Subhe unis falak par jo namudaar hui
   Mere maula ki shahadat ki khabar le aayi
   Sar pe talwaar chali shor utha haye ali
   Apne baba ko musalle pe jo dekha zakhmi
-  Hasnain shareefain ne di ro ke sada
+  Hasnain sharifain ne di ro ke sada
   Baba ali baba ali
   Maahe ramzan ban gaya maahe aza
   Zarb lagi hai sher e elaahi ko
-  Chehra lahoo may dooba hai
+  Chehra lahu may duba hai
   Abbas aur hasnain ke baba ko
   Sajde may kis ne maara hai
   Baba ke sar ko zaanu pe rakh ke
-  Haye hassan ne ro kar kaha
+  Haye Hasan ne ro kar kaha
   Baba ali baba ali
   Maahe ramzan ban gaya...
   Ghar ki taraf jab le ke chale bete
   Bole ali girya na karo
   Saath hamare koi nahi aaye
-  Jao hassan sab se keh do
+  Jao Hasan sab se keh do
   Aisa na ho ke aa jaye baahar
   Karti hui zainab ye buka
   Baba ali baba ali
   Maahe ramzan ban gaya...
-  Khoon ali ki aankhon se jab pocha
+  Khuṅ ali ki aankhoṅ se jab pocha
   Chaadar se apni zainab ne
-  Aankhein khuli to saamne beti ko
+  Aankheiṅ khuli to saamne beti ko
   Dekh ke hyder rone lage
-  Zainab tadap ke baba se boli
-  Chod ke hum ko na jaana
+  Zainab tarap ke baba se boli
+  Chor ke hum ko na jaana
   Baba ali baba ali
   Maahe ramzan ban gaya...
-  Aagayi jab ekkeeswi ramzan
-  Zehra ke ghar shaam e ghariban
-  Band hui hyder ki aankhein
-  Ruk gayi saansein hogaye be-jaan
+  Aagayi jab ekkeeswi ramzaṅ
+  Zehra ke ghar shaam e gharibaṅ
+  Band hui hyder ki aankheiṅ
+  Ruk gayi saanseiṅ hogaye bejaan
   Shaana hila ke kehne lagi zainab
-  Baba utho aankhein kholo
-  Baatein karo khamosh ho kyun baba
+  Baba utho aankheiṅ kholo
+  Baateiṅ karo khamosh ho kiuṅ baba
   Bolo zara kuch to bolo
   Aap ke gham may ab rote rote
   Dam na nikal jaaye mera
   Baba ali baba ali
   Maahe ramzan ban gaya...
-  Zeeshan aur irfan e aza bete
+  Zishan aur irfan-e-aza bete
   Ghar se janaza le aaye
   Koi naqaab may jab mayyat lene
-  Aaya hassan bole haye
+  Aaya Hasan bole haye
   Kaun ho apna chehra dikhao
-  Bole hassan jab parda hata
+  Bole Hasan jab parda hata
   Baba ali baba ali
   Maahe ramzan ban gaya...
 # source_id: nohayonline:3e55d7648437a4b06564

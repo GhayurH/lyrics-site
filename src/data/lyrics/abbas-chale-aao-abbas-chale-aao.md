@@ -11,13 +11,13 @@ aliases: []
 published: false
 romanLyrics: |-
   Abbas chale aao abbas chale aao
-  Suno saqqa e haram tumhe bachon ki qasam
-  Toot jaye na bharam aao lehrake alam
+  Suno saqqa e haram tumhe bachoṅ ki qasam
+  Tut jaye na bharam aao lehrake alam
   Abbas chale aao abbas chale aao
 
   1
-  Tum se to sakina ko badi aas hai ghazi
-  Tum aao to manzoor hamein pyaas hai ghazi
+  Tum se to sakina ko bari aas hai ghazi
+  Tum aao to manzur hameiṅ pyaas hai ghazi
   Tu to dil e shabbir ka ehsaas hai ghazi
   Zara sunlo ye sada aake tum behre khuda
   Mera dum ghutne laga ab to ghar laut ke aa
@@ -25,37 +25,37 @@ romanLyrics: |-
   2
   Tum baazu e shabbir ho lashkar ke alamdar
   Tum saani e hyder ho dil e jafar e tayyar
-  Tum sote ho haibat mein pada abid e beemar
-  Aag qaimon mein lagi sar se chadar bhi chini
-  Hai bahot tashna labi ay jari ibne jari
+  Tum sote ho haibat meiṅ para abid e bimar
+  Aag qaimon meiṅ lagi sar se chadar bhi chini
+  Hai bahot tashna labi ae jari ibne jari
 
   3
   Lo shimr ne maara wo sakina ko tamacha
-  Kaano se lahoo behta hai jalne laga kurta
-  Masooma ko deta nahi koi bhi dilaasa
-  Kya gawara hai tumhe ay alamdare wafa
+  Kaano se lahu behta hai jalne laga kurta
+  Masuma ko deta nahi koi bhi dilaasa
+  Kya gawara hai tumhe ae alamdare wafa
   Haath zainab ke bandhe aur sakina ka gala
 
   4
-  Pardes mein ujde na koi aise gharana
-  Jis tarha se ujda mera ghar ay mere bhaiya
+  Pardes meiṅ ujre na koi aise gharana
+  Jis tarha se ujra mera ghar ae mere bhaiya
   Roti hui marqad se chali aayi hai zehra
-  Labe darya pe sada ashk aankhon se rawan
-  Dil se uth'ta hai dhuan dhoonde hum tum ko kahan
+  Labe darya pe sada ashk aankhoṅ se rawaṅ
+  Dil se uthta hai dhuaṅ dhunde hum tum ko kahaṅ
 
   5
-  Parcham jo tera khoon mein bhara aaya hai bhaiya
+  Parcham jo tera khuṅ meiṅ bhara aaya hai bhaiya
   Kis ne ye mere dil pe sitam dhaaya hai bhaiya
-  Pardes mein taqdeer ne rulwaya hai bhaiya
-  Kab se majboor hoo mai nehr se door hoo mai
+  Pardes meiṅ taqdir ne rulwaya hai bhaiya
+  Kab se majbur hoo mai nehr se dur hoo mai
   Izn milta jo mujhe lene khud aati tujhe
 
   6
   Mesum sare majlis ye teri girya o zaari
-  Rehaan ke lafzon pe bhi rikhat hui taari
+  Rehaan ke lafzoṅ pe bhi rikhat hui taari
   Dete hai dua ahle aza maa ko tumhari
   Ban ke ek ajre karam tumpe ghazi ka alam
-  Har ghadi saaya kare dil yehi kehta rahe
+  Har ghari saaya kare dil yehi kehta rahe
 # source_id: nohayonline:9ba998c179f95c3d00f8
 # source_url: https://www.nohayonline.com/details_content.php?id=2127
 # raw_sha256: 3160f4bfaffc11046cc3ea5748e804f054f5967b662047229d557f5a1f6816fd

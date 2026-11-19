@@ -11,9 +11,9 @@ published: false
 romanLyrics: |-
   1
   Haey Ali haey hay Ali
-  Haey Hussain
-  HaeY Ali haey hussain..
-  Haey Ali haey haey Ali...haey Hussain..
+  Haey Husain
+  HaeY Ali haey Husain..
+  Haey Ali haey haey Ali...haey Husain..
 
   2
   Do baar namaz shaheed hui, Ik masjid mein Ik maqtal mein..
@@ -33,8 +33,8 @@ romanLyrics: |-
   Do baar namaz shaheed huvi,Ik masjid mein Ik maqtal mein..
 
   5
-  Ik baar Ali ko churrvane, Ik bar Hussain ke sirhane
-  Ik baar Hussain ke sirhane
+  Ik baar Ali ko churrvane, Ik bar Husain ke sirhane
+  Ik baar Husain ke sirhane
   Roti huvi aayi binte nabi, Ik masjid mein Ik maqtal mein..
 
   6
@@ -48,8 +48,8 @@ romanLyrics: |-
   Ghash kha ke giray do bar nabi, Ik masjid mein Ik maqtal mein..
 
   8
-  Ik masjid e umvi ke andar, Ik baar Hussain ke laashe par
-  Ik baar hussain ke laashe par
+  Ik masjid e umvi ke andar, Ik baar Husain ke laashe par
+  Ik baar Husain ke laashe par
   Be parda gayi hai binte Ali, Ik masjid mein Ik maqtal mein...
 # source_id: ziyaraat:e242646a0fb6364b6948
 # source_url: https://www.ziyaraat.net/api/noha/1810

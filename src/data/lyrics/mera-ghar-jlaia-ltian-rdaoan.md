@@ -31,7 +31,7 @@ romanLyrics: |-
   Ohnu kafan pawan yaan Shaam jawaan,  ro akhay Zainab kis pasay jawan
 
   6
-  5) Veeran de qatil khaimaych aagay ay Hassan Zainab Abid nu akhay
+  5) Veeran de qatil khaimaych aagay ay Hasan Zainab Abid nu akhay
   Hun jal may jawaan yaan baahar awaan,  ro akhay Zainab kis pasay jawan
 # source_id: ziyaraat:ed2e36584ce4bd95356c
 # source_url: https://www.ziyaraat.net/api/noha/542

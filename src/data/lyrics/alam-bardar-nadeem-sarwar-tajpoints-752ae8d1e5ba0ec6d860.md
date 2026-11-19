@@ -11,57 +11,57 @@ published: false
 alternateTitle: "Alam Bardar Nadeem Sarwar"
 romanLyrics: |-
   Ye kaun hai falak saara larazta hai
-  Ye kaun hai zameen ka dil dhadakta hai
+  Ye kaun hai zamiṅ ka dil dharakta hai
   Alam bardaar aata hai
   Ye lagta hai ke jaise hyder e karraar aata hai
   Alam thaame hussaini fauj ka salaar aata hai
 
   1
-  Falak saara larazta hai zameen ka dil dhadakta hai
-  Faza mein shor barpa hai adoo ka dam nikalta hai
+  Falak saara larazta hai zamiṅ ka dil dharakta hai
+  Faza meiṅ shor barpa hai adu ka dam nikalta hai
   Jari ye kaun aata hai alam kis ka ubharta hai
-  Yazeedi fauj mein halchal dilon pe khauf chaaya hai
+  Yazidi fauj meiṅ halchal diloṅ pe khauf chaaya hai
   Ye lagta hai ke jaise hyder e karraar aata hai
 
   2
   Jo thi karraar ki haibat wohi abbas ki haibat
   Khuda ke sher jaisi hai ali ke sher ki taaqat
-  Wohi chehra wohi seerat wohi jazba wohi jurrat
-  Abhi aaya nahi lekin adoo pe cha gayi dehshat
+  Wohi chehra wohi sirat wohi jazba wohi jurrat
+  Abhi aaya nahi lekin adu pe cha gayi dehshat
   Misaal e la-fataah shabbir ka salaar aata hai
 
   3
-  Abhi ye shor barpa tha ke goonja hyderi naara
+  Abhi ye shor barpa tha ke gunja hyderi naara
   Misaal e la-fataah ghazi achanak saamne aaya
   Mujhe abbas kehte hai jari lalkaar kar bola
   Alamdar e hussaini hoo ghulame syed e waala
   Sada deta hua ye ghazi e jarraar aata hai
 
   4
-  Yahan tanha dil e hyder wahan laakhon jafa paikar
-  Yahan bas haath mein naiza wahan taygh o sina khanjar
-  Yahan sookha hai mashkeeza wahan sairaab hai lashkar
-  Yahan shauk e shahadat hai wahan shaukeen e maal o zar
-  Muqabil marhabon ke saahib e kirdaar aata hai
+  Yahaṅ tanha dil e hyder wahaṅ laakhoṅ jafa paikar
+  Yahaṅ bas haath meiṅ naiza wahaṅ taygh o sina khanjar
+  Yahaṅ sukha hai mashkeeza wahaṅ sairaab hai lashkar
+  Yahaṅ shauk e shahadat hai wahaṅ shaukin e maal o zar
+  Muqabil marhaboṅ ke saahib-e-kirdaar aata hai
 
   5
-  Adoo se cheen kar darya alam abbas ne gaada
-  Yazeedi fauj mein us dam achanak shor ye utha
-  Aray bhaago tarayi se ali aaya ali aaya
+  Adu se chin kar darya alam abbas ne gaara
+  Yazidi fauj meiṅ us dam achanak shor ye utha
+  Are bhaago tarayi se ali aaya ali aaya
   Phir us ke baad darya par faqat ghazi nazar aaya
-  Jafa kaaron mein ban kar maut ki lalkaar aata hai
+  Jafa kaaroṅ meiṅ ban kar maut ki lalkaar aata hai
 
   6
-  Bhara jis waqt mashkeeza bada yaad aayi masooma
+  Bhara jis waqt mashkeeza bara yaad aayi masooma
   Liye pani suye qaima chala saqqa sakina ka
-  Bada jab ghird ghazi ke yazeedi fauj ka halqa
-  Kaha abbas ne dil mein sakina tum na ghabrana
+  Bara jab ghird ghazi ke yazidi fauj ka halqa
+  Kaha abbas ne dil meiṅ sakina tum na ghabrana
   Abhi lekar ye mashkeeza tera ghamkhwar aata hai
 
   7
-  Alam ghazi dilawar ka jab us ke khoon mein dooba
-  Bureeda baazuon waala na mashkeeza bacha paaya
-  Tadapta khaak par dekha jo sheh ne bhai ka laasha
+  Alam ghazi dilawar ka jab us ke khun meiṅ duba
+  Bureeda baazuoṅ waala na mashkeeza bacha paaya
+  Tarapta khaak par dekha jo sheh ne bhai ka laasha
   Wafa ko naaz hai tujh par pukaare sayyed e wala
   Khudaya pass ab tere mera salaar aata hai
 # source_id: tajpoints:752ae8d1e5ba0ec6d860

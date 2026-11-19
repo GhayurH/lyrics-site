@@ -15,26 +15,26 @@ romanLyrics: |-
   1
   Uncha hai mere sayyed o sardar ka parcham
   Parcham mere murshid ka jo ghar ghar pe laga hai
-  Ye saare azadaron pe zehra ki ataa hai
+  Ye saare azadaroṅ pe zehra ki ataa hai
   Is parchame abbas ko zainab ki dua hai
-  Kaun isko jhukayega bhala kis mein hai ye dum
+  Kaun isko jhukayega bhala kis meiṅ hai ye dum
 
   2
   Ghazi ka sakina se wafa ka hai ye aalam
   Parcham se juda mashk hai na mashk se parcham
-  Jaise kisi baazu pe ho taweez muqaddam
+  Jaise kisi baazu pe ho tawiz muqaddam
   Ye bali sakina ki dua saath hai har dum
 
   3
   Matam na ruka tha na ruka hai na rukega
   Parcham na jhuka tha na jhuka hai na jhukega
-  Har lehza julooson ki qayadat ye karega
+  Har lehza julusoṅ ki qayadat ye karega
   Ho koi faza koi waba koi bhi mausam
 
   4
-  Parcham ye mareezon ko shifa baant raha hai
+  Parcham ye marizoṅ ko shifa baant raha hai
   Dunya ko mohabbat ki fiza baant raha hai
-  Aulaad makan rizq o wafa baant raha hai
+  Aulaad makaṅ rizq o wafa baant raha hai
   Kya fikr ho dunya ki hamay kya ho bhala gham
 
   5
@@ -44,15 +44,15 @@ romanLyrics: |-
   Kuch saath mera di jiye hai umr meri kam
 
   6
-  Manzar ye julooson mein nazar aata hai hum ko
-  Tasleem kiya sab ne isi jood o karam ko
+  Manzar ye julusoṅ meiṅ nazar aata hai hum ko
+  Taslim kiya sab ne isi jur o karam ko
   Sar jhukta nahi uska uthaye jo alam ko
   Ye naara lagate hai kabhi aap kabhi hum
 
   7
-  Haan mazhar o farhan nazar aayega ek din
+  Haaṅ mazhar o farhan nazar aayega ek din
   Maula ka alam kaabe pe lehrayega ek din
-  Dil fatema zahra ka sukoon payega ek din
+  Dil fatema zahra ka sukuṅ payega ek din
   Khush honge bahot dekh ke ye waaris e adam
 # source_id: nohayonline:f83be8ab8a13d03fb2eb
 # source_url: https://www.nohayonline.com/details_content.php?id=2982

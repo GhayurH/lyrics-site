@@ -11,52 +11,52 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hussain aaye hai qaime mein ruqsati ke liye
-  Ye imtehan bada sakht hai kisi ke liye
-  Wasiyatein hai labon par to aankh mein aansu
+  Husain aaye hai qaime meiṅ ruqsati ke liye
+  Ye imtehan bara sakht hai kisi ke liye
+  Wasiyateiṅ hai laboṅ par to aankh meiṅ aansu
   Khiza ka waqt hai abid ki zindagi ke liye
   Nahi koi baaqi siwa e tumhare
   Juda hogaye hum se ehbaab saare
   Ye sun sun ke abid ka dil ro raha hai
   Utho ghash se ruqsat ko aaye hai beta
-  Bahot zakhm seene pa khaaye hai beta
+  Bahot zakhm sine pa khaaye hai beta
   Dua do abhi baap himmat na haare
   Ye sun sun ke abid ka...
-  Paraya watan hai muqalif jahan hai
-  Tumhara to hum se bada imtehan hai
+  Paraya watan hai muqalif jahaṅ hai
+  Tumhara to hum se bara imtehaṅ hai
   Chinenge sakina ke bhi goshware
   Ye sun sun ke abid ka...
   Judaai ne sab ki hamay maar daala
   Hua ghar se ruqsat hamare ujaala
-  Nazar lag gayi hai charaghon ko saare
+  Nazar lag gayi hai charaghoṅ ko saare
   Ye sun sun ke abid ka...
-  Kamar kham hai aankhon mein beenayi kam hai
-  Tumhe kya batayein hamay kitna gham hai
-  Hamay chod kar chal base jahan se pyare
+  Kamar kham hai aankhoṅ meiṅ binayi kam hai
+  Tumhe kya batayeiṅ hamay kitna gham hai
+  Hamay chor kar chal base jahaṅ se pyare
   Ye sun sun ke abid ka...
   Nazar lag gayi hai shabihe nabi ko
-  Mere laal hum se kisi ko na poocho
+  Mere laal hum se kisi ko na pucho
   Khafa hogaye chand se sab sitaare
   Ye sun sun ke abid ka...
   Khuda tum pa koi musibat na daale
   Utho laal hum bhi hai ab jaane waale
   Ye ghar baar hai ab tumhare sahare
   Ye sun sun ke abid ka...
-  Badan hogaya ran mein pamaal kis ka
-  Sunaun mai beta tumhe haal kis ka
-  Sabhi jaan de kar jahan se sidhare
+  Badan hogaya ran meiṅ pamaal kis ka
+  Sunauṅ mai beta tumhe haal kis ka
+  Sabhi jaan de kar jahaṅ se sidhare
   Ye sun sun ke abid ka...
   Koi haq wafa ka adaa kar gaya hai
-  Wo dekho lahoo mein alam bhar gaya hai
+  Wo dekho lahu meiṅ alam bhar gaya hai
   Chacha jaan sote hai darya kinare
   Ye sun sun ke abid ka...
-  Kisi par taras zaalimon ne na khaya
+  Kisi par taras zaalimoṅ ne na khaya
   Falak hil gaya is khadar zulm dhaaya
-  Layeeno ne asghar ke bhi teer maare
+  Layino ne asghar ke bhi tir maare
   Ye sun sun ke abid ka...
-  Hai aankhon mein aansu dilon mein talatum
+  Hai aankhoṅ meiṅ aansu diloṅ meiṅ talatum
   Hai dil soz aamir ka itna tarannum
-  Hai wo dard nauhe mein akhtar tumhare
+  Hai wo dard nauhe meiṅ akhtar tumhare
   Ye sun sun ke abid ka...
 # source_id: nohayonline:fef836dd6da903ee7154
 # source_url: https://www.nohayonline.com/details_content.php?id=3102

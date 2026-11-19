@@ -32,7 +32,7 @@ romanLyrics: |-
 
   5
   Thi ek rasan baara asiaroṅ ke gale the sab chupke khare the
-  Rassi meiṅ bandhe Zainab o Kulsoom ka aana Sajjad se puchho
+  Rassi meiṅ bandhe Zainab o Kulsum ka aana Sajjad se puchho
 
   6
   Sar Hazrat-e-Muslim ka latakta tha jahaaṅ par waaṅ Sheh ka ruka sar

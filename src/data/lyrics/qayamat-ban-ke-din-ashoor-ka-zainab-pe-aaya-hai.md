@@ -54,7 +54,7 @@ romanLyrics: |-
 
   11
   Ali ki betiyoṅ ka sar khule baazaar meiṅ jaana
-  Yehi wo zakhm hai Aabid ko jis ne khun rulaaya hai
+  Yehi wo zakhm hai Aabid ko jis ne khuṅ rulaaya hai
 
   12
   Watan se bewatan jis bhai ki khaatir hui Zainab

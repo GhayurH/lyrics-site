@@ -11,36 +11,36 @@ romanLyrics: |-
   Zainab pukari laash par rokar jawaab do
 
   1
-  Mazloom Fatima, meri madar jawab do
+  Mazlum Fatima, meri madar jawab do
   Khaana abhi khilati thi humko mana mana
-  Ab chup ho kyon rasool ki dukhtar jawab do
+  Ab chup ho kyoṅ rasul ki dukhtar jawab do
 
   2
   Mera zara bhi rona gawara na tha kabhi
-  Chilla rahi hoon kabse barabar jawab do
+  Chilla rahi huṅ kabse barabar jawab do
 
   3
-  Sab se siva Hussain ko karti thi pyar aap
+  Sab se siva Husain ko karti thi pyar aap
   Aate hai sarba-rehna baraadar jawab do
 
   4
   Kya dekhte hi dekhte amma guzar gayi
-  Kyon jald yun ujaad diya ghar jawab do
+  Kyoṅ jald yuṅ ujaar diya ghar jawab do
 
   5
   Athara saal umr may kya zulm seh gayi
   Kaisa aaj daste mutahhar jawab do
 
   6
-  Beti na maano mujko samajlo kaneez hi
-  Khadmo pe aankhein malti hai mustar jawab do
+  Beti na maano mujko samajlo kaniz hi
+  Khadmo pe aankheiṅ malti hai mustar jawab do
 
   7
-  Sar peet-ti hoo khaakh udaati hoo dekhiye
+  Sar pit-ti hu khaakh uraati hu dekhiye
   Lil-laah behre Ahmad o Hyder jawab do
 
   8
-  Phailaye haat laashaye zehra ne ay nageen
+  Phailaye haat laashaye zehra ne ae nagin
   Hasnain aaye kehte jo madar jawab do
 # source_id: ziyaraat:b67161d0857724013954
 # source_url: https://www.ziyaraat.net/api/noha/1987

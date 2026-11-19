@@ -20,28 +20,28 @@ published: false
 # additional_raw_sha256: ce1c6aeb91754f0cfb156408d9d5d70db0113614a10a15db1a109f9f34bac4c7
 # editorial_note: Punjabi original Urdu-script reading, manually aligned to retained 12-line Roman source; final verification pending.
 romanLyrics: |-
-  Logo Main Zainab Haan Meri Yasrab Wich Toqeer Hondi Si
-  Jadon Ghazi Jiyonda Si Mera Mere Sir Di Chadar Tatheer Hondi Si
+  Logo Maiṅ Zainab Haaṅ Meri Yasrab Wich Toqir Hondi Si
+  Jadoṅ Ghazi Jiyonda Si Mera Mere Sir Di Chadar Tathir Hondi Si
 
   1
-  Jadon Wehray Che Turni Saan Hasan Parhda Si Bismillah Te Hath Shabeer Si Pharda
-  Mere Almaan Walay Ghazi De Hathaan Wich Odhi Shamsheer Hondi Si
+  Jadoṅ Wehre Che Turni Saaṅ Hasan Parhda Si Bismillah Te Hath Shabir Si Pharda
+  Mere Almaaṅ Wale Ghazi De Hathaaṅ Wich Odhi Shamshir Hondi Si
 
   2
-  Khudai Wehriyaan Pasay Hawa V Puch Ke Aandi Si Parinday Puch Ke Udhday San
-  Sadhay Ghar Di Chaar Dewari Wich Bas Hashmi Chan Di Tanveer Hondi Si
+  Khudai Wehriyaaṅ Pase Hawa V Puch Ke Aandi Si Parinde Puch Ke Udhde San
+  Sadhe Ghar Di Chaar Dewari Wich Bas Hashmi Chan Di Tanvir Hondi Si
 
   3
-  Kadi Soraj Diyaan Kirnaa Mere Piyo Di Ijazat Bin Qadam Wehray Che Nayi Rakhiya
-  Mere Parday Layi Kayi Kayi Wari Soraj Niklan Di Takheer Hondi Si
+  Kadi Soraj Diyaaṅ Kirnaa Mere Piyo Di Ijazat Bin Qadam Wehre Che Nayi Rakhiya
+  Mere Parde Layi Kayi Kayi Wari Soraj Niklan Di Takhir Hondi Si
 
   4
-  Mere Lafzaan Diyaan Izataan Jiwein Quraan Diya Aayataan Mere Babay Diyaan Bataan
-  Kadon Majmiyan Wich Main Boli Saan Meri Pardiyaan De Wich Taqreer Hondi Si
+  Mere Lafzaaṅ Diyaaṅ Izataaṅ Jiweiṅ Quraan Diya Aayataaṅ Mere Babe Diyaaṅ Bataaṅ
+  Kadoṅ Majmiyaṅ Wich Maiṅ Boli Saaṅ Meri Pardiyaaṅ De Wich Taqrir Hondi Si
 
   5
-  Kehya AKBAR Aye Bibi Ne Sadawaan Te V Pehrey San Hijabaan Wich Azana San
-  Saday Pak Darood Di Tasbeeh Te Nanay De Ghar Wich Takbeer Hondi Si
+  Kehya AKBAR Ae Bibi Ne Sadawaaṅ Te V Pehre San Hijabaaṅ Wich Azana San
+  Sade Pak Darud Di Tasbih Te Nane De Ghar Wich Takbir Hondi Si
 ---
 
 لوگو میں زینب ہاں، میری یثرب وچ توقیر ہوندی سی

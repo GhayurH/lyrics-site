@@ -9,22 +9,22 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Do Gharriyon Ki Zindan Mein, Mehman Sakina Hai
+  Do Gharriyoṅ Ki Zindaṅ Meiṅ, Mehman Sakina Hai
   Sajjad Chalai Aao, Perishaan Sakina Hai
 
   1
-  1) Jaisa Mei Kehrahee Hoon, Waisa Hee Tum Karogai
-  Kurte Mairay Mei Bhaiya, Mujhko Dafan Karogai
+  1) Jaisa Mei Kehrahee Huṅ, Waisa Hi Tum Karogai
+  Kurte Maire Mei Bhaiya, Mujhko Dafan Karogai
   Kuch Mangthee Hai Tumsai, Mehman Sakina Hai
 
   2
   2) Thora Sa Waqt Bhai, Moun Ronai Sai Nikalo
-  Thairee Muntazir Hai Behna, Aa Ker Issay Sambhalo
+  Thairi Muntazir Hai Behna, Aa Ker Isse Sambhalo
   Kuch Dair Mei Daikhogai, Bai Jaan Sakina Hai
 
   3
-  3) Mairai Goshwarai Bhaiya, Hain Shimr Nai Outharai
-  Balon Sai Mujh Ko Pakra, Moun Per Tamachai Marai
+  3) Mairai Goshwarai Bhaiya, Haiṅ Shimr Nai Outharai
+  Baloṅ Sai Mujh Ko Pakra, Moun Per Tamachai Marai
   Samjha Na Thaharath Ka, Quran Sakina Hai
 
   4
@@ -35,17 +35,17 @@ romanLyrics: |-
   5
   5) Yaa aa raha hay mujh ko, basta hua Madina
   Bistar tha mera bhayya, apnay padar ka seena
-  Zindan may to ghurbat ka saman Sakina hay
+  Zindan may to ghurbat ka saman Sakina hai
 
   6
-  6) Sab qaidiyon ke bhayya, dukh dard ho batatay
-  Apni behan se laikin, milnay nahi ho aatay
-  Is baat se zindan may, hairan Sakina hay
+  6) Sab qaidiyoṅ ke bhayya, dukh dard ho batate
+  Apni behan se laikin, milne nahi ho aate
+  Is baat se zindaṅ may, hairan Sakina hai
 
   7
-  7) Tauqeer Matami Kioun, Duniya Mei Dukh Uthay
-  Ghairon Kai Dar Pai Jaa Kai, Kioun Jholiyan Phelaye
-  Us Kay Mouamlon Ki, Nigraan Sakina Hai
+  7) Tauqir Matami Kiouṅ, Duniya Mei Dukh Uthe
+  Ghairoṅ Kai Dar Pai Jaa Kai, Kiouṅ Jholiyaṅ Phelaye
+  Us Ke Mouamloṅ Ki, Nigraan Sakina Hai
 # source_id: ziyaraat:82b8492efb6b4bed13b5
 # source_url: https://www.ziyaraat.net/api/noha/1560
 # raw_sha256: ce251fa03dafe2a13d358bd5e471db0a1dc0fed0ff94222a98b321d4475a5611

@@ -8,32 +8,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Turpiyan Ujriyan Bekafan Chor Kay
-  Khaakh Tay Pak Zahra Da Chan Chor Kay
+  Turpiyan Ujriyaṅ Bekafan Chor Ke
+  Khaakh Te Pak Zahra Da Chan Chor Ke
 
   1
-  Maan sainry ko haan bawafa tay bara
-  Ahyan jende saharay watan chor kay
+  Maan sainry ko haaṅ bawafa te bara
+  Ahyan jende sahare watan chor ke
 
   2
-  Vain Zainab da haan chad kay jawaan kiwain
-  Laash tay patharaan da wazan chor kay
+  Vain Zainab da haaṅ chad ke jawaaṅ kiwaiṅ
+  Laash te patharaaṅ da wazan chor ke
 
   3
-  Turya Zahra da chaan akhay Asghar di maa
-  Ahyan jende saharay yaman chor kay
+  Turya Zahra da chaan akhe Asghar di maa
+  Ahyan jende sahare yaman chor ke
 
   4
-  Janrda da eh Khuda turya bhon okhiyaan
-  Haye Qasim de saray shagan chor kay
+  Janrda da eh Khuda turya bhoṅ okhiyaaṅ
+  Haye Qasim de sare shagan chor kay
 
   5
-  Chor dena watan kohi asaan nahi
-  Sainry turiyan gharan day aman chor kay
+  Chor dena watan kohi asaaṅ nahi
+  Sainry turiyaṅ gharaṅ de aman chor ke
 
   6
-  Karbala wich o qari tay ghazi Nadeem
-  Hoye kafir Dar - Panjetaan chor kay
+  Karbala wich o qari te ghazi Nadim
+  Hoye kafir Dar - Panjetaan chor ke
 # source_id: ziyaraat:b458fbfb302b94fc7d90
 # source_url: https://www.ziyaraat.net/api/noha/2919
 # raw_sha256: bac44c063d2db38468632d2d22d422092353ed205ecc1f3b397076ced518998a

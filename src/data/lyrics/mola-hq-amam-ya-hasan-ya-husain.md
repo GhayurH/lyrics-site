@@ -8,10 +8,10 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Hussain Ya Hussain
+  Ya Husain Ya Husain
 
   1
-  Maula Haq Imam, Ya Hasan Ya Hussain
+  Maula Haq Imam, Ya Hasan Ya Husain
 
   2
   1. Wo Abide Bimar Tha, Chalne Se Jo Lachaar Tha

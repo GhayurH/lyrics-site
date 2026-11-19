@@ -13,54 +13,54 @@ romanLyrics: |-
   1
   Khaafla shaah ka haye warid e kufa jo hua
   Aan kar umme habeeba ne sakina se kaha
-  Ay yateema tu mere waaste ye maang dua
-  Teri tarha se kisi ko na yateemi de khuda
-  Sun ke bazaar mein ye umme habeeba ki buka
+  Ae yateema tu mere waaste ye maang dua
+  Teri tarha se kisi ko na yatimi de khuda
+  Sun ke bazaar meiṅ ye umme habeeba ki buka
   Rukh suye naiza kiya aur sakina ne kaha baba
-  Baba dua mai karti aameen kaho
-  Meri tarha koi yateem na ho
-  Sakina kehti thi ro ro kar baba jaan
-  Meri tarha koi yateem na ho
-  Baba yateem ho kar ehsaas ye hua hai
-  Kya cheez hai yateemi har saans hi saza hai
+  Baba dua mai karti aamin kaho
+  Meri tarha koi yatim na ho
+  Sakina kehti thi ro ro kar baba jaaṅ
+  Meri tarha koi yatim na ho
+  Baba yatim ho kar ehsaas ye hua hai
+  Kya chiz hai yatimi har saans hi saza hai
   Ye meri dil ki hai aawaz suno
-  Meri tarha koi yateem na ho
+  Meri tarha koi yatim na ho
   Sakina kehti thi ro ro kar...
   Aulaad waale mujhko kehne lage yateema
-  Pardes mein sakina par waqt kaisa aaya
+  Pardes meiṅ sakina par waqt kaisa aaya
   Ye kehke sar pe mere haath rakho
-  Meri tarha koi yateem na ho
+  Meri tarha koi yatim na ho
   Sakina kehti thi ro ro kar...
   Ye aap jaante hai jo kaifiyat hai meri
-  Socha kabhi nahi tha bazaar mein phirungi
-  To ab dua mein mera saath to do
-  Meri tarha koi yateem na ho
+  Socha kabhi nahi tha bazaar meiṅ phirungi
+  To ab dua meiṅ mera saath to do
+  Meri tarha koi yatim na ho
   Sakina kehti thi ro ro kar...
   Kya haal kar diya hai dekho to ashkiyan ne
   Khaane ko kya mila hai zaalim ki taziyane
   Lage jo pyaas to bas ashkh piyo
-  Meri tarha koi yateem na ho
+  Meri tarha koi yatim na ho
   Sakina kehti thi ro ro kar...
-  Jeene se mera dil to bezaar ho chuka hai
+  Jine se mera dil to bezaar ho chuka hai
   Baazu bandhe hai sab ke mera gala bandha hai
-  Meri aseeri ko dekho socho
-  Meri tarha koi yateem na ho
+  Meri asiri ko dekho socho
+  Meri tarha koi yatim na ho
   Sakina kehti thi ro ro kar...
-  Kyun zinda hai sakina itne ghamon ko seh kar
-  Zaalim mujhe bulaye apni kaneez keh kar
-  Mai khud se kaise kahun sabr karo
-  Meri tarha koi yateem na ho
+  Kiuṅ zinda hai sakina itne ghamoṅ ko seh kar
+  Zaalim mujhe bulaye apni kaniz keh kar
+  Mai khud se kaise kahuṅ sabr karo
+  Meri tarha koi yatim na ho
   Sakina kehti thi ro ro kar...
   Beti ki baat sun kar sar shaah ka pukara
-  Sakina sun kar fughan tumhari
-  Rota hai dil hamara meri jaan
+  Sakina sun kar fughaṅ tumhari
+  Rota hai dil hamara meri jaaṅ
   Khuda se mai yehi kehta hoo suno
-  Teri tarha koi yateem na ho
+  Teri tarha koi yatim na ho
   Sakina kehti thi ro ro kar...
-  Irfan aur mazhar rote hai is fughan par
+  Irfan aur mazhar rote hai is fughaṅ par
   Shabbir ki wo dukhtar kehti hai hum se ro kar
-  Ye marsiya meri majlis mein padho
-  Meri tarha koi yateem na ho
+  Ye marsiya meri majlis meiṅ parho
+  Meri tarha koi yatim na ho
   Sakina kehti thi ro ro kar...
 # source_id: nohayonline:220d14303877cf183c9e
 # source_url: https://www.nohayonline.com/details_content.php?id=2225

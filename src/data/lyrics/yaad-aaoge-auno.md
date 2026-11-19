@@ -11,9 +11,9 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ay mere pyaron ay mere beton
-  Ay mere bachon
-  Dasht mein boli zainab ye rokar
+  Ae mere pyaroṅ ae mere betoṅ
+  Ae mere bachoṅ
+  Dasht meiṅ boli zainab ye rokar
   Yaad aaoge aun o mohamed
   Zinda jab tak rahegi ye maadar
   Yaad aaoge aun o mohamed
@@ -21,47 +21,47 @@ romanLyrics: |-
   Aur veeran ghar paaungi mai
   Nanhe nanhe jo dekhungi bistar
   Yaad aaoge aun o mohamed
-  Dasht mein boli...
-  Gham mein tanha mujhe kar gaye ho
+  Dasht meiṅ boli...
+  Gham meiṅ tanha mujhe kar gaye ho
   Saamne maa ke tum mar gaye ho
   Ye hua hai sitam kaisa hum par
   Yaad aaoge aun o mohamed
-  Dasht mein boli...
-  Eid jab jab bhi aayegi bachon
-  Khoon maa ko rulayegi bachon
+  Dasht meiṅ boli...
+  Eid jab jab bhi aayegi bachoṅ
+  Khun maa ko rulayegi bachoṅ
   Dil pe chal jayega mere khanjar
   Yaad aaoge aun o mohamed
-  Dasht mein boli...
+  Dasht meiṅ boli...
   Chote hote musalle tumhare
-  Ghar ke hujre mein khaali jo honge
-  Aankhein ashkon se ho jayengi tar
+  Ghar ke hujre meiṅ khaali jo honge
+  Aankheiṅ ashkoṅ se ho jayengi tar
   Yaad aaoge aun o mohamed
-  Dasht mein boli...
-  Khooon mein doobe tumhare amaame
+  Dasht meiṅ boli...
+  Khuoṅ meiṅ dube tumhare amaame
   Saamne aayenge jab bhi mere
   Khaaungi ghash bapa hoga mehshar
   Yaad aaoge aun o mohamed
-  Dasht mein boli...
+  Dasht meiṅ boli...
   Har qadam jaan khoti rahungi
   Umr bhar sirf roti rahungi
-  Dil mein dono ka gham hai barabar
+  Dil meiṅ dono ka gham hai barabar
   Yaad aaoge aun o mohamed
-  Dasht mein boli...
-  Khoon mein doobe tumhare janaze
-  Meri nazron mein aa kar rahegne
-  Kis tarha bhoolun gham ka wo manzar
+  Dasht meiṅ boli...
+  Khuṅ meiṅ dube tumhare janaze
+  Meri nazroṅ meiṅ aa kar rahegne
+  Kis tarha bhuluṅ gham ka wo manzar
   Yaad aaoge aun o mohamed
-  Dasht mein boli...
-  Dasht e ghurbat mein tashna dahan thay
-  Mamu ki tarha tum bekafan thay
+  Dasht meiṅ boli...
+  Dasht e ghurbat meiṅ tashna dahan the
+  Mamu ki tarha tum bekafan the
   Qabr tak tum ko royegi maadar
   Yaad aaoge aun o mohamed
-  Dasht mein boli...
+  Dasht meiṅ boli...
   Kya hilaal ab likhe gham ka manzar
-  Sajid aale nabi mein tha mehshar
+  Sajid aale nabi meiṅ tha mehshar
   Bain karti thi ye binte hyder
   Yaad aaoge aun o mohamed
-  Dasht mein boli...
+  Dasht meiṅ boli...
 # source_id: nohayonline:66e2850643996af53ccc
 # source_url: https://www.nohayonline.com/details_content.php?id=2811
 # raw_sha256: a45e21d1d56e5d20a8c127235f1cb94dda8f43c7604755ed5afd4dfd7ae5e2a6

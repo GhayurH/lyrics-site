@@ -12,15 +12,15 @@ published: false
 romanLyrics: |-
   1
   Karbala se chali ek bekas behen
-  Haa is aalam-e-gurbat mein watan yaad aaya
+  Haa is aalam-e-gurbat meiṅ watan yaad aaya
   Sab shaheedo ko kehti huvi alveda
   Bhai ki laash pe pahunchi to kafan yaad aaya
   Khud ko naaqe se gira kar zainab kehne lagi ro kar
   Na des apna hai na log apne hai
-  Mai kaise kafan doo mere mazloom baradar
+  Mai kaise kafan doo mere mazlum baradar
   Na des apna hai na log apne hai
-  Ye dekh zara ay tashna dahan
-  Shano ko mere jakde hai rasan
+  Ye dekh zara ae tashna dahan
+  Shano ko mere jakre hai rasan
   Aur uspe sitam hai sar par nahi chadar
   Mai kaise kafan doo…
   Na des apna hai…
@@ -29,14 +29,14 @@ romanLyrics: |-
   Is dard ke maare roti hoo khule sar
   Mai kaise kafan doo…
   Na des apna hai…
-  Baba hai ameer e kauno makan
+  Baba hai ameer-e-kauno makaṅ
   Hai tera laqab sardare jina
-  Zainab to hui hai be-chadar be-ghar
+  Zainab to hui hai bechadar beghar
   Mai kaise kafan doo…
   Na des apna hai…
-  Ay bhai teri ghurbat ki qasam
+  Ae bhai teri ghurbat ki qasam
   Ta marg nahi bhuloongi ye gham
-  Pardes mein aa kar nauha hai labon par
+  Pardes meiṅ aa kar nauha hai laboṅ par
   Mai kaise kafan doo…
   Na des apna hai…
   Kya zulm sahe tujhko hai khabar
@@ -45,18 +45,18 @@ romanLyrics: |-
   Mai kaise kafan doo…
   Na des apna hai…
   Hota jo madina bhai mere
-  Mil jaata kafan mazloom tujhe
-  Is dashte bala mein majboor hai khwahar
+  Mil jaata kafan mazlum tujhe
+  Is dashte bala meiṅ majbur hai khwahar
   Mai kaise kafan doo…
   Na des apna hai…
   Hai kushta-e-tayghe zulm bata
   Jab koi mera yawar na raha
-  Maqtool-e-jafa hai abbas aur akbar
+  Maqtul-e-jafa hai abbas aur akbar
   Mai kaise kafan doo…
   Na des apna hai…
   Kya kya na hui zainab pe jafa
   Sab qaime jale asbaab luta
-  Par sab se bada hai ye gham mere dil par
+  Par sab se bara hai ye gham mere dil par
   Mai kaise kafan doo…
   Na des apna hai…
   Irfan aur mazhar kehna sake

@@ -26,7 +26,7 @@ romanLyrics: |-
   2
   Asadullah ali...
   Ya hyder...
-  Mere sarkar hussain ibne ali ke baba
+  Mere sarkar Husain ibne ali ke baba
   Surq parcham ke nigehdaar jari ke baba
   Gyara masoomo ke sardar sabhi ke baba
   Qatle mohsin ke azadaar kali ke baba

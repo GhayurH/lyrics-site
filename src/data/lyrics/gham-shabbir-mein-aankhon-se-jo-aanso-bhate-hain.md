@@ -8,24 +8,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Gham-e-Shabbir Mein Ankho Se Jo Ansu Bahate Hain
-  Zahe Qismat Wo Hi Jannat Me Ghar Apna Banate Hain
+  Gham-e-Shabbir Meiṅ Ankho Se Jo Ansu Bahate Haiṅ
+  Zahe Qismat Wo Hi Jannat Me Ghar Apna Banate Haiṅ
 
   1
-  Lahed Me Jab Farishto Ne Mujhe Dekha To Yun Bole
-  Teri Imdad Ko Mushkil Kusha Tashreef Late Hain
+  Lahed Me Jab Farishto Ne Mujhe Dekha To Yuṅ Bole
+  Teri Imdad Ko Mushkil Kusha Tashrif Late Haiṅ
 
   2
   Kamar Tuti Huyi Hai Shaha Ki Abbas Ke Gham Me
-  Ye Himmat Hai Jawan Farzand Ki Mayyat Uthate Hain
+  Ye Himmat Hai Jawan Farzand Ki Mayyat Uthate Haiṅ
 
   3
   Kaha Rokar Ye Zainab Ne Madad Ko Aeye Baba
-  Sitamgar Abid-e-Bimar Ko Bedi Pehnate Hain
+  Sitamgar Abid-e-Bimar Ko Beri Pehnate Haiṅ
 
   4
   Zara Dekhe to Koi Hosla iss Ghar Ke Bachcho Ka
-  Ali Asghar Gale Par Teer Kha Ke Muskurate Hain.
+  Ali Asghar Gale Par Tir Kha Ke Muskurate Haiṅ.
 # source_id: ziyaraat:843a42082d4c74aa0b4c
 # source_url: https://www.ziyaraat.net/api/noha/2278
 # raw_sha256: f82924319b3929ecf617861ca12c959e4510e15656202263f89d75f3163254ae

@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Toote teeron pe musalla khoon e asghar se wazu
-  Kis tarha tareekh ke dil se bhulaya jayega
-  Chhup na payegi sitam se teri mazloomi hussain
+  Tute tiroṅ pe musalla khun e asghar se wazu
+  Kis tarha tarikh ke dil se bhulaya jayega
+  Chhup na payegi sitam se teri mazlumi Husain
   Daastan e karbala har aadmi dohrayega
-  Rang layega zaroor rang layega
-  Ye lahoo hussain ka hai rang layega
-  Rang layega zaroor rang layega
-  Karbala ka noor har sadi pe chayega
-  Rang layega zaroor rang layega
-  Har zaban par hai karbala ke waaqeyat
-  Ab jahan hai ek bewatan ke saath saath
-  Kalma e hussain padh rahi hai kayenaat
+  Rang layega zarur rang layega
+  Ye lahu Husain ka hai rang layega
+  Rang layega zarur rang layega
+  Karbala ka nur har sadi pe chayega
+  Rang layega zarur rang layega
+  Har zabaṅ par hai karbala ke waaqeyat
+  Ab jahaṅ hai ek bewatan ke saath saath
+  Kalma e Husain parh rahi hai kayenaat
   Qadh hussainiyat ka koi kya ghatayega
-  Rang layega zaroor...
-  Ye lahoo shariyaton ke sar ka taaj hai
-  Ye lahoo risalaton ka hum mizaaj hai
-  Ye lahoo khilaafe zulm e ehtejaaj hai
-  Ye lahoo zameer e aadmi jagayega
-  Rang layega zaroor...
-  Is lahoo ki boond par hai deen ka sutoon
-  Is lahoo ne bhar diya hayaat mein sukoon
-  Hashr tak hussain tera be gunaah khoon
-  Jaane kitne mujrimon ko hurr banayega
-  Rang layega zaroor...
-  Is lahoo mein roshni hai kirdegaar ki
-  Is lahoo mein ghangaraj hai zulfeqar ki
-  Ye lahoo hai hadh ali ke aetbaar ki
-  Zulm ke tamaam khybaron ko dhayega
-  Rang layega zaroor...
-  Ye lahoo zameen par jahan tapak gaya
-  Us zameen ka noor asmaan tak gaya
-  Is lahoo se deene mustafa chamak gaya
-  Is lahoo ka karz khud khuda chukayega
-  Rang layega zaroor...
-  Har taraf hussainiyat ki hogi dhoom dhaam
-  Hurriyat jagayega hussain ka payaam
-  Kab talak karoge tum jahan mein qatle aam
+  Rang layega zarur...
+  Ye lahu shariyatoṅ ke sar ka taaj hai
+  Ye lahu risalatoṅ ka hum mizaaj hai
+  Ye lahu khilaafe zulm e ehtejaaj hai
+  Ye lahu zamir e aadmi jagayega
+  Rang layega zarur...
+  Is lahu ki boond par hai din ka sutun
+  Is lahu ne bhar diya hayaat meiṅ sukun
+  Hashr tak Husain tera begunaah khuṅ
+  Jaane kitne mujrimoṅ ko hurr banayega
+  Rang layega zarur...
+  Is lahu meiṅ roshni hai kirdegaar ki
+  Is lahu meiṅ ghangaraj hai zulfeqar ki
+  Ye lahu hai hadh ali ke aetbaar ki
+  Zulm ke tamaam khybaroṅ ko dhayega
+  Rang layega zarur...
+  Ye lahu zamiṅ par jahaṅ tapak gaya
+  Us zamiṅ ka nur asmaan tak gaya
+  Is lahu se dine mustafa chamak gaya
+  Is lahu ka karz khud khuda chukayega
+  Rang layega zarur...
+  Har taraf hussainiyat ki hogi dhum dhaam
+  Hurriyat jagayega Husain ka payaam
+  Kab talak karoge tum jahaṅ meiṅ qatle aam
   Amn ka charaagh tum se bujh na payega
-  Rang layega zaroor...
-  Badh raha hai din ba din yaqeen e karbala
-  Chaa raha hai zehn o dil pe deen e karbala
-  Keh rahi hai surkhi e zameen e karbala
-  Hashr tak khuda ka deen jagmagayega
-  Rang layega zaroor...
-  Inteqaam baar baar lega ye lahoo
-  Zulm ki naqaab utaarlega ye lahoo
-  Qaatilon ko khud pukarlega ye lahoo
-  Ye lahoo jahan mein maujize dikhayega
-  Rang layega zaroor...
-  Keh rahi hai zulmaton se subhe inteqam
-  Ho chuki hai phir ali ki taygh be-niyaam
-  Manzile khurooj mein hai aakhri imam
-  Waqt ka yazeed phir se moo ki khayega
-  Rang layega zaroor...
+  Rang layega zarur...
+  Barh raha hai din ba din yaqin e karbala
+  Chaa raha hai zehn o dil pe din e karbala
+  Keh rahi hai surkhi e zamin e karbala
+  Hashr tak khuda ka din jagmagayega
+  Rang layega zarur...
+  Inteqaam baar baar lega ye lahu
+  Zulm ki naqaab utaarlega ye lahu
+  Qaatiloṅ ko khud pukarlega ye lahu
+  Ye lahu jahaṅ meiṅ maujize dikhayega
+  Rang layega zarur...
+  Keh rahi hai zulmatoṅ se subhe inteqam
+  Ho chuki hai phir ali ki taygh beniyaam
+  Manzile khuruj meiṅ hai aakhri imam
+  Waqt ka yazid phir se moo ki khayega
+  Rang layega zarur...
   Akhtar aane waali hai jahan ki murad
   Aamir ab khareeb tar hai aakhri jihad
-  Hoga har zaban par hussain zindabad
-  Zulm ye sadayein sun ke tilmilayega
-  Rang layega zaroor...
+  Hoga har zabaṅ par Husain zindabad
+  Zulm ye sadayeiṅ sun ke tilmilayega
+  Rang layega zarur...
 # source_id: nohayonline:d920da1d0610797af7d3
 # source_url: https://www.nohayonline.com/details_content.php?id=2457
 # raw_sha256: 1413d5bfb3050a9d955c40296b65fb6d053cb066ec273be7ecdd59e62dad8f42

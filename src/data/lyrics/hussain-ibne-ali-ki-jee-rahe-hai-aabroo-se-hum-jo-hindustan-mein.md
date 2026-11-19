@@ -1,6 +1,6 @@
 ---
 title: "جی رہے ہیں آبرو سے ہم جو ہندوستان میں"
-alternateTitle: "Hussain Ibne Ali Ki"
+alternateTitle: "Husaiṅ Ibne Ali Ki"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,65 +11,65 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jee rahe hai aabroo se hum jo hindustan mein
-  Doston bas ye ghame shabbir ka ehsaan hai
-  Jism mein kis kis ke kaisa khoon hai khud dekhlo
+  Ji rahe hai aabru se hum jo hindustan meiṅ
+  Dostoṅ bas ye ghame shabbir ka ehsaan hai
+  Jism mein kis kis ke kaisa khun hai khud dekhlo
   Ye azadari nahi ye nasl ki pehchan hai
-  Hussain ibne ali ki karo azadari
+  Husain ibne ali ki karo azadari
   Furaat e ashq e aza hashr tak rahe jaari
-  Hussain ibne ali ki...
+  Husain ibne ali ki...
   Falak pe chand nazar aagaya moharram ka
-  Hai soghwaar mahina hussain ke gham ka
-  Khuloos e dil se karo ehtamam matam ka
+  Hai soghwaar mahina Husain ke gham ka
+  Khulus e dil se karo ehtamam matam ka
   Nabi ki aal se karte raho wafadari
   Furaat e ashq e aza...
-  Hussain ibne ali ki...
+  Husain ibne ali ki...
   Tumhare waaste zehmat uthaai maula ne
   Ye dukh ye ranj o musibat uthaai maula ne
   Jawan bete ki mayyat uthayi maula ne
   Do pursa shaah ko ab karke girya o zaari
   Furaat e ashq e aza...
-  Hussain ibne ali ki...
-  Bala ke dasht mein wo paasban e ahle haram
-  Kata ke shaane bachaya hai deen ka parcham
+  Husain ibne ali ki...
+  Bala ke dasht meiṅ wo paasban e ahle haram
+  Kata ke shaane bachaya hai din ka parcham
   Hum isliye bhi uthate hai bawafa ka alam
   Zamana dekh le bedast ki alamdari
   Furaat e ashq e aza...
-  Hussain ibne ali ki...
-  Huwe hai baap ke haathon pe munqalib asghar
-  Lahoo mein dooba hua hai ye dard ka manzar
-  Jo teer aake laga bezaban ki gardan par
-  Wo teer wazn mein tha bezaban se bhaari
+  Husain ibne ali ki...
+  Huwe hai baap ke haathoṅ pe munqalib asghar
+  Lahu meiṅ duba hua hai ye dard ka manzar
+  Jo tir aake laga bezaban ki gardan par
+  Wo tir wazn meiṅ tha bezaban se bhaari
   Furaat e ashq e aza...
-  Hussain ibne ali ki...
-  Zameen royi hai chashme falak bhi hai purnam
+  Husain ibne ali ki...
+  Zamin royi hai chashme falak bhi hai purnam
   Nabi ki aal pe dhaaya gaya wo zulm o sitam
   Sawaar e doshe payambar jo tha khuda ki qasam
   Usi ki laash ko pamaal karte hai naari
   Furaat e ashq e aza...
-  Hussain ibne ali ki...
-  Sitam huwe jo haram par bataun mai kaise
-  Gala hussain ka kaata hai jab sitamgar ne
-  Ridayein bibiyon ki chin gayi jalay qaime
-  Tamache khaati thi har dam hussain ki pyari
+  Husain ibne ali ki...
+  Sitam huwe jo haram par batauṅ mai kaise
+  Gala Husain ka kaata hai jab sitamgar ne
+  Ridayeiṅ bibiyoṅ ki chin gayi jale qaime
+  Tamache khaati thi har dam Husain ki pyari
   Furaat e ashq e aza...
-  Hussain ibne ali ki...
-  Nigahe haq mein ibadat hai majlis o matam
-  Ho daur koi bhi karte raho hussain ka gham
+  Husain ibne ali ki...
+  Nigahe haq meiṅ ibadat hai majlis o matam
+  Ho daur koi bhi karte raho Husain ka gham
   Yehi to fatema zehra ki dil ka hai marham
   Adaye ajre risalat hai sheh ki gham khaari
   Furaat e ashq e aza...
-  Hussain ibne ali ki...
-  Jo khaar paon mein daste hai aur nikalte hai
+  Husain ibne ali ki...
+  Jo khaar paoṅ meiṅ daste hai aur nikalte hai
   Hai zauf itna ke girte hai aur sambhalte hai
-  Jo raahe sham mein sajjad jhuk ke chalte hai
-  Hai tauq bediyon ki is qadar gara bari
+  Jo raahe sham meiṅ sajjad jhuk ke chalte hai
+  Hai tauq beriyoṅ ki is qadar gara bari
   Hilal nauha ye rehan ne pada aisa
   Har ek simt hai chaayi gham o alam ki ghata
-  Utha hai majlis e sarwar mein shor girya ka
+  Utha hai majlis-e-sarwar meiṅ shor girya ka
   Har ek aankh se ashk e aza huwe jaari
   Furaat e ashq e aza...
-  Hussain ibne ali ki...
+  Husain ibne ali ki...
 # source_id: nohayonline:3fa0cb9bb3213b345c84
 # source_url: https://www.nohayonline.com/details_content.php?id=720
 # raw_sha256: fc3a3ac52bced0d502d1696372c9d782fdd0c31c2dd23d10a8ad45f0bc0e640e

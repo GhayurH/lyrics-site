@@ -29,9 +29,9 @@ romanLyrics: |-
   Aasmaan hilnay laga,  nabiyon pay sakta ho gaya
 
   5
-  4) Hai abhee Shabbir-o-Shabbar aur alambardaar hai
+  4) Hai abhee Shabbir o Shabbar aur alambardaar hai
   Ghar hai teray baba ka, kab Shaam ka bazaar hai
-  Saniyey Zehra tumhaara,  sir kyun uryan ho gaya
+  Saniyey Zehra tumhaara,  sir kiun uryan ho gaya
 
   6
   5) Rakh lia jhooli main sir aapka Shabbir nay
@@ -40,7 +40,7 @@ romanLyrics: |-
   7
   Har Taraf Mehshar Bapa Hai Ro Rahe Hain Zulfiqar
   Lag Gayi Haider Ko Zarbat Al-Amaan Ki Thi Pukar
-  Waqt Hai Sehri Ka Lekin Kyun Andhera Ho Gaya
+  Waqt Hai Sehri Ka Lekin Kiun Andhera Ho Gaya
 
   8
   Khuld Se Aayi Thi Us Dam Ye Farishton Ki Sada

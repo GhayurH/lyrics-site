@@ -9,7 +9,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain badshah nabi ka ladla
+  Husain badshah nabi ka ladla
   Haey Karbala may lut gaya
 
   1
@@ -18,39 +18,39 @@ romanLyrics: |-
 
   2
   1) Athara baras kay betay kay, seenay pe lagi maqtal may sinaa
-  Us sher jawan kay lashay par, karti thi jawani aah-o-fughan
+  Us sher jawan kay lashay par, karti thi jawani aah o fughan
   Sheh tooti kamar thamay, rotay thay kharay tanha
-  Hussain badshah nabi ka ladla, haey Karbala may lut gaya
+  Husain badshah nabi ka ladla, haey Karbala may lut gaya
 
   3
   2) Allah re ghurbat ka aalam, ghurbat pe ghareebi roti thi
   Mazloom pisar ki halat par, maa khaak pe baithi roti thi
   Kehti thi behan ro kar, haey mera maa jaya
-  Hussain badshah nabi ka ladla, haey Karbala may lut gaya
+  Husain badshah nabi ka ladla, haey Karbala may lut gaya
 
   4
   3) Larzay may khudai thi sari, heran thay saray payghambar
-  Jab tegh-o-sinaa kay saey may, sajday may rakha Shabbir nay sar
+  Jab tegh o sinaa kay saey may, sajday may rakha Shabbir nay sar
   Yeh kehta hua Kaaba, khud karnay tawaf aaya
-  Hussain badshah nabi ka ladla, haey Karbala may lut gaya
+  Husain badshah nabi ka ladla, haey Karbala may lut gaya
 
   5
   4) Konain ka aaqa maqtal may, tha khoon may tar aur tanha tha
   Zakhmi tha bohat hi zakhmi tha, pyasa tha bohat hi payasa tha
   Pyasa hi gaya mara, pamal hua lasha
-  Hussain badshah nabi ka ladla, haey Karbala may lut gaya
+  Husain badshah nabi ka ladla, haey Karbala may lut gaya
 
   6
   5) Darya ke kinaray qatl hua, woh jis ka sher sa bhai bhi
   Asbab luta khaimay bhi jalay, be parda hui maa jaye bhi
   Na bhai rahay zinda, na sar pe koi saya
-  Hussain badshah nabi ka ladla, haey Karbala may lut gaya
+  Husain badshah nabi ka ladla, haey Karbala may lut gaya
 
   7
-  6) Kia farsh zameen kia arsh-e-bareen, ki jinn-o-bashar kia hoor-o-malak
+  6) Kia farsh zameen kia arsh-e-bareen, ki jinn o bashar kia hoor o malak
   Shabbir ki ghurbat pe gohar, roey ga zamana hashr talak
   Majlis ki sada ho gi, matam yeh sada ho ga
-  Hussain badshah nabi ka ladla, haey Karbala may lut gaya
+  Husain badshah nabi ka ladla, haey Karbala may lut gaya
 # source_id: ziyaraat:9ef1f12066c829117f6b
 # source_url: https://www.ziyaraat.net/api/noha/659
 # raw_sha256: 815c93b4ddea516f319ec587096c25eebd18a8401108387ec11435de3e4b77ce

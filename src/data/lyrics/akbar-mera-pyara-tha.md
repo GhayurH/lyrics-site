@@ -11,34 +11,34 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Jeevan ka asasa tha peeri ka sahara tha
+  Jivan ka asasa tha piri ka sahara tha
   Kya jaane wo kya kya tha
   Akbar mera pyara tha raaj dulara tha
 
   1
   Akbar ki jawani par sau jaan se fida madar
-  Ay kaash usay dekhun ek baar nazar bhar kar
-  Wo ankhon ka taara tha raaj dulara tha
+  Ae kaash use dekhuṅ ek baar nazar bhar kar
+  Wo ankhoṅ ka taara tha raaj dulara tha
 
   2
-  Ye din thay jawani ke akbar teri shadi ke
-  Kis tarha lutay armaan teri maa dukhiyari ke
+  Ye din the jawani ke akbar teri shadi ke
+  Kis tarha lute armaan teri maa dukhiyari ke
   Aisa to na socha tha raaj dulara tha
 
   3
-  Kya khoob wo soorat thi nana ki shabahat thi
+  Kya khub wo surat thi nana ki shabahat thi
   Wabasta bahot tumse apno ki mohabbat thi
   Wo sab ka dulara tha raaj dulara tha
 
   4
   Ek daaghe alam dekar kis samt chale akbar
-  Sar kham kiye rokar beta teri rahon par
+  Sar kham kiye rokar beta teri rahoṅ par
   Bab ka ye naala tha raaj dulara tha
 
   5
-  Seene mein jo bhala hai is dil mein bhi uthra hai
+  Sine meiṅ jo bhala hai is dil meiṅ bhi uthra hai
   Kaise ye sahum sadma ye maa ka kaleja hai
-  Wo nazon ka paala tha raaj dulara tha
+  Wo nazoṅ ka paala tha raaj dulara tha
 
   6
   Maidan se jo aate tum aur maa ko bulate tum
@@ -46,9 +46,9 @@ romanLyrics: |-
   Kya maa ko pukara tha raaj dulara tha
 
   7
-  Jab yaad teri aaye dil tumko kahan paye
-  Itna to bata jao madar ye kahan jaye
-  Yun mujhko rulana tha raaj dulara tha
+  Jab yaad teri aaye dil tumko kahaṅ paye
+  Itna to bata jao madar ye kahaṅ jaye
+  Yuṅ mujhko rulana tha raaj dulara tha
 
   8
   Jab ali shanawar ye zikre gham sunata hai

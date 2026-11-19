@@ -9,42 +9,42 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Noha Zainab ka tha ae gesuon waale Akbar
+  Noha Zainab ka tha ae gesuoṅ waale Akbar
   Kis tarah gham tera maadar ye utha le Akbar
 
   1
   Kya khabar thi tujhe zaalim ki nazar khaayegi
-  Tere seene mein ani barchhi ki dhaar aayegi
-  Chaand si shakl teri khaak mein mil jaayegi
+  Tere sine meiṅ ani barchhi ki dhaar aayegi
+  Chaand si shakl teri khaak meiṅ mil jaayegi
   Maut bhi aayegi baali se to sharmaayegi
-  Door nazron se hue ghar ke ujaale Akbar
+  Dur nazroṅ se hue ghar ke ujaale Akbar
 
   2
   Aaye the saath Madine se phuphi ke beta
-  Ghir ke is dasht mein ab saath tumhara chhuta
+  Ghir ke is dasht meiṅ ab saath tumhara chhuta
   Baap majbur hai ke aankh ka taara tuta
-  Haye pardes mein aada ne bhara ghar luta
-  Maa khari roti hai seene se laga le Akbar
+  Haye pardes meiṅ aada ne bhara ghar luta
+  Maa khari roti hai sine se laga le Akbar
 
   3
   Apni taqdir ka tera ye tamaasha dekha
-  Baap ke haathon pe bin-jaaye ka laasha dekha
-  Phul qismat mein na the khun ka sehra dekha
-  Maa ki aankhon se woh behta hua darya dekha
+  Baap ke haathoṅ pe bin-jaaye ka laasha dekha
+  Phul qismat meiṅ na the khun ka sehra dekha
+  Maa ki aankhoṅ se woh behta hua darya dekha
   Teri ghamkhwaar ko ab kaun sambhaale Akbar
 
   4
   Koi Abbas ko darya se bula le jaa kar
-  Ho khabar kaise unhein mar gaye ran mein Akbar
-  Kiun nahi lete khabar ammu ki Aun o Jafar
+  Ho khabar kaise unheiṅ mar gaye ran meiṅ Akbar
+  Kiuṅ nahi lete khabar ammu ki Aun o Jafar
   Baap se uthegi kis tarah laash-e-pisar
   Kaun baaqi hai jo ab Sheh ko sambhaale Akbar
 
   5
-  Khaime jalte hain nahi koi sahaara beta
+  Khaime jalte haiṅ nahi koi sahaara beta
   Dhal chuki shaam hua shab ka andhera beta
-  Daad-ras koi nahi gham mein hamaara beta
-  Teri furqat mein nahi jeena gawaara beta
+  Daad-ras koi nahi gham meiṅ hamaara beta
+  Teri furqat meiṅ nahi jina gawaara beta
   Sar se chhinti hai rida aa ke bacha le Akbar
 
   6
@@ -52,7 +52,7 @@ romanLyrics: |-
   Waqt tha asr ka jab Sheh ne shahaadat paayi
   Kaisi Anjum ye qayaamat ki ghari thi aayi
   Laash pe rone ko beta tha na koi bhai
-  Kaun bachon ko bhala aa ke sambhaale Akbar
+  Kaun bachoṅ ko bhala aa ke sambhaale Akbar
 # source_id: nohayonline:7db909fb975a6fa7957d
 # source_url: https://www.nohayonline.com/details_content.php?id=250
 # raw_sha256: e129fcbc1e0dc8d9edc4b33a36f59d9379ee64c5998f379da33f918626450ec4

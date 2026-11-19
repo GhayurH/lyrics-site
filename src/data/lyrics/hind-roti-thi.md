@@ -11,58 +11,58 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye baap ki yaad sakina ko jo tadpati thi
+  Haye baap ki yaad sakina ko jo tarpati thi
   Wa hussaina ki sada de ke wo chillati thi
   Ye sada hind ke kaano se jo takrati thi
   Hind zindan ke darwaze pe aa jaati thi
-  Us ne ek din kaneezo se poocha
+  Us ne ek din kaneezo se pucha
   Kuch batao ke hai maajra kya
-  Kis ki rone ki hai ye sadayein
-  Kaun zindan mein karta hai nauha
-  Hind roti thi zindan ke dar par
+  Kis ki rone ki hai ye sadayeiṅ
+  Kaun zindan meiṅ karta hai nauha
+  Hind roti thi zindaṅ ke dar par
   Ek yateema ki faryad sun kar
   Hind roti thi...
   Al-gharaz aa gayi zindan talak mehwe buka
-  Padh ke zindan ke darbano ne dar khol diya
-  Baabe zindan mein daakhil jo hui wo dukhiya
-  Ek bacchi ko andhere mein tadapte dekha
-  Apne seene se usko lagaya
-  Poch kar ashk bacchi se poocha
-  Kyun hai nauha tera wa hussaina
+  Parh ke zindan ke darbano ne dar khol diya
+  Baabe zindan meiṅ daakhil jo hui wo dukhiya
+  Ek bacchi ko andhere meiṅ tarapte dekha
+  Apne sine se usko lagaya
+  Poch kar ashk bacchi se pucha
+  Kiuṅ hai nauha tera wa hussaina
   Naam batlaade apne padar ka
-  Hind roti thi zindan ke dar par
+  Hind roti thi zindaṅ ke dar par
   Ek yateema ki faryad sun kar
   Hind roti thi...
-  Hind ne poocha watan usne kaha bewatani
-  Kaam jab hind ne poocha to kaha seena zani
-  Jurm jab poocha to wo boli ghareebul watani
-  Dard jab poocha to kehne lagi eeza rasani
-  Hind ne poocha kab se ho qaidi
-  Peet ke sar ko boli wo bacchi
-  Saal bhar qaid mein yun guzaara
+  Hind ne pucha watan usne kaha bewatani
+  Kaam jab hind ne pucha to kaha seena zani
+  Jurm jab pucha to wo boli ghareebul watani
+  Dard jab pucha to kehne lagi iza rasani
+  Hind ne pucha kab se ho qaidi
+  Pit ke sar ko boli wo bacchi
+  Saal bhar qaid meiṅ yuṅ guzaara
   Na dawa hai na marham hai koi
-  Hind roti thi zindan ke dar par
+  Hind roti thi zindaṅ ke dar par
   Ek yateema ki faryad sun kar
   Hind roti thi...
-  Hind ne poocha maraz kya hai kaha bepadari
+  Hind ne pucha maraz kya hai kaha bepadari
   Roke wo boli dawa kya hai kaha nauha gari
   Ghar jo daryaft kiya kehne lagi dar badari
   Boli leta hai khabar kaun kaha bekhabari
-  Hind ne poocha gham ka madawa
+  Hind ne pucha gham ka madawa
   Boli bas aasra hai khuda ka
-  Dard dil mein jo uth'ta hai mere
-  Naam leti hoon mushkil kusha ka
-  Hind roti thi zindan ke dar par
+  Dard dil meiṅ jo uthta hai mere
+  Naam leti huṅ mushkil kusha ka
+  Hind roti thi zindaṅ ke dar par
   Ek yateema ki faryad sun kar
   Hind roti thi...
   Naam hyder ka suna karne lagi hind buka
-  Poocha bacchi se bhala inse tera rishta kya
+  Pucha bacchi se bhala inse tera rishta kya
   Roke bacchi ne kaha gham to yehi hai dukhiya
   Baap shabbir hai dada hai mere sher e khuda
   Kya kahe aur irfan o mazhar
   Phaynk di hind ne sar se chadar
-  Bich gaya qaid mein farshe matam
-  Wa hussaina tha sab ki zuban par
+  Bich gaya qaid meiṅ farshe matam
+  Wa hussaina tha sab ki zubaṅ par
   Haye hussaina haye hussaina haye hussaina
 # source_id: nohayonline:8548f64c7128d063598b
 # source_url: https://www.nohayonline.com/details_content.php?id=3564

@@ -1,6 +1,6 @@
 ---
 title: "میدانِ کربلا میں وہ اکبر تیری اذاں"
-alternateTitle: "Maidane Karbala Mein"
+alternateTitle: "Maidane Karbala Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

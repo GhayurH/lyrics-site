@@ -16,36 +16,36 @@ romanLyrics: |-
   Guzri jo fatema pe kaise koi batlaye
   Laash mohsin ko liye roti hai zehra ab tak
   Godh may fatema ke zakhmi hai bacha ab tak
-  Phasliyan pakde huwe karti hai nauha ab tak
-  Kitni takleef may hai roti hai zehra ab tak
+  Phasliyaṅ pakre huwe karti hai nauha ab tak
+  Kitni taklif may hai roti hai zehra ab tak
   Hashr may baap se poochegi ki maanga kya tha
-  Baba aakhir mere mohsin ne bigada kya tha
+  Baba aakhir mere mohsin ne bigara kya tha
   Godh may fatema ke zakhmi hai bacha ab tak
-  Phasliyan pakde huwe...
-  Aag aur lakdiyan lekar junhi dushman aaye
+  Phasliyaṅ pakre huwe...
+  Aag aur lakriyaṅ lekar junhi dushman aaye
   Bole darwaza e zehra ko jalaaya jaaye
   Is khadar zulm huwe roti hai fizza ab tak
-  Phasliyan pakde huwe...
-  Is qadar kohe sitam toot pade hai in par
+  Phasliyaṅ pakre huwe...
+  Is qadar kohe sitam tut pare hai in par
   Umr athara baras aur khameeda hai kamar
   Haye dushwaar hai shehzadi ka chalna ab tak
-  Phasliyan pakde huwe...
+  Phasliyaṅ pakre huwe...
   Qabr e shabbir se lagta hai ki maa lipti hai
   Haye ye rauza e sarwar se sada uth'ti hai
   Ban na paaya nahi amma tera rauza ab tak
-  Phasliyan pakde huwe...
-  Seena e shaah se asghar ko utha leti hai
-  Choom kar chehra e baysheer ko ye kehti hai
-  Zakhmi halqoom liye tu bhi hai soya ab tak
-  Phasliyan pakde huwe...
-  Roohe ghazi dar e zindan pe khadi roti hai
+  Phasliyaṅ pakre huwe...
+  Sina e shaah se asghar ko utha leti hai
+  Chum kar chehra e baysheer ko ye kehti hai
+  Zakhmi halqum liye tu bhi hai soya ab tak
+  Phasliyaṅ pakre huwe...
+  Ruhe ghazi dar e zindaṅ pe khari roti hai
   Ek bhatiji hai jo kurte may abhi soyi hai
-  Chutt na paayi nahi zindan se sakina ab tak
-  Phasliyan pakde huwe...
-  Hai mubarak junhi rehan ne nauha ye padha
+  Chutt na paayi nahi zindaṅ se sakina ab tak
+  Phasliyaṅ pakre huwe...
+  Hai mubarak junhi rehan ne nauha ye parha
   Khuld se rote huwe aaye ali o zehra
-  Haye zakhmon ka hai shehzadi pe pehra ab tak
-  Phasliyan pakde huwe...
+  Haye zakhmoṅ ka hai shehzadi pe pehra ab tak
+  Phasliyaṅ pakre huwe...
 # source_id: nohayonline:716120c0604ebacbec62
 # source_url: https://www.nohayonline.com/details_content.php?id=2103
 # raw_sha256: 25f1cd66195fa9e81e1f8018e313604fdaa2dee8d171ba8182ba5960a7e0ee8d

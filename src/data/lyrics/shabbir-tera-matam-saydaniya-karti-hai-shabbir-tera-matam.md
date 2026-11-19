@@ -17,54 +17,54 @@ romanLyrics: |-
   Saydaniya karti hai shabbir tera matam
 
   1
-  Ay waaris e quranam ay shaahe shaheedanam
-  Be sar hai sabhi laashe pamaali ki zad par hai
+  E waaris e quranam e shaahe shahidanam
+  Besar hai sabhi laashe pamaali ki zad par hai
   Jalti hui reti par sadaat khule sar hai
   Aur nauha kuna aalam
 
   2
-  Naizon ka ghana jangal aur raat ka sannata
+  Naizoṅ ka ghana jangal aur raat ka sannata
   Pehre pe nabi zaadi karti hai yehi nauha
   Lachaar huwe ab hum
 
   3
-  Beton ko nahi roti ghamkhwar teri khwahar
+  Betoṅ ko nahi roti ghamkhwar teri khwahar
   Ghazi ko bulaati hai ek haath rakhe dil par
   Bechain o dilafgaaram
 
   4
-  Ab lootne aate hai sadaat ko ye zaalim
+  Ab lutne aate hai sadaat ko ye zaalim
   Kis darja rulaate hai sadaat ko ye zaalim
-  Ab jaaye kahan pur gham
+  Ab jaaye kahaṅ pur gham
 
   5
-  Haq teri mohabbat ka kulsoom ada karti
+  Haq teri mohabbat ka kulsum ada karti
   Aulaad agar hoti to tujhpe fida karti
   Karti hai bapa payham
 
   6
-  Baba hai kahan mere hai bain sakina ke
+  Baba hai kahaṅ mere hai bain sakina ke
   Mar jaungi ro ro ke bin shaah e madina ke
   Kya is ko bataye hum
 
   7
-  Be parda bahan teri bazaar mein jayegi
-  Amma ki tarha zainab darbar mein jayegi
-  Kya is se bada hai gham
+  Beparda bahan teri bazaar meiṅ jayegi
+  Amma ki tarha zainab darbar meiṅ jayegi
+  Kya is se bara hai gham
 
   8
-  Hamsheer rasan basta jab qaid mein jayegi
-  Zinda mein tera matam ek roz karayegi
-  Be monis o be yaaram
+  Hamshir rasan basta jab qaid meiṅ jayegi
+  Zinda meiṅ tera matam ek roz karayegi
+  Bemonis o beyaaram
 
   9
-  Jee bhar ke kiya matam abbas e dilawar ka
+  Ji bhar ke kiya matam abbas e dilawar ka
   Qasim ali asghar ka hamshakle payambar ka
-  Ta hashr karenge hum
+  Ta hashr kareṅge hum
 
   10
   Ye mazhar o mesum ki din raat azadari
-  Manzoor kare zehra ye nauhon ki tayyari
+  Manzur kare zehra ye nauhoṅ ki tayyari
   Ek pal bhi nahi ho kam
 # source_id: nohayonline:cf866d8f5d208c8e4737
 # source_url: https://www.nohayonline.com/details_content.php?id=1323

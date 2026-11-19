@@ -88,7 +88,7 @@ romanLyrics: |-
 
   10
   Akbar se phir kaha ke alamdaar ko uthaao
-  Purkhun ye mashk khaima-e-ismat mein le ke jaao
+  Purkhuṅ ye mashk khaima-e-ismat meiṅ le ke jaao
   Bewa hui chachi use pursa do khaak uraao
   Beta chacha ke bachchoṅ ko ja kar gale lagaao
   Puchheṅ jo sab ke Sibt-e-Payambar kidhar gaye

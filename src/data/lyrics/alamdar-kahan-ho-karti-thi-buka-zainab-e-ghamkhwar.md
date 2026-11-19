@@ -10,55 +10,55 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Karti thi buka zainab e ghamkhwar
-  Alamdar kahan ho
+  Karti thi buka zainab-e-ghamkhwar
+  Alamdar kahaṅ ho
 
   1
   Beparda haram hai sar e bazaar
 
   2
   Jab se mujhe dar pesh hui teri judaai
-  Tareek nazar aane lagi saari khudayi
-  Zainab hai masayib mein giraftaar
+  Tarik nazar aane lagi saari khudayi
+  Zainab hai masayib meiṅ giraftaar
 
   3
   Maara jo kabhi shimr e sitamgar ne tamacha
-  Masoom sakina ne tera naam pukara
+  Masum sakina ne tera naam pukara
   Bacchi ko madad hai teri darkaar
 
   4
-  Yasrab mein kabhi mera qadam ghar se na nikla
+  Yasrab meiṅ kabhi mera qadam ghar se na nikla
   Bas thi meri dunya bani hashim ka mohalla
   Ab mera safar hai sar e bazaar
 
   5
   Beparda sar e shaam haram hote hai tash'heer
-  Rota hai lahoo noke sina par sar e shabbir
-  Ay aale mohamed ke madadgaar
+  Rota hai lahu noke sina par sar-e-shabbir
+  Ae aale mohamed ke madadgaar
 
   6
-  Hote hai bade zulm o sitam ahle haram par
+  Hote hai bare zulm o sitam ahle haram par
   Durre kabhi khaate hai kabhi khaate hai pathar
   Sadaat pe haste hai sitamgaar
 
   7
-  Ye aa gayi taqdeer kahan aale aba ki
-  Ye fauj e jafakaar hamein kehti hai baaghi
+  Ye aa gayi taqdir kahaṅ aale aba ki
+  Ye fauj e jafakaar hameiṅ kehti hai baaghi
   Is tanz ko sun kar hoo dilafgaar
 
   8
-  Hai haath rasan basta nahi sar pe ridayein
-  Sadaat bhala behre madad kis ko bulayein
-  Hai shaam ka rasta bada dushwaar
+  Hai haath rasan basta nahi sar pe ridayeiṅ
+  Sadaat bhala behre madad kis ko bulayeiṅ
+  Hai shaam ka rasta bara dushwaar
 
   9
   Dekhi nahi jaati mere sajjad ki haalat
-  Chalne bhi nahi deti usay uski naqaahat
-  Mar jaaye na gham se kahin bemaar
+  Chalne bhi nahi deti use uski naqaahat
+  Mar jaaye na gham se kahiṅ bemaar
 
   10
-  Sibtain mai bhala kaise likhun shaam ka manzar
-  Jab shaam ke bazaar mein saydaniya safdar
+  Sibtain mai bhala kaise likhuṅ shaam ka manzar
+  Jab shaam ke bazaar meiṅ saydaniya safdar
   Kehti thi ye har baar
 # source_id: nohayonline:e3059238376086f218bf
 # source_url: https://www.nohayonline.com/details_content.php?id=2284

@@ -1,6 +1,6 @@
 ---
 title: "آج زینب یتیم ہو گئی"
-alternateTitle: "Aaj Zainab Yateem Ho Gayi"
+alternateTitle: "Aaj Zainab Yatim Ho Gayi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,24 +10,24 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kufe ki galiyon mein kohraam hai
+  Kufe ki galiyoṅ meiṅ kohraam hai
   Uth gaya baap ka sar se saaya
-  Aaj zainab yateem ho gayi
+  Aaj zainab yatim ho gayi
 
   1
-  Zakhm taza tha maadar ka dil mein
-  Roiṅ Baba ke gham mein aankhein
-  Gham-e-yateemi ka Zainab ne paya
+  Zakhm taza tha maadar ka dil meiṅ
+  Roiṅ Baba ke gham meiṅ aankheiṅ
+  Gham-e-yatimi ka Zainab ne paya
 
   2
   Ro rahe hai ye mehrab o mimbar
-  Keh rahe hai ye jibreel ro kar
+  Keh rahe hai ye jibril ro kar
   Ibne muljim ne ye zulm dhaaya
 
   3
   Arsh par mustafa ro rahe hai
   Sab ke sab ambiya ro rahe hai
-  Hai farishton mein kohraam barpa
+  Hai farishtoṅ meiṅ kohraam barpa
 
   4
   Kaise unneeswi ki sahar thi
@@ -35,48 +35,48 @@ romanLyrics: |-
   Ibne muljim sitam tu ne dhaaya
 
   5
-  Koi kulsoom ko de dilaasa
-  Aur tadapti hai gham se khadija
+  Koi kulsum ko de dilaasa
+  Aur tarapti hai gham se khadija
   Maula abbas karte hai girya
 
   6
   Gham hai matam hai shor-e-buka hai
-  Aasman bhi lahu ro raha hai
+  Aasmaṅ bhi lahu ro raha hai
   Uth gaya sar se Zainab ke saaya
 
   7
   Kitne hai log kufe mein aise
   Jin ke maula ne dukh dard baate
-  Chin gaya aaj unka maseeha
+  Chin gaya aaj unka masiha
 
   8
-  Qabar mein Fatima bhi hain muztar
-  Kar rahi hain ye faryad ro kar
+  Qabar meiṅ Fatima bhi haiṅ muztar
+  Kar rahi haiṅ ye faryad ro kar
   Waqt kaisa ye Zainab pe aaya
 
   9
-  Ghar mein farsh e aza bich gaya hai
-  Aaj kufe mein matam bapa hai
-  Sogh mein dooba ghar sayyeda ka
+  Ghar meiṅ farsh e aza bich gaya hai
+  Aaj kufe meiṅ matam bapa hai
+  Sogh meiṅ duba ghar sayyeda ka
 
   10
   Uth raha hai janaaza Ali ka
-  Khaana-e-Rab mein maatam hai barpa
-  Sog mein duba ghar Sayyeda ka
+  Khaana-e-Rab meiṅ maatam hai barpa
+  Sog meiṅ duba ghar Sayyeda ka
 
   11
   Uth raha hai janaza ali ka
   Ek mehshar ka aalam hai barpa
-  Sab ke honton pe hai ek nauha
+  Sab ke hontoṅ pe hai ek nauha
 
   12
   Ghar se mayyat Ali ki jo uthi
-  Ruk gayi nabz dono jahaan ki
-  Arsh waale bhi karte hain girya
+  Ruk gayi nabz dono jahaaṅ ki
+  Arsh waale bhi karte haiṅ girya
 
   13
   Bain karte hai farhan o mazhar
-  Saare alfaaz rote hain Mazhar
+  Saare alfaaz rote haiṅ Mazhar
   Farsh e majlis pe ye baat keh kar
   Dijiye apni bibi ko pursa
 ---

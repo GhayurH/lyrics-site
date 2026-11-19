@@ -19,7 +19,7 @@ romanLyrics: |-
   Wo maarte the, sakina ko her bahaane se
 
   2
-  Bulaey kis tarha abbas ko madad kai liyai
+  Bulae kis tarha abbas ko madad kai liyai
   Wo berida thi, jhijhakti rahi bulane se
 
   3

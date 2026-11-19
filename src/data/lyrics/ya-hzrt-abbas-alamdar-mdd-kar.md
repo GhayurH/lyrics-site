@@ -13,34 +13,34 @@ romanLyrics: |-
   Lakht-e-Jigar-e-Haider-e-Karar Madad Kar
 
   1
-  Ya Shah Tujhay Sadqa-e-Sarkar-e-Madina
+  Ya Shah Tujhe Sadqa-e-Sarkar-e-Madina
   Faryad hai faryad hai saqa-e-Sakina
-  Hai teray siwa kaun madadgar madad kar
+  Hai tere siwa kaun madadgar madad kar
 
   2
-  Ya Shah tujhay Syed-e-Mazloom ka sadqa
-  Ya Shah tujhay Asghar-e-Masoom ka sadqa
-  Hun banda gunah gaar Alamdar madad kar
+  Ya Shah tujhe Syed-e-Mazlum ka sadqa
+  Ya Shah tujhe Asghar-e-Masum ka sadqa
+  Huṅ banda gunah gaar Alamdar madad kar
 
   3
-  Mushkil mein tery naam ki di jis nay duhai
-  Aik pal mein teri zaat hai imdad ko aai
-  Kiun meray liay dair hai Sarkar madad kar
+  Mushkil meiṅ tery naam ki di jis ne duhai
+  Aik pal meiṅ teri zaat hai imdad ko aai
+  Kiuṅ mere lie dair hai Sarkar madad kar
 
   4
-  Bigri hoi maula meri taqdeer bana day
-  Hasnain k sadqay mein mujhay gham say chura day
-  Qismat k meray malik o mukhtar madad kar
+  Bigri hoi maula meri taqdir bana de
+  Hasnain k sadqe meiṅ mujhe gham se chura de
+  Qismat k mere malik o mukhtar madad kar
 
   5
-  Dunya mein koi misl nahin teri wafa ki
-  Jaan tunay muhammad k niwasay pay fida ki
-  Mein aik Nazar ka hun talabgar madad kar
+  Dunya meiṅ koi misl nahiṅ teri wafa ki
+  Jaaṅ tune muhammad k niwase pay fida ki
+  Meiṅ aik Nazar ka huṅ talabgar madad kar
 
   6
-  Aye Shah qasam tujh ko hai Shabbir k sir ki
-  Banday ko talab hai tu Faqat teri Nazar ki
-  Mar jaiy na yun Talib e dedaar madad kar
+  Ae Shah qasam tujh ko hai Shabbir k sir ki
+  Bande ko talab hai tu Faqat teri Nazar ki
+  Mar jaiy na yuṅ Talib-e-dedaar madad kar
 # source_id: ziyaraat:635d3c38ce579d59fc5b
 # source_url: https://www.ziyaraat.net/api/noha/2320
 # raw_sha256: 4a4f40a9abfbb32bed643cf5e6ef38ca25fd94f0a21c8a0a9bea814fe0f38111

@@ -9,32 +9,32 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bain karti thi ye zehra mere mazloom hussain
+  Bain karti thi ye zehra mere mazlum Husain
 
   1
-  Kisne pyaasa tujhe maara mere mazloom hussain
+  Kisne pyaasa tujhe maara mere mazlum Husain
   Na to akbar hai na asgahr hai na zainab ke pisar
-  Kat gaya sab terq kunba mere mazloom hussain
+  Kat gaya sab terq kunba mere mazlum Husain
 
   2
   Khaak se uth ke lago amma ki chaati se zara
-  Gham se jalta hai kaleja mere mazloom hussain
+  Gham se jalta hai kaleja mere mazlum Husain
 
   3
-  Apne pushton ko to aada ne diya gor o kafan
-  Teri mayyat ko na gaada mere mazloom hussain
+  Apne pushtoṅ ko to aada ne diya gor o kafan
+  Teri mayyat ko na gaara mere mazlum Husain
 
   4
-  Dayr se laash pa khaati hoo pachade waari
-  Uth ke do maa ko dilaasa mere mazloom hussain
+  Dayr se laash pa khaati hoo pachare waari
+  Uth ke do maa ko dilaasa mere mazlum Husain
 
   5
-  Beh raha hai rag e gardan se lahoo reti par
-  Hai ye be-sar tera laasha mere mazloom hussain
+  Beh raha hai rag e gardan se lahu reti par
+  Hai ye besar tera laasha mere mazlum Husain
 
   6
-  Tukde tukde ho badan zulm ki talwaaron se
-  Is liye kya tujhe paala mere mazloom hussain
+  Tukre tukre ho badan zulm ki talwaaroṅ se
+  Is liye kya tujhe paala mere mazlum Husain
 # source_id: nohayonline:2cc94d66c92bda717398
 # source_url: https://www.nohayonline.com/details_content.php?id=2008
 # raw_sha256: fe328eb2735038d8be434f4b81956b6086918448c42de0f14e222bd13fd09205

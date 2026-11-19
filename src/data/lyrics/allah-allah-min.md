@@ -15,98 +15,98 @@ romanLyrics: |-
   Salam bar moharram
   Salam bar karbala
   Salam bar ashoora
-  Salam bar hussain
-  Asalamo alal hussain
-  Wa ali ibnil hussain
-  Wa aulaadil hussain
-  Wa as'haabil hussain
-  Allah allah min raasil hussain
-  Ay naiza sawaron ki qayadat ke shehenshah
-  Zulfein teri wal-lail hai was shams hai chehra
-  Aankhon sa ayan noor-e-mohamed ka ujaala
-  Lab tere hai masroof e tilawat bine zehra
-  Sajde mein jhuka sar to ibadat ka sharaf tha
+  Salam bar Husain
+  Asalamo alal Husain
+  Wa ali ibnil Husain
+  Wa aulaadil Husain
+  Wa as'haabil Husain
+  Allah allah min raasil Husain
+  Ae naiza sawaroṅ ki qayadat ke shehenshah
+  Zulfeiṅ teri wal-lail hai was shams hai chehra
+  Aankhoṅ sa ayaṅ nur-e-mohamed ka ujaala
+  Lab tere hai masruf e tilawat bine zehra
+  Sajde meiṅ jhuka sar to ibadat ka sharaf tha
   Naize pa utha sar to ye sar durre najaf tha
-  Allah allah min raasil hussain
+  Allah allah min raasil Husain
   Thi pushte mohamed to isi sar ka musalla
-  Aur chadar e tatheer hai is sar ka amaama
+  Aur chadar e tathir hai is sar ka amaama
   Mun kunto ka khutba ha isi sar ka khulasa
   Is sar ke sabab karbobala ab hai moalla
   Ya sar na jhuka khanjar o talwar ke aage
   Sar zulm ka kham hai tere inkar ke aage
-  Allah allah min raasil hussain
-  Roohe hussain
-  Jabeen-e-hussain
-  Abrooh e hussain
-  Chashme hussain
-  Rukhsaar e hussain
-  Dehn e hussain
-  Lab e hussain
-  Dandan e hussain
-  Rukhsaar e hussain
-  Reesh e hussain
-  Gulu e hussain
-  Zulf e hussain
-  Khusboo e hussain
-  Zehn e hussain
-  Fikr e hussain
-  Guftaar e hussain
-  In aankhon ko hai ahmade mukhtar ne chooma
-  Zehra o ali ne lab o rukhsaar ko chooma
-  Zulfon ko hassan ne hai bade pyar sa chooma
-  Behno ne gala iska kayi baar hai chooma
-  Sardari e abbas isi sar sa judi hai
-  Aur zainab o kulsoom ko ye misle ali hai
-  Allah allah min raasil hussain
-  Maujood tha is sar mein mohamed ka khazana
+  Allah allah min raasil Husain
+  Ruhe Husain
+  Jabin-e-Husain
+  Abruh e Husain
+  Chashme Husain
+  Rukhsaar-e-Husain
+  Dehn e Husain
+  Lab-e-Husain
+  Dandan e Husain
+  Rukhsaar-e-Husain
+  Rish e Husain
+  Gulu e Husain
+  Zulf e Husain
+  Khusboo e Husain
+  Zehn e Husain
+  Fikr e Husain
+  Guftaar e Husain
+  In aankhoṅ ko hai ahmade mukhtar ne chuma
+  Zehra o ali ne lab o rukhsaar ko chuma
+  Zulfoṅ ko Hasan ne hai bare pyar sa chuma
+  Behno ne gala iska kayi baar hai chuma
+  Sardari e abbas isi sar sa juri hai
+  Aur zainab o kulsum ko ye misle ali hai
+  Allah allah min raasil Husain
+  Maujud tha is sar meiṅ mohamed ka khazana
   Maqsad tha isi sar ka to islam bachana
   Zaalim ne bahot chaaha tha is sar ko jhukana
   Ye sar na jhuka kat gaya zehra ka gharana
-  Is sar ka safar sun ke jahan rota hai ab tak
-  Ghaibat mein jo hai marsiya khwan rota hai ab tak
-  Allah allah min raasil hussain
-  Ashoor ko ye sar pas e gardan se kata tha
-  Zarbein thi lagi tera bahot khushk gala tha
-  Zainab ke liye waqt qayamat se kada tha
-  Zulfon ko pakad kar jo ye sar shimr chala tha
-  Afsos sar e nok e sina jab ye sar aaya
-  Jalta hua ghar shaam e ghariban ka tha saaya
-  Allah allah min raasil hussain
+  Is sar ka safar sun ke jahaṅ rota hai ab tak
+  Ghaibat meiṅ jo hai marsiya khwaṅ rota hai ab tak
+  Allah allah min raasil Husain
+  Ashur ko ye sar pas e gardan se kata tha
+  Zarbeiṅ thi lagi tera bahot khushk gala tha
+  Zainab ke liye waqt qayamat se kara tha
+  Zulfoṅ ko pakar kar jo ye sar shimr chala tha
+  Afsos sar-e-nok-e-sina jab ye sar aaya
+  Jalta hua ghar shaam e gharibaṅ ka tha saaya
+  Allah allah min raasil Husain
   Es sar ke masayib ka ye pur dard hai qissa
-  Khooni ne ise ghar mein jo tandoor mein rakha
-  Raat aayi to phir zauja e khooni ne ye dekha
-  Tandoor se ek noor ka darya hai ubalta
+  Khuni ne ise ghar meiṅ jo tandur meiṅ rakha
+  Raat aayi to phir zauja e khuni ne ye dekha
+  Tandur se ek nur ka darya hai ubalta
   Ek bibi siyaah posh ne is sar ko uthaya
-  Ro ro ke kaha haye ghareeb e dile zehra
-  Allah allah min raasil hussain
-  Raahib ne ye sar dekha tha jab nok e sina par
-  Khooli sa kaha kaun hai ye kiska hai ye sar
+  Ro ro ke kaha haye gharib e dile zehra
+  Allah allah min raasil Husain
+  Raahib ne ye sar dekha tha jab nok-e-sina par
+  Khuli sa kaha kaun hai ye kiska hai ye sar
   Bola wo badad'waar ke ye hai bine hyder
-  Raahib ne wo sar le liya khooli ko diya zar
-  Sar godh mein rakhe huwe rota raha raahib
-  Awaaz e fughan zehra ki sunta raha raahib
-  Allah allah min raasil hussain
-  Ya sar kabhi sandook mein tandoor mein rakha
-  Is sar ko darkhton pe layeeno ne sajaya
-  Naize pa ise shehr ki galiyon mein phiraya
-  Hamraah aseeron ke ye sar shaam jab aaya
-  Sajjad ko zainab ko rulaate thay sitamgar
-  Sar bali sakina ko dikhaate thay sitamgar
-  Allah allah min raasil hussain
-  Darbar e yazeedi mein bapa jashn e tarab tha
-  Thay ek taraf ahle haram muztar o girya
+  Raahib ne wo sar le liya khuli ko diya zar
+  Sar godh meiṅ rakhe huwe rota raha raahib
+  Awaaz-e-fughaṅ zehra ki sunta raha raahib
+  Allah allah min raasil Husain
+  Ya sar kabhi sandook meiṅ tandur meiṅ rakha
+  Is sar ko darkhtoṅ pe layino ne sajaya
+  Naize pa ise shehr ki galiyoṅ meiṅ phiraya
+  Hamraah asiroṅ ke ye sar shaam jab aaya
+  Sajjad ko zainab ko rulaate the sitamgar
+  Sar bali sakina ko dikhaate the sitamgar
+  Allah allah min raasil Husain
+  Darbar e yazidi meiṅ bapa jashn e tarab tha
+  The ek taraf ahle haram muztar o girya
   Aur saamne tha takht pe marjaana ka beta
-  Us takht tale sar tha hussain e bekhata ka
-  Badbakht layeen nashe mein lalkaar raha tha
-  Dandan e shahe deen pa chadi maar raha tha
-  Allah allah min raasil hussain
-  Jis waqt ya sar shaam ke zindan mein aaya
+  Us takht tale sar tha Husain e bekhata ka
+  Badbakht layiṅ nashe meiṅ lalkaar raha tha
+  Dandan e shahe diṅ pa chari maar raha tha
+  Allah allah min raasil Husain
+  Jis waqt ya sar shaam ke zindan meiṅ aaya
   Sar bhai ka zainab ne kaleje se lagaya
   Sajjad ne behosh sakina ko jagaya
-  Sar baba ka pehlu mein sakina ne jo paaya
-  Ay sarwar o rehaan qayamat ka samaa tha
-  Shabbir ka sar rota tha aur shor e fughan tha
-  Allah allah min raasil hussain
+  Sar baba ka pehlu meiṅ sakina ne jo paaya
+  Ae sarwar o rehaan qayamat ka samaa tha
+  Shabbir ka sar rota tha aur shor e fughaṅ tha
+  Allah allah min raasil Husain
 # source_id: nohayonline:8c666a17a9e404a17ae9
 # source_url: https://www.nohayonline.com/details_content.php?id=2605
 # raw_sha256: a3ca56261f191b2ba602591b919f17868b22c785c34bfd747d78e39be507dcfe

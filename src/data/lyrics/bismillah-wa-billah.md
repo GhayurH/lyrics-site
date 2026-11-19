@@ -11,62 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zakhmon se choor hoke jo quran gir gaya
-  Ro'o saron ko peeto qayamat hui bapa
-  Naiza sambhale daaye se ibne anas bada
+  Zakhmoṅ se chur hoke jo quran gir gaya
+  Ro'o saroṅ ko pito qayamat hui bapa
+  Naiza sambhale daaye se ibne anas bara
   Baayi taraf se maarne ibne ashas chala
   Dono ne waar shaah pe jo ek saath kar diya
-  Phasli mein jaake naize mein naiza ulajh gaya
+  Phasli meiṅ jaake naize meiṅ naiza ulajh gaya
   Ibne anas ne chaaha ke naiza nikaale
-  Shabbir chaahte thay ke khud ko sambhale
-  Is kashma kash mein phasliyan baahar nikal padi
-  Roti bilakti qabr se zehra nikal padi
-  Girte huwe zameen pe ye shabbir ne kaha
+  Shabbir chaahte the ke khud ko sambhale
+  Is kashma kash meiṅ phasliyaṅ baahar nikal pari
+  Roti bilakti qabr se zehra nikal pari
+  Girte huwe zamiṅ pe ye shabbir ne kaha
   Bismillah wabillah wala millate rasoolillah
-  Ghode se gir ke baithe hi thay sibte mustafa
-  Ek teer san sanata hua teen bhaal ka
-  Seene mein aake shaahe shaheedan ke gad gaya
-  Haathon se usko kheench ke shabbir ne kaha
+  Ghore se gir ke baithe hi the sibte mustafa
+  Ek tir san sanata hua tin bhaal ka
+  Sine meiṅ aake shaahe shahidaṅ ke gar gaya
+  Haathoṅ se usko khinch ke shabbir ne kaha
   Bismillah wabillah...
-  Sadme hazaar hone lage naazneen par
-  Patthar kisi ne khaynch ke maara jabeen par
-  Teora ke aah gir pade maula zameen par
-  Girte hi teer jism mein chubne lage siwa
+  Sadme hazaar hone lage naaznin par
+  Patthar kisi ne khaynch ke maara jabiṅ par
+  Teora ke aah gir pare maula zamin par
+  Girte hi tir jism meiṅ chubne lage siwa
   Bismillah wabillah...
-  Zakhmon se choor choor hoon yawar nahi raha
+  Zakhmoṅ se chur chur huṅ yawar nahi raha
   Akbar nahi raha mera asghar nahi raha
-  Chautees saal waala baradar nahi raha
-  Ab kya karunga jee ke bhara ghar nahi raha
+  Chautis saal waala baradar nahi raha
+  Ab kya karunga ji ke bhara ghar nahi raha
   Bismillah wabillah...
-  Tha khoon mein joshe faatahe khyber ki al amaan
-  Uth kar khade huwe kabhi baithe shahe zamaan
-  Naiza jigar se khayncha to kheenchi kabhi sina
-  Phir leke khoon haath mein bole shahe huda
+  Tha khuṅ meiṅ joshe faatahe khyber ki al amaaṅ
+  Uth kar khare huwe kabhi baithe shahe zamaaṅ
+  Naiza jigar se khayncha to khinchi kabhi sina
+  Phir leke khuṅ haath meiṅ bole shahe huda
   Bismillah wabillah...
-  Chullu ka khoon phaynka jo hi aasman par
-  Sakta sa taari hogaya saare jahan par
-  Laakhon layeen tooth pade ek jaan par
+  Chullu ka khun phaynka jo hi aasman par
+  Sakta sa taari hogaya saare jahaṅ par
+  Laakhoṅ layin tooth pare ek jaan par
   Aandhi chali larazne lagi arze karbala
   Bismillah wabillah...
-  Khanjar liye wo haath mein shimr e layeen badha
-  Sarwar ne sar ko sajda e khaaliq mein rakh diya
-  Subhana rabbi aala wo mabood hai mera
+  Khanjar liye wo haath meiṅ shimr e layiṅ barha
+  Sarwar ne sar ko sajda e khaaliq meiṅ rakh diya
+  Subhana rabbi aala wo mabud hai mera
   Khanjar chala to shaah ne besaakta kaha
   Bismillah wabillah...
   Khanjar chalaya pyase pe ek baara martaba
   Pehli jo zarb khaayi kaha wa mohammada
-  Aur doosri pe kehne lage haye murtuza
-  Deen e nabi pe hota hai ab khaatma mera
+  Aur dusri pe kehne lage haye murtuza
+  Din e nabi pe hota hai ab khaatma mera
   Bismillah wabillah...
-  Phir teesri pe tadpe kaha amma fatema
+  Phir tisri pe tarpe kaha amma fatema
   Chauti lagi to kehne lage bhai mujtaba
   Phir uske baad sheh ne kisi se na kuch kaha
-  Sookhi hui ragon se ye aati rahi sada
+  Sukhi hui ragoṅ se ye aati rahi sada
   Bismillah wabillah...
   Aamir ali ka laal wo zehra ka dil ka chain
-  Ainee lahoo mein lot'te thay shaahe mashraqain
-  Chalti rahi churi aur ye kehte rahe hussain
-  Kat'te huwe galay se ye aati rahi sada
+  Aini lahu meiṅ lot'te the shaahe mashraqain
+  Chalti rahi churi aur ye kehte rahe Husain
+  Kat'te huwe gale se ye aati rahi sada
   Abbas abbas abbas abbas
 # source_id: nohayonline:7284049b0795404c3d12
 # source_url: https://www.nohayonline.com/details_content.php?id=3400

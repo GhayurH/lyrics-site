@@ -14,42 +14,42 @@ romanLyrics: |-
   Baad baba ke jo guzri wo musibat sunlo
   Ya ali fatema zahra ki wasiyat sunlo
   Aaj rukhsat ho rahi hai tum se zahra ya ali
-  Parda e shab mein meri mayyat uthana ya ali
+  Parda e shab meiṅ meri mayyat uthana ya ali
   Aaj rukhsat ho rahi hai...
-  Phasliyan todi gayi kaise ye batlaungi mai
-  Hashr ke maidan mein bhi is haal mein aaungi mai
+  Phasliyaṅ tori gayi kaise ye batlaungi mai
+  Hashr ke maidaṅ meiṅ bhi is haal meiṅ aaungi mai
   Haath pehlu se na tum mera hatana ya ali
   Aaj rukhsat ho rahi hai...
   Wo musibat aap ne acha hua dekhi nahi
-  Ab mai seedhe haath se tasbeeh pad sakti nahi
-  Aisa qunfuz ne he maara taaziyana ya ali
+  Ab mai sidhe haath se tasbih pad sakti nahi
+  Aisa qunfuz ne hai maara taaziyana ya ali
   Aaj rukhsat ho rahi hai...
   Kehti hai zainab ye mujhse dekh kar chehra mera
-  Aap ke rukhsaar par ye neel hai kaisa pada
+  Aap ke rukhsaar par ye nil hai kaisa para
   Maie khaaya hai tamacha mat batana ya ali
   Aaj rukhsat ho rahi hai...
   Taaziyane ki aziyyat ka uthana ek taraf
   Wo tamache qatl e mohsin dar jalana ek taraf
   Sab se mushkil tha magar darbar jaana ya ali
   Aaj rukhsat ho rahi hai...
-  Jab meri talqeen padna yaad kar lena zara
-  Dar ke girne se mera baazu bhi hai toota hua
-  Mere shaano ko zara dheere hilana ya ali
+  Jab meri talqin parna yaad kar lena zara
+  Dar ke girne se mera baazu bhi hai tuta hua
+  Mere shaano ko zara dhire hilana ya ali
   Aaj rukhsat ho rahi hai...
   Chaahe aajaye qayamat mujhse ye waada karo
   Jab talak maula mere shabbir ki marzi na ho
   Tab talak mera janaza mat uthana ya ali
   Aaj rukhsat ho rahi hai...
   Jab se aayi hoo palat kar fikr hai mujhko yehi
-  Mai to parde mein gayi phir bhi zaeefa ho gayi
-  Be-rida darbar hai zainab ko jaana ya ali
+  Mai to parde meiṅ gayi phir bhi zaeefa ho gayi
+  berida darbar hai zainab ko jaana ya ali
   Aaj rukhsat ho rahi hai...
-  Karbala mein jab mere mazloom par khanjar chale
-  Pyaas ke aalam mein wo ghazi ko jab awaaz de
-  Mai bhi aaungi wahan par tum bhi aana ya ali
+  Karbala meiṅ jab mere mazlum par khanjar chale
+  Pyaas ke aalam meiṅ wo ghazi ko jab awaaz de
+  Mai bhi aaungi wahaṅ par tum bhi aana ya ali
   Aaj rukhsat ho rahi hai...
   Haath pehlu par rakhe boli takallum fatema
-  Mai dua karti hoo tum ameen keh dena zara
+  Mai dua karti hoo tum amin keh dena zara
   Jald aaye mere mehdi ka zamana ya ali
   Aaj rukhsat ho rahi hai...
 # source_id: nohayonline:895519f899e4109499a8

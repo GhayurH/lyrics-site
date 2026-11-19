@@ -1,6 +1,6 @@
 ---
 title: "مولا غمزدہ ناتواں سارباں"
-alternateTitle: "Saarbaan"
+alternateTitle: "Saarbaaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

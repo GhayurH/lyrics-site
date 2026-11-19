@@ -12,33 +12,33 @@ published: false
 romanLyrics: |-
   1
   Baad e imam e lashkar e tashnadahan jo kuch hua
-  Kis se kahun kaise kahun ay karbala ay karbala
-  Kaise raqam ho bekasi behurmati ki dastaan
-  Ek kunba e aali mein sab ki dar badar ruswaiyan
+  Kis se kahuṅ kaise kahuṅ ae karbala ae karbala
+  Kaise raqam ho bekasi behurmati ki dastaaṅ
+  Ek kunba e aali meiṅ sab ki dar badar ruswaiyaṅ
 
   2
-  Ek mashk jisko kar gayi sairaab teeron ki zaban
-  Ek sabz parcham jhuk gaya jo khaak o khoon ke darmiyan
-  Ek aah jo seene se nikli aur faza mein kho gayi
-  Ek roshni jo din ki dhalti saanson mein so gayi
+  Ek mashk jisko kar gayi sairaab tiroṅ ki zabaṅ
+  Ek sabz parcham jhuk gaya jo khaak o khuṅ ke darmiyaṅ
+  Ek aah jo sine se nikli aur faza meiṅ kho gayi
+  Ek roshni jo din ki dhalti saansoṅ meiṅ so gayi
 
   3
-  Wo doodh maane hyderi ki aal e paighambar ki laash
-  Wo aayaton ki godh mein soye hue akbar ki laash
-  Wo ek bureeda baazuon waale alam parwar ki laash
-  Wo doodh peete loriyan sunte ali asghar ki laash
+  Wo dudh maane hyderi ki aal e paighambar ki laash
+  Wo aayatoṅ ki godh meiṅ soye hue akbar ki laash
+  Wo ek bureeda baazuoṅ waale alam parwar ki laash
+  Wo dudh pite loriyaṅ sunte ali asghar ki laash
 
   4
-  Masoom bache wahshiyon ki jhidkiyan khaaye huwe
+  Masum bache wahshiyoṅ ki jhirkiyaṅ khaaye huwe
   Aun o mohamed chote chote haath phailaye huwe
   Sajjad se zainab ka ye kehna ke maula jaagiye
-  Ghaflat se aankhein kholiye luta hai kunba jaagiye
+  Ghaflat se aankheiṅ kholiye luta hai kunba jaagiye
 
   5
-  Uth'te hai sholay dekhiye jalta hai qaima jaagiye
-  Ay baaqi e zurriat e yaseen o taha jaagiye
-  Saare mohafiz so rahe hai ashkiyan bezaal hai
-  Tauq o salasil muntazir hai bediyan tayyar hai
+  Uth'te hai shole dekhiye jalta hai qaima jaagiye
+  Ay baaqi e zurriat e yasin o taha jaagiye
+  Saare mohafiz so rahe hai ashkiyaṅ bezaal hai
+  Tauq o salasil muntazir hai beriyaṅ tayyar hai
 # source_id: nohayonline:8386348675162e755b61
 # source_url: https://www.nohayonline.com/details_content.php?id=1150
 # raw_sha256: 7ed9ad0dc0eeb4b834d21ae5b322cca6a6816acf2dc894b47e9222ef6aee0a09

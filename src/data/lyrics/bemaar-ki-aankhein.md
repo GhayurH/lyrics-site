@@ -1,6 +1,6 @@
 ---
 title: "بیمار کی آنکھیں ہیں اکبر تیرے راہوں پر"
-alternateTitle: "Bemaar Ki Aankhein"
+alternateTitle: "Bemaar Ki Aankheiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

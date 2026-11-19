@@ -12,75 +12,75 @@ published: false
 romanLyrics: |-
   1
   Qaime darya se hatane ko jo kuffaar chale
-  Is taraf ghaiz mein abbas e alamdar chale
+  Is taraf ghaiz meiṅ abbas e alamdar chale
   Haal ye dekh ke shabbir ne zainab se kaha
-  Koi tatbeer karo ran mein na talwaar chale
+  Koi tatbir karo ran meiṅ na talwaar chale
   Zainab rok lo abbas ko
   Bole ye shahe abraar
-  Kahin chal na pade talwaar
+  Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko
-  Ay saani e zehra dekh to lo
-  Ab saani e hyder ghaiz mein hai
+  E saani e zehra dekh to lo
+  Ab saani e hyder ghaiz meiṅ hai
   Qaimon ke hataye jaane se
-  Abbas e dilwar ghaiz mein hai
+  Abbas e dilwar ghaiz meiṅ hai
   Mehshar ke hai sab aasaar
-  Kahin chal na pade talwaar
+  Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko...
   Waada jo kiya tha nana se
   Hum usko nibhane aaye hai
-  Qaimon ki hamein kuch fikr nahi
-  Hum deen bachane aaye hai
+  Qaimon ki hameiṅ kuch fikr nahi
+  Hum din bachane aaye hai
   Mehnat na ho ye bekaar
-  Kahin chal na pade talwaar
+  Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko...
   Shabbar ke janaze par zainab
-  Jab teeron ki bauchar hui
-  Abbas ke tewar badle thay
-  Lekin na wahan yalghaar hui
-  Hai jang yahan tayyaar
-  Kahin chal na pade talwaar
+  Jab tiroṅ ki bauchar hui
+  Abbas ke tewar badle the
+  Lekin na wahaṅ yalghaar hui
+  Hai jang yahaṅ tayyaar
+  Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko...
   Is waqt hamare maqsad ko
-  Sanche mein wafa ke dhaalna hai
+  Sanche meiṅ wafa ke dhaalna hai
   Ye kaam tumhara hai zainab
   Abbas ka ghussa taalna hai
   Bikhra hai alambardaar
-  Kahin chal na pade talwaar
+  Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko...
-  Jab jab bhi usay ghaiz aaya hai
-  Har mod pe maine toka hai
+  Jab jab bhi use ghaiz aaya hai
+  Har mor pe maiṅ ne toka hai
   Talwaar uthaane se ab tak
-  Abbas ko maine roka hai
+  Abbas ko maiṅ ne roka hai
   Ab rokna hai dushwaar
-  Kahin chal na pade talwaar
+  Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko...
   Ye chaar moharram hai zainab
-  Ashoor mein thodi doori hai
+  Ashur meiṅ thori duri hai
   Abbas ko hum kaise roke
-  Ye sab se badi majboori hai
+  Ye sab se bari majburi hai
   Imdaad karo ek baar
-  Kahin chal na pade talwaar
+  Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko...
-  Talwaar se ran mein ghazi ne
-  Qat khaynch diya hai ay zainab
+  Talwaar se ran meiṅ ghazi ne
+  Qat khaynch diya hai ae zainab
   Hyder ki shuja'at ka waaris
-  Ghusse mein bhara hai ay zainab
-  Manzil hai badi dushwaar
-  Kahin chal na pade talwaar
+  Ghusse meiṅ bhara hai ae zainab
+  Manzil hai bari dushwaar
+  Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko...
   Taqeer na karo ab jald karo
   Lagta hai qayamat aati hai
   Ab dil ki hamare bechaini
-  Ye soch ke badti jaati hai
-  Badne na lage takraar
-  Kahin chal na pade talwaar
+  Ye soch ke barti jaati hai
+  Barne na lage takraar
+  Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko...
-  Ay aamir o fakhri aankhon se
-  Shabbir ke aansu behte thay
-  Bhai ke jo aansu behte thay
-  Wo pyari behen se kehte thay
+  Ae aamir o fakhri aankhoṅ se
+  Shabbir ke aansu behte the
+  Bhai ke jo aansu behte the
+  Wo pyari behen se kehte the
   Shabbir hai ab laachar
-  Kahin chal na pade talwaar
+  Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko...
 # source_id: nohayonline:08d8d9db57375a472da3
 # source_url: https://www.nohayonline.com/details_content.php?id=2458

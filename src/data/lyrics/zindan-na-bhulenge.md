@@ -1,6 +1,6 @@
 ---
 title: "زنداں زنداں نہ بھولیں گے ہم شام کا زنداں"
-alternateTitle: "Zindan Na Bhulenge"
+alternateTitle: "Zindaṅ Na Bhulenge"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,38 +10,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zindan zindan na bhoolenge hum Sham ka zindan
-  Nadan nadan zindan mein ek mar gayi nadan
+  Zindaṅ zindaṅ na bhoolenge hum Sham ka zindaṅ
+  Nadaṅ nadaṅ zindaṅ meiṅ ek mar gayi nadaṅ
 
   1
-  Wo Sham ke zindan mein Sakina ka tarapna
-  Tareeki se ghabra ke wo bachi ka bilakna
-  Jab yaad kiya ashkon ka jari hua tufan
+  Wo Sham ke zindaṅ meiṅ Sakina ka tarapna
+  Tariki se ghabra ke wo bachi ka bilakna
+  Jab yaad kiya ashkoṅ ka jari hua tufan
 
   2
   Kehti thi Sakina mere baba ko bula do
   Rab ke liye Amma Ali Akbar ko bula do
-  Kyun aate nahi lene mujhe mere chacha jaan
+  Kiuṅ aate nahi lene mujhe mere chacha jaan
 
   3
-  Jab baap ka sar beti ne zindan mein paya
+  Jab baap ka sar beti ne zindaṅ meiṅ paya
   Liptaya kaleje se sab ahwal sunaya
   Ummat ne kiya Nana ki kis darja pareshan
 
   4
   Nagah Sakina pe chali zulm ki talwar
-  Zindan mein namudar hua Shimr-e-sitamgar
-  Aur chhina Sakina se sar-e-Sarwar-e-zishan
+  Zindaṅ meiṅ namudar hua Shimr-e-sitamgar
+  Aur chhina Sakina se sar-e-Sarwar-e-zishaṅ
 
   5
-  Sar peet ke yun kehne lagi madar-e-muztar
+  Sar pit ke yuṅ kehne lagi madar-e-muztar
   Haye haye meri bachi mere sar par nahi chadar
-  Kis tarah se dukhiya main karun kafan ka saman
+  Kis tarah se dukhiya maiṅ karuṅ kafan ka samaṅ
 
   6
-  Majlis mein Sakina ke liye shor o fughan hai
+  Majlis meiṅ Sakina ke liye shor o fughaṅ hai
   Abbas dua mang lo ye waqt-e-dua hai
-  Jo dil mein tumhare hon wo sab pure hon arman
+  Jo dil meiṅ tumhare hoṅ wo sab pure hoṅ armaṅ
 # source_id: nohayonline:518f96e1aaf1868e5eb8
 # source_url: https://www.nohayonline.com/details_content.php?id=276
 # raw_sha256: 22a4ed17b3c1bdf32ec1d13fdba4e3da6f4b2d13a047282b90c2e9cac21724a8

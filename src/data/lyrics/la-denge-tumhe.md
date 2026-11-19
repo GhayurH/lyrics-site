@@ -12,41 +12,41 @@ published: false
 romanLyrics: |-
   1
   Mere ammu abbas
-  Jab pyaas badi pani na mila
+  Jab pyaas bari pani na mila
   To ro ke sakina ne di sada
-  Ay mere chacha mai tum pe fida
+  Ae mere chacha mai tum pe fida
   Asghar hai mera kab se pyasa
-  Tum pyason ki saqqayi karo
+  Tum pyasoṅ ki saqqayi karo
   Darya se hame pani la do
-  Sar choom ke phir shehzadi ka
+  Sar chum ke phir shehzadi ka
   Abbas e jari ne farmaya
-  La denge tumhe pani ye bacchon ko batado
-  Hum nehr pe jaate hai ay shehzadi dua do
-  Hum baithe hai do zaanu tum aage badho bibi
-  Khud haathon se mashkeeza kaandhe pe rakho bibi
-  Ay pyasi sakina hume saqqa to bana do
+  La denge tumhe pani ye bacchoṅ ko batado
+  Hum nehr pe jaate hai ae shehzadi dua do
+  Hum baithe hai do zaanu tum aage barho bibi
+  Khud haathoṅ se mashkeeza kaandhe pe rakho bibi
+  Ae pyasi sakina hume saqqa to bana do
   Hum nehr pe jaate hai...
-  Mai jaaun jo maidan mein teele pe chali aana
-  Khud dekhna aankhon se saahil pe mera jaana
-  Tum roz hi kehti thi ke siffeen suna do
+  Mai jaauṅ jo maidan meiṅ tile pe chali aana
+  Khud dekhna aankhoṅ se saahil pe mera jaana
+  Tum roz hi kehti thi ke siffin suna do
   Hum nehr pe jaate hai...
   Allah kare jaldi ye khatm udaasi ho
   Abbas ke hote bhi seh roz se pyasi ho
-  Mere bandhe haaton ko azaad kara do
+  Mere bandhe haatoṅ ko azaad kara do
   Hum nehr pe jaate hai...
   Izhaar na ho paya is quwwate baazu ka
-  Majboor e ita'at hai dil phat'ta hai ammu ka
+  Majbur e ita'at hai dil phat'ta hai ammu ka
   Lillaah ab na kehna meri pyaas bujha do
   Hum nehr pe jaate hai...
-  Khidmat mein bhatiji ki kaam aaye mere baazu
+  Khidmat meiṅ bhatiji ki kaam aaye mere baazu
   Bil-farz jo darya par kat jaaye mere baazu
-  Tadpogi nahi bibi yaqeen mujhko dila do
+  Tadpogi nahi bibi yaqin mujhko dila do
   Hum nehr pe jaate hai...
   Ye ruqsat e aakhir hai baba ko tujhe saumpa
-  Ab teeron ki baarish mein jaata hai tera saqqa
-  Ek shor hai faujon mei kamar sheh ki jhuka do
+  Ab tiroṅ ki baarish meiṅ jaata hai tera saqqa
+  Ek shor hai faujoṅ mei kamar sheh ki jhuka do
   Hum nehr pe jaate hai...
-  Pur khoon mein takallum jab wo mashk o alam dekhe
+  Pur khuṅ meiṅ takallum jab wo mashk o alam dekhe
   Abbas ke bete ne ro kar kaha bibi se
   Baba ki tarha se hame mashkeeza to laa do
   Hum nehr pe jaate hai...

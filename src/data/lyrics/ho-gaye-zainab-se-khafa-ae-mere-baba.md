@@ -19,7 +19,7 @@ romanLyrics: |-
   Karti hoon aahon booka (Aai mere baba)
   Zulma ye kaisa hua (Aai mere baba)
   Zulma ye kaisa hua (Aai mere baba)
-  Kyun Sunte nahin meri sadaa kisko pukaroon
+  Kiun Sunte nahin meri sadaa kisko pukaroon
   Saaya hai mere sar se utha kisko pukaroon
   Zarba ye kaisi lagi (Aai mere baba)
   Kaun thaa aaisa shaqi (Aai mere baba)

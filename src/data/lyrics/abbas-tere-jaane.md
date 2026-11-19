@@ -16,45 +16,45 @@ romanLyrics: |-
   Abbas abbas
   Chin gayi sar se rida koi baakhi na raha
   Abbas tere jaane ke baad
-  Taane deta hai mujhe dekh ke yun shimre layeen
+  Taane deta hai mujhe dekh ke yuṅ shimre layiṅ
   Teri awaaz pe abbas tera aata nahi
-  Bangayi farshe aza tere liye ab ye zameen
-  Sham jaana hi pada ye sitam mujhpe hua
+  Bangayi farshe aza tere liye ab ye zamiṅ
+  Sham jaana hi para ye sitam mujhpe hua
   Abbas tere jaane...
-  Ro ke kulsoom teri yaad mein karti hai buka
+  Ro ke kulsum teri yaad meiṅ karti hai buka
   Teri haibat se kabhi soye nahi ahle jafa
   Kaisi badli ye tere baad zamane ki hawa
   Khush huwe ahle sitam so nahi paaye jo hum
   Abbas tere jaane...
-  Raah mein aale payambar ka dilasa mai bani
+  Raah meiṅ aale payambar ka dilasa mai bani
   Shaam ke log tamashayi tamasha mai bani
-  Zakhm sadaat ne paaye to maseeha mai bani
+  Zakhm sadaat ne paaye to masiha mai bani
   Mai hi salaar bani mai alamdar bani
   Abbas tere jaane...
-  Haye darbar mein aulaad e nabi aa pahunchi
-  Aur sakina ko kaneezi mein bulaata hai shaki
+  Haye darbar meiṅ aulaad e nabi aa pahunchi
+  Aur sakina ko kanizi meiṅ bulaata hai shaki
   Kis se faryad karoo tu hi bata mere aqi
   Aur kya hoga sitam kitne lachaar hai hum
   Abbas tere jaane...
   Naam lekar jo sitamgar ne bulaya mujhko
   Amma fizza ne pasay pusht chupaya mujhko
-  Yun bhi pardes mein aada ne sataya mujhko
-  Aise aalam mein bhala kisko mai deti sada
+  Yuṅ bhi pardes meiṅ aada ne sataya mujhko
+  Aise aalam meiṅ bhala kisko mai deti sada
   Abbas tere jaane...
-  Hind zindan mein aayi to ye kohraam utha
+  Hind zindan meiṅ aayi to ye kohraam utha
   Meri barbadi ka jab hind ne ehwaal suna
-  Apna sar peet ke wo karne lagi wavaila
+  Apna sar pit ke wo karne lagi wavaila
   Dekh kaisa hai sitam qaid hai ahle haram
   Abbas tere jaane...
-  Tauq o zanjeer se sajjad jo azad huwe
+  Tauq o zanjir se sajjad jo azad huwe
   Qabr pe bali sakina ke gaye rote huwe
   Rukh suye karbobala kar ke yehi bain kiye
   Seh nahi paayi sitam dukhtare shaahe umam
   Abbas tere jaane...
   Shaam se mazhar o farhan rehaai jo mili
-  Aaye maqtal mein salami ke liye sab qaidi
+  Aaye maqtal meiṅ salami ke liye sab qaidi
   Ghutniyo chalti hui bhai ke markhad pe gayi
-  Thay ye zainab ke sukhan mar gayi kyun na bahan
+  The ye zainab ke sukhan mar gayi kiuṅ na bahan
   Abbas tere jaane...
 # source_id: nohayonline:fe22f89e559329acdd4b
 # source_url: https://www.nohayonline.com/details_content.php?id=104

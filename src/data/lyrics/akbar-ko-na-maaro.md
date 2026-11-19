@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ay baba alaika minni as salaam
+  Ae baba alaika minni as salaam
   Jab ye awaaz suni jawan bete ki
   Shaah gir gir ke uthe suye maidan chale
   Haath akbar ka kaleje pe jo dekha to kaha
-  Ay barchiyon waalon akbar ko na maaro
+  Ae barchiyoṅ waaloṅ akbar ko na maaro
   Mere akbar ko na maaro
-  Allah allah kahin teer kahin bhaala hai
-  Kya isay barchiyan khaane ke liye paala hai
-  Ye mera noore nazar shabihe paighambar
-  Ye agar maara gaya mai bhi na jee paaunga
-  Ay barchiyon waalon...
+  Allah allah kahiṅ tir kahiṅ bhaala hai
+  Kya ise barchiyaṅ khaane ke liye paala hai
+  Ye mera nure nazar shabihe paighambar
+  Ye agar maara gaya mai bhi na ji paaunga
+  Ae barchiyoṅ waalon...
   Haye abbas ke marne se kamar may kham hai
   Aur akbar ki judaai may nazar bhi kam hai
-  Dekho mai tanha hoo ghareeb kitna hoo
+  Dekho mai tanha hoo gharib kitna hoo
   Mera ab koi nahi hai ali akbar ke siwa
-  Ay barchiyon waalon...
+  Ae barchiyoṅ waalon...
   Ghayr kar dasht may tum maar rahe ho jis ko
-  Mil ke do maaon ne parwaan chadaya is ko
-  Naiza bardaron ruko kuch to ehsaas karo
+  Mil ke do maaoṅ ne parwaan charaya is ko
+  Naiza bardaroṅ ruko kuch to ehsaas karo
   Seh na payengi ye gham zainab o umme laila
-  Ay barchiyon waalon...
+  Ae barchiyoṅ waalon...
   Kabhi akbar to kabhi suye madina dekha
   Dasht may jaate huwe yaad jab aayi sughra
-  Bole maula ro kar wo yahan hoti agar
-  Dekhti kaisi jawan bhai ka zakhmi seena
-  Ay barchiyon waalon...
+  Bole maula ro kar wo yahaṅ hoti agar
+  Dekhti kaisi jawaaṅ bhai ka zakhmi seena
+  Ae barchiyoṅ waalon...
   Kya tumhari koi aulaad nahi hai bolo
-  Beta kis tarha jawan hota hai mujhse poocho
-  Gurz se zakhmi hai sar hai lahoo chehre par
+  Beta kis tarha jawaaṅ hota hai mujhse pucho
+  Gurz se zakhmi hai sar hai lahu chehre par
   Mera armaan tha akbar ke ho sar par sehra
-  Ay barchiyon waalon...
+  Ae barchiyoṅ waalon...
   Maula jab bete ke paas aaye suno kya dekha
-  Aediyan khaak pe akbar ko ragadta dekha
-  Sabr phir toot gaya shaah ne ro ke kaha
+  Aeriyaṅ khaak pe akbar ko ragadta dekha
+  Sabr phir tut gaya shaah ne ro ke kaha
   Shiddat e dard se mar jaaye na akbar mera
-  Ay barchiyon waalon...
-  Kya kabhi socha hai zeeshan aur irfan e aza
+  Ae barchiyoṅ waalon...
+  Kya kabhi socha hai zishan aur irfan e aza
   Kaise us baap ne bete ka uthaaya laasha
   Haye jo qaimon se ghutniyo chalte huwe
-  Naujawan laash tak aaya ye sada deta hua
-  Ay barchiyon waalon...
+  Naujawaṅ laash tak aaya ye sada deta hua
+  Ae barchiyoṅ waalon...
 # source_id: nohayonline:4ef40f49099ae2efbf27
 # source_url: https://www.nohayonline.com/details_content.php?id=1646
 # raw_sha256: f9696027d153347f20d6ef32de80426dd7a6eb019e496cdb33b930965a48db25

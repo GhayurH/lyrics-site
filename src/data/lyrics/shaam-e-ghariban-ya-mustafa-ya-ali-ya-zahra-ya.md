@@ -13,55 +13,55 @@ romanLyrics: |-
   1
   Ya mustafa ya ali ya zahra ya zahra
   Kya aayi qayamat
-  Ye bekason ki shaam aseeron ki shaam hai
-  Ye tashnalab ghareeb shaheedon ki shaam hai
-  Suraj gawah hai ke yateemon ki shaam hai
-  Ye shaam e ghariban hai ye shaam e ghariban hai
-  Ye shaam e ghariban hai ghareebon ki shaam hai
-  Pardes mein ghareeb musafir ki shaam hai
-  Ay zikr e kibriya tere zakir ki shaam hai
-  Deen e mohammadi tere nasir ki shaam hai
-  Ye shaam e ghariban hai...
-  Tapti hui zameen pe hai tashna labon ki shaam
-  Mazloomon ki ye shaam hai ye bakson ki shaam
-  Ye shaam hai aseeron ki ye qaidiyon ki shaam
-  Ye shaam e ghariban hai...
-  Apne gharon se door hai ye ghamzadon ki shaam
-  Jo hai nigaah e aal mein un aansuon ki shaam
-  Doobe jo apne khoon mein un gaysuon ki shaam
-  Ye shaam e ghariban hai...
+  Ye bekasoṅ ki shaam asiroṅ ki shaam hai
+  Ye tashnalab gharib shahidoṅ ki shaam hai
+  Suraj gawah hai ke yatimoṅ ki shaam hai
+  Ye shaam e gharibaṅ hai ye shaam e gharibaṅ hai
+  Ye shaam e gharibaṅ hai ghariboṅ ki shaam hai
+  Pardes meiṅ gharib musafir ki shaam hai
+  E zikr e kibriya tere zakir ki shaam hai
+  Din e mohammadi tere nasir ki shaam hai
+  Ye shaam e gharibaṅ hai...
+  Tapti hui zamiṅ pe hai tashna laboṅ ki shaam
+  Mazlumoṅ ki ye shaam hai ye baksoṅ ki shaam
+  Ye shaam hai asiroṅ ki ye qaidiyoṅ ki shaam
+  Ye shaam e gharibaṅ hai...
+  Apne gharoṅ se dur hai ye ghamzadoṅ ki shaam
+  Jo hai nigaah e aal meiṅ un aansuoṅ ki shaam
+  Dube jo apne khun meiṅ un gaysuoṅ ki shaam
+  Ye shaam e gharibaṅ hai...
   Bewarison ki shaam hai shaam e alam hai ye
-  Behaal jis mein bacche hai wo shaam e gham hai ye
-  Shaam e musafiran hai ye shaam e haram hai ye
-  Ye shaam e ghariban hai...
-  Zulm o sitam ki dasht mein yan inteha hai ye
-  Tashna labon ke waaste tayghe jafa hai ye
+  Behaal jis meiṅ bacche hai wo shaam e gham hai ye
+  Shaam e musafiraṅ hai ye shaam e haram hai ye
+  Ye shaam e gharibaṅ hai...
+  Zulm o sitam ki dasht meiṅ yaṅ inteha hai ye
+  Tashna laboṅ ke waaste tayghe jafa hai ye
   Saydaniyo ke waaste shaam e qaza hai ye
-  Ye shaam e ghariban hai...
-  Kehte hai jisko shaam e ghariban wo shaam hai
-  Aayi jo baad e shaah e shaheedan wo shaam hai
-  Khoon jis mein roya aankhon se quran wo shaam hai
-  Ye shaam e ghariban hai...
-  Bhooli na jisko aale payambar wo shaam hai
-  Veeran hua hai jis mein bhara ghar wo shaam hai
-  Jis mein luti hai aal ki chadar wo shaam hai
-  Ye shaam e ghariban hai...
-  Ye bekason shaheedon ke laashon ki shaam hai
-  Jism e shahe ghareeb ke zakhmon ki shaam hai
-  Shohda e haq ke khoon ke khatron ki shaam hai
-  Ye shaam e ghariban hai...
+  Ye shaam e gharibaṅ hai...
+  Kehte hai jisko shaam e gharibaṅ wo shaam hai
+  Aayi jo baad e shaah e shahidaṅ wo shaam hai
+  Khuṅ jis meiṅ roya aankhoṅ se quraṅ wo shaam hai
+  Ye shaam e gharibaṅ hai...
+  Bhuli na jisko aale payambar wo shaam hai
+  Veeran hua hai jis meiṅ bhara ghar wo shaam hai
+  Jis meiṅ luti hai aal ki chadar wo shaam hai
+  Ye shaam e gharibaṅ hai...
+  Ye bekasoṅ shahidoṅ ke laashoṅ ki shaam hai
+  Jism e shahe ghareeb ke zakhmoṅ ki shaam hai
+  Shohda e haq ke khun ke khatroṅ ki shaam hai
+  Ye shaam e gharibaṅ hai...
   Sadaat ke lute huwe kunbe ki shaam hai
-  Baysheer ke jale huwe jhoole ki shaam hai
+  Baysheer ke jale huwe jhule ki shaam hai
   Naushaah ke kate huwe sehre ki shaam hai
-  Ye shaam e ghariban hai...
+  Ye shaam e gharibaṅ hai...
   Binte nabi ke haye lute ghar ki shaam hai
   Ghurbat ki shaam hai shahe bebar ki shaam hai
   Bikhre huwe nabi ke gul e tar ki shaam hai
-  Ye shaam e ghariban hai...
-  Dayam hai ye aseer ye aale aba ki shaam
-  Yazdan hai ye sakina pe jor o jafa ki shaam
-  Suraj ghuroob hogaya aayi qaza ki shaam
-  Ye shaam e ghariban hai...
+  Ye shaam e gharibaṅ hai...
+  Dayam hai ye asir ye aale aba ki shaam
+  Yazdaṅ hai ye sakina pe jor o jafa ki shaam
+  Suraj ghurub hogaya aayi qaza ki shaam
+  Ye shaam e gharibaṅ hai...
 # source_id: nohayonline:162d06e281fda9afd3a9
 # source_url: https://www.nohayonline.com/details_content.php?id=2497
 # raw_sha256: 292ebc643143f1ceda8abc487fb8c76edddb63d3aec0d88e16422f215da0c1e1

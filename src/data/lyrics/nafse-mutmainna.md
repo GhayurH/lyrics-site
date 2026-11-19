@@ -13,84 +13,84 @@ romanLyrics: |-
   1
   Karbala ki shaam hai
   Asr ka hangaam hai
-  Hussain zuljanah par sawaar hai
-  Lad raha hai teen shab o roz ka pyasa
-  Haatif e ghaibi ki ye goonji sada
+  Husain zuljanah par sawaar hai
+  Lar raha hai tin shab o roz ka pyasa
+  Haatif e ghaibi ki ye gunji sada
   Ya ayatuhan nafsul mutmainnah
-  Irjaee ila rabbik
+  Irjai ila rabbik
   Laut aa laut aa nafse mutmainna
-  Ya hussain ya hussain
+  Ya Husain ya Husain
   Ghar se chala tu is emaan par
   Aanch nahi aayegi quran par
-  Karz tera khoon hai insan par
+  Karz tera khun hai insan par
   Hogi khushi tujh ko yehi jaan kar
-  Tu ne mujhe jeet liya ya hussain
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Teen shab o roz tu pyasa raha
-  Laashon pe laashe bhi uthata raha
+  Tin shab o roz tu pyasa raha
+  Laashoṅ pe laashe bhi uthata raha
   Sabr ke johar bhi dikhata raha
   Shukr mera lab pe sajata raha
-  Tu ne mujhe jeet liya ya hussain
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Doob gaya nehr mein bayyat ka naam
+  Dub gaya nehr meiṅ bayyat ka naam
   Teri shaja'at pe karunga kalaam
   Tu ne kiya hurr ko alaihis salaam
-  Kyun na kahun fakhr se ay tishnakaam
-  Tu ne mujhe jeet liya ya hussain
+  Kiuṅ na kahuṅ fakhr se ae tishnakaam
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Apne bhare ghar ko luta kar hussain
-  Laasha e akbar ko utha kar hussain
-  Laashon se maqtal ko saja kar hussain
-  Waada e tifli ko nibha kar hussain
-  Tu ne mujhe jeet liya ya hussain
+  Apne bhare ghar ko luta kar Husain
+  Laasha e akbar ko utha kar Husain
+  Laashoṅ se maqtal ko saja kar Husain
+  Waada e tifli ko nibha kar Husain
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Maut pe tu dasht mein aise gira
+  Maut pe tu dasht meiṅ aise gira
   Maut ke maathe pe pasina mila
   Kehte hai sab auliya sab ambiya
   Jo na koi kar saka tu ne kiya
-  Tu ne mujhe jeet liya ya hussain
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Tu ne sitamgaaron ko ruswa kiya
-  Parchame islam ko ooncha kiya
+  Tu ne sitamgaaroṅ ko ruswa kiya
+  Parchame islam ko uncha kiya
   Zulm saha sabr ka sajda kiya
   Jo kisi insan ne aisa kiya
-  Tu ne mujhe jeet liya ya hussain
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Tu mere quran ki tafseer hai
-  Tu hi mere deen ki taqdeer hai
-  Karbobala khuld ki tasveer hai
-  Meri riza ab teri jageer hai
-  Tu ne mujhe jeet liya ya hussain
+  Tu mere quran ki tafsir hai
+  Tu hi mere din ki taqdir hai
+  Karbobala khuld ki tasvir hai
+  Meri riza ab teri jagir hai
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Jo bhi gaya dasht mein be-sar hua
-  Khoon mein ghazi ka alam tar hua
+  Jo bhi gaya dasht meiṅ besar hua
+  Khun meiṅ ghazi ka alam tar hua
   Kis tarha barbaad tera ghar hua
-  Qatl tere haathon pe asghar hua
-  Tu ne mujhe jeet liya ya hussain
+  Qatl tere haathoṅ pe asghar hua
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
   Maut ne maanga tha faqat ek sar
   Tu ne diye us ko bahattar magar
   Nukta e baa sirf hai tera padar
-  Maani e zibhe azeem amad pisar
-  Tu ne mujhe jeet liya ya hussain
+  Maani e zibhe azim amad pisar
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-  Teri madad ke liye aaye thay sab
-  Zehra thi hum raahe ameer e arab
-  Zaafar e jinn aaye thay behre adab
+  Teri madad ke liye aaye the sab
+  Zehra thi hum raahe amir e arab
+  Zaafar e jinn aaye the behre adab
   Reh gaye khamosh magar tere lab
-  Tu ne mujhe jeet liya ya hussain
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
   Roti rahi zainab e nashaad bhi
   Teri sakina tera sajjad bhi
   Teri tarha thi teri aulaad bhi
   Karte rahe shukr bhi faryad bhi
-  Tu ne mujhe jeet liya ya hussain
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
   Aur kahe mazhar o farhan kya
   Tere bina fikr kya emaan kya
-  Deen kya tauheed kai quran kya
+  Din kya tauhid kai quran kya
   Tere liye kehta hai subhaan kya
-  Tu ne mujhe jeet liya ya hussain
+  Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
 # source_id: nohayonline:c47c87270be26171588f
 # source_url: https://www.nohayonline.com/details_content.php?id=3022

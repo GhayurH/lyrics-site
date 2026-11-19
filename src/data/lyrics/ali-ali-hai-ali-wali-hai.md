@@ -34,15 +34,15 @@ romanLyrics: |-
 
   4
   Ghubaar dil ka hai rukh pe chaaya
-  Alam ali ne hai ran mein paaya
+  Alam ali ne hai ran meiṅ paaya
   Kisi ka chehra damak raha hai
-  Kisi ki rangat udi udi hai
+  Kisi ki rangat uri uri hai
 
   5
   Zamana dekhe to zulm ki had
   Hue hai aale nabi muqayyad
   Ba-rehna sar hai ali ki beti
-  Rida bhi aada ne cheen li hai
+  Rida bhi aada ne chin li hai
 ---
 
 بدل رہا ہے نظامِ دوعالم

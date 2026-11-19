@@ -1,6 +1,6 @@
 ---
 title: "قبر اصغرؑ کی بنانے میں بہت دیر لگی"
-alternateTitle: "Qabr Asghar Ki Banane Mein Bohat Dair Lagi"
+alternateTitle: "Qabr Asghar Ki Banane Meiṅ Bohat Dair Lagi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,37 +11,37 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Qabr Asghar Ki Banane Mein Bohat Dair Lagi
+  Qabr Asghar Ki Banane Meiṅ Bohat Dair Lagi
 
-  Sheh Ko Ek Chand Chhupane Mein Bohat Dair Lagi
+  Sheh Ko Ek Chand Chhupane Meiṅ Bohat Dair Lagi
 
   1
-  Kuch Qadam Door Hai Bazar Se Darbar Magar
-  Phir Bhi Shehzadi Ko Aane Mein Bohat Dair Lagi
+  Kuch Qadam Dur Hai Bazar Se Darbar Magar
+  Phir Bhi Shehzadi Ko Aane Meiṅ Bohat Dair Lagi
 
   2
   Sheh Ne Har Lash Ko Jaldi Se Uthaya Lekin
-  Lash-e-Akbar Ki Uthane Mein Bohat Dair Lagi
+  Lash-e-Akbar Ki Uthane Meiṅ Bohat Dair Lagi
 
   3
   Tukre Chunte Hue Qasim Ke Kaha Maula Ne
-  Haye Afsos Ke Aane Mein Bohat Dair Lagi
+  Haye Afsos Ke Aane Meiṅ Bohat Dair Lagi
 
   4
   Is Qadar Pyas Se Sukha Tha Gulu-e-Sarwar
-  Shimr Ko Tegh Chalane Mein Bohat Dair Lagi
+  Shimr Ko Tegh Chalane Meiṅ Bohat Dair Lagi
 
   5
-  Baap Ki Lash Se Durron Ki Aziyat De Kar
-  Ek Bachi Ko Hatane Mein Bohat Dair Lagi
+  Baap Ki Lash Se Durroṅ Ki Aziyat De Kar
+  Ek Bachi Ko Hatane Meiṅ Bohat Dair Lagi
 
   6
-  Chand Satrein Thin Magar Lash-e-Ali Akbar Par
-  Sheh Ko Khat Parh Ke Sunane Mein Bohat Dair Lagi
+  Chand Satreiṅ Thiṅ Magar Lash-e-Ali Akbar Par
+  Sheh Ko Khat Parh Ke Sunane Meiṅ Bohat Dair Lagi
 
   7
   Karbala Ja Ke Takallum Ne Yehi Puchha Tha
-  Mujhko Sarkar Bulane Mein Bohat Dair Lagi
+  Mujhko Sarkar Bulane Meiṅ Bohat Dair Lagi
 ---
 
 قبر اصغر کی بنانے میں بہت دیر لگی

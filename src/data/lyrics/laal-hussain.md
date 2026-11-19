@@ -1,6 +1,6 @@
 ---
 title: "تنہا علی کا لال تھا نو لاکھ اشقیاں"
-alternateTitle: "Laal Hussain"
+alternateTitle: "Laal Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Tanha ali ka laal tha nau laakh ashkiyan
-  Zakhmon se choor garm hawa khushk tha gala
-  Shimr e layeen aasteen ulte huwe badha
+  Tanha ali ka laal tha nau laakh ashkiyaṅ
+  Zakhmoṅ se chur garm hawa khushk tha gala
+  Shimr e layiṅ aastin ulte huwe barha
   Khanjar abhi chala nahi tha ke ek maa ne di sada
-  Ban mein thay maa ke ye bain
+  Ban meiṅ the maa ke ye bain
   Kaise mai paaungi chain
-  O mere laal hussain
-  Marqad ko apne chod ke sehra mein aayi hoon
-  Muztar hoon ghamzada hoon falak ki satayi hoon
-  Aankhon mein ashk ko chupa kar mai laayi hoon
-  Bikhre huwe hai baal ye deti duhaai hoon
-  O mere laal hussain...
-  Paala hai chakki pees ke kitne jatan kiye
-  Sookhe abhi nahi mere haathon ke aabile
-  Kis tarha dekh paungi khanjar talay tujhe
+  O mere laal Husain
+  Marqad ko apne chor ke sehra meiṅ aayi huṅ
+  Muztar huṅ ghamzada huṅ falak ki satayi huṅ
+  Aankhoṅ meiṅ ashk ko chupa kar mai laayi huṅ
+  Bikhre huwe hai baal ye deti duhaai huṅ
+  O mere laal Husain...
+  Paala hai chakki pis ke kitne jatan kiye
+  Sukhe abhi nahi mere haathoṅ ke aabile
+  Kis tarha dekh paungi khanjar tale tujhe
   Maa keh ke ek baar to awaaz de mujhe
-  O mere laal hussain...
-  Bachpan mein tujhko dhoop mein jaane nahi diya
+  O mere laal Husain...
+  Bachpan meiṅ tujhko dhup meiṅ jaane nahi diya
   Aur aaj tere jism se suraj guzar gaya
-  Haye haye kisi ne aake udhayi nahi rida
-  Aa mere bikhre baalon ke chaon mein baith ja
-  O mere laal hussain...
+  Haye haye kisi ne aake urhayi nahi rida
+  Aa mere bikhre baaloṅ ke chaoṅ meiṅ baith ja
+  O mere laal Husain...
   Tujhpe nahi ye taygh mere dil pe chalti hai
-  Ek aah mere seene se paiham nikalti hai
-  Jalte hai zakhm tere zameen itni jalti hai
-  Majboor teri maa hai khadi haath malti hai
-  O mere laal hussain...
-  Zakhmon se khaak saaf karungi rida se mai
+  Ek aah mere sine se paiham nikalti hai
+  Jalte hai zakhm tere zamin itni jalti hai
+  Majbur teri maa hai khari haath malti hai
+  O mere laal Husain...
+  Zakhmoṅ se khaak saaf karungi rida se mai
   Wapas na jaungi kabhi ab karbala se mai
   Poochungi ye sawaal abhi alqama se mai
-  Teri jafa ka shikwa karun kya khuda se mai
-  O mere laal hussain...
+  Teri jafa ka shikwa karuṅ kya khuda se mai
+  O mere laal Husain...
   Tu gham na kar chalegi tere saath saath maa
-  Ho kar sawaar naize pe jayega tu jahan
-  Tere baghair ab mujhe aaraam hai kahan
-  Nauha kuna rahegi ye kehte huwe zaban
-  O mere laal hussain...
-  Be-gor o be-kafan mere bacche tujhe salaam
+  Ho kar sawaar naize pe jayega tu jahaṅ
+  Tere baghair ab mujhe aaraam hai kahaṅ
+  Nauha kuna rahegi ye kehte huwe zabaṅ
+  O mere laal Husain...
+  begor o bekafan mere bacche tujhe salaam
   Bakshi na jayegi kisi surat ye fauje shaam
-  Ay tashna lab ghareeb mohamed ke laal afaam
-  Jageer daar khuld ki jageer tere naam
-  O mere laal hussain...
+  Ae tashna lab gharib mohamed ke laal afaam
+  Jagir daar khuld ki jagir tere naam
+  O mere laal Husain...
   Karbobala larazti thi zehra ke bain se
-  Binte rasool hogayi mehroom chain se
-  Uth'ta tha shor qabre shahe mashraqain se
-  Rehaan jab ye kehti thi zehra hussain se
-  O mere laal hussain...
+  Binte rasul hogayi mehrum chain se
+  Uthta tha shor qabre shahe mashraqain se
+  Rehaan jab ye kehti thi zehra Husain se
+  O mere laal Husain...
 # source_id: nohayonline:5d6a20d2a3315c44ab0f
 # source_url: https://www.nohayonline.com/details_content.php?id=2927
 # raw_sha256: 5eb1a8caaba8f073db7d252e255a08d18cd3794692bbc9907df52174ea885e1a

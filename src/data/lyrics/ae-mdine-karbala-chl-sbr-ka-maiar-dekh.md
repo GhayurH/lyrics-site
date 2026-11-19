@@ -8,16 +8,16 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aey Madinay Karbala chal sabr ka mayar dekh
-  Lashkar e Shabbir may hay khoobi e kirdar dekh
+  Ae Madine Karbala chal sabr ka mayar dekh
+  Lashkar e Shabbir may hai khubi e kirdar dekh
 
   1
-  Zainab e muztar ke khaimay se nikal kar dasht may
-  Aa rahay hain aath sala Jafar e Tayyar dekh
+  Zainab-e-muztar ke khaime se nikal kar dasht may
+  Aa rahe haiṅ aath sala Jafar e Tayyar dekh
 
   2
-  Aon ki soorat ki may aa kar dushmanan e deen se
-  Larr rahay hain nau bara se Haider e Karrar dekh
+  Aon ki surat ki may aa kar dushmanan-e-din se
+  Larr rahe haiṅ nau bara se Haider e Karrar dekh
 
   3
   Ran may teera saal ke Shabbar ye keh kar aa gaye
@@ -28,28 +28,28 @@ romanLyrics: |-
   Dekh atthara baras ke Ahmed e Mukhtar dekh
 
   5
-  Waqt ke Marhab ki fojain Alqama se hat gayeen
+  Waqt ke Marhab ki fojaiṅ Alqama se hat gayiṅ
   Nehr par bat-tees sala Haider e Karrar dekh
 
   6
-  Kar ke saiqal khush honton par hansi ki zulfiqar
-  Cheh mahinay ke Ali hain bar sar e paikar dekh
+  Kar ke saiqal khush hontoṅ par hansi ki zulfiqar
+  Cheh mahine ke Ali haiṅ bar sar-e-paikar dekh
 
   7
-  Goshwaray tak diye hain deen e haq ki raah may
-  Chaar sala Fatima ka jazba e eesar dekh
+  Goshware tak diye haiṅ din-e-haq ki raah may
+  Chaar sala Fatima ka jazba-e-isar dekh
 
   8
-  Shaam ke darbar may chal khutba e Zainab ko sun
+  Shaam ke darbar may chal khutba-e-Zainab ko sun
   Aaj phir pachpan baras ka Fatimi kirday dekh
 
   9
-  Kon jeeta lon hara surkhiyon may hay likha
-  Aey muarrikh Shaam ke darbar ka akhbar dekh
+  Kon jita lon hara surkhiyoṅ may hai likha
+  Ae muarrikh Shaam ke darbar ka akhbar dekh
 
   10
-  Deen e haq ke aayinay may dil ki ankhon se Mujeeb
-  Ahle bait e Mustafa ka aik aik kirdar dekh
+  Din-e-haq ke aayine may dil ki ankhoṅ se Mujib
+  Ahle bait-e-Mustafa ka aik aik kirdar dekh
 # source_id: ziyaraat:e4e5c8dcc0609782353c
 # source_url: https://www.ziyaraat.net/api/noha/2213
 # raw_sha256: 406cfb999986884c3c5db4d8e5a31197591095eaa68365ccce8095e45870bb07

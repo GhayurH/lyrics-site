@@ -13,77 +13,77 @@ romanLyrics: |-
   1
   Jab huye baazu e abbas qalam darya par
   Gir ke thanda hua hazrat ka alam darya par
-  Ghark e khoon hogaya wo behre karam darya par
+  Ghark e khuṅ hogaya wo behre karam darya par
   Gul tha zakhmi hua saqqa e haram darya par
 
   2
-  Mashk ko daanton mein pakde hui yun laata hai
-  Dahne sher mein jis tarha shikaar aata hai
+  Mashk ko daantoṅ meiṅ pakre hui yuṅ laata hai
+  Dahne sher meiṅ jis tarha shikaar aata hai
   Algarz laasha e abbas pe aaye maula
   Sar ko zaanu pe rakha aur ye ro ro ke kaha
 
   3
-  Bhai to aaj hamein kehdo khudara bhaiya
-  Nazha mein bhai ko abbas ne bhai bola
-  Aakhri saans li aur daare fana chod diya
-  Bhai ne bhai ki aagosh mein dam tod diya
+  Bhai to aaj hameiṅ kehdo khudara bhaiya
+  Nazha meiṅ bhai ko abbas ne bhai bola
+  Aakhri saans li aur daare fana chor diya
+  Bhai ne bhai ki aagosh meiṅ dam tor diya
 
   4
   Abbas haye abbas abbas haye abbas
   Hazrat se juda hogaya abbas sa bhai
-  Pardes mein looti gayi hyder ki kameini
+  Pardes meiṅ luti gayi hyder ki kameini
   Hazrat se juda hogaya...
 
   5
   Sheh ne ye kaha laasha e saqqa e haram se
   Baba ki tarha tum bhi juda hogaye hum se
-  Do baar yateemi meri behno pe hai aayi
+  Do baar yatimi meri behno pe hai aayi
   Hazrat se juda hogaya...
 
   6
-  Mazloom se maqtal mein chala hi nahi jaata
+  Mazlum se maqtal meiṅ chala hi nahi jaata
   Jab khaak pe girte hai utha bhi nahi jaata
   Ghazi ki shahadat ne kamar aisi jhukayi
   Hazrat se juda hogaya...
 
   7
-  Bachi ne kaha shaah se farz apna nibhaun
-  Nazdeek agar hai koi basti to mai jaaun
+  Bachi ne kaha shaah se farz apna nibhauṅ
+  Nazdik agar hai koi basti to mai jaauṅ
   Ammu ka kafan layegi ammu ki fidayi
   Hazrat se juda hogaya...
 
   8
-  Abbas ke bachon se mai sharminda rahunga
+  Abbas ke bachoṅ se mai sharminda rahunga
   Maqtal se utha laaya hoo har ek ka laasha
   Afsos ke abbas ki mayyat na uthayi
   Hazrat se juda hogaya...
 
   9
-  Khat khaak pe dete thay qadam zeen se jiske
-  Maidan mein us sher ke itne huwe tukde
-  Sajjad ne chadar mein wo mayyat hai uthayi
+  Khat khaak pe dete the qadam zin se jiske
+  Maidan meiṅ us sher ke itne huwe tukre
+  Sajjad ne chadar meiṅ wo mayyat hai uthayi
   Hazrat se juda hogaya...
 
   10
-  Darya bhi tadapne laga ye dekh ke manzar
-  Yaad aane laga seena e hamshakle payambar
-  Jab mashk kate haath se maula ne chudayi
+  Darya bhi tarapne laga ye dekh ke manzar
+  Yaad aane laga sina e hamshakle payambar
+  Jab mashk kate haath se maula ne churayi
   Hazrat se juda hogaya...
 
   11
-  Sadiyon se hai taari ye fiza ranj o alam ki
-  Ye chand jo ojhal hua nazron se haram ki
-  Phir saani e zehra ne kahan eid manayi
+  Sadiyoṅ se hai taari ye fiza ranj o alam ki
+  Ye chand jo ojhal hua nazroṅ se haram ki
+  Phir saani e zehra ne kahaṅ eid manayi
   Hazrat se juda hogaya...
 
   12
   Ammu ki judayi pe bohat roye hai baba
-  Samjhaati hai ro ro ke ye bachon ko sakina
+  Samjhaati hai ro ro ke ye bachoṅ ko sakina
   Ab dena nahi koi bhi pani ki duhayi
   Hazrat se juda hogaya...
 
   13
-  Har matami seene mein bapa hoga talatum
+  Har matami sine meiṅ bapa hoga talatum
   Is saal tera jaana to mushkil hai takallum
   Nauhe ki magar karbobala tak hai rasayi
   Hazrat se juda hogaya...

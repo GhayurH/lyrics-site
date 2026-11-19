@@ -13,75 +13,75 @@ romanLyrics: |-
   1
   Alwida kul ke madadgaar alwida hyder e karrar
   Baba ko dafn kar ke jo aaye hasnain
-  Dekha gali mein rota hai koi ba-shor o shain
+  Dekha gali meiṅ rota hai koi ba-shor o shain
   Aaye aur uske pass kaha bhai kya hua
   Wo ro ke sar patakta tha aur karta tha ye bain
   Haye wo nahi aaya haye wo nahi aaya
-  Ek faqeer deta tha sada haye wo nahi aaya
-  Teen din ka faqa hogaya haye wo nahi aaya
+  Ek faqir deta tha sada haye wo nahi aaya
+  Tin din ka faqa hogaya haye wo nahi aaya
   Jab andhera sar pe chaata tha
   Wo hamare paas aata tha
-  Khaana hum sabhi ghareebon ko
-  Apne haathon se khilata tha
-  Tha ajeeb banda e khuda
+  Khaana hum sabhi ghariboṅ ko
+  Apne haathoṅ se khilata tha
+  Tha ajib banda e khuda
   Haye wo nahi aaya
-  Ek faqeer deta tha...
+  Ek faqir deta tha...
   Wo hamara gham gusaar tha
   Yaadgar e kirdigaar tha
-  Bolta to phool jhadte thay
-  Khamoshi mein rob daar tha
-  Tha zameen pe mazhare khuda
+  Bolta to phul jharte the
+  Khamoshi meiṅ rob daar tha
+  Tha zamiṅ pe mazhare khuda
   Haye wo nahi aaya
-  Ek faqeer deta tha...
+  Ek faqir deta tha...
   Kis tarha se ab jiyenge hum
   Ashk raat din piyenge hum
   Uske hote fikr hi na thi
   Khayenge o kya piyenge hum
   Jaane wo kidhar chala gaya
   Haye wo nahi aaya
-  Ek faqeer deta tha...
-  Kis taraf kahan pe jaun mai
-  Kis tarha usay manaun mai
-  Apne mohsin o maseeha ko
-  Dhoondh kar kahan se laaun mai
+  Ek faqir deta tha...
+  Kis taraf kahaṅ pe jauṅ mai
+  Kis tarha use manauṅ mai
+  Apne mohsin o masiha ko
+  Dhoondh kar kahaṅ se laauṅ mai
   Naam tak mujhe nahi pata
   Haye wo nahi aaya
-  Ek faqeer deta tha...
+  Ek faqir deta tha...
   Har taraf udaasi chaayi thi
   Jaane kaisa din ye laayi thi
   Aaj subha aasman se
-  Ek sada ajeeb aayi thi
-  Dil dhadak raha hai ab mera
+  Ek sada ajib aayi thi
+  Dil dharak raha hai ab mera
   Haye wo nahi aaya
-  Ek faqeer deta tha...
-  Sun ke us faqeer ke sukhan
-  Ro pade hussain aur hassan
-  Kahte thay ye sar ko peet kar
-  Uth gaye jahan se bul-hassan
+  Ek faqir deta tha...
+  Sun ke us faqir ke sukhan
+  Ro pare Husain aur Hasan
+  Kahte the ye sar ko pit kar
+  Uth gaye jahaṅ se bul-Hasan
   Haye wo hi baba tha mera
   Haye wo nahi aaya
-  Ek faqeer deta tha...
-  Kufe ki zameen hil gayi
+  Ek faqir deta tha...
+  Kufe ki zamin hil gayi
   Sar pe uske taygh chal gayi
   Maara aisa rozedaar ko
   Zindagi ki shamma bujh gayi
-  Aasman zameen pe gir padha
+  Aasmaṅ zamiṅ pe gir padha
   Haye wo nahi aaya
-  Ek faqeer deta tha...
+  Ek faqir deta tha...
   Kab talak ye gham uthayega
   Ro ke humko bhi rulayega
   Jisko yaad kar raha hai tu
   Ab kbhi bhi wo na aayega
   Humne usko di bahot sada
   Haye wo nahi aaya
-  Ek faqeer deta tha...
+  Ek faqir deta tha...
   Bekasi aur aisi bekasi
   Lag raha hai aamir aaj bhi
-  Chauda sadiyan hogayi magar
-  Ainee rizvi us faqeer ki
-  Goonjti hai kufe mein sada
+  Chauda sadiyaṅ hogayi magar
+  Aini rizvi us faqir ki
+  Gunjti hai kufe meiṅ sada
   Haye wo nahi aaya
-  Ek faqeer deta tha...
+  Ek faqir deta tha...
 # source_id: nohayonline:623ae414171b4f4e614d
 # source_url: https://www.nohayonline.com/details_content.php?id=3407
 # raw_sha256: 550a1b44634b5027fdf0763d61e6d7c9a11c8c1198bc9bfc182583237d24ff16

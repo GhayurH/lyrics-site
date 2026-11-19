@@ -17,7 +17,7 @@ romanLyrics: |-
   Ke haajiyoṅ ki jamaat wo ghar jalaati hai
 
   2
-  Qadam Husain uthaate haiṅ su-e-Karb-o-Bala
+  Qadam Husain uthaate haiṅ su-e-Karb o Bala
   Qadam se lipti hui kaayenaat jaati hai
 
   3
@@ -33,7 +33,7 @@ romanLyrics: |-
   Na maut aati hai is ko na nind aati hai
 
   6
-  Naveed kya hua labbaik kiuṅ nahiṅ kehte
+  Navid kya hua labbaik kiuṅ nahiṅ kehte
   Sada to dasht se hal min ki ab bhi aati hai
 # source_id: ziyaraat:5e3c130250687926efab
 # source_url: https://www.ziyaraat.net/api/noha/901

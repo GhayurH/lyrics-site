@@ -8,14 +8,14 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Hai Kahan Bhai Mera Ae Zuljanaah"
+alternateTitle: "Hai Kahaṅ Bhai Mera Ae Zuljanaah"
 romanLyrics: |-
   Zuljanaah Zuljanaah
-  Hai kahan bhai mera ae Zuljanaah
+  Hai kahaṅ bhai mera ae Zuljanaah
 
   1
   Zin khaali aur rakaaboṅ se tapakta hai lahu
-  Tujh se aati hai gharib-e-Karbala ke khun ki bu
+  Tujh se aati hai gharib-e-Karbala ke khuṅ ki bu
   Kya Sakina ki yatimi ki khabar laaya hai tu
   Khun hai maathe pe ye kis ka mala
 

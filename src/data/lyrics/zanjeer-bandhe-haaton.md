@@ -1,6 +1,6 @@
 ---
 title: "اک لاشہ اٹھا ہے زنجیر بندھے ہاتھوں سے"
-alternateTitle: "Zanjeer Bandhe Haaton"
+alternateTitle: "Zanjir Bandhe Haatoṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab madine mein paye karbobala
+  Jab madine meiṅ paye karbobala
   Daste khudrat ka sawara hua mehzar utra
   Ghaur se zainab o shabbir ne usko dekha
-  Usmein likha tha ki kya hoga pasay qatl e jafa
+  Usmein likha tha ki kya hoga pase qatl e jafa
   Imtehan baat liye bhai behan ne milkar
   Dega sar kaun fida kaun karega chadar
   Mai noke sina pe chalunga behan
-  Chalna hai tumhe bazaron mein
+  Chalna hai tumhe bazaroṅ meiṅ
   Pamaal badan hoga mera
-  Jaana hai tumhe bazaron mein
+  Jaana hai tumhe bazaroṅ meiṅ
   Mai noke sina…
-  Aaghaz e safar anjam e safar
-  Hai sakht bahot maine maana
-  Mujhe yaad hai ab tak ay zainab
+  Aaghaz-e-safar anjam-e-safar
+  Hai sakht bahot maiṅ ne maana
+  Mujhe yaad hai ab tak ae zainab
   Nana se kiya tha jo wada
-  Mai tera deen bacha'unga
+  Mai tera din bacha'unga
   Qurban karunga sar apna
   Qurban rida tum kar dena
   Mai noke sina…
-  Lo sar se kafan baandha maine
+  Lo sar se kafan baandha maiṅ ne
   Pardes muqaddar jaan liya
-  Hai door abhi manzil lekin
+  Hai dur abhi manzil lekin
   Ghar karbobala ko maan liya
-  Behna hai jahan par khoon mera
+  Behna hai jahaṅ par khuṅ mera
   Us dharti ko pehchan liya
   Tum mera saath nibha dena
   Mai noke sina…
-  Tum bhi ho shareeke kaar meri
+  Tum bhi ho sharike kaar meri
   Ghazi ki tarha akbar ki tarha
-  Ek jang tumhe bhi ladni hai
-  Be taygh ali asghar ki tarha
+  Ek jang tumhe bhi larni hai
+  Betaygh ali asghar ki tarha
   Sar aun o mohamed ke honge
-  Tar khoon mein mere sar ki tarha
+  Tar khun meiṅ mere sar ki tarha
   Tum azm-e-ali dikhla dena
   Mai noke sina…
   Abbas ka matam karna hai
   Qasim ki laash uthana hai
-  Maqtal se shaheedon ke laashe
-  Qaimon mein akele laana hai
+  Maqtal se shahidoṅ ke laashe
+  Qaimon meiṅ akele laana hai
   Maqtal ki taraf jaa kar hum ko
   Wapas to nahi phir aana hai
   Abid ko zara samjha dena
@@ -58,7 +58,7 @@ romanLyrics: |-
   Pabande rasan humraah tere
   Jane jo lage ba deeda e tar
   Aur khafila maqtal se guzre
-  Koshish karna us aalam mein
+  Koshish karna us aalam meiṅ
   Hum ko na sakina dekh sake
   Tum uska dhyan bata dena
   Mai noke sina…
@@ -68,19 +68,19 @@ romanLyrics: |-
   Naaqe se sakina gir gayi hai
   Jab dekhna abid ki jaanib
   Badh kaar nazar koi uth gayi hai
-  Khutbon ki taygh chala dena
+  Khutboṅ ki taygh chala dena
   Mai noke sina…
-  Bazaron mein darbaron mein
-  Zindan ki andheri raaton mein
+  Bazaroṅ meiṅ darbaroṅ meiṅ
+  Zindaṅ ki andheri raatoṅ meiṅ
   Roye jo meri bachi zainab
-  Moo apna chupaye haaton mein
-  Samjhana usay behlana usay
-  Ghar yaad dilana baaton mein
+  Moo apna chupaye haatoṅ meiṅ
+  Samjhana use behlana use
+  Ghar yaad dilana baatoṅ meiṅ
   Sughra ki yaad dila dena
   Mai noke sina…
   Rehan o raza kya manzar tha
-  Jis waqt kaneezi mein maanga
-  Darbar mein us shehzadi ko
+  Jis waqt kanizi meiṅ maanga
+  Darbar meiṅ us shehzadi ko
   Haa naam sakina tha jiska
   Us taaza sitam par abid aur
   Zainab ka badan bhi kaamp gaya

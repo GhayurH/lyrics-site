@@ -1,6 +1,6 @@
 ---
 title: "کربلا کے بن میں کوئی قافلہ لُوٹا گیا"
-alternateTitle: "Karbala Ke Ban Mein"
+alternateTitle: "Karbala Ke Ban Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

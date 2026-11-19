@@ -8,10 +8,10 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain Ya Hussain Ya Hussain Ya Hussain
+  Husain Ya Husain Ya Husain Ya Husain
 
   1
-  Zehra ka ladla bay jurm-o-bai khata haey maara gaiya
+  Zehra ka ladla bay jurm o bai khata haey maara gaiya
   Yeh Zainab ka hai biradar kai lutti haey jis ki chadar,
   Huwai Akber zibah Asgher ho khoraam hai bapa
 

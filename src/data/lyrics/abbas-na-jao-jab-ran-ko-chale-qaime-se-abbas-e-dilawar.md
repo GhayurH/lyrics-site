@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   1
   Jab ran ko chale khaime se Abbas-e-dilawar
-  Sab Bibiyaan lipti thiṅ sambhaale hue chaadar
+  Sab Bibiyaaṅ lipti thiṅ sambhaale hue chaadar
   Haathoṅ se kamar thaam ke paas aaye jo Sarwar
   Bosa liya Abbas ke shaanoṅ ka ye keh kar
   Tum jaisa baraadar maiṅ kahaaṅ paauṅga bhaai
@@ -46,7 +46,7 @@ romanLyrics: |-
   Rukte hi na the Zainab o Kulsum ke aaṅsu
   Jab Sheh ne kaha chum ke Abbas ke baazu
   Ye shaane qalam na ho jaaeṅ
-  Be-aasra hum na ho jaaeṅ
+  beaasra hum na ho jaaeṅ
   Ye baazu sahaara hai sab ka
 
   6
@@ -64,7 +64,7 @@ romanLyrics: |-
   Bazaar meiṅ leṅge wo badla
 
   8
-  Zeeshan o Raza kaisa tha rukhsat ka wo manzar
+  Zishan o Raza kaisa tha rukhsat ka wo manzar
   Bhaai ke qadam chum ke mashkiza utha kar
   Abbas jo khaimoṅ se nikle
   Girti thiṅ ridaaeṅ khud sar se

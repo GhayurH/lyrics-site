@@ -13,8 +13,8 @@ romanLyrics: |-
 
   1
   Qaime jalte hai madad ke liye aao bhai
-  Balwa e aam may beparda khadi hai zainab
-  Binte zehra ko layeeno se bachao bhai
+  Balwa e aam may beparda khari hai zainab
+  Binte zehra ko layino se bachao bhai
 
   2
   Ghash may hai sayyede sajjad jale qaimon may
@@ -26,15 +26,15 @@ romanLyrics: |-
 
   4
   Ab to akbar hai na qasim hai na bhai abbas
-  Hai rasan basta haram inko chudao bhai
+  Hai rasan basta haram inko churao bhai
 
   5
-  Hai gala khushk sakina ka labon par dam hai
-  Pani darya se isay laake pilao bhai
+  Hai gala khushk sakina ka laboṅ par dam hai
+  Pani darya se ise laake pilao bhai
 
   6
-  Hichkiyan leke wo roti hai bulaati hai tumhe
-  Apne seene pe sakina ko sulao bhai
+  Hichkiyaṅ leke wo roti hai bulaati hai tumhe
+  Apne sine pe sakina ko sulao bhai
 
   7
   Qaid khane se ye zainab ki sada aati thi

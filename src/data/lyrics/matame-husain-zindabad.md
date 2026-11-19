@@ -11,63 +11,63 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Humse poochte ho karte ho matam kyun
+  Humse puchte ho karte ho matam kiuṅ
   Cheh mahine ka asghar bhi maara gaya
   Saal athara akbar bhi maara gaya
   Haye hurre dilawar bhi maara gaya
   Aur ghazi biradar bhi maara gaya
-  Kitne haathon se laashe uthaye hussain
-  Hum ko matam hi karna sikhaye hussain
-  Matame hussain zindabad
-  Parchame hussain zindabad
+  Kitne haathoṅ se laashe uthaye Husain
+  Hum ko matam hi karna sikhaye Husain
+  Matame Husain zindabad
+  Parchame Husain zindabad
   Aap ne aab khatra bhi paaya nahi
   Sar ko sajde se hargiz hataya nahi
   Shikwa allah ka lab pe laaya nahi
-  Peeche qadmon ko apne hataya nahi
-  Shaan hyder ki kaise dikhaye hussain
-  Hum ko matam hi karna sikhaye hussain
-  Matame hussain zindabad
-  Parchame hussain zindabad
-  Waada nana ka poora wafa hogaya
-  Ghar ka ghar raahe haq mein fida hogaya
-  Sar bhi mazloom tan se juda hogaya
-  Dhoom matam ki haye ye kya hogaya
-  Teri mayyat pe ghode chalaye hussain
-  Hum ko matam hi karna sikhaye hussain
-  Matame hussain zindabad
-  Parchame hussain zindabad
+  Piche qadmoṅ ko apne hataya nahi
+  Shaan hyder ki kaise dikhaye Husain
+  Hum ko matam hi karna sikhaye Husain
+  Matame Husain zindabad
+  Parchame Husain zindabad
+  Waada nana ka pura wafa hogaya
+  Ghar ka ghar raahe haq meiṅ fida hogaya
+  Sar bhi mazlum tan se juda hogaya
+  Dhum matam ki haye ye kya hogaya
+  Teri mayyat pe ghore chalaye Husain
+  Hum ko matam hi karna sikhaye Husain
+  Matame Husain zindabad
+  Parchame Husain zindabad
   Aap ke saare qaime jalaye gaye
   Haye saydaniya sab sataye gaye
-  Dar badar raaston pe phiraye gaye
+  Dar badar raastoṅ pe phiraye gaye
   Sab ke sab haye zindan basaye gaye
-  Khandan apna poora lutaye hussain
-  Hum ko matam hi karna sikhaye hussain
-  Matame hussain zindabad
-  Parchame hussain zindabad
-  Dehr mein aaj tak bhi hai matam hussain
-  Mit nahi sakta ye aap ka gham hussain
-  Rote rote hi mar jayenge hum hussain
-  Hum uthate hai ab tak bhi parcham hussain
-  Aap islam ko hai bachaye hussain
-  Hum ko matam hi karna sikhaye hussain
-  Matame hussain zindabad
-  Parchame hussain zindabad
+  Khandan apna pura lutaye Husain
+  Hum ko matam hi karna sikhaye Husain
+  Matame Husain zindabad
+  Parchame Husain zindabad
+  Dehr meiṅ aaj tak bhi hai matam Husain
+  Mit nahi sakta ye aap ka gham Husain
+  Rote rote hi mar jayenge hum Husain
+  Hum uthate hai ab tak bhi parcham Husain
+  Aap islam ko hai bachaye Husain
+  Hum ko matam hi karna sikhaye Husain
+  Matame Husain zindabad
+  Parchame Husain zindabad
   Dard angayz sheh ki shahadat hui
   Zere khanjar tumhe kya aziyat hui
   Qatl hokar rahe kya musibat hui
   Jaan allah ki khaatir amaanat hui
-  Sar ko naize pe tere chadaye hussain
-  Hum ko matam hi karna sikhaye hussain
-  Matame hussain zindabad
-  Parchame hussain zindabad
-  Khaak tabrez tu apne sar par udha
-  Karbala mein mohamed ka ghar hai tabaah
+  Sar ko naize pe tere charaye Husain
+  Hum ko matam hi karna sikhaye Husain
+  Matame Husain zindabad
+  Parchame Husain zindabad
+  Khaak tabrez tu apne sar par urha
+  Karbala meiṅ mohamed ka ghar hai tabaah
   Lut gaya haye irfan aale aba
-  Reh gaya naam karbal mein allah ka
-  Khatra e aab peene na paye hussain
-  Hum ko matam hi karna sikhaye hussain
-  Matame hussain zindabad
-  Parchame hussain zindabad
+  Reh gaya naam karbal meiṅ allah ka
+  Khatra e aab pine na paye Husain
+  Hum ko matam hi karna sikhaye Husain
+  Matame Husain zindabad
+  Parchame Husain zindabad
 # source_id: nohayonline:5c9e608e1fafd504ba6c
 # source_url: https://www.nohayonline.com/details_content.php?id=1186
 # raw_sha256: 72367fca53b9354f1d49898ae84c6c20cf5bc529cd24d05c5b46bc5acbb10b0b

@@ -1,6 +1,6 @@
 ---
 title: "بچپن میں اگر ماں مر جائے"
-alternateTitle: "Bachpan Mein Agar"
+alternateTitle: "Bachpan Meiṅ Agar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,71 +11,71 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bachpan mein agar maa mar jaaye
-  Is gham se bada gham koi nahi
-  Hasnain ke dil se poocho to
+  Bachpan meiṅ agar maa mar jaaye
+  Is gham se bara gham koi nahi
+  Hasnain ke dil se pucho to
   Is zakhm ka marham koi nahi
   Ya mazlooma ya masooma
   Ya zehra
-  Bacchon ko sambhale mazlooma
+  Bacchoṅ ko sambhale mazlooma
   Ya maula ki imadad kare
-  Masoom imamon ki maadar
+  Masum imamoṅ ki maadar
   Haye kis se faryad kare
   Ye zulm jo dhaane aaye hai
-  In logon mein kam koi nahi
+  In logoṅ meiṅ kam koi nahi
   Hasnain ke dil se...
-  Ghar jalta hai uth'ta hai dhuaan
-  Be-jaan hai binte paighambar
-  Rote hai tadapte hai bacche
-  Ghar mein hai qayamat ka manzar
-  Aur haye nabi ki ummat mein
+  Ghar jalta hai uthta hai dhuaaṅ
+  bejaan hai binte paighambar
+  Rote hai tarapte hai bacche
+  Ghar meiṅ hai qayamat ka manzar
+  Aur haye nabi ki ummat meiṅ
   Ranjeeda o barham koi nahi
   Hasnain ke dil se...
-  Is gham mein nabi bhi rote hai
+  Is gham meiṅ nabi bhi rote hai
   Ye dard nahi tum ne jaana
-  Fizza ne kaha ba-deeda e tar
-  Is tarha ghar mein mat aana
-  Ye noor e taharat ka ghar hai
-  Aur tum mein mehram koi nahi
+  Fizza ne kaha ba-dida e tar
+  Is tarha ghar meiṅ mat aana
+  Ye nur e taharat ka ghar hai
+  Aur tum meiṅ mehram koi nahi
   Hasnain ke dil se...
-  Mohsin ki shahadat pehlu mein
+  Mohsin ki shahadat pehlu meiṅ
   Ye zakhm laga kitna gehra
-  Deewar o dar ke beech mein phir
+  Diwar o dar ke bich meiṅ phir
   Behosh hui gir kar zehra
   Ye dard bahra lamha hai
   Is jaisa aalam koi nahi
   Hasnain ke dil se...
-  Baba ke baad zamane mein
-  Aisi mazloom hui zahra
-  Deewar pakad kar chalti hai
-  Kamzor zaeefa ki tarha
+  Baba ke baad zamane meiṅ
+  Aisi mazlum hui zahra
+  Diwar pakar kar chalti hai
+  Kamzor zaifa ki tarha
   Baazu zakhmi pehlu zakhmi
-  Ek haath mein bhi dam koi nahi
+  Ek haath meiṅ bhi dam koi nahi
   Hasnain ke dil se...
-  Majrooh badan pehlu zakhmi
-  Raaton ko neend aati hai
+  Majruh badan pehlu zakhmi
+  Raatoṅ ko nind aati hai
   Har ek qadam dukh deta hai
   Har saans qayamat dhaati hai
-  Zehra ki tarha se dunya mein
+  Zehra ki tarha se dunya meiṅ
   Hai chashme pur nam koi nahi
   Hasnain ke dil se...
-  Awaaz hussain ke rone ki
-  Jab kaan mein zehra ke aayi
-  Phir band kafan bhi toot gaye
-  Aur rooh badan mein ghabrayi
-  Sab bharte hai dam dunya mein
+  Awaaz Husain ke rone ki
+  Jab kaan meiṅ zehra ke aayi
+  Phir band kafan bhi tut gaye
+  Aur ruh badan meiṅ ghabrayi
+  Sab bharte hai dam dunya meiṅ
   Maa jaisa hamdam koi nahi
   Hasnain ke dil se...
   Turbat bhi nahi mazlooma ki
-  Turbat ki jagah turbat ka nishan
-  Is gham mein imame asr ke bhi
-  Hai khoone jigar aankhon se rawan
-  Is gham mein agar jo ro na sake
+  Turbat ki jagah turbat ka nishaṅ
+  Is gham meiṅ imame asr ke bhi
+  Hai khune jigar aankhoṅ se rawaṅ
+  Is gham meiṅ agar jo ro na sake
   Wo chashme adam koi nahi
   Hasnain ke dil se...
-  Ay shadman hum nauha padh kar
+  Ae shadmaṅ hum nauha parh kar
   Jab karte hai gham zehra ka
-  Rote hai naseem us dam hyder
+  Rote hai nasim us dam hyder
   Aur karte hai matam zehra ka
   Ye maadar e gham ka matam hai
   Is jaisa matam koi nahi

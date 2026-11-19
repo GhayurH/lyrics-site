@@ -1,6 +1,6 @@
 ---
 title: "دونوں جہاں میں دھوم ہے"
-alternateTitle: "Hussain Zindabad"
+alternateTitle: "Husain Zindabad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,82 +11,82 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dono jahan mein dhoom hai
-  Dono jahan mein dhoom
-  Hussain zindabad hussain zindabad
-  Ek din mein wo kamaal kiya hai hussain ne
+  Dono jahaṅ meiṅ dhum hai
+  Dono jahaṅ meiṅ dhum
+  Husain zindabad Husain zindabad
+  Ek din meiṅ wo kamaal kiya hai Husain ne
 
   2
-  Sadiyon ka dil bahaal kiya hai hussain ne
-  Hussain zindabad hussain zindabad
-  Hussain zindabad
+  Sadiyoṅ ka dil bahaal kiya hai Husain ne
+  Husain zindabad Husain zindabad
+  Husain zindabad
   Insaniyat ko phir se ata ki nayi hayaat
 
   3
-  Khanjar ke neeche rakhli habeebe khuda ki baat
+  Khanjar ke niche rakhli habibe khuda ki baat
   Ye aur baat apni luta di hai kayenaat
-  Kaabe ko maala maal kiya hai hussain ne
-  Ek din mein wo kamaal...
+  Kaabe ko maala maal kiya hai Husain ne
+  Ek din meiṅ wo kamaal...
 
   4
-  Aisa sharaf jahan mein baksha hai jaun ko
-  Mud mud ke ambiya ne bhi dekha hai jaun ko
+  Aisa sharaf jahaṅ meiṅ baksha hai jaun ko
+  Mur mur ke ambiya ne bhi dekha hai jaun ko
   Apne karam se itna nawaza hai jaun ko
-  Haa rutba e bilaal kiya hai hussain ne
+  Haa rutba e bilaal kiya hai Husain ne
 
   5
-  Ek din mein wo kamaal...
-  Kya sochta hai daaman e aqdas ko thaam le
-  Darbar mein na inke takalluf se kaam le
+  Ek din meiṅ wo kamaal...
+  Kya sochta hai daaman-e-aqdas ko thaam le
+  Darbar meiṅ na inke takalluf se kaam le
   Aulaad chaahiye to dua e imam le
 
   6
-  Raahib kise nidhaal kiya hai hussain ne
-  Ek din mein wo kamaal...
-  Pesh e kirdagaar na ho phir se surkh roo
-  Ran mein kiya hai khoon se baysheer ke wazoo
+  Raahib kise nidhaal kiya hai Husain ne
+  Ek din meiṅ wo kamaal...
+  Pesh e kirdagaar na ho phir se surkh ru
+  Ran meiṅ kiya hai khun se baysheer ke wazu
 
   7
-  Teeron pa ho namaz ke naizon pa guftagoo
-  Har kaam bemisaal kiya hai hussain ne
-  Ek din mein wo kamaal...
-  Utho hussainiat ka jahan ko payam do
+  Tiroṅ pa ho namaz ke naizoṅ pa guftagu
+  Har kaam bemisaal kiya hai Husain ne
+  Ek din meiṅ wo kamaal...
+  Utho hussainiat ka jahaṅ ko payam do
 
   8
   Dunya ko har mahaas pa dars e imam do
-  Apne lahoo ke pyason ko pani ka jaam do
-  Dushman ka bhi khayaal kiya hai hussain ne
-  Ek din mein wo kamaal...
+  Apne lahu ke pyasoṅ ko pani ka jaam do
+  Dushman ka bhi khayaal kiya hai Husain ne
+  Ek din meiṅ wo kamaal...
 
   9
-  Asghar ko jalti rayt pa choda hai karbala
-  Jaane sukoot e zulm ko toda hai karbala
-  Insaan ka zameer jhinjhoda hai karbala
-  Pani ka kab sawaal kiya hai hussain ne
+  Asghar ko jalti rayt pa chora hai karbala
+  Jaane sukut e zulm ko tora hai karbala
+  Insaan ka zamir jhinjhora hai karbala
+  Pani ka kab sawaal kiya hai Husain ne
 
   10
-  Ek din mein wo kamaal...
-  Seene mein ghut ke mar gayi hasrat yazeed ki
-  Har ek ko bata di haqeeqat yazeed ki
-  Sakte mein pad gayi hai hukumat yazeed ki
+  Ek din meiṅ wo kamaal...
+  Sine meiṅ ghut ke mar gayi hasrat yazid ki
+  Har ek ko bata di haqiqat yazid ki
+  Sakte meiṅ par gayi hai hukumat yazid ki
 
   11
-  Bayyat ka aisa haal kiya hai hussain ne
-  Ek din mein wo kamaal...
-  Batla raha tha dasht mein hamla imam ka
-  Charon taraf tha rob mujahid ke naam ka
+  Bayyat ka aisa haal kiya hai Husain ne
+  Ek din meiṅ wo kamaal...
+  Batla raha tha dasht meiṅ hamla imam ka
+  Charoṅ taraf tha rob mujahid ke naam ka
 
   12
-  Milta nishan tak na kahin fauj e shaam ka
-  Bas paas e zuljalaal kiya hai hussain ne
-  Ek din mein wo kamaal...
-  Mil kar bhi gar saara jahan zulm dhayega
+  Milta nishan tak na kahiṅ fauj e shaam ka
+  Bas paas e zuljalaal kiya hai Husain ne
+  Ek din meiṅ wo kamaal...
+  Mil kar bhi gar saara jahaṅ zulm dhayega
 
   13
-  Parde mein jo muqeem hai wo khud bachayega
-  Shiyon ko aamir o akhtar mitayega
-  Khud inko la zawaal kiya hai hussain ne
-  Ek din mein wo kamaal...
+  Parde meiṅ jo muqim hai wo khud bachayega
+  Shiyoṅ ko aamir o akhtar mitayega
+  Khud inko la zawaal kiya hai Husain ne
+  Ek din meiṅ wo kamaal...
 # source_id: nohayonline:58f3aa0b3cde0021bd4b
 # source_url: https://www.nohayonline.com/details_content.php?id=1804
 # raw_sha256: 357797583bbaa1829fa48851b1313789d50997a1b3ba83c0c83bd87b2ad8e0e9

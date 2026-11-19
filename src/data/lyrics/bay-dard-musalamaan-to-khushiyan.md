@@ -1,6 +1,6 @@
 ---
 title: "بے درد مسلماں تو خوشیاں منا رہے ہیں"
-alternateTitle: "Bay Dard Musalamaan To Khushiyan"
+alternateTitle: "Be Dard Musalamaaṅ To Khushiyaṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,36 +9,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Bay dard musalamaan to khushiyan mana rahay hain
-  Arb-o-ajam kay Mola dunya say ja rahay hain
+  Bedard musalamaaṅ to khushiyaṅ mana rahay haiṅ
+  Arb o ajam ke Mola dunya se ja rahay haiṅ
 
   1
   Kuch to laihaaz kertai damaad-e-Mustafa ka
-  Sajdai main jo Ali pai hy zulm dha rahai hain
+  Sajdai maiṅ jo Ali pai hy zulm dha rahai haiṅ
 
   2
   Ahmed kai baad Zahra ab chal perhai Ali bhi
-  Asaar Panjatan ke zalim mita rahy hain
+  Asaar Panjatan ke zalim mita rahy haiṅ
 
   3
-  Balon ko kholai Zainab Kulsoom ro rahi hain
-  Ghar ghar charag Kufi shami jala rahai hain
+  Baloṅ ko kholai Zainab Kulsum ro rahi hain
+  Ghar ghar charag Kufi shami jala rahai haiṅ
 
   4
-  Barsai gain teer paiham taboot per Hassan kai
-  Mola yeh waqat-e-aakhir ro kai bata rahai hain
+  Barsai gain tir paiham tabut per Hasan kai
+  Mola yeh waqat-e-aakhir ro kai bata rahai haiṅ
 
   5
   Niklai gain aag lai ker kuch log saqifa sai
-  Sadaat kai gharon ko ab tak jala rahain hain
+  Sadaat kai gharoṅ ko ab tak jala rahain haiṅ
 
   6
-  Tu seekh ghar main chalna woh shaam ka safar hai
-  Teri qaid kai zamanai nasdeeq aarahain hain
+  Tu sikh ghar maiṅ chalna woh shaam ka safar hai
+  Teri qaid kai zamanai nasdeeq aarahain haiṅ
 
   7
-  Mola kai janazai per Jibreel ro kai bolai
-  Sarkaar-e-Ambiya kai gham khaar ja rahain hain
+  Mola kai janazai per Jibril ro kai bolai
+  Sarkaar-e-Ambiya kai gham khaar ja rahain haiṅ
 # source_id: nohawriteups:fe67c71e34287514391b
 # source_url: https://www.nohawriteups.org/bay-dard-musalamaan-tuh-khushiyan/
 # raw_sha256: 569e2d09501e299e18f9d800da7515a866d182ff5d6b67cbebd54e112ce21992

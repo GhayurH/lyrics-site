@@ -21,7 +21,7 @@ romanLyrics: |-
 
   3
   Beta tumhara qatil, meray samnay kharra hay
-  Janay kyun hans raha hay
+  Janay kiun hans raha hay
   Chadar bhi lut gayi hay, muh kis tarha chupaoon
 
   4

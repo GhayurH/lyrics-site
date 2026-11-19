@@ -1,6 +1,6 @@
 ---
 title: "وہ نازِ کبریا ہے وہ شاہِ کربلا ہے"
-alternateTitle: "Karna Hai Ya Hussain"
+alternateTitle: "Karna Hai Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,53 +11,53 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Wo naaz e kibriya hai wo shaah e karbala hai
-  Zahra ke dil ka chain hai wo hi mera hussain hai
-  Dil mein ashk e hyder ka ek diya jalana hai
-  Karna hai ya hussain
-  Sayyeda ke bachon ka farshe gham bichana hai
-  Karna hai ya hussain
-  Laakh mushkilein aaye gardane bhi kat jaye
-  Fatwa gar daleelein gar aasman se bhi laaye
-  Hum ne apni naslon ko matami banana hai
-  Ya hussain ya hussain ya hussain
-  Karna hai ya hussain...
+  Wo naaz-e-kibriya hai wo shaah-e-karbala hai
+  Zahra ke dil ka chain hai wo hi mera Husain hai
+  Dil meiṅ ashk-e-hyder ka ek diya jalana hai
+  Karna hai ya Husain
+  Sayyeda ke bachoṅ ka farshe gham bichana hai
+  Karna hai ya Husain
+  Laakh mushkileiṅ aaye gardane bhi kat jaye
+  Fatwa gar dalileiṅ gar aasmaṅ se bhi laaye
+  Hum ne apni nasloṅ ko matami banana hai
+  Ya Husain ya Husain ya Husain
+  Karna hai ya Husain...
   Ye jo pursadari hai munkiro pe bhari hai
-  Ay yazeediyo sunlo karbala hamari hai
-  Rab ke sab khazano mein ye alag khazana hai
-  Ya hussain ya hussain ya hussain
-  Karna hai ya hussain...
-  Tera lahoo rayegaan na jayega
-  Behan ka waada hai ye rang zaroor layega
-  Ye deen ki baqa bina e la ilaah hussain baadshah
-  Ya hussain ya hussain ya hussain
-  Karna hai ya hussain...
-  Aansuon ke baadal se kya ladenge ye jalse
-  Hai nigahe khaaliq mein ye roz e awwal se
+  Ae yazidiyo sunlo karbala hamari hai
+  Rab ke sab khazano meiṅ ye alag khazana hai
+  Ya Husain ya Husain ya Husain
+  Karna hai ya Husain...
+  Tera lahu rayegaaṅ na jayega
+  Behan ka waada hai ye rang zarur layega
+  Ye din ki baqa bina e la ilaah Husain baadshah
+  Ya Husain ya Husain ya Husain
+  Karna hai ya Husain...
+  Aansuoṅ ke baadal se kya ladenge ye jalse
+  Hai nigahe khaaliq meiṅ ye roz-e-awwal se
   Ek taraf hussaini hai ek taraf zamana hai
-  Ya hussain ya hussain ya hussain
-  Karna hai ya hussain...
-  Mujh gunahgaar pe har dam hai ye inaame hussain
-  Meri har gaam adad karta ha zarghaam e hussain
-  Choom leta hoo jahan dekhta hoo naam e hussain
-  Karbala ashke manast o manam ghulame hussain
+  Ya Husain ya Husain ya Husain
+  Karna hai ya Husain...
+  Mujh gunahgaar pe har dam hai ye inaame Husain
+  Meri har gaam adad karta ha zarghaam-e-Husain
+  Chum leta hu jahaṅ dekhta hu naam-e-Husain
+  Karbala ashke manast o manam ghulame Husain
   Jaan se pyari meine ishqe wila hi mujhko
   Ye sila maa ki tahaarat se mila hai mujhko
-  Sangaton ke lashkar hai kya ghazab ke tewar hai
+  Sangatoṅ ke lashkar hai kya ghazab ke tewar hai
   Ye nishane matam hi matami ka zewar hai
-  Matami julosson ki shaan faatehana hai
-  Ya hussain ya hussain ya hussain
-  Karna hai ya hussain...
+  Matami julossoṅ ki shaan faatehana hai
+  Ya Husain ya Husain ya Husain
+  Karna hai ya Husain...
   Gham hai ye bahattar ka sayyeda ki chadar ka
-  Karbla mein naize ki nok par kisi sar ka
-  Sayyedon ko is gham ne hashr tak rulaana hai
-  Ya hussain ya hussain ya hussain
-  Karna hai ya hussain...
+  Karbla meiṅ naize ki nok par kisi sar ka
+  Sayyedoṅ ko is gham ne hashr tak rulaana hai
+  Ya Husain ya Husain ya Husain
+  Karna hai ya Husain...
   Hashr ki faza hogi masnade qaza hogi
   Kaun jannati hoga kisko kya saza hogi
   Sayyeda ne akthar ye faisla sunaana hai
-  Ya hussain ya hussain ya hussain
-  Karna hai ya hussain...
+  Ya Husain ya Husain ya Husain
+  Karna hai ya Husain...
 # source_id: nohayonline:523473e0b02cf068669c
 # source_url: https://www.nohayonline.com/details_content.php?id=1618
 # raw_sha256: ae7bb76603ab48489a1ec0a857458ffe95f19e54c851863321ce034fde9f24f8

@@ -30,7 +30,7 @@ romanLyrics: |-
   Abbas tujh se kitni maanus thi Sakina
   Baba ke baad tere parcham ko maana sina
   Masum wo kali to tujh se bichhar ke Ghazi
-  Ik qaidi mar gayi hai zindaaṅ meiṅ hazina
+  Ik qaidi mar gayi hai zindaan meiṅ hazina
 
   3
   Dil ki muraadeṅ Ghazi tere alam se paaye

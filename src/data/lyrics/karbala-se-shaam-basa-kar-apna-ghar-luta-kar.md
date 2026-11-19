@@ -11,78 +11,78 @@ aliases: []
 published: false
 romanLyrics: |-
   Karbala basa kar apna ghar luta kar
-  Godh ke sabhi pale rayt mein chupa kar
+  Godh ke sabhi pale rayt meiṅ chupa kar
 
   1
-  Karbala se shaam ja rahe hai hussain
-  Naize pe quran suna rahe hai hussain
-  Karbala se shaam ja rahe hai hussain
-  Jang e karbala ko maine fatha kar liya
+  Karbala se shaam ja rahe hai Husain
+  Naize pe quraṅ suna rahe hai Husain
+  Karbala se shaam ja rahe hai Husain
+  Jang e karbala ko maiṅ ne fatha kar liya
 
   2
   Faatahe damishq hogi binte sayyeda
-  Ye qadam qadam bata rahe hai hussain
-  Naize pe quran suna...
+  Ye qadam qadam bata rahe hai Husain
+  Naize pe quraṅ suna...
   Karbala se shaam...
 
   3
-  Bibyon ke sar khule koi na dekh le
+  Bibyoṅ ke sar khule koi na dekh le
   Har nigaah meri samt hi jami rahe
-  Sab ko maujiza dikha rahe hai hussain
-  Naize pe quran suna...
+  Sab ko maujiza dikha rahe hai Husain
+  Naize pe quraṅ suna...
 
   4
   Karbala se shaam...
-  Bain thay sakina ke mai ro nahi saki
+  Bain the sakina ke mai ro nahi saki
   Baba kitne din huwe mai so nahi saki
-  Lori beti ko suna rahe hai hussain
+  Lori beti ko suna rahe hai Husain
 
   5
-  Naize pe quran suna...
+  Naize pe quraṅ suna...
   Karbala se shaam...
-  Be-rida haram hai chaar samt ahle shar
-  Khoon ro raha hai saarban jhukaye sar
+  berida haram hai chaar samt ahle shar
+  Khun ro raha hai saarbaṅ jhukaye sar
 
   6
-  Us ka hausla bada rahe hai hussain
-  Naize pe quran suna...
+  Us ka hausla bada rahe hai Husain
+  Naize pe quraṅ suna...
   Karbala se shaam...
-  Aag aur patharon ki barishein hui
+  Aag aur patharoṅ ki barisheiṅ hui
 
   7
-  Zakhmi sar behan ka hai lahoo lahoo jabeen
-  Zakhm patharon se khaa rahe hai hussain
-  Naize pe quran suna...
+  Zakhmi sar behan ka hai lahu lahu jabiṅ
+  Zakhm patharoṅ se khaa rahe hai Husain
+  Naize pe quraṅ suna...
   Karbala se shaam...
 
   8
-  Jab suna ye shireen ne to ro ke di sada
-  Jaag utha naseeb mera ay mere khuda
-  Aaj mere ghar pe aa rahe hai hussain
-  Naize pe quran suna...
+  Jab suna ye shiriṅ ne to ro ke di sada
+  Jaag utha nasib mera ae mere khuda
+  Aaj mere ghar pe aa rahe hai Husain
+  Naize pe quraṅ suna...
 
   9
   Karbala se shaam...
-  Bete bhanje bhatije ban mein so chuke
+  Bete bhanje bhatije ban meiṅ so chuke
   Alqama pe sher jaisa bhai kho chuke
-  Waada aakhri nibha rahe hai hussain
+  Waada aakhri nibha rahe hai Husain
 
   10
-  Naize pe quran suna...
+  Naize pe quraṅ suna...
   Karbala se shaam...
   Khaafile se mutmain imam ho gaye
   Shaam pahunche khatm saare kaam ho gaye
 
   11
-  Nana se duayein paa rahe hai hussain
-  Naize pe quran suna...
+  Nana se duayeiṅ paa rahe hai Husain
+  Naize pe quraṅ suna...
   Karbala se shaam...
   Maante hai matami bhi aur farhan bhi
 
   12
-  Daastan e gham safar ki mazhar abidi
-  Likh raha hoo mai likha rahe hai hussain
-  Naize pe quran suna...
+  Daastan-e-gham safar ki mazhar abidi
+  Likh raha hoo mai likha rahe hai Husain
+  Naize pe quraṅ suna...
   Karbala se shaam...
 # source_id: nohayonline:4322563ffe0600846f60
 # source_url: https://www.nohayonline.com/details_content.php?id=2820

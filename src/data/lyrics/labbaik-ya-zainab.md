@@ -15,27 +15,27 @@ romanLyrics: |-
   Ya zainab ya zainab
   Labbaik ya zainab
   Aa rahi hai rauza e zainab se halmin ki sada
-  Ghir gayi hai shaamiyo mein phir se aale mustafa
+  Ghir gayi hai shaamiyo meiṅ phir se aale mustafa
   Waqt rone ka nahi ye waqt hai labbaik ka
   Labbaik labbaik ya zainab
   Aa rahi hai rauza e zainab se...
-  Kuch nahi zainab se bad kar ye batana hai hamein
-  Fatema zahra ko ek din moo dikhana hai hamein
+  Kuch nahi zainab se bad kar ye batana hai hameiṅ
+  Fatema zahra ko ek din moo dikhana hai hameiṅ
   Rokna hai jo baqayya se chala hai silsila
   Labbaik labbaik ya zainab
   Aa rahi hai rauza e zainab se...
   Rone waale karbala par us ke dil ki aas hai
-  Matami uski nazar mein baazu e abbas hai
-  Maan rakhna hai hamein ab khwahar e shabbir ka
+  Matami uski nazar meiṅ baazu e abbas hai
+  Maan rakhna hai hameiṅ ab khwahar e shabbir ka
   Labbaik labbaik ya zainab
   Aa rahi hai rauza e zainab se...
-  Kal bhi usne dukh uthaye thi magar dhaaras usay
-  Ghairat e abbas ban kar saath mein sajjad hai
+  Kal bhi usne dukh uthaye thi magar dhaaras use
+  Ghairat-e-abbas ban kar saath meiṅ sajjad hai
   Aaj tanha reh gayi hai baani e farshe aza
   Labbaik labbaik ya zainab
   Aa rahi hai rauza e zainab se...
   Kehte honge shaah se abbas ye rote huwe
-  Mai kate haathon se bhi lad loonga fauje shaam se
+  Mai kate haathoṅ se bhi lar lunga fauje shaam se
   Bas mujhe ek baar maula izn kar dijiye ata
   Labbaik labbaik ya zainab
   Aa rahi hai rauza e zainab se...
@@ -44,11 +44,11 @@ romanLyrics: |-
   Chalne ki jo aadi na thi paidal wohi meelo chali
   Durre kabhi pathar kabhi khaati rahi binte imam
   Haye haye zainab haye haye shaam
-  Jaane sitam kaisa hua chehra lahoo se chup gaya
+  Jaane sitam kaisa hua chehra lahu se chup gaya
   Binte ali se baap ka lete thay shaami inteqam
   Haye haye zainab haye haye shaam
-  Akbar kare kaise bayaan deta hai jab koi azan
-  Lagti hai seene par sina aata hai jab akbar ka naam
+  Akbar kare kaise bayaaṅ deta hai jab koi azaṅ
+  Lagti hai sine par sina aata hai jab akbar ka naam
   Haye haye zainab haye haye shaam
 # source_id: nohayonline:34ca4e0da8993004408c
 # source_url: https://www.nohayonline.com/details_content.php?id=1934

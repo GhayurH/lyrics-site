@@ -1,6 +1,6 @@
 ---
 title: "زنداں میں سکینہ کو یاد آیا وہ سینہ"
-alternateTitle: "Zindaaṅ Mein Sakina Ko"
+alternateTitle: "Zindaaṅ Meiṅ Sakina Ko"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

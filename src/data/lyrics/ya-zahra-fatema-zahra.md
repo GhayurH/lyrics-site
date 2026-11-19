@@ -14,44 +14,44 @@ romanLyrics: |-
 
   1
   Ya zahra
-  Maadar do jahan fatema jaan dil bado basti
+  Maadar do jahaṅ fatema jaaṅ dil bado basti
   Mohibbaane do hasti
-  Ay umme abiha ay umme faqiha
-  Ay umme abiha bajaza baghair e dasti
+  Ae umme abiha ae umme faqiha
+  E umme abiha bajaza baghair e dasti
   Mohibbaane do hasti
-  Umeed e shifa zee tu hai fatema zahra
-  Khatoon e jina waaris e tatheer sarapa
+  Umid e shifa zi tu hai fatema zahra
+  Khatun e jina waaris e tathir sarapa
   Ashraaf e nisa aks e nabi aks e khudaija
-  Meezan e wafa rooh e dua fatema zahra
+  Mizan e wafa ruh e dua fatema zahra
 
   2
-  Uftaad dar e khaana toda pehlu shakista
+  Uftaad dar e khaana tora pehlu shakista
   Ummat ne tera haq na diya fatema zahra
   Mohsin ki shahadat ka sabab ban gayi dunya
   Wirsa hai tera ashk e aza fatema zahra
 
   3
-  Ay ashk fishan baad e nabi binte payambar
-  Tha sog mein baba ke azakhana tera ghar
-  Rote they tere saath ali sarwar o shabbar
-  Ay khasta jigar mehwe buka fatema zahra
+  E ashk fishaṅ baad e nabi binte payambar
+  Tha sog meiṅ baba ke azakhana tera ghar
+  Rote the tere saath ali sarwar o shabbar
+  Ae khasta jigar mehwe buka fatema zahra
 
   4
   Dar karbobala tishna labi tere pisar ki
   Taraaji hui kis tarha zahra tere ghar ki
-  Be-gor o kafan laash rahi noor e nazar ki
-  Aalam ba khuda sog mein tha fatema zahra
+  begor o kafan laash rahi nur-e-nazar ki
+  Aalam ba khuda sog meiṅ tha fatema zahra
 
   5
-  Bacchon pe tere fauje sitamgaar ki yalghaar
-  Zanjeer bakaf tauq e garan abid e bemaar
+  Bacchoṅ pe tere fauje sitamgaar ki yalghaar
+  Zanjir bakaf tauq e garaṅ abid e bemaar
   Darbare alam qaide sitam dukhtare ghamkhwar
   Aada ke sitam kunba tera fatema zahra
 
   6
-  Ay sarwar o rehaan sar e majlis e shabbir
-  Jab fatema hoti hai dilafgaar o gulu geer
-  Manzar wo kahan tak koi kar sakta hai tehreer
+  E sarwar o rehaan sar e majlis e shabbir
+  Jab fatema hoti hai dilafgaar o gulu gir
+  Manzar wo kahaṅ tak koi kar sakta hai tehrir
   Rota hai qalam likh ke sada fatema zahra
 # source_id: nohayonline:6742733f534d5258c7c7
 # source_url: https://www.nohayonline.com/details_content.php?id=3323

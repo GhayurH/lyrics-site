@@ -26,12 +26,12 @@ romanLyrics: |-
 
   2
   Tera darbar wo sakhi dar hai
-  Har farishta jahan gadagar hai
+  Har farishta jahaṅ gadagar hai
   Tere maqruz aasman waale
   Tera maqruz har Sikandar hai
 
   Ae meri bibi tu sakhi hai tere bache bhi
-  Ek Raahib nahi gawahi mein jag ye saara hai
+  Ek Raahib nahi gawahi meiṅ jag ye saara hai
 
   3
   farsh-e-majlis pe aur musalle par
@@ -54,10 +54,10 @@ romanLyrics: |-
   5
   Fard-e-momin se gham juda kar de
   Bas gham-e-Karbala ata kar de
-  Be-khata qaid mein hai jo momin
-  Maujize se unhein riha kar de
+  bekhata qaid meiṅ hai jo momin
+  Maujize se unheiṅ riha kar de
 
-  Ae meri bibi gham koi Husainiyon ko na de
+  Ae meri bibi gham koi Husainiyoṅ ko na de
   Jo Husaini hai tere baba ko jaan se pyara hai
 
   6
@@ -70,13 +70,13 @@ romanLyrics: |-
   teri awaaz aaye aane do yeh hamara hai
 
   7
-  Majlis-e-gham mein ashk barsaane
+  Majlis-e-gham meiṅ ashk barsaane
   Aa sake ya nahi Khuda jaane
-  Kya bharosa hamari saanson ka
-  Ab kahan hum kahan aza-khane
+  Kya bharosa hamari saansoṅ ka
+  Ab kahaṅ hum kahaṅ aza-khane
 
   Ae meri bibi ashk-e-gham teri amanat hai
-  Teri aulaad ke hi gham ne hamein sanwara hai
+  Teri aulaad ke hi gham ne hameiṅ sanwara hai
 
   8
   khun ban kar ragoṅ meiṅ hai nauha

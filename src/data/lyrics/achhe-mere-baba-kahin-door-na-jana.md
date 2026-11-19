@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   Haye Kya Alam-e-Tanhai Hai
-  Jab Aakhri Rukhsat Ko Chaley Syed-e-Wala
-  Kuhram Tha Dil Hotey They Gham Se Tah-o-Bala
-  Shabeer Ne Godi Se Sakina Ko Utara
-  Ghazi Ko Kabhi Akbar-o-Qasim Ko Pukara
+  Jab Aakhri Rukhsat Ko Chale Syed-e-Wala
+  Kuhram Tha Dil Hote The Gham Se Tah o Bala
+  Shabir Ne Godi Se Sakina Ko Utara
+  Ghazi Ko Kabhi Akbar o Qasim Ko Pukara
   Baba Ko Qasam De Ke Bulati Thi Sakina
-  Sar Peetti Pichey Chali Jati Thi Sakina
-  Achay Mere Baba Haye Kya Alam-e-Tanhai Hai
-  Achay Mere Baba Na Sakina Se Chupana
-  Kahin Door Na Jana
-  Dil Rota Hai Kyun Pehna Hai Malboos Porana
+  Sar Pitti Piche Chali Jati Thi Sakina
+  Ache Mere Baba Haye Kya Alam-e-Tanhai Hai
+  Ache Mere Baba Na Sakina Se Chupana
+  Kahiṅ Dur Na Jana
+  Dil Rota Hai Kiuṅ Pehna Hai Malbus Porana
 
   1
   Iss Tarha Safar Par Koi Jata Nahi Dekha
-  Pehne Tumhein Aisa Kabhi Kurta Nahi Dekha
-  Main Jan Gayi Aaj Hai Maqtal Mein Thikana
+  Pehne Tumheiṅ Aisa Kabhi Kurta Nahi Dekha
+  Maiṅ Jan Gayi Aaj Hai Maqtal Meiṅ Thikana
 
   2
-  Sheh Bolay Main Qurban Meri Jan Sakina
+  Sheh Bole Maiṅ Qurban Meri Jan Sakina
   Ik Wadah Hai Jo Aaj Nibhana Hai Sakina
-  Khaimon Se Nikal Kar Na Humein Dhondne Aana
+  Khaimoṅ Se Nikal Kar Na Humeiṅ Dhondne Aana
 
   3
-  Kal Raat Se Be Chain They Main Dekh Rahi Thi
-  Main Seene Pe Leti Thi Magar Soyi Kahan Thi
-  Ab Samjhi Tumhein Hum Se Bohat Door Hai Jana
+  Kal Raat Se Bechain The Maiṅ Dekh Rahi Thi
+  Maiṅ Sine Pe Leti Thi Magar Soyi Kahaṅ Thi
+  Ab Samjhi Tumheiṅ Hum Se Bohat Dur Hai Jana
 
   4
-  Aata Hai Nazar Haal Ghareebi Ka Tumhari
-  Lagta Hai Yeh Saman Yateemi Ka Hamari
-  Baba Humein Jeene Nahi Deta Yeh Zamana
+  Aata Hai Nazar Haal Gharibi Ka Tumhari
+  Lagta Hai Yeh Saman Yatimi Ka Hamari
+  Baba Humeiṅ Jine Nahi Deta Yeh Zamana
 
   5
   Akbar Kabhi Asghar Kabhi Qasim Ne Rulaya
   Jo Ran Ko Gaya Aaj Palat Kar Nahi Aaya
-  Bholi Nahi Ab Tak Main Chacha Jan Ka Jana
+  Bholi Nahi Ab Tak Maiṅ Chacha Jan Ka Jana
 
   6
-  Pehlu Se Sheh-e-Dein Ke Na Hatti Thi Sakina
+  Pehlu Se Sheh-e-Deiṅ Ke Na Hatti Thi Sakina
   Daman Kabhi Qadmo Se Lipatti Thi Sakina
   Tarpaya Hai Yeh Aap Ka Daman Ko Chorana
 
   7
-  Aye Sarwar-o-Rehan Yeh Kehne Lagay Sarwar
-  Hum Bhi Wahin Jate Hain Jahan Sotay Hain Asghar
+  Ae Sarwar o Rehan Yeh Kehne Lage Sarwar
+  Hum Bhi Wahiṅ Jate Haiṅ Jahaṅ Sote Haiṅ Asghar
   Beti Phophi Amma Ko Na Ro Ro Ke Rolana
 # source_id: ziyaraat:0dc0403007c7f30f483a
 # source_url: https://www.ziyaraat.net/api/noha/1229

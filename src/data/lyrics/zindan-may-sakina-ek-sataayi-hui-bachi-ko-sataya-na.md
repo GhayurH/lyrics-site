@@ -12,67 +12,67 @@ published: false
 romanLyrics: |-
   1
   Ek sataayi hui bachi ko sataya na karo
-  Ay parindo dar e zindan se guzra na karo
+  E parindo dar e zindan se guzra na karo
   Sakina haye sakina haye sakina bekas sakina
-  Zindan mein sakina ka tha nauha
-  Ay meri phupi jaan kab jayenge hum ghar
+  Zindaṅ meiṅ sakina ka tha nauha
+  Ae meri phupi jaan kab jayenge hum ghar
   Sakina haye sakina haye sakina bekas sakina
   Kab qaid se payenge rehaai kab chain milega
   Kehti thi wo ro kar sakina sakina
   Sakina haye sakina haye sakina bekas sakina
-  Udte huwe parindo ko dekha to ye poocha
-  Batlaye phupi jaan mujhe jaate hai ye kis jaa
-  Zainab na kaha jaate hai ghar hai jahan unka
-  Ye sun ke wo zindan mein karne lagi girya
+  Urte huwe parindo ko dekha to ye pucha
+  Batlaye phupi jaaṅ mujhe jaate hai ye kis jaa
+  Zainab na kaha jaate hai ghar hai jahaṅ unka
+  Ye sun ke wo zindan meiṅ karne lagi girya
   Kya hum bhi watan jayenge amma ya qaid rahenge
-  Kehti thi tadap kar
+  Kehti thi tarap kar
   Sakina sakina haye sakina
   Haye sakina haye sakina haye sakina bekas sakina
   Kya jurm hum se hogaya jis ki ye saza hai
   Bin baap ki bachi hoo magar qaid e jafa hai
-  Zindan bhi amma mujhe tareek mila hai
-  Dum ghut'ta is mein na ujala na hawa hai
-  Mar jaungi is qaid mein amma har soo hai andhera
+  Zindan bhi amma mujhe tarik mila hai
+  Dum ghut'ta is meiṅ na ujala na hawa hai
+  Mar jaungi is qaid meiṅ amma har soo hai andhera
   Lagta hai mujhe dar
   Sakina sakina haye sakina
   Haye sakina haye sakina haye sakina bekas sakina
-  Masoom pe bhi rehm nahi khaate sitamgaar
+  Masum pe bhi rehm nahi khaate sitamgaar
   Aur maarte hi mujhe rone pe ye jafakaar
-  Zaalim ke tamachon se mere surkh hai rukhsaar
-  Zindan mein akeli hoo nahi koi madadgaar
-  Kya kya na sitam mujh pe rawaan hai
-  Mai kaise bataun kya zulm hai mujh par
+  Zaalim ke tamachoṅ se mere surkh hai rukhsaar
+  Zindaṅ meiṅ akeli hoo nahi koi madadgaar
+  Kya kya na sitam mujh pe rawaaṅ hai
+  Mai kaise batauṅ kya zulm hai mujh par
   Sakina sakina haye sakina
   Haye sakina haye sakina haye sakina bekas sakina
   Pani nahi maangungi kabhi laut ke aao
-  Qaid e bala se apni bathiji ko chudao
-  Ammu mujhe zindan ke andhere se bachao
-  Kyun hogaye naraaz mujhe ye to batao
-  Sunte nahi kyun meri duhaai kya hogaya tumko
+  Qaid e bala se apni bathiji ko churao
+  Ammu mujhe zindaṅ ke andhere se bachao
+  Kiun hogaye naraaz mujhe ye to batao
+  Sunte nahi kiuṅ meri duhaai kya hogaya tumko
   Abbas e dilwar
   Sakina sakina haye sakina
   Haye sakina haye sakina haye sakina bekas sakina
-  Humjoli nahi mera kis ko bulaaun
-  Tanha hoo bahot dil ko mai kis tarha lagaaun
-  Asghar bhi nahi seene pe jisko mai sulaaun
-  Kis ko karun mai pyar bhala kis ko khilaaun
-  Dil mera behal jayega amma mai godh mein loongi
+  Humjoli nahi mera kis ko bulaauṅ
+  Tanha hoo bahot dil ko mai kis tarha lagaauṅ
+  Asghar bhi nahi sine pe jisko mai sulaauṅ
+  Kis ko karuṅ mai pyar bhala kis ko khilaauṅ
+  Dil mera behal jayega amma mai godh meiṅ lungi
   Laa do ali asghar
   Sakina sakina haye sakina
   Haye sakina haye sakina haye sakina bekas sakina
-  Dunya ka hai dastoor pidar marta hai jis ka
-  Dete hai bade pyar se sab log dilaasa
+  Dunya ka hai dastur pidar marta hai jis ka
+  Dete hai bare pyar se sab log dilaasa
   Par sar se uthe hai mere jab se shah e waala
-  Is tarha layeeno ne diya hai mujhe pursa
-  Dur cheene gaye kaano se mere khati thi tamache
-  Haste thay sitamgar
+  Is tarha layino ne diya hai mujhe pursa
+  Dur chine gaye kaano se mere khati thi tamache
+  Haste the sitamgar
   Sakina sakina haye sakina
   Haye sakina haye sakina haye sakina bekas sakina
-  Gohar mai bayan kaise karun bachi ki rudaad
-  Dhaayi thi musalmano ne masoom pe bedaad
-  Ro ro ke wo zindan mein karti thi faryaad
-  Darti hoo andhere mein bahot sayyed e sajjad
-  Ay bhaiya mere mujhko bachao
+  Gohar mai bayan kaise karuṅ bachi ki rudaad
+  Dhaayi thi musalmano ne masum pe bedaad
+  Ro ro ke wo zindan meiṅ karti thi faryaad
+  Darti hoo andhere meiṅ bahot sayyed e sajjad
+  Ae bhaiya mere mujhko bachao
   Lekar mujhe jao zindan se bahar
   Sakina sakina haye sakina
   Haye sakina haye sakina haye sakina bekas sakina

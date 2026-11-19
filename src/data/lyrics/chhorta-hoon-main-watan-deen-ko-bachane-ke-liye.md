@@ -16,8 +16,8 @@ romanLyrics: |-
   Dasht-e-bala basanay ko veeran ghar kiya
   Rukh pehlay sooey marqad-e-khairul bashar kiya
   Rozay ko dekh dekh kar ankhon ko tar kiya
-  Kehtay thay gham bara yeh liye jaye ga Hussain
-  Kaahay ko is mazar pe phir aaye ga Hussain
+  Kehtay thay gham bara yeh liye jaye ga Husain
+  Kaahay ko is mazar pe phir aaye ga Husain
 
   2
   Yeh keh ke utray ghoray se ba chashm-e-ashk bar
@@ -34,7 +34,7 @@ romanLyrics: |-
   4
   Yeh keh ke liptay qabr se aur roey zar zar
   Mehboob-e-Kibraya ka laga kampnay mazar
-  Aaye sada yeh roza-e-aqdas se bar bar
+  Aaye sada yeh roza-e-aqdas se baar baar
   Aey jaan-e-Fatima teri ghurbat pe may nisar
   Jab tu chala to chain kab aaye Rasool ko
   Turbar may zalimoon ne sataya Batool ko

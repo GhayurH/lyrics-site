@@ -11,16 +11,16 @@ aliases: []
 published: false
 romanLyrics: |-
   Jab shaam ke bazaar may saydaniya aayi
-  Arey chadar ki jagah khaake safar baalon pe laayi
-  Nagaah jab ghazi ki nazar kulsoom tak aayi
-  Arey sar khaak par abbas ne naize se giraya
-  Darr hai kulsoom ke chehre pe na pad jaye nazar
+  Are chadar ki jagah khaake safar baaloṅ pe laayi
+  Nagaah jab ghazi ki nazar kulsum tak aayi
+  Are sar khaak par abbas ne naize se giraya
+  Darr hai kulsum ke chehre pe na par jaye nazar
   Noke naiza pe teharta nahi abbas ka sar
 
   1
-  Ek ghaiyoor wafadar pe ab aur sitam kya hoga
+  Ek ghaiyur wafadar pe ab aur sitam kya hoga
   Jiski chadar ka mohafiz tha wohi aaj hui beparda
-  Shaam walon isi ehsaas se douran e safar
+  Shaam waloṅ isi ehsaas se douran-e-safar
 
   2
   Girgayi raah may naaqe se sakina to ye zainab ne kaha
@@ -30,37 +30,37 @@ romanLyrics: |-
   3
   Shaam ke log tamashayi bane aur tamasha sadaat
   Bewatan aur khule sar hai sare raah kare kya sadaat
-  Khoon aankhon se bahaate shahe jinn-o-bashar
+  Khun aankhoṅ se bahaate shahe jinn o bashar
 
   4
-  Andhiyon khaak udao ke bane is se haram ka parda
-  Goonji jab shaam ke ghamnaak fazaon may ye zainab ki sada
-  Aasmaan rone laga royi zameen ye keh kar
+  Andhiyon khaak urao ke bane is se haram ka parda
+  Gunji jab shaam ke ghamnaak fazaoṅ may ye zainab ki sada
+  Aasmaaṅ rone laga royi zamiṅ ye keh kar
 
   5
-  Chasme sajjad se behne lage us waqt lahoo ke dhaare
-  Jab ke masoom sakina ko sitamgar ne tamache maare
-  Laasha saahil pe tadapta hai udhar aur idhar
+  Chasme sajjad se behne lage us waqt lahu ke dhaare
+  Jab ke masum sakina ko sitamgar ne tamache maare
+  Laasha saahil pe tarapta hai udhar aur idhar
 
   6
   Rone walon sare bazaar khule sar thi ali ki beti
-  Girgarya farqe wafadar jo naize se to hairaan thay shaqi
-  Poocha abid se sitamgar ne batao kyun kar
+  Girgarya farqe wafadar jo naize se to hairaaṅ the shaqi
+  Pucha abid se sitamgar ne batao kiun kar
 
   7
-  Saat sadaat ke shehzadi e kounain safar karti rahi
-  Nauha karte hai nabi khaak udhate hai hasan aur ali
+  Saat sadaat ke shehzadi-e-kounain safar karti rahi
+  Nauha karte hai nabi khaak urhate hai hasan aur ali
   Haye kya waqt hai rote hai sina par sarwar
 
   8
-  Kabhi laila kabhi farwa kabhi kulsoom kahe wawaila
-  Chehra baalon se chupate hue zainab ne yehi roke kaha
+  Kabhi laila kabhi farwa kabhi kulsum kahe wawaila
+  Chehra baaloṅ se chupate hue zainab ne yehi roke kaha
   Amma fizza zara dekho to ye gham ka manzar
 
   9
   Nauha likhte huwe irfan ye mazhar ne kaha tha rokar
   Kaun khirtaas pe la sakta hai aulade payambar ka safar
-  Ro diye qalb-o-jigar ek hi misra likh kar
+  Ro diye qalb o jigar ek hi misra likh kar
 # source_id: nohayonline:6c188d89e2b9cea32ad7
 # source_url: https://www.nohayonline.com/details_content.php?id=559
 # raw_sha256: b93970f364b07b50bf742f3bcfd8bba272fe69cd023281bcec23404fc8e0e2aa

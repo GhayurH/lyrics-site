@@ -12,28 +12,28 @@ published: false
 romanLyrics: |-
   1
   Jab na aada se kisi tarha safayi tehri
-  Subhe ashoor e moharram ko ladayi tehri
-  Poocha zainab ne ke kya ay mere bhai tehri
+  Subhe ashur-e-moharram ko larayi tehri
+  Pucha zainab ne ke kya ae mere bhai tehri
   Sheh ne farmeina behan tum se judaai tehri
-  Aaj pyaron se mulaqaat ghanimat jaano
-  Ay behan aaj ki ye raat ghanimat jaano
-  Aagayi shaam e ghariban ghar jalaane ke liye
-  Subhe ashoora hui laashein uthaane ke liye
+  Aaj pyaroṅ se mulaqaat ghanimat jaano
+  Ae behan aaj ki ye raat ghanimat jaano
+  Aagayi shaam e gharibaṅ ghar jalaane ke liye
+  Subhe ashura hui laasheiṅ uthaane ke liye
   Jab se zainab ne suna hai aagaye baba mere
-  Dhoondti phirti hai chadar sar chupane ke liye
-  Subhe ashoora hui...
+  Dhundti phirti hai chadar sar chupane ke liye
+  Subhe ashura hui...
   Baazu e ghazi agar kaafi nahi tujhko furaat
   Kya ruqayya aaye ab baazu katane ke liye
-  Subhe ashoora hui...
-  Khoone asghar se agar bujhti nahi teeron ki pyaas
-  Khoon haazir hai sakina ka bujhane ke liye
-  Subhe ashoora hui...
+  Subhe ashura hui...
+  Khune asghar se agar bujhti nahi tiroṅ ki pyaas
+  Khun haazir hai sakina ka bujhane ke liye
+  Subhe ashura hui...
   Sar se chadar ka utarna maut zainab ki hai par
   Ab bhi zinda hai to abid ko bachane ke liye
-  Subhe ashoora hui...
+  Subhe ashura hui...
   Karbala ke baad asghar ke tabassum ke siwa
   Kya sabab bachta hai akbar muskurane ke liye
-  Subhe ashoora hui...
+  Subhe ashura hui...
 # source_id: nohayonline:326174a271a129f0a05f
 # source_url: https://www.nohayonline.com/details_content.php?id=2315
 # raw_sha256: 48d9736f6433dbcfe9be2065d8b97f0b4104ccc5e413f57c3d017a94688b5a65

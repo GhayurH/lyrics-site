@@ -9,44 +9,44 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Matam zameen pe hota hay aur arsh par buka
-  Taboot e Murtaza ko uthatay hain Ambiya
+  Matam zamin pe hota hai aur arsh par buka
+  Tabut e Murtaza ko uthate haiṅ Ambiya
 
   1
-  Chehray pe khoon behta hay sar hay shigafta
+  Chehre pe khun behta hai sar hai shigafta
   Dunya se is tarha mera mushkil kusha chala
 
   2
   Wo jis ko dekhna bhi ibadat kaha gaya
-  Dooba hua hay khoon may wo chehra Imam ka
+  Duba hua hai khuṅ may wo chehra Imam ka
 
   3
-  Ummat yateem ho gayi be aasra hayat
+  Ummat yatim ho gayi beaasra hayat
   Jo sab ke bojh uthata tha dunya se uth gaya
 
   4
-  Jinn o Malak Rasool o bashar saray aa gaye
+  Jinn o Malak Rasul o bashar sare aa gaye
   Kis shan se utha tha janaza Imam ka
 
   5
-  Abbas ko supard kiya hay Hussain ke
-  Jatay huay Ali ki hay ankhon may Karbala
+  Abbas ko supard kiya hai Husain ke
+  Jate hue Ali ki hai ankhoṅ may Karbala
 
   6
-  Zainab kahan hay poochtay hain ghash may Murtaza
-  Ankhain hain band samnay manzar hay Shaam ka
+  Zainab kahaṅ hai puchte haiṅ ghash may Murtaza
+  Ankhaiṅ haiṅ band samne manzar hai Shaam ka
 
   7
-  Mola mila hay aap ko taboot aur kafan
-  Be gor o be kafan raha lasha Hussain ka
+  Mola mila hai aap ko tabut aur kafan
+  Begor o bekafan raha lasha Husain ka
 
   8
-  Beta usi ka pyasa raha teen roz tak
-  Qatil ko apnay jis ne ke sharbat ata kiya
+  Beta usi ka pyasa raha tin roz tak
+  Qatil ko apne jis ne ke sharbat ata kiya
 
   9
   Mushkil may sab ki jaan bachata tha jo qamar
-  Sajday may zalimo ne usay qatl kar diya
+  Sajde may zalimo ne use qatl kar diya
 # source_id: ziyaraat:859c06a27adaf26b1884
 # source_url: https://www.ziyaraat.net/api/noha/2183
 # raw_sha256: 6c68b926f5d2721c6171f29e3d146ec3f3c7ecaa1f2df3a633ae097c9fdead71

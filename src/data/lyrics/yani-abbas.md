@@ -12,63 +12,63 @@ published: false
 romanLyrics: |-
   1
   Darbar e hussaini ali ke laal ka dar hai
-  Yahan jo maango wo mil jaata hai
+  Yahaṅ jo maango wo mil jaata hai
   Ek naam hai jo kaam aata hai
   Zehra ki dua kehlaata hai
-  Chauda sadiyon se dunya pe
+  Chauda sadiyoṅ se dunya pe
   Jis ka parcham lehrata hai
-  Ay matam daaro mere saath pukaro
-  Tu hi raasta hai ya hussain
+  Ae matam daaro mere saath pukaro
+  Tu hi raasta hai ya Husain
   Baab e karam saqqa e haram
   Har taote dil ki aas ka yani abbas ka
-  Maula ye juloos e ashoora ye majlis aur ye matam
-  Ye ishq dilon se na ho kam sar un ka rahe ooncha har dam
+  Maula ye julus e ashoora ye majlis aur ye matam
+  Ye ishq diloṅ se na ho kam sar un ka rahe uncha har dam
   Jo log uthaate hai parcham
   Jab aaya moharam har ankh rahe nam hota rahe matam
-  Tu hi raasta hai ya hussain
-  Mashk alam taboot sabeel aur pani darya pyaas ka
+  Tu hi raasta hai ya Husain
+  Mashk alam tabut sabil aur pani darya pyaas ka
   Yani abbas ka yani abbas ka...
   Har aat moharam jo shehzaade karte hai saqqai
-  Tere ghazi ke hai shedayi ay saani e zahra ke bhai
+  Tere ghazi ke hai shedayi e saani e zahra ke bhai
   Aabad rahe wo maulai
   Jo mashk utha kar kehte hai ye ro kar haazir hai ye naukar
-  Tu hi raasta hai ya hussain
-  Karbobla mein pyase bachon ke jeene ki aas ka
+  Tu hi raasta hai ya Husain
+  Karbobla meiṅ pyase bachoṅ ke jine ki aas ka
   Yani abbas ka yani abbas ka...
-  Dunya ki buri nazron se bachaye rakhna ibne hyder
+  Dunya ki buri nazroṅ se bachaye rakhna ibne hyder
   Hum farshe aza ke hai naukar wo nauhakhwan ho ya shayar
   Tera khaas karam hai un sab par
-  Ye girya o zaari rahe jaari o saari naslon mein hamari
-  Tu hi raasta hai ya hussain
+  Ye girya o zaari rahe jaari o saari nasloṅ meiṅ hamari
+  Tu hi raasta hai ya Husain
   Apne har zaakir pe rakhna tum saaya wan'naas ka
   Yani abbas ka yani abbas ka...
-  Maula ho salam un behno par jo khaali jholiyan le kar
+  Maula ho salam un behno par jo khaali jholiyaṅ le kar
   Aati hai tumhari chaukat par faryad wo karti hai ro kar
   Maula ho ata ek aisa pisar
-  Roz e ashoora kare khoon ka pursa armaan hai mera
-  Tu hi raasta hai ya hussain
+  Roz e ashura kare khun ka pursa armaan hai mera
+  Tu hi raasta hai ya Husain
   Mohsin ban ke zehra ke ghar jo aaya us khaas ka
   Yani abbas ka yani abbas ka...
   Jab bhi ye dua karta hoo behno ke sar par rahe chadar
-  Yaad aata hai zainab ka sar bazaar mein jab wo bechadar
+  Yaad aata hai zainab ka sar bazaar meiṅ jab wo bechadar
   Kehti thi dekh ke aap ka sar
   Quran sunao zara dhyaan batao mera saath nibhao
-  Tu hi raasta hai ya hussain
+  Tu hi raasta hai ya Husain
   Naize se jo khaak pe girta rehta hai us raas ka
   Yani abbas ka yani abbas ka...
-  Beti ko mila ek din zindan e shaam mein baba ka sar
+  Beti ko mila ek din zindan e shaam meiṅ baba ka sar
   Kaisa tha qayamat ka manzar sar saamne baba ka rakh kar
   Boli ye sakina ro ro kar
-  Meri jaanib dekho zara aankhein kholo baba kuch bolo
-  Tu hi raasta hai ya hussain
-  Neele rukhsaaron ka gohar chinne ke ehsaas ka
+  Meri jaanib dekho zara aankheiṅ kholo baba kuch bolo
+  Tu hi raasta hai ya Husain
+  Nile rukhsaaron ka gohar chinne ke ehsaas ka
   Yani abbas ka yani abbas ka...
-  Apne zawwaron ki fehrist mein likhdo naam hamara
-  Ay bali sakina ke baba zeeshan ho ya irfan e aza
+  Apne zawwaroṅ ki fehrist meiṅ likhdo naam hamara
+  Ae bali sakina ke baba zishan ho ya irfan-e-aza
   Karte hai yehi ro ro ke dua
   Zawwar bana do ab jald sada do darbar dikha do
-  Tu hi raasta hai ya hussain
-  Karbobla tehreer hai jis pe maula us kirtaas ka
+  Tu hi raasta hai ya Husain
+  Karbobla tehrir hai jis pe maula us kirtaas ka
   Yani abbas ka yani abbas ka...
 # source_id: nohayonline:00498542a0d2fc5c48b6
 # source_url: https://www.nohayonline.com/details_content.php?id=2199

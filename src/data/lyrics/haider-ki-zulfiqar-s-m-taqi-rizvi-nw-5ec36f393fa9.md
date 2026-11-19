@@ -18,7 +18,7 @@ published: false
 # source_url: https://tajpoints.com/2026/01/haider-ki-zulfiqar-sm-taqi-rizvi-lyrics.html
 # raw_sha256: 200915485e507e24a21a92a22958f2ff7c06af1c98ef1c8899b2c42138202df1
 romanLyrics: |-
-  Arsh-e-Barin Se Aayi Hai Haider Ki Zulfiqar
+  Arsh-e-Bariṅ Se Aayi Hai Haider Ki Zulfiqar
   Ijaz-e-Kibriyai Hai Haider Ki Zulfiqar
 
   1
@@ -26,19 +26,19 @@ romanLyrics: |-
   Qudrat Ne Khud Banai Hai Haider Ki Zulfiqar
 
   2
-  Har Dushman-e-Ali Ko Jahanum Dikhaney Ka
+  Har Dushman-e-Ali Ko Jahanum Dikhane Ka
   Paigham Sath Layi Hai Haider Ki Zulfiqar
 
   3
-  Bas Dekh Ke Hi Razm Mein Do Chaar Mar Gaye
-  Maidaan Mein Jab Bhi Aayi Hai Haider Ki Zulfiqar
+  Bas Dekh Ke Hi Razm Meiṅ Do Chaar Mar Gaye
+  Maidaaṅ Meiṅ Jab Bhi Aayi Hai Haider Ki Zulfiqar
 
   4
-  Dast e Khuda Se Dast e Khuda Ko Atta Hoi
+  Dast-e-Khuda Se Dast-e-Khuda Ko Atta Hoi
   Sarwar Ne Hi Mangayi Hai Haider Ki Zulfiqar
 
   5
-  Rakhti Hain Apne Hath Se Iss Ko Sanwar Kar
+  Rakhti Haiṅ Apne Hath Se Iss Ko Sanwar Kar
   Zahra Ke Dil Ko Bhai Hai Haider Ki Zulfiqar
 
   6
@@ -46,31 +46,31 @@ romanLyrics: |-
   Abbas Ne Uthai Hai Haider Ki Zulfiqar
 
   7
-  Do Tukray Ho Ke Gir Paray Bas Aik Waar Mein
+  Do Tukre Ho Ke Gir Pare Bas Aik Waar Meiṅ
   Jis Ne Bhi Aazmai Hai Haider Ki Zulfiqar
 
   8
-  Karb-o-Bala Ke Ban Mein Bohat Se Fana Kiye
+  Karb o Bala Ke Ban Meiṅ Bohat Se Fana Kiye
   Shabbir Ne Chalai Hai Haider Ki Zulfiqar
 
   9
-  Do Pal Mein Kaat Sakti Hoon Nu Lakh Hi Tu Hain
+  Do Pal Meiṅ Kaat Sakti Huṅ Nu Lakh Hi Tu Haiṅ
   Keh Kar Yeh Muskurai Hai Haider Ki Zulfiqar
 
   10
-  Haider Ki Aankh Ke Yeh Isharay Pe Chalti Hai
+  Haider Ki Aankh Ke Yeh Ishare Pe Chalti Hai
   Karti Younhi Safai Hai Haider Ki Zulfiqar
 
   11
-  Naslon Ki Janch Kar Ke Urati Hai Gardanein
+  Nasloṅ Ki Janch Kar Ke Urati Hai Gardaneiṅ
   Zerak Bhi Intehai Hai Haider Ki Zulfiqar
 
   12
-  Hathoon Mein Le Ke Aaein Gay Ab Barhwein Imam
+  Hathuṅ Meiṅ Le Ke Aaeiṅ Ge Ab Barhweiṅ Imam
   Unn Ke Liye Bachai Hai Haider Ki Zulfiqar
 
   13
-  Rizwan Keh Raha Hai Khuda Be Misal Hai
+  Rizwan Keh Raha Hai Khuda Bemisal Hai
   Khaliq Se Dad Payi Hai Haider Ki Zulfiqar
 ---
 عرشِ بریں سے آئی ہے حیدرؑ کی ذوالفقار

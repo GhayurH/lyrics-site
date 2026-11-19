@@ -1,6 +1,6 @@
 ---
 title: "سلام ہو آپ پر اے آدم کے وارث"
-alternateTitle: "Salam Ay Ghareeb"
+alternateTitle: "Salam Ae Ghareeb"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -12,59 +12,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Salam ho aap par ay adam ke waaris
-  Salam ho aap par ay nooh o ibrahim o musa o isa ke waaris
-  Salam ho aap par ay mohamed o ali o zahra ke waaris
-  Salam ay ghareeb e zahra salam
-  Mere hussain teri pyaas ko salam mera
-  Ke teri pyaas se sairaab hai ye deen e khuda
+  Salam ho aap par ae adam ke waaris
+  Salam ho aap par ae nuh o ibrahim o musa o isa ke waaris
+  Salam ho aap par ae mohamed o ali o zahra ke waaris
+  Salam ae gharib-e-zahra salam
+  Mere Husain teri pyaas ko salam mera
+  Ke teri pyaas se sairaab hai ye din e khuda
   Gawahi deta hai kaaba azaan aur sajda
-  Hussain waaris e adam hai waaris e isa
+  Husain waaris e adam hai waaris e isa
   Kya nabi aur wali khud mohamed sa nabi
   Ter rauze pe tujhe karta hai salam
-  Salam salam salam ay ghareeb e zahra...
-  Hussain qaid nahi hai hussain sab ka hai
-  Hussain aalam e insaniyat ka wirsa hai
-  Ajab ameer hai jannat ko chod kar apni
-  Hussain aaj bhi toote dilon mein rehta hai
+  Salam salam salam ae gharib-e-zahra...
+  Husain qaid nahi hai Husain sab ka hai
+  Husain aalam e insaniyat ka wirsa hai
+  Ajab amir hai jannat ko chor kar apni
+  Husain aaj bhi tute diloṅ meiṅ rehta hai
   Kya nabi aur wali khud mohamed sa nabi
   Ter rauze pe tujhe karta hai salam
-  Salam salam salam ay ghareeb e zahra...
-  Hussain dard mein jeena sikha diya tu ne
-  Hussain pyaas ko pani bana diya tu ne
-  Ghareeb bhi jahan jaa kar ameer lagta hai
-  Hussain shehr hi aisa basa diya tu ne
+  Salam salam salam ae gharib-e-zahra...
+  Husain dard meiṅ jina sikha diya tu ne
+  Husain pyaas ko pani bana diya tu ne
+  Gharib bhi jahaṅ jaa kar amir lagta hai
+  Husain shehr hi aisa basa diya tu ne
   Kya nabi aur wali khud mohamed sa nabi
   Ter rauze pe tujhe karta hai salam
-  Salam salam salam ay ghareeb e zahra...
-  Ajeeb shaan se waada nibhaya nana ka
-  Khuda ki raah mein tu ne luta diya kunba
+  Salam salam salam ae gharib-e-zahra...
+  Ajib shaan se waada nibhaya nana ka
+  Khuda ki raah meiṅ tu ne luta diya kunba
   Jawan bete ke laashe pe shukr ka sajda
-  Koi rasool bhi hota hawaas kho deta
+  Koi rasul bhi hota hawaas kho deta
   Kya nabi aur wali khud mohamed sa nabi
   Ter rauze pe tujhe karta hai salam
-  Salam salam salam ay ghareeb e zahra...
-  Mere ghareeb hussain mere shaheed hussain
-  Assalamu alaika ya qateel al abaraat
+  Salam salam salam ae gharib-e-zahra...
+  Mere gharib Husain mere shahid Husain
+  Assalamu alaika ya qatil al abaraat
   Ba waqt e asr gire shaah jalti reti par
-  Kahin se lagta tha naiza kahin se teer o tabar
+  Kahiṅ se lagta tha naiza kahiṅ se tir o tabar
   Khuda kisi ko qayamat na ye dikhaye kabhi
   Behan ke saamne bhai pe chal gaya khanjar
-  Assalamu alaika ya qateel al abaraat
-  Salam salam salam ay ghareeb e zahra..
-  Dhala jo asr ka suraj ajeeb shaam hui
+  Assalamu alaika ya qatil al abaraat
+  Salam salam salam ae gharib-e-zahra..
+  Dhala jo asr ka suraj ajib shaam hui
   Padar ke laasha e besar pe aayi ek bacchi
   Hata ke laash se patthar kaha ye rote huwe
-  Utho utho mere baba ujad gayi beti
-  Salam salam salam ay ghareeb e zahra...
-  Usi nasheb se naize pe aa rahe hai hussain
-  Sina ki nok pe quran suna rahe hai hussain
+  Utho utho mere baba ujar gayi beti
+  Salam salam salam ae gharib-e-zahra...
+  Usi nasheb se naize pe aa rahe hai Husain
+  Sina ki nok pe quraṅ suna rahe hai Husain
   Ye baat sach hai takallum khuda ki marzi se
-  Khuda ki saari khudayi chala rahe hai hussain
+  Khuda ki saari khudayi chala rahe hai Husain
   Kya nabi aur wali khud mohamed sa nabi
   Ter rauze pe tujhe karta hai salam
-  Salam salam salam ay ghareeb e zahra...
-  Assalam alaika ya abaab dillah ya qateel al abaraat
+  Salam salam salam ae gharib-e-zahra...
+  Assalam alaika ya abaab dillah ya qatil al abaraat
 # source_id: nohayonline:b31367265ea135392664
 # source_url: https://www.nohayonline.com/details_content.php?id=2584
 # raw_sha256: 68e811258fe1682a222669c48a8e0eeaecfb3b98fc940fc39d01d962c5cbfa65

@@ -12,7 +12,7 @@ published: false
 romanLyrics: |-
   1
   Kaunain ki shehzadiyan hai
-  Be-sar o saaman
+  besar o saaman
   Ye shaam e ghariban hai
   Aray shaam e ghariban
 

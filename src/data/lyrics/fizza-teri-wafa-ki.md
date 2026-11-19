@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kaneez e zehra janab e fizza
+  Kaniz e zehra janab e fizza
   Wafa ki malka janab e fizza
   Fizza teri wafa ki hadh aakhri yehi hai
   Zainab ke saath tu bhi bazaar may khari hai
   Fizza teri wafa ki...
-  Tu ne to sayyadon ka aabaad ghar bhi dekha
+  Tu ne to sayyadoṅ ka aabaad ghar bhi dekha
   Aur kis tarha hua wo barbaad ghar bhi dekha
-  Tu phir bhi naukri se peeche nahi hati hai
+  Tu phir bhi naukri se piche nahi hati hai
   Fizza teri wafa ki...
-  Ungli pakad ke teri zainab ne chalna seekha
+  Ungli pakar ke teri zainab ne chalna sikha
   Ek waqt wo bhi aaya zainab ke saath fizza
-  Jakdi hui rasan may kaanton pe tu chali hai
+  Jakri hui rasan may kaantoṅ pe tu chali hai
   Fizza teri wafa ki...
   Tu habsh ki hai malka sab jaante hai bibi
-  Qadmon may thi tumhare daulat jahan ki saari
-  Phir bhi kaneez e zehra tu faqr se bani hai
+  Qadmoṅ may thi tumhare daulat jahaṅ ki saari
+  Phir bhi kaniz e zehra tu faqr se bani hai
   Fizza teri wafa ki...
   Har ek qadam pe tu ne zainab ko hai bachaya
   Bibi pe aane waala pathar hai tu ne khaaya
-  Teri jabeen fizza zakhmon se bhar gayi hai
+  Teri jabin fizza zakhmoṅ se bhar gayi hai
   Fizza teri wafa ki...
   Sun kar wafat e abid khud bhi rahi na zinda
-  Bazaar e shaam may tha bibi tumhara laasha
+  Bazaar-e-shaam may tha bibi tumhara laasha
   Mayyat tumhari bibi baqar ne dafn ki hai
   Fizza teri wafa ki...
-  Ay arsalan aur mesum hoti hai pursadari
-  Jab kaarwan baqayya aate hai baari baari
-  Fizza bhi zaairon ke hum raah matami hai
+  Ae arsalan aur mesum hoti hai pursadari
+  Jab kaarwaṅ baqayya aate hai baari baari
+  Fizza bhi zaairoṅ ke hum raah matami hai
   Fizza teri wafa ki...
 # source_id: nohayonline:d001797984a09a8161cb
 # source_url: https://www.nohayonline.com/details_content.php?id=2146

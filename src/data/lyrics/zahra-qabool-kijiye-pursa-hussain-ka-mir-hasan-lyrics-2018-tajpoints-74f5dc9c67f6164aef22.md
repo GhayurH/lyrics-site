@@ -9,23 +9,23 @@ reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Zahra Qabool Kijiye Pursa Husain Ka"
+alternateTitle: "Zahra Qabul Kijiye Pursa Husain Ka"
 romanLyrics: |-
   Hayya ala khayr il amal
   Ya Husain
 
-  Zehra qabool kijiye pursa Husain ka
+  Zehra qabul kijiye pursa Husain ka
   Pyase ka bewatan ka Shah-e-mashriqain ka
 
   1
   Jab maah-e-Muharram ne khabar-e-gham ki suna di
   Rukh kar ke Baqi ka ye momin ne sada di
-  Tashrif laaein farsh-e-aza Shah ka bich gaya
+  Tashrif laaeiṅ farsh-e-aza Shah ka bich gaya
 
   2
-  Mazlum ke gham mein hui maghmum khudaai
-  Phir naam pe pyaasoṅ ke sabileṅ hain lagaai
-  Ghar ghar mein hai Husain ki ghurbat ka tazkira
+  Mazlum ke gham meiṅ hui maghmum khudaai
+  Phir naam pe pyaasoṅ ke sabileṅ haiṅ lagaai
+  Ghar ghar meiṅ hai Husain ki ghurbat ka tazkira
 
   3
   Har mor pe dhaaras jo raha Bint-e-Ali ki
@@ -33,28 +33,28 @@ romanLyrics: |-
   Us sher ke kate hue shaanoṅ ka waasta
 
   4
-  Aayi jo Madine mein wo zindaan se palat kar
+  Aayi jo Madine meiṅ wo zindaaṅ se palat kar
   Ghar jaane se pehle gayi maadar ki lehad par
   Zainab ne maaṅ ki qabr pe di pehli ye sada
 
   5
   Ghazi ko isi maaṅ ne sikhaaiṅ thi wafaaeṅ
   Betoṅ ke liye bharti bhala kaise wo aaheiṅ
-  Noha tha ye Baqi mein Ummul Banin ka
+  Noha tha ye Baqi meiṅ Ummul Banin ka
 
   6
-  Pardes mein ummat ne jise zakhm diye hain
-  Ek din mein jise daagh bahattar ke mile hain
+  Pardes meiṅ ummat ne jise zakhm diye haiṅ
+  Ek din meiṅ jise daagh bahattar ke mile haiṅ
   Us par salaam jis ka bhara ghar ujar gaya
 
   7
   Jine na diya us ko Musalmaanoṅ ne Bibi
-  Paala tha jise aap ne armaanoṅ se Bibi
+  Paala tha jise aap ne armaanon se Bibi
   Haye rula rula ke use zibh kar diya
 
   8
   Mazlum ki gardan pe wo chalta hua khanjar
-  Khuṅ un ko rulaata hai Takallum yehi manzar
+  Khun un ko rulaata hai Takallum yehi manzar
   Daadi ki ujri qabr pe Mehdi ka hai noha
 # source_id: nohayonline:38f850b519b0f135353e
 # source_url: https://www.nohayonline.com/details_content.php?id=2575

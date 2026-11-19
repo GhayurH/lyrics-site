@@ -13,39 +13,39 @@ romanLyrics: |-
   1
   Karbobala may dekh ke bikhre huwe laashe
   Har laasha e besar par bahot royi hai zahra
-  Sar saare shaheedon ke jab aaye sare naiza
+  Sar saare shahidoṅ ke jab aaye sare naiza
   Zahra ne kaha dekh ke abbas ka laasha
   Haye shaam haye bazaar haye ghairat e abbas
-  Naizon par nazar aata hai abbas ka laasha
-  Sab ko lahoo rulwaata hai abbas ka laasha
+  Naizoṅ par nazar aata hai abbas ka laasha
+  Sab ko lahu rulwaata hai abbas ka laasha
   Sambhla na gaya laashe pa zahra ne giraya
-  Phir seene se laashe ko yehi keh ke lagaya
+  Phir sine se laashe ko yehi keh ke lagaya
   Shabbir ke laashe sa hai abbas ka laasha
-  Naizon pa nazar aata hai...
-  Jaise hi kaha shaah ne sheron mere utho
-  Labbaik kaho uthke hussain ibne ali ko
-  Ye sunke bahot tadpa hai abbas ka laasha
-  Naizon pa nazar aata hai...
-  Barsaat tamachon ki sakina pa hui hai
+  Naizoṅ pa nazar aata hai...
+  Jaise hi kaha shaah ne sheroṅ mere utho
+  Labbaik kaho uthke Husain ibne ali ko
+  Ye sunke bahot tarpa hai abbas ka laasha
+  Naizoṅ pa nazar aata hai...
+  Barsaat tamachoṅ ki sakina pa hui hai
   Hadh zulm o sitam ki ye yateema pa hui hai
   Har zulm pa sar patka hai abbas ka laasha
-  Naizon pa nazar aata hai...
+  Naizoṅ pa nazar aata hai...
   Sarwar ne wilayat ke liye sar ko kataya
-  Asghar ne wilayat ke liye teer hai khaaya
+  Asghar ne wilayat ke liye tir hai khaaya
   Paigham yehi deta hai abbas ka laasha
-  Naizon pa nazar aata hai...
+  Naizoṅ pa nazar aata hai...
   Qaime jo jale roke ye zainab ne sada di
   Ghazi na raha chin gayi behno ki rida bhi
-  Ye dekh ke khoon rota hai abbas ka laasha
-  Naizon pa nazar aata hai...
-  Thay zakhm bahot sar pa tere ay mere ghazi
-  Nauha ye padha karte hai tanhaai may mehdi
-  Khoon ghaib may rulwaata hai abbas ka laasha
-  Naizon pa nazar aata hai...
+  Ye dekh ke khuṅ rota hai abbas ka laasha
+  Naizoṅ pa nazar aata hai...
+  The zakhm bahot sar pa tere ae mere ghazi
+  Nauha ye parha karte hai tanhaai may mehdi
+  Khuṅ ghaib may rulwaata hai abbas ka laasha
+  Naizoṅ pa nazar aata hai...
   Irfan se kehta hai jo gham aale nabi ka
   Nasir ho ya ho koi bhi ghamkhwar ali ka
   Har lafz pa yaad aata hai abbas ka laasha
-  Naizon pa nazar aata hai...
+  Naizoṅ pa nazar aata hai...
 # source_id: nohayonline:c4cd26af676ea20af8e8
 # source_url: https://www.nohayonline.com/details_content.php?id=1169
 # raw_sha256: ee3b7faef3cc2a3de5ca783e4da0fc703b03768f0bf61fad60a5c7c4a4f954cc

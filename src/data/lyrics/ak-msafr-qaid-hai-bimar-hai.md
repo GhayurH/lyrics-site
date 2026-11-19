@@ -35,7 +35,7 @@ romanLyrics: |-
   Ik musafir qaid hay beemar hay
 
   7
-  Haye qismat wa gharibi ya Hussain
+  Haye qismat wa gharibi ya Husain
   Karbala mein lut gaya ghar bar hay
   Ik musafir qaid hay beemar hay
 

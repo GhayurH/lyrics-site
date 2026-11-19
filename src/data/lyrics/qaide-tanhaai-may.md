@@ -1,6 +1,6 @@
 ---
 title: "قیدِ تنہائی میں دم گھٹنے لگا ہے میرا"
-alternateTitle: "Qaid-e-Tanhaai Mein"
+alternateTitle: "Qaid-e-Tanhaai Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

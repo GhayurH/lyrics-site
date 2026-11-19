@@ -14,36 +14,36 @@ romanLyrics: |-
   Alwida alwida alwida alwida
   Khwahara khuda hafiz
   Alwida behen zainab alwida behen zainab
-  Zainab e hazin e man khwahara khuda hafiz
+  Zainab-e-hazin-e-man khwahara khuda hafiz
   Alwida dureeda tan alwida dureeda tan
-  Zainab e hazin e man khwahara khuda hafiz
-  Man ke bi alamdaram be mueeno be yaram
-  Az hayate be zaaram khwahara khuda hafiz
-  Zainab e hazin e man khwahara khuda hafiz
-  Ay meri bahan zainab ghar tere hawale hai
-  Jo laayeq e sajda hai sar uske hawale hai
+  Zainab-e-hazin-e-man khwahara khuda hafiz
+  Man ke bi alamdaram bemueeno beyaram
+  Az hayate bezaaram khwahara khuda hafiz
+  Zainab-e-hazin-e-man khwahara khuda hafiz
+  Ae meri bahan zainab ghar tere hawale hai
+  Jo laayeq-e-sajda hai sar uske hawale hai
   Bas chalne ko hai khanjar khwahara khuda hafiz
   Kehna mere nana se ghar baar lutaya hai
   Is tarha nawase ne waade ko nibhaya hai
   Sar hai mera naize par khwahara khuda hafiz
-  Man ke bi alamdaram be mueeno be yaram
-  Az hayate be zaaram khwahara khuda hafiz
-  Zainab e hazin e man khwahara khuda hafiz
+  Man ke bi alamdaram bemueeno beyaram
+  Az hayate bezaaram khwahara khuda hafiz
+  Zainab-e-hazin-e-man khwahara khuda hafiz
   Tum baad mere zainab mushkil se na ghabrana
   Abbas e jari ban kar har zulm se takrana
-  Ay jaan o dil e hyder khwahara khuda hafiz
-  Man ke bi alamdaram be mueeno be yaram
-  Az hayate be zaaram khwahara khuda hafiz
-  Zainab e hazin e man khwahara khuda hafiz
+  E jaan o dil e hyder khwahara khuda hafiz
+  Man ke bi alamdaram bemueeno beyaram
+  Az hayate bezaaram khwahara khuda hafiz
+  Zainab-e-hazin-e-man khwahara khuda hafiz
   Zainab meri beti ko har gham se bacha lena
-  Jab roye sakina to godi mein sula lena
+  Jab roye sakina to godi meiṅ sula lena
   Kamsin hai meri dukhtar khwahara khuda hafiz
-  Man ke bi alamdaram be mueeno be yaram
-  Az hayate be zaaram khwahara khuda hafiz
-  Zainab e hazin e man khwahara khuda hafiz
+  Man ke bi alamdaram bemueeno beyaram
+  Az hayate bezaaram khwahara khuda hafiz
+  Zainab-e-hazin-e-man khwahara khuda hafiz
   Alwida dureeda tan alwida dureeda tan
   Khwahara khuda hafiz khwahara khuda hafiz
-  Zainab e hazin e man khwahara khuda hafiz
+  Zainab-e-hazin-e-man khwahara khuda hafiz
 # source_id: nohayonline:258fae3f4d2efa287eb4
 # source_url: https://www.nohayonline.com/details_content.php?id=1860
 # raw_sha256: 8a0416d4f1b21e9f5358309d3b14b9ccefc633621ba70be781dfdfc81efb0335

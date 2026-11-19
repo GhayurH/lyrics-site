@@ -1,6 +1,6 @@
 ---
 title: "ہو دل میں عشق کی شدت تو لا الٰہ پڑھو"
-alternateTitle: "Hum Ko Ya Hussain"
+alternateTitle: "Hum Ko Ya Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ho dil mein ishq ki shiddat to la ilaah padho
-  Gira do qalla e beyat to la ilaah padho
-  Ho mishle hurr jo riyazat to la ilaah padho
-  Dil o nazar mein ho ghairat to la ilaah padho
-  Zuban se keh bhi diya la ilaah to kiya haasil
+  Ho dil meiṅ ishq ki shiddat to la ilaah parho
+  Gira do qalla e beyat to la ilaah parho
+  Ho mishle hurr jo riyazat to la ilaah parho
+  Dil o nazar meiṅ ho ghairat to la ilaah parho
+  Zubaṅ se keh bhi diya la ilaah to kiya haasil
   Dil o nigaah musalman nahi to kuch bhi nahi
-  Waqt ke yazeed ko barbaad kar diya
-  Hum ko ya hussain ne azaad kar diya
-  Labbaika ya hussain
-  Zindagi hussain hai roshni hussain hai
-  Aagahi hussain hai bandagi hussian hai
-  Sir farosh hoon meri aashiqi hussain hai
-  Hurr ne aisa raasta eejaad kar diya
-  Hum ko ya hussain ne...
-  Aaqilon ke shehr mein zulmaton ke behr mein
-  Saans le rahe hai hum nafraton ke zehr mein
-  Ya hussain aasra zaalimon ke dehr mein
-  Aansuon ko aap ne imdaad kar diya
-  Hum ko ya hussain ne...
+  Waqt ke yazid ko barbaad kar diya
+  Hum ko ya Husain ne azaad kar diya
+  Labbaika ya Husain
+  Zindagi Husain hai roshni Husain hai
+  Aagahi Husain hai bandagi hussian hai
+  Sir farosh huṅ meri aashiqi Husain hai
+  Hurr ne aisa raasta ijaad kar diya
+  Hum ko ya Husain ne...
+  Aaqiloṅ ke shehr meiṅ zulmatoṅ ke behr meiṅ
+  Saans le rahe hai hum nafratoṅ ke zehr meiṅ
+  Ya Husain aasra zaalimoṅ ke dehr meiṅ
+  Aansuoṅ ko aap ne imdaad kar diya
+  Hum ko ya Husain ne...
   Daulat kya hai matti hai shohrat kya hai matti hai
-  Jo ho saron per dil par na ho aisi hukumat matti hai
-  Khaake shifa ek tere siwa sab ki haqeeqat matti hai
+  Jo ho saroṅ per dil par na ho aisi hukumat matti hai
+  Khaake shifa ek tere siwa sab ki haqiqat matti hai
   Khaake karbala ne dil aabaad kar diya
-  Hum ko ya hussain ne...
+  Hum ko ya Husain ne...
   Suno suno
-  Kaleja thaam ke roodad e ishq saare suno
+  Kaleja thaam ke rudad e ishq saare suno
   Bara e nusrat e emaan ek muslim tha
   Jise bulaya tha mehman ek muslim tha
-  Saja tha kufe ka deewan ek muslim tha
-  Thay baaqi saare musalman ek muslim tha
-  Bula ke kufa usay zaalimon ne chod diya
-  Kiya tha waada jo maula se sab ne tod diya
-  Suna watan mein jo zehra ke pyare bete ne
-  Hussain chod kar madina karbala ko chale
-  Saeed o john zuhair aur osaja bhi jude
+  Saja tha kufe ka diwan ek muslim tha
+  The baaqi saare musalman ek muslim tha
+  Bula ke kufa use zaalimoṅ ne chor diya
+  Kiya tha waada jo maula se sab ne tor diya
+  Suna watan meiṅ jo zehra ke pyare bete ne
+  Husain chor kar madina karbala ko chale
+  Said o john zuhair aur osaja bhi jure
   Kaha ye hurr ne akela tumhe na chodenge
-  Tumhari pyaas pe maula ye jaan de denge
-  Natawan qalb ko faulaad kar diya
-  Hum ko ya hussain ne...
-  Utha ke laashon pe laashe laaya
-  Nabi ka beta hussain tanha
-  Tha tapte sehra mein bhooka pyasa
-  Ghareeb e zahra hussain tanha
-  Jis ne jawan ko marte dekha
-  Qasim ke tukdon ko bhi sameta
-  Nanhe galay se teer nikala
-  Ghazi ko ghode se girte dekha
+  Tumhari pyaas pe maula ye jaan de deṅge
+  Natawaṅ qalb ko faulaad kar diya
+  Hum ko ya Husain ne...
+  Utha ke laashoṅ pe laashe laaya
+  Nabi ka beta Husain tanha
+  Tha tapte sehra meiṅ bhuka pyasa
+  Gharib e zahra Husain tanha
+  Jis ne jawaaṅ ko marte dekha
+  Qasim ke tukroṅ ko bhi sameta
+  Nanhe gale se tir nikala
+  Ghazi ko ghore se girte dekha
   Aun o mohamed ke laashe laaya
-  Ghareeb aisa koi nahi hai
-  Wo jis ne sajde mein sar kataya
+  Gharib aisa koi nahi hai
+  Wo jis ne sajde meiṅ sar kataya
   Kiya tha waada jo wo nibhaya
   Khuda bhi darvesh phir pukara
-  Salaam hussain salaam hussain
+  Salaam Husain salaam Husain
 # source_id: nohayonline:f4dc73eba35579632c5f
 # source_url: https://www.nohayonline.com/details_content.php?id=3708
 # raw_sha256: 5420b46cf73cfeb33609d1dfb237da29e0bf4e8c282e594f0fd725dfaaba2bfd

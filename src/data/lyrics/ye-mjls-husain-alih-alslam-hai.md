@@ -10,52 +10,52 @@ aliases: []
 published: false
 romanLyrics: |-
   Hai Soag Jis Jagah Bhi Sheh-e-Mashreqain Ka
-  Khud Pursa Zahra Leti Hain Is Noor-e-Ain Ka
+  Khud Pursa Zahra Leti Haiṅ Is Nur-e-Ain Ka
   Rona Sawab Jis Pe Na Rona Haram Hai
-  Yeh Majlis-e-Hussain Alaihissalam Hai
-  Chashm-e-Khuda Mein Is Ka Bara Ehteram Hai
+  Yeh Majlis-e-Husain Alaihissalam Hai
+  Chashm-e-Khuda Meiṅ Is Ka Bara Ehteram Hai
 
   1
-  Yeh Majlisein Hain Hamd-e-Khuda Naat-e-Mustafa
-  In Majlison Mein Hota Hai Quran Lab Kusha
-  In Majlison Se Milta Hai Jannat Ka Rasta
-  In Majlison Ki Hoti Hai Kuch Aisi Ibtida
+  Yeh Majliseiṅ Haiṅ Hamd-e-Khuda Naat-e-Mustafa
+  In Majlisoṅ Meiṅ Hota Hai Quran Lab Kusha
+  In Majlisoṅ Se Milta Hai Jannat Ka Rasta
+  In Majlisoṅ Ki Hoti Hai Kuch Aisi Ibtida
   Zakir Ke Lab Pe Pehle Khuda Ka Kalam Hai
 
   2
-  In Majlison Mein Hoti Hai Insaniyat Ki Baat
-  Zikr-e-Gham-e-Hussain Hai Wahdaniyat Ki Baat
-  Yeh Majlisein Rasool Ki Haqqaniyat Ki Baat
-  Radd Karti Hain Yeh Majlisein Sufyaniyat Ki Baat
+  In Majlisoṅ Meiṅ Hoti Hai Insaniyat Ki Baat
+  Zikr-e-Gham-e-Husain Hai Wahdaniyat Ki Baat
+  Yeh Majliseiṅ Rasul Ki Haqqaniyat Ki Baat
+  Radd Karti Haiṅ Yeh Majliseiṅ Sufyaniyat Ki Baat
   In Ke Sabab To Hurr Bhi Alaihissalam Hai
 
   3
-  In Majlison Ko Ajr-e-Risalat Kaha Gaya
+  In Majlisoṅ Ko Ajr-e-Risalat Kaha Gaya
   Roz-e-Azal Se Rone Ko Fitrat Kaha Gaya
-  Dil Ki Lughat Mein Is Ko Muhabbat Kaha Gaya
-  Yaani Ise Batool Ki Sunnat Kaha Gaya
+  Dil Ki Lughat Meiṅ Is Ko Muhabbat Kaha Gaya
+  Yaani Ise Batul Ki Sunnat Kaha Gaya
   Har Rone Wali Aankh Ko Mera Salam Hai
 
   4
-  Ek Majlis-e-Aza Jo Hui Mulk-e-Shaam Mein
-  Zainab Ne Saf Bichayi Thi Yaad-e-Imam Mein
-  Aansoo Chhupe Hue The Shaheedon Ke Naam Mein
-  Matam Hua Jo Yaad-e-Sheh-e-Tashna Kaam Mein
-  Tab Se Gham-e-Hussain Zamane Mein Aam Hai
+  Ek Majlis-e-Aza Jo Hui Mulk-e-Shaam Meiṅ
+  Zainab Ne Saf Bichayi Thi Yaad-e-Imam Meiṅ
+  Aansu Chhupe Hue The Shahidoṅ Ke Naam Meiṅ
+  Matam Hua Jo Yaad-e-Sheh-e-Tashna Kaam Meiṅ
+  Tab Se Gham-e-Husain Zamane Meiṅ Aam Hai
 
   5
-  Majlis Mein Zikr-e-Bali Sakina Kiya Karo
+  Majlis Meiṅ Zikr-e-Bali Sakina Kiya Karo
   Pani Piyo To Yaad Sheh-e-Karbala Ki Ho
-  Majlis Mein Tazkira Ali Asghar Ka Jab Suno
+  Majlis Meiṅ Tazkira Ali Asghar Ka Jab Suno
   Ik Aah Sard Bhar Ke Tarap Kar Yehi Kaho
-  Asghar Bara Tera Shaheedon Mein Maqam Hai
+  Asghar Bara Tera Shahidoṅ Meiṅ Maqam Hai
 
   6
-  Is Majlis-e-Hussain Ka Sarwar Hai Noha Khwan
-  Thakti Nahi Hai Zikr-e-Hussaini Mein Yun Zaban
-  Ghutti Mein Ashk-e-Gham Ko Pilati Rahi Hai Maa
-  Walid Ne Di Hai Kaan Mein Nohon Ki Woh Azaan
-  Rehan Jis Se Sare Zamane Mein Naam Hai
+  Is Majlis-e-Husain Ka Sarwar Hai Noha Khwaṅ
+  Thakti Nahi Hai Zikr-e-Hussaini Meiṅ Yuṅ Zabaṅ
+  Ghutti Meiṅ Ashk-e-Gham Ko Pilati Rahi Hai Maa
+  Walid Ne Di Hai Kaan Meiṅ Nohoṅ Ki Woh Azaaṅ
+  Rehan Jis Se Sare Zamane Meiṅ Naam Hai
 # source_id: ziyaraat:c763d4487f8a65bea53f
 # source_url: https://www.ziyaraat.net/api/noha/1234
 # raw_sha256: 484772d72282812d9089bf859ecb2b6d5f7c0f7d4555c9f2a7a328c83784421e

@@ -11,62 +11,62 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ajeeb shor hai ke shor mein sukoon hai
-  Ajab sukoon hai sukoon mein junoon hai
-  Ye wo junoon hai jo deen ka sukoon hai
-  Ye kya ye kyun ye kaise hai ye sochna haram hai
+  Ajib shor hai ke shor meiṅ sukun hai
+  Ajab sukun hai sukun meiṅ junun hai
+  Ye wo junun hai jo din ka sukuṅ hai
+  Ye kya ye kiuṅ ye kaise hai ye sochna haram hai
   Kisi bashar ki baat kab khuda ka khud kalaam hai
   Fazkuruni az kurukum vash kurooli wala takfurukun
-  Quran mein khud kehta hai khuda
+  Quran meiṅ khud kehta hai khuda
   Wo mujhko kabhi jhutlaata nahi
   Aur mera shakir rehta hai
   Jo mera zaakir hota hai
   Mai uska zaakir banta hoo
-  Allah allah kar rahe hai hussain
-  Kar raha hai khuda hussain hussain
-  Ya hussain ya hussain
-  Ya hussain ya hussain
+  Allah allah kar rahe hai Husain
+  Kar raha hai khuda Husain Husain
+  Ya Husain ya Husain
+  Ya Husain ya Husain
   Khauf ahle sitam pe hai taari
   Zikre shabbir ab bhi hai jaari
   Jab khuda khud hai zaakir e sarwar
   Kaun rokega ye azadari
-  Ishq ka tarnuma hussain hussain
-  Kar raha hai khuda hussain hussain
-  Ya hussain ya hussain...
+  Ishq ka tarnuma Husain Husain
+  Kar raha hai khuda Husain Husain
+  Ya Husain ya Husain...
   Allah allah kar rahe...
   Keh diya aaya e mawaddat ne
   Humse maanga hai kya risaalat ne
-  Ab bhi akhlon pe hai pade parde
+  Ab bhi akhlon pe hai pare parde
   Raaze quran na samjha ummat ne
-  Ibne zehra hai ya hussain hussain
-  Kar raha hai khuda hussain hussain
-  Ya hussain ya hussain...
+  Ibne zehra hai ya Husain Husain
+  Kar raha hai khuda Husain Husain
+  Ya Husain ya Husain...
   Allah allah kar rahe...
   Uski baatil namaz hojaye
-  Shak jo zaate hussain mein laaye
+  Shak jo zaate Husain meiṅ laaye
   Jo namaze khuda ko thukraye
   Gar wo matam kiye kaha jaye
-  Ay shahure waqa hussain hussain
-  Kar raha hai khuda hussain hussain
-  Ya hussain ya hussain...
+  Ae shahure waqa Husain Husain
+  Kar raha hai khuda Husain Husain
+  Ya Husain ya Husain...
   Allah allah kar rahe...
-  Kaise qaidi thay karbala waale
+  Kaise qaidi the karbala waale
   Sheh ke maqsad ko saath leke chale
-  Kab wo ghaafil rahe hai sajdon se
-  Qaid mein bhi namaz padhte rahe
-  Aur jaari raha hussain hussain
-  Kar raha hai khuda hussain hussain
-  Ya hussain ya hussain...
+  Kab wo ghaafil rahe hai sajdoṅ se
+  Qaid meiṅ bhi namaz parhte rahe
+  Aur jaari raha Husain Husain
+  Kar raha hai khuda Husain Husain
+  Ya Husain ya Husain...
   Allah allah kar rahe...
-  Jab madine mein aaye ahle haram
-  Roz o shab tha hussain ka matam
-  Ab bhi tareekh de rahi hai sada
-  Ghar mein sajjad ke khuda ki qasam
-  Eid ke din hua hussain hussain
-  Ya hussain ya hussain...
+  Jab madine meiṅ aaye ahle haram
+  Roz o shab tha Husain ka matam
+  Ab bhi tarikh de rahi hai sada
+  Ghar meiṅ sajjad ke khuda ki qasam
+  Eid ke din hua Husain Husain
+  Ya Husain ya Husain...
   Sada ye ghaib se aati hai ibne zahra ki
-  Ye kaisi bahes mein uljhi hui hai qaum meri
-  Namaz ka koi munkir hai majlison ka koi
+  Ye kaisi bahes meiṅ uljhi hui hai qaum meri
+  Namaz ka koi munkir hai majlisoṅ ka koi
   Takallum aur hai darvesh ki tamanna yehi
   Khudara jism ko tum jaan se juda na karo
   Namaz aur aza ka muqabla na karo

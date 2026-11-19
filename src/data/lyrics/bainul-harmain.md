@@ -12,50 +12,50 @@ published: false
 romanLyrics: |-
   1
   Ehsaas rulaata hai dil bibi se kehta hai
-  Ay binte ali ay khwahar e hasnain
+  E binte ali e khwahar e hasnain
   Ek samt haram hai ghazi ka
-  Ek samt hai haram e hussain
-  Ay bibi kaash tera rauza
+  Ek samt hai haram e Husain
+  Ae bibi kaash tera rauza
   Hota bainul harmain
   Ek jaa par bhai behan rehte
-  Karte na bichad kar bain
-  Ay bibi kaash tera rauza
+  Karte na bichar kar bain
+  Ae bibi kaash tera rauza
   Hota bainul harmain
   Tu sharam o haya ki malka hai
-  Phirwaya tujhe un galiyon mein
+  Phirwaya tujhe un galiyoṅ meiṅ
   Jis jaa na kabhi jaati teri
   Izzat waali naalain
-  Ay bibi kaash tera rauza...
+  Ae bibi kaash tera rauza...
   Wo jis ke liye tu shaam gayi
   Gar us ki qabr yahin hoti
   Tujh ko bhi qaraar aa jaata aur
   Bhai ko bhi milta chain
-  Ay bibi kaash tera rauza...
-  Marqad mein tumhe jab tadpata
-  Akbar ke bichadne ka sadma
+  Ae bibi kaash tera rauza...
+  Marqad meiṅ tumhe jab tarpata
+  Akbar ke bicharne ka sadma
   Abbas dilaasa de deta
-  Aur pochte ashq hussain
-  Ay bibi kaash tera rauza...
-  Ashoor ki yaadon se bibi
+  Aur pochte ashq Husain
+  Ae bibi kaash tera rauza...
+  Ashur ki yaadoṅ se bibi
   Dil tera kabhi jo ghabrata
   Asghar ko saath sula leti
   Aa jaata dil ko chain
-  Ay bibi kaash tera rauza...
+  Ae bibi kaash tera rauza...
   Wo bete jinhe tu ro na saki
   Shabbir ka matam karti rahi
-  Karbal mein saath tere hote
-  Wo tere noor e ain
-  Ay bibi kaash tera rauza...
-  Ashoor aur chehlum karne ko
-  Meelon ki musafat tay kar ke
+  Karbal meiṅ saath tere hote
+  Wo tere nur-e-ain
+  Ae bibi kaash tera rauza...
+  Ashur aur chehlum karne ko
+  Miloṅ ki musafat tay kar ke
   Tu shaam se na aati bibi
-  Karne ko yahan par bain
-  Ay bibi kaash tera rauza...
-  Qurban teri mazloomi par
+  Karne ko yahaṅ par bain
+  Ae bibi kaash tera rauza...
+  Qurban teri mazlumi par
   Farhan bhi hai aur mazhar bhi
   Ek hum hi nahi kehte bibi
   Kehte hai yehi hasnain
-  Ay bibi kaash tera rauza...
+  Ae bibi kaash tera rauza...
 # source_id: nohayonline:6850810bf034cb9331d5
 # source_url: https://www.nohayonline.com/details_content.php?id=1703
 # raw_sha256: 19a2be4e4e2c2b709b3bf30bcecb65188f5a7e03b35b9e0321424b82c52f932e

@@ -12,20 +12,20 @@ romanLyrics: |-
   Ali ne maanga tha Ghazi ko Karbala ke liye
 
   1
-  Jari ke pairon ko chooma hai, roz e Aashoora
+  Jari ke pairoṅ ko chuma hai, roz e Aashura
   Yeh khushnaseebi rahi, mauje al qama ke liye
 
   2
-  Hussain Jhoola Jhulate thay, Inko yeh kah kar
+  Husain Jhula Jhulate the, Inko yeh kah kar
   Yeh kaam aayega Zainab, trte rida ke liye
 
   3
-  Lab e Furath jo bazoo qalam hue inke
-  Bohut bada tha yeh gham rooh e Sayyada ke liye
+  Lab-e-Furath jo bazu qalam hue inke
+  Bohut bara tha yeh gham ruh e Sayyada ke liye
 
   4
-  Alam ke saaye mein aate hi mil gayi seyhat
-  Tadap rahe thay kai din se jo shifa ke liye
+  Alam ke saaye meiṅ aate hi mil gayi seyhat
+  Tarap rahe the kai din se jo shifa ke liye
 
   5
   Na jane kis liye Haidar ne Inke baazo ko
@@ -37,10 +37,10 @@ romanLyrics: |-
 
   7
   Yeh Khizr-e-raah hai, parcham bhi inka raahnuma
-  Samandaron ke, sitaron ke aur hawa ke liye
+  Samandaroṅ ke, sitaroṅ ke aur hawa ke liye
 
   8
-  Unhi ke naam pe Rehan harf milte hain
+  Unhi ke naam pe Rehan harf milte haiṅ
   Raza ye naam waseela hai har dua ke liye
 # source_id: ziyaraat:3a8de78d43e78745e3f9
 # source_url: https://www.ziyaraat.net/api/noha/2840

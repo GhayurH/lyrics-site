@@ -11,35 +11,35 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ye sham e ashoor ka hai manzar
-  Hai karb main itrat e payambar
-  Jabeen pa saahil pa alqama ke
-  Kisi ki mayyat tadap rahi hai
+  Ye sham e ashur ka hai manzar
+  Hai karb maiṅ itrat e payambar
+  Jabin pa saahil pa alqama ke
+  Kisi ki mayyat tarap rahi hai
   Ye koi mehve buka hai shayad
   Kisi ne ammu kaha hai shayad
   Bada hai shayad koi sitamgar
-  Jabeen pa saahil pa alqama ke
-  Kisi ki mayyat tadap rahi hai
+  Jabin pa saahil pa alqama ke
+  Kisi ki mayyat tarap rahi hai
   Wo bholi bhali si ek bachi
   Najaf ki jaanib jo tak rahi thi
-  Kisi ne cheene hai uske gohar
-  Jabeen pa saahil pa alqama ke
-  Kisi ki mayyat tadap rahi hai
+  Kisi ne chine hai uske gohar
+  Jabin pa saahil pa alqama ke
+  Kisi ki mayyat tarap rahi hai
   Atash se bache machal rahe hai
-  Ye phool sholon may jal rahe hai
+  Ye phul sholoṅ may jal rahe hai
   Chaman may kumla gaye gule tar
-  Jabeen pa saahil pa alqama ke
-  Kisi ki mayyat tadap rahi hai
-  Hujoom e gham se jo neem jaan hai
-  Wohi jo bemaar o natawan hai
+  Jabin pa saahil pa alqama ke
+  Kisi ki mayyat tarap rahi hai
+  Hujum e gham se jo nim jaan hai
+  Wohi jo bemaar o natawaṅ hai
   Kisi ne kheyncha hai uska bistar
-  Jabeen pa saahil pa alqama ke
-  Kisi ki mayyat tadap rahi hai
+  Jabin pa saahil pa alqama ke
+  Kisi ki mayyat tarap rahi hai
   Rahi jo kufe ki shaahzadi
-  Kisi ne shayad usay sada di
+  Kisi ne shayad use sada di
   Chini hai kausar ab uski chadar
-  Jabeen pa saahil pa alqama ke
-  Kisi ki mayyat tadap rahi hai
+  Jabin pa saahil pa alqama ke
+  Kisi ki mayyat tarap rahi hai
 # source_id: nohayonline:cf152689aa27bdc18139
 # source_url: https://www.nohayonline.com/details_content.php?id=238
 # raw_sha256: 79faac035ae2ad505e1a82b6b480171fd8da381daa2bb998290ccff03ccd084b

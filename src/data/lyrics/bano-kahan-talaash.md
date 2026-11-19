@@ -1,6 +1,6 @@
 ---
 title: "بانو کہاں تلاش کرے اپنے لال کو"
-alternateTitle: "Bano Kahan Talaash"
+alternateTitle: "Bano Kahaṅ Talaash"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

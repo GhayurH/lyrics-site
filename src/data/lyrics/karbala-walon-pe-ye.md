@@ -1,6 +1,6 @@
 ---
 title: "کربلا والوں پہ یہ کیسا محرم آیا"
-alternateTitle: "Karbala Walon Pe Ye"
+alternateTitle: "Karbala Waloṅ Pe Ye"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

@@ -13,7 +13,7 @@ romanLyrics: |-
   Ghar chalo sham hoti hay Asghar
 
   1
-  Khaak par neend aaye gi kyunkar
+  Khaak par neend aaye gi kiunkar
 
   2
   Bha gayi teri soorat sabhi ko
@@ -23,11 +23,11 @@ romanLyrics: |-
   3
   Aao jhoola tumhain may jhulaoon
   Lori de ke thapak ke sulaoon
-  Neend aaye gi jangal may kyunkar
+  Neend aaye gi jangal may kiunkar
   Ghar chalo shaam hoti hay Asghar
   Soona jungle hay aur hu ka ban hay
   Kia musafir ko ranj o mehan hay
-  Kyun lagay hay khaak pe bistar
+  Kiun lagay hay khaak pe bistar
 
   4
   Neelay door hay nazuk kalai
@@ -41,7 +41,7 @@ romanLyrics: |-
 
   6
   Basti jangle may tum ne basayi
-  Ye jagha tum ko kyun raas aayi
+  Ye jagha tum ko kiun raas aayi
   Sooni godi hay maa ki aey dilbar
 
   7
@@ -57,7 +57,7 @@ romanLyrics: |-
   9
   Raat andheri hay hoo ka ye ban hay
   Kia musfir ka ranj o mehan hay
-  Kyun lagaya yahan aa ke bistar
+  Kiun lagaya yahan aa ke bistar
 
   10
   Pani mangwao apnay chacha se

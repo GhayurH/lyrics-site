@@ -11,94 +11,94 @@ published: false
 romanLyrics: |-
   1
   Labbaik ababdillah
-  Ay mere maula shaahe karbala
+  Ae mere maula shaahe karbala
   Bakshish ka shifa ka hai aap waseela
   Roze pe bulalo zawwar banado qismat ko jagado
-  Ay shaahe shaheedan aejaz dikha do
+  Ae shaahe shahidaṅ aejaz dikha do
   Maula ab humko sada do
-  Chale aao ay zawwaro chale aao
+  Chale aao ae zawwaro chale aao
   Meri awaaz pe labbaik pukare jao
-  Labbaika ya hussain
+  Labbaika ya Husain
   Naam tum sab ke mere dil pe hai likhe aao
-  Apne maa baap ko is paak safar mein lao
-  Apne bachon ko bhi ehram e aza pehnao
+  Apne maa baap ko is paak safar meiṅ lao
+  Apne bachoṅ ko bhi ehram-e-aza pehnao
   Mere zawwaro meri karbobala aa jao
   Ehd karta hoo azadaro shifa'at ke liye
   Aao zawwaro chale aao ziyarat ke liye
   Chale aao...
-  Khush raho ay meri rudaad sunane walon
-  Apni khushiyon mein mera sog manane walon
-  Saare aalam mein mera farsh bichane walon
-  Garmi sardi mein meri qabr pe aane walon
-  Mujhko maloom hai tum logon ki haajat aao
+  Khush raho ae meri rudaad sunane waloṅ
+  Apni khushiyoṅ meiṅ mera sog manane waloṅ
+  Saare aalam meiṅ mera farsh bichane waloṅ
+  Garmi sardi meiṅ meri qabr pe aane waloṅ
+  Mujhko malum hai tum logoṅ ki haajat aao
   Tum pe ho jaayegi allah ki inayat aao
   Chale aao...
-  Jaanibe karbobala jab koyi badta hai qadam
+  Jaanibe karbobala jab koyi barta hai qadam
   Har qadam par mere zawwar pe hota hai karam
   Saaya karta huwa abbas ka chalta hai alam
   Muntazir rehti hai zehra mere baba ki qasam
   Mere zawwaro mere dard ke maaro aao
-  Meri maa fatema zehra ke dularon aao
+  Meri maa fatema zehra ke dularoṅ aao
   Chale aao...
-  Tum jo kehte ho abad wallah ma-ninsa hussain
+  Tum jo kehte ho abad wallah ma-ninsa Husain
   Amma zehra bhi yehi karti hai ro ro kar bain
-  Meri mazloomi pe roye hai shahe badr o hunain
-  Mere baba bhi hai ab tak mere gham mein bechain
-  Tum nahi bhoole to mai bhi nahi bhoola tum ko
-  Yaad chalte huwe khanjar mein bhi rakhta aao
+  Meri mazlumi pe roye hai shahe badr o hunain
+  Mere baba bhi hai ab tak mere gham meiṅ bechain
+  Tum nahi bhule to mai bhi nahi bhula tum ko
+  Yaad chalte huwe khanjar meiṅ bhi rakhta aao
   Chale aao...
-  Tum jo lehrate ho haathon mein uthaye parcham
-  Tum ko maloom hai ho jaata hai taaza mera gham
-  Yaad aata hai mujhe khoon mein dooba wo alam
-  Jiske jhuk jaane se toota mere bachon pe sitam
-  Mere abbas ki jageer sajane aao
-  Haazri roza e abbas pe khaane aao
+  Tum jo lehrate ho haathoṅ meiṅ uthaye parcham
+  Tum ko malum hai ho jaata hai taaza mera gham
+  Yaad aata hai mujhe khun meiṅ duba wo alam
+  Jiske jhuk jaane se tuta mere bachoṅ pe sitam
+  Mere abbas ki jagir sajane aao
+  Haazri roza-e-abbas pe khaane aao
   Chale aao...
-  Mere zawwaro suno ye zameen karbobala
-  Mujhse pehle to yahan koyi bhi bas na saka
-  Ye zameen karbobala karb ka majmua hai
-  Hazrate adam o hawa ka yahin girya hai
-  Sher ne hazrate eesa ko yahin roka hai
-  Aur phir taqte sulaiman yahin larza hai
-  Is zameen par ibrahim ka rahwaar dhasa
-  Paa e moosa mein lagi chot lahoo behne laga
-  Zabihallah ke haiwan rahe pyase yahan
-  Kashtiye nooh se takraya yahin par toofaan
-  Is zameen par to pareshan huwa har insan
-  Mere baba bhi yahan karte rahe aah o fughan
+  Mere zawwaro suno ye zamin karbobala
+  Mujhse pehle to yahaṅ koyi bhi bas na saka
+  Ye zamin karbobala karb ka majmua hai
+  Hazrate adam o hawa ka yahiṅ girya hai
+  Sher ne hazrate isa ko yahiṅ roka hai
+  Aur phir taqte sulaiman yahiṅ larza hai
+  Is zamiṅ par ibrahim ka rahwaar dhasa
+  Paa e musa meiṅ lagi chot lahu behne laga
+  Zabihallah ke haiwan rahe pyase yahaṅ
+  Kashtiye nuh se takraya yahiṅ par tufaaṅ
+  Is zamiṅ par to pareshan huwa har insaṅ
+  Mere baba bhi yahaṅ karte rahe aah o fughaṅ
   Meri hijrat thi madine se hidayat ke liye
-  Ye zameen maine kharidi thi shahadat ke liye
+  Ye zamiṅ maiṅ ne kharidi thi shahadat ke liye
   Chale aao...
   Meri aawaaz pe labbaik pukare jao
-  Labbaika ya hussain
-  Do moharram ko yahan mera rahwar ruka
+  Labbaika ya Husain
+  Do moharram ko yahaṅ mera rahwar ruka
   Saath kunba tha mera mai akela bhi na tha
   Aao zawwaro mere saath chalo
   Thaam kar dil mera maqtal dekho
-  Ye maqame ali akbar hai jahan
-  Mere bache pe jahan royi azan
-  Ye maqame ali asghar hai jahan
+  Ye maqame ali akbar hai jahaṅ
+  Mere bache pe jahaṅ royi azaṅ
+  Ye maqame ali asghar hai jahaṅ
   Aaj bhi baithi huwi roti hai maa
   Ye jagah wo hai mere zawwaro
   Laashe qasim huwi pamaal idhar
   Do maqamaat jo aate hai nazar
-  Kate abbas ke baazu thay jidhar
-  Hai zara door jo do dil ke qaraar
+  Kate abbas ke baazu the jidhar
+  Hai zara dur jo do dil ke qaraar
   Hai mere aun o mohamad ke mazaar
-  Asre ashoor se turbat ke qareeh
+  Asre ashur se turbat ke qareeh
   Mera hurr aur mera lashkar hai yahi
-  Aur ye tilla e zainabya hai
-  Yahin zainab ne ye manzar dekha
+  Aur ye tilla-e-zainabya hai
+  Yahiṅ zainab ne ye manzar dekha
   Mujhpe chalta huwa khanjar dekha
-  Mera ashoor ya chehlum ho mera
+  Mera ashur ya chehlum ho mera
   Karbala aata hai kunba mera
-  Phir sakina jo yahan aati hai
+  Phir sakina jo yahaṅ aati hai
   Meri turbat se lipat jaati hai
-  Mai hoo hussain, abde khuda, khoone nabi,
-  Khoone ali, khoone hassan zehra nasab
+  Mai hoo Husain, abde khuda, khune nabi,
+  Khune ali, khune Hasan zehra nasab
   Shaahe arab, mai hoo ataa, mai hoo shifaa
   Ehle aza, roze jaza, denge tumhe, lutf o karam
-  Baaghe iram, mai hoo hussain, mai hoo hussain
+  Baaghe iram, mai hoo Husain, mai hoo Husain
   Tum pe salaame karbala matami
   Tum pe salaame shohada matami
   Tum pe salaame sayyeda matami
@@ -106,9 +106,9 @@ romanLyrics: |-
   Tum pe salaame mustafa matami
   Tum pe salaame ba-wafa matami
   Tum ho dile zainabe kubra ka chain
-  Kehte raho kehte raho ya hussain
-  Kehte raho kehte raho ya hussain
-  Sayyadena sayyadena ya hussain
+  Kehte raho kehte raho ya Husain
+  Kehte raho kehte raho ya Husain
+  Sayyadena sayyadena ya Husain
 # source_id: nohayonline:f8940316e5ec0275ea59
 # source_url: https://www.nohayonline.com/details_content.php?id=366
 # raw_sha256: 257d886dfef4bffe8ded95a9df3e1bf2f090073a35159355e196b75b29dcba2f

@@ -24,9 +24,9 @@ romanLyrics: |-
   Zameen pe khoon bankar hogayi barsaat pani ki
 
   2
-  2. Jahan bhi pani-o-mask-o-alam ki baat chali,
+  2. Jahan bhi pani o mask o alam ki baat chali,
   Ali ke laal ke qadmo tale faraad chali
-  Wafa-e-ishq-o-mohabbat ki kaayanat chali,
+  Wafa-e-ishq o mohabbat ki kaayanat chali,
   Dua-e-fatima zehra bhi saat saat chali
   Alam ke dam se hai ab tak hayaat pani ki,
   Jari ki jeet hui aur maath pani ki
@@ -49,7 +49,7 @@ romanLyrics: |-
 
   5
   5. Himaayat-e-shah-e-mazloom may panaah abbas,
-  Sabaat-o-jurrat-o-ghairat ki inteha abbas
+  Sabaat o jurrat o ghairat ki inteha abbas
   Janaab-e-zainab-e-bekas ka aasra abbas,
   Lab-e-faraath fakadh tune ye likha abbas
   Hamari tashnalabi hai faraath pani ki,
@@ -58,10 +58,10 @@ romanLyrics: |-
   6
   6. Meri hayat ka samaan nasir-e-shabbir,
   Badalta rehta hai jo kaayanat ki taqdeer
-  Faraath-o-mashq-o-alam jiski hashr tak jaageer,
+  Faraath o mashq o alam jiski hashr tak jaageer,
   Mai aur ye meri tanzeem iske dar ke fakheer
   Bahegi chasm-e-aza se faraath pani ki,
-  Chalegi majlis-o-matam may baat pani ki
+  Chalegi majlis o matam may baat pani ki
 # source_id: ziyaraat:d845fb74d96ae21eb9eb
 # source_url: https://www.ziyaraat.net/api/noha/861
 # raw_sha256: 1c47bcc0e6586a399b3e849a3a170db8d4ed51920c24f75e1af53a3029789a61

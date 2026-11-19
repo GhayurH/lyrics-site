@@ -10,47 +10,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Umme rabab baithi shahe deen ki qabr par
+  Umme rabab baithi shahe din ki qabr par
   Thi mehwo is tarha se ke hat'ti na thi nazar
-  Zainab badhi ye dekh ke boli jhuka ke sar
-  Uthiye bahot hai door ka bhabi abhi safar
-  Ek aah ki rabab ne yun phat gaya jigar
-  Boli tadap ke zainabe muztar se nauhagar
-  Beta hai karbala mein to beti hai shaam mein
-  Kije dua ye bargahe khaas o aam mein
-  So jaun mai bhi qabre shahe tashnakaam mein
-  Hasrat nahi kuch aur mai ab jee ke kya karoo
-  Jee ke kya karoo
-  Asghar sidhare saamne nazron ke aap ki
-  Toda hai dam sakina ne godhi mein aap ki
-  Jholi mein kuch raha nahi bibi rabab ki
-  Ye aa gaya hai daur mein ab jee ke kya karoo
-  Jee ke kya karoo
-  Jisse tha zindagi mein ujaala chala gaya
-  Cheh maah jisko godh mein paala chala gaya
-  Bibi hamara hasliyon wala chala gaya
-  Kya reh gaya aur mai ab jee ke kya karoo
-  Jee ke kya karoo
+  Zainab barhi ye dekh ke boli jhuka ke sar
+  Uthiye bahot hai dur ka bhabi abhi safar
+  Ek aah ki rabab ne yuṅ phat gaya jigar
+  Boli tarap ke zainabe muztar se nauhagar
+  Beta hai karbala meiṅ to beti hai shaam meiṅ
+  Kije dua ye bargahe khaas o aam meiṅ
+  So jauṅ mai bhi qabre shahe tashnakaam meiṅ
+  Hasrat nahi kuch aur mai ab ji ke kya karoo
+  Ji ke kya karoo
+  Asghar sidhare saamne nazroṅ ke aap ki
+  Tora hai dam sakina ne godhi meiṅ aap ki
+  Jholi meiṅ kuch raha nahi bibi rabab ki
+  Ye aa gaya hai daur meiṅ ab ji ke kya karoo
+  Ji ke kya karoo
+  Jisse tha zindagi meiṅ ujaala chala gaya
+  Cheh maah jisko godh meiṅ paala chala gaya
+  Bibi hamara hasliyoṅ wala chala gaya
+  Kya reh gaya aur mai ab ji ke kya karoo
+  Ji ke kya karoo
   Maangegi mujhse fatema sughra jo bhai ko
   Doongi jawab kya mai bhala gham satayi ko
-  Kya moo dikhaun ahmad e mursal ki jaayi ko
-  Jeene ke hai ye to aur jee ke kya karoo
-  Jee ke kya karoo
-  Shauhar hai mere saath na beta hai saath mein
-  Dekhun mai kiski raah jiyun kiski aas mein
-  Kya reh gaya hai jism ki boseeda saans mein
-  Mai jee chuki bas aur mai ab jee ke kya karoo
-  Jee ke kya karoo
-  Bewa hassan ki kubra si beti ujad gayi
-  Auron ka kya khud aap ki godhi ujad gayi
-  Zehra ka ghar batool ki kheti ujad gayi
-  Khud sochiye ba-ghaur mai ab jee ke kya karoo
-  Jee ke kya karoo
-  Kabse khadi hoo aas lagaye mai raah mein
-  Jaun kahan bataye is haale tabaah mein
-  Shak hoke le le mujhko bhi apni panaah mein
-  Ay dashte zulm o jaur mai ab jee ke kya karoo
-  Jee ke kya karoo
+  Kya moo dikhauṅ ahmad-e-mursal ki jaayi ko
+  Jine ke hai ye to aur ji ke kya karoo
+  Ji ke kya karoo
+  Shauhar hai mere saath na beta hai saath meiṅ
+  Dekhuṅ mai kiski raah jiyuṅ kiski aas meiṅ
+  Kya reh gaya hai jism ki boseeda saans meiṅ
+  Mai ji chuki bas aur mai ab ji ke kya karoo
+  Ji ke kya karoo
+  Bewa Hasan ki kubra si beti ujar gayi
+  Auroṅ ka kya khud aap ki godhi ujar gayi
+  Zehra ka ghar batul ki kheti ujar gayi
+  Khud sochiye ba-ghaur mai ab ji ke kya karoo
+  Ji ke kya karoo
+  Kabse khari hoo aas lagaye mai raah meiṅ
+  Jauṅ kahaṅ bataye is haale tabaah meiṅ
+  Shak hoke le le mujhko bhi apni panaah meiṅ
+  Ae dashte zulm o jaur mai ab ji ke kya karoo
+  Ji ke kya karoo
 # source_id: nohayonline:e5d8299ea36349661d22
 # source_url: https://www.nohayonline.com/details_content.php?id=520
 # raw_sha256: de28d9e9330e3ae7c7fd116b314e129c477b5a37825c74ee854e4b837f1d55bf

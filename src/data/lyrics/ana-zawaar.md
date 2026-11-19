@@ -10,39 +10,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Salam karbobala ya hussain ya maula
-  Salam haye shaheedan e karbala e wafa
+  Salam karbobala ya Husain ya maula
+  Salam haye shahidan e karbala e wafa
   Har ek zarre se matam ki aa rahi hai sada
-  Ana zawwar e hussain ibne ali
-  Arbaab hussain ibn e ali
-  Chala hoo karbobala hai zaban pe bismillah
-  Hai dil mein kalma e haq lailaha illallah
-  Safar qubool kare ya hussain sarallah
-  Hum log azadar e hussain arewallah
-  Hum log wafadar e hussain arewallah
-  Hum log tarafdar e hussain arewallah
-  Ay aaqa mere ay maula mere
+  Ana zawwar-e-Husain ibne ali
+  Arbaab Husain ibn-e-ali
+  Chala hoo karbobala hai zabaṅ pe bismillah
+  Hai dil meiṅ kalma e haq lailaha illallah
+  Safar qubul kare ya Husain sarallah
+  Hum log azadar e Husain arewallah
+  Hum log wafadar e Husain arewallah
+  Hum log tarafdar e Husain arewallah
+  Ae aaqa mere ae maula mere
   Naukar hai sada zawwar tere
-  Ana zawwar e hussain ibne ali...
+  Ana zawwar-e-Husain ibne ali...
   Salaam iska ke hum ko bula liya maula
   Salaam iska ke zaaer bana liya maula
-  Salaam iska ke dil mein basa liya maula
-  Hum ahle yaqeen ahle aza arewallah
+  Salaam iska ke dil meiṅ basa liya maula
+  Hum ahle yaqiṅ ahle aza arewallah
   Hum fatema zehra ki dua arewallah
-  Hum saare safeeran e aza arewallah
-  Ay aaqa mere ay maula mere
+  Hum saare safiran e aza arewallah
+  Ae aaqa mere ae maula mere
   Naukar hai sada zawwar tere
-  Ana zawwar e hussain ibne ali...
-  Khuda ka shukr dayaar e hussain dekh liya
-  In aasuon ne mazaar e hussain dekh liya
-  Naseeb mera wiqaar e hussain dekh liya
+  Ana zawwar-e-Husain ibne ali...
+  Khuda ka shukr dayaar e Husain dekh liya
+  In aasuon ne mazaar e Husain dekh liya
+  Nasib mera wiqaar e Husain dekh liya
   Kya shaan teri karbobala arewallah
   Hai khaak teri khaak e shifa arewallah
-  Jageer e alamdaar e wafa arewallah
-  Ay aaqa mere ay maula mere
+  Jagir e alamdaar e wafa arewallah
+  Ae aaqa mere ae maula mere
   Naukar hai sada zawwar tere
-  Ana zawwar e hussain ibne ali...
-  Arbaab hussain ibn e ali
+  Ana zawwar-e-Husain ibne ali...
+  Arbaab Husain ibn-e-ali
 # source_id: nohayonline:c40e38d2f6fa74741fd2
 # source_url: https://www.nohayonline.com/details_content.php?id=2466
 # raw_sha256: 46239058e97550c3d50948f801dfa818baec03fac0d5fc3eff94ead0e2ecc148

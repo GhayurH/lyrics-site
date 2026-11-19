@@ -11,7 +11,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zehra ki ab jahan se ruqsat hai ya ali
+  Zehra ki ab jahaṅ se ruqsat hai ya ali
   Tum se yehi hamari wasiyat hai ya ali
 
   1
@@ -20,13 +20,13 @@ romanLyrics: |-
   Darbar may teri zehra ko
   Jhutlaane waale na aaye
   Ya ali mere baba har lamha
-  Jis dar ko chooma karte thay
+  Jis dar ko chuma karte the
   Us dar ko jalane waale aur
   Jalwaane waale na aaye
 
   2
   Ya ali meri hasrat thi tum ko
-  Baba ke mimbar par dekhun
+  Baba ke mimbar par dekhuṅ
   Haye teri jagah us mimbar par
   Aa jaane waale na aaye
 
@@ -36,31 +36,31 @@ romanLyrics: |-
 
   4
   Ya ali pehlu bhi shikasta hai
-  Baalon may safedi chaayi hai
+  Baaloṅ may safedi chaayi hai
   Zehra ko teri is haalat may
   Pahunchane waale na aaye
 
   5
   Ya ali mere mohsin par girya
-  Haq tha mera jo cheen liya
+  Haq tha mera jo chin liya
   Ya ali mujhe marte marte bhi
-  Tadpaane waale na aaye
+  Tarpaane waale na aaye
 
   6
-  Ya ali zainab ki aankhon may
+  Ya ali zainab ki aankhoṅ may
   Mujhe khauf dikhaayi deta hai
   Gardan may teri haye tang rasan
   Pehnaane waale na aaye
 
   7
   Ya ali meri mayyat ko chup kar
-  Tareeki may dafna dena
+  Tariki may dafna dena
   Rone ke liye mujh par mujhko
   Rulwane waale na aaye
 
   8
   Salman mai bibi ka nauha
-  Mesum ke liye kaise likhun
+  Mesum ke liye kaise likhuṅ
   Jab tak jannat may le jaa kar
   Likhwaane waale na aaye
 ---

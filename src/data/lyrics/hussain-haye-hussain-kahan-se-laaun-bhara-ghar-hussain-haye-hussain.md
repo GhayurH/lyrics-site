@@ -1,6 +1,6 @@
 ---
 title: "کہاں سے لاؤں بھرا گھر حسین ہاے حسین"
-alternateTitle: "Hussain Haye Hussain"
+alternateTitle: "Husain Haye Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,30 +11,30 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Kahan se laaun bhara ghar hussain haye hussain
-  Pukari zainab e muztar hussain haye hussain
+  Kahaṅ se laauṅ bhara ghar Husain haye Husain
+  Pukari zainab e muztar Husain haye Husain
   Tumhare baad to ab jab bhi shaam aati hai
-  Saron ko dar se patakne ki kaam aati hai
-  Baraste rehte hai aankhon se ta-sehar sab ki
-  Lahoo bhare hue manzar hussain haye hussain
+  Saroṅ ko dar se patakne ki kaam aati hai
+  Baraste rehte hai aankhoṅ se ta-sehar sab ki
+  Lahu bhare hue manzar Husain haye Husain
 
   2
   Palat ke aun o mohamed bhi ghar nahi aate
   Ab umme laila ko akbar nazar nahi aate
-  Tadapti rehti hai qasim ki yaad mein farwa
-  Rubab kehti hai asghar hussain haye hussain
+  Tarapti rehti hai qasim ki yaad meiṅ farwa
+  Rubab kehti hai asghar Husain haye Husain
 
   3
   Guzur gaye hai kayi din na sabr hai na kharaar
-  Tumhe bulaati hai raaton ko neend mein kayi baar
-  Kabhi kabhi yahan hum sab se chup ke kone mein
-  Sakina roti hai aksar hussain haye hussain
+  Tumhe bulaati hai raatoṅ ko nind meiṅ kayi baar
+  Kabhi kabhi yahaṅ hum sab se chup ke kone meiṅ
+  Sakina roti hai aksar Husain haye Husain
 
   4
   Kate jo pani ki khaatir kareeb nehr e furaat
-  Wohi to thay mere baazu wohi to thay mere haath
-  Mila huwa hai dil o jaan mein zakhm ki soorat
-  Hai jiska naam alam par hussain haye hussain
+  Wohi to the mere baazu wohi to the mere haath
+  Mila huwa hai dil o jaaṅ meiṅ zakhm ki surat
+  Hai jiska naam alam par Husain haye Husain
 
   5
   Pahar hai nok-e-sinaaṅ, do pahar hai khanjar ka
@@ -43,16 +43,16 @@ romanLyrics: |-
   Har ek shaam hai nashtar, Husain haaye Husain
 
   6
-  Badan tha jism ali ka lahoo rasool ka tha
-  Jigar hassan ka tha seene mein dil batool ka tha
-  Wo jism chod ke aayi hoo tapte sehra mein
-  Wo sar hai noke sina par hussain haye hussain
+  Badan tha jism ali ka lahu rasul ka tha
+  Jigar Hasan ka tha sine meiṅ dil batul ka tha
+  Wo jism chor ke aayi hu tapte sehra meiṅ
+  Wo sar hai noke sina par Husain haye Husain
 
   7
-  Jo hum pe toot gaya aasman e ranj o mehan
-  Qayaam qaid mein hota hai aur safar mein rasan
-  Aseeri bebasi o bekasi ke aalam mein
-  Mera salaam ho tum par hussain haye hussain
+  Jo hum pe tut gaya aasman e ranj o mehan
+  Qayaam qaid meiṅ hota hai aur safar meiṅ rasan
+  Asiri bebasi o bekasi ke aalam meiṅ
+  Mera salaam ho tum par Husain haye Husain
 # source_id: nohayonline:d098a12ba633de785bb4
 # source_url: https://www.nohayonline.com/details_content.php?id=1453
 # raw_sha256: a71839ded4b859074aaca00512188db3f8879bfac6d13dae9d7dba323500d60e

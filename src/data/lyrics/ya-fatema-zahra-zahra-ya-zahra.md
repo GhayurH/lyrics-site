@@ -13,10 +13,10 @@ published: false
 romanLyrics: |-
   1
   Ya zahra ya zahra
-  Aelaan suno ay dunya waalon
+  Aelaan suno ae dunya waaloṅ
   Ayyame aza e zahra hai
   Aur pyare nabi ki beti ka
-  Har ghar mein matam barpa hai
+  Har ghar meiṅ matam barpa hai
   Jo kehti thi ye ro ro kar
   Daffini fil layl ya ali
   Aao mil kar ek kaam karo zahra ka matam aam karo
@@ -29,33 +29,33 @@ romanLyrics: |-
   Na bhoolenge hum bibi zakhmi pehlu aap ka
   Ya fatema zahra ya zahra...
   Aap darbar se jab laut ke aayi shehzadi
-  Athara saalon mein lagti thi ek zaeefa jaisi
-  Baalon mein thi safedi aur kamar bhi kham thi
+  Athara saaloṅ meiṅ lagti thi ek zaifa jaisi
+  Baaloṅ meiṅ thi safedi aur kamar bhi kham thi
   Ye haal tha ke zainab ne bhi na pehchana
   Ya fatema zahra ya zahra...
-  Ghurbat mein saath apne waali ka nibhaati rahi
-  Zakhmi haalat mein bhi wilayat ko bachati rahi
+  Ghurbat meiṅ saath apne waali ka nibhaati rahi
+  Zakhmi haalat meiṅ bhi wilayat ko bachati rahi
   Dar khat khatati rahi sab ko bataati rahi
-  Jab tak zinda rahi ali ko na tanha choda
+  Jab tak zinda rahi ali ko na tanha chora
   Ya fatema zahra ya zahra...
   Chup chup ke aap ne hasnain se aansu bahaye
-  Apne baba ke madine mein itne zakhm khaaye
+  Apne baba ke madine meiṅ itne zakhm khaaye
   Ghusl dene ke liye haye ali jab aaye
-  Tooti phasliyan dekhi cheekh ke roye maula
+  Tuti phasliyaṅ dekhi chikh ke roye maula
   Ya fatema zahra ya zahra...
-  De chuke aap ko jab saath ridaon ka kafan
+  De chuke aap ko jab saath ridaoṅ ka kafan
   Rakh kar janaza wahin baith gaye khyber shikan
-  Bole hat akar kafan aao hussain o hassan
-  Bacche jab maa se lipte ghar mein ye kohram tha
+  Bole hat akar kafan aao Husain o Hasan
+  Bacche jab maa se lipte ghar meiṅ ye kohram tha
   Ya fatema zahra ya zahra...
-  Aaye hai dekh ke zeeshan aur irfan e aza
+  Aaye hai dekh ke zishan aur irfan e aza
   Kitni udaasi hai turbat pe na saaya na diya
-  Tameer ho baqayya khatm ho ab andhera
+  Tamir ho baqayya khatm ho ab andhera
   Roshan ho aap ka rauza bhi misle karbala
   Ya fatema zahra ya zahra...
   Na bhoolenge na bhoolenge darbar kabhi na bhoolenge
-  Ay bibi aap ka hum zakhmi rukhsar kabhi na bhoolenge
-  Hum kehte rahenge ro ro kar ay bibi aap ke haathon par
+  Ae bibi aap ka hum zakhmi rukhsar kabhi na bhoolenge
+  Hum kehte rahenge ro ro kar ae bibi aap ke haathoṅ par
   Talwaar ke daste se jo hua wo waar kabhi na bhoolenge
 # source_id: nohayonline:30196d5e466e31a9ac2e
 # source_url: https://www.nohayonline.com/details_content.php?id=3080

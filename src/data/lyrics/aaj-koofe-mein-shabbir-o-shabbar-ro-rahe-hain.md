@@ -1,6 +1,6 @@
 ---
 title: "آج کُوفے میں شبیر و شبر رو رہے ہیں"
-alternateTitle: "Aaj Koofe Mein Shabbir O Shabbar Ro Rahe Hain"
+alternateTitle: "Aaj Kufe Meiṅ Shabbir o Shabbar Ro Rahe Haiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,29 +10,29 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  aaj koofe may shabbir-o-shabbar ro rahe hai
+  aaj kufe may shabbir o shabbar ro rahe hai
   baap ko apne zehra ke dilbar ro rahe hai
   behrobar may hai ghul aaj barpa wa ali ka
-  aaj jibraeel arshe bari par ro rahe hai
-  aaj koofe may….
-  aaj shehzadiyan hai pareshan shahe zeeshan
-  uthke taskeen do behre daawar ro rahe hai
-  aaj koofe may….
-  chor kar humko baba sidhare be-sahare
-  betiyan fathima ki ye keh kar ro rahe hai
-  aaj koofe may….
+  aaj jibrail arshe bari par ro rahe hai
+  aaj kufe may….
+  aaj shehzadiyaṅ hai pareshaṅ shahe zishaṅ
+  uthke taskin do behre daawar ro rahe hai
+  aaj kufe may….
+  chor kar humko baba sidhare besahare
+  betiyaṅ fathima ki ye keh kar ro rahe hai
+  aaj kufe may….
   hai yateemo ke bewaon ke waali shahe aali
   ab na waaris raha koi sar par ro rahe hai
-  aaj koofe may….
+  aaj kufe may….
   hai janaze pe ek shor barpa bekaso ka
-  baap se lipte shabbir-o-shabbar ro rahe hai
-  aaj koofe may….
-  khaak udate hai sar par nawase mustufa ke
-  ghar se jaata hai taboote hyder ro rahe hai
-  aaj koofe may….
-  ay himayat azadare hyder peet kar sar
-  aaj is tarhe nohay ko sunkar ro rahe hai
-  aaj koofe may.
+  baap se lipte shabbir o shabbar ro rahe hai
+  aaj kufe may….
+  khaak urate hai sar par nawase mustufa ke
+  ghar se jaata hai tabute hyder ro rahe hai
+  aaj kufe may….
+  ae himayat azadare hyder pit kar sar
+  aaj is tarhe nohe ko sunkar ro rahe hai
+  aaj kufe may.
 # source_id: nohawriteups:e6ec8089b78af3917fa1
 # source_url: https://www.nohawriteups.org/aaj-koofay-may-shabbir-o-shabbar/
 # raw_sha256: f84db2298b887f1901039110a32dd3913d54dc835187f848f7cd06a37b0d4312

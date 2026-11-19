@@ -9,16 +9,16 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Ali ya Hussain
+  Ya Ali ya Husain
 
   1
   Awaze Muhmmad ka asar khatam nah hoga
   Thak jaye ga suraj ye safar khatam nah ho ga
   Ya Ali ya Hussian
   La rayb k Rasool ki donu hai zeyb o zen
-  Pehlu main ya Ali hai tu gudi main ya Hussain
+  Pehlu main ya Ali hai tu gudi main ya Husain
   Luhu kalam ka alm ka sadiq hai ya Ali
-  Jab tak Kudha ka mulk hai malik hai Ya Hussain
+  Jab tak Kudha ka mulk hai malik hai Ya Husain
   Yeh alm ka dar sabar ka ghar kahtam nah ho ga
   Thak jaye ga suraj yeh safar khatam nah ho ga
   Yeh sultane isahq hai kidhar milay gaye
@@ -27,8 +27,8 @@ romanLyrics: |-
   Jeenay k liye marnay pe tayar milay gay
   Kat jaye zuban ishq magar khtam nah ho ga
   Thak jaye ga suraj yeh safar khatam nah ho ga
-  Muslim bine Aqeel saferray Hussain hay
-  Hubay Ali hay dil main musheeray Hussain hain
+  Muslim bine Aqeel saferray Husain hay
+  Hubay Ali hay dil main musheeray Husain hain
   Wo badshah or yeh waziry Aussain hain assa wazir hai k faqiray Aussain hai
   Ta hashar sifarat ka safar khatam nah hoga
   Thak jaye ga suraj yeh safar khatam nah ho ga
@@ -64,7 +64,7 @@ romanLyrics: |-
 
   3
   Ek zulfqar ghaq main do sath se chali
-  Dastay hussain panjaaye mushkil kusha ali
+  Dastay Husain panjaaye mushkil kusha ali
   Yeh mustafa ki jan wo allah ka wali
   Dono ka martaba bhi do alam pe hai jali
   Dona ka istmal se sajda adda howa

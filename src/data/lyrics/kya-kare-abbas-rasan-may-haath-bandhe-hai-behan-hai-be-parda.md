@@ -10,12 +10,12 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Rasan may haath bandhe hai behan hai be-parda
+  Rasan may haath bandhe hai behan hai beparda
   Sina se sar na giraye to kya kare abbas
 
   1
   Haye abbas haye haye abbas haye haye abbas
-  Padar ki laash se usko chudaya jaata hai
+  Padar ki laash se usko churaya jaata hai
   Sitam hai naaqe pe tanha bithaya jaata hai
   Rasan may bali sakina ka bandh raha hai gala
 
@@ -31,9 +31,9 @@ romanLyrics: |-
   Haye abbas haye haye abbas...
 
   5
-  Chupa ke baalon se moo sharmsaar hoti hai
+  Chupa ke baaloṅ se moo sharmsaar hoti hai
   Wo pusht e naaqa pe ab khud sawaar hoti hai
-  Ye kaisa waqt hai zahra ki betiyon pe pada
+  Ye kaisa waqt hai zahra ki betiyoṅ pe para
 
   6
   Haye abbas haye haye abbas...
@@ -47,24 +47,24 @@ romanLyrics: |-
   Haye abbas haye haye abbas...
 
   9
-  Kahin pe qasim o akbar kahin pe aun ka sar
-  Kahin hai laal ruqayya ke aur kahin asghar
-  Wo bache naizon pe hai godh may jinhe paala
+  Kahiṅ pe qasim o akbar kahiṅ pe aun ka sar
+  Kahiṅ hai laal ruqayya ke aur kahiṅ asghar
+  Wo bache naizoṅ pe hai godh may jinhe paala
 
   10
   Haye abbas haye haye abbas...
 
   11
-  Hai neel chehre pe itne tamache maare hai
-  Layeen ne khaych ke kaano se durr utaare hai
-  Ke dono kaano se masoom ke lahoo behta
+  Hai nil chehre pe itne tamache maare hai
+  Layiṅ ne khaych ke kaano se durr utaare hai
+  Ke dono kaano se masum ke lahu behta
 
   12
   Haye abbas haye haye abbas...
 
   13
   Sar uska kaise sina par koi utha ke chale
-  Jo sheh ke saamne nazrein sada jhuka ke chale
+  Jo sheh ke saamne nazreiṅ sada jhuka ke chale
   Takhaza mir takallum hai uski ghairat ka
 
   14

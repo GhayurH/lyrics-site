@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Shabe ashoor qaima e kulsoom se aati thi sada
+  Shabe ashur qaima-e-kulsum se aati thi sada
   Haye haye mai bhi zainab ki tarha
   Bhai ka deti sadqa kaash mera koi beta hota
-  Shabe ashoor tha kulsoom ke lab par noha
+  Shabe ashur tha kulsum ke lab par noha
   Kaash mera koi beta hota
-  Saath pardes mein bhai ka barabar deti
-  Sheh ke baysheer pe qurban usay kar deti
-  Dil mein hasrat hi rahi aun o mohamed jaisa
+  Saath pardes meiṅ bhai ka barabar deti
+  Sheh ke baysheer pe qurban use kar deti
+  Dil meiṅ hasrat hi rahi aun o mohamed jaisa
   Kaash mera koi beta hota
-  Shabe ashoor tha kulsoom…
+  Shabe ashur tha kulsum…
   Daagh bete ki judaai ka utha leti behen
   Apne bhai ki nishani ko bacha leti behen
-  Sheh ke akbar ki jagah seene pe khaata naiza
+  Sheh ke akbar ki jagah sine pe khaata naiza
   Kaash mera koi beta hota
-  Shabe ashoor tha kulsoom…
-  Haath ho jaate qalam ran mein mere bete ke
-  Sare khoon apna baha deta wo pani ke liye
+  Shabe ashur tha kulsum…
+  Haath ho jaate qalam ran meiṅ mere bete ke
+  Sare khuṅ apna baha deta wo pani ke liye
   Leke ghazi se reza usko banati saqqa
   Kaash mera koi beta hota
-  Shabe ashoor tha kulsoom…
+  Shabe ashur tha kulsum…
   Saath shabbir ke jis tarha hai ghazi ki wafa
   Wo bhi aaqa ko kabhi apne na zehmat deta
-  Saath sajjad ka har mod pe deta wo sada
+  Saath sajjad ka har mor pe deta wo sada
   Kaash mera koi beta hota
-  Shabe ashoor tha kulsoom…
+  Shabe ashur tha kulsum…
   Kehti shabbir se zehmat na uthao bhai
-  Ghar mein sadaat ke sadqe ko na lao bhai
+  Ghar meiṅ sadaat ke sadqe ko na lao bhai
   Uska qaimon my kabhi aane na deti laasha
   Kaash mera koi beta hota
-  Shabe ashoor tha kulsoom…
+  Shabe ashur tha kulsum…
   Jab sune bain takallum to ye ghazi ne kaha
   Kal ye abbas fida teri taraf se hoga
   Tujhko baba ki qasam ab nahi dena ye sada
   Kaash mera koi beta hota
-  Shabe ashoor tha kulsoom…
+  Shabe ashur tha kulsum…
 # source_id: nohayonline:ad18360ee93b9bf52ee0
 # source_url: https://www.nohayonline.com/details_content.php?id=475
 # raw_sha256: 0178a648dfd676d1768368ae7e2bac74fbd3e68ef14538212d8c2bad483dba8c

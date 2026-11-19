@@ -1,6 +1,6 @@
 ---
 title: "خدائے پاک کا پیارا حسین زندہ باد"
-alternateTitle: "Hussain Zindabad"
+alternateTitle: "Husain Zindabad"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,93 +10,93 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khudaye paak ka pyara hussain zindabad
-  Nabi ki aankhon ka taara hussain zindabad
-  Dile batool ka paara hussain zindabad
-  Ali ka raj dulara hussain zindabad
+  Khudaye paak ka pyara Husain zindabad
+  Nabi ki aankhoṅ ka taara Husain zindabad
+  Dile batul ka paara Husain zindabad
+  Ali ka raj dulara Husain zindabad
 
   2
-  Lagaye jao ye naara hussain zindabad
-  Kaho ye milke hamara hussain zindabad
-  Ameer e shehr e shahadat hai tera naam hussain
-  Tujhi pe bheja hai islam ne salaam hussain
+  Lagaye jao ye naara Husain zindabad
+  Kaho ye milke hamara Husain zindabad
+  Amir-e-shehr-e-shahadat hai tera naam Husain
+  Tujhi pe bheja hai islam ne salaam Husain
 
   3
-  Hai tere haaton mein kaunain ka nizam hussain
-  Suna jo noke sina par tera kalaam hussain
-  Pukar utha ye nazara hussain zindabad
+  Hai tere haatoṅ meiṅ kaunain ka nizam Husain
+  Suna jo noke sina par tera kalaam Husain
+  Pukar utha ye nazara Husain zindabad
   Lagaye jao ye nara…
 
   4
-  Kiya hai pani tere hausalon ne pathar ko
+  Kiya hai pani tere hausaloṅ ne pathar ko
   Shikast di hai teri pyaas ne samandar ko
-  Fana ki qabr mein dafna diya sitamgar ko
+  Fana ki qabr meiṅ dafna diya sitamgar ko
   Ulat ke rakh diya tune har ek manzar ko
 
   5
-  Haqeeqaton ko ubhara hussain zindabad
+  Haqiqatoṅ ko ubhara Husain zindabad
   Lagaye jao ye nara…
-  Dayare shab pe ujaalon ne hukmarani ki
-  Jale diye to hawaon ne pasbani ki
+  Dayare shab pe ujaaloṅ ne hukmarani ki
+  Jale diye to hawaoṅ ne pasbani ki
 
   6
-  Mili zaeefi ko angdaiyan jawani ki
-  Zaban hogayi mashoor be-zabani ki
-  Ye tera faiz hai saara hussain zindabad
+  Mili zaeefi ko angraiyaṅ jawani ki
+  Zabaṅ hogayi mashur bezabani ki
+  Ye tera faiz hai saara Husain zindabad
   Lagaye jao ye nara…
 
   7
-  Payame haq hai khuda ki qasam payame hussain
-  Har ek cheez hai kaunain ki ghulame hussain
-  Wo mohtaram hai jo karta hai ehtarame hussain
-  Agar yazeed se lena hai intiqame hussain
+  Payame haq hai khuda ki qasam payame Husain
+  Har ek chiz hai kaunain ki ghulame Husain
+  Wo mohtaram hai jo karta hai ehtarame Husain
+  Agar yazid se lena hai intiqame Husain
 
   8
-  Lagao jhoom ke naara hussain zindabad
+  Lagao jhum ke naara Husain zindabad
   Lagaye jao ye nara…
-  Jo ghar luta'ta hai usko hussain kehte hai
-  Jo deen bachata hai usko hussain kehte hai
+  Jo ghar luta'ta hai usko Husain kehte hai
+  Jo din bachata hai usko Husain kehte hai
 
   9
-  Jo hur banata hai usko hussain kehte hai
-  Jo jeet jaata hai usko hussain kehte hai
-  Shuja'aton ne pukaraa hussain zindabad
+  Jo hur banata hai usko Husain kehte hai
+  Jo jit jaata hai usko Husain kehte hai
+  Shuja'aton ne pukaraa Husain zindabad
   Lagaye jao ye nara…
 
   10
   Baraye jang ye lekar jo zulfiqar gaya
-  Ameere shaam ko beta ali ka maar gaya
+  Amire shaam ko beta ali ka maar gaya
   Kiya ye waqt ne elaan ikhtedaar gaya
-  Hussain jeet gaye aur yazeed haar gaya
+  Husain jit gaye aur yazid haar gaya
 
   11
-  Khuda ka deen pukara hussain zindabad
+  Khuda ka din pukara Husain zindabad
   Lagaye jao ye nara…
   Ali ka laal shahe mashraqain zinda hai
   Wo qalbe fatema zehra ka chain zinda hai
 
   12
   Shababe faatahe badr o hunain zinda hai
-  Yazeed margaya mera hussain zinda hai
-  Ye zindagi ka hai naara hussain zindabad
+  Yazid margaya mera Husain zinda hai
+  Ye zindagi ka hai naara Husain zindabad
   Lagaye jao ye nara…
 
   13
-  Ye tera dost bhi tera adoo bhi kehta hai
-  Chiragh aandhiyon ke rubaru bhi kehta hai
+  Ye tera dost bhi tera adu bhi kehta hai
+  Chiragh aandhiyoṅ ke rubaru bhi kehta hai
   Alam bhi taygh bhi chaake gulu bhi kehta hai
-  Nazar bhi fikr bhi dil bhi lahoo bhi kehta hai
+  Nazar bhi fikr bhi dil bhi lahu bhi kehta hai
 
   14
-  Jo qatl hoke na haara hussain zindabad
+  Jo qatl hoke na haara Husain zindabad
   Lagaye jao ye nara…
   Wafa ka tazkira gauhar sada pasand rahe
   Nishane matame shabbir arjuband rahe
 
   15
-  Alam hussain ke lashkar ka sar baland rahe
-  Yazeedi qabr ki gehrayion mein band rahe
-  Jiye hussain hamara hussain zindabad
+  Alam Husain ke lashkar ka sar baland rahe
+  Yazidi qabr ki gehrayioṅ meiṅ band rahe
+  Jiye Husain hamara Husain zindabad
   Lagaye jao ye nara…
 # source_id: nohayonline:7517caf5eed85e40ba40
 # source_url: https://www.nohayonline.com/details_content.php?id=797

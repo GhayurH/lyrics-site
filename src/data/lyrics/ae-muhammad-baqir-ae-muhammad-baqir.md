@@ -8,58 +8,58 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aey Muhammad Baqir, Aey Muhammad Baqir
+  Ae Muhammad Baqir, Ae Muhammad Baqir
 
   1
-  Kehtay thay Abid e muztar
-  Ankhon se lahoo barsa kar
+  Kehte the Abid-e-muztar
+  Ankhoṅ se lahu barsa kar
 
   2
-  Rakhna hay khayal e Sakina
+  Rakhna hai khayal-e-Sakina
   Dukh us ke gham hi sehna
-  Jab soey wo ghabra kar
+  Jab soe wo ghabra kar
   Tum saaya karna sar par
 
   3
-  Zanjeer meri qismat hay
-  Aur dhoop may bhi shiddat hay
+  Zanjir meri qismat hai
+  Aur dhup may bhi shiddat hai
   Jalti hui is bairri par
   Tum ashk bahana dilbar
 
   4
   Tum sath phuphi ke rehna
-  Jo keh dain wo sun lena
-  Tum hathon ko phaila kar
+  Jo keh daiṅ wo sun lena
+  Tum hathoṅ ko phaila kar
   Ban jana un ki chaadar
 
   5
-  Jab madar e Asghar roey
-  Jab tak na Sakina soey
-  Tum aisay jagtay rehna
+  Jab madar-e-Asghar roe
+  Jab tak na Sakina soe
+  Tum aise jagte rehna
   Jis tarha chand falak par
 
   6
-  Jab tum ko pyas sataey
+  Jab tum ko pyas satae
   Aur pani bhi mil jaye
   Le jana tum wo pani
-  Pehlay qabr e Asghar par
+  Pehle qabr e Asghar par
 
   7
-  Kamsin hay abhi choota hay
-  Tu Haider ka pota hay
+  Kamsin hai abhi chuta hai
+  Tu Haider ka pota hai
   Tum laaj hamari rakhna
-  Chaltay rehna kaanton par
+  Chalte rehna kaantoṅ par
 
   8
-  Zindan may jab ho jana
-  Durron se nahi ghabrana
-  Dat jana zulm ke aagay
-  Khutbat hamaray sun kar
+  Zindaṅ may jab ho jana
+  Durroṅ se nahi ghabrana
+  Dat jana zulm ke aage
+  Khutbat hamare sun kar
 
   9
   Rehan wo kamsin bacha
   Jab qaid e sitam may pohoncha
-  Taiwar thay Ali Akbar ke
+  Taiwar the Ali Akbar ke
   Aabid ne kaha lipta kar
 # source_id: ziyaraat:1e7a12717639cbe4e6f1
 # source_url: https://www.ziyaraat.net/api/noha/1843

@@ -32,7 +32,7 @@ romanLyrics: |-
   Chikh baahar aa rahi hai, zakhm saara khul raha hai
 
   5
-  Qaatil-e-Zahra pe laanat, aur un pe be-shumaar
+  Qaatil-e-Zahra pe laanat, aur un pe beshumaar
   John jis ke dil meiṅ ab bhi bughz-e-Zahra pal raha hai
 ---
 ہے مدینے میں اندھیرا، بابِ زہرا جل رہا ہے

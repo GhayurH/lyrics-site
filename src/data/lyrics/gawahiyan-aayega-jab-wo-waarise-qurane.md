@@ -12,74 +12,74 @@ published: false
 romanLyrics: |-
   1
   Aayega jab wo waarise qurane karbala
-  Ek hashr hoga bar sare maidan e karbala
-  Aayenge uthke saare shaheedane karbala
+  Ek hashr hoga bar sare maidan-e-karbala
+  Aayenge uthke saare shahidane karbala
   Hogi sada ke laao gawahane karbala
   Goonjegi jab sada ye imame zaman ki
   Dene gawahi aayegi har shay jahan ki
-  Gawahiyan gawahiyan
-  Gawahe ghurbate shabbir hoga saara jahan
-  Karengi zulmatein ro ro ke zulmaton ko bayan
+  Gawahiyaṅ gawahiyaṅ
+  Gawahe ghurbate shabbir hoga saara jahaṅ
+  Kareṅgi zulmateiṅ ro ro ke zulmatoṅ ko bayaṅ
   Gawahe ghurbate shabbir...
   Gawahiyan...
-  Falak ke saath faza bhi gawahiyan degi
-  Ghamon ki garm hawa bhi gawahiyan degi
-  Zameen e karbobala bhi gawahiyan degi
-  Bahegi khaak ke zarro se mere khoon ta rawan
+  Falak ke saath faza bhi gawahiyaṅ degi
+  Ghamoṅ ki garm hawa bhi gawahiyaṅ degi
+  Zamin e karbobala bhi gawahiyaṅ degi
+  Bahegi khaak ke zarro se mere khuṅ ta rawaṅ
   Gawahe ghurbate shabbir...
   Gawahiyan...
   Kahegi sahibe wal-asr se ye roke furaat
-  Nabi ke laal pe thi tang karbala mein hayaat
-  Mai khud bhi pyasi thi tashna-dahan hussain ke saath
-  Agar hussain bulaate to khud mai jaati wahan
+  Nabi ke laal pe thi tang karbala meiṅ hayaat
+  Mai khud bhi pyasi thi tashna-dahan Husain ke saath
+  Agar Husain bulaate to khud mai jaati wahaṅ
   Gawahe ghurbate shabbir...
   Gawahiyan...
-  Gawahi zulm ki yun dega hurmala ka teer
-  Tadap ke rehgaya sarwar ke haath par baysheer
-  Ye imtehan tha mera na thi meri taqseer
-  Chala tha mai jo kaman se to ro padi thi kaman
+  Gawahi zulm ki yuṅ dega hurmala ka tir
+  Tarap ke rehgaya sarwar ke haath par baysheer
+  Ye imtehan tha mera na thi meri taqsir
+  Chala tha mai jo kamaṅ se to ro pari thi kamaṅ
   Gawahe ghurbate shabbir...
   Gawahiyan...
-  Sina batayegi aaye thay laash par sarwar
-  Tadap ke aediyan malta tha khaak par akbar
-  Bayan ho kaise sina khenchne ka wo manzar
-  Zaeef hogaye sarwar uthaai laashe jawan
+  Sina batayegi aaye the laash par sarwar
+  Tarap ke aeriyaṅ malta tha khaak par akbar
+  Bayaṅ ho kaise sina khenchne ka wo manzar
+  Zaif hogaye sarwar uthaai laashe jawaaṅ
   Gawahe ghurbate shabbir...
   Gawahiyan...
-  Kahenge mehdi e daura se teer aur bhaale
-  Hum hi thay zeen se sheh ko utaarne waale
-  Wo tashnagi thi ke sheh ki ragon mein thay chaale
-  Har ek zakhm ke andar bhi zakhm ka tha nishan
+  Kahenge mehdi e daura se tir aur bhaale
+  Hum hi the zin se sheh ko utaarne waale
+  Wo tashnagi thi ke sheh ki ragoṅ meiṅ the chaale
+  Har ek zakhm ke andar bhi zakhm ka tha nishaṅ
   Gawahe ghurbate shabbir...
   Gawahiyan...
   Gawahi dene jab aayengi zainabe muztar
-  Kahengi saahibe wal asr se ye ro ro kar
-  Athara zarbe gini maine sheh ki gardan par
-  Har ek zarb ka ab tak hai mere dil pe nishan
+  Kaheṅgi saahibe wal asr se ye ro ro kar
+  Athara zarbe gini maiṅ ne sheh ki gardan par
+  Har ek zarb ka ab tak hai mere dil pe nishaṅ
   Gawahe ghurbate shabbir...
   Gawahiyan...
-  Gawah honge shaheedane karbala saare
+  Gawah honge shahidane karbala saare
   Gawah honge nabi aur ambiya saare
-  Karenge ghurbate shabbir par buka saare
+  Kareṅge ghurbate shabbir par buka saare
   Har ek taraf nazar aayega hashr hi ka samaa
   Gawahe ghurbate shabbir...
   Gawahiyan...
-  Gawah banke shaheedane gham bhi aayenge
-  Ghame hussain mein aankhon se khoon bahayenge
-  Janabe mehdi e daura ko ye batayenege
-  Lutayi hum ne bhi maula ghame hussain mein jaan
+  Gawah banke shahidane gham bhi aayenge
+  Ghame Husain meiṅ aankhoṅ se khuṅ bahayenge
+  Janabe mehdi-e-daura ko ye batayenege
+  Lutayi hum ne bhi maula ghame Husain meiṅ jaaṅ
   Gawahe ghurbate shabbir...
   Gawahiyan...
   Udegi khaak jab aayegi sayyeda zehra
-  Kahengi kaun hai mujhsa gawah ay beta
-  Ke meri godh mein kaata gaya tha khushk gala
-  Mere hussain ke jaisa ghareeb hoga kahan
+  Kaheṅgi kaun hai mujhsa gawah ae beta
+  Ke meri godh meiṅ kaata gaya tha khushk gala
+  Mere Husain ke jaisa gharib hoga kahaṅ
   Gawahe ghurbate shabbir...
   Gawahiyan...
-  Gawahi noor ali denge abid e bemaar
-  Ay muntaqim zara sambhli jo meri haalate zaar
+  Gawahi nur ali deṅge abid e bemaar
+  Ae muntaqim zara sambhli jo meri haalate zaar
   Sina ki nauk pe dekha sare shahe abraar
-  Jale qayaam se us waqt uth raha tha dhuan
+  Jale qayaam se us waqt uth raha tha dhuaṅ
   Gawahe ghurbate shabbir...
   Gawahiyan...
 # source_id: nohayonline:7a786f4733b7f2aff817

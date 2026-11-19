@@ -13,7 +13,7 @@ published: false
 romanLyrics: |-
   Haye sajjad muhari haye bemaar muhari
   Machao shor na logon sakina jaag jayegi
-  Meri zanjeer na khayncho sakina jaag jayegi
+  Meri zanjir na khayncho sakina jaag jayegi
 
   1
   Kabhi bachi ko takta hai kabhi aansu bahata hai
@@ -22,12 +22,12 @@ romanLyrics: |-
 
   2
   Kisi bhi zulm ke jo aah ki khaatir wo lab khulte
-  Tadap kar abid e bemaar ye kehta tha honton se
+  Tarap kar abid-e-bemaar ye kehta tha hontoṅ se
   Agar ye aah nikli to sakina jaag jayegi
 
   3
   Agar aulaad waale ho tumhe ye sab pata hoga
-  Adhoori neendh se uthjaye jo bachi to kya hoga
+  Adhuri neendh se uthjaye jo bachi to kya hoga
   Khudara shimr ko roko sakina jaag jayegi
 
   4
@@ -37,22 +37,22 @@ romanLyrics: |-
 
   5
   Ye waada hai mera pani nahi mangooga mai tumse
-  Wo jab uthjaye to jee bhar ke beshak maarna durre
+  Wo jab uthjaye to ji bhar ke beshak maarna durre
   Abhi bekas ko na maaro sakina jaag jayegi
 
   6
   Abhi azaad ho tum qaid ke matlab ko kya jaano
-  Parindo chod do zindan meri ilteja maano
+  Parindo chor do zindan meri ilteja maano
   Chale jao na yu chehko sakina jaag jayegi
 
   7
-  Sare zindan sakina ko qaza ki neend kya aayi
-  Kisi se kuch nahi kehta hai is mazloom ka bhai
+  Sare zindaṅ sakina ko qaza ki nind kya aayi
+  Kisi se kuch nahi kehta hai is mazlum ka bhai
   Ke ab ye darr nahi usko sakina jaag jayegi
 
   8
-  Saf e matam se abid ka ye akbar bayn aata hai
-  Isay bas baap ke purse may hi ab chain aata hai
+  Saf-e-matam se abid ka ye akbar bayn aata hai
+  Ise bas baap ke purse may hi ab chain aata hai
   Sada matam ki na roko sakina jaag jayegi
 # source_id: nohayonline:4bbe300cfd0471d48109
 # source_url: https://www.nohayonline.com/details_content.php?id=479

@@ -1,6 +1,6 @@
 ---
 title: "مظلوم کا ماتم ہے مظلوم کا ماتم"
-alternateTitle: "Mazloom Ka Matam"
+alternateTitle: "Mazlum Ka Matam"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,40 +10,40 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Mazloom ka matam hai mazloom ka matam
+  Mazlum ka matam hai mazlum ka matam
 
   1
-  Logon ye tamasha nahi is rone pe hasna nahi
+  Logoṅ ye tamasha nahi is rone pe hasna nahi
 
   2
-  Kya milta hai matam mein kis tarha bataye
-  Mazloom ko rote hai mazloom jahan mein
-  Pathar nahi seene mein dil hai to ye matam
+  Kya milta hai matam meiṅ kis tarha bataye
+  Mazlum ko rote hai mazlum jahaṅ meiṅ
+  Pathar nahi sine meiṅ dil hai to ye matam
 
   3
-  Ghar fatema zehra ka kis tarha se ujda
-  Jab hogi qayamat to yun aayengi zehra
-  Ek haat mein do baazu ek haat mein parcham
+  Ghar fatema zehra ka kis tarha se ujra
+  Jab hogi qayamat to yuṅ aayengi zehra
+  Ek haat meiṅ do baazu ek haat meiṅ parcham
 
   4
   Jab pyare mohamed se mai pyar karunga
   Phir us ke nawase ka matam bhi karunga
-  Jis ghar mein mohamed hai us ghar ka ye matam
+  Jis ghar meiṅ mohamed hai us ghar ka ye matam
 
   5
-  Logon nabi zaadi ka bazaron mein aana
-  Aur band ke rassi mein darbaron mein laana
+  Logoṅ nabi zaadi ka bazaroṅ meiṅ aana
+  Aur band ke rassi meiṅ darbaroṅ meiṅ laana
   Is baat pe rote hai is dard ka matam
 
   6
-  Zanjeeron mein jakda hai shabbir ka beta
-  Maa behne khule sar thi khoon rota tha maula
-  Sajjaad se poocho to kyun hai ye kamar kham
+  Zanjiroṅ meiṅ jakra hai shabbir ka beta
+  Maa behne khule sar thi khuṅ rota tha maula
+  Sajjaad se pucho to kiuṅ hai ye kamar kham
 
   7
   Khat fatema sughra ka kis waqt mila hai
-  Jab bhai sina khaaye reti pe pada hai
-  Khat kaun padhe tera tanhaai ka aalam
+  Jab bhai sina khaaye reti pe para hai
+  Khat kaun parhe tera tanhaai ka aalam
 
   8
   Rehaan ka sarwar ka bakshish ka waseela

@@ -10,55 +10,55 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Utra jo aasman se mehzar ba shor-o-shain
-  Baitush sharaf mein goonj uthe sayyeda ke bain
+  Utra jo aasman se mehzar ba shor o shain
+  Baitush sharaf meiṅ gunj uthe sayyeda ke bain
 
   1
-  Farmate thay habeebe khuda shaahe mashraqain
-  Hussaino minni wa ana minal hussain
-  Karbobala mein mera pisar maara jaayega
-  Pyasa rahega boond na pani ki paayega
+  Farmate the habibe khuda shaahe mashraqain
+  Hussaino minni wa ana minal Husain
+  Karbobala meiṅ mera pisar maara jaayega
+  Pyasa rahega bund na pani ki paayega
 
   2
-  Ansar-o-aqraba ki ye laashe uthayega
-  Islam ko bachayega mera ye noore ain
+  Ansar o aqraba ki ye laashe uthayega
+  Islam ko bachayega mera ye nure ain
   Hussaino minni…
-  Has kar sahega ye har ek ranj-o-malaal ko
+  Has kar sahega ye har ek ranj o malaal ko
 
   3
-  Jhoole se leke jaayega bano ke laal ko
+  Jhule se leke jaayega bano ke laal ko
   Pani magar na dega koi naunehal ko
-  Pyasa hi maara jayega asghar sa noore ain
+  Pyasa hi maara jayega asghar sa nure ain
   Hussaino minni…
 
   4
-  Sar sabse aage naize par hoga hussain ka
+  Sar sabse aage naize par hoga Husain ka
   Gar bhai bekafan to behan hogi berida
-  Darbar mein yazeed ke jaayega khaafila
-  Zainab dayare shaam mein banjayegi hussain
+  Darbar meiṅ yazid ke jaayega khaafila
+  Zainab dayare shaam meiṅ banjayegi Husain
 
   5
   Hussaino minni…
   Ye sunke boli fatema zehra duhaai hai
-  Farte alam se aankhon mein tareeki chaayi hai
+  Farte alam se aankhoṅ meiṅ tariki chaayi hai
   Baba khabar ye aap ne kaisi sunaayi hai
 
   6
   Paata nahi hai mera dile dard mand chain
   Hussaino minni…
-  Phir sayyeda ne poocha ay taaje sire yaqeen
-  Kahiye abul hassan bhi to honge wohi qareeb
+  Phir sayyeda ne pucha ae taaje sire yaqin
+  Kahiye abul Hasaṅ bhi to hoṅge wohi qarib
 
   7
-  Mai aur aap honge kahan koi bhi nahi
-  Na mai na tum na honge ali faatahe hunain
+  Mai aur aap hoṅge kahaṅ koi bhi nahi
+  Na mai na tum na hoṅge ali faatahe hunain
   Hussaino minni…
-  Mohsin ye sunke fatima zehra hui malool
+  Mohsin ye sunke fatima zehra hui malul
 
   8
-  Roohul ameen pukaare ke keh-dijiye rasool
-  Ek qaum khalq hogi ba-andaaze buey kul
-  Ta abad jo royegi keh kar hussain hussain
+  Roohul amiṅ pukaare ke keh-dijiye rasul
+  Ek qaum khalq hogi ba-andaaze bue kul
+  Ta abad jo royegi keh kar Husain Husain
   Hussaino minni…
 # source_id: nohayonline:7700cb9e2273c7016751
 # source_url: https://www.nohayonline.com/details_content.php?id=230

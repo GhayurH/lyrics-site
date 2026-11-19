@@ -11,77 +11,77 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Labbaik labbaik labbaika ya hussain
-  Maula hussain hussain ya maula
+  Labbaik labbaik labbaika ya Husain
+  Maula Husain Husain ya maula
   Karbobala mera rasta aur meri manzil syed badshah
   Hai sar pe alam ka saaya mera kaam nahi darna warna
-  Saat samandar paar rahun ya apne des ke logon mein
-  Gali gali aur nagar nagar gaon gaon har shehar shehar
-  Har majlis mein har mimbar par elaan karunga subho shaam
+  Saat samandar paar rahuṅ ya apne des ke logoṅ meiṅ
+  Gali gali aur nagar nagar gaoṅ gaoṅ har shehar shehar
+  Har majlis meiṅ har mimbar par elaan karunga subho shaam
   Ya zahra ya maula
-  Ana majnoon al hussain
+  Ana majnun al Husain
   Chaahe zamana bole mujhko deewana
-  Saare jahan mein ya hussain leke tera naam
-  Mai to kahunga sare aam mai hussain ka ghulam
-  Maula hussain hussain...
-  Aisa azeem tu ne karbala mein kaam kiya
-  Sab kuch khuda ne ya hussain tere naam kiya
-  Tu hi to hai wo badshaah ya hussain
-  Jisko dunya ke saare baadshahon ne salaam kiya
+  Saare jahaṅ meiṅ ya Husain leke tera naam
+  Mai to kahunga sare aam mai Husain ka ghulam
+  Maula Husain Husain...
+  Aisa azim tu ne karbala meiṅ kaam kiya
+  Sab kuch khuda ne ya Husain tere naam kiya
+  Tu hi to hai wo badshaah ya Husain
+  Jisko dunya ke saare baadshahoṅ ne salaam kiya
   Jiska baba ho ali aur maa ho fatema
-  Sab ko naseeb kahan hota hai aisa imam
+  Sab ko nasib kahaṅ hota hai aisa imam
   Mai to kahunga sare aam...
-  Jaisa hussain tu hai badshaah masha allah
+  Jaisa Husain tu hai badshaah masha allah
   Tujhko mile hai sab ghulam bhi subhan allah
-  Mai aaj hurr ko alaihis salaam kyun na kahun
-  Jis ne ashoor ki shab tere liye ya saarallah
-  Maal o daulat ko choda haathon ko joda aur bola
-  Ya hussain aap pe mera salaam
+  Mai aaj hurr ko alaihis salaam kiuṅ na kahuṅ
+  Jis ne ashur ki shab tere liye ya saarallah
+  Maal o daulat ko chora haathoṅ ko jora aur bola
+  Ya Husain aap pe mera salaam
   Mai to kahunga sare aam...
-  Saara zamana hai gawah ya hussain maula
-  Tu ne bachaya la ilaaha ya hussain maula
-  Hussaino minni wa ana minal hussain yani tu
-  Ban gaya nabiyon ka shaah ya hussain maula
-  Dil waalon ka hai naara hussain hamara
+  Saara zamana hai gawah ya Husain maula
+  Tu ne bachaya la ilaaha ya Husain maula
+  Hussaino minni wa ana minal Husain yani tu
+  Ban gaya nabiyoṅ ka shaah ya Husain maula
+  Dil waaloṅ ka hai naara Husain hamara
   Tere ghulam hi to bante hai aali maqam
   Mai to kahunga sare aam...
-  Ana majnoon al hussain
-  Ana majnoon al hussain
-  Ya sayyidi ya murshadi hussain yabnaz zahra
+  Ana majnun al Husain
+  Ana majnun al Husain
+  Ya sayyidi ya murshadi Husain yabnaz zahra
   Jo hai ghulam tera us pe ho salaam mera
-  Bhoola nahi hoon mai wo kufe ka darbar jahan
-  Aakar jalal mein muslim bine aqeel bola
+  Bhula nahi huṅ mai wo kufe ka darbar jahaṅ
+  Aakar jalal meiṅ muslim bine aqil bola
   Ibne marjana sunle rokega kaise
-  Tu kya hai aaj chaahe aa jaaye faqeer e shaam
+  Tu kya hai aaj chaahe aa jaaye faqir e shaam
   Mai to kahunga sare aam...
   Maula abbas tum se fatema zehra hai raazi
-  Tum ne wafaon ke maidan mein jeeti hai baazi
-  Tum bhi to ho ali ke bete jab zaalim ne poocha
-  Kyun ban ke rehte ho hussain ke ghulam ghazi
-  Ghaiz mein aa kar wallah sher ye bola
-  Ho ja khamosh de apni zaban ko lagaam
+  Tum ne wafaoṅ ke maidan meiṅ jiti hai baazi
+  Tum bhi to ho ali ke bete jab zaalim ne pucha
+  Kiuṅ ban ke rehte ho Husain ke ghulam ghazi
+  Ghaiz meiṅ aa kar wallah sher ye bola
+  Ho ja khamosh de apni zabaṅ ko lagaam
   Mai to kahunga sare aam...
-  Hota rahega ya hussain ye aelaan e aza
+  Hota rahega ya Husain ye aelaan e aza
   Chalta rahega na rukega karwan e aza
-  Pabandiyan ho chahe jitni bhi in majlison par
-  Nauhe sunayenge zeeshan aur irfan e aza
+  Pabandiyaṅ ho chahe jitni bhi in majlisoṅ par
+  Nauhe sunayenge zishan aur irfan e aza
   Majlis bhi hogi maula matam bhi hoga
-  Ishqe hussain mein taqayya hota hai haraam
+  Ishqe Husain meiṅ taqayya hota hai haraam
   Mai to kahunga sare aam...
-  Hussain imame manasto
-  Manam ghulame hussain
+  Husain imame manasto
+  Manam ghulame Husain
   Mera syed tu meri jaan bhi tu
-  Mera deen bhi tu emaan bhi tu
-  Mere maula teri qasam karam mein
+  Mera din bhi tu emaan bhi tu
+  Mere maula teri qasam karam meiṅ
   Sab se aali shaan bhi tu
   Ye izzat bhi tera sadqa hai
   Ye shohrat bhi tera sadqa hai
   Jo kuch bhi mere paas hai maula
   Sab kuch tera sadqa hai
-  Karta hoon mai ye waada ya abaabdillah
-  Tera zakir hoon jab bhi saamne hogi awaam
+  Karta huṅ mai ye waada ya abaabdillah
+  Tera zakir huṅ jab bhi saamne hogi awaam
   Mai to kahunga sare aam
-  Mai hussain ka ghulam
+  Mai Husain ka ghulam
 # source_id: nohayonline:0bc08f88b8e753cfe7d0
 # source_url: https://www.nohayonline.com/details_content.php?id=3691
 # raw_sha256: b29aba7bb2a74fd4696ef09fd3a6b39944f5082f4017213d73e9021152e485bb

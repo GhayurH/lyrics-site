@@ -11,56 +11,56 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Dekho wo taraai mein hai ek mard e wafadaar
-  Rakhe hai alam dosh pe pyason ka tarafdaar
-  Hai goonji isi sher ki ghazi ki ye lalkaar
-  Gar ijazat de hussain arsh hila sakta hoo
-  Is alam se nayi tareekh bana sakta hoo
+  Dekho wo taraai meiṅ hai ek mard-e-wafadaar
+  Rakhe hai alam dosh pe pyasoṅ ka tarafdaar
+  Hai gunji isi sher ki ghazi ki ye lalkaar
+  Gar ijazat de Husain arsh hila sakta hoo
+  Is alam se nayi tarikh bana sakta hoo
   Haa mai alamdar haa mai alamdar
-  Mai hoo abbas e ali mai wafaon ka wali
-  Baat jab meri chali goonj utha ali ali
+  Mai hoo abbas e ali mai wafaoṅ ka wali
+  Baat jab meri chali gunj utha ali ali
   Haa meri wafa ali ada ali sada ali
   Haa meri aba ali qaba ali nava ali
-  Mai agar chahun to ek hashr utha sakta hoo
+  Mai agar chahuṅ to ek hashr utha sakta hoo
   Jalwa e hyder e karar dikha sakta hoo
   Haa mai alamdar
   Abbas ya abbas ya abbas ya alamdar
   Alam alam alamdar
-  Mai alamdar e hussain mai hoo saalar e hussain
-  Main wafadare hussain mai hoo ghamkhwar e hussain
-  Haa mera shaah e umam jaan o dilam hussain hussain
-  Haa mera jaah o hasham mera bharam hussain hussain
+  Mai alamdar e Husain mai hoo saalar e Husain
+  Maiṅ wafadare Husain mai hoo ghamkhwar e Husain
+  Haa mera shaah e umam jaan o dilam Husain Husain
+  Haa mera jaah o hasham mera bharam Husain Husain
   Shaan e shabbir hai kya aaj bata sakta hoo
-  Tum ko aadab e hussaini mai sikha sakta hoo
+  Tum ko aadab-e-hussaini mai sikha sakta hoo
   Haa mai alamdar
-  Gar ijazat de hussain arsh hila sakta hoo
-  Is alam se nayi tareekh bana sakta hoo
+  Gar ijazat de Husain arsh hila sakta hoo
+  Is alam se nayi tarikh bana sakta hoo
   Haa mai alamdar haa mai alamdar
   Ye mukaddar hai mera ye alam mujhko mila
   Mai alamdare wafa hyder e karbobla
   Ye alam khula rahe utha rahe saja rahe
   Ye alam jama rahe datta rahe sada rahe
   Isi darya pe alam apna saja sakta hoo
-  Aur kate haaton se parcham ye utha sakta hoo
+  Aur kate haatoṅ se parcham ye utha sakta hoo
   Haa mai alamdar
   Abbas ya abbas ya abbas ya alamdar
   Alam alam alamdar
-  Mai to aaya hi nahi jang ladne ke liye
-  Mashk bharni hai mujhe pyase bachon ke liye
+  Mai to aaya hi nahi jang larne ke liye
+  Mashk bharni hai mujhe pyase bachoṅ ke liye
   Hai ye waada hai sakina se nibhana hai mujhe
-  Pani lena hai kisi se bhi na ladna hai mujhe
-  Muj ko ladna jo pada kya hoo bata sakta hoo
-  Ghaat se laakhon ke lashkar ko bagha sakta hoo
+  Pani lena hai kisi se bhi na larna hai mujhe
+  Muj ko larna jo para kya hoo bata sakta hoo
+  Ghaat se laakhoṅ ke lashkar ko bagha sakta hoo
   Haa mai alamdar
-  Gar ijazat de hussain arsh hila sakta hoo
-  Is alam se nayi tareekh bana sakta hoo
+  Gar ijazat de Husain arsh hila sakta hoo
+  Is alam se nayi tarikh bana sakta hoo
   Haa mai alamdar haa mai alamdar
   Aaya darya pe jari kaamp uthi fauj e shaqi
   Ye hai abbas e jari ya hai waqayi ali
-  Bhaag uthi fauj e jafa ghazi jidhar jidhar muda
+  Bhaag uthi fauj e jafa ghazi jidhar jidhar mura
   Jis ka moo jidhar utha bhaaga gira nahi ruka
   Bola abbas e jari taygh utha sakta hoo
-  Karbala mein tumhe siffeen dikha sakta hoo
+  Karbala meiṅ tumhe siffin dikha sakta hoo
   Haa mai alamdar
   Abbas ya abbas ya abbas ya alamdar
   Alam alam alamdar
@@ -68,11 +68,11 @@ romanLyrics: |-
   Aa gayi fauj e jafa gir gaya maula mera
   Haa wo mashkeeza chhida baazu kata pani baha
   Ghazi reti pe gira shor e qayamat tha bapa
-  Aayi ghazi ki sada jaan luta sakta hoo
-  Kaise pani ke bina qaimon mein jaa sakta hoo
+  Aayi ghazi ki sada jaaṅ luta sakta hoo
+  Kaise pani ke bina qaimon meiṅ jaa sakta hoo
   Haa mai alamdar
-  Gar ijazat de hussain arsh hila sakta hoo
-  Is alam se nayi tareekh bana sakta hoo
+  Gar ijazat de Husain arsh hila sakta hoo
+  Is alam se nayi tarikh bana sakta hoo
   Haa mai alamdar haa mai alamdar
 # source_id: nohayonline:d79bdadef7855241e995
 # source_url: https://www.nohayonline.com/details_content.php?id=1712

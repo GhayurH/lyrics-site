@@ -16,26 +16,26 @@ romanLyrics: |-
   Nauha tha sheh ka noke sina par
   Allahu akbar zainab ki chadar
   Zainab ki chadar...
-  Shaam e ghariban roti hai jisko
-  Khaake pareshan roti hai jisko
-  Chashme bayaban roti hai jisko
-  Khud zaat e yazdan roti hai jisko
+  Shaam e gharibaṅ roti hai jisko
+  Khaake pareshaṅ roti hai jisko
+  Chashme bayabaṅ roti hai jisko
+  Khud zaat e yazdaṅ roti hai jisko
   Rote hai jisko har waqt hyder
   Roti hai zehra jisko khule sar
   Allahu akbar zainab ki chadar...
   Aaye hai adam aaye hai khaatam
   Teri rida ka barpa hai matam
   Taari hai sab par girye ka aalam
-  Seeno mein jaari hai ek khoone payham
+  Sino meiṅ jaari hai ek khune payham
   Karte hai matam dekho payambar
-  Nauha yehi hai sab ke labon par
+  Nauha yehi hai sab ke laboṅ par
   Allahu akbar zainab ki chadar...
   Kehte hai kat kar ghazi ke baazu
   Kehte hai kat kar qasim ke abru
   Kehte hai beh kar abid ke aansu
-  Kehte hai khoon mein akbar ke gaysun
-  Kehta hai beh kar phir khoone asghar
-  Kehta hai reti pe ye khoone akbar
+  Kehte hai khuṅ meiṅ akbar ke gaysuṅ
+  Kehta hai beh kar phir khune asghar
+  Kehta hai reti pe ye khune akbar
   Allahu akbar zainab ki chadar...
   Qaime jalane aate hai aada
   Taabe ko dhaane aate hai aada
@@ -45,18 +45,18 @@ romanLyrics: |-
   Kehte hai haye chin kar ye gohar
   Allahu akbar zainab ki chadar...
   Aate hai abid sar ko jhukaye
-  Apne lahoo mein khud hi nahaye
+  Apne lahu meiṅ khud hi nahaye
   Saaye se apne khud ko chupaye
   Zakhmo ko apne dil se lagaye
-  Raahon mein jis dam aate hai pathar
+  Raahoṅ meiṅ jis dam aate hai pathar
   Kehte hai haye abid ke zewar
   Allahu akbar zainab ki chadar...
   Jis dam naved ek aandhi uthi thi
-  Sheh ke galay par jis dam churi thi
-  Maqtal mein har soo khoon ki jhadi thi
-  Qaime ke dar par zainab khadi thi
-  Likhun to kaise haye ye manzar
-  Us dam yehi tha sheh ke labon par
+  Sheh ke gale par jis dam churi thi
+  Maqtal meiṅ har soo khuṅ ki jhari thi
+  Qaime ke dar par zainab khari thi
+  Likhuṅ to kaise haye ye manzar
+  Us dam yehi tha sheh ke laboṅ par
   Allahu akbar zainab ki chadar...
 # source_id: nohayonline:97d9620b7248a34dacc3
 # source_url: https://www.nohayonline.com/details_content.php?id=925

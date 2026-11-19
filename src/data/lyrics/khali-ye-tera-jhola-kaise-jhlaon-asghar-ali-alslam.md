@@ -8,47 +8,47 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Kaisy jhulaon Asghar
-  Khali ye tera jhula kaisy jhulaon Asghar
+  Kaisy jhulaoṅ Asghar
+  Khali ye tera jhula kaisy jhulaoṅ Asghar
 
   1
-  Lori hawaon ko main
-  Kyun kar sunaon Asghar
+  Lori hawaoṅ ko maiṅ
+  Kiuṅ kar sunaoṅ Asghar
 
   2
-  Tu dhoop main para hai, jalti zameen k upar
-  Saye main tu bata dy
-  Main kaisy jaon Asghar
+  Tu dhup maiṅ para hai, jalti zamiṅ k upar
+  Saye maiṅ tu bata dy
+  Maiṅ kaisy jaoṅ Asghar
 
   3
-  Rootha hai apni maa sy, maa nangy sar hai beta
+  Rutha hai apni maa sy, maa nangy sar hai beta
   Kaisy tujhy manany
-  Maidan main jaon Asghar
+  Maidaṅ maiṅ jaoṅ Asghar
 
   4
-  Abbas hain na Akbar, Qasim rahy na Sarwar
-  Abid pary hain ghash main
-  Kaisy jagaon Asghar
+  Abbas haiṅ na Akbar, Qasim rahy na Sarwar
+  Abid pary haiṅ ghash maiṅ
+  Kaisy jagaoṅ Asghar
 
   5
-  Mamta ki chaon hogi, kuch tou mily gi rahat
-  Main apny dil main teri
-  Turbat banaon Asghar
+  Mamta ki chaoṅ hogi, kuch tou mily gi rahat
+  Maiṅ apny dil maiṅ teri
+  Turbat banaoṅ Asghar
 
   6
   Khul jaye hath mery, mil jaye mujhko chadar
   Turbat py teri akar
-  Aanchal urhaon Asghar
+  Aanchal urhaoṅ Asghar
 
   7
-  Aja k din dhala hai, raat agai hai ban main
-  Furqat main dekh teri
-  Main mar na jaon Asghar
+  Aja k din dhala hai, raat agai hai ban maiṅ
+  Furqat maiṅ dekh teri
+  Maiṅ mar na jaoṅ Asghar
 
   8
   Bano k laal itni, Rehan ko dua dy
   Umm-e-Rubab ko ye
-  Noha sunaon Asghar
+  Noha sunaoṅ Asghar
 # source_id: ziyaraat:635a633aa434c23866a4
 # source_url: https://www.ziyaraat.net/api/noha/2038
 # raw_sha256: 220acd202791843d66f298bb76815726ac50f6334812ebf6c4e1bf6a3a6db9fe

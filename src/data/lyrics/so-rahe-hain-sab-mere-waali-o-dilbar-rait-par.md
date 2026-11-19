@@ -11,37 +11,37 @@ aliases: []
 published: false
 romanLyrics: |-
 
-  Reh Gaye Dasht Main Tanha To Watan Yaad Aya
+  Reh Gaye Dasht Maiṅ Tanha To Watan Yaad Aya
   Pani Paya To Har Ek Tashna Dahan Yaad Aya
   Leky Har Chez Madiny Se Chali The Zainab
   Bhai Ke Lash Pe Pohnchi To Kafan Yaad Aya
 
-  So Rahy Hain Sab Mere Waali O Dilbar Rait Par
+  So Rahy Haiṅ Sab Mere Waali o Dilbar Rait Par
   Bano Bethi He Rahain Ge Zindage Bhar Rait Par
 
   1
-  Hoti Chadar Saya Karti Haye Kitne Dhoop Hai
-  Soraha Hai Aag Ke Maidan Main Akbar Rait Par
+  Hoti Chadar Saya Karti Haye Kitne Dhup Hai
+  Soraha Hai Aag Ke Maidan Maiṅ Akbar Rait Par
 
   2
-  Piyas Main Bachon Ke Kuch Hojati The Shiddat Siwa
-  Phaiktay Thy Jab Adu Pani Dekha Kar Rait Par
+  Piyas Maiṅ Bachoṅ Ke Kuch Hojati The Shiddat Siwa
+  Phaikte Thy Jab Adu Pani Dekha Kar Rait Par
 
   3
-  Jhola Tera Jal Gaya To Kya Howa Aye Mery Laal
-  Loriyan Dongi Tujhe Aja Leta Kar Rait Par
+  Jhola Tera Jal Gaya To Kya Howa Ae Mery Laal
+  Loriyaṅ Dongi Tujhe Aja Leta Kar Rait Par
 
   4
-  Baap Ke Ceny Par Sir Rakh Kar Jisay Atti Ho Neend
+  Baap Ke Ceny Par Sir Rakh Kar Jise Atti Ho Nind
   Kesy Soye Shah Ke Wo Nanni Dukhtar Rait Par
 
   5
-  Shaam Ke Rastay Main Sar Shabbir Ka Us Dum Ruka
-  Gir Gaye Naqay Se Jab Bano Ke Dukhtar Rait Par
+  Shaam Ke Raste Maiṅ Sar Shabbir Ka Us Dum Ruka
+  Gir Gaye Naqe Se Jab Bano Ke Dukhtar Rait Par
 
   6
-  Honge Asan Mushkilain Aur Ziyarat-e-Shabbir Bhe
-  Jab Anees Hoga Lahad Main Tera Bister Rait Par
+  Honge Asan Mushkilaiṅ Aur Ziyarat-e-Shabbir Bhe
+  Jab Anis Hoga Lahad Maiṅ Tera Bister Rait Par
 # source_id: nohawriteups:22ed30c0402a94cd5756
 # source_url: https://www.nohawriteups.org/nohay-2023-so-rahe-hain-sab-mere-waali-o-dilbar-rait-par-syed-raza-abbas-zaidi-muharram-1445-lyrics/
 # raw_sha256: c547fa2c73549a59311d0ecec2db1a082fedd9bf4f8566a40d75ba7bcb56e96a

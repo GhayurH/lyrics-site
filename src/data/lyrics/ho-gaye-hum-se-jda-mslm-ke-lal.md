@@ -12,36 +12,36 @@ romanLyrics: |-
 
   1
   Kargaye dono khaza Muslim ke laal
-  Shaah karte thay ye noha baar baar
-  Ho gaye deen par fida Muslim ke laal
+  Shaah karte the ye noha baar baar
+  Ho gaye din par fida Muslim ke laal
 
   2
-  Dete thay awaaz maqtal may hussain
+  Dete the awaaz maqtal may Husain
   Do hamay phir se sada Muslim ke laal
 
   3
-  Dhoondne jaaun kahan kis simt ko
-  Hai kahan ay karbala Muslim ke laal
+  Dhundne jaauṅ kahaṅ kis simt ko
+  Hai kahaṅ ae karbala Muslim ke laal
 
   4
-  Ab kahan paayega dil bande batool
+  Ab kahaṅ paayega dil bande batul
   Aap jaise ba wafa Muslim ke laal
 
   5
-  Kya karoo shabbir karte thay fughaan
-  Kar gaye be-aasra Muslim ke laal
+  Kya karoo shabbir karte the fughaaṅ
+  Kar gaye beaasra Muslim ke laal
 
   6
-  Bhaiyon ke aur pidar ke sog may
-  Pehle hi thay mubtila Muslim ke laal
+  Bhaiyoṅ ke aur pidar ke sog may
+  Pehle hi the mubtila Muslim ke laal
 
   7
   Ahlebaite mustufa matam karo
   Lab pe ho aaho buka Muslim ke laal
 
   8
-  Pursa deta hai ruqayya ko anees
-  Jinke thay ye dilruba Muslim ke laal
+  Pursa deta hai ruqayya ko anis
+  Jinke the ye dilruba Muslim ke laal
 # source_id: ziyaraat:7bf2a55db0a99f0dfee4
 # source_url: https://www.ziyaraat.net/api/noha/1865
 # raw_sha256: 33c1774059d6d86f1d34bff0a3dc65b44e7e137345fb052f44fd6a0014cc297c

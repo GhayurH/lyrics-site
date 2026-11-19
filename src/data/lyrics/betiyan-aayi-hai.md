@@ -1,6 +1,6 @@
 ---
 title: "باپ کی میّت کی رونق بیٹیوں کے دم سے ہے"
-alternateTitle: "Betiyan Aayi Hai"
+alternateTitle: "Betiyaṅ Aayi Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Baap ki mayyat ki raunaq betiyon ke dam se hai
-  Aa rahi hai zainab o kulsoom haye sar khule
-  Betiyan aayi hai mayyat ke sirhane ya ali
-  Di sada kufe mein rooh e fatema ne ya ali
-  Betiyan aayi hai mayyat ke sirhane ya ali
-  Zulm kufe mein kiya hai kaisa ahle shaam ne
+  Baap ki mayyat ki raunaq betiyoṅ ke dam se hai
+  Aa rahi hai zainab o kulsum haye sar khule
+  Betiyaṅ aayi hai mayyat ke sirhane ya ali
+  Di sada kufe meiṅ ruh-e-fatema ne ya ali
+  Betiyaṅ aayi hai mayyat ke sirhane ya ali
+  Zulm kufe meiṅ kiya hai kaisa ahle shaam ne
   Umr bhar zainab na aayi thi padar ke saamne
   Aaj kaise aayi hai mayyat pe jaane ya ali
-  Betiyan aayi hai...
-  Gham ke aalam mein ruqayya ki wafa to dekhiye
-  Kis tarha wo zainab o kulsoom se aage badhe
+  Betiyaṅ aayi hai...
+  Gham ke aalam meiṅ ruqayya ki wafa to dekhiye
+  Kis tarha wo zainab o kulsum se aage barhe
   Laash par aayi nahi aansu bahane ya ali
-  Betiyan aayi hai...
+  Betiyaṅ aayi hai...
   Dekh kar zainab ki haalat yaad aata hai mujhe
-  Us ghadi ummul masayib mere baba kehte thay
-  Jis ghadi di thi hamay zainab khuda ne ya ali
-  Betiyan aayi hai...
-  Kya bataun kya guzarti hai tere abbas par
+  Us ghari ummul masayib mere baba kehte the
+  Jis ghari di thi hamay zainab khuda ne ya ali
+  Betiyaṅ aayi hai...
+  Kya batauṅ kya guzarti hai tere abbas par
   Hausla kaise kare zainab ko rota dekh kar
   Ghar se baahar hai wo pehre ke bahane ya ali
-  Betiyan aayi hai...
-  Teen din se shor hai har ek azaan par bain ka
+  Betiyaṅ aayi hai...
+  Tin din se shor hai har ek azaaṅ par bain ka
   Kis tarha se gham batta'un boliye hasnain ka
-  Mere bacche aur yateemi ke zamane ya ali
-  Betiyan aayi hai...
+  Mere bacche aur yatimi ke zamane ya ali
+  Betiyaṅ aayi hai...
   Aap ki mayyat pe kaise aayi hai ye dekhiye
   Jaate jaate beti ka lehja to sunt jaaiye
-  Shaam jaana hai isay khutbe sunane ya ali
-  Betiyan aayi hai...
-  Kya kahun baba ka kaisa haal tha aflaak par
-  Gir gayi thi mai baqayya mein tadap kar khaak par
-  Aap ne choome thay jab ghazi ke shaane ya ali
-  Betiyan aayi hai...
+  Shaam jaana hai ise khutbe sunane ya ali
+  Betiyaṅ aayi hai...
+  Kya kahuṅ baba ka kaisa haal tha aflaak par
+  Gir gayi thi mai baqayya meiṅ tarap kar khaak par
+  Aap ne chume the jab ghazi ke shaane ya ali
+  Betiyaṅ aayi hai...
   Maa ka saaya ho na baaqi baap hi zinda rahe
-  Jaate jaate betiyon ko itna batla dijiye
+  Jaate jaate betiyoṅ ko itna batla dijiye
   Kaise palthe hai bhala aise gharane ya ali
-  Betiyan aayi hai...
-  Zulm ki akbar hui hai har taraf yun inteha
+  Betiyaṅ aayi hai...
+  Zulm ki akbar hui hai har taraf yuṅ inteha
   Karbala kufa najaf yasrab se aati hai sada
-  Aaye ab ibe hassan inko basaane ya ali
-  Betiyan aayi hai...
+  Aaye ab ibe Hasan inko basaane ya ali
+  Betiyaṅ aayi hai...
 # source_id: nohayonline:8004dc7a0e8b0b4b0cf0
 # source_url: https://www.nohayonline.com/details_content.php?id=2924
 # raw_sha256: c6d13a9c31896965aa4b0b90786a0b1aee8124d321df9c0c98db1d2f6c4e2ee0

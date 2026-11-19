@@ -1,6 +1,6 @@
 ---
 title: "حسین ابنِ علی کا کلمہ"
-alternateTitle: "Hussain Ibne Ali Ka"
+alternateTitle: "Husain Ibne Ali Ka"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,45 +10,45 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Hussain ibne ali ka kalma
+  Husain ibne ali ka kalma
 
   1
-  Padha diya tu ne la ilaah ko
+  Parha diya tu ne la ilaah ko
   Kata ke shaane alam utha kar
   Basa diya tu ne la ilaah ko
-  Banayi zeenat jo nauhakhwan ki
-  Zameer goondha jo matami ka
+  Banayi zinat jo nauhakhwan ki
+  Zamir gundha jo matami ka
   Nabi mila ke ali mila ke
   Mila diya tu ne la ilaah ko
 
   2
-  Labalab apne lahoo se bhar ke
-  Ye tishnagi se kasheed kar ke
+  Labalab apne lahu se bhar ke
+  Ye tishnagi se kashid kar ke
   Yehi ke abid baqa ka saaghar
   Pila diya tu ne la ilaah ko
 
   3
-  Diye hai baazu de di hai saansein
-  Diya hai chehra de di hai aankhein
-  Khuda ye hoi ye jaa ke pooche
+  Diye hai baazu de di hai saanseiṅ
+  Diya hai chehra de di hai aankheiṅ
+  Khuda ye hoi ye jaa ke puche
   Ke kya diya tu ne la ilaah ko
 
   4
-  Subhana rabb e azeem hai tu
-  Hai rabb e aala kareem hai tu
+  Subhana rabb e azim hai tu
+  Hai rabb e aala karim hai tu
   Nashayb e maqtal se taa ba sidra
   Saja diya tu ne la ilaah ko
 
   5
   Hai sar ka nauha malak ka nauha
-  Zameen ka nauha falak ka nauha
-  Har ek zamane mein khud ujal ke
+  Zamiṅ ka nauha falak ka nauha
+  Har ek zamane meiṅ khud ujal ke
   Basa diya tu ne la ilaah ko
 
   6
-  Khuda ki tasbeeh bhi yehi hai
+  Khuda ki tasbih bhi yehi hai
   Naved ka bhi yehi hai sajda
-  Lahoo ka apne libaas e dillat
+  Lahu ka apne libaas e dillat
   Pinha diya tu ne la ilaah ko
 # source_id: nohayonline:14c3d0f8fe06d957cf8a
 # source_url: https://www.nohayonline.com/details_content.php?id=1683

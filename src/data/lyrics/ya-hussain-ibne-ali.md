@@ -1,6 +1,6 @@
 ---
 title: "یاحسین ابن علی یا علی ابن حسین"
-alternateTitle: "Ya Hussain Ibne Ali"
+alternateTitle: "Ya Husain Ibne Ali"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,7 +10,7 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya hussain ibne ali ya ali ibne hussain
+  Ya Husain ibne ali ya ali ibne Husain
 
   1
   Hai inhi ka to lahoo deen ki buniyadon mein
@@ -32,7 +32,7 @@ romanLyrics: |-
   4
   Nainawa par jo ruka ashqe shahe jinn o bashar
   Sheh ne logon se khareedi wo zameene mehshar
-  Kufa-o-shaam se aate rahe payham lashkar
+  Kufa o shaam se aate rahe payham lashkar
   Subhe ashoor ko phir goonji azane akbar
   Hurrate roz chala roshni bardaron mein
 
@@ -40,7 +40,7 @@ romanLyrics: |-
   Kaunsa dukh hai wo dukh shahe deen ne na saha
   Jung karte hue ghazi ko bahot yaad kiya
   Shahe mazloom pe har tarha ka hathyar chala
-  Khanjar-o-taygh-o-tabar pathar-o-barchi bhaala
+  Khanjar o taygh o tabar pathar o barchi bhaala
   Jism teero pe raha khoon ki bocharon mein
 
   6

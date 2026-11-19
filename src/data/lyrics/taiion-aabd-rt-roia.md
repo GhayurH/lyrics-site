@@ -24,7 +24,7 @@ romanLyrics: |-
 
   3
   3. Sir nangey rulaya ay, kul nabiyan di ghairat nu
-  Kyun kalma go aan kita, sharminda sharafat nu
+  Kiun kalma go aan kita, sharminda sharafat nu
   Nayzey tey rai ay rondi,  Abbas di wafa
 
   4

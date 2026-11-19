@@ -8,36 +8,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haey Sajjad nay gham kaisaay uthahain hon gay
-  Loag bazaron main Zainab ko jo laye hon gay
+  Hae Sajjad ne gham kaisae uthahain hoṅ ge
+  Loag bazaroṅ maiṅ Zainab ko jo laye hoṅ ge
 
   1
   1) Yad Abbas ki Zainab ko satati ho gi
-  Log Khaiyyam ko jab lootnay aaye hon gay
+  Log Khaiyyam ko jab lutne aaye hon gay
 
   2
-  2) Na Alamdar na Qasim aur na Akber hi rahay
-  Kaisay saidaniyon kay perday banaey hon gay
+  2) Na Alamdar na Qasim aur na Akber hi rahe
+  Kaise saidaniyoṅ kay perde banae hon gay
 
   3
-  3) Qabar main lasha-e-Shabbar bhi tarapta ho ga
-  Sehray Qasim nay jo mathay pay sajayey hon gay
+  3) Qabar maiṅ lasha-e-Shabbar bhi tarapta ho ga
+  Sehre Qasim ne jo mathe pay sajaye hon gay
 
   4
-  4) Bheer bhi aam thi aur sar pay ridayen bhi na thi
-  Kaisay namus nay phir chehray chupaiyain hon gay
+  4) Bhir bhi aam thi aur sar pay ridayeṅ bhi na thi
+  Kaise namus ne phir chehre chupaiyain hon gay
 
   5
   Socho Akhtar zara Zainab ka hashr kya hoga
-  Sar shahidon ke jo naizon pe lagaaye honge
+  Sar shahidoṅ ke jo naizoṅ pe lagaaye honge
 
   6
-  Chhor kar Kufa ko haaye shahr-e-Nabi mein Haider
-  Paak Sajjad ke tabut pe aaye honge
+  Chhor kar Kufa ko haaye shahr-e-Nabi meiṅ Haider
+  Paak Sajjad ke tabut pe aaye hoṅge
 
   7
-  Jab Nabi zadiyan darbar mein sar nangay gayi
-  Khoon bimar ki aankhon ne bahaaye honge
+  Jab Nabi zadiyaṅ darbar meiṅ sar nange gayi
+  Khun bimar ki aankhoṅ ne bahaaye hoṅge
 # source_id: ziyaraat:01e355b537b58f133c73
 # source_url: https://www.ziyaraat.net/api/noha/189
 # raw_sha256: 1342ddd2084a3d76efc1feb247a3fc1778764bda9765b09511beed6a7447a8e1

@@ -14,37 +14,37 @@ romanLyrics: |-
 
   1
   Ye alam ahle wafa ki aabru hai jaan hai
-  Ye alam mazloomi e shabbir ki pehchaan hai
+  Ye alam mazlumi e shabbir ki pehchaan hai
   Ye alam abbas hai islam hai quran hai
 
   2
-  Is alam ke saaye ne islam ko di hai amaan
-  Ye alam kehta rahega tashnagi ki daastan
-  Ye alam hai hazrate abbas e ghazi ka nashan
+  Is alam ke saaye ne islam ko di hai amaaṅ
+  Ye alam kehta rahega tashnagi ki daastaṅ
+  Ye alam hai hazrate abbas-e-ghazi ka nashaṅ
 
   3
   Ye alam deta hai dhaaras lashkare islam ko
   Ye alam zinda rakhega karbala ke naam ko
-  Ye alam dega sukoon in gardishe ayyaam ko
+  Ye alam dega sukuṅ in gardishe ayyaam ko
 
   4
-  Ye alam aale nabi ke pyaas ki tasveer hai
-  Ye alam par bekasi ki daastan tehreer hai
-  Ye alam armaan e qalb e zainab e dilgeer hai
+  Ye alam aale nabi ke pyaas ki tasvir hai
+  Ye alam par bekasi ki daastaṅ tehrir hai
+  Ye alam armaan e qalb e zainab e dilgir hai
 
   5
-  Ye alam ek bekas o mazloom ki awaaz hai
-  Ye alam mein deen e haq ki azmaton ka raaz hai
+  Ye alam ek bekas o mazlum ki awaaz hai
+  Ye alam meiṅ din e haq ki azmatoṅ ka raaz hai
   Ye alam ek bawafa jarraar ka ejaaz hai
 
   6
-  Ahle emaaan ahle irfan ki zaroorat hai alam
-  Har jari har mard e maidan ki zaroorat hai alam
-  Ye alam to shaahe zeeshan ki zaroorat hai alam
+  Ahle emaaaṅ ahle irfaṅ ki zarurat hai alam
+  Har jari har mard e maidaṅ ki zarurat hai alam
+  Ye alam to shaahe zishaṅ ki zarurat hai alam
 
   7
-  Ay zaheer e ghamnawa nauha likho abbas ka
-  Ek sakina ke liye aur shaahe deen ki pyaas ka
+  E zahir e ghamnawa nauha likho abbas ka
+  Ek sakina ke liye aur shaahe diṅ ki pyaas ka
   Jayeza tum le sake na ek haram ki aas ka
 # source_id: nohayonline:e3aa6eb6f8a4ab2d4df4
 # source_url: https://www.nohayonline.com/details_content.php?id=1775

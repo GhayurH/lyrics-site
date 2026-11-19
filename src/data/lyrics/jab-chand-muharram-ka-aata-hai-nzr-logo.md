@@ -10,25 +10,25 @@ published: false
 romanLyrics: |-
   Jab Chaand Muharram Ka Aata Hai Nazar Logo
   Zara Socha Karo Kis Tarha Ujra Hoga
-  Khatoon Ka Ghar Logo
+  Khatun Ka Ghar Logo
 
   1
-  Ye Chaand To Chamka Hai Aflaak Ke Seene Mein
-  Zahra Ka Chaand Chhupa Hai Khaak Ke Seene Mein
-  Khoon Mein Nehla Diya
-  Teeron Aur Talwaron Se
+  Ye Chaand To Chamka Hai Aflaak Ke Sine Meiṅ
+  Zahra Ka Chaand Chhupa Hai Khaak Ke Sine Meiṅ
+  Khuṅ Meiṅ Nehla Diya
+  Tiroṅ Aur Talwaroṅ Se
   Haider Ka Pisar Logo
 
   2
-  Akbar Ki Azaan Aise Goonji Hai Zamane Mein
-  Nabiyon Ne Suni Aa Kar Karbal Ke Veerane Mein
+  Akbar Ki Azaaṅ Aise Gunji Hai Zamane Meiṅ
+  Nabiyoṅ Ne Suni Aa Kar Karbal Ke Veerane Meiṅ
   Laila Ke Chaand Ka
-  Cheer Dala Hai Pal Mein
+  Chir Dala Hai Pal Meiṅ
   Barchhi Ne Jigar Logo
 
   3
-  Is Chaand Mein Ujri Hain Beemar Ki Ummeedein
-  Dukhiya Ne Guzari Hain Rote Hue Do Eidein
+  Is Chaand Meiṅ Ujri Haiṅ Bimar Ki Ummideiṅ
+  Dukhiya Ne Guzari Haiṅ Rote Hue Do Eideiṅ
   Phir Bhi Na Mili
   Karbala Se Aane Ki
   Akbar Ki Khabar Logo
@@ -37,13 +37,13 @@ romanLyrics: |-
   Zahra Ke Bhare Ghar Ko Ummat Ne Rulaya Hai
   Shabbir Ki Gardan Pe Khanjar Bhi Chalaya Hai
   Mustafa Ko Diya
-  Kalma Parhne Walon Ne
-  Kya Khoob Ajr Logo
+  Kalma Parhne Waloṅ Ne
+  Kya Khub Ajr Logo
 
   5
-  Zainab Bhi Chalin Ghar Se Ghazi Ke Sahare Pe
+  Zainab Bhi Chaliṅ Ghar Se Ghazi Ke Sahare Pe
   So Jayega Jo Ja Kar Darya Ke Kinare Pe
-  Aur Nabi Zadiyan Sar Barehna Jayengi Karne Ko Safar Logo
+  Aur Nabi Zadiyaṅ Sar Barehna Jayengi Karne Ko Safar Logo
 ---
 
 جب چاند محرم کا آتا ہے نظر لوگو

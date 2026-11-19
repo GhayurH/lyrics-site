@@ -11,38 +11,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Pardes gaye baba des mein sughra tanha hai
+  Pardes gaye baba des meiṅ sughra tanha hai
   Hoo bahoo fatema jaisa hi tha chehra us ka
-  Karbala is liye sughra ko nahi laaye hussain
-  Baap ko dekhegi wo dasht mein kaise pyasa
-  Karbala is liye sughra ko nahi laaye hussain
+  Karbala is liye sughra ko nahi laaye Husain
+  Baap ko dekhegi wo dasht meiṅ kaise pyasa
+  Karbala is liye sughra ko nahi laaye Husain
   Phir nabi zaadi ko ye din na dikhaye koi
-  Raah mein us ko tamache na lagaye koi
-  Zakhmi haathon se chupaye na wo zakhmi chehra
+  Raah meiṅ us ko tamache na lagaye koi
+  Zakhmi haathoṅ se chupaye na wo zakhmi chehra
   Karbala is liye sughra ko...
-  Aayegi qaimon mein jab laash ali akbar ki
-  Hogi us waqt kaleje mein sina tooti hui
+  Aayegi qaimon meiṅ jab laash ali akbar ki
+  Hogi us waqt kaleje meiṅ sina tuti hui
   Dekh na payegi bhai ka wo zakhmi seena
   Karbala is liye sughra ko...
-  Sheh ne dekha tha usay baithe huwe jhoole ke paas
-  Apne haathon se banaate huwe asghar ke libaas
-  Khoon mein dooba hua dekhegi wo kaise kurta
+  Sheh ne dekha tha use baithe huwe jhule ke paas
+  Apne haathoṅ se banaate huwe asghar ke libaas
+  Khun meiṅ duba hua dekhegi wo kaise kurta
   Karbala is liye sughra ko...
-  Tauq sajjad ki gardan se chudane ke liye
-  Peeche peeche na chali aaye bachane ke liye
+  Tauq sajjad ki gardan se churane ke liye
+  Piche piche na chali aaye bachane ke liye
   Taziyana koi maare na samajh kar zahra
   Karbala is liye sughra ko...
   Dekh kar is ko tamashayi kahenge has kar
-  Ye to hai fatema zahra usay maaro patthar
+  Ye to hai fatema zahra use maaro patthar
   Meri beti se liya jayega qum ka badla
   Karbala is liye sughra ko...
-  Sheh ne nana ki lehad chodi thi ye kehte huwe
+  Sheh ne nana ki lehad chori thi ye kehte huwe
   Koi to ho jo mere baad meri jaanib se
-  Aake rauze pe jalaye mere hissay ka diya
+  Aake rauze pe jalaye mere hisse ka diya
   Karbala is liye sughra ko...
-  Sheh ne zeeshan kaha ek sabab hai ye bhi
-  Bhai ko jaise behan shaam mein manwayegi
-  Ye mera naam madine mein rakhegi zinda
+  Sheh ne zishan kaha ek sabab hai ye bhi
+  Bhai ko jaise behan shaam meiṅ manwayegi
+  Ye mera naam madine meiṅ rakhegi zinda
   Karbala is liye sughra ko...
 # source_id: nohayonline:49e40343cff40aed3c53
 # source_url: https://www.nohayonline.com/details_content.php?id=2419

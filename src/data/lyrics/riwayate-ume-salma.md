@@ -14,48 +14,48 @@ romanLyrics: |-
   Wo madina wo asr e ashoora
   Qabr e ahmed se lipti thi sughra
   Dil pareshan udaas tha chehra
-  Band aankhein thi ghash ka aalam tha
-  Khwaab mein jaane aisa kya dekha
+  Band aankheiṅ thi ghash ka aalam tha
+  Khwaab meiṅ jaane aisa kya dekha
   Uthi ghabra ke pahunchi ghar sughra
   Umme salma se boli ro ro kar
-  Maine dekha sina pe baba ka sar
-  Dil mera baitha jaa raha hai yahan
-  Ye andhera kyun chaa raha hai yahan
+  Maiṅ ne dekha sina pe baba ka sar
+  Dil mera baitha jaa raha hai yahaṅ
+  Ye andhera kiuṅ chaa raha hai yahaṅ
   Wavaila wavaila wavaila wavaila
-  Surkh ye aandhiyan kyun chalti hai
-  Kyun falak se lahoo barasta hai
-  Nani jaan aap ki ye khamoshi
-  Meri bechaini aur badhati hai
-  Is baraste huwe lahoo se mujhe
-  Mere asghar ki khushboo aati hai
-  Dekho ye surkh aandhi kyun mujhko
+  Surkh ye aandhiyaṅ kiuṅ chalti hai
+  Kiuṅ falak se lahu barasta hai
+  Nani jaaṅ aap ki ye khamoshi
+  Meri bechaini aur barhati hai
+  Is baraste huwe lahu se mujhe
+  Mere asghar ki khushbu aati hai
+  Dekho ye surkh aandhi kiuṅ mujhko
   Uska zakhmi gala dikhaati hai
   Umme salma ne kaha thaam ke dil sun sughra
-  Jisko tu lori sunaati thi jhula kat jhoola
-  Itni shiddat se usay teer layeen ne maara
+  Jisko tu lori sunaati thi jhula kat jhula
+  Itni shiddat se use tir layin ne maara
   Ruk gayi saans khula reh gaya moo pyase ka
-  Maarne waalon ko jab sar na milega uska
+  Maarne waaloṅ ko jab sar na milega uska
   Maar kar naiza nikalenge wo laasha uska
   Wa asghara wa asghara wa asghara wa asghara
-  Surkh ye aandhiyan kyun chalti hai
-  Kyun falak se lahoo barasta hai
-  Boli sughra na jaane kyun nani
-  Mere seene mein dard uth'ta hai
-  Maine dekha ke naujawan koi
-  Khaak par aediyan ragadta hai
-  Mere akbar ki khair ho wo jawan
+  Surkh ye aandhiyaṅ kiuṅ chalti hai
+  Kiuṅ falak se lahu barasta hai
+  Boli sughra na jaane kiuṅ nani
+  Mere sine meiṅ dard uthta hai
+  Maiṅ ne dekha ke naujawaṅ koi
+  Khaak par aeriyaṅ ragadta hai
+  Mere akbar ki khair ho wo jawaaṅ
   Mere bhai ke jaisa dikhta hai
   Umme salma ne kaha
   Hai nahi tha wo tera bhai jo ab maara gaya
-  Wo tujhe lene nahi aayega ab ay sughra
-  Uske seene mein layeen tod chuka hai naiza
-  Is liye dard tujhe seene mein mehsoos hua
+  Wo tujhe lene nahi aayega ab ae sughra
+  Uske sine meiṅ layiṅ tor chuka hai naiza
+  Is liye dard tujhe sine meiṅ mehsus hua
   Jab tere baba ne khayncha hai wo naiza baahar
-  Aa gaya saath mein akbar ka kaleja baahar
+  Aa gaya saath meiṅ akbar ka kaleja baahar
   Wa akbara wa akbara wa akbara wa akbara
-  Surkh ye aandhiyan kyun chalti hai
-  Kyun falak se lahoo barasta hai
-  Inna lillah padh ke wo boli
+  Surkh ye aandhiyaṅ kiuṅ chalti hai
+  Kiuṅ falak se lahu barasta hai
+  Inna lillah parh ke wo boli
   Mere ammu to khair se hai na
   Unke hote huwe mere akbar
   Aur asghar ko kis ne maar diya
@@ -64,34 +64,34 @@ romanLyrics: |-
   Umme salma ne kaha
   Sughra ab uske liye aur dua mat maango
   Kat gaye haath wo darya ke kanare dekho
-  Teer barsaye gaye ghayr ke maara usko
-  Kaise bin haath wo ghode se gira ma poocho
+  Tir barsaye gaye ghayr ke maara usko
+  Kaise bin haath wo ghore se gira ma pucho
   Gurz jab maara kisi ne wo sambhal na paaya
-  Moo ke bal zeen se abbas zameen pe aaya
+  Moo ke bal zin se abbas zamiṅ pe aaya
   Wa abbasa wa abbasa wa abbasa
-  Surkh ye aandhiyan kyun chalti hai
-  Kyun falak se lahoo barasta hai
-  Haath aankhon pe rakha sughra ne
-  Aur ghabrake boli ay nani
-  Dekhti hoo hamare qaimon mein
+  Surkh ye aandhiyaṅ kiuṅ chalti hai
+  Kiuṅ falak se lahu barasta hai
+  Haath aankhoṅ pe rakha sughra ne
+  Aur ghabrake boli ae nani
+  Dekhti hoo hamare qaimon meiṅ
   Le ke aaye hai baba ek gathri
-  Us mein kya hai bataye aap mujhe
-  Kyun wo gathri hai khoon mein doobi
+  Us meiṅ kya hai bataye aap mujhe
+  Kiuṅ wo gathri hai khun meiṅ dubi
   Umme salma ne kaha
-  Sughra us gathri mein qasim ka tere laasha hai
-  Uska ghodon se layeeno ne badan ronda hai
-  Khoon ki mehendi lagi tukdon mein wo bikhra hai
-  Chun ke baba tera qaimon mein abhi laaya hai
-  Farwa us gathri ke ab charon taraf ghoomti hai
-  Mere bete ka sirhana hai kahan dhoondti hai
+  Sughra us gathri meiṅ qasim ka tere laasha hai
+  Uska ghoroṅ se layino ne badan ronda hai
+  Khun ki mehendi lagi tukroṅ meiṅ wo bikhra hai
+  Chun ke baba tera qaimon meiṅ abhi laaya hai
+  Farwa us gathri ke ab charoṅ taraf ghumti hai
+  Mere bete ka sirhana hai kahaṅ dhundti hai
   Wa qasima wa qasima wa qasima
-  Surkh ye aandhiyan kyun chalti hai
-  Kyun falak se lahoo barasta hai
-  Aah bhar kar ye poocha sughra ne
-  Mere do bhai aur gaye thay wahan
+  Surkh ye aandhiyaṅ kiuṅ chalti hai
+  Kiuṅ falak se lahu barasta hai
+  Aah bhar kar ye pucha sughra ne
+  Mere do bhai aur gaye the wahaṅ
   Aur ghabra raha hai dil mera
-  Jab se dekha hai maine nani jaan
-  Do janazon pe ro rahe hai sab
+  Jab se dekha hai maiṅ ne nani jaaṅ
+  Do janazoṅ pe ro rahe hai sab
   Aur khamosh hai phupi amma
   Umme salma ne kaha
   Hai tere aun o mohamed ke wo laashe sughra
@@ -99,42 +99,42 @@ romanLyrics: |-
   Bhai par kar diya zainab ne ye keh kar sadqa
   Ye rahe na rahe zinda rahe bhai mera
   Mar gaye aun o mohamed ye kaha jab sab ne
-  Rona to door hai dekha bhi nahi zainab ne
+  Rona to dur hai dekha bhi nahi zainab ne
   Haye aun o mohamed haye aun o mohamed
   Haye aun o mohamed haye aun o mohamed
-  Surkh ye aandhiyan kyun chalti hai
-  Kyun falak se lahoo barasta hai
-  Peet kar sar ye boli phir sughra
+  Surkh ye aandhiyaṅ kiuṅ chalti hai
+  Kiuṅ falak se lahu barasta hai
+  Pit kar sar ye boli phir sughra
   Ab to bas baba reh gaye mere
-  Kya chupaati hai aap chadar mein
-  Khushboo baba ki aa rahi hai mujhe
+  Kya chupaati hai aap chadar meiṅ
+  Khushbu baba ki aa rahi hai mujhe
   Asr ka waqt jaa chuka phir bhi
-  Surkh hai kyun ye aasmaan khoon se
+  Surkh hai kiuṅ ye aasmaaṅ khuṅ se
   Umme salma ne kaha
   Sughra mar jaaogi ye keh ke hatayi chadar
-  Umme salma ne jab ek sheeshi nikaali baahar
-  Dekha jab sughra ne us sheeshi mein khaak aur lahoo
-  Bol uthi aati hai baba ke lahoo ki khushboo
+  Umme salma ne jab ek shishi nikaali baahar
+  Dekha jab sughra ne us shishi meiṅ khaak aur lahu
+  Bol uthi aati hai baba ke lahu ki khushbu
   Umme salma ne kaha maara gaya baba tera
-  Tera zarbon se sitamgar ne gala kaat diya
-  Haye hussain haye hussain haye hussain haye hussain
-  Teer barsaye kisi ne usay naiza maara
-  Shimr ne khaynch ke baalon se tamacha maara
-  Is liye aandhiyan chalti hai suno ay meri jaan
-  Dasht mein khaak udaate hai rasool allah wahan
+  Tera zarboṅ se sitamgar ne gala kaat diya
+  Haye Husain haye Husain haye Husain haye Husain
+  Tir barsaye kisi ne use naiza maara
+  Shimr ne khaynch ke baaloṅ se tamacha maara
+  Is liye aandhiyaṅ chalti hai suno ae meri jaaṅ
+  Dasht meiṅ khaak uraate hai rasul allah wahaṅ
   Sar shikasta hai ali bhi hai wahin par sughra
-  Aate hai zakhmi jigar leke hassan sabz qaba
-  Shimr sar kaat'ta tha baith ke jab seene par
+  Aate hai zakhmi jigar leke Hasan sabz qaba
+  Shimr sar kaat'ta tha baith ke jab sine par
   Saath zainab ke sakina ne wo dekha manzar
-  Shabe ashoor se baithi thi tumhari dadi
-  Saaf baalon se wo karti thi zameen maqtal ki
+  Shabe ashur se baithi thi tumhari dadi
+  Saaf baaloṅ se wo karti thi zamiṅ maqtal ki
   Shimr ne waar kiye haath rakha zahra ne
   Dekha zainab ne gira khaak pe jab sar kat ke
-  Shimr ke haathon mein ab sar hai tere baba ka
-  Is liye khoon barasta hai falak se sughra
-  Bola farhan se zeeshan tadapta hai dil
+  Shimr ke haathoṅ meiṅ ab sar hai tere baba ka
+  Is liye khuṅ barasta hai falak se sughra
+  Bola farhan se zishan tarapta hai dil
   Waqt tha fatema sughra pe wo kitna mushkil
-  Khoon jab nani ne baba ka dikhaya hoga
+  Khun jab nani ne baba ka dikhaya hoga
   Apna ghar sughra ko maqtal nazar aaya hoga
 # source_id: nohayonline:edd5307272d98c0fb6b6
 # source_url: https://www.nohayonline.com/details_content.php?id=2839

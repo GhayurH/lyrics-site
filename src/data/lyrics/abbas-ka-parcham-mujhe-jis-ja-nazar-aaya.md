@@ -13,44 +13,44 @@ romanLyrics: |-
   Abbas ka parcham mujhe jis ja nazar aaya
 
   1
-  Mashkeeza wahin dukhtare sheh ka nazar aaya
-  Haathon se jigar saaqiye kausar ne sambhala
+  Mashkeeza wahiṅ dukhtare sheh ka nazar aaya
+  Haathoṅ se jigar saaqiye kausar ne sambhala
   Jab tashna dahan unka khabeela nazar aaya
 
   2
-  Dunya mein usay milgayi jannat ki basharat
-  Gham mein jo shahe deen ke rota nazar aaya
+  Dunya meiṅ use milgayi jannat ki basharat
+  Gham meiṅ jo shahe din ke rota nazar aaya
 
   3
   Sairaab kiya saaqiye kausar ke pisar ne
-  Jab lashkare hurr dasht mein pyasa nazar aaya
+  Jab lashkare hurr dasht meiṅ pyasa nazar aaya
 
   4
-  Hota hai jahan matame farzande payambar
-  Ghazi ka alam bhi wahin uncha nazar aaya
+  Hota hai jahaṅ matame farzande payambar
+  Ghazi ka alam bhi wahiṅ uncha nazar aaya
 
   5
   Kya guzri na jaane dil e maadar pe elaahi
-  Jab khoon mein tar bete ka laasha nazar aaya
+  Jab khun meiṅ tar bete ka laasha nazar aaya
 
   6
-  Nazron mein wohi phir gayi tasveere sakina
+  Nazroṅ meiṅ wohi phir gayi tasvire sakina
   Ghazi ko jo behta hua darya nazar aaya
 
   7
-  Islam ki tareekh mein chauda sau sadi se
-  Khanjar ke talay ek hi sajda nazar aaya
+  Islam ki tarikh meiṅ chauda sau sadi se
+  Khanjar ke tale ek hi sajda nazar aaya
 
   8
-  Gardan pe laga teer magar daste pidar par
+  Gardan pe laga tir magar daste pidar par
   Hasta hua shabbir ka pyara nazar aaya
 
   9
-  Kehte hai khaleel aaj mili khaab ki tabeer
-  Sehra mein jo shabbir ka laasha nazar aaya
+  Kehte hai khalil aaj mili khaab ki tabir
+  Sehra meiṅ jo shabbir ka laasha nazar aaya
 
   10
-  Aankhon se meri ashk chalakne lage mazhar
+  Aankhoṅ se meri ashk chalakne lage mazhar
   Jab jab bhi mujhe pani ka kooza nazar aaya
 # source_id: nohayonline:676cddd2fb7defbc3852
 # source_url: https://www.nohayonline.com/details_content.php?id=930

@@ -1,6 +1,6 @@
 ---
 title: "شہید سے کوئی شمشیر کا مزہ پوچھے"
-alternateTitle: "Shaheed Se Koi"
+alternateTitle: "Shahid Se Koi"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -48,7 +48,7 @@ romanLyrics: |-
   7
   Sitam ke baad hua qaid se jo chutkaara
   Layeen se baap ka sar is yateem ne maanga
-  Sar e hussain khazane se hind ne bheja
+  Sar e Husain khazane se hind ne bheja
   Sawaar oonton pe kunba hua payambar ka
 
   8
@@ -94,10 +94,10 @@ romanLyrics: |-
   Jo khaya zeher tho sad haif mar gaye sajjad
 
   15
-  Nabi ki aal ko be-aas kar gaye sajjad
+  Nabi ki aal ko beaas kar gaye sajjad
   Yateem hogaye baqar guzar gaye sajjad
   Sar apna peet'te markhad se mustafa nikle
-  Kaleja thaam ke kyunkar na fatema nikle
+  Kaleja thaam ke kiunkar na fatema nikle
 
   16
   Chiraghe deene nabi aaj bujh gaya ya rab
@@ -113,7 +113,7 @@ romanLyrics: |-
 
   18
   Wo bekason ka sahara guzar gaya logon
-  Hassan hussain ka pyara guzar gaya logon
+  Hasan Husain ka pyara guzar gaya logon
   Madina lut gaya ya mustafa duhaai hai
   Najaf ujad gaya ya murtaza duhaai hai
 # source_id: nohayonline:89436399cabb0ab5427d

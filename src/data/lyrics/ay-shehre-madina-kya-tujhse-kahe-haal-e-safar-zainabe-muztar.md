@@ -34,7 +34,7 @@ romanLyrics: |-
   5
   Bache hi nahi saath mai kis tarha se jaaun
   Ye soch rahi hoo
-  Ghar dekhungi jab khaali to sabr aayega kyunkar
+  Ghar dekhungi jab khaali to sabr aayega kiunkar
 
   6
   Dil tham ke rote thay saeed ahle madina

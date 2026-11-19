@@ -14,9 +14,9 @@ romanLyrics: |-
 
   1
   Shakle zehra tujhe bulaati hai
-  Khaali hujron mein yaadon ke
+  Khaali hujroṅ meiṅ yaadoṅ ke
   Roz sughra diye jalaati hai
-  Bhaiya ujde gharon ki tanhaai
+  Bhaiya ujre gharoṅ ki tanhaai
   Kaise dekhegi teri maajayi
   Bain kar ke ye khud bhi roti hai
   Nani salma ko bhi rulaati hai
@@ -24,7 +24,7 @@ romanLyrics: |-
   2
   Khatm muddat ho ab judaai ki
   Nana surat dikha de bhai ki
-  Gham ki roodad jo ke dukiyari
+  Gham ki rudad jo ke dukiyari
   Roz nana ko ro sunaati hai
 
   3
@@ -35,21 +35,21 @@ romanLyrics: |-
 
   4
   Din ko takti hai raah wo teri
-  Raat kat'ti hai yaad mein teri
-  Jab se bichda behen se tu akbar
-  Chain ek pal kahan wo paati hai
+  Raat kat'ti hai yaad meiṅ teri
+  Jab se bichra behen se tu akbar
+  Chain ek pal kahaṅ wo paati hai
 
   5
   Jab kabhi dekhti hai gehwara
   Yaad aata hai hasliyon waala
-  Deti hai loriyon khayalon mein
-  Jhoola asghar ka wo jhulaati hai
+  Deti hai loriyoṅ khayaloṅ meiṅ
+  Jhula asghar ka wo jhulaati hai
 
   6
   Boli jawwad shaah ki dukhtar
   Yaad karti hai tujhko ro ro kar
   Kya kabhi tujhko bhi ali akbar
-  Bhool kar meri yaad aati hai
+  Bhul kar meri yaad aati hai
 # source_id: nohayonline:e92b80f39a4c4ae51b08
 # source_url: https://www.nohayonline.com/details_content.php?id=3167
 # raw_sha256: 8500d6d7e9132ffb46ff8c8e9f4187a5229afaf8868d42a54f2db0e44037dbc3

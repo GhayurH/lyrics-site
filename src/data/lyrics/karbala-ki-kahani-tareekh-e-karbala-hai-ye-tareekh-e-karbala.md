@@ -11,70 +11,70 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Tareekh e karbala hai ye tareekh e karbala
-  Haye ghareeb hussain haye ghareeb hussain
-  Aao sunaun tum ko mai tareekh e karbala
-  Yani ghareeb e fatema zehra ka marsiya
-  Zehra ka laal shaam ki faujon mein tha ghira
-  Qurban ho chuke thay sab ansar o aqraba
-  Ghurbat ki bekasi thi shah e mashreqain thay
-  Nau laakh fauj e shaam mein tanha hussain thay
+  Tarikh e karbala hai ye tarikh e karbala
+  Haye gharib Husain haye gharib Husain
+  Aao sunauṅ tum ko mai tarikh e karbala
+  Yani gharib e fatema zehra ka marsiya
+  Zehra ka laal shaam ki faujoṅ mein tha ghira
+  Qurban ho chuke the sab ansar o aqraba
+  Ghurbat ki bekasi thi shah e mashreqain the
+  Nau laakh fauj e shaam meiṅ tanha Husain the
 
   2
-  Tanhaai dhoondti hai wo lashkar kidhar gaya
-  Tooti hui kamar hai jawan bhai mar gaya
-  Noor e nazar ke saath hi noor e nazar gaya
-  Armaan tha jiski shadi ka wo bhi guzar gaya
+  Tanhaai dhundti hai wo lashkar kidhar gaya
+  Tuti hui kamar hai jawaaṅ bhai mar gaya
+  Nur e nazar ke saath hi nur e nazar gaya
+  Armaaṅ tha jiski shadi ka wo bhi guzar gaya
   Rota hai dil shabih e payambar nahi raha
   Sughra ki yaad aati hai akbar nahi raha
 
   3
-  Mai kis tarha bayan karun us waqt kya tha haal
-  Kha kar sitam ka teer jo asghar hua nidhaal
-  Jab hichkiyan wo leta tha masoom naunehaal
-  Bano na dekh le kahin sheh ko tha ye khayal
-  Jitna lahoo ugal diya maah e muneer ne
-  Utna to doodh bhi na piya tha sagheer ne
+  Mai kis tarha bayan karuṅ us waqt kya tha haal
+  Kha kar sitam ka tir jo asghar hua nidhaal
+  Jab hichkiyaṅ wo leta tha masum naunehaal
+  Bano na dekh le kahiṅ sheh ko tha ye khayal
+  Jitna lahu ugal diya maah e munir ne
+  Utna to dudh bhi na piya tha saghir ne
 
   4
-  Bache ki apne qabr banane lage hussain
-  Khud bebasi ki laash uthaane lage hussain
-  Pyase labon pe ashk girane lage hussain
-  Matti mein apna chand chupane lage hussain
-  Thi itni garm rayt ke ghabra gaye hussain
-  Chehre pe khaak daal ke tharra gaye hussain
+  Bache ki apne qabr banane lage Husain
+  Khud bebasi ki laash uthaane lage Husain
+  Pyase laboṅ pe ashk girane lage Husain
+  Matti meiṅ apna chand chupane lage Husain
+  Thi itni garm rayt ke ghabra gaye Husain
+  Chehre pe khaak daal ke tharra gaye Husain
 
   5
   Rote huwe imam jo qaime ke dar pe aaye
-  Thay hamsafar hussain ke tanhaiyo ke saaye
-  Awaaz kis ko de kisay mazloom ab bulaye
+  The hamsafar Husain ke tanhaiyo ke saaye
+  Awaaz kis ko de kise mazlum ab bulaye
   Koi nahi bacha mere maula ka haye haye
   Aayi sada ye fikr ke shaah e umam na kar
   Zainab tujhe sawaar karayegi gham na kar
 
   6
-  Aaye hussain ran mein safon ki safayi ki
-  Aada se bhook pyaas mein aisi ladayi ki
-  Faujon se aa rahi thi sadayein duhayi ki
-  Aise mein sheh ko laash nazar aayi bhai ki
-  Goonji sada ye fatema zehra ke chain ki
-  Abbas uth ke dekho ladayi hussain ki
+  Aaye Husain ran meiṅ safoṅ ki safayi ki
+  Aada se bhuk pyaas meiṅ aisi larayi ki
+  Faujoṅ se aa rahi thi sadayeiṅ duhayi ki
+  Aise meiṅ sheh ko laash nazar aayi bhai ki
+  Gunji sada ye fatema zehra ke chain ki
+  Abbas uth ke dekho larayi Husain ki
 
   7
-  Baatein tasavuraat mein karte thay shaah e deen
-  Itne mein gherne lagay maula ko sab layeen
-  Ghode pe dagmaga gaya zehra ka mehjabeen
-  Bibi pukaarti thi batao to ahle keen
-  Pyase ko kyun lahoo ke ghareeb-ud-dayaar ke
+  Baateiṅ tasavuraat meiṅ karte the shaah e diṅ
+  Itne meiṅ gherne lage maula ko sab layiṅ
+  Ghore pe dagmaga gaya zehra ka mehjabeen
+  Bibi pukaarti thi batao to ahle kiṅ
+  Pyase ko kiuṅ lahu ke gharib-ud-dayaar ke
   Tum ko milega kya mere bacha ko maar ke
 
   8
-  Sajjad kya bayan ho wo karb ki ghadi
-  Chalne lagi jo halq pe mazloom ke churi
+  Sajjad kya bayan ho wo karb ki ghari
+  Chalne lagi jo halq pe mazlum ke churi
   Sattar qadam se ek behan dekhti rahi
-  Tauheen shimr karta tha zainab ke bhai ki
-  Kehti thi ghazi aa ke bachana hussain ko
-  Jab shimr maarta tha tamacha hussain ko
+  Tauhin shimr karta tha zainab ke bhai ki
+  Kehti thi ghazi aa ke bachana Husain ko
+  Jab shimr maarta tha tamacha Husain ko
 # source_id: nohayonline:e13b6bd4c1e47c4c25e9
 # source_url: https://www.nohayonline.com/details_content.php?id=1533
 # raw_sha256: 7707f873ed758bbb0a384f38e8dead51047188fc036330810f48382b685f0d3f

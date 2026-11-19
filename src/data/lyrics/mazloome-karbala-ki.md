@@ -11,45 +11,45 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ghairat e mustafa berida aa gayi
+  Ghairat-e-mustafa berida aa gayi
   Binte sher e khuda berida aa gayi
-  Mazloom e karbala ki azadaar aa gayi
+  Mazlum e karbala ki azadaar aa gayi
   Zainab barehna sar jo bazaar aa gayi
-  Talwaar ke baghair ladungi mai aisi jang
+  Talwaar ke baghair larungi mai aisi jang
   Khutbe padhungi aise ke dushman bhi honge dang
-  Dekho hussain tum bhi hamare jihad ko
+  Dekho Husain tum bhi hamare jihad ko
   Zainab hai aaj ban ke alamdar aa gayi
-  Mazloom e karbala ki...
-  Zainab ne zindagi mein na dekhi koi khushi
-  Roti hui wo shaam ki raahon mein mar gayi
-  Tanha lehad mein bhai ko rone ke waaste
+  Mazlum e karbala ki...
+  Zainab ne zindagi meiṅ na dekhi koi khushi
+  Roti hui wo shaam ki raahoṅ meiṅ mar gayi
+  Tanha lehad meiṅ bhai ko rone ke waaste
   Sarkar e panjetan ki wo ghamkhwar aa gayi
-  Mazloom e karbala ki...
+  Mazlum e karbala ki...
   Jis dam utha ye shor ke pyase ko maar lo
   Jaldi karo nabi ke nawase ko maar lo
-  Sun kar ye shor dhoondti tanha hussain ko
-  Maqtal mein binte hydere karraar aa gayi
-  Mazloom e karbala ki...
-  Chehlum ko karbala mein jo pahuncha tha khaafla
+  Sun kar ye shor dhundti tanha Husain ko
+  Maqtal meiṅ binte hydere karraar aa gayi
+  Mazlum e karbala ki...
+  Chehlum ko karbala meiṅ jo pahuncha tha khaafla
   Zainab ne keh ke naaqe se khud ko giraya tha
-  Badle chuka ke baba ke saare mere hussain
+  Badle chuka ke baba ke saare mere Husain
   Chehlum manane aap ki zawwaar aa gayi
-  Mazloom e karbala ki...
-  Mehshar ke roz aayegi jab nayib e batool
-  Tanveer ye kahenge khuda se mere rasool
-  Zinda rakhe hai jis ne iraade hussain ke
-  Ya rab wo mere deen ki madadgaar aa gayi
-  Mazloom e karbala ki...
-  Aaya sawaal jab kabhi deen ke usool ka
-  Aaya hai kaam khoon ali o batool ka
-  Sunnat adaa batool ki karne ke waaste
+  Mazlum e karbala ki...
+  Mehshar ke roz aayegi jab nayib e batul
+  Tanvir ye kahenge khuda se mere rasul
+  Zinda rakhe hai jis ne iraade Husain ke
+  Ya rab wo mere diṅ ki madadgaar aa gayi
+  Mazlum e karbala ki...
+  Aaya sawaal jab kabhi diṅ ke usul ka
+  Aaya hai kaam khun ali o batul ka
+  Sunnat adaa batul ki karne ke waaste
   Shabbir ki behan jo darbar aa gayi
-  Mazloome karbala ki...
+  Mazlume karbala ki...
   Jis ke haya se shams ne khud ko chupa liya
   Ummat shaqi ne qaidi usi ko bana liya
-  Karbobala ke dasht se bazaar e shaam mein
+  Karbobala ke dasht se bazaar e shaam meiṅ
   Chadar luta ke khaafila salaar aa gayi
-  Mazloome karbala ki...
+  Mazlume karbala ki...
 # source_id: nohayonline:fb6b7f1fad7c4f16c7c3
 # source_url: https://www.nohayonline.com/details_content.php?id=2571
 # raw_sha256: faa8c11f6ec448ebff59d12c6b21790d838bb90d85f71b7bb0bf936c9e8f3a38

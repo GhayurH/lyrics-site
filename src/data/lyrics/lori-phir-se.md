@@ -11,49 +11,49 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aayi jab ran mein asre ashoora
-  Ek qayamat ka tha samaan barpa
-  Jab na sambhale hussain ghode par
-  Gir ke tehre zameen pe teeron par
-  Haye har zulm seh rahe thay hussain
-  Aur maqtal mein keh rahe thay hussain
-  Apni aghosh mein sulalo maa
+  Aayi jab ran meiṅ asre ashoora
+  Ek qayamat ka tha samaaṅ barpa
+  Jab na sambhale Husain ghore par
+  Gir ke tehre zamiṅ pe tiroṅ par
+  Haye har zulm seh rahe the Husain
+  Aur maqtal meiṅ keh rahe the Husain
+  Apni aghosh meiṅ sulalo maa
   Lori phir se wohi sunado maa
-  Ay mere laal hussain
+  Ae mere laal Husain
   Bachpane se hai mera ek sapna
-  Waada poora mai kar sakun apna
+  Waada pura mai kar sakuṅ apna
   Aisi mujhko to ab dua do maa
   Lori phir se wohi...
-  Teer o talwaar ki chubhan se nidhaal
-  Hua sadmon ki mai thakan se nidhaal
-  Mujhko godhi mein ab sulalo maa
+  Tir o talwaar ki chubhan se nidhaal
+  Hua sadmoṅ ki mai thakan se nidhaal
+  Mujhko godhi meiṅ ab sulalo maa
   Lori phir se wohi...
-  Kitna sookha hai mera dekho dahan
+  Kitna sukha hai mera dekho dahan
   Hogaya paash paash mera badan
-  Teer tan se mere nikalo maa
+  Tir tan se mere nikalo maa
   Lori phir se wohi...
   Dekha maadar ko to ye sheh ne kaha
-  Chalni teeron ne kar diya kurta
+  Chalni tiroṅ ne kar diya kurta
   Apni chadar mujhe udhado maa
   Lori phir se wohi...
   Dushmani saari inki mujhse hai
-  Ye faqat mere khoon ke pyase hai
+  Ye faqat mere khun ke pyase hai
   Apni gardan ko tum hatalo maa
   Lori phir se wohi...
-  Ashk aankhein meri bahati hai
-  Yaadein bachpan ki phir satati hai
-  Apne pehlu mein tum litalo maa
+  Ashk aankheiṅ meri bahati hai
+  Yaadeiṅ bachpan ki phir satati hai
+  Apne pehlu meiṅ tum litalo maa
   Lori phir se wohi...
-  Dekho amma ye phasliyan tooti
-  Kaise dekhogi haddiyan tooti
-  Gir raha hoon mujhe sambhalo maa
+  Dekho amma ye phasliyaṅ tuti
+  Kaise dekhogi haddiyaṅ tuti
+  Gir raha huṅ mujhe sambhalo maa
   Lori phir se wohi...
-  Tere pehlu mein jab bhi sota tha
-  Raaton ko uth ke mai ye kehta tha
+  Tere pehlu meiṅ jab bhi sota tha
+  Raatoṅ ko uth ke mai ye kehta tha
   Mujhko pani zara pilado maa
   Lori phir se wohi...
   Hai dua shams aur aamir ki
-  Amma kar do ye aarzoo poori
+  Amma kar do ye aarzu puri
   Apne rauze pe tum bulalo maa
   Lori phir se wohi...
 # source_id: nohayonline:fad171b1a65eb32b96d8

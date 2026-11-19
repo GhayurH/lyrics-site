@@ -11,39 +11,39 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Sina ki nok pe rote hai sar shaaheedon ke
-  Koi nahi hai aseeron ka haye ghurbat mein
-  Bas ek mard bacha hai jo khoon rota hai
-  Hai bibiyan sar e uryan hujoome ummat mein
-  Zahra ki betiyon ka koi aasra nahi hai
-  Baazu hai rassiyon mein sar pe rida nahi hai
+  Sina ki nok pe rote hai sar shaahidoṅ ke
+  Koi nahi hai asiroṅ ka haye ghurbat meiṅ
+  Bas ek mard bacha hai jo khun rota hai
+  Hai bibiyaṅ sar e uryaṅ hujume ummat meiṅ
+  Zahra ki betiyoṅ ka koi aasra nahi hai
+  Baazu hai rassiyoṅ meiṅ sar pe rida nahi hai
   Ghazi kata ke baazu darya pe so raha hai
   Kis ko pukare zainab koi bacha nahi hai
-  Zahra ki betiyon ka...
-  Abid se bekason ke aansu ye keh rahe hai
-  In qaidiyon ka koi tere siwa nahi hai
-  Zahra ki betiyon ka...
-  Cheeni hai zaalimon ne naize se meri chadar
-  Mai lut gayi hoon bhai mera ba-wafa nahi hai
-  Zahra ki betiyon ka...
+  Zahra ki betiyoṅ ka...
+  Abid se bekasoṅ ke aansu ye keh rahe hai
+  In qaidiyoṅ ka koi tere siwa nahi hai
+  Zahra ki betiyoṅ ka...
+  Chini hai zaalimoṅ ne naize se meri chadar
+  Mai lut gayi huṅ bhai mera ba-wafa nahi hai
+  Zahra ki betiyoṅ ka...
   Kaano pe haath rakh ke kehti thi ye sakina
-  In ke dilon mein baba khauf e khuda nahi hai
-  Zahra ki betiyon ka...
-  Shabbir be-kafan ki beti bhi be-kafan hai
+  In ke diloṅ meiṅ baba khauf e khuda nahi hai
+  Zahra ki betiyoṅ ka...
+  Shabbir bekafan ki beti bhi bekafan hai
   Ummat se ek kafan bhi isko mila nahi hai
-  Zahra ki betiyon ka...
-  Haathon pe laaye sarwar ek chand aur bole
-  Asghar ne teen din se pani piya nahi hai
-  Zahra ki betiyon ka...
+  Zahra ki betiyoṅ ka...
+  Haathoṅ pe laaye sarwar ek chand aur bole
+  Asghar ne tin din se pani piya nahi hai
+  Zahra ki betiyoṅ ka...
   Sughra ne khat likha hai ab laut aao baba
-  Jeene ka aur mujh mein ab hausla nahi hai
-  Zahra ki betiyon ka...
-  Baba kahan ho aao matti pe so rahi hoon
-  Zindan mein hai andhera baba hawa nahi hai
-  Zahra ki betiyon ka...
-  Sajde mein sar kata hai zahra ke laadle ka
+  Jine ka aur mujh meiṅ ab hausla nahi hai
+  Zahra ki betiyoṅ ka...
+  Baba kahaṅ ho aao matti pe so rahi huṅ
+  Zindaṅ meiṅ hai andhera baba hawa nahi hai
+  Zahra ki betiyoṅ ka...
+  Sajde meiṅ sar kata hai zahra ke laadle ka
   Zulm o sitam ke aage lekin jhuka nahi hai
-  Zahra ki betiyon ka...
+  Zahra ki betiyoṅ ka...
 # source_id: nohayonline:d09cccaa65526281a873
 # source_url: https://www.nohayonline.com/details_content.php?id=3761
 # raw_sha256: bf469612e4105acc30404fb5550eddb033855e43f451c63c581afd80da21c530

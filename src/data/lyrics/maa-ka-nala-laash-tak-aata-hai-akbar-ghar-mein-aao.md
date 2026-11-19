@@ -10,7 +10,7 @@ published: false
 romanLyrics: |-
   1
   Maa ka naala laash tak aata hai akbar ghar may aao
-  Dekh koi yun bhi rulwata hai akbar ghar may aao
+  Dekh koi yuṅ bhi rulwata hai akbar ghar may aao
   Haaye akbar ghar may aao
 
   2
@@ -19,7 +19,7 @@ romanLyrics: |-
   Haaye akbar ghar may aao
 
   3
-  Tukde tukde hogaya nazuk kaleja waqte jab
+  Tukre tukre hogaya nazuk kaleja waqte jab
   Is tarha barchi koi khata hai akbar ghar may aao
   Haaye akbar ghar may aao
 
@@ -29,8 +29,8 @@ romanLyrics: |-
   Haaye akbar ghar may aao
 
   5
-  Tum yahan maqtal may ho aur maa hai deowri par tapa
-  Meri jaan ulfat may farq aata hai a akbar ghar may aao
+  Tum yahaṅ maqtal may ho aur maa hai deowri par tapa
+  Meri jaan ulfat me farq aata hai a akbar ghar may aao
   Haaye akbar ghar may aao
 
   6

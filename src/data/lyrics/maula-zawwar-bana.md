@@ -11,11 +11,11 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ya hussain shaah e karbala
-  Aap hai kareem ba khuda
-  Poori kijiye meri dua
-  Is baras ke arbaeen mein
-  Karoro zaireen mein
+  Ya Husain shaah e karbala
+  Aap hai karim ba khuda
+  Puri kijiye meri dua
+  Is baras ke arbain meiṅ
+  Karoro zairin meiṅ
   Naam ho mera likha hua
   Ya maula ya maula
   Maula zawwar bana de
@@ -24,18 +24,18 @@ romanLyrics: |-
   Apna darbaar dikha de
   Ya maula ya maula
   Maula zawwar bana de
-  Dil mein meri rooh mein armaan basa hai
-  Khwabon khayalon mein mere karbobala hai
-  Aankhon mein aansu hai labon par ye dua hai
+  Dil meiṅ meri ruh meiṅ armaan basa hai
+  Khwabon khayaloṅ meiṅ mere karbobala hai
+  Aankhoṅ meiṅ aansu hai laboṅ par ye dua hai
   Mere tadapne ki wajah tum ko pata hai
   Mujhe ek baar sada de
   Meri qismat ko jaga de
   Apna darbaar dikha de
   Ya maula ya maula
   Maula zawwar bana de
-  Aankhein meri kassh ke dar aap ka dekhe
+  Aankheiṅ meri kassh ke dar aap ka dekhe
   Haath mere rauze ki jaali ko jo thaame
-  Lab ye mere aap ki choukat ko jo choome
+  Lab ye mere aap ki choukat ko jo chume
   Log mujhe aashiq e shabbir pukare
   Mujhe ek baar sada de
   Meri qismat ko jaga de
@@ -43,9 +43,9 @@ romanLyrics: |-
   Ya maula ya maula
   Maula zawwar bana de
   Shaano pe mai rakhe huwe shaal e aza ko
-  Ghar se mai jis waqt chalun karbobala ko
-  Baazu pe baandhunga mai taweez e raza ko
-  Maa meri seene se lagayegi dua ko
+  Ghar se mai jis waqt chaluṅ karbobala ko
+  Baazu pe baandhunga mai tawiz e raza ko
+  Maa meri sine se lagayegi dua ko
   Mujhe ek baar sada de
   Meri qismat ko jaga de
   Apna darbaar dikha de
@@ -53,14 +53,14 @@ romanLyrics: |-
   Maula zawwar bana de
   Karbobala shehr e najaf se mai badhunga
   Sardi ho garmi ho mai paidal hi chalunga
-  Raah mein zawwaron ki khidmat mai karunga
-  Parcham e abbas utha kar mai rakhunga
+  Raah meiṅ zawwaroṅ ki khidmat mai karunga
+  Parcham-e-abbas utha kar mai rakhunga
   Mujhe ek baar sada de
   Meri qismat ko jaga de
   Apna darbaar dikha de
   Ya maula ya maula
   Maula zawwar bana de
-  Bhoola nahi aap ke akbar ki jawani
+  Bhula nahi aap ke akbar ki jawani
   Yaad hai asghar ki mujhe tishna dahani
   Ban gaya zawwar to mannat hai ye maani
   Naam e sakina pe pilaunga mai pani
@@ -69,7 +69,7 @@ romanLyrics: |-
   Apna darbaar dikha de
   Ya maula ya maula
   Maula zawwar bana de
-  Ay shah e karbobala mujhe zawwar bana
+  E shah e karbobala mujhe zawwar bana
   Ye tamanna hai meri apna darbar dikha
   Chal diye ahle aza sar pe parcham hai khula
   Sab ki manzil hai wohi karbala karbobala
@@ -78,11 +78,11 @@ romanLyrics: |-
   Apna darbaar dikha de
   Ya maula ya maula
   Maula zawwar bana de
-  Mujhe apna bana le ay mere maula hussain
-  Mujhe ek bar sada de ay mere maula hussain
-  Mujhe maulayi bana de ay mere maula hussain
-  Meri taqdeer jaga de ay mere maula hussain
-  Maula karbala bula le ay mere maula hussain
+  Mujhe apna bana le ae mere maula Husain
+  Mujhe ek bar sada de ae mere maula Husain
+  Mujhe maulayi bana de ae mere maula Husain
+  Meri taqdir jaga de ae mere maula Husain
+  Maula karbala bula le ae mere maula Husain
   Mujhe ek baar sada de
   Meri qismat ko jaga de
   Apna darbaar dikha de

@@ -14,31 +14,31 @@ romanLyrics: |-
   Ya zahra ya zahra
 
   1
-  Ay meri bibi tere dar pe istghasa hai
-  Tera mamnoon meri shahzadi ye jahan saara hai
+  Ae meri bibi tere dar pe istghasa hai
+  Tera mamnun meri shahzadi ye jahaṅ saara hai
 
   2
-  Tu hamay hifz aur amaan de de
-  Apni chadar ka saiban de de
-  Teri khudrat mein kya nahi bibi
-  Tu jise chaahe do jahan de de
+  Tu hamay hifz aur amaaṅ de de
+  Apni chadar ka saibaṅ de de
+  Teri khudrat meiṅ kya nahi bibi
+  Tu jise chaahe do jahaṅ de de
 
   3
-  Tujhko ummat ne yun sataya hai
+  Tujhko ummat ne yuṅ sataya hai
   Marg e mohsin pe bhi rulaya hai
   Tujhko baba ke baad ummat ne
-  Haye darbar mein bulaya hai
+  Haye darbar meiṅ bulaya hai
 
   4
   Boli zahra ali se ya maula
   Gham ye mujhse nahi saha jaata
-  Qatle mohsin se badh ke mushkil tha
-  Bhare darbar mein mera jaana
+  Qatle mohsin se barh ke mushkil tha
+  Bhare darbar meiṅ mera jaana
 
   5
-  Jab tha rassi mein murtaza ka gala
-  Imtehan zabt ka wo tha tera
-  Haan madina ujad gaya hota
+  Jab tha rassi meiṅ murtaza ka gala
+  Imtehaṅ zabt ka wo tha tera
+  Haaṅ madina ujar gaya hota
   Tu jo de deti bad dua zahra
 
   6
@@ -48,8 +48,8 @@ romanLyrics: |-
   Ya ali jaante hai ya fizza
 
   7
-  Ay mohamed ki laadli dukhtar
-  Gham mein tere hai murtaza muztar
+  Ae mohamed ki laadli dukhtar
+  Gham meiṅ tere hai murtaza muztar
   Jis ne dhaaya tha baab kyber ka
   Gir gaya khaak par wo ye keh kar
 
@@ -60,26 +60,26 @@ romanLyrics: |-
   Jo bhi kuch hai teri badolat hai
 
   9
-  Karz makrooz ka ada kar de
-  Muflison ka naseeb wa kar de
+  Karz makruz ka ada kar de
+  Muflisoṅ ka nasib wa kar de
   Jin ki godhi hari nahi bibi
   Unko aulaad tu ataa kar de
 
   10
-  Waqt e aakhir hai bas mera bibi
+  Waqt-e-aakhir hai bas mera bibi
   Anginat hai mere gunaah bibi
-  Waasta tujhko tere bacchon ka
+  Waasta tujhko tere bacchoṅ ka
   Bakhshwana mere gunaah bibi
 
   11
   Farshe majlis pe aur musalle par
-  Har jawan keh raha hai ro ro kar
+  Har jawaaṅ keh raha hai ro ro kar
   Hum rahe na rahe magar bibi
   Ta qayamat rahe gham e sarwar
 
   12
-  Ay meri bibi tere bacchon ka gham maante hai
-  Apni aulaad se kahin bad ke gham ye pyara hai
+  Ae meri bibi tere bacchoṅ ka gham maante hai
+  Apni aulaad se kahiṅ bad ke gham ye pyara hai
 # source_id: nohayonline:efd316c86d6b03a69161
 # source_url: https://www.nohayonline.com/details_content.php?id=3142
 # raw_sha256: ebb628f87f9631fddc6b5985674d917575e536f0d80f89e759e5d12aa40c440f

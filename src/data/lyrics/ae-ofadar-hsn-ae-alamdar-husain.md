@@ -8,43 +8,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ae wafadar-e-Hassan Ae alamdar-e-Hussain,
-  Karti thi Zainab suqan, Ae alamdar-e-Hussain.
+  Ae wafadar-e-Hasan Ae alamdar-e-Husain,
+  Karti thi Zainab suqan, Ae alamdar-e-Husain.
 
   1
-  Zainab-e-dilgeer se kyun juda tu hogaya,
-  Alqama par chain se bhayi kyun tu sogaya,
-  Hogayi tanha behen, Ae alamdar-e-Hussain.
+  Zainab-e-dilgir se kiuṅ juda tu hogaya,
+  Alqama par chain se bhayi kiuṅ tu sogaya,
+  Hogayi tanha behen, Ae alamdar-e-Husain.
 
   2
-  Haat jab katne lage mashk daanton me liya,
-  Sar se khoo(n) behta raha dhyan pyaason ka raha,
-  Ae mere tashna dahan, Ae alamdar-e-Hussain.
+  Haat jab katne lage mashk daantoṅ me liya,
+  Sar se khoo(n) behta raha dhyan pyaasoṅ ka raha,
+  Ae mere tashna dahan, Ae alamdar-e-Husain.
 
   3
   Ek taraf Kubra ka gham ek taraf gham byah ka,
   Karbala ke dasht me Qaasim-e-naushah ka,
-  Hogaya tukde badan, Ae alamdar-e-Hussain.
+  Hogaya tukre badan, Ae alamdar-e-Husain.
 
   4
-  Jism par Shabbir ke teer barsaye gaye,
-  Laashae mazloom par ghode daudaae gaye,
-  Bat gaya tukdon me tan, Ae alamdar-e-Hussain.
+  Jism par Shabbir ke tir barsaye gaye,
+  Laashae mazlum par ghore dauraae gaye,
+  Bat gaya tukroṅ me tan, Ae alamdar-e-Husain.
 
   5
-  Ghar jale zewar chine hogaye ham be rida,
-  Is Andheri raath me ab kahan jaye bhala,
-  Be Kason ki anjuman, Ae alamdar-e-Hussain.
+  Ghar jale zewar chine hogaye ham berida,
+  Is Andheri raath me ab kahaṅ jaye bhala,
+  Bekason ki anjuman, Ae alamdar-e-Husain.
 
   6
-  Chor kar tu chal basa hai be rida Hamsheer ko,
-  Ye to batlade zara be kafan Shabbir ko,
-  Kon dega ab kafan, Ae alamdar-e-Hussain.
+  Chor kar tu chal basa hai berida Hamshir ko,
+  Ye to batlade zara bekafan Shabbir ko,
+  Kon dega ab kafan, Ae alamdar-e-Husain.
 
   7
-  Ye tera nauha Mujeeb aur Razi ki wo zaban,
-  Ro ke karti thi bayan Aun aur Jafar ki maa,
-  Lut gaya mera chaman, Ae alamdar-e-Hussain..
+  Ye tera nauha Mujib aur Razi ki wo zaban,
+  Ro ke karti thi bayaṅ Aun aur Jafar ki maa,
+  Lut gaya mera chaman, Ae alamdar-e-Husain..
 # source_id: ziyaraat:f6c20aa5b7f092dcddbb
 # source_url: https://www.ziyaraat.net/api/noha/2203
 # raw_sha256: 42db7814534bc19ac7b37018cc8e91bdda997072ad8e1f431d1536f7fa07fa9c
