@@ -14,7 +14,7 @@ published: false
 romanLyrics: |-
   Arz-e-Karbala Arz-e-Nainawa
 
-  Yeh Mah-e-Muharram Hai Yeh Ayyam-e-Azza Hai
+  Yeh Mah-e-Muharram Hai Yeh Ayyam-e-Aza Hain
   Matam Yeh Muhammad Ke Nawasay Ka Bapa Hai
 
   1
@@ -53,7 +53,7 @@ romanLyrics: |-
   Maqtal Inhi Shehzadon Ke Zakhmo Se Saja Hai
 
   8
-  Hoon SARWAR-o-REHAN Shanawar Keh ALI JEE
+  Hun Sarwar o Rehan Shanawar ke Ali Jee
   Hai Nokari Wirsay Mein Hussain Ibn-e-Ali Ki
   Aawaz-o-Qalam Dono Issi Dar Ki Atta Hai
 ---
