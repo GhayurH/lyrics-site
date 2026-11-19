@@ -59,6 +59,26 @@ romanLyrics: |-
   Mujh ko bata do jo kuch hay kehna
 
   7
+  Tha yehi ran mein Ghazi ka noha
+  Be-dast ho kar girta hoon Maula
+  Yeh dard mujh ko marne na dega
+  Takti hai rasta bali Sakina
+  Aao madad ko ae Ibn-e-Zehra
+
+  8
+  Zainab ne us ko naazon se pala
+  Us ne jo khaya seene pe neza
+  Jalti zameen par gir ke pukara
+  Zakhm-e-jigar ko maa se chhupana
+  Aao madad ko ae Ibn-e-Zehra
+
+  9
+  Haye haye woh Asghar chhe maah wala
+  Ghutnon ke bal bhi jo chal na paya
+  Us ka badan jo neze pe dekha
+  Baba ke sar se boli Sakina
+
+  10
   Rehan o Kashif dasht e bala may
   Majlis bapa thi sari fiza may
   Zakir thi Zainab bhai ki apnay
@@ -121,6 +141,26 @@ romanLyrics: |-
 مجھ کو بتا دو جو کچھ ہے کہنا
 
 ۷
+تھا یہی رن میں غازیؑ کا نوحہ
+بے دست ہو کر گرتا ہوں مولا
+یہ درد مجھ کو مرنے نہ دے گا
+تکتی ہے رستہ بالی سکینہؑ
+آؤ مدد کو اے ابنِ زہرا
+
+۸
+زینبؑ نے اُس کو نازوں سے پالا
+اُس نے جو کھایا سینے پہ نیزہ
+جلتی زمیں پر گر کے پکارا
+زخمِ جگر کو ماں سے چھپانا
+آؤ مدد کو اے ابنِ زہرا
+
+۹
+ہائے ہائے وہ اصغرؑ چھ ماہ والا
+گھٹنوں کے بل بھی جو چلنے نہ پایا
+اُس کا بدن جو نیزے پہ دیکھا
+بابا کے سر سے بولی سکینہؑ
+
+۱۰
 ریحان و کاشف دشت بلا میں
 مجلس بپا تھی ساری فضا میں
 ذاكر تھی زینب بھائی کی اپنے
