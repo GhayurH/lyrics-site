@@ -71,6 +71,7 @@ Roman is a pronunciation aid to the **verified original-language reading**, not 
 - Use `Gham-e-Husain` for izafat where present, but **`Shab o Roz`** for the separate Persian conjunction و. Write **`bewafa`** (no negative-prefix hyphen) and **`baar baar`** (no repeated-word hyphen). Preserve justified izafat hyphens.
 - Remove `(x2)` reciter markers. If the marker separates phrases **within the verse**, replace it with comma and space; if it ends a verse, remove it and its preceding space. Do not delete the real words.
 - Titles use Title Case; verse text uses initial and proper-name capitals, not title case on every word. Keep ordinary punctuation, corresponding stanza numerals and verse order.
+- Preserve verified honorifics in the original Urdu text, but **omit honorifics from Roman transcriptions** under the archive house style. Do not remove a word that is actually part of the poetic reading under the guise of formatting.
 
 Urdu **بی‌بی** alone uses the approved U+200C non-joiner; plural/inflected **بیبیاں** and **بیبیوں** must have **no** ZWNJ. The `source:sync` normalizer enforces that distinction and removes other ZWNJs from covered poetry. Roman `Bibi` contains no joiner.
 
