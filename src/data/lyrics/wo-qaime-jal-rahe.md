@@ -5,7 +5,8 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Rehaan Azmi"
+poet: "Rehan Azmi"
+reciter: "Nadeem Sarwar"
 tags: []
 aliases: []
 published: false
@@ -26,7 +27,7 @@ romanLyrics: |-
   Akbar ne jab azan di ye bekasi kahan thi
   Wo subho ki azan thi ye shaam ki azan hai
   Wo qaime jal rahe hai...
-  Be-sar koi naaazi be-dast koi ghazi
+  Be-sar koi namaazi be-dast koi ghazi
   Seene mein ek jawan ke tooti hui sina hai
   Wo qaime jal rahe hai...
   Pehra badal gaya hai zainab ye karbala hai
@@ -34,6 +35,13 @@ romanLyrics: |-
   Wo qaime jal rahe hai...
   Kya dhoondti hai seena aa paas aa sakina
   Seene pe sone waali baba tera yahan hai
+  Wo qaime jal rahe hai...
+  Maula Ali jo aaye Zainab pukaari haaye
+  Ghar lut gaya hai Baba kunba lahu lahaan hai
+  Ab Shaam ka safar hai har Bibi nange sar hai
+  Bejurm qaidiyon ka Sajjad sarbaan hai
+  Bazaar-e-Shaam dekha darbaar-e-Shaam dekha
+  Shaam-e-ghariban har dam Zainab ki nauha khwaan hai
   Wo qaime jal rahe hai...
   Rehaan ho ke sarwar hai sayyeda ke naukar
   Ek nauhago hai inka ek inka nauhakhwan hai
@@ -59,7 +67,7 @@ romanLyrics: |-
 اکبر نے جب اذاں دی یہ بیکسی کہاں تھی
 وہ صبح کی اذاں تھی یہ شام کی اذاں ہے
 وہ خیمے جل رہے ہیں۔۔۔
-بے سر کوی نازی بے دست کوئی غازی
+بے سر کوئی نمازی بے دست کوئی غازی
 سینے میں اک جواں کے ٹوٹی ہوی سناں
 وہ خیمے جل رہے ہیں۔۔۔
 پہرہ بدل گیا ہے زینب یہ کربلا ہے
@@ -67,6 +75,13 @@ romanLyrics: |-
 وہ خیمے جل رہے ہیں۔۔۔
 کیا ڈھونڈتی ہے سینہ آ پاس آ سکینہ
 سینے پہ سونے والی بابا تیرا یہاں ہے
+وہ خیمے جل رہے ہیں۔۔۔
+مولا علی جو آئے زینب پکاری ہائے
+گھر لٹ گیا ہے بابا کنبہ لہو لہان ہے
+اب شام کا سفر ہے ہر بی بی ننگے سر ہے
+بے جرم قیدیوں کا سجاد ساربان ہے
+بازارِ شام دیکھا دربارِ شام دیکھا
+شامِ غریباں ہر دم زینب کی نوحہ خواں ہے
 وہ خیمے جل رہے ہیں۔۔۔
 ریحان ہو کہ سرور ہے سیدہ کے نوکر
 اک نوحہ گو ہے ان کا اک نوحہ خواں ہے
