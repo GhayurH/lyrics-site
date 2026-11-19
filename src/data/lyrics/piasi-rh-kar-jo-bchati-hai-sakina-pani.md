@@ -10,6 +10,33 @@ published: false
 # source_id: ziyaraat:f3d5df24c356cd05cba8
 # source_url: https://www.ziyaraat.net/api/noha/1258
 # raw_sha256: 58432a252c5ecdcf02544d98378593c1b994daf34e31bbc9b2ebd2e387c436e6
+romanLyrics: |-
+  Pyasi reh kar jo bachati hai Sakina pani
+  Tauq-e-Abid pe girati hai Sakina pani
+
+  1
+  Ab to aankhon mein bhi aaye to chupa leti hai
+  Shimr se itna chupati hai Sakina pani
+
+  2
+  Hont khulte hain to Abbas ada hota hai
+  Jab bhi pani ko bulati hai Sakina pani
+
+  3
+  Aab-e-Kausar bhi patakhta hai fasilon pe jabeen
+  Jab bhi chullu mein uthati hai Sakina pani
+
+  4
+  Kisi mashkize ke behne se jo uthti hai sada
+  Us ko aawaz ye aati hai Sakina pani
+
+  5
+  Haal aisa hai ke mutthi mein uthaye mitti
+  Zer-e-lab bolti jati hai Sakina pani
+
+  6
+  Tishnagi hai ke ye Abbas ka dukh hai Akbar
+  Khak pe likh kar mitati hai Sakina pani
 ---
 
 پیاسی رہ کر جو بچاتی ہے سکینہؑ پانی
@@ -28,5 +55,13 @@ published: false
 جب بھی چلو میں اٹھاتی ہے سکینہؑ پانی
 
 ۴
+کسی مشکیزے کے بہنے سے جو اٹھتی ہے صدا
+اس کو آواز یہ آتی ہے سکینہؑ پانی
+
+۵
+حال ایسا ہے کہ مٹھی میں اٹھائے مٹی
+زیرِ لب بولتی جاتی ہے سکینہؑ پانی
+
+۶
 تشنگی ہے کہ یہ عباسؑ کا دکھ ہے اکبر
 خاک پر لکھ کر مٹاتی ہےسکینہؑ پانی
