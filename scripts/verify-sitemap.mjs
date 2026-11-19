@@ -2,7 +2,6 @@
 // Verify that Astro's sitemap covers published kalams, or compare a deployed sitemap with this build (--live).
 import assert from "node:assert/strict";
 import { readFile, readdir } from "node:fs/promises";
-import { join } from "node:path";
 
 const site = "https://kalamarchive.com";
 const root = new URL("../", import.meta.url);
@@ -35,7 +34,7 @@ async function htmlRoutes(dir, prefix) {
   }
   for (const entry of entries) {
     if (entry.isDirectory()) {
-      found.push(...await htmlRoutes(join(dir, entry.name), prefix + entry.name + "/"));
+      found.push(...await htmlRoutes(new URL(entry.name + "/", dir), prefix + entry.name + "/"));
     } else if (entry.isFile() && entry.name === "index.html") {
       found.push(prefix);
     } else if (entry.isFile() && entry.name.endsWith(".html")) {
