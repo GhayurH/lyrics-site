@@ -89,7 +89,7 @@ romanLyrics: |-
 # source_id: nohayonline:9169d410313c4b6751ee
 # source_url: https://www.nohayonline.com/details_content.php?id=404
 # raw_sha256: d1f1e305ca3baa3e3b0fb3e85f166fbe5acccb65770de5c4194f21953046e39c
-# editorial_note: "Five additional Punjabi stanzas are retained in Roman only; Urdu has not been completed. A Khursheed takhallus appears in one additional stanza and requires attribution review."
+# editorial_note: "Five previously missing Punjabi stanzas have been recovered in Urdu script from the Ziyaraat edition; verify their readings and the Khursheed takhallus against audio in final editorial review."
 ---
 زندان سے رہا ہو کر جس دم
 جب کرب و بلا میں آئے حرم
@@ -113,24 +113,54 @@ romanLyrics: |-
 ہر غم سے گزرنا آ گیا
 
 ۲
+کیندی سی رو، پئی سینڑ اے
+مجبور بھوں، تیری بھینڑ اے
+نا گر کسے، دے پینڑ اے
+جیویں ظالم رسیاں پا گیا
+
+۳
 لے شام سے میں آ گئی
 غازی میں کیوں زندہ رہی
 سایہ نہ تھا میلوں کوئی
 مجھے دھوپ میں چلنا آ گیا
 
-۳
+۴
+دُکھی بھینڑ دا، غازیؑ بھرا
+ہنڑ کی کراں، مینوں ڈسا
+ہلی ویر وے، میں بے ردا
+تیرا جانڑاں مانڑ مکا گیا
+
+۵
 دیکھے سجے عدا کے گھر
 نیزوں پہ تھے پیاروں کے سر
 ٹکڑے ہوا میرا جگر
 مجھے یاد مدینہ آ گیا
 
-۴
+۶
+رو بھینڑ اے، دیندی صدا
+بھینڑاں دے آ، پردے بنا
+لوکاں دا اے، مجمع بڑا
+سجاد مینڈا غش کھا گیا
+
+۷
+گیا دردِ اے، دل چِیر اے
+ویکھی ظلم، دی اَخِیر اے
+وچ ظلم دی، زنجیر دے
+رک باقر دا اے کھا گیا
+
+۸
 بازار تھا دربار تھا
 زنجیر تھی بیمار تھا
 جینا میرا دشوار تھا
 ہر درد کو سہنا آ گیا
 
-۵
+۹
+لا لا نوں اے، جانڑاں تیرا
+وچ شام دے، جانڑاں تیرا
+سنگ ظلم دے، کھانڑا تیرا
+خورشید نوں نیر رُوا گیا
+
+۱۰
 اے سرور و ریحان اب
 سوچو ذرا کیا تھا غضب
 بنتِ علی کہتی تھی جب
