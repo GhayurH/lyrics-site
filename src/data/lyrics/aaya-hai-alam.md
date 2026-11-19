@@ -17,6 +17,7 @@ romanLyrics: |-
 
   Baazu jo kate daantoṅ meiṅ mashkiza dabaya
   Jab mashk chhidi phir woh hayadar na aaya
+  Ghore se gira zin pe aswaar na aaya
 
   1
   Har laash pe bhai ka madadgar tha Ghazi
@@ -41,6 +42,18 @@ romanLyrics: |-
   6
   Maanga hai Sakina ke tawassul se jo Mesum
   Salman dar-e-Ghazi se inkar na aaya
+
+  7
+  Ghairat ka taqaaza hai alamdar ki hasti
+  Bachchi se sharmsaar wafadaar na aaya
+
+  8
+  Zaalim ne mere gaaloṅ pe maare haiṅ tamaache
+  Logoṅ mera Abbas Chacha jaan na aaya
+
+  9
+  Paani ke liye bheja Alamdar ko Shah ne
+  Afsos musalmaanoṅ ko aitbaar na aaya
 # source_id: nohayonline:d3ed9416258941487af2
 # source_url: https://www.nohayonline.com/details_content.php?id=2528
 # raw_sha256: e4b568b04c55dc55aed3b9b845acca91cd393e1b4a6ae50a3e6eda79aaf1f80b
@@ -51,6 +64,7 @@ romanLyrics: |-
 
 بازو جو کٹے دانتوں میں مشکیزہ دبایا
 جب مشک چھدی پھر وہ حیادار نہ آیا
+گھوڑے سے گرا زین پہ اسوار نہ آیا
 
 ۱
 ہر لاش پہ بھائی کا مددگار تھا غازی
@@ -75,3 +89,15 @@ romanLyrics: |-
 ۶
 مانگا ہے سکینہ کے توسل سے جو میثم
 سلمان در غازی سے انکار نہ آیا
+
+۷
+غیرت کا تقاضا ہے علمدار کی ہستی
+بچی سے شرمسار وفادار نہ آیا
+
+۸
+ظالم نے میرے گالوں پہ مارے ہیں طمانچے
+لوگو میرا عباس چچا جان نہ آیا
+
+۹
+پانی کے لیے بھیجا علمدار کو شہ نے
+افسوس مسلمانوں کو اعتبار نہ آیا
