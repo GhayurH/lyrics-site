@@ -111,7 +111,8 @@ def inspect_text(path: str, content: str) -> Candidate:
         if absent_tag:
             note += "; stale missing-edition tag may need correction"
     elif latin_body or roman:
-        if lang in LANG_CODES or language.lower() in LANG_NAMES or absent_tag:
+        if (lang in LANG_CODES or absent_tag or
+                (language.lower() in LANG_NAMES and lang not in {"pa", "skr", "bft"})):
             task, note = "source", "Roman material exists; original Arabic-script body missing"
         else:
             task, note = "blocked", "Latin original or uncertain language; needs human classification"
