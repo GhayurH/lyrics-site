@@ -108,11 +108,15 @@ test("homepage continues local reading without showing an empty placeholder", as
 test("search results index poetry without including metadata controls @smoke", async ({ page }) => {
   await page.goto("/lyrics/aa-asghar-bin-tere/");
   const source = page.locator("[data-pagefind-body]");
-  await expect(source).toHaveCount(1);
+  // A bilingual lyric indexes its two visible language panels, not a third
+  // hidden copy of the poem.
+  await expect(source).toHaveCount(2);
   await expect(source.locator(".lyric-verse")).not.toHaveCount(0);
   await expect(page.locator(".visually-hidden[data-pagefind-body]")).toHaveCount(0);
-  await expect(source).not.toContainText("About this kalam");
-  await expect(source).not.toContainText("Original lyric sheet");
+  for (const panel of await source.all()) {
+    await expect(panel).not.toContainText("About this kalam");
+    await expect(panel).not.toContainText("Original lyric sheet");
+  }
   // All text on page 328 belongs to a verified individual kalam, so
   // its printed page stays browsable but is not indexed a second time.
   await page.goto("/basta/328/");
