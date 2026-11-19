@@ -91,6 +91,7 @@ const pageIndexEntries = typedIndexEntries.filter(
   (indexEntry) => indexEntry.page === page &&
     !indexedKalamIds.has(bastaKalamId(indexEntry)),
 );
+const pageKalamTitle = pageIndexEntries.length === 1 ? pageIndexEntries[0].name : undefined;
 const bastaIndexSearchTerms = pageIndexEntries
   .flatMap((indexEntry) => [
     indexEntry.name,
@@ -125,13 +126,11 @@ const kalamTypeFilters = entry.data.imageOnly ? [] : getBastaKalamTypesForPage(p
 ---
 
 <BaseLayout
-  title={`Basta — page ${page} | Kalam Archive`}
+  title={`Basta — page ${page}${pageKalamTitle ? ` — ${pageKalamTitle}` : ""} | Kalam Archive`}
   description={
     entry.data.imageOnly
       ? `Original scan of Basta page ${page}.`
-      : hasRomanText
-        ? `Basta page ${page}: original scan, Urdu text, and Roman Urdu where available.`
-        : `Basta page ${page}: original scan and Urdu text.`
+      : `Basta page ${page}${pageKalamTitle ? ` — ${pageKalamTitle}` : ""}: original scan and Urdu${hasRomanText ? " and Roman Urdu" : ""} transcription.`
   }
 >
   <article
