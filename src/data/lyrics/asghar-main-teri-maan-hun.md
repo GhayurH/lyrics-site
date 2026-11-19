@@ -71,6 +71,7 @@ romanLyrics: |-
   ab nind aati hogi
   phir god may lita kar
   Nade ali sunauṅ
+
   8
   Lagta hai maa se Asghar naaraaz ho gaya hai
   Maqtal mein so gaya hai
