@@ -4,7 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-alternateTitle: "Aao Matam Karo Bibi Ki Dua Lo Logon"
+alternateTitle: "Aao Matam Karo Bibi Ki Dua Lo Logoṅ"
 reciter: "Ali Safdar Rizvi; Anjuman Azadaran-e-Dar-e-Batool"
 tags: []
 aliases: []
@@ -43,7 +43,7 @@ romanLyrics: |-
 
   8
   Fatima Zahra ko mehman bulana hai agar
-  Apne ghar mein bhi azakhana saja lo logo
+  Apne ghar meiṅ bhi azakhana saja lo logo
 
   9
   Shab-e-Aashur pe Zainab ne kaha ro ro kar
@@ -51,10 +51,10 @@ romanLyrics: |-
 
   10
   Tum se gar ho na sake matam-e-Shabbir agar
-  Naam par pyason ke pani hi pila lo logo
+  Naam par pyasoṅ ke pani hi pila lo logo
 
   11
-  Be-rida parda-nashin guzrenge kaise mere
+  berida parda-nashiṅ guzrenge kaise mere
   Bole Sajjad ye majma to hata lo logo
 # source_id: ziyaraat:df01918f1672312dd2c5
 # source_url: https://www.ziyaraat.net/api/noha/2838

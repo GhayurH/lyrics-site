@@ -1,6 +1,6 @@
 ---
 title: "عباس سکینہ کو طمانچوں سے بچا لو"
-alternateTitle: "Abbas Sakina Ko Tamachon Se Bacha Lo"
+alternateTitle: "Abbas Sakina Ko Tamachoṅ Se Bacha Lo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

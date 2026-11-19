@@ -12,55 +12,55 @@ romanLyrics: |-
   Haye ali qatl hogaye
 
   1
-  Jibreel de rahe thay nida ke ghazab hua
-  Hyder ko qatl qanaye khaaliq mein kar diya
+  Jibril de rahe the nida ke ghazab hua
+  Hyder ko qatl qanaye khaaliq meiṅ kar diya
 
   2
   Shehzadiyo ne jyon hi suni gham ki ye sada
   Betaab hoke royi aur hasnain se kaha
-  Masjid mein jaake dekho zara kya hai maajra
+  Masjid meiṅ jaake dekho zara kya hai maajra
   Ye kaun keh raha hai hue qatl murtaza
 
   3
-  Zarbe layeen se hogaya jis dam do para sar
-  Us dam alam se hilte thay masjid ke baam o dar
-  Mehraab aur musalla hua saara khoon mein tar
-  Kaampa falak to zalzala aaya zameen par
+  Zarbe layiṅ se hogaya jis dam do para sar
+  Us dam alam se hilte the masjid ke baam o dar
+  Mehraab aur musalla hua saara khuṅ meiṅ tar
+  Kaampa falak to zalzala aaya zamin par
 
   4
-  Daude ye sunte hi suye masjid hassan hussain
+  Daure ye sunte hi suye masjid Hasan Husain
   Dekha namazi karte hai naale ba shor o shain
-  Apne lahoo mein laut'te hai shaahe mashraqain
+  Apne lahu meiṅ laut'te hai shaahe mashraqain
   Paaya pidar ko aise kiye dono ne ye bain
 
   5
-  Dekha namaziyo ne jo beton ko hat gaye
+  Dekha namaziyo ne jo betoṅ ko hat gaye
   Hasnain bad ke apne pidar se lipat gaye
   Naale kiye wo sunke jigar gham se phat gaye
-  Riqqat se doston ke kaleje ulat gaye
+  Riqqat se dostoṅ ke kaleje ulat gaye
 
   6
-  Yan ho rahi thi seena zani naala-o-buka
-  Aayi kahin khareeb se fizza ki ye sada
-  Zehra ki betiyon ko nahi yaara zabt ka
+  Yaṅ ho rahi thi seena zani naala o buka
+  Aayi kahiṅ khareeb se fizza ki ye sada
+  Zehra ki betiyoṅ ko nahi yaara zabt ka
   Bechain hai wo dekhne ko haale murtaza
 
   7
   Kya haal hai pidar ka na aakar bataoge
   Hasnain se kaho ke jo unse chupaoge
-  Hyder ko jald ghar mein agar tum na laaoge
-  Zainab ko sar khule hue masjid mein paaoge
+  Hyder ko jald ghar meiṅ agar tum na laaoge
+  Zainab ko sar khule hue masjid meiṅ paaoge
 
   8
   Awaaz sunke bole ali ye baja nahi
-  Hum be-sahara be-kaso be-aashna nahi
-  Hai paas sab rafeeq ye ahle jafa nahi
+  Hum besahara bekaso beaashna nahi
+  Hai paas sab rafiq ye ahle jafa nahi
   Kufa hai kehdo beti se ye karbala nahi
 
   9
   Hasnain leke baba ko pahunche khareebe dar
-  Sab hatgaye anees jo aaya ali ka ghar
-  Betaab hoke betiyan nikli barehna sar
+  Sab hatgaye anis jo aaya ali ka ghar
+  Betaab hoke betiyaṅ nikli barehna sar
   Lipti pidar se aah hui is tarha nohagar
 # source_id: nohayonline:3393b7e4cc9ca4c26957
 # source_url: https://www.nohayonline.com/details_content.php?id=253

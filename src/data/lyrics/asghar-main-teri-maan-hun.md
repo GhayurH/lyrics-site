@@ -74,18 +74,18 @@ romanLyrics: |-
 
   8
   Lagta hai maa se Asghar naaraaz ho gaya hai
-  Maqtal mein so gaya hai
-  Dhundun kahaan main us ko aur kis tarah jagaun
+  Maqtal meiṅ so gaya hai
+  Dhunduṅ kahaaṅ maiṅ us ko aur kis tarah jagauṅ
 
   9
-  Maidaan mein ja ke jurat bhi aisi tum dikhaana
+  Maidaaṅ meiṅ ja ke jurat bhi aisi tum dikhaana
   Ghazi hi nazar aana
-  Tu pyaas mein hai par main paani kidhar se laun
+  Tu pyaas meiṅ hai par maiṅ paani kidhar se lauṅ
 
   10
-  Akhtar Saghir pal mein khaamosh ho gaya hai
+  Akhtar Saghir pal meiṅ khaamosh ho gaya hai
   Pyaasa hi so gaya hai
-  Tujhe chhor ke akela main kaise Shaam jaun
+  Tujhe chhor ke akela maiṅ kaise Shaam jauṅ
 # source_id: nohayonline:f50bd24684ea2d124b02
 # source_url: https://www.nohayonline.com/details_content.php?id=19
 # raw_sha256: ad5714a7e0ea69ec5c8fd047542c17689c435e8daf464dc73dd6490fdac37b1d

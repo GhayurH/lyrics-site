@@ -1,6 +1,6 @@
 ---
 title: "عباس کو ہاتھوں کا سہارا کوئی دے دے"
-alternateTitle: "Abbas Ko Haathon Ka Sahara Koi De De"
+alternateTitle: "Abbas Ko Haathoṅ Ka Sahara Koi De De"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"

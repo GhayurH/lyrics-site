@@ -12,45 +12,45 @@ romanLyrics: |-
   Akbar nahi aaye Asghar nahi aaye
 
   1
-  Din beet gaya ab raat hui dilbar nahi aaye
+  Din bit gaya ab raat hui dilbar nahi aaye
   Hum name ali hum shakle nabi
-  Jurrat thi siwa ghairat thi badi
-  Lekin jab mushkil aayi ghadi
+  Jurrat thi siwa ghairat thi bari
+  Lekin jab mushkil aayi ghari
   Maa deti rahi ro ro ke sada
 
   2
   Kehti thi ye bano ro ro
   Lilaah bulado asghar ko
   Kya jaan ye kis aalam may ho
-  Ran ko gaye baap ke haaton par
+  Ran ko gaye baap ke haatoṅ par
   Phir ghar nahi aaye
 
   3
   Kya guzri laal mere tum par
   Kuch to bolo jaane maadar
   Kya baat hui ran may sarwar
-  Lekar to gaye thay haaton par
+  Lekar to gaye the haatoṅ par
   Lekar nahi aaye
 
   4
-  Tum par to hai sab haal ayaan
-  Pani tha kahan jo deti maa
-  Itni si baat pe jaan di jaan
+  Tum par to hai sab haal ayaaṅ
+  Pani tha kahaṅ jo deti maa
+  Itni si baat pe jaaṅ di jaaṅ
   Ghar se gaye aise hoke khafa
-  Mud kar nahi aaye
+  Mur kar nahi aaye
 
   5
-  Aajao ay asghar aao
+  Aajao ae asghar aao
   Maadar par laal taras khao
-  Ek baar galay se lag jao
+  Ek baar gale se lag jao
   Mumkin hai laut ke phir dilbar
   Maadar nahi aaye
 
   6
-  Zakhmi hai gala majboor ho tum
-  Beta zakhmo se choor ho tum
-  Ab mai samjhi kyon door ho tum
-  Maidan gayi ay lakhte jigar
+  Zakhmi hai gala majbur ho tum
+  Beta zakhmo se chur ho tum
+  Ab mai samjhi kyoṅ dur ho tum
+  Maidan gayi ae lakhte jigar
   Kyon kar nahi aaye
 # source_id: nohayonline:d198b414b369bd0d91d2
 # source_url: https://www.nohayonline.com/details_content.php?id=463

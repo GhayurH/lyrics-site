@@ -24,14 +24,14 @@ romanLyrics: |-
 
   3
   Saghir bachchoṅ ki ye aas ka janaaza hai
-  Jo khun meiṅ dubi hui mashk la rahe haiṅ Husain
+  Jo khuṅ meiṅ dubi hui mashk la rahe haiṅ Husain
 
   4
   Faqat tamaache sulaayeṅge phir Sakina ko
   Abhi to beti ko apni sula rahe haiṅ Husain
 
   5
-  Sinaaṅ ki nok pe ye aayateṅ nahiṅ Meesum
+  Sinaaṅ ki nok pe ye aayateṅ nahiṅ Misum
   Behen gharib ka parda bana rahe haiṅ Husain
 ---
 کمالِ صبر کی منزل دکھا رہے ہیں حسین

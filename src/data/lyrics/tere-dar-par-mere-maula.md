@@ -43,7 +43,7 @@ romanLyrics: |-
   Wo ye samjhe the ke parda, nahiṅ hone waala
 
   8
-  Aashiq-e-Hazrat-e-Qasim hai so Meesum ke liye
+  Aashiq-e-Hazrat-e-Qasim hai so Misum ke liye
   Zaaiqa maut ka phika, nahiṅ hone waala
 ---
 تیرے در پر مرے مولا، نہیں ہونے والا
