@@ -93,6 +93,7 @@ romanLyrics: 'Ye janaza hay Ali ka
   Haye lipatna baar baar
 
   Dil hila deta tha rona shah ki hamsheer ka
+  Khoon rulata tha tasavvur Shaam ki tashhir ka
 
 
   11
@@ -178,6 +179,7 @@ romanLyrics: 'Ye janaza hay Ali ka
 باپ کی میت سے زینبؑ کا لپٹنا بار بار
 ہئے لپٹنا بار بار
 خوں رلاتا تھا تصۤور شام کی تشہیر کا
+دل ہلا دیتا تھا رونا شاہ کی ہمشیر کا
 مسجدِ کوفہ میں ضربت ہائے سجدے میں لگی
 ہائے سجدے میں لگی
 قتل کعبہ ہو گیا یہ نعلہ تھا جبریلؑ کا
