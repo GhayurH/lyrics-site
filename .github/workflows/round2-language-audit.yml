@@ -15,3 +15,6 @@ jobs:
         with:
           node-version: '24'
       - run: node scripts/audit-round2-language-codes.mjs
+      - run: node --test tests/round2-explicit-language-fix.test.mjs
+      - name: Review explicit source-language candidates without changes
+        run: node scripts/round2-explicit-language-fix.mjs --check || test "$?" -eq 1
