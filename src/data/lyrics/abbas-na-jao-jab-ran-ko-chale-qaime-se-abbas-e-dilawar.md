@@ -11,65 +11,64 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab ran ko chale qaime se abbas e dilawar
-  Sab bibiyan lipti thi sambhale huwe chadar
-  Haathon se kamar thaam ke paas aaye jo sarwar
-  Bosa liya abbas ke shaano ka ye keh kar
-  Tum jaisa baradar mai kahan paaunga bhai
-  Tum laut ke na aaye to mar jaaunga bhai
-  Seene se laga kar sheh ne kaha abbas na jao ruk jao
-  Ay bhai na jao ruk jao
-  Koi bhi nahi hai ab mera abbas na jao ruk jao
-  Ay bhai na jao ruk jao
-  Bolo to sakina ko mai samjha doonga abbas
-  Mashkeeza mujhe dedo mai lauta doonga abbas
-  Shikwa na karegi pani ka
-  Rakh degi wo haathon se kooza
-  Wo kehna nahi taaleg mera
-  Abbas na jao ruk jao
-  Ay bhai na jao ruk jao
-  Tehro ke tumhe de loo mai jeene ki duayein
-  Tum mar gaye to kaun bachayega ridayein
-  Dhaaras hai tumhi se zainab ko
+  Jab ran ko chale khaime se Abbas-e-dilawar
+  Sab Bibiyaan lipti thiṅ sambhaale hue chaadar
+  Haathoṅ se kamar thaam ke paas aaye jo Sarwar
+  Bosa liya Abbas ke shaanoṅ ka ye keh kar
+  Tum jaisa baraadar maiṅ kahaaṅ paauṅga bhaai
+  Tum laut ke na aaye to mar jaauṅga bhaai
+  Sine se laga kar Sheh ne kaha Abbas na jaao ruk jaao
+  Ae bhaai na jaao ruk jaao
+  Koi bhi nahiṅ hai ab mera Abbas na jaao ruk jaao
+
+  2
+  Bolo to Sakina ko maiṅ samjha duṅga Abbas
+  Mashkiza mujhe de do maiṅ lauta duṅga Abbas
+  Shikwa na karegi paani ka
+  Rakh degi wo haathoṅ se kuza
+  Wo kehna nahiṅ taalegi mera
+
+  3
+  Thehro ke tumheṅ de luṅ maiṅ jine ki duaaeṅ
+  Tum mar gaye to kaun bachaayega ridaaeṅ
+  Dhaaras hai tumhiṅ se Zainab ko
   Jaa jaa ke bataati hai sab ko
-  Zinda hai abhi ghazi mera
-  Abbas na jao ruk jao
-  Ay bhai na jao ruk jao
-  Maidan mein kaise mai tumhe jaane doo bolo
-  Akbar ki tarha paala hai is bhai ne tum ko
+  Zinda hai abhi Ghazi mera
+
+  4
+  Maidaan meiṅ kaise maiṅ tumheṅ jaane duṅ bolo
+  Akbar ki tarah paala hai is bhaai ne tum ko
   Jo ran ko gaya wo na aaya
   Tum bhi na agar aaye bhaiya
-  Mai kaise uthaunga laasha
-  Abbas na jao ruk jao
-  Ay bhai na jao ruk jao
-  Rukte hi na thay zainab o kulsoom ke aansu
-  Jab sheh ne kaha choom ke abbas ke baazu
-  Ye shaane qalam na ho jaaye
-  Be aasra hum na ho jaaye
-  Ye baazu sahara hai sab ka
-  Abbas na jao ruk jao
-  Ay bhai na jao ruk jao
-  Wo kufa wo zarbat mai kahan bhoola hoo abbas
-  Tum aakhri baba ki nishani ho mere paas
-  Yaad aati hai jab bhi baba ki
-  Mai dekhta hoo tum ko ghazi
-  Zakhmi na ho baba ka chehra
-  Abbas na jao ruk jao
-  Ay bhai na jao ruk jao
-  Behne na mere saath agar hoti alamdar
-  Khud tum ko ladayi ke liye karta mai tayyar
-  Yan waar karoge tum jitne
-  Har waar ka teri behno se
-  Bazaar mein lenge wo badla
-  Abbas na jao ruk jao
-  Ay bhai na jao ruk jao
-  Zeeshan o raza kaisa tha ruqsat ka wo manzar
-  Bhai ke qadam choom ke mashkeeza utha kar
-  Abbas jo qaimon se nikle
-  Girti thi ridayein khud sar se
-  Aur kehte rahe shaah e waala
-  Abbas na jao ruk jao
-  Ay bhai na jao ruk jao
+  Maiṅ kaise uthauṅga laasha
+
+  5
+  Rukte hi na the Zainab o Kulsum ke aaṅsu
+  Jab Sheh ne kaha chum ke Abbas ke baazu
+  Ye shaane qalam na ho jaaeṅ
+  Be-aasra hum na ho jaaeṅ
+  Ye baazu sahaara hai sab ka
+
+  6
+  Wo Kufa wo zarbat maiṅ kahaaṅ bhula huṅ Abbas
+  Tum aakhri Baba ki nishaani ho mere paas
+  Yaad aati hai jab bhi Baba ki
+  Maiṅ dekhta huṅ tum ko Ghazi
+  Zakhmi na ho Baba ka chehra
+
+  7
+  Behneṅ na mere saath agar hotiṅ Alamdar
+  Khud tum ko laraai ke liye karta maiṅ tayyaar
+  Yaaṅ waar karoge tum jitne
+  Har waar ka teri behnoṅ se
+  Bazaar meiṅ leṅge wo badla
+
+  8
+  Zeeshan o Raza kaisa tha rukhsat ka wo manzar
+  Bhaai ke qadam chum ke mashkiza utha kar
+  Abbas jo khaimoṅ se nikle
+  Girti thiṅ ridaaeṅ khud sar se
+  Aur kehte rahe Shah-e-Waala
 # source_id: nohayonline:efbd3cb811e23ab1f76c
 # source_url: https://www.nohayonline.com/details_content.php?id=1700
 # raw_sha256: 63e0654e0d90a13acba62b30c58e8fc479e3538bb7ca832014d7e1b578004117
@@ -77,61 +76,60 @@ romanLyrics: |-
 
 ۱
 جب رن کو چلے خیمے سے عباس دلاور
-سب بی بیاں لپٹی تھی سنبھالے ہوے چادر
-ہاتھوں سے کمر تھام کے پاس آے جو سرور
+سب بیبیاں لپٹی تھیں سنبھالے ہوئے چادر
+ہاتھوں سے کمر تھام کے پاس آئے جو سرور
 بوسہ لیا عباس کے شانوں کا یہ کہہ کر
-تم جیسا برادر میں کہاں پاؤں گا بھای
-تم لوٹ کے نہ آے تو مر جاؤں گا بھای
+تم جیسا برادر میں کہاں پاؤں گا بھائی
+تم لوٹ کے نہ آئے تو مر جاؤں گا بھائی
 سینے سے لگا کر شہ نے کہا عباس نہ جاؤ رک جاؤ
-اے بھای نہ جاؤ رک جاؤ
+اے بھائی نہ جاؤ رک جاؤ
 کوئی بھی نہیں ہے اب میرا عباس نہ جاؤ رک جاؤ
-اے بھای نہ جاؤ رک جاؤ
-بولو تو سکینہ کو میں سمجھا دونگا عباس
-مشکیزہ مجھے دیدو میں لوٹا دونگا عباس
-شکوہ نہ کریگی پانی کا
-رکھ دیگی وہ ہاتھوں سے کوزہ
-وہ کہنا نہیں ٹالے گا میرا
-عباس نہ جاؤ رک جاؤ
-اے بھای نہ جاؤ رک جاؤ
-ٹہرو کہ تم دے لوں میں جینے کی دعائیں
-تم مر گےء تو کون بچاے گا رداییں
+
+۲
+بولو تو سکینہ کو میں سمجھا دوں گا عباس
+مشکیزہ مجھے دے دو میں لوٹا دوں گا عباس
+شکوہ نہ کرے گی پانی کا
+رکھ دے گی وہ ہاتھوں سے کوزہ
+وہ کہنا نہیں ٹالے گی میرا
+
+۳
+ٹھہرو کہ تمہیں دے لوں میں جینے کی دعائیں
+تم مر گئے تو کون بچائے گا ردائیں
 ڈھارس ہے تمہیں سے زینب کو
 جا جا کے بتاتی ہے سب کو
 زندہ ہے ابھی غازی میرا
-عباس نہ جاؤ رک جاؤ
-اے بھای نہ جاؤ رک جاؤ
-میدان میں کیسے تمھیں جانے دوں بولو
-اکبر کی طرح پالا ہے اس بھای نے تم کو
+
+۴
+میدان میں کیسے میں تمہیں جانے دوں بولو
+اکبر کی طرح پالا ہے اس بھائی نے تم کو
 جو رن کو گیا وہ نہ آیا
-تم بھی نہ اگر آے بھیا
+تم بھی نہ اگر آئے بھیا
 میں کیسے اٹھاؤں گا لاشہ
-عباس نہ جاؤ رک جاؤ
-اے بھای نہ جاؤ رک جاؤ
-رکتے ہی نہ تھے زینب و کلثوم کے آنسوں
+
+۵
+رکتے ہی نہ تھے زینب و کلثوم کے آنسو
 جب شہ نے کہا چوم کے عباس کے بازو
-یہ شانے قلم نہ ہو جاے
-بے آسرا ہم نہ ہو جاے
-یہ بازو سہارا ہے سب کا
-عباس نہ جاؤ رک جاؤ
-اے بھای نہ جاؤ رک جاؤ
-وہ کوفہ وہ ضربت میں کہاں بھولا لہو عباس
+یہ شانے قلم نہ ہو جائیں
+بے آسرا ہم نہ ہو جائیں
+یہ بازو سہارا ہیں سب کا
+
+۶
+وہ کوفہ وہ ضربت میں کہاں بھولا ہوں عباس
 تم آخری بابا کی نشانی ہو میرے پاس
 یاد آتی ہے جب بھی بابا کی
 میں دیکھتا ہوں تم کو غازی
 زخمی نہ ہو بابا کا چہرہ
-عباس نہ جاؤ رک جاؤ
-اے بھای نہ جاؤ رک جاؤ
-بہنیں نہ میرے ساتھ اگر ہوتی علمدار
-خود تم کو لڑائی کے لئے کرتا میں تیار
-یاں وار کروگے تم جتنے
+
+۷
+بہنیں نہ میرے ساتھ اگر ہوتیں علمدار
+خود تم کو لڑائی کے لیے کرتا میں تیار
+یاں وار کرو گے تم جتنے
 ہر وار کا تیری بہنوں سے
 بازار میں لیں گے وہ بدلہ
-عباس نہ جاؤ رک جاؤ
-اے بھای نہ جاؤ رک جاؤ
+
+۸
 زیشان و رضا کیسا تھا رخصت کا وہ منظر
-بھای کے قدم چوم کے مشکیزہ اٹھا کر
+بھائی کے قدم چوم کے مشکیزہ اٹھا کر
 عباس جو خیموں سے نکلے
-گرتی تھی رداییں خود سر سے
+گرتی تھیں ردائیں خود سر سے
 اور کہتے رہے شاہ والا
-عباس نہ جاؤ رک جاؤ
-اے بھای نہ جاؤ رک جاؤ
