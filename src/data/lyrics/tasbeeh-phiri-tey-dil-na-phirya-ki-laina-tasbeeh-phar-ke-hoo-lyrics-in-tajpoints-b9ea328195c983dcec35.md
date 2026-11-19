@@ -1,7 +1,7 @@
 ---
 title: "Tasbeeh Phiri Tey Dil Na Phirya Ki Laina Tasbeeh Phar Ke Hoo Lyrics In Punjabi 2017"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bahoo"

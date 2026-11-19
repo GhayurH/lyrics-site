@@ -1,7 +1,7 @@
 ---
 title: "Zainab Hai Mera Naam Lyrics In Punjabi 2015"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

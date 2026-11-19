@@ -1,7 +1,7 @@
 ---
 title: "Qasim Da Sehra Afzal Jamal Lyrics Punjabi 2019"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Shahid"

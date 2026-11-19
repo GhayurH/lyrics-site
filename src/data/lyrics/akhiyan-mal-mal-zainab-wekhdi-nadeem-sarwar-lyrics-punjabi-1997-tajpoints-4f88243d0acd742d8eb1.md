@@ -1,7 +1,7 @@
 ---
 title: "Akhiyan Mal Mal Zainab Wekhdi Nadeem Sarwar Lyrics Punjabi 1997"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

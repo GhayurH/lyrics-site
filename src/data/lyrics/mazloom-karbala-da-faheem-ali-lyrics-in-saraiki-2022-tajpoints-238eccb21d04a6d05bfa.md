@@ -1,7 +1,7 @@
 ---
 title: "Mazloom Karbala Da Faheem Ali Lyrics In Saraiki 2022"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Other"
 poet: "Haider"

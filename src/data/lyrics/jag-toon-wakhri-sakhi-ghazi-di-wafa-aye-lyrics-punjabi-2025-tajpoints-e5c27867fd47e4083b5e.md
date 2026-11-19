@@ -1,7 +1,7 @@
 ---
 title: "Jag Toon Wakhri Sakhi Ghazi Di Wafa Aye Lyrics Punjabi 2025"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Qasida"
 poet: "Mirza"

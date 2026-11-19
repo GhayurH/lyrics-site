@@ -1,7 +1,7 @@
 ---
 title: "Karbal Choon Qaidi Ban Ke Quran De Waris Jande Ne Lyrics In Punjabi 2017"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"

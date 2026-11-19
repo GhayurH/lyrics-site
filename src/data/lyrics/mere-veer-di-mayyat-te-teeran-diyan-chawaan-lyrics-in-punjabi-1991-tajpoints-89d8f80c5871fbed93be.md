@@ -1,7 +1,7 @@
 ---
 title: "Mere Veer Di Mayyat Te Teeran Diyan Chawaan Lyrics In Punjabi 1991"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sardar"

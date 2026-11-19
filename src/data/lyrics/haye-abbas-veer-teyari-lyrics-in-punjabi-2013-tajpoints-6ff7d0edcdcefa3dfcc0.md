@@ -1,7 +1,7 @@
 ---
 title: "Haye Abbas Veer Teyari Lyrics In Punjabi 2013"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Noshad"

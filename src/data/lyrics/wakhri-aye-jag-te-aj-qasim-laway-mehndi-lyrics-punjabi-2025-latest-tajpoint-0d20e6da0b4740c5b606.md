@@ -1,7 +1,7 @@
 ---
 title: "Wakhri Aye Jag Te Aj Qasim Laway Mehndi Lyrics Punjabi 2025 Latest"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"

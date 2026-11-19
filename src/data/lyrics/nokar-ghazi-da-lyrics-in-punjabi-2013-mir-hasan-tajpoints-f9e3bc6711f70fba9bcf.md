@@ -1,7 +1,7 @@
 ---
 title: "Nokar Ghazi Da Lyrics In Punjabi 2013 Mir Hasan"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Jawad"

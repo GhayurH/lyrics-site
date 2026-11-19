@@ -1,7 +1,7 @@
 ---
 title: "Dhiyan Ne Jana Mar Baba Na Khali Wehra Kar Baba Lyrics Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zawwar"

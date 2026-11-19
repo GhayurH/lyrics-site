@@ -1,7 +1,7 @@
 ---
 title: "Rat Naal Hanera Akhiyaan Wich Kar Ke Abid Turda Aaway Lyrics In Punjabi 2018"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"

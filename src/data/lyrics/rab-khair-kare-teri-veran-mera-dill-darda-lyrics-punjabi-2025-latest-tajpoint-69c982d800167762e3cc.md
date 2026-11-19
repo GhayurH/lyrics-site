@@ -1,7 +1,7 @@
 ---
 title: "Rab Khair Kare Teri Veran Mera Dill Darda Lyrics Punjabi 2025 Latest"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"

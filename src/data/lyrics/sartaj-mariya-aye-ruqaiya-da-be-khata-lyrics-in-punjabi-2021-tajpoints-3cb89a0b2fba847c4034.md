@@ -1,7 +1,7 @@
 ---
 title: "Sartaj Mariya Aye Ruqaiya Da Be Khata Lyrics In Punjabi 2021"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabit"

@@ -1,7 +1,7 @@
 ---
 title: "Rut Badal Gayi Aye Kofe Di Kita Zalimaa Zulm Akheer Aye Lyrics Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"

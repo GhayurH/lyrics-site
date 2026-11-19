@@ -1,7 +1,7 @@
 ---
 title: "Main Taidi Lash Te Shabir Sabar Kita Aye Lyrics In Saraiki 2019"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Other"
 poet: "Afraz"

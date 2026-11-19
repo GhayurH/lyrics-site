@@ -2,7 +2,7 @@
 title: "سامنے لیلیٰؑ دے کج دیر تاں بیہہ اکبرؑ"
 alternateTitle: "Samne Laila De Kuj Dair Taan Beh Akbar"
 language: "Panjabi"
-lang: "ur"
+lang: "pa"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Adil"

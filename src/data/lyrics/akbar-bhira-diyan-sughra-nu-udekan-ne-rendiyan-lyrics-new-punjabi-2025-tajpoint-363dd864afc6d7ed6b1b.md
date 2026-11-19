@@ -1,7 +1,7 @@
 ---
 title: "Akbar Bhira Diyan Sughra Nu Udekan Ne Rendiyan Lyrics New Punjabi 2025"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"

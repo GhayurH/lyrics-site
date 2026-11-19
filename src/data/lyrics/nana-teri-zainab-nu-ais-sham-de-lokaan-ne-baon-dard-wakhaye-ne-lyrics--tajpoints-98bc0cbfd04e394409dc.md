@@ -1,7 +1,7 @@
 ---
 title: "Nana Teri Zainab Nu Ais Sham De Lokaan Ne Baon Dard Wakhaye Ne Lyrics In Punjabi 2016"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

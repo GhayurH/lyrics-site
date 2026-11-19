@@ -1,7 +1,7 @@
 ---
 title: "Jhanrr Gaye Abbas Ghazi Laeeq Raza Lyrics In Saraiki 2020"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Other"
 poet: "Laeeq"

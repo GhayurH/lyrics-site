@@ -1,7 +1,7 @@
 ---
 title: "Tareekh De Wich Mashhoor Hin Dunya Te Taray Darbar Aye Lyrics Saraiki 2007"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Other"
 poet: "Khanrez"

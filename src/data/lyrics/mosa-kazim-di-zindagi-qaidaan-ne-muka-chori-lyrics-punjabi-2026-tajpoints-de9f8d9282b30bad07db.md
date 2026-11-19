@@ -1,7 +1,7 @@
 ---
 title: "Mosa Kazim Di Zindagi Qaidaan Ne Muka Chori Lyrics Punjabi 2026"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Basharat"

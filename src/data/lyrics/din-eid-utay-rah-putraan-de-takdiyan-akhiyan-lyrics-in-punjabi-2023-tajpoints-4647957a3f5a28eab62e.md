@@ -1,7 +1,7 @@
 ---
 title: "Din Eid Utay Rah Putraan De Takdiyan Akhiyan Lyrics In Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

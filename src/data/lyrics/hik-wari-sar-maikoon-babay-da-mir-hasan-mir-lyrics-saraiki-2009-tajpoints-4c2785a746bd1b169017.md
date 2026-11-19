@@ -1,7 +1,7 @@
 ---
 title: "Hik Wari Sar Maikoon Babay Da Mir Hasan Mir Lyrics Saraiki 2009"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

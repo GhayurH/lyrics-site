@@ -1,7 +1,7 @@
 ---
 title: "Shala Mehndi Lawan Behna Hasan Sadiq Lyrics In Punjabi 2005"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najam"

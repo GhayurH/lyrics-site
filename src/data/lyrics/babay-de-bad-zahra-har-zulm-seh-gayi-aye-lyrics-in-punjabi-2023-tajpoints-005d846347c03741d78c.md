@@ -1,7 +1,7 @@
 ---
 title: "Babay De Bad Zahra Har Zulm Seh Gayi Aye Lyrics In Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qambar"

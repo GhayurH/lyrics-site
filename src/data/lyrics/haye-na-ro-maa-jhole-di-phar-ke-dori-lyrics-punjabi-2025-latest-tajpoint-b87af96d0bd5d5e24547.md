@@ -1,7 +1,7 @@
 ---
 title: "Haye Na Ro Maa Jhole Di Phar Ke Dori Lyrics Punjabi 2025 Latest"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Soz"
 poet: "Akhtar"

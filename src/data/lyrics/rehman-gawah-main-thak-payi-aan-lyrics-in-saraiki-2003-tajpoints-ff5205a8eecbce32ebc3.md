@@ -1,7 +1,7 @@
 ---
 title: "Rehman Gawah Main Thak Payi Aan Lyrics In Saraiki 2003"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

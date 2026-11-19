@@ -1,7 +1,7 @@
 ---
 title: "Zainab Kurlaway Wain Kare Toon Aj Te Akhiyaan Cha Baba Lyrics Punjabi 2020"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"

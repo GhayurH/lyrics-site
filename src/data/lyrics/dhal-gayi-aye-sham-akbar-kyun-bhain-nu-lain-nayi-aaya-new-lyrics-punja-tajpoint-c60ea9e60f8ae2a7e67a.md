@@ -1,7 +1,7 @@
 ---
 title: "Dhal Gayi Aye Sham Akbar Kyun Bhain Nu Lain Nayi Aaya New Lyrics Punjabi 2025"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"

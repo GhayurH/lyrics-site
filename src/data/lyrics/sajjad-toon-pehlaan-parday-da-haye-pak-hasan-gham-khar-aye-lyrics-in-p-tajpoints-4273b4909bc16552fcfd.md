@@ -1,7 +1,7 @@
 ---
 title: "Sajjad Toon Pehlaan Parday Da Haye Pak Hasan Gham Khar Aye Lyrics In Punjabi 2018"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Zeeshan"

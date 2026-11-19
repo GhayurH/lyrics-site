@@ -1,7 +1,7 @@
 ---
 title: "Akbar Behn Teri Marjaave Na Sughra (sa)"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Noha"
 tags: ["noUrdu"]

@@ -1,7 +1,7 @@
 ---
 title: "Ya Ali Teri Zahra Te Aye Kaisa Wela Aaya Aye Lyrics Punjabi 2025"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"

@@ -1,7 +1,7 @@
 ---
 title: "Alma Waliya Bhain Teri Mangdi Aye Dua Lyrics Punjabi 2025 New"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Dua"
 poet: "Najfi"

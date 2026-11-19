@@ -1,7 +1,7 @@
 ---
 title: "Kazim Da Jnaza Logo Saqlain Ali Lyrics Punjabi 2022"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Azhar"

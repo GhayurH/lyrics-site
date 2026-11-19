@@ -1,7 +1,7 @@
 ---
 title: "Tauheed Parastaan Di Chal Gayi Talwar Ali Te Lyrics In Punjabi 2024"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Raza"

@@ -1,7 +1,7 @@
 ---
 title: "Jaan Lay Jaway Ga Meri Aye Wichora Veer Raza Lyrics In Punjabi 2026"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"

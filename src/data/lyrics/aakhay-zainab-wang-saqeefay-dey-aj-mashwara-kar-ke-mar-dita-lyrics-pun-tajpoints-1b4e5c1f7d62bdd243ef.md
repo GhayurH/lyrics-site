@@ -1,7 +1,7 @@
 ---
 title: "Aakhay Zainab Wang Saqeefay Dey Aj Mashwara Kar Ke Mar Dita Lyrics Punjabi 2021"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"

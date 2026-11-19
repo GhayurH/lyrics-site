@@ -1,7 +1,7 @@
 ---
 title: "Akbar Tu Kar Layiyan Ne Karbal Teyariyan Ravi Road Lyrics In Punjabi 2007"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akhtar"

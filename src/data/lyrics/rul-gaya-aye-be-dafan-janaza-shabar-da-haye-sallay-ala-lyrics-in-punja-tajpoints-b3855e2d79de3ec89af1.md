@@ -1,7 +1,7 @@
 ---
 title: "Rul Gaya Aye Be Dafan Janaza Shabar Da Haye Sallay Ala Lyrics In Punjabi 2018"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Ijaz"

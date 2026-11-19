@@ -1,7 +1,7 @@
 ---
 title: "Sajjad Di Maut Bazar De Wich Ayho Manzar Dasdi Aye Lyrics In Punjabi 2018"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Hasan"

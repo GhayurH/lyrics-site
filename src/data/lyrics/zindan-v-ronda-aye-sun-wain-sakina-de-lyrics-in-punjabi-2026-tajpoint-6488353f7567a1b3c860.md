@@ -1,7 +1,7 @@
 ---
 title: "Zindan V Ronda Aye Sun Wain Sakina De Lyrics In Punjabi 2026"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Muhsin"

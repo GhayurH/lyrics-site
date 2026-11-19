@@ -1,7 +1,7 @@
 ---
 title: "Nana Maa Zakhmi Aye Lyrics In Punjabi 2020 Mir Hasan"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"

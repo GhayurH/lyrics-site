@@ -1,7 +1,7 @@
 ---
 title: "Veeraan Diyaan Tangaan Ne Mainu Maar Mukaya Aye Lyrics In Punjabi 2016"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asif"

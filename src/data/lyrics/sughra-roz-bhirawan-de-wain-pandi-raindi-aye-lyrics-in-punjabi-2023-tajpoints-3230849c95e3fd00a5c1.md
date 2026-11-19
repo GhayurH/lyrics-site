@@ -1,7 +1,7 @@
 ---
 title: "Sughra Roz Bhirawan De Wain Pandi Raindi Aye Lyrics In Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sabir"

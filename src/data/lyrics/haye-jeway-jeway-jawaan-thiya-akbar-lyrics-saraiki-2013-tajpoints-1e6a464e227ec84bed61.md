@@ -1,7 +1,7 @@
 ---
 title: "Haye Jeway Jeway Jawaan Thiya Akbar Lyrics Saraiki 2013"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"

@@ -1,7 +1,7 @@
 ---
 title: "Veeran Main Bemar Nahi Lyrics In Punjabi 2009"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"

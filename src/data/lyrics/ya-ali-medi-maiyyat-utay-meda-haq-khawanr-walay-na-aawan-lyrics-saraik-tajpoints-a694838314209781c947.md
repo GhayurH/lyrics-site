@@ -1,7 +1,7 @@
 ---
 title: "Ya Ali Medi Maiyyat Utay Meda Haq Khawanr Walay Na Aawan Lyrics Saraiki 2018"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qurban"

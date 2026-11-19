@@ -1,7 +1,7 @@
 ---
 title: "Sachiyaan Da Peer Ali Sonu Monu Lyrics In Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Sonu"

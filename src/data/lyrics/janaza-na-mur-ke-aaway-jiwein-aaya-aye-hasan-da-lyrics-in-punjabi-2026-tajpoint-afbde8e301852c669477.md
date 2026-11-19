@@ -1,7 +1,7 @@
 ---
 title: "Janaza Na Mur Ke Aaway Jiwein Aaya Aye Hasan Da Lyrics In Punjabi 2026"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohsin"

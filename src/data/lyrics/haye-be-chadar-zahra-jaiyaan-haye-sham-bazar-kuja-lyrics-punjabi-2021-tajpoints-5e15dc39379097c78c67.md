@@ -1,7 +1,7 @@
 ---
 title: "Haye Be Chadar Zahra Jaiyaan Haye Sham Bazar Kuja Lyrics Punjabi 2021"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"

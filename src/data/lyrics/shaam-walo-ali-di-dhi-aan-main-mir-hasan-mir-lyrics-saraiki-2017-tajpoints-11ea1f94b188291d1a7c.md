@@ -1,7 +1,7 @@
 ---
 title: "Shaam Walo Ali Di Dhi Aan Main Mir Hasan Mir Lyrics Saraiki 2017"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

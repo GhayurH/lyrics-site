@@ -1,7 +1,7 @@
 ---
 title: "Sun Lay Ghazi Mola Duawaan Lyrics In Punjabi 2010"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Munajat"
 poet: "Mumtaz"

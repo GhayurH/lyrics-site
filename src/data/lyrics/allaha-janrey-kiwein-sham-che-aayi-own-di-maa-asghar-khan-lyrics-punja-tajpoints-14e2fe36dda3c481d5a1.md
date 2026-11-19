@@ -1,7 +1,7 @@
 ---
 title: "Allaha Janrey Kiwein Sham Che Aayi Own Di Maa Asghar Khan Lyrics Punjabi 2012"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

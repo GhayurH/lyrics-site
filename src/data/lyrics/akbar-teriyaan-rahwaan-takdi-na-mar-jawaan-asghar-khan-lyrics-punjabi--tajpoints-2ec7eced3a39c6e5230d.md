@@ -1,7 +1,7 @@
 ---
 title: "Akbar Teriyaan Rahwaan Takdi Na Mar Jawaan Asghar Khan Lyrics Punjabi 2019"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"

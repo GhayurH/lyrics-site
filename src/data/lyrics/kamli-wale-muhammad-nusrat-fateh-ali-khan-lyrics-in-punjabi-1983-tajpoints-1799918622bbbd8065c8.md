@@ -1,7 +1,7 @@
 ---
 title: "Kamli Wale Muhammad Nusrat Fateh Ali Khan Lyrics In Punjabi 1983"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Naat"
 poet: "Bari"

@@ -1,7 +1,7 @@
 ---
 title: "Khat Sughra Da Aaya Aye Akbar Toor Na Sawaan Lyrics Punjabi 2025 New"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"

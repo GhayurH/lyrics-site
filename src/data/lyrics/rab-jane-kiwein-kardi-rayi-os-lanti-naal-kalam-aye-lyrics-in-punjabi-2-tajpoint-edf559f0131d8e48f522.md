@@ -1,7 +1,7 @@
 ---
 title: "Rab Jane Kiwein Kardi Rayi Os Lanti Naal Kalam Aye Lyrics In Punjabi 2026"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Samar"

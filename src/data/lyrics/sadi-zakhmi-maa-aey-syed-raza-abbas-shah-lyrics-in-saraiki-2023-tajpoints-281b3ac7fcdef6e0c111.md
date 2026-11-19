@@ -1,7 +1,7 @@
 ---
 title: "Sadi Zakhmi Maa Aey Syed Raza Abbas Shah Lyrics In Saraiki 2023"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Other"
 poet: "Kazim"

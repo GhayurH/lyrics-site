@@ -1,7 +1,7 @@
 ---
 title: "Hussain Wada Nibawan"
-language: "Urdu"
-lang: "ur"
+language: "Saraiki"
+lang: "skr"
 direction: "ltr"
 kalamType: "Noha"
 tags: ["noUrdu"]

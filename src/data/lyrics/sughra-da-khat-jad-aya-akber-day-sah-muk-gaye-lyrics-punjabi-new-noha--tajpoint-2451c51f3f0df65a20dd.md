@@ -1,7 +1,7 @@
 ---
 title: "Sughra Da Khat Jad Aya Akber Day Sah Muk Gaye Lyrics Punjabi New Noha 13 Muharram 2025"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Sajjad"

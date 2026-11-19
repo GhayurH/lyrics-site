@@ -1,7 +1,7 @@
 ---
 title: "Ghazi Tere Bajon Lyrics In Punjabi 2010 Asghar Khan"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"

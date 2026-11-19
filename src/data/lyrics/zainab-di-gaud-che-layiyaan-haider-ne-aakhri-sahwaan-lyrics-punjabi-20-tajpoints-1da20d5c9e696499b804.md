@@ -1,7 +1,7 @@
 ---
 title: "Zainab Di Gaud Che Layiyaan Haider Ne Aakhri Sahwaan Lyrics Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Sajjad"

@@ -1,7 +1,7 @@
 ---
 title: "Zanjeran Wich Ro Ro Ke Kenda Imam Aye Aida Naam Sham Aye Lyrics Punjabi 2025"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

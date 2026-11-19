@@ -1,7 +1,7 @@
 ---
 title: "Jhola Veera Da Main Nana Roz Jholawan Asghar Khan Lyrics Punjabi 2012"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

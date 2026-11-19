@@ -1,7 +1,7 @@
 ---
 title: "Tu Maan Mera Ghazi Tak Haal Mera Ghazi Lyrics In Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

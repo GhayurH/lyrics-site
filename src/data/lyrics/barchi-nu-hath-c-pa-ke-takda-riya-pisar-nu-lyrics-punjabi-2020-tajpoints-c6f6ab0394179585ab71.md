@@ -1,7 +1,7 @@
 ---
 title: "Barchi Nu Hath C Pa Ke Takda Riya Pisar Nu Lyrics Punjabi 2020"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jarrar"

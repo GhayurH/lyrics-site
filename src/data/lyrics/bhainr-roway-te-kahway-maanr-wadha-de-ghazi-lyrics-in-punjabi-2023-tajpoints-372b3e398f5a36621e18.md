@@ -1,7 +1,7 @@
 ---
 title: "Bhainr Roway Te Kahway Maanr Wadha De Ghazi Lyrics In Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"

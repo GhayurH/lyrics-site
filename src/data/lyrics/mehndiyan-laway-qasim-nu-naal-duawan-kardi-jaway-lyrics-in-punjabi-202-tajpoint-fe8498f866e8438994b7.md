@@ -1,7 +1,7 @@
 ---
 title: "Mehndiyan Laway Qasim Nu Naal Duawan Kardi Jaway Lyrics In Punjabi 2026 Ch Faiyaz Party Sialkot"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

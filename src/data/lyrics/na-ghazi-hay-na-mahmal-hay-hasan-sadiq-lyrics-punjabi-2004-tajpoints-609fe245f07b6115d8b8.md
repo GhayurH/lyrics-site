@@ -1,7 +1,7 @@
 ---
 title: "Na Ghazi Hay Na Mahmal Hay Hasan Sadiq Lyrics Punjabi 2004"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mumtaz"

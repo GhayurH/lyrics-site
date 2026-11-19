@@ -1,7 +1,7 @@
 ---
 title: "Qurbaniyaan Wekh Lay Mola Pak Shabbir Diyaan Hasan Sadiq Lyrics In Punjabi 1995"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

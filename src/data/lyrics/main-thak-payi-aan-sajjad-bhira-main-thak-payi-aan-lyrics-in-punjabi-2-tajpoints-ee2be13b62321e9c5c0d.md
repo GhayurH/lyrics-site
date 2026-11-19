@@ -1,7 +1,7 @@
 ---
 title: "Main Thak Payi Aan Sajjad Bhira Main Thak Payi Aan Lyrics In Punjabi 2020"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adeel"

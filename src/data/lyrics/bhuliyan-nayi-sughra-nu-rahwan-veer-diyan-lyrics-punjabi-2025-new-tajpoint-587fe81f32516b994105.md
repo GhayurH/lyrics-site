@@ -1,7 +1,7 @@
 ---
 title: "Bhuliyan Nayi Sughra Nu Rahwan Veer Diyan Lyrics Punjabi 2025 New"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"

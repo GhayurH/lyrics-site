@@ -1,7 +1,7 @@
 ---
 title: "Kal Door Ali Da Si Wich Kofe Amerana Lyrics In Punjabi 2012"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Nisar"

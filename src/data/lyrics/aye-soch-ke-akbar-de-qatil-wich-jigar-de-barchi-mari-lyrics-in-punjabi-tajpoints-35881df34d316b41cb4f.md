@@ -1,7 +1,7 @@
 ---
 title: "Aye Soch Ke Akbar De Qatil Wich Jigar De Barchi Mari Lyrics In Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Qasim"

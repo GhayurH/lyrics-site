@@ -1,7 +1,7 @@
 ---
 title: "Baba Teri Shahadat Zainab Di Jan Le Gayi Lyrics Punjabi 2014"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"

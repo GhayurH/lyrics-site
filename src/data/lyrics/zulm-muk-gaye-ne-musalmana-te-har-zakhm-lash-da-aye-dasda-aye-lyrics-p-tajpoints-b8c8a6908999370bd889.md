@@ -1,7 +1,7 @@
 ---
 title: "Zulm Muk Gaye Ne Musalmana Te Har Zakhm Lash Da Aye Dasda Aye Lyrics Punjabi 2026"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

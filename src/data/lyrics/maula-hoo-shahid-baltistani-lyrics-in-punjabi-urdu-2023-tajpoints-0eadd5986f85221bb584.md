@@ -1,7 +1,7 @@
 ---
 title: "Maula Hoo Shahid Baltistani Lyrics In Punjabi Urdu 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Darwaish"

@@ -1,7 +1,7 @@
 ---
 title: "Meraj Di Pak Aba Payi Nane Da Amama Paya Lyrics Punjabi 2025 Latest"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"

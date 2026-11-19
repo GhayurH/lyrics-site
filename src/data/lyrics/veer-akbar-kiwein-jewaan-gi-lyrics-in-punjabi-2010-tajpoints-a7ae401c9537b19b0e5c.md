@@ -1,7 +1,7 @@
 ---
 title: "Veer Akbar Kiwein Jewaan Gi"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Akbar"

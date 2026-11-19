@@ -1,7 +1,7 @@
 ---
 title: "Dhiyan Des Paraye Wekhiya Babal Aakhri Wari Lyrics Punjabi 2026"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"

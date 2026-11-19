@@ -1,7 +1,7 @@
 ---
 title: "Ya Ali Jewan Tere Lal Hasan Sadiq Lyrics In Punjabi 2020"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Khursheed"

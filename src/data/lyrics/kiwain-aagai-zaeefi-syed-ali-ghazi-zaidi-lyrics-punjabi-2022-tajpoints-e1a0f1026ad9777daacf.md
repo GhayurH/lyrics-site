@@ -1,7 +1,7 @@
 ---
 title: "Kiwain Aagai Zaeefi Syed Ali Ghazi Zaidi Lyrics Punjabi 2022"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Aqeel"

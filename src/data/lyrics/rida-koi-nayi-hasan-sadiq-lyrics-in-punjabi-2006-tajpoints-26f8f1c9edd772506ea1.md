@@ -1,7 +1,7 @@
 ---
 title: "Rida Koi Nayi Hasan Sadiq Lyrics In Punjabi 2006"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

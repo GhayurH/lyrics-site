@@ -1,7 +1,7 @@
 ---
 title: "Haye Puchdi Bhain Aye Ro Ro Ke Kyun Kafan Da Rang Badlaya Aye Lyrics In Punjabi 28 Safar 2026"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Rizwan"

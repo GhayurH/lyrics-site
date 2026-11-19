@@ -1,7 +1,7 @@
 ---
 title: "Mastoor Koi Jag Te Ainj Be Rida Na Howay Hasan Sadiq Lyrics Punjabi 2003"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Riaz"

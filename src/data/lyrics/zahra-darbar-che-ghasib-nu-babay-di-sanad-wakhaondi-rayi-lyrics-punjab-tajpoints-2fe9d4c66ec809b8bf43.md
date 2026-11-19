@@ -1,7 +1,7 @@
 ---
 title: "Zahra Darbar Che Ghasib Nu Babay Di Sanad Wakhaondi Rayi Lyrics Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Mohsin"

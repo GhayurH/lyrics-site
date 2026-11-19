@@ -1,7 +1,7 @@
 ---
 title: "Eyho Gham Muka Gaya Aye Sajjad Di Jawani Ansar Party Lyrics In Punjabi 2010"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adil"

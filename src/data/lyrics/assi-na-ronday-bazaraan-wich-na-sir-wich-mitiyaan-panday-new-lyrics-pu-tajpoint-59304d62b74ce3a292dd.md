@@ -1,7 +1,7 @@
 ---
 title: "Assi Na Ronday Bazaraan Wich Na Sir Wich Mitiyaan Panday New Lyrics Punjabi 2025"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Najfi"

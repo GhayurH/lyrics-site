@@ -1,7 +1,7 @@
 ---
 title: "Jori Maa Taun Vera Haye Putran Di Ais Umray Wichar Na Jaway Lyrics Punjabi 2026 Amir Ali Najfi Ch Faiyaz Party Sialkot"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

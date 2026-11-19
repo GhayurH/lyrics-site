@@ -1,7 +1,7 @@
 ---
 title: "Veeran Teriyaan Rahwaan Te Main Rondi Na Mar Jawaan Lyrics In Punjabi 2020"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Tauqeer"

@@ -1,7 +1,7 @@
 ---
 title: "Aa Gaya Bazar Sham Da Bazar Gudi Party Lyrics In Punjabi 2022"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 tags: ["noUrdu"]

@@ -1,7 +1,7 @@
 ---
 title: "Jandeyan Karbal Akbar Nu Deway Bhain Sada Asghar Khan Lyrics Punjabi 2015"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asghar"

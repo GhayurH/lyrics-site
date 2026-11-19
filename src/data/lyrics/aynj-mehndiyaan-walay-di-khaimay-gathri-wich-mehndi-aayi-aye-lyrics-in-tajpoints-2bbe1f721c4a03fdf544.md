@@ -1,7 +1,7 @@
 ---
 title: "Aynj Mehndiyaan Walay Di Khaimay Gathri Wich Mehndi Aayi Aye Lyrics In Punjabi 2020"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Asad"

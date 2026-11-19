@@ -1,7 +1,7 @@
 ---
 title: "Bhain Teri Nu Waday Veer Ali Akbar Bhulday Nayi New Lyrics Punjabi 2025"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"

@@ -1,7 +1,7 @@
 ---
 title: "Andar Kalma Kil Kil Karda Ishq Sikhaya Kalma Hoo Lyrics In Punjabi 2017"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Bahoo"

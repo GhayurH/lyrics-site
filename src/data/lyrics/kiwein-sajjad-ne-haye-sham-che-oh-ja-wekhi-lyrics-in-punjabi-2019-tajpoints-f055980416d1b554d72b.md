@@ -1,7 +1,7 @@
 ---
 title: "Kiwein Sajjad Ne Haye Sham Che Oh Ja Wekhi Lyrics In Punjabi 2019"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Adeel"

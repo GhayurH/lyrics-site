@@ -1,7 +1,7 @@
 ---
 title: "Ghazi Mera Peer Shahid Baltistani Lyrics Punjabi 2026"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Muhsin"

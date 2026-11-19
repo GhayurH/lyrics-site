@@ -1,7 +1,7 @@
 ---
 title: "Babay Di Wasiyat E Qasim Mere Khon Da Asar Wakhawin Sheraz Khan Lyrics Punjabi 2023"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Jaun"

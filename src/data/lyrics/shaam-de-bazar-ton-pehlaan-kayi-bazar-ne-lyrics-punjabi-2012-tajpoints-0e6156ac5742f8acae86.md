@@ -1,7 +1,7 @@
 ---
 title: "Shaam De Bazar Ton Pehlaan Kayi Bazar Ne Lyrics Punjabi 2012"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Akbar"

@@ -1,7 +1,7 @@
 ---
 title: "Rab Janrey Te Hussain Janrey Lyrics In Punjabi 2010"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Manqabat"
 poet: "Qaiser"

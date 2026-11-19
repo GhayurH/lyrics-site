@@ -1,7 +1,7 @@
 ---
 title: "Rukda Nayi Akhiyaan Choon Haye Khon Muhari Da"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Noha"
 poet: "Tanveer"

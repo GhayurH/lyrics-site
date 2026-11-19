@@ -1,7 +1,7 @@
 ---
 title: "Rabba Bach Jaway Bach Jaway Veer Hussain Lyrics Punjabi 2020"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Saqlain"

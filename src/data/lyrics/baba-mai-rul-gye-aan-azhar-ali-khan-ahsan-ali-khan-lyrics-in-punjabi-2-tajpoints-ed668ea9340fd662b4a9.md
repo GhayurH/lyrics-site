@@ -1,7 +1,7 @@
 ---
 title: "Baba Mai Rul Gye Aan Azhar Ali Khan – Ahsan Ali Khan Lyrics In Punjabi 2021"
-language: "Urdu"
-lang: "ur"
+language: "Panjabi"
+lang: "pa"
 direction: "ltr"
 kalamType: "Other"
 poet: "Osaaf"
