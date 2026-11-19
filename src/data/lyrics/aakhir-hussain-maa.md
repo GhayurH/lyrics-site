@@ -70,6 +70,36 @@ romanLyrics: |-
   Rota hai jo bhi tujh pe karti huṅ saath girya
   Rote hue Hasan se nauha tera likhaauṅ
   Aakhir Husain maaṅ huṅ
+
+  10
+  Hukm-e-Yazidi aaya tiroṅ pe tir aaya
+  Laashoṅ ke baad laasha Zahra ke ghar ka aaya
+  Tanha tujhe yahaaṅ par maiṅ kaise chhor jaauṅ
+
+  11
+  Ujre na ghar kisi ka karti huṅ maiṅ duaaeṅ
+  Maqtal meiṅ aa ke tujh ko deti huṅ maiṅ sadaaeṅ
+  Kiuṅ bolta nahiṅ hai aa ke tujhe manaauṅ
+
+  12
+  Khanjar chala na us pe hai naazoṅ ka ye paala
+  Gardan na kaat us ki Ahmad ka hai dulaara
+  Dunya se jaa ke beta kahiṅ phir maiṅ mar na jaauṅ
+
+  13
+  Dhunduṅ kahaaṅ pe jaa ke beta kidhar hai mera
+  Paani diya na us ko jalta jigar hai mera
+  Tukre utha utha ke laasha tera banaauṅ
+
+  14
+  Darbaar-e-Shaam meiṅ kiuṅ Zainab ka sar khula hai
+  Haaye haaye meri Sakina ka kurta bhi jala hai
+  Is haal-e-bebasi meiṅ beta maiṅ mar na jaauṅ
+
+  15
+  Roye qabr meiṅ beta maqtal meiṅ roye Zahra
+  Darbaar-e-sharaabi meiṅ roti rahi hai Zahra
+  Rote hue Hasan se nauha tera likhaauṅ
 # source_id: nohayonline:cfe35eea163990ab969a
 # source_url: https://www.nohayonline.com/details_content.php?id=2366
 # raw_sha256: 703baabdb2877a2e4c7bbc48f5abbb61a74d9e60d664cc9263f890e108e827b8
@@ -133,3 +163,33 @@ romanLyrics: |-
 روتا ہے جو بھی تجھ پہ کرتی ہوں ساتھ گریہ
 روتے ہوئے حسن سے نوحہ تیرا لکھاؤں
 آخر حسین ماں ہوں
+
+۱۰
+حکمِ یزیدی آیا تیروں پہ تیر آیا
+لاشوں کے بعد لاشہ زہراؑ کے گھر کا آیا
+تنہا تجھے یہاں پر میں کیسے چھوڑ جاؤں
+
+۱۱
+اُجڑے نہ گھر کسی کا کرتی ہوں میں دعائیں
+مقتل میں آ کے تجھ کو دیتی ہوں میں صدائیں
+کیوں بولتا نہیں ہے آ کے تجھے مناؤں
+
+۱۲
+خنجر چلا نہ اس پہ ہے نازوں کا یہ پالا
+گردن نہ کاٹ اس کی احمدؐ کا ہے دلارہ
+دنیا سے جا کے بیٹا کہیں پھر میں مر نہ جاؤں
+
+۱۳
+ڈھونڈوں کہاں پہ جا کے بیٹا کدھر ہے میرا
+پانی دیا نہ اس کو جلتا جگر ہے میرا
+ٹکڑے اٹھا اٹھا کے لاشہ تیرا بناؤں
+
+۱۴
+دربارِ شام میں کیوں زینبؑ کا سر کھلا ہے
+ہائے ہائے میری سکینہؑ کا کرتا بھی جلا ہے
+اس حال بے بسی میں بیٹا میں مر نہ جاؤں
+
+۱۵
+روئے قبر میں بیٹا مقتل میں روئے زہراؑ
+دربارِ شرابی میں روتی رہی ہے زہراؑ
+روتے ہوئے حسن سے نوحہ تیرا لکھاؤں
