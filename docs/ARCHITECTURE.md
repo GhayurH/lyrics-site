@@ -43,7 +43,7 @@ The `scripts/source-workflow.mjs` command orchestrates source checks and sync. T
 - Individual lyrics: `/lyrics/[id]/`. The route delegates metadata/header and Pagefind indexing to `LyricHeader.astro` and `LyricSearchIndex.astro`. Standalone lyric readers offer only available Urdu/Roman text editions; original scans are exclusive to Basta.
 - Basta: landing, printed pages (`/basta/[page]/`), index, continuous (`/basta/read/`), verified individual poem (`/basta/kalam/[id]/`). Unverified source mappings retain printed-page access but do **not** acquire verified poem URLs.
 - Catalog endpoints under `/data/` are generated from published sources. `lib/catalog.ts` owns lyric card and Recitation catalog adapters, including canonical identities.
-- Search: Pagefind is built from rendered pages; `lib/search-normalization.ts` adds search-only aliases without modifying displayed poetry.
+- Search: Pagefind is built from rendered pages. `lib/search-normalization.ts` provides Arabic/Urdu keyboard, harakat, ZWNJ and reviewed Roman spelling normalization shared by index aliases and the browser search adapter; the original entered query and URL remain unchanged. `force_language: en` keeps a **single index** across all source languages and Roman transcriptions, rather than creating a language-specific search silo. `tests/search-normalization.test.mjs` checks vocabulary boundaries and `tests/browser/search.spec.mjs` checks live Pagefind retrieval.
 
 ## Browser features
 
