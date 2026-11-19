@@ -91,7 +91,13 @@ const pageIndexEntries = typedIndexEntries.filter(
   (indexEntry) => indexEntry.page === page &&
     !indexedKalamIds.has(bastaKalamId(indexEntry)),
 );
-const pageKalamTitle = pageIndexEntries.length === 1 ? pageIndexEntries[0].name : undefined;
+// Printed-page metadata must use the full printed index. The subset above
+// deliberately excludes verified kalams only to avoid duplicate Pagefind results.
+const pageTitleEntries = typedIndexEntries.filter((indexEntry) => indexEntry.page === page);
+const pageTitleEntry = pageTitleEntries.length === 1 ? pageTitleEntries[0] : undefined;
+const pageKalamTitle = pageTitleEntry
+  ? [pageTitleEntry.name, pageTitleEntry.romanName].filter(Boolean).join(" — ")
+  : undefined;
 const bastaIndexSearchTerms = pageIndexEntries
   .flatMap((indexEntry) => [
     indexEntry.name,
