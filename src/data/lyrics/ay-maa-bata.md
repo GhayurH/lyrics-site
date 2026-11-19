@@ -8,7 +8,7 @@ kalamType: "Noha"
 poet: "Qamar Hasnain"
 reciter: "Shadman Raza"
 tags: []
-aliases: ["Ay Maa Bata"]
+aliases: ["Ay Maa Bata", "اے ماں بتا حسینؑ کو روتے ہیں کس طرح"]
 published: true
 romanLyrics: |-
   Ek roz maaṅ se puchha tha ye Shadman ne
