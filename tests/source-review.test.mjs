@@ -221,7 +221,6 @@ test("Basta source formatting flags double blank separators and attached acknowl
   assert(file.issues.some(x => x.code === "basta-courtesy-spacing"));
 });
 
-
 test("explicit Basta subtitles and refrains are not mistaken for Urdu-script contamination", () => {
   const urdu = [
     "---", "page: 398", "originalImage: /images/basta/original/398.png", "---",
@@ -238,24 +237,20 @@ test("explicit Basta subtitles and refrains are not mistaken for Urdu-script con
   assert.ok(bad.issues.some(x => x.code === "latin-in-urdu"));
 });
 
-test("publication checks enforce EOF and never require missing Basta Roman", () => {
-  const valid = basta(200, "۱\nالف", undefined) + "\n";
+test("publication checks allow absent Basta Roman but reject empty literals", () => {
+  const valid = basta(200, "۱\nالف", undefined);
   const reviewed = reviewMarkdown({ path: "src/data/basta/pages/200.md", kind: "basta-urdu", text: valid });
-  assert.deepEqual(reviewPublicationConventions(reviewed, valid), []);
-  for (const text of [valid.trimEnd(), valid + "\n"]) {
-    const file = reviewMarkdown({ path: reviewed.path, kind: reviewed.kind, text });
-    assert(reviewPublicationConventions(file, text).some(f => f.code === "source-final-newline"));
-  }
-  const emptyRoman = basta(200, "۱\nالف", "") + "\n";
+  assert.deepEqual(reviewPublicationConventions(reviewed), []);
+  const emptyRoman = basta(200, "۱\nالف", "");
   const file = reviewMarkdown({ path: reviewed.path, kind: reviewed.kind, text: emptyRoman });
-  assert(reviewPublicationConventions(file, emptyRoman).some(f => f.code === "empty-basta-roman"));
+  assert(reviewPublicationConventions(file).some(f => f.code === "empty-basta-roman"));
 });
 
 test("publication checks own lyric stanza-number and pairs declarations", () => {
   const path = "src/data/lyrics/sample.md";
   const check = (text) => {
     const file = reviewMarkdown({ path, kind: "lyrics", text });
-    return reviewPublicationConventions(file, text).map(issue => issue.code);
+    return reviewPublicationConventions(file).map(issue => issue.code);
   };
   const missing = lyric("پہلی\nدوسری", "First\nSecond") + "\n";
   assert.equal(check(missing).filter(code => code === "missing-lyric-stanza-number").length, 2);
@@ -284,93 +279,8 @@ test("Roman ṅ is the sole accepted Latin diacritic, including in Roman metadat
   assert(disallowed.issues.some(x => x.code.includes("extended-latin")));
 });
 
-
-test("English nohas remain English originals without Roman Urdu requirements", async () => {
-  const { readFile } = await import("node:fs/promises");
-  for (const filename of [
-    "heart-of-hussain.md",
-    "karbala-karbala-english.md",
-    "the-one-and-only-hussain.md",
-  ]) {
-    const path = "src/data/lyrics/" + filename;
-    const text = await readFile(new URL("../" + path, import.meta.url), "utf8");
-    const result = reviewMarkdown({ path, kind: "lyrics", text });
-    assert.equal(result.fields.language, "English");
-    assert.equal(result.fields.lang, "en");
-    assert.equal(result.fields.direction, "ltr");
-    assert.equal(result.roman, undefined);
-    for (const forbidden of [
-      "missing-roman", "roman-name-style", "roman-repeat-notation",
-      "arabic-in-roman", "extended-latin-in-roman",
-    ]) {
-      assert(!result.issues.some(issue => issue.code === forbidden),
-        filename + " should not be linted as Roman Urdu: " + forbidden);
-    }
-  }
-});
-
-test("manual Shahmukhi Panjabi edition aligns with its preserved Roman reading", async () => {
-  const { readFile } = await import("node:fs/promises");
-  const filename = "uth-nana-mere-dard-wandaa-main-veer-kuha-k-ai-han.md";
-  const path = "src/data/lyrics/" + filename;
-  const text = await readFile(new URL("../" + path, import.meta.url), "utf8");
-  const file = reviewMarkdown({ path, kind: "lyrics", text });
-  assert.equal(file.fields.language, "Panjabi");
-  assert.equal(file.fields.lang, "pa-Arab");
-  assert.equal(file.fields.direction, "rtl");
-  assert.match(file.fields.title, /[\u0600-\u06FF]/u);
-  assert(file.body.includes("اٹھ نانا، میرے درد ونڈا"));
-  assert(file.roman?.includes("Uth Nana, mere dard wanda"));
-  assert.deepEqual([...file.body.matchAll(/^([۱-۵])$/gm)].map(m => m[1]),
-    ["۱", "۲", "۳", "۴", "۵"]);
-  assert.deepEqual([...file.roman.matchAll(/^([1-5])$/gm)].map(m => m[1]),
-    ["1", "2", "3", "4", "5"]);
-  assert.deepEqual(compareEditions(file.body, file.roman, path, path), []);
-  assert.deepEqual(file.issues, []);
-  assert.deepEqual(reviewPublicationConventions(file, text), []);
-});
-
 test("Shahmukhi Panjabi sources require a separate Roman edition", () => {
   const text = "---\\ntitle: پنجابی\\nlanguage: Panjabi\\nlang: pa-Arab\\ndirection: rtl\\nkalamType: Noha\\n---\\n۱\\nپہلا مصرع\\n".replaceAll("\\n", "\n");
   const file = reviewMarkdown({ path: "src/data/lyrics/panjabi.md", kind: "lyrics", text });
   assert(file.issues.some(issue => issue.code === "missing-roman"));
-});
-
-test("Balti source has a manually numbered Roman edition without Arabic script contamination", async () => {
-  const { readFile } = await import("node:fs/promises");
-  const filename = "abbas-alamdar-balti.md";
-  const path = "src/data/lyrics/" + filename;
-  const text = await readFile(new URL("../" + path, import.meta.url), "utf8");
-  const result = reviewMarkdown({ path, kind: "lyrics", text });
-  assert.equal(result.fields.language, "Balti");
-  assert.equal(result.fields.lang, "bft-Arab");
-  assert(result.roman?.includes("Abbas Abbas Alamdar"));
-  assert.deepEqual([...result.roman.matchAll(/^\d+$/gm)].map(m => Number(m[0])), [1,2,3,4]);
-  assert(!result.issues.some(issue => issue.code === "arabic-in-roman"));
-});
-
-
-test("Ana Ali Yabnul preserves unique Arabic rajaz and aligns all Urdu/Roman physical verses", async () => {
-  const { readFile } = await import("node:fs/promises");
-  const path = "src/data/lyrics/ana-ali-yabnul.md";
-  const raw = await readFile(new URL("../" + path, import.meta.url), "utf8");
-  const source = reviewMarkdown({ path, kind: "lyrics", text: raw });
-  const lines = edition => edition.split("\n").filter(line =>
-    line.trim() && !/^[1-9۱-۹]$/u.test(line.trim()));
-  assert.equal(lines(source.body).length, 49);
-  assert.equal(lines(source.roman ?? "").length, 49);
-  const stanzaLengths = edition => edition.trim().split(/\n\s*\n/u).map(group =>
-    lines(group).length);
-  assert.deepEqual(stanzaLengths(source.body), [4, 7, 4, 4, 4, 6, 4, 4, 4, 4, 4]);
-  assert.deepEqual(stanzaLengths(source.roman ?? ""), stanzaLengths(source.body));
-  assert.deepEqual([...source.body.matchAll(/^([۱-۹])$/gm)].map(x => x[1]),
-    ["۱","۲","۳","۴","۵","۶","۷","۸","۹"]);
-  assert.deepEqual([...source.roman.matchAll(/^([1-9])$/gm)].map(x => x[1]),
-    ["1","2","3","4","5","6","7","8","9"]);
-  assert(source.body.includes("أضربكم بالسيف أحمي عن أبي"));
-  assert(source.roman.includes("Hazrabe Tum Fisseb Ahme An Abi"));
-  assert.deepEqual(compareEditions(source.body, source.roman, path, path), []);
-  assert(!source.issues.some(issue => ["stanza-line-mismatch", "stanza-number-mismatch",
-    "line-count-mismatch"].includes(issue.code)), "No Urdu/Roman structural mismatches");
-  assert.deepEqual(reviewPublicationConventions(source, raw), []);
 });

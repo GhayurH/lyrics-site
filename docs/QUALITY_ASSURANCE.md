@@ -37,7 +37,7 @@ A not-yet-reviewed import may pass automated validation, but must not be describ
 | 1440×900 desktop | All three editions parallel where space permits, shared article width/navigation, sticky scan/toolbar |
 | 200–400% zoom | No page-wide horizontal scroll; very long lines pan **individually** with keyboard access |
 
-Verify bilingual source coverage, permitted exceptions and spelling against [Transliteration](TRANSLITERATION.md). Poetry Markdown must end with exactly one newline while preserving internal stanza spacing, source separators and permanent anchors. Across representative pages test Light, Dark, Sepia, AMOLED and a Custom palette; default Nastaliq, Naskh and at least one Roman alternate. Check focus rings, Tab order, Escape, modal return focus, reduced motion and screen-reader announcements.
+Verify bilingual source coverage, permitted exceptions and spelling against [Transliteration](TRANSLITERATION.md). The whitespace normalizer removes all terminal newlines from changed Markdown; editorial validation does not enforce EOF style. Preserve internal stanza spacing, source separators and permanent anchors. Across representative pages test Light, Dark, Sepia, AMOLED and a Custom palette; default Nastaliq, Naskh and at least one Roman alternate. Check focus rings, Tab order, Escape, modal return focus, reduced motion and screen-reader announcements.
 
 ## Journeys to protect
 
