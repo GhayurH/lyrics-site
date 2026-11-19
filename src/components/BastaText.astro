@@ -28,8 +28,11 @@ const kalams = splitBastaKalams(text);
         )}
         <div class="basta-kalam-text">
           {layoutBastaKalam(kalam, indentStanzas, stanzaStyle, false, fragmentStanzaPattern(stanzaPattern, stanzaPatterns, index)).filter((line) => !line.hidden).map((line) => (
-            <span class={bastaVerseClassNames(line)}
-              data-pagefind-ignore={indexForSearch && Boolean(line.stanzaNumber) ? true : undefined}>{line.text}</span>{"\n"}
+            <>
+              <span class={bastaVerseClassNames(line)}
+                data-pagefind-ignore={indexForSearch && Boolean(line.stanzaNumber) ? true : undefined}>{line.text}</span>
+              {"\n"}
+            </>
           ))}
         </div>
       </>
