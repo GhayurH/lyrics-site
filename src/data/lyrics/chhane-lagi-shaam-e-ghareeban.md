@@ -6,7 +6,6 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Salam"
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
-
 stanzaPattern: "2+2+2"
 tags: []
 aliases:
