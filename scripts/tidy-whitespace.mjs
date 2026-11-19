@@ -52,7 +52,7 @@ const types = new Set([".md", ".mjs", ".js", ".ts", ".tsx", ".jsx", ".astro",
   ".css", ".json", ".yml", ".yaml", ".toml", ".csv", ".txt"]);
 const tidy = text => {
   if (!text) return text;
-  // CRLF, trailing ASCII spaces/tabs, excessive EOF newlines, and missing EOF newline.
+  // CRLF, trailing ASCII spaces/tabs, and all EOF newlines (including the final one).
   // Do not trim leading/interior whitespace or normalize Unicode.
   return text.replace(/\r\n?/gu, "\n").replace(/[ \t]+$/gmu, "")
     .replace(/\n+$/u, "") + "\n";
