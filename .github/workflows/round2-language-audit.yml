@@ -1,4 +1,5 @@
 name: Round2 original-language full audit
+# Read-only corpus audit; no lyric text edits or CI build.
 on:
   push:
     branches: [round2-kalams-2026-11-14]
