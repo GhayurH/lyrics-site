@@ -15,10 +15,6 @@ published: false
 # editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
-URDU اردو
-
-English Translation
-
 Jab qata ki masafat e shab aaftaab ne
 Jalwa kiya sahar ke rukhe behijaab ne
 

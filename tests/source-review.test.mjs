@@ -284,3 +284,15 @@ test("Shahmukhi Panjabi sources require a separate Roman edition", () => {
   const file = reviewMarkdown({ path: "src/data/lyrics/panjabi.md", kind: "lyrics", text });
   assert(file.issues.some(issue => issue.code === "missing-roman"));
 });
+
+test("non-English lyrics reject translation fields without rejecting transliteration", () => {
+  const canonical = lyric("۱\nسلام", "1\nSalam");
+  const translated = canonical.replace("romanLyrics: |-\n",
+    "englishTranslation: |-\n  English rendition\nenglishTranslationAlternate: |-\n  Another rendition\nromanLyrics: |-\n");
+  const findings = reviewMarkdown({ path: "src/data/lyrics/test.md", kind: "lyrics",
+    text: translated }).issues;
+  assert.equal(findings.filter(x => x.code === "unwanted-english-translation").length, 2);
+  const clean = reviewMarkdown({ path: "src/data/lyrics/test.md", kind: "lyrics",
+    text: canonical }).issues;
+  assert(!clean.some(x => x.code === "unwanted-english-translation"));
+});

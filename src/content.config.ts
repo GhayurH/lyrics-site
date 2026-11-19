@@ -53,9 +53,6 @@ const lyrics = defineCollection({
     // Printed Basta page and the cross-reference wording (use both together).
     bastaPage: z.number().int().positive().optional(),
     bastaNote: z.enum(["original-selection", "additional-stanzas"]).optional(),
-    // Preserve source English translations separately from pronunciation-only Roman lyrics.
-    englishTranslation: z.string().optional(),
-    englishTranslationAlternate: z.string().optional(),
     romanLyrics: z.string().optional(),
     // Optional shared stanza length/layout, e.g. 2, 4, "4+2", "2+2+2".
     stanzaPattern: stanzaPattern.optional(),

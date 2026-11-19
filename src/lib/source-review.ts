@@ -155,6 +155,14 @@ export function reviewMarkdown(source: MarkdownSource): ReviewedMarkdown {
         record(issues, path, 2, "obsolete-lyric-image",
           field + " is not supported for standalone kalams");
     }
+    // A non-English kalam stores its original reading and Roman transliteration only.
+    if (fields.language !== "English") {
+      for (const field of ["englishTranslation", "englishTranslationAlternate"]) {
+        if (Object.hasOwn(fields, field))
+          record(issues, path, 2, "unwanted-english-translation",
+            field + " is unsupported for non-English kalams");
+      }
+    }
     for (const field of ["title", "language", "lang", "direction", "kalamType"]) {
       if (!fields[field]) record(issues, path, 2, "missing-metadata", "Missing " + field + " field");
     }
