@@ -1,5 +1,5 @@
 ---
-title: "Aaja Meray Laadle Mein Loriyaan Sunawan"
+title: "آ جا میرے لاڈلے تینو لوریاں سناواں"
 language: "Urdu"
 lang: "ur"
 direction: "ltr"
@@ -16,18 +16,28 @@ published: false
 
 Aaja Meray Laadle Mein Loriyaan Sunawan
 Tenu Labdiyan Asghar Meri Khaali Bhawan
+
+1
 Goudi Aaja Meray Asghar Shaam Bachra Hogayi Ay
 Khaali Peenda Tenu Tak Ke Maa Eh Ro Ro Keh Rahi Ay
 Tenu Gal Nal Laakay Teray Laad Ladawan
+
+2
 Keray Pasay Tur Gaya Ay Meray Bachray Ghar Nu Aaja
 Tenu Loriyaan Mein Sunawan Menu Aa Ke Ay Dasa Ja
 Putran Bajoun Keevain Jeundiyan Ne Mawaan
+
+3
 Laash Teri Dhup Te Reh Gayi Menu Asghar Ay Nahi Bhulna
 Zakhm Lekay Dil De Andar Meh Bazaaran Vich Hai Rulna
 Menu Bhul Gaiyan Asghar Teray Bajoun Chawan
+
+4
 Teer Khaveen Muskura Ke Kar De Hurmal Nu Hairaan Ay
 Mera Bachra Karbala Vich Ambiya Da Tu Youn Maan Ay
 Deen Di Ajj Jaan Ay Teri Aakhri Sawaan
+
+5
 Kholda Mumtaaz Jad Vi Koyee Maqtal Di Kitaab Ay
 Hai Lahu Unwaan Oda Parna Jad Asghar Da Baab Ay
 Har Sattar Te Maa De Hanju Hokay Hawaan,
