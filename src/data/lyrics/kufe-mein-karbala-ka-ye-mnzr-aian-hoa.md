@@ -3,7 +3,8 @@ title: "کوفے میں کربلا کا یہ منظر عیاں ہوا"
 language: "Urdu"
 lang: "ur"
 direction: "ltr"
-kalamType: "Salam"
+kalamType: "Noha"
+poet: "Rehan Azmi"
 tags: ["noUrdu"]
 aliases: []
 published: false
