@@ -4,6 +4,7 @@ language: "Urdu"
 lang: "ur"
 direction: "ltr"
 kalamType: "Noha"
+poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
