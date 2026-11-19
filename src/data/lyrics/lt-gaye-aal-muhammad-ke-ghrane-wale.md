@@ -39,6 +39,13 @@ romanLyrics: |-
   7
   Teer besheer ko kehtay huay roya Kausar
   Kyun huay zibha zuban khusk phiranay walay
+  8
+  Azm-e-Shabbir Ko Dekha To Pukar Uthe Khalil
+  Marhaba Laasha-e-Akbar Ko Uthane Waale
+
+  9
+  Hurr Ki Taqdeer Ko Ek Pal Mein Badal Dete Hain
+  Aise Hote Hain Muhammad Ke Gharane Waale
 # source_id: ziyaraat:a36eefce923457dd2fd5
 # source_url: https://www.ziyaraat.net/api/noha/1924
 # raw_sha256: d6ff659ac1a2e5455bdfc766bdbf36a944691c19ade7edcbf396f0fb834eaad3
@@ -74,3 +81,11 @@ romanLyrics: |-
 ۷
 تیر بے شیر کوکہتے ہوئے رویا کوثر
 کیوں ہوئے ذبح زباں خشک پھرانے والے
+
+۸
+عزمِ شبیر کو دیکھا تو پکار اٹھے خلیل
+مرحبا لاشۂ اکبر کو اٹھانے والے
+
+۹
+حر کی تقدیر کو ایک پل میں بدل دیتے ہیں
+ایسے ہوتے ہیں محمد کے گھرانے والے

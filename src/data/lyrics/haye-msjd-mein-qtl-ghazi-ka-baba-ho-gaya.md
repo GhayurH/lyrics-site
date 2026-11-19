@@ -37,6 +37,25 @@ romanLyrics: |-
   5) Rakh lia jhooli main sir aapka Shabbir nay
   Dekh kar baba ko zakhmi yeh kaha dilgeer nay
   Haey koofa main yeh manzar,  Karbala ka ho gaya
+  7
+  Har Taraf Mehshar Bapa Hai Ro Rahe Hain Zulfiqar
+  Lag Gayi Haider Ko Zarbat Al-Amaan Ki Thi Pukar
+  Waqt Hai Sehri Ka Lekin Kyun Andhera Ho Gaya
+
+  8
+  Khuld Se Aayi Thi Us Dam Ye Farishton Ki Sada
+  Sar Khula Hai Fatima Ka Ro Rahe Hain Anbiya
+  Hashr Se Pehle Ye Kaisa Hashr Barpa Ho Gaya
+
+  9
+  Mutmain Tha Deen-e-Muhammad Jab Jahan Se Chal Diye
+  Baad-e-Ahmad Ke Sahara Deen Ka Haider Bane
+  Aaj Haider Chal Base Hain Deen Tanha Ho Gaya
+
+  10
+  Nasir-e-Deen-e-Nabi Sajde Mein Zakhmi Kab Hua
+  Shah Ne Pani Ka Pyala Apne Qatil Ko Diya
+  Ibn-e-Muljim Se Kaha Tha Kaam Tera Ho Gaya
 # source_id: ziyaraat:6daf5b24666654f1406b
 # source_url: https://www.ziyaraat.net/api/noha/294
 # raw_sha256: 4d5f95be0f8984bc05d4ce6d9a7b22486b3d5f6bed79f436d23147abe701e507
@@ -69,3 +88,23 @@ romanLyrics: |-
 رکھ لیا جھولی میں سر ہے آپکا شبیرؑ نے
 دیکھ کر بابا کو زخمی یہ کہا دلگیر نے
 ہائے کوفے میں یہ منظر کربلا کا ہو گیا
+
+۶
+ہر طرف محشر بپا ہے رو رہے ہیں ذوالفقار
+لگ گئی حیدر کو ضربت الاماں کی تھی پکار
+وقت ہے سحری کا لیکن کیوں اندھیرا ہو گیا
+
+۷
+خلد سے آئی تھی اس دم یہ فرشتوں کی صدا
+سر کھلا ہے فاطمہؑ کا رو رہے ہیں انبیا
+حشر سے پہلے یہ کیسا حشر برپا ہو گیا
+
+۸
+مطمئن تھا دینِ محمد جب جہاں سے چل دیے
+بعدِ احمد کے سہارا دین کا حیدر بنے
+آج حیدر چل بسے ہیں دین تنہا ہو گیا
+
+۹
+ناصرِ دینِ نبی سجدے میں زخمی کب ہوا
+شاہ نے پانی کا پیالہ اپنے قاتل کو دیا
+ابنِ ملجم سے کہا تھا کام تیرا ہو گیا

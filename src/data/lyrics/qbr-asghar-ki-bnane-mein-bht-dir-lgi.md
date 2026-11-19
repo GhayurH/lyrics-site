@@ -9,44 +9,37 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Qabr Asghar Ki, Banane Mai, Bohot Dair Lagi
-
+romanLyrics: |-
+  Qabr Asghar Ki Banane Mein Bohat Dair Lagi
 
   1
-
-  Sheh Ko Ik Chaand Chhupaane Mai, Bohot Dair Lagi
-
-  1. Kuch Qadam Door Hai Bazaar Se, Darbaar Magar,
-
-  Phir Bhi Shehzaadi Ko Aane Mai, Bohot Dair Lagi
-
+  Sheh Ko Ek Chand Chhupane Mein Bohat Dair Lagi
+  Kuch Qadam Door Hai Bazar Se Darbar Magar
+  Phir Bhi Shehzadi Ko Aane Mein Bohat Dair Lagi
 
   2
-
-  2. Sheh Ne Har Laash Ko Jaldi Se, Uthaaya Laikin,
-
-  Laashe Akber Ki Uthaane Mai, Bohot Dair Lagi
-
+  Sheh Ne Har Lash Ko Jaldi Se Uthaya Lekin
+  Lash-e-Akbar Ki Uthane Mein Bohat Dair Lagi
 
   3
-
-  3. Tukre Chunte Huwe Qasim Ke, Kahaa Maula Ne,
-
-  Haaye Afsos Ke Aane Mai, Bohot Dair Lagi
-
+  Tukre Chunte Hue Qasim Ke Kaha Maula Ne
+  Haye Afsos Ke Aane Mein Bohat Dair Lagi
 
   4
-
-  4. Iss Qadar Pyaas Se Sukha Tha, Gulu-e-Sarwar,
-
-  Shimr Ko Tegh Chalaane Mai, Bohot Dair Lagi
-
+  Is Qadar Pyas Se Sukha Tha Gulu-e-Sarwar
+  Shimr Ko Tegh Chalane Mein Bohat Dair Lagi
 
   5
+  Baap Ki Lash Se Durron Ki Aziyat De Kar
+  Ek Bachi Ko Hatane Mein Bohat Dair Lagi
 
-  5. Karbala Jaake Taqallum Ne, Yehi Puchha Tha,
+  6
+  Chand Satrein Thin Magar Lash-e-Ali Akbar Par
+  Sheh Ko Khat Parh Ke Sunane Mein Bohat Dair Lagi
 
-  Mujhko Sarkaar Bulaane Mai, Bohot Dair Lagi'
+  7
+  Karbala Ja Ke Takallum Ne Yehi Puchha Tha
+  Mujhko Sarkar Bulane Mein Bohat Dair Lagi
 # source_id: nohayonline:a8bd4dd41a6263f9b930
 # source_url: https://www.nohayonline.com/content_salaam.php?id=42
 # raw_sha256: 170da195c57ca4bd63cc5d7ab465e11cef41b78dc02e75f94903d85b2abd7fc1
@@ -78,5 +71,13 @@ romanLyrics: 'Qabr Asghar Ki, Banane Mai, Bohot Dair Lagi
 شمر کو تیغ چلانے میں بہت دیر لگی
 
 ۵
+باپ کی لاش سے دُرّوں کی اذیت دے کر
+ایک بچی کو ہٹانے میں بہت دیر لگی
+
+۶
+چند سطریں تھیں مگر لاشِ علی اکبر پر
+شہ کو خط پڑھ کے سنانے میں بہت دیر لگی
+
+۷
 کربلا جا کے تکلم نے یہ ہی پوچھا تھا
 مجھ کو سرکار بلانے میں بہت دیر لگی

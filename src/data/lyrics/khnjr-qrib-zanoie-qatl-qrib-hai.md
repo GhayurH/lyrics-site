@@ -12,6 +12,13 @@ published: false
 # raw_sha256: 3b82666925282823a1d46e98d118a6080d49749f7cb117473a2a0b9790743fe8
 ---
 
+Jab Kat Gaya Zahra Ka Chaman Dasht-e-Bala Mein
+Shamil Hua Pyason Ka Lahu Khak-e-Shifa Mein
+Koi Na Raha Fauj-e-Imam-e-Do Sara Mein
+Aur Ghir Gaya Haider Ka Pisar Ahl-e-Jafa Mein
+Ek Khushk Gala Aur Kai Sau Naiza-o-Khanjar
+Aur Nau Lakh Ka Rela Aur Akela Woh Dilawar
+
 1
 Jab mera Hussain, Fatema ka cheyn
 Pushte raahwaar se khaak pe ghira

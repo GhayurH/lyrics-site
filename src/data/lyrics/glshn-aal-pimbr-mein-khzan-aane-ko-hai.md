@@ -7,6 +7,45 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
+romanLyrics: |-
+  Gulshan-e-Aal-e-Payambar Mein Khizaan Aane Ko Hai
+  Haider-o-Safdar Ka Saya Sar Se Uth Jaane Ko Hai
+
+  1
+  Aaj Zainab Ko Nazar Aane Laga Bazar-e-Sham
+  Fatima Kya Phir Kisi Darbar Mein Jaane Ko Hai
+
+  2
+  Zainab-o-Kulsoom Rakhna Hausle Apne Buland
+  Aaj Phir Koi Qayamat Ki Khabar Aane Ko Hai
+
+  3
+  Jab Gire Ghore Se Ghazi To Sakina Ne Kaha
+  Durr Mere Aur Chadar-e-Tatheer Chhin Jaane Ko Hai
+
+  4
+  Nanhe Nanhe Baazuon Mein Daal Kar Chhoti Si Mashk
+  Sher-e-Haq Abbas Ki Kuch Shan Dikhane Ko Hai
+
+  5
+  Aaj Ki Shab Rauza-e-Khatam-e-Rusul Hil Jaaye Ga
+  Ibn-e-Muljim Aaj Kuch Aisa Ghazab Dhaane Ko Hai
+
+  6
+  Zainab-o-Kulsoom Ko Seene Se Kar Lo Ab Juda
+  Baap Ke Chehre Ki Rangat Ab Badal Jaane Ko Hai
+
+  7
+  Chha Gayi Hai Kyun Udaasi Shabbar-o-Shabbir Par
+  Saaf Zahir Hai Yateemi Sar Pe Chha Jaane Ko Hai
+
+  8
+  Karbala Walon Ki Shayad Tashnagi Ka Hai Khayal
+  Saqi-e-Kausar Zara Pehle Chale Jaane Ko Hai
+
+  9
+  Ta Qayamat Khoon Roye Gi Zameen-e-Karbala
+  Zulm Ki Kaali Ghata Sar Pe Chha Jaane Ko Hai
 # source_id: ziyaraat:92722b31b23d232fd0e7
 # source_url: https://www.ziyaraat.net/api/noha/494
 # raw_sha256: 95ce311835d989a8f7792a0accd16d0559dcf48771cda1bcb83eed0f86330f83
