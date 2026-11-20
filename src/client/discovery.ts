@@ -46,6 +46,7 @@ export function initDiscovery(): void {
       return row;
     }));
     more.hidden = matches.length <= visible;
+    more.disabled = more.hidden;
     status.textContent = matches.length === 0 ? "No matching names. Try a shorter spelling."
       : matches.length.toLocaleString() + (matches.length === 1 ? " match." : " matches.") +
         (matches.length > visible ? " Showing " + visible + "." : "");
@@ -53,12 +54,14 @@ export function initDiscovery(): void {
 
   const run = async () => {
     const ticket = ++generation;
+    more.disabled = true;
     const query = input.value.trim();
     const url = new URL(location.href);
     if (query) url.searchParams.set("q", input.value); else url.searchParams.delete("q");
     history.replaceState(null, "", url.pathname + url.search + url.hash);
     visible = 60;
     if (!query) {
+      matches = [];
       list.replaceChildren(...original.map(child => child.cloneNode(true)));
       pagination.hidden = false;
       more.hidden = true;
@@ -76,6 +79,7 @@ export function initDiscovery(): void {
       show();
     } catch {
       if (ticket !== generation) return;
+      matches = [];
       list.replaceChildren(...original.map(child => child.cloneNode(true)));
       pagination.hidden = false;
       more.hidden = true;
@@ -87,6 +91,8 @@ export function initDiscovery(): void {
 
   input.addEventListener("input", () => {
     ++generation;
+    // Do not expand the previous query while the next one is debouncing/loading.
+    more.disabled = true;
     window.clearTimeout(timer);
     timer = window.setTimeout(() => { void run(); }, 150);
   });
@@ -94,6 +100,7 @@ export function initDiscovery(): void {
     if (event.key === "Enter") { window.clearTimeout(timer); void run(); }
   });
   more.addEventListener("click", () => {
+    if (more.disabled || more.hidden) return;
     const firstNew = visible;
     visible += 60;
     show();

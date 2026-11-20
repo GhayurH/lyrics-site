@@ -81,6 +81,7 @@ jobs:
         continue-on-error: true
         run: npm run source:check
       - name: Build Astro, Pagefind and offline assets
+        id: site_build
         # The prebuild gates ran explicitly above. Do not run them a second time.
         run: npm run build --ignore-scripts
       - name: Report initial scripts, HTML, catalogs and deployment costs
@@ -116,6 +117,9 @@ jobs:
             npm run test:smoke
           fi
       - name: Private editorial workspace journeys
+        # Independent of public reader interactions; retain its evidence even
+        # when the preceding browser suite finds a regression.
+        if: ${{ !cancelled() && steps.site_build.outcome == 'success' }}
         run: npm run test:editorial
       - name: Require source checks to pass
         if: always() && steps.source_checks.outcome == 'failure'

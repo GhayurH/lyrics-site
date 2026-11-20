@@ -84,14 +84,6 @@ export function initBastaSelections(root: HTMLElement): void {
           block.dataset.selectionMounted = "true";
           block.classList.add("basta-selectable-kalam");
           const kalam = index + 1;
-          if (anchorEdition) {
-            const legacyId = (continuous ? "page-" + page + "-" : "") + "basta-kalam-" + kalam;
-            if (!block.id) block.id = legacyId;
-            else if (block.id !== legacyId && !document.getElementById(legacyId)) {
-              const alias = document.createElement("span"); alias.id = legacyId;
-              alias.setAttribute("aria-hidden", "true"); block.prepend(alias);
-            }
-          }
           const button = document.createElement("button");
           button.type = "button";
           button.className = "basta-selection-action";
@@ -100,6 +92,15 @@ export function initBastaSelections(root: HTMLElement): void {
           button.textContent = "☆";
           button.setAttribute("aria-label", "Bookmark kalam " + kalam +
             " on Basta page " + page + " (" + edition.name + ")");
+          if (anchorEdition) {
+            const legacyId = (continuous ? "page-" + page + "-" : "") + "basta-kalam-" + kalam;
+            if (!block.id) block.id = legacyId;
+            else if (block.id !== legacyId && !document.getElementById(legacyId)) {
+              const alias = document.createElement("span"); alias.id = legacyId;
+              // Keep aliases inside controls, never as extra children in verse flow.
+              alias.setAttribute("aria-hidden", "true"); button.append(alias);
+            }
+          }
           block.prepend(button);
 
           block.querySelectorAll<HTMLElement>(".poetry-stanza-number").forEach((marker) => {
@@ -119,7 +120,9 @@ export function initBastaSelections(root: HTMLElement): void {
               if (!stanza.id) stanza.id = legacyId;
               else if (stanza.id !== legacyId && !document.getElementById(legacyId)) {
                 const alias = document.createElement("span"); alias.id = legacyId;
-                alias.setAttribute("aria-hidden", "true"); marker.before(alias);
+                // An empty sibling would create an intervening inline box and
+                // break the source's direct verse/counter spacing relationship.
+                alias.setAttribute("aria-hidden", "true"); stanza.append(alias);
               }
             }
             stanza.setAttribute("aria-label", "Bookmark stanza " + marker.textContent?.trim() +

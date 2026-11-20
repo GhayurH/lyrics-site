@@ -18,3 +18,4 @@
 .discovery-term:hover { background: var(--tag-background); }
 .discovery-term:focus-visible, .discovery-filter input:focus-visible { outline: var(--focus-ring); outline-offset: 3px; }
 #discovery-more { min-height: var(--ui-target); }
+#discovery-more[hidden] { display: none; }

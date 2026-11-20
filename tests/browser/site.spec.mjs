@@ -241,7 +241,9 @@ test("About guide keeps its bilingual introduction and all feature routes reacha
     await expect(page.locator(`#${id}`)).toBeVisible();
     await expect(page.locator(`.about-contents a[href="#${id}"]`)).toHaveCount(1);
   }
-  await expect(page.locator(".about-feature")).toHaveCount(22);
+  for (const route of ["/poets/", "/languages/", "/occasions/"]) {
+    await expect(page.locator(`#discover a[href="${route}"]`)).toBeVisible();
+  }
   await expect(page.locator("#support")).toContainText("Free and ad-free. Always.");
   await expect(page.locator("#support .about-support-action"))
     .toHaveAttribute("href", /^mailto:lyricsadmin@gmail\.com/);

@@ -14,8 +14,11 @@ test('sharing keeps paired source text and reloadable stanza anchors @smoke', as
   const link = await dialog.locator('[data-passage-url]').inputValue();
   expect(new URL(link).search).toBe('');
   await page.goto(link);
+  await expect(dialog).toBeHidden();
   const id = new URL(link).hash.slice(1);
   await expect(page.locator(`[id="${id}"]`)).toBeVisible();
+  await expect(page.locator(`[id="${id}"]`)).toBeFocused();
+  await page.reload();
   await expect(page.locator(`[id="${id}"]`)).toBeFocused();
 });
 

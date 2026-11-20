@@ -168,7 +168,10 @@ async function saveDecision(status) {
       expectedRevision: target.revision, expectedContentHash: target.rawHash, rulesVersion: target.rulesVersion,
       comparisons: comparison && $('#comparison-evidence').checked ? [{ candidateId: comparison.candidateId, fingerprint: comparison.fingerprint }] : [],
     });
-    drafts.delete(target.candidateId + ':' + task);
+    // The editor remains usable while the ledger write is pending. Clear only
+    // the submitted draft; a newer note typed during that request must survive.
+    const draftKey = target.candidateId + ':' + task;
+    if (drafts.get(draftKey) === notes) drafts.delete(draftKey);
     if (selected?.candidateId === target.candidateId) { selected = result.source; renderSelected(); }
     const token = session.csrfToken; session = { ...await api('/api/session'), csrfToken: token }; renderSession();
     await loadInventory(); message(taskLabel(task) + ': ' + labels[status] + '. Decision saved; source and publication are unchanged.');

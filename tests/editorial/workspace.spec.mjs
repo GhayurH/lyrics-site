@@ -39,17 +39,30 @@ test('inspect exact editions, compare candidates and save a human decision witho
   await expect(page.locator('#comparison-panel')).toBeVisible();
   await expect(page.locator('#comparison-evidence')).toBeChecked();
   await page.getByLabel('Review pass', { exact: true }).selectOption('duplicates');
-  await page.getByLabel('What did you verify, or what still needs work?').fill('Compared both source openings and Roman verses. They are distinct works.');
+  const submittedNote = 'Compared both source openings and Roman verses. They are distinct works.';
+  const noteInput = page.getByLabel('What did you verify, or what still needs work?');
+  await noteInput.fill(submittedNote);
+  let releaseSave, observeSave;
+  const pendingSave = new Promise(resolve => { releaseSave = resolve; });
+  const saveObserved = new Promise(resolve => { observeSave = resolve; });
+  await page.route('**/api/decisions', async route => {
+    observeSave(); await pendingSave; await route.continue();
+  });
   await page.getByRole('button', { name: 'Accept this pass', exact: true }).click();
+  await saveObserved;
+  const newerDraft = 'Keep this new question for a later check of the comparison.';
+  try { await noteInput.fill(newerDraft); } finally { releaseSave(); }
   await expect(page.locator('#message')).toContainText('Decision saved');
   await expect(page.locator('#decision-state')).toHaveText('Accepted');
+  await expect(noteInput).toHaveValue(newerDraft);
   expect(await readFile(join(editorial.lyrics, 'pehla-kalam.md'), 'utf8')).toBe(original);
   const ledger = await editorial.workspace.store.read();
   expect(ledger.decisions).toHaveLength(1);
   expect(ledger.decisions[0].comparisons).toHaveLength(1);
   expect(ledger.decisions[0].actor).toBe('local-human');
+  expect(ledger.decisions[0].notes).toBe(submittedNote);
   await page.getByText('Exact Markdown source', { exact: true }).click();
-  await expect(page.locator('#raw-source')).toHaveText(original);
+  expect(await page.locator('#raw-source').textContent()).toBe(original);
   const downloadPromise = page.waitForEvent('download');
   await page.getByRole('link', { name: 'Export queue', exact: true }).click();
   const download = await downloadPromise;

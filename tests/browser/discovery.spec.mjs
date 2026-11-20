@@ -7,6 +7,7 @@ test("metadata directories and paginated poem hubs work without JavaScript @smok
     await expect(page.getByRole("heading", { name: "Poets", exact: true })).toBeVisible();
     await expect(page.locator("#discovery-terms li")).toHaveCount(60);
     await expect(page.locator(".discovery-filter")).toBeHidden();
+    await expect(page.locator("#discovery-more")).toBeHidden();
     await page.locator("#discovery-pagination a[rel=next]").click();
     await expect(page).toHaveURL(/\/poets\/page\/2\/$/);
     await expect(page.locator("#discovery-terms li")).toHaveCount(60);
@@ -33,6 +34,7 @@ test("directory search finds names beyond the current static page on demand", as
   page.on("request", request => { if (request.url().endsWith("/data/discovery/poets.json")) requests++; });
   await page.goto("/poets/");
   await expect(page.locator("#discovery-query")).toBeVisible();
+  await expect(page.locator("#discovery-more")).toBeHidden();
   expect(requests).toBe(0);
   await page.locator("#discovery-query").fill(target.label);
   await expect(page.locator(`.discovery-term[href="${target.href}"]`)).toBeVisible();
@@ -48,9 +50,14 @@ test("directory search finds names beyond the current static page on demand", as
   await page.locator("#discovery-query").fill("a");
   const more = page.locator("#discovery-more");
   await expect(more).toBeVisible();
+  await expect(more).toBeEnabled();
   await more.focus();
   await more.press("Enter");
   await expect(page.locator(".discovery-term").nth(60)).toBeFocused();
+  await page.locator("#discovery-query").fill(target.label);
+  await expect(more).toBeDisabled();
+  await expect(page.locator(`.discovery-term[href="${target.href}"]`)).toBeVisible();
+  await expect(more).toBeHidden();
 });
 
 test("metadata hub links preserve literal labels and preselect archive search", async ({ page }) => {

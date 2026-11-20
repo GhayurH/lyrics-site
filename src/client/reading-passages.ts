@@ -47,9 +47,10 @@ export function initReadingPassages(root: HTMLElement, controls: HTMLElement): v
   }
   const originalLabel = controls.dataset.originalLabel || "Original";
   const shareButton = controls.querySelector<HTMLButtonElement>("[data-reading-share]");
+  let dialog: HTMLDialogElement | undefined;
+  let navigateAfterClose: HTMLElement | null = null;
   if (shareButton && passages.size) {
     shareButton.hidden = false;
-    let dialog: HTMLDialogElement | undefined;
     shareButton.addEventListener("click", () => {
       if (!dialog) {
         dialog = document.createElement("dialog");
@@ -71,7 +72,6 @@ export function initReadingPassages(root: HTMLElement, controls: HTMLElement): v
         const address = dialog.querySelector<HTMLInputElement>("[data-passage-url]")!;
         const go = dialog.querySelector<HTMLAnchorElement>("[data-passage-go]")!;
         const status = dialog.querySelector<HTMLElement>("[data-passage-status]")!;
-        let navigateAfterClose: HTMLElement | null = null;
         for (const passage of passages.values()) {
           const label = passage.editions.original ? passage.label : passage.label + " · Roman";
           choice.add(new Option(label, passage.key));
@@ -131,7 +131,12 @@ export function initReadingPassages(root: HTMLElement, controls: HTMLElement): v
     try { id = decodeURIComponent(location.hash.slice(1)); } catch { return; }
     if (!id) return;
     const target = document.getElementById(id);
-    if (target && root.contains(target) && target.hasAttribute("data-stanza-key")) reveal(target);
+    if (target && root.contains(target) && target.hasAttribute("data-stanza-key")) {
+      // Following a copied link within this document keeps its existing modal.
+      // Close the sharing surface before moving focus outside its inert subtree.
+      if (dialog?.open) { navigateAfterClose = target; dialog.close(); }
+      else reveal(target);
+    }
   };
   window.addEventListener("hashchange", openHash);
   openHash();

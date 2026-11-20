@@ -28,7 +28,8 @@ test("facet counts retain alternatives while respecting query and other facets @
   await expect(facet.locator("input:checked")).toHaveCount(2);
 });
 
-test("Back and Forward restore raw query, facets, results and pagination", async ({ page }) => {
+test("Back and Forward restore raw query, facets, results and pagination", async ({ page, request }) => {
+  const expected = await lyricSourceUrl(request, "abbas-alamdar-balti");
   await page.goto("/search/?q=Ali&collection=Lyrics");
   await ready(page);
   await page.getByRole("link", { name: "Next results page", exact: true }).click();
@@ -38,7 +39,9 @@ test("Back and Forward restore raw query, facets, results and pagination", async
   await page.locator("#search-query").fill("Abbas Alamdar Balti");
   await page.locator("#search-query").press("Enter");
   await ready(page);
-  await expect(page.locator(".pf-result-link")).toHaveCount(1);
+  await expect(page.locator(`.pf-result-link[href^="${expected}?"]`)).toBeVisible();
+  expect(new URL(page.url()).searchParams.get("page")).toBeNull();
+  const newResults = await page.locator(".pf-result-link").evaluateAll(links => links.map(link => link.pathname));
   await page.goBack();
   await expect(page.locator("#search-query")).toHaveValue("Ali");
   await expect(page).toHaveURL(/page=2/);
@@ -49,35 +52,54 @@ test("Back and Forward restore raw query, facets, results and pagination", async
   await ready(page);
   expect(new URL(page.url()).searchParams.get("page")).toBeNull();
   await page.goForward();
-  await ready(page);
   await expect(page).toHaveURL(/page=2/);
+  await ready(page);
+  await page.goForward();
+  await expect(page.locator("#search-query")).toHaveValue("Abbas Alamdar Balti");
+  await ready(page);
+  expect(new URL(page.url()).searchParams.get("page")).toBeNull();
+  expect(await page.locator(".pf-result-link").evaluateAll(links => links.map(link => link.pathname))).toEqual(newResults);
 });
 
-test("late result fragments cannot overwrite a newer query", async ({ page, request }) => {
-  await page.goto("/search/?q=qzxvplmrt");
-  await ready(page);
-  let release;
-  let captured;
-  const gate = new Promise(resolve => { release = resolve; });
-  const pending = new Promise(resolve => { captured = resolve; });
-  let held = false;
-  await page.route(/\/pagefind\/fragment\//, async route => {
-    if (!held) { held = true; captured(); await gate; }
-    await route.continue();
+test.describe("controlled search network", () => {
+  // A service worker can satisfy requests before Playwright sees them. Only
+  // this race test bypasses that cache; the real Pagefind worker/WASM still runs.
+  test.use({ serviceWorkers: "block" });
+
+  test("late result fragments cannot overwrite a newer query", async ({ page, context, request }) => {
+    let release = () => {};
+    const gate = new Promise(resolve => { release = () => resolve(undefined); });
+    let heldURL = "";
+    await context.route(/\/pagefind\/fragment\//, async route => {
+      if (!heldURL) { heldURL = route.request().url(); await gate; }
+      await route.continue();
+    });
+    try {
+      await page.goto("/search/?q=qzxvplmrt");
+      await ready(page);
+      await page.locator("#search-query").fill("Hashim ke gharane");
+      await page.locator("#search-query").press("Enter");
+      await expect.poll(() => heldURL, { message: "Intercept the earlier query's real fragment", timeout: 10000 }).not.toBe("");
+      await page.locator("#search-query").fill("Abbas Alamdar Balti");
+      await page.locator("#search-query").press("Enter");
+      const expected = await lyricSourceUrl(request, "abbas-alamdar-balti");
+      const target = page.locator(`.pf-result-link[href^="${expected}?"]`);
+      await expect(target).toBeVisible({ timeout: 20000 });
+      await ready(page);
+      const newResults = await page.locator(".pf-result-link").evaluateAll(links => links.map(link => link.pathname));
+      // Complete the old request only after the newer results are visible.
+      release();
+      await page.evaluate(async () => {
+        const pagefind = await import("/pagefind/pagefind.js");
+        const earlier = await pagefind.search("hashim ke gharane");
+        await Promise.all(earlier.results.slice(0, 20).map(result => result.data()));
+      });
+      expect(await page.locator(".pf-result-link").evaluateAll(links => links.map(link => link.pathname))).toEqual(newResults);
+      const destination = new URL(await target.getAttribute("href"), page.url());
+      expect(destination.searchParams.get("highlight")).toBe("Abbas Alamdar Balti");
+      await expect(page.locator("#search-query")).toHaveValue("Abbas Alamdar Balti");
+    } finally { release(); }
   });
-  await page.locator("#search-query").fill("Hashim ke gharane");
-  await page.locator("#search-query").press("Enter");
-  await pending;
-  await page.locator("#search-query").fill("Abbas Alamdar Balti");
-  await page.locator("#search-query").press("Enter");
-  release();
-  await ready(page);
-  const expected = await lyricSourceUrl(request, "abbas-alamdar-balti");
-  await expect(page.locator(".pf-result-link")).toHaveCount(1);
-  const destination = new URL(await page.locator(".pf-result-link").getAttribute("href"), page.url());
-  expect(destination.pathname).toBe(expected);
-  expect(destination.searchParams.get("highlight")).toBe("Abbas Alamdar Balti");
-  await expect(page.locator("#search-query")).toHaveValue("Abbas Alamdar Balti");
 });
 
 test("remembered verse result opens a highlighted source passage", async ({ page, request }) => {

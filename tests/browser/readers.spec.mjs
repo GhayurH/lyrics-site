@@ -23,7 +23,7 @@ test("edition preferences, Focus mode, and image enlargement work together @smok
   await expect(image).toBeHidden();
   await page.getByLabel("Image", { exact: true }).check();
   await expect(image).toBeVisible();
-  await image.locator("a").click();
+  await image.locator(":scope > a:has(img)").click();
   await expect(page.locator("dialog.scan-viewer")).toBeVisible();
   await page.getByRole("button", { name: "Close" }).click();
   await page.getByRole("button", { name: "Focus Mode" }).click();
