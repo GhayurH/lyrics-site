@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:1139a19f333a5a947351
-# source_url: https://www.ziyaraat.net/api/noha/2591
-# raw_sha256: 7633af0b4af2b7ce85081aceaa6e295690c03759a50af043b21b22a5778897e2
 ---
 
 نانا در بَستا رہے ہمیں مڑ کے کبھی نہیں آنا

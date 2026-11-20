@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:167103da6b9328b46d72
-# source_url: https://tajpoints.com/2021/07/waqt-ye-aya-muslim-zaidi-brothers.html
-# raw_sha256: 98fc9ee31d1c418c1d8604d160cf0253019db2acfb2224899482388f59a2184b
 ---
 
 1

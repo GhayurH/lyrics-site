@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:c0c415062446be036fad
-# source_url: https://www.nohawriteups.org/teri-bhain-nay-taanga-rakhian-nay/
-# original_html: snapshots/nohawriteups/original_html/c0c415062446be036fad.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/c0c415062446be036fad.json
-# api_content_sha256: 130d35eaf9f835aa764dec65ed621a496f5a116e3ef7c7a3478d1465c17980f8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Teri bhain nay taanga rakhian nay veerna karbal wassan waleya…

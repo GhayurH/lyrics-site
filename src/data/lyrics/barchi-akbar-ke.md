@@ -51,9 +51,6 @@ romanLyrics: |-
   Aakhri baat yehi keh ke sidhaare Akbar
   Ya Ali keh ke mera laasha utha lo baba
   Barchi Akbar ke kaleje se nikalo baba
-# source_id: nohayonline:e6ac93e17c73e4076386
-# source_url: https://www.nohayonline.com/details_content.php?id=3418
-# raw_sha256: 35c3ded423549cf9006082ad7ad9ca17248ffd54439f247c4aba20f2c386e467
 ---
 
 ہائے بابا ہے درد بڑا

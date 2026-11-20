@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b91ee20b1072a81ef1a6
-# source_url: https://tajpoints.com/2020/02/zahra-ke-dar-ka-jo-bhi-hai-darban-ho.html
-# raw_sha256: b3cb28b7ff312d573def0ce792661bd43adc19285afd5818d38bd208e6dcec63
 ---
 
 Zahra Ke Dar Ka Jo Bhi Hai Darban Ho Gaya.

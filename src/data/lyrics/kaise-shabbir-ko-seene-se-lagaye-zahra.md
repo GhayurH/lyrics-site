@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9d70d7b64fa8b5a5b022
-# source_url: https://tajpoints.com/2021/12/kaise-shabbir-ko-seene-se-lagaye-zahra.html
-# raw_sha256: 13e99a4699ca792f3496aa5116a182214371cbe0d97913aa052d79b553c2af6e
-# source_title_original: Kaise Shabbir Ko Seene Se Lagaye Zahra Wajhi Hasan 2021
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Kaise Shabbir Ko Seene Se Lagaye Zahra

@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d060f979d76188de1e11
-# source_url: https://tajpoints.com/2020/06/sajjda-hussain-ka-lyrics-in-urdu-and.html
-# raw_sha256: 7e9bc042918186dd1dff422a813fa51423a89a8061e04137640cbd2b175187b1
 ---
 
 Tauheed Ka Jamal Hai Sajdah Hussain Ka.

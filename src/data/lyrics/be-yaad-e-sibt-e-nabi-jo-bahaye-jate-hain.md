@@ -31,9 +31,6 @@ romanLyrics: |-
   5
   Kami Husain ki baqi hai Kazmi warna
   Yazid aaj bhi dunya may paye jate haiṅ
-# source_id: ziyaraat:2a75cb6f353dcfc54a6e
-# source_url: https://www.ziyaraat.net/api/noha/2243
-# raw_sha256: 080cf54ba6f7a2f93991d435e1c7770c5683637f822a0593ce64f0ce5644029c
 ---
 
 بیادِ سبطِ نبی جو بہائے جاتے ہیں

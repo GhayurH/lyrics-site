@@ -46,9 +46,6 @@ romanLyrics: |-
   E mazhar e yazdaṅ ke pisar mujhko bachalo
   Jina to kuja chain se marne nahi deti hai
   Allah jaane ye dunya...
-# source_id: nohayonline:2603ee5d2af809f5c55c
-# source_url: https://www.nohayonline.com/details_content.php?id=2217
-# raw_sha256: 5b08431b53c41d36e703ecd14379dac64af59c7c2f845871eeb32b432f1e2f9e
 ---
 
 ۱

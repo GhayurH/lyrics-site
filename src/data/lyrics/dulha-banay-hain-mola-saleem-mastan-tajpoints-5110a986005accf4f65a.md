@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5110a986005accf4f65a
-# source_url: https://tajpoints.com/2022/06/dulha-banay-hain-mola-saleem-mastan.html
-# raw_sha256: 03879a958d9eb89dcd96e402ca2a270e6cce29f3fd2bc9475c32002d3b5ed9ed
 ---
 
 1

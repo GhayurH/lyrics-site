@@ -48,9 +48,6 @@ romanLyrics: |-
   Kafan behan na kar saki
   Hay dhoop may para raha
   Yeh woh ghareeb-e-Karbala Husain hay
-# source_id: ziyaraat:7a81895cd59500c71a94
-# source_url: https://www.ziyaraat.net/api/noha/2245
-# raw_sha256: 751f0dbad4ed2fafe4eb74c9b2ca943cc6ccd6899c00cebb27152df24c229a82
 ---
 
 ۱

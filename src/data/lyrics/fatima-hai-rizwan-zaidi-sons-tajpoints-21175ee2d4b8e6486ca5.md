@@ -8,9 +8,6 @@ poet: "Rizwan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:21175ee2d4b8e6486ca5
-# source_url: https://tajpoints.com/2024/01/fatima-hai-rizwan-zaidi-sons-lyrics-in.html
-# raw_sha256: 6d861ea7bfb3dbcb33145172b811f41864151ac4c9e33ba964bebb2973923813
 ---
 
 Fatima Hai Rizwan Zaidi Sons Lyrics

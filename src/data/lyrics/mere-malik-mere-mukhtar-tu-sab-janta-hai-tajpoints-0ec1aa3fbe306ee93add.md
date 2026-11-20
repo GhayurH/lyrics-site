@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0ec1aa3fbe306ee93add
-# source_url: https://tajpoints.com/2018/03/mere-malik-mere-mukhtar-tu-sab-janta-hai.html
-# raw_sha256: 2fe65164443d769b65c72d57d843dedec00bd984585074e0845fbf88dcc4dcf5
 ---
 
 Mere Malik Mere Mukhtar Tu Sab Janta Hai.

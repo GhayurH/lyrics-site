@@ -101,12 +101,6 @@ romanLyrics: 'Jaise jaise raat ja rahi hay
   Lehjaye akbar se jo ubhri
 
   Saute azan wo aa rahi hai'
-# source_id: nohayonline:a842717b1d8077878c06
-# source_url: https://www.nohayonline.com/details_content.php?id=381
-# raw_sha256: fdb766cd1971b60aab523d97fec258e5cdadb0ed17edef522e2365ac6a9df7db
-# source_id: ziyaraat:8c3a0f3f79cb727366be
-# source_url: https://www.ziyaraat.net/api/noha/640
-# raw_sha256: 98b8dfcb2c56b85bfc8026327fadcb7ef2cc72d300de01bda010785e1a3c1ea6
 ---
 
 جیسے جیسے رات جا رہی ہے

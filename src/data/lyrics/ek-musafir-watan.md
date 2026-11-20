@@ -62,9 +62,6 @@ romanLyrics: |-
   Shimr bad bakht khinche hai khanjar
   Dekhiye qatl hote haiṅ Sarwar
   God meiṅ maaṅ ne sar rakh liya hai
-# source_id: nohayonline:d09c685c7210d0067642
-# source_url: https://www.nohayonline.com/details_content.php?id=3501
-# raw_sha256: 803ca1727c060bf175dd0af0756a9982cb71e9ede3fae80ae669147c12153de8
 ---
 شور ماتم ہے آہ و بکا ہے
 یا الٰہی یہ کیا ماجرا ہے

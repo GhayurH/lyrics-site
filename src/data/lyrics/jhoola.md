@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Phir kabhi rizq ki tangi nahiṅ dekhi Yasir
   Roz-e-aashur jo faaqe meiṅ uthaaya jhula
-# source_id: nohayonline:b5ed023b819e4a343d2d
-# source_url: https://www.nohayonline.com/details_content.php?id=3573
-# raw_sha256: 6e5d87c94d2ce6b665748a1fc3e2e6cca2ce2695da69f56fa5d27a34795d3b51
 ---
 ماں نے روتے ہوئے اصغر کا جھلایا جھولا
 کبھی چوما کبھی سینے سے لگایا جھولا

@@ -8,9 +8,6 @@ poet: "Wafa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:807826918d4f6c071337
-# source_url: https://tajpoints.com/2022/10/ishq-e-haider-mein-salman-apni-jagah.html
-# raw_sha256: e4dc4aac0414ff94ec2af5f8fbf8366bd5375d5e98865e6a2ec55ff62b4a09f7
 ---
 
 1

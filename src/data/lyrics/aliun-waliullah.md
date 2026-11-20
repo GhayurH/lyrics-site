@@ -63,9 +63,6 @@ romanLyrics: |-
   Pyase mujahidoṅ ki amanat sambhaal ke
   Rakhna diloṅ meiṅ apne wilayat sambhaal ke
   Irfan ye shahid-e-wafa ki kamaai hai
-# source_id: nohayonline:631dd10ae1a1c49318c5
-# source_url: https://www.nohayonline.com/details_content.php?id=953
-# raw_sha256: 43e88febb0a2d86770ac881a082d7f34e1c175d596e5bdd1b55bdd2d37eaaa8a
 ---
 گونجی یہ صدا زمین پر پروردگار کی
 علیٌ ولی اللہ علیٌ ولی اللہ

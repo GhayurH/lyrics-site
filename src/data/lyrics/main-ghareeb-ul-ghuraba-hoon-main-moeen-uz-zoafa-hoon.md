@@ -7,11 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:734d330ab13e950c63c8
-# source_url: https://tajpoints.com/2018/03/main-ghareeb-ul-ghuraba-hoon-main-moeen.html
-# raw_sha256: bf89a28990fb03aa46c97c34fdac31847961e513d2939ec46b369f71c3e7198b
-# source_title_original: Main Ghareeb ul Ghuraba Hoon Main Moeen uz Zoafa Hoon 2013
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Main Ghareeb ul Ghuraba Hoon Main Moeen uz Zoafa Hoon

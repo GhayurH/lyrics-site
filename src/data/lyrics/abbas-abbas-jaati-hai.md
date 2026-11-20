@@ -79,9 +79,6 @@ romanLyrics: |-
   Shana bandha parda luta gaya
   Maqtal meiṅ chaudah sadi se
   Hai Fatema Zehra ka noha
-# source_id: nohayonline:2450a0d7b312eaa4f47a
-# source_url: https://www.nohayonline.com/details_content.php?id=1376
-# raw_sha256: 4b8565e81aa1f62ceebcf254a187f050545a5501290a232a5d93249731f99a96
 ---
 
 عباس عباس

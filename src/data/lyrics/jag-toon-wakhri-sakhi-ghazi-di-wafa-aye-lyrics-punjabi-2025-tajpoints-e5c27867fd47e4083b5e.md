@@ -8,9 +8,6 @@ poet: "Mirza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e5c27867fd47e4083b5e
-# source_url: https://tajpoints.com/2025/09/jag-toon-wakhri-sakhi-ghazi-di-wafa-aye.html
-# raw_sha256: 906457ff309872cf69024cee43e2a9a5f69e696d9ff4287dc3baa4b09d1e2233
 ---
 
 1

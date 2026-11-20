@@ -27,11 +27,6 @@ romanLyrics: |-
   Maa piyo day bajh jag tay, honday veer nay sahara
   Kitay javay veer Sughra, naye labda koyi chara
   Keewein jundiya nay behna, marjaan jay bhira
-# source_id: nohawriteups:c0adaff427ba30873946
-# source_url: https://www.nohawriteups.org/aaja-veerna/
-# raw_sha256: be59659bb0396dbcb7f701be2fb716f6a8effa1d30967f6f5edffff301e459e3
-# source_title_original: Aaja Veerna Mere Aakhri Nisa
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 آ جا ویرنا

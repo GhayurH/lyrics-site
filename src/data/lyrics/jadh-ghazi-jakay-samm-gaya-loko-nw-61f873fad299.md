@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:61f873fad2999a090233
-# source_url: https://www.nohawriteups.org/jadh-ghazi-jakay-samm-gaya-loko/
-# original_html: snapshots/nohawriteups/original_html/61f873fad2999a090233.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/61f873fad2999a090233.json
-# api_content_sha256: 0a73bdefac26dfde18685ba87c16a416c0b9040d19fc1cff3630bc0c376fd73c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jadh Ghazi Jakay Samm Gaya Loko, Nehar Kinaray

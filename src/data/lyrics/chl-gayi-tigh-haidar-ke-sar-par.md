@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c0a2695d9ef21317cb10
-# source_url: https://www.ziyaraat.net/api/noha/2811
-# raw_sha256: a43ffc39ff652fae9e3d409c83d0d5a74ce77ca29e7244e86ed1e35658909581
-# source_id: ziyaraat:c0b3254df36dc02635de
-# source_url: https://www.ziyaraat.net/api/noha/2618
-# raw_sha256: 5f04dd5502da8c5fd2096dc55400fe9bbccda49b6c238ce27b18eac2495848f8
 ---
 
 روزہ داروں کرو برپا ماتم

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9d314c1660b27edca655
-# source_url: https://tajpoints.com/2022/12/ya-mazlooma-syeda-amber-naqvi-lyrics-in.html
-# raw_sha256: 67a00f18ccb1bb35880e6a1136f97874de63982b436227c2948f1fbb642492d2
 ---
 
 Ya Mazlooma Syeda Amber Naqvi.

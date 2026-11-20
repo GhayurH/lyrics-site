@@ -41,14 +41,6 @@ romanLyrics: |-
   7
   Maula ka ghar ujar gaya Zehra guzar gayi
   Akhtar na puchh kaisi qayaamat bapa hui
-# source_id: nohayonline:90ef8efd078ec25277cc
-# source_url: https://www.nohayonline.com/details_content.php?id=279
-# raw_sha256: 4ea2a09a4a47648afe8a70062c49d4343c10b45b4160bfbfb2b784c0911ce2ae
-# source_id: nohawriteups:df0314736e1f79ab4899
-# source_url: https://www.nohawriteups.org/ghar-se-ali-ke-ruqsate-khairunnisa-hui/
-# original_html: snapshots/nohawriteups/original_html/df0314736e1f79ab4899.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/df0314736e1f79ab4899.json
-# api_content_sha256: 5a5d9d663abcfa34481159a9327ed3d07e7696b0484d5974a72d6a226a7e6092
 ---
 
 گھر سے علی کے رخصت خیر النسا ہوئی

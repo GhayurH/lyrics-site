@@ -75,9 +75,6 @@ romanLyrics: |-
   Ye baateṅ karte haiṅ hum minbar pe jaa kar
   Ya rabbe zuljalaal
   Haaṅ ishq-e-Haider meiṅ Haider ki baat hi maani
-# source_id: nohayonline:cc48af2388c4e10bbe38
-# source_url: https://www.nohayonline.com/details_content.php?id=2219
-# raw_sha256: 657293304fc108a13ef7b96e2589f1d1f25172dec444ce393ac767fd82e688c3
 ---
 اللّٰہ اللّٰہ اللّٰہ اللّٰہ
 یا مالک و یا خالق و یا باطن و یا ظاہرو

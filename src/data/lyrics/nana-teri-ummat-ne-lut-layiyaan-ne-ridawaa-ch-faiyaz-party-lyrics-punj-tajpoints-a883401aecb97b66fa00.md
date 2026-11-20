@@ -8,9 +8,6 @@ poet: "Amanat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a883401aecb97b66fa00
-# source_url: https://tajpoints.com/2023/07/nana-teri-ummat-ne-lut-layiyaan-ne.html
-# raw_sha256: c3a11bfaf91ddfff5b1b9f098fa144d1e29800f8cb3c631fd9b493a563bf92ed
 ---
 
 1

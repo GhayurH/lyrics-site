@@ -82,9 +82,6 @@ romanLyrics: |-
   Roti haiṅ aankheṅ kaṅpte haiṅ lab
   As-Shaam As-Shaam As-Shaam
   Bas yehi awaz aati hai har baar
-# source_id: nohayonline:6bae8f187e3772ba1c4a
-# source_url: https://www.nohayonline.com/details_content.php?id=3530
-# raw_sha256: 199b1d46df318bf4f70e384fdc0039e5b297715a27bd3a326b78061e6b03727d
 ---
 
 عابد بیمار

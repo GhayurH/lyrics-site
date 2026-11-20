@@ -8,9 +8,6 @@ reciter: "Sajid Jafry"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:513e82de69b2cda2f4b1
-# source_url: https://www.ziyaraat.net/api/noha/1766
-# raw_sha256: 646e8f0586cd6234284c58c48fac099bbab311b29367c369c501e6419fdd0fa8
 ---
 
 Wa waila Hussainan Wa waila Hussain

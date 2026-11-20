@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Jis meiṅ na rawaani ho na ho shaukat-e-alfaaz
   Mehshar woh tere haath ki tahrir nahiṅ hai
-# source_id: nohayonline:dc51801234e1bd7f871e
-# source_url: https://www.nohayonline.com/details_content.php?id=652
-# raw_sha256: c7cd4ac8f110f34cb2fc7064faa6cbe9fb6d550b75425381f59d4baacfaf4163
 ---
 جو شامل بزمِ غمِ شبیر نہیں ہے
 حاصل اُسے ایمان کی جاگیر نہیں ہے

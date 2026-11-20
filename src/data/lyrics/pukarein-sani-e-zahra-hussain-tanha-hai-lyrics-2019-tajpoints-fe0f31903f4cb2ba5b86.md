@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fe0f31903f4cb2ba5b86
-# source_url: https://tajpoints.com/2019/08/pukarein-sani-e-zahra-hussain-tanha-hai.html
-# raw_sha256: 369daf999c7f722b968bf84c119b604d03f78271ad03e4fba1a164df9ae1a4ba
 ---
 
 1

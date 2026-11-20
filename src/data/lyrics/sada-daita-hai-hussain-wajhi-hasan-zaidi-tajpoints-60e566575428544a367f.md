@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:60e566575428544a367f
-# source_url: https://tajpoints.com/2025/07/sada-daita-hai-hussain-wajhi-hasan-zaidi.html
-# raw_sha256: 14222b51c003367569d4a96b62352a0a0000a1e2937fad9bdffdfc907eb41fd7
 ---
 
 1

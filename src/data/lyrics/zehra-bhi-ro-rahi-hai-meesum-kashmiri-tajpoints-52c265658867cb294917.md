@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:52c265658867cb294917
-# source_url: https://tajpoints.com/2021/12/zehra-bhi-ro-rahi-hai-meesum-kashmiri.html
-# raw_sha256: e714772315e569e78369079d78856dc0c8ab0f5579bb381f32b63e6681058b83
 ---
 
 Zehra Bhi Ro Rahi Hai Meesum Kashmiri.

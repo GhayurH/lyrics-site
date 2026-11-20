@@ -8,9 +8,6 @@ poet: "Bahoo"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4eec9b6c5e842f498182
-# source_url: https://tajpoints.com/2017/02/jay-kar-deen-ilm-wich-honda-sir-nezay.html
-# raw_sha256: b55337954c461dbd60cc8b5dfe3715ea0954ba4e96a098ecf2ed3f171115cf04
 ---
 
 1

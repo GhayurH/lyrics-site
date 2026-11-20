@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc25a42db31a23eb340a
-# source_url: https://tajpoints.com/2026/06/haye-akbar-ka-dam-saleem-mastan.html
-# raw_sha256: 3354be21b181946f713070cda12a21056373d1c2149063c378533f41e5da190c
 ---
 
 Haye Akbar Ka Dam Ukharta Hai.

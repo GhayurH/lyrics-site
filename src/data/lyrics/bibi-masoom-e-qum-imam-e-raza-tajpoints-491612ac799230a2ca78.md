@@ -8,9 +8,6 @@ poet: "Mohtasham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:491612ac799230a2ca78
-# source_url: https://tajpoints.com/2026/04/bibi-masoom-e-qum-imam-e-raza-lyrics.html
-# raw_sha256: 6c83ca281134e14faf531e6240f67af9f9bd63f47b697c8bcb752e6df8f45113
 ---
 
 Aaye Zilqad Mein Mosa Kazim Ke Ghar.

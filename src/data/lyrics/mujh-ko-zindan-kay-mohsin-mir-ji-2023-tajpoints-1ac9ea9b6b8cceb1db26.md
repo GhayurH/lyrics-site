@@ -8,9 +8,6 @@ poet: "Khalil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1ac9ea9b6b8cceb1db26
-# source_url: https://tajpoints.com/2023/08/mujh-ko-zindan-kay-mohsin-mir-ji-2023.html
-# raw_sha256: 7cbc99624a70ea0cc4dc81e693be4a24d65df090f5ea28169e741d2358899627
 ---
 
 Mujh Ko Zindan Kay Mohsin Mir Ji 2023.

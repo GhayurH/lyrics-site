@@ -69,9 +69,6 @@ romanLyrics: |-
   Nazm karta hai ro ro ke Ishrat
   Saath le kar masaaib ka lashkar
   Yaad aayi janaab-e-Sakina
-# source_id: nohayonline:a07334f223c72ccdf001
-# source_url: https://www.nohayonline.com/details_content.php?id=2209
-# raw_sha256: d645d55b1b9f573ef580953c5dd62bf779ce3c9f60bfa15f3ba8376aa7c137e3
 ---
 دیکھ کر قید خانے کا منظر
 یاد آئی جناب سکینہ

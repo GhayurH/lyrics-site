@@ -8,9 +8,6 @@ poet: "Farhan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:68e3b3ab3077a8fc5ac9
-# source_url: https://tajpoints.com/2018/04/jeet-gaya-lal-qalandar.html
-# raw_sha256: 0ebe6396e5d21b5f557a12298aa053aab154c17152fa6e39d3e53f769a098865
 ---
 
 1

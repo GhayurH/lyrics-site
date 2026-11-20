@@ -8,9 +8,6 @@ poet: "Bahlool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e50d86a29a3a5e9b9ddb
-# source_url: https://tajpoints.com/2022/08/izzat-maab-fizza-faheem-ali-lyrics-in.html
-# raw_sha256: 863dba987be78349951c35b7e38237731064ff5fec41fb45c8c623c435c11b84
 ---
 
 Habash Ki Malka Haye Fizza.

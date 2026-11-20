@@ -102,12 +102,6 @@ romanLyrics: 'Haey Shaam ka bazaar
   12
 
   Jo shaam may guzri thi woh sab puch raha hay'
-# source_id: nohayonline:8029c23affb4b317a08d
-# source_url: https://www.nohayonline.com/details_content.php?id=2930
-# raw_sha256: 1c03a40f203bd487a18bb4f0399a856f9c1c0c1a5fbd8012c0c198d95bdfb8b8
-# source_id: ziyaraat:4c4a19eb60e23f1924d6
-# source_url: https://www.ziyaraat.net/api/noha/361
-# raw_sha256: bd5882d5abc8c843933c781c6edee215850c8b0a1d01c9b89de7552239ad6faf
 ---
 
 ہاۓ شام کا بازار

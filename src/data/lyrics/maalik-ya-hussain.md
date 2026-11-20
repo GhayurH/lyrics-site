@@ -7,14 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# Consolidated consecutive source pages; page-order and provenance retained.
-# SEO headings and generated chunk counters omitted; poetic stanza breaks pending editorial review.
-# source_id: tajpoints:166f89242e574585a036
-# source_url: https://tajpoints.com/2020/08/maalik-ya-hussain-page-1-lyrics-in-urdu.html
-# raw_sha256: 733cfab0a6b40a680978299710b086a513109cd07364d3de2956606514c12624
-# source_id: tajpoints:94c37fb9a1d5d3e2a5d7
-# source_url: https://tajpoints.com/2020/08/maalik-ya-hussain-page-2-lyrics-in-urdu.html
-# raw_sha256: fc4dfffce7a3c30075f173f38687b433d32226e9fbbad0a37a87f9db473631f6
 ---
 
 Bich Gaya Farsh-e-Azza Chayi Muharram Ki Fiza.

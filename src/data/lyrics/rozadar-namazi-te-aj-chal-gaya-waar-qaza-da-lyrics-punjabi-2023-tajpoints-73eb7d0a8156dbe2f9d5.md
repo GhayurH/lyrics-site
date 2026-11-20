@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:73eb7d0a8156dbe2f9d5
-# source_url: https://tajpoints.com/2023/04/rozadar-namazi-te-aj-chal-gaya-waar.html
-# raw_sha256: 715cedd7e71a09a2d9eb3b503c36c1219a89c5c819dd595bd74fd49fc2efa1ee
 ---
 
 Rozadar Namazi Te Aj Chal Gaya Waar Qaza Da.

@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:788742741d337e25e185
-# source_url: https://tajpoints.com/2023/06/aseer-ho-ke-nabi-zadi-be-rida-aayi.html
-# raw_sha256: 0ba56496745098ae5c190c48abac9a087585ee87d3bc0db60475971eb8214849
 ---
 
 1

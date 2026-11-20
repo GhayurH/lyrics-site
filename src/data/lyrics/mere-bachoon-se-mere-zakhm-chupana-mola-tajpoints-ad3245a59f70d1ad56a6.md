@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ad3245a59f70d1ad56a6
-# source_url: https://tajpoints.com/2019/01/mere-bachoon-se-mere-zakhm-chupana-mola.html
-# raw_sha256: 7278b5e97d3f768bfa7545fa1fac16b24a9a57ade9e73b8d3b113b53a0cff578
 ---
 
 Mere Bachoon Se Mere Zakhm Chupana Mola.

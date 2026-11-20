@@ -8,9 +8,6 @@ poet: "Naqsh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b50a734b0c4fd734ca3c
-# source_url: https://tajpoints.com/2021/07/man-kunto-ka-ailaan-syed-mudassir-mehdi.html
-# raw_sha256: acc574fbe22ed28a265d012e96a94d77490d36455911fff986f266fd2d8f389f
 ---
 
 Man Kunto Ka Ailaan Syed Mudassir Mehdi.

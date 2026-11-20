@@ -8,9 +8,6 @@ poet: "Safdar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d229ef412475e268f891
-# source_url: https://tajpoints.com/2018/06/jafar-ne-lahu-ugla-hoi-surkh-qaba-hai.html
-# raw_sha256: 02f60f3c6eb0824765049fc421e37907387f07388bc7494757ffd9fd585409fa
 ---
 
 1

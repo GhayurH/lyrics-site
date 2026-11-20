@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:106e1313ec628ed363a4
-# source_url: https://tajpoints.com/2021/02/murtaza-mil-gaye-lyrics-in-urdu-and.html
-# raw_sha256: 6f3dd4438209892fffd4bf2a139a1f1f84243e9dc7f640b15d4ae432f3e7abfa
 ---
 
 1

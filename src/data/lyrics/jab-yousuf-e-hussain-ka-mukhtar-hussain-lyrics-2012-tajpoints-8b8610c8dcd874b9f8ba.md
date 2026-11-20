@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8b8610c8dcd874b9f8ba
-# source_url: https://tajpoints.com/2023/03/jab-yousuf-e-hussain-ka-mukhtar-hussain.html
-# raw_sha256: 5715dfa5c88fa23f050f33c4891f053b15d024eba79d499a6a50e13c5caf3149
 ---
 
 Jab Yousuf e Hussain Ka Mukhtar Hussain Fatehpuri.

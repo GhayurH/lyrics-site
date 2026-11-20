@@ -8,9 +8,6 @@ poet: "Shahbaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84362e1f609c4884c582
-# source_url: https://tajpoints.com/2024/01/taboot-par-naqi-ke-aaye-hain-karbala.html
-# raw_sha256: e8e2fa3ce40eb5ba8eb7114629abb9e31a7004a7677c91b38c7bc9ceb65861a4
 ---
 
 1

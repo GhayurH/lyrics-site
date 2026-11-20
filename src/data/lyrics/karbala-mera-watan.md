@@ -113,9 +113,6 @@ romanLyrics: |-
   Karbobala hi hamaari hai jannat
   Hai mera ishq yehi Safdar
   Is pe fida mera tan man dhan
-# source_id: nohayonline:2162d7f827e35b729a3b
-# source_url: https://www.nohayonline.com/details_content.php?id=2277
-# raw_sha256: e1fc0e5155c4d969ca9c5d1bb5cde550e54c85c477f1af792dac14bbd3cb7522
 ---
 سلام کربلا
 خدا نے کن جو کہا تو کائنات بنی

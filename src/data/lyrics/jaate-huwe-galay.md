@@ -52,9 +52,6 @@ romanLyrics: |-
   Tum bhi pidar se jaate ho ae laal ruth ke
   Sine se kya na uthke lagoge Husain se
   Jaate huwe gale na...
-# source_id: nohayonline:bc9408ab9a792934e223
-# source_url: https://www.nohayonline.com/details_content.php?id=2309
-# raw_sha256: d67cf6e78168505610e76bb65b8d9705b6a9db62c81319fe03c504ad602c63e5
 ---
 
 ۱

@@ -50,9 +50,6 @@ romanLyrics: |-
   Haaṅ usi ka shor dobaara sar-e-zindaan utha
   Aap agar aa jaate baba, ghurkiyaaṅ khaati na dukhtar
   Aap agar aa jaate baba...
-# source_id: nohayonline:45849d6019d561feb24c
-# source_url: https://www.nohayonline.com/details_content.php?id=1540
-# raw_sha256: a69c8454ba6fca4a00a49c73bcce8c09671790f9eee44cb03455029cc033aa4c
 ---
 
 ۱

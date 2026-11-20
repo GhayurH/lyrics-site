@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:969a3314438081872b61
-# source_url: https://tajpoints.com/2019/07/nabi-apne-betey-ki-ghurbat-pe-roye.html
-# raw_sha256: f049a8a4f2cc92b37f985203e036637733345e404a68db8606f34adef82e8cfb
 ---
 
 Nabi Apne Betey Ki Ghurbat Pe Roye.

@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:66d23d395805713b3819
-# source_url: https://tajpoints.com/2021/05/haye-zainab-ki-yateemi-ka-zamana-aa.html
-# raw_sha256: b687cc7451e872f9e168c3006644e669a73d7a5b13c1514b89d1da282d2e4df6
 ---
 
 Haye Zainab Ki Yateemi Ka Zamana Aa Gaya Umair Kazmi

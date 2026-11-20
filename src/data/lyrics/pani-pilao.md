@@ -53,9 +53,6 @@ romanLyrics: |-
   Adaa ki shahaadat ne ye shaadmaani
   Bujhi hauz-e-Kausar tashna dahaani
   Zafar aur Amjad ka noha hai ye
-# source_id: nohayonline:226207ba96d11410db52
-# source_url: https://www.nohayonline.com/details_content.php?id=3222
-# raw_sha256: 824e20f3bf4179a1be177c2267ca284b0dd3af73a73a450bf4d57994b9ca5926
 ---
 پانی پلاؤ سبیلیں لگاؤ
 

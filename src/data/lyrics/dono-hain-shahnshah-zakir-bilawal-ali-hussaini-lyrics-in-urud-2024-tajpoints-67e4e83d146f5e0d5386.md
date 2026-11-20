@@ -8,9 +8,6 @@ poet: "Sajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:67e4e83d146f5e0d5386
-# source_url: https://tajpoints.com/2023/09/dono-hain-shahnshah-zakir-bilawal-ali.html
-# raw_sha256: ada41aafd75d73eaa79f66493cbc7c346ac7f689afbc67fcd49ea4305f5fae4d
 ---
 
 Dono Hain Shahnshah Zakir Bilawal Ali Hussaini.

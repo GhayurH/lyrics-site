@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bf67881166586f02a3ca
-# source_url: https://tajpoints.com/2023/07/ghar-nabi-de-aaya-haider-lyrics-in.html
-# raw_sha256: 32a67727c0564ae7967204d4904e1dd8aaa97c6d975299b7a6f2608cb808146d
 ---
 
 Ghar Nabi De Aaya Haider

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:3a47ed593d5f2891ec39
-# source_url: https://www.ziyaraat.net/api/noha/1110
-# raw_sha256: 48f7ecc4f55dad99e793cb6490dc4a6a253a3bf7136cbce476e81551451dc2e2
 ---
 
 Bhai ko roye ke bacheon ko sanbhale Zainab

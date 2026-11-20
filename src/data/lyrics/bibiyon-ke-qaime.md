@@ -90,9 +90,6 @@ romanLyrics: |-
   Kaanpti thi zamiṅ
   Jal gaye the magar raah-e-Abbas ki
   Phir bhi takte rahe Bibiyoṅ ke khaime
-# source_id: nohayonline:dfeaed556daab43ac85b
-# source_url: https://www.nohayonline.com/details_content.php?id=2651
-# raw_sha256: 93e4a48de05f4d9428a2977ecba0df2b567bc97fed549eeb79ee2705f91edfa9
 ---
 عباس علمدار
 

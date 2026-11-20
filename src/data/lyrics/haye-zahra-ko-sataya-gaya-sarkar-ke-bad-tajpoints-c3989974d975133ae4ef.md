@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c3989974d975133ae4ef
-# source_url: https://tajpoints.com/2018/08/haye-zahra-ko-sataya-gaya-sarkar-ke-bad.html
-# raw_sha256: 315773375bf89fd16995bf9dc0d32813084536eaec1366fcdeec7e985577abcb
 ---
 
 1

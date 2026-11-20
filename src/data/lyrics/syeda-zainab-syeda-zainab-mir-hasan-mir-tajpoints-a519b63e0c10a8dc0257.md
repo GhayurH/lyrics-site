@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a519b63e0c10a8dc0257
-# source_url: https://tajpoints.com/2021/05/syeda-zainab-syeda-zainab-mir-hasan-mir.html
-# raw_sha256: 0d35864e073467146c222e674d2c09345a9b2e4ee292d976b38831bd7bb13651
 ---
 
 Syeda Zainab Syeda Zainab Mir Hasan Mir.

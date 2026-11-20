@@ -8,9 +8,6 @@ poet: "Jary"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1f406b6aa885ddb05f11
-# source_url: https://tajpoints.com/2024/08/kha-kha-ke-tamache-syed-mudassir-mehdi.html
-# raw_sha256: 3f3ced24b326e583a97522fba21f7c091ade8e7355fa5519f0f99b0dcd6ad1cb
 ---
 
 1

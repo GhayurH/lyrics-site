@@ -51,9 +51,6 @@ romanLyrics: |-
   Ye kaun bharti hai sard aaheṅ
   Yaqinan in kushtagaan-e-gham meiṅ
   Jawaan beta bhi tha kisi ka
-# source_id: nohayonline:808ac5b026cf25ac9181
-# source_url: https://www.nohayonline.com/details_content.php?id=2011
-# raw_sha256: d86db4bb11762f8c7c4702b76cd7519ae688b9974fce04975cf6b49da8536f4a
 ---
 
 عرب کے جنگل سے جا رہا ہے

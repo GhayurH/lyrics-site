@@ -75,9 +75,6 @@ romanLyrics: |-
 
   Paani piyo to yaad karo pyaas Imam ki
   Pyaasoṅ sabil hai ye shahidoṅ ke naam ki
-# source_id: nohayonline:985c647518a3932158e4
-# source_url: https://www.nohayonline.com/details_content.php?id=71
-# raw_sha256: 0b4654c149ecd431fefa77eaff06662de50be0b519489e2349d1ea704541d013
 ---
 
 جب بھی پیو پانی حسین ابنِ علی کا نام لو

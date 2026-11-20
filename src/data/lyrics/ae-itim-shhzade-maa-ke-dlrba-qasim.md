@@ -73,12 +73,6 @@ romanLyrics: |-
   16
   Zainab-e-jigar khasta Mehdi kehti thi ro kar
   Daagh saare kunbe ko haaye de gaye Qaasim
-# source_id: nohayonline:b65abe2a8eb745c0247d
-# source_url: https://www.nohayonline.com/details_content.php?id=64
-# raw_sha256: d055ec1a0c712902234eb626b73e909859f307ffd7e15a7ef7ea48fae5cc520e
-# source_id: ziyaraat:61229f7c38ceeed6bbac
-# source_url: https://www.ziyaraat.net/api/noha/1334
-# raw_sha256: 41ab7072497ae067883f1023cf82883d8bcdf9a9940841b4241073287e545223
 ---
 
 ؑاے یتیم شہزادے ماں کے دلربا قاسم

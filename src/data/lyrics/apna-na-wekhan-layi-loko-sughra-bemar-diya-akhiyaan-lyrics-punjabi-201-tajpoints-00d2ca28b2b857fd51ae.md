@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:00d2ca28b2b857fd51ae
-# source_url: https://tajpoints.com/2017/04/apna-na-wekhan-layi-loko-sughra-bemar.html
-# raw_sha256: 0fab87c1d3715dda4b682d21ad0a132ba8ecbbdc3777d4ae25c0ba5dab0e26be
 ---
 
 1

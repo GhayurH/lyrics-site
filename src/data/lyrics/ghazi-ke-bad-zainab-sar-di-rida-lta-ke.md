@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:cbfb086821212006c514
-# source_url: https://www.ziyaraat.net/api/noha/904
-# raw_sha256: dca4d1aa37efc09b0ba8e7d8b2b38b1d884f24a16665345d124886da1a7b4a1f
 ---
 
 Ghazi de baad zainab

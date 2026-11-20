@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a9da4dab5688b0617f3c
-# source_url: https://tajpoints.com/2024/01/fatima-fatima-kehte-kehte-karbalai.html
-# raw_sha256: db3d53b636eedd4595d7a5f759ad716e0170770412822d81c982f62078a9ce5a
 ---
 
 1

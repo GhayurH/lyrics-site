@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Maatam ke daagh aur phir ashk-e-gham-e-Husain
   Saabir ko kaafi hai ye wasila Husain ka
-# source_id: nohayonline:5487e6bb18807b0b89cf
-# source_url: https://www.nohayonline.com/details_content.php?id=2888
-# raw_sha256: f5af480306c194978257421ecc0474fccfb13d5a869e47f8eaf84bdb6513c3ba
 ---
 زہرا کرے گی حشر میں دعویٰ حسین کا
 پروردگار دے مجھے بدلہ حسین کا

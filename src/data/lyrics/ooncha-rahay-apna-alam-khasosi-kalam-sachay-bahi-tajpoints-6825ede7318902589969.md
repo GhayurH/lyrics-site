@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6825ede7318902589969
-# source_url: https://tajpoints.com/2018/08/ooncha-rahay-apna-alam-khasosi-kalam.html
-# raw_sha256: 5a0f52effe771bf2a6c055072ca2494f37c63d9997e78f57de7d02efec36e58a
 ---
 
 1

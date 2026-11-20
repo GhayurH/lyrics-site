@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:932236a795912e837102
-# source_url: https://www.nohawriteups.org/nahi-hai-koi-rida-sar-pe-jo-daale-zainab/
-# original_html: snapshots/nohawriteups/original_html/932236a795912e837102.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/932236a795912e837102.json
-# api_content_sha256: b5dfbd508500fb25e1dc2a4a347caacc31f8339b75d23b3f8b03610515102169
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Nahi Hai Koi Rida Sar Pe Jo Daale Zainab

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3e684c060b6d529ca7f7
-# source_url: https://www.nohawriteups.org/utho-sakina-sehar-huwi-hai/
-# original_html: snapshots/nohawriteups/original_html/3e684c060b6d529ca7f7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3e684c060b6d529ca7f7.json
-# api_content_sha256: 57e05c640fb8be33cc52339d6c5dae9013475c53b4a1cd2f469d59f0171bb6f8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 pukari shana hilake madar utho sakina sehar hui hai

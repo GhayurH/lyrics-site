@@ -8,9 +8,6 @@ poet: "Bulleh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:791f644dd3c5a5344ed6
-# source_url: https://tajpoints.com/2022/02/haider-haider-bol-malanga-kazmi.html
-# raw_sha256: f1f328f7b4aa4099dba3caacf96e6e9bece90e672024d82ee41cb1a68995e499
 ---
 
 1

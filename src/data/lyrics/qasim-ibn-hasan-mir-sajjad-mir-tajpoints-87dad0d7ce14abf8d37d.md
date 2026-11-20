@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:87dad0d7ce14abf8d37d
-# source_url: https://tajpoints.com/2025/02/qasim-ibn-hasan-mir-sajjad-mir-lyrics.html
-# raw_sha256: 3f8b4ebfdf35c9330046c1290d2c959e44edf976d69f08c5531a98b79343a280
 ---
 
 1

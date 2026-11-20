@@ -8,9 +8,6 @@ poet: "Shahi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:766e6be9c460f1a31e93
-# source_url: https://tajpoints.com/2019/05/khuda-ke-ghar-mein-khuda-ke-wali-ko.html
-# raw_sha256: 61dd799773dd6f5edf22d658f6dc9ee8f9eb1b4da37298fc740c0b0ee96b83a0
 ---
 
 Khuda Ke Ghar Mein Khuda Ke Wali Ko Mara Hai.

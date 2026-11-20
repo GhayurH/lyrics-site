@@ -8,9 +8,6 @@ poet: "Farhan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f90dace7cfeb3fa36b98
-# source_url: https://tajpoints.com/2017/11/nikla-hai-tera-ghar-se-do-baar-janaza.html
-# raw_sha256: 88ce564aee015aa1027fff2ed54c2381358c7aa4b45c3762150ee691eb7fd6df
 ---
 
 1

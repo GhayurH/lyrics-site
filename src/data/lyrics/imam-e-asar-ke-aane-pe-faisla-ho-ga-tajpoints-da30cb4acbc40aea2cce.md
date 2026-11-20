@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da30cb4acbc40aea2cce
-# source_url: https://tajpoints.com/2020/04/imam-e-asar-ke-aane-pe-faisla-ho-ga.html
-# raw_sha256: 62798451d6d06b22c584384e762187a326b8935b377a011a303f1fcd02cde440
 ---
 
 1

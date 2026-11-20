@@ -7,12 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7f6e45e94b26ed3cb07f
-# source_url: https://www.ziyaraat.net/api/noha/2271
-# raw_sha256: bd99d05df590c9ef66de28db3d85208a5bd9f51da72048bc2401af23bb78bdb0
-# source_id: ziyaraat:ca1db56dadb578bcb1cc
-# source_url: https://www.ziyaraat.net/api/noha/670
-# raw_sha256: 761a1121ebec599c0d402dce5cd08ef12533dd33b7a7b3c8269779558ddfec65
 ---
 
 Darshan ka ujala ley keh chaley, ankhon main andhera chor gaye

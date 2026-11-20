@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:91b29ef429350aab4e71
-# source_url: https://tajpoints.com/2026/07/muhammad-ki-nawasi-hai-ahmad-timsaal.html
-# raw_sha256: 44cd674c0b27d7acef2ce94671027a9f72fbae91a8bfc37823d62b685aebbabf
 ---
 
 Yeh Kaisi Sham-e-Wehshat Hai Na Akbar Hai Na Ghazi Hai.

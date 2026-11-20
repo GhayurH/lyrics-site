@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:63bdf1416b879bb32149
-# source_url: https://www.ziyaraat.net/api/noha/2210
-# raw_sha256: 532b11f91bcff411f24c7a6429c538ad1eb821d912047adda0409803fff25b67
 ---
 
 Sakina bibi ke bain irfan haram mein mehsher utha rahe hain

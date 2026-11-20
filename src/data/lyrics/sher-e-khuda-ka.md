@@ -44,9 +44,6 @@ romanLyrics: |-
   7
   Haidar ko haaye Majid thi qabr to mayassar
   Shabbir ka to laasha ran meiṅ para raha hai
-# source_id: nohayonline:8a1dc182ead8b1121f55
-# source_url: https://www.nohayonline.com/details_content.php?id=2086
-# raw_sha256: c70fcfc95b984c5d78287cf869eedb7485335de3084bde0c7292567cb106724e
 ---
 گونج رہی ہے یہی آواز جبرییل
 شیر خدا کا لوگوں تابوت اٹھا رہا ہے

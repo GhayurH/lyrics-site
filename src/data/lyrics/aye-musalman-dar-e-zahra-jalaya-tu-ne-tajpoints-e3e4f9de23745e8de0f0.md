@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e3e4f9de23745e8de0f0
-# source_url: https://tajpoints.com/2023/04/aye-musalman-dar-e-zahra-jalaya-tu-ne.html
-# raw_sha256: 2b25c2a03718212ddc29c3f428f6a3e5d2b543ee2fe8d5dcebdc1fd240fcea13
 ---
 
 1

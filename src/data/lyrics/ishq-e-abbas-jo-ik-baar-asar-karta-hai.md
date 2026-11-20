@@ -16,9 +16,6 @@ romanLyrics: |-
   Phir lahu ban ke wo nasloṅ meiṅ safar karta hai
   Maiṅ to parcham ko sunaata huṅ musibat apni
   Kaun Abbas ko na jaane khabar karta hai
-# source_id: tajpoints:df9d40f7d34cc04fbf7d
-# source_url: https://tajpoints.com/2017/02/ishq-e-abbasas-jo-ik-baar-asar-karta-hai.html
-# raw_sha256: 20c2030337d93adfa4d8d795355772b4d1828b040d352417193676ff58b9d0db
 ---
 ۱
 عشقِ عباس جو اک بار اثر کرتا ہے

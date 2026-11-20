@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ec03a01d20c9c47091c1
-# source_url: https://tajpoints.com/2018/08/karbala-ki-rait-par-shabir-ne-sajda-kiya.html
-# raw_sha256: 39bb84decd5f6c485e9cc0ab5c3ae94102b474cfd59e4f33e8ef7b828b328b01
 ---
 
 1

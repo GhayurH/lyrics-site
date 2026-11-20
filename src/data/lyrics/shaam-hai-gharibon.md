@@ -54,9 +54,6 @@ romanLyrics: |-
   Sar hai sajde meiṅ Sajid bahr-e-shukr bete ka
   Saamne hi naize par baap ka kata sar hai
   Dardnaak manzar hai
-# source_id: nohayonline:12ea70f34cdd5133c180
-# source_url: https://www.nohayonline.com/details_content.php?id=2890
-# raw_sha256: 4ddcaedffbc8ee7437c012f902795227844cea3e2f0024e059a7bd6696bb15e0
 ---
 شام ہے غریبوں کی درد ناک منظر ہے
 بے حواس میدان میں عترتِ پیمبر ہے

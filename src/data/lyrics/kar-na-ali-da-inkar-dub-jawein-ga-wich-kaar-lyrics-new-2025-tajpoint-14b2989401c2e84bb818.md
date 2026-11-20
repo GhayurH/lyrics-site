@@ -8,9 +8,6 @@ poet: "Mirza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:14b2989401c2e84bb818
-# source_url: https://tajpoint.com/kar-na-ali-da-inkar-dub-jawein-ga-wich-kaar-lyrics/
-# raw_sha256: c2f2f5bf09c9e060b84298a73edb3bcdbe1670a9ba9cd467ab1378d05a90d980
 ---
 
 1

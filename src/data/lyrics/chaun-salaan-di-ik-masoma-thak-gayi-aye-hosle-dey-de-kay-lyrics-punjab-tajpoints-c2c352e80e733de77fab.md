@@ -8,9 +8,6 @@ poet: "Rizwan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c2c352e80e733de77fab
-# source_url: https://tajpoints.com/2025/09/chaun-salaan-di-ik-masoma-thak-gayi-aye.html
-# raw_sha256: 37e6ac24548c0af26098be5fd9e75304f38ffb4c58a32386d187f060fa59c402
 ---
 
 1

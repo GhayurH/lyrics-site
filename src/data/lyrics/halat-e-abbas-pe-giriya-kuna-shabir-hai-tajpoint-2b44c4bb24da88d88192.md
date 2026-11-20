@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:2b44c4bb24da88d88192
-# source_url: https://tajpoint.com/halat-e-abbas-pe-giriya-kuna-shabir-hai/
-# raw_sha256: cb507e8e8ed38e8597d392d0a4409989ab6e764f900a5b730c4566bcb75e7aa1
 ---
 
 Halat e Abbas Pe Giriya Kuna Shabir Hai.

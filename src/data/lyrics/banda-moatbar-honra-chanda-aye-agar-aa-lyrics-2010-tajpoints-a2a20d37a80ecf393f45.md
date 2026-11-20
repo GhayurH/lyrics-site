@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a2a20d37a80ecf393f45
-# source_url: https://tajpoints.com/2018/02/banda-moatbar-honra-chanda-aye-agar-aa.html
-# raw_sha256: 9e7848b09c1027e513493f985d964560ed55cb895589edf4ae36b5ccc2b868c2
 ---
 
 1

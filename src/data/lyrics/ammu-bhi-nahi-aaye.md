@@ -37,14 +37,6 @@ romanLyrics: |-
   6
   Naaloṅ se Sakina ke muṅh ko hai jigar aaya
   Khaamoshi Anis-e-gham ye qalb na phat jaaye
-# source_id: nohayonline:2042ef317a5f33ee0a08
-# source_url: https://www.nohayonline.com/details_content.php?id=10
-# raw_sha256: d9f8d25643bac94ce73ad3733699f7c66a2588a777376f3f6b3b066dd422f353
-# source_id: nohawriteups:a5beb8096f7e30b065a3
-# source_url: https://www.nohawriteups.org/ammu-bhi-nahi-aaye-baba-bhi-nahi-aaye/
-# original_html: snapshots/nohawriteups/original_html/a5beb8096f7e30b065a3.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a5beb8096f7e30b065a3.json
-# api_content_sha256: e6dfbc52286889cc82c476883d0af9eed69268f21d9773c0082445c5e30efb03
 ---
 عمو بھی نہیں آئے بابا بھی نہیں آئے
 کیا بات ہے دریا پر جو جائے وہ رہ جائے

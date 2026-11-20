@@ -67,9 +67,6 @@ romanLyrics: |-
   Salam mehr-e-shahaadat ke gird sayyaaroṅ
   Bache to agle baras hum haiṅ aur ye gham phir hai
   Jo chale base to ye apna salam-e-aakhir hai
-# source_id: nohayonline:d7ccbed0528dada4d12d
-# source_url: https://www.nohayonline.com/content_salaam.php?id=39
-# raw_sha256: af12e256515bb137e1bbb45c74252a2b26cd5722fb60d58caebd5a9c565f0cd6
 ---
 
 سلام خاک نشینوں پہ سوگواروں کا

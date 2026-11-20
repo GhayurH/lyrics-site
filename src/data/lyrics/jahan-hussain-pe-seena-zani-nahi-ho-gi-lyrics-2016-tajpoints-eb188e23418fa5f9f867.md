@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eb188e23418fa5f9f867
-# source_url: https://tajpoints.com/2020/04/jahan-hussain-pe-seena-zani-nahi-ho-gi.html
-# raw_sha256: 60cd4cb1a3d2f313f0cda4ebc541aeaa6d56450ebb8f95b400f6e92a3dc07cee
 ---
 
 1

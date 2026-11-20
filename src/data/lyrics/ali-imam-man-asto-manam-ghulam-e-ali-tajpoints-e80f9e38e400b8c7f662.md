@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e80f9e38e400b8c7f662
-# source_url: https://tajpoints.com/2018/05/ali-imam-man-asto-manam-ghulam-e-ali.html
-# raw_sha256: 508de2244847e6c5802d40e591bb32255193cfe7520560406b42716950756dd3
 ---
 
 Ali Imam Man-Asto Manam Ghulam-e-Ali.

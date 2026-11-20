@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:043d7a45bff24bc9619c
-# source_url: https://tajpoints.com/2024/12/zahra-ki-sana-khurram-murtaza-lyrics.html
-# raw_sha256: 2e49f85feb5651b419e4837c1151288c803e9c4ea275464e0d50f4d283f8eeeb
 ---
 
 1

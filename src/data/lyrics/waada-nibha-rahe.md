@@ -53,9 +53,6 @@ romanLyrics: |-
   Tha nauha Maajid o Mukhtar ran meiṅ Zainab ka
   Para hai dhup meiṅ laasha tumhaara ae bhaiyya
   Haram tumhaare su-e-Shaam jaa rahe haiṅ Husain
-# source_id: nohayonline:2dabe8864407f368c0d5
-# source_url: https://www.nohayonline.com/details_content.php?id=2078
-# raw_sha256: 7a464de2fdf428f4330dd895cf4e9fe79cc5b27ade6bef8c623eb7a27bc6c2ec
 ---
 جو تھا خُدا سے وہ وعدہ نبھا رہے ہیں حسین
 خود اپنے قدموں سے مقتل کو جا رہے ہیں حسین

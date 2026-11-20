@@ -9,12 +9,6 @@ reciter: "Hasan Sadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a04d489349373929d839
-# source_url: https://www.nohawriteups.org/rovay-na-door-watan-ton-shala-beemar-koyi/
-# original_html: snapshots/nohawriteups/original_html/a04d489349373929d839.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a04d489349373929d839.json
-# api_content_sha256: 2ce76359cce71577d9315dab1c7b01c6675eb60ed746c15d50bd22680ad92729
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Waang Sajjad Na Koi Beemar Wekhay Phophiyaan Wich Bazar

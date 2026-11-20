@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7893cd41757d71014ed9
-# source_url: https://tajpoints.com/2024/05/ya-ali-musa-reza-muhammad-raza-mungla.html
-# raw_sha256: 7648429dee66c1e819459ace25a42d70b77ebb1dbcc33a658587c90fe8f0d8eb
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:580cdfe6eb63a73affb5
-# source_url: https://tajpoints.com/2017/02/asgharas-teri-madar-ko-teri-yaad-sataye.html
-# raw_sha256: be93e4e9e319a8e2696dba7f049e9f222b2f6fc6133f65f2ea5114121165bdf6
 ---
 
 1

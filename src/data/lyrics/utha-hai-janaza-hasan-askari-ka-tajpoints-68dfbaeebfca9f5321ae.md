@@ -8,9 +8,6 @@ poet: "Nisar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:68dfbaeebfca9f5321ae
-# source_url: https://tajpoints.com/2025/09/utha-hai-janaza-hasan-askari-ka-lyrics.html
-# raw_sha256: cd6315c51601c5135cabb5032059b9af109f1188f8ffc6b6259788a76c0f7a3e
 ---
 
 1

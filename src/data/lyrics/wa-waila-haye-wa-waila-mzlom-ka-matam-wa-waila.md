@@ -8,9 +8,6 @@ reciter: "Ali Safdar Rizvi"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:af01cdef22807aef7e4e
-# source_url: https://www.ziyaraat.net/api/noha/1240
-# raw_sha256: 7966f645319dba5a7fa1b12fbf0b2370d66257e364ec53b3c76403d473748ca4
 ---
 
 واویلا ہائے واویلا

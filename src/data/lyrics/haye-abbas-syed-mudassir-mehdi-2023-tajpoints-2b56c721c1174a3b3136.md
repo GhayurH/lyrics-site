@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2b56c721c1174a3b3136
-# source_url: https://tajpoints.com/2023/08/haye-abbas-syed-mudassir-mehdi-2023.html
-# raw_sha256: f4482447e71715efdf7cd4ec301f665491b99b7507b85ac14dda573d7e7fdb9e
 ---
 
 Haye Abbas Syed Mudassir Mehdi 2023 Lyrics

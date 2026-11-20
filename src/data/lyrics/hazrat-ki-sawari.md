@@ -74,9 +74,6 @@ romanLyrics: |-
   Khaamosh Anis ab ke ye hangaam-e-adab hai
   Aaqa se talab kar tujhe jis shai ki talab hai
   Ye rona rulaana teri bakhshish ka sabab hai
-# source_id: nohayonline:3543103939f98cccdfdb
-# source_url: https://www.nohayonline.com/details_content.php?id=2929
-# raw_sha256: 58674b4f0d47055b34b293125a7697733123dbece3328fb1c399915b33672068
 ---
 
 جب آخری رخصت کو حسین آئے حرم سے

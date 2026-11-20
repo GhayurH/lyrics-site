@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b8203c9ef0ffa6f2102f
-# source_url: https://tajpoints.com/2023/05/mashhad-mein-muhammad-irtaza-haider.html
-# raw_sha256: f9911719c133d1a4aece927bf9522638cb3dc62e5cf00d6dce8fc11105a8c492
 ---
 
 Mashhad Mein Muhammad Irtaza Haider

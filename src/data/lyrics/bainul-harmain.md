@@ -56,9 +56,6 @@ romanLyrics: |-
   Ek hum hi nahi kehte bibi
   Kehte hai yehi hasnain
   Ae bibi kaash tera rauza...
-# source_id: nohayonline:6850810bf034cb9331d5
-# source_url: https://www.nohayonline.com/details_content.php?id=1703
-# raw_sha256: 19a2be4e4e2c2b709b3bf30bcecb65188f5a7e03b35b9e0321424b82c52f932e
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7b616d61838b2ff02e85
-# source_url: https://tajpoints.com/2022/03/shabbir-ka-zawar-hai-abbas-haider-lalji.html
-# raw_sha256: b4f7bb1ff219d95cf31a79ba7fac1618f5d5564c4a43a84e5ea328033f81d902
 ---
 
 Shabbir Ka Zawar Hai Abbas Haider Lalji.

@@ -77,12 +77,6 @@ romanLyrics: 'Barchi ali akbar ke kaleje may lagi hai
   Rehaan ka nowha hai ke ye bazm-e-aza may
 
   Akbar teri awaaz-e-azaan goonj rahi hai'
-# source_id: nohayonline:722e263a65f5d489f374
-# source_url: https://www.nohayonline.com/details_content.php?id=35
-# raw_sha256: 36c81198bebfdff497fe79108b214413324818757d55f9dc2046bf3dd710ea7b
-# source_id: ziyaraat:60b94cadfed303a5b164
-# source_url: https://www.ziyaraat.net/api/noha/2131
-# raw_sha256: b4854b08b1f41cb63f55a6e0dec98ac012ac0d62cb42aca352d3c02b5deb4863
 ---
 
 برچھی علی اکبر کے کلیجے میں لگی ہے

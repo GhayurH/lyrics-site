@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:db1d1f0a906d5014e1c3
-# source_url: https://tajpoints.com/2023/02/na-pathar-maro-main-zainab-hoon-hasan.html
-# raw_sha256: ee2244774a8f89a9261803e98b1ee9d18d4cf3044093943f61aa29135c49bd95
 ---
 
 1

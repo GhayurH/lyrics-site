@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1e30341e8d45a7b864fa
-# source_url: https://tajpoints.com/2023/03/har-welay-putar-sajjad-tu-rat-na-roya.html
-# raw_sha256: 6455fe1565520bd805fde0fd65c54961999226ee40b055a1e325ee25334cba1e
 ---
 
 1

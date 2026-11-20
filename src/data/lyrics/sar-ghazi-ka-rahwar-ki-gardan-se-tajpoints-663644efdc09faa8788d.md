@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:663644efdc09faa8788d
-# source_url: https://tajpoints.com/2024/05/sar-ghazi-ka-rahwar-ki-gardan-se-lyrics.html
-# raw_sha256: 69af68d2168b4e9c4718edbf3e37324a1fc72dc264e89ef509e6e4f7d3868842
 ---
 
 1

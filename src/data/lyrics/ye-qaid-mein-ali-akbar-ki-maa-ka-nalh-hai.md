@@ -59,15 +59,6 @@ romanLyrics: 'Yeh qaid mein Ali Akbar ki maa ka naala hai
 
   Malaal doona hai, dil ko qalaq dobaala hai'
 reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
-# source_id: nohayonline:aa2ce0a77d944236f414
-# source_url: https://www.nohayonline.com/details_content.php?id=509
-# raw_sha256: 3c0ee3625bc8bc9e3884d7bd2c433be300b586f6b9e87606d1265f5fb45bbf01
-# source_id: ziyaraat:41c32bcdbbb76d22c08e
-# source_url: https://www.ziyaraat.net/api/noha/671
-# raw_sha256: 0ea1df4459518c8ec49c96e348d5c14212cc13c703abe18183e957790192a678
-# source_id: ziyaraat:bca1ad0acd3da778be8a
-# source_url: https://www.ziyaraat.net/api/noha/2399
-# raw_sha256: c3ced60948c46b9966f516f90582c62466a1a2358aa8a11547da4e1174f719e0
 ---
 
 یہ قید میں علی اکبرؑ کی ماں کا نالہ ہے

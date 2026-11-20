@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:028c949af8da6436cc6c
-# source_url: https://tajpoint.com/ayelan-ghareebi-da-kita-zahra-di-qabar-bana-ke-lyrics/
-# raw_sha256: 40266ecf46bc33774156b59578b6c1958e90879c7c22c8a5971d2e3c82234f4d
 ---
 
 1

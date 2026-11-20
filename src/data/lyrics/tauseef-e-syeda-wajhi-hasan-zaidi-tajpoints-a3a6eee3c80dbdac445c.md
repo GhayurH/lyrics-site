@@ -8,9 +8,6 @@ poet: "Dabeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a3a6eee3c80dbdac445c
-# source_url: https://tajpoints.com/2025/12/tauseef-e-syeda-wajhi-hasan-zaidi-lyrics.html
-# raw_sha256: af8c4ef253a55d046856927666bdfca1f04065a0645e43a4d8229ce96c3159b0
 ---
 
 Tauseef e Syeda Wajhi Hasan Zaidi.

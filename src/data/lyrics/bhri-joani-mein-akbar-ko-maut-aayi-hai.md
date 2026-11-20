@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a38bad63813762d4f52e
-# source_url: https://www.ziyaraat.net/api/noha/232
-# raw_sha256: 8f0de064113f3ee5ba5a7dd56aff7e9d8fc6bbe9490c8b7f68d8d24ab61055b1
 ---
 
 Bhari jawani main Akbar ko mout ayi hay

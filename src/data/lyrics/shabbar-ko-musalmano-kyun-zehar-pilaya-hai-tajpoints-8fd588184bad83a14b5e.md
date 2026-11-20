@@ -8,9 +8,6 @@ poet: "Qamar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8fd588184bad83a14b5e
-# source_url: https://tajpoints.com/2023/09/shabbar-ko-musalmano-kyun-zehar-pilaya.html
-# raw_sha256: 8831acdb46e4c54b1eac84a127ebfb9f36bc8f71552f74cf0f27864ea068a862
 ---
 
 1

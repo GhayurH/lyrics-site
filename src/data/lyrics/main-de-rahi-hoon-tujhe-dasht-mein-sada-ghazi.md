@@ -8,9 +8,6 @@ reciter: "Mukhtar Ali Shedi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:352e99a26e6a3e836482
-# source_url: https://www.ziyaraat.net/api/noha/1903
-# raw_sha256: 7ca360976c590839b01dec0898e462c8350933a9c974b5d4827d36ad103968f9
 ---
 
 May day rahi hun tujhay dasht may sada Ghazi

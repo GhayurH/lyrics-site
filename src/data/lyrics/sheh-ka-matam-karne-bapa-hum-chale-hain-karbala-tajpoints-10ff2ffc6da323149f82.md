@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:10ff2ffc6da323149f82
-# source_url: https://tajpoints.com/2017/09/sheh-ka-matam-karne-bapa-hum-chale-hain.html
-# raw_sha256: f709273da261395c8bfd8f1b4513c4b2e1679c3f20c436001cde1c70e765cee5
 ---
 
 1

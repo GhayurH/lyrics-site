@@ -46,9 +46,6 @@ romanLyrics: |-
   Be Watan Ho Tou Madad Ahl E Watan Dete Hain
   Chanda Kar Kar Ke Musalman Kafan Dete Hain
   Par Muhammad Ke Nawase Ko Kafan Bhi Na Mila
-# source_id: ziyaraat:2342ef1e013326291479
-# source_url: https://www.ziyaraat.net/api/noha/2948
-# raw_sha256: 6738ac57dec2c876d0eb0d2803f49fa5156c102ce4de5f06a5b9ef26c41f3068
 ---
 
 پر محمد ؑکے نواسے کو کفن بھی نہ ملا

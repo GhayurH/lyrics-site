@@ -8,17 +8,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6278df9873d2adbfdff2
-# source_url: https://www.nohawriteups.org/haye-qayamat-ka-hai-samaa-chanay-lagi-sham-e-ghareeban/
-# original_html: snapshots/nohawriteups/original_html/6278df9873d2adbfdff2.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6278df9873d2adbfdff2.json
-# api_content_sha256: 30b14027aa335b8fac2918475ed45a6b63fd18165b2edb3d1ca7701f31335330
-# source_id: nohawriteups:d4ac6deff460b9e733e3
-# source_url: https://www.nohawriteups.org/haye-qayamat-ka-hai-samaa-chane-lagi-sham-e-garibaan/
-# original_html: snapshots/nohawriteups/original_html/d4ac6deff460b9e733e3.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d4ac6deff460b9e733e3.json
-# api_content_sha256: 065b4118149ba2e242a81f6d2c00834cb3a3001b0f560cd0da4e8de6e811638d
-# editorial_note: Consolidated both overlapping source witnesses into the fuller eight-stanza reading. The shorter witness reads "Sarwar O Abbas Dilawar Nahi" where this source reads "Qasim-o-Abbas Dilawar Nahi" in stanza 4; retained the full source witness for editorial review.
 ---
 
 Haye Qayamat Ka Hai Samaa Chanay Lagi Sham-e-Ghareeban

@@ -8,9 +8,6 @@ poet: "Laeeq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5667aca8d5c7254d08d1
-# source_url: https://tajpoints.com/2018/09/amma-tere-hussain-ka-sab-ghar-ujar-gaya.html
-# raw_sha256: d7102bce8f645ca3f1344d41e3e6c33b3eec0674f088b1e6f82a2f6e34c8fa4e
 ---
 
 Amma Tere Hussain Ka Sab Ghar Ujar Gaya.

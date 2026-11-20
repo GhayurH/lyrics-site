@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:59d78934ca9ce450d5da
-# source_url: https://www.ziyaraat.net/api/noha/2546
-# raw_sha256: 3d9b6b6a3c40b49ab22b4a2f3648bce2f0101b2e4c82c749c6589a51adafc745
 ---
 
 دل ہے بے چین شاہِ ھدیٰ کا

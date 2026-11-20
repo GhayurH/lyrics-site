@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc5ae558d6dd3f62b010
-# source_url: https://tajpoints.com/2018/07/tasbeeh-e-fatima.html
-# raw_sha256: 37d6ab8f7a134c8bdad2806cd0b7d05fdbfb4933321cb02820e3eae32f811a89
 ---
 
 Kis Darja Be-Misal Hai Tasbeeh e Fatima.

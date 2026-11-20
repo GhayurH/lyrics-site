@@ -8,9 +8,6 @@ poet: "Sajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:68cb17f85c07ae1286ce
-# source_url: https://tajpoint.com/kar-layi-aye-veer-ghazi-main-sham-nu-tayari/
-# raw_sha256: f70f3d3a107242ef7926bab91d23d8f4ad624b81644406c08c9b59361d8ff65c
 ---
 
 Kar Layi Aye Veer Ghazi Main Sham Nu Tayari

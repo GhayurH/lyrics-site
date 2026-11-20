@@ -74,9 +74,6 @@ romanLyrics: |-
   Kehte haiṅ yehi Zishan aur Irfaan-e-aza
   Ae dushman-e-sher-e-Khuda
   Laanat beshumaar
-# source_id: nohayonline:ff8a8cddf71bcda72c1e
-# source_url: https://www.nohayonline.com/details_content.php?id=3458
-# raw_sha256: d4120c29d71a2151e95b3827be88362e5aef6813ec6590c49ea1edf52e74d6a8
 ---
 مشکل کشا شیرِ خدا حاجت روا مارا گیا
 علی حیدرِ کرار علی کل کا مددگار

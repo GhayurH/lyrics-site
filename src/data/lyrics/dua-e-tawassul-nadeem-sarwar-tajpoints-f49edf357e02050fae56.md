@@ -8,9 +8,6 @@ poet: "Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f49edf357e02050fae56
-# source_url: https://tajpoints.com/2017/03/dua-e-tawassul-nadeem-sarwar.html
-# raw_sha256: fe1ea6bc6e5ddad06898da05527415534ecca05a3d842291446ee3bfa096ac46
 ---
 
 Dua-e-Tawassul Nadeem Sarwar

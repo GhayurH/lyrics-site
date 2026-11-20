@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Kya Fidak ke chhinne ka puchhta hai baar baar
   Shaikh maiṅ ne tujh se pehle hi kaha na jurm hai
-# source_id: tajpoints:039613b0df7f75ddb79b
-# source_url: https://tajpoints.com/2017/02/kaisi-zid-hai-zikar-haideras-ka-sunana.html
-# raw_sha256: eee62ca8014410160a9d1632bdde969576f269ca7314cc0bb71703cd88815643
 ---
 
 کیسی ضد ہے ذکر حیدر کا سنانا جرم ہے

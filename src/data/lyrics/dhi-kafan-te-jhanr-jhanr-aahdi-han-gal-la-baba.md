@@ -8,12 +8,6 @@ reciter: "Haji Muhammad Iqbal (Waa Hijab)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:25be2bdf0324d8550f2e
-# source_url: https://www.ziyaraat.net/api/noha/2531
-# raw_sha256: 2021b1dd2fedfdb4978a76683b456903c75c0490749325969dc1dc0cc303b058
-# source_id: ziyaraat:771a3ec682d2f95f1fb0
-# source_url: https://www.ziyaraat.net/api/noha/2548
-# raw_sha256: 63f693d8d6a99ca7d3766e0a9047033008bed016bfce9df320c800f10305bfd9
 ---
 
 دھی کفن تے جھنڑ جھنڑ آہدی ہاں گل لا بابا میں زینب ہاں

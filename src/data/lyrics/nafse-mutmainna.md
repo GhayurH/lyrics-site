@@ -92,9 +92,6 @@ romanLyrics: |-
   Tere liye kehta hai subhaan kya
   Tu ne mujhe jit liya ya Husain
   Laut aa laut aa...
-# source_id: nohayonline:c47c87270be26171588f
-# source_url: https://www.nohayonline.com/details_content.php?id=3022
-# raw_sha256: 9eb34cb324d84801bfcc549f29cfb475016c10c76c72466e70cf0392f7d47798
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Asim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d34a4974e9ba3e2bbdca
-# source_url: https://tajpoints.com/2022/09/hye-zindan-ki-ghutan-rizwan-zaidi.html
-# raw_sha256: 9c98ce41b7dce8d0c1760740b13f19db0c1c3207497b76f1f662c776e174cdca
 ---
 
 1

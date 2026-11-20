@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b0dd9e40763c1f4bf897
-# source_url: https://tajpoints.com/2024/07/ridawan-qaid-hogayiyan-mir-hasan-mir.html
-# raw_sha256: 90c13cdadf2c99bf17f6e8becf1262f673d82fc6e82c2100350479ebc3cf41fc
 ---
 
 1

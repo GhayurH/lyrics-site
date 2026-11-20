@@ -86,10 +86,6 @@ romanLyrics: |-
   Bint-e-Ali kehti thi jab
   Mujhe jina marna aa gaya
 
-# source_id: nohayonline:9169d410313c4b6751ee
-# source_url: https://www.nohayonline.com/details_content.php?id=404
-# raw_sha256: d1f1e305ca3baa3e3b0fb3e85f166fbe5acccb65770de5c4194f21953046e39c
-# editorial_note: "Five previously missing Punjabi stanzas have been recovered in Urdu script from the Ziyaraat edition; verify their readings and the Khursheed takhallus against audio in final editorial review."
 ---
 زندان سے رہا ہو کر جس دم
 جب کرب و بلا میں آئے حرم

@@ -60,9 +60,6 @@ romanLyrics: |-
   Zehra tere nohoṅ ka karam kam hai ye hum par
   Hai aaj bhi har maaṅ ki dua Aamir o Nayyar
   Ghazi mere bete ko musibat se chhura lo
-# source_id: nohayonline:1ef6732812722e129832
-# source_url: https://www.nohayonline.com/details_content.php?id=2440
-# raw_sha256: 73fb6a74dd1de8089a282c37f94621cb79ad07fec08203a6e8cb06e4ebc740d8
 ---
 
 بیٹا میری غربت کی کمائی کو سنبھالو

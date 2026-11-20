@@ -8,9 +8,6 @@ poet: "Ijaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:a2a75d18b3f7e19957e4
-# source_url: https://tajpoint.com/ikiswein-rozay-fajar-de-waqt-ho-gaye-alwida-lyrics/
-# raw_sha256: 3a4746cf54410f929f8b39db879404aa8ccb1ed42037ecfbda45b45f69b5ecf6
 ---
 
 Ikiswein Rozay Fajar De Waqt Ho Gaye Alwida Lyrics.

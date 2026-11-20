@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:48e3b4c0d2e554f2406d
-# source_url: https://tajpoints.com/2022/01/batool-ka-sadqa-khurram-murtaza-lyrics.html
-# raw_sha256: d3dce55fc997be714ee63aa9f5a2ca861522bd838871f448e26480500f0ec112
 ---
 
 1

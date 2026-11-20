@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7954bdcccb1d573c8346
-# source_url: https://tajpoints.com/2025/03/khandaan-e-risaalat-ka-noor-e-nazar-hai.html
-# raw_sha256: 31d21622e431d614f9d41b9c581f67003e953b33d90e530f1689cbe34b3bbb8a
 ---
 
 1

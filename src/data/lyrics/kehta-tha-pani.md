@@ -81,9 +81,6 @@ romanLyrics: |-
   Bas ae Husain aaja mere paas ae shitaab
   Duri Anis ko nahiṅ achchhi Anis se
   Aajaao jald aa ke milo hamjalis se
-# source_id: nohayonline:3023bd2184b09be4b9e7
-# source_url: https://www.nohayonline.com/details_content.php?id=3465
-# raw_sha256: 485e8666b33f97b8581ffed8b5ac8446d4ec02d228ae039001dec1449cc64a6a
 ---
 لا ریب آگ پانی ہے وہ نعمتِ خدا
 ممکن نہیں کہ شکر کوئی کر سکے ادا

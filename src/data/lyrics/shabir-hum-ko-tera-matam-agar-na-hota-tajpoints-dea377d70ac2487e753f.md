@@ -8,9 +8,6 @@ poet: "Zaidi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dea377d70ac2487e753f
-# source_url: https://tajpoints.com/2017/02/shabiras-hum-ko-tera-matam-agar-na-hota.html
-# raw_sha256: d2e152b0897c6576981d35850bd8ff0b3cd0878a4e975f09a2a5d8237729708b
 ---
 
 Shabir Hum Ko Tera Matam Agar Na Hota.

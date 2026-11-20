@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:e3726ab1b8ff97b1c1f0
-# source_url: https://www.ziyaraat.net/api/noha/2628
-# raw_sha256: 69c1bc7e5ce959e9ec3a216867c3db2f70efc382f538c99fea7b5d39a8ea0290
 ---
 
 نبیؐ کے حق سے اُسے آگہی نہیں ہوتی

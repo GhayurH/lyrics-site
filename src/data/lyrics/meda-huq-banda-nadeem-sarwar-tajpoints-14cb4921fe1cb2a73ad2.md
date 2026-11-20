@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:14cb4921fe1cb2a73ad2
-# source_url: https://tajpoints.com/2022/11/meda-huq-banda-nadeem-sarwar-lyrics-in.html
-# raw_sha256: 3a6aa89da4e38a07dc52dceb8a34eb007f0d99930498284cfcdca1b56e7bc23e
 ---
 
 Meda Huq Banda Nadeem Sarwar Lyrics

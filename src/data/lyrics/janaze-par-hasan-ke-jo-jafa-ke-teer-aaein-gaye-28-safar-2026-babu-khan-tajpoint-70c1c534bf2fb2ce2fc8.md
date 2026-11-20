@@ -8,9 +8,6 @@ poet: "Joun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:70c1c534bf2fb2ce2fc8
-# source_url: https://tajpoint.com/janaze-par-hasan-ke-jo-jafa-ke-teer-aaein/
-# raw_sha256: e908142be6d3853d1c9bce696ddbfa07048a3747c05d6cd091a66b1f87fd054d
 ---
 
 1

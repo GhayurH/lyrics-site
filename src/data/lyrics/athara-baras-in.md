@@ -94,9 +94,6 @@ romanLyrics: |-
   Kaha ya Ali madad kijiye
   Maiṅ rukhsat karuṅ jawaaṅ laal ko
   Zishan o Raza phir na Zainab ne pukaara hai
-# source_id: nohayonline:ae2017508d7ddfe2d3af
-# source_url: https://www.nohayonline.com/details_content.php?id=2395
-# raw_sha256: 085b449a638c1975654a5479bbbe01b89b0484f8d857c3265290a39fc57a2a81
 ---
 
 مرنے کی اجازت جب مانگی

@@ -8,9 +8,6 @@ poet: "Joun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eb231e3f6f15dcaa7390
-# source_url: https://tajpoints.com/2023/11/saah-aanday-nayi-par-zahra-di-ahiyaan.html
-# raw_sha256: dc847b06a3e656c0d2120f711d3018ae1cf06bbda99d081c4920e87cc9dc7a24
 ---
 
 1

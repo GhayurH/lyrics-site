@@ -50,9 +50,6 @@ romanLyrics: |-
   8
   Hai Mazhar o Mesum ki aaṅkhoṅ se lahu jaari
   Aasaan nahiṅ parhna nauha Ali Akbar ka
-# source_id: nohayonline:6ee37a789b2d643f319c
-# source_url: https://www.nohayonline.com/details_content.php?id=1311
-# raw_sha256: da358208d8cd16eaf0fc9ed7f84268f009176196b181348b268ded3efa071095
 ---
 روتی ہے زمین کربوبلا
 کیا درد بھرا ہے یہ منظر

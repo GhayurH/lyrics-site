@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7029f8e01f185764ca5
-# source_url: https://tajpoints.com/2017/02/putraan-de-baaj-kiwein-maan-eid-manaway.html
-# raw_sha256: af3a2192b38850a0263b3dac4b180ebef14ec2b704eff2c71d11fca6eaa1e348
 ---
 
 1

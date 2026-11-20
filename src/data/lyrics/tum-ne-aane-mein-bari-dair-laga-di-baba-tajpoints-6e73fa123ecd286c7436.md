@@ -8,9 +8,6 @@ poet: "Joun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6e73fa123ecd286c7436
-# source_url: https://tajpoints.com/2025/08/tum-ne-aane-mein-bari-dair-laga-di-baba.html
-# raw_sha256: afaa800c92fcfc5a6dd855b81f297e09bf936b87edceb9196c442c6dda3da37a
 ---
 
 1

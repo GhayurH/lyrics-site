@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:52aca51258ccd4a5d797
-# source_url: https://www.ziyaraat.net/api/noha/2715
-# raw_sha256: 83b3387b83b5b207dfefc0bbc8b2ee343cdb11e8eecfe085594e9987043bd340
 ---
 
 ZAKIR SHAMS UL HASSAN - Marsiya

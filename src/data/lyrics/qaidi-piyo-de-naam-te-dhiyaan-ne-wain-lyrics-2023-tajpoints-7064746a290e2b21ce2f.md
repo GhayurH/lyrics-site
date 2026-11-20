@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7064746a290e2b21ce2f
-# source_url: https://tajpoints.com/2023/02/qaidi-piyo-de-naam-te-dhiyaan-ne-wain.html
-# raw_sha256: 71f89cfc6ad2fcc3c83dc40966b0b5a9d00bef59a42ceeb199f303efa90efe42
 ---
 
 Qaidi Piyo De Naam Te Dhiyaan Ne Wain Aye Paye

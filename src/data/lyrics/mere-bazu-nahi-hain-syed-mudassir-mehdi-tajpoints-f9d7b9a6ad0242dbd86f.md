@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f9d7b9a6ad0242dbd86f
-# source_url: https://tajpoints.com/2022/07/mere-bazu-nahi-hain-syed-mudassir-mehdi.html
-# raw_sha256: 9d44cb47260e1e32ef0c7f4ea137df0c53f7865557d04719865528a75a44dee3
 ---
 
 1

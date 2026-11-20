@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:17b63a535bd3cedfd421
-# source_url: https://www.nohawriteups.org/jub-say-suna-lehad-main-sakina/
-# original_html: snapshots/nohawriteups/original_html/17b63a535bd3cedfd421.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/17b63a535bd3cedfd421.json
-# api_content_sha256: 461e83de7e8b114cb564a471adee528e20431ea4f13b241c40da7dcf003bdb74
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jub say suna lehad main Sakina udas hai..

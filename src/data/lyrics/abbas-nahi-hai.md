@@ -74,9 +74,6 @@ romanLyrics: |-
   Thi Bint-e-Ali us dam behaal
   Kehti hi rahi Sabir Iqbal
   Har zulm rawaṅ Zainab pe hua
-# source_id: nohayonline:923f7c3c7db6286c0a65
-# source_url: https://www.nohayonline.com/details_content.php?id=830
-# raw_sha256: a10b2c024c9d32c2da41d683cf80fb5847f923f2f79caf78993551bffb54d800
 ---
 
 واویلا ہے واویلا

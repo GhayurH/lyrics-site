@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8727e891b660ff34d32c
-# source_url: https://tajpoints.com/2021/05/khul-gaye-band-e-kafan-syed-mudassir.html
-# raw_sha256: 4eedf24b01628bed91bc857e8e57c2fbf378d4c01209c736228eb8179b5905bf
 ---
 
 Khul Gaye Band e Kafan Syed Mudassir Mehdi

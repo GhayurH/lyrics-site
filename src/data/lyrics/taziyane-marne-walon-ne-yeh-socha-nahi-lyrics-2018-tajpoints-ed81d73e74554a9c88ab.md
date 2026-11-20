@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed81d73e74554a9c88ab
-# source_url: https://tajpoints.com/2018/09/taziyane-marne-walon-ne-yeh-socha-nahi.html
-# raw_sha256: b8ea4f19719fe2ab04150cd54b0c9f5aef6481f6b7c86197a796f2e9337766ee
 ---
 
 1

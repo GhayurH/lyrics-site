@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:635037d0738df5e940c0
-# source_url: https://tajpoints.com/2023/07/kuch-taqreeri-kuch-tehreeri-hote-hain.html
-# raw_sha256: 4e78c4cd3d761929e1cebac7728332e2d1012069bceea91b331365c45b6e1b65
 ---
 
 Kuch Taqreeri Kuch Tehreeri Hote Hain Hasnain Akbar.

@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:141049963a040da9634d
-# source_url: https://tajpoints.com/2020/02/batool-ke-ghar-mein-lyrics-in-urdu-and.html
-# raw_sha256: 5f20dcceb748c0e76207f0a35ecc73acfe3f8384226679a6cd38d44b5c2110c9
 ---
 
 1

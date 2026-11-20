@@ -8,9 +8,6 @@ poet: "Khizar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4bb5d3985dfad6c59f9f
-# source_url: https://tajpoints.com/2023/09/jo-dhondne-tumhein-maqtal-mein-aaon-gi.html
-# raw_sha256: bb5b681056af62a17b98168a346043623b7265117448003efca3750ffd2df5f9
 ---
 
 1

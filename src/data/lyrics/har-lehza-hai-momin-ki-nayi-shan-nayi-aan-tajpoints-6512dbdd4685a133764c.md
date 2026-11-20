@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6512dbdd4685a133764c
-# source_url: https://tajpoints.com/2017/02/har-lehza-hai-momin-ki-nayi-shan-nayi.html
-# raw_sha256: 59dfa61901c11951a5a337d64bff06ac26590ed4f0a6e5f596bfbd3da4b2a0df
 ---
 
 1

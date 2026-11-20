@@ -68,9 +68,6 @@ romanLyrics: |-
   Paidal chala ke Shaam talak le ke jaaeṅ ge
   Amma lahu lahaan chaman dekhne chalo
   Zainab ke baazuoṅ meiṅ rasan dekhne chalo
-# source_id: nohayonline:ea0eba4d429df33a3394
-# source_url: https://www.nohayonline.com/details_content.php?id=2845
-# raw_sha256: d16b231776e852faf26923483bbe993dcbb6b25b31898880c9aa7cfd96038d12
 ---
 اماں ہائے اماں
 جانے لگا وطن سے جو کنبہ حسین کا

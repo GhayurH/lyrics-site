@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8ffa6b3e04981402efca
-# source_url: https://tajpoints.com/2021/03/chalte-chalte-mesum-abbas-lyrics-in.html
-# raw_sha256: bfe04c6b02a49881df86f0750a1c95c06afefbd3318f97af6f0349dde1df5554
 ---
 
 1

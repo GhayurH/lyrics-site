@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a12571091120a4cf1aeb
-# source_url: https://tajpoints.com/2019/08/shiyon-ki-eid-aayi-hai-shia-manaein.html
-# raw_sha256: dbe46c7d660a458941e98ad1c456a67aa34702c08cb50b855ed5e260096ccc13
 ---
 
 Shiyon Ki Eid Aayi Hai Shia Manaein Gaye.

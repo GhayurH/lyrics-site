@@ -58,9 +58,6 @@ romanLyrics: |-
   Tu Irfan-e-Wafa hai maiṅ Mazhar-e-Masaib
   Maiṅ us ka huṅ jo tere bayaṅ kare masaib
   Ye martaba bhi hai kam baradar baradar
-# source_id: nohayonline:137fb5f977d3d81e2499
-# source_url: https://www.nohayonline.com/details_content.php?id=3192
-# raw_sha256: 87e0e9fed0e6a3874b8af28083689ad81afb6fdade5acb8d1d860a5d3cb1e197
 ---
 عباس نوجوانم
 برادر برادر

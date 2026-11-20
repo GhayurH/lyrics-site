@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:72e07906234e2fe4c348
-# source_url: https://tajpoints.com/2018/02/bani-hai-yeh-dunya-baray-e-muhammad.html
-# raw_sha256: ceb70683d1288b0a5adbe324177d364af790fd758eefccd8b9283fa0b302f63a
 ---
 
 Bani Hai Yeh Dunya Baray-e-Muhammad.

@@ -8,9 +8,6 @@ poet: "Uzma"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9485adee7fe95d4285f8
-# source_url: https://tajpoints.com/2022/08/sakina-ka-yeh-noha-syed-muhammad-raza.html
-# raw_sha256: c5cb3300081951f85e8505e1b29135c7d9e4069cb7c8d1df98cf49cbfb128ac7
 ---
 
 1

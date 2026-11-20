@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:100f92f745b2f92f941e
-# source_url: https://tajpoints.com/2023/06/haye-veran-hoya-haye-veran-hoya-ch.html
-# raw_sha256: 011a67697fa654c7dce8435fe1946d60b4a0875a8c34a8e32ce0e16fbaae565b
-# source_title_original: Haye Veran Hoya Haye Veran Hoya Ch Faiyaz Party 2019
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Haye Veran Hoya Haye Veran Hoya Ch Faiyaz Party Sialkot

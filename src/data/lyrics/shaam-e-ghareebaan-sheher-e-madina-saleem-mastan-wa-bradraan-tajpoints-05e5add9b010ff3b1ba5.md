@@ -8,9 +8,6 @@ poet: "Ahsaan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:05e5add9b010ff3b1ba5
-# source_url: https://tajpoints.com/2025/11/shaam-e-ghareebaan-sheher-e-madina.html
-# raw_sha256: 72b982679aee14e8ff63f4e5994c6ed12a08361597e013596c63762bca34e2f5
 ---
 
 Shaam-e-Ghareebaan Sheher-e-Madina Saleem Mastan Wa Bradraan.

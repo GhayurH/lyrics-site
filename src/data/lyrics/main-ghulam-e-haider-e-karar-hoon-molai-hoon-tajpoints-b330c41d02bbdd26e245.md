@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b330c41d02bbdd26e245
-# source_url: https://tajpoints.com/2018/01/main-ghulam-e-haider-e-karar-hoon-molai.html
-# raw_sha256: d37b7c956667808efff12aba255f825bf91502d741f2b44880850fddf5e98f7c
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fb21dc1b4e22ee8a8b85
-# source_url: https://tajpoints.com/2019/08/farsh-matam-ka-bichao-keh-muharram-aaya.html
-# raw_sha256: 72191d965f07b234f51969b9eea5e869c6d247754a9ac41e64211d8063267b65
 ---
 
 1

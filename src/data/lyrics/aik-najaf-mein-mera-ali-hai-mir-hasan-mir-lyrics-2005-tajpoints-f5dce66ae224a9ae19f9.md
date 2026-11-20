@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f5dce66ae224a9ae19f9
-# source_url: https://tajpoints.com/2022/10/aik-najaf-mein-mera-ali-hai-mir-hasan.html
-# raw_sha256: 079b0e901a29df49e0f475c708044e5f1f027f586ec33c2c46f04c4956056979
 ---
 
 1

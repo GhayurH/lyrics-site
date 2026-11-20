@@ -8,9 +8,6 @@ reciter: "Not Available"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2e91ff4eb81209214b91
-# source_url: https://www.ziyaraat.net/api/noha/2718
-# raw_sha256: aa7f1a04ea631038655e2ad1a6358efd5cb6dd0c2155e3b5a10acaa0c8b06301
 ---
 
 ۱

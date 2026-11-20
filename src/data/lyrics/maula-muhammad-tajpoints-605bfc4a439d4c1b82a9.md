@@ -7,9 +7,6 @@ kalamType: "Naat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:605bfc4a439d4c1b82a9
-# source_url: https://tajpoints.com/2023/03/maula-muhammad-lyrics-in-urdu-nadeem.html
-# raw_sha256: d06562df238245189d86e61b6f7cb03bd899ec79616a4e2c0691309495479364
 ---
 
 1

@@ -8,9 +8,6 @@ reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c4aabba0726387e60993
-# source_url: https://www.ziyaraat.net/api/noha/431
-# raw_sha256: c297984195cb5f4f7fd0b1cb2abb7819cc815c32379ea905b1439ff8c0eea087
 ---
 
 Reh gayi Ali ki behti ghum uthanay kay liye

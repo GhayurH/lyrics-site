@@ -65,11 +65,6 @@ romanLyrics: |-
   Sadaayeiṅ aati thiṅ Akbar ye Hur ke laashe se
   Akele laasha-e-Akbar uthaaoge kaise
   Kaha tha aap ne mayyat uthaana mushkil hai
-# source_id: nohayonline:f9d92852645450806b70
-# source_url: https://www.nohayonline.com/details_content.php?id=2396
-# raw_sha256: 6c1ed71f3271f77bf5c394ca3b08fc48577224c833fbdbf466edf7819094bb5c
-# Consolidated ay-hurr-jawan-ka: archived four-verse preamble precedes the existing refrain; stanza numbers retained.
-# Source stanza 7 (import stanza 8) has "maa ko bataayenge aada" / "ماں کو بتائیں گے اعدا"; retain pending audio/print.
 ---
 
 جس گھڑی حر کا پسر زین سے مقتل میں گرا

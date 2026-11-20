@@ -61,9 +61,6 @@ romanLyrics: |-
   Dekh kar bekasi ka ye manzar
   Hind roti hai Aamir o Akhtar
   Saara zindaan marsiya khwaaṅ hai
-# source_id: nohayonline:64ae9d9dd3087548db5f
-# source_url: https://www.nohayonline.com/details_content.php?id=1805
-# raw_sha256: 71944a9679f9c2b333d05ca5e00377e764148e7a93146aed28f931bfbe9e216b
 ---
 
 کیسے قیدی ہے قید خانے میں

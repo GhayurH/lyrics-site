@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:b74acfdbb6ef0d74c9df
-# source_url: https://tajpoint.com/sheh-kehte-they-dil-se-mere-liptay-raho-asghar-lyrics/
-# raw_sha256: 98866fe2a282c718cdf68cdbf2640a3c45dde8491ea12e0474c3c1c21b3bbc37
 ---
 
 Sheh Kehte They Dil Se Mere Liptay Raho Asghar.

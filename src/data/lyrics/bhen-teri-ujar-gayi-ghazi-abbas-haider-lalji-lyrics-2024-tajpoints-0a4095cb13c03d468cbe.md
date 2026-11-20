@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0a4095cb13c03d468cbe
-# source_url: https://tajpoints.com/2024/08/bhen-teri-ujar-gayi-ghazi-abbas-haider.html
-# raw_sha256: d8efa6266dd9da7d434faea1420c55e7feb4d4d3bf4ef18163d3ca88d70a8f46
 ---
 
 Bhen Teri Ujar Gayi Ghazi Abbas Haider Lalji.

@@ -40,9 +40,6 @@ romanLyrics: |-
   Ghazi ne kaha john mai tab tak hoo muhafiz
   Jab tak ye mere baazu koi kaat na daale
   Baba ki wasiyat hai...
-# source_id: nohayonline:e3b6713ecf056d2ec515
-# source_url: https://www.nohayonline.com/details_content.php?id=1364
-# raw_sha256: 7bc23f03e6c1fcbf39055bb6d143943c017d3d4bf8b00edf21e7b1d165dc0580
 ---
 
 ۱

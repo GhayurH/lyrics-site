@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ae74c3c6b8d8c5fb71f7
-# source_url: https://tajpoints.com/2023/11/janazay-chad-ke-putraan-de-te-mawaan.html
-# raw_sha256: b998d70f31ef632619dc578bd0bc63f76fe717dd8ace0841ed198977a51b3a5b
 ---
 
 1

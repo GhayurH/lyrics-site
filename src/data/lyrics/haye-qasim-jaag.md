@@ -87,9 +87,6 @@ romanLyrics: |-
   Teri mehndi tera ubtan tera gehna
   Haaṅ tera sehra Zainab laayi hai
   Haye bain kare Farwa
-# source_id: nohayonline:190b7efac5bacb26cd77
-# source_url: https://www.nohayonline.com/details_content.php?id=3566
-# raw_sha256: 346cfd1cb697350e976bab8eed79aa1638ee6f9062aec2d2af4cf0b6bce89eda
 ---
 
 ہاے قاسم جاگ زرا میرا پیارے جاگ زرا

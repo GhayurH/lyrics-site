@@ -8,9 +8,6 @@ poet: "Sajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f87a8bb02504ef05cce
-# source_url: https://tajpoints.com/2021/06/raazi-ho-gar-reza-sajjad-ashraf-taqvi.html
-# raw_sha256: b8812c03fd781f43ed78ea287f4ccf910436873106f9c1eaa2a0b30bbcc9045b
 ---
 
 Raazi Ho Gar Reza Sajjad Ashraf Taqvi.

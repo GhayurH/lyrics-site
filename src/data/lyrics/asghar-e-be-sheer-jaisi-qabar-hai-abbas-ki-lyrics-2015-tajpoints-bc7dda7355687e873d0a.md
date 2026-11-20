@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bc7dda7355687e873d0a
-# source_url: https://tajpoints.com/2017/02/ro-rahi-hain-soch-kar-umm-ul-baninsa-ye.html
-# raw_sha256: b7083e357b297ce67011d8ebd7bc8be5e38b6309366a9dbb062675e29b772c0c
 ---
 
 Asghar-e-Be-Sheer Jaisi Qabar Hai Abbas Ki.

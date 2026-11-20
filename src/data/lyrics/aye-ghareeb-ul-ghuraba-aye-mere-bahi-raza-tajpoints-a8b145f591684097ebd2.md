@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a8b145f591684097ebd2
-# source_url: https://tajpoints.com/2017/02/aye-ghareeb-ul-ghuraba-aye-mere-bahi.html
-# raw_sha256: 7e2ac1090608102d96e67b228cd0543d7bb5b4da8f492fc843dbd073917c6f95
 ---
 
 Aye Ghareeb ul Ghuraba Aye Mere Bahi Raza

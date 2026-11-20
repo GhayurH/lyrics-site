@@ -8,9 +8,6 @@ poet: "Askari"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:235c3563cc099a0e9925
-# source_url: https://tajpoints.com/2024/12/illa-batool-askari-hassan-zaidi-lyrics.html
-# raw_sha256: 0127e7ee01adf2d60efde3efaeeeefe3c7daeccbfc6cbe2562cfca4955b71caf
 ---
 
 ILLA BATOOL Askari Hassan Zaidi Lyrics

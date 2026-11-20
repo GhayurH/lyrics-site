@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2f1e752ca08e75ad4bc9
-# source_url: https://tajpoints.com/2023/10/sina-akbar-ke-senay-se-main-kaise.html
-# raw_sha256: 50881c70a3afc7c178f208e5f7d50e81af09281bdec26aa4a8eaaa94724a2ed9
 ---
 
 Sina Akbar Ke Senay Se Main Kaise Khainch Paon Ga.

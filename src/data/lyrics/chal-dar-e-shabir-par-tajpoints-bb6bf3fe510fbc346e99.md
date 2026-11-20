@@ -8,9 +8,6 @@ poet: "Jafar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bb6bf3fe510fbc346e99
-# source_url: https://tajpoints.com/2020/03/chal-dar-e-shabir-par-lyrics-in-urdu.html
-# raw_sha256: 6c12997dd71ee176acf433d5bfc148c7931900be8dc32a05c67641b0ec3a7b6c
 ---
 
 1

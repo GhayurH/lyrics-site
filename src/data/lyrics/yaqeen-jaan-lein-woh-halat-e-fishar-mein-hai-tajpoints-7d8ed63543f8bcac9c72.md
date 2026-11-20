@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7d8ed63543f8bcac9c72
-# source_url: https://tajpoints.com/2018/08/yaqeen-jaan-lein-woh-halat-e-fishar.html
-# raw_sha256: c1025c1205fff3eadab21848e97f51eeb172885630b203f913ecf9586b0e1585
 ---
 
 Yaqeen Jaan Lein Woh Halat-e-Fishar Mein Hai.

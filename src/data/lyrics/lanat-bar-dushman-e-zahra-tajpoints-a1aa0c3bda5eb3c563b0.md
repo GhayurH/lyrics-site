@@ -8,9 +8,6 @@ poet: "Mazhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a1aa0c3bda5eb3c563b0
-# source_url: https://tajpoints.com/2020/09/lanat-bar-dushman-e-zahra-lyrics-in.html
-# raw_sha256: adc4b641fa62f097fae3653aa1ea26f1dfec9b6adf02c2ad2cd80aff1c02d627
 ---
 
 1

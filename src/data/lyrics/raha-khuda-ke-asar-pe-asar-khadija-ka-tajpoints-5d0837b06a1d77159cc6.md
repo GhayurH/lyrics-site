@@ -8,9 +8,6 @@ poet: "Shaukat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5d0837b06a1d77159cc6
-# source_url: https://tajpoints.com/2024/03/raha-khuda-ke-asar-pe-asar-khadija-ka.html
-# raw_sha256: 95eeaf1d7502ef591d67cfbf35b81623c3f40f1ed093b7e535acf2106ca9095d
 ---
 
 1

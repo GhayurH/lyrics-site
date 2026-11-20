@@ -8,9 +8,6 @@ poet: "Laeek"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1613664696763fe8ac3a
-# source_url: https://tajpoints.com/2018/06/haider-ka-janaza-haider-ka-janaza.html
-# raw_sha256: 630e0b0900e58055c7692264af735dc6941cbae43e46c071acb5baad56290728
 ---
 
 1

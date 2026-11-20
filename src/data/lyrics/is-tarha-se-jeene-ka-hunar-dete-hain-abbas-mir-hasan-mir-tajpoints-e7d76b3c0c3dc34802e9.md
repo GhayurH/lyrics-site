@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e7d76b3c0c3dc34802e9
-# source_url: https://tajpoints.com/2022/10/is-tarha-se-jeene-ka-hunar-dete-hain.html
-# raw_sha256: 2fc2a6aeb22c2c57dabe99647f3b89399f4842803332be24e364df7d10729357
 ---
 
 Is Tarha Se Jeene Ka Hunar Dete Hain Abbas Mir Hasan Mir.

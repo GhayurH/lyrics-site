@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:54284c5110ebf29f6286
-# source_url: https://tajpoints.com/2026/01/farsh-e-aza-subbaib-abdi-lyrics-urdu.html
-# raw_sha256: 0b8d90abb3920afa0d5b7fe8180d0b55ae47d7e927114afbda59a3ee3ef59d42
 ---
 
 1

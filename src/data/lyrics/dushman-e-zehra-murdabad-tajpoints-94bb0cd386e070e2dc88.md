@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:94bb0cd386e070e2dc88
-# source_url: https://tajpoints.com/2021/02/dushman-e-zehra-murdabad-lyrics-in-urdu.html
-# raw_sha256: 2d5e3700e4dd3651b4fd20af0fd200b7063c8fa7e4cef12cbfd40570638ed2b2
 ---
 
 Meesum Qanbar Ki Yeh Sada Hai Sare Malangon Ka Narah Hai.

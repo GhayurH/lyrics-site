@@ -56,9 +56,6 @@ romanLyrics: |-
   Sunaaye ga noha ye jab jab bhi Aamir
   Rulaayeṅ ge Asif Baqi ke manaazir
   Har ek simt se aayegi ye sada
-# source_id: nohayonline:743ab1d40088a6a4a764
-# source_url: https://www.nohayonline.com/details_content.php?id=2460
-# raw_sha256: 23aaa02e2646aff0e8c6d76fe67c084fa9ba7a0cf3f97f2d42588fc6e2390910
 ---
 
 یہ دیتی ہے مرقد سے زہرا صدا

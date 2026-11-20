@@ -57,9 +57,6 @@ romanLyrics: |-
   Arsh nohe ki sada arsh talak jaayegi
   Ghamzada hoeṅge jannat meiṅ bahut Sabir bhi
   Sun ke roeṅge ye noha jab mere haath kate
-# source_id: nohayonline:aec3aeaa01d9dae2df06
-# source_url: https://www.nohayonline.com/details_content.php?id=3267
-# raw_sha256: 6c257ab4591be2fc6cb6afa9275bb520ae8e8a68f9fa689b2aa2cde13b4059ba
 ---
 تھا یہ عباس کا نوحہ جب میرے ہاتھ کٹے
 تھی تصور میں سکینہ جب میرے ہاتھ کٹے

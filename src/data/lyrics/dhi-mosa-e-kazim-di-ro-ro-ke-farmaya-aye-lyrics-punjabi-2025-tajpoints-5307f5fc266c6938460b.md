@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5307f5fc266c6938460b
-# source_url: https://tajpoints.com/2025/10/dhi-mosa-e-kazim-di-ro-ro-ke-farmaya-aye.html
-# raw_sha256: bd7a28e0a6e772bb16faf1e7070a32524c27ffec758fa33558d1966169733a77
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Farhat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:28ec0da18fd523ba421e
-# source_url: https://tajpoints.com/2022/05/ayat-hai-fatima-shakeel-baltistani.html
-# raw_sha256: 3d6f1c2a97c7a6130adf15db830a6cba01d8477974c7745282d74d0623d652e4
 ---
 
 1

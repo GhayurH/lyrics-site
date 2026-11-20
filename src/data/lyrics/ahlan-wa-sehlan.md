@@ -62,9 +62,6 @@ romanLyrics: |-
   Har sher par ek ghar mila
   Jannat teri jagir hai
   Ahlan wa sehlan...
-# source_id: nohayonline:ef5b97318ba36e9a7388
-# source_url: https://www.nohayonline.com/details_content.php?id=2388
-# raw_sha256: edb08ea22ac81525db1a9a21fd71e185a03a8d954997f40894ebbfca972f2435
 ---
 
 ۱

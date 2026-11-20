@@ -8,9 +8,6 @@ poet: "Kaleem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0c2b55fcac61c18fbb0f
-# source_url: https://tajpoints.com/2022/04/zakhm-moula-ke-sar-pe-sajjad-ashraf.html
-# raw_sha256: 8853c82b3e49d2f40bf33eaac9ded36f882498716bb08399bf340677f71633a2
 ---
 
 1

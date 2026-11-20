@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:fc3a567e92d7e4074266
-# source_url: https://www.nohawriteups.org/bhaiya-mai-aagayi/
-# original_html: snapshots/nohawriteups/original_html/fc3a567e92d7e4074266.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/fc3a567e92d7e4074266.json
-# api_content_sha256: a97d65986d69bedc327251ddefff17aaa1de027f17d6f13d7cb233f184808217
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 chehlum ke liye bhaiya aayi hai teri zainab

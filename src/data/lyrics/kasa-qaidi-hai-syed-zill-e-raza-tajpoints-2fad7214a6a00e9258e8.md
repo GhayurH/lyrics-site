@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2fad7214a6a00e9258e8
-# source_url: https://tajpoints.com/2022/02/kasa-qaidi-hai-syed-zill-e-raza-lyrics.html
-# raw_sha256: 8e412a939ab43544272a56ab61dd97bc18426f38c5bbcba6e248e9742c4f03ba
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:a179669c5728eb124f91
-# source_url: https://www.ziyaraat.net/api/noha/2880
-# raw_sha256: 87ba3057bf7e482d28862018792144b7781cdd440adcc17b592087d71831f9e0
 ---
 
 رب جانڑے کیوں سیداں نوں اے کوفہ راس نا آیا ہائے

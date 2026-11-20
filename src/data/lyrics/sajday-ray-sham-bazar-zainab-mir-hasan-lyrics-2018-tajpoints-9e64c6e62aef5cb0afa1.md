@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9e64c6e62aef5cb0afa1
-# source_url: https://tajpoints.com/2018/09/sajday-ray-sham-bazar-zainab-turdi-rayi.html
-# raw_sha256: 3eca6577aa3b7fa61b70a5327f7833ffaa17e0559e4ba9de05a3222ef4108de3
 ---
 
 Sajday Ray Sham Bazar Zainab Turdi Rayi Mir Hasan Mir.

@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1c0c5aa0f3032e4484fa
-# source_url: https://tajpoints.com/2017/02/khuda-e-sabar-o-wafa-rab-e-mumkinaat.html
-# raw_sha256: c31451ac251c1c7c153333d241116ac8fe274d5810e93e1125640ea1e1e7d1dd
 ---
 
 Tere Karm Se Hi Qayam Hai Kainat Hussain.

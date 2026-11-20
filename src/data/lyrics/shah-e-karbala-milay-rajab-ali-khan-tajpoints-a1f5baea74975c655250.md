@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a1f5baea74975c655250
-# source_url: https://tajpoints.com/2022/03/shah-e-karbala-milay-rajab-ali-khan.html
-# raw_sha256: ecc29a3024ef5f8d370ec8125606d700f670d7fd6804213ba149686fab34219e
 ---
 
 1

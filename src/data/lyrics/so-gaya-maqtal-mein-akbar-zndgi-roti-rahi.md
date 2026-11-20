@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:d929229ff27193025ce4
-# source_url: https://www.ziyaraat.net/api/noha/222
-# raw_sha256: dcd6d4077507c9b8eee232e163f5cf596d13355d0312f7aa79b6491362cd5c3d
 ---
 
 So gaya maqtal may Akbar zindagi roti rahi

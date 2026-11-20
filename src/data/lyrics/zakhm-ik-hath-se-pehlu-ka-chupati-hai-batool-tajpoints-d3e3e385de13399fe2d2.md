@@ -8,9 +8,6 @@ poet: "Hunain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d3e3e385de13399fe2d2
-# source_url: https://tajpoints.com/2021/01/zakhm-ik-hath-se-pehlu-ka-chupati-hai.html
-# raw_sha256: 65e6923c908ac57aec2cb18472dec9b269f306ad4cb2cae37804673ecea07073
 ---
 
 1

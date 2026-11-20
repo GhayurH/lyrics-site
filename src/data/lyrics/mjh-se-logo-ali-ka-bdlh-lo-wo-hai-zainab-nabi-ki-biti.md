@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:cff4b521240435e6db67
-# source_url: https://www.ziyaraat.net/api/noha/688
-# raw_sha256: c44bab807ebaed50f168b4b3c6f2847a51f38641bb913b6660c078ea37c9bdef
 ---
 
 Mujhse logo Ali ka badla lo, wo hai Zainab Nabi ki beti hai

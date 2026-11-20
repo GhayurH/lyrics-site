@@ -62,9 +62,6 @@ romanLyrics: |-
   Bacchoṅ ko de rahi thi tasavvur meiṅ loriyaṅ
   Aamir har ek se puchti thi un ki maamta
   Bacche jo bach gaye...
-# source_id: nohayonline:ea0b4597ff0cfc28d7bb
-# source_url: https://www.nohayonline.com/details_content.php?id=3392
-# raw_sha256: afe003524b8c5f5e5a6941fb2d93449e318b648f89ad746aa25912805a76ddea
 ---
 
 ۱

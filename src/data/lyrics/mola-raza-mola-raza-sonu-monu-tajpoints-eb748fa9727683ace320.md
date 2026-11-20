@@ -8,9 +8,6 @@ poet: "Kashif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eb748fa9727683ace320
-# source_url: https://tajpoints.com/2023/05/mola-raza-mola-raza-sonu-monu-lyrics-in.html
-# raw_sha256: f9f2aa2bf763ec3423f8003e34f4cdbdd6cc1b2bad36d57aebab81fdee0545fb
 ---
 
 1

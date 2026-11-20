@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:55aef6bf51f2f1335447
-# source_url: https://tajpoints.com/2020/03/hussain-kafi-hai-lyrics-in-urdu-and.html
-# raw_sha256: 20c866ffc7037dae23c4e3656a438155f1290caf69b5fd4a23f4d44d298dbf9b
 ---
 
 Ibadaton Ka Hai Kalma Hussain Kafi Hai.

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a18711dec3680e91ac95
-# source_url: https://tajpoints.com/2021/01/karde-dil-ki-har-ik-umeed-shaheed.html
-# raw_sha256: 5c410c2f896a6070e713ce5db0e0a390d151dc9b8f38774aafb16ea230afe3d6
 ---
 
 Karde Dil Ki Har Ik Umeed Shaheed Write Up

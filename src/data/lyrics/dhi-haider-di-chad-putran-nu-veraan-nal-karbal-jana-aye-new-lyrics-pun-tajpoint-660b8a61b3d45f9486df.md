@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:660b8a61b3d45f9486df
-# source_url: https://tajpoint.com/dhi-haider-di-chad-putran-nu-veraan-nal-karbal-jana/
-# raw_sha256: 7d8eb4c5db5cd342a1ae2300043fa78c192d79c128d3917dc988c20564d8e5de
 ---
 
 1

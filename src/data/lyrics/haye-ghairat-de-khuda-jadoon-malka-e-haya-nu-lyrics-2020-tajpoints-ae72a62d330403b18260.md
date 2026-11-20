@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ae72a62d330403b18260
-# source_url: https://tajpoints.com/2020/11/haye-ghairat-de-khuda-jadoon-malka-e.html
-# raw_sha256: 363c2366ceeb4b2a453aae964a166485cb121745fd7934ae8e37823404e9fdfd
 ---
 
 1

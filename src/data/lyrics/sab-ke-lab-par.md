@@ -69,9 +69,6 @@ romanLyrics: |-
   Kis tarah qirtaas pe likhega Nazmi ka qalam
   Bekasi meiṅ tashna lab jaage hue haiṅ ahl-e-haram
   Aur shab bedaariyaaṅ haiṅ Karbala se shaam tak
-# source_id: nohayonline:5ddd755ea7c49a5be127
-# source_url: https://www.nohayonline.com/details_content.php?id=1874
-# raw_sha256: 22eb06899299b7a77ea2c55367392104b268923b5d31dfec4f41e4c0018e55ef
 ---
 سب کے لب پر سسکیاں ہیں کربلا سے شام تک
 بازوؤں میں رسیاں ہے کربلا سے شام تک

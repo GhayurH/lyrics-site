@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8ff020a8878044e4420f
-# source_url: https://tajpoints.com/2023/03/haye-oye-lutiyaan-gayiyaan-jokaan-hasan.html
-# raw_sha256: 0163f4816f7963005c22664f152b1a872b3f899d975483147a31db09d624a726
 ---
 
 Haye Oye Lutiyaan Gayiyaan Jokaan Hasan Sadiq.

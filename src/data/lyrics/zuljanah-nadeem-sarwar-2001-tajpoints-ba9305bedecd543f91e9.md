@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ba9305bedecd543f91e9
-# source_url: https://tajpoints.com/2022/12/zuljanah-nadeem-sarwar-2001-lyrics-in.html
-# raw_sha256: 713bfcec31e7e590e65743250c7ad4c03b1ec20e66eeaad0723a2a0ba19b3ae2
 ---
 
 1

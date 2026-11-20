@@ -8,9 +8,6 @@ poet: "Arsalan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a875d4e5672a641c9a7a
-# source_url: https://tajpoints.com/2025/05/fatima-al-masooma-sonu-monu-lyrics.html
-# raw_sha256: 72272e5f0c9e4e87e13d470a254d8014d498904c342bde7b5dd291941c8c26d6
 ---
 
 1

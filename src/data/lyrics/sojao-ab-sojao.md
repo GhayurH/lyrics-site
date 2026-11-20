@@ -60,9 +60,6 @@ romanLyrics: |-
   Sab ko rulaata hai rona
   Saabir tum ho ae beta
   Lori sun kar sojao
-# source_id: nohayonline:7db43fd6e817fb2e66dc
-# source_url: https://www.nohayonline.com/details_content.php?id=3265
-# raw_sha256: ecd0ca0d3d1730901ffcd679df226d6766f02a0ba93a34ccc9c6743b7e24b5f7
 ---
 سو جاؤ اب سو جاؤ پیاسے اصغر سو جاؤ
 رو رو کر نہ تڑپاؤ پیارے اصغر سو جاؤ

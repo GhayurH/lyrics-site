@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1bce0b61d3b10c3cb31a
-# source_url: https://tajpoints.com/2017/02/vain-mazdooran-ne-bughdad-de-pul-te-paye.html
-# raw_sha256: 6234e3d2962ff502c5f0c11c1eecc89d593ef248106ae9bc1fea9c07db843e4f
 ---
 
 1

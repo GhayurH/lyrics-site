@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:3c861f0520ce66b45ce9
-# source_url: https://www.ziyaraat.net/api/noha/1644
-# raw_sha256: f74fe5cd14bbaeb16ffe2bda7be2bbd70b422e7ed67c947d0c8b6c29b167dfd8
 ---
 
 Mujraee kehtai thai Sheh kuch nahi perva mujh ko

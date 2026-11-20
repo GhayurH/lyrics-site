@@ -69,12 +69,6 @@ romanLyrics: |-
   Kehte hai sab se, Irfan o Mazhar
   Paayi duaaeṅ us ne Ali se
   Jis ne uthaaya haaye
-# source_id: nohayonline:8ee38339041fcbc78146
-# source_url: https://www.nohayonline.com/details_content.php?id=2233
-# raw_sha256: ef362f184ac47b53fe6bd86916401d18aecdaad44907b31aac81faa9ea3f3f99
-# source_id: ziyaraat:337008412251df231d41
-# source_url: https://www.ziyaraat.net/api/noha/98
-# raw_sha256: a55040b69ea05e635e58897626a3e4016bf54c696cf5fb57a9723e0b8f630cdd
 ---
 
 ویران آغوشِ مادر ویران دل سکینہ کا

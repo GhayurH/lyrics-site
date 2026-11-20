@@ -26,8 +26,6 @@ romanLyrics: |-
   Meri lahad meiṅ kaise malakut aa sakeṅge
   Munkar Nakir kaise mujh ko dara sakeṅge
   Jab ke meri lahad meiṅ mera Imam hoga
-# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
-# source_notes: Transcribed from personal notebook; original Roman/Urdu checked against notebook
 ---
 جب میری زندگی کا لبریز جام ہوگا
 اس دم لبوں پہ میرے حیدر کا نام ہوگا

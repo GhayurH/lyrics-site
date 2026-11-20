@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1692233080bd30251d0b
-# source_url: https://tajpoints.com/2023/11/ashab-tere-baba-mere-wair-paye-gaye-ne.html
-# raw_sha256: 90cb69386a5a75274f74933dd315a4b6cedcc64eee7878067a7f0b02098e4531
 ---
 
 1

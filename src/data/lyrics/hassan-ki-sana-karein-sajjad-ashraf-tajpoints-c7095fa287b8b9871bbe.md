@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c7095fa287b8b9871bbe
-# source_url: https://tajpoints.com/2021/06/hassan-ki-sana-karein-sajjad-ashraf.html
-# raw_sha256: 9ac91ff46f698da46dd3b2265a93a05645439b3980b4b9ccc9d7a6fad7491b46
 ---
 
 1

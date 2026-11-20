@@ -8,9 +8,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:9e0c3924f8bba54cb0ec
-# source_url: https://www.ziyaraat.net/api/noha/442
-# raw_sha256: a3a67f6b785fbdc5fe90b86221d226c19920c1aeaee1a683e19090a1fa76a917
 romanLyrics: |-
   1
   Ae kaunr ae aida naaṅ kya ae, ae sawaal Yazid karenda je B

@@ -63,9 +63,6 @@ romanLyrics: |-
   Jo dekha tha us ne kaho ab maiṅ kiuṅkar
   Bari jab Sakina ye aawaaz sun kar
   Idhar aa idhar aa Sakina Sakina
-# source_id: nohayonline:ea45115013a313e1db4e
-# source_url: https://www.nohayonline.com/details_content.php?id=760
-# raw_sha256: 9973dda098adbba1556c549480d27276dbb5c4a349f1ed1a010523f35fccf8ad
 ---
 صدا رن سے دیتی تھی اک لاشے بے سر
 ادھر آ ادھر آ سکینہ سکینہ

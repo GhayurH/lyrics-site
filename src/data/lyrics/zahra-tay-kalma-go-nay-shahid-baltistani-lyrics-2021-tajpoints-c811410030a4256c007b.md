@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c811410030a4256c007b
-# source_url: https://tajpoints.com/2022/01/zahra-tay-kalma-go-nay-shahid.html
-# raw_sha256: 12134ea69abed71d44f1e100cefd2096359c115f878c6268ed6894a1f39f5f98
 ---
 
 1

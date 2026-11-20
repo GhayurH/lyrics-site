@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:46cbf3b955658e7785bf
-# source_url: https://www.nohawriteups.org/jado-akbar-latheya-haye-zeen-uto-lyrics-ravi-road/
-# original_html: snapshots/nohawriteups/original_html/46cbf3b955658e7785bf.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/46cbf3b955658e7785bf.json
-# api_content_sha256: 73ffb2608426590a906e3328084cce0b35d3785d15fd510bdc987dd728f400dc
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jado Akbar latheya haye zeen uto phuphiyan nay khaima chorr dita..

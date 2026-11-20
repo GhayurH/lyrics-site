@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b35e56826e44093c2b50
-# source_url: https://tajpoints.com/2020/10/ja-veerna-khairi-jawin-koi-khat-bemar.html
-# raw_sha256: 2540ddb5229383efcd00873511d87d72e2a944f12303a0f92dfaca8007e46db7
 ---
 
 1

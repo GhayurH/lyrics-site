@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ff032ec1c599055454ad
-# source_url: https://tajpoints.com/2020/05/kyun-musalmana-ne-zainab-de-piyo-nu.html
-# raw_sha256: 5fe3738400a6a52c4c6ba295b15324b712318818d396b116a17e6a2ae48bf851
 ---
 
 Kyun Musalmana Ne Zainab De Piyo Nu Maar Dita.

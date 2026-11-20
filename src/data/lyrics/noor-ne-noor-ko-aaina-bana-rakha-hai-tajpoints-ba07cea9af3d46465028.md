@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ba07cea9af3d46465028
-# source_url: https://tajpoints.com/2025/12/noor-ne-noor-ko-aaina-bana-rakha-hai.html
-# raw_sha256: 73ed50256f3c9d8e81e4f5b63ad081a714d4f748266acace3be093ee91231b62
 ---
 
 Noor Ne Noor Ko Aaina Bana Rakha Hai.

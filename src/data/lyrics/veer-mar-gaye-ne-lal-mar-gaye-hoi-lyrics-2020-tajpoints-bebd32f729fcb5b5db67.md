@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bebd32f729fcb5b5db67
-# source_url: https://tajpoints.com/2023/06/veer-mar-gaye-ne-lal-mar-gaye-hoi.html
-# raw_sha256: 5ebb26258dd3d2ee792907982fee079a02e61511ca198a1aceea46f1135b5ac7
 ---
 
 1

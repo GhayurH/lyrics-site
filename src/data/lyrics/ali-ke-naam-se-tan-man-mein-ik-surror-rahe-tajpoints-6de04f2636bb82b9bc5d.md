@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6de04f2636bb82b9bc5d
-# source_url: https://tajpoints.com/2023/01/ali-ke-naam-se-tan-man-mein-ik-surror.html
-# raw_sha256: e3f804872ba5175121f11e59547787f49886dd73bf72e8f93507e8288f008da7
 ---
 
 Ali Ke Naam Se Tan Man Mein Ik Surror Rahe.

@@ -50,9 +50,6 @@ romanLyrics: |-
   Zehra ke dil ka chain hamaara salaam le
   Insaaniyat ke din ka imaan ka salaam
   Kar le qubul Sarwar o Rehaan ka salaam
-# source_id: nohayonline:b9292513e89b6304d448
-# source_url: https://www.nohayonline.com/details_content.php?id=2035
-# raw_sha256: 90cd4c231d694fe9b6bb8731b166db1a709cc75a4b028624ec3135d1bf5e75a0
 ---
 کعبہ ہے سیاہ پوش فلک محو بکا ہے
 یہ گنبدِ افلاک سے کیوں شور اٹھا ہے

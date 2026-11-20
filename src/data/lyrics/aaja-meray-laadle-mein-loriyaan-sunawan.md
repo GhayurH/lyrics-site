@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:30be85d4393118877b6b
-# source_url: https://www.nohawriteups.org/aaja-meray-laadle-mein-loriyaan-sunawan/
-# raw_sha256: c5d282debf0fda8227637006acf04057f55d6a3829e6e23f2b43142ac3e7aedf
-# source_title_original: Aaja Meray Laadle Mein Loriyaan Sunawan
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aaja meray laadle mein loriyaan sunawan
   Tenu labdiyan Asghar meri khaali bhawan

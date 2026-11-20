@@ -102,17 +102,6 @@ romanLyrics: 'Salaami kehte thay aada rulao zainab ko
   Anees ahle haram may bapa hua mehshar
 
   Kaha jo haakim e azlam ne lao zainab ko'
-# source_id: nohayonline:383f280774c9a8435ba9
-# source_url: https://www.nohayonline.com/details_content.php?id=2192
-# raw_sha256: 293abdeee1ed3c67bf2bf079d7f3c6dd28b71919bea04f5d8b42f326b2c4ec3e
-# source_id: nohayonline:4b17a5ff0951d13dad0e
-# source_url: https://www.nohayonline.com/details_content.php?id=2792
-# raw_sha256: 28c42e78adf28decd3e2239427bdf82050acfc02c110c903c4830f7c077e568d
-# source_id: ziyaraat:243aad0107055d62116e
-# source_url: https://www.ziyaraat.net/api/noha/1832
-# raw_sha256: d781b58cab752eb1f8debf331065a61a7cb16f73a80c3e5e955b34ffd83ba129
-# added_stanza_source: roman:kalam-nohayonline-383f280774c9a8435ba9
-# added_stanza_source: urdu:kalam-nohayonline-383f280774c9a8435ba9
 ---
 
 سلامی کہتے تھے اعدا رلاؤ زینب کو

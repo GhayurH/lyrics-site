@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c1ef04fd27bcb64418e1
-# source_url: https://tajpoints.com/2021/08/abbas-ka-matam-meesum-kashmiri-lyrics.html
-# raw_sha256: cbb67ec096f323702a38560543905ff70be4d28d5bd68ead1610b68c3a23369b
 ---
 
 1

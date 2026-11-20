@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:4dee00f6f23c8f6106f8
-# source_url: https://www.nohawriteups.org/tum-rehgaey-jaakar-kahan-abbas-kahan-ho/
-# original_html: snapshots/nohawriteups/original_html/4dee00f6f23c8f6106f8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/4dee00f6f23c8f6106f8.json
-# api_content_sha256: 748880ea96f89e69b1f13fff305e24d6d3df049986a59063c0b23360ebe3100e
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Tum Rehgaey Jaakar Kahan Abbas Kahan Ho

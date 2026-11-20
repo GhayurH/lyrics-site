@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:62885492d53eef30b5dd
-# source_url: https://tajpoints.com/2021/06/eid-e-zahra-manqabat-sajjad-ashraf.html
-# raw_sha256: 8dcc706e649107ac0cd0919478b1712be56b9713ed9249fed3e1252b4b6b657a
 ---
 
 1

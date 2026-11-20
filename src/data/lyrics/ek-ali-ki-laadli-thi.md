@@ -62,9 +62,6 @@ romanLyrics: |-
   Aaj tak qaaim hai jinke dam se din-e-Mustafa
   Naam jin ka shaamil-e-juzv-e-ibaadat ho gaya
   Qudsiyaan-e-arsh ki Rehaan aati hai sada
-# source_id: nohayonline:188b1cd63722ba9f3870
-# source_url: https://www.nohayonline.com/details_content.php?id=369
-# raw_sha256: e72494b7b7ad5dfc3574174ae3093004ead8efab866020a50c0b3d8b8b2174bb
 ---
 
 پڑھ کے مہظر جب مدینے سے چلا وہ قافلہ

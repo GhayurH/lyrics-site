@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b2e2ec0ee0c4469fc56f
-# source_url: https://tajpoints.com/2020/08/jaon-main-karbobala-lyrics-in-urdu-and.html
-# raw_sha256: cedd0728998ac53b49e6f2ec034a70c288857e3f6ad2022e1f76b290612332db
 ---
 
 Karam Ke Our Ataon Ke Ik Samandar Ko.

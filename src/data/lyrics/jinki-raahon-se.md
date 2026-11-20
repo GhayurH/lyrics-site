@@ -44,9 +44,6 @@ romanLyrics: |-
   8
   Tan-e-Shabbir hai yuṅ tiroṅ ke gehwaare par
   Mayyat-e-gul ko ho jis tarah uthaaye kaante
-# source_id: nohayonline:cf6f2dad9b28a538345e
-# source_url: https://www.nohayonline.com/details_content.php?id=601
-# raw_sha256: c7b724c87eec833a582c6acf4105a443089968882cec042fbb6f773c9ee1f4cb
 ---
 
 جن کی راہوں سے پیمبر نے ہٹائے کانٹے

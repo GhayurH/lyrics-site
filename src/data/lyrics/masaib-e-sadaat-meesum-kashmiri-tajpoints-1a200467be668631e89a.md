@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a200467be668631e89a
-# source_url: https://tajpoints.com/2023/07/masaib-e-sadaat-meesum-kashmiri-lyrics.html
-# raw_sha256: bb4c3d7419011ce732961cd44643fe2f968588db1fb063360a7c8ecf8cf7d4d1
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da1fc29def1cccc2a973
-# source_url: https://tajpoints.com/2022/12/main-mimber-e-rasool-hoon-kya-dekhta.html
-# raw_sha256: 30a9eedf1d7b3e365ee584c52f40e758c24ff1e288067be958a02312710f1285
 ---
 
 Main Mimber e Rasool Hoon Kya Dekhta Raha.

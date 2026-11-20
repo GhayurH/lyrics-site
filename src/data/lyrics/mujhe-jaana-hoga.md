@@ -54,9 +54,6 @@ romanLyrics: |-
   Bas yehi soch ke Faazil ki hai aankheiṅ pur nam
   Kaise rote the sabhi bachche suna ye jis dam
   Alwida ae mere bachchoṅ mujhe jaana hoga
-# source_id: nohayonline:62c4c8262c904b111231
-# source_url: https://www.nohayonline.com/details_content.php?id=3151
-# raw_sha256: 648fbca668d9f3ca5144e00c28ddad53d13aae222c53754134aa0e7a8ef0cf30
 ---
 ہائے مظلومہ فاطمہ زہرا
 

@@ -8,9 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2f4bd02fa8773ab9225b
-# source_url: https://www.ziyaraat.net/api/noha/2201
-# raw_sha256: bf4fee7713ceeb1570ebebc80d2c9183b6d0c35479697ca9f2f1c07fb102649d
 romanLyrics: |-
   Alqama sar patakhti rahi
   Aasma khoon rota raha

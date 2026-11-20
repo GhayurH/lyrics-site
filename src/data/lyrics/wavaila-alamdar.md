@@ -64,9 +64,6 @@ romanLyrics: |-
   Khaak pe gir jaate the ro ke ye farmate the
   Le chalo laashe pe alamdar ke
   Wavaila alamdar...
-# source_id: nohayonline:aea1f8e0791dbd608689
-# source_url: https://www.nohayonline.com/details_content.php?id=3700
-# raw_sha256: db1533d1a41f57ce1e57e0087f686dd08a7c055131857cebf84ed24f84b4ecee
 ---
 
 ۱

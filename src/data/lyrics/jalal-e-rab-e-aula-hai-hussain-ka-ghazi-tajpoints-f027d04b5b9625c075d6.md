@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f027d04b5b9625c075d6
-# source_url: https://tajpoints.com/2018/05/jalal-e-rab-e-aula-hai-hussain-ka-ghazi.html
-# raw_sha256: 15638c0e8521c49842fe8ca9803ea3b4ee135698c1ddb71322380a1b439b2d19
 ---
 
 1

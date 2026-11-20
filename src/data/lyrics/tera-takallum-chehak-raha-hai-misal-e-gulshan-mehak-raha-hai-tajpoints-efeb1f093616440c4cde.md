@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:efeb1f093616440c4cde
-# source_url: https://tajpoints.com/2025/06/tera-takallum-chehak-raha-hai.html
-# raw_sha256: 3a49f56df74a9105cfa8749ed72b60a0692c15631024a08938fed65508179b85
 ---
 
 Tera Takallum Chehak Raha Hai Misal e Gulshan Mehak Raha Hai.

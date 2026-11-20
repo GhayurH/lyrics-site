@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5c6327cb008a3ed0caaf
-# source_url: https://tajpoints.com/2023/01/bhar-day-jholi-meri-bibi-zahra-maheem.html
-# raw_sha256: 8701a63c2e422ea45684e0234c524dc99ab8f3ac59beb397272d1334202fc216
 ---
 
 1

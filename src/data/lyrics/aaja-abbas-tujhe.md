@@ -37,9 +37,6 @@ romanLyrics: |-
   Kya hai aasaan ye Khurshid bhala nauhagari
   Jaante hai ye sukhanwar ke ye manzil hai kari
   Baat banti hai jo ho jaaye ata-e-Zainab
-# source_id: nohayonline:acb9429cee86f1b26165
-# source_url: https://www.nohayonline.com/details_content.php?id=3166
-# raw_sha256: 94e409836e32ba3150ac189ff49527912d802e08e5e4d8d8d5afff633376dc6d
 ---
 آجا عباس تجھے رو رو بلائے زینب
 کیسے پابند رسن شام میں جائے زینب

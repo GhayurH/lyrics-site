@@ -8,9 +8,6 @@ poet: "Fazil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:986eaa8de78ab2de7d49
-# source_url: https://tajpoints.com/2024/05/eman-reza-jaan-saleem-mastan-2024.html
-# raw_sha256: c76cc45cd33ab1382c652e747eaee00c99359e0b4e5328fc5c3854454c1d2f44
 ---
 
 1

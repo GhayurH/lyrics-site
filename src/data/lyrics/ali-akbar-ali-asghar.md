@@ -46,12 +46,6 @@ romanLyrics: |-
   9
   Phuphi amma chupaye chehra-e-ismat ko baloṅ se
   Khule sar jaa rahi hai shaam ke darbar meiṅ dilbar
-# source_id: nohayonline:f113a3ed2e74aefab2b7
-# source_url: https://www.nohayonline.com/details_content.php?id=464
-# raw_sha256: ba05fe036307a99af9516df69bc9a11f367503ab180305fa7e9c9bbd7cd8f7a8
-# source_id: ziyaraat:a38f524ebdfaf32658b1
-# source_url: https://www.ziyaraat.net/api/noha/2395
-# raw_sha256: a3325b080c5af251fa97661b338e5decc49b1ab208a3f4ad737ebf16d729e9b1
 ---
 
 علی اکبرؑ علی اصغرؑ

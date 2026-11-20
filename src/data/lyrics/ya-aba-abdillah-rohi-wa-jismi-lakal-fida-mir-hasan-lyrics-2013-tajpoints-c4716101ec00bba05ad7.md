@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c4716101ec00bba05ad7
-# source_url: https://tajpoints.com/2022/05/ya-aba-abdillah-rohi-wa-jismi-lakal.html
-# raw_sha256: 9f5905fef7d75a7383a2ca6e97f916b4763b298d64b3c8300c94dd966df03298
 ---
 
 Ya Aba Abdillah Rohi Wa Jismi Lakal Fida Mir Hasan Mir.

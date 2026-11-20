@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c8b4ddcaf14364e60c2a
-# source_url: https://tajpoints.com/2021/06/ya-imam-e-zaman-sajjad-ashraf-taqvi.html
-# raw_sha256: da05b27eb43baa905f2bf31920507fe8d06cf858580922dccf73d6a81a04f0f4
 ---
 
 1

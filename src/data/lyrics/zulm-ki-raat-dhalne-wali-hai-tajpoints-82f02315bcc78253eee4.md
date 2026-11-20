@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:82f02315bcc78253eee4
-# source_url: https://tajpoints.com/2018/01/zulm-ki-raat-dhalne-wali-hai-waris-e.html
-# raw_sha256: 660fcf24486c67bcbbad9e2317c5d32bae60abb7297845ec50101ba3d3ed31e0
 ---
 
 1

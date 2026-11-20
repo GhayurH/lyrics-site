@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b734214e0513b3f9cd97
-# source_url: https://tajpoints.com/2023/05/rahe-zinda-agar-bibi-asghar-khan-lyrics.html
-# raw_sha256: c7444d3d7b33e4390ae194d72a4e4c3fd78c0060838387fdcedcaa14241efc3d
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Waheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a5fad47448738276a372
-# source_url: https://tajpoints.com/2022/05/rab-e-kabba-ki-qasam-syed-abdullah.html
-# raw_sha256: d5a3695bd3fecf462df488959bd05575655b766334615c0835ace7844b028319
 ---
 
 Rab E Kabba Ki Qasam Syed Abdullah Hasnain.

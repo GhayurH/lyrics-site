@@ -8,9 +8,6 @@ poet: "Mohtasham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b2bac22cea8173fc8b5d
-# source_url: https://tajpoints.com/2024/10/jab-hoi-mujh-par-attaye-askari.html
-# raw_sha256: b18631406384502149d44364ea3e4ed357bbfb506e7b0dea611a24b8e8a893a4
 ---
 
 Jab Hoi Mujh Par Attaye Askari.

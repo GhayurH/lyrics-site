@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:90794490c7742bbf6e71
-# source_url: https://www.nohawriteups.org/aye-mere-kadiyal-jawan/
-# original_html: snapshots/nohawriteups/original_html/90794490c7742bbf6e71.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/90794490c7742bbf6e71.json
-# api_content_sha256: 6cf2e3611c040a3ba12d1fc307650f9f387e4ba1b51ff801b643a73b08fe3481
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Aye mere kadiyal jawan

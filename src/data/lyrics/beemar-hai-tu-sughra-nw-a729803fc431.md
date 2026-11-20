@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a729803fc4319b86e6ad
-# source_url: https://www.nohawriteups.org/beemar-hai-tu-sughra/
-# original_html: snapshots/nohawriteups/original_html/a729803fc4319b86e6ad.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a729803fc4319b86e6ad.json
-# api_content_sha256: a38cbe3302f7a20f51f03e5cf51a2acf2294854cd8c154e11d1af38891158fc4
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 yasrab se shahe deen jo suye karbala chale

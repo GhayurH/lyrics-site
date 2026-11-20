@@ -8,9 +8,6 @@ poet: "Rizwan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:116d2a7ea84bca25b488
-# source_url: https://tajpoints.com/2023/02/kaise-ye-haal-e-dard-o-alam-qaiser.html
-# raw_sha256: 0ec98738cca4bbe32b52102c54d74947e586f5f7dd3024a51fa51356265bbc36
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e5cce9c81750c918f2be
-# source_url: https://www.nohawriteups.org/sina-toot-gayi-hai/
-# original_html: snapshots/nohawriteups/original_html/e5cce9c81750c918f2be.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e5cce9c81750c918f2be.json
-# api_content_sha256: 659e32e16ddc285a985c53630dbdcec391da05e4ba9ff4833c9965b1b53a8f3c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 amma ki nigaho se mera zakm chupana

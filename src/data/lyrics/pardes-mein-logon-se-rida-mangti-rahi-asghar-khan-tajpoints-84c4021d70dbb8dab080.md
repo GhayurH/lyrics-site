@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84c4021d70dbb8dab080
-# source_url: https://tajpoints.com/2023/05/pardes-mein-logon-se-rida-mangti-rahi.html
-# raw_sha256: b0d0a36816cd92ff9d008e47bb65e3eec759d0f04627f467f4ee4d9d6444dca3
 ---
 
 1

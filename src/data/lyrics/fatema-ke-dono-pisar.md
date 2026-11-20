@@ -43,12 +43,6 @@ romanLyrics: |-
   7
   Tarap rahe haiṅ janaaze kuch aur yuṅ Akbar
   Ke tir kheṅch rahi hai badan se khud maadar
-# source_id: nohayonline:3a1bcbb58a859339e429
-# source_url: https://www.nohayonline.com/details_content.php?id=1924
-# raw_sha256: 447c3e76dc76c3eed0147e6867605ace1c10adcf1a2e8ef470024500b09894de
-# source_id: ziyaraat:99b83e810d8244698a74
-# source_url: https://www.ziyaraat.net/api/noha/1665
-# raw_sha256: d37c42283c669ea36bd9de48af08208fd667af751f65dd931b6243ee362849c6
 ---
 
 ہائے حسن ہائے حسین

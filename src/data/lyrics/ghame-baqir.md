@@ -56,9 +56,6 @@ romanLyrics: |-
   Hua ruqsat wo karbal ka musafir
   Aziyat jis ne bachpan se uthaayi
   Gham e baqir mein...
-# source_id: nohayonline:e49b2344fcedc41360ac
-# source_url: https://www.nohayonline.com/details_content.php?id=1229
-# raw_sha256: a74e3933d1f3bfbdc6c55eace2951d3fb0e3fde2a41d01342b0d983414740cf2
 ---
 
 ۱

@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:19f50c57cc2e3bbac4b0
-# source_url: https://www.nohawriteups.org/abbas-tere-dar-sa-duniya-mai-dar-kahan/
-# raw_sha256: ac8cbe63615a72a155583ae1326b49bb0bb08c2dd8a0331c9ff755aec2effb80
-# source_title_original: Abbas Tere Dar Sa Duniya Mai Dar Kahan
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 Sunle sadaa mere sakhi maula..(4)

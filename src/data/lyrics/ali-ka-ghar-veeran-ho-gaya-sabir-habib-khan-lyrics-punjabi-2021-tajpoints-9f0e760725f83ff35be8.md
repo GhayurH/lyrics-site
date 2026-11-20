@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9f0e760725f83ff35be8
-# source_url: https://tajpoints.com/2021/05/ali-ka-ghar-veeran-ho-gaya-sabir-habib.html
-# raw_sha256: 367e18e2993a3175917b12dc4838a8c84ecb14c4e1d80656264907288ab2d7ff
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:4b8bbdb1bc57399af1f0
-# source_url: https://www.ziyaraat.net/api/noha/1106
-# raw_sha256: 30ff9596ef53163eabcaa5c09faa2315a984d2a735e3dd64481afbc9f425d706
 ---
 
 Alamdar haey Alamdar

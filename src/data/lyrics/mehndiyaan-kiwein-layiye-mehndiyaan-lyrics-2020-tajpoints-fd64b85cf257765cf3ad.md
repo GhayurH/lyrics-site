@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fd64b85cf257765cf3ad
-# source_url: https://tajpoints.com/2023/06/mehndiyaan-kiwein-layiye-mehndiyaan.html
-# raw_sha256: e6aeed8299b6a488ba9b6777c721deecfcd22e37e1170916d2a6d7dd7e757f62
 ---
 
 Mehndiyaan Kiwein Layiye Mehndiyaan Asghar Khan

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fb9f58152c9696f0aaf6
-# source_url: https://tajpoints.com/2022/04/gham-e-ali-kaise-saha-hasan-ne-joan.html
-# raw_sha256: b15fade08c7af01d2074770556a1c2d65ab2d61c3b2b8711b1179f7c78e30194
 ---
 
 1

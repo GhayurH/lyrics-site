@@ -8,9 +8,6 @@ poet: "Hassaan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:43682ca8920b8106da7d
-# source_url: https://tajpoints.com/2026/08/wadi-e-ishq-se-rehmat-ki-sanad-chaahte.html
-# raw_sha256: 9f0e861da5708096af8b5c5eb8c687232e9edc340ac1b4abf7b24a8ff69fdef9
 ---
 
 Ahl-e-Maka Bhi Madine Mein Lehad Chahtey Hain.

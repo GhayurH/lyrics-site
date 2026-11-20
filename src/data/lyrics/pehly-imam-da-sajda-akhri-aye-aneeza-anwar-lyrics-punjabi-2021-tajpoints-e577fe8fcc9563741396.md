@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e577fe8fcc9563741396
-# source_url: https://tajpoints.com/2021/05/pehly-imam-da-sajda-akhri-aye-aneeza.html
-# raw_sha256: 9cb80e7baa4821e8a5c4a62c2834fd65e07abe095dcd4fc6a987ca5e82f7d472
 ---
 
 1

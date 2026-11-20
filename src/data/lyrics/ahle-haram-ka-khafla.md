@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Hum ne Surur aaj khun-e-jigar se
   Dil pe likhe haiṅ nohe ke ashar
-# source_id: nohayonline:ebbcdadecc079eaad544
-# source_url: https://www.nohayonline.com/details_content.php?id=3742
-# raw_sha256: 84da142c04f7f401525b67cd5722a41d2b2bb428acfb06129c851807b84dfe35
 ---
 اہلِ حرم کا قافلہ سالار
 عابد بیمار عابد بیمار

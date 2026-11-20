@@ -8,9 +8,6 @@ poet: "Bahlool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6f74f483332c28d9d725
-# source_url: https://tajpoints.com/2019/05/sadaat-ka-howa-hai-muqadar-laho-laho.html
-# raw_sha256: 645bd5d0d987d921ec506e075acebea24bcf9e1089cf5ec2679b71e0b4b79f3e
 ---
 
 Sadaat Ka Howa Hai Muqadar Laho Laho.

@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:132591160273ee999b84
-# source_url: https://tajpoints.com/2017/02/sar-khushi-sar-mastiyon-ke-ho-gaye.html
-# raw_sha256: a714a4b5f5d60a3ad9528911f88b2101e06f03568f35bf8fbe4af7e267e012a4
 ---
 
 1

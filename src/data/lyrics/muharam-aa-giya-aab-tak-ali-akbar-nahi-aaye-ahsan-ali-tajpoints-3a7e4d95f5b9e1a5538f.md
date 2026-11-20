@@ -8,9 +8,6 @@ poet: "Naveed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3a7e4d95f5b9e1a5538f
-# source_url: https://tajpoints.com/2017/02/muharam-aa-giya-aab-tak-ali-akbaras.html
-# raw_sha256: 856733aa4b8a8635f85e14d05a6cfc23535fd36a4221246f090d712deee106df
 ---
 
 1

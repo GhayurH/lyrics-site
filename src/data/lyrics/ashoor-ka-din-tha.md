@@ -75,12 +75,6 @@ romanLyrics: |-
   Barpa thi qayaamat
   Jab qabr-e-Nabi hilti thi jab roti thi Zehra
   Ashur ka din tha
-# source_id: nohayonline:32f94eefb52c3362a0ef
-# source_url: https://www.nohayonline.com/details_content.php?id=1357
-# raw_sha256: 6f8e997a8292d8f5843f0742bf294a17e2fad8f62a25af2f350821355ad89471
-# source_id: nohayonline:857a93a0b4778845e28a
-# source_url: https://www.nohayonline.com/details_content.php?id=2232
-# raw_sha256: 96c3c20d57ad5e3009ef80d4c18f15df7a4ab7c36bc8b6caccfd62bcef0139c4
 ---
 
 مقتل میں تھا جب چاروں طرف موت کا پہرہ

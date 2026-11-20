@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b9baae24570b4b79003f
-# source_url: https://tajpoints.com/2019/08/bichrey-safar-mein-aisay-muslim-ke.html
-# raw_sha256: e88c75b5908b89d9fcb6aef0b76e1fc7a5b94532d1b0bb3548378df6e0225ff9
 ---
 
 1

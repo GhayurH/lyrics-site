@@ -8,9 +8,6 @@ poet: "Abdullah"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:77c794517a8d4828caf8
-# source_url: https://tajpoints.com/2020/08/rowaan-ghazi-main-tere-baaj-lyrics-in.html
-# raw_sha256: de39b718da4ab8269d03546e39c5748ee064d18e164c4ed95d020e9d3232bcdd
 ---
 
 1

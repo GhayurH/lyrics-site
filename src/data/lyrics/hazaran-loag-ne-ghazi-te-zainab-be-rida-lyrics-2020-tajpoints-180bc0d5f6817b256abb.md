@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:180bc0d5f6817b256abb
-# source_url: https://tajpoints.com/2023/04/hazaran-loag-ne-ghazi-te-zainab-be-rida.html
-# raw_sha256: a1737297d3091562ef0022809d257cdd41f294a8751d5f075bf1e1179b1de0bc
 ---
 
 1

@@ -76,9 +76,6 @@ romanLyrics: |-
   Ae mazlum beti ke mazlum baba
   Tumhare hawale tumhari sakina
   Haye sakina pyasi sakina...
-# source_id: nohayonline:ac1cdce9caae5e08890e
-# source_url: https://www.nohayonline.com/details_content.php?id=3514
-# raw_sha256: d05f01af878dd0d226f4dfcd1386f848ec8b3edcec5539b902c8dd0637acb4ff
 ---
 
 ۱

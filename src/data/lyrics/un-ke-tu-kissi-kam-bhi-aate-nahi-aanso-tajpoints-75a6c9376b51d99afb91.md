@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:75a6c9376b51d99afb91
-# source_url: https://tajpoints.com/2017/02/un-ke-tu-kissi-kam-bhi-aate-nahi-aanso.html
-# raw_sha256: 2d217c44e40c4f1b0729e6af132570295bbe39b582697fe7a7bc14c148994823
 ---
 
 1

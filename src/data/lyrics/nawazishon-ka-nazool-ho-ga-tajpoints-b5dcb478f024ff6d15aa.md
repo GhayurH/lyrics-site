@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b5dcb478f024ff6d15aa
-# source_url: https://tajpoints.com/2017/02/nawazishon-ka-nazool-ho-ga.html
-# raw_sha256: 3eac09a763934159bf4bb1da58c0402070dc3ca27f4aa8cf4af7b6ef05acf81b
 ---
 
 1

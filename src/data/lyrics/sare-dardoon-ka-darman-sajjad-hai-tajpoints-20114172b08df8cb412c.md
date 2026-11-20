@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:20114172b08df8cb412c
-# source_url: https://tajpoints.com/2021/12/sare-dardoon-ka-darman-sajjad-hai.html
-# raw_sha256: 60b5e04917d0253ab6ef713b2b9ad00c722764cdd8c79b41613ef92b29a5adde
 ---
 
 1

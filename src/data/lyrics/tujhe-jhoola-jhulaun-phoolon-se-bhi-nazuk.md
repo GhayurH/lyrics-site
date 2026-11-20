@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:fdf184943cdbb5b557e1
-# source_url: https://www.ziyaraat.net/api/noha/2758
-# raw_sha256: 8d0c47568aef6bb809eda3c9b3ee57c105b3a6b6b56c755ace72eeb7ff29e615
 ---
 
 تجھے جھولا جھلاؤں میں تجھے جھولا جھلاؤں

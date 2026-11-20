@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:69abfba9ce617f112b69
-# source_url: https://www.nohawriteups.org/lashay-uthanay-walay-ka-laasha-fatemah-ladak-noha-lyrics-2023/
-# original_html: snapshots/nohawriteups/original_html/69abfba9ce617f112b69.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/69abfba9ce617f112b69.json
-# api_content_sha256: e6d272c5d6f4780f9ba6a660a85b83d165468e1121fad835a77c1f79f2783b54
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Laashe Uthane Wale Ka Laasha Na Uth Saka

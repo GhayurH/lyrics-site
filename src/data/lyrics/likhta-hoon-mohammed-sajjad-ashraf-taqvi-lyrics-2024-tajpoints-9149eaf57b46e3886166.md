@@ -8,9 +8,6 @@ poet: "Naveed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9149eaf57b46e3886166
-# source_url: https://tajpoints.com/2024/09/likhta-hoon-mohammed-sajjad-ashraf-taqvi.html
-# raw_sha256: 05405a15b8df4cc8ef3cb68085c3455278472f7d03ddff5cb8c415d44cb28aed
 ---
 
 1

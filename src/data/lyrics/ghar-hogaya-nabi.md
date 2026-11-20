@@ -43,9 +43,6 @@ romanLyrics: |-
   Baad-e-Husain Akhtar Zainab ka tha ye noha
   Abbas hai na Qasim kis ko bulaauṅ Baba
   Aa jaao tum hi bahr-e-imdaad Karbala meiṅ
-# source_id: nohayonline:0fd6f5cb48ee4744c6b9
-# source_url: https://www.nohayonline.com/details_content.php?id=958
-# raw_sha256: c0fc2a1368f6e4506c5e818442609b0bf6b8fbaf1f44a19a94950be266f058a8
 ---
 گھر ہوگیا نبی کا برباد کربلا میں
 مردوں میں بس بچے ہیں سجاد کربلا میں

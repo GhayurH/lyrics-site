@@ -70,9 +70,6 @@ romanLyrics: |-
   Jab Shah chali tera zarbeiṅ
   Ghaazi ko sadaaeiṅ de de kar
   Bhai ka tarapna maar gaya
-# source_id: nohayonline:5864fe25b17ca1d216fe
-# source_url: https://www.nohayonline.com/details_content.php?id=2740
-# raw_sha256: 4843037f0cfd3de7f5db24d0299cd468f1adf79abdb692fb48a2953c32a6d75d
 ---
 مار گیا بابا تیری زینب کو
 عباس کا مرنا مار گیا

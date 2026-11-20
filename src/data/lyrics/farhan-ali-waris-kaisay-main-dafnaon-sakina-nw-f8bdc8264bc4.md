@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f8bdc8264bc474a9b87b
-# source_url: https://www.nohawriteups.org/farhan-ali-waris-kaisay-main-dafnaon-sakina-noha-2022-1444-lyrics/
-# original_html: snapshots/nohawriteups/original_html/f8bdc8264bc474a9b87b.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f8bdc8264bc474a9b87b.json
-# api_content_sha256: 387b3f5859f26bdf7f8ccb6f58a757d6eaa4f29c4eb6adbaf93869b5cfe864db
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 HAY

@@ -60,16 +60,6 @@ romanLyrics: |-
   11
   Bula lijiyega apne rauza-e-aqdas pe Ishrat ko
   Pasand aa jaaye gar Ishrat ka nauha ya Rasul Allah
-# source_id: nohayonline:8ac44a1cddf99ec103c5
-# source_url: https://www.nohayonline.com/details_content.php?id=1355
-# raw_sha256: faa3a122786b6745e4a6d43b00c251e56db4787bfb6dc9f1d4f9d7ef79c2f610
-# source_id: nohayonline:d56fe13975b5c0e130e8
-# source_url: https://www.nohayonline.com/details_content.php?id=2247
-# raw_sha256: 33daeca7f57a3999d43232df48585ebe5d51fbd6b54b958d6f7a3489442bff8b
-# source_id: ziyaraat:7aab12dc92fba37f30b2
-# source_url: https://www.ziyaraat.net/api/noha/1797
-# raw_sha256: ce5b5f8a5447128167edbc2e6d17b0e9d2e3df07c989727eb753cd6c5146a735
-# added_stanza_source: roman:kalam-ziyaraat-7aab12dc92fba37f30b2
 ---
 مدینہ لٹ گیا وہ وقت آیا
 یا رسول اللّٰہ

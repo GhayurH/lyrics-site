@@ -56,11 +56,6 @@ romanLyrics: |-
   Aini bhala woh kis tarha bechargi likhe
   Aamir na jaane kaise Ali qabr se uthe
   Aawaz bas ye aati rahi gham na khaiye
-# editorial_uncertainty: Stanza five third line differs between archived NoHayOnline Urdu and Roman; Tajpoints repeats the Roman reading. Audio/print review pending; neither disputed line adjudicated.
-# comparison_source_url: https://tajpoints.com/2026/10/ab-raat-ho-chuki-hai-ameer-hasan.html
-# source_id: nohayonline:ad7e74a2f4f81ec4d600
-# source_url: https://www.nohayonline.com/details_content.php?id=2110
-# raw_sha256: 3d397afb0aa8a9e1954dded371afcd04188dc8a470d9d6e47c1ae9e5c5211c4c
 ---
 جب خاک میں چھپا چکے بیٹی رسول کی
 منہ رکھ کے اپنا قبر پہ روتے رہے علی

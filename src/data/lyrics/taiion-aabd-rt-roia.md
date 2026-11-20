@@ -31,9 +31,6 @@ romanLyrics: |-
   4. Sajjad nay vekhay hin, Akhtar o zulm saray,
   Kivain Shimr laeen koray, edi paak kandh tey maarey
   Phir ve na mu cho nikli,  ummat laye bad-duwa
-# source_id: ziyaraat:ed8a463e5ab53a6e5c7b
-# source_url: https://www.ziyaraat.net/api/noha/694
-# raw_sha256: 7100fef69d8f655ffd329fae8141ff8bc88238252a92396a3f560b6965d84c3b
 ---
 
 تائیوں عابدؑ رت رویا

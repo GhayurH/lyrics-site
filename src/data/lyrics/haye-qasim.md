@@ -50,9 +50,6 @@ romanLyrics: |-
   Pehle pamaal ho gaya qasim
   Haye qasim...
   Ek gathri mein...
-# source_id: nohayonline:eca30354b8ff8ac36050
-# source_url: https://www.nohayonline.com/details_content.php?id=2808
-# raw_sha256: 8fc0317dc6267ff5152a301209dc9b3adf4b7e8a57dddd166b2510d27e0be7f4
 ---
 
 ۱

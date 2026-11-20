@@ -8,9 +8,6 @@ poet: "Laeeq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1b9d81ec9688eaa27004
-# source_url: https://tajpoints.com/2021/01/amma-main-bohat-piyasa-hoon-lyrics-in.html
-# raw_sha256: 759d0ddb014be0fa88585f41d9b5aa5186ab0f12f702367a22f6f7ec285783da
 ---
 
 1

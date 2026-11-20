@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6b7af29ed81287e37d22
-# source_url: https://www.nohawriteups.org/hussain-ya-hussain-ya-hussain-ya-hussain/
-# original_html: snapshots/nohawriteups/original_html/6b7af29ed81287e37d22.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6b7af29ed81287e37d22.json
-# api_content_sha256: 10c0517bdb5455c9a4f33be25ee9a363591d4586afdf16dce92ed98e1b29d3d8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Hussain Ya Hussain Ya Hussain Ya Hussain

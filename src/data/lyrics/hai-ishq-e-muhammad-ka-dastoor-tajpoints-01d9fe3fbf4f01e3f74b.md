@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:01d9fe3fbf4f01e3f74b
-# source_url: https://tajpoints.com/2017/02/hai-ishq-e-muhammadsaww-ka-dastoor-juda.html
-# raw_sha256: e2a87e1b768cf7936a04315c0111b64f3afb8408d55e00634045e084b0472043
 ---
 
 1

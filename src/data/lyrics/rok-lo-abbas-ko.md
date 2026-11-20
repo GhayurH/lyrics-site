@@ -82,9 +82,6 @@ romanLyrics: |-
   Shabbir hai ab laachar
   Kahiṅ chal na pare talwaar
   Zainab rok lo abbas ko...
-# source_id: nohayonline:08d8d9db57375a472da3
-# source_url: https://www.nohayonline.com/details_content.php?id=2458
-# raw_sha256: e1fb4c0aa29a3fe3860112f34b3f9b99fc9f69654b054b58c3505b98da6ca70d
 ---
 
 ۱

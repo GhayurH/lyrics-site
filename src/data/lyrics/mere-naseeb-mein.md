@@ -59,9 +59,6 @@ romanLyrics: |-
   Hai intezaar meiṅ Zishan Abidi kab se
   Habib se kaheṅ Aashur par bula leṅ mujhe
   Raza ka naam bhi ab tak likha nahiṅ Maula
-# source_id: nohayonline:a21a240d0e814de49b1c
-# source_url: https://www.nohayonline.com/details_content.php?id=2727
-# raw_sha256: ac62b7ee7a97363c2b1f144ca6506e2011b91bdbfd5a30fe3acd569aab027683
 ---
 بہت اُداس ہوں اور دل تڑپ رہا ہے میرا
 بڑی تمنا تھی دیکھوں گا آپ کا روضہ

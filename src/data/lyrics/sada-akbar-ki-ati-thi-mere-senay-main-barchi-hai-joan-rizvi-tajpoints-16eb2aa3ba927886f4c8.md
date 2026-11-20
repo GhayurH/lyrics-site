@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:16eb2aa3ba927886f4c8
-# source_url: https://tajpoints.com/2025/07/sada-akbar-ki-ati-thi-mere-senay-main.html
-# raw_sha256: e27870574874c77cd53055ef009f0bcc0819b25f1c758d9012042a77da3c23d1
 ---
 
 Sada Akbar Ki Ati Thi Mere Senay Main Barchi Hai Joan Rizvi.

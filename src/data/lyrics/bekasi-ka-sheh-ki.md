@@ -49,9 +49,6 @@ romanLyrics: |-
   Jab hui beparda aulaad-e-Rasul
   Phir jahaaṅ meiṅ kis ka parda reh gaya
   Mujrai mehmaan pyaasa reh gaya
-# source_id: nohayonline:f6ab54d1f8b72ee5467b
-# source_url: https://www.nohayonline.com/details_content.php?id=1904
-# raw_sha256: cb6e5174793e45110e5432b4972380db11a9cd3b02ecaec9f5b880ba25dcb5b2
 ---
 بیکسی کا شہ کی چرچہ رہ گیا
 مجرعی مہمان پیاسا رہ گیا

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:cbc4e6353a6e2dea1c9d
-# source_url: https://www.ziyaraat.net/api/noha/1796
-# raw_sha256: c1922f4028fc42c2367c72c2fbead739756c1b1255170d84757b8ad9f51a74f0
 ---
 
 Rann se jab Akbar ka laasha aayega

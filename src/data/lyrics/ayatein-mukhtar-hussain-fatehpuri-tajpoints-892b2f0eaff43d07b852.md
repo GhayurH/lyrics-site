@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:892b2f0eaff43d07b852
-# source_url: https://tajpoints.com/2024/01/ayatein-mukhtar-hussain-fatehpuri.html
-# raw_sha256: 856e6c6c384decb6bfcfcebad0a1f76767bd4a9bda777ea465d1e49fef5c2793
 ---
 
 Ayatein Mukhtar Hussain Fatehpuri

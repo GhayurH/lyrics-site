@@ -9,9 +9,6 @@ reciter: "Sajjad Ashraf Taqvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5e2d36c1f3b1db7e95e6
-# source_url: https://tajpoints.com/2021/12/haye-zahra-ko-sataya-sajjad-ashraf.html
-# raw_sha256: d3b8b121012edef0dd5824eadc09412d441ca02f50a2870a1784dd7014480225
 ---
 
 Haye Zahra Ko Sataya Hai Musalmano Ne

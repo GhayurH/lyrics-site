@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:234c6bc86c873bcd3718
-# source_url: https://www.nohawriteups.org/zainab-kay-dularoon-key-kush-ehsi/
-# original_html: snapshots/nohawriteups/original_html/234c6bc86c873bcd3718.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/234c6bc86c873bcd3718.json
-# api_content_sha256: 728b428d68c339d6e83490cf6ea32198ea4f6faa3b3fec8137df42bf01c976d5
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Zainab Kay Dularoon Key Kush Ehsi Shahadat Hay

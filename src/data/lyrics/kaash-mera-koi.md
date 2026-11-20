@@ -46,9 +46,6 @@ romanLyrics: |-
   Tujhko baba ki qasam ab nahi dena ye sada
   Kaash mera koi beta hota
   Shabe ashur tha kulsum…
-# source_id: nohayonline:ad18360ee93b9bf52ee0
-# source_url: https://www.nohayonline.com/details_content.php?id=475
-# raw_sha256: 0178a648dfd676d1768368ae7e2bac74fbd3e68ef14538212d8c2bad483dba8c
 ---
 
 ۱

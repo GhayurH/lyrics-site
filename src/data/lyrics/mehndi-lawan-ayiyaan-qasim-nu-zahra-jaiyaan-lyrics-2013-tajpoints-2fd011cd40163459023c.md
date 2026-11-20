@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2fd011cd40163459023c
-# source_url: https://tajpoints.com/2023/05/mehndi-lawan-ayiyaan-qasim-nu-zahra.html
-# raw_sha256: dba8b65a8fe9975465adc4e4583fabef6ef825f5ad3edb311cfd77fccbdb0766
 ---
 
 1

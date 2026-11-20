@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:23149e885bea87efddaf
-# source_url: https://www.nohawriteups.org/zahra-jo-pyaro-sindhi-nadeem-sarwar/
-# original_html: snapshots/nohawriteups/original_html/23149e885bea87efddaf.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/23149e885bea87efddaf.json
-# api_content_sha256: cf8d3bb09937721202b2bf2a8f28d739ea2be4b16fc4bf72d0632ad8670d49a6
-# editorial_note: Unpublished source-faithful draft from approved valid sindhi only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review; source language is nonstandard and requires editor review.
 ---
 
 هر لب تيءَ نعرو

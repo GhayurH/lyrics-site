@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4a03fe69013567554b6c
-# source_url: https://tajpoints.com/2020/11/kofa-o-sham-ke-be-dard-sitamgaron-se.html
-# raw_sha256: 70b813129f976a30b607d4d0ef88a62af5cbb3167eacb169ea25a4bb94cbe0a2
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Aqeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e1a0f1026ad9777daacf
-# source_url: https://tajpoints.com/2022/07/kiwain-aagai-zaeefi-syed-ali-ghazi.html
-# raw_sha256: 400672a91668b8e62ab6e2ae09fc0df58d7d7187876b3856100f994d743a8fc8
 ---
 
 Kiwain Aagai Zaeefi Syed Ali Ghazi Zaidi.

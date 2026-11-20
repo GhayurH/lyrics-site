@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:91701d0cb327c4b66524
-# source_url: https://tajpoints.com/2017/02/fatimasa-ka-bahre-madine-mein-gham.html
-# raw_sha256: 7c3c2bb34244c7af8e90a0565b724a1fde69b80fa6e597c0885b32b588878f81
 ---
 
 Fatima Ka Bahre Madine Mein Gham Batane Koi Nahi Aya Write Up

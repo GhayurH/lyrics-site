@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1591f4de7645292dccea
-# source_url: https://www.nohawriteups.org/parho-la-illaha-illallah/
-# original_html: snapshots/nohawriteups/original_html/1591f4de7645292dccea.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1591f4de7645292dccea.json
-# api_content_sha256: 683c8562e92c7884b0df075d498041847ee9272ea2ceca289207f13a1c27412b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Parho La Illaha Illallah

@@ -8,9 +8,6 @@ poet: "Sadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a92e5e70e80e08129931
-# source_url: https://tajpoints.com/2021/10/chehlum-mana-kay-roiyan-syed-mudassir.html
-# raw_sha256: ab6116625b596939fb5be9be09046e33e563ce6158a170262f81d5d9cd055346
 ---
 
 1

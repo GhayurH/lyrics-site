@@ -73,9 +73,6 @@ romanLyrics: |-
   Imam-e-Zaman ke sabhi muntazir haiṅ
   Khuda ki qasam sab nabi muntazir haiṅ
   Jahaṅ un ka maskal banaya gaya hai
-# source_id: ziyaraat:077f82755939b8a8733e
-# source_url: https://www.ziyaraat.net/api/noha/2536
-# raw_sha256: c426f0fa04c1f342b0e4e5cf46b33e0f8ea67a879ba425e3493abe3394d5f889
 ---
 
 وہ بس کربلا ہے، وہ بس کربلا ہے

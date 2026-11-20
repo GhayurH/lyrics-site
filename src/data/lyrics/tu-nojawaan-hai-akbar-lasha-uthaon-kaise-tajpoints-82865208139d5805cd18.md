@@ -8,9 +8,6 @@ poet: "Hunain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:82865208139d5805cd18
-# source_url: https://tajpoints.com/2023/08/tu-nojawaan-hai-akbar-lasha-uthaon.html
-# raw_sha256: 99222a95535007505e591b187ee0d9f19e7b6b0c23ad7fa5a786c4277d1da24f
 ---
 
 1

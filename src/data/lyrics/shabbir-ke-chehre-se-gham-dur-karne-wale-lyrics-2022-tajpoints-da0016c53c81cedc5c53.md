@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da0016c53c81cedc5c53
-# source_url: https://tajpoints.com/2022/08/shabbir-ke-chehre-se-gham-dur-karne.html
-# raw_sha256: 7ada012258a0c7a09c0a302699ddc6f569df5f2cee79e1d447a423f2f8749a65
 ---
 
 1

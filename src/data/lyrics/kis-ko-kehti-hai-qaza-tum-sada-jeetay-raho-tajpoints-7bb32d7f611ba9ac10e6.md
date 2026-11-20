@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7bb32d7f611ba9ac10e6
-# source_url: https://tajpoints.com/2020/02/kis-ko-kehti-hai-qaza-tum-sada-jeetay.html
-# raw_sha256: 41ee0ca118e37396061fc12b93d8c0acd1181453caefd1dbb62542bebc5c729a
 ---
 
 1

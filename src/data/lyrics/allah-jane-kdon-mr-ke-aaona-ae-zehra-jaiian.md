@@ -8,9 +8,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7fc75405e51aaeaebdbc
-# source_url: https://www.ziyaraat.net/api/noha/207
-# raw_sha256: d862c12be3502d7fa53e6d5cd9c03a9b848e1362e359f2aa38fcd0d5993ed690
 ---
 
 Allah janay kadoon mur kay awna ay Zahra jaiyaan, Shaam chaliyaan logo

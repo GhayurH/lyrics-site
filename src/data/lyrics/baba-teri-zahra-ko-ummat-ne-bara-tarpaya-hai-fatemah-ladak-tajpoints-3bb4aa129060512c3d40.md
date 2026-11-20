@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3bb4aa129060512c3d40
-# source_url: https://tajpoints.com/2021/12/baba-teri-zahra-ko-ummat-ne-bara.html
-# raw_sha256: d962e8a58a5107c96f8058bafbeb59b22a59583c19561ba7a10b5a0e96e90885
 ---
 
 1

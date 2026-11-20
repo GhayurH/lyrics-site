@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc98177bba82130ed333
-# source_url: https://tajpoints.com/2024/07/bas-maula-bulalain-ali-shanawar-lyrics.html
-# raw_sha256: 9ea7610aabcb3b27cee187c0abaf4c8b86ff9cb14a2eef8a9a8f6dbc13533535
 ---
 
 1

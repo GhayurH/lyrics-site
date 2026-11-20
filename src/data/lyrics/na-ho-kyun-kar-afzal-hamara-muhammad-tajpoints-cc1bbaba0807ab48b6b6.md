@@ -8,9 +8,6 @@ poet: "Daag"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc1bbaba0807ab48b6b6
-# source_url: https://tajpoints.com/2017/02/na-ho-kyun-kar-afzal-hamara-muhammadsaww.html
-# raw_sha256: f7befa240491779d58b15a2e60e379117771e75c33555021d23efbf74da76a9c
 ---
 
 Na Ho Kyun Kar Afzal Hamara Muhammad.

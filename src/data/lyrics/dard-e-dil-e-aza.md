@@ -90,9 +90,6 @@ romanLyrics: |-
   20
   Hamaray gham mananay ka agar har dhab Hussaini ho
   Zamany bhi ki har ik qom ka mazhab Hussaini ho
-# source_id: ziyaraat:17612b7c1cd13e59ec9f
-# source_url: https://www.ziyaraat.net/api/noha/2748
-# raw_sha256: ec031c8b0cbadf2f8bafa5ba0215e4fc8fce779771d2f265f640f352aa71b3fe
 ---
 
 ۱

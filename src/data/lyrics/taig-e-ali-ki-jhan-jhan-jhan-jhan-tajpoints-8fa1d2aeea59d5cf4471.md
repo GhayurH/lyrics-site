@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8fa1d2aeea59d5cf4471
-# source_url: https://tajpoints.com/2020/03/taig-e-ali-ki-jhan-jhan-jhan-jhan.html
-# raw_sha256: 24f99bca04f5b858863ee0e826acceec3150463e117a4baa2cd05fc280399593
 ---
 
 Taig e Ali Ki Jhan Jhan Jhan Jhan.

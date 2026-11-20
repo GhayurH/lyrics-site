@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:592928a18d3489c28ad7
-# source_url: https://tajpoint.com/meri-turbat-par-aye-baba-aa-nahi-sakta-koi-lyrics/
-# raw_sha256: c4779c0fde9e07c47051682e3bf9fc93791fb2f75d21d59f5a7fb1d13a89cee7
 ---
 
 Meri Turbat Par Aye Baba Aa Nahi Sakta Koi.

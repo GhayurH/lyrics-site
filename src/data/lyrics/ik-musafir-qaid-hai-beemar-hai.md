@@ -8,9 +8,6 @@ reciter: "Rizvia Party"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1b146068087f7b83ad10
-# source_url: https://www.ziyaraat.net/api/noha/1638
-# raw_sha256: 395ccc92690a9499c95a5c8f948be3b4c74f671422ad8482ea9ace69cb7e03de
 ---
 
 Ik musafir qaid hay beemar hay

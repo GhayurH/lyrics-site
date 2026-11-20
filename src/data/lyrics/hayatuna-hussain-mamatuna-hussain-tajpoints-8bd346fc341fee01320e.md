@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8bd346fc341fee01320e
-# source_url: https://tajpoints.com/2019/01/hayatuna-hussain-mamatuna-hussain.html
-# raw_sha256: c2d6323a3a5f322f163ec53fafcb02f1d9e0315a69ee2c9284d673d246a8ddde
 ---
 
 1

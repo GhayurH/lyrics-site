@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c12678e82072304e4ffa
-# source_url: https://tajpoints.com/2024/03/ghazi-da-baba-ruk-ja-lal-hussain.html
-# raw_sha256: b6e845f767dd40a9294c1f0acf8091679f594f672e8b699da4fc09efa9fd77b0
 ---
 
 Ghazi Da Baba Ruk Ja Lal Hussain Haideri.

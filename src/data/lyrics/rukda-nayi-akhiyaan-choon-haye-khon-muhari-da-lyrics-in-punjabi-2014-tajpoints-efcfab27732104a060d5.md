@@ -9,9 +9,6 @@ poet: "Tanveer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:efcfab27732104a060d5
-# source_url: https://tajpoints.com/2017/02/rukda-nai-akhiyaan-choon-haye-khoon.html
-# raw_sha256: dabaddb0725685e5884a1b09eefde0cddf5afe8c51534cb7251b533548ff813e
 ---
 
 Rukda Nayi Akhiyaan Choon Haye Khon Muhari Da.

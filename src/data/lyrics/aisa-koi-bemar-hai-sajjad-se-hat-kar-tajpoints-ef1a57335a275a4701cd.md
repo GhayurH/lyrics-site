@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ef1a57335a275a4701cd
-# source_url: https://tajpoints.com/2017/02/aisa-koi-bemar-hai-sajjad-se-hat-kar.html
-# raw_sha256: c2c37e94e08db8cc71fe9dd6809a76cc0b66cd5f45d40aa8003230f43fe35e77
 ---
 
 Aisa Koi Bemar Hai Sajjad Se Hat Kar.

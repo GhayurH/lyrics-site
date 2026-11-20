@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c152c475463a31244880
-# source_url: https://www.ziyaraat.net/api/noha/547
-# raw_sha256: 82b2a1613684041adc9a77ae20052966ccd79bdc3e6b6d97e18269e439ccd98e
 ---
 
 1) Sakina qaid ho kar Karbala se Shaam jati hai

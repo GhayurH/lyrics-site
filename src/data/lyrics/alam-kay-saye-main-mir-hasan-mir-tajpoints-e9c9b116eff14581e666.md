@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e9c9b116eff14581e666
-# source_url: https://tajpoints.com/2024/02/alam-kay-saye-main-mir-hasan-mir-lyrics.html
-# raw_sha256: f0b3bf43cf4cf30dd3073b967e6bd4c75398e9c6cd99834d47ee9abba1be7134
 ---
 
 Alam Kay Saye Main Mir Hasan Mir Lyrics

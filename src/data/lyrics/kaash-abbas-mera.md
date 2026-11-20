@@ -73,9 +73,6 @@ romanLyrics: |-
   Shaah ke laashe se bhi hone lage ashk rawaaṅ
   Nehr pe tarpa udhar laasha-e-Abbas-e-jawaaṅ
   Ashk fishaaṅ hue maatam meiṅ idhar ahl-e-aza
-# source_id: nohayonline:f3a9a6ba335a1148f9e6
-# source_url: https://www.nohayonline.com/details_content.php?id=1088
-# raw_sha256: 61f3439030bc972261cad575f45e97755576a2be3ec8c4fa3e0f56e327e46690
 ---
 بعد عاشور یہ زینب کے لبوں پہ تھی صدا
 کاش عباس میرا مارا گیا نہ ہوتا

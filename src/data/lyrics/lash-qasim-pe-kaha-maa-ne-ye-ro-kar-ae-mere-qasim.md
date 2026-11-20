@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:784da35fa642895263ae
-# source_url: https://www.ziyaraat.net/api/noha/2076
-# raw_sha256: b9b1586cc35d480149d050300a31af3fc6e5b307628b9345057ff41cc4f4c112
 ---
 
 Aey meray Qasim

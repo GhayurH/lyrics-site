@@ -8,9 +8,6 @@ poet: "Azai"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ee9c10f81abda8abaa6b
-# source_url: https://tajpoints.com/2017/02/dunya-mein-aabroy-e-bashar-hai.html
-# raw_sha256: 469fe1f2d7e2f8390742ee5c294d3a85ef5907fc31c0f73b1851a0ac11ee0aa6
 ---
 
 Dunya Mein Aabroy-e-Bashar Hai Hussain Se.

@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b0225ff460c4adc47c79
-# source_url: https://tajpoints.com/2023/01/alwida-alwida-asad-jaffri-lyrics-in.html
-# raw_sha256: 9e4538a33c9e6655275ba2e307c95e4fa819e845a60fcb0f77d9182ca7eed5eb
 ---
 
 1

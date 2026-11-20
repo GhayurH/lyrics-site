@@ -8,9 +8,6 @@ reciter: "Katri Bawa"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:e40a7d4f75e8d62a74cb
-# source_url: https://www.ziyaraat.net/api/noha/1254
-# raw_sha256: 2addc43f991fdcb761b57f934a5a2e3ea61cbac10b37cb4736bf3b21d8b59be9
 ---
 
 کہا بانو نے یہ روکر یہی غم دل کو کھاتا ہے

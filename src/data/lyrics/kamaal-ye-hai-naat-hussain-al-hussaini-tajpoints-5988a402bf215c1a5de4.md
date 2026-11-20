@@ -8,9 +8,6 @@ poet: "Turab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5988a402bf215c1a5de4
-# source_url: https://tajpoints.com/2021/10/kamaal-ye-hai-naat-hussain-al-hussaini.html
-# raw_sha256: feec048dd973c4521ad56de8526da127fd3f5ff7521566adc46a3bb1f675aaca
 ---
 
 1

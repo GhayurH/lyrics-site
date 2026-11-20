@@ -38,9 +38,6 @@ romanLyrics: |-
   5) Gham bhara gulzaar ka is dil ko raozay hashar ka
   Jo hay awlad-e-payamber ki muhabbat say bhara
   Bakhsh wa daingi ussay Yasrab kay sultan dekhna
-# source_id: ziyaraat:7956debd1cf2d22d3d73
-# source_url: https://www.ziyaraat.net/api/noha/628
-# raw_sha256: 40f6a8da8234cce82c86fc5c8f405f5425d1f092d9c7968b69c9fc7289df3113
 ---
 
 شہید کربلا, ہے دین کی بقا, ذہبیحِ نینوا، حسینؑ بادشاہ

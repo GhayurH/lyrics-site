@@ -8,9 +8,6 @@ poet: "Noor"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5af45baeea8ff06a526b
-# source_url: https://tajpoints.com/2021/01/qabar-e-zehra-lyrics-in-urdu-and-roman.html
-# raw_sha256: 7dc75d93105003a4b82e7fdf546e5613d50ff62f0f6f0c4f46534c297147ae9d
 ---
 
 1

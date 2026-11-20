@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4fd788c73cafe11387cc
-# source_url: https://tajpoints.com/2024/01/ali-ne-dekha-hai-zeeshan-abidi-lyrics.html
-# raw_sha256: 5a4e98c19a978e8d141f3fb7c1744e411ae018fce37e13491d52ae26749e17e4
 ---
 
 Ali Ne Dekha Hai Zeeshan Abidi

@@ -48,12 +48,6 @@ romanLyrics: |-
   Behnoṅ se bhaai maaoṅ se bachche bichhar gaye
   Ghar ho gaya Batul ka is ran meiṅ aa ke khaak
 reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
-# source_id: nohayonline:8b926a58134274acc7df
-# source_url: https://www.nohayonline.com/details_content.php?id=3226
-# raw_sha256: 086561cf5fd5a3d38ca7534a081f22aca306404243cb3a771c2add04ac2f171d
-# source_id: ziyaraat:b398cf2a0a1c2b04a729
-# source_url: https://www.ziyaraat.net/api/noha/2884
-# raw_sha256: 28b0c83f4b6e9862d4018a0f8d58bb3c7e2758ac767a5565e204c78dc493a720
 ---
 مل لی ہے کربلا کی جبیں پر اٹھا کے خاک
 پوچھے گا مجھ سے قبر میں اب کوئی آ کے خاک

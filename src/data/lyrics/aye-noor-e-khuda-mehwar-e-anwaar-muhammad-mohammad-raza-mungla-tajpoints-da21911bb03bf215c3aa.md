@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da21911bb03bf215c3aa
-# source_url: https://tajpoints.com/2025/09/aye-noor-e-khuda-mehwar-e-anwaar.html
-# raw_sha256: 2badd607eefdb40da28e1e7b20962716f03044fae5c0751eb3ecab7c48d6ae22
 ---
 
 Aye Noor E Khuda Mehwar E Anwaar Muhammad Muhammad Raza Mungla

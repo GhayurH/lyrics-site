@@ -42,14 +42,6 @@ romanLyrics: |-
   7
   Baali na koi chinti chinti na koi chaadar
   Raavan ke pujaari na khaimoṅ ko jala jaate
-# source_id: nohayonline:38e9ffe6d5aa39cfdf58
-# source_url: https://www.nohayonline.com/details_content.php?id=972
-# raw_sha256: 81f6a706d721c43d7cb63eaa5665a4f6801a265d9366857853120ad6aff12ff6
-# source_id: nohawriteups:33288d91c91e70bdf808
-# source_url: https://www.nohawriteups.org/shabbir-madine-se/
-# original_html: snapshots/nohawriteups/original_html/33288d91c91e70bdf808.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/33288d91c91e70bdf808.json
-# api_content_sha256: 4bc39c363660f6df5ecf9fec2f2a3825a67cb53aedabee2fa7fc19b518e3ea64
 ---
 دو جگ کے پالن ہار کل ہند کے اوتار
 شبیر میرے آقا شبیر میرے مولا

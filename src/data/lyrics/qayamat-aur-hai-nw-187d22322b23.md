@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:187d22322b23a46b925c
-# source_url: https://www.nohawriteups.org/qayamat-aur-hai/
-# original_html: snapshots/nohawriteups/original_html/187d22322b23a46b925c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/187d22322b23a46b925c.json
-# api_content_sha256: 114921a40355c3d55f5d741903ccfdd2ee9226e2e311455901018f6e77418113
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 har payambar par jo aayi wo musibat aur hai

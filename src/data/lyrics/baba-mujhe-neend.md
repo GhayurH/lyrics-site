@@ -68,9 +68,6 @@ romanLyrics: |-
   Karti thi faryaad bali sakina
   Sine se tiroṅ ko tum hata lo
   Baba mujhe ab...
-# source_id: nohayonline:851f52d7a9166cfef5f5
-# source_url: https://www.nohayonline.com/details_content.php?id=3128
-# raw_sha256: 30150bb32ad344e4f04d3c79a8d18da6bcac19346eb347712c19b6a97f895170
 ---
 
 ۱

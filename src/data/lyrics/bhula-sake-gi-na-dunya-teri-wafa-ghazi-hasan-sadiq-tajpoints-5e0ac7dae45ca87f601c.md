@@ -8,9 +8,6 @@ poet: "Mushtaq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5e0ac7dae45ca87f601c
-# source_url: https://tajpoints.com/2023/03/bhula-sake-gi-na-dunya-teri-wafa-ghazi.html
-# raw_sha256: 1cadb9ebc3ef8a30ebc3ae84a48697375755b98d52909efc034d80d6975cb8b3
 ---
 
 1

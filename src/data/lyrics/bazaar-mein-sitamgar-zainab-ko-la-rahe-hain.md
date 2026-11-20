@@ -8,9 +8,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:21886a5644292d41502b
-# source_url: https://www.ziyaraat.net/api/noha/1350
-# raw_sha256: 13bdfdb5f6a733e8d4ed1ecd64db11c65ca34d096934116a1c60828ab561d853
 ---
 
 Bazar main sitamgar Zainab ko la rahain hain Abbas ko bulao

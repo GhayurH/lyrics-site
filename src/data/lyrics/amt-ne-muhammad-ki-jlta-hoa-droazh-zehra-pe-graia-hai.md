@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:5ce9bf7967b529c436ed
-# source_url: https://www.ziyaraat.net/api/noha/2808
-# raw_sha256: e8e2215a67fdbe6fe8dd5c000857deb425f51992231160ab5a09e3fd7a59ac3c
 ---
 
 اُمّت نے محمدؐ کی، جلتا ہوا دروازہ

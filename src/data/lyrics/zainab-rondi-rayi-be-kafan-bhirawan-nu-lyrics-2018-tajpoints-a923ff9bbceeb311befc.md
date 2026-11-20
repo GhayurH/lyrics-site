@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a923ff9bbceeb311befc
-# source_url: https://tajpoints.com/2018/04/zainab-rondi-rayi-be-kafan-bhirawan-nu.html
-# raw_sha256: 5ac7f19560de411ca1fb05afd9500f601b9019061f73f73dccd5cb73278ff60e
 ---
 
 1

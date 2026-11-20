@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:04147fea2268aa4aeca6
-# source_url: https://tajpoints.com/2018/10/kardi-aye-yaad-zainab-abbas-di-wafa-nu.html
-# raw_sha256: 92ee46f1d6bd554186ed6803b3234bd98cdbdb88ddddcb1c2db7d8c9344d0226
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:445ab1b6c7f25132bb85
-# source_url: https://tajpoint.com/ayelan-hoya-jadon-galiyan-wich-baghi-da-na-sajjad-aye/
-# raw_sha256: 90a4a8ce32dab6f19deda7506b1bdeb0e2f8e6c6f7f2c199a7831b273d25d515
 ---
 
 Ayelan Hoya Jadon Galiyan Wich Baghi Da Na Sajjad Aye.

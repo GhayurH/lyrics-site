@@ -8,9 +8,6 @@ poet: "Joun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5230ce15f232bb9d9fc9
-# source_url: https://tajpoints.com/2023/07/chal-diye-akbar-jawan-abuzar-jaffri.html
-# raw_sha256: 33f147b61ed11587e6e5d4c30c52f3dad124b4fcc180b8f1e09c29657f2c6c64
 ---
 
 Chal Diye Akbar Jawan Abuzar Jaffri.

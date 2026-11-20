@@ -8,9 +8,6 @@ poet: "Akhtiar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84d18f2c22e9a883c0f1
-# source_url: https://tajpoints.com/2020/01/maqtal-main-dekhti-hoon-tum-bazar.html
-# raw_sha256: ddf70a9e2d6b77622b6842f85d32dc4f3f03ae4c8213a780a63b8ae495d56c4f
 ---
 
 Maqtal Main Dekhti Hoon Tum Bazar Dekhna.

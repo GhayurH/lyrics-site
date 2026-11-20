@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:66d959e495d04db9d719
-# source_url: https://www.nohawriteups.org/innal-lilaah/
-# original_html: snapshots/nohawriteups/original_html/66d959e495d04db9d719.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/66d959e495d04db9d719.json
-# api_content_sha256: 758b732488415729ad3e06c9ef6684c5efde01769896e7e05664ea2de1a1acd0
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 innal-lilaah

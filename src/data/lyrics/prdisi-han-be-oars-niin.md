@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:cb6a64c0c2c41f58a0fd
-# source_url: https://www.ziyaraat.net/api/noha/332
-# raw_sha256: 1076f12c153167dbf81cd3d2574561c42548c7027b68dc1b28160aca208ea38b
 ---
 
 Pardesi haan, baywaris nay, meray waris laash tay avan gay

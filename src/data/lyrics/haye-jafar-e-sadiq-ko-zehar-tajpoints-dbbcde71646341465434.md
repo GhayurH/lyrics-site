@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dbbcde71646341465434
-# source_url: https://tajpoints.com/2024/04/haye-jafar-e-sadiq-ko-zehar-lyrics.html
-# raw_sha256: d8b425a9ef585de2e4789d5fb1a0af90cce11b9f0142574990d48b1cbfa1a4a9
 ---
 
 1

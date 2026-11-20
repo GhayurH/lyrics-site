@@ -8,9 +8,6 @@ poet: "Navaid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:051d56749ba1c857cba4
-# source_url: https://tajpoints.com/2017/02/sar-e-hussainas-kata-hai-jiss-ibteda-ke.html
-# raw_sha256: 1b87021cd4637db3542f0e69d329d62c2c73da11dae96dce693c4f59f8d2aef8
 ---
 
 Sar-e-Hussain Kata Hai Jiss Ibteda Ke Liye.

@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c4cdf60b4e4efeda292b
-# source_url: https://tajpoints.com/2019/07/deti-hai-tujh-ko-sada-maula-raza-teri.html
-# raw_sha256: c487e9de18803cfad32cf619fe01ec458cca3ac034ff2d25ce7df1e28cde10a6
 ---
 
 1

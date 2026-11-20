@@ -8,9 +8,6 @@ poet: "Baqir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4e7b9d3bc5e8ac86c395
-# source_url: https://tajpoints.com/2023/06/haye-beemar-musafir-di-kariyaan-ne-wain.html
-# raw_sha256: b807134214748392ee7d8619dc3a2db60680b254dff7d3758bdecc32c78d9847
 ---
 
 Haye Beemar Musafir Di Kariyaan Ne Wain Aye Paye.

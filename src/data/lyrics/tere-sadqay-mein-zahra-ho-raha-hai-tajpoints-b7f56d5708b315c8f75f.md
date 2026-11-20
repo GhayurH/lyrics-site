@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7f56d5708b315c8f75f
-# source_url: https://tajpoints.com/2019/02/tere-sadqay-mein-zahra-ho-raha-hai.html
-# raw_sha256: d25ced44f19cdc2df62d2c456973c182876f2b5b8634e6080c5917f380804bb6
 ---
 
 1

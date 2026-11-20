@@ -8,9 +8,6 @@ poet: "Askari"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:344cbab40c0d89d1ad85
-# source_url: https://tajpoints.com/2024/03/ali-ko-zakhm-bawaqt-e-sahar-lagaya.html
-# raw_sha256: ec4058b44d5d217fad2b46d39174e1f340c2a36f5d923ca4540f346e4a47bbda
 ---
 
 1

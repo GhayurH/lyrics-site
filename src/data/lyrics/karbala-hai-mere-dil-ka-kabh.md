@@ -8,10 +8,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:9b7a871041af54d151d3
-# source_url: https://www.ziyaraat.net/api/noha/366
-# raw_sha256: 5ea8aa3b2eb2dfcfd1154eb2f6c5f489dd420ab5d18858110819cb380588b943
-# alternate_reading: "Karbala Hai Meray Sir Da Kaaba; Makkay Day Paasay Meray Dil Da Kaaba"
 ---
 
 Karbala hay meray dil da kaaba, Makkay day paasay meray sirr da Kaaba

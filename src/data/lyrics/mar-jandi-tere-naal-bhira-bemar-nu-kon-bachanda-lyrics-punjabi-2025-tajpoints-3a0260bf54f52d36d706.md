@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3a0260bf54f52d36d706
-# source_url: https://tajpoints.com/2025/07/mar-jandi-tere-naal-bhira-bemar-nu-kon.html
-# raw_sha256: 4d6f97abef2a8290e869728588c59a72a6ca95a68e6a083072a9fb53fd81731e
 ---
 
 1

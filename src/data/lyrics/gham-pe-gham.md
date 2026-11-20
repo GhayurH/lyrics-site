@@ -61,9 +61,6 @@ romanLyrics: |-
   Parhte hai Sabir jo nauha dam ba dam
   Aaj hai Iqbal pe Sheh ka karam
   Gham pe gham Sughra ko tarapti rahe
-# source_id: nohayonline:aadb20d282c19de4cc9a
-# source_url: https://www.nohayonline.com/details_content.php?id=2774
-# raw_sha256: 8016ad3c2ac2a9a4b57a39b551bcae64829d79d661d5d746ce355c6ef8abb54f
 ---
 
 غم پہ غم صغرا کو تڑپتی رہے

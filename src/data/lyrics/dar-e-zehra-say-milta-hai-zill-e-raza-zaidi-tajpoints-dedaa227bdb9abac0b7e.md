@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dedaa227bdb9abac0b7e
-# source_url: https://tajpoints.com/2024/01/dar-e-zehra-say-milta-hai-zill-e-raza.html
-# raw_sha256: 6d1dfc097813655595ef4b5aeb5bdb33e9f48aa12e6d53f24db24d4ff64cecd2
 ---
 
 Dar e Zehra Say Milta Hai Zill e Raza Zaidi.

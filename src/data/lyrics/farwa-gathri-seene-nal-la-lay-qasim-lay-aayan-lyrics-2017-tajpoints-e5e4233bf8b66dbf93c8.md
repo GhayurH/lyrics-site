@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e5e4233bf8b66dbf93c8
-# source_url: https://tajpoints.com/2018/09/farwa-gathri-seene-nal-la-lay-qasim-lay.html
-# raw_sha256: 699f0874636b14482bc9d71cbe8c81ca102eef41fa1a6b1beb2e7d4b2e45b48e
 ---
 
 1

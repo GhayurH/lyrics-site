@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:124a70e51e3e18446806
-# source_url: https://tajpoints.com/2024/02/hussain-likha-hai-mukhtar-hussain.html
-# raw_sha256: 4638ecbdaa201ea0880cc86123ea7fc351e3ba1fb9ba7ab79d645b043ed6ab26
 ---
 
 1

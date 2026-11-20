@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:57f13a34f8e8ff93b0c5
-# source_url: https://tajpoints.com/2019/04/woh-aaj-mehfil-e-imkaan-mein-aane-wale.html
-# raw_sha256: f6eb53b90d8393012ebfab948840a2459b6575e95eb048974c6d22fa58218c7e
 ---
 
 1

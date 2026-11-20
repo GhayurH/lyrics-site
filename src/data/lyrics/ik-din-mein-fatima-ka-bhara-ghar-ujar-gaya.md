@@ -8,13 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d2c233889ac576e4d4eb
-# source_url: https://tajpoints.com/2017/02/ik-din-mein-fatimasa-ka-bhara-ghar-ujar.html
-# raw_sha256: be784f012bd40e93284cf60a64695d5886f7254fd222cd9a5687eba49a0072a8
-# source_id: tajpoints:68b6e8a3916dc1850a7a
-# source_url: https://tajpoints.com/2017/02/ik-din-mein-fatimasa-ka-bhara-ghar-ujar_6.html
-# raw_sha256: 43db142f9df62ad46875e01602975cd5bc075f671775f8d2f915db609053cf07
-# editorial_note: Combined source parts 1-4 and 5-8; restored eight six-line stanzas from source's four-line-numbered blocks. Roman wording retained pending transliteration review.
 ---
 
 1

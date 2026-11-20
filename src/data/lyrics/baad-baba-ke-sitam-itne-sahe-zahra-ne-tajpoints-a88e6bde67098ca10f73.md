@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a88e6bde67098ca10f73
-# source_url: https://tajpoints.com/2017/02/baad-baba-ke-sitam-itne-sahe-zahrasa-ne.html
-# raw_sha256: 65b8defcb69852a8c9746d23d3bcd3621da48cc4791dba1c8bbe9c6f45df6a45
 ---
 
 Baad Baba Ke Sitam Itne Sahe Zahra Ne.

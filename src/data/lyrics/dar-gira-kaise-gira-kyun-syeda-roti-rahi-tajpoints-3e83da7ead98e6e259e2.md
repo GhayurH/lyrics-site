@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3e83da7ead98e6e259e2
-# source_url: https://tajpoints.com/2023/11/dar-gira-kaise-gira-kyun-syeda-roti.html
-# raw_sha256: 5396de7a8a2f0ea971efd7a2cec57cbcefb861545ec5342d77f270b0a04db022
 ---
 
 1

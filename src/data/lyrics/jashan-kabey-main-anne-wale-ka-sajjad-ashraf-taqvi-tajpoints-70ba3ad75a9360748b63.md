@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:70ba3ad75a9360748b63
-# source_url: https://tajpoints.com/2021/06/jashan-kabey-main-anne-wale-ka-sajjad.html
-# raw_sha256: 4cd2ec081adec4cc221fa4d7afdec8ffbeb63b874429b75b65af3829b1fa564f
 ---
 
 Jashan Kabey Main Anne Wale Ka Sajjad Ashraf Taqvi.

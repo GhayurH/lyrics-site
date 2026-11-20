@@ -56,9 +56,6 @@ romanLyrics: |-
   Haye haye haye haye
   Haye alamadar
   Shaam-e-garibaṅ mein…
-# source_id: nohayonline:daa8602a4c17be17dde8
-# source_url: https://www.nohayonline.com/details_content.php?id=425
-# raw_sha256: 32bdaeb34824278a78ff85e034b33077ac36e5f066bec10a0314b31452bae763
 ---
 
 ۱

@@ -67,9 +67,6 @@ romanLyrics: |-
   Sab ho gae Anis o aizza mere juda
   Hum jaaeṅ qatl gaah meiṅ hai marzi-e-Khuda
   Ran ko sidhaare kehte hue Shah alwida
-# source_id: nohayonline:1afca99a785a4f2becc5
-# source_url: https://www.nohayonline.com/details_content.php?id=372
-# raw_sha256: fcd93d9fe0103152aa87d00c432c35c140c67079d139d053b7ea235706d3a1b3
 ---
 اک دو پہر میں اپنا بھرا گھر لٹا دیا
 اللہ کیا جگر تھا جناب حسین کا

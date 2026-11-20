@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:db356a1553e6d86a2b35
-# source_url: https://www.ziyaraat.net/api/noha/1657
-# raw_sha256: b4732adae8b1f7eb03ac4b51112b72e8e05b5c881ed02a3c4b5f1235075ee52f
 ---
 
 Shaam ko qaidi ban kay chali hai

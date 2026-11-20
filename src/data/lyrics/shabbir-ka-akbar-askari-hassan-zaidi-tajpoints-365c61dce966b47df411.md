@@ -8,9 +8,6 @@ poet: "Askari"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:365c61dce966b47df411
-# source_url: https://tajpoints.com/2025/02/shabbir-ka-akbar-askari-hassan-zaidi.html
-# raw_sha256: fe6b70e89342dcdf5ac69ae03df3baa6847096b316b87d9b2a46e040e4e1e950
 ---
 
 Shabbir Ka Akbar Askari Hassan Zaidi.

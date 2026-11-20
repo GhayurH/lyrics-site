@@ -52,12 +52,6 @@ romanLyrics: |-
   Ab mai samjhi kyoṅ dur ho tum
   Maidan gayi ae lakhte jigar
   Kyon kar nahi aaye
-# source_id: nohayonline:d198b414b369bd0d91d2
-# source_url: https://www.nohayonline.com/details_content.php?id=463
-# raw_sha256: 978b4979602603a6c9374845bac9e93f887fb1f94323799ed1f15e19e54b8c69
-# source_id: ziyaraat:9c0154fd41997211105a
-# source_url: https://www.ziyaraat.net/api/noha/2393
-# raw_sha256: b8f4a95068011f6a8e7f88a44eed7e6c498ad195672cdd7b809fbe81a1c0b6c4
 ---
 
 اکبر نہیں آئے اصغر نہیں آئے

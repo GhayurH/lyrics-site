@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:61a62fd2bae033a2443e
-# source_url: https://tajpoints.com/2020/09/saal-bhar-ke-ghamzada-aanso-bahane-aaye.html
-# raw_sha256: cf43bbd171a580f0b4cac124021395ff3c5cd08846017e4e558225fbfbf13ced
 ---
 
 Saal Bhar Ke Ghamzada Aanso Bahane Aaye Hain.

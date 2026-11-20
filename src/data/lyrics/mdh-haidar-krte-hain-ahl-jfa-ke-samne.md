@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6935164a5d926f66d616
-# source_url: https://www.ziyaraat.net/api/noha/2021
-# raw_sha256: 4586f22a7a2bcd0afb361856b121d582cf37bf30a05204c18e60064dae4b0784
 ---
 
 Madh e Haider kartay hain ahle e jafa ke samnay

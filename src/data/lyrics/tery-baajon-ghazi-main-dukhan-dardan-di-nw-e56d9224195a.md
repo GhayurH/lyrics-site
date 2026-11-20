@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e56d9224195aae3ba036
-# source_url: https://www.nohawriteups.org/tery-baajon-ghazi-main-dukhan-dardan-di/
-# original_html: snapshots/nohawriteups/original_html/e56d9224195aae3ba036.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e56d9224195aae3ba036.json
-# api_content_sha256: 950f97ff69a97e9ed2dddc869f06e8a5af387ee0e838349c719e5bd8780147ae
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Tere Bahjoo’n Ghazi a.s.

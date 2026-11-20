@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bb0bbed178611057a575
-# source_url: https://tajpoints.com/2023/06/kadi-aa-mil-veran-akbar-ch-faiyaz-party.html
-# raw_sha256: ca0f342b50119ff2abbbefa38dbed9af6d8bf3aba3d9d9ed4bd3a7d7f5402607
 ---
 
 1

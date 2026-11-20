@@ -8,9 +8,6 @@ poet: "Lal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9cc385ce5b3c7e357e21
-# source_url: https://tajpoints.com/2024/03/taboot-hai-yeh-logo-damad-e-mustafa-ka.html
-# raw_sha256: 10e577b4ae78cdf1e17db32a6b04176ac3ba57e7cea59aa156010f4dc7bfc2d0
 ---
 
 Taboot Hai Yeh Logo Damad e Mustafa Ka.

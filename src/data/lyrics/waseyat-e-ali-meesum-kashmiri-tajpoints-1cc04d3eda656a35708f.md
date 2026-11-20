@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1cc04d3eda656a35708f
-# source_url: https://tajpoints.com/2021/05/waseyat-e-ali-meesum-kashmiri-lyrics-in.html
-# raw_sha256: ef145e4c0025681a1a9f6385f32ac7a6cd3f01b43236ac788e2706dd8a761fa2
 ---
 
 Iss Pe Wajib Hai Amal Tum Yeh Na Hargiz Bholna Hai Wasiyat Yeh Ali Ki.

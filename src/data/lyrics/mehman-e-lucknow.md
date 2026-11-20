@@ -85,9 +85,6 @@ romanLyrics: |-
   18
   Daagh-e-maatam aur ye aaṅsu pesh kar dena Shahid
   Aakhri Shabbir jab aaye miyaan-e-Lucknow
-# source_id: nohayonline:e70111586a1a03ce6d33
-# source_url: https://www.nohayonline.com/details_content.php?id=1865
-# raw_sha256: aca4c280e4cc6892cabc065f43adc3385790975f59a213e76455693990e4f96e
 ---
 اے حسین کربلا اے مہمان لکھنؤ
 تیرے قدموں کی بدولت اب ہے شان لکھنؤ

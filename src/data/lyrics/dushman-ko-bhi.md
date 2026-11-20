@@ -66,9 +66,6 @@ romanLyrics: |-
   Majbur huṅ sunaai nahiṅ deta kya karuṅ
   Khud tum gale se aa mil lago aisa kya karuṅ
   Dayam tha baap ka yehi mayyat pe marsiya
-# source_id: nohayonline:384d6733cdde0af21e6f
-# source_url: https://www.nohayonline.com/details_content.php?id=1446
-# raw_sha256: c037f85094b7423ceaeef7ee514eb9ccddc729c1debb64a27acbbd95b94806c2
 ---
 داغ جوان دیکھ کے شبیر نے کہا
 دشمن کو بھی خدا نہ دکھائے پسر کا داغ

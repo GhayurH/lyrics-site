@@ -60,9 +60,6 @@ romanLyrics: |-
   Nasir Husain ka hai Rehaan Karbala bhi
   Zainab ki aarzu bhi Zehra ki hai dua bhi
   Haider ka laadla hai Sher-e-Khuda ka saaya
-# source_id: nohayonline:dec0482fdbd0e0927018
-# source_url: https://www.nohayonline.com/details_content.php?id=1881
-# raw_sha256: 87ae70778598d6814e5e859f3808889699d06300c6b0341657ae4ce681a18fc4
 ---
 
 ساقی عباس ہے مولا

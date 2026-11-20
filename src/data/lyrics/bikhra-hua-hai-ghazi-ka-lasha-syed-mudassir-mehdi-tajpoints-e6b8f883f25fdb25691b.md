@@ -8,9 +8,6 @@ poet: "Jary"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e6b8f883f25fdb25691b
-# source_url: https://tajpoints.com/2026/07/bikhra-hua-hai-ghazi-ka-lasha-syed.html
-# raw_sha256: 5e1f2e9aed64b63bb39b5e28f9221e43d05546ef544949c10aa79e59fa587f9d
 ---
 
 1

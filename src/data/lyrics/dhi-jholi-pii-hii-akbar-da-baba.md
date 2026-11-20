@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:891b287da4033122fd22
-# source_url: https://www.ziyaraat.net/api/noha/2626
-# raw_sha256: 7631466241625065b221d3cf2f1bf66e02f40c654387fd0316758a45a4866c77
 ---
 
 دھی‪ ‬جھولی‪ ‬پئی‪ ‬ہئی‪ ‬اکبرداباباایکوں‪ ‬توں‪ ‬اٹھیندائیں‪ ‬یا‪ ‬میں‪ ‬اٹھاواں

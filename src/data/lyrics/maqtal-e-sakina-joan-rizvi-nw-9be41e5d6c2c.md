@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9be41e5d6c2c079bb28b
-# source_url: https://www.nohawriteups.org/maqtal-e-sakina-joan-rizvi-nohay-2020/
-# original_html: snapshots/nohawriteups/original_html/9be41e5d6c2c079bb28b.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9be41e5d6c2c079bb28b.json
-# api_content_sha256: 32df233592079723d7df7659afa50e7904d36d8902452bf996560652916bcb05
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Khanjer talay Hussain(as) nay sajda kiya tamam

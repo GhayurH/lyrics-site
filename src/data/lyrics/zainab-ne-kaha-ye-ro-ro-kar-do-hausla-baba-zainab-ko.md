@@ -65,15 +65,6 @@ romanLyrics: 'Zainab ne kaha ye ro ro kar
   7) Boli wo takallum logon may amma ko bulaun to kaise
 
   Beti ke liye bankar chadar, do hausla baba Zainab ko'
-# source_id: nohayonline:8cbcd05e9c340f122833
-# source_url: https://www.nohayonline.com/details_content.php?id=302
-# raw_sha256: 575ba130ef285a5fa37e9d5c036ed9fff994b409e5954d11002eadc604cf2180
-# source_id: ziyaraat:189255f7dcaf54946b6c
-# source_url: https://www.ziyaraat.net/api/noha/1855
-# raw_sha256: 324c34c71f749cbddb4b94649b5064b1334e9f066e278d4b4eb56da5e93e87b1
-# source_id: ziyaraat:4ee8cd28420bddf71b6f
-# source_url: https://www.ziyaraat.net/api/noha/328
-# raw_sha256: d6a1e17f4e935b6fc9eaf99972ee4327bd6703bdb65a674fea2105e7ed87a0a6
 ---
 
 زینب نے کہا یہ رورو کر

@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0ecbe00246327f47d251
-# source_url: https://tajpoints.com/2024/03/lab-par-khusha-naseeb-mere-zikar-e-noor.html
-# raw_sha256: 8ea43caaac036757ca2821aa8a371582ad62b361f293ec580a412d9e7438860e
-# source_title_original: Lab Par Khusha Naseeb Mere Zikar e Noor Hai Lyrics In Urdu 2024
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Yeh Manqabat Ke Rang Mein Naat-e-Hazoor Hai

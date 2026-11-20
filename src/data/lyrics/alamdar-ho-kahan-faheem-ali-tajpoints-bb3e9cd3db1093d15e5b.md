@@ -8,9 +8,6 @@ poet: "Yawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bb3e9cd3db1093d15e5b
-# source_url: https://tajpoints.com/2022/08/alamdar-ho-kahan-faheem-ali-lyrics-in.html
-# raw_sha256: 4a563e7eabc2fdd001e100e2f7b3dad338d6a76a955efca5eb72252f02a1c8f4
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Naveed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:05c3cc558116f1906fb7
-# source_url: https://tajpoints.com/2024/08/karbal-ke-muhammed-ko-saja-ke-sajjad.html
-# raw_sha256: 7d6d6674f90b2184528bb621a46df01ade6fee2f1c3ccbfe47dce230a49fcd2b
 ---
 
 Karbal Ke Muhammed Ko Saja Ke Sajjad Ashraf Taqvi.

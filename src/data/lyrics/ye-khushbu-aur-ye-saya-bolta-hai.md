@@ -37,9 +37,6 @@ romanLyrics: |-
   Ali chaaheṅ to murda bolta hai
   Kabhi suniye Bilal-e-Kazmi ko
   Ali ke haq meiṅ banda bolta hai
-# source_id: tajpoints:e19ada09201d6fe22ae8
-# source_url: https://tajpoints.com/2022/07/ye-khushbu-aur-ye-saya-bolta-hai.html
-# raw_sha256: ddafd042e5e3b7d429eae5da5688c54f789553363c4f4b3d2bc892ece721a077
 ---
 یہ خوشبو اور یہ سایہ بولتا ہے
 علی گزرے ہیں راستہ بولتا ہے

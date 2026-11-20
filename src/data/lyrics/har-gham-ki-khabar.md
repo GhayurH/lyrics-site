@@ -43,9 +43,6 @@ romanLyrics: |-
   Abbas ki sangat hai ye ahwaal-e-Sakina
   Irfan bayaaṅ kaise kare haaye Sakina
   Dil hilta hai Akhtar tere nauhe meiṅ asar hai
-# source_id: nohayonline:7f98fd23e56708a0b781
-# source_url: https://www.nohayonline.com/details_content.php?id=1179
-# raw_sha256: fe5dccde489d361ec1da7706a4014e277b0cc91b61422d5891fb180f10f9b2cb
 ---
 بابا کو سکینہ تیرے ہر غم کی خبر ہے
 نیزے کی انی پر ہے مگر تجھ پہ نظر ہے

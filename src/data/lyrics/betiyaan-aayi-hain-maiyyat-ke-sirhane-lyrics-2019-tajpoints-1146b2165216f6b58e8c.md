@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1146b2165216f6b58e8c
-# source_url: https://tajpoints.com/2024/04/betiyaan-aayi-hain-maiyyat-ke-sirhane.html
-# raw_sha256: b0499c7f49e56a8de3389aaafef43a49aa13741623583b766082398c6ee10816
 ---
 
 1

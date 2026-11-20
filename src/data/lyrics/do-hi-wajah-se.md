@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Do hi sabab se din ye baaqi raha Mohib
   Ek Karbala hai ek Fadak ka hai ye waaqia
-# source_id: nohayonline:86ce96f1b4f7c5170911
-# source_url: https://www.nohayonline.com/details_content.php?id=3233
-# raw_sha256: 60fc82f1c25f671a885dc5429127cb592d1f5792552a75f06cfea3aed1bd23b4
 ---
 دو ہی وجہ سے باطل حق نہ چھپا سکا
 ایک ہے ردائے زینب اصغر ہے دوسرا

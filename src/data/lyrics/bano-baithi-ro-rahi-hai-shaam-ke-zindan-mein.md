@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:31ac7e3a9177b10da3d1
-# source_url: https://www.ziyaraat.net/api/noha/2909
-# raw_sha256: c79f4ce6040943673dc30ec1962de428e055d719513e9fd31c8ee58a7cad90b3
 ---
 
 بانو بیٹھی رو رہی ہے شام کے زندان میں

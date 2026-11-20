@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0ff160d3977258b6da01
-# source_url: https://tajpoints.com/2024/11/haye-haye-rasool-zadi-ko-ummat-ne-sataya.html
-# raw_sha256: bcd65e3ad57cfd91ee3b76424b4d8e96a75bd4455fdd2f324b423d1c98f85a90
 ---
 
 1

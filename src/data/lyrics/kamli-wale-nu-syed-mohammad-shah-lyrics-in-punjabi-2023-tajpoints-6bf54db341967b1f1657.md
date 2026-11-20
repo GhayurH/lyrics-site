@@ -8,9 +8,6 @@ poet: "Naeem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6bf54db341967b1f1657
-# source_url: https://tajpoints.com/2023/12/kamli-wale-nu-syed-mohammad-shah-lyrics.html
-# raw_sha256: a9eba74aeb61ced2cc56ca44f330e18b50be1c43ce01325cb21292d72a97527c
 ---
 
 1

@@ -70,9 +70,6 @@ romanLyrics: |-
   Apni shehzadi se Mazhar ka hai waada
   Jab talak ek saans baaqi tan meiṅ hoga
   Qalam ye rukne na payega
-# source_id: nohayonline:2baa7da69010fcf469af
-# source_url: https://www.nohayonline.com/details_content.php?id=1566
-# raw_sha256: 3c325df68217dd1e9b310c332d870c74da67033870884aa5865e4d1dc12095d8
 ---
 عالم ارواح میں
 اپنے رب سے محمد نے کہا

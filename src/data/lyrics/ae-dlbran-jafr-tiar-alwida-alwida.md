@@ -46,12 +46,6 @@ romanLyrics: |-
   9
   Pyaase jo aaoge to sila degi tum ko maaṅ
   Khud daur kar gale se laga legi tum ko maaṅ
-# source_id: nohayonline:c61035ffd2752b15c000
-# source_url: https://www.nohayonline.com/details_content.php?id=151
-# raw_sha256: 1b7611463d7cafabdff7243af2e98c199fa01cc2cf74f4931690c927d7ad55a3
-# source_id: ziyaraat:902e7d0f9c017e9e0245
-# source_url: https://www.ziyaraat.net/api/noha/653
-# raw_sha256: 5fa8206fb9ed5f8d03ef8ee814d42e39c20a318f2f657672ff3c1bb8b8a0c13b
 ---
 
 اے دلبران جعفر طیّارؑ الوداع

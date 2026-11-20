@@ -8,9 +8,6 @@ poet: "Shanawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6df654e83b55b6148637
-# source_url: https://tajpoints.com/2022/11/assalam-un-aleyk-ali-shanawar-ali-jee.html
-# raw_sha256: c68f2ddcc6f6650fdf2f58d74cb704adda889a1b9ec785eefcd2955223e87f8a
 ---
 
 1

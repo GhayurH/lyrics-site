@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:e107437120ba38613149
-# source_url: https://tajpoint.com/tere-aasray-te-chad-chaliyan-lyrics-new-noha-2026/
-# raw_sha256: ab7427d7090c21b7a80054011842f9794856515d5c11afeca291210b2da0dd88
 ---
 
 Tere Aasray Te Chad Chaliyan Sab Bhain Bhira Ghazi.

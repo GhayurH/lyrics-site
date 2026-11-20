@@ -69,9 +69,6 @@ romanLyrics: |-
   Zikr-e-Husain baaqi
   Shehzad aik khaaki
   Hai sirf ye Husain ka ghulaam
-# source_id: ziyaraat:ab1e672f3380b9fa3049
-# source_url: https://www.ziyaraat.net/api/noha/1264
-# raw_sha256: 51e36a372b22e784785bf984cc69953fa3a8582b17edce7f11e892c7958b4231
 ---
 
 ۱

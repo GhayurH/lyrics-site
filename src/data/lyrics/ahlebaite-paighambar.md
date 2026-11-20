@@ -54,9 +54,6 @@ romanLyrics: |-
   Gir pareṅge ghore se itne zakhm khaaeṅge
   Shaane kat rahe hoṅge khun meiṅ nahaaeṅge
   Aaj Sani-e-Haider sar katane aae haiṅ
-# source_id: nohayonline:d23e66b4c17007f1bdc8
-# source_url: https://www.nohayonline.com/details_content.php?id=2012
-# raw_sha256: 49ad7732392235ea5000f52dabca6a43bf07fffa8e5aed9609f0352e6c62d259
 ---
 اہلِ بیتِ پیغمبر سر کٹانے آئے ہیں
 حق کے ناصر و یاور سر کٹانے آئے ہیں

@@ -64,9 +64,6 @@ romanLyrics: |-
   Rote jaate the Sajjad waala
   Bano kehti jo maqtal meiṅ aayi
   Mere Asghar ki hai qabr kis jaa
-# source_id: nohayonline:6e1b5d6895046823c3c8
-# source_url: https://www.nohayonline.com/details_content.php?id=3009
-# raw_sha256: 6e5efe2a6a872c4df26dc428ca0959658471002049c6d64a0405de0d6712ff52
 ---
 
 کہتی بانو یہ مقتل میں آئی

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cfa5a2f1c22400bf307f
-# source_url: https://tajpoints.com/2021/06/sar-e-hussain-laeeq-raza-lyrics-in-urdu.html
-# raw_sha256: b53985d853f402d93559d8f3dcae2fec4b4401eda5e62e513d9a17ad538a7d5e
 ---
 
 1

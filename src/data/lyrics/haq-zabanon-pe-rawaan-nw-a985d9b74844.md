@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a985d9b74844fcaa3b73
-# source_url: https://www.nohawriteups.org/haq-zabanon-pe-rawaan/
-# original_html: snapshots/nohawriteups/original_html/a985d9b74844fcaa3b73.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a985d9b74844fcaa3b73.json
-# api_content_sha256: 6b6a149110884e247179cbf13becb2b9da08c0ef4cbbbbcf1f13f1e9ceab074d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haq Zabanon Pe Rawaan Naizon Pe Sar Hota Hai

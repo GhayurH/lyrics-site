@@ -8,9 +8,6 @@ poet: "Ghalib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6140bd457df215a0cf1c
-# source_url: https://tajpoints.com/2017/02/yeh-na-thi-hamari-qismat-keh-wisal-e.html
-# raw_sha256: 51f941cf84d67a8f3087e52828117bca8fca14fd494dc97ee9184d554e0b60e0
 ---
 
 Yeh Na Thi Hamari Qismat Keh Wisal-e-Yaar Hota.

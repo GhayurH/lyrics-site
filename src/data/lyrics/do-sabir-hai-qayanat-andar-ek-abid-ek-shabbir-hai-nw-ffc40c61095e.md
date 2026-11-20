@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ffc40c61095e8263a6d8
-# source_url: https://www.nohawriteups.org/do-sabir-hai-qayanat-andar-ek-abid-ek-shabbir-hai/
-# original_html: snapshots/nohawriteups/original_html/ffc40c61095e8263a6d8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ffc40c61095e8263a6d8.json
-# api_content_sha256: 3751a5df26eb98b8dc55596653500cec2b907e7ec0513132b4f56e94212dbaa0
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Do Sabir Hai Qayanat Andar Ek Abid Ek Shabbir Hai

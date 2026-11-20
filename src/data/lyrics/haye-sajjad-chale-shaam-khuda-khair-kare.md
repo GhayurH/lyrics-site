@@ -36,9 +36,6 @@ romanLyrics: |-
   5) Janab-e-Ghazi ka sar sang pe tarrapta tha
   Beemar qaidi ki aankhon se khoon barasta tha
   Laeen leta hay Zainab ka jab bhi naam
-# source_id: ziyaraat:38fc7151e36d7c53db91
-# source_url: https://www.ziyaraat.net/api/noha/367
-# raw_sha256: b3d0e3588511fae25b2c5fe0b43a193fce09679de461fc5e12e57add3491ae6f
 ---
 
 ۱

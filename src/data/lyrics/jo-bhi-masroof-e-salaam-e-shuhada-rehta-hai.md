@@ -44,9 +44,6 @@ romanLyrics: |-
   8
   Tawaf-e-Kaaba ka tujhe shauq hai az bas ke Dabir
   Muztarib dil sifat-e-qibla numa rehta hai
-# source_id: ziyaraat:088e9618acec5b9b8f2a
-# source_url: https://www.ziyaraat.net/api/noha/2241
-# raw_sha256: 6d330c67b5b32770943fb39b3de8761e196609494f97e1c948a7987f06bf617e
 ---
 
 جو بھی مصروفِ سلامِ شہدا رہتا ہے

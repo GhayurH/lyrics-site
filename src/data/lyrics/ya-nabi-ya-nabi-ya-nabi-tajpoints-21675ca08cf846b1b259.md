@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:21675ca08cf846b1b259
-# source_url: https://tajpoints.com/2018/11/ya-nabi-ya-nabi-ya-nabi.html
-# raw_sha256: 518f3e76d5d9ab756af64191accc1d7dd12c9e1aa0c2533d222822fe9bcabd36
 ---
 
 1

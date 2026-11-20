@@ -50,9 +50,6 @@ romanLyrics: |-
   Jab tak bhi dharakte hue sinoṅ meiṅ rahe dam
   Barpa Ali Akbar ka kareṅge yuṅhi maatam
   Uth jaayeṅge duniya se to reh jaayega yeh gham
-# source_id: nohayonline:2de021be3afa6a25e67a
-# source_url: https://www.nohayonline.com/details_content.php?id=2699
-# raw_sha256: 9b95d929bae0b727a0a3ab639b6b364a409d2112ca2f5ed4a551234783ac4ba9
 ---
 مولا سے میرے نازوں کا پالا نہ اٹھے گا
 لاشے پہ کھڑے سوچتے تھے سیدِ والا

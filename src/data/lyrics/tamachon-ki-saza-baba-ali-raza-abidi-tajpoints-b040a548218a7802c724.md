@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b040a548218a7802c724
-# source_url: https://tajpoints.com/2026/06/tamachon-ki-saza-baba-ali-raza-abidi.html
-# raw_sha256: 38cb0d00c440ef10130104f79063de2d6ec757a1c72df118c154268e8f1e5719
 ---
 
 Ruki Na Aik Lamha Bhi Tamachon Ki Saza Baba.

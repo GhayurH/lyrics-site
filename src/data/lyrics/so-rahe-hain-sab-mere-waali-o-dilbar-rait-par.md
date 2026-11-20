@@ -42,13 +42,6 @@ romanLyrics: |-
   6
   Honge Asan Mushkilaiṅ Aur Ziyarat-e-Shabbir Bhe
   Jab Anis Hoga Lahad Maiṅ Tera Bister Rait Par
-# source_id: nohawriteups:22ed30c0402a94cd5756
-# source_url: https://www.nohawriteups.org/nohay-2023-so-rahe-hain-sab-mere-waali-o-dilbar-rait-par-syed-raza-abbas-zaidi-muharram-1445-lyrics/
-# raw_sha256: c547fa2c73549a59311d0ecec2db1a082fedd9bf4f8566a40d75ba7bcb56e96a
-# additional_source_id: nohawriteups:c748fed7fd6bfca680b8
-# additional_source_url: https://www.nohawriteups.org/nohay-2023-so-rahe-hain-sab-mere-waali-o-dilbar-rait-par-syed-raza-abbas-zaidi-muharram-1445-lyrics-2/
-# additional_raw_sha256: 4fa46d8ee442f3ca5727d986b9fa2b065209076fbca19b63ea64fc1db9e839ac
-# editorial_note: Both source captures have the same six substantive couplets and four-line preamble; full live NohaWriteups lyric passages cross-checked. Promotional description and links excluded. Source wording not independently transliteration-corrected; unpublished.
 ---
 
 رہ گئے دشت میں تنہا تو وطن یاد آیا

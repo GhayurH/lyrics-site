@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1ed1f308d36f8d72aaff
-# source_url: https://www.nohawriteups.org/aylaan-na-kar-hun-na-wan-day/
-# original_html: snapshots/nohawriteups/original_html/1ed1f308d36f8d72aaff.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1ed1f308d36f8d72aaff.json
-# api_content_sha256: 551196c8e953d47883c8629b9233b5dd559b9bd66745ed0f7e58d9b99efc0cd6
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Aylaan Na Kar Hun Na Wan Day

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2686110c1552b657080f
-# source_url: https://www.nohawriteups.org/haye-challiyan-challiyan-shaam-dey-raawan/
-# original_html: snapshots/nohawriteups/original_html/2686110c1552b657080f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2686110c1552b657080f.json
-# api_content_sha256: 48f194fd9b6d63292dba124e9ed0c87b149c4936ce0605e03889618f380b5691
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye challiyan, challiyan shaam dey raawan nu, behna dard sathaiyaan

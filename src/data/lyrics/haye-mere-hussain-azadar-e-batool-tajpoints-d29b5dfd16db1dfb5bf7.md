@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d29b5dfd16db1dfb5bf7
-# source_url: https://tajpoints.com/2023/07/haye-mere-hussain-azadar-e-batool.html
-# raw_sha256: 303a4e8cfe8177931d1f092207bfb6b6a92b3ca93a7f2a3dfe1efc0a42b46acf
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cf0506058b9c2a1ffea6
-# source_url: https://tajpoints.com/2021/04/ali-ke-bad-syed-mohammad-shah-lyrics-in.html
-# raw_sha256: 92594a76ee94106a8d76b3751ae812fd10b0add15a7ce027bddda95eb48da8ff
 ---
 
 1

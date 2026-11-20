@@ -7,11 +7,6 @@ kalamType: "Sehra"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1f9555f8b0b476feabe7
-# source_url: https://tajpoints.com/2017/02/suno-arsh-walo-suno-farsh-walo-main.html
-# raw_sha256: d2f759064f844b7fc2af3f3135b5707087f68fff05882b6ce40a9795ec911764
-# source_title_original: Suno Arsh Walo Suno Farsh Walo Main Sehra Ali Ka 2016
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Suno Arsh Walo Suno Farsh Walo Main Sehra Ali Ka Sunane Chala Hoon

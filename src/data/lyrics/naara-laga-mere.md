@@ -81,9 +81,6 @@ romanLyrics: |-
   Az roz-e-azal Nasir waada hai yehi apna
   Hum madaar-e-Asghar ko dete hi rahe pursa
   Mere Maula Husain mere Aaqa Husain
-# source_id: nohayonline:3498b75defc9b2676b6c
-# source_url: https://www.nohayonline.com/details_content.php?id=1336
-# raw_sha256: 9f09f97781b5dd21f9ad9aaff9963079c04696c359ab218cf49a805f50aac58f
 ---
 لبیک یا حسین
 حسین ثاراللہ اباعبداللہ

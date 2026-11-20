@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8fecab7c01987c0a8baf
-# source_url: https://tajpoints.com/2025/01/ana-buturabi-mir-hasan-mir-lyrics-urdu.html
-# raw_sha256: 4c744e498dda4adcf86d08bb843db7640ae49ca4cb4d669c6a8f52f7e435fe6e
 ---
 
 1

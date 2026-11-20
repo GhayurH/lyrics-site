@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fef3b0b1f1f304081db8
-# source_url: https://tajpoints.com/2017/02/aik-nani-si-lahad-ran-mein-banate-hain.html
-# raw_sha256: 09955c06b8c6eddb24a3dd0c0981160b4e629ee1ae937459176737f411c13094
 ---
 
 1

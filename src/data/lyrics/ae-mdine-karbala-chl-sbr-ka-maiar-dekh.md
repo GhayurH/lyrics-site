@@ -50,9 +50,6 @@ romanLyrics: |-
   10
   Din-e-haq ke aaine mein dil ki aankhoṅ se Mujib
   Ahl-e-Bait-e-Mustafa ka ek ek kirdaar dekh
-# source_id: ziyaraat:e4e5c8dcc0609782353c
-# source_url: https://www.ziyaraat.net/api/noha/2213
-# raw_sha256: 406cfb999986884c3c5db4d8e5a31197591095eaa68365ccce8095e45870bb07
 ---
 
 اے مدینے کربلا چل صبر کا معیار دیکھ

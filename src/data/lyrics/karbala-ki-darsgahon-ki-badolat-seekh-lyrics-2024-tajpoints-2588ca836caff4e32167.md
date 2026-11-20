@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2588ca836caff4e32167
-# source_url: https://tajpoints.com/2024/03/karbala-ki-darsgahon-ki-badolat-seekh.html
-# raw_sha256: 863b9182abfa6eb39f7cd33022eeda8bd540fc385fa2f49e0a891b52c4519ecc
 ---
 
 1

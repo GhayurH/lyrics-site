@@ -8,9 +8,6 @@ poet: "Alina"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:090bec393127b69c8264
-# source_url: https://tajpoints.com/2023/04/jabeen-surk-hui-hai-syed-ali-ghazi.html
-# raw_sha256: fda2de75708858db1644bfebdd0582d7915072958064eac3e4f35c77e3eca737
 ---
 
 Jabeen Surk Hui Hai Syed Ali Ghazi Zaidi.

@@ -46,9 +46,6 @@ romanLyrics: |-
   9
   Hurr Ki Taqdir Ko Ek Pal Meiṅ Badal Dete Haiṅ
   Aise Hote Haiṅ Muhammad Ke Gharane Waale
-# source_id: ziyaraat:a36eefce923457dd2fd5
-# source_url: https://www.ziyaraat.net/api/noha/1924
-# raw_sha256: d6ff659ac1a2e5455bdfc766bdbf36a944691c19ade7edcbf396f0fb834eaad3
 ---
 
 لُٹ گئے آلِ محمدؐ کے گھرانے والے

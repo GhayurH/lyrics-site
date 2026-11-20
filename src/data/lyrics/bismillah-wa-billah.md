@@ -68,9 +68,6 @@ romanLyrics: |-
   Chalti rahi churi aur ye kehte rahe Husain
   Kat'te huwe gale se ye aati rahi sada
   Abbas abbas abbas abbas
-# source_id: nohayonline:7284049b0795404c3d12
-# source_url: https://www.nohayonline.com/details_content.php?id=3400
-# raw_sha256: dfde17acafabf1eec72df57f804d0b252104659c5e62a1a8418c324933eabd57
 ---
 
 ۱

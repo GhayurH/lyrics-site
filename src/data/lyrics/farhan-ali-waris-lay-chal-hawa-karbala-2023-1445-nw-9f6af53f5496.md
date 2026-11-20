@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9f6af53f54966068c52a
-# source_url: https://www.nohawriteups.org/farhan-ali-waris-lay-chal-hawa-karbala-2023-1445-lyrics/
-# original_html: snapshots/nohawriteups/original_html/9f6af53f54966068c52a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9f6af53f54966068c52a.json
-# api_content_sha256: 17f1d0fde03a321c8c99e35aa66578d44e93f4de60294e7e62b7ae873af28cb7
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Lay Chal Hawa Karbala Lyrics

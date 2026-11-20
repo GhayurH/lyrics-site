@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:36c07a28aaabf3f74c3c
-# source_url: https://tajpoints.com/2022/10/naara-e-ali-mir-hasan-mir-lyrics-in.html
-# raw_sha256: dfbd722add4364cffe861d98d228ebb449095d2bc096b8206960b2dbe6da8554
 ---
 
 Naara-e-Ali Mir Hasan Mir Lyrics

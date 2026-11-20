@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noRoman"]
 aliases: []
 published: false
-# source_id: nohawriteups:2407e369082882a49379
-# source_url: https://www.nohawriteups.org/farhan-ali-waris-gham-e-hussain-dilam-balochi-noha-2022-1444-lyrics/
-# original_html: snapshots/nohawriteups/original_html/2407e369082882a49379.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2407e369082882a49379.json
-# api_content_sha256: cd264e9be87e9d76ffe4561ce19eda795abd8bf196cfa31857b24c41a890d0ac
-# editorial_note: Unpublished source-faithful draft from approved valid urdu+balcohi; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 مولا مولا مولا حسینؑ

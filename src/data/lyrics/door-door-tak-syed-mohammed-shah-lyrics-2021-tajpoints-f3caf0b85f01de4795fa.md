@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f3caf0b85f01de4795fa
-# source_url: https://tajpoints.com/2021/09/door-door-tak-syed-mohammed-shah-lyrics.html
-# raw_sha256: 3b1711474e99a862147791664e160bc63ec4fb55cbb872a6561af6d29217defc
 ---
 
 Door Door Tak Syed Mohammed Shah Lyrics Write Up

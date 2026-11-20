@@ -75,9 +75,6 @@ romanLyrics: |-
   Kiuṅkar ho hameiṅ khauf-e-mahshar
   Ho aaṅkh gham-e-Shabbir meiṅ tar
   Aur naza meiṅ Haider yaad aaye
-# source_id: nohayonline:66f8655c2541e4a28f2a
-# source_url: https://www.nohayonline.com/details_content.php?id=1866
-# raw_sha256: 12e9b43c708258ee435570776595466b6e0a7c897b7b49b52eaf6cdfae7ac2ce
 ---
 جب ہم نے سنی مسجد سے اذاں
 ہمشکلِ پیمبر یاد آئے

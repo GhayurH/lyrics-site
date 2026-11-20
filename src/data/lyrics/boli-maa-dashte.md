@@ -61,9 +61,6 @@ romanLyrics: |-
   12
   Kiuṅ daruṅ maiṅ qabr ki manzil se jab ke ae Raza
   Khuld ka ghar Sheh ke sadqe meiṅ mujhe mil jayega
-# source_id: nohayonline:698c7063a6490713aa6e
-# source_url: https://www.nohayonline.com/details_content.php?id=1994
-# raw_sha256: 4ac4575e142bbbd25015789ab105457830446bd2bdd2dc2f035cf4b2ff004828
 ---
 بولی ماں دشتِ ستم میں کس طرح چین آئے گا
 ننھی سی تربت میں اصغر کون دل بہلائے گا

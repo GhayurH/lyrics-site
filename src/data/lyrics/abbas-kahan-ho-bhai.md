@@ -64,9 +64,6 @@ romanLyrics: |-
   Zainab ne kaha tha rote hue
   Phatta hai kaleja gham se
   Baba ki sawari aayi
-# source_id: nohayonline:f651cb92e8636c1c1c9b
-# source_url: https://www.nohayonline.com/details_content.php?id=2983
-# raw_sha256: 861bf3a0e431219d09a71f9b5dda77b930f170f07b3edbfc6276c255fd09a956
 ---
 
 عباس میرے بھائی یہ دیکھ میری تنہائی

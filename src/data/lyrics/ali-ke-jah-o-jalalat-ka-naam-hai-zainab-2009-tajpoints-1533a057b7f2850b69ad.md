@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1533a057b7f2850b69ad
-# source_url: https://tajpoints.com/2017/02/alias-ke-jah-o-jalalat-ka-naam-hai.html
-# raw_sha256: fa5276682e63b72bf8f7dc72b537499c4db691de2fbfc20c25893f8163766541
 ---
 
 1

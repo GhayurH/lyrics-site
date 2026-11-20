@@ -34,9 +34,6 @@ romanLyrics: |-
   6
   Munkir-e-ashk-e-aza soch le itna zara
   Ghaib meiṅ baitha hai jo woh bhi azaadaar hai
-# source_id: tajpoints:fee96d7e96baf11bfb4c
-# source_url: https://tajpoints.com/2022/10/sun-lein-woh-jin-ke-liye-ishq-e-ali.html
-# raw_sha256: 5a704537c37bfe818db5ec7deec8ef889e0908a6493983858664ef74be77b287
 ---
 ۱
 سن لیں وہ جن کے لیے عشقِ علی بار ہے

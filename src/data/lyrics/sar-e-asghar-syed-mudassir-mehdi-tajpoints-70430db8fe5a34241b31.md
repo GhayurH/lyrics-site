@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:70430db8fe5a34241b31
-# source_url: https://tajpoints.com/2025/07/sar-e-asghar-syed-mudassir-mehdi-lyrics.html
-# raw_sha256: 92ae045dfc1e9bef1cdb217c71c6be9bbff726a5889b3f1d4f4e3967ee2bd8b1
 ---
 
 1

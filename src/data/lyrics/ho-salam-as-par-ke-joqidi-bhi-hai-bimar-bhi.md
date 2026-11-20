@@ -54,9 +54,6 @@ romanLyrics: |-
   Nauha konaa hain Irfan aur Mazhar tareekh o maqatil sab hee,
   Aalay payambar, aur sham ki galiyan, Shabir ka beta qaidi,
   Kyoon na ho mehve fughaan, qirtaas bhee, ashaar bhee
-# source_id: ziyaraat:e0bebb7a2eb4d67bcd8a
-# source_url: https://www.ziyaraat.net/api/noha/1257
-# raw_sha256: cf31eb1337327f0a193eda76f7c7f4fe42e79cdd9b7972b4a4f7cdc6ea1785ef
 ---
 ہو سلام اس پر کہ جو قیدی بھی ہے بیمار بھی
 پاؤں میں ہیں آبلے اور آبلوں میں خار بھی

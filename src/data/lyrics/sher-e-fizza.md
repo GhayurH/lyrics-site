@@ -80,9 +80,6 @@ romanLyrics: |-
   Apne waade ko nibhao aao
   Pehra shabbir ke laashe ka karo
   Chale aao sher e fizza...
-# source_id: nohayonline:dce3db94601ecc25b9c6
-# source_url: https://www.nohayonline.com/details_content.php?id=2542
-# raw_sha256: 24673485d7fa7fd4e379429b4883cca2fb8851d7d4b327f22c805ab344dea340
 ---
 
 ۱

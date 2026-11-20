@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:73c324c0ae95136a581f
-# source_url: https://tajpoints.com/2021/09/naam-jis-bibi-ka-baba-ne-masooma-rakha.html
-# raw_sha256: dbabb021493acbe65a725a8aa617d087e647a57a17792a19710980242a3b9cb6
 ---
 
 1

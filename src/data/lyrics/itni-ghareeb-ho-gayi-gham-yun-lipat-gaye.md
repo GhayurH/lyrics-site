@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:0c9ce1ff9e4739b53ab3
-# source_url: https://www.ziyaraat.net/api/noha/849
-# raw_sha256: 5b72e99847db21f8e6d3178a238ba55d14994584f726c0ff5978703ccaa11f8d
 ---
 
 Itni ghareeb ho gaye gham youn lipat gaye

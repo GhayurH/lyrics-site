@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:80a882acef7caf4d8a8f
-# source_url: https://tajpoints.com/2019/07/ro-ro-ghazi-nu-bulaway-zainab-lyrics-in.html
-# raw_sha256: 7f83d154e43f5e6c9b05e3fcae0b740f9e91b164fa2afd41c330a0eec55e0358
 ---
 
 Ro Ro Ghazi Nu Bulaway Zainab.

@@ -8,9 +8,6 @@ poet: "Shams"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:261f0e6d1f25cf9dc2af
-# source_url: https://tajpoints.com/2024/12/gurbat-e-fatima-qamar-baltistani-lyrics.html
-# raw_sha256: 43dfca7e66b6d1e63cb23ef9133ab45fa66709db1420d8a88b6bd7624e37cf38
 ---
 
 1

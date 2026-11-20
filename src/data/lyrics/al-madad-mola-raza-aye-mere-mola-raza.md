@@ -7,11 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c154c8e48b355d063d08
-# source_url: https://tajpoints.com/2022/10/al-madad-mola-raza-aye-mere-mola-raza.html
-# raw_sha256: d470ff9a72a51cea14c6bb1c7f2e02d399a2538dfbfb441521157609d4c971e9
-# source_title_original: Al Madad Mola Raza Aye Mere Mola Raza Mir Hasan 2006
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Al Madad Mola Raza Aye Mere Mola Raza

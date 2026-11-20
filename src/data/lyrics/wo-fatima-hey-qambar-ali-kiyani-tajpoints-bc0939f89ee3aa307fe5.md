@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bc0939f89ee3aa307fe5
-# source_url: https://tajpoints.com/2026/01/wo-fatima-hey-qambar-ali-kiyani-lyrics.html
-# raw_sha256: 22e983e534f9a1d608998ee5cf0b129354328a4dcade8ecc545eb2782615ebbb
 ---
 
 1

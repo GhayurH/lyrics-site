@@ -8,9 +8,6 @@ poet: "Naqsh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aa92bd043bf76aa2da60
-# source_url: https://tajpoints.com/2023/12/baba-ka-bad-zehra-syeda-amber-naqvi.html
-# raw_sha256: 290d88871ba716a3ef2f9039aecae1cf44243dac822f8c0e70848b9cc742f084
 ---
 
 1

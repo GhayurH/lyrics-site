@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:5ad239f727a296bb336a
-# source_url: https://www.ziyaraat.net/api/noha/2039
-# raw_sha256: b0e4251524d28650fc71a23de729e7fcf05e41feab2260d03be0691bc386abe9
 ---
 
 Maray gaye Shabbir fiza may ye sada hay

@@ -86,9 +86,6 @@ romanLyrics: |-
   Shukr e khuda khuṅ mera
   Meri tarha kehne laga
   Risalat e man...
-# source_id: nohayonline:c90dbfd302972fe98612
-# source_url: https://www.nohayonline.com/details_content.php?id=942
-# raw_sha256: 453a90d7afa04bbdf46c85ac67a41e2dc6e4d7d20de4faf88ff1c2527abc7a3e
 ---
 
 ۱

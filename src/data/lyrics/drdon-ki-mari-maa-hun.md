@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:4f94b07bcb087592e614
-# source_url: https://www.ziyaraat.net/api/noha/2679
-# raw_sha256: 3ce4810f6190edbd20de38f35f2df2da28543419c7055dcf13dbfc8cad038f3e
-# source_id: ziyaraat:55a16e53f2d06291493c
-# source_url: https://www.ziyaraat.net/api/noha/2685
-# raw_sha256: 0cbb1edd1aed1aa5f26d9598f4cf71906ba4df8466503e7bb0ca1bbd7afcda19
 ---
 
 آ جائو اے سکینہؑ، تجھے لُوری میں سناؤں

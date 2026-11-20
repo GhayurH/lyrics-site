@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Ab Raza kuchh aur kya maaṅge dar-e-Lajpaal se
   Dil meiṅ jab Shabbir ki aah o fughaaṅ aabaad hai
-# source_id: nohayonline:e17c232350e9c4f5ba6e
-# source_url: https://www.nohayonline.com/details_content.php?id=1512
-# raw_sha256: 4e891fffbef2644b1f4966257f2f43417449ce95a7ec2c5e2a81e097a2669c8e
 ---
 کربلا کے دشت میں ایک لا مکاں آباد ہے
 نور حق اور مالک کون و مکاں آباد ہے

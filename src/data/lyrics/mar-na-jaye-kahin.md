@@ -50,9 +50,6 @@ romanLyrics: |-
   Saath barchi ke dil bhi khichti hai
   Khaynchte hai wo jab sina akbar
   Mar na jaaye kahin...
-# source_id: nohayonline:34db0c82e2d9424e1129
-# source_url: https://www.nohayonline.com/details_content.php?id=2732
-# raw_sha256: de564eb2e6c095db5276042b91f75a9992a4039bef1e2a0a9bc73134fa0b9731
 ---
 
 ۱

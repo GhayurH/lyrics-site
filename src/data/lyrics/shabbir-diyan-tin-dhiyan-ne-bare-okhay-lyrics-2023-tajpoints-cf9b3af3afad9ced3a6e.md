@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cf9b3af3afad9ced3a6e
-# source_url: https://tajpoints.com/2023/06/shabbir-diyan-tin-dhiyan-ne-bare-okhay.html
-# raw_sha256: bbe8f35a17c3118d38e30e2c22fa13e14f4e7b116701970ca88833335b8e2bf8
 ---
 
 1

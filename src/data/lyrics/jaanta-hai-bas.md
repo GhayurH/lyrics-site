@@ -53,9 +53,6 @@ romanLyrics: |-
   Kijiye ehsaan Maula aap ka zaair banuṅ
   Ru ba ru Yazdaaṅ ho rauza aur maiṅ nauha parhuṅ
   Dil ki dharkan band ho aur saans ruk jaaye Husain
-# source_id: nohayonline:dc1dbad3ac235c4e6973
-# source_url: https://www.nohayonline.com/details_content.php?id=2485
-# raw_sha256: 90ea8f685f26b6b50c8c4252bd3a3f52f0917b5af686f9bb1eeca4bf747b9aa5
 ---
 جانتا ہے بس خدا کیسے سنبھل پائے حسین
 قتل گاہ میں لاش پر اکبر کی جب آئے حسین

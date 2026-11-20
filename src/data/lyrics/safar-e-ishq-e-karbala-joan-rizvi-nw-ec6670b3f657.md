@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ec6670b3f6570cb3ed0f
-# source_url: https://www.nohawriteups.org/safar-e-ishq-e-karbala-joan-rizvi-nohay-2020/
-# original_html: snapshots/nohawriteups/original_html/ec6670b3f6570cb3ed0f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ec6670b3f6570cb3ed0f.json
-# api_content_sha256: dd6c501e0ecc05b8af95169a5a04a984f845573f9c4cbdcd4f0639d638e1940e
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Dil main ishq e karbala aur ankh main anso liya

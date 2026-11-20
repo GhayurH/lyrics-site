@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:59304d62b74ce3a292dd
-# source_url: https://tajpoint.com/assi-na-ronday-bazaraan-wich-na-sir-wich-mitiyaan/
-# raw_sha256: 7a84ff55f554f274222992c5bdfb2af3d81490d68a0409b5f81fd53b369f3b24
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Adil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:546886221bbe6039ffa9
-# source_url: https://tajpoints.com/2019/09/ik-dard-ki-kainaat-hai-sajjad-ke-dil.html
-# raw_sha256: 6a16f2d0703b3bd5447b6b53e2234dfb88a98246b326e46bbfb6a08ad3b9d2d7
 ---
 
 1

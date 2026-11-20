@@ -8,9 +8,6 @@ poet: "Bilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9f1de329a9916426d688
-# source_url: https://tajpoints.com/2018/07/kya-ho-ga-adawat-ka-saboot-iss-se-bara.html
-# raw_sha256: 0f11700deda2266615d1dd0b416bd2fe4176efb9f4e0b4fb13e5bcaad647f6ba
 ---
 
 1

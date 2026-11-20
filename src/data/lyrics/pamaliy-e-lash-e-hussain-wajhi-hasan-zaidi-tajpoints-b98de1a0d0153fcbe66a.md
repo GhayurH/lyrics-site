@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b98de1a0d0153fcbe66a
-# source_url: https://tajpoints.com/2022/08/pamaliy-e-lash-e-hussain-wajhi-hasan.html
-# raw_sha256: 826adf3f84948b16502dfbc66242b771a5123e873a30dd18cb377feef85ccc89
 ---
 
 Pamaliy e Lash e Hussain Wajhi Hasan Zaidi.

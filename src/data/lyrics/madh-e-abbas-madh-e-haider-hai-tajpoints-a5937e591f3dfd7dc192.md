@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a5937e591f3dfd7dc192
-# source_url: https://tajpoints.com/2020/12/madh-e-abbas-madh-e-haider-hai-lyrics.html
-# raw_sha256: da4388ff4c94ce79abd5f9efb853d079cd70c11e0a844637cc8baa14da239397
 ---
 
 Madh-e-Abbas Madh-e-Haider Hai.

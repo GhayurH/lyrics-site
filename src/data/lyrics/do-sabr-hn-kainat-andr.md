@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c5adff792eaca6db414f
-# source_url: https://www.ziyaraat.net/api/noha/1383
-# raw_sha256: 8e71cb58496086e0172ccd47a2d0bcac67da756fead53dbc747c075b39a7838f
 ---
 
 دو صابر ہیں کائنات اندر اک عابد اک شبیر اے

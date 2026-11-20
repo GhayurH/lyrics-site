@@ -74,9 +74,6 @@ romanLyrics: |-
   10
   Aasman misl-e-kamaa dasht-ebala par jhuk gaya
   Jab jhukay Shah lash-e-Akbar uthanay ke liye
-# source_id: ziyaraat:370b6f70fcd59d71c532
-# source_url: https://www.ziyaraat.net/api/noha/450
-# raw_sha256: 0ef8055f9dca89460081e02288b1c057c50e46f89f6f1b349e3d2928e7916754
 ---
 
 ۱

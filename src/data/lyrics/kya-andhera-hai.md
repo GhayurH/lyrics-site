@@ -42,12 +42,6 @@ romanLyrics: |-
   Maiṅ dikhaauṅ gi rasan ke aur tamaachoṅ ke nishaaṅ
   Sun nahiṅ paayeṅge Baba haal saara ae phuphi
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-# source_id: nohayonline:d83e50cfe8396b3aaca1
-# source_url: https://www.nohayonline.com/details_content.php?id=1733
-# raw_sha256: 9b6e74a890d3d0c08751ffc5d551835276e496b85feeb6a41de4d48cc8641433
-# source_id: ziyaraat:f80c8d3f3ccf6868043e
-# source_url: https://www.ziyaraat.net/api/noha/2424
-# raw_sha256: b34c99dff8227358c6abf72301f6458b8a2b4702fdfc695d7498de1fe2c0fed5
 ---
 
 اے پھپھی اماں میری کیا اندھیرا ہے پھپھی

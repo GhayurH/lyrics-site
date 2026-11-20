@@ -62,9 +62,6 @@ romanLyrics: |-
   Ye marsiya meri majlis meiṅ parho
   Meri tarha koi yatim na ho
   Sakina kehti thi ro ro kar...
-# source_id: nohayonline:220d14303877cf183c9e
-# source_url: https://www.nohayonline.com/details_content.php?id=2225
-# raw_sha256: 40b5368cb25cda4c8cbb7310077d578935e75c56350f7d2fec02a7ffbf5abed1
 ---
 
 ۱

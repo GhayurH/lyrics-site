@@ -35,9 +35,6 @@ romanLyrics: |-
   Roza e shah e diṅ larazta hai
   Dam nahi torte Ali Akbar
   Sath maa ka chaman ujarta hai
-# source_id: ziyaraat:9ed54f7c074c266c99a6
-# source_url: https://www.ziyaraat.net/api/noha/2641
-# raw_sha256: c87974b88120cdf41df7b653b4ef084aedded9b5ae2a7aea5fe827d9c7f2436f
 ---
 
 شہہ کا یہ امتحان کیسا ہے

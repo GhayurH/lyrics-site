@@ -58,9 +58,6 @@ romanLyrics: |-
   Qirtaas o qalam rone lage sun ke ye noha
   Ifham kaha mujh se ye lafzoṅ ne ye tarap kar
   Akbar ke kaleje meiṅ sinaṅ tut gayi hai
-# source_id: nohayonline:982a714b7d702c1adecf
-# source_url: https://www.nohayonline.com/details_content.php?id=3162
-# raw_sha256: abfbcac908b06df7d886218a99595ca00db902356e9b3c3e1e8557588e9c3209
 ---
 کس طرح کہے مادر اکبر سے یہ سرور
 اکبر کے کلیجے میں سناں ٹوٹ گئی ہے

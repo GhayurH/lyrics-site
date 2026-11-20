@@ -92,12 +92,6 @@ romanLyrics: 'Tamaam aalam may aaj matam, Hussain bekas ka ho raha hay
   Ye nauha tere qalam se mehshar
 
   Janabe zehra ki ek ata hai'
-# source_id: nohayonline:4b91a603d874cdc8a1d6
-# source_url: https://www.nohayonline.com/details_content.php?id=426
-# raw_sha256: 7b761f522693a2cde40595b45dafe8096d41ee01378393023a6617a25d3d87cf
-# source_id: ziyaraat:2815ddf5626fe5e32006
-# source_url: https://www.ziyaraat.net/api/noha/636
-# raw_sha256: e7d67cee0ab6d8f92881520054c0e8810d23c121934268289e934d00343349e1
 ---
 
 تمام عالم میں آج ماتم

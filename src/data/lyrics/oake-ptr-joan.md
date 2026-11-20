@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:5feb32b6991357a33bbe
-# source_url: https://www.ziyaraat.net/api/noha/32
-# raw_sha256: a7f98264ebdade619645d542fb53d1d195b578e556aa3c9931b372f206d2761d
 ---
 
 Wakey putar jawaan koo wal wal key jado marey kul mehman gaey

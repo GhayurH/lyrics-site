@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:88091bf4326dfb11cc4d
-# source_url: https://www.ziyaraat.net/api/noha/2756
-# raw_sha256: f89808fafbba401975ae9f0c0a5442c644789af4f604f25dc29a23ee0c73cfb5
 ---
 
 زینبؑ تِرے غازیؑ کی جہاں لاش پڑی ہے

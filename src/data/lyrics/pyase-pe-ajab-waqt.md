@@ -49,15 +49,6 @@ romanLyrics: |-
   9
   Hai majlis-e-Shabbir meiṅ Abbas ka maatam
   Rehaan ye Ghaazi ki wafaaoṅ ka sila hai
-# source_id: nohayonline:82dc9a8460074073ac48
-# source_url: https://www.nohayonline.com/details_content.php?id=414
-# raw_sha256: 3318b32d33ae6ff5a92d007a4df720459c86b476aa971e20e0422f4fb4acf12d
-# source_id: ziyaraat:8ecba176755799c4a305
-# source_url: https://www.ziyaraat.net/api/noha/360
-# raw_sha256: f0b69a862f1a6282d506fc04b3e094f60f0cd5412eff7b47263f5473c4f082f5
-# source_id: tajpoints:da52476ffb1007c0a86e
-# source_url: https://tajpoints.com/2023/01/pyase-pe-ajab-waqt-qayamat-ka-para-hai.html
-# raw_sha256: 7bc362909d340906728ac839e367c66ecdddb0fa790be8195e3fb90a3abf0d67
 ---
 پیاسے پہ عجب وقت قیامت کا پڑا ہے
 اک لاش ابھی لایا ہے اک لینے چلا ہے

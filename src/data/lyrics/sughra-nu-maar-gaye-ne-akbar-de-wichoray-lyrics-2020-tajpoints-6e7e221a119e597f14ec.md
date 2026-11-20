@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6e7e221a119e597f14ec
-# source_url: https://tajpoints.com/2020/08/sughra-nu-maar-gaye-ne-akbar-de.html
-# raw_sha256: 1204147877ae70c91711dcef7eb8680b60929d6bab705ad8a96c34c294678fa7
 ---
 
 Sughra Nu Maar Gaye Ne Akbar De Wichoray.

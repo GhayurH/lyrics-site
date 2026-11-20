@@ -37,10 +37,6 @@ romanLyrics: |-
   6
   Sirf din-e-Haq ki tafsir-e-bahtar the Uruj
   Ban gaye haiṅ Karbala wale zaban-e-Karbala
-# editorial_uncertainty: Final couplet differs within archived HTML: Roman tafseerein bahattar hai versus Urdu تفسیرِ بہتر تھے. Urdu reading retained; intended wording requires audio or print.
-# source_id: nohayonline:92aa411572540a454a50
-# source_url: https://www.nohayonline.com/details_content.php?id=51
-# raw_sha256: 4100e72f90a54d024462bedf0ee7d32b1d962c1ebc825b5583b80934153e7080
 ---
 اب کسی سے رُک نہیں سکتا بیانِ کربلا
 لکھ گئے عباس خوں سے داستانِ کربلا

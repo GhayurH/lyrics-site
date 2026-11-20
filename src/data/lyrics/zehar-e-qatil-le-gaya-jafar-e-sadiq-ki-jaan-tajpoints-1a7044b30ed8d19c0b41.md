@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a7044b30ed8d19c0b41
-# source_url: https://tajpoints.com/2023/05/zehar-e-qatil-le-gaya-jafar-e-sadiq-ki.html
-# raw_sha256: 90be38bdb4826834acf47afeccaa7ab07fbab85ba8ce0ce967637d8fcd4cedf3
 ---
 
 1

@@ -8,9 +8,6 @@ reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:33ba10b8c03b8f3195c2
-# source_url: https://www.ziyaraat.net/api/noha/1219
-# raw_sha256: 8be5b82d7d66e987293945e686bc6bd8cddcbe86af617a9102027067e997db90
 ---
 
 یـــا فـــاطــمہ زہراؑ

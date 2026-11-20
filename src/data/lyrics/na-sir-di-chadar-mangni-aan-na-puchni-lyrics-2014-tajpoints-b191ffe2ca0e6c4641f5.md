@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b191ffe2ca0e6c4641f5
-# source_url: https://tajpoints.com/2017/02/na-sir-di-chadar-mangni-aan-na-puchni.html
-# raw_sha256: 236a8aebf4f502f3125221f50e6c5185fa7bdf647860bc9466ea3c5dd846ca6f
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:757a2e2de27c949102fb
-# source_url: https://tajpoints.com/2019/05/kya-pochte-ho-mujh-se-keh-kya-kya-hasan.html
-# raw_sha256: 925a33ee111f63ab69f7b0b5d417895c8c042afe48a1083fe0eea7951f7ad0de
 ---
 
 Kya Pochte Ho Mujh Se Keh Kya Kya Hasan Ka Hai.

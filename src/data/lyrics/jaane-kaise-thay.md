@@ -54,9 +54,6 @@ romanLyrics: |-
   Daayam o Yazdaaṅ tha ek gham khwaar ka ye marsiya
   Baaba jaaṅ kya aap ruthe lut gaya mera jahaaṅ
   Baani-e-mushkil meri mushkil barhaane aa gaye
-# source_id: nohayonline:718dee6584173170054c
-# source_url: https://www.nohayonline.com/details_content.php?id=2520
-# raw_sha256: 43c5b45dd4f274e72ca81e0b8a3b8e3d78847dba4c57d3903c31b08ba5c533ca
 ---
 پہچانو مسلمانوں میں فاطمہ زہرا ہوں
 

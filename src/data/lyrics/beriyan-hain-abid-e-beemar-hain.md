@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2e6b87c51d1d0b7172ae
-# source_url: https://www.ziyaraat.net/api/noha/2270
-# raw_sha256: 26a2d3f85eb909433344a222a9b6b939afb9bc3c47ee20f569c56d989ad50946
 ---
 
 بیڑیاں ہیں عابدِؑ بیمار ہیں

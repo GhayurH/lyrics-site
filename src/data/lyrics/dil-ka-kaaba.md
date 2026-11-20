@@ -69,12 +69,6 @@ romanLyrics: |-
   Jo Mustafa ke kaandhoṅ pe baitha
   Ummat ne us ke laashe ko haaye
   Ghoroṅ se raundha hai Karbala meiṅ
-# source_id: nohayonline:2c046e4ef26d40784b78
-# source_url: https://www.nohayonline.com/details_content.php?id=700
-# raw_sha256: 5497f42c5cf3f231148dbff7376974ee70fd9043e637447124bd6ad9432e2808
-# source_id: ziyaraat:ce76d5b8454bc34f4971
-# source_url: https://www.ziyaraat.net/api/noha/2485
-# raw_sha256: 6672f631def2d591a86f0532c336c0863efebc933f05d9afaaeb6ff2dd2fc05f
 ---
 
 مکے میں کعبہ میری جبیں کا

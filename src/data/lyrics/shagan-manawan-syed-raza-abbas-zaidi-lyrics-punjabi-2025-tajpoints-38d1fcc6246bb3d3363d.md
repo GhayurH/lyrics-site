@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:38d1fcc6246bb3d3363d
-# source_url: https://tajpoints.com/2025/07/shagan-manawan-syed-raza-abbas-zaidi.html
-# raw_sha256: 6d08e12219e51a871fb1cd5e3f629697ebb0cb44adbc128e82515201c733f205
 ---
 
 1

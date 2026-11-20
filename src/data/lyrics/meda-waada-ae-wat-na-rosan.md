@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:26de23ea6f7ea5b664ba
-# source_url: https://www.ziyaraat.net/api/noha/1955
-# raw_sha256: d4a2c37ea977831ed8c74afce4c458a254803c635744f48d9d79c3f370114610
 ---
 
 Hik warri sir maiku babay da Sajaad bhira milwa eh,

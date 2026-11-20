@@ -51,9 +51,6 @@ romanLyrics: |-
   Tha hashr ka manzar
   Jab kehti thi dil thaam ke ye Fatima jaayi
   Aaja mere bhai
-# source_id: nohayonline:bebc77e14ac1c77e1857
-# source_url: https://www.nohayonline.com/details_content.php?id=1123
-# raw_sha256: 0c4da84c99fd3da80eb18959130dc83ee00332cdc6fcee24e9ca00aafb7af92a
 ---
 یہ شامِ غریباں میں تھی زینب کی دہائی
 آجا میرے بھائی

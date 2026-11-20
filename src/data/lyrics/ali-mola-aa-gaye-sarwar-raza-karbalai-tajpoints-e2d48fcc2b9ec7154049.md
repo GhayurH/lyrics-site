@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e2d48fcc2b9ec7154049
-# source_url: https://tajpoints.com/2022/06/ali-mola-aa-gaye-sarwar-raza-karbalai.html
-# raw_sha256: 49b268efa30277db6c45001399477a7b6fb5968fff92ff0700cc3246f41ec88a
 ---
 
 1

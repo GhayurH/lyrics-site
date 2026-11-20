@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7f53466a7279b90cd23c
-# source_url: https://tajpoints.com/2021/02/mehboob-e-kibriya-ki-sakina-hai-fatima.html
-# raw_sha256: 9010d6ff964a555ba6a9b16ffdc10afcee99024793a4825a61cfea9765c90ba9
 ---
 
 Mehboob e Kibriya Ki Sakina Hai Fatima.

@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4ca5f9c26a110c4626cb
-# source_url: https://tajpoints.com/2024/07/bulalo-karbobala-mujhko-haider-rizvi.html
-# raw_sha256: e9a00d255f77feccee4a7c6c933c563ab6822896d87f18ee14ef78b41c7f8ef8
 ---
 
 1

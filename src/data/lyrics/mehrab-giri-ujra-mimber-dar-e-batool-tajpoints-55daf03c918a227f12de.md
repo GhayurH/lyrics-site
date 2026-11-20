@@ -8,9 +8,6 @@ poet: "Naveed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:55daf03c918a227f12de
-# source_url: https://tajpoints.com/2017/02/mehrab-giri-ujra-mimber-jibreelas.html
-# raw_sha256: aaec5ef7d9bc12d784c7a5badaed08cea6f5fb5c94637edd68ce72219c442112
 ---
 
 Mehrab Giri Ujra Mimber Dar-e-Batool.

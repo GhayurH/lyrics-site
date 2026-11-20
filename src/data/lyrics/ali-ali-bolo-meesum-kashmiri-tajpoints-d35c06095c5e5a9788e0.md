@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d35c06095c5e5a9788e0
-# source_url: https://tajpoints.com/2022/02/ali-ali-bolo-meesum-kashmiri-lyrics-in.html
-# raw_sha256: 4f024bcdd1a98518ec11749f378698b721fe7db51c69966c3664514a8e711264
 ---
 
 Hai Hukam-e-Mursal-e-Dawar Ali Ali Bolo.

@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:de1f54cd54762d3367ff
-# source_url: https://tajpoints.com/2018/04/shaban-aa-gaya-hai.html
-# raw_sha256: 5b43d8f91aab6e558282008138cdab7b8603493d89050979b70e0545933f36bd
 ---
 
 Khushiyon Ka Sath Le Ke Saman Aa Gaya Hai.

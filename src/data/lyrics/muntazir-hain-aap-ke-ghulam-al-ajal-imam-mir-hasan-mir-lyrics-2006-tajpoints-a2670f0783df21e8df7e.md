@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a2670f0783df21e8df7e
-# source_url: https://tajpoints.com/2022/10/muntazir-hain-aap-ke-ghulam-al-ajal.html
-# raw_sha256: 268e4014dc736656bd2d61a9b750bbe179c763d269ad98ee933434127ffab6d2
 ---
 
 1

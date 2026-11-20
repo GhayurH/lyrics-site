@@ -99,9 +99,6 @@ romanLyrics: |-
   Royega kaun bhala kaun mere bachche ko jaa kar
   Beti se ye farmaane lage Ahmad-e-Mukhtaar
   Taa hashr ise royeṅge dunya meiṅ azaadaar
-# source_id: nohayonline:6d5efeebbbb23aaed99e
-# source_url: https://www.nohayonline.com/details_content.php?id=3714
-# raw_sha256: 9b6499e3094a1f1734372edc2aa8c8adec7a9cc2da0bffa15db6b1d12dbe49a0
 ---
 
 جب تیسری شعبان کو آیا گل زہرا

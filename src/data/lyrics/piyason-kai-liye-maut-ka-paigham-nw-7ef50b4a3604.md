@@ -25,12 +25,6 @@ romanLyrics: |-
 
   Yeh raat agar dhal gayi suraj nikal aya
   Mur jhayai ga pardes maiṅ Zahra ka gulistar.
-# source_id: nohawriteups:7ef50b4a360482b6d94c
-# source_url: https://www.nohawriteups.org/piyason-kai-liye-maut-ka-paigham/
-# original_html: snapshots/nohawriteups/original_html/7ef50b4a360482b6d94c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/7ef50b4a360482b6d94c.json
-# api_content_sha256: 6d9d04c19001b820e8c05f89872f34c50bfe491f5a5a89a93b448ef707cc2aaa
-# editorial_note: Unpublished source-faithful draft from approved valid roman+urdu; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 پیاسوں کے لئے موت کا پیغام سحر ہے

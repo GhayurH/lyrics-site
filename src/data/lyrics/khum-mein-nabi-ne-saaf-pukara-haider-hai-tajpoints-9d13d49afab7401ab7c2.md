@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9d13d49afab7401ab7c2
-# source_url: https://tajpoints.com/2020/02/khum-mein-nabi-ne-saaf-pukara-haider.html
-# raw_sha256: 3e6a3aea13d774e36dd4aca1e68c4332057569177acaab86b5abfdeb3232cfe7
 ---
 
 Khum Mein Nabi Ne Saaf Pukara Haider Hai.

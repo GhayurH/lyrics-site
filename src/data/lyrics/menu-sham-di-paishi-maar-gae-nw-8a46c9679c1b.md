@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8a46c9679c1b240ee40e
-# source_url: https://www.nohawriteups.org/menu-sham-di-paishi-maar-gae/
-# original_html: snapshots/nohawriteups/original_html/8a46c9679c1b240ee40e.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8a46c9679c1b240ee40e.json
-# api_content_sha256: 2356f75a3a3c50af1a22ae18476087eac85f25990d37f1c88c519e78b9512688
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Menu Sham di paishi maar gae Menu Sham di paishi maar

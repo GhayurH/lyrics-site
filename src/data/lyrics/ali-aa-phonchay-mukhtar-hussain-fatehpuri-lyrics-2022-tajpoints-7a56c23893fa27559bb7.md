@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7a56c23893fa27559bb7
-# source_url: https://tajpoints.com/2022/02/ali-aa-phonchay-mukhtar-hussain.html
-# raw_sha256: f8560c7b7b72842339b4082c09e90aa8463466802b4746e3e4229db513981f03
 ---
 
 Ali Aa Phonchay Mukhtar Hussain Fatehpuri Write Up

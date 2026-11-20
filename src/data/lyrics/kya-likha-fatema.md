@@ -9,9 +9,6 @@ poet: "Mir Sajjad Mir"
 tags: []
 aliases: []
 published: true
-# source_id: tajpoints:339e6df4c9170daf9e3c
-# source_url: https://tajpoints.com/2017/02/kya-likha-fatima-sughra-ne-bataya-na.html
-# raw_sha256: 6b84b371c50e7c17c46aeafcde4900cbb75dd920948add71775db628d61d8004
 romanLyrics: |-
   Kya likha Fatema Sughra ne bataaya na gaya
   Sheh se khat laasha-e-Akbar pe sunaaya na gaya
@@ -44,12 +41,6 @@ romanLyrics: |-
   Mir Sajjad Shah-e-diṅ se Ali Asghar ka
   Chehra jalti hui reti se chhupaaya na gaya
 reciter: "Meer Hasan Meer"
-# source_id: nohayonline:e11a43e95c5cf145157c
-# source_url: https://www.nohayonline.com/details_content.php?id=353
-# raw_sha256: 6a14628babb8abaeca1e1dbf3cee6cc6d03d1a36eb90d9b4f8c829eb4c8d1504
-# source_id: ziyaraat:bb9437f778322de7f4e4
-# source_url: https://www.ziyaraat.net/api/noha/2362
-# raw_sha256: 648bc1ad3cac67680810cc3dded41b6ca922b76b578d706f99a5df2945c5bb5c
 ---
 
 کیا لکھا فاطمہ صغریٰ نے بتایا نہ گیا

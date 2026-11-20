@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a8167102398c8fda027c
-# source_url: https://www.ziyaraat.net/api/noha/1553
-# raw_sha256: d711706d70dd18762bdc27ad43f56f29e83d9cf0a1b265622d00e1f3aeef836b
 ---
 
 Baba Tere Bajon Teriyan Dhiyaan Hai Rulgaiyaan

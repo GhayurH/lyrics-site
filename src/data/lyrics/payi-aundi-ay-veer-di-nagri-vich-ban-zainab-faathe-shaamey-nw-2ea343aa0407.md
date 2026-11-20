@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2ea343aa04072d739164
-# source_url: https://www.nohawriteups.org/payi-aundi-ay-veer-di-nagri-vich-ban-zainab-faathe-shaamey/
-# original_html: snapshots/nohawriteups/original_html/2ea343aa04072d739164.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2ea343aa04072d739164.json
-# api_content_sha256: a6bb6854235c23f4240971c7d155b81e86ce228d7ecf1b74ada2db7936d69609
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Payi Aundi Ay, Veer Di Nagri Vich Ban Zainab Faathe Shaamey

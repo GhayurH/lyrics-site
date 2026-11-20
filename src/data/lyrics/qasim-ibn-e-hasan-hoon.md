@@ -7,14 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# Consecutive original pages consolidated in source order; original source provenance retained.
-# Original page headings / importer chunk numbers omitted; detailed stanza editing still pending.
-# source_id: tajpoints:752b0112933b638e9e15
-# source_url: https://tajpoints.com/2022/03/qasim-ibn-e-hasan-hoon-mir-hasan-mir.html
-# raw_sha256: 150b534216ba9ac02b9b35e9ac78e05c1155c93df37535e21703da0a44720392
-# source_id: tajpoints:156171e6b33049af4b4b
-# source_url: https://tajpoints.com/2022/03/qasim-ibn-e-hasan-hoon-page-2-mir-hasan.html
-# raw_sha256: f1e1edac4edc0f2250ce818bdcb329ff87afa5378452435dce9a8b7ec7b863c5
 ---
 
 Jo Hai Waqar Mutlabi Khandan Ka.

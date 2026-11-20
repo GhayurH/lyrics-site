@@ -96,12 +96,6 @@ romanLyrics: |-
   Tu hausla na haarna
   Sina pe hoo to kya....
   Behan mai saath....
-# source_id: nohawriteups:2421835804b17e3d9b2a
-# source_url: https://www.nohawriteups.org/behan-mai-saath/
-# raw_sha256: ce2ecaf7e7b346a992d668b0a191742e47776c9811fee1be7dbd1ca703bc424c
-# source_id: ziyaraat:e4281ea820b987ecfc41
-# source_url: https://www.ziyaraat.net/api/noha/900
-# raw_sha256: 66cb517e662aac9b0da07fa8948fa91b35132feeb4751347e4af101fbf782801
 ---
 
 ۱

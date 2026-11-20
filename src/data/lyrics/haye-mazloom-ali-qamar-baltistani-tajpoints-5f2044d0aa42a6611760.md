@@ -8,9 +8,6 @@ poet: "Alvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5f2044d0aa42a6611760
-# source_url: https://tajpoints.com/2024/03/haye-mazloom-ali-qamar-baltistani.html
-# raw_sha256: e55f03c115be650283e2d7e741f1ebae7b68fe689e020c616841fcc6a1d31e52
 ---
 
 1

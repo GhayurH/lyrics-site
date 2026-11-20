@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5a62c5a2ddce407af298
-# source_url: https://tajpoints.com/2022/05/jafar-ka-janaza-hai-ali-raza-rizvi.html
-# raw_sha256: 4470298fc464c70b77abd522dc3db746b45dcd7f2d78e678697e29f07d8f7176
 ---
 
 Jafar Ka Janaza Hai Ali Raza Rizvi

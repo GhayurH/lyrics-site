@@ -8,14 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# Consecutive original pages consolidated in source order; original source provenance retained.
-# Original page headings / importer chunk numbers omitted; detailed stanza editing still pending.
-# source_id: tajpoints:1e080e9cf75e2ad94521
-# source_url: https://tajpoints.com/2019/10/khuwab-e-safar-e-arbaeen-page-1-lyrics.html
-# raw_sha256: bf9555acaf40813a3fffdb68861364581b9bac02c43b3ed4f29e5755a17c383d
-# source_id: tajpoints:293927bfe45912a19979
-# source_url: https://tajpoints.com/2019/10/khuwab-e-safar-e-arbaeen-page-2-lyrics.html
-# raw_sha256: 6ff6f44ea22c0b5f65989cd38c3127c26f2cbc72f9bf49376df3957388cec790
 ---
 
 Sajjad Kya Biyan Ho Woh Arbaeen Ka Khuwab.

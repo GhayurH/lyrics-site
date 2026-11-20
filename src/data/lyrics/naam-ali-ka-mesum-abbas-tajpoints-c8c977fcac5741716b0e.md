@@ -8,9 +8,6 @@ poet: "Mazhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c8c977fcac5741716b0e
-# source_url: https://tajpoints.com/2024/01/naam-ali-ka-mesum-abbas-lyrics-in-urdu.html
-# raw_sha256: 48832b7581fa10e080ffeda8450094060b7f0e72e15723cf8b4ccf8ed676cf08
 ---
 
 Bara Pyara Lagta Hai Naam Ali Ka.

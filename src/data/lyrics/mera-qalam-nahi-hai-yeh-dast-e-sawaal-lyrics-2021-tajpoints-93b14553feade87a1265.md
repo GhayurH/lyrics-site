@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:93b14553feade87a1265
-# source_url: https://tajpoints.com/2021/10/mera-qalam-nahi-hai-yeh-dast-e-sawaal.html
-# raw_sha256: f8bfd0734bc0e82de4b39b7ff95aed898a6565bce37db8b9df9a0527d3f29eff
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Jary"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1c7a2092162a8f8942ea
-# source_url: https://tajpoints.com/2023/05/allah-ho-akbar-ali-ali-sibtain-haider.html
-# raw_sha256: b2e4c82da075ba81f8ddb97af8eeb4e8b5f1c294ee8bfdce3e4c2fd0a31b2cd4
 ---
 
 Allah Ho Akbar Ali Ali Sibtain Haider.

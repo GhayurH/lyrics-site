@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3dabc7ec99e923139d07
-# source_url: https://www.nohawriteups.org/kyu-nai-aunday-meray-veer-pyaare-nana/
-# original_html: snapshots/nohawriteups/original_html/3dabc7ec99e923139d07.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3dabc7ec99e923139d07.json
-# api_content_sha256: 134e803aac577e8f03797f8561531e4abd3c2d6fd08be93101d732bcc8b3ed53
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Kyu Nai Aunday Meray Veer Pyaare Nana.

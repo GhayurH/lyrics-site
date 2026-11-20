@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0bb29f2cb40e4cdd344c
-# source_url: https://tajpoints.com/2024/11/woh-hasnain-ki-maa-hai-syed.html
-# raw_sha256: 8bed3f8d6f213b39c5cd7f4852ed38da9febb1df030ae965d33a4c4a484cbc4a
-# source_title_original: Woh Hasnain Ki Maa Hai Syed Mohammad Shah 2024
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Woh Hasnain Ki Maa Hai

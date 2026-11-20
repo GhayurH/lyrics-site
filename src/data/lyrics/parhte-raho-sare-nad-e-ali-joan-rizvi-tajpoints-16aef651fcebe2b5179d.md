@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:16aef651fcebe2b5179d
-# source_url: https://tajpoints.com/2024/01/parhte-raho-sare-nad-e-ali-joan-rizvi.html
-# raw_sha256: 0560f76eca9ba0a2388bbe347d2a3b6fa2b86e916c69998c87bb932248a89c77
 ---
 
 1

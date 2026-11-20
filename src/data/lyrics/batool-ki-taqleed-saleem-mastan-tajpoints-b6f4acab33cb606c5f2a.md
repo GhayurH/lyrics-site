@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b6f4acab33cb606c5f2a
-# source_url: https://tajpoints.com/2022/01/batool-ki-taqleed-saleem-mastan-lyrics.html
-# raw_sha256: f4864f98827781c272f5a4858390e1b5c505f9b64d7e4a7d6fc6adf4c81391c0
 ---
 
 1

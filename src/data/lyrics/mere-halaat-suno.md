@@ -93,9 +93,6 @@ romanLyrics: |-
   Godi meiṅ liye sar jo khari bint-e-Ali thi
   Ae Shams wo laashe jo sar-e-dasht pare the
   Aamir wo gham o ranj se sab kaaṅp rahe the
-# source_id: nohayonline:b01a9611a730918245d3
-# source_url: https://www.nohayonline.com/details_content.php?id=3615
-# raw_sha256: aa49cdaa34f368b124349894fb19c9385557c440c0264eb09a0e559cc9a52e4c
 ---
 
 میرے حالات سنو میرے جذبات سنو

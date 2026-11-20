@@ -97,14 +97,6 @@ romanLyrics: |-
   Maiṅ faatiha sharbat pe dilaauṅ gi ae bhai
   Haaye Husaina
   Haaṅ yaad hai bhaiya wo mujhe aap ka kehna
-# source_id: nohayonline:84282c9c8784dbc9e565
-# source_url: https://www.nohayonline.com/details_content.php?id=552
-# raw_sha256: 7f481e253b67cd0a5c407eb6405cba5c00435fa677152bdd6949a24f8d4e2532
-# source_id: nohawriteups:0677df76509833bc6caa
-# source_url: https://www.nohawriteups.org/zainab-meri-behna/
-# original_html: snapshots/nohawriteups/original_html/0677df76509833bc6caa.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/0677df76509833bc6caa.json
-# api_content_sha256: 4d2026b0565bdadcabbddc6a43eb153ac4df6b597c78c4905c75a43f82c81a98
 ---
 زینب میری بہنا یہ شِہ نے کہا
 زینب میری بہنا دُکھیا میری بہنا

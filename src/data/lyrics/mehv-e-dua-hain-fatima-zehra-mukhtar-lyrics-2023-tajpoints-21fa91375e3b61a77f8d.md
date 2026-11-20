@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:21fa91375e3b61a77f8d
-# source_url: https://tajpoints.com/2023/01/mehv-e-dua-hain-fatima-zehra-mukhtar.html
-# raw_sha256: 2d309ed17839bb46a72a434301f89fddfe9fbcad5e8face44ac9f8d7f84e8e26
 ---
 
 1

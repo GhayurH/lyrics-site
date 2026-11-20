@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:731b3b38d40c2b13dacb
-# source_url: https://tajpoints.com/2023/04/rut-badal-gayi-aye-kofe-di-kita-zalimaa.html
-# raw_sha256: b52b62dd526520ce1b093d97685c51a86faeae97460be58b6060ab633c151f1a
 ---
 
 1

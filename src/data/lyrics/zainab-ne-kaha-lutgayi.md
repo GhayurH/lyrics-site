@@ -45,14 +45,6 @@ romanLyrics: |-
   Bachchi ne qaza ki
   Beghusl o kafan dafn hui dukhtar-e-Sarwar
   Ae saaqi-e-Kausar
-# source_id: nohayonline:e39bf4955a49459b3614
-# source_url: https://www.nohayonline.com/details_content.php?id=275
-# raw_sha256: 511e01438f5ba00c4b79964afd2b517e2b5b7079a03847e32aa662374f0e0393
-# source_id: nohawriteups:e4c6a1d6d650da194904
-# source_url: https://www.nohawriteups.org/zainab-ne-kaha-lutgayi/
-# original_html: snapshots/nohawriteups/original_html/e4c6a1d6d650da194904.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e4c6a1d6d650da194904.json
-# api_content_sha256: 015605ea612ac7a4c3c92c87ed67aa04864acceb636dcabed2e9397d1a4282dc
 ---
 زینب نے کہا لٹ گئی پردیس میں آکر
 اے ثانی کوثر

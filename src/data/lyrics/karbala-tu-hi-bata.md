@@ -65,9 +65,6 @@ romanLyrics: |-
   Bhul paayeṅ ge na ehsaas ke maqtal mujh ko
   Royeṅ ge Aamir o Nayyar bhi musalsal mujh ko
   Maiṅ huṅ aisa nauha Karbala tu hi bata
-# source_id: nohayonline:6fb2d673dd717cbb22b6
-# source_url: https://www.nohayonline.com/details_content.php?id=3604
-# raw_sha256: cfee2b35d2798932164f40b85f1d53b04964914cbe7de8e52806d6f46419f1be
 ---
 
 کربلا تو ہی بتا

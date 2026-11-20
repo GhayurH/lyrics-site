@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:09749f940b3bbb8ac7a8
-# source_url: https://tajpoints.com/2017/02/ya-alias-tera-shukriya.html
-# raw_sha256: 81d61d97bb3be9b9552af7ae31c697c1d8ad76698ee0f718f93d6751837c5679
 ---
 
 Parhti Hai Ye Kabe Ki Dewaar Qaseeda Tera.

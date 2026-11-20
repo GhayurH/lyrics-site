@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:907982dbef36f5b72cbb
-# source_url: https://tajpoints.com/2023/06/rab-jane-kaise-kazim-qaid-e-sitam.html
-# raw_sha256: 66bd654c809aaeb27c03e595bd31099f47c7ff48a32e15494550f36216623e2a
 ---
 
 Rab Jane Kaise Kazim Qaid e Sitam Nibhai.

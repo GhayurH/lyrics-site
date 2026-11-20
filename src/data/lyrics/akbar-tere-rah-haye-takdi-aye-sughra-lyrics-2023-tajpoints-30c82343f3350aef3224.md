@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:30c82343f3350aef3224
-# source_url: https://tajpoints.com/2023/06/akbar-tere-rah-haye-takdi-aye-sughra.html
-# raw_sha256: c24e3431518aba5d661c287ae0e098d0ff8cdfad803103dcd2587ad5e2b509e1
 ---
 
 1

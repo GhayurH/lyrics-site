@@ -130,14 +130,6 @@ romanLyrics: 'Ye janaza hay Ali ka
   Haey qayamat aa gayi
 
   Kehtay hain bacchay Ali ke kya gazab ye ho gaya'
-# source_id: nohayonline:21ee4cc863a446dd5718
-# source_url: https://www.nohayonline.com/details_content.php?id=178
-# raw_sha256: 2fca19b555094b893bbb0dfe6e6d937ba007a6dfc9f4e6ec60f34254c894878d
-# source_id: ziyaraat:0df37a72ce89359e5902
-# source_url: https://www.ziyaraat.net/api/noha/1813
-# raw_sha256: 2da124fbc9c4ac925d15bd9dc9b237cfcee7bd8d809e089b454567aca744b3e3
-# added_stanza_source: roman:kalam-nohayonline-21ee4cc863a446dd5718
-# added_stanza_source: urdu:kalam-nohayonline-21ee4cc863a446dd5718
 ---
 
 یہ جنازہ ہے علیؑ کا شاہ خیبر گیر کا

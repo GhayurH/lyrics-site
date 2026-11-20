@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:46dff9596c91a1c132b6
-# source_url: https://tajpoints.com/2022/02/kazim-da-jnaza-logo-saqlain-ali-lyrics.html
-# raw_sha256: eeaa8e034a6f0cf559cb574ca7e23852773b87dbfb22b7efbd3656f961460877
 ---
 
 1

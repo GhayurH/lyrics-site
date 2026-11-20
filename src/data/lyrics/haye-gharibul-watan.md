@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Suniye Aakif o Aijaz aah o fughaan ki aawaaz
   Kehte the ahl-e-aza haye gharibul watan
-# source_id: nohayonline:308b5fa522f4e98922b6
-# source_url: https://www.nohayonline.com/details_content.php?id=1473
-# raw_sha256: 80bd7d17f074599de3fa1592604e443927bbaffaec2c22e53f9a1407874441f6
 ---
 نوحہ رقیہ کا تھا ہاے غریب الوطن
 دیتی ہوں کب سے صدا ہاے غریب الوطن

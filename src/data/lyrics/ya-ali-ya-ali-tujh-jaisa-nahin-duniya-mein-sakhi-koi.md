@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c5cb7d5e5ae797f73e25
-# source_url: https://www.ziyaraat.net/api/noha/383
-# raw_sha256: 53414400156366a2347558e69233ff24542c69fa64c7cc9146aede57e9e262de
 ---
 
 Ya Ali, Ya Ali, Ya Ali

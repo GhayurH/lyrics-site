@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:34f6f22ef5eefdd20186
-# source_url: https://tajpoints.com/2019/05/haan-woh-hain-mujtaba-haan-woh-hain.html
-# raw_sha256: a1a15e0c4e0a0d65c5ff3cd235df5db4cee1a9702d7b73e091d04c1fcdbd4528
 ---
 
 1

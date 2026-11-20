@@ -8,9 +8,6 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:90a4a5e7242373a0e883
-# source_url: https://www.ziyaraat.net/api/noha/2873
-# raw_sha256: 730ebeb30194492b8a24edec6a1955c6b4995f0bc0f83c2c82f51fb5e6376b91
 ---
 
 ۱

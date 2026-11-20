@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1c873641e73bf1025efb
-# source_url: https://tajpoints.com/2023/04/hussain-ka-baba-syed-mohammad-shah.html
-# raw_sha256: 6398af9ee136d5037304cee1943c3f8b7e825db429815bd5e725ea9dc5b072a2
 ---
 
 Hussain Ka Baba Syed Mohammad Shah.

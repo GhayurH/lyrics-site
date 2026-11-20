@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c6b3fa7ab7f861dd0314
-# source_url: https://tajpoints.com/2023/06/musalmaan-eid-tu-manatay-hain-sheraz.html
-# raw_sha256: 634af654fc7c131362bae63ac77d94fb4e0cd6d37820070012d8bb594371a458
 ---
 
 Musalmaan Eid Tu Manatay Hain Sheraz Khan.

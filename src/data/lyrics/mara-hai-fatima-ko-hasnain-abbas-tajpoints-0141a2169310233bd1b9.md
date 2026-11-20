@@ -8,9 +8,6 @@ poet: "Aasi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0141a2169310233bd1b9
-# source_url: https://tajpoints.com/2021/12/mara-hai-fatima-ko-hasnain-abbas-lyrics.html
-# raw_sha256: f46b77598895fcb37db685d90d0959fad86599f133e49a6bfbf678897cafdf24
 ---
 
 1

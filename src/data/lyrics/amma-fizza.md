@@ -71,9 +71,6 @@ romanLyrics: |-
   Auqaat kahaṅ thi Mohsin ki
   Wo sar ko jhuka ke kehta hai
   Ye nauha tum ne likhaaya hai
-# source_id: nohayonline:50bccdc83c05c722bc06
-# source_url: https://www.nohayonline.com/details_content.php?id=2449
-# raw_sha256: f2f0c45ea40acbf7b69032eee1aa6a2252e3ad6fe3879cdaa474aebadd592d0d
 ---
 اماں فضہ میں تھک گئی چل کے
 ظالم بیٹھنے نہ دیتا ہے

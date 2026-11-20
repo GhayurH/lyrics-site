@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:75db646abf962588ab0e
-# source_url: https://tajpoints.com/2022/11/zuljenah-ali-jee-lyrics-in-urdu-and.html
-# raw_sha256: b725eb682d5b085540db02907ba3ecba6d136eba58d8eea4bdcd29594824a574
 ---
 
 1

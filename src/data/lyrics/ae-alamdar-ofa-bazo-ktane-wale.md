@@ -48,12 +48,6 @@ romanLyrics: |-
   9
   Main bhi Rehaan yuṅhi likhta rahuṅga nauhe
   Jab talak zinda haiṅ nauhoṅ ko sunaane waale
-# source_id: nohayonline:67ebb173de6280140a55
-# source_url: https://www.nohayonline.com/details_content.php?id=2221
-# raw_sha256: 183a081b45093b7d001ef676575a1fa2d579b35d5f95f4df28c5fd9b36a6cfea
-# source_id: ziyaraat:9c8492826d3ba0d72bbb
-# source_url: https://www.ziyaraat.net/api/noha/1894
-# raw_sha256: 0be9e0950907c1bfca9a3858189ca690f28e00d3b8607e6ff17ab901c8ad3df5
 ---
 
 اے علمدارِ وفا بازو کٹانے والے

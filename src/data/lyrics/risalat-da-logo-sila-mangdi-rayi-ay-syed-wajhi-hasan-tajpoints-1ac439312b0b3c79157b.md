@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1ac439312b0b3c79157b
-# source_url: https://tajpoints.com/2023/09/risalat-da-logo-sila-mangdi-rayi-ay.html
-# raw_sha256: 35c5ad1a1d9e3cf11eeb1e1624ded44ec8b57f202741d53f7a834d9e4c927121
 ---
 
 1

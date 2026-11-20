@@ -8,9 +8,6 @@ poet: "Mudassir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5dfca4e4fc46ac89d3d2
-# source_url: https://tajpoints.com/2023/03/husn-e-yaseen-ki-zia-akbar-syed.html
-# raw_sha256: 330a9f92033b8880627eefef785ee7cebd0e76ef800250a6f51566578b5062f8
 ---
 
 Husn e Yaseen ki Zia Akbar Syed Mudassir Mehdi.

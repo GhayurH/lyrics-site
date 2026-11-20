@@ -77,9 +77,6 @@ romanLyrics: |-
   Wohi hai Shimr ka khanjar wohi hai Sheh ka gala
   Wohi hai Shaam ka bazaar aur wohi Kufa
   Urooj ab bhi Sakina ki aa rahi hai sada
-# source_id: ziyaraat:718080630386066fc6a3
-# source_url: https://www.ziyaraat.net/api/noha/390
-# raw_sha256: 49350a8d9b7f91c6c54432603567db698c2ea061746ecc24fa6b7814536bdca0
 ---
 اسیر ہوکے چلی ہوں سلام اے بابا
 

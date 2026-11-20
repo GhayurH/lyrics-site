@@ -51,9 +51,6 @@ romanLyrics: |-
   Shabbir ki ghurbat pe gohar, roey ga zamana hashr talak
   Majlis ki sada ho gi, matam yeh sada ho ga
   Husain badshah nabi ka ladla, haey Karbala may lut gaya
-# source_id: ziyaraat:9ef1f12066c829117f6b
-# source_url: https://www.ziyaraat.net/api/noha/659
-# raw_sha256: 815c93b4ddea516f319ec587096c25eebd18a8401108387ec11435de3e4b77ce
 ---
 
 حسینؑ بادشاہ نبی کا لاڈلا

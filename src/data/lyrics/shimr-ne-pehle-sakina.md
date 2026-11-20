@@ -45,18 +45,6 @@ romanLyrics: |-
   8
   Wa Husaina ka hua shor Takallum barpa
   Shimr Mukhtar ke jab saamne laaya khanjar
-# source_id: nohayonline:1ed921460efaba830786
-# source_url: https://www.nohayonline.com/details_content.php?id=1084
-# raw_sha256: 22008a57812eb4f23e4f68e1ee57b6c22247dd31da092e4caef9f448dd9a6368
-# source_id: nohawriteups:afe450ea7a466bb2ca36
-# source_url: https://www.nohawriteups.org/shimr-ne-pehle-sakina-sa-ko-dikhaya-khanjar-mir-hasan-khususi-salam-2023-muharram-2023-1445-lyrics/
-# original_html: snapshots/nohawriteups/original_html/afe450ea7a466bb2ca36.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/afe450ea7a466bb2ca36.json
-# api_content_sha256: d78e4a8489820c4271932eeba5b3338e46aa8c6a63f04d5bc91f3f4db87224ce
-# source_id: tajpoints:2f4b1665cb1431778c63
-# source_url: https://tajpoints.com/2023/07/shimr-ne-pehle-sakina-ko-dikhaya.html
-# raw_sha256: dc4cb0ec99679bbe1172564b56366c36b2e57fa2a6420f8450f9fb9c23241176
-# editorial_note: Additional source witness has no independent stanza; retains alternate source wording through provenance.
 ---
 شمر نے پہلے سکینہ کو دکھایا خنجر
 بعد میں گردن سرور پہ چلایا خنجر

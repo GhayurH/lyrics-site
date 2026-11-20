@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:b467e69628af3f6683df
-# source_url: https://www.ziyaraat.net/api/noha/1518
-# raw_sha256: 55ed36986aee1287d15a87ace955069937303c3c881103e5652c97ec6eec08cc
 ---
 
 Allahu Akbar

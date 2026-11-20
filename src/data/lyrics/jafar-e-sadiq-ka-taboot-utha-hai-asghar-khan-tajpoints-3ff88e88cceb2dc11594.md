@@ -8,9 +8,6 @@ poet: "Basharat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3ff88e88cceb2dc11594
-# source_url: https://tajpoints.com/2023/05/jafar-e-sadiq-ka-taboot-utha-hai-asghar.html
-# raw_sha256: 824d31516e56fb79b072b06c9f7ef720ebab0a9697efd0ef118fb6872f9833ca
 ---
 
 1

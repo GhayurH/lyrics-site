@@ -8,9 +8,6 @@ reciter: "Mewa Khan Kalidi"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:66d4cf6ab0a38474d02c
-# source_url: https://www.ziyaraat.net/api/noha/1259
-# raw_sha256: 828a58f9e8a8b6dc2d101555f9e7cefade36b86aea5e60caebc4532eb547eab3
 ---
 
 اصغرؑ تیری مادر کو یہ درد کھا نہ جائے

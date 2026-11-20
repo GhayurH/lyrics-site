@@ -62,9 +62,6 @@ romanLyrics: |-
   Mazlum ke nauhe ko ro ro ke parha jaye
   Shabbir ki madar ko pursa yuṅ diya jaye
   Iqbal Shah ka nauha ashkoṅ se likha jaye
-# source_id: nohayonline:e7840a02604c532b7d9b
-# source_url: https://www.nohayonline.com/details_content.php?id=812
-# raw_sha256: f6b219158be9ff83129766417f7e427c71ef22b69d35878b299f5f7a459dbac4
 ---
 
 افلاک پہ رونے کی ماتم کی صدا جائے

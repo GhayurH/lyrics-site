@@ -8,9 +8,6 @@ poet: "Amber"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a62f6b784dc567201788
-# source_url: https://tajpoints.com/2023/06/haye-mola-raza-syeda-amber-naqvi-lyrics.html
-# raw_sha256: c71dc23446b9a347f7bd261f7624094166bf5653d9fd1cce450eef500e864499
 ---
 
 1

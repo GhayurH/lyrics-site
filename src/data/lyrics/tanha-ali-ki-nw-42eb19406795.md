@@ -8,12 +8,6 @@ poet: "Mir Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:42eb19406795d5101168
-# source_url: https://www.nohawriteups.org/tanha-ali-ki/
-# original_html: snapshots/nohawriteups/original_html/42eb19406795d5101168.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/42eb19406795d5101168.json
-# api_content_sha256: f00a42f0b7baeb852bfb25865db6783ae5f8a61ca9ea29a0b2958a9a960a46f9
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 haye zehra teri tanhai hai tanhai ali ki

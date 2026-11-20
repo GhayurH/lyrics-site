@@ -8,9 +8,6 @@ poet: "Qamar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2d206c92ed4517a9ddce
-# source_url: https://tajpoints.com/2023/09/darbar-di-peshi-zainab-di-sajjad-nu.html
-# raw_sha256: c8266afbb109fb8a6d39ff427332bc7e1b3a799603cf0931fa36d12605ebfe35
 ---
 
 1

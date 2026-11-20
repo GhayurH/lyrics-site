@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4c2785a746bd1b169017
-# source_url: https://tajpoints.com/2017/11/hik-wari-sar-maikoon-babay-da-sajjad.html
-# raw_sha256: bbc10ce3cfe6829387899613c1da602153896b007703f013adb6e20e85dadf1e
 ---
 
 Hik Wari Sar Maikoon Babay Da Mir Hasan Mir.

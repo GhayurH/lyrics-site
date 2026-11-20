@@ -56,9 +56,6 @@ romanLyrics: |-
   Tarap rahe haiṅ Payambar bhi Aamir o Akhtar
   Zamiṅ pe chhaai hui hai udaasiyaaṅ ghar ghar
   Ye din muhaafiz-e-isam ki wafaat ka hai
-# source_id: nohayonline:3c340821801ce470e4f6
-# source_url: https://www.nohayonline.com/details_content.php?id=1809
-# raw_sha256: 6af536931996dff78fe1e907b6b25ed1717971f3d95d1ca1b368336cd63fb302
 ---
 جگر کو تھام کے دونوں جہان روتے ہیں
 رسول زادی کے بچے یتیم ہوتے ہیں

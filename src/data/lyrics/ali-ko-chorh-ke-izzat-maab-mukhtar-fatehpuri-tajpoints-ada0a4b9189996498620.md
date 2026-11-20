@@ -8,9 +8,6 @@ poet: "Bilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ada0a4b9189996498620
-# source_url: https://tajpoints.com/2023/07/ali-ko-chorh-ke-izzat-maab-mukhtar.html
-# raw_sha256: acd8b16fbc8b87a7cd7411204db654cbd722a152096b621c5b2cb0f516e0be16
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:0912b725b02699dfe1de
-# source_url: https://www.ziyaraat.net/api/noha/2824
-# raw_sha256: c594675b70d2582f6cfea802692593b92c2ea213231bede7a237115d0beb40b5
 ---
 
 یہ میری کب سے ہے خواہش کہ اے خدائے حسینؑ

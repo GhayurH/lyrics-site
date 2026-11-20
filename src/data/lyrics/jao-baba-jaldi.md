@@ -84,9 +84,6 @@ romanLyrics: |-
   Ran ko jaa raha hai tashna lab gharib bekhata
   Ae Sakina laut kar na aaye ga tera padar
   Ab na keh ke tu mujhe rulaana
-# source_id: nohayonline:129155f1d2afe1b61198
-# source_url: https://www.nohayonline.com/details_content.php?id=2285
-# raw_sha256: 2204cf67a605dc5aea607244c051972f93e86f76c61d11b5b3e9300034e9d2f0
 ---
 رکھ کے سر سینۂ سرور پہ سکینہ بولی
 چھوڑ کر عمو گئے اور گئے سب بھائی

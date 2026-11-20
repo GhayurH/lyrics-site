@@ -80,9 +80,6 @@ romanLyrics: |-
   Ye maadar e gham ka matam hai
   Is jaisa matam koi nahi
   Hasnain ke dil se...
-# source_id: nohayonline:a2c1f948783db4bdde14
-# source_url: https://www.nohayonline.com/details_content.php?id=3726
-# raw_sha256: 92168f7134a16c9aafdb42ac449f3465827d6a0f7a7ef0e12a597b60a2e90f11
 ---
 
 ۱

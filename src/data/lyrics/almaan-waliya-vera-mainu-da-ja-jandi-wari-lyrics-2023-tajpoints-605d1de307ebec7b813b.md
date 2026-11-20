@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:605d1de307ebec7b813b
-# source_url: https://tajpoints.com/2023/05/almaan-waliya-vera-mainu-da-ja-jandi.html
-# raw_sha256: 2854765b3d9fb0c814981d5722dd5e9defcac233efdb9557b895c90b06a33975
 ---
 
 1

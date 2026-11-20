@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6675915936b9dc96f5ab
-# source_url: https://tajpoints.com/2023/05/sana-e-imam-e-raza-syed-mohammad-shah.html
-# raw_sha256: 61e9a43cfcd9a25662a792137ec25337e6857a4850d4b44304e83186e7581860
 ---
 
 1

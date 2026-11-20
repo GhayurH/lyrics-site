@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7c5bd9cc29a1988acf32
-# source_url: https://tajpoints.com/2021/03/zainab-ki-shaan-syed-raza-abbas-zaidi.html
-# raw_sha256: 1354247a7880729ded04566ef6a3bb5613a1bee16278e5d78bef46fad8ec12b7
 ---
 
 Zainab Ki Shaan Syed Raza Abbas Zaidi

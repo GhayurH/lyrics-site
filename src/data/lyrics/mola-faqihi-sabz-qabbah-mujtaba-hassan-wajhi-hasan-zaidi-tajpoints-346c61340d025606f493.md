@@ -8,9 +8,6 @@ poet: "Ansar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:346c61340d025606f493
-# source_url: https://tajpoints.com/2017/12/mola-faqihi-sabz-qabbah-mujtaba-hassan.html
-# raw_sha256: edb2c35d492d8bd7346ed3b020a17c828e99f2d6689eb2eee002e9bbf88439c1
 ---
 
 Mola Faqihi Sabz Qabbah Mujtaba Hassan Wajhi Hasan Zaidi.

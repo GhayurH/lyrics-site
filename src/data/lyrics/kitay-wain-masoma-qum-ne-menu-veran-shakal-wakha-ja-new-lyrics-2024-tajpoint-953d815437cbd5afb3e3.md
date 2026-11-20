@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:953d815437cbd5afb3e3
-# source_url: https://tajpoint.com/kitay-wain-masoma-qum-ne-menu-veran-shakal-wakha-ja/
-# raw_sha256: e611a3146f32a32bd9acb7637381917d5705e06b1b2217841fe2ed98b0693afa
 ---
 
 1

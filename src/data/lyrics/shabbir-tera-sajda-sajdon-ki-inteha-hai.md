@@ -7,17 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1050f20ea21b24bc7bab
-# source_url: https://www.nohawriteups.org/shabbir-tera-sajda-sajdon-ki-intaha-hai/
-# original_html: snapshots/nohawriteups/original_html/1050f20ea21b24bc7bab.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1050f20ea21b24bc7bab.json
-# api_content_sha256: 0638f4c2d9750e35cbd8bccfd65eef4c3f06e0155e664c10625707a8bdffc87e
-# source_id: nohawriteups:598044574e64c1947849
-# source_url: https://www.nohawriteups.org/shabbir-tera-sajda-sajdon-ki-inteha-hai/
-# original_html: snapshots/nohawriteups/original_html/598044574e64c1947849.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/598044574e64c1947849.json
-# api_content_sha256: d4fe67c2951c1bae066cb029076da21ac52cb68d6a91c6afa072a0416ac8553f
-# editorial_note: Two NohayWriteups copies manually matched. Split the opening couplet from seven two-line stanzas; no additional verses identified. Unpublished.
 ---
 
 Shabbir Tera Sajda Sajdon Ki Inteha Hai

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:681f108dc6faab200f3d
-# source_url: https://tajpoints.com/2024/07/main-alamdar-nadeem-sarwar-lyrics-urdu.html
-# raw_sha256: 3892d1ed3be018d1e55198ca8b2527ad2328d462f96890368b7d8e7456a01fdc
 ---
 
 Alamdar, Alamdar.

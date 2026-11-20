@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5ab8a72582738ce3968d
-# source_url: https://tajpoints.com/2018/03/main-haidery-hoon-haidery-main-haidery.html
-# raw_sha256: 1267a325c9110c6c62f3bc4ec8540714f61a704fdc507ba2b3d2e44876c205ed
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d11a55c683b356070d1e
-# source_url: https://tajpoints.com/2019/09/lash-se-lipati-hoi-kehti-thi-maa-mara.html
-# raw_sha256: e987b303ee91d6f5b19ea622e9397286b78c6b4d7de99c3c427be20065b5aa18
 ---
 
 Lash Se Lipati Hoi Kehti Thi Maa Mara Gaya.

@@ -41,12 +41,6 @@ romanLyrics: |-
   7
   Daali Gulzar ne jab haal-e-Saqifa pe nazar
   Saara manzar tha ye Zehra ko rulane ke liye
-# source_id: nohayonline:97f982285e4bc2c88996
-# source_url: https://www.nohayonline.com/details_content.php?id=2297
-# raw_sha256: 94a7510de053bc1e9f07295111d9c7ba6f74bebe17b6d81ed3b5d224be05e3b2
-# source_id: ziyaraat:0d589fe26895950d5b51
-# source_url: https://www.ziyaraat.net/api/noha/1360
-# raw_sha256: 27da8e9c7217ed41604c51fb2d802843046f171b157b972f382db20714f30879
 ---
 آئے شبیر بیاباں کو بسانے کے لئے
 دیں کی راہ میں بھرے گھر کو لٹانے کے لئے

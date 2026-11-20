@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6b29dd25e4a7c8d6c046
-# source_url: https://www.ziyaraat.net/api/noha/201
-# raw_sha256: 482a311a54c4fb220322dbc84eaac16cbf35dd0c83154e1b1657408e17105fa3
 ---
 
 Loriyon sai sonay walay so rahay ho tum kahan

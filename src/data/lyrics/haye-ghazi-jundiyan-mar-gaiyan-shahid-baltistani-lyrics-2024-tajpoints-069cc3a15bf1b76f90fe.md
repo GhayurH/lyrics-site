@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:069cc3a15bf1b76f90fe
-# source_url: https://tajpoints.com/2024/07/haye-ghazi-jundiyan-mar-gaiyan-shahid.html
-# raw_sha256: 30ef219f9c242b634124c023758e548f00a541d39086cab9d474f0ffa7e929cf
 ---
 
 1

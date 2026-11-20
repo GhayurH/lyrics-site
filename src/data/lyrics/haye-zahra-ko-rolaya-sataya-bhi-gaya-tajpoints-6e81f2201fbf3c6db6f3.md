@@ -8,9 +8,6 @@ poet: "Joun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6e81f2201fbf3c6db6f3
-# source_url: https://tajpoints.com/2023/12/haye-zahra-ko-rolaya-sataya-bhi-gaya.html
-# raw_sha256: eb037b4f130829690b2201dc3e442cbfc5aac08472d188dc1291dc2f68b290b2
 ---
 
 1

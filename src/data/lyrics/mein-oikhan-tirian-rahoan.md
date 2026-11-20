@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7f0c4137b523a3c51dea
-# source_url: https://www.ziyaraat.net/api/noha/2537
-# raw_sha256: d24ac695227deb2b4f5671ffac68b3762f403a46d358d530ccbe7cbb27ae11b8
 ---
 
 Na veer qadi jawan, bhenaa karan duawan

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1af07ecff1eddc3b15d3
-# source_url: https://tajpoints.com/2017/03/kalma-go-khair-ul-nisa-ka-ghar-jalane.html
-# raw_sha256: 9778c56a6ef58cbc948b4bb37ce8caa407227620e26303ba0c7eb20235832457
 ---
 
 1

@@ -87,9 +87,6 @@ romanLyrics: |-
   Maiṅ isi haal meiṅ mar jaauṅgi
   Baazaar hai darbaar hai
   Phir maiṅ huṅ aur zindaaṅ ka andhera
-# source_id: nohayonline:7a5bf09225b05f9ceff6
-# source_url: https://www.nohayonline.com/details_content.php?id=3656
-# raw_sha256: f7eb867041cb5ce8a667f02cffa5a8d6f43e42859f81c4959d09ab2ba795786a
 ---
 عمو جان اے عمو جان
 

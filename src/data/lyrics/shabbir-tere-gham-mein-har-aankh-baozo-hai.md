@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:4d87b1c47ec07ebfb9ca
-# source_url: https://www.ziyaraat.net/api/noha/1841
-# raw_sha256: 49548a2fbfffb2a64c3c9ba52542b1363e1e87ab11fbd0417283bf1fe83e5d7b
 ---
 
 Shabbir teray gham main har aankh bawazu hay

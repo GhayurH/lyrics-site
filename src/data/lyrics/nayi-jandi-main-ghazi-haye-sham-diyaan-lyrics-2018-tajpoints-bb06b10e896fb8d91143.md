@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bb06b10e896fb8d91143
-# source_url: https://tajpoints.com/2017/09/nayi-jandi-main-ghazi-haye-sham-diyaan.html
-# raw_sha256: dbeb6d93058ee3f258acac437e12591369a70f1c9c739e98534510288a5119dd
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Nayyar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5531a7d4f5cfac175bda
-# source_url: https://tajpoints.com/2018/01/mariyam-hain-hajrah-hain-na-sarah-hain.html
-# raw_sha256: 92262765cd3b694f472b11429ced0e04eae3331e091f9384939dffe25c7ecf1d
 ---
 
 1

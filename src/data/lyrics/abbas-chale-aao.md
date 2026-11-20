@@ -47,9 +47,6 @@ romanLyrics: |-
   Darbar-e-Sitam hoga sar nange behan hogi
   Aankhoṅ se lahu roeṅge Sajjad basad yaas
   Abbas Abbas chale aao Abbas
-# source_id: nohayonline:2eb43d115ab75ecc837d
-# source_url: https://www.nohayonline.com/details_content.php?id=1093
-# raw_sha256: 13f229fb88768d549c6ee4ae0ca2f1d8d69e15a85c1a18dfa06f3a5bd439ea51
 ---
 
 عباس چلے آؤ عباس

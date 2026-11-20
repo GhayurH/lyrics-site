@@ -46,9 +46,6 @@ romanLyrics: |-
   Raat jab ho jaae gi, bar sar-e-Karb o Bala
   Us ka jhula jal gaya paani bhi us ko na mila
   Kis tarah so jaauṅ meiṅ Asghar mera soya nahiṅ
-# source_id: ziyaraat:090dccf407fbacbbb6de
-# source_url: https://www.ziyaraat.net/api/noha/376
-# raw_sha256: 4d09cb525fbb99e60b9ef9f141d5707b68e195eeafe6725cd0aa64545ec5cfbe
 ---
 
 عابدِ بیمارؑ کی آنکھوں سے خون رکتا نہیں

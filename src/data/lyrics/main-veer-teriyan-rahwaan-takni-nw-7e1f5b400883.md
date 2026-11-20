@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:7e1f5b400883453139eb
-# source_url: https://www.nohawriteups.org/main-veer-teriyan-rahwaan-takni/
-# original_html: snapshots/nohawriteups/original_html/7e1f5b400883453139eb.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/7e1f5b400883453139eb.json
-# api_content_sha256: 0026f218bb43f4b6b1802eebb918691ea578d46c326d1634b3696ffda2514f65
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Main veer teriyan rahwaan takni rehni aan

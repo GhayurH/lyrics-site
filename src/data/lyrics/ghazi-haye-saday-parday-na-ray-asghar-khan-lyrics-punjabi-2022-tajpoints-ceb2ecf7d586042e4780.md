@@ -8,9 +8,6 @@ poet: "Nadir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ceb2ecf7d586042e4780
-# source_url: https://tajpoints.com/2023/04/ghazi-haye-saday-parday-na-ray-asghar.html
-# raw_sha256: b543c66555fc033f10f12265847b37c7eade796fafda06ce02f2781e129d3b70
 ---
 
 1

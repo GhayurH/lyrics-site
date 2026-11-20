@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fd6abb40da3fd32c1f4c
-# source_url: https://tajpoints.com/2020/02/yeh-kahani-phir-sahi-lyrics-in-urdu-and.html
-# raw_sha256: 3cd9fe59f27f74924685df1b837083a7ee2459a9cf28887beab4a02b2df22c32
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:6744d6b2b36bb89a1457
-# source_url: https://tajpoint.com/jori-maa-taun-vera-haye-putran-di-ais-umray-wichar-na/
-# raw_sha256: c7c7f3ab4047c8eba17b435db7547dc039da814a9d5285079a2ff666b54d695d
 ---
 
 Jori Maa Taun Vera Haye Putran Di Ais Umray Wichar Na Jaway.

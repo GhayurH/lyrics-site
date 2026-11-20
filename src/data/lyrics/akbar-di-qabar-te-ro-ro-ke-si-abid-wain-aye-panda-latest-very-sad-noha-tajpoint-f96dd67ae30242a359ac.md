@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:f96dd67ae30242a359ac
-# source_url: https://tajpoint.com/akbar-di-qabar-te-ro-ro-ke-si-abid-wain-aye-panda/
-# raw_sha256: cdc4b60b513f2ea87d17e4060a15dc848761e8b21a2b5f5332bc3e89cb04123d
 ---
 
 1

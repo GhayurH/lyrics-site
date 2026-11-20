@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c23e6106e74b1009de57
-# source_url: https://www.ziyaraat.net/api/noha/2584
-# raw_sha256: 5b43ddbb25e6747019a02a70d9449ca27d0fe1d9ad4c286fc8b8e85d1d108874
 ---
 
 یا حسینؑ یا حسینؑ

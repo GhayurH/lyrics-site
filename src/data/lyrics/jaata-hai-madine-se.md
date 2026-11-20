@@ -68,9 +68,6 @@ romanLyrics: |-
   Di laakh Surur us ne na jaane ki duhaai
   Bimaar kisi ko bhi magar rok na paai
   Ashkoṅ ki tarah ho gae sab log rawaana
-# source_id: nohayonline:19ceb5eedfdd44b8830c
-# source_url: https://www.nohayonline.com/details_content.php?id=3751
-# raw_sha256: e71d7298eede2c8d2eba8038bc2cc6df20377f942cf2f2aff9551c60d8dc9370
 ---
 جاتا ہے مدینے سے محمد کا گھرانہ
 صغرا کو دیے جاتا ہے زخموں کا خزانہ

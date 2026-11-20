@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5abd28dde8577465fca5
-# source_url: https://tajpoints.com/2017/11/bazar-pe-bazar-guzarte-rahe-qaidi.html
-# raw_sha256: 6b12a0977033e08d722f3f02188ca6ff1bd24f46c50692478d2195f5150539de
 ---
 
 1

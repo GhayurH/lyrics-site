@@ -7,17 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:b988232191156521a53d
-# source_url: https://www.nohawriteups.org/sajjad-de-athru-bazaarch-aakay-rang-badla-gaye/
-# original_html: snapshots/nohawriteups/original_html/b988232191156521a53d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b988232191156521a53d.json
-# api_content_sha256: 0926890bb77021229b8353f542b84ee105f75c0c18d481a689092e266ac98891
-# source_id: nohawriteups:7d18d032823e719f64ae
-# source_url: https://www.nohawriteups.org/sajjad-de-athru-bazaarch-aakay-rung-badlaa/
-# original_html: snapshots/nohawriteups/original_html/7d18d032823e719f64ae.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/7d18d032823e719f64ae.json
-# api_content_sha256: 2414aeb813cb64566a3e1b4fabff623672a5c780a05e5c11e1495de750cc7f88
-# editorial_note: Merged two complete Punjabi Roman versions into five six-line stanzas. The shorter witness groups words and lines differently and reads 'Ummat Jo Pooaaye Ali Abid Nay' in stanza 2 where the first witness reads 'Ummat Jo Pawa Ay, Ali Abad Nu'; both original HTML snapshots retained for adjudication.
 ---
 
 Sajjad De Athru Bazaar’ch Aakay Rang Badla Gaye

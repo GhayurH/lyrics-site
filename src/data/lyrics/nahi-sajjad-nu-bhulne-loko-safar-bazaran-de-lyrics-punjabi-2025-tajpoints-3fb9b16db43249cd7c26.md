@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3fb9b16db43249cd7c26
-# source_url: https://tajpoints.com/2025/07/nahi-sajjad-nu-bhulne-loko-safar-bazaran.html
-# raw_sha256: c7552538fc51ad03013465fbafab758504d2ea1cc3f00dc1302cd2bf7502f645
 ---
 
 1

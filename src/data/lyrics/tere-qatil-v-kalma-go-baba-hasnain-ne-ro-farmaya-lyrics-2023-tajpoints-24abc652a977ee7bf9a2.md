@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:24abc652a977ee7bf9a2
-# source_url: https://tajpoints.com/2023/04/tere-qatil-v-kalma-go-baba-hasnain-ne.html
-# raw_sha256: 32264bea269324269f31011df9b20ff88212a040b92d1f7bf9e7fe3637ea9e2f
 ---
 
 1

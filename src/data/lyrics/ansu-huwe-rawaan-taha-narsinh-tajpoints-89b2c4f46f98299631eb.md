@@ -8,9 +8,6 @@ poet: "Saaib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:89b2c4f46f98299631eb
-# source_url: https://tajpoints.com/2023/11/ansu-huwe-rawaan-taha-narsinh-lyrics-in.html
-# raw_sha256: df558602a0e23eda81324e99b2b33f9edfcb7535e09b192f2bbe0542be44f3db
 ---
 
 1

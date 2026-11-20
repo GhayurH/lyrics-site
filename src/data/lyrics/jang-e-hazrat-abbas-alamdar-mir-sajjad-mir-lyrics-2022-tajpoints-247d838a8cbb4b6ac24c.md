@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:247d838a8cbb4b6ac24c
-# source_url: https://tajpoints.com/2023/02/jang-e-hazrat-abbas-alamdar-mir-sajjad.html
-# raw_sha256: 8600287b765959d3d2bdf3463b51779719339194097e5975fb05bf89e7d3d877
 ---
 
 1

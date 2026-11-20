@@ -99,10 +99,6 @@ romanLyrics: |-
   Sharminda na karwaana
   Seh roz ke pyaase ko
 
-# source_id: nohayonline:ba9aea8873ed9eec384f
-# source_url: https://www.nohayonline.com/details_content.php?id=3037
-# raw_sha256: 065408b7638d52b5b57e315c302d9871a487644da77834c4681a0adb01bdc769
-# editorial_note: "A six-line Roman stanza absent from the existing edition was recovered from three joined verse lines; the Imamat wording requires verification and Urdu completion."
 ---
 عباس میر لشکر
 عباس کہتے ہیں

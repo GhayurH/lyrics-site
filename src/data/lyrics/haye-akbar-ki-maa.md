@@ -51,9 +51,6 @@ romanLyrics: |-
   Bain Waiz ye khaime meiṅ gunja
   Dekh le apne Yusuf ka laasha
   Khaak uraati hui pitti sar
-# source_id: nohayonline:5b6f314bb05a67af7dcd
-# source_url: https://www.nohayonline.com/details_content.php?id=3210
-# raw_sha256: e287b10b1d01fc1d91aac61a37b993bb563087b0ff7bd9bf1eee1ed74f91aaa8
 ---
 
 ڈال دو کوئی زخموں پہ چادر

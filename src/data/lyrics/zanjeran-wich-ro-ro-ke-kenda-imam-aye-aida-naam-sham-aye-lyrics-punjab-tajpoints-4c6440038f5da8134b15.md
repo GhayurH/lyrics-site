@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4c6440038f5da8134b15
-# source_url: https://tajpoints.com/2025/08/zanjeran-wich-ro-ro-ke-kenda-imam-aye.html
-# raw_sha256: 1169c327e3446d571cfb1372da22914675b3321ac1f6b928fd00ecf686a94d0c
 ---
 
 Zanjeran Wich Ro Ro Ke Kenda Imam Aye Aida Naam Sham Aye.

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9be084b511847f70df46
-# source_url: https://tajpoints.com/2025/02/madh-e-abbas-ali-kazmi-lyrics-urdu.html
-# raw_sha256: 51eb97584c0d3cb4217bb0a5ff8c20d4366dc6c4e4bc275f3c245d39c74b06f3
 ---
 
 Madh-e-Abbas Ka Quran Sunanay Walay.

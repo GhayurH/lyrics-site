@@ -64,17 +64,6 @@ romanLyrics: |-
   Kaisi behnoṅ pe judaai ye qayaamat laayi
   Saari behnoṅ ki sadaaoṅ meiṅ tha bhai bhai
   Sun ke Zishan o Raza roya Madina saara
-# source_id: nohayonline:5bd2907354cffb8c24a3
-# source_url: https://www.nohayonline.com/details_content.php?id=2939
-# raw_sha256: 3d7294f8716a27ff52a1b9333aa23f6c0e99b45627c89b41306d47f8542b9abd
-# source_id: nohawriteups:666caa24562b55be6fe6
-# source_url: https://www.nohawriteups.org/na-tera-bhai-raha-na-mera-bhai-raha/
-# original_html: snapshots/nohawriteups/original_html/666caa24562b55be6fe6.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/666caa24562b55be6fe6.json
-# api_content_sha256: 6f337deafeeb976063f063bf71e7c9d3eae1011afa155c24dc3db0b27ff44abc
-# source_id: tajpoints:ef2aed1f184157432ce3
-# source_url: https://tajpoints.com/2020/10/na-tera-bhai-raha-na-hi-mera-bhai-raha.html
-# raw_sha256: 3be86d218cf38bbd37a4cd25e97019dfa225dfc426899e36b33049d5636710e1
 ---
 جب سنا صغرا نے لوٹ آیا وطن میں قافلہ
 ہائے جب پہنچیں تو منظر دیکھ کر رو کے کہا

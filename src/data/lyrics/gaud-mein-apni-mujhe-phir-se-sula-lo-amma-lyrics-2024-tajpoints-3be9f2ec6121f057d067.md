@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3be9f2ec6121f057d067
-# source_url: https://tajpoints.com/2024/12/gaud-mein-apni-mujhe-phir-se-sula-lo.html
-# raw_sha256: 066448203aa2ec9d648920e82b449cb953c35f899144893ec3b85dacf79fdaeb
 ---
 
 1

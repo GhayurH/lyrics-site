@@ -56,9 +56,6 @@ romanLyrics: |-
   Rehaan aur Raza ki jo naukri hai amma
   Zakhmoṅ ka tere marham nauhagari hai amma
   Maiṅ inko chaahta huṅ amma gawaah rehna
-# source_id: nohayonline:a0b847f31d79ffa14b5f
-# source_url: https://www.nohayonline.com/details_content.php?id=2390
-# raw_sha256: cc1af8a4af3b02235f8d8035db6d4f9f247736404384d7a2b5fad642bebb21f7
 ---
 ہائے حسین بے وطن
 خنجر تلے ہوں پیاسا بھائی رہا نہ بیٹا

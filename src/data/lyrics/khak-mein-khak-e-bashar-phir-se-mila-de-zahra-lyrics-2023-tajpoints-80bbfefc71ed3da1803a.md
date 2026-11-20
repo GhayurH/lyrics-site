@@ -8,12 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ab538b8029156a27b326
-# source_url: https://tajpoints.com/2021/02/ikhtiyar-e-bibi-fatima-lyrics-in-urdu.html
-# raw_sha256: 83d2f77213c425c08d83f9acf40fd7be4bdf82866b3982e25dfb392056b2a9a9
-# source_id: tajpoints:80bbfefc71ed3da1803a
-# source_url: https://tajpoints.com/2023/01/khak-mein-khak-e-bashar-phir-se-mila-de.html
-# raw_sha256: 81927563d44d90a02cea7620fab63484d01ca9994173117d4b5a976ffbc45bc5
 ---
 
 Khak Mein Khak e Bashar Phir Se Mila De Zahra.

@@ -122,9 +122,6 @@ romanLyrics: |-
   Wo rauza e abbas
   Hum sab ke hai ye aas
   Bas maula bulalein
-# source_id: nohayonline:dea060cbd9182352c56f
-# source_url: https://www.nohayonline.com/details_content.php?id=1664
-# raw_sha256: 58ce1948a6c960fe5901380b738d6a91a6ca0aa846193c20f9dec553b923eff6
 ---
 
 ۱

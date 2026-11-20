@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5b0bf9d569ae43841a0d
-# source_url: https://tajpoints.com/2018/06/dil-e-mehdi-mein-jis-gham-ki-har-ik.html
-# raw_sha256: af2b1db865a4554ea45bc6810c1941784c3c61f8ff3baead31690991793077b3
 ---
 
 Dil-e-Mehdi Mein Jis Gham Ki Har Ik Lamha Harrarat Hai.

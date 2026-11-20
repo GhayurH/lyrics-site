@@ -8,9 +8,6 @@ reciter: "Syed Raza Abbas Shah"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:25521167578f78464ed5
-# source_url: https://www.ziyaraat.net/api/noha/1578
-# raw_sha256: 17badd171272fea3555e432d0de44b0868603116acd6e5509016f7491e4eea84
 ---
 
 Meray baba meray baba

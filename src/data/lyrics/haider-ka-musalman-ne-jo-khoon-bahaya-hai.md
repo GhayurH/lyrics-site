@@ -8,9 +8,6 @@ poet: "Navaid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:0dde8ffecba3667c2073
-# source_url: https://www.ziyaraat.net/api/noha/295
-# raw_sha256: a9df609621a370214529cfeced8250ddd0c329845bc1c8bab5d6244a2b59b66e
 ---
 
 Haider Ka Musalmaan Ne Jo Khon Bahaya Hai

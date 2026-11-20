@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d09390968fc13fdb3235
-# source_url: https://tajpoints.com/2025/08/karbala-ki-maon-ki-ghurbat-saleem-mastan.html
-# raw_sha256: 83330a8123fa0d5180c1abe423210a9011d990986dfdfe4de6096619b0c5bc39
 ---
 
 Karbala Ki Maon Ki Ghurbat Saleem Mastan Wa Bradran.

@@ -54,9 +54,6 @@ romanLyrics: |-
   Saf-e-matam se abid ka ye akbar bayn aata hai
   Ise bas baap ke purse may hi ab chain aata hai
   Sada matam ki na roko sakina jaag jayegi
-# source_id: nohayonline:4bbe300cfd0471d48109
-# source_url: https://www.nohayonline.com/details_content.php?id=479
-# raw_sha256: 3a5bad5c166e7c4cb8a4aef2cfc3543a894e10cd529652ec79f7e455eded17a9
 ---
 ہائے سجاد مُحاری ہائے بیمار مُحاری
 مچائوشور نہ لوگو سکینہ جاگ جائے گی

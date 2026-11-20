@@ -8,9 +8,6 @@ poet: "Kaleem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b648160bd2bb8f56dc86
-# source_url: https://tajpoints.com/2021/06/mola-bolaiyga-mera-mola-sajjad-ashraf.html
-# raw_sha256: e453c9730ced08ef94b8db23e7b736d64b8fcc64d7c7101756c243a148e059cd
 ---
 
 1

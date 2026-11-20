@@ -58,15 +58,6 @@ romanLyrics: |-
   12
   Zainab ki fughaaṅ maqtal-e-Shabbir meiṅ, Yawar
   Har ek ko tarpa gayi, Abbas na laute
-# source_id: nohayonline:2763177dc3dafbe1eed6
-# source_url: https://www.nohayonline.com/details_content.php?id=460
-# raw_sha256: 52d52b98917c8e238e6d6dd4caf5392f3d2ba4ddf95cfe7fe6fd138ed6cb483d
-# source_id: nohayonline:5f1d07508b8e2a33d92f
-# source_url: https://www.nohayonline.com/details_content.php?id=1851
-# raw_sha256: 4b83a6693a688d29a4fd333e232099edb13bb7721dee85e3f4a987aa78fa8047
-# source_id: ziyaraat:c37a9711597ce07b6c34
-# source_url: https://www.ziyaraat.net/api/noha/2353
-# raw_sha256: 54de4d06cc9519b2e2e391e993ac6167a5b90ff312b60fd4a0673d1d1d97f021
 ---
 
 عباس نہ لوٹے شہ آ گئے مشق آگئی

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:742f596d333dcb4991b7
-# source_url: https://www.ziyaraat.net/api/noha/1107
-# raw_sha256: 553c7af27de695e822b2397aa29b96ce60388f68e8fa32e4f65f28711af4eb7d
 ---
 
 Haider Safdar, Nafs-e-Payamber

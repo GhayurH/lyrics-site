@@ -8,9 +8,6 @@ poet: "Sohail"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:00b306a5de57b423c754
-# source_url: https://tajpoints.com/2021/06/meesam-faraz-e-dar-say-eylan-kar-gaya.html
-# raw_sha256: 62d60497803c9e46d2ee44df14dac15d243083a405b0f0603f05a139e41ba637
 ---
 
 Meesam Faraz-E-Dar Say Eylan Kar Gaya Haider Rizvi.

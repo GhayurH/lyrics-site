@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1745e64b9f8e17bb59fb
-# source_url: https://www.nohawriteups.org/pamaal-sumay-aspa/
-# original_html: snapshots/nohawriteups/original_html/1745e64b9f8e17bb59fb.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1745e64b9f8e17bb59fb.json
-# api_content_sha256: c89a2191515d8b69e6d1578e112b9be9ea1d2c1f5beb406c69a307054853aaaf
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 pamaal sumay aspa ay chaak badan qasim

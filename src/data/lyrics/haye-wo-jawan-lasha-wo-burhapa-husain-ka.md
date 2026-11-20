@@ -7,15 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1d12cbfa0242b146ff8c
-# source_url: https://www.ziyaraat.net/api/noha/225
-# raw_sha256: f7eddc0dc28300cd8e51b186e30427b0393ca50b8ccda04a01363cc2d9d5e707
-# source_id: ziyaraat:32f41a68f356ab2434df
-# source_url: https://www.ziyaraat.net/api/noha/726
-# raw_sha256: b9ad814b8857579d93cb95ff5587cf30247f80436324acd6935f5485b876afff
-# source_id: ziyaraat:353407e76d9a6be4fcac
-# source_url: https://www.ziyaraat.net/api/noha/265
-# raw_sha256: 7c7bee542dc5a9ecf2b44331c19cb1a6b24a7ceea8ad896b7092296d5f649552
 ---
 
 Haey Ali Akbar Ali Akbar

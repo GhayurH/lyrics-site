@@ -72,9 +72,6 @@ romanLyrics: |-
   Lafz Haidar ke hai Zehra ki dua hai nauha
   Tin sau terah rasuloṅ ki sada hai nauha
   Keh do Aamir ke na ye fan hai na fankaari hai
-# source_id: nohayonline:269245fe94cd835d7fe6
-# source_url: https://www.nohayonline.com/details_content.php?id=3598
-# raw_sha256: 6545b49db70f29693f9ba8578d46b4ec4918aa7afd1071af828fb1f92d8a81c8
 ---
 
 آج ہر ملک میں سرور کی عزاداری ہے

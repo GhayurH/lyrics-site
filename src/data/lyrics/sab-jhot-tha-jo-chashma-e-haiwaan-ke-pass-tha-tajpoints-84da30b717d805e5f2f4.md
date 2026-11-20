@@ -8,9 +8,6 @@ poet: "Adam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84da30b717d805e5f2f4
-# source_url: https://tajpoints.com/2017/02/sab-jhot-tha-jo-chashma-e-haiwaan-ke.html
-# raw_sha256: 606d7748b6edf0b2730514db093caab128f6a2f3fc518b3e2933182791bfc194
 ---
 
 1

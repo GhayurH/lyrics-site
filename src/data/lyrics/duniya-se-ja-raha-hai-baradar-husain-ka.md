@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:313552ed77ae9b7548a6
-# source_url: https://www.ziyaraat.net/api/noha/1701
-# raw_sha256: 2fef4d91b3cf938400d2a26af619aabc01bb5f65dc9692461d0feff896b5277b
 ---
 
 Dunya se ja raha hay baradar Hussain ka

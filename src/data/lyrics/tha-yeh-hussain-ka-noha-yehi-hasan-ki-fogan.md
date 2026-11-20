@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2b049fff863a508e8acb
-# source_url: https://tajpoints.com/2026/10/tha-yeh-hussain-ka-noha-yehi-hasan-ki.html
-# raw_sha256: 0fd1a48eed390c70053cc7e2904d2c667607603d59abaabc0760eed69406d55f
-# source_title_original: Tha Yeh Hussain Ka Noha Yehi Hasan Ki Fogan Lyrics In Urdu 2026
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Khudara Neend Se Jago Utho Utho Amma

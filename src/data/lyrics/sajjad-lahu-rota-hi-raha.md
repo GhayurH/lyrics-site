@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:290d7a0d713ee9fa9984
-# source_url: https://www.ziyaraat.net/api/noha/2623
-# raw_sha256: 665a91966e2d3def213f88a9654e75107e48eae7318dd5091781e181f2620ec2
 ---
 
 ہاۓ سجادؑ ہاۓ ہاۓ سجاد

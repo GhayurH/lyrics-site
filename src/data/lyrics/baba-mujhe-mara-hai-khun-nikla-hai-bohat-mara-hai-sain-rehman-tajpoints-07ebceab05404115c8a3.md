@@ -8,9 +8,6 @@ poet: "Salamat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:07ebceab05404115c8a3
-# source_url: https://tajpoints.com/2023/09/baba-mujhe-mara-hai-khun-nikla-hai.html
-# raw_sha256: 483a22d2dc4e9155b0634512bd356292f1c29181efe78171e04298c6a036c116
 ---
 
 1

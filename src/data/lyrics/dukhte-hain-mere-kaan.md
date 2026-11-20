@@ -39,10 +39,6 @@ romanLyrics: |-
   6
   Sajjad se Sakina ro ke ye Fazal boli
   Chehra mere Asghar ka dikha do mujhe bhaiya
-# source_id: nohawriteups:3327dcfb0d905cc4b342
-# source_url: https://www.nohawriteups.org/dukhty-hein-mery-kaan-kazmi-brothers-nohay-2022/
-# raw_sha256: 1de747fb4ce1672355e45990e4daed80f5db3c842a160628c6463d61acb74310
-# editorial_note: The extracted Roman field was an English translation, not transliteration. This new Roman track was manually made from the Urdu only; final spelling/Urdu proofreading remains.
 ---
 
 سجاد زنداں کے اندھیروں سے مجھ کو تو بچا لے

@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a202d554ae93ccfe176c
-# source_url: https://tajpoints.com/2019/04/zindan-che-musa-kazim-da-aj-loko-khatam.html
-# raw_sha256: c0a3d6b58c1150f51adb00720b34c5d16872d1988651cfd3cafc7edc465f2fa8
 ---
 
 1

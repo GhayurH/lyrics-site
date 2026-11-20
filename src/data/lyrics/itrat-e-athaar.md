@@ -61,9 +61,6 @@ romanLyrics: |-
   Berida haiṅ Bibiyaaṅ Shahid sar-e-baazaar-e-Shaam
   Pesh hoṅ ge sab haram ab bar sar-e-darbaar-e-aam
   Aur udhar maqtal meiṅ hai laachaar ashaab-e-Husain
-# source_id: nohayonline:349dc4f12f0f6d86dec1
-# source_url: https://www.nohayonline.com/details_content.php?id=170
-# raw_sha256: fddcf4b120e428ccfcd7b1b7daf2458c4ab038503d0c7d7d0f18f3bc977c97bc
 ---
 عترتِ اطہار کے غم خوار اصحابِ حسین
 لشکر عباس کے جرار اصحابِ حسین

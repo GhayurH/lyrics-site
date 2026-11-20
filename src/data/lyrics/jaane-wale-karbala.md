@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Sarwar o Rehaan har majlis meiṅ karte haiṅ dua
   Haq wahiṅ nauhoṅ ka ab hoga adaa le chal mujhe
-# source_id: nohayonline:4635431703dd8465ba02
-# source_url: https://www.nohayonline.com/details_content.php?id=2044
-# raw_sha256: 1972f70097f63d5f5d3adb1e01e92349a8d473d27d0f087dbb4a147df8acccc7
 ---
 جانے والے کربلا کے کربلا لے چل مجھے
 روضۂ شبیر پر دوں گا دعا لے چل مجھے

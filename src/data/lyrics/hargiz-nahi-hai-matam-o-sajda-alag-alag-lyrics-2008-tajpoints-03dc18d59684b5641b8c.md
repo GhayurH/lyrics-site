@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:03dc18d59684b5641b8c
-# source_url: https://tajpoints.com/2018/01/hargiz-nahi-hai-matam-o-sajda-alag-alag.html
-# raw_sha256: 2d722eaa4282f555a2116edb3047be1bef21fe5fd5d403f98892676739418592
 ---
 
 Hargiz Nahi Hai Matam o Sajda Alag Alag.

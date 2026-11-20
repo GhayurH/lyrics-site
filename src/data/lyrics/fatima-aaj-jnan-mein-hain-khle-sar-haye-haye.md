@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:f4df17edf39ad15f9e09
-# source_url: https://www.ziyaraat.net/api/noha/2738
-# raw_sha256: e44588020b3d46a33e706464c2a659cf3defaded14df6e539fe96708c8b829d2
 ---
 
 FATIMA AAJ JINA ME HAIN KHULE SAR HAYE HAYE

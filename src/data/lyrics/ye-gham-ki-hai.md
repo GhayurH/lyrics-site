@@ -63,9 +63,6 @@ romanLyrics: |-
   Bober zuhur us ka hoga ek din
   Baaqi meiṅ hogi aza-e-Sarwar
   Banega tera mazaar Zehra
-# source_id: nohayonline:0d7cd7af54252ecc0530
-# source_url: https://www.nohayonline.com/details_content.php?id=1948
-# raw_sha256: 72a99aad80ae2689f462d6ca1a953ad16d9bbd82c7610f4d41cc0faa9703d26c
 ---
 یہ غم کی ہے داستاں ایسی
 کہ جس میں ہے دل فگار زہرا

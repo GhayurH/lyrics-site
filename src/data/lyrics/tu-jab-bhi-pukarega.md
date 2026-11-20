@@ -63,9 +63,6 @@ romanLyrics: |-
   Asif ye sukhan sun ke chale qalb pe khanjar
   Taa der Husain Ibn-e-Ali roye lipat kar
   Aamir ye kaha maaṅ ne na reh paauṅ gi beta
-# source_id: nohayonline:a1fd631eb1649071d222
-# source_url: https://www.nohayonline.com/details_content.php?id=1789
-# raw_sha256: 40e9cadb3c8e25e81e3e0a4ae685f440b666b139cd6efc6462f7ff24d13a98a6
 ---
 تو جب بھی پکارے گا چلی آؤں گی بیٹا
 تربت میں بھی آرام کہاں پاؤں گی بیٹا

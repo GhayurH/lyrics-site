@@ -63,9 +63,6 @@ romanLyrics: |-
   Ali Akbar ka sadqa hai qalam Rehaan kehta hai
   Wahaaṅ maiṅ mohtaram thehra jahaaṅ majlis hai nauha hai
   Ab is izzat ke badle Rab se maanguṅ aur kya Akbar
-# source_id: nohayonline:71a3ff113b7cf8aaa300
-# source_url: https://www.nohayonline.com/details_content.php?id=1890
-# raw_sha256: 47ce56a148996454c2452d317675cac39465f0da5f767a6bda0731fa42b3c848
 ---
 
 خیمے سے اس طرح سے لیلیٰ کا چاند نکلا

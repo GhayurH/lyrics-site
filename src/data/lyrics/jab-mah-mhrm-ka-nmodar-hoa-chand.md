@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:fade89d47275277aeb87
-# source_url: https://www.ziyaraat.net/api/noha/1572
-# raw_sha256: 629b1409769f63538dd48476d7942a13746bcb7a62abd776bdf9a5c585de12c0
 ---
 
 Jab mah-e-Muharram ka namoodar hua chand

@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc9893f25db2264b8fd9
-# source_url: https://tajpoints.com/2020/08/ashk-e-gham-hai-teri-atta-zainab-lyrics.html
-# raw_sha256: cdf7bd503ede49960a1f52f23b8f7734a7cac05c52903f24fe7b43cb5294ff72
 ---
 
 Dono Aalam Ki Pardah Dari Ho Teri Nalain Pe Fida Zainab.

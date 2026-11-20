@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8f25df39fa649d8f7f26
-# source_url: https://tajpoints.com/2021/02/mastam-yasir-raza-yasir-lyrics-in-urdu.html
-# raw_sha256: c6dd2da276fcd3bcc2d41d4f6215c40be8879f38aba3b6d58c55bef266b4b0bf
 ---
 
 1

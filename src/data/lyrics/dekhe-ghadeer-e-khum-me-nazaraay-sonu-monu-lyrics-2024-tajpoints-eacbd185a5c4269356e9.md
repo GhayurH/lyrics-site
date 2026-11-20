@@ -8,9 +8,6 @@ poet: "Kashif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eacbd185a5c4269356e9
-# source_url: https://tajpoints.com/2024/06/dekhe-ghadeer-e-khum-me-nazaraay.html
-# raw_sha256: f073fcf18f28d18d4a8b3e7c6b8072dc14a79e5483a2141baaabb4e8acafce75
 ---
 
 1

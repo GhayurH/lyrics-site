@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d896fcf03431f6db2d39
-# source_url: https://tajpoints.com/2019/11/mehrooma-maa-da-bachra-aye-zainab-ne.html
-# raw_sha256: 002cdd58fdb9c3d3d5d95074ff5ca5f79241e651589bb8bc467f05079a4aa918
-# source_title_original: Mehrooma Maa Da Bachra Aye Zainab Ne Wain 2019
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Mehrooma Maa Da Bachra Aye Zainab Ne Wain Aye Paya

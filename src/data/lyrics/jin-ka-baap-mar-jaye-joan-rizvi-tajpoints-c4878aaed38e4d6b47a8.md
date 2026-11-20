@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c4878aaed38e4d6b47a8
-# source_url: https://tajpoints.com/2025/03/jin-ka-baap-mar-jaye-joan-rizvi-lyrics.html
-# raw_sha256: 845e8f0085f9e460c99cacb72c929bc2c5dab88b03d8ef387bfe1382ba6f81f9
 ---
 
 1

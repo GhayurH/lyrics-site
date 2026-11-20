@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:389f383f0c4eccd25b3e
-# source_url: https://tajpoints.com/2019/10/rida-v-na-rayi-zainab-de-sir-te-na-riye.html
-# raw_sha256: bfc549b0e97232be9e449aa797bec6fb77f232599c110a9de98fb496ff6ab8a4
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ff5205a8eecbce32ebc3
-# source_url: https://tajpoints.com/2023/10/rehman-gawah-main-thak-payi-aan-lyrics.html
-# raw_sha256: 0e753e4fdbefc6952570fe27c8f31845e188286901be8ef29c794eff56b07c68
 ---
 
 Rehman Gawah Main Thak Payi Aan Lyrics

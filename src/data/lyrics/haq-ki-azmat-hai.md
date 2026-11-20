@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Karbala jaaye Wasi dil meiṅ tamanna hai magar
   Aabru apni tamanna ki hai taqdir ke haath
-# source_id: nohayonline:5636cc427f3e06fd5e44
-# source_url: https://www.nohayonline.com/details_content.php?id=3446
-# raw_sha256: 3376489eba0f698b36e3acbc5e243b8ed89e93cd8fdae26d1ae0f326c3c1cf9b
 ---
 حق کی عظمت ہے ازل سے غم شبیر کے ہاتھ
 جاؤ اور کر دو قلم کاتب تقدیر کے ہاتھ

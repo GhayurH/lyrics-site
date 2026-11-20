@@ -44,9 +44,6 @@ romanLyrics: |-
   Sine pe sinaaṅ khaa ke tarapta tha naujawaaṅ
   Jumbish na hui tujh ko zara arz-e-Karbala
   Ae arz-e-Karbala
-# source_id: nohayonline:813aa0e5fadc0a5a4608
-# source_url: https://www.nohayonline.com/details_content.php?id=656
-# raw_sha256: 7083fa66a300189d509aaa82935377ec079af1f4a44f7ad0ac729e0d5aa4a220
 ---
 رہتی تھی یہ زینب کی صدا ارضِ کربلا
 اے ارضِ کربلا

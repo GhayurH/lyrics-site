@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:7e694d36b45c6887f342
-# source_url: https://www.ziyaraat.net/api/noha/2912
-# raw_sha256: f9979b81e831c6b0a945799160c11540d8eb35c821494fa90e9d6f68f13911bf
 ---
 
 عباسؑ کی بہن کا اب کون آسرا ھے

@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cbf9d47b39f73c0f8b33
-# source_url: https://tajpoints.com/2023/05/chaliyaan-ghazi-verna-veerna-bhaina-baj.html
-# raw_sha256: e7675a86c5ac6b1fbcbd92eca092ee558f07733826e59af70408c241cf584dcd
 ---
 
 Chaliyaan Ghazi Verna Veerna Bhaina Baj Rida Asghar Khan.

@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0978cd801793e4d94723
-# source_url: https://tajpoints.com/2017/02/kankar-bhi-hain-gohar-ke-baraber-tere.html
-# raw_sha256: cc42f67075194d7a8512f513a5008fd562856e5860ade6ec7770b74cc2b0e92d
 ---
 
 Kankar Bhi Hain Gohar Ke Baraber Tere Dar Par.

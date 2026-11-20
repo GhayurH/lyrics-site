@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4256a056fc8bb3de9cff
-# source_url: https://tajpoints.com/2023/03/itna-tu-soch-leta-aye-qatil-e-quraan.html
-# raw_sha256: d368c379956cc43d9342eaf7c3aaa86854616e99ff8e5048a5fcea5b0d2afee7
 ---
 
 Itna Tu Soch Leta Aye Qatil e Quraan Asghar Khan.

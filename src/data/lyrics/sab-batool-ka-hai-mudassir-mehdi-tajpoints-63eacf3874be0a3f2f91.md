@@ -8,9 +8,6 @@ poet: "Jary"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:63eacf3874be0a3f2f91
-# source_url: https://tajpoints.com/2023/01/sab-batool-ka-hai-mudassir-mehdi-lyrics.html
-# raw_sha256: 6273b95d128b6abe1bfa5a0a6746b0044dacddb27553605a3e6934bc3a4805b8
 ---
 
 1

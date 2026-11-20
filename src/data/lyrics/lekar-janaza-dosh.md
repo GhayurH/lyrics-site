@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Nauha ye Nur ka hai Sikandar ki hai zabaan
   Parhte hue har ek ye kar ke aza chale
-# source_id: nohayonline:a0c376c729f8743b32a9
-# source_url: https://www.nohayonline.com/details_content.php?id=581
-# raw_sha256: 1943c01e8695b68c2336a3c2eec0e23cffd1dd9d88cd77770609c191ed0e2cdf
 ---
 لے کر جنازہ دوش پہ شیرِ خدا چلے
 دارِ فنا کو چھوڑ کے جب مصطفیٰ چلے

@@ -76,9 +76,6 @@ romanLyrics: |-
   Irfan suna do yehi nauha
   Ghar zehra ka veeran hua hai
   Ae logoṅ mohamed ka...
-# source_id: nohayonline:fda5efabc1d024048865
-# source_url: https://www.nohayonline.com/details_content.php?id=2226
-# raw_sha256: 4eba431db4ce05ff7b932b0fae15b8f2633407e741436fc8390726e56d089475
 ---
 
 ۱

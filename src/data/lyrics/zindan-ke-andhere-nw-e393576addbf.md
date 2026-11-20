@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e393576addbfabaf5958
-# source_url: https://www.nohawriteups.org/zindan-ke-andhere/
-# original_html: snapshots/nohawriteups/original_html/e393576addbfabaf5958.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e393576addbfabaf5958.json
-# api_content_sha256: 9c3fcd711d81ad0bbea30119bb511bb252385b82f48a00b779d06d9d5ba5c2d7
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 zindan ke andhere may laasha hai sakina ka

@@ -44,9 +44,6 @@ romanLyrics: |-
   Yuṅ lagta hai sajjad sada deti hai zahra
   Mehdi tujhe zindaṅ may bulaati hai sakina
   Zahra ki tarha aansu...
-# source_id: nohayonline:087b2aa86d8e5ba4eb56
-# source_url: https://www.nohayonline.com/details_content.php?id=2402
-# raw_sha256: bf7f7e14fbecd778b6d5a85af0af6c41d638376a618298ad8a46a51db5f3cd5a
 ---
 
 ۱

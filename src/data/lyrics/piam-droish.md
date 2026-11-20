@@ -8,9 +8,6 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:5d73eca511b2a81fa970
-# source_url: https://www.ziyaraat.net/api/noha/2341
-# raw_sha256: 0ef5a9b03de57af77487f4ee9e37ed93f3a827410b3dee2f71793912e6c03c05
 ---
 
 شاہد بلتستانی۔۔۔۔۔۔نوحہ۔۔۔۔بی‌بی زینبؑ۔۔۔۔۔۲۰۱۴ـ۲۰۱۵

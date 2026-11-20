@@ -8,9 +8,6 @@ poet: "Nisa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:48aef3b4077e751b87c9
-# source_url: https://tajpoints.com/2019/09/al-hafeez-o-al-amaan-lyrics-in-urdu-and.html
-# raw_sha256: 299fa54e4137e3feb7a3460d27b2e5d9d1259230ac0027b1a1d3d866339e8d5a
 ---
 
 1

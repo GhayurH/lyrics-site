@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f8e46ec216a2b1f68f26
-# source_url: https://tajpoints.com/2023/07/ali-ka-tarana-sarwar-raza-karbalai.html
-# raw_sha256: ac1f5281c6f61a46d9683c50db1a8dec83854274f4f4a2878f7bd6847de4e719
 ---
 
 1

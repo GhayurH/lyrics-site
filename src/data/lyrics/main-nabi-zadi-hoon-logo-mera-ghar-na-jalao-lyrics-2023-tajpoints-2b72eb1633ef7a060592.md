@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2b72eb1633ef7a060592
-# source_url: https://tajpoints.com/2023/04/main-nabi-zadi-hoon-logo-mera-ghar-na.html
-# raw_sha256: a3d5e59a35930de9fe09403ed33d0e086d81580dc237c0942956251e6298293b
 ---
 
 1

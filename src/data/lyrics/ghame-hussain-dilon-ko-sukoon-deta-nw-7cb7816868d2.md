@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:7cb7816868d2f8c6e363
-# source_url: https://www.nohawriteups.org/ghame-hussain-dilon-ko-sukoon-deta/
-# original_html: snapshots/nohawriteups/original_html/7cb7816868d2f8c6e363.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/7cb7816868d2f8c6e363.json
-# api_content_sha256: 8a9efaffe697957b9b3d28b278ad7f2f4c4585172505a55cf840ea8239f81833
 ---
 
 HAR EK MATAMI MAJLIS ME ROKE KEHTA HAI

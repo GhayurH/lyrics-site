@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8b0ee168eef3cad2fc31
-# source_url: https://tajpoints.com/2024/12/khon-barsa-magar-afsos-na-barsa-pani.html
-# raw_sha256: ab938ef717f418dc4c1e0b3522dcbc70acc090becb601268bfcdf5a1aa2a3a96
 ---
 
 1

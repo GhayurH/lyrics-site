@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aba14c78b3913b61c0a6
-# source_url: https://tajpoints.com/2025/03/bichar-jayengy-baba-zainab-wajhi-hasan.html
-# raw_sha256: 1346682adabdbd53bc3413b93e6a0d9c42156855820853c8feedd7aa59e4705e
 ---
 
 Bichar Jayengy Baba Zainab Wajhi Hasan Zaidi.

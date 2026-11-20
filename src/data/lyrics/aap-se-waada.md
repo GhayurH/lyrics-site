@@ -97,9 +97,6 @@ romanLyrics: |-
   Dam meiṅ Aamir ke Shanawar ke hai jis dam tak dam
   Aap ke naam ka karte hi raheṅge charcha
   Ae Husain aap se ye waada raha
-# source_id: nohayonline:91a205c388eb0a1fc5a2
-# source_url: https://www.nohayonline.com/details_content.php?id=2437
-# raw_sha256: af97180ea6e1d44505c5a28198e77df8bce8f9d579b60940a140e67a9a6f0d16
 ---
 زہرا کے دل کے چین شاہ مشرقین سے
 آؤ یہ وعدہ ہم کریں مل کر حسین سے

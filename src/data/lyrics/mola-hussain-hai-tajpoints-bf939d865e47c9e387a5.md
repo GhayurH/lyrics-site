@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bf939d865e47c9e387a5
-# source_url: https://tajpoints.com/2020/03/mola-hussain-hai-lyrics-in-urdu-and.html
-# raw_sha256: 95f1436f63705e0179544c854537f609c6f4fe348f3975701d9080a00fce8022
 ---
 
 Tauheed Ki Baqa Maula Hussain Hai.

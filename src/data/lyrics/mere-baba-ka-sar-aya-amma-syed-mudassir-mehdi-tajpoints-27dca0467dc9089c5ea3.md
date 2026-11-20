@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:27dca0467dc9089c5ea3
-# source_url: https://tajpoints.com/2021/10/mere-baba-ka-sar-aya-amma-syed-mudassir.html
-# raw_sha256: ff834f5fef3a746596deea122f649c51649dd3d9aaa57e309d19f82742196e04
 ---
 
 Mere Baba Ka Sar Aya Amma Syed Mudassir Mehdi.

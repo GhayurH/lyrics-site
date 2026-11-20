@@ -46,9 +46,6 @@ romanLyrics: |-
   Bain jab karti thi maadar rote the ahle haram
   Sirf is faryad par qaime may kohraam tha
   Tu kahaṅ hai mere asghar...
-# source_id: nohayonline:4609d07e13e1beb68e75
-# source_url: https://www.nohayonline.com/details_content.php?id=1636
-# raw_sha256: 137b0fa857804392deee058b1f91c79ee853cd17feaa801e3955d484370ae6f1
 ---
 
 ۱

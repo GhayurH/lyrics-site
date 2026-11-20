@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:53d0687887f87bb7e167
-# source_url: https://tajpoints.com/2023/01/naqi-aaye-zamane-mein-lyrics-in-urdu.html
-# raw_sha256: 62ccece424296f3fd1cbe8de6b0e4beeda9a369d032f3fb42e0524557f37ce1f
 ---
 
 Naqi Aaye Zamane Mein Bahar Be Khizaan Aayi.

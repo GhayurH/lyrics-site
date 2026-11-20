@@ -8,9 +8,6 @@ poet: "Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c37954a88250c65b35aa
-# source_url: https://tajpoints.com/2024/01/hussain-ka-baba-zakir-bilawal-ali.html
-# raw_sha256: f74af2efebc28c74c0412087bb5af37fcf0d5eef951d810ef6508cbec5d081ed
 ---
 
 1

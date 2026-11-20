@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:75897db1e4f8c83134f3
-# source_url: https://www.nohawriteups.org/deen-e-nabi-da-waaris-beywaarisa-de-vaangu-pardes-turpeya-ey/
-# original_html: snapshots/nohawriteups/original_html/75897db1e4f8c83134f3.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/75897db1e4f8c83134f3.json
-# api_content_sha256: 71bf6bea6077aee120cb61546937dc0080148b1858c4f6b88010e1a13e60075b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Deen-e-Nabi Da Waaris Beywaarisa Dey Vaangu Pardes Turpeya Ey

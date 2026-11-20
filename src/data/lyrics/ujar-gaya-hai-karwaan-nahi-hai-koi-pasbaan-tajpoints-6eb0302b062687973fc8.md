@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6eb0302b062687973fc8
-# source_url: https://tajpoints.com/2024/12/ujar-gaya-hai-karwaan-nahi-hai-koi.html
-# raw_sha256: 5a18062767d84e1ae7fe6c676abeec89c6a07f55f41e3ed23172cbe13292bfcf
 ---
 
 Ujar Gaya Hai Karwaan Nahi Hai Koi Pasbaan.

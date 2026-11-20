@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:45900fb6d13d267af996
-# source_url: https://tajpoints.com/2023/04/mera-maula-hasan-woh-peshwa-hai-qambar.html
-# raw_sha256: 1fa3e50e4ce594c13683a27f3790fc7b495355fec52b20a917dc042e6f1e4078
 ---
 
 1

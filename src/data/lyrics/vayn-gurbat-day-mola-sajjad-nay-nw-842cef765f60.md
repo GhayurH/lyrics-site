@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:842cef765f60316dba00
-# source_url: https://www.nohawriteups.org/vayn-gurbat-day-mola-sajjad-nay-lyrics/
-# original_html: snapshots/nohawriteups/original_html/842cef765f60316dba00.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/842cef765f60316dba00.json
-# api_content_sha256: c1257de2f252e742fd49bca48e4ad7084790c3bbd91a974b40190e1405580ea8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Vayn Ghurbat Day Mola Sajjad Nay Paye

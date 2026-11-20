@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:71b27881c868b5c8cf86
-# source_url: https://tajpoints.com/2017/11/ho-ke-qaidna-sham-payi-jandiyaan.html
-# raw_sha256: 4badceb947feba6b8eba914d5fd777b0a48c14455d3284bf75245589d24924d6
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:23077239e3e9350368ac
-# source_url: https://www.ziyaraat.net/api/noha/2899
-# raw_sha256: 5846c6ec32c0cfc24b3d2f3bffaa2c16a5493e126512fe45a90dc45bedf586e8
 ---
 
 اُمّت نے محمدؐ کو مرقد میں رُلایا ہے

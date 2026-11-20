@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:23774d6c32f1ac1a54af
-# source_url: https://www.ziyaraat.net/api/noha/1212
-# raw_sha256: 3b3a7d7b54e76e6d0ec6589d2ad4868e9f837fb2ae02f057bb3d4f0e7ec25391
 ---
 
 بولے شبیرؑ میری بالی سکینہؑ کی آس

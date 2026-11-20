@@ -68,9 +68,6 @@ romanLyrics: |-
   Ik musafir qaid hay beemar hay
   Karwane sabr kaa salaar hay
   Ik musafir qaid hay beemar hay
-# source_id: ziyaraat:7e84afc8889ee47a4e3e
-# source_url: https://www.ziyaraat.net/api/noha/1536
-# raw_sha256: c1f4457b3ca85eb18204742be31bc73453c281ae4a9df46c6196c5c5351c4a0e
 ---
 
 اک مسافر قید ہے بیمار ہے

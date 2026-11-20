@@ -49,9 +49,6 @@ romanLyrics: |-
   Karte haiṅ sawalat farishte jo lahad meiṅ
   Ab der na Lillah kareṅ aap madad meiṅ
   Rehan ki turbat meiṅ chale jaaiye Baba
-# source_id: nohayonline:df900bf71390f6d96d99
-# source_url: https://www.nohayonline.com/details_content.php?id=2625
-# raw_sha256: 578bc5540aecae6102ce7a6ca55b64d8fb00a44925191a53ce53925a2c25d2c0
 ---
 اے شام غریباں
 آئے ہیں اگر آپ تو رک جائیے بابا

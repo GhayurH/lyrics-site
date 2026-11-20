@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:09c32d44db15249ca43b
-# source_url: https://tajpoint.com/maiyyat-hasan-te-aa-ke-rondi-aye-zahra-sani/
-# raw_sha256: adef78bf7ee2424ba84a11343058ceb1649f5ea5233ca7ca43747e6901f8ec6d
 ---
 
 1

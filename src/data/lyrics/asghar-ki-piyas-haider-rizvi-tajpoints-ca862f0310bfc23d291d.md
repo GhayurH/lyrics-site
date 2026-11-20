@@ -8,9 +8,6 @@ poet: "Kazim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ca862f0310bfc23d291d
-# source_url: https://tajpoints.com/2025/07/asghar-ki-piyas-haider-rizvi-lyrics-urdu.html
-# raw_sha256: 3fa66f0760fee387b2bf3da22ce20c4ceebb4a410486bb4aee58f493969dc2c1
 ---
 
 1

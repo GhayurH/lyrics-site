@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a664e05a29c40de65a7
-# source_url: https://tajpoints.com/2023/07/faryaad-e-bali-sakina-qamar-baltistani.html
-# raw_sha256: 4df3e5dfbf96157a241273bf5fb4f9ac011dea84268ae7b93d50dc7888af4b6e
 ---
 
 1

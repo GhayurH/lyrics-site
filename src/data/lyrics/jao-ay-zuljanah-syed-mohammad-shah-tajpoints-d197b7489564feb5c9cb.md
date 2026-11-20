@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d197b7489564feb5c9cb
-# source_url: https://tajpoints.com/2023/07/jao-ay-zuljanah-syed-mohammad-shah.html
-# raw_sha256: 807790427c0f36e3a79c0d0861a6264237727713a20f2566246118cb45698f4d
 ---
 
 Jao Ay Zuljanah Syed Mohammad Shah.

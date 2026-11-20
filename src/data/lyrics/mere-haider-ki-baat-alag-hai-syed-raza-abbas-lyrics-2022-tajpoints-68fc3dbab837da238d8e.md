@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:68fc3dbab837da238d8e
-# source_url: https://tajpoints.com/2022/02/mere-haider-ki-baat-alag-hai-syed-raza.html
-# raw_sha256: cbf7467561acfbef074ea362cab97a40cbc01b5f987de0c0c31d0e9435cad277
 ---
 
 1

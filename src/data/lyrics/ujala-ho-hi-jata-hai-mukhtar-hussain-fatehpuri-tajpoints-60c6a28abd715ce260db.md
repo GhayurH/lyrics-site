@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:60c6a28abd715ce260db
-# source_url: https://tajpoints.com/2024/12/ujala-ho-hi-jata-hai-mukhtar-hussain.html
-# raw_sha256: 41ecdf462dc000394317b9da6a090cfe5734459b54aafbc6a8422b34eac39377
 ---
 
 1

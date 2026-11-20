@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ecc5aff630786f451610
-# source_url: https://tajpoints.com/2018/07/aye-zamin-e-aho.html
-# raw_sha256: e3fbc4ad29bad47070df058a9a457383bfb18722ef4b85b47eb0089b7755d394
 ---
 
 Aye Zamin e Aho Mir Hasan Mir

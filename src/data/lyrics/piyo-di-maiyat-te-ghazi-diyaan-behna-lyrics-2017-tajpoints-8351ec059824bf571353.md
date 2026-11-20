@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8351ec059824bf571353
-# source_url: https://tajpoints.com/2017/02/piyo-di-maiyat-te-ghazias-diyaan-behna.html
-# raw_sha256: 95509930d846fe31f7be1602f530717dcdf05e242f35e14bfe41cbca0458cb30
 ---
 
 Piyo Di Maiyat Te Ghazi Diyaan Behna Rab Jane Kinj Jeoindiyaan Raiyaan.

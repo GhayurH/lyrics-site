@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2d8ea04c31d902c07319
-# source_url: https://tajpoints.com/2023/07/karbala-bula-lo-ay-mere-hussain-syed.html
-# raw_sha256: c4ba2a513875dae73f32246528e3fad5c56539da4a2c1a433a0e3d78e6401d36
 ---
 
 1

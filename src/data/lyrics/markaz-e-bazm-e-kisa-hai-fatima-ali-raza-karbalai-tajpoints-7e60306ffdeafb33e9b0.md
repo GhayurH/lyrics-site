@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7e60306ffdeafb33e9b0
-# source_url: https://tajpoints.com/2024/12/markaz-e-bazm-e-kisa-hai-fatima-ali-raza.html
-# raw_sha256: fcd937caf84f09eec73a6132445bb26460f66d2975e0bf290008b5046f26d6bd
 ---
 
 Markaz e Bazm e Kisa hai Fatima Ali Raza Karbalai.

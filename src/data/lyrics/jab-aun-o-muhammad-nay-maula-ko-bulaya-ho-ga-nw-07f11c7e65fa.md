@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:07f11c7e65fa4ef215ff
-# source_url: https://www.nohawriteups.org/jab-aun-o-muhammad-nay-maula-ko-bulaya-ho-ga/
-# original_html: snapshots/nohawriteups/original_html/07f11c7e65fa4ef215ff.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/07f11c7e65fa4ef215ff.json
-# api_content_sha256: 79345e438fc9d0195e48b070907002ffa130e4809954a88771b2f236be30d732
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jab Aun O Muhammad Nay Maula Ko Bulaya Ho Ga

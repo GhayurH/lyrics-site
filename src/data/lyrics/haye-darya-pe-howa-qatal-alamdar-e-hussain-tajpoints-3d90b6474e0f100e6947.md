@@ -8,9 +8,6 @@ poet: "Zahoor"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3d90b6474e0f100e6947
-# source_url: https://tajpoints.com/2020/08/haye-darya-pe-howa-qatal-alamdar-e.html
-# raw_sha256: 7f21157192fe756b1927b5e4f4a46069470fed79ac72a066aff77e84c35715bb
 ---
 
 Haye Darya Pe Howa Qatal Alamdar-e-Hussain.

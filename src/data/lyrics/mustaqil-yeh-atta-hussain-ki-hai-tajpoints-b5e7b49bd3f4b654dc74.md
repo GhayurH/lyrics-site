@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b5e7b49bd3f4b654dc74
-# source_url: https://tajpoints.com/2017/02/mustaqil-yeh-atta-hussainas-ki-hai.html
-# raw_sha256: 363874d42e745baaf8cc4ae3cdc7c761dc4d4f30ca6065a2543f7d05c2c7b6b1
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Salman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:02657626869e1e788d35
-# source_url: https://tajpoints.com/2023/02/tasbih-e-imam-musa-kazim-syed-raza.html
-# raw_sha256: 63f0b164df54b9a87ef6348c9ba4c82f461af1532001f92ebb496c172ce5fda7
 ---
 
 1

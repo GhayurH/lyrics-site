@@ -48,9 +48,6 @@ romanLyrics: |-
   9
   Chodah Sadiyaaṅ Hoiyaaṅ Fatima Di Nohaaṅ Al-Ajal Parh Diyaan
   Saqlain Aje V Takdiyaaṅ Ne Oh Mehdi Putar Di Rahwaaṅ
-# source_id: ziyaraat:401f3d4ba8f1098968ef
-# source_url: https://www.ziyaraat.net/api/noha/2823
-# raw_sha256: 4850cbe29a5935b3362722e8d4822474e2883a03d6372f30523dbb045ad95bc7
 ---
 
 ماواں کربلا دیاں ماواں

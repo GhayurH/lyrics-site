@@ -9,7 +9,6 @@ poet: "Hasnain Akbar"
 tags: []
 aliases: []
 published: false
-# editorial_note: "One stanza restored from the TajPoints Roman witness; Urdu manually transcribed for comparison at final review."
 romanLyrics: |-
   Shaam ki aurtoṅ ek waada karo
   Roz qabre sakina pe aaogi tum
@@ -72,12 +71,6 @@ romanLyrics: |-
   Mujhse ek baar bas itna kehdo
   Apna waada nibha'ogi tum
 reciter: "Meer Hasan Meer"
-# source_id: nohayonline:505ca62ac108c10fcdef
-# source_url: https://www.nohayonline.com/details_content.php?id=213
-# raw_sha256: d37558fdda5479db1e90276aa71aa8fd8ba8f4782c4cbd966b4d1cd78a0929fa
-# source_id: ziyaraat:2d18c38d6e9aa699f471
-# source_url: https://www.ziyaraat.net/api/noha/1525
-# raw_sha256: d6d3ca44e6afd0f65fbf77fda39c209a469ac45c16bab8a30c019d481ea21e02
 ---
 
 شام کی عورتوں ایک وعدہ کرو

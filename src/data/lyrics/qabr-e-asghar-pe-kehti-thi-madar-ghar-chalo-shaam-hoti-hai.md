@@ -68,9 +68,6 @@ romanLyrics: |-
   Kat gaya sar Imam e Zaman ka
   Ho gaya khatima Panjtan ka
   Koi waris nahi haey sar par
-# source_id: ziyaraat:18ac5cd45a3fcb419889
-# source_url: https://www.ziyaraat.net/api/noha/2074
-# raw_sha256: 30ba224bbf2ac5a2b93ca130bf51dcd8e282f6cd0657f4ad49271a79796004e9
 ---
 
 قبر اصغر پہ کہتی تهیں مادر

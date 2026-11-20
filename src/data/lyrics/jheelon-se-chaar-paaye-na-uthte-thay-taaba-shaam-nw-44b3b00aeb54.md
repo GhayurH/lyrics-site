@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:44b3b00aeb541eb1a689
-# source_url: https://www.nohawriteups.org/jheelon-se-chaar-paaye-na-uthte-thay-taaba-shaam/
-# original_html: snapshots/nohawriteups/original_html/44b3b00aeb541eb1a689.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/44b3b00aeb541eb1a689.json
-# api_content_sha256: d4932a0126e78be734e41d91748a43dab914da14e1dcf867b8b61331809abfe9
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jheelon se chaar paaye na uthte thay taaba shaam

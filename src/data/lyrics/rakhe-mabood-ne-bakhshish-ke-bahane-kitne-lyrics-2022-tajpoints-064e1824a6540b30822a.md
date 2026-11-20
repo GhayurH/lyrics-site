@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:064e1824a6540b30822a
-# source_url: https://tajpoints.com/2022/10/rakhe-mabood-ne-bakhshish-ke-bahane.html
-# raw_sha256: 06ca33a637bbdd325d508e441a278a3fce1c6a9da1836aad6f59d38a6f2865f8
 ---
 
 Rakhe Mabood Ne Bakhshish Ke Bahane Kitne Sajjad Ashraf Taqvi.

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:192a7f9596c09b5c04e9
-# source_url: https://tajpoints.com/2023/05/sakina-par-yateemi-ke-hoye-mani-ayan.html
-# raw_sha256: f69b4f42ded2500a364081cbc3d4cb6c98001120076892d6c6ffdcd631d95b4c
 ---
 
 1

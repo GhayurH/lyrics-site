@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b26f503f14a75f3ac715
-# source_url: https://tajpoints.com/2025/07/akhri-sajda-nadeem-sarwar-lyrics-urdu.html
-# raw_sha256: eb15e5353a494aca411831780d10df3f2d2c9f9b6d73eff8669652c8298c1e15
 ---
 
 Hilney Laga Arsh-e-Barin Roney Lagi Karbala.

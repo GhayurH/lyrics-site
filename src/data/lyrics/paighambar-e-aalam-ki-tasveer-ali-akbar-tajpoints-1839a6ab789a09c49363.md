@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1839a6ab789a09c49363
-# source_url: https://tajpoints.com/2017/12/paighambar-e-aalam-ki-tasveer-ali-akbar.html
-# raw_sha256: 1f109ccaae7523ce7e86536a7fb9f4feb0f6d95d9be4b2db8c904436c2e71545
 ---
 
 1

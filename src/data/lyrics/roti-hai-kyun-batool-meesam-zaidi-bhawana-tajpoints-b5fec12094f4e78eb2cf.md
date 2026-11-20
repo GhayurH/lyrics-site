@@ -8,9 +8,6 @@ poet: "Zaki"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b5fec12094f4e78eb2cf
-# source_url: https://tajpoints.com/2023/12/roti-hai-kyun-batool-meesam-zaidi.html
-# raw_sha256: ffac134e7a51cf4df0eb5342ddc5c252554b8c641637bc2f93a7a2040b8557f2
 ---
 
 1

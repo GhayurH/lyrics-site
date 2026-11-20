@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bffb4cc2ad307b4cba9b
-# source_url: https://tajpoints.com/2019/10/sakina-se-kiya-wadah-nibhane-aao-gaye.html
-# raw_sha256: 670edb02cd5a9a5cc9f9e8a1eb74e0b72f58433c1d38a6b601e0f182ecb44e57
 ---
 
 1

@@ -62,9 +62,6 @@ romanLyrics: |-
   Aur ali betoṅ se ro ro kar yehi kehte rahe
   Waqt kam hai betiyoṅ ke paas le jao mujhe
   Dekh kar betoṅ ka chehra...
-# source_id: nohayonline:fd190e281dd7dcd8a896
-# source_url: https://www.nohayonline.com/details_content.php?id=2665
-# raw_sha256: 92b0c1662c4b3d0718c169b77d1b909edd59814b86fc1fe8d13e3edc2cb4ccdc
 ---
 
 ۱

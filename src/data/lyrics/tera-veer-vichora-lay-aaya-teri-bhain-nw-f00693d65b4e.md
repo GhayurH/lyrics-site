@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f00693d65b4e08d57a93
-# source_url: https://www.nohawriteups.org/tera-veer-vichora-lay-aaya-teri-bhain/
-# original_html: snapshots/nohawriteups/original_html/f00693d65b4e08d57a93.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f00693d65b4e08d57a93.json
-# api_content_sha256: 6b1e816343cf121a3dd67907b01ee80e7f2423aa8b086f30d1a3a9cf07dc1f08
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Tera veer vichora lay aaya teri bhain nu tor kay raahwaa’n tay..

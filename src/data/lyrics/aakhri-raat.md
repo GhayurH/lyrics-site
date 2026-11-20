@@ -60,9 +60,6 @@ romanLyrics: |-
   Armaan Sakina ke yehi bain the haye
   Maiṅ kehti rahi baba magar aap na aaye
   Turbat meiṅ banane ko kahaṅ kehti huṅ baba
-# source_id: nohayonline:703072af991a953f9c50
-# source_url: https://www.nohayonline.com/details_content.php?id=2404
-# raw_sha256: 45d4766c8a0d8080d8d79641dc024ea828543aa0bd74065e4c76fee55e2fabdb
 ---
 آخری رات سکینہ کی
 ہائے ہائے ہائے

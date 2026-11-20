@@ -35,9 +35,6 @@ romanLyrics: |-
   Mila hukm e rehai hai magar may ghar na jauṅ gi
   Juda reh kar may sab se sham ka zinda basauṅ gi
   Musibat ye bhi ik nanhi si jaaṅ par parne wali hai
-# source_id: ziyaraat:ff6d3b7e9a174129ba40
-# source_url: https://www.ziyaraat.net/api/noha/2863
-# raw_sha256: f323794a12e9ddd13d8dc159f2c3728ef184207517b8caecbc2bc83c50e6dbdc
 ---
 
 اندھیری قید ہے اب سانس میری تھمنے والی ہے

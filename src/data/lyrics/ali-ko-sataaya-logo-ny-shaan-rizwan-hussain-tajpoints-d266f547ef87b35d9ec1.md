@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d266f547ef87b35d9ec1
-# source_url: https://tajpoints.com/2024/04/ali-ko-sataaya-logo-ny-shaan-rizwan.html
-# raw_sha256: 641deb84634106b086f1a4d690aaf428b30bba2e49852df18be08ab58caac254
 ---
 
 1

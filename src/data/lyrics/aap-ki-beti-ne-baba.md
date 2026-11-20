@@ -49,11 +49,6 @@ romanLyrics: |-
   Dukh samar hai is ka
   Jis ko Khair-un-Nisa kaha Rab ne
   Jo Muhammad ka thi tukra ... us ko darbaar mein jhutlaaya hai
-# source_id: nohawriteups:209a59d268d25a23fa83
-# source_url: https://www.nohawriteups.org/aap-ki-beti-nay-baba-madinay/
-# raw_sha256: 19be640aea63e7579db3f7a2e57bc4967dbac8c27b63de721118cc1be90db78d
-# source_title_original: Aap Ki Beti Nay Baba Madinay
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 آپ کی بیٹی نے بابا مدینے والوں کا

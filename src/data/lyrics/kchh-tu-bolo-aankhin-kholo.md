@@ -91,12 +91,6 @@ romanLyrics: 'Aa asghar aaja aa asghar aaja
   Irfan aur mazhar dunya ko aur asghar ko paighaam ye do
 
   Qaid-khane may bhi tumko asghar behan bulati hai'
-# source_id: nohayonline:256a62c418a745284ccb
-# source_url: https://www.nohayonline.com/details_content.php?id=442
-# raw_sha256: 8a3b4e67f2e370916da7c54a650dffe4288c75c6b0f234dcbb41bb4c484432ef
-# source_id: ziyaraat:f9ee76c2a9a255fac5b9
-# source_url: https://www.ziyaraat.net/api/noha/1208
-# raw_sha256: fed14e7674cc1661a60806fa9ea1659f2b519f84437a68fa8ef07cd7fcce8830
 ---
 
 آ اصغر آ جا آ اصغر آ جا

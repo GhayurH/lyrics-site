@@ -8,9 +8,6 @@ poet: "Adil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:60e48e0330776e872d0a
-# source_url: https://tajpoints.com/2017/02/eyho-gham-muka-giya-aye-sajjadas-di.html
-# raw_sha256: 77994ddd13c23fe6a122d9a6928bc56af871eb6fed525a53743e207172505c03
 ---
 
 Eyho Gham Muka Gaya Aye Sajjad Di Jawani Ansar Party.

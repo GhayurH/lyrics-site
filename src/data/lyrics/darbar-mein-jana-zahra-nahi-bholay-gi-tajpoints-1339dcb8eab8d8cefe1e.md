@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1339dcb8eab8d8cefe1e
-# source_url: https://tajpoints.com/2020/01/darbar-mein-jana-zahra-nahi-bholay-gi.html
-# raw_sha256: 9b8363eba1dd99b6060770c069e6bff641943163e18775eb09276b559613d05a
 ---
 
 Darbar Mein Jana Zahra Nahi Bholay Gi.

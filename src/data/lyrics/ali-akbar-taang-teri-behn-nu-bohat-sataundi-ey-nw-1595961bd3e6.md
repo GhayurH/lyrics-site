@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1595961bd3e6d29cdcf1
-# source_url: https://www.nohawriteups.org/ali-akbar-taang-teri-behn-nu-bohat-sataundi-ey/
-# original_html: snapshots/nohawriteups/original_html/1595961bd3e6d29cdcf1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1595961bd3e6d29cdcf1.json
-# api_content_sha256: e2be7364c6ef4f340b5828c7ed8d1040b70bb92eb488ab2cc3990df3ab6ca2ee
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ali Akbar Taang Teri Behn Nu Bohat Sataundi Ey

@@ -64,9 +64,6 @@ romanLyrics: |-
   Qatlgaah se e anis aati thi aawaz e fughaṅ
   Shi‘atima...
   Ae shiyoṅ jab...
-# source_id: nohayonline:91cf821b0b21a530c56c
-# source_url: https://www.nohayonline.com/details_content.php?id=3291
-# raw_sha256: 7b268a184be6292db91a9fa5c7a85881921908ee65e59d21f467d17c249f4cc2
 ---
 
 ۱

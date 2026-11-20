@@ -9,9 +9,6 @@ reciter: "Wajhi Hasan Zaidi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7eb1edd407d1ac0ff104
-# source_url: https://www.ziyaraat.net/api/noha/290
-# raw_sha256: a470729288a17ff510fc30b87410e036e8e93bb5a885a61f3e40eb8d338cfff0
 ---
 
 Roti hui darbaar se laut aayi Fatima

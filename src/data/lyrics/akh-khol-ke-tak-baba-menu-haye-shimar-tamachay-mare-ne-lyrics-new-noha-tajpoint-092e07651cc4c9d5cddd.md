@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:092e07651cc4c9d5cddd
-# source_url: https://tajpoint.com/akh-khol-ke-tak-baba-menu-haye-shimar-tamachay-mare/
-# raw_sha256: b0d2011be410f6348efdfd1e90f94247c19b1280419039f91a161d41816dd416
 ---
 
 1

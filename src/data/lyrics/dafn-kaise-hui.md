@@ -53,9 +53,6 @@ romanLyrics: |-
   Qabr bhi maula ne zishan chupa di uski
   Hai kahaṅ marqad e zahra ye ali jaante hai
   Dafn kaise hui zahra...
-# source_id: nohayonline:a32fc4b899d7eda06235
-# source_url: https://www.nohayonline.com/details_content.php?id=3550
-# raw_sha256: b5ad075688d1dc726254c4d13339cf31d30734137982a0294befcb1b0112efe0
 ---
 
 ۱

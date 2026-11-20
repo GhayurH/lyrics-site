@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:372b3e398f5a36621e18
-# source_url: https://tajpoints.com/2023/06/bhainr-roway-te-kahway-maanr-wadha-de.html
-# raw_sha256: ab9be7b122e3d0a38a1bad5494e0c2b0869df7c71b9cb89170233a5cb30ef672
 ---
 
 1

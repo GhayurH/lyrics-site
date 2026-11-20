@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dbf0e39e6a8db1186609
-# source_url: https://tajpoints.com/2023/09/dushmani-kya-thi-hasan-se-zulm-kyun.html
-# raw_sha256: 86b3c3765b84062f4765a032826dae2086eb74a5b558e85faab272dfb2bf12e9
 ---
 
 1

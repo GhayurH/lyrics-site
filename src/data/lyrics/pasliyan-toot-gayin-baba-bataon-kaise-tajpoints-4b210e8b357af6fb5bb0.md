@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4b210e8b357af6fb5bb0
-# source_url: https://tajpoints.com/2024/12/pasliyan-toot-gayin-baba-bataon-kaise.html
-# raw_sha256: 8345ab808215bc4f8528437789d94b5ede848a29ff893d274e8c558d372854c9
 ---
 
 1

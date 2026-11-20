@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d703bd2942fb075d400c
-# source_url: https://tajpoints.com/2020/03/rukh-e-murtaza-dekh-kar-lyrics-in-urdu.html
-# raw_sha256: afd99d980cebd10a909d09a83f9542afdaf998610c61b30ea90610c7fba44b92
 ---
 
 Rukh-e-Murtaza Dekh Kar.

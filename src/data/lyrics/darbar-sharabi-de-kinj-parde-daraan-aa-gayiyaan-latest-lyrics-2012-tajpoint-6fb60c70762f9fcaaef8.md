@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:6fb60c70762f9fcaaef8
-# source_url: https://tajpoint.com/darbar-sharabi-de-kinj-parde-daraan-aa-gayiyaan/
-# raw_sha256: e7b68ee63d2b5270c52577435c87b7cde5d2d1ff04db504f49940bb79cc24ce5
 ---
 
 1

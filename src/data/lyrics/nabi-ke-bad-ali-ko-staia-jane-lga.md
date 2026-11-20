@@ -8,12 +8,6 @@ reciter: "Asif Raza Khan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:b027e7ce2773b6875191
-# source_url: https://www.ziyaraat.net/api/noha/1135
-# raw_sha256: 233332305dd322eeec049b0992d392d00734bf84d2d6f288810c6029c2d3c429
-# source_id: ziyaraat:ec41177a04110026f849
-# source_url: https://www.ziyaraat.net/api/noha/2182
-# raw_sha256: e767e0cf8309900dbe91550fd92b7c0a41243f117e903cfd298b053c06b6f58a
 ---
 
 Nabi ke baad ALI ko sataya janey laga.

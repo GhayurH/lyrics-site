@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Hashr meiṅ Rehaan suraj jab sawa naize pe tha
   Le liya saaye meiṅ mujh ko chaadar-e-tathir ne
-# source_id: nohayonline:1022a5669dc9b87bfc5a
-# source_url: https://www.nohayonline.com/details_content.php?id=665
-# raw_sha256: c2366db65d605b3066c9e44992b1745bca1a7ee9832dbd520fc3d4990643fcaa
 ---
 شہِ کربلا سجدہ کیا سر دے دیا اُف نہ کیا
 

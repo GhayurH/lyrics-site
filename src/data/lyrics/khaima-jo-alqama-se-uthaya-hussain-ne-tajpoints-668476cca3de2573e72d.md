@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:668476cca3de2573e72d
-# source_url: https://tajpoints.com/2020/03/khaima-jo-alqama-se-uthaya-hussain-ne.html
-# raw_sha256: 96707a4e673a857fab1cc5df83ead0bded1c6e79c3f02a26dfc066a5ce1f30c4
 ---
 
 1

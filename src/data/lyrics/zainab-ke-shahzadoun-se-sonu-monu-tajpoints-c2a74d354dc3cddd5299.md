@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c2a74d354dc3cddd5299
-# source_url: https://tajpoints.com/2026/01/zainab-ke-shahzadoun-se-sonu-monu.html
-# raw_sha256: 38be415fa6d905a220baabf67befbec34a60e3d38848eeb650ba0c811d42541c
 ---
 
 1

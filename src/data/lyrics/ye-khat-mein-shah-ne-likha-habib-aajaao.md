@@ -66,14 +66,6 @@ romanLyrics: |-
   Behen ne us ko Takallum jo bhaai samjha tha
   Pukaari Shaam-e-Gharibaaṅ meiṅ saani-e-Zehra
   Hamaara lutta hai parda Habib aa jaao
-# source_id: nohayonline:8c7057bb96bd66bad9f1
-# source_url: https://www.nohayonline.com/details_content.php?id=1615
-# raw_sha256: e0f13993e6a4ee7463d06415055b9ae3fd8be144b1718545e9a8bb65f149298c
-# source_id: nohawriteups:4fed57c4a1c1327d6349
-# source_url: https://www.nohawriteups.org/ye-khat-main-shah-ne-likha-habib-aajao-lyrics/
-# original_html: snapshots/nohawriteups/original_html/4fed57c4a1c1327d6349.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/4fed57c4a1c1327d6349.json
-# api_content_sha256: f779b2015adc833568469fb1041fd8c2229f7e4ee47dbb1fbdf07ca237507cfe
 ---
 اے فقیہہِ حسین اے حبیبِ حسین
 حبیب ابنِ مظاہر

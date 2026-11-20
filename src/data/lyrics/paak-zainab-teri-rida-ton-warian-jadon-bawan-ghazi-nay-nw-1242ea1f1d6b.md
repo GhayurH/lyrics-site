@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1242ea1f1d6bf32c0b94
-# source_url: https://www.nohawriteups.org/paak-zainab-teri-rida-ton-warian-jadon-bawan-ghazi-nay/
-# original_html: snapshots/nohawriteups/original_html/1242ea1f1d6bf32c0b94.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1242ea1f1d6bf32c0b94.json
-# api_content_sha256: f4890a45ea9cc23bbe81b8e108c29fe6889ef8d00c8524ae97bd512c34c6a949
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Paak Zainab Teri Rida Ton Warian Jadon Bawan Ghazi Nay

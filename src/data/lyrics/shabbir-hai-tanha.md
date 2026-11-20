@@ -42,9 +42,6 @@ romanLyrics: |-
   Ye dard mere laal ko tarpa gaya kis ka
   Khanjar ke tale bhi ye khayaal aa gaya kis ka
   Mazlum su-e-nehr ba hasrat nigaraaṅ hai
-# source_id: nohayonline:b235afc7c1371da05b0c
-# source_url: https://www.nohayonline.com/details_content.php?id=1967
-# raw_sha256: 0ba0d3dd1dbda8c1fb6baef6517acb75cada2ae76fda7f47e34e2bdcdc5d5faa
 ---
 
 شبیر ہے تنہا میرا عباس کہاں ہے

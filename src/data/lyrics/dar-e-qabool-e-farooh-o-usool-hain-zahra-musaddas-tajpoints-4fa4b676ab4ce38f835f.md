@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4fa4b676ab4ce38f835f
-# source_url: https://tajpoints.com/2017/12/dar-e-qabool-e-farooh-o-usool-hain.html
-# raw_sha256: 78406994cb8e5b6dbcd29685bd7cac2c85b41d628f6c3da4f8e0e546b9d8b95c
 ---
 
 Dar-e-Qabool-e-Farooh-o-Usool Hain Zahra Musaddas.

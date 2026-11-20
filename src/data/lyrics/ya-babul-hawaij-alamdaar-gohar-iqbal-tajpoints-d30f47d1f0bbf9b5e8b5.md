@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d30f47d1f0bbf9b5e8b5
-# source_url: https://tajpoints.com/2021/03/ya-babul-hawaij-alamdaar-gohar-iqbal.html
-# raw_sha256: 472f09207f6dcb6403bf46295da86899859d345ab4e66a5a28838eb286867bac
 ---
 
 1

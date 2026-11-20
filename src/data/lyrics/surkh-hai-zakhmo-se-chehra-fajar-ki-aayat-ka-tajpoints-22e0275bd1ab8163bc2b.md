@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:22e0275bd1ab8163bc2b
-# source_url: https://tajpoints.com/2025/08/surkh-hai-zakhmo-se-chehra-fajar-ki.html
-# raw_sha256: a7aa0c8e14b18f17e378f03bba351ab0e7978ff09bb982905441c32dee24a04e
 ---
 
 1

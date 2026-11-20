@@ -100,12 +100,6 @@ romanLyrics: 'Inna lilaah
   Honton se kuch bhi na kahoon
 
   Aankhon bolay rizan be qaza'
-# source_id: nohayonline:f23c7906bd03da661a15
-# source_url: https://www.nohayonline.com/details_content.php?id=231
-# raw_sha256: ae4ef7635d56440a987f5bddf5df20dba2a185d931f81dd99d5f63cf73e6a57f
-# source_id: ziyaraat:cd63f356a6ae84e46c62
-# source_url: https://www.ziyaraat.net/api/noha/647
-# raw_sha256: f80409971807df815c7bc2f50ae456d04d067f413e518e0d701647c1d3eca99c
 ---
 
 انا للہ انا للہ

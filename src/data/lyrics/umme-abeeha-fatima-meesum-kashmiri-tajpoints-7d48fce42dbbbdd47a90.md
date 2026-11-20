@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7d48fce42dbbbdd47a90
-# source_url: https://tajpoints.com/2021/02/umme-abeeha-fatima-meesum-kashmiri.html
-# raw_sha256: f59eddbd78c3f895dbb7a35413523e63d817ac6e0a86d89a9199b744b9241641
 ---
 
 1

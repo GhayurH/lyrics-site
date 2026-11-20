@@ -8,11 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:bfbb2a0aead6e02d2fee
-# source_url: https://www.nohawriteups.org/dasht-may-ibne/
-# original_html: snapshots/nohawriteups/original_html/bfbb2a0aead6e02d2fee.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/bfbb2a0aead6e02d2fee.json
-# api_content_sha256: 3d833df5e72a2693d259afb1b7b249636667f098e7a053eced2d5365860ade7a
 ---
 
 haye qasim haye qasim

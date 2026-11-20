@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a04ba677bcd962ecfb88
-# source_url: https://tajpoints.com/2017/04/haye-raza-de-piyo-diyaan-sanwaan-qaid.html
-# raw_sha256: a88b7ac554218c327e7a44edcfdbdc7df50da5d96ae454f6b0fe7d32a203c2a0
 ---
 
 Haye Raza De Piyo Diyaan Sanwaan Qaid Write Up

@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0fb608847554ce27f96d
-# source_url: https://tajpoints.com/2020/11/soch-se-mawara-abu-talib-lyrics-in-urdu.html
-# raw_sha256: 91bdee8601e6344b8344a2a71eafae70a43da331f3889dfdf690c68db211839b
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:55ac10577b7865563166
-# source_url: https://tajpoint.com/sir-ghazi-da-tak-nezay-te-ik-chadar-wekh-ke-dig/
-# raw_sha256: cfecd5204773e0d3a6fae5d985786e052586e2ec8b3a8ae2b5e494b1e0fc0408
 ---
 
 1

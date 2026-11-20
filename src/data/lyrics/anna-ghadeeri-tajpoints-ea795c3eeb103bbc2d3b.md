@@ -8,9 +8,6 @@ poet: "Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ea795c3eeb103bbc2d3b
-# source_url: https://tajpoints.com/2019/08/anna-ghadeeri-lyrics-in-urdu-and-roman.html
-# raw_sha256: 93ddf35105a82aca7ab03d29cb40595e2763cfedd55de41a26fdfda69fee381c
 ---
 
 Aye Dunya Walo Yehi Hai Sab Se Bari Ameeri.

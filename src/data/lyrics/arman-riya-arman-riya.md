@@ -7,15 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aa086928d4186e41e56b
-# source_url: https://tajpoints.com/2017/02/arman-riya-arman-riya-kyun-baad.html
-# raw_sha256: fac8031fb922eb1dbddb7fd3eb0566b9f2302790f2fede188d098ca888c210e2
-# source_id: nohawriteups:9e65858434f66d49658c
-# source_url: https://www.nohawriteups.org/arman-riya-arman-riya-lyrics-mir-hasan-mir/
-# original_html: snapshots/nohawriteups/original_html/9e65858434f66d49658c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9e65858434f66d49658c.json
-# api_content_sha256: d20c52ecd60ad3bf79d7a5b872ebad174aca15fa9ab7b2dca369242f95ea8661
-# editorial_note: Consolidated two Roman witnesses of the same Punjabi poem into four couplets. Deleted promotional reciter label from opening line and mobile-sharing footer; source records retained. Takhallus Nisar kept as a normal poem word.
 ---
 
 Arman Riya Arman Riya Kyun Baad Hussain Jahan Riya.

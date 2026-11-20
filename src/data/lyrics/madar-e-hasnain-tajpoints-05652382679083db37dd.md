@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:05652382679083db37dd
-# source_url: https://tajpoints.com/2021/02/madar-e-hasnain-lyrics-in-urdu-and.html
-# raw_sha256: 5a236f3a7c6e651bf13139d1a0d1b4f2e99d274d398d435d86d9511421ad7ee0
 ---
 
 1

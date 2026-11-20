@@ -8,9 +8,6 @@ poet: "Nadir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:530874d0596b4ed52916
-# source_url: https://tajpoints.com/2023/05/sakina-haye-qaid-muk-gayi-tauq-leh-gaye.html
-# raw_sha256: 7f87a747f500a254977ce7216f86470c03e99a8a9b8721cc83f53e977985b074
 ---
 
 Sakina Haye Qaid Muk Gayi Tauq Leh Gaye Bemar De Asghar Khan.

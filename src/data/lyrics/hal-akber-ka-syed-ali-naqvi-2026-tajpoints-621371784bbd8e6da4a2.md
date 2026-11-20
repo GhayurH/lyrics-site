@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:621371784bbd8e6da4a2
-# source_url: https://tajpoints.com/2026/06/hal-akber-ka-syed-ali-naqvi-2026-lyrics.html
-# raw_sha256: faee66e96d6033055ba97411cb5edcb3664d44215c5249e9eaa0479ab5657a85
 ---
 
 1

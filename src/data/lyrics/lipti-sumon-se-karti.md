@@ -41,14 +41,6 @@ romanLyrics: |-
   7
   Behla rahe the Maula Sakina ko is tarah
   Nikli udhar khiyaam se Zainab barehna pa
-# source_id: nohayonline:b775014f13642e9b0d72
-# source_url: https://www.nohayonline.com/details_content.php?id=240
-# raw_sha256: 186a3e3aa9f5a424f0fbe4030e84a88434bc6243b68f0006ae4c04778746f54e
-# source_id: nohawriteups:46ca79eedf894b2a0db8
-# source_url: https://www.nohawriteups.org/lipti-sumon-se/
-# original_html: snapshots/nohawriteups/original_html/46ca79eedf894b2a0db8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/46ca79eedf894b2a0db8.json
-# api_content_sha256: c8331d54142f5eb442d47aa59b33fb7c6a935e8c216217094cc26250de67413b
 ---
 لپٹی سموں سے کرتی تھی معصوم یہ بکا
 اے ذوالجناح رن میں نہ بابا کو لے کے جا

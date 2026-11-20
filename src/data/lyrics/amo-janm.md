@@ -8,9 +8,6 @@ reciter: "Fatemah Ladak - Birmingham, U.K."
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:b6a6816a5e04cc665701
-# source_url: https://www.ziyaraat.net/api/noha/1205
-# raw_sha256: 757b999c38c1f31f02f1e1da90a1edafa799acc405a1bd540883d42f291576bd
 ---
 
 عمو جانم عمو جانم عمو جان

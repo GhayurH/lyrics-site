@@ -8,9 +8,6 @@ poet: "Shehwaar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6c195d1e3e8117409aba
-# source_url: https://tajpoints.com/2024/09/ramoz-e-haq-biyaan-karne-ko-lehja-naat.html
-# raw_sha256: 3d65d4986304a859e8a4b941c7a28d207f30dddce17ae71eeb0c6720406aabd7
 ---
 
 1

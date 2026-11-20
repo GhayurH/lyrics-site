@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:06ce437ab5c03b3bc06f
-# source_url: https://tajpoints.com/2025/02/hosla-ghazi-mola-dete-hain-haider-rizvi.html
-# raw_sha256: 515774d056acba4d29ea803f6601bd247dbf9c3c4ced4cb3ed6feb48522b1a68
 ---
 
 Hosla Ghazi Mola Dete Hain Haider Rizvi.

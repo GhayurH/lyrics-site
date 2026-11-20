@@ -124,9 +124,6 @@ romanLyrics: |-
   Aey meray baba
   Rassi may gala hay Baqar ka
   Toon holay holay chal baba
-# source_id: ziyaraat:26f10bf6860904e9285a
-# source_url: https://www.ziyaraat.net/api/noha/2342
-# raw_sha256: e1852ea0ced6f4dedb30370c36ec81c5edb3760c7397f2ca50485e28379a7238
 ---
 
 ۱

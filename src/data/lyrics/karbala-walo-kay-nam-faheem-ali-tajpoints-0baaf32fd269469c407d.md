@@ -8,9 +8,6 @@ poet: "Qurban"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0baaf32fd269469c407d
-# source_url: https://tajpoints.com/2022/07/karbala-walo-kay-nam-faheem-ali-lyrics.html
-# raw_sha256: b740e71d82c60930e9dd597fe1f862910f6afc68f7eab27ab27b88567a1a9c1b
 ---
 
 1

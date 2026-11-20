@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a254a51025060ba73dc3
-# source_url: https://tajpoints.com/2023/04/main-syed-zadi-haan-mera-naam-no-chao.html
-# raw_sha256: 61da699089d52183e870ca1bdf46f2a787ff5ce43d8f934efa3796ad0c1e056b
 ---
 
 1

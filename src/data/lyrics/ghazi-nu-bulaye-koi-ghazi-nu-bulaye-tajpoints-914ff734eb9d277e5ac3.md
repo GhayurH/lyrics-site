@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:914ff734eb9d277e5ac3
-# source_url: https://tajpoints.com/2017/02/ghazias-nu-bulaye-koi-ghazias-nu-bulaye.html
-# raw_sha256: b4233fcff034e3de69f38720bd8fc61a9de0e260791c24afbca2660f27e8cf1d
 ---
 
 1

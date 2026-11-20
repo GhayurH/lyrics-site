@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:701415f2e5f26a6674f9
-# source_url: https://tajpoints.com/2024/10/aye-zia-e-muneer-e-wila-e-ali-ahmad.html
-# raw_sha256: a59cf7a6b82e8a1ad2909bdf7e992af50f4c7370ff16c99b7bda4e0f8b9f9303
 ---
 
 1

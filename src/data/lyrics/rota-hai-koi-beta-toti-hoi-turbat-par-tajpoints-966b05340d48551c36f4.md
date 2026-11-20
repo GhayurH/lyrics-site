@@ -8,9 +8,6 @@ poet: "Qasim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:966b05340d48551c36f4
-# source_url: https://tajpoints.com/2019/02/rota-hai-koi-beta-toti-hoi-turbat-par.html
-# raw_sha256: 72607c752bef8aad087746ab7019936e23bda22e52bcfb0962906ce888f19e35
 ---
 
 1

@@ -43,9 +43,6 @@ romanLyrics: |-
   Koi momin is ki azmat ko bhala samjhe kahaaṅ
   Zainab o Hasnain ne jis ko ho samjha apni maaṅ
   Rutba hai afzal Salamat Buzar o Salmaan se
-# source_id: nohayonline:c3daabf27096bb380672
-# source_url: https://www.nohayonline.com/details_content.php?id=3241
-# raw_sha256: b914837f2fd774e44a78d8744ccf8ca74d9113b554d4c508c555ca4f6f88cc5e
 ---
 پوچھ لو بازار سے دربار سے زندان سے
 کس طرح ٹکرائی فضہ ظلم کے طوفان سے

@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:a7efd2dc4fffad2c34cd
-# source_url: https://tajpoint.com/kaisa-aye-mazloom-janaza-be-dafan-ghar/
-# raw_sha256: 041844fde009c670f158ef3f1b61d01bdb31503640cefa520db1a5800a9c400c
 ---
 
 1

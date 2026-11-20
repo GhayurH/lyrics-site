@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:26d640812be4a004db2b
-# source_url: https://tajpoints.com/2026/01/naib-e-dast-e-elahi-ki-atta-hai-qasim.html
-# raw_sha256: 7e60606e7b2389c93fb5ce0d2cb4f38b04e24859cff3304c9e85aa7434117160
 ---
 
 Naib e Dast e Elahi Ki Atta Hai Qasim.

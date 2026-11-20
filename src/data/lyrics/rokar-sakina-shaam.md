@@ -41,17 +41,6 @@ romanLyrics: |-
   7
   Karb o Bala se Shaam ke darbaar tak Zaki
   Sabr o raza ke saath Sakina guzar gayi
-# source_id: nohayonline:4cb7b63e9cafaf550c7f
-# source_url: https://www.nohayonline.com/details_content.php?id=1045
-# raw_sha256: 7ff4ab2ec0f58246d898c212b4c715f1b0c96b9d36d419069331aa59a1f66b05
-# source_id: ziyaraat:cb80020fc43569d5052b
-# source_url: https://www.ziyaraat.net/api/noha/2789
-# raw_sha256: 7708e537d01be0434f36118e3e9a7df2799c4d9a29e53347458ca3e2a5c27480
-# source_id: nohawriteups:c63d7653e6ecf71591aa
-# source_url: https://www.nohawriteups.org/rokar-sakina-shaam-kay-zindaan/
-# original_html: snapshots/nohawriteups/original_html/c63d7653e6ecf71591aa.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/c63d7653e6ecf71591aa.json
-# api_content_sha256: 4fc567e5e2c332e471ec261976dda6b08c4a0ace3744d332bfafa903381aef22
 ---
 روکر سکینہ شام کے زنداں میں مر گئی
 بانو کے دل پہ گویا قیامت گزر گئی

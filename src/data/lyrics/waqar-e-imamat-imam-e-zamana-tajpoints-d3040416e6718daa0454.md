@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d3040416e6718daa0454
-# source_url: https://tajpoints.com/2023/03/waqar-e-imamat-imam-e-zamana-lyrics-in.html
-# raw_sha256: 045a82ce071f41bb777caaf8b6d8c7a656b46d83487855732ffc6826d1d08e00
 ---
 
 Waqar e Imamat Imam e Zamana Lyrics

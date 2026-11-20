@@ -52,9 +52,6 @@ romanLyrics: |-
   Haye kisi bhi baap pe aaye na ab kabhi
   Maula pe jaisa waqt tha zishan aur raza
   Akbar ki laash par...
-# source_id: nohayonline:81ca991dc2079c90341d
-# source_url: https://www.nohayonline.com/details_content.php?id=3623
-# raw_sha256: 7d8be45cacaacab572159241c0579ac62e9f153f799f384c7ff4b4c8604500bf
 ---
 
 ۱

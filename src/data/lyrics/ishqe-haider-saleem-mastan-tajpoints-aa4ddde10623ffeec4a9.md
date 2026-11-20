@@ -8,9 +8,6 @@ poet: "Nawazish"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aa4ddde10623ffeec4a9
-# source_url: https://tajpoints.com/2022/02/ishqe-haider-saleem-mastan-lyrics-in.html
-# raw_sha256: c4d82a1bf52919c8741d707c983c33620ac92ab3aecbd1a0e40a4e875df4452f
 ---
 
 1

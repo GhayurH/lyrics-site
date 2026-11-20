@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f3f656ba5a573d0d1feb
-# source_url: https://tajpoints.com/2020/04/dar-e-haider-ke-samne-lyrics-in-urdu.html
-# raw_sha256: 2c7ffed5edac5c4fa90b714940d405d87d0e990671b07950dc6ba50a76603ac7
 ---
 
 1

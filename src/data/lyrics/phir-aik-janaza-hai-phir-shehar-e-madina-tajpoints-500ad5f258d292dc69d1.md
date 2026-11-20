@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:500ad5f258d292dc69d1
-# source_url: https://tajpoints.com/2023/06/phir-aik-janaza-hai-phir-shehar-e.html
-# raw_sha256: 5400f8f5c9a1f3b4f6a893957bb3d6eff05c06b302cd2db29f3ec29d06a4ecca
 ---
 
 1

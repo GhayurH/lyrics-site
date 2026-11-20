@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bf7aedeef958c6194647
-# source_url: https://tajpoints.com/2022/11/zahra-terey-gulshan-ka-ali-shanawar-ali.html
-# raw_sha256: f4bb50ec61e36d3ba6a081ac3ea4f695aee8cf7d2f623d18a51db0d9cf734790
 ---
 
 1

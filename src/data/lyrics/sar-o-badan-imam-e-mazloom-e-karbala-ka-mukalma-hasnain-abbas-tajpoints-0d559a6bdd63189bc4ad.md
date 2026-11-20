@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0d559a6bdd63189bc4ad
-# source_url: https://tajpoints.com/2021/08/sar-o-badan-imam-e-mazloom-e-karbala-ka.html
-# raw_sha256: 1e970c5203f2de7d04564eecdc0152469641a400e2540857bf07b1f94dd4323c
 ---
 
 Sar o Badan Imam e Mazloom e Karbala Ka Mukalma Hasnain Abbas.

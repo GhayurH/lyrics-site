@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a66eaa16689caaff18ee
-# source_url: https://tajpoints.com/2018/07/haye-sughra-da-shehanshah-veeran-ali.html
-# raw_sha256: a1d00d98690d0324a94b8870494e7051303c119e9ff52ccb22b528ea2795ff9e
 ---
 
 1

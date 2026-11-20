@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b2084ab5c05fc281f3a9
-# source_url: https://tajpoints.com/2017/02/azab-e-deed-mein-aankhein-laho-laho-kar.html
-# raw_sha256: db0fd14b5c80fd64d3f2d9eb332dea6ac133649924628fbb5439026e66cb5a64
 ---
 
 Azab-e-Deed Mein Aankhein Laho Laho Kar Ke.

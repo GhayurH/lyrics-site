@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aad8b6fea6fb659d4ee7
-# source_url: https://tajpoints.com/2024/05/mil-jaye-bus-raza-ki-raza-khurram.html
-# raw_sha256: 6aeb86f892dd5a4c5fdf19f14ba4647104373b7ab857f7005755fc67b3dd8ff6
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a9e99fb37eb7c08c1f8d
-# source_url: https://tajpoints.com/2020/03/suno-bula-raha-hussain-hai-lyrics-in.html
-# raw_sha256: 139c664f11bbfcf3efa53d36f38d33a4bbc306bb333c45822db183a16ad01c8e
 ---
 
 1

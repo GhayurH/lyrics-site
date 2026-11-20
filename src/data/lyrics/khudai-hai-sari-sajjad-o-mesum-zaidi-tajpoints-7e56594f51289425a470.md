@@ -8,9 +8,6 @@ poet: "Noor"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7e56594f51289425a470
-# source_url: https://tajpoints.com/2024/02/khudai-hai-sari-sajjad-o-mesum-zaidi.html
-# raw_sha256: 73d722e44d803089b67f4a54bc899cd239ebc353c589a52f69e373e03466226d
 ---
 
 Khudai Hai Sari Sajjad o Mesum Zaidi.

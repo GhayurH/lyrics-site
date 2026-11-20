@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:90069141d0adeb4d27a9
-# source_url: https://tajpoint.com/sajjad-di-rat-kadi-rukdi-nayi-jine-wekhay-dard-bazar/
-# raw_sha256: 3421f571c487692c36d298291fd0516b9c97286c564fc04db9bf0f1db3a66e51
 ---
 
 1

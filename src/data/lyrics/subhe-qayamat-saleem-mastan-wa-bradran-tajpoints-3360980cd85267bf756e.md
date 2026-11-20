@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3360980cd85267bf756e
-# source_url: https://tajpoints.com/2025/03/subhe-qayamat-saleem-mastan-wa-bradran.html
-# raw_sha256: ca4b2f900f0cf52408e32632795189ac73762d1f965855491f8ab7a8c30917e2
 ---
 
 Subhe Qayamat Saleem Mastan Wa Bradran.

@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:608bf66852e015e2ac1d
-# source_url: https://tajpoints.com/2023/07/youn-sakina-ko-tere-bad-sataya-baba.html
-# raw_sha256: 97ddfa764ade423f82566dc72f5ad1733db56f5b8a8077d995ae2766b90fd8c2
 ---
 
 1

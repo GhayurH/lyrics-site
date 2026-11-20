@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ede083045c55e2734e0b
-# source_url: https://www.nohawriteups.org/amma-fizza-abbas-ko-bulana/
-# original_html: snapshots/nohawriteups/original_html/ede083045c55e2734e0b.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ede083045c55e2734e0b.json
-# api_content_sha256: f0836de03d67803d7761129fc8a89cc1a325e1b637681d46e311456416df9978
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Aagaya Bazar E Shaam …..5

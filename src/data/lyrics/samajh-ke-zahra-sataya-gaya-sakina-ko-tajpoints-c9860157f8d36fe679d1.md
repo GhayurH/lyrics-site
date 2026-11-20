@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c9860157f8d36fe679d1
-# source_url: https://tajpoints.com/2017/02/samajh-ke-zahrasa-sataya-giya-sakinasa.html
-# raw_sha256: bd4841eeda5de008b7b15462df2d4085769d7a691f3e0c8df06222f155bb2e39
 ---
 
 1

@@ -61,9 +61,6 @@ romanLyrics: |-
   Kaha Khuda se ke ye hadya-e-Shah-e-abraar
   Qubul kar le Muhammad ka ye jigar afgaar
   Ye waada bhi Shahid Shah-e-huda ki hai
-# source_id: nohayonline:ab6157de30a5e416b872
-# source_url: https://www.nohayonline.com/details_content.php?id=765
-# raw_sha256: 03a58fe164c307edae600fde4fd4fb505f89a47884fc212fc976446a313eb4a3
 ---
 یہ بات شاہ نے مقتل میں خون سے لکھ دی ہے
 رگ گلو بھی تو خنجر کو کاٹ دیتی ہے

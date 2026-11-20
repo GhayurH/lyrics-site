@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0359fbb25ab40f751476
-# source_url: https://tajpoints.com/2023/04/chom-kar-zainab-ki-chadar-murtaza-rotay.html
-# raw_sha256: 2e8ba4aef54d43ad7c6201ac33e5779e45bb34b77c488b11165f86026f828e2f
 ---
 
 1

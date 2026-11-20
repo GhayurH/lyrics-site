@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8261d9575e400fdaaf0a
-# source_url: https://tajpoints.com/2022/12/sajjad-sajjad-nadeem-sarwar-lyrics-in.html
-# raw_sha256: 04f0a370b6f8cf8fd9ded36461f84d670406fc80bfa0c05c7d45e27609b01b28
 ---
 
 1

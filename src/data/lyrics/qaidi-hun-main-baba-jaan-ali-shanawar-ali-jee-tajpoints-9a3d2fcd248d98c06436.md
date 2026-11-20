@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9a3d2fcd248d98c06436
-# source_url: https://tajpoints.com/2022/11/qaidi-hun-main-baba-jaan-ali-shanawar.html
-# raw_sha256: 93151f33eeeca9736ccd7ad3e1c35c891e575ecf371e4f6f54301e28217f94a1
 ---
 
 1

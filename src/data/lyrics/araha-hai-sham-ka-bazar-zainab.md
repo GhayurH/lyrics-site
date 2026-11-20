@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c3f0f80eeef1bde3b4a9
-# source_url: https://tajpoints.com/2026/09/araha-hai-sham-ka-bazar-zainab-syed.html
-# raw_sha256: 64ce6de3dea2c51c6934bcd1a23ea19e6b337a0a79c20c2de596ab3d492b5b8a
-# source_title_original: Araha Hai Sham Ka Bazar Zainab Syed Ali Mehdi Lyrics In Urdu 2026
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Aa Raha Hai Sham Ka Bazar Zainab Kya Karey

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:795ed2af5908dabae107
-# source_url: https://tajpoints.com/2025/08/tere-qatal-de-welay-main-aayi-meri-maut.html
-# raw_sha256: e695ecf276827f4a3093fddf1cf5bd92c84d1a16ef11897a00d294d788c3e2b3
 ---
 
 1

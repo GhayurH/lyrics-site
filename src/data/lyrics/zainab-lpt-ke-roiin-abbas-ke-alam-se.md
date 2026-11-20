@@ -70,12 +70,6 @@ romanLyrics: 'Zainab lipat ke roie abbas ke alam se_
   Mashke sakina abbhi
 
   Hai munsalik alam se'
-# source_id: ziyaraat:101887048a291e509b87
-# source_url: https://www.ziyaraat.net/api/noha/1209
-# raw_sha256: f0ff878cfe78a147dc31501503c4d72ff5c1f30a528b266cceb4ce0edb83e8d4
-# source_id: ziyaraat:fa37fcf5b2ca64afb91d
-# source_url: https://www.ziyaraat.net/api/noha/1997
-# raw_sha256: e71274c0ea053f2c480304f10c93ff11a5f7f05a80aca8658a2c3e9ca40c62f5
 ---
 
 زینبؑ لپٹ کر روئيں عباسؑ کے نشاں سے

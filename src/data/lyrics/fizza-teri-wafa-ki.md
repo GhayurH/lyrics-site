@@ -40,9 +40,6 @@ romanLyrics: |-
   Jab kaarwaṅ baqayya aate hai baari baari
   Fizza bhi zaairoṅ ke hum raah matami hai
   Fizza teri wafa ki...
-# source_id: nohayonline:d001797984a09a8161cb
-# source_url: https://www.nohayonline.com/details_content.php?id=2146
-# raw_sha256: 6da8ec7ac864cf5c8a9cefb140c4205d936259c6031047ab7b5f65707c7a1000
 ---
 
 ۱

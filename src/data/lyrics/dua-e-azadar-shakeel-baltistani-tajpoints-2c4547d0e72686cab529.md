@@ -8,9 +8,6 @@ poet: "Sahaab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2c4547d0e72686cab529
-# source_url: https://tajpoints.com/2022/08/dua-e-azadar-shakeel-baltistani-lyrics.html
-# raw_sha256: 91767e88d16ce3dea6a4a011e1e29fe580c4867c985c3dbe9f4e41da655b5adb
 ---
 
 1

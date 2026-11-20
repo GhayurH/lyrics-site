@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a19e42d15e32838f8750
-# source_url: https://tajpoints.com/2023/04/yaad-aayi-fatima-ki-khurram-murtaza.html
-# raw_sha256: 6645d7e14dbbf61c28ab9a1a0f76eba28f2bb72338794e6427fdcc81d3fb5fbf
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:194122f74d3c3565159d
-# source_url: https://www.nohawriteups.org/veeran-hai-madina-aabad-karbala-hai/
-# original_html: snapshots/nohawriteups/original_html/194122f74d3c3565159d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/194122f74d3c3565159d.json
-# api_content_sha256: 95b30b4bcd6c9b34ab0aa3ef4b98bff5d66dc502bb35aabbe4cfba40794059eb
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Weeraan hay Madina Aabaad Karbala hay,

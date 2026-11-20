@@ -74,9 +74,6 @@ romanLyrics: |-
   Mai to ujar gayi hoo
   Kehti thi binte zehra nana mai lutke aa gayi
   Nana tere shehr mein...
-# source_id: nohayonline:e872c0c8a8ba76e4985b
-# source_url: https://www.nohayonline.com/details_content.php?id=2280
-# raw_sha256: 03debd4199ae2b70b0f312a9808bf343da35c18efd4c715e3898c703a7848a50
 ---
 
 ۱

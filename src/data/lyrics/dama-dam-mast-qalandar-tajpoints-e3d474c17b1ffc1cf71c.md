@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e3d474c17b1ffc1cf71c
-# source_url: https://tajpoints.com/2018/01/dama-dam-mast-qalandar.html
-# raw_sha256: e66c2bf3a0d82bb8de1105bb0cddd55b017ea3e2aa0c67031dcd35498c7dfd84
 ---
 
 1

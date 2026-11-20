@@ -8,9 +8,6 @@ poet: "Adam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c25eba41263fd52caba2
-# source_url: https://tajpoints.com/2017/02/takleef-mit-gayi-magar-ahsas-reh-giya.html
-# raw_sha256: 261fae4c724f87c908e67cde118abfe158eb77148deea5e280326532627ef760
 ---
 
 1

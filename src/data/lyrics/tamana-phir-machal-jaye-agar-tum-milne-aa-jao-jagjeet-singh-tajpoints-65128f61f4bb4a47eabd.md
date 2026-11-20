@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:65128f61f4bb4a47eabd
-# source_url: https://tajpoints.com/2017/02/tamana-phir-machal-jaye-agar-tum-milne.html
-# raw_sha256: 6f6e443fc5032c38b9078a717ca7bd300e988f1e444ac40f824a877cca6ffca1
 ---
 
 1

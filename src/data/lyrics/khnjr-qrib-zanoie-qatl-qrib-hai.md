@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:9800df70a9122b5d2c8e
-# source_url: https://www.ziyaraat.net/api/noha/137
-# raw_sha256: 3b82666925282823a1d46e98d118a6080d49749f7cb117473a2a0b9790743fe8
 ---
 
 Jab Kat Gaya Zahra Ka Chaman Dasht-e-Bala Mein

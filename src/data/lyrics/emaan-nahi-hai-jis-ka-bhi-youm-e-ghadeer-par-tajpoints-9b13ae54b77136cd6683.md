@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9b13ae54b77136cd6683
-# source_url: https://tajpoints.com/2023/07/emaan-nahi-hai-jis-ka-bhi-youm-e.html
-# raw_sha256: 34e8bc7dde31eb7d8a12669a0d4a4b5b33d2e1d26f8da4673d4439c7b2b34630
 ---
 
 1

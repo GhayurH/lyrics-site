@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f8b861cc923b36feed87
-# source_url: https://tajpoints.com/2017/02/mere-khuda-mujhe-itna-tu-moatbar-kar-de.html
-# raw_sha256: eb70ccd773933bbef709db82521a576e12f278c5626675bc5c40bb1dcdc39b11
 ---
 
 Mere Khuda Mujhe Itna Tu Moatbar Kar De.

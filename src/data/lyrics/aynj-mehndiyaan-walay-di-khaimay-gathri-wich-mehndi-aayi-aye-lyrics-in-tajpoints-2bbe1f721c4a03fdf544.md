@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2bbe1f721c4a03fdf544
-# source_url: https://tajpoints.com/2020/09/aynj-mehndiyaan-walay-di-khaimay-gathri.html
-# raw_sha256: b6708fe9b1694f6eed9e69c40d31d7b7c2bb8abd4efd71eb39cbcd1a196e605e
 ---
 
 1

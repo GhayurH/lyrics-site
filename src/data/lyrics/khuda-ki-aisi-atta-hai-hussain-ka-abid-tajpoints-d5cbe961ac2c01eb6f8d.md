@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d5cbe961ac2c01eb6f8d
-# source_url: https://tajpoints.com/2020/01/khuda-ki-aisi-atta-hai-hussain-ka-abid.html
-# raw_sha256: 9063d2c1874e07cc68778a620e1ffa7c9038c22f35ba15aef4ae5003e68c04c9
 ---
 
 1

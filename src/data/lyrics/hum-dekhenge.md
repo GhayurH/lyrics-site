@@ -102,9 +102,6 @@ romanLyrics: |-
   Deti hai sada ye Karbobala
   Wo roz ke jis ka waada hai
   Wo waada aap nibhaaeṅ ge
-# source_id: nohayonline:62c61aa46ad506d225ed
-# source_url: https://www.nohayonline.com/details_content.php?id=377
-# raw_sha256: fcd9434e970105603c3db861d260a82331c583df785e87abe55279ae1c0530ee
 ---
 
 اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ

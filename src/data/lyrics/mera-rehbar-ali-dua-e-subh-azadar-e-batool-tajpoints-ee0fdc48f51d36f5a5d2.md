@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ee0fdc48f51d36f5a5d2
-# source_url: https://tajpoints.com/2026/01/mera-rehbar-ali-dua-e-subh-azadar.html
-# raw_sha256: 6a27f4c7a6d91f748c602117bdb76b66771d4ff1fa64ef04926ed97fec12650e
 ---
 
 1

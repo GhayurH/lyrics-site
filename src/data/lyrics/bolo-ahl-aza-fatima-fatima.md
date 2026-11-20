@@ -50,9 +50,6 @@ romanLyrics: |-
   Mustarib hai nageen, waqt-e-imdaad hai
   Hai tera aasra fathima fathima
   Bolo ehle azaa..
-# source_id: ziyaraat:b90ef3672ecf90d087fd
-# source_url: https://www.ziyaraat.net/api/noha/2382
-# raw_sha256: 91edcb30a7c74023c99942e79aa001717b3f9cd7c0fdf1837efb5c83507be304
 ---
 
 بولو اہلِ عزا فاطمہؑ فاطمہؑ

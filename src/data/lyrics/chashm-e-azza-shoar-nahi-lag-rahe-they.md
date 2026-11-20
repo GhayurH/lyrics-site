@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c7ef9b3db87dec632a60
-# source_url: https://tajpoints.com/2023/04/chashm-e-azza-shoar-nahi-lag-rahe-they.html
-# raw_sha256: b01736f144f5d149de4ffe82be16cd3a65d9c57ffb6c0605e1872d9811e3ac66
-# source_title_original: Chashm e Azza Shoar Nahi Lag Rahe They 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Chashm e Azza Shoar Nahi Lag Rahe They Woh – Hum

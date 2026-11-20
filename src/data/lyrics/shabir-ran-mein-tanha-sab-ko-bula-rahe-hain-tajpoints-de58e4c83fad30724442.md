@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:de58e4c83fad30724442
-# source_url: https://tajpoints.com/2019/01/shabir-ran-mein-tanha-sab-ko-bula-rahe.html
-# raw_sha256: e507be8f68a356dab0163d17850dd6e795e82d59fc519ada74c722c3b1f219a2
 ---
 
 Shabir Ran Mein Tanha Sab Ko Bula Rahe Hain.

@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f8fa7a196e1b6edbfb9a
-# source_url: https://tajpoints.com/2018/07/kahan-aasan-hai-paidal-najaf-se-karbala.html
-# raw_sha256: 3a1af9dab462c2a74357d50f73468516ce3ae436f5e7f3dbfd66c794d2a44e9c
 ---
 
 Kahan Aasan Hai Paidal Najaf Se Karbala Jana.

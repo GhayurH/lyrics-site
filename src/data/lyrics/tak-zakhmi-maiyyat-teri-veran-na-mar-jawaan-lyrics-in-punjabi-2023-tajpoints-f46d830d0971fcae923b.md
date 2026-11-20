@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f46d830d0971fcae923b
-# source_url: https://tajpoints.com/2023/09/tak-zakhmi-maiyyat-teri-veran-na-mar.html
-# raw_sha256: af781679e232c9d38f0fc5f96b55490b4b2cb3b1d526f2c74a2b4fd22d72b507
 ---
 
 1

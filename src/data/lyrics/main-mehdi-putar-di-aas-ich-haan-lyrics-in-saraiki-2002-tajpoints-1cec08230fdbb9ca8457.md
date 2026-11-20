@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1cec08230fdbb9ca8457
-# source_url: https://tajpoints.com/2023/10/main-mehdi-putar-di-aas-ich-haan-lyrich.html
-# raw_sha256: 97c7e0eabe12776720efdce0ee663817bea8490d7c20178767d8ee7711cb6d2f
 ---
 
 1

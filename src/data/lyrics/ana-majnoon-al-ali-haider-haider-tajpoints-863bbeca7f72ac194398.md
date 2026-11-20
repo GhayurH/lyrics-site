@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:863bbeca7f72ac194398
-# source_url: https://tajpoints.com/2020/04/ana-majnoon-al-ali-haider-haider-lyrics.html
-# raw_sha256: 04109cb9e33bb70d43434d2039481ee83e61e582d52eeffca8ecfbc2d3297d59
 ---
 
 1

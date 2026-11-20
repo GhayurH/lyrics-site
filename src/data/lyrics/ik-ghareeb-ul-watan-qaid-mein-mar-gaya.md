@@ -47,12 +47,6 @@ romanLyrics: |-
   Bayn karte takkalum sabhi aa gaye
   Karbala se madine se aur sham se
   Chauda barsoṅ ka qaidi reha hogaya
-# source_id: nohayonline:79403ebee33681a96a04
-# source_url: https://www.nohayonline.com/details_content.php?id=304
-# raw_sha256: dba4c6140878562bceb5cbe79de450cc7db873b018f7189a0bfa8c765abac61a
-# source_id: ziyaraat:4d922e752ab080dca965
-# source_url: https://www.ziyaraat.net/api/noha/1802
-# raw_sha256: 3bbbe25b1d8f2e0bbca6ce14f8c96e7f35fc6aa5b2c16240d0a146cf843e9d36
 ---
 
 ؑہائے موسیٰءِ کاظم

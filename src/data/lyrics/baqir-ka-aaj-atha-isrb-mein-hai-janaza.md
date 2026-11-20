@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:ab93b869df8c20917a13
-# source_url: https://www.ziyaraat.net/api/noha/2903
-# raw_sha256: 3f62449362accc02fe2f5e4ede46285190e0259fb6226af2b0f22c45f7af259e
 ---
 
 باقر کا آج اٹھا یثرب میں ہے جنازہ

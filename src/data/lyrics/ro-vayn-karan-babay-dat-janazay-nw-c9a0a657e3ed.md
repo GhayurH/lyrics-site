@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:c9a0a657e3edb6ad2dff
-# source_url: https://www.nohawriteups.org/ro-vayn-karan-babay-dat-janazay/
-# original_html: snapshots/nohawriteups/original_html/c9a0a657e3edb6ad2dff.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/c9a0a657e3edb6ad2dff.json
-# api_content_sha256: eeecee58f86cac90ad817a83a6a9ae98c3e0b20070efa043b09fd24b8c354884
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ro vayn karan babay dat janazay tay Zahra diyan jaeyan.

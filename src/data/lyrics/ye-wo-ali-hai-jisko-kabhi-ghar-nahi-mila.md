@@ -79,18 +79,6 @@ romanLyrics: 'Haey Asghar..........
 
   Ro Ro Ke Keh Rahi Hai Takallum Yeh Karbal....'
 reciter: "Meer Hasan Meer"
-# source_id: nohayonline:55d04c8223d48a3a4014
-# source_url: https://www.nohayonline.com/details_content.php?id=401
-# raw_sha256: fa6b326f4edd8b61df93e47e8ee2c7d2ab22c9f13496c9cdf3a03e9508ccd59e
-# source_id: ziyaraat:31c8a9bd2d5780c44ae1
-# source_url: https://www.ziyaraat.net/api/noha/1324
-# raw_sha256: 29c130a89020030cf57f90c282f5ec35ea72a6763058b760683a90a6d9ee9a20
-# source_id: ziyaraat:46b009f2f420b11c4866
-# source_url: https://www.ziyaraat.net/api/noha/1850
-# raw_sha256: 2cf0b42293842a9c0fbed185eadc4fe55b5c72f04ea6ae7af0a1b5050f8ad9c2
-# source_id: ziyaraat:dbf5ded211dad6ea4084
-# source_url: https://www.ziyaraat.net/api/noha/1020
-# raw_sha256: 90df3507ff7498cadbc2cd86c983efa68bdf693538a588dec79e9d02768fc533
 ---
 
 اصغر کو لے کہ گود میں کہتی ہے کربلا

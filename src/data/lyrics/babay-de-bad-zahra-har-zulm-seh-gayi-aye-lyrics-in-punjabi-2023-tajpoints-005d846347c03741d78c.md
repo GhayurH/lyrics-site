@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:005d846347c03741d78c
-# source_url: https://tajpoints.com/2023/04/babay-de-bad-zahra-har-zulm-seh-gayi.html
-# raw_sha256: 96c781559adaf313de15cf84d6d14e0043c1eb71929a5da3c97308f69201ebe2
 ---
 
 1

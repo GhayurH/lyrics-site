@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:682d9865f3287986a676
-# source_url: https://tajpoints.com/2018/02/ali-ke-aashiq-e-anmool-ki-kahani-hai.html
-# raw_sha256: f2f84f52107b4ae2cbb7b1b6769eb6ad59266e6026e23797bcb45c53cf27fbe6
 ---
 
 1

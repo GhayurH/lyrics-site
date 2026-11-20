@@ -70,9 +70,6 @@ romanLyrics: |-
   Jab sitam ko sehte sehte thak chuki
   Qaid khaane meiṅ Sakina mar gayi
   Waqt-e-aakhir bhi Raza noha ye tha
-# source_id: nohayonline:001cf44c4a30c912bbbf
-# source_url: https://www.nohayonline.com/details_content.php?id=1992
-# raw_sha256: c19015ffc25b0911430d6a79622fc976bc9e6ffe947918345b92574275080db5
 ---
 شام کے زنداں سے یہ آئی صدا
 دم گھٹا جاتا ہے میرا قید میں

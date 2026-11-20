@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Ujra hai jis tarah se ghar Fatima ka Shahid
   Ujra na koi aise Aal-e-Aba ke baad
-# source_id: nohayonline:1134d5580b3fb81aa7c6
-# source_url: https://www.nohayonline.com/details_content.php?id=3236
-# raw_sha256: 1cdf0a794259b77a2b16ae9426cbe0e5f086d5e31b4bfa5a6d860af79e921cad
 ---
 ہوگی نہ انتہا کوئی اس انتہا کے بعد
 سجدہ نہ کر سکا کوئی پھر کربلا کے بعد

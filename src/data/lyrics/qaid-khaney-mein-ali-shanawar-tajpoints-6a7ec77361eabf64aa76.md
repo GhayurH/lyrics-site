@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6a7ec77361eabf64aa76
-# source_url: https://tajpoints.com/2022/11/qaid-khaney-mein-ali-shanawar-lyrics-in.html
-# raw_sha256: 7cdc50fc35bb2e409d2b2cb158e0834cb81428bff2ef9734c56fc5f6525024d8
 ---
 
 1

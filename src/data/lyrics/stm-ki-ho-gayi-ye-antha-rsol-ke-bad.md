@@ -74,12 +74,6 @@ romanLyrics: 'Sitam ki ho gayi ye inteha Rasool ke baad
   Zafar nabi ke gharane pe dhaa ke zulm-o-sitam
 
   Sajaayi jaane lagi Karbala Rasool ke baad'
-# source_id: nohayonline:bd7c235a083fbae5679f
-# source_url: https://www.nohayonline.com/details_content.php?id=1030
-# raw_sha256: 1e72106d6cf64b8dd6723fc90b13d3c56a1c16490262ee41d52e55b6b6d2f15c
-# source_id: ziyaraat:560bf736ad327af6495e
-# source_url: https://www.ziyaraat.net/api/noha/1971
-# raw_sha256: b4ad866ad5e9fe965c646d47a17d910f101279cf1c53b9502481e75eddfe0fbe
 ---
 
 ستم کی ہو گئی یہ انتہا رسولؐ کے بعد

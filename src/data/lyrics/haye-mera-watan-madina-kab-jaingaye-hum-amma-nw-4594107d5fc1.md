@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:4594107d5fc19313d97a
-# source_url: https://www.nohawriteups.org/haye-mera-watan-madina-kab-jaingaye-hum-amma/
-# original_html: snapshots/nohawriteups/original_html/4594107d5fc19313d97a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/4594107d5fc19313d97a.json
-# api_content_sha256: 53a65a24c911bacf75df478ecc3a723311b4a1c16603b39d8dfaa6baab973fd6
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye Mera Watan, Madina Kab Jaingaye Hum Amma (x5)

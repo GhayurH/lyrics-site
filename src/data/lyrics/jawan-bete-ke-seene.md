@@ -52,9 +52,6 @@ romanLyrics: |-
   Hai baap bete ki ghurbat ka imtehaṅ zainab
   Na dekh paaogi tum bhi ho...
   Jawan bete ke sine may...
-# source_id: nohayonline:f402fc7812b4bf87bb46
-# source_url: https://www.nohayonline.com/details_content.php?id=1815
-# raw_sha256: e1ae0a359b90f66c71bbe5a883d1774681247a0edc2828a22421554be7339322
 ---
 
 ۱

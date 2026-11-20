@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7d32456e741226df177d
-# source_url: https://tajpoints.com/2018/01/saja-howa-hai-tamam-aalam-hussain.html
-# raw_sha256: 96d89f7055a7ac19c703a45d4593bfb47b3951c0ddc2ec6023db92b119a5ac66
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a98f86a49b2a795263aa
-# source_url: https://tajpoints.com/2021/02/fatima-fatima-mukhtar-hussain-fatehpuri.html
-# raw_sha256: 3ed99e314a29ec64397f97399c679a6b78377973abd3afb37b6316789e18d2cc
 ---
 
 1

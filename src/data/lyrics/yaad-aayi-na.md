@@ -44,9 +44,6 @@ romanLyrics: |-
   Fatema sughra ke ehsaas qalam band kiye
   Kaun ab aa ke mujhe dega dilaasa baba
   Yaad aayi na tumhe...
-# source_id: nohayonline:1cb846b4e4c294786e10
-# source_url: https://www.nohayonline.com/details_content.php?id=3433
-# raw_sha256: 3f7596773587061e54a41b5a32f13296cfbcbac0a9ef1726ce57ec45b56f5187
 ---
 
 ۱

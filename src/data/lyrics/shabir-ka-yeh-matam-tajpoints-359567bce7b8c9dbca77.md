@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:359567bce7b8c9dbca77
-# source_url: https://tajpoints.com/2020/08/shabir-ka-yeh-matam-lyrics-in-urdu-and.html
-# raw_sha256: 87c95cec4b1f6368c48d553749bf1b93f5f3532ca49f2741d1d8ca3fd3457b82
 ---
 
 1

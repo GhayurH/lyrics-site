@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:cac9b00e8de83bb6e1fd
-# source_url: https://www.ziyaraat.net/api/noha/877
-# raw_sha256: 8cf8b775e6538387333628b17cf9151f583fbb3454de95a9f255461a7b8d9285
 ---
 
 IS QAID E SITAM ME NAHI RAHPAUNGI BABA

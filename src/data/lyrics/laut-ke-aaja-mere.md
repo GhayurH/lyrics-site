@@ -53,12 +53,6 @@ romanLyrics: |-
   Gohar-e-Dilgir yehi lab pe tha nauha
   Haaye yehi kehte hue mar gayi Sughra
   Laut ke aaja mere bhai
-# source_id: nohayonline:ca1e65bd86639f7542fc
-# source_url: https://www.nohayonline.com/details_content.php?id=1935
-# raw_sha256: 1bc3d583b9a524b150d2a53302de47a61c3823a5d80a1b00df4031a54186db90
-# source_id: tajpoints:08f60e129fe1ee0bd467
-# source_url: https://tajpoints.com/2021/06/laut-ke-aaja-mere-bhai-mir-hasan-mir.html
-# raw_sha256: 900305fa54850ef08a31ac0744bb15e9c75c0f4f25d6e8a7d7bbc977fabf26bc
 ---
 
 دیتی تھی صغرا یہ دہائی

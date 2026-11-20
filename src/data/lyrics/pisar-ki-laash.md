@@ -42,9 +42,6 @@ romanLyrics: |-
   7
   Ye gham sambhaale sambhalta nahiṅ Ali Fitrat
   Pukaarta hai ye maqtal koi kare nusrat
-# source_id: nohayonline:798a12b9c6ebdbecab77
-# source_url: https://www.nohayonline.com/details_content.php?id=737
-# raw_sha256: 94506c7d32b0f29b56c11afa63bde720119e49a3a712d010ccad6fe815191992
 ---
 بہا لے زار شاہِ مشرقین آتے ہیں
 سر اپنا پیٹتے با شورِ شین آتے ہیں

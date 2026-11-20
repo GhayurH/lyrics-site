@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5600360a2c19150f8b32
-# source_url: https://tajpoints.com/2022/08/hath-gardan-se-hatalo-amma-meesum.html
-# raw_sha256: ed7e8af2195a91d797368dbf8e6ce4e734e3528cfd468c4c97810aec8c846639
 ---
 
 1

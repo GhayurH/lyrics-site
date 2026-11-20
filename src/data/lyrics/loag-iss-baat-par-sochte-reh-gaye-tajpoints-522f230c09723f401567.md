@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:522f230c09723f401567
-# source_url: https://tajpoints.com/2023/01/loag-iss-baat-par-sochte-reh-gaye.html
-# raw_sha256: 40915d88d5689e5e888743332de5ab48de55b9d5bd6fa749bcd683cf635490ec
 ---
 
 Loag Iss Baat Par Sochte Reh Gaye.

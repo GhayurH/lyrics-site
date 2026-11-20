@@ -64,9 +64,6 @@ romanLyrics: |-
   Wohi tanhaai ab bhi hai
   Andhera qaid khaana hai
   Yatimi hai sakina hai...
-# source_id: nohayonline:1fa4bdf982cf09a1af76
-# source_url: https://www.nohayonline.com/details_content.php?id=949
-# raw_sha256: 5b1f6889ac07bf5685d2dd4df134acc3a2118f54bb83f8a67862e1627572f8de
 ---
 
 ۱

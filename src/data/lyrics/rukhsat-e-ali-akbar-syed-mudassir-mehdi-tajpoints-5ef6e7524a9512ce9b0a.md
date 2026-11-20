@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5ef6e7524a9512ce9b0a
-# source_url: https://tajpoints.com/2021/08/rukhsat-e-ali-akbar-syed-mudassir-mehdi.html
-# raw_sha256: ca073f6aef68c68968e8b17f1c20d66b3ca90f870b74723e82a75643de91d40f
 ---
 
 1

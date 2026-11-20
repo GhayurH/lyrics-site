@@ -61,18 +61,6 @@ romanLyrics: |-
   Laakhoṅ ne gharib ko gher liya
   Sayyid ka tha nauha ya Ghazi
   Bhai hai bichharta ya Ghazi
-# source_id: nohayonline:286c9a7d9b4cb913f4e8
-# source_url: https://www.nohayonline.com/details_content.php?id=1844
-# raw_sha256: fd89219de1fddf4464eba24d1712581f88145166a651a7ed0e167bb06227489a
-# source_id: nohawriteups:47e8e7297fc12166d6d1
-# source_url: https://www.nohawriteups.org/ya-ghazi-ali-jee-2022-1444-lyrics/
-# original_html: snapshots/nohawriteups/original_html/47e8e7297fc12166d6d1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/47e8e7297fc12166d6d1.json
-# api_content_sha256: 935ff04480ce6dd774b4f83f7adb3e0527d46b084f72892149f1536044555b1e
-# source_id: tajpoints:281135016cda33a7ed9c
-# source_url: https://tajpoints.com/2022/08/ya-ghazi-ali-jee-lyrics-in-urdu-and.html
-# raw_sha256: 7a6706f621f3a408aa16266b30e8605ff0ccca5de039d9f0ef724b48ac62fd29
-# editorial_note: Duplicate witness folded into canonical source record. Its verses are already present in this edition; no additional stanzas identified.
 ---
 یا غازی یا مولا
 سب کا سہارا مولا

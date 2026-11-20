@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Hamaari qabr par aana to do aansu baha jaana
   Mile fursat to parhna Faatiha ae Karbala waloṅ
-# source_id: nohayonline:0ae3a52d9ec118878737
-# source_url: https://www.nohayonline.com/details_content.php?id=2032
-# raw_sha256: bc0b91d70bd85f8890a47da696684c503937024928bb3e89fa064c9a7d3467bf
 ---
 بلا کر سب کو حضرت نے کہا اے کربلا والوں
 ہمیں درکار ہے تھوڑی سی جا اے کربلا والوں

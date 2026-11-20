@@ -36,9 +36,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:650599895d4ce25e988d
-# source_url: https://www.ziyaraat.net/api/noha/792
-# raw_sha256: d59147401133be38296b7742e0709c1e2fb4434c1b833ee09331cbc077037c71
 ---
 
 بے کفن خاکِ شفاءپر دین کا سلطان ہے

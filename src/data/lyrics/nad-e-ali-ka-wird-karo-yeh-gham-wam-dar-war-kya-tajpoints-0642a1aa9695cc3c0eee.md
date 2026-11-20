@@ -8,9 +8,6 @@ poet: "Nayyar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0642a1aa9695cc3c0eee
-# source_url: https://tajpoints.com/2019/03/nad-e-ali-ka-wird-karo-yeh-gham-wam-dar.html
-# raw_sha256: 7ba5506554706c3e2c8316502c66597a04211a67542064960300e314c4c3f5f9
 ---
 
 Nad-e-Ali Ka Wird Karo Yeh Gham Wam Dar War Kya.

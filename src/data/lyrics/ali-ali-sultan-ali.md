@@ -52,9 +52,6 @@ romanLyrics: |-
   Jo dard hai sine meiṅ dikhlaye kise maula
   Sar pito ke ae nasir maula ki shahadat hai
   Ali ali sultan ali...
-# source_id: nohayonline:a5eef130f6eea41ee89e
-# source_url: https://www.nohayonline.com/details_content.php?id=2429
-# raw_sha256: 8967a7d29314cf83569f9666f266f9750a5d095080ffeecb958d3ae393bd16a4
 ---
 
 ۱

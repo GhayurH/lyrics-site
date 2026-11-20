@@ -60,15 +60,6 @@ romanLyrics: 'Tashna lab mazloom Sarwar alwida
   Rotay hain baqar muhibaan e Hussain
 
   Kehtay hain sibt e payambar alwida'
-# source_id: nohayonline:991c2341990bf500e99a
-# source_url: https://www.nohayonline.com/details_content.php?id=1917
-# raw_sha256: 74ff8bf109594a15d9ed86b48f887f572ef28c84180081d97bbcc451f57c6506
-# source_id: ziyaraat:00781659547869a8a2e1
-# source_url: https://www.ziyaraat.net/api/noha/2307
-# raw_sha256: 526e8cfae17830a04a4cc342a48b4b5dadcccadbecaed4afaa4a638c52ee43d0
-# source_id: ziyaraat:852803c0d320d8e61f16
-# source_url: https://www.ziyaraat.net/api/noha/1761
-# raw_sha256: 78696ea0a855afb06a3a3df14e37c806048f336ed0941cfd09230aefe77dbd41
 ---
 
 تشنہ لب مظلوم سرورؑ الوداع

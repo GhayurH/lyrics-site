@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5e673f7bc14fd4b5b695
-# source_url: https://tajpoints.com/2026/07/habib-aao-madad-ko-hussain-tanha.html
-# raw_sha256: 72cd91b6e080ea60755f94889ac65b483d73ccaafd3e2d52024e5fed08650f53
 ---
 
 Yeh Sheh Ne Khat Mein Hai Likha Hussain Tanha Hai.

@@ -8,9 +8,6 @@ reciter: "Nasir Ali Raza Party"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:8d4046fd20f6b78e412b
-# source_url: https://www.ziyaraat.net/api/noha/1876
-# raw_sha256: 4c457522e2488bd9542dacfe5bdbbea0bbf26753aa9aed870052b29d47ab08d2
 ---
 
 Shaame ghareeba hoi zainab ay keh ke roi hun shaam tayyari ay

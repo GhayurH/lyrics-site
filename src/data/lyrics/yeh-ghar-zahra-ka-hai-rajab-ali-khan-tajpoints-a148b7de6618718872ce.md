@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a148b7de6618718872ce
-# source_url: https://tajpoints.com/2024/01/yeh-ghar-zahra-ka-hai-rajab-ali-khan.html
-# raw_sha256: 4d4365d0978d4e5d66d4ebcb56a266e8dc6ee90f14b74276aaadb156cce0b4bd
 ---
 
 Yeh Ghar Zahra Ka Hai Rajab Ali Khan.

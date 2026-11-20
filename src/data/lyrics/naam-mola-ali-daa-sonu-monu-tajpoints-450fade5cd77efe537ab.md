@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:450fade5cd77efe537ab
-# source_url: https://tajpoints.com/2025/01/naam-mola-ali-daa-sonu-monu-lyrics.html
-# raw_sha256: bf62d60334abcddbbc2cd9174796dbd17e88f945061e85bf6b55a8ca301d45d5
 ---
 
 1

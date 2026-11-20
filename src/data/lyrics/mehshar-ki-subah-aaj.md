@@ -104,9 +104,6 @@ romanLyrics: |-
   Abbas ibn-e-Haidar-e-Safdar se puchh leṅ
   Murda na samjho zinda ye Haidar ke pyaare haiṅ
   Mukhtaar ham nahiṅ haiṅ ye maalik hamaare haiṅ
-# source_id: nohayonline:a2a5fe6184a95c3cbc9c
-# source_url: https://www.nohayonline.com/content_marsiya.php?id=6
-# raw_sha256: 52ea4d674ca74ea1e8bdcdd0f95efe6ee8ff88a47b40d8da82e371368087ed2d
 ---
 محشر کی صبح آج نمایاں ہے شام میں
 کنبہ شفیع حشر کا ہے ازدحام میں

@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:2a9b5328023e802e5b66
-# source_url: https://www.ziyaraat.net/api/noha/51
-# raw_sha256: 2ef5f91f620e67fbe2ffd60dfa21ed7e74f444478a8fbe6ea439276f62c5bb74
 ---
 
 Farman e Risalat Ko Bholatey Ho Mosalmaan

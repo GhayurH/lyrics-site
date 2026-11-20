@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3e86ce98a023ceb47f00
-# source_url: https://tajpoints.com/2018/10/sajjad-di-maut-bazar-de-wich-ayho.html
-# raw_sha256: e622ee2a9d7925659493fb3e175947ba23eb951228075b6be05be8bd01d4ccd8
 ---
 
 1

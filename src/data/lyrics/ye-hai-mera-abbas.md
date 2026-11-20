@@ -101,9 +101,6 @@ romanLyrics: |-
   Maula maula maula alamdar
   Maula maula maula alamdar
   Ye hai mera Abbas
-# source_id: nohayonline:61aaad01ff1bcd854af5
-# source_url: https://www.nohayonline.com/details_content.php?id=3640
-# raw_sha256: 9fc4ba5968f710881ecc35b23544d9eb14b49ee4e455820a9ee433b06fff99d4
 ---
 علمدار علمدار
 مولا مولا مولا علمدار

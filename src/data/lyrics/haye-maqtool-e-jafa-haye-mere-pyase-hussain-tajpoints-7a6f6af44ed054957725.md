@@ -8,9 +8,6 @@ poet: "Mussadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7a6f6af44ed054957725
-# source_url: https://tajpoints.com/2018/09/haye-maqtool-e-jafa-haye-mere-pyase.html
-# raw_sha256: 88b1a68a4964d710d67c7c5c3b9bd270b7284f0f215eccd7322a526dfc317eaf
 ---
 
 Haye Maqtool-e-Jafa Haye Mere Pyase Hussain.

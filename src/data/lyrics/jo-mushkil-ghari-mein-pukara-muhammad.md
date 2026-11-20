@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Yeh Akbar ki aamad pe Shabbir bole
   Bulaaye gaye haiṅ dobaara Muhammad
-# source_id: tajpoints:342d3a73a8d01926fc63
-# source_url: https://tajpoints.com/2017/12/jo-mushkil-ghari-mein-pukara.html
-# raw_sha256: 360b5476b4a1dab263f84d8c753f068e726364f9e6af3524b861d20f97bcdbd9
 ---
 جو مشکل گھڑی میں پکارا محمد
 مدد کو چلے آئے بارہ محمد

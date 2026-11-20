@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dedbeceee801548ff823
-# source_url: https://tajpoints.com/2019/08/na-maro-musalmano-ye-zahra-ka-chain-hai.html
-# raw_sha256: beec8b159f8f63774bfc429e3045f16a20a5c58201c395796cbcdf3c430244a5
 ---
 
 1

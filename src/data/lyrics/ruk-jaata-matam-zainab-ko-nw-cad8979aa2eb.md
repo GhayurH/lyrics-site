@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:cad8979aa2ebb48371fe
-# source_url: https://www.nohawriteups.org/ruk-jaata-matam-zainab-ko/
-# original_html: snapshots/nohawriteups/original_html/cad8979aa2ebb48371fe.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/cad8979aa2ebb48371fe.json
-# api_content_sha256: 49cbd7023fc6983e929c485d266b6512cd1a17d07d8b424024ec6ad5c5a20d94
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ruk Jaata Matam Zainab Ko, Na Lay Aatay Bazaroun Main

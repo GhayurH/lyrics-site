@@ -68,9 +68,6 @@ romanLyrics: |-
   Wo khud aa jaayeiṅ ya hameiṅ bulayeiṅ
   Wo saamne baith ke bole sunao phir se raza zishan
   Allah mohamed ali fatema...
-# source_id: nohayonline:2ac4a2d17986c6e39f24
-# source_url: https://www.nohayonline.com/details_content.php?id=2797
-# raw_sha256: c5b3681fe6a99a8b986d3361aa7665ecd130f0a28d40034d27abe640657f8711
 ---
 
 ۱

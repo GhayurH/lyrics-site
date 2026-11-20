@@ -8,15 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:89204f26f24fadcd61b4
-# source_url: https://www.nohawriteups.org/hussain-o-minni-wa-ana-minal-hussain/
-# original_html: snapshots/nohawriteups/original_html/89204f26f24fadcd61b4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/89204f26f24fadcd61b4.json
-# api_content_sha256: 27bd01ba5d68291d8bf25fdb8dc5e41ae4737e4a85c946031a5c4c4ee4038590
-# editorial_note: Eight stanzas consolidated from two Roman-only sources. Stanzas 6-7 occur only in TajPoints and need textual verification, particularly the spelling of Akehtar; no Urdu witness supplied.
-# source_id: tajpoints:0c68722955d87940686b
-# source_url: https://tajpoints.com/2018/08/hussain-o-minni-wa-ana-minal-hussain.html
-# raw_sha256: a2cfe83411e0d0af85373383a93da46910fe86dfb408aca9bef159c644823418
 ---
 
 utra jo aasman se mehzar ba shor-o-shain

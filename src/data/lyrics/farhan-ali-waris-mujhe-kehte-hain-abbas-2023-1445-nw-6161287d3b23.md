@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6161287d3b233572b1fc
-# source_url: https://www.nohawriteups.org/farhan-ali-waris-mujhe-kehte-hain-abbas-2023-1445-lyrics/
-# original_html: snapshots/nohawriteups/original_html/6161287d3b233572b1fc.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6161287d3b233572b1fc.json
-# api_content_sha256: 4134bad20e69d65961273dbcb3c6b8c622270f58bd4c6f669481a0126d8828fa
-# editorial_note: Unpublished source-faithful draft from approved valid roman only on live, extraction broken; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 ABBAS(a.s.)

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:984a86282a75e5ede1eb
-# source_url: https://tajpoints.com/2023/02/zainab-se-azadari-e-shabbir-chali-hai.html
-# raw_sha256: b3087db77c57d5c9c31286659d2675bd39d68973199c8c0f5a8326e06d032bfb
 ---
 
 1

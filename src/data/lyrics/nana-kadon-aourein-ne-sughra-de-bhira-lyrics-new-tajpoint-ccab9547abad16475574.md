@@ -8,9 +8,6 @@ poet: "Rida"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:ccab9547abad16475574
-# source_url: https://tajpoint.com/nana-kadon-aourein-ne-sughra-de-bhira-lyrics-new-noha/
-# raw_sha256: 76d15d22f632dc67dfaca3d2e602660842e330800974ae6598b001475dc4c236
 ---
 
 1

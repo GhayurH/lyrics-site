@@ -8,9 +8,6 @@ poet: "Sajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed6a1b26e62015dd22f7
-# source_url: https://tajpoints.com/2020/08/hussain-badshah-lyrics-in-urdu-and.html
-# raw_sha256: 8eadc78e62ba974f7b20255405983a49831b1bad7902e06cc94c3e2c906fea90
 ---
 
 1

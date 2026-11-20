@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f9e3bc6711f70fba9bcf
-# source_url: https://tajpoints.com/2020/11/nokar-ghazi-da-lyrics-in-punjabi-and.html
-# raw_sha256: 85715467e90708ebb21d1d5d598d8c8a03d48c08ef45506bfd31ecd6aad783ad
 ---
 
 Nokar Ghazi Da Write Up

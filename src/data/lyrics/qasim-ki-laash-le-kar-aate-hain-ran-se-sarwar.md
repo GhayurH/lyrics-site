@@ -48,12 +48,6 @@ romanLyrics: 'Qasim ki laash le kar aate hai ran se sarwar
   Momin haram may ghul tha wa qasima ka barpa
 
   Kya sakt tha wo manzar aate hai ran se sarwar'
-# source_id: nohayonline:91434c9d8717a2389fd9
-# source_url: https://www.nohayonline.com/details_content.php?id=1633
-# raw_sha256: 6797372365d03635b2c1fb250ad663e48028c4df1ee0c6835182395446fc0377
-# source_id: ziyaraat:0b5676d540f94ad81c11
-# source_url: https://www.ziyaraat.net/api/noha/1331
-# raw_sha256: f5b678c8a06bbfaaef6a3b3b3f83d74ab0aeb40a1334a00d1c0b12652cb27150
 ---
 
 ؑقاسمؑ کی لاش لے کر آتے ہیں رن سے سرور

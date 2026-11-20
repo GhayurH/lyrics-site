@@ -8,9 +8,6 @@ poet: "Naveed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a141cbf42fffa9525a16
-# source_url: https://tajpoints.com/2017/02/qatal-qibla-howa-our-khoon-mein-nahaya.html
-# raw_sha256: 1d7a8a1679ee36d186b23c33830e675b47e98febd70f16c90a7c3ce470dc65b3
 ---
 
 Qatal Qibla Howa Our Khoon Mein Nahaya Sajda.

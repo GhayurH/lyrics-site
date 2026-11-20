@@ -35,9 +35,6 @@ romanLyrics: |-
   6
   6. Sajjad day jigar nu, gal cheer gaey aey Adil
   Tareekh day wich aa si, darbar di kahani
-# source_id: ziyaraat:9f29051ec2b6c752154a
-# source_url: https://www.ziyaraat.net/api/noha/560
-# raw_sha256: b6fa76e7d62e7f958caad60d2540d664c53b3cb5a7e7bf24b79f069bb79c22b2
 ---
 
 Yehi gham to kha gaya hay

@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ffca85f9ce14b4c0c5a5
-# source_url: https://tajpoints.com/2024/05/pursa-do-jafar-e-sadiq-ka-haider-rizvi.html
-# raw_sha256: 6a435e750057778ad6c118acc0e834f6cf532509c06054c6b51cbc5a8065438a
 ---
 
 1

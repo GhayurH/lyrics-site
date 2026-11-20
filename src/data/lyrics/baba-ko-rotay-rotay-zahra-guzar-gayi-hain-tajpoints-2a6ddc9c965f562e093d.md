@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2a6ddc9c965f562e093d
-# source_url: https://tajpoints.com/2021/01/baba-ko-rotay-rotay-zahra-guzar-gayi.html
-# raw_sha256: 94be2d20c6340d36ab9dcf80668ea97d274ee878d641944fc28f66f9dd27a41f
 ---
 
 1

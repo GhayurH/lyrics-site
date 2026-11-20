@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9105cf0a88288369c86e
-# source_url: https://tajpoints.com/2018/04/hai-wafaon-ka-hawala-tere-bazo-abbas.html
-# raw_sha256: 25459659f13de72f0510501b802c267891fa3c9b9529083f2fdb56c78f13f747
 ---
 
 Hai Wafaon Ka Hawala Tere Bazo Abbas.

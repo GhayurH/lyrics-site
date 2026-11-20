@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8078f285d2b6b3f3005d
-# source_url: https://www.nohawriteups.org/mere-ghareeb-ko-lakhon-nay-milke/
-# original_html: snapshots/nohawriteups/original_html/8078f285d2b6b3f3005d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8078f285d2b6b3f3005d.json
-# api_content_sha256: 7ba62ad60459bdff2d9f71d1cc76a74431dcca4e6d6acb32556ce2309e34c5e5
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 damishq may jo ghareebon ka kaarwan pahuncha

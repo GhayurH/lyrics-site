@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0882181e149ce52ec3c4
-# source_url: https://tajpoints.com/2023/03/teri-zaat-qalandar-syed-wajhi-hasan.html
-# raw_sha256: b423040790f978bb2784b81bdfd6ca4d9a19d312160ed4b6e0df73c1cce72416
 ---
 
 Teri Zaat Qalandar Syed Wajhi Hasan.

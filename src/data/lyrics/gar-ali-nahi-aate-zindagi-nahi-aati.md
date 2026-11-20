@@ -8,13 +8,6 @@ poet: "Sibt-e-Jafar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:023e243fdac9982f391c
-# source_url: https://tajpoints.com/2017/02/gar-ali-nahi-aate-zindagi-nahi-aati-1-6.html
-# raw_sha256: 9f7134a9c4d1c804f72ee5eb7538c43ddf8ba8ff4fbe24f9e7dae490d00aed85
-# source_id: tajpoints:a30a2757534d0d7a0bc1
-# source_url: https://tajpoints.com/2017/02/gar-ali-nahi-aate-zindagi-nahi-aati-7-9.html
-# raw_sha256: 23cb7ec31fd1d586965d35f1776c143951ff31a2c78995b11549d23bb88d8b86
-# editorial_note: Rejoined both source halves into nine five-line stanzas. Original first half's seven four-line numbered blocks cut across the source's real stanza boundaries; Roman text preserved apart from cleaning takhallus punctuation.
 ---
 
 1

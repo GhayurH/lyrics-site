@@ -8,9 +8,6 @@ reciter: "Ali Safdar Rizvi"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c90db605b27ec91d1a14
-# source_url: https://www.ziyaraat.net/api/noha/2249
-# raw_sha256: 981f709a34495b92194c1d91c00d89678a86bc277f0d985b31f2765bb2eb230f
 ---
 
 دنیا جو دیکھی دین سے خالی حسینؑ نے

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:9eb69de6c54d8a84c2a6
-# source_url: https://tajpoint.com/dhal-gayi-aye-sham-ghareban-te/
-# raw_sha256: 57f54770f123051c7feb89be05c978850d31c352db59ccb1c93430edcea48f03
 ---
 
 1

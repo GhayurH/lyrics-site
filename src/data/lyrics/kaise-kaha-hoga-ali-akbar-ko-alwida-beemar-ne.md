@@ -35,9 +35,6 @@ romanLyrics: |-
   5) Hasnain kai sadaqi main karam Haider nai kiya hai
   Mola kai gadagar kah sharaf zehra say liya hai
   Do jahan ki duain lee hain sani-e-zehra sai Akhtar sai pursa daar nai
-# source_id: ziyaraat:1b910c400919468c6ed1
-# source_url: https://www.ziyaraat.net/api/noha/1260
-# raw_sha256: f3a98fee77aa94b418fd20c26f542c3c544429ec7a6c2d75de4a9064819eeb9c
 ---
 
 ۱

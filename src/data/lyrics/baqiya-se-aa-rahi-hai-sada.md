@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:42306355669d816f7ccc
-# source_url: https://www.ziyaraat.net/api/noha/1777
-# raw_sha256: bf89206a459a16b685f6c91c38350a6f4693e704d400bd86a3b909ca2748f033
 ---
 
 Baqiya se ah rahi hai zahra ki yeh sada

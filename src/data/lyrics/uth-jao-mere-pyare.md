@@ -75,9 +75,6 @@ romanLyrics: |-
   Maaṅ chum ke chhoti si turbat
   Bas kehti rahi Asghar Asghar
   Uth jaao mere pyaare Asghar
-# source_id: nohayonline:57dd6b5ff1547ed8cc9f
-# source_url: https://www.nohayonline.com/details_content.php?id=2150
-# raw_sha256: cd2ec02336425d60faa41c10c9ea1f02aca43a9d83d223437bbf6c356e54fd2e
 ---
 رو رو کے یہ کہتی ہے مادر
 اٹھ جاؤ میرے پیارے اصغر

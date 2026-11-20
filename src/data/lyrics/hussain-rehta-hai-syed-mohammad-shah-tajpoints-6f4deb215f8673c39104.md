@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6f4deb215f8673c39104
-# source_url: https://tajpoints.com/2023/02/hussain-rehta-hai-syed-mohammad-shah.html
-# raw_sha256: a7dfa737fefc89d598b8fe14ac6bb3a0c91659f0a54001501bfbdbaadc5c5c2c
 ---
 
 1

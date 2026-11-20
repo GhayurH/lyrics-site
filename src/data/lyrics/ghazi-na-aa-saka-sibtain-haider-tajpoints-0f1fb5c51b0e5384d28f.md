@@ -8,9 +8,6 @@ poet: "Sahaab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f1fb5c51b0e5384d28f
-# source_url: https://tajpoints.com/2023/05/ghazi-na-aa-saka-sibtain-haider-lyrics.html
-# raw_sha256: afffe7664d179ca8b9fffccbb3c6c084befb0d89183753f1edb9d3b391a56d76
 ---
 
 1

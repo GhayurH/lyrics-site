@@ -59,13 +59,6 @@ romanLyrics: 'Parda dunya ko sikhane waali
   5) Nangai saar parhti rahi khutbai bazaaron main
 
   Kasr-e-dushman ko hilanai wali, aayi bazaaron main Zainab'
-# source_id: nohayonline:08e02b82005992575d01
-# source_url: https://www.nohayonline.com/details_content.php?id=671
-# raw_sha256: 7b2038640a5957fd726b478b856e086b5647eee1e265ff074df139f6f5ed080d
-# source_id: ziyaraat:6b28c1de1045db8c6b38
-# source_url: https://www.ziyaraat.net/api/noha/310
-# raw_sha256: 28fa19b47f162fcace45ada53ffa388f8d49ba665a6678137a416df30b5e70f8
-# added_stanza_source: roman:kalam-nohayonline-08e02b82005992575d01
 ---
 
 پردہ دُنیا کو سیکھانے والی

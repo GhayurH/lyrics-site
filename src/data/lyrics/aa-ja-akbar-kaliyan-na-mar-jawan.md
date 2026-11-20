@@ -8,9 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2a0c7777a7a0b03b1593
-# source_url: https://www.ziyaraat.net/api/noha/1548
-# raw_sha256: e92435175d3af71c008325bb1d537d4159d4512075b4f7e318e48590ea02485c
 romanLyrics: |-
   Aaja Akbar veeran kaliyan na maar jawan
 

@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:442fdadf925c194731d8
-# source_url: https://tajpoints.com/2021/08/jab-ashqiyan-ne-hai-zeen-se-giraya.html
-# raw_sha256: ec74cc42969ff9e21c6e340fcff80c497eb56b194af9ed96c96cd88cdc893eed
-# source_title_original: Jab Ashqiyan Ne Hai Zeen Se Giraya Ghazi Ko Ansar Jafar Lyrics In Urdu 2021
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Khiyal Chadar-e-Zainab Ka Aaya Ghazi Ko

@@ -57,9 +57,6 @@ romanLyrics: |-
   Ghul aah o buka tha
   Kehti thi ye dil thaam ke jab Zainab-e-muztar
   Amma meri amma
-# source_id: nohayonline:a28d31866416a826686c
-# source_url: https://www.nohayonline.com/details_content.php?id=832
-# raw_sha256: 920e5625cf687b159eb658063848bc7dd52df1eca180c53d3eb13bb4697721cf
 ---
 زینب نے کہا لاش سے زہرہ کی لپٹ کر
 اماں میری اماں

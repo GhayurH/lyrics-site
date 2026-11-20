@@ -49,9 +49,6 @@ romanLyrics: |-
   Sirf trehreer hi nahi thi wo
   Bizat o minni ke wo tukre thay
   Jo hawa mein gaye uraye hain
-# source_id: ziyaraat:76e5e90ef31e5f442a71
-# source_url: https://www.ziyaraat.net/api/noha/1147
-# raw_sha256: 93077984ac0b2380fd81b8d7bd1dd2de7e408e4550aa6013b53da4f45fa1aa47
 ---
 
 نانا تیرے حسنینؑ ہیں ہم غمِ مادر سنانے آئے ہیں

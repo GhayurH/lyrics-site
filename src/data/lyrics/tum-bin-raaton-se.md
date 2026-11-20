@@ -62,12 +62,6 @@ romanLyrics: |-
   Daadi ki tarah chhaayi hai baaloṅ pe safedi
   Fizza ki tarah chehre pe chhaayi hai zaifi
   Ab jine ki khwaahish bhi to baaqi nahiṅ Baba
-# source_id: nohayonline:83b026e13744c78cf9b9
-# source_url: https://www.nohayonline.com/details_content.php?id=2679
-# raw_sha256: e846e3d8b2beb8406fb7ecb938d159611b2ee0dea6eb061e6caac0440c413fcc
-# source_id: tajpoints:cdcf1b9d443a6e2df761
-# source_url: https://tajpoints.com/2019/10/tum-bin-kayi-raaton-se-main-soyi-nahi.html
-# raw_sha256: 686d27831562ef3befabd59313885234d57925d45eeb95e32657b5689d7bdcc3
 ---
 طشت میں شاہ کا سر قید میں جب لایا گیا
 رو کے چلائی سکینہ درِ زنداں کھلا

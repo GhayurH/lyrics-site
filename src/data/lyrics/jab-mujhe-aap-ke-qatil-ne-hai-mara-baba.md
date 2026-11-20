@@ -11,12 +11,6 @@ tags: []
 aliases:
   - "Jab Mujhe Aap Ke Qatil Ne Hai Mara Baba"
 published: true
-# source_id: nohayonline:320f169bc76ef605dc68
-# source_url: https://www.nohayonline.com/details_content.php?id=1003
-# raw_sha256: 4fcf94c6ec44b33e1b759fb31d39e171839a7d4b1ec0e2626c469b8e31129cf3
-# source_id: ziyaraat:5326f6fcf5861cc8cd02
-# source_url: https://www.ziyaraat.net/api/noha/2914
-# raw_sha256: 4150189ad4ee31af1d135edd49bd5fe9dadcc1ea906489d40d8ea38fdb5e2f5c
 romanLyrics: |-
   Jab mujhe aap ke qaatil ne hai maara Baba
   Har tamaache pe Sakina ne pukaara Baba

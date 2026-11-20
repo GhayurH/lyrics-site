@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3d920634efa5d4dfec24
-# source_url: https://tajpoints.com/2021/05/tatheer-diyaan-paliyaan-lyrics-in.html
-# raw_sha256: c825825eb2d8511472afb8191898b63edf441f91a9ab834e22cc0076b763ba93
 ---
 
 Tatheer Diyaan Paliyaan Babay De Janazay Te Payiyaan Wain Pandiyaan Ne.

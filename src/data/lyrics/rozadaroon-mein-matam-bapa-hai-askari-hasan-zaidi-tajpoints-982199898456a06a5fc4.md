@@ -8,9 +8,6 @@ poet: "Askari"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:982199898456a06a5fc4
-# source_url: https://tajpoints.com/2021/04/rozadaroon-mein-matam-bapa-hai-askari.html
-# raw_sha256: fcf302321a0d244f5186ac45938bff6cd65bba8e3ec0fa6d6b411a389f8d8435
 ---
 
 1

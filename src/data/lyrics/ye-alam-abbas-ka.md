@@ -42,9 +42,6 @@ romanLyrics: |-
   Ye sharaf Zahra ke dar se mil gaya hubdaar ko
   Maatam-e-Shabbir meiṅ ye nauhagar Irfan hai
   Aadam o Isa Nabi sab ambiya ki shaan hai
-# source_id: nohayonline:bc67b23369d55a9818c3
-# source_url: https://www.nohayonline.com/details_content.php?id=3357
-# raw_sha256: e59a1fdc09cb054a0fecbf37a51f5a2a2e61ba1b00638c96ef2db6e9dc11ccd9
 ---
 بے مثال ہے دو جہاں میں جو ہے شیر کربلا
 کر گیا دین نبی پہ دونوں بازو جو فدا

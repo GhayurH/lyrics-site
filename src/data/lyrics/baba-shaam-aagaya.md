@@ -56,9 +56,6 @@ romanLyrics: |-
   Shaam meiṅ aa gayi aap ki laadli
   Do mujhe hausla baba shaam agaya
   Hogayi berida...
-# source_id: nohayonline:b1a2d01eb5c6da07c611
-# source_url: https://www.nohayonline.com/details_content.php?id=1382
-# raw_sha256: c6b0f449bcabdba66b8afc9451bf1c82c9aa325fadd3fe03788f00abc2ac4cde
 ---
 
 ۱

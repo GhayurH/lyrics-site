@@ -110,12 +110,6 @@ romanLyrics: 'Ameer Hussain gharib Hussain
   Ameer aisa k pathar’un ko bna day gohar wo he takallum
 
   Gharib aisa k pathar’un may usi ka lasha chupa hoa hai'
-# source_id: nohayonline:30f949f3444e6d902557
-# source_url: https://www.nohayonline.com/details_content.php?id=288
-# raw_sha256: 7efc5ab6abbd54c8bf243ec6a4ed4dd335fcf81298b78037e835b547daecaa78
-# source_id: ziyaraat:49ce79edef17ba87aabb
-# source_url: https://www.ziyaraat.net/api/noha/1988
-# raw_sha256: b93d0a5df9df70fdbf767837f238ec4e5d954f512d539987633fe7ce10dd7738
 ---
 
 امير حسينؑ غريب حسينؑ

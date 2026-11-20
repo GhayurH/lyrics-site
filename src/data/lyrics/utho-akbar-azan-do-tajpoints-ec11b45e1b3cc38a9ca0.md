@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ec11b45e1b3cc38a9ca0
-# source_url: https://tajpoints.com/2020/11/utho-akbar-azan-do-lyrics-in-urdu-and.html
-# raw_sha256: 29efce509818661f1a8b0b45ae947ac2bd41132d084ee2bc841dc1294e69f634
 ---
 
 Utho Akbar Azan Do Write Up

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ff0f02c2ba9d9873824c
-# source_url: https://tajpoints.com/2023/02/hashiya-bandh-ke-zainab-ka-qasida-likha.html
-# raw_sha256: f8ff5049106dd4015ec7e52fb856b287b08541a0cee9ae8d414a5f700f37e93b
 ---
 
 1

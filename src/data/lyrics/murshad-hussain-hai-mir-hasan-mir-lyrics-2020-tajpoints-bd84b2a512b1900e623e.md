@@ -8,9 +8,6 @@ poet: "Dabeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bd84b2a512b1900e623e
-# source_url: https://tajpoints.com/2021/03/murshad-hussain-hai-mir-hasan-mir.html
-# raw_sha256: 6176ab4c45b4214664e0fc160470c57ab781e8ec4bb21c82a784bf9f025577b9
 ---
 
 Murshad Hussain Hai Mir Hasan Mir Write Up

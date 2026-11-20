@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e962420ccd889bf928f
-# source_url: https://tajpoints.com/2019/04/qissay-yousuf-ke-kyun-sunaein-gaye.html
-# raw_sha256: 015449a3e414d67da8d609d71be2fb18f84d2fd7cde1b7858736bf019c391cf1
 ---
 
 Qissay Yousuf Ke Kyun Sunaein Gaye.

@@ -80,12 +80,6 @@ romanLyrics: |-
   Rauze pe bula bhejo zawwari ata kar do
   Maula ye karam kar do
   Abbas se kehna hai mujhe Abbas se kehna hai
-# source_id: nohayonline:0a086b9290198480c0a8
-# source_url: https://www.nohayonline.com/details_content.php?id=1854
-# raw_sha256: d82a42d8a69d3207b68e45c0ef2067595a340d4a523e649fbd58c7176e515ef9
-# source_id: tajpoints:46bf13790a9f6178964f
-# source_url: https://tajpoints.com/2023/08/abbas-se-kehna-hai-ali-jee-lyrics-in.html
-# raw_sha256: 3880b9e7ab88ce5408ebe00fe1597cad4e8d93aa213e3dcc48306ed4537f3c42
 ---
 
 اے عشقِ حسینی مجھے ایجاز دکھا دے

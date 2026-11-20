@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Dene ko pehra dasht-e-bayaabaṅ meiṅ Anis
   Misl-e-chacha phuphi bani baba nahiṅ aaye
-# source_id: nohayonline:a197ea10bc18f42eea18
-# source_url: https://www.nohayonline.com/details_content.php?id=3450
-# raw_sha256: 4097780df4fbb1fc9cce6cdbd586cfeeef6db98e30a0f84a7551b3c6ecf00fd0
 ---
 خیموں میں آگ لگ گئی بابا نہیں آے
 چادر پھپھی کی چھین لی بابا نہیں آے

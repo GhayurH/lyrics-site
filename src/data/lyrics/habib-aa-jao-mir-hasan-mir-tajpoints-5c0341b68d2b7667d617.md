@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5c0341b68d2b7667d617
-# source_url: https://tajpoints.com/2018/09/yeh-khat-mein-shah-ne-likha-habib-aa-jao.html
-# raw_sha256: 38c54369eed8b8db613a25f71d9571a64ce2792021b5a67b9e3af324d3e74adf
 ---
 
 1

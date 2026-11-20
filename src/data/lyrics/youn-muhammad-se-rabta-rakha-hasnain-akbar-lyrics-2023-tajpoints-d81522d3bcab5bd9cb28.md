@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d81522d3bcab5bd9cb28
-# source_url: https://tajpoints.com/2023/07/youn-muhammad-se-rabta-rakha-hasnain.html
-# raw_sha256: ab61e6f56230afcd3ae40b5f0363db5332e28e0153f198a91458697703f46dfe
 ---
 
 Youn Muhammad Se Rabta Rakha Hasnain Akbar.

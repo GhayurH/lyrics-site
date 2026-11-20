@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Majlis-e-Shabbir meiṅ nauha sunaata hai Ahsan
   Irtaza sun kar ye gham ki daastaaṅ rota raha
-# source_id: nohayonline:2c5230bd05b57f48d7d5
-# source_url: https://www.nohayonline.com/details_content.php?id=1470
-# raw_sha256: 69f14b02ce66fc9799f97d7caf3d2d6b2891b89a23b539219b11a0c733aaf6e7
 ---
 بے ردا بے آسرا اک کارواں روتا رہا
 کارواں کیا کارواں کا سارباں روتا رہا

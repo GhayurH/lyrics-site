@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f37dc9ec9ce803590ec5
-# source_url: https://tajpoints.com/2024/06/main-dukh-kiwein-suna-ghazi-lyrics-2024.html
-# raw_sha256: 70f35d255b3dc796811f464d78dc51ca4f5a6e9e3af0a34f5f06eedc915500f3
 ---
 
 1

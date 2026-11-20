@@ -8,9 +8,6 @@ poet: "Salamat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:9e01cd0bfbdcb80f68e6
-# source_url: https://tajpoint.com/baba-ik-baat-main-ab-tak-na-samaj-payi-hoon-lyrics/
-# raw_sha256: 61475054707221f87d170a58960cb15a890241ca01dbae1d9382508144c32192
 ---
 
 Baba Ik Baat Main Ab Tak Na Samaj Payi Hoon.

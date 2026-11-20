@@ -49,9 +49,6 @@ romanLyrics: |-
   10
   Kahaaṅ yeh Shaukat-e-alfaaz aur kahaaṅ mujh sa
   Qalam ki nok meiṅ hai yeh nikhaar Akbar ka
-# source_id: tajpoints:d48e35ec5dd59c083825
-# source_url: https://tajpoints.com/2023/02/yousuf-e-aal-e-muhammad-shehzada-ali.html
-# raw_sha256: 31d4901278c4b33de8ba27a28a41cdae8fce96e9be4bf3ddb321ab92ed885d05
 ---
 ۱
 جہانِ حسن میں ہے یہ وقار اکبر کا

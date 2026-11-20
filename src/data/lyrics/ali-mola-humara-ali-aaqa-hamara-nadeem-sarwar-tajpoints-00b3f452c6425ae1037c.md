@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:00b3f452c6425ae1037c
-# source_url: https://tajpoints.com/2023/01/ali-mola-humara-ali-aaqa-hamara-nadeem.html
-# raw_sha256: 4c71f9f61d3df66bae16948f99e6aaaed80be9de8e1352c0e70afe1d5b7b74fb
 ---
 
 1

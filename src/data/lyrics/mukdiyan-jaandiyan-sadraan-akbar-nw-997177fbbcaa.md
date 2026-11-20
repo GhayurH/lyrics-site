@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:997177fbbcaabf73166b
-# source_url: https://www.nohawriteups.org/mukdiyan-jaandiyan-sadraan-akbar/
-# original_html: snapshots/nohawriteups/original_html/997177fbbcaabf73166b.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/997177fbbcaabf73166b.json
-# api_content_sha256: c5f5e363572717cf8ce895456363d22d6bd9d6c1047657a85ab74becf4e44213
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mukdiyan Jaandiyan Sadraan Akbar Meriyaan

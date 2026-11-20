@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohayonline:29645ec7897c905ec83f
-# source_url: https://www.nohayonline.com/details_content.php?id=2498
-# raw_sha256: 1ada5d6b3819cfd978ce019bfd44c619a0ca7fb0109674d42ea6490dd0ee4c05
-# source_title_original: Sheh se bayan
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
-# editorial_warning: source Urdu HTML duplicates Roman; intentionally excluded
 ---
 
 sheh se bayan karti thi ye sughra

@@ -55,9 +55,6 @@ romanLyrics: |-
   Faizan ada haq-e-wafa kar gaye Abbas
   Bhai kaha Shabbir ko aur mar gaye Abbas
   Mesum raha ta der fazaoṅ meiṅ ye noha
-# source_id: nohayonline:a99f99dd1e635c5e0bf4
-# source_url: https://www.nohayonline.com/details_content.php?id=2516
-# raw_sha256: 5000f6e39a4d24d60634fe3d328e31f1f41243e0ee158e6140e1d22e59856383
 ---
 
 عباس میرے بھائی عباس میرے بھائی

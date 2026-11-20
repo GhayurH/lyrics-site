@@ -57,12 +57,6 @@ romanLyrics: |-
   salaam nana ke roze….
 
   ————————————————————-
-# source_id: nohawriteups:163eb3e67e6c121475d7
-# source_url: https://www.nohawriteups.org/salam-nana-ke-roze-nadeem-sarwar-noha-lyrics/
-# original_html: snapshots/nohawriteups/original_html/163eb3e67e6c121475d7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/163eb3e67e6c121475d7.json
-# api_content_sha256: 8467ad4ec8188fb8487ee2cd375568c83e934b70f06abc128f8f8677cc33899e
-# editorial_note: Unpublished source-faithful draft from approved valid roman+urdu; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 چلا میں وعدہ نبھانے سلام ماں کے مزار

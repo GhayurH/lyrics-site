@@ -64,9 +64,6 @@ romanLyrics: |-
   Gale laga ke dulaari ko Murtaza roye
   Ali ke saath Hasan aur Mustafa roye
   Tha dardnaak ae Waaiz wo bain Zainab ka
-# source_id: nohayonline:8e684b01b733ef139a68
-# source_url: https://www.nohayonline.com/details_content.php?id=3153
-# raw_sha256: ae6a4c9e0f1b07cdfd59a6f2d50db77c91427458fa58ccdcf4db68b987f4cd9c
 ---
 
 لپٹ کے باپ سے کہتی تھی ثانیٔ زہرا

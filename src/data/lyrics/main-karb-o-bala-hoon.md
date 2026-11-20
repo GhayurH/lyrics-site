@@ -8,14 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# Consecutive original pages consolidated in source order; original source provenance retained.
-# Original page headings / importer chunk numbers omitted; detailed stanza editing still pending.
-# source_id: tajpoints:25e29ce77c5dccc336f2
-# source_url: https://tajpoints.com/2020/04/main-karb-o-bala-hoon-page-1-lyrics-in.html
-# raw_sha256: e4e8e9ca74d426f646922923bcd3f33928295482401d508e982be810063399f7
-# source_id: tajpoints:8491b43f9ef625345b8c
-# source_url: https://tajpoints.com/2020/04/main-karb-o-bala-hoon-page-2-lyrics-in.html
-# raw_sha256: a6796e64fa3862f71a8ef0c989db57e45934414e95fd344cf187a28c63add52d
 ---
 
 Karbala Maut Ke Saye Ko Nigal Sakti Hai.

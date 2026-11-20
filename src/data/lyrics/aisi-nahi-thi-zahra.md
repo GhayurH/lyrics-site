@@ -51,9 +51,6 @@ romanLyrics: |-
   Chhora hai saath uska Ae ruh tu ne warna
   Baad-e-Rasul haye chhore Ali ko tanha
   Aisi nahiṅ thi Zahra
-# source_id: nohayonline:308b9bfa10419854a0eb
-# source_url: https://www.nohayonline.com/details_content.php?id=3130
-# raw_sha256: 6f6e03f0f750dbd33cfd653d931ac7763e0edcffc8d5380082a4db55373dbb4b
 ---
 دیکھو مدینے والوں زخمی ہے جس کا چہرہ
 ایسی نہیں تھی زہرا

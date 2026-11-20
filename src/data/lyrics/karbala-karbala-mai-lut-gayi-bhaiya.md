@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:25a82c43e6508aecf15c
-# source_url: https://www.ziyaraat.net/api/noha/2540
-# raw_sha256: 7a76596714c0ad85b7bb3f7257cd34cd85a455cc294948b15d48dc4e17628554
 ---
 
 Karbala karbala

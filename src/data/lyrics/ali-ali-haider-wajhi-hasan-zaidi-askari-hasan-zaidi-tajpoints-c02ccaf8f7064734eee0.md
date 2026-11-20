@@ -8,9 +8,6 @@ poet: "Dabeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c02ccaf8f7064734eee0
-# source_url: https://tajpoints.com/2021/03/ali-ali-haider-wajhi-hasan-zaidi-askari.html
-# raw_sha256: 7925907d83cbcb9bcf28f695c9a4e0ac588bb07cecabef8d9bdf9006c0ba3fe4
 ---
 
 Ali Ali Haider Wajhi Hasan Zaidi Askari Hasan Zaidi Lyrics

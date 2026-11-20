@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:07886b524f80dd460f6a
-# source_url: https://tajpoints.com/2017/02/alfaz-atta-hoon-mujhe-kuch-itne-asar-se.html
-# raw_sha256: d27ef0984f4a14c399fce1351370133e18959e1de994ef5384d4183450a905af
 ---
 
 1

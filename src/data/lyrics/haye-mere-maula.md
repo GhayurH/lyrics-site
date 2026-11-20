@@ -62,9 +62,6 @@ romanLyrics: |-
   Zainab ne ye kaha
   Sar dekh ke tera
   Haye haye mere baba
-# source_id: nohayonline:e64969d3b1b8ec731163
-# source_url: https://www.nohayonline.com/details_content.php?id=1330
-# raw_sha256: 489fd9d87207d0f5205e9ceb441d2d129b7ae53d1539776357fd288fa0a662c0
 ---
 
 ۱

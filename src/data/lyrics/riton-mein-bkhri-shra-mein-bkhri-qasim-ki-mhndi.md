@@ -8,9 +8,6 @@ reciter: "Dr. Aamir Rizvi"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c663d66b7aaae08fee5f
-# source_url: https://www.ziyaraat.net/api/noha/1255
-# raw_sha256: 77b20d02260ad20d3d0c15c0d099e9576dbce25ef9cd08b064e6bb7238a9b457
 ---
 
 ۱

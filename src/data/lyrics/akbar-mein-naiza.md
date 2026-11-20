@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Maiyyat-e-Akbar pe maaṅ ne yuṅ Zafar girya kiya
   Silsila rone rulane ka na tuta der tak
-# source_id: nohayonline:818cfb459309af50999f
-# source_url: https://www.nohayonline.com/details_content.php?id=1378
-# raw_sha256: 0a0f249692eb6fce0756e239821bef05d7a5a57b049d4b3d99bfadd1716c8801
 ---
 رہ گیا جب سینۂ اکبر میں نیزہ دیر تک
 موت سے لڑتا رہا لیلیٰ کا بیٹا دیر تک

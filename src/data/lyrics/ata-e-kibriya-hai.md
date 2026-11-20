@@ -69,9 +69,6 @@ romanLyrics: |-
   14
   Adil ab aur kya mujhko talab ho
   Zamin-e-Karbala hai aur maiṅ huṅ
-# source_id: nohayonline:b785856f8b53581f1c05
-# source_url: https://www.nohayonline.com/details_content.php?id=2172
-# raw_sha256: 54fe91a85100a0f314fb5cfbb5d6fe054aa18a6977bf6e2af2da3795570a772a
 ---
 عطاے کبریا ہے اور میں ہوں
 دعائے فاطمہ ہے اور میں ہوں

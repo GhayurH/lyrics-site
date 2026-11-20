@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:05fc7f3c249d052d7811
-# source_url: https://tajpoints.com/2023/05/nana-sughra-nu-raindiyaan-ne-tangaan.html
-# raw_sha256: 9705ff6c28cee3a2d8e118717099bd6f3231fe8a8a49b729008dd0713d2becd2
 ---
 
 1

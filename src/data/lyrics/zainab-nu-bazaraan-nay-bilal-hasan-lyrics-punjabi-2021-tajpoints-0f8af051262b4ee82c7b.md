@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f8af051262b4ee82c7b
-# source_url: https://tajpoints.com/2021/08/zainab-nu-bazaraan-nay-bilal-hasan.html
-# raw_sha256: 65d4f2d899d9026159714ee9d2d36c7f16594aacb5e148b93623489165b6c6f5
 ---
 
 Zainab Nu Bazaraan Nay Bilal Hasan.

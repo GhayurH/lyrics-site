@@ -62,9 +62,6 @@ romanLyrics: |-
   Maadar ki wo nasihat ghazi ko yaad aaye
   Abbas abbas abbas abbas
   Ghazi ko bachpane mein...
-# source_id: nohayonline:e0d0afc9c82523a52a26
-# source_url: https://www.nohayonline.com/details_content.php?id=2550
-# raw_sha256: 7cbee1a00b02e0ae9909c46bfc75c79d4317ba7bd77c179fed80e8fd5075dc2a
 ---
 
 ۱

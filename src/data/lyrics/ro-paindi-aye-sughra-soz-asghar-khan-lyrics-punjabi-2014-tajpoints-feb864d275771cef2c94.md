@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:feb864d275771cef2c94
-# source_url: https://tajpoints.com/2023/05/ro-paindi-aye-sughra-soz-asghar-khan.html
-# raw_sha256: 8845b6b9f0a1c2cdf10e6652ce6768b0ba206dc1154d02106a4d2d031630ec57
 ---
 
 1

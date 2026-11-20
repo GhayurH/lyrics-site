@@ -56,12 +56,6 @@ romanLyrics: |-
   Mai bali sakina ka azadar hoo rehaan
 
   Nauhe ka har ek sher sakina ki ata hai
-# source_id: nohayonline:bb57b34e0567eccb362a
-# source_url: https://www.nohayonline.com/details_content.php?id=684
-# raw_sha256: c7b958f93f7574aea490ec0e9f204d8a413ca131650347e4450d0f5bdfdf2111
-# source_id: ziyaraat:a123e9f6e4b6b1d011e6
-# source_url: https://www.ziyaraat.net/api/noha/875
-# raw_sha256: 303233a2c9a7ceee55e9c32e3e4c361324e127eee559fd75b7f7d4696391eb54
 ---
 زنداں ہے سکینہ ہے اندھیرا ہے جفا ہے
 کیا قبر کا منظر ہے اُجالا نہ ہوا ہے

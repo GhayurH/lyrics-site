@@ -63,9 +63,6 @@ romanLyrics: |-
   Aamir o Shams dekho ye taarikh ne likha
   Maaṅ ki lahad pe jaa ke ye Zainab ne phir kaha
   Apne jigar ke tukroṅ ko royi na umr bhar
-# source_id: nohayonline:c3a5484d76aa6e208ae9
-# source_url: https://www.nohayonline.com/details_content.php?id=2434
-# raw_sha256: e31a4bbb3e06c2b543c3b7af5dfbf29cc721080cb4183e69134d86c06867de5c
 ---
 سر کو جھکائے کہتے ہیں زینب کے یہ پسر
 آپ کی قسم اماں آپ کی قسم

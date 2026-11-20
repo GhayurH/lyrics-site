@@ -77,12 +77,6 @@ romanLyrics: |-
   Mashkiza alam meiṅ hai laga dekh le ab bhi
   Parcham ka mere kaam hai dunya ko bataana
   Pyasi hai Sakina
-# source_id: nohayonline:c9dc830a3544bc137a4d
-# source_url: https://www.nohayonline.com/details_content.php?id=2379
-# raw_sha256: fe136ffcde4360f513d42ed1b1de9a27d8484c2f581f5e6075161c638cb614ba
-# source_id: ziyaraat:689e068cc8714bf0ded6
-# source_url: https://www.ziyaraat.net/api/noha/2479
-# raw_sha256: 3b896e488620d199563ea4d76447889065228a8774701c7a63df7e82f563c1f0
 ---
 اے بادِ صبا جا کے یہ عمو کو بتانا
 پیاسی ہے سکینہ

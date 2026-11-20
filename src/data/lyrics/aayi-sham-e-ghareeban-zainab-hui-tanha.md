@@ -47,12 +47,6 @@ romanLyrics: |-
   Ahmed bayan karta hai karbal ke waqiyaat
   Mohsin jigar ko thaam ke padta hai marsiya
   Aayi shaam e ghariban....
-# source_id: nohayonline:c9268b6e9a1ab8b630ea
-# source_url: https://www.nohayonline.com/details_content.php?id=1750
-# raw_sha256: f1f70ef49100cde6dd751b90b25e709e5b1801948a84bef633dfea581b0a8e4a
-# source_id: ziyaraat:ef38c4037eb56ae8a939
-# source_url: https://www.ziyaraat.net/api/noha/1896
-# raw_sha256: 9fe0518a3c2f42d73f49b43b9e00956afb28e0c0a2459ccbc28d494a5c88132f
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Salamat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:490bf0bc01f93d3e1bb0
-# source_url: https://tajpoints.com/2023/06/dum-mera-ghutne-laga-rasiyaan-khole-koi.html
-# raw_sha256: a57ab147ff84064fddde168a0666350e78c710c60cc88d210a51b7bdf177e228
 ---
 
 1

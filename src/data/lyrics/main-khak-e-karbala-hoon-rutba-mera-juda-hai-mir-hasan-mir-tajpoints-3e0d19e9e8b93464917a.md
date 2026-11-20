@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3e0d19e9e8b93464917a
-# source_url: https://tajpoints.com/2017/02/main-khak-e-karbala-hoon-rutba-mera.html
-# raw_sha256: 47ccb032db0a342e7750abdbc9a33ed6d46da419695f5fe3ea9befca72472a80
 ---
 
 1

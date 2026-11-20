@@ -44,10 +44,6 @@ romanLyrics: |-
   8
   Parh ke kehta hai ye Aamir ae Shanawar lauh par
   Likho na mazlumoṅ ki majburiyaṅ ab rehne do
-# editorial_uncertainty: Archived stanza seven has Roman yateema/ghudkiyan against Urdu یتیمی/کھڑکیاں; stanza two has ہے against Roman hai (existing haiṅ). Disputed readings retained pending audio/print review.
-# source_id: nohayonline:80085dab8e9429b0fab3
-# source_url: https://www.nohayonline.com/details_content.php?id=1273
-# raw_sha256: 465cd87569ac2951b343391ec9ff93e70f3230f8305204ba4b5a33240d4c6c13
 ---
 شامیوں زہرا کی ہیں یہ بیٹیاں اب رہنے دو
 کر چکے ان پر بہت ہی سختیاں اب رہنے دو

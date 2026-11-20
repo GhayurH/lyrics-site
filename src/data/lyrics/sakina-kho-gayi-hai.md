@@ -74,9 +74,6 @@ romanLyrics: |-
   Boli Zehra Sakina bahut thak chuki
   Sun sun kar ye uthti hai
   Tu jab bhi ye kehti hai
-# source_id: nohayonline:051c2d9ecd6cfb30fbc9
-# source_url: https://www.nohayonline.com/details_content.php?id=1823
-# raw_sha256: 4752639334494f71689d1a074a2a71ff6f236432827dacda0f8c99d4ff1513f8
 ---
 چلتے چلتے راہ میں جب رک گیا سرور کا سر
 شام کے اک موڑ پر

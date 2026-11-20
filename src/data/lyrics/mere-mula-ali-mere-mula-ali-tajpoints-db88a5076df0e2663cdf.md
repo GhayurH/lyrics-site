@@ -8,9 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:db88a5076df0e2663cdf
-# source_url: https://tajpoints.com/2018/01/mere-mula-ali-mere-mula-ali.html
-# raw_sha256: b12af1dde58190f74e6b2e6babd628cde7486b33c064948076baac629ff3c96e
 ---
 
 1

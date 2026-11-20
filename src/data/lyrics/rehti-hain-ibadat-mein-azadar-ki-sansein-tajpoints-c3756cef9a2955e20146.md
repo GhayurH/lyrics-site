@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c3756cef9a2955e20146
-# source_url: https://tajpoints.com/2018/01/rehti-hain-ibadat-mein-azadar-ki-sansein.html
-# raw_sha256: 6e52669e25939487134fe4628c75a762c9ac934cb5d757530f1bd9bf540b8855
 ---
 
 1

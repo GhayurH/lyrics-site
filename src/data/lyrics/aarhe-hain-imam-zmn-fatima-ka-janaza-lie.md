@@ -57,12 +57,6 @@ romanLyrics: 'Aare hain Imam e Zaman, Fatima ka janaza liye,
   Hai Mujeeb aur Razi ki fughan, kyun na kaanpe ye arzo sama,
 
   Uthre marqad me Shaahe Zaman, Fatima ka janaza liye.'
-# source_id: ziyaraat:af6f0ecd6f195c8fd131
-# source_url: https://www.ziyaraat.net/api/noha/2276
-# raw_sha256: 0a5c2f5156d76f1f11665d6047566ebd3b1f0ddfb34f0dcad2f35b2205b831f0
-# source_id: ziyaraat:e1f1f96f5fcdeeb73fd1
-# source_url: https://www.ziyaraat.net/api/noha/1979
-# raw_sha256: a72a4d6a4c396ced47385b72dc1b8d202992e112bda51547437079bb2380ef31
 ---
 
 آرہے ہیں امام زمن فاطمہ کا جنازہ لئے

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b203b6fdc210a6b08157
-# source_url: https://tajpoints.com/2018/05/paish-e-rab-nazar-aayi-oss-ki-zaat.html
-# raw_sha256: 3559d5085e8495f4bae2f1e6ad452c87aed2f833eb1dc4e87bef526467fbadf8
 ---
 
 1

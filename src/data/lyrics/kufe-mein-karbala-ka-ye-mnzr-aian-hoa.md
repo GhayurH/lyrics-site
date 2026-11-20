@@ -8,12 +8,6 @@ poet: "Rehan Azmi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1c80f5931fd10403ce1e
-# source_url: https://www.ziyaraat.net/api/noha/2022
-# raw_sha256: 247db42543804714476716ae929952dec25afba8b9d7db902d64dacb6e2cfd36
-# source_id: ziyaraat:5efa2c6fb217582eef2a
-# source_url: https://www.ziyaraat.net/api/noha/2295
-# raw_sha256: 4def3e7a966ccc56b314656cd7bf7eac8a9cabe04d2c3e7c3a5ea69e97ee435d
 ---
 
 Koofay may Karbala ka ye manzar ayaan hua

@@ -63,9 +63,6 @@ romanLyrics: |-
   Ghar jaati kis tarah se Zainab bhi Shaam meiṅ hai
   Lagta hai ye Takallum bint-e-Ali ke sar par
   Ab tak hai tera saaya
-# source_id: nohayonline:1fcc8ec51f31cb40b873
-# source_url: https://www.nohayonline.com/details_content.php?id=2422
-# raw_sha256: 758d1e911ea7d925826f051b004fa675f1e54be5c418a498e7a5effe0ff06bcc
 ---
 
 فضہ تیری وفا کو غازی کا سلام آیا

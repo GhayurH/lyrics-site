@@ -66,9 +66,6 @@ romanLyrics: |-
   Shaadmaaṅ god meiṅ rakhe tha qamar ko raahib
   Bain kehta tha yehi chum ke sar ko raahib
   God meiṅ chaand ka tukra ye meri soya hai
-# source_id: nohayonline:99422267cd189ffa9032
-# source_url: https://www.nohayonline.com/details_content.php?id=2612
-# raw_sha256: 522e34a5fcf8e3064f1efc317f615385e8abb4144653f9cf7e59b925ac4effea
 ---
 دایر راحب میں جو سرور کا کٹا سر آیا
 نور چہرے کا جو دیکھا تو بہت گھبرایا

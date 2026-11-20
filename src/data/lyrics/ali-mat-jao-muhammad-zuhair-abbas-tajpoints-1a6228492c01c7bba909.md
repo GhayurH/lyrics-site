@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a6228492c01c7bba909
-# source_url: https://tajpoints.com/2022/04/ali-mat-jao-muhammad-zuhair-abbas.html
-# raw_sha256: 9a6f69e87763d6f91018a11258246fad200c4d03157a9ade8037a50cce28a967
 ---
 
 1

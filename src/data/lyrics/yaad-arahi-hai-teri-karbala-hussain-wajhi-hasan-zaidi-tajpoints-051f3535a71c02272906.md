@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:051f3535a71c02272906
-# source_url: https://tajpoints.com/2026/06/yaad-arahi-hai-teri-karbala-hussain.html
-# raw_sha256: bb5261170901e4867bf74a103e45a2af431fcca949b1172f5ed5c5b8959ea0c6
 ---
 
 Waqt Ka Hussain Ro Raha Hai Ya Hussain.

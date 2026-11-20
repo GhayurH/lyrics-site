@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:40e4743f52bdccb77e64
-# source_url: https://tajpoints.com/2023/06/haye-sughra-da-veer-mila-dadi-lyrics-in.html
-# raw_sha256: 5420dd8f306a843ec12e49a99fbaa02969361e465dc2cd23dba582b487a45e71
 ---
 
 Haye Sughra Da Veer Mila Dadi

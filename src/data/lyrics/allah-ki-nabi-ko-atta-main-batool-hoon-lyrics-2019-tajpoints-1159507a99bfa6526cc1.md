@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1159507a99bfa6526cc1
-# source_url: https://tajpoints.com/2019/02/allah-ki-nabi-ko-atta-main-batool-hoon.html
-# raw_sha256: d8433951779f8a61732fcb69a84f729dbfd247b7f93bdb0726172a7310d88e2f
 ---
 
 Allah Ki Nabi Ko Atta Main Batool Hoon.

@@ -8,12 +8,6 @@ poet: "Shakeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2ba98704c59f4d9c805f
-# source_url: https://tajpoints.com/2022/04/chehra-lahu-se-baba-ka-tar-hai-syed-ali.html
-# raw_sha256: ccd665257b554ff3dd244dd1687f919455a6a2300f98e1105955701a744f3574
-# source_id: tajpoints:0b729ca5b18b4d82ac8c
-# source_url: https://tajpoints.com/2022/04/sher-e-khuda-par-chal-gai-talwar-syed.html
-# raw_sha256: f2433708e6ae6993a941eb161072d8ec226ee785248a22ade873b0ab76372e55
 ---
 
 Chehra Lahu Se Baba Ka Tar Hai Syed Ali Naqvi.

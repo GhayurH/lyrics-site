@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:75fe2dec355d7ac0ebb4
-# source_url: https://www.nohawriteups.org/rab-janay-kevain-lungiyan-nay-sajjad-diyan-ghariyaan/
-# original_html: snapshots/nohawriteups/original_html/75fe2dec355d7ac0ebb4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/75fe2dec355d7ac0ebb4.json
-# api_content_sha256: 00122eacf4bf321c46986c7cf9a9cc1262f3b13e9401fef5441ad36d55059d55
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Rab Janay Kevain, Lungiyan Nay Sajjad Diyan Ghariyaan

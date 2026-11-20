@@ -72,9 +72,6 @@ romanLyrics: |-
   Aal-e-Nabi ko dasht meiṅ paani nahiṅ mila
   Girya kunaṅ hai khuld meiṅ Zahra o Murtaza
   Aati hai Karbala se Mohsin yehi sada
-# source_id: nohayonline:970208e7e706a020f05e
-# source_url: https://www.nohayonline.com/details_content.php?id=2465
-# raw_sha256: a94a62543181a3e2f4b1eceeb2997a9f982b8d33cd307bfdcfcd80501032c64d
 ---
 فرزند پیمبر پہ وہ عاشور کی رات
 منہ چھپانے لگی گھبرانے لگی نہر فرات

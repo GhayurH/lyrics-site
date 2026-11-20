@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1c7d3da39e8367eaa26e
-# source_url: https://tajpoints.com/2022/02/nohon-mein-qasidon-mein-hai-naton-mein.html
-# raw_sha256: 2bdef41589da096e0231d219f4f6f4cc7fcfebba486ecd883beb3a84446b65bb
-# source_title_original: Nohon Mein Qasidon Mein Hai Naton Mein Sakina 2022
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Nohon Mein Qasidon Mein Hai Naton Mein Sakina

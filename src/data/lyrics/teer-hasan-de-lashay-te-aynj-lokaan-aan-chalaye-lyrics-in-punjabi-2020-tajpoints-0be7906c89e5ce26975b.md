@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0be7906c89e5ce26975b
-# source_url: https://tajpoints.com/2020/10/teer-hasan-de-lashay-te-aynj-lokaan-aan.html
-# raw_sha256: 28459cc067de25441621f5045e26b7b50d827ce38ed2b6808be609c41b6e149d
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Alam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9894f8b7244f3646ce39
-# source_url: https://tajpoints.com/2020/03/qabool-ho-yeh-dua-meri-aye-khuda-e.html
-# raw_sha256: ec081ae1645f7b17f455bb51f7f82c856e39a5e4291fcad477ccf7d2c6dd2777
 ---
 
 1

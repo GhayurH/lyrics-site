@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2a20c22b86ed684d0b34
-# source_url: https://www.nohawriteups.org/allah-janey-sain-zehra-kivay/
-# original_html: snapshots/nohawriteups/original_html/2a20c22b86ed684d0b34.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2a20c22b86ed684d0b34.json
-# api_content_sha256: e08d937f119f148383ec1f2009a2fc9452021d9c409b32c338a5efa0b131129e
 ---
 
 Allah Janey Sain Zehra Kivay Darbaar Gayi

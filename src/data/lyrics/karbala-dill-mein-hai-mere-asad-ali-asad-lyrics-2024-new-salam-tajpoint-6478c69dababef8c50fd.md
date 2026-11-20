@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:6478c69dababef8c50fd
-# source_url: https://tajpoint.com/karbala-dill-mein-hai-mere-asad-ali-asad-lyrics-2024/
-# raw_sha256: d039151c931e71723a787bd911a5960802b71e2cb8c5a1a0c0612aed88b1a46a
 ---
 
 Karbala Dill Mein Hai Mere Dil Azza Khane Mein Hai.

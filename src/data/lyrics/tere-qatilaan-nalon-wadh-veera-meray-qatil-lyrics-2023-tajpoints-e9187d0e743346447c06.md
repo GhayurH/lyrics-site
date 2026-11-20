@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e9187d0e743346447c06
-# source_url: https://tajpoints.com/2023/09/tere-qatilaan-nalon-wadh-veera-meray.html
-# raw_sha256: a56d3f392493a008bca34ff28a0486ea5cd4eb1d063ba3f9867ec41a9b771d93
 ---
 
 1

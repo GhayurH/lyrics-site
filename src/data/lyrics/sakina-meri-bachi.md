@@ -87,9 +87,6 @@ romanLyrics: |-
   Safar jo Shaam ka tha kis tarah ho us ka bayaaṅ
   Gala rasan meiṅ tha bachchi ke lab pe aah o fughaaṅ
   Tarap raha tha sar-e-naizara se Shah-e-zamaaṅ
-# source_id: nohayonline:5a84fe6e97a67f9966f7
-# source_url: https://www.nohayonline.com/details_content.php?id=2495
-# raw_sha256: debc143135d4b5129fb5af3cddb8abbb697cf753c86c21d023c80f4e67625ba8
 ---
 سفر میں حال غریبوں کا کیا ہوا تھا سنو
 رسن تھی اک گلے اس میں بارہ تھے لوگوں

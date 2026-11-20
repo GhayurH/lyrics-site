@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5a81f5831406a2fd147f
-# source_url: https://tajpoints.com/2022/01/fatima-kon-hai-mir-hasan-mir-lyrics-in.html
-# raw_sha256: f8e273fda48a14d11df085094ee75ca9815f4794dcc1e9447f581c02a47400c9
 ---
 
 Fatima Kon Hai Mir Hasan Mir Lyrics

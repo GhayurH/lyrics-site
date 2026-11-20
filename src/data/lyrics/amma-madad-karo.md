@@ -52,9 +52,6 @@ romanLyrics: |-
   Zainab jo mujhse poochegi kya mai bataungi
   Mujhse na hogi tum hi shahadat karo bayaṅ
   Amma madad karo...
-# source_id: nohayonline:efe45a7de7bd1b07d5ab
-# source_url: https://www.nohayonline.com/details_content.php?id=3181
-# raw_sha256: f4ecb9070435160f05001b7cb8f35f857b388408dbda3fa735b0b859f44fb2cd
 ---
 
 ۱

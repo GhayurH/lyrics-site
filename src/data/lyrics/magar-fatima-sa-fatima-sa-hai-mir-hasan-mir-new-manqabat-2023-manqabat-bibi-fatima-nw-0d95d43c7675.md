@@ -9,15 +9,6 @@ reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:0d95d43c7675f6881d06
-# source_url: https://www.nohawriteups.org/magar-fatima-sa-fatima-sa-hai-mir-hasan-mir-new-manqabat-2023-manqabat-bibi-fatima-sa-2023-lyrics/
-# original_html: snapshots/nohawriteups/original_html/0d95d43c7675f6881d06.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/0d95d43c7675f6881d06.json
-# api_content_sha256: d32afb4577efa55c5231238164e157040a52e7ebc5467c01f720e1b120f8c0b8
-# editorial_note: Matching cross-source Roman versions consolidated; retained source variants require editorial transliteration checks. Unpublished.
-# source_id: tajpoints:2be06ff6be24e40bbb81
-# source_url: https://tajpoints.com/2023/01/magar-fatima-fatima-hai-mir-hasan-mir.html
-# raw_sha256: 8dad3d2fdab0cc4e9abd7d63986f935a17e2e332ec76021afa749bd57f9600a7
 ---
 
 Ya Fatima.. Ya Fatima..

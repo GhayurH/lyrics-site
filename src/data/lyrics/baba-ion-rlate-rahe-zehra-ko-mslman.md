@@ -8,9 +8,6 @@ reciter: "Katri Bawa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:457f14530335fa2a1a27
-# source_url: https://www.ziyaraat.net/api/noha/2512
-# raw_sha256: 8c3cdc871bb84dcb6fdcfdfc27ac899f869c3febfb4dbcbee55b27c3fc6d1cb9
 ---
 
 Baba yun rulatay rahe Zahra ko musalman

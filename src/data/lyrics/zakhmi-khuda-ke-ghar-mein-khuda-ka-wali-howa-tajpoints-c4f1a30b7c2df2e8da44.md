@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c4f1a30b7c2df2e8da44
-# source_url: https://tajpoints.com/2023/04/zakhmi-khuda-ke-ghar-mein-khuda-ka-wali.html
-# raw_sha256: 22fcc4bea43c1ab728881a4aa74aed0ad159a3b36e25de524bf211df2f8bb3cf
 ---
 
 Zakhmi Khuda Ke Ghar Mein Khuda Ka Wali Howa.

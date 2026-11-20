@@ -63,13 +63,6 @@ romanLyrics: |-
   Kata Shabbir ka sar Faatima Zehra ki jholi meiṅ
   Husain ibn-e-Ali kehte rahe chalta raha khanjar
   Bas ab ammaaṅ chali jaao
-# source_id: nohayonline:57771a71746411865318
-# source_url: https://www.nohayonline.com/details_content.php?id=1307
-# raw_sha256: f7c32dfc3fac6cc69e1d44776b5c673bd33f149e13bdcb0e1cac3587bde44da5
-# source_id: tajpoints:41c07fc1c3964be671fe
-# source_url: https://tajpoints.com/2022/10/maqtal-e-hazrat-imam-hussain-bas-ab.html
-# raw_sha256: f244aa6609d419b921b61bf687b5966edf3ef5e355304cdf5d42dba4eca17006
-# editorial_note: Tajpoints "Bas Ab Amma Chali Jao" draft repeats all seven stanzas of the published bilingual version; variant spellings were not substituted.
 ---
 اپنے نزدیک جو زہرا کو تڑپتا دیکھا
 جوڑ کر ہاتھ حسین ابنِ علی نے یہ کہا

@@ -34,9 +34,6 @@ romanLyrics: |-
   4
   Maalik ki mashiyat ki hai takhliq ye insaan
   Zehra ki mashiyat ki hai takhliq ye azaadaar
-# source_id: nohayonline:713629f74bf7f301dde9
-# source_url: https://www.nohayonline.com/details_content.php?id=2338
-# raw_sha256: 6d327e71976aaa9411475aced2e435442f5984821c427def85d29adffa0a96fa
 ---
 حی علیٰ خیر العمل
 

@@ -63,9 +63,6 @@ romanLyrics: |-
   Ro ke kehti thi Sakina ye Kumail o Aamir
   Kitna dushwaar hai jina ye Kumail o Aamir
   Meri taqdir se har ranj o mihan aan mila
-# source_id: nohayonline:1b1ea55800e5c63d2d60
-# source_url: https://www.nohayonline.com/details_content.php?id=2791
-# raw_sha256: 09017b014bac6b7bcdc96a1c865f1994230da2968f8453088ee4ad2fe0ca62dd
 ---
 قید جب شام کے زنداں میں ہوئے آلِ عبا
 بیبیاں شام و سحر رہتی تھی مصروفِ عزا

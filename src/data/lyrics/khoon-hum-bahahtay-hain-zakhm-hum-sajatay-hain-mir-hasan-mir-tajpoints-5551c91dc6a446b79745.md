@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5551c91dc6a446b79745
-# source_url: https://tajpoints.com/2018/04/khoon-hum-bahahtay-hain-zakhm-hum.html
-# raw_sha256: 0311f57b8c0779ed7b0c6d6ec2d35a46cb32920d6b73395c25168f6995625ec1
 ---
 
 1

@@ -55,12 +55,6 @@ romanLyrics: |-
   Kehta tha Takallum wo himmat jo meri hoti
   Khud apne hi haathoṅ se maiṅ khinchta ye barchhi
   Taklif nahiṅ apni hai dard mujhe is ka
-# source_id: nohayonline:6fb6cd82043fb2ea1534
-# source_url: https://www.nohayonline.com/details_content.php?id=295
-# raw_sha256: 2f105fa8162801a8518b0ff52286cf54e78c21995de14fedb1b28ee7979c94ea
-# source_id: tajpoints:90d3fca675c6927f18d2
-# source_url: https://tajpoints.com/2020/06/akbar-ne-kaha-ro-kar-lyrics-in-urdu-and.html
-# raw_sha256: 4116ac80e0d68cf6489f7fcd0dbd255a25eb22dee8ada58fec2e341919b2ae20
 ---
 شبیہِ امامِ زماں کھینچتے ہیں
 تصور میں تصویرِ جاں کھینچتے ہیں

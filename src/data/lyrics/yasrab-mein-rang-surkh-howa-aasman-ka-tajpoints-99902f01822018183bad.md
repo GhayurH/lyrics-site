@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:99902f01822018183bad
-# source_url: https://tajpoints.com/2023/09/yasrab-mein-rang-surkh-howa-aasman-ka.html
-# raw_sha256: af2b9982c60e0422c20501d2b9b86b60c46b3514242e991e8fb3c66bbf2e65d7
 ---
 
 Yasrab Mein Rang Surkh Howa Aasman Ka.

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:475bc3924e1686eb32b5
-# source_url: https://www.ziyaraat.net/api/noha/2875
-# raw_sha256: d0f73b7d5e09a25deeb6695edb7e79f16f70c2a28d51e0a3f81e807bacde9081
 ---
 
 موسیٰءِ کاظمؑ پہ گِریہ کرتی ہے زنجیر بھی

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:0bcd9fea1a03ca6e326e
-# source_url: https://www.ziyaraat.net/api/noha/2130
-# raw_sha256: 7f1cb183bb448c6d90dbf7e3d06c782c983ad24056f1c9cf3345daddc5a47147
 ---
 
 Gar Fazeelat Rasool-Zaadi Ki Zehen E Insaan Mein Sama Jaati

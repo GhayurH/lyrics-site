@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c678f1206e9ef2853797
-# source_url: https://tajpoints.com/2024/09/asghar-pyare-asghar-pyare-ahmad-timsaal.html
-# raw_sha256: 18cf63b5589187e1384e984034d2dad33bf4bc818f44a63ebc951faa42034359
 ---
 
 1

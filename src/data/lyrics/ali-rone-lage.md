@@ -53,9 +53,6 @@ romanLyrics: |-
   Kiuṅ ali ki aankh se hote rahe aansu rawaṅ
   Bas wo samjhega khuda ne di hai jis ko betiyaṅ
   Dil tarap kar reh gaya jab ye suna zishan se
-# source_id: nohayonline:1c5b0d43d4e3bc8367d6
-# source_url: https://www.nohayonline.com/details_content.php?id=3183
-# raw_sha256: 6baf7ec828fabfbbfd3c5fa3e99364b9dc860153d6b377168ef393df75a7a40c
 ---
 رونے والوں رونے والوں
 دیکھ کر بیٹی کے آنسوں خود بھی رو جاتا ہے باپ

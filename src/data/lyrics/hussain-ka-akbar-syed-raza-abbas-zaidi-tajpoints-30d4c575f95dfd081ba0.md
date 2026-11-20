@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:30d4c575f95dfd081ba0
-# source_url: https://tajpoints.com/2021/03/hussain-ka-akbar-syed-raza-abbas-zaidi.html
-# raw_sha256: bccd4b91e49431acda50275ed0545e985a65ce91a5bc47ea4aa6be0392e5619a
 ---
 
 Hussain Ka Akbar Syed Raza Abbas Zaidi

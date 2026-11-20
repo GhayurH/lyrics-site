@@ -50,9 +50,6 @@ romanLyrics: |-
   Dil pe Laila ke aafat ki barchhi lagi
   Phir bhi sajde meiṅ Allah ke jhuk gayi
   Umm-e-Laila si maaṅ koi hai hi nahiṅ
-# source_id: nohayonline:f11a818532da8086ad41
-# source_url: https://www.nohayonline.com/details_content.php?id=3517
-# raw_sha256: db0439a9a4b83ed74756a00e536b5b61cbd821c98688f1fff011b643b96e454b
 ---
 
 کربلا جیسی عالم کی تاریخ میں

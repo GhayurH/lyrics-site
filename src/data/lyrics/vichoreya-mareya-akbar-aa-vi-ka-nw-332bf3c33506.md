@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:332bf3c33506840bebf3
-# source_url: https://www.nohawriteups.org/vichoreya-mareya-akbar-aa-vi-ka/
-# original_html: snapshots/nohawriteups/original_html/332bf3c33506840bebf3.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/332bf3c33506840bebf3.json
-# api_content_sha256: 3f2a1393ee54d8e7e11e1fe4fcb0937eb206624972aa8215e89e94a64d9438cb
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Vichoreya Mareya Akbar Aa Vi Ja

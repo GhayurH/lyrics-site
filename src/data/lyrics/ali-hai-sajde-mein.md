@@ -10,9 +10,6 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:4bc52cf519b2d7bbf2f5
-# source_url: https://www.nohayonline.com/details_content.php?id=3330
-# raw_sha256: 45e914d96a225872dfa72d8f52ea072500cf2a3bd494af513914ad7a3e30db09
 romanLyrics: |-
   Ali hai sajde meiṅ tar khun meiṅ peshani hai
   Zamiṅ se ta ba falak chhayi pareshani hai

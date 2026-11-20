@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:648dc2f77db80de8a8ce
-# source_url: https://tajpoints.com/2026/07/dou-ghari-bus-ankh-bhar-ky-dekh-lun.html
-# raw_sha256: 87845fa05b5099e9260e029121526bef04340ef1578334f2733051ada8808816
 ---
 
 1

@@ -121,9 +121,6 @@ romanLyrics: |-
   Bismillah Alamdar Bismillah Alamdar
   Alamdar Alamdar Alamdar
   Alamdar Alamdar Alamdar
-# source_id: nohayonline:858ba5da80ce67524dfa
-# source_url: https://www.nohayonline.com/details_content.php?id=2706
-# raw_sha256: 3b43570a82e5a27d78a80482bc599428a9ac9861b001dc97c70da0bfd8e8814b
 ---
 صبحِ عاشور پکارے یہ شہ کربوبلا
 کہاں ہو بازوے شبیر سکینہ کے چچا

@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:547d2ea65f9ff439b549
-# source_url: https://tajpoints.com/2026/10/zakhmi-hai-bibi-zehra-hammad-nagri.html
-# raw_sha256: b295c8fb924dcf679b2ab220090120cbbd87e10510c9681a88403cc797291c2c
-# source_title_original: Zakhmi Hai Bibi Zehra Hammad Nagri Lyrics In Urdu 2026
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Zakhmi Hai Bibi Zahra Sun Lo Shah-e-Madina

@@ -89,9 +89,6 @@ romanLyrics: |-
   Shabbir ki aankhoṅ meiṅ Qamar phir gaya manzar
   Larzish thi har ek tukre meiṅ kuchla hua tan tha
   Shabbar ka kaleja tha ke Qasim ka badan tha
-# source_id: nohayonline:ed9ebb9bd1c83a9352a5
-# source_url: https://www.nohayonline.com/details_content.php?id=1574
-# raw_sha256: 74f00b8414bf7472af09a0ec771fd4b686b7ba39a2ddb41c71d43ce81eea5782
 ---
 قاسم جو گرے گھوڑے سے تھا موت کا پہرا
 تھا خون میں ڈوبا ہوا وہ چاند سا چہرہ

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:227d88d2bb6bb6d3c9dc
-# source_url: https://tajpoints.com/2019/12/rabba-bach-jaway-bach-jaway-veer.html
-# raw_sha256: d6c9d866504310d29f67346f6aa80c4f65cc7d6ef6b3feb61bd0479c97734a38
 ---
 
 1

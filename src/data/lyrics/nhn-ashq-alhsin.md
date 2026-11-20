@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:9ba12ea6a66912bcc875
-# source_url: https://www.ziyaraat.net/api/noha/1712
-# raw_sha256: aa90e4dd2d27a41bede2560bd34a89d0d81a2bd44a4c61074e1146c7a41055fd
 ---
 
 QALA JADD-UL-HUSSAIN (Sallallaho alaih-e-wa aalayhi wa sallam):“INNA LI MAHABBATIL HUSSAIN FI QULOOBIL MOMINEEN HARARATAL LA TABRUDOO ABADA”

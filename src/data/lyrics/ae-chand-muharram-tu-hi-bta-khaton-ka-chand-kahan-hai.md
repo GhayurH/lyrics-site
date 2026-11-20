@@ -40,10 +40,6 @@ romanLyrics: |-
   8
   Tanveer utha ke haathon mein, Sayyid ne sawaal-e-aab kiya
   Tum bhi ho musalmaan reham karo, Asghar ki khushk zubaan hai
-# editorial_note: "Roman stanza 7 manually transliterated from the additional Urdu-only verse; Tanveer/Asghar opening in stanza 8 differs across witnesses. Final reading verification required."
-# source_id: ziyaraat:52478756168731062413
-# source_url: https://www.ziyaraat.net/api/noha/597
-# raw_sha256: 26f0c8214f752a3178428043abec1cdbe56f833e5458fa02b6f96abde2869ccb
 ---
 
 اے چاند محرم تو ہی بتا خاتون کا چاند کہاں ہے

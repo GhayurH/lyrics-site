@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:77bb8d87fe9a440d14af
-# source_url: https://tajpoints.com/2025/10/asghar-ka-sadqa-dijiye-ya-bibi-sakina.html
-# raw_sha256: 51b4c4620d505aa603742f5e075b552bb5a6c7abc652ef901bd9def64448aab3
 ---
 
 1

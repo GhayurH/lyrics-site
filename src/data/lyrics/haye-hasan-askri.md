@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:449b68099ea7d68d37c7
-# source_url: https://www.ziyaraat.net/api/noha/2741
-# raw_sha256: 51bcaf87ba513d78a469d85487a96de7ee8f842226339a5e347d733782e895be
 ---
 
 HAYE HASAN ASKARI

@@ -8,9 +8,6 @@ poet: "Ajmal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:be436f2be3e28f41e1b3
-# source_url: https://tajpoints.com/2023/05/haye-haye-mazloom-imam-ali-kabir-ajmal.html
-# raw_sha256: 5353945a0cd21ba7783e0a869f38b631ce93b363b783d9f463ef689e28627074
 ---
 
 1

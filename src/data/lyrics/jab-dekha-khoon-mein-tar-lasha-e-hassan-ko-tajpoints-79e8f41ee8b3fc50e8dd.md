@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:79e8f41ee8b3fc50e8dd
-# source_url: https://tajpoints.com/2017/02/jab-dekha-khoon-mein-tar-lasha-e.html
-# raw_sha256: 82b96e7cd64bcfe3fe90371d7fed38965ef6d8351a420156330d0860d906cdfe
 ---
 
 1

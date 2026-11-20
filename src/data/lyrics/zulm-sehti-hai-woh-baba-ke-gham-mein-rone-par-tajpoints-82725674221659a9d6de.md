@@ -8,9 +8,6 @@ poet: "Qasim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:82725674221659a9d6de
-# source_url: https://tajpoints.com/2019/10/zulm-sehti-hai-woh-baba-ke-gham-mein.html
-# raw_sha256: 16813c1f4363048d56efb846f7e3931113acf195e3d3de23f2a169e30fd9f7a4
 ---
 
 Zulm Sehti Hai Woh Baba Ke Gham Mein Rone Par.

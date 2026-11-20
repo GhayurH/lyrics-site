@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:f3d5df24c356cd05cba8
-# source_url: https://www.ziyaraat.net/api/noha/1258
-# raw_sha256: 58432a252c5ecdcf02544d98378593c1b994daf34e31bbc9b2ebd2e387c436e6
 romanLyrics: |-
   Pyasi reh kar jo bachati hai Sakina pani
   Tauq-e-Abid pe girati hai Sakina pani

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ee07f2065be600e652a5
-# source_url: https://tajpoints.com/2022/11/dil-e-dukhtar-ali-jee-lyrics-in-urdu.html
-# raw_sha256: 424b526f63ea5279069655f376aa9278cce9bd826797d2c08703a5992ba3712a
 ---
 
 1

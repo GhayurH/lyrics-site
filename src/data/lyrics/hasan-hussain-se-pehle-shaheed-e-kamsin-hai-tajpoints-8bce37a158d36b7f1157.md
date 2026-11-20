@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8bce37a158d36b7f1157
-# source_url: https://tajpoints.com/2019/02/hasan-hussain-se-pehle-shaheed-e-kamsin.html
-# raw_sha256: ad50447c850a3aad8cfc02456b3297fcf7194fbb062b7f777f004c46fc6780c8
 ---
 
 Hasan Hussain Se Pehle Shaheed-e-Kamsin Hai.

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:66ea43c3af8a2f30932f
-# source_url: https://www.nohawriteups.org/tazeem-karo-es-bibi-di-jeri-apnay-piyo-di-maa-ay-shahadat-bibi-fatima-sa-2026-shazaib-hassan/
-# original_html: snapshots/nohawriteups/original_html/66ea43c3af8a2f30932f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/66ea43c3af8a2f30932f.json
-# api_content_sha256: b1b3b501dfda1bce47e690e5875b0ac9765f5b147b25e7fedb290c9272ac4cad
-# editorial_note: Unpublished source-faithful draft from approved valid panjabi only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review; Panjabi language label requires review.
 ---
 
 Tazeem Karo Es Bibi Di Jeri Apnay Piyo Di Maa Ay | Shahadat Bibi Fatima sa 2026 | Shazaib Hassan

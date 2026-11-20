@@ -27,9 +27,6 @@ romanLyrics: |-
   Shah-e-Mardaṅ sher-e-yazdaṅ fatahe Khaibar Ali
   Shah-e-mardaṅ fatahe khaibar Amirul Momineen
   Janishin-e-Hazrat-e-Khairul anaam aisa to ho
-# source_id: ziyaraat:dfe84fd59bb4c66e29c0
-# source_url: https://www.ziyaraat.net/api/noha/2301
-# raw_sha256: b0172e098384d30a1bcbb657a33433e1907cea85708d5d63a28cd6a0c27dcac7
 ---
 
 مجرئی مشتاق ہے قدسی سلام ایسا تو ہو

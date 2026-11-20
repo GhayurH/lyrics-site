@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:08e3b11f43fb8d6cb424
-# source_url: https://tajpoints.com/2019/01/aslam-o-alai-ya-aba-abdillah.html
-# raw_sha256: a5f39b60ae815ed31dad82ffbfd6554dccf6d4f245e698913205f85167df5ffc
 ---
 
 Aslam o Alai Ya Aba Abdillah.

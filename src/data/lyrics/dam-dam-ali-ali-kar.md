@@ -1,7 +1,6 @@
 ---
 title: "دم دم علی علی کر"
 alternateTitle: "Dam Dam Ali Ali Kar"
-# Punjabi (Shahmukhi); Urdu is the available schema label.
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -114,15 +113,6 @@ romanLyrics: |-
   Khoti taqdir taaiṅ kharda tuṅ khari ja
   Saariyaaṅ azaabaaṅ wichoṅ bari honda bari ja
   Unj vi marna Bari Nizami kise de naaweṅ lag ke mar
-# source_id: tajpoints:6ff39fc7916b0ffdcf52
-# source_url: https://tajpoints.com/2019/11/dam-dam-ali-ali-ali-ali-kar-p1-lyrics.html
-# raw_sha256: 62ae935accbf066a2e56baf2efe6b7638f5702fe5e4a84c59a97911e88f9f220
-# source_id: tajpoints:8104070427be0430f1cf
-# source_url: https://tajpoints.com/2019/11/dam-dam-ali-ali-ali-ali-kar-p2-lyrics.html
-# raw_sha256: 34bb147f07fc0e10b11b56c977fceeffefd45fad42aab72368ea2d5334752472
-# source_id: tajpoints:f195a0c00cd2d3f6ad95
-# source_url: https://tajpoints.com/2019/11/dam-dam-ali-ali-ali-ali-kar-p3-lyrics.html
-# raw_sha256: e77a3e40ee9b4b88366868d84f00a1e182161c5616bc998be5af619ba10d8cea
 ---
 
 دم دم علی علی علی علی کر ہر دم علی علی علی علی کر

@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b25a176df5ef5a153e5f
-# source_url: https://tajpoints.com/2023/01/fatima-zahra-ka-hai-lyrics-in-urdu-and.html
-# raw_sha256: 0e4cb74f3f2648714c15b1a826a009159603c620604e4a3332e7def3aac5220c
 ---
 
 Rang-o-Boo Bag-e-Jinna Bhi Fatima Zahra Ka Hai.

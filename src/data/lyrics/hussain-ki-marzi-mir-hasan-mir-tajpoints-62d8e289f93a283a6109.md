@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:62d8e289f93a283a6109
-# source_url: https://tajpoints.com/2024/02/hussain-ki-marzi-mir-hasan-mir-lyrics.html
-# raw_sha256: 1de3792e7c9438f9445cf4743c3adbc739178041c342fa823c3d00d322878403
 ---
 
 1

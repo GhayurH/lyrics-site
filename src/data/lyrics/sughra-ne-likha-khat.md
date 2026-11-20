@@ -68,9 +68,6 @@ romanLyrics: |-
   14
   Ab saath tumhaare haiṅ duaaeṅ meri Sughra
   Ab tera Khuda haafiz o naasir ho meri jaaṅ
-# source_id: nohayonline:2e9cf6acce54b47f078a
-# source_url: https://www.nohayonline.com/details_content.php?id=48
-# raw_sha256: edc54f2d1967ab7f295463a57e6b27682e832d2468e25f95612043c00d676e6c
 ---
 صُغریٰ نے لکھا خط میں کہ زہرا کے دل و جاں
 آداب بجا لاتی ہے بیٹی شاہِ ذیشاں

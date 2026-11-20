@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a2aaca651771491167fb
-# source_url: https://tajpoints.com/2024/09/mehboob-e-khuda-ban-kr-master-ali-zamin.html
-# raw_sha256: bf54a58946e3a280ad668828ce1f378fd858bfa6efaa14950264d8dc5dc832bf
 ---
 
 Mehboob E Khuda Ban Kr Master Ali Zamin.

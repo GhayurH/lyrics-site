@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a00c5b113a33500cec32
-# source_url: https://tajpoints.com/2025/02/hussain-tha-hussain-hai-shahzad-abbas.html
-# raw_sha256: 8bca7e677eb1e55efcc6149ca5d1eb9e71ba5fd08d12ce9deb3b09e7796efb44
 ---
 
 Hussain Tha Hussain Hai Shahzad Abbas.

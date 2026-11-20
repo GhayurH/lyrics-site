@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:fabb545e9e0be14a513c
-# source_url: https://www.ziyaraat.net/api/noha/322
-# raw_sha256: 9acf02d5325aeb7f52d60c02f6575be04c2662c584e102c44741b35848d67554
-# alternate_reading: "Main Pak Lisan Ullah Di Taseer Han Nana"
-# alternate_reading: "Mainday Sar Di Khulay Walan Da Rang Lal Howay Si"
 ---
 
 Nana vada main Zainab da, oakey waqt nibhesan nal bhira day

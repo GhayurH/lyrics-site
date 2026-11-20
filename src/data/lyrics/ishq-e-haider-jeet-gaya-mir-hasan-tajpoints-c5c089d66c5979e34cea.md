@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c5c089d66c5979e34cea
-# source_url: https://tajpoints.com/2017/02/ishq-e-haideras-jeet-giya.html
-# raw_sha256: 688047af846bc172647c1f4e011e7f16621eab1d6f33da835b317438e2b7d22f
 ---
 
 1

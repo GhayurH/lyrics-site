@@ -35,9 +35,6 @@ romanLyrics: |-
   Shaer o zakir mil ke ghoar
   Fikr e Mujeed aur lehn e Khaleel aur
   Ye bhi hay ghamkhawar wo bhi hay ghamkhawar
-# source_id: ziyaraat:73f3f31badaa35df0fc6
-# source_url: https://www.ziyaraat.net/api/noha/2419
-# raw_sha256: aaf89a4d5f09c4dacac9bab4fe7a6031ef697470b9cc3851b4283d573a4600e1
 ---
 
 قافلہ سالار، عابدِؑ بیمار

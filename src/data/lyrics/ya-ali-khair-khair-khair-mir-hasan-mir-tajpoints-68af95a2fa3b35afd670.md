@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:68af95a2fa3b35afd670
-# source_url: https://tajpoints.com/2024/01/ya-ali-khair-khair-khair-mir-hasan-mir.html
-# raw_sha256: 697410e72f0909a1dcc8ed76bbad5b5fbb01b3832e487e81201daa9855fd5095
 ---
 
 Ya Ali Khair Khair Khair Mir Hasan Mir

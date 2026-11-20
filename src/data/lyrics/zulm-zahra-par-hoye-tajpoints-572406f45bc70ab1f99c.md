@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:572406f45bc70ab1f99c
-# source_url: https://tajpoints.com/2022/12/zulm-zahra-par-hoye-lyrics-in-urdu-and.html
-# raw_sha256: 4a91e2e8763bd28f372eb446419294b05eed771d1bfdde209048277768539715
 ---
 
 Zulm Zahra Par Hoye

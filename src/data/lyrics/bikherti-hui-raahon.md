@@ -82,9 +82,6 @@ romanLyrics: |-
   Dua ye Monis o Kausar ki Shadmaṅ ki hai
   Ae Bibi hum ko bhi auj-e-sukhan ata kar do
   Tumhaari bazm meiṅ karte haiṅ naukri Zainab
-# source_id: nohayonline:a93ea88d76675bbd9ff8
-# source_url: https://www.nohayonline.com/details_content.php?id=2997
-# raw_sha256: 093996005a655b8dedd6874bf2b3309405d17cdecb9edb7e009781bb283bcae5
 ---
 ملتا نہیں تھا کوئی سہارا یزید کو
 زینب نے اس طرح سے اجاڑا یزید کو

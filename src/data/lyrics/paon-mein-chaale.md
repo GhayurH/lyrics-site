@@ -55,9 +55,6 @@ romanLyrics: |-
   Kaise kare Sajjad ki kaifiyat ko raqam Ishrat
   Pet pe durre jism hai laaghar
   Paaoṅ meiṅ chhaale hai paaoṅ meiṅ chhaale haiṅ
-# source_id: nohayonline:11b49629a8d54534afc0
-# source_url: https://www.nohayonline.com/details_content.php?id=2169
-# raw_sha256: f29ed10510088bb5623eb1256c8dd52d75db6f4f51117081b9ef60394c934b27
 ---
 کہتے تھے یہ عابد مضطر
 پاؤں میں چھالے ہے پاؤں میں چھالے ہیں

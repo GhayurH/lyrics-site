@@ -8,9 +8,6 @@ poet: "Taseer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cbcaf2f46e55240d6594
-# source_url: https://tajpoints.com/2023/06/ik-pal-bhi-nahi-chain-muyassar-jawad-ko.html
-# raw_sha256: 44aa2adf6c8e47de1e21ad67450bac87efd8b29c5ae9caa60c5ccc9b62ab1d78
 ---
 
 Ik Pal Bhi Nahi Chain Muyassar Jawad Ko.

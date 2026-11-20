@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:238b6893e7306eb65dcc
-# source_url: https://tajpoints.com/2022/03/mera-sar-iss-liye-oncha-bohat-hai.html
-# raw_sha256: 3d96f0ad54a5164667ff09bb5cc69e78a4e09d7c8ff8da4764b18257b3c15229
 ---
 
 1

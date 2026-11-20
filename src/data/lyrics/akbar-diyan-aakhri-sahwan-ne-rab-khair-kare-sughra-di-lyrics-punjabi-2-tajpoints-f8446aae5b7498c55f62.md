@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f8446aae5b7498c55f62
-# source_url: https://tajpoints.com/2025/03/akbar-diyan-aakhri-sahwan-ne-rab-khair.html
-# raw_sha256: 29a554e95e7c3119759d6c5b86b912ace0dcb3d22b8000a33ee82267fb3862fb
 ---
 
 1

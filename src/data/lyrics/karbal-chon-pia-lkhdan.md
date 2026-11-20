@@ -8,9 +8,6 @@ reciter: "Mewa Khan Kalidi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:65f3f0229bc4a6b28870
-# source_url: https://www.ziyaraat.net/api/noha/33
-# raw_sha256: 7ae7b3f4a3d914e56d3f9b44d935f3d7ae5d921beb1a2d339355a3de60ce0f27
 ---
 
 Karbal cho piya likhda

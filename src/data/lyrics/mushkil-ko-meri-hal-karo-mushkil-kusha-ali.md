@@ -63,11 +63,6 @@ romanLyrics: |-
   Zishan Aur Raza Ke Laboṅ Par Dua Hai Ye
   Ghaibat Se Jald Barhweiṅ Bete Ko Bhejiye
   Mushkil Hai Sans Lena Ab Un Ke Bina Ali
-# source_id: nohawriteups:8eebf2b15104e1b53af8
-# source_url: https://www.nohawriteups.org/mushkil-ko-meri-hal-karo-mushkil-kusha-ali-syed-raza-abbas-zaidi-munajat-1443-2021-lyrics/
-# original_html: snapshots/nohawriteups/original_html/8eebf2b15104e1b53af8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8eebf2b15104e1b53af8.json
-# api_content_sha256: 032a989d2475f940c1dca6c03e1aff30d944215123098b97e33c658d863c3cd2
 ---
 
 اے کُل کے مددگار سرداروں کے سردار

@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2024fe8996c40df0d0b0
-# source_url: https://tajpoints.com/2019/05/jahan-mein-sorah-e-kausar-ki-jab.html
-# raw_sha256: 73547d336c070712995ec0b16804981113863b78ab9e448dd70a4506a9ad5f1e
 ---
 
 Jahan Mein Sorah-e-Kausar Ki Jab Tafseer Bole Gi.

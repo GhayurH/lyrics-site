@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:717994ee18b940cd16bc
-# source_url: https://tajpoints.com/2019/06/sir-wekh-ke-zainab-da-liya-haider.html
-# raw_sha256: 148041e8881f8861db6e5203c9996eb20e767e909a5fd145ac669b8f7a7c6e4f
 ---
 
 1

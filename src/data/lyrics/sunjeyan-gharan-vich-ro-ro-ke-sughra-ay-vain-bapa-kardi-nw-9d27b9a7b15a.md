@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9d27b9a7b15aa29f64b6
-# source_url: https://www.nohawriteups.org/sunjeyan-gharan-vich-ro-ro-ke-sughra-ay-vain-bapa-kardi/
-# original_html: snapshots/nohawriteups/original_html/9d27b9a7b15aa29f64b6.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9d27b9a7b15aa29f64b6.json
-# api_content_sha256: c420768bb50507e3c9e504914f1a2c49798384945f94c4ddbfd1a802a7c61581
 ---
 
 Sunjeyan gharaaṅ vich ro ro ke Sughra ae vain bapa kardi

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:cbdeb626a051452ed4aa
-# source_url: https://www.ziyaraat.net/api/noha/1039
-# raw_sha256: 6c4389450d9f35c00b714780045754a4eff276b153b747c42b01dad7c8b600c4
 ---
 
 Yeh kis ka ghar luta hay khudara jawab do

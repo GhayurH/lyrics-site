@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:40960daaf3268359a124
-# source_url: https://tajpoints.com/2023/11/batool-rondi-rayi-ummat-ne-sataya-baba.html
-# raw_sha256: 6ad324e6f4d40198b1fa390a13295b33e7acb7941c20c3e51f5174cd23b7f089
 ---
 
 Batool Rondi Rayi Ummat Ne Sataya Baba.

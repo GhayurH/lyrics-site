@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Ta Shaam khule sar gayi Ahmad ki nawaasi
   Sar apna jhukaaye hue Khaaliq ki raza meiṅ
-# source_id: nohayonline:70d10ea47a3557a85941
-# source_url: https://www.nohayonline.com/details_content.php?id=505
-# raw_sha256: ac41823423ff79b1ae74d375b60e97148bb3ae491793d8eaf20ae6b227db7936
 ---
 زینب یہ دُعا کرتی تھی ہر ایک دُعا میں
 یا رب ہوں میرے لال فدا کرب و بلا میں

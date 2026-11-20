@@ -8,9 +8,6 @@ poet: "Adam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3cb9a823abab72d40262
-# source_url: https://tajpoints.com/2023/05/lash-e-abbas-te-ayiyaan-taray-bhaini-pa.html
-# raw_sha256: 48b3e88f5fb52672081abb8ab7b4f399b0bda9afe31d12c0a4acb40e7e581057
 ---
 
 1

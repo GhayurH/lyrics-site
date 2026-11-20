@@ -30,9 +30,6 @@ romanLyrics: |-
   4
   Aur arz o sama ro rahay
   Zainab
-# source_id: ziyaraat:5f634f87ed9880e35012
-# source_url: https://www.ziyaraat.net/api/noha/2073
-# raw_sha256: fc0f7c51c23b4af88d04102787fde74b3355fe2b45af3bf33839e51c25568e6a
 ---
 
 اے شام والو میری واپس ردا کرو

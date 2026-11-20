@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:311131a2e45abc81c6fb
-# source_url: https://tajpoints.com/2022/03/hussain-teri-qasam-mukhtar-hussain.html
-# raw_sha256: e09b03de9ee38ee5a304753767b3dabaeee725119066ef2c8c8601e341ffb9ad
 ---
 
 1

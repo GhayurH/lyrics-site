@@ -54,13 +54,6 @@ romanLyrics: |-
   Khaima-e-Aal-e-Muhammad ye hai Akhtar ki dua
   Sadqa Hasnain ka Maula, ye sada-e-maatam
   Is tarah hashr talak gunje azakhaanoṅ se
-# source_id: nohayonline:287757390cce6200bedf
-# source_url: https://www.nohayonline.com/details_content.php?id=1495
-# raw_sha256: 2afa6f33bd06bf37378016140c97391210aa01e4038a955cfae856db20ca7fa8
-# source_id: ziyaraat:f9d65fc89faeb201c77b
-# source_url: https://www.ziyaraat.net/api/noha/424
-# raw_sha256: 5f0932de3076219609bdb774e4317c935a183465217eaa5456b164069a09c332
-# added_stanza_source: roman:kalam-ziyaraat-f9d65fc89faeb201c77b
 ---
 
 اب بھی آتی ہے سکینہ کی صدایں لوگوں

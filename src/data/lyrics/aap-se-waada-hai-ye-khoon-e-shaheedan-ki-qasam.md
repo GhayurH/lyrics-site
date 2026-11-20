@@ -8,9 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:23ad5c4bb4e8a2145559
-# source_url: https://www.ziyaraat.net/api/noha/1248
-# raw_sha256: c3dc7b96d4710d0aa0581e1bfa5cff4bd3f1e75cba085b6e84d3f784fcdad6bb
 romanLyrics: |-
   1
   Wo waqt kabhi to ayega Zehra(A) ki dua k saye main

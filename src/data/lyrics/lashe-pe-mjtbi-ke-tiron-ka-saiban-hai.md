@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:9b012978c0b5697cffa5
-# source_url: https://www.ziyaraat.net/api/noha/664
-# raw_sha256: 713fcf78191afac291540c6ad20df97872fad85aa98948bbdd574bbe6decce39
 ---
 
 Laashay pe Mujtaba kay, teeron ka saibaan hay

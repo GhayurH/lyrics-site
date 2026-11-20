@@ -94,10 +94,6 @@ romanLyrics: |-
   Jinday Sadqay Aj V Jari Aye
   Teda Ghar Ghar Matam Haye Qasim
 
-# source_id: nohayonline:6d96d6190b435b5b8979
-# source_url: https://www.nohayonline.com/details_content.php?id=1632
-# raw_sha256: b97f62a80477326866f9e5391e2f9a1839a402cf2379d5c4393d260f6e241dd7
-# editorial_note: "Six additional Punjabi stanzas including Jawad, Rehan and Sarwar takhallus are restored in Roman. Corresponding Urdu stanzas and full poet attribution require editorial review."
 ---
 
 ہاے ہاے قاسم ہاے قاسم

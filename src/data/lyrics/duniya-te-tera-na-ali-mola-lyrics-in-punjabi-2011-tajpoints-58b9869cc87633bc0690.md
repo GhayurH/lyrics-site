@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:58b9869cc87633bc0690
-# source_url: https://tajpoints.com/2021/02/duniya-te-tera-na-ali-mola-lyrics-in.html
-# raw_sha256: 6c35e69227823b3b5ccd60ed1573062e78c646711f233db8fa69c8b517fc2b14
 ---
 
 Duniya Te Tera Na Ali Mola Lyrics Write Up

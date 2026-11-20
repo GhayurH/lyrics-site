@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:28e33066851cfc51b808
-# source_url: https://tajpoint.com/nana-main-veer-di-maiyyat-nu-kiwein-kol-tere/
-# raw_sha256: 103a625028c411cafd6b29ab474844e54333a20d017f23797279b97d310ccd46
 ---
 
 Nana Main Veer Di Maiyyat Nu Kiwein Kol Tere Dafnawaan.

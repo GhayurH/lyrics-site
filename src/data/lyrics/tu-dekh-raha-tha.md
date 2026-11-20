@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6f237cf486d2dd77a228
-# source_url: https://www.ziyaraat.net/api/noha/264
-# raw_sha256: 239207f561abb67e91446a454739591e2c7728ae981fe3db2dda9e6d3f877fca
 ---
 
 Tu dekh raha tha

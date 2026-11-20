@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:e11c00b8c86544e13bc1
-# source_url: https://www.ziyaraat.net/api/noha/386
-# raw_sha256: c09df4e90f331c08b482fc5d333e643316fc269a256b66d6a3ea20fdd3180052
 ---
 
 La illah ko bachaya Fatima kay laal nay

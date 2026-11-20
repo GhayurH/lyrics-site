@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dd0f02a265e8d70a4a70
-# source_url: https://tajpoints.com/2019/08/suno-sehra-ali-ka-lyrics-in-urdu-and.html
-# raw_sha256: 03e7647c97b36f53a29bf305d44daa96217e56d18695673556499f4d16973bb9
 ---
 
 Momino Aao Suno Kya Sunana Chahta Hoon.

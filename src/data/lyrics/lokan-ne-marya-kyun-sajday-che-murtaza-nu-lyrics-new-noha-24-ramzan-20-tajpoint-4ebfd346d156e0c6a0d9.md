@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:4ebfd346d156e0c6a0d9
-# source_url: https://tajpoint.com/lokan-ne-marya-kyun-sajday-che-murtaza-nu-lyrics/
-# raw_sha256: 14572a294b08716ba6b927f7645a06e1f4f752613ce9916fe8e4d7c70b560c3a
 ---
 
 1

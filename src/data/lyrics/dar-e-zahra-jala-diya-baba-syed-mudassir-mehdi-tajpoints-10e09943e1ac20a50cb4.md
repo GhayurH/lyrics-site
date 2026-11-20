@@ -8,9 +8,6 @@ poet: "Hadi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:10e09943e1ac20a50cb4
-# source_url: https://tajpoints.com/2022/12/dar-e-zahra-jala-diya-baba-syed.html
-# raw_sha256: aec02acb8d2e786e70df3a37d1b0dc6466b8cd9aa597909cde499e8d36299cca
 ---
 
 1

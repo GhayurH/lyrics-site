@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:75dcc32907c910578edc
-# source_url: https://tajpoints.com/2017/02/dilon-pe-qabza-hussainas-ka-hai.html
-# raw_sha256: 3e70d9357a879a0b2fdaebc6c9033e4841ef3642529caa7dcdfbfbec75e9e8a7
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:39e6bf7a839f441547be
-# source_url: https://www.ziyaraat.net/api/noha/1794
-# raw_sha256: d95bc54f3dbb79f48872c1da7d2a723075af747e3db8bc599d111ee03a3d2e07
 ---
 
 Aseeri me baba bohot yaad aaye

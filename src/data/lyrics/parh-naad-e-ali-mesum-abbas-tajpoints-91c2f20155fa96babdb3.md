@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:91c2f20155fa96babdb3
-# source_url: https://tajpoints.com/2022/02/parh-naad-e-ali-mesum-abbas-lyrics-in.html
-# raw_sha256: 1ab08c63f22d5d9c12b501940407a42183ff770cb3958a9e00ab0eed89654986
 ---
 
 1

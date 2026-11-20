@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:414c7238a117536093d1
-# source_url: https://tajpoints.com/2018/05/musalman-dil-se-gar-nehj-e-balaga.html
-# raw_sha256: 708b9e8196e1c97ba8ca56d3b4acdeb718eeba77fad63d718ba42b33ebe611ac
 ---
 
 Musalman Dil Se Gar Nehj-e-Balaga Dekhte Rehte.

@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d7d029cf7270ebf7762d
-# source_url: https://tajpoints.com/2019/02/khatam-kab-hai-syeda-par-faisla-darbar.html
-# raw_sha256: 1aa7d94757549a404a80884c6369da215e22dd97874b57ba00b72a4a23163de5
 ---
 
 Khatam Kab Hai Syeda Par Faisla Darbar Ka.

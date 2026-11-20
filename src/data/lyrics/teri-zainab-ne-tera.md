@@ -36,12 +36,6 @@ romanLyrics: |-
   Ye mila ajr musalmaanoṅ se batlaauṅ gi
   Aur ye zakhm maiṅ Ammaaṅ ko hi dikhlaauṅ gi
   Maiṅ ne baazu ka nishaaṅ sab se chhupaaya Naana
-# source_id: nohayonline:57980d50d4fe2692b1d1
-# source_url: https://www.nohayonline.com/details_content.php?id=1919
-# raw_sha256: 4533e0f885c68b4e8cbea4a6422da03c6b9f364468d547cc63656b6751f920e2
-# source_id: ziyaraat:cbd7aa3f9e1b88b95013
-# source_url: https://www.ziyaraat.net/api/noha/180
-# raw_sha256: 96a4412c8ae2a59587768b5f0248ce148080c1d6992dabdf3721886a6103e094
 ---
 
 تیری زینب نے تیرا دین بچایا نانا

@@ -53,9 +53,6 @@ romanLyrics: |-
   Is zulm se jo Maisam o Mehbub bachaaye
   Aada se rida Zainab-e-muztar ki dilaaye
   Ab kaun Shaah-e-din ke dilbar ki tarah hai
-# source_id: nohayonline:52172721be2d4311e325
-# source_url: https://www.nohayonline.com/details_content.php?id=3712
-# raw_sha256: b3633f6be07d40690effa6623393cf361a951b14d10869acfcdc6bbe3bfad9a5
 ---
 عباس جری فاتح خیبر کی طرح ہے
 حیدر کا پسر شان میں حیدر کی طرح ہے

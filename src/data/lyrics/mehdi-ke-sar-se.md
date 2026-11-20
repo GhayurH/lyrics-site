@@ -53,9 +53,6 @@ romanLyrics: |-
   Ho bhir phir khari wo Kufa ke raastoṅ par
   Patthar baras rahe hoṅ Akbar ke qaatiloṅ par
   Khuli ka sar sinaaṅ par is baar dekhna hai
-# source_id: nohayonline:b51293af0797a6897175
-# source_url: https://www.nohayonline.com/details_content.php?id=1270
-# raw_sha256: e33f7cf9d0e26efd0108a98406a470a9caab605488f595ae7b3cd623439f8af1
 ---
 مہدی کے سر سے سایہ بابا کا اٹھ گیا ہے
 رنج و الم میں ڈوبا نرجس کا لاڈلا ہے

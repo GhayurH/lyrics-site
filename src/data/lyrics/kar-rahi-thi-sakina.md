@@ -86,9 +86,6 @@ romanLyrics: |-
   Aamir o Fakhri bole Shah-e-bahr o bar
   Tha maiṅ hamraah naize pe lagte jigar
   Ab na ro kar karo ye bayaaṅ
-# source_id: nohayonline:7a322d5e268e8a5b566a
-# source_url: https://www.nohayonline.com/details_content.php?id=3649
-# raw_sha256: 2eeb7ce1724401c80b64de21658f8246f02d6108a8f589b6175bec54a84ef11c
 ---
 
 کر رہی تھی سکینہ فغاں

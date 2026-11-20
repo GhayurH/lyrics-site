@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:683b53b979fa2f6ca706
-# source_url: https://www.nohawriteups.org/kaha-yay-julanay-sun-kay-saday-yun-surina/
-# original_html: snapshots/nohawriteups/original_html/683b53b979fa2f6ca706.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/683b53b979fa2f6ca706.json
-# api_content_sha256: 2c0d972ec13d46247aab88a4675a6f5ba920e7ef9fd7098a3bf5f4e7ee1f2ef0
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Kaha yay julanay sun kay saday yun surina

@@ -8,9 +8,6 @@ poet: "Nisar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2c91c6057ce043a8784b
-# source_url: https://tajpoints.com/2025/09/mazlomiyat-ka-kaba-janaza-raza-ka-hai.html
-# raw_sha256: 805cfee17658d412997bcf36b4ee58aefaebce8d672656283f5e0c9fc8b1516a
 ---
 
 1

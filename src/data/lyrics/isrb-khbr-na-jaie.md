@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a16675473ed177058630
-# source_url: https://www.ziyaraat.net/api/noha/1787
-# raw_sha256: 77f358442b03736f6bdef2104c2b5f957be08c6d2090268bd244a17f524cd34f
 ---
 
 Yasrab khabar na jae yasrab khabar na jae

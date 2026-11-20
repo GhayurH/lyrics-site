@@ -71,12 +71,6 @@ romanLyrics: |-
   Rehan o Sarwar wo din bhi aaye
   Ghazi ye keh kar hum ko bulaaye
   Hum haiṅ tumhaare tum gham na khao
-# source_id: nohayonline:0b62c0ea696a718a2ac7
-# source_url: https://www.nohayonline.com/details_content.php?id=3096
-# raw_sha256: 356bbad1e9020ce0e7705a38623b5fb0cbce00ef65e19272a5e1236981e42382
-# source_id: tajpoints:7e4d345544627d469418
-# source_url: https://tajpoints.com/2017/03/aao-alam-ke-saaye-mein-aao.html
-# raw_sha256: a2b6b258b848d8f5ef7b6ad5efd6d296c0ccf2051c82dab74f8247e3c5e988c0
 ---
 یہ تیری دنیا یہ دنیا داری
 انسانیت ہے بے چین ساری

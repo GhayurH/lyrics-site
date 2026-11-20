@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2ac11a9987d0fb963754
-# source_url: https://tajpoints.com/2023/07/kuch-iss-liye-bhi-rakhi-dill-se-hai.html
-# raw_sha256: 8b18434a07d8f26edc2aa692df691cb8b4b615334dbbfd5c024aa3aeeeaec704
 ---
 
 1

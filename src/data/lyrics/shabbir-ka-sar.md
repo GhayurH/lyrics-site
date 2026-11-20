@@ -63,9 +63,6 @@ romanLyrics: |-
   Muṅh pe muṅh rakh ke Sakina ne kiye bain Aasif
   Chand lamhe hi yatima ko mila chain Aasif
   Der tak roe muarrikh bhi ye Aamir likh kar
-# source_id: nohayonline:edfc2349d8896c8ba0f4
-# source_url: https://www.nohayonline.com/details_content.php?id=2145
-# raw_sha256: cb4ba0d0dec820e10e31041d61cf7f9a5b90a0be2e42021388d09ddd6f07e6f4
 ---
 طشت سے اٹھ کے چلا حضرتِ شبیر کا سر
 حسرت و یاس سے ڈالی جو سکینہ نے نظر

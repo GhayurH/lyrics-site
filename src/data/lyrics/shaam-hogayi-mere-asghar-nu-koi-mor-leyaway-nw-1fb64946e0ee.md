@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1fb64946e0eef22f9532
-# source_url: https://www.nohawriteups.org/shaam-hogayi-mere-asghar-nu-koi-mor-leyaway/
-# original_html: snapshots/nohawriteups/original_html/1fb64946e0eef22f9532.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1fb64946e0eef22f9532.json
-# api_content_sha256: b8dbdf12ffc2f285537a8b3d97deaa07f54552b749349c346e5be0e47ce18b2d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Shaam Hogayi Mere Asghar Nu Koi Mor Leyaway

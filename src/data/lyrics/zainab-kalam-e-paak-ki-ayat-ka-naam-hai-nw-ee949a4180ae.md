@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ee949a4180ae4b7590f4
-# source_url: https://www.nohawriteups.org/zainab-kalam-e-paak-ki-ayat-ka-naam-hai/
-# original_html: snapshots/nohawriteups/original_html/ee949a4180ae4b7590f4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ee949a4180ae4b7590f4.json
-# api_content_sha256: af6c5a262d3e70bd1c792c58b69bfc8431e8072134cae46531d97027f3103c4a
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Zainab Kalam-e-Paak Ki Ayat Ka Naam Hai

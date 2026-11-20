@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ce8c656029082a92c67
-# source_url: https://tajpoints.com/2026/06/badan-hussain-ka-zeeshan-abidi-2026.html
-# raw_sha256: 291c5e67047a39815a2adfbef78dc98b81addd0d1bacecaa4d227a9a3cbefa27
 ---
 
 1

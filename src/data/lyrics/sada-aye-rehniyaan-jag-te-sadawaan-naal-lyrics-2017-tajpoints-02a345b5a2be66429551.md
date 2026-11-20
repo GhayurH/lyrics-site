@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:02a345b5a2be66429551
-# source_url: https://tajpoints.com/2017/10/sada-aye-rehniyaan-jag-te-sadawaan-naal.html
-# raw_sha256: 1c261976905d522d44a75eda393738f4d6c4214801f5d54b9a5e110ff3355d86
 ---
 
 Sada Aye Rehniyaan Jag Te Sadawaan Naal Write Up

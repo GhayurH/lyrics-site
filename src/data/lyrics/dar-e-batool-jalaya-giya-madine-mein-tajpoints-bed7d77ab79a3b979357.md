@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bed7d77ab79a3b979357
-# source_url: https://tajpoints.com/2018/02/dar-e-batool-jalaya-giya-madine-mein.html
-# raw_sha256: 4ac5b28f83fcc20f7a9ca37058d2fc8a30d7043094ad7e678b1de5075fe9f385
 ---
 
 1

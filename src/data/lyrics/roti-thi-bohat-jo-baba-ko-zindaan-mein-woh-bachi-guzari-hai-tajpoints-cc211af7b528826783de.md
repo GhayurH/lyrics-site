@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc211af7b528826783de
-# source_url: https://tajpoints.com/2019/01/roti-thi-bohat-jo-baba-ko-zindaan-mein.html
-# raw_sha256: 29cfd77d0272459fe537548a22e8b3c23d49dfdd93e40fe3ae5cf590818494d5
 ---
 
 1

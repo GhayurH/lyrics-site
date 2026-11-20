@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9b584c38956befc62809
-# source_url: https://tajpoints.com/2021/01/teri-nalain-pey-ya-zahra-lyrics-in-urdu.html
-# raw_sha256: de7468d2c9152f9e40f566e418d3e7de299702a02b0bb93aef5953fe536ae6fc
 ---
 
 1

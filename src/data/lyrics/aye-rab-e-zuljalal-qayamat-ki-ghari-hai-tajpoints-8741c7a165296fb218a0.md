@@ -8,9 +8,6 @@ poet: "Wahid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8741c7a165296fb218a0
-# source_url: https://tajpoints.com/2019/08/aye-rab-e-zuljalal-qayamat-ki-ghari-hai.html
-# raw_sha256: 71cdf39a8799d3d01572889830a88ee610a3f0bef98f849367169b58b4235c2c
 ---
 
 Aye Rab-e-Zuljalal Qayamat Ki Ghari Hai.

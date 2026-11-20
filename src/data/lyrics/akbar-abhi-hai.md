@@ -58,9 +58,6 @@ romanLyrics: |-
   Thaame kamar ko Fatima Zehra ka laal hai
   Gham se ajib Maadar-e-Muztar ka haal hai
   Mazhar phuphi ke lab pe faqat ye maqaal hai
-# source_id: nohayonline:696712ed37ffeb89859a
-# source_url: https://www.nohayonline.com/details_content.php?id=2896
-# raw_sha256: b3fdcfe7bd412ee5c7eddd81b091d3722b119f81735d64fe16fe25afe67e2040
 ---
 اکبر ابھی ہے راہ میں لیلیٰ پکار لو
 اپنے پسر کے حسن کا صدقہ اتار لو

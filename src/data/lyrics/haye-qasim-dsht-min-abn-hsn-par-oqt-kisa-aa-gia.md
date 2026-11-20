@@ -66,12 +66,6 @@ romanLyrics: 'Haye Qasim Haye Qasim
   Maatmi k ghar may Akbar jub koi dulha bana
 
   Yaad sub ko Karbala walay ka sehra a gaya'
-# source_id: nohayonline:c9ef93c22dee3f54e09b
-# source_url: https://www.nohayonline.com/details_content.php?id=1921
-# raw_sha256: 0b4dbbdef848049fa77cc7a5ae192c0f2c22d0741e0d0d2b98ce38a110b8e2a6
-# source_id: ziyaraat:f5a0d421699e0dd57498
-# source_url: https://www.ziyaraat.net/api/noha/2006
-# raw_sha256: 7ef49b108e582c26721b13709b6cb7b7cd7abdbcfa0afa0963bf424e54bcce52
 ---
 
 ہائے قاسمؑ ہائے قاسمؑ

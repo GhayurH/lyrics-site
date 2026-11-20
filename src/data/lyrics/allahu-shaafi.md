@@ -70,9 +70,6 @@ romanLyrics: |-
   9
   Karbala ke baad bhi tum Sayyed-e-Sajjad ho
   Dusra hota to keh deta Khuda koi nahiṅ
-# source_id: nohayonline:c5d1612d7a5bcdc312f7
-# source_url: https://www.nohayonline.com/details_content.php?id=2781
-# raw_sha256: 8cb60367a1513b863af9b77956c3b1dfc6ea48957cf9471b14070a3d1244f4d4
 ---
 اللہ شافی اللہ کافی
 صدقے میں مولا حسین کے

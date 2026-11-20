@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:11874ea476d2a43b788a
-# source_url: https://tajpoints.com/2020/03/woh-bar-sar-e-darbar-kuch-afrad-ki.html
-# raw_sha256: cdd50766b658f217a50df5bead61993df1416dd4d5f04002a422704df72ef2b5
 ---
 
 Woh Bar Sar e Darbar Kuch Afrad Ki Batein Write Up

@@ -72,9 +72,6 @@ romanLyrics: |-
   Qismat pe sabhi tum naaz karo
   Sab mil ke Raza awaz ye do
   Maula tera matam karte haiṅ
-# source_id: nohayonline:4ab3b81902706d8a12f7
-# source_url: https://www.nohayonline.com/details_content.php?id=3254
-# raw_sha256: d64078b17c54d32dd3d8db6091a542cf93182b73113cc37c7edbd074f6dea8f4
 ---
 
 عباس کا غم ہم کرتے ہیں

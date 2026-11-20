@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e713da91c631dfc80200
-# source_url: https://tajpoints.com/2023/06/haye-lal-ruqaiya-de-pardes-che-maray.html
-# raw_sha256: b74daec1cb59f7a2e0b49b807f948c35d39ff5ba99bfaf64c117472a13e0a854
 ---
 
 1

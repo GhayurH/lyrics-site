@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:029fed6dde1c4fe353ba
-# source_url: https://tajpoints.com/2019/11/sitaron-ki-chamak-mein-hai-zia-e-jafar.html
-# raw_sha256: 227f267a9b7c4a0c6374c68a497d6f32b21aaf2a86cf6872ac13daf52759cfde
 ---
 
 1

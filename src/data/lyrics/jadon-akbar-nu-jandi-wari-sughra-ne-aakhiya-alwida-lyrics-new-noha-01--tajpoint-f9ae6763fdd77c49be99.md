@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:f9ae6763fdd77c49be99
-# source_url: https://tajpoint.com/jadon-akbar-nu-jandi-wari-sughra-ne-aakhiya-alwida/
-# raw_sha256: 971b508aed80098594e20056459dac5b1d411b3c97a0db9d400c24eca5b7f2a6
 ---
 
 Jadon Akbar Nu Jandi Wari Sughra Ne Aakhiya Alwida.

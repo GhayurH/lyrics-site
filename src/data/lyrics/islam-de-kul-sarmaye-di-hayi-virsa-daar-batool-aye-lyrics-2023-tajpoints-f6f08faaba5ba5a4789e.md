@@ -8,9 +8,6 @@ poet: "Kazim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f6f08faaba5ba5a4789e
-# source_url: https://tajpoints.com/2023/11/islam-de-kul-sarmaye-di-hayi-virsa-daar.html
-# raw_sha256: ba4ce4e6cee8f346ad088c5d9175321e430562b6254702f92b8caa28f54c3d63
 ---
 
 1

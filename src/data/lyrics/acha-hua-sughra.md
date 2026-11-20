@@ -67,12 +67,6 @@ romanLyrics: |-
   Zindaaṅ ke andhere mein banaai gayi turbat
   Dam torti bachi ne bhi ye baat kahi thi
 reciter: "Meer Hasan Meer"
-# source_id: nohayonline:b1a4d1da7a43bde9611b
-# source_url: https://www.nohayonline.com/details_content.php?id=17
-# raw_sha256: 3e177a5052f8ef89c78439b7d91844b712f9659e154c1fc67980c246efa9c846
-# source_id: ziyaraat:d17eb3ff0da3f19b3fd5
-# source_url: https://www.ziyaraat.net/api/noha/1847
-# raw_sha256: 1032b4ffa7971bf752cbc9f8bcfbd57b7e2a6085eeab4e056e9938a39063cb03
 ---
 
 جب اہلِ حرم آئے مدینے میں پلٹ کر

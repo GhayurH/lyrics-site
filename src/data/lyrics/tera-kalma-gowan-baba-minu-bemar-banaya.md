@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9a796c509ad0b25b3c68
-# source_url: https://tajpoints.com/2022/12/tera-kalma-gowan-baba-minu-bemar-banaya.html
-# raw_sha256: 92dfd58fe72842ded862b60041e52743bf6d06ebb37aeda353b04693a4208bc3
-# source_title_original: Tera Kalma Gowan Baba Minu Bemar Banaya 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Tera Kalma Gowan Baba Minu Bemar Banaya

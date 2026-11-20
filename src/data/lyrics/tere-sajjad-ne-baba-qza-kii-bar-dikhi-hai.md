@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:929dd29a0981c9dc4701
-# source_url: https://www.ziyaraat.net/api/noha/2797
-# raw_sha256: 6d6fcf2701ff13fe8efbd449264a2398e73010c7ea9f7b67f8d85c29fa89445a
 ---
 
 تیرے سجادؑ نے بابا، قضا کئی بار دیکھی ہے

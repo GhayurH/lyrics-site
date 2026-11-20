@@ -41,9 +41,6 @@ romanLyrics: |-
   Bahut samjhaaya Zainab ne
   Sakina ko magar Ahsaaṅ
   Wo roti thi yehi keh kar
-# source_id: nohayonline:b6a2d1f1d3aeabacfbde
-# source_url: https://www.nohayonline.com/details_content.php?id=3353
-# raw_sha256: 68b57c72949824ff0a5801f94b170f2913f1d7d045aacce4b5d5a16df6dced42
 ---
 سکینہ کہتی تھی رو کر
 میرے بھیا علی اصغر

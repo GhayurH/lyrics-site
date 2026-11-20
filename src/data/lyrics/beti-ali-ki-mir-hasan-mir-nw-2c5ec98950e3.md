@@ -9,15 +9,6 @@ reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2c5ec98950e3c9f56ab1
-# source_url: https://www.nohawriteups.org/beti-ali-ki-mir-hasan-mir-nohay-2020/
-# original_html: snapshots/nohawriteups/original_html/2c5ec98950e3c9f56ab1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2c5ec98950e3c9f56ab1.json
-# api_content_sha256: 614086f24b73fd4b3ba4c9d966a2a7feaf53fde46f52072e888ab9bc4e142bb1
-# editorial_note: Two matching Roman witnesses consolidated and grouped into editorial stanzas; source spelling differences require review. Unpublished.
-# source_id: tajpoints:81c767eabcacf5a51c23
-# source_url: https://tajpoints.com/2020/08/beti-ali-ki-lyrics-in-urdu-and-roman.html
-# raw_sha256: 5d80fcac96e38ed36a329240a5486d00b1b98ccf56a98a18f0aee354f00be053
 ---
 
 Reh Gayi Beti Ali Ki Gham Uthane Ke Liye

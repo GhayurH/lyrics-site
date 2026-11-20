@@ -8,9 +8,6 @@ poet: "Aamir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a1b27f40921bae59a0b4
-# source_url: https://tajpoints.com/2023/03/karam-kar-de-ham-par-hai-ramzan-malik.html
-# raw_sha256: d64c950537d1b11eaa999c4714a97ea5a1e40b9c8a67493d0e2b96ef97451ca2
 ---
 
 1

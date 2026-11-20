@@ -92,9 +92,6 @@ romanLyrics: |-
   Khat-e-Sughra ka dohraate haiṅ
 
   Bhaiya Ali Akbar
-# source_id: nohayonline:eeb0b6a8d728bd28625e
-# source_url: https://www.nohayonline.com/details_content.php?id=2502
-# raw_sha256: 91bc55ccb972e964b50e6ae1795bcbc5bbb0a7c373fdc976f586c4fde3b7fef0
 ---
 ہائے صغرا ہائے صغرا
 بھیا علی اکبر بھیا علی اکبر

@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9165782f5ebc843a1229
-# source_url: https://tajpoints.com/2018/02/rab-se-ho-jao-wafadar-ali-khush-hoon-gay.html
-# raw_sha256: cd36e7ff1922a9d1a852887d7f29ae193aee2c59730b1870db730f1e6fba6814
 ---
 
 1

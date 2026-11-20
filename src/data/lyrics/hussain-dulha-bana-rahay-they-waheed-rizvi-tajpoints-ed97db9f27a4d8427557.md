@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed97db9f27a4d8427557
-# source_url: https://tajpoints.com/2021/08/hussain-dulha-bana-rahay-they-waheed.html
-# raw_sha256: df5cfd4101ae7983303ea095b463755a05bb08e3ddaedef1c9fe6f4e7257cc5b
 ---
 
 1

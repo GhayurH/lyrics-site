@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4fb5cea6f7102e9b99c7
-# source_url: https://tajpoints.com/2020/01/darbar-se-aayi-hai-zahra-lyrics-in-urdu.html
-# raw_sha256: fb3b9dd3dbc71953f8acfd89712c8e990438f080d555a5ec788feb45a1cfa290
 ---
 
 Beton Ke Saharey Chalti Hoi Darbar Se Aayi Hai Zahra.

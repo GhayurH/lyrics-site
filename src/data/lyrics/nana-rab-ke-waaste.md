@@ -38,9 +38,6 @@ romanLyrics: |-
   Farhan aur mazhar o nashad ro diye
   Sun kar yeh bain kaamp utha rauza rasul ka
   Nana rab ke waaste...
-# source_id: nohayonline:6660947372ea4e514929
-# source_url: https://www.nohayonline.com/details_content.php?id=2696
-# raw_sha256: 55a1125e124c5f2100cf1e18d84f8aa6c795438a6511f9a8cc1ddbfdde5a26ec
 ---
 
 ۱

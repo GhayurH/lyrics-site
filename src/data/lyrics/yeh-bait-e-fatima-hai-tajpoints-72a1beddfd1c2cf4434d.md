@@ -8,9 +8,6 @@ poet: "Ali"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:72a1beddfd1c2cf4434d
-# source_url: https://tajpoints.com/2023/01/yeh-bait-e-fatima-hai-lyrics-in-urdu.html
-# raw_sha256: e7a6c88ea02bda27c5bcf2aabd20b93afcaefa6952c64ff44e1507412fab678d
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:028c460a6a43e1bbf3b0
-# source_url: https://www.nohawriteups.org/rab-jaane-zakhmi-asghar-kivey-maa-nai-vekheya-ay/
-# original_html: snapshots/nohawriteups/original_html/028c460a6a43e1bbf3b0.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/028c460a6a43e1bbf3b0.json
-# api_content_sha256: 5628c7beb4cd3af0920d5e9a354b0a096e96f5f75ba508da4968df8739d7e7bf
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Rab Jaane Zakhmi Asghar Kivey Maa Nai Vekheya Ay

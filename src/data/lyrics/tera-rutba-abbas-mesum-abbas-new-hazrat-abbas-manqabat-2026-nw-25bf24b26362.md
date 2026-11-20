@@ -9,15 +9,6 @@ reciter: "Mesum Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:25bf24b26362f5db13de
-# source_url: https://www.nohawriteups.org/tera-rutba-abbas-mesum-abbas-new-hazrat-abbas-manqabat-2026/
-# original_html: snapshots/nohawriteups/original_html/25bf24b26362f5db13de.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/25bf24b26362f5db13de.json
-# api_content_sha256: f0bde9bbf537472318357ca41fb8f565ec9dc3eae75bf28b998ba3b144576245
-# editorial_note: Two matching Roman witnesses consolidated and grouped into editorial stanzas; source spelling differences require review. Unpublished.
-# source_id: tajpoints:f8f4f3cc084e93722af4
-# source_url: https://tajpoints.com/2026/01/tera-rutba-abbas-mesum-abbas-lyrics-urdu.html
-# raw_sha256: ebbc704cb6b6ee9bbd98ca03ba16aac19b95b7d1c0d1c6ba3057bc5ed44ed01d
 ---
 
 Is se zahir hai jahan par tera rutba Abbas

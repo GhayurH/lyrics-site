@@ -50,9 +50,6 @@ romanLyrics: |-
   Gham ki qaid se aamir o akhtar aaj talak
   Ho na saka azaad bhara ghar zehra ka
   Aisa hua barbaad...
-# source_id: nohayonline:c2505c9d451bef5e2848
-# source_url: https://www.nohayonline.com/details_content.php?id=3100
-# raw_sha256: 02563d03216a074ee4b4255983f3ca4670049d747d199b75ea86b2a760a61f26
 ---
 
 ۱

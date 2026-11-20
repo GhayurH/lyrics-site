@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:0b4f00a4e70c356910f5
-# source_url: https://www.nohawriteups.org/ujri-nu-chad-ke-kaleya-karbal-wasaan-valeya-sanjha-muka-gaya-aye/
-# original_html: snapshots/nohawriteups/original_html/0b4f00a4e70c356910f5.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/0b4f00a4e70c356910f5.json
-# api_content_sha256: 06c3eac5bb98504a63141e3248c50e24e40d7d544bb91d5748b7bc9822371f06
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ujri Nu Chad Ke Kaleya, Karbal Wasaan Valeya,

@@ -78,9 +78,6 @@ romanLyrics: |-
   Ham ahl-e-maatam ke dil Takallum
   Yahaṅ ki mitti se hi bane haiṅ
   Yahaṅ hai waapas palat ke aana
-# source_id: nohayonline:8f93e662713bd2c1b8e9
-# source_url: https://www.nohayonline.com/details_content.php?id=101
-# raw_sha256: 67310b0cea7b7b0d7e53237934234168b6a4e12ac298870642eb6d538b25dc40
 ---
 اللّٰہم ارزقنا زیارت الحسین
 فی فؤادی کربلا والنداء کربلا

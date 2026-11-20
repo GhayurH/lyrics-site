@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5010db81b235d5002462
-# source_url: https://tajpoints.com/2023/02/bas-ali-hai-sarwar-raza-karbalai-lyrics.html
-# raw_sha256: 47c3794655d258eccfacb2363c5464115bdd987d2f59d79301990945aacc2b68
 ---
 
 1

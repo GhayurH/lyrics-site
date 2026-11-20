@@ -71,9 +71,6 @@ romanLyrics: |-
   Zainab ne kiya yuṅ raqam dildaar ka maatam
   Khaime se nikal aai bahan bhaai ke gham mein
   Karti hui Abbas-e-alamdaar ka maatam
-# source_id: ziyaraat:fb66f91effd24f0a4658
-# source_url: https://www.ziyaraat.net/api/noha/2565
-# raw_sha256: 357cc34b39eb4c7c0d4d350cf35d180b84b4e25159e9c187015075e1b9849832
 ---
 
 عباسؑ کا ماتم ہے وفادار کا ماتم

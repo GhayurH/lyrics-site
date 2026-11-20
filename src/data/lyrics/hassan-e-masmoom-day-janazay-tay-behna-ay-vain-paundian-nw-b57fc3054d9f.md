@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:b57fc3054d9f5655c347
-# source_url: https://www.nohawriteups.org/hassan-e-masmoom-day-janazay-tay-behna-ay-vain-paundian/
-# original_html: snapshots/nohawriteups/original_html/b57fc3054d9f5655c347.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b57fc3054d9f5655c347.json
-# api_content_sha256: 1cc77c7a2d42e8c767ee1753a0bf49994336c14f0660f04c1efaecaea5d2bd9a
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Hassan-e-Masmoom Day Janazay Tay Behna Ay Vain Paundian

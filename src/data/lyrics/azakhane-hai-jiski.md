@@ -76,9 +76,6 @@ romanLyrics: |-
   Ganga Jamna ki hai sabileṅ tashna laboṅ ki yaad meiṅ aam
   Uthta hai Bangaal se baadal liye huwe ashkoṅ ka jaam
   Aamir aur Nayaab ke jazbe Bharat pe qurbaaṅ
-# source_id: nohayonline:93de1b572a35539f281d
-# source_url: https://www.nohayonline.com/details_content.php?id=3643
-# raw_sha256: c7eeba1069a5fb36d70347a2ee7276ff6ab0fb91ea9808874f60d40dd22fe1d7
 ---
 عزا خانے ہے جس کی شان یہ میرا ملک میرا ایمان
 میرے مولا کی خواہش کا نام ہے ہندوستان

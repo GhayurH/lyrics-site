@@ -8,9 +8,6 @@ poet: "Yousuf"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:99e6792211f592d7939f
-# source_url: https://tajpoints.com/2026/04/madh-e-raza-mir-yousuf-mir-lyrics-urdu.html
-# raw_sha256: e367fda15a6a57d611dc02a1f882e957a30ddee41a1cade8a9bfa79f26f2f504
 ---
 
 Jo Pocha Farishton Se Kya Kar Rahe Hain.

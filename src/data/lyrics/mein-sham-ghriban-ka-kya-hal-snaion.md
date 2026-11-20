@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ac996bcc3ea6f495bb88
-# source_url: https://www.ziyaraat.net/api/noha/630
-# raw_sha256: 07da5dda5a9a7f334a79774a50c32f0a197703ab7c4ffa4899d7fb664dd99560
 ---
 
 May sham-e-ghariban ka kiya haal sunaoon

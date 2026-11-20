@@ -8,9 +8,6 @@ poet: "Nasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e585177b8c5b4f58ef47
-# source_url: https://tajpoints.com/2021/08/haye-zalim-chala-dita-khanjar-syed.html
-# raw_sha256: 38d7853af96bae1a3a704e42aabb85420d5208304c17214b3e5635fa8f3c800a
 ---
 
 1

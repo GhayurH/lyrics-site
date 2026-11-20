@@ -54,9 +54,6 @@ romanLyrics: |-
   Roshan hai daagh-e-qalb-e-jigar surat-e-charaagh
   Karb o bala meiṅ lut gaya Sibt-e-Nabi ka baagh
   Qalb-e-figaar chaak kaleja liye huwe
-# source_id: nohayonline:3023aaa7253092ef881a
-# source_url: https://www.nohayonline.com/details_content.php?id=189
-# raw_sha256: 92edd3b2c612c1653565a7fa5029d786fe32bcc3763e0a89bf1094de26afb623
 ---
 
 زینب مدینے جاتی ہے کیا کیا لیے ہوئے

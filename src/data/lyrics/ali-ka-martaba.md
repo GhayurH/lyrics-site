@@ -10,9 +10,6 @@ reciter: "Tableegh-e-Imamia"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:ff8461a5242df8eaef77
-# source_url: https://www.nohayonline.com/details_content.php?id=53
-# raw_sha256: 33abc8ad788dd11c33142f9da7a42b1af8f66ea818b1aa8794d89009663cc088
 romanLyrics: |-
   Ali ka martaba Allahu Akbar
 

@@ -8,9 +8,6 @@ poet: "Naveed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e353d96e7e192c02cdf4
-# source_url: https://tajpoints.com/2017/02/ghar-se-nikal-ke-khoon-mein-nihane.html
-# raw_sha256: 132e6dfe7b52b7c14a81183c9ba9eb93db4f17a00539d4c23a515e14cf3e81da
 ---
 
 1

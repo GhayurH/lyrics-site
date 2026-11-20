@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da4441c4a2e432c1dfbf
-# source_url: https://tajpoints.com/2017/02/hain-jahan-mein-naib-e-shabiras-zain-ul.html
-# raw_sha256: c5acfa4e67e61cfc870ceac9dbf30abc3f75247b9489ac08a86cd7bddc7d3455
 ---
 
 Hain Jahan Mein Naib e Shabir Zain ul Abideen

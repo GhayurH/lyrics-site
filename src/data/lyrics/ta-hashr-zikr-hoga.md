@@ -50,9 +50,6 @@ romanLyrics: |-
   Hai zindagi ka zaamin jhonka wohi hawa ka
   Alamdar e wafa
   Ta hashr zikr hoga...
-# source_id: nohayonline:85f1db03aa55e64d1afe
-# source_url: https://www.nohayonline.com/details_content.php?id=2118
-# raw_sha256: c6803a7b6956c776b85f6efd5e37f05566689f2658dd8095ee18328522a6dfc6
 ---
 
 ۱

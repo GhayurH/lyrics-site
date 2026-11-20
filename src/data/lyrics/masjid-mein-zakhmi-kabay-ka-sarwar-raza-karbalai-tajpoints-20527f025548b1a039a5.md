@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:20527f025548b1a039a5
-# source_url: https://tajpoints.com/2024/03/masjid-mein-zakhmi-kabay-ka-sarwar-raza.html
-# raw_sha256: 1569ed5749428b2e306013eaadc00108853bb52edcee7469b8e35a7fd029caa1
 ---
 
 1

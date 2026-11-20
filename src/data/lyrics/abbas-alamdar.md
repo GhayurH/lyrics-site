@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:f2fa8046532323bda271
-# source_url: https://www.nohawriteups.org/abbas-alamdar/
-# raw_sha256: 3c108d4a0333f39b9dd9c891c9f8f3494dc7f458fc5b76889846796e1c3cbd38
-# source_title_original: Abbas Alamdar
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Kehti hai wafadari virsa hai alamdari
   Bedast hai phir bhi hai alamdar alamdar

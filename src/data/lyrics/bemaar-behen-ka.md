@@ -63,9 +63,6 @@ romanLyrics: |-
   Asif jo khat-e-Sughra Sarwar ne parha hoga
   Akbar ne Khuda jaane kis tarah suna hoga
   Aamir tujhe duniya ko ehsaas dilaana hai
-# source_id: nohayonline:9d2ee152680c26e995ef
-# source_url: https://www.nohayonline.com/details_content.php?id=2135
-# raw_sha256: a7f6c4d893036810b2d3c2875f2cbab7517d5d906141b51c676c8ad7f5412042
 ---
 بیمار بہن کا خط بھائی کو سنانا ہے
 دشوار بہت لیکن سوتے کو جگانا ہے

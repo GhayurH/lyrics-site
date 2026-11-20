@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:97188400773913cb3a88
-# source_url: https://tajpoints.com/2018/10/sajjad-nu-qatal-nayi-karna-aino-qadam.html
-# raw_sha256: 62677623f8856d08b770da283224e5be549e2c1a9d5b01585a7f5bd93b5f8a8e
 ---
 
 Sajjad Nu Qatal Nayi Karna Aino Qadam Qadam Tarparaan Aye.

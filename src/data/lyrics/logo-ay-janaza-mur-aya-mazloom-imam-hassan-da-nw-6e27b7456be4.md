@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6e27b7456be4e5794866
-# source_url: https://www.nohawriteups.org/logo-ay-janaza-mur-aya-mazloom-imam-hassan-da/
-# original_html: snapshots/nohawriteups/original_html/6e27b7456be4e5794866.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6e27b7456be4e5794866.json
-# api_content_sha256: 705c52ae11632d9e7d52bc4003f46da498224b51c6daa0824f8d698638b49f26
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Logo Ay Janaza Mur Aya Mazloom Imam Hassan Da

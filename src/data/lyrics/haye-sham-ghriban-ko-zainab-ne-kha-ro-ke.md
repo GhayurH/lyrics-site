@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c6d89b802644b85b2f1c
-# source_url: https://www.ziyaraat.net/api/noha/2279
-# raw_sha256: eb827add44b32541ae803bb4e964db715230889f02880adbcfb65824d40b4563
 ---
 
 Haey sham e ghariban ko Zainab ne kaha ro ke – may ujarr gayi Ghazi

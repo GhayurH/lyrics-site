@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:15ed3d73032535991f79
-# source_url: https://tajpoints.com/2022/06/fatima-ki-sada-haye-taqi-syed-raza.html
-# raw_sha256: a576f2778f8de866cf961fa69365370abcfd1dcf64817c9e43d5888549a0bbc8
 ---
 
 1

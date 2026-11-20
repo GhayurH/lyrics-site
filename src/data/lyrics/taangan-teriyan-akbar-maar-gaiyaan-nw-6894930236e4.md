@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6894930236e4b56f74cd
-# source_url: https://www.nohawriteups.org/taangan-teriyan-akbar-maar-gaiyaan/
-# original_html: snapshots/nohawriteups/original_html/6894930236e4b56f74cd.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6894930236e4b56f74cd.json
-# api_content_sha256: 2800aeae1250a06e433459e29914760ab871c95269acb9be302b1131af3cbe30
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Taangan Teriyan Akbar Maar Gaiyaan Watna Te Aa Vi Ja

@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a9784aaa034848918ae8
-# source_url: https://tajpoints.com/2023/01/taqwa-ki-barhi-shan-mere-mola-taqi-se.html
-# raw_sha256: 6da3a3ec0ecd5a8cc2539f72d60dc6048b01a74df7fc2fe5fc5fac430140c48f
 ---
 
 Taqwa Ki Barhi Shan Mere Mola Taqi Se.

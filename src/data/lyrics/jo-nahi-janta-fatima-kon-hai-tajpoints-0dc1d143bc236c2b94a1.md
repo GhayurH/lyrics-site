@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0dc1d143bc236c2b94a1
-# source_url: https://tajpoints.com/2021/06/jo-nahi-janta-fatima-kon-hai-sajjad.html
-# raw_sha256: b46de2023990f6e30e4813c8436d351b20490e3bea8104ccdf2ee06fca93414d
 ---
 
 Jo Nahi Janta Fatima Kon Hai Sajjad Ashraf Taqvi

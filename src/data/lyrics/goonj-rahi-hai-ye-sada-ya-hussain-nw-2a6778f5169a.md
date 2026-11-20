@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2a6778f5169a1cf68bb0
-# source_url: https://www.nohawriteups.org/goonj-rahi-hai-ye-sada-ya-hussain/
-# original_html: snapshots/nohawriteups/original_html/2a6778f5169a1cf68bb0.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2a6778f5169a1cf68bb0.json
-# api_content_sha256: 1bc575dd0685d8d3ce19c89effce3dfacfebf9e36a284ab71898f64acbf0cd94
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 goonj rahi hai ye sada ya hussain

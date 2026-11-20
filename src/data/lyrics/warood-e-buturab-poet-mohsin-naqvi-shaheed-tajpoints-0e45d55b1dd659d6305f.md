@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0e45d55b1dd659d6305f
-# source_url: https://tajpoints.com/2017/04/warood-e-buturab-poet-mohsin-naqvi.html
-# raw_sha256: e0424d9304e9b223407df7a1baded1975ef7732f3d67bc9ccbe808c75e1865f6
 ---
 
 1

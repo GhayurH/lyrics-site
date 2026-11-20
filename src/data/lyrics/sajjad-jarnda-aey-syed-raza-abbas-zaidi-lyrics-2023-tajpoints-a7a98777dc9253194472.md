@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a7a98777dc9253194472
-# source_url: https://tajpoints.com/2023/08/sajjad-jarnda-aey-syed-raza-abbas-zaidi.html
-# raw_sha256: fc3846dc0a7a6990e559fdd1f8bdbee44917ff9979c2be981fe3ca9f14283e35
 ---
 
 1

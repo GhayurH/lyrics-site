@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e3a15ed3451b01a15fe6
-# source_url: https://tajpoints.com/2018/11/karbala-toon-aa-gaya-aye-qafila-shabir.html
-# raw_sha256: 51c86fd3f245d0990a0a47c336298982f20abb94cf056c09c80be56e0011186d
 ---
 
 1

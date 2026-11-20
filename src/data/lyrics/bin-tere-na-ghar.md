@@ -59,13 +59,6 @@ romanLyrics: |-
   Gar puchh liya mujh se kisi ne
   Batlaauṅ gi un ko maiṅ ye kaise
   Bas sharm se mar jaauṅ gi bhaiya
-# source_id: nohayonline:d030a65a62cf621791fd
-# source_url: https://www.nohayonline.com/details_content.php?id=348
-# raw_sha256: d6d8b04ef83893a7d6694cf36005bed8d1805877e720652c397b596e8e4bcfcd
-# source_id: nohawriteups:f67958424a2ebe2938a5
-# source_url: https://www.nohawriteups.org/bin-tere-na-ghar/
-# original_html: snapshots/nohawriteups/original_html/f67958424a2ebe2938a5.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f67958424a2ebe2938a5.json
 ---
 عابد نے کہا آکے قریب بنتِ علی سے
 اب سُوئے وطن چلیے پھپی جان میں صدقے

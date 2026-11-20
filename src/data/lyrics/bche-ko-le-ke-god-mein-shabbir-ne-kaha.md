@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c0aa8b42b2cc673c47e8
-# source_url: https://www.ziyaraat.net/api/noha/2500
-# raw_sha256: 22d131e3e42dbbc8dfa5b565bf732d9e77784105559fa8ab6720345f7819af99
 ---
 
 بچّے کو لے کے گود میں شبیرؑ نے کہا

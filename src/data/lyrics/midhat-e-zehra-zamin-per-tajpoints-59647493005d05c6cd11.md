@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:59647493005d05c6cd11
-# source_url: https://tajpoints.com/2021/02/midhat-e-zehra-zamin-per-lyrics-in-urdu.html
-# raw_sha256: b3b9283e12b7e27848c3ce26dc33fb72ee1fa4ad164c378c8a6b38c360c79ca3
 ---
 
 1

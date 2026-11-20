@@ -110,12 +110,6 @@ romanLyrics: |-
   Le Ke Moujud Haiṅ Tere Nokar
   Haa Aliyun Basharun Kaifa Bashar
   Ali Asadullah Ali Waliullah
-# source_id: nohawriteups:3a6e554219c49a81e5ff
-# source_url: https://www.nohawriteups.org/ali-a-s-asadullah/
-# raw_sha256: 03134378d17f001f593d6297a57eb1b819c1a562c823b23bebf581bbcbb5c054
-# source_id: ziyaraat:34758ca97aab3408391d
-# source_url: https://www.ziyaraat.net/api/noha/1836
-# raw_sha256: 3d3cc47f2bbead9398d833e5c65663f426d03b03021235710358d68ec18f62ed
 ---
 
 علیؑ اَسَدُاللہ

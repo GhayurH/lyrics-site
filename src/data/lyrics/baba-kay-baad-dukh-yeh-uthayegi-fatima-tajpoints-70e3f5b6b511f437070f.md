@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:70e3f5b6b511f437070f
-# source_url: https://tajpoints.com/2020/12/baba-kay-baad-dukh-yeh-uthayegi-fatima.html
-# raw_sha256: 072f1e344bd8dd5ffe8634a5facce5c3644cf5b6f9387cea1f768a5fd7b986d6
 ---
 
 1

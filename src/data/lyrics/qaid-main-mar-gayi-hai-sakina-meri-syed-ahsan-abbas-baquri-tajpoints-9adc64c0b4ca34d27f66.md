@@ -8,9 +8,6 @@ poet: "Ahsan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9adc64c0b4ca34d27f66
-# source_url: https://tajpoints.com/2021/08/qaid-main-mar-gayi-hai-sakina-meri-syed.html
-# raw_sha256: 0463223813d7edd7567d894a2e8bb8072aa9d1dd917bb531a83e29dbce7dba7e
 ---
 
 1

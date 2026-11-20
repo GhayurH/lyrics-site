@@ -59,10 +59,6 @@ romanLyrics: |-
   12
   Nasir ka ye daawa hai banta hai Husain aise
   Saanche meiṅ imaamat ke Quraan ka dhal jaana
-# editorial_note: Alternate readings: stanza 4 begins "Mola ki wasiyat thi Abbas dilawar ko"; stanza 10 begins "Haider ki shujaat ka andaz nazar aaya".
-# source_id: ziyaraat:331e7d70371a2ea52d7e
-# source_url: https://www.ziyaraat.net/api/noha/574
-# raw_sha256: 6f7da6a55378b375a6aaa08393f20caf09b035d0984aae1b3d7c9fe1937b5d4b
 ---
 
 تیروں کے مصلے پر وہ سجدہ شکرانہ

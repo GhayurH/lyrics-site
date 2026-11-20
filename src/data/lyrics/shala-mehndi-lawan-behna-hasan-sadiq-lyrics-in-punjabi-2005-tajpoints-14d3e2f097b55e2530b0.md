@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:14d3e2f097b55e2530b0
-# source_url: https://tajpoints.com/2023/04/shala-mehndi-lawan-behna-hasan-sadiq.html
-# raw_sha256: 8d1508e4bcddd0a9c3a97cad38692db2ff2c49e4f077bcf9ef1a7f20aa678af8
 ---
 
 1

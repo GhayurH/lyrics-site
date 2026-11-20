@@ -8,9 +8,6 @@ poet: "Bilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5de870dc72ad6feb6f39
-# source_url: https://tajpoints.com/2019/04/kahin-dushman-ke-piaday-kahin-aswar.html
-# raw_sha256: 8fe6c2f68682e2ed7b6f6f25d7e994a47aa5119784b3c18f78d7574efecdad9c
 ---
 
 Kahin Dushman Ke Piaday Kahin Aswar Giray.

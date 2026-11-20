@@ -8,9 +8,6 @@ poet: "Ahsan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6907f3a156811b81f7fe
-# source_url: https://tajpoints.com/2023/04/barsar-e-raig-e-karbala-hai-hussain.html
-# raw_sha256: 9a139b0066bfb71d13c8e5ddbb974d4f4686db7d52d72fbdbb0abb7481bcac71
 ---
 
 1

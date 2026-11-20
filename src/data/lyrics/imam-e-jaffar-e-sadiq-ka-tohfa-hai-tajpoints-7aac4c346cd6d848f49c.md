@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7aac4c346cd6d848f49c
-# source_url: https://tajpoints.com/2018/03/imam-e-jaffar-e-sadiq-ka-tohfa-hai.html
-# raw_sha256: eaa039e0f9b4c0d5f4192eda4805c1b62a0ac5ac4b73801d88c4c91525d392e5
 ---
 
 Zamane Mein Jo Charcha Fiqa-o-Deen-e-Mustafa Ka Hai.

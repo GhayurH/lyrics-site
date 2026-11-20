@@ -35,9 +35,6 @@ romanLyrics: |-
   6
   Jin ko ab naaz Madine, pe bohat hai gohar
   Unki kismat Mai likha deis, paraya hoga
-# source_id: ziyaraat:331453b8f8cee680f953
-# source_url: https://www.ziyaraat.net/api/noha/456
-# raw_sha256: d2a9b6603ab6b0b76dcd24de3ac5f61c76cc92cf07c216ac81860c36555911cd
 ---
 
 لاشہ جب سبطِ پیمبرؑ کا اٹھایا ہوگا

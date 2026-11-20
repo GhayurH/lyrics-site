@@ -130,12 +130,6 @@ romanLyrics: 'Baba mere baba
   Phool turbat pe chadade ek diya laake jalade
 
   Kya madine may koi hai'
-# source_id: nohayonline:4f30e0a123746df49888
-# source_url: https://www.nohayonline.com/details_content.php?id=321
-# raw_sha256: 89571380430eb9f732458c16ffe55a0cab3037b5f73524cf3f81641000098aaa
-# source_id: ziyaraat:0d93565250992ee392b7
-# source_url: https://www.ziyaraat.net/api/noha/1681
-# raw_sha256: 653282a2ebcdc423e393aa83904a98b644c8d0c7362f286c1bdaba61e899443a
 ---
 
 بابا میرے بابا

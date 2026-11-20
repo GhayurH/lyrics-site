@@ -8,13 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cd413644c91c4dc5c054
-# source_url: https://tajpoints.com/2020/05/kon-samjha-hai-martaba-maa-ka-1-lyrics.html
-# raw_sha256: 2a4b059bde82d0486f024594cba11e52ccb74cc885c4cf2f293fe0a4cbd1c0d1
-# source_id: tajpoints:a1da70bcefd23d8f4c16
-# source_url: https://tajpoints.com/2020/05/kon-samjha-hai-martaba-maa-ka-2-lyrics.html
-# raw_sha256: 7d38a162ac5f6b866f539baa0df0ff3728613d72724a820cb2f36ff656d70679
-# editorial_note: The TajPoints pages -1 and -2 are consecutive portions of the same Roman composition; concatenated their seven and six four-line stanzas in page order. Full identity of source-attributed poet 'Jaun' requires verification. Unpublished.
 ---
 
 1

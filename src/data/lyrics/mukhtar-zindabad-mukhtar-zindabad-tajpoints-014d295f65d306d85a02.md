@@ -8,9 +8,6 @@ poet: "Takallaum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:014d295f65d306d85a02
-# source_url: https://tajpoints.com/2017/11/mukhtar-zindabad-mukhtar-zindabad.html
-# raw_sha256: 05f7345a13af7df35675079235293f1c916957a6319b39e765ddefb96d96dd2b
 ---
 
 Mukhtar Zindabad Mukhtar Zindabad.

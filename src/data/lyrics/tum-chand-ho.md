@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Noha tha Naved us ke laboṅ par yehi har dam
   Dam sine meiṅ rukne laga aao Ali Akbar
-# source_id: nohayonline:3e49dcf685bb76291ae3
-# source_url: https://www.nohayonline.com/details_content.php?id=974
-# raw_sha256: 4d13b0809a7f349788d111316a634e4fc6358ed49158b87f3ea5c36ae4530a0d
 ---
 تم چاند ہو اس گھر کا نہ جاؤ علی اکبر
 صغرا کی ضعیفی نہ بڑھاؤ علی اکبر

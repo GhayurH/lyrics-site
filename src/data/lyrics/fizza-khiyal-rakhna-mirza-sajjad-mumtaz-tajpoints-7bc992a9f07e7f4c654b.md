@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7bc992a9f07e7f4c654b
-# source_url: https://tajpoints.com/2025/11/fizza-khiyal-rakhna-mirza-sajjad-mumtaz.html
-# raw_sha256: cdf2fb5ebc9152fd3fa1f1fe8c6553e096fed63d9d87b32e246a4f53072b3e84
 ---
 
 1

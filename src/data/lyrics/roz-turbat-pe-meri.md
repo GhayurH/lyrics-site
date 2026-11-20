@@ -54,9 +54,6 @@ romanLyrics: |-
   Bain ye Mazhar o Farhan Sakina ne kiye
   Zaalimoṅ se na kafan lena Sakina ke liye
   Mujh ko kurte meiṅ hi marqad meiṅ sulaana ammaṅ
-# source_id: nohayonline:3a694e40f700265390d1
-# source_url: https://www.nohayonline.com/details_content.php?id=3552
-# raw_sha256: 40824df25072a495b36ca7c1736bef08bc4d9db1e8167c055862be793bdac9f9
 ---
 وصیت ہے یتیموں کی زنداں سے سکینہ کی
 

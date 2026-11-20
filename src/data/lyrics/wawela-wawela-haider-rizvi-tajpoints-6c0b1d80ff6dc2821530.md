@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6c0b1d80ff6dc2821530
-# source_url: https://tajpoints.com/2023/04/wawela-wawela-haider-rizvi-lyrics-in.html
-# raw_sha256: 5acd58bb18eb9bdf016b9020c90a7d6f934aa170c368eea518ac039dc7905c2a
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fe20d6b9ee2573d4172a
-# source_url: https://tajpoints.com/2018/05/tujhe-sochna-meri-zindagi-tera-ishq.html
-# raw_sha256: 89c1e847b148ccaeb422b60719552db21c013f8bb34824bab8e33b2c15bdbead
 ---
 
 Tujhe Sochna Meri Zindagi Tera Ishq Meri Hayat Hai.

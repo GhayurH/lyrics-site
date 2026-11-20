@@ -49,12 +49,6 @@ romanLyrics: |-
   Ahmed ki nawaasi ka Yasir yehi nauha tha
   Na bhaai bache mere na koi bacha beta
   Ab ji ke karuṅgi kya gar maut nahiṅ aayi
-# source_id: nohayonline:23fa7209a6d1ec4efc7f
-# source_url: https://www.nohayonline.com/details_content.php?id=15
-# raw_sha256: 802250fed30e209dd258143fa4149017d8f13edbc3cd1f1e7bb7c52de26dbfd5
-# source_id: ziyaraat:dd25cdfeffa9283f129f
-# source_url: https://www.ziyaraat.net/api/noha/1524
-# raw_sha256: 493d93cb7ee8d2f0f6d28515c72f2d74b10613bdc3a8722cb0f06c4df2dbcbf0
 ---
 
 بازار میں بنتِ علی دیتی تھی صدا بھائی

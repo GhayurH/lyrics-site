@@ -60,9 +60,6 @@ romanLyrics: |-
   Kaise Rashid kehta Bibi tumhaara nauha
   Tum par musibatoṅ ka kaisa pahaar tuta
   Bimaar ka tarapna behna meri Sakina
-# source_id: nohayonline:1beefbd67813e9ba2d5e
-# source_url: https://www.nohayonline.com/details_content.php?id=3767
-# raw_sha256: 7b2d4b06a50903046d3ec0429c8d93d4d36b12345d1fc602635ce26253ec6736
 ---
 کیسا ہے قید خانہ دم ٹوٹتا ہے کس کا
 زنجیر ڈھونڈھتا ہے زندان کا اندھیرا

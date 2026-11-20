@@ -35,9 +35,6 @@ romanLyrics: |-
   Bazaran chon guzar ke darbar wich khalo ke
   Kaabay de jairay bach gaye Zainab ne but oo toray
   Khutba Ali di dhi da Khutba Husain da
-# source_id: ziyaraat:6b268c3bbe333c30e1f9
-# source_url: https://www.ziyaraat.net/api/noha/2112
-# raw_sha256: 11494702f5d25c5ff481a2ff1b4f5d10f52f5e5bd5d96bbe4ab34f1aff3023cf
 ---
 
 تیروں کی جانماز پہ سجدہ حسینؑ کا

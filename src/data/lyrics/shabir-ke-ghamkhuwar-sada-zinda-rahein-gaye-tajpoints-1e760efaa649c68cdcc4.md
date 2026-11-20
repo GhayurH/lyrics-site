@@ -8,9 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1e760efaa649c68cdcc4
-# source_url: https://tajpoints.com/2018/01/shabir-ke-ghamkhuwar-sada-zinda-rahein.html
-# raw_sha256: 1bd372866fc606b495aa9258a03e0917ed770893e78c206c2dcb0385c8919247
 ---
 
 1

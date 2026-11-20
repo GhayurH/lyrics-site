@@ -68,9 +68,6 @@ romanLyrics: |-
   Naizo pe rakhe har ek sar ka pursa
   Bibi tumhare bhare ghar ka pursa
   Itna royi zehra
-# source_id: nohayonline:6c2d01e49a97c6291702
-# source_url: https://www.nohayonline.com/details_content.php?id=936
-# raw_sha256: 139faebeacd39944443dd8e1669eaa98d691fac3c608876c6c450fab70298a98
 ---
 
 ۱

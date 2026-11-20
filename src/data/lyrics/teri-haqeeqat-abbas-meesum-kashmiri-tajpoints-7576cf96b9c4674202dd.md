@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7576cf96b9c4674202dd
-# source_url: https://tajpoints.com/2021/03/teri-haqeeqat-abbas-meesum-kashmiri.html
-# raw_sha256: f9e20eafb7ff236930d2e66373ed8e92d9b63750abd37e97926419de60e6ca28
 ---
 
 Teri Haqeeqat Abbas Meesum Kashmiri.

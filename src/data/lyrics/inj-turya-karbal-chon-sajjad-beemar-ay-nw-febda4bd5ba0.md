@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:febda4bd5ba008e9bb41
-# source_url: https://www.nohawriteups.org/inj-turya-karbal-chon-sajjad-beemar-ay/
-# original_html: snapshots/nohawriteups/original_html/febda4bd5ba008e9bb41.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/febda4bd5ba008e9bb41.json
-# api_content_sha256: 58a23d22603261139f9b14b12f809d8923bf179b0bd96c45f31572c7e6342bce
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Inj Turya Karbal Chon Sajjad Beemar Ay

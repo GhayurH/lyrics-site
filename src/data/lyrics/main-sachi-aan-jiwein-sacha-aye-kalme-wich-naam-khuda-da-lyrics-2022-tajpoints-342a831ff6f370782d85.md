@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:342a831ff6f370782d85
-# source_url: https://tajpoints.com/2023/12/main-sachi-aan-jiwein-sacha-aye-kalme.html
-# raw_sha256: 85c16f7b6002c40f05b281a0c8c90f4ef8100cd80535490834018a3dc37e1d6d
 ---
 
 Main Sachi Aan Jiwein Sacha Aye Kalme Wich Naam Khuda Da.

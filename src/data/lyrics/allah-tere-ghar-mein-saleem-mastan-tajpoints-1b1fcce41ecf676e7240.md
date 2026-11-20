@@ -8,9 +8,6 @@ poet: "Ahsaan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1b1fcce41ecf676e7240
-# source_url: https://tajpoints.com/2025/12/allah-tere-ghar-mein-saleem-mastan.html
-# raw_sha256: f93d0deedecb9e4cadb064a65a7ffae77130374efeb41646f2c8f4fdd78b647d
 ---
 
 1

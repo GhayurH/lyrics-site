@@ -58,12 +58,6 @@ romanLyrics: 'Mera beemar imam
   5. Roze Mehshar ka hame dar nahi koi SHAUKAT
 
   Hath Shabbir ke qadmon pe hamara hoga'
-# source_id: nohayonline:d46e8c5954a932f5a3a8
-# source_url: https://www.nohayonline.com/details_content.php?id=430
-# raw_sha256: 3550f894636338b49d6b28e1b182ddc9d1d3d4bc9dab3f2629ac527c26042487
-# source_id: ziyaraat:b7b9d58497eb7dab0c6d
-# source_url: https://www.ziyaraat.net/api/noha/148
-# raw_sha256: f5f740a67d2e4f47464da382f5b2144a23c92ee5e05192ba3717998831882edb
 ---
 
 وقت سجاد نے کیسے وہ

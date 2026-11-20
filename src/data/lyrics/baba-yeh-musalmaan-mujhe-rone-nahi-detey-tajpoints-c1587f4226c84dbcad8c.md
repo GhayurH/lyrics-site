@@ -8,9 +8,6 @@ poet: "Sardar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c1587f4226c84dbcad8c
-# source_url: https://tajpoints.com/2019/10/baba-yeh-musalmaan-mujhe-rone-nahi.html
-# raw_sha256: ff0e0cba40dca6b0a581820a3ac4e84a2e484517a4eca9314c37dce55fe1442f
 ---
 
 Baba Yeh Musalmaan Mujhe Rone Nahi Detey.

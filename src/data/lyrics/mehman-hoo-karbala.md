@@ -62,9 +62,6 @@ romanLyrics: |-
   Lag ja mere sine se mere naazoṅ ke paale
   Kaise hoga karbal meiṅ mera laal akela
   Amma amma mehman hoo...
-# source_id: nohayonline:e88ee3002d32014ee828
-# source_url: https://www.nohayonline.com/details_content.php?id=1038
-# raw_sha256: 6572eeef24940bd3157d8594827564606a3e39b78b9314994a0aba5a6b138ee8
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7a89d204c3916768f6c5
-# source_url: https://tajpoints.com/2018/08/al-ajal-kehte-hoye-ahl-e-azza-aao-sab.html
-# raw_sha256: 37901b226843269a5e77e0bc99c705a2ced819f67cb8888736e1894c4c173011
 ---
 
 Al-Ajal Kehte Hoye Ahl-e-Azza Aao Sab Sham Chalein.

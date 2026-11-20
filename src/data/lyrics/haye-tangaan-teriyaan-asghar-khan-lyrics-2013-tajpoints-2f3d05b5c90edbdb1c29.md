@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2f3d05b5c90edbdb1c29
-# source_url: https://tajpoints.com/2023/05/haye-tangaan-teriyaan-asghar-khan.html
-# raw_sha256: c0bf028d77a2fd358ad86e57df02382382ff0fb6407ed860382ecbc68b5230c3
 ---
 
 1

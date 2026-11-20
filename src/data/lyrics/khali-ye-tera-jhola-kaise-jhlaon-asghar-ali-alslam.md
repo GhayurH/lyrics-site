@@ -49,9 +49,6 @@ romanLyrics: |-
   Bano k laal itni, Rehan ko dua dy
   Umm-e-Rubab ko ye
   Noha sunaoṅ Asghar
-# source_id: ziyaraat:635a633aa434c23866a4
-# source_url: https://www.ziyaraat.net/api/noha/2038
-# raw_sha256: 220acd202791843d66f298bb76815726ac50f6334812ebf6c4e1bf6a3a6db9fe
 ---
 
 ,  کیسے جھلاؤں اصغرؑ

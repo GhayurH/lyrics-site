@@ -55,9 +55,6 @@ romanLyrics: |-
   Rote haiṅ ahl-e-haram
   Sun ke ye nauha tera
   Qasim-e-gulgu qabaa
-# source_id: nohayonline:e81bc4d128e41f1ec11b
-# source_url: https://www.nohayonline.com/details_content.php?id=3771
-# raw_sha256: 64ae2c4f8010af45a7712c160369e82155ccbce6c5dec8ad0a5295d75d6d9a65
 ---
 بولے شاہِ کربلا
 قاسمِ گلگو قبا

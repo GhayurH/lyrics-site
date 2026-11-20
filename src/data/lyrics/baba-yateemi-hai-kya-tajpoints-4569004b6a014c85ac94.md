@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4569004b6a014c85ac94
-# source_url: https://tajpoints.com/2026/08/baba-yateemi-hai-kya-lyrics-in-urdu-2026.html
-# raw_sha256: 8c3b9f4743662fbf72c14f79da8c6d855d1c8a748280aee9a1d09b6def6eb9f5
 ---
 
 1

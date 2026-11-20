@@ -8,9 +8,6 @@ poet: "Daag"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:38110a3857eb5f2c9ffc
-# source_url: https://tajpoints.com/2017/02/un-ke-mujra-jo-zere-aasmaan-bethe-howay.html
-# raw_sha256: fedee4a3f5b5acf6bcd2faf8a3529d89ebdc61802ed5e3724ba244032eebaa97
 ---
 
 Un Ke Mujra The Jo Zere Aasmaan Bethe Howay.

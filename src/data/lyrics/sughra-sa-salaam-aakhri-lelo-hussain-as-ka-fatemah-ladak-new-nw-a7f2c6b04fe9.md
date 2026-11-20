@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a7f2c6b04fe9c59933f4
-# source_url: https://www.nohawriteups.org/sughra-sa-salaam-aakhri-lelo-hussain-as-ka-fatemah-ladak-new-nohay-2023-1445/
-# original_html: snapshots/nohawriteups/original_html/a7f2c6b04fe9c59933f4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a7f2c6b04fe9c59933f4.json
-# api_content_sha256: d4bc62823198bbde291f3c4631780e81dca19bdc05f7a4a523a56d337f1289a2
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 RUKHSAT HAR EK BIBI SE JAB HO CHUKE HUSSAIN

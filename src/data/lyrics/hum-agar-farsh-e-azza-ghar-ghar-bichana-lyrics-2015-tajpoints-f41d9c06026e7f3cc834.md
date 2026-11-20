@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f41d9c06026e7f3cc834
-# source_url: https://tajpoints.com/2017/02/hum-agar-farsh-e-azza-ghar-ghar-bichana.html
-# raw_sha256: 1318bc8b6ee6ad756a6e1009532c5482b4b333a71d33ec61f4a1aa58dd3387dc
 ---
 
 Hum Agar Farsh-e-Azza Ghar Ghar Bichana Choor Dein.

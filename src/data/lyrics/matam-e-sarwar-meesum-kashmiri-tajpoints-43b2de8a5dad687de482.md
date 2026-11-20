@@ -8,9 +8,6 @@ poet: "Hilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:43b2de8a5dad687de482
-# source_url: https://tajpoints.com/2021/08/matam-e-sarwar-meesum-kashmiri-lyrics.html
-# raw_sha256: 624e7570810dc08b1dd804cb5759a65505da4130e8d1c259fc5a819b34cdc88e
 ---
 
 1

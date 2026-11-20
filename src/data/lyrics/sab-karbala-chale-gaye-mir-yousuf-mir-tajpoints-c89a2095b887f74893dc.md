@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c89a2095b887f74893dc
-# source_url: https://tajpoints.com/2023/04/sab-karbala-chale-gaye-mir-yousuf-mir.html
-# raw_sha256: 2494c285fe21f1c28c1876065b62344c142fda8ba0b111d5d0842436330d5074
 ---
 
 1

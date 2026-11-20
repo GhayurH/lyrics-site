@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:57394ec0c59bdc7f6927
-# source_url: https://tajpoints.com/2022/02/kehya-zainab-nana-ayi-aan-main-karan.html
-# raw_sha256: 149fce0396f706db43c65530fa7b39947aa409981203450ceae739ca819614c2
 ---
 
 1

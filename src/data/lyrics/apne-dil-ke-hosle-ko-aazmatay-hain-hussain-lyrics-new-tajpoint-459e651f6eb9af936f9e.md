@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:459e651f6eb9af936f9e
-# source_url: https://tajpoint.com/apne-dil-ke-hosle-ko-aazmatay-hain-hussain/
-# raw_sha256: 54870abe39eb984c010328569e9c00e1e501e79c231dffd7b7d1791eb87141cd
 ---
 
 Apne Dil Ke Hosle Ko Aazmatay Hain Hussain.

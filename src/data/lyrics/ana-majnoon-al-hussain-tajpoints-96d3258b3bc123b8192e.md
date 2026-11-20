@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:96d3258b3bc123b8192e
-# source_url: https://tajpoints.com/2020/12/ana-majnoon-al-hussain-lyrics-in-urdu.html
-# raw_sha256: 3207f1fe87d810fe77b2e271cd6940fa90fa72bc50c0867ac05b77247172c7c3
 ---
 
 Ana Majnoon Al Hussain Write Up

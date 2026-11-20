@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7e7283373f59a62c9cb2
-# source_url: https://tajpoints.com/2022/12/janaza-syed-mohammad-shah-lyrics-in.html
-# raw_sha256: c17fd34dbe38c4564d852c44775f9dd7521c0a91bd409d5966a535d19c0e0cc2
 ---
 
 JANAZA Syed Mohammad Shah Lyrics

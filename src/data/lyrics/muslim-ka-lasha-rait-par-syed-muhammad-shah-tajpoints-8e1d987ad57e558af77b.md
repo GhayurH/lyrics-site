@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e1d987ad57e558af77b
-# source_url: https://tajpoints.com/2023/06/muslim-ka-lasha-rait-par-syed-muhammad.html
-# raw_sha256: eeee2d2bee21b5f8f68aafb60a7f5bc3eed30ca23b165af156866665405cfd27
 ---
 
 Muslim Ka Lasha Rait Par Syed Muhammad Shah.

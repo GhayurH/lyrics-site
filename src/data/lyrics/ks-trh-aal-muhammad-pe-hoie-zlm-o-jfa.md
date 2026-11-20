@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:b286f5266114eb7f9fb0
-# source_url: https://www.ziyaraat.net/api/noha/1718
-# raw_sha256: 00735c10d56f641cd78f881d089fabc8f3775d8287f005ada47f246d84d5f0c5
 ---
 
 Kis tarha Aal-e-Mohammad pay huway zulm o jafa

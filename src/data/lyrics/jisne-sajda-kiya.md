@@ -36,9 +36,6 @@ romanLyrics: |-
   Bibiyaaṅ qaidi huiṅ khaime bhi jalne lage
   Khaime jale jis ne Quraaṅ parha chaand Zehra ka tha
   Khanjar tale
-# source_id: nohayonline:d8c089130e03751ee481
-# source_url: https://www.nohayonline.com/details_content.php?id=2337
-# raw_sha256: 7e56e329d62f12b1f1629313a8cc869ed9e62bc7b3102163098e7162e2a260ad
 ---
 جس نے سجدہ کیا چاند زہرا کا تھا خنجر تلے
 جس کا کوئی نہ رہا چاند زہرا کا تھا خنجر تلے

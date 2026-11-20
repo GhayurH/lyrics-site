@@ -8,9 +8,6 @@ poet: "Navaid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:714b3bdf7dbad71cc7a0
-# source_url: https://tajpoints.com/2019/04/zamenain-nabi-ki-zamana-nabi-ka-lyrics.html
-# raw_sha256: 8f6cca0ab989b56f2ab2fe766b419b074c60cde32cf20da1491759e56dde04e4
 ---
 
 Zamenain Nabi Ki Zamana Nabi Ka Lyrics

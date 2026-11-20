@@ -8,9 +8,6 @@ poet: "Bahadur"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:d2c0735d0009c1e307b0
-# source_url: https://tajpoint.com/aye-janaza-aye-hasan-da-syedaan-de-peer-da/
-# raw_sha256: 4cadb7377980c41995b0dd57e836d28349a7abce816bd658c0e5758ad3f550d7
 ---
 
 1

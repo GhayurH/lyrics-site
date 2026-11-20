@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e929bfa401cf3e39c3e
-# source_url: https://tajpoints.com/2023/02/sirf-wo-hussain-hai-syed-hassan-ayaz.html
-# raw_sha256: 87e0c15507c56eb3e5d89ed87ab2870c90460b17aa6cef2a3084a4cda809a6c2
 ---
 
 Sirf Wo Hussain Hai Syed Hassan Ayaz Jaffri.

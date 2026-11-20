@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cb1371eacbd90cd339d5
-# source_url: https://tajpoints.com/2019/04/karte-hain-ali-wale-yeh-iqrar-qalandar.html
-# raw_sha256: 5d6b41673ec1dcdfce59d4f7ded19a85f5682fdd38535b4d48ce9d4e60794134
 ---
 
 1

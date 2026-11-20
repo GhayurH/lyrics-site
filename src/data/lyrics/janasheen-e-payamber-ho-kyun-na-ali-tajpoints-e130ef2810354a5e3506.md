@@ -8,9 +8,6 @@ poet: "Nayab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e130ef2810354a5e3506
-# source_url: https://tajpoints.com/2017/04/janasheen-e-payamber-ho-kyun-na-ali-woh.html
-# raw_sha256: cca3ce8525b66bfbf0b3e00021c4653ab89daf9ea6d6aeda61b20a9ae3033aa2
 ---
 
 Janasheen-e-Payamber Ho Kyun Na Ali Woh Bhi Mukhtar Hai Yeh Bhi Mukhtar Hai.

@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f61fe5da49fde9c8b692
-# source_url: https://tajpoints.com/2025/04/quran-sonandi-ja-zainab-babay-nu-lyrics.html
-# raw_sha256: 31f9772525d3ad4f9b41b7380eaac0aa0d4313fd17fdcd458b1d9bb20b10ceaf
 ---
 
 Quran Sonandi Ja Zainab Babay Nu Lyrics

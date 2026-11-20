@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cbad8f4025b85a9574a3
-# source_url: https://tajpoints.com/2022/12/gunj-raha-hai-ya-hussain-nadeem-sarwar.html
-# raw_sha256: 2a7537f497319e6aac4d1252e22ecf017f519fdcffe2b14304272aa5d3ccda51
 ---
 
 Gunj Raha Hai Ya Hussain Nadeem Sarwar.

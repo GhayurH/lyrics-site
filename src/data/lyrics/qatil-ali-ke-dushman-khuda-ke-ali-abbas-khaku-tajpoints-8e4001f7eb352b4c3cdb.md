@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e4001f7eb352b4c3cdb
-# source_url: https://tajpoints.com/2022/04/qatil-ali-ke-dushman-khuda-ke-ali-abbas.html
-# raw_sha256: 264ae75708d6e64e8aadd9a5ceb2906fcc5e53184d7fd01f773c2217af094961
 ---
 
 1

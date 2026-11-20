@@ -8,9 +8,6 @@ poet: "Kaleem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0bf8a4f3db4a49fb74c9
-# source_url: https://tajpoints.com/2022/08/nanna-mujahid-aagaya-sajjad-ashraf.html
-# raw_sha256: c89cd9135e60ce459c961c4a98c9038c0def46c87e1d56e04e44612e59105139
 ---
 
 1

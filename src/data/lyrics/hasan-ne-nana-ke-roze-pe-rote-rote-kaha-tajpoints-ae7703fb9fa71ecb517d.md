@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ae7703fb9fa71ecb517d
-# source_url: https://tajpoints.com/2025/11/hasan-ne-nana-ke-roze-pe-rote-rote-kaha.html
-# raw_sha256: 8747bee30dd6b29cd098d8b0231dfc30c98ef194292db4c52568f344e66695e8
 ---
 
 Hasan Ne Nana Ke Roze Pe Rote Rote Kaha.

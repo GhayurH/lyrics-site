@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8fa49c4eae1b71cc5912
-# source_url: https://tajpoints.com/2024/05/mera-zakhmi-veer-hussain-kazmi-brothers.html
-# raw_sha256: 0afd75f527291b8370184171af1d03d224bd4c22ea9f6337957249501d2c2dba
-# source_title_original: Mera Zakhmi Veer Hussain Kazmi Brothers 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Mera Zakhmi Veer Hussain

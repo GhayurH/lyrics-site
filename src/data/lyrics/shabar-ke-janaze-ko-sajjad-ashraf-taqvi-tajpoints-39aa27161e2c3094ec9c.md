@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:39aa27161e2c3094ec9c
-# source_url: https://tajpoints.com/2022/09/shabar-ke-janaze-ko-sajjad-ashraf-taqvi.html
-# raw_sha256: 93cdf93a3ff807ab5c35abe56ab44e21c9bea53d8826037c71e2852c4b43dabe
 ---
 
 1

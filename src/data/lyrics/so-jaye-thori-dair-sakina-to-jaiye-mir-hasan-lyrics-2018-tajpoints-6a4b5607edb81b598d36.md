@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6a4b5607edb81b598d36
-# source_url: https://tajpoints.com/2018/09/so-jaye-thori-dair-sakina-to-jaiye.html
-# raw_sha256: 51d42e38b7e9b8c0d17da82b600054a745731deab2d10dbdff480a36538ce42f
 ---
 
 1

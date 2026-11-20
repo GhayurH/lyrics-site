@@ -9,9 +9,6 @@ reciter: "Syed Raza Abbas Shah"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:17b02e15ec68fd9d5991
-# source_url: https://tajpoints.com/2023/11/hussain-zindabad-syed-raza-abbas-shah.html
-# raw_sha256: 5c5bd8a27508f9797466092c75111fe5622be761ed8b7a6cbbba7c80077ab8e3
 ---
 
 1

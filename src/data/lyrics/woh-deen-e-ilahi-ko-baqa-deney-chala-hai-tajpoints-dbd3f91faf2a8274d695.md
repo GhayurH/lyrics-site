@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dbd3f91faf2a8274d695
-# source_url: https://tajpoints.com/2019/12/woh-deen-e-ilahi-ko-baqa-deney-chala.html
-# raw_sha256: 383cc814313af246235a8568f3ccd64157d1f923ec4db8a198284d8debe423e1
 ---
 
 1

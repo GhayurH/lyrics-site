@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e2964deefc3b304dacb1
-# source_url: https://tajpoints.com/2019/07/al-madad-maula-raza-al-madad-mola-raza.html
-# raw_sha256: eff7f8c5103f89e2ca4c1c74ae01ec55125c9a7e1264400efaad615d485a582a
 ---
 
 Al Madad Maula Raza Al Madad Maula Raza Mir Hasan Mir

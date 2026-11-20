@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:aa6c1fff3b4acd50bc21
-# source_url: https://www.nohawriteups.org/aati-hai-qaime-ke-dar-se-ye-sada/
-# raw_sha256: 5144132040a1ea13c61b88a19bca15ba268a7ff69bb7151dde4529d13adc1d16
-# source_title_original: Aati Hai Qaime Ke Dar Se Ye Sada
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aati hai qaime ke dar se ye sada
   aaye nahi kyon nehr se ab tak chacha

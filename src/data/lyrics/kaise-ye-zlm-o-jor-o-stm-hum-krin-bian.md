@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:96638b822385deb84535
-# source_url: https://www.ziyaraat.net/api/noha/2898
-# raw_sha256: 69a16654ecf17e9c1b7eb86351dc7b689e37debe0b4ca9f49f99fa7a51cc0adf
 ---
 
 الاماں الاماں الاماں الاماں

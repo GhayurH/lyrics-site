@@ -61,9 +61,6 @@ romanLyrics: |-
   Sajde se sar Husain ka neze pe aa gaya
   Behnoṅ ke saamne
 reciter: "Shahid Baltistani"
-# source_id: nohayonline:ffd7f79364857e6f59db
-# source_url: https://www.nohayonline.com/details_content.php?id=2562
-# raw_sha256: 27b59e6f140e2ac5efde3c8a0eb24e13023cdefd1ff1e51236714390293ab4d3
 ---
 یا حسین یا حسین
 یا قتیلِ جفا ہائے غریب حسین

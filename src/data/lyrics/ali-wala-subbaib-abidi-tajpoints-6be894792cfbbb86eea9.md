@@ -8,9 +8,6 @@ poet: "Subbaib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6be894792cfbbb86eea9
-# source_url: https://tajpoints.com/2025/12/ali-wala-subbaib-abidi-lyrics-urdu-2026.html
-# raw_sha256: fe8d8e238e36b481deb4a04e99e07f940d4013fcfb582cf597d1f7d9262e1e5a
 ---
 
 1

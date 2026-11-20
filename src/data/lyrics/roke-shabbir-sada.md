@@ -43,9 +43,6 @@ romanLyrics: |-
   Kar masaaib ka khula aise Sahaab aur Safdar
   Inteha jis ki hui Karb o Bala meiṅ aa kar
   Bas ye tamhid-e-sitam ki hai qaza-e-Muslim
-# source_id: nohayonline:c14e91ff8adaef406d90
-# source_url: https://www.nohayonline.com/details_content.php?id=1561
-# raw_sha256: 87204bf068a4220f65e477c88b476177822127f642a4d02ed514431377daa1db
 ---
 رو کے شبیر صدا دیتے تھے صدا ہائے مسلم
 کون کوفے میں تیرا لاشہ اٹھائے مسلم

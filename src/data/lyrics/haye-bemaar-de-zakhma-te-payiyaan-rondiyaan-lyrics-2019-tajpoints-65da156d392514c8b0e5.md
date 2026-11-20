@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:65da156d392514c8b0e5
-# source_url: https://tajpoints.com/2020/01/haye-bemaar-de-zakhma-te-payiyaan.html
-# raw_sha256: 53c3127a1ea1ba07f5585627d0ae9cce75a675c5eb307eee617b74e408187a80
 ---
 
 1

@@ -50,11 +50,6 @@ romanLyrics: |-
   Jo Saath Le Ke Zainab o Kulsum Aa Gaya
   Maula Ali Ki Beti Yahaṅ Haathoṅ Meiṅ Hai Rasan
   Sehmi Khari Haiṅ Bibiyaaṅ Hai Shimr Ke Dar Se Ae Kalmago Suno
-# source_id: nohawriteups:42311db760e7a7584ac7
-# source_url: https://www.nohawriteups.org/islam-ko-hayaat-mili-zahra-guldasta-jaffria-lyrics/
-# original_html: snapshots/nohawriteups/original_html/42311db760e7a7584ac7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/42311db760e7a7584ac7.json
-# api_content_sha256: 9a2ba585f5a95ec8261e7a9338ba470cf516d6befe9890895fe79f4d67fb8090
 ---
 
 اسلام کو حیات ملی زہرا کے در سے، اے کلمہ گو سنو

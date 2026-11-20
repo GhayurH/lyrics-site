@@ -13,9 +13,6 @@ romanLyrics: |-
   Sifarishoṅ ka bara ihtemam le ke chale
   Har aik qoam ke tha sath sirf aik imam
   Ham apne sath may barah imam le ke chale
-# source_id: ziyaraat:28f5ede200ee50bcb3e7
-# source_url: https://www.ziyaraat.net/api/noha/2275
-# raw_sha256: c978cd0afb6eb6d1ebedd18761ba4a91114b705a4e265f8797ca09812f5dcfff
 ---
 
 ۱

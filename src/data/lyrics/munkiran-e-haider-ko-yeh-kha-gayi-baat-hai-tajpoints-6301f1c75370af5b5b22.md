@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6301f1c75370af5b5b22
-# source_url: https://tajpoints.com/2019/08/munkiran-e-haider-ko-yeh-kha-gayi-baat.html
-# raw_sha256: d340e79303c64fd4b1eaefa51174b09639bc64416ac5e80401c26e6feedbe817
 ---
 
 1

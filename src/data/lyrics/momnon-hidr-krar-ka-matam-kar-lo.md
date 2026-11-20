@@ -59,12 +59,6 @@ romanLyrics: |-
   Kufa o Karb o Bala Shaam se aati hai sada
   Ujre saadaat ke gulzaar ka maatam kar lo
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-# source_id: ziyaraat:bff348936aca10e9140a
-# source_url: https://www.ziyaraat.net/api/noha/2792
-# raw_sha256: 268dfc25c3b4cd2a7ec41ac70a57865cdde8ef2520da336beb64d0a6a56678a5
-# source_id: ziyaraat:f19af8130105730a5dff
-# source_url: https://www.ziyaraat.net/api/noha/293
-# raw_sha256: c3965129c5d8036183b36920f0ce19bd0b1f5ed84925e38471c159e513d238fe
 ---
 
 مومنو حیدرِ کرارؑ کا ماتم کر لو

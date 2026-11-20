@@ -65,9 +65,6 @@ romanLyrics: |-
   Jab chaadar chhinti thi teri yaad bahut aayi
   Haaye wo Zainab ka nauha aur tarapna Ghaazi ka
   Gham ye tumhaara Ae Maula aaj bhi taaza hai Abbas
-# source_id: nohayonline:3845a08fad19b41f7bad
-# source_url: https://www.nohayonline.com/details_content.php?id=2843
-# raw_sha256: cf5b32a9eb5b38b1cbf6a02de26e3d2eda8bf01c18d2ed287bdfcfbd5315e419
 ---
 افلاک پکارے یا عباس عزادار پکارے یا عباس
 ہم سب ہیں تمہارے یا عباس

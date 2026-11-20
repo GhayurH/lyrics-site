@@ -91,9 +91,6 @@ romanLyrics: |-
   Aankhoṅ ko na khola Ghazi ne
   Kehti rahi khwahar ro ro kar
   Imdad ko aa laachari hai
-# source_id: nohayonline:404ff64a71f92760d7d0
-# source_url: https://www.nohayonline.com/details_content.php?id=2109
-# raw_sha256: 38a343822b382907de12bbefa7de6cea6e5dfd6372b2bf32848fbe0b13fb8283
 ---
 
 میرے عباس بھیا عباس

@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2e83e0ba78bd06d03d73
-# source_url: https://www.nohawriteups.org/ghazi-aa-zainab-lae-raahwaan/
-# original_html: snapshots/nohawriteups/original_html/2e83e0ba78bd06d03d73.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2e83e0ba78bd06d03d73.json
-# api_content_sha256: 9f429be76fa30538995b3581f0c6788c3118fe440b5ba65690e20e28667538d3
 ---
 
 Ghazi aa Zainab lae raahwaan cho bheer hata day..

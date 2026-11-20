@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1202370d19572c72e3e6
-# source_url: https://tajpoints.com/2022/04/mola-hussain-hai-mir-hasan-mir-lyrics.html
-# raw_sha256: 4735af6bd88ececbd3c47cdb62acd3d69fdf677be36ded25c5864277290ad8be
 ---
 
 1

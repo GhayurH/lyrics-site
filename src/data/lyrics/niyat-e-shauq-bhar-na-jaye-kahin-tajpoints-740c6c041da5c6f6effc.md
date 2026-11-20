@@ -8,9 +8,6 @@ poet: "Nasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:740c6c041da5c6f6effc
-# source_url: https://tajpoints.com/2017/05/niyat-e-shauq-bhar-na-jaye-kahin.html
-# raw_sha256: 92535d164176484a99d0a1123613d6f923ef6c166c4993b23afb3c64268c0683
 ---
 
 1

@@ -116,9 +116,6 @@ romanLyrics: |-
   Phatta hai jigar ab nahiṅ goyaai ka yaara
   Likha hai chala le ke jo qaatil sar-e-Muslim
   Kothe ke tale pheṅk diya paikar-e-Muslim
-# source_id: nohayonline:92047404d05c10e8cfac
-# source_url: https://www.nohayonline.com/content_marsiya.php?id=20
-# raw_sha256: e4025b69af8fa2b4f22c1e896c438275c3a3b47838db85b14a699bfa554645c7
 ---
 انساں کے لئے موت ہے غم بے وطنی کا
 جانکاہ ہے اندوہ الم بے وطنی کا

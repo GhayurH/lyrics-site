@@ -8,9 +8,6 @@ poet: "Shams"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:41d510a52c7041bb4391
-# source_url: https://tajpoints.com/2024/03/ansu-na-bahao-zainab-qamar-baltistani.html
-# raw_sha256: e5bf2c2a68960d3866d760d8fe39c07cb8741a2de760dce40d527cdc844ec474
 ---
 
 1

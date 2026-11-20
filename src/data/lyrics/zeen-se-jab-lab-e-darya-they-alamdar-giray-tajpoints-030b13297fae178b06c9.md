@@ -8,9 +8,6 @@ poet: "Hamza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:030b13297fae178b06c9
-# source_url: https://tajpoints.com/2020/09/zeen-se-jab-lab-e-darya-they-alamdar.html
-# raw_sha256: 6e42b9d093f96ab37c9796a5dc77484edb8d891f017de96c4733255c3a116810
 ---
 
 Zeen Se Jab Lab-e-Darya They Alamdar Giray.

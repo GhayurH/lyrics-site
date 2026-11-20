@@ -8,9 +8,6 @@ poet: "Rizwan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:b6dede747f341ebd7c24
-# source_url: https://tajpoint.com/ho-qatal-namaz-gayi-loko-lyrics-new-noha-21-ramzan/
-# raw_sha256: a68438e98c7551eb92d83130689ebea16794e24d80f08e0fc8de944f59e3b497
 ---
 
 1

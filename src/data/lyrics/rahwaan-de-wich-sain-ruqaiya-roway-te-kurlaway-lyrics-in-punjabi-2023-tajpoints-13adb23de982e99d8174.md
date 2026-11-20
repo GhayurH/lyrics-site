@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:13adb23de982e99d8174
-# source_url: https://tajpoints.com/2023/06/rahwaan-de-wich-sain-ruqaiya-roway-te.html
-# raw_sha256: 508b22bae38815dd1ef425154eec19027fad90adc36656fc9a075916f2f42d96
 ---
 
 1

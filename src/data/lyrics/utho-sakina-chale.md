@@ -64,9 +64,6 @@ romanLyrics: |-
   Sakina lehad meiṅ tarapti rahi
   Jab bhi ye maadar ne ro kar kaha
   Utho sakina chale...
-# source_id: nohayonline:ccac656a953725015a97
-# source_url: https://www.nohayonline.com/details_content.php?id=1611
-# raw_sha256: 8d5a4ea3adf35b335aabadd2edb7d2edb5a6d8482343e9ea174800c714e28193
 ---
 
 ۱

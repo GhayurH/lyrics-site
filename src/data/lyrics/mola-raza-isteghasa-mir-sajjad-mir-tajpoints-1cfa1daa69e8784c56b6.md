@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1cfa1daa69e8784c56b6
-# source_url: https://tajpoints.com/2021/06/mola-raza-isteghasa-mir-sajjad-mir.html
-# raw_sha256: 4823b94595540b72812f87e7b562f0a02f7e051871b1b7d25550e5a2a4686b7b
 ---
 
 1

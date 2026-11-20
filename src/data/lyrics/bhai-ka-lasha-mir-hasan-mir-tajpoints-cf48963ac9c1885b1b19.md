@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cf48963ac9c1885b1b19
-# source_url: https://tajpoints.com/2022/08/bhai-ka-lasha-mir-hasan-mir-lyrics-in.html
-# raw_sha256: 897ea0f1b98674fde99c610af0afcc72c69060be1ad40b2b31aec491d2dfb893
 ---
 
 1

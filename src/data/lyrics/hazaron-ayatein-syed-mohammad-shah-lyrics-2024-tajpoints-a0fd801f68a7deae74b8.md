@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a0fd801f68a7deae74b8
-# source_url: https://tajpoints.com/2024/09/hazaron-ayatein-syed-mohammad-shah.html
-# raw_sha256: b81c9736e3d3ee8377da994bd188dfdd5f8c4a062a7e44a50fb6531c6734f845
 ---
 
 Hazaron Ayatein Syed Mohammad Shah.

@@ -8,9 +8,6 @@ reciter: "Farhan Ali"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:5dbe47ece6e936031bf9
-# source_url: https://www.ziyaraat.net/api/noha/1755
-# raw_sha256: b3923c37c544facecf70d8063783fb38da19b646836755ea8ad8544e86d96947
 ---
 
 Haey Mazlooma Fatima Zehra

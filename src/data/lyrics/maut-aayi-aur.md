@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Khaak par har umr ka laasha para hai ae Surur
   Do peher meiṅ maut ghar ka ghar ye kis ka le gayi
-# source_id: nohayonline:5c8bc90893930728fa05
-# source_url: https://www.nohayonline.com/details_content.php?id=3734
-# raw_sha256: 631f6b552d3e5fdba6a168fec90619666239ba3e0179f89fd381bcedc9d0a8c5
 ---
 موت آئی اور علی اصغر کو بہلا لے گئی
 ہائے وہ بھی تین دن کا بھوکا پیاسا لے گئی

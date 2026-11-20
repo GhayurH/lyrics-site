@@ -62,9 +62,6 @@ romanLyrics: |-
   13
   Raaz Mazhar ye khula qaid-e-sitam mein ik din
   Jis ko bimar samajhte the wo bimar nahi
-# source_id: ziyaraat:2e1f42e89d98fc6de6ca
-# source_url: https://www.ziyaraat.net/api/noha/2752
-# raw_sha256: aa7e57accc0d7bd0bec09a8f4f80ec1af958578f42181b95834371426e56c0a8
 ---
 
 چادریں سر پہ نہیں ساتھ علمدار نہیں

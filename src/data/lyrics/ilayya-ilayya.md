@@ -67,9 +67,6 @@ romanLyrics: |-
   Laasha-e-besar se lipti thi Sakina nauhagar
   Karbala ke ban meiṅ har su gunjti thi ye sada
   Tera baaba sota hai yahaaṅ
-# source_id: nohayonline:bd72150b4703fd19ca75
-# source_url: https://www.nohayonline.com/details_content.php?id=2769
-# raw_sha256: fa13c4c655b8850da6cf74f6d8ff1713cac26cba3ab4293d1f8f060c8fa275b2
 ---
 الیا الیا یا بنیا
 تیرا بابا سوتا ہے یہاں

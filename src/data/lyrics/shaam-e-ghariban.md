@@ -77,9 +77,6 @@ romanLyrics: |-
   Alamdaar
   Thi Zainab-e-tashna kaam kya shaam
   Kya shaam thi wo shaam-e-gharibaṅ
-# source_id: nohayonline:1d5c400bd4065ae85021
-# source_url: https://www.nohayonline.com/details_content.php?id=2228
-# raw_sha256: 88279047202d80b8ab20dff1774ea57c9b124d35a35b2798c7012d3523a8c371
 ---
 ہائے شام غریباں
 اے شام غریباں

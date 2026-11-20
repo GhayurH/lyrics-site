@@ -81,12 +81,6 @@ romanLyrics: 'Kohram ajab aale Muhammad may bapa hay
   10) Rukhsat ka Anees haal raqam kis tarha hoga
 
   Ab gham se qalam bhi to lahoo dena laga hay'
-# source_id: nohayonline:e1f1e78cdc367a698d46
-# source_url: https://www.nohayonline.com/details_content.php?id=239
-# raw_sha256: e9de71e47395263289372025d302a0870fe4e32f35037afcc69c5bc882c1e545
-# source_id: ziyaraat:84922203a610b50b8297
-# source_url: https://www.ziyaraat.net/api/noha/651
-# raw_sha256: 9d06ad8d74ee31a8b991f3f949c2d4c7322586bdcb9a2830829b76030d541cfb
 ---
 
 کہرام عجب آل محمدؑ میں بپا ہے

@@ -8,9 +8,6 @@ poet: "Mazhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4ce1b3dc9358fed14410
-# source_url: https://tajpoints.com/2024/01/ali-sabse-baray-hain-mesum-abbas-lyrics.html
-# raw_sha256: 8c9d5190376c213a128a7f1096f9838f549f6755a6c274e2c08a52f192f00e33
 ---
 
 1

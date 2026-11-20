@@ -52,9 +52,6 @@ romanLyrics: |-
   8) Pathar marainday Shaami aaya Shaam jad beemar aey
   Teri ghareebi aakhay dhi Haider-e-Karrar aey
   Gir janday jaday vi Abid, Rab janay kinj uthay
-# source_id: ziyaraat:3410f1de885fc7b90500
-# source_url: https://www.ziyaraat.net/api/noha/372
-# raw_sha256: 592fbb801f4c9a057a1938b31de5eeebd4dcaad8c22db84d69af57ac5e6ab476
 ---
 
 سجادؑ بنڑ کے قیدی جد شام شہر آیا

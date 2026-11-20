@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6aa0ae30f81b107ffb1b
-# source_url: https://tajpoints.com/2023/07/haye-abbas-tera-bazo-uthaon-kaisay.html
-# raw_sha256: 8d08291d11e3f58ccc69ef08da47e8d18558d928308a51c3a382c49bf5f17ceb
 ---
 
 1

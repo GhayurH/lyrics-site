@@ -8,9 +8,6 @@ poet: "Munawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b69fbc3f86e39cd8496d
-# source_url: https://tajpoints.com/2019/07/mere-maula-karam-ho-karam-lyrics-in.html
-# raw_sha256: 9bc85f1055f685781ace6119a722f8069c301cd84e496ee9a7471649feaa9e47
 ---
 
 1

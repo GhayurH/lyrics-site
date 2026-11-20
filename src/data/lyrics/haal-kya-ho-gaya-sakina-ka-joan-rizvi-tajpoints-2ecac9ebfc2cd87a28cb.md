@@ -8,9 +8,6 @@ poet: "Joun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2ecac9ebfc2cd87a28cb
-# source_url: https://tajpoints.com/2023/08/haal-kya-ho-gaya-sakina-ka-joan-rizvi.html
-# raw_sha256: 0cf6efd15d8a59059b72e0105e429a6b28815efbe27d2797299f643365695c03
 ---
 
 1

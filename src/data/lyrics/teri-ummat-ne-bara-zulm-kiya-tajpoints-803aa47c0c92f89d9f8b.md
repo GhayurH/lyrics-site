@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:803aa47c0c92f89d9f8b
-# source_url: https://tajpoints.com/2018/02/teri-ummat-ne-bara-zulm-kiya.html
-# raw_sha256: 334d0bac77d1c2652e28b08dc2415c4209706f478ef4bd7434ef9b258763672d
 ---
 
 Kya Bataon Tumhein Pyare Baba Teri Ummat Ne Bara Zulm Kiya.

@@ -72,12 +72,6 @@ romanLyrics: |-
   Man Zulfiqaar-e-Haidaram
   Man aitbaar-e-khwaaharam
   Man Zainabam
-# source_id: nohayonline:ab91ac73a77b2a062d2f
-# source_url: https://www.nohayonline.com/details_content.php?id=2505
-# raw_sha256: 6663760de7598d9aca348730ced8548419f37b615b4cddeb6de199ea034ff96d
-# source_id: ziyaraat:93fc9de5ff0eb901bb00
-# source_url: https://www.ziyaraat.net/api/noha/2459
-# raw_sha256: 4e56635418127d803a03b935f1e953ba04bcf50bbb2c9f6afe753c4ce1c9b7f8
 ---
 تنہائیِ من
 من ذوالفقار حیدرم

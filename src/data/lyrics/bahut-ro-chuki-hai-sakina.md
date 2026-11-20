@@ -121,12 +121,6 @@ romanLyrics: 'Khamoshiyon se hi poocho
   Jo qabr e sakina pe jaana baradar
 
   Wahan marsiya jaa ke padhna yehi'
-# source_id: nohayonline:89a69c742f350f42efd6
-# source_url: https://www.nohayonline.com/details_content.php?id=2222
-# raw_sha256: feca00e4203a6fe0c157e788f21b93318fc8fac1176deba6cf6499608a7496ab
-# source_id: ziyaraat:0a8bfe171a2c5059dc34
-# source_url: https://www.ziyaraat.net/api/noha/2099
-# raw_sha256: 946c9c773a2e2c496af19f2ac42b3f87ed5c252802ff2eb5e26c018caac526a8
 ---
 
 خاموشیوں سے ہی پوچھو

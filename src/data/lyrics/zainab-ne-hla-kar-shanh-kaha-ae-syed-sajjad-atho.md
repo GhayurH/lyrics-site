@@ -70,12 +70,6 @@ romanLyrics: 'Zainab ne hilakar shana kaha
   Dunya mein bhi kuch mil jaye sila
 
   Kehde jo anees itna zehra'
-# source_id: nohayonline:150c415897400183ac7e
-# source_url: https://www.nohayonline.com/details_content.php?id=265
-# raw_sha256: 419b1785fa78ab910ce212c64cfd7ca1df46057cbdeaaf8e8dbb796c1e8215e1
-# source_id: ziyaraat:545a0832bc673064f142
-# source_url: https://www.ziyaraat.net/api/noha/1176
-# raw_sha256: 47b0c0c3a144547aec5915298cac1cde20017011c47e6088ffa25acca7bcbe53
 ---
 
 زینب نے ہلا کر شانہ کہا

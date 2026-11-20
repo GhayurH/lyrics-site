@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e8c75a8f8aeec34b201
-# source_url: https://tajpoints.com/2019/08/giriya-kuna-batool-ka-kunba-hai-eid-par.html
-# raw_sha256: 34fd4165b1a7b49e2b81e2e9387e14cf0e6d430f3a75fd5a8ce70e006df387cc
 ---
 
 1

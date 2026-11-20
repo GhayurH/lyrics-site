@@ -8,15 +8,6 @@ reciter: "Mesum Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6d706d01410e090947c7
-# source_url: https://www.nohawriteups.org/azadari-rahegi-title-promo-mesum-abbas-2022/
-# original_html: snapshots/nohawriteups/original_html/6d706d01410e090947c7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6d706d01410e090947c7.json
-# api_content_sha256: 3113bb310fd5859a4bb42bb533edb256630dcaf7c443aa24cd18462acc52be14
-# editorial_note: Two lyric witnesses consolidated. Source spellings and stanza groupings are unpublished pending editorial approval.
-# source_id: tajpoints:43e0a4412116bb0ac620
-# source_url: https://tajpoints.com/2022/08/azadari-rahegi-mesum-abbas-lyrics-in.html
-# raw_sha256: 46a07c72d3b0543250d1854a32e54a571324d81c9ed3b5e72c7b6566e94bdbda
 ---
 
 HUSSAIN HUSSAIN HUSSAIN

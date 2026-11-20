@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:41db5e9c6203ffbb1639
-# source_url: https://tajpoints.com/2025/03/matam-karo-logo-arsalan-rizvi-najam.html
-# raw_sha256: 11b3865fa394761cc942030aacc7dd8c524b3691518de25c758513e7f615a63b
 ---
 
 1

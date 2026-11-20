@@ -68,9 +68,6 @@ romanLyrics: |-
   Rakh laaj Bilal o Irfaaṅ ki
   Mehshar meiṅ khare haiṅ ye donoṅ
   Bas tere sahaare Qasim
-# source_id: nohayonline:6a4096d0e5c0791cca28
-# source_url: https://www.nohayonline.com/details_content.php?id=890
-# raw_sha256: 2ceb8ceb3f1c47069840e22ce34dff6bb8e41041fd7542e33bfb3c7ec48d62e0
 ---
 میرے راج دلارے قاسم
 ہائے قاسم ہائے قاسم

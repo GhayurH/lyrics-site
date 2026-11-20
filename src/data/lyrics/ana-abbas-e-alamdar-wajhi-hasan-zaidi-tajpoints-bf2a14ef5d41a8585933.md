@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bf2a14ef5d41a8585933
-# source_url: https://tajpoints.com/2018/03/ana-abbas-e-alamdar.html
-# raw_sha256: af14af4dcb921c4dccb6534fd973e6ef533e3a7c23a697253ebae425c08eb85d
 ---
 
 1

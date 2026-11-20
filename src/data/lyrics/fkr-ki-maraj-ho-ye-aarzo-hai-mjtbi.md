@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:be915f713497b12f80b4
-# source_url: https://www.ziyaraat.net/api/noha/2865
-# raw_sha256: 87f9b7c492d7ae4ca0720879a32120797c69864ab7a229087701b18327ebbc67
 ---
 
 فاطمہ سے اِذن لے کے کر رہا ہوں ابتدا

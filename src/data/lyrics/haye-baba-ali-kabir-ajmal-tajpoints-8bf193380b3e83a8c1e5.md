@@ -8,9 +8,6 @@ poet: "Aarzoo"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8bf193380b3e83a8c1e5
-# source_url: https://tajpoints.com/2023/05/haye-baba-ali-kabir-ajmal-lyrics-in.html
-# raw_sha256: 863575e514936b250339438144bb3b6da23a67ec4c7e802f0f0dbe63ff63a095
 ---
 
 Sakina Kya Karey Baba Howa Dushwar Bhi Jeena.

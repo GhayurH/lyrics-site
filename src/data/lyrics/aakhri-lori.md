@@ -59,9 +59,6 @@ romanLyrics: |-
   Kaise so jaauṅ maiṅ ke sona hai zamin-e-garm par
   Maiṅ to so jaauṅ ga khaa kar tir kal maidan meiṅ
   Haaṅ magar tum so nahiṅ paao gi ammaṅ umr bhar
-# source_id: nohayonline:3fd74faec5543907385d
-# source_url: https://www.nohayonline.com/details_content.php?id=3188
-# raw_sha256: 436262288d819a44a9fdb5ff41781d0a9de1ddb9ad3caf36a48e6fa7b0c4b605
 ---
 آخری لوری ہے میری جان کر بیجان ہوں میں
 اے خدا تالا نہ مجھکو آزمانا ماں ہوں میں

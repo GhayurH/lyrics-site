@@ -86,9 +86,6 @@ romanLyrics: |-
   Hai wo Fahim taalib-e-nusrat
   Hal min naasir hal min naasir
   Kaun hai meri madad ko haazir
-# source_id: nohayonline:f4fa2f2192cbcb1caa1e
-# source_url: https://www.nohayonline.com/details_content.php?id=786
-# raw_sha256: 507f8160036abfd2598e40e7ba5888c9650ece5e0e5b92b8266541ddd4acbddc
 ---
 
 ھل من ناصر ھل من ناصر

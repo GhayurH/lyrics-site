@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:3225d1a76d74ac43d78f
-# source_url: https://www.ziyaraat.net/api/noha/2853
-# raw_sha256: 99f55fa7f5777dbc6c991fc6dca554aad0d69ad0fb9d7593aa872633933398a2
 ---
 
 سر شاہ پر جمی ہے نظر

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:60b187118b494e9e077e
-# source_url: https://tajpoints.com/2017/02/baba-mera-veer-mariya-zalimaa-be-khata.html
-# raw_sha256: b4192ad9b1279c8e38ee31f178ec7a71b3a76409a3bfae59150dfe235202ede9
 ---
 
 1

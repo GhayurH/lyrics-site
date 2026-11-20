@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5bef44c46eff4e752068
-# source_url: https://tajpoints.com/2019/10/akbar-di-pak-jageer-wichon-hoya-qafila.html
-# raw_sha256: d84f5664620df7e399ec3cd0938439f412a83dee5fddb79842eb27d6336d65df
 ---
 
 1

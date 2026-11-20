@@ -8,9 +8,6 @@ reciter: "Rizvia Party"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:d1e6cec99dd6c120a685
-# source_url: https://www.ziyaraat.net/api/noha/2517
-# raw_sha256: 45c14bc449af3afb615d5da73c864dcaf3f8670809304fc05c3c4841e4f71a2b
 ---
 
 Hogaye rukhsat jahan se momino Mola Naqi ع

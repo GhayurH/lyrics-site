@@ -8,9 +8,6 @@ poet: "Kashan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dc92ff7d5ce608d60ad8
-# source_url: https://tajpoints.com/2026/01/aj-mola-ali-ki-aamad-hai-kashan-zaidi.html
-# raw_sha256: d8b5b5227c187448f86184b385c9182583f782a2eb64932d572c94073ced00c7
 ---
 
 1

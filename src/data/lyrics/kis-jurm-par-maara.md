@@ -53,9 +53,6 @@ romanLyrics: |-
   Shahid zamin larzaaṅ rahi khuṅ aasmaanoṅ se baha
   Muṅh par saja kar Sheh ka khuṅ rahwaar khaime ko chala
   Sar se ridaaeṅ chhin rahi thi hashr tha har su bapa
-# source_id: nohayonline:2752a11baf7693d0f467
-# source_url: https://www.nohayonline.com/details_content.php?id=769
-# raw_sha256: 3fdaba388d8d04214f1608bfd9f4a6cc58e07bd1e7e8df89edf11eabfb95714d
 ---
 
 بی آیےء زمبن قتیلت

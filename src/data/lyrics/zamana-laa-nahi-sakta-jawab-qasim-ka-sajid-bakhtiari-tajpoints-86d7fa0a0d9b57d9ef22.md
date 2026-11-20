@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:86d7fa0a0d9b57d9ef22
-# source_url: https://tajpoints.com/2021/04/zamana-laa-nahi-sakta-jawab-qasim-ka.html
-# raw_sha256: f204e0565735b1d8870cbad95f3f3f60e88954affb96a3a8fd639f1e37888cb2
 ---
 
 1

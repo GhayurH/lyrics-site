@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0b22d801c0cec62793ae
-# source_url: https://tajpoints.com/2022/07/zikr-e-ali-haider-rizvi-lyrics-in-urdu.html
-# raw_sha256: 442c1822974655536f101e7fce2dd1084aede566e203a98d5e97c6cea16c3922
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Mubarak"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:38dfc35e8b98aa0648a9
-# source_url: https://tajpoints.com/2020/06/mere-hussain-lyrics-in-urdu-and-roman.html
-# raw_sha256: 3c51e1c4fcab78827394ebffbdfec665f64eaa0237c51d9a01909bac04c03f72
 ---
 
 Lipat Ke Shah Se Kehtin Hain Fatima Ro Ke.

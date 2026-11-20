@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a9cf8311e451afc86840
-# source_url: https://tajpoints.com/2019/07/kazim-ke-pisar-pe-yeh-kya-zulm-howa-hai.html
-# raw_sha256: 882941de4a542d93f8aae03ae39ca96f662cf8a386948497beb6d03cc88a3167
 ---
 
 Kazim Ke Pisar Pe Yeh Kya Zulm Howa Hai.

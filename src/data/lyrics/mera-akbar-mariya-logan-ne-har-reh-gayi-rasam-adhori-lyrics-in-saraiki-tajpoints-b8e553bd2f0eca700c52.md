@@ -8,9 +8,6 @@ poet: "Nashad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b8e553bd2f0eca700c52
-# source_url: https://tajpoints.com/2019/01/mera-akbar-mariya-lokan-ne-har-reh-gayi.html
-# raw_sha256: f9fd3530c90e48e8f392911aef85f006c83f0bfaa834ed2ed487abb8ea434cfb
 ---
 
 1

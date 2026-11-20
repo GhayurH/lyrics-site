@@ -48,9 +48,6 @@ romanLyrics: |-
   Nauha parhta hai Hasan Sadiq-e-purgham Rehaan
   Hai dua Ghazi ki jis ko ye hunar aata hai
   Jang karne Bani Hashim ka qamar aata hai
-# source_id: nohayonline:02ccd56a20e067a941b5
-# source_url: https://www.nohayonline.com/details_content.php?id=2962
-# raw_sha256: 991f0c62475b92261240d84c58ab700ec7bdf96c4698ed8e344e779e2c0bcea9
 ---
 بھائی شبیر کا حیدر کا پسر آتا ہے
 جنگ کرنے بنی ہاشم کا قمر آتا ہے

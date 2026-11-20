@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8766e8aac65564046d41
-# source_url: https://tajpoints.com/2021/08/ho-alamdar-kahan-shehbaz-haideri-lyrics.html
-# raw_sha256: c464c52018e72421f9d2ac0218d46c88df883361fa21322749eba63c072841a2
 ---
 
 1

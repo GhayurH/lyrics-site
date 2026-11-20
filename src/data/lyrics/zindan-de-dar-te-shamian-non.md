@@ -8,9 +8,6 @@ reciter: "Katri Bawa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ed3d4685d4f056a69fb8
-# source_url: https://www.ziyaraat.net/api/noha/2510
-# raw_sha256: 0b88f64bd7a1d2bde81f2d83bd5c8d6b37d5badd373501068fec28f913c9b0c3
 ---
 
 Zindaan de darr te shamiyan nu kaway ro ro ke Sajjad ay

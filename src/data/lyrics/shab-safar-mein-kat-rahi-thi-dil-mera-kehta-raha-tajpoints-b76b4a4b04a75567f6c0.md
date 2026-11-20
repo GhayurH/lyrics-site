@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b76b4a4b04a75567f6c0
-# source_url: https://tajpoints.com/2018/01/shab-safar-mein-kat-rahi-thi-dil-mera.html
-# raw_sha256: bf3c5e1fbbaf6e23715864b3f650d393bb1a77625e4e5b9f1a5d6efbd6c3edb1
 ---
 
 Shab Safar Mein Kat Rahi Thi Dil Mera Kehta Raha.

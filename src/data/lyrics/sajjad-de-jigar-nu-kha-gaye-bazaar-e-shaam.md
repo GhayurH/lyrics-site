@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:269d634cf7f33d09e5da
-# source_url: https://www.ziyaraat.net/api/noha/1339
-# raw_sha256: 833682be156dcb1010ee33faeb48934acd860cc58e612ba6fd49274e019bf9d8
 ---
 
 سجاد ؑ دے جگر کوں کھا گئے بازارِشام اے

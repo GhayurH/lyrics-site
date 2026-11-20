@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4304238ee37d2b8294ea
-# source_url: https://tajpoints.com/2021/04/iss-baat-se-mehsoos-karo-kya-hai-sakina.html
-# raw_sha256: 62530fd366e9e1f6f4034032bf2d5e8ddea2d8c7597e13240eb51a367265cbc9
 ---
 
 Iss Baat Se Mehsoos Karo Kya Hai Sakina Mir Hasan Mir

@@ -10,13 +10,6 @@ reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8be7dcd7d3eac07b2167
-# source_url: https://tajpoints.com/2019/09/maqtal-e-maula-imam-hussain-1-6-lyrics.html
-# raw_sha256: 5ee1a32d450191407e1169a56eec79ef8da150901ce8f49ab2753e477be45f66
-# source_id: tajpoints:a04025381c76a7e37803
-# source_url: https://tajpoints.com/2019/09/maqtal-e-maula-imam-hussain-7-11-lyrics.html
-# raw_sha256: fa55d607b9d2e92c11ba283c4d3824b5dc96ee05f2a76ba0426d95a03824aefd
-# editorial_note: Combined source parts 1-6 and 7-11, reconstructing 11 complete six-line stanzas from contiguous lines; the first source's nine numbered four-line blocks did not represent actual stanza divisions. Original Roman source text retained for later transliteration review.
 ---
 
 1

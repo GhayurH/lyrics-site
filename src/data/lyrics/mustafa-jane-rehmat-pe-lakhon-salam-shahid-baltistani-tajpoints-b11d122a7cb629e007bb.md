@@ -8,9 +8,6 @@ poet: "Darwaish"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b11d122a7cb629e007bb
-# source_url: https://tajpoints.com/2023/04/mustafa-jane-rehmat-pe-lakhon-salam.html
-# raw_sha256: 054bcd6a250e73e4a5624d1698a288abb94607628dfba96f8933ae85a09590bf
 ---
 
 Mustafa Jane Rehmat Pe Lakhon Salam Shahid Baltistani.

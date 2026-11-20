@@ -71,9 +71,6 @@ romanLyrics: |-
   Qabr meiṅ us ko utaara Sayyad-e-Sajjaad ne
   Rauza-e-baali Sakina par jo Mazhar Aabidi
   Jaae ga Farhaan lab par hoga nauha bas yehi
-# source_id: nohayonline:154cee6060afd1869c4d
-# source_url: https://www.nohayonline.com/details_content.php?id=2765
-# raw_sha256: cd256600f6936c18f84adbf32453957188a9046e55c53ec838557451bddeced0
 ---
 اکثر نماز شب میں دعا کرتے تھے شبیر
 اک پھول سی بیٹی دے مجھے کاتب تقدیر

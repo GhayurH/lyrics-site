@@ -8,9 +8,6 @@ poet: "Noor"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:68c5749ce9794b2f7a3f
-# source_url: https://tajpoints.com/2017/02/kash-main-door-e-payambersaww-mein.html
-# raw_sha256: 0122a7a0011442e8792b7aaed6a2e72ba6ee4e9e121cd26328bc5e38a0a22727
 ---
 
 1

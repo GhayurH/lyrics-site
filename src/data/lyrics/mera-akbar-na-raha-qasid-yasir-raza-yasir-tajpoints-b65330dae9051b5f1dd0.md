@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b65330dae9051b5f1dd0
-# source_url: https://tajpoints.com/2023/07/mera-akbar-na-raha-qasid-yasir-raza.html
-# raw_sha256: 9e1fc54f110695c17933dc4704ab661caf774b9f82720ea7f5d41971deaf7bec
 ---
 
 1

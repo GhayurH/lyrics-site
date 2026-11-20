@@ -63,9 +63,6 @@ romanLyrics: |-
   Rehaan fughaaṅ Zainab-e-dilgir ki sun kar
   Goya hua hamshir se yuṅ laasha-e-Sarwar
   Milta hai sukuṅ mujh ko behan yuhiṅ kahe jaa
-# source_id: nohayonline:b19a1b789e45f1c83cec
-# source_url: https://www.nohayonline.com/details_content.php?id=107
-# raw_sha256: 978741400208a098bb3c48ab01655dd01e915f92d11a6204d5ad1dbfb32ce425
 ---
 
 بھیا میرے بھیا, بھیا میرے بھیا

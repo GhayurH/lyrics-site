@@ -35,9 +35,6 @@ romanLyrics: |-
   6
   Bilal ab meri qaamat ko kaun naape ga
   Meri jabiṅ pe likha hai Husain ka Asghar
-# source_id: ziyaraat:026ba659a601f2f5ace5
-# source_url: https://www.ziyaraat.net/api/noha/2229
-# raw_sha256: 2065472d4007e6ce1f258f9196d8d36bbc8cd1c47c93b80c57259ddebdd5d64f
 ---
 
 بڑے بڑوں سے بڑا ہے حسینؑ کا اصغرؑ

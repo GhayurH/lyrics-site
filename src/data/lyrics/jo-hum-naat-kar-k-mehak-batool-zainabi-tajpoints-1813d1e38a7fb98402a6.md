@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1813d1e38a7fb98402a6
-# source_url: https://tajpoints.com/2021/10/jo-hum-naat-kar-k-mehak-batool-zainabi.html
-# raw_sha256: fb9eaec50a998e3f096c7f1177ca76649da870d3c5f5d281803a8f5af840a253
 ---
 
 1

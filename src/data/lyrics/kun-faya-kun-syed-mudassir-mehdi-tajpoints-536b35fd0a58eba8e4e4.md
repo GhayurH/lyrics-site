@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:536b35fd0a58eba8e4e4
-# source_url: https://tajpoints.com/2023/01/kun-faya-kun-syed-mudassir-mehdi-lyrics.html
-# raw_sha256: fc6a0cb0a6dce9a7d99ca360eb8efd81042770c59d6b4212faa379d9f38e72aa
 ---
 
 1

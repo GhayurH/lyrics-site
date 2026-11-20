@@ -8,9 +8,6 @@ poet: "Faraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:215c198cc8e6cd2eb37c
-# source_url: https://tajpoints.com/2023/05/masooma-hasnain-abbas-lyrics-in-urdu.html
-# raw_sha256: 8ef725c22679f84fb50dc45d2ca3aa54f38888c7e07b6c7cfdc7de27fbc226f4
 ---
 
 1

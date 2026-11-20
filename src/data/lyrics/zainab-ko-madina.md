@@ -44,9 +44,6 @@ romanLyrics: |-
   Aashiq ki zabaaṅ pe hai nauha
   Ye keh ke aalam hota raha
   Zainab ko Madina yaad aaya
-# source_id: nohayonline:b1f59e1b6994ec758d2a
-# source_url: https://www.nohayonline.com/details_content.php?id=1517
-# raw_sha256: 2298d0f0cc51652c08f10849e76aec09ec762187c4b8229837a221eda643d100
 ---
 جب خیمے جلے اسباب لٹا
 زینب کو مدینہ یاد آیا

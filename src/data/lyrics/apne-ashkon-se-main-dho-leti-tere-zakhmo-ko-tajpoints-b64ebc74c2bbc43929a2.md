@@ -8,9 +8,6 @@ poet: "Sahaab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b64ebc74c2bbc43929a2
-# source_url: https://tajpoints.com/2019/10/apne-ashkon-se-main-dho-leti-tere.html
-# raw_sha256: 3ea32d7e69d12736e9bf9f3ef5596870d7654b0e288f200c01bddb468d799cd3
 ---
 
 1

@@ -54,9 +54,6 @@ romanLyrics: |-
   Khun ke naale tan se bahe wawaila
   Likhna Rafi ab Shaam ki raah meiṅ
   Zulm jo Aabid sehta tha wawaila
-# source_id: nohayonline:d7246163947f86184e50
-# source_url: https://www.nohayonline.com/details_content.php?id=2120
-# raw_sha256: 3e34eecf5d1717257d62983a92e661376ddf324d2ad9492fab1280f54816c4fc
 ---
 واویلا صد واویلا واویلا
 

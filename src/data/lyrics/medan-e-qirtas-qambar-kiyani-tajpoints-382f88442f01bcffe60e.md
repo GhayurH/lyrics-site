@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:382f88442f01bcffe60e
-# source_url: https://tajpoints.com/2023/04/medan-e-qirtas-qambar-kiyani-lyrics-in.html
-# raw_sha256: 09eeac2ea1945ef4bd4c71fd8febe2e737834f60342bc13afd72c679b4fd7f33
 ---
 
 1

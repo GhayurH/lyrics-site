@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f963cf43eefe3ce3ed87
-# source_url: https://tajpoints.com/2020/03/manzar-barey-barey-lyrics-in-urdu-and.html
-# raw_sha256: d6cf8bded34c5b49337686a7f1e527686ba5287ffd275a7be8906fcfa260a15a
 ---
 
 1

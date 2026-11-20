@@ -8,9 +8,6 @@ reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:39fc1e8f8536e75e750a
-# source_url: https://www.ziyaraat.net/api/noha/2451
-# raw_sha256: 0a88181e2436f4d4f94002bbffe4b71d3ddf2d552cadf67cc0bba281f2689a02
 ---
 
 Bohot door chale jayenge

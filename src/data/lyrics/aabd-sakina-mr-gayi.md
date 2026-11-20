@@ -67,12 +67,6 @@ romanLyrics: |-
   Kaise bayaaṅ kar paaeṅ ge, Irfan o Mazhar Abidi
   Karte hue ye marsiya, ghash kha gaye Bint-e-Ali
   Zindaaṅ ka kar ke intisaab, Abid Sakina mar gayi
-# source_id: nohayonline:d0c5b4d86285fbaad5cf
-# source_url: https://www.nohayonline.com/details_content.php?id=3131
-# raw_sha256: b926ac88e18da26f749995564fe9043e97cbed6e7db1dff91789c07ee34668ba
-# source_id: ziyaraat:e72c1015cf7320dc094b
-# source_url: https://www.ziyaraat.net/api/noha/1774
-# raw_sha256: cc5d7c3bbbf83dd7a7a8ba94375ee3c7af3b8d9f13cf55d0ff67f82a2a699fc6
 ---
 
 زنداں میں جب کہ دخترَ شبیرؑ مر گئی

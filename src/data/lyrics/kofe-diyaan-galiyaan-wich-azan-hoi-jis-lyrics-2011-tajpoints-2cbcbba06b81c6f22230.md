@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2cbcbba06b81c6f22230
-# source_url: https://tajpoints.com/2018/05/kofe-diyaan-galiyaan-wich-azan-hoi-jis.html
-# raw_sha256: 6151acc96917c7c803f26024cbe19ab3a7cca9f9c34af5bafafd628614f7fc4a
 ---
 
 Kofe Diyaan Galiyaan Wich Azan Hoi Jis Welay Fajar Di.

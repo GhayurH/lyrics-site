@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c4892e628ad47ea9655a
-# source_url: https://tajpoints.com/2017/02/jab-uthata-hoon-qalam-aal-e-abbaas-ke.html
-# raw_sha256: a42ff79dd75b5c2ff879dea2c29e1856630dbb7bbeeb4ca2513e57cd627a85ea
 ---
 
 Lafz Par Jate Hain Kab Unn Ki Sana Ke Waste.

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e0ba9f9f2f2df71465ad
-# source_url: https://tajpoints.com/2022/12/nabi-nabi-ho-ga-nadeem-sarwar-lyrics-in.html
-# raw_sha256: 9c5fb912a9e819b5ccc066d0ebd635b110258bb1e6e253fd53d8afb901d9129e
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:32f9089a1698bf56c76c
-# source_url: https://tajpoints.com/2017/02/taat-e-nabisaww-mein-jo-karte-hain.html
-# raw_sha256: 38515beeacfaec4264a637aa4567e3ac32288cef0812ed9e310bb7e0c6efb6c7
 ---
 
 Taat-e-Nabi Mein Jo Karte Hain Bashar Sajday.

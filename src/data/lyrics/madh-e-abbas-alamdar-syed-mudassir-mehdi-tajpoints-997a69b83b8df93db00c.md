@@ -8,9 +8,6 @@ poet: "Fazal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:997a69b83b8df93db00c
-# source_url: https://tajpoints.com/2023/02/madh-e-abbas-alamdar-syed-mudassir.html
-# raw_sha256: 662ef498e82a6e22bec2e2dc96baf5c72461e69594dfdd920cce1ed64beae340
 ---
 
 Madh e Abbas Alamdar Syed Mudassir Mehdi.

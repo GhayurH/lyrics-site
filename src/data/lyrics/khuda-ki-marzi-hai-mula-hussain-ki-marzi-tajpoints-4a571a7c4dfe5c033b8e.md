@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4a571a7c4dfe5c033b8e
-# source_url: https://tajpoints.com/2018/07/khuda-ki-marzi-hai-mula-hussain-ki-marzi.html
-# raw_sha256: 72c08c158719fe3fb1ef45ede1c120ccad69d70b3c1146065ee64c9f40c65d37
 ---
 
 Khuda Ki Marzi Hai Mula Hussain Ki Marzi.

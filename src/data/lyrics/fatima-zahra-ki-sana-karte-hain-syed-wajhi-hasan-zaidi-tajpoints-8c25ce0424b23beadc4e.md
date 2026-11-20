@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8c25ce0424b23beadc4e
-# source_url: https://tajpoints.com/2022/01/fatima-zahra-ki-sana-karte-hain-syed.html
-# raw_sha256: 72e036b50d9640114174a87a41eca921281e9b7d1fc719d7554ea9653e019dc8
 ---
 
 1

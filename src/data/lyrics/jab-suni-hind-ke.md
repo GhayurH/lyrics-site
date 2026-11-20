@@ -54,9 +54,6 @@ romanLyrics: |-
   Hind ke sar pe jo Zainab ne urhaayi chaadar
   Aur us waqt bhi Bibi ka barahna raha sar
   Gham ka maahaul mila dekha jidhar Zainab ne
-# source_id: nohayonline:40a219bd6140f75628c2
-# source_url: https://www.nohayonline.com/details_content.php?id=171
-# raw_sha256: 3b65ea0d20574777c6984e6e7d049b1fe65915b1346e2deabea3b42a9e2ddca6
 ---
 تعظیم کرو آتی ہے شہزادیئے شام
 اے اسیرانِ ستم اُٹھو کرو آئو سلام

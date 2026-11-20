@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Irfan aur Viqar ne sar ko jhuka diya
   Sajdoṅ ke aetbaar ka mehwar hai Karbala
-# source_id: nohayonline:269692845edc2f4b1221
-# source_url: https://www.nohayonline.com/details_content.php?id=935
-# raw_sha256: f3d9c5e301e4029d81632a98a4898f9128de02d3f1281a41b949735ccadf6740
 ---
 مطفول تجھ پہ جان پیمبر ہے کربلا
 کتنا بلند تیرا مقدر ہے کربلا

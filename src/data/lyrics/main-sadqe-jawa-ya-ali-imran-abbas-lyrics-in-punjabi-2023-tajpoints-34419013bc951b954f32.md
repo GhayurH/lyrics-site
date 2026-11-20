@@ -8,9 +8,6 @@ poet: "Naeem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:34419013bc951b954f32
-# source_url: https://tajpoints.com/2023/02/main-sadqe-jawa-ya-ali-imran-abbas.html
-# raw_sha256: 98c1ac70e1e6426b2a8f8821c1ec65c64cf1f76147ec0423b1cd4ae2f9c8a67c
 ---
 
 Main Sadqe Jawa Ya Ali Imran Abbas.

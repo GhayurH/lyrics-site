@@ -56,9 +56,6 @@ romanLyrics: |-
   Pehlu pe zakhm khaake bachaya tha aap ne
   Maiṅ ne rida luta ke bachaya hai ba-khuda
   Aliyun waliullah, aliyun waliullah
-# source_id: nohayonline:605e7ccaf5ad86467332
-# source_url: https://www.nohayonline.com/details_content.php?id=18
-# raw_sha256: 4345805cd032463e95d948af2b355f45142fdda47caff921bf5bcf68be6b4af6
 ---
 
 ۱

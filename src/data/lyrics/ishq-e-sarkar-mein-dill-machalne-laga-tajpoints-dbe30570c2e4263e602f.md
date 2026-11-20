@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dbe30570c2e4263e602f
-# source_url: https://tajpoints.com/2017/12/ishq-e-sarkar-mein-dill-machalne-laga.html
-# raw_sha256: 58d48b6488e3a0505452a8a2853faf1f0e3ea66be42ab70e9aa920308a9f4817
 ---
 
 1

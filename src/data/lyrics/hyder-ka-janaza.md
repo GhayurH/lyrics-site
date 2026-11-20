@@ -54,9 +54,6 @@ romanLyrics: |-
   Kise maalum hai kya dukh mila hai sogwaaroṅ ko
   Kisi ko kya khabar kis dil se ye Izhaar likhta hai
   Ye Hyder ka janaaza hai
-# source_id: nohayonline:32409b51888e05c048f7
-# source_url: https://www.nohayonline.com/details_content.php?id=1144
-# raw_sha256: 8b856d442e707c7de6f9e9ade38327d241d0efb32a69e6d1ed540103d5f570dd
 ---
 
 وصیِ مصطفیؐ کا کُل کے مولا کا جنازہ ہے

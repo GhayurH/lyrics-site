@@ -8,9 +8,6 @@ poet: "Azai"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b0db6f6930025abd0f84
-# source_url: https://tajpoints.com/2017/02/islam-se-kamal-wafa-ki-hussainas-ne.html
-# raw_sha256: 94eda86ff5fe09ee44da286b542b91ea4e9f472866f4920a1c449cc43c6596a1
 ---
 
 Islam Se Kamal Wafa Ki Hussain Ne.

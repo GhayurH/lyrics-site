@@ -8,9 +8,6 @@ poet: "Rizwan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b956e6107e699727b201
-# source_url: https://tajpoints.com/2021/05/matam-e-ali-rizwan-zaidi-lyrics-in-urdu.html
-# raw_sha256: 48c30004d3349b2caf5ad7bd2109bbec4d00414f22e554e54fa0f20834fde213
 ---
 
 1

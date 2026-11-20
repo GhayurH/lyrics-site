@@ -49,9 +49,6 @@ romanLyrics: |-
   10
   10.Ab kalam Qaisar rakho Fatima ke ghar chalo
   Karna hai matam bapa,  Yaa Mustafa Yaa Mujtaba
-# source_id: ziyaraat:d81ed0cae9eddfad4862
-# source_url: https://www.ziyaraat.net/api/noha/1714
-# raw_sha256: d0af37d98c44ffd638efeb856d5efcc17e2e9a8756ee4026d188c47294d2fb09
 ---
 
 یآ مصطفیٰؐ یآ مجتبیٰؑ، غم ہے دو معصوموں کا

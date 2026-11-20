@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ff7cfb8a53718eccefce
-# source_url: https://www.nohawriteups.org/main-reh-gayi-aan-kali-hun-cheti-aa-veeran/
-# original_html: snapshots/nohawriteups/original_html/ff7cfb8a53718eccefce.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ff7cfb8a53718eccefce.json
-# api_content_sha256: 622083b1a81d9b3d83e878b05256e5c8789f2dd0db78d116bbb9401ec5509ab7
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Main Reh Gayi Aan Kali Hun Cheti Aa Veeran

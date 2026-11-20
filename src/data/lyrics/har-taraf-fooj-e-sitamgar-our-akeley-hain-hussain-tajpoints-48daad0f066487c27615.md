@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:48daad0f066487c27615
-# source_url: https://tajpoints.com/2017/02/har-taraf-fooj-e-sitamgar-our-akeley.html
-# raw_sha256: bc805643b1beb576039cfdcf8e6e85df4efacbf4563c9b36c802593f30f30cda
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:9dbc93e568db862bce61
-# source_url: https://tajpoint.com/wich-sham-shehar-aye-keh-ke-liya/
-# raw_sha256: 648e00499db4b1b0a8e0c019980893dde0c93473055db7f588dc52557a39381c
 ---
 
 Wich Sham Shehar Aye Keh Ke Liya Zainab Aakhri Sah.

@@ -8,9 +8,6 @@ poet: "Hadi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c2610fd8fef3bad50c63
-# source_url: https://tajpoints.com/2023/09/ik-qafila-aaya-sham-wichoon-gudi-party.html
-# raw_sha256: 13b33d76d25ad23cafaf7ab99aab67e558413260e3a7bd93f7e2d0c6fb95d04d
 ---
 
 1

@@ -58,9 +58,6 @@ romanLyrics: |-
   Raat din Aamir o Nayyar bhi na kiuṅ ashk bahaae
   Soch le us ke masaaib to kaleje phat jaaye
   Marsiya ban ke har ek saaṅs pe chhaane waali
-# source_id: nohayonline:726be9c37ee7c103fba1
-# source_url: https://www.nohayonline.com/details_content.php?id=3670
-# raw_sha256: d55cc07531b3a683ae672f725322c81fe1883be67943256e16ac631f1a4579ca
 ---
 قید خانے کو عزاخانہ بنانے والی
 مر گئی سوگ بھرے گھر کا منانے والی

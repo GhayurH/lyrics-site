@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bbe3bc41255bf6ab90a4
-# source_url: https://tajpoints.com/2021/06/bekasoon-ka-qafila-hai-sham-ka-bazar.html
-# raw_sha256: c050fdb1fd5de814bfcea843414a559877ce0a622ecdeea26a99ffe64a138368
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7811a89b938f7818983
-# source_url: https://tajpoints.com/2023/02/ali-ka-naam-hasnain-akbar-lyrics-in.html
-# raw_sha256: 9983d44b3cc8fbf2212d3345dc3a05d6e9a1d945f06292e453ddbd11bcd0cd2a
 ---
 
 Ali Ka Naam Hasnain Akbar

@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3edc7c7fe03b3b52c1da
-# source_url: https://tajpoints.com/2017/12/yeh-fikar-o-aqal-ke-dushman-bhi-bekar.html
-# raw_sha256: 60cc2cd8a8a78b13ed225219837fc2380311337ccbd91bacd6097e4665ca808e
 ---
 
 Yeh Fikar-o-Aqal Ke Dushman Bhi Bekar Ki Batein Karte Hain.

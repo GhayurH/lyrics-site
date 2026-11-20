@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9027e026f52e9aa212db
-# source_url: https://tajpoints.com/2020/12/gham-sunaney-aayi-hoon-lyrics-in-urdu.html
-# raw_sha256: 3be406e153b9bc348d2cb5b2539fce527352055dcdb0abded0657cf71ddff743
 ---
 
 1

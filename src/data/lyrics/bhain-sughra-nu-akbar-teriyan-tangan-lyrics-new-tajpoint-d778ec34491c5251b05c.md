@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:d778ec34491c5251b05c
-# source_url: https://tajpoint.com/bhain-sughra-nu-akbar-teriyan-tangan/
-# raw_sha256: 411dfe8af7de571789fd76c7f4902f31c3ef9a79ceb042bba87908b164345aa9
 ---
 
 1

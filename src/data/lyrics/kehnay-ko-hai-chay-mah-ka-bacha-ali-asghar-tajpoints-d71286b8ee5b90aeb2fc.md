@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d71286b8ee5b90aeb2fc
-# source_url: https://tajpoints.com/2021/02/kehnay-ko-hai-chay-mah-ka-bacha-ali.html
-# raw_sha256: aaafa1b787281554c98d1c869acfdbc16142f5663377113478493dd8dc876db3
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:b3db34fc9c11cb7fda30
-# source_url: https://www.ziyaraat.net/api/noha/2615
-# raw_sha256: ebe2227bc6fa56ae9a175b4f0fd69d3214e8905894cd4bd1b5f97f17f27e432f
 ---
 
 مدحِ حیدر پم سنانے جب سرِ منبر چلے

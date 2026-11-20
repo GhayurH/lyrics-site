@@ -66,9 +66,6 @@ romanLyrics: |-
   Ghurbat bhi zaifi bhi hai aur tashnadahani
   Haṅste haiṅ mere haal pe dushman mere jaani
   Tanha mujhe is tarha na chhoro Ali Akbar
-# source_id: nohayonline:e46bb6d9d90270c33943
-# source_url: https://www.nohayonline.com/details_content.php?id=202
-# raw_sha256: f0c73392c602effabe08541944c737a39b935d3761240e0df13da3c6e0eda571
 ---
 
 اب گھر کو چلو خاک سے اُٹھو علی اکبر

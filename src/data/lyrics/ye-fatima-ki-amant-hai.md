@@ -8,9 +8,6 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:970c84f61d46167b0ce3
-# source_url: https://www.ziyaraat.net/api/noha/2334
-# raw_sha256: 7ca1097906e2b1e1e41ced2ae1e9f2f116169a104335cb42e25766965687f526
 ---
 
 بسم اللہ الرحمن الرحیم

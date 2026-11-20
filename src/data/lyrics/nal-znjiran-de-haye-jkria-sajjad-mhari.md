@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c407cc797901488ff2a6
-# source_url: https://www.ziyaraat.net/api/noha/689
-# raw_sha256: e34cc61044baf6f8bca9e4fcbb75771b6b38c7451593b7ac343d75ed538fe673
 ---
 
 Naal Zanjeeran Day

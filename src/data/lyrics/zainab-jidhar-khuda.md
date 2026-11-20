@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Masruf-e-sair-e-arsh raha maiṅ jahaaṅ Naved
   Har aankh mujh ko khaak asar dekhti rahi
-# source_id: nohayonline:fd4e670410f64ff56531
-# source_url: https://www.nohayonline.com/details_content.php?id=775
-# raw_sha256: 31234315fab4e50a6f3f773bc5e78f2ee7c0bf2785183f81dab2dc28e6ecc518
 ---
 زینب جدھر خدا تھا ادھر دیکھتی رہی
 کٹتے ہوئے حسین کا سر دیکھتی رہی

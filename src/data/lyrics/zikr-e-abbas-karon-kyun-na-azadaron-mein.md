@@ -7,11 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4000e60b43b07c630de9
-# source_url: https://tajpoints.com/2018/07/zikr-e-abbas-karon-kyun-na-azadaron-mein.html
-# raw_sha256: b773b068c68a79e2dd6ad32cc7d20e8be0f3c69c74c455694dbc1bd0683f13e7
-# source_title_original: Zikr e Abbas Karon Kyun Na Azadaron Mein 2015
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Zikr-e-Abbas Karon Kyun Na Azadaron Mein

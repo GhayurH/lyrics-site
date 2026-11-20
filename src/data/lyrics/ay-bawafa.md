@@ -38,9 +38,6 @@ romanLyrics: |-
   Zainab bula rahi hai awaaz to suna do
   Ae bawafa kahaṅ ho...
   Mere ghazi mere bhaiya
-# source_id: nohayonline:6a40c14e7750c3b5cdbc
-# source_url: https://www.nohayonline.com/details_content.php?id=1864
-# raw_sha256: 4ed5df4174a5e7a07ab484782f734738edc647d3924d12e7fa644d94db89ad7a
 ---
 
 ۱

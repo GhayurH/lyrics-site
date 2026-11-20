@@ -42,15 +42,6 @@ romanLyrics: |-
   7
   Sar diya Gulzaar jab Islaam par Shabbir ne
   Khun ke qatroṅ ne phir khaak-e-shifa aksir ki
-# source_id: nohayonline:03c65750aa24f3e6c74b
-# source_url: https://www.nohayonline.com/details_content.php?id=134
-# raw_sha256: e5260a96526b0a4e8bb9e3ee8a6827b3503a2e0e8ae8ebb32645cf4041539116
-# source_id: ziyaraat:3cba024293f9d29215ad
-# source_url: https://www.ziyaraat.net/api/noha/314
-# raw_sha256: 99128a45da236f83dd32afe0153641767159d0ccb263a9c8938bdbf3f50edd2e
-# source_id: ziyaraat:e8c3850a64ac250948dd
-# source_url: https://www.ziyaraat.net/api/noha/182
-# raw_sha256: 705fa03ea60b49959cb70f85270a8f29205c9a9056a1637a5b57cb06444993f9
 ---
 
 آ رہی ہے یہ صدا زینبِ دلگیر کی

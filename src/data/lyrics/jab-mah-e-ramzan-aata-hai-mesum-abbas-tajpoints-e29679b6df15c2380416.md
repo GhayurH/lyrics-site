@@ -8,9 +8,6 @@ poet: "Mazhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e29679b6df15c2380416
-# source_url: https://tajpoints.com/2023/03/jab-mah-e-ramzan-aata-hai-mesum-abbas.html
-# raw_sha256: a399d4c70ce6d56abe14e6f5858e3ef4901cab5e361749cf63c172d3371d9ae3
 ---
 
 1

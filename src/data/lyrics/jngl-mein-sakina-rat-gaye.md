@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:f175b9570d30b4973c7d
-# source_url: https://www.ziyaraat.net/api/noha/149
-# raw_sha256: 988b542497baac876eeb4edbd2123937ba2b1d7d1693f6e00566ebc44b018240
 ---
 
 Baba ko, sadaein deti hai, jangal mein, sakina, raat gaye

@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Mir Sajjad nahiṅ kya koi waaris is ka
   Is ko har ek sataata hai ye sar kis ka hai
-# source_id: nohayonline:29e80d828618d0e7bcdd
-# source_url: https://www.nohayonline.com/details_content.php?id=1610
-# raw_sha256: 998694ae973e72b59a5b14ab3cfcb6674192e351f17963e1aa935697709d313b
 ---
 سورہء کہف سناتا ہے یہ سر کس کا ہے
 خون آنکھوں سے بہاتا ہے یہ سر کس کا ہے

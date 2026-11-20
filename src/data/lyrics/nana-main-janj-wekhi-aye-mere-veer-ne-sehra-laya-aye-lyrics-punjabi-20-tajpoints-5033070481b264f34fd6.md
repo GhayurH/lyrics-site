@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5033070481b264f34fd6
-# source_url: https://tajpoints.com/2025/03/nana-main-janj-wekhi-aye-mere-veer-ne.html
-# raw_sha256: dc438d25273bd817375f7786c3fff2fda3957daa267f6153bc06d81a07d41fc7
 ---
 
 1

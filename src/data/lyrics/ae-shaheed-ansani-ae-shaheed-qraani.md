@@ -52,9 +52,6 @@ romanLyrics: |-
   Din bach gaya lekin, kuchh nahiṅ bacha tera
   Sar ke bal ziyaarat ho, hai Raza ka ye mansha
   Hind mein pareshaaṅ hai, khaadim-e-Khuraasaani
-# source_id: ziyaraat:43f89fdcc87663b79e62
-# source_url: https://www.ziyaraat.net/api/noha/2422
-# raw_sha256: 2d2b291252907d55f6a507ffca49b4e5caccb97b9effc1dc21a37d8b360c02c1
 ---
 
 اے شہیدِ انسانی، اے شہیدِ قرآنی

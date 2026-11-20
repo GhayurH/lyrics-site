@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d9a96435aef29e49a47a
-# source_url: https://tajpoints.com/2022/06/sultan-raza-mola-ali-raza-karbalai.html
-# raw_sha256: ac787e752b4bac74e65dd12d67724bdbd06af68861266644ee831c858468ff4d
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Debal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:877a1f16191c00c8bde0
-# source_url: https://tajpoints.com/2025/01/nazara-kya-hoga-mir-sajjad-mir-lyrics.html
-# raw_sha256: d88e6112dae3804de2ffa34e7ff809b922644b0868e9bae8011c90a3c91c302a
 ---
 
 1

@@ -63,9 +63,6 @@ romanLyrics: |-
   Bas Raza ek tamanna hai mere dil meiṅ makiṅ
   Meri mehnat ki mujhe bas ye jaza de maula
   Jab mera nauha sune mujhko dua de maula
-# source_id: nohayonline:e0490ac0d619ead9138f
-# source_url: https://www.nohayonline.com/details_content.php?id=2367
-# raw_sha256: 930ac3c9676bab543dfc7e6dcc131003c7f1f92c43f9329851dab5b3f1e4ce05
 ---
 جو حال دل کا ہے نہ سنو گے حسین سے
 

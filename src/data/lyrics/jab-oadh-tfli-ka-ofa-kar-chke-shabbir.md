@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:426f086af173a87d162a
-# source_url: https://www.ziyaraat.net/api/noha/1729
-# raw_sha256: ec547964a22001b7d73c451b83c104878516571d9eb9b4e9766d1786d102a79f
 ---
 
 Shah ast Hussain baade shah ast Hussain

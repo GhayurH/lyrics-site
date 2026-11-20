@@ -52,19 +52,6 @@ romanLyrics: |-
   Puchhne ki meri un se nahiṅ himmat parti
   Ae meri achchhi phuphi
   Mujh ko batlaaiye kiuṅ roti haiṅ chup chup ke chaachi
-# source_id: nohayonline:02652eb99e0153389e8d
-# source_url: https://www.nohayonline.com/details_content.php?id=199
-# raw_sha256: 690cb430c51e3cf5f5af4eaf6bcd1fb6a0491c7d217785a80dee66e393fdded8
-# source_id: nohayonline:37cb891631e862154306
-# source_url: https://www.nohayonline.com/details_content.php?id=522
-# raw_sha256: b8596f72c86d4c7374ad6476ac5de6748318883a3ef9d7e8f311ab3bcb259044
-# source_id: ziyaraat:00f16a27c7291f835c17
-# source_url: https://www.ziyaraat.net/api/noha/2246
-# raw_sha256: 4c7242d2569754572440bd43f52c6608bcf5d249b957934c0a9def4253baffec
-# source_id: ziyaraat:0a391c2c43a5f1d10af5
-# source_url: https://www.ziyaraat.net/api/noha/840
-# raw_sha256: 9daf0fc34036c715ed14e77342c28c9730421791c2fd1f8a670cfb17df38fb62
-# added_stanza_source: roman:kalam-nohayonline-37cb891631e862154306
 ---
 کیا اندھیرا ہے پھوپی، کیا اندھیرا ہے پھوپی
 قید خانے میں سکینہؑ یہ بیاں کرتی تھی

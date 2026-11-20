@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:6d34875be63ef10a7087
-# source_url: https://tajpoint.com/ro-arzaan-kardi-aye-sughra-mera-nana-veer-mila-lyrics/
-# raw_sha256: 1e95e1bb3697b155ada5507b436feef85e0b051aa321a7ea6497fd75b2ac8a6e
 ---
 
 Ro Arzaan Kardi Aye Sughra Mera Nana Veer Mila.

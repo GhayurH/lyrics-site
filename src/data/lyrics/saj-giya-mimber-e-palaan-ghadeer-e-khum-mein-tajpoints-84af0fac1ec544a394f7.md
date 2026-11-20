@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84af0fac1ec544a394f7
-# source_url: https://tajpoints.com/2018/03/saj-giya-mimber-e-palaan-ghadeer-e-khum.html
-# raw_sha256: 3e3ec4c150adca63e42db4d3ec5e5fe6385b8d3171b34e365e9d31a6df386369
 ---
 
 Saj Giya Mimber-e-Palaan Ghadeer-e-Khum Mein.

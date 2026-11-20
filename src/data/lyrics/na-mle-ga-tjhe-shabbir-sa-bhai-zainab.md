@@ -71,12 +71,6 @@ romanLyrics: 'Na milega tujhe shabbir sa bhai zainab
   Saare gham bhool gaye sarwar-o-rehaan magar
 
   Farsh-e-gham hai tere bhaai ki bichai zainab'
-# source_id: nohayonline:ecd28b604f2d9833e655
-# source_url: https://www.nohayonline.com/details_content.php?id=409
-# raw_sha256: 3950514892515b7288546cc35c6d51ecae299ab7944dfbe619e0cd6748142bb4
-# source_id: ziyaraat:d825d34dcd33abf75ee5
-# source_url: https://www.ziyaraat.net/api/noha/2501
-# raw_sha256: c0102fb255a796ce00c461d990cb5517b08355cb2dbe19500cb2643903c74de1
 ---
 
 نہ ملے گا تجھے شبیر سا بھائی زینب

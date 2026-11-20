@@ -67,9 +67,6 @@ romanLyrics: |-
   Nazdik hai ab qaatil ka khanjar
   Dar par hai Zainab majbur o muztar
   Khaime ka parda ulta hua hai
-# source_id: nohayonline:b038bb312ae40a84f1b1
-# source_url: https://www.nohayonline.com/details_content.php?id=1939
-# raw_sha256: 56ecd1448b9adb3fc6c26e0cf9cbc464446dd16d43078eb6fdca8057be1f8712
 ---
 
 سورج کا چہرہ اترا ہوا ہے

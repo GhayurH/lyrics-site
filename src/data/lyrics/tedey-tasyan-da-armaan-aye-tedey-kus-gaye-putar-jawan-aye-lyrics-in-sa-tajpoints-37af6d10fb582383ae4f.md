@@ -8,9 +8,6 @@ poet: "Maqbool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:37af6d10fb582383ae4f
-# source_url: https://tajpoints.com/2019/08/tedey-tasyan-da-armaan-aye-tedey-kus.html
-# raw_sha256: de6c76df9508e08b3fb122b05ce6c251d298ec524a36b0a5390a1ca60e9e6e4f
 ---
 
 1

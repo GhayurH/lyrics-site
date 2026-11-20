@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fb0e4b1c1389699fd192
-# source_url: https://tajpoints.com/2023/05/bhain-sughra-tera-jhola-asghar-roz.html
-# raw_sha256: 7cdd8e445ea57617ba818a9a0b26bc504056e8511f2de844aa33ef15a80fe7ec
 ---
 
 1

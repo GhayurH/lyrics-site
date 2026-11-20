@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:77fdbaf69a6ce5150937
-# source_url: https://tajpoints.com/2022/08/bekasi-mir-hasan-mir-lyrics-in-urdu-and.html
-# raw_sha256: 1c95642fab3079dde35334f72a3931831013ac2871e61a79af6ae0ab75da2b6b
 ---
 
 1

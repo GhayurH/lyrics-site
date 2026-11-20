@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3bf75252ab06764e544a
-# source_url: https://tajpoints.com/2023/07/karbala-ki-ziyarat-syed-wasif-abideen.html
-# raw_sha256: 8ebb9e304d9a2e170d12ffc93414a12ec59ef80c319615a7cab6c0d8fbfe1fba
 ---
 
 1

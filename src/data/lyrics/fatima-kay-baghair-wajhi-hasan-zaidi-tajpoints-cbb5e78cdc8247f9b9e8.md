@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cbb5e78cdc8247f9b9e8
-# source_url: https://tajpoints.com/2024/12/fatima-kay-baghair-wajhi-hasan-zaidi.html
-# raw_sha256: 50d4d247108e16196fbcf47a20df1fbd483c16d3765aee2ccc94bbe654987239
 ---
 
 1

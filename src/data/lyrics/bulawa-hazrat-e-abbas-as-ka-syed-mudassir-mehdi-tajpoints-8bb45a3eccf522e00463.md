@@ -8,9 +8,6 @@ poet: "Jary"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8bb45a3eccf522e00463
-# source_url: https://tajpoints.com/2022/07/bulawa-hazrat-e-abbas-as-ka-syed.html
-# raw_sha256: 5e6c5be0de01d116cc229c9d905e45c7e02f08a772e8cb18f2fa48c84b54ad02
 ---
 
 Bulawa Hazrat e Abbas as Ka Syed Mudassir Mehdi.

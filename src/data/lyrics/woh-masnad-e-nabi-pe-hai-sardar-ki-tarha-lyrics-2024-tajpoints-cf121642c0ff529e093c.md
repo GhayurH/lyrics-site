@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cf121642c0ff529e093c
-# source_url: https://tajpoints.com/2024/03/woh-masnad-e-nabi-pe-hai-sardar-ki.html
-# raw_sha256: ad4c76f7817835e33aaa801989a743632f09359418793bd6873aee00b5d1c2e7
 ---
 
 1

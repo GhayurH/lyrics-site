@@ -8,9 +8,6 @@ poet: "Ansar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:46abf54441df098124a4
-# source_url: https://tajpoints.com/2017/12/aisa-tu-koi-shair-kahon-main-hayat-mein.html
-# raw_sha256: 6393db64249c0be9812ea5af365b5b3c832c46fce187b3278f903fc5b2b7725e
 ---
 
 Aisa Tu Koi Shair Kahon Main Hayat Mein.

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da0af5e63122849d2d16
-# source_url: https://tajpoints.com/2020/08/har-koi-abbas-par-youn-zulm-dhata-reh.html
-# raw_sha256: 6fadee8fa5e52ccc6d3a40ac7787274a08d9b16a61a05d8051e3879ddf289a51
 ---
 
 Har Koi Abbas Par Youn Zulm Dhata Reh Gaya.

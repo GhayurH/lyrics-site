@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:04da9685bf5ff1c957b7
-# source_url: https://tajpoints.com/2021/02/tasbeeh-e-fatima-lyrics-in-urdu-and.html
-# raw_sha256: 08f9c6d598e8efdd7ab9793777c54e605940e10bdcd8c5e5258d836ffbf7c8e0
 ---
 
 1

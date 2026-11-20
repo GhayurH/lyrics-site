@@ -64,12 +64,6 @@ romanLyrics: 'Keewain bazaar gaye bay rida Bint-e-Ali
   Chaar salan di dukhi, bhain mardi aey maidi
 
   Haey nazaan di palli'
-# source_id: ziyaraat:12e47b0e6d6e15a714df
-# source_url: https://www.ziyaraat.net/api/noha/303
-# raw_sha256: 50ced97b5abaef91a756fad1a8a1f3851317fb0df0ca8f88816faad72768a6ad
-# source_id: ziyaraat:80fb1ba3dc578574e222
-# source_url: https://www.ziyaraat.net/api/noha/2429
-# raw_sha256: 7494a7098b907f2cb566b22e432b8bd558ece10dd32fac28355141fa6db8955e
 ---
 
 کیسے دربار گئی، بے ردا بنتِ علیؑ

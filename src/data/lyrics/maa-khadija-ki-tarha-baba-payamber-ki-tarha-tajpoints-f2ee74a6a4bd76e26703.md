@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f2ee74a6a4bd76e26703
-# source_url: https://tajpoints.com/2018/05/maa-khadija-ki-tarha-baba-payamber-ki.html
-# raw_sha256: e3b4abbea61e5976f6267f09990d12b94c1342073fe51721589889ee693196df
 ---
 
 Maa Khadija Ki Tarha Baba Payamber Ki Tarha.

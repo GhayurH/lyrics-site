@@ -70,9 +70,6 @@ romanLyrics: |-
   Azmat ka nishaṅ hai gohar
   Sadiyoṅ se jawaaṅ hai gohar
   Alam ghazi ka...
-# source_id: nohayonline:be2b4c407deabb64aa6a
-# source_url: https://www.nohayonline.com/details_content.php?id=1130
-# raw_sha256: 1b3bc238983114cc3bd5cbd8ac02259723879e0384b82a25ece06bb3afa71ab5
 ---
 
 ۱

@@ -32,13 +32,6 @@ romanLyrics: |-
   5
   Aawaaz do Abbas ko zindaan-e-Shaam meiṅ
   Tishna dahan Sakina ki turbat bana sake
-# source_id: nohayonline:2d1c9fa041191bfc0c0e
-# source_url: https://www.nohayonline.com/details_content.php?id=38
-# raw_sha256: e9b52053b1204bf9ef9aac1433ff53f2221320d9964c2a7afed303c2a1738b12
-# source_id: tajpoints:0c1051fc4f9b29cfa105
-# source_url: https://tajpoints.com/2023/02/darya-se-laut-kar-na-alamdar-aa-sakay.html
-# raw_sha256: 65fab4fdc818c26ed87fc28d6d9fbabae25a8510fc871f5d266d46bae8eb7633
-# editorial_note: Tajpoints Roman source overlaps this fuller bilingual version; source wording preserved through provenance.
 ---
 دریا سے لوٹ کر نہ علمدار آ سکے
 افسوس بے کسوں کے نہ غمخوار آ سکے

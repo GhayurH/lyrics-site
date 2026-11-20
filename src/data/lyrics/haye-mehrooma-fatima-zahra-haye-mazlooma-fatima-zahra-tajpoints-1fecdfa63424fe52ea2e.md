@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1fecdfa63424fe52ea2e
-# source_url: https://tajpoints.com/2018/02/haye-mehrooma-fatima-zahra-haye.html
-# raw_sha256: f91aa7ee961cb287cbae9fef2c3cd72fcddc4652ded1ef13479c7864e11d739a
 ---
 
 Haye Mehrooma Fatima Zahra Haye Mazlooma Fatima Zahra.

@@ -8,9 +8,6 @@ poet: "Zaire"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:03bd1f5eb8fc4420b698
-# source_url: https://tajpoints.com/2019/04/maa-di-qabar-te-baitha-roway-karbal-da.html
-# raw_sha256: b8ecb760efef1a0fece44c98d015d058043d1b38f6633923ef7752c530f9dfd7
 ---
 
 Maa Di Qabar Te Baitha Roway Karbal Da Sultan Aye.

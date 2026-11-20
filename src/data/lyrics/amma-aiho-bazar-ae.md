@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:718631e453275c444e62
-# source_url: https://www.ziyaraat.net/api/noha/1108
-# raw_sha256: e6bf3c7bf45fd5fbd974524d940a7c499b5eac53e2e09712ed2b3434dabf3dc1
 ---
 
 Amma eyo bazaaray.

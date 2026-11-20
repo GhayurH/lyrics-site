@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84c064dad9386797ae0a
-# source_url: https://tajpoints.com/2024/01/kon-janay-kya-hai-fatima-mir-sajjad-mir.html
-# raw_sha256: 131197f790a501b51817d2ef843037d1b1edfbbdcec098d856d31247019d10ee
 ---
 
 1

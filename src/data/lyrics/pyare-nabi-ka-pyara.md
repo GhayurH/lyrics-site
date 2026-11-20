@@ -64,9 +64,6 @@ romanLyrics: |-
   Allah is ke gham ki rasaayi
   Bardaasht na hai saari khudaai
   Maara gaya hai raah-e-Khuda meiṅ
-# source_id: nohayonline:fa9bdb83a3626f05bc2a
-# source_url: https://www.nohayonline.com/details_content.php?id=2576
-# raw_sha256: 91c491b92cd9412acd7801a1a51d7f355d4de6080b6a947e4a636ea251d255a2
 ---
 
 پیارے نبی کا پیارا نواسہ

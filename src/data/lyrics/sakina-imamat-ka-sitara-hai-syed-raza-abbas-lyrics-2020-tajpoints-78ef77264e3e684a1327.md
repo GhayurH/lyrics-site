@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:78ef77264e3e684a1327
-# source_url: https://tajpoints.com/2021/03/sakina-imamat-ka-sitara-hai-syed-raza.html
-# raw_sha256: 3b6ca057e5b48743ab7bde54b9753f98080fdef218d19311f0054d2b4fb43517
 ---
 
 Sakina Imamat Ka Sitara Hai Syed Raza Abbas Zaidi

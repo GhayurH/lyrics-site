@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0b267f41eb12f99ddaac
-# source_url: https://tajpoints.com/2023/04/zainab-ko-baba-ke-ghum-me-sarwar-raza.html
-# raw_sha256: 3882672c79ef8fc250121cfeb1ff36c99c1ffd2ca8b9d2b6c446b702fdb91cc8
 ---
 
 1

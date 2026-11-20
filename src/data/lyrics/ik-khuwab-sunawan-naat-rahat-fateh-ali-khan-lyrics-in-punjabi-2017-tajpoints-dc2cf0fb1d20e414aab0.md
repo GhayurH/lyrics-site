@@ -8,9 +8,6 @@ poet: "Sadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dc2cf0fb1d20e414aab0
-# source_url: https://tajpoints.com/2017/12/ik-khuwab-sunawan-pur-noor-fizawaan.html
-# raw_sha256: f9be8069d96efa38294540bc62f568788816b5cb3a30132af84b434ac49cd66c
 ---
 
 Ik Khuwab Sunawan Naat Rahat Fateh Ali Khan.

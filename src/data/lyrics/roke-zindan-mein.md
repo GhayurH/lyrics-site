@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Qalb-e-saabir ko ise sun ke tasalli hogi
   Jab parha jaayega Mazher ka ye nauha baaba
-# source_id: nohayonline:78c2e7553a572a5026b7
-# source_url: https://www.nohayonline.com/details_content.php?id=3535
-# raw_sha256: efbd6d41c4f60daae1c2ac0ef95fd1d96391fb8d4e0561ab33c2bf0d74e59c77
 ---
 رو کے زنداں میں یہ کہتی تھی سکینہ بابا
 آپ کے بعد گوارا نہیں جینا بابا

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:95ee9a1ef5d07a617d4f
-# source_url: https://tajpoints.com/2023/11/jo-sab-ke-de-shifa-osse-bemar-kyun.html
-# raw_sha256: d66d0d4475207a545d32981365da2ee0441ec5047c963545c80b123a845f818a
 ---
 
 Jo Sab Ke De Shifa Osse Bemar Kyun Likhon.

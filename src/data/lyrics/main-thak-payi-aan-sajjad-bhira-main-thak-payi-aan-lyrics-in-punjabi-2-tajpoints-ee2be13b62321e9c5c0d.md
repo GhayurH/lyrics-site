@@ -8,9 +8,6 @@ poet: "Adeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ee2be13b62321e9c5c0d
-# source_url: https://tajpoints.com/2023/06/main-thak-payi-aan-sajjad-bhira-main.html
-# raw_sha256: 1ad109e595f600685dbe3b27069d4c22729043edac01aaba229c9ae87dece588
 ---
 
 1

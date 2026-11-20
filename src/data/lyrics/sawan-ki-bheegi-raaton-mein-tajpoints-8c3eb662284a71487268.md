@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8c3eb662284a71487268
-# source_url: https://tajpoints.com/2017/02/sawan-ki-bheegi-raaton-mein.html
-# raw_sha256: 5cef3bc52f4b9c02767efd2a15384f3395fa2c85f49a6caa11d7e9f03affbbf3
 ---
 
 1

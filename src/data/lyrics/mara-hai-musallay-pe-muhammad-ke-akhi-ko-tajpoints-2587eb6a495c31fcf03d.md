@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2587eb6a495c31fcf03d
-# source_url: https://tajpoints.com/2025/03/mara-hai-musallay-pe-muhammad-ke-akhi-ko.html
-# raw_sha256: 46d9f0c07899ac41c454ea318b49a912b19682ed1365f99f578b211f973e3871
 ---
 
 1

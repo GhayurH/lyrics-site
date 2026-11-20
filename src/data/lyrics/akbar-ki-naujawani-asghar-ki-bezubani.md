@@ -35,12 +35,6 @@ romanLyrics: |-
   6
   Bole Husain ya rab jaata hai ab wo marne
   Husn o shabab may jo ahmed ki hai nishani
-# source_id: nohayonline:c36a3b46b0ecfb52debd
-# source_url: https://www.nohayonline.com/details_content.php?id=530
-# raw_sha256: 015c7931b541d64122d5edadeeb20913767a1a88b2a53a1b2290139ffa0c645c
-# source_id: ziyaraat:f1981aa8ffffd81f778c
-# source_url: https://www.ziyaraat.net/api/noha/2392
-# raw_sha256: 78b4dc35cf1b6aeb9302ae4acb946d8ad7819a782f8fb5c250fb38bdbd17a623
 ---
 
 اکبرؑ کی نوجوانی اصغرؑ کی بے زبانی

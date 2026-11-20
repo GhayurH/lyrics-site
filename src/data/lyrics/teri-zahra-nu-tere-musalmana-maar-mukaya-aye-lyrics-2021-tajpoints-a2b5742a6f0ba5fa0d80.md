@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a2b5742a6f0ba5fa0d80
-# source_url: https://tajpoints.com/2021/01/teri-zahra-nu-tere-musalmana-maar.html
-# raw_sha256: 2fb8228aea8e3d85ad15339a62216ab14482821d53956c2e64ea4c521b5ca2da
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:afbde8e301852c669477
-# source_url: https://tajpoint.com/janaza-na-mur-ke-aaway-jiwein-aaya-aye/
-# raw_sha256: c9a378f49ee038fd228390c6a6414f27068d7fa1db0f06cc7d644c236af7988d
 ---
 
 Janaza Na Mur Ke Aaway Jiwein Aaya Aye Hasan Da.

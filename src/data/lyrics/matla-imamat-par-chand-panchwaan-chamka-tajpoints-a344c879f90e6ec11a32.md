@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a344c879f90e6ec11a32
-# source_url: https://tajpoints.com/2023/01/matla-imamat-par-chand-panchwaan-chamka.html
-# raw_sha256: 200a14df646be3d65b21cf5708fc754f3b941f3e3360dce01b6a1f6be519d2a4
 ---
 
 Matla Imamat Par Chand Panchwaan Chamka.

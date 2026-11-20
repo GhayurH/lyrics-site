@@ -52,9 +52,6 @@ romanLyrics: |-
   Haye jo qaimon se ghutniyo chalte huwe
   Naujawaṅ laash tak aaya ye sada deta hua
   Ae barchiyoṅ waalon...
-# source_id: nohayonline:4ef40f49099ae2efbf27
-# source_url: https://www.nohayonline.com/details_content.php?id=1646
-# raw_sha256: f9696027d153347f20d6ef32de80426dd7a6eb019e496cdb33b930965a48db25
 ---
 
 ۱

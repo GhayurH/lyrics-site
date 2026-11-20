@@ -52,9 +52,6 @@ romanLyrics: |-
   Mila ek sukuṅ sheh ka nauha suna kar
   Khalish aaj tak hai magar us buka ki
   Mere sar pe lillaah...
-# source_id: nohayonline:e800b89afdeba70790ec
-# source_url: https://www.nohayonline.com/details_content.php?id=2039
-# raw_sha256: cd635d2177c703fc63e7d51f2c1961fbf7601d66f913fa822e2e52fa789f575c
 ---
 
 ۱

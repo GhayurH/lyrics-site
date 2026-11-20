@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed295bbbeb9f05ed5a03
-# source_url: https://tajpoints.com/2018/07/kaise-main-likhon-shan-teri-shah-e.html
-# raw_sha256: 1236f61809e44d5b1a1d37107c5a4c978f07fa0f4aa486097533da6663ca1515
 ---
 
 Kaise Main Likhon Shan Teri Shah-e-Khurasan

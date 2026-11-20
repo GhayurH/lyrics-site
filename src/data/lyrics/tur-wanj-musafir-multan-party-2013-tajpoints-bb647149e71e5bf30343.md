@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bb647149e71e5bf30343
-# source_url: https://tajpoints.com/2024/05/tur-wanj-musafir-multan-party-2013.html
-# raw_sha256: 67a12343aa2ab26c8a5d05c6bdda8f903e90f3da0a10cafe21f058a9bfb02475
 ---
 
 1

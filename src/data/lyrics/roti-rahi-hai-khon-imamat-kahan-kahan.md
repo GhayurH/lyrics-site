@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a1f6a2b9fd725e233e6f
-# source_url: https://tajpoints.com/2023/05/roti-rahi-hai-khon-imamat-kahan-kahan.html
-# raw_sha256: ac99902fa905633c7fb6294c4480d0e96ec8a03453b6baaf2dead0e3c76ae1d4
-# source_title_original: Roti Rahi Hai Khon Imamat Kahan Kahan Asghar Khan 2012
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Roti Rahi Hai Khon Imamat Kahan Kahan

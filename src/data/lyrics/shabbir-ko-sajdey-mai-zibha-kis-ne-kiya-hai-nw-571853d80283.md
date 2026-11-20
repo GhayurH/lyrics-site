@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:571853d802836629e028
-# source_url: https://www.nohawriteups.org/shabbir-ko-sajdey-mai-zibha-kis-ne-kiya-hai/
-# original_html: snapshots/nohawriteups/original_html/571853d802836629e028.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/571853d802836629e028.json
-# api_content_sha256: cb45bd4a2da9c126db09e249e5c5a63317b6bd0847e3eebe27b4accd174d4e42
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Shabbir Ko Sajde Mein Zibha Kisne Kiya Hai

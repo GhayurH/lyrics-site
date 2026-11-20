@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c2f91b2f69b933a3a8ad
-# source_url: https://www.ziyaraat.net/api/noha/1623
-# raw_sha256: 7a7d42d780558bb590ab098c39f1d78f465daa0b7087d7a8da078d26c4a9a2a6
 ---
 
 1

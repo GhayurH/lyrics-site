@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d8c7970ed02499caa76a
-# source_url: https://tajpoints.com/2023/06/sun-lay-ghazi-mola-duawaan-lyrics-in.html
-# raw_sha256: 202ca5611e39c7dd351b43e011f9b1b006848ab81ea1731a235b402416bd9faf
 ---
 
 1

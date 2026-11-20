@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:429a5cd2c5c846cac51b
-# source_url: https://www.ziyaraat.net/api/noha/126
-# raw_sha256: 12e3587e9197b560b9ef86dc68bfd2b7378e5057015cda7a5938ddf817b5fa91
 ---
 
 سب سے چھپ کر شرم سے کبریٰ اپنے بنے کو روتی ہے

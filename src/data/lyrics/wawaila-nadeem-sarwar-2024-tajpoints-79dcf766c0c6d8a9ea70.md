@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:79dcf766c0c6d8a9ea70
-# source_url: https://tajpoints.com/2024/07/wawaila-nadeem-sarwar-2024-lyrics-urdu.html
-# raw_sha256: 8aa67bfb4a2b742408b7d77db0969b30325430cafc99ed19c272467d8aa144cf
 ---
 
 1

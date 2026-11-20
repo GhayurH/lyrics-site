@@ -41,9 +41,6 @@ romanLyrics: |-
   Sahib-ul-Asr ye alfaaz ada karte haiṅ
   Koi khubi ye nahiṅ Akhtar ki
   Is ke nohoṅ meiṅ hai Zahra ki dua
-# source_id: ziyaraat:2ac11773e5f3c67499f8
-# source_url: https://www.ziyaraat.net/api/noha/1372
-# raw_sha256: c617718dc4274710d46ba13abef4503762af1c20423674f9a5a47ddc1b918926
 ---
 اب تو آ جاؤ شہنشاہِ وفا
 رو رو کہتی تھی سکینہؑ رن میں

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:8cdf6eb248a563eb4f0c
-# source_url: https://www.ziyaraat.net/api/noha/1284
-# raw_sha256: 18a632549efe4d3eb97793d8fdd19b34067a99a32fdcda829938804f1160a4e0
 ---
 
 جیں ملنڑیں مل گھنے اکبر ؑ کوں ہے لحظے دا مہمان اکبرؑ

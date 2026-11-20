@@ -158,12 +158,6 @@ romanLyrics: 'Mein rahun ya na rahun Ya Hussain
   Sab kuchh tere hawaale he ab tum sambhalna
 
   Apna khayaal rakhna Sakina ko paalna'
-# source_id: nohayonline:fdaf0e57b7cd26758730
-# source_url: https://www.nohayonline.com/details_content.php?id=399
-# raw_sha256: af2a5eec2afb36458f8f21a9866817607ac11f1450e2a5241a555ae8b16191c2
-# source_id: ziyaraat:9b147d4b0ad202f52173
-# source_url: https://www.ziyaraat.net/api/noha/932
-# raw_sha256: 3de4551e40eb143cce5655edb052216cf77a0562df2506f7942eb51069c1811c
 ---
 
 میں رہوں یا نہ رہوں میرا اسلام رہے گا

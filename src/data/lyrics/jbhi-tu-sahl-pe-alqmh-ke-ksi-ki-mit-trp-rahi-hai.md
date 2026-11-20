@@ -48,9 +48,6 @@ romanLyrics: |-
   Chini hai Kausar ab uski chadar
   Jabhi to sahil pe alqama ke
   Kisi ki mayyat tarap rahi hai
-# source_id: ziyaraat:8fd13b66386313d403e1
-# source_url: https://www.ziyaraat.net/api/noha/650
-# raw_sha256: 7289b1742d5b55081553b913ae84cb4a9d50b7fe350bc8203691b312a5a7bbf6
 ---
 
 ۱

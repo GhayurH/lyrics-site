@@ -38,12 +38,6 @@ romanLyrics: |-
   Misaal ban gayi duniya meiṅ aaj teri wafa
   Zamaana rota hai kar kar ke yaad teri wafa
   Har ek lab pe Alamdar tera afsaana
-# source_id: nohayonline:58b87c33b25d966f72ce
-# source_url: https://www.nohayonline.com/details_content.php?id=1641
-# raw_sha256: 9081e41be74335d042f1155883b8115e898d19e4acb7399f8a4aa2082fc5d8df
-# source_id: ziyaraat:8b6bbd7cd4b726e65d6d
-# source_url: https://www.ziyaraat.net/api/noha/173
-# raw_sha256: f42a71e0c999fcc98dabd76a64008e803eb28060ca408605ebfcc555c0196980
 ---
 کہاں ہو تم میرے غازی ذرا چلے آنا
 میں قید ہو کے چلی اور وطن ہے بیگانہ

@@ -51,9 +51,6 @@ romanLyrics: |-
   Hai haq o sadaqat ka alam parcham-e-Abbas
   Sae meiṅ isi ke haiṅ amaṅ duniya o din ko
   Ta hashr ye lehraeṅge hum parcham-e-Abbas
-# source_id: tajpoints:09cd49fb80e43e7a1c95
-# source_url: https://tajpoints.com/2017/02/allah-ke-shahkar-ka-hai-youm-e-wiladat.html
-# raw_sha256: 75409869996905b2de84fdbb5cbd9fe67e8d0718fe332bb75db88d9e2955bffb
 ---
 
 ۱

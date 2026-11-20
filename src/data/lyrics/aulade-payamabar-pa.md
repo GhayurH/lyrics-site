@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Phuṅkoṅ se mukhaalif ki Taqi kaise bujhegi
   Wo shama-e-aza jis ka nigehbaaṅ Khuda hai
-# source_id: nohayonline:c38e2e70fd401536c233
-# source_url: https://www.nohayonline.com/details_content.php?id=2173
-# raw_sha256: 9b2e05934c086749ee2192b9a5c75885d623497114afc30e926f18b210a121c1
 ---
 اولادِ پیمبر پہ عجب جور و جفا ہے
 زنجیر میں جکڑی ہوئی اب آل عبا ہے

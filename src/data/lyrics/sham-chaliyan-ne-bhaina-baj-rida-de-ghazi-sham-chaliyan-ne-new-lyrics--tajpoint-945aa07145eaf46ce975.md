@@ -8,9 +8,6 @@ poet: "Sajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:945aa07145eaf46ce975
-# source_url: https://tajpoint.com/sham-chaliyan-ne-bhaina-baj-rida-de-ghazi-sham/
-# raw_sha256: ad41cc93e9c9a2aa2373e78652d0a42d4ac80b397788042e4524400983905027
 ---
 
 Sham Chaliyan Ne Bhaina Baj Rida De Ghazi Sham Chaliyan Ne.

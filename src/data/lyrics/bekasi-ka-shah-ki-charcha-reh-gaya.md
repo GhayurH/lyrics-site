@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:0565e5e06bb93c26066c
-# source_url: https://www.ziyaraat.net/api/noha/2902
-# raw_sha256: 9d671aca76041c2cd788b6fca457f66bb13520212500ecb891f76ea03b72197d
 ---
 
 بے کسی کا شہہ کی چرچا رہ گیا

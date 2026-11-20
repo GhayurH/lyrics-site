@@ -7,7 +7,6 @@ direction: "rtl"
 kalamType: "Noha"
 poet: "John Shah"
 reciter: "Saqib Khan Party"
-# Soz: Rizwan Haider
 tags: []
 aliases: []
 published: true

@@ -8,9 +8,6 @@ poet: "Mazhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fb587b1b0b9deb691bf1
-# source_url: https://tajpoints.com/2017/02/darbar-se-kya-zakhm-utha-layi-hai.html
-# raw_sha256: 8fbb6cbe4fded002e64aa87c4574c45e0c5a076f64fcc30e85efd6554f312807
 ---
 
 Darbar Se Kya Zakhm Utha Layi Hai Zahra.

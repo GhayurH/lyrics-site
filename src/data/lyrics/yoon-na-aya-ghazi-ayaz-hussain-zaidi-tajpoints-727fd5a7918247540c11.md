@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:727fd5a7918247540c11
-# source_url: https://tajpoints.com/2023/09/yoon-na-aya-ghazi-ayaz-hussain-zaidi.html
-# raw_sha256: deac36cc460c223a16b887065148e4f473616e532dd3c2c1e830be72bbbec758
 ---
 
 Yoon Na Aya Ghazi Ayaz Hussain Zaidi.

@@ -8,9 +8,6 @@ poet: "Bahlool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2d3f2bf7bacfd144179e
-# source_url: https://tajpoints.com/2018/05/sath-shabir-ke-sajday-mein-khuda-bolay.html
-# raw_sha256: 83a97911ccdb773b42fa989560dfc309d535d79a9cac10d224d9c976a5958d8f
 ---
 
 1

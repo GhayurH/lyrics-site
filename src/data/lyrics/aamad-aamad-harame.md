@@ -78,10 +78,6 @@ romanLyrics: |-
   Baap ke saath jo beti sar-e-darbar gayi
   Subh se jashn ka ghul Shaam ke bazaar meiṅ hai
   Shor-e-faryad o buka Itrat-e-Athar meiṅ hai
-# source_id: nohayonline:0af41b9a5687e8cdc979
-# source_url: https://www.nohayonline.com/details_content.php?id=1901
-# raw_sha256: 76cd6c025e3aca3b782838a451118fe759a3f9b6d36c32c210b9a90dcc7ab30f
-# editorial_note: Noha with eight six-verse stanzas; the two source refrain verses are retained in each stanza. Repeated abbreviated title refrain omitted.
 ---
 
 آمد آمد حرمِ شاہ کی دربار میں ہے

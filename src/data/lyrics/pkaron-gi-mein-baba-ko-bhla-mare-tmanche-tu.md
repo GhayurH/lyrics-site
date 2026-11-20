@@ -41,9 +41,6 @@ romanLyrics: |-
   Mila sar to Masuma ne Shimr se ye kaha Gohar
   Mera laasha uthayega
   Mera bhaiya bula de tu
-# source_id: ziyaraat:b90b78a8a2488ec686b8
-# source_url: https://www.ziyaraat.net/api/noha/1141
-# raw_sha256: fb93019ef267aa6fb08eea815f1ec15df00374660030b24fefef12ec5bca033d
 ---
 
 پکاروں گی میں بابا کو بھلا مارے تمانچے تُو

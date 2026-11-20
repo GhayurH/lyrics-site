@@ -98,9 +98,6 @@ romanLyrics: |-
   Jo hum ne musibat dekhi hai
   Dekhi na musibat ne bhi kabhi
   Wo waqt mujhe tarpaata hai
-# source_id: nohayonline:6b912ac4f8a158b8bdb9
-# source_url: https://www.nohayonline.com/details_content.php?id=2770
-# raw_sha256: 6bdb7564522ae9b887cbc475bc65ac7fb30223ddca5ffcd835b912a8216906f6
 ---
 
 ہائے شام کی گلیاں آئی ہے

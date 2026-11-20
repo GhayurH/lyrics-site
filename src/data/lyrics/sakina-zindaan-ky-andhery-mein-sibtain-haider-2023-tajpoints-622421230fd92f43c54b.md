@@ -8,9 +8,6 @@ poet: "Alvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:622421230fd92f43c54b
-# source_url: https://tajpoints.com/2023/08/sakina-zindaan-ky-andhery-mein-sibtain.html
-# raw_sha256: dbe8d705f11668dc3f732a8f415ee0682d261bdb900ee11d8b0de4798daf03dc
 ---
 
 1

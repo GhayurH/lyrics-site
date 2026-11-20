@@ -8,9 +8,6 @@ poet: "Waseem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:855fd0c66a1ed240849e
-# source_url: https://tajpoints.com/2023/02/main-matami-hoon-saleem-mastan-lyrics.html
-# raw_sha256: 7c8c682473a2b1af46571be4f7536fc21065f42f992e1c284fc0efb695656783
 ---
 
 Main Azadar Hoon Mera Khameer Khak-e-Shifa.

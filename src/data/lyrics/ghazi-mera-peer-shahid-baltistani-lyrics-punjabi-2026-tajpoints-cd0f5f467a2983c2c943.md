@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cd0f5f467a2983c2c943
-# source_url: https://tajpoints.com/2026/01/ghazi-mera-peer-shahid-baltistani-lyrics.html
-# raw_sha256: e0064a0a2046ee43bc144bac6809a5317453c048df448e21a97c1f3f3cb89fb3
 ---
 
 1

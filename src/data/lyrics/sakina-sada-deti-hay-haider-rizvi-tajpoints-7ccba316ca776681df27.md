@@ -8,9 +8,6 @@ poet: "Sohail"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7ccba316ca776681df27
-# source_url: https://tajpoints.com/2021/09/sakina-sada-deti-hay-haider-rizvi.html
-# raw_sha256: 75665456d0d357dd88f25cdaf223e0a9cf6c9e8a8ecfceb6f8b77a127933664f
 ---
 
 Sakina Sada Deti Hay Haider Rizvi.

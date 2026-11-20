@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ddd0e41374e9d016e7e5
-# source_url: https://tajpoints.com/2024/03/ay-muhammad-kay-khuda-khurram-murtaza.html
-# raw_sha256: 80f32a83b514ca61fc69a25db400d9774febdb376cbe82291e4b4730ca516ccf
 ---
 
 1

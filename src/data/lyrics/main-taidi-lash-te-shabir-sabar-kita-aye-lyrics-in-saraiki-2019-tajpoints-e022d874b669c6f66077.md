@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e022d874b669c6f66077
-# source_url: https://tajpoints.com/2019/08/main-taidi-lash-te-shabir-sabar-kita.html
-# raw_sha256: 4db4f073f032797dce9bad9a84d1237f02056b91ad67d63ab67c615ce0403b0a
 ---
 
 1

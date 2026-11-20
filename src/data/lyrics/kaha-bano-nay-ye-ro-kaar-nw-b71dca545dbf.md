@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:b71dca545dbf5067e324
-# source_url: https://www.nohawriteups.org/kaha-bano-nay-ye-ro-kaar/
-# original_html: snapshots/nohawriteups/original_html/b71dca545dbf5067e324.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b71dca545dbf5067e324.json
-# api_content_sha256: 2071ac86dad0974778656385c5227e03b749dd3dd883c37f6015965e178e66f8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Kaha Bano Nay Ye Ro Kaar Yehi Ghum Dil Ko Kata Hay.

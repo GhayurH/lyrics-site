@@ -8,9 +8,6 @@ poet: "Adeeb"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ec33082982e699b8412a
-# source_url: https://tajpoints.com/2017/02/aya-na-hoga-iss-tarha-rang-o-shabab.html
-# raw_sha256: e018296bdbbe4eca38700b7b442ad1a8d5adbd722d967b32e229ae6b53d8c2a4
 ---
 
 Aya Na Hoga Iss Tarha Rang-o-Shabab Rait Par.

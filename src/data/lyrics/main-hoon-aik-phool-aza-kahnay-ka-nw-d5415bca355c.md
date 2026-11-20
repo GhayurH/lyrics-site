@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d5415bca355ca92fbaaf
-# source_url: https://www.nohawriteups.org/main-hoon-aik-phool-aza-kahnay-ka/
-# original_html: snapshots/nohawriteups/original_html/d5415bca355ca92fbaaf.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d5415bca355ca92fbaaf.json
-# api_content_sha256: 6f4ba31e7ccb878d4f2dc43b738d5bf8f896147715604f637fd1ee1402739f66
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Main Hoon Aik Phool Aza Kahnay Ka

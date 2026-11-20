@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:071947d75b3c49f89c3e
-# source_url: https://tajpoints.com/2018/04/kazim-diyaan-dhiyaan-wain-karan-sun.html
-# raw_sha256: 0307f8aa86c4ccaeb1807b7451b928fed3c7b428b0643c06e35da17be20cbffe
 ---
 
 Kazim Diyaan Dhiyaan Wain Karan Sun Haal e Maiyat Aye

@@ -70,9 +70,6 @@ romanLyrics: |-
   Koi bola is taraf hai koi bola us taraf hai
   Aakhir pukaare Maula Ghaazi tumheṅ pata hai
   Akbar mera kahaaṅ hai
-# source_id: nohayonline:a488073f5327480d47d9
-# source_url: https://www.nohayonline.com/details_content.php?id=1906
-# raw_sha256: 1f03e019c7e2a4b0a711274f2f1b055c1b25bd3d5a05fc8cd4e32724c2c2d651
 ---
 
 بیٹے کے قاتلوں سے ایک باپ پوچھتا ہے

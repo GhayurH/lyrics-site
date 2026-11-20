@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d73ed3420a713ae7d1ea
-# source_url: https://www.nohawriteups.org/farhan-ali-waris-haider-haider-lyrics/
-# original_html: snapshots/nohawriteups/original_html/d73ed3420a713ae7d1ea.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d73ed3420a713ae7d1ea.json
-# api_content_sha256: 5e45f2c5811eff6e7fc358050865973872d706e01a435bcd5e773e612583cda5
-# editorial_note: Unpublished source-faithful draft from approved valid roman only on live, extraction broken; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Farhan Ali Waris | Haider Haider

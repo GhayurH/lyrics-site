@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:46c08bf1d5fa019c165b
-# source_url: https://tajpoints.com/2023/04/baar-kuhsaar-e-imamat-ka-bata-sakte.html
-# raw_sha256: 5b98b70fa667f2fb76445ce5e9e7319db062edd6c0281b716c30330b50bd382b
 ---
 
 Baar Kuhsaar e Imamat Ka Bata Sakte Hain.

@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:47c078c1c8355c804169
-# source_url: https://tajpoints.com/2019/11/jo-ishq-e-muhammad-mein-giraftar-nahi.html
-# raw_sha256: 167573ce80de602fcf2f6077b16f298444c32d6e257518617214a00fbf14e6e8
 ---
 
 Jo Ishq-e-Muhammad Mein Giraftar Nahi Hai.

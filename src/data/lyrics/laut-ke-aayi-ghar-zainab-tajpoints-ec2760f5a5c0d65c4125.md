@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ec2760f5a5c0d65c4125
-# source_url: https://tajpoints.com/2020/10/laut-ke-aayi-ghar-zainab-lyrics-in-urdu.html
-# raw_sha256: 7d187417ee3c699a4f52cf5e812ae146b1d4b06d5c64a59556acb14cf5ed0202
 ---
 
 Ghar Bar Luta Kar Jangal Mein Jab Laut Ke Aayi Ghar Zainab.

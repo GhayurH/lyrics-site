@@ -56,9 +56,6 @@ romanLyrics: |-
   Shah bole Takallum ke utho aa gaya khaima
   Sine se zara haath hata lo mere beta
   Is haal meiṅ dekhe gi to mar jaaye gi maadar
-# source_id: nohayonline:42120346d53f5eb2d472
-# source_url: https://www.nohayonline.com/details_content.php?id=1628
-# raw_sha256: 4b25be5076c537ebb0a9ddaf7a91b90b5d1ea18f089bda66cd44b03647bc2160
 ---
 ہائے جواں لال کو مقتل سے جب اٹھا کے چلے
 حسین روتے رہے اور پسر سے کہتے رہے

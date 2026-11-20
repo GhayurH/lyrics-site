@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:208304bc01e3a74e2a2d
-# source_url: https://tajpoints.com/2020/12/baba-mainu-kalma-go-darbar-bolaya-aye.html
-# raw_sha256: f1a26b081ad5bee366847c2c0a459b295a643baf7016faf7ed3a9ec4af80dde4
 ---
 
 1

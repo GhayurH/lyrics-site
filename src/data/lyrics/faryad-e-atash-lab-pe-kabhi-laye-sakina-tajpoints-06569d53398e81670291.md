@@ -8,9 +8,6 @@ poet: "Saifi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:06569d53398e81670291
-# source_url: https://tajpoints.com/2018/10/faryad-e-atash-lab-pe-kabhi-laye-sakina.html
-# raw_sha256: 7675e6dbb066c22458441291fca9ba74024c389923837aacda1400b49d16f653
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:beb719e33c90728da706
-# source_url: https://tajpoint.com/quran-hathaan-wich-kazim-de-ummat-ne-rasiyaan-paiyaan/
-# raw_sha256: f6ee7273963f7b99db8179fb598c6f75b8e6fb76a7bdbc0cc5970330877c9be9
 ---
 
 1

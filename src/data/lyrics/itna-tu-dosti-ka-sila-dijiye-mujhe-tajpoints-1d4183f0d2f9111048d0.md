@@ -8,9 +8,6 @@ poet: "Adam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1d4183f0d2f9111048d0
-# source_url: https://tajpoints.com/2017/02/itna-tu-dosti-ka-sila-dijiye-mujhe.html
-# raw_sha256: 0cf10ea8d3554e75d6a61b5cfd09b3121c22711503135233a5b83209c303e959
 ---
 
 1

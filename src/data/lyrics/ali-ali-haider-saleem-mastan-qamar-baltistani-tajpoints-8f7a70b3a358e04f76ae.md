@@ -8,9 +8,6 @@ poet: "Fazil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8f7a70b3a358e04f76ae
-# source_url: https://tajpoints.com/2024/01/ali-ali-haider-saleem-mastan-qamar.html
-# raw_sha256: 834a8132e92a7289148ce47ea818f6e9368f03fc5f8b0313ad25c304a623f480
 ---
 
 1

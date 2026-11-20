@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Teri marzi pe bharay ghar ko lutaya may ne
   Teri chahat may nahi kuch bhi bachaya may ne
-# source_id: ziyaraat:eb374b85ddd3884ef3aa
-# source_url: https://www.ziyaraat.net/api/noha/2634
-# raw_sha256: d18f99db9a191938442ca8131b7ac05af7c0015f65d428482cec984342549068
 ---
 
 ۱

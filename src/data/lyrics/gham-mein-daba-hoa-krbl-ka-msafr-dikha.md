@@ -8,9 +8,6 @@ reciter: "Katri Bawa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:d4422965f436b5cf1bd1
-# source_url: https://www.ziyaraat.net/api/noha/2655
-# raw_sha256: d5760df68c8cda3bc3ab99078fdbe69c0360e2d1fbbe5a6766f1a76c2a5459ae
 ---
 
 Gham mein dooba hua Karbal ka musafir dekha

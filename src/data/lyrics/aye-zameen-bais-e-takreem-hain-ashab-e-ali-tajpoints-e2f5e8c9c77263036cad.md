@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e2f5e8c9c77263036cad
-# source_url: https://tajpoints.com/2018/07/aye-zameen-bais-e-takreem-hain-ashab-e.html
-# raw_sha256: d28ed1d7cbbbbf67274546e7fff59e5b2b36408b39cd2df956455972b16b8d68
 ---
 
 1

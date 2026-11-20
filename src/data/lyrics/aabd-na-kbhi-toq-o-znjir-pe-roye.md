@@ -36,12 +36,6 @@ romanLyrics: 'Abid na kabhi tauq-o-zanjeer pe roye
   Jaayega qamar khuld mein har sheh ka azadaar
 
   Dozhak haram us pa jo shabbir pe roye'
-# source_id: nohayonline:75f05bf78f7660f526c1
-# source_url: https://www.nohayonline.com/details_content.php?id=269
-# raw_sha256: 2769639907dc4f0b20cc8d8c7a041b51f9ac8702662ef50650676cd2b2f2bc43
-# source_id: ziyaraat:6209a9c81faea06bb902
-# source_url: https://www.ziyaraat.net/api/noha/1166
-# raw_sha256: 2f084fd9095b1b0313967ddf2f4d1d75053fe658d130dc0e28db930508b8860f
 ---
 
 عابدؑ نہ کبھی طوق و زنجیر پہ روئے

@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:26aa570ce0acd8cbf1d2
-# source_url: https://www.nohawriteups.org/abbas-nu-chup-kha-gayi-karbal-vich-bhen-bhira-di/
-# raw_sha256: 4304e8918143a01da4598d55d1b7dd28540cd59c22ea007bb6f4dc3ecfaa1cf5
-# source_title_original: Abbas Nu Chup Kha Gayi Karbal Vich Bhen Bhira Di
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Abbas nu chup kha gayi Karbal vich bhen bhira di
   Nayi te Akbar saamne phupiyan di, chitti par lenda Sughra di

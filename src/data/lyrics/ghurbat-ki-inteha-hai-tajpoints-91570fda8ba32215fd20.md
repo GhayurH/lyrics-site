@@ -8,9 +8,6 @@ poet: "Aqeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:91570fda8ba32215fd20
-# source_url: https://tajpoints.com/2017/02/ghurbat-ki-inteha-hai-na-saya-na-rida.html
-# raw_sha256: d3bb3bf06f52805beca53aa3912d911483b3777f901c2d11f01a298b75e73899
 ---
 
 Ghurbat Ki Inteha Hai Na Saya Na Rida Hai Zahra Teri Lehad Par.

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f1effdc78b0296247b74
-# source_url: https://tajpoints.com/2022/07/ali-akbar-syed-haider-raza-zaidi-lyrics.html
-# raw_sha256: fd3935a8a3fcd9c2b2fa493a620c415abbe0bd16f2968a62ff62bc335300d3f1
 ---
 
 1

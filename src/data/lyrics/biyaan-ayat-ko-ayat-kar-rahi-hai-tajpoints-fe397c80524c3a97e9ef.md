@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fe397c80524c3a97e9ef
-# source_url: https://tajpoints.com/2017/02/biyaan-ayat-ko-ayat-kar-rahi-hai.html
-# raw_sha256: 6d489cd2df2edde653d7ef457d66e2032aa011abab044747189006b03cef57aa
 ---
 
 Rida Sar Ki Tilawat Kar Rahi Hai

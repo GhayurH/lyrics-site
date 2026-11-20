@@ -7,11 +7,6 @@ direction: "rtl"
 kalamType: "Noha"
 aliases: []
 published: false
-# source_id: nohawriteups:1653cf145e266e4a5f6b
-# source_url: https://www.nohawriteups.org/abbas-tere-baad/
-# raw_sha256: 6903dbec3c39c461207b8462c22853575fcffa40fc4c6f3acfe908652618865d
-# source_title_original: Abbas Tere Baad
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Abbas tere baad qayamat si bapa hai
   Qaimo may ghareebon ke faqat ye hi sada

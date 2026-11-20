@@ -8,9 +8,6 @@ poet: "Zaire"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:32318ea1b0c8056651dc
-# source_url: https://tajpoints.com/2023/04/sharaab-e-wilaay-e-hassan-pee-rahay.html
-# raw_sha256: 5b8b1ac8ea0722007b88217c2d15dfdd3fd7f7a73ea9c71c0728f4af484b5c74
 ---
 
 Sharaab e Wilaay e Hassan Pee Rahay Hain Sayyed Zaire Naqvi.

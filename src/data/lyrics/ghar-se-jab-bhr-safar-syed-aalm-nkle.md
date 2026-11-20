@@ -202,13 +202,6 @@ romanLyrics: 'Ghar se jab behre safar sayyede aalam nikle
   Koi gurbat may usay maar na daale beta
 
   Mera shabbir hai ab tere hawale beta'
-# source_id: nohayonline:4adb23077ea3df0eeaf8
-# source_url: https://www.nohayonline.com/content_marsiya.php?id=11
-# raw_sha256: 6bb2d0561489a310e2097bd581dc8d2c3db80499ae886e4ba0b5bce28fa8a6a0
-# source_id: ziyaraat:78f767fabc529a83a2c6
-# source_url: https://www.ziyaraat.net/api/noha/2526
-# raw_sha256: 6d1a4010c7d9c5509087cf8e3e522633c7765b8080611006578a4172b90c54c2
-# added_stanza_source: urdu:kalam-nohayonline-4adb23077ea3df0eeaf8
 ---
 
 گھر سے جب بہرِ سفر سیدِ عالم نکلے

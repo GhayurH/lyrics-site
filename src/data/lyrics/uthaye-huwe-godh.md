@@ -63,9 +63,6 @@ romanLyrics: |-
   Maiṅ kis tarah souṅgi zakhmoṅ ke upar
   Maiṅ kehti nahiṅ mujh ko sine lagaaeṅ
   Mujhe aaj bas khaak par hi sulaaeṅ
-# source_id: nohayonline:4c2e681b8d21c3e3eb6a
-# source_url: https://www.nohayonline.com/details_content.php?id=2079
-# raw_sha256: bf75467bff8ed7e71a31372c34c5f797b3a05ea71391aebb12ccb113cbb886cd
 ---
 اٹھائے ہوئے گود میں سر پدر کا
 سکینہ یہ کہتی تھیں لے کر بلائیں

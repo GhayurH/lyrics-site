@@ -50,9 +50,6 @@ romanLyrics: |-
   Ham wo shajar haiṅ jo pal rahe haiṅ
   Maula Raza ham saare sana khwaaṅ
   Teri ataaoṅ pe chal rahe haiṅ
-# source_id: tajpoints:f78b963af2a2b9ef1d03
-# source_url: https://tajpoints.com/2023/06/ya-mola-raza-rajab-ali-khan-lyrics-in.html
-# raw_sha256: a6ecc3cae52c7cc591ba2dc791f49b628f1b84110b3ffb5b11824c8ba9b81265
 ---
 من تن شدم تو جان شدی
 مولا رضا، مولا رضا

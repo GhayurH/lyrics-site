@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Ik aas lagaye hue wo baithi thiṅ dar par
   Aaeṅge Chacha lene kaha karti thiṅ Sughra
-# source_id: nohayonline:b286da9a03add19aaf07
-# source_url: https://www.nohayonline.com/details_content.php?id=3
-# raw_sha256: 6998ec74ad2f7c4218cf7d81012b27880df73d94140bd24d182ab54b8e9e9611
 ---
 
 عباس کا جب ذکر وفا کرتی تھیں صغرا

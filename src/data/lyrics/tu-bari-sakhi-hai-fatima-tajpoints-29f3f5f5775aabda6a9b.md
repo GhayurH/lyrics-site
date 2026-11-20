@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:29f3f5f5775aabda6a9b
-# source_url: https://tajpoints.com/2019/02/tu-bari-sakhi-hai-fatima.html
-# raw_sha256: 817be6a233f2cf66d2b678c9b3962ab1773137f2ad6ed9692f43fde0494cd3cd
 ---
 
 1

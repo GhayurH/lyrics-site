@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:171e332a71fe27d2c85d
-# source_url: https://tajpoints.com/2019/10/munh-walaan-naal-luka-ke-wich-sham-de.html
-# raw_sha256: f5cfc009cd2fe92fa168f55683cc5a3517d27728614853cadc0d6e38e79ce108
 ---
 
 1

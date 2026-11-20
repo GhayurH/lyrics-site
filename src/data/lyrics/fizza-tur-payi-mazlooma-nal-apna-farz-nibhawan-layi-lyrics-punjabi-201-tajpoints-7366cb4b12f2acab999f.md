@@ -8,9 +8,6 @@ poet: "Azai"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7366cb4b12f2acab999f
-# source_url: https://tajpoints.com/2019/10/fizza-tur-payi-mazlooma-nal-apna-farz.html
-# raw_sha256: 2b1e1963fc6d886d813b8ef8bcd7acc17f408924c8912a1841457a29a7326c2f
 ---
 
 1

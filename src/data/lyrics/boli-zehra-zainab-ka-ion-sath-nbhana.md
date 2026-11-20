@@ -91,12 +91,6 @@ romanLyrics: 'Boli zehra zainab ka yun saath nibhana
   Mai kaise nibhati hoo un shaam ke galiyon mein
 
   Tum dekhne aana'
-# source_id: nohayonline:697d720ce5139ba8397e
-# source_url: https://www.nohayonline.com/details_content.php?id=300
-# raw_sha256: 8f89845341a6dcc9989b71dde4bc4fc2dc976f68388675b4d44a73f53df01478
-# source_id: ziyaraat:5f9c92d4d2dff465e94a
-# source_url: https://www.ziyaraat.net/api/noha/1854
-# raw_sha256: fa4f4c5e252a6f21cf7bbd6ab496afa23ec31d69ee57168d802ee5a9f2bafb15
 ---
 
 بولی زہراؑ زینبؑ کا یوں ساتھ نبھانا

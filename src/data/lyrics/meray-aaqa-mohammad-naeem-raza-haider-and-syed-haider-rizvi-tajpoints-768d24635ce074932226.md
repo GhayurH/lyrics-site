@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:768d24635ce074932226
-# source_url: https://tajpoints.com/2021/04/meray-aaqa-mohammad-naeem-raza-haider.html
-# raw_sha256: 0fbc436824da6e9c03a4b35ea6c1df4a77ef7c22e2d217a2b9e0f020178e696e
 ---
 
 Meray Aaqa Mohammad Naeem Raza Haider and Syed Haider Rizvi.

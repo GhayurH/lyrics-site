@@ -8,9 +8,6 @@ poet: "Shahi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6bac9d299a3a49f38fd1
-# source_url: https://tajpoints.com/2019/06/jab-choot-ke-kunba-yeh-watan-jaye-ga.html
-# raw_sha256: 9826347ce5b53a3c33c3ed377bd785e907ae7d63dc6ad71b25ede0be8c52fd5d
 ---
 
 Jab Choot Ke Kunba Yeh Watan Jaye Ga Asghar.

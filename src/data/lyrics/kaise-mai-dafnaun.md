@@ -56,9 +56,6 @@ romanLyrics: |-
   Sab ko rulaata tha ye sajjad ka jumla
   Haye wo sajjad ka kehna
   Kaise mai dafnauṅ sakina...
-# source_id: nohayonline:a98b0e68c42990bd83af
-# source_url: https://www.nohayonline.com/details_content.php?id=2224
-# raw_sha256: de1a20b52224e328e8217551a9bfaf593c2d6db177d6c5405fa8f17378441e4d
 ---
 
 ۱

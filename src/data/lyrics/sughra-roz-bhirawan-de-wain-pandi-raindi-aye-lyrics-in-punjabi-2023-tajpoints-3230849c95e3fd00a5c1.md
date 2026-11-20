@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3230849c95e3fd00a5c1
-# source_url: https://tajpoints.com/2023/07/sughra-roz-bhirawan-de-wain-pandi.html
-# raw_sha256: 5a86f077ce9fc1ab85ecd5d39a3c2f022e7d1e9427663c2db9856dc0970869f1
 ---
 
 1

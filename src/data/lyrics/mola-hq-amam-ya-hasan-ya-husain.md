@@ -38,9 +38,6 @@ romanLyrics: |-
   Pyasa gala kyu kar kata, Ro kar kahe ye bibiya
   13. Sughra Udhar roti rahi, Moula idhar roote rahe
   Aur khatl sab hote rahe, Phir bhi kare shukre khuda
-# source_id: ziyaraat:5d780455f005dba423a6
-# source_url: https://www.ziyaraat.net/api/noha/859
-# raw_sha256: c7c3c6daddd3c30a466c5f284ff07412b1ac71cf7308475154aebc1d964611f3
 ---
 
 یا حسینؑ یا حسینؑ

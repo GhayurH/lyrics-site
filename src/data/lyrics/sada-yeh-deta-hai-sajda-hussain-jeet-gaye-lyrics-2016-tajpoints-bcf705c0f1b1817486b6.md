@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bcf705c0f1b1817486b6
-# source_url: https://tajpoints.com/2019/04/sada-yeh-deta-hai-sajda-hussain-jeet.html
-# raw_sha256: c1b8a3c515794e35060b8cca2dbae7d50aba6eb33a56d1cc1f2243e5a2a78132
 ---
 
 Sada Yeh Deta Hai Sajda Hussain Jeet Gaye.

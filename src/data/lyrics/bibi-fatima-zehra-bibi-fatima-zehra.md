@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:7e2de2e0e0d4b66862b5
-# source_url: https://www.ziyaraat.net/api/noha/2901
-# raw_sha256: dd6837db0df47306b856b91097590b8eda619a1a845add47830ba1d173761a5a
 ---
 
 بی‌بی فاطمہ زہراؑ، بی‌بی فاطمہ زہراؑ

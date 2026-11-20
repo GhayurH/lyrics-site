@@ -8,12 +8,6 @@ reciter: "Katri Bawa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:56e82452eb9d3d7c6478
-# source_url: https://www.nohawriteups.org/haye-baad-e-rasool-ummat-nay-fatima/
-# original_html: snapshots/nohawriteups/original_html/56e82452eb9d3d7c6478.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/56e82452eb9d3d7c6478.json
-# api_content_sha256: ba1fb975c67e52ae7d27ba91d8a8695849da13c1ca884f20881c00155b110fb9
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye Baad-e-Rasool Ummat Nai Fatima Ko Bohat Sataya Hay.

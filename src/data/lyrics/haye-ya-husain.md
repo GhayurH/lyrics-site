@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c58f4975258fe923263c
-# source_url: https://www.ziyaraat.net/api/noha/1213
-# raw_sha256: a9eb1d9864afd7ed968bbda891c94951ff6405718a0a551ddd3dea01fcfdb7a4
 ---
 
 ہاۓ یاحسینؑ ہاۓ یاحسینؑ

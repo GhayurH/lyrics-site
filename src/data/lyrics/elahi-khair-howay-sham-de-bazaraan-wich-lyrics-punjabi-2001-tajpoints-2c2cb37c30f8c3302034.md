@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2c2cb37c30f8c3302034
-# source_url: https://tajpoints.com/2025/08/elahi-khair-howay-sham-de-bazaraan-wich.html
-# raw_sha256: b0ada549f42b9e7f8f9633b16fa11528cc92313eb1b9f7ff7230d9183e6f6a93
 ---
 
 Elahi Khair Howay Sham De Bazaraan Wich Batool Zadiyaan Sir Nangay Aa Gayiyaan.

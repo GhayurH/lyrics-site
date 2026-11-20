@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:810d5fca21b3f4036a95
-# source_url: https://tajpoints.com/2018/01/ali-ki-dosri-tasveer-ko-abbas-kehte-hain.html
-# raw_sha256: b48a72ad56f4e4b181add423dbfef13cd4353868dec839148af30aca4da5ba66
 ---
 
 Ali Ki Dosri Tasveer Ko Abbas Kehte Hain.

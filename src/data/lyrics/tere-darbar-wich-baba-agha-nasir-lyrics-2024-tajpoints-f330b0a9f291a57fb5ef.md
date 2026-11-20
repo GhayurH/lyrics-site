@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f330b0a9f291a57fb5ef
-# source_url: https://tajpoints.com/2023/12/tere-darbar-wich-baba-agha-nasir-lyrics.html
-# raw_sha256: 6cecbe51f3d0ddf4cd6c1825f3ea3a78adc2e1a07d141ea3634339f7c736345c
 ---
 
 Tere Darbar Wich Baba Agha Nasir

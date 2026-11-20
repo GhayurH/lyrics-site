@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:86e673f880356bf85ca4
-# source_url: https://tajpoint.com/baba-askari-da-qurban-ho-gaya-aye-lyrics-2025/
-# raw_sha256: 95c043af64fdb856918ffc174fb90160590a7386f8c3052b6f16eee35e7029ce
 ---
 
 Baba Askari Da Qurban Ho Gaya Aye.

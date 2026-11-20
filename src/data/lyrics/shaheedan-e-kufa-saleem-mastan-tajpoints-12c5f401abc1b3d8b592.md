@@ -8,9 +8,6 @@ poet: "Ahsaan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:12c5f401abc1b3d8b592
-# source_url: https://tajpoints.com/2026/05/shaheedan-e-kufa-saleem-mastan.html
-# raw_sha256: 6d0746673c09a6e634729b70d6e45791111b2383b64d44e307e7d89fd0d112a6
 ---
 
 Shaheedan e Kufa Saleem Mastan

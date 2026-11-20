@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:26ae2fe44064b81288db
-# source_url: https://tajpoints.com/2020/03/hussain-rakhay-ga-lyrics-in-urdu-and.html
-# raw_sha256: 3d1d15049d08e92620de8cb4e28c1099d8de8ea67d43aeb6584a67adfaaccb6d
 ---
 
 Jahan Jabeen Sar-e-Sajdah Hussain Rakhay Ga.

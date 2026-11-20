@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a333c0760ddb2c87aaba
-# source_url: https://www.ziyaraat.net/api/noha/654
-# raw_sha256: d818da5b28a2e2552499a77034962009bdc6a171b6b9c5f8f50c7fc2384063c4
 ---
 
 Zainab ke ye dilbar hain ye Aun-o-Mohammad hain

@@ -8,9 +8,6 @@ poet: "Tehzeeb"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ec875a8520e014679953
-# source_url: https://tajpoints.com/2017/02/jab-mulaas-mehdias-aein-gaye.html
-# raw_sha256: ed79ac1ca8ecc070b3258468a0acb5729a410ad3be727e84ace9c326085f04cc
 ---
 
 1

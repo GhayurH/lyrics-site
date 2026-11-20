@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e7180ff1dee042b7a7e
-# source_url: https://tajpoints.com/2017/02/hum-ayse-wafa-keish-yahan-chand-rahe.html
-# raw_sha256: f7160dce4e54db8e705795c78653417319dfe8c58c47b9d688434cac1926116a
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:df354341878d9d1a8776
-# source_url: https://tajpoints.com/2023/01/jehray-safraan-che-milay-ch-faiyaz.html
-# raw_sha256: 7b5c71999d9cd1eaf124d526aaec922a9da9f2a29d6b7c1dff9282b834723237
 ---
 
 Jehray Safraan Che Milay Ch Faiyaz Party

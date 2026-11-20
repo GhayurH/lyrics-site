@@ -8,9 +8,6 @@ poet: "Bay"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d9eb433d15cac4bfb2a7
-# source_url: https://tajpoints.com/2025/02/khuda-e-abbas-hasnain-mehdi-lyrics-urdu.html
-# raw_sha256: a9d0e8bb4c12b43dbe84c97bdb08b4a7e9e0d299045a0451945f6f9389caa7a8
 ---
 
 1

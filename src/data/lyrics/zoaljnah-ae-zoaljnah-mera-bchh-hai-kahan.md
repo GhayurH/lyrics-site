@@ -85,12 +85,6 @@ romanLyrics: 'Boli khatun-e-jina, yani Shabbir ki maa, mera bacha hay kahan
   Thaam kar dil larazte haathon se, boli Rehan madare sarwar
 
   Tujhse ay aspe jhari, ab na puchengi ye maa'
-# source_id: nohayonline:095393a70a6ce751b3f6
-# source_url: https://www.nohayonline.com/details_content.php?id=3298
-# raw_sha256: cdeda8d7c15865fc1853d4b0b342564c9f81bbaaaa1b1293442fc6333b9f5e54
-# source_id: ziyaraat:f5e2fb3fc895dba30e22
-# source_url: https://www.ziyaraat.net/api/noha/863
-# raw_sha256: 643c63fa594ae4ea5925d6a5871eb5cd359cad3af8ca7b791476e0d16acf63c7
 ---
 
 بولی خاتونِ جناں یعنی شبیر کی ماں

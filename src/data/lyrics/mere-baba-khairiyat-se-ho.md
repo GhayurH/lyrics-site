@@ -57,9 +57,6 @@ romanLyrics: |-
   Ho qabul shaah-e-karbala
   Koi beti aur is tarha
   Phir tarap ke yuṅ na de sada
-# source_id: nohayonline:29b816e18abfba5dc2dc
-# source_url: https://www.nohayonline.com/details_content.php?id=402
-# raw_sha256: 0e377128326db7cf36fb8c434445adab6542daeb106c61cb187b4e8795c5e40b
 ---
 صغریٰ غش سے چونک کر اُٹھی
 بولی سر کو پیٹتی ہوئی

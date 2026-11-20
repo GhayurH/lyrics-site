@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9ecb582e934c9a219fc1
-# source_url: https://tajpoints.com/2018/07/karam-mula-hussain-da.html
-# raw_sha256: 9ed966940568225df9ee3908876d761e2b410e3d7074add5f38af8000a8ee4ab
 ---
 
 1

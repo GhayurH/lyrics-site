@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8619e71449759ea1d9e2
-# source_url: https://tajpoints.com/2022/03/aisa-ali-ke-lehjay-mein-mukhtar-hussain.html
-# raw_sha256: 105f57380bad97e911ae2f66838c557cf62044aef37871a90e0a52a00e6e3b36
 ---
 
 1

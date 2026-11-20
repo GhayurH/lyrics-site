@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7f8ad23cd5434ae8f801
-# source_url: https://tajpoints.com/2020/09/kaisay-bholaye-maa-lyrics-in-urdu-and.html
-# raw_sha256: b9e0414db89521d3ec6394b72bec0ba10d6ce2c9c23d89dd72b9d00757b30a00
 ---
 
 1

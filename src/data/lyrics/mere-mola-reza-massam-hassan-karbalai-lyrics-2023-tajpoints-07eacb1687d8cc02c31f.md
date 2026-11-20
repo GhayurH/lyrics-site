@@ -8,9 +8,6 @@ poet: "Faizan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:07eacb1687d8cc02c31f
-# source_url: https://tajpoints.com/2023/05/mere-mola-reza-massam-hassan-karbalai.html
-# raw_sha256: 6a7d21fd2e94424a76704240a8b7ac4a066102bf6f8d823ec544e34e6d2a3956
 ---
 
 Mere Mola Reza Massam Hassan Karbalai.

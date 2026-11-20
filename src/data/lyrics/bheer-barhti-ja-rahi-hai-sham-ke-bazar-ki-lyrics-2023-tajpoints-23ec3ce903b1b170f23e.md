@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:23ec3ce903b1b170f23e
-# source_url: https://tajpoints.com/2023/05/bheer-barhti-ja-rahi-hai-sham-ke-bazar.html
-# raw_sha256: 8b4bce563e35a11401b5fc0596373388cc896888c6dd53deb4a3d7aaa1fddb90
 ---
 
 1

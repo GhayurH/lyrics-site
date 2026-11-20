@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:6fbdec32dc60f353ed98
-# source_url: https://tajpoint.com/alma-waliya-bhain-teri-mangdi-aye-dua-lyrics/
-# raw_sha256: 874e224962ece77006cdc4095e4104b9a4e106d0cd7d7bf35f7b91f7461caa70
 ---
 
 1

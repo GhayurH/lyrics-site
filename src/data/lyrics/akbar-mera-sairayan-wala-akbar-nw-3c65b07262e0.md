@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3c65b07262e04cde4aa7
-# source_url: https://www.nohawriteups.org/akbar-mera-sairayan-wala-akbar/
-# original_html: snapshots/nohawriteups/original_html/3c65b07262e04cde4aa7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3c65b07262e04cde4aa7.json
-# api_content_sha256: 69c99e67a99f9dc836112d6d8c3f30f7ed8a0383a89019d91d428a685e14769f
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Akbar, mera sairayan wala Akbar, Akbar, Mera Chotiyan wala Akbar

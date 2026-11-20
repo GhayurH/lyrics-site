@@ -35,9 +35,6 @@ romanLyrics: |-
   5) Main jaan gayin baba keeta Batul vain aai
   Ummat nay maar dainai merai Hasan Husain aai
   Darbar jakay aai ho mainu nazar hai aaya
-# source_id: ziyaraat:a6210e7b5e3d8e34bacf
-# source_url: https://www.ziyaraat.net/api/noha/1480
-# raw_sha256: 1dc76cbbdfa20b99aded81264a878d6aa530060c4de2fb86f74432dce2d870d5
 ---
 
 زہرا تے کلمہ گو نے دروازہ اینج گرایا

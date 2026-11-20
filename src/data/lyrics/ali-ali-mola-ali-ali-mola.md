@@ -7,14 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5be204285640a6b65ccc
-# source_url: https://tajpoints.com/2018/03/ali-ali-mola-ali-ali-mola-1-4.html
-# raw_sha256: 8c2eca57b6efef9aceaa76ea9aa147a165e835e85c5ef8584299315b6395a647
-# source_id: tajpoints:b6d8fe308188bef7cd90
-# source_url: https://tajpoints.com/2018/03/ali-ali-mola-ali-ali-mola-5-9.html
-# raw_sha256: 6b1d198219daede237338b5cdacd5cbab0f41b9d548e132d41ca7be4374b0f31
-# source_poet: Mazhar
-# editorial_note: Consolidated two sequential Tajpoints pages, preserving the four-line introductory chorus and rejoining nine six-line stanzas. Distinct from the unrelated Ali Ali Maula Ali work. Original Roman source spelling awaits editorial transliteration.
 ---
 
 Masjid Boli Mula Mimber Bola Mula.

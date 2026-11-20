@@ -50,9 +50,6 @@ romanLyrics: |-
   Abbas ka matam hai ye sine meiṅ dil phat jayega
   Jo marsiya sheh ne parha wo marsiya soche koi
   In kasarata zahri ya aqi...
-# source_id: nohayonline:11761a44fde2e86ea716
-# source_url: https://www.nohayonline.com/details_content.php?id=3489
-# raw_sha256: 88f463e7702eae018611c48321ac0b0aef0c6b538d57f7ccf71cd05ab2337fb9
 ---
 
 ۱

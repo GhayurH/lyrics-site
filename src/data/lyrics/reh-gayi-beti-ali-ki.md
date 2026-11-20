@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Tharthara kar reh gayi qabr-e-Nabi Yasir Raza
   Aayi jab rudaad-e-gham Zainab sunaane ke liye
-# source_id: nohayonline:1c2aebfa479d5b1f4403
-# source_url: https://www.nohayonline.com/details_content.php?id=2577
-# raw_sha256: b166dd165c60a644b051412e069fe95cae276af73dea548fa920125f05d1f159
 ---
 رہ گئی بیٹی علی کی غم اٹھانے کے لیے
 زخم کھانے کے لیے آنسو بہانے کے لئے

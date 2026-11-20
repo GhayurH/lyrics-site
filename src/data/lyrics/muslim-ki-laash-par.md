@@ -48,9 +48,6 @@ romanLyrics: |-
   Yaqub aur Raza hai ye raaz Karbala ka
   Kufa dikha raha hai andaaz Karbala ka
   Muslim se ibtida hai Sarwar pe intiha hai
-# source_id: nohayonline:9c8284df04603b54dc23
-# source_url: https://www.nohayonline.com/details_content.php?id=1400
-# raw_sha256: dd7a2be0b8fc711875c2f6a914efab83287a8747932053e9bb5df84d4a4e3efb
 ---
 مسلم کی لاش پر یہ زہرا کا مرثیہ ہے
 مسلم تیری شہادت تمہیدِ کربلا ہے

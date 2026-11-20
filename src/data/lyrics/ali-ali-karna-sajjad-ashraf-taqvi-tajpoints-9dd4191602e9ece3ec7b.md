@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9dd4191602e9ece3ec7b
-# source_url: https://tajpoints.com/2025/01/ali-ali-karna-sajjad-ashraf-taqvi-lyrics.html
-# raw_sha256: c850921d3a11d9479db3016a9622b7148993a604ba212d5b38cc91a7a7002ba1
 ---
 
 1

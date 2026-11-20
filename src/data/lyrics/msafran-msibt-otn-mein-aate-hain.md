@@ -151,13 +151,6 @@ romanLyrics: 'Musafirane Musibat Watan may Aate hain
   Tarap k reh gai sugra sa bapa hua mehshar
 
   Kabeer bas ab falaq thartharate hain'
-# source_id: nohayonline:73513ac15b966628411a
-# source_url: https://www.nohayonline.com/details_content.php?id=407
-# raw_sha256: b55e3ee91a9d193a1292e96151fa39e2fe82f3d111c914769bf6b2ea54946182
-# source_id: ziyaraat:6aab58bac7e03fe20db4
-# source_url: https://www.ziyaraat.net/api/noha/1946
-# raw_sha256: e6256e05de74bddaf513b5855c8e65acac628743cbfeb8789ed6cf0f01c900b0
-# added_stanza_source: roman:kalam-nohayonline-73513ac15b966628411a
 ---
 
 نہ مہمل ہے نہ ہودج ہے

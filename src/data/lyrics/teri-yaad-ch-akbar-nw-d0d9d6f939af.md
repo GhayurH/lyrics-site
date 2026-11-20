@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d0d9d6f939af756567ed
-# source_url: https://www.nohawriteups.org/teri-yaad-ch-akbar/
-# original_html: snapshots/nohawriteups/original_html/d0d9d6f939af756567ed.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d0d9d6f939af756567ed.json
-# api_content_sha256: 5ff3bd7d87673a4d0a12ad41e3596e25392aff8a8f549056cf271eadb249027e
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Teri Yaad Ch Akbar

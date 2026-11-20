@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:491a3522c31e9adba4b9
-# source_url: https://tajpoints.com/2017/02/yeh-hum-ne-dekha-tha-khowab-pyare-nadi.html
-# raw_sha256: e4601185cd994d9f76fd97a1c4ccb56f70a963a4816f8dcf9cb8ec8f23265396
 ---
 
 1

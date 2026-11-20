@@ -57,15 +57,6 @@ romanLyrics: |-
   Ye farsh-e-aza ye matam Zainab ka qarz hai hum par
   Dunya se kaheṅ phir kiuṅ na Farhan aur Mazhar ro kar
   Jo Aal-e-Nabi par guzri nohoṅ meiṅ sunaya jaata hai
-# source_id: nohayonline:9a781c81cabad906b46e
-# source_url: https://www.nohayonline.com/details_content.php?id=78
-# raw_sha256: 34f9fb3d52a8db4d9070bc04aeaf0773db3f096f0182a32d37b56a572bdd3bb7
-# source_id: ziyaraat:425648dc37107d08b80a
-# source_url: https://www.ziyaraat.net/api/noha/2469
-# raw_sha256: 73245466d05f3ec68ac7ababce4421bc9db20cb0c6586b85d6d8838c48c3d72a
-# source_id: ziyaraat:a09ac6c2b92cc04ff217
-# source_url: https://www.ziyaraat.net/api/noha/2456
-# raw_sha256: 1469383691fbafcf21b1ee7282452df799a65551e9df4bb79712ca9ab4eb4236
 ---
 
 

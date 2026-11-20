@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f8175c1e25383219a031
-# source_url: https://tajpoints.com/2023/12/na-bhoolay-gi-kabhi-fizza-khurram.html
-# raw_sha256: 49c6d13f665545a46786eab997fc04ffd1354246798730edd73fc7b8a071dae5
 ---
 
 1

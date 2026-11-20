@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:606508541c91ecc5e6b4
-# source_url: https://tajpoints.com/2022/07/pochy-zainab-sy-koi-faraz-ali-zaidi.html
-# raw_sha256: b0ceebd276ee4d7e92ddc1f1a0a4e7d63174b681c9f972d307974e413901a6e3
 ---
 
 1

@@ -71,9 +71,6 @@ romanLyrics: |-
   Zainab ko ye keh kar do pursa
   Ye ashk nahiṅ ruk sakte kabhi
   Ye mauj samandar waali hai
-# source_id: nohayonline:54646217465feb2e0b8a
-# source_url: https://www.nohayonline.com/details_content.php?id=1896
-# raw_sha256: 96604de5300077bf091244f49333b5289d6f252e42293572625d349d0f4bb990
 ---
 
 ہائے زینب ہائے زینب

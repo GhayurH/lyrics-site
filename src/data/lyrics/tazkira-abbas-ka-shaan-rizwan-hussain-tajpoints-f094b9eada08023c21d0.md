@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f094b9eada08023c21d0
-# source_url: https://tajpoints.com/2024/02/tazkira-abbas-ka-shaan-rizwan-hussain.html
-# raw_sha256: ba8e6bcea09b213e4bbabe2458b5e2fec7509db3b87853670e96b9451bc30a67
 ---
 
 Jashan Mein Karna Tha Mujh Ko Tazkira Abbas Ka.

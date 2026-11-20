@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:64dedba4d5ca7d79c25e
-# source_url: https://tajpoints.com/2022/04/haye-ali-maula-haider-rizvi-lyrics-in.html
-# raw_sha256: c0b93d4a2b4094beabc0e522c642769e25f623bb74fdbeeaf07707fb200563fc
 ---
 
 Ummat Ne Murtaza Ko Hai Mara Nabi Ke Baad.

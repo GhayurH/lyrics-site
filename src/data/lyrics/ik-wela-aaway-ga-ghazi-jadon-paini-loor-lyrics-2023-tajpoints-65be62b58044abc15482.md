@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:65be62b58044abc15482
-# source_url: https://tajpoints.com/2023/06/ik-wela-aaway-ga-ghazi-jadon-paini-loor.html
-# raw_sha256: 1a0c610b2fb1c51692ea0a7e19083a4b7392acfa7603c9ed61ba391b501fca8c
 ---
 
 1

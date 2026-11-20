@@ -50,9 +50,6 @@ romanLyrics: |-
   Sajjad chut ke qaid se baba ki qabr par
   Lekar nishane tauq e garabaar aaye hai
   Zindaṅ se chuth ke...
-# source_id: nohayonline:a37c2f2ad1e5fc6c9336
-# source_url: https://www.nohayonline.com/details_content.php?id=1092
-# raw_sha256: 5fd919005dc3805cdcd5a9bf8faf649408a2facfe5b56275212c1632164b244a
 ---
 
 ۱

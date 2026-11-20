@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Ajal puchhti hai Shah-e-Diṅ se ran meiṅ
   Kise la rahe haiṅ aba meiṅ chhupae
-# source_id: nohayonline:9ddf54c2fbc921850548
-# source_url: https://www.nohayonline.com/details_content.php?id=1198
-# raw_sha256: b7e3f919607f246b0ab486638c4db0abe9ec7c06752b314e9e8c17811a384863
 ---
 اجل سے بچانے کو آنسو بہائے
 مگر ماں کی گودی میں اصغر نہ آئے

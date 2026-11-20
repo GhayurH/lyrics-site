@@ -56,9 +56,6 @@ romanLyrics: |-
   Utha tabut jo aamir to sada ye aayi
   Mujhpe jo guzri musibat na batana beta
   Baap ki tarha kaleje se...
-# source_id: nohayonline:568861c310125b096f85
-# source_url: https://www.nohayonline.com/details_content.php?id=1782
-# raw_sha256: 6269ce030a613810f92e1ded8d090a3772f989c485296aed74225606789eb7f2
 ---
 
 ۱

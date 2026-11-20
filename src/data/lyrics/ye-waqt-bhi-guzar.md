@@ -61,12 +61,6 @@ romanLyrics: |-
   Rab jaane phir kab ye aabaad hoṅ ge
   Laut aaega ek din tera kunba
   Ye waqt bhi guzar jaaega
-# source_id: nohayonline:0fa550017fe111caabfa
-# source_url: https://www.nohayonline.com/details_content.php?id=1327
-# raw_sha256: 772b6297ef1ce24464f24fc37a552a2e4c0805e413f9eafd4b6b7f68bf0fedc2
-# source_id: tajpoints:4211be5f826916ff815a
-# source_url: https://tajpoints.com/2021/11/ye-waqt-bhi-guzar-jayega-mesum-abbas.html
-# raw_sha256: 03446f85125d1f07430688d9309f1fe89ee10543a5011e44c59e079651305f0b
 ---
 
 خود کو دلاسہ یہ دیتی ہے صغرا

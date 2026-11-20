@@ -8,12 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ef536237e0817495055f
-# source_url: https://www.nohawriteups.org/enj-maa-nay-vaikheya-asghar-nu-shabeer-di-jholi-paa-kay/
-# original_html: snapshots/nohawriteups/original_html/ef536237e0817495055f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ef536237e0817495055f.json
-# api_content_sha256: 2bdb49cc991ccca723194dfee49bc0d1ab9053a511e0364ae036efbf32ec4d83
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 Enj Maa Nay Vaikheya Asghar Nu Shabeer Di Jholi Paa Kay
 Jivain Maiyyat Vaikhi Jaandi Ey Chehray Ton Kafan Hataa Kay

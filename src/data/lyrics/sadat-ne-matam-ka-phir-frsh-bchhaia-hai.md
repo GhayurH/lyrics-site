@@ -34,9 +34,6 @@ romanLyrics: |-
   6
   Hai Mola Jawwad apni bakhshish ke liye kaafi
   Jo ashk tere gham may ankhuṅ ne bahaya hai
-# source_id: ziyaraat:6c783dae447c305dfd2a
-# source_url: https://www.ziyaraat.net/api/noha/1831
-# raw_sha256: 06e66a62fe3d3b1a83069592b46055056066c6a679e9cf2891b5186db83131f0
 ---
 
 سادات نے ماتم کا پِھر فرش بچھایا ہے

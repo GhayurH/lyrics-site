@@ -54,9 +54,6 @@ romanLyrics: |-
   Bait ush sharaf pe aaye liye aarzu-e-did
   Har simt phir to rone ka ek ghul utha Rashid
   Allah ke mahine meiṅ Maula hue shahid
-# source_id: nohayonline:6d31947d7b8332347594
-# source_url: https://www.nohayonline.com/details_content.php?id=3046
-# raw_sha256: 7c36f12aec8518bd75a547b2821d940689833da6bdfec183b6e205f710d6fd6d
 ---
 
 سجدے میں تیغ کھا کے تڑپتے ہیں مرتظی

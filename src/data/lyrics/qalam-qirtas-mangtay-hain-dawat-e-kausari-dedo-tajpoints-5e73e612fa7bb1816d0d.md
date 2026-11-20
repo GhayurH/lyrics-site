@@ -8,9 +8,6 @@ poet: "Taseer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5e73e612fa7bb1816d0d
-# source_url: https://tajpoints.com/2025/01/qalam-qirtas-mangtay-hain-dawat-e.html
-# raw_sha256: 98ac8b1d4fccd8f68df2d8ce0b6c097f94bd91f10838de55021ec2a3d94de4ca
 ---
 
 Qalam Qirtas Mangtay Hain Dawat e Kausari Dedo.

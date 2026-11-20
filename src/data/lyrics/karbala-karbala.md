@@ -45,9 +45,6 @@ romanLyrics: |-
   7
   Afzaal likh raha hai ye ro ke nauha gham ka
   Har ghar pe saaya hoga Abbas ke alam ka
-# source_id: nohayonline:c1970c84abe69e7b213e
-# source_url: https://www.nohayonline.com/details_content.php?id=2334
-# raw_sha256: 1c585cf9461b18c5ed97b78a02a068f5c72fd8b2cfee137349f5c676497736b5
 ---
 قتل الحسین و بے کربلا
 کربلا کربلا کربلا

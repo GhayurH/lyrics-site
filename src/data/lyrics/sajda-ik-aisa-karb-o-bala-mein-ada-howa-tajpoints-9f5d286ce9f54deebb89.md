@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9f5d286ce9f54deebb89
-# source_url: https://tajpoints.com/2020/12/sajda-ik-aisa-karb-o-bala-mein-ada-howa.html
-# raw_sha256: 42a8da2637cb217776327cd9355f1f9a7831d2712c66a1207ad166faa5f708c2
 ---
 
 Sajda Ik Aisa Karb o Bala Mein Ada Howa.

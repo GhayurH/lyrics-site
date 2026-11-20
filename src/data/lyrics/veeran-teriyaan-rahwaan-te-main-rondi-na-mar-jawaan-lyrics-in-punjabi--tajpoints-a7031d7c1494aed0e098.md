@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a7031d7c1494aed0e098
-# source_url: https://tajpoints.com/2020/08/veeran-teriyaan-rahwaan-te-main-rondi.html
-# raw_sha256: 92cc43d02b95c9b1ffdc9019523ac88b4ec53d2909984e4aa82ba821002ba4c8
 ---
 
 1

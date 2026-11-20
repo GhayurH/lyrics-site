@@ -73,9 +73,6 @@ romanLyrics: |-
   Majlis Me Ay Faseel...
   Har Aik Sogwar Ke Har Ghar Ki Khair Ho...
   Har Ghar Ki Khair Ho
-# source_id: ziyaraat:7cdf4d419b399a90e372
-# source_url: https://www.ziyaraat.net/api/noha/2831
-# raw_sha256: 06312709fc081617229f4f67f09e5d830a7030ba50d01f0421ee627d0ccab30e
 ---
 
 ۱

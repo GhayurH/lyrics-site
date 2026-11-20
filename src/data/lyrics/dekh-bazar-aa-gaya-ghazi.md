@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:3f1130f2b72192d3ff6f
-# source_url: https://www.ziyaraat.net/api/noha/2908
-# raw_sha256: 60f43261f632b09e02ce9e78bcfc2da4bf8d85fb1d19729a94163ca215efb097
 ---
 
 دیکھ بازار آ گیا غازیؑ

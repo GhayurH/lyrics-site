@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2346e2a0541b795e5fcd
-# source_url: https://www.nohawriteups.org/haye-abbas/
-# raw_sha256: a28a3988647042307c50517ad0c549e5eeec4da30d8d68adb0b422a1b730f40e
-# source_title_original: Abbas (A.S) Ya Abbas (A.S)
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 Abbas ya abbas

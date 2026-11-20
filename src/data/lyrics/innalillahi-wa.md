@@ -48,9 +48,6 @@ romanLyrics: |-
   8
   Waiz jo chala gardan-e-Shabbir pe khanjar
   Sajde meiṅ ye kehne laga Zahra ka gul-e-tar
-# source_id: nohayonline:fede0b5555f26c2ee3f6
-# source_url: https://www.nohayonline.com/details_content.php?id=3158
-# raw_sha256: 34914b3a1096d1b5ea807ab9ffbdefeea1cde1b915e39235a9b9a745caa7407d
 ---
 
 انا للہ و انا الیہ راجعون

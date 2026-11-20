@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:59984a5d912701332fab
-# source_url: https://tajpoints.com/2018/04/charag-e-khana-e-zahra-hussain-aaya-hai.html
-# raw_sha256: 3c8a0c6c75032227920a1f0d2b61e768f272cd134f929c40491de48a8fe02427
 ---
 
 1

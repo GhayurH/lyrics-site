@@ -8,9 +8,6 @@ poet: "Shabih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e74ad43564582758efb4
-# source_url: https://tajpoints.com/2019/01/nabi-ki-beti.html
-# raw_sha256: 44d548bcf7c134e4805cd8162af4099f7c288a720dc545354092d8288f197056
 ---
 
 1

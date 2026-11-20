@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:441145dcc80390e5b8fa
-# source_url: https://tajpoints.com/2017/02/shaam-hoi-haye-sughrasa-pareshan-udeekay.html
-# raw_sha256: e31d9671bee97c50aac6f01cc7f8c8ec4a93a6f6cc91901ae6ddf3be5b7dc057
 ---
 
 Shaam Hoi Haye Sughra Pareshan Udeekay.

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:10e6412bb8eb7bac8362
-# source_url: https://tajpoints.com/2017/02/kofe-chon-jadon-putraan-ne-uthaya.html
-# raw_sha256: 1848ba7b2c0690279fca46edf9e5dbc08e350d3b83828c713426105291825999
 ---
 
 1

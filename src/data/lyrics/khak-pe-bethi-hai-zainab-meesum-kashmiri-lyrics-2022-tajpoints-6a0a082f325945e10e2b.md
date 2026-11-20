@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6a0a082f325945e10e2b
-# source_url: https://tajpoints.com/2022/08/khak-pe-bethi-hai-zainab-meesum.html
-# raw_sha256: 9f20712310b450c64932e065ea3239b54b379c94be53b825fa1b934c7ec15f21
 ---
 
 Khak Pe Bethi Hai Zainab Meesum Kashmiri

@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:def3a989fb94b3214fc3
-# source_url: https://tajpoints.com/2018/06/zainab-ke-sar-se-utha-mula-ali-ka-saya.html
-# raw_sha256: 76a656fdeaa696b34ad2bf75b449ee16b96313c515519f0a8a7e6e4373a3dd18
 ---
 
 1

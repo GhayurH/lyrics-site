@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:236f75c844ab03aaa270
-# source_url: https://www.ziyaraat.net/api/noha/2854
-# raw_sha256: 5c9aa268190072a48799e075e8156b9822937b3d28f869fdb827975f4b5a764c
 ---
 
 عباسؑ عباسؑ عباسؑ عباسؑ

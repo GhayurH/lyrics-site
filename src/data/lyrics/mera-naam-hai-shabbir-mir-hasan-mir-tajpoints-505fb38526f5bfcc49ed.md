@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:505fb38526f5bfcc49ed
-# source_url: https://tajpoints.com/2022/10/mera-naam-hai-shabbir-mir-hasan-mir.html
-# raw_sha256: 07c70ecdc18a1dda2e1d2a25b0ad4a1ee7f21ba95d0e7df2fd1c164fc638d0bf
 ---
 
 Mera Naam Hai Shabbir Mir Hasan Mir.

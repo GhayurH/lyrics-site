@@ -8,9 +8,6 @@ poet: "Asim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7271fbe7c9ec1b619991
-# source_url: https://tajpoints.com/2025/03/ay-momino-ayyam-hain-yeh-askari-hassan.html
-# raw_sha256: e4026044489e6fa31c223036e449d67e8f455f4e744adaef4814c4259acb6600
 ---
 
 1

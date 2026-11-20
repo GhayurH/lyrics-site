@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6c235a5d48c0d3383482
-# source_url: https://tajpoints.com/2019/01/sab-shaheedon-se-juda-hai-ye-mosibat.html
-# raw_sha256: d62ad2ccf99e214824c3f650f8bff1bebaff2dd37d4e91a6f532b963f4b013c4
 ---
 
 1

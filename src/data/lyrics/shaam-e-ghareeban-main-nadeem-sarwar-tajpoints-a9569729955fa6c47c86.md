@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a9569729955fa6c47c86
-# source_url: https://tajpoints.com/2022/11/shaam-e-ghareeban-main-nadeem-sarwar.html
-# raw_sha256: 72ab0fa063255b59dc347ec94c9e5e7b1153fd1a22a0ac4a96270896294910d2
 ---
 
 1

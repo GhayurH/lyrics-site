@@ -8,9 +8,6 @@ poet: "Mehshar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6d31f782f1ee4ceaf814
-# source_url: https://tajpoints.com/2025/09/sadqa-mere-aaqa-ka-hai-aam-madine-mein.html
-# raw_sha256: 95381b763d5c904f76534e796547677900cfc72d153c2a92e67bd17670da629d
 ---
 
 Nakamiyan Hoti Hain Na Kaam Madine Mein.

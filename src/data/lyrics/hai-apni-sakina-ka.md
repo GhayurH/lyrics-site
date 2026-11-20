@@ -62,9 +62,6 @@ romanLyrics: |-
   Dafnaate hai ghazi ki hasrat meiṅ alam maula
   Pyasi rahi shahzaadi...
   Hai apni sakina ka...
-# source_id: nohayonline:405a61281b0d1ec1f79d
-# source_url: https://www.nohayonline.com/details_content.php?id=2922
-# raw_sha256: 65b9bd40c3bcb74a4235a0955f47627196cd6f139ce9544e6465a872e4a75110
 ---
 
 ۱

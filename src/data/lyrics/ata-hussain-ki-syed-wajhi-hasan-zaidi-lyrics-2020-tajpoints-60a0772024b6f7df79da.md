@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:60a0772024b6f7df79da
-# source_url: https://tajpoints.com/2021/03/ata-hussain-ki-syed-wajhi-hasan-zaidi.html
-# raw_sha256: 1fb275b7b6634e20493eff596d4ffcf0bd279f30264dda71c92425a87408552f
 ---
 
 Ata Hussain Ki Syed Wajhi Hasan Zaidi Write Up

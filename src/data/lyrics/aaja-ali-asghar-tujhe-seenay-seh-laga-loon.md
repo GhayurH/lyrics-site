@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:5d8e6ee9305fedf4ad8f
-# source_url: https://www.nohawriteups.org/aaja-ali-asghar-tujhe-seenay-seh-laga-loon/
-# raw_sha256: 04124460ab157c8f720951d46b7dba67b59e7f188a5132f0f63b8e8f75812ed1
-# source_title_original: Aaja Ali Asghar Tujhe Seenay Seh Laga Loon
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aaja Ali Asghar tujhe seenay seh laga loon
   Kyun rooth gaye loriyaan de de keh mana loon

@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:675379f5d17c65f487e7
-# source_url: https://tajpoints.com/2023/04/kevain-syedan-eid-manai-raza-hassan.html
-# raw_sha256: fc055f22d4cfb9211493961e95ac8a8f13fc74e973ee9ce5664f5ba42d09d5b8
 ---
 
 1

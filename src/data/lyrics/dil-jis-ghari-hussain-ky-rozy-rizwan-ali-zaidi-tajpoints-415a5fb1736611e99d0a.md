@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:415a5fb1736611e99d0a
-# source_url: https://tajpoints.com/2025/01/dil-jis-ghari-hussain-ky-rozy-rizwan-ali.html
-# raw_sha256: 7812b302eea1af2fe40a0260c020fd51701757dc70ebdaeef7fc5702bdfafbd2
 ---
 
 1

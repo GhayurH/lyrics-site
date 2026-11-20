@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e0dc074dc6198ab7cbba
-# source_url: https://www.nohawriteups.org/baba-teri-zahrasa-nu/
-# original_html: snapshots/nohawriteups/original_html/e0dc074dc6198ab7cbba.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e0dc074dc6198ab7cbba.json
-# api_content_sha256: e10c3858a578d7849783084eadf6e0b02b1b0f2a0a39ce1fbab1b323336a62a8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Baba Teri Zahra(sa) Nu

@@ -42,9 +42,6 @@ romanLyrics: |-
   Qaime ke dar par tumhare waaste roti hai maa
   Aise koi maa ko rulwata hai akbar ghar may aao
   Haaye akbar ghar may aao
-# source_id: ziyaraat:322906ba058055a1e2a2
-# source_url: https://www.ziyaraat.net/api/noha/1165
-# raw_sha256: 18cae54c203770af7e94560776155b981b5ac5193ba3d9351eedc86636fb8c58
 ---
 
 ۱

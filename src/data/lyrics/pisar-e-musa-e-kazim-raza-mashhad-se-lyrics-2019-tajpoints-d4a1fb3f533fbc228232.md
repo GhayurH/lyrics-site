@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d4a1fb3f533fbc228232
-# source_url: https://tajpoints.com/2019/07/pisar-e-musa-e-kazim-raza-mashhad-se.html
-# raw_sha256: 53cb596f3e554b81a78ab875235684b362d960aabfa527b977804bd70d1b92d5
 ---
 
 Pisar e Musa e Kazim Raza Mashhad Se

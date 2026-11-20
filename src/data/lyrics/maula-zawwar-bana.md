@@ -88,9 +88,6 @@ romanLyrics: |-
   Apna darbaar dikha de
   Ya maula ya maula
   Maula zawwar bana de
-# source_id: nohayonline:9a0d00db17778721a2c0
-# source_url: https://www.nohayonline.com/details_content.php?id=1856
-# raw_sha256: f2073207235263dad2b57b28044b518d60c518c7949b33cc375a92f1c94cdcd1
 ---
 
 ۱

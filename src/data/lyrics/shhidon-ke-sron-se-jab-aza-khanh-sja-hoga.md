@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:9cd07ea408e4f24c0115
-# source_url: https://www.ziyaraat.net/api/noha/2925
-# raw_sha256: cc1a838ca160b0730a1f175def558216db0ac3e968cdc25dc46c877cd279a256
 ---
 
 شہیدوں کے سروں سے جب عزا خانہ سجا ہو گا

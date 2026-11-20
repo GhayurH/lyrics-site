@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:35a40cdf5397785d7087
-# source_url: https://tajpoints.com/2020/04/woh-aa-raha-hai-lyrics-in-urdu-and.html
-# raw_sha256: fb4b18ab7c7dbd4491768349b8bf1371f60f4dbdf0b22a6007a55370033c465a
 ---
 
 1

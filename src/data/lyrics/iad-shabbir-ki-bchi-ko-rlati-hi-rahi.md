@@ -8,9 +8,6 @@ reciter: "Syed Haider Raza Zaidi"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:ee91991e580c208db9a6
-# source_url: https://www.ziyaraat.net/api/noha/2795
-# raw_sha256: 0802ce7b2ee2e3ede85af5eebdefcd7d27514344352f2a1b6608ec442b1fca65
 ---
 
 یاد شبیرؑ کی بچی کو رلاتی ہی رہی

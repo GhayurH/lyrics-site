@@ -62,9 +62,6 @@ romanLyrics: |-
   Nayyar o Aamir ye dil gham wo bhulaata nahiṅ
   Saahib-e-ghairat wahaaṅ sar ko uthaata nahiṅ
   Aaj bhi hum shaam meiṅ pahunche to nauha parha
-# source_id: nohayonline:3610f165124886a5308d
-# source_url: https://www.nohayonline.com/details_content.php?id=2443
-# raw_sha256: 339949a054174014b6d209b612e6b8a9685febb23e6ded29d55f9bc330cd89f7
 ---
 بنت علی کے لئے حشر کا ہے سامنا
 نرغہء اعدا میں ہے آل نبی بے ردا

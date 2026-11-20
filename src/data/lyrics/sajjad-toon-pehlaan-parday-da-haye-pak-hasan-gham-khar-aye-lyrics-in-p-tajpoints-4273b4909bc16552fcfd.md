@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4273b4909bc16552fcfd
-# source_url: https://tajpoints.com/2018/11/sajjad-toon-pehlaan-parday-da-haye-pak.html
-# raw_sha256: b5899fdd048b738119eca5a9540371b0159bb222d47bfcdcc775f602f956fd60
 ---
 
 Sajjad Toon Pehlaan Parday Da Haye Pak Hasan Gham Khar Aye.

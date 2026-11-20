@@ -71,9 +71,6 @@ romanLyrics: |-
   Mujh ko to azakhanoṅ se mila
   Ae Mazhar-e-Yazdaṅ ke bete
   Sajde meiṅ yehi Mazhar ne kaha
-# source_id: nohayonline:a230a815f46ebd96345d
-# source_url: https://www.nohayonline.com/details_content.php?id=2218
-# raw_sha256: 1ed5e6ebc340a608043a30ed7f93afa19da6f7c6f9c51d4909bdf2c60ac1afa1
 ---
 
 مجھے بھول جائے دنیا

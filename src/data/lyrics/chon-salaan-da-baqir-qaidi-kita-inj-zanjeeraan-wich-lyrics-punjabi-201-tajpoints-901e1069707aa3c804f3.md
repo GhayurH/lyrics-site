@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:901e1069707aa3c804f3
-# source_url: https://tajpoints.com/2018/08/chon-salaan-da-baqir-qaidi-kita-inj.html
-# raw_sha256: a38a5cdaae829e37d384143f4092ca30e8bb1c0bf5ecd6bdbbbabaf84f89f3e7
 ---
 
 Chon Salaan Da Baqir Qaidi Kita Inj Zanjeeraan Wich.

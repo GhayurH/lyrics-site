@@ -8,9 +8,6 @@ poet: "Wajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:823d516aad129a42e36e
-# source_url: https://tajpoints.com/2020/08/chan-wekh-muharram-da-nana-jind-zainab.html
-# raw_sha256: 25a13905ff4ccf83441831c1f1548504144320dff05dcaf89fba58cf82601456
 ---
 
 Chan Wekh Muharram Da Nana Jind Zainab Di Ghabrai Aye.

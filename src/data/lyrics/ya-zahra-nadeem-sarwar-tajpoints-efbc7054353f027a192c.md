@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:efbc7054353f027a192c
-# source_url: https://tajpoints.com/2022/12/ya-zahra-nadeem-sarwar-lyrics-in-urdu.html
-# raw_sha256: 1bf7a06c007f5a5e3916e2d2916f062078e13d534127a74ffca8804a083484e0
 ---
 
 1

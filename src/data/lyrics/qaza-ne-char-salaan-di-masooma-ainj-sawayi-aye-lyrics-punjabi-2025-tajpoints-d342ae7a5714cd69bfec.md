@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d342ae7a5714cd69bfec
-# source_url: https://tajpoints.com/2025/08/qaza-ne-char-salaan-di-masooma-ainj.html
-# raw_sha256: d0287a43deb957a5fe1e0e51e29625b11cef94215652ec0a9f4e318d45ce1d30
 ---
 
 1

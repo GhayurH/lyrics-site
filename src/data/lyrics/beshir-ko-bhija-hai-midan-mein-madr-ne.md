@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:5614300b476515b464bb
-# source_url: https://www.ziyaraat.net/api/noha/1328
-# raw_sha256: ca9e3f61804668b2612ff0cfd0868ce14929b954831ccff32c23d1d1ddd76816
 ---
 
 بےشیر کو بھیجا ہے میدان میں مادر نے

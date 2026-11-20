@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5c9da4c1ad7e05717928
-# source_url: https://tajpoints.com/2022/10/madina-mere-sarkar-dikha-den-haider.html
-# raw_sha256: 97a3e598b88ab048d6467774b8fd96b5cea6873b56f58bb70ae771be495a795e
 ---
 
 1

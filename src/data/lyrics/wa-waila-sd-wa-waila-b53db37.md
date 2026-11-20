@@ -104,12 +104,6 @@ romanLyrics: 'Wa waila sad wa waila
   Ankhon se lahoo barsata hua
 
   Kanton pe Imam e waqt chala'
-# source_id: nohayonline:99eac7024b7eda24a03a
-# source_url: https://www.nohayonline.com/details_content.php?id=1579
-# raw_sha256: bbad4bd14ff5fa6cdde19e6be601e2ccfe40d9678352a527eb3af221ba4efb91
-# source_id: ziyaraat:b53db370b60ccd535eda
-# source_url: https://www.ziyaraat.net/api/noha/2077
-# raw_sha256: 38efff75444b6d730ca6402d1c8f16b85ee28c9fa7c53bb95e969edb7d722b17
 ---
 
 وا ویلا صد وا ویلا

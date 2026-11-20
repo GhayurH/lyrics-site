@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:2469ef726df1ebb3f88f
-# source_url: https://www.ziyaraat.net/api/noha/1984
-# raw_sha256: 91c66b39810394f7b31a2bd0f8e417b9e7ce1652dfa1de3c115055d8289a3308
 ---
 
 Tha yaad may Nabi ki jo Zehra ka bain haey

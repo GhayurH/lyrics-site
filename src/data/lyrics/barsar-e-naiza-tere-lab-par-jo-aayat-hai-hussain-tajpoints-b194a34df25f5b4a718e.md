@@ -8,9 +8,6 @@ poet: "Shahi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b194a34df25f5b4a718e
-# source_url: https://tajpoints.com/2019/06/barsar-e-naiza-tere-lab-par-jo-aayat.html
-# raw_sha256: 903dc656f74808797bf9ce40b8641fa5e5c3de876bc8354b3ef3e0187ffccb27
 ---
 
 Barsar-e-Naiza Tere Lab Par Jo Aayat Hai Hussain.

@@ -87,14 +87,6 @@ romanLyrics: |-
   Taqaaza kare na koi pyaas ka
   Alam hi janaaza hai Abbas ka
   Sakina tumhara chacha na raha
-# source_id: nohayonline:bf901a1562ade3037ca6
-# source_url: https://www.nohayonline.com/details_content.php?id=2712
-# raw_sha256: e1fb8a29fe8354ac8aa8ef2c9b4c96e9a1d47806787cd3e679c081380c3bf31c
-# source_id: tajpoints:0ee59cc6de5efc0fb1d8
-# source_url: https://tajpoints.com/2019/09/abbas-ka-alam-hai-qaumi-nishaan-hamara.html
-# raw_sha256: a89d3829782b59f2a2e095b869e2dea349f7594f2020593f2385245f16480f9b
-# source_voice_note: Source page separately credits Syed Meharban Ali; published reciter metadata is unchanged.
-# editorial_note: Restored a Punjabi two-line transition and a seven-line passage about Abbas's orphans from the Tajpoints source, in both Roman and Urdu, and renumbered the retained last two stanzas. Punjabi Shahmukhi reading should be checked against audio.
 ---
 اے علمدار حسین وا عباسا
 وا عباسا وا عباسا

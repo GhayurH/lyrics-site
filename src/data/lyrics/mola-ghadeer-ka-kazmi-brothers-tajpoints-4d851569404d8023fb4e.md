@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4d851569404d8023fb4e
-# source_url: https://tajpoints.com/2023/07/mola-ghadeer-ka-kazmi-brothers-lyrics.html
-# raw_sha256: ac4e2b8eee19123a1701d5d4c39e3ca79925fc826c7b70443c28cf0c586296ca
 ---
 
 Mola Ghadeer Ka Kazmi Brothers.

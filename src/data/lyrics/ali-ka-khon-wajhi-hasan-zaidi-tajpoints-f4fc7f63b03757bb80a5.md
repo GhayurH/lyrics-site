@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f4fc7f63b03757bb80a5
-# source_url: https://tajpoints.com/2021/05/ali-ka-khon-wajhi-hasan-zaidi-lyrics-in.html
-# raw_sha256: f3c5bf8855a0b015edaa50213d34010801ff18a1bfed170b277bf8895b1bba85
 ---
 
 1

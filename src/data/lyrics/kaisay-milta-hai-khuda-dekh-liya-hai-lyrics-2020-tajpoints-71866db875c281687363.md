@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:71866db875c281687363
-# source_url: https://tajpoints.com/2020/03/kaisay-milta-hai-khuda-dekh-liya-hai.html
-# raw_sha256: bc54461d18ae7cc016965cc46763edf574eb55e7fca4974efdad5df241ef9412
 ---
 
 1

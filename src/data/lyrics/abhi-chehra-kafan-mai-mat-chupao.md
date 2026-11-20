@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: tajpoints:8c8b87d91c09af822bd7
-# source_url: https://tajpoints.com/2026/10/abhi-chehra-kafan-mai-mat-chupao.html
-# raw_sha256: ce7ae6ded5885285e98c105faabf2e5e911be275b324ef104dee7e9c7ae9c0e1
-# source_title_original: Abhi Chehra Kafan Mai Mat Chupao Wajhi Hasan Zaidi 2026 Lyrics In Urdu
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 romanLyrics: |-
   Suno Zahra ki maiyyat ka yeh manzar
   Tha maa ki lash par Shabbir ka sar

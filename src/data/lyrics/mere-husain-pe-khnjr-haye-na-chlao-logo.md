@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:d578e4d3fc28a1a9d4e5
-# source_url: https://www.ziyaraat.net/api/noha/1305
-# raw_sha256: 5d199c12801fc4efcc0aaf5fd30936cd333d2b5a93df9279defbc0ba656b6f7f
 ---
 
 میرے حسینؑ پہ خنجر ہائے نہ چلاؤ لوگو

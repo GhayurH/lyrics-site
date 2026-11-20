@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1482a7063991c932923f
-# source_url: https://tajpoints.com/2022/02/mazhar-hoon-ajaib-ka-mera-naam-ali-hai.html
-# raw_sha256: 45805ea845ed77af58c522f4e2b39fa015b60e5e140b562d1f0dbafdc3d6ca14
 ---
 
 1

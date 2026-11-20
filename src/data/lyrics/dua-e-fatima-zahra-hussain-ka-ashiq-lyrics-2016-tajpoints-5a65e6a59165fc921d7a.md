@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5a65e6a59165fc921d7a
-# source_url: https://tajpoints.com/2018/05/dua-e-fatima-zahra-hussain-ka-ashiq.html
-# raw_sha256: 9916d7a682a7627cde2948374b813502d0e10fa19e86cda4d70def5082a4609f
 ---
 
 1

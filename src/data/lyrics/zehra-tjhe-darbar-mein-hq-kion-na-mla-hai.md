@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:fc7c9c99580b11df21ac
-# source_url: https://www.ziyaraat.net/api/noha/626
-# raw_sha256: b03a736d869d4d34f346b28d050e7b613eabcfefa828c921a6301dd157f7961e
 ---
 
 Zehra tujhay darbar may haq kiyun na mila hay

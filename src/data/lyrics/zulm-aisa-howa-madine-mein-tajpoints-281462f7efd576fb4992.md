@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:281462f7efd576fb4992
-# source_url: https://tajpoints.com/2020/01/zulm-aisa-howa-madine-mein-lyrics-in.html
-# raw_sha256: 565580e263d2859692e102ec82ca19c7e224eb5af8e10d8b798784c6fba55bb5
 ---
 
 1

@@ -62,9 +62,6 @@ romanLyrics: |-
   Fiza meiṅ gunj rahi thi sada-e-waawaila
   Haram meiṅ shor tha hilti thi arz-e-Karbobala
   Bilal ro ke ye kehte the Sayyid-e-waala
-# source_id: nohayonline:65a926dcb6b528b65996
-# source_url: https://www.nohayonline.com/details_content.php?id=1759
-# raw_sha256: ff14b0f2794774591184aa774ae04241412d3eac55d0f3cd0e6dc591cbf8b87b
 ---
 
 اماں بس اک رات کا مہمان ہے حسین

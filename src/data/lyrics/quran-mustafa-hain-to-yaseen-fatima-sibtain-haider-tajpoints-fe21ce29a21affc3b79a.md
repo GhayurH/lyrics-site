@@ -8,9 +8,6 @@ poet: "Mehdi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fe21ce29a21affc3b79a
-# source_url: https://tajpoints.com/2023/05/quran-mustafa-hain-to-yaseen-fatima.html
-# raw_sha256: 6418cad3438ccc7ee1504700d20f478ca00dc5b82cade2ec130914cf23ebf616
 ---
 
 Quran Mustafa Hain To Yaseen Fatima Sibtain Haider.

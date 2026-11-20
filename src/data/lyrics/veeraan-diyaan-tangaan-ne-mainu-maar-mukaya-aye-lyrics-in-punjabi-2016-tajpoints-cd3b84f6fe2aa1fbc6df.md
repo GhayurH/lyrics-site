@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cd3b84f6fe2aa1fbc6df
-# source_url: https://tajpoints.com/2019/08/veeraan-diyaan-tangaan-ne-mainu-maar.html
-# raw_sha256: 35e1e989dd3676101bad0b315887f06260912381d8ff75a28c9747cf5044f6b8
 ---
 
 1

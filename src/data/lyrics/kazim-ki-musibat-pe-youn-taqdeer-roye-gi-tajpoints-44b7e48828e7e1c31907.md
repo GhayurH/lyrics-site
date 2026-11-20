@@ -8,9 +8,6 @@ poet: "Zahra"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:44b7e48828e7e1c31907
-# source_url: https://tajpoints.com/2020/03/kazim-ki-musibat-pe-youn-taqdeer-roye.html
-# raw_sha256: 986a31d0cbbea213dd43777fa41e6c91cc0466a6d420876c53d06294dfca3f8f
 ---
 
 1

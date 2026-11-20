@@ -52,12 +52,6 @@ romanLyrics: |-
   Ho Madina ya wo Kufa ho ya Karbal ki zamiṅ
   Hogi Sajjad Abu Talib ke khun se rangiṅ
   Bacha hai din-e-Khuda inke karke sajda ruku
-# source_id: ziyaraat:7d2bf8d7bfff1d40f932
-# source_url: https://www.ziyaraat.net/api/noha/1263
-# raw_sha256: 9836bdefab2100ff10c1b5e208a8eda92c8221b0c6a22998511d5d7a426f6612
-# editorial_note: Alternate stanza 1 line: Kha Gayin Betiyaan Gash Dekha Jo Baba Ka Lahu.
-# editorial_note: Alternate stanza 2 ending: Koi Na Aaye Ga Dardi Bara Pukarey Gi Tu.
-# editorial_note: Verify the alternate source endings against recitation during the main editorial pass.
 ---
 
 علیؑ کی بیٹی سفر تیرا آج سے ہے شروع

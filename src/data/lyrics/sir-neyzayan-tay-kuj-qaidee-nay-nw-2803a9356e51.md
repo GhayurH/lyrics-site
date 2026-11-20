@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2803a9356e518b056025
-# source_url: https://www.nohawriteups.org/sir-neyzayan-tay-kuj-qaidee-nay/
-# original_html: snapshots/nohawriteups/original_html/2803a9356e518b056025.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2803a9356e518b056025.json
-# api_content_sha256: b10a07087000b440d6e97e87f388b58f5ca8f66c46a0a22e0cc1850642da4158
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sirr Neyzayan Tay, Kuj Qaidee Nay, Oh Qafila Ya Rab Kidar Gaya

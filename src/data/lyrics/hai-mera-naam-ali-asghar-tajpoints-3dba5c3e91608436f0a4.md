@@ -8,9 +8,6 @@ poet: "Takallaum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3dba5c3e91608436f0a4
-# source_url: https://tajpoints.com/2017/02/hai-mera-naam-ali-asgharas-main-alias.html
-# raw_sha256: 43f842e1b5708d0849768addc4c48c99c733ee8c37e06d72bc438a224705eeba
 ---
 
 Hai Mera Naam Ali Asghar Main Ali Ibn-e-Hussain Ibn-e-Ali.

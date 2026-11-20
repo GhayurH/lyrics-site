@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:fe099a9a661ddca68f56
-# source_url: https://www.nohawriteups.org/aalam-nehaan-hai-zaatay-risalat-maaab/
-# raw_sha256: 9cf5a2013cc3a93ecc2b445c16b1e96cd64c8e29aea61fd78ed8fa378b99d197
-# source_title_original: Aalam Nehaan Hai Zaatay Risalat Ma’aab
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 Aalam Nehaan Hai Zaatay Risalat Ma’aab Mein

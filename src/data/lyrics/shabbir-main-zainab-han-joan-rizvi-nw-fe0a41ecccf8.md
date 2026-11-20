@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noRoman"]
 aliases: []
 published: false
-# source_id: nohawriteups:fe0a41ecccf8e77a8823
-# source_url: https://www.nohawriteups.org/shabbir-main-zainab-han-joan-rizvi-nohay-2021/
-# original_html: snapshots/nohawriteups/original_html/fe0a41ecccf8e77a8823.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/fe0a41ecccf8e77a8823.json
-# api_content_sha256: d95ff2a46dc4d93aafa278c0c2d148528483cfd239110fbc1c2056f71d5b9498
-# editorial_note: Unpublished source-faithful draft from approved valid urdu only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 بھائی شبیر آپ کے تمام دکھ درد بانٹوں گی میں زینب ہوں

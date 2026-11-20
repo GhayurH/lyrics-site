@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b65b607e1012621aa676
-# source_url: https://tajpoints.com/2023/09/sajjad-oh-quran-aye-kazmi-brothers.html
-# raw_sha256: 59dcc228f9f12e6ff0667d5d3de5617d0ab78231b0fb059dc48d4a804a82c6f4
 ---
 
 1

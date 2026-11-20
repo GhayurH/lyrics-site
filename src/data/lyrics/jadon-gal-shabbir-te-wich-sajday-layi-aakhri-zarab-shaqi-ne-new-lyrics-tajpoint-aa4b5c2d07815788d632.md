@@ -8,9 +8,6 @@ poet: "Shahid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:aa4b5c2d07815788d632
-# source_url: https://tajpoint.com/jadon-gal-shabbir-te-wich-sajday-layi-aakhri/
-# raw_sha256: a21b6fca73e3099c304f80d50b9c33b003df3150860636476794123b4b01d475
 ---
 
 1

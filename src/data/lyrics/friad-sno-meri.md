@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:fb2d71e901877dacf666
-# source_url: https://www.ziyaraat.net/api/noha/1805
-# raw_sha256: d392802a8eb8a92695a36aa492844cbbb103f6bdbb6df79b9d056487c088054e
 ---
 
 (Ay mere akhi abbas)

@@ -76,9 +76,6 @@ romanLyrics: |-
   Nazar na aaye jo baba to mujhse ro ke kaha
   Hai chur zakhmoṅ se kiuṅ tu ne sar jhukaya hai
   Bata kahaṅ mere baba ko chor aaya hai
-# source_id: nohayonline:8791d5575c0c015e7f38
-# source_url: https://www.nohayonline.com/details_content.php?id=2664
-# raw_sha256: f19cd285101681c2e36c311f488e1cce7a6718227fc0efe7d4fec4f42eedd5e8
 ---
 
 ۱

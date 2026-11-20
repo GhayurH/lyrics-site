@@ -8,9 +8,6 @@ poet: "Noshad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ff7d0edcdcefa3dfcc0
-# source_url: https://tajpoints.com/2018/08/haye-abbas-veer-teyari.html
-# raw_sha256: 20508abd8c2012c278ce359c5fa74cce9c59b97eaa85c878835ff8afab1ebde5
 ---
 
 1

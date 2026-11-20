@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Phir Jamaal-e-ghamzada ne ek naya nauha kaha
   Phir aza-e-Shaah ki chalne lagi purwaaiyaaṅ
-# source_id: nohayonline:baa5fee03cc20dd4fb52
-# source_url: https://www.nohayonline.com/details_content.php?id=1260
-# raw_sha256: da00dee2c8b0cc8ed74f6ce97528bbdb3de46ab29f57292a788867aac6e8e974
 ---
 
 ہاے رے مجبوریاں عباس کی مجبوریاں

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:e3eb49b84953589dc837
-# source_url: https://tajpoint.com/veer-ghazi-darya-taun-na-aaya-lyrics-new-noha/
-# raw_sha256: 51f0f8c6df9288e724f8cc5f057cab48d9577fbfbf52bd27eb7136b225f9b2e0
 ---
 
 1

@@ -107,9 +107,6 @@ romanLyrics: |-
   Ae sarwar o rehaan qayamat ka samaa tha
   Shabbir ka sar rota tha aur shor e fughaṅ tha
   Allah allah min raasil Husain
-# source_id: nohayonline:8c666a17a9e404a17ae9
-# source_url: https://www.nohayonline.com/details_content.php?id=2605
-# raw_sha256: a3ca56261f191b2ba602591b919f17868b22c785c34bfd747d78e39be507dcfe
 ---
 
 ۱

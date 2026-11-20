@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f2b21d756980d1cddc67
-# source_url: https://tajpoints.com/2023/02/logo-main-behan-hussain-di-haan-asghar.html
-# raw_sha256: 01e3a7dfe6c1415227e8a9f3477597d259ffb61601516457c3f0ca1490eb4809
 ---
 
 1

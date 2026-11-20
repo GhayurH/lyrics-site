@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:be8cc1c45c3a3c432e3b
-# source_url: https://tajpoints.com/2018/10/baba-sakina-ki-tainu-apna-haal-sunaye.html
-# raw_sha256: 9733214a0279748c822b8de0254ef80104feece9bc7ddc8cbb4245c5150e6275
 ---
 
 Baba Sakina Ki Tainu Apna Haal Sunaye.

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:54d504dbcbcf64c44d8a
-# source_url: https://tajpoints.com/2018/10/ro-ke-kehti-thi-sakina-abid-e-beemar-se.html
-# raw_sha256: a439add0028595a5c05d5775004f81b6d21272bcdf5c95329a3f0723ac5d65ec
 ---
 
 1

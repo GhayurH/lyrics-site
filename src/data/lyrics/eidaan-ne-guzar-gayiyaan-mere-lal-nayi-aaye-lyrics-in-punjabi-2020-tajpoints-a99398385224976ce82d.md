@@ -8,9 +8,6 @@ poet: "Sardar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a99398385224976ce82d
-# source_url: https://tajpoints.com/2020/07/eidaan-ne-guzar-gayiyaan-mere-lal-nayi.html
-# raw_sha256: 94900a63f47b23d3ed934836f0e7ee0acfbf852d9ad476d64b424497917ccd0b
 ---
 
 1

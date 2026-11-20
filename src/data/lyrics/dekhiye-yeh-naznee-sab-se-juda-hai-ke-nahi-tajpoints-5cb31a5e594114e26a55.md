@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5cb31a5e594114e26a55
-# source_url: https://tajpoints.com/2020/04/dekhiye-yeh-naznee-sab-se-juda-hai-ke.html
-# raw_sha256: cb01843daa765c839b708fb0c7a31c9cc60c0a5cf8dc2f613da6cf0a085c3477
 ---
 
 1

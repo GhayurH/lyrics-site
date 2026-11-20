@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5749f5c01d4c2d051bad
-# source_url: https://tajpoints.com/2024/02/zindan-ki-sada-dr-amir-rizvi-lyrics-in.html
-# raw_sha256: 43d257dee99ddfd982f681b82b20a83deb8afd00a553e42046b332e7dd74f265
 ---
 
 1

@@ -76,9 +76,6 @@ romanLyrics: |-
   Bismillah ya aba abdillah
   Bismillah ya aba abdillah
   Khaynch le sine se...
-# source_id: nohayonline:518a7c45bebfd4a4ab0f
-# source_url: https://www.nohayonline.com/details_content.php?id=1625
-# raw_sha256: 2f1d18243120477f22ec78463e634dafa0d7a2bee19af56c1c9b65637a73ad5c
 ---
 
 ۱

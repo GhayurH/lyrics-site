@@ -57,9 +57,6 @@ romanLyrics: |-
   Bahegi chasm-e-aza se faraat pani ki
   Chalegi majlis o matam may baat pani ki
   Ya abbas ya abbas
-# source_id: nohayonline:bd3b60a6d8edbc2f3558
-# source_url: https://www.nohayonline.com/details_content.php?id=118
-# raw_sha256: e83c37b2375b669050e958b5bfb5b2e991e4e6ae0ffef7dd45be046f6b090bdf
 ---
 
 ۱

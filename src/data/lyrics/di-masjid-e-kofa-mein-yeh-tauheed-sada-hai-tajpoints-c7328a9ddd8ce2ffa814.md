@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c7328a9ddd8ce2ffa814
-# source_url: https://tajpoints.com/2020/05/di-masjid-e-kofa-mein-yeh-tauheed.html
-# raw_sha256: b9c1337e73deb1d153b11bee0a33eb0483367416134e082166181b81883f679b
 ---
 
 1

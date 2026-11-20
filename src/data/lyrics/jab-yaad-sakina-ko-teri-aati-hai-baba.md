@@ -59,15 +59,6 @@ romanLyrics: 'Jab yaad sakina ko teri aati hai baba
   Darbar e yazidi may bhala kaise mai jaaun
 
   Hai chaak gareban haya aati hai baba'
-# source_id: ziyaraat:2b5e9187734db02fc82e
-# source_url: https://www.ziyaraat.net/api/noha/398
-# raw_sha256: e9f6bda9ca6a13881668c5d5a2e05f646e71f7df65c213727116fa383ef83571
-# source_id: nohayonline:89bd169027c8fb99f8dc
-# source_url: https://www.nohayonline.com/details_content.php?id=197
-# raw_sha256: 8339a703f2e7560b418614999a2f9f3b1ef1b3f9b361dc2593ec86ad025a5e84
-# source_id: ziyaraat:09522b563094924febf5
-# source_url: https://www.ziyaraat.net/api/noha/2051
-# raw_sha256: 0a26bf19708db29ef305a137141c4088b6ffdc9ccfe2b7265b5336f1b2674784
 ---
 
 جب یاد سکینہؑ کو تیری آتی ہے بابا

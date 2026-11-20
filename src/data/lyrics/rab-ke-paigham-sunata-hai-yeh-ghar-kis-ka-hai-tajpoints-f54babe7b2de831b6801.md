@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f54babe7b2de831b6801
-# source_url: https://tajpoints.com/2018/07/rab-ke-paigham-sunata-hai-yeh-ghar-kis.html
-# raw_sha256: f3bf2d8c4223193b57cb2f0bf4482163c7559e3341e6aa6f4cf7046aabab01c3
 ---
 
 1

@@ -73,9 +73,6 @@ romanLyrics: |-
   Aawe jaisan maah-e-aza tab
   Bhariyo royi nain katore
   Asghar more Asghar more
-# source_id: nohayonline:70f88f2c94f2c5bf1dfd
-# source_url: https://www.nohayonline.com/details_content.php?id=2394
-# raw_sha256: 5cdf6a50d8ccebbf61c854e04aa456d016af4eff612af07cb4b813eeeb4e9ec7
 ---
 کہتی تھی بانو اصغر جانی
 کب تم گھر میں آؤ گے

@@ -42,9 +42,6 @@ romanLyrics: |-
   8
   Sare jahaṅ may hota hai matam Imam ka
   Haider ne noha likh diay Baqar guzar gaye
-# source_id: ziyaraat:c09dd6bda389e1bf2458
-# source_url: https://www.ziyaraat.net/api/noha/2195
-# raw_sha256: 18cdf0ab9f3eeffbfbb185a115f8cf1ab3811f4d513b6966d727c0d51261a5fa
 ---
 
 یژرب میں حشر ہے بَپا باقرؑ گزر گئے

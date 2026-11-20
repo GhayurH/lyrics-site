@@ -8,9 +8,6 @@ poet: "Zain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5742a25455897e28d5ce
-# source_url: https://tajpoints.com/2022/03/tera-zainab-se-samna-hoga-sonu-monu.html
-# raw_sha256: 5deeaa221ee2c1f03f095e4c66cf75fe3513db098585f7f48c425bebe3217d80
 ---
 
 1

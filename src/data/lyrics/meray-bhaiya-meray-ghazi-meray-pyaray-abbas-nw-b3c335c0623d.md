@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:b3c335c0623d84bb5f4b
-# source_url: https://www.nohawriteups.org/meray-bhaiya-meray-ghazi-meray-pyaray-abbas/
-# original_html: snapshots/nohawriteups/original_html/b3c335c0623d84bb5f4b.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b3c335c0623d84bb5f4b.json
-# api_content_sha256: 13351caf1ed7d7bd2b1e3dfc586f7fc1a3f7dc175164137f1d10f566bd9e3654
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Meray bhaiya meray Ghazi meray pyaray Abbas

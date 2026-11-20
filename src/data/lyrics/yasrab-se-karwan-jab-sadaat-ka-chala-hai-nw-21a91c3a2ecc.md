@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:21a91c3a2ecc6f66f394
-# source_url: https://www.nohawriteups.org/yasrab-se-karwan-jab-sadaat-ka-chala-hai/
-# original_html: snapshots/nohawriteups/original_html/21a91c3a2ecc6f66f394.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/21a91c3a2ecc6f66f394.json
-# api_content_sha256: 67c990d345366748ab2ca2061955cb2c1de13d94f9f02374efe220f326ec2760
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Yasrab Se Karwan Jab Sadaat Ka Chala Hai

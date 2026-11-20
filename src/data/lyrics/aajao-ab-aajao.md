@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Ye sach hai bahut qaid meiṅ dukh tum ne uthaae
   So baap aaghosh meiṅ so jao Sakina
-# source_id: nohayonline:399011e4aa4fe010c1ec
-# source_url: https://www.nohayonline.com/details_content.php?id=458
-# raw_sha256: f8389f5f5b734063b98840fe6191c58a5c0ada779d086d7b427f3e495b1e1bfe
 ---
 آجاؤ اب آجاؤ اب آجاؤ سکینہ
 بانو کی صدا تھی کہ نہ تڑپاؤ سکینہ

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:457b2c60379ffab4a6e9
-# source_url: https://tajpoints.com/2017/02/eid-ki-bheek.html
-# raw_sha256: 64940d2ff166e96312297051aa22ec692678e2daa6ff8e31166a263f96ead94e
 ---
 
 1

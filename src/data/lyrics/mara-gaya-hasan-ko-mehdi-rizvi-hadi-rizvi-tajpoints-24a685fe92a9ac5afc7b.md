@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:24a685fe92a9ac5afc7b
-# source_url: https://tajpoints.com/2025/03/mara-gaya-hasan-ko-mehdi-rizvi-hadi.html
-# raw_sha256: 9014b9f8e04482099f2c7ed4a4351e9374e1970e576a05afe5473754fc216ad7
 ---
 
 1

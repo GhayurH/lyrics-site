@@ -61,9 +61,6 @@ romanLyrics: |-
   12
   Hai Asim Aal-e-Nabi par ik qayaamat aa gayi
   Bhuk hai aur tashnagi hai Shaam ke zindaan meiṅ
-# source_id: nohayonline:3330d3c7e5234b28a833
-# source_url: https://www.nohayonline.com/details_content.php?id=1872
-# raw_sha256: f51af1f6a6528c26f9203378adb8c7d8669b3d29800040d0178d19395bcfcd06
 ---
 شہ کی دختر سو رہی ہے شام کے زندان میں
 اک صف ماتم بچھی ہے شام کے زندان میں

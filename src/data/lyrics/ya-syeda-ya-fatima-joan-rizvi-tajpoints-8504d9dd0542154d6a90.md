@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8504d9dd0542154d6a90
-# source_url: https://tajpoints.com/2022/01/ya-syeda-ya-fatima-joan-rizvi-lyrics-in.html
-# raw_sha256: c6c9380f8b84eef5d779034563d3b7acfe41e8b972c6315a934ab73439d22c2d
 ---
 
 Ya Syeda Ya Fatima Joan Rizvi Lyrics

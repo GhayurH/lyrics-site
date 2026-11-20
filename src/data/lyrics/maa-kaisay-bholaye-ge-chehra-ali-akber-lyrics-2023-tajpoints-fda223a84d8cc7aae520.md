@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fda223a84d8cc7aae520
-# source_url: https://tajpoints.com/2023/08/maa-kaisay-bholaye-ge-chehra-ali-akber.html
-# raw_sha256: c4439e43ae6a6af963f4260fe6e8c95cc6837b41d780ff08fe03ba0c4c677fe7
 ---
 
 1

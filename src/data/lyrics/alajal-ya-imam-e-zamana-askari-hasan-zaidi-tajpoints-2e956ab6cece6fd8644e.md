@@ -8,9 +8,6 @@ poet: "Hilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2e956ab6cece6fd8644e
-# source_url: https://tajpoints.com/2023/03/alajal-ya-imam-e-zamana-askari-hasan.html
-# raw_sha256: be213633ccf8b131bd36cb8ed7d54e43850a493e43be03955418d097a59643b4
 ---
 
 1

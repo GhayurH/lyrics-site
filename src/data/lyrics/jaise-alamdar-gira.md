@@ -64,9 +64,6 @@ romanLyrics: |-
   Marsiya ban gayi rudaad-e-sitam kaaghaz par
   Aaj bhi rote hai ye keh ke Raza aur Mazhar
   Kaise bin haathoṅ ke reti pe wafaadaar gira
-# source_id: nohayonline:57adb1ad8075ab69d8c6
-# source_url: https://www.nohayonline.com/details_content.php?id=2684
-# raw_sha256: 325370394c43533f45aaca84cbfce46fb485c3cbad5522a0a9ae95d8bee19ff4
 ---
 لاش عباس کے خیمے میں نہیں لائے حسین
 لے کے بس مشک و علم محوِ بکا آئے حسین

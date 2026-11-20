@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:62a43e5399148eeabf04
-# source_url: https://tajpoints.com/2021/07/ghadeer-e-khum-ali-raza-khan-lyrics-in.html
-# raw_sha256: 058ff06c0b9547df47c06e5e4053428954040e1d709e04958b55c7296c4ebd35
 ---
 
 1

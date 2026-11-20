@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a5f055a3b55626b0912d
-# source_url: https://tajpoints.com/2023/07/chand-muharram-ka-syed-wajhi-hasan.html
-# raw_sha256: cbc4277a535074b54baf888f1132c9ff8e95a4af88562e2206724a47fbd953cb
 ---
 
 1

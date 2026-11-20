@@ -8,9 +8,6 @@ poet: "Sarosh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4df497ef3ab998693558
-# source_url: https://tajpoints.com/2021/03/sharab-e-ishq-e-ali-mir-hasan-mir.html
-# raw_sha256: 3cc9081a8d0492831be4a759e5b008299fcbb76bbd128d905ebfab6f10e0e5dd
 ---
 
 Sharab e Ishq e Ali Mir Hasan Mir.

@@ -59,9 +59,6 @@ romanLyrics: |-
   Karbala ke qaafile meiṅ Safdar o Mazhar bhi haiṅ
   Phir to waajib hai safar meiṅ bas yehi noha parhe
   Karbala chehlum manaane jaa rahe haiṅ qaafile
-# source_id: nohayonline:adfc79ab9fcd71215c87
-# source_url: https://www.nohayonline.com/details_content.php?id=3752
-# raw_sha256: 2d0a64208ba50440b55fd80993b6bdcd7a59d5b3b51ac58ce8f0fc586b86edfb
 ---
 نمک سے روٹی کھا کے خواہشوں کو چھوڑ کر
 ہزار سختیوں کے باوجود یہ سفر

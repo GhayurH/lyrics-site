@@ -8,12 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:3fc75a8d6ae625bcdeea
-# source_url: https://www.ziyaraat.net/api/noha/1016
-# raw_sha256: 023a5557e8650c02bb6fbc2ecf0a5e66325a619aafd5b2d7f73fd336123ade73
-# source_id: ziyaraat:47af737bf74dfc3ebd74
-# source_url: https://www.ziyaraat.net/api/noha/1889
-# raw_sha256: 46c487d7758a7a93e969c1f7685d5677882dd5a69b5cb8142c4ee2cbcb325bed
 ---
 
 Haaye Alamdar..... (4)

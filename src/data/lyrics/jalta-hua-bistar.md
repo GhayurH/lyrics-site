@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Milti hai Kalim us ko Sakina se duaaeiṅ
   Bachchoṅ ko jo beyaar o madadgaar na dekhe
-# source_id: nohayonline:6ad04f4dbb38b41ad3fe
-# source_url: https://www.nohayonline.com/details_content.php?id=1430
-# raw_sha256: 4cd40d62c20493a5fa784a61125448e594df268448f7a9d771667bdfd8e77e94
 ---
 جلتا ہوا بستر کوئی بیمار نہ دیکھے
 بے جرم و خطا طوقِ گراں بار نہ دیکھے

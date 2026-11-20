@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b79dcbbe8a1b91b5201f
-# source_url: https://tajpoints.com/2022/01/akeli-zehra-sonu-monu-lyrics-in-urdu.html
-# raw_sha256: ad786859076452ea962798ba9e5b7d4d237a5ca06503106181238fa7cc211c12
 ---
 
 Haye Logon Ka Hajoom Our Akeli Zahra.

@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Ro ke aakhir meiṅ mariza ne ye likha Hilmi
   Jald pardes se aa jaao khudaara Baba
-# source_id: nohayonline:75fe50a29ab11954d4d8
-# source_url: https://www.nohayonline.com/details_content.php?id=2022
-# raw_sha256: 7ad7f895500a005673dd1e40871b88c537b6222c54e0defb77284f25572e4e78
 ---
 یاد آئی نہ تمہیں فاطمہ صغریٰ بابا
 کربلا جا کے مجھے بھول گئے کیا بابا

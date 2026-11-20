@@ -92,9 +92,6 @@ romanLyrics: |-
   Safdar-e-haziṅ ko sar buland kar de
   Ya Abu Turaab ya Abu Turaab
   Kar le nauhakhwaan o shaairoṅ meiṅ mera intikhaab
-# source_id: nohayonline:e7a56ad13debb87d87fc
-# source_url: https://www.nohayonline.com/details_content.php?id=3133
-# raw_sha256: 002eb3478237815f8092bd2509ce9fbb075a7b68915f6e259c4b87ea7a9a1c22
 ---
 یا اعلیا یا مرتضیٰ یا ابا الحسن مشکل کشا
 یا ابو تراب یا ابو تراب یا ابو تراب یا ابو تراب

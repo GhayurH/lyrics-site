@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a39d33a71de9ddc7927a
-# source_url: https://www.ziyaraat.net/api/noha/1779
-# raw_sha256: 251c0253a7a2854779aff086ab156bc61fbe8a635b78b0884c3949d8b22e6c13
 ---
 
 Baba Sakeena vein kardi ray menoo eh gal dasa baba

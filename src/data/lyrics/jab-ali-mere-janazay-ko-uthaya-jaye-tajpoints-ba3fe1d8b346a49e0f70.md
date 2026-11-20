@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ba3fe1d8b346a49e0f70
-# source_url: https://tajpoints.com/2020/01/jab-ali-mere-janazay-ko-uthaya-jaye.html
-# raw_sha256: 37ec43d3ee552603017d0c5917d2d257ea339e215cda91ae52f4a3ddbfb55b6f
 ---
 
 1

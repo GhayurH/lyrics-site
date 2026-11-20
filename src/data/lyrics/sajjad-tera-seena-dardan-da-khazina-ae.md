@@ -30,9 +30,6 @@ romanLyrics: |-
   Babay di hawaili wich haey jairri turi na aey
   Zainab di kamar aulay dukh jandi aey ro ro ke
   Dis janda Sakina nu jad Shimr kameena aey
-# source_id: ziyaraat:414ce716548d4c36b127
-# source_url: https://www.ziyaraat.net/api/noha/1775
-# raw_sha256: 055c7d896eba68880433285378ed57bcf1c3a689cf3fbdcddfead924385d4040
 ---
 
 سجاد تیرا سینہ درداں دا خزینہ اے

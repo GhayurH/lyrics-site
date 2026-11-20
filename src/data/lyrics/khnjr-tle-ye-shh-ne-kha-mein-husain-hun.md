@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:caf22943b46fe3d7db23
-# source_url: https://www.ziyaraat.net/api/noha/1363
-# raw_sha256: c6d08bb413a5af780884197b276a099f111daa23a291d49db28c4d4d07584152
 ---
 
 خنجر تلے یہ شہ نے کہا میں حسینؑ ہوں

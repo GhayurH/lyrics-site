@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a45e4a7834f5f76b290
-# source_url: https://tajpoints.com/2022/07/tukre-howa-qasim-ka-badan-sajjad-ashraf.html
-# raw_sha256: c7acd3be1031a611fd89855d1f2b43d2345cbf3826a6579f8facae6dd2f3ffb9
 ---
 
 1

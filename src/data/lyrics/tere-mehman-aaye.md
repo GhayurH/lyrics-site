@@ -71,9 +71,6 @@ romanLyrics: |-
   Jab ye kehti thi Zainab-e-muztar
   Beridaai meiṅ shehr-e-Kufa ke
   Raaste chhaan aaye haiṅ Shiriṅ
-# source_id: nohayonline:c49d9a0d38bd4e2187f2
-# source_url: https://www.nohayonline.com/details_content.php?id=1798
-# raw_sha256: ef6c478e57bceb4375174c167d9362dbfa39155118d6b42ad249b793986f7c17
 ---
 ہائے افسوس تو نہ پہچانی
 

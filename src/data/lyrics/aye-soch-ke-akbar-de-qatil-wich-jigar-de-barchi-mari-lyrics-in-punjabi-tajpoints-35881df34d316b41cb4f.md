@@ -8,9 +8,6 @@ poet: "Qasim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:35881df34d316b41cb4f
-# source_url: https://tajpoints.com/2023/07/aye-soch-ke-akbar-de-qatil-wich-jigar.html
-# raw_sha256: 591aa88401005e9cf6d18f21eeef4e987f89ffefd1ddfcecf858bd6cf6c17492
 ---
 
 Aye Soch Ke Akbar De Qatil Wich Jigar De Barchi Mari.

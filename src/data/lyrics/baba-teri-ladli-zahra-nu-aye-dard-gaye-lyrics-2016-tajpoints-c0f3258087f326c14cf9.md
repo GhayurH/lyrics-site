@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c0f3258087f326c14cf9
-# source_url: https://tajpoints.com/2017/03/baba-teri-ladli-zahra-nu-aye-dard-gaye.html
-# raw_sha256: 182f68077eb4d9ab1bc897ffc38ce151f4d908e1bd724c9ef4ea40970be6da18
 ---
 
 Baba Teri Ladli Zahra Nu Write Up

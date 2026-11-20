@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fd77afc54f60d7491478
-# source_url: https://tajpoints.com/2020/03/takalufaat-ko-thokar-pe-maar-sajda-kar.html
-# raw_sha256: 464f1d5bc594c152f62201db438ea789dc7ab07e57cafe8678f58ced09698bdd
 ---
 
 1

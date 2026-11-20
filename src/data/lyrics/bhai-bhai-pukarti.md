@@ -75,12 +75,6 @@ romanLyrics: |-
   Maiṅ ne saaṅsoṅ ko rukte dekha tha
   Haaye aakhri baar zer-e-khanjar hi
   Maiṅ ne Shabbir se suna amma
-# source_id: nohayonline:a2a6ce7cb2cd4a9850e2
-# source_url: https://www.nohayonline.com/details_content.php?id=89
-# raw_sha256: 4e146416c48a97940456a719648ead5df353f3c3e0893e737e7104ebe27b4524
-# source_id: tajpoints:5ffe760f4919b8dacee9
-# source_url: https://tajpoints.com/2017/02/bhai-bhai-pukarti-rahi-main-phir-bhi.html
-# raw_sha256: 7a631adfac4016bd1697bda8acf466f01fe0e7dabc3f62323574db3e639931d6
 ---
 اماں رکا نہ شمر لعیں میرے بین سے
 ستر قدم تھی دور یہ زینب حسین سے

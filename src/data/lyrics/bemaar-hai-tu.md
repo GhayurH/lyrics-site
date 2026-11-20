@@ -74,9 +74,6 @@ romanLyrics: |-
   Is waaste bhai ne bola tha tujhe beta
   Le jauṅ tujhe kaise
   Bemaar hai tu sughra...
-# source_id: nohayonline:b6d6d3b2a50da27fae4a
-# source_url: https://www.nohayonline.com/details_content.php?id=80
-# raw_sha256: 94a9d4a04039dccf1ba7da8082975ebf4c2e03f50d6468806a6dd42d9698a13a
 ---
 
 ۱

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:8b4292e609f57d9c27cd
-# source_url: https://www.ziyaraat.net/api/noha/1364
-# raw_sha256: bbbdf9188772d5c1e2f4e74a5684574437ab86de697edcf6fae7d3ac535d2590
 ---
 
 پامال ہو ئے قاسمؑ، فروہؑ اجڑ گئی

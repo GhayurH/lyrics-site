@@ -8,9 +8,6 @@ poet: "Azlan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2ee29327611ef775eade
-# source_url: https://tajpoints.com/2023/07/bhai-ka-lasha-haider-rizvi-lyrics-in.html
-# raw_sha256: a2889ab273bcf18c7a79d09cd27bc44641d64c73773590002c808b5f490d6498
 ---
 
 Jab Zanu-e-Hussain Pe Abbas Mar Gaye.

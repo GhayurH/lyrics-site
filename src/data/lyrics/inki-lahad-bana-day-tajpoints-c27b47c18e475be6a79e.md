@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c27b47c18e475be6a79e
-# source_url: https://tajpoints.com/2020/08/inki-lahad-bana-day-lyrics-in-urdu-and.html
-# raw_sha256: c14b5a423c6ae87ad859d6e7437368f00c88b78e9b26b95ea13ac5c2e3f96ff9
 ---
 
 1

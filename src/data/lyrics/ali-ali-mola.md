@@ -10,10 +10,6 @@ reciter: "Syed Wajhi Hasan Zaidi, Syed Sabeeh Hasan Zaidi, Syed Askari Hasan Zai
 tags: []
 aliases: ["ali-ali-mola-syed-wajhi-sabeeh-askari-hasan-zaidi"]
 published: true
-# source_id: tajpoints:11274161c101f82dcfa4
-# source_url: https://tajpoints.com/2023/02/ali-ali-mola-syed-wajhi-sabeeh-askari.html
-# raw_sha256: 1c1bdd6c1bb8bf1410b8e864c2be3a5a374f5aacf9dd215cdb65b6b5dd17fa8a
-# composition: Zaidi Brothers
 romanLyrics: |-
   Tu saraapa kahiṅ maujud kahiṅ poshida
   Arsh se farsh talak bikhra hai tera jalwa
@@ -131,8 +127,6 @@ romanLyrics: |-
   Khalifat Al-Rasul, Waaris Al-Rasul, Wasi Al-Rasul, Naaib Al-Rasul
   Khair Khalqullah, Asadullah, Waliullah, Raayatullah
   Safatullah, Haiert, Haider Karraar Amir Al-Mominin Ali Ibn Abi Taalib
-# Corrupt source phrases retain their Roman evidence; corresponding script is provisional, not a reconstruction of Persian/Arabic wording.
-# Mir Hilal Rizvi is the article's overall poet credit; authorship of embedded quatrains is not established by that credit.
 ---
 تو سراپا کہیں موجود کہیں پوشیدہ
 عرش سے فرش تلک بکھرا ہے تیرا جلوہ

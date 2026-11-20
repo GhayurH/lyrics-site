@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Bijli ki tarah khun rawaaṅ ho gaya dil meiṅ
   Salik gham-e-Shabbir ki yuṅ daur gai aag
-# source_id: nohayonline:5271556bbf0bb703aeb5
-# source_url: https://www.nohayonline.com/details_content.php?id=1211
-# raw_sha256: 5dd24d4d19c33d9a65850c36a942f6e1f18a36108ec340c9eeeac3cad903ab6f
 ---
 
 جس ظلم سے شبیر کے خیموں میں لگی آگ

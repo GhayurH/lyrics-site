@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:c6cbefeb7a37a70d98e4
-# source_url: https://tajpoint.com/watna-te-mur-aa-ja-akbar-khat-ujari-da-aaya-aye/
-# raw_sha256: 44c042cb822072b28ba523a4afa68b8588087717e3f2d5c5911fbf11e88681f7
 ---
 
 1

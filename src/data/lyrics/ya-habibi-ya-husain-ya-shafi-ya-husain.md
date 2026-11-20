@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:2511772d1f2b073c8dab
-# source_url: https://www.ziyaraat.net/api/noha/387
-# raw_sha256: f938f47aa76be41e02ac5cf6be913b5b0084506dcca9d2883b17830935873212
 ---
 
 Ya habibi ya Hussain ya shafi ya Hussain,  ya gharibi ya Hussain

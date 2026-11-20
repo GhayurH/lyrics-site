@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a5b808fa8f9ff9f2d95e
-# source_url: https://tajpoints.com/2021/09/sakina-our-zainab-wajhi-hasan-zaidi.html
-# raw_sha256: 72edb1e6cdcf239a042206939038d67c7aa7243a0af87962a3330018e6ea3fbd
 ---
 
 1

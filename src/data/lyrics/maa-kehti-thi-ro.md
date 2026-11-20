@@ -79,9 +79,6 @@ romanLyrics: |-
   Ye arz o samaaṅ kya hai rote haiṅ falak taare
   Ghamgiṅ haiṅ sabhi hureṅ rote haiṅ malak saare
   Ye bain Raza sun kar so jaao mere beta
-# source_id: nohayonline:b1c355bed23abcaff827
-# source_url: https://www.nohayonline.com/details_content.php?id=1997
-# raw_sha256: d527ec75baf5a2247a25aff58f41c4e1974201a8db8948ec8d04b200cf565b79
 ---
 
 ماں کہتی تھی رو رو کر سو جاؤ میرے بیٹا

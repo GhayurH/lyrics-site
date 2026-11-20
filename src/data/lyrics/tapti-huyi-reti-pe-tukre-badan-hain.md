@@ -40,9 +40,6 @@ romanLyrics: |-
 
   8
   Pehchan musalmaano,  ye awlaad hasan hay
-# source_id: ziyaraat:1be742388c3cf6e5097b
-# source_url: https://www.ziyaraat.net/api/noha/1537
-# raw_sha256: 1513885af01afea9079d0b2a0dce7f9be6fcf522a9e1c7f02074f78e8fb13af2
 ---
 
 تپتی ہوئی ریتی پہ ہائے ٹکڑے بدن ہے

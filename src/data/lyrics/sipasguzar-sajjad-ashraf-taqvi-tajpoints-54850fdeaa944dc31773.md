@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:54850fdeaa944dc31773
-# source_url: https://tajpoints.com/2023/01/sipasguzar-sajjad-ashraf-taqvi-lyrics.html
-# raw_sha256: 53c1d2d5a61408a70442e4131424fee9b64d19f61e811cdfbb8be501a3d82c33
 ---
 
 SipasGuzar Sajjad Ashraf Taqvi Lyrics

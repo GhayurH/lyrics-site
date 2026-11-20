@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:ca6e4ff94f9be93cfaee
-# source_url: https://tajpoint.com/sadawaan-denda-aye-ibn-zahra-hal-min-nasir-yansurna/
-# raw_sha256: 80f04a9b14cc3d1ae4904ad004d219dd36d30f377aead8623a16bcabdba3760e
 ---
 
 1

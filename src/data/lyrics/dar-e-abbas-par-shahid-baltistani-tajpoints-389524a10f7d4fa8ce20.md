@@ -8,9 +8,6 @@ poet: "Darwaish"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:389524a10f7d4fa8ce20
-# source_url: https://tajpoints.com/2022/03/dar-e-abbas-par-shahid-baltistani.html
-# raw_sha256: 0e63e0c4af40883ee5d1dc5fcc68219f34e21ea7dccdb273801fc28c7eac6eba
 ---
 
 Bilyaqeen Khulta Hai Youn Shajrah Dar-e-Abbas Par.

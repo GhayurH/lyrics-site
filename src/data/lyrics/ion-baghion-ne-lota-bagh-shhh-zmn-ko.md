@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a144aa8039e0768938d6
-# source_url: https://www.ziyaraat.net/api/noha/2253
-# raw_sha256: 15ded641e325d4bcbc66dcceabd2b8c589aecf7a93182d497cc054547a53182b
 ---
 
 Yun baaghiyon ne loota baaghe shah e zaman ko

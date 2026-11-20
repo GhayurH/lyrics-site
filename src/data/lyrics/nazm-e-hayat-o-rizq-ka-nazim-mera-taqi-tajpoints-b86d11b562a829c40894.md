@@ -8,9 +8,6 @@ poet: "Taseer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b86d11b562a829c40894
-# source_url: https://tajpoints.com/2025/01/nazm-e-hayat-o-rizq-ka-nazim-mera-taqi.html
-# raw_sha256: b9e2731a74ad1852406125097c269cc1d9aed6617522fb7e2db0bd83ea24469c
 ---
 
 Nazm-e-Hayat o Rizq Ka Nazim Mera Taqi.

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:e6e4cb2ebe1eee232a0b
-# source_url: https://www.ziyaraat.net/api/noha/2866
-# raw_sha256: abc9e6ee094a18e2960fde4e45afcdb5fe793684822e842e5875ff942a49b01d
 ---
 
 یہ جنازہ ہے حسنؑ کا شاہزادہءِ امن کا

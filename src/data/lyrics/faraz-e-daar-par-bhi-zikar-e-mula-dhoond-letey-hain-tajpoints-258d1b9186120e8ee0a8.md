@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:258d1b9186120e8ee0a8
-# source_url: https://tajpoints.com/2018/02/faraz-e-daar-par-bhi-zikar-e-mula.html
-# raw_sha256: d0ab2c39c0094b0a2a1ec07b97648c300adb7b75ddf0f02c395185e2d5684d0b
 ---
 
 Faraz-e-Daar Par Bhi Zikar-e-Mula Dhoond Letey Hain.

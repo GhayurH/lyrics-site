@@ -80,9 +80,6 @@ romanLyrics: |-
   Kabhi pukarti thi apne pyaro ko rokar
   Kahaṅ pe ho zara ye haal dekh lo aakar
   Koi na tha jo karata....
-# source_id: ziyaraat:5fc3f58bf77addf59184
-# source_url: https://www.ziyaraat.net/api/noha/1170
-# raw_sha256: f6cb1c67eebb564b80601d17edbc8360ec174f9273840e98757d3062743e71c3
 ---
 
 ۱

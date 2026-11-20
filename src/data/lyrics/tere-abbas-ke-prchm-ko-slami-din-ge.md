@@ -111,12 +111,6 @@ romanLyrics: 'Karbala karbala
   Nagahan uthne laga shaah ke qaimo se dhuwa
 
   Arshe aazam ko hilaati huwi zainab ki fughaan'
-# source_id: nohayonline:f91ed422a80c91741f70
-# source_url: https://www.nohayonline.com/details_content.php?id=88
-# raw_sha256: 3d30aa22472f4fb5401b7c26b9c29d82eacc575c3cc019052be29d1afbc265ee
-# source_id: ziyaraat:f84c648142ef3b583481
-# source_url: https://www.ziyaraat.net/api/noha/2379
-# raw_sha256: 0736f1c0a42e93571ef919c45aa8a9eb7c73234b06ff164fadac8d63b3b1daab
 ---
 
 کربلا کربلا

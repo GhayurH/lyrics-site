@@ -109,14 +109,6 @@ romanLyrics: 'Tera ghar hogaya veerana
   Mirza tha ye sab ranj o mehan
 
   Baandhe thay rassi may kas kar'
-# source_id: nohayonline:e28da8fb9683a31392e9
-# source_url: https://www.nohayonline.com/details_content.php?id=602
-# raw_sha256: ebc2ea84998b9471d32c8434d1f3ffc7da02fc37e7520c98a8b521d1c46c6d08
-# source_id: ziyaraat:458c0fa8694be38b1342
-# source_url: https://www.ziyaraat.net/api/noha/2161
-# raw_sha256: 94ad3d9b378555746baae99d4027ef3c6e10b737caf6695a6074f52e010ce7d9
-# added_stanza_source: roman:kalam-ziyaraat-458c0fa8694be38b1342
-# added_stanza_source: urdu:kalam-ziyaraat-458c0fa8694be38b1342
 ---
 
 تیرا گھر ہو گیا ویرانا

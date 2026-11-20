@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cadd8a3363e95b5de1aa
-# source_url: https://tajpoints.com/2023/08/aylan-tha-bashir-ka-maray-gaye-hussain.html
-# raw_sha256: 1e5736b1f958ac47019a1288f46e89b2be239892c3931e12c35db0719ef48c6e
 ---
 
 1

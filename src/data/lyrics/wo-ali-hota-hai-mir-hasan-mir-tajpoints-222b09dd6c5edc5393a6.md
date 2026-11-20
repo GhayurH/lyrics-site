@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:222b09dd6c5edc5393a6
-# source_url: https://tajpoints.com/2025/12/wo-ali-hota-hai-mir-hasan-mir-lyrics.html
-# raw_sha256: fdcccbc2c291717b9d97a2e3a95aefd6c334d56bd18d275dc183cf4984a3757b
 ---
 
 Jo Khudai Ko Chalaye Woh Ali Hota Hai.

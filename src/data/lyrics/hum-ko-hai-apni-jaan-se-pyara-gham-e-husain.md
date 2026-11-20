@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:25316b4ec9ea66510740
-# source_url: https://www.ziyaraat.net/api/noha/2280
-# raw_sha256: 314b94f72f6ffe85c16644dbd7dafde4ca0254b597e8cb037f5e0f43a61c9f94
 ---
 
 Ham ko hay apni jaan se pyara gham e Hussain

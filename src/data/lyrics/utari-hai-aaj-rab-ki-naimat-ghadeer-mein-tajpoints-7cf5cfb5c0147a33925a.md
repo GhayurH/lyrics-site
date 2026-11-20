@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7cf5cfb5c0147a33925a
-# source_url: https://tajpoints.com/2019/08/utari-hai-aaj-rab-ki-naimat-ghadeer.html
-# raw_sha256: d2518b40e1892d4f28ba125365462166b12b2b3054516ed79edc7fd45de77b7e
 ---
 
 1

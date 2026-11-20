@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2c5d3c760f8d9cb3e9dd
-# source_url: https://www.nohawriteups.org/asalam-o-alaika-ya-sayeda/
-# original_html: snapshots/nohawriteups/original_html/2c5d3c760f8d9cb3e9dd.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2c5d3c760f8d9cb3e9dd.json
-# api_content_sha256: 51807d091c2360c2ddbcda9f6df0d45214789c76ebd97ebfbf8f735fa4b55411
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Asalam O Alaika Ya Sayeda

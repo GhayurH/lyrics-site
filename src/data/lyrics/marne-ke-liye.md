@@ -58,9 +58,6 @@ romanLyrics: |-
   Bikhre hue sab khuṅ bhare manzar hai nazar meiṅ
   Rukta hi nahiṅ fikr ka taair hai safar meiṅ
   Maaṅge hai Rashid aap se ab hausla Zainab
-# source_id: nohayonline:d81b62b768904fa873d9
-# source_url: https://www.nohayonline.com/details_content.php?id=3538
-# raw_sha256: 7e40dfd92ae11ccec1d6d2524a26a7d606ed61cf91b2841b39552c49389103f3
 ---
 مرنے کے لئے جاتا ہے بھائی تیرا زینب
 ہر سمت سے ماں جایا تیرا گھر گیا زینب

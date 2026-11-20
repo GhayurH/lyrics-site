@@ -75,18 +75,6 @@ romanLyrics: 'Pani Pilao
   Zahra Ki Noukari Hai Ye Khidmat Imam Ki
 
   Piyaso Sabeel Hai Ye Shaheedon Ke Naam Ki'
-# source_id: nohayonline:075ba24c620a072b2858
-# source_url: https://www.nohayonline.com/details_content.php?id=2503
-# raw_sha256: 36c67e68ec53b9c9c75cf38823a85829651f27c30a09bf0e8aab5a2a1df94743
-# source_id: ziyaraat:208eff2ce880b2422ac6
-# source_url: https://www.ziyaraat.net/api/noha/2432
-# raw_sha256: 232b8fa842f3720b0da8eb8ee23c2c60c17c9a831562064eb0892c96387d2f19
-# source_id: ziyaraat:49295ada1ab10b2a554c
-# source_url: https://www.ziyaraat.net/api/noha/2437
-# raw_sha256: 1cd1fc1e1e56607e33a83eae656ea45f13ab2d487c72fc317f8b9867e1502fad
-# source_id: ziyaraat:b7a44a3c728121f450cf
-# source_url: https://www.ziyaraat.net/api/noha/2438
-# raw_sha256: c6a10652650b1c8eae1d6563b3a07abc9a3b2d109850ca719c660afb53622d74
 ---
 
 سادات پیاسے رہ گےء

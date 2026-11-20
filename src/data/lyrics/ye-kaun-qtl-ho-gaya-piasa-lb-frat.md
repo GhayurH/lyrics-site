@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6d70962b7ddd9b14fdb5
-# source_url: https://www.ziyaraat.net/api/noha/1726
-# raw_sha256: 720a28d80f0f93563810034d54f87960a2740d17185cd47583ae627bb871bb9c
 ---
 
 Ye kon qatl hogaya

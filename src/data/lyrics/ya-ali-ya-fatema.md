@@ -66,9 +66,6 @@ romanLyrics: |-
   Mazhar bhi dilfigaar hai maaninsa Husaina
   Safdar ka ye izhaar hai maaninsa Husaina
   Haq baat jo likhe wo qalam zinda rahega
-# source_id: nohayonline:7433b4611191aec3f24b
-# source_url: https://www.nohayonline.com/details_content.php?id=1719
-# raw_sha256: 67ae9feca2ca705a93182d9a57d3970d0ca42f68d8683d9c30812fd0ce750dd0
 ---
 میرا سکون بولتا ہے کبھی جنون بولتا ہے
 عزا جو ہے ہمارا ورثہ کبھی یہ خون بولتا ہے

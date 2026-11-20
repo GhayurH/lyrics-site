@@ -8,9 +8,6 @@ poet: "Hamid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5d5bac601f5ed7c04f6a
-# source_url: https://tajpoints.com/2022/10/jibreel-ka-narah-hai-ali-un-wali-ullah.html
-# raw_sha256: f32b659f2f63b2eb60e9e21a2a2e1c8634348edf69ed5439d107860a5b08dcf4
 ---
 
 1

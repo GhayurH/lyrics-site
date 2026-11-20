@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:34d6f93de6ae44ffc925
-# source_url: https://www.nohawriteups.org/mere-mola-ali-as-ko-jis-gari-ayi/
-# original_html: snapshots/nohawriteups/original_html/34d6f93de6ae44ffc925.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/34d6f93de6ae44ffc925.json
-# api_content_sha256: abc6c47f8d7d7fdfb20cd2846e86853bf3d5fb402b97c01640305e18971ed60c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Merey Mola Ali (AS) ko jis gari ayi kaza hogi

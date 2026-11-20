@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e71ca6e5428f7ae0a5a
-# source_url: https://tajpoints.com/2017/11/sham-ke-bazar-mein-hai-charagaan-chaar.html
-# raw_sha256: b6e5dc8535b4c1cdb5d1a07b22d5fe518ca27e6ec8b6598b3f93c2cf46cd7aec
 ---
 
 Sham Ke Bazar Mein Hai Charagaan Chaar Write Up

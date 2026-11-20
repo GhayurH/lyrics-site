@@ -8,9 +8,6 @@ reciter: "Chakwal Party"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:030feecb6ec5a52e1337
-# source_url: https://www.ziyaraat.net/api/noha/1584
-# raw_sha256: be86a4bf06273a2e2cccbf19762ef1c39bf2d88edd26266fe087c24990f5ab09
 ---
 
 1

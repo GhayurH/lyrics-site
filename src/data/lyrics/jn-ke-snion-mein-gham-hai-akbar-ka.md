@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:fd95f24851bafc9b3a0e
-# source_url: https://www.ziyaraat.net/api/noha/221
-# raw_sha256: 7d053e14c7a8f8d71ca5084d38f22e7560a3ce8f0e0ab71fbc83db1456074316
 ---
 
 Jinkay seeno may gham hai Akbar ka

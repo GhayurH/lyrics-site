@@ -55,9 +55,6 @@ romanLyrics: |-
   Khoon may doob gaya, mere ghazi ka alam
   Zakhmi zainab ka jigar, khoon-fishan shaah ka sar
   Aaye qaimon may shaqi, tu na aaya Ghazi
-# source_id: ziyaraat:68329bf48bfaa3c0fe28
-# source_url: https://www.ziyaraat.net/api/noha/1222
-# raw_sha256: e6e0841e4c93fe66308230b5294383655374a8ddba56e5fc8c14d60d3ae45b0b
 ---
 
 ہاۓ میرے عباسؑ ‘ ہاۓ میرے عباسؑ

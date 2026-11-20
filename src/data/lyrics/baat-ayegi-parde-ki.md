@@ -37,12 +37,6 @@ romanLyrics: |-
   6
   Purse ko Anis aayeṅge aur puchheṅge ahwaal
   Kis kis ko nishaaṅ durro ke dikhlaayegi Zainab
-# source_id: nohayonline:f2e6ed32f46dcd02bea2
-# source_url: https://www.nohayonline.com/details_content.php?id=200
-# raw_sha256: ea0be35087ee00a25bf038b767d9ccdcdec2d6e38bcf377b6d484de14487af84
-# source_id: ziyaraat:070f6b931b7571d610e6
-# source_url: https://www.ziyaraat.net/api/noha/2374
-# raw_sha256: 787d7d32056c6ecfb40322d61914fd3c9e1f26cc10fc2c8481c937f6adb5efbc
 ---
 بات آئے پردے کی تو یاد آئے گی زینب
 تاریخ غم و درد کو دُہراےگی زینب

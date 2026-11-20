@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:510a2bdf696342c809be
-# source_url: https://www.ziyaraat.net/api/noha/2434
-# raw_sha256: ce45757b8a7f7bf6a5078a1fb2207f7371c9f971c0f68cfdb2dba6b0639b151f
 ---
 
 Hussain

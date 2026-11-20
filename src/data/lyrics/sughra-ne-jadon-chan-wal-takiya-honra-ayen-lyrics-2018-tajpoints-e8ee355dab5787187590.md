@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e8ee355dab5787187590
-# source_url: https://tajpoints.com/2018/09/sughra-ne-jadon-chan-wal-takiya-honra.html
-# raw_sha256: bae2f2d5a1885a1e4291c299db4718a903558ca84c6c47c24e21e09ffe6ee7b4
 ---
 
 1

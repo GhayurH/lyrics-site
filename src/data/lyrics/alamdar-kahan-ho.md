@@ -49,9 +49,6 @@ romanLyrics: |-
   Faryaad thi Zainab ki yehi Safdar o Mazhar
   Kis tarah bayaaṅ hoga wo darbaar ka manzar
   Aao mere parde ke nigehdaar kahaṅ ho
-# source_id: nohayonline:3f0a85c9d81546791865
-# source_url: https://www.nohayonline.com/details_content.php?id=2827
-# raw_sha256: e44a1c5109f136c41d12e3769b463fbbf7b6635ab345464fe33a3e98590a9b34
 ---
 علمدار کہاں ہو
 زینب کی بکا تھی میرے غم خوار کہاں ہو

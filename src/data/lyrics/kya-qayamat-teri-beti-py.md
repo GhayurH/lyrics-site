@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d13d23d19152743d1b93
-# source_url: https://tajpoints.com/2024/11/kya-qayamat-teri-beti-py-muhammad-raza.html
-# raw_sha256: 0dd29d510266f3476b3880dc682d9ba47b9a933061a1998e05d18819864703df
-# source_title_original: Kya Qayamat Teri Beti Py Muhammad Raza Mungla 2024
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Kya Qayamat Teri Beti Py

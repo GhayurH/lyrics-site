@@ -8,9 +8,6 @@ poet: "Taseer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:506385ec969ccf002e1d
-# source_url: https://tajpoints.com/2023/05/shehar-sherin-lagay-hum-ko-behad-tera.html
-# raw_sha256: 75ad7f7540a313472c3cb4347fccacb6f07dfe859b8c54609f87590739c0c034
 ---
 
 1

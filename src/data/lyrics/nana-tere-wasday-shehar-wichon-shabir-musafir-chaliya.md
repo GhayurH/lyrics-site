@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5d97bfeb5106fd8bbc29
-# source_url: https://tajpoints.com/2019/04/nana-tere-wasday-shehar-wichon-shabir.html
-# raw_sha256: a232760c2b4d381abdc8c3e6e2f5af939ec8d85be5691ade447abb07693bddba
-# source_title_original: Nana Tere Wasday Shehar Wichon Shabir Musafir Chaliya 2012
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Nana Tere Wasday Shehar Wichon Shabir Musafir Chaliya

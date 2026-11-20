@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:82681f9dd42a55dfd54f
-# source_url: https://tajpoints.com/2023/04/hassan-ka-hota-hai-khurram-murtaza.html
-# raw_sha256: 5f25dfe98e722e5a0a3068514b0b20421ccf96e09d9001eefa166ff64cef7afc
 ---
 
 Hassan Ka Hota Hai Khurram Murtaza.

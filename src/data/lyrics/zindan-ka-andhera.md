@@ -38,9 +38,6 @@ romanLyrics: |-
   Rehaan buka karti thi jab baali Sakina
   Khud maut ke maathe pe bhi aata tha pasina
   Ye waaqia aansu mere rukne nahiṅ deta
-# source_id: nohayonline:12f1fb47a633c46c8ddf
-# source_url: https://www.nohayonline.com/details_content.php?id=666
-# raw_sha256: 6b4a5d2f9fc4e570b967de30cf690a6e439f70b460b95eff75bc09427e34b6be
 ---
 زنداں کا اندھیرا مجھے سونے نہیں دیتا
 روتی ہوں تو ظالم مجھے رونے نہیں دیتا

@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:1658fbed9309f1d5ff35
-# source_url: https://tajpoint.com/beshaq-main-turan-di-aadi-nayi-aa-gaye-bazar-main/
-# raw_sha256: d9da5daf1f71b2e0ef34a5f2dcd3903459fe64ac03fcae6ce1516c1c82057a07
 ---
 
 Beshaq Main Turan Di Aadi Nayi Aa Gaye Bazar Main Turni Aan.

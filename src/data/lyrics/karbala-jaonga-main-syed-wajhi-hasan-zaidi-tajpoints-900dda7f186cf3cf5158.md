@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:900dda7f186cf3cf5158
-# source_url: https://tajpoints.com/2021/08/karbala-jaonga-main-syed-wajhi-hasan.html
-# raw_sha256: 4c874c9e925724c96ecd774c23e44cc8e041259be63941544938af3b191e34d4
 ---
 
 1

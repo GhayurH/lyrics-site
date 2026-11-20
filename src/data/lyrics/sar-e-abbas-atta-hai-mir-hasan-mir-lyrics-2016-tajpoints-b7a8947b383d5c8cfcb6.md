@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7a8947b383d5c8cfcb6
-# source_url: https://tajpoints.com/2017/02/sar-e-abbas-atta-hai.html
-# raw_sha256: b960b65fef73c94e2ad53d012b661fcec7e7ba363f60a661ea3286c9272261d1
 ---
 
 1

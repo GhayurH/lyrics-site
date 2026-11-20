@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9bcd1574c918b8a43931
-# source_url: https://tajpoints.com/2025/02/zakhmi-thi-kitni-maa-syed-ali-meesum.html
-# raw_sha256: e80c3ef769646c5f52e1e16f76a1daca469efa146d7d0bf3999672143444076c
 ---
 
 Zakhmi Thi Kitni Maa Syed Ali Meesum Abidi.

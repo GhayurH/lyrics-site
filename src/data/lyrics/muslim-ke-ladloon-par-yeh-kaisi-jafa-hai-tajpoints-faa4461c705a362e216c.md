@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:faa4461c705a362e216c
-# source_url: https://tajpoints.com/2019/08/muslim-ke-ladloon-par-yeh-kaisi-jafa.html
-# raw_sha256: 7e55fca82cd0671eb7be2e005a0e89ecd51a4d233914b45f6b0a838092d4d20f
 ---
 
 1

@@ -56,9 +56,6 @@ romanLyrics: |-
   Kaha Sajjad us ne takti hai kya aap ki beti
   Isi khwaahar ki gardan ki jaanib hai nazar us ki
   Mujhe lagta hai shaayad hai wohi us baawafa ka sar
-# source_id: nohayonline:a7109049cb1ed5c14806
-# source_url: https://www.nohayonline.com/details_content.php?id=3673
-# raw_sha256: b6737b755dc4dba4420533026a6192c043c8a9bf31c76d115b0748b27570afbe
 ---
 اہل حرم کا قافلہ کوفے میں دیکھ کے
 ایک سر کلام کرتا تھا نیزے کی نوک سے

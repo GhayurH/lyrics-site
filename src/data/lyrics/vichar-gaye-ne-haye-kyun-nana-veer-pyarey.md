@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:29cb4c38d5983253a459
-# source_url: https://tajpoints.com/2021/05/vichar-gaye-ne-haye-kyun-nana-veer.html
-# raw_sha256: 2bb172a946d9277a13e9b2f4886a15298f52bf1208ca55c3290c876c2ae01343
-# source_title_original: Vichar Gaye Ne Haye Kyun Nana Veer Pyarey 2021
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Vichar Gaye Ne Haye Kyun Nana Veer Pyarey Veer Pyarey

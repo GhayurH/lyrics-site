@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d6c5494730d38d204d4b
-# source_url: https://tajpoints.com/2019/12/lakh-deway-balaan-akbar-par-noor-nayi.html
-# raw_sha256: d972c67557b589c49573c519fc4f999de4fe77c14c59267d89b2e4090a2b9e90
 ---
 
 1

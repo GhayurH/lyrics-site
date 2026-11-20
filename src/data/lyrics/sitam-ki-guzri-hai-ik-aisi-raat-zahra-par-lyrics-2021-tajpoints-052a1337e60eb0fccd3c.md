@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:052a1337e60eb0fccd3c
-# source_url: https://tajpoints.com/2021/01/sitam-ki-guzri-hai-ik-aisi-raat-zahra.html
-# raw_sha256: 645ab246ed9ca0edd231ba58ee31d640df2bfa5ef1e6cfaf6b602369e982328e
 ---
 
 1

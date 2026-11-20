@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4fa2438cf027488343d5
-# source_url: https://tajpoints.com/2017/02/sar-dar-e-all-e-muhammadas-par-jhukana.html
-# raw_sha256: 404d7bc2df2db5ee4725a6baa1b60224c46517c90b1c16afcdc332b7d186218a
 ---
 
 1

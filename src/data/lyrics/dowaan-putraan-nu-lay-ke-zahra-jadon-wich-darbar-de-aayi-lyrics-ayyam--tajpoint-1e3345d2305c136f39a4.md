@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:1e3345d2305c136f39a4
-# source_url: https://tajpoint.com/dowaan-putraan-nu-lay-ke-zahra-jadon-wich-darbar-de/
-# raw_sha256: b288b7028c928339f60bb8332afdde56cab2186c8365a0035d1a7cc1644fcb76
 ---
 
 1

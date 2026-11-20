@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4d049966ee6e5c77e4af
-# source_url: https://tajpoints.com/2023/03/piya-pochda-baqir-babay-koon-hasan.html
-# raw_sha256: 3c6d3d3db186b2c92e2659efb0bb35e90340555f76ec3cdee7637a6ab493dc8b
 ---
 
 1

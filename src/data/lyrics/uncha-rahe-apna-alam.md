@@ -76,12 +76,6 @@ romanLyrics: |-
   Ye silsila jaari rahe
   Hum hoṅ na hoṅ is bazm meiṅ qaaim azaadaari rahe
   Nikle isi chaukhat pe dam
-# source_id: nohayonline:18b972afdc44803abee9
-# source_url: https://www.nohayonline.com/details_content.php?id=49
-# raw_sha256: af7da25f399f88aa04d1df826f625ed9e9eadc6bc8a840d2889e35eef611766d
-# source_id: ziyaraat:32637c8b87041465369d
-# source_url: https://www.ziyaraat.net/api/noha/548
-# raw_sha256: 0250c0a19e28b5e5c42db9b80e016a1de900b0fc279d5415dd51c377ff69d21e
 ---
 اونچا رہے اپنا علم
 جب تک ہے دورِ آسماں

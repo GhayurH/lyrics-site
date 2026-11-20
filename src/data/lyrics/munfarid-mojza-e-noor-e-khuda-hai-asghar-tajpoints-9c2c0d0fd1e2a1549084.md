@@ -8,9 +8,6 @@ poet: "Bilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9c2c0d0fd1e2a1549084
-# source_url: https://tajpoints.com/2018/07/munfarid-mojza-e-noor-e-khuda-hai-asghar.html
-# raw_sha256: d431dd455d6ad27a87594e6eceacd86089b6674189adc635c2b15a74448ae0bd
 ---
 
 1

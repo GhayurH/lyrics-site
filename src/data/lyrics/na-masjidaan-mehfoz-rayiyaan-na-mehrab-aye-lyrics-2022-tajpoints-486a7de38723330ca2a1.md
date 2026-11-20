@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:486a7de38723330ca2a1
-# source_url: https://tajpoints.com/2022/05/na-masjidaan-mehfoz-rayiyaan-na-mehrab.html
-# raw_sha256: 17945ff389f43ca4d8e04cea73050c3b472925e97b87bca907b6d6204009f917
 ---
 
 1

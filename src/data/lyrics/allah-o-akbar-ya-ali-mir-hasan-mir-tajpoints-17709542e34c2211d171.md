@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:17709542e34c2211d171
-# source_url: https://tajpoints.com/2018/03/allah-o-akbar-ya-ali.html
-# raw_sha256: d424f90385cc690b91c0a48d8c42dd3d2fee4108a3a23244eda02ef89ec42efd
 ---
 
 1

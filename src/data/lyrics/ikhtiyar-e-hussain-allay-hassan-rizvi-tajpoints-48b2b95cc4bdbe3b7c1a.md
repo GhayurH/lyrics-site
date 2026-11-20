@@ -8,9 +8,6 @@ poet: "Mushaf"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:48b2b95cc4bdbe3b7c1a
-# source_url: https://tajpoints.com/2025/02/ikhtiyar-e-hussain-allay-hassan-rizvi.html
-# raw_sha256: 257ddb14e45c9d4be19897a251d3a0714da783713ed0ee5386c6d9e644238de5
 ---
 
 Ikhtiyar e Hussain Allay Hassan Rizvi.

@@ -61,9 +61,6 @@ romanLyrics: |-
   Gar ho sake to nil-e-rasan ke dikhaauṅ gi
   Maiṅ zindagi tamaam tera gham manaauṅ gi
   Bhai ki qabr hil gayi khwaahar ke bain se
-# source_id: nohayonline:3ceff1a64ebd10961d89
-# source_url: https://www.nohayonline.com/details_content.php?id=3342
-# raw_sha256: 1f221c2c2331b7ff63c108f81279defca334e46613ed1a046c73c011520d4cd0
 ---
 ارمان ہے یہ زینب عالی مقام کا
 چہلم ہے کربلا میں شہ تشنہ کام کا

@@ -59,12 +59,6 @@ romanLyrics: |-
   labbaik ya hussaina
   labon par ho ye sada
   yehi charagh jalenge..
-# source_id: nohayonline:1a787a7d7e3008025ff6
-# source_url: https://www.nohayonline.com/details_content.php?id=1583
-# raw_sha256: 9cb9fb065f2e87d96456dc4de5c19be86ea5f93381bc9f9ba2b75612fc6f09cb
-# source_title_original: Yehi charagh
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
-# editorial_warning: source Urdu begins with malformed r> marker; removed marker, verify missing opening Urdu line
 ---
 
 خوں سے جلا گےء جو شہیدانِ کربلا

@@ -54,9 +54,6 @@ romanLyrics: |-
   Ae Ali Yazdaṅ thi Kufe meiṅ yatimi nauhagar
   Ro diye Hasnain Tashna us ghari sar pit kar
   Marsiya Abbas ka tha qatl Haider ho gaye
-# source_id: nohayonline:89f8249548677db8abf4
-# source_url: https://www.nohayonline.com/details_content.php?id=2513
-# raw_sha256: 3585397cd68c88eecda3c0cfee0d2351b106974ef9713cd91a96c35cb0d51959
 ---
 آرام کہاں ہے آرام کہاں ہے
 زینب و کلثوم کو آرام کہاں ہے

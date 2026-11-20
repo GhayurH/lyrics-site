@@ -56,9 +56,6 @@ romanLyrics: |-
   In baazuoṅ ke kuchh to daagh-e-rasan dikhaane
   Aayi hai teri beti rudaad-e-gham sunaane
   Kurta kahiṅ jala hai chaadar kahiṅ jali hai
-# source_id: nohayonline:ecf31e164ab2b7843a21
-# source_url: https://www.nohayonline.com/details_content.php?id=191
-# raw_sha256: 6b434df87c893d3b4644117c1f804ccfbb3b06ec22b8dd42d7d09d8bf24dbffa
 ---
 مرقد پہ ماں کی زینب فریاد کر رہی ہے
 اماں تیری کمائی جنگل میں لُٹ گئی ہے

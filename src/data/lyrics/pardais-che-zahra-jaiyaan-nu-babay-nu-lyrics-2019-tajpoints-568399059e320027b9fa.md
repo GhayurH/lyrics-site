@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:568399059e320027b9fa
-# source_url: https://tajpoints.com/2019/06/pardais-che-zahra-jaiyaan-nu-babay-nu.html
-# raw_sha256: ed411ed26eeaa94fd543a555cc05381959fab63b90ad457a1b24fd475203e5b7
 ---
 
 1

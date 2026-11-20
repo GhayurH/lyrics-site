@@ -8,9 +8,6 @@ poet: "Rizvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4fbc41c3545c79846e82
-# source_url: https://tajpoints.com/2019/04/aye-lal-ab-lehad-mein-kahan-chain-paongi.html
-# raw_sha256: c7b6b690cd59e2ab716ffab8a0b82eeaefdc1622a902fc71626b9f7b1b07fa5a
 ---
 
 Aye Lal Ab Lehad Mein Kahan Chain Paongi.

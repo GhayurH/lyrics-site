@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noRoman"]
 aliases: []
 published: false
-# source_id: nohawriteups:024391ad8668f9407e6e
-# source_url: https://www.nohawriteups.org/hassan-ja-ka-zara-baita-meri-zainab-ko-24-ramzan-2026-shahzaib-hassan-anjuman-e-hussainia/
-# original_html: snapshots/nohawriteups/original_html/024391ad8668f9407e6e.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/024391ad8668f9407e6e.json
-# api_content_sha256: 2a2a7457585a7be9a8aa34f3ac92f92c96dc2c15be8006b6fb0066715931b666
-# editorial_note: Unpublished source-faithful draft from approved valid urdu only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Hassan Ja Ka Zara Baita Meri Zainab Ko | 24 Ramzan 2026 | Shahzaib Hassan | Anjuman e Hussainia

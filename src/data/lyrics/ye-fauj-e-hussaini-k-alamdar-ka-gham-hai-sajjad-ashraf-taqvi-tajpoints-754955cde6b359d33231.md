@@ -8,9 +8,6 @@ poet: "Kaleem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:754955cde6b359d33231
-# source_url: https://tajpoints.com/2021/08/ye-fauj-e-hussaini-k-alamdar-ka-gham.html
-# raw_sha256: 0e44ab477e76bd2944ed45a068cf055600cb32304109cec10c7d74fae69bc08f
 ---
 
 1

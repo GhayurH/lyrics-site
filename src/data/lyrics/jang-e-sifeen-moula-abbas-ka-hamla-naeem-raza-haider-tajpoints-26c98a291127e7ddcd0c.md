@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:26c98a291127e7ddcd0c
-# source_url: https://tajpoints.com/2022/03/jang-e-sifeen-moula-abbas-ka-hamla.html
-# raw_sha256: bf9d9b539c343736ff5a2207c8a5f247d7ca40c4b4515c3b522d234ef5aac3bb
 ---
 
 1

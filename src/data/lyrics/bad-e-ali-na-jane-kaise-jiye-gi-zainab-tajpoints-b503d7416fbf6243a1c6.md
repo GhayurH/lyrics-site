@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b503d7416fbf6243a1c6
-# source_url: https://tajpoints.com/2025/04/bad-e-ali-na-jane-kaise-jiye-gi-zainab.html
-# raw_sha256: edd8e9b63e1b1fe243cb67b2a3e4743d816a6b99560ff6b34998577fcba213f7
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6702f6f88a5cb9a00e97
-# source_url: https://tajpoints.com/2020/11/tu-na-aayon-akbar-bhain-beemar-teri.html
-# raw_sha256: 2266defebf6a86b4b273e76f23916c3009bbb3cd23ac3699014884424b96a345
 ---
 
 1

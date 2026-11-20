@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:332f972bf3e7efa45342
-# source_url: https://tajpoints.com/2026/10/mere-bachy-hain-abhi-chohte-ya-ali-mir.html
-# raw_sha256: d115eb265a917c1d307319275cf6349ab94753659cc7144c2993c62ee8816fe4
-# source_title_original: Mere Bachy Hain Abhi Chohte Ya Ali Mir Sajjad Mir 2026 Lyrics In Urdu
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Ro Ke Zahra, Ali Se Yeh Kehti Rahi

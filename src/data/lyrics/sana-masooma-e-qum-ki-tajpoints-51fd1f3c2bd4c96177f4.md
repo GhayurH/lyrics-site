@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:51fd1f3c2bd4c96177f4
-# source_url: https://tajpoints.com/2019/07/sana-masooma-e-qum-ki-lyrics-in-urdu.html
-# raw_sha256: 642b96e7ab0107ac908c6c18d80556db6b5333fc385d6ecdbcdbd17e3ace9408
 ---
 
 1

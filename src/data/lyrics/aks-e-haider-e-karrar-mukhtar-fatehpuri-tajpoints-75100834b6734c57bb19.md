@@ -8,9 +8,6 @@ poet: "Faraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:75100834b6734c57bb19
-# source_url: https://tajpoints.com/2025/12/aks-e-haider-e-karrar-mukhtar-fatehpuri.html
-# raw_sha256: f4ffc00e3e82653925a514243e19d7f6a27d4c61940903367210e61e2dd892ca
 ---
 
 1

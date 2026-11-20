@@ -101,12 +101,6 @@ romanLyrics: |-
   Aur aa rahi hai Rauza-e-Abbas se sada
   Rokega mujh ko tab na Nawasa-e-Rasul ka
   Mehdi ke saath luṅga maiṅ badla Batul ka
-# source_id: tajpoints:912611cdf6a51a239e08
-# source_url: https://tajpoints.com/2017/02/abbas-naam-hai-mera-abbas-naam-hai1-4.html
-# raw_sha256: d9614f93244c9ca7bd75206cd61ce47b86083e828b33a16c10ec7c3df22d84c4
-# source_id: tajpoints:4f64bd40efbffa1c0043
-# source_url: https://tajpoints.com/2017/02/abbas-naam-hai-mera-abbas-naam-hai5-8.html
-# raw_sha256: c157711bcdc5472e45c27e9e5f308f382ab8a85732e13759b7e6e78e031803b8
 ---
 
 یا ابنِ زہرا یا عباس

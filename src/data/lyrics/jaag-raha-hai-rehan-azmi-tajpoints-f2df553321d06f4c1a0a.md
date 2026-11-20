@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f2df553321d06f4c1a0a
-# source_url: https://tajpoints.com/2023/05/jaag-raha-hai-rehan-azmi-lyrics-in-urdu.html
-# raw_sha256: 65d609a47de18cbc5adebb7ca87c98054834a5efbbae622272418e69ae323e5e
 ---
 
 Qirtas Pe Khama Ba Khuda Jaag Raha Hai.

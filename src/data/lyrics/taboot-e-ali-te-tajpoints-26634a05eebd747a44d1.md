@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:26634a05eebd747a44d1
-# source_url: https://tajpoints.com/2020/05/taboot-e-ali-te-lyrics-in-urdu-and.html
-# raw_sha256: f3cea73a0b6e9282dce75151dda4d8cdc68884feb91b1166407b956b0e6b7c2b
 ---
 
 1

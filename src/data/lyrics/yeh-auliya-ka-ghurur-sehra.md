@@ -20,9 +20,6 @@ romanLyrics: |-
   Yaqin hai huroṅ ne khud piroya hai khuld meiṅ baar baar sehra
   Jo khush hue haiṅ kali kali un ko de rahi hai duaaeṅ ab tak
   Keh us ke taaroṅ se phutti haiṅ Ali Wali ki adaaeṅ ab tak
-# source_id: tajpoints:cd37b81eec9af7ab53d4
-# source_url: https://tajpoints.com/2023/06/yeh-oliya-ka-gharor-sehra-mohsin-naqvi.html
-# raw_sha256: 4756df78fcdb4c94e1539de2bf781328d4ba295b24daf65805f422882fc15a59
 ---
 
 ۱

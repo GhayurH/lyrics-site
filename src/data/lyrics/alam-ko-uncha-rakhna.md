@@ -94,9 +94,6 @@ romanLyrics: |-
   Mai chaluṅ kahiṅ mai rahuṅ kahiṅ
   Har raste par har mor par
   Ye alam hamesha saath hai
-# source_id: nohayonline:60b5771f06ca084aa8ba
-# source_url: https://www.nohayonline.com/details_content.php?id=1647
-# raw_sha256: fb36e7a9feb48b123b54f70c371e291c354e555f8e9cafe7cd98061cf2d72d0c
 ---
 
 ۱

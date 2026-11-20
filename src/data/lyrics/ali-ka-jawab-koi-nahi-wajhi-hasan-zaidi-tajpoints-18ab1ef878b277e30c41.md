@@ -8,9 +8,6 @@ poet: "Sharar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:18ab1ef878b277e30c41
-# source_url: https://tajpoints.com/2025/01/ali-ka-jawab-koi-nahi-wajhi-hasan.html
-# raw_sha256: 92695f30f9f7ccdf57cfd0dd0f78c045ecc3129950da3e305971375acaf80ceb
 ---
 
 Ali Ka Jawab Koi Nahi Wajhi Hasan Zaidi.

@@ -29,9 +29,6 @@ romanLyrics: |-
   4
   Ishrat ko wo kalaam ata kijiye Imam
   Saamra jaa ke pesh kare khud wo Naqi ko
-# source_id: nohayonline:a202baaf3e86b05be367
-# source_url: https://www.nohayonline.com/details_content.php?id=1299
-# raw_sha256: 5fdf868b3e9ae5899787903363906fac55ffd58d5d6c8f01ccc7acd31fcdf8e7
 ---
 پردیس میں زہر سے مارا ہے نقی کو
 جس طرح اس سے پہلے رضا اور تقی کو

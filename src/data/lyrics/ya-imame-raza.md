@@ -44,9 +44,6 @@ romanLyrics: |-
   Mehrum hai jo ab tak iran wo bhi jaayeiṅ
   Hamrah khaafile ke mazhar ko bhi bula
   Ya imam e raza...
-# source_id: nohayonline:2b280e586844c541c97e
-# source_url: https://www.nohayonline.com/details_content.php?id=2265
-# raw_sha256: 294335ed8f37307858b4fc50ab2ccaceb018d4116006cec22e78dfd865fed656
 ---
 
 ۱

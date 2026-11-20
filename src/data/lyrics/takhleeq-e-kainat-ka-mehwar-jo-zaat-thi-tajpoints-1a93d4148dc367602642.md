@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a93d4148dc367602642
-# source_url: https://tajpoints.com/2024/11/takhleeq-e-kainat-ka-mehwar-jo-zaat-thi.html
-# raw_sha256: bfddf3f93ff2035a7e2b3025c088cd3887cd08176042e624887bc806b911f951
 ---
 
 Takhleeq e Kainat Ka Mehwar Jo Zaat Thi.

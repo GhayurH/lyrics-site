@@ -55,9 +55,6 @@ romanLyrics: |-
   Nasloṅ meiṅ apne baaqi rahe gham Husain ka
   Deti rahe duaaeṅ hameṅ Bint-e-Mustafa
   Saamaan ho ye hashr meiṅ apni nijaat ka
-# source_id: nohayonline:49f6b2d056c18ecbcddd
-# source_url: https://www.nohayonline.com/details_content.php?id=723
-# raw_sha256: cb402c14785a4f8eba1fc6c1b4698dda0ccf11fea100384f9589c14eff6aad92
 ---
 لوگوں مدینہ رہنے کے قابل نہیں رہا
 سر پیٹ کر بشیر کہتا ہوا چلا

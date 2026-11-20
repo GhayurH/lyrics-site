@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:0d20e6da0b4740c5b606
-# source_url: https://tajpoint.com/wakhri-aye-jag-te-aj-qasim-laway-mehndi-lyrics/
-# raw_sha256: b088ce7af71fad44efb074eb01ffbb8a4ae7c1281d383c9351487cc2f51146be
 ---
 
 1

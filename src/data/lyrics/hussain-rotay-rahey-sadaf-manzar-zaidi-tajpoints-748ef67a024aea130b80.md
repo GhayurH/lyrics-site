@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:748ef67a024aea130b80
-# source_url: https://tajpoints.com/2023/07/hussain-rotay-rahey-sadaf-manzar-zaidi.html
-# raw_sha256: e83c4bfb1d0c5f48bbe7c5920416e7ce8de7af86a4f929fe84f2646da8c3f1f1
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:238eccb21d04a6d05bfa
-# source_url: https://tajpoints.com/2022/08/mazloom-karbala-da-faheem-ali-lyrics-in.html
-# raw_sha256: e4a363d94e864be65f3ee3de4df14e282bc690600d8582adc4443a828ce22462
 ---
 
 Mazloom Karbala Da Faheem Ali Lyrics in Saraiki

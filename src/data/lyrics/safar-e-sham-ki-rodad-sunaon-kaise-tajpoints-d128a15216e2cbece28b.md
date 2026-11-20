@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d128a15216e2cbece28b
-# source_url: https://tajpoints.com/2019/06/safar-e-sham-ki-rodad-sunaon-kaise.html
-# raw_sha256: 686f168b81ae581853b00a2a397a13e84118e6a5276f678b5398816cb936c547
 ---
 
 1

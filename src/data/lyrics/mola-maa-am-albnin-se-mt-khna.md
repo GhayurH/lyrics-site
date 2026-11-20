@@ -8,9 +8,6 @@ reciter: "Meer Hasan Meer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:e7217a95d1a250b1e15f
-# source_url: https://www.ziyaraat.net/api/noha/238
-# raw_sha256: a1400bfb0541cde5f239b708fe9ab99614d7172df1ba9457b6fd0ee70e8554e9
 ---
 
 1

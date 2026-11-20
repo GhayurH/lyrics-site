@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5e3f605de2ab8aeff38a
-# source_url: https://tajpoints.com/2021/02/chin-rahi-hai-meri-rida-ghazi-lyrics-in.html
-# raw_sha256: eedb1d76dfcbf7d4f3cfc8892ee4027b8b12ce1717c728154994b6654da28b0a
 ---
 
 1

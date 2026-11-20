@@ -56,9 +56,6 @@ romanLyrics: |-
   Ye Mazhar Abidi phir kuchh bhi likh nahiṅ paaya
   Wo Shadman ke hoṅtoṅ pe marsiya aaya
   Ali ki betiyaaṅ aayi haiṅ qaid khaane meiṅ
-# source_id: nohayonline:8f0e4b77f4d98b9602f6
-# source_url: https://www.nohayonline.com/details_content.php?id=3221
-# raw_sha256: ad517ea126e3153cf4551779b3ae3aaad3c66cda86cca074bb835e519dc826ac
 ---
 شام کی قید میں سیدانیاں اسیر ہوئیں
 رسول زادیاں حاکم کی دستگیر ہوئیں

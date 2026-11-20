@@ -79,9 +79,6 @@ romanLyrics: |-
   Kis tarah gayi hogi ro kar
   Jis gham ke sabab Abid ko sada
   Sar apna jhukaana yaad raha
-# source_id: nohayonline:edd83efe643bd4ec3bf1
-# source_url: https://www.nohayonline.com/details_content.php?id=879
-# raw_sha256: 6fceecc242ca4ead56ba13d8eedfeae1164cb3c05632f20ee1f0fc4cf52102ba
 ---
 
 عابد سے جب وطن میں کسی نے کیا کلام

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:42f14ace994cf0b73bc0
-# source_url: https://tajpoints.com/2019/10/pehli-wari-abid-di-akhiyaan-wich-khon.html
-# raw_sha256: 8cfaf7f177639628a1d44faf4e174b211a333363f3a534db0ebdd2782f242d7b
 ---
 
 Pehli Wari Abid Di Akhiyaan Wich Khon See Aaya.

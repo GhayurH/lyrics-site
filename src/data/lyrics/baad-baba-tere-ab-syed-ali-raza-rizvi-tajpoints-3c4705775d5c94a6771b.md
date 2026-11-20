@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3c4705775d5c94a6771b
-# source_url: https://tajpoints.com/2022/04/baad-baba-tere-ab-syed-ali-raza-rizvi.html
-# raw_sha256: 290df2a918a34293094f765df6008714c565da21c336982c8034695350d2e173
 ---
 
 Baad Baba Tere Ab Syed Ali Raza Rizvi.

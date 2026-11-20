@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f76587e0d4c426f0b43e
-# source_url: https://tajpoints.com/2022/11/hasan-askari-ka-main-adna-gada-hoon.html
-# raw_sha256: ebb4c75ab3dc60054bf246e9220769f7df754f9f8b4835f9472b07519d344392
 ---
 
 1

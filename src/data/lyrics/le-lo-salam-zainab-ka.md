@@ -49,12 +49,6 @@ romanLyrics: |-
   Bhaiya Sakina ko na laayi Zainab
   Zindaṅ meiṅ us ko chhor aayi Zainab
   Roti rahi wo mahlaqa
-# source_id: nohayonline:3fe3a70277f7a53e7fd6
-# source_url: https://www.nohayonline.com/details_content.php?id=2042
-# raw_sha256: 0808c0990e526ae949ac98056e11109841f46d23138cc9e9a8f6b75ef9054aec
-# source_id: tajpoints:2633321dd04422ad47be
-# source_url: https://tajpoints.com/2018/10/shah-e-shaheed-e-karbala-le-lo-salam.html
-# raw_sha256: 51a457ef24efbe64a88c347e56c9da7fe81d60507e6e164a8c5082381f3c8a3a
 ---
 
 شاہ شہید کربلا

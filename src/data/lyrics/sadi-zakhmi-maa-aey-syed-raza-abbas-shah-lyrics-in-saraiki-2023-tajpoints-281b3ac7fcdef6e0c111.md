@@ -8,9 +8,6 @@ poet: "Kazim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:281b3ac7fcdef6e0c111
-# source_url: https://tajpoints.com/2022/12/sadi-zakhmi-maa-aey-syed-raza-abbas.html
-# raw_sha256: 6226f7120d10851a103e5f340f3daf623e5b39c85ceb72f5c91ebdfcd2cddbf3
 ---
 
 Sadi Zakhmi Maa Aey Syed Raza Abbas Shah.

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2b22c185445e3602b95c
-# source_url: https://www.ziyaraat.net/api/noha/1211
-# raw_sha256: 6c7ea4e8ae747eff8e0e30121a82ebcefb72dbcd53efe2a2d4ec5de39859388b
 ---
 
 عباسؑ ہائے عباسؑ ہائے عباسؑ ہائے عباسؑ

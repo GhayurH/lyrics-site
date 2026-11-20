@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7ace1a4cbe65a339ff2c
-# source_url: https://tajpoints.com/2025/03/sakina-per-musibat-ki-huwi-hai-inteha.html
-# raw_sha256: b736250a0572f786928907f30c68d4d8d4fc6a9379d460589c3ce2fd8ee8f15b
 ---
 
 1

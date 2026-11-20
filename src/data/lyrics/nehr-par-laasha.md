@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Ho Musaddiq ka qalam har dam wafadaar-e-Husain
   Khaaliq-e-Abbas tujhko waasta Abbas ka
-# source_id: nohayonline:e5254b60ea209a2d42e7
-# source_url: https://www.nohayonline.com/details_content.php?id=3779
-# raw_sha256: 736da3997163a1f3a377b0b1e924b7239c53c99decd1d97b0c8d94422a8e1060
 ---
 نہر پر لاشہ پڑا ہے با وفا عباس کا
 اٹھ گیا بہنوں کے سر سے آسرا عباس کا

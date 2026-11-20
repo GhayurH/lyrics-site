@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:4cc839ec59da2d981b54
-# source_url: https://www.ziyaraat.net/api/noha/302
-# raw_sha256: f7923a7bd8626233cf27125a0b5d205c9ccf61a26b02d3cff22e524f31214130
 ---
 
 Zainab jo Shaam aayi haey lut kay Karbala se

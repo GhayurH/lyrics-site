@@ -8,9 +8,6 @@ poet: "Dabeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fa3cc74ed12e1718de01
-# source_url: https://tajpoints.com/2025/11/ya-zahra-isteghasa-bibi-fatima-wajhi.html
-# raw_sha256: b14953205319b738f7405c8d1fcba2d9335065adb4a88767a30f5e94057731a7
 ---
 
 1

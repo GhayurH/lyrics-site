@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ddf6908a91460c7e0262
-# source_url: https://www.ziyaraat.net/api/noha/1969
-# raw_sha256: f4e49002b167340b688a586869a5094a0f28d17edbff098c8f4a4195251d1102
 ---
 
 Kahan jaaye aakhir bayabaan har soo

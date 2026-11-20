@@ -58,9 +58,6 @@ romanLyrics: |-
   Laga kar sine se aini ali bacchoṅ ko kehte the
   Tumhari maa se aur hum se qayamat tak judaai hai
   Bina maadar ke bacchoṅ par...
-# source_id: nohayonline:3d7f14f5ece0e1ee566a
-# source_url: https://www.nohayonline.com/details_content.php?id=3055
-# raw_sha256: 4550781a8aea1a37ec6ac30879b8a38c81a8b12d6ad527ed2461f4e9346ed3ba
 ---
 
 ۱

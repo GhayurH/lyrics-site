@@ -8,9 +8,6 @@ poet: "Naeem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6a9e3bf446854e0c9af0
-# source_url: https://tajpoints.com/2023/05/muqassir-our-nusehri-ke-liye-jaghra.html
-# raw_sha256: 73f8d9a7baa66a67076ed84f23778e8878e5757c838111b243ab605912443bae
 ---
 
 1

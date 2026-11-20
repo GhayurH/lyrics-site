@@ -54,12 +54,6 @@ romanLyrics: |-
   Rauza-e-Husain pe ho sab ki haaziri
   Ye dua na bhuleṅ ge
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-# source_id: nohayonline:000d7e57b60ca97564d2
-# source_url: https://www.nohayonline.com/details_content.php?id=2062
-# raw_sha256: 721177f17adbb8672a1570c8e5a52f4e998f41071b2c83bf0d398d54f56045fc
-# source_id: ziyaraat:9b42f4c26a03e775219d
-# source_url: https://www.ziyaraat.net/api/noha/1631
-# raw_sha256: 7c9c4401d37b35874e4f6a93022941705c0435fc115f82e9e321d54219cb4d23
 ---
 بھول جائیں گے ہر غم
 غم تیرا نہ بھولیں گے

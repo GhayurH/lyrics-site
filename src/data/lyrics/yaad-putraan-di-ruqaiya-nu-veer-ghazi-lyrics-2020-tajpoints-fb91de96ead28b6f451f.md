@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fb91de96ead28b6f451f
-# source_url: https://tajpoints.com/2020/08/yaad-putraan-di-ruqaiya-nu-veer-ghazi.html
-# raw_sha256: cef245bde817864c143119bcce6aaf75e15b8b93340a01270be5fa350f923344
 ---
 
 1

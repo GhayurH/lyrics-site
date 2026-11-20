@@ -8,9 +8,6 @@ reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6ce32e8fb4d291faca03
-# source_url: https://www.ziyaraat.net/api/noha/2711
-# raw_sha256: 43ab75c846734b6b95db1ef33a0ce14a63a05622869795a437c73f47dfa23719
 ---
 
 Aaza min karame hussain ibne ali

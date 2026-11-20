@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2cfe40118974250915e3
-# source_url: https://tajpoints.com/2023/05/ghazi-sham-dai-lokan-meri-lut-layi-pak.html
-# raw_sha256: 664694ed8a07547b121bed2e59bac14a3c7e6cea208d99111b58fe5be3535b41
 ---
 
 1

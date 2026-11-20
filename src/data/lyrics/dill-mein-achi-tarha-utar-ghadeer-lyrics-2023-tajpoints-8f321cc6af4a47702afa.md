@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8f321cc6af4a47702afa
-# source_url: https://tajpoints.com/2023/07/dill-mein-achi-tarha-utar-ghadeer.html
-# raw_sha256: e3f13dbf0df2a3fdf9cd5e94fe9d8464eb5cd6d8c66e218f05cd8795134fd4f2
 ---
 
 Dill Mein Achi Tarha Utar Ghadeer Hasnain Akbar.

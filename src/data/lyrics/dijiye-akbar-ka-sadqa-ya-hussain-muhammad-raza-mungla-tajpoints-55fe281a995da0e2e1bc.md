@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:55fe281a995da0e2e1bc
-# source_url: https://tajpoints.com/2024/02/dijiye-akbar-ka-sadqa-ya-hussain.html
-# raw_sha256: fb0b7528d629a5060c9739332a401ec316fe6ce537b00ada0012bbf0d1d269cc
 ---
 
 Dijiye Akbar Ka Sadqa Ya Hussain Muhammad Raza Mungla.

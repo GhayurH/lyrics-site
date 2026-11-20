@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:00209875abe732dc83b2
-# source_url: https://www.nohawriteups.org/haaye-shaam-aagaya-kya-maqaam-aagaya/
-# original_html: snapshots/nohawriteups/original_html/00209875abe732dc83b2.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/00209875abe732dc83b2.json
-# api_content_sha256: 8c2212aaf9da7e5843b6077700893e521f38e2df0ae1788ae02035ec026e09cb
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haaye Shaam Aagaya, Kya Maqaam Aagaya

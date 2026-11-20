@@ -75,12 +75,6 @@ romanLyrics: |-
   Zainab tumhara Baba
   Alwida Zainab alwida Zainab
   Alwida alwida alwida Zainab
-# source_id: nohayonline:2727e66a8bb0e8a3d96a
-# source_url: https://www.nohayonline.com/details_content.php?id=3215
-# raw_sha256: 89b1dc86173d08ae0010f9b3c279a4a7a22ce06eb27e304bc6053ab70b3f128e
-# source_id: nohayonline:f58180cf0cad95762e24
-# source_url: https://www.nohayonline.com/details_content.php?id=2249
-# raw_sha256: 875431369ba9fd19dc1cf578c756baa45024403092a3004bd3410a03cbf42b4e
 ---
 
 الله أكبر

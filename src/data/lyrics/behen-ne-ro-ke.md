@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Surur laasha-e-besar tarap gaya ran meiṅ
   Sada jab aayi ke bhaiya mujhe sahaara do
-# source_id: nohayonline:c7934b8375b590197182
-# source_url: https://www.nohayonline.com/details_content.php?id=3702
-# raw_sha256: 68f28e20e4de6a258f7747d9d1d5d541dff1f7a52751d11715a533323345b2e8
 ---
 بہن نے رو کے پکارا مجھے سہارا دو
 میں بے دیار ہوں بھیا مجھے سہارا دو

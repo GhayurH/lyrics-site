@@ -9,9 +9,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b0132ac403cbe4581460
-# source_url: https://tajpoints.com/2020/06/jang-nayi-karni-mukhtar-bhira-main-wich.html
-# raw_sha256: ece958402b7c8f9a1dd5e7343838517375efbd165bc19c01d2ce91b3e7d30897
 ---
 
 Jang Nayi Karni Mukhtar Bhira Main Wich Darbar De Aayi Khari Aan.

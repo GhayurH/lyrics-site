@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2ea4037000a3d27d9b31
-# source_url: https://tajpoints.com/2025/06/yun-sakina-ko-mila-hai-tera-pursa-baba.html
-# raw_sha256: 90ded947b4f840dce9e75a5e97246062bf94c52f1c66b3f496b369a1558ad494
 ---
 
 1

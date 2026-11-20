@@ -27,9 +27,6 @@ romanLyrics: |-
   4
   Abbas ki mehshar may ae kash sada aaye
   Parrhte hue woh noha jannat may Anis aao
-# source_id: ziyaraat:f11eb83e0ab88cc3c9b3
-# source_url: https://www.ziyaraat.net/api/noha/2251
-# raw_sha256: 496e92197d3e02076b4992d690bb1e5c92c5b59ad1402cdef6dfe7acc3658542
 ---
 
 پانی نہیں مانگوں گی عمو میرے آ جاؤ

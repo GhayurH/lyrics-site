@@ -55,12 +55,6 @@ romanLyrics: |-
   Baba ko rone waali
   Sine pe sone waali
   Sakina guzar gayi
-# source_id: ziyaraat:38f42ae400e460ac720b
-# source_url: https://www.ziyaraat.net/api/noha/131
-# raw_sha256: 79c568396b024e809489482a45e37dbe357a9c48d3f3ad3a738a8f3bce1dd821
-# source_id: ziyaraat:e0ee225af27d1dd00589
-# source_url: https://www.ziyaraat.net/api/noha/729
-# raw_sha256: a01a792dffbc23c2bb4d3a377dd285e8cd2fc4b9a940fe7106e924458f9a3a5a
 ---
 
 آخری رات سکینہؑ کی

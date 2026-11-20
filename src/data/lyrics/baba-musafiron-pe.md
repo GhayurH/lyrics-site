@@ -54,9 +54,6 @@ romanLyrics: |-
   Sughra ko deṅge kaise tasalli-e-tashna kaam
   Ghar jaa ke yaad aayeṅge jalte hue khiyaam
   Basti Zafar ghariboṅ ki ashkoṅ se bhar gayi
-# source_id: nohayonline:168ef570348969e9ba2b
-# source_url: https://www.nohayonline.com/details_content.php?id=2976
-# raw_sha256: 1128ef68c8b84e6f411518604fb30d480f9b55db88335205ce362cb28cb024bf
 ---
 
 بابا مسافروں پہ قیامت گزر گیء

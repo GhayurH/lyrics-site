@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ad86daca33ca21b95429
-# source_url: https://www.ziyaraat.net/api/noha/1100
-# raw_sha256: eff8a3eb6ec361f84a3f22066cd5703424c803f8ab70b4c8d8c307396acece20
 ---
 
 Ghar laut k ghar main pehle diya kis tarah jalaya ZAINAB nay,

@@ -8,9 +8,6 @@ poet: "Hadi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e61d43e1839e30286600
-# source_url: https://tajpoints.com/2023/02/beriyan-hata-do-syed-mudassir-mehdi.html
-# raw_sha256: 751e83528181ebc9df5213e1386e9bb4e48860810498f03cf6b9c4fe623c2dc2
 ---
 
 Beriyan Hata Do Syed Mudassir Mehdi.

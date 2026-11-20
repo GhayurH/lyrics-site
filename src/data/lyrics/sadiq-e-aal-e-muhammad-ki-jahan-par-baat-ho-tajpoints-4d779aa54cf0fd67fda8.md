@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4d779aa54cf0fd67fda8
-# source_url: https://tajpoints.com/2023/05/sadiq-e-aal-e-muhammad-ki-jahan-par.html
-# raw_sha256: f8036cc81722644c68e735270cc1441d0cfde94178de0006f043c12f43a13b33
 ---
 
 Sadiq e Aal e Muhammad Ki Jahan Par Baat Ho.

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7ace4e38019f09b1fcde
-# source_url: https://tajpoints.com/2024/01/log-kehte-hain-kabay-mein-noor-aa-gaya.html
-# raw_sha256: 9b5dad862246c7577255b7ed3bde6568ecc7ae0cf1abb073bde5c74e6a8ca759
 ---
 
 1

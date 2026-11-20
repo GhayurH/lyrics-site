@@ -40,9 +40,6 @@ romanLyrics: |-
   Hai Akhtari Dar-e-Zindaaṅ Maiṅ Muntazir Bibi,
   Le Ayenge Mere Baba Zarur Milne Abhi,
   Magar Mile Nahi Baba Mila Husain Ka Sar,
-# source_id: ziyaraat:0db22a653aa791857daf
-# source_url: https://www.ziyaraat.net/api/noha/2960
-# raw_sha256: a028d9a895ca0aabe9ac7211853c015d40e2588a8f92b7440ec5773cc11415d4
 ---
 
 کہاں کہاں سے گُزرتا رہا حُسینؑ کا سر

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f4640768a91c35fda308
-# source_url: https://tajpoints.com/2021/01/yadaan-reh-gayiyaan-chaar-choferay.html
-# raw_sha256: 0f1d66c05fe4b9a43750322d7f2a802907b9d2e897f62d538a5a66e69c093dd4
 ---
 
 1

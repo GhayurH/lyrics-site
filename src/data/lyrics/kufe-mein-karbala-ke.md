@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Akbar kiya Ali ne shahaadat se ehtimaam
   Kufe se chun ke apne wafaadaar Ya Husain
-# source_id: nohayonline:9595b428daa7d313523b
-# source_url: https://www.nohayonline.com/details_content.php?id=1077
-# raw_sha256: d21b85fd61dccf72a1df9d331732005b540f1f2e555de37b020373f0df07a35b
 ---
 کوفے میں کربلا کے ہیں آثار یا حسین
 شیر خدا پہ چل گئی تلوار یا حسین

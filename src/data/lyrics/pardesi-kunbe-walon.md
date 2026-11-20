@@ -40,14 +40,6 @@ romanLyrics: |-
   7
   Abr-e-khaali daaman ko Salman kabhi khaali na kaho
   Yaad-e-shahid-e-Karb o Bala meiṅ har aansu ik moti hai
-# source_id: nohayonline:13e46e3f208eb299723c
-# source_url: https://www.nohayonline.com/details_content.php?id=3536
-# raw_sha256: a8da4afb5abf36adee9ce027cc77d80fe68bbf8318a2c84e37e743cee9073eff
-# source_id: ziyaraat:044ae900c9b2c99cccdb
-# source_url: https://www.ziyaraat.net/api/noha/2304
-# raw_sha256: 08e8ac02c6053e588b5e04ca505a3519d2676bf1eee4a5fe3b9b9b2002388654
-# added_stanza_source: roman:kalam-nohayonline-13e46e3f208eb299723c
-# stanza_7_source: ziyaraat:044ae900c9b2c99cccdb
 ---
 پردیسی کنبے والوں کی یاد جو تیر چبھوتی ہے
 نانا کے روضے پہ صغرا چپکے چپکے روتی ہے

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:710e7d2ed67d2514fc38
-# source_url: https://tajpoints.com/2020/04/main-hussain-hoon-lyrics-in-urdu-and.html
-# raw_sha256: 3ac7aa8f3582aa0a9fdd39669c53c396d1c79f6bcf5c7a84e65ea684615e8e7f
 ---
 
 Maimar-e-Arz-e-Karb-o-Bala Main Hussain Hoon.

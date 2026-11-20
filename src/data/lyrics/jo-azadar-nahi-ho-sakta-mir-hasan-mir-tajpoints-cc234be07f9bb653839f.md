@@ -8,9 +8,6 @@ poet: "Nayab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc234be07f9bb653839f
-# source_url: https://tajpoints.com/2017/02/jo-azadar-nahi-ho-sakta.html
-# raw_sha256: 94a348f6ffcf650908f35787ec717df6b4c06fe6e4f02dfdea8f87351ae0c6f4
 ---
 
 Jo Azadar Nahi Ho Sakta.

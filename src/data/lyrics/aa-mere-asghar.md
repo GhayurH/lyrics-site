@@ -54,9 +54,6 @@ romanLyrics: |-
   Laal mere tu khuṅ meiṅ nahaya
   Khaima sajaauṅ mannat barhaauṅ
   Aa mere Asghar
-# source_id: nohayonline:9753f4d8220eda7f0d19
-# source_url: https://www.nohayonline.com/details_content.php?id=2201
-# raw_sha256: 51d89d0139488ab05a0a8f04927c6a330c098a72da0dacd17a9583ce01e7ebf9
 ---
 
 آ میرے اصغر آ میرے اصغر

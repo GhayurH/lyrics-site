@@ -48,9 +48,6 @@ romanLyrics: |-
   9
   De kar shikast maqsad-e-baatil ko Shaam se
   Aaye hai Karbala meiṅ asiraan-e-Karbala
-# source_id: nohayonline:cd9267cdd0ef67c086e8
-# source_url: https://www.nohayonline.com/details_content.php?id=3766
-# raw_sha256: e3cfafbe7cc2561c41e38bafb9ac24f55dd4cd72c3bc9f582604896b54e871d2
 ---
 عظمت لیے ہے خلد کی دامان کربلا
 خون شہید حق سے باندھی شان کربلا

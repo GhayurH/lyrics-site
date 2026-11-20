@@ -8,9 +8,6 @@ poet: "Waheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:278100f3624e261c8239
-# source_url: https://tajpoints.com/2022/05/mere-dil-ki-sada-ya-hussain-sarwar-raza.html
-# raw_sha256: 3fabdc3f83d853852778efca6635a3e635221e48a2f24b43ce9f1042d6a2e579
 ---
 
 Mere Dil Ki Sada Ya Hussain Sarwar Raza Karbalai.

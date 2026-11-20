@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2a7c6a5164e8bb364213
-# source_url: https://www.nohawriteups.org/allah-ho-akbar-hy-mera-sona-akbar/
-# original_html: snapshots/nohawriteups/original_html/2a7c6a5164e8bb364213.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2a7c6a5164e8bb364213.json
-# api_content_sha256: d55f9bb752ec541584c1b0f0b75902b3566fa55e845f7b58c94ae65895a0e11c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Allah Ho Akbar, Hy Mera Sona Akbar

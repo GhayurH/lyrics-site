@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6d0757cec976c24a8e6e
-# source_url: https://tajpoints.com/2022/12/ghar-jalane-aye-hein-aqeel-abbas.html
-# raw_sha256: 8dfcfef4712324aac6a382ba2c7f8a710bd4a25655771e9003dfb2ed66884a6e
 ---
 
 1

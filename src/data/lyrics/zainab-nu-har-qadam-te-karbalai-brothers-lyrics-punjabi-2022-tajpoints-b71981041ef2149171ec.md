@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b71981041ef2149171ec
-# source_url: https://tajpoints.com/2022/08/zainab-nu-har-qadam-te-karbalai.html
-# raw_sha256: 455387333981731d3c3c554b7f7ed5540d7bf18e566ceb523ab669fa6d751407
 ---
 
 Zainab Nu Har Qadam Te Karbalai Brothers.

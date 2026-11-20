@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Taaziye uthe alam uthe utha farsh-e-aza
   Jis jagah majlis bapa thi Fatema thehri rahi
-# source_id: nohayonline:0b58eab1499857479d43
-# source_url: https://www.nohayonline.com/details_content.php?id=236
-# raw_sha256: 8f9f0c9e1527bfe78843e2744e0bfcc12544c491d77a1f3d05a89e790d61ac2e
 ---
 کربلا میں روز عاشورہ فضا ٹھہری رہی
 وہ تشنہ لب کا معجزہ ٹھہری رہی

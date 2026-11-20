@@ -82,12 +82,6 @@ romanLyrics: '1. Akbar haye Akbar haye Akbar
   Sadma badan ko akbar-e-zeeshan daitey hein
 
   Subh-e-azan daitey thay abb jan deite hein'
-# source_id: nohayonline:5fded37dca04336a977e
-# source_url: https://www.nohayonline.com/details_content.php?id=1377
-# raw_sha256: 906af4572ab9adfbd4654db6a0333d03254d9bc867d6cb036804aec35c8febb9
-# source_id: ziyaraat:013dae09c28fd55c41e9
-# source_url: https://www.ziyaraat.net/api/noha/1625
-# raw_sha256: 7728d84fc327bf3ba068aa36b5a9e3337c073c2ac984f86ab52442d1efa7dd5c
 ---
 
 اکبرؑ ہائے اکبرؑ ہائے اکبرؑ

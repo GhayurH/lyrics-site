@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1df1dfd472b334cd3e8a
-# source_url: https://tajpoints.com/2020/08/mere-waris-hain-karbala-walay-lyrics-in.html
-# raw_sha256: a590b66decb79a958601661df4f3b2a003353063fbfe6434862eb8d9bfa32557
 ---
 
 Rooh Mein Karbala Ki Aamad Hai.

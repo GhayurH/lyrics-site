@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3d7d7e908f9e8e204a98
-# source_url: https://tajpoints.com/2018/03/kahan-imkan-wehshat-ka-bhala-momin-ki.html
-# raw_sha256: 38348bb3e00e892a7df678653f1fc30e5d1b8938ed624b8bb69ef4967539b72b
-# source_title_original: Kahan Imkan Wehshat Ka Bhala Momin Ki Turbat Mein 2011
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Kahan Imkan Wehshat Ka Bhala Momin Ki Turbat Mein

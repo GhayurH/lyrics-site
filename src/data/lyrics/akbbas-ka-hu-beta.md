@@ -42,9 +42,6 @@ romanLyrics: |-
   Qurban hua Yawar Abbas ka shehzada
   Aur shukr ka Ghazi ne us waqt kiya sajda
   Maqtal se sada aai sad shukr mere Maula
-# source_id: nohayonline:635b880fab2399319416
-# source_url: https://www.nohayonline.com/details_content.php?id=2711
-# raw_sha256: 032f82788f6c23f273e5da11d34ec22ed5eeb70ced3277b11724f6303bbb6052
 ---
 انا ابن العباس
 میرا نام محمد ہے عباس کا ہوں بیٹا

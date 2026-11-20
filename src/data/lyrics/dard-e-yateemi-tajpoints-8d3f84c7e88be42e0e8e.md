@@ -8,9 +8,6 @@ poet: "Saleem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8d3f84c7e88be42e0e8e
-# source_url: https://tajpoints.com/2020/06/dard-e-yateemi-lyrics-in-urdu-and-roman.html
-# raw_sha256: bba53c4bee1a5fabbc3e3fece7eeac79158dca6cef2c2a73a4fd8549d0219234
 ---
 
 Aye Baba Sakina Ko Teri Sata Ke.

@@ -217,15 +217,6 @@ romanLyrics: 'Goonj rahi hai ye sada ya hussain
   Dediya sar khatm kiya apna kaam
 
   Deene nabi khoob bachaya hussain'
-# source_id: nohayonline:b313f312bd77d2716844
-# source_url: https://www.nohayonline.com/details_content.php?id=219
-# raw_sha256: 08bde2664e1152481b9f05d8dcc9f80b100b25226d18b443b5c05e8094196b25
-# source_id: nohawriteups:2a6778f5169a1cf68bb0
-# source_url: https://www.nohawriteups.org/goonj-rahi-hai-ye-sada-ya-hussain/
-# raw_sha256: 1bc575dd0685d8d3ce19c89effce3dfacfebf9e36a284ab71898f64acbf0cd94
-# source_id: ziyaraat:fda7346d8ee077c46057
-# source_url: https://www.ziyaraat.net/api/noha/1326
-# raw_sha256: 1837bea3331ca431073c4045850e6452766dda3bd4546f330cbc6be5c4f598b0
 ---
 
 گونج رہی ہے یہ صدا یاحسینؑ

@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0dc05bb8a5d674dd083e
-# source_url: https://tajpoints.com/2017/12/mera-kaba-najaf-ka-nagar-hai-our-najaf.html
-# raw_sha256: 5fe3a8f9b5afaebd9a21132ba1dd750532fbdd6561af2cf623ee3b2998689e03
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:22e1a24f4c4ff9accb6e
-# source_url: https://tajpoint.com/ruliyan-wich-bazaran-de-zahra-diyan-jaiyan/
-# raw_sha256: 48dfe81057ad50fdd36eb2308545d81c38f52417328a6212bd701552333125fb
 ---
 
 1

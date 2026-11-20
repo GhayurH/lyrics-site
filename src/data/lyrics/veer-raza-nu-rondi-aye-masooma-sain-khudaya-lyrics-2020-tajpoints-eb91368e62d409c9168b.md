@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eb91368e62d409c9168b
-# source_url: https://tajpoints.com/2023/06/veer-raza-nu-rondi-aye-masooma-sain.html
-# raw_sha256: 1d03f3619d53f1f6c77ed40fd0ed4b01c2ed8c54bd6b5f2f82c1ff00381b5e1e
 ---
 
 1

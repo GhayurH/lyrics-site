@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:55ebecad0b9fe9cc1734
-# source_url: https://www.nohawriteups.org/hookay-bharda-vaikhay-phuppiyan-di-lachari-sajjad-muhari/
-# original_html: snapshots/nohawriteups/original_html/55ebecad0b9fe9cc1734.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/55ebecad0b9fe9cc1734.json
-# api_content_sha256: 14fe0b2749df68c6052e6768f509059bd4018ece515ca096e25def0dcf79866d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Hookay Bharda Vaikhay Phuppiyan Di Lachari Sajjad Muhari

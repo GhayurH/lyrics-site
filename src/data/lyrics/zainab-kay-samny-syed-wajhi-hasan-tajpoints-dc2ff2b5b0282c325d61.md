@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dc2ff2b5b0282c325d61
-# source_url: https://tajpoints.com/2023/07/zainab-kay-samny-syed-wajhi-hasan.html
-# raw_sha256: a5076611cdccc8ebe0c0ae4c3712ff3ef272f0a1f4ca00b7b277d839959bd029
 ---
 
 1

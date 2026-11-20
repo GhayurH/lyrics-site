@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5f7b52e56aaf4e17f309
-# source_url: https://tajpoints.com/2017/02/aounas-di-maa-aye-aounas-nu-ro-samjhaway.html
-# raw_sha256: bc7dffd57e1f75220c96cb4bc17fd19ec87d96c27e0b5e741f8928e506b1b774
 ---
 
 1

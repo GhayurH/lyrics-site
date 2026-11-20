@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f7ca0ba91beec46b4e2e
-# source_url: https://tajpoints.com/2024/01/ali-banate-hain-syed-mohammad-shah.html
-# raw_sha256: c09d7442c57155cf767a816740db3b41a4786af9448a3ed48eff42bace32ee47
 ---
 
 1

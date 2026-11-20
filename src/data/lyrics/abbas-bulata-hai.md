@@ -64,9 +64,6 @@ romanLyrics: |-
   Rehaan ki Sarwar ki Maula se wafadari hai
   Abbas ke rauze pe noha liye aaye haiṅ
   Shahzadi Sakina ka nauha jo sunaata hai
-# source_id: nohayonline:3d4663daf855324bbf30
-# source_url: https://www.nohayonline.com/details_content.php?id=2587
-# raw_sha256: 800aba6a19c54a5d44f090d5764d15b4b39e80b442ac1771a5ffe956e71fd983
 ---
 
 درگاہ علمدار

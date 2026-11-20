@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cd49cbd547e973bbb746
-# source_url: https://tajpoints.com/2021/03/pak-raza-de-babay-nu-ainj-qaidi-aan.html
-# raw_sha256: 133e59c4178eeee56eb8ee9d409059a90cb2fa547a7542104cb58e6c6953bd3b
 ---
 
 1

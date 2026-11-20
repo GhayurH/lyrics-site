@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f5a004da05154950a211
-# source_url: https://www.nohawriteups.org/zindan-se-chutkar/
-# original_html: snapshots/nohawriteups/original_html/f5a004da05154950a211.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f5a004da05154950a211.json
-# api_content_sha256: 878fd7f1f70e63dd2c0f1b57296e2553fcacd1b5b06ac08f053497e94f9492db
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 karbala aagaye sadaat

@@ -111,17 +111,6 @@ romanLyrics: |-
   Sunwaao aawaaz dobaara
   Noha yehi tha Bano ke lab par
   Tum nahiṅ aaye
-# source_id: nohayonline:5d26a57329096e4b6368
-# source_url: https://www.nohayonline.com/details_content.php?id=292
-# raw_sha256: 54eff87cf3b7358ec4563fc05a19c5778921d6b985aa7bca5f7c6f169d963fb5
-# source_id: ziyaraat:c54410ceb23d2864db97
-# source_url: https://www.ziyaraat.net/api/noha/1327
-# raw_sha256: 6e7572317b7ebd0b518d30392c409bbd9c4e04e5ca129689c944309f3fb81fc7
-# source_id: nohawriteups:1e954f51466f172c915b
-# source_url: https://www.nohawriteups.org/nanhe-mujahid-ran-may/
-# original_html: snapshots/nohawriteups/original_html/1e954f51466f172c915b.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1e954f51466f172c915b.json
-# api_content_sha256: 8ff499319cdafe3cee69daa616f2651d0184d08fab424a304ef31b0ed0b31cc7
 ---
 ننھے مجاہد رن میں جا کر
 تم نہیں آئے

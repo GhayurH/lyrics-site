@@ -58,9 +58,6 @@ romanLyrics: |-
   Ae sharar naqvi shadman kaho
   Ye alam aasmaṅ banata hai
   Jo bhi parcham...
-# source_id: nohayonline:592b1c60b20de141ff05
-# source_url: https://www.nohayonline.com/details_content.php?id=3729
-# raw_sha256: 32c3d39043bfdbc2ac519052daa3b95c0fb9d79b0de8d2a0fadc944211cadfde
 ---
 
 ۱

@@ -43,9 +43,6 @@ romanLyrics: |-
   Konain may chaya sannata
   Beshir lahu may kiya duba
   Quran ka para dub gaya
-# source_id: ziyaraat:59d119bf8889aa86224a
-# source_url: https://www.ziyaraat.net/api/noha/2232
-# raw_sha256: d37a74130a5b8cf1e268a666822dcd9443d0ee8cd82d3af36aa933e8255c806f
 ---
 
 ۱

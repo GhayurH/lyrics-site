@@ -8,9 +8,6 @@ poet: "Ijaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:035bab4c727ae5fa4074
-# source_url: https://tajpoints.com/2023/06/teri-lash-salamat-aayi-nayi-kiwein.html
-# raw_sha256: c1e1dae46aad3b4049ca3552f75037ca19e556a0401bb913f256bc6cd25dfe88
 ---
 
 1

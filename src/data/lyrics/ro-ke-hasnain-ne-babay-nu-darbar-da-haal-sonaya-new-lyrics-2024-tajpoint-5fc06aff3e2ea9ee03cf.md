@@ -8,9 +8,6 @@ poet: "Yousuf"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:5fc06aff3e2ea9ee03cf
-# source_url: https://tajpoint.com/ro-ke-hasnain-ne-babay-nu-darbar-da-haal-sonaya/
-# raw_sha256: f553841f5b58955c3ad18645bd94db81c2c4fca889628e73145c7b9aec03c85a
 ---
 
 Ro Ke Hasnain Ne Babay Nu Darbar Da Haal Sonaya.

@@ -50,9 +50,6 @@ romanLyrics: |-
   Adalat mein khaaliq ki aati hai zehra
   Nazre jhuki hai sab ki nabiyoṅ ke laboṅ par hai
   Allah ye kaisa…
-# source_id: nohayonline:e408eb43d39e82cdf504
-# source_url: https://www.nohayonline.com/details_content.php?id=287
-# raw_sha256: 6d75cec961f7edb8d6e2152b93283fbcb2d15d3b9691f8e8498e728bcc4b22e6
 ---
 
 ۱

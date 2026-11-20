@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohayonline:090b49ee30424f596fef
-# source_url: https://www.nohayonline.com/details_content.php?id=2750
-# raw_sha256: 9b932e58dd1629e14e5d295260a2ac89a6f884c9fe66a827d9411f419f1c640d
-# source_title_original: Zaeefa kaun ho
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
-# editorial_warning: source Urdu HTML duplicates Roman; intentionally excluded
 ---
 
 safar mein naiza jab zaalim ne maara

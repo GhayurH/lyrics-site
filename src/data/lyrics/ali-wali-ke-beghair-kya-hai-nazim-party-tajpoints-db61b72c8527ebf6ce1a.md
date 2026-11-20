@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:db61b72c8527ebf6ce1a
-# source_url: https://tajpoints.com/2024/03/ali-wali-ke-beghair-kya-hai-nazim-party.html
-# raw_sha256: 5839cce6c21225838aa18e160752392b186d58783790f62eac9a3b04ac4791f6
 ---
 
 Ali Wali Ke Beghair Kya Hai Nazim Party.

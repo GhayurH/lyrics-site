@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2b88bfd503ab440311a5
-# source_url: https://tajpoints.com/2018/03/ali-haider-e-karrar.html
-# raw_sha256: 435810a11c85bb51dbf4fa12cda0f0342c9d7693f33988855346093645a7af4b
 ---
 
 Hai Aaj Bhi Ghaibat Mein Yadullah Ki Talwar.

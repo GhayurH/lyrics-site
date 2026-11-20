@@ -8,9 +8,6 @@ poet: "Qaiser"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b1005fb78fdc83e69501
-# source_url: https://tajpoints.com/2022/05/sajde-mai-thay-ali-qaiser-abbas-lyrics.html
-# raw_sha256: 290332e5ecee6d9df37180847510a3fbce1b17d02c6780890197134f40607139
 ---
 
 1

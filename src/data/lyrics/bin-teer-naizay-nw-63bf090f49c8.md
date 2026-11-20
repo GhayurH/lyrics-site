@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:63bf090f49c849ac6010
-# source_url: https://www.nohawriteups.org/bin-teer-naizay/
-# original_html: snapshots/nohawriteups/original_html/63bf090f49c849ac6010.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/63bf090f49c849ac6010.json
-# api_content_sha256: 76e62646f1525f5275c610f79d69104a9d3a46da7bfcadfff2f22592ea110ebd
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Bin Teer Naizay Talwaran Day Zainab Islam Bachaya Ay

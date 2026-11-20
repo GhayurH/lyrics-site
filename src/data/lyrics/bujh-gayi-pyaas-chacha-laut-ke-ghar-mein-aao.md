@@ -84,12 +84,6 @@ romanLyrics: 'Bujhgayi pyaas chacha laut ke ghar may aao
   Saath rehaan wo paigham yehi laata hai
 
   Mai hoo zindan may chacha laut ke ghar may aao'
-# source_id: nohayonline:361f631c52c4ed9f26fe
-# source_url: https://www.nohayonline.com/details_content.php?id=365
-# raw_sha256: 9a9698ab4bb355ba4e9958b406228ad186b0ec1a90caae7878e38e75907bb58c
-# source_id: ziyaraat:21e9128906595d8d44d0
-# source_url: https://www.ziyaraat.net/api/noha/365
-# raw_sha256: dcffae5e24c42ecfd4bcb3935fcfbbd7bfdae04fb2c6893e023e8021e6366c44
 ---
 
 بجھ گئی پیاس چچا، لَوٹ کے گھر میں آئو

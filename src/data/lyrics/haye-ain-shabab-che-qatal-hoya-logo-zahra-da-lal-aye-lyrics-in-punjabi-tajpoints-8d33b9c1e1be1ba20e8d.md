@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8d33b9c1e1be1ba20e8d
-# source_url: https://tajpoints.com/2023/09/haye-ain-shabab-che-qatal-hoya-logo.html
-# raw_sha256: 37d5682bb5bd4416c7d426da61bebddc7b2bb010e5a6abda6510933d7989221e
 ---
 
 1

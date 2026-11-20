@@ -39,9 +39,6 @@ romanLyrics: |-
   7
   7) Johar diyan sun mola duawan, Har waqt devay ayho sadawan
   Karbobala di dharti tay mola Gham khawar tera babe qaza ay
-# source_id: ziyaraat:deca4bd216652a6d4aee
-# source_url: https://www.ziyaraat.net/api/noha/244
-# raw_sha256: f96cea86d38cb253d35ad4101bccc66a184a923a668ab828af9475a39d592dd9
 ---
 
 بابُ الحوائج حیدرؑ دا لعل اے

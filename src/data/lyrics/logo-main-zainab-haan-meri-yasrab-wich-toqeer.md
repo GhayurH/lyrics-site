@@ -7,18 +7,6 @@ kalamType: "Noha"
 tags: ["Panjabi"]
 aliases: []
 published: false
-# source_id: tajpoints:5fc9af0525a92e49481d
-# source_url: https://tajpoints.com/2023/09/logo-main-zainab-haan-meri-yasrab-wich.html
-# raw_sha256: 4fced412ce4b22c022cc8dd6d5c2da996104edfe3bf6f983d429e7a524aa5e01
-# source_title_original: Logo Main Zainab Haan Meri Yasrab Wich Toqeer 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
-# additional_source_id: nohawriteups:3ac54d3a10213d8713e6
-# additional_source_url: https://www.nohawriteups.org/2-muharram-2024-i-najaf-i-guldasta-e-jafferia-i-logo-main-zainab-han-meri-yasrub-vich-i-noha-matam/
-# additional_raw_sha256: de7191d1eedaf4cf0f9c2a3ef71a7c8d3fb2ba790eb834c027507d2ccd45c4fc
-# additional_source_id: nohawriteups:ba12d1e166cc26867e93
-# additional_source_url: https://www.nohawriteups.org/8-muharram-2024-i-logo-main-zainab-haan-i-mimber-e-raisi-i-imam-hussain-as-i-guldasta-e-jafferia/
-# additional_raw_sha256: ce1c6aeb91754f0cfb156408d9d5d70db0113614a10a15db1a109f9f34bac4c7
-# editorial_note: Punjabi original Urdu-script reading, manually aligned to retained 12-line Roman source; final verification pending.
 romanLyrics: |-
   Logo Maiṅ Zainab Haaṅ Meri Yasrab Wich Toqir Hondi Si
   Jadoṅ Ghazi Jiyonda Si Mera Mere Sir Di Chadar Tathir Hondi Si

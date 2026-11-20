@@ -8,9 +8,6 @@ poet: "Jary"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f5ec8821c02c8ccb742
-# source_url: https://tajpoints.com/2025/02/hussain-ka-sajda-syed-mudassir-mehdi.html
-# raw_sha256: 4dacdc2fcf2802b3cb2abc71b2f496a9e44e1928ae5a5b820ca929eb0e903d9c
 ---
 
 Hussain Ka Sajda Syed Mudassir Mehdi.

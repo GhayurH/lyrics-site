@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:4bfc933155e1b5f203b2
-# source_url: https://tajpoint.com/pardes-che-dafan-hoye-haye-logo-bhain-bhira/
-# raw_sha256: db1dfcc031765a34fe9ff593ac4084404b87759a7b34ccb1d3ed37bed1e09efd
 ---
 
 1

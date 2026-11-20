@@ -8,9 +8,6 @@ poet: "Nisa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d9750c7237e2eed68c7b
-# source_url: https://tajpoints.com/2024/07/mere-abbas-wajhi-hasan-zaidi-lyrics-urdu.html
-# raw_sha256: 8b3a428d2b9962f3c2f7bfe3949604ddcdce737890de95b973c5a35d09372b86
 ---
 
 1

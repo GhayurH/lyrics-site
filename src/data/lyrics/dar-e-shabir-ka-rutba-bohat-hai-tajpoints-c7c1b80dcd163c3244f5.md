@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c7c1b80dcd163c3244f5
-# source_url: https://tajpoints.com/2017/02/dar-e-shabiras-ka-rutba-bohat-hai.html
-# raw_sha256: f3d5cc630328aa670d8ae77792e317f0230ef8f3b7fbe5e9799ff820b58020ee
 ---
 
 1

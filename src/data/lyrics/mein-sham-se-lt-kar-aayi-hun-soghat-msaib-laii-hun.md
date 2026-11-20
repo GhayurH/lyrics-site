@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:874ace24dae625ad08a9
-# source_url: https://www.ziyaraat.net/api/noha/1624
-# raw_sha256: e4da1d303942bd8c5a6b1c75a57131f059bf77525bb18f58871cf6c69b632462
-# source_id: ziyaraat:90fea03437adcd8e4f2f
-# source_url: https://www.ziyaraat.net/api/noha/1650
-# raw_sha256: 05420bcfe1f432d8cc8561fe0605fe92b03e8d2ef16131ebcf2c262edd3a9146
 ---
 
 Ya Abbas

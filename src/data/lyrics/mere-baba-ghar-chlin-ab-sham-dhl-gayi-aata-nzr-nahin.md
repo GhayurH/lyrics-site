@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:5e181ea2ab0e7aa0d616
-# source_url: https://www.ziyaraat.net/api/noha/199
-# raw_sha256: 24f4f7e8ff7382b465e53b9dbff70151e27b8b8e6cf7c0684c62aac6d0266c73
 ---
 
 Meray baba ghar chalain ab sham dhal gayi aata nazar nahi

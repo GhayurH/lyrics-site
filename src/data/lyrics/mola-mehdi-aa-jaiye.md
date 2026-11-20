@@ -73,12 +73,6 @@ romanLyrics: |-
   Hai Sibt-e-Jafar ki bhi iltija
   Kijiye talab ab hameṅ Ya Imam
   Ya aap tashrif le aaiye
-# source_id: tajpoints:11400b63937bc6356aec
-# source_url: https://tajpoints.com/2017/05/mola-mehdi-aa-jaiye-1-4.html
-# raw_sha256: 79e6d3b02388ea60f116cc4410284510593de16ecd61d31a3dc51691ce63ce47
-# source_id: tajpoints:4974c549e90eef934746
-# source_url: https://tajpoints.com/2017/05/mola-mehdi-aa-jaiye-5-8.html
-# raw_sha256: ec5170d58fbc0379f46d03c60b2b8f2f8e525975043bf5f561b01e95f458f564
 ---
 
 منتظر کب تلک میں رہوں اے امام

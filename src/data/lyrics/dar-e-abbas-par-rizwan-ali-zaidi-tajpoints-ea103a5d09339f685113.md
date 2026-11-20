@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ea103a5d09339f685113
-# source_url: https://tajpoints.com/2025/02/dar-e-abbas-par-rizwan-ali-zaidi-lyrics.html
-# raw_sha256: d2865b44cb5ec359fb4abe3d7e18b6f1320f528a909ac6b680006d84d569f361
 ---
 
 1

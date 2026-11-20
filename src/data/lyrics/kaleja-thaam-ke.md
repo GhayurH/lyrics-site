@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Parha jab anjuman ne Shaah-e-waala ka Raza nauha
   To ghamgiṅ ho gaya maahaul saara ae Ali Akbar
-# source_id: nohayonline:06a915ce699a1da7b794
-# source_url: https://www.nohayonline.com/details_content.php?id=1985
-# raw_sha256: 73b74aa3ea3913dff22788087515a380c2188d340db63c5f08915d9b37ce7bc9
 ---
 کلیجہ تھام کے شہ نے پکارا اے علی اکبر
 میں دیکھوں کس طرح جانا تمہارا اے علی اکبر

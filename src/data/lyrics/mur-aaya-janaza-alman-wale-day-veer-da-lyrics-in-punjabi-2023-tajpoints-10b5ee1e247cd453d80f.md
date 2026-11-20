@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:10b5ee1e247cd453d80f
-# source_url: https://tajpoints.com/2023/09/mur-aaya-janaza-alman-wale-day-veer-da.html
-# raw_sha256: 8917cd3df26dd32640bf86d798012a538c1cf21a7acfaf41c2a79d62404af16e
 ---
 
 Mur Aaya Janaza Alman Wale Day Veer Da.

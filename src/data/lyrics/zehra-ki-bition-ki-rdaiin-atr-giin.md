@@ -50,15 +50,6 @@ romanLyrics: |-
   9
   Haathoṅ meiṅ hai Quraan aur bughz-e-Ali pe dil
   Kiuṅ haafizoṅ ke dil se hadiseṅ utar gayiṅ
-# source_id: nohayonline:cb38d3ca1c444d681765
-# source_url: https://www.nohayonline.com/details_content.php?id=663
-# raw_sha256: afbdbf323c1a2da4640aa0ed448a9645492b048c957c7d20323e4f47f1f44e2a
-# source_id: ziyaraat:57012a6ef0c83cdb1da2
-# source_url: https://www.ziyaraat.net/api/noha/1023
-# raw_sha256: 99e6393c9d48c3430df11999d9cf8868f551d4a738aa6e0ebefb7c42ebb35210
-# source_id: ziyaraat:5d9590587bcf26f519c2
-# source_url: https://www.ziyaraat.net/api/noha/1752
-# raw_sha256: 5460dc7090a7f32739eb15de86249d174cd2c05324ca07a9850f242c243973b7
 ---
 
 امت نے دیا ہے کیا اجرِ رسالت

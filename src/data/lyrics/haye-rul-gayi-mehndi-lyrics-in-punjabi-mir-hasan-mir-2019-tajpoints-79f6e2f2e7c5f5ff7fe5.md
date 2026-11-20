@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:79f6e2f2e7c5f5ff7fe5
-# source_url: https://tajpoints.com/2019/09/haye-rul-gayi-mehndi-lyrics-in-punjabi.html
-# raw_sha256: 64f60f85ae8ea015d1e24036cda6acac164336eaa3be137a3876cd4a941c9852
 ---
 
 Haye Rul Gayi Mehndi Lyrics In Punjabi Mir Hasan Mir

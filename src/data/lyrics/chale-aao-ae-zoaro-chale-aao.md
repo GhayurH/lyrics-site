@@ -196,9 +196,6 @@ romanLyrics: |-
   Tum ho dil-e-Zainab-e-Kubra ka chain
   Kehte raho kehte raho Ya Husain
   Sayyadena Sayyadena Ya Husain
-# source_id: ziyaraat:b284d1d5f466d4439872
-# source_url: https://www.ziyaraat.net/api/noha/1005
-# raw_sha256: 56be0b4cd3b1727e4eed5ea410531ab283e8768c759247c16a9e1c409e09cc4e
 ---
 
 چلے آؤ، چلے آؤ، چلے آؤ

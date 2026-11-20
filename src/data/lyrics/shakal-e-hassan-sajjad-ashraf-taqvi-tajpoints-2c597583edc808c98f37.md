@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2c597583edc808c98f37
-# source_url: https://tajpoints.com/2022/04/shakal-e-hassan-sajjad-ashraf-taqvi.html
-# raw_sha256: 9feb1fbd02f634870c8f21fd66ad583a884a20cf0a05f2cfdf02dc5fbbdc0b2e
 ---
 
 1

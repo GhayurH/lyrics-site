@@ -57,9 +57,6 @@ romanLyrics: |-
   Maahir ajr-e-Payambar aansuṅ
   Ho jo kisi ke aise aansuṅ
   Saamne mere aaye
-# source_id: nohayonline:7dafd81e7ea96040d71c
-# source_url: https://www.nohayonline.com/details_content.php?id=1214
-# raw_sha256: 022c68f158cd364d8e9325e02da366eb1f89de3bea37e28ff48cb6bc559a93a4
 ---
 
 کیسے نہ نکلے آنکھ سے آنسوں

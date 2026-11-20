@@ -8,9 +8,6 @@ poet: "Hilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c457a406d344ada39446
-# source_url: https://tajpoints.com/2021/03/kab-aaoge-mola-mesum-abbas-lyrics-in.html
-# raw_sha256: f490cf390634a74ef1cf52adc419f169f44160a5d8b84b57bf18af9e13e3bc54
 ---
 
 1

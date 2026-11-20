@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e5b1f6badfe4bd2a5318
-# source_url: https://tajpoints.com/2019/09/rubab-kehti-thi-asghar-kamal-kar-dena.html
-# raw_sha256: eabea395088bb566b51840fc61c2ceb4782c87a628bfd448b61db3d288c49f00
 ---
 
 Rubab Kehti Thi Asghar Kamal Kar Dena.

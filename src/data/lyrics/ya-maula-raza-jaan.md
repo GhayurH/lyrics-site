@@ -94,9 +94,6 @@ romanLyrics: |-
   Ae saakin-e-Mashhad teri mitti meiṅ hai aalam
   Wajd meiṅ rehta huṅ jab Ali kehta huṅ
   Phir khatm kiya maiṅ ne dil kehta hai Quraaṅ
-# source_id: nohayonline:63848a873ec878815a7a
-# source_url: https://www.nohayonline.com/details_content.php?id=3679
-# raw_sha256: f66c415dc1981784f6c5994cc1c01034b2dadf4bde94de5b74ff33b7080d63fb
 ---
 شاہ خراساں وارث قرآں یا مولا رضا جان
 

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ea85ea7a16075d397c9f
-# source_url: https://tajpoints.com/2022/10/hussain-nu-gham-shehar-shehar-chey.html
-# raw_sha256: c39c67ce79570a8e44f1c8d879af4c05b864485bbfe9800f4029425a3bd00283
 ---
 
 1

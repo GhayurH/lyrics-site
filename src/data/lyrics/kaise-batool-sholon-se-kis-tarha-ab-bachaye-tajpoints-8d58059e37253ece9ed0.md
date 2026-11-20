@@ -8,9 +8,6 @@ poet: "Salamat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8d58059e37253ece9ed0
-# source_url: https://tajpoints.com/2023/06/kaise-batool-sholon-se-kis-tarha-ab.html
-# raw_sha256: f57a3f941347ea324aade40a827a052b7fd6301e40801ff021f988889a9b54f3
 ---
 
 Kaise Batool Sholon Se Kis Tarha Ab Bachaye.

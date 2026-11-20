@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:0b6b19c1d7daf8903504
-# source_url: https://tajpoint.com/jiyondi-reh-gayi-te-mera-wadah-aye-watna-te-veer-main/
-# raw_sha256: 97587afea1dc7beb3f7bd886289cfd3e5394f0eb95043376b5429081cfc0bae6
 ---
 
 1

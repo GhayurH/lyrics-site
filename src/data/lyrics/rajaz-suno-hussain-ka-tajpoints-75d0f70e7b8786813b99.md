@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:75d0f70e7b8786813b99
-# source_url: https://tajpoints.com/2018/03/rajaz-suno-hussain-ka.html
-# raw_sha256: 2ea8bcf2e6cf591285ecc6769904e8b02d8a3037a31a129ee5659943d77da4f2
 ---
 
 1

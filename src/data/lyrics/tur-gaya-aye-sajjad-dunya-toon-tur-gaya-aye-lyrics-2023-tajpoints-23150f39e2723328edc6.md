@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:23150f39e2723328edc6
-# source_url: https://tajpoints.com/2023/05/tur-gaya-aye-sajjad-dunya-toon-tur-gaya.html
-# raw_sha256: f20a37242ffe1b92ee3aadf59e43b1f94cb0499937eac1f9358450830d89aaf8
 ---
 
 1

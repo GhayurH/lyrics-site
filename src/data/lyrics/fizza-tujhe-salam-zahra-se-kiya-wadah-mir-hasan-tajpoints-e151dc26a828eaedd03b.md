@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e151dc26a828eaedd03b
-# source_url: https://tajpoints.com/2017/02/zahrasa-se-kiya-wadah-nibhati-rahi.html
-# raw_sha256: e948a3010ee98aeae785d517310b13481a73470b8560794bf99e2de45ee0a622
 ---
 
 1

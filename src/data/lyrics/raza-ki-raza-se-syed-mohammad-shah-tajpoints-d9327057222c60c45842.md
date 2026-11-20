@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d9327057222c60c45842
-# source_url: https://tajpoints.com/2026/04/raza-ki-raza-se-syed-mohammad-shah.html
-# raw_sha256: 00cf90fa7311052b9f952c6356113561c15eab148d451a5e15d1e6df5378989d
 ---
 
 1

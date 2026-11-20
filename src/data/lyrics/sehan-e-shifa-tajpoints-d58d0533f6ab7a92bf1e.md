@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d58d0533f6ab7a92bf1e
-# source_url: https://tajpoints.com/2020/06/sehan-e-shifa-lyrics-in-urdu-and-roman.html
-# raw_sha256: bf2af78a4916e456a8fd847f0bef3e93fff8048a2f0a1df831b0491cd9bcbe8f
 ---
 
 Sare Aalam Ka Maseeha Hai Tera Sehan-e-Shifa Aye Ghareeb-Ul-Gurba.

@@ -54,12 +54,6 @@ romanLyrics: |-
   Mir Sajjad jo jalta hua darwaza gira
   Al madad Fizza se pehle meri Bibi boli
   Al ajal Ya Mehdi
-# source_id: nohayonline:8af14ad1567173c40f40
-# source_url: https://www.nohayonline.com/details_content.php?id=1304
-# raw_sha256: 6a461069736e3324f061a8a122cbff15bb01e5574dcbbaec9a2e5aae5bb3bc72
-# source_id: tajpoints:1d8cac849b0e0823306e
-# source_url: https://tajpoints.com/2022/12/al-ajal-ya-mehdi-mesum-abbas-lyrics-in.html
-# raw_sha256: 8155056c590db2a2ef8beabe5643ae0359244bd0ee89298c623ed91689d2e9d1
 ---
 رو کے زہرا یہ پکاری العجل یا مہدی
 مجھ پہ دروازہ گرا توڑ دی پسلی میری

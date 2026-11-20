@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2d4884c793ea319159f7
-# source_url: https://www.ziyaraat.net/api/noha/2661
-# raw_sha256: cf040caee08ed5401a77b93b07f02db6d1a8345e16d733fd154d57aa25e9d313
 ---
 
 لا الہ الاللہ، لا الہ الاللہ

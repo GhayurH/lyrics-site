@@ -8,9 +8,6 @@ poet: "Qaiser"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5cb86eafecd61ca2db5a
-# source_url: https://tajpoints.com/2022/04/logo-janaza-hai-ye-daamad-e-mustafa-ka.html
-# raw_sha256: fa034dd7859e18e6777ef41489999fbbb29d1a6964b31565ad97c8526c4392c0
 ---
 
 1

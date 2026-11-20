@@ -82,9 +82,6 @@ romanLyrics: |-
   Shabbir ki dukhtar ae Waiz
   Jab aap ko lagte hai durre
   Chalta hai mere dil par khanjar
-# source_id: nohayonline:19c20244412aec899412
-# source_url: https://www.nohayonline.com/details_content.php?id=3159
-# raw_sha256: d9e47d460f6d6de26135ee58147a45c4b878ab1148252c7b5ace2e7500ee6289
 ---
 
 زندان ستم میں کہتی تھی

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ec11b0e78ec9ec90ad78
-# source_url: https://www.nohawriteups.org/khol-di-ay-beemar-gharan-de-jhandre-kadi-band-kardi/
-# original_html: snapshots/nohawriteups/original_html/ec11b0e78ec9ec90ad78.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ec11b0e78ec9ec90ad78.json
-# api_content_sha256: 0beb24757c3e61825082332c5e35f6e7d29e41a92be8e12122730f6c39cc154b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Khol Di Ay Beemar Gharan De Jhandre Kadi Band Kardi

@@ -61,12 +61,6 @@ romanLyrics: |-
   Nasir parha jo maiṅ ne dil khud ba khud pukara
   Lazim hai ab to matam
 reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
-# source_id: nohayonline:be567df2a3c7f1e53cb3
-# source_url: https://www.nohayonline.com/details_content.php?id=84
-# raw_sha256: 1734f452db23beca558f471756c91e60385cdff8648c38167588ff6cac8b9485
-# source_id: ziyaraat:4ea343f092a882934520
-# source_url: https://www.ziyaraat.net/api/noha/2350
-# raw_sha256: c426c9a46e46199ba4e976aa0e32a8a92e01cee3ea11acf7b0732c4ea61fc66e
 ---
 
 جب آ گئی شامِ غریباں بپا ہوا ماتم

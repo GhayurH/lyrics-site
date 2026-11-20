@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1d422c2338fd0e9846c5
-# source_url: https://tajpoints.com/2023/05/ghazi-tere-beghair-asghar-khan-lyrics.html
-# raw_sha256: c22d8a91145472d72add91ec1462c7c69bde246ca89c832dda37e626819fddbc
 ---
 
 Ghazi Tere Beghair Asghar Khan Lyrics Punjabi

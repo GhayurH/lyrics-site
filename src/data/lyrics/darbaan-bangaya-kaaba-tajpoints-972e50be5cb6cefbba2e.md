@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:972e50be5cb6cefbba2e
-# source_url: https://tajpoints.com/2021/02/darbaan-bangaya-kaaba-lyrics-in-urdu.html
-# raw_sha256: e2fa3b8bb21e9e188844be9fd5fae60a4d447c4468f2302c2b83941a1e8d9114
 ---
 
 1

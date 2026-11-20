@@ -187,12 +187,6 @@ romanLyrics: |-
   Wawaila Sad Wawaila
 
   Lyrics in Urdu text
-# source_id: nohawriteups:ea46825b62dbca51e2db
-# source_url: https://www.nohawriteups.org/main-zainab-hoon-saraiki-punjabi-nadeem-sarwar/
-# original_html: snapshots/nohawriteups/original_html/ea46825b62dbca51e2db.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ea46825b62dbca51e2db.json
-# api_content_sha256: 1415d2741482f1a363d836cad4d8da489734428059a4750ca45be48a81639542
-# editorial_note: Unpublished source-faithful draft from approved valid roman+Saraiki/Punjabi; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review; Panjabi language label requires review; source language is nonstandard and requires editor review.
 ---
 
 واویلا سد واویلا

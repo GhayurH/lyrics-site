@@ -78,9 +78,6 @@ romanLyrics: |-
   Ashk barsa ke wo ye kehti thi
   Kitne khanjar chale mere dil par
   Ek Abbas tere jaane se
-# source_id: nohayonline:4a7fab04a45776666bbf
-# source_url: https://www.nohayonline.com/details_content.php?id=1767
-# raw_sha256: 402f3e8c71f89bca4a91511943ca27bff08ab4b601cb9cf21fd7d0568d0ec851
 ---
 
 اک عباس تیرے جانے سے

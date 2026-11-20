@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d5412ea36d366a995aee
-# source_url: https://tajpoints.com/2018/08/aye-karbala-ke-waris-phir-karbala-bapa.html
-# raw_sha256: 031dd2a8c50bbf333c80c4e824f57c58d53c0488a24896ba1e0b17446f1e9bd0
 ---
 
 1

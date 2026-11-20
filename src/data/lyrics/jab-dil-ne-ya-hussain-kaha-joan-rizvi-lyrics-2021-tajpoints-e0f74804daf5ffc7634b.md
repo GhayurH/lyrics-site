@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e0f74804daf5ffc7634b
-# source_url: https://tajpoints.com/2022/03/jab-dil-ne-ya-hussain-kaha-joan-rizvi.html
-# raw_sha256: cc0bc81942e429428a6647beedde12efe2b64b95d4fd5e10db5d619be80c9c26
 ---
 
 1

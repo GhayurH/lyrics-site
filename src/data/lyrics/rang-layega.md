@@ -70,9 +70,6 @@ romanLyrics: |-
   Hoga har zabaṅ par Husain zindabad
   Zulm ye sadayeiṅ sun ke tilmilayega
   Rang layega zarur...
-# source_id: nohayonline:d920da1d0610797af7d3
-# source_url: https://www.nohayonline.com/details_content.php?id=2457
-# raw_sha256: 1413d5bfb3050a9d955c40296b65fb6d053cb066ec273be7ecdd59e62dad8f42
 ---
 
 ۱

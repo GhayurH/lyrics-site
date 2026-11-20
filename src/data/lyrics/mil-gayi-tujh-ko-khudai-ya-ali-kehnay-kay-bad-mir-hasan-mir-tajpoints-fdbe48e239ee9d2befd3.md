@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fdbe48e239ee9d2befd3
-# source_url: https://tajpoints.com/2018/04/mil-gayi-tujh-ko-khudai-ya-ali-kehnay.html
-# raw_sha256: 8fd5e4ac0a4dbadcf7d47f5482f35f56719220eea5aa44eb1f14eed60c8d03f1
 ---
 
 1

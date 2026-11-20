@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f49e1834405f802e5dd2
-# source_url: https://www.nohawriteups.org/lavay-khabraan-koi-beemaar-diyaan-mein/
-# original_html: snapshots/nohawriteups/original_html/f49e1834405f802e5dd2.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f49e1834405f802e5dd2.json
-# api_content_sha256: 896fa57dad3431d89c1beaf595e8de008b78aa13fcabe949043a576841933c69
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Lavay Khabraan Koi Beemaar Diyaan Mein Thak Pai’yaan

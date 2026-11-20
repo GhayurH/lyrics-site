@@ -48,9 +48,6 @@ romanLyrics: |-
   Hum naala kunaṅ Maajid hum pairav-e-Sarwar hai
   Hum maatami Akbar ke hum naasir-e-Asghar hai
   Maatam meiṅ hi karte haiṅ hum umr basar logoṅ
-# source_id: nohayonline:f767f9a8576f75fe1f6c
-# source_url: https://www.nohayonline.com/details_content.php?id=2341
-# raw_sha256: 5a86926efa4eded04512ca1f03e52f37d6f4cf37a71a6f0e7903ab7a3dbcec03
 ---
 ہے بیٹیاں زہرا کی کوفے کا نگر لوگوں
 چادر کی جگہ سر پر ہے خاک سفر لوگوں

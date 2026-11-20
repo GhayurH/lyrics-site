@@ -64,9 +64,6 @@ romanLyrics: |-
   Har dam yehi dua hai takallum ye meri khwaab
   Khaake dar e Husain meiṅ ho zam khuda kare
   Qaim rahe ye majlis...
-# source_id: nohayonline:690492aee27264ac1681
-# source_url: https://www.nohayonline.com/details_content.php?id=3634
-# raw_sha256: 4966cec6aade92e06b2ce39f047632f067eb394053e10d9bfbfadc177f7fdf2d
 ---
 
 ۱

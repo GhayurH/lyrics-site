@@ -68,9 +68,6 @@ romanLyrics: |-
   Akhtar ghamoṅ meiṅ dube haiṅ Sughra ke waaqiaat
   Aamir bayaan karta hai roti hai kaainaat
   Sughra ki daastaan ajib o gharib hai
-# source_id: nohayonline:a69373fbc501d3372765
-# source_url: https://www.nohayonline.com/details_content.php?id=1787
-# raw_sha256: db6b388f6c7b9d8732d70207cc2a38dd7f58a87605539e4b9d31e85a654635ef
 ---
 صغرا سے تو سکینہ بڑی خوش نصیب ہے
 رہ کر مسافرت میں بھی سب کے قریب ہے

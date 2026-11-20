@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:772605a231a3face56f9
-# source_url: https://tajpoints.com/2022/08/barchi-zawwar-syed-hasnain-abbas-al.html
-# raw_sha256: 9bfb8debe1ab60446f17c559c16dc6abd2c49df46d75e94356feeba5b95a696c
 ---
 
 Barchi Zawwar Syed Hasnain Abbas Al Hasani.

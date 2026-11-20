@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8943b532ceb625e28c97
-# source_url: https://tajpoints.com/2023/06/haye-shabbir-ka-sar-aise-charha-naizay.html
-# raw_sha256: a43ace445ec693090f9308ea4df12469a833177f649a88971a1ae914585eb121
 ---
 
 Haye Shabbir Ka Sar Aise Charha Naizay Par.

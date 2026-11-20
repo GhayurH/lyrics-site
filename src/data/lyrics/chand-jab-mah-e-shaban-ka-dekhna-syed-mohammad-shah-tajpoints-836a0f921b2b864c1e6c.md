@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:836a0f921b2b864c1e6c
-# source_url: https://tajpoints.com/2022/03/chand-jab-mah-e-shaban-ka-dekhna-syed.html
-# raw_sha256: 822e85d2ab6df5fbc39c89d5f37508c8448e8200999a9c881ed1306a4d609773
 ---
 
 Chand Jab Mah-e-Shaban Ka Dekhna Syed Mohammad Shah.

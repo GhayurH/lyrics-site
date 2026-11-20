@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:682c773a13cd77404b5c
-# source_url: https://tajpoints.com/2023/06/tere-lal-da-janaza-aya-aye-mur-ke-nana.html
-# raw_sha256: 804142d0dd82776e4efed32e4568167d96223266eefea0211f3affab0149c6d7
 ---
 
 1

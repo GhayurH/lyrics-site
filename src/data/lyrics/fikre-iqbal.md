@@ -38,9 +38,6 @@ romanLyrics: |-
   Nishane matame shabbir hai sadiyoṅ ke sine par
   Bataya hazrate iqbal aur rehaan ne mil kar
   Ho ab khamosh har tehrir har taqrir ho jaye
-# source_id: nohayonline:8c726aa22d5ae3467db8
-# source_url: https://www.nohayonline.com/details_content.php?id=2548
-# raw_sha256: 41bbbc9af39f0f0044b2af9893e1d4790b3e42345ad131506120bc7a0c37a749
 ---
 بیاں سرِ شہادت کی اگر تفسیر ہو جاے
 مسلمانوں کو قبلہ روضہء شبیر ہو جاے

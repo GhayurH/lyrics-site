@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1c7efe85aeb1c4f572c5
-# source_url: https://tajpoints.com/2020/11/haye-sajjad-ne-bazaraan-de-kiwein-safar.html
-# raw_sha256: 26e2afa70e187edad3bfeccf4376776ed235bc5525e24be87218fd71ed288332
 ---
 
 1

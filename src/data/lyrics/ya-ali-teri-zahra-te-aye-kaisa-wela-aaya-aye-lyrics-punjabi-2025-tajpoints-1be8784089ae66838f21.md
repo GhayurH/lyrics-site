@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1be8784089ae66838f21
-# source_url: https://tajpoints.com/2025/11/ya-ali-teri-zahra-te-aye-kaisa-wela-aaya.html
-# raw_sha256: e9cb00bea26970d4137eb2cfb07115e639b13f756abc07a4e08d9d4c815cf5e5
 ---
 
 1

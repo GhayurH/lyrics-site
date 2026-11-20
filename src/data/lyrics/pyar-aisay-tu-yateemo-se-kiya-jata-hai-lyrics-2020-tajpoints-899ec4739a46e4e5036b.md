@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:899ec4739a46e4e5036b
-# source_url: https://tajpoints.com/2020/05/pyar-aisay-tu-yateemo-se-kiya-jata-hai.html
-# raw_sha256: 326c1c1bd4c5b28a4ce193dbf76969d6938baff6ae3933b7278cf05834eaf2e4
 ---
 
 Pyar Aisay Tu Yateemo Se Kiya Jata Hai

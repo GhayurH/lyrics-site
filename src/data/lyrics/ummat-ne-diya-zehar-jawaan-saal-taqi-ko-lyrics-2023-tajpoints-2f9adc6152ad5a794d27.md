@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2f9adc6152ad5a794d27
-# source_url: https://tajpoints.com/2023/06/ummat-ne-diya-zehar-jawaan-saal-taqi-ko.html
-# raw_sha256: a059cafc41829607d50fbed2f00911092380e879d98df7a8ae3a6fe132db346f
 ---
 
 Ummat Ne Diya Zehar Jawaan Saal Taqi Ko.

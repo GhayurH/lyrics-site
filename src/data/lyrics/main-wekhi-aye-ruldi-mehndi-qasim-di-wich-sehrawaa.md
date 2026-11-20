@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b2a35b1cf52d042e6c6b
-# source_url: https://tajpoints.com/2023/06/main-wekhi-aye-ruldi-mehndi-qasim-di.html
-# raw_sha256: 2e57312e2a9c12bb522bece50e1d605232a39240d19c3c52d75dd29d0f460ce1
-# source_title_original: Main Wekhi Aye Ruldi Mehndi Qasim Di Wich Sehrawaa 2022
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Main Wekhi Aye Ruldi Mehndi Qasim Di Wich Sehrawaa

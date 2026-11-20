@@ -8,9 +8,6 @@ poet: "Zaidi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dfd1ba0e4821c2ac10d9
-# source_url: https://tajpoints.com/2017/02/kamal-e-ishq-ki-mairaj-youn-nibhate-hain.html
-# raw_sha256: bc9cf6fb3e47eba010f4de8f7d107828430156dcec9c4cffc77f4e4091ab9031
 ---
 
 Kamal-e-Ishq Ki Mairaj Youn Nibhate Hain.

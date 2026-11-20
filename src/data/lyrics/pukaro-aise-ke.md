@@ -63,9 +63,6 @@ romanLyrics: |-
   Wilaa-e-Akbar-e-mehru ne barchhiyaaṅ khaaiṅ
   Khuda ki raah meiṅ hum bhi shahid ho jaaye
   Hamaare haath meiṅ Kausar ka jaam aa jaaye
-# source_id: nohayonline:bd161009aaf6bc83c56b
-# source_url: https://www.nohayonline.com/details_content.php?id=2631
-# raw_sha256: 1805dd2dffbe44a8f147a719f19b6af23e01fd9532f0e319526cc7d31bc528be
 ---
 پکارو ایسے کہ میرا امام آ جائے
 

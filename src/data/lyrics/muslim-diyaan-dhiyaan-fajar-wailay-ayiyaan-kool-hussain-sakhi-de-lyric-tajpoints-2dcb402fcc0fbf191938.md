@@ -8,9 +8,6 @@ poet: "Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2dcb402fcc0fbf191938
-# source_url: https://tajpoints.com/2017/02/muslimas-diyaan-dhiyaan-fajar-wailay.html
-# raw_sha256: 82025defafcd705040b68e177e884c9c98962e44ae4f0f9ceac4aafc6ba9707d
 ---
 
 Muslim Diyaan Dhiyaan Fajar Wailay Ayiyaan Kool Hussain Sakhi De.

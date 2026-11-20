@@ -56,9 +56,6 @@ romanLyrics: |-
   Amma kar do ye aarzu puri
   Apne rauze pe tum bulalo maa
   Lori phir se wohi...
-# source_id: nohayonline:fad171b1a65eb32b96d8
-# source_url: https://www.nohayonline.com/details_content.php?id=3588
-# raw_sha256: 241b5e2fdbf680bebf93209e3e90d2c34d4e624ffd164c189fc9fe0706636496
 ---
 
 ۱

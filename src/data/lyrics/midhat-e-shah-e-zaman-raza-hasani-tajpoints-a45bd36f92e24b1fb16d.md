@@ -8,9 +8,6 @@ poet: "Mehshar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a45bd36f92e24b1fb16d
-# source_url: https://tajpoints.com/2022/03/midhat-e-shah-e-zaman-raza-hasani.html
-# raw_sha256: fa6217638c410df48b10fc822638665e068ad2262dcc2a6faa58b6527348a816
 ---
 
 Midhat e Shah e Zaman Raza Hasani.

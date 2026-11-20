@@ -57,9 +57,6 @@ romanLyrics: |-
   Kam hai ye noha jo khaama ne abhi likkha hai
   Haaṅ magar Zehra ke atfaal pe jo guzra hai
   Karb wo Majid o Mukhtar sunaaeṅ kaise
-# source_id: nohayonline:031c3b09d9db37ff4212
-# source_url: https://www.nohayonline.com/details_content.php?id=2080
-# raw_sha256: c12649237cb6cddbf36df88bb5a4d795de5375217d5867e1c6fb5bbce29e9a3c
 ---
 گھر میں جب آگ لگی جلنے لگا دروازہ
 اور وہ جلتا ہوا در فاطمہ زہرا پہ گرا

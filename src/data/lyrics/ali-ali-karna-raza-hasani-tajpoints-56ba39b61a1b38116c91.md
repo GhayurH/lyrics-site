@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:56ba39b61a1b38116c91
-# source_url: https://tajpoints.com/2022/07/ali-ali-karna-raza-hasani-lyrics-in.html
-# raw_sha256: e70738a52f5a56ba62689693505dbf5e822cfdd48b6f43816dce8f8da8476643
 ---
 
 1

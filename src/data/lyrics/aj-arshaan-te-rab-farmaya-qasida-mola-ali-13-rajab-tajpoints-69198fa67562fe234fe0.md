@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:69198fa67562fe234fe0
-# source_url: https://tajpoints.com/2024/01/aj-arshaan-te-rab-farmaya-qasida-mola.html
-# raw_sha256: f5bd706a9e6adbeb3b31a04e614f12a6c9a5a7b7deb3afb2e85f9671aa06c393
 ---
 
 1

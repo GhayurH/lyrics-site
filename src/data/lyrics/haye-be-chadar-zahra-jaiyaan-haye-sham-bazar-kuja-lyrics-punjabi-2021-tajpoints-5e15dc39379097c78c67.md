@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5e15dc39379097c78c67
-# source_url: https://tajpoints.com/2023/04/haye-be-chadar-zahra-jaiyaan-haye-sham.html
-# raw_sha256: d45df1c7b6adc23442ecf4d74b45245fc604e65cbe5eb29cf669ea5d7a614718
 ---
 
 Haye Be Chadar Zahra Jaiyaan Haye Sham Bazar Kuja.

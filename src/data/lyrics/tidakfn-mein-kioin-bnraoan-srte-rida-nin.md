@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:d60c4aa958f75dc251da
-# source_url: https://www.ziyaraat.net/api/noha/1346
-# raw_sha256: 10c0d85aa87528975d9bab207fb0f889d98ba4a92b88cce28617900a8bba4ece
 ---
 
 تیڈاکفن میں کیویں بنڑاواں سرتے ردا نیں

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0371eb14acb670a68cd7
-# source_url: https://tajpoints.com/2024/03/uthta-jata-hai-dilon-se-aytbar-e.html
-# raw_sha256: dba2742b7c78f956ffae226ec8363ecda70862cec07faed4e1138c328e12382e
 ---
 
 1

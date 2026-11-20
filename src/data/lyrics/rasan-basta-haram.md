@@ -33,14 +33,6 @@ romanLyrics: |-
   5
   Hayaat ek ek ko hasrat se dekha karta hai pehroṅ
   Kabhi jo Karbala se Shaah ke zawwaar phirte haiṅ
-# source_id: nohayonline:5d4e1ebfd605d92e4a69
-# source_url: https://www.nohayonline.com/details_content.php?id=255
-# raw_sha256: 44cdb1cb1cfbe885bc2c599cdd30f609b62f96ec8dbf23c575141602f82cda83
-# source_id: nohawriteups:fb9d7d1febaf2b9cc502
-# source_url: https://www.nohawriteups.org/rasan-basta-haram/
-# original_html: snapshots/nohawriteups/original_html/fb9d7d1febaf2b9cc502.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/fb9d7d1febaf2b9cc502.json
-# api_content_sha256: 840efa8b212b0b64494a51818e111d1185792b1163a2e11941b930f19a379ccd
 ---
 رسن بستہ حرم مجبور اور لاچار پھرتے ہیں
 برہنہ سر برہنہ پا سرِ بازار پھرتے ہیں

@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1ba368101c64bac7ad67
-# source_url: https://www.nohawriteups.org/aa-hussain-aa-syed-abbas-naqi-noha-2022-1444/
-# raw_sha256: 1a78f39d056b827075f156af05bfc836adda322867c090baa0ac94fa2b53b615
-# source_title_original: Aa Hussain Aa | Syed Abbas Naqi | Noha | 2022 | 1444
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 HUSSAIN YA HUSSAIN YA HUSSAIN (as)

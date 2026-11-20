@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eaaaa949dd9a631fc6b7
-# source_url: https://tajpoints.com/2023/06/be-watan-mola-raza-shehanshah-e-karbala.html
-# raw_sha256: 4eb5364f21eacc9ddf9d32088239494e6a5d88fea7119745f5eafe0327034684
 ---
 
 1

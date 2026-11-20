@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:37d6099d60bf50dafa2f
-# source_url: https://tajpoints.com/2022/09/kaisi-ghurbat-hai-madinay-mein-khurram.html
-# raw_sha256: 685a07a88bf9736742a9f063bd309ce9cddddb66901683322eaf1ea47b172902
 ---
 
 1

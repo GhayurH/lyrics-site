@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cbf5bd82d2413f8e1da7
-# source_url: https://tajpoints.com/2021/01/hasrat-e-rasool-lyrics-in-urdu-and.html
-# raw_sha256: fa78471e64966df143607658238d4fe319703812f68a0b3868e11c15c210c82f
 ---
 
 Aye Madine Ke Rehne Walo Tum Youn Risalat Ka Na Sila Detey.

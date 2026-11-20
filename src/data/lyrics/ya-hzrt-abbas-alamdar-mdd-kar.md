@@ -41,9 +41,6 @@ romanLyrics: |-
   Ae Shah qasam tujh ko hai Shabbir k sir ki
   Bande ko talab hai tu Faqat teri Nazar ki
   Mar jaiy na yuṅ Talib-e-dedaar madad kar
-# source_id: ziyaraat:635d3c38ce579d59fc5b
-# source_url: https://www.ziyaraat.net/api/noha/2320
-# raw_sha256: 4a4f40a9abfbb32bed643cf5e6ef38ca25fd94f0a21c8a0a9bea814fe0f38111
 ---
 
 یا حضرتِ عباسِؑ علمدار مدد کر

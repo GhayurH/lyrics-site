@@ -222,24 +222,6 @@ romanLyrics: |-
   Falak ki baheiṅ khuli hui haiṅ
   Ye kaf o kaun o makaṅ pe chha ja
   Tu nur hai nur meiṅ sama ja
-# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
-# editorial_note: Notebook has divergent Roman and Urdu stanzas; both reconciled by meaning and full wording needs independent audio confirmation
-# source_id: nohawriteups:ab65a6ce8275525fe572
-# source_url: https://www.nohawriteups.org/kabhi-kabhi-mei-ye-sochta-hoon/
-# original_html: snapshots/nohawriteups/original_html/ab65a6ce8275525fe572.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ab65a6ce8275525fe572.json
-# api_content_sha256: 5cdf52f12f940249693e253ee70e9f2c687e05eb2c43bb0db921a1844084f66f
-# Editorial alternate readings retained from the shorter ten-stanza Urdu version:
-# stanza 1: ہر ایک ذرہ کو زندگی دی؛ شعور کو جس نے آگہی دی؛ وہ جس کا ہر شے پہ نام ہے کندہ
-# stanza 2: حسین قدرت کے یہ نظارے؛ دمکتے ہیں کس کی چاہ میں یہ
-# stanza 3: وہ آنکھ جس سے وہ دیکھتا ہے؛ زبان جس سے وہ بولتا ہے؛ جو جلوہ نور کبریا ہے
-# stanza 4: سمٹ رہی ہے حد من و تو
-# stanza 5: جو نطق کو ساز دے رہا ہے
-# stanza 6: یہاں سے مہماں کا ساتھ دینے
-# stanza 7: جو تجھ سے منسوب تیرا در ہے
-# stanza 8: جدار کعبہ کے گرد پھر کے؛ یہ کس کو سجدہ گزارتے ہیں
-# stanza 11 (shorter stanza 9): ورائے وہم و گماں ہوا ہوں
-# stanza 12 (shorter stanza 10): وہ نور میں جب کہ ڈھل رہا تھا
 ---
 کبھی کبھی میں یہ سوچتا ہوں
 یہ سوچتا ہوں کبھی کبھی میں

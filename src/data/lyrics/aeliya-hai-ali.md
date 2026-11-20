@@ -41,9 +41,6 @@ romanLyrics: |-
   Wo Shabbir o Shabbar chale pitte sar
   Uthi Bint-e-Haider giri sar se chadar
   Haram berida hai Haram berida hai
-# source_id: nohayonline:0f5b5110da0ae3bba02f
-# source_url: https://www.nohayonline.com/details_content.php?id=3442
-# raw_sha256: 705bf3de7cebebf71d441f0cafe4a4444d0ad5ee73ad6a0409927efc1d86b4ed
 ---
 
 علی اعلیا ہے علی

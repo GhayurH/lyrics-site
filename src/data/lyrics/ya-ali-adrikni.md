@@ -45,14 +45,6 @@ romanLyrics: |-
   Kab se hai haal pareshaaṅ sawaali dar par
   Ek Anis-e-muztar
   Baat kuch us ke muqaddar ki abhi tak na bani
-# source_id: nohayonline:1841cfcb41f4deb879f0
-# source_url: https://www.nohayonline.com/details_content.php?id=263
-# raw_sha256: 09c5647cd31cca43834e2117019bc5b83a8745a09f20491377ad230d8a4c4801
-# source_id: nohawriteups:f86fe48ecfa3bfe8da0e
-# source_url: https://www.nohawriteups.org/ya-ali-adrikni/
-# original_html: snapshots/nohawriteups/original_html/f86fe48ecfa3bfe8da0e.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f86fe48ecfa3bfe8da0e.json
-# api_content_sha256: 8d1b3f33ee9e21731480bc948f49a546d74a3a70bc069bed29a81bb7b000f771
 ---
 یا علی ادرکنی یا علی ادرکنی
 شاہ والا کا پدر ہوگیا چھلنی چھلنی

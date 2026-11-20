@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6a8fe257d49a7dfa9d03
-# source_url: https://tajpoints.com/2026/07/ankhon-se-khon-jigar-ka-abid-baha.html
-# raw_sha256: 2ede610954230e9ec25a8ac390fe62523f5c2f8aa47f87cf6b6fa6280d3cb235
 ---
 
 Bazar Mein Laeen Sab Khushiyaan Mana Rahe Hain Aankhon Se Khoon Jigar Ka Abid Baha Rahe Hain.

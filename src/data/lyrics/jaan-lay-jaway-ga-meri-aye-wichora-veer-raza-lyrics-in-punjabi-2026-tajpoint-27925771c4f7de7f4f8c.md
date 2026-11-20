@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:27925771c4f7de7f4f8c
-# source_url: https://tajpoint.com/jaan-lay-jaway-ga-meri-aye-wichora-veer/
-# raw_sha256: cf3273b8b2a9910e5eb2158866bf779b127df69e1f5416871fbaf2dd14f159cd
 ---
 
 1

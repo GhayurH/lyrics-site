@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:618fb15a4dcf1e07805f
-# source_url: https://tajpoints.com/2021/05/haye-haider-e-karrar-mukhtar-hussain.html
-# raw_sha256: 35f0143534676fe002c5abecb18f0da872c8088e9c14a4ea3044038b692e53dd
 ---
 
 Haye Haider e Karrar Mukhtar Hussain Fatehpuri

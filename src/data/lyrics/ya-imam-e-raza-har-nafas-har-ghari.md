@@ -7,16 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:dec7917aa64e2ef35901
-# source_url: https://tajpoint.com/ya-imam-e-raza-mir-hasan-mir-2026-lyrics-urdu/
-# raw_sha256: f7306602ce80cf4ae9c622e43cd5e342c592b331acb9679c878a6ee25122eec1
-# source_id: nohawriteups:a45782bed5f3df31864f
-# source_url: https://www.nohawriteups.org/ya-imam-e-raza-ya-imam-e-raza-manqabat/
-# original_html: snapshots/nohawriteups/original_html/a45782bed5f3df31864f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a45782bed5f3df31864f.json
-# api_content_sha256: 01ff48e09d39548027df3c23a891ae52678e9287e9642d5b7e7f8c54c8be0f8c
-# source_poet: Mir
-# editorial_note: Merged the 2026 Tajpoints witness's six six-line stanzas with four additional five-line Nohawriteups stanzas. The longer witness repeats one verse and refrains marked x3/x6; retained the two distinct invocations once and eliminated only their repetitions. Sources differ in stanza order; retained the Tajpoints order and appended the unique earlier witness verses pending editorial transliteration review. Distinct from the published Ya Imam-e-Raza composition.
 ---
 
 Har nafas har ghari mere dil se yehi aa rahi hai sada

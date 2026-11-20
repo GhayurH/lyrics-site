@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:640c41b55db7c1bbe8e1
-# source_url: https://tajpoints.com/2023/09/ghazi-diyaan-bhaina-jadon-bazar.html
-# raw_sha256: bc3a518bd136d3b0a8389a5bd423ab725ba5ac55546ec51ab031983979d86bbb
 ---
 
 1

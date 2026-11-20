@@ -44,9 +44,6 @@ romanLyrics: |-
   Raat din mera kaam hai yehi
   Shayari hai bas ghame Husain ki
   Har sadi hai bas...
-# source_id: nohayonline:66982e188b8c8abbffe5
-# source_url: https://www.nohayonline.com/details_content.php?id=2771
-# raw_sha256: 0290c2bcd42b1a8d192e1ab15382ac428ae53629fcb790c7711a8bc94d64777e
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c46e1070d4e5bddbda35
-# source_url: https://tajpoints.com/2021/05/pathar-barsane-walo-main-qaidi-hoon.html
-# raw_sha256: 8b68151bfba5117c909cce1226f7202d04a341d06c38a3e764345b2dda706192
 ---
 
 Pathar Barsane Walo Main Qaidi Hoon Pardesi Hoon Mir Hasan Mir.

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:06a966a8ae8d31095226
-# source_url: https://www.nohawriteups.org/shion-ke-sardar-hussain-alvida-noha-lyrics/
-# original_html: snapshots/nohawriteups/original_html/06a966a8ae8d31095226.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/06a966a8ae8d31095226.json
-# api_content_sha256: f8bdf460086e5675c2dde4a58cb1f27d4f1f35c01069bcb1a5af991309edc6b2
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 ShiaO ke sardar Hussain Alvida,

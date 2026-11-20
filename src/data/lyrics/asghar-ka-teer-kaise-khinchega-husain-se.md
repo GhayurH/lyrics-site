@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:06e83e932f253df8f947
-# source_url: https://www.ziyaraat.net/api/noha/1869
-# raw_sha256: 398b69654e72f86262c9930656066b66870ccf376de3b396e0cde9e0cde70b9a
 ---
 
 Asghar ye teer kaise khinchay ga Hussain se

@@ -8,9 +8,6 @@ poet: "Bilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f6f86723494808f60f49
-# source_url: https://tajpoints.com/2023/02/dar-e-hussain-rajab-ali-khan-lyrics-in.html
-# raw_sha256: 22f5dd96c1d931531adf64b97c29ba45c196497247e647fb0ff2031e3d04f1bc
 ---
 
 1

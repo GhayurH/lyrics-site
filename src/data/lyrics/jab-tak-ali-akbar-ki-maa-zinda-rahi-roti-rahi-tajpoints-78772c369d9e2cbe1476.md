@@ -8,9 +8,6 @@ poet: "Sohail"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:78772c369d9e2cbe1476
-# source_url: https://tajpoints.com/2023/07/jab-tak-ali-akbar-ki-maa-zinda-rahi.html
-# raw_sha256: 2cfe33c636d104033edf9ee03f76e87bcbc9177a63262b6fce7dfb8451cd3f34
 ---
 
 1

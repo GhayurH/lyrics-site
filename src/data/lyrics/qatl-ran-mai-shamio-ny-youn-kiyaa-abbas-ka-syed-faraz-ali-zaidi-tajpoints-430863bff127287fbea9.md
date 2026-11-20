@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:430863bff127287fbea9
-# source_url: https://tajpoints.com/2021/08/qatl-ran-mai-shamio-ny-youn-kiyaa-abbas.html
-# raw_sha256: 89f5526636ee87cc67e966798a3b07d327bcb6472f0784fda73485df1ebeb0e0
 ---
 
 1

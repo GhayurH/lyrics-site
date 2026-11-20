@@ -65,9 +65,6 @@ romanLyrics: |-
   Ye jaan bhi qurban hai Zehra ke pisar par
   Kiuṅ aap ye kehti haiṅ meri madar-e-muztar
   Lut jaaye na Zehra ka bhara ghar
-# source_id: nohayonline:1df856f57b891f15d8df
-# source_url: https://www.nohayonline.com/details_content.php?id=3193
-# raw_sha256: 312f836af17062bf5c5b9b7673e851fc7bcab7ba407c3070e188ed51f87d0055
 ---
 
 گھر سے چلے جب بہر سفر سبط پیمبر

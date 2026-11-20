@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5ec520c4bebff369847f
-# source_url: https://tajpoints.com/2023/09/hun-qaid-muk-gayi-aye-jawaan-karbal-keh.html
-# raw_sha256: e47409d85a3938ada3f2a04846ac0befe1b41e8a1bba9fc68bb63042232d535f
 ---
 
 Hun Qaid Muk Gayi Aye Jawaan Karbal Keh Watna Nu Jawaan Asghar Khan.

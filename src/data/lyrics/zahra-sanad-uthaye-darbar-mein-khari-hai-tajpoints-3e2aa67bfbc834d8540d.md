@@ -8,9 +8,6 @@ poet: "Shahid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3e2aa67bfbc834d8540d
-# source_url: https://tajpoints.com/2023/12/zahra-sanad-uthaye-darbar-mein-khari.html
-# raw_sha256: c1d5964ab9c677aa6f77f1d3eee828e3cd89251081119375c7da665047112250
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Shahan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:15a92a037350efaacc10
-# source_url: https://tajpoints.com/2019/09/sakina-aayi-jo-maqtal-wich-aakhay.html
-# raw_sha256: 0e1a0e4ec3fb8bd07595ab333983a0325ce1b58b8cf183fe14e4b12d79287a00
 ---
 
 1

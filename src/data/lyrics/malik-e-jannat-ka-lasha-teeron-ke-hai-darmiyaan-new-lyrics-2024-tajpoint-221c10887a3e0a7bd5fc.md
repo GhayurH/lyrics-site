@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:221c10887a3e0a7bd5fc
-# source_url: https://tajpoint.com/malik-e-jannat-ka-lasha-teeron-ke-hai-darmiyaan/
-# raw_sha256: 8f9315e0be2f3382387a1db66dafa5f11c83180bfd3cff03069ddda947b32035
 ---
 
 Malik e Jannat Ka Lasha Teeron Ke Hai Darmiyaan.

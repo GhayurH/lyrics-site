@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:36c182767c75b1edbbeb
-# source_url: https://www.ziyaraat.net/api/noha/1345
-# raw_sha256: 1d0ade63ffe35e1e034c3c757b50fc4e8aa4f991861ef9d069f79ff28140972a
 ---
 
 رضاؑ کو عالم غربت میں موت آئی ہے

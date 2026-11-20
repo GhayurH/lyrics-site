@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d4f3a1157cd5356b5b31
-# source_url: https://www.nohawriteups.org/wada-jo-kiya-hai/
-# original_html: snapshots/nohawriteups/original_html/d4f3a1157cd5356b5b31.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d4f3a1157cd5356b5b31.json
-# api_content_sha256: ee796b245c14c753333da2bf145c50034d14cfc5795c55f5cee42379d86af243
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 shireen shireen…

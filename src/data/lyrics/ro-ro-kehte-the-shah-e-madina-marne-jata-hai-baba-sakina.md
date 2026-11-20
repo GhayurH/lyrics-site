@@ -44,9 +44,6 @@ romanLyrics: |-
 
   7
   Ab na paaogi baba ka seena, Marne jaata hai baba Sakina
-# source_id: ziyaraat:33744f5760373aba5cfe
-# source_url: https://www.ziyaraat.net/api/noha/2314
-# raw_sha256: 50d4232bb518479cb6a85689fc29d5c1e688ebcb99e5bd7f7db6cb89375b19d2
 ---
 
 رو رو کہتے تھے شاہ مدینہ مرنے جاتا ہے بابا سکینہؑ

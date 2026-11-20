@@ -50,9 +50,6 @@ romanLyrics: |-
   Akbar kare kaise bayaaṅ deta hai jab koi azaṅ
   Lagti hai sine par sina aata hai jab akbar ka naam
   Haye haye zainab haye haye shaam
-# source_id: nohayonline:34ca4e0da8993004408c
-# source_url: https://www.nohayonline.com/details_content.php?id=1934
-# raw_sha256: fbaf92ec221d10967ded76e1f27a38738d1b570736173606e826208d948f7e40
 ---
 
 ۱

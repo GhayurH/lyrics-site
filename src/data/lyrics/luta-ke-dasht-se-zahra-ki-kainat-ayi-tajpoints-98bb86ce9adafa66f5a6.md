@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:98bb86ce9adafa66f5a6
-# source_url: https://tajpoints.com/2017/02/luta-ke-dasht-se-zahrasa-ki-kainat-ayi.html
-# raw_sha256: 7efbc8c0057450eb2a429febfa70225d563258c51c927cb03de9ad22f677049f
 ---
 
 Luta Ke Dasht Se Zahra Ki Kainat Ayi Mastar Mohammad Shah.

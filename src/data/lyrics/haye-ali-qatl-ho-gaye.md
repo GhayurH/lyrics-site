@@ -62,15 +62,6 @@ romanLyrics: |-
   Sab hatgaye anis jo aaya ali ka ghar
   Betaab hoke betiyaṅ nikli barehna sar
   Lipti pidar se aah hui is tarha nohagar
-# source_id: nohayonline:3393b7e4cc9ca4c26957
-# source_url: https://www.nohayonline.com/details_content.php?id=253
-# raw_sha256: 3d5126ac54f8b21d849f9ed12c87a9b897187095c59990132b57fd5697a7c540
-# source_id: ziyaraat:1454bc10715f7f4c33ea
-# source_url: https://www.ziyaraat.net/api/noha/2281
-# raw_sha256: 3fd1bfb62801d444a99469eb63c56f7886347b29aec92d3b1cb3ab98ce068213
-# source_id: ziyaraat:def610d565f5fd1fc525
-# source_url: https://www.ziyaraat.net/api/noha/1201
-# raw_sha256: 079d47258896f70cb2f5a370c2744d0cda55972520d67c8594a5c5b9dd959bc0
 ---
 
 ہائے علیؑ قتل ہوگئے

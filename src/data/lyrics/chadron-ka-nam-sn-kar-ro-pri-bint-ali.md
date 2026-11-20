@@ -90,12 +90,6 @@ romanLyrics: 'Chadaron ka naam sun kar ro padi binte ali
   Haye ay tauqeer abid ka badan tha kaampta
 
   Hathkadi par maarta tha sar wali ibne wali'
-# source_id: nohayonline:1bea868021497f170212
-# source_url: https://www.nohayonline.com/details_content.php?id=548
-# raw_sha256: ad9b954ab094e64def06ad492469d8f3785fd588669a9f8e0c1224c173695358
-# source_id: ziyaraat:7eca6c4f36694c5aedf9
-# source_url: https://www.ziyaraat.net/api/noha/1926
-# raw_sha256: 305aa80c255f17b8f4ac50e009e8d356ce53ed104ec1fbc2866e706e48a16053
 ---
 
 ؑچادروں کا نام سُن کر رو پڑی بنتِ علی

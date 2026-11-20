@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8acc2a5e735e0bb30c99
-# source_url: https://www.nohawriteups.org/veer-ve-hun-aaja-haye-shaama-paiyan/
-# original_html: snapshots/nohawriteups/original_html/8acc2a5e735e0bb30c99.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8acc2a5e735e0bb30c99.json
-# api_content_sha256: ae35c54bffc9b96d33a98b68af955387bd593a399ef415fe958dbcff69bcae3a
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Veer Ve Hun Aaja Shaama Paiyan

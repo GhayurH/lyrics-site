@@ -10,11 +10,6 @@ reciter: "Syed Raza Abbas Zaidi"
 tags: []
 aliases: ["ali-ka-raaj-syed-raza-abbas-zaidi"]
 published: true
-# source_id: tajpoints:20230c299a62f8bfb0ab
-# source_url: https://tajpoints.com/2023/02/ali-ka-raaj-syed-raza-abbas-zaidi.html
-# raw_sha256: b58544965fda3f43103b158729facafbc7c8b6f1abe106d748b3858a1d9c50d6
-# source_punjabi_poet: Iftikhar Haider
-# composition: Syed Raza Abbas Zaidi
 romanLyrics: |-
   Mahraaj Ali sartaaj Ali meraaj ki bhi meraaj Ali
 
@@ -117,7 +112,6 @@ romanLyrics: |-
   Mehdi ke hamraah rajat meiṅ jis dam Abbas ka hoga aana
   Kaabe pe rakh ke qadam jab lagaaye ga alam
   Hogi Zeeshan o Raza Ghaazi ke hoṅtoṅ pe sada
-# Kumail-e-Riyahi and the Punjabi passage retain source readings pending print/audio; no historical-name substitution is implied.
 ---
 مہراج علی سرتاج علی معراج کی بھی معراج علی
 

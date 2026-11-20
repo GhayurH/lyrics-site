@@ -8,9 +8,6 @@ poet: "Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4e3bc6cbffeeab41383c
-# source_url: https://tajpoints.com/2022/06/aye-rab-e-jahan-sarwar-raza-karbalai.html
-# raw_sha256: 094d043cebbdd9d1fc24560ac7279e9e1083fa0ab200e336845d2fd666e5add9
 ---
 
 1

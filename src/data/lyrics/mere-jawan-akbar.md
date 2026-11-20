@@ -49,14 +49,6 @@ romanLyrics: |-
   Jab koi jawaaṅ laash nazar aayegi beta
   Maaṅ yaad tujhe kar ke tarap jaayegi beta
   Ek roz teri yaad meiṅ mar jaayegi beta
-# source_id: nohayonline:19bac68801d479d6a6ac
-# source_url: https://www.nohayonline.com/details_content.php?id=451
-# raw_sha256: ba4b0966a3e0abfdfc49ebb4aa91c862ea871cb48fa3727e036c9a7f496762d3
-# source_id: nohawriteups:de5c877f2f7a7855756c
-# source_url: https://www.nohawriteups.org/mere-jawan-akbar/
-# original_html: snapshots/nohawriteups/original_html/de5c877f2f7a7855756c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/de5c877f2f7a7855756c.json
-# api_content_sha256: 606b609b7b9037c0f9ee80c2d2f1e4f5dec39af021b028a4a6611ec8c0b5d2b9
 ---
 نوحہ کرے ماں لاشِ اکبر پر
 تم قتل ہوئے بیٹے جیتی رہی مادر

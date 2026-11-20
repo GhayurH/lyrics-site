@@ -7,11 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d330800dae7635467b0b
-# source_url: https://tajpoints.com/2020/11/aye-maula-raza-maula-raza-shah-e.html
-# raw_sha256: 0f3d7a34048a5ab17695710ad938540ae7e22f86557612a9f208aa6ca87820dd
-# source_title_original: Aye Maula Raza Maula Raza Shah e Khorasan 2012
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Aye Maula Raza Maula Raza Shah e Khorasan

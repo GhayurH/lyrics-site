@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6ac603ff8bcb6b066c59
-# source_url: https://www.nohawriteups.org/pardesaan-day-vich-ja-kay-koyi-dukh-na-uthaye/
-# original_html: snapshots/nohawriteups/original_html/6ac603ff8bcb6b066c59.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6ac603ff8bcb6b066c59.json
-# api_content_sha256: 6297cb08f40687d9e5bf9a86dca446c33b710b8ccaa6e7ffab06514bc022e0f3
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Pardesaan Day Vich Ja Kay Koyi Dukh Na Uthaye Sajjad Day Vanghu

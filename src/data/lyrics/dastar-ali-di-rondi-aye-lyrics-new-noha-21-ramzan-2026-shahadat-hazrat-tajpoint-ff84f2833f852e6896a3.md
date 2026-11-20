@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:ff84f2833f852e6896a3
-# source_url: https://tajpoint.com/dastar-ali-di-rondi-aye-lyrics-new-noha-21-ramzan/
-# raw_sha256: 14c1fe19a5dbfba381f4909ac3ef49a4e7ddabffb15e8d4c7fd08e772e374c0e
 ---
 
 1

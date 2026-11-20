@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b6baa4d63f324024d8f5
-# source_url: https://tajpoints.com/2022/12/arey-oh-sham-walo-nadeem-sarwar-lyrics.html
-# raw_sha256: ca0f3cd984ff8a187c3c889e23bf43c3d1de45d5c79ccef689372d94146a21a4
 ---
 
 1

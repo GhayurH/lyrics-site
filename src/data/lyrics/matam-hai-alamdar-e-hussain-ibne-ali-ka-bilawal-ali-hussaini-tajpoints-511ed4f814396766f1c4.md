@@ -8,9 +8,6 @@ poet: "Bilawal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:511ed4f814396766f1c4
-# source_url: https://tajpoints.com/2021/08/matam-hai-alamdar-e-hussain-ibne-ali-ka.html
-# raw_sha256: 33504521deda05ca8608f05d59983aa58966e5f5e02eef1f7f6b9d2cec5f23fc
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4847dbbca052972110a7
-# source_url: https://tajpoints.com/2019/11/kalam-e-haq-ka-ameen-hai-batool-ka-baba.html
-# raw_sha256: 2e29c94dd3e6661d4e8e66cec3c7774f42eac1140f24b6aec4497dcb6501a4ae
 ---
 
 Kalam-e-Haq Ka Ameen Hai Batool Ka Baba.

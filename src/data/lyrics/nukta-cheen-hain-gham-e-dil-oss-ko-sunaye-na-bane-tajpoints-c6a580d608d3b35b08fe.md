@@ -8,9 +8,6 @@ poet: "Ghalib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c6a580d608d3b35b08fe
-# source_url: https://tajpoints.com/2017/02/nukta-cheen-hain-gham-e-dil-oss-ko.html
-# raw_sha256: 93c2904654200bfb56da84ff9d2528ed2de222cf4afe2ff9c3b247801bc1b4fb
 ---
 
 Nukta Cheen Hain Gham-e-Dil Oss Ko Sunaye Na Bane.

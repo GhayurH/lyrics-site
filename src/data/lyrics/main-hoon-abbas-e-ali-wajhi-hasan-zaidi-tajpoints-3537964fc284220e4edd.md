@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3537964fc284220e4edd
-# source_url: https://tajpoints.com/2023/02/main-hoon-abbas-e-ali-wajhi-hasan-zaidi.html
-# raw_sha256: 8f930fd5a2d072f7aad38e7b5a782bdc8793e083501cd0f699e205bbf744d53c
 ---
 
 Main Hoon Abbas e Ali Wajhi Hasan Zaidi.

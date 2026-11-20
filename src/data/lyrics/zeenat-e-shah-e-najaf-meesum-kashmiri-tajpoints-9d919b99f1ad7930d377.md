@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9d919b99f1ad7930d377
-# source_url: https://tajpoints.com/2021/03/zeenat-e-shah-e-najaf-meesum-kashmiri.html
-# raw_sha256: 389aaadc648c193cb3803e53576f6e465e5608b74998074f911de8e8d222b4d2
 ---
 
 1

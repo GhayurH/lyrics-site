@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:29a779cf4526c8bead5b
-# source_url: https://tajpoints.com/2020/12/aye-bint-e-payambar-lyrics-in-urdu-and.html
-# raw_sha256: 062eac9fff27aa11dbd73ce8a9b9b9650f28d882620be5ec27c78c0616e44592
 ---
 
 1

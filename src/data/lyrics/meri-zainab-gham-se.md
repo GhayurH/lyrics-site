@@ -68,9 +68,6 @@ romanLyrics: |-
   Wo jor o jafa wo zulm o sitam
   Kaano meiṅ yehi aati hai sada
   Tera baba tere saath...
-# source_id: nohayonline:9da2e1895f0f931851ab
-# source_url: https://www.nohayonline.com/details_content.php?id=3614
-# raw_sha256: f5fc0fd31504741dad9a84df86b81cae5a452b6d08f2fdb0442cc5aa44f1d365
 ---
 
 ۱

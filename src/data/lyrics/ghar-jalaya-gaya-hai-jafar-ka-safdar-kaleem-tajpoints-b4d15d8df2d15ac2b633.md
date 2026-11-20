@@ -9,9 +9,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b4d15d8df2d15ac2b633
-# source_url: https://tajpoints.com/2023/05/ghar-jalaya-gaya-hai-jafar-ka-safdar.html
-# raw_sha256: b433f45b441e9e2222d76c50f657495ee88dcbf8c48ebd816f29b6ccc6225af2
 ---
 
 Ghar Jalaya Gaya Hai Jafar Ka

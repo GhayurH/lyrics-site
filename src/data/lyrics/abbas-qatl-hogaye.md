@@ -53,9 +53,6 @@ romanLyrics: |-
   Parh kar Nasim Shadmaṅ aaṅsu bahaega
   Ghaibat meiṅ bhi Imam-e-Zamaṅ ko rulaega
   Misre pe Mir Anis ke noha likha hua
-# source_id: nohayonline:df0f0a88b74cbcc7f98a
-# source_url: https://www.nohayonline.com/details_content.php?id=1701
-# raw_sha256: eb85c88f83a3851bd1341ceff68b0e8871d3512e976be976d87b383eb0bc3a5a
 ---
 
 عباس قتل ہو گئے اکبر جدا ہوا

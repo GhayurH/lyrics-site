@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Likhta hai Aqil Aal-e-Nabi ke jo masaib
   To bahr-e-ata uthte haiṅ Abbas ke baazu
-# source_id: nohayonline:e62dc10a97b7a2f9862f
-# source_url: https://www.nohayonline.com/details_content.php?id=1170
-# raw_sha256: 0509ef644b4916416f81906efac5b6ee5adf45420d83d6c95ad3660340708849
 ---
 
 خیمے میں جو شہ لاتے ہیں عباس کے بازو

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:69c3c1d977dc83b4ec10
-# source_url: https://www.ziyaraat.net/api/noha/1731
-# raw_sha256: 3c84f8f08fb9c77f6488804f5e6aab84d7d5c7fc55f19697ffb30a66118e0446
 ---
 
 Haye Abbas ko larrne ki ijazat naa mili

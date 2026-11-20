@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5865a39523ad45116b2b
-# source_url: https://tajpoints.com/2017/02/haye-baba-zahra-bhare-darbar-che-bahoo.html
-# raw_sha256: 1130de1aa729003176c8724a22e9483172e5263705bf57ef1c60c80ee1c744c3
 ---
 
 1

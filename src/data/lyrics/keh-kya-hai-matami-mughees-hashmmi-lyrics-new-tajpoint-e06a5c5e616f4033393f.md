@@ -8,9 +8,6 @@ poet: "Navaid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:e06a5c5e616f4033393f
-# source_url: https://tajpoint.com/keh-kya-hai-matami-mughees-hashmmi-lyrics-new/
-# raw_sha256: 57d8c0ae5f6f42b5273b88eca3eed9875b09f24558ab4104aefa6d91f33bd9eb
 ---
 
 Keh Kya Hai Matami Mughees Hashmmi Lyrics New

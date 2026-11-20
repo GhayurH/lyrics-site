@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9322b6317de7f3ae616b
-# source_url: https://tajpoints.com/2023/01/midhat-e-nafs-e-payamber-ke-liye-lyrics.html
-# raw_sha256: 63b50a31afc5dd0dcc28ea09df49100aa60299143f83a66bda30cd71a73cace5
 ---
 
 Midhat-e-Nafs-e-Payamber Ke Liye Lyrics

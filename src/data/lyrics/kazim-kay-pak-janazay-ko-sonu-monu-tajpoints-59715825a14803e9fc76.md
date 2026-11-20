@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:59715825a14803e9fc76
-# source_url: https://tajpoints.com/2024/02/kazim-kay-pak-janazay-ko-sonu-monu.html
-# raw_sha256: a88f60bdf4079f4dc9439b71018b95fad403ee7564ea4883085f3bf487a4b8d9
 ---
 
 1

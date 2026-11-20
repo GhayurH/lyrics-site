@@ -71,9 +71,6 @@ romanLyrics: |-
   Aag ke sholoṅ ke andar barpa tha bhare ghar ka maatam
   Rehaan laboṅ pe Zainab ke bas ek sada thi ek dua
   Kuchh bhi nahiṅ darkaar hameṅ hai hum ko mile bas teri raza
-# source_id: nohayonline:4aee4395bd8bb57d0ec8
-# source_url: https://www.nohayonline.com/details_content.php?id=3297
-# raw_sha256: 4062c82f5d05fb5655583df42c4106e084c893d28c4c602a2a033efb45a5b42f
 ---
 
 کل یوم عاشوراء کل ارض کربلاء

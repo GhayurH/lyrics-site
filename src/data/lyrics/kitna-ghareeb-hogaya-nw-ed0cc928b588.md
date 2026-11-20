@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ed0cc928b5881007d4e2
-# source_url: https://www.nohawriteups.org/kitna-ghareeb-hogaya/
-# original_html: snapshots/nohawriteups/original_html/ed0cc928b5881007d4e2.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ed0cc928b5881007d4e2.json
-# api_content_sha256: 7f05aa706aedd812521a780eeac1853052b1ce8f6e5eb1dc678feb6a7bbaf27a
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Asghar ko dafn kar chuka jab fatema ka laal

@@ -8,9 +8,6 @@ poet: "Yousuf"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1b7f8ed3ce0ad93f3610
-# source_url: https://tajpoints.com/2023/11/bhain-fizza-hasnain-bola-asaan-jana-aye.html
-# raw_sha256: ce10e579f244d993ffbdb1c7da71f6234f0d51b92d38a8d96e14d057a37f79a1
 ---
 
 1

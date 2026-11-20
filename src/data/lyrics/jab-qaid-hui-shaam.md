@@ -58,9 +58,6 @@ romanLyrics: |-
   Jab ahl-e-haram haiṅ laut ke aa gaye Ashraf
   Sajjad basad aah o fughaaṅ kehte the Ashraf
   Ab Shaam ke zindaan meiṅ tanha hai Sakina
-# source_id: nohayonline:ed29dcae658813b04bbb
-# source_url: https://www.nohayonline.com/details_content.php?id=57
-# raw_sha256: dc1ad97c89b17701e9a9a0887b85bfa7ae54303854c2b23542c19fd4b6aa3df3
 ---
 جب قید ہوئی شام کے زنداں میں سکینہ
 کہتی تھی یہ رو کر میرے بابا میرے بابا

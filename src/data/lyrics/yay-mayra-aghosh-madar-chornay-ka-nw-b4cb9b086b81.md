@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:b4cb9b086b81d8fd9bcb
-# source_url: https://www.nohawriteups.org/yay-mayra-aghosh-madar-chornay-ka/
-# original_html: snapshots/nohawriteups/original_html/b4cb9b086b81d8fd9bcb.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b4cb9b086b81d8fd9bcb.json
-# api_content_sha256: 1ccad33cf3e15fa1a882945f0edf75ef3d28b594f5f489c3d5db672256d5600b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Yay mayra Aghosh madar chornay ka wakt hay

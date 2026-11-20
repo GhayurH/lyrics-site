@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:813b4ebabddd24e2b693
-# source_url: https://tajpoints.com/2025/03/sajjad-ne-ro-faryad-kiti-haye-ainj-da.html
-# raw_sha256: 3de11dc90dc08893b7b63309594e046abc73dad43d040074148a278ef018f763
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2de3468a04d9af6c3e34
-# source_url: https://tajpoints.com/2021/03/faqat-zainab-syed-mudassir-mehdi-lyrics.html
-# raw_sha256: c88b6fc1d50b44e72dca316f1d9f805e587550bc4d8c498286977085f085a75d
 ---
 
 Faqat Zainab Syed Mudassir Mehdi.

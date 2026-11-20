@@ -7,13 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: ["Akhiyaan Fazal Diyaan Takdiyaan Reh Gayiyaan"]
 published: false
-# source_id: nohawriteups:0f12489f72a6f0edff23
-# source_url: https://www.nohawriteups.org/akhiyan-fazal-diyaan-takdiyan-reh-gaiyaan/
-# raw_sha256: b3f0dbbb4a3e30c26059d6d591f26d1118d15fc1dfc231caf9073c51c147e3a6
-# additional_source_id: nohawriteups:6b12adf581732b13adf1
-# additional_source_url: https://www.nohawriteups.org/akhiyan-fazal-diyan/
-# additional_raw_sha256: 6f449f65a1caf2844973f4b1e6c3ad95a2703e053823a8eaf226f0f59a01b264
-# editorial_note: Six substantive stanzas reconciled; alternate opening for stanza 6 is "Iss War Vi Qalam Ne Tafseer Kul Sunai"
 ---
 
 Akhiyan Fazal diyaan, takdiyan reh gaiyaan

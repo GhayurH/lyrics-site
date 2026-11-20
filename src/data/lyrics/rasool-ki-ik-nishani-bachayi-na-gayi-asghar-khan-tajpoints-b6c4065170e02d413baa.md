@@ -8,9 +8,6 @@ poet: "Salamat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b6c4065170e02d413baa
-# source_url: https://tajpoints.com/2023/04/rasool-ki-ik-nishani-bachayi-na-gayi.html
-# raw_sha256: a9b7c62e3aa17c83dac38b72116b1f53aca16fb72d23477a6e72be8816c89c7f
 ---
 
 Rasool Ki Ik Nishani Bachayi Na Gayi Asghar Khan.

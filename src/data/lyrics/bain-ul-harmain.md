@@ -11,12 +11,6 @@ tags: []
 aliases: []
 recitationId: "bain-ul-harmain-1-2-mir-hasan-mir"
 published: true
-# source_id: tajpoints:94bc25ae0ee9217f8321
-# source_url: https://tajpoints.com/2017/05/bain-ul-harmain-1-2.html
-# raw_sha256: f9c87c1d208333c9ad39fa977f62f1f38aed2330f54692a2a629aba667603e56
-# source_id: tajpoints:5cd7bfedd4eedec8c690
-# source_url: https://tajpoints.com/2017/05/bain-ul-harmain-3-6.html
-# raw_sha256: 3c3fd87df7590b5b0606d50f6dce5eb4b4c7ec6a286954cf2bbbddb84373587f
 romanLyrics: |-
   Khaimazan haiṅ yeh jinna do haram ke darmiyaaṅ
   Aashiqoṅ ke kaarwaaṅ haiṅ do haram ke darmiyaaṅ

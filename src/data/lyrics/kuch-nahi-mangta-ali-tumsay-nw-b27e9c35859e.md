@@ -33,12 +33,6 @@ romanLyrics: |-
   Ab Mai Sajjad Ban Kay Aongah Bheerd Rahon Say Tum Hata Deyna
 
   URDU
-# source_id: nohawriteups:b27e9c35859eda0bacac
-# source_url: https://www.nohawriteups.org/kuch-nahi-mangta-ali-tumsay/
-# original_html: snapshots/nohawriteups/original_html/b27e9c35859eda0bacac.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b27e9c35859eda0bacac.json
-# api_content_sha256: 146a6d3f0a9e292eaa9861dc8a6a97e8812e1180b919b087b5c72befbfd3979a
-# editorial_note: Unpublished source-faithful draft from approved live has both urdu+roman complete, extracted bad; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 کچھ نہیں مانگتا علی ؑ تم سے یہ وصیت نہ تم بھلا دینا

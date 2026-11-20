@@ -10,9 +10,6 @@ published: false
 romanLyrics: |-
   1
   (انجمن زینبیہ، بمبئی، بھارت)
-# source_id: ziyaraat:338799b6a6858fed5cfc
-# source_url: https://www.ziyaraat.net/api/noha/2598
-# raw_sha256: c9473a49e22a71b38e3238272834ae5b92a75f72485df9d0ce9c6e6815fb170f
 ---
 
 خبر یہ شام سے زینبؑ ہے لائی

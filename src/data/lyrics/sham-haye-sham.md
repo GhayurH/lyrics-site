@@ -108,12 +108,6 @@ romanLyrics: 'Shababul Momeneen lyrics:
   Shaam..... Haye Shaam.....3
 
   Haye Shaam......6'
-# source_id: ziyaraat:412c1976c7cdb559dbd1
-# source_url: https://www.ziyaraat.net/api/noha/2915
-# raw_sha256: fb8fa8d0530d1d4e00806c042897298715a462349c67f9186153175af16aa8a3
-# source_id: ziyaraat:e401301ce37c64a60ad1
-# source_url: https://www.ziyaraat.net/api/noha/950
-# raw_sha256: 09873998257e3b37d850b29f9a816b0d8b89b47efbed575e6afd2bf5ce40efd3
 ---
 
 شام ہائے شام

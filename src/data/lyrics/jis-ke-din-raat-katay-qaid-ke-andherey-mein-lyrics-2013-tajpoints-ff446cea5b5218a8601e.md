@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ff446cea5b5218a8601e
-# source_url: https://tajpoints.com/2020/03/jis-ke-din-raat-katay-qaid-ke-andherey.html
-# raw_sha256: 6db8be4df3b80443ff1e9bce7c9e5ef69af97682940aa08b26418e70d73f889b
 ---
 
 Jis Ke Din Raat Katay Qaid Ke Andherey Mein Pursa Deney Ossay Zahra Bhi Tu Aayi Ho Gi.

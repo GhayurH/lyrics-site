@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fe643241894d8e82a5d9
-# source_url: https://tajpoints.com/2023/02/mila-hai-hukam-ke-likhon-teri-sana.html
-# raw_sha256: 168c2015d30f5525aa50c14caa319128c6e68f83e5e93dc46194bfeffaca2b75
 ---
 
 Mila Hai Hukam Ke Likhon Teri Sana Zainab

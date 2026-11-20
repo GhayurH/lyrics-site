@@ -74,9 +74,6 @@ romanLyrics: |-
   Gar ijazat de Husain arsh hila sakta hoo
   Is alam se nayi tarikh bana sakta hoo
   Haa mai alamdar haa mai alamdar
-# source_id: nohayonline:d79bdadef7855241e995
-# source_url: https://www.nohayonline.com/details_content.php?id=1712
-# raw_sha256: 3aa92f3d7572102a5c79a08b37d7da83b9346ecaaf1293d9cdf53d3a106c3f8b
 ---
 
 ۱

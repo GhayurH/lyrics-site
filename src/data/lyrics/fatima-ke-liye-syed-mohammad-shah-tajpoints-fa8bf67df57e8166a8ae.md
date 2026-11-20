@@ -8,9 +8,6 @@ poet: "Salman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fa8bf67df57e8166a8ae
-# source_url: https://tajpoints.com/2024/01/fatima-ke-liye-syed-mohammad-shah.html
-# raw_sha256: 657c1b244d86d573adc573dc9d65d7d1615bf3b274c50f9e6b03563251c06213
 ---
 
 1

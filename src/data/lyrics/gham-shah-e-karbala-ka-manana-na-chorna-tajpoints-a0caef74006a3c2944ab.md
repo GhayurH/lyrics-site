@@ -8,9 +8,6 @@ poet: "Danish"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a0caef74006a3c2944ab
-# source_url: https://tajpoints.com/2019/08/gham-shah-e-karbala-ka-manana-na-chorna.html
-# raw_sha256: b4ca95d8d2ce16b809535db4bd0b2ff83be815b5a9fa8e042a0e2a72667d4744
 ---
 
 Gham Shah-e-Karbala Ka Manana Na Chorna.

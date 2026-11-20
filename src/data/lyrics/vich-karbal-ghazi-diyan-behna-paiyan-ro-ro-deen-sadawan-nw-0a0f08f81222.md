@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:0a0f08f812223908eea5
-# source_url: https://www.nohawriteups.org/vich-karbal-ghazi-diyan-behna-paiyan-ro-ro-deen-sadawan/
-# original_html: snapshots/nohawriteups/original_html/0a0f08f812223908eea5.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/0a0f08f812223908eea5.json
-# api_content_sha256: bb5360a67a1664d1c71ac3bdf426ee8bb5d484e77a118c2035ae783c5604996a
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Vich Karbal, Ghazi Diyan Behna, Paiyan Ro Ro Deen Sadawan

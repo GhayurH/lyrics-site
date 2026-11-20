@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7bbaef63d39038a8547e
-# source_url: https://tajpoints.com/2024/02/mera-aka-hussain-sarwar-raza-karbalai.html
-# raw_sha256: 98e33443a4304b59dea7672d538b88f462526950587e467797cc97ffdb064363
 ---
 
 Mera Aka Hussain Sarwar Raza Karbalai.

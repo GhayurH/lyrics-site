@@ -8,9 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:a5cc8e1718632755b968
-# source_url: https://www.ziyaraat.net/api/noha/1139
-# raw_sha256: 6fe85d212527eccee32b09221a40f0270c480052036536ed44c7fe4d496d20dc
 romanLyrics: |-
   Aja mere Hsain
   Aja mere Husain

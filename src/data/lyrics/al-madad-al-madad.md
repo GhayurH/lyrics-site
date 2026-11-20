@@ -67,12 +67,6 @@ romanLyrics: |-
   Hai ye noha tera tere dil ki sada
   Koi bhi gham na hoga tujhe ab
   Teri bakhshish ki zaamin hai Zainab
-# source_id: nohayonline:7f244be23932c11a6380
-# source_url: https://www.nohayonline.com/details_content.php?id=3440
-# raw_sha256: 99fd79825218e3da09d5b3df0c15425bdc16948c8cafbaca600ec3066ae49a54
-# source_id: ziyaraat:19009afc183717a8b797
-# source_url: https://www.ziyaraat.net/api/noha/312
-# raw_sha256: e759bb01a8de876a6abcecdcd59ed08afe0abefe5ebb75eb90fc9d3e954855a5
 ---
 المدد المدد یا علی
 بے ردا ہو کے زینب چلی

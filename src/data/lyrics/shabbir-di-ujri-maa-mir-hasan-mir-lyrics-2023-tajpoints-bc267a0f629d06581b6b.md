@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bc267a0f629d06581b6b
-# source_url: https://tajpoints.com/2023/07/shabbir-di-ujri-maa-mir-hasan-mir.html
-# raw_sha256: ab3831bee73b1dd8c378f01ba95890f2eb1007f60eac48f849754f2070962eca
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:bc71ccf9e6d9f7f161dd
-# source_url: https://tajpoint.com/maa-ro-ro-ke-wain-kare-kuj-te-bool-akbar-new-noha/
-# raw_sha256: 1c4b71a3d6a6e428df0cf7677d46ccb91cdf65f94fdc3d591020f25670c2b0a4
 ---
 
 Maa Ro Ro Ke Wain Kare Kuj Te Bool Akbar New Noha.

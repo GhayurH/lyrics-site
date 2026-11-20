@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fa2c7de0c9c54b399a41
-# source_url: https://tajpoints.com/2017/02/aye-manba-e-tauqeer-tere-zikar-ke-sadqe.html
-# raw_sha256: 261f4963ad21291c3e44407de43d8e1f0171ed7fd54662b55e0e53bb9d3d3c96
 ---
 
 1

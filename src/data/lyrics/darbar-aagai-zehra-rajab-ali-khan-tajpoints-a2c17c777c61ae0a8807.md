@@ -8,9 +8,6 @@ poet: "Sahaab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a2c17c777c61ae0a8807
-# source_url: https://tajpoints.com/2022/12/darbar-aagai-zehra-rajab-ali-khan.html
-# raw_sha256: 9356e126185bd89b3e08b3cbf2588ee6658ae33963334e02b53b4d841f7445c9
 ---
 
 1

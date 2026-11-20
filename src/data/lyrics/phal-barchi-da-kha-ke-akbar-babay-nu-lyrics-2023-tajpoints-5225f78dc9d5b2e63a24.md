@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5225f78dc9d5b2e63a24
-# source_url: https://tajpoints.com/2023/06/phal-barchi-da-kha-ke-akbar-babay-nu.html
-# raw_sha256: 02ae67208bb3bcc2cd7b657d0e420d42069ab8d3326ab61aec37ab9cc5b4b15a
 ---
 
 1

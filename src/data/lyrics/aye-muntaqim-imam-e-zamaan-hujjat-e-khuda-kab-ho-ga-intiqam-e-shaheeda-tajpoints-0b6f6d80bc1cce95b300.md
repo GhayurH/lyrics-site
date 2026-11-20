@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0b6f6d80bc1cce95b300
-# source_url: https://tajpoints.com/2018/09/aye-muntaqim-imam-e-zamaan-hujjat-e.html
-# raw_sha256: 6407669c7014203b79114c08e95cb58b7907b2f8c65b050ea5aefa5bf18189b6
 ---
 
 Kab Pori Ho Gi Hasrat-e-Abbas-e-Bawafa Kab Ho Ga Intiqam-e-Shaheedan-e-Karbala.

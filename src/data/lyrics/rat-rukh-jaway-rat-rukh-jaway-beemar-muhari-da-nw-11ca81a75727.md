@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:11ca81a7572787294cfd
-# source_url: https://www.nohawriteups.org/rat-rukh-jaway-rat-rukh-jaway-beemar-muhari-da/
-# original_html: snapshots/nohawriteups/original_html/11ca81a7572787294cfd.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/11ca81a7572787294cfd.json
-# api_content_sha256: 9fcce72f2e568b4f7b3688c9229ab5d4f0df3d7fe634ee616d39c77d00975833
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Rat Rukh Jaway, Rat Rukh Jaway, Beemar Muhari Da.

@@ -58,12 +58,6 @@ romanLyrics: |-
   Ghar se jaata tha janaaza jo Ali ka baahar
   Betiyaaṅ kehti thiṅ Zishaan o Raza ro ro kar
   Aakhri baar to Baba se mila do bhaiya
-# source_id: nohayonline:877d21241d6342bc8141
-# source_url: https://www.nohayonline.com/details_content.php?id=1343
-# raw_sha256: 01d3f9cd2f2b6a0385106be198aa2555df87904c31671e3e78b83dcc41d32585
-# source_id: nohawriteups:f78d5224ec1ac63e3f6f
-# source_url: https://www.nohawriteups.org/21-ramzan-noha-2020-rukh-se-ek-bar-kafan-aur-hata-do-syed-raza-abbas-zaidi-shahadat-mola-ali-lyrics/
-# raw_sha256: bed9689c73dc07e91c443795e88b39ee4fbeca3897482537aa129c847c73c05b
 ---
 ہائے حیدر کے جنازے پہ عجب منظر تھا
 بیٹیاں قدموں سے لپٹی تھیں بصد آہ و بکا

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:7a055b50a29410507da2
-# source_url: https://tajpoint.com/tere-bina-dil-nayi-lagda-aye-veran-aa-lay-saraan-2026/
-# raw_sha256: 74c736a4d89cd1a812720096fdb94c73ebc7864f5656293c1befc24f20cdf15b
 ---
 
 1

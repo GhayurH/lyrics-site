@@ -49,9 +49,6 @@ romanLyrics: |-
   7
   Naam usi hasti ke hai ye aaj ka nauha Amir
   Jo azal se ambiya ka mominoṅ sultaan hai
-# source_id: nohayonline:a357b352458453451227
-# source_url: https://www.nohayonline.com/details_content.php?id=681
-# raw_sha256: 388827a4a5ad2ab4cc49c79e75d62a37abad0bc67868b1f21d30935fb7099812
 ---
 یہ مسلمانوں رسولِ پاک کا فرمان ہے
 تم میں چھوڑے جا رہا ہوں آل اور قرآن ہے

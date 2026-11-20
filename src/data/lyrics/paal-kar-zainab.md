@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   La ilaah ko jis ne sarnaama banaaya ae Navid
   Jis ne apne khun se un ki bina tayyaar ki
-# source_id: nohayonline:2ff0b53dc713f50a5698
-# source_url: https://www.nohayonline.com/details_content.php?id=1691
-# raw_sha256: fa038ae57fb2aacd6e218870e6a7b94c1fce56017ab7a9cc2bbb7c41a7411591
 ---
 پال کر زینب نے سب کو کربلا تیار کی
 دین کی حرمت پر لٹانے کو ردا تیار کی

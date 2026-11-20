@@ -113,9 +113,6 @@ romanLyrics: |-
   Kaun dekhe mera gham
   Mera ab koi nahiṅ Abid-e-muztar ke siwa
   Kis se faryaad karuṅ
-# source_id: nohayonline:1cdf2663a6e1bf5e6a64
-# source_url: https://www.nohayonline.com/details_content.php?id=3557
-# raw_sha256: 98bd46d8e3641205aafe27d61cc7eb6841d8b1f1c3bbc2ef6b5df9834467b662
 ---
 
 خواہر شاہ تڑپ کر یہی دیتی تھی صدا

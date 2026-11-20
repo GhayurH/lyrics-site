@@ -8,9 +8,6 @@ poet: "Mohtasham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fdab850e72fb60ee729c
-# source_url: https://tajpoints.com/2024/05/al-madad-fatima-bint-e-mosa-raza.html
-# raw_sha256: e6fc71963a4ad4f10044f44db79ae31d75b2be00a7f75772ff20573c7199caa8
 ---
 
 Al Madad Fatima Bint e Mosa Raza.

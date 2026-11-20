@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a6faf39d109b31c28c8e
-# source_url: https://tajpoints.com/2023/06/arsh-e-khuda-aye-banya-aj-farsh-e-aza.html
-# raw_sha256: e71399244fd9ed0220a58967af6430c9d57cd76d1d4d85aced6ccba25c3f2abe
 ---
 
 1

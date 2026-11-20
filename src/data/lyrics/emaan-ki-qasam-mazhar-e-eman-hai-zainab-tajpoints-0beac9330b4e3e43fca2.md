@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0beac9330b4e3e43fca2
-# source_url: https://tajpoints.com/2017/02/emaan-ki-qasam-mazhar-e-eman-hai.html
-# raw_sha256: 7b1808a3e6c85d7d2e1edaf370dee13dc5b17fffa68e39c75570c654013e9a44
 ---
 
 1

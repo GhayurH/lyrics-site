@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7214e8ac58b1855df64d
-# source_url: https://tajpoints.com/2023/06/veer-way-tera-sajda-wekhan-aa-gayi-aan.html
-# raw_sha256: aec775ceba777a6b165e071b4b52f8cb0e9e9fbb1be61d6f83f1fb0ed9b12663
 ---
 
 1

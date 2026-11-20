@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:39a8299d5738eb108a00
-# source_url: https://www.ziyaraat.net/api/noha/1733
-# raw_sha256: b69e05ece22e6e976bd5603a831cddad443160ff40c43951b4aa9ad219f6a562
 ---
 
 Pur dard shahadat hai ye mohsin ki shahadat

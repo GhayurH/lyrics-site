@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9a66ec7b4b5cdd379bc4
-# source_url: https://tajpoints.com/2023/07/shabir-ka-bhai-sarwar-raza-karbalai.html
-# raw_sha256: b2a7ba6c148dbe9320e8729443525f7f3f57fa7d71c7451c0f5f4f66a652babd
 ---
 
 Shabir Ka Bhai Sarwar Raza Karbalai.

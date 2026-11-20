@@ -8,9 +8,6 @@ poet: "Laeeq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bf81352df259e8e54990
-# source_url: https://tajpoints.com/2021/01/sawar-ki-ladli-lyrics-in-urdu-and-roman.html
-# raw_sha256: 782eb480fad75201452d3740af074f11df2ae105141ce51e89ec90a77fa882fb
 ---
 
 Sarwar Ki Ladli Ko Zulmon Ne Mar Wala.

@@ -53,10 +53,6 @@ romanLyrics: |-
   8
   Hum haiṅ Sarwar Hilal bahr-e-aza
   Ta qayamat yehi sahara hai
-# source_id: nohayonline:4c1121f408a9ff13e658
-# source_url: https://www.nohayonline.com/details_content.php?id=2607
-# raw_sha256: 28a381e563ed5188e07ad9547fb8a57eb9e617c293b08ecb8f951ac524dca774
-# editorial_note: "Seven unique introductory verses retained in Roman only; matching Urdu for that introduction needs editorial completion."
 ---
 آج بھی یہ علم ہمارا ہے
 ہر عزادار کا سہارا ہے

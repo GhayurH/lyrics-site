@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3a11e51e73a3f3430e04
-# source_url: https://tajpoints.com/2023/09/chehlum-hai-karbala-mein-hussaini-sipah.html
-# raw_sha256: 49454ab09816f6f5d8b599c6a00d2509ef5a19de4e7ea29bd8aee45757b5ac8a
 ---
 
 1

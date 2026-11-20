@@ -95,12 +95,6 @@ romanLyrics: |-
   Maaṅ dar pe hai khaime ke kahiṅ dekh na paaye
   Fizza se kaho khaime ke parde ko gira de
 reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
-# source_id: nohayonline:da523293dda56c8d4623
-# source_url: https://www.nohayonline.com/details_content.php?id=2897
-# raw_sha256: 8816d0acedc07ca68b11815989e974279472c92e5006240566239f8bc7120f4a
-# source_id: ziyaraat:7bf4b082fcd33845dbfa
-# source_url: https://www.ziyaraat.net/api/noha/2883
-# raw_sha256: b511a5b9a31e29cf82551d5a2c1c356beaf8704eefce437844fe09fca01f4936
 ---
 
 گھر گھر میں صفِ ماتمِ شبیر بچھا دے

@@ -8,9 +8,6 @@ poet: "Shakeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0a3761f663e2f00faf49
-# source_url: https://tajpoints.com/2017/02/shama-e-hidayat-pe-salam.html
-# raw_sha256: d70bb0df2b6aa55a35070a9220cb5c49c9c64af30cd32254adefb759d04cb93d
 ---
 
 1

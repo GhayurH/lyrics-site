@@ -94,12 +94,6 @@ romanLyrics: 'Ashoor ka manzar hai aur zainab
   Likh apne aansu''on se noha shahe zaman ka
 
   Phir tera muqaddar hai aur zainab'
-# source_id: nohayonline:d9f2996604ef9e0c0747
-# source_url: https://www.nohayonline.com/details_content.php?id=136
-# raw_sha256: 3921a070983f87cb5edaf285318cb25ab805cc8de47e282e3542b81840714b28
-# source_id: ziyaraat:44639b9354f9f08a950a
-# source_url: https://www.ziyaraat.net/api/noha/323
-# raw_sha256: 35c6ab9cf1a12a806940aeea4a30c45e09b6fe6619bbbf463161f0fec52e25c5
 ---
 
 عاشور کا منظر ہے اور زینب

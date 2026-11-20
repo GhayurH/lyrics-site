@@ -8,9 +8,6 @@ poet: "Joun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7f2a31c72d9ac946a100
-# source_url: https://tajpoints.com/2023/06/pisar-ruqaiya-ke-be-haal-maray-gaye.html
-# raw_sha256: a61cb12e481891a997c8e5f35323de75b5303a97402edd24df518e55a1825f8b
 ---
 
 1

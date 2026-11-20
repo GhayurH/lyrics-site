@@ -8,9 +8,6 @@ poet: "Hussain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8cdd0fcef3354c2b30d2
-# source_url: https://tajpoints.com/2023/03/hussain-qadir-hai-syed-ali-ghazi-zaidi.html
-# raw_sha256: 61c5a186258920fad8dee1c6854bf6807f93c057c20ba9c42707e5447714691b
 ---
 
 1

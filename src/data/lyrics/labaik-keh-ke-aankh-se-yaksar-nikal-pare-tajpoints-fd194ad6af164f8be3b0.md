@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fd194ad6af164f8be3b0
-# source_url: https://tajpoints.com/2017/02/labaik-keh-ke-aankh-se-yaksar-nikal-pare.html
-# raw_sha256: d14bc96f43095a15f4fd053b71170a6697e574b92a7d61ce10bd077f30f1ef4d
 ---
 
 Labaik Keh Ke Aankh Se Yaksar Nikal Pare.

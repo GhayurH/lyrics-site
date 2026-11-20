@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2455b3e9c8780aab9384
-# source_url: https://www.ziyaraat.net/api/noha/1242
-# raw_sha256: 173f2f4e363977fab8e37b2e0cc91217f66ed9e9745cfd4088dcf35975f468e2
 ---
 
 بازارِ شام دربارِ شام

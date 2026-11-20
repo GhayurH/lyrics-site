@@ -8,9 +8,6 @@ poet: "Nasim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0e187dd35723081f8938
-# source_url: https://tajpoints.com/2024/07/imtehane-hussain-as-saleem-mastan.html
-# raw_sha256: 186ce2f5cf5ba6a518f125c94b98c2c887e13a58df7802c0134895c4ba7e179b
 ---
 
 Imtehane Hussain AS Saleem Mastan Wa Bradran.

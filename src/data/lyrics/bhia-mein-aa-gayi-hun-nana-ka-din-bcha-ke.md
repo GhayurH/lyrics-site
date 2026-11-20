@@ -81,15 +81,6 @@ romanLyrics: 'Chehlum ke liye bhaiya aayi hai teri zainab
   Abbas ki lehad par pahuncha de mujhko koi
 
   Dikhladun ba-wafa ko rassi ke neel jaake'
-# source_id: nohayonline:1ef141c5303610e1eec8
-# source_url: https://www.nohayonline.com/details_content.php?id=299
-# raw_sha256: 877b95f0b8e68c06ff1b46ffa3b147e7b9e7a7502790778807d735907da497aa
-# source_id: ziyaraat:32023a33af1bc15f0703
-# source_url: https://www.ziyaraat.net/api/noha/1927
-# raw_sha256: a8635f21299ddfbfc615a624fb6fdc5f559d361aeadc2526f529d052e21a71f5
-# source_id: ziyaraat:874947b60fd9b55b1117
-# source_url: https://www.ziyaraat.net/api/noha/1163
-# raw_sha256: e7b809f8019f89d7c2330193fb9515e5a1f6d29d6532b7010d974acbbb460219
 ---
 
 چہلم کے لئے بھیاآئی ہے تیری زینبؑ

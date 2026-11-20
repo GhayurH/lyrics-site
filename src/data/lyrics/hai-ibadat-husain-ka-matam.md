@@ -76,9 +76,6 @@ romanLyrics: |-
   Bat ta hashr hogai ye gohar
   Jo karay ga Husain ka matam
   Matami woh shareefzada hay
-# source_id: ziyaraat:05eb2efc8ad21278e6e0
-# source_url: https://www.ziyaraat.net/api/noha/2144
-# raw_sha256: ae002534985cf6b917a6592a29e28f4883a9b60ba0147abe88218af06ba46cbd
 ---
 
 ہے عبادت حسینؑ کا ماتم

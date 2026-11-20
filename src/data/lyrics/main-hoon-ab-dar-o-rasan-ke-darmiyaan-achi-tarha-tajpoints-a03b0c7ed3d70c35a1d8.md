@@ -8,9 +8,6 @@ poet: "Sarosh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a03b0c7ed3d70c35a1d8
-# source_url: https://tajpoints.com/2018/01/main-hoon-ab-dar-o-rasan-ke-darmiyaan.html
-# raw_sha256: e270c069dde66768e653e1418744bd29de211fad0838bac879c7116fd91dcc06
 ---
 
 Main Hoon Ab Dar-o-Rasan Ke Darmiyaan Achi Tarha.

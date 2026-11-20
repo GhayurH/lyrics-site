@@ -45,9 +45,6 @@ romanLyrics: |-
   Maqsad-e-aza jo ho raha hai yuṅ bayaṅ
   Shah e Karbala ke zaer e saya e karam
   Madha khawan aik hai to ik hai noha khawaṅ
-# source_id: ziyaraat:879f66a453d0b399eb12
-# source_url: https://www.ziyaraat.net/api/noha/2423
-# raw_sha256: 3698cde19ab34eb35b823b0e15cc0e4191fb62cffae4faefbb06dc5624e9b21b
 ---
 
 یاابن الزہراؑ

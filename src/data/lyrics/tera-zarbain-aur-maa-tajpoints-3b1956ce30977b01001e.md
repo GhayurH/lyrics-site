@@ -8,9 +8,6 @@ poet: "Zahoor"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3b1956ce30977b01001e
-# source_url: https://tajpoints.com/2020/08/tera-zarbain-aur-maa-lyrics-in-urdu-and.html
-# raw_sha256: b9430ebdf265a093e130301505ea14e395f03af1b2555d5ffbbcae7f29f1a60e
 ---
 
 Pusht-e-Gardan Kund Khanjar Terah Zarbain Our Maa.

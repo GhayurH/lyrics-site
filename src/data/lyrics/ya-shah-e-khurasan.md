@@ -46,9 +46,6 @@ romanLyrics: |-
   8
   Ae Musa-e-Kazim ke pisar shaah-e-wilaayat kehti hai aqidat
   Kiya Mir Takallum ye zamaana tere qurbaan ya shaah-e-Khurasan
-# source_id: tajpoints:390b93d0ed17bddf821e
-# source_url: https://tajpoints.com/2022/10/ya-shah-e-khurasan-mir-hasan-mir-lyrics.html
-# raw_sha256: 80414e293b19e96e024894c3d7278e82fe66bc85d8228805bf5b710f75017f34
 ---
 
 جن کو سب لوگ غریب الغربا کہتے ہیں

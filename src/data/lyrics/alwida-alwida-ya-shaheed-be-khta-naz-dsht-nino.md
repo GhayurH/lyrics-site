@@ -8,9 +8,6 @@ reciter: "Zeeshan Haider"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:9a515b1962f524e21efe
-# source_url: https://www.ziyaraat.net/api/noha/1668
-# raw_sha256: b37a78ffdbf48b20bef60d2affd5aa9f1b87097dd08c97aeb881cad27fb6d6e5
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:87971e27518f0c42d157
-# source_url: https://tajpoints.com/2023/03/madh-e-mehdi-jab-se-ki-lyrics-in-urdu.html
-# raw_sha256: b5073d884bbc0ff5f621e697ae01144057702eea6b963c82959609fbc99a31b0
 ---
 
 Madh-e-Mehdi Jab Se Ki Toseef-e-Haider Ki Tarha.

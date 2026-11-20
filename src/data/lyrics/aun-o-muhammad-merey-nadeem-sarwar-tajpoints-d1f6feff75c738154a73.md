@@ -8,12 +8,6 @@ reciter: "Nadeem Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d1f6feff75c738154a73
-# source_url: https://tajpoints.com/2022/12/aun-o-muhammad-merey-nadeem-sarwar.html
-# raw_sha256: fd1f536994ae7ad1d063289dc90e244ace29dde65aa392ec7dbd1425b3774c37
-# source_id: ziyaraat:99f69bbdd24d6ce1e386
-# source_url: https://www.ziyaraat.net/api/noha/976
-# raw_sha256: d9305b1550ce82c8116e9916deffbeea0adec549e3cfd264fc73b16955885420
 ---
 
 Kehti thi Zainab, Ay mere sheyro

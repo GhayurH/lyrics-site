@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:4cdd13c6f2e780f25d9a
-# source_url: https://www.ziyaraat.net/api/noha/417
-# raw_sha256: 69d261e5f50efb5ab00a348907a10ea5f8cad35d5185ee964067bcf44d496ce9
 ---
 
 1) Bali Sakina ro nahi bimare mar najaye

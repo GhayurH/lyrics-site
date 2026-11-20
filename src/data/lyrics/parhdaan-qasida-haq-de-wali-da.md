@@ -12,7 +12,6 @@ year: 2009
 tags: []
 aliases: ["parhdaan-qasida-haq-de-wali-da-lyrics-nadeem-sarwar-2009", "Parhdaan Qasida Haq De Wali Da Lyrics Nadeem Sarwar 2009"]
 published: true
-# Punjabi/Saraiki source wording is retained in both scripts; language uses the available schema label.
 romanLyrics: |-
   Parhdaaṅ qasida Haq de Wali da
   Ral ke sunrao oh naara Ali da
@@ -52,9 +51,6 @@ romanLyrics: |-
   Saare jahaaṅ layi Rab da inaam hin
   Ahmad tu le ke Imam-e-Zamaaṅ taeiṅ
   Saara hi sohnra haaṅ kunba Ali da
-# source_id: tajpoints:4a875ca8ccc568dccd73
-# source_url: https://tajpoints.com/2019/04/parhdaan-qasida-haq-de-wali-da-lyrics.html
-# raw_sha256: b050e8d4cca665c95fc22fda93b6073fbcdffaf2bc05e548f6f5c569f1c8b744
 ---
 پڑھداں قصیدہ حق دے ولی دا
 رل کے سنڑاؤ اوہ نعرہ علی دا

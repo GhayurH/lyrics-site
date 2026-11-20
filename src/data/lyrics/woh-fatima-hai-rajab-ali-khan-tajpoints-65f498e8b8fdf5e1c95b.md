@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:65f498e8b8fdf5e1c95b
-# source_url: https://tajpoints.com/2021/02/woh-fatima-hai-rajab-ali-khan-lyrics-in.html
-# raw_sha256: 3c6fcc5201284c3c364c7008a84a1245f2dc2d3bfe3ca6471c82ba3921a33d1d
 ---
 
 Woh Fatima Hai

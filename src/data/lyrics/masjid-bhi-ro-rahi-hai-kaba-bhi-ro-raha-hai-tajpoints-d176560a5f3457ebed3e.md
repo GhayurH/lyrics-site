@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d176560a5f3457ebed3e
-# source_url: https://tajpoints.com/2019/05/masjid-bhi-ro-rahi-hai-kaba-bhi-ro-raha.html
-# raw_sha256: e0c89e0515150e3589f2c75666eb235537df22f208e5d3531442b8ee8b6990c5
 ---
 
 1

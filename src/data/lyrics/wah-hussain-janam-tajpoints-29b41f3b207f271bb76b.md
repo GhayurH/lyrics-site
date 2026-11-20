@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:29b41f3b207f271bb76b
-# source_url: https://tajpoints.com/2019/01/wah-hussain-janam.html
-# raw_sha256: 737ad5f96f47e8af74fde7bc0ba08ef463a60b30d2e24d4b82f08cd5d9e338ba
 ---
 
 Wah Hussain Janam.

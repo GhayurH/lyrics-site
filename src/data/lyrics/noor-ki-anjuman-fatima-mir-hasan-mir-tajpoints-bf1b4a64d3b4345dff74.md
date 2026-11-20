@@ -8,9 +8,6 @@ poet: "Sarosh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bf1b4a64d3b4345dff74
-# source_url: https://tajpoints.com/2022/10/noor-ki-anjuman-fatima-mir-hasan-mir.html
-# raw_sha256: 682d5e468b4ec6548d14c46ec522b174a9c1bb1b76ef4148f4785f35e98ca08a
 ---
 
 1

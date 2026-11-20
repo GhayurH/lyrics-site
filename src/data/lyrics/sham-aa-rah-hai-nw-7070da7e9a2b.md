@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:7070da7e9a2b72bcda2f
-# source_url: https://www.nohawriteups.org/sham-aa-rah-hai/
-# original_html: snapshots/nohawriteups/original_html/7070da7e9a2b72bcda2f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/7070da7e9a2b72bcda2f.json
-# api_content_sha256: c82bd258802e194a0080e5c3de43e3b3d5054d219673316de0e4b9231f50f465
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 saadaat be-rida hai abid ka sar jhuka hai

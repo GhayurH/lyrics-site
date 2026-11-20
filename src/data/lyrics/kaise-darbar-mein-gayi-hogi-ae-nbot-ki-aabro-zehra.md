@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:b189a0e0209c984b7d44
-# source_url: https://www.ziyaraat.net/api/noha/291
-# raw_sha256: 826704940edc414db0251fe56a3a38b298bfafd5f2884a9506afbbf5dd9a7830
 ---
 
 Kesay darbaar meiṅ gayi hogi ae nabuwat ki aabroo Zehra

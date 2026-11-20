@@ -8,9 +8,6 @@ poet: "Taseer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3fcf719c8f236b47231d
-# source_url: https://tajpoints.com/2023/06/aza-k-deep-jalao-zohaib-ali-khuwaja.html
-# raw_sha256: df346332d65269c3afa311d90690231e891f74dec3208eacfb9a73f7cf367dc7
 ---
 
 1

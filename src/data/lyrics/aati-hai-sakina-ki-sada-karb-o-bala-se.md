@@ -24,12 +24,6 @@ romanLyrics: |-
   Maaṅ bahneṅ khule sar haiṅ lahu roti haiṅ aaṅkheṅ
   Uthta nahiṅ bhai ka mere sar haa-e-haya se
   Ammu ho kahaaṅ aap ke ham haiṅ abhi pyaase
-# source_id: nohayonline:f7d3d754ce1be73ed6ae
-# source_url: https://www.nohayonline.com/details_content.php?id=459
-# raw_sha256: 895c81bc18e8802e06b9402f1121ee6c07c18305de3d39626b80918de3a84f88
-# source_id: ziyaraat:233b14941255c03965d4
-# source_url: https://www.ziyaraat.net/api/noha/1197
-# raw_sha256: 5f928a717de725319674705499ae707b0b43136925f478cdcc2b1186ced0f4a1
 ---
 
 آتی ہے سکینہؑ کی صدا کرب و بلا سے

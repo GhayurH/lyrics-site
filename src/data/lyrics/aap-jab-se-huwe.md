@@ -59,9 +59,6 @@ romanLyrics: |-
   11
   Najm o Rehan par bhi kar do karam
   Hai ye Zehra ki iltija baba
-# source_id: nohayonline:8d4234a8cb8b4b9f3372
-# source_url: https://www.nohayonline.com/details_content.php?id=1375
-# raw_sha256: 819272228971b2982af96b9ec77a88e78e4a92e7109904ae61b622ddfbd91eb8
 ---
 یا رسول اللّٰہ
 اپنی تنہائی میں زہرا یاد کرتی ہے تمہیں

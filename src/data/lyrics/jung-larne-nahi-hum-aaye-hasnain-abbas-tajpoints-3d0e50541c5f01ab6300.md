@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3d0e50541c5f01ab6300
-# source_url: https://tajpoints.com/2024/04/jung-larne-nahi-hum-aaye-hasnain-abbas.html
-# raw_sha256: 2d212ff2728fd86e42ee24a01471eb5b993219feaf292e7a57b4425393127d88
 ---
 
 1

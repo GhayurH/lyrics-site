@@ -50,9 +50,6 @@ romanLyrics: |-
   9
   Aamir o Akhtar ashk na roko nauhe meiṅ
   Jannat tak awaaz tumhari jaati hai
-# source_id: nohayonline:2a2e005156003d395b26
-# source_url: https://www.nohayonline.com/details_content.php?id=3101
-# raw_sha256: 7ca813c16754b992e5bd4280a848ccd2f574fde19f6781f7768890f206829858
 ---
 یہ کیسی رہائی ہے
 عابد کی زنجیر اتاری جاتی ہے

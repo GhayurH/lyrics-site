@@ -68,14 +68,6 @@ romanLyrics: |-
   Zindaaṅ meiṅ Anis-e-gham karte haiṅ haram maatam
   Maaṅ puchhti hai paiham kiuṅ aaṅkh hai ye purnam
   Kya mar gayi dildaar
-# source_id: nohayonline:db8d851aa4d4118dab3e
-# source_url: https://www.nohayonline.com/details_content.php?id=60
-# raw_sha256: 2765cf57d1ac73bd24eb0ee387cff06d15012b709edce6ae191171e870af7011
-# source_id: nohawriteups:4f89c46f433f25ea3cd6
-# source_url: https://www.nohawriteups.org/sham-ka-bazaar/
-# original_html: snapshots/nohawriteups/original_html/4f89c46f433f25ea3cd6.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/4f89c46f433f25ea3cd6.json
-# api_content_sha256: 8223d53fd9deae54b3efece10ad978a8acad2515d18ba9e11de8f8a9b254fc3a
 ---
 شام کا بازار عابدِ بیمار
 پاؤں میں بیڑی طوقِ گراں بار

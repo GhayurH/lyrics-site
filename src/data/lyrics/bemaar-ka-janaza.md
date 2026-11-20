@@ -59,9 +59,6 @@ romanLyrics: |-
   Bimaar-e-Karbala ka sab ke diloṅ meiṅ gham hai
   Nazroṅ meiṅ ghumta hai khuddaar ka janaaza
   Aahista se uthaao bimaar ka janaaza
-# source_id: nohayonline:60ba5d9475b0722393d9
-# source_url: https://www.nohayonline.com/details_content.php?id=3396
-# raw_sha256: 83d716aeabc7f4de7f099b6fb677d0d29a7835ac8efff7f8fc4b6af0b5ca0128
 ---
 
 اللّٰہ رے قیامت اللہ رے قیامت

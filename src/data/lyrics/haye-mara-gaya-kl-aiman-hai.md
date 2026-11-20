@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:cbfc02588b849db2e128
-# source_url: https://www.ziyaraat.net/api/noha/2024
-# raw_sha256: b607b9692b90ca3f0724219e40dacb95630f8f68d1766cd1ba2722d31cc04390
 ---
 
 Haaye mara gaya kull-e-Imaan hay

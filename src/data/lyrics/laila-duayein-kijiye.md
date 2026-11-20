@@ -62,9 +62,6 @@ romanLyrics: |-
   Pahunche jawaaṅ ke paas jab rote huwe sarwar
   Barchi yehi kehte huwe sine se nikaali
   Laila duayeiṅ kijiye...
-# source_id: nohayonline:5e30805b680dd6fe258a
-# source_url: https://www.nohayonline.com/details_content.php?id=2837
-# raw_sha256: c982075d1725d98879cab6a91215a2eea4f8a51afb404bd354281e2a6766b341
 ---
 
 ۱

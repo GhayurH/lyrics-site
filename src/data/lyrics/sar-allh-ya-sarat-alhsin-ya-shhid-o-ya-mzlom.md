@@ -49,9 +49,6 @@ romanLyrics: |-
   Gir gaya lo aasmaṅ khaak par - Ya Husain, Ya Husain
   Gir gaya lo aasmaṅ khaak par
   Zulm se jab sar zamiṅ par gira
-# source_id: ziyaraat:cc23d316e37b1471585b
-# source_url: https://www.ziyaraat.net/api/noha/2098
-# raw_sha256: 10f3b73b7b2fbaf86a9b494f8595d3c649d929ce1cb73b5a1f3365130e3054f8
 ---
 
 ثار اللہ یا ثاراتُ الحسینؑ

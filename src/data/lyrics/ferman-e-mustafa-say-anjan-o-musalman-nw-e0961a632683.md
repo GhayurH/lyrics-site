@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e0961a632683c9f68e9b
-# source_url: https://www.nohawriteups.org/ferman-e-mustafa-say-anjan-o-musalman/
-# original_html: snapshots/nohawriteups/original_html/e0961a632683c9f68e9b.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e0961a632683c9f68e9b.json
-# api_content_sha256: e52368185da525db0b9b8b6296214e31a246dc934cd2b6a485846c5cca646bea
 ---
 
 Ferman e Mustafa say anjan o musalmaa’n..

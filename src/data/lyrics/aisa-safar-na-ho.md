@@ -50,9 +50,6 @@ romanLyrics: |-
   Mohsin mujib bali sakina ne ki fughaṅ
   Mujh ghamzada ki tarha koi bepidar na ho
   Aisa safar na ho...
-# source_id: nohayonline:d6320fae6e6d4c1bcb60
-# source_url: https://www.nohayonline.com/details_content.php?id=2453
-# raw_sha256: 0f3dd7abee7bc2acb88d29862890ba3ecb83fc00a22ae722143cc7fe29f2aa86
 ---
 
 ۱

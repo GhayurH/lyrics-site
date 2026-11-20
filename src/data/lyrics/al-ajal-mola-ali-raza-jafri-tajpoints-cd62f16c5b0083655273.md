@@ -8,9 +8,6 @@ poet: "Shehwaar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cd62f16c5b0083655273
-# source_url: https://tajpoints.com/2025/02/al-ajal-mola-ali-raza-jafri-lyrics-urdu.html
-# raw_sha256: b1b617cd5063403d95703ca6c8f4010bf53bc512e0bfdc754eac8e936b9313f9
 ---
 
 Kahin Sab Aap Se Rodad, Al-Ajal Maula.

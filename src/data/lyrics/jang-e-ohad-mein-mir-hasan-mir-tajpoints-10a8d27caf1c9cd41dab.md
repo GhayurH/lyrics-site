@@ -8,9 +8,6 @@ poet: "Nayab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:10a8d27caf1c9cd41dab
-# source_url: https://tajpoints.com/2022/10/jang-e-ohad-mein-mir-hasan-mir-lyrics.html
-# raw_sha256: 79a2c133168bfd0e8ce1a107bc7a79289114ce85d8f9b45c9b37b4b4c1894f3d
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Anees"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7ddcb535adc841c67662
-# source_url: https://tajpoints.com/2024/06/ghadeer-yaad-rahay-mir-hasan-mir-lyrics.html
-# raw_sha256: c5a3478ffb884e1ae411199c08742b6dae2467951a63953b46b56ab635adede7
 ---
 
 1

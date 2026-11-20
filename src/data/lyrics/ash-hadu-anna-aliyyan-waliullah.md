@@ -68,9 +68,6 @@ romanLyrics: |-
   Pehlo pe zakham kha k bachaya tha aap nay
   Mai nay rida luta k,  bachaya hai ba’khuda, Ali un Wali Ullah
   Haye Ali Haye Ali
-# source_id: ziyaraat:1459a823ebef6f6b2b95
-# source_url: https://www.ziyaraat.net/api/noha/2003
-# raw_sha256: dc65970a49e89d647f43922550ec98c2987e05f1a300747c1f5ca0377d9cf2b2
 ---
 
 ۱

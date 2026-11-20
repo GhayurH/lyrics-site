@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0ee16227ec0824c369fb
-# source_url: https://tajpoints.com/2017/02/rooz-barpa-hai-ik-azay-e-hussainas.html
-# raw_sha256: 8cf5166d5f2f4a0ab04f46d1c866b00a64b91262eb9546c3b16e5e807cc9ac32
 ---
 
 Rooz Barpa Hai Ik Azay-e-Hussain.

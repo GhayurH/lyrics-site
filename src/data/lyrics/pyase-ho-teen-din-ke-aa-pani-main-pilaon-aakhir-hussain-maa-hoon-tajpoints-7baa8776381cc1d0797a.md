@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7baa8776381cc1d0797a
-# source_url: https://tajpoints.com/2018/09/pyase-ho-teen-din-ke-aa-pani-main.html
-# raw_sha256: 2d00b7e082d400e151b750f04d7d0f32c0c96d486198e04d60366b1e9cdc37cd
 ---
 
 Pyase Ho Teen Din Ke Aa Pani Main Pilaon Aakhir Hussain Maa Hoon.

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ec5733ae607bb84920cb
-# source_url: https://tajpoints.com/2023/02/sughra-aye-ro-ro-wain-kare-sheraz-khan.html
-# raw_sha256: a61d84d0dafb418ce2a5adb0279058bfbc8b77ca49c35835329393853379e4dc
 ---
 
 Sughra Aye Ro Ro Wain Kare Sheraz Khan

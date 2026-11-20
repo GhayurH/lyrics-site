@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:ef33323ff26bc748f7b1
-# source_url: https://www.ziyaraat.net/api/noha/2524
-# raw_sha256: 1fc341c8040f947b5072c8aa16b88c1613ac9c7cb22366a905b51c4fe7e76a72
 ---
 
 یا فاطمہؑ پُرسہ لو، موسیٰ بنِ جعفرؑ کا

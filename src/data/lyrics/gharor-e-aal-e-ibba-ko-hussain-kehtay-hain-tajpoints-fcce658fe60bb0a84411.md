@@ -8,9 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fcce658fe60bb0a84411
-# source_url: https://tajpoints.com/2018/05/gharor-e-aal-e-ibba-ko-hussain-kehtay.html
-# raw_sha256: 2826e4bf2f28733bdaba6198b63327e9d7ec9cdcf911f7c530ff679316548847
 ---
 
 Gharor-e-Aal-e-Ibba Ko Hussain Kehtay Hain.

@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:998cc6aaa54b21d44573
-# source_url: https://tajpoints.com/2022/01/fatima-zahra-ki-chadar-syed-askari.html
-# raw_sha256: f26c931c8c29ae3d853c1f86f62123c34082580f687148901ba83d760556e87f
 ---
 
 Fatima Zahra Ki Chadar Syed Askari Hasan.

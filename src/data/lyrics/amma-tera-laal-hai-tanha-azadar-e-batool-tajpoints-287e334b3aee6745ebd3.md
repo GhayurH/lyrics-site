@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:287e334b3aee6745ebd3
-# source_url: https://tajpoints.com/2024/08/amma-tera-laal-hai-tanha-azadar-e-batool.html
-# raw_sha256: 90b034ae72982a031545162e0aeec800040a74dd29af2d9c45eb0807801c82ab
 ---
 
 1

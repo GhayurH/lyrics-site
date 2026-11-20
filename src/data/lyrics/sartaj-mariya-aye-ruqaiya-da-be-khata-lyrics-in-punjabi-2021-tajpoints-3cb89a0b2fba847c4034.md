@@ -8,9 +8,6 @@ poet: "Sabit"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3cb89a0b2fba847c4034
-# source_url: https://tajpoints.com/2021/07/sartaj-mariya-aye-ruqaiya-da-be-khata.html
-# raw_sha256: d72d60d37b641692ff58cc59d3d57e9ea92387c4c2cff97a3812f119136dec50
 ---
 
 1

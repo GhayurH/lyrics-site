@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5fc0ba8d616b5ca67a75
-# source_url: https://tajpoints.com/2023/05/namaz-e-wila-mir-hasan-mir-lyrics-in.html
-# raw_sha256: 2c955124755e8bbe35771207ef7b12c8bdc595aeddd379f0a94edd5c0222f50e
 ---
 
 Namaz e Wila Mir Hasan Mir Lyrics

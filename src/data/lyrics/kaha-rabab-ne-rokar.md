@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Rabab qabr-e-Sakina se jab Raza uthi
   Har ek lamha tha lab par watan chalo beti
-# source_id: nohayonline:4ae5260dc4f51e5bba92
-# source_url: https://www.nohayonline.com/details_content.php?id=1984
-# raw_sha256: d85573d6d37ff48c71f475c75bb92ae37338021c62e80ec5a0e0ddfee241aee7
 ---
 کہا رباب نے رو کر وطن چلو بیٹی
 یہ ماں ہو تم پہ نچھاور وطن چلو بیٹی

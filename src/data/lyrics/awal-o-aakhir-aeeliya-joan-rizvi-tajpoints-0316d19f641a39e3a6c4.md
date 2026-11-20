@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0316d19f641a39e3a6c4
-# source_url: https://tajpoints.com/2023/02/awal-o-aakhir-aeeliya-joan-rizvi-lyrics.html
-# raw_sha256: fac9aea2f1df1167bbeb779ea23514669eb1c2aa3ec9bb3e3915c13b939d7607
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ca833dff7e9441147c77
-# source_url: https://tajpoints.com/2017/02/tu-mujhey-rida-de-day-main-tujhe-kafan.html
-# raw_sha256: 1136a39cc098ee47e666d1f1cc9c9c771cfe408e77caf5e08f2ea7d0bce9b665
 ---
 
 1

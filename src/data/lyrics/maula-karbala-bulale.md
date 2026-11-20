@@ -58,9 +58,6 @@ romanLyrics: |-
   Farhan o mazhar hai dua maula sar e karbobala
   De qabr ki hum ko jagah
   Ya maula karbala bula le rauza dikha de maula
-# source_id: nohayonline:593eea282eab7a8b31d6
-# source_url: https://www.nohayonline.com/details_content.php?id=2818
-# raw_sha256: af9e09e939f1a0bec13428c71394b1f71b4a0caf2d92bf561c0f612273c29d57
 ---
 
 ۱

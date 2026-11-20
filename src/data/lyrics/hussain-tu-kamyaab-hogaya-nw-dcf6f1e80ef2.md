@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:dcf6f1e80ef21cec069c
-# source_url: https://www.nohawriteups.org/hussain-tu-kamyaab-hogaya/
-# original_html: snapshots/nohawriteups/original_html/dcf6f1e80ef21cec069c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/dcf6f1e80ef21cec069c.json
-# api_content_sha256: 4f09ce3f23769a3b227cd604f8dd3cbe3c131f9a7003c9f2bbb7a631aa8add8b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Hussain (A.S) Tu Kamyaab Hogaya

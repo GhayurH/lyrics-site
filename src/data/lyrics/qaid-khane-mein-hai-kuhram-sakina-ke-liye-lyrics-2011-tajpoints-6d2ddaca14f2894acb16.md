@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6d2ddaca14f2894acb16
-# source_url: https://tajpoints.com/2018/10/qaid-khane-mein-hai-kuhram-sakina-ke.html
-# raw_sha256: 58e64569754e9c6f64be1a952457d3e856fb0f1d3924a3e146f99dfeb49af53e
 ---
 
 1

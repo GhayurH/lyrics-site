@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ee8dd9b8b21acd36f183
-# source_url: https://www.nohawriteups.org/okhay-safar-nay-maawaan-guldasta-e-jaffria/
-# original_html: snapshots/nohawriteups/original_html/ee8dd9b8b21acd36f183.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ee8dd9b8b21acd36f183.json
-# api_content_sha256: b2403b040dbf8498e37d78a0176e760cfb551975e1c8d615254abc05555b147e
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Okhay safar nay maawaa’n day baaj ridawaa’n day.

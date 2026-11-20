@@ -8,9 +8,6 @@ poet: "Baqi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:843ce2241d3996c94070
-# source_url: https://tajpoints.com/2017/02/mujh-se-bichar-ke-woh-bhi-pareshan-tha.html
-# raw_sha256: b5a68a0702839fa0871f1c9d1ff532ac1b460df9cb8c97808bcbf3ccf56e7e92
 ---
 
 1

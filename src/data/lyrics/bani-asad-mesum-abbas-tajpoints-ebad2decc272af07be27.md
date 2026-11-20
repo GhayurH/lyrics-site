@@ -8,9 +8,6 @@ poet: "Mazhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ebad2decc272af07be27
-# source_url: https://tajpoints.com/2021/11/bani-asad-mesum-abbas-lyrics-in-urdu.html
-# raw_sha256: 95abab70d0f9d91d50029c53834b1fe2ab2568c723b371bd707e00985987d271
 ---
 
 1

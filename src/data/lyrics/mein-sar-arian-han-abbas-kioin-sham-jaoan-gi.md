@@ -33,9 +33,6 @@ romanLyrics: |-
 
   6
   Kewaiṅ Parda Banawaṅ Gin.
-# source_id: ziyaraat:510e4003dc5a60e9622b
-# source_url: https://www.ziyaraat.net/api/noha/2585
-# raw_sha256: 7add559571b4d6474d87342c3fb6b416dff4e6328aa7c6d34de3dd151ecc87c0
 ---
 
 میں سَر عریاں ہاں عباسؑ کیویں شام جاواں گی

@@ -10,9 +10,6 @@ reciter: "Syed Minhal Abbas Jaffery"
 tags: []
 aliases: []
 published: true
-# source_id: tajpoints:bc2312ede57ea0e8c55c
-# source_url: https://tajpoints.com/2019/03/ali-asghar-tu-hai-mushkil-mein-ali.html
-# raw_sha256: a681ad19b4f27132d5e1c000233b1d08b87c77b3da5e00187d2699642d6f8990
 romanLyrics: |-
   Ali Asghar tu hai mushkil meiṅ Ali
   Karbala meiṅ jise dushman ne kaha Sher-e-Jali

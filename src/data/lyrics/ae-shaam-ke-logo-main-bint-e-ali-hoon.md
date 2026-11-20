@@ -58,15 +58,6 @@ romanLyrics: |-
   Bibi ne kaha fakhr se
   Main jit gai huṅ
 reciter: "Meer Hasan Meer"
-# source_id: nohayonline:1db48a37094c0ef73175
-# source_url: https://www.nohayonline.com/details_content.php?id=297
-# raw_sha256: ba720e44625dafc3df53aae7267e3a4896a50fc99876a6be4531cceb05fa121f
-# source_id: ziyaraat:276b3b9b150c41bea9e3
-# source_url: https://www.ziyaraat.net/api/noha/1851
-# raw_sha256: 591bb2e7992645beffeb8d0844edbc7675acf6b55bc53ec8e6304e26ff6a32f6
-# source_id: ziyaraat:661b43d1721dff9d6b7b
-# source_url: https://www.ziyaraat.net/api/noha/1966
-# raw_sha256: a2b62028fcdf91bc7f2118e582617c762f6b96a4a396a1051027ed6d79574c71
 ---
 
 ميں بنت علی ھوں

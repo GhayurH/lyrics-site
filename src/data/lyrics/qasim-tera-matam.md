@@ -53,9 +53,6 @@ romanLyrics: |-
   Nazraana Azizi ka Arif ki zabaani hai
   Mil jaaye hameṅ bakhshish nauhe to bahaana hai
   Is dasht-e-Karbala meiṅ Qasim tera maatam hai
-# source_id: nohayonline:bf6fb9173efe13d77683
-# source_url: https://www.nohayonline.com/details_content.php?id=1337
-# raw_sha256: 0982800b826875697d4f1da5da1f559063b1fad1a3d838ec520c481d53e2ce58
 ---
 اتہاس کے پنوں پر قاسم تیرا ماتم ہے
 کربوبلا کے بن میں قاسم تیرا ماتم ہے

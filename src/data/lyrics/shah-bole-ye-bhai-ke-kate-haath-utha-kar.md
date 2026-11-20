@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:17445a15196108843ffe
-# source_url: https://www.ziyaraat.net/api/noha/249
-# raw_sha256: 13a2f5ca599a0e85fc0d94a333d013e9c974cadcd6498ed2fe902ebb13dee4f3
 ---
 
 Sheh bolay yeh bhai keh katay haath utha kar

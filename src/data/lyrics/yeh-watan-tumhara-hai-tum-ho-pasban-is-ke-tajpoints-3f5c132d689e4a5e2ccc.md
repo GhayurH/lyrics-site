@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3f5c132d689e4a5e2ccc
-# source_url: https://tajpoints.com/2017/02/yeh-watan-tumhara-hai-tum-ho-pasban-is.html
-# raw_sha256: eac13b3120a382267c87088d369b31ddccc5debb33bd43fb9d0961f8bc922b72
 ---
 
 Yeh Watan Tumhara Hai Tum Ho Pasban Is Ke.

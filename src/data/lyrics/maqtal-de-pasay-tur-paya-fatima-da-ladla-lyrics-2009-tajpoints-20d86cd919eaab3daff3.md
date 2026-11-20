@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:20d86cd919eaab3daff3
-# source_url: https://tajpoints.com/2023/07/maqtal-de-pasay-tur-paya-fatima-da.html
-# raw_sha256: 123507741c2e4ec2785db3a99b80d78e21d1d39e68c01e657f1e699a23b74274
 ---
 
 1

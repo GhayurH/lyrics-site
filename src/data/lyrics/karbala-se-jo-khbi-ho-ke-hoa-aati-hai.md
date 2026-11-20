@@ -37,12 +37,6 @@ romanLyrics: |-
   6
   Jab kabhi zyada maiṅ bimar jo hota huṅ Shaheed
   Khud ba khud mere liye khaak-e-shifa aati hai
-# source_id: nohayonline:eb4fdc7e182e7ef3e25a
-# source_url: https://www.nohayonline.com/details_content.php?id=1932
-# raw_sha256: 339e248b8022df6aa801f1427f42e809c094c1d233c0f5f8cde24f806aba19b0
-# source_id: ziyaraat:9283ef3d84efc8c41f89
-# source_url: https://www.ziyaraat.net/api/noha/2239
-# raw_sha256: 20fb2984bc565a5993f43308f58d367dfeb851d56ba2622cf5baab98ca80c547
 ---
 
 کربلا سے جو کبھی ہو کے ہوا آتی ہے

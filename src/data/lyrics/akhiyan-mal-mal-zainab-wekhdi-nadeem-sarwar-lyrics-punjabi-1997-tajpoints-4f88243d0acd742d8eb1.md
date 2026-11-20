@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4f88243d0acd742d8eb1
-# source_url: https://tajpoints.com/2022/11/akhiyan-mal-mal-zainab-wekhdi-nadeem.html
-# raw_sha256: cb632b05bea26fae7f28092e3776a9a87f525d370b2f292b8df7d69eefb34398
 ---
 
 Akhiyan Mal Mal Zainab Wekhdi Nadeem Sarwar.

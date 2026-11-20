@@ -109,9 +109,6 @@ romanLyrics: |-
   Kehte raho kehte raho ya Husain
   Kehte raho kehte raho ya Husain
   Sayyadena sayyadena ya Husain
-# source_id: nohayonline:f8940316e5ec0275ea59
-# source_url: https://www.nohayonline.com/details_content.php?id=366
-# raw_sha256: 257d886dfef4bffe8ded95a9df3e1bf2f090073a35159355e196b75b29dcba2f
 ---
 
 ۱

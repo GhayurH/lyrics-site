@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b9cc62fa16d465e4b63a
-# source_url: https://tajpoints.com/2023/02/ya-hussain-marahaba-ya-hussain-sajjad.html
-# raw_sha256: 7421a648fcb433fcbba73fd50e97b024da9b9e24d48d1840b084aeeedd675749
 ---
 
 1

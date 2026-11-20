@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1d2f883edf2fcfd8f088
-# source_url: https://www.ziyaraat.net/api/noha/632
-# raw_sha256: efb39609d8e1c047fe7485251f157d8d198ad5fbd8847cd6ab54dfbbeb03ebd8
 ---
 
 Yeh Raah-e-Shaam Hai Tera Watan Nahi ZAINAB

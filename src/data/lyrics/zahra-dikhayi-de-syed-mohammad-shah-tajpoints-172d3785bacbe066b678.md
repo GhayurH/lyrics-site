@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:172d3785bacbe066b678
-# source_url: https://tajpoints.com/2023/01/zahra-dikhayi-de-syed-mohammad-shah.html
-# raw_sha256: 8512678a868601f97599793edb92464a47480fe4da984627144b9ba9a579364f
 ---
 
 1

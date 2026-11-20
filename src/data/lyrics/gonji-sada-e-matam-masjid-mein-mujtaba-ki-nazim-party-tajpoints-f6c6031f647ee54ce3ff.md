@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f6c6031f647ee54ce3ff
-# source_url: https://tajpoints.com/2023/04/gonji-sada-e-matam-masjid-mein-mujtaba.html
-# raw_sha256: daa0ec12903e63b6f07499f2ee163921477066eff54643d1304c0ab5a8486965
 ---
 
 1

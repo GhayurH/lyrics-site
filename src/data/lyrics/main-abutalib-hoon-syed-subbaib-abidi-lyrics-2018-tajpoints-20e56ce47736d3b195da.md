@@ -8,9 +8,6 @@ poet: "Mehboob"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:20e56ce47736d3b195da
-# source_url: https://tajpoints.com/2022/10/main-abutalib-hoon-syed-subbaib-abidi.html
-# raw_sha256: b368ece04ae1e46e873e2ed8e97bf68159be2631ca955875fb47e792b3f81bcf
 ---
 
 Main Abutalib Hoon Syed Subbaib Abidi Lyrics

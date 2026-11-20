@@ -45,12 +45,6 @@ romanLyrics: |-
   8
   Zaair yahi legti tha taabut hai shaane pe
   Maula ki shahaadat ka likhta tha maiṅ jab manzar
-# source_id: nohayonline:8af64a87e64ee685da99
-# source_url: https://www.nohayonline.com/details_content.php?id=2088
-# raw_sha256: b19b9af35a881a37d204097c78bac04ef9dd8d9ba319f84ee4f6ca9ff1867719
-# source_id: tajpoints:42f66633fc774f511da2
-# source_url: https://tajpoints.com/2019/05/roti-hai-ali-zaadi-baba-ke-janazay-par.html
-# raw_sha256: 02841382c28f9af6744f3d4bc442d26b11ed64a1280a9460f5bc230b50d3dafe
 ---
 روتی ہے علی زادی بابا کے جنازے پر
 بند آنکھوں سے روتے ہیں ہر بین پر خود حیدر

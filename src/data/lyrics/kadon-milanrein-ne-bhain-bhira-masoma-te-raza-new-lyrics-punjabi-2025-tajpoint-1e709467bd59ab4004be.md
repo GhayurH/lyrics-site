@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:1e709467bd59ab4004be
-# source_url: https://tajpoint.com/kadon-milanrein-ne-bhain-bhira-masoma-te-raza/
-# raw_sha256: 634e1bae6b93a854537344ebd270d3cc5caa766fb6d9dc381b56e9fb70881137
 ---
 
 1

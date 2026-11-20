@@ -8,9 +8,6 @@ poet: "Fazil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7ab8cefbca4c196ed04c
-# source_url: https://tajpoints.com/2023/07/sakina-par-salaam-qamar-baltistani.html
-# raw_sha256: 13a10966a913af9df1992ce8d02ac44a9820d395c92eba913ffda871120b58ae
 ---
 
 1

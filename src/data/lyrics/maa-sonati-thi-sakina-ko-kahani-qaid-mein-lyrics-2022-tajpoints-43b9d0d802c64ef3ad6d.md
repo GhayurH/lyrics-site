@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:43b9d0d802c64ef3ad6d
-# source_url: https://tajpoints.com/2023/04/maa-sonati-thi-sakina-ko-kahani-qaid.html
-# raw_sha256: ba09e73a90cadd4932a946d31ec17ac1a3ae992c39528002d5bc56f6aea506d2
 ---
 
 1

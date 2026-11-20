@@ -39,9 +39,6 @@ romanLyrics: |-
   Qaime jalte rahe bulaati rahi
   Shimr se aake tu bacha ghazi
   Binte zehra ka...
-# source_id: nohayonline:872e7e147a9ef3d770bc
-# source_url: https://www.nohayonline.com/details_content.php?id=1388
-# raw_sha256: 9719e7278c07c4aa10879ef07da8452913bc1533d077affd9075b55c4695c23b
 ---
 
 ۱

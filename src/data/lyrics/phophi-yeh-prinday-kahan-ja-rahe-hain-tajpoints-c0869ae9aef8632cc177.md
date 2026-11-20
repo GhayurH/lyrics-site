@@ -8,9 +8,6 @@ poet: "Shahi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c0869ae9aef8632cc177
-# source_url: https://tajpoints.com/2019/07/phophi-yeh-prinday-kahan-ja-rahe-hain.html
-# raw_sha256: 022c52643ea8d34fc4e0d0dce715227b1dde86367d9c37b5f85124d87954e20e
 ---
 
 Phophi Yeh Prinday Kahan Ja Rahe Hain.

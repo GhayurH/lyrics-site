@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Na chhin chaadar-e-Zainab na chhin sar se rida
   Khuda ke waaste ae kalma go Nabi ke liye
-# source_id: nohayonline:26586eb009537271aaba
-# source_url: https://www.nohayonline.com/details_content.php?id=2909
-# raw_sha256: af53c5e0bd7defefcc1dd8d9eb8d9070ccc0fb25c63df1be84a705833aace004
 ---
 جو سجدہ ہوتا ہے مُختص پیمبری کے لئے
 رسول نے اسے چھوڑا حسین ہی کے لئے

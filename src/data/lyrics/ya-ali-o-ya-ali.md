@@ -68,9 +68,6 @@ romanLyrics: |-
   Aap ke ghamkhwaar hai Aamir Kumail
   Shah ke azaadaar hai Aamir Kumail
   Karte haiṅ bas aap ki ye naukri
-# source_id: nohayonline:673799cc3a01acd7cbd7
-# source_url: https://www.nohayonline.com/details_content.php?id=3384
-# raw_sha256: eb5294ffda3ed20f69405e972d0bea0ee8fe000a30b8ce45bbc56803992d9b2c
 ---
 درد میں ڈوبے ہیں سبھی ماتمی
 سب کی زبانوں پہ ہے نوحہ یہی

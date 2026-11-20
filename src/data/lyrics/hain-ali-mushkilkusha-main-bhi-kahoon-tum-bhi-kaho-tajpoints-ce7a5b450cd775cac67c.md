@@ -8,9 +8,6 @@ poet: "Kashif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ce7a5b450cd775cac67c
-# source_url: https://tajpoints.com/2018/01/hain-ali-mushkilkusha-main-bhi-kahoon.html
-# raw_sha256: bd50f48671a91e41c423ad2cf533ea34f7dddf30e5c64ca2bd2db52c54c24c31
 ---
 
 Hain Ali Mushkilkusha Main Bhi Kahoon Tum Bhi Kaho.

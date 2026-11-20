@@ -10,9 +10,6 @@ reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:0ce5203a2ba557274954
-# source_url: https://www.nohayonline.com/details_content.php?id=1521
-# raw_sha256: 64115fc1707c026022de3f8b9d6ed23bea8bebcd8be019c05f4c83cb3828ae8a
 romanLyrics: |-
   Abbas Abbas Abbas
   Abal Fazl Abal Fazl Abal Fazl alamdaar
@@ -107,8 +104,6 @@ romanLyrics: |-
   Chhinne aa gaye jab sar se rida Zainab ki
   Us ghari kehti rahi saani-e-Zehra ro kar
   Abal Fazl ya Abal Fazl ya Abal Fazl# source_id: nohayonline:77251ff0eaa08bedcdd9
-# source_url: https://www.nohayonline.com/details_content.php?id=2599
-# raw_sha256: 4f91b53d5cac480e698d4d4dd8d1b633d38c38362badca48c918d7142c1d8f27
 ---
 عباس عباس عباس
 ابا الفضل ابا الفضل ابا الفضل علمدار

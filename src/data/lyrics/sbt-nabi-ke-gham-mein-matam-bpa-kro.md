@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:75ebb2fbed68d0874799
-# source_url: https://www.ziyaraat.net/api/noha/262
-# raw_sha256: c62d0b6dbfc93d2d04ceb74e8e813ec386b76501d142b27e3a3911a9527b388d
 ---
 
 Sibte nabi ke gham may matam bapa karo

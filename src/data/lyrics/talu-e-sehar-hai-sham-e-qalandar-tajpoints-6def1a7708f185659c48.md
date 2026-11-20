@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6def1a7708f185659c48
-# source_url: https://tajpoints.com/2017/02/talu-e-sehar-hai-sham-e-qalandarra.html
-# raw_sha256: c46a9aedeb7455449278917543c668b7adda0a6def06eaba0ea7e10f355ba02b
 ---
 
 1

@@ -87,9 +87,6 @@ romanLyrics: |-
   Sab milega khulus-e-dil se agar
   Maula Ghaazi ke dar pe tum aa kar
   Jholiyaaṅ phailaao malangoṅ
-# source_id: nohayonline:edb552820d71050b32cb
-# source_url: https://www.nohayonline.com/details_content.php?id=3135
-# raw_sha256: f36705795818386b49b0bc6bc2824136b1928656b009ca5677e1c6e8354a4d51
 ---
 باب الحوائج یا عباس
 سقائے اہلِ حرم

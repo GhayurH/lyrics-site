@@ -8,9 +8,6 @@ poet: "Darwaish"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0eadd5986f85221bb584
-# source_url: https://tajpoints.com/2023/02/maula-hoo-shahid-baltistani-lyrics-in.html
-# raw_sha256: f20b23351323c6bcb2a3ef655e38110891533e573978240ebe45dc9c8c85862f
 ---
 
 1

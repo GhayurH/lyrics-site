@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:59011ad8964bc183c2d1
-# source_url: https://tajpoints.com/2023/06/lasha-behan-behan-syed-raza-abbas-zaidi.html
-# raw_sha256: 90bcfa467556e1cca16a810e1fe23551a5d6d692ab7d9b76e0e3f567eca0244c
 ---
 
 1

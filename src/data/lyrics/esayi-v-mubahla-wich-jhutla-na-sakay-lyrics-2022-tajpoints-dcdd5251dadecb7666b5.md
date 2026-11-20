@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dcdd5251dadecb7666b5
-# source_url: https://tajpoints.com/2022/12/esayi-v-mubahla-wich-jhutla-na-sakay.html
-# raw_sha256: f9dccc958c934e45773e3176ad5bf16810c4b8758959cb2add19fa7532a7e20e
 ---
 
 1

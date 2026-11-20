@@ -8,9 +8,6 @@ poet: "Azai"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:72afd3ac6b5355a8f648
-# source_url: https://tajpoints.com/2017/02/darya-nahi-tha-oss-ki-rawani-ka-aks-tha.html
-# raw_sha256: 98770e7e28094d1afd73944a4ab24ccaa6d8dc1d1db85343693b5fc1044f2b5c
 ---
 
 1

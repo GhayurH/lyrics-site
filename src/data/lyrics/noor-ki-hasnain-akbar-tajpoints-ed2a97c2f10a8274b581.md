@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed2a97c2f10a8274b581
-# source_url: https://tajpoints.com/2024/04/noor-ki-hasnain-akbar-lyrics-in-urdu.html
-# raw_sha256: 3b1caf6adf5b883d53e5bb9fe2aa54ca2ca3533806fd398c4a18c17ca5f3696f
 ---
 
 Kuch Dino Bas Panjtan Tak Thi Khudai Noor Ki.

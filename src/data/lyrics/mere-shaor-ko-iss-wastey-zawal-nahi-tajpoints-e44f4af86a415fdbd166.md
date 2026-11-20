@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e44f4af86a415fdbd166
-# source_url: https://tajpoints.com/2017/02/mere-shaor-ko-iss-wastey-zawal-nahi.html
-# raw_sha256: 6056b62ff7646e63b2ab84e349d03d62dd062c7b19c6b403b4c28114da5722c7
 ---
 
 Mere Shaor Ko Iss Wastey Zawal Nahi.

@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c2d63972c6b76dd65acd
-# source_url: https://tajpoints.com/2022/07/sharab-e-hub-e-ali-ka-sarwar-raza.html
-# raw_sha256: 1843aa5dbc28fdd1e0b39e3b2431f78f31e8d747ca74eef5266137f74ef781ad
 ---
 
 Sharab-e-Hub-e-Ali Ka Sarwar Raza Karbalai.

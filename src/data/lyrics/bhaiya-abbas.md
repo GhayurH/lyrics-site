@@ -46,9 +46,6 @@ romanLyrics: |-
   Sauṅpa tha jise mujh ko zakhmi wo Sakina hai
   Masuma ko mazluma ko zindaan mila Abbas
   Bhaiya bhaiya Abbas bhaiya bhaiya Abbas
-# source_id: nohayonline:540ff9f7518571eb6c89
-# source_url: https://www.nohayonline.com/details_content.php?id=2799
-# raw_sha256: 07b4b89ce8115fc1bc37ce37b7f490ac613176de2b8d6be67c3275cc1b33686d
 ---
 عباس عباس عباس میرے بھیا
 بازار میں زینب ہے بھیا بھیا عباس

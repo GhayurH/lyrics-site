@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9a305184c7a656391164
-# source_url: https://tajpoints.com/2018/10/rida-hai-sar-pe-na-bhai-ka-sar-pe-saya.html
-# raw_sha256: 6aa743d3ceab925ddb338ad8a81893219c3fb982a2888fd983f834dc3aa207db
 ---
 
 Elahi Khair Ho Bazar-e-Sham Aaya Hai.

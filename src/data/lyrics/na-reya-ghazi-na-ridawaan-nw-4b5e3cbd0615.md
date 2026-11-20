@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:4b5e3cbd061593e033ce
-# source_url: https://www.nohawriteups.org/na-reya-ghazi-na-ridawaan/
-# original_html: snapshots/nohawriteups/original_html/4b5e3cbd061593e033ce.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/4b5e3cbd061593e033ce.json
-# api_content_sha256: e601cbbd6f040acbbd17e1270e237b213f6b845ea3e8a6baab70fb50cca3bbf9
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Na reya Ghazi na ridawaan raeyaan

@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:2fb13064202e1c9bfa91
-# source_url: https://tajpoint.com/bazar-sajaye-jawan-gaye-te-ummat-pathar-wasaye-gi/
-# raw_sha256: a0dac6c1c8def83b9fb4d9a28e7cc1bf94fc9007665e44ed4799a63ded44d50e
 ---
 
 Bazar Sajaye Jawan Gaye Te Ummat Pathar Wasaye Gi.

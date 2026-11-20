@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:f58cac9701d4db72aff1
-# source_url: https://www.ziyaraat.net/api/noha/2067
-# raw_sha256: 2f420d69e762877ee4d1ad0b4f048dc3c6b1186abb7f34cdfeee69213314ab23
 ---
 
 بھیا مجھے مقتل سے صدا کیوں نہیں دیتے

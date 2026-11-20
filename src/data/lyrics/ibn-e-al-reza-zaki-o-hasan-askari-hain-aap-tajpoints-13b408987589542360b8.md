@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:13b408987589542360b8
-# source_url: https://tajpoints.com/2023/10/ibn-e-al-reza-zaki-o-hasan-askari-hain.html
-# raw_sha256: fe79a8c242ffdc1d6866f15ce7c20e51601aa5f61c0277093e6d853e96625259
 ---
 
 Ibn e Al Reza Zaki o Hasan Askari Hain Aap.

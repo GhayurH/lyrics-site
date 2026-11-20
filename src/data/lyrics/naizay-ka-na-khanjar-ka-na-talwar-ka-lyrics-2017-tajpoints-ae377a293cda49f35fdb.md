@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ae377a293cda49f35fdb
-# source_url: https://tajpoints.com/2017/04/naizay-ka-na-khanjar-ka-na-talwar-ka.html
-# raw_sha256: 070a60ddf9d5e6395cbf2b1856dfbff3a771c850cc5ce211f744382fbb4280bd
 ---
 
 1

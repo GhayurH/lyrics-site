@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c4c14124dc6b738d89c8
-# source_url: https://tajpoints.com/2020/08/mere-sath-parda-daar-hain-lyrics-in.html
-# raw_sha256: a32dc0fc8c6f708b086c3ff427dc0b3836fa20cd15129173b9c58ffdf40350df
 ---
 
 1

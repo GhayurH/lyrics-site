@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2ec7eced3a39c6e5230d
-# source_url: https://tajpoints.com/2023/05/akbar-teriyaan-rahwaan-takdi-na-mar.html
-# raw_sha256: 9f9d83c9300f970294e1a6e3c1bb7ecd5f528c89da72f4e7e746dc59cdb90881
 ---
 
 Akbar Teriyaan Rahwaan Takdi Na Mar Jawaan Asghar Khan.

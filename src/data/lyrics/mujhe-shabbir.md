@@ -52,9 +52,6 @@ romanLyrics: |-
   Jo aamir fatha ka aelaan karta hai kate sar se
   Mai wo banda khuda ka hu mujhe shabbir kehte hai
   Mohammad ka nawasa hoo...
-# source_id: nohayonline:a701ccdaee8b7623b528
-# source_url: https://www.nohayonline.com/details_content.php?id=2456
-# raw_sha256: 73b57966960f3b0ce5f0668cc37ec1cfd9c3a32683588b95491fc3a87ace7762
 ---
 
 ۱

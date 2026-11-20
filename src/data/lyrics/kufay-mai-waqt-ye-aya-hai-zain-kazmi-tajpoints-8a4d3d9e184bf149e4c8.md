@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8a4d3d9e184bf149e4c8
-# source_url: https://tajpoints.com/2021/05/kufay-mai-waqt-ye-aya-hai-zain-kazmi.html
-# raw_sha256: 9f7641ab7d35a1148fc7854e52b17cd9c0e077f2f7a8208cb80ca7a20bd9d900
 ---
 
 1

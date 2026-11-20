@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ff5670f1249bbfc4ad1
-# source_url: https://tajpoints.com/2024/03/sarr-basajda-han-sawa-lakh-paymber.html
-# raw_sha256: b472e692816f6510e182b1fad79c4c31a78a85fcad6ba9dc8db8cb484b3ad079
 ---
 
 Sarr BaSajda Han Sawa Lakh Paymber Akbar Zawar Ali Raza

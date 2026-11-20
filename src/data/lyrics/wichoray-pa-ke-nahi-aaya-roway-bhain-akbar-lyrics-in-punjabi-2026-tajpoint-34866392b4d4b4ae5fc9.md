@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:34866392b4d4b4ae5fc9
-# source_url: https://tajpoint.com/wichoray-pa-ke-nahi-aaya-roway/
-# raw_sha256: 60858aa80c504085dbf5076198a9dbcecb5ac52eebbd7c95e5fdfb2087a73de6
 ---
 
 1

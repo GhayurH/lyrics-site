@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c3cd5d64158c8e195d4a
-# source_url: https://www.ziyaraat.net/api/noha/687
-# raw_sha256: 555529f3680a81b26cb5d0fe12290ccc8a42241678b947818bd66a697d4ec07c
 ---
 
 Mat bhool ye mufti kalmey ki, Pehchan Hussain ka matam hay

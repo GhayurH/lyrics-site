@@ -51,9 +51,6 @@ romanLyrics: |-
   Saayib wo shor o shain wo bachchoṅ ki thi fughaaṅ
   Tukre kaleje hota tha rota tha aasmaaṅ
   Mukhtar ro ro maaṅ ko bulaate rahe Husain
-# source_id: nohayonline:0d5d689245acbd93a17f
-# source_url: https://www.nohayonline.com/details_content.php?id=3081
-# raw_sha256: c02bc5aabc712b41532c294a23159c756c4e6aca0c9df5b88db24d66e14c55d0
 ---
 بے بسی ہم کو چھوڑ کے گریہ چلی گئی
 اللہ نے بلا لیا اماں چلی گئی

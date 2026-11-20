@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a9869d2a051eee626d39
-# source_url: https://www.nohawriteups.org/mera-chay-maah-da-hay-asghar-aj-akbar-ban-kay-jaway-ga/
-# original_html: snapshots/nohawriteups/original_html/a9869d2a051eee626d39.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a9869d2a051eee626d39.json
-# api_content_sha256: d512113c2a3506ae01e8d51252824b001acdfb2236e130d482aeaf9dcea85691
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mera Chay Maah Da Hay Asghar Aj Akbar Ban Kay Jaway Ga

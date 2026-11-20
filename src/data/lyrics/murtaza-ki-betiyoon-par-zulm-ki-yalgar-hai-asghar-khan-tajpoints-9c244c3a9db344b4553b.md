@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9c244c3a9db344b4553b
-# source_url: https://tajpoints.com/2021/05/murtaza-ki-betiyoon-par-zulm-ki-yalgar.html
-# raw_sha256: 77fb5ba7b2603c31be88e8166478c5b98ca71e3005f41a13af1e85e33e1d69d1
 ---
 
 1

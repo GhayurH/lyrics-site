@@ -8,9 +8,6 @@ reciter: "Ali Naqvi"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:ac64a60053b071dec2b2
-# source_url: https://www.ziyaraat.net/api/noha/2784
-# raw_sha256: ee76afd1ff9c66017aaf3d31436c8b84087bd1bf38853538ba38e3c6f63d3e08
 romanLyrics: |-
   Dil thaam ke di Zainab ne sada, Abbas kahaaṅ ho aajao,
   Lo aakhiri khaima jalne laga, Abbas kahaaṅ ho aajao

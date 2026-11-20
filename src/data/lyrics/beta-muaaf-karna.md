@@ -50,9 +50,6 @@ romanLyrics: |-
   Haalat tumhaari dekh ke sina hua hai shaq
   Ta hashr ho ga ab dil-e-Shabbir ko khalaq
   Afsos ye rahe ga na pahuṅcha maiṅ waqt par
-# source_id: nohayonline:bb05e17575d80d9fe126
-# source_url: https://www.nohayonline.com/details_content.php?id=2327
-# raw_sha256: 2bad4250fb805c94782f86de1dc307428372e0a73b5b563900c280026db5effa
 ---
 بیٹا معاف کرنا مجھے دیر ہو گئی
 

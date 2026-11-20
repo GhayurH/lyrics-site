@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c7e348720d17ca379af7
-# source_url: https://tajpoints.com/2023/07/tum-ho-dua-shahzadi-ki-sajjad-ashraf.html
-# raw_sha256: e066e95db0f4eaf5177b1d29a02b6de9ccce5b929e1c9640305d2a25e104c80c
 ---
 
 Tum Ho Dua Shahzadi Ki Sajjad Ashraf Taqvi.

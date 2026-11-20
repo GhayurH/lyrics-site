@@ -8,9 +8,6 @@ poet: "Sajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84cf4a6702b542ca0a3a
-# source_url: https://tajpoints.com/2022/08/tauheed-ki-baqa-hussain-badshah-zakir.html
-# raw_sha256: 2df75e20add9be9bb7474e2ddb0c27cf011503650306c0049da63f35d1ce1da8
 ---
 
 1

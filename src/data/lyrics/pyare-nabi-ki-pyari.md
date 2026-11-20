@@ -51,15 +51,6 @@ romanLyrics: |-
   Bhai ho jis ka waaris-e-Quran
   Kaise wo Bibi ashk bahaati
   Shaam ko qaidi ban ke chali hai
-# source_id: nohayonline:804749a18e6bc8b8b26c
-# source_url: https://www.nohayonline.com/details_content.php?id=781
-# raw_sha256: 0c239b324e5add62df535c5674dafd2767bfb53e6085d45a32b65c1ae085ab8d
-# source_id: ziyaraat:a258bad71e212a2366a4
-# source_url: https://www.ziyaraat.net/api/noha/428
-# raw_sha256: 4d14ed4cd3d4c9fdc711d088637b40b4dbeae9ba9857c3f3cf1325874fd24006
-# source_id: tajpoints:46ce897684f8ac882484
-# source_url: https://tajpoints.com/2022/12/pyare-nabi-ki-pyari-nawasi-ali-shanawar.html
-# raw_sha256: 679680c81e51a3d7224a74ce790213d41c627ec4834c9468de32fc38485181e2
 ---
 پیارے نبی کی پیاری نواسی
 شام کو قیدی بن کے چلی ہے

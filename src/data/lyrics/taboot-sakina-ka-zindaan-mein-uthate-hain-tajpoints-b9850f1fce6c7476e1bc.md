@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b9850f1fce6c7476e1bc
-# source_url: https://tajpoints.com/2017/02/taboot-sakinasa-ka-zindaan-mein-uthate.html
-# raw_sha256: 18f04907f8f6515d0b892f1bf50238fe1cf09b67e37583dd010e109dea248f9b
 ---
 
 1

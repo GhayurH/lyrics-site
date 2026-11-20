@@ -8,9 +8,6 @@ poet: "Nisar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9702621e1c101254ed91
-# source_url: https://tajpoints.com/2020/08/hum-se-gham-e-shabbir-bhulaya-nahi-jata.html
-# raw_sha256: a939291ddcd7f3e29ce713a3ea1afa16b1136b73876cd94e91bf6d415578abf2
 ---
 
 1

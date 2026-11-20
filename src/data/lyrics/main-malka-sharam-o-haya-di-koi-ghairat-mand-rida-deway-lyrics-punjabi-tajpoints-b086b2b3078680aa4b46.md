@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b086b2b3078680aa4b46
-# source_url: https://tajpoints.com/2023/06/main-malka-sharam-o-haya-di-koi-ghairat.html
-# raw_sha256: 6a23216e87055fb26822cac0c9695e581d4531bf93b995d68a94753ffd8dff5e
 ---
 
 1

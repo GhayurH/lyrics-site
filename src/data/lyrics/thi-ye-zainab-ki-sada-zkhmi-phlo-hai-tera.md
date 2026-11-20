@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:dcb8157950c20b48c6e8
-# source_url: https://www.ziyaraat.net/api/noha/618
-# raw_sha256: 80cdd18a4020fa4904f7f4f835dcb1876031f4b65a29f6e8dda8721ad26c076e
 ---
 
 Thi yeh Zainab ki sada, zakhmi pehlu hay tera, aey maa Zehra

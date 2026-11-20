@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:49d948e046fc95034e90
-# source_url: https://tajpoints.com/2019/12/bugz-haider-se-rakhna-buri-baat-hai.html
-# raw_sha256: c209d6314381c8ea99d4b80036f224153e04aa4bfb75c219f3f52c4166b2d692
 ---
 
 Bugz Haider Se Rakhna Buri Baat Hai.

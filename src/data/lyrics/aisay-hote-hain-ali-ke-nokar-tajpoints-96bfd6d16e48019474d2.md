@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:96bfd6d16e48019474d2
-# source_url: https://tajpoints.com/2020/12/aisay-hote-hain-ali-ke-nokar-lyrics-in.html
-# raw_sha256: f709297fd1bce26c5727d12f5de8c43db3f3c86b1c9a60cf2c41ee48204e83ce
 ---
 
 Aisay Hote Hain Ali Ke Nokar Lyrics

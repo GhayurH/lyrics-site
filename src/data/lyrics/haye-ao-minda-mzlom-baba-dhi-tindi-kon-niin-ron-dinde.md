@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:909efbbe2d84b4fa0bfd
-# source_url: https://www.ziyaraat.net/api/noha/381
-# raw_sha256: 3799864f446924ac95359ff21e8594917d8c1c5a1170e36f98578811ef0039f3
 ---
 
 Zalim di tak kay jafa, deway sada, sada nahi koyi aasra

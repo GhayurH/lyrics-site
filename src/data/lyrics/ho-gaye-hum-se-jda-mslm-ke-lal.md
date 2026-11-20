@@ -42,9 +42,6 @@ romanLyrics: |-
   8
   Pursa deta hai ruqayya ko anis
   Jinke the ye dilruba Muslim ke laal
-# source_id: ziyaraat:7bf2a55db0a99f0dfee4
-# source_url: https://www.ziyaraat.net/api/noha/1865
-# raw_sha256: 33c1774059d6d86f1d34bff0a3dc65b44e7e137345fb052f44fd6a0014cc297c
 ---
 
 ہو گئے ہم سے جدا مسلمؑ کے لال

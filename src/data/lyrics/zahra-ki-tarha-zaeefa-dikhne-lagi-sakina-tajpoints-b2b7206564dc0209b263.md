@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b2b7206564dc0209b263
-# source_url: https://tajpoints.com/2017/02/zahra-ki-tarha-zaeefa-dikhne-lagi-sakina.html
-# raw_sha256: 554eebacf629c98cdae49efa0eb1c80dc1487b433bde1649ae34d993ec12b68a
 ---
 
 1

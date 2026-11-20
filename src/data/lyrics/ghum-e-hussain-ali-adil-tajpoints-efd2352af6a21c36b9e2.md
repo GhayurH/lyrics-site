@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:efd2352af6a21c36b9e2
-# source_url: https://tajpoints.com/2021/08/ghum-e-hussain-ali-adil-lyrics-in-urdu.html
-# raw_sha256: cd9cd49e765a91eff79ca79669fecf33724848749c2f18d53f27306bff974925
 ---
 
 Gham-e-Hussain Manana Bohat Zarori Hai.

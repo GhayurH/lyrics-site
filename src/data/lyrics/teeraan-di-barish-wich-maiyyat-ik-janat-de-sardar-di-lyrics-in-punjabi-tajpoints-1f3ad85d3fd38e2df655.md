@@ -8,9 +8,6 @@ poet: "Ijaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1f3ad85d3fd38e2df655
-# source_url: https://tajpoints.com/2019/11/teeraan-di-barish-wich-maiyyat-ik-janat.html
-# raw_sha256: d6d60c7c26875b8618566a2ae72a0cdb786b2fc1324e8452ce7d1aa7dafef9ab
 ---
 
 1

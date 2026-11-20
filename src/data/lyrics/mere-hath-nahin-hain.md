@@ -68,9 +68,6 @@ romanLyrics: |-
   Ye nauha-e-Ghazi sar-e-majlis jo Raza hai
   Rehan-e-aza kehta hai ye maujiza kya hai
   Ye haath hai Ghazi ka, mere haath nahiṅ haiṅ
-# source_id: nohayonline:2c3fdc4b8b66a389128e
-# source_url: https://www.nohayonline.com/details_content.php?id=1813
-# raw_sha256: b4a095026c20e46603e375d90689d7ef4255aa704e0e7896e629caf7378d15ec
 ---
 جب ہاتھ قلم ہو چکے عباس جری کے
 نوحہ حسین کرتے ہوے یہ دشت میں پہنچے

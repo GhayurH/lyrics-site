@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Is zindagi se maut hai behtar Anis ko
   Khaata hai thokareṅ kitne dar dar kahaaṅ kahaaṅ
-# source_id: nohayonline:812d2aea3d2474111e8c
-# source_url: https://www.nohayonline.com/details_content.php?id=3479
-# raw_sha256: 28ede8dc527bab4267d64b3582890f5cdfda75bd959203b6b8224a06e209392f
 ---
 رونے کو جائے بانوئے مضطر کہاں کہاں
 شوہر کہیں پسر کہیں دختر کہاں کہاں

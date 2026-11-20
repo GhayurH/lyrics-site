@@ -7,18 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d0d50bb3505da972101f
-# source_url: https://www.nohawriteups.org/nayi-aaya-alma-wala-pani-lain-gaya/
-# original_html: snapshots/nohawriteups/original_html/d0d50bb3505da972101f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d0d50bb3505da972101f.json
-# api_content_sha256: 74978f492e83f5f666126e8c47ef8f249de060921bd94dab011a15304e9f4994
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
-# additional_source_id: nohawriteups:b7ade1c2b002bfa5f826
-# additional_source_url: https://www.nohawriteups.org/nayi-aya-alma-wala-pani-lain-gaya/
-# additional_original_html: snapshots/nohawriteups/original_html/b7ade1c2b002bfa5f826.html.gz
-# additional_source_metadata_path: snapshots/nohawriteups/metadata/b7ade1c2b002bfa5f826.json
-# additional_api_content_sha256: f899fe5983404c9ab6262081283a3bf8269e4c2d19cbd96f257347295fe9bf39
-# additional_source_note: Manually compared normalized verse text with retained edition; exact stanza content, differences only in formatting, punctuation and capitalization; retained one canonical unpublished draft.
 ---
 
 Nayi Aaya Alma Wala Pani Lain Gaya

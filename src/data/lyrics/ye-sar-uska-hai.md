@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Mir Sajjad jise dafn bhi hone na diya
   Bekafan jis ka janaaza hai ye sar uska hai
-# source_id: nohayonline:beff516120a49ace33a1
-# source_url: https://www.nohayonline.com/details_content.php?id=1539
-# raw_sha256: 26879c76bf77a46db255df39b019d493a5663e1e1737e9da60f99b16621e183d
 ---
 جو محمد کا نواسہ ہے یہ سر اس کا ہے
 جس کو نو لاکھ نے مارا ہے یہ سر اس کا ہے

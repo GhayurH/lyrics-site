@@ -53,9 +53,6 @@ romanLyrics: |-
   Na yatima hai na zinda mera bhaai hai
   Thi wo Rehan o Mubarak to ajab si uljhan
   Aankheṅ Abbas khuli mat rakhna
-# source_id: nohayonline:c7ac85134f698e639f61
-# source_url: https://www.nohayonline.com/details_content.php?id=1387
-# raw_sha256: 611723550fb51f6543c742383f953db008553402570d89a8dc6dfbbb9cc29956
 ---
 
 بے ردا شام کے بازار میں جاتی ہے بہن

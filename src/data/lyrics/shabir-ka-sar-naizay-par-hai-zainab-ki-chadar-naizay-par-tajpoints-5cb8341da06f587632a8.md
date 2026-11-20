@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5cb8341da06f587632a8
-# source_url: https://tajpoints.com/2018/10/shabir-ka-sar-naizay-par-hai-zainab-ki.html
-# raw_sha256: 6c9cf4a7ab50128bb153c4d94cc4a6b4d1f751660e6ea59eb536650e1b5c323b
 ---
 
 1

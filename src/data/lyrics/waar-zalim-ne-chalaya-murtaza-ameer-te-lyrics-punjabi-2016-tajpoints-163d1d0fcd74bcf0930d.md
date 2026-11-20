@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:163d1d0fcd74bcf0930d
-# source_url: https://tajpoints.com/2026/02/waar-zalim-ne-chalaya-murtaza-ameer-te.html
-# raw_sha256: 755e847160cfe1774f42923b023efb212ee5e35c2ef3f726c07e6279e768de4b
 ---
 
 1

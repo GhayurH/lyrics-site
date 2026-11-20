@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2e2f6d7541fdd289a292
-# source_url: https://tajpoints.com/2023/12/ghar-aake-fatima-ko-safdar-kaleem.html
-# raw_sha256: daeb62ce4f840d7e20b421401776268919d280cbf304875f39cbb5a7ce54e833
 ---
 
 1

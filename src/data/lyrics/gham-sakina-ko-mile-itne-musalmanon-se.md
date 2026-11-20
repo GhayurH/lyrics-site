@@ -67,12 +67,6 @@ romanLyrics: 'Haaye Sakina haaye zindaan
   8
 
   Haye'
-# source_id: nohayonline:883e9f0d63fd809dd9e4
-# source_url: https://www.nohayonline.com/details_content.php?id=244
-# raw_sha256: 60d990a3f6629019173223a8cd755a0248e4f7f1ea34fe49c0a0b019ea0f7330
-# source_id: ziyaraat:144b75538d5b1b31a674
-# source_url: https://www.ziyaraat.net/api/noha/1723
-# raw_sha256: 39a89103ac10279d41a77149b046d85341c57797d333f6f6d22e65d8f077dc57
 ---
 
 غم سکینہؑ کو ملے اتنے مسلمانوں سے

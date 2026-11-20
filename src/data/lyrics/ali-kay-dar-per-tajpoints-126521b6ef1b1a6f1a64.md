@@ -8,9 +8,6 @@ poet: "Razi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:126521b6ef1b1a6f1a64
-# source_url: https://tajpoints.com/2020/12/ali-kay-dar-per-lyrics-in-urdu-and.html
-# raw_sha256: 9da8eda521ef37a04983a93f1aea4c96deadecf036ca82348221ebbee0d05012
 ---
 
 Dekh Aye Qari-e-Quran Ali Ke Dar Par.

@@ -80,9 +80,6 @@ romanLyrics: |-
   Karte haiṅ qalb o jigar bhi girya
   Hae wo bekas o mazlum wo beyaar Husain
   Roiṅ ge hashar talak tujh ko azadar Husain
-# source_id: ziyaraat:fe1a8574087c0120e0c0
-# source_url: https://www.ziyaraat.net/api/noha/2056
-# raw_sha256: b8580c9ff75aeddd046898dc87b309482d1d3fedf5d423e52f07aed763c47a82
 ---
 
 یا حسینؑ یا حسینؑ یا حسینؑ

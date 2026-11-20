@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:45660555d9fd225e8126
-# source_url: https://www.ziyaraat.net/api/noha/2503
-# raw_sha256: 8ba8eff025270bd781fbd49b17633d443d7cda63b2d4d52ec8c4426bf414e436
 ---
 
 Ishqe Shabbir ع nahi dil mein baraye jannat

@@ -8,9 +8,6 @@ poet: "Mudassir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b2ffd4c5247e222c30c7
-# source_url: https://tajpoints.com/2023/08/shabbir-se-mango-syed-mudassir-mehdi.html
-# raw_sha256: 49c67ebb25b5010b29d108b4080fff1ab1103efd2ff44b0bb2785d92f6ca4008
 ---
 
 Shabbir Se Mango Syed Mudassir Mehdi 2023.

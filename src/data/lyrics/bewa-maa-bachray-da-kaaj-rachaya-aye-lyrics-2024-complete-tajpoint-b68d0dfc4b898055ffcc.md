@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:b68d0dfc4b898055ffcc
-# source_url: https://tajpoint.com/bewa-maa-bachray-da-kaaj-rachaya-aye-lyrics-2024/
-# raw_sha256: 95aaf65ac392bc681fc105a4ed53c943093f921cdb74f23b2c3fdd7197900d08
 ---
 
 Bewa Maa Bachray Da Kaaj Rachaya Aye.

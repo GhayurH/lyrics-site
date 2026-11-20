@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ab1006e44a6295e943e4
-# source_url: https://tajpoints.com/2021/06/barah-galay-soz-sheraz-khan-lyrics-in.html
-# raw_sha256: b6feb598b5c9fdcfc31f830f0fb7d6ebd1cc44634994f1ab9db7095fea773f8b
 ---
 
 Barah Galay Soz Sheraz Khan Lyrics

@@ -43,9 +43,6 @@ romanLyrics: |-
   Aayega ek roz jab ultega wo apni naqaab
   Lega ek ek se meri ghurbat ka wo saara hisaab
   Inteqam-e-Fatema lega faqat Mohsin mera
-# source_id: nohayonline:03b5c75a38647ec46673
-# source_url: https://www.nohayonline.com/details_content.php?id=2905
-# raw_sha256: 7c7bfbd839fd172d49d2fe922072ed4a9f014486cdd5f99f93cde9223f6a9747
 ---
 
 آج بھی آتی ہے زہرا کی بقیہ سے صدا

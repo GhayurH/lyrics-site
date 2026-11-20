@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:c56423bff04def1c5ad7
-# source_url: https://www.nohawriteups.org/maqtal-e-imam-hussain-noha-2020-joan-rizvi-nohay-2020/
-# original_html: snapshots/nohawriteups/original_html/c56423bff04def1c5ad7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/c56423bff04def1c5ad7.json
-# api_content_sha256: ffb0ccb32d6a9d9e03c91cafda93b7c190d9b4140c553bff959b5084e5ac1af2
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 youn gira dosh e Payambar(saw) ka makeen maqtal main

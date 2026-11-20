@@ -61,9 +61,6 @@ romanLyrics: |-
   Lene ko pursa jaate haiṅ girya ko na chale
   Mil kar Anis kiuṅ nahiṅ maatam bapa kare
   Sibt-e-Nabi ke gham meiṅ hai ye majlis-e-aza
-# source_id: nohayonline:3bd559ec5f1de5e3c63a
-# source_url: https://www.nohayonline.com/details_content.php?id=648
-# raw_sha256: 409bab6332949672e69f5218fca86ee7f55fab4466c8aa183410a54fbccffd9f
 ---
 گر حق کی جستجو ہے تو بزمِ عزا میں آ
 بتلاؤں تجھ کو مجلس و ماتم ہے کیوں بپا

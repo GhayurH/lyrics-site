@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:390033863683761180ba
-# source_url: https://tajpoints.com/2018/05/hasnain-jadoon-babay-da-taboot-uthaya.html
-# raw_sha256: 5f8158ad33e7024b592a5af158f9119e328d8739d2b90d7d81e8d6d5b62a2afc
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:462cd98ba2094970e804
-# source_url: https://tajpoints.com/2017/02/kya-mujh-haqeer-pe-ihsan-kam-hussainas.html
-# raw_sha256: 7eb317138b378edf951c3ef699746f31ec51ba588ffc17ab674643173676ef01
 ---
 
 1

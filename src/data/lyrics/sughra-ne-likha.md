@@ -73,9 +73,6 @@ romanLyrics: |-
   Reti pe rakha Shah ne laasha Ali Asghar ka
   Rone lage beti ka khat parh ke Shah-e-waala
   Khat meiṅ yehi likha tha kab laut ke aaoge
-# source_id: nohayonline:f5165e0e95b29e1182b9
-# source_url: https://www.nohayonline.com/details_content.php?id=1966
-# raw_sha256: 8cb83710a0ef9fb5e39b63d3c7195295311534d55360c2710be8e073f578388a
 ---
 صغریٰ نے لکھا بابا کب لوٹ کے آؤ گے
 دشوار ہوا جینا کب لوٹ کے آؤ گے

@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bcc506fdf0f9dbe238c5
-# source_url: https://tajpoints.com/2022/02/aye-bali-sakina-syed-ali-naqvi-lyrics.html
-# raw_sha256: 3df4f320bdc75a7d1ffa09b9e9205e3f217c9b67eb2b3847fdcd8ad5e91c663b
 ---
 
 1

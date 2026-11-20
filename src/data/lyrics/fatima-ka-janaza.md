@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:41cd5951a5b2cb1b64a7
-# source_url: https://tajpoints.com/2026/10/fatima-ka-janaza-mohammed-abbas.html
-# raw_sha256: 605bf5fad3520263825bd247015d62ce3195eeffc01c3e2e3c1a19f2a818618e
-# source_title_original: Fatima Ka Janaza Mohammed Abbas Karim Lyrics In Urdu 2026
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Haider Se Fatima Ka Janaza Nahi Utha

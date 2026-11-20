@@ -8,9 +8,6 @@ poet: "Wasif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f64a58221a4f25d1da3
-# source_url: https://tajpoints.com/2018/01/har-chehre-mein-aati-hai-nazar-yaar-ki.html
-# raw_sha256: a9d50bcd89abd06b932e36c0d190677e07395bfb95d5026ab7869661a2dab92e
 ---
 
 Har Chehre Mein Aati Hai Nazar Yaar Ki Surat.

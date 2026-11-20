@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:4f806ed0cd163e24f950
-# source_url: https://tajpoint.com/watna-te-jay-aa-jando-veer-raza-lyrics-2024/
-# raw_sha256: 8fb0634bd3087dc3227d4ed559743b3d4851c77dba176cabc4178de231bd8e4d
 ---
 
 1

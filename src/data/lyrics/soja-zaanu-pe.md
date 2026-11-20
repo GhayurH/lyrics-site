@@ -62,9 +62,6 @@ romanLyrics: |-
   Ye to Rehaan ka hausla tha
   Nauha lab se qalam ke hai jaari
   Soja zaanu pe soja Sakina
-# source_id: nohayonline:721130ed2b574349b685
-# source_url: https://www.nohayonline.com/details_content.php?id=1830
-# raw_sha256: 83aa944c3c238eba8e6faaff50d94f1bf02a38842c01c6129c4b81589d00b607
 ---
 
 ماں پس شام غم یہ پکاری

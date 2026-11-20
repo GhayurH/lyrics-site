@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b1959af37b472693e5c9
-# source_url: https://tajpoints.com/2022/12/khatoon-e-janat-meesum-kashmiri-lyrics.html
-# raw_sha256: f4b3cbcdccc3583d3322126b1973efd81dae994807e8467f80f400068405da31
 ---
 
 1

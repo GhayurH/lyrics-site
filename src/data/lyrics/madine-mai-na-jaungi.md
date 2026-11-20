@@ -52,9 +52,6 @@ romanLyrics: |-
   Sunati thi sukhan yehi magar sajjad-e-muztar ko
   Charaghe qabr ashkon se mai ro ro kar jalaungi
   Madine mai na jaungi...
-# source_id: nohayonline:05e66d0cd6684dcc7640
-# source_url: https://www.nohayonline.com/details_content.php?id=456
-# raw_sha256: 28e5f066e5615a449fed98456ed6d793686024d979697a9cf30a47b27e1e4b06
 ---
 
 ۱

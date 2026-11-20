@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f537792635b3bf37ef9d
-# source_url: https://www.nohawriteups.org/khayaal-e-fatima-deen-ki-hai-abroo-zainab/
-# original_html: snapshots/nohawriteups/original_html/f537792635b3bf37ef9d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f537792635b3bf37ef9d.json
-# api_content_sha256: 9a6420e00242a1efd3d47d031eb4b77a13b7354351f319d2ee6b152e45f02a6c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Khayaal-e-Fatima Deen Ki Hai Abroo Zainab.

@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:d10e2ff185a34ed4600e
-# source_url: https://tajpoint.com/shabbir-janaza-shabar-da-ghar-wapis/
-# raw_sha256: b30fdfbda8ed4730006f56a3264531efe720fdac387833d1aad2d698f66eda3e
 ---
 
 1

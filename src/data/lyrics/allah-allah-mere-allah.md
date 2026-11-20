@@ -79,9 +79,6 @@ romanLyrics: |-
   Har gaam ye jumle yaad aaye
   Yasrab ki aurtoṅ se
   Kiuṅ keh rahi thi muztar
-# source_id: nohayonline:0b3835a40f38449d8cd2
-# source_url: https://www.nohayonline.com/details_content.php?id=978
-# raw_sha256: 0f9c1b4b4aecc53eb944c2a80de7f78aaee9de444d69f8b4a62f18b95a1769d6
 ---
 اللہ اللہ میرے اللہ
 گزری جہاں جہاں سے

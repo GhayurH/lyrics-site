@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:506f71eb233f1258d59a
-# source_url: https://tajpoints.com/2018/07/mujh-par-utar-rahe-hain-sahife-naye-naye.html
-# raw_sha256: 2b97d225dc28e3b76bfe22cde6cf42b45a0bcdb6082c15e7687019f86863a790
 ---
 
 Mujh Par Utar Rahe Hain Sahife Naye Naye.

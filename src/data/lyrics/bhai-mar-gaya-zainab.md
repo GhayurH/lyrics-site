@@ -49,12 +49,6 @@ romanLyrics: |-
   9
   Kaise ho bayaaṅ Sajjad Shah ne jab kaha ro kar
   Zakhm ho gaya taaza aaj baba ka Zainab
-# source_id: nohayonline:fc9e073eaee79046cc66
-# source_url: https://www.nohayonline.com/details_content.php?id=1638
-# raw_sha256: 6b2fa5cd6eed139300d2b39a9c50c45cbefd9e92179b7700d6fb6fd2cff13e26
-# source_id: tajpoints:211353944459dc172f56
-# source_url: https://tajpoints.com/2024/07/bhai-mar-gaya-zainab-mir-sajjad-mir.html
-# raw_sha256: f43a433fdfadd93f19c9ce8b9f93aab007c168f21e7f307ba262f3ec2c9835d6
 ---
 رو کے شاہ کہتے تھے بھائی مر گیا زینب
 جھک گئی کمر میری چھن گیا عصا زینب

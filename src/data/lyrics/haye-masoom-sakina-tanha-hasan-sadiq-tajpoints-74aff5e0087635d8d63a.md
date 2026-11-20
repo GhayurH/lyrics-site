@@ -9,9 +9,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:74aff5e0087635d8d63a
-# source_url: https://tajpoints.com/2023/02/haye-masoom-sakina-tanha-hasan-sadiq.html
-# raw_sha256: 1ed99d60c90b1e4a698a60ccca0101717baaf02b611f0356d4b2fb866f69f86a
 ---
 
 1

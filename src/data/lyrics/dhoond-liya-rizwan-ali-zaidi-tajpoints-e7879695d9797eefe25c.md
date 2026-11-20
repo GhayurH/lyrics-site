@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e7879695d9797eefe25c
-# source_url: https://tajpoints.com/2024/02/dhoond-liya-rizwan-ali-zaidi-lyrics-in.html
-# raw_sha256: 9526f0127e0d5d17032c599f384c634e074e3ed63b48865155402db49478d163
 ---
 
 Sidrah Se Aagay Ka Ilaqa Dhond Liya.

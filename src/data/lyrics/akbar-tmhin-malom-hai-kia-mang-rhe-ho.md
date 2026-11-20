@@ -151,12 +151,6 @@ romanLyrics: 'Akbar tumhe maloom hai kya maang rahe ho
   Ek baap se marne ki riza mangu raha hun...
 
   Baba mujhe maloom hai kya maang raha hun'
-# source_id: nohayonline:42ea3de9548218818ad3
-# source_url: https://www.nohayonline.com/details_content.php?id=977
-# raw_sha256: bf69255f7b4db16f507f7bc2bc836ae2da661bab31de83d522b851c0634468b4
-# source_id: ziyaraat:d1d9a9799a7873e1510b
-# source_url: https://www.ziyaraat.net/api/noha/2167
-# raw_sha256: b0eac680520ad077542cb9474e5b48f993c8ab3afdb24118629d911f6f511d60
 ---
 
 اکبرؑ تمہیں معلوم ہے کیا مانگ رہے ہو

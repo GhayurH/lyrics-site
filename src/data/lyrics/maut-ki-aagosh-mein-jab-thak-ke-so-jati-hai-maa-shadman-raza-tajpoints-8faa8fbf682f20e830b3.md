@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8faa8fbf682f20e830b3
-# source_url: https://tajpoints.com/2023/06/maut-ki-aagosh-mein-jab-thak-ke-so-jati.html
-# raw_sha256: 14e399d00152635496959a98a18375e428d3c1d8ff3a35f1b49a3855982d831a
 ---
 
 1

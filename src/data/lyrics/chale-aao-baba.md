@@ -71,9 +71,6 @@ romanLyrics: |-
   Jahaaṅ shaahzaadi ka madfan bana hai
   Hai jis ne bhi dekha sitam ka wo zindaaṅ
   Use umr bhar nind aati nahiṅ hai
-# source_id: nohayonline:c1b66db1665df0012beb
-# source_url: https://www.nohayonline.com/details_content.php?id=3205
-# raw_sha256: 721d89fd18aa8d1c7f41b84581b2ad7369c95b09673c47eeb1aea63e5cb8afb8
 ---
 
 چلے آؤ بابا

@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:333adce723e7434a922f
-# source_url: https://tajpoints.com/2022/08/baba-ao-na-syed-wajhi-hasan-lyrics-in.html
-# raw_sha256: 2336f2609cc89ce027658fb31fa0ee181a0bb5a2a36e2c37c16683703150db46
 ---
 
 Sajjad Ne Ro Ro Kar Yeh Kaha Mujhe Khon Rulaya Jata Hai Baba Aao Na.

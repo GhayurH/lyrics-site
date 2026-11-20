@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:793fb3fcea2763f05485
-# source_url: https://www.nohawriteups.org/hai-teri-wafaon-ki-ajab-ghazi-kahani/
-# original_html: snapshots/nohawriteups/original_html/793fb3fcea2763f05485.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/793fb3fcea2763f05485.json
-# api_content_sha256: f724d0115bf88b2a7c7d7a310c53a6db9b581586955518207106a4fdfd99bc6f
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Hai teri wafaon ki ajab Ghazi kahani

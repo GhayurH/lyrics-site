@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:fe86a259fe97dcb83c9e
-# source_url: https://www.nohawriteups.org/haye-sham-e-ghariban/
-# original_html: snapshots/nohawriteups/original_html/fe86a259fe97dcb83c9e.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/fe86a259fe97dcb83c9e.json
-# api_content_sha256: 67611d8a40af51bf21fbc4e937734ea20e5b4742056f328660fb39768a4a3c41
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 din dhala to rulaane ko shaam aagayi

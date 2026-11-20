@@ -8,9 +8,6 @@ poet: "Sadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d03e14dc726be02348d0
-# source_url: https://tajpoints.com/2021/10/ism-e-mohammad-ko-chomte-hain-lyrics-in.html
-# raw_sha256: f5905514633d5b5c3b55ae1777935a1cb02d1f7d3d7d298385d30ae24eeef54e
 ---
 
 1

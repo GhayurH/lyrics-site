@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1f1b3305e97d643ae039
-# source_url: https://tajpoints.com/2022/12/mahrooma-maa-mazlooma-maa-madar-man.html
-# raw_sha256: 70be6adda755767757a2fe8b88b255ffa799bbd64a1a10a45f7cfc92cf624441
 ---
 
 Mahrooma Maa Mazlooma Maa Madar Man Zahra Dr Ali Abbas Rizvi.

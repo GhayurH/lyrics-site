@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:16b7a74c4bba4712408e
-# source_url: https://tajpoints.com/2020/01/khaimay-udasiyon-ke-qum-se-hain-sham.html
-# raw_sha256: b84164a4fdc98146df028cf6126149eb048d6fe6076c7b7255e270c5ec767c29
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed2e75435f57ae93e1ae
-# source_url: https://tajpoints.com/2023/05/ya-ali-moula-mera-sibtain-haider-lyrics.html
-# raw_sha256: 24b42d0c35908c9afca33547e1756d107f5095e6f077b8be971ad477f706b772
 ---
 
 Ya Ali Moula Mera Sibtain Haider

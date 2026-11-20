@@ -86,9 +86,6 @@ romanLyrics: |-
   Na aaya mera alamdar
   Zaar o zaar mai roti rahi...
   Nauha tha ye sughra ka...
-# source_id: nohayonline:12686a0739e381d0e27a
-# source_url: https://www.nohayonline.com/details_content.php?id=962
-# raw_sha256: 4945f0aee7fe5fde393dc54e52200b66d15d7f046e70c88b40a9e22ad1dd2ea8
 ---
 
 ۱

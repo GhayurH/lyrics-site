@@ -7,14 +7,6 @@ direction: "rtl"
 kalamType: "Noha"
 aliases: []
 published: false
-# source_id: nohawriteups:fefaabd809d77b58bdb4
-# source_url: https://www.nohawriteups.org/abbas-alam-tera-maqtal-sai-aaraha-hai/
-# raw_sha256: 2f718ef0363355aeb2920f8fed2f45a6b61a941508f57fa0993908fca3a02aa4
-# source_id: nohawriteups:6d0403f5e2816a0c843e
-# source_url: https://www.nohawriteups.org/abbas-alam-tera-maqtal-say-aa-raha-hay/
-# raw_sha256: a903ed11e3c8bfa7b558cd28cd936d804ea933c0be0227fafd09cbd8a939cc3e
-# source_title_original: Abbas Alam Tera Maqtal Sai Aaraha Hai
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Abbas alam tera maqtal sai aaraha hai
   Shabbir ki kamar ko, haye jukha raha hai

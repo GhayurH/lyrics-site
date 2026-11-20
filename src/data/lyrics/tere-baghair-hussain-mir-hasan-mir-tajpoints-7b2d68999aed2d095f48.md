@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7b2d68999aed2d095f48
-# source_url: https://tajpoints.com/2023/02/tere-baghair-hussain-mir-hasan-mir.html
-# raw_sha256: d69c03a3c0c373203bd877ef35cad1fb658877747b0310fcdefca5f20408dd61
 ---
 
 Tere Baghair Hussain Mir Hasan Mir

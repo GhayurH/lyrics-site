@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:561f55b4e4b790da3618
-# source_url: https://www.nohawriteups.org/karbobala-main-masha-ay-qasim-bickar-gaya/
-# original_html: snapshots/nohawriteups/original_html/561f55b4e4b790da3618.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/561f55b4e4b790da3618.json
-# api_content_sha256: 479f683b744956bd19a2838d3a79adeef6b6f6b0e40ca055d5ba9ba57ca3f8e3
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Karbobala main lasha ay Qasim bickar gaya

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a8db41e7da8e40acbeca
-# source_url: https://tajpoints.com/2019/06/haye-maar-dita-lokaan-baba-mera-bhira.html
-# raw_sha256: be8da305640009e221a7a09ea77fc1be42d5635f1972d0aafad779b3e1bbaaab
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7264921318b9f5a136f1
-# source_url: https://tajpoints.com/2023/06/jab-kar-chukey-jahan-se-safar-aakhri.html
-# raw_sha256: 9d7452838ef9327e4b3e2f19f013021b6d5fce5d22fc2a7e069092a846acbb70
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:75544782a845bec02ca8
-# source_url: https://tajpoints.com/2024/02/allah-hu-allah-muhammad-raza-mungla.html
-# raw_sha256: 7a3d8df15b07401a792fabbc5c10a5ced14b187c77c20766b66eb66d584f8ea7
 ---
 
 1

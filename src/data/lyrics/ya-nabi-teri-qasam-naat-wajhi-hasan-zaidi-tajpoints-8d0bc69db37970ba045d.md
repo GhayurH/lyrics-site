@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8d0bc69db37970ba045d
-# source_url: https://tajpoints.com/2018/03/ya-nabi-teri-qasam.html
-# raw_sha256: 0c7fc8353e563c7cc8f7f62a2b7fa41f00a02bd730311d9d01d8212674928da8
 ---
 
 1

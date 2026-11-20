@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a29ea245a3ce92a275b0
-# source_url: https://tajpoints.com/2018/10/sham-de-safaraan-toon-aa-gayi-aye.html
-# raw_sha256: b6020319f4349043d1b2985b814651138a274a701d91571cb63d46b69e079172
 ---
 
 1

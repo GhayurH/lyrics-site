@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fcd94dc68143bd7b82d2
-# source_url: https://tajpoints.com/2018/02/ali-o-zahra-ki-poti-sakina-bint-e.html
-# raw_sha256: 40f29f2ac24d90531775d1dfc2f4e43eed298a712bd97be9c1e634e41706cf00
 ---
 
 1

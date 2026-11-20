@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:41809e4b904882220b44
-# source_url: https://tajpoints.com/2018/02/zahra-nu-ali-ne-musalmana-toun-chup.html
-# raw_sha256: b2b03f94417924af108c66f63f1ca5208d683f2d69e4cb6d67d317077445eb33
 ---
 
 1

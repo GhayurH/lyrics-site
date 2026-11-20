@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d7ab22a9db62ae5400ba
-# source_url: https://tajpoints.com/2023/09/hasan-bhira-di-lash-nu-shabbir-kinj.html
-# raw_sha256: 01da21d9ad944e5839161d26f6955aacc1b398d8b67ad9ccd06e5e95f668c8ca
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d4ac950f7b96ea4746b0
-# source_url: https://tajpoints.com/2023/01/khushi-ka-din-hai-zamane-mein-aaj-aaye.html
-# raw_sha256: b1ab6aea1d2a3e6bbcc3becbfff8e21f454dbf83d810c265797367f637043e6a
 ---
 
 Khushi Ka Din Hai Zamane Mein Aaj Aaye Naqi.

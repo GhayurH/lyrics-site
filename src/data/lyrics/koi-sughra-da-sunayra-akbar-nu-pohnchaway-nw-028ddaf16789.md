@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:028ddaf16789c4c4f3c4
-# source_url: https://www.nohawriteups.org/koi-sughra-da-sunayra-akbar-nu-pohnchaway/
-# original_html: snapshots/nohawriteups/original_html/028ddaf16789c4c4f3c4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/028ddaf16789c4c4f3c4.json
-# api_content_sha256: 5fc7e306d325a96dfe63d706c2f48878502a0c780bec8b320b643f8c594a3c08
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Koi Sughra Da Sunayra Akbar Nu Pohnchaway

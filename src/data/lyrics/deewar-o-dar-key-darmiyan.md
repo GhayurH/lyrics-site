@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cf123350243451e750bc
-# source_url: https://tajpoints.com/2026/10/deewar-o-dar-key-darmiyan-syed-ali.html
-# raw_sha256: 62747777f439a8979522d3798cbff71ccd1b54594880c7a36979bc4e1a1b1ed1
-# source_title_original: Deewar o Dar Key Darmiyan Syed Ali Mehdi Lyrics In Urdu 2026
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Keh Rahi Hain Fatima Dewar-o-Dar Ke Darmiyaan

@@ -9,9 +9,6 @@ reciter: "Katri Bawa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a53c302b96211708bcfc
-# source_url: https://www.ziyaraat.net/api/noha/388
-# raw_sha256: 0872a0c257c59f9c32146e448c2dce5aaa1c111b91896e2c9f114f35d718326d
 ---
 
 Haaye Sajjad haaye bimar

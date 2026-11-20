@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6a7158941172aefd6936
-# source_url: https://tajpoints.com/2023/06/chuk-lash-sakina-di-ravi-road-lyrics-in.html
-# raw_sha256: cf1eba0230a629f3c557cb531c26e80df47617e10081862d86c04b1e25d5fdd7
 ---
 
 Chuk Lash Sakina Di Ravi Road

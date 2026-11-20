@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:073bf1e1ba106b231ae9
-# source_url: https://www.nohawriteups.org/karbala-karbala-karbala-agayi/
-# original_html: snapshots/nohawriteups/original_html/073bf1e1ba106b231ae9.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/073bf1e1ba106b231ae9.json
-# api_content_sha256: 9c322bc8051f229b6e6aec7efb214f48ba290ab9f1f04fb92f814048c8947655
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Karbala Karbala Karbala Aagayi

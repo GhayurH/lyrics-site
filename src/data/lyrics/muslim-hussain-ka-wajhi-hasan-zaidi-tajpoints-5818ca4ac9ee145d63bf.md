@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5818ca4ac9ee145d63bf
-# source_url: https://tajpoints.com/2023/06/muslim-hussain-ka-wajhi-hasan-zaidi.html
-# raw_sha256: 7128a5810c9cec212f37b2708c8a88dbe83cc5c4f9422745b9e75d9030b2d535
 ---
 
 1

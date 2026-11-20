@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1d4872097dc6d9e5635c
-# source_url: https://tajpoints.com/2022/12/rooh-e-rasool-dekh-rahi-thi-batool-ko.html
-# raw_sha256: 929e8760bb54c350675c280b1ceb96abbc2b9669b253669e7532445d3471bb16
 ---
 
 1

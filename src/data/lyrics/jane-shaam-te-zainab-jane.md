@@ -47,9 +47,6 @@ romanLyrics: |-
   Shahruz Ae Gal Islam Di Ae, Ik Bibi Qaidan Shaam Di Ae
   Oh Bibi Din Di Malka Ae, Naale Dukhtar Paak Imam Di Ae
   Tauhid Azal Kar Gayi Ae, Jiweiṅ Mushkil Hal Kar Gayi Ae
-# source_id: ziyaraat:0048e2a21b264cf9ca7e
-# source_url: https://www.ziyaraat.net/api/noha/1407
-# raw_sha256: cfa5ac8ec8e0179ca67c65f612617777a7301236042caf04722d5a7b35952211
 ---
 
 ۱

@@ -51,9 +51,6 @@ romanLyrics: |-
   Yeh teri manzilat do jahaaṅ se siwa
   Zaairoṅ ko tere sab ne haaji kaha
   Mazhar o Mesum saare jahaaṅ meiṅ dete haiṅ sada
-# source_id: tajpoints:4fb694fd9cf41d5c5e31
-# source_url: https://tajpoints.com/2023/02/karbala-karbala-tere-do-badshah-mesum.html
-# raw_sha256: ce787fc746db6fb4f7f0d70209fbfffea29305eec5d0e6aabe83cbe6f59523b6
 ---
 یا حسین یا عباس، یا عباس یا حسین
 بادشاہ، بادشاہ، بادشاہ، بادشاہ

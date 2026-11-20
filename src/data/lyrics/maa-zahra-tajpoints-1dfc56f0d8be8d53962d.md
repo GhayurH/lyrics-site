@@ -8,9 +8,6 @@ poet: "Azlan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1dfc56f0d8be8d53962d
-# source_url: https://tajpoints.com/2021/01/maa-zahra-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: 8ebcfad4aad4e5513846b1fe772cf62d3bf5ac0852bdcf8f6e978cd30af1b424
 ---
 
 1

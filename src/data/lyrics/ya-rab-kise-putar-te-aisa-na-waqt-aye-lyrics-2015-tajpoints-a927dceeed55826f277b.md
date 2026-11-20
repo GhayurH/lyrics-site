@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a927dceeed55826f277b
-# source_url: https://tajpoints.com/2017/02/ya-rab-kise-putar-te-aisa-na-waqt-aye.html
-# raw_sha256: f239a566170dda7bf683ad2f3b9a0f97ccd361be813dbf9df91388595579be9a
 ---
 
 1

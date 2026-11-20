@@ -44,9 +44,6 @@ romanLyrics: |-
   Tumhaare maanne waale haiṅ khaandaani Husain
   Wo chaahe Mir Takallum ho chaahe Mir Hasan
   Tumhaare naam hai donoṅ ki zindagaani Husain
-# source_id: tajpoints:15924f62632753e46343
-# source_url: https://tajpoints.com/2026/01/sukoon-yani-hussain-mir-hasan-mir-lyrics.html
-# raw_sha256: ebb32b85c3d8e61b3218d7175be3806e80e14bf82d61848c31b4a3fd363ddecb
 ---
 سکون یعنی حسین
 

@@ -33,12 +33,6 @@ romanLyrics: |-
   5
   Lainoṅ Sayyed-e-Sajjad par kore na barsaao
   Bahut bimaar hai is waaste ruk ruk ke chalta hai
-# source_id: nohayonline:19442bbdda5e702990d5
-# source_url: https://www.nohayonline.com/details_content.php?id=185
-# raw_sha256: 535a5066a9d44cb9bba54e663b85cb7a3ceb8aa8595658f9342227e10baa7acb
-# source_id: ziyaraat:113fa1c0607fc2616967
-# source_url: https://www.ziyaraat.net/api/noha/392
-# raw_sha256: bc3a3afa8e709520e43afedc5f70d0c8dca2a37bcd13f5235426128c8359d37d
 ---
 قیامت کی تپش ہے کربلا کا دشت جلتا ہے
 مدینے کا مسافر خاک پر کروٹ بدلتا ہے

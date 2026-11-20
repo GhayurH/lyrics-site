@@ -55,9 +55,6 @@ romanLyrics: |-
   Phir kaha Zehra ne Yasir hashr ke din aauṅ gi
   Tera kurta khuṅ bhara jab roz-e-mahshar laauṅ gi
   Tere gham meiṅ khud kahega maalik-e-daarain
-# source_id: nohayonline:717e8119cc1c2a72e64e
-# source_url: https://www.nohayonline.com/details_content.php?id=2745
-# raw_sha256: b715d56e7b6e8bc1180df065a29f3ca13e9118aa04968bed3f798e362e2b5232
 ---
 
 یا حسین یا حسین یا حسین یا حسین

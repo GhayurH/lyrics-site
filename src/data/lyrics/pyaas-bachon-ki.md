@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Sina zan Shabbir ki majlis meiṅ paa kar ae Anis
   Hai dua go Fatima ye noha khwaani dekh kar
-# source_id: nohayonline:509d6abb8d869bb59a38
-# source_url: https://www.nohayonline.com/details_content.php?id=284
-# raw_sha256: f24199e0324a23e0ec9a575e9c993daac5f7f52426b9a67ddcb425a466f0f9f3
 ---
 پیاس بچوں کی بھڑک اٹھی تھی پانی دیکھ کر
 سہم جاتے تھے مگر ایذا رسانی دیکھ کر

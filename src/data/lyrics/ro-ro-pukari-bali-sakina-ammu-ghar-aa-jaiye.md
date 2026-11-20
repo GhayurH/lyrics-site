@@ -96,12 +96,6 @@ romanLyrics: 'Ro ro pukari bali sakina
   Door rahe gham saare jahan ke
 
   Anjum ko bhi bacha''iye'
-# source_id: nohayonline:dc7edd7a7840552db676
-# source_url: https://www.nohayonline.com/details_content.php?id=256
-# raw_sha256: 9e5d0f450615cc57feca76e89bfe92bc9f2f640b4035f6451e84cb75b72bd726
-# source_id: ziyaraat:0bb29fcd8380be9fc75b
-# source_url: https://www.ziyaraat.net/api/noha/1751
-# raw_sha256: aa378a7310bbb0544830725c8b8ea59584be50a0fec0e27c407d42b2a58e4858
 ---
 
 رو رو پکاری بالی سکینہ

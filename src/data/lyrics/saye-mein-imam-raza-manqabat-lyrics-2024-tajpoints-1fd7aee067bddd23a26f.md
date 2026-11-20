@@ -8,9 +8,6 @@ poet: "Mohtasham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1fd7aee067bddd23a26f
-# source_url: https://tajpoints.com/2024/05/saye-mein-imam-raza-manqabat-lyrics.html
-# raw_sha256: cdfd25846a58815b2c7f741e6226cca88c90a83f342e8b9386e1474de18284fd
 ---
 
 1

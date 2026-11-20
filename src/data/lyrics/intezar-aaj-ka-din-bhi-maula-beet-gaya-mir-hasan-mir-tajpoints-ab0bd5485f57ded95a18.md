@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ab0bd5485f57ded95a18
-# source_url: https://tajpoints.com/2017/05/aaj-ka-din-bhi-mula-beet-giya.html
-# raw_sha256: e7ef2053800ef56adfbf44037ac466d78e4fc1069e4adc159e8689c037cc694e
 ---
 
 Intezar – Aaj Ka Din Bhi Maula Beet Gaya.

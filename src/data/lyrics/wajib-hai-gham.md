@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Ta hashr ab namaaz ka zaamin hai ab Gohar
   Jalti zamiṅ pe aakhri sajda Husain ka
-# source_id: nohayonline:c1b09f77c6479c593675
-# source_url: https://www.nohayonline.com/details_content.php?id=658
-# raw_sha256: d80ad6fe6482f059f7e9a81875d5a8802a2066fa12b51b4869e1a8847a9c764e
 ---
 واجب ہے غم منائے زمانہ حُسین کا
 راہِ خُدا میں لُٹ گیا کنبہ حُسین کا

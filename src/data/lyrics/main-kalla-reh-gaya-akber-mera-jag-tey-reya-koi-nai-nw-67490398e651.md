@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:67490398e6512d69f1a8
-# source_url: https://www.nohawriteups.org/main-kalla-reh-gaya-akber-mera-jag-tey-reya-koi-nai/
-# original_html: snapshots/nohawriteups/original_html/67490398e6512d69f1a8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/67490398e6512d69f1a8.json
-# api_content_sha256: a30bafa1e31a743ce0fe3f5474da6ca3a1c9f53debddd644a0d16e9b0e885d4b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Main Kalla Reh Gaya Akber Mera Jag Tey Reya Koi Nai

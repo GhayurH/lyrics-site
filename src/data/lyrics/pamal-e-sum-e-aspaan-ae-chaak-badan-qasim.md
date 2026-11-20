@@ -75,12 +75,6 @@ romanLyrics: 'Pamaal sumay aspa ay chaak badan qasim
   Taa hashr hai gham shahid is majlis-e-shaadi may
 
   Gham khwar hain sab giryaa ay chaak badan qasim'
-# source_id: nohayonline:3258bda8c71d179a8a7a
-# source_url: https://www.nohayonline.com/details_content.php?id=176
-# raw_sha256: d4b168e4186b3274f1a0e40da768d7e083dd7b5ea683d7c9845c3b7c4ecabb49
-# source_id: ziyaraat:26557b4d6b9a8cd80920
-# source_url: https://www.ziyaraat.net/api/noha/1330
-# raw_sha256: 539c9a98932d3dbb85e3ad63a2ccda95959802e4d8101f8c622b6af14f1e65cc
 ---
 
 ؑپامال سُمِ اسپاں اے چاک بدن قاسم

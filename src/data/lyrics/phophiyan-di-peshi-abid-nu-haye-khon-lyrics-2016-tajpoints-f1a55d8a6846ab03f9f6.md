@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f1a55d8a6846ab03f9f6
-# source_url: https://tajpoints.com/2023/05/phophiyan-di-peshi-abid-nu-haye-khon.html
-# raw_sha256: 263d5c029b924177bdfa799bb1a24b77e7b6df77505d00e38cdcc6568ec89e40
 ---
 
 Phophiyan Di Peshi Abid Nu Haye Khon Rawa Gayi Aye Asghar Khan

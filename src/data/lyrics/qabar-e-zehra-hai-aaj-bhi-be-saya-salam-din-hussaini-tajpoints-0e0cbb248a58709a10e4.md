@@ -8,9 +8,6 @@ poet: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0e0cbb248a58709a10e4
-# source_url: https://tajpoints.com/2023/12/qabar-e-zehra-hai-aaj-bhi-be-saya-salam.html
-# raw_sha256: 02b509292101581ddba3778299bef19c071df27dfa778812cae62e4c4ba51231
 ---
 
 Qabar e Zehra Hai Aaj Bhi Be Saya Salam Din Hussaini.

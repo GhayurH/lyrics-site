@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7a7d7beaf04263463241
-# source_url: https://tajpoints.com/2026/09/khuld-imran-ka-thikana-hai-lyrics.html
-# raw_sha256: 4bf815bc92485a986938dce3936683b7d009f2057257b28dfb210b0924bff100
 ---
 
 Oss Ne Tauheed Se Milana Hai.

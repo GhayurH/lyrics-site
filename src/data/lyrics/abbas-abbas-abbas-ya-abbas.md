@@ -46,9 +46,6 @@ romanLyrics: |-
   Ashkoṅ ki ilteja ham Ghazi tujhe sunaaye
   Bimaar-e-saarbaaṅ ke zakhmoṅ ka waasta hai
   Jitne bhi khasta dil haiṅ Maula shifa woh paaye
-# source_id: ziyaraat:473a12e8d873d66408a9
-# source_url: https://www.ziyaraat.net/api/noha/243
-# raw_sha256: 86a3e51a6450c2fa18b40a5d752f471338acf8e49a6c53939bb354ed11cbf2f1
 ---
 
 عباسؑ عباسؑ عباسؑ، یا عباسؑ

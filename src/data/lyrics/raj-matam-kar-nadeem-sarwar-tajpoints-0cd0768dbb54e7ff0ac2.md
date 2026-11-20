@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0cd0768dbb54e7ff0ac2
-# source_url: https://tajpoints.com/2022/12/raj-matam-kar-nadeem-sarwar-lyrics-in.html
-# raw_sha256: dfd0c5cdec04ca66f77fbc67236760623e27bf9c65f4c0bebe95c24568b1ac02
 ---
 
 1

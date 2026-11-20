@@ -8,15 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:71f4579c88d3ecb3463b
-# source_url: https://www.nohawriteups.org/ik-zainab-te-haye-dard-hazaraan/
-# original_html: snapshots/nohawriteups/original_html/71f4579c88d3ecb3463b.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/71f4579c88d3ecb3463b.json
-# api_content_sha256: 099b3bd9387377a7754f5197ca237c377c314aab4bfe2bb2ba68723c635a55e7
-# editorial_note: Two matching Roman source witnesses consolidated; editorial stanza layout and transliteration remain unreviewed.
-# source_id: tajpoints:33f37e9201913dcf2c9e
-# source_url: https://tajpoints.com/2017/10/ik-zainab-te-haye-dard-hazaraan.html
-# raw_sha256: a063775c280fdcb70e881e6c6a73183325395c9803c10cb11ddffdc028b7a0a9
 ---
 
 Ik Zainab Te, Haye Dard Hazaraan.

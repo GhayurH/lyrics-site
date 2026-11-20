@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6c2b63a74e32dc9c32ac
-# source_url: https://tajpoints.com/2019/01/mazloom-imam-zamane-ka.html
-# raw_sha256: 2470c7c3cb24ce6b78f143c650a703f4dd39487e679bdd81d7c5b980c31e3f0e
 ---
 
 1

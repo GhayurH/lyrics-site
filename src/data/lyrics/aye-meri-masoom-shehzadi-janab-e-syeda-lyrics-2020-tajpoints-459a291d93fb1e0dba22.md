@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:459a291d93fb1e0dba22
-# source_url: https://tajpoints.com/2020/03/aye-meri-masoom-shehzadi-janab-e-syeda.html
-# raw_sha256: 9d886516748aa17b31aa8d62d56d7a958fd5ec4cdd38e85fb177cdd94d737bcf
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:489005d3e03c5629bf6f
-# source_url: https://tajpoints.com/2019/03/zameen-ta-arsh-e-mualla-ali-nazar-aaye.html
-# raw_sha256: de37d190c84b7a236f8d9f20cba1a6a66c0724ce900f716d395b23c7fcfe9681
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:701fd95e7db0c713ae5f
-# source_url: https://www.ziyaraat.net/api/noha/2023
-# raw_sha256: e91f655bb2ac4750128a99f5228f6dde77b87b4ee191fbb1b98047a399da81cf
 ---
 
 Yaa Ali Sher-e-khuda

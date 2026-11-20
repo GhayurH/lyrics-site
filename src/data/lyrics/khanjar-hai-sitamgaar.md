@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Ye khun-e-Husain ibn-e-Ali ka hai maujiza
   Parvez suno haq ki azaanoṅ meiṅ sada hai
-# source_id: nohayonline:28be3430494462092f0e
-# source_url: https://www.nohayonline.com/details_content.php?id=1770
-# raw_sha256: 179773144c3057e1aa78799aa69ff2ef84a6a87ece545075b70e3d9f648c6aa8
 ---
 خنجر ہے ستمگار کا پیاسے کا گلا ہے
 زینب غریب دشت میں مشغول بکا ہے

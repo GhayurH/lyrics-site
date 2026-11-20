@@ -110,9 +110,6 @@ romanLyrics: |-
 
   Ae Mohammad ke nawaase
   Tujh pe laakhoṅ salaam
-# source_id: nohayonline:e48b4bfbe228a92f8c57
-# source_url: https://www.nohayonline.com/details_content.php?id=3563
-# raw_sha256: fc506d330799f3e76d4766521aa90bf56f813d3231810dbfb800893a859dfcdd
 ---
 
 سنو زوار حسین ابنِ علی

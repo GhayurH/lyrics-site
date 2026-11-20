@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:30a9ee625bb3af6faf04
-# source_url: https://tajpoints.com/2020/10/haye-baba-mera-akbar-maar-dita-lyrics.html
-# raw_sha256: 10f048423e4a720f81affc82d9ebdd47289a610a24fc8f7b5d566a11aaf1b9cb
 ---
 
 Haye Baba Mera Akbar Maar Dita Lyrics In Punjabi

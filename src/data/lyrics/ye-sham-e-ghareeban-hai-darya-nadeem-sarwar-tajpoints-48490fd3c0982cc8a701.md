@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:48490fd3c0982cc8a701
-# source_url: https://tajpoints.com/2023/01/ye-sham-e-ghareeban-hai-darya-nadeem.html
-# raw_sha256: 838b049f18c544f1a7acdcab5658bbf18a9767fab71c16e366551670fdc69d32
 ---
 
 Ye Sham-e-Ghareeban Hai Darya Nadeem Sarwar.

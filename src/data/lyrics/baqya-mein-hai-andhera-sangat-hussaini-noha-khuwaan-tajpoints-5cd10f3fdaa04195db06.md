@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5cd10f3fdaa04195db06
-# source_url: https://tajpoints.com/2025/04/baqya-mein-hai-andhera-sangat-hussaini.html
-# raw_sha256: da849efb173ce178dd1e84bb2cf81167901f38db69399afcab5cc8f9c9e9d974
 ---
 
 1

@@ -57,9 +57,6 @@ romanLyrics: |-
   Aamir rida meiṅ kar ke tan-e-paash paash ko
   Bole Kumail dekh ke Shabbir laash ko
   De de mujhe bhi maut Khudaaya yahiṅ kahiṅ
-# source_id: nohayonline:9e1b23c003f487f0d1dd
-# source_url: https://www.nohayonline.com/details_content.php?id=1280
-# raw_sha256: 73d13349165b7f082faaafb34dcce527894a30ba7a5621dc602642e856d270eb
 ---
 رو کر پکارے سیدِ والا یہیں کہیں
 قاسم کا تھا پڑا ہوا لاشہ یہیں کہیں

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f4767ade1537fc5e76b3
-# source_url: https://tajpoints.com/2017/02/ranjish-hi-sahi-dill-hi-dukhane-ke-liye.html
-# raw_sha256: 3ad4bea9e649d50902ed866c693d70ce10218c7eae44c40130f7e50546881ff6
 ---
 
 1

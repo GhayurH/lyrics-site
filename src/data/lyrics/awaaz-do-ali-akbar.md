@@ -72,9 +72,6 @@ romanLyrics: |-
   Beta hamaare haal pe hansti hai fauj-e-Shaam
   Dhundla hai sab jahaan hai surkh aasmaaṅ
   Chalti hai aandhiyaaṅ
-# source_id: nohayonline:d7961e2d215b88f6fb84
-# source_url: https://www.nohayonline.com/details_content.php?id=3625
-# raw_sha256: fe84ae9be39f1f4af191abd8796188233c68b712975204525ca2ba4894b9d9e2
 ---
 
 آیینہ آیینہ علی اکبر

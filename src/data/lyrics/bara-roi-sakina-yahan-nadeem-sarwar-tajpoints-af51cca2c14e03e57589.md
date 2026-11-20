@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:af51cca2c14e03e57589
-# source_url: https://tajpoints.com/2022/11/bara-roi-sakina-yahan-nadeem-sarwar.html
-# raw_sha256: 6b0e38824537b69916df3958bab5b7041486bb5679f9f4998af6e1e795e1a97c
 ---
 
 1

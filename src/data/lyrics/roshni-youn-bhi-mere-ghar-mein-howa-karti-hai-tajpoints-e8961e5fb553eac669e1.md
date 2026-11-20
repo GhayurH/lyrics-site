@@ -8,9 +8,6 @@ poet: "Fareedi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e8961e5fb553eac669e1
-# source_url: https://tajpoints.com/2017/02/roshni-youn-bhi-mere-ghar-mein-howa.html
-# raw_sha256: 1dfbcb7ec09a88766714a86f9c781f77ff57f895ed4286ca98b455b4690f5742
 ---
 
 Roshni Youn Bhi Mere Ghar Mein Howa Karti Hai.

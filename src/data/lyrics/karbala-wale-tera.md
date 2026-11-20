@@ -72,9 +72,6 @@ romanLyrics: |-
   Keh ke maiṅ ne Ya Ali Ya Bu Turaab
   Kitne chehroṅ se ulat di hai naqaab
   Naam-e-Haider qalb ki mizaan hai
-# source_id: nohayonline:1e2087b6f5ae54369f16
-# source_url: https://www.nohayonline.com/details_content.php?id=141
-# raw_sha256: 0a68be47b655759b78acd72e7638e5c4e46b3c56fe9b3df754f5a9120ec31724
 ---
 یہ ہمارے دل میں جو ایمان ہے
 کربلا والے تیرا احسان ہے

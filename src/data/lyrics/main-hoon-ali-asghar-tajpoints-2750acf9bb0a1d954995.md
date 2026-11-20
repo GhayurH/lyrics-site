@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2750acf9bb0a1d954995
-# source_url: https://tajpoints.com/2020/03/main-hoon-ali-asghar-lyrics-in-urdu-and.html
-# raw_sha256: e273d1b8d6fcce9842e3148c654a0668321e6a7f59fb34eb5323187c8a187a46
 ---
 
 Tum Samajhtay Ho Keh Mein Chota Sa Ik Bacha Hoon.

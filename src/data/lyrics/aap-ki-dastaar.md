@@ -47,9 +47,6 @@ romanLyrics: |-
   Farsh-e-aza bichha hai hua maatam-e-Ali
   Safar hua jahaan meiṅ barpa gham-e-Ali
   Mahv-e-buka hai aap ke hubdaar ya Ali
-# source_id: nohayonline:ce8786b3056f78f9f75f
-# source_url: https://www.nohayonline.com/details_content.php?id=2272
-# raw_sha256: 3c9dac339d23fae95eea1a59cba7f0919aa4ed6c786b50f681c834c290f547fc
 ---
 تر خوں سے ہی آپ کی دستار یا علی
 سر پر چلی ہے آپ کے تلوار یا علی

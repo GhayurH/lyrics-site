@@ -8,9 +8,6 @@ poet: "Sarosh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f40c59e974495407f59f
-# source_url: https://tajpoints.com/2017/02/ya-muhammadsaww-naat.html
-# raw_sha256: 261103ba93d13c613f6f23482b2d96921c67cd56c6b1351fd59b8475ee2e3342
 ---
 
 1

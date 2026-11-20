@@ -57,9 +57,6 @@ romanLyrics: |-
   Haaye khari hai Maadar-e-Abbaas saamne
   Kaise chhupaaye baazu pe rassi ke ye nishaaṅ
   Zehra ki betiyaaṅ
-# source_id: nohayonline:1eebcab5effa3de56f80
-# source_url: https://www.nohayonline.com/details_content.php?id=2081
-# raw_sha256: 9f052d3d18e34d60693c5ca2f719bbc22603a088c52ca7b69f57dfa9aea82490
 ---
 خیمے جلا دیے گئے جائیں گی اب کہاں
 زہرا کی بیٹیاں

@@ -8,9 +8,6 @@ poet: "Iqtidar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a6d53e8e11ae37d0cf32
-# source_url: https://tajpoints.com/2023/03/mere-khiyal-ko-nisbat-hoi-madine-se.html
-# raw_sha256: e44340cfb9767f67d167c5e6a9478495977e4000c0c4f3ca959f0c2a6593541a
 ---
 
 1

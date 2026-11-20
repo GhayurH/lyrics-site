@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cb6bb30a0969a9fc19b0
-# source_url: https://tajpoints.com/2021/12/dar-e-fatima-zahra-se-dhuwaan-uthta-tha.html
-# raw_sha256: 168e72effa8de6e19954c96b1c4b1b9e0002d2dab86d40037e0c35a161f7a1f2
 ---
 
 Dar-e-Fatima Zahra Se Dhuwaan Uthta Tha.

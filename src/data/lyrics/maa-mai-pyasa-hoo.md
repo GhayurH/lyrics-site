@@ -58,9 +58,6 @@ romanLyrics: |-
   Nayyar likhega aamir padhega
   Mai aisa nauha hoo maa
   Maa mai pyasa hoo...
-# source_id: nohayonline:252a116b193b43b9e65b
-# source_url: https://www.nohayonline.com/details_content.php?id=2154
-# raw_sha256: fea5a061bd4b5dc282472ce2bab21ccb09bfdc1e41848f244e1f17d7b921531d
 ---
 
 ۱

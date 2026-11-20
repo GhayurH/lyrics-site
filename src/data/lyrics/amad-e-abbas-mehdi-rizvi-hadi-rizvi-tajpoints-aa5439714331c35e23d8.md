@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aa5439714331c35e23d8
-# source_url: https://tajpoints.com/2026/06/amad-e-abbas-mehdi-rizvi-hadi-rizvi.html
-# raw_sha256: 6732754b9bf375c2ef1c9944f7f55d0a7164a865bc3cc01bf38812a1a55ac7dc
 ---
 
 Karbala Jaein Gi Zainab Jab Iradah Ho Gaya.

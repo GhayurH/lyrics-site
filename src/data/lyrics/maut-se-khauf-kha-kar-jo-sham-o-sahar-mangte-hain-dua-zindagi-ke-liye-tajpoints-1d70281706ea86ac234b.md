@@ -8,9 +8,6 @@ poet: "Saeed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1d70281706ea86ac234b
-# source_url: https://tajpoints.com/2018/05/maut-se-khauf-kha-kar-jo-sham-o-sahar.html
-# raw_sha256: 66311c98d280fcb59c46bcd4ae251e5a3aecf44e0b97030bb7c0374fd1530e56
 ---
 
 1

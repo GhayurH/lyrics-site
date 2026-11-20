@@ -60,13 +60,6 @@ romanLyrics: |-
   Zishan aur Raza wo kehti thi ya Ali
   Zehra ka saath tum ne chhora nahiṅ kabhi
   Tanhaai meiṅ bhi saath nibhaana Abul Hasan
-# source_id: nohayonline:dbeedfe087bd6bf95ef6
-# source_url: https://www.nohayonline.com/details_content.php?id=1032
-# raw_sha256: b95d6e9bc4e1865ae96d64b432fa7590d01a0bfc6d29cb9f0cc6548e58c9df0a
-# source_id: tajpoints:992d4c5cabd0fa21b206
-# source_url: https://tajpoints.com/2022/01/tum-roz-meri-qabr-pe-ana-abul-hasan.html
-# raw_sha256: d3f0dd6bd825b18935a5d2663586dc24c34c75484f67a2d614a8c134519b9f0d
-# editorial_note: Restored previously omitted three-line stanza about children's welfare in Urdu and Roman before the Zeeshan takhallus; retained all other verses.
 ---
 زہرا سے حال پوچھنے جب آئے مرتضیٰ
 رو رو کے فاطمہ نے وصیت میں یہ کہا

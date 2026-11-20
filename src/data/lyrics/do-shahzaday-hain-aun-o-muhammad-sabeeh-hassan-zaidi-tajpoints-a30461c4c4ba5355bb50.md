@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a30461c4c4ba5355bb50
-# source_url: https://tajpoints.com/2021/04/do-shahzaday-hain-aun-o-muhammad-sabeeh.html
-# raw_sha256: dae3dc2c1a374885b38926c86de1b20ffa4769641dc0b1363ba7fb5b35d733fa
 ---
 
 1

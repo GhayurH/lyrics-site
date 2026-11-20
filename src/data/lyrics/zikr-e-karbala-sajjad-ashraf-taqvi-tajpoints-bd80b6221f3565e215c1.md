@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bd80b6221f3565e215c1
-# source_url: https://tajpoints.com/2021/08/zikr-e-karbala-sajjad-ashraf-taqvi.html
-# raw_sha256: 8f5422f9d55b6cd20c12bbc6a612d9c6b3a10d6067b15ad0789e8a3822091410
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:981d6274ec4e13552b23
-# source_url: https://tajpoints.com/2023/07/tajdar-e-karbala-meesum-kashmiri-lyrics.html
-# raw_sha256: 7038e9f87c06051e89b6030f05f12b73dfcf71115b31756c8e5c0085c6878646
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eacde826ffeb99f54156
-# source_url: https://tajpoints.com/2021/07/ghadeer-ki-sada-ali-ali-hasnain-abbas.html
-# raw_sha256: 83fc9e4434495804825def11ec2f2812a8de0e1a2a4e4ec8ec9d8120a1ba2ccb
 ---
 
 Ghadeer Ki Sada Ali Ali Hasnain Abbas.

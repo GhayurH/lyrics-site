@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a770bf40cbc1b2c7be12
-# source_url: https://www.ziyaraat.net/api/noha/1837
-# raw_sha256: 3ea4cbcac9b91fbb71a71ba7528c62c37daf3bb4f4e57641b27a80e40ae9d1fc
 ---
 
 Allah Allah Min Rasil Hussain

@@ -36,17 +36,6 @@ romanLyrics: |-
   6
   Kufe ka zarra zarra rota hai khuṅ ke aaṅsu
   Mehrum ho rahe haiṅ Hasnain ab pidar se
-# source_id: nohayonline:1d33ebd795fcacec3847
-# source_url: https://www.nohayonline.com/details_content.php?id=512
-# raw_sha256: 82250828f51f71c0bd3274232f053492704413828a77a8a94b8ff1d85e463a9f
-# source_id: ziyaraat:c908925cce59a489d8a3
-# source_url: https://www.ziyaraat.net/api/noha/579
-# raw_sha256: 17cd3e8ef340bad282766dd3339190412e8e4b2a5ed467b5a89a91a930ebe700
-# source_id: nohawriteups:f7b28cb8b670f054ef28
-# source_url: https://www.nohawriteups.org/utha-koi-janaza-phir-sayeda-kay-ghar-say/
-# original_html: snapshots/nohawriteups/original_html/f7b28cb8b670f054ef28.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f7b28cb8b670f054ef28.json
-# api_content_sha256: d4e4a19c6ac79a3689d97cb70b17b48591d306de394ccdd862a67a7dba03b9db
 ---
 اُٹھا کوئی جنازہ پھر سیدہ کے گھر سے
 حسرت برس رہی ہے ایک ایک بام و در سے

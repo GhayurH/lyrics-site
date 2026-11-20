@@ -8,9 +8,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:b314cbfe2162ef91e8b9
-# source_url: https://www.ziyaraat.net/api/noha/789
-# raw_sha256: d119f6f849f3f8cac7973f936ac9873073378b95fb353b3f7fb27d7a3d3138bb
 ---
 
 بازار ہے پتھر ہیں زینب کا کھلا سر ہے

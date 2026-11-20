@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:80b93b58400a55230f33
-# source_url: https://tajpoints.com/2017/09/zainab-ne-kaha-yeh-ro-ro-kar-do-honsla.html
-# raw_sha256: a68555fbe45a4283ecdff21fc93b0b6b275aad3b16ce92cdce5d12069452bef1
 ---
 
 1

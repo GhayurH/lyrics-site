@@ -43,9 +43,6 @@ romanLyrics: |-
   Akhtari naize pe jab aa gaye Saqqa-e-haram
   Uska sar naize se girta tha khaak par paiham
   Khud ko jab bhai ke naize ke barabar dekha
-# source_id: nohayonline:66904768f572c71b0ce2
-# source_url: https://www.nohayonline.com/details_content.php?id=3113
-# raw_sha256: b673fa2d399c5c2b7e69acea73a091aa4e02e6d0a134a085a935d5594a8558d4
 ---
 ایک بہن بھائی کے مقتل کا وہ منظر دیکھا
 ہائے زینب کے گلے پر میرے خنجر دیکھا

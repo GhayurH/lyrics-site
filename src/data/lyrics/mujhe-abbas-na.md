@@ -52,9 +52,6 @@ romanLyrics: |-
   Suno ae shaamiyoṅ sunlo
   Abhi tak yaad hai unko mere ghazi ka ye kehna
   Nahi kehna nahi kehna...
-# source_id: nohayonline:7c314dc88638e425153b
-# source_url: https://www.nohayonline.com/details_content.php?id=2741
-# raw_sha256: 8d8ab125724ec6fd8562a012a572408134ddc31438498814d3b0fd63120fd4b5
 ---
 
 ۱

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:12f9508d3e262d78d043
-# source_url: https://www.nohawriteups.org/utha-koi-janaaza-phir-fatima-a-s-kay-ghar-say/
-# original_html: snapshots/nohawriteups/original_html/12f9508d3e262d78d043.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/12f9508d3e262d78d043.json
-# api_content_sha256: 2e6a0de2af90e4eb097983dacb66a7d1031f944d3605217e37afb6c9648a8450
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Utha koi janaaza phir Fatima a.s. kay ghar say

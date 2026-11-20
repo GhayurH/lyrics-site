@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:8c76a701693070b7e341
-# source_url: https://www.ziyaraat.net/api/noha/1195
-# raw_sha256: 2609f0774ee25eac1a4f6c5ab4154dba12302e08af24830ae07e426b0a34bd7d
 ---
 
 کیا کیا ستم حسینؑ کے دل پر گزر گۓ

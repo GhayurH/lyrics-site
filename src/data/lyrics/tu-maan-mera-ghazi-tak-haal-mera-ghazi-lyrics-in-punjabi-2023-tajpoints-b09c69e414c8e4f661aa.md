@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b09c69e414c8e4f661aa
-# source_url: https://tajpoints.com/2023/10/tu-maan-mera-ghazi-tak-haal-mera-ghazi.html
-# raw_sha256: e2a2c54dc52f1472922ef26c6df47efca11c24fb91cbf29af85ae54521991e27
 ---
 
 1

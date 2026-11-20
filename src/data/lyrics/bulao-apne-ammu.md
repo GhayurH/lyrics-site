@@ -56,9 +56,6 @@ romanLyrics: |-
   Ro rahi thi Dukhtar-e-Shabbir Waaiz zaar zaar
   Ae Ali the dard se Ahl-e-Haram sab beqaraar
   Karbala se Shaam tak Shimr laiṅ kehta gaya
-# source_id: nohayonline:370606222b8ed1ab778e
-# source_url: https://www.nohayonline.com/details_content.php?id=2850
-# raw_sha256: ed7d5a56ba4b7ddeb53147e929b99a02848786d48ecd87734c38d69284545449
 ---
 مار کر رخ پر طمانچے بولا شمر بے حیا
 اے سکینہ اب بلاؤ اپنے عمو جاں کو

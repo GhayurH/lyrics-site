@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6f85b4326c627dafe93f
-# source_url: https://tajpoints.com/2023/05/jhola-veera-da-main-nana-roz-jholawan.html
-# raw_sha256: c1872c3cf0ac1b05efb4382e9a9fe5b9d6c9250474e70f63a9a815933576a7bf
 ---
 
 1

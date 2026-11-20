@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0dd3b4c1b9a2fc22b9cb
-# source_url: https://tajpoints.com/2019/07/oss-par-hoi-yeh-khas-inayat-raza-ki-hai.html
-# raw_sha256: 7bd6c720157c1280e4d44733452e6a2d3a8f2c735229ac273b91bc07bcacdde0
 ---
 
 1

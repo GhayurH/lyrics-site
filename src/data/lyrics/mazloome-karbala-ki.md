@@ -50,9 +50,6 @@ romanLyrics: |-
   Karbobala ke dasht se bazaar e shaam meiṅ
   Chadar luta ke khaafila salaar aa gayi
   Mazlume karbala ki...
-# source_id: nohayonline:fb6b7f1fad7c4f16c7c3
-# source_url: https://www.nohayonline.com/details_content.php?id=2571
-# raw_sha256: faa8c11f6ec448ebff59d12c6b21790d838bb90d85f71b7bb0bf936c9e8f3a38
 ---
 
 ۱

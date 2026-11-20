@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:aebe871636b1f7f849d7
-# source_url: https://www.nohawriteups.org/qasim-meh-thayrey-mehndi-arshant/
-# original_html: snapshots/nohawriteups/original_html/aebe871636b1f7f849d7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/aebe871636b1f7f849d7.json
-# api_content_sha256: dffc5d97420ace4eaa08653f378cd62dd748ef362d8427305bc5488112284ab9
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Qasim meh thayrey mehndi Arshant^ banayii hay

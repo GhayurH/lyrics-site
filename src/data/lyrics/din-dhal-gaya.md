@@ -69,13 +69,6 @@ romanLyrics: |-
   Rehte the haram yuṅ to shab o roz buka meiṅ
   Ik roz Sakina ko Anis hijr-e-chacha meiṅ
   Zindaan meiṅ nind aa gayi Abbas Abbas na laute
-# source_id: nohayonline:846232db517d50ed00e7
-# source_url: https://www.nohayonline.com/details_content.php?id=368
-# raw_sha256: cf1c95447c522c4c1635b84fc6503f2f8dbf8d210f7e3cd1a16a3badda397d51
-# source_id: nohawriteups:95a6107e1a8d4063bab9
-# source_url: https://www.nohawriteups.org/din-dhal-gaya/
-# original_html: snapshots/nohawriteups/original_html/95a6107e1a8d4063bab9.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/95a6107e1a8d4063bab9.json
 ---
 دِن ڈھل گیا شام آگئی عباس عباس نہ لوٹے
 شام اور غضب ڈھاگئی عباس عباس نہ لوٹے

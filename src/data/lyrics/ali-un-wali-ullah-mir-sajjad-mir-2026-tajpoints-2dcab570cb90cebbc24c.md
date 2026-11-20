@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2dcab570cb90cebbc24c
-# source_url: https://tajpoints.com/2026/06/ali-un-wali-ullah-mir-sajjad-mir-2026.html
-# raw_sha256: ef99d5d6d6173dd983fce03f4451bfe8edc23b8cc2cf8dc68fd4d0f4789095a0
 ---
 
 1

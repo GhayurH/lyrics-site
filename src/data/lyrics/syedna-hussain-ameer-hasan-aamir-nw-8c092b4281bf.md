@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8c092b4281bf65d61a60
-# source_url: https://www.nohawriteups.org/syedna-hussain-ameer-hasan-aamir-nohay-2022/
-# original_html: snapshots/nohawriteups/original_html/8c092b4281bf65d61a60.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8c092b4281bf65d61a60.json
-# api_content_sha256: f4bbb219ddbc86a3afd2616d3f02d703e1ecc635bd99a6a4a05d1f41b17f5fa2
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 TU HI ZARIYA

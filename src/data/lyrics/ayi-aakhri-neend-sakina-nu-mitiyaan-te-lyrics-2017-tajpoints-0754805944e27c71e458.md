@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0754805944e27c71e458
-# source_url: https://tajpoints.com/2017/10/ayi-aakhri-neend-sakina-nu-mitiyaan-te.html
-# raw_sha256: 903a8830a7ac81237c1a8cab46b2e80772bd73c850aa4985f08ad2c09be333ab
 ---
 
 Ayi Aakhri Neend Sakina Nu Mitiyaan Te Aan Ke So Gayi Aye.

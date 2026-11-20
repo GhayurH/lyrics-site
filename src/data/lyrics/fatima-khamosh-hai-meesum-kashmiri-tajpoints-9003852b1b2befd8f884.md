@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9003852b1b2befd8f884
-# source_url: https://tajpoints.com/2022/12/fatima-khamosh-hai-meesum-kashmiri.html
-# raw_sha256: d5703f1c74ea0b8c9f6aa43601f9621e2c858929ba342cced08596dde73d0df6
 ---
 
 Fatima Khamosh Hai Meesum Kashmiri.

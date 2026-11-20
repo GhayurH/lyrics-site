@@ -118,13 +118,6 @@ romanLyrics: 'Zainab-e-Hazeen Nay Man
   Kehnay lagi bhai kay seenay pay woh ser rakh kar
 
   Dil dooba hai yeh sun kar, Khawaharaan Khuda(swt) Hafiz!'
-# source_id: nohayonline:6de1b7e0c5ed1608f29b
-# source_url: https://www.nohayonline.com/details_content.php?id=161
-# raw_sha256: 8492387c5bb5d9e2e4b1e4b55b696ced9a331303b0514e2b34498174c7b45df6
-# source_id: ziyaraat:c72c80727d9c78f1f53e
-# source_url: https://www.ziyaraat.net/api/noha/838
-# raw_sha256: 437f21d3b11381272cd3c184cbc2ba79d07052bf50b48916933a76b03c6f3dc1
-# added_stanza_source: roman:kalam-nohayonline-6de1b7e0c5ed1608f29b
 ---
 
 زینبِؑ حزین من خواہَراں خدا حافظ

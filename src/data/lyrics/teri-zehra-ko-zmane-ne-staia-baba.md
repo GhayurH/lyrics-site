@@ -41,9 +41,6 @@ romanLyrics: |-
   Pocho baba haq Zahra ko diya na kis ne
   Uthaya kis ne
   Shair or Shabbir ko chadar may chupaya baba
-# source_id: ziyaraat:bb1a155a4397b8beeba8
-# source_url: https://www.ziyaraat.net/api/noha/2143
-# raw_sha256: c8f42c58b265504b1cfa792794fcf81dcd482bd98956ccc7abbdb520106052f5
 ---
 
 تیری زہراؑ کو زمانے نے ستایا بابا

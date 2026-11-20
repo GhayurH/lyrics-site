@@ -8,9 +8,6 @@ poet: "Surani"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c1347fc9db8c0693cefd
-# source_url: https://tajpoints.com/2025/02/to-kia-karogay-shahid-baltistani.html
-# raw_sha256: f2f474f7b96f599f48f7eca684c2828729a1f560228a6578dad586111974d837
 ---
 
 To Kia Karogay Shahid Baltistani.

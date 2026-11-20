@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:25c46f8ebb844e47032b
-# source_url: https://tajpoints.com/2021/08/bachaya-hussain-ne-bilawal-ali-hussaini.html
-# raw_sha256: 9ba52193c5b76c301300748780701b971d0560616ba09f340683eea4e80e15f5
 ---
 
 1

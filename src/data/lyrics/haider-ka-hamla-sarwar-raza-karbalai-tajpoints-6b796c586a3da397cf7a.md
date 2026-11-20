@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6b796c586a3da397cf7a
-# source_url: https://tajpoints.com/2023/02/haider-ka-hamla-sarwar-raza-karbalai.html
-# raw_sha256: 7316c0ce0109f1842df14a3277dc59ab1a81d15300cd7fce142fd51fef7975bd
 ---
 
 1

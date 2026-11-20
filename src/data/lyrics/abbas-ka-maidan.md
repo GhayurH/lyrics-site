@@ -52,9 +52,6 @@ romanLyrics: |-
   Alfaaz mein hota kabhi nohe ka asar na
   Shabbir se pucho kabhi Zainab se khabar lo
   Abbas ka maidaaṅ mein...
-# source_id: nohayonline:6f7a4484a9b46a4c9427
-# source_url: https://www.nohayonline.com/details_content.php?id=2981
-# raw_sha256: eba31974e3e205c7803f287ccd417becdf53662f466e7e08a4c19d8a1d9b7e28
 ---
 
 ۱

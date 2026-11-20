@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c16b8eb6909eae5f39b1
-# source_url: https://tajpoints.com/2025/03/ali-bohat-roye-hasnain-abbas-lyrics-urdu.html
-# raw_sha256: aa91303ff6688e8bf5415090f750d67849ff7534f2eb9b7f6be9b23d38f78a19
 ---
 
 Laga Ke Seene Se Dukhtar Ali Bohat Roye.

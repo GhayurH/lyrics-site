@@ -36,9 +36,6 @@ romanLyrics: |-
   5) Hovay mojza pak shabab honda, qainath wich pak quran wangoo
   Oda jigar namaz jaya hoya, oda kad hovay azan wangoo
   Oda toar day baray ai khaliq, mendi bhain day naal sila kar
-# source_id: ziyaraat:0f5001071d2316add896
-# source_url: https://www.ziyaraat.net/api/noha/455
-# raw_sha256: a3dd78ad97564d7cb6a9df3ec9977d65697de4d29ec0751768d942422d551dd4
 ---
 
 خالق اپنے پیغمبر دا اِک وار ظہور ولاکر میکوں اکبر پتر عطا کر

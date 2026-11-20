@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3c67135c1d80e63f0f9e
-# source_url: https://tajpoints.com/2023/02/bichre-yaqoob-ko-yousuf-se-milane-wale.html
-# raw_sha256: d54f7f0fbcaf0a7fc0cce37246bf31c60c674433d39bd281b59718d05041e411
 ---
 
 1

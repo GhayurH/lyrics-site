@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:9b021b7acafaa0bcbd80
-# source_url: https://www.ziyaraat.net/api/noha/1275
-# raw_sha256: 5c53095b41670cc88aab2a87d59dccc08db81745994a81a2c7279d8072ba9c71
 ---
 
 ہک سال دے بعد تیڈا چہلم میں ویر مناون آئی آں تیکوں پرچاون آئی آں

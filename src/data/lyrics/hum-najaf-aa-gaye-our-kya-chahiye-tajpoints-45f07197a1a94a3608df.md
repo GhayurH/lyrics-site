@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:45f07197a1a94a3608df
-# source_url: https://tajpoints.com/2022/02/hum-najaf-aa-gaye-our-kya-chahiye.html
-# raw_sha256: 276f4b0347a2ee58f43473644a1f34bc490d063e4d7c25c126363df575a1fa30
 ---
 
 Hum Najaf Aa Gaye Our Kya Chahiye.

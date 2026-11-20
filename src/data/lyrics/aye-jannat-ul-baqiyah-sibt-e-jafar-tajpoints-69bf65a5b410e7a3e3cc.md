@@ -7,12 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b9d6b23c0d673738ed9a
-# source_url: https://tajpoints.com/2023/04/ay-jannat-ul-baqi-joan-rizvi-lyrics-in.html
-# raw_sha256: 81589c24e6317b3594c39ab9884eca7130137d3aeb3ef2bbd23e167eb174e566
-# source_id: tajpoints:69bf65a5b410e7a3e3cc
-# source_url: https://tajpoints.com/2023/04/aye-jannat-ul-baqiyah-sibt-e-jafar.html
-# raw_sha256: 3a69212f34fcf9d607200a991ebaa0f362fe103c9e3996c9c15d451cb05c679e
 ---
 
 Aye Jannat Ul Baqiyah Sibt e Jafar

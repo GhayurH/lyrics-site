@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3942f340049defb90f79
-# source_url: https://tajpoints.com/2022/08/sajjad-ne-ek-pal-ali-raza-karbalai.html
-# raw_sha256: f127251bbd85faf21325a640d4661b1e117b94e6056673cd461a0a473a1fd247
 ---
 
 1

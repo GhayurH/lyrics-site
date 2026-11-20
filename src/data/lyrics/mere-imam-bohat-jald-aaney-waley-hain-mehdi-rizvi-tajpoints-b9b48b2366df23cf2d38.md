@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b9b48b2366df23cf2d38
-# source_url: https://tajpoints.com/2025/08/mere-imam-bohat-jald-aaney.html
-# raw_sha256: d1df22518bcc228204b1d5b9b40d4a20ce6ec8a6e05dda0bf66febc7967fd760
 ---
 
 Mere Imam Bohat Jald Aaney Waley Hain Mehdi Rizvi.

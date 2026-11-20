@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1ef63b7c0855a07c2028
-# source_url: https://tajpoints.com/2017/02/baghdad-shehar-mein-bara-zulm-howa-hai.html
-# raw_sha256: e5569cf9f36fd0dc826bceb2e9783605040958b8f6bc6f9b86316dc1ec6ee9c6
 ---
 
 1

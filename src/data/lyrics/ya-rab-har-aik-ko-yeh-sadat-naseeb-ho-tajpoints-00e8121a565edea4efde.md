@@ -8,9 +8,6 @@ poet: "Mehshar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:00e8121a565edea4efde
-# source_url: https://tajpoints.com/2018/11/ya-rab-har-aik-ko-yeh-sadat-naseeb-ho.html
-# raw_sha256: 57b8427359a0d9d6c7a90ad864727166786e8cd5d3e071a583c87a3e9dd4e6cf
 ---
 
 Ya Rab Har Aik Ko Yeh Sadat Naseeb Ho.

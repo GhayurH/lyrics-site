@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1fb79475faf362b261b9
-# source_url: https://www.nohawriteups.org/karte-thay-sarwar-buka/
-# original_html: snapshots/nohawriteups/original_html/1fb79475faf362b261b9.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1fb79475faf362b261b9.json
-# api_content_sha256: 50c591e0b7094919581126973373cabd1a0ca33aafb39decbdf2b8db666ab75f
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Karte thay sarwar buka haye kamar jhuk gayi

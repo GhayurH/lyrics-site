@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:5f6156bdbec14f0581c8
-# source_url: https://www.nohawriteups.org/be-badan-sir-ro-rahay-hain-joan-rizvi-nohay-2020/
-# original_html: snapshots/nohawriteups/original_html/5f6156bdbec14f0581c8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/5f6156bdbec14f0581c8.json
-# api_content_sha256: 686099b6ee482a8306d818d7fcd6ba0d745d0f5fe84ef9246e266f7bd08dac3b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Bebadan sar roo rahe hein be rida sar dekh kar

@@ -9,9 +9,6 @@ poet: "Rehan Azmi"
 tags: []
 aliases: []
 published: true
-# source_id: ziyaraat:a19aa35d83dcf10bdf95
-# source_url: https://www.ziyaraat.net/api/noha/2891
-# raw_sha256: ab4bce36516eb7491966075f0968a88e890c82ded090dd825e21cdc81a27f6d2
 romanLyrics: |-
   Aakhri salaam
   Meri Sakina is tarha na rona
@@ -62,12 +59,6 @@ romanLyrics: |-
   Hai saara ilaqa Bibi ka
   Chaahe Shaam ka wo zindaaṅ howe
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-# source_id: nohayonline:1afe0a30c76d97af2af5
-# source_url: https://www.nohayonline.com/details_content.php?id=1742
-# raw_sha256: 2a03c05f381c311952ef50aa7a29844fb1fca224b8a6fff54b38ef9678af0c4d
-# source_id: ziyaraat:101ef6ee6a7ca6ed5734
-# source_url: https://www.ziyaraat.net/api/noha/356
-# raw_sha256: 2889375b8972328403f4fdcca3ae89429986d68aa6bc9b85f08a5d9ee6f3f1e9
 ---
 
 آخری سلام

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:51d9b2a9a56785a44a34
-# source_url: https://tajpoints.com/2020/02/fatima-fatima-lyrics-in-urdu-and-roman.html
-# raw_sha256: 542bb05dcf72635331b392a5744aa48e3d9f1bcd0bee5481da5c7e240cb6cac0
 ---
 
 1

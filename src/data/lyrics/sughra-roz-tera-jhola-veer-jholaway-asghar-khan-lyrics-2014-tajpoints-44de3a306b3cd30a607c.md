@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:44de3a306b3cd30a607c
-# source_url: https://tajpoints.com/2023/05/sughra-roz-tera-jhola-veer-jholaway.html
-# raw_sha256: 26fac3df20f6caa7baccf34c23f50f3da06cf4dfc11387e5d9bd7d68345f097e
 ---
 
 1

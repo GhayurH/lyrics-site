@@ -59,10 +59,6 @@ romanLyrics: |-
   11
   Sabz gumbad se Takallum ye sada aati hai
   Qabr-e-Zehra pe koi saaya banao logoṅ
-# source_id: nohayonline:c6375bd3b2b8252452e1
-# source_url: https://www.nohayonline.com/details_content.php?id=128
-# raw_sha256: 068c36e7f70a0501ff4dedd073323c9818c7b3871cce27018bf4c51f44774cca
-# corroborating_source: https://tajpoints.com/2017/11/aao-taboot-muhammad-ka-uthao-logo.html
 ---
 
 زہرا کا ہے بابا حسنین کا نانا

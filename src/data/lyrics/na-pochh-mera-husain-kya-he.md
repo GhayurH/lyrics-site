@@ -7,13 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:64a1888e6b2fdf6fa0df
-# source_url: https://www.ziyaraat.net/api/noha/30
-# raw_sha256: b6e7bb6f8aa2ca20308c5192e42627ca7dc5abfbc56ed26c04d89a764f0d64c3
-# source_id: ziyaraat:7ba6264985859e8c49a7
-# source_url: https://www.ziyaraat.net/api/noha/1967
-# raw_sha256: 51b93ea12f1aaa6799ce932318ee83ab19ec595f76bf7eb3e113d560c0a513b2
-# added_stanza_source: roman:kalam-ziyaraat-7ba6264985859e8c49a7
 ---
 
 Na Pooch Mera Hussain Kya Hai?

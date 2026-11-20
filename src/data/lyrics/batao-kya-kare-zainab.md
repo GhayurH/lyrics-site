@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:1b163775da87ecaa627d
-# source_url: https://www.ziyaraat.net/api/noha/2231
-# raw_sha256: 27b497838636fb46f51005aa461eab253c6a345d2705def0432c69c327982e88
 ---
 
 بتاؤ کیا کرے زینبؑ

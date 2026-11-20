@@ -82,9 +82,6 @@ romanLyrics: |-
   De rahe hai ro ke ye sada
   Haye hum yatim hogaye
   Ya ali ye kya...
-# source_id: nohayonline:23df852a6b0e8eb65a30
-# source_url: https://www.nohayonline.com/details_content.php?id=3383
-# raw_sha256: 85bc839c20d620e0aacc38e8d6f8311d5a2f58c799f1440aa1e713ce6fcb2234
 ---
 
 ۱

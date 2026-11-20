@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Aur gunje ga abhi arz o samaaṅ meiṅ Mohsin
   Maatam-e-Ibn-e-Ali Ali meiṅ hai asar Zainab ka
-# source_id: nohayonline:59235fb5d3431ca6c8ef
-# source_url: https://www.nohayonline.com/details_content.php?id=1892
-# raw_sha256: 865b6b78412bf7dcd95972fb4b16fe8092bccc5608f652c04f775eb4ae92ee70
 ---
 بے ردا شام کی گلیوں سے گزر زینب کا
 پھر سے عابد پہ ہے تحریر سفر زینب کا

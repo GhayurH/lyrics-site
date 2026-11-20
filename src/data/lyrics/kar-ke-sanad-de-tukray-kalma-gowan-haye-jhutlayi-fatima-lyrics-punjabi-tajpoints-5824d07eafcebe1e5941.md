@@ -8,9 +8,6 @@ poet: "Tosif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5824d07eafcebe1e5941
-# source_url: https://tajpoints.com/2019/02/kar-ke-sanad-de-tukray-kalma-gowan-haye.html
-# raw_sha256: bf3b745253eb27ad086e65f9eaff36eb878aac73b69500a7e3bb758fdc97c1f6
 ---
 
 1

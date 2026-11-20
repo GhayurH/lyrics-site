@@ -51,9 +51,6 @@ romanLyrics: |-
   Majlis-e-Shah meiṅ qayaamat ka bapa hai maatam
   Un pe taa hashr rahe Shaah ke altaaf o karam
   Dil se deti hai duaaeṅ ye tumhaari maadar
-# source_id: nohayonline:324d00e6b491bcff9de5
-# source_url: https://www.nohayonline.com/details_content.php?id=2471
-# raw_sha256: 58354ed77ae718dd0a82b9732aa45edc66079ebe02f8acd64ee55f8c4997407f
 ---
 
 ہاے اکبر ہاے اکبر ہاے اکبر ہاے اکبر

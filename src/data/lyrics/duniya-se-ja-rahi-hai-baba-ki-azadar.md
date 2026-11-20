@@ -8,9 +8,6 @@ reciter: "Not Available"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:007a507bde76cf53c709
-# source_url: https://www.ziyaraat.net/api/noha/2149
-# raw_sha256: 14973c947f99e97a4ad8cd475b57312c52af85eb369079a89275dcdb83bddbbc
 ---
 
 Duniya se jaa rahi hai Baba ki Azadar

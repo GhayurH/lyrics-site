@@ -8,9 +8,6 @@ reciter: "Mewa Khan Kalidi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:effc6b0aef0e671e2306
-# source_url: https://www.ziyaraat.net/api/noha/1641
-# raw_sha256: 017996ce122cc17fb98f6440d00875dc49b425a2f4e98e24ffbf904d8d8ae170
 ---
 
 1

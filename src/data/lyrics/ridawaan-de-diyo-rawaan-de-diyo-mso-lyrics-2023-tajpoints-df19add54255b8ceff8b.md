@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:df19add54255b8ceff8b
-# source_url: https://tajpoints.com/2023/05/ridawaan-de-diyo-rawaan-de-diyo-mso.html
-# raw_sha256: a5add8df7a6da7e94cc2417e3a411f9a2da4dbe6dc7f63a226ec9c2c1fa98c85
 ---
 
 1

@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Zikr chhirta hai jab bhi Khurasaan ka yaad aati hai Mashhad ki jab woh fiza
   Kehta hai dam ba dam qalb-e-Majid Raza ya Imam-e-Raza ya Imam-e-Raza
-# source_id: tajpoints:fc99c21e035a5bc26449
-# source_url: https://tajpoints.com/2017/12/ya-imam-e-raza-ya-imam-e-raza.html
-# raw_sha256: 74949b80245d9b4eca0ab05e78b0ea6204ae7699f0a9300c22c55bad9c15a92b
 ---
 
 یا امامِ رضا یا امامِ رضا

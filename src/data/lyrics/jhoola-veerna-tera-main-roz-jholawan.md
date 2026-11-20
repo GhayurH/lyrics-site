@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a763f2702f8f22a51ca8
-# source_url: https://tajpoints.com/2023/05/jhoola-veerna-tera-main-roz-jholawan.html
-# raw_sha256: daacd4ee584fe66e6d3f95d00116a06b884f220dc02730aed2ee0668735ca494
-# source_title_original: Jhoola Veerna Tera Main Roz Jholawan Asghar Khan 2013
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Jhoola Veerna Tera Main Roz Jholawan

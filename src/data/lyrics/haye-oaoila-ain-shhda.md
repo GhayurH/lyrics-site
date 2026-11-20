@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:9944eddfcd1820d654ca
-# source_url: https://www.ziyaraat.net/api/noha/405
-# raw_sha256: 1ab3e0dc5d281f604682e6bfb2cb2a4d1da9b69931bef63f71adaf8f8b4c7a4a
 ---
 
 Haey wawaila, ayna shuhada

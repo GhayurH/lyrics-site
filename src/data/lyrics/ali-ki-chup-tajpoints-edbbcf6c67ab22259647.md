@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:edbbcf6c67ab22259647
-# source_url: https://tajpoints.com/2022/12/ali-ki-chup-lyrics-in-urdu-and-roman.html
-# raw_sha256: d9acaaaf65944947b258ddfca932d935081b42372595ce0d5721cd58c41e506c
 ---
 
 Ali Ke Sath Hoi Hai Jafa Ali Chup Hain.

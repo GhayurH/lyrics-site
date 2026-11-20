@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:26f3982faae71467a3f8
-# source_url: https://www.nohawriteups.org/maiku-zeen-to-ummat-laha-choray/
-# original_html: snapshots/nohawriteups/original_html/26f3982faae71467a3f8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/26f3982faae71467a3f8.json
-# api_content_sha256: 0ac298adfedeeece72450db923b1601b6f3e671dde752e80bd61994e23e0349c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Maiku Zeen To Ummat Laha Choray Teeran Ton Kon Lahaway Main Zeen Zameen De Adh Vich Haan

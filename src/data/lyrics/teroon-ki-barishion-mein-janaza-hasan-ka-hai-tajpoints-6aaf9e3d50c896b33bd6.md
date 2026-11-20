@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6aaf9e3d50c896b33bd6
-# source_url: https://tajpoints.com/2017/02/teroon-ki-barishioon-mein-janaza.html
-# raw_sha256: 111c39152d15ef1f8ff8616c130dfbd3f93f72191a264d15f7cd86aef170156a
 ---
 
 1

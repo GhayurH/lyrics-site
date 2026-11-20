@@ -8,10 +8,6 @@ reciter: "Katri Bawa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# alternate_reading: "Sarmaya veer Hassan da Zahra dai dil da chain ae"
-# source_id: ziyaraat:5845e0b51e087fa5e6e5
-# source_url: https://www.ziyaraat.net/api/noha/2178
-# raw_sha256: dce5b3107278daec4095a159baf84f957333aceb0f8bb61ff1d13a814e4d5123
 ---
 
 Na de Farwa tu sadawan Qasim nai auna

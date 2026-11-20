@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:fa698cd009dbb6b0126e
-# source_url: https://www.ziyaraat.net/api/noha/2310
-# raw_sha256: d77b4861d572b81eb3f5a2230ac5f616779b7ceb298d8678d14511bc72c4bf1b
 ---
 
 شاہ کہتے تھے جومہلت دے زمانہ زینبؑ

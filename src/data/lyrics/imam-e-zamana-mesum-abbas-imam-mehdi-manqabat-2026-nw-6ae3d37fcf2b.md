@@ -9,15 +9,6 @@ reciter: "Mesum Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6ae3d37fcf2b28d92904
-# source_url: https://www.nohawriteups.org/imam-e-zamana-mesum-abbas-imam-mehdi-manqabat-2026/
-# original_html: snapshots/nohawriteups/original_html/6ae3d37fcf2b28d92904.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6ae3d37fcf2b28d92904.json
-# api_content_sha256: e5b898998ea22128e5af8bbfc6fe0565ca1fbc1421d40c8a7f6110fce6ba6a4f
-# editorial_note: Two matching sources manually reconciled. Removed NohaWriteups artist/video credits from lyrics, retained their attribution as metadata and formatted ten two-line stanzas using TajPoints wording. Roman transliteration remains unpublished pending review.
-# source_id: tajpoints:97c8208a27bdcf47fdbf
-# source_url: https://tajpoints.com/2026/02/imam-e-zamana-mesum-abbas-lyrics-urdu.html
-# raw_sha256: c2585cd2ba4a7b9d3d88a2d6bbc235293fbe80aac6939f5f7ddcb08a7ea395f8
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:63fa3c14e204d1606a23
-# source_url: https://tajpoints.com/2022/08/tedi-masooma-mir-hasan-mir-lyrics-in.html
-# raw_sha256: 1d044ee0dd2c49d33f0de21f36682f1fefc361cd377d333c0ad6b190a780e3ac
 ---
 
 Tedi Masooma Mir Hasan Mir.

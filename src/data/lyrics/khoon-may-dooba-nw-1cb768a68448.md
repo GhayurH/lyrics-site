@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1cb768a684484a6cd821
-# source_url: https://www.nohawriteups.org/khoon-may-dooba/
-# original_html: snapshots/nohawriteups/original_html/1cb768a684484a6cd821.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1cb768a684484a6cd821.json
-# api_content_sha256: ee9794c2599a13f8793457fb656cbdbc880d38d9521da42d95678a8edce54405
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 kya qayamat lab-e-alqama hai

@@ -54,9 +54,6 @@ romanLyrics: |-
   Jab ali shanawar ye zikre gham sunata hai
   Zakira ka ye noha har maa ko rulaata hai
   Gham ye kitna gehra tha raaj dulara tha
-# source_id: nohayonline:7a8d50024fb86176227b
-# source_url: https://www.nohayonline.com/details_content.php?id=777
-# raw_sha256: 15c581ee7c86398f85d8884250fc9f7e1a52b49a526ccd0c0b7c17ce78566272
 ---
 
 جیون کا اثاثہ تھا پیری کا سہارا تھا

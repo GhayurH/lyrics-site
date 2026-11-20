@@ -8,9 +8,6 @@ poet: "Bilawal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dad424b96eff0cf0ee34
-# source_url: https://tajpoints.com/2022/08/sar-e-karbala-hai-lahu-ki-gawahi-zakir.html
-# raw_sha256: 06fba5a0c8993f5b82b4b8bf3f85af47d2532126fb05fe0b7ef66ea5b0d9d461
 ---
 
 1

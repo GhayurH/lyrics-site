@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e050d4566ef16bbcc370
-# source_url: https://tajpoints.com/2024/01/sana-e-fatima-zehra-mir-hasan-mir.html
-# raw_sha256: d684d7d9d66f53fb96ddc223df731657d77e7e5ac2b815d3b07f6e9d9e7c9d1a
 ---
 
 1

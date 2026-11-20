@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3aef1fe4c880c2ab6936
-# source_url: https://tajpoints.com/2017/02/ghazias-uth-wekh-ke-teriyaan-behna-ujar.html
-# raw_sha256: 02da5f2539e9054561253fb31a908486a0f544563ec458be6d611e63417c0a5a
 ---
 
 1

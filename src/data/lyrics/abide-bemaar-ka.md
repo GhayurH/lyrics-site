@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Ab dua ye hai Shajiha ki Imam-e-Asr se
   Silsila jaari rahe afkaar ke izhaar ka
-# source_id: nohayonline:b6928817608f9def5066
-# source_url: https://www.nohayonline.com/details_content.php?id=1417
-# raw_sha256: f01b91bdac5015da0113cc41548c4337159b3a7d96b0ca31de19064e75681849
 ---
 مومنوں یہ ہے جنازہ عابدِ بیمار کا
 جو کبھی بھولا نہ منظر شام کے بازار کا

@@ -64,9 +64,6 @@ romanLyrics: |-
   Parh ke Irfan bhi nauha rone laga
   Rone waaloṅ ko deṅ gi dua daadi jaaṅ
   Baaba jaaṅ baaba jaaṅ
-# source_id: nohayonline:f0bd695aa32a14a318e3
-# source_url: https://www.nohayonline.com/details_content.php?id=910
-# raw_sha256: add27070b1d76919c4a61881d89debbc545f07cece5c05acd8e5347952f357ff
 ---
 ظلم جب بھی تھا اب بھی ہے مجھ پر یہاں
 بابا جاں بابا جاں

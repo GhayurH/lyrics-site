@@ -8,9 +8,6 @@ poet: "Shabbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7052c5bb6da883fb6f18
-# source_url: https://tajpoints.com/2023/12/zahra-ka-janaza-hai-dafnane-ali-aaye.html
-# raw_sha256: 578d7f72fef080988be525a76f48e30682211dab442fb385190b352abad9d45a
 ---
 
 1

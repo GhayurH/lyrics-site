@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2c2432ad372392c6169c
-# source_url: https://www.nohawriteups.org/mera-abbas-abhi/
-# original_html: snapshots/nohawriteups/original_html/2c2432ad372392c6169c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2c2432ad372392c6169c.json
-# api_content_sha256: ed3d7f67430d977e265a725d58a5dd06d66c9c92f61ded7d4ad3c5ed3c0e3f0d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 kaun cheenega mere sar se rida mera abbas abhi zinda hai

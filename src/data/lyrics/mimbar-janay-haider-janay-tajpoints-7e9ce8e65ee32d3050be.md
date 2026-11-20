@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7e9ce8e65ee32d3050be
-# source_url: https://tajpoints.com/2020/12/mimbar-janay-haider-janay-lyrics-in.html
-# raw_sha256: 190f99147aa4b884d068fad54e3a42a888502f36e10d45415774cfd301b9c7ed
 ---
 
 1

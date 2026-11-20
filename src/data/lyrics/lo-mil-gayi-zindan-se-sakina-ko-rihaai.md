@@ -71,12 +71,6 @@ romanLyrics: 'Inna Lillah e Wa Inna Elahi Ra’ji’oon
   Jin haathun may kheli the wo masoom c bachi
 
   Un haathun nay turbat bhi Sakina ki bnai'
-# source_id: nohayonline:f2367e1e5b9dffea5513
-# source_url: https://www.nohayonline.com/details_content.php?id=245
-# raw_sha256: d7bf8ddef5305e74d0a06b780be28993e5c294913b771d423d45c08269d1977e
-# source_id: ziyaraat:04c72748cef0632e3476
-# source_url: https://www.ziyaraat.net/api/noha/1991
-# raw_sha256: ecbb5e65d114eccd7030293513ef6e36a6bd75525472ed5a02d0e6d43e3b27c7
 ---
 
 انّا للّٰہ و انّا الہيہ راجعون

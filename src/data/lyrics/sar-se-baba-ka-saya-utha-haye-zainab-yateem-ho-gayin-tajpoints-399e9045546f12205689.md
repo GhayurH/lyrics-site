@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:399e9045546f12205689
-# source_url: https://tajpoints.com/2019/05/sar-se-baba-ka-saya-utha-haye-zainab.html
-# raw_sha256: 5641d0a070ed2fecc1c25aac999fd86800636d9ecf6ec8b3770ef99f1ca0d882
 ---
 
 Sar Se Baba Ka Saya Utha Haye Zainab Yateem Ho Gayin.

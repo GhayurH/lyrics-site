@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:07f909699dd61413886a
-# source_url: https://tajpoints.com/2020/03/woh-bas-ali-hai-lyrics-in-urdu-and.html
-# raw_sha256: 71dfd3c28b152811292fe52fc7369308edc1f0cd31a04cff29e431ed3eb1d6f3
 ---
 
 Ya Ali Jhukti Hai Jab Teri Yeh Pur Noor Jabeen.

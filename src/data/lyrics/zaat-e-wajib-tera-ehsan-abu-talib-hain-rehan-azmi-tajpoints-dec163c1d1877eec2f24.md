@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dec163c1d1877eec2f24
-# source_url: https://tajpoints.com/2023/05/zaat-e-wajib-tera-ehsan-abu-talib-hain.html
-# raw_sha256: 66eaee1bb21d7688c363eefbeacf12f7293e3bfa8119803f515272ad064b9960
 ---
 
 1

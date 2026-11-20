@@ -130,12 +130,6 @@ romanLyrics: 'Yabna jafar abur raza
   Nauha goyi karun qayamat tak
 
   Aur ghulami karun dar e shaah par'
-# source_id: nohayonline:44e4813abe0d141f5410
-# source_url: https://www.nohayonline.com/details_content.php?id=2405
-# raw_sha256: 2412b3c674f6eaadf3bff6d13b1fa2ac79d1fdf8e0f0c3e8f16bffc1dd9605e2
-# source_id: ziyaraat:8b4b77891d409a2da1c0
-# source_url: https://www.ziyaraat.net/api/noha/128
-# raw_sha256: feaf552fbedc53edd5b55e508cb2f978e8357879009ad763c76f6f9fb936cd9e
 ---
 
 یا ابن جعفر ابوالرضا یا موسی کاظمؑ

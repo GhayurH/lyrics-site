@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a8550d8be0b9532a10dc
-# source_url: https://tajpoints.com/2017/02/hum-se-badal-gaya-woh-nigahein-tu-kya.html
-# raw_sha256: 78d379879ce6e95b46133bc267434ff6fc1851d31cb0369774bade701c05e661
 ---
 
 Hum Se BadaL Gaya Woh Nigahein Tu Kya Howa.

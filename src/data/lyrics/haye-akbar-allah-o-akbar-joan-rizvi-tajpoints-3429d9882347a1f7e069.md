@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3429d9882347a1f7e069
-# source_url: https://tajpoints.com/2022/08/haye-akbar-allah-o-akbar-joan-rizvi.html
-# raw_sha256: 04398d0208bbc6d92f1fc72e52a8a935c2a7bc76f51ef3f33be1d4ea1713aee8
 ---
 
 1

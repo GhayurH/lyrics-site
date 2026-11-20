@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:5180d28061b5917f5e62
-# source_url: https://www.nohawriteups.org/uth-laal-ali-akbar-khat-sughra-ka-aya-hai/
-# original_html: snapshots/nohawriteups/original_html/5180d28061b5917f5e62.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/5180d28061b5917f5e62.json
-# api_content_sha256: 241a85ec5189fc13feb95d1f14af35612ed68c056ab3b05c46ba689d4353e545
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Uth Laal Ali Akbar Khat Sughra Ka Aya Hai

@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:59deff3ebce24c94d0a8
-# source_url: https://tajpoints.com/2017/02/mashiyat-e-elahi-lay-gayi-sajjadas-ko.html
-# raw_sha256: 70da3d16f4b64245aa5e66cbc14b96ad0c725a405afeeed749225e1864ce94fb
 ---
 
 1

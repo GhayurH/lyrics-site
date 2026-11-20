@@ -8,9 +8,6 @@ poet: "Sardar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:08a9bc1bc5f1e1ec1516
-# source_url: https://tajpoints.com/2023/06/kis-ne-zehar-imam-raza-ko-pila-diya.html
-# raw_sha256: b1b7d2af096a0b3c160a785735a3343a5882e950a34978e9d81dd5b0a02a9910
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1130e96307814b3286fe
-# source_url: https://tajpoints.com/2017/02/khowabaan-ch-veer-nu-nanasaww-jadon.html
-# raw_sha256: 483546108fabcaa16cad9767ab3d38988962e839c85f46da1fe70218b85cdc2f
 ---
 
 Khowabaan Ch Veer Nu Nana Asghar Khan

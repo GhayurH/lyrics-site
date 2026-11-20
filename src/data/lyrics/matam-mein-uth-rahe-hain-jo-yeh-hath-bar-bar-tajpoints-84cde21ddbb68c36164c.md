@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84cde21ddbb68c36164c
-# source_url: https://tajpoints.com/2020/04/matam-mein-uth-rahe-hain-jo-yeh-hath.html
-# raw_sha256: 6228fc802e53be66af3c859f1b63e5e52437a2aa73da85ba2b464eeb3e9970f6
 ---
 
 Matam Mein Uth Rahe Hain Jo Yeh Hath Bar Bar.

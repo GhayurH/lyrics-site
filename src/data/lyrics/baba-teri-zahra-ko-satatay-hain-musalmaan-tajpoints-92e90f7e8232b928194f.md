@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:92e90f7e8232b928194f
-# source_url: https://tajpoints.com/2020/02/baba-teri-zahra-ko-satatay-hain.html
-# raw_sha256: b48d4cc6c4bde7ff46172e8b1d093b10345fc8a2ce4747cc3a0d498ae43c2c09
 ---
 
 Baba Teri Zahra Ko Satatay Hain Musalmaan.

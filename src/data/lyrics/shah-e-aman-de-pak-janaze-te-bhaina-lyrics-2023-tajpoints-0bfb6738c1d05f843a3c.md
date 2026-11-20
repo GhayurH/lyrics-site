@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0bfb6738c1d05f843a3c
-# source_url: https://tajpoints.com/2023/09/shah-e-aman-de-pak-janaze-te-bhaina.html
-# raw_sha256: d41c9ebc44e35fc68e905af2fe9343a31a4f3d10b71d48d4ee6cacacc55e632a
 ---
 
 1

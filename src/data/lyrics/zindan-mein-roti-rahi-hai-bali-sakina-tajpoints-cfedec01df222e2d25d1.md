@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cfedec01df222e2d25d1
-# source_url: https://tajpoints.com/2019/10/zindan-mein-roti-rahi-hai-bali-sakina.html
-# raw_sha256: 4af9103cee72dc4fed7cee6a3878d908d3cbf0cb4064497201875a47307ee5b1
 ---
 
 Zindan Mein Roti Rahi Hai Bali Sakina.

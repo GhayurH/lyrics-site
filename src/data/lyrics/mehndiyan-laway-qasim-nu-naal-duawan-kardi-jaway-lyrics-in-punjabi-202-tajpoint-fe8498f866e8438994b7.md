@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:fe8498f866e8438994b7
-# source_url: https://tajpoint.com/mehndiyan-laway-qasim-nu-naal-duawan-kardi-jaway/
-# raw_sha256: bb93b72c230abac05a11820ee947408102bd8315b41645c7213b811316f5ebf6
 ---
 
 Mehndiyan Laway Qasim Nu Naal Duawan Kardi Jaway.

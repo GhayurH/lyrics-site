@@ -26,9 +26,6 @@ romanLyrics: |-
   4
   Agar cheh hajj bhi kare aur namaz o roza bhi
   Adoe aal-e-nabi beshumar rehta hai
-# source_id: ziyaraat:4857d03006ef990dff87
-# source_url: https://www.ziyaraat.net/api/noha/2285
-# raw_sha256: 73df9c89e97187bc95d42c545e2da153e9bbb0f3e296390128b33ce15b6aad35
 ---
 
 جو خار گل کے یمین و یسار رہتا ہے

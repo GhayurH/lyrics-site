@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7c0d13190f04d2d1583c
-# source_url: https://tajpoints.com/2023/09/uth-maa-tainu-main-qaidaan-walay-sarey.html
-# raw_sha256: 61915c8430021f6db4bd5d693648a3cb29325a9f53a81759f1ee4f0f268683e3
 ---
 
 Uth Maa Tainu Main Qaidaan Walay Sarey Haal Sunawaan.

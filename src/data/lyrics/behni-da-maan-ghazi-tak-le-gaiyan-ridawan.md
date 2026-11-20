@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:05273d267ec0398b0940
-# source_url: https://www.ziyaraat.net/api/noha/245
-# raw_sha256: b3bfb7c66a91fc695924226e2d8558598f0c268e7d0f19177215b4db805b9ec3
 ---
 
 Bheni da maan Ghazi tak leh gaiyan ridawan

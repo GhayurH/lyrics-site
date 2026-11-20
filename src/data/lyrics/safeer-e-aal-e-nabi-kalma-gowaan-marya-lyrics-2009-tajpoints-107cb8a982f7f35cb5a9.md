@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:107cb8a982f7f35cb5a9
-# source_url: https://tajpoints.com/2023/06/safeer-e-aal-e-nabi-kalma-gowaan-marya.html
-# raw_sha256: 666db513b4190e8c170e34aaaa5ef688410acb3146ddc2d6f44173e9fc6918bd
 ---
 
 1

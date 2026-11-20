@@ -8,9 +8,6 @@ poet: "Shehwaar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c16849811df4c5b66de2
-# source_url: https://tajpoints.com/2026/09/hasan-askari-ka-zikar-lyrics-in-urdu.html
-# raw_sha256: 46facd12c16dab2980e25f5952434a9e01874e0ee0c671afcf895f7cdf803732
 ---
 
 1

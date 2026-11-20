@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:23949e39d2ecd4127866
-# source_url: https://tajpoints.com/2021/10/qatal-e-hasan-pe-gham-howa-taza-rasool.html
-# raw_sha256: 4ec96622d6a2b673af5af9206274fa1555ce1615ce2b94394caa59a8755f53e9
 ---
 
 1

@@ -49,9 +49,6 @@ romanLyrics: |-
   Us tarha soi Takallum wo yatima Bibi
   Maaṅ uthaati rahi uthi na Sakina Bibi
   Phir na Bano ne kaha meri Sakina so ja
-# source_id: nohayonline:2190057ba9e75ec9bf04
-# source_url: https://www.nohayonline.com/details_content.php?id=842
-# raw_sha256: 7966b04a924bea1a24e9868a70fe4d4834f6790ad8c53bcdbe3d4781eab0a5da
 ---
 میری سکینہ سوجا
 آجا اصغر کی جگہ میری سکینہ سوجا

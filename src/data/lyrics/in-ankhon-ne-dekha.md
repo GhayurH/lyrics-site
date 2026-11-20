@@ -69,9 +69,6 @@ romanLyrics: |-
   Zainab ka tha nauha
   Amma ye kaho aur sunaauṅ tumheṅ kya kya
   In aaṅkhoṅ ne dekha
-# source_id: nohayonline:170d3c4689466407a6c1
-# source_url: https://www.nohayonline.com/details_content.php?id=3335
-# raw_sha256: 47f9ac5c341a4de6f378435bcb5793668dfe9b85acd2151166c1a26c2bb6599f
 ---
 مرقد پہ بیاں کرتی تھی یہ زینب دکھیا
 ان آنکھوں نے دیکھا

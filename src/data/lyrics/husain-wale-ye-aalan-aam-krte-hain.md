@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:4a205e936afbe9fe0237
-# source_url: https://www.ziyaraat.net/api/noha/2633
-# raw_sha256: d6a47cc475919e58f9938f9e3b39a995ccb4bca762454206046011bbc61b9c07
 ---
 
 Hussain walay ye ailan e aam kartay hain

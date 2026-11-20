@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:9a07b196be96ecbd4352
-# source_url: https://www.ziyaraat.net/api/noha/623
-# raw_sha256: 52b67e7bb45bdc95d2fd6ee2c5795b340240b6c3919d09f3dd93203baa729df4
 ---
 
 Woh Zehra baap say milnay chali hay

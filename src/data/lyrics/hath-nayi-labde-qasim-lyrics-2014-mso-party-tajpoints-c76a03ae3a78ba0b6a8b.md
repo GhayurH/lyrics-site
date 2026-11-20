@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c76a03ae3a78ba0b6a8b
-# source_url: https://tajpoints.com/2024/06/hath-nayi-labde-qasim-lyrics-2014-mso.html
-# raw_sha256: b21b8c5d5d2eb0d4999a9b3bc8f3f85fc9c1fc24e0163768265289caa1d4cbb8
 ---
 
 1

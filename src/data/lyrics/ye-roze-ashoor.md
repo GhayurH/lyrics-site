@@ -58,9 +58,6 @@ romanLyrics: |-
   Aa gaye kaghaz pe jaise dasht ke manzar tamaam
   Lafz hai ya jalte qaime har satar ashur hai
   Ye roze ashur hai...
-# source_id: nohayonline:c2be81cd3f8a229f8057
-# source_url: https://www.nohayonline.com/details_content.php?id=951
-# raw_sha256: 7520c8df07d3102d01ca1518a583031d53cdb2b11cf781cb022dcf98408eb279
 ---
 
 ۱

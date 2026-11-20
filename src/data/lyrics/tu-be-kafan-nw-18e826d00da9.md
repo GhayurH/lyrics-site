@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:18e826d00da936b9a2d4
-# source_url: https://www.nohawriteups.org/tu-be-kafan/
-# original_html: snapshots/nohawriteups/original_html/18e826d00da936b9a2d4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/18e826d00da936b9a2d4.json
-# api_content_sha256: 40dd77680da1bfac059ec12410877ea62590a44b8901051ee696646375c692ce
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Rehgayi dasht may tanha to watan yaad aaya

@@ -8,9 +8,6 @@ poet: "Nabeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4e2528a6fd48b2596cff
-# source_url: https://tajpoints.com/2026/06/alam-ka-saya-hai-nabeel-rizvi-lyrics.html
-# raw_sha256: 620699b5e8ef2d00220a94cd814ad26d70d367ef91cb904a3aabc56c8a3464e4
 ---
 
 1

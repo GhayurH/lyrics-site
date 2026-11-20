@@ -46,9 +46,6 @@ romanLyrics: |-
   9
   Ta Qayamat Khuṅ Roye Gi Zamin-e-Karbala
   Zulm Ki Kaali Ghata Sar Pe Chha Jaane Ko Hai
-# source_id: ziyaraat:92722b31b23d232fd0e7
-# source_url: https://www.ziyaraat.net/api/noha/494
-# raw_sha256: 95ce311835d989a8f7792a0accd16d0559dcf48771cda1bcb83eed0f86330f83
 ---
 
 گلشن آ ل پیمبر میں خزاں آنے کو ہے

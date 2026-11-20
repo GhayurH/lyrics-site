@@ -39,9 +39,6 @@ romanLyrics: |-
   Haiṅ khuld ki mukhtaar jo makhduma-e-jahaaṅ
   Khurshid mili un ko hai ye gor-e-gharibaaṅ
   Ye dukhtar-e-Nabi ka kaisa nasib hai
-# source_id: nohayonline:b5950cfe41c2ad845532
-# source_url: https://www.nohayonline.com/details_content.php?id=2963
-# raw_sha256: 2ca8ef6d077d1527861e6a003b50c5eef1b30e9f2df8ca9ce36cd3fb8f62d1c1
 ---
 ناراض آج تک ہے اُمت سے فاطمہ
 

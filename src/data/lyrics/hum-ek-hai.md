@@ -159,9 +159,6 @@ romanLyrics: |-
   Ye Mazhar o Zishan o Misam
   Sada rahe ga Husain ka gham
   Sada rahe ga Husain ka gham
-# source_id: nohayonline:75b0a80e24a877a33651
-# source_url: https://www.nohayonline.com/details_content.php?id=3664
-# raw_sha256: 0a1af033a270405604d955315451a76197101f054cf9ad44408154c8b02e2ac2
 ---
 بولو نہ بولو نہ مولا مولا حسین
 حسین حسین حسین حسین

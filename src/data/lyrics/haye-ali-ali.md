@@ -115,9 +115,6 @@ romanLyrics: |-
   Dasht meiṅ tha hashr-e-Aza
   Gham meiṅ tha kohraam bapaa
   Ek qayamat thi machi
-# source_id: nohayonline:e6d8ff4f1f3152f24e77
-# source_url: https://www.nohayonline.com/details_content.php?id=3586
-# raw_sha256: 90d3262c4f5f8ba3bb0db122bc27300ea3f4aecd7e712f3ef88ed0556c3d7838
 ---
 
 ہاے علی علی علی

@@ -9,9 +9,6 @@ reciter: "Syed Ali Naqvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:18f5d6cc9012075e8ccc
-# source_url: https://www.ziyaraat.net/api/noha/2601
-# raw_sha256: 55f092225e5786673b66318c1f54f2eb99700976bc71f2a1429ea4126ff778ad
 ---
 
 دیکھ کر زہرہؑ کی میت مرتضیٰؑ روئے بہت

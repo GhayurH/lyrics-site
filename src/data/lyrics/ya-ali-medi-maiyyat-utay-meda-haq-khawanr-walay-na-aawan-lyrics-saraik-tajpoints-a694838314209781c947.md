@@ -8,9 +8,6 @@ poet: "Qurban"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a694838314209781c947
-# source_url: https://tajpoints.com/2018/02/ya-ali-medi-maiyyat-utay-meda-haq.html
-# raw_sha256: 1fba4330d40a9728316e2de41301dbd71d7f4554d0dc06bc222e4e7453d6b3b4
 ---
 
 1

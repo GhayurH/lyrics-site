@@ -8,11 +8,6 @@ poet: "Darwaish"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:0db1cbb7f83acc5cc355
-# source_url: https://www.nohawriteups.org/2-muharram-2024-najaf-i-karwan-e-rah-e-nijat-i-main-sakina-hon-i-noha-i-muharram-2024/
-# raw_sha256: 6c7a6aa2174918197d97aa3afe785061e7e100ca930296734aaf1aa528c76bd8
-# source_title_original: 2 Muharram 2024 Najaf I Karwan e Rah e Nijat I Main Sakina Hon I Noha I Muharram 2024
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 Main Sakina huṅ mera dard hai itna Baba

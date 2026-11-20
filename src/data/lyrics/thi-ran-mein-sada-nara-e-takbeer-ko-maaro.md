@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:08d44be9acec7bbdd51c
-# source_url: https://tajpoints.com/2023/07/thi-ran-mein-sada-nara-e-takbeer-ko.html
-# raw_sha256: 2132dfa708ed8c9f6523774b8053355c105e02145a2902f9a116e5a815441556
-# source_title_original: Thi Ran Mein Sada Nara e Takbeer Ko Maaro 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Thi Ran Mein Sada Nara e Takbeer Ko Maaro

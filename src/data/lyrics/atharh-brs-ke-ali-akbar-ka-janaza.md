@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:7981a05149f23db71668
-# source_url: https://www.ziyaraat.net/api/noha/1198
-# raw_sha256: 8272d63730391f4f4a7a1f99a6a5a95b839d5a4e114afddef3f847cc10a04f25
 ---
 
 اٹھارہ برس کے علی اکبرؑ کا جنازہ

@@ -99,9 +99,6 @@ romanLyrics: |-
   Sajjad bhi ro kar kehne lage
   Mar jaati Sughra tu sun kar
   Ash Shaam agar samjha deta
-# source_id: nohayonline:5e7f1a60f153ec4049b9
-# source_url: https://www.nohayonline.com/details_content.php?id=3580
-# raw_sha256: b2dfc285055fc604e05f7d7b9a274d672f6c10cbbc03be3d0bc6aeaf0fe8738c
 ---
 قافلہ آ گیا
 جب شام سے چھٹ کر آئے حرم

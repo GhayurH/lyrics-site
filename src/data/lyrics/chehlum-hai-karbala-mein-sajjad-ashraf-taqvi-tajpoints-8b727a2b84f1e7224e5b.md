@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8b727a2b84f1e7224e5b
-# source_url: https://tajpoints.com/2021/06/chehlum-hai-karbala-mein-sajjad-ashraf.html
-# raw_sha256: 8b1c23d19fef1f3eb5b0f5d37841a926397936c6c0e3a5919406815fcb16895a
 ---
 
 Chehlum Hai Karbala Mein Haram Laut Aaye Hain.

@@ -9,9 +9,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:47e6704a920a5fe3f2d4
-# source_url: https://tajpoints.com/2023/07/rabba-manzoor-karein-meda-che-maah-da.html
-# raw_sha256: 7d54b8d046c740717a6ff37049b214fb8fee0515ec5671cfb899f0e4ef8ebf50
 ---
 
 Rabba Manzoor Karein Meda Che Maah Da Mehman

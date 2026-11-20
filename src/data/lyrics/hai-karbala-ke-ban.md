@@ -66,15 +66,6 @@ romanLyrics: |-
   Akhtar asar dikhaayega mazlum ka lahu
   Hai ghamzada behen ki yahi ek aarzu
   Aabaad zaairin se ho jaaye ye zamiṅ
-# source_id: nohayonline:e3f184e932b415bdc66d
-# source_url: https://www.nohayonline.com/details_content.php?id=184
-# raw_sha256: da72f19566e8674e4313c248c7a871c60313c7da27038d2a74d93b9bc1f8ac5b
-# source_id: ziyaraat:1eec0606e4a40785d951
-# source_url: https://www.ziyaraat.net/api/noha/393
-# raw_sha256: b2328d1d70273e849b6759be4aa050ce0ef9abbbf6a161991d1572193c1d7ac0
-# source_id: ziyaraat:39d488b25e56140391cf
-# source_url: https://www.ziyaraat.net/api/noha/1928
-# raw_sha256: 7cacfd446f7b44b7321cb8b7f0ee1705bab583800c1cb5850969d1b859ad9a75
 ---
 
 ہے کربلا کے بن میں غریبوں کا اربعیں

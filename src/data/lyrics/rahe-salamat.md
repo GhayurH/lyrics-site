@@ -76,9 +76,6 @@ romanLyrics: |-
   Yehi wo shohdaye karbala hai
   Jinhone hal min ki sada par laabbaik kaha
   Aur mere ishq meiṅ apni jaano ka nazrana pesh kiya
-# source_id: nohayonline:37f74747d78cf962bfc7
-# source_url: https://www.nohayonline.com/details_content.php?id=992
-# raw_sha256: 11fae5d8078b1ad0d5a545f603f1072171fcee54e421a89ea863123cb8f587e0
 ---
 
 ۱

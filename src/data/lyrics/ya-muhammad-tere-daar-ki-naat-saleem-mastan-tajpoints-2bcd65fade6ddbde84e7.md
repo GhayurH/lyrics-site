@@ -8,9 +8,6 @@ poet: "Waseem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2bcd65fade6ddbde84e7
-# source_url: https://tajpoints.com/2021/10/ya-muhammad-tere-daar-ki-naat-saleem.html
-# raw_sha256: 6c24bc249deb71663b6ba7818a394f70c2be6a157b22677078632e025001c3e7
 ---
 
 Ya Muhammad Tere Daar Ki Naat Saleem Mastan.

@@ -66,9 +66,6 @@ romanLyrics: |-
   Ae Raza guzri kya hogi Abbas par
   Haaye zindaan meiṅ gham ke tufaan meiṅ
   Aayi hogi sada Shah ki jab kaan meiṅ
-# source_id: nohayonline:21920dc554f2ca102700
-# source_url: https://www.nohayonline.com/details_content.php?id=545
-# raw_sha256: 8f6a6e0e5b3d09fdf718c1d44c0713e4d3185a14e0e74c8dd3b74786023e0855
 ---
 
 زینب میری بچی کا رکھنا خیال

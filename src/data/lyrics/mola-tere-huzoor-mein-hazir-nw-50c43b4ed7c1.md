@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:50c43b4ed7c16eabf99f
-# source_url: https://www.nohawriteups.org/mola-tere-huzoor-mein-hazir/
-# original_html: snapshots/nohawriteups/original_html/50c43b4ed7c16eabf99f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/50c43b4ed7c16eabf99f.json
-# api_content_sha256: 6fa4f860c3fdddefc8b572e85472bc8a7590564f743e5175bb7fba470cba346b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mola Tere Huzoor Mein Hazir Hai Ye Ghulam

@@ -7,15 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ccef1d943c8b1c070940
-# source_url: https://www.nohawriteups.org/barchi-na-khaychna/
-# original_html: snapshots/nohawriteups/original_html/ccef1d943c8b1c070940.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ccef1d943c8b1c070940.json
-# api_content_sha256: 39eb94181d8adaae4fa1aec88f5195206dfbec2639df4223599e9fb25144751b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
-# additional_source_id: nohawriteups:a01a8b1e24122eabf17f
-# additional_source_url: https://www.nohawriteups.org/barchi-na-khaynchna/
-# additional_original_html: snapshots/nohawriteups/original_html/a01a8b1e24122eabf17f.html.gz
 ---
 
 bolay padar se akbar barchi na khaynchna

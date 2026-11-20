@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:59dcaa2b512203450111
-# source_url: https://tajpoints.com/2023/06/shadi-mola-ali-o-janab-e-syeda-lyrics.html
-# raw_sha256: 15fafb86818b4fd8f7b9536e6f0d9ef0e823b14a5bb6ffa22605928e195df4b0
 ---
 
 1

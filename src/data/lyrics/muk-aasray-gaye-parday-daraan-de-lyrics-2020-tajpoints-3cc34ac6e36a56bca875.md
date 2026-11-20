@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3cc34ac6e36a56bca875
-# source_url: https://tajpoints.com/2023/06/muk-aasray-gaye-parday-daraan-de-lyrics.html
-# raw_sha256: 8b6ec6a2daff73d1bcc072aa1c2686ca654e21e1f8a69c134ed82c1711b8fc8f
 ---
 
 Muk Aasray Gaye Parday Daraan De.

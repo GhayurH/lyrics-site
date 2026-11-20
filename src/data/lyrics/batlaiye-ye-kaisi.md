@@ -43,9 +43,6 @@ romanLyrics: |-
   Pur shor Naved itna hai jitna hai ye sunsaan
   Ek qabr ke hote hue ye Shaam ka zindaan
   Aabaad kahaaṅ baad hai viraan ka viraaṅ
-# source_id: nohayonline:368d368616d09d0c1fd4
-# source_url: https://www.nohayonline.com/details_content.php?id=278
-# raw_sha256: 4deb009f4241f332d51a54603768bd0aaf4092f34bd11a99f3dec69fc0b51a08
 ---
 بتلائیے یہ کیسی اسیری ہے پھوپھی جاں
 کیا میرے مقدر میں تھا یہ شام کا زنداں

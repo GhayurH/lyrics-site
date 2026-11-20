@@ -70,9 +70,6 @@ romanLyrics: |-
   Tu hi raasta hai ya Husain
   Karbobla tehrir hai jis pe maula us kirtaas ka
   Yani abbas ka yani abbas ka...
-# source_id: nohayonline:00498542a0d2fc5c48b6
-# source_url: https://www.nohayonline.com/details_content.php?id=2199
-# raw_sha256: 6763fdada9d9217d87035d113d68bde21376804485a6ca4d19f0198514ae9d06
 ---
 
 ۱

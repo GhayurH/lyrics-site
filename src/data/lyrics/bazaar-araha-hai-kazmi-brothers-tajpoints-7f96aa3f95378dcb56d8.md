@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7f96aa3f95378dcb56d8
-# source_url: https://tajpoints.com/2023/08/bazaar-araha-hai-kazmi-brothers-lyrics.html
-# raw_sha256: f5756e82462abb8c49114bd2e4569eb51fdea6045ed8454899cef47bbf0e039e
 ---
 
 Yeh Kaun Khon Rota Bazar Aa Raha Hai.

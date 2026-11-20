@@ -8,9 +8,6 @@ poet: "Zaire"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b806e1957adf25c38707
-# source_url: https://tajpoints.com/2019/09/kaha-yeh-farwa-ne-mehndi-sajao-qasim-ki.html
-# raw_sha256: 8139da828cb7772812bf532e26de5808942497d63429d57cef5c202fffa22a32
 ---
 
 Kaha Yeh Farwa Ne Mehndi Sajao Qasim Ki.

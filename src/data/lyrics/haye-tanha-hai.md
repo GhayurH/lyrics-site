@@ -72,9 +72,6 @@ romanLyrics: |-
   Koi gham is se bara to nahiṅ is aalam meiṅ
   Zindagi sarf ho Jawid isi maatam meiṅ
   Hasrat o ranj ka tufaan hai dil-e-bekal meiṅ
-# source_id: nohayonline:017e11196869943b2692
-# source_url: https://www.nohayonline.com/details_content.php?id=3558
-# raw_sha256: 7c34bd822746adf7f95ef6c8945398454013ab349ce762a00da7ee07b52fff29
 ---
 
 ہاے تنہا ہے حسین ابنِ علی مقتل میں

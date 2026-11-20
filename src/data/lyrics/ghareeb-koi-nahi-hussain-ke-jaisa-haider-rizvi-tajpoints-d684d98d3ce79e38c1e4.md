@@ -8,9 +8,6 @@ poet: "Hussaini"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d684d98d3ce79e38c1e4
-# source_url: https://tajpoints.com/2025/07/ghareeb-koi-nahi-hussain-ke-jaisa-haider.html
-# raw_sha256: faa5f5f2faeb2fbb324d6bdbb2a88005afc8c8f1ccd5ca68c5125e68ee2578e1
 ---
 
 Ghareeb Koi Nahi Hussain Ke Jaisa Haider Rizvi.

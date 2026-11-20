@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:722386ed10f513ef7602
-# source_url: https://www.nohawriteups.org/ghairat-da-kaaba-logon-mola-mera-sajjad-ay/
-# original_html: snapshots/nohawriteups/original_html/722386ed10f513ef7602.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/722386ed10f513ef7602.json
-# api_content_sha256: 69ecb406c7594553932aca0440c06fe5d75813c2b6d08bd8d2dc10052ef4fd54
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ghairat Da Kaaba Logon Mola Mera Sajjad Ay

@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:79323825aeb082eea27b
-# source_url: https://tajpoints.com/2023/06/allah-ke-ism-sare-bikhrey-hain-karbala.html
-# raw_sha256: ffb4a9e145c9ea2b8450c89569ce025032f29b1018ad2fb31d21be0157dcadfc
 ---
 
 1

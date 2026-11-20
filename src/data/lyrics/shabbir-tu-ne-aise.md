@@ -33,12 +33,6 @@ romanLyrics: |-
   5
   Un ki Amir dunya meiṅ koi nahiṅ misaal
   Raah-e-Khuda meiṅ jin ke haiṅ naizoṅ pe sar charhe
-# source_id: nohayonline:4b07d39abe8db5d0c7ad
-# source_url: https://www.nohayonline.com/details_content.php?id=3497
-# raw_sha256: d95754a87cd3d61d5d492b27ec66fb733ba539906de97dee57ca61d18e8e3bae
-# source_id: tajpoints:86c39e2b9bc4acc07d70
-# source_url: https://tajpoints.com/2023/03/shabbir-tu-ne-aise-bhi-dard-o-alam-sahe.html
-# raw_sha256: 90b33abe7ae01271ed5a74c8d610fa23b7fd07e28d923d585bf479e4f991b880
 ---
 شبیر تو نے ایسے بھی درد و الم سہے
 ان کا دہر میں سامنا مرسل نہ کر سکے

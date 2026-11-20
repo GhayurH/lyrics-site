@@ -38,9 +38,6 @@ romanLyrics: |-
   Har maa ke dil ka armaaṅ isme raqam hua hai
   Tufan e gham hai isme hai hasratoṅ ka darya
   Aaja ae laal asghar...
-# source_id: nohayonline:80071d2e0fda0e0e68ec
-# source_url: https://www.nohayonline.com/details_content.php?id=2451
-# raw_sha256: be1186850ddde4563eb653a8d6a6655aa0f7c088e93f6a784a70c0a27ef62bbf
 ---
 
 ۱

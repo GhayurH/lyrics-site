@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dc4467ce76f0fd174200
-# source_url: https://tajpoints.com/2017/02/zindagi-gulzar-hai.html
-# raw_sha256: 7024d4a86ad5c51604e21bf271e3cdb08a9f2cab506ec60f9f5734db9adf5cc9
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:04f12a29c27fe558bb43
-# source_url: https://tajpoints.com/2020/07/mashhad-mein-lyrics-in-urdu-and-roman.html
-# raw_sha256: 15110f966a4cc99b8613371b7880f124b3dce1139f834ed0be465436c9cf0faa
 ---
 
 Kun Ki Hai Kainat Mashhad Mein.

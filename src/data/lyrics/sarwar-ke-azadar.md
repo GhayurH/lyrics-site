@@ -78,9 +78,6 @@ romanLyrics: |-
   Ik ashk se ho jaati hai Maula ki ziyaarat
   Aankhoṅ ko agar rone ki aadat nahiṅ hogi
   Turbat meiṅ bhi Maula ki ziyaarat nahiṅ hogi
-# source_id: tajpoints:b039a59791390ca9af5b
-# source_url: https://tajpoints.com/2020/12/sarwar-ke-azadar-lyrics-in-urdu-and.html
-# raw_sha256: 5af735a18b7c30ae5fb4713471783321b214f68d350cb50cc7ec8db60cd17d85
 ---
 سرور کے عزادار
 مظلوم کی تلوار سرور کے عزادار

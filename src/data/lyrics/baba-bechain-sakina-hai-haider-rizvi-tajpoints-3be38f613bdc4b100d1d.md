@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3be38f613bdc4b100d1d
-# source_url: https://tajpoints.com/2025/07/baba-bechain-sakina-hai-haider-rizvi.html
-# raw_sha256: 445f90c39a550815d81924a71942b256fe338027b8c084bcd30366e1a824b2fa
 ---
 
 1

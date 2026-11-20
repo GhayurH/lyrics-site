@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f5f26e6c77d86a600734
-# source_url: https://www.nohawriteups.org/mazloom-bhira-haye-nahi-sir-tay-rida/
-# original_html: snapshots/nohawriteups/original_html/f5f26e6c77d86a600734.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f5f26e6c77d86a600734.json
-# api_content_sha256: 335ab701e5113a468251b4d11e2ea99d9c96bce98c03338a499c5a522f1ff961
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mazloom Bhira, Haye Nahi Sir Tay Rida, Pund Shaam Da Kitni Door Ey.

@@ -124,12 +124,6 @@ romanLyrics: |-
   Ab hai yahi armaaṅ
   Paas bula le maaṅ
 reciter: "Farhan Ali Waris"
-# source_id: nohayonline:09c98908c6907f2424d2
-# source_url: https://www.nohayonline.com/details_content.php?id=2355
-# raw_sha256: 312f319c64a14e1a07bf083ecaf57beab2b00d761a5272e71f88924163454405
-# source_id: ziyaraat:2fe6d45832439a371bf1
-# source_url: https://www.ziyaraat.net/api/noha/1622
-# raw_sha256: 89fc4bcdc8b23b44b2e665ef9b29dd4353f0d68151a83a1095efc74ee794292b
 ---
 
 اے ماں اے پیاری ماں

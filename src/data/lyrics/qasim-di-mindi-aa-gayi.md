@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7be788739760f78bc641
-# source_url: https://www.ziyaraat.net/api/noha/1155
-# raw_sha256: fbadc4f6e072727ad899237bc2acd5a87cc9395af5568fcff7a6833d15579d27
 ---
 
 Qasim di mehndi aa gayee, banre di maan pukardi

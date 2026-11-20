@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noRoman"]
 aliases: []
 published: false
-# source_id: nohawriteups:53c9776d4598fe15b745
-# source_url: https://www.nohawriteups.org/umme-laila-ne-kaha-aye-mere-beta-akbar-noha-lyrics/
-# original_html: snapshots/nohawriteups/original_html/53c9776d4598fe15b745.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/53c9776d4598fe15b745.json
-# api_content_sha256: f5ba26b27485e8e30ed6b3f8fac5b66f420200df93d5dd6da05711dbb92ec7db
-# editorial_note: Unpublished source-faithful draft from approved valid urdu only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 ام لیلی نے کہا اے میرے بیٹا اکبر

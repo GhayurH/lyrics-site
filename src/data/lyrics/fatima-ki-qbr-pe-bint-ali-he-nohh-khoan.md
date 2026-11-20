@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:af4fa29cbbdc06a5f652
-# source_url: https://www.ziyaraat.net/api/noha/2047
-# raw_sha256: 6c25ad0b68a307bc10f707705df61820af4dc1de8db5462e3ec7a64eed737c7c
 ---
 
 فاطمہؑ کی قبر پہ بنت علؑی ھے نوحہ خواں

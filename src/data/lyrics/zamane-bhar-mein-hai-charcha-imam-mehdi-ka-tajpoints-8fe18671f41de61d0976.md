@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8fe18671f41de61d0976
-# source_url: https://tajpoints.com/2023/03/zamane-bhar-mein-hai-charcha-imam-mehdi.html
-# raw_sha256: 71b5c7e47fd0e723d5f2be74f5c63a4f919e678d3915db681973421cf0150c44
 ---
 
 Zamane Bhar Mein Hai Charcha Imam Mehdi Ka.

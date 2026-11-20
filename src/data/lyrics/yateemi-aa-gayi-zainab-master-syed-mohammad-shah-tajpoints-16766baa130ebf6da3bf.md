@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:16766baa130ebf6da3bf
-# source_url: https://tajpoints.com/2018/06/pukarein-fatima-zahra-yateemi-aa-gayi.html
-# raw_sha256: 02d840de522a63246a970fff9a161ffa4ab59015ab8aaf3328715f39d18104fd
 ---
 
 1

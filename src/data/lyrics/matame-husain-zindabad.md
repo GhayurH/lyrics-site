@@ -68,9 +68,6 @@ romanLyrics: |-
   Hum ko matam hi karna sikhaye Husain
   Matame Husain zindabad
   Parchame Husain zindabad
-# source_id: nohayonline:5c9e608e1fafd504ba6c
-# source_url: https://www.nohayonline.com/details_content.php?id=1186
-# raw_sha256: 72367fca53b9354f1d49898ae84c6c20cf5bc529cd24d05c5b46bc5acbb10b0b
 ---
 
 ۱

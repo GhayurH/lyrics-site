@@ -56,9 +56,6 @@ romanLyrics: |-
   9
   Tum ahl-e-ashqiya kya Quraaṅ samajh sakoge
   Akhtar faqir ki jo baateṅ samajh na paaye
-# source_id: nohayonline:622f3a45a29c6b04a25b
-# source_url: https://www.nohayonline.com/details_content.php?id=2812
-# raw_sha256: 101d2ce483d9bff4a994033741058edef1508d94dcb779b897fb6bf2c76d017b
 ---
 
 کبھی خالی حجروں میں کبھی دہلیز پر جا کر

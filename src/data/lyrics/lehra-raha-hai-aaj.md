@@ -58,9 +58,6 @@ romanLyrics: |-
   Aayegi jab bhi yaad shahe mashraqain ki
   Goonjegi ae zahir sada ya Husain ki
   Lehra raha hai aaj bhi...
-# source_id: nohayonline:1f31be0be1309c2edf59
-# source_url: https://www.nohayonline.com/details_content.php?id=2067
-# raw_sha256: 080206341b13accdceaeb84e89827c509aa19b8bda50868eaddb8f8893003c25
 ---
 
 ۱

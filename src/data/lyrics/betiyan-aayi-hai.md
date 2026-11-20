@@ -52,9 +52,6 @@ romanLyrics: |-
   Karbala kufa najaf yasrab se aati hai sada
   Aaye ab ibe Hasan inko basaane ya ali
   Betiyaṅ aayi hai...
-# source_id: nohayonline:8004dc7a0e8b0b4b0cf0
-# source_url: https://www.nohayonline.com/details_content.php?id=2924
-# raw_sha256: c6d13a9c31896965aa4b0b90786a0b1aee8124d321df9c0c98db1d2f6c4e2ee0
 ---
 
 ۱

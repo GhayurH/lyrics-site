@@ -8,9 +8,6 @@ poet: "Nayab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bb65f3246a390a023da0
-# source_url: https://tajpoints.com/2022/10/dam-ba-dam-ali-ali-pukar-mir-hasan-mir.html
-# raw_sha256: e51a3627b251508a730fdb8b29723672e2f26fca2448643e336b9be44fe8f192
 ---
 
 Dam Ba Dam Ali Ali Pukar Mir Hasan Mir.

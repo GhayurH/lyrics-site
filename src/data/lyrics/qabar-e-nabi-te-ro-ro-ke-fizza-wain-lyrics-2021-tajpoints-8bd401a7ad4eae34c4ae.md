@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8bd401a7ad4eae34c4ae
-# source_url: https://tajpoints.com/2021/01/qabar-e-nabi-te-ro-ro-ke-fizza-wain.html
-# raw_sha256: 4825a27f72f3f1de70462700da35e1ef01e280dc5233fedb629d273951be14f3
 ---
 
 Qabar-e-Nabi Te Ro Ro Ke Fizza Wain Sonandi Aye.

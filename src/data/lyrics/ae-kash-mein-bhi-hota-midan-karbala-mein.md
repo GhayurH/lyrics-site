@@ -64,9 +64,6 @@ romanLyrics: |-
   Taa hashr kam na hoṅ ge aal-e-abaa ke charche
   Abbaas-e-baa wafaa se daad-e-wafaa jo milti
   Hote gali gali meiṅ meri wafaa ke charche
-# source_id: ziyaraat:fb0297f1ee1e937481f7
-# source_url: https://www.ziyaraat.net/api/noha/1280
-# raw_sha256: 2696c44690aa13209bb182e1b8570139f386e1da95efa52aac6e51098f97ed8a
 ---
 
 ۱

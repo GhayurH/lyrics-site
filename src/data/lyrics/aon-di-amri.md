@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:dc47f16ec4bdcd4bf9af
-# source_url: https://www.ziyaraat.net/api/noha/2835
-# raw_sha256: 1c2bc93484b517cfe690564eb178578dccb4971d6152117298ab626dd74925f3
 ---
 
 نا رو عون دی امڑی ٹر جا

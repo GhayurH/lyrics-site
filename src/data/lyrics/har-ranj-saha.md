@@ -41,9 +41,6 @@ romanLyrics: |-
   5
   Amir bacha din ko to Shabbir gaye the
   Shabbir ko har haal meiṅ Zainab ne bachaaya
-# source_id: nohayonline:1458f2d3923dfa5298ae
-# source_url: https://www.nohayonline.com/details_content.php?id=3487
-# raw_sha256: 8745db1252c383786ac76e0b011fcc9d3f1430b977dde78107807714c6d64817
 ---
 
 ہر رنج سہا صدمہ بھی کیا کیا نہ اٹھایا

@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f5ecaf0566b4551e1d78
-# source_url: https://tajpoints.com/2019/09/aye-rah-e-karb-o-bala-teri-azmaton-ko.html
-# raw_sha256: ba4476f3833257bfda808ff3f2fb79cbfb5d400b3062f58c8bce29c4b49db488
 ---
 
 1

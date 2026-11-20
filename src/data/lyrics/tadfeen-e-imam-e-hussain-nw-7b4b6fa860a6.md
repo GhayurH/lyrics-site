@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noRoman"]
 aliases: []
 published: false
-# source_id: nohawriteups:7b4b6fa860a6d7b6865e
-# source_url: https://www.nohawriteups.org/tadfeen-e-imam-e-hussain-lyrics-farhan-ali-waris-new-noha-2021/
-# original_html: snapshots/nohawriteups/original_html/7b4b6fa860a6d7b6865e.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/7b4b6fa860a6d7b6865e.json
-# api_content_sha256: c98e250c750233f0f918b49a795c2e6ee2a7c3fac455bb846d13a8540ddef07c
-# editorial_note: Unpublished source-faithful draft from approved live has many urdu stanzas, extracted bad; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 اے رونے والوں ہے یہ گھڑی شوروشین کی

@@ -8,9 +8,6 @@ poet: "Johar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:509d5257244df7e1447f
-# source_url: https://tajpoints.com/2024/02/ya-imam-e-raza-ilteja-hai-muhammad-raza.html
-# raw_sha256: 8269cb91b232ddab6f346bbee989ade1d9edd4038ba96e22f38c463502f8c3b2
 ---
 
 1

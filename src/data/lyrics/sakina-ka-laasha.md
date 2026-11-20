@@ -66,12 +66,6 @@ romanLyrics: |-
   Kamar jhuk rahi hai gharib-ul-watan hai
   Bahattar janaazoṅ se bhaari janaaza
   Uthaate haiṅ Aabid Sakina ka laasha
-# source_id: nohayonline:4b22e4a1fd62d70d3348
-# source_url: https://www.nohayonline.com/details_content.php?id=1082
-# raw_sha256: e6cff1385f2f9410304d5a1246decaccfc7b33d6e93c2ac50dc127df2563279c
-# source_id: ziyaraat:5df3c88a3c846087d4f0
-# source_url: https://www.ziyaraat.net/api/noha/2940
-# raw_sha256: 5cfce4d92db98728ed4d3bfea9f358841aaed4ffc6b54e4606d140717d2e6272
 ---
 انا للہ انا للہ
 

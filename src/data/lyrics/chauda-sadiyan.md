@@ -59,9 +59,6 @@ romanLyrics: |-
   Bait se Ahl-e-Bait ka rishta kya toreṅ ge ahl-e-jahaaṅ
   Kya jaane kab baam-e-falak se gunj uthe aawaaz-e-azaaṅ
   Ae Kaabe ke thekedaaro Kaabe waala baaqi hai
-# source_id: tajpoints:805f5c9d8245cd3229cd
-# source_url: https://tajpoints.com/2022/10/shabbir-ka-charcha-baqi-hai-mir-hasan.html
-# raw_sha256: 8bddc842fdaae4ce99d03e8bed2e28164b1780941dcf3246404addec90231631
 ---
 
 ۱

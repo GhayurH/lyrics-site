@@ -30,9 +30,6 @@ romanLyrics: |-
   5
   Karbala ki yehi tarif suni hai Kausar
   Khaak hai aur marizoṅ ko shifaa deti hai
-# source_id: ziyaraat:7ac524340cd90d2d35f2
-# source_url: https://www.ziyaraat.net/api/noha/2294
-# raw_sha256: 9ab6bb7f209f8c1681eafc2ad1ecf091097a3c2743bcee55932cb806c1cd77ea
 ---
 
 کون خاتون یہ خیموں سے صدا دیتی ہے

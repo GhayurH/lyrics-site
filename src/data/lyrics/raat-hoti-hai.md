@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Shaah-e-diṅ jhum ke girte haiṅ zamiṅ par Shahid
   Aasmaaṅ tut ke girne ki sada aati hai
-# source_id: nohayonline:e82a4d6297f77b8f7771
-# source_url: https://www.nohayonline.com/details_content.php?id=767
-# raw_sha256: 6c8262203af495862bc358f6e2a89b944bf6321029e41e277c4d8177c7aea2f1
 ---
 رات ہوتی ہے تو رونے کی صدا آتی ہے
 کسی بی‌بی کے تڑپنے کی صدا آتی ہے

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f90886a0e1999b4ca39f
-# source_url: https://tajpoints.com/2023/06/pehle-namoos-e-risalat-ke-azadar-hain.html
-# raw_sha256: 0667135e8be3fcee58f94a541faca3bc3b20e5331dbcde3ab53931761256b916
 ---
 
 1

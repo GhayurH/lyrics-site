@@ -43,9 +43,6 @@ romanLyrics: |-
   Isi ka bhaai hai chhe maah ka Ali Asghar
   Bala ke dasht meiṅ naadaan paani ko paa kar
   Pilaane ko ise dauri thi kuze ko le kar
-# source_id: nohayonline:6f66867c754a6157a3f6
-# source_url: https://www.nohayonline.com/details_content.php?id=3443
-# raw_sha256: a3984d79147adb084091fdddfd539b33b47db0ce97cdb4a72d724dc3fc01dab2
 ---
 گلا باندھا ہے رسن میں ملول و مضطر ہے
 یہی حسین کی پیاری سکینہ دختر ہے

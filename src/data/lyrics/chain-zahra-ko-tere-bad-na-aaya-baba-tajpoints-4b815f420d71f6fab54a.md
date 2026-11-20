@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4b815f420d71f6fab54a
-# source_url: https://tajpoints.com/2020/01/chain-zahra-ko-tere-bad-na-aaya-baba.html
-# raw_sha256: f6ed29c5cad5a918e2c5a6bb99ec3867c6cb7e471018f42ed43a34e89f3e55bc
 ---
 
 1

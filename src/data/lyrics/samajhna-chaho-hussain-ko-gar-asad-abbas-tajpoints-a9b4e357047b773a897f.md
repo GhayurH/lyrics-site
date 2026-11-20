@@ -8,9 +8,6 @@ poet: "Salamat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a9b4e357047b773a897f
-# source_url: https://tajpoints.com/2024/07/samajhna-chaho-hussain-ko-gar-asad-abbas.html
-# raw_sha256: c1db8d4be5b68b3a386d66fe0ef6d0c56db8dfedff3b5b63b472a2459fcb34a5
 ---
 
 Samajhna Chaho Hussain Ko Gar Asad Abbas.

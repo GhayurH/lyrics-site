@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bcf7142ab2e86f732e4f
-# source_url: https://tajpoints.com/2018/07/al-fatima-to-bizato-minni.html
-# raw_sha256: 637cc4a340d6597043cc55d43ff643fc1a3792e003c04ba6cb4bbfadb2e1198b
 ---
 
 1

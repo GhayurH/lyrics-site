@@ -59,9 +59,6 @@ romanLyrics: |-
   Aayi sada ye Rehan o Sarwar
   Besar para hai bhai ka laasha
   Ab to chale aao bhai akela hai
-# source_id: nohayonline:edb521df26894fb2c0e8
-# source_url: https://www.nohayonline.com/details_content.php?id=346
-# raw_sha256: e2c7854271094f78d517f4054fddd9062aa3b39a1c6c5984b694bb9b94d6238b
 ---
 
 مقتل میں پہنچے جب شہ والا

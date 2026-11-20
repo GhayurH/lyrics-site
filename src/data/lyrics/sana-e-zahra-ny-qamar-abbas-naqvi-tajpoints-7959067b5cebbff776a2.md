@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7959067b5cebbff776a2
-# source_url: https://tajpoints.com/2024/12/sana-e-zahra-ny-qamar-abbas-naqvi-lyrics.html
-# raw_sha256: d66a39643764a83752f73b5a2776a3f9a3e222e07f7184c76e2553cbd30653f1
 ---
 
 1

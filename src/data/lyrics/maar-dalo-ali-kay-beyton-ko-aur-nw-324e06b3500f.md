@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:324e06b3500f79ef1e67
-# source_url: https://www.nohawriteups.org/maar-dalo-ali-kay-beyton-ko-aur/
-# original_html: snapshots/nohawriteups/original_html/324e06b3500f79ef1e67.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/324e06b3500f79ef1e67.json
-# api_content_sha256: 307bc8e4a1e4f72240ad422a07fe28b2b182c6162bceb9c14dae37dace861361
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Maar dalo Ali key beyton ko aur kheymon ko bhi jalana hey

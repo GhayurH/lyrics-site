@@ -31,7 +31,6 @@ romanLyrics: |-
   Wich Kofay Shehar Yateema Nu Koi Aaya Na Parchaan Aye
   Saqlain Ghareebi Malkaan Di Wajhullah Khon Ich Tar Si
   Ohno Loki Nayi Pehchan Sakay Jehra Allah Di Pehchan Aye
-# soz: Mazhar Asghar Khan
 ---
 چلی ضرب علیؑ تے سجدے وچ کرو مسجد وچ اعلان اے
 زینبؑ کلثومؑ دے اجڑن دی دیو ہر پاسے آذان اے

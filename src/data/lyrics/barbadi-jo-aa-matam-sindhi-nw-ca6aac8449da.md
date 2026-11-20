@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ca6aac8449dafc579377
-# source_url: https://www.nohawriteups.org/barbadi-jo-aa-matam-sindhi-noha-2021-mir-hasan-mir/
-# original_html: snapshots/nohawriteups/original_html/ca6aac8449dafc579377.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ca6aac8449dafc579377.json
-# api_content_sha256: bb4d1b84b9c595fc610bb83e30483262ccf8556d4fe1379cc75b5fbb8a8569d5
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Yeh Pak Nabi (saw) Kay Ghar Ka Matam Hai

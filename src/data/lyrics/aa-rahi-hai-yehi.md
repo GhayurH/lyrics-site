@@ -56,9 +56,6 @@ romanLyrics: |-
   Paak paakiza lahu jis ki ragoṅ meiṅ hoga
   Us ko matam meiṅ bhi aayega ibadat ka maza
   Ya Husain Ya Husain Ya Husain
-# source_id: nohayonline:445e76166564a797d42f
-# source_url: https://www.nohayonline.com/details_content.php?id=2795
-# raw_sha256: 39b6c5cc21dec5284dd50009315b6e74629fffe7c09f56b657612a3f086a693a
 ---
 
 آ رہی ہے یہی ہر ماتمی سینے سے صدا

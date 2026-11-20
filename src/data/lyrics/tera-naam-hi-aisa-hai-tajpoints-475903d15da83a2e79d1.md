@@ -8,9 +8,6 @@ poet: "Aqeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:475903d15da83a2e79d1
-# source_url: https://tajpoints.com/2017/02/kyun-girta-na-sanbhle-ga-tera-naam-hi.html
-# raw_sha256: 5f97b15dfcb6ef17ed84c84d2952337b1abb480c7265a0779d82d699de1fea80
 ---
 
 Tera Naam Hi Aisa Hai.

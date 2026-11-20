@@ -61,9 +61,6 @@ romanLyrics: |-
   12
   Jab daakhila watan meiṅ hoga Qamar haram ka
   Zainab ka dil kahega maiṅ kya jawaab duṅgi
-# source_id: nohayonline:f2b94cb1cbd562d0bded
-# source_url: https://www.nohayonline.com/details_content.php?id=1869
-# raw_sha256: 74655c090f2013133c717007307dafd40ad5fe5adbdf335e4f9d446ae5cff9c7
 ---
 زینب کا تھا یہ نوحہ میں کیا جواب دوں گی
 پوچھیں گی جب کے صغریٰ میں کیا جواب دوں گی

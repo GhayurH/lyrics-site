@@ -7,13 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:25ab53fe0fb18d88a642
-# source_url: https://www.nohawriteups.org/akbar-hun-tay-aja-vatana-tay/
-# raw_sha256: f04c186f255d0296c9abb5eaf25680b87c07361baaede028c6a2552fea19bfd5
-# additional_source_id: nohawriteups:125bae9cfdb1270a49fe
-# additional_source_url: https://www.nohawriteups.org/akbar-hun-tay-aja-vatana-tay-ro-vain-karay-sughra/
-# additional_raw_sha256: 1f6323cc6efc34abef20bc3b493c0c871d4e34bd67342943f540c2e1342b5919
-# editorial_note: Both historical sources contain the same five substantive Panjabi Roman stanzas. The shorter-titled source preserves explicit stanza divisions; the other repeats the same wording unnumbered. Final transliteration, poet and cross-title review pending.
 ---
 
 Akbar Hun Tay Aja Vatana Tay

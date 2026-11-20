@@ -96,9 +96,6 @@ romanLyrics: |-
   Shabbir ka marsiya khwaaṅ Shabbir ka shaayar bhi
   Pehchaan yehi hai ab tere Sibt-e-Jafar ki
   Sad shukr tera banda tere naam se zinda hai
-# source_id: nohayonline:3f843a6dab1f8f238f8a
-# source_url: https://www.nohayonline.com/details_content.php?id=870
-# raw_sha256: 7e9bf555f88eb2035eccd2570b910652a6f8b690554ac11824eab534012a6b16
 ---
 
 شبیر یہ سب دُنیا تیرے نام سے زندہ ہے

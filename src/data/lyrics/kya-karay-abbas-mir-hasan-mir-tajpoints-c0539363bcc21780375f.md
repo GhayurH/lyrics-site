@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c0539363bcc21780375f
-# source_url: https://tajpoints.com/2022/05/kya-karay-abbas-mir-hasan-mir-lyrics-in.html
-# raw_sha256: 8e64505a73cd6f986098d8e1bdd70fa2ef74c069aabea5133181d35c0e95be0e
 ---
 
 1

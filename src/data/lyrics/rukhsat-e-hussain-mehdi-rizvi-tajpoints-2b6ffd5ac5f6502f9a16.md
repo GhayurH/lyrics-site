@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2b6ffd5ac5f6502f9a16
-# source_url: https://tajpoints.com/2025/07/rukhsat-e-hussain-mehdi-rizvi-lyrics.html
-# raw_sha256: 6b72a24bcb063570e9b002ff3a1511c2d8f7820504ab5f33a1b16c27f48c278d
 ---
 
 Rukhsat e Hussain Mehdi Rizvi Lyrics

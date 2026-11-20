@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:14926c30657a50d1e1a0
-# source_url: https://tajpoints.com/2022/12/bharay-darbar-mein-bulaya-gaya-lyrics.html
-# raw_sha256: 582dfd658ba7cb640f913423b9abc00a48a83f4c9ce86281ce676995eeb42e4e
 ---
 
 1

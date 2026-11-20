@@ -50,9 +50,6 @@ romanLyrics: |-
   Gardan pe layiṅ waar kiye jaata tha gin kar
   Har waar pe kaano meiṅ yehi goonjh raha tha
   Kya beti se pyari hai...
-# source_id: nohayonline:cf0d796b1eb4f3bcd56f
-# source_url: https://www.nohayonline.com/details_content.php?id=2655
-# raw_sha256: ad50236c914f29fb5b1be4158a694fdc2ac1ee06928660ece5abbd5998ac07e2
 ---
 
 ۱

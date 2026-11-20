@@ -34,9 +34,6 @@ romanLyrics: |-
   6
   Us ko fiza zamana kaise mita sake ga
   Ke matmi asar hai,  Zainab ki ik dua ka
-# source_id: ziyaraat:d966d0cde936aa236640
-# source_url: https://www.ziyaraat.net/api/noha/2255
-# raw_sha256: bb61e7101cbf5cc8fc50205be209a7aa768c694cc81219c63ff03ef8b9df8bde
 ---
 
 سجدے میں مار ڈالا داماد مصطفیٰؐ کا

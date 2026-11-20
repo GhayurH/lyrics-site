@@ -96,12 +96,6 @@ romanLyrics: |-
   Har ghari ishq-e-Ali meiṅ lab-kusha Farhan hai
   Aur Mazhar Abidi ka bas yehi imaan hai
   Ta abad ek aasra aaj bhi hai kal bhi tha
-# source_id: nohayonline:8e11f2c9dd0555af12ae
-# source_url: https://www.nohayonline.com/details_content.php?id=2373
-# raw_sha256: 5a14b2290cac037b04e1892729824a36029348ce0b012c32c85fa4aef9825085
-# source_id: ziyaraat:fcb04c40c1b0970ec4eb
-# source_url: https://www.ziyaraat.net/api/noha/1512
-# raw_sha256: f4a7533c396b10a3396517cad2240911f5ef607cb8ba630a9b7a697f0175eeb8
 ---
 علی وارث تیرا وارث میرا وارث
 لذتِ عشقِ علی کیا ہے زمانے والو

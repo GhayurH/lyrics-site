@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:334f03bf1e45bb9a10fb
-# source_url: https://tajpoint.com/sabar-ki-yeh-kaisi-manzil-pe-khara-sajjad-hai/
-# raw_sha256: e29fd8416aefb0d99b078615156d658733be6a3ae43978feade0499b34a45354
 ---
 
 1

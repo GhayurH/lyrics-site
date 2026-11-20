@@ -8,9 +8,6 @@ poet: "Darwaish"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:40cd4b077f0d6be459b1
-# source_url: https://tajpoints.com/2025/12/azmatoon-ka-hai-aasmaan-zahra-shahid.html
-# raw_sha256: 17b8a693be560cad9e3a7d14f52afe7933bd6ea88a2f220198a3e288d7caae5b
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Azai"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e9a2b648aa37e311e4d6
-# source_url: https://tajpoints.com/2023/05/teraan-di-hoyi-barish-haye-tere-janaze.html
-# raw_sha256: b430d5987804960fd03371b544e8f1a75fbf13fe9bd5bd3dbd2590262546da31
 ---
 
 1

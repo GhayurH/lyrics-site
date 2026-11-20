@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b71ab627bd90b9e43768
-# source_url: https://tajpoints.com/2020/05/aqeeda-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: 26cb5a45b32d6bd3a1bba40d2904b15c627b0c2dd99475edeed0a89f428ea128
 ---
 
 Mera Aqeeda Hasan Hain Chupa Nahi Sakta.

@@ -8,9 +8,6 @@ poet: "Alam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1d8756dcc36fea83b266
-# source_url: https://tajpoints.com/2019/06/shabir-tere-gham-ko-manaein-gaye-azadar.html
-# raw_sha256: 7bea882439085a8bf69772e584b5a8ac6e516a4d7014bda7b3d63cb844102766
 ---
 
 Shabir Tere Gham Ko Manaein Gaye Azadar.

@@ -8,11 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# editorial_note: "Alternate closing attribution has Zeeshan and Hussain instead of Zeeshan and Kazim."
-# alternate_reading: "ZEESHAN-o-HUSSAIN Yeh Zahra Ne Baba Ki Lehad Par Bain Kiye"
-# alternate_reading: "Qunfuz Ne Tumhari Beti Par Hai Hath Uthaya Aye Baba"
-# alternate_reading: "Aye Kash Koi Apna Hota Tehreer Ke Tukray Chun Leta"
-# attribution_note: "Recitation credited to Syed Kazim Hussain Zaidi and Syed Hussain Shah in different witnesses; verify roles."
 ---
 
 1

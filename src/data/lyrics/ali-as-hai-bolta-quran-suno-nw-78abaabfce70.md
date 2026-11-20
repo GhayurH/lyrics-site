@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:78abaabfce7064cb449c
-# source_url: https://www.nohawriteups.org/ali-as-hai-bolta-quran-suno-lyrics/
-# original_html: snapshots/nohawriteups/original_html/78abaabfce7064cb449c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/78abaabfce7064cb449c.json
-# api_content_sha256: eea9f3ca01f269c9fc23c75f2859f23dca41a2777f37944acd20fbe61ebc0c48
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Aao mushkil kusha ki shaan suno

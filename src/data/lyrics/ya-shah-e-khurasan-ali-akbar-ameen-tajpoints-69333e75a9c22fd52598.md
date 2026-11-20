@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:69333e75a9c22fd52598
-# source_url: https://tajpoints.com/2023/05/ya-shah-e-khurasan-ali-akbar-ameen.html
-# raw_sha256: c43bddadbf373e0b04963e18d24923d65e1491af6ccfc3da11578526e2d2f2e9
 ---
 
 Ya Shah E Khurasan Ali Akbar Ameen

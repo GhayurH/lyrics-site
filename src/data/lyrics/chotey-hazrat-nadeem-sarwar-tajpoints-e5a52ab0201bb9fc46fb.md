@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e5a52ab0201bb9fc46fb
-# source_url: https://tajpoints.com/2022/11/chotey-hazrat-nadeem-sarwar-lyrics-in.html
-# raw_sha256: 3480ca723e07cdec391ad4e34c578af5793dd58ca8dac7a19668f9af260230c6
 ---
 
 Chotey Hazrat Nadeem Sarwar Lyrics

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:731787c41680cde499b9
-# source_url: https://www.nohawriteups.org/bano-yeh-abid-ko-batla-rahi-hai/
-# original_html: snapshots/nohawriteups/original_html/731787c41680cde499b9.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/731787c41680cde499b9.json
-# api_content_sha256: 0e3bb00e67745e2be2cf365137971d89c4282fe551da63224860c18e705112b5
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Bano Yeh Abid Ko Batla Rahi Hai,

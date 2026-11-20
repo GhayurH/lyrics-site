@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cfcc1810669589615598
-# source_url: https://tajpoints.com/2025/03/utha-hai-janaza-mehdi-rizvi-lyrics-urdu.html
-# raw_sha256: dfca5de3337ee518d454206bdeba04a4f69325f4de429093c8e79f0228f69abb
 ---
 
 1

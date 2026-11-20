@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:363dd864afc6d7ed6b1b
-# source_url: https://tajpoint.com/akbar-bhira-diyan-sughra-nu-udekan-ne-rendiyan-lyrics/
-# raw_sha256: 3ba5f1c1bf8ab71c2fbe9890dab87aed1f2d777d67cd7b7ec878b5fec4dc9efb
 ---
 
 1

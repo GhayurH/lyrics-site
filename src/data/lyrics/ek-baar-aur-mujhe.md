@@ -62,10 +62,6 @@ romanLyrics: |-
   Zabt ki taab na Maula ko rahi ae Anwar
   Haath phaila ke barhe beti ki jaanib Sarwar
   Jis ghari bekas o masum ne ro ro ke kaha
-# source_id: nohayonline:6c2432c12af1e6634bcc
-# source_url: https://www.nohayonline.com/content_salaam.php?id=34
-# raw_sha256: 23d3ed401dba37c0ae776af3bd528652cd015391f6447fb466e6207a3755b449
-# notebook_additions: temp-import-odt-2026-11-08
 ---
 
 اک بار اور مجھے گود میں لے لو بابا

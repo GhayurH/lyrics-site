@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:cba824c7d70fa3df3d4d
-# source_url: https://www.ziyaraat.net/api/noha/1640
-# raw_sha256: eaefa49a607cc63e6aa5ce5ea6a7b95df46172bd6500faf95cf25ec5884e6e97
 ---
 
 Das nana kadon wasna aey meray babay da wairra

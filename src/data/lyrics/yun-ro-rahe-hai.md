@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Darbaar-e-Shaam jaauṅ ga Zainab maiṅ tere saath
   Akbar ye keh ke ho gaye khaamosh Murtaza
-# source_id: nohayonline:40a2772959d66dc9cb37
-# source_url: https://www.nohayonline.com/details_content.php?id=2580
-# raw_sha256: 2ab6ad966abd90b37195117873c7740e3e753214ad8d88127fe2801d179127d1
 ---
 یوں رو رہے ہیں دیکھ کے زینب کو مرتظی
 شاید خیال آیا ہو بازارِ شام کا

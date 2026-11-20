@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a5dc85d874fa67c1f43
-# source_url: https://tajpoints.com/2023/07/main-bhi-mashi-karun-wajhi-hasan-zaidi.html
-# raw_sha256: 2640d7f07d912f510e606efb591294a23db9c2613736c0f9f493a1172e7dc3cd
 ---
 
 Main Bhi Mashi Karun Wajhi Hasan Zaidi.

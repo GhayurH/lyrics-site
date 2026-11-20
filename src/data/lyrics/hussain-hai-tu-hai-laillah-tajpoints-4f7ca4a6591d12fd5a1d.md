@@ -8,9 +8,6 @@ poet: "Hameed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4f7ca4a6591d12fd5a1d
-# source_url: https://tajpoints.com/2019/09/hussain-hai-tu-hai-laillah-lyrics-in.html
-# raw_sha256: f8948a1a6eedda67d8d797f8d1d97c066e57aa440be53553fa90f07317bdd169
 ---
 
 Karbal Mein Haq Ne Yeh Di Thi Sada Hussain Hai Tu Hai Laillah.

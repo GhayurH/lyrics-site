@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:5c23224418ca531f1d99
-# source_url: https://www.ziyaraat.net/api/noha/629
-# raw_sha256: 682110c8b363a2069e7e91a61b2548bb8fd981fecf95f299a187cedcfeebf319
 ---
 
 Kata kai apna gala tera dheen bachaun ga

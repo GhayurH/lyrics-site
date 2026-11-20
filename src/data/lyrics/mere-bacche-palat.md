@@ -75,9 +75,6 @@ romanLyrics: |-
   Mere nur-e-nazar mere lakht-e-jigar
   Jaa ke pardes phir aaye na laut kar
   Le ke apne dulaaroṅ ka kurta
-# source_id: nohayonline:a1f201257c6d07f8c604
-# source_url: https://www.nohayonline.com/details_content.php?id=2863
-# raw_sha256: 0fd73e62167fbdeeb706cab959799a6691af3f61d7515d9fbbd87ae3a25f5f50
 ---
 ہائے میرے راج دلارے
 ہائے میری آنکھوں کے تارے

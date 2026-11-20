@@ -8,9 +8,6 @@ poet: "Sardar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3e7ed0440de95c742d86
-# source_url: https://tajpoints.com/2023/06/mazloom-ke-safeer-ko-mara-hai-be-khata.html
-# raw_sha256: 1ef7ccc2bd206d9db769f7e3dcd2e101ed897fbbd9ca9d320add638859ed0fb9
 ---
 
 Mazloom Ke Safeer Ko Mara Hai Be Khata.

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:0910398f93a8c0f2a8f2
-# source_url: https://tajpoint.com/kaise-zahra-pe-howa-zulm-bataya-jaye/
-# raw_sha256: bfb3c67d77e9029596ee96ea4c94917cde3096b9d5a8d21013d4fb0ceb020662
 ---
 
 Kaise Zahra Pe Howa Zulm Bataya Jaye.

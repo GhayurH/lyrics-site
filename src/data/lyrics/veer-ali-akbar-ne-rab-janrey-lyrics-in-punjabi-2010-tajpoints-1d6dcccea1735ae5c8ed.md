@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1d6dcccea1735ae5c8ed
-# source_url: https://tajpoints.com/2020/12/veer-ali-akbar-ne-rab-janrey-lyrics-in.html
-# raw_sha256: 0f2c76806660ec652357bc746075e2ff96e0288bc91935d8314ac0f4906eaa5a
 ---
 
 Veer Ali Akbar Ne Rab Janrey Keray Dais Wasaye Ne.

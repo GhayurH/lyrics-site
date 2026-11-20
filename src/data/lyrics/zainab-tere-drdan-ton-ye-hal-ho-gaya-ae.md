@@ -8,11 +8,6 @@ poet: "Sahib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# alternate_reading: "Tarpe Yateem Baqir Chumay Piyo Da Haye Janaza"
-# alternate_reading: "Kita Kalam Abid Jad Aa Gaya Sharabi"
-# source_id: ziyaraat:557f5d48ce883b5511b2
-# source_url: https://www.ziyaraat.net/api/noha/174
-# raw_sha256: 23d7e264034469635ed65fd8aeb649175db38b0267064dcf78aed3f6c26aa119
 ---
 
 Zainab tayray dardan toon yeh haal ho gaya aye

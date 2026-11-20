@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2632e0282dae3d390eac
-# source_url: https://tajpoints.com/2022/03/ali-ke-zikar-ki-mehfil-sajaye-jis-ka.html
-# raw_sha256: 45052380c3c3454b366e3f6a563e0449e560a7db2d9d1cdfa471d0b833902856
 ---
 
 Ali Ke Zikar Ki Mehfil Sajaye Jis Ka Jee Chahe Mir Hasan Mir.

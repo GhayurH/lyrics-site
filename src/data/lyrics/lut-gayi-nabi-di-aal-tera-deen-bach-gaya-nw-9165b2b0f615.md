@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9165b2b0f61525300db1
-# source_url: https://www.nohawriteups.org/lut-gayi-nabi-di-aal-tera-deen-bach-gaya/
-# original_html: snapshots/nohawriteups/original_html/9165b2b0f61525300db1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9165b2b0f61525300db1.json
-# api_content_sha256: 180ad496a4a0244f202f5bd38b7f9eef9cac9cd568169dd608758cf75df1c057
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Lut Gayi Nabi Di Aal Tera Deen Bach Gaya

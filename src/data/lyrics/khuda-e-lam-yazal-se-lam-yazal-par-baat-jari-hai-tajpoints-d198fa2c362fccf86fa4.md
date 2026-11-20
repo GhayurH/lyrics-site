@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d198fa2c362fccf86fa4
-# source_url: https://tajpoints.com/2025/09/khuda-e-lam-yazal-se-lam-yazal-par-baat.html
-# raw_sha256: a7a475363e871609cf0a950a851c5f337277388409fb4a0bafbdf1362479b3be
 ---
 
 Khuda e Lam Yazal Se Lam Yazal Par Baat Jari Hai.

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:93c9c063b0da76364570
-# source_url: https://tajpoint.com/shabbir-bhira-di-maiyyat-nu-teraan-taun-veer-bachawin/
-# raw_sha256: 0e6c48c4bc53843f554889ad87519510411760b96d5bd37f2df7e4554fab709a
 ---
 
 1

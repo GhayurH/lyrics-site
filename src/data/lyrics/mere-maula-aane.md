@@ -88,9 +88,6 @@ romanLyrics: |-
 
   Ghar ghar meiṅ bichha do farsh-e-aza
   Maula ko dena hai pursa
-# source_id: nohayonline:9c06d11784ce892b0d82
-# source_url: https://www.nohayonline.com/details_content.php?id=2359
-# raw_sha256: b7c98c36e65d65beb98e50f9b5ec5ed8f1fdc6539c1de96e63243b9ea0ced34f
 ---
 میرے مولا آنے والے ہیں
 

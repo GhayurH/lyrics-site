@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ec607790536708c5aabd
-# source_url: https://www.nohawriteups.org/zahra-kay-ghar-mein-dekho/
-# original_html: snapshots/nohawriteups/original_html/ec607790536708c5aabd.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ec607790536708c5aabd.json
-# api_content_sha256: 8917be3e0b089d608030ecdb7a5e2081c7434607e0ffb778ae1c4b7de44f5cb3
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Zahra Kay Ghar Mein Dekho Manzar Hai Kerbala Ka

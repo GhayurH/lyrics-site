@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a592994b478e7903d64b
-# source_url: https://tajpoints.com/2023/09/sajjad-ki-jawani-bazaar-kha-gaya-hai.html
-# raw_sha256: 77d2af51b640324aaeab604c16d64194baa82f17c94c03c934cc8e37da8f1762
 ---
 
 Sajjad Ki Jawani Bazaar Kha Gaya Hai Sibtain Haider.

@@ -8,9 +8,6 @@ poet: "Hilmi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f524722ede1d5577acc3
-# source_url: https://tajpoints.com/2021/10/haider-utha-rahe-hain-janaza-rasool-ka.html
-# raw_sha256: f5df719d1cb9298e7ae275dcbda0dc5eb785281a09733c22adfb652006f63bb3
 ---
 
 1

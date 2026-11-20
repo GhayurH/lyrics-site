@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:938871b7b441460be4f1
-# source_url: https://tajpoints.com/2023/05/jandeyan-karbal-akbar-nu-deway-bhain.html
-# raw_sha256: d4e7ec28f1914ecec8f9adba4a4a33b316404c557cee3d69d72eaffc21251f19
 ---
 
 1

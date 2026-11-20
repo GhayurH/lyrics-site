@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7b721cd9aa50632e0ae3
-# source_url: https://tajpoints.com/2020/05/wohi-khuda-hai-lyrics-in-urdu-and-roman.html
-# raw_sha256: 35d94a7857f1c44e5f86926c599d91fad6e5a59ef3c8431c8349f62a7f487460
 ---
 
 Koi Tu Hai Jo Nizam-e-Hasti Chala Raha Hai Wohi Khuda Hai.

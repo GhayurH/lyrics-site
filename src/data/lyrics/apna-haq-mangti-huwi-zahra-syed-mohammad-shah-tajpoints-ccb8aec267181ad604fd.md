@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ccb8aec267181ad604fd
-# source_url: https://tajpoints.com/2025/11/apna-haq-mangti-huwi-zahra-syed-mohammad.html
-# raw_sha256: bc1552d019b39b09bb02d0b51fc8525ec8889afcbd8b2039a262f747cd8d141d
 ---
 
 Apna Haq Mangti Huwi Zahra Syed Mohammad Shah.

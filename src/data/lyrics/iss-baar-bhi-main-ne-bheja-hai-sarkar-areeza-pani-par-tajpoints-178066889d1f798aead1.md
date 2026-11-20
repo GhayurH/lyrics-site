@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:178066889d1f798aead1
-# source_url: https://tajpoints.com/2018/07/iss-baar-bhi-main-ne-bheja-hai-sarkar.html
-# raw_sha256: c001d6af34b7040e1441ae5e187b6636a3377935ed22f744da8ac1a6432a22f3
 ---
 
 Iss Baar Bhi Main Ne Bheja Hai Sarkar Areeza Pani Par.

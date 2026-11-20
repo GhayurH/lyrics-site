@@ -35,9 +35,6 @@ romanLyrics: |-
   Jab chain mohe pal bhar bhi nahiṅ
   More bhaag suhaag meiṅ aag lagi
   Akbar bhi nahiṅ Asghar bhi nahiṅ
-# source_id: nohayonline:7bd0ff97bf089114df62
-# source_url: https://www.nohayonline.com/details_content.php?id=1989
-# raw_sha256: b9158043b766e96f1f48c84aa504dfdc89ceafb45ef90616b47534bab061c309
 ---
 
 مورے بھاگ سہاگ میں آگ لگی

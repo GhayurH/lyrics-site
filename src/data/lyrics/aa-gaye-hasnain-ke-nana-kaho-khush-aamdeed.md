@@ -8,11 +8,6 @@ kalamType: "Naat"
 tags: []
 aliases: []
 published: false
-# source_id: tajpoints:7971611b3356eb173c7c
-# source_url: https://tajpoints.com/2019/11/aa-gaye-hasnain-ke-nana-kaho-khush.html
-# raw_sha256: d2ecf708b238b4f10c02c5cabb42b5e1b65663fac5845ddec2dcea57c857c457
-# source_title_original: Aa Gaye Hasnain Ke Nana Kaho Khush Aamdeed 2019
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 romanLyrics: |-
   Aa gaye Hasnain ke nana kaho khush aamdeed
   Ho gaya dunya mein ujala kaho khush aamdeed

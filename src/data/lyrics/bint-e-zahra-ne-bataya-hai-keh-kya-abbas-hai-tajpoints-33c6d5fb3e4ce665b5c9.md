@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:33c6d5fb3e4ce665b5c9
-# source_url: https://tajpoints.com/2019/12/bint-e-zahra-ne-bataya-hai-keh-kya.html
-# raw_sha256: 85b327c4cca2ca6406230177b120f2fbd65daa67419d1d034d7950fbd344e022
 ---
 
 Bint e Zahra Ne Bataya Hai Keh Kya Abbas Hai.

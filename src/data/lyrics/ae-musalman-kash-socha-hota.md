@@ -49,9 +49,6 @@ romanLyrics: |-
   Noha likhne ke liye dard mila hai tujh ko
   Tere alfaz may hay Fatima Zehra ki dua
   Tera andaz juda sa hai yeh
-# source_id: ziyaraat:3429e2bcb424e6a9abdc
-# source_url: https://www.ziyaraat.net/api/noha/705
-# raw_sha256: 62fb23ac720a1859ecb5e84200e9e43581520eeb7459395a552f47676a38872f
 ---
 
 ۱

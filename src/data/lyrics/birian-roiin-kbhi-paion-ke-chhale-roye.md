@@ -45,9 +45,6 @@ romanLyrics: |-
   Bhai ki laash hai aur shor yateemo ka nazir
   Ek behan aise may bachon sambhale roye
   Bediya royeyṅ...
-# source_id: ziyaraat:427fc4836f6e0b1d07aa
-# source_url: https://www.ziyaraat.net/api/noha/1905
-# raw_sha256: 635ad1f058020e635f762f372fb655d7c5a2dcbebb555fceaf49d1c1695bd01a
 ---
 
 بیڑیاں روئی کبھی پائوں کے چھالے روئے

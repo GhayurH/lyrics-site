@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:313f3b139d5578780ad6
-# source_url: https://tajpoints.com/2021/09/salam-us-pe-jise-baar-baar-mara-gaya.html
-# raw_sha256: dff4df3bfe44cd8fcf97eb6ae26cf529a70388a621947636856d8b7a697163c5
 ---
 
 Salam Us Pe Jise Baar Baar Mara Gaya Syed Mohammed Shah.

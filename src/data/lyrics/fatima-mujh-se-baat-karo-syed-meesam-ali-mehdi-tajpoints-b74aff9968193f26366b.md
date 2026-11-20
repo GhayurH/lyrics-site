@@ -8,9 +8,6 @@ poet: "Meesam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b74aff9968193f26366b
-# source_url: https://tajpoints.com/2023/12/fatima-mujh-se-baat-karo-syed-meesam.html
-# raw_sha256: d9fab5f817e0d2789ae3cfb5803417cd9a076b4f118141c6be4750dad342ac71
 ---
 
 1

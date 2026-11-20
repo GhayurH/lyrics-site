@@ -112,9 +112,6 @@ romanLyrics: |-
   Hota raha maatam
   Akhtar yehi kehti rahi bas Saani-e-Zehra
   Ghar lut gaya ammaaṅ
-# source_id: nohayonline:932608d78372d63d6862
-# source_url: https://www.nohayonline.com/details_content.php?id=3039
-# raw_sha256: 483281eebebc4959d9ec23da6a469bebd3f99ac5373e9b55c3c5ba92a0017607
 ---
 
 مقتل کی فضاؤں میں یہ زینب کا تھا نوحہ

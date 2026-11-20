@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b3d41e617b47749339e3
-# source_url: https://tajpoints.com/2022/03/husn-ka-hai-khuda-ali-akbar-syed.html
-# raw_sha256: 31edeb067185ecc1a51ae9df790b50eef89f9d59a981a2e2af233e1e9fc289db
 ---
 
 Husn Ka Hai Khuda Ali Akbar Syed Mohammad Shah.

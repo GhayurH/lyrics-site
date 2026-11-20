@@ -7,18 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f98498466f6b0088f97f
-# source_url: https://www.nohawriteups.org/hussain-aik-nahi-hogaye-katal-rasool-e-khudah/
-# original_html: snapshots/nohawriteups/original_html/f98498466f6b0088f97f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f98498466f6b0088f97f.json
-# api_content_sha256: e684d2ed4c815623bf3b84551c404d8844ec7675a9a615cabc209dd4992335f8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
-# additional_source_id: nohawriteups:a28d7ba6bc00ea5ebaa0
-# additional_source_url: https://www.nohawriteups.org/hussain-aik-nahi-hogaye-katal-rasool-e-khudah-2/
-# additional_original_html: snapshots/nohawriteups/original_html/a28d7ba6bc00ea5ebaa0.html.gz
-# additional_source_metadata_path: snapshots/nohawriteups/metadata/a28d7ba6bc00ea5ebaa0.json
-# additional_api_content_sha256: e3458352673e7dedcf87aff0044eaf8021fcea6ed3bc0e20c092824bdf5edf64
-# additional_source_note: Same complete Panjabi Roman stanza progression in both captures, no additional verse in second; spelling variants preserved only in archived source.
 ---
 
 Hussain aik nehi hogaye katal Rasool-e-Khudah.

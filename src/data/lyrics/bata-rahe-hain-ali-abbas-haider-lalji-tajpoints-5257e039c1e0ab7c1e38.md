@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5257e039c1e0ab7c1e38
-# source_url: https://tajpoints.com/2025/01/bata-rahe-hain-ali-abbas-haider-lalji.html
-# raw_sha256: f9b02831aa673c5cb6cbb449376d2690ebf85fd1e1fcfa0e6133484c7debb8ab
 ---
 
 1

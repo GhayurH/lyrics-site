@@ -70,12 +70,6 @@ romanLyrics: 'Bano ne kaha ay mere jaani ali akbar
   Ay laal ab aankhon se sujaayi nahi deta
 
   Aa jao mere yusufe sani ali akbar'
-# source_id: nohayonline:2e83d052608fc45cac92
-# source_url: https://www.nohayonline.com/details_content.php?id=153
-# raw_sha256: 0e78eddd105faaa199125a10076ec2a9300877a6475c38b32bf9baa886bc5b9a
-# source_id: ziyaraat:a6de9a1530bd13c3d265
-# source_url: https://www.ziyaraat.net/api/noha/1591
-# raw_sha256: 5a13352d6d01db29b828375a363de278e63855e91cbad181b28ab490824b4a57
 ---
 
 بانو نے کہا اے میرے جانی علی اکبرؑ

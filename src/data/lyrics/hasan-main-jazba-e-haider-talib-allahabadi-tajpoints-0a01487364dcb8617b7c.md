@@ -8,9 +8,6 @@ poet: "Talib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0a01487364dcb8617b7c
-# source_url: https://tajpoints.com/2023/04/hasan-main-jazba-e-haider-talib.html
-# raw_sha256: c2a18178c3c83abe0cc8c054f6019cdf08d13bb4a7741bbc4bf82ebae6258510
 ---
 
 1

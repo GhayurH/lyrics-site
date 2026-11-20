@@ -48,10 +48,6 @@ romanLyrics: |-
   9
   Mahshar meiṅ woh yaqinaṅ jannat meiṅ hoṅge Mazhar
   Dunya meiṅ jo tumhara jhula uthae Asghar
-# editorial_uncertainty: Archived HTML has شلوکے / shalooke and پنہاے / pinhaye; pronunciation and spelling require audio or print. No poet credit in HTML; Sabir and Mazhar in verses do not establish authorship.
-# source_id: nohayonline:198722466c9900c1b831
-# source_url: https://www.nohayonline.com/details_content.php?id=3187
-# raw_sha256: 44de3cb949397827bc6c0d1415573b7833f4c2ea87ba7c613dc8c6dc2e5c4177
 ---
 اب کس کو تیری مادر لوری سنائے اصغر
 راتوں کو اٹھ کے کس کا جھولا جھلائے اصغر

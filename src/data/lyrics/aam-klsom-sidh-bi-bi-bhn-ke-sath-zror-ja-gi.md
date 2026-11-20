@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:ce813b40a007af4f3e0c
-# source_url: https://www.ziyaraat.net/api/noha/2719
-# raw_sha256: a3bb40ec57182ccd07effec1fe5fccf80dde107cc2b1d77d9100b80f8329d6d5
 romanLyrics: |-
   Umm Kulsum Sayyida Bibi bahan ke saath zarur jaae gi
   Umm Kulsum Sayyida Bibi, bahan ke saath zarur jaae gi

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c670101d4ec30b456e39
-# source_url: https://tajpoints.com/2023/04/pakhon-aan-koon-aakhay-sugra-akbar-tu.html
-# raw_sha256: cd318cbff3c0e04e125b53b05ba9d782a50091cd131c312a9059643730b816dc
 ---
 
 1

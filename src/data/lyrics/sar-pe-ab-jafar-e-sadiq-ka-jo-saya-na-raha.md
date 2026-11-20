@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:2ead3e5487d1757ad7f6
-# source_url: https://www.ziyaraat.net/api/noha/692
-# raw_sha256: b714d8bdde2e8eec48bba7e85d627d3764a7f1ebf6db379072cd4635007abba5
 ---
 
 Sar pe ab Jafar-e-Sadiq ka jo saya na raha,

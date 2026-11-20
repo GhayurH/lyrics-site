@@ -64,9 +64,6 @@ romanLyrics: |-
   Phat'ta hai kaleja is baat ko sunkar
   Mai kaise kafan doo…
   Na des apna hai…
-# source_id: nohayonline:238c392b8419dec31a42
-# source_url: https://www.nohayonline.com/details_content.php?id=560
-# raw_sha256: b17cf8ecfbbba60c715dcb824370fee76af1124c612e36bb27fc28b1e26c6bef
 ---
 
 ۱

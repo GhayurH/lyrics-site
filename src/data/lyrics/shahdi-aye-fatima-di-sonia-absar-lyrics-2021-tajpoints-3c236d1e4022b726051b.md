@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3c236d1e4022b726051b
-# source_url: https://tajpoints.com/2021/07/shahdi-aye-fatima-di-sonia-absar-shahdi.html
-# raw_sha256: aa778165cb958e5bb3f05fd763602c489af48b0b78145259db8b489264803bbb
 ---
 
 1

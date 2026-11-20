@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:d818222332e6c11ae2cd
-# source_url: https://www.ziyaraat.net/api/noha/1111
-# raw_sha256: 4b6d1a79e2bb29a95812213bdf8cca6fd4a0f1b7408e627f3007cbe275027813
 ---
 
 Chelum hay gharibeon ka Zainab zindan se chutkar ayi hay

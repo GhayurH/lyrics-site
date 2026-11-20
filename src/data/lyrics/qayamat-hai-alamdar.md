@@ -53,9 +53,6 @@ romanLyrics: |-
   Zainab ke yehi bain the ae Aamir o Akhtar
   Haathoṅ se kamar thaam ke roti hai baraabar
   Kya Shaah pe guzri hai wafaadaar tere baad
-# source_id: nohayonline:70ec406e7f9919f4f3a6
-# source_url: https://www.nohayonline.com/details_content.php?id=1290
-# raw_sha256: 38f10c81ab442dc85bc2e8320ee84dcc1a5861c81a870c82d9c99602c1b6ae72
 ---
 خیمے میں قیامت ہے علمدار تیرے بعد
 تھامے ہیں کمر سید ابرار تیرے بعد

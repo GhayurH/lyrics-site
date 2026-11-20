@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f15986d220e9cdc56958
-# source_url: https://tajpoints.com/2025/03/lauh-ki-alfaz-ki-zair-o-zabar-ki-eid-hai.html
-# raw_sha256: ed2e8f8c0d55c3c954c03f94acc6febd7a71276e491d5fcac6c36542c6c5ae4c
-# source_title_original: Lauh Ki Alfaz Ki Zair o Zabar Ki Eid Hai Lyrics Urdu 2025
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 “Noon” Ki Our Wal Qalam Ki Har Satar Ki Eid Hai

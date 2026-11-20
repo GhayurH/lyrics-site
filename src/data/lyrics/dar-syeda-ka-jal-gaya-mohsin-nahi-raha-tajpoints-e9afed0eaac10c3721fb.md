@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e9afed0eaac10c3721fb
-# source_url: https://tajpoints.com/2020/01/dar-syeda-ka-jal-gaya-mohsin-nahi-raha.html
-# raw_sha256: 1043b588d15ae42d84234673572dca8eea46b530a17c03fb7f37df0ea3530ba1
 ---
 
 1

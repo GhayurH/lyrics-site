@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:09affbb99e43f1602df3
-# source_url: https://tajpoints.com/2025/01/kitna-haseen-hai-mera-hussain-syed-raza.html
-# raw_sha256: 2f5a57f5ece2de2255e0e98db6778948c217e1af06fd5ad2321af34419b9c09f
 ---
 
 Kitna Haseen Hai Mera Hussain Syed Raza Abbas Zaidi.

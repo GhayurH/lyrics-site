@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cffa15d4f85d430f2622
-# source_url: https://tajpoints.com/2023/07/alamdar-alamdar-mesum-abbas-lyrics-in.html
-# raw_sha256: f0782265cc45b34a6689ad9fdcfa4a721f3ced5ea5d0500a92d58a9e3d1f680c
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noRoman"]
 aliases: []
 published: false
-# source_id: nohawriteups:fcc79a8ac2a45e63a450
-# source_url: https://www.nohawriteups.org/zainab-ke-jaisa-koi-jahan-me-dukhi-nahi-shahzaib-hassan-party-14-shawal-2026-anjuman-e-hussainia/
-# original_html: snapshots/nohawriteups/original_html/fcc79a8ac2a45e63a450.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/fcc79a8ac2a45e63a450.json
-# api_content_sha256: bca921617c3954331a13d81557d545597dff82987045e3fa76ee01561ba6d6f3
-# editorial_note: Unpublished source-faithful draft from approved valid urdu only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Zainab Ke Jaisa Koi Jahan Me Dukhi Nahi |Shahzaib Hassan Party | 14 Shawal 2026 |Anjuman e Hussainia

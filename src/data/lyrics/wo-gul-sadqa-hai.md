@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Balaaeṅ le le Saalik aa idhar ae ulfat-e-Haidar
   Ye jannat aur ye jaam-e-kausari teri badaulat hai
-# source_id: nohayonline:90773dd1f340ff9eb85f
-# source_url: https://www.nohayonline.com/details_content.php?id=1226
-# raw_sha256: acad589c1528c6a44843ab84322347b7e304518cbcd9c7e3bfadb7f9a443f256
 ---
 وہ گل صدقہ ہے تیرا یہ کلی تیری بدولت ہے
 بہارِ باغِ ایمان اے علی تیری بدولت ہے

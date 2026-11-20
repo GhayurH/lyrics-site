@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3a4c5ba2cbd68323c4e4
-# source_url: https://tajpoints.com/2025/03/sibt-e-payambar-ayen-ge-mehdi-rizvi.html
-# raw_sha256: f05beb3d80d86da443d80e36dc8df75b8a855f4b62bd26c4b2e1198c619dd883
 ---
 
 1

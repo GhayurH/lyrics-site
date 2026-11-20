@@ -54,9 +54,6 @@ romanLyrics: |-
   Kaise kahuṅ jo us pe mazaalim hue shadid
   Dil kaanpta hai zabt ka yaara nahiṅ Said
   Zehra ki yaadgaar jahaaṅ se guzar gayi
-# source_id: nohayonline:b27dc608289f4c4acd15
-# source_url: https://www.nohayonline.com/details_content.php?id=3343
-# raw_sha256: daa7f1760e1260b0e428f3b87c33987cda2b5d4c42a9863f317da1058f60f56b
 ---
 
 زینب جگر فگار جہاں سے گزر گئی

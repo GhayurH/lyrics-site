@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e476a3c7ee047609299e
-# source_url: https://tajpoints.com/2019/08/behan-sughra-tarapti-hai-kab-akbar-laut.html
-# raw_sha256: ef8d624d590d2f8d0779343e14fb35f0d0d911ab5e7e2f1a210ca71dc33a0c1d
 ---
 
 1

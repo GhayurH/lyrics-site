@@ -8,9 +8,6 @@ poet: "Ghalib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:25b0681e0ec722fe76fb
-# source_url: https://tajpoints.com/2017/02/salam-ossey-keh-agar-badsha-kahein-oss.html
-# raw_sha256: a0b4f61d6cdcf9b9030846744db2311083be58080cad2ecaf909df83a4f4bd46
 ---
 
 Salam Ossey Keh Agar Badsha Kahein Oss Ko.

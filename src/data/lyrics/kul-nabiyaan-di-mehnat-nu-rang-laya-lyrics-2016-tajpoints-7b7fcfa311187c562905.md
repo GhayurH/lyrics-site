@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7b7fcfa311187c562905
-# source_url: https://tajpoints.com/2017/11/kul-nabiyaan-di-mehnat-nu-rang-laya.html
-# raw_sha256: f19ea32c3d41ebe301663fdc36839f28886865f635b2f5918df9e3f6190b1ac5
 ---
 
 1

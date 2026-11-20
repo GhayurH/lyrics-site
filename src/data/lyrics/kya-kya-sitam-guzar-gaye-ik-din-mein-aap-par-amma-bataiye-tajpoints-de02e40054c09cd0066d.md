@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:de02e40054c09cd0066d
-# source_url: https://tajpoints.com/2019/02/kya-kya-sitam-guzar-gaye-ik-din-mein.html
-# raw_sha256: 1c9d03fed8dd30a4fd35f7f3fdbca7d52a43fcb35c899cf940309ef7e1d02f62
 ---
 
 Kya Kya Sitam Guzar Gaye Ik Din Mein Aap Par Amma Bataiye.

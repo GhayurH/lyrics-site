@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9e8cf229161712aa4f2e
-# source_url: https://tajpoints.com/2017/02/haan-woh-hai-fatimasa.html
-# raw_sha256: 73e06b5e8e4fd8346328a74db15f9cfa6964ea46f6baefc53243447c917bb835
 ---
 
 1

@@ -8,12 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:33a8932240c349ba5e36
-# source_url: https://tajpoint.com/hai-zul-ashira-ki-dawat-se-inqilab-e-ghadeer/
-# raw_sha256: dd33fddf23a98e3780ffceb937b4850518e57da99f518879c723ca1b1e96a8be
-# source_id: tajpoints:6ff06cbf26ef3edd0bc2
-# source_url: https://tajpoints.com/2023/07/ghadeer-manqabat-hasnain-akbar-lyrics.html
-# raw_sha256: 1919f19d2bf65b1162b680ca169f6d76e97147eccea800639f0e662ff17136b7
 ---
 
 1

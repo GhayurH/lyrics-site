@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f109d177f31a5ed6ba01
-# source_url: https://tajpoints.com/2023/09/shabbar-de-janaze-te-ainj-ghazi-farz.html
-# raw_sha256: 4cd444c5d428c7310324599bb474cc59457a9a8ef79c8d43fcf439232239cc51
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Baqi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f1e89f3d017d408d42b0
-# source_url: https://tajpoints.com/2017/02/kissi-mein-dam-nahi-itna-sar-e-shehar-e.html
-# raw_sha256: 18cce6ca40bc483305d8f05f50386080248fcc28e4566f364dcc8e20c1240cab
 ---
 
 1

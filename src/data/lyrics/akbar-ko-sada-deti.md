@@ -57,9 +57,6 @@ romanLyrics: |-
   Ek hashr tha barpa
   Noha tha Naved us ke laboṅ par ye barabar
   Kab aaoge Akbar
-# source_id: nohayonline:cf0c3c055d19b9ccdc1a
-# source_url: https://www.nohayonline.com/details_content.php?id=3184
-# raw_sha256: 136a31880c8a3920bda07fb78e73875a03103df6e37e7902492e81bae1c02389
 ---
 اکبر کو صدا دیتی تھی ماں شعلوں میں گھر کر
 کب آؤ گے اکبر

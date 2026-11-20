@@ -68,15 +68,6 @@ romanLyrics: |-
   Jo qatlgaah ko baaloṅ se jhaar kar roi
   Sadaa hai Mazhar o Irfan ye usi maaṅ ki
   Mere gharib mere bekhataa ko yaad karo
-# source_id: nohayonline:6c5792648c2917f09e4d
-# source_url: https://www.nohayonline.com/details_content.php?id=443
-# raw_sha256: 1c1ae4c021668a45eb052a2a4e617032bfe58e407bd75d9e8a65fbb24f6f359a
-# source_id: ziyaraat:04aaf3502db497d62b60
-# source_url: https://www.ziyaraat.net/api/noha/1820
-# raw_sha256: 8370bfad75fa1f2e5b2ac9937543c7218e30993d510a484ea5acb7136d0ac127
-# source_id: ziyaraat:d16e37c91c7319999b8d
-# source_url: https://www.ziyaraat.net/api/noha/975
-# raw_sha256: 6583ff484fe671ba43d703f09a0d4387a31eb57cf70eff0aa691de3fb4fc9ac6
 ---
 بچھا کے فرشِ عزا فاطمہ کو یاد کرو
 علم سجاؤ کسی بے ردا کو یاد کرو

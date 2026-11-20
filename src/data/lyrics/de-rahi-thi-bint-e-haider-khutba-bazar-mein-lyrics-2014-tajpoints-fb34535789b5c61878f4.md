@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fb34535789b5c61878f4
-# source_url: https://tajpoints.com/2023/05/de-rahi-thi-bint-e-haider-khutba-bazar.html
-# raw_sha256: 3e03f2c217cab83e469cfc3c8ece9516ca202f6671d2a1b66260947383270775
 ---
 
 1

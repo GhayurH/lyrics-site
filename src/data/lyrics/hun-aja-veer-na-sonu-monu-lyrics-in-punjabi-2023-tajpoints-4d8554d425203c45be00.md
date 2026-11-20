@@ -8,9 +8,6 @@ poet: "Naeem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4d8554d425203c45be00
-# source_url: https://tajpoints.com/2023/07/hun-aja-veer-na-sonu-monu-lyrics-in.html
-# raw_sha256: c346a321bf46b86710e802e98d97b88a2fb1df248e851e72de37eef1ef610e6b
 ---
 
 Hun Aja Veer Na Sonu Monu.

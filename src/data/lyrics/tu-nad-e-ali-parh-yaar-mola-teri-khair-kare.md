@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:66f6ca4734f4fe8b3d55
-# source_url: https://tajpoints.com/2022/02/tu-nad-e-ali-parh-yaar-mola-teri-khair.html
-# raw_sha256: dd522cb2a36c47b690b19e181b087834577e1bdbf606da098a28db57d4a05e35
-# source_title_original: Tu Nad e Ali Parh Yaar Mola Teri Khair Kare Sonu Monu 2022
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Tu Nad e Ali Parh Yaar Mola Teri Khair Kare

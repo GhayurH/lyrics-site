@@ -76,9 +76,6 @@ romanLyrics: |-
   Ankhaiṅ har ik ki haiṅ ashkoṅ se tar
   Sun ke har aik ka phatta hai jigar
   Noha Noshad ne kuch aisa likha
-# source_id: ziyaraat:eeae8ea39fd1dee46f8d
-# source_url: https://www.ziyaraat.net/api/noha/2384
-# raw_sha256: bdbc906b5bf423b2004de5f4497dc4b7910554a87c4837873db8177b982f7b9b
 ---
 
 خوں سے رنگین ہوئی کرب و بلا

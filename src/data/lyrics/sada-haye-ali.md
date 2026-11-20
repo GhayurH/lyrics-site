@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Uthi jab Majid o Mukhtar Ali ki mayyat
   Tegh-e-Haidar se bhi aati thi sada haye Ali
-# source_id: nohayonline:f7f6acacc90377623a83
-# source_url: https://www.nohayonline.com/details_content.php?id=2087
-# raw_sha256: 6e735895845d809af31a6985809d6261392026ba31d316c02bfaacd01620209c
 ---
 آتی ہے مسجد کوفہ سے صدا ہائے علی
 قتل سجدے میں ہوا شیر خدا ہائے علی

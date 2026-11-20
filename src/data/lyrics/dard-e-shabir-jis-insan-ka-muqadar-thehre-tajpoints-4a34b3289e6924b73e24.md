@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4a34b3289e6924b73e24
-# source_url: https://tajpoints.com/2017/02/dard-e-shabiras-jis-insan-ka-muqadar.html
-# raw_sha256: c4ecea86c12942777603345e1929f3e0672159cfd2bf4b82a44fa1d88054b18e
 ---
 
 Dard-e-Shabir Jis Insan Ka Muqadar Thehre.

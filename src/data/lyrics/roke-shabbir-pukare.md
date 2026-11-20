@@ -60,9 +60,6 @@ romanLyrics: |-
   Ae Mubarak liye laashoṅ ko chale Shah-e-Huda
   Dar talak pahunche ae Rehan wo kehte kehte
   Ab nazar aate nahiṅ Aun o Muhammad Zainab
-# source_id: nohayonline:e2567220a934941a219d
-# source_url: https://www.nohayonline.com/details_content.php?id=2100
-# raw_sha256: 253bf0d135a581009704a38247c2929694a7324b1b47fddf22ceda63dd1df535
 ---
 
 رو کے شبیر پکارے کہ خدا خیر کرے

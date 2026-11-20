@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:51aeff69b0fe1b28d81b
-# source_url: https://tajpoints.com/2022/12/khari-rahi-darbar-che-chup-kar-ke.html
-# raw_sha256: 6b3ef99c8a0e5bdef1ede876160266d3634e8cc302abd37ac5c756e96b515989
 ---
 
 1

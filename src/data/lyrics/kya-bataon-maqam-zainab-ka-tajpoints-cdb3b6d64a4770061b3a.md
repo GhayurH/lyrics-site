@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cdb3b6d64a4770061b3a
-# source_url: https://tajpoints.com/2017/04/kya-bataon-maqam-zainab-ka.html
-# raw_sha256: c78503a39dbe77237cdaadd2b281f78cbf51d20eb6f5bd74bb8082adf909fd13
 ---
 
 Kya Bataon Maqam Zainab Ka

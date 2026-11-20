@@ -58,9 +58,6 @@ romanLyrics: |-
   Aini kohraam hogaya barpa
   Koi aamir ye kehta tha ro kar
   Ghar meiṅ baba ko...
-# source_id: nohayonline:a3c13b3cfa2641449427
-# source_url: https://www.nohayonline.com/details_content.php?id=3390
-# raw_sha256: ecdfac4d9e63cbdc3a70b6b14a7cb4e2cc5577278d56a22ef2bbd4a7674961c6
 ---
 
 ۱

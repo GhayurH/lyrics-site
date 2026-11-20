@@ -8,9 +8,6 @@ poet: "Shamim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4122f17f5db2b3cc4780
-# source_url: https://tajpoints.com/2023/10/deen-e-islam-ko-parwan-charhaya-sheh-ne.html
-# raw_sha256: 75e4e855c869303cdde5889a8ca6855779eb4452c92f4f67e5d9e58c33ff2b2d
 ---
 
 1

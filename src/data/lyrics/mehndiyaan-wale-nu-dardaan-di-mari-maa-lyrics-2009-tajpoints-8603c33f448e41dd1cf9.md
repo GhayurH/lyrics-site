@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8603c33f448e41dd1cf9
-# source_url: https://tajpoints.com/2023/07/mehndiyaan-wale-nu-dardaan-di-mari-maa.html
-# raw_sha256: 821e1d0515271416c1bd90bad4dbb818d5c60cf3c0449a6b10e8ac1d3d449bf3
 ---
 
 1

@@ -83,9 +83,6 @@ romanLyrics: |-
   Haaye is waqt hum tum khare haiṅ jahaaṅ
   Nur hi nur hai kal thi taarikiyaaṅ
   Bara royi Sakina yahaaṅ
-# source_id: nohayonline:c128031294efc199cf3b
-# source_url: https://www.nohayonline.com/details_content.php?id=2051
-# raw_sha256: e82e4d40631545220f178f8c210837122f1b7b2679f907417869da81b5af54f7
 ---
 
 ہاں یہ ہے شہر شام

@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:99c0def92e867c76a014
-# source_url: https://tajpoints.com/2019/04/jhoolay-lal-lyrics-in-urdu-and-roman.html
-# raw_sha256: e2c6836699e0e0591319c5697ab382af3321475eb26d99feda9e0ec32359b78e
 ---
 
 1

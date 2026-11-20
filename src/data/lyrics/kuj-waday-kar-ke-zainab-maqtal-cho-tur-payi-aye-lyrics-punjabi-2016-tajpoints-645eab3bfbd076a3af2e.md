@@ -8,9 +8,6 @@ poet: "Zeshaan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:645eab3bfbd076a3af2e
-# source_url: https://tajpoints.com/2017/02/kuj-waday-kar-ke-zainabsa-maqtal-cho.html
-# raw_sha256: de1634a2b1bd995f147a158979a1fec573aa113d0d7bf81f3e4808403c577213
 ---
 
 Kuj Waday Kar Ke Zainab Maqtal Cho Tur Payi Aye.

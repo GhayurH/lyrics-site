@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a9a7616b33e72ff85f5
-# source_url: https://tajpoints.com/2021/10/uss-ke-rastay-mukhtar-hussain-fatehpuri.html
-# raw_sha256: f009fc8e5cee645569706a269154adea9f5b5df0ead7a3ddba65977a35ec7a41
 ---
 
 1

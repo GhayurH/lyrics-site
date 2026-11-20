@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eee2dacf01d9215b27a0
-# source_url: https://tajpoints.com/2024/07/qurbaniyan-bhulniyan-nai-muhammad-raza.html
-# raw_sha256: f044b231f23d0a5bd63f7be5491bd2e4391829979f820c873b1aba902cfc5e12
 ---
 
 1

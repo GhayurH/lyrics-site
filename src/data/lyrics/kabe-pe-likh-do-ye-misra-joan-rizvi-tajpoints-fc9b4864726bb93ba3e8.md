@@ -8,9 +8,6 @@ poet: "Azlan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fc9b4864726bb93ba3e8
-# source_url: https://tajpoints.com/2024/02/kabe-pe-likh-do-ye-misra-joan-rizvi.html
-# raw_sha256: b384846c2a985a281980e062b94eb031e39711fa9142c20483da0325d32b1185
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed5d085682dac6b0979a
-# source_url: https://tajpoints.com/2026/03/dhiyan-des-paraye-wekhiya-babal-aakhri.html
-# raw_sha256: 9cce754cfc486be13b8317b5dc8970050818d58742fa80cfc967091c6951cfa5
 ---
 
 1

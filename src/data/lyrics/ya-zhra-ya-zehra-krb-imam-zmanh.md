@@ -84,9 +84,6 @@ romanLyrics: |-
   Mai toh har ek surat me hu aane ko tayyar
   Roke qamar maula ne kaha tayyar nahi lashkar
   Ya Zahra Ya Zahra..(2)
-# source_id: ziyaraat:e30b54790ccf409dbfe5
-# source_url: https://www.ziyaraat.net/api/noha/2173
-# raw_sha256: 0afe0ce3edcfed8f493744ead34a756951a75c536720621ef81aaadd6e1e9f51
 ---
 
 یا زھراؑ یا زھراؑ

@@ -67,12 +67,6 @@ romanLyrics: 'Shabbir naujawan ke laashe pe aa rahe hai
   Jo aashna hai ashraf mehboobe kibriya se
 
   Aulaad e fatema ka wo gham mana rahe hai'
-# source_id: nohayonline:caf38ac7ab68ba93920f
-# source_url: https://www.nohayonline.com/details_content.php?id=810
-# raw_sha256: 3d1aa64c61ecaf28e2a80d386c26d3068f1454578d36513892e0f2fffe174abe
-# source_id: ziyaraat:f0c2975d39db0f3c250d
-# source_url: https://www.ziyaraat.net/api/noha/1174
-# raw_sha256: ca283b71ff8de0a6655bece73dc30d50e0fc130be5ffa05a6cb9951513bc890a
 ---
 
 شبیر نوجواں کے لاشے پہ آ رہے ہیں

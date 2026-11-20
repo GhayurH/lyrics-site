@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:141350630196186eb3ec
-# source_url: https://www.nohawriteups.org/siskiyan-ab-bhi-sunai-dey-rahi-hain-sakina-ki-qabar-say/
-# original_html: snapshots/nohawriteups/original_html/141350630196186eb3ec.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/141350630196186eb3ec.json
-# api_content_sha256: cd85022b51da85075cf9ec0424d4f203dd0fbc0731cf8be6cd33d7dedcc3e657
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Siskiyan Ab Bhi Sunai Dey Rahi Hain Sakina Ki Qabar Say

@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8ab78562b7d79faaffbb
-# source_url: https://tajpoints.com/2017/02/dilon-pe-nash-e-mowadat-hain-jo-ubhare.html
-# raw_sha256: d18086750f0c67e5fb5ceafc78331c1d72a1c5b983abcfafa61d6ea9d28ac240
 ---
 
 Dilon Pe Nash-e-Mowadat Hain Jo Ubhare Howay.

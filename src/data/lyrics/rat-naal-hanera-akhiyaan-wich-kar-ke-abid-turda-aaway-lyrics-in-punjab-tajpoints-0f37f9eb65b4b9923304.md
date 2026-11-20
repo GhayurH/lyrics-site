@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f37f9eb65b4b9923304
-# source_url: https://tajpoints.com/2018/10/rat-naal-hanera-akhiyaan-wich-kar-ke.html
-# raw_sha256: c6c387e1956dc751eaed5214fb2e4a3d7aa28c873c8cb3435ec81cbe549926a6
 ---
 
 1

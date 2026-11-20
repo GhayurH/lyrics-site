@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:37230935fb8fc1d74c65
-# source_url: https://tajpoints.com/2021/04/karbala-thikana-hay-shahid-baltistani.html
-# raw_sha256: 6d52bba7b0f1430949bc18b09620b834205785aa0b6a92d3a526316f386645c1
 ---
 
 Karbala Thikana Hay Shahid Baltistani.

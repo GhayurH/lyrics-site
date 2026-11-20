@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Ae Takallum hai jaane qabr kahaaṅ
   Itni bekas hai aaj bhi Zahra
-# source_id: nohayonline:f90c16edab4ec55fdf06
-# source_url: https://www.nohayonline.com/details_content.php?id=1021
-# raw_sha256: 34480e3d2eebe8c5ff478461b1e767ae5e65d1517e58b3348b26cd8eeb1975fa
 ---
 اپنے بابا کی لاڈلی زہرا
 چور زخموں سے ہو گئی زہرا

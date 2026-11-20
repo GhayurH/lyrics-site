@@ -36,9 +36,6 @@ romanLyrics: |-
   Zakhm gardan ka Khuda jaane dhulaaya ke nahiṅ
   Jism se khun bhara kurta wo utaara ke nahiṅ
   Kya lahu zakhm se naawak ke abhi tak hai rawaaṅ
-# source_id: nohayonline:8bbb1c0709898114b726
-# source_url: https://www.nohayonline.com/details_content.php?id=524
-# raw_sha256: 66c806287030645b03e10470f9df414f991bb1f6e744a77f51b2100a219ff8d4
 ---
 ہو میرے لال کہاں
 

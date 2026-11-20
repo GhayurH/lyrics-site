@@ -8,9 +8,6 @@ poet: "Debal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:deb3097c03b9cf7aaef3
-# source_url: https://tajpoints.com/2019/03/main-kuch-soch-raha-hoon.html
-# raw_sha256: cbe5c12a0c5a3e824fc9b8f85e012b74894cf8c29c50388bdb732b58e93e1260
 ---
 
 Main Kuch Soch Raha Hoon

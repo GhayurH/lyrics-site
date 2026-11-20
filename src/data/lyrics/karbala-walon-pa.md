@@ -37,17 +37,6 @@ romanLyrics: |-
   6
   Dushmanaan-e-Karbala phir maaraka aaraai hai aaj
   Majlis o maatam ki Shahid ab zarurat aur hai
-# source_id: nohayonline:a0fe33efabd98d2297eb
-# source_url: https://www.nohayonline.com/details_content.php?id=172
-# raw_sha256: e835c49c3c957f1c75f1f62120f8774653812db32021d5cd3033abfa26985b02
-# source_id: ziyaraat:a25cab1e7a0ebb64efba
-# source_url: https://www.ziyaraat.net/api/noha/648
-# raw_sha256: c526fc11a83effdc7a698830f933665f5bed0e12a9a0f96ae0862f22f923fb5b
-# source_id: nohawriteups:2407b634c3473be821f4
-# source_url: https://www.nohawriteups.org/karbala-walon-pa-jo-guzri-qayamat-aur-hai/
-# original_html: snapshots/nohawriteups/original_html/2407b634c3473be821f4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2407b634c3473be821f4.json
-# api_content_sha256: 2c5b502859bd0c859378aef92cfc7bc461def23fbcc2127b755201d27cc9529a
 ---
 کربلا والوں پہ جو گذری وہ قیامت اور ہے
 ہر پیمبر پر جو آئی وہ مصیبت اور ہے

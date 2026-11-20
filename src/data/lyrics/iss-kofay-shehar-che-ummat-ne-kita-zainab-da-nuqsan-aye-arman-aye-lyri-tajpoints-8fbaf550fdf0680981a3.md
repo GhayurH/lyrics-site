@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8fbaf550fdf0680981a3
-# source_url: https://tajpoints.com/2022/04/iss-kofay-shehar-che-ummat-ne-kita.html
-# raw_sha256: 7346a9dbd1f1918bf9ae9baff84933182cdc0d83e3b8ed2ac0b78f62cc21aa25
 ---
 
 Iss Kofay Shehar Che Ummat Ne Kita Zainab Da Nuqsan Aye Arman Aye.

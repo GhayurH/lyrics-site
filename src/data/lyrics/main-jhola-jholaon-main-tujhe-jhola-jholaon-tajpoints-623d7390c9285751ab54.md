@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:623d7390c9285751ab54
-# source_url: https://tajpoints.com/2020/03/main-jhola-jholaon-main-tujhe-jhola.html
-# raw_sha256: 2315042a788271281826f87cd8bcf08d12a91e396a49582f9f050ee621aed466
 ---
 
 1

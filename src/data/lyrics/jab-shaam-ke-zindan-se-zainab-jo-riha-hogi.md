@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:148245f13b72a8da08fc
-# source_url: https://www.ziyaraat.net/api/noha/350
-# raw_sha256: 881a91e964ac73635aecb0bc18b959cfc8debcde5c2c4f1ae67b105b67aab2b5
 ---
 
 Jab Shaam Ke Zindaan Se Zainab Jo Reha Ho Gi

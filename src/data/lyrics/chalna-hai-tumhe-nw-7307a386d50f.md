@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:7307a386d50f63b333df
-# source_url: https://www.nohawriteups.org/chalna-hai-tumhe/
-# original_html: snapshots/nohawriteups/original_html/7307a386d50f63b333df.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/7307a386d50f63b333df.json
-# api_content_sha256: e823a64a7f843c357beb4621b6b313c39da7ad654e86494dd602d9d79b2c6b2d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 jab madine may paye karbobala

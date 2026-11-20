@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:06f42b01a7f9d3042dcb
-# source_url: https://www.ziyaraat.net/api/noha/407
-# raw_sha256: 087cb7884eb4a61a8d9a2bae446e832c3b71ce5461d60f49253b686f3ba01933
 ---
 
 Assalam kunba-e-rasool Assalam

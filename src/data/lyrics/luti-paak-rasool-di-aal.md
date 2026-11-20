@@ -9,17 +9,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6be54f3c54cc00cd416d
-# source_url: https://www.nohawriteups.org/luti-paak-rasool-di-aal/
-# original_html: snapshots/nohawriteups/original_html/6be54f3c54cc00cd416d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6be54f3c54cc00cd416d.json
-# api_content_sha256: f08519a6f87d52ced3789e73caa20832035c1df96850b99e4e65c55d29b72c05
-# source_id: nohawriteups:44bb3edbe68d3aae0e43
-# source_url: https://www.nohawriteups.org/luti-paak-rasool-di-aal-tapdiyan-raitan-te/
-# original_html: snapshots/nohawriteups/original_html/44bb3edbe68d3aae0e43.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/44bb3edbe68d3aae0e43.json
-# api_content_sha256: 89388e7a00a52724d20e05542a481d602f862ece362173b627241bc447b716d8
-# editorial_note: Reconciled two overlapping Punjabi Roman witnesses into ten three-line stanzas. Stanzas 8-9 appear only in the longer source. Stanza 3 starts "Wul Wul Akhay" in that source versus "Farwa Akhay" in the other; fuller witness kept in provenance. Repeated "Tapdiyan Raitan Te" refrain omitted from each stanza.
 ---
 
 Luti Paak Rasool Di Aal

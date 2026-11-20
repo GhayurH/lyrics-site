@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:98bc0cbfd04e394409dc
-# source_url: https://tajpoints.com/2018/10/nana-teri-zainab-nu-ais-sham-de-lokaan.html
-# raw_sha256: 23f22ed73979f111425b668af2b1c533ab563d7c85bd634c3bedbcd234956a25
 ---
 
 Nana Teri Zainab Nu Ais Sham De Lokaan Ne Baon Dard Wakhaye Ne.

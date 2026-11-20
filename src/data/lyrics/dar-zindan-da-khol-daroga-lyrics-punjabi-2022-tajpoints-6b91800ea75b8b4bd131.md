@@ -8,9 +8,6 @@ poet: "Adil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6b91800ea75b8b4bd131
-# source_url: https://tajpoints.com/2021/02/dar-zindan-da-khol-daroga-lyrics-in.html
-# raw_sha256: eb324cfc8a75ddb31f0207e1c08b07925bffa1aa13ea7a8832a59a7ab7edeeae
 ---
 
 1

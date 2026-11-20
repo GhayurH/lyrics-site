@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:02b7071c61e5c030385f
-# source_url: https://www.ziyaraat.net/api/noha/856
-# raw_sha256: b78aeda376f2502efbe119a34adfa548ad98f784dc16dc0d09920eb67a6c03fc
 ---
 
 Bazaar e sham darbaar e sham

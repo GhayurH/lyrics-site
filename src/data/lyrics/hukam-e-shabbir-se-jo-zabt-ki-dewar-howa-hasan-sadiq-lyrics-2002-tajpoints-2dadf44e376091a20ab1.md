@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2dadf44e376091a20ab1
-# source_url: https://tajpoints.com/2023/03/hukam-e-shabbir-se-jo-zabt-ki-dewar.html
-# raw_sha256: 3bce1d5a5b6cf35b19865443aa6f1cf623a67a738c777fa786100be8b733b125
 ---
 
 Hukam e Shabbir Se Jo Zabt Ki Dewar Howa Hasan Sadiq.

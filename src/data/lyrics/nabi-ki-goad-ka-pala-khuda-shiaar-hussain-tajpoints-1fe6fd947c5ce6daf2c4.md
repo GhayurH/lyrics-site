@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1fe6fd947c5ce6daf2c4
-# source_url: https://tajpoints.com/2018/01/nabi-ki-goad-ka-pala-khuda-shiaar.html
-# raw_sha256: d812648ac1f82d9e2391966b1ab6159f0fa79bf9aabbfad37686340354b554df
 ---
 
 1

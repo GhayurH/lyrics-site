@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Jaane sawaal kya hue turbat meiṅ ae Qamar
   Chup ho gae the ham to Ali ko pukaar ke
-# source_id: nohayonline:347be6075d7f981c715b
-# source_url: https://www.nohayonline.com/details_content.php?id=2174
-# raw_sha256: 507cc29865f5a54b622f4470150269d6da27b04638461ba576125ac66a4b8bc9
 ---
 بیٹھا ہے مشکلات کے رستے پہ ہار کے
 او بد نصیب دیکھ علی کو پکار کے

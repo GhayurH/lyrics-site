@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:49f7b352216cfb19dba8
-# source_url: https://www.ziyaraat.net/api/noha/369
-# raw_sha256: d5c6835861b82e46a4c77e2c9b5d6a18aa5b65734975e735e02115d9a1edca2e
 ---
 
 Sajjad khoon ro kay kehta tha haar bashar say

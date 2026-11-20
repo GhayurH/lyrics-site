@@ -68,12 +68,6 @@ romanLyrics: 'Amma ki nigahon se mera zakm chupana
   Sunta hoo ke saabir hai bahot sibte paymabar
 
   Akbar ne kaha sabr ki meraj dikhana'
-# source_id: nohayonline:f5ee114ea2092143e4e4
-# source_url: https://www.nohayonline.com/details_content.php?id=124
-# raw_sha256: f274cde7442232d873b6af84217cd091e60b81f5dfc3a99a564b1b9d931de6d3
-# source_id: ziyaraat:ae59ca632a8d46c4c082
-# source_url: https://www.ziyaraat.net/api/noha/2400
-# raw_sha256: 663d4bbabc52bddd5839b39ce12254ca16d35be070a49d25c17be42beaf2ff30
 ---
 
 اماں کی نگاہوں سے میرا زخم چھُپانا

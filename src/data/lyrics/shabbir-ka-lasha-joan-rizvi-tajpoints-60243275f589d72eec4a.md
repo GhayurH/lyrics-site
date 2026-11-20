@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:60243275f589d72eec4a
-# source_url: https://tajpoints.com/2022/08/shabbir-ka-lasha-joan-rizvi-lyrics-in.html
-# raw_sha256: 741d3dd53bfb35516d410c79fe15d54edd57e4d3858728468bb17c953ebe73af
 ---
 
 Kis Haal Mein Maqtal Mein Tha Shabeer Ka Lasha Zainab Ko Khabar Hai.

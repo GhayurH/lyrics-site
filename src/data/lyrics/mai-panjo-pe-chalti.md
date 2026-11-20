@@ -62,9 +62,6 @@ romanLyrics: |-
   Shaam ke zindan meiṅ bibi meri jis tarha
   Dekh ke baba ka sar karti thi aaho buka
   Mai panjoṅ pe chalti...
-# source_id: nohayonline:1234e707b9c7e1221621
-# source_url: https://www.nohayonline.com/details_content.php?id=3590
-# raw_sha256: 6601fc5ff9b252a2aa3aaa3c04520c9796371c37eda97b5fb787c973c61d40bd
 ---
 
 ۱

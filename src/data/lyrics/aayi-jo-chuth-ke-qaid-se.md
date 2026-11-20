@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:cc6b73e5ee5c69215bd7
-# source_url: https://www.nohawriteups.org/aayi-jo-chuth-ke-qaid-se/
-# raw_sha256: ea7d2f929cfe7676782572934c68b7c8151193a5307c61cbfe3a7a4392cf1ba4
-# source_title_original: Aayi Jo Chuth Ke Qaid Se
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 Aayi Jo chuth ke qaid se zehra ki laadli

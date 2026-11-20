@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:13b1afb90336e9a023a8
-# source_url: https://tajpoints.com/2025/07/zair-e-karbala-mehdi-rizvi-and-hadi.html
-# raw_sha256: cd408a9533a905265dd73a7cc02bb0d32e40a4b25e7e38e8e6e01b3e4f83c45c
 ---
 
 1

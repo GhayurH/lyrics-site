@@ -8,9 +8,6 @@ poet: "Bilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4c06aefe24f9a894ed2c
-# source_url: https://tajpoints.com/2023/03/qatra-qatra-aik-hai-askari-hasan-zaidi.html
-# raw_sha256: ac6969a867ad802ed97a4de1f8f154f1bd960050b920938c9abc081d2cef8088
 ---
 
 1

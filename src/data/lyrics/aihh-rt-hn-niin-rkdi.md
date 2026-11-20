@@ -53,9 +53,6 @@ romanLyrics: |-
   8. Qasim sibtal nahi jahn sakai oh sham gariba de manzar
   Minhal mehdi ma da burka, Jiwain shimar nai aahn lahaya
   Hass hass kai jashan manaya, Eh rat hun nahi rukhdi
-# source_id: ziyaraat:692202ffb5a404d6e888
-# source_url: https://www.ziyaraat.net/api/noha/2103
-# raw_sha256: 00b9fa9fd0946bc5f1086b9ec07a4e4fa7f1de695b7d682650fb0f4f60b11147
 ---
 
 ایہہ رات ہن نئیں رکدی، ایہہ رات ہن نئیں رکدی

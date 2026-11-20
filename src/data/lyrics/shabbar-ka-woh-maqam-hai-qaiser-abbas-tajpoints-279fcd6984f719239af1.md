@@ -8,9 +8,6 @@ poet: "Rizwan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:279fcd6984f719239af1
-# source_url: https://tajpoints.com/2022/05/shabbar-ka-woh-maqam-hai-qaiser-abbas.html
-# raw_sha256: 456ae1ed7a5a6bab3b99f51460d9b8462b2452651f1210d35785e0de8a852e39
 ---
 
 Shabbar Ka Woh Maqam Hai Qaiser Abbas.

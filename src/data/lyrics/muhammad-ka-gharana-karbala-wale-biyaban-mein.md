@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2f54e81be3d09e4790fe
-# source_url: https://www.ziyaraat.net/api/noha/1252
-# raw_sha256: 2ee0f303cf827381b26cd5fbd116c144ffdf8c0a15220d32d16ff3a7e838e28b
 ---
 
 محمدؐ کا گھرانہ کربلا والے بیاباں میں

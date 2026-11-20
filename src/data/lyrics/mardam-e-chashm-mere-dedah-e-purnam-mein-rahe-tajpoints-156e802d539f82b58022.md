@@ -8,9 +8,6 @@ poet: "Nazim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:156e802d539f82b58022
-# source_url: https://tajpoints.com/2017/02/mardam-e-chashm-mere-dedah-e-purnam.html
-# raw_sha256: 7812baa266ff8ff8ee17059f753e3994d50eadfcfbd79d231a9c8f36f2a8740f
 ---
 
 Mardam-e-Chashm Mere Dedah-e-Purnam Mein Rahe.

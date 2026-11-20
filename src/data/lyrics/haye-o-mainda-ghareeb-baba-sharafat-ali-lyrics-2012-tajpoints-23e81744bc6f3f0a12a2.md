@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:23e81744bc6f3f0a12a2
-# source_url: https://tajpoints.com/2023/11/haye-o-mainda-ghareeb-baba-sharafat-ali.html
-# raw_sha256: 39a750ac0d4a395fd3031ff4dcf2e16abdcbfda10df335edba0bfc73483985ba
 ---
 
 1

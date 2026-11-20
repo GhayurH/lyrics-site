@@ -101,9 +101,6 @@ romanLyrics: |-
   Barham kia saffun ko sarru se guzar gaya
   Ayaa jo zad main iss ki ajal agyee ussy
   Ek kamp pari jispe zammen kha gaye ussy
-# source_id: ziyaraat:130cd9250418de2abf84
-# source_url: https://www.ziyaraat.net/api/noha/409
-# raw_sha256: f68f26957ae5d9840573810656069575928629bc1d3969547868ad58a52b60bd
 ---
 
 اللہ اللہ اللہ

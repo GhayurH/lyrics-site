@@ -46,9 +46,6 @@ romanLyrics: |-
   7) Tauqir Matami Kiouṅ, Duniya Mei Dukh Uthe
   Ghairoṅ Kai Dar Pai Jaa Kai, Kiouṅ Jholiyaṅ Phelaye
   Us Ke Mouamloṅ Ki, Nigraan Sakina Hai
-# source_id: ziyaraat:82b8492efb6b4bed13b5
-# source_url: https://www.ziyaraat.net/api/noha/1560
-# raw_sha256: ce251fa03dafe2a13d358bd5e471db0a1dc0fed0ff94222a98b321d4475a5611
 ---
 
 دو گھڑیوں کی زنداں میں، مہمان سكینہؑ ہے

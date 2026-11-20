@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:37034c725a8398f42195
-# source_url: https://tajpoints.com/2025/03/ghazi-khayal-rakhna-syed-mohammad-shah.html
-# raw_sha256: ffccdbe0fedef63d21027e029a78e6db3dc7583d7bff71b7a7c261b610db8ef4
 ---
 
 1

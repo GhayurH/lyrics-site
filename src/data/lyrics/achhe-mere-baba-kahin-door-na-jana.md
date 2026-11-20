@@ -58,10 +58,6 @@ romanLyrics: |-
   Ae Sarwar o Rehan yeh kehne lage Sarwar
   Ham bhi wahiṅ jaate haiṅ jahaaṅ sote haiṅ Asghar
   Beti phuphi ammaṅ ko na ro ke rulaana
-# source_id: ziyaraat:0dc0403007c7f30f483a
-# source_url: https://www.ziyaraat.net/api/noha/1229
-# raw_sha256: 458a07a39f22828551ea059b6aa9dab7e60ec16e276dd229720fa522aa1f5908
-# editorial_note: "Alternate TajPoints refrain: Kahin bhool na jaana; primary reading: Kahin door na jaana."
 ---
 
 ہاۓ کیا عالم تنہائی ہے

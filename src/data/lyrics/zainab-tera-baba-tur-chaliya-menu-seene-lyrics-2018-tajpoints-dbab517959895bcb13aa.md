@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dbab517959895bcb13aa
-# source_url: https://tajpoints.com/2018/06/zainab-tera-baba-tur-chaliya-menu-seene.html
-# raw_sha256: e4c6a447ddc4a130e9a3f9bba58a8f4bf69b3b8b3094fd7694cba7125368ee8b
 ---
 
 1

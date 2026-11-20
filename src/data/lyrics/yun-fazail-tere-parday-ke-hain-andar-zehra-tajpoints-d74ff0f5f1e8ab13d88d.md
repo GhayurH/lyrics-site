@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d74ff0f5f1e8ab13d88d
-# source_url: https://tajpoints.com/2021/02/yun-fazail-tere-parday-ke-hain-andar.html
-# raw_sha256: dfa7c4213046ee6731b4dc23f2a5c33fde11a1c819079481bb07bccc7e4724bc
 ---
 
 Yun Fazail Tere Parday Ke Hain Andar Zehra.

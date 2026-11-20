@@ -8,9 +8,6 @@ poet: "Qaisar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:324b87af02c9a578f2d6
-# source_url: https://tajpoint.com/mera-aakhri-wela-aa-gaya-aye-sajjad-tu-cheti-aa-vera/
-# raw_sha256: f245bca321953f8388ea2601ff2776ae083fb82fac1db557876f7a499ce90489
 ---
 
 Mera Aakhri Wela Aa Gaya Aye Sajjad Tu Cheti Aa Vera

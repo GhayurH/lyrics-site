@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6cf2519ae7af7e33814c
-# source_url: https://www.ziyaraat.net/api/noha/171
-# raw_sha256: d695391ea376021d416ca04353491daadc2226600c2e8c8ea22df129851745e7
 ---
 
 Daman Sakina chhoro wo guzar gaya zamaana

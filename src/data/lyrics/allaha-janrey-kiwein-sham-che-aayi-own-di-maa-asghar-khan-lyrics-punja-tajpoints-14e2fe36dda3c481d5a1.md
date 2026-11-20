@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:14e2fe36dda3c481d5a1
-# source_url: https://tajpoints.com/2023/05/allaha-janrey-kiwein-sham-che-aayi-own.html
-# raw_sha256: ead8354677aa9c1f59fb73187f413a3ead2a0579361b277095c4b87832c40fb7
 ---
 
 Allaha Janrey Kiwein Sham Che Aayi Own Di Maa Asghar Khan.

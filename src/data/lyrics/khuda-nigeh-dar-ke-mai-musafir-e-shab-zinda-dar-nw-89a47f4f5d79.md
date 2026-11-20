@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:89a47f4f5d79ad66e356
-# source_url: https://www.nohawriteups.org/khuda-nigeh-dar-ke-mai-musafir-e-shab-zinda-dar/
-# original_html: snapshots/nohawriteups/original_html/89a47f4f5d79ad66e356.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/89a47f4f5d79ad66e356.json
-# api_content_sha256: 7bf079bd01773bd9e23904f833e2c7058925c09d846d42e2caf80ecb522040b8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Shabe Zarbate mahe Ramzan,

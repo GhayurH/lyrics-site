@@ -8,9 +8,6 @@ poet: "o-Soz KhuwaN::Ustad Sibt-e-Jafar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1e180a965a9977a67d78
-# source_url: https://tajpoints.com/2018/08/aye-chand-karbala-ke-tu-ne-tu-dekhe.html
-# raw_sha256: be9a23edf92ddcb132ba88dffe616df6e1f3cf48b9aac31ca27c38135e6ecbb5
 ---
 
 1

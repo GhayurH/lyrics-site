@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c9f5efe6a5bc94d56cdc
-# source_url: https://tajpoints.com/2022/08/sataya-hai-sakina-ko-syed-ahsan-abbas.html
-# raw_sha256: 72eb41fdae24df0d6efc4f7779f109e389ca2e770f9f65b1acdc1c3beb8348a3
 ---
 
 1

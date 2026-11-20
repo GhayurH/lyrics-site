@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3bd9c3fc5d44ab15df18
-# source_url: https://tajpoints.com/2022/11/main-hussain-hun-ali-shanawar-lyrics-in.html
-# raw_sha256: f5860c5c29e6797ef56655ec1e9bb659f723c970fb028e70af75e29fc2af02ab
 ---
 
 Main Hussain Hun Ali Shanawar Lyrics

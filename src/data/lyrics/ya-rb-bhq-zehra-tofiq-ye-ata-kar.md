@@ -121,12 +121,6 @@ romanLyrics: 'Ya rabbul mashraqain ya rabbul maghrabain
   Har majlise aza mein karta hoo ye duayein
 
   Bas mazhar abidi par ye aakhri ata ho'
-# source_id: nohayonline:70f8dabb62bd5189338b
-# source_url: https://www.nohayonline.com/details_content.php?id=948
-# raw_sha256: 83481d421467e5c74078ccd064622aaf2e927fafe70c07185e53a4c08f856766
-# source_id: ziyaraat:99f8a2970dec560c2a9d
-# source_url: https://www.ziyaraat.net/api/noha/1732
-# raw_sha256: c52721b4c8b20f6d4835b6f3dd104e9d673faf67376d652002856b4bee3b5d4f
 ---
 
 یا رب المشرقین یا رب المغربین

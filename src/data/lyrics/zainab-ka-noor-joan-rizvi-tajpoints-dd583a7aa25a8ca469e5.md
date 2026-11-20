@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dd583a7aa25a8ca469e5
-# source_url: https://tajpoints.com/2022/03/zainab-ka-noor-joan-rizvi-lyrics-in.html
-# raw_sha256: 6e3220786df739223452bd528c2cbdd2ea55fcb5ddf61e48e97e48bbad855c8d
 ---
 
 1

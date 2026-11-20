@@ -8,9 +8,6 @@ poet: "Kami"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a9560d585f628c8bd711
-# source_url: https://tajpoints.com/2018/06/kofa-ujar-gaya-wa-mosibata-kofa-ujar.html
-# raw_sha256: fa6525c916e0d6e2299340b4cea00c6ea432dfee868b76b1c3fbaba12ed745f3
 ---
 
 Kofa Ujar Gaya Wa Mosibata Kofa Ujar Gaya.

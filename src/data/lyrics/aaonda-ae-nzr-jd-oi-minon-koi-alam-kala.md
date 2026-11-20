@@ -8,9 +8,6 @@ reciter: "Farah Khanam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:e3601091f5402a3b1122
-# source_url: https://www.ziyaraat.net/api/noha/2327
-# raw_sha256: fa2434759a19dc868d986761109566cfa0f5aaf69c2444040928dd80f7456ccc
 ---
 
 آؤندا اے نظر جد وی مینوں کوئی علم کالا

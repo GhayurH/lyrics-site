@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b2559baf5fbebd877785
-# source_url: https://tajpoints.com/2021/09/mujhe-bohat-mara-master-syed-mohammad.html
-# raw_sha256: 07fdbd2b39bfd654f0f1c90c4a48a632b72675e849a8056e71b375e1bb5ba4d7
 ---
 
 1

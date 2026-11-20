@@ -61,9 +61,6 @@ romanLyrics: |-
   Jab qaid e sitam may pohoncha
   Taiwar the Ali Akbar ke
   Aabid ne kaha lipta kar
-# source_id: ziyaraat:1e7a12717639cbe4e6f1
-# source_url: https://www.ziyaraat.net/api/noha/1843
-# raw_sha256: 1308abb3a77078e2085f452b92909211944c6a4ccb1d748b29da06f7a19b728f
 ---
 
 ؑاے محمد باقرؑ، اے محمد باقر

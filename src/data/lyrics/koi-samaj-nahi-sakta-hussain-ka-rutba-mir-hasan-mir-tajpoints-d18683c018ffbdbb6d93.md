@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d18683c018ffbdbb6d93
-# source_url: https://tajpoints.com/2019/04/koi-samaj-nahi-sakta-hussain-ka-rutba.html
-# raw_sha256: b40a23b0b654864c7e63b7d1370cc369af18bc09ba00e2af1be00e16fe59ed5a
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1f35c8a5f123ede286cc
-# source_url: https://tajpoints.com/2023/07/muslim-jo-qatal-ho-gaye-kofe-ki-rah.html
-# raw_sha256: 2e1da133fe8a020240e5163d338dd5a4a14a9b4b6a2559ad3463a37cda7421a1
 ---
 
 1

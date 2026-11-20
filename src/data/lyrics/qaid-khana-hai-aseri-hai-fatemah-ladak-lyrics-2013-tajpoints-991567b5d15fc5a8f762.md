@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:991567b5d15fc5a8f762
-# source_url: https://tajpoints.com/2023/05/qaid-khana-hai-aseri-hai-fatemah-ladak.html
-# raw_sha256: 1ab7cd3ddfd5f90628ee99a4de012fb9c2ff8345e541d2f9b22499ff4c59af46
 ---
 
 1

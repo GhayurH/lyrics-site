@@ -8,9 +8,6 @@ poet: "Aneer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9fd40e90e1e6dd75630c
-# source_url: https://tajpoints.com/2022/07/ali-mola-ali-mola-ahsan-raza-lyrics-in.html
-# raw_sha256: ce0459340bd5adfcc305e5ea39315c92fb507c5409832a90133d2370566042eb
 ---
 
 1

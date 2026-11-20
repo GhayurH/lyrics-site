@@ -8,9 +8,6 @@ reciter: "Anjuman Aseer-e-Baghdad (Multan Party)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:80adcdf56bbdc9eff53d
-# source_url: https://www.ziyaraat.net/api/noha/429
-# raw_sha256: 2a0f991e70d38db5eab6ea43e9c5e94798a6ac26f6f9c8be94a7e39f10ad1076
 ---
 
 Qaidi ghin aao

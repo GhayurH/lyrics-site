@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8df55d4592988e5a2f97
-# source_url: https://tajpoints.com/2023/04/midhat-hasan-ki-hay-syed-hamza-rizvi.html
-# raw_sha256: 6b1800ce36c5c998b8e4447160991340d640b94b60d7379d5401614501fc5315
 ---
 
 1

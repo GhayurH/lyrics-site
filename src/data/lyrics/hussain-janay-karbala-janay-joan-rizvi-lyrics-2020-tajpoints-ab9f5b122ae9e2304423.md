@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ab9f5b122ae9e2304423
-# source_url: https://tajpoints.com/2021/03/hussain-janay-karbala-janay-joan-rizvi.html
-# raw_sha256: cefe9ad6366e7ee58d48b9dd1245f0ab15efac1c5984ce14b697399830598950
 ---
 
 1

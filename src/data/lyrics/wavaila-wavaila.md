@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Kisi ke sine meiṅ barchhi kisi ke halq pe tir
   Kisi ka tukre hai laasha Husain wavaila wavaila
-# source_id: nohayonline:0c928361f4430c71840c
-# source_url: https://www.nohayonline.com/details_content.php?id=3759
-# raw_sha256: f1dd94c866b4cd1121869ad4bdf78829f4eb004cf955c1f13d358058f2380e4a
 ---
 حسین حسین شہید کربلا حسین
 یہ رن میں کہتی تھی زہرا حسین واویلا واویلا

@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:057e65b7867ffdce7c2e
-# source_url: https://tajpoints.com/2026/09/ya-zahra-mesum-abbas-lyrics-in-urdu.html
-# raw_sha256: dfcb6a962e614cfdb5cae1531f5080d94d7a03823c5c7b9fd9151e3106ab4a05
 ---
 
 1

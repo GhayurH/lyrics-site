@@ -8,9 +8,6 @@ poet: "Waseem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b3cbec86c18f5939ea2f
-# source_url: https://tajpoints.com/2022/12/teri-zahra-madine-mein-syed-shahryar.html
-# raw_sha256: 75b83e4fdc63db600fe4e648a1ea3292106b56dfde232f99c56ed10bea463162
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:abeb9268833a8569f3a3
-# source_url: https://www.nohawriteups.org/hussain-ki-sada/
-# original_html: snapshots/nohawriteups/original_html/abeb9268833a8569f3a3.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/abeb9268833a8569f3a3.json
-# api_content_sha256: 70d226fe5584b214f217499e8777905cfc59c613a7f556effc8a5ef736e9de29
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 hussainyo utho utho hussain ki sada suno

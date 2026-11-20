@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9404bc1ee89962d69973
-# source_url: https://www.nohawriteups.org/vichora-dey-gaya-akbar-gaya/
-# original_html: snapshots/nohawriteups/original_html/9404bc1ee89962d69973.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9404bc1ee89962d69973.json
-# api_content_sha256: 0c3ba06a4c219facacfa8fefbb9330b79d3096429015301911f3665f7fb69204
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Vichora dey gaya Akber, gaya watna te nayi aya

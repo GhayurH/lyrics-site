@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ac65b3e449cac255893c
-# source_url: https://tajpoints.com/2018/01/noor-e-khaliq-ki-zia-asal-e-taharat.html
-# raw_sha256: f8cfb8f61a3db0319c3bab3b08d0e7fd2100aa576f5a99395590dab90fd18019
 ---
 
 Noor-e-Khaliq Ki Zia Asal-e-Taharat Zahra.

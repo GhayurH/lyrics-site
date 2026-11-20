@@ -8,9 +8,6 @@ poet: "Manzoor"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:24246f20ef96831a6644
-# source_url: https://tajpoints.com/2022/06/karbal-di-sar-zameen-te-zainab-di-hai.html
-# raw_sha256: cafa700d190d47d7becde05123628973345b4b13ee6e46b31edb11d63df23eef
 ---
 
 Karbal Di Sar Zameen Te Zainab Di Hai Sada Ravi Road Lahore Party.

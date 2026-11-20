@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ecaff1da7243596d5117
-# source_url: https://www.nohawriteups.org/haye-sayyeda-zainab-jaane-karbala-zainab/
-# original_html: snapshots/nohawriteups/original_html/ecaff1da7243596d5117.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ecaff1da7243596d5117.json
-# api_content_sha256: cdfb91e0b75e1bfd3db3617ae077dbe8e4c4a89467609b337e61cb6009b14398
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye Sayyeda Zainab, Jaane Karbala Zainab

@@ -56,9 +56,6 @@ romanLyrics: |-
   Gauhar e haq kiuṅ na ho qalbe nabi shadmaṅ
   Ishq-e-hussaini ki ziya aane lagi
   Khushboo e aza...
-# source_id: nohayonline:01dc5bec9a9274146647
-# source_url: https://www.nohayonline.com/details_content.php?id=3069
-# raw_sha256: b2a085d1bb99c5fc3a5df856bd3b9f98d20de20c2ab20be95259da5c5d593bb1
 ---
 
 ۱

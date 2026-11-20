@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:51d23bed73cf3237a4b6
-# source_url: https://www.nohawriteups.org/aaja-akbar-teri-sughra-mar-na-jaway/
-# raw_sha256: a4c3b6e414bf18d0c76637b209f6f721d83a5c2606be4517027c56980e4b3f68
-# source_title_original: Aaja Akbar Teri Sughra Mar Na Jaway
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 Aaja Akbar teri Sughra mar na jaway.

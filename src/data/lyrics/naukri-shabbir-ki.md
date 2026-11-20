@@ -76,9 +76,6 @@ romanLyrics: |-
   Likhta jo aza ka manzar hai
   Kehti hai meri nauha goi
   Taqdir meiṅ teri likh di hai
-# source_id: nohayonline:f1a18feb9f7f6b4d400b
-# source_url: https://www.nohayonline.com/details_content.php?id=2411
-# raw_sha256: bb1ec522c70c587f450fafac7382d834575ef2edc0f4ee881977b892cb1e9b0f
 ---
 حی علی خیر العمل
 

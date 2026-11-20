@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e62cab42ea1733423860
-# source_url: https://tajpoints.com/2022/09/arbaeen-pe-chala-hoon-hassan-ali-lyrics.html
-# raw_sha256: 3b0a0761d471ba9c9f62dfe41af3fac31e3a2b31e513f3329fb40b1c781dd0e5
 ---
 
 1

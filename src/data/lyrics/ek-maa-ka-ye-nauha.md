@@ -58,14 +58,6 @@ romanLyrics: |-
   Mahshar tha bapa Gohar is dasht-e-musibat meiṅ
   Tarpa to zarur hoga beshir bhi turbat meiṅ
   Jab maa ne kaha hoga aa jaao Ali Asghar
-# source_id: nohayonline:283959f7b47e4377f6d5
-# source_url: https://www.nohayonline.com/details_content.php?id=796
-# raw_sha256: d3aa5d26309ec429afdd3aeb1ae3f11785c27bd2c7a643c1e0dcde58a0e1dd83
-# source_id: nohawriteups:a94347a1eee9f83b754a
-# source_url: https://www.nohawriteups.org/ek-maa-ka-ye-nauha/
-# original_html: snapshots/nohawriteups/original_html/a94347a1eee9f83b754a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a94347a1eee9f83b754a.json
-# api_content_sha256: 2acf9a0542900d015b1a7eb5dbb01e7d001b1b582ad59ac1ddba0b9018f9bd5c
 ---
 اک ماں کا یہ نوحہ تھا آ جائو علی اصغر
 دشوار ہوا جینا آ جائو علی اصغر

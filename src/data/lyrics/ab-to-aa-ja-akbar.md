@@ -46,9 +46,6 @@ romanLyrics: |-
   Chhor kar tum jo gaye koi na aaya ghar mein
   Saath rehta hai mere maut ka saaya ghar mein
   Dukh rulaata hai mujhe, ujre gharoṅ ka Akbar
-# source_id: ziyaraat:2928b493139f419ebdec
-# source_url: https://www.ziyaraat.net/api/noha/2506
-# raw_sha256: d89d21c14d9abcdc0f1ebe5eb69f3495a2569dd2cdf29bb371b50e25f058b38d
 ---
 
 بہنیں روتی ہیں تیری یاد میں تنہا اکبرؑ

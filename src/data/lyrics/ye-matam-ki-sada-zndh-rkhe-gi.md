@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:8c480ec3943195c9e9ea
-# source_url: https://www.ziyaraat.net/api/noha/695
-# raw_sha256: 39afe1bb289f6cc898559212fdf5be7a1e9b2078654ac9fc36ac95bf9a770f57
 ---
 
 Ye Matam ki sada zinda rakhegi,

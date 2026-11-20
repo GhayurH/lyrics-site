@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5a0c6511282d0fcaa4e6
-# source_url: https://tajpoints.com/2017/02/wila-ka-rizq-muyassar-howa-salam-kaha.html
-# raw_sha256: 3e29ce1ce0c804f2474da314bcdaff56e8db6fc9cb3f131bf45d64dc802e8dbb
 ---
 
 1

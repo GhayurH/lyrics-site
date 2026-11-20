@@ -8,9 +8,6 @@ poet: "Tosif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f8b8e2e6ef1cc3ab9b38
-# source_url: https://tajpoints.com/2023/09/roze-nabi-taun-aayi-aye-ahmad-di-aye.html
-# raw_sha256: f1bdb35bd28b24bb0455d790dfd0e0b87c7cdc25f7398a3abde5f4be2164dde2
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5829a9a730dba619a233
-# source_url: https://tajpoints.com/2022/10/qafila-ik-main-laya-tha-nadeem-sarwar.html
-# raw_sha256: 097e408aa076b6999e9d37844a7dee0fc6ec18b8fe05b8f265f62a5ad35e3f2b
 ---
 
 Qafila Ik Main Laya Tha Nadeem Sarwar.

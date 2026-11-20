@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a0ed815f0f039b3fc35d
-# source_url: https://tajpoints.com/2024/02/har-khar-o-khas-pe-rang-khushi-se-kali.html
-# raw_sha256: a31ead8966006d535fe3644a039c0806763b33f5bb4e080f7eae6142e9bf17fa
 ---
 
 1

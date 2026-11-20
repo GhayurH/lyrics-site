@@ -8,9 +8,6 @@ poet: "Bahlool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:959e30ac7d3040eb7057
-# source_url: https://tajpoints.com/2021/09/hassan-de-jigar-da-tukra-faheem-ali.html
-# raw_sha256: 0034f593c71757140e9c09202c8c35d5f69ef4559c4a9083890437a87387d041
 ---
 
 Hassan De Jigar Da Tukra Faheem Ali.

@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b19056809701742bca46
-# source_url: https://tajpoints.com/2022/10/mola-ali-ali-mir-hasan-mir-lyrics-in.html
-# raw_sha256: a29644c1174131d56f2c9742cfbf8eba9dccf2a568677914ebcd3b8b1d20cfd8
 ---
 
 Deen Ka Data Jaggat Ka Malik Sab Ka Palan Haar.

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cd6ce615cb4f41c3335e
-# source_url: https://tajpoints.com/2019/02/yasrab-de-musalmanaa-zahra-da-ghar.html
-# raw_sha256: e4a08fe434f1c859cb03eb6238c0a06faa9842b37dfea3d6ac9bec278d088923
 ---
 
 1

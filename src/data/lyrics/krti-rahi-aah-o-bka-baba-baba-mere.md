@@ -158,9 +158,6 @@ romanLyrics: |-
   Aati hai Zahra ki sada
   Baba baba mere
   Ae baba baba mere
-# source_id: ziyaraat:bb002af47628b629a087
-# source_url: https://www.ziyaraat.net/api/noha/2174
-# raw_sha256: 4cccffaebb5d0b820b72a37c06db79b63fd3c032aa1c87e2aa31a19c9db9aef5
 ---
 
 ۱

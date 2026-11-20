@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c6f2d14a5cb0d35fd5c2
-# source_url: https://www.ziyaraat.net/api/noha/1545
-# raw_sha256: b9497b2336f2de9b3f087327deebe2b145866a7da7d944bb201b505754b78490
 ---
 
 Athru Laaho Ch Badlay Tayon Beemar Day

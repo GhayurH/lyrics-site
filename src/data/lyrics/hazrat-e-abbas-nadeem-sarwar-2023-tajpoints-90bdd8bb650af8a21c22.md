@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:90bdd8bb650af8a21c22
-# source_url: https://tajpoints.com/2023/08/hazrat-e-abbas-nadeem-sarwar-2023.html
-# raw_sha256: 00a675ef8b041504538c301989a72a3aebea71612c3d89f7e4a71770f9737696
 ---
 
 1

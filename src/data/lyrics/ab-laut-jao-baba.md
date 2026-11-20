@@ -64,10 +64,6 @@ romanLyrics: |-
   Ae mere laal Akbar maiṅ kaise laut jauṅ
   Akbar pukare ro kar ab laut jao Baba
   Bole ye Sheh tarap kar maiṅ kaise laut jauṅ
-# editorial_uncertainty: Archived Urdu omits 'se' in stanza one and 'Baba' in stanza five; stanza seven has میدان/میداں disagreement. Existing readings retained pending audio/print verification.
-# source_id: nohayonline:ead7854d15aa69d33f95
-# source_url: https://www.nohayonline.com/details_content.php?id=2436
-# raw_sha256: 2dd355bcaee08fc317741da7e0b73f8c7924be68464f73cde379293b3a7f5d83
 ---
 
 خیمے سے رن کے لیے جب علی اکبر نکلے

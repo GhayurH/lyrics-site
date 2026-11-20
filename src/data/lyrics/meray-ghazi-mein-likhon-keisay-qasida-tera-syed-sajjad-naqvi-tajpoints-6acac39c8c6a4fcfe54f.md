@@ -8,9 +8,6 @@ poet: "Hani"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6acac39c8c6a4fcfe54f
-# source_url: https://tajpoints.com/2022/03/meray-ghazi-mein-likhon-keisay-qasida.html
-# raw_sha256: 42195df5d5408c28379202ef4f597643ef27bc6ded067338c4311460e8035edd
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:49428606b1ccfa5bfb7a
-# source_url: https://www.nohawriteups.org/fatima-jaiyan-veeraan-diyan-laashan-tay/
-# original_html: snapshots/nohawriteups/original_html/49428606b1ccfa5bfb7a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/49428606b1ccfa5bfb7a.json
-# api_content_sha256: da3d9975e39d636f3101be795f36c3dac39163d8538ead04dd6581bf320bd915
-# editorial_note: "An additional three-line stanza is retained as supplied; its fourth line requires verification."
 ---
 
 Fatima Jaiyan, Veeraan Diyan Laashan Tay, Ro Vain Paundiyan

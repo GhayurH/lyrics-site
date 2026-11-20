@@ -49,9 +49,6 @@ romanLyrics: |-
   Madar se teri ja ke bhala kaise kahuṅga
   Akbar ko tere ran meiṅ qaza aa gayi Laila
   Wo dekh rahi hogi teri raah khule sar
-# source_id: nohayonline:f44772b24e9be45e25f0
-# source_url: https://www.nohayonline.com/details_content.php?id=2903
-# raw_sha256: 2b56f6d765e448ee0a7237a943585fdcae2e5228b3bbcb6c65360fa9852db728
 ---
 گھوڑے سے رن میں جب گرے ہم شکلِ مصطفیٰ
 بابا مرا سلام ہو دی آخری صدا

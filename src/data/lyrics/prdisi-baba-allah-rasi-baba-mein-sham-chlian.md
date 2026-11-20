@@ -8,9 +8,6 @@ reciter: "Safdar Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6adeae29f500dca96eaf
-# source_url: https://www.ziyaraat.net/api/noha/1579
-# raw_sha256: be91422c4c435a5eef89a7f8cce99f6fd4283b57a9fa639f9ffd067ddf9a19c9
 ---
 
 1

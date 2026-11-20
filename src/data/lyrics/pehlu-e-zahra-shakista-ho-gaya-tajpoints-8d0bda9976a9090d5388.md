@@ -8,9 +8,6 @@ poet: "Zaair"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8d0bda9976a9090d5388
-# source_url: https://tajpoints.com/2020/02/pehlu-e-zahra-shakista-ho-gaya-lyrics.html
-# raw_sha256: 3147c46f0d719f81dbccedb27b987842f05588191d137c1d410d80d974a1d4fd
 ---
 
 Khush Madina Aaj Sara Ho Gaya.

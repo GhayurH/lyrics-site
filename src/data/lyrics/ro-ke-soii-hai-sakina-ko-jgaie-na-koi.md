@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:f973bf63af702d641efa
-# source_url: https://www.ziyaraat.net/api/noha/665
-# raw_sha256: b6fac9dae503cd2c2a48cf7d109de8240cad8421645599746ef4dadb23bd4e25
 ---
 
 Neend zindaan may Sakina ko jo aayi ho gi

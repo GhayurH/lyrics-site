@@ -8,9 +8,6 @@ poet: "Mukhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6012f143920313b2190b
-# source_url: https://tajpoints.com/2021/06/mera-mola-raza-hai-mukhtar-hussain.html
-# raw_sha256: 21abb98b41051adfc1d224284f3ac062a7a85996be62a1a18eb87cd30f379595
 ---
 
 1

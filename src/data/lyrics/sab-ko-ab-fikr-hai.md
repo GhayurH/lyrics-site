@@ -65,9 +65,6 @@ romanLyrics: |-
   Aamir ab dur ho mahamaari
   Phir se Aini ho ye azaadaari
   Ae Khuda kar de apna khaas karam
-# source_id: nohayonline:085f8051be593eb5d0ca
-# source_url: https://www.nohayonline.com/details_content.php?id=1785
-# raw_sha256: 4e242f4c40fce329408d24b04b3be3b5d147e1211045df33b22728eb2f6874b9
 ---
 حال دنیا کا دیکھ کر پیہم
 سب کو اب فکر ہے محرم کی

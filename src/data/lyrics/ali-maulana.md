@@ -136,9 +136,6 @@ romanLyrics: |-
   Malik-e-kaun o makaṅ
   Saat pardoṅ meiṅ nihaṅ
   Hai aqidat ki azaaṅ
-# source_id: nohayonline:24e5a891a013f1e5d2b5
-# source_url: https://www.nohayonline.com/details_content.php?id=1305
-# raw_sha256: 8072321a73e9665c37e6d2cd5a4cb1e1f3a27409b25eb71af0dedbe00be84b25
 ---
 تا صورت پیوند جہاں بود علی بود
 تا نقش زمیں بود زماں بود علی بود

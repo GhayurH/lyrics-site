@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:76aeb01f5847b49664f1
-# source_url: https://www.nohawriteups.org/do-shahzaday-aun-o-mohammad-wich-karbal/
-# original_html: snapshots/nohawriteups/original_html/76aeb01f5847b49664f1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/76aeb01f5847b49664f1.json
-# api_content_sha256: b0f69af3712b03867675f8c21d7aa9818693279b7b5cef44ff62baab70c58c15
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Do Shahzaday, Aun o Mohammad wich Karbal de maray gaye

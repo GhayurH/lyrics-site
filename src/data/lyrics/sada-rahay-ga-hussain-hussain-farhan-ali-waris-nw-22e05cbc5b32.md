@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:22e05cbc5b321ff7c0e3
-# source_url: https://www.nohawriteups.org/sada-rahay-ga-hussain-hussain-farhan-ali-waris/
-# original_html: snapshots/nohawriteups/original_html/22e05cbc5b321ff7c0e3.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/22e05cbc5b321ff7c0e3.json
-# api_content_sha256: 8d683f76e733f6db2e23707b1a37d171e2c6740bbd9e5bf60b1af9608663d834
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 HUSSAIN(a.s.) HUSSAIN(a.s.)

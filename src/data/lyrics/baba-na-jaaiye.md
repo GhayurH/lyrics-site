@@ -49,9 +49,6 @@ romanLyrics: |-
   Yasir ye ajr-e-haq hai imaamat ki hai azaaṅ
   Maula Imam-e-waqt ki aati hai ye sada
   Sajid suna Ali ka ye nauha na jaaiye
-# source_id: nohayonline:e602478271ba2e5bcaeb
-# source_url: https://www.nohayonline.com/details_content.php?id=1673
-# raw_sha256: 9eae9e3562aeb7f3700bc7b52fa7491ea44f7685f65a9a4dbd4d4c9f99d9ffd2
 ---
 
 بابا نہ جائیے بابا نہ جائیے

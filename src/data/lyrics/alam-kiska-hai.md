@@ -53,9 +53,6 @@ romanLyrics: |-
   9
   Ye jahaṅ wale jise mohr-e-nabuwwat samjhe
   Dosh-e-Ahmad pe Muhib naqsh-e-qadam kis ka hai
-# source_id: nohayonline:ccca943e77d3c075c462
-# source_url: https://www.nohayonline.com/details_content.php?id=1094
-# raw_sha256: 28d2fc9b4ca687ad95aa2fba94be5afff20d8c37d31c3540ac63f9c4cfeb6ac2
 ---
 دبدبا کس کا حشم کس کا علم کس کا ہے
 میرے غازی کے مقابل ہو یہ دم کس کا ہے

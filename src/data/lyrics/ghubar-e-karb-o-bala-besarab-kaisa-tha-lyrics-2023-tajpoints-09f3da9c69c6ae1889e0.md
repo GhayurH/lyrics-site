@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:09f3da9c69c6ae1889e0
-# source_url: https://tajpoints.com/2023/04/ghubar-e-karb-o-bala-besarab-kaisa-tha.html
-# raw_sha256: 3d1f07ff8c181835c5b08c8acaebd595eff6de20d0cea8dbb4b68455a8c5e4cd
 ---
 
 Ghubar e Karb o Bala Besarab Kaisa Tha.

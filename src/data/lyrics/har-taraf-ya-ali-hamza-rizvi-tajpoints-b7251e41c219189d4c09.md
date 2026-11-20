@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7251e41c219189d4c09
-# source_url: https://tajpoints.com/2024/01/har-taraf-ya-ali-hamza-rizvi-lyrics-in.html
-# raw_sha256: 356ad9720a3343563c7a4122888598be0bbcae95f8f7af12a2f3553d77038fea
 ---
 
 1

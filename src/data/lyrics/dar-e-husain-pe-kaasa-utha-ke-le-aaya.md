@@ -50,9 +50,6 @@ romanLyrics: |-
   9
   Paye nijaat mere paas kya tha Nur Ali
   Bas ik nishaan-e-aza tha utha ke le aaya
-# source_id: tajpoints:83c30461e0e441dd947b
-# source_url: https://tajpoints.com/2023/02/dar-e-hussain-pe-kasa-utha-ke-le-aaya.html
-# raw_sha256: e110eee30fbebfc8861bec618d66f2ba6afcc23dbe178cbc5163e75320066d91
 ---
 
 درِ حسین پہ کاسہ اٹھا کے لے آیا

@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Bimaar ko ghash aa gaya zindaan-e-bala meiṅ
   Kuch der to ab nauha-e-zanjir na hoga
-# source_id: nohayonline:66dfacfa7ad7d95d14ad
-# source_url: https://www.nohayonline.com/details_content.php?id=1056
-# raw_sha256: 6feed3ac70741c0ed6c729d1fc48015adc7bbceb6f37f4f53520d5aae0b710a8
 ---
 صدائے ماتم شبیر آج تک نہ دبی
 غرور ٹوٹ گیا کس نے کب سنا ہوگا

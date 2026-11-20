@@ -105,9 +105,6 @@ romanLyrics: |-
   Baaba mere Husain ki tauhin ki gai
   Angushtari pe nazreṅ thiṅ ik badnasib ki
   Ungli laiṅ ne kaati hai baaba gharib ki
-# source_id: nohayonline:dc73a4e67784ff079a69
-# source_url: https://www.nohayonline.com/details_content.php?id=2784
-# raw_sha256: f0fb9a3193c50ac1448df59127e08fdabdee0e6417c440a85b62666b14f23973
 ---
 اے رونے والوں آئیں گی محشر میں فاطمہ
 بی‌بی کا حال دیکھ کے روئیں گے انبیا

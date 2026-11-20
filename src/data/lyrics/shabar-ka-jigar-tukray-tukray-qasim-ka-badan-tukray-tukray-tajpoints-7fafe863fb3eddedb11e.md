@@ -8,9 +8,6 @@ poet: "Bilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7fafe863fb3eddedb11e
-# source_url: https://tajpoints.com/2019/01/shabar-ka-jigar-tukray-tukray-qasim-ka.html
-# raw_sha256: 618ac7125ec4c6db7e34a1dbfdd879850ebc98f22de46fe3046e0111553556f6
 ---
 
 1

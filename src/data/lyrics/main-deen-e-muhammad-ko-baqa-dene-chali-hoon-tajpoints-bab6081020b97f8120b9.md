@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bab6081020b97f8120b9
-# source_url: https://tajpoints.com/2020/09/main-deen-e-muhammad-ko-baqa-dene-chali.html
-# raw_sha256: 11eba00816325e55aa7cfec786b4a05d2a1929da05113a4b4c548f7770d88888
 ---
 
 1

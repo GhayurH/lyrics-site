@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5d8af8fce43d261ac1d2
-# source_url: https://tajpoints.com/2026/06/hamary-ghar-main-aaj-aayen-bibi.html
-# raw_sha256: 9175d3108838a2da3e3fbaf6652ed05e33d4f329ab3e40b58ba764bd0d6952cd
 ---
 
 1

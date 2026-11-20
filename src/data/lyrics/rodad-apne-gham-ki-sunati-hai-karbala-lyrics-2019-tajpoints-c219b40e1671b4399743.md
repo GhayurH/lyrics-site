@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c219b40e1671b4399743
-# source_url: https://tajpoints.com/2019/10/rodad-apne-gham-ki-sunati-hai-karbala.html
-# raw_sha256: ef3a261bd0b51335ee6f535383e948f470a232d1ec114a3d234e2bb047873640
 ---
 
 Rodad Apne Gham Ki Sunati Hai Karbala

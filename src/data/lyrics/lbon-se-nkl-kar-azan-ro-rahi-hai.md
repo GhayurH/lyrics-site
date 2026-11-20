@@ -8,9 +8,6 @@ reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:afafe0e485fb8cfe41da
-# source_url: https://www.ziyaraat.net/api/noha/226
-# raw_sha256: dd3fa5e17bb3e5ef4113478668724cc0d19d65d86611374896ed3e695bbb93fd
 romanLyrics: |-
   Laboṅ se nikal kar azaṅ ro rahi hai
 

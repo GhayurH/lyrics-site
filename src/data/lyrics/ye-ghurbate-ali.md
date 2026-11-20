@@ -52,9 +52,6 @@ romanLyrics: |-
   Zauja sahabiyoṅ ke darbar meiṅ gayi thi
   Beti sharabiyoṅ ke darbar meiṅ gayi hai
   Ye ghurbate ali hai...
-# source_id: nohayonline:aa5cdb812a2051087b59
-# source_url: https://www.nohayonline.com/details_content.php?id=1036
-# raw_sha256: fb14da8b817961149486a8d93d6b0b4f302d5019e0a7ca28cdb7661a317c3edb
 ---
 
 ۱

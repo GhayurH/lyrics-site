@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:9095c9f90efd050880ca
-# source_url: https://www.ziyaraat.net/api/noha/2208
-# raw_sha256: 6d9507e0eb61ccf6a0299ef214b2bb2fccc4debb628a204e06511ca5a8ba018b
 ---
 
 Tanhai may zindan ki yeh kehti thi Sakina

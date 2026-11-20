@@ -32,12 +32,6 @@ romanLyrics: |-
   5
   Khatam ho sakti nahi jo hashr tak bhi ae Amir
   Dard o gham ki ek aisi dastaṅ Sajjad hai
-# source_id: nohayonline:79abf7ead8a50d60f7f4
-# source_url: https://www.nohayonline.com/details_content.php?id=2229
-# raw_sha256: 34a8b30d71e01dbb129110c22aeb535f8a54655091479d4a27a9c898c5e69868
-# source_id: ziyaraat:012253124a86c1e56a88
-# source_url: https://www.ziyaraat.net/api/noha/197
-# raw_sha256: 807890bbc1c3a84806651e558c8b2ce4bba890e7262d2964b1bc50cd43c94cdb
 ---
 
 تازیانے شمر کے اور نا توان سجاد ہے

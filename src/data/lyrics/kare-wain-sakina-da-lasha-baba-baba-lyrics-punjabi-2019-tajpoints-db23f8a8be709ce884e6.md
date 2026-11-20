@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:db23f8a8be709ce884e6
-# source_url: https://tajpoints.com/2019/10/kare-wain-sakina-da-lasha-baba-baba.html
-# raw_sha256: 54acfd1b1431c5770ffe83901b7383b10cfd339602def1652a49c1a848464e17
 ---
 
 Kare Wain Sakina Da Lasha Baba Baba.

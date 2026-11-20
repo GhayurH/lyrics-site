@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:e4829d80331eaa74169d
-# source_url: https://www.ziyaraat.net/api/noha/2273
-# raw_sha256: 85c5724d50e0964df995ccdb5c70adffc475ccbcdc5b4377ac68ae400cba72b0
 ---
 
 Doobi hui dukh ke saaghar may Suraj ke sunehri thali thi

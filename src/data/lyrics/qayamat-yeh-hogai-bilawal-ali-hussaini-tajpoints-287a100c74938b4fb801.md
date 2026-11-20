@@ -8,9 +8,6 @@ poet: "Hatif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:287a100c74938b4fb801
-# source_url: https://tajpoints.com/2021/08/qayamat-yeh-hogai-bilawal-ali-hussaini.html
-# raw_sha256: 41cd04918ad105ace799b51d2e922e4023fcd3478e434ffd1c58f22f3565bfe4
 ---
 
 1

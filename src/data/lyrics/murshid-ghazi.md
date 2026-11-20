@@ -82,15 +82,6 @@ romanLyrics: |-
   Us waqt julus-e-maatam meiṅ
   Har maatam daar uthaata hai
   Alam mere murshid Ghazi ka
-# source_id: nohayonline:d2d4bb1143339650325d
-# source_url: https://www.nohayonline.com/details_content.php?id=3038
-# raw_sha256: d6821e6d3e9c74dabd98c6764016361e75cc4ecb356cff81103083a9577f7231
-# source_id: nohawriteups:54af9f2644fb311e7c7c
-# source_url: https://www.nohawriteups.org/murshid-ghazi-nadeem-sarwar/
-# original_html: snapshots/nohawriteups/original_html/54af9f2644fb311e7c7c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/54af9f2644fb311e7c7c.json
-# api_content_sha256: cae201e132ce3bf619da9cc72672768d4f810dcb12403db13f22183a20e4edac
-# editorial_note: Matching source witness(es) consolidated into the existing bilingual edition; repeated vocal refrains/footers contained no unique stanzas.
 ---
 
 میں نوکر ہاں میں نوکر

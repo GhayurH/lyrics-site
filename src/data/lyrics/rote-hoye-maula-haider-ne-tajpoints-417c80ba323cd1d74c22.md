@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:417c80ba323cd1d74c22
-# source_url: https://tajpoints.com/2020/05/rote-hoye-maula-haider-ne-lyrics-in.html
-# raw_sha256: 42319c3109b2ca4cf529885bd4827689c042bf2f887e76bf16ce39b59ec39499
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:58fd3c773a02f629bb57
-# source_url: https://www.nohawriteups.org/veerna-tera-khali-jhoola-jhulaawan/
-# original_html: snapshots/nohawriteups/original_html/58fd3c773a02f629bb57.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/58fd3c773a02f629bb57.json
-# api_content_sha256: 88798735685de78714858dd7e36576369131473dc69ad73a316e111114d0d734
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Veerna Tera Khali Jhoola Jhulaawan

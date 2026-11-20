@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5cf3e48acd13f9a461d6
-# source_url: https://tajpoints.com/2023/05/na-dafnan-dita-aye-ainj-pamal-kita-aye.html
-# raw_sha256: 591f6430bd6789189a280adf75833f48eca1a14b3a9f8fb95bd9e33df126db0e
 ---
 
 1

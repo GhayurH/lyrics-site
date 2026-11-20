@@ -8,9 +8,6 @@ poet: "Jary"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e7b62f027bda049944b
-# source_url: https://tajpoints.com/2021/08/naiza-syed-mudassir-mehdi-lyrics-in.html
-# raw_sha256: cbb8badc5195e9c7e397e5923021d6fec2430a17ce40165676f90f59cc37767f
 ---
 
 Kar Gaya Zakhmi Sheh-e-Dein Ka Kaleja Naiza.

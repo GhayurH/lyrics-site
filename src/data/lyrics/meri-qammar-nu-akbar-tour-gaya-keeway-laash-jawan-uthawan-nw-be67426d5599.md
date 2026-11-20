@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:be67426d5599c9ce07a7
-# source_url: https://www.nohawriteups.org/meri-qammar-nu-akbar-tour-gaya-keeway-laash-jawan-uthawan/
-# original_html: snapshots/nohawriteups/original_html/be67426d5599c9ce07a7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/be67426d5599c9ce07a7.json
-# api_content_sha256: 3ad1365991ae7a2ec102724ca69ecfdbe2eb152d8a3dc5b830aee934489d8224
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Meri Qammar Nu Akbar Tour Gaya Keeway Laash Jawan Uthawan

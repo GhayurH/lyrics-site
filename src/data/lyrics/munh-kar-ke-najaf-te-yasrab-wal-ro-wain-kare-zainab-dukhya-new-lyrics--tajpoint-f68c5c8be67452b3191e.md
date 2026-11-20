@@ -8,9 +8,6 @@ poet: "Ijaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:f68c5c8be67452b3191e
-# source_url: https://tajpoint.com/munh-kar-ke-najaf-te-yasrab-wal-ro-wain-kare-zainab/
-# raw_sha256: 4bcc8152d464d1527ee01b8d91dbe7c8312cbc35099d1dbeab1152067f18a9d8
 ---
 
 1

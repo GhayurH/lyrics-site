@@ -8,9 +8,6 @@ poet: "Sardar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f68a6b5b3cc8ff9b1c75
-# source_url: https://tajpoints.com/2021/04/wain-kare-kulsoom-te-zainab-babay-nu.html
-# raw_sha256: f72416e1605fa3b9b9e37c0202f2cfcf5310e834d29e1291f0d5dd22b8b3a7b1
 ---
 
 Wain Kare Kulsoom Te Zainab Babay Nu Gal La Ke.

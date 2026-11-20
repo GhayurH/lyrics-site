@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:22b98f48b91aad9c7bc6
-# source_url: https://www.nohawriteups.org/zahra-de-janazay-te-zainab-ro-ro-kay-vain-ay-kardi-ay/
-# original_html: snapshots/nohawriteups/original_html/22b98f48b91aad9c7bc6.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/22b98f48b91aad9c7bc6.json
-# api_content_sha256: 0a77c0d9f9b8fd4d568bf3dc022c76b2b708e27c5c157aeaa7fcf7eeab3a44fd
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Zahra De Janazay Te Zainab Ro Ro Kay Vain Ay Kardi Ay.

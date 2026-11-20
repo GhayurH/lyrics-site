@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:24b348d38eca89df0550
-# source_url: https://tajpoints.com/2023/07/hal-ata-hussain-sarwar-raza-karbalai.html
-# raw_sha256: b44cae7736fbe0fea703a43afdf8de5c75f8865091f5f44ce08cffe0b9573bc9
 ---
 
 Ibtida Hussain, Inteha Hussain, Na Khuda Hussain, Hal Atta Hussain.

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:49cbf4a9c2f71af7a474
-# source_url: https://tajpoints.com/2019/02/hum-ko-darbar-se-lotaya-hai-jhota-keh.html
-# raw_sha256: d4d5268b92fe0c3cb7740f2504fc0af2f3f0918b58dba3249b593e70e31c836d
 ---
 
 Hum Ko Darbar Se Lotaya Hai Jhota Keh Kar.

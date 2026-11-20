@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ab06f38f159257b6cade
-# source_url: https://tajpoints.com/2018/09/akbar-teri-sughra-nu-haye-yaad-jadon.html
-# raw_sha256: 75cca1a938669271c283921b3e30a3165519a1eef4fc5c5b2781ae1447d5d4e9
 ---
 
 1

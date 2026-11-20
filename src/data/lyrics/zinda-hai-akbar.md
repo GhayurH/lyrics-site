@@ -48,9 +48,6 @@ romanLyrics: |-
   Noha Ali Akbar ka hai Maisam ki zabani
   Aaṅkhoṅ se Raza hoti hai ashkoṅ ki rawani
   Ehsaas tere gham ka barha jaata hai Akbar
-# source_id: nohayonline:c4d9543733467a1e26f6
-# source_url: https://www.nohayonline.com/details_content.php?id=2544
-# raw_sha256: aba5371faaa51e2bb5ce8b4871f454860aa346e6ce70940b19516250428a4091
 ---
 تم ہو گئے بے جاں پدر زندہ ہے اکبر
 ایسا بھی زمانے میں کہیں ہوتا ہے اکبر

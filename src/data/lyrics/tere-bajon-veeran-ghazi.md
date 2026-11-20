@@ -7,15 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3155f706f008576a26a9
-# source_url: https://www.nohawriteups.org/tere-bajon-veeran-ghazi-ainj-2/
-# original_html: snapshots/nohawriteups/original_html/3155f706f008576a26a9.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3155f706f008576a26a9.json
-# api_content_sha256: 28f8aecfebc84c76cf13bf83486b7a28fdd70e5b6558a1ce85010aed583695d7
-# source_id: tajpoints:3edc7f5c5c06056de718
-# source_url: https://tajpoints.com/2021/09/tere-bajon-veeran-ghazi-ali-zamin.html
-# raw_sha256: 542b14567728f416920230e96e0ef8bc82fd47f22926ff13e874c6ecfcb83460
-# editorial_note: Consolidated two Roman Punjabi source witnesses into 14 two-line stanzas. Retained the introductory line about the burned tents and captivity found only in Nohawriteups; all other verses match the fuller Tajpoints witness. Original spelling remains for Punjabi transliteration review.
 ---
 
 Lut pay gay sar gay khaime, assi qaidi ho gaye

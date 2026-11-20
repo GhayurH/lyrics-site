@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f92b4d83f15365a8b36a
-# source_url: https://tajpoints.com/2024/08/gham-e-sheh-hum-manaein-gaey-qamar-abbas.html
-# raw_sha256: 4bdbce5d92224bbb6ecc4b1c067e83fae5fd537bebf5110dc71540320bdb4fc8
 ---
 
 Gham e Sheh Hum Manaein Gaey Qamar Abbas Naqvi

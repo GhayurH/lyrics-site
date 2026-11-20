@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8283acc146a497de276c
-# source_url: https://tajpoints.com/2025/10/akbar-aa-teri-bhain-de-muk-gaye-sa.html
-# raw_sha256: 20758d675d4401c3f228955243b9d95c28441181096ecef018b8b966a6bf1dc0
 ---
 
 1

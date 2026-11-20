@@ -52,9 +52,6 @@ romanLyrics: |-
   Hur o malak naale karne lage gham may
   Majlis-e-sarwar may kohraam bapa hai
   Chin gayi sar se rida...
-# source_id: nohayonline:df390bcb3680c2ae5f22
-# source_url: https://www.nohayonline.com/details_content.php?id=349
-# raw_sha256: de550be081a7ca3ff3551af01ca5cf7a1c1f2cadefb490811b6e78ed25cdee65
 ---
 
 ۱

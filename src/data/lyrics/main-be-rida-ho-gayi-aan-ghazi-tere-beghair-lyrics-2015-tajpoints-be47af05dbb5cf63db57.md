@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:be47af05dbb5cf63db57
-# source_url: https://tajpoints.com/2023/05/main-be-rida-ho-gayi-aan-ghazi-tere.html
-# raw_sha256: ec3596a0c4229d045f35271c22d15a3564d8c11366f4be6653115f2590fd4bad
 ---
 
 1

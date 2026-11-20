@@ -105,9 +105,6 @@ romanLyrics: |-
   Tegh-e-ajal ne qata kiya rishta-e-hayaat
   Tarka tha nur ka ke safar kar gaye Ali
   Sab Shia beimam hue mar gaye Ali
-# source_id: nohayonline:b50fb7ccdaf35a67fd80
-# source_url: https://www.nohayonline.com/content_marsiya.php?id=13
-# raw_sha256: ebcedc1f4b62c537461dc665d9210ceb519724b1ce92bb72518a221dfb6c512c
 ---
 ۱
 ایماں کی جان کیا ہے محبت علی کی ہے

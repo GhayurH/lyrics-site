@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:04194ff00970a24726bf
-# source_url: https://tajpoints.com/2023/02/suno-suno-zainab-de-ahsan-suno-asghar.html
-# raw_sha256: 0cc7479e2673633b5ff69b9927276e9cd707b0df610ec30eee6c5de4a167a54c
 ---
 
 Suno Suno Zainab De Ahsan Suno Asghar Khan.

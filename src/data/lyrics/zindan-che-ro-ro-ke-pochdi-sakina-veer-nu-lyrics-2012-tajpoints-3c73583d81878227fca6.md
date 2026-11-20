@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3c73583d81878227fca6
-# source_url: https://tajpoints.com/2022/09/zindan-che-ro-ro-ke-pochdi-sakina-veer.html
-# raw_sha256: 8233d8b01c49c12004afca2f729c2a63c358e14d35412066ee237643cf30962f
 ---
 
 1

@@ -53,15 +53,6 @@ romanLyrics: 'Andheray detay hain pehra lahad pe bibi ki
   Khuda kary ga Takallum wo din bhi aaye ga
 
   Parhon ga jaa ke ye noha lehad pe bibi ki'
-# source_id: nohayonline:3a96c506069f4eee27e1
-# source_url: https://www.nohayonline.com/details_content.php?id=1418
-# raw_sha256: 0d6d870c1993292500498492f452851f09fec56af9225564ab4f92cba273eb9d
-# source_id: ziyaraat:18affb42f09409ff9f4b
-# source_url: https://www.ziyaraat.net/api/noha/2573
-# raw_sha256: 73608a318428f30a10d608ee19e17da0137fae85fdf426619430c2a05e40f304
-# source_id: ziyaraat:a3f6718e746c52daad80
-# source_url: https://www.ziyaraat.net/api/noha/2221
-# raw_sha256: 8095add6b27cb413b0a81ac114c60446405a45b66db1ee43676077266f3d66fa
 ---
 
 اندھیرے دیتے ہیں پہرہ لحد پہ بی‌بی کی

@@ -8,9 +8,6 @@ poet: "Ahsan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7aad98bd6dc467674707
-# source_url: https://tajpoints.com/2021/05/ghar-mein-allah-ke-ali-par-yun-syed.html
-# raw_sha256: 7384ac45f2ac3d1f2f4a7087a3fa92e3252e9b0274182220bdd1bea0b901a436
 ---
 
 1

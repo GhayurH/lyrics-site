@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fcf5e6499c505b03bd38
-# source_url: https://tajpoints.com/2023/09/kalma-go-ney-fatima-ko-qaim-bhojani.html
-# raw_sha256: cb2a1b2649712ff5f6a5c5cb7b92b7096ce2fa9e95eec069499c32f3ef59da50
 ---
 
 Kalma Go Ney Fatima Ko Qaim Bhojani.

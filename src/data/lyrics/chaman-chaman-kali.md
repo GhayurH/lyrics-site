@@ -72,9 +72,6 @@ romanLyrics: |-
   Wo Mustafa ka jaanashiṅ dua-e-Mahshar-e-haziṅ
   Kiya hai laaj jab kahiṅ madad ko aa gaye wahiṅ
   Sainjali sainjali Ali Ali Ali Ali
-# source_id: nohayonline:504e37592d805ac45d4e
-# source_url: https://www.nohayonline.com/details_content.php?id=633
-# raw_sha256: 49a76ab8a6b4f2e2826f75c833e9af3326bb853c574cf0b37c95845f81abcf46
 ---
 
 چمن چمن کلی کلی علی علی علی علی

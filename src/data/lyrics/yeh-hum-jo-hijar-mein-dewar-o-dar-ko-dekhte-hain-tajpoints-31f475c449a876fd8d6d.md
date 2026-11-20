@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:31f475c449a876fd8d6d
-# source_url: https://tajpoints.com/2017/02/yeh-hum-jo-hijar-mein-dewar-o-dar-ko.html
-# raw_sha256: e6f70530c3774ba1fcbc5329bdf5fcfd5397c693dce70713dc99a6b28e983964
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f1b415395d6eb3bb5890
-# source_url: https://tajpoints.com/2018/02/haye-baba-kalma-gowaan-teri-zahra-nu.html
-# raw_sha256: 5a8d05f62840fe9db459ac7a77f69266b8176c1383a646ce26e3795579f226ac
 ---
 
 1

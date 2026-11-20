@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:727316b08073e04d667c
-# source_url: https://tajpoints.com/2017/02/maa-sochti-hai-kaise-tamana-baiyaan-ho.html
-# raw_sha256: 432c5c9052647b1c0d38ebf14e98ca1a97f93c3fe1b22df2dfb48656edbe9955
 ---
 
 Maa Sochti Hai Kaise Tamana Baiyaan Ho Asghar Khan.

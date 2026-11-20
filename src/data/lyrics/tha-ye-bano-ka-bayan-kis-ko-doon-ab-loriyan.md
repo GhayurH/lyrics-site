@@ -50,9 +50,6 @@ romanLyrics: |-
   Ashk ankhon se baha kar, us ne ro ro kar kaha
   Haey wo Asghar ki maa, Uff wo tera imtehaan
   Dhoondti phirti hay maadar hay mera Asghar kahaan
-# source_id: ziyaraat:0910c59ee807be9e9b41
-# source_url: https://www.ziyaraat.net/api/noha/2120
-# raw_sha256: b139a0a53933ea06f0e918eb689706a35455c78556c1c98bc7f767fe9eecad8d
 ---
 
 تھا یہ بانو کا بیاں، کس کو دوں اب لوریاں

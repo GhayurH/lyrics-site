@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e02d8843e047e87b9a07
-# source_url: https://www.nohawriteups.org/khoon-e-hussain-chaadar-e-zainab-ki-daastan/
-# original_html: snapshots/nohawriteups/original_html/e02d8843e047e87b9a07.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e02d8843e047e87b9a07.json
-# api_content_sha256: 2bee73eb0eb97ba23fd6265148eb20dedc1580946f03a3f5dc836b44b80c4f32
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Khoon-e-Hussain Chaadar-e-Zainab Ki Daastan

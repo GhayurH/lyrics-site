@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:ea209768976b4cfc92b8
-# source_url: https://www.ziyaraat.net/api/noha/2852
-# raw_sha256: 6165797cce3eb5b902eddd59aaf6e65afddf008e11b0b40a2bc8455f7d044079
 ---
 
 عباس لوٹ آؤ

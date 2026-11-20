@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bf48c997e29576118a63
-# source_url: https://tajpoints.com/2020/11/hussain-ki-khatir-lyrics-in-urdu-and.html
-# raw_sha256: 44e0e39375526637e30c1b26f3e100d35a1f8f9f1e88362dc8d6cc7246ea9ab3
 ---
 
 Hoi Hai Khalq Yeh Dunya Hussain Ki Khatir.

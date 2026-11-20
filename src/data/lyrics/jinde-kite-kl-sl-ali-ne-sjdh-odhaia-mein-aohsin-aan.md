@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:52ebc1e533e12ec26b03
-# source_url: https://www.ziyaraat.net/api/noha/1271
-# raw_sha256: d0ce9c072bb859a028a2a657f02fcac6abfecab054722cce92a73902e9b2f6c5
 ---
 
 جیندے کیتے کل صَلِ علیٰ ٰ نے سجدہ ودھایا میں اُوحسینؑ آں

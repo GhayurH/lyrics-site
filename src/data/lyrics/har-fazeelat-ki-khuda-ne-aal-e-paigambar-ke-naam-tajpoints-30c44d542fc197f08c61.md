@@ -8,9 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:30c44d542fc197f08c61
-# source_url: https://tajpoints.com/2018/05/har-fazeelat-ki-khuda-ne-aal-e.html
-# raw_sha256: 1d3dacc330cd4e14feaa69aa79d6e106ee205c5461797d32f0784fc8deed00be
 ---
 
 1

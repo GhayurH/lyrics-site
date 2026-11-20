@@ -8,9 +8,6 @@ reciter: "Not Available"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:0813f7b4538a08fa376b
-# source_url: https://www.ziyaraat.net/api/noha/2532
-# raw_sha256: 26fb5fc0f772600e0f74ddae12dcbeeebae455cc1026bfc583d98c209ef053d4
 ---
 
 سر رکھ کے ہے اخیری سجدے چہ مرتضیؐ نے

@@ -44,9 +44,6 @@ romanLyrics: |-
   Alwida dureeda tan alwida dureeda tan
   Khwahara khuda hafiz khwahara khuda hafiz
   Zainab-e-hazin-e-man khwahara khuda hafiz
-# source_id: nohayonline:258fae3f4d2efa287eb4
-# source_url: https://www.nohayonline.com/details_content.php?id=1860
-# raw_sha256: 8a0416d4f1b21e9f5358309d3b14b9ccefc633621ba70be781dfdfc81efb0335
 ---
 
 ۱

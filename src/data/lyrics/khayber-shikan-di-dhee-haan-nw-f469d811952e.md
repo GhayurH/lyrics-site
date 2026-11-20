@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f469d811952ec2942d3f
-# source_url: https://www.nohawriteups.org/khayber-shikan-di-dhee-haan/
-# original_html: snapshots/nohawriteups/original_html/f469d811952ec2942d3f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f469d811952ec2942d3f.json
-# api_content_sha256: a09360dc4099b1cc52448a6be34eee3efb566b313a6d40d26a0b9d9cf4b1c11e
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Khayber shikan di dhee haan, Zainab hai mera naa.

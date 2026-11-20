@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7e6e54f2c47c548b5447
-# source_url: https://www.ziyaraat.net/api/noha/2647
-# raw_sha256: 236f42a7dd41783878581f5bd17a181204f7a976815d73aea55ae1d886843733
 ---
 
 Wajahat Hussain

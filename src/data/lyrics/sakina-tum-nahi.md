@@ -52,9 +52,6 @@ romanLyrics: |-
   Raza ho aap ki Maula
   Likha hai us ne ye nauha
   Sakina tum nahiṅ rona
-# source_id: nohayonline:796681dc281b973fb43e
-# source_url: https://www.nohayonline.com/details_content.php?id=1773
-# raw_sha256: b757fea74a63c8ae271e76ae4db38141dc0ea1ec0dab81c5839257fb60102009
 ---
 
 تڑپ کر یوں نہ تڑپانا

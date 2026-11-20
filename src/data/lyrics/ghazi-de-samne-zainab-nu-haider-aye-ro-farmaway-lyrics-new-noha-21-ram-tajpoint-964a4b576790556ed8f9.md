@@ -9,9 +9,6 @@ reciter: "Babu Khan Party Sialkot"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:964a4b576790556ed8f9
-# source_url: https://tajpoint.com/ghazi-de-samne-zainab-nu-haider-aye-ro-farmaway/
-# raw_sha256: 1e628cd76fd5d8a53d5e049e4f16bb89809ec9cdf7a9f7da4966967feccf6d57
 ---
 
 Ghazi De Samne Zainab Nu Haider Aye Ro Farmaway.

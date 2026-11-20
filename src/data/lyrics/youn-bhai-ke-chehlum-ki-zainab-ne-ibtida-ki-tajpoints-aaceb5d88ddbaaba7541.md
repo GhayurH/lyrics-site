@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aaceb5d88ddbaaba7541
-# source_url: https://tajpoints.com/2019/10/youn-bhai-ke-chehlum-ki-zainab-ne.html
-# raw_sha256: b7353090c6bbff7685bb432b38f30811292a72a245ef4cf40f8ad9189a7cdb64
 ---
 
 1

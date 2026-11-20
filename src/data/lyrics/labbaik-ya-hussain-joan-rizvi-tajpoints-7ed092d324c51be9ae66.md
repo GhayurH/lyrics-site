@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7ed092d324c51be9ae66
-# source_url: https://tajpoints.com/2022/09/labbaik-ya-hussain-joan-rizvi-lyrics-in.html
-# raw_sha256: 14896e4e37f5233ebbc60ddc19ae918a4c5a7fb22c3f5edb537f2df7f976ae55
 ---
 
 1

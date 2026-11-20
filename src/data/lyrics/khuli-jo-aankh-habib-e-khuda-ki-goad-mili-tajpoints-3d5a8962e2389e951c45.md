@@ -8,9 +8,6 @@ poet: "Ejaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3d5a8962e2389e951c45
-# source_url: https://tajpoints.com/2018/01/khuli-jo-aankh-habib-e-khuda-ki-goad.html
-# raw_sha256: 02df44cc478195fb9a57e9c35487293e7833c7008b1494cf39dd55598783e0fd
 ---
 
 Khuli Jo Aankh Habib-e-Khuda Ki Goad Mili.

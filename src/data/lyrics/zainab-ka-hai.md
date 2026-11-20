@@ -47,9 +47,6 @@ romanLyrics: |-
   8
   Rehaan o Shanawar ne Sarwar ne Ali Ji ne
   Nauhoṅ ki ibaadat se aabaad rakhe sine
-# source_id: nohayonline:eee8334be67cbf94850b
-# source_url: https://www.nohayonline.com/details_content.php?id=2507
-# raw_sha256: 8f2497fa7915ef8674b0de456bb38e8956de59e4be970f377323330dc65f74b5
 ---
 حسین حسین مولا
 

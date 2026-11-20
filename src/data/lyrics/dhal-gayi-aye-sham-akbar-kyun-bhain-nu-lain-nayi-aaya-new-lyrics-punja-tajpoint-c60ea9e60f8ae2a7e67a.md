@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:c60ea9e60f8ae2a7e67a
-# source_url: https://tajpoint.com/dhal-gayi-aye-sham-akbar-kyun-bhain-nu-lain/
-# raw_sha256: 2166862ba27e64084d716125311520bf33f05a00e5e72f85acf9f8b98aff062d
 ---
 
 1

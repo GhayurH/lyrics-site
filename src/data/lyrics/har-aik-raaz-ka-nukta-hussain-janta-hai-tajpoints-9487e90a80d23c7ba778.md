@@ -8,9 +8,6 @@ poet: "Turab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9487e90a80d23c7ba778
-# source_url: https://tajpoints.com/2017/05/har-aik-raaz-ka-nukta-hussain-janta-hai.html
-# raw_sha256: afe892cd14c91365dff3dd8537195d2720d1daf216305d961201f790eb8321e9
 ---
 
 KHuda Ki Marzi-o-Mansha Hussain Janta Hai.

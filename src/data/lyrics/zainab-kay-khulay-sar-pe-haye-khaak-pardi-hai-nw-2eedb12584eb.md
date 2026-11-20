@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2eedb12584eb2353ad12
-# source_url: https://www.nohawriteups.org/zainab-kay-khulay-sar-pe-haye-khaak-pardi-hai/
-# original_html: snapshots/nohawriteups/original_html/2eedb12584eb2353ad12.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2eedb12584eb2353ad12.json
-# api_content_sha256: 60ebd6608f6e1c69fc5b1f1f956e0ff6bd3c9a7e21fb1f393d327fe6c66b34ff
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Zainab Kay Khulay Sar Pe, Haye Khaak Pardi Hai

@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:ee909a73701debd461f2
-# source_url: https://www.ziyaraat.net/api/noha/1237
-# raw_sha256: 86ca2d2e4e9a06ff86a76f1cf0ceba561024eba92d1b1fec28d868173cfa58c4
 ---
 
 ایہا الناس شما را بحق خون حسینؑ

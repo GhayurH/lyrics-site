@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4cd554b4ec7d220a78af
-# source_url: https://tajpoints.com/2020/08/dowein-ronday-putar-ruqaiya-dey-lyrics.html
-# raw_sha256: 5690481c9348a632b4c1895ba8e22710b0ad2d7b580784c39e2dd5107e395ee2
 ---
 
 Dowein Ronday Putar Ruqaiya Dey Lyrics In Punjabi

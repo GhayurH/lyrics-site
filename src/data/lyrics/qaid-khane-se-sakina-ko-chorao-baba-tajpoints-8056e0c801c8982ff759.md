@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8056e0c801c8982ff759
-# source_url: https://tajpoints.com/2017/02/qaid-khane-se-sakinasa-ko-chorao-baba.html
-# raw_sha256: 24474d0320759bbd40ec6e82716721e66f5a81628b91cede52b4487f38623d7a
 ---
 
 1

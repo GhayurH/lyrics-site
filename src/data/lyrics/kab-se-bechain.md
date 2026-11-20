@@ -60,9 +60,6 @@ romanLyrics: |-
   Haaye taqdir ki mar kar bhi rahi zindaaṅ meiṅ
   Qabr bhi paayi to bachchi ne wahiṅ zindaaṅ meiṅ
   Kya khata ki thi Sakina ne bata do mujh ko
-# source_id: nohayonline:0f5e0427982c0e02ff07
-# source_url: https://www.nohayonline.com/details_content.php?id=2907
-# raw_sha256: 88f6abef82acaf4450469b30b439ff4fa85fe25ec0540318f29d5303b2d5eebc
 ---
 
 ہے عجب شام کے زندان میں کہرام بپا

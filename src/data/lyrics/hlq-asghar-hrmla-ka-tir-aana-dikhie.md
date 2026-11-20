@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:b984fcd6c05879ba7a1d
-# source_url: https://www.ziyaraat.net/api/noha/1274
-# raw_sha256: 3680eaaff4e255b87a3ed04de50403cf424bc4c51d5398b83cb559b4459c41a3
 ---
 
 حلق اصغرؑ حرملا کا تیر آنا دیکھئے

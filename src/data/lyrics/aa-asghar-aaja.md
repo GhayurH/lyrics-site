@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:78fcd20e67e10ff25b72
-# source_url: https://www.nohawriteups.org/aa-asghar-aaja/
-# raw_sha256: c7a9067f7232607f51ee65f0558e452cf6fe383dfd96a3e16de789b655216997
-# source_title_original: Aa Asghar Aaja
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aa Asghar aaja aa Asghar aaja
   Kuch to bolo aankhein kholo Asghar behan bulati hai

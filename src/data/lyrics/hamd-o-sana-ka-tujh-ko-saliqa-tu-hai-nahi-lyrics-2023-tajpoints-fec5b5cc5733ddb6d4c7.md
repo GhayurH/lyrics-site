@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fec5b5cc5733ddb6d4c7
-# source_url: https://tajpoints.com/2023/05/hamd-o-sana-ka-tujh-ko-saliqa-tu-hai.html
-# raw_sha256: 9a25c7a2d60a34b04191108a9ffde3d8eebaa432bb629cb0df46577b0bde85b7
 ---
 
 1

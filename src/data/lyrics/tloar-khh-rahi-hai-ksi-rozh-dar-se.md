@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:648db6a140281fe29c74
-# source_url: https://www.ziyaraat.net/api/noha/2026
-# raw_sha256: 92a657a8f2418853124e28968bf9cbbf65ef7a663211aec7c944c17d3502872a
 ---
 
 Talwar keh rahi hay kisi roza daar se

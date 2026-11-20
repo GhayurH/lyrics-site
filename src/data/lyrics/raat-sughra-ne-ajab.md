@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Khuṅ barasne laga Sajjad ki aankhoṅ se Nisar
   Sar-e-Zainab ko jo baazaar meiṅ uryaaṅ dekha
-# source_id: nohayonline:8d4826cc60f74477e45a
-# source_url: https://www.nohayonline.com/details_content.php?id=895
-# raw_sha256: cd91d14b4ca58a205bb5e1f0a4ec1d07803aa75b0225bfa8edd2503281ed7ed6
 ---
 رات صغرا نے عجب خواب پریشاں دیکھا
 دشت میں خون میں ڈوبا ہوا قرآں دیکھا

@@ -82,9 +82,6 @@ romanLyrics: |-
   Teri laash utha kar kis tarha
   Jaauṅ mai qaimon ke andar
   Aulaad agar hoti teri...
-# source_id: nohayonline:59a4f67ac7f40deea615
-# source_url: https://www.nohayonline.com/details_content.php?id=1649
-# raw_sha256: a4b06ec8f2e006fa10150f5f24842d7a2e5380d91417b2396234e1564bab1bdc
 ---
 
 ۱

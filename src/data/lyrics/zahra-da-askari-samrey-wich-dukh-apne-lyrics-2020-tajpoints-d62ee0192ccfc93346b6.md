@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d62ee0192ccfc93346b6
-# source_url: https://tajpoints.com/2020/10/zahra-da-askari-samrey-wich-dukh-apne.html
-# raw_sha256: a3afda6a04ef688a1cfeaebf626450c0eeaa41f3358e8d86fa62e7924d5caa0b
 ---
 
 1

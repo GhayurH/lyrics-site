@@ -10,9 +10,6 @@ reciter: "Mir Sajjad Mir"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:27f37dc0f0b96468330d
-# source_url: https://www.nohayonline.com/details_content.php?id=1702
-# raw_sha256: 649d45a314436655bc8481f37ce23472edfddb5f14c8ea495a6cb0f7cff461d8
 romanLyrics: |-
   Ae mere nur-e-nazar Ae mere lakht-e-jigar
   Baap aaya hai utho dekho to haal-e-pidar

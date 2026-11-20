@@ -45,9 +45,6 @@ romanLyrics: |-
   Yaad-e-Abbas meiṅ roti hai Sakina Irfan
   Aaj Maasuma ko zindaaṅ meiṅ qaraar nahiṅ
   Jis tarah misl-e-koi Haidar-e-Karraar nahiṅ
-# source_id: nohayonline:016732fc3b59a3f0122c
-# source_url: https://www.nohayonline.com/details_content.php?id=2292
-# raw_sha256: 2f9ed6a925760b3034eeda105893cafd33adf43ec1966366ab77aa83af7f05f7
 ---
 
 غازی عباس مولا عباس

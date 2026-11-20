@@ -42,9 +42,6 @@ romanLyrics: |-
   Sakina kafan ki ho un se sawali
   Baba kae qatiloon say her giz qafan na laena
   Hay yeh maeri wasiyaat khowahish maeri yehi hay
-# source_id: ziyaraat:69a80f832e5caea4f2e0
-# source_url: https://www.ziyaraat.net/api/noha/441
-# raw_sha256: b5c956b8bc6680c246622582d6ce42a7013560939a71c99a5d6041cc3a4fe92a
 ---
 
 زندان میں سکینہؑ عابدؑ سے کہ رہی ہے

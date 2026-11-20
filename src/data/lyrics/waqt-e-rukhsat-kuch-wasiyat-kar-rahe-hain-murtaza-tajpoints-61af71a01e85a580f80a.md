@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:61af71a01e85a580f80a
-# source_url: https://tajpoints.com/2023/06/waqt-e-rukhsat-kuch-wasiyat-kar-rahe.html
-# raw_sha256: fe0f6326438496e169218302a5488c69eb134d92fc8c32497c56777e1db1ca7e
 ---
 
 1

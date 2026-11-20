@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:81661316ad4fa150bd5e
-# source_url: https://tajpoint.com/teri-tangaan-che-dunya-taun-safar-veran-main-kar-jana/
-# raw_sha256: 248f4904bfd489655bfb2435285f53f9cb7ffc03068c61543c446673e80f6ef0
 ---
 
 Teri Tangaan Che Dunya Taun Safar Veran Main Kar Jana.

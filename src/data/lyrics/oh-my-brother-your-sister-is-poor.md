@@ -1,6 +1,5 @@
 ---
 title: "Oh My Brother, Your Sister Is Poor"
-alternateTitle: "Oh My Brother, There Seems No Cure"
 language: "English"
 lang: "en"
 direction: "ltr"

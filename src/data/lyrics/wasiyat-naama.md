@@ -74,9 +74,6 @@ romanLyrics: |-
   Tum dua karna yahi Aamir o Nayyar ke liye
   Un ko Allah har ek ranj se mahfuz rakhe
   Shaam tak aate haiṅ jo bahr-e-ziyaarat bhaiya
-# source_id: nohayonline:5e0d70133aa306cfca34
-# source_url: https://www.nohayonline.com/details_content.php?id=3121
-# raw_sha256: 2d995328dacb01f9056b624910cd66e5b19a027c4e75ff151cacf3a68f47256e
 ---
 سو جاتے تھے سکون سے بستر پہ اہل شام
 اک بچی روتی رہتی تھی زنداں کی خاک پر

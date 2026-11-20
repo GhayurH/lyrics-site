@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:666c33929727463b0ac0
-# source_url: https://tajpoints.com/2017/02/shaor-o-fikar-mein-tabandagi-hussainas.html
-# raw_sha256: a8a112c9316ff945941e7b4ba501132c491f5a66d119e12238fe7586a189c46e
 ---
 
 1

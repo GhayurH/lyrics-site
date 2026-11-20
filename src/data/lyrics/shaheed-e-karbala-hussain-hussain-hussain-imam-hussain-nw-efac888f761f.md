@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:efac888f761fbb2cf220
-# source_url: https://www.nohawriteups.org/shaheed-e-karbala-hussain-hussain-hussain-imam-hussain/
-# original_html: snapshots/nohawriteups/original_html/efac888f761fbb2cf220.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/efac888f761fbb2cf220.json
-# api_content_sha256: c9154869882c99613e380621afe21c26e90ca4f3009f6adbffbcd2d2dfbf1ff7
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Hussain Hussain Imam Hussain (or Hussain Hussain Hussain Hussain)

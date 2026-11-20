@@ -34,9 +34,6 @@ romanLyrics: |-
   Puchhegi agar mujh se Sughra
   Hai baap phuphi kis jaa mera
   Kya us se kahuṅ bolo bhaiya
-# source_id: nohayonline:039a610ea9ce1e0a9eb3
-# source_url: https://www.nohayonline.com/content_salaam.php?id=21
-# raw_sha256: 2dbd7d924e6e7239274af5968220e22d3edf09f93adf340aad2aec34f06965c7
 ---
 
 کہتی تھی یہی زینب دکھیا

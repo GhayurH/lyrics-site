@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5bb1a3f844eb6476c56f
-# source_url: https://tajpoints.com/2023/06/youn-safar-sham-ka-masooma-hai-nibahti.html
-# raw_sha256: a9bdfd72086827f22542ba1836fdc33bffa8ca7a8030d4109b73474612043525
 ---
 
 1

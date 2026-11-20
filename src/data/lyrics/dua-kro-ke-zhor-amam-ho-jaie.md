@@ -8,9 +8,6 @@ reciter: "Ali Safdar Rizvi"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:9713a29d48b238be984b
-# source_url: https://www.ziyaraat.net/api/noha/1241
-# raw_sha256: 8508f5658e607a42840a506f2ed9a123f79ceb720653d289ea58c1fd2d4a75c5
 ---
 
 ۱

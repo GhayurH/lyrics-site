@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Uruj din ka zikr-e-Husain se hai Uruj
   Ye aam kar gayi paighaam-e-khasta jaaṅ Zainab
-# source_id: nohayonline:4fee55b2ef2d985da82d
-# source_url: https://www.nohayonline.com/details_content.php?id=824
-# raw_sha256: 097bede7f9151c5555b1f1bf70d67fdcceff2b647ed898ec82a70847c52f8831
 ---
 تمام شب رہی خیموں کی پاسباں زینب
 ہزار رنج و مصیبت میں ناتواں زینب

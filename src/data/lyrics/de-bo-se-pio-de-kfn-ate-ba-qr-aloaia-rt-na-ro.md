@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:17cab7951af0f8f2324c
-# source_url: https://www.ziyaraat.net/api/noha/1272
-# raw_sha256: 58210f5b06ed66bb45b5595879c3749b65fb25a4190eaacc0ace7c618dd58d1a
-# source_id: ziyaraat:3819aaf556c60ee08549
-# source_url: https://www.ziyaraat.net/api/noha/1270
-# raw_sha256: b3595e180bd58bb6bdb95bb9ee84865a0077469ac9f985cdfcd94645d3643522
 ---
 
 ڈے بو سے پیو دے کفن اُتے با قر الوایا رت نہ رو

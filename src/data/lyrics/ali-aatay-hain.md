@@ -10,9 +10,6 @@ reciter: "Rizwan Zaidi"
 tags: []
 aliases: ["ali-aatay-hain-rizwan-zaidi"]
 published: true
-# source_id: tajpoints:23a93ba2891b9ba58ef2
-# source_url: https://tajpoints.com/2024/01/ali-aatay-hain-rizwan-zaidi-lyrics-in.html
-# raw_sha256: 007c78f7d1a4d2d37ed6918698032d0c7d9e7c705d4f5091e49e3a7af396dcc0
 romanLyrics: |-
   1
   Abu Talib ka haram, Bait-e-Haram tak pahuncha

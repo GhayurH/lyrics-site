@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:262549570793d09daa94
-# source_url: https://www.nohawriteups.org/menu-aakhri-wari-mil-baba/
-# original_html: snapshots/nohawriteups/original_html/262549570793d09daa94.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/262549570793d09daa94.json
-# api_content_sha256: f5c911446716853578e424e58d73c4e666ea81a18f72a0161540a71587d6b743
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Menu Aakhri Wari Mil Baba Na Jagh Tay Fayr Bulavaan Gi.

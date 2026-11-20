@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:44ce44210336e73fe209
-# source_url: https://www.nohawriteups.org/ummat-ne-hai-sataya-zahra-nu/
-# original_html: snapshots/nohawriteups/original_html/44ce44210336e73fe209.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/44ce44210336e73fe209.json
-# api_content_sha256: e2ff3a86dff04fd180f7ceeef08e0f8a8a502835e6056c5f1cad72fa47ed81e4
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ummat Ne Hai Sataya Zahra Nu

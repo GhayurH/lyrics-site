@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:5f1b83cfea644a9755e5
-# source_url: https://www.ziyaraat.net/api/noha/1976
-# raw_sha256: a1920df1dd5e95ab8a59208abbf3ca0baf6aaf48c8ecdafce05b493e1d270f4b
 ---
 
 Ya Fatema Zehra

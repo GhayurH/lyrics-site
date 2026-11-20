@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:f95f5e2858cf3bdade74
-# source_url: https://www.ziyaraat.net/api/noha/2858
-# raw_sha256: b14286feeddcf1e2b37603b499a5bfdb535538eac0e6883022916588f5de130e
 ---
 
 سجادؑ کے ہوتے ہوئے بابا گیا مارا

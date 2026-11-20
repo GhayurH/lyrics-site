@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2431ad57aaa98f4b3947
-# source_url: https://tajpoints.com/2017/02/dunya-te-kaliyaan-abidas-ne-katiya.html
-# raw_sha256: 0e6fff5e051174d4e7cd97af36f06201d0a98f764a8048a5d49dde6e04686ef9
 ---
 
 Likhda Riya Khoon De Hanjwaan Naal Har Rooz Quran Musaib Da.

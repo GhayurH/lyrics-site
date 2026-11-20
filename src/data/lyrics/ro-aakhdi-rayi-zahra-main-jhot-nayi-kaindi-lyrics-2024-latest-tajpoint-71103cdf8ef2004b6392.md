@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:71103cdf8ef2004b6392
-# source_url: https://tajpoint.com/ro-aakhdi-rayi-zahra-main-jhot-nayi-kaindi-lyrics/
-# raw_sha256: e02d17179e470d774eebfa1aeb8bd8f6a7965190d8ca80bf475dd6eb6de8df2d
 ---
 
 Ro Aakhdi Rayi Zahra Main Jhot Nayi Kaindi.

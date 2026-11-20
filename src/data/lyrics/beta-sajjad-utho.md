@@ -71,9 +71,6 @@ romanLyrics: |-
   Itna sataaya itna sataaya
   Zulm usi par ye hue Gohar
   Wohi Aabid baith na paaya
-# source_id: nohayonline:520fb31b0efb41c3a44a
-# source_url: https://www.nohayonline.com/details_content.php?id=1592
-# raw_sha256: fcd050661dd1005828e42b9cb66bba71d8e48de50056adbc17684dbbc489b38d
 ---
 
 شام غریباں میں تھا زینب کا نوحہ

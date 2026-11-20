@@ -43,9 +43,6 @@ romanLyrics: |-
   7
   Darbaar meiṅ beparda jab ahl-e-haram aaye
   Us waqt Mohib Yazdaaṅ ye bain tha Zainab ka
-# source_id: nohayonline:f4581b15f0a40832c858
-# source_url: https://www.nohayonline.com/details_content.php?id=1445
-# raw_sha256: 1866044f89757489871cf13615ffd73013a5e04acfb10ee03c4b3922a33f7a44
 ---
 افسوس کے زینب کو دربار بلایا جاتا ہے
 کیسا یہ ستم ہائے سادات پہ ڈھایا جاتا ہے

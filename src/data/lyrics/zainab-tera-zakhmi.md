@@ -65,9 +65,6 @@ romanLyrics: |-
   Darbar ke dar par mai aaunga milne
   Zainab mera waada hai
   Aa dekh le zainab...
-# source_id: nohayonline:a62b706784c4182256da
-# source_url: https://www.nohayonline.com/details_content.php?id=2601
-# raw_sha256: a8237759767d34c5842adf5ae6bff93c19234a261c398829dd4d7ae9d513d47d
 ---
 
 ۱

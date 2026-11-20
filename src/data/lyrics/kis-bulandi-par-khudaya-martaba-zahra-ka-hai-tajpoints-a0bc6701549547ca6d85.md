@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a0bc6701549547ca6d85
-# source_url: https://tajpoints.com/2019/04/kis-bulandi-par-khudaya-martaba-zahra.html
-# raw_sha256: ab495e782e62a4422c194e4a99f44ec20ec04f73c6138e70e6eabe812073afbf
 ---
 
 1

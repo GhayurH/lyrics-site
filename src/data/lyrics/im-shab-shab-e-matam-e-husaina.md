@@ -68,9 +68,6 @@ romanLyrics: |-
   12
   Em shab shab-e-matam-e-hussaina
   Aalam hamey dar fughaan hussaina 4x
-# source_id: ziyaraat:0bdac4c6ed638cc52796
-# source_url: https://www.ziyaraat.net/api/noha/2435
-# raw_sha256: 4f0054afd44820b47042a22012fa48e45c47a033c9744005600b4dc30ba9ad77
 ---
 
 ام شب، شب ماتم حسینا

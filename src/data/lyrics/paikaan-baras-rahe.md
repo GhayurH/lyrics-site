@@ -73,10 +73,6 @@ romanLyrics: |-
   15
   Maula Nisaar apni shamshir kiuṅ uthaate
   Jab ke woh jaanashiṅ the Paighambar-e-aman ke
-# editorial_note: Source readings for added couplets 7 and 10-12 are uncertain; recheck against audio during final editorial review.
-# source_id: nohayonline:853b65649064cb73e7be
-# source_url: https://www.nohayonline.com/details_content.php?id=2574
-# raw_sha256: 7c521cd860df6fc45dc6c75547c40fda7b94d5b95ddfe3ca96531b055137a66c
 ---
 پیکاں برس رہے ہیں تابوت پر حسن کے
 امت مٹا رہی ہے آثارِ پنجتن کے

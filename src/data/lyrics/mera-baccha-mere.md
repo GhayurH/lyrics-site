@@ -66,12 +66,6 @@ romanLyrics: |-
   Apne bachche ke liye Sheh ki wila maaṅgti hai
   Aamir o Fakhri har ek maaṅ ye dua maaṅgti hai
   Taaziyadaar azadaar wafaadaar bane
-# source_id: nohayonline:82c1d8ab5fad45602895
-# source_url: https://www.nohayonline.com/details_content.php?id=3652
-# raw_sha256: c770bb27200c223f9e0b587854515532e038800a90ce76bc29376b65b9a83567
-# source_id: nohayonline:8d976309ea78d86dc26b
-# source_url: https://www.nohayonline.com/details_content.php?id=2455
-# raw_sha256: c5b9baa5f89125a838bfc0db8993bb632c0034c0605cb0adaba96b9151f519af
 ---
 میں حسینی ہوں میری جان عزاداری ہے
 فتح شبیر کا اعلان عزاداری ہے

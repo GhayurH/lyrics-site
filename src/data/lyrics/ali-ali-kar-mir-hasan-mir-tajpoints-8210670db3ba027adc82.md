@@ -8,9 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8210670db3ba027adc82
-# source_url: https://tajpoints.com/2022/10/ali-ali-kar-mir-hasan-mir-lyrics-in.html
-# raw_sha256: 414210b1d277844c20919bfd6b2fba8bd7edcdf0949cc1f3df788c92214f8911
 ---
 
 1

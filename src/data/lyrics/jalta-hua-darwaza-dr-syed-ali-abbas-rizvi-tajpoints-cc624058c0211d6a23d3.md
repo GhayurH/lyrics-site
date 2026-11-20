@@ -8,9 +8,6 @@ poet: "Ali"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc624058c0211d6a23d3
-# source_url: https://tajpoints.com/2022/12/jalta-hua-darwaza-dr-syed-ali-abbas.html
-# raw_sha256: cd19d6a7539746967eff0bef289153c2d295a60283eeb8cfb7d73940e86fee5a
 ---
 
 1

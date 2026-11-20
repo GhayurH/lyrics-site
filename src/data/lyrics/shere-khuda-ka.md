@@ -50,9 +50,6 @@ romanLyrics: |-
   Arif ko bulale tu rauze pa tere maula
   Nasir ne bhi ro ro kar tujhse hai yehi maanga
   Sher e khuda ka sher...
-# source_id: nohayonline:715a84b88a18d45a1bc5
-# source_url: https://www.nohayonline.com/details_content.php?id=1339
-# raw_sha256: c87097503145572f3e5aece3ceab541430dc1638fd856b4c4f8bb6ac08b5bf0a
 ---
 
 ۱

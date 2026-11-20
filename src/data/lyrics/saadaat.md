@@ -38,9 +38,6 @@ romanLyrics: |-
   6
   Kiuṅ nahiṅ Maisam o Salman kareṅ ge girya
   Qatl darya pe hamaare hi to ajdaad hue
-# source_id: nohayonline:4bea7cef0ede1887a394
-# source_url: https://www.nohayonline.com/details_content.php?id=2158
-# raw_sha256: 460de29d235f5c6f3ae50fa228e63717d2c8605d5f0efc6f06f35d0cda75c346
 ---
 ہائے سادات
 ایسے اجڑے کہ نہ سادات پھر آباد ہوئے

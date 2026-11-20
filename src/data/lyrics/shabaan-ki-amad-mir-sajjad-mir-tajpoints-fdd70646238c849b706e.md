@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fdd70646238c849b706e
-# source_url: https://tajpoints.com/2024/02/shabaan-ki-amad-mir-sajjad-mir-lyrics.html
-# raw_sha256: 7081b8997f1dcff7f565fb89124fb9df353f1b2e76d2114569a516657d30bc7c
 ---
 
 Shabaan Ki Amad Mir Sajjad Mir

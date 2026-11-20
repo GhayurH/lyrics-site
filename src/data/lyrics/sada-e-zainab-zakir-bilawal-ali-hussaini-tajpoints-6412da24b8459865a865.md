@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6412da24b8459865a865
-# source_url: https://tajpoints.com/2023/09/sada-e-zainab-zakir-bilawal-ali.html
-# raw_sha256: 338a94a7ccd01816df54954f2127a5f28b761a524b05c81351f5083388583a0b
 ---
 
 Sada e Zainab Zakir Bilawal Ali Hussaini.

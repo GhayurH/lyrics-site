@@ -7,13 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ed5f83e25f3879ea88e
-# source_url: https://tajpoints.com/2023/01/tu-hai-bara-rehman-mola-nadeem-sarwar.html
-# raw_sha256: 669222a00da6b532d73d52c3768efa5b1395751e08b1df458408d1a7e22c2614
-# source_id: tajpoints:1272f37665e34564023a
-# source_url: https://tajpoints.com/2019/04/tu-hai-bara-rehman-mula-tu-bara-rehman.html
-# raw_sha256: 5030611d9c1a4c5d55667ca8f95931b884d19a3f2dc97a1dbc7361f7cca26839
-# editorial_note: Both Tajpoints witnesses share the opening ten verses, the Zahra passage and the closing takhallus but differ in the middle. Combined the full fifty-verse source with ten additional Nabi-related verses present only in the shorter witness, placing them between their shared anchors; twelve five-line stanzas, original wording retained for transliteration review.
 ---
 
 Tu hai bara Rehman Maula, tu bara Rehman

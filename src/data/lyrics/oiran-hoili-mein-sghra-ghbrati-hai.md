@@ -8,9 +8,6 @@ reciter: "Hasan Sadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:8d455d910604aef8577a
-# source_url: https://www.ziyaraat.net/api/noha/167
-# raw_sha256: 0c7d9571834726655d6766ac620931dea4c116445cc7bf432c8db262a80bf7a9
 ---
 
 1) Veeran Haveli Main Sughra Ghabrati Hay

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:773944ba4731751e6649
-# source_url: https://tajpoints.com/2020/11/chaliya-ayn-te-akbar-watna-te-khairi.html
-# raw_sha256: a187a8f897c107d7aed92f3d904d6d262852b27cce641ea4f434a5c66e990b30
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Faqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5682dc90f3a5695804c7
-# source_url: https://tajpoints.com/2023/07/azakhana-faqeer-arif-imam-lyrics-in.html
-# raw_sha256: ed371ddff6128cbf4cfe7aaaf7eff075d7875f86f5d4be7465bba2cf049ccc26
 ---
 
 Moheet-e-Gardish-e-Kaun-o-Makaan Azza Khana.

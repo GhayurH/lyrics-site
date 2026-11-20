@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:bdb54dee44a0a7b2bbea
-# source_url: https://www.nohawriteups.org/haye-sajjad-keevain-zulmaan-di-inteha-seh-gaya/
-# original_html: snapshots/nohawriteups/original_html/bdb54dee44a0a7b2bbea.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/bdb54dee44a0a7b2bbea.json
-# api_content_sha256: 9698630ff5692137c99c836317ecca541833d813edd478a5c51beb118462821d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye Sajjad Keevain, Zulmaan Di Inteha Seh Gaya

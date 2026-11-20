@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3720f1fd1e8a76c9c2d7
-# source_url: https://www.nohawriteups.org/meri-tarha-mere-baba-koi-yateem-na-ho/
-# original_html: snapshots/nohawriteups/original_html/3720f1fd1e8a76c9c2d7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3720f1fd1e8a76c9c2d7.json
-# api_content_sha256: 90ad0b6bc51ca518d7b6b4c549ab2f49f63b78f8853580a2d0cb6e405983be88
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 meri tarah mere baba ,koi yateem na ho hui hai jai se sakina, koi yateem na ho

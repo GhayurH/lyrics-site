@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bca3f81e4e4c298ad182
-# source_url: https://tajpoints.com/2020/08/ghadeer-e-khum-sajaya-ja-raha-hai.html
-# raw_sha256: 67ef124e7746bf7f077ebb824a982f51eaf253b10ae3691642db704370be25fc
 ---
 
 Ghadeer e Khum Sajaya Ja Raha Hai.

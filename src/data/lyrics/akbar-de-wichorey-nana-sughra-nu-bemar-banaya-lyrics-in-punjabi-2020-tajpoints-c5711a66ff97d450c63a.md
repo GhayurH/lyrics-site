@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c5711a66ff97d450c63a
-# source_url: https://tajpoints.com/2023/06/akbar-de-wichorey-nana-sughra-nu-bemar.html
-# raw_sha256: 1dc0230187d0685f5048b7500d16aecf7c1e7b58086c6b329c9c6415c704cbb5
 ---
 
 1

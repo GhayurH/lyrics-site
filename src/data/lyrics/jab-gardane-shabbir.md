@@ -56,9 +56,6 @@ romanLyrics: |-
   Mai bhi tha wahin haye meri ruh jahaṅ thi
   Ae waye kahaṅ tha mai...
   Jab gardane shabbir pe...
-# source_id: nohayonline:a94ab8722ff64f9622d5
-# source_url: https://www.nohayonline.com/details_content.php?id=1118
-# raw_sha256: 78bb53a82f45cc013fbdb928bd25e83065c0426078ff1e6662b0d94b077a559b
 ---
 
 ۱

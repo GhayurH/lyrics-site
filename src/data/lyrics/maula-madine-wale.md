@@ -58,9 +58,6 @@ romanLyrics: |-
   Salman aur Shanawar khushbakht ho Ali Ji
   Rehan ki tamanna Sarwar ki jo dua thi
   Khidmat qubul kar le qismat banaane wale
-# source_id: nohayonline:a677265b50eab712cc16
-# source_url: https://www.nohayonline.com/details_content.php?id=841
-# raw_sha256: 519d9e13141f990acf3f45f08227e6a2e0f28d63f2a01663e69bce1d10811427
 ---
 جن کا نانا نبی جن کا بابا علی
 جن کی ماں فاطمہ جن کا بھائی حسن

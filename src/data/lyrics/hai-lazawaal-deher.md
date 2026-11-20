@@ -35,9 +35,6 @@ romanLyrics: |-
   5
   Amir is ka badal koi nahiṅ zamaane meiṅ
   Jahaaṅ meiṅ mulk-e-wafa ka hai kibriya Ghaazi
-# source_id: nohayonline:d31cc19fe8a967753cca
-# source_url: https://www.nohayonline.com/details_content.php?id=2961
-# raw_sha256: d6520c136d0e839597c91552eb62f693eb1953b2ab6c07cedc95fd8d5cf279fe
 ---
 
 ہے لازوال دہر میں تیری وفا غازی

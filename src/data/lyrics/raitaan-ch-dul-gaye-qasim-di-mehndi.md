@@ -7,16 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:0be9d57c32676274d32e
-# source_url: https://www.nohawriteups.org/raitaan-ch-dul-gaye-mityaan-ch-rul-gaye/
-# raw_sha256: 494a8c08031f3662f132312f0a5ecd0a8d763482be87877e525bab3b876aef16
-# additional_source_id: nohawriteups:586998a7032e7fa6e6e9
-# additional_source_url: https://www.nohawriteups.org/raitaanch-dul-gaye-mityaanch-rul-gaye-2/
-# additional_raw_sha256: ac2b3d6e181e019707070a736babc5f439d68b7b65b499f6c3f80623721659d9
-# additional_source_id: nohawriteups:22ab0f527823a5716c5a
-# additional_source_url: https://www.nohawriteups.org/raitaanch-dul-gaye-mityaanch-rul-gaye/
-# additional_raw_sha256: 91d860affa8b4d7ad3fa3c9a12bff95a082663bbe1a2728267ea51bc2c4be50a
-# editorial_note: Three matching seven-stanza Roman Panjabi witnesses. Source 0be9 has a divergent sixth-stanza closing ('oh din nah aavay') versus the two matching readings ('oh bhul nah javay'); both kept in provenance note for separate editorial assessment. No title-match candidate in main, import-overlap, or remaining-kalams branch. All distinct stanzas retained; wording not yet final.
 ---
 
 Raitaanch Dul Gaye, Mityaanch Rul Gaye, Maa Nu Rawavay, Qasim Di Mehndi

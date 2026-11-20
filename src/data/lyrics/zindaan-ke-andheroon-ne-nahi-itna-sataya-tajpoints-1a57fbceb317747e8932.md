@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a57fbceb317747e8932
-# source_url: https://tajpoints.com/2017/02/zindaan-ke-andheroon-ne-nahi-itna-sataya.html
-# raw_sha256: b1ef4887bec257700d8356cf6aecb17add6a52b32321245daa8c10ee45c888ed
 ---
 
 1

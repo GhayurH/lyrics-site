@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3c5a2f081f90ed01e792
-# source_url: https://www.nohawriteups.org/main-teray-baaj-berida-hogayi-veeran-alma/
-# original_html: snapshots/nohawriteups/original_html/3c5a2f081f90ed01e792.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3c5a2f081f90ed01e792.json
-# api_content_sha256: 4aaec9137e70d5e69e48cc8e7fdf0442cf91e58ef96d609b498da0a083c8bc5d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Main Teray Baaj Berida Hogayi, Veeran Alma Waaleya

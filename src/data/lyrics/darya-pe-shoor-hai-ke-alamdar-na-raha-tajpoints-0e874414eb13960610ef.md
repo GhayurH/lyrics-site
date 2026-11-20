@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0e874414eb13960610ef
-# source_url: https://tajpoints.com/2019/08/darya-pe-shoor-hai-ke-alamdar-na-raha.html
-# raw_sha256: e6be976b3565c7a2e26374fbec0b2deae05a4b20c2fc465e5d71ee13170e957a
 ---
 
 1

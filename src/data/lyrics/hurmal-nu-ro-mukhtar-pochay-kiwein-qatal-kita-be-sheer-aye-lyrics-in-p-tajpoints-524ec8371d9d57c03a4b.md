@@ -8,9 +8,6 @@ poet: "Hadi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:524ec8371d9d57c03a4b
-# source_url: https://tajpoints.com/2023/10/hurmal-nu-ro-mukhtar-pochay-kiwein.html
-# raw_sha256: c0bcbb073a45e46143a095a735a5b3d7d19ece00eb3d074e258d08eaac4ff0fe
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Mukhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:173b1369a9166374c0aa
-# source_url: https://tajpoints.com/2022/01/fazilat-e-zehra-mukhtar-hussain.html
-# raw_sha256: 7e626400e7f22ed28946fccd852bc98af519e8ae2124c643f3bcb4c4f14e5a53
 ---
 
 1

@@ -34,9 +34,6 @@ romanLyrics: |-
   6
   Karbala wich o qari te ghazi Nadim
   Hoye kafir Dar - Panjetaan chor ke
-# source_id: ziyaraat:b458fbfb302b94fc7d90
-# source_url: https://www.ziyaraat.net/api/noha/2919
-# raw_sha256: bac44c063d2db38468632d2d22d422092353ed205ecc1f3b397076ced518998a
 ---
 
 ٹر پئیان اُجڑیاں بے کفن چھوڑ کے

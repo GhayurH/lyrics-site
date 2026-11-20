@@ -8,9 +8,6 @@ poet: "Nisar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2e41bb6d2fb9e0d335e3
-# source_url: https://tajpoints.com/2024/03/kal-door-ali-da-si-wich-kofe-amerana.html
-# raw_sha256: 8e7355cf42c49ce3fd8f9e5a1967c435f6a3ef91263081d48b5e57f67507de41
 ---
 
 Kal Door Ali Da Si Wich Kofe Amerana.

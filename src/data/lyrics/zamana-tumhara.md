@@ -156,9 +156,6 @@ romanLyrics: |-
   Maula Maula Husain Maula
   Maula Maula Husain Maula
   Maula Maula Husain Maula
-# source_id: nohayonline:e44a187aac81ee22b0ed
-# source_url: https://www.nohayonline.com/details_content.php?id=2742
-# raw_sha256: 5272e46545eab85ec3df9a6bb5d70b4c14aa547c8f754aeb8760ca88dcdbba65
 ---
 جگ ہے تمہارا مولا جگ ہے تمہارا
 دیکھو یا حسین سارا جگ ہے تمہارا

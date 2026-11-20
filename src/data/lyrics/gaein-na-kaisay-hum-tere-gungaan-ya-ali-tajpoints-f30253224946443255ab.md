@@ -8,9 +8,6 @@ poet: "Alam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f30253224946443255ab
-# source_url: https://tajpoints.com/2020/03/gaein-na-kaisay-hum-tere-gungaan-ya-ali.html
-# raw_sha256: 529190d2d6dca71488525605261914aea0aa362d83229fd3578f9a766e8b0d1d
 ---
 
 1

@@ -7,11 +7,6 @@ kalamType: "Naat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:188be1ce52fa7e58df8c
-# source_url: https://tajpoints.com/2021/10/muhammad-se-muhammad-tak-naat-syed.html
-# raw_sha256: bac0c73612d068dd8a2c4007b7cbce2dbb5ef5ad61c8e5dc1367d5a2781c6bde
-# source_title_original: Muhammad Se Muhammad Tak Naat Syed Mohammad Shah 2021
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Muhammad Se Muhammad Tak Naat

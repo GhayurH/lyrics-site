@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e4b54ecb030e88a80d01
-# source_url: https://tajpoints.com/2026/01/baghdad-diyan-qaidan-ne-kazim-nu.html
-# raw_sha256: 044b44a714649ca564adab5459699aa48c0c233ef92777a9a9dd96787527fcaf
 ---
 
 1

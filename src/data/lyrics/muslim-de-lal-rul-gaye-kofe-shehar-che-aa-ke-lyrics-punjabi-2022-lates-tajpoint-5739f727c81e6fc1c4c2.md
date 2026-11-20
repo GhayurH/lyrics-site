@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:5739f727c81e6fc1c4c2
-# source_url: https://tajpoint.com/muslim-de-lal-rul-gaye-kofe-shehar-che-aa-ke-lyrics/
-# raw_sha256: 6db2dce10de808a47ffb591c31098e75998a5a379f96c986cc539acd13d2f09a
 ---
 
 1

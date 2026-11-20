@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Kiuṅ rahe zulmat meiṅ hum jab ke Nisaar apne Husain
   Nur ka minaar hai saare zamaane ke liye
-# source_id: nohayonline:57854ac3c900d20b4ad8
-# source_url: https://www.nohayonline.com/details_content.php?id=3277
-# raw_sha256: 5c1eb013b141530a3af12a46b0c7a6431084aa3ae54cd4fabc68d091bc78e247
 ---
 چل دیے شبیر یا رب سر کٹانے کے لئے
 کون ہے اب چادر زینب کو بچانے کے لئے

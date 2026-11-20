@@ -82,9 +82,6 @@ romanLyrics: |-
   Jitna sadma tumhara kehna hai
   Mere akbar ko kahin...
   Tere jaisa hi uska...
-# source_id: nohayonline:c0a621ef41d681bfe749
-# source_url: https://www.nohayonline.com/details_content.php?id=1411
-# raw_sha256: dba0df28071b5f4108097c8d5e6af38c29cd256524007ce566faf3b88ac4769a
 ---
 
 ۱

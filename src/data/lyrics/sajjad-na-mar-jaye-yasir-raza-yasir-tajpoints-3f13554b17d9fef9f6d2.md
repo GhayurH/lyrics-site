@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3f13554b17d9fef9f6d2
-# source_url: https://tajpoints.com/2023/08/sajjad-na-mar-jaye-yasir-raza-yasir.html
-# raw_sha256: aa2ab7be548492052eaee36a80a5bafc0768c20bac71f2d72bab6f8f387793a6
 ---
 
 1

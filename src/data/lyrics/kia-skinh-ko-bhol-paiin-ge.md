@@ -45,9 +45,6 @@ romanLyrics: |-
   Aur darwesh ro ke itna kaha
   Tum se pehle na khuld jayaiṅ ge
   Kia Sakina ko bhul payaiṅ ge
-# source_id: ziyaraat:ec2fb356a73a32b147c6
-# source_url: https://www.ziyaraat.net/api/noha/2323
-# raw_sha256: 9e4d676583ac4c4ddefe678b629ff4d64dbe3a1477e7785c577133c928a1de2c
 ---
 
 ۱

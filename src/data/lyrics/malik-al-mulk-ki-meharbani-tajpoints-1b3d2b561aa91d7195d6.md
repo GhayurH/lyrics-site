@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1b3d2b561aa91d7195d6
-# source_url: https://tajpoints.com/2017/02/malik-al-mulk-ki-meharbani.html
-# raw_sha256: 4746dc058c576d481ce021d323c62d7cae562df62806a69f0ec34ac6534c87ef
 ---
 
 1

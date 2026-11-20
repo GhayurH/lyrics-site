@@ -8,9 +8,6 @@ poet: "Zaigham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8d14e2f712f8c1b3c5e6
-# source_url: https://tajpoints.com/2023/07/jahan-ka-mola-bana-rahay-hain-ali-imran.html
-# raw_sha256: 7f30b8058b4834835a6d4cacd39bc7f61357a28a0a851b9d563190d42c81f67b
 ---
 
 1

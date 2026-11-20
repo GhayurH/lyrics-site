@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e51885ec28dfbe2dabe6
-# source_url: https://tajpoints.com/2019/09/jab-howay-abbas-ke-bazo-qalam-lyrics-in.html
-# raw_sha256: 115c6bf10e12835585fe61ac3c4f51cba0298d4d4aa8d1edf14b0f820bcb0164
 ---
 
 1

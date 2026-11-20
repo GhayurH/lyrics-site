@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a59ead5acc0b8ed553c8
-# source_url: https://www.nohawriteups.org/hogayi-dair-mujhe-mola-qasim-lyrics/
-# original_html: snapshots/nohawriteups/original_html/a59ead5acc0b8ed553c8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a59ead5acc0b8ed553c8.json
-# api_content_sha256: 6b1debc6fe02d9565ccda85bef038749bf3dc8e0107a19d81e8c53495f37ea07
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye Qasim, Haye Qasim

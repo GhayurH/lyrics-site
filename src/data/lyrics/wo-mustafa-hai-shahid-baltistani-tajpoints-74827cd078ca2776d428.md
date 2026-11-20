@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:74827cd078ca2776d428
-# source_url: https://tajpoints.com/2024/03/wo-mustafa-hai-shahid-baltistani-lyrics.html
-# raw_sha256: dd78d0c6c94342e582513c85d769dd1fcb639629a73b60c6f08d414b4547f6c4
 ---
 
 Wo Mustafa Hai Shahid Baltistani Lyrics

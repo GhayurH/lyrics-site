@@ -8,9 +8,6 @@ poet: "Nisar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:69a78210f830b2fd6c62
-# source_url: https://tajpoints.com/2023/09/ujray-veray-aa-ke-cheri-zainab-pyasay.html
-# raw_sha256: 68b3f1d9c9fc67f29d24a010c0441760790de64764c2bb47fbb249b611f62a6b
 ---
 
 Ujray Veray Aa Ke Cheri Zainab Pyasay Veer Di Gal.

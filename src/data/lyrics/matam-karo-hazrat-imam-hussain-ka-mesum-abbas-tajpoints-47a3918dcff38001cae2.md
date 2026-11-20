@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:47a3918dcff38001cae2
-# source_url: https://tajpoints.com/2022/10/matam-karo-hazrat-imam-hussain-ka-mesum.html
-# raw_sha256: 02e840fd04730b25897117ac3eb8979bc89a04a9f3d32f4eab57af5331e18784
 ---
 
 1

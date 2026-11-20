@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:9cd1fe2bc2dbe99cbc74
-# source_url: https://www.nohawriteups.org/abbas-hurn-aa-aaya-sham-da-bazaaray/
-# raw_sha256: 96e47e8fffd2b48ec5a686a385d2dc8bce8ee5d152f254dc8e0a9c99eb7d0cd5
-# source_title_original: Abbas Hurn Aa Aaya Sham Da Bazaaray
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Abbas hurn aa aaya Sham da bazaaray
   Zehra da kunba menday nal ay, Sajjad bemar ay

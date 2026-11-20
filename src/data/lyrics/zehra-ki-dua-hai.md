@@ -47,9 +47,6 @@ romanLyrics: |-
   Laashoṅ ko uthaate haiṅ azadaar hamaare
   Allah azadaaroṅ ki nasloṅ ko bachaale
   Zehra ki dua hai
-# source_id: nohayonline:059c734c2a9bf08136a3
-# source_url: https://www.nohayonline.com/details_content.php?id=1587
-# raw_sha256: 8691a020f5daa0b576c927b05ff9eb5da3f8b115749bb7406c648dda1c387c09
 ---
 زہرا کی دعا ہے
 

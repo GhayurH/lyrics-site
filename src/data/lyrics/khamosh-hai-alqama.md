@@ -51,14 +51,6 @@ romanLyrics: |-
   Ridaaeṅ bewaoṅ ki chhin rahi haiṅ
   Udaasiyaaṅ puchhti hai Shahid
   Wo paasbaan-e-haram kahaaṅ hai
-# source_id: nohayonline:d9e81397aff5074fd3fb
-# source_url: https://www.nohayonline.com/details_content.php?id=209
-# raw_sha256: c27e024239bba45b810d44f1727f9dc6a8a09bdb42216dc8a595460a6cec0a5d
-# source_id: nohawriteups:15239944ff5b0f5413fb
-# source_url: https://www.nohawriteups.org/khamosh-hai-alqama-ki-maujay/
-# original_html: snapshots/nohawriteups/original_html/15239944ff5b0f5413fb.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/15239944ff5b0f5413fb.json
-# api_content_sha256: 7509275b9464b26fdd8349be4eb7c0fddcad1c0bfae13c79228aecf816634fa8
 ---
 
 خموش ہیں علقمہ کی موجیں

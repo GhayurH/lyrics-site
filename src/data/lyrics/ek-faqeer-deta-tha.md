@@ -82,9 +82,6 @@ romanLyrics: |-
   Gunjti hai kufe meiṅ sada
   Haye wo nahi aaya
   Ek faqir deta tha...
-# source_id: nohayonline:623ae414171b4f4e614d
-# source_url: https://www.nohayonline.com/details_content.php?id=3407
-# raw_sha256: 550a1b44634b5027fdf0763d61e6d7c9a11c8c1198bc9bfc182583237d24ff16
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ec46878fd9b67e9b969d
-# source_url: https://tajpoints.com/2026/01/hussain-milta-hai-mukhtar-fatehpuri.html
-# raw_sha256: f9132672a1a8c48ef3f315b994da08845762ac3a2e5976733f37b5c0ce96a039
 ---
 
 Hussain Milta Hai Mukhtar Fatehpuri.

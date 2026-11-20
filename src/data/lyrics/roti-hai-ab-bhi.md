@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Raah-e-safar meiṅ ishq ke mil jaayeṅge zarur
   Zawwaaroṅ ke hujum meiṅ Maula yahiṅ kahiṅ
-# source_id: nohayonline:cb94fabb0033e973b039
-# source_url: https://www.nohayonline.com/details_content.php?id=3200
-# raw_sha256: b541f656a1f2d06cc301c1631692695cb7a1c419752f29c94d408c49f837e46b
 ---
 
 روتی ہے اب بھی فاطمہ زہرا یہی کہیں

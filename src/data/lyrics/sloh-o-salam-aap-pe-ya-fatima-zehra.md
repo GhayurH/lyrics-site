@@ -141,12 +141,6 @@ romanLyrics: 'Salwat-o-salam aap pe ya Fatima Zehra
   Ek bachi ko sholo may sulagta hua daaman
 
   Dil dard se bhar aaye hai ya Fatima Zehra'
-# source_id: nohayonline:333c499da3982c73508d
-# source_url: https://www.nohayonline.com/details_content.php?id=699
-# raw_sha256: 2320c0a0e7b84c88acd22a91a009e8e9b7318fc90e40f3a2ecf37308ef154e99
-# source_id: ziyaraat:88d66c4173149425ead6
-# source_url: https://www.ziyaraat.net/api/noha/1986
-# raw_sha256: a3e5cc4b62a3ee4b4f2183208ec1be1a4cd59268262d38fefdf533fec5d15d05
 ---
 
 صلوٰۃ و سلام آپ پہ یا فاطمہ زہرا

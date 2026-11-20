@@ -72,9 +72,6 @@ romanLyrics: |-
   Sughra se kaha hoga
   Sar pit ke dukhiya ne
   Ye nauha parha hoga
-# source_id: nohayonline:e398b1ba25a3c7c56a3b
-# source_url: https://www.nohayonline.com/details_content.php?id=2603
-# raw_sha256: 3851be66df16ac5a4a2d0cc7ff30bdaf9d6de0497a07d8996c8476a2d557394f
 ---
 واویلا ہائے واویلا
 

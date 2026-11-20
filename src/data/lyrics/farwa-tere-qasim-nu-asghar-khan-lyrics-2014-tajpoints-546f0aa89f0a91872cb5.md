@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:546f0aa89f0a91872cb5
-# source_url: https://tajpoints.com/2023/05/farwa-tere-qasim-nu-asghar-khan-lyrics.html
-# raw_sha256: 2430b26cc94cdfc4f6cb9cd9142f08a2f4042445c81a97a0ed68fb7363d3a78d
 ---
 
 1

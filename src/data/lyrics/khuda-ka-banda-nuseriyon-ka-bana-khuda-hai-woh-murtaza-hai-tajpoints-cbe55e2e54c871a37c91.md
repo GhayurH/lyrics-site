@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cbe55e2e54c871a37c91
-# source_url: https://tajpoints.com/2019/11/khuda-ka-banda-nuseriyon-ka-bana-khuda.html
-# raw_sha256: 7f6e75bc1da6d6d66aed56ab8b947e476e3916397753c9e0090525309622b864
 ---
 
 1

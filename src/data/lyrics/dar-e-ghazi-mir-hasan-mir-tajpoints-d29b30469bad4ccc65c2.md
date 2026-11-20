@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d29b30469bad4ccc65c2
-# source_url: https://tajpoints.com/2022/03/dar-e-ghazi-mir-hasan-mir-lyrics-in.html
-# raw_sha256: 69ad5f367651c132951e4eedda4237922bc08e3425c4b0eb845b2b29df0093a2
 ---
 
 Dar e Ghazi Mir Hasan Mir Lyrics

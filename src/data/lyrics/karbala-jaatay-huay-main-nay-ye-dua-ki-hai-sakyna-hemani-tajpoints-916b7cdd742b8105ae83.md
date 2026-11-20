@@ -8,9 +8,6 @@ poet: "Sakyna"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:916b7cdd742b8105ae83
-# source_url: https://tajpoints.com/2021/08/karbala-jaatay-huay-main-nay-ye-dua-ki.html
-# raw_sha256: f3b294c9e16c71a260fee7d76c9f3e2582d5462fbf2f1509822d64e182182132
 ---
 
 Karbala Jaatay Huay Main Nay Ye Dua Ki Hai Sakyna Hemani.

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8f092cdd835def7c83f6
-# source_url: https://tajpoints.com/2024/02/kazim-pay-intahaye-aseri-guzar-gayi.html
-# raw_sha256: 43cf4bff6a48162ac51a7c08edc9f45b610a87dd973d1ed221d77625bb68c735
 ---
 
 1

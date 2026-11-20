@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Shaair bana ke Aal-e-Rasul-e-anaam ka
   Rutba tera Viqar barhaaya Husain ne
-# source_id: nohayonline:aa4eae85d25fa3ea2904
-# source_url: https://www.nohayonline.com/details_content.php?id=2980
-# raw_sha256: df1feecfa834ed5d1825152ca4209f8407fc3e7b0fa31d4934bf6c9374a77453
 ---
 اسلام کو فنا سے بچایا حسین نے
 قصر یزیدیت کو گرایا حسین نے

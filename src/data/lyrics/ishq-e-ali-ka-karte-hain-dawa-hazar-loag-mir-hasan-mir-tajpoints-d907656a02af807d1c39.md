@@ -8,9 +8,6 @@ poet: "Mukhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d907656a02af807d1c39
-# source_url: https://tajpoints.com/2022/10/ishq-e-ali-ka-karte-hain-dawa-hazar.html
-# raw_sha256: 1beaa84dd607403a072a110849815da38b1d9a583ad1cb4b06a31b32990e8dc9
 ---
 
 Ishq-e-Ali Ka Karte Hain Dawa Hazar Loag Mir Hasan Mir.

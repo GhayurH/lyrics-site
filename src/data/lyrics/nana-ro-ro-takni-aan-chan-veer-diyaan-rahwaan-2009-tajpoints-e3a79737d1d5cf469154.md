@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e3a79737d1d5cf469154
-# source_url: https://tajpoints.com/2017/08/nana-ro-ro-takni-aan-chan-veer-diyaan.html
-# raw_sha256: cf2249378080797d0f1c605090012ca56ea5b640d0fd6697dc59bcfc394724bc
 ---
 
 Nana Ro Ro Takni Aan Chan Veer Diyaan Rahwaan Write Up

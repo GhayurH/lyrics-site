@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:90a2d23045b52b6c8926
-# source_url: https://tajpoints.com/2023/09/zaeef-ho-keh-ho-kamsin-darood-parhta.html
-# raw_sha256: 500421dd8568a124a851ebce9038cac5d94b59365438d7c45a08cdd517f2beae
 ---
 
 1

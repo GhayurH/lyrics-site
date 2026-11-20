@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e70a2eb37fa6e520884b
-# source_url: https://tajpoints.com/2018/08/la-ilaha-illallah.html
-# raw_sha256: 77cd3f126d33fb0b99e2b675bf851243b01c7794de33fca49b5677419b768e96
 ---
 
 1

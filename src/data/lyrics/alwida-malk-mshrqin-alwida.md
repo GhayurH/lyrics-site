@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:afdf11483c45b0871be5
-# source_url: https://www.ziyaraat.net/api/noha/1722
-# raw_sha256: cfcab7082351586c2003627c620e75a4c74a453dcffb75d7cb23ef6230f95afb
 ---
 
 Alwida Maalike mashraqain alwida

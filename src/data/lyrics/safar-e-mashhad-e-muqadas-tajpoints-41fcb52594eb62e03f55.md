@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:41fcb52594eb62e03f55
-# source_url: https://tajpoints.com/2020/07/safar-e-mashhad-e-muqadas-lyrics-in.html
-# raw_sha256: e5add1d6f1ff0eeb4da71aaccc4e7cc920f678865f3c2e42a4f48e3f9b8cd880
 ---
 
 Safar e Mashhad e Muqadas

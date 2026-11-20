@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:64fa74cf362948eaba76
-# source_url: https://tajpoints.com/2025/12/hastam-nokr-e-ameer-ul-momeneen-wajhi.html
-# raw_sha256: 1c742d933ecd2d23fcae5cc8ebce41c96b3c1d7420446711c8a60b00607da758
 ---
 
 1

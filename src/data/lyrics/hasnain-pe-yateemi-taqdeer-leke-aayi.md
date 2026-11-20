@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:18b08c559df5d3a13a40
-# source_url: https://www.ziyaraat.net/api/noha/297
-# raw_sha256: a5bab4a26846f37afb6b830f31ddb3fb1e47581191bd3113ba64ae16e82e5c1f
 ---
 
 Hasnain pay yateemi taqdeer lay ke aayi

@@ -8,9 +8,6 @@ poet: "Zahra"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5e5d30e734ac0a075eaa
-# source_url: https://tajpoints.com/2024/02/roza-e-haider-dekha-muhammad-raza.html
-# raw_sha256: bc281c65a2dd9eb054577d280c0cb7fb786dad1153ed5d8d58597ab38aa85ad7
 ---
 
 Roza e Haider Dekha Muhammad Raza Mungla.

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:53825217d3a6e509af2a
-# source_url: https://www.ziyaraat.net/api/noha/1717
-# raw_sha256: 08644be0263ad9114c7f2e9e8df41ef2889cce353fc269e4b7b10bae4d90e496
 ---
 
 Haaye zainab, haaye zainab

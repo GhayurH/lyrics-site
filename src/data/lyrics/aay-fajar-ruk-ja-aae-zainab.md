@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:bcec112082cf5703c13a
-# source_url: https://www.nohawriteups.org/aay-fajar-ruk-ja-aae-zainab/
-# raw_sha256: abf9df417c0291d48ea08707299f3285ba52106b710412532cfc18d1b76e1665
-# source_title_original: Aay Fajar Ruk Ja Aae Zainab
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Ae fajr ruk ja ae Zainab ki sada
   Tere daaman meiṅ chhupi hai mere Baba ki qaza

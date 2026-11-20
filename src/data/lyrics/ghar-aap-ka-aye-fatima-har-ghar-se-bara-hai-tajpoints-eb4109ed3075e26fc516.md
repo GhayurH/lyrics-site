@@ -8,9 +8,6 @@ poet: "Kashif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eb4109ed3075e26fc516
-# source_url: https://tajpoints.com/2018/01/ghar-aap-ka-aye-fatima-har-ghar-se-bara.html
-# raw_sha256: 03d816b8ed2a0afab4fdabc9e59267bd6ffa9ad283b374bd35fda08967954d9f
 ---
 
 Ghar Aap Ka Aye Fatima Har Ghar Se Bara Hai.

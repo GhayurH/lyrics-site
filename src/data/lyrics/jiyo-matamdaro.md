@@ -57,12 +57,6 @@ romanLyrics: |-
   Asif hai ye lab pe dua mere Maalik ae mere Khuda
   Jab jaauṅ maiṅ Karbobala tab aae ye Aamir sada
   Jiyo maatamdaaroṅ jiyo jiyo pursadaaroṅ jiyo
-# source_id: nohayonline:02563fbb41a0f02b9403
-# source_url: https://www.nohayonline.com/details_content.php?id=2445
-# raw_sha256: a9a089c777fc580d4173a00aa306953e92caa8bc6a64562996c0a4f83c91fe23
-# source_id: nohayonline:da48d5fa5ea49cf084cf
-# source_url: https://www.nohayonline.com/details_content.php?id=3406
-# raw_sha256: 26849726f308d09df42385912588fa726f5f5d184c40511b92f9940e490aa5eb
 ---
 جیو ماتم داروں جیو جیو پرسہ داروں جیو
 

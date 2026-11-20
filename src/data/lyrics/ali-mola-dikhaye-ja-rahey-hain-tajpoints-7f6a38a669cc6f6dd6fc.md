@@ -8,9 +8,6 @@ poet: "Ain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7f6a38a669cc6f6dd6fc
-# source_url: https://tajpoints.com/2020/08/ali-mola-dikhaye-ja-rahey-hain-lyrics.html
-# raw_sha256: bbb957ca8f47839f3c8d98461b3d91eafab0baa877a6be4514d55fd15ae5ad11
 ---
 
 Ali Mola Dikhaye Ja Rahey Hain Lyrics

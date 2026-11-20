@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:418d9754cf39a8a0b9da
-# source_url: https://tajpoints.com/2022/01/qaseeda-fatima-ka-shahid-baltistani.html
-# raw_sha256: 31de3c6059076a3c4fefc009ca3dd64e21d12f9600e25e1b401623d0ce845254
 ---
 
 1

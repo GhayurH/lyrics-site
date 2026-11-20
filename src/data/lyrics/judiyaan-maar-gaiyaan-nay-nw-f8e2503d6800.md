@@ -30,12 +30,6 @@ romanLyrics: |-
   Main aasaṅ veeran rakhiyan teri rahwaaṅ tay lagiyan nigahwaaṅ meriyan .
 
   URDU
-# source_id: nohawriteups:f8e2503d6800e3e26e02
-# source_url: https://www.nohawriteups.org/judiyaan-maar-gaiyaan-nay/
-# original_html: snapshots/nohawriteups/original_html/f8e2503d6800e3e26e02.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f8e2503d6800e3e26e02.json
-# api_content_sha256: 702f8f0a3e15c560c16db7ae84d54cdb43b4e1c83b5956a4a6052825d8a807a4
-# editorial_note: Unpublished source-faithful draft from approved valid roman+panjabi; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review; Panjabi language label requires review.
 ---
 
 جُدائیاں مار گئیاں نیں ، ہار گئیاں نیں

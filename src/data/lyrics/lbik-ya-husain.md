@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:d69f5bfcf1c281a5338f
-# source_url: https://www.ziyaraat.net/api/noha/2788
-# raw_sha256: d52d921eae52b7573c0b2b76e4e4eb458195b38ccc5d1c47cb569380dbba9bc3
 ---
 
 Labbaik ya Hussain

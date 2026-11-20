@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Is liye ghamgin hai ae Ahmed jari-e-bawafa
   Pyase bachchoṅ tak Hasan wo paani na le ja saka
-# source_id: nohayonline:89371771f65e9dd52f1d
-# source_url: https://www.nohayonline.com/details_content.php?id=129
-# raw_sha256: f1260476fcc1f43bb80a5782ff8123341dadf52dc22b34b0d0b340fb6d5362ea
 ---
 علقمہ تیرے کنارے سو گیا غازی میرا
 تھا بھروسہ جس پہ مجھ کو وہ برادر چل بسا

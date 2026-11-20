@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:145322030e8893b715e0
-# source_url: https://www.nohawriteups.org/juda-zainab-say-na-karo-logo/
-# original_html: snapshots/nohawriteups/original_html/145322030e8893b715e0.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/145322030e8893b715e0.json
-# api_content_sha256: a1a0c203d5ee8804d81418760d5132aa3b4cd0f4f9e0385290e9a2025e71f5ce
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Juda Zainab say na kero logo rida meri wirasat hai..

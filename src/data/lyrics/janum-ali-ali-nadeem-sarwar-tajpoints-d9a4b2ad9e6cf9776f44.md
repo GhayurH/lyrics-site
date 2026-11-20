@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d9a4b2ad9e6cf9776f44
-# source_url: https://tajpoints.com/2023/08/janum-ali-ali-nadeem-sarwar-lyrics-in.html
-# raw_sha256: dfc30bd5761276a19dc0747fca30aeaf9f83d2ca3537da02de825fa0a46a06c0
 ---
 
 1

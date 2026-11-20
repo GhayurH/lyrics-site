@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:df41a8626c05aa24aae3
-# source_url: https://tajpoints.com/2023/05/wajan-maar-ke-babay-nu-rondi-aye-haye.html
-# raw_sha256: f54414ca69b44bbd745b5c024683fa3702bff4307ad64ea9e4baf13af98b0fc4
 ---
 
 Wajan Maar Ke Babay Nu Rondi Aye Haye Masoom Sakina.

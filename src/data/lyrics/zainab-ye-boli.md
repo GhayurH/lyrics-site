@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Pahunchi Najaf Madine riha ho ke qaid se
   Lekin mili na gham se rihaai tumhaare baad
-# source_id: nohayonline:88e8ee72d41fe2acbf21
-# source_url: https://www.nohayonline.com/details_content.php?id=926
-# raw_sha256: a938da9d7c15224c9d340f5b6d0d63880ba5e0206ac89d7ed63e9f440658ba6b
 ---
 زینب یہ بولی اے میرے بھائی تمہارے بعد
 قسمت بھنور میں ظلم کے لائی تمہارے بعد

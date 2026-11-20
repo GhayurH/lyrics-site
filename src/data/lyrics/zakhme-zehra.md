@@ -63,9 +63,6 @@ romanLyrics: |-
   Donoṅ to tasalliyaṅ kar di
   Nasir hai is pal aap mere
   Kehte haiṅ Ali Paighambar se
-# source_id: nohayonline:4be34d385a7757fa03cc
-# source_url: https://www.nohayonline.com/details_content.php?id=1341
-# raw_sha256: 33ca547864f66f6c7b6548987ef5256b59741e87b6b7aae109949b21ffe1cda4
 ---
 زہرا پہ ستم یہ کیسا ہوا
 زینب نے یہ پوچھا حیدر سے

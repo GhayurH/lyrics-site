@@ -8,9 +8,6 @@ poet: "Mohtasham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e0e5c8f40f14726b4ee2
-# source_url: https://tajpoints.com/2024/01/manao-khushiyan-rajab-ka-mahena-aaya.html
-# raw_sha256: 1469e86ff7b0d3ee4d96d3c03d2e3012b8e1e58f219eaa856303205bdaca6ed0
 ---
 
 Manao Khushiyan Rajab Ka Mahena Aaya Hai.

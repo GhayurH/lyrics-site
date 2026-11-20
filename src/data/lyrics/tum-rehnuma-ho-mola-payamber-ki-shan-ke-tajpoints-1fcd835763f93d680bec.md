@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1fcd835763f93d680bec
-# source_url: https://tajpoints.com/2023/10/tum-rehnuma-ho-mola-payamber-ki-shan-ke.html
-# raw_sha256: 9c59b2eda79819d1892a3d2f1f433d324f95efdb0e053831a2ff3951c08f0471
 ---
 
 1

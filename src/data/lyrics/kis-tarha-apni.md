@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Shaairi ki meri meyaar yehi hogi Nazir
   Zikr-e-Sarwar meiṅ mujhe maut agar le jaaye
-# source_id: nohayonline:ee5119801cb962699a76
-# source_url: https://www.nohayonline.com/details_content.php?id=314
-# raw_sha256: 97c6c7c46fa28377c0dd7c0dcbcf91688b6ae701bb07763ad9c7a26c7ac06992
 ---
 کس طرح اپنی تباہی کی خبر لے جائے
 پاس زینب کے بچا کیا ہے جو گھر لے جائے

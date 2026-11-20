@@ -72,19 +72,6 @@ romanLyrics: |-
   14
   Ae kaash phir se Mir Takallum Furaat par
   Mehdi ko Shah ka nauha sunaana nasib ho
-# source_id: nohayonline:e23292f82ae77a9efc66
-# source_url: https://www.nohayonline.com/details_content.php?id=1601
-# raw_sha256: 68d8a27e947c4d945da6f6be3ebf0213360cad973a7b3706577490a14244f234
-# source_id: nohawriteups:c4f34d0360c334615f4e
-# source_url: https://www.nohawriteups.org/karbobala-naseeb-se-jana-naseeb-ho/
-# original_html: snapshots/nohawriteups/original_html/c4f34d0360c334615f4e.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/c4f34d0360c334615f4e.json
-# api_content_sha256: 92f81aa3181571f326f546586356fc304a1d9a4b7c5575626f393042e27fb89d
-# source_id: tajpoints:b05482afccdc6aa3ab04
-# source_url: https://tajpoints.com/2017/02/karbobala-naseeb-se-jana-naseeb-ho.html
-# raw_sha256: 4aa42f78ad64c9aeb95ec01148a4ac6ea9249723dea65e0dafd8d12926647367
-# added_stanza_source: tajpoints:b05482afccdc6aa3ab04 (couplet after Ummul Baneen)
-# editorial_uncertainty: The recovered couplet's Urdu is provisional, transliterated from the Roman TajPoints witness. NohaWriteups writes 'Phir laut kar wahan se aana'; the canonical retained 'na aana' pending audio verification.
 ---
 اٹھے ہیں ہاتھ خدایا اسی دعا کے لئے
 نصیب ہو سفرِ عشق کربلا کے لئے

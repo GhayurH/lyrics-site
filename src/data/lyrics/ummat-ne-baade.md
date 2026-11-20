@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Tera kalaam gham meiṅ hai duba hua Najaf
   Jis ne to sang dil ko bhi aakhir rula diya
-# source_id: nohayonline:c42e86e78f9b1619899d
-# source_url: https://www.nohayonline.com/content_salaam.php?id=29
-# raw_sha256: 96109fce8951e853960c5faf797fdeaeab55ff5f779817fa44ab8f1ce0842f08
 ---
 امت نے بعد احمد مرسل یہ کیا کیا
 بے خوف ان کی بیٹی کے گھر کو جلا دیا

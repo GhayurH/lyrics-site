@@ -8,9 +8,6 @@ poet: "Jigar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a703804da9a8a914cddf
-# source_url: https://tajpoints.com/2017/06/ek-rind-hai-our-midhat-e-sultan-e-madina.html
-# raw_sha256: e34409c9e30041deac80a9cc4272581971740e9d94505151c90a274612265cf5
 ---
 
 1

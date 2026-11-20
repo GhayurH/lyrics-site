@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d0b0134c22bf81d23db9
-# source_url: https://tajpoints.com/2017/02/nook-e-naiza-pe-bhi-quran-sunane-walay.html
-# raw_sha256: 117d3eca1203bb3b3ae4e46fe96e105f6cc68b46ab9945f1538539046564883c
 ---
 
 Kitne Qadir Hain Muhammad Ke Gharane Walay.

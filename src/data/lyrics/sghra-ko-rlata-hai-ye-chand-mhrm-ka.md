@@ -57,12 +57,6 @@ romanLyrics: 'Sughra ko rulata hay yeh chand Muharram ka
   Haider ki qasam mazhar sarkar-e-risalat ko
 
   Turbat main rulata hai Yeh Chand Muharram ka'
-# source_id: nohayonline:053142664785fda42f55
-# source_url: https://www.nohayonline.com/details_content.php?id=616
-# raw_sha256: c86d921c8294b5acc430f14bdd1b8717eb66b017cfea6bc933c4d137d02e9d87
-# source_id: ziyaraat:e131960b5210a1757c10
-# source_url: https://www.ziyaraat.net/api/noha/202
-# raw_sha256: 27a3268c5138fd8e5d1a25d9db5175b88da4676e28a3e6834891003d4111ce52
 ---
 
 صغراؑ کو رلاتا ہے یہ چند محرّم کا

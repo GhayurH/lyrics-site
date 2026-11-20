@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8dbea934fc439703f474
-# source_url: https://tajpoints.com/2018/08/bolo-haider-haider-bolo-haider-haider.html
-# raw_sha256: 5fe50c5614424a639b11186f2323d06a07beef02c801f7dd3206dab793ea45d5
 ---
 
 1

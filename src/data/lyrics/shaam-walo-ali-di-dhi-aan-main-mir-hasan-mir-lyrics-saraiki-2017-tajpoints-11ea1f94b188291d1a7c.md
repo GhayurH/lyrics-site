@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:11ea1f94b188291d1a7c
-# source_url: https://tajpoints.com/2017/10/shaam-walo-ali-di-dhi-aan-main-maidi.html
-# raw_sha256: c7853d5ab6fe1d334a3ae5a55227b4e6b76f935c5d22d0d3a914ba9fd8455191
 ---
 
 1

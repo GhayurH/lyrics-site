@@ -8,9 +8,6 @@ poet: "Sajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2074e37bc0e80c624f55
-# source_url: https://tajpoints.com/2026/01/main-matami-japna-jina-da-na-oh-naam.html
-# raw_sha256: 4e79f8f90440343bb6b663f672c8da67c37b2a62348003f740220c5847fceff6
 ---
 
 1

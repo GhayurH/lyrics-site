@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b5e0230335d54a021330
-# source_url: https://tajpoints.com/2023/09/tere-rozay-samne-main-baba-ik-bait-ul.html
-# raw_sha256: 74488d46121e454dfb541e8a92c05e9cd7c58300a97907df64d993a8c2d09ad5
-# source_title_original: Tere Rozay Samne Main Baba Ik Bait ul Huzan Banaya 2022
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Tere Rozay Samne Main Baba Ik Bait ul Huzan Banaya

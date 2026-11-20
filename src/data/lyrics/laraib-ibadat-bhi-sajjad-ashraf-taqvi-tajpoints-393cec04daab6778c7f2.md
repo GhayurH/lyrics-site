@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:393cec04daab6778c7f2
-# source_url: https://tajpoints.com/2021/06/laraib-ibadat-bhi-sajjad-ashraf-taqvi.html
-# raw_sha256: 9bf0874e19bbb85e32beb4fa0a4f77335bc8f001277a9c3fdf3d5aba2185270e
 ---
 
 1

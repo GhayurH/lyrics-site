@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cab96d25584427ed893d
-# source_url: https://tajpoints.com/2017/10/zameen-e-karbala-walay-tujhe-awaz.html
-# raw_sha256: 08c80cd17f982bdeeac8e2d6b8dc9534f65271d2b18a652cf6a42e0fad874e05
 ---
 
 Zameen-e-Karbala Walay Tujhe Awaz Daitay Hain Mir Hasan Mir.

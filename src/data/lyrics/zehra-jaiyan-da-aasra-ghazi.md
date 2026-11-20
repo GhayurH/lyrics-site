@@ -191,15 +191,6 @@ romanLyrics: 'Zahra jayain da aasra Ghazi
   Kar ke maatam Raza Baqiye vich
 
   Aap rondi ae Fatima Ghazi'
-# source_id: ziyaraat:103626d9435f0ce042c3
-# source_url: https://www.ziyaraat.net/api/noha/2632
-# raw_sha256: b567e3e8599a8de72bc0cc6f019825753fe7a4d008a3bd0c9a54039f64636fe8
-# source_id: ziyaraat:5acb2df88982880e02ac
-# source_url: https://www.ziyaraat.net/api/noha/2631
-# raw_sha256: cba187aa92af424019dc6c7bb9e37cdb5b2de5ea25290c97131f27837f5fa063
-# source_id: ziyaraat:b067a76aef8882158588
-# source_url: https://www.ziyaraat.net/api/noha/2636
-# raw_sha256: 94e522003f191dd1ca7fa3435325a1bfdae104a4d0852295cea316fa006bdd62
 ---
 
 زہراؑ جائیاں دا آسرا غازیؑ

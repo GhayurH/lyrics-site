@@ -8,9 +8,6 @@ poet: "Azlan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:222b116400c3b134c251
-# source_url: https://tajpoints.com/2023/08/tamachon-sy-bachalo-baba-haider-rizvi.html
-# raw_sha256: bc50d63979c0514a1ef2341e662bfc04d92b79a587b7de8e2cd935b31e0892ea
 ---
 
 1

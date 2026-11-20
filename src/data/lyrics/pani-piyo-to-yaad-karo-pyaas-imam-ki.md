@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:343a3d40ec25922e40a1
-# source_url: https://www.ziyaraat.net/api/noha/270
-# raw_sha256: e96c336707e78c60491f6a81239211921e8ef1323c31c178f02e0e49e431c516
 ---
 
 Paani piyo to yaad karo, pyaas imame ki

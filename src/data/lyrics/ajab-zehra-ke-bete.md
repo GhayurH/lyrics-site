@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Bilal Kazmi taa zindagi Abbas ke gham meiṅ
   Yuṅhi likh likh ke Masumin ko nauhe sunana hai
-# source_id: nohayonline:122dc9d10c9d0042e086
-# source_url: https://www.nohayonline.com/details_content.php?id=2876
-# raw_sha256: 4ac261f1e6eb0e6ab6bd05c5306b3875e0f2fb265dfbf8cc5d1a6de519aa1ee4
 ---
 عجب زہرا کے بیٹے کی غریبی کا زمانہ ہے
 کمر ٹوٹی ہے اور عباس کا لاشہ اٹھانا ہے

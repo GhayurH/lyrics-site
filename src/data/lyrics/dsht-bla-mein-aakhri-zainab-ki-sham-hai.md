@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6ce75101574b55054cff
-# source_url: https://www.ziyaraat.net/api/noha/329
-# raw_sha256: d5641bb8998e6a8e3b58dcb389e0b95bf1247a83ac2910a1757217074d98d1e3
 ---
 
 Dasht-e-bala may akhiri Zainab ki shaam hay

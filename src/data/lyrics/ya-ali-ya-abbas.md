@@ -9,9 +9,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:778a28ad179f28d33304
-# source_url: https://www.ziyaraat.net/api/noha/1352
-# raw_sha256: b0dbf9efccb298164c8521623893241af5268b96070ef0a5abf245f80550dc23
 romanLyrics: |-
   Ya Ali
 

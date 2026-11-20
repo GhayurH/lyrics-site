@@ -8,9 +8,6 @@ poet: "Sardar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:89d8f80c5871fbed93be
-# source_url: https://tajpoints.com/2020/07/mere-veer-di-mayyat-te-teeran-diyan.html
-# raw_sha256: 7628094c6debb6fc73c47230db2b96ef2c5fda45fd5c260de3eabc6e93d6c5f7
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3443d4723f04747e956b
-# source_url: https://tajpoints.com/2018/03/dar-e-bahisht-pe-ism-e-ali-likha-howa.html
-# raw_sha256: b9788d9056abca8207cdd06063b57e1a3cddf73bce3aced8fe3bb0b0da58be0b
 ---
 
 Dar-e-Bahisht Pe Ism-e-Ali Likha Howa Hai.

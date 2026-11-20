@@ -36,12 +36,6 @@ romanLyrics: |-
   Dar-e-Batul ke sag haiṅ tere gada Ghaazi
 
   Haiṅ donoṅ baazu tere din ki baqa Ghaazi
-# source_id: nohayonline:d51762c375ac785d088d
-# source_url: https://www.nohayonline.com/details_content.php?id=37
-# raw_sha256: 9c891926b4f5e4f29232c45ed0fa614cbf32fa4612279cbce6a7a23c2e4bf642
-# source_id: ziyaraat:7177b600af6c5b594a61
-# source_url: https://www.ziyaraat.net/api/noha/247
-# raw_sha256: 84bced18afbbfb1ed670182782409cbfe6aa0cefd32ecea5b50ad8c61bb2273c
 ---
 
 بھُلا سکے گی نہ دنیا تیری وفا غازیؑ

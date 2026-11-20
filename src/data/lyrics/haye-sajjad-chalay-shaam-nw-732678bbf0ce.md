@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:732678bbf0ceda2060aa
-# source_url: https://www.nohawriteups.org/haye-sajjad-chalay-shaam/
-# original_html: snapshots/nohawriteups/original_html/732678bbf0ceda2060aa.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/732678bbf0ceda2060aa.json
-# api_content_sha256: 2cde06894e3792271de9c5b72015c290b421ca28a0f96d740fc3a5b1ebd2b35e
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye Sajjad Chalay Shaam, Khuda Khair Karay.

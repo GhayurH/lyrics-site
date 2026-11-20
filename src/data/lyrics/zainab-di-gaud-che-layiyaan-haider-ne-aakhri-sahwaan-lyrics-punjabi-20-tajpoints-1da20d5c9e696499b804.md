@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1da20d5c9e696499b804
-# source_url: https://tajpoints.com/2023/04/zainab-di-gaud-che-layiyaan-haider-ne.html
-# raw_sha256: bb501693d86cb1f42dcf5469104c212e928c07addd8f38a0ca3ec7424ed504e9
 ---
 
 Zainab Di Gaud Che Layiyaan Haider Ne Aakhri Sahwaan.

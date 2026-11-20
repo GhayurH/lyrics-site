@@ -95,14 +95,6 @@ romanLyrics: 'Baade hussain kis ne kaha mai yateem hoon
   Zikre sakina aate hi dil kaamp utha suroor
 
   Jaise kisi ne mujhse kaha mai yateem hoon'
-# source_id: nohayonline:f636cf7a393a079884c3
-# source_url: https://www.nohayonline.com/details_content.php?id=3661
-# raw_sha256: 6f2e99eb8c3785fd5d27a130782c0301a6fca2c370d17436b2f21473363bb401
-# source_id: ziyaraat:6059807d64ce4afa938f
-# source_url: https://www.ziyaraat.net/api/noha/1547
-# raw_sha256: db57dfc58f29503191f8458c32621100dca1ad496fffe8cb510d6677aad4a90a
-# added_stanza_source: roman:kalam-ziyaraat-6059807d64ce4afa938f
-# added_stanza_source: urdu:kalam-ziyaraat-6059807d64ce4afa938f
 ---
 
 بعد حسین کس نے کہا میں یتیم ہوں

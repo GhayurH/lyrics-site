@@ -45,12 +45,6 @@ romanLyrics: |-
   Har shaam diye is ki chaukhat pe jala rakhna
   Jawad ye sadiyoṅ se momin ki ibaadat hai
   Taazim karo is ki Zehra ki amaanat hai
-# source_id: nohayonline:7a1c9e557edaee9409b9
-# source_url: https://www.nohayonline.com/details_content.php?id=40
-# raw_sha256: d924c67f0d490e5f7f8e75eb4a3c5b51bf61e8ec44310a1d6f289ef15b83f82b
-# source_id: tajpoints:9456897c940aa687c347
-# source_url: https://tajpoints.com/2023/03/ghazi-ka-alam-logo-bakhshish-ki-zamanat.html
-# raw_sha256: c9e050328432f7f5429f668d91b126c88570b454745d1fae3b4fc09c176d38fc
 ---
 بابا تیرا شیرِ خُدا توں وفاؤں کا ہے شہنشاہ
 

@@ -61,9 +61,6 @@ romanLyrics: |-
   Chaaroṅ taraf hoga shor bapa
   Hai Ahmad o Mohsin ki ye dua
   Ham se ho khush Bibi Zehra
-# source_id: nohayonline:b304a26ac85f0d22a04b
-# source_url: https://www.nohayonline.com/details_content.php?id=690
-# raw_sha256: 7caeffad8895089cb21d0af440574d85d9bf6eb7b4cd5bb376a9f1cc1d0fcdf5
 ---
 رب خیر کریں میرے بابا کی
 صغریٰ کی صدا یہ ہے

@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Shahid yahi meraaj-e-itaaat hai jari ki
   Aankheṅ rukh-e-Sarwar se hataaeṅ ge na Abbas
-# source_id: nohayonline:90f48ddc88d9a25d3d00
-# source_url: https://www.nohayonline.com/details_content.php?id=743
-# raw_sha256: 2381d84a9dfd1e181182b1f9f39bd8331913622520c6ed459651f19fe27da8ad
 ---
 دریا سے کبھی خیمے کو جائیں گے نہ عباس
 چہرہ بھی سکینہ کو دکھائیں گے نہ عباس

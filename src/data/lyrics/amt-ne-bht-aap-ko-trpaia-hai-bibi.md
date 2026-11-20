@@ -107,12 +107,6 @@ romanLyrics: 'Ya Fatima Zehra...
 
   Mohsin ki lahad par gaYa pehlu e shikasta'
 reciter: "Ali Safdar Rizvi"
-# source_id: ziyaraat:5fd549d7092093d77b69
-# source_url: https://www.ziyaraat.net/api/noha/1970
-# raw_sha256: b3fad2591be41799a5d233054282a7ff3ac42052fcbb5a17571b3bac55c7f94f
-# source_id: ziyaraat:b47fb53895cdd5415140
-# source_url: https://www.ziyaraat.net/api/noha/1962
-# raw_sha256: c84b56384dfe503a4180472f1c1e889c2237ffe49e88afb59535136baf8a0c91
 ---
 
 یا فاطمہ زہراؑ...

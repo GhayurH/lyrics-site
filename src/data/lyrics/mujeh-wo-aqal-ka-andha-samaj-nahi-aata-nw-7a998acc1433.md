@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:7a998acc1433ed741880
-# source_url: https://www.nohawriteups.org/mujeh-wo-aqal-ka-andha-samaj-nahi-aata/
-# original_html: snapshots/nohawriteups/original_html/7a998acc1433ed741880.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/7a998acc1433ed741880.json
-# api_content_sha256: 21c449c8a6a0007d4784536d7e9fc45eb79412d332a8a9eae76816099fae8ffe
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mujhy wo aqal ka andha samaj Nahi ata

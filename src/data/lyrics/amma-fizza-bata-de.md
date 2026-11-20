@@ -80,16 +80,6 @@ romanLyrics: |-
   Sajjad nauhakhwaaṅ haiṅ nauha suna rahe haiṅ
   Kya Shaam aa gaya hai
 reciter: "Mir Hasan Mir"
-# source_id: nohayonline:54b394274805a8c00573
-# source_url: https://www.nohayonline.com/details_content.php?id=313
-# raw_sha256: 0ab6f5f14fbec72901f8433f509fb7b68480b9481e11adb3453d5440d96ac55c
-# alternate_source_reciter: Anjuman Shabab-ul-Momineen (Nazim Party)
-# source_id: ziyaraat:42d7fd263da2e273386c
-# source_url: https://www.ziyaraat.net/api/noha/446
-# raw_sha256: 559a0214b36fd633616e3252d74328515286d6fc4cf93812e476d815d6542c89
-# source_id: tajpoints:412a86b8cefbbd1bd445
-# source_url: https://tajpoints.com/2021/04/amma-fizza-bata-de-mujh-ko-pathar-kyun.html
-# raw_sha256: 0ffc614c11fd2c37a1998a3ba231a1a3a1537df389f52dc020743fab573a090b
 ---
 
 اماں فضہ بتا دے مجھ کو پتھر کیوں آ رہے ہیں

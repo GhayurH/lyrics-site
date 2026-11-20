@@ -8,9 +8,6 @@ reciter: "Katri Bawa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:96afc7c9ca9bc9a4b7c9
-# source_url: https://www.ziyaraat.net/api/noha/2594
-# raw_sha256: 61d8697fee31e23967dac7ef2300ed4b24e2289cd6a59ab6bb7f515732b7bf2e
 ---
 
 Tur payi ay shaam Zainab Sajjad day saharay

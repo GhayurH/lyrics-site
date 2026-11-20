@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e29d5feabd9686a50647
-# source_url: https://tajpoints.com/2022/12/darbar-mei-zahra-ko-bulaya-gaya-baba.html
-# raw_sha256: 7d0a3dd66ec735d26cee622ec92b6608abb1fbb25f586eb0ec3ef64c4cb26c88
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7f52d3493bc7fc87e2c0
-# source_url: https://tajpoints.com/2018/07/masooma-e-qum-ki-azmat-kya-kare-koi.html
-# raw_sha256: 01e31c770b9a695f44190bd0ac69d495f7d6882a6df673df16b4b6712a386953
 ---
 
 1

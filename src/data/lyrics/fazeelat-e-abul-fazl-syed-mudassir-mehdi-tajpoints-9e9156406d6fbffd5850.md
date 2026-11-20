@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9e9156406d6fbffd5850
-# source_url: https://tajpoints.com/2021/03/fazeelat-e-abul-fazl-syed-mudassir.html
-# raw_sha256: 9232c0d3cbb47584ab509e72eee89b29c5caad7ff43bb0df81e1ea05a6d9db2f
 ---
 
 Fazeelat e Abul Fazl Syed Mudassir Mehdi.

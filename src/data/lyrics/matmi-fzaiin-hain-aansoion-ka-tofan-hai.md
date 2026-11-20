@@ -65,12 +65,6 @@ romanLyrics: 'Matmi fazayein hain aansuon ka toofan hai
   Bujh gaya chiraagh aakhir har taraf andheray hai
 
   Chandgaam par shahid karbala ka maidan hai'
-# source_id: nohayonline:d9291a21d04c338ae77e
-# source_url: https://www.nohayonline.com/details_content.php?id=175
-# raw_sha256: 976bebb4d4b7d91c28dc36b7f2d883b49fd6d23d52f177550061e6d8ba195e65
-# source_id: ziyaraat:dfe4a96c60c3141515cd
-# source_url: https://www.ziyaraat.net/api/noha/2300
-# raw_sha256: d47f595737aeb1f72c6629a53a7982ceec9fae5d8a62940ab1fc64da4444711e
 ---
 
 ماتمی فضائیں ہیں آنسوئوں کا طوفان ہے

@@ -8,9 +8,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:6f184ca3858f87ecb65b
-# source_url: https://www.ziyaraat.net/api/noha/2878
-# raw_sha256: a65c88bd2953307b76a01022b815d28dd54ae2eff3e637c56d6d73903d1ef21b
 ---
 
 ننگا سر بنتِ پیغمبر کا چھپانے کیلئے

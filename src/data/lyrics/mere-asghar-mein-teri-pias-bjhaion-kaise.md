@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c0b62c101382e6d5672a
-# source_url: https://www.ziyaraat.net/api/noha/534
-# raw_sha256: 4924959fc24bf5afb5db53116ca7730d2f5d1f67576363d21abfefc4b6735ea4
 ---
 
 میرے اصغرؑمیں تیری، پیاس بجھائوں کیسے

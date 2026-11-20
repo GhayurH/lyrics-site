@@ -8,9 +8,6 @@ poet: "Rubab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7f84c37901c48c744a66
-# source_url: https://tajpoints.com/2021/01/shabeeh-e-aks-e-payamber-ki-yaad-aati.html
-# raw_sha256: 59e48e270f2b8499662100e20f829d1316490380af60225beadc033ce547496d
 ---
 
 1

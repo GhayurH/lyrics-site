@@ -62,9 +62,6 @@ romanLyrics: |-
   Haye bekas ka naize pe aaya jo sar
   Reh gayi ek maa khun rote huwe
   Le gaya shimr bete ka...
-# source_id: nohayonline:1d23f87619cc1302215d
-# source_url: https://www.nohayonline.com/details_content.php?id=2068
-# raw_sha256: 4c1cfa140dada585ccf06f57c29e8ee2a79625a8204fefd7a276fd1743bcc6a0
 ---
 
 ۱

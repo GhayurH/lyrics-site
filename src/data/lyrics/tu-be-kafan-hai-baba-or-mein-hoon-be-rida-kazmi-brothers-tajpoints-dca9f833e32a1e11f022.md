@@ -8,9 +8,6 @@ poet: "Azlan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dca9f833e32a1e11f022
-# source_url: https://tajpoints.com/2026/06/tu-be-kafan-hai-baba-or-mein-hoon-be.html
-# raw_sha256: c2a63c403332706a92c68c556983d5ef627b3aecd683bb1079bd6556d279a018
 ---
 
 Nezay Pe Sar Tumhara Rasan Mein Mera Gala.

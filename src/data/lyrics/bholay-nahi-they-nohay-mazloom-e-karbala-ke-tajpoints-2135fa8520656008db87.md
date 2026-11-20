@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2135fa8520656008db87
-# source_url: https://tajpoints.com/2018/08/bholay-nahi-they-nohay-mazloom-e.html
-# raw_sha256: a82eec3ae46fd77a1a1f682c3936fcc7167ac1272b938082bd14c8860acf345e
 ---
 
 1

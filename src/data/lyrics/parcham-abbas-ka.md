@@ -65,12 +65,6 @@ romanLyrics: |-
   Hashr tak qaaim rahega aitibaar o ikhtiyaar
   Dekheṅ ge Rehaan is parcham ki sab us din bahaar
   Is ko le kar aaeṅ ge jab Mehdi-e-aali waqaar
-# source_id: nohayonline:8a1732a559e6df722cea
-# source_url: https://www.nohayonline.com/details_content.php?id=412
-# raw_sha256: ec8ba50d4b139c345fa357c813769472772b787b56265d021a583feff7b4dc0f
-# source_id: ziyaraat:0e70109447da36f31661
-# source_url: https://www.ziyaraat.net/api/noha/252
-# raw_sha256: d30fe8e34be07c259584b32f68cb342cc176221091095bd6b42f2721777008d2
 ---
 پرچمِ عباس پرچمِ عباس
 

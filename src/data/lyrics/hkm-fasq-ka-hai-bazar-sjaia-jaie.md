@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:eeb4cca0a92ca7315242
-# source_url: https://www.ziyaraat.net/api/noha/1819
-# raw_sha256: 656ad0d07a1a972d383766fc2ca86503d60d830978fcba9c1bc4c6f853e31de0
 ---
 
 Hukm Fasiq Ka Hai Bazar Sajaya Jayai

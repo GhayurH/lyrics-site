@@ -8,9 +8,6 @@ poet: "Basharat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:282e93aaaca528fc78c2
-# source_url: https://tajpoints.com/2023/06/sain-ruqaiya-de-be-jurm-lal-maray.html
-# raw_sha256: af49aeaa126cd7a3c6b1daf4d2be7fb408df5bbfbb8d9ad60ce9fa77a848f551
 ---
 
 1

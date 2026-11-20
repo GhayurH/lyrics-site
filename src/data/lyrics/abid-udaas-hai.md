@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Darbaar meiṅ Najaf ye munadi ne di sada
   Aai hai Bint-e-Fatima Abid udaas hai
-# source_id: nohayonline:07ef268e23f0b310cc22
-# source_url: https://www.nohayonline.com/details_content.php?id=854
-# raw_sha256: 81551fa283310493a1c08e0271a0c857e4afa3799060e0a39df5d257af5802bc
 ---
 بولی یہ بنت مرتضیٰ عابد اداس ہے
 کوڑے نہ مار بے خطا عابد اداس ہے

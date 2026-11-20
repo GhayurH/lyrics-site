@@ -50,9 +50,6 @@ romanLyrics: |-
   Abbas ke bete ne ro kar kaha bibi se
   Baba ki tarha se hame mashkeeza to laa do
   Hum nehr pe jaate hai...
-# source_id: nohayonline:70f2b3af65f5b02b6b98
-# source_url: https://www.nohayonline.com/details_content.php?id=3633
-# raw_sha256: 3d2dae51b2701e540c2431a81e92b4039afe9016d9db63892d026e4847c89c88
 ---
 
 ۱

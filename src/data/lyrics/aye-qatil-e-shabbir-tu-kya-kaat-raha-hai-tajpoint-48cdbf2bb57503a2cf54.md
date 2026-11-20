@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:48cdbf2bb57503a2cf54
-# source_url: https://tajpoint.com/aye-qatil-e-shabbir-tu-kya-kaat-raha-hai-lyrics/
-# raw_sha256: ca859f5ac788a53e0366691e6d0ed97659020c39c657fce116fe989b0db99093
 ---
 
 Aye Qatil e Shabbir Tu Kya Kaat Raha Hai.

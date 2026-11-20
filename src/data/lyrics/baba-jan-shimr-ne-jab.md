@@ -8,13 +8,6 @@ reciter: "Farhan Ali Waris"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:54a6fd427e515b8299f2
-# source_url: https://www.nohawriteups.org/baba-jan-farhan-ali-waris/
-# raw_sha256: 45390ed0c0c7f45fd7d2cd3c33101810e93ea3582aecf7bc66ed840450b43886
-# additional_source_id: nohawriteups:c555c61f06e54c04487b
-# additional_source_url: https://www.nohawriteups.org/baba-jaan-shimr-ne-jab/
-# additional_raw_sha256: 3493e8df13a3606de4fa2874222d628995d9bbb483a17bc2b158c5c1a7ac16fc
-# editorial_note: Identical multi-section source captures consolidated, including intro and Farsi interlude, with repeated refrain removed. Editorial stanza boundaries and transliteration remain pending.
 ---
 
 Baba

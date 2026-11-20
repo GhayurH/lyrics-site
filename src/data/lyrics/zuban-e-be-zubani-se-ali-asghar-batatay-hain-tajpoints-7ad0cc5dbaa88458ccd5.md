@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7ad0cc5dbaa88458ccd5
-# source_url: https://tajpoints.com/2019/04/zuban-e-be-zubani-se-ali-asghar-batatay.html
-# raw_sha256: 8cc80eca3d1fe8310b5a0c418b5dc2bcbceb64d7d65a49e13fd0fa847a42f15c
 ---
 
 Zuban-e-Be-Zubani Se Ali Asghar Batatay Hain.

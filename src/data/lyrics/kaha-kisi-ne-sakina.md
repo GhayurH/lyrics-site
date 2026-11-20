@@ -71,9 +71,6 @@ romanLyrics: |-
 
   Sakina Bibi tumhaare ghulaam haazir haiṅ
   Bujhe jo pyaas to ashkoṅ ke jaam haazir haiṅ
-# source_id: nohayonline:c82faefae5012d122f3e
-# source_url: https://www.nohayonline.com/details_content.php?id=2629
-# raw_sha256: 5c2ed4cbcd122d2118a055a0cae1293cf386a47959a82fc40d770022013f9cf8
 ---
 کہا کسی نے سکینہ سے تم دعا یہ کرو
 کوئی بھی بیٹی تمہاری طرح یتیم نہ ہو

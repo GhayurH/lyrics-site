@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e3ae7b378392eb60ea84
-# source_url: https://tajpoints.com/2018/02/zulm-ke-saray-taqaze-aazmane-ke-liye.html
-# raw_sha256: 6dfdd712b087a4500ca9b0659a392b1715d1497e48d823edfbb076adb4aa7696
 ---
 
 Zulm Ke Saray Taqaze Aazmane Ke Liye.

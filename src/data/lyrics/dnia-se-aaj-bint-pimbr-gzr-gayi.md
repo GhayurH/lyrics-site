@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:4af73c60118f4d230b00
-# source_url: https://www.ziyaraat.net/api/noha/2599
-# raw_sha256: b451b2d29a47a1a68c94ed1b96064546ec31200df73c8dd76025c93c155161b4
 ---
 
 دنیا سے آج بنتــِ پیمـــبرؐ گزر گئی*

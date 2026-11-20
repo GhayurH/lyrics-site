@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:addc92f891e7a70c9d44
-# source_url: https://tajpoints.com/2025/02/ay-muntaqim-meray-syed-wasif-abideen.html
-# raw_sha256: 753200cb673db448795d0d058fc0359f2a0bc2fcc53c75f1e0fec8b85df01007
 ---
 
 Ay Muntaqim Meray Syed Wasif Abideen Naqvi.

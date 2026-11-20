@@ -8,9 +8,6 @@ poet: "Alam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6da5a7425f30090ad75b
-# source_url: https://tajpoints.com/2019/04/jis-waqt-main-ne-nara-e-haider-laga.html
-# raw_sha256: a8e3afa0ae2ea41f9dd6ac26fd26e60340be432345745df87692dd85291008cd
 ---
 
 1

@@ -40,9 +40,6 @@ romanLyrics: |-
   6
   Aal-e-Nabi ka tha Ali Fitrat yehi bayaan
   Kaise kate gi raat qayaamat ki raat hai
-# source_id: nohayonline:84f80c06a42f9f3f25b5
-# source_url: https://www.nohayonline.com/details_content.php?id=67
-# raw_sha256: adf8bf02387efe4a4faa0c3c3463cc89259faf79ad566afa628402221a289c22
 ---
 درد و غم و الم کی اذیت کی رات ہے
 ضربت کی رات ہے یہ شہادت کی رات ہے

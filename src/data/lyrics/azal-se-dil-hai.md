@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Gham-e-Husain ko aasaaṅ samajh rahe ho Wasi
   Ye imtihaaṅ hai dil-e-sabr o aazma ke liye
-# source_id: nohayonline:afd37879ef20245cfa39
-# source_url: https://www.nohayonline.com/details_content.php?id=627
-# raw_sha256: bac5ef2aecfc04dafd27daccfc887ccea43a4630b006e447cf77fe614918ae51
 ---
 ازل سے دل ہے غمِ سبطِ مصطفٰی کے لیئے
 یہ آئینہ تو بنا تھا اسی جلا کے لیئے

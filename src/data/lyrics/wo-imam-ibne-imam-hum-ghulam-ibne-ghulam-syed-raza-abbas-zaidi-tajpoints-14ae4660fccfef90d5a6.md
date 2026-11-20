@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:14ae4660fccfef90d5a6
-# source_url: https://tajpoints.com/2026/01/wo-imam-ibne-imam-hum-ghulam-ibne.html
-# raw_sha256: 2388c74a7e8da2b8a7fd5a1110f73d384fc40d14f76a1a8fb8767d704f1b5f7f
 ---
 
 Wo Imam Ibne Imam Hum Ghulam Ibne Ghulam Syed Raza Abbas Zaidi.

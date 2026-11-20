@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:670311261d574162091c
-# source_url: https://tajpoints.com/2025/12/ali-ka-ishq-syed-raza-abbas-zaidi-lyrics.html
-# raw_sha256: 6a1ee77878dc685a87bff14f902448c32325702bb47ff0c23c8efd85ef79db12
 ---
 
 Mast Ko Masti Mein Parwaz Kara Detey Hain.

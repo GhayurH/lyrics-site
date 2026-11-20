@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:628483cae50c3d337ba5
-# source_url: https://tajpoints.com/2025/03/mehrab-mein-khoon-behta-hai-ahmad-ke.html
-# raw_sha256: 1e5cc655e3ec87d9e2e48c022dc82146948b60fc77144d06ddb17fe164b024f2
 ---
 
 1

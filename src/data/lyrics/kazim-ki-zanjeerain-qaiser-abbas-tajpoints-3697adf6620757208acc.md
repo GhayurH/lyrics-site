@@ -8,9 +8,6 @@ poet: "Qaiser"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3697adf6620757208acc
-# source_url: https://tajpoints.com/2023/02/kazim-ki-zanjeerain-qaiser-abbas-lyrics.html
-# raw_sha256: 98643bb6154511fb803ea7db384d8cd4bf06b3ba5cf58cb7126fbbc446ae0829
 ---
 
 1

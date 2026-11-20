@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:075822d38ab9d10d7eec
-# source_url: https://tajpoints.com/2024/02/kaisa-hai-mazlom-lasha-ro-ke-zahra-ne.html
-# raw_sha256: 7cc5e4e831f726ef452989f716eb61e4919a5cda629bd1c2d0fadeccdfbd54ba
 ---
 
 Kaisa Hai Mazlom Lasha Ro Ke Zahra Ne Kaha.

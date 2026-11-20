@@ -47,9 +47,6 @@ romanLyrics: |-
   9
   Mushkil may sab ki jaan bachata tha jo qamar
   Sajde may zalimo ne use qatl kar diya
-# source_id: ziyaraat:859c06a27adaf26b1884
-# source_url: https://www.ziyaraat.net/api/noha/2183
-# raw_sha256: 6c68b926f5d2721c6171f29e3d146ec3f3c7ecaa1f2df3a633ae097c9fdead71
 ---
 
 ماتم زمین پہ ہوتا ہے اور عرش پر بکا

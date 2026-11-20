@@ -66,13 +66,6 @@ romanLyrics: 'Faras Ki Zeen Se Beshak Utar Gaye Hain Hussain.....
   Jo Karte Karte Tilawat Thaher Gaye Hain Hussain
 
   Faras Ke Zeen Se Beshak Utar Gai Hain Hussain.....'
-# source_id: nohayonline:4a6e70a66dc4556ecb72
-# source_url: https://www.nohayonline.com/details_content.php?id=207
-# raw_sha256: eb171078685ff63ef38b9f09b1eeb460db77f4c1d751f48de4c816f7922bfa1b
-# source_id: ziyaraat:c36440ebce862043eb2e
-# source_url: https://www.ziyaraat.net/api/noha/1021
-# raw_sha256: 4d2ce1d572916fd7fa6c2d65716d70c68fbe9f981da25375e464d3929150f4fb
-# added_stanza_source: roman:kalam-nohayonline-4a6e70a66dc4556ecb72
 ---
 
 فرس کی زین سے بے شک اُترگئے ہیں حسین

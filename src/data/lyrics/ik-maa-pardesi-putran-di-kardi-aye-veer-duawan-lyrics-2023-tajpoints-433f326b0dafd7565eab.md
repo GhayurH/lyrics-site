@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:433f326b0dafd7565eab
-# source_url: https://tajpoints.com/2023/07/ik-maa-pardesi-putran-di-kardi-aye-veer.html
-# raw_sha256: 15eb5ec19a7ad855a84303e1568acc6b748f33b512ba3c4620e104094a52a37a
 ---
 
 1

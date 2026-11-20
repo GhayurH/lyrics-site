@@ -33,12 +33,6 @@ romanLyrics: |-
   5
   Sina chhid gaya so gaye Akbar kaun Rehaan ye khabar sunaaye
   Bhai se na aas lagaaye Akbar ki bimaar behen
-# source_id: nohayonline:36d7c45f2f16173962c8
-# source_url: https://www.nohayonline.com/details_content.php?id=2967
-# raw_sha256: 43233d939bdf572606071235312d6a21d06a534885522582bf0277488613019b
-# source_id: ziyaraat:9bd98b6276da03a84f81
-# source_url: https://www.ziyaraat.net/api/noha/205
-# raw_sha256: 7ef3bb2ed08b0a725764f113c7f314aa7a1fb1d9220866f89457de6bb20201c5
 ---
 تنہا اب تک اشک بہائے اکبر کی بیمار بہن
 دیواروں سے سر ٹکرائے اکبر کی بیمار بہن

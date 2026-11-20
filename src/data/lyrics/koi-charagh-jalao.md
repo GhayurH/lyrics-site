@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Andhera zindaaṅ andheri qabr hai ae Mirza
   Charagh dil ke jalao bahot andhera hai
-# source_id: nohayonline:30a8d34b8430b23c3495
-# source_url: https://www.nohayonline.com/details_content.php?id=1944
-# raw_sha256: 5dfcfd2a3630b75b3f25b62de2265bb1048abc4da6ff5e88369968d8a6db4916
 ---
 کوئی چراغ جلاؤ بہت اندھیرا ہے
 سکینہ کو نہ جگاؤ بہت اندھیرا ہے

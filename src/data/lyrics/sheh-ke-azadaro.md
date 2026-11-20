@@ -74,9 +74,6 @@ romanLyrics: |-
   Aise takallum karo haq ka bayaṅ
   Daaman-e-shabbir ko thaame raho
   Sheh ke azadaron...
-# source_id: nohayonline:cd562847102c1c10351d
-# source_url: https://www.nohayonline.com/details_content.php?id=1577
-# raw_sha256: 4e8421a9d3dcb7e4589e8d167c191c946f12aa99178a484f8222aa2ccf4de747
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Syed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c374a02a48290ab1a0d5
-# source_url: https://tajpoints.com/2020/03/fatima-ke-naam-par-lyrics-in-urdu-and.html
-# raw_sha256: 6512b78faf7451a61a0bec4714b40f8345f1d9b907409d61cf9060a712d85a4d
 ---
 
 Hur Ne Jo Gardan Jhukai Fatima Ke Naam Par.

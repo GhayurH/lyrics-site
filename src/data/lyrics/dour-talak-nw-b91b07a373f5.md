@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:b91b07a373f512c71eab
-# source_url: https://www.nohawriteups.org/dour-talak/
-# original_html: snapshots/nohawriteups/original_html/b91b07a373f512c71eab.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b91b07a373f512c71eab.json
-# api_content_sha256: 24a7bbe8c09527c1c88f8dc42dbc1969587d619f3d8b2b894c9ecd9c29c5d8ee
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Dour Talak Daikhti Hay Mere Mola (as) Ki Nazar

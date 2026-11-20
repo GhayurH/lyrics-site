@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4b4e891f846cc3d17a68
-# source_url: https://tajpoints.com/2023/05/totti-sansoon-mein-abid-se-sakina-ne.html
-# raw_sha256: 2db6b7ac30c91f299d72571b48212175f9a115d520dcfd4521124510def1eedc
 ---
 
 1

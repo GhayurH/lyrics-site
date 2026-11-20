@@ -9,9 +9,6 @@ reciter: "Ch Faiyaz Party Sialkot"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1867a17f21950f2e25bf
-# source_url: https://tajpoints.com/2025/08/darbar-sajandiyan-shamiyan-nu-hoi-peshi.html
-# raw_sha256: ce2ef78a35591f603416b8f1e233677122abcc703973770c32eee20cb712e19c
 ---
 
 Darbar Sajandiyan Shamiyan Nu Hoi Peshi Wich Takheer Aye.

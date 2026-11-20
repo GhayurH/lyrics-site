@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c04eee4b7a5f3be094e7
-# source_url: https://tajpoints.com/2023/06/bad-e-rasool-kaisa-ummat-ne-zulm-dhaya.html
-# raw_sha256: 76f99822b6b4a90ce238ddc26eae11c5d25a69c5e50b36dab2282beb606830e4
 ---
 
 Bad e Rasool Kaisa Ummat Ne Zulm Dhaya.

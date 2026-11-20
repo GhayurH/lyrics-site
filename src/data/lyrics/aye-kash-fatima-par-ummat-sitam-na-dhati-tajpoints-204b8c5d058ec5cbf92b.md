@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:204b8c5d058ec5cbf92b
-# source_url: https://tajpoints.com/2021/01/aye-kash-fatima-par-ummat-sitam-na.html
-# raw_sha256: 0901d998183bf3efe544a8b4b98885e353d5c281758fdc40a7dcb419c7dac78b
 ---
 
 Aye Kash Fatima Par Ummat Sitam Na Dhati.

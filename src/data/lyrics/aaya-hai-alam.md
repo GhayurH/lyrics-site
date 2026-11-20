@@ -54,9 +54,6 @@ romanLyrics: |-
   9
   Paani ke liye bheja Alamdar ko Shah ne
   Afsos musalmaanoṅ ko aitbaar na aaya
-# source_id: nohayonline:d3ed9416258941487af2
-# source_url: https://www.nohayonline.com/details_content.php?id=2528
-# raw_sha256: e4b568b04c55dc55aed3b9b845acca91cd393e1b4a6ae50a3e6eda79aaf1f80b
 ---
 علمدار نہ آیا علمدار نہ آیا
 آیا ہے علم اور علمدار نہ آیا

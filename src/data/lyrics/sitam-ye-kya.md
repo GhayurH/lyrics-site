@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Janaab-e-Zehra ke maasum bachchoṅ ko Akbar
   Bata ke din ke baaghi sataaya jaata hai
-# source_id: nohayonline:c504e3efa732ee15e459
-# source_url: https://www.nohayonline.com/details_content.php?id=2085
-# raw_sha256: 756ba4969cf7b7911e1c62316b884742ff5790b09babbc49e6189190bace2b0f
 ---
 ستم یہ کیا سر بغداد ڈھایا جاتا ہے
 جنازہ بیڑیوں میں بھی اٹھایا جاتا ہے

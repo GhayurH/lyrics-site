@@ -62,9 +62,6 @@ romanLyrics: |-
   Tha khaimoṅ meiṅ Rashid us waqt mahshar
   Sakina se yehi kehte the Sarwar
   Khuda haafiz meri dukhiya Sakina
-# source_id: nohayonline:c34bc185c773d116b91e
-# source_url: https://www.nohayonline.com/details_content.php?id=3772
-# raw_sha256: b8f96def7778f6fab9eb9994a030472fb48d933b360a461d77259686bf84b9c6
 ---
 
 چلا رن کو تیرا بابا سکینہ

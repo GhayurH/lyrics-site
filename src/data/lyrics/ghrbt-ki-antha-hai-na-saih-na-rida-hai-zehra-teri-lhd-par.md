@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:535e5122e059db2b1d90
-# source_url: https://www.ziyaraat.net/api/noha/1756
-# raw_sha256: 2d53e9d450ebffed049e8182163e34a57ba588d5794dad85b8504047d9a67c57
 ---
 
 Ghurbat ki inteha hay, na saya na rida hay, Zehra teri lahad par

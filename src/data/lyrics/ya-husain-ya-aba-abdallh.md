@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:d9bb860d52560e7e273b
-# source_url: https://www.ziyaraat.net/api/noha/1715
-# raw_sha256: 1d200685a47cc9661121f31b297a6ca5759f14754a84056fe90c13097945b85e
 ---
 
 Hussain yaa Hussain (4)

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:fc129df08c10b31a6932
-# source_url: https://www.nohawriteups.org/iss-tarha-bhai-ka-chehlum-hay/
-# original_html: snapshots/nohawriteups/original_html/fc129df08c10b31a6932.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/fc129df08c10b31a6932.json
-# api_content_sha256: 81b411e1d1c8697d94122c0fa0a0aeeed4fc29d37b7cadd2b80a54abde3ecfd6
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Iss tarha bhai ka chehlum hay kiya zainub nay

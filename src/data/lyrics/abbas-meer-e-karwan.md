@@ -74,9 +74,6 @@ romanLyrics: |-
   Nauhoṅ se deṅge ye bayaan
   Abbas mere kaarwaaṅ
   Kaarwaaṅ kaarwaaṅ Abbas mir-e-kaarwaaṅ
-# source_id: nohayonline:6c2739fa53d1e871a2fe
-# source_url: https://www.nohayonline.com/details_content.php?id=1724
-# raw_sha256: aeffe3270939381ca9b41003fb1c1cfc5dafbf5a5375ae303fa231a8cc4b2a72
 ---
 
 ۱

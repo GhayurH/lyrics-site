@@ -70,9 +70,6 @@ romanLyrics: |-
   Ae meri bachchi meri baat maano
   Is shehr-e-gham ko watan tum na jaano
   Har zakhm dil pe uthaaya karo
-# source_id: nohayonline:93e6372c0a24192df46f
-# source_url: https://www.nohayonline.com/details_content.php?id=896
-# raw_sha256: 94bdef0c77a6cf692624c4922629dd547322a0da09bf2bdbf6ca8e1e5ffddd20
 ---
 سکینہ یہ پردیس ہے
 

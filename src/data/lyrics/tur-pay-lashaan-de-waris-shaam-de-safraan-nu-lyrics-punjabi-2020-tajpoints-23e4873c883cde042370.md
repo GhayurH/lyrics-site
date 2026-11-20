@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:23e4873c883cde042370
-# source_url: https://tajpoints.com/2017/02/tur-pay-lashaan-de-waris-shaam-de.html
-# raw_sha256: 693c165dcd45249e267ac34ec6f43e0836116651e58364066aba005530961f76
 ---
 
 Tur Pay Lashaan De Waris Shaam De Safraan Nu.

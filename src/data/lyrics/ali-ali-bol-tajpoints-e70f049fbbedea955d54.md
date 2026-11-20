@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e70f049fbbedea955d54
-# source_url: https://tajpoints.com/2020/11/ali-ali-bol-lyrics-in-urdu-and-roman.html
-# raw_sha256: d7a56fac3748052b75fe535181f2294d2fe4d33e3a92f82011bf5ee7e7d1212b
 ---
 
 Yeh Zabaan Kaat Do Jism-o-Jaan Kaat Do.

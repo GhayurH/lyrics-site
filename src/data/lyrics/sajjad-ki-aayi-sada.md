@@ -50,9 +50,6 @@ romanLyrics: |-
   Mujhpar sitam ab aur kya dhayegi ye ummat bhala
   Ya rab dayare ghair meiṅ binte ali hai berida
   Sajjad ki aayi sada...
-# source_id: nohayonline:90d3655fd7ac45156951
-# source_url: https://www.nohayonline.com/details_content.php?id=1122
-# raw_sha256: 83daa4c1e5e245259accb93dd2cf81e27f3c8887b6f2cdb974c81af4e6dad0fa
 ---
 
 ۱

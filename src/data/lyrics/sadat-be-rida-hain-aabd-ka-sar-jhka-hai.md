@@ -88,15 +88,6 @@ romanLyrics: 'Saadaat berida hai abid ka sar jhuka hai
   Khud berida hai lekin usko chupa rahi hai
 
   Akbar sitamgaron ne aelaan kar diya hai'
-# source_id: nohayonline:93559530b7239c004f1e
-# source_url: https://www.nohayonline.com/details_content.php?id=2543
-# raw_sha256: 66a4cdd1791d43c20198a50f8e36413ecd129ee7270ca63ee8a658d4beb42d10
-# source_id: nohayonline:b9a5429424c6a083075c
-# source_url: https://www.nohayonline.com/details_content.php?id=697
-# raw_sha256: c3661fb092fffbaca977a26d2281d23850d19ea309003694ab73d6c1dba5553c
-# source_id: ziyaraat:81cb935bc4a2a883d001
-# source_url: https://www.ziyaraat.net/api/noha/2347
-# raw_sha256: 28d77e42e9b4af44da28078ab13a34908228b5b049cdfce8ec24cea360a6e3b2
 ---
 
 سادات بے ردا ہیں عابد کا سر جھکا ہے

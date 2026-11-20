@@ -85,9 +85,6 @@ romanLyrics: |-
   Raat din hai ye wazifa jis ka
   Assalaam alaiki ya Sayyeda
   Alwida alwida Sayyeda alwida
-# source_id: nohayonline:19b6ae9db2c14a722d73
-# source_url: https://www.nohayonline.com/details_content.php?id=2393
-# raw_sha256: 5c5ffb785c21d5b381b7af992baffecef03a0516f3af820e30bff041f76f0c05
 ---
 
 سیدہ سیدہ سیدہ

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ab545f5f6681b7655d07
-# source_url: https://www.nohawriteups.org/neher-de-passey-ro-ro/
-# original_html: snapshots/nohawriteups/original_html/ab545f5f6681b7655d07.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ab545f5f6681b7655d07.json
-# api_content_sha256: 1c7fe8ed023f05528f81b0fc17d08ea6007a582321067d90304bf18e57228638
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Neher De Passey Ro Ro Haye Na Day Zainab Sain Sadawan

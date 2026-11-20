@@ -51,9 +51,6 @@ romanLyrics: |-
   Hamraah Shadmaaṅ ke pahuṅcha jo qaafila
   Baazaar-e-Shaam dekh ke yaad aaya baKhuda
   Ae Mazhar Aabidi wo safar haaye haaye haaye
-# source_id: nohayonline:be691115cc3867881620
-# source_url: https://www.nohayonline.com/details_content.php?id=3066
-# raw_sha256: b012c809f574a58d4d853094a861f9723f643c5e7cba8eadf017858986f6518d
 ---
 ہائے ہائے ہائے
 زہرا کی بیٹیوں کا سفر ہائے ہائے ہائے

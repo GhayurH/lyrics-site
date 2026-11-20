@@ -64,9 +64,6 @@ romanLyrics: |-
   Bich gaya qaid meiṅ farshe matam
   Wa hussaina tha sab ki zubaṅ par
   Haye hussaina haye hussaina haye hussaina
-# source_id: nohayonline:8548f64c7128d063598b
-# source_url: https://www.nohayonline.com/details_content.php?id=3564
-# raw_sha256: cdb347bf36bf647332acbff129967dedad72f6c32631e6860982059cd3305edc
 ---
 
 ۱

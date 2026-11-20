@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:950b8a00e0381184f7f5
-# source_url: https://tajpoints.com/2022/08/maqtal-mein-raza-hasani-lyrics-in-urdu.html
-# raw_sha256: 6f2014960832ae696dfda37aab0e0a8fd83c6ff4c3ccc8ff21234db177a50e55
 ---
 
 1

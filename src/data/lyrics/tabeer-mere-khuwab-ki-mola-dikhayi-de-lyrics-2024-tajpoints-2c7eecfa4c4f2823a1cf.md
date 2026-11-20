@@ -8,9 +8,6 @@ poet: "Mohtasham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2c7eecfa4c4f2823a1cf
-# source_url: https://tajpoints.com/2024/01/tabeer-mere-khuwab-ki-mola-dikhayi-de.html
-# raw_sha256: 698e73f438d42d9d09a9bd4e36d54b1d7d4ac25254757b436b4034f203635406
 ---
 
 1

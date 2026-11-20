@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:15d622ebc95c20c0f920
-# source_url: https://tajpoints.com/2023/03/zainab-khak-te-beh-ke-rondi-aye-ali-di.html
-# raw_sha256: 526b103175b69c6d65efa511ca3c0b42417e41dfa762414221b3ecb6a2c772b9
-# source_title_original: Zainab Khak Te Beh Ke Rondi Aye Ali Di Ghurbat Nu 2022
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Zainab Khak Te Beh Ke Rondi Aye Ali Di Ghurbat Nu

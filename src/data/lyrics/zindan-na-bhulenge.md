@@ -42,9 +42,6 @@ romanLyrics: |-
   Majlis meiṅ Sakina ke liye shor o fughaṅ hai
   Abbas dua mang lo ye waqt-e-dua hai
   Jo dil meiṅ tumhare hoṅ wo sab pure hoṅ armaṅ
-# source_id: nohayonline:518f96e1aaf1868e5eb8
-# source_url: https://www.nohayonline.com/details_content.php?id=276
-# raw_sha256: 22a4ed17b3c1bdf32ec1d13fdba4e3da6f4b2d13a047282b90c2e9cac21724a8
 ---
 
 زنداں زنداں نہ بھولیں گے ہم شام کا زنداں

@@ -8,12 +8,6 @@ reciter: "Syed Raza Abbas Shah"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:08bf4c70d987fe226cda
-# source_url: https://www.ziyaraat.net/api/noha/1586
-# raw_sha256: 009e1bb81090bc9286a4d656879064873e761f942b149da2cd5fc5e9b1b23d22
-# source_id: ziyaraat:17ea554f42cab75814b3
-# source_url: https://www.ziyaraat.net/api/noha/2306
-# raw_sha256: 4f2b0d60d7fe3ca70ef1f02f899989e95457135a81b458cd6119e2afd51c1eeb
 ---
 
 Shaam diyan qaidan chutyan

@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2a39d2777ce8e6e4196c
-# source_url: https://tajpoints.com/2019/06/bohat-parda-howa-ab-aa-bhi-jao-aye-mere.html
-# raw_sha256: 78af18ba99f7fc42347a6d2ef5cc53a9cc1b97f505feffda65cd26a84503f80e
 ---
 
 1

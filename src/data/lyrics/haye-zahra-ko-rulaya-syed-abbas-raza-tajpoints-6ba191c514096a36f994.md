@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ba191c514096a36f994
-# source_url: https://tajpoints.com/2023/12/haye-zahra-ko-rulaya-syed-abbas-raza.html
-# raw_sha256: 1e47f67676752b5bf0d26287e1666d0e5c973b22ba0393667ebe3fc0adb6e607
 ---
 
 1

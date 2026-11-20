@@ -68,9 +68,6 @@ romanLyrics: |-
   Tehrara pursa pani meiṅ
   Jis tarha jari pyasa palta
   Wo maula mera batlayaga
-# source_id: nohayonline:ddbd3eb2203ab900fad0
-# source_url: https://www.nohayonline.com/details_content.php?id=1395
-# raw_sha256: f3f1cd8a6e4860383428fcd5ce847e319834972bae6149462980bf1a333bcfca
 ---
 
 ۱

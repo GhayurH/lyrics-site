@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:93c937c64ebb5d24e636
-# source_url: https://www.ziyaraat.net/api/noha/1776
-# raw_sha256: b3d6ed0afe18080681547792485bd36aeefa212a3ed93b7bc5a6f87b487b1c6d
 ---
 
 Bibi hath kad kafan wicho akhe karbala da gareeb ah bachra

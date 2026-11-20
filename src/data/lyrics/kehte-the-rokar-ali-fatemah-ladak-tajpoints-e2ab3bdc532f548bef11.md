@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e2ab3bdc532f548bef11
-# source_url: https://tajpoints.com/2023/04/kehte-rokar-ali-fatemah-ladak-lyrics-in.html
-# raw_sha256: 04da646531e2ea44304e39a0a1454d26d366a67b86b176a0d35872909b3e4bf7
 ---
 
 1

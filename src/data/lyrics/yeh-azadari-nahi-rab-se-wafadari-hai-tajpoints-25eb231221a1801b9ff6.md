@@ -8,9 +8,6 @@ poet: "Salamat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:25eb231221a1801b9ff6
-# source_url: https://tajpoints.com/2019/02/yeh-azadari-nahi-rab-se-wafadari-hai.html
-# raw_sha256: cc0666b93c109d017bf3bee161b90c6740551378f015850b9ddd4ae37884404a
 ---
 
 1

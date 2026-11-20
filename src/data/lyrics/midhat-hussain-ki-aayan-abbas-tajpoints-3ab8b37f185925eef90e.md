@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3ab8b37f185925eef90e
-# source_url: https://tajpoints.com/2023/02/midhat-hussain-ki-aayan-abbas-lyrics-in.html
-# raw_sha256: 524734fbabb7992ba6045c4dc2c376936ff927bcf69bc951b8b467b54b0f9414
 ---
 
 1

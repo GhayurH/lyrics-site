@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1e806f7e966ae8727457
-# source_url: https://tajpoints.com/2021/08/kisnay-mara-hay-sakina-waheed-rizvi.html
-# raw_sha256: 4248b0af6200ce4ddfe9e1daaf99c3d296d199bbede446fc0adb3fb0f0763ba9
 ---
 
 1

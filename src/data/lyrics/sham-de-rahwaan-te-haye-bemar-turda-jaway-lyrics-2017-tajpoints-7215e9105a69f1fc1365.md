@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7215e9105a69f1fc1365
-# source_url: https://tajpoints.com/2017/02/sham-de-rahwaan-te-haye-bemar-turda.html
-# raw_sha256: 5f3c0841f750c4e82893e35f4f4540cd02c7feb361c79222c272b162ad449d5a
 ---
 
 1

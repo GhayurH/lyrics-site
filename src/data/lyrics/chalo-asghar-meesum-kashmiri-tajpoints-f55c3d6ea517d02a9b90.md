@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f55c3d6ea517d02a9b90
-# source_url: https://tajpoints.com/2021/08/chalo-asghar-meesum-kashmiri-lyrics-in.html
-# raw_sha256: 122807ed6a77d3fbdd35217c2f63ce805641dedc86a20c62e87479adbaa80f7a
 ---
 
 1

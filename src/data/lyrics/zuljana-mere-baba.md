@@ -56,12 +56,6 @@ romanLyrics: |-
   Ho na paaya raqam ye Sakina ka gham
   Ho gayiṅ haaye Ahmed ki aankheṅ bhi nam
   Bas sunaao Hasan gham bhari daastaaṅ
-# source_id: nohayonline:4052e966b8ec893c92d8
-# source_url: https://www.nohayonline.com/details_content.php?id=145
-# raw_sha256: 096c0eb80e786b93103943710a4ab0d90ed16069180ba7fddd4c7742ada0e5af
-# source_id: ziyaraat:d5e07a8ef71a2433aadd
-# source_url: https://www.ziyaraat.net/api/noha/1177
-# raw_sha256: 84a80a13c99cab32b710224d68b7fff64bdf354b3e01222cef18d20bd9b73e78
 ---
 
 ذوالجناح ذوالجناح

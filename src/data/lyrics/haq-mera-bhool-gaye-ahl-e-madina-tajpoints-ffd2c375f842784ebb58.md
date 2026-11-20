@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ffd2c375f842784ebb58
-# source_url: https://tajpoints.com/2020/01/haq-mera-bhool-gaye-ahl-e-madina-lyrics.html
-# raw_sha256: 8ca045faefd7998c51f1f71b4ddba0d6c0b91aeae7aa17ee74a1ec96536f985c
 ---
 
 Haq Mera Bhool Gaye Ahl-e-Madina Lyrics

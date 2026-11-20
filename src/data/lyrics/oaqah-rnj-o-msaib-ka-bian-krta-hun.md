@@ -8,9 +8,6 @@ reciter: "Farhan Ali"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c6bc4da3364880cfbf56
-# source_url: https://www.ziyaraat.net/api/noha/2446
-# raw_sha256: e61d7f6330b9a29347340bd092245749a7a5cdc81093e98e130189f5750cdf34
 ---
 
 1

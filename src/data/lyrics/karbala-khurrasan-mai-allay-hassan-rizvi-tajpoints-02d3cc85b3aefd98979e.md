@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:02d3cc85b3aefd98979e
-# source_url: https://tajpoints.com/2025/05/karbala-khurrasan-mai-allay-hassan-rizvi.html
-# raw_sha256: 7d47a17f5021ec3785ae093f79add037f6e1398777dbfb50424bb0ede77ce90f
 ---
 
 1

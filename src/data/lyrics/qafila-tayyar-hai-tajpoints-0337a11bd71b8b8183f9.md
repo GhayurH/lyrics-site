@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0337a11bd71b8b8183f9
-# source_url: https://tajpoints.com/2020/08/qafila-tayyar-hai-lyrics-in-urdu-and.html
-# raw_sha256: 4b9f5fd09e91b94abb1157da87e10893f2dfe5f3a520586bd7ad05fa13d2799f
 ---
 
 1

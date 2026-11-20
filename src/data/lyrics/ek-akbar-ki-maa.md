@@ -46,9 +46,6 @@ romanLyrics: |-
   Karbala ki sabhi bibiyoṅ ko salaam
   Bibiyoṅ ki nigahoṅ meiṅ thi sayebaṅ
   Ek akbar ki maa...
-# source_id: nohayonline:f4513233114b003d5fe6
-# source_url: https://www.nohayonline.com/details_content.php?id=3125
-# raw_sha256: 97cc151ca77230fd0e08d29deec680359a7b8d086b912984b803dbd2e0fd2d5c
 ---
 
 ۱

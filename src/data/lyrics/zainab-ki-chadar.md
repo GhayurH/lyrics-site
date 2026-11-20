@@ -58,9 +58,6 @@ romanLyrics: |-
   Likhuṅ to kaise haye ye manzar
   Us dam yehi tha sheh ke laboṅ par
   Allahu akbar zainab ki chadar...
-# source_id: nohayonline:97d9620b7248a34dacc3
-# source_url: https://www.nohayonline.com/details_content.php?id=925
-# raw_sha256: dd4dc736f7f808ca90da6b0cf738ac08fd8d19cff90dc18f9bb66179d71d63a2
 ---
 
 ۱

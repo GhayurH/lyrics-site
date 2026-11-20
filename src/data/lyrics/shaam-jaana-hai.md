@@ -123,9 +123,6 @@ romanLyrics: |-
   Shaam jaana hai shaam jaana hai
   Shaam jaana hai shaam jaana hai
   Saqqa-e-Sakina Ae saakin al Madina
-# source_id: nohayonline:2d4ef6762f642b755310
-# source_url: https://www.nohayonline.com/details_content.php?id=2816
-# raw_sha256: 522ffe23bfc8d244fe995af919df82bed7b0a308a24829bc4cb87685be13c5fe
 ---
 لبیک یا زینب لبیک یا زینب
 لبیک یا زینب لبیک یا زینب

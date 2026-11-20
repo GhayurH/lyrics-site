@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c01a732429980b865603
-# source_url: https://tajpoints.com/2022/12/kabhi-bhoolengy-na-zehra-syed-ahsan.html
-# raw_sha256: e435530ba926340c8166eeb50aa50bc58e193a72796f787fe07738c66f811ed5
 ---
 
 Kabhi Bhoolengy Na Zehra Syed Ahsan Abbas Baquri.

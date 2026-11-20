@@ -8,9 +8,6 @@ poet: "Zaheer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:881ca7f375575713c66e
-# source_url: https://tajpoints.com/2022/05/palat-ke-agaya-lasha-qaiser-abbas.html
-# raw_sha256: 090f7422c35287c09c2cf5ea3902a5303b117853f482911c7d1e8cb126be49ac
 ---
 
 Palat Ke Agaya Lasha Qaiser Abbas.

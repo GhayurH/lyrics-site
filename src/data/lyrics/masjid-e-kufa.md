@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Jafri mushkil kusha ke qatl ka nauha hai ye
   Jo musalle par usi ke khun se likha gaya
-# source_id: nohayonline:68eba41aef88c315bd34
-# source_url: https://www.nohayonline.com/details_content.php?id=964
-# raw_sha256: 59f9089dbf95b3578ff5bf199d588a24dca6102b0cd33987c88d3809548e1b2a
 ---
 مسجد کوفہ سے لوگوں آ رہی ہے یہ صدا
 جو نبی کا جانشیں تھا وہ علی مارا گیا

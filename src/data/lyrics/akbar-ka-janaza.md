@@ -66,9 +66,6 @@ romanLyrics: |-
   Bas khatm karo noha qirtas pe ye likh kar
   Behosh hui madar hai baap ke haathoṅ par
   Akbar ka janaza
-# source_id: nohayonline:1a381d209ea85e315f97
-# source_url: https://www.nohayonline.com/details_content.php?id=3547
-# raw_sha256: ab184be6fe765bed4471400d6043ff232a4bda30c092a6894197129a19a23674
 ---
 ایک شور ہوا برپا سادات کے ماتم سے
 سر بچی نے ٹکرایا عباس کے پرچم سے

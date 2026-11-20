@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Mil jaaye agar dudh to do kuzoṅ meiṅ bhar ke
   Faateha mere Asghar ki tu dilwaaiyo Zainab
-# source_id: nohayonline:2e8ef4ddb506d150a57f
-# source_url: https://www.nohayonline.com/details_content.php?id=2672
-# raw_sha256: 3082ecf0bf42b488ae07ba56f25c4ca5c577227803649d14c86c758a365e87a2
 ---
 شہ نے کہا جب شام سے گھر جائیو زینب
 صغرا کو میری سینے سے لپٹائیو زینب

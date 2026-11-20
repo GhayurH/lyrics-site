@@ -36,9 +36,6 @@ romanLyrics: |-
   Uspeh takeed e ye kee
   Ahlebait aur e kalamul lah heh bas mere siwa
   Wa Hasan e sabz qaba
-# source_id: ziyaraat:23cba5293a32785a9235
-# source_url: https://www.ziyaraat.net/api/noha/2089
-# raw_sha256: 79671dafa6d33f44174c8970a77bcd33ebc90210dec5cc0e897abedffaaee977
 ---
 
 بےگناہ مارا گیا رسول دوسرا وا حسن سبز قبا

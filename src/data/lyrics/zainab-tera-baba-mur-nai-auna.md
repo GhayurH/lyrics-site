@@ -7,17 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:b02f0d22c995957c3cb0
-# source_url: https://www.nohawriteups.org/zainab-tera-baba-mur-nai-aaana/
-# original_html: snapshots/nohawriteups/original_html/b02f0d22c995957c3cb0.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b02f0d22c995957c3cb0.json
-# api_content_sha256: dca54cccf3538e1431c4c700a97ad1bf729997f47712581e4650a9cc197f6df9
-# source_id: nohawriteups:13fdea2ec6af597e7eed
-# source_url: https://www.nohawriteups.org/zainab-tera-baba-mur-nai-auna/
-# original_html: snapshots/nohawriteups/original_html/13fdea2ec6af597e7eed.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/13fdea2ec6af597e7eed.json
-# api_content_sha256: 280bd64817a394ec43515b7be1df8e8b5a3f2d2c8b4ffb4baf4aa6cc1e156931
-# editorial_note: Same Punjabi Roman source text in both witnesses, normalized auna/aaana title, six numbered couplets; unpublished.
 ---
 
 Kalme Da Waaris Tur Peya Ay, Deway Jabreel Sadaawan

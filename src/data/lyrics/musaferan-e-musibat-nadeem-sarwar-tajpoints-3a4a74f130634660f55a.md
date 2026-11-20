@@ -8,9 +8,6 @@ poet: "Dabeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3a4a74f130634660f55a
-# source_url: https://tajpoints.com/2022/12/musaferan-e-musibat-nadeem-sarwar.html
-# raw_sha256: e124e576cd7f26b4eac0ef80d5047a0ddd9a03ea993af52270f6bbb7b2c4f162
 ---
 
 Musaferan e Musibat Nadeem Sarwar.

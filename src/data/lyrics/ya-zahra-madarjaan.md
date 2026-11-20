@@ -66,12 +66,6 @@ romanLyrics: |-
   Yaad aane lagi maaṅ aalam-e-tanhaai meiṅ
   Rukh Baqiyya ki taraf kar ke pukaare Sarwar
 reciter: "Shahid Baltistani"
-# source_id: nohayonline:436c7891035287ddeb9f
-# source_url: https://www.nohayonline.com/details_content.php?id=3302
-# raw_sha256: bf019fb6a2442c13449257786399089f727805d0c392150b86900a04693a4a12
-# source_id: ziyaraat:7057308c6c0ed2b41a02
-# source_url: https://www.ziyaraat.net/api/noha/1975
-# raw_sha256: 56daad706504c22a7e44247d82d093d2cfc869877cf5486b86bf860221ccc36c
 ---
 
 یا زہرا مادر جان

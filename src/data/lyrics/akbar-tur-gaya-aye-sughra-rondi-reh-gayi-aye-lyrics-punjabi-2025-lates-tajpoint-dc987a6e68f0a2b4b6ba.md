@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:dc987a6e68f0a2b4b6ba
-# source_url: https://tajpoint.com/akbar-tur-gaya-aye-sughra-rondi-reh-gayi-aye-lyrics/
-# raw_sha256: 6ba994aaa0cee5eb7552d18fffd04e4b9f73baf9266f696a9e499742a8ad1cf3
 ---
 
 1

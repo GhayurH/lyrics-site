@@ -68,12 +68,6 @@ romanLyrics: 'Hay waqt-e-azaan aa Ali Akbar azaan day
   8) Rehan yeh namazain aqeedat ka waqat
 
   Nohon ko tu azaan bana ker azaan dai.'
-# source_id: nohayonline:c45026c601b7c7993cdb
-# source_url: https://www.nohayonline.com/details_content.php?id=606
-# raw_sha256: fdd21d662fdc1bce5e9e85829c9e7ffb866ae55d8e9c5c5eeda2a07e0c329a27
-# source_id: ziyaraat:382ffb7861e5b9c1ef81
-# source_url: https://www.ziyaraat.net/api/noha/229
-# raw_sha256: 99b3d404fe4c345f6115e9d7f1fc5136174302b28c2d0bf2273e5e7759f1a654
 ---
 
 ہے وقتِ اذاں آ علی اکبر اذان دے

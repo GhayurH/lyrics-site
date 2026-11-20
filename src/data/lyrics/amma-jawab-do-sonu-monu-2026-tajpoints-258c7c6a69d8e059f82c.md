@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:258c7c6a69d8e059f82c
-# source_url: https://tajpoints.com/2026/10/amma-jawab-do-sonu-monu-2026.html
-# raw_sha256: 10d3dfba42cceffc57a169035ed5398bbaaac6d0458c8760e04ea8a0e4093f94
 ---
 
 Maa Ko Kafan Mein Dekha Tu Shabbir Ne Kaha.

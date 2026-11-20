@@ -58,9 +58,6 @@ romanLyrics: |-
   Sun ke rote the ali bas ye fughaṅ
   Ta dame marg raha darde jigar
   Ya ali aap gawahi dena...
-# source_id: nohayonline:202f276a7baebd9d607a
-# source_url: https://www.nohayonline.com/details_content.php?id=3087
-# raw_sha256: 68efb4f2fb7ead3303fe41a7b14efb1a1edafb0a982d953e30c96e6fd8cf89c9
 ---
 
 ۱

@@ -81,12 +81,6 @@ romanLyrics: 'Meray Ghazy kahaan ho
   Aale Haider hun Quran ki tafseer hun
 
   Koyi Yawar nahi, kisko doon main sadaa, meray Ghazi kahaan ho'
-# source_id: nohayonline:83dc466038daf61af530
-# source_url: https://www.nohayonline.com/details_content.php?id=109
-# raw_sha256: 9bd5057e26e976c0357da963c3620afea67536186cadaf3722c2493db423300f
-# source_id: ziyaraat:22037515c8f384491177
-# source_url: https://www.ziyaraat.net/api/noha/242
-# raw_sha256: a25c37869bd7b6b76a62d6d6d213984d1fd44f8e69d5f927f8c75f4de1c16103
 ---
 
 میرے غازیؑ کہاں ہو

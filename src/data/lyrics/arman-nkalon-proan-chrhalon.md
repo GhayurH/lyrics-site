@@ -74,13 +74,6 @@ romanLyrics: 'Armaan nikalon parwaan charha loon
   8) Pehna kay zara dekh loon poshaak shahani
 
   Taboot pay phoolon ke may sehra to charha loon'
-# source_id: nohayonline:44b188eba173a975d2e5
-# source_url: https://www.nohayonline.com/details_content.php?id=2010
-# raw_sha256: 1d2bb64d71f03939406544081d2ca68a1d422cc5d73837586493493f2d1db30f
-# source_id: ziyaraat:471e168fe055d3ab6884
-# source_url: https://www.ziyaraat.net/api/noha/394
-# raw_sha256: 2d1d1bcd83e17d48944ffc834d686fb4be56519e81ccb3567b9aef8daf249e26
-# added_stanza_source: roman:kalam-nohayonline-44b188eba173a975d2e5
 ---
 
 ارمان نکالوں پروان چڑھالوں

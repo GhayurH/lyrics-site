@@ -8,9 +8,6 @@ poet: "Jary"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8d1e12f721272a377056
-# source_url: https://tajpoints.com/2023/08/noor-e-nazar-ki-lash-syed-mudassir.html
-# raw_sha256: 48d6d665526c6d13985d915a0473b597d4ca7de35a3c17643739e92640f2811e
 ---
 
 Noor e Nazar Ki Lash Syed Mudassir Mehdi 2023.

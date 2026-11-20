@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b98f3b6bca2d03bb60ee
-# source_url: https://tajpoints.com/2022/09/chaddar-hassan-ali-lyrics-in-urdu-and.html
-# raw_sha256: bbd0edb5ea5a285177fd510aae007abaa4cbc04b3df4430a9f7ff081acc431a5
 ---
 
 Chadar Har Moor Pe Mangi Hai Sardar Ali Ki Beti Ne.

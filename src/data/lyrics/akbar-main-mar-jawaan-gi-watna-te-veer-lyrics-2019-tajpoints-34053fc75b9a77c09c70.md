@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:34053fc75b9a77c09c70
-# source_url: https://tajpoints.com/2020/10/akbar-main-mar-jawaan-gi-watna-te-veer.html
-# raw_sha256: eb7024f71bfcb54432dce1dc422b336188c379ddf89a37f879d10d64963ca968
 ---
 
 1

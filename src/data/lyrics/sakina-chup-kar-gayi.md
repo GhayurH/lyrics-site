@@ -72,9 +72,6 @@ romanLyrics: |-
   Zindaaṅ meiṅ sar jab aaya
   Rote rote Baba ke chehre par rakh kar chehra
   Sakina chup kar gayi
-# source_id: nohayonline:fe26571a16c2fa41c277
-# source_url: https://www.nohayonline.com/details_content.php?id=3719
-# raw_sha256: 304ddeb32af0c72b3dcc766c83c9b43792b2800232fae4c577aac79715044eeb
 ---
 شام زندانِ شام شام ہائے شام
 

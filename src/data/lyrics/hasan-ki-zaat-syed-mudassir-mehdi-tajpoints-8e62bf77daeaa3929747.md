@@ -8,9 +8,6 @@ poet: "Mussadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e62bf77daeaa3929747
-# source_url: https://tajpoints.com/2022/04/hasan-ki-zaat-syed-mudassir-mehdi.html
-# raw_sha256: a807c26a95fc658d5c8817c78163c9ebcfc499afc94f12563c47002c6ec662e8
 ---
 
 Hasan Ki Zaat Syed Mudassir Mehdi.

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c9bd5253e55294fa2b79
-# source_url: https://www.ziyaraat.net/api/noha/1277
-# raw_sha256: c7a9233ae747877d82cd8e99fb9e6e6791e73f1ffe79bbe85d0f1efe44895d7c
 ---
 
 ہو لے ہولے خنجر چلا ظالم

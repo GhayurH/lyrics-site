@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d979fe437942d1328aef
-# source_url: https://tajpoints.com/2024/05/turya-jadon-janaza-mola-ali-raza-da.html
-# raw_sha256: 9bd2c7f705a4d588f74a0762063556c091661aacb36d1200436803ea39ed7c99
 ---
 
 1

@@ -82,9 +82,6 @@ romanLyrics: |-
   Paidal Najaf se aana hai chal ke
   Jannat ka mujh ko tu raasta dikha de
   Karbala dikha de
-# source_id: nohayonline:ef41c162fbc45c69d4a8
-# source_url: https://www.nohayonline.com/details_content.php?id=1654
-# raw_sha256: 4e15f04ff341ea18461eaa51c4816520525081081538858ac5b2aec915815592
 ---
 اے میرے مولا حسین
 اے میرے آقا حسین

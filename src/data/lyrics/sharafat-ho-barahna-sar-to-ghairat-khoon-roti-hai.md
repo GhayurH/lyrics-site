@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:341348308bb0e3353993
-# source_url: https://www.ziyaraat.net/api/noha/2308
-# raw_sha256: 1087ce264f169eba81a1e1dc3c8bf6b138ce0257a03777d5b257efa64d6c4344
 ---
 
 Sharafat ho barahna sar to ghairat khoon roti hay

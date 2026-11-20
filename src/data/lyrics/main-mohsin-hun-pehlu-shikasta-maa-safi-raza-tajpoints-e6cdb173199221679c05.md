@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e6cdb173199221679c05
-# source_url: https://tajpoints.com/2022/12/main-mohsin-hun-pehlu-shikasta-maa-safi.html
-# raw_sha256: a60f6fab58c7ad38cb1e20484bb488b80921c8cff9b3d0651954deec4d41f411
 ---
 
 1

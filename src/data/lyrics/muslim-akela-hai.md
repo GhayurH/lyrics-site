@@ -75,9 +75,6 @@ romanLyrics: |-
   Wo dekho baithi haiṅ amma wahaaṅ daaman ko phailaaye
   Sar-e-Muslim ko sine se lagaaye kahti haiṅ Zehra
   Mera Muslim akela hai
-# source_id: nohayonline:1c2eb699853e797c1d88
-# source_url: https://www.nohayonline.com/details_content.php?id=1342
-# raw_sha256: fe2c54c495488377915bc213a1ceb2c708a2a9d724e6c89d19764c0966aa8ff1
 ---
 کہا شبیر نے غازی وہ دیکھو جانب کوفہ
 میرا مسلم اکیلا ہے

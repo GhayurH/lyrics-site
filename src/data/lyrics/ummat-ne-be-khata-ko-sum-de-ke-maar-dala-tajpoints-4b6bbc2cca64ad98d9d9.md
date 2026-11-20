@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4b6bbc2cca64ad98d9d9
-# source_url: https://tajpoints.com/2023/09/ummat-ne-be-khata-ko-sum-de-ke-maar.html
-# raw_sha256: f9643d490809aebffc33dfd27905097a3a63a619245100c6a4f33b261eca708d
 ---
 
 1

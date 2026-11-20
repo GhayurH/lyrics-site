@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:32d0818f930b3b6de1e2
-# source_url: https://tajpoints.com/2023/08/sakina-royi-qamber-zaidi-urdu-lyrics.html
-# raw_sha256: 76100d98dff0fe845470a3ccb3a321c23e81763a57fde19a0f6222453ec9cd2e
 ---
 
 1

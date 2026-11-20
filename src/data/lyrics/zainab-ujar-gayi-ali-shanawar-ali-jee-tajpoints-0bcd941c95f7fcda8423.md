@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0bcd941c95f7fcda8423
-# source_url: https://tajpoints.com/2024/07/zainab-ujar-gayi-ali-shanawar-ali-jee.html
-# raw_sha256: 4379da61ae4e58bca80f091a1731c7fd488761acbb76eaf2898d4b84556094a6
 ---
 
 Pyaray Nana Mere Pyaray Nana Ya Rasool ALLAH Mere Pyaray Nana.

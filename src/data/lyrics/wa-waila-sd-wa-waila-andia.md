@@ -62,9 +62,6 @@ romanLyrics: |-
   7
   Husain Imam Husain Haider
   Husain Imam Husain Haider
-# source_id: ziyaraat:a8af84d48249a602c362
-# source_url: https://www.ziyaraat.net/api/noha/2080
-# raw_sha256: 8765bd1f1d2e4187d66a3718d7d6be6da3f640eefed3a15c2947092c4ae2396a
 ---
 
 واویلا صد واویلا

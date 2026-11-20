@@ -62,9 +62,6 @@ romanLyrics: |-
   Tu ne jo Aalam nauha likha hai
   Aamir ne ro ro ke parha hai
   Ahl-e-aza rote haiṅ sun kar
-# source_id: nohayonline:fffae056cb76d2b5fd9b
-# source_url: https://www.nohayonline.com/details_content.php?id=3403
-# raw_sha256: a8c32b0e5be172b16a6035362a6cfba079d2c5e2b2e955adba9b961c365afedd
 ---
 
 چہلم کرنے آئی ہے زینب

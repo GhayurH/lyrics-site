@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d6d997a082160e329796
-# source_url: https://tajpoints.com/2024/01/ya-ali-jewan-tere-lal-hasan-sadiq.html
-# raw_sha256: afbb16ff759ac0a0d2059c7e77221e22260e848d445c8595545a2911183878e5
 ---
 
 1

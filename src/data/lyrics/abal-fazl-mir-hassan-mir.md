@@ -7,11 +7,6 @@ direction: "rtl"
 kalamType: "Noha"
 aliases: []
 published: false
-# source_id: nohawriteups:e5e8448e79023d366774
-# source_url: https://www.nohawriteups.org/abal-fazl-mir-hassan-mir/
-# raw_sha256: 768fa544f7527ffdd256ae68650df153d2b6149bc950d7d44a700fdb8407872a
-# source_title_original: Abal Fazl Mir Hassan Mir
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Abbas Abbas Abbas
   Saqe alye abba abalfazal

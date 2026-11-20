@@ -8,9 +8,6 @@ poet: "Ashhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bbcbb79e5825ceb4ac15
-# source_url: https://tajpoints.com/2023/02/moajza-zainab-rizwan-zaidi-and-sons.html
-# raw_sha256: 3b02b8db3ede83b7e6b72bc3bac00564001ac9ed9f2aa4340e78768c66e3ecb6
 ---
 
 1

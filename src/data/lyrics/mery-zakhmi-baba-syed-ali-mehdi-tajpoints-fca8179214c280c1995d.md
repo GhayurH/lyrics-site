@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fca8179214c280c1995d
-# source_url: https://tajpoints.com/2022/04/mery-zakhmi-baba-syed-ali-mehdi-lyrics.html
-# raw_sha256: 10b178f9f1a9f0151e7bd58a51a10d0718981befc65dffef670341f2d6d0313c
 ---
 
 Mery Zakhmi Baba Syed Ali Mehdi Lyrics

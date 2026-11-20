@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:517496d3c94af3d58cf1
-# source_url: https://tajpoints.com/2026/06/battis-baras-waar-diye-char-baras-per.html
-# raw_sha256: 73556cbe5a8d598ca5129a3ebf54f8d0c9a225d494060e36139c7520d52a83b5
 ---
 
 Sar Chom Ke Abbas Ka Kehte Rahe Sarwar.

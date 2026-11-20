@@ -46,9 +46,6 @@ romanLyrics: |-
   7
   Hai ye Majid ki dua muntazim-e-Karbobala
   Ham ko Mukhtar ke raaste pe chalaana Abbas
-# source_id: nohayonline:599986cc2f62fabd9251
-# source_url: https://www.nohayonline.com/details_content.php?id=3698
-# raw_sha256: 38736284fffb06da46982d331150b5f46b92aad407041f78b60172792ef916dd
 ---
 المدد یا عباس
 

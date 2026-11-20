@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ab75420061a24fcb5f70
-# source_url: https://tajpoints.com/2017/02/hassanas-ke-lal-janab-e-ameer-qasimas-ki.html
-# raw_sha256: 60c38a85f2361ea0edfaf54c75950db15fb9fd872587f1b7de4bcb1904531be1
 ---
 
 1

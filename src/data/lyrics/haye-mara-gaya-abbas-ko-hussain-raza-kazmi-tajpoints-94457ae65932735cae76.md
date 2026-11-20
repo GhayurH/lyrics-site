@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:94457ae65932735cae76
-# source_url: https://tajpoints.com/2021/08/haye-mara-gaya-abbas-ko-hussain-raza.html
-# raw_sha256: e598687dfd45cc054579f99a89f43a2c7f01a6be4b4be486cc80fb3bc6fa3b73
 ---
 
 1

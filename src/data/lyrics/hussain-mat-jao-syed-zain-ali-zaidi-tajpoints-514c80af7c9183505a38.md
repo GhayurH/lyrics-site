@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:514c80af7c9183505a38
-# source_url: https://tajpoints.com/2023/08/hussain-mat-jao-syed-zain-ali-zaidi.html
-# raw_sha256: 518f95df2da132f5c87553981960657fd408b31127a2b60f617ccd71ab6b3f99
 ---
 
 Hussain Mat Jao Syed Zain Ali Zaidi.

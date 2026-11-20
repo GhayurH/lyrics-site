@@ -176,9 +176,6 @@ romanLyrics: |-
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
   Haaṅ mera Maula Ali
-# source_id: nohayonline:0c1931a7f356b1961af5
-# source_url: https://www.nohayonline.com/details_content.php?id=1740
-# raw_sha256: 7f216e917836d05381673fbd58ac5ed27de57eb2e7a9a31c6a573b7d533fa90a
 ---
 علی اسد اللّٰہ علی اسد اللّٰہ علی اسد اللّٰہ
 

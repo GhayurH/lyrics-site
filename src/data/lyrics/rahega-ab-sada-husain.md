@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:0f43eb4c3d7f415bc481
-# source_url: https://www.ziyaraat.net/api/noha/2156
-# raw_sha256: 5c5537da5d4bd8eab2377b4d2a311c685706c03c8123553dcd1e8dae7c310064
 ---
 
 Yaa hussain.....

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:c0379108fd72c9c69b76
-# source_url: https://tajpoint.com/jandi-wari-babay-ne-aye-sughra-nu-farmaya/
-# raw_sha256: 7992557809e036feef45bbbcd38041b94ed2dd94cf993db92ef96068c8c5c47d
 ---
 
 1

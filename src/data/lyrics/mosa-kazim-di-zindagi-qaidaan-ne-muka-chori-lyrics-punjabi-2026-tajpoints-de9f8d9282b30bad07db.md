@@ -8,9 +8,6 @@ poet: "Basharat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:de9f8d9282b30bad07db
-# source_url: https://tajpoints.com/2026/01/mosa-kazim-di-zindagi-qaidaan-ne-muka.html
-# raw_sha256: 3a3a2b114a7c832b02e6f1c917f4c6b2377c384906a545835ba246ae87343376
 ---
 
 Mosa Kazim Di Zindagi Qaidaan Ne Muka Chori.

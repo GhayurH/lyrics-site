@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:71545c7db6c8609534c2
-# source_url: https://tajpoints.com/2020/02/ashab-nabi-de-hasday-re-haye-zahra.html
-# raw_sha256: 97bd665c53d43c8d9995ae930c20171574071bec0e8bd777977bc457b6af9294
 ---
 
 1

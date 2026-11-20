@@ -52,9 +52,6 @@ romanLyrics: |-
   10
   Subut-e-Nayyar-e-wafa wujud-e-Aamir-e-aza
   Samete hai jo Karbala hai aisa marsiya Husain
-# source_id: nohayonline:6deafcd6a674a8d49013
-# source_url: https://www.nohayonline.com/details_content.php?id=1796
-# raw_sha256: 30edc4393329c31be5cb7e5b35878e5c9accaafccfd83e5cd65a6a7e46239d10
 ---
 
 صدائے کربلا حسین زباں زباں ہے یا حسین

@@ -8,9 +8,6 @@ poet: "Mazhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9f886375f46db276a15a
-# source_url: https://tajpoints.com/2018/04/mehman-qalandar-kay.html
-# raw_sha256: 784e14e69a2e7bf065b8f41f6199c48c2a75f6f6dd32cb7840ca61e4bd7fe7e2
 ---
 
 1

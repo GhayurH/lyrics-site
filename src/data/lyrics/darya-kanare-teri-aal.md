@@ -65,9 +65,6 @@ romanLyrics: |-
   Mera qalam bhi khuṅ ro raha hai
   Likhte hue ye pur dard manzar
   Gham Karbala ke dil meiṅ basa ke
-# source_id: nohayonline:19525e2f679123b18720
-# source_url: https://www.nohayonline.com/details_content.php?id=1552
-# raw_sha256: 9c7236a0711cb68109f865038abe7f0f4c48b4a1119202f5e39b33739add2dc2
 ---
 
 دریا کے کنارے تیری آل پیاسی

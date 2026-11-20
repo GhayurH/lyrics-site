@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b96d98d4f20e0db176fb
-# source_url: https://tajpoints.com/2022/06/main-dhi-haider-karrar-di-haan-kis-moor.html
-# raw_sha256: fdf39ec5eba3665046e41118d4b437cde184c48ca67e61f8f931349c360faa39
 ---
 
 1

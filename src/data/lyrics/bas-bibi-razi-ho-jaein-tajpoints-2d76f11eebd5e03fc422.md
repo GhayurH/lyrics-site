@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2d76f11eebd5e03fc422
-# source_url: https://tajpoints.com/2018/03/bas-bibi-razi-ho-jaein.html
-# raw_sha256: 068e0f6b1e243796f31119e8f2d7f2ebb9a9400dbe0f70510c16c0d12c7efe4c
 ---
 
 Bas Bibi Razi Ho Jaein.

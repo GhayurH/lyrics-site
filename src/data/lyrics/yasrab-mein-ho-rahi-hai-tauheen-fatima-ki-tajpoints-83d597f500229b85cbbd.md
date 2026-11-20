@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:83d597f500229b85cbbd
-# source_url: https://tajpoints.com/2020/01/yasrab-mein-ho-rahi-hai-tauheen-fatima.html
-# raw_sha256: 46943958f4ff5ba013db1b58d60be071909c1f81ec91e3ed2628ab1e0b8f8035
 ---
 
 1

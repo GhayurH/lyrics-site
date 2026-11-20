@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:371ce33abae0693ba49e
-# source_url: https://www.ziyaraat.net/api/noha/1803
-# raw_sha256: ad815964dcc4ad66541a7aa3e14a8051d34fb226871de260e936f5c4a761f09e
 ---
 
 Dhiyaan watan te mangan dua

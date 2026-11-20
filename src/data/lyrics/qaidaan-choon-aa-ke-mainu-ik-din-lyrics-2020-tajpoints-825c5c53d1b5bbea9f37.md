@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:825c5c53d1b5bbea9f37
-# source_url: https://tajpoints.com/2020/10/qaidaan-choon-aa-ke-mainu-ik-din.html
-# raw_sha256: 8834c1a7b4da185921013fd93e49257d199a130fd69c285e7d855565e0bea3bd
 ---
 
 Qaidaan Choon Aa Ke Mainu Ik Din Choraway Ga.

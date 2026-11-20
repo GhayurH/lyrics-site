@@ -56,9 +56,6 @@ romanLyrics: |-
   11
   Sheh ke maatam meiṅ Hilal aisi fiza gunj uthi
   Hue larzaaṅ dar o diwaar Khuda khair kare
-# source_id: nohayonline:0110ec24654f76ae10da
-# source_url: https://www.nohayonline.com/details_content.php?id=1732
-# raw_sha256: 4cae5d0295e4888bbd1d0c913a48fbd449910bcc3d178b617e7dc818cb91f955
 ---
 خیر کرے خدا خیر کرے
 

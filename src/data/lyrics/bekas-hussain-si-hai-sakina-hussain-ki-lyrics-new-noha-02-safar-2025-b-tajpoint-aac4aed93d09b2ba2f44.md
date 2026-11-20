@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:aac4aed93d09b2ba2f44
-# source_url: https://tajpoint.com/bekas-hussain-si-hai-sakina-hussain-ki-lyrics/
-# raw_sha256: 5c2ee0dd6b75992bb7ea816377ec7669d850fb7d7b6d505a906b795759b7fc69
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a77a32370e49d4eacc20
-# source_url: https://tajpoints.com/2017/12/karam-kijiye-ya-imam-e-zamana.html
-# raw_sha256: b7f19468ac226aa728fd247cd7d677fe793ab884eb762e54037f8e7391a8e2f0
 ---
 
 Karam Kijiye Ya Imam e Zamana.

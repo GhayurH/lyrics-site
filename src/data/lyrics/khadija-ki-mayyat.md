@@ -34,9 +34,6 @@ romanLyrics: |-
   6
   Mujib aaj har ummati ro raha hai, Razi shehr e yasrab me matam bapa hai,
   Ke Zehra ki Maa kar gayin aaj rehlath, nikalti hai ghar se Khadeeja ki mayyath..
-# source_id: ziyaraat:3ccab4b33485ae934971
-# source_url: https://www.ziyaraat.net/api/noha/2312
-# raw_sha256: f0ba21aec776a3579b159e3f2dd07a6dd247921b194481cd476ed52a7d85254d
 ---
 
 مدینے میں آئی یہ کیسی قیامت نکلتی ہے گھر سے خدیجہؑ کی میّت

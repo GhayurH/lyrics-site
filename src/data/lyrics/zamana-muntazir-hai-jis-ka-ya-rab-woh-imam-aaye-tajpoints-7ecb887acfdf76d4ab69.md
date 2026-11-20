@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7ecb887acfdf76d4ab69
-# source_url: https://tajpoints.com/2020/04/zamana-muntazir-hai-jis-ka-ya-rab-woh.html
-# raw_sha256: a3d2a13e4c7673590f3d10112864ea89e86f6d7c4bfe90582f4593aafea8c0c2
 ---
 
 1

@@ -108,9 +108,6 @@ romanLyrics: |-
   Ae madaar-e-yakta salaam
   Wird-e-zabaaṅ har lamha sayyidati labbaiki
   Ya Fatimatu Zahra sallallaah ho alaiki
-# source_id: nohayonline:7ad576abd454e05289ff
-# source_url: https://www.nohayonline.com/details_content.php?id=3219
-# raw_sha256: 2bd5579bc87e00c8640fd5b370b96fabd68d4fa7e5bf1d8adbd259f1a7e5b661
 ---
 
 یا زہرا مادر جان

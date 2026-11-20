@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f0e5f5b5b945d05adf4a
-# source_url: https://tajpoints.com/2018/10/chala-jab-qafila-karbal-sakina-qabar-se.html
-# raw_sha256: 128f1fe1cab5bd5c796a475bd45b3b65574de728d091ed47b271c68fbf89fc10
 ---
 
 Chala Jab Qafila Karbal Sakina Qabar Se Boli Mujhe Bhi Sath Le Jao.

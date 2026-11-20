@@ -8,9 +8,6 @@ poet: "Anees"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:39b2bd997aab37e9999e
-# source_url: https://tajpoints.com/2023/08/ilahi-furat-par-ali-zia-rizvi-askari.html
-# raw_sha256: 573ca765dd1b8328c100edfd35798777a4510287a5688b0bec4aa3becea3e197
 ---
 
 1

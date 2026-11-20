@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed6ab7c3df4fab995309
-# source_url: https://tajpoints.com/2019/03/ye-hi-hai-mah-e-rajab-ka-hai-nara.html
-# raw_sha256: 92f3d9db910c0040f577151225230bc9c625853934014f4b9886dc97bcac4c56
 ---
 
 Ye Hi Hai Mah-e-Rajab Ka Hai Nara Marhaba Murtaza Aa Gaye Hain.

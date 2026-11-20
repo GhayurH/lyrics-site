@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:30f33451a147931d32fc
-# source_url: https://www.ziyaraat.net/api/noha/1913
-# raw_sha256: b2270cee30cc76c4f445281ae69a9e56adfab264fd79485f79f5de76c12aa58c
 ---
 Ummat ne qaid kitiyan, haaye phupiyan be-rida
 Taiyon Abid rut roya

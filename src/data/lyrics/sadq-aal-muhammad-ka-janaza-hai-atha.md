@@ -8,9 +8,6 @@ reciter: "Rizvia Party"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c8c01fe7a26b5973d0d5
-# source_url: https://www.ziyaraat.net/api/noha/2037
-# raw_sha256: e654a12f9c8a3645c75dca3db9dc897bf719a29402f4fccc07e32ab6ed4e82a2
 ---
 
 Sadiq e Aal e Muhammad ka janza hay utha

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d8f3114d4b8c03428425
-# source_url: https://tajpoints.com/2023/06/udekaan-akbar-veer-diyaan-ch-faiyaz.html
-# raw_sha256: 0deda9529eecc59b9d0c9cd4eff19473afad4661ef467877a5bfaad0fe99753f
 ---
 
 Udekaan Akbar Veer Diyaan Ch Faiyaz Party

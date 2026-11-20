@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2cc99ab500c92f7ff4ba
-# source_url: https://tajpoints.com/2020/01/tujhe-rone-mere-baba-teri-zahra-kahan.html
-# raw_sha256: 073f15a1bf62675b276cfdf8157b89fda6d21c2edeaccb1e6b95714a8782cc3d
 ---
 
 Tujhe Rone Mere Baba Teri Zahra Kahan Jaye.

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7f253a3cb76616a37333
-# source_url: https://www.ziyaraat.net/api/noha/1535
-# raw_sha256: 61c88f23958d0eedbc28dae5d55cc74f0faab79e88be2334f071ca87fa5b2fe1
 ---
 
 Aey Ali Asghar, Aey Ali Asghar

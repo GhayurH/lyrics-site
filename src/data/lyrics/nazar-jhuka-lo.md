@@ -69,9 +69,6 @@ romanLyrics: |-
   Khamosh ho ke tarapti haiṅ Saani-e-Zehra
   Nazar meiṅ phir gai tasvir phir se waawaila
   Ye noha Aini ka Aamir ne jab parha logo
-# source_id: nohayonline:bc9e298dbd2244925bda
-# source_url: https://www.nohayonline.com/details_content.php?id=3115
-# raw_sha256: 3947629a20b0c59d7031d703b2d16ee8e25020e7f26b5253d2cba71043669e9b
 ---
 الوداع آلِ مصطفیٰ
 

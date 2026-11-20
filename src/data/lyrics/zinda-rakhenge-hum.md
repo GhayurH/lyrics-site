@@ -102,9 +102,6 @@ romanLyrics: |-
   Maqsad-e-Karbala chhup nahiṅ paayega
   Tujh se waada raha jaan kar ke fida
   Hum sada
-# source_id: nohayonline:f606362b7a6acbcd1058
-# source_url: https://www.nohayonline.com/details_content.php?id=3429
-# raw_sha256: 84201f0e479db1e9f6aafd4e42310ad4306682a0751412fa8618f9b46e56c406
 ---
 تجھ سے وعدہ ہے یہ شہ کربوبلا
 زندہ رکھیں گے ہم کربلا

@@ -59,9 +59,6 @@ romanLyrics: |-
   Wo chaahe Mazhar o Irfaaṅ ho ya qalam un ka
   Tum us ko ajr meiṅ de de na haq shafaaat ka
   Jis ne mere masaaib ashaar meiṅ haiṅ dhaale
-# source_id: nohayonline:649fe9d5ded52bfcf2a4
-# source_url: https://www.nohayonline.com/details_content.php?id=882
-# raw_sha256: 5bf6385091fd518e844ed16dcb1c493033967499259b19c60056c569b29ed89a
 ---
 مدینہ چھوڑ چلا آج محمد کا نواسہ
 دعا کرو اماں دعا کرو نانا

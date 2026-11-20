@@ -43,14 +43,6 @@ romanLyrics: |-
   Wo waqt Takallum tha ajab bint-e-Ali par
   Kehne lage Maula jo naqaab apni utha kar
   Maiṅ baap huṅ Zainab mujhe pehchaan meri jaaṅ
-# source_id: nohayonline:6f1c7ff98245cade03ac
-# source_url: https://www.nohayonline.com/details_content.php?id=994
-# raw_sha256: 5efb3bf81a66d6dab08b8787b596e548c1d7f928a89b8fea501d49bb78593fe3
-# source_id: nohawriteups:89da16582c63031e6c89
-# source_url: https://www.nohawriteups.org/sadaat-hai-pardes/
-# original_html: snapshots/nohawriteups/original_html/89da16582c63031e6c89.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/89da16582c63031e6c89.json
-# api_content_sha256: 839da6039dc896c0dd8cd3babec443d433a4d21c8f8ac465536f80124cb84e11
 ---
 سادات ہے پردیس ہے اور شام غریباں
 کیا وقت ہے غازی نہیں زینب ہے نگہباں

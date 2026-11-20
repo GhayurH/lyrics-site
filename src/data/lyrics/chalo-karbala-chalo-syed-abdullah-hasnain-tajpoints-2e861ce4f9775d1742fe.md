@@ -8,9 +8,6 @@ poet: "Waheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2e861ce4f9775d1742fe
-# source_url: https://tajpoints.com/2021/12/chalo-karbala-chalo-syed-abdullah.html
-# raw_sha256: d420c01747bbb26b49ceccc35764f5eb4b4a8574ee1ecc694b691b5e15d3a8a1
 ---
 
 Iss Baras Chehlum Mananay Aao Chalein Karbala.

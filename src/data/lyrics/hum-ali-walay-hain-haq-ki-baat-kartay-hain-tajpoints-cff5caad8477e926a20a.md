@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cff5caad8477e926a20a
-# source_url: https://tajpoints.com/2019/11/hum-ali-walay-hain-haq-ki-baat-kartay.html
-# raw_sha256: be271826064277febbce97c0e78d64e65f71be22c6575b2379b638e4c6f3087b
 ---
 
 1

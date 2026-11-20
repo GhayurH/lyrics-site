@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:a49f373dc999e2e022d1
-# source_url: https://www.nohawriteups.org/aayi-darbaar-ch-jis-velay-sain-babay-di-sanad-chakay/
-# raw_sha256: 112dfdbaf2c79f4344e2012f643752faf8668fa568817a6bc08d55182269cdfb
-# source_title_original: Aayi Darbaar Ch Jis Velay Sain Babay Di Sanad Chakay
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aayi darbaar ch jis velay Sain Babay di sanad chakay
   Kitti tauheen Musalmana, khaali mur aayi, barey darbaar ichhon rondi, apnay putaran nu gal lakay

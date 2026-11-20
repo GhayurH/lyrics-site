@@ -79,9 +79,6 @@ romanLyrics: |-
   Abbas ke parcham ka sada sar pe hai saaya
   Parne ke liye hashr meiṅ Shabbir ka noha
   Abbas bulaaeṅge hameiṅ kar ke ishaara
-# source_id: nohayonline:e3d7f1d3c53484c96312
-# source_url: https://www.nohayonline.com/details_content.php?id=332
-# raw_sha256: 3aabeb54e3864f24cb74c35ad732c011c9b78b834406567e84413559e9ffee77
 ---
 
 عباسِ علی آئے قریبِ شہہ ابرار

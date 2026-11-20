@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed205cff2860a06c21e2
-# source_url: https://tajpoints.com/2021/06/salam-hai-arz-e-karbala-par-sajjad.html
-# raw_sha256: 91cc72ae12896f6d51438d9b03410dc1bc46906e8e47de70cc94bb349d6ca676
 ---
 
 1

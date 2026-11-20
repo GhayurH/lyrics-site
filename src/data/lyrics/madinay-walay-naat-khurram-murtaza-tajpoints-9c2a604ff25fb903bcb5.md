@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9c2a604ff25fb903bcb5
-# source_url: https://tajpoints.com/2022/04/madinay-walay-naat-khurram-murtaza.html
-# raw_sha256: f7f863eb7126d8d9df712141a1526d06bc7aeb20b4ed4ef57b6adb02ea74c265
 ---
 
 1

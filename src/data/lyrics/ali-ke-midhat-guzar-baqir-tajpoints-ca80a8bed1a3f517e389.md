@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ca80a8bed1a3f517e389
-# source_url: https://tajpoints.com/2023/01/ali-ke-midhat-guzar-baqir-lyrics-in.html
-# raw_sha256: 6581104bfe000adec3d512d42565cc852d89f784825d1574957cefd23cd41744
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a7082f2ce00e687dee3b
-# source_url: https://tajpoints.com/2021/08/maqsad-e-karbala-ya-ali-ya-ali-hassan.html
-# raw_sha256: 53a8d01a689efb27bfe8d15f77e417c0a1bda26e27f5beeb2b9b75946c20cef0
 ---
 
 1

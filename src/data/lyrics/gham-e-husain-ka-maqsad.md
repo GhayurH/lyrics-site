@@ -35,9 +35,6 @@ romanLyrics: |-
   6
   Nikal to aaye ga naawak gulu-e-Asghar se
   Magar Rubab ke dil se nikal nahiṅ sakta
-# source_id: tajpoints:a4b330bb1eb83fea3e84
-# source_url: https://tajpoints.com/2024/03/gham-e-hussain-ka-maqsad-piaray-khan.html
-# raw_sha256: ba3a66360350c03eca4b7dd263fcf4f27caf9a45e674ceaeadbdccfe597ed2a3
 ---
 
 ۱

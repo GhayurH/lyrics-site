@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:616bca4bacf40ead0ecf
-# source_url: https://www.ziyaraat.net/api/noha/1647
-# raw_sha256: 1051375e957a3c926b19098fe7083b3d5f2b6164551808730b3925013ddaff07
 ---
 
 May Bethi Mal Kai Ravan Mera Veer Nahi Aya, Nahi Aya

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fa3798ada5356de04cb3
-# source_url: https://tajpoints.com/2024/04/yeh-bhi-sunehri-jaliyon-ki-shan-hi-tu.html
-# raw_sha256: 72f5cf7c815f630862a0269fa5809be3869888ecf3a29c675ff620dc768f40c0
 ---
 
 1

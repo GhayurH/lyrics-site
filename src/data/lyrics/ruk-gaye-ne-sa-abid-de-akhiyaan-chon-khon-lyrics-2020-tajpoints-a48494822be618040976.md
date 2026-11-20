@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a48494822be618040976
-# source_url: https://tajpoints.com/2020/11/ruk-gaye-ne-sa-abid-de-akhiyaan-chon.html
-# raw_sha256: 7a1636aca7306359cda2e0e2c1180438fcb81d9fbb5a2aed79ca4f6980ea6968
 ---
 
 Ruk Gaye Ne Sa Abid De Akhiyaan Chon Khon Aye Jari.

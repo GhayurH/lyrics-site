@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:b386b69c9d81855224d6
-# source_url: https://tajpoint.com/fajar-welay-ikiswein-rozay-lyrics-21-ramzan-2026/
-# raw_sha256: 61bba342c1acedc4f23a8cc41d4645546aca22867bd825ac379911bfb25a833f
 ---
 
 1

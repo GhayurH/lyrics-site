@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8b4a2c7ce303f039d7a7
-# source_url: https://tajpoints.com/2024/02/rahein-gay-door-nazron-se-imam-e-ins-o.html
-# raw_sha256: 1eb94e2f30956a589d22a280644a8c694d9511fbdc78d74d91a69e3ef4d6e917
 ---
 
 1

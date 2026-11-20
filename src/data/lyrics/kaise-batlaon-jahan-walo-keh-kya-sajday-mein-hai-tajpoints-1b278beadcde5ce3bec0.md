@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1b278beadcde5ce3bec0
-# source_url: https://tajpoints.com/2017/02/kaise-batlaon-jahan-walo-keh-kya-sajday.html
-# raw_sha256: a6699e9829787333b50b785ffc96c040b479ea9ce35190384d32adf6144078aa
 ---
 
 Chokhat-e-Shabir Par Sajda Mera Sajday Mein Hai.

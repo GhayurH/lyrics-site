@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:35d721e9b90a2de21678
-# source_url: https://www.ziyaraat.net/api/noha/1285
-# raw_sha256: 6f8a91e1bcc663b1ab6fea7f2bbc901bf70f9377b06e9fc0273bca64b57305aa
 ---
 
 جیں ویلے دا جھنڑ گئے اکبر ؑ نبوی آزان سنڑاکے

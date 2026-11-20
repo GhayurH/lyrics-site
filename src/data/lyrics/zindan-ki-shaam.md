@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Maadar-e-Asghar-e-Beshir ko ae Nur Ali
   Khwaab meiṅ aake daraati rahi zindaan ki shaam
-# source_id: nohayonline:74d23c20fa9f3810979a
-# source_url: https://www.nohayonline.com/details_content.php?id=1147
-# raw_sha256: f3a1c66afe05b3001537c8b6d1f65d41cf3148164da71c9f90fc14b945308ff0
 ---
 یاد سجاد کو آتی رہی زندان کی شام
 عمر بھر خون رلاتی رہی زندان کی شام

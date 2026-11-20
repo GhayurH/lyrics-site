@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:18b18b8cd28abd4222f3
-# source_url: https://tajpoint.com/har-moor-te-main-ghazi-tainu-bolandi-rayiyan/
-# raw_sha256: 65f42071f3ece704be4997e71f54f16f4b8693af411e2f6f54e36b1fcf117134
 ---
 
 Har Moor Te Main Ghazi Tainu Bolandi Rayiyan.

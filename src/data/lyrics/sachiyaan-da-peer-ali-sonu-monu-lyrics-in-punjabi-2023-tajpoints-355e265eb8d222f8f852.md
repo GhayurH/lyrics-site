@@ -8,9 +8,6 @@ poet: "Sonu"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:355e265eb8d222f8f852
-# source_url: https://tajpoints.com/2023/07/sachiyaan-da-peer-ali-sonu-monu-lyrics.html
-# raw_sha256: 310538f816dc9a030ab9824428f71301d7a0a9f8c082d621376962c9ed4b0f90
 ---
 
 Sachiyaan Da Peer Ali Sonu Monu Lyrics

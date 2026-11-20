@@ -8,9 +8,6 @@ poet: "Ameer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6726bfa5f3e68b510879
-# source_url: https://tajpoints.com/2017/12/halke-mein-rasoolon-ke-woh-mah-e-madni.html
-# raw_sha256: 5a967dca4dde0c7327fb21d507a33debd255e91f7263595a6b939b62641ae85d
 ---
 
 Halke Mein Rasoolon Ke Woh Mah-e-Madni Hai.

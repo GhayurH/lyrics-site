@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:12edc1a447c2fae36e2c
-# source_url: https://tajpoints.com/2025/02/nabi-ki-beti-syed-zakariya-rizvi.html
-# raw_sha256: b3a2aa1db1df6904d20fc20f92655c4b2359314fdfa7d975e50d23ff66567a64
 ---
 
 1

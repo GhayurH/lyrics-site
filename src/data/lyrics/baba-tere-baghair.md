@@ -52,12 +52,6 @@ romanLyrics: |-
   Khaime bhi jala daale jala daale haiṅ Quraaṅ
   Phir bhi ye apne aap ko kehte haiṅ musalmaaṅ
   Hai baat bare dukh ki ye naana se kahuṅ gi
-# source_id: nohayonline:97359c3f8da11c5fb9c2
-# source_url: https://www.nohayonline.com/details_content.php?id=1501
-# raw_sha256: dd8e21b9bdb2d7e0135823fa2630262594ee4ac95516fd873aef4d83b6de6b27
-# source_id: ziyaraat:f7801eef24437b22b7fa
-# source_url: https://www.ziyaraat.net/api/noha/1215
-# raw_sha256: 5391c138b043b79b75604970b8ccad4e369bb9285b246b511062dabb68e55398
 ---
 بابا تیرے بغیر بھلا کیسے جیوں گی
 تنہا رہوں گی قید میں زنداں میں رہوں گی

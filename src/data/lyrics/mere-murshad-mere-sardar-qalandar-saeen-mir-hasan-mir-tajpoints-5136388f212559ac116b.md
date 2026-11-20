@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5136388f212559ac116b
-# source_url: https://tajpoints.com/2017/05/mere-murshad-mere-sardar-qalandar-saeen.html
-# raw_sha256: 4df9ac8d721566a82af39bb3eca124d958c13642d89e68f19e33b998deb73ab1
 ---
 
 1

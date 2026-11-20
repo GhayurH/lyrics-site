@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Jis tarah Ibn-e-Mazaahir ne nibhaai Yasir
   Dosti aisi kisi se bhi nibhaai na gayi
-# source_id: nohayonline:0a16509bae56035d0229
-# source_url: https://www.nohayonline.com/details_content.php?id=2555
-# raw_sha256: 9676f80a3f32391c0dc07bfbc8b95cb92bd058ab5d9c425451e2440d33bd4a60
 ---
 لاش عباس کی سرور سے اٹھائی نہ گئی
 لاش ٹکڑوں میں تھی اک جا پہ سمائی نہ گئی

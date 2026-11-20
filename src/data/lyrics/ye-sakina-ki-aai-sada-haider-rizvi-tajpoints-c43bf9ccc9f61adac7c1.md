@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c43bf9ccc9f61adac7c1
-# source_url: https://tajpoints.com/2022/09/ye-sakina-ki-aai-sada-haider-rizvi.html
-# raw_sha256: 98375621a832f284eb1a1e73d1f82676a30e5f3777599ddd9a76121189064609
 ---
 
 1

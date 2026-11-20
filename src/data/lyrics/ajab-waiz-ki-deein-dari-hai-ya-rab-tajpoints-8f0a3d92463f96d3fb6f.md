@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8f0a3d92463f96d3fb6f
-# source_url: https://tajpoints.com/2017/02/ajab-waiz-ki-deein-dari-hai-ya-rab.html
-# raw_sha256: b483bd65610c88b63e9d2225d390ec788e355c700f26257fd1e67873321f3a5b
 ---
 
 Ajab Waiz Ki Deein Dari Hai Ya Rab.

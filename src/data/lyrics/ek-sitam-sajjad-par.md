@@ -63,9 +63,6 @@ romanLyrics: |-
   Likh nahiṅ sakta wo sadme koi bhi
   Ban gai nauha magar ye baat hi
   Jab talak jita raha rota raha
-# source_id: nohayonline:d784a423e1d2b3b460fc
-# source_url: https://www.nohayonline.com/details_content.php?id=3062
-# raw_sha256: 6e58fc2013f2dfb021f61f309d21424f9d8892ffbc8213e634b8c2615235c0a0
 ---
 ہاے سجاد ہاے ہاے سجاد
 

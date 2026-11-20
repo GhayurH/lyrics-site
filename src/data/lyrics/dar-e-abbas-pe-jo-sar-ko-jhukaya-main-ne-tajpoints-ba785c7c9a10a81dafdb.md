@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ba785c7c9a10a81dafdb
-# source_url: https://tajpoints.com/2017/02/dar-e-abbasas-pe-jo-sar-ko-jhukaya-main.html
-# raw_sha256: b0269b1d31a1f0798a522a3505f62a2ac05c7a867d4f45a244a9d9a1ffce3859
 ---
 
 1

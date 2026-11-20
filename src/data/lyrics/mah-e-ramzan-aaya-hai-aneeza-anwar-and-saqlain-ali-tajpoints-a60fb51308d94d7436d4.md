@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a60fb51308d94d7436d4
-# source_url: https://tajpoints.com/2021/04/mah-e-ramzan-aaya-hai-aneeza-anwar-and.html
-# raw_sha256: 28f2fbb8088914de2b21da4515bc96bde7d7a813a237446d6dc33ea2b363b2fd
 ---
 
 1

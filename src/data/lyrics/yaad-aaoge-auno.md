@@ -62,9 +62,6 @@ romanLyrics: |-
   Bain karti thi ye binte hyder
   Yaad aaoge aun o mohamed
   Dasht meiṅ boli...
-# source_id: nohayonline:66e2850643996af53ccc
-# source_url: https://www.nohayonline.com/details_content.php?id=2811
-# raw_sha256: a45e21d1d56e5d20a8c127235f1cb94dda8f43c7604755ed5afd4dfd7ae5e2a6
 ---
 
 ۱

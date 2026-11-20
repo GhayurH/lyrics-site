@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f1551dea491ea42c0fab
-# source_url: https://tajpoints.com/2021/03/manazrah-ya-mehdi-shahid-baltistani.html
-# raw_sha256: 3eeccdbf5cddf76ce971f8c546b6ec520eb154c76dcb787210eeb7d4ce1cbcc4
 ---
 
 Manazrah Ya Mehdi Shahid Baltistani.

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5ab2e6938774e925e367
-# source_url: https://tajpoints.com/2017/09/sughra-takdi-tere-raah-veran-khairi.html
-# raw_sha256: eb3f8a4838be304df21e39365bce815c0fcabb2ddbd22996343a8ed1ecf86d78
 ---
 
 Sughra Takdi Tere Raah Veran Khairi Write Up

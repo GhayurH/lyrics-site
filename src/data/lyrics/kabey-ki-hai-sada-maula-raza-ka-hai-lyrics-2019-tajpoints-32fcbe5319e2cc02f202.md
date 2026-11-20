@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:32fcbe5319e2cc02f202
-# source_url: https://tajpoints.com/2019/07/kabey-ki-hai-sada-maula-raza-ka-hai.html
-# raw_sha256: 3968e2f7144bdd95c35bb70dd3b0a22750867a006696ddbdb585a8037361cd92
 ---
 
 1

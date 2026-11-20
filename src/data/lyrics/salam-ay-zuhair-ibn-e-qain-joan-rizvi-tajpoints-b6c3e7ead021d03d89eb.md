@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b6c3e7ead021d03d89eb
-# source_url: https://tajpoints.com/2023/07/salam-ay-zuhair-ibn-e-qain-joan-rizvi.html
-# raw_sha256: da366ce0b8fed18988b81e5e39a2cbd6c4610353eaa0d55e5cff01c33f53c569
 ---
 
 1

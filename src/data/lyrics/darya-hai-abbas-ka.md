@@ -96,9 +96,6 @@ romanLyrics: |-
   Shahzaade abhi tak pyaase ho ammu ki qasam paani pi lo
   Sairaab ho ji bhar ke beta ab qabza hai Abbas ka
   Ye darya darya darya hai Abbas ka
-# source_id: nohayonline:2944d5305b0ef2ed7b08
-# source_url: https://www.nohayonline.com/details_content.php?id=2871
-# raw_sha256: b39cd52f1dc5eb2e93e52ae83335eae6dfb344804a0c63c5a71e02c60584df29
 ---
 عباس علمدار علمدار حسینی
 

@@ -35,12 +35,6 @@ romanLyrics: |-
   Shahzaadi Sakina abhi aaghaaz-e-safar hai
   Lagte haiṅ tamaanche
   Aur shaam ka zindaaṅ to hai phir shaam ka zindaaṅ
-# source_id: nohayonline:83c6c82d7d1d61b06c9c
-# source_url: https://www.nohayonline.com/details_content.php?id=201
-# raw_sha256: 868f779bb3b6e27d61e971f90335946a1c1aed278031dfe37fd05b81366ff482
-# source_id: ziyaraat:8681c77f1262f500600b
-# source_url: https://www.ziyaraat.net/api/noha/1311
-# raw_sha256: fc1a6de3d0510869d0565a9dec6aae8fb1a869b5af6004639d1697aa00613639
 ---
 
 اے شام غریباں اے شام غریباں

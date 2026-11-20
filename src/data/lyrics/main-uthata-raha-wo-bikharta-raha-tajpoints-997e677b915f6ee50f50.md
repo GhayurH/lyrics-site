@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:997e677b915f6ee50f50
-# source_url: https://tajpoints.com/2023/07/main-uthata-raha-wo-bikharta-raha-syed.html
-# raw_sha256: aa55ac1fbbccb9952a3e314f70aa09728850caf392761a4e24368a8bcbc315a4
 ---
 
 Main Uthata Raha Wo Bikharta Raha Syed Mohammad Shah

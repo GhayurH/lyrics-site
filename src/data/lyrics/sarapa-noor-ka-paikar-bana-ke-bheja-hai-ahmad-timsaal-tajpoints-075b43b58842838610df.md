@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:075b43b58842838610df
-# source_url: https://tajpoints.com/2025/03/sarapa-noor-ka-paikar-bana-ke-bheja-hai.html
-# raw_sha256: cc83cb59a2d6c2e671f1e4e669564455d64f434f3f6829a69a1a2cb9270f3bba
 ---
 
 Sarapa Noor Ka Paikar Bana Ke Bheja Hai Ahmad Timsaal.

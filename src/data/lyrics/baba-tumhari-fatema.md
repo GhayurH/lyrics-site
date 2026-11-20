@@ -50,9 +50,6 @@ romanLyrics: |-
   Ek tuti qabr se Mohsin aawaaz ab bhi aati hai
   Ye kaise ho gaya baba maiṅ zinda reh gayi mera
   Mohsin nahiṅ bacha
-# source_id: nohayonline:4363e744aaf6f30b0909
-# source_url: https://www.nohayonline.com/details_content.php?id=3127
-# raw_sha256: 8bf95e703592aee3df3fc0c9d7ded669eb4e303369faf70a684f01d98f4e3d4c
 ---
 
 کتنی غریب ہو گئی بابا تمہاری فاطمہ

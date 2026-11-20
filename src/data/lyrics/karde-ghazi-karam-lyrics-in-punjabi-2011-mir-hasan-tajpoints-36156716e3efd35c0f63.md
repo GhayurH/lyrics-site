@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:36156716e3efd35c0f63
-# source_url: https://tajpoints.com/2020/12/karde-ghazi-karam-lyrics-in-punjabi-and.html
-# raw_sha256: 04f545a0e147148d0d25ada336c7f33f8febb84204289b7163c1d216fb88b47b
 ---
 
 1

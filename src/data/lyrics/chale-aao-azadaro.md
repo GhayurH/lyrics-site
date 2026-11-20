@@ -65,9 +65,6 @@ romanLyrics: |-
   Asif sa qalamkaar ya Aamir sa sukhanwar
   Ta umr likhe ya ke parhe naama-e-mehzar
   Haq phir bhi ada kar nahiṅ sakte haiṅ namak khwaar
-# source_id: nohayonline:27b3c23641ef5d4a2a9e
-# source_url: https://www.nohayonline.com/details_content.php?id=2137
-# raw_sha256: 699ce48375e8863893ceb4ff1fb9c5c0f0b66614dec76ba62cb452c87c106e79
 ---
 
 ھل من ناصرن ینصرنا

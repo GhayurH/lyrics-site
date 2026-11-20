@@ -8,9 +8,6 @@ poet: "Mohtasham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:78613aea0e9e4dc361c6
-# source_url: https://tajpoints.com/2024/05/mola-raza-shaheed-ahsan-abbas-mohtasham.html
-# raw_sha256: 139cb56f5a62ff641b5643e8c3ecb6a77141db330c9a5a449a974354d1832f27
 ---
 
 Mola Raza Shaheed Ahsan Abbas Mohtasham.

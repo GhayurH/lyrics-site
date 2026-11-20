@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:64973a714a95049ad04d
-# source_url: https://tajpoints.com/2023/09/ro-ke-bibi-ne-kaha-sham-ke-bazar-mein.html
-# raw_sha256: 54d6cb044a7ae18e986bc49805b3f3414296c826059803328316eae0c11c2c5a
 ---
 
 1

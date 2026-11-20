@@ -8,9 +8,6 @@ poet: "Asim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5ef052a026d6beb879ea
-# source_url: https://tajpoints.com/2022/06/shehr-e-raza-main-syed-wajhi-hasan.html
-# raw_sha256: eef2e8d4f2266ee1da1fbfcd67c02f29f1f57ec15ea686bee957e54becbe01c6
 ---
 
 1

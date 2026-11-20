@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:978736a6d87e8525dc27
-# source_url: https://tajpoints.com/2018/01/tu-shah-e-khurasan-hai-dunya-teri-nokar.html
-# raw_sha256: ed40aac9b64f177fb4fc5ed9d91b6cc9d535bd1598c445c61675b4005a8eda63
 ---
 
 1

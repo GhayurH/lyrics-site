@@ -53,9 +53,6 @@ romanLyrics: |-
   Itna ghamnaak tha rukhsat ka samaaṅ Ae Kausar
   Jab behan kehti thi dunya se chale jaao agar
   Jald paas apni behan ko bhi bulaana bhaiya
-# source_id: nohayonline:46d08cf74d442209f9b8
-# source_url: https://www.nohayonline.com/details_content.php?id=807
-# raw_sha256: cad5385d0f770c29504452a486dcf4ce4beb7bb7f3f6ec0d262150116240f80a
 ---
 شہ سے زینب نے کہا رن کو نہ جانا بھیا
 اور جاتے ہو تو پھر لوٹ کے آنا بھیا

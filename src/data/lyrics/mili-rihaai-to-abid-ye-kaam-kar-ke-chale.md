@@ -57,15 +57,6 @@ romanLyrics: |-
   Zafar Sada Yehi Aati Thi Ae Mere Baba
   Sabhi Watan Gaye Maiṅ Qaid Meiṅ Rahi Tanha
   Lahad Pe Ahl-e-Haram Jab Salaam Kar Ke Chale
-# additional_source_id: tajpoints:7c0ac3f77a854cef0b86
-# additional_source_url: https://tajpoints.com/2026/09/abid-ye-kaam-kar-kay-chaly-syed-ali.html
-# additional_raw_sha256: f3827b9e0accc582a167a4b7c2797942645534dea7397c3895f1364868e1c096
-# editorial_uncertainty: Added stanzas 3-7 from TajPoints Roman-only source. The final line of new stanza 7 ("Yehi Husain Alh Aslam Kar Ke Chale") is garbled in the source; Urdu is a provisional reading and must be checked against an independent source before being declared reviewed.
-# source_id: nohawriteups:3e6632d7932473105e8b
-# source_url: https://www.nohawriteups.org/mili-rehai-tu-abid-yeh-kaam-kar-key-chaley/
-# original_html: snapshots/nohawriteups/original_html/3e6632d7932473105e8b.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3e6632d7932473105e8b.json
-# api_content_sha256: 9bc6d1b85c5a8f8c70e3eff101644e08697d420fe3085cd513d3e76e86e3cf8b
 ---
 
 ملی رہائی تو عابدؑ یہ کام کر کے چلے

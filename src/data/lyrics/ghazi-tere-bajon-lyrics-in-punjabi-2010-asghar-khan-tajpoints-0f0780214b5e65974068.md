@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f0780214b5e65974068
-# source_url: https://tajpoints.com/2020/11/ghazi-tere-bajon-lyrics-in-punjabi-and.html
-# raw_sha256: 62c968fb611661efd438c8c0689da16f61b9858d799b442d6679c3238719c5c8
 ---
 
 1

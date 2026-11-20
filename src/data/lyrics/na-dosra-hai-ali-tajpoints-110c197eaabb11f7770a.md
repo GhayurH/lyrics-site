@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:110c197eaabb11f7770a
-# source_url: https://tajpoints.com/2021/03/na-dosra-hai-ali-lyrics-in-urdu-and.html
-# raw_sha256: 0ca4d95c5d153ef2e4348e0e6fd0a04711dc963bd2ad5c2d7bf21cb4a8618b53
 ---
 
 1

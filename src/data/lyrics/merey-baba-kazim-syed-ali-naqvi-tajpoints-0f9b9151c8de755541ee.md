@@ -8,9 +8,6 @@ poet: "Ali"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f9b9151c8de755541ee
-# source_url: https://tajpoints.com/2025/01/merey-baba-kazim-syed-ali-naqvi-lyrics.html
-# raw_sha256: 16df1ea23e9cee6533a705a48041200a3f2d1e62fb796d4576f8b5c2864a3f64
 ---
 
 Merey Baba Kazim Syed Ali Naqvi Lyrics

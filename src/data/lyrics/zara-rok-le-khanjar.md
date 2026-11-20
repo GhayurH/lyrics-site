@@ -62,12 +62,6 @@ romanLyrics: |-
   Sar Sheh ka juda karne meiṅ masruf laiṅ tha
   Kya kehta hai mazlum wo sunta hi nahiṅ tha
   Kehta raha sar tan se juda ho ke bhi Akbar
-# source_id: nohayonline:5f4c8cfa3f08877d607f
-# source_url: https://www.nohayonline.com/details_content.php?id=1720
-# raw_sha256: 0d214fde2848a1082c16d803d96fd7add935986667773b522dbcca0033eacae9
-# source_id: tajpoints:da17156fbac6ec1b1bfe
-# source_url: https://tajpoints.com/2024/07/zara-rok-le-khanjar-mir-hasan-mir-lyrics.html
-# raw_sha256: cce700db42c8a4ea034538c84b15e08261f8563ecdfc4d931519d7897a36531a
 ---
 زینب کو دیکھا شہ نے جو نزدیک قتل گاہ
 اس دم غریب زہرا نے قاتل سے یہ کہا

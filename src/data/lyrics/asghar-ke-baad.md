@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Tu khidmat-e-aza meiṅ hai masruf jis tarah
   Ishrat pasand aaye ga nauha Rabab ko
-# source_id: nohayonline:ac7b1a6989f2ef999cb8
-# source_url: https://www.nohayonline.com/details_content.php?id=1878
-# raw_sha256: ca99e6d584b584d100495d03a44e575953e4684bf629404bb17427bf553c6cdc
 ---
 اصغر کے بعد چین نہ آیا رباب کو
 دیکھا تمام عمر تڑپتا رباب کو

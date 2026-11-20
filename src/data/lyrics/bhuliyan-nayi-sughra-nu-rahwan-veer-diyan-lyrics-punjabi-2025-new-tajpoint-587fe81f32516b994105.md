@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:587fe81f32516b994105
-# source_url: https://tajpoint.com/bhuliyan-nayi-sughra-nu-rahwan-veer-diyan-lyrics/
-# raw_sha256: 25d9643c909b95c3938a0d60eabedda7523dbf3e6408997d74fc84931d2d1494
 ---
 
 Bhuliyan Nayi Sughra Nu Rahwan Veer Diyan.

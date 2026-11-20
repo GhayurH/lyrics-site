@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f96447de73e3968c59b
-# source_url: https://tajpoints.com/2024/04/ali-wasiyat-layi-ghazi-nu-bolaya-aye.html
-# raw_sha256: 0dce51c1c4fe995fdec3a60ffaf0ef9932b1529021f7ddc07e3611f6dd16509a
 ---
 
 1

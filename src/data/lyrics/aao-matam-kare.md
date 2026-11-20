@@ -68,9 +68,6 @@ romanLyrics: |-
   Hashr ka marhala kitna aasan hai
   Daagh-e-matam hi bakhshish ka saaman hai
   Jazb kar lo usi ashk meiṅ Karbala
-# source_id: nohayonline:316be3148e601ee6d9fd
-# source_url: https://www.nohayonline.com/details_content.php?id=105
-# raw_sha256: bd906af1c3fd79a45a78e16f073dc84a60ca2dd37bd1f5eec4412a1fc7ddc678
 ---
 آؤ ماتم کریں آؤ ماتم کریں
 زیبِ فرشِ عزا ہو گئی سیدہ

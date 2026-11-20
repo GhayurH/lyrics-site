@@ -8,12 +8,6 @@ reciter: "Syed Raza Abbas Shah"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6a228aae872b9bfb1eec
-# source_url: https://www.nohawriteups.org/awaz-lehad-se-aayi/
-# original_html: snapshots/nohawriteups/original_html/6a228aae872b9bfb1eec.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6a228aae872b9bfb1eec.json
-# api_content_sha256: 0abe3060b56a22fd7d846f48f36fb9cee7df276c148fa531eb4bb0d9592e9a61
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Roney ki sadaaye aayi jab maasooma ghabraayi (2)

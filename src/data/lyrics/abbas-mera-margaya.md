@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Karlo anis is dam buka aajaye jaane kab qaza
   Yaṅ waqt aisa aa gaya rone pa ho zulmo jafa
-# source_id: nohayonline:78b6d9bfbbdace6c6d7b
-# source_url: https://www.nohayonline.com/details_content.php?id=5
-# raw_sha256: fdbfbade54d3470adf39ca2cc8c86e5e6df8a408cac8d813ae444d9f13a390bc
 ---
 
 عباس میرا مر گیا زینب زینب

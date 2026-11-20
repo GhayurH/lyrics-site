@@ -8,9 +8,6 @@ reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:0cb56f33e070cc1c33c9
-# source_url: https://www.ziyaraat.net/api/noha/2426
-# raw_sha256: 95f3bd06ec710028a5943c74690ac0eca2c498dac7b2140d9af20371f68925fa
 ---
 
 HUSAIN (ASWS)…..6

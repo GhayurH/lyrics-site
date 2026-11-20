@@ -8,9 +8,6 @@ poet: "Osaaf"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:183726eb3bded09e6792
-# source_url: https://tajpoints.com/2021/09/baba-mere-asghar-ko-sabahat-zaidi.html
-# raw_sha256: d6069e43f3ba40d1a0b3ad0eee644d7d98bd534634ee99a3ce6dcb5dfd3e48c5
 ---
 
 1

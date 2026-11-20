@@ -8,9 +8,6 @@ poet: "Iqbal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:57b9adbb33d33575562f
-# source_url: https://tajpoints.com/2017/02/zindagi-insaan-ki-ik-dam-ke-siwa-kuch.html
-# raw_sha256: 0a962bc6d878a0aeffc4c5f14b9db6c654bcf2a42dcdb027ace7556461319ef6
 ---
 
 1

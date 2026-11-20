@@ -56,9 +56,6 @@ romanLyrics: |-
   Ghutniyoṅ chalti hui bhaai ke marqad pe gayi
   The ye Zainab ke sukhan mar gayi kiuṅ na bahan
   Abbas tere jaane...
-# source_id: nohayonline:fe22f89e559329acdd4b
-# source_url: https://www.nohayonline.com/details_content.php?id=104
-# raw_sha256: 054dae7d2dfa9b022719efdbedd36ff6088ee63290ea1c3e233cdf9041c96bbb
 ---
 
 ۱

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4f8c15d5fb1121ecf8b8
-# source_url: https://tajpoints.com/2022/11/meda-nuqsan-nadeem-sarwar-lyrics-in.html
-# raw_sha256: 25539baf442d3f1ac357b686b6a4689ec283072b7c2cb18a2f35bdb60a254b20
 ---
 
 Meda Nuqsan Nadeem Sarwar Lyrics

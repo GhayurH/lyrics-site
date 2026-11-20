@@ -7,11 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4d8bed0ce83e8c503277
-# source_url: https://tajpoints.com/2021/12/zamana-jaan-le-haider-ki-zulfiqar-hoon.html
-# raw_sha256: 6b676918aa202fdd5e45fe544ecd40ccd7d662d80337b847f776ac29611a71df
-# source_title_original: Zamana Jaan Le Haider Ki Zulfiqar Hoon Main 2007
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Zamana Jaan Le Haider Ki Zulfiqar Hoon Main –

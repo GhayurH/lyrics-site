@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:51d4d4e921caf51560bc
-# source_url: https://tajpoints.com/2025/06/hijab-ullah-ke-pehlu-par-zalim-ne-dar.html
-# raw_sha256: 6aec0d99d2b027f0d322ee5f541e3f11f3723ef32d556cdce65680a6a00e834c
 ---
 
 1

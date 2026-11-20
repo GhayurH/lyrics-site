@@ -8,9 +8,6 @@ poet: "Qasim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f514e61b902327bdb9fc
-# source_url: https://tajpoints.com/2019/09/mujh-ko-akbar-nazar-nahi-aata-lyrics-in.html
-# raw_sha256: bcb54681f9806aebeb338f988485e85f44f4424bb5f58787cfa677041f43c07d
 ---
 
 1

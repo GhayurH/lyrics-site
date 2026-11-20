@@ -76,9 +76,6 @@ romanLyrics: |-
   Wo qaid e jafa dayaar e saza
   Haaṅ mai rounga
   Mai rounga...
-# source_id: nohayonline:ea2d3d860b93057e0691
-# source_url: https://www.nohayonline.com/details_content.php?id=3583
-# raw_sha256: 05670645fb58084f9791f8ff1f9311fb67cfed8eb44e8442f352cf34b0f66a6e
 ---
 
 ۱

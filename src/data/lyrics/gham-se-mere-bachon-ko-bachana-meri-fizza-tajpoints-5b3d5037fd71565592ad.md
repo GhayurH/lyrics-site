@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5b3d5037fd71565592ad
-# source_url: https://tajpoints.com/2023/10/gham-se-mere-bachon-ko-bachana-meri.html
-# raw_sha256: 4e254cf95dd7980fc20394398cfe9144a4ef2639e60fb0f77bfc3f2e428c8928
 ---
 
 1

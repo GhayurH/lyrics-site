@@ -64,14 +64,6 @@ romanLyrics: |-
   Faryaad Khudaara
   Hai waqt-e-madad kijiye haalaat ko behtar
   Utho mere bhaiya utho mere bhaiya
-# source_id: nohayonline:400f28532d69663da24e
-# source_url: https://www.nohayonline.com/details_content.php?id=266
-# raw_sha256: 776bef9130b847900935d0a2122a0ab2f6e7d05bdc4a2f101a541ed9c15d1e82
-# source_id: nohawriteups:e76fe13d175187530194
-# source_url: https://www.nohawriteups.org/zainab-ne-kiye-bain/
-# original_html: snapshots/nohawriteups/original_html/e76fe13d175187530194.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e76fe13d175187530194.json
-# api_content_sha256: 03eac0484e699e33ebee4732cc326bbea8c996ccc293654a7b8de5f01d35f961
 ---
 زینب نے کیے بین یہ مرقد سے لپٹ کر
 اٹھو میرے بھیا، اٹھو میرے بھیا

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f72822308aacf4047ce1
-# source_url: https://tajpoints.com/2023/02/sana-e-zainab-hamza-rizvi-lyrics-in.html
-# raw_sha256: 250a37584e8d8183a12b0f69929196c5ac4aa63abbe6235743242bfac8760abd
 ---
 
 1

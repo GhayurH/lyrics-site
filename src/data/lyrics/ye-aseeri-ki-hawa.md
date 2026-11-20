@@ -75,12 +75,6 @@ romanLyrics: 'Ye aseeri ki hawa kaise chali hai abbas
   Shaksiyat zainab e muztar ki bayan kya ho bilal
 
   Kabhi zehra kabhi sarwar to kabhi hai abbas'
-# source_id: nohayonline:85f8bc7bf5a076840715
-# source_url: https://www.nohayonline.com/details_content.php?id=3512
-# raw_sha256: 53e4c2c29199632898dc35ed249b5339a593c9c36aa629bef6dddbdb2e6dcf96
-# source_id: nohayonline:aaf5fc1b5848a12cdddb
-# source_url: https://www.nohayonline.com/details_content.php?id=2251
-# raw_sha256: d53c7774d9eb0d3cb8a9f35dea8ae3c5e5a555ed4556b35918ce090e0d6a0e7f
 ---
 
 یہ اسیری کی ہوا کیسی چلی ہے عباس

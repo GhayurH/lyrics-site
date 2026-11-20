@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c329dbd9585e3c2f22f7
-# source_url: https://tajpoints.com/2023/11/ya-ali-mere-zakhmi-pehlu-ko-zainab-se.html
-# raw_sha256: 0a494f346bc4d13917de75d55136523230931415b212a4f03a6c7d4eed9a85b2
 ---
 
 1

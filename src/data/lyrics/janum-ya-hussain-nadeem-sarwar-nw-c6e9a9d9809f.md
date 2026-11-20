@@ -8,15 +8,6 @@ reciter: "Nadeem Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:c6e9a9d9809fc5059253
-# source_url: https://www.nohawriteups.org/janum-ya-hussain-nadeem-sarwar/
-# original_html: snapshots/nohawriteups/original_html/c6e9a9d9809fc5059253.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/c6e9a9d9809fc5059253.json
-# api_content_sha256: 61b9ee95b2cfd53ff422a31945aa1dddd741d200280294a85449819979b9de49
-# editorial_note: Two matching sources manually reconciled. Restored the unique opening appeal from TajPoints and retained all substantive verse groups; repeated recorded refrains were removed. Eight numbered Roman stanzas pending spelling review.
-# source_id: tajpoints:0f70db4d9d3fa546f773
-# source_url: https://tajpoints.com/2019/12/janum-ya-hussain-lyrics-in-urdu-and.html
-# raw_sha256: 54c8bc129c462eb2d84bbb94fb373944d4fd19dbfee1298ab6e381530a9118fb
 ---
 
 Badshah Hamara Ya Hussain

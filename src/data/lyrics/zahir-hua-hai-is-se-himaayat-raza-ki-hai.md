@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Yeh jashn Qum ki malka ka Afraz Jafri
   Har saal hoga kiuṅ ke zamaanat Raza ki hai
-# source_id: tajpoints:2a134c01de8f95d3671f
-# source_url: https://tajpoints.com/2019/07/zahir-howa-hai-iss-se-hamayat-raza-ki.html
-# raw_sha256: 1be52ca49d331964b5801d46a7ca2cc51cac9468cc87c6c1ed01227e8ef8c369
 ---
 
 ظاہر ہوا ہے اس سے حمایت رضا کی ہے

@@ -48,9 +48,6 @@ romanLyrics: |-
   Sar pitte rote hue karte hue zaari
   Aaegi yatimoṅ ko bahot yaad tumhari
   Sab hote haiṅ beyaar o madadgaar sidharo
-# source_id: nohayonline:37f90334964d42dfc6d4
-# source_url: https://www.nohayonline.com/details_content.php?id=2952
-# raw_sha256: 14f90bd5b2ef756b4dae91c368528f15e655130c947f0acf18658923b99c0ce9
 ---
 
 عباس علی شہ کے علمدار سدھارو

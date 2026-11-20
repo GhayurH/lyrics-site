@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3f8e78b4e9c62cb3002d
-# source_url: https://tajpoints.com/2023/06/zainab-wain-karey-aa-ja-abbas-bhira.html
-# raw_sha256: 5ea4b5509c7063ee576939028c7d2c787cc0b269e3ec66d2bf5fafb4e2b4846c
 ---
 
 1

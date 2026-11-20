@@ -70,9 +70,6 @@ romanLyrics: |-
   15
   16) Kis dil se Husain aap ki rodad parrhon ga
   Mazhar jo bayan likh na saka, Fatima Zehra
-# source_id: ziyaraat:29f958d800991f69b433
-# source_url: https://www.ziyaraat.net/api/noha/396
-# raw_sha256: 669b797956499574f568bc1502f02b3f065960eb6c0028b0d9a6424579e5d523
 ---
 
 صلواۃ و سلام آپ پہ یا فاطمہ زہراؑ

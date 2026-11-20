@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e7084ecb051d3c40815c
-# source_url: https://tajpoints.com/2024/07/haan-yehi-maa-hai-ali-akbar-ki-muhammad.html
-# raw_sha256: 2869251b13a2a0816129bf48fbe4f354afd15d9bbcb7d888294cb20e94712d29
 ---
 
 Haan Yehi Maa Hai Ali Akbar Ki Muhammad Raza Mungla.

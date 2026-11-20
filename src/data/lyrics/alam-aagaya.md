@@ -45,9 +45,6 @@ romanLyrics: |-
   Aise meiṅ Zafar us ne Sajjad ko rulwaya
   Darwaza-e-zindaṅ par Masuma ne ro kar kaha
   Alam aa gaya Alam aa gaya
-# source_id: nohayonline:02f4aea276414629acee
-# source_url: https://www.nohayonline.com/details_content.php?id=1883
-# raw_sha256: 317092bbf2c07cd0cc6793afcd668d50baafaa5ceed7269bc54f3f30411c2d1a
 ---
 شبیر کی آہوں میں پیاسوں کی یہ گونجی صدا
 علم آ گیا علم آ گیا

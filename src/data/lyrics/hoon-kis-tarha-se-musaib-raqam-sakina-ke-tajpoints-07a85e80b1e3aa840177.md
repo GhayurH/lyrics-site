@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:07a85e80b1e3aa840177
-# source_url: https://tajpoints.com/2017/02/hoon-kis-tarha-se-musaib-raqam-sakinasa.html
-# raw_sha256: a5b020de79426dfa2b0b0525470e54706f490797aac1e846b351a6e8156168b6
 ---
 
 1

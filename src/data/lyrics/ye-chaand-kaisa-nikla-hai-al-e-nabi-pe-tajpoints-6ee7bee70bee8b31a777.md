@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ee7bee70bee8b31a777
-# source_url: https://tajpoints.com/2017/02/ye-chaand-kaisa-nikla-hai-al-e-nabias-pe.html
-# raw_sha256: 2944bac391f239093ac8afdf8cad081fd2e46efa2d4027e8c59c120cdb703d2e
 ---
 
 Ye Chaand Kaisa Nikla Hai Al-e-Nabi Pe.

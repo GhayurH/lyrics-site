@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:db928d8f72a3baa6b938
-# source_url: https://tajpoints.com/2021/12/gham-shah-e-shahedaan-ka-manana-hi.html
-# raw_sha256: 8f99f268954ddc3a19a04402bf68571f2d328593de0206903244deb6ad6a109e
 ---
 
 Gham Shah-e-Shahedaan Ka Manana Hi Parey Ga – Mir Hasan Mir.

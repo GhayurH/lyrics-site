@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7d9db3cecce49bb74df7
-# source_url: https://tajpoints.com/2022/12/ya-fatima-zahra-shahid-ali-shahid.html
-# raw_sha256: 128bd20f7a757b8f8f9f6e35e6de81a30e7565169fb17d883dadc00c7606fe5e
 ---
 
 1

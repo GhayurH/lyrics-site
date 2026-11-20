@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:668fa634b56c0d06fb6b
-# source_url: https://tajpoints.com/2023/07/zainab-kay-dono-pyaray-hassan-ali.html
-# raw_sha256: 7fc5af43a502a71e1c1410409ee180dd16f92fd92168c525c2743071a069878e
 ---
 
 Zainab Kay Dono Pyaray Hassan Ali.

@@ -8,9 +8,6 @@ poet: "Ijaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b3855e2d79de3ec89af1
-# source_url: https://tajpoints.com/2020/10/rul-gaya-aye-be-dafan-janaza-shabar-da.html
-# raw_sha256: 56c312792ebdb8390fe2d461f658ca7f42e642d6df79fdb03f1f8b706a815a3d
 ---
 
 1

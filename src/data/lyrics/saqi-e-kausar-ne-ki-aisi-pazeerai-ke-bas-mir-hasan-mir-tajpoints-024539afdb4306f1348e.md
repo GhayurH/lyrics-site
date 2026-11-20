@@ -8,9 +8,6 @@ poet: "Sarosh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:024539afdb4306f1348e
-# source_url: https://tajpoints.com/2018/04/saqi-e-kausar-ne-ki-aisi-pazeerai-ke-bas.html
-# raw_sha256: 5e214f8f073123586e2303fb6b0e58e6312736bd7d79f3ffccd1936b6065f026
 ---
 
 1

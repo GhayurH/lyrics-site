@@ -43,9 +43,6 @@ romanLyrics: |-
   Lut pay gayi khaimay sar gaye nay
   Saday parday aan bacha jaa
   Aj kon sunay meray vain
-# source_id: ziyaraat:2636c2a5aa5f1bad03bc
-# source_url: https://www.ziyaraat.net/api/noha/2057
-# raw_sha256: 34e7dad36ac9317b0085e1e897b0fa1682188afbe35f8400ec870493d06aeaf9
 ---
 
 [لوکو میں اجڑ گئی آں]

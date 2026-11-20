@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:92c7ff1ecc81b580aba0
-# source_url: https://tajpoints.com/2021/06/ro-rahi-hai-tujhe-karbala-syeda-sajjad.html
-# raw_sha256: ab04ebfeb8bfadec26e49ad0bc303ecc7acd1e25fa3584530cd56ea833ce0004
 ---
 
 1

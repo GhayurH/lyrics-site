@@ -38,9 +38,6 @@ romanLyrics: |-
   7
   Jab Nabi zadiyaṅ darbar meiṅ sar nange gayi
   Khun bimar ki aankhoṅ ne bahaaye hoṅge
-# source_id: ziyaraat:01e355b537b58f133c73
-# source_url: https://www.ziyaraat.net/api/noha/189
-# raw_sha256: 1342ddd2084a3d76efc1feb247a3fc1778764bda9765b09511beed6a7447a8e1
 ---
 
 ہائے سجادؑ نے غم کیسے اٹھائے ہوں گے

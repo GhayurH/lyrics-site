@@ -8,9 +8,6 @@ poet: "Sohail"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0b6f20b6f8c1fa6b3418
-# source_url: https://tajpoints.com/2023/01/ali-ka-qasida-saweray-saweray-lyrics-in.html
-# raw_sha256: 6b78cfc12d8fbd9197df5fc920de949a4e5f2210d69de6bf845e81c0485d3f86
 ---
 
 Ali Ka Qasida Saweray Saweray Lyrics

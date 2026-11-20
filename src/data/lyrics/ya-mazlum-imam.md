@@ -49,9 +49,6 @@ romanLyrics: |-
   Bahnoṅ ka bachchoṅ ka ab kaun nigahbaan
   Husain aajao na ab tarpaao
   Rida bhi laao rida bhi laao
-# source_id: nohayonline:02c714034adae40347d2
-# source_url: https://www.nohayonline.com/details_content.php?id=3638
-# raw_sha256: a36eb921650960575b068d7e6c338301cbc8ee0736e983beccf53819db01a5c4
 ---
 یا مظلوم امام
 سب کے آنسوں ہیں رواں

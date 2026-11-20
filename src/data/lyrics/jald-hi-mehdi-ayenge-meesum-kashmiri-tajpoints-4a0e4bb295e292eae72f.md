@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4a0e4bb295e292eae72f
-# source_url: https://tajpoints.com/2023/03/jald-hi-mehdi-ayenge-meesum-kashmiri.html
-# raw_sha256: 938549701683e7496181430d353b2b856aee2a9bd69215a7ed0512fe07eb2735
 ---
 
 Jald Hi Mehdi Ayenge Meesum Kashmiri.

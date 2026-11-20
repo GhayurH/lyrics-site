@@ -8,9 +8,6 @@ poet: "Mohtasham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cab294b80e631e2fd507
-# source_url: https://tajpoints.com/2026/03/beta-abu-talib-ka-zakhmi-howa-masjid.html
-# raw_sha256: 256f2a40169d548fea0840b638e77942bc874b8db41bef2d5dc311bf0268e2b9
 ---
 
 1

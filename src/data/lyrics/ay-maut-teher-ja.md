@@ -1,141 +1,92 @@
 ---
-title: "ہچکیاں لیتے تھے علی اکبر"
-alternateTitle: "Ae Maut Thehar Ja"
+title: "جی بھر کے دیکھ لے تُو ذرا"
+alternateTitle: "Ay Maut Teher Ja"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Mazhar Abidi"
-reciter: "Irfan Haider"
+poet: "Naeem"
 tags: []
-aliases: ["Ay Maut Teher Ja"]
-published: true
+aliases: []
+published: false
 romanLyrics: |-
-  Hichkiyaaṅ lete the Ali Akbar
-  Umm-e-Laila ye bain karti thi
-  Poshaak urha luṅ ke maiṅ armaan nikaaluṅ
-  Ae maut thehar ja, ae maut thehar ja
-  Maiṅ apne jawaan laal ko dulha to bana luṅ
-
   1
-  Is laal ko maiṅ kaise karuṅ tere hawaale
-  Ye chaand to deta hai zamaane ko ujaale
-  Is chaand ki poshaak sitaaroṅ se saja luṅ.
+  Ji bhar ke dekhle to zara
+  Ae maut teher ja ke mera laal hai jawaaṅ
+  Ji bhar ke dekhle to zara usko uski maa
 
   2
-  Athaara baras phuloṅ ki tarha jise paala
-  Jaata hai mujhe chhor ke wo gesuoṅ waala
-  Ab tu hi bata kaise maiṅ is dil ko sambhaaluṅ.
+  Usko jawaaṅ palkoṅ ke saaye meiṅ hai kiya
+  Kaanta bhi uske paaoṅ my chubne nahi diya
+  Dekhegi kaise sine meiṅ barchi ko uski maa
 
   3
-  Dekhe the bahut khwaab magar khaak hue sab
-  Is bete ke sehre ki dua karti thi Zainab
-  Dulha na sahi maiṅ ise dulha sa bana luṅ.
+  Armaaṅ hai uske haatoṅ meiṅ mehendi lagauṅ mai
+  Taaroṅ se uski shaadi ka sehra banauṅ mai
+  Kaise bhula sakegi bhala usko uski maa
 
   4
-  Har shaam jise lagti hai ab shaam-e-gharibaaṅ
-  Jo kehti thi Akbar ki dulhan laauṅ gi amma
-  Us Fatima Sughra ko Madine se bula luṅ.
+  Dekha hai na suna hai kabhi aisa waqiya
+  Baysheer ke gale pe chala tire hurmala
+  Dekhegi ye kin aankhoṅ se manzar ko uski maa
 
   5
-  Khaime se zara dur khare rote haiṅ Sarwar
-  Ek haath kaleje pe hai ek haath kamar par
-  Maiṅ khud ko sambhaaluṅ ke Shah-e-diṅ ko sambhaaluṅ.
+  Beta to ek zamiṅ par chal paaya na mera
+  Jhule se jo gaya tha wo ghar aaya na mera
+  Jhule meiṅ abhi dhundti hai usko uski maa
 
   6
-  Ye kis ki nazar kha gayi is nur-e-nazar ko
-  Viraan kiye jaate haiṅ Akbar mere ghar ko
-  Ji karta hai is chaand ko duniya se chhupa luṅ.
+  Jaungi kaise chor ke maqtal ko mai bhala
+  Sote hai yahaṅ bete aur sartaj bhi mera
+  Kehti hai ek bete se ye usko uski maa
 
   7
-  Zainab ke laboṅ par hai buka haaye muqaddar
-  Kya sehra charhaauṅ maiṅ teri laash pe Akbar
-  Aur khud ko teri laash pe sadqe hi utaaruṅ.
+  Bemaar ko bhi chain kahaṅ baade karbala
+  Zakhmo pe zakhm usko bhi ek saat hai mila
+  Lo jaa rahi hai chor ke ab usko uski maa
 
   8
-  Mehndi na lagi haathoṅ meiṅ hai khun badan ka
-  Poshaak-e-shahaani ko mila daagh kafan ka
-  Is laash pe athaarviṅ mannat ko barha luṅ.
-
-  9
-  Taqdir kisi maaṅ ko ye manzar na dikhaaye
-  Mayyat pe jawaaṅ laal ke wo ashq bahaaye
-  Ji bhar ke ise dekh luṅ aur ashq bahaauṅ.
-
-  10
-  Fariyaad zara sun le Sakina ki zabaani
-  Mar jaauṅ gi bichhra jo mera Yusuf-e-saani
-  Bhaiya mere naaraaz haiṅ maiṅ un ko mana luṅ.
-
-  11
-  Maaṅ roti rahi Mazhar o Irfan tarap kar
-  Aur aakhri hichki meiṅ safar kar gaye Akbar
-  Maaṅ kehti rahi maiṅ ise dulha to bana luṅ.
-# source_id: nohayonline:00a0da4d24ffb910e2d5
-# source_url: https://www.nohayonline.com/details_content.php?id=445
-# raw_sha256: 16ac2ac60866d6b729502cb115b5098c06d6fcfb9119d55bc94d7633b335076a
-# source_id: ziyaraat:76451deecb0b7264dc4f
-# source_url: https://www.ziyaraat.net/api/noha/223
-# raw_sha256: 3a78b639d0d3761208210eb4c25544459a0cf2f6a68f010fb58bfa917c8e8cc1
+  Pahunchu dare haider pe hai armaaṅ naim ka
+  Nauha parhuṅ mai rauze pe hamshakle nabi ka
+  Deti hai dua aaj ye bas usko uski maa
 ---
 
-ہچکیاں لیتے تھے علی اکبر
-اُمِّ لیلیٰ یہ بین کرتی تھی
-پوشاک اُڑھالوں کے میں ارمان نکالوں
-اے موت ٹھہر جا اے موت ٹھہر جا
-میں اپنے جوان لال کو دولہا تو بنا لوں
-
 ۱
-اس لال کو میں کیسے کروں تیرے حوالے
-یہ چاند تو دیتا ہے زمانے کو اُجالے
-اس چاند کی پوشاک ستاروں سے سجا لوں
+جی بھر کے دیکھ لے تُو ذرا
+اے موت ٹھہر جا کے میرا لال ہے جواں
+جی بھر کے دیکھ لے تُو ذرا اُس کو اُس کی ماں
 
 ۲
-اٹھارہ برس پھولوں کی طرح جسے پالا
-جاتا ہے مجھے چھوڑ کے وہ گیسوئوں والا
-اب تُو ہی بتا کیسے میں اس دل کو سنبھالوں
+اُس کو جواں پلکوں کے سائے میں ہے کیا
+کانٹا بھی اُس کے پائوں میں چُبھنے نہیں دیا
+دیکھیں گی کیسے سینے میں برچھی کو اُس کی ماں
 
 ۳
-دیکھے تھے بہت خواب مگر خاک ہوئے سب
-اس بیٹے کے سہرے کی دُعا کرتی تھی زینب
-دولہا نہ سہی میں اسے دولہا نہ بنا لوں
+ارماں ہے اُس کے ہاتھوں میں مہندی لگائوں میں
+تاروں سے اُس کی شادی کا سہرا بنائوں میں
+کیسے بھُلا سکے گی بھلا اُس کو اُس کی ماں
 
 ۴
-ہر شام جسے لگتی ہے اب شام ِ غریباں
-جو کہتی تھی اکبر کی دولہن لائوں گی اماں
-اُس فاطمہ صغریٰ کو مدینے سے بُلا لوں
+دیکھا ہے نہ سُنا ہے کبھی ایسا واقعہ
+بے شیر کے گلے پہ چلا تیرِ حُرملا
+دیکھیں گی یہ کن آنکھوں سے منظر کو اُس کی ماں
 
 ۵
-خیمے سے ذرا دُور کھڑے روتے ہیں سرور
-اک ہاتھ کلیجے پہ ہے اک ہاتھ کمر پر
-میں خود کو سنبھالوں کے شاہِ دیں کو سنبھالوں
+بیٹا تو اک زمیں پر چل پایا نہ میرا
+جھولے سے جو گیا تھا وہ گھر آیا نہ میرا
+جھولے میں ابھی ڈھونڈتی ہے اُس کو اُس کی ماں
 
 ۶
-یہ کس کی نظر کھا گئی اس نورِ نظر کو
-ویران کیئے جاتے ہیں اکبر میرے گھر کو
-جی کرتا ہے اس چاند کو دُنیا سے چھُپا لوں
+جائوں گی کیسے چھوڑ کے مقتل کو میں بھلا
+سوتے ہیں یہاں بیٹے اور سرتاج بھی میرا
+کہتی ہے اک بیٹے سے یہ اُس کو اُس کی ماں
 
 ۷
-زینب کے لبوں پر ہے بُقا ہائے مقدر
-کیا سہرا چڑھائوں میں تیری لاش پہ اکبر
-اور خود کو تیری لاش پہ صدقے ہی اُتاروں
+بیمار کو بھی چین کہاں بعدِ کربلا
+زخموں پہ زخم اُس کو بھی اک ساتھ ہے ملا
+لو جا رہی ہے چھوڑ کے اب اُس کو اُس کی ماں
 
 ۸
-مہندی نہ لگی ہاتھوں میں ہے خون بدن کا
-پوشاک ِ شاہانی کو ملا داغ کفن کا
-اس لاش پہ اٹھارویں منت کو بڑھا لوں
-
-۹
-تقدیر کسی ماں کو یہ منظر نہ دیکھائے
-میت پہ جواں لال کے وہ اشک بہائے
-جی بھر کے اسے دیکھ لوں اور اشک بہا لوں
-
-۱۰
-فریاد ذرا سُن لے سکینہ کی زبانی
-مرجائوں گی بچھڑا جو میرا یوسف ِ ثانی
-بھّیا میرے ناراض ہیں میں اُن کو منا لوں
-
-۱۱
-ماں روتی رہی مظہر و عرفان تڑپ کر
-اور آ خری ہچکی میں سفر کر گئے اکبر
-ماں کہتی رہی میں اسے دولہا تو بنا لوں
+پہنچوں درِ حیدر پہ ہے ارماں نعیم کا
+نوحہ پڑھوں میں روضے پہ ہمشکلِ نبی کا
+دیتی ہے دُعا آج یہ بس اُس کو اُس کی ماں

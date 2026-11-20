@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b35508efde0c76834875
-# source_url: https://tajpoints.com/2023/10/hadier-se-tha-noha-beti-ka-kya-kya-main.html
-# raw_sha256: a4e255bddc8b68b327c8d3aa8c26fd0ee3c100e585b8e4b5fd5d5a5b28607b0d
-# source_title_original: Hadier Se Tha Noha Beti Ka Kya Kya Main Sunaoon Aye Baba Lyrcs Urdu 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Hadier Se Tha Noha Beti Ka Kya Kya Main Sunaoon Aye Baba

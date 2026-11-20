@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a485f25db2e80bb8d56
-# source_url: https://tajpoints.com/2022/08/haye-ya-hussain-sarwar-raza-karbalai.html
-# raw_sha256: 41bc17c31f747ed084a5dda8ed38868afc8a5c4bb16a3c97eb868f95a14eb4ff
 ---
 
 1

@@ -54,12 +54,6 @@ romanLyrics: 'Qasime hazeen utho laash par dulhan aayi
   Chunke phool zakhmo ka kaun tohfa deta hai
 
   Gham ke bhi Ali fitrat koi hadya deta hai'
-# source_id: nohayonline:8087fb481320ebb3a052
-# source_url: https://www.nohayonline.com/details_content.php?id=498
-# raw_sha256: bc9969fe31a59d03909df565228842b002feffa99a36fddd58f6180020dbd346
-# source_id: ziyaraat:9e851536207d6949520f
-# source_url: https://www.ziyaraat.net/api/noha/1332
-# raw_sha256: eb8aec8827ff61c09d10077f2589125e7a0cbe252f4eec5d4a8d2a328aaf7c88
 ---
 
 قاسمِؑ حزیں اُٹھو لاش پر دولہن آئی

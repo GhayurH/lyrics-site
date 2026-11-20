@@ -60,9 +60,6 @@ romanLyrics: |-
   Mohsin duaa-e-Faatima Zahra bhi mil chuki
   Haidar se har imaamoṅ ki kariyaaṅ bhi mil chuki
   Rehbar ka hum pe haath hai auroṅ ko ab kahaaṅ
-# source_id: nohayonline:6b5b25fe009bb1b54b78
-# source_url: https://www.nohayonline.com/details_content.php?id=2472
-# raw_sha256: d052c88e8a9982151b5c9535612531762d53bbecf81fb8f0b08ad66a380d9953
 ---
 
 ہائے شام غریباں

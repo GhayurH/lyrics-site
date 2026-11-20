@@ -58,9 +58,6 @@ romanLyrics: |-
   Chal base duniya se Abbas-e-alamdaar-e-Husain
   Aur bahattar Ae Kalim ashaab o ansaar-e-Husain
   Surkh ruh-e-do jahaaṅ meiṅ aaj sarkaar-e-Husain
-# source_id: nohayonline:96876169b1efdf2c8e0b
-# source_url: https://www.nohayonline.com/details_content.php?id=785
-# raw_sha256: 881921b7833f5571a24ec946597a680e306a0a85932bd14ead1f33869eb465bc
 ---
 فاتح کرب وبلا اے سبطِ پیغمبر حسین
 توں بِنائے لا اِلہ اے سبطِ پیغمبر حسین

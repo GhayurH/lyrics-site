@@ -8,9 +8,6 @@ poet: "Abdullah"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:64866bc065a0af70cabd
-# source_url: https://tajpoints.com/2023/09/chup-kar-ke-tur-gaya-aye-dukh-seh-ke.html
-# raw_sha256: 32c65815acc25b02369abb1a991b6b53b9516f6bf384c834284f9989c7dfa9e9
 ---
 
 1

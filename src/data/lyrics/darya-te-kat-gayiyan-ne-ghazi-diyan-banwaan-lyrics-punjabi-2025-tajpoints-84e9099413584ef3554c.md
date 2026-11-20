@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84e9099413584ef3554c
-# source_url: https://tajpoints.com/2025/10/darya-te-kat-gayiyan-ne-ghazi-diyan.html
-# raw_sha256: dc27e7c0399d825746e8efb3d2982b075410b38d2786a3e66229657be3e30241
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ed859aace59e661fde6e
-# source_url: https://www.nohawriteups.org/jangal-pahaad-karte-hai-nad-e-ali-ali/
-# original_html: snapshots/nohawriteups/original_html/ed859aace59e661fde6e.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ed859aace59e661fde6e.json
-# api_content_sha256: 67ac0bd364e95d561be63ec4c28e9b3038888056e27bc80fb44e992c91a1e899
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jangal Pahaad Karte Hai Nad-e-Ali Ali

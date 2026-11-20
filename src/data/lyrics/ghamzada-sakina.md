@@ -65,9 +65,6 @@ romanLyrics: |-
   Mera Qasim na raha mera Akbar na raha
   Koi munis na raha koi yaawar na raha
   Gunjta hai Waiz aaj bhi ye nauha
-# source_id: nohayonline:23132a4afa7259326d6f
-# source_url: https://www.nohayonline.com/details_content.php?id=2858
-# raw_sha256: 42d839ac55135ad30dac0e1dd47e24aa541fce7b9cf6a8a04a59dbf052acb63e
 ---
 
 غمزدہ سکینہ پڑھ رہی ہے نوحہ

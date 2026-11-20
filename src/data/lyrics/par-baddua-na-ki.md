@@ -57,9 +57,6 @@ romanLyrics: |-
   Aamir o Shams parh do wo Zainab ka marsiya
   Jo kuchh kaha tha tum ne wo sab maiṅ ne kar diya
   Bhaiya tumhaare sog meiṅ majlis bapa to ki
-# source_id: nohayonline:efa36059ae36bf8961f0
-# source_url: https://www.nohayonline.com/details_content.php?id=2144
-# raw_sha256: 0201c42ef5837a912c06ca26cf948ade6c6b9e408b78dd2d1e05029c5498d632
 ---
 سر ننگے بھائی شام کے دربار میں گئی
 پر بد دعا نہ کی ہائے پر بد دعا نہ کی

@@ -49,9 +49,6 @@ romanLyrics: |-
   Baithi hi rahi dar par Akbar ki behan Sughra
   Lab par tha yeh nauha
   Rasha pas e luna waqt nu bahaar de
-# source_id: nohayonline:cbee3ed0b67973133213
-# source_url: https://www.nohayonline.com/details_content.php?id=2616
-# raw_sha256: 8a1c2a62ba06bc39dcd249fa719afc4a3281227032100b4fe5b269e2b305d25d
 ---
 شہزادہء اکبرا راشہ پس لونا وقت نو بہار دے
 خط لکھتی ہے صغرا بھیا وطن آ جا وقت نو بہار دے

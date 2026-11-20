@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1eccc69bb8f975f4baed
-# source_url: https://www.nohawriteups.org/hussain-yah-hussain-yah-hussain/
-# original_html: snapshots/nohawriteups/original_html/1eccc69bb8f975f4baed.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1eccc69bb8f975f4baed.json
-# api_content_sha256: bff1f0e019feddc6dd9572818b109875227c64efa58dd2c215c3897fa3a1bf53
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Husain ya Husain

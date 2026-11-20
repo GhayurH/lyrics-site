@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:067a2e8ad945503197bc
-# source_url: https://tajpoints.com/2019/12/kyun-tur-gaya-ayein-veera-har-pasay-ne.html
-# raw_sha256: 85822626b886a5fb6a06a7aaefe528101fa889a3e153c4eb586e10f2382dc01d
-# source_title_original: Kyun Tur Gaya Ayein Veera Har Pasay Ne Haneray 2019
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Kyun Tur Gaya Ayein Veera Har Pasay Ne Haneray

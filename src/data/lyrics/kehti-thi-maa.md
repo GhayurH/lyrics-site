@@ -83,12 +83,6 @@ romanLyrics: |-
   Farhan nahiṅ nahiṅ ye kalaam bhi hai nauha khwaaṅ
   Bete ko qatl hote hue dekhti thi maaṅ
 reciter: "Farhan Ali Waris"
-# source_id: nohayonline:121a682035145beb3308
-# source_url: https://www.nohayonline.com/details_content.php?id=2375
-# raw_sha256: 20037b1a6ab442deac77d400ae59b78b7cf9d09e0fe79387915b884a79d43b54
-# source_id: ziyaraat:663dd9c424c409fe6d11
-# source_url: https://www.ziyaraat.net/api/noha/1239
-# raw_sha256: da7705fe17ac842f7429dd6122701dce0abf766c3baaa57530116a84180d378d
 ---
 برسا فلک سے خون لرزنے لگی زمیں
 آندھی سیاہ دشت بیابان میں چلی

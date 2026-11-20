@@ -69,9 +69,6 @@ romanLyrics: |-
   Rauza-e-Ibn-e-Sher-e-Khuda par
   Dil ye kehta hai ahl-e-aza ka
   Ek maaṅ ki aati hai sada
-# source_id: nohayonline:75574bc63ea78b35c11e
-# source_url: https://www.nohayonline.com/details_content.php?id=3003
-# raw_sha256: 7068e04dda9aa0f09ddb163f076c3a7e4ade9774ff1d1004ddaefff1fde8389b
 ---
 
 

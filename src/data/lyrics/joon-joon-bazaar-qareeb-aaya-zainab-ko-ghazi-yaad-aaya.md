@@ -89,15 +89,6 @@ romanLyrics: 'Joon joon bazaar qareeb aaya
   Farhan qayamat ka gham hai, Mazhar ne likha hai kya nauha
 
   Shabbir bina Abbas bina, ye pehla safar tha Zainab ka'
-# source_id: nohayonline:ca20b1e41ecf6002a528
-# source_url: https://www.nohayonline.com/details_content.php?id=1302
-# raw_sha256: ea01af4f032d3cdb67215af3e2635f456dfcac6788409b9d9eb6554eb64a6d12
-# source_id: ziyaraat:15a72e8e5ddef0b63966
-# source_url: https://www.ziyaraat.net/api/noha/1892
-# raw_sha256: 947be33aac3a185cca3204046c19bbcc878c4639b9d0e5cf7db83a140cf33505
-# source_id: ziyaraat:dd51dc545bc837d04095
-# source_url: https://www.ziyaraat.net/api/noha/1781
-# raw_sha256: 2450e95bd01d85f5d81b8b4c04a22de2af914fba40a037f82cee38008805b7e7
 ---
 
 ہائے زہنب ہائے ہائے شام

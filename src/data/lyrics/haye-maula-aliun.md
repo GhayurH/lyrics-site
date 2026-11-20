@@ -48,9 +48,6 @@ romanLyrics: |-
   Sab pe Hamid aza farz hai
   Sab pe Maula ka gham qarz hai
   Bolo Ashfaq ro kar yehi
-# source_id: nohayonline:f1c421ba9de80ca00e93
-# source_url: https://www.nohayonline.com/details_content.php?id=1087
-# raw_sha256: 9481b2b19dbc9909d1825cdd988649c75805d3abd3d62a25c9a9519756b606d9
 ---
 
 گونجی فریاد جبریل کی

@@ -69,9 +69,6 @@ romanLyrics: |-
 
   Tumse milne lahad meiṅ ali aayeṅge
   Bolo tanhai me aur kya chahiye
-# source_id: tajpoints:a78f847b3bc3d1f59a19
-# source_url: https://tajpoints.com/2026/01/dastan-e-shujaat-sher-abbas-sain-rehman.html
-# raw_sha256: 454b76b614b9931f6c14a8d9078c73abdea7f3ba3f1acd83eb40283a33015207
 ---
 
 داستانِ شجاعت کا داریں میں

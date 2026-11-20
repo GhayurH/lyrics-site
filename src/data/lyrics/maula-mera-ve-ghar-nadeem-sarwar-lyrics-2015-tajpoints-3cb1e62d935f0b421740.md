@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3cb1e62d935f0b421740
-# source_url: https://tajpoints.com/2021/07/maula-mera-ve-ghar-nadeem-sarwar-lyrics.html
-# raw_sha256: 182aea1d2aae77e3ebee025bec8192df2c7032a6b33f5bafd238d3fc167d6301
 ---
 
 1

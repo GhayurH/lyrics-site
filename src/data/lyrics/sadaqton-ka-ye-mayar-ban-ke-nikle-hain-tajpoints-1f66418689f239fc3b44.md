@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1f66418689f239fc3b44
-# source_url: https://tajpoints.com/2017/02/sadaqton-ka-ye-mayar-ban-ke-nikle-hain.html
-# raw_sha256: 5d5e2c9681b09a439de71cc68832f0bed9c0b310fc52a61d8da756d70ca1446e
 ---
 
 1

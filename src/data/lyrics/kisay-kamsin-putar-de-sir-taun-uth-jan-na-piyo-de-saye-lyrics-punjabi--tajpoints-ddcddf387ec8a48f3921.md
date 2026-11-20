@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ddcddf387ec8a48f3921
-# source_url: https://tajpoints.com/2025/09/kisay-kamsin-putar-de-sir-taun-uth-jan.html
-# raw_sha256: f5a9055c9673b47556c1b26a51531a28732a9a5a8af0e1e6e29aa2179f35fd20
 ---
 
 Kisay Kamsin Putar De Sir Taun Uth Jan Na Piyo De Saye.

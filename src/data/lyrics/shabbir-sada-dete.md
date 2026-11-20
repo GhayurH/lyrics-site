@@ -34,9 +34,6 @@ romanLyrics: |-
   5
   De ke sadqa Ali Akbar ka Husain ibn-e-Ali
   Dard saare Salaamat ko rika dete haiṅ
-# source_id: nohayonline:751b2242c61bd67cd6df
-# source_url: https://www.nohayonline.com/details_content.php?id=1515
-# raw_sha256: 5339530982152d0268f456181c99df2563aac55b0602b09e783f8f119a67e88c
 ---
 ہل من ناصرٍ ینصرنا
 

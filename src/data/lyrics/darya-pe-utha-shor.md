@@ -70,9 +70,6 @@ romanLyrics: |-
   Alfaaz ka lashkar hai qalamkaar alamdar
   Abbas abbas abbas alamdar
   Darya pe utha shor...
-# source_id: nohayonline:4cd661dfd3b90848f900
-# source_url: https://www.nohayonline.com/details_content.php?id=1308
-# raw_sha256: 6ed25aa7d60689aa911971a6eba6100a8b8e4a1f66a76aa52e49fdc148190d8c
 ---
 
 ۱

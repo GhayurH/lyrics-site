@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a24a47e8f1a78c320a43
-# source_url: https://tajpoints.com/2025/02/hijab-e-ghaib-sy-mehdi-zaror-aein-gaey.html
-# raw_sha256: 3ed7e2534479acd0159d193e1e417665746b167eb023b16c7ab5921ea872bb27
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:943f6a379471161368db
-# source_url: https://tajpoints.com/2023/10/khushbo-talash-karti-thi-chahat-jo-phol.html
-# raw_sha256: 51f5c81667148290ea260a5065277f6c505c80db818f68d3adbd73d3fe6a5100
 ---
 
 Khushbo Talash Karti Thi Chahat Jo Phol Ki.

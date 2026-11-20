@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f98cad34385a632c179a
-# source_url: https://tajpoints.com/2019/04/kon-kar-sakta-hai-iss-qadar-inayat-pori.html
-# raw_sha256: e8057560239ad78901f4857fd28e076195fe7fae03acc758c74d23a42051c42f
 ---
 
 Kon Kar Sakta Hai Iss Qadar Inayat Pori.

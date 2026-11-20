@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f02455118fa0f7afa7a8
-# source_url: https://tajpoints.com/2018/10/banwaan-te-nishaan-kariyaan-de-akhiyaan.html
-# raw_sha256: b6d3d16d9f4157b50eb871cc235081233edbaaa4797e89873504601619a615a5
 ---
 
 Banwaan Te Nishaan Kariyaan De Akhiyaan Wich Khon Muhari De.

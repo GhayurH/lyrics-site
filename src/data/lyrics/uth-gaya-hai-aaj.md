@@ -40,9 +40,6 @@ romanLyrics: |-
   Surkh hai ikkiswiṅ ka subh ka chehra Farid
   Waaris-e-Kaaba hua hai khaana-e-Haq meiṅ shahid
   Subh-e-mahshar ka samaaṅ hai har taraf chhaaya hua
-# source_id: nohayonline:e2985fd4f7fe51188555
-# source_url: https://www.nohayonline.com/details_content.php?id=2943
-# raw_sha256: c89f335e6bce5b57b8239760973a47fae5330895659e766368456579e92c57ce
 ---
 ہو گیا جب خانۂ زہرا میں ایک محشر بپا
 تھر تھرا اٹھی زمیں اور آسماں ہلنے لگا

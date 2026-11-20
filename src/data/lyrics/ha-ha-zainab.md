@@ -8,9 +8,6 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:94d2d3843a3e9d35cf59
-# source_url: https://www.ziyaraat.net/api/noha/2338
-# raw_sha256: 6e731ec9cb29f43d78cc5d413244edbe5d3ac41850cf4e7fa26f17a3440c7513
 ---
 
 ۱

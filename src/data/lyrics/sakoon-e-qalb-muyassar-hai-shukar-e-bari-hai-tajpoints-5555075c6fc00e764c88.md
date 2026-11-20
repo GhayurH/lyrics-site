@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5555075c6fc00e764c88
-# source_url: https://tajpoints.com/2019/03/sakoon-e-qalb-muyassar-hai-shukar-e.html
-# raw_sha256: 3ccd2639ad299956420f26e57a3d7e496432e42d65edebbb2b402a05f178eeee
 ---
 
 Sakoon-e-Qalb Muyassar Hai Shukar-e-Bari Hai.

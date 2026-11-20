@@ -46,9 +46,6 @@ romanLyrics: |-
   8
   The bain ye khaime meiṅ Naved Ahl-e-Haram ke
   Baad apne darindoṅ ke liye chhor na jao
-# source_id: nohayonline:f5fb07011ab90ca3f30b
-# source_url: https://www.nohayonline.com/details_content.php?id=800
-# raw_sha256: 2c522610c2edf91077e1847ba002dd2bd73fbf6a842ef1ee2db6206c1f500eff
 ---
 
 سینے سے لگاؤ یا مجھے سینے سے لگاؤ

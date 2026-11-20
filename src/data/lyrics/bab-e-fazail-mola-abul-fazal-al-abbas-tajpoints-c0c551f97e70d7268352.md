@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c0c551f97e70d7268352
-# source_url: https://tajpoints.com/2026/01/bab-e-fazail-mola-abul-fazal-al-abbas.html
-# raw_sha256: b2e2be718c5feb0ca580024ad1a33d71e2f551a1330dcefb080d46855492f410
 ---
 
 Aye Khuda Aisa Pisar De Jo Mera Sani Ho.

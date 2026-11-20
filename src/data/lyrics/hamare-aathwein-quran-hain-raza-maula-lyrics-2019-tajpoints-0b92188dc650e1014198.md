@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0b92188dc650e1014198
-# source_url: https://tajpoints.com/2019/07/hamare-aathwein-quran-hain-raza-maula.html
-# raw_sha256: dd6133e4e8716ed3bbd599b48fd6df384edc9fb5eb9836217b75e09bbbe289ba
 ---
 
 Hamare Aathwein Quran Hain Raza Maula.

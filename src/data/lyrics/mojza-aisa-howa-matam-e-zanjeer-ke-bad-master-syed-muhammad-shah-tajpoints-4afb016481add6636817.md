@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4afb016481add6636817
-# source_url: https://tajpoints.com/2019/04/mojza-aisa-howa-matam-e-zanjeer-ke-bad.html
-# raw_sha256: 9d34be21013130e72f1f9671b03a94aa06318b116ab010881abe248ba9459e5b
 ---
 
 Mojza Aisa Howa Matam e Zanjeer Ke Bad Master Syed Muhammad Shah

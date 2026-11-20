@@ -40,9 +40,6 @@ romanLyrics: |-
   Shabbir ka matam hai muhib ruk nahi sakta
   Zainab k aye armaan hai zehra ki dua hai
   Zakhmoṅ se badan...
-# source_id: nohayonline:6d8baee333d3aa9128f4
-# source_url: https://www.nohayonline.com/details_content.php?id=1114
-# raw_sha256: 9556b8a6f3b08f49df69b18611f6349d40bd411b34edf89a07f7a43e6d3980c8
 ---
 
 ۱

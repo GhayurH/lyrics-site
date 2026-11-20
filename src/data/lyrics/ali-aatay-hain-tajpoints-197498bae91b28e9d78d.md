@@ -8,9 +8,6 @@ poet: "Hamza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:197498bae91b28e9d78d
-# source_url: https://tajpoints.com/2020/03/ali-aatay-hain-lyrics-in-urdu-and-roman.html
-# raw_sha256: 5f24a770ea81162510712ed92622fb87cd13e81bb6cbaf845ded72f32ad87cbe
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:427567879a7fcda15cd3
-# source_url: https://tajpoints.com/2026/10/aisi-bhi-thi-aik-maa-zeeshan-abidi.html
-# raw_sha256: 9503dc62c59400a2b064a270d7bb21248938cabcaa0bddf5adf9129a67ab3dc3
 ---
 
 1

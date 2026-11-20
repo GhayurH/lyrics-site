@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:be1d74ae87f8051549ec
-# source_url: https://tajpoints.com/2018/05/kabaa-ali-da-aye-te-jannat-hussain-di.html
-# raw_sha256: 54c3da6511c9cf53b021ce6abe6a6a1c5324cac9a2813d9386bd36fc68bb4dc3
 ---
 
 1

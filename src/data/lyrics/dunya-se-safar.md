@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Is tarah Azim aap ne likhi hai ye rudaad
   Alfaaz bhi kehte haiṅ ye nauha hai Naqi ka
-# source_id: nohayonline:8b0136d67b88dba3b2ca
-# source_url: https://www.nohayonline.com/details_content.php?id=1345
-# raw_sha256: d35ef78d830dc3d5e6065052c00cd49749c6c42d02bb021aa8936c9c8178504e
 ---
 دنیا سے سفر جانب عقبیٰ ہے نقی کا
 غمگین ہر ایک چاہنے والا ہے نقی کا

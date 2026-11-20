@@ -136,9 +136,6 @@ romanLyrics: |-
   Waqt tha fatema sughra pe wo kitna mushkil
   Khun jab nani ne baba ka dikhaya hoga
   Apna ghar sughra ko maqtal nazar aaya hoga
-# source_id: nohayonline:edd5307272d98c0fb6b6
-# source_url: https://www.nohayonline.com/details_content.php?id=2839
-# raw_sha256: afc88c26cb4b713bfb52a4b73cd60f902132537b89c797c74659856a8bf438b0
 ---
 
 ۱

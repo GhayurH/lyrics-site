@@ -48,14 +48,6 @@ romanLyrics: |-
   Azlan aur Mesum tha Sayyeda ka noha
   Ae mere laal tujh ko maara gaya hai pyaasa
   Muslim ki laash par bhi Zehra ki ye buka hai
-# source_id: nohayonline:ccc366d47e3793c51fe3
-# source_url: https://www.nohayonline.com/details_content.php?id=1315
-# raw_sha256: 052814a9c8bc4307f533543ad96187f404f4127509ea1c67d7304c198cee3153
-# source_id: nohawriteups:f895109b8e8bd876f274
-# source_url: https://www.nohawriteups.org/muslim-ki-karbala-lyrics-mesum-abbas/
-# original_html: snapshots/nohawriteups/original_html/f895109b8e8bd876f274.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f895109b8e8bd876f274.json
-# api_content_sha256: 4801a21bbcc246f9ceebf96f43b78e174c5ada8d4e38f39cd46dc74337cf4dd2
 ---
 لوگوں یہ شہرِ کوفہ مُسلم کی کربلا ہے
 ایک بے وطن یہاں بھی فوجوں میں گھِر گیا ہے

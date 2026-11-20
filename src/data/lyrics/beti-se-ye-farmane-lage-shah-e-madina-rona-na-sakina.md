@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:164baea5b3d35d12b28c
-# source_url: https://www.ziyaraat.net/api/noha/1114
-# raw_sha256: fda4b358ec4e58d74a0fa484c4dad96ceba765daea290f53c711e868e0e44c40
 ---
 
 Beti se ye farmane lage shahe Madina rona na Sakina

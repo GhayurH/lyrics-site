@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e7176ce2690ccb71e492
-# source_url: https://tajpoints.com/2024/07/zafar-mera-akbar-syeda-amber-naqvi.html
-# raw_sha256: 36402c499a85207a0507f01c7cbf942334d36d0d0590a23c3454eea14156dc90
 ---
 
 1

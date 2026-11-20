@@ -82,9 +82,6 @@ romanLyrics: |-
   Har ek samt maatam hai aah o buka hai
   Na aisa ho ham bhi lahad meiṅ ye boleṅ
   Bahut der ki mehrbaaṅ aate aate
-# source_id: nohayonline:28e1c0e27045df806fd9
-# source_url: https://www.nohayonline.com/details_content.php?id=324
-# raw_sha256: 8324b49d050ba2ffb1a6e2b6e00a8111fff24523df8c5d1a1bf3837155f7fd1d
 ---
 نظریں تلاش کرتی ہیں تم کو شہِ زماں
 پھر دے رہے ہیں شہ کے عزادار امتحاں

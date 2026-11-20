@@ -8,12 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2a2cd578e0180b3ffb84
-# source_url: https://tajpoints.com/2018/01/bina-e-la-ilaha-hussain-badshah.html
-# raw_sha256: 589704512aa0b0f995ae270e7fb3521c5d372f0a9619b88d36d0b5d4d673144f
-# source_id: tajpoints:2e9b2925c98136dd0c1f
-# source_url: https://tajpoints.com/2018/08/hai-deen-ki-baqa-hussain-badshah.html
-# raw_sha256: 55ad057a92d37fbde6de49a4ed8c921dc9d4192208651bae5b3573d1550ce4eb
 ---
 
 Hai Deen Ki Baqa Hussain Badshah.

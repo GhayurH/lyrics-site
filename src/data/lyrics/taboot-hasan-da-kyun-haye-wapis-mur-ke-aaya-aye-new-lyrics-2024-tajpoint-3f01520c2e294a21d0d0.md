@@ -8,9 +8,6 @@ poet: "Shaukat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:3f01520c2e294a21d0d0
-# source_url: https://tajpoint.com/taboot-hasan-da-kyun-haye-wapis-mur-ke-aaya-aye/
-# raw_sha256: a154b9ae5b20954289c022789ec8f2f89e9e5aab5645f6a9b812a1bf527a8ea7
 ---
 
 1

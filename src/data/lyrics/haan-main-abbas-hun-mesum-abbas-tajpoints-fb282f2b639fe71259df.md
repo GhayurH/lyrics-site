@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fb282f2b639fe71259df
-# source_url: https://tajpoints.com/2026/09/haan-main-abbas-hun-mesum-abbas.html
-# raw_sha256: ec23426b3c9e9339cc709f44263a065af7dfc9601b9181844e0a1c8c272d795d
 ---
 
 1

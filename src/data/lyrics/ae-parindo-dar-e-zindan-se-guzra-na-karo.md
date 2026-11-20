@@ -21,9 +21,6 @@ romanLyrics: |-
   3
   Ik sataai hui bachchi ko sataaya na karo
   Ae parindo dar-e-zindaan se guzra na karo
-# source_id: ziyaraat:255ade78fdd81b13583f
-# source_url: https://www.ziyaraat.net/api/noha/1614
-# raw_sha256: 3599963e4a805dcfc9203130444c244bf0777f8e87d6a3de82a4131661e86d51
 ---
 
 ۱

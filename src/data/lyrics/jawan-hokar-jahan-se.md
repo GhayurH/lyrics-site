@@ -45,14 +45,6 @@ romanLyrics: |-
   8
   Sadaa Anjum wo kya deta jigar tukre badan chhalni
   Na bole muṅh se wo aur maaṅ pukaare ae Ali Akbar
-# source_id: nohayonline:10df9d4359b1aed13e24
-# source_url: https://www.nohayonline.com/details_content.php?id=234
-# raw_sha256: d5ac47a757eec6c3bb5b783470cb9d3c476fbc6feb29eed53aa2ba2cff804023
-# source_id: nohawriteups:ab60ef7e57ba0b3f61b8
-# source_url: https://www.nohawriteups.org/jawan-hokar-jahan-se-tum-sidhare-ay-ali-akbar/
-# original_html: snapshots/nohawriteups/original_html/ab60ef7e57ba0b3f61b8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ab60ef7e57ba0b3f61b8.json
-# api_content_sha256: 3b23f0f311c9099ed878e6d2ef77336c8f30ec7f5b2a1c540f289b2a6de759cf
 ---
 
 جوان ہو کر جہاں سے تم سدھارے اے علی اکبر

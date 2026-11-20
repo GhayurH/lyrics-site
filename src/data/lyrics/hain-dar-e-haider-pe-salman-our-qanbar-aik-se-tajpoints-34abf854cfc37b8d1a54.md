@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:34abf854cfc37b8d1a54
-# source_url: https://tajpoints.com/2018/03/hain-dar-e-haider-pe-salman-our-qanbar.html
-# raw_sha256: c90b4ddb985582ec6594376f14aa6f8e00bd2aac330960365d52e982158c56e3
 ---
 
 Hain Dar-e-Haider Pe Salman Our Qanbar Aik Se.

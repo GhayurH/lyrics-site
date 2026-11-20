@@ -66,9 +66,6 @@ romanLyrics: |-
   Dunya paae Aamir sitam aamez bahut hai
   Haalaat ke suraj ki tapish tez bahut hai
   Tum hi inheṅ saae meiṅ bitha lo mere Ghaazi
-# source_id: nohayonline:1e06b79f9b285a59e007
-# source_url: https://www.nohayonline.com/details_content.php?id=3669
-# raw_sha256: 6e402a620c9e5657cba28c533d5771aa08d58603e271075af0142499378457c6
 ---
 شبیر کے مقصد کو بچا لو میرے غازی
 کچھ دیر ابھی جنگ کو ٹالو میرے غازی

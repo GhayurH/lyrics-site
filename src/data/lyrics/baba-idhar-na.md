@@ -58,9 +58,6 @@ romanLyrics: |-
   Ae Suraani ro para dil maiṅ ne jis dam ye likha
   Aakhri saansoṅ meiṅ di Sughra ko Akbar ne sada
   Ab mera rasta behan shaam o sehar na dekhna
-# source_id: nohayonline:ea4b358b7ebee29f0ec5
-# source_url: https://www.nohayonline.com/details_content.php?id=2852
-# raw_sha256: 6b99ad90923e42ebd0b9da504d0c74b30ebacfb7af78a5930130e5b10ff32f33
 ---
 ہوا یہ شور کہ گھوڑے سے گر گئے اکبر
 حسین آئے ہیں مقتل میں گھٹنیوں چل کر

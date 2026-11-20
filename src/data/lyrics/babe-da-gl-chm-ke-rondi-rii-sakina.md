@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:90bb5cc0496804e4ad14
-# source_url: https://www.ziyaraat.net/api/noha/1639
-# raw_sha256: 32ef124a881f48f3550d16541b334e66185307c21563cf6704022169c240afe0
 ---
 
 Babay da gal chumke rondi rahi sakina

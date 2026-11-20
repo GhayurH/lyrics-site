@@ -67,12 +67,6 @@ romanLyrics: 'Chuth raha hai nana ka aastan meri zainab
   Sheh safar ka pas manzar kehke chup hue saaghar
 
   Mai hoon haq ki marzi par shadman meri zainab'
-# source_id: nohayonline:cee57c74103b78f3cecd
-# source_url: https://www.nohayonline.com/details_content.php?id=206
-# raw_sha256: 74944bfa10dc0115b359f058bc2a988dcba6f4d2856448da603fba69bba17bca
-# source_id: ziyaraat:e2b9eb14c2dea3bee0ba
-# source_url: https://www.ziyaraat.net/api/noha/1325
-# raw_sha256: 4984926c8ba3688895cb9e09c3b7dee5be5883a3355083cc310f6af15bd8bfc8
 ---
 
 چھٹ رہا ہے نانا کا آستاں میری زینبؑ

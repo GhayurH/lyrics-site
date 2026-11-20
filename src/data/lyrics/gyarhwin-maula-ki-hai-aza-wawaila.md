@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:170a020006797b433eda
-# source_url: https://www.ziyaraat.net/api/noha/2592
-# raw_sha256: e932695923b988d5f177d05d90d6a71a82ad271f1b44fd977ab1c24e3f72fd90
 ---
 
 وا ویلا صد وا ویلا، وا ویلا

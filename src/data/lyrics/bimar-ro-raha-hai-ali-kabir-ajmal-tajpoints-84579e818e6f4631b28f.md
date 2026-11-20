@@ -8,9 +8,6 @@ poet: "Ajmal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84579e818e6f4631b28f
-# source_url: https://tajpoints.com/2023/05/bimar-ro-raha-hai-ali-kabir-ajmal.html
-# raw_sha256: 46662a9d3b4bf00951b1245d790d9d16b13650ea911bcecb0bcd33b4dfd84512
 ---
 
 Bimar Ro Raha Hai Ali Kabir Ajmal.

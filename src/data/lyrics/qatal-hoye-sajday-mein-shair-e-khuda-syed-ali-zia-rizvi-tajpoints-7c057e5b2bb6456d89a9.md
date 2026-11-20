@@ -8,9 +8,6 @@ poet: "Anees"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7c057e5b2bb6456d89a9
-# source_url: https://tajpoints.com/2021/05/qatal-hoye-sajday-mein-shair-e-khuda.html
-# raw_sha256: 460200d7d07e35ff82d7b7f55b1b75a74c3f0de1a7c897c7a8243c38238a7c76
 ---
 
 1

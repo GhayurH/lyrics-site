@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:a77b6e1a5562f4b74a09
-# source_url: https://www.ziyaraat.net/api/noha/1340
-# raw_sha256: 71be88196c8b3ca6c3adab39d78b4860b64870c4cccaf4059a55af9b33baacec
 ---
 
 سجدے میں شاہ دیںؑ پہ خنجر چلا دیا

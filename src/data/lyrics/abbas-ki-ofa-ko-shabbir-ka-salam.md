@@ -59,12 +59,6 @@ romanLyrics: |-
   Jo aaṅkh tere rauze ke hai khwaab dekhti
   Us khwaab mein hai ruh-e-aqidat chhupi hui
   Paakizagi-e-khwaab ko taabir ka salaam
-# source_id: nohayonline:3d2264ea658c9daa4ad8
-# source_url: https://www.nohayonline.com/details_content.php?id=685
-# raw_sha256: c83d7fd2b93e0d2a46662fd972ba23d512f28206f3fd72af4385d359a348b853
-# source_id: ziyaraat:b5bbfc7c8951c1862b1d
-# source_url: https://www.ziyaraat.net/api/noha/2352
-# raw_sha256: 3a9275151433cb96c5da2e45ac0b9246afdd7317a4a9ce502d0ec830391e3354
 ---
 
 عباسؑ کی وفا کو شبیرؑ کا سلام

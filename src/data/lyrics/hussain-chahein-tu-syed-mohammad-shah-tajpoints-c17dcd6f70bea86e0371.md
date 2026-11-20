@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c17dcd6f70bea86e0371
-# source_url: https://tajpoints.com/2021/03/hussain-chahein-tu-syed-mohammad-shah.html
-# raw_sha256: 52ca59e6817f5a6b6a227e42fc9501fa6b7b1833ff56b24e70c9a18f0960e46f
 ---
 
 1

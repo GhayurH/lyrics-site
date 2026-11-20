@@ -7,18 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# Consolidated from three consecutive Tajpoints pages, in source order.
-# Original part-specific SEO headings and generated numeric chunks were omitted.
-# Stanza divisions need separate editorial review; no original lyric lines added.
-# source_id: tajpoints:c41ee48efb260c02141e
-# source_url: https://tajpoints.com/2020/04/ali-nu-yaad-karo-page-1-lyrics-in.html
-# raw_sha256: 83e81f6d9c516ac37ecc8cc456334997fcc17da202c65dd5ce2abc4a23438a83
-# source_id: tajpoints:6a77143dbb64f615403f
-# source_url: https://tajpoints.com/2020/04/ali-nu-yaad-karo-page-2-lyrics-in.html
-# raw_sha256: af97242c63bcfd5a002dc4e14ab258b5ca43ca4e695289cdb659a8dc582ca09b
-# source_id: tajpoints:b8732f65e96a0dc9f5bc
-# source_url: https://tajpoints.com/2020/04/ali-nu-yaad-karo-page-3-lyrics-in.html
-# raw_sha256: bf166c22421e049e5eabc97a67ced1c6ea301b6e9347ad9207f1bc35a04a803f
 ---
 
 Ali Nu Yaad Karo Ral Ke Faryad Karo Hai Ghareebaan Da Ayho Aasra.

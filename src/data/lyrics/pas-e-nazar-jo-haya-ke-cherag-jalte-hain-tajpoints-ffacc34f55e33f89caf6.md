@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ffacc34f55e33f89caf6
-# source_url: https://tajpoints.com/2017/02/pas-e-nazar-jo-haya-ke-cherag-jalte-hain.html
-# raw_sha256: d4d523f8d12cd08b4db8f0980454fa46eee977e581a97e126c7496c9ca6f2307
 ---
 
 Pas-e-Nazar Jo Haya Ke Cherag Jalte Hain.

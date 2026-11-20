@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f8b5dbcc8859f0187cd6
-# source_url: https://tajpoints.com/2017/02/bhala-main-our-kya-lata-hussainas-ke.html
-# raw_sha256: 6868a9adbc7a215fdb1ca023b4cf22c75b2d32693229a0c5831aec4489defc03
 ---
 
 Hussain Mang Laya Hussain Ke Dar Se.

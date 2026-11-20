@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:08e84155ac35219e3706
-# source_url: https://tajpoints.com/2023/12/zakhmi-khari-hai-sorah-e-kausar-laho.html
-# raw_sha256: bfa2c12a01da339fc1af9e74c355fcbdcd9ab2f11726c4586cdb9c966a121542
 ---
 
 1

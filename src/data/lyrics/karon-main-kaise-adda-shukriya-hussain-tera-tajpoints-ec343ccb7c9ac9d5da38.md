@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ec343ccb7c9ac9d5da38
-# source_url: https://tajpoints.com/2017/02/karon-main-kaise-adda-shukriya.html
-# raw_sha256: dcf810d06a30a6bde9733f1df1307eedc37c38b7eda1077764497e7674b95ec5
 ---
 
 Main Kar Raha Hoon Sana Shukriya Hussain Tera.

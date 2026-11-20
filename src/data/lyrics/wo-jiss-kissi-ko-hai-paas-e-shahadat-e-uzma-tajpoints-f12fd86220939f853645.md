@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f12fd86220939f853645
-# source_url: https://tajpoints.com/2017/02/wo-jiss-kissi-ko-hai-paas-e-shahadat-e.html
-# raw_sha256: 5aadb34e87cfe3219c65d09b44746a705ced2f3af09d3008275c1ee7e4bbf2a8
 ---
 
 1

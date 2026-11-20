@@ -8,9 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: true
-# source_id: ziyaraat:55899e1c978804af3eab
-# source_url: https://www.ziyaraat.net/api/noha/2705
-# raw_sha256: 8edfb5d2723adcb408996a706d5c3c817c66feae4f73be2eba74712b946b0e25
 romanLyrics: |-
   1
   Alwida haaye Husain

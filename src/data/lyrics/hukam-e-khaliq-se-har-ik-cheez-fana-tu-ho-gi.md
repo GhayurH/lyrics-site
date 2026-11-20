@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e512c30f47227a0e41af
-# source_url: https://tajpoints.com/2023/04/hukam-e-khaliq-se-har-ik-cheez-fana-tu.html
-# raw_sha256: 438286879b316ab05c84ff811d40c802edce2cf0ac07e89f1fae810afe148750
-# source_title_original: Hukam e Khaliq Se Har Ik Cheez Fana Tu Ho Gi 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Hukam e Khaliq Se Har Ik Cheez Fana Tu Ho Gi

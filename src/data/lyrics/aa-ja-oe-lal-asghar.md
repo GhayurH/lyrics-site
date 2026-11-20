@@ -8,9 +8,6 @@ reciter: "Farhan Ali"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:bae79283b4080f5342a7
-# source_url: https://www.ziyaraat.net/api/noha/2551
-# raw_sha256: 45dc0ec7bee210ca94e66633965f8e14ee31282841d601ea5efc0dc5db0ecb8a
 ---
 
 آ جا وے لال اصغرؑ، جُھولا تیرا جُھلاواں

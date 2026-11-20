@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9128ff0c779d1158157c
-# source_url: https://tajpoints.com/2025/02/zikr-e-haider-asfar-rizvi-lyrics-urdu.html
-# raw_sha256: 1d5010c5397ca378293a6c3c9045dda3b4d5841ee4c599a339fbf44b542c6adc
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:59df5b4b8b0586d73d56
-# source_url: https://tajpoints.com/2025/01/khush-amdeed-ya-ali-syed-raza-abbas.html
-# raw_sha256: 4d5d0b309439e4513d4a912fc39c242bb33e47feebd425622015c26365dbcfb8
 ---
 
 1

@@ -65,9 +65,6 @@ romanLyrics: |-
   Karte haiṅ Aamir Kumail aap se bas ye dua
   Hum pe musalsal rahe aap ki yuṅ hi ata
   Ruk na sake aap ke gham ka silsila marne se pehle
-# source_id: nohayonline:7d61ea2ef42550cc6434
-# source_url: https://www.nohayonline.com/details_content.php?id=1635
-# raw_sha256: 6051d348629e3406c4965ed43cc16a2edd0569c6881d9ca7b451f68c2a6ea602
 ---
 
 صرف اک بار دیکھ لوں کربلا مرنے سے پہلے

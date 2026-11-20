@@ -8,9 +8,6 @@ poet: "Taseer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e0037da34e1c9e520bf1
-# source_url: https://tajpoints.com/2023/06/kis-ko-teri-azmat-ka-ho-ahsas-sakina.html
-# raw_sha256: e45bc8d9bd91cc5cae5cac21f12a6a9e3e31685df56ab949ff501a3d931dc5cb
 ---
 
 1

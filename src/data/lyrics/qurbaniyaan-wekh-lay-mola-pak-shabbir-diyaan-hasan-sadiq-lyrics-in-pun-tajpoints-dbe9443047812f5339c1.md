@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dbe9443047812f5339c1
-# source_url: https://tajpoints.com/2023/02/qurbaniyaan-wekh-lay-mola-pak-shabbir.html
-# raw_sha256: 0efd86fed5b79b7f779e547b31b29557efc5c778aace4392549129f3759fe8ea
 ---
 
 1

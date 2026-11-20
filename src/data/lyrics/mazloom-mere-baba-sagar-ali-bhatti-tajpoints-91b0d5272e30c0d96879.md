@@ -8,9 +8,6 @@ poet: "Fayaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:91b0d5272e30c0d96879
-# source_url: https://tajpoints.com/2026/06/mazloom-mere-baba-sagar-ali-bhatti.html
-# raw_sha256: f956eeca45fd3411f36c1e4e928b3b4c163b2968ef31ead08ed0bfe48a32284e
 ---
 
 1

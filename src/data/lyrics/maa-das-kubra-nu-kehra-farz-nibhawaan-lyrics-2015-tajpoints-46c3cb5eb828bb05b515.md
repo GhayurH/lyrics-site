@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:46c3cb5eb828bb05b515
-# source_url: https://tajpoints.com/2020/09/maa-das-kubra-nu-kehra-farz-nibhawaan.html
-# raw_sha256: 242a54b3b5d36b4c184d8ca16ff5d71fa46913c9551ccaa8f444bac34177f060
 ---
 
 1

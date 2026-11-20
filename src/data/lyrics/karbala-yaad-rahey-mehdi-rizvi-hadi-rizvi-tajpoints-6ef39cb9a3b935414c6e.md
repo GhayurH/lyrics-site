@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ef39cb9a3b935414c6e
-# source_url: https://tajpoints.com/2026/06/karbala-yaad-rahey-mehdi-rizvi-hadi.html
-# raw_sha256: e0b809b37cb22919a34c2e20cdc0f31e0713b7cc852fb8963196a7e0e4c9dde5
 ---
 
 Aye Azadar-e-Shah-e-Karb-o-Bala Yaad Rahe, Karbala Yaad Rahe.

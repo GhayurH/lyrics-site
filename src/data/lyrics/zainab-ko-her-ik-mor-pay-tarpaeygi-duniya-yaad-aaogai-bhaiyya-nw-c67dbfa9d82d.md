@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:c67dbfa9d82d75e1b0fc
-# source_url: https://www.nohawriteups.org/zainab-ko-her-ik-mor-pay-tarpaeygi-duniya-yaad-aaogai-bhaiyya/
-# original_html: snapshots/nohawriteups/original_html/c67dbfa9d82d75e1b0fc.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/c67dbfa9d82d75e1b0fc.json
-# api_content_sha256: b096962b88a294215a3fbbc3bde599241ef598bb094b6cdee103157ad0dbd4f6
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Hussain Jaata Hai Mernay Ko Aey Meri Zainab

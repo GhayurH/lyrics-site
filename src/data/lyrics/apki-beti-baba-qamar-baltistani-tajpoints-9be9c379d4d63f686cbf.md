@@ -8,9 +8,6 @@ poet: "Zaire"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9be9c379d4d63f686cbf
-# source_url: https://tajpoints.com/2023/11/apki-beti-baba-qamar-baltistani-lyrics.html
-# raw_sha256: baf003e26885b157a21160442ca9d6414cdb3aab0301cbb06d2ccf154bb116b7
 ---
 
 1

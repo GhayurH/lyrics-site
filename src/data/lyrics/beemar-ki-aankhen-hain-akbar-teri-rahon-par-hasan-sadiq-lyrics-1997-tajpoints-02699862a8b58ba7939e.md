@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:02699862a8b58ba7939e
-# source_url: https://tajpoints.com/2023/02/beemar-ki-aankhen-hain-akbar-teri-rahon.html
-# raw_sha256: afc6cfe9896ffd79fd31dee5a8fabafeb0a2e59c49292c8b2a6606e006d2a0ad
 ---
 
 1

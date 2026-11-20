@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc8ba2b06ff65876d755
-# source_url: https://tajpoints.com/2019/12/ghazi-main-tere-baaj-roni-aan-veerna-be.html
-# raw_sha256: f03208f7931468ec512a8c70fe9c54818dd0bdf4e6e99fdfc3efaa62741cbfad
 ---
 
 1

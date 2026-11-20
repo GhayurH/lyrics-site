@@ -63,9 +63,6 @@ romanLyrics: |-
   Haae maut mujhe kiuṅ na aayi
   Jab mujh se meri aaqa zaadi
   Zainab ne kaha maiṅ Zainab huṅ
-# source_id: nohayonline:8c512249e247f553d09d
-# source_url: https://www.nohayonline.com/details_content.php?id=1559
-# raw_sha256: 4157664f51da354544f678ee92fb8d771e16524661ba8f1291a653a0dd98ede5
 ---
 مجھے قیدی سمجھ نہیں شیریں
 کر غور ذرا میں زینب ہوں

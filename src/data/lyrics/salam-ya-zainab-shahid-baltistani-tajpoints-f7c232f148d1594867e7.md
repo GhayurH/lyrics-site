@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f7c232f148d1594867e7
-# source_url: https://tajpoints.com/2021/03/salam-ya-zainab-shahid-baltistani.html
-# raw_sha256: 30ead5146060ab6c2a3efcb6e32041c32edbc271c15c7014e91fb802f5d111bb
 ---
 
 Salam Ya Zainab Shahid Baltistani

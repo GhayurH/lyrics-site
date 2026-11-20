@@ -64,9 +64,6 @@ romanLyrics: |-
   Kya bayaaṅ ho ae Hamid o Safdar-e-khasta jigar
   Lashkar-e-Shabbir meiṅ ye gham ka manzar dekh kar
   Keh rahi hai khud azaaṅ Allahu Akbar Allahu Akbar
-# source_id: nohayonline:fb069a68aefa09e09c8e
-# source_url: https://www.nohayonline.com/details_content.php?id=1553
-# raw_sha256: a96db976fad0a2635010286d31c0f726f852f7a65ca4f0294c4e34fc9a6c2ffc
 ---
 
 دی جو اکبر نے اذاں اللّٰہ اکبر

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:974ea2d64e92ca6ae127
-# source_url: https://tajpoints.com/2021/12/haye-sham-de-bazar-wichon-ch-faiyaz.html
-# raw_sha256: a4de7b27c951651b6f264a1953a0865d770738d4eb7fd23744106f0e14609051
 ---
 
 1

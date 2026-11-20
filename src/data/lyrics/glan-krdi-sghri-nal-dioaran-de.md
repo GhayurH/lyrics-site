@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:ac0a0730fdaf357a250c
-# source_url: https://www.ziyaraat.net/api/noha/2913
-# raw_sha256: f0c0d9a14fa9f2ab9eefcd5b483825481240bd9abe8426d0d02a395fbab49cd9
 ---
 
 گلاں کردی صغرا نال دیواراں دے اکبر ویر دیاں

@@ -74,12 +74,6 @@ romanLyrics: 'Karbobala lahoo ka safar dekhti rahi
   Insaniyat nazar ko jhukaye basad niyaz
 
   Zaanu pe sheh ke john ka sar dekhti rahi'
-# source_id: nohayonline:1d0abc0bf058641d1171
-# source_url: https://www.nohayonline.com/details_content.php?id=173
-# raw_sha256: 9e7893dac8865dc8c6b2a56cb3465713af9cdf82e0c8efa5de8a4773af407981
-# source_id: ziyaraat:8af5590da3262fe9b5b7
-# source_url: https://www.ziyaraat.net/api/noha/1169
-# raw_sha256: bb9641c40c792ca61ddf3b4603ed187edad1d6b2d1cf0c2957bdd28552db241b
 ---
 
 کرب و بلا لہو کا سفر دیکھتی رہی

@@ -48,9 +48,6 @@ romanLyrics: |-
   Haamil alam ka pyaasoṅ ka saqqa nahiṅ raha
   Maatam tha ae Sohail alamdaar-e-Shah ka
   The bain sab ke ae Bani Haashim ke mah laqa
-# source_id: nohayonline:f066031b133f59f07b4d
-# source_url: https://www.nohayonline.com/details_content.php?id=3008
-# raw_sha256: 05591c5276eb3cb40580de159c0abd974366f80ff8c27c5658fb34ca38822d94
 ---
 
 کیا سو رہے ہو نہر پہ عباس با وفا

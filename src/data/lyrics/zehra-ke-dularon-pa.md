@@ -56,17 +56,6 @@ romanLyrics: |-
   Mamur ka dil is liye khuṅ rota hai Maula
   Shabbir ka sar Shimr-e-laiṅ kaat raha hai
   Tu dekh raha hai
-# source_id: nohayonline:b02722d83a364c82638d
-# source_url: https://www.nohayonline.com/details_content.php?id=286
-# raw_sha256: e144220fed5e49c55c8bfff06d027feb85746ed1a79d62a1c0c6709e111008af
-# source_id: ziyaraat:390daa145fae5970084e
-# source_url: https://www.ziyaraat.net/api/noha/1866
-# raw_sha256: 290c0637132ee5edb8f0e5b9185aeba9e3838e9c02788bcaf7dc3569c9e259bd
-# source_id: nohawriteups:034d5c04c5f110a6f3c1
-# source_url: https://www.nohawriteups.org/zehra-ke-dularon-pa/
-# original_html: snapshots/nohawriteups/original_html/034d5c04c5f110a6f3c1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/034d5c04c5f110a6f3c1.json
-# api_content_sha256: 71a41443cd6c9ecae864d623be4958c162201255a264eb436199ddb89399e205
 ---
 
 زہرا کے دلاروں پہ عجب ظلم و جفا ہے

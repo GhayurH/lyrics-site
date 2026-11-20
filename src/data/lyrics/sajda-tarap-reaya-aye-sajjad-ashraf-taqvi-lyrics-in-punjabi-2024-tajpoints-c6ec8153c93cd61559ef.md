@@ -8,9 +8,6 @@ poet: "Naveed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c6ec8153c93cd61559ef
-# source_url: https://tajpoints.com/2024/03/sajda-tarap-reaya-aye-sajjad-ashraf.html
-# raw_sha256: 32546da415565279fd1a31bea9c6e07873177aa2d4b973e500bab8a4bc609b35
 ---
 
 1

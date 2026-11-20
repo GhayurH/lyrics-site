@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:bcca6e0cc094fe66cc99
-# source_url: https://www.nohawriteups.org/reh-ga-ey-dasht-e-musibat-main-sakina/
-# original_html: snapshots/nohawriteups/original_html/bcca6e0cc094fe66cc99.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/bcca6e0cc094fe66cc99.json
-# api_content_sha256: afd64dadd096b8d6d291ee23eef5484f0bf84770d43230b9e723ed0526692afd
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Reh ga ey dasht-e-Musibat main sakina tanha

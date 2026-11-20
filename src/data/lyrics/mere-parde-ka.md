@@ -64,9 +64,6 @@ romanLyrics: |-
   Shaam jaa kar kaha jo bibi ne
   Mere marne ki kar dua ghazi
   Shaam jaana hai...
-# source_id: nohayonline:3d445160cae2a7f349d8
-# source_url: https://www.nohayonline.com/details_content.php?id=2276
-# raw_sha256: 902ffd407562d6197bd70c2af485a97ebaee071d33b6d5a751739f6e6ab9a36d
 ---
 
 ۱

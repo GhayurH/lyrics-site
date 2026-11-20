@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:204f5361c7ec1c0fbd00
-# source_url: https://www.ziyaraat.net/api/noha/909
-# raw_sha256: f303b07b3fb95ee1776f029742af6efdfaf305aa992a5d1464e7382569a06af7
 romanLyrics: |-
   1
   Haye Maa Pyari Maa Das Main Ki Karaan.

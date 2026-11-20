@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d9abb835daad6030fe88
-# source_url: https://tajpoints.com/2018/08/al-madad-mola-raza-al-madad-mola-raza.html
-# raw_sha256: 0ebf241ea3a7db8e6fbf7ea9a8036aa31a00ee8ea81c67896abab268a34dcb09
 ---
 
 Al Madad Mola Raza Shahid Baltistani.

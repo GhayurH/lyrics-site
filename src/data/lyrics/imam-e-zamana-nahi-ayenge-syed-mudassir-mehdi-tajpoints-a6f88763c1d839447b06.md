@@ -8,9 +8,6 @@ poet: "Mukhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a6f88763c1d839447b06
-# source_url: https://tajpoints.com/2022/03/imam-e-zamana-nahi-ayenge-syed-mudassir.html
-# raw_sha256: a7ea0be4e7d64852aee50489c429616a6c031d6f1694ea2d4f41f5deb98ef607
 ---
 
 1

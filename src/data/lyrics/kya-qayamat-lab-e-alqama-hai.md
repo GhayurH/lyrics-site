@@ -126,15 +126,6 @@ romanLyrics: 'Kya qayamat lab-e-alqama hai
   Nawha hai irfaan ka, qatl-e-alamdar shud
 
   Peet-te hai sina-o-sar dekh ke ehl-e-aza'
-# source_id: nohayonline:80777a2ce039fd6438c8
-# source_url: https://www.nohayonline.com/details_content.php?id=449
-# raw_sha256: 6e9089d4a93460c8204cb8586f9e3e1cca53d8b24bad84c6c684a93414609a60
-# source_id: nohawriteups:1cb768a684484a6cd821
-# source_url: https://www.nohawriteups.org/khoon-may-dooba/
-# raw_sha256: ee9794c2599a13f8793457fb656cbdbc880d38d9521da42d95678a8edce54405
-# source_id: ziyaraat:567a1fb483684746c208
-# source_url: https://www.ziyaraat.net/api/noha/2376
-# raw_sha256: 575920b8c2f408254dd70cf9e329c9ca7d3d5d73b437f86b5a0b190114494450
 ---
 
 کیا قیامت لبِ علقمہ ہے

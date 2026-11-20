@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9cccc4b65ef898eef14e
-# source_url: https://tajpoints.com/2025/02/haza-min-fazl-e-hussain-ibn-e-ali-mir.html
-# raw_sha256: ea2c87a02c01d2bc8eb345976e631efdd1a502b059a60cacc3fa2f8388e4b265
 ---
 
 1

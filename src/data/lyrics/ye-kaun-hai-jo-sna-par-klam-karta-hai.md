@@ -38,9 +38,6 @@ romanLyrics: |-
   7
   7) Nidar bana diya tum ko Husain ne Shehzad
   Tu khas baat bhi logoṅ may aam karta hai
-# source_id: ziyaraat:93d3a4a3601bc554d4a1
-# source_url: https://www.ziyaraat.net/api/noha/1156
-# raw_sha256: b49f70001fad56d8a9c22a67085d36bd994072ce7114a535e4b5e75f4a651b5e
 ---
 
 یہ کون ہے جو سِنا پر کلام کرتا ہے

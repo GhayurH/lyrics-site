@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1296eb67c004577c8b96
-# source_url: https://www.ziyaraat.net/api/noha/154
-# raw_sha256: b0883834a2bc79fe7ed3a4831c9ec7cfcaa924764a2b04d6e20a6831579ff4eb
 ---
 
 Al Ajal ya imam, ya imame zamaan

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a7ae401c9537b19b0e5c
-# source_url: https://tajpoints.com/2020/12/veer-akbar-kiwein-jewaan-gi-lyrics-in.html
-# raw_sha256: 71056ee037f70cb0fea9cb768203c71842e62562d5e0d9a372e12a15aa65deaa
 ---
 
 1

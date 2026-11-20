@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fa1e274eb2ed74371ff4
-# source_url: https://tajpoints.com/2026/10/ali-batool-ki-turbat-bana-kay-rote-hain.html
-# raw_sha256: bb239abd54a0c574eeba5d11b9da6d4d7719dad78c13c33c20a1b4440bcfdbbb
-# source_title_original: Ali Batool Ki Turbat Bana Kay Rote Hain Syed Ali Mehdi Lyrics In Urdu 2026
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Ali, Batool Ki Turbat Bana Ke Rotay Hain

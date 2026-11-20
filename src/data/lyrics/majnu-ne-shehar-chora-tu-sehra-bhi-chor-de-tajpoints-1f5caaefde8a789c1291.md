@@ -8,9 +8,6 @@ poet: "Iqbal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1f5caaefde8a789c1291
-# source_url: https://tajpoints.com/2017/02/majnu-ne-shehar-chora-tu-sehra-bhi-chor.html
-# raw_sha256: 3b31406d03bdc0f7eeb945cd67f954c6e31464ed2a32ab44590fe81ae6222817
 ---
 
 1

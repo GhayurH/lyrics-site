@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:956083925f62a47e5d88
-# source_url: https://tajpoints.com/2022/09/qaid-khane-mein-sakina-sarwar-raza.html
-# raw_sha256: f5bbd0aa4569c31f69f15504a068440ce6d4e0c72b004b088edcad84b56ef29d
 ---
 
 1

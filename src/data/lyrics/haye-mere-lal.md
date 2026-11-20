@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6ecbdf18be5e29bdf0df
-# source_url: https://www.ziyaraat.net/api/noha/702
-# raw_sha256: 9b9a938f10a0e583d10e4f9a64c864edee7d5914226e37ff5ffde8243c66d3b9
 ---
 
 Jab Qasim ke tukaro ko uthane lage Hussain

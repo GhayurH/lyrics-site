@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:903794a4e35e0b0fdf17
-# source_url: https://tajpoints.com/2023/08/sada-zindaan-se-aati-hai-sakina-ab-bhi.html
-# raw_sha256: c460ba21b7c99af303f6fe6b527a32c6a1f394b96315ca16a2a00b53aa615dd9
 ---
 
 Sada Zindaan Se Aati Hai Sakina Ab Bhi Qaidi Hai Sheraz Khan.

@@ -103,9 +103,6 @@ romanLyrics: |-
   Pardaseya veera
   Haye bhain di thi ae rehai vay
   Pardaseya veera
-# source_id: ziyaraat:27e19d6cddf6f6e37fbf
-# source_url: https://www.ziyaraat.net/api/noha/2211
-# raw_sha256: 2abca2cd2b8eb40ed6b3dd9185e7470ebb053d94d88777872b4680df7d1063d7
 ---
 
 ہائــــے...

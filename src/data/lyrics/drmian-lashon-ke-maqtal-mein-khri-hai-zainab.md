@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ffe8ed2ff1500e414f58
-# source_url: https://www.ziyaraat.net/api/noha/2248
-# raw_sha256: 36649a34420f09cfdc0974c1e47a785173d280b2bf32e39ae3a03557aa026c34
 ---
 
 Darmian lashon ke maqtal may khari hay Zainab

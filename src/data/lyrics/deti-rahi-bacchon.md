@@ -48,9 +48,6 @@ romanLyrics: |-
   Akbar ye fughaaṅ karti thi ro ro ke Sakina
   Darya se palat kar nahiṅ aaya mera saqqa
   Nind aa na gayi ho kahiṅ saahil ki hawa se
-# source_id: nohayonline:1d986e387cdc29bbde5b
-# source_url: https://www.nohayonline.com/details_content.php?id=3681
-# raw_sha256: 03a98df778db72c307ce7544d9812a1b3b351ade61786e8dbdcdebc432b687cd
 ---
 دیتی رہی بچوں کو سکینہ یہ دلاسے
 پانی کا میں کہہ آئی ہوں عباس چچا سے

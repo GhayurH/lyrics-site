@@ -54,9 +54,6 @@ romanLyrics: |-
   10
   Ab is se barh ke sharaf aadmi ka kya ho ga?
   Ruki hui hai qayaamat ik aadmi ke liye
-# source_id: tajpoints:bbc00e51fea9676a8f48
-# source_url: https://tajpoints.com/2023/10/na-khusrawi-ke-liye-hai-na-afsari-ke.html
-# raw_sha256: eefa2c845e4084a05f40a7dd41f9757738c36c04b316f17c99b0a680435538ed
 ---
 
 نہ خسروی کے لیے ہے نہ افسری کے لیے

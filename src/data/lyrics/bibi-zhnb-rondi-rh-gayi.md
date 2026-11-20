@@ -8,9 +8,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6dea09df841e38d5bd0d
-# source_url: https://www.ziyaraat.net/api/noha/2746
-# raw_sha256: 43b1d52e7ded20fd7b4eef8e9f38158516e38516a5c5562e5faa06d1cf4f5c69
 ---
 
 Bibi zainab rondhi rehgayi,

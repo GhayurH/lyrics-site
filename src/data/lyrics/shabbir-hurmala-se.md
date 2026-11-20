@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Ye puchhta hai aap se Anwar basad adab
   Rauze pe kab bulaao ge Maula pukaar ke
-# source_id: nohayonline:3a2bb2f499a3bc122a55
-# source_url: https://www.nohayonline.com/details_content.php?id=1266
-# raw_sha256: 6d2b56922183bb9c4f9cf66f288949b37a05c65a4b70053acacaed27e543da9e
 ---
 شبیر حرملہ سے یہ بولے پکار کے
 کیا مل گیا بتا میرے بچے کو مار کے

@@ -8,9 +8,6 @@ poet: "Naeem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:64738dc20863ed9e60c6
-# source_url: https://tajpoints.com/2023/03/hussain-ker-dein-gy-shahzad-abbas.html
-# raw_sha256: 146e53a7633a807bea957eb804a3c62cdb53d9777de0c848aaad53404b93fb81
 ---
 
 1

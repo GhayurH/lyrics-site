@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:938f4ec8b9c8dd125b0a
-# source_url: https://tajpoints.com/2020/09/pa-ke-siraan-che-mitiyaan-ro-kenr-zahra.html
-# raw_sha256: 9e4d440a1d69163eb106feb7fcb31a1b9a81194b2d7d0c0eb4ab24087e6c7f41
 ---
 
 Pa Ke Siraan Che Mitiyaan Ro Kenr Zahra Jaiyaan.

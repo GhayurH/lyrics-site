@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5833c040b7494567574b
-# source_url: https://tajpoints.com/2023/02/kunba-nabi-ka-qaid-tha-bazar-e-sham-tha.html
-# raw_sha256: 38e7912ca042e686089a44890499b1acb8bc36bde791fc99b288db2f3847fdaf
 ---
 
 1

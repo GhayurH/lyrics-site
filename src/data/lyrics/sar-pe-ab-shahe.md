@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Aaj maatam hai Gharibul Ghuraba ka Akhtar
   Gham se dil phatta hai ab zabt ka yaara na raha
-# source_id: nohayonline:401be139772508a5dbca
-# source_url: https://www.nohayonline.com/details_content.php?id=3351
-# raw_sha256: b65db028009e56699f51d7515fcd919b982331c2194e7b1bade7bab053297320
 ---
 سر پہ اب شاہِ خراسان کا سایہ نہ رہا
 ہم غریبوں کے لئے کوئی سہارا نہ رہا

@@ -8,15 +8,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f192b35f5d909b0ee0aa
-# source_url: https://tajpoints.com/2019/03/main-khak-e-shifa-hoon-1-4.html
-# raw_sha256: b4a5645046c9c7601b023c88bd616e26c9299c9a3b9a63c37ed949df839f2c91
-# source_poet: Bahu
-# source_id: tajpoints:66a9fd20e31425547afc
-# source_url: https://tajpoints.com/2019/03/main-khak-e-shifa-hoon-5-8.html
-# raw_sha256: f1555cad4572a77253c9aa0ec3391be944c056cf3d62e767f4a9264d08f16a10
-# source_poet: Sajjad
-# editorial_note: Joined parts 1-4 and 5-8 into eight six-line stanzas; poet claims differ between source pages and require adjudication. The separate 2018 "Main Khak-e-Shifa Hoon" composition is intentionally retained.
 ---
 
 1

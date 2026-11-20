@@ -8,9 +8,6 @@ poet: "Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7e2299d22459535c512c
-# source_url: https://tajpoints.com/2019/07/azadar-1-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: 1896e1000c44a8584774a427fa04011f8e54a73954aaaee54a1516badd263ab8
 ---
 
 1

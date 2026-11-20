@@ -1,0 +1,78 @@
+---
+title: "اربعیں کرنے کو آئی ہے بہن"
+recitationId: "arbaeen-karne-ko-aayi"
+alternateTitle: "Arbaiṅ Karne Ko Aayi"
+language: "Urdu"
+lang: "ur"
+direction: "rtl"
+kalamType: "Noha"
+reciter: "Anjuman-e-Masoomeen"
+tags: []
+aliases: []
+published: true
+romanLyrics: |-
+  Arbaiṅ karne ko aayi hai behan
+  Qaid se chhut ke paaband-e-mihan
+
+  1
+  Peshwaayi ko mere aaye koi
+  Hausla mera barhaaye to koi
+  Mujhko sine se lagaaye to koi
+  Kya hua mere gharaane ka chalan
+
+  2
+  Mera Abbas-e-dilaawar hai kahaaṅ
+  Mera armaan mera Akbar hai kahaaṅ
+  Jhule waala Ali Asghar hai kahaaṅ
+  Ye bataao hai kahaaṅ ibn-e-Hasan
+
+  3
+  Maiṅ kabhi kucha o baazaar meiṅ thi
+  Aur kabhi qaid-e-sitamgaar meiṅ thi
+  Sar barehna kabhi darbaar meiṅ thi
+  Gir para phat ke na kiuṅ charkh-e-kohan
+
+  4
+  Baazuoṅ meiṅ mere rassi thi bandhi
+  Pusht koroṅ se badan hai zakhmi
+  Har qadam par thi ik uftaad nayi
+  Baazuoṅ par hai mere daagh-e-rasan
+
+  5
+  Apna muṅh ashkoṅ se dhone waali
+  Raat din aap ko rone waali
+  Mar gayi sine pe sone waali
+  Us ka zindaaṅ meiṅ bana kar madfan
+---
+اربعیں کرنے کو آئی ہے بہن
+قید سے چھٹ کے پابندِ محن
+
+۱
+پیشوائی کو میرے آئے کوئی
+حوصلہ میرا بڑھائے تو کوئی
+مجھکو سینے سے لگائے تو کوئی
+کیا ہوا میرے گھرانے کا چلن
+
+۲
+میرا عباس دلاور ہے کہاں
+میرا ارمان میرا اکبر ہے کہاں
+جھولے والا علی اصغر ہے کہاں
+یہ بتاؤ ہے کہاں ابنِ حسن
+
+۳
+میں کبھی کوچہ و بازار میں تھی
+اور کبھی قید ستمگار میں تھی
+سر برہنہ کبھی دربار میں تھی
+گر پڑا پھٹ کے نہ کیوں چرخ کہن
+
+۴
+بازوؤں میں میرے رسی تھی بندھی
+پشت کوڑوں سے بدن ہے زخمی
+ہر قدم پر تھی اک افتاد نئی
+بازوؤں پر ہے میرے داغ رسن
+
+۵
+اپنا منہ اشکوں سے دھونے والی
+رات دن آپ کو رونے والی
+مر گئی سینے پہ سونے والی
+اس کا زنداں میں بنا کر مدفن

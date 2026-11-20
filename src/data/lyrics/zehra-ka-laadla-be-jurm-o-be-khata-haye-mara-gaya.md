@@ -34,9 +34,6 @@ romanLyrics: |-
   Tu mer kar bhi huwa raazi kai mara gaiya tera Ghazi,
   Tu bai misl hai ho namazi ho mazloom-e-Kerbala
   Huwai Akber zibah Asgher ho khoraam hai bapa
-# source_id: ziyaraat:2fe754df9f7f895edc9e
-# source_url: https://www.ziyaraat.net/api/noha/1040
-# raw_sha256: 42aed7f6c0d874658bb91f5ec44a1b5e85ef8d204b875adaa8c9a8471543bd27
 ---
 
 حسینؑ یا حسینؑ یا حسینؑ یا حسینؑ

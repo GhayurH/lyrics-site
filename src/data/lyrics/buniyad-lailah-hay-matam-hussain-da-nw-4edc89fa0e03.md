@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:4edc89fa0e03d1f1f23d
-# source_url: https://www.nohawriteups.org/buniyad-lailah-hay-matam-hussain-da/
-# original_html: snapshots/nohawriteups/original_html/4edc89fa0e03d1f1f23d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/4edc89fa0e03d1f1f23d.json
-# api_content_sha256: e630b07fdd8ce3997bfd1bbc928261a9f59414d428e089f0bf9d03fd0a559f0d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Buniyad Lailah Hay Matam Hussain Da.

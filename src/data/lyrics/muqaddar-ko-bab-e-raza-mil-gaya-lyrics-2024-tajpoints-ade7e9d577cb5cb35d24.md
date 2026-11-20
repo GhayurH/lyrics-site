@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ade7e9d577cb5cb35d24
-# source_url: https://tajpoints.com/2024/05/muqaddar-ko-bab-e-raza-mil-gaya.html
-# raw_sha256: 2f53ce62ffc447924d9cf80719e555cf46c0db9d1e76f297b48db4adeb795ffc
 ---
 
 1

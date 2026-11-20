@@ -42,14 +42,6 @@ romanLyrics: |-
   Kiun kar Suraiya ho bayaaṅ
   Larze meiṅ tha kaun o makaaṅ
   Zainab jo karti thiṅ bayaaṅ
-# source_id: nohayonline:567ce3f43765635cb151
-# source_url: https://www.nohayonline.com/details_content.php?id=260
-# raw_sha256: 2d82edd1b292358a921f27c715766a3fd690bbac61c392daaa6924663454abd9
-# source_id: nohawriteups:9155d529900a083aeeab
-# source_url: https://www.nohawriteups.org/sughra-mai-lutkar-aayi-hoon/
-# original_html: snapshots/nohawriteups/original_html/9155d529900a083aeeab.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9155d529900a083aeeab.json
-# api_content_sha256: 405eb285cfc780f090a6921d5c2708c9f589f818b07c84dfc637f4d11546e219
 ---
 
 صغرا میں لٹ کر آئی ہوں

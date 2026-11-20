@@ -48,9 +48,6 @@ romanLyrics: |-
   Sab Ahl-e-Haram rote the ek hashr tha barpa
   Tha turbat-e-Shabbir pe Zainab ka ye nauha
   Dil dub raha hai mera ghabrati huṅ bhai
-# source_id: nohayonline:7a6d5e980de7b1fe98f4
-# source_url: https://www.nohayonline.com/details_content.php?id=2950
-# raw_sha256: d0e1fba203b8cfa086c4899df175899b99c7b225991bf3dcb16d2ebc034bbce7
 ---
 
 اللہ نگہبان وطن جاتی ہوں بھائی

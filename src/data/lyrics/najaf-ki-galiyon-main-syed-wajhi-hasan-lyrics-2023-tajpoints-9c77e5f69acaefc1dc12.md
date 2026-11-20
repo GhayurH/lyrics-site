@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9c77e5f69acaefc1dc12
-# source_url: https://tajpoints.com/2023/01/najaf-ki-galiyon-main-syed-wajhi-hasan.html
-# raw_sha256: 339541207176971a7a207ab41bb984b20631d30123e1431f51fc6e3f034cab94
 ---
 
 Najaf Ki Galiyon Main Syed Wajhi Hasan

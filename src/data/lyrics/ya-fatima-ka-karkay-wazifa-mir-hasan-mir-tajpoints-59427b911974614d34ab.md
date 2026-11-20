@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:59427b911974614d34ab
-# source_url: https://tajpoints.com/2025/12/ya-fatima-ka-karkay-wazifa-mir-hasan-mir.html
-# raw_sha256: 7a110858174a5c75141f2c44296a3a45ef7d14698a5fc30228154fed8cfcf118
 ---
 
 1

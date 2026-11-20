@@ -43,12 +43,6 @@ romanLyrics: |-
   Aao Mohib namaaz-e-mawaddat kareiṅ ada
   Imaan ki dalil hai ye gham Husain ka
   Rota hai jo Husain pe wo haq shanaas hai
-# source_id: nohayonline:318911ec93646a55350b
-# source_url: https://www.nohayonline.com/details_content.php?id=2674
-# raw_sha256: 5b6def813862013a8806b1f5040b41fad4cb38052861308fa6eaec5302176252
-# source_id: ziyaraat:229af78e03815f9a52bf
-# source_url: https://www.ziyaraat.net/api/noha/2272
-# raw_sha256: 45245f9ea24703e599e175427cfe9d81df38f0cd18e942e01cd5726d5c2d8312
 ---
 
 دن ڈھل رہا ہے پیاسی سکینہ اداس ہے

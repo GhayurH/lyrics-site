@@ -36,9 +36,6 @@ romanLyrics: |-
   Na jaane baap ne poṅchha tha chehre se lahu kiunkar
   Falak qaabil mitaane ke na thi taswir Akbar ki
   Ali ka naam sin Zehra ka aur surat Payambar ki
-# source_id: nohayonline:1f5e00f00c3f491e5a9a
-# source_url: https://www.nohayonline.com/details_content.php?id=1155
-# raw_sha256: 4bcbcf0f0ee144b74078087fcf8a164604d96bac25d1490e67a812db2505f3fb
 ---
 ہوئے پیدا تو صورت دیکھنے ہر شہ خوشاب آیا
 جوانی ان پہ کیا آئی مدینے کا شباب آیا

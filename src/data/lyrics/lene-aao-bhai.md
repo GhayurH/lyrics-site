@@ -44,9 +44,6 @@ romanLyrics: |-
   Aur rahega ta qayamat dil meiṅ ye irfaṅ ke gham
   Sogh meiṅ tere ae bibi rota hai saara jahaṅ
   Lene aao bhai mujhko...
-# source_id: nohayonline:72bea60541eb9533b840
-# source_url: https://www.nohayonline.com/details_content.php?id=913
-# raw_sha256: 4e82c3cc366c26da77a9050b1cc1b6d7f199e6526a39f114d3b7cb21242f17ed
 ---
 
 ۱

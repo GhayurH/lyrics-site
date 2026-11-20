@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c36730ec7f94f3970eea
-# source_url: https://tajpoints.com/2023/03/midhat-e-syed-e-konain-ho-unwan-kalam.html
-# raw_sha256: d3f59b5d7bb3811faca5889d3dfbb098285506d79a626cee70fb72bf20c4d287
 ---
 
 Midhat e Syed e Konain Ho Unwan Kalam Naat.

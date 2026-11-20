@@ -7,11 +7,6 @@ direction: "rtl"
 kalamType: "Noha"
 aliases: []
 published: false
-# source_id: nohawriteups:3150bd302e11bb2c8b29
-# source_url: https://www.nohawriteups.org/aaja-asghar-mein-tera-jhoola-jhulawan-veeraa/
-# raw_sha256: a078aedeea56aba749518a36e377fde4444cc719ce300dbde749af247e9bff8a
-# source_title_original: Aaja Asghar Mein Tera Jhoola Jhulawan Veeraa
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aaja Asghar mein tera jhoola jhulawan veeraa
   Dhoondti phirti teri bhen Sakina ujri,

@@ -70,9 +70,6 @@ romanLyrics: |-
   Mai lut gayi pardes meiṅ hae hae mere pyare
   Darya ke kanare
   Fizza ne kaha...
-# source_id: nohayonline:f6a6fd5f80b7bf2520f5
-# source_url: https://www.nohayonline.com/details_content.php?id=1993
-# raw_sha256: 9fe4a44e136cac14159450fa81737d812b62b8d9845443441380d78eb8cdf07a
 ---
 
 ۱

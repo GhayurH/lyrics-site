@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:309dcf1179578d5ca4a2
-# source_url: https://tajpoints.com/2019/05/mehndiyaan-waliyaan-hathaan-te-rasiyaan.html
-# raw_sha256: 22208a2a273195e7283f1131492803794160bdc882c93b693d1f5b9cd2093668
 ---
 
 Mehndiyaan Waliyaan Hathaan Te Rasiyaan Pay Gayiyaan.

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f62b59010b5ec663041c
-# source_url: https://www.nohawriteups.org/na-kaho-qum-main-bana-kon-wasi/
-# original_html: snapshots/nohawriteups/original_html/f62b59010b5ec663041c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f62b59010b5ec663041c.json
-# api_content_sha256: 530749435c1c7bd5a25c803ecb3e073aaa7214dd99f0876c6daf5c7a3bfa6393
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Chajjan sahab noha

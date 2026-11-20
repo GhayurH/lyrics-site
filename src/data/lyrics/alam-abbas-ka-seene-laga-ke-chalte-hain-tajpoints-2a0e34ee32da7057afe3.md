@@ -8,9 +8,6 @@ poet: "Naqvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2a0e34ee32da7057afe3
-# source_url: https://tajpoints.com/2023/10/alam-abbas-ka-seene-laga-ke-chalte-hain.html
-# raw_sha256: 1e38b28ed7448307de85439d8dc7bc8260eaf6afdb4285898ac45524ca81298b
 ---
 
 1

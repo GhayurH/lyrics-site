@@ -8,9 +8,6 @@ reciter: "Ashraf Abbas"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2c8ccfab939679af75b9
-# source_url: https://www.ziyaraat.net/api/noha/1370
-# raw_sha256: c5830bc97b6d51675a63088f850aca39d74c72579038301c969ff39bf103e805
 ---
 
 کربلا ہو چکی تیار..تقدم ولدی

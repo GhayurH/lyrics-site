@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:94aa919520fafbe20700
-# source_url: https://tajpoints.com/2021/12/tu-bari-dukhi-hai-fatima-mir-sajjad-mir.html
-# raw_sha256: b93f5889aaa19421af6279d19c230727b1677dd88bbaf322a4182a0917c31e63
 ---
 
 Tu Bari Dukhi Hai Fatima Mir Sajjad Mir Mir Hasan Mir

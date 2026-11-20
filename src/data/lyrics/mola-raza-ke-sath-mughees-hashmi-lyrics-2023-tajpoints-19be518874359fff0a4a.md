@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:19be518874359fff0a4a
-# source_url: https://tajpoints.com/2023/06/mola-raza-ke-sath-mughees-hashmi-lyrics.html
-# raw_sha256: 9cb2d03ebfc3cad691efb3135c3fbbbbe34d576e7d070728ac3e9c21e68ede3d
 ---
 
 Mola Raza Ke Sath Mughees Hashmi

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:245b8d2e698bfb042b29
-# source_url: https://tajpoints.com/2022/12/bahaya-kis-ne-nabi-ka-tu-pehlay-khon.html
-# raw_sha256: 84167391584b3a9dba807abd6ca1654d8f8a8d37f06e1e8cbaac22a0006a97e2
 ---
 
 1

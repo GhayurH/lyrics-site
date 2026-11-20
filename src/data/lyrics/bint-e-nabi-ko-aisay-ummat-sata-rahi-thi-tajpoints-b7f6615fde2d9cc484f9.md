@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7f6615fde2d9cc484f9
-# source_url: https://tajpoints.com/2021/01/bint-e-nabi-ko-aisay-ummat-sata-rahi.html
-# raw_sha256: 7958c9c72ae2dcab9bcf02a31a3e662fd71e137f23f40657f6a395e72f880304
 ---
 
 1

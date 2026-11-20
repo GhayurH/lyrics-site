@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:73aed201aa609652710c
-# source_url: https://tajpoints.com/2025/01/thehri-hui-hai-hasnain-mehdi-lyrics-urdu.html
-# raw_sha256: fa6921e3b696e0d103aecf081040c6306c16c5d3463be5777f07c95309455c11
 ---
 
 1

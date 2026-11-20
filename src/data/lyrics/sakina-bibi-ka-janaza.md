@@ -86,12 +86,6 @@ romanLyrics: |-
   Raza o Zishan maaṅ pukaari
   Ye Shaam waali ka hai janaaza
   Uthao Zainab uthao Fizza
-# source_id: nohayonline:f66c4c4a8f7c43e19466
-# source_url: https://www.nohayonline.com/details_content.php?id=2662
-# raw_sha256: d5c5e693382f0d005dbfe31c36a133544bc32a0ba6917ed8104583e5b474854e
-# source_id: tajpoints:190da8c6a44cc89ec127
-# source_url: https://tajpoints.com/2022/08/sakina-bibi-ka-janaza-syed-raza-abbas.html
-# raw_sha256: a69743c0fc2b036395cb3ce09b61acd57fdb84ed13512227d66ccd57148acbdf
 ---
 
 وہ شام کا زندان وہ غربت وہ اندھیرا

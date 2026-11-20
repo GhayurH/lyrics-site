@@ -111,12 +111,6 @@ romanLyrics: 'Umme Laila ne kaha tashna dahan kuch to kaho
   Poori tanzeem e Hussaini hui masroof e buka
 
   Shah ke laal ka zakhmi hay bada kuch to kaho'
-# source_id: nohayonline:425fb7a8b73bbe8a8797
-# source_url: https://www.nohayonline.com/details_content.php?id=116
-# raw_sha256: 7ab025541a5d382b6761120e5248a0d045b010b30496bd325b72e1bc97d8f18a
-# source_id: ziyaraat:ac2b4927e96185011c28
-# source_url: https://www.ziyaraat.net/api/noha/1769
-# raw_sha256: bc5c91ef8b06f08bd0a8edccdca68651775c1f28fcf6d8e4e5292f0fc2ef68d2
 ---
 
 اُمِ لیلیٰ نے کہا تشنہ دہن کچھ تو کہو

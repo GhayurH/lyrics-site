@@ -8,9 +8,6 @@ poet: "Shehbaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fb17d616f8f594226f88
-# source_url: https://tajpoints.com/2022/08/taboot-e-mola-sajjad-shehbaz-haideri.html
-# raw_sha256: ed8402408171c82b8e6bd31b5da658204e05d5a8d3625147dd0744536e2930bd
 ---
 
 1

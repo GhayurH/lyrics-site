@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c3dd2e309d424c9da45b
-# source_url: https://tajpoints.com/2023/02/nehj-ul-balagha-joan-rizvi-lyrics-in.html
-# raw_sha256: 8faa5233eeb115d641a28726a709253667ed86b25d4d95423a598e051010f274
 ---
 
 Nehj Ul Balagha Joan Rizvi Write Up

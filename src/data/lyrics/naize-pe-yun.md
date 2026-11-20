@@ -70,9 +70,6 @@ romanLyrics: |-
   Mazlum ka pursa dete hue
   Dilshad ne sunne waaloṅ ko
   Maatam ke liye tayyaar kiya
-# source_id: nohayonline:96ef7b498aa5f3d447f3
-# source_url: https://www.nohayonline.com/details_content.php?id=3735
-# raw_sha256: 1c6bed1362d6ecc9a1bcb3e40cd505e79372e72c10bd4a1af616f3973dadff79
 ---
 شبیر نے حق سے الفت کا
 نیزے پہ یوں اظہار کیا

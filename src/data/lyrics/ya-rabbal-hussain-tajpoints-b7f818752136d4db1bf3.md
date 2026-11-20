@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7f818752136d4db1bf3
-# source_url: https://tajpoints.com/2018/09/ya-rabbal-hussain.html
-# raw_sha256: 42defe981fa866381203f3e7e87911e1fd5aa58794d5cfa8e37f0a50a3dab06b
 ---
 
 1

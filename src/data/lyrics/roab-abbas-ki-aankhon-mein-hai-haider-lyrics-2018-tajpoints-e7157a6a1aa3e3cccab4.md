@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e7157a6a1aa3e3cccab4
-# source_url: https://tajpoints.com/2018/04/roab-abbas-ki-aankhon-mein-hai-haider.html
-# raw_sha256: cefff111740b12bc2519dbc6f8b3ebdc620ed13ecc104a606eff95dea88b9e03
 ---
 
 1

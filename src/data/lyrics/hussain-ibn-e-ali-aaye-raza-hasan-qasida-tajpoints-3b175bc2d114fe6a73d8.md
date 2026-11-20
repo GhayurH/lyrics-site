@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3b175bc2d114fe6a73d8
-# source_url: https://tajpoints.com/2022/02/hussain-ibn-e-ali-aaye-raza-hasan.html
-# raw_sha256: b933c0a603e5f7919f2272fc6f756c0368607b327ddad2fce93ca1685ee09319
 ---
 
 1

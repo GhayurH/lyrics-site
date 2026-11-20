@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d873fb5dfe55d2c49c19
-# source_url: https://tajpoints.com/2019/01/mat-kaho-mujh-ko-beton-ki-maa.html
-# raw_sha256: 5aac83fa5088a39483c3bd764de3aaf61951d5a46b6b080f440bab20f1cc6303
 ---
 
 1

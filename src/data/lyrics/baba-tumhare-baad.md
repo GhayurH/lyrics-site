@@ -38,12 +38,6 @@ romanLyrics: |-
   Ummat ki har naqab ko rukh se hata ke aaj
   Darbar meiṅ lain ke khutba suna ke aaj
   Haq ko bacha rahi huṅ maiṅ, baba tumhare baad
-# source_id: nohayonline:43e1e325d75ec4cb9daa
-# source_url: https://www.nohayonline.com/details_content.php?id=792
-# raw_sha256: 8979daa6ea0fd428cab19303b7086a89e6e4688a2704fcb15f6ae071a9bd27d4
-# source_id: ziyaraat:8e68bf027fa02c9db954
-# source_url: https://www.ziyaraat.net/api/noha/1983
-# raw_sha256: 5774e2bf3ea6fc421bcd5c71736a2e6f8ff1944412e225c1c9ea0607d08f18b7
 ---
 
 صدمے اٹھا رہی ہوں میں بابا تمہارے بعد

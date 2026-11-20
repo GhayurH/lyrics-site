@@ -42,9 +42,6 @@ romanLyrics: |-
   8
   Phailaye haat laashaye zehra ne ae nagin
   Hasnain aaye kehte jo madar jawab do
-# source_id: ziyaraat:b67161d0857724013954
-# source_url: https://www.ziyaraat.net/api/noha/1987
-# raw_sha256: 5d69e22b6910e7acdc2d1d76b31da5d8d52f3c567f0274ad47024ebe8f1c7ecb
 ---
 
 زینبؑ پُکاری لاش پر رو کر جواب دو

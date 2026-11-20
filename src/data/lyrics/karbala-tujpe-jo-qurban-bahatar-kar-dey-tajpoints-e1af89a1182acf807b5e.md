@@ -8,9 +8,6 @@ poet: "Adil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e1af89a1182acf807b5e
-# source_url: https://tajpoints.com/2019/08/karbala-tujpe-jo-qurban-bahatar-kar-dey.html
-# raw_sha256: a613845710ba2c25d2fd6a5751c0082d29ef2b6a107db2c12f5195b2eb1bd5cc
 ---
 
 Karbala Tujpe Jo Qurban Bahatar Kar Dey.

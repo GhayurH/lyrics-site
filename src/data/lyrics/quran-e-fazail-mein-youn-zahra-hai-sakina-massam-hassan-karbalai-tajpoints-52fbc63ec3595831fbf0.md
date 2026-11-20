@@ -8,9 +8,6 @@ poet: "Faizan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:52fbc63ec3595831fbf0
-# source_url: https://tajpoints.com/2022/07/quran-e-fazail-mein-youn-zahra-hai.html
-# raw_sha256: dab10e6d04eed8b2b38d386401debd5f9a427068a118d89bb66f997483ae742c
 ---
 
 Quran-e-Fazail Mein Youn Zahra Hai Sakina Massam Hassan Karbalai.

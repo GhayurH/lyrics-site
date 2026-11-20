@@ -69,9 +69,6 @@ romanLyrics: |-
   Ho laanat-e-Ghaffaar
   Baaqi nahiṅ Masrur asar khalq o wafa ka
   Dunya ki hawa meiṅ
-# source_id: nohayonline:182e3ad7811af320594d
-# source_url: https://www.nohayonline.com/details_content.php?id=2023
-# raw_sha256: 96ac38bfe644eda17d736ed08c09fb04143d0343027019e2826289c91d0a2c66
 ---
 
 سلطان زمن آ گئے وا حسرت و دردا

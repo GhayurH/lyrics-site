@@ -73,12 +73,6 @@ romanLyrics: 'Ay muslim e ghareeb
   Saath zainab ke yahan phir mujhko aana hai abhi
 
   Shaam tak le jayega kufe se gham ka silsila'
-# source_id: nohayonline:38b85c42c7998c539195
-# source_url: https://www.nohayonline.com/details_content.php?id=1344
-# raw_sha256: 48ea8a9e116dda0a7fc631d4b3e598d9323bea6066313a3f98d28a642fbaf831
-# source_id: ziyaraat:1d2a3b337b5e9996e8cf
-# source_url: https://www.ziyaraat.net/api/noha/1700
-# raw_sha256: 5a726aac8fb577cae71a9ae785dc39a4039d4b63715c54085ec1f7cd1ce38d15
 ---
 
 اے مسلمِؑ غریب

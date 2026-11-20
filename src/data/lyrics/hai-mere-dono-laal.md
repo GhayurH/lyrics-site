@@ -65,14 +65,6 @@ romanLyrics: |-
   The naala-kunaaṅ waqt-e-maatam
   Sun kar ye sada mahshar tha ayaaṅ
   Haiṅ mere dono laal kahaaṅ
-# source_id: nohayonline:9a933db1080ccef861eb
-# source_url: https://www.nohayonline.com/details_content.php?id=220
-# raw_sha256: 10072faf4f1a03de55ee94080a44a4abdeb8aebc7abff56847ac1af7b6b3fe2e
-# source_id: nohawriteups:907bf46eeb16a377e437
-# source_url: https://www.nohawriteups.org/hai-mere-dono-laal/
-# original_html: snapshots/nohawriteups/original_html/907bf46eeb16a377e437.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/907bf46eeb16a377e437.json
-# api_content_sha256: 819b7bb73d3420458c29541ecb1f847b3a071ffbda50200ea4cc5c06a7333fd7
 ---
 
 ہوا کے دوش پہ گونجی جو اک نئی صدا

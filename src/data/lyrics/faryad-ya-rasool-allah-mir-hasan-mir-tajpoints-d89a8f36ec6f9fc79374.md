@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d89a8f36ec6f9fc79374
-# source_url: https://tajpoints.com/2022/01/faryad-ya-rasool-allah-mir-hasan-mir.html
-# raw_sha256: 24d0c086b5974a67b8fa08ba09ed668146c97eb1fb9abee0e55a2c4b75bbe65e
 ---
 
 Faryad Ya Rasool Allah Mir Hasan Mir

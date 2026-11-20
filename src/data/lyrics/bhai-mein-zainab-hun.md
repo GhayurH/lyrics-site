@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:e413421ad4f71a5102cb
-# source_url: https://www.ziyaraat.net/api/noha/1916
-# raw_sha256: d9b8b4c864422c18fc7cb742a6d7cb52aeafba46fb2072777968e94aebaee278
 ---
 
 Bhai me Zainab hoon

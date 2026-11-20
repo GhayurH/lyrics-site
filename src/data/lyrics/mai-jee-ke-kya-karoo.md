@@ -51,9 +51,6 @@ romanLyrics: |-
   Shak hoke le le mujhko bhi apni panaah meiṅ
   Ae dashte zulm o jaur mai ab ji ke kya karoo
   Ji ke kya karoo
-# source_id: nohayonline:e5d8299ea36349661d22
-# source_url: https://www.nohayonline.com/details_content.php?id=520
-# raw_sha256: de28d9e9330e3ae7c7fd116b314e129c477b5a37825c74ee854e4b837f1d55bf
 ---
 
 ۱

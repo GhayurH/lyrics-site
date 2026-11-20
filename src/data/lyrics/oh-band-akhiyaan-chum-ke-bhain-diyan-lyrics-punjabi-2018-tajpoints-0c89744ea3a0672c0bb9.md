@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0c89744ea3a0672c0bb9
-# source_url: https://tajpoints.com/2018/09/oh-band-akhiyaan-chum-ke-bhain-diyan.html
-# raw_sha256: cad953652db9244fbc8ef6fbcd867fd38ccb4649aa8043b35a91bd1007785c08
 ---
 
 Oh Band Akhiyaan Chum Ke Bhain Diyan Akhay Kafan Pawa Nai Sakiya Iss Qaidi Veer Nu Maaf Karien.

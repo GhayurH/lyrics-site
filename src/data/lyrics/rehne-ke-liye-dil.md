@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Baatil ki fizaaoṅ meiṅ Wasi haq ke fidaai
   Hur ban ke badalte haiṅ taqdir ki surat
-# source_id: nohayonline:135c1e8d360b6baa78fd
-# source_url: https://www.nohayonline.com/details_content.php?id=487
-# raw_sha256: 26b46ead24f92c5579e5dfcc6dfb1b2b7dc85e2bc9021c9cf778514ab3843de9
 ---
 رہنے کے لئے دل میں ہے شبیر کی صورت
 آئینہ بدلتا نہیں تصویر کی صورت

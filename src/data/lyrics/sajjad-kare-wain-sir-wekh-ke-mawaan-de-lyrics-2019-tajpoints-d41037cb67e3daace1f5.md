@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d41037cb67e3daace1f5
-# source_url: https://tajpoints.com/2023/06/sajjad-kare-wain-sir-wekh-ke-mawaan-de.html
-# raw_sha256: ede341786cd7602d3cebba863cef097cec995ffb4dbd40ac5e3e19babe3bfde1
 ---
 
 Sajjad Kare Wain Sir Wekh Ke Mawaan De.

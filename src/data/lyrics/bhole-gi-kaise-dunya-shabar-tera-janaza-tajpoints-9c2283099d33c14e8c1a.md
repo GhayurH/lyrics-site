@@ -8,9 +8,6 @@ poet: "Laeeq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9c2283099d33c14e8c1a
-# source_url: https://tajpoints.com/2019/10/bhole-gi-kaise-dunya-shabar-tera-janaza.html
-# raw_sha256: c47a40b21b9374b17eb3e82fa8f43b17304ca98483912af6d7254bbc007fa6e7
 ---
 
 1

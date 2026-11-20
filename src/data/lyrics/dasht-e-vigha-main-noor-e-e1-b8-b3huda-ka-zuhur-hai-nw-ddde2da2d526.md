@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ddde2da2d526471baf91
-# source_url: https://www.nohawriteups.org/dasht-e-vigha-main-noor-e-%e1%b8%b3huda-ka-zuhur-hai/
-# original_html: snapshots/nohawriteups/original_html/ddde2da2d526471baf91.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ddde2da2d526471baf91.json
-# api_content_sha256: b78e2d77c1e317925a2da2951dc8f28bf7262b38b2ed66c638cfb1d2d4d1d42f
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 dasht-e-viġha meñ nūr-e-ḳhudā kā zuhūr hai

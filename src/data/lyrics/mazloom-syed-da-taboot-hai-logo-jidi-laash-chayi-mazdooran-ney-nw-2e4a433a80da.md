@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:2e4a433a80dae6298c30
-# source_url: https://www.nohawriteups.org/mazloom-syed-da-taboot-hai-logo-jidi-laash-chayi-mazdooran-ney/
-# original_html: snapshots/nohawriteups/original_html/2e4a433a80dae6298c30.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2e4a433a80dae6298c30.json
-# api_content_sha256: 140b18b3777d00e05a90411460a496552ed6b43abb1becb8ecc778e5a00bd2e9
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mazloom Syed Da Taboot Hai Logo Jidi Laash Chayi Mazdooran Ney

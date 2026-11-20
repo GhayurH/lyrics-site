@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f57f1ba3764328a4e94c
-# source_url: https://tajpoints.com/2019/08/zainab-yeh-pukari-aa-meri-madad-kar.html
-# raw_sha256: 9971033fe79a27070a3c6d88b9cb5769d7b32154f1f5675731d42eb02bcde222
 ---
 
 Zainab Yeh Pukari Aa Meri Madad Kar Abbas Alamdar Wafadar Dilawar.

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f3cc76f79f87f0ee06dc
-# source_url: https://tajpoints.com/2023/01/munjho-maula-hussain-munjho-aaqa.html
-# raw_sha256: 3872b7a0b472c36c717e57e7b5cb5bea4cb61d970ef4b62e7ce6e0fe26402455
 ---
 
 Munjho Maula Hussain Munjho Aaqa Hussain Nadeem Sarwar.

@@ -8,9 +8,6 @@ poet: "Debal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b52c35209b58d98d3a8f
-# source_url: https://tajpoints.com/2023/06/muslim-ki-gaud-se-do-bachay-bichar-gaye.html
-# raw_sha256: a05a782d14097a298d47b6315363b26df04a7b4380958fc19aeb6a3185dd1228
 ---
 
 1

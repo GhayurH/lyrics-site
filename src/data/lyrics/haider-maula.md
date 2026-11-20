@@ -181,9 +181,6 @@ romanLyrics: |-
   Paaoṅ bakhshe haiṅ to taufiq-e-safar bhi de de
   Jis pe chalte rahe Salman o Abuzar Qambar
   Mere Maula mujhe wo raah guzar bhi de de
-# source_id: nohayonline:7f75c8a0c90b4e83c235
-# source_url: https://www.nohayonline.com/details_content.php?id=394
-# raw_sha256: 5e3320322a04e30a8636ba2d86db71805529b5d2631ce9095a8af2bcf68f1ee8
 ---
 حیدر مولا حیدر مولا
 علی مولا حیدر مولا

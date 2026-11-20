@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:32d4fd77dad66b57bd6c
-# source_url: https://tajpoints.com/2019/04/khoon-mein-batlao-keh-doba-yeh-lasha.html
-# raw_sha256: 7e49b3aab43af5afc4300f28f3303d10bb766811f76610bb081ba76a7d4a539d
 ---
 
 Khoon Mein Batlao Keh Doba Yeh Lasha Kis Ka Hai.

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0e7933e7bdf9a7c6eb52
-# source_url: https://tajpoints.com/2021/06/lash-e-abbas-pe-sheh-jo-aaye-haye-haye.html
-# raw_sha256: 0c73dc19f5fd35f8f5c2b2eb682342578f1cb80437321425ace9b732648d9f8e
 ---
 
 Lash-e-Abbas Pe Sheh Jo Aaye Haye Haye Mir Hasan Mir.

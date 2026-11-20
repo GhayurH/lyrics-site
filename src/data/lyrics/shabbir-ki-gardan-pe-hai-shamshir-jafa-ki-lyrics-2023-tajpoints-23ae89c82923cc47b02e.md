@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:23ae89c82923cc47b02e
-# source_url: https://tajpoints.com/2023/05/shabbir-ki-gardan-pe-hai-shamshir-jafa.html
-# raw_sha256: 8758bbb0803ab35149aec1894c61214af71ac7e586b3ca50a2e4f3b6f06ac23e
 ---
 
 1

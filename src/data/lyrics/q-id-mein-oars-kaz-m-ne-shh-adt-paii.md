@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:8c6785bc7eb9228699ba
-# source_url: https://www.ziyaraat.net/api/noha/2860
-# raw_sha256: 02df5f3133280e52dcd38db8b0b0432aad0427525cf168483327a872904ef032
 ---
 
 قـــید میں وارث کاظـــــــمؑ نے شہــــــادت پائی

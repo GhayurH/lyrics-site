@@ -8,10 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# editorial_note: "Alternate sixth-verse reading has Pyasay Marey instead of Sath Maray; preserve for final review."
-# source_id: ziyaraat:a27cb770ea5176406ba2
-# source_url: https://www.ziyaraat.net/api/noha/385
-# raw_sha256: 8f30934e0e5446091586c5617c00a916b27b090919b2632aca8e509a3aa5673e
 ---
 
 Nana wich pardes day lutaya mera ghar lokan nay

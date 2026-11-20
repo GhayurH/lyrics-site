@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fd880e773bd1c5d12545
-# source_url: https://tajpoints.com/2021/02/khenchtey-hain-lyrics-in-urdu-and-roman.html
-# raw_sha256: f3dcc6d48440f446fcbdfcea54cbea540068ed58eaf9cb34bb085cf21f205769
 ---
 
 1

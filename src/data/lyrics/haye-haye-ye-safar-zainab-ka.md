@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:191fce87bf76edfb177f
-# source_url: https://www.ziyaraat.net/api/noha/1621
-# raw_sha256: f52c6e8f471deba6971495c446dd546073644935ca81e81b1ccec8a77ff65c63
 ---
 
 Haey Haey Ye Safar Zainab Ka

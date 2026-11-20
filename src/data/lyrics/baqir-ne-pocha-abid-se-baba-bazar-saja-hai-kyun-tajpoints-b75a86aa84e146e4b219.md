@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b75a86aa84e146e4b219
-# source_url: https://tajpoints.com/2019/08/baqir-ne-pocha-abid-se-baba-bazar-saja.html
-# raw_sha256: b5d8b1527101824d0f20f85c36be6e14d3fd8c716ca9c2c453c703dd3daeb7a0
 ---
 
 1

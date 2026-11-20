@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:81f513325570984b6068
-# source_url: https://tajpoints.com/2018/01/fabi-ayyi-ala-i-rabbikuma-tukazziban.html
-# raw_sha256: 19390a86f66e7bf4ba5e003484123f7b3221aa3397e86a31095e8b0b7ec8a889
 ---
 
 Fabi-Ayyi Ala-I Rabbikuma Tukazziban.

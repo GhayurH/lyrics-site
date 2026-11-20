@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:3fb0cf062aef72fa419b
-# source_url: https://www.ziyaraat.net/api/noha/2538
-# raw_sha256: f9afb2555c29ffca63bb09f7bdfe3ec4eff74e14e125725bc8fc91514ba29add
 ---
 
 یاد آئی نہ تمہیں فاطمہ صغرا بابا

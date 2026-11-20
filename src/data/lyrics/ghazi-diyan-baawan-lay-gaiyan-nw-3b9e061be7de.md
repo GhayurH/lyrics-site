@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3b9e061be7de1a1db9af
-# source_url: https://www.nohawriteups.org/ghazi-diyan-baawan-lay-gaiyan/
-# original_html: snapshots/nohawriteups/original_html/3b9e061be7de1a1db9af.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3b9e061be7de1a1db9af.json
-# api_content_sha256: 66aa724d8fe0c12f395146411a30041b73c73a35fe1c240b5ef0dbb522622599
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ghazi Diyan Baawan Lay Gaiyan, Zainab Da Muk Hy Maan Geya

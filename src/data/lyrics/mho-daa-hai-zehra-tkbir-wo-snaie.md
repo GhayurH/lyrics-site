@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:d7efe56ba1017b3807b8
-# source_url: https://www.ziyaraat.net/api/noha/1763
-# raw_sha256: 5f944c5456b0bc3353278386e886aed5c72e318ff73dc9daf4f0251ae71ae8c1
 ---
 
 Mehwe Dua hai Zahra, Takbeer woh sunaaye, mera Mahdi jald aaye

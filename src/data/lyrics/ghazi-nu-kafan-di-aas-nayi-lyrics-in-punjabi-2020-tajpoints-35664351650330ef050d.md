@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:35664351650330ef050d
-# source_url: https://tajpoints.com/2023/06/ghazi-nu-kafan-di-aas-nayi-lyrics-in.html
-# raw_sha256: 0e954d3c7d84f575f6d1555f07ed969f16113152e0f14e7d58e53dfe92615bbd
 ---
 
 1

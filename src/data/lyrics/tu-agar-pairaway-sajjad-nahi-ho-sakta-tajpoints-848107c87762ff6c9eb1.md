@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:848107c87762ff6c9eb1
-# source_url: https://tajpoints.com/2018/02/tu-agar-pairaway-sajjad-nahi-ho-sakta.html
-# raw_sha256: ca9245b61ef6a0fcefd9392cfc2759fa37f9f0548a905458ea74c842be370e06
 ---
 
 1

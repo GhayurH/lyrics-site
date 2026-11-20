@@ -63,9 +63,6 @@ romanLyrics: |-
   Baap se lipti hui kehti thi Zainab baar baar
   Baab-e-Saaat par karuṅ gi aap ka maiṅ intezaar
   Shaam ki fatah ka manzar dekhna aa kar Ali
-# source_id: nohayonline:caed95ac9dc00e833993
-# source_url: https://www.nohayonline.com/details_content.php?id=2901
-# raw_sha256: 0e4f5953ca9a5d9da254b81aa5c3418f80eafe22f8a0e944e2c6f5b493dfa6d4
 ---
 الوداع مولا علی الوداع مولا علی
 جا رہا ہے آج دنیا سے محمد کا وصی

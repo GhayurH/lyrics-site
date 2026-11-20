@@ -8,9 +8,6 @@ poet: "Hussaini"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:de28736195e09e40e277
-# source_url: https://tajpoints.com/2025/03/ghazi-parda-tere-hawale-haider-rizvi.html
-# raw_sha256: c62b1410fcb4b77f79012a6f97fc29e712d28331648f2003a94e960a63e571ec
 ---
 
 1

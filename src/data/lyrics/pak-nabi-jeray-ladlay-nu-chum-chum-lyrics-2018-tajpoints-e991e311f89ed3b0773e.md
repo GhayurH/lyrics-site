@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e991e311f89ed3b0773e
-# source_url: https://tajpoints.com/2019/10/pak-nabi-jeray-ladlay-nu-chum-chum.html
-# raw_sha256: f23ff4806533b172b0cbda59850135fa4a53ce85e7b2397232d4d2a6cfd37fc0
 ---
 
 1

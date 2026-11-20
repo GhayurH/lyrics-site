@@ -52,12 +52,6 @@ romanLyrics: 'Shah kehtay thay na tum ashk bahana Zainab
   Rah-e-Koofa may kaha Fizza ne ro ro ke Suhail
 
   Kaisa aaya hay yeh ghurbat ka zamana Zainab'
-# source_id: ziyaraat:04a0ac9563e718e0c820
-# source_url: https://www.ziyaraat.net/api/noha/2265
-# raw_sha256: 602ebb074252d6ad9a704e0a3b153ceecd805f4957cc37add11c26996eac90c7
-# source_id: ziyaraat:490a843cfce8b8eb5797
-# source_url: https://www.ziyaraat.net/api/noha/2309
-# raw_sha256: 5941f0ded2493eb2d7753dfa85e897618169e30b8bbb35d84af6d9f3dc236615
 ---
 
 شاہ کہتے تھے نہ تم اشک بہانہ زینبؑ

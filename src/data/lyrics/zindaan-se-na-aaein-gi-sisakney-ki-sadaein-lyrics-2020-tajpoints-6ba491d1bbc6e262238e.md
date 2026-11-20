@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ba491d1bbc6e262238e
-# source_url: https://tajpoints.com/2020/11/zindaan-se-na-aaein-gi-sisakney-ki.html
-# raw_sha256: ed69fc5b60b669b7bc603db899271e3077b80dbbb8a515f9ef6fa9b6d082c49f
 ---
 
 Zindaan Se Na Aaein Gi Sisakney Ki Sadaein

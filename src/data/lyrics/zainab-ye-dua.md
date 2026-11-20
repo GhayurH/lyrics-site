@@ -48,9 +48,6 @@ romanLyrics: |-
   Taarikh meiṅ tujh jaisa nahiṅ aur koi Bibi
   Aashiq nahiṅ likh paate kahaani ye teri Bibi
   Betaab Murtaza ne kaha ashk baha kar
-# source_id: nohayonline:d18d97a6e788d8f7ec10
-# source_url: https://www.nohayonline.com/details_content.php?id=1000
-# raw_sha256: 91798922443c70a1a08e7ade8e7cd6c4676f720b34bd8a76c353043d96c118fb
 ---
 زینب یہ دعا مانگی ہاتھوں کو اٹھا کر
 یا رب میرے عباس کو تو صبر عطا کر

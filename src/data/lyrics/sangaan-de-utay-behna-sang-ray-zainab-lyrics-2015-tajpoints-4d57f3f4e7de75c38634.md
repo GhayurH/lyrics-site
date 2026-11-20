@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4d57f3f4e7de75c38634
-# source_url: https://tajpoints.com/2017/02/sangaan-de-utay-behna-sang-ray-zainabsa.html
-# raw_sha256: 9fee27c0badd6ef1fe10b3dc14d740c02278566dbc351da1e4d4dd18a6c73e4c
 ---
 
 1

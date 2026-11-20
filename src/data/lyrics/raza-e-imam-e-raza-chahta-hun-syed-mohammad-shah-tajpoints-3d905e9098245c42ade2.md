@@ -8,9 +8,6 @@ poet: "Debal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3d905e9098245c42ade2
-# source_url: https://tajpoints.com/2025/05/raza-e-imam-e-raza-chahta-hun-syed.html
-# raw_sha256: fdbbbd503a4f7e69252fe653bbef6688ceae890e36c51c2b0e1df2072324296f
 ---
 
 1

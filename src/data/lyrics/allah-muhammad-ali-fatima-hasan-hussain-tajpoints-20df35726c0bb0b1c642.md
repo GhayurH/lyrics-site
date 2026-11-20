@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:20df35726c0bb0b1c642
-# source_url: https://tajpoints.com/2018/07/allah-muhammad-ali-fatima-hasan-hussain.html
-# raw_sha256: 1819b1d867f372aaf0f7288788b8f0b1be1cfac3081781bced65fa46f35e950b
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:5f9a5d09154cdc9f8458
-# source_url: https://www.ziyaraat.net/api/noha/2753
-# raw_sha256: bd495849550aada390491b618461fc13c0fcf35319156a8574aef5f533b538fb
 romanLyrics: |-
   Aaghaaz ho chuka hai Karbal ki kahaani ka
   Logo ye nawaasa hai Islaam ke baani ka

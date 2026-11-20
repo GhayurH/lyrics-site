@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:765df8ff93ee67d59a83
-# source_url: https://tajpoint.com/walan-wich-munh-luka-ke-ghazi-nu-de-sadawan-lyrics/
-# raw_sha256: 5600a752456f4efeaf02aae04a64beefdf57bd5207ce252ab0e39875a0485f0b
 ---
 
 Walan Wich Munh Luka Ke Ghazi Nu De Sadawan.

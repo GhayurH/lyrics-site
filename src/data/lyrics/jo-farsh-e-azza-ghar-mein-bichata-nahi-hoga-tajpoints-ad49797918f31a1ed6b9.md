@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ad49797918f31a1ed6b9
-# source_url: https://tajpoints.com/2019/08/jo-farsh-e-azza-ghar-mein-bichata-nahi.html
-# raw_sha256: 9eb9dfc83b4799bcb077880b82e0c2dad41acbd7628b06e6e8420226c8ca2d65
 ---
 
 1

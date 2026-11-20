@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:325db21d4283cde2f31d
-# source_url: https://www.ziyaraat.net/api/noha/615
-# raw_sha256: 3eebbfe8a1be2837c56903c846587b67273535bd94924ecdf38014cbec8e33fe
 ---
 
 Aaoozoo billahi minash shaitanir rajim

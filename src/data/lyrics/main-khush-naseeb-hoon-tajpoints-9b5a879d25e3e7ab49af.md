@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9b5a879d25e3e7ab49af
-# source_url: https://tajpoints.com/2020/12/main-khush-naseeb-hoon-lyrics-in-urdu.html
-# raw_sha256: d45fa6312fd3c7efac7f9dafd5d6ebd389b6c4ae4c2d25b8bb815bf284e08f77
 ---
 
 Main Shaheed-e-Rah-e-Khuda Hoon.

@@ -8,9 +8,6 @@ reciter: "Farhan Ali"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:5b93951f56881bbc8a5c
-# source_url: https://www.ziyaraat.net/api/noha/2261
-# raw_sha256: 5b124f2b093ed8455ab9aaf6353397f53cdced3810029f554efa16765b660ad1
 ---
 
 Aagaye Saadat.....

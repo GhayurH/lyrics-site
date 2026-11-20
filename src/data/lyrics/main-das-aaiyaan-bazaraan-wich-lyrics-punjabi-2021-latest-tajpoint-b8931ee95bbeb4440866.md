@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:b8931ee95bbeb4440866
-# source_url: https://tajpoint.com/main-das-aaiyaan-bazaraan-wich-lyrics-punjabi-2021/
-# raw_sha256: 180dafba93ea99cf6373f162dc5af220f5e941e0d66f8059f9a63fc5cd251bbe
 ---
 
 1

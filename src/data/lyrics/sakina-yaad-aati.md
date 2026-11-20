@@ -70,9 +70,6 @@ romanLyrics: |-
   Musalsal qabre zainab se yehi awaaz aati hai
   Sakina yaad aati hai
   Hawaeiṅ shaam aati hai...
-# source_id: nohayonline:1d4cb63da0d5c9bec5b7
-# source_url: https://www.nohayonline.com/details_content.php?id=919
-# raw_sha256: 69dfb23340d0cc36c045f2defc61061f9821ff69239468ea097d9de04c1bf75f
 ---
 
 ۱

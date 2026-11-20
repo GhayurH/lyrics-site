@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9e88d27ddfaa720dde98
-# source_url: https://www.nohawriteups.org/jab-qata-ki-masafat-e-shab-aaftaab-ne/
-# original_html: snapshots/nohawriteups/original_html/9e88d27ddfaa720dde98.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9e88d27ddfaa720dde98.json
-# api_content_sha256: d9569647d6ae745b17277a6474644254c9db776d9a9be460b6b38b07ce70cee6
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jab qata ki masafat e shab aaftaab ne

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9660d0292ec3c5f5eb60
-# source_url: https://www.nohawriteups.org/sir-nange-phupiyan-maawan-de-vaikhe-abid-ne/
-# original_html: snapshots/nohawriteups/original_html/9660d0292ec3c5f5eb60.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9660d0292ec3c5f5eb60.json
-# api_content_sha256: 61c01024b934771740a6866bf072e804487bf0d167687fc6c0b3c214b65524db
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sir Nange Pupiyan Mavan Day Vekhe Abid Nay

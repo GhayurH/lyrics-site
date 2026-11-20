@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:84b173098ffc78493fe9
-# source_url: https://www.ziyaraat.net/api/noha/2462
-# raw_sha256: 0329a0fc6b69dc1e2cd06c3518cd25385ce3528f00c3860705849d92ba4e7c53
 ---
 
 Aa Raha Hai Taboot E HUSAIN E Gareeb

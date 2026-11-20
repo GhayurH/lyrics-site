@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a780501c3cc78d9035a3
-# source_url: https://tajpoints.com/2022/03/bismillah-hussain-mir-hasan-mir-lyrics.html
-# raw_sha256: 83afa743d0de6a87cab1777ffb6964c447b4ecd00371f91f12800cd1b5a9ed85
 ---
 
 1

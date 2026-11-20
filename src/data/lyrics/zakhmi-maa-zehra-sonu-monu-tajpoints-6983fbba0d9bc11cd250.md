@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6983fbba0d9bc11cd250
-# source_url: https://tajpoints.com/2022/12/zakhmi-maa-zehra-sonu-monu-lyrics-in.html
-# raw_sha256: 4efb375ae9c6ca95d5baf5cc92b75f26233c334f2d3ef8b89ca3cad61ccd27ee
 ---
 
 1

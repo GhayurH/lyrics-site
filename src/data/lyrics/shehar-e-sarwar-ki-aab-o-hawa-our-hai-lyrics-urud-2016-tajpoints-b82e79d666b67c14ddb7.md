@@ -8,9 +8,6 @@ poet: "Nayab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b82e79d666b67c14ddb7
-# source_url: https://tajpoints.com/2017/02/shehar-e-sarwar-ki-aab-o-hawa-our-hai.html
-# raw_sha256: 97f899b5d32382c6327a5ac3244c98175a164f54d3dee3b77ca773b433f581fe
 ---
 
 1

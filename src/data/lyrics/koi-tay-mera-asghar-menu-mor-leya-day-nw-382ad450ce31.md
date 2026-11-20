@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:382ad450ce316e684ddf
-# source_url: https://www.nohawriteups.org/koi-tay-mera-asghar-menu-mor-leya-day/
-# original_html: snapshots/nohawriteups/original_html/382ad450ce316e684ddf.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/382ad450ce316e684ddf.json
-# api_content_sha256: 40c76ec3fd638da917712d9571edca7d3bebf2f9f3ea35c5a46b5eebc405b094
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Koi Tay Mera Asghar Menu Mor Leya Day

@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a527cee7d8eb1b1a0e2e
-# source_url: https://tajpoints.com/2026/06/asghar-teri-kahani-sm-taqi-rizvi-lyrics.html
-# raw_sha256: a9372a9a9601f599b375175a90189db7cab4291df9bff8bba27e94601f63d6a3
 ---
 
 Pur Dard Hai Bohat Hi Asghar Teri Kahani.

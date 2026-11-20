@@ -8,7 +8,6 @@ poet: "Rizvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# editorial_note: "Stanza 4 contains only five lines in the available source. Verify the missing sixth line."
 ---
 
 Dozakh Hai Kya Batana Hamara Hi Kam Hai

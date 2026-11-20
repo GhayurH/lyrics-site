@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6c59842fbe3e39ed82e3
-# source_url: https://tajpoints.com/2023/01/midhat-ali-naqi-ki-lyrics-in-urdu-and.html
-# raw_sha256: bbfb20f226b73bf9e36351f3c310bc883097e3bce70ac960f2210af3ff8cb819
 ---
 
 Midhat Ali Naqi Ki Muqadar Ki Baat Hai.

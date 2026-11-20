@@ -60,9 +60,6 @@ romanLyrics: |-
   Maidaan ko jaata tha Shabbir ka jab Zaigham
   Aati rahi khaimoṅ se bas ik sada paiham
   Abbas Khuda haafiz Abbas Khuda haafiz
-# source_id: nohayonline:4bc1e161a776048ae7ac
-# source_url: https://www.nohayonline.com/details_content.php?id=1974
-# raw_sha256: ef1fae2c69f444837da49bad0a2c68dccd4fde021e2a7b6ed73fd1ee50db40fd
 ---
 
 جاتے ہو سوے مقتل عباس خدا حافظ

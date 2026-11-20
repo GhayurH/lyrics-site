@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e147f9f1b3c3bcf15853
-# source_url: https://tajpoints.com/2022/07/arzoo-e-karbala-hasnain-abbas-lyrics-in.html
-# raw_sha256: ac4c99d8b3b3a356c8d0f011c26b2149903c2df3b3b6db4ea70e2c632b4c9c4e
 ---
 
 Tarapta Hai Yeh Dil Jab Karbala Ko Loag Jate Hain.

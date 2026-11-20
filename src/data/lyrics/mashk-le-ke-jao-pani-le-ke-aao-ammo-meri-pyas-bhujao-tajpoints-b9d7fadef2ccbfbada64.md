@@ -8,9 +8,6 @@ poet: "Faheem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b9d7fadef2ccbfbada64
-# source_url: https://tajpoints.com/2019/09/mashk-le-ke-jao-pani-le-ke-aao-ammo.html
-# raw_sha256: 7d89a2206e2a7496dada61e18a9c5a6e5af11538932b1404194bf356f9da017d
 ---
 
 1

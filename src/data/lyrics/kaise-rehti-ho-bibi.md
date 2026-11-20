@@ -83,9 +83,6 @@ romanLyrics: |-
   Jin layino ne ki thi jafa
   Un ki aulaad ke darmiyaṅ
   Kaise rehti ho...
-# source_id: nohayonline:8d89de90921ab23686f1
-# source_url: https://www.nohayonline.com/details_content.php?id=2661
-# raw_sha256: 0e9470797459cc93c96712acf4e1183722dba0f996f598ed5c3967a2f1adc0fa
 ---
 
 ۱

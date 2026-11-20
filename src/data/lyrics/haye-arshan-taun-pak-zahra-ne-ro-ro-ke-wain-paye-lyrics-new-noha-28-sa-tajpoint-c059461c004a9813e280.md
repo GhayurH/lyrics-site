@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:c059461c004a9813e280
-# source_url: https://tajpoint.com/haye-arshan-taun-pak-zahra-ne-ro-ro-ke-wain-paye/
-# raw_sha256: 1d90caf762f2a345bbc5641c5f4252ebfbcffcf59ceb3137142be5cd25c84037
 ---
 
 Haye Arshan Taun Pak Zahra Ne Ro Ro Ke Wain Paye.

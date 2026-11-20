@@ -9,9 +9,6 @@ reciter: "Ansar Party"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:3c6f61cfe2ddd23e0999
-# source_url: https://www.ziyaraat.net/api/noha/373
-# raw_sha256: 664ffcec3592d70a1628ba1c45fee86ce9764e2b4f202c91c14463a072138849
 ---
 
 Mujh ko maloom hai Abid pe qayamat guzri

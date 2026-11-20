@@ -8,9 +8,6 @@ poet: "o-Soz Khuwaan:SIBT-E-JAFAR: Hoon Main Mere Madah Mamdoh Hain Har Jagah"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eb7be77cea6f865ea093
-# source_url: https://tajpoints.com/2022/10/jab-na-maloom-ho-ajnabi-kon-hai-mir.html
-# raw_sha256: bc4793a4a1200647680fc10bc36b6b9ae8b138b937cbd9a356e12d7ad1a8c368
 ---
 
 1

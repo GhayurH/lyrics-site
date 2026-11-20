@@ -151,15 +151,6 @@ romanLyrics: 'Har durood aur har salaam
   Haaye jeete ji na chut saka
 
   Qaid qaanaye ameere shaam'
-# source_id: nohayonline:edf950f166edb36dcb0b
-# source_url: https://www.nohayonline.com/details_content.php?id=569
-# raw_sha256: b97b4190f03ce95dca967886b2abdebd34f7337afd3ccda5d11cc7f81bc012c9
-# source_id: nohawriteups:70065273948f3b4ea20d
-# source_url: https://www.nohawriteups.org/har-darood-aur-har-salam/
-# raw_sha256: 80d40db0dabac85d9c771c1bfc3c13fd060c3aca82aa79cf57b67cb8b5490bdb
-# source_id: ziyaraat:b7d5e299d33606ff5fda
-# source_url: https://www.ziyaraat.net/api/noha/1993
-# raw_sha256: 38fb9b328bcffc4ef939d91e53e5bfd934a4658ea601867f62f5853a251295b7
 ---
 
 ہر درود اور ہر سلام

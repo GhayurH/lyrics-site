@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e07521cb784f5974e96c
-# source_url: https://www.nohawriteups.org/hussain-wada-nibawan-farhan-ali-waris-noha-2025-saraiki-muharram-1447/
-# original_html: snapshots/nohawriteups/original_html/e07521cb784f5974e96c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e07521cb784f5974e96c.json
-# api_content_sha256: 843ac54c4028d640917cc837ba6be1ca79a6fc152cbb11568c9ba7ad604407ee
-# editorial_note: Unpublished source-faithful draft from approved valid Saraiki only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review; source language is nonstandard and requires editor review.
 ---
 
 |

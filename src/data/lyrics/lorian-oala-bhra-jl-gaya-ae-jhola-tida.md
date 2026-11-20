@@ -8,9 +8,6 @@ reciter: "Qurban Jafry"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:e91a9d202dfed2ed769f
-# source_url: https://www.ziyaraat.net/api/noha/867
-# raw_sha256: fc01c755dd0242917e1dbea7418d82085ce52281e11451549975b839d581b919
 ---
 
 Lorian wala bhira, jal gayai jhoola tenda

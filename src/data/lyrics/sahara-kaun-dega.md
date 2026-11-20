@@ -42,9 +42,6 @@ romanLyrics: |-
   6
   Ali ke baad ab ae Shams in murghaabiyoṅ ko
   Talab se pehle aa ke aab o daana kaun dega
-# source_id: nohayonline:8b8bea9ae281dbb47c3e
-# source_url: https://www.nohayonline.com/details_content.php?id=1191
-# raw_sha256: 3820ac43ab2f82660e9294f075e4a060b768641644807d20e3ecdeefca6d5698
 ---
 سرِ کوفہ یتیموں کی دعائیں گونجتی ہے
 بدل کر سسکیاں اب بھی آہیں گونجتی ہے

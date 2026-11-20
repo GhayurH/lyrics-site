@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:19a54bd7663f7ec97395
-# source_url: https://tajpoints.com/2023/03/imam-e-zamana-hamara-syed-wasif-abideen.html
-# raw_sha256: 652254fd147cd95bc0083fa312241a64990505567dcc65cb3a83f8afe070400c
 ---
 
 1

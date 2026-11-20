@@ -67,9 +67,6 @@ romanLyrics: |-
   Nauha-e-Rehaan meiṅ lehja-e-Farhan meiṅ
   Dard ke unwaan meiṅ ashkoṅ ke tufaan meiṅ
   Sunte haiṅ Ahl-e-aza naale ye Shabbir ke
-# source_id: nohayonline:572c8f70dd2b28f1f190
-# source_url: https://www.nohayonline.com/details_content.php?id=3412
-# raw_sha256: 33929981c2b8146595e1b7b8a2a22feb28b60a6247173e49fd9d6f8e60c43251
 ---
 تنہا ہمیں دشت میں کیسے بھلا چھوڑ گئے
 ہائے کمر توڑ گئے بھائی کمر توڑ گئے

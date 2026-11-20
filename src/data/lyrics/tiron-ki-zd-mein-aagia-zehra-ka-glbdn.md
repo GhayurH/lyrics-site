@@ -39,12 +39,6 @@ romanLyrics: 'Teeron ki zad mei aagaya Zahra ka gulbadn
   Ik tu hi tu hasan ka naukar nahi ameer
 
   Har marde bawafa ka sardar hai hasan'
-# source_id: nohayonline:0dddf0d0ca86659b9683
-# source_url: https://www.nohayonline.com/details_content.php?id=2966
-# raw_sha256: af7068674a6d83b25905e49d850147e009f88583d5c6724ebeabc49e22e5f263
-# source_id: ziyaraat:f3d3129ffe7e9c4aeae6
-# source_url: https://www.ziyaraat.net/api/noha/727
-# raw_sha256: 34a6a3c18792dd5a2509e469b511178eba71bafc5a25ef71d23a55630f175253
 ---
 
 تیروں کی ضد میں آ گیا زہرا کا گلبدن

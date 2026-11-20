@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8a6eb580722cd0e45fd2
-# source_url: https://tajpoints.com/2017/09/umm-e-laila-sanbhal-zainab-ko.html
-# raw_sha256: 31678987261bb69ae04319c80c8a9ff367db9e2e633747a3369cb89d10a1a56d
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Faqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3c7f1ced00cca11977fd
-# source_url: https://tajpoints.com/2017/02/makan-e-hasat-koi-la-makaan-sanwarta-hai.html
-# raw_sha256: bc86028df25df0ab65a5fc3a91402265d2f0d71f2846f02a7afc8331290ea158
 ---
 
 Makan-e-Hasat Koi La-Makaan Sanwarta Hai.

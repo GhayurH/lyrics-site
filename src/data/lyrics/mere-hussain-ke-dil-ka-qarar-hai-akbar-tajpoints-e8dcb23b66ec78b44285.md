@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e8dcb23b66ec78b44285
-# source_url: https://tajpoints.com/2019/04/mere-hussain-ke-dil-ka-qarar-hai-akbar.html
-# raw_sha256: a38bb247f0ceb20c1919d0e9bb0e26c5d0617d31289e3951ecd994ad1cfe5992
 ---
 
 Mere Hussain Ke Dil Ka Qarar Hai Akbar.

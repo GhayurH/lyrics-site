@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Aaṅsuoṅ se us ghari muṅh apna dho lena Qamar
   Jab musibat Karbala ki yaad aa jaaya kare
-# source_id: nohayonline:f64a710c84afb732ae09
-# source_url: https://www.nohayonline.com/details_content.php?id=1264
-# raw_sha256: addc0c2f5ee1126fad4f6869d1a2cb42ba5964f7b1555cdbada1fbca61ccf8f2
 ---
 کیا کرے بیمار صغرا دل جو گھبرایا کرے
 باپ ماں بھائی بہن کی یاد تڑپایا کرے

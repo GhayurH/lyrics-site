@@ -8,9 +8,6 @@ poet: "Taseer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da97be38deeb77aa4ad1
-# source_url: https://tajpoints.com/2025/01/yeh-wazifa-ho-zindagi-ke-liye-lyrics.html
-# raw_sha256: aeff00580df143e2bd7ee02797c26115ca14cb7a33400887bab9e314260b69d2
 ---
 
 1

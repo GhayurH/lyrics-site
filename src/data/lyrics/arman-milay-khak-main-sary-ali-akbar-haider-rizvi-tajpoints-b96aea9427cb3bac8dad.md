@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b96aea9427cb3bac8dad
-# source_url: https://tajpoints.com/2022/08/arman-milay-khak-main-sary-ali-akbar.html
-# raw_sha256: 744fd8e3d03855e644378726abe5ba7deec5443a7dce356d2d4a35ca83315947
 ---
 
 Arman Milay Khak Main Sary Ali Akbar Haider Rizvi.

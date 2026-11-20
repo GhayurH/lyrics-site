@@ -8,9 +8,6 @@ reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6871ea61c2aabc778cba
-# source_url: https://www.ziyaraat.net/api/noha/1374
-# raw_sha256: ccff7c21a147809fda474d5c3986f5829c6ed8d827feae663ae7f9e2af46d67e
 ---
 
 Ek wafadar ki ghairat ka ye lagta hy asar

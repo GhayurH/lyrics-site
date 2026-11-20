@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2fc397dd25cadc266a92
-# source_url: https://tajpoints.com/2018/04/allah-janre-sain-zainab-ne-kiwein-qaid.html
-# raw_sha256: 9aa983c0095abb72dbd2fb6e7652a7fa00d3909f4c945ef00dca30b8b01ce299
 ---
 
 Allah Janre Sain Zainab Ne Kiwein Qaid Nibhai.

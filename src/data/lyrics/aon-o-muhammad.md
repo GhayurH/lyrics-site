@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:f91517efc9c6ff9b89a7
-# source_url: https://www.ziyaraat.net/api/noha/271
-# raw_sha256: 48cbbd86123241a335a35bf824821b9bf0d74be17edad72f80803836445758b6
 ---
 
 Aun-o-muhammad, aun-o-muhammad mara jigar jaan mara awn-o-muhammad

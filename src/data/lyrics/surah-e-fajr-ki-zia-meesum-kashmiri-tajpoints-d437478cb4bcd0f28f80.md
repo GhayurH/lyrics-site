@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d437478cb4bcd0f28f80
-# source_url: https://tajpoints.com/2022/03/surah-e-fajr-ki-zia-meesum-kashmiri.html
-# raw_sha256: 54c65877520daa8fdab114588e969578fec97698494750b8cfe6e4810acb59af
 ---
 
 1

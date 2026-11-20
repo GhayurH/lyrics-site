@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:858a78103ea095f074ec
-# source_url: https://www.nohawriteups.org/haye-aun-di-amri-vain-kitta/
-# original_html: snapshots/nohawriteups/original_html/858a78103ea095f074ec.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/858a78103ea095f074ec.json
-# api_content_sha256: 3f2a5b1392a28c2bf74f0c85cf7c705b3242e328d8cf24dc976899bcc03a8f36
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye Aun Di Amri Vain Kitta, Paye Wasday Pathar Hazaaran, Zara Rok Sajjad Muharaan

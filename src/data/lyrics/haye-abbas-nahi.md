@@ -54,9 +54,6 @@ romanLyrics: |-
   Ae Mohib rok qalam shor hai maatam ka bapa
   Noha Yazdan se ye sun kar hai bapa shor-e-buka
   Har azaadaar tarapta hai ye noha sun kar
-# source_id: nohayonline:af908084f0bf77b1c0b9
-# source_url: https://www.nohayonline.com/details_content.php?id=1449
-# raw_sha256: 736a148badebddb1ce8e9fa6e39021ebcdd3260fb8de24e61d8b1bbb936a5582
 ---
 
 دشت پرخار میں فضہ نے کہا یہ رو کر

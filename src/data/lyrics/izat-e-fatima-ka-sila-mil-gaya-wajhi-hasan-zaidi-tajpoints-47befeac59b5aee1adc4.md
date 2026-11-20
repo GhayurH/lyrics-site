@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:47befeac59b5aee1adc4
-# source_url: https://tajpoints.com/2023/12/izat-e-fatima-ka-sila-mil-gaya-wajhi.html
-# raw_sha256: faa2e22ee33780880f19c37db9e309f13e5136592c5cec7742b5ac8d2b79517a
 ---
 
 1

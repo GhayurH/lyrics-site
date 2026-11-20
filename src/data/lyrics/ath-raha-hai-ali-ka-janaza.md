@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:59342c810e736a6728d6
-# source_url: https://www.ziyaraat.net/api/noha/2617
-# raw_sha256: 35f9e3b0ea3230c12d3657eead01b35b8c9766a5f8eca7c54547686d00fa75f7
 ---
 
 مومنو خاک اڑاؤ سروں پر

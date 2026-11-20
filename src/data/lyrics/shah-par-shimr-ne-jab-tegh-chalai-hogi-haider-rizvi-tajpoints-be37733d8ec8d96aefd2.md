@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:be37733d8ec8d96aefd2
-# source_url: https://tajpoints.com/2024/07/shah-par-shimr-ne-jab-tegh-chalai-hogi.html
-# raw_sha256: 3912eb492d0545172b37ddfcc24f9ac44f63991a90400d04a2e98b1210db9006
 ---
 
 1

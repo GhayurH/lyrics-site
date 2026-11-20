@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:17c09d5dd2e1c2a300ae
-# source_url: https://www.nohawriteups.org/kehti-hai-sakina-s-a/
-# original_html: snapshots/nohawriteups/original_html/17c09d5dd2e1c2a300ae.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/17c09d5dd2e1c2a300ae.json
-# api_content_sha256: 2727b5eea6ba18f9fac3e557f3f48aa7ac12308c8938d6afc4e19636d52b0595
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Kehti hai sakina

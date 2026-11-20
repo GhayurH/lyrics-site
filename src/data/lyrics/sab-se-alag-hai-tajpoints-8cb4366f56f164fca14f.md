@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8cb4366f56f164fca14f
-# source_url: https://tajpoints.com/2020/02/sab-se-alag-hai-lyrics-in-urdu-and.html
-# raw_sha256: fde9686eb15a9fce09e930414edc618b7601728f7c79a6857b9bc591e754dbb0
 ---
 
 1

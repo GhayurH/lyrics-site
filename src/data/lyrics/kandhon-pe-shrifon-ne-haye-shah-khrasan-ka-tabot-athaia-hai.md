@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:4824f77831487beb0629
-# source_url: https://www.ziyaraat.net/api/noha/613
-# raw_sha256: cf24c2fd35cfe4e67f4833385248d1886c7678264b0832b9ac7da285216c3232
 ---
 
 Kandhon pay sharifon nay haey Shah-e-Khurasan ka taboot uthaya hay

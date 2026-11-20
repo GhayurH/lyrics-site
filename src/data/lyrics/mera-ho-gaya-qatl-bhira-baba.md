@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:34f5d07086ca0bca9eb7
-# source_url: https://www.ziyaraat.net/api/noha/703
-# raw_sha256: 97b6dfc0712d4b60027511e6c3c0461c3e69da9f50a5bf149712c1004c6ce95c
 ---
 
 Mera ho gaya qatl bhira baba Najaf cho aa baba

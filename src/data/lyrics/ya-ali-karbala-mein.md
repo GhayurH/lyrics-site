@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Yaad kar Faatima ka dar Hilmi
   Dekh ab Karbala meiṅ aag lagi
-# source_id: nohayonline:6707c857fff3815eb426
-# source_url: https://www.nohayonline.com/details_content.php?id=501
-# raw_sha256: a39826301f66104c041d704e23de630be1052c94ae8a71a65855d2c182ac7493
 ---
 یا علی کربلا میں آگ لگی
 خانۂ مصطفیٰ میں آگ لگی

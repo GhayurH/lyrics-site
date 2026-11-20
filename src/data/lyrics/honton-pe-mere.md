@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Ye maatam-e-Shaah-e-zist ka haasil hai Mujaahid
   Dam sine meiṅ jab tak hai yehi nauhagari hai
-# source_id: nohayonline:97ad2f29865ffc3a816c
-# source_url: https://www.nohayonline.com/details_content.php?id=650
-# raw_sha256: d9d7b7bb9282aaee7e4dd758caf01a209dda3273f9c78936990fc217d1a5ed9a
 ---
 ہونٹوں پہ میرے نامِ علی نامِ علی ہے
 سُن کر جسے مشکل بڑی مشکل میں پڑی ہے

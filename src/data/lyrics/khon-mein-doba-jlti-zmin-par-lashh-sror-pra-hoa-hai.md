@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c9c03c8527d04c97c6ac
-# source_url: https://www.ziyaraat.net/api/noha/1786
-# raw_sha256: 4e2b81f327df2eb304faddecba0e9c7de7bf43e35fa48196186733d2f61833f7
 ---
 
 Khoon me duba jalti zami per lasha e Sarwar parra hua hai

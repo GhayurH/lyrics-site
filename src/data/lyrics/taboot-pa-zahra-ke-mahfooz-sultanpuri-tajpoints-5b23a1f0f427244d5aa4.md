@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5b23a1f0f427244d5aa4
-# source_url: https://tajpoints.com/2022/12/taboot-pa-zahra-ke-mahfooz-sultanpuri.html
-# raw_sha256: 198b9f0445d8dc48bb2134c186b71e814bc4c9e356b2b47167da68091ffeebce
 ---
 
 1

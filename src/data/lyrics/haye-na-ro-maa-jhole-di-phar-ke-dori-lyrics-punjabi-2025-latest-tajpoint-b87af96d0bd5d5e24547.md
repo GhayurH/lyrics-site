@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:b87af96d0bd5d5e24547
-# source_url: https://tajpoint.com/haye-na-ro-maa-jhole-di-phar-ke-dori-lyrics/
-# raw_sha256: 76529a539c78cf9b665a946da99bfdadc4e5829bf1f2b72f7eb1bc0b4de6dbf6
 ---
 
 1

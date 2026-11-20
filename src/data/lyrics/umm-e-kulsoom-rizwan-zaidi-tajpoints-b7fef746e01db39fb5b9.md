@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7fef746e01db39fb5b9
-# source_url: https://tajpoints.com/2023/10/umm-e-kulsoom-rizwan-zaidi-lyrics-in.html
-# raw_sha256: 42bda434c36b52394a8bcd06696b2976fe78d46c9ac1332c0395c6065c4f5df3
 ---
 
 Zainab-e-Sughra, Umm-e-Kulsoom.

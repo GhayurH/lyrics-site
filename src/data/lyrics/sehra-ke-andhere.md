@@ -69,9 +69,6 @@ romanLyrics: |-
   Maqtal meiṅ hai jo waaqie
   Zindaaṅ ki fizaaoṅ meiṅ abhi tak hai ye nauha
   Baba baba baba baba
-# source_id: nohayonline:aeea5a6028fbdd9d8e00
-# source_url: https://www.nohayonline.com/details_content.php?id=3018
-# raw_sha256: daeace5bb287c8fea2b2ffc7a058dffb1b77767bf174ae0be0664687bf375f44
 ---
 صحرا کے اندھیرے میں اٹھا شورِ بکا کا
 بابا بابا بابا بابا

@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:211eeae88fcce7987a15
-# source_url: https://tajpoints.com/2017/02/naam-e-shabiras-liya-phir-nahi-thehra.html
-# raw_sha256: 27d191c9e3ee1bdc044e53fb46364d5bafd26687e255d34b8991fc4e78dd9c33
 ---
 
 1

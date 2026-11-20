@@ -70,12 +70,6 @@ romanLyrics: |-
   Ek sada thi ae mere Asghar
   Suni hai jangal hai gham ka baadal
   Tujh ko chhupaauṅ aa mere Asghar
-# source_id: nohayonline:8f3e27d76d05c6d53436
-# source_url: https://www.nohayonline.com/details_content.php?id=342
-# raw_sha256: aef49573a74bb5ac55504b482a63585c3a80a4ca323356e3b1d71d601c036d56
-# source_id: tajpoints:bb9d65ba3bc5020b8948
-# source_url: https://tajpoints.com/2022/10/aa-ali-asghar-aa-mere-asghar-nadeem.html
-# raw_sha256: b34835cf1e41532182742a789df2e81ba34d98d9f219234c5d67689537cb350e
 ---
 آ علی اصغر آ علی اصغر
 تُجھ کو جو پاؤں اے میرے اصغر

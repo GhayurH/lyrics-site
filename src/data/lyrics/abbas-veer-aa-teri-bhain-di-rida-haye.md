@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:882bb56c0d1ebbb7601c
-# source_url: https://www.nohawriteups.org/abbas-veer-aa-teri-bhain-di-rida-haye-shimr-lahaway/
-# raw_sha256: a1b024f65c612a8c2a7c1f46246ef53c4b502d8c610b6a5876b5c348d34ab85a
-# source_title_original: Abbas veer Aa Teri Bhain Di Rida Haye
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Abbas veer aa teri bhain di rida haye Shimr lahaway
   Akhay ro ro Fizza sadd Ghazi nu, saday khaymay sar gaye, saanu aan bachaway

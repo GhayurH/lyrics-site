@@ -9,9 +9,6 @@ poet: "Qasim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fd35bcb179c0010f77cb
-# source_url: https://tajpoints.com/2021/01/dekh-rahi-hai-zahra-lyrics-in-urdu-and.html
-# raw_sha256: abaae1177de71a369e6f16767929a74d17c7c929daf8265c1da50b18114852e9
 ---
 
 Roti Aankhon Se Yeh Sab Dekh Rahi Hai Zahra

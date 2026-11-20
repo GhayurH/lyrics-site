@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Baat ye Safdar o Mazhar ne kahi dunya se
   Karbala aaj bhi hai aap ki jaagir Husain
-# source_id: nohayonline:42c42f321fc4810e0c47
-# source_url: https://www.nohayonline.com/details_content.php?id=1556
-# raw_sha256: 2329dec77c4c4280126d1aec920d9aee98e9bbd8f6ce5c0c0f3c568abe803a80
 ---
 ہو سلام اس پہ جو کہتی تھی میرے ویر حسین
 خاک میں کس نے ملا دی تیری تصویر حسین

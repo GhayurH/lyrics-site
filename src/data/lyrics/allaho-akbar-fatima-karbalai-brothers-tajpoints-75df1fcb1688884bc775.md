@@ -8,9 +8,6 @@ poet: "Naqsh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:75df1fcb1688884bc775
-# source_url: https://tajpoints.com/2023/12/allaho-akbar-fatima-karbalai-brothers.html
-# raw_sha256: 1e45907294ce825f9f758cd35cf50c9f8b40b36d1903e1cea0d83c8f14bfe581
 ---
 
 1

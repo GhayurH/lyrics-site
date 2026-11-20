@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8e2bf5bb8e98f8de8c0c
-# source_url: https://www.nohawriteups.org/ye-aun-o-mohamed-hai/
-# original_html: snapshots/nohawriteups/original_html/8e2bf5bb8e98f8de8c0c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8e2bf5bb8e98f8de8c0c.json
-# api_content_sha256: 35b5804981ad96addb1586e64b58ee93f298bf3b4611c303df734075b3edfa4b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 zainab ke ye dilbar hai ye auno mohamed hai

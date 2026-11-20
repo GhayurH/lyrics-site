@@ -50,9 +50,6 @@ romanLyrics: |-
   9
   hasrat hai ke ghazi ho lahu aankh se jaari
   ye mir takallum kabhi aisa tujhe roye
-# source_id: tajpoints:8525f34155d527d508e0
-# source_url: https://tajpoints.com/2017/09/abbas-tera-haq-hai-zamana-tujhe-roye.html
-# raw_sha256: 6c6ad1ba0f8e99fb7e631a01986a93ae59f26d28e712aeb44a9ab23724c41a63
 ---
 
 عباس تیرا حق ہے زمانہ تجھے روئے

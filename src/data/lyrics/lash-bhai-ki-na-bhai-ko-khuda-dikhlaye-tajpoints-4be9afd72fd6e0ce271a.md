@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4be9afd72fd6e0ce271a
-# source_url: https://tajpoints.com/2019/01/lash-bhai-ki-na-bhai-ko-khuda-dikhlaye.html
-# raw_sha256: a11c1e1638e434612d30896a162d93046b855ecb65b45a5f3f19c32874b796b5
 ---
 
 Lash Bhai Ki Na Bhai Ko Khuda Dikhlaye.

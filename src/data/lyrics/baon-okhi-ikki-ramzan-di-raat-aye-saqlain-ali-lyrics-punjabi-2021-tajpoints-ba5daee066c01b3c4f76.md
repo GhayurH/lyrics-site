@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ba5daee066c01b3c4f76
-# source_url: https://tajpoints.com/2021/05/baon-okhi-ikki-ramzan-di-raat-aye.html
-# raw_sha256: 860c41c10f0e5fe9f54e04ff2a85d70352744923164eb58da7c9c14437810226
 ---
 
 1

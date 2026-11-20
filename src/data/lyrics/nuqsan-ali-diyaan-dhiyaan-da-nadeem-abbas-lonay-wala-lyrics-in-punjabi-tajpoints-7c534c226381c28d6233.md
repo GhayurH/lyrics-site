@@ -8,9 +8,6 @@ poet: "Saqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7c534c226381c28d6233
-# source_url: https://tajpoints.com/2021/09/nuqsan-ali-diyaan-dhiyaan-da-nadeem.html
-# raw_sha256: a3dfd11a6a6e495c6afd034b2adce3f525119e16d96f618f100f8250703991f3
 ---
 
 Nuqsan Ali Diyaan Dhiyaan Da Nadeem Abbas Lonay Wala.

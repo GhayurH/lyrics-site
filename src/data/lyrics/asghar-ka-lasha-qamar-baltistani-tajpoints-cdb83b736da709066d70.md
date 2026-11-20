@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cdb83b736da709066d70
-# source_url: https://tajpoints.com/2023/07/asghar-ka-lasha-qamar-baltistani-lyrics.html
-# raw_sha256: 3c9b6c2048201fe7f7aa0a72982ae7d22042d2b824935e9c7cae517f52a21939
 ---
 
 1

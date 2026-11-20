@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ca3cfb2bd657a87c5d6
-# source_url: https://tajpoints.com/2020/11/ishq-karne-ka-falsafa-kya-hai-lyrics-in.html
-# raw_sha256: ed092158f4e1af9927de12f878b5fc10d4176e4c38b45f1833bcc2ccc3fc0d16
 ---
 
 1

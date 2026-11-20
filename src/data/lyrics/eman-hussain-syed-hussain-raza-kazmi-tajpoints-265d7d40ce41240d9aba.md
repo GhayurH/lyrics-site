@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:265d7d40ce41240d9aba
-# source_url: https://tajpoints.com/2021/03/eman-hussain-syed-hussain-raza-kazmi.html
-# raw_sha256: 0fb28539b9f32287497178b8b4610978d81a122fe502682dc4d31d13f806c5e6
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b745e81ea59d8f82b289
-# source_url: https://tajpoints.com/2026/03/nazar-atay-hain-syed-ali-naqvi-lyrics.html
-# raw_sha256: 02f8bd66886db24526cf26997a78c0948f070d900e68b29c8df8f1e07cdad171
 ---
 
 Nazar Atay Hain Syed Ali Naqvi Lyrics

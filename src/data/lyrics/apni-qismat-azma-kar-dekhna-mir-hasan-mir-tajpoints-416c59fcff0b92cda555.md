@@ -8,9 +8,6 @@ poet: "Zaki"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:416c59fcff0b92cda555
-# source_url: https://tajpoints.com/2022/10/apni-qismat-azma-kar-dekhna-mir-hasan.html
-# raw_sha256: 033a55214904a8d88dc236ac098da75a53a93ea30578d7a43008448c763a37a9
 ---
 
 Apni Qismat Azma Kar Dekhna Mir Hasan Mir.

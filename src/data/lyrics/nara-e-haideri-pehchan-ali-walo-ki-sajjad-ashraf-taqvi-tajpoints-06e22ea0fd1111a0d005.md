@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:06e22ea0fd1111a0d005
-# source_url: https://tajpoints.com/2022/02/nara-e-haideri-pehchan-ali-walo-ki.html
-# raw_sha256: b0bd65c91e0bab077c793bf10cb52fdd0cdcbaa76f4df141a72ba667f10596f7
 ---
 
 1

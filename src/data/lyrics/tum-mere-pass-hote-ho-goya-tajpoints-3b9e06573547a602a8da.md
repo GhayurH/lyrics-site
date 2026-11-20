@@ -8,9 +8,6 @@ poet: "Momin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3b9e06573547a602a8da
-# source_url: https://tajpoints.com/2017/02/tum-mere-pass-hote-ho-goya-complete.html
-# raw_sha256: 8adc7c622dc38b8f1e5f6ccd7f19f0a3d18c3371384e86197867bf996499789d
 ---
 
 1

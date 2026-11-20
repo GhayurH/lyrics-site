@@ -1,174 +1,106 @@
 ---
-title: "حسین حسین حسین حسین"
-alternateTitle: "Husaina Husaina"
+title: "حسین بزم جہاں کو جگا کے سوے ہیں"
+alternateTitle: "Hussaina Hussaina"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Salman Azmi"
-reciter: "Mesum Abbas"
+poet: "Najaf Murshidabadi"
 tags: []
-aliases: ["Hussaina Hussaina"]
-published: true
+aliases: []
+published: false
 romanLyrics: |-
-  Husain Husain Husain Husain
-  Husaina Husaina Husaina Husaina
-  Karbala Karbala Husain Husain
-
   1
-  Ae mere aaqa ae Maula
-  Aap ko na dekha na suna
-  Chauda sadi se dil hai fida
-  Ghar meiṅ bichha kar farsh-e-aza
-  Labbaik kaha
-  Kya karuṅ dil hai tujh pe fida Husain
-  Shaah-e-Karbobala Husain
-  Maiṅ diwaana tera Husain
-  Ya Husain ya Husaina
-
-  2
-  Mehraab-e-dil meiṅ aza ki qasam
-  Qibla-e-jaan hai tu Shaah-e-umam
-  Kaaba-e-ishq hai tera haram
-  Us ke tawaaf meiṅ nikle hum
-  Ho itna karam
-  Aarzu Karbala hai meri Husain
-  Aankh meiṅ hai nami Husain
-  Chaahta huṅ yahi Husain
-  Ya Husain ya Husaina
-
-  3
-  Kiuṅ na rakhuṅ is par maiṅ jabiṅ
-  Kaise na chumuṅ maiṅ wo zamiṅ
-  Jis pe rahe haiṅ aap makiṅ
-  Aap ke qadmoṅ ke haiṅ wohi
-  Par naqsh hasiṅ
-  Maiṅ fida tere qadmoṅ pe huṅ Husain
-  Mere dil ka sukuṅ Husain
-  Tu hai mera junun Husain
-  Ya Husain ya Husaina
-
-  4
-  Ishq-e-man jaan-e-man
-  Ruh-e-man qalb-e-man
-  Bewatan bekafan baadshaah-e-zaman
-  Mazlum
-
-  5
-  Yaad mujhe hai wo manzar
-  Laasha zamiṅ pe tha na zin par
-  Khushk gale par tha khanjar
-  Khaa ke giri ghash ek muztar
-  Teri khwahar
-  Aah sajde ka sajda hai Karbala
-  Aah qible ka qibla hai Karbala
-  Aah kaabe ka kaaba hai Karbala
-  Karbala Karbala Karbala waae
-
-  6
-  Jaa na saka gar Karbobala
-  Dekha nahiṅ jo rauza tera
-  Khaak-e-wujud hai phir mera
-  Khaak meiṅ de tu us ko mila
-  Yaani ke khaak-e-Karbobala
-  Gar jiyuṅ to bhi tujh pe maruṅ Husain
-  Aur aise maruṅ Husain
-  Jaise zinda rahuṅ Husain
-  Ya Husain ya Husaina
-
-  7
-  Zaad-e-safar kuchh kam hai magar
-  Dil pe hua hai aisa asar
-  Ishq meiṅ tere shaam o sahar
-  Karbobala ki simt safar
-  Karti hai nazar
-  Maisam aur Salman bayaaṅ
-  Zikr karo ye misl-e-azaaṅ
-  Ho ga ye jab bedaar jahaaṅ
-  Aayeṅge Mehdi Shaah-e-zamaaṅ
-  Aaj jo diwaanoṅ ne kaha
-  Saara jahaaṅ kal dega sada
-  Ya Husain ya Husaina
-# source_id: nohayonline:4495aed0f6d6c639ab11
-# source_url: https://www.nohayonline.com/details_content.php?id=2165
-# raw_sha256: a92ce188d4f2e6ed8a4ba5bc088ad2346c60a98e2161b01094ddd3e500aac0e7
+  Husain bazm e jahaṅ ko jaga ke soye hai
+  Chiragh e quwwate baatil bujha ke soye hai
+  Sitam ke qasr ko thokar se dha ke soye hai
+  Udu ke taygh tale muskurake soye hai
+  Hussaina hussaina haye Husain hussaina
+  Noha tha ye zainab e dilgir ka
+  Koi nahi sar pe raha aasra
+  Waqt tha ye ahle haram pe kara
+  Ghar bhara ujra chin gayi rida
+  Hussaina hussaina...
+  Dulha ka ran meiṅ hua tukre badan
+  Dekh ke roya kiye shaahe zaman
+  Ho gaya pamaal sheh ka gulbadan
+  Tukre badan tha kaun utha'ta
+  Hussaina hussaina...
+  Aun o mohamad jo gire khaak par
+  Raahe haq meiṅ ho gaye qurbaṅ pisar
+  Pahunchi jo qaime meiṅ ye gham ki khabar
+  Maa ne kiya tha shukr khuda ka
+  Hussaina hussaina...
+  Sine pe akbar ke jab barchi lagi
+  Sakht thi burhe pidar pe ye ghari
+  Kaandhe pe leke laashe jawaaṅ laal ki
+  Thokare khaata qaime meiṅ pahuncha
+  Hussaina hussaina...
+  Rehm kha cheh maah ka bacha hai ye
+  Bano ka bhi sab ka dulaara hai ye
+  Pyaas se gehware meiṅ tarpa hai ye
+  Pani mila na paas tha darya
+  Hussaina hussaina...
+  Nehr pe abbas ke shaane kate
+  Baith gaye shaah kamar thaam ke
+  Zainab o kulsum ne naale kiye
+  Ghazi ka laasha dekh ke roya
+  Hussaina hussaina...
+  Qatl huwe kund churi se Husain
+  Maadar e shabbir ye karti thi bain
+  Kaise mile pyasi sakina ko chain
+  Ahle haram ka tha yehi nauha
+  Hussaina hussaina...
+  As-salaam ya Husain as-salaam
+  Roze pe ek roz ho uska qayaam
+  Dije najaf ko raza ae imam
+  Ae mere maula ae mere aaqa
+  Hussaina hussaina...
 ---
 
-حسین حسین حسین حسین
-حسینا حسینا حسینا حسینا
-کربلا کربلا حسین حسین
-
 ۱
-اے میرے آقا اے مولا
-آپ کو نہ دیکھا نہ سنا
-چودہ صدی سے دل ہے فدا
-گھر میں بچھا کر فرش عزا
-لبیک کہا
-کیا کروں دل ہے تجھ پہ فدا حسین
-شاہ کربوبلا حسین
-میں دیوانا تیرا حسین
-یا حسین یا حسینا
-
-۲
-محرابِ دل میں عزا کی قسم
-قبلہء جان ہے تو شاہ امم
-کعبہء عشق ہے تیرا حرم
-اس کے طواف میں نکلے ہم
-ہو اتنا کرم
-آرزو کربلا ہے میری حسین
-آنکھ میں ہے نمی حسین
-چاہتا ہوں یہی حسین
-یا حسین یا حسینا
-
-۳
-کیوں نہ رکھوں اس پر میں جبیں
-کیسے نہ چوموں میں وہ زمیں
-جس پہ رہے ہیں آپ مکیں
-آپ کے قدموں کے ہیں وہی
-پر نقش حسیں
-میں فدا تیرے قدموں پہ ہوں حسین
-میرے دل کا سکوں حسین
-تو ہے میرا جنون حسین
-یا حسین یا حسینا
-
-۴
-عشقِ من جان من
-روح من قلب من
-بے وطن بیکفن بادشاہ زمن
-مظلوم
-
-۵
-یاد مجھے ہے وہ منظر
-لاشہ زمیں پہ تھا نہ زین پر
-خشک گلے پر تھا خنجر
-کھا کے گری غش ایک مضطر
-تیری خواہر
-آہ سجدے کا سجدہ ہے کربلا
-آہ قبلے کا قبلہ ہے کربلا
-آہ کعبے کا کعبہ ہے کربلا
-کربلا کربلا کربلا واۓ
-
-۶
-جا نہ سکا گر کربوبلا
-دیکھا نہیں جو روضہ تیرا
-خاک وجود ہے پھر میرا
-خاک میں دے تو اس کو ملا
-یعنی کہ خاک کربوبلا
-گر جیوں تو بھی تجھ پہ مروں حسین
-اور ایسے مروں حسین
-جیسے زندہ رہوں حسین
-یا حسین یا حسینا
-
-۷
-زاد سفر کچھ کم ہے مگر
-دل پہ ہوا ہے ایسا اثر
-عشق میں تیرے شام و سحر
-کربوبلا کی سمت سفر
-کرتی ہے نظر
-میثم اور سلمان بیاں
-ذکر کرو یہ مثل اذاں
-ہو گا یہ جب بیدار جہاں
-آئیں گے مہدی شاہ زماں
-آج جو دیوانوں نے کہا
-سارا جہاں کل دے گا صدا
-یا حسین یا حسینا
+حسین بزم جہاں کو جگا کے سوے ہیں
+چراغ قوت باطل بجھا کے سوے ہیں
+ستم کے قصر کو ٹھوکر سے ڈھا کے سوے ہیں
+عدو کے تیغ تلے مسکرا کے سوے ہیں
+حسین حسین ہاے حسین حسین
+نوحہ تھا یہ زینب دلگیر کا
+کوئی نہیں سر پہ رہا آسرا
+وقت تھا یہ أہل حرم پہ کڑا
+گھر بھرا اجڑا چھن گئی ردا
+حسین حسین۔۔۔
+دولہا کا رن میں ہوا ٹکڑے بدن
+دیکھ کے رویا کیے شاہ زمن
+ہوگیا پامال شہ کا گل بدن
+ٹکڑے بدن تھا کون اٹھاتا
+حسین حسین۔۔۔
+عون و محمد جو گرے خاک پر
+راہ حق میں ہو گےء قرباں پسر
+پہنچی جو خیمے میں یہ غم کی خبر
+ماں نے کیا تھا شکر خدا کا
+حسین حسین۔۔۔
+سینے پہ اکبر کے جب برچی لگی
+سخت تھی بوڑھے پدر پہ یہ گھڑی
+کاندھے پہ لے کے لاشے جواں لال کی
+ٹھوکریں کھاتا خیمے میں پہنچا
+حسین حسین۔۔۔
+رحم کھا چھ ماہ کا بچہ ہے یہ
+بانو کا بھی سب کا دلارا ہے یہ
+پیاس سے گہوارے میں تڑپا ہے یہ
+پانی ملا نہ پاس تھا دریا
+حسین حسین۔۔۔
+نہر پہ عباس کے شانے کٹے
+بیٹھ گےء شاہ کمر تھام کے
+زینب و کلثوم نے نالے کیےء
+غازی کا لاشہ دیکھ کے رویا
+حسین حسین۔۔۔
+قتل ہوے کند چھری سے حسین
+مادر شبیر یہ کرتی تھی بین
+کیسے ملے پیاسی سکینہ کو چین
+أہل حرم کا تھا یہی نوحہ
+حسین حسین۔۔۔
+السلام یا حسین السلام
+روضے پہ اک روز ہو اسکا قیام
+دیجیے نجف کو رضا اے امام
+اے میرے مولا اے میرے آقا
+حسین حسین۔۔۔

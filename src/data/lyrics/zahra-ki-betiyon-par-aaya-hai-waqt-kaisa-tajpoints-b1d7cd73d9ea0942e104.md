@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b1d7cd73d9ea0942e104
-# source_url: https://tajpoints.com/2018/06/zahra-ki-betiyon-par-aaya-hai-waqt-kaisa.html
-# raw_sha256: 68e25bbdb9c9e03536fcba31f36d821639192f5eb84fb30cf532b626b23dd1c6
 ---
 
 Zahra Ki Betiyon Par Aaya Hai Waqt Kaisa.

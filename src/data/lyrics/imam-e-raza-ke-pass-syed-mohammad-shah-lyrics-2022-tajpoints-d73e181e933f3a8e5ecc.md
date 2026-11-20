@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d73e181e933f3a8e5ecc
-# source_url: https://tajpoints.com/2022/06/imam-e-raza-ke-pass-syed-mohammad-shah.html
-# raw_sha256: 406f338ed095a64ec1f44d0e70179563af883a11f4499330d4410120ce1b89b1
 ---
 
 1

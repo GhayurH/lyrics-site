@@ -8,9 +8,6 @@ poet: "Bahoo"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:abd00036f0a398e29f29
-# source_url: https://tajpoints.com/2017/02/andar-kalma-kil-kil-karda-ishq-sikhaya.html
-# raw_sha256: ef3b2242d46c830b13dbdf9d39295d385e3b52c82d869e60e6f0e4871402b74b
 ---
 
 1

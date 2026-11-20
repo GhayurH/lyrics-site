@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:643044ef8c58e6dbbe16
-# source_url: https://www.ziyaraat.net/api/noha/2406
-# raw_sha256: 7c9085f6ac3cc29270c457004d0a82715e65483619459517180a454847a9d435
 ---
 
 بادشاہ حسینؑ حسینؑ، بادشاہ حسینؑ

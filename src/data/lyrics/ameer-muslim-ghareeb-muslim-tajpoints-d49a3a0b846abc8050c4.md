@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d49a3a0b846abc8050c4
-# source_url: https://tajpoints.com/2023/06/ameer-muslim-ghareeb-muslim-lyrics-in.html
-# raw_sha256: 48b42aea8fa64f7a589c6d39d013c3aa499f8b04fd101ff3f5eeb4b96bcee738
 ---
 
 Ameer Muslim Ghareeb Muslim Lyrics

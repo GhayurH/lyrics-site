@@ -46,9 +46,6 @@ romanLyrics: |-
   Zuljana se lipat kar wo roti rahi
   Keh rahi thi ye masum ki siskiyaṅ
   Zuljana zuljana hai kahan...
-# source_id: nohayonline:8afec2bcaff0bc897fa6
-# source_url: https://www.nohayonline.com/details_content.php?id=2382
-# raw_sha256: 896ab53e8b559e67e9c2cbfab36e0cd125bc2ca8f0a81a478b0b28ba9c27a6dd
 ---
 
 ۱

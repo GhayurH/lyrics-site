@@ -54,9 +54,6 @@ romanLyrics: |-
   11
   Baliyaṅ chin liṅ aada ne hamari aa kar
   Dekho kano se lahu behta hai taza baba
-# source_id: ziyaraat:d10b2731f5813f6148c0
-# source_url: https://www.ziyaraat.net/api/noha/2554
-# raw_sha256: 140a62a9c6f8a3593d0a825f026cd67c30f1d5105b2632cdebbd8c223de9e3e3
 ---
 
 دی سكینہ نے صدا دشت میں بابا بابا

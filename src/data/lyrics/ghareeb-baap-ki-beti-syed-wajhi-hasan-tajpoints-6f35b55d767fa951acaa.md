@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6f35b55d767fa951acaa
-# source_url: https://tajpoints.com/2022/09/ghareeb-baap-ki-beti-syed-wajhi-hasan.html
-# raw_sha256: 689b639b7260311cc86994f9306bd6221c38759a71966f735512535b256f1445
 ---
 
 Ghareeb Baap Ki Beti Syed Wajhi Hasan.

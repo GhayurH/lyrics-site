@@ -8,9 +8,6 @@ poet: "Minhaj"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:42c0c13b71831c9bf3f9
-# source_url: https://tajpoints.com/2019/10/nahnu-ushaq-ul-hussain-lyrics-in-urdu.html
-# raw_sha256: 5949ce862c06e9a102c492b746751d7b81848f62f5e8b60326d561eeb49205c9
 ---
 
 1

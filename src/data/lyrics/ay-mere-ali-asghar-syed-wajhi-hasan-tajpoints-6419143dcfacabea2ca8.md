@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6419143dcfacabea2ca8
-# source_url: https://tajpoints.com/2023/08/ay-mere-ali-asghar-syed-wajhi-hasan.html
-# raw_sha256: 32a6991ef07e2f98a027620d637eaaf784813ab87642aa0638c527c8b5b005b6
 ---
 
 Ay Mere Ali Asghar Syed Wajhi Hasan.

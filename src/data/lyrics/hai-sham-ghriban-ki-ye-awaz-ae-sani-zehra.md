@@ -89,12 +89,6 @@ romanLyrics: 'Hai shame ghariban ki ye awaaz
   Mai misle qadab hoon mujhe kar dijiye gowhar
 
   Tareekhe abad mein mera parcham ho sunehra'
-# source_id: nohayonline:7eb64037d98938e5b51a
-# source_url: https://www.nohayonline.com/details_content.php?id=215
-# raw_sha256: d419c956d8c972c73ac8f35784d526cf34385b954656761d260f7e0662fa9d32
-# source_id: ziyaraat:dcbe5299af09a80c246b
-# source_url: https://www.ziyaraat.net/api/noha/1317
-# raw_sha256: 9604347b7a916dbb1f5c7d1d0376629aa84ffc4698322378561da660370374bd
 ---
 
 ہے شام غریباں کی یہ آواز

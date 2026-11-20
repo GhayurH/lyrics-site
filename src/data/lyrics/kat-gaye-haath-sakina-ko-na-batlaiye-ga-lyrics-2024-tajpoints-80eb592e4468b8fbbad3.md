@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:80eb592e4468b8fbbad3
-# source_url: https://tajpoints.com/2024/07/kat-gaye-haath-sakina-ko-na-batlaiye-ga.html
-# raw_sha256: a9faabbaea14bc888e823e02e078e410875e51bd4fafe64c32fe6673a2152e27
 ---
 
 Kat Gaye Haath Sakina Ko Na Batlaiye Ga Muhammad Raza Mungla.

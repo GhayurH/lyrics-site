@@ -8,9 +8,6 @@ poet: "Waseem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1fdedb9b8d7e96477b28
-# source_url: https://tajpoints.com/2021/02/main-hun-zehra-ki-rida-lyrics-in-urdu.html
-# raw_sha256: 4465177a72a68cf505aba3ae9c8345ab37dd71f9b480e88e4ed36eb3febc4aa7
 ---
 
 Sab Ridaon Se Mila Martaba Mujh Ko Juda.

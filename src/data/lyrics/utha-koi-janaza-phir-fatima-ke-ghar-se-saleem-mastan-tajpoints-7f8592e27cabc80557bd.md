@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7f8592e27cabc80557bd
-# source_url: https://tajpoints.com/2023/09/utha-koi-janaza-phir-fatima-ke-ghar-se.html
-# raw_sha256: 6998369a7e44fdd6680e8dd46574e25e09f25ea473761e32d81042fa621c503d
 ---
 
 Utha Koi Janaza Phir Fatima Ke Ghar Se Saleem Mastan.

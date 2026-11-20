@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5c8e27eed7e33a2eea91
-# source_url: https://tajpoints.com/2018/11/hoiyaan-qaidi-chadraan-lay-gayiyaan-aa.html
-# raw_sha256: 1b27fb5f5295adc76dfb8bf873b0000d2fa87e45b7fad8d6e2d5b88b71edc4fb
 ---
 
 1

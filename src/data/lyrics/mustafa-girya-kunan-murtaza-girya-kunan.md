@@ -46,12 +46,6 @@ romanLyrics: |-
   Shimr barchi se utarega jo zainab ki rida
   Ran may shahid tarap uthega jari ka laasha
   Ab haram ka nahi koi nigaraṅ
-# source_id: nohayonline:6cb7ea65cc6c2bea80a6
-# source_url: https://www.nohayonline.com/details_content.php?id=747
-# raw_sha256: 32654cfd95f7541552c7ca3cbe87473075ddfb3882a341ae1d3819b9bef1a457
-# source_id: ziyaraat:a787318d26b1d591c6da
-# source_url: https://www.ziyaraat.net/api/noha/1173
-# raw_sha256: 6faccfd9d41a54ac016523bb6e40884df376828a0aa07a23bac6e5010c585404
 ---
 
 مصطفی گریہ کناں مرتضیٰ گریہ کناں

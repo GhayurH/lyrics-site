@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:01d4f5a918ab35b64441
-# source_url: https://tajpoints.com/2022/03/main-farsh-e-aza-hon-musahar-rizvi-asim.html
-# raw_sha256: b846c50f66fdaba992c39f8fe869326b399840d7cfa6083e53e2d8c2cdda7cbb
 ---
 
 Main Farsh-e-Aza Hon Musahar Rizvi Asim Rizvi.

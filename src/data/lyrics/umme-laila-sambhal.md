@@ -64,9 +64,6 @@ romanLyrics: |-
   Aur hoga Husain ke lab par
   Umme laila sambhaal…
   Laa raha hoo mai…
-# source_id: nohayonline:c05fa6eb61daa730deb6
-# source_url: https://www.nohayonline.com/details_content.php?id=214
-# raw_sha256: 7a6c9c21d354db4ca33b46d52ff954a9bf166ef1991a6440a2b1bc3493d30796
 ---
 
 ۱

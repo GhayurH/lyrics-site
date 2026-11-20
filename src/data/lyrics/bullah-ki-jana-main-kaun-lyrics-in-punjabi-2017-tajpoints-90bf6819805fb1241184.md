@@ -8,9 +8,6 @@ poet: "Bullah"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:90bf6819805fb1241184
-# source_url: https://tajpoints.com/2017/02/bullah-ki-jana-main-kaun.html
-# raw_sha256: 3243646c7cec28103d83c6e8c4ad0642a225193e5749988d35ae5935802cfd0e
 ---
 
 1

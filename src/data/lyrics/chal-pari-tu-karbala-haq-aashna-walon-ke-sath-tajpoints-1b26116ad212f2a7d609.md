@@ -8,9 +8,6 @@ poet: "Azai"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1b26116ad212f2a7d609
-# source_url: https://tajpoints.com/2017/10/chal-pari-tu-karbala-haq-aashna-walon.html
-# raw_sha256: 0c66cb25fbf9ebb8d289adcaf03512cf7fae05d4b5b54f0d8053283ecfbd2d6f
 ---
 
 Chal Pari Tu Karbala Haq Aashna Walon Ke Sath.

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:26b980d6e9ed18d498b2
-# source_url: https://tajpoints.com/2021/10/lasha-e-hassan-par-khuram-murtaza.html
-# raw_sha256: 59211f09f63ce9cad456022fb8a9bba3c14c8bbdc9b2c82e8c42fb30b5e0f9b5
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:df2f900adc06a1e5e244
-# source_url: https://tajpoints.com/2022/07/mah-e-muharram-chand-mir-hasan-mir.html
-# raw_sha256: b4a00c0364091aa17ce142ff94073ba28a4a312104d0c160ef5fa53264ac7437
 ---
 
 1

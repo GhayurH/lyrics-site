@@ -43,9 +43,6 @@ romanLyrics: |-
   Be maqna aur chaadar ahle haram, hai kufa aur shaam mein mehva safar
   Yeh saatwe dar par zainab ne, sajaad ko phoocha ro ro kar
   Ab kitni manzil rahti hai ab kitna rasta baaqi hai,
-# source_id: ziyaraat:af30ee32a1848b583947
-# source_url: https://www.ziyaraat.net/api/noha/2106
-# raw_sha256: 3a700ed5ddae12b4b5704de4357d931768289c1bd0777ef4592107a36b4c5417
 ---
 
 بس ایک جنازہ باقی ہے

@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da5b8466361519b5764d
-# source_url: https://tajpoints.com/2018/08/qaid-ho-ke-jo-karb-o-bala-se-chala-ab.html
-# raw_sha256: 48e6c12167b57f20938fc058b80753a6791769287322a2087e11172fb56313ae
 ---
 
 1

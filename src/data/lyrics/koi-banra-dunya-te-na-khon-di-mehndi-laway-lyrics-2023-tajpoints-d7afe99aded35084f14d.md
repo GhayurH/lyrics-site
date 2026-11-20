@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d7afe99aded35084f14d
-# source_url: https://tajpoints.com/2023/07/koi-banra-dunya-te-no-khon-di-mehndi.html
-# raw_sha256: 669f7cebb18dfdbf1d9af73e67b3a9798cdb23bde7d11c461c3d44d0135adafc
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3e6924344e698a9df5d1
-# source_url: https://tajpoints.com/2024/09/yaad-e-karbala-syed-mudassir-mehdi.html
-# raw_sha256: c6ad4cb8f6d5ab2ef7beb076e2790d018c8df98f93296b3b152df03a3927fe03
 ---
 
 1

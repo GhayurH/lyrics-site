@@ -48,9 +48,6 @@ romanLyrics: |-
   Kis tarah uske dard-e-jigar ki dawaa kareṅ
   Hum bemuin o yaavar o naasir hain kya kareṅ
   Pahuncheṅge laash tak jo madad Murtaza kare
-# source_id: nohayonline:3f92ffd5ae37a9ceff72
-# source_url: https://www.nohayonline.com/details_content.php?id=1950
-# raw_sha256: ab227aafed335b82f7ff56bc71a4c9104df095fdc1134b3a93c68d0228ef4088
 ---
 
 

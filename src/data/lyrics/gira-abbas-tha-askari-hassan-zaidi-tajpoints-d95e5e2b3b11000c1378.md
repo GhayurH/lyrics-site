@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d95e5e2b3b11000c1378
-# source_url: https://tajpoints.com/2024/07/gira-abbas-tha-askari-hassan-zaidi.html
-# raw_sha256: 9c33076df22bd0e60271aba84080d8a2b25a02481106e0573f4effa2fa95daab
 ---
 
 1

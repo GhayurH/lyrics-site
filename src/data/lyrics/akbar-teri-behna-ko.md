@@ -53,12 +53,6 @@ romanLyrics: |-
   Zishan o Raza ka bhi maqbul ho ye pursa
   Zinda hai qayamat tak Irfan ka ye noha
   Aawaz ye Nasir ki har dil ko rulaati hai
-# source_id: nohayonline:f8ee307ff0e9fb628924
-# source_url: https://www.nohayonline.com/details_content.php?id=1820
-# raw_sha256: b66db9051a83a0fc73bf9c333df44e03b51413fddea03796d0d6c58c8cc471df
-# source_id: tajpoints:4bea39b888cd7fde2b06
-# source_url: https://tajpoints.com/2022/08/akbar-teri-behna-ko-teri-yaad-satati.html
-# raw_sha256: 634c42720961da8f4082e816b4b9bce797f92fcac73dd0b166108f3cc2d1e45d
 ---
 اکبر تیری بہنا کو تیری یاد ستاتی ہے
 ویران حویلی میں بیمار بلاتی ہے

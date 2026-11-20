@@ -8,9 +8,6 @@ poet: "Sarosh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4d6dcdcc1492c21086eb
-# source_url: https://tajpoints.com/2023/04/mitti-madinay-ki-mukhtar-hussain.html
-# raw_sha256: 188c484e5994d4205dfaf06c3da5db521aae1a84861f72977d22cb8024f690d3
 ---
 
 Mitti Madinay Ki Mukhtar Hussain Fatehpuri.

@@ -57,9 +57,6 @@ romanLyrics: |-
   Aakhri zarb jo zaalim ne lagaai Asif
   Ho gayi Shah ke tan o sar meiṅ judaai Asif
   Shaadmaaṅ tab bhi Shah-e-Karbobala
-# source_id: nohayonline:163179964fb372ec1d4c
-# source_url: https://www.nohayonline.com/details_content.php?id=2613
-# raw_sha256: 260e103cec0dc238c59943c17c71c5db6f444667f18591466ec9046b0bf96e82
 ---
 قتل کرنے کے ارادے سے ستمگر جو بڑھا
 ہو گئی دشتِ بیاباں کی خاموش فضا

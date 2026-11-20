@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:026fd450e94452af8df5
-# source_url: https://www.ziyaraat.net/api/noha/166
-# raw_sha256: bd771dc44df443eec020f66b5c84810171d7cfc4745e415c6561604c43788a22
 ---
 
 Mera shabbir khuda ka hay who andaaz-e-kalam

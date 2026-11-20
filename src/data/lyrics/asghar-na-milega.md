@@ -62,9 +62,6 @@ romanLyrics: |-
   Socho to zara kehta hai irfan se mazhar
   Jab sheh ne kaha hoga asghar na milega
   Jhula to nazar aayega...
-# source_id: nohayonline:c5d151d9fdab6f9b8a12
-# source_url: https://www.nohayonline.com/details_content.php?id=2220
-# raw_sha256: f14fc20102d8a4ee7144b2089758519628d138a609b4bc124d7da679182f576c
 ---
 
 ۱

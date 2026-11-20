@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   So gayi Shaam ke zindaaṅ meiṅ Sakina Mohsin
   Qaid khaane meiṅ sada reh gayi baba baba
-# source_id: nohayonline:8391d0f7fae05b04c89d
-# source_url: https://www.nohayonline.com/details_content.php?id=2255
-# raw_sha256: c2032f15ddfc2cc9a0be0992b00f292b7c8542b36c10f0dd33b968df9d10cf64
 ---
 آپ کے بعد مجھے شمر نے بابا مارا
 چور زخموں سے ہوئی تیری سکینہ بابا

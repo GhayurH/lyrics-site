@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a50cd5701f548f227786
-# source_url: https://www.ziyaraat.net/api/noha/2796
-# raw_sha256: 455c5cbde5cd519c1b00abc3d94c4eaafead3f445566aedd439e898f21306c00
 ---
 
 UMMUL BANEEN KA HAY,

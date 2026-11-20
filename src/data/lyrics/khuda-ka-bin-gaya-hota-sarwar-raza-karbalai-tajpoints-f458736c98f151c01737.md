@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f458736c98f151c01737
-# source_url: https://tajpoints.com/2023/03/khuda-ka-bin-gaya-hota-sarwar-raza.html
-# raw_sha256: 52a7ee9f940524394963774a5382dec60afac4e4cbc006d7368cba9e80bcfe28
 ---
 
 Khuda Ka Bin Gaya Hota Sarwar Raza Karbalai.

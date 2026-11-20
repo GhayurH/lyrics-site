@@ -8,16 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e24cac5005f5e2811e4a
-# source_url: https://tajpoints.com/2021/08/paya-kamar-jhuka-abid-ro-ro-ke-safar.html
-# raw_sha256: edf6c8710dfdc32d7e55ce7a889987e880a636b098bc63a02874997849922efe
-# additional_source_id: nohawriteups:cedf1675d7eba4b41ddc
-# additional_source_url: https://www.nohawriteups.org/paya-kamar-jhukaya-abid-ro-ro-kay-safar/
-# additional_raw_sha256: e7fd35d3f9826b16c5fde5f654c245f083bcd5950f5a338e1ffaebfac809e146
-# additional_source_id: nohawriteups:0ee79c4048958280124f
-# additional_source_url: https://www.nohawriteups.org/paya-kamar-jhukaya-abid-ro-ro-kay-safar-karda/
-# additional_raw_sha256: 8b1540bf5010b58eeeb8b5aa6846ab0b1611c644abdd966ef522c28c541c91a9
-# additional_source_note: Two original NohaWriteups captures contain the same six substantive Roman Panjabi stanzas as the existing TajPoints text. TajPoints also preserves the additional Sakina-burial stanza absent from both shorter captures. Existing verses and order retained without loss; packed stanza groups still need editorial alignment.
 ---
 
 1

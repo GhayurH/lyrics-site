@@ -8,9 +8,6 @@ poet: "Havi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ff4b0abfb3af8be44233
-# source_url: https://tajpoints.com/2020/03/main-faqeer-hoon-main-malang-hoon.html
-# raw_sha256: c07c03d6530bf41b806684472955caeab59226da5c512a3e2a96329fc92fbce9
 ---
 
 1

@@ -64,12 +64,6 @@ romanLyrics: |-
   Ro rahi haiṅ jo shaam o sahar
   Fatima teri tanhaai par
   Fatima pe haiṅ girya kunaaṅ
-# source_id: nohayonline:337dbd0591ed6e7968b8
-# source_url: https://www.nohayonline.com/details_content.php?id=3279
-# raw_sha256: f25795d1c2e8bb3b2891d1f77f3a1f98ed61ece50ca5afb23d3ea1c16a4f2a7e
-# source_id: ziyaraat:48c561c52defe248d704
-# source_url: https://www.ziyaraat.net/api/noha/2205
-# raw_sha256: fd10b03008ba1711d4ef6ce4739bb4b98ce8c2290048db991a9d1fdc0328a992
 ---
 
 اسلام کا دل مادرِ امت ہیں خدیجہؑ

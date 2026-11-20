@@ -8,9 +8,6 @@ poet: "Sohail"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2424b992aa9bc13e384a
-# source_url: https://tajpoints.com/2023/05/masooma-e-qum-ky-leay-syed-qamar-abbas.html
-# raw_sha256: 3f2f95c1a623b406ef392634a0424f00b5c089a8984a4f842ae5b6c725afb826
 ---
 
 1

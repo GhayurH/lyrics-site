@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ffff9e245949b6486f72
-# source_url: https://www.nohawriteups.org/aakhay-rubab-kiwain-jhoolay-nu-mei-jhulavaan/
-# raw_sha256: 14b535dde0c3a08f4a53c8d013156dd846bc61ee81251896bad1e14dcc8a77ec
-# source_title_original: Aakhay Rubab Kiwain Jhoolay Nu Mei Jhulavaan
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 Aakhay Rubab Kiwain Jhoolay Nu Mei Jhulavaan

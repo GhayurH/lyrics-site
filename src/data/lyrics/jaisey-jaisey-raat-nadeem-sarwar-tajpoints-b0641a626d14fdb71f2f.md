@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b0641a626d14fdb71f2f
-# source_url: https://tajpoints.com/2022/12/jaisey-jaisey-raat-nadeem-sarwar-lyrics.html
-# raw_sha256: 56ae8db504e7c9eb8d69a5eb57dcd23410a939c12637ab851c88dcfa3a44ecad
 ---
 
 Jaisey Jaisey Raat Nadeem Sarwar Lyrics

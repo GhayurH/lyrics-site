@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7db3172eea1dcdd5170
-# source_url: https://tajpoints.com/2019/03/ali-sher-e-khuda-haider-haider.html
-# raw_sha256: 289012a57e59dd222d75e9be9ad6cf5dfa0332efa9db79aeccd93bf7f4e95089
 ---
 
 Ali Sher-e-Khuda Haider Haider.

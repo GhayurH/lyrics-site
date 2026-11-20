@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:33760dae6a61d2bbe791
-# source_url: https://tajpoints.com/2020/06/aj-veer-hasan-de-lal-nu-phophiyaan.html
-# raw_sha256: b6bb06f07d3f51f43569dae8998cf38caeac2d3f0ea05919559742e8be48bcbc
-# source_title_original: Aj Veer Hasan De Lal Nu Phophiyaan Mehndiyan Laiyaan 2019
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Aj Veer Hasan De Lal Nu Phophiyaan Mehndiyan Laiyaan

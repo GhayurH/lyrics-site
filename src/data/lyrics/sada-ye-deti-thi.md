@@ -37,12 +37,6 @@ romanLyrics: |-
   6
   Rehaan Aazmi jaisi namaaz Shah ne parhi
   Ada na ho saki ab tak kabhi Husain ke baad
-# source_id: nohayonline:a2f915a41358b3e53cf1
-# source_url: https://www.nohayonline.com/details_content.php?id=2311
-# raw_sha256: 5811aecc965427f2374e7d33f3c7907e87143d61d1ef32401813f84f065777cf
-# source_id: ziyaraat:2dd59700f14222c6f660
-# source_url: https://www.ziyaraat.net/api/noha/1845
-# raw_sha256: 6676e3d25bf31e68a21eccc165e75894e4aeef2a58978e7a61c1d1b4d8ead56c
 ---
 صدا یہ دیتی تھی بنت علی حسین کے بعد
 نہیں ہے موت سے کم زندگی حسین کے بعد

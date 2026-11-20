@@ -43,9 +43,6 @@ romanLyrics: |-
   Ru ba ru baba ke apne jo na boli thi Amir
   Tin din deti rahi bazaar meiṅ niru waar hai
   Bhir hai baazaariyoṅ ki saj raha darbaar hai
-# source_id: nohayonline:66800c9c1de05c36fcc7
-# source_url: https://www.nohayonline.com/details_content.php?id=2293
-# raw_sha256: 644aefc021d5e7409dc8bcc6caf8daca6218544ce79126745b444bf3bb801ebe
 ---
 زینب کجا بازار کجا
 

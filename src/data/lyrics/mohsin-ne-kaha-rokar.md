@@ -45,9 +45,6 @@ romanLyrics: |-
   Irfaan hai ammaaṅ ko meri bhi musibat ka
   Naasir tha maiṅ ammaaṅ ka par koi nahiṅ mera
   Ik kil ke neze se beta hai musibat meiṅ
-# source_id: nohayonline:1147ecf0ed9e9974c212
-# source_url: https://www.nohayonline.com/details_content.php?id=1189
-# raw_sha256: b7a3120e1d33928b30981653d2145fe8e729bd73fa967b55265e474a7fbfa6d2
 ---
 فرزند زہرا کا تھا یہ نوحہ
 

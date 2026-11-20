@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:15320b783676ffb54ba4
-# source_url: https://tajpoints.com/2023/05/kaise-pardes-mein-kazim-pe-zamane-aaye.html
-# raw_sha256: 4072eebfc58cc586ff65314616835d2932fed8a8459a4f4767033671573ffa2d
 ---
 
 1

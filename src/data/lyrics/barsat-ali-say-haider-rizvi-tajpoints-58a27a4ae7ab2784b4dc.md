@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:58a27a4ae7ab2784b4dc
-# source_url: https://tajpoints.com/2022/02/barsat-ali-say-haider-rizvi-lyrics-in.html
-# raw_sha256: c52a9948c9c77ddf2715aba6f6612aeab0245819f53c503b82d38c94cacee8a2
 ---
 
 Barsat Ali Say Haider Rizvi Lyrics

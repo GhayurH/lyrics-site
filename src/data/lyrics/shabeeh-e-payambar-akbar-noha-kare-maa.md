@@ -102,12 +102,6 @@ romanLyrics: 'Shabeeh-e-Payambar Akbar, nauha kare maa
   Zehra nay tujhe bakhsha hay lafzoon ka khazana, lafzoon ka khazana
 
   Lay ho gaya bakhshish kaa tere hashr mein samaan'
-# source_id: nohayonline:4bde7312a35431d64b5e
-# source_url: https://www.nohayonline.com/details_content.php?id=421
-# raw_sha256: c3ec6f03475ceff6b3fc2f02cce9f49e82b61228ff5606e6089f268e48da828e
-# source_id: ziyaraat:20e4e22e4a05a327a55d
-# source_url: https://www.ziyaraat.net/api/noha/592
-# raw_sha256: b3a702c03587ec0b71b8e7579dd54eca5784afa3be0cdaab1407763244b30802
 ---
 
 شبیہہ پیمبر اکبر نوحہ کرے ماں

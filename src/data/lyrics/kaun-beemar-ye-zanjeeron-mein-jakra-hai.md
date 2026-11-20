@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1a05d4d6520156b0e4a2
-# source_url: https://www.ziyaraat.net/api/noha/2293
-# raw_sha256: 58838d6190ebb48e136859b0710c78597763170ec0393e8f6d3fea508aaa72d9
 ---
 
 Kon beemar ye zanjeeron may jakrra aaya

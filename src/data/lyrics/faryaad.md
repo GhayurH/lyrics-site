@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Aal-e-Athaar se phirne ka natija hai Raza
   Hurmat-e-ummat-e-aasi na rahi aap ke baad
-# source_id: nohayonline:c7b2efbe1fdcdf51a043
-# source_url: https://www.nohayonline.com/details_content.php?id=2898
-# raw_sha256: 4333ed7c4d9797a9435dadc74aec39ee7568de4cf0c9194325e486c6ee5776d5
 ---
 
 ظلم کیا کیا نہ ہوئے میرے نبی آپ کے بعد

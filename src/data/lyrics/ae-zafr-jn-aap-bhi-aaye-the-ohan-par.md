@@ -52,12 +52,6 @@ romanLyrics: |-
   Bimaar ka bistar ho ke beshir ka jhula
   Sab jal gaya wallah
   Shahid na tha is zulm ka koi bhi wahaaṅ par
-# source_id: nohayonline:0f9aec4243055514b141
-# source_url: https://www.nohayonline.com/details_content.php?id=702
-# raw_sha256: 0126b238feae41c5a5909c29678f8b87320d7a6ff6ac85c82bc6bd0160a4f546
-# source_id: ziyaraat:c2d80ec71074b989913d
-# source_url: https://www.ziyaraat.net/api/noha/1167
-# raw_sha256: fca950e04c2a94df39ff90283a9602b962e497a93f1f6b0042f6fd76ff447b57
 ---
 
 اے زعفرِ جن آپ بھی آئے تھے وہاں پر

@@ -8,9 +8,6 @@ poet: "Sahaab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:634800cf9e48130bfe7d
-# source_url: https://tajpoints.com/2021/12/maqtal-main-na-aati-abbas-syed-raza.html
-# raw_sha256: 361f8e4ef0a355cf2fad86827e6e87cbcd7b6acf7bd228291d287c387a4320c3
 ---
 
 1

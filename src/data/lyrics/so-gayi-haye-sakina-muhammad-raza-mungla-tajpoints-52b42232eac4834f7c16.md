@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:52b42232eac4834f7c16
-# source_url: https://tajpoints.com/2024/08/so-gayi-haye-sakina-muhammad-raza-mungla.html
-# raw_sha256: 3d1290a133f6064f5a4678b414fc5daa929b6bf1ceed1251162670642bf200fe
 ---
 
 1

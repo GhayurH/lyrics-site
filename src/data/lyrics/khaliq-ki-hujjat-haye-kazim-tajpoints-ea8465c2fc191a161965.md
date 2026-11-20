@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ea8465c2fc191a161965
-# source_url: https://tajpoints.com/2023/02/khaliq-ki-hujjat-haye-kazim-lyrics-in.html
-# raw_sha256: 23005330aad6f7eb51834b6d359c482f5d0c95b8b9f9a1ad8437b3b2d1e0fa1b
 ---
 
 Khaliq Ki Hujjat Haye Kazim Lyrics

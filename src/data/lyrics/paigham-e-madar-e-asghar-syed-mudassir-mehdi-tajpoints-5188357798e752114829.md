@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5188357798e752114829
-# source_url: https://tajpoints.com/2021/08/paigham-e-madar-e-asghar-syed-mudassir.html
-# raw_sha256: f73edb953f76b1d16ee1939ae88bc4cde0b4db9ce466f1cebda153b6964a0a5b
 ---
 
 1

@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fbd8188c5f27f71d4800
-# source_url: https://tajpoints.com/2023/06/hur-ne-pehle-niyat-bandhi-khaime-ki.html
-# raw_sha256: a171c6052119cfa2e3700a4f41b04a54be47339fb737dc0cb6503b3db135e290
-# source_title_original: Hur Ne Pehle Niyat Bandhi Khaime KI Zawwari Ki 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Hur Ne Pehle Niyat Bandhi Khaime KI Zawwari Ki

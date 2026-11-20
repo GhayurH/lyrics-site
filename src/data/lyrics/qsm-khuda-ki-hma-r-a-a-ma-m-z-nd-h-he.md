@@ -8,9 +8,6 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:63eadcb14dd88174f242
-# source_url: https://www.ziyaraat.net/api/noha/2015
-# raw_sha256: c75a58b9d1cf9b875ce640d09947b2d7fae93103aaf321b6d2ee6b4a9a084311
 ---
 
 قسم خدا کی، قسم خدا کی، قسم خدا کی ھما ر ا ا ما م ز ند ہ ھے

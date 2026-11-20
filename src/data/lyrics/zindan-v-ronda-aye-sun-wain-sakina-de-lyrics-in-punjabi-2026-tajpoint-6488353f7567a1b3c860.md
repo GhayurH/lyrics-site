@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:6488353f7567a1b3c860
-# source_url: https://tajpoint.com/zindan-v-ronda-aye-sun-wain-sakina-de/
-# raw_sha256: a2563b255734643a9d2eff7d1b3bbdf1c03ebf5b5e130cd89906e62cd63c11a5
 ---
 
 Zindan V Ronda Aye Sun Wain Sakina De.

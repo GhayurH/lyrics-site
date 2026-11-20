@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c2036be3ff6e3c0db46a
-# source_url: https://www.ziyaraat.net/api/noha/368
-# raw_sha256: ff4ec31ec3097ec1d191913dd9addfc5d9bea6e6557148dc5694919e0e1b2e23
 ---
 
 Sar-e-Hussain Sakina ki goud may aaja

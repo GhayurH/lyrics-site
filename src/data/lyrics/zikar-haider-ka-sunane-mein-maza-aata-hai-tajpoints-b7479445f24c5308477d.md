@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7479445f24c5308477d
-# source_url: https://tajpoints.com/2020/04/zikar-haider-ka-sunane-mein-maza-aata.html
-# raw_sha256: deff4d590024478e3878bdf354296975ae904be868b91cb12d83c0b9db882e55
 ---
 
 1

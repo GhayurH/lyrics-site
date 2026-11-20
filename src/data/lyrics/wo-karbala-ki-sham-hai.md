@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:87e35ce796bde8eb0bc1
-# source_url: https://www.ziyaraat.net/api/noha/1782
-# raw_sha256: b218e40e91e8fc1be446b69beb08efebaea5b59911cd95a5ab1e19e1fa6e1e08
 ---
 
 Woh Karbala ki Shaam hai

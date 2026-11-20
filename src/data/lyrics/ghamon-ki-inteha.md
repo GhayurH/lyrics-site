@@ -47,9 +47,6 @@ romanLyrics: |-
   8
   Kahaaṅ sitam ka silsila kahaaṅ Gharib-e-Nainawa
   Ye keh ke Dayam aur Yazdaaṅ ro pari wo ghamzada
-# source_id: nohayonline:bff1bb944aff7aab7b07
-# source_url: https://www.nohayonline.com/details_content.php?id=1447
-# raw_sha256: c1c83e7c9b819331396f8303a955cfa9b7d5581a282bdd2082560f93a97887c6
 ---
 
 ذبیح ماریہ حسین

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8e45551e3a44193e77b9
-# source_url: https://www.nohawriteups.org/enj-vichray-haye-do-bhen-bhira/
-# original_html: snapshots/nohawriteups/original_html/8e45551e3a44193e77b9.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8e45551e3a44193e77b9.json
-# api_content_sha256: 5ba0b260fd23b59a09410eb123ca7fae9e51f74c3292387e82aa9ad604984be2
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Enj Vichray Haye Do Bhen Bhira

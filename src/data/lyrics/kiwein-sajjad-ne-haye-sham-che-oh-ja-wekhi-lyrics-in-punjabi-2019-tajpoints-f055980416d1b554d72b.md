@@ -8,9 +8,6 @@ poet: "Adeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f055980416d1b554d72b
-# source_url: https://tajpoints.com/2023/04/kiwein-sajjad-ne-haye-sham-che-oh-ja.html
-# raw_sha256: 76ed02a2700173eeba6d19d04d3c573b4e8fdf4913d603f33ea01bb9aa609727
 ---
 
 Kiwein Sajjad Ne Haye Sham Che Oh Ja Wekhi.

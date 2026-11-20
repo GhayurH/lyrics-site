@@ -10,9 +10,6 @@ reciter: "Sachey Bhai"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:215daad1d5e285222c46
-# source_url: https://www.nohayonline.com/details_content.php?id=3216
-# raw_sha256: 2b6a4279f4a133b41977209346cf06948b87f744648dac705468b7c7b3894889
 romanLyrics: |-
   Ali Ali hai zabaṅ par kabhi Husain Husain
 

@@ -62,9 +62,6 @@ romanLyrics: |-
   Bole Hasan jab parda hata
   Baba ali baba ali
   Maahe ramzan ban gaya...
-# source_id: nohayonline:3e55d7648437a4b06564
-# source_url: https://www.nohayonline.com/details_content.php?id=2186
-# raw_sha256: d2a606746887459a1d8bea57fd72eb81198d24c4647173565ea70e5101bfd594
 ---
 
 ۱

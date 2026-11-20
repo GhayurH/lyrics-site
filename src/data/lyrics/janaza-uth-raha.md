@@ -56,9 +56,6 @@ romanLyrics: |-
   Chhura kar maaṅ se bachchoṅ ko Ali ne jab kafan baandha
   Tarap ke haaye Zishan o Raza kehne lage Maula
   Hai taaza zakhm pehlu ka zara aahista do kaandha
-# source_id: nohayonline:c0800f29053dc5737418
-# source_url: https://www.nohayonline.com/details_content.php?id=2075
-# raw_sha256: eb4ad594d26f2374d4d379d6216ac8ba84e6b45133ebdaed78790cb9c8fd6be4
 ---
 ہائے زہرا ہائے زہرا
 

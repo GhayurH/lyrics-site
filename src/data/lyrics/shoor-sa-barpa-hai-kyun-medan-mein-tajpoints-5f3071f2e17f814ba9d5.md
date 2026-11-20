@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5f3071f2e17f814ba9d5
-# source_url: https://tajpoints.com/2023/07/shoor-sa-barpa-hai-kyun-medan-mein.html
-# raw_sha256: 89f7da0faf9033ac630f81db99c0211d44717cba1a550b77a5bda40a5822e1a2
 ---
 
 Shoor Sa Barpa Hai Kyun Medan Mein.

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d0388c9e88d078ebd8c0
-# source_url: https://tajpoints.com/2020/12/zinda-hai-tere-naam-se-yeh-mazhab-e.html
-# raw_sha256: 5156e6a180c0a043f354d6d53ca76def8520b17af0cfeda8d853f87701095a18
 ---
 
 Zinda Hai Tere Naam Se Yeh Mazhab e Islam

@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aed6b92ce7b6874d523d
-# source_url: https://tajpoints.com/2022/02/ya-ali-teray-kya-kehnay-syed-sajjad.html
-# raw_sha256: adae883d71f596240c324c57b6813c2b9c095e2519408796ae037010be1580e1
 ---
 
 Ya Ali Teray Kya Kehnay Syed Sajjad Naqvi.

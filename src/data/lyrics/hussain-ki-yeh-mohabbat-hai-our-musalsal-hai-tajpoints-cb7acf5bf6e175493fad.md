@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cb7acf5bf6e175493fad
-# source_url: https://tajpoints.com/2021/10/hussain-ki-yeh-mohabbat-hai-our.html
-# raw_sha256: 9b9e12c31d100679125941a9793cde07661512744fc1b69b394d5cd4237f6eb7
 ---
 
 1

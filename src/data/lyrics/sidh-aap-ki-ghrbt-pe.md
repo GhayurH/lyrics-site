@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:f2ebdb6866bfeb037892
-# source_url: https://www.ziyaraat.net/api/noha/2606
-# raw_sha256: a868487fb8f1b588e15cb4e257b57f8e6efab5363dc29d5d61e80912c1e1150c
 ---
 
 سیدہؑ آپ کی غربت پے علیؑ روتے ہیں

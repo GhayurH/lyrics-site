@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:54c5cc854b2b75ab3649
-# source_url: https://www.ziyaraat.net/api/noha/1256
-# raw_sha256: 6e09247934135d81308bd58bdf1f315a00fc60c675fba80eed328d367208ab25
 ---
 
 شام کے بازار میں یہ کون آیا بے ردا - کہہ دو یہ زینبؑ نہیں

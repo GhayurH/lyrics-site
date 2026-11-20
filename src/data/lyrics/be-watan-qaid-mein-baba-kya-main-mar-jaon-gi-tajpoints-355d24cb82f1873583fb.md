@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:355d24cb82f1873583fb
-# source_url: https://tajpoints.com/2025/08/be-watan-qaid-mein-baba-kya-main-mar.html
-# raw_sha256: 6ff811bf1c104c92d70e7682f47b9a3ff1d13d69fbc9524c4a1d1596e7793ab7
 ---
 
 1

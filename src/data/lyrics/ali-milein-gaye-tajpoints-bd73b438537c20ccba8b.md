@@ -8,9 +8,6 @@ poet: "Naqsh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bd73b438537c20ccba8b
-# source_url: https://tajpoints.com/2020/03/ali-milein-gaye-lyrics-in-urdu-and.html
-# raw_sha256: 90d7f53bbe6036f92b16dc7323d3e0b96625474655e26afdc234483f4c974445
 ---
 
 Mera Aqeeda Hai Mujh Se Aa Kar Ali Milein Gaye.

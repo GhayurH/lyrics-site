@@ -64,9 +64,6 @@ romanLyrics: |-
   Dara kar Shimr mujh ko maar daalega chale aao
   Mujhe har dam ye lagta sitamgar aane waala hai
   Har ek lamha mere dil meiṅ ye dehshat baithi hai Baba
-# source_id: nohayonline:9d51efa5f05d8e0483cb
-# source_url: https://www.nohayonline.com/details_content.php?id=3720
-# raw_sha256: 5d514425d8d0dabbb2447ed8212e2ff716b16058615246e513dd3136ce8a100f
 ---
 سکینہ تنہا ہے بابا سکینہ زخمی بابا
 گلے میں رسی ہے بابا سکینہ قیدی ہے بابا

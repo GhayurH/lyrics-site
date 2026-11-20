@@ -67,9 +67,6 @@ romanLyrics: |-
   13
   Yazidiyat ne to chaaha Husainiyat na rahe
   Gham-e-Husain ko dunya Mohib mita na saki
-# source_id: nohayonline:d9f5a363feeecd1bfacd
-# source_url: https://www.nohayonline.com/details_content.php?id=772
-# raw_sha256: 61a68e296b300e1b92f2f47c20952cb0a6dbfcf702e404a417d596d8b7fbe6a2
 ---
 رہ گئی دشت میں تنہا تو وطن یاد آیا
 پانی پیا تو ہر اک تشنہ دہن یاد آیا

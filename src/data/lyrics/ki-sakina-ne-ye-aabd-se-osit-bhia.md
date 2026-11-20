@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ac522ab0500cbce6a93b
-# source_url: https://www.ziyaraat.net/api/noha/631
-# raw_sha256: 748b40c09fe4f80eed069edeb048e62c6e7b81ab8e878ea250666b986d8329f3
 ---
 
 Ki Sakina nay yeh Abid se wasiyat bhaiya

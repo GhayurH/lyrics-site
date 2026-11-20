@@ -63,17 +63,6 @@ romanLyrics: |-
   Mere mazlum ki majlis
   Takallum hashr meiṅ ho gi
   Qayaamat aur kya ho gi
-# source_id: nohayonline:55fbe35d02ad6af4e65b
-# source_url: https://www.nohayonline.com/details_content.php?id=478
-# raw_sha256: 56241ec5a2b43aea4b32e9666c412003cfdfaf0be984b99025cabe93bc49fd32
-# source_id: ziyaraat:3501c0a0f9c96fb98a15
-# source_url: https://www.ziyaraat.net/api/noha/2078
-# raw_sha256: 784c33c62b94629602df664621cfafb46be495e65822bc71f2b360f0b7a9f396
-# source_id: nohawriteups:e1bd906326f853d00ceb
-# source_url: https://www.nohawriteups.org/qayamat-aur-kya-hogi/
-# original_html: snapshots/nohawriteups/original_html/e1bd906326f853d00ceb.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e1bd906326f853d00ceb.json
-# api_content_sha256: 463b642638e6b97eb913e3812ac1094d8b0f0ae56d938c0595cc18542c243c84
 ---
 واویلا صد واویلا
 کیا قیامت سے یہ کم ہے

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:51af6f9aa0340fe63ac5
-# source_url: https://www.ziyaraat.net/api/noha/211
-# raw_sha256: 88d7c31efaf236c4b2b71eda20f2bd5c9ce106684a6b16266aa9843949a21fdd
 ---
 
 Waqar-e-Deen-e-Khuda hay Hussain ka matam

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bd54934eaf019a3b48da
-# source_url: https://tajpoints.com/2021/01/halqoom-pe-taig-e-jafa-yaad-rahe-gi.html
-# raw_sha256: ed6f878bb63bebc1f24cf10c101257bc9d6a933e08ee14e089959da496fc13b5
 ---
 
 Halqoom Pe Taig-e-Jafa Yaad Rahe Gi.

@@ -73,9 +73,6 @@ romanLyrics: |-
   Asghar ka gala tha nezoṅ par
   Rehan laboṅ par tha nauha
   Ek sukha sa Asghar ka gala
-# source_id: nohayonline:fcb8c7a89c49597389b3
-# source_url: https://www.nohayonline.com/details_content.php?id=1391
-# raw_sha256: a69b92250642acdfd97c65ccbda77c9a8287126e5c1521382a6a91588c7e7fd8
 ---
 
 ہاے حسین ہاے اصغر

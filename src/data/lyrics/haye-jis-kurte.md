@@ -53,9 +53,6 @@ romanLyrics: |-
   Thi dua baaba ki mujh se na bichharne paaye
   Itna maiṅ chaahuṅ mere bin na use nind aaye
   Shah se Rehan aur Mubarak wohi chhurwaai gayi
-# source_id: nohayonline:b3c77305ca95d7c60e58
-# source_url: https://www.nohayonline.com/details_content.php?id=730
-# raw_sha256: 57d32ed48c79bad18ebc5c1b702e60fc2f54ad7704689b4d0ce93db2c4a73905
 ---
 ہائے جس کرتے میں زندان تلک لائی گئی
 اے سکینہ تو اسی کرتے میں دفنائی گئی

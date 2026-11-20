@@ -59,18 +59,6 @@ romanLyrics: |-
   Gham hameṅ Rehaan o Sarwar kiuṅ na ho
   Mahw-e-maatam jab Payambar ho gaye
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-# source_id: nohayonline:f55257dbde4a8fe31ed9
-# source_url: https://www.nohayonline.com/details_content.php?id=360
-# raw_sha256: fac5879c0f2876c093fd77888a253c7ad553bb04ad51c3b3632c1d58f7982ec6
-# source_id: ziyaraat:45fdba81a94d367ea0ee
-# source_url: https://www.ziyaraat.net/api/noha/355
-# raw_sha256: 812956ee27dd629004a88f265ac821071b4cade46377baeaa7f51b5d93e1dac4
-# source_id: tajpoints:c26268fdaae7ddb89533
-# source_url: https://tajpoints.com/2022/12/behti-rahi-furaat-nadeem-sarwar-lyrics.html
-# raw_sha256: 3a7b626483fdd78b1a77e5292cb5962b841f936eb0ce5f856c44af374d628d76
-# source_id: nohawriteups:e7c275b2904016f25c8c
-# source_url: https://www.nohawriteups.org/behti-rahi-furaat/
-# original_html: snapshots/nohawriteups/original_html/e7c275b2904016f25c8c.html.gz
 ---
 
 اے شامِ غریباں

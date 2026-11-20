@@ -70,9 +70,6 @@ romanLyrics: |-
   Ye baat kaise likhun mai mazhar
   Hai kaisa saabir ghareeb e zehra
   Ye sirf mera khuda hi jaane
-# source_id: nohayonline:d69b9a6e4b26e871c2b0
-# source_url: https://www.nohayonline.com/details_content.php?id=1557
-# raw_sha256: 1f9121ddfe7c140a1662605a4cea7b488e2d438431e738f4f15afab69f65de76
 ---
 
 ۱

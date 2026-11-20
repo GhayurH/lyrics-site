@@ -66,9 +66,6 @@ romanLyrics: |-
   Ae Aamir o Kumail wo manzar ajib tha
   Godi meiṅ sar rakh ke ye kehti thi Fatima
   Baaba ke paas ashk baha kar maiṅ aayi huṅ
-# source_id: nohayonline:7f19babc663d26fe1bac
-# source_url: https://www.nohayonline.com/details_content.php?id=1283
-# raw_sha256: f9a8493837d906593a8677bdff1ea24dd82bf62f79eee108b3a04f51516d2c9c
 ---
 بہ وقت رخصت حیدر جو روئی روح بتول
 تڑپ کے بولی میرے ہم سفر وصیِ رسول

@@ -59,12 +59,6 @@ romanLyrics: 'Beh raha hay khoon ka darya laashaye Shabbir say
   6) Aaye hain ahlay haram Gulzaar kyun darbaar may
 
   Abid-e-beemaar hain jakre huay zanjeer say'
-# source_id: nohayonline:55024fefe2be82b68aed
-# source_url: https://www.nohayonline.com/details_content.php?id=36
-# raw_sha256: 8ffde5d03f005f5a48232de33a54ece1794112b33eb2dc050dab41d130dbdcb8
-# source_id: ziyaraat:6ffaa0c4aefab28512f6
-# source_url: https://www.ziyaraat.net/api/noha/644
-# raw_sha256: 1c7e71373ae8e6508edb4bf4106250d9c2114255d7145d33a08ea5fe2b722e0f
 ---
 
 بہہ رہا ہے خو ںکا دریا لاشہِ شبیر سے

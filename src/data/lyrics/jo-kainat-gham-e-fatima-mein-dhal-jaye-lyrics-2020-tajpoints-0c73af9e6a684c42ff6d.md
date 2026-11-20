@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0c73af9e6a684c42ff6d
-# source_url: https://tajpoints.com/2020/11/jo-kainat-gham-e-fatima-mein-dhal-jaye.html
-# raw_sha256: 11b1d82ef1032c41cc9dca56f871037b07e73f69d0ccf6c209584ff8c91828de
 ---
 
 Jo Kainat Gham-e-Fatima Mein Dhal Jaye.

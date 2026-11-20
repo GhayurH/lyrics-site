@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c8337c982594973398c7
-# source_url: https://www.ziyaraat.net/api/noha/1587
-# raw_sha256: b3a8450e4b392cf7875d6b87ce2aaf295dfcdf0c958ebc1ac08e55e41b904c23
 ---
 
 Is la-ila pe jis ne ghar ko luta diya

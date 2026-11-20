@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cec64444c5349f3a6f6f
-# source_url: https://tajpoints.com/2017/02/chadar-ke-piche-piche-woh-chalta-chala.html
-# raw_sha256: 10fe8beaa4d0f3922dcbcd708c08af7a7e1867838ab4c3f5dbd8be92fcb69674
 ---
 
 Chadar Ke Piche Piche Woh Chalta Chala Gaya Asghar Khan.

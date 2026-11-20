@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5f40e47a280d54ae889c
-# source_url: https://tajpoints.com/2017/02/wo-naqsh-inma-hain-imam-ali-razaas.html
-# raw_sha256: 964b845a4052de01616bee541c5c13e62edb3c320b310056810a0bb18dd4cbab
 ---
 
 1

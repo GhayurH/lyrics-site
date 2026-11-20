@@ -52,9 +52,6 @@ romanLyrics: |-
   Na parh aur aamir ae sheh ke sukhanwar
   Ke tadpenge marqad meiṅ shaahe madina
   Soja sakina...
-# source_id: nohayonline:8ae7b7db1c023523985d
-# source_url: https://www.nohayonline.com/details_content.php?id=2140
-# raw_sha256: 4f4ce566d2d9a96aee475349f44ea2dbec0a687a0ff0ba67041c3fb69f8baae4
 ---
 
 ۱

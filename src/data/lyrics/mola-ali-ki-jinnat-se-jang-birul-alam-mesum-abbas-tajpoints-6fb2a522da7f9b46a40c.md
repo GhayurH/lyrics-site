@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6fb2a522da7f9b46a40c
-# source_url: https://tajpoints.com/2024/02/mola-ali-ki-jinnat-se-jang-birul-alam.html
-# raw_sha256: af48a7d71cc02e840b631202def0d8faeca9c22b1a2b0e524fa2edd6672ff2d8
 ---
 
 Mola Ali Ki Jinnat Se Jang Birul Alam Mesum Abbas.

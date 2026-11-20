@@ -53,9 +53,6 @@ romanLyrics: |-
   Ajib hashr hai aaṅkhoṅ meiṅ Aamir o Nayyar
   Rula raha hai lahu dil ko Shaam ka manzar
   Laboṅ pe ek hi nauha hai kya kare Abbas
-# source_id: nohayonline:3e6deca25edbd3e52de0
-# source_url: https://www.nohayonline.com/details_content.php?id=3601
-# raw_sha256: 7eb32651d78657cea2313f5349fd6acf1437d9aaa10f3a0e238d94c83c2a2a0a
 ---
 سوال حرمت کعبہ ہے کیا کرے عباس
 بہن ہجوم میں تنہا ہے کیا کرے عباس

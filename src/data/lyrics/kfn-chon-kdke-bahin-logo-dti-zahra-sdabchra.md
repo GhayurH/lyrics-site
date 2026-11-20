@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c56b6a55ac5cd02f248e
-# source_url: https://www.ziyaraat.net/api/noha/1286
-# raw_sha256: 1ff0210ecd92f01b4300922b4c48ad2cb6f2174727dbc2affc0bceb2f3a73c2b
 ---
 
 کفن چوں کڈکے باہیں لوگو ڈتی زاہراؑ صدابچڑا

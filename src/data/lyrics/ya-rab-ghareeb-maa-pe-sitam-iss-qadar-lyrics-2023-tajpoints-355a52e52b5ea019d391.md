@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:355a52e52b5ea019d391
-# source_url: https://tajpoints.com/2023/12/ya-rab-ghareeb-maa-pe-sitam-iss-qadar.html
-# raw_sha256: e536ef235a3edabced7b9b28690f548f1d8dd0eae082dd24e9718c6fe0ed6c69
 ---
 
 Ya Rab Ghareeb Maa Pe Sitam Iss Qadar Na Ho

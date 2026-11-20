@@ -51,9 +51,6 @@ romanLyrics: |-
   Shaam ke zindaaṅ meiṅ maaṅ ko sukuṅ aata nahiṅ
   Mera Asghar mere pehlu ke bina sota nahiṅ
   Shams kar ke maaṅ yehi aah o fughaaṅ roti rahi
-# source_id: nohayonline:763749f330feec3b9a57
-# source_url: https://www.nohayonline.com/details_content.php?id=2116
-# raw_sha256: 8b925e98dc0699801aed3691b6f23f1798a38b4f3c7a9c0e109d732d3b16ea1b
 ---
 سو گیا اصغر میرا اور علقمہ بہتی رہی
 ہائے بیکس بے زباں پر زندگی روتی رہی

@@ -52,9 +52,6 @@ romanLyrics: |-
   Mai dua karti hoo tum amin keh dena zara
   Jald aaye mere mehdi ka zamana ya ali
   Aaj rukhsat ho rahi hai...
-# source_id: nohayonline:895519f899e4109499a8
-# source_url: https://www.nohayonline.com/details_content.php?id=1034
-# raw_sha256: 94c1f7abc844d1ac4a972004a18d644dd5fe11848e1748415b2568206ec36b9f
 ---
 
 ۱

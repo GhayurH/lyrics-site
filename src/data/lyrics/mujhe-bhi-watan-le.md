@@ -79,12 +79,6 @@ romanLyrics: |-
   Tamaache lage the jahaaṅ par
   Wahaaṅ khaak se qaidiyoṅ ko
   Sadaaeiṅ ye aati thi har jaa
-# source_id: nohayonline:31ff146ffde1b706fc10
-# source_url: https://www.nohayonline.com/details_content.php?id=1607
-# raw_sha256: 5537c185fd931338db931f99c9a037450168781d4bc7e849ead0492e81b13cee
-# source_id: tajpoints:4369abb811541788d6a7
-# source_url: https://tajpoints.com/2018/10/mujhe-bhi-watan-le-chalo-mujhe-bhi.html
-# raw_sha256: 0fe1b6438dcf5931f210c092f4ae7cf9bc8046fa1e82d39e5741153c5ed38591
 ---
 جب رہا شام کے زندان سے ہوئے اہلِ حرم
 کیا خوشی ہوتی دوبالا ہوا سادات کا غم

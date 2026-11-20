@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ae3411e287faa80c08e5
-# source_url: https://tajpoints.com/2020/04/hussain-ki-beti-lyrics-in-urdu-and.html
-# raw_sha256: 38b15657dc163184098c2e61474727a2c8aa38156d7346253157d5c94093ee13
 ---
 
 Taharton Ka Khulasa Hussain Ki Beti.

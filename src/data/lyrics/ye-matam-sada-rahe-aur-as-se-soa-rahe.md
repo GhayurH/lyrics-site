@@ -122,12 +122,6 @@ romanLyrics: 'Ye Matam Sada Rahay Aur Iss Sai Siva Rahay
   Kya Alam-e-ghurbat Hai Ba Khuda
 
   Hai Kon Situm Seh Kar Itnai, Raazi Ba Raza Rahay'
-# source_id: nohayonline:60817094b90953d5154a
-# source_url: https://www.nohayonline.com/details_content.php?id=50
-# raw_sha256: 9e075dcbdfdc31e85122c09b55eeb240f0b345e538e7e59996f7f5272ab52cd6
-# source_id: ziyaraat:9015418bd80906e75570
-# source_url: https://www.ziyaraat.net/api/noha/2102
-# raw_sha256: 85ced3bf08cfcaa074fcecd14a6e26db9900ec25c61bf63251aaff26371f5b75
 ---
 
 یہ ماتم صدا رہے اور اِس سے سوا رہے

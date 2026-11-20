@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:eeb7edf88306536c2442
-# source_url: https://www.nohawriteups.org/aahain-hain-dhoop-hai-aur-jhoola-hai-ek/
-# raw_sha256: dfc3706d1269a03eb817b9d1bc39080d6f5e5e19e511fd80efae570c05b7aae1
-# source_title_original: Aahain Hain Dhoop Hai Aur Jhoola hai ek
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aahain hain dhoop hai aur, jhoola hai ek khali
   Asghar ki ujri maa ne, dunya alag basa li

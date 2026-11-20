@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9cb33a4031bfee59d433
-# source_url: https://tajpoints.com/2020/05/kyun-mara-musalmano-batao-sajday-mein.html
-# raw_sha256: 72e4cadec886b82152ee7925d8956479112292b4c4a6cbe7ced904f9de70b8e8
 ---
 
 Kyun Mara Musalmano Batao Sajday Mein Ali Ko.

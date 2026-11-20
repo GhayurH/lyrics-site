@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:96f018c29ddf86493464
-# source_url: https://www.ziyaraat.net/api/noha/2931
-# raw_sha256: c95945a3ed004195fb1489d193a404eeb1f48eeed6b28e02b38f638c625216e7
 ---
 
 جان علمدار علمدار علمدار

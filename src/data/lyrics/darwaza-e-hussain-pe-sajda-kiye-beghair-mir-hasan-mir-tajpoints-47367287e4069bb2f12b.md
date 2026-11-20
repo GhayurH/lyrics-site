@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:47367287e4069bb2f12b
-# source_url: https://tajpoints.com/2017/05/darwaza-e-hussain-pe-sajda-kiye-beghair.html
-# raw_sha256: 8f9e5bd56c885db98b389894fff5f06f7cc854fe17b6f6e1dc170d7bdd88931c
 ---
 
 1

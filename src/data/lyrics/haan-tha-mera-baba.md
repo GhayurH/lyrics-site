@@ -74,12 +74,6 @@ romanLyrics: |-
   Rehaan qalam mera, likh kar ye bayaaṅ roya
   Kaaghaz pe gire aansu dil dard se tarpa
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-# source_id: nohayonline:5ccee60b12e9800fc820
-# source_url: https://www.nohayonline.com/details_content.php?id=3089
-# raw_sha256: 8c100d6e48e88c61466dceb21f1666114794eaf0a11a5306202d6dc804be45fb
-# source_id: ziyaraat:9a5565b01b49ae0201fd
-# source_url: https://www.ziyaraat.net/api/noha/418
-# raw_sha256: 9679e903dd9b68ee12a67cf70fae0533a3896cf1ad6503d886208f561dd6df6a
 ---
 
 رسن میں گلے بارہ اور برہنہ سر

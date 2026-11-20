@@ -58,9 +58,6 @@ romanLyrics: |-
   10
   Zishaan Abidi ho ya Farhan koi bhi
   Har maatami ki shaan sunaayegi Fatema
-# source_id: nohayonline:bd24007f6d911c1f25a9
-# source_url: https://www.nohayonline.com/details_content.php?id=3645
-# raw_sha256: 0ad1fa4640672ec4bde9a4ea934db66bf6189c41e7ca7b61c9dbdad6eaa96394
 ---
 اے عزاداروں اے وفاداروں
 فرش عزا کے تاروں

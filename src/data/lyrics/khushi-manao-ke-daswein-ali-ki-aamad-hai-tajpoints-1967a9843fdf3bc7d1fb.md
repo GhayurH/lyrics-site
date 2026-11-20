@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1967a9843fdf3bc7d1fb
-# source_url: https://tajpoints.com/2018/03/khushi-manao-ke-daswein-ali-ki-aamad-hai.html
-# raw_sha256: cd503f0eeb798abae1897d3511daf75af5dc99e3c9618741968084139bcc81a4
 ---
 
 Khushi Manao Ke Daswein Ali Ki Aamad Hai.

@@ -82,9 +82,6 @@ romanLyrics: |-
   Ae Bibi dil mera gham se chur
   Saansoṅ ka ruk jaae na silsila
   Sallallahu alaik ya Fatimeh
-# source_id: nohayonline:e6e7f824e5f66f1c1da9
-# source_url: https://www.nohayonline.com/details_content.php?id=1028
-# raw_sha256: 43073acafec9465222ed12738a29fd76b603cdc73e724a06d614866b3943047d
 ---
 
 صل اللہ علیک یا فاطمہ

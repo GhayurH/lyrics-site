@@ -8,9 +8,6 @@ poet: "Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d635891eacbb8bd8c318
-# source_url: https://tajpoints.com/2023/09/nana-mein-agai-hoon-ghar-bar-sab-luta.html
-# raw_sha256: a9a45264f6b5b6468eac4463941c8ad3698da57233d680bb073ff82ab8fed95d
 ---
 
 1

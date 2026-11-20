@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4ddcc992b5f73d87b9af
-# source_url: https://tajpoints.com/2020/08/kali-bethi-bhain-sughra-tera-jhola-roz.html
-# raw_sha256: 38ef7a58167a1077275733c16093dcee7cd058d19e902959146701294e608d71
 ---
 
 Kali Bethi Bhain Sughra Tera Jhola Roz Jholaway.

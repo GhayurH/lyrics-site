@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:d7b2f3362760ba4c2f5e
-# source_url: https://www.nohawriteups.org/aaja-abbas-veeran/
-# raw_sha256: 69e2bd0562f5e6e348f37c0199866ad984758702c379282b145015be55887f80
-# source_title_original: Aaja Abbas Veeran
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aaja Abbas veeran
   Daivay saada-e-Zainab, tori na aas veeran

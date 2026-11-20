@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b1bf7cd6841ac41dda2f
-# source_url: https://tajpoints.com/2020/05/yateem-zainab-lyrics-in-urdu-and-roman.html
-# raw_sha256: f697edb7c6aa4159eb2242e060e7f5cd6fbe496939290c9034601bfeebad157e
 ---
 
 Lipat Ke Maiyyat Se Keh Rahi Hai Ghareeb Dukhiya Yateem Zainab.

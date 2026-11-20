@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bde32a50fb9c9d5c77dc
-# source_url: https://tajpoints.com/2021/01/ujri-rubab-nu-shami-standay-ray-lyrics.html
-# raw_sha256: fb91e1f6e4f7bccb7dce91ac51080ca7dc4abc92c6cf9951d8c7d627b6f6c065
 ---
 
 1

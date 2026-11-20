@@ -8,9 +8,6 @@ poet: "Zawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:5f390bc764259f0ac11d
-# source_url: https://tajpoint.com/kyun-chand-muharram-ka-itna-udas-hai-somi-khan-lyrics/
-# raw_sha256: 133eab0ead66ac840bc39a3f1e15ac570f85053b7a87ddf63c74b64d9847d740
 ---
 
 Kyun Chand Muharram Ka Itna Udas Hai.

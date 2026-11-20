@@ -8,9 +8,6 @@ poet: "Quaid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7ffe0d488bfb98d81491
-# source_url: https://tajpoints.com/2024/02/phir-aya-hai-shaban-mola-mola-kar-mir.html
-# raw_sha256: 6bf72775ffaeca7a59d223f42892b8293bbd1bd5f55e700adbac8f4d548eedb7
 ---
 
 1

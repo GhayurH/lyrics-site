@@ -53,9 +53,6 @@ romanLyrics: |-
   Tarikh ko hilal kahaṅ ye hasham mila
   Zainab ki ye dua thi ke aisa alam mila
   Alam abbas ka...
-# source_id: nohayonline:119c5085c17ea1da4dc9
-# source_url: https://www.nohayonline.com/details_content.php?id=2589
-# raw_sha256: 8672bb3c74c3d0cffb0abad4a443715a271543afed0c39b7dae824e4619b6ee6
 ---
 
 ۱

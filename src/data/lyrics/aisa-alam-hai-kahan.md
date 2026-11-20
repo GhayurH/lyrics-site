@@ -125,16 +125,6 @@ romanLyrics: |-
   Haye Sakina kehta hai
   Tum hi kya Rehaan o Sarwar
   Sab ki zabaṅ par rehta hai
-# source_id: nohayonline:14f8c43fff19f0141257
-# source_url: https://www.nohayonline.com/details_content.php?id=3030
-# raw_sha256: ed55c0f72d54c1582dc80391c0b5a81034bea77d7d60a0963e434ea5434182de
-# source_id: ziyaraat:c651d7507211a9ec6c67
-# source_url: https://www.ziyaraat.net/api/noha/153
-# raw_sha256: 1a4efcc810c14703a35774784aaa4032823c89ae0e2cab9ed5227f5c7b1526f1
-# source_id: tajpoints:a197555263a3eab41874
-# source_url: https://tajpoints.com/2022/12/aisa-alam-hai-kahan-nadeem-sarwar.html
-# raw_sha256: 825fd5232e4bc111f036f32f78750231f3bfe57cb749ea38c610c19e6676ebb6
-# editorial_note: Added four previously absent eight-line stanzas and the two-line second refrain from fuller Tajpoints witness. Preserved the order of pre-existing canonical stanzas; source ordering differs. Original Tajpoints "Gul Hasas" resolved provisionally as "gul-e-khaas" pending review.
 ---
 
 ایسا علم ہے کہاں

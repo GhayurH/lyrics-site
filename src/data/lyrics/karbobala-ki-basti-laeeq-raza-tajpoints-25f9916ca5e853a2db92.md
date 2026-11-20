@@ -8,9 +8,6 @@ poet: "Shaukat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:25f9916ca5e853a2db92
-# source_url: https://tajpoints.com/2021/08/karbobala-ki-basti-laeeq-raza-lyrics-in.html
-# raw_sha256: 85f3d00e6deee6e54c40e4afcdd28f197305bedbd8ff8a7cbcb8b7bcb5b8edaf
 ---
 
 1

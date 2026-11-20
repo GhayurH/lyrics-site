@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:31efc6a985819c7307fe
-# source_url: https://tajpoints.com/2023/11/ali-abid-ko-shano-par-uthane-aa-gayi.html
-# raw_sha256: f5d8e312fb819c6bea9838467adea25023f0d911835a873057240cd9e3cf8d5d
 ---
 
 Ali Abid Ko Shano Par Uthane Aa Gayi Zainab.

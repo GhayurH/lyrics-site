@@ -8,9 +8,6 @@ poet: "Asmee"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6b888c9296fb71531e8e
-# source_url: https://tajpoints.com/2024/08/hussain-apka-chelum-syed-abbas-raza.html
-# raw_sha256: d641b8dcaf38ddd6c3a6d0de1bc985ad6abdde2e19c2d87b505c301dc15be8a1
 ---
 
 1

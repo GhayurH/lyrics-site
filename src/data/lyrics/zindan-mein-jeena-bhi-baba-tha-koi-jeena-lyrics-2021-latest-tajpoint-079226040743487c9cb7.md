@@ -8,9 +8,6 @@ poet: "Sahar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:079226040743487c9cb7
-# source_url: https://tajpoint.com/zindan-mein-jeena-bhi-baba-tha-koi-jeena-lyrics-2021/
-# raw_sha256: 619a1e99333d7571f341f59756b9077d13b9b5146b83473172b3c4891bc9df40
 ---
 
 1

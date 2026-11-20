@@ -52,9 +52,6 @@ romanLyrics: |-
   10
   Ye mujhe mil gaya Mazhar ko lab-e-Kausar par
   Apne ashkoṅ ke iwaz maiṅ ne kharida ye hai
-# source_id: nohayonline:ec0c33bd06ca4c96bf5d
-# source_url: https://www.nohayonline.com/details_content.php?id=1482
-# raw_sha256: 2d394a0d5968a7e239cdb5f8c2123a2c9c67e2acf5ace07b256fb2ad8723fed7
 ---
 
 بولے شبیر کے بس میری تمنا یہ ہے

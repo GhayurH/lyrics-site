@@ -8,9 +8,6 @@ reciter: "Katri Bawa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:836db7aff28f850d2325
-# source_url: https://www.ziyaraat.net/api/noha/2511
-# raw_sha256: aa531d753cea21b74ce4aa4c7ad2dd99b65f12bf77d93fd86e47d8b5599071c0
 ---
 
 Qaid mein wo janay wali mar gayi

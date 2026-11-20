@@ -57,12 +57,6 @@ romanLyrics: |-
   Hamshakl-e-Mustafa ne sine pe barchhi khaayi
   Aaya hai phir laboṅ par kab aaoge Akbar
   Jaan aa gayi laboṅ par kab aaoge Akbar
-# source_id: nohayonline:16bedd6913e9a5588bd4
-# source_url: https://www.nohayonline.com/details_content.php?id=622
-# raw_sha256: 1441f25a186240d75c961e67108fddc8bf8406977152081e8f16951ff119e796
-# source_id: tajpoints:1ad9e02bd95208103555
-# source_url: https://tajpoints.com/2023/03/sughra-ne-khat-likha-hai-kab-aao-gaye.html
-# raw_sha256: facb2615665b004af08b8ce4a3af114ec0436ae141927302172e7b6ba76506fd
 ---
 
 صغریٰ نے خط لکھا ہے کب آئو گے اکبر

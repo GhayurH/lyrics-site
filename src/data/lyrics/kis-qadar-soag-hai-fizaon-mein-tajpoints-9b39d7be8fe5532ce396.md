@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9b39d7be8fe5532ce396
-# source_url: https://tajpoints.com/2017/02/kis-qadar-soag-hai-fizaon-mein.html
-# raw_sha256: bdc41d7956f321009d174a5d3a6522e1897469605aa0d80e5b5158c9fa65c161
 ---
 
 Kis Qadar Soag Hai Fizaon Mein.

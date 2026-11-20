@@ -46,9 +46,6 @@ romanLyrics: |-
   7
   Sirf aur sirf Husain ibn-e-Ali jaante haiṅ
   Kaise hoti hai Asad hamd-e-Khuda naize par
-# source_id: nohayonline:f33f9956139849dc56a9
-# source_url: https://www.nohayonline.com/details_content.php?id=2413
-# raw_sha256: 1410559b169c5c62a54ffaa8bbbccb724f0b458c617fcb0787ab05f35f210f93
 ---
 یا حسین مولا حسین
 

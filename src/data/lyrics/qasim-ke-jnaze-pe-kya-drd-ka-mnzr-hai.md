@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a3fbfd95fb2c1dd58c25
-# source_url: https://www.ziyaraat.net/api/noha/980
-# raw_sha256: 3759d36afbef5b96a4b0ce65589e59b515e53223ecee34772555b49f337b519d
 ---
 
 Qasim ke janazey pe kya dard ka manzar hay

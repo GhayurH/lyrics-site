@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cf645c4e82a05c69102f
-# source_url: https://tajpoints.com/2023/06/hussain-jate-hain-hasnain-abbas-lyrics.html
-# raw_sha256: debb53ec8e88bab8ab9be57349b1c9b1dc563dcf4bdaef475ed492ba28d07d5d
 ---
 
 Hussain Jate Hain Kabay Se Karbala Ki Taraf.

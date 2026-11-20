@@ -40,12 +40,6 @@ romanLyrics: |-
   6
   Sarfaraazi hai ye Rehaan Hasan Sadiq ki
   Apna sar Ghazi ke qadmoṅ meiṅ jhuka rakha hai
-# source_id: nohayonline:91017095a3fff173ad81
-# source_url: https://www.nohayonline.com/details_content.php?id=3367
-# raw_sha256: 2a2c83fc8ab28aea26d1046fc25c8d6d0fef1033e2b9558af1aa2e1183b172ae
-# source_id: tajpoints:96fed87a3438b3f9aa43
-# source_url: https://tajpoints.com/2023/03/hum-ne-ghazi-ka-alam-ghar-pe-saja-rakha.html
-# raw_sha256: 56ea1caf0c70ce888b776b04f20ffd1e9fe23981f0033cb343c2f9e95cd9f81b
 ---
 لا الہ کی جان ہے مولا غازی کا علم
 دین کی پہچان ہے مولا غازی کا علم

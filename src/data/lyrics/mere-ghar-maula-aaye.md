@@ -140,9 +140,6 @@ romanLyrics: |-
   Husain Husain Husaina
   Ghar ghar hai farsh-e-aza
   Husain Husain Husaina
-# source_id: nohayonline:19fae4691457a315b146
-# source_url: https://www.nohayonline.com/details_content.php?id=2261
-# raw_sha256: 879b8eaf8f0ea3a272153a7aa885f460448474778cbc4e88738a72acc913699c
 ---
 
 عزا کا چاند جب دیکھا

@@ -36,18 +36,6 @@ romanLyrics: |-
   Asghar se khelti hai khush hai bahut Sakina
   Jab chahti hai sona hai Baba jaaṅ ka sina
   Gham se na aashna hai Abbas jo zinda hai
-# source_id: nohawriteups:34a7e3cecdd274521386
-# source_url: https://www.nohawriteups.org/abbas-a-s-jo-zinda-hai/
-# raw_sha256: 2513ea0523d7a0ac04ef583f2070188c0ebeaefa61e9970549aeb408d7fdbc16
-# source_id: tajpoints:ec3afeb3bd35d2c73aa8
-# source_url: https://tajpoints.com/2022/11/abbas-jo-zinda-hai-nadeem-sarwar-lyrics.html
-# raw_sha256: 62db7cc1801471cf0e1e384efbfe5d25ab46348122d5c1da6acf5b7a21d01bcb
-# source_id: nohayonline:4f0ca0664ea657a05b3a
-# source_url: https://www.nohayonline.com/details_content.php?id=363
-# raw_sha256: cef9694798239397a27f65b92bdf6dd1d5a49d8457d8d7b0d95dba1749957a0f
-# source_poet: N. Sarwar & J. Jaffri
-# source_title_original: Abbas (A.S) Jo Zinda Hai
-# editorial_note: Aligned five three-line stanzas of Urdu and Roman variants. Source poet abbreviations and exact reciter attribution need separate manual adjudication. Repeated Roman refrain removed.
 ---
 
 محفوظ قافلہ ہے عباس جو زندہ ہے

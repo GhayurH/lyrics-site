@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a64c3d9139ebb905017
-# source_url: https://tajpoints.com/2019/05/nayi-sir-te-riya-nana-aj-babay-da-saya.html
-# raw_sha256: 0a3b238df6317122a030f3832e90c6a8af3d539af8e1f1403625575f3d20701a
 ---
 
 1

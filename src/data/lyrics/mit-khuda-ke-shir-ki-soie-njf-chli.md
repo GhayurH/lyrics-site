@@ -58,12 +58,6 @@ romanLyrics: 'Mayyat khuda ke sher ki suye najaf chali
   Mayyat uthao kaandho par zakhmi imam ki
 
   Kehte chalo yahan se najaf tak ali ali'
-# source_id: nohayonline:ebec2f1d0f1f4c5ae5f8
-# source_url: https://www.nohayonline.com/details_content.php?id=247
-# raw_sha256: de2ab2646ed76fb1b19dd3d4d77099c5a34c5efb9e8b7e6e3e9d39453e45c479
-# source_id: ziyaraat:cdaf9d13a3764bf984aa
-# source_url: https://www.ziyaraat.net/api/noha/1815
-# raw_sha256: e90debdacd6182ecf708214b3d7d8cdc8df39cf8bcef892b05dc33c19ac12685
 ---
 
 میت خدا کے شیر کی سوئے نجف چلی

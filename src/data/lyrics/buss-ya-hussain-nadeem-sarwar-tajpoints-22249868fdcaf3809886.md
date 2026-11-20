@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:22249868fdcaf3809886
-# source_url: https://tajpoints.com/2022/11/buss-ya-hussain-nadeem-sarwar-lyrics-in.html
-# raw_sha256: bdf7022da358edea05f76b4a105872b5829ec3760d2aa4a9e700ed5b95c6256a
 ---
 
 Buss Ya Hussain Nadeem Sarwar Lyrics

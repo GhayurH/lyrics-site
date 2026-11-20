@@ -62,9 +62,6 @@ romanLyrics: |-
   Godhi meiṅ leke sheh ne kaha ab na ho fughaṅ
   Meri sakina ko nind aa rahi hai
   Dil karbala mein reh gaya...
-# source_id: nohayonline:4aa0e6cbc69761b77e16
-# source_url: https://www.nohayonline.com/details_content.php?id=2675
-# raw_sha256: f2aab52bf078a10b390a6628e0a5969bd280c6c95b419b7a88e37b7ca742e2a9
 ---
 
 ۱

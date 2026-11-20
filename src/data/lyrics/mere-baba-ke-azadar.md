@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:cabf4c544e5cbeb5a509
-# source_url: https://www.ziyaraat.net/api/noha/2117
-# raw_sha256: 5f2c14ce118318f5a6c1bbd542fcc35f4329b820e82aa0bf8148f5018230a0a2
 ---
 
 Mere baba ke azadar

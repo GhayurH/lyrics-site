@@ -8,9 +8,6 @@ poet: "Ashhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d36e4349ad6e0f2b513d
-# source_url: https://tajpoints.com/2020/03/dikha-ke-josh-e-tawala-ali-ali-bolay.html
-# raw_sha256: b98e27c9f72004456b3d042d938afbcecd84a4bee75d670bf582c5cd22c3b68a
 ---
 
 Dikha Ke Josh-e-Tawala Ali Ali Bolay.

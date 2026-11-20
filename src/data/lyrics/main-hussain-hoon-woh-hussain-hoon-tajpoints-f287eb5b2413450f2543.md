@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f287eb5b2413450f2543
-# source_url: https://tajpoints.com/2018/09/main-hussain-hoon-woh-hussain-hoon.html
-# raw_sha256: 2d87eeae947535e2c88aec2d08f28876ad85b72f7e4fadde2a050a7d2a2b1894
 ---
 
 1

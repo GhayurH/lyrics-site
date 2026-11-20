@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bd50ed8334236fe171ff
-# source_url: https://tajpoints.com/2023/04/qatal-masjid-main-qully-eman-ho-gaya.html
-# raw_sha256: fc49020b146b2750804e8506d42978d8a1826b54605440dc1079017ff8f5e822
 ---
 
 1

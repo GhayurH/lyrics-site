@@ -64,9 +64,6 @@ romanLyrics: |-
   Hameṅ kal se mohlat na deṅge shaqi
   Qarib aane waala hai waqt-e-sahar
   Phuphi mujh se pehra badal lijiye
-# source_id: nohayonline:d2114a56db0974d7e00e
-# source_url: https://www.nohayonline.com/details_content.php?id=3553
-# raw_sha256: aeca8b92622d613a37184972cc88d5782e0e1304cc50f08753cfbb3773274146
 ---
 شامِ غربت
 ہے ام المصائب لقب آپ کا

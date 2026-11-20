@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0d796ae160ddd1b9b02f
-# source_url: https://tajpoints.com/2022/03/bibi-zainab-ki-guftar-azadar-e-batool.html
-# raw_sha256: ff201e36078e070aa2dc88043d60b52c0988974fce4d41454401d339c30c5bab
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:536bc48327feb0631df9
-# source_url: https://tajpoints.com/2020/12/hawa-par-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: a4ce6518d4e53c240406149eb03c18e3c4248eacc86444ef4594c7b78827de3e
 ---
 
 Pabandi Lagaye Koi Be Peer Hawa Par.

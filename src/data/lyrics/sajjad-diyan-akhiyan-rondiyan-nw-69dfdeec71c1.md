@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:69dfdeec71c1e3709d12
-# source_url: https://www.nohawriteups.org/sajjad-diyan-akhiyan-rondiyan/
-# original_html: snapshots/nohawriteups/original_html/69dfdeec71c1e3709d12.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/69dfdeec71c1e3709d12.json
-# api_content_sha256: bf106f977ebb13818de77be72bc4a06964791cab3ca435a5bcd18c0a1398ea53
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sajjad Diyan Akhiyan Rondiyan

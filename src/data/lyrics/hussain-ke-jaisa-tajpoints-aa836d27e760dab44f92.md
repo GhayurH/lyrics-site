@@ -8,9 +8,6 @@ poet: "Mukhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aa836d27e760dab44f92
-# source_url: https://tajpoints.com/2020/11/hussain-ke-jaisa-lyrics-in-urdu-and.html
-# raw_sha256: 99a0b380ec83264879695edbf8e828d47e84cc2b7ac1cd460cb69578067bc946
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:288bb918261ecd5a3d35
-# source_url: https://tajpoints.com/2022/07/shah-e-deen-ka-hosla-abbas-hai-sarwar.html
-# raw_sha256: 692bae21457bb18cc5a984a5912d19335ef6bf05a769105d8b61c18304048150
 ---
 
 1

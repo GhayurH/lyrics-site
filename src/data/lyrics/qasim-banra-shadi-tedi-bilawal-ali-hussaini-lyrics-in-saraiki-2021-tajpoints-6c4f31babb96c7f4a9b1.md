@@ -8,9 +8,6 @@ poet: "Johar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6c4f31babb96c7f4a9b1
-# source_url: https://tajpoints.com/2021/08/qasim-banra-shadi-tedi-bilawal-ali.html
-# raw_sha256: 58c4057091326dc67a91cfa64b0295728459ae0ea0f9515ae27605cdf61b92f5
 ---
 
 Qasim Banra Shadi Tedi Bilawal Ali Hussaini.

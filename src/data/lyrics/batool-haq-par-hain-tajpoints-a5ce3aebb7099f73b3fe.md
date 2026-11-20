@@ -8,9 +8,6 @@ poet: "Naeem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a5ce3aebb7099f73b3fe
-# source_url: https://tajpoints.com/2020/02/batool-haq-par-hain-lyrics-in-urdu-and.html
-# raw_sha256: 6eb9969838a587c37b2f680ec0d0960b0503b320d5711f06823d8231995c47d8
 ---
 
 Hai Anbiya Ka Aqeeda Batool Haq Par Hain.

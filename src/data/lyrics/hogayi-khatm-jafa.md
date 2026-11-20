@@ -28,14 +28,6 @@ romanLyrics: |-
   4
   Saath chhora nahiṅ Zainab ne kabhi bhaai ka
   Sar barehna phiri dar dar sar-e-Shabbir ke saath
-# source_id: nohayonline:55e1d9d5ea7deaf04633
-# source_url: https://www.nohayonline.com/details_content.php?id=523
-# raw_sha256: 2e21b58cc03ea4dab759f834d394baed072c3dd209edb7678ceb55348736f95a
-# source_id: nohawriteups:d6f0c56cf4c273262982
-# source_url: https://www.nohawriteups.org/hogayi-khatm-jafa/
-# original_html: snapshots/nohawriteups/original_html/d6f0c56cf4c273262982.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d6f0c56cf4c273262982.json
-# api_content_sha256: 5de6cdf9667b9bcd49329800ca93461cee8a0a20b4a1ffa4683f8c637b94b5aa
 ---
 
 اصغرِ بے شِیر کے ساتھ ہو گئے ختم جفا

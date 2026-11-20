@@ -63,9 +63,6 @@ romanLyrics: |-
   Aamir-e-haziṅ ye sun ke bain
   Gir gayi tarap ke ek maaṅ
   Ae phuphi Sakina mar gayi
-# source_id: nohayonline:a2701f616ffd6ace7c1e
-# source_url: https://www.nohayonline.com/details_content.php?id=1810
-# raw_sha256: 5c8831905bdd05fec1b3297ca36bb8c933a6fe06634dfad4ec361555975cac99
 ---
 کہتا تھا تڑپ کے ناتواں
 اے پھپھی سکینہ مر گئی

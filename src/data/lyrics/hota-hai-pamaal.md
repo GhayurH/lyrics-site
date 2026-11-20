@@ -66,9 +66,6 @@ romanLyrics: |-
   Bekafan laash pe rahwaaroṅ ne jab sum patkhe
   Pisar-e-Saad yehi kehta raha hans hans ke
   Pasliyaaṅ tuteṅ to aawaaz sunaai de mujhe
-# source_id: nohayonline:a3421cf61427f9aad258
-# source_url: https://www.nohayonline.com/details_content.php?id=2806
-# raw_sha256: b19c73f651a0e4065011db674e76d82b7706f945555d30ca86c525d8d64fd321
 ---
 کتنا مظلوم ہے شبیر سنو اہلِ عزا
 تیرا ضربوں سے گلا شمر نے جب کاٹ دیا

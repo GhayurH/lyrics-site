@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:617513a12b01d9040388
-# source_url: https://tajpoints.com/2020/04/kaisay-phir-oss-hussain-pe-salle-ala-na.html
-# raw_sha256: 1775e81bd2091a370dfe306b30d68986561442504338338348b1fac054acfa1f
 ---
 
 Kaisay Phir Oss Hussain Pe Salle Ala Na Ho.

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8255cc0e3577bcc6050a
-# source_url: https://www.nohawriteups.org/nikla-wo-sher-khaime-ke-baahar-alam-liye/
-# original_html: snapshots/nohawriteups/original_html/8255cc0e3577bcc6050a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8255cc0e3577bcc6050a.json
-# api_content_sha256: 598acc0f98dba4bf7e046b003c57caef5b517fcc30c4672de91a32d2cfc3d9f7
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Nikla wo sher khaime ke baahar alam liye

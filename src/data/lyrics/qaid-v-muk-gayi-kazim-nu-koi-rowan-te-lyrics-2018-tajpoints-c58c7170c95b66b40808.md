@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c58c7170c95b66b40808
-# source_url: https://tajpoints.com/2018/04/qaid-v-muk-gayi-kazim-nu-koi-rowan-te.html
-# raw_sha256: c2a457836c6abda36b9fa4d96df8c5695615b26286a38b8ad5143b79a53a8641
 ---
 
 Qaid V Muk Gayi Kazim Nu Koi Rowan Te Aaye

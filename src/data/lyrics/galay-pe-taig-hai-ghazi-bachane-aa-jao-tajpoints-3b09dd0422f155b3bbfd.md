@@ -8,9 +8,6 @@ poet: "Naqsh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3b09dd0422f155b3bbfd
-# source_url: https://tajpoints.com/2019/09/galay-pe-taig-hai-ghazi-bachane-aa-jao.html
-# raw_sha256: 0128963faceb3dc2fd057b2f60b0e3b359b8ed1d0b523c9539d6b9ab923a3e11
 ---
 
 1

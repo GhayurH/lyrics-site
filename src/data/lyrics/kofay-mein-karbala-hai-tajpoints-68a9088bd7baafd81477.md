@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:68a9088bd7baafd81477
-# source_url: https://tajpoints.com/2020/05/kofay-mein-karbala-hai-lyrics-in-urdu.html
-# raw_sha256: 664c3ab0080691c9d78cf35f534ff0a86d78453d9c891aed7d847b909bc178e6
 ---
 
 Howa Qatal Murtaza Hai Kofay Mein Karbala Hai.

@@ -8,9 +8,6 @@ poet: "Tanveer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc65c892515e60bfa178
-# source_url: https://tajpoints.com/2024/03/shah-e-najaf-de-sir-te-khanjar-shaqi.html
-# raw_sha256: a07fdbe62924086747d6c758db7ee446ec58fd466fe23795fa7a3070cc717eb9
 ---
 
 Shah e Najaf De Sir Te Khanjar Shaqi Chalaya.

@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:01009a030284c09a081a
-# source_url: https://tajpoints.com/2021/08/syed-e-sajjad-nay-meesum-kashmiri.html
-# raw_sha256: 15b802a8cf750e11d1cb8a68125485b532fe7b1e15f948329cd451c1af1473ef
 ---
 
 Syed e Sajjad Nay Meesum Kashmiri.

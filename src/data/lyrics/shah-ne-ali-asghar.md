@@ -43,9 +43,6 @@ romanLyrics: |-
   6
   Kiuṅ qabr ki taariki dhamkaae Muravvat ko
   Nauha Ali Asghar ka marqad meiṅ parha hoga
-# source_id: nohayonline:64f746bfa22cdce2a667
-# source_url: https://www.nohayonline.com/details_content.php?id=2639
-# raw_sha256: 1ae8fc8e13beab2c37ac19aef4b13ebb3b990755e79fc660b723b2be9aec436d
 ---
 ہاے عباس کیا سنو گے میرے درد کی خبر
 آیا ہوں میں سکینہ کو بیہوش چھوڑ کر

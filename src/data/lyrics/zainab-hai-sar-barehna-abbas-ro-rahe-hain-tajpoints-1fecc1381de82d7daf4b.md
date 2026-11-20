@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1fecc1381de82d7daf4b
-# source_url: https://tajpoints.com/2019/09/zainab-hai-sar-barehna-abbas-ro-rahe.html
-# raw_sha256: 2505bbc12a507a28a4961c6b8c9d446b4d8f8b9a309fd23c17d60512d71aebad
 ---
 
 1

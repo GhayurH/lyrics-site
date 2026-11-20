@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:767415babd1298adc435
-# source_url: https://tajpoints.com/2017/03/haye-deway-jala-ke-wichari-sughra-kare.html
-# raw_sha256: 24a8664bdf3a3ea394ba2544b9a3ae0757d8a64d51c68d7e8768e73be9ce3d6f
 ---
 
 Haye Deway Jala Ke Wichari Sughra Kare Duawaan.

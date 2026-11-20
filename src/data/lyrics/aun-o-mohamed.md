@@ -1,108 +1,128 @@
 ---
-title: "زینب نے کہا نورِ نظر عون و محمد"
-alternateTitle: "Aun o Muhammad"
+title: "ہے خون میں ڈوبے ہوے حیدر کے نواسے"
+alternateTitle: "Aun O Mohamed"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Ishrat Lakhnavi"
+poet: "Ali Fitrat"
 tags: []
 aliases: []
-published: true
+published: false
 romanLyrics: |-
-  Zainab ne kaha nur-e-nazar Aun o Muhammad
-  Tum kar gaye dunya se safar Aun o Muhammad
+  Hai khun meiṅ dube huwe hyder ke nawase
+  Aun o mohamed aun o mohamed
 
   1
-  Tum log bhi mamuṅ pe fida ho gaye ran meiṅ
-  Aayi hai ye maqtal se khabar Aun o Muhammad
+  Jafer ke hai pote
 
   2
-  Didaar ki hasrat meiṅ musalsal meri aankheiṅ
-  Dhundegi tumheiṅ shaam o sahar Aun o Muhammad
+  Abdullah ke pyare
 
   3
-  Ye sochna maaṅ baithi hai nazdik tumhare
-  Aajaye meri yaad agar Aun o Muhammad
+  Zainab ke dulaare
 
   4
-  Tum ye na samajhna maiṅ tumheiṅ bhul gayi huṅ
-  Hai dil pe judaai ka asar Aun o Muhammad
+  Shabbir ke pyare
 
   5
-  Ye soch ke kab khelte aajao mere paas
-  Darwaze pe rehti hai nazar Aun o Muhammad
+  Sarwar ke sahare
 
   6
-  Phir tum pe naye zulm ki yalghaar na ho jaye
-  Har waqt laga rehta hai darr Aun o Muhammad
+  Azmat ke sitaare
 
   7
-  Jis waqt Madine meiṅ qadam rakhuṅgi jaa kar
-  Viraan nazar aayega ghar Aun o Muhammad
+  Rif'fat ke ujaale
 
   8
-  Jis roz se khoya hai tumheiṅ Karb o Bala meiṅ
-  Daaman mera ashkoṅ se hai tar Aun o Muhammad
+  Quran e shuja ke
 
   9
-  Mehsus ye hota hai mujhe ae mere beta
-  Tum laut ke aa jaaoge ghar Aun o Muhammad
+  Tum dono ho paare
 
   10
-  Jis waqt chali jaati huṅ hujre meiṅ tumhare
-  Taklif se uthta nahiṅ sar Aun o Muhammad
+  Ghazi ke chahite
 
   11
-  Ishrat hai abhi tak yehi Zainab ki sadaaeiṅ
-  Aajao ke phatta hai jigar Aun o Muhammad
-# source_id: nohayonline:6c89f004fd37ec37c9c4
-# source_url: https://www.nohayonline.com/details_content.php?id=2205
-# raw_sha256: 4cfb1c7c6410b521a3a9f5e43827efc294cbce21126f647a16c963a9739c8d5c
+  Islam panayi meiṅ lare aisi ada se
+  Dikhlaye gaye shaan kayi roz ke pyase
+  bejaan diye palte na maidane wigha se
+
+  12
+  Zainab ke khazane ke ye anmol gohar hai
+  Islam ki aankhoṅ ke ye do nur e nazar
+  Shamshir hai mamu ke to emaan ke sipar hai
+
+  13
+  Zinda na kisi sarkash o maghrur ko chora
+  Kya maimana kya maisara har morcha tora
+  Laakhoṅ se lare fauj ke har bal ko maroda
+
+  14
+  Zakhmoṅ se lahu behta hai tayghoṅ se badan chur
+  Maa kehti hai bache meri aankhoṅ meiṅ nahi nur
+  Hai maamta nazdik magar mai hoo bahot dur
+
+  15
+  Ghore se gire jalti hui khaak pe jarraar
+  Ek shor utha chal base mamu ke tarafdaar
+  Dil par ali fitrat giri ek barkh shar arbaar
 ---
-زینب نے کہا نورِ نظر عون و محمد
-تم کر گئے دنیا سے سفر عون و محمد
+
+ہے خون میں ڈوبے ہوے حیدر کے نواسے
+عون و محمد عون و محمد
 
 ۱
-تم لوگ بھی ماموں پہ فدا ہو گئے رن میں
-آئی ہے یہ مقتل سے خبر عون و محمد
+جعفر کے ہیں پوتے
 
 ۲
-دیدار کی حسرت میں مسلسل میری آنکھیں
-ڈھونڈے گی تمہیں شام و سحر عون و محمد
+عبداللہ کے پیارے
 
 ۳
-یہ سوچنا ماں بیٹھی ہے نزدیک تمہارے
-آجائے میری یاد اگر عون و محمد
+زینب کے دلارے
 
 ۴
-تم یہ نہ سمجھنا میں تمہیں بھول گئی ہوں
-ہے دل پہ جدائی کا اثر عون و محمد
+شبیر کے پیارے
 
 ۵
-یہ سوچ کے کب کھیلتے آجاؤ میرے پاس
-دروازے پہ رہتی ہے نظر عون و محمد
+سرور کے سہارے
 
 ۶
-پھر تم پہ نئے ظلم کی یلگار نہ ہو جائے
-ہر وقت لگا رہتا ہے ڈر عون و محمد
+عظمت کے ستارے
 
 ۷
-جس وقت مدینے میں قدم رکھوں گی جا کر
-ویران نظر آئے گا گھر عون و محمد
+رفعت کے اجالے
 
 ۸
-جس روز کھویا ہے تمہیں کربوبلا میں
-دامن میرا اشکوں سے ہے تر عون و محمد
+قرآن شجا کے
 
 ۹
-محسوس یہ ہوتا ہے مجھے اے میرا بیٹا
-تم لوٹ کے آ جاؤ گے گھر عون و محمد
+تم دونوں ہو پارے
 
 ۱۰
-جس وقت چلی جاتی ہوں حجرے میں تمہارے
-تکلیف سے اٹھتا نہیں سر عون و محمد
+غازی کے چہیتے
 
 ۱۱
-عشرت ہے ابھی تک یہی زینب کی صدائیں
-آجاؤ کہ پھٹتا ہے جگر عون و محمد
+اسلام پنای میں لڑے ایسی ادا سے
+دکھلاے گےء شان کیء روز کے پیاسے
+بے جان دیےء پلٹے نہ میدان وغا سے
+
+۱۲
+زینب کے خزانے کے یہ انمول گوہر ہے
+اسلام کی آنکھوں کے یہ دو نور نظر ہے
+شمشیر ہے مامو کے تو ایمان کے سپر ہے
+
+۱۳
+زندہ نہ کسی سرکش و مغرور کو چھوڑا
+کیا میمانہ کیا میسرا ہر مورچہ توڑا
+لاکھوں سے لڑے فوج کے ہر بل کو مروڑا
+
+۱۴
+زخموں سے لہو بہتا ہے تیغوں سے بدن چور
+ماں کہتی ہے بچے میری آنکھوں میں نہیں نور
+ہے مامتا نزدیک مگر میں ہوں بہت دور
+
+۱۵
+گھوڑے سے گرے جلتی ہُوئی خاک پہ جرار
+اک شور اٹھا چل بسے مامو کے طرفدار
+دل پر علی فطرت گری اک برق شر اربار

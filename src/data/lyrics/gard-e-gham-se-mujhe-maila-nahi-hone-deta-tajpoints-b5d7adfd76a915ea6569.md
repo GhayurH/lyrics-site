@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b5d7adfd76a915ea6569
-# source_url: https://tajpoints.com/2017/02/gard-e-gham-se-mujhe-maila-nahi-hone.html
-# raw_sha256: 60d4b19a7ee4292641470373a79f9cb02a1fa505b9ee956f346db211a79f69d7
 ---
 
 Gard-e-Gham Se Mujhe Maila Nahi Hone Deta.

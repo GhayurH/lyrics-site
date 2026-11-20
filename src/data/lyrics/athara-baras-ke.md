@@ -70,12 +70,6 @@ romanLyrics: |-
   14
   Ishrat maiṅ bayaaṅ kaise karuṅ kaise utha tha
   Maqtal ki zamiṅ se Shah-e-besar ka janaaza
-# source_id: nohayonline:4a4ad555ad7767473df0
-# source_url: https://www.nohayonline.com/details_content.php?id=392
-# raw_sha256: 791442a11eeea288cadaddd1193e77966137241b71071c101606c03e4343f33e
-# source_id: nohayonline:674ee33b652176915222
-# source_url: https://www.nohayonline.com/details_content.php?id=147
-# raw_sha256: da273b0e5d562ae6be0e5699d77425ae74b723c95101b40a6901181755f241d8
 ---
 
 اکبر کا جنازہ

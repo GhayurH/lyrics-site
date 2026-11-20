@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6c8cd71223ab65534e86
-# source_url: https://tajpoints.com/2023/07/kyun-na-serab-kare-sibt-e-nabi-ka.html
-# raw_sha256: 8cb7b004b79b7825d1d24bf7de6c6a524ce29f11484750c90a5f4ccb7bc302d9
 ---
 
 Kyun Na Serab Kare Sibt e Nabi Ka Lashkar Hasnain Akbar

@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0fab11776815732361da
-# source_url: https://tajpoints.com/2022/10/jibreel-murtaza-ko-dulha-bana-rahe-hain.html
-# raw_sha256: 19cd163c8dced7446b4444e978d7aa9589b3ab5e71e3baf836b424821b309ed3
 ---
 
 1

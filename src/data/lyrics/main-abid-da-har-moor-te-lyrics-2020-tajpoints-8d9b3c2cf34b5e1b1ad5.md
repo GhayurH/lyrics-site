@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8d9b3c2cf34b5e1b1ad5
-# source_url: https://tajpoints.com/2024/04/main-abid-da-har-moor-te-lyrics.html
-# raw_sha256: 78c5db59a2dab438c165e968b3b8a65b9c2eb259d1221f229996894116d52a41
 ---
 
 Main Abid Da Har Moor Te Pathraan Ne Dard Wandaya.

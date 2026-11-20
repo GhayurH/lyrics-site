@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0477c9c43ce5622c30fd
-# source_url: https://tajpoints.com/2023/06/asghar-tere-jholay-nu-jhulawan-aa-ja.html
-# raw_sha256: a67978c97a21894e96ca047698a67e8323d79bfda3882d425f2eb72f1f02ce6b
 ---
 
 1

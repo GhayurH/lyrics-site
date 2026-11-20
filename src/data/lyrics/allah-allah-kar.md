@@ -70,9 +70,6 @@ romanLyrics: |-
   Takallum aur hai darvesh ki tamanna yehi
   Khudara jism ko tum jaan se juda na karo
   Namaz aur aza ka muqabla na karo
-# source_id: nohayonline:6cace0b5fdd0622671d6
-# source_url: https://www.nohayonline.com/details_content.php?id=954
-# raw_sha256: 34fbef7bc482614739fef0fc1912f2b02259ad6549d8cc151c1c46ee77f3fbfb
 ---
 
 ۱

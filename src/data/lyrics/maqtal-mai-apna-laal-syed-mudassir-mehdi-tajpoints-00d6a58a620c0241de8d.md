@@ -8,9 +8,6 @@ poet: "Murtajiz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:00d6a58a620c0241de8d
-# source_url: https://tajpoints.com/2026/07/maqtal-mai-apna-laal-syed-mudassir-mehdi.html
-# raw_sha256: 038fa396cec5f4b67e69d629cc0c27508c2187ca45eeb79b922e75f7c48b7091
 ---
 
 Maqtal Mein Apna Lal Sulaye Gi Fatima.

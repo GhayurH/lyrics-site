@@ -8,9 +8,6 @@ poet: "Salman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d305b8d54396cccb49d9
-# source_url: https://tajpoints.com/2019/12/parwarish-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: a471837ced31e63073459d6a038a3428ef0760b9e32eda46656b2709a7d23458
 ---
 
 1

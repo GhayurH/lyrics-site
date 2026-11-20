@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d084602cb2f8bd130786
-# source_url: https://tajpoints.com/2019/04/jis-ne-ik-bar-tumhein-dil-se-pukara.html
-# raw_sha256: 874d14efe40ae028bd7d21f99e2246783577add659622e3298fb5f908afd86f0
 ---
 
 1

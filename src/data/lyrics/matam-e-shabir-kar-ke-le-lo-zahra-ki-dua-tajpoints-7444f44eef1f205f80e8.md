@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7444f44eef1f205f80e8
-# source_url: https://tajpoints.com/2017/02/matam-e-shabiras-kar-ke-le-lo-zahrasa.html
-# raw_sha256: 83060adbe665dee249f56b1a30dbcaaed229aae05f17ad573182e667663db5f6
 ---
 
 1

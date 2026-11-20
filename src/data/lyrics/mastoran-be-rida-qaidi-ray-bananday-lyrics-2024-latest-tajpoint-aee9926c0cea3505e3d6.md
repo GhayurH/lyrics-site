@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:aee9926c0cea3505e3d6
-# source_url: https://tajpoint.com/mastoran-be-rida-qaidi-ray-bananday-lyrics-2024/
-# raw_sha256: 318d9a1b9179de86c2304a3877db88206093ebd9efccfe84367a47940b29d4e8
 ---
 
 Mastoran Be Rida Qaidi Ray Bananday.

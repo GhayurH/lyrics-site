@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9e4064f5b0d248bcc0dd
-# source_url: https://tajpoints.com/2017/02/koi-tu-bulaye-mujh-ko-keh-ke-sakinasa.html
-# raw_sha256: bc0fd021eb470fbe8c17675b3aba9d36549cd2a2495510efcf16c43e4d474cb8
 ---
 
 1

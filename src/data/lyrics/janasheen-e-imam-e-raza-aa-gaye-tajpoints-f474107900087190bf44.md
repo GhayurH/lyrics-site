@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f474107900087190bf44
-# source_url: https://tajpoints.com/2023/01/janasheen-e-imam-e-raza-aa-gaye-lyrics.html
-# raw_sha256: 414a009f3a46a7c35b95b2ca851c73a04645ec2b722a33a4fc1d4005cc5bbd61
 ---
 
 Janasheen-e-Imam-e-Raza Aa Gaye.

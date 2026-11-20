@@ -8,9 +8,6 @@ poet: "Sanagar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a6815995d3ee5650b72c
-# source_url: https://tajpoints.com/2026/09/lout-kar-qafla-aya-sagar-ali-bhatti.html
-# raw_sha256: 1241f6af2877f5edc46f0d75c89d4e862d8fad00932f53792190fc4a092aefd6
 ---
 
 1

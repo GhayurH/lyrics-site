@@ -8,9 +8,6 @@ poet: "Mirza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0cbdd518b01649410b90
-# source_url: https://tajpoints.com/2021/01/pasliyaan-toot-gayin-lyrics-in-urdu-and.html
-# raw_sha256: f74cf66be33d89bbe5aa7d348ca5c2f413e39be9e5e79b4a83e989397b169bf5
 ---
 
 Pasliyaan Toot Gayin Zakhm Chupaya Na Gaya.

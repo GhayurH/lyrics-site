@@ -61,9 +61,6 @@ romanLyrics: |-
   Mazlum pyaasa tanha khara tha
   Maqtal meiṅ Zehra ki thi sada
   Wavaila
-# source_id: nohayonline:10b469b3fbba9a09d51b
-# source_url: https://www.nohayonline.com/details_content.php?id=1718
-# raw_sha256: 1d1a69c48361d160ea66f5547d33a374d181c45bf98a3aa7f7bbd6e7f65b0509
 ---
 یابن ازہرا واویلا
 

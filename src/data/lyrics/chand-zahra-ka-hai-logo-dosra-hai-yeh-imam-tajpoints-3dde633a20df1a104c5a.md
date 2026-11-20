@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3dde633a20df1a104c5a
-# source_url: https://tajpoints.com/2018/05/chand-zahra-ka-hai-logo-dosra-hai-yeh.html
-# raw_sha256: dcfeef80bced632db87769a012aabc64cbf4e48de3155ee6cad93d3ba192e6f1
 ---
 
 1

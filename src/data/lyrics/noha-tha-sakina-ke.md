@@ -57,9 +57,6 @@ romanLyrics: |-
   Hai saara zamaana ae Gohar
   Kehti thi jo bachchi ro ro kar
   Zindaaṅ meiṅ andhera gehra hai
-# source_id: nohayonline:f0f3fe304dbc59e58a2a
-# source_url: https://www.nohayonline.com/details_content.php?id=655
-# raw_sha256: 55290bebe9e243ad0a1d0f3497b0789854b41f23e4120ff8c746d4f2d287ab17
 ---
 
 نوحہ تھا سکینہ کے لب پر

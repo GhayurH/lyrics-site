@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:343f8e4bae35b9f4eb0f
-# source_url: https://tajpoints.com/2019/02/main-oss-ki-manqabat-mein-kahan-bolne.html
-# raw_sha256: 7316dc11d2f8d0bf4368891ff04735e071a40c40bcfb3ff940f4eb1c814c4bd2
 ---
 
 1

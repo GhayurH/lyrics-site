@@ -8,12 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e84214da3d333188dbbe
-# source_url: https://www.nohawriteups.org/boli-zehra/
-# original_html: snapshots/nohawriteups/original_html/e84214da3d333188dbbe.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e84214da3d333188dbbe.json
-# api_content_sha256: bc8f3dc834d74800452218161e72141aebfa75783f22c3c03bd8c477376045e1
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Boli Zehra Zainab Ka Yun Saath Nibhana

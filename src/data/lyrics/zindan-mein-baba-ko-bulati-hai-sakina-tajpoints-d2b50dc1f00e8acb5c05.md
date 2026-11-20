@@ -8,9 +8,6 @@ poet: "Laeeq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d2b50dc1f00e8acb5c05
-# source_url: https://tajpoints.com/2019/10/zindan-mein-baba-ko-bulati-hai-sakina.html
-# raw_sha256: 4c4eaeb728a7a5c9fa06ca4854ecc9ed030199d4e52e3f91d2e3496c6c57d930
 ---
 
 Zulmat Ki Aandhiyon Mein Sakina Youn Kho Gayi.

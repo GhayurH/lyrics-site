@@ -48,9 +48,6 @@ romanLyrics: |-
   Fi maatamil Husain mazlum-e-Karbala
   Karbala ye tu qibla-e-dilam arbaab-e-man
   Aagha-e-man
-# source_id: nohayonline:9152e1ffd30260dbec4b
-# source_url: https://www.nohayonline.com/details_content.php?id=3571
-# raw_sha256: 4e005d10b8f7ce7b823075bbf841c1cb3e47aff9b38462c56825980ccda667be
 ---
 
 آرزوے دل من محرم درد دل من

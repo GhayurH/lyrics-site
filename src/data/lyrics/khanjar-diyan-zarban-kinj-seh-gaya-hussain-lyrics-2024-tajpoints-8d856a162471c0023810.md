@@ -8,9 +8,6 @@ poet: "Tosif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8d856a162471c0023810
-# source_url: https://tajpoints.com/2024/05/khanjar-diyan-zarban-kinj-seh-gaya.html
-# raw_sha256: 7605f027d291355f08f92d38920397778dbfebe577bbd51ca229d29760221cb8
 ---
 
 1

@@ -33,9 +33,6 @@ romanLyrics: |-
   Qadam qadam pe shahid hona hai teri Zainab ne
   Hai us ke sath safar may, tha jis ne Akbar ko
   Hae barchi mari hai
-# source_id: ziyaraat:09875bb45426d301c5ee
-# source_url: https://www.ziyaraat.net/api/noha/2885
-# raw_sha256: e6f4d01a3144a9dd6edce8425b18f86c0e2603dab5d57a18e964bfeec9ba366b
 ---
 
 ۱

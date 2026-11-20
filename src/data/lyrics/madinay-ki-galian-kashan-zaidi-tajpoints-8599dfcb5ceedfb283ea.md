@@ -8,9 +8,6 @@ poet: "Kashan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8599dfcb5ceedfb283ea
-# source_url: https://tajpoints.com/2025/11/madinay-ki-galian-kashan-zaidi-lyrics.html
-# raw_sha256: c7e79056494db5c7642ca05c5d5c23ebc19686aa92af515126067a51c7b14e5a
 ---
 
 1

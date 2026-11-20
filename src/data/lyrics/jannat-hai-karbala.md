@@ -110,14 +110,6 @@ romanLyrics: |-
   Aur yehi kahte raho
   Jannat hai rauza tera
   Jannat hai puri ye Karb o bala
-# source_id: nohayonline:ec3ab922b0079aeec234
-# source_url: https://www.nohayonline.com/details_content.php?id=986
-# raw_sha256: 6d6c12c9c643326576cfa0e3ef109ae33aee852696ef745e5ff7ea45a4924b45
-# source_id: nohawriteups:fffdef531c974ddcd4ff
-# source_url: https://www.nohawriteups.org/jannat-hai-karbala/
-# original_html: snapshots/nohawriteups/original_html/fffdef531c974ddcd4ff.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/fffdef531c974ddcd4ff.json
-# api_content_sha256: e78b515207309deabaa3c537f55c3fdb9c1fdb2b2348cd760bc293ddd69778ab
 ---
 آتے ہیں زائرین کربوبلا
 ہاتھوں میں لے کے نشان وفا

@@ -8,9 +8,6 @@ poet: "Sabeeh"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:36dcff987755a32ba4f3
-# source_url: https://tajpoints.com/2018/02/fatima-ka-dilruba-mashhad-mein-hai.html
-# raw_sha256: 95af979cf782dabdbd22a18484298c852d3b5b2444cddc7386967714a305f61d
 ---
 
 Fatima Ka Dilruba Mashhad Mein Hai.

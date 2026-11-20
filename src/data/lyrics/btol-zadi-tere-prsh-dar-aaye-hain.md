@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7d24760117ce1cf5c63e
-# source_url: https://www.ziyaraat.net/api/noha/2242
-# raw_sha256: 2c0e59eb6fe00d04f491642962bf359aa1bde79ae2ec5619f589427a3a1a50de
 ---
 
 Batool zadi teray pursa dar aaye hain

@@ -9,13 +9,6 @@ poet: "Mir Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c7d731d0d663989a7ca8
-# source_url: https://tajpoints.com/2017/02/de-ke-awaz-baap-ko-akbaras-sochte-hain.html
-# raw_sha256: 992e77e93d29190e2f320fa7c47505bf70729b18708dda1dae91865e52caf682
-# additional_source_id: nohawriteups:4141682dd0ea04ff4bb2
-# additional_source_url: https://www.nohawriteups.org/deke-awaaz-baap-ko/
-# additional_raw_sha256: 06d395136efc37683f7c0af0d726b0464d32599407b990b37fc16692ebffe706
-# additional_source_note: All eight substantive source stanzas already represented in TajPoints Roman; existing TajPoints numbered groups split successive stanzas and must be manually realigned. No unique verse absent.
 
 ---
 

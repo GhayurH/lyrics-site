@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c7816addfb1f3f8c4f80
-# source_url: https://tajpoints.com/2021/10/haye-lasha-e-hassan-arif-baltistani.html
-# raw_sha256: d176c3af74b6799a9afb41ff1f9f3666c07aaeb333433ef2ffa9253ac8e757f2
 ---
 
 Tauheen Ki Gayi Hai Haye Lasha-e-Hasan Ki.

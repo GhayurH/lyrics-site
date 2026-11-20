@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e7999587e4b76efd111a
-# source_url: https://tajpoints.com/2017/02/yehi-ik-naam-hai-sacha-alias-mola.html
-# raw_sha256: 3564c25e3da496a633b2e3c276bc0ed92538bbdecfc6c81ffd29e255b57d6bdc
 ---
 
 Zahran Bint-e-Asad Ka Lal Hao Jo.

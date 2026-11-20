@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7fb76af764d4749cf2b8
-# source_url: https://tajpoints.com/2020/03/dar-e-abbas-par-lyrics-in-urdu-and.html
-# raw_sha256: d9c77d49044cff0ec411a5c3c1a4a0352ea7dd314c5e3fe3c100afdfcbe0f9ad
 ---
 
 1

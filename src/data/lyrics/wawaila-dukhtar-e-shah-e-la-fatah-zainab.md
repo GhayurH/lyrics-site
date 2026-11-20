@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:17299eefe97b3ea211c4
-# source_url: https://www.ziyaraat.net/api/noha/260
-# raw_sha256: d3476b0d7354f59863807927e577fc782e9e79453cd7f76b2124f25c23a58ce2
 ---
 
 Wawaila haey Wawaila

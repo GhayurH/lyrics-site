@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:46ee8f7694aea4bb5938
-# source_url: https://www.ziyaraat.net/api/noha/2893
-# raw_sha256: a6d737935c22eb8a873f3e2d58a9263144bcaae153c6e50622b3ca4b40747c44
 ---
 
 سجّادؑ کے جگر کا، آنکھوں سے خوں رواں

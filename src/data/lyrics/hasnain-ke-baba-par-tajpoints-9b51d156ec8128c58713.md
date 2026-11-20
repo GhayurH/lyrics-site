@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9b51d156ec8128c58713
-# source_url: https://tajpoints.com/2020/05/hasnain-ke-baba-par-lyrics-in-urdu-and.html
-# raw_sha256: 1d4cd2f8b095af0c75a45ea19129c8ed678b29e5ac720f2a94568983a0ff0098
 ---
 
 Hasnain Ke Baba Par Kya Waqt Yeh Aaya Hai.

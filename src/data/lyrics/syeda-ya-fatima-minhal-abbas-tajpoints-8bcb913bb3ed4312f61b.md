@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8bcb913bb3ed4312f61b
-# source_url: https://tajpoints.com/2022/01/syeda-ya-fatima-minhal-abbas-lyrics-in.html
-# raw_sha256: 57a8e04ba1ce9b4e44b0ee3d87cf81cd3b7336a16a7bc15e2de633c4e0ba72b0
 ---
 
 Syeda Ya Fatima Minhal Abbas.

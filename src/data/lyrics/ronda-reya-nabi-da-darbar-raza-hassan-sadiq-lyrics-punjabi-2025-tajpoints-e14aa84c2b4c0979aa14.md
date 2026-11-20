@@ -8,9 +8,6 @@ poet: "Irfan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e14aa84c2b4c0979aa14
-# source_url: https://tajpoints.com/2025/11/ronda-reya-nabi-da-darbar-raza-hassan.html
-# raw_sha256: 8941d85c626bdc0e7e791d55626d6fc951c6d6463edb7ecc016d31d3fa9d2e05
 ---
 
 1

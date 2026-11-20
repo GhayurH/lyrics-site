@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:368d55b4e183b8d5b613
-# source_url: https://www.ziyaraat.net/api/noha/2575
-# raw_sha256: a6a7751df3b68ab0c70cd4c7399a482d3819d1cdb65f9c003a8631eaf8e524af
 ---
 
 جے کدی سین تیرا غازی بھرا نہ مر دا

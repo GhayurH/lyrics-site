@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:31ccd539673013af4750
-# source_url: https://tajpoints.com/2019/10/ghareeb-bhai-ka-chehlum-mana-rahi-hai.html
-# raw_sha256: d8a02512551118d070ec75da4afeee58f9a548b1fc6f3267e9d7bfdcd8c203be
 ---
 
 1

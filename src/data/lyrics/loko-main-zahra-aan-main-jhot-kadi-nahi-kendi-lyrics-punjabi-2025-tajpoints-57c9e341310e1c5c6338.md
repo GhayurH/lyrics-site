@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:57c9e341310e1c5c6338
-# source_url: https://tajpoints.com/2025/11/loko-main-zahra-aan-main-jhot-kadi-nahi.html
-# raw_sha256: 8cc7095757470e739bb6980d327da14424d6278b34a37865f2d7ed9ab604eecc
 ---
 
 1

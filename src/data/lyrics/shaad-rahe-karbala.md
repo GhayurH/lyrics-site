@@ -74,9 +74,6 @@ romanLyrics: |-
   Marhaba Husain marhaba aap ne kamaal kar diya
   Azmatoṅ ke baadshaah aap hi rahe ata
   Dil ki ye dua hai ya Husain
-# source_id: nohayonline:acb09eb7e568b5a3037d
-# source_url: https://www.nohayonline.com/details_content.php?id=1859
-# raw_sha256: 75278066d6327e6ae4c495f9286a72436d84b7ec5519edc4d9978e1b45694073
 ---
 حسین حسین حسین حسین
 حسینا حسینا حسینا

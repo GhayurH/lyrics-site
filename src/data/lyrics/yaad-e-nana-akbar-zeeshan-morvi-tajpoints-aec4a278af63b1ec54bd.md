@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aec4a278af63b1ec54bd
-# source_url: https://tajpoints.com/2021/08/yaad-e-nana-akbar-zeeshan-morvi-lyrics.html
-# raw_sha256: 95bf497dd2d3971630409f8df1151bd38f55379e2e628efeebf660d2296dc48f
 ---
 
 1

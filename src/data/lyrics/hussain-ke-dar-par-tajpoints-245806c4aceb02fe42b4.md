@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:245806c4aceb02fe42b4
-# source_url: https://tajpoints.com/2017/02/likha-howa-hai-ye-mola-hussainas-ke-dar.html
-# raw_sha256: 92a7e17d229e9c25718cfac9180f40c012993bde8a12b978a94a1e5d6a6eea90
 ---
 
 Hussain Ke Dar Par.

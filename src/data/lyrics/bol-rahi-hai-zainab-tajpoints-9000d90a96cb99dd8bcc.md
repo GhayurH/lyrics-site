@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9000d90a96cb99dd8bcc
-# source_url: https://tajpoints.com/2020/12/bol-rahi-hai-zainab-lyrics-in-urdu-and.html
-# raw_sha256: ede6c615589f65c4985805f81bf50ae01c199e48a5f43a2661b04fd82b099d58
 ---
 
 1

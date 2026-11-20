@@ -60,9 +60,6 @@ romanLyrics: |-
 
   8
   (Syed Rizwan Rizvi, Bangkok)
-# source_id: ziyaraat:a8f6c3e43a2323f187ee
-# source_url: https://www.ziyaraat.net/api/noha/2600
-# raw_sha256: 8ce6a633751917c38d95fee6f685071da0419cf42b42da31c32bfc0ed1aab009
 ---
 
 سو گئی ہے رعیت، زہراؑ کی میّت

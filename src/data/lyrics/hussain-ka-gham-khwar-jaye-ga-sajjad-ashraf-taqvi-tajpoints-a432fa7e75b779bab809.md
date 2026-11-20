@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a432fa7e75b779bab809
-# source_url: https://tajpoints.com/2022/07/hussain-ka-gham-khwar-jaye-ga-sajjad.html
-# raw_sha256: 82ae27e7e066836d2f2b2a8330c9a2db28778e8f4c2ae789c56542aac383adf1
 ---
 
 Hussain Ka Gham Khwar Jaye Ga Sajjad Ashraf Taqvi.

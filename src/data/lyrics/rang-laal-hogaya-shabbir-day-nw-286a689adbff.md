@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:286a689adbff3f5b757a
-# source_url: https://www.nohawriteups.org/rang-laal-hogaya-shabbir-day/
-# original_html: snapshots/nohawriteups/original_html/286a689adbff3f5b757a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/286a689adbff3f5b757a.json
-# api_content_sha256: febb879c1c23eeacb72decdddcf86da9c59f8a546a2696f0b127fd50d9972bfa
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Rang laal hogeya Shabir day kafan da enj loka teer chalaye..

@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ec269b4e0354267d9b26
-# source_url: https://tajpoints.com/2017/02/sajjadas-yeh-kehta-tha-rokar-main-sham.html
-# raw_sha256: a064f508e2a174dff77dcb3efae99572285eaab6cacf885a877a70119b319354
 ---
 
 1

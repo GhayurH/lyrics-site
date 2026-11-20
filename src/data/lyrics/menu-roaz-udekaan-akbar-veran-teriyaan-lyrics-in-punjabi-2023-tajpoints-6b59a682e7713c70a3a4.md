@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6b59a682e7713c70a3a4
-# source_url: https://tajpoints.com/2023/02/menu-roaz-udekaan-akbar-veran-teriyaan.html
-# raw_sha256: 03b8c8697b3050cbff2ddc1df7cb8fa126e7c52689f33b156d780816a53ac369
 ---
 
 1

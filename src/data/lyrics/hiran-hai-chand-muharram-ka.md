@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:966c410ea7188978ad03
-# source_url: https://www.ziyaraat.net/api/noha/1546
-# raw_sha256: 609a2092faceaaa3275f4d401deee1edbde24b89deac989eaa34003a99c62222
 ---
 
 Hayraan Hay Chand Muharram Ka Shabeer Say Kyoun Sharmata Hai

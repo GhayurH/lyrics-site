@@ -8,9 +8,6 @@ reciter: "Mukhtar Ali Shedi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:dff83bde16df1c8ec48c
-# source_url: https://www.ziyaraat.net/api/noha/1037
-# raw_sha256: 432e33ce0be132489a88f85ecef036c3366a6ee68a65462ab7df58b3e957fcf7
 ---
 
 Lahu me doobi, ye karbala hay

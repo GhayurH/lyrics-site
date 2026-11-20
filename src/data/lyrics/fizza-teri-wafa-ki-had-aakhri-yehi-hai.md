@@ -8,9 +8,6 @@ reciter: "Katri Bawa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:2369c1e113bf2b3e24f6
-# source_url: https://www.ziyaraat.net/api/noha/2535
-# raw_sha256: d594fcfda605845888083e71f9ca4f0a1e39c3cb36f41bb360cf1358be678403
 ---
 
 Fizza Teri Wafa Ki Hadh Akhri Yehi Hai

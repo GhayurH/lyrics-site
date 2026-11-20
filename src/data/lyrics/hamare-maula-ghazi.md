@@ -62,9 +62,6 @@ romanLyrics: |-
   Har matami khun bahata hai
   Gale mil ke kareṅge pyar
   Hamare maula ghazi sarkar...
-# source_id: nohayonline:f6cfd4e81620ac576516
-# source_url: https://www.nohayonline.com/details_content.php?id=1652
-# raw_sha256: ed115a1d45dcf84823377169973eb1154572969bf057a4fc7d8593e7d7948623
 ---
 
 ۱

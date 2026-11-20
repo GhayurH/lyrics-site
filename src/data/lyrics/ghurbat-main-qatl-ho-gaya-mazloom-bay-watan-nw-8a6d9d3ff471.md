@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8a6d9d3ff471cb99765a
-# source_url: https://www.nohawriteups.org/ghurbat-main-qatl-ho-gaya-mazloom-bay-watan/
-# original_html: snapshots/nohawriteups/original_html/8a6d9d3ff471cb99765a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8a6d9d3ff471cb99765a.json
-# api_content_sha256: 406a59d224a5bda65b8e5149411d7a23fd3b74b44eb763da8ebdca3d682cec5f
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ghurbat Main Qatl Ho Gaya

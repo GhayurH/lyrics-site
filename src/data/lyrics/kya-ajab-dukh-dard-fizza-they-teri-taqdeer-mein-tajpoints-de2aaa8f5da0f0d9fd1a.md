@@ -8,9 +8,6 @@ poet: "Azai"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:de2aaa8f5da0f0d9fd1a
-# source_url: https://tajpoints.com/2018/10/kya-ajab-dukh-dard-fizza-they-teri.html
-# raw_sha256: 141964278a3ba497771802d964f500c3043f6f4b6beefeba65f0f9b7bc823d58
 ---
 
 1

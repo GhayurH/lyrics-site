@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2fe9d4c66ec809b8bf43
-# source_url: https://tajpoints.com/2023/12/zahra-darbar-che-ghasib-nu-babay-di.html
-# raw_sha256: 353b37f35e91b20907471bd5c56981843a2954bf863b342b7c8b592d3b4bd480
 ---
 
 1

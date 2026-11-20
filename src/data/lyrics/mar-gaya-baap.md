@@ -64,9 +64,6 @@ romanLyrics: |-
   To bole Ghaazi se Zishan aur Raza ye Hasan
   Tumhaara chehra agar dekhti nahiṅ Zainab
   Chhuraane se bhi kafan chhorti nahiṅ Zainab
-# source_id: nohayonline:1b101307d1ac6c59fba0
-# source_url: https://www.nohayonline.com/details_content.php?id=1826
-# raw_sha256: 2fc2f82f405225f03a275d702f4e8f956ad9b906e6a7ef800277c36ecb12cc5d
 ---
 عجیب وقت ہے یہ فاطمہ کے بیٹوں پے
 جنازہ بابا کا گھر سے اُٹھائیں وہ کیسے

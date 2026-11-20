@@ -33,9 +33,6 @@ romanLyrics: |-
   5
   Wo ro ke boli maiṅ Fatima ki beti huṅ
   Rida na chhin sitamgar meri Khuda ke liye
-# source_id: nohayonline:3d167f201f3b41c893d2
-# source_url: https://www.nohayonline.com/details_content.php?id=2190
-# raw_sha256: 647129689ec9d022ff69207198a8f2e13ce01cc2d74b06bcc2c51d9ee511a17f
 ---
 سلامی چشم ہے رونے کو دل بکا کے لئے
 زباں ہے وقف شہنشاہِ کربلا کے لئے

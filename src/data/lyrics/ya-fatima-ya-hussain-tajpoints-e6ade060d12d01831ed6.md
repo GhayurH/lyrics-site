@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e6ade060d12d01831ed6
-# source_url: https://tajpoints.com/2018/03/ya-fatima-ya-hussain.html
-# raw_sha256: a1ffe05accc9936302d619add65ba8736076e11a96e5f59806d778bb1c76d253
 ---
 
 Ya Fatima Ya Hussain.

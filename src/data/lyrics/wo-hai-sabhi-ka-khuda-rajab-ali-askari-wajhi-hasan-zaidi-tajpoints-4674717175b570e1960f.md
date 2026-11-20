@@ -8,9 +8,6 @@ poet: "Mussadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4674717175b570e1960f
-# source_url: https://tajpoints.com/2025/03/wo-hai-sabhi-ka-khuda-rajab-ali-askari.html
-# raw_sha256: 357769dcb057bd149aa03f81dff5e8afe53a57f14d9d498db59643ccf57caf7f
 ---
 
 1

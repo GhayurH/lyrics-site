@@ -43,9 +43,6 @@ romanLyrics: |-
   Naukar hai sada zawwar tere
   Ana zawwar-e-Husain ibne ali...
   Arbaab Husain ibn-e-ali
-# source_id: nohayonline:c40e38d2f6fa74741fd2
-# source_url: https://www.nohayonline.com/details_content.php?id=2466
-# raw_sha256: 46239058e97550c3d50948f801dfa818baec03fac0d5fc3eff94ead0e2ecc148
 ---
 
 ۱

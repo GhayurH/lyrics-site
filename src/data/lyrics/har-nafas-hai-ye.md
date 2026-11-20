@@ -57,9 +57,6 @@ romanLyrics: |-
   Shahid nauhagar ki hai ye dua
   Aaye rauzoṅ pe aap ke ghamkhwaar
   Ya Ali ya Husain ya Abbas
-# source_id: nohayonline:23f4b9463a54d73f155b
-# source_url: https://www.nohayonline.com/details_content.php?id=169
-# raw_sha256: fff9d8797166ca3fb38a0b87575ae150b1bdf4de7e1ddeb4234ce48ffe28c65e
 ---
 ہر نفس ہے یہ ورد زینب زار
 یا علی یا حسین یا عباس

@@ -48,9 +48,6 @@ romanLyrics: |-
   9
   Dayam o Yazdaṅ likhe kaise bahut dushwaar hai
   Betiyoṅ ke saath jo hota hai rishta baap ka
-# source_id: nohayonline:f9a2a563c223521c7d94
-# source_url: https://www.nohayonline.com/details_content.php?id=1438
-# raw_sha256: 578fb9e6e6571a7522507d31f25d79d644df9794500130340665163c3c34f8d2
 ---
 اٹھ گیا زینب کے سر سے آج سایہ باپ کا
 اب نہ دیکھے گی کبھی غم خوار چہرہ باپ کا

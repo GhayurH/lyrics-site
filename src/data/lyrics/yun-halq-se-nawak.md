@@ -62,9 +62,6 @@ romanLyrics: |-
   Ulfat ne jhukaaya sar mera
   Markaz to yehi hai sajde ka
   Ae Fazl jabiṅ pehchaan gayi
-# source_id: nohayonline:d60e92fd3c6fdee479ce
-# source_url: https://www.nohayonline.com/details_content.php?id=1467
-# raw_sha256: accd0f2df0c98621aee750f87410473d1db5e56ff83c1934b9c690d8ecb5a577
 ---
 یوں حلق سے ناوک ٹکرایا
 بے شیر کو دنیا مان گئی

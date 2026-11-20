@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a87049ef9d6310c7e875
-# source_url: https://tajpoints.com/2024/02/suno-zainab-ki-sana-joan-rizvi-lyrics.html
-# raw_sha256: 9b27fd04fab51e9148d61dcb819919e64abf09ab22be8a1d96ee71c31dcaed01
 ---
 
 1

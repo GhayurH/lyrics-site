@@ -8,9 +8,6 @@ poet: "Joun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e111ef698ed131c53eb2
-# source_url: https://tajpoints.com/2023/05/zulm-jafar-pe-madina-mein-dhaya-hai.html
-# raw_sha256: 7638642b6900712a0695bba7b3d9538690d28408faf45d6e20f0446875639b4c
 ---
 
 Zulm Jafar Pe Madina Mein Dhaaya Hai Gaya.

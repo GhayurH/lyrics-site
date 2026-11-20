@@ -61,9 +61,6 @@ romanLyrics: |-
   Mohsin ki hai khwaahish Zahra
   Jitna ho dushman ka pehra
   Aap ko nauha sunaaye
-# source_id: nohayonline:9aff5f50c9360344938a
-# source_url: https://www.nohayonline.com/details_content.php?id=2468
-# raw_sha256: c48a5cd212100e2a5eae90716002f61565039ed32b01ab20992ccd3d4642ec47
 ---
 نانا بھائی سے ملا دے
 

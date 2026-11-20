@@ -8,9 +8,6 @@ reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:2112a76f96c57cd36b17
-# source_url: https://www.ziyaraat.net/api/noha/259
-# raw_sha256: c369df0df80b4a149ac3fdfaa52bd9c3e1a453d5a37b796335c070a98aa1dcf9
 ---
 
 Jukta huwa alam jo nazar aya shah ko. Wapas jo dekha nehr pa ate sipah ko.

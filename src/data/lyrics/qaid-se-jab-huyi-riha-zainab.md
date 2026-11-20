@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:1956682aa6774519d7c0
-# source_url: https://www.ziyaraat.net/api/noha/2894
-# raw_sha256: 727e904b3b91833deb9d2e57c84bf73a1edfe15a555d6f89e5f6ae65e6921ac7
 ---
 
 قید سے جب ہوئی رہا زینب

@@ -8,9 +8,6 @@ poet: "Ijaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:82199bebdc688958a067
-# source_url: https://tajpoint.com/zulm-toon-pehlaan-ummat-nane-di-kujh-nayi-sochiya/
-# raw_sha256: 488d3e3154413035b0215d4c8a6c8e7e8c8f5d0c55dfeecee18b916a9feb7779
 ---
 
 Zulm Toon Pehlaan Ummat Nane Di Kujh Nayi Sochiya.

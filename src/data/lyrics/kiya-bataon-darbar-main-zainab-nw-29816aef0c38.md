@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:29816aef0c38bcb5723a
-# source_url: https://www.nohawriteups.org/kiya-bataon-darbar-main-zainab/
-# original_html: snapshots/nohawriteups/original_html/29816aef0c38bcb5723a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/29816aef0c38bcb5723a.json
-# api_content_sha256: df4dfa1480cfaefa17d629359f176fb05098bb7461145a4334a43c74834bcc06
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Kiya Bataoun Darbaar Main Zainab

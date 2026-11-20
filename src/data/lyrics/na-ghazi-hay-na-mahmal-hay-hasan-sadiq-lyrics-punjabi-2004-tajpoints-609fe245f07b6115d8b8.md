@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:609fe245f07b6115d8b8
-# source_url: https://tajpoints.com/2023/03/na-ghazi-hay-na-mahmal-hay-hasan-sadiq.html
-# raw_sha256: 1b0f72866a8428143d2df7aeb7c2a74ec56b797636ab56f6f77ccb239daf3ca0
 ---
 
 1

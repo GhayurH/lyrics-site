@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:23afd01b5d2f7e02ab4a
-# source_url: https://tajpoints.com/2018/03/main-ummul-baneen-hoon-logo.html
-# raw_sha256: 09fd941ae9fd76f70b956a207702f83178bf3e9025c3b944f65937ed94e341e5
 ---
 
 Main Ummul Baneen Hoon Logo.

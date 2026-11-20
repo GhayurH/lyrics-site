@@ -63,9 +63,6 @@ romanLyrics: |-
   Sajjad kaisi thi ghari
   Roti thi khud bint-e-Ali
   Jis dam yatimoṅ ne kaha
-# source_id: nohayonline:3124a3ba6bfe8c6c0fa2
-# source_url: https://www.nohayonline.com/details_content.php?id=1526
-# raw_sha256: cb103774e15a3800ea3bb93422e637635fd0c6c665d676833fb92500be0e3380
 ---
 بابا ابھی مت جایےء
 میت پہ زینب نے کہا

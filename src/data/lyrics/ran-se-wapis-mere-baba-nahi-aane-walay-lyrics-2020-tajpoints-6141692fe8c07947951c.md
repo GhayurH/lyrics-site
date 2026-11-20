@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6141692fe8c07947951c
-# source_url: https://tajpoints.com/2020/09/ran-se-wapis-mere-baba-nahi-aane-walay.html
-# raw_sha256: f7a6d0bf93c439659be171f60f37288082635185832443dd7555fc0df7b23859
 ---
 
 1

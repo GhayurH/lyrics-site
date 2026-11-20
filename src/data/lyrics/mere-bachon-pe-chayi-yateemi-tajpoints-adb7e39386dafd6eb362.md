@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:adb7e39386dafd6eb362
-# source_url: https://tajpoints.com/2020/05/mere-bachon-pe-chayi-yateemi-lyrics-in.html
-# raw_sha256: b312c9f8303a8d22bd2da452fe0631fdffa11f07069894f747f42fa7e4faf0a4
 ---
 
 Khuld Mein Ro Ke Bolein Yeh Zahra Mere Bachoon Pe Chayi Yateemi.

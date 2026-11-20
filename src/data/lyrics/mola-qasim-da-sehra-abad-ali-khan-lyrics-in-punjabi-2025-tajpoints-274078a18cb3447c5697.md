@@ -8,9 +8,6 @@ poet: "Abad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:274078a18cb3447c5697
-# source_url: https://tajpoints.com/2026/08/mola-qasim-da-sehra-abad-ali-khan-lyrics.html
-# raw_sha256: 12120064722e5c291bf3e1303bc9b0384e075ff6b61fdee92dd10317034b4625
 ---
 
 Parh Salwat Banaya Aye Maula Qasim Da Sehra.

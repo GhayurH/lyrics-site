@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Kitne amir aate the wo mutmain nazar
   Jin ke raha saroṅ par teghoṅ ka saayebaaṅ
-# source_id: nohayonline:5225261256fcd953a0fa
-# source_url: https://www.nohayonline.com/details_content.php?id=2330
-# raw_sha256: 4fcb0a477708b543c604d22814fac84641f6def14ee56a13099ab5e20299d212
 ---
 ہر سمت ہے اداسی اجڑا ہوا سماں
 کیا کیا نہ ہوئے ظلم و ستم زیر آسماں

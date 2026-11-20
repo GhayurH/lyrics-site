@@ -85,9 +85,6 @@ romanLyrics: |-
   Farid aati rahi jab tak
   Nazar Zainab dar-e-khaima
   Ye Shah kehte the mur mur kar
-# source_id: nohayonline:c999d0d672a0e7ce41c5
-# source_url: https://www.nohayonline.com/details_content.php?id=1897
-# raw_sha256: 4235ff01e912e539a0c8e8cc7843ede5ba2b77a93d23fb2c26d512dac0b8b7ed
 ---
 صدا دیتے تھے یہ سرور
 بہن زینب خدا حافظ

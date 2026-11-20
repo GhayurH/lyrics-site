@@ -66,15 +66,6 @@ romanLyrics: |-
   Farhan Anis-e-Shah-e-Waala ho ke Mazhar
   Likh paaya nahiṅ aaj talak koi wo manzar
   Jab kehti thi Zainab se mere Bibi tarap kar
-# source_id: nohayonline:557934d98b405c0dd874
-# source_url: https://www.nohayonline.com/details_content.php?id=997
-# raw_sha256: ad3ff75d7a6e76e43e2a943762c4000b243948c0954eb69c623903fb48c1cc13
-# source_id: nohawriteups:2c62d06676a8b700fed0
-# source_url: https://www.nohawriteups.org/unees-sau-hai/
-# original_html: snapshots/nohawriteups/original_html/2c62d06676a8b700fed0.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2c62d06676a8b700fed0.json
-# api_content_sha256: f4548851112e71bfa6d1e7c66f227eb689635ea2e9f07b980d0c7cc58883f8dd
-# editorial_note: Matching source witness(es) consolidated into the existing bilingual edition; repeated vocal refrains/footers contained no unique stanzas.
 ---
 گر کر کبھی اٹھے کبھی رکھا زمیں پہ سر
 ابلا لہو کبھی تو سنبھالا کبھی جگر

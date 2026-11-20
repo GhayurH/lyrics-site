@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4c9d6d6828440dbccd0a
-# source_url: https://tajpoints.com/2017/04/khushiyaan-manao-logo-shaban-aa-giya-hai.html
-# raw_sha256: 9196944144b1e8e82d2652287beb9701a92e71b0f52708842c4ecf1b275ebe17
 ---
 
 Ik Sath Le Ke Kitne Quran Aa Giya Hai.

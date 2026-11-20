@@ -44,12 +44,6 @@ romanLyrics: |-
   Khun rota hai jo Abid us ko ye ehsaas hai
   Fatima Zehra ki chaadar shaamiyoṅ ke paas hai
   Dekh kar kehti hai Zainab mere Ghazi ho kahaaṅ
-# source_id: nohayonline:2f6a0fe02e098bab4afc
-# source_url: https://www.nohayonline.com/details_content.php?id=3551
-# raw_sha256: a98317ebd90b5bf75dc97fe6cf74271fd4d0a8b7e96b1ca828fc18f4c9a96abb
-# source_id: ziyaraat:e35b1c426616d8323fe0
-# source_url: https://www.ziyaraat.net/api/noha/348
-# raw_sha256: 88233434d9696af53da3ed6aea8509d8f259d05951d163a677da64148b095be3
 ---
 ہائے بیمار ہائے دربار
 سامنے دربار کے غیرتِ سجاد کا ہے یہ کیسا امتحاں

@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:532db902885f1dc264fa
-# source_url: https://tajpoints.com/2026/01/hussain-hi-tha-syed-mohammad-shah-lyrics.html
-# raw_sha256: 174f83239b2b0b3b2194369f68de69b425829de6ded122c146d3cd1f572a4c65
 ---
 
 1

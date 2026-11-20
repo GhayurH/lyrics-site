@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7a3fa9c8618b03f5f335
-# source_url: https://tajpoints.com/2017/11/chaar-baras-ki-aik-zaeefa-ayi-hai.html
-# raw_sha256: 488bc34090282321d53a731f9352c4c72de92434e9c459cc7c31d1cf2a462c19
 ---
 
 Chaar Baras Ki Aik Zaeefa Ayi Hai Write Up

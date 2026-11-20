@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:006385ad043f78e978c4
-# source_url: https://tajpoints.com/2021/01/salam-umm-ul-baneen-lyrics-in-urdu-and.html
-# raw_sha256: 46e123659340915f30667d26866bce2c7ed5acbf959fea4ba7d6dec210bad34d
 ---
 
 1

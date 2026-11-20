@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:26122c394cb98ca58d92
-# source_url: https://tajpoints.com/2022/03/khuda-hai-hussain-ka-sajjad-ashraf.html
-# raw_sha256: 493cdde8baf415bef5f5dc142443d9c45a3e47595dc144f5523ce3bfd50abb2d
 ---
 
 1

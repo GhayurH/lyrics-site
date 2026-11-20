@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:5fb2455cbe34174b1b09
-# source_url: https://www.ziyaraat.net/api/noha/2046
-# raw_sha256: 4b0f9c0f11ab5eaa6f165eed5c7235f0367c61aa33abc164b5938ec586b50a9a
 ---
 
 فاطمہؑ جائیاں ویراں دیاں لاشہ تے رو وینڑ پاندیاں

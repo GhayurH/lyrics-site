@@ -48,9 +48,6 @@ romanLyrics: |-
   Ke hai soz o khwaan o shaair kidhar ae Husain tera
   Na dubaara haaziri gar ho nasib-e-Sibt-e-Jafar
   To phir us ki samt se ho guzar ae Husain tera
-# source_id: nohayonline:f4b84979b786d4f4d251
-# source_url: https://www.nohayonline.com/details_content.php?id=1243
-# raw_sha256: d3ec6c1747bdc0fff6719dac97c520385540adaa699d2c766c3466594653b2d8
 ---
 مجھے کوئی غم نہیں ہے مگر اے حسین تیرا
 میری فکر کی ہے منزل سفر اے حسین تیرا

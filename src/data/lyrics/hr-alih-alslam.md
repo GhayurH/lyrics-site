@@ -63,9 +63,6 @@ romanLyrics: |-
   Jab haq ka use Irfan hua
   Har aik muarrikh ne ye likha
   Hur alaihis salam
-# source_id: ziyaraat:ea211c25f950d441d50d
-# source_url: https://www.ziyaraat.net/api/noha/2237
-# raw_sha256: 0ef8c184fd45389ea8f7a304f94381f0e7910b75c6aa7fbc6f21a0675ef63406
 ---
 
 ۱

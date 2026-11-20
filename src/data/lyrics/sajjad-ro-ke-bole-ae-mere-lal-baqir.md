@@ -64,9 +64,6 @@ romanLyrics: |-
   Baqar se ro ke Abid
   Seh le safar ke sare
   Ranj o malal Baqar
-# source_id: ziyaraat:bc90dad75572572a23a8
-# source_url: https://www.ziyaraat.net/api/noha/2194
-# raw_sha256: a378b3be11da8050b5dba49e27120d9732b577753caa37949f31144ea246aeaa
 ---
 
 سجّادؑ رو كے بولے

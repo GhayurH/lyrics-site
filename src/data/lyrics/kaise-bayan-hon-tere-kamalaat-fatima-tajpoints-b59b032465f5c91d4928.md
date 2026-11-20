@@ -8,9 +8,6 @@ poet: "Shaukat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b59b032465f5c91d4928
-# source_url: https://tajpoints.com/2021/02/kaise-bayan-hon-tere-kamalaat-fatima.html
-# raw_sha256: 0e3af08a7eefac8e4667fd3b5ae6032ff722a3b9077af7a196e7ea62c7beeac0
 ---
 
 1

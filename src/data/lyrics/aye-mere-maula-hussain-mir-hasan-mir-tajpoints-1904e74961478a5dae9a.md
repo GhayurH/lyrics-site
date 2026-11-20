@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1904e74961478a5dae9a
-# source_url: https://tajpoints.com/2022/10/aye-mere-maula-hussain-mir-hasan-mir.html
-# raw_sha256: 8d6956c06270158d7b0e603903fa26dba77f2f37d013e9d165a702ec20928992
 ---
 
 1

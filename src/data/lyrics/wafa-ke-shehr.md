@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Ye nauha wird-e-zabaaṅ tha Anis Sarwar ke
   Kahaaṅ ho mere wafaadaar Hazrat-e-Abbas
-# source_id: nohayonline:182382dea76f00d59ed5
-# source_url: https://www.nohayonline.com/details_content.php?id=1301
-# raw_sha256: d9eea657bfd54e9b2a051d3ea1fd3ff3ef54160e6734e512e7203f6a8f3eee06
 ---
 وفا کے شہر کے مہمان حضرتِ عباس
 حُسینی فوج کے سالار حضرتِ عباس

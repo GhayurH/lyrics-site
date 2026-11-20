@@ -86,9 +86,6 @@ romanLyrics: |-
   Ke maqtal pe sab ne tayammum kiya
   Farz Shaahid sabhi ne adaa kar diya
   Barsar-e-Karbala barsar-e-Karbala
-# source_id: nohayonline:be41fdb6a1af4a99de60
-# source_url: https://www.nohayonline.com/details_content.php?id=764
-# raw_sha256: f483ae33d2027b15a7b21cdf799497adeadef0fb97eb8b6f15a2dfae41118244
 ---
 
 ہائے کنبہ رسول انام کا

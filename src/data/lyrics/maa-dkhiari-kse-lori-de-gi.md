@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:f6b0dfaf7fcd30c4a7e6
-# source_url: https://www.ziyaraat.net/api/noha/1645
-# raw_sha256: 8260113397911f046c0c081a7d0fc1cf13ea3b2f3068fdb2c242c42ad6a31ad6
 ---
 
 Maa Dukhiyari Kissai Lori Dai Gi

@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a81102b612483e7aaf33
-# source_url: https://tajpoints.com/2023/01/khudai-kaam-chalaye-imam-baqir-ne.html
-# raw_sha256: 9289c27ff43378df2d273a6913a35e57dd734d064fbdc4af6146048f86a59aba
 ---
 
 Khudai Kaam Chalaye Imam Baqir Ne.

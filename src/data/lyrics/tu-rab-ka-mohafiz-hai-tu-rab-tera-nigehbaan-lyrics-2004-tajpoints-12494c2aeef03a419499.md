@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:12494c2aeef03a419499
-# source_url: https://tajpoints.com/2018/01/tu-rab-ka-mohafiz-hai-tu-rab-tera.html
-# raw_sha256: 8cd53a74fe97679af4c84f8c121f4df5d468e19cc6e9a89407527cccc919cd66
 ---
 
 1

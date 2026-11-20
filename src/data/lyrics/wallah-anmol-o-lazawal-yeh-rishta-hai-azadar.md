@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e3d339b511c736454bc6
-# source_url: https://tajpoints.com/2019/07/azadar-2-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: 6ee7d4b935f1a02942c4168988c331c62ef79367615dfaf4c2af9fea7c0c8c42
 ---
 
 Wallah Anmol-o-La-Zawwal Yeh Rishta Hai Azadar.

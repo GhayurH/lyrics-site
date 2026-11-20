@@ -58,9 +58,6 @@ romanLyrics: |-
   Aayi sada Karbal ki zameen se
   Sani e Hamid zaakir e Sarwar
   Bekas o baypar aa jao
-# source_id: ziyaraat:b2557dce943740de2ff4
-# source_url: https://www.ziyaraat.net/api/noha/1771
-# raw_sha256: b3bcb8c388752e454b2503f0ff098fef0a83629f9bc5b2025a0792da132f0d44
 ---
 
 ننھے اصغرؑ آ جاؤ اے میرے دلبر آ جاؤ

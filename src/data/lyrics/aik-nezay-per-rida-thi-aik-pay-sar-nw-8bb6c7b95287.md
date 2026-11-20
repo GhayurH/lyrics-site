@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8bb6c7b9528757d80ace
-# source_url: https://www.nohawriteups.org/aik-nezay-per-rida-thi-aik-pay-sar/
-# original_html: snapshots/nohawriteups/original_html/8bb6c7b9528757d80ace.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8bb6c7b9528757d80ace.json
-# api_content_sha256: f68369367ac31d219f72d79ff659371174f2bcdb9be565afc2a7869f7e8cb0b7
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Aik Nezay per rida thi, Aik pay sar chalta raha

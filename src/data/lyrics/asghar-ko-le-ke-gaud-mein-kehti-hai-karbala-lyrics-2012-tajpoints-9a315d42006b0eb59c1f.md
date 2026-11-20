@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9a315d42006b0eb59c1f
-# source_url: https://tajpoints.com/2017/08/asghar-ko-le-ke-gaud-mein-kehti-hai.html
-# raw_sha256: e5fbea0c198e990088717d6a7f672ef850d7639cc420603f7a32064fc6353278
 ---
 
 1

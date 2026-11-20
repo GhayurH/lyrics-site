@@ -150,13 +150,6 @@ romanLyrics: |-
   Ye thi Karbala ki kahaani
   Ye thi ek pyaase ki kahaani
   Muhammad ke nawaase ki kahaani
-# source_id: nohayonline:14defbf40056b9139589
-# source_url: https://www.nohayonline.com/details_content.php?id=987
-# raw_sha256: 5d0bf3a7954994cc7207681f8ead4258c85cc05204710b7236f385c4107cda02
-# source_id: nohawriteups:917bbf37934a1c1b2e58
-# source_url: https://www.nohawriteups.org/karbala-ki-kahani/
-# original_html: snapshots/nohawriteups/original_html/917bbf37934a1c1b2e58.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/917bbf37934a1c1b2e58.json
 ---
 
 آؤ اے اہل جہاں آؤ اے طفل و جواں

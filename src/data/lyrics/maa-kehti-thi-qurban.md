@@ -45,12 +45,6 @@ romanLyrics: |-
   8
   Beaasra Zahid ko na samjhe ye zamaana
   Zahid ke haiṅ maasum sahaare Ali Asghar
-# source_id: nohayonline:c9e44bbef08b5ac1b435
-# source_url: https://www.nohayonline.com/details_content.php?id=1436
-# raw_sha256: d09da4725062e154d5efbb5d236f548aacb4934f272e2aba5f487c3cc4d6d749
-# source_id: ziyaraat:eba9b5f47e73e301034f
-# source_url: https://www.ziyaraat.net/api/noha/2262
-# raw_sha256: 504f9498daed32ba0ffe52cb82584820549c3341e2a2ea60efbfda39888dc5ec
 ---
 ماں کہتی تھی قربان تمہارے علی اصغر
 پیارے علی اصغر میرے پیارے علی اصغر

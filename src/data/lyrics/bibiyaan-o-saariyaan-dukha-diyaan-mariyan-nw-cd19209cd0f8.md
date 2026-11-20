@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:cd19209cd0f8578659b0
-# source_url: https://www.nohawriteups.org/bibiyaan-o-saariyaan-dukha-diyaan-mariyan/
-# original_html: snapshots/nohawriteups/original_html/cd19209cd0f8578659b0.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/cd19209cd0f8578659b0.json
-# api_content_sha256: ba6edde456bd70cae23ea153a4e676a67529626d69752171990c8efe312635c6
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Bibiyan O Sariyan Dukha Diyan Mariyan

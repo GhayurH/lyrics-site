@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:420fddb9270fdfb7f728
-# source_url: https://tajpoints.com/2022/07/apko-mola-qasam-hai-syed-mohammad-shah.html
-# raw_sha256: 1c64afaf28f4fbe19069132af53f8d19b937f98114ece1f0ecb508c4d4bffe1c
 ---
 
 Apko Mola Qasam Hai Syed Mohammad Shah.

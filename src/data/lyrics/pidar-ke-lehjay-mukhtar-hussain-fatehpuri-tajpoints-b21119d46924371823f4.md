@@ -8,9 +8,6 @@ poet: "Bilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b21119d46924371823f4
-# source_url: https://tajpoints.com/2024/02/pidar-ke-lehjay-mukhtar-hussain.html
-# raw_sha256: 0569418463a4d75b839f36292e1a3db3663533f80175a27dd64e1c9f8e76f375
 ---
 
 1

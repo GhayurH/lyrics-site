@@ -150,12 +150,6 @@ romanLyrics: 'Zainab aagayee bhai
   Pusht pe mai durro ke nishan hoo
 
   Aaj dikhane aayi'
-# source_id: nohayonline:9fd235bd6a51da1512da
-# source_url: https://www.nohayonline.com/details_content.php?id=507
-# raw_sha256: cb04b1e3b52e9b9259d604c4dbeef94497a20263238c006911a6e4ac67ccb278
-# source_id: ziyaraat:3c0d56017b38e24c4fcc
-# source_url: https://www.ziyaraat.net/api/noha/1542
-# raw_sha256: 7bf47bf763b053aa9ccc27642a7d86d651f04c35ca8df8be6ff582fc47991f15
 ---
 
 زینب آ گئی بھائی

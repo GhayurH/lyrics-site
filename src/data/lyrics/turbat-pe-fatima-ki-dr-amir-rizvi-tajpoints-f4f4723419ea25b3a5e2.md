@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f4f4723419ea25b3a5e2
-# source_url: https://tajpoints.com/2022/05/turbat-pe-fatima-ki-dr-amir-rizvi.html
-# raw_sha256: 64b6df2a090960ccd3e61ae1cfee7bec3ffe3099c8d4e62e28da11a8544f3870
 ---
 
 Turbat Pe Fatima Ki Dr Amir Rizvi.

@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:34670eb99ebbd7d287c6
-# source_url: https://tajpoints.com/2023/04/aman-ka-khuda-hai-hasan-qambar-kiyani.html
-# raw_sha256: 73fe54ad5b4b772d5d7717cd3150946c850e6d5a752fda8186b7154e7f99058a
 ---
 
 Aman Ka Khuda Hai Hasan Qambar Kiyani.

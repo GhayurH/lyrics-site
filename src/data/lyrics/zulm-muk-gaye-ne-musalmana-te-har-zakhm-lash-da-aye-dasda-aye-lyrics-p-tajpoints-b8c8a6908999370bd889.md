@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b8c8a6908999370bd889
-# source_url: https://tajpoints.com/2026/01/zulm-muk-gaye-ne-musalmana-te-har.html
-# raw_sha256: 485bb822d90e2f1aad73b246f358fb9eceb075087005db9ea75a4bb7e771c052
 ---
 
 Zulm Muk Gaye Ne Musalmana Te Har Zakhm Lash Da Aye Dasda Aye.

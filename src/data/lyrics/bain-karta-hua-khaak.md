@@ -69,12 +69,6 @@ romanLyrics: |-
   Dekh kar su-e-maqtal sabhi ro diye
   Sab shahidoṅ ke laashe tarapne lage
   Jab ye aayi sada lo chala qaafila
-# source_id: nohayonline:216fee97798375459ba4
-# source_url: https://www.nohayonline.com/details_content.php?id=1502
-# raw_sha256: 9c3dc222ef64fafe064ae26553625f56a768ffa78fe70aae9d0d8f1e99d10c3d
-# source_id: ziyaraat:38845c6877e680ed3123
-# source_url: https://www.ziyaraat.net/api/noha/893
-# raw_sha256: d6a50c347fdb952c6ca988590ac2a69a09fa2892e8e56323dc4624f0bb9a9ab4
 ---
 
 بین کرتا ہوا خاک اڑاتا ہوا

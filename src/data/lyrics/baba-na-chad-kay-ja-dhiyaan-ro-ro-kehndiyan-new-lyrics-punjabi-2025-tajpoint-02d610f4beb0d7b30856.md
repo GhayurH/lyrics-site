@@ -8,9 +8,6 @@ poet: "Tosif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:02d610f4beb0d7b30856
-# source_url: https://tajpoint.com/baba-na-chad-kay-ja-dhiyaan-ro-ro-kehndiyan/
-# raw_sha256: a2e738111b5328fd282706797c76c55dde08c4decadf534d29fbcb65921a7994
 ---
 
 1

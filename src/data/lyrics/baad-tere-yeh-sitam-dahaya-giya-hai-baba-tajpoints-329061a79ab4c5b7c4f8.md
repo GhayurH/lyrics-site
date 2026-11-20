@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:329061a79ab4c5b7c4f8
-# source_url: https://tajpoints.com/2018/02/baad-tere-yeh-sitam-dahaya-giya-hai-baba.html
-# raw_sha256: 15dff4c7235e1b7dc6cbec95df87bcc46c8582e5f812051fc5cab1b4f698dc5e
 ---
 
 1

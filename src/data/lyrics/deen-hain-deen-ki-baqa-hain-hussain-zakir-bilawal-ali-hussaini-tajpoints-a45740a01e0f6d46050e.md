@@ -8,9 +8,6 @@ poet: "Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a45740a01e0f6d46050e
-# source_url: https://tajpoints.com/2023/07/deen-hain-deen-ki-baqa-hain-hussain.html
-# raw_sha256: 2c798303727f5d961c9f434168b80600a9f17efbfd88cd034d51c7466784e6be
 ---
 
 Deen Hain Deen Ki Baqa Hain Hussain Zakir Bilawal Ali Hussaini.

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:d8b6f0ef1b52ef77a988
-# source_url: https://www.ziyaraat.net/api/noha/2589
-# raw_sha256: 8d1ec48f6c9794c7b83141d21c92ceace6c0806e5836ade9f7fe4d348b95e5dc
 ---
 
 جیسے درِ زہرہؑ کو بجھاتی رہیں فضہؑ

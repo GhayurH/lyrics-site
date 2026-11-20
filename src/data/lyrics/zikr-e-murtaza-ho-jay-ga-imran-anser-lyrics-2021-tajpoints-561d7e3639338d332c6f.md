@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:561d7e3639338d332c6f
-# source_url: https://tajpoints.com/2022/02/zikr-e-murtaza-ho-jay-ga-imran-anser.html
-# raw_sha256: c990d4436ad12784437f75e75d11d6b5c21abe738fd1f6caa779e162e6c341f9
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:bd8919cd662305b02129
-# source_url: https://www.nohawriteups.org/zainab-ko-maa-ka-farman-pardais/
-# original_html: snapshots/nohawriteups/original_html/bd8919cd662305b02129.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/bd8919cd662305b02129.json
-# api_content_sha256: 26e838432f9dadf7c37014da2dfc732ebb9c34ba0de9d73f7653da94dc0c31e1
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Zainab ko maa ka farman, pardais main rulaye

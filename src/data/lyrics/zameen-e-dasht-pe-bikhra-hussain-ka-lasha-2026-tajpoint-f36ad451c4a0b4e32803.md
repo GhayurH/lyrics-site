@@ -8,9 +8,6 @@ poet: "Murtajiz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:f36ad451c4a0b4e32803
-# source_url: https://tajpoint.com/zameen-e-dasht-pe-bikhra-hussain-ka-lasha-2026/
-# raw_sha256: 08de10a7ebb9ac17da9db1e45a92e7461b0d7d341caaa1fb57cd79986a4756ca
 ---
 
 1

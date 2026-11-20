@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a0a98086e8b5f67202df
-# source_url: https://www.nohawriteups.org/kufe-main-gir-gaye-hain-muslim/
-# original_html: snapshots/nohawriteups/original_html/a0a98086e8b5f67202df.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a0a98086e8b5f67202df.json
-# api_content_sha256: c7f30781dbec32fdaeea2a1dcb7a66b6ec0273dba861a67bdad670bb843da2b0
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Koi Zara Yeh Ja Kar Abbas Ko Bata Day.

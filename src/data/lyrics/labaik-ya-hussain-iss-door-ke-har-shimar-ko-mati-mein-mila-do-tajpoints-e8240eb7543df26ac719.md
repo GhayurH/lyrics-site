@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e8240eb7543df26ac719
-# source_url: https://tajpoints.com/2018/03/labaik-ya-hussain-iss-door-ke-har.html
-# raw_sha256: 794908f646a26c9f28130a8a1441e1ca144268baa707eacc34c2d9da487826b9
 ---
 
 1

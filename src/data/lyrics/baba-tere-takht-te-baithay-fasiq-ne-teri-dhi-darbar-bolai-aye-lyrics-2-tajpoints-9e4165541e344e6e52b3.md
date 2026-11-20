@@ -8,9 +8,6 @@ poet: "Tosif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9e4165541e344e6e52b3
-# source_url: https://tajpoints.com/2023/11/baba-tere-takht-te-baithay-fasiq-ne.html
-# raw_sha256: 3674e5d4d5eb57f0ee283bd65e78f932e7dbcf5cc72cb16eda8041047a834ca2
 ---
 
 1

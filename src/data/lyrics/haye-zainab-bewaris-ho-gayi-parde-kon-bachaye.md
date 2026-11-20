@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:860419afe338f0bb64d2
-# source_url: https://tajpoints.com/2023/06/haye-zainab-bewaris-ho-gayi-parde-kon.html
-# raw_sha256: 1d9c7d0fde62c624da9e405e4072f8218f70eed60075a78b1880efe7af1245e1
-# source_title_original: Haye Zainab Bewaris Ho Gayi Parde Kon Bachaye 2012
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Haye Zainab Bewaris Ho Gayi Parde Kon Bachaye

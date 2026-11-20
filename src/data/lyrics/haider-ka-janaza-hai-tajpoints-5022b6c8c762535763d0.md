@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5022b6c8c762535763d0
-# source_url: https://tajpoints.com/2020/05/haider-ka-janaza-hai-lyrics-in-urdu-and.html
-# raw_sha256: 34d52ba20a8f7651b089d9e4e60dfa7b049b4424abb1431661cd04a88051d361
 ---
 
 1

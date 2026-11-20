@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ac3579005348c15c7d33
-# source_url: https://tajpoints.com/2018/01/hum-azadar-e-hussain-jiss-jagah-bhi.html
-# raw_sha256: db5bc9a52fb24afd998216ec1603024103495a374766899f6416a7556ecf6ab5
 ---
 
 Hum Azadar-e-Hussaini Jiss Jagah Bhi Jaein Gaye.

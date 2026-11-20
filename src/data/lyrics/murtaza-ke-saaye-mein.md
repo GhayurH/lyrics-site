@@ -34,9 +34,6 @@ romanLyrics: |-
   Qul hu Allah hu ahad kahti hai is ko hi ahad
   Yeh hi Allah hu samad ki karta aaya hai madad
   Haiṅ meri saaṅseiṅ isi haajat rawa saaye meiṅ
-# source_id: tajpoints:198e5d362e7108de75f8
-# source_url: https://tajpoints.com/2023/02/murtaza-kai-sai-mai-syeda-amber-naqvi.html
-# raw_sha256: 93ea4979efe658f9753ef8c0172ae98f2d847bf1ce26c568714511d1f21476e2
 ---
 
 مصطفیٰ کے سائے میں اور کبریا کے سائے میں

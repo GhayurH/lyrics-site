@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:994020a1ce575f9db0bd
-# source_url: https://tajpoints.com/2018/01/kabe-mein-aye-hain-shair-e-khuda-ali.html
-# raw_sha256: 1e436fbbdcfa29e7d0f938cfeeb1438f80c0a2d3085ae1c6381233967d3d2260
 ---
 
 Kabe Mein Aye Hain Shair-e-Khuda Ali Badshah.

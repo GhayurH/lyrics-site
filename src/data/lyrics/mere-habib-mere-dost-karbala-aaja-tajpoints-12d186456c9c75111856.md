@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:12d186456c9c75111856
-# source_url: https://tajpoints.com/2018/08/mere-habib-mere-dost-karbala-aaja.html
-# raw_sha256: 0f7ed33e19a514b2d4074c47e2ca4b52a10b1bade39a610eb87a0f5cb9932b73
 ---
 
 Mere Habib Mere Dost Karbala Aaja.

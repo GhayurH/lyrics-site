@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4cde319cb021492ff57d
-# source_url: https://tajpoints.com/2022/10/mere-mola-ke-bhi-mola-tera-syed.html
-# raw_sha256: 4d6f477f7b7616e96024c8c7be1a1089b5120932d0ed0a23a0e38930cd234b2e
 ---
 
 Mere Mola Ke Bhi Mola Tera Syed Mohammad Shah.

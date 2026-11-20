@@ -8,9 +8,6 @@ poet: "Shadan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ef9520d94e300832ba68
-# source_url: https://tajpoints.com/2023/02/ali-akbar-ki-midhat-ho-rahi-hai-lyrics.html
-# raw_sha256: 296ead05dec6f30a0ebe2476ba165a6a8072e907c69287309fad0a0f365210a5
 ---
 
 Ali Akbar Ki Midhat Ho Rahi Hai Lyrics

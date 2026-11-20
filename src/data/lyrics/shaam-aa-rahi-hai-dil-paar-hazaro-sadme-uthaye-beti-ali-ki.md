@@ -11,7 +11,6 @@ tags: []
 aliases:
   - "Shaam Aa Rahi Hai Dil Paar Hazaro, Sadme Uthaye Beti Ali Ki"
 published: true
-# editorial_note: "Ninth stanza available in Roman only in one witness; Urdu manually transcribed and needs final reading verification."
 romanLyrics: |-
   Shaam aa rahi hai dil paar hazaro, sadme uthaye beti Ali ki
 

@@ -52,9 +52,6 @@ romanLyrics: |-
   Maare hai kis ne kitne hyder ki laadli ko
   Pathar utha utha ke
   Abbas ki behan ko...
-# source_id: nohayonline:9e179f293d41ecbda62f
-# source_url: https://www.nohayonline.com/details_content.php?id=1923
-# raw_sha256: 9334ed7c3c70bb1e0ec8a896ab8c98ce608cce064a4d051a61453d591f6cfcc9
 ---
 
 ۱

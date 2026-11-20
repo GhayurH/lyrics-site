@@ -61,9 +61,6 @@ romanLyrics: |-
   Danish rehan tumse razi rahenge hyder
   Kausar ka jaam deṅge tum ko ba-roze mehshar
   Zahra ki tum musibat har gaam par sunana
-# source_id: nohayonline:02b5d5c8f4ab87ef89e2
-# source_url: https://www.nohayonline.com/details_content.php?id=1392
-# raw_sha256: 5fc07ad3ae3b11800ef04fb16faedf9b92b51db46a7401ae6700180b4c0d2a86
 ---
 
 اک روز روکے فضہ سے زہرا نے یہ کہا

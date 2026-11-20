@@ -76,9 +76,6 @@ romanLyrics: |-
   Laghawo dhoop ke nara (Husain zindabad)
   Lagaye jaan ye nara (Husain zindabad)
   Kaho ye milke dobara (Husain zindabad)
-# source_id: ziyaraat:5d94da4aac3c0a8474a1
-# source_url: https://www.ziyaraat.net/api/noha/267
-# raw_sha256: 1cba438f54ef00dce07f79b6ff36475d5a30278ae94a738d61e4d458a9bc40a1
 ---
 
 ۱

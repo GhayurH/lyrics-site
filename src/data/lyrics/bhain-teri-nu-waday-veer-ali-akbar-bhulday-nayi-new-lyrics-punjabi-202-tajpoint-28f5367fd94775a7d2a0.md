@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:28f5367fd94775a7d2a0
-# source_url: https://tajpoint.com/bhain-teri-nu-waday-veer-ali-akbar-bhulday-nayi/
-# raw_sha256: b454fe4a1ea4bca2ea16afecf245882e6827f5f1ec49fc3598257f6788ca37ee
 ---
 
 1

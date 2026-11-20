@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9c91e70c07aaf65e1dcd
-# source_url: https://tajpoints.com/2022/08/yateemi-wich-rujhi-hui-han-faheem-ali.html
-# raw_sha256: 16bceb6bcdb82e2a21fdc1c668f56577cf9a44438d51206f97f79c543f14390a
 ---
 
 1

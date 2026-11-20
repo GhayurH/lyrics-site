@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3bf9f01d3f1c9bde855e
-# source_url: https://www.nohawriteups.org/alam-bardar-nadeem-sarwar-2022-1444-lyrics/
-# original_html: snapshots/nohawriteups/original_html/3bf9f01d3f1c9bde855e.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3bf9f01d3f1c9bde855e.json
-# api_content_sha256: e2e6932ab5118b190ec20c3b73d6210afe7e31f6e50cd1dd6c43e0614953b0c7
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Aah alamdar haaye alamdar

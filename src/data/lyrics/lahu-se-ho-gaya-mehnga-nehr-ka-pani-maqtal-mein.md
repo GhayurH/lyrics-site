@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1202f0159550d9fff0ce
-# source_url: https://www.ziyaraat.net/api/noha/2487
-# raw_sha256: 6fe9a88a4f003b4cd13b92839f878dcaee2c6d02a78125c1842e0985fde5db29
 ---
 
 Haey lahoo se ho gaya mehnga

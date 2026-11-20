@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:03a2a79bbc9f0df4c5d1
-# source_url: https://www.ziyaraat.net/api/noha/1129
-# raw_sha256: 2d6c420916dfed101596bd8f0c6546c02cbca3277bb82a6d10e35486957690e0
 ---
 
 Zainab ridawan mangdi agaiye vich bazaaran.

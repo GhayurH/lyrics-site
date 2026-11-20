@@ -66,9 +66,6 @@ romanLyrics: |-
   13
   Majalis meiṅ julusoṅ meiṅ azakhanoṅ meiṅ zindaṅ meiṅ
   Sakina ko hai ab bhi dhundta Abbas ka parcham
-# source_id: nohayonline:099c0fecca54a976de98
-# source_url: https://www.nohayonline.com/details_content.php?id=2648
-# raw_sha256: c91af3bd8cf913aeeeafad372efdbb322c8705b72a2ae335e40cb42d761ede6f
 ---
 
 نشان لشکرِ فوج خدا عباس کا پرچم

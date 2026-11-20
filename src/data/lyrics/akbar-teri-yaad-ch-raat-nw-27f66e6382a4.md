@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:27f66e6382a44545f6d4
-# source_url: https://www.nohawriteups.org/akbar-teri-yaad-ch-raat/
-# original_html: snapshots/nohawriteups/original_html/27f66e6382a44545f6d4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/27f66e6382a44545f6d4.json
-# api_content_sha256: b5421e0ce2dab7a5dfc62e721bab1cbc4def25763da605b2e73630a951e17117
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Akbar teri yaad ch raat dinay teri Sughra pae kurlaway.

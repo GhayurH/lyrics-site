@@ -28,9 +28,6 @@ romanLyrics: |-
   4
   Kinaare nehr ke Abbas aaye to salaami ko
   Nikal aaiṅ thi saari machhliyaaṅ aahista aahista
-# source_id: nohayonline:b9fa80b6d29e02142d8f
-# source_url: https://www.nohayonline.com/content_salaam.php?id=26
-# raw_sha256: 1218bb6cc43aedfa935f04edb77fcad910889d9e574f3ce85ee90b131bb0a31e
 ---
 چلا ہے کربلا کو کارواں آہستہ آہستہ
 علم کی چھا رہی ہے بدلیاں آہستہ آہستہ

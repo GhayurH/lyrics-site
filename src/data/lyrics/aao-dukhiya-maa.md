@@ -45,9 +45,6 @@ romanLyrics: |-
   Bain karat hai ro ro kar
   Ye sun kar naina bhar aawe
   Asghar pyare saanjh bhayi
-# source_id: nohayonline:00cbc11c67baf3fc2e51
-# source_url: https://www.nohayonline.com/details_content.php?id=1346
-# raw_sha256: 27fc7a9c99621c1661590ac1a52a22d45127f910fb49ef7092f1f69ac15d31ae
 ---
 آؤ دکھیا ماں گہروے
 اصغر پیارے سانجھ بھئی

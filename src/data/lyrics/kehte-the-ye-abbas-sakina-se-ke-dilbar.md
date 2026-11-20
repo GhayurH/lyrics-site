@@ -8,9 +8,6 @@ reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:009ca051123161b1da6b
-# source_url: https://www.ziyaraat.net/api/noha/1582
-# raw_sha256: ba49aca1021f1dbb76cc22afb7f078fe3e4675cd3fc41bcefd4c7c8a19bd4664
 ---
 
 Kehtay thay ye Abbas Sakina se ke dilbar

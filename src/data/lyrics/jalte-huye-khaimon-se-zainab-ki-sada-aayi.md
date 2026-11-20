@@ -64,12 +64,6 @@ romanLyrics: 'Jaltay huay khaimo se, Zainab ki sada aayi, Abbas kahan ho tum
   Akhtar ye kaha hoga Ahmad ki nawasi ne
 
   Maqtal mein hai sannata aur maut ki tanhai, Abbas kahan ho tum'
-# source_id: ziyaraat:1594708c47bfb5338f18
-# source_url: https://www.ziyaraat.net/api/noha/2841
-# raw_sha256: 586bd731a72eeb0a626f33bc724a867a729d4bcbf494a8c876e82b5c0f749d8d
-# source_id: ziyaraat:2a850b8e8d9dce6e2f75
-# source_url: https://www.ziyaraat.net/api/noha/2266
-# raw_sha256: 091732e7dc8157fdec33c53dd6a5fbcf86aa2eb592bac63679d47414f81303ba
 ---
 
 جلتے ہوئے خیموں سے، زینبؑ کی صدا آئی

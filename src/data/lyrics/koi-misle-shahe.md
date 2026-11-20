@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Samajh lo Ashq jannat hai usi ki
   Gham-e-Sarwar meiṅ jo aansu bahaaye
-# source_id: nohayonline:acd4e744b74d9681eea3
-# source_url: https://www.nohayonline.com/details_content.php?id=1867
-# raw_sha256: c2fe6a53155cf005a5ec959f9733c810d1bb895114344e89304f1f854803f00d
 ---
 کوئی مثل شاہ دیں ہو تو آئے
 ضعیفی میں جواں کا داغ اٹھائے

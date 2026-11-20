@@ -48,13 +48,6 @@ romanLyrics: |-
   Haalat hai ajab Gohar maasum Sakina ki
   Khuṅ behta hai kaanoṅ se lagte haiṅ tamaanche bhi
   Naazoṅ meiṅ pali bachchi ro ro ke na mar jaaye
-# source_id: nohayonline:02f7386d97bc20a8374e
-# source_url: https://www.nohayonline.com/details_content.php?id=1922
-# raw_sha256: ec8a37b38c5f289e38b8e1eabc289b71edce4d116572bb8ba3a7c974d4cca3fd
-# source_id: tajpoints:5000ad7ed8fd10628a20
-# source_url: https://tajpoints.com/2021/06/darya-se-koi-ja-kar-ghazi-ko-bula-laye.html
-# raw_sha256: 7ef1ed710f95a8e230aa21636e9d34ea4becff82f8c91ab13343368678da88e0
-# editorial_note: Tajpoints Roman source overlaps this fuller bilingual version; source wording preserved through provenance.
 ---
 دریا سے کوئی جا کر غازی کو بلا لائے
 ایسا نہ ہو غربت میں گھر زہرا کا لٹ جائے

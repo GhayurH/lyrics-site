@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f31bfb477a9b4a7a8470
-# source_url: https://tajpoints.com/2024/01/baghdad-ke-pul-par-hai-rakha-lasha-e.html
-# raw_sha256: 7a48ed7dc2440c87d3a6babc52fffbe764f590978a8ad62fe92f6d8b4f996c16
 ---
 
 Baghdad Ke Pul Par Hai Rakha Lasha e Kazim.

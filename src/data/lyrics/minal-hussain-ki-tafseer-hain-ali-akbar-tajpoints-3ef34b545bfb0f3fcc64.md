@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3ef34b545bfb0f3fcc64
-# source_url: https://tajpoints.com/2017/02/minal-hussainas-ki-tafseer-hain-ali.html
-# raw_sha256: 91fdfa891021c96e9cdaf5ef79704e376bf204bfeed6122d9f9a715ea92367e6
 ---
 
 1

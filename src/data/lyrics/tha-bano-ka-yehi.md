@@ -73,9 +73,6 @@ romanLyrics: |-
   15
   Raza har ek armaan dafn kar ke qaid khaane meiṅ
   Chali kehti hui mamta meri dukhiya Khuda haafiz
-# source_id: nohayonline:1d578282c5faaf9a4f87
-# source_url: https://www.nohayonline.com/details_content.php?id=1988
-# raw_sha256: c7209f65403dcb3b45fa03b21bf6274a975bde47388732477aa0cea482793f66
 ---
 تھا بانو کا یہی نالہ میری دکھیا خدا حافظ
 لحد ہے اب تیرا حجرہ میری دکھیا خدا حافظ

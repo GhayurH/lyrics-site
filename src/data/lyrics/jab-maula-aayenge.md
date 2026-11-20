@@ -72,9 +72,6 @@ romanLyrics: |-
   Hazrat-e-Abbas bhi apne alam ko laayeṅ ge
   Nauha ek Rehaan se Maula mere likhwaayeṅ ge
   Phir ye nauha saath meiṅ Sarwar ke sab parhwaayeṅ ge
-# source_id: nohayonline:d595209db4595c04b083
-# source_url: https://www.nohayonline.com/details_content.php?id=3295
-# raw_sha256: 13b071c929b3e3c235ec695395d911aa9119c875b814ef86100a1de9e1dbce4e
 ---
 العجل لبیک مولا
 

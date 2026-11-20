@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:55582fb6485bb5eddf6e
-# source_url: https://tajpoints.com/2022/11/chalay-aao-aey-zawaro-nadeem-sarwar.html
-# raw_sha256: 59a4569247445a8ca525d31ce3254f0cefbd147a434480cefe1e8d3c056f4538
 ---
 
 Labbaik Aba Abdillah

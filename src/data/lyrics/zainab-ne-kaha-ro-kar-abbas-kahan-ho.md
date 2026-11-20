@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:b115375ffda18871295f
-# source_url: https://www.ziyaraat.net/api/noha/308
-# raw_sha256: b42985b1b6c9a8e90dd9f2d74de46fa5c023211077b1e0d1832d362eebafbdf2
 ---
 
 Zainab ne kaha ro kaar Abbas kahan ho

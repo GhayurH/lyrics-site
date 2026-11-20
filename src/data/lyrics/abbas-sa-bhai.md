@@ -64,9 +64,6 @@ romanLyrics: |-
   Rehaan o Raza Zainab o Ghazi ki dua hai
   Wallah ye Shahzadi Sakina ki ata hai
   Is nohe meiṅ taaid-e-Shahanshah-e-Zaman hai
-# source_id: nohayonline:910a5fdb3865d7a9c67a
-# source_url: https://www.nohayonline.com/details_content.php?id=2385
-# raw_sha256: b59e584165340a5b3d09f9ea9a384908ddd43057d9485619ee022c991d539738
 ---
 
 محسوس کرے کوئی تو دل کانپ اٹھے گا

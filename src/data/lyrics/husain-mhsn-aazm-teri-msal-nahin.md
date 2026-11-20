@@ -8,9 +8,6 @@ reciter: "Zeeshan Haider"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:ba59d603f72f1a745741
-# source_url: https://www.ziyaraat.net/api/noha/2892
-# raw_sha256: 5f908a3c191c107003f8aa05176bc80930ce9d59f155a1e7dd035d388fc03634
 ---
 
 حسین محسن اعظم تیری مثال نہیں

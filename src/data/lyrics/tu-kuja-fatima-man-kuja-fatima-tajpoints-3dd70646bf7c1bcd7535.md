@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3dd70646bf7c1bcd7535
-# source_url: https://tajpoints.com/2023/01/tu-kuja-fatima-man-kuja-fatima-lyrics.html
-# raw_sha256: 7870e293eda44780c8ca8bc5a1a1511852667a4008acb63d1580cd4e8671135a
 ---
 
 Tu Kuja Fatima Man Kuja Fatima Sarwar Raza Karbalai Seengar Ali Safvi.

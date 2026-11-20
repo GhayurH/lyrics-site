@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c1c4b92ebfd07a78fda6
-# source_url: https://tajpoints.com/2017/10/thi-sham-o-sahar-yehi-dua-ahl-e-haram.html
-# raw_sha256: bdbba20d5ba8eeabb6ebef6ce36d1ecd5e30f27da009aa458b59ee48c6af8654
 ---
 
 1

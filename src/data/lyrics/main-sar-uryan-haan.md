@@ -9,7 +9,6 @@ reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: ["Main Sir Urya Nay Haan Abbas"]
 published: false
-# alternate_reading: "Ajay taaee Shimr day qabzay chay hai kuj karnaee sakdee"
 ---
 
 Main Sar Uryan Haan Abbas Kiwein Sham Jawaan Gi.

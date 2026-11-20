@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3c7991dab414b34cc7b4
-# source_url: https://tajpoints.com/2020/05/isteghasa-imam-e-zamana-lyrics-in-urdu.html
-# raw_sha256: 00940016558cb89b6d1d10a00221ba80890439c74185feb8a8cd187af1d5d56e
 ---
 
 1

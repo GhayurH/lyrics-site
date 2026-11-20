@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:721defde05b2526a6fc0
-# source_url: https://tajpoints.com/2023/05/akbar-aa-jawin-tere-bajon-sughra-kali.html
-# raw_sha256: c2c939ef0ab6b5c12a2782df26511cf01e987ac9e0657f4e766e9806c2c322c2
 ---
 
 1

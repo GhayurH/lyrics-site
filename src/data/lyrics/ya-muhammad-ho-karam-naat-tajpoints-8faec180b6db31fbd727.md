@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8faec180b6db31fbd727
-# source_url: https://tajpoints.com/2022/10/ya-muhammad-ho-karam-naat-lyrics.html
-# raw_sha256: 3163040b8c366dc81e4fdcc83457c9d2871700230edf0cfc9d61ab6593a83bc7
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:205dbf120993b18d5e72
-# source_url: https://tajpoints.com/2023/08/rassi-say-ghut-ta-hai-mera-gala-yasir.html
-# raw_sha256: 44f4ed03805fcd9555478733a96300818dd061dbd74e21aa62d52dc22b24f317
 ---
 
 1

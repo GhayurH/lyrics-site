@@ -41,9 +41,6 @@ romanLyrics: |-
   Es Gham Nay Keetha Bay Chayn Nana
   Bay Chayn Nana, Bay Chayn Nana
   Akbar Bhera Nou Lagi Saang Nana
-# source_id: ziyaraat:cae9189332d699df71b4
-# source_url: https://www.ziyaraat.net/api/noha/758
-# raw_sha256: 9ac005989ba4cc6c9b7dda50140f97ebcab4d64dab5a500d21803cdc232ed29f
 ---
 
 ۱

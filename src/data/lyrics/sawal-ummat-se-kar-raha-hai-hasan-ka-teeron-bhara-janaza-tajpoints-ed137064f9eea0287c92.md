@@ -8,9 +8,6 @@ poet: "Behlool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed137064f9eea0287c92
-# source_url: https://tajpoints.com/2019/10/sawal-ummat-se-kar-raha-hai-hasan-ka.html
-# raw_sha256: f48d18a6ef315ae501ab87598ff31533d1cf9bcf0ee864e9c821f2f90347b498
 ---
 
 1

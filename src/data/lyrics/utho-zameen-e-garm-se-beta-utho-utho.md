@@ -88,12 +88,6 @@ romanLyrics: 'Utho zameen e garm se beta utho utho
   Maula ke saath karta hai jaweed ye sukhan
 
   Awaaz dete hai shahe waala utho utho'
-# source_id: nohayonline:084a3d6e11e8239ddd81
-# source_url: https://www.nohayonline.com/details_content.php?id=3044
-# raw_sha256: 41af5050dab335028f70cc3c91f81a7123918979f8137c4303ee05d4f0e082e8
-# source_id: ziyaraat:0ee447a49593490c60b4
-# source_url: https://www.ziyaraat.net/api/noha/1333
-# raw_sha256: c2f420dcc1a479e6937302eef94c2c314db127b6fbed1b3c7c33f269ba69200f
 ---
 
 اٹھو زمین گرم سے بیٹا اٹھو اٹھو

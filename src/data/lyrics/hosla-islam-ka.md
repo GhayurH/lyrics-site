@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Takht-e-shaahi par rahe ya zer-e-daaman-e-Husain
   Karbala meiṅ ho chuka hai faisla Islaam ka
-# source_id: nohayonline:1d0efd3fc69ba70df638
-# source_url: https://www.nohayonline.com/details_content.php?id=570
-# raw_sha256: 7eb707eca2bfa5f58dfc450255d4d2ad8ba572cb0b5c8e17902c7f5790015501
 ---
 
 کربلا والوں میں دیکھو حوصلہ اسلام کا

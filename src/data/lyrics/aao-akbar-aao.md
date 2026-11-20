@@ -58,12 +58,6 @@ romanLyrics: |-
   Dena hai agar maaṅ ko pursa
   Irfan aur Mazhar ye nauha
   Umm-e-Laila ko sunao
-# source_id: nohayonline:782a5a9891eb72518158
-# source_url: https://www.nohayonline.com/details_content.php?id=3195
-# raw_sha256: ea2b84a55fb77ca71be1ef0bc6aa1d6ab4beb440bb644fc3061fb63b3d99a622
-# source_id: ziyaraat:ea57424d68525d429bf0
-# source_url: https://www.ziyaraat.net/api/noha/1103
-# raw_sha256: 80d048fa27fa944099826e745d583587a94d89dbf1e50b0020491725c600c647
 ---
 آؤ اکبر آؤ میرے اکبر آؤ
 مادر کے گلے لگ جاؤ

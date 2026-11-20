@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:5d3a4733aeaa0c6b0a91
-# source_url: https://www.ziyaraat.net/api/noha/414
-# raw_sha256: 4fe963ca1d1c1435b9efea2b6d1ddf33dee72843af69b89a2b725fb58dcc2643
 ---
 
 Na ro maula

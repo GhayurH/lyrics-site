@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1ee472149d5bc044b1a7
-# source_url: https://www.nohawriteups.org/main-bewaye-muslim-hon-mera-naam-ruqayya-hai/
-# original_html: snapshots/nohawriteups/original_html/1ee472149d5bc044b1a7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1ee472149d5bc044b1a7.json
-# api_content_sha256: 183c5b02deb9d06cf71ab419ed5af9176bab8c49b145b6b0569ffa1d4cbf71e0
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 MEIN BEWAYE MUSLIM HOON MERA NAAM RUQAYYA HAI

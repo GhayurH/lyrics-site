@@ -8,9 +8,6 @@ poet: "Zafar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4a4aac903ba8887a4dd0
-# source_url: https://tajpoints.com/2022/10/dil-se-juda-kabhi-ghum-e-mola-nahi-kiya.html
-# raw_sha256: b47b866249d413b8d0f9de621172e90dc52404f4345419eb95d4679ee75f259f
 ---
 
 1

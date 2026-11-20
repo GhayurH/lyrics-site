@@ -8,9 +8,6 @@ poet: "Khursheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:55b6d6ae7b6e7974c29f
-# source_url: https://tajpoints.com/2018/06/baqir-ke-ladle-ka-taboot-utha-hai.html
-# raw_sha256: f3cedc6feb4c1e9e732515fa7745b564ae9220497b0a3b2e5159dd77e1228fbb
 ---
 
 1

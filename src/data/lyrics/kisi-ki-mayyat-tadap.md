@@ -40,9 +40,6 @@ romanLyrics: |-
   Chini hai kausar ab uski chadar
   Jabin pa saahil pa alqama ke
   Kisi ki mayyat tarap rahi hai
-# source_id: nohayonline:cf152689aa27bdc18139
-# source_url: https://www.nohayonline.com/details_content.php?id=238
-# raw_sha256: 79faac035ae2ad505e1a82b6b480171fd8da381daa2bb998290ccff03ccd084b
 ---
 
 ۱

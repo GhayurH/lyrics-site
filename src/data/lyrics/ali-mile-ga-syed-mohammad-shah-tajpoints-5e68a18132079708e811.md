@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5e68a18132079708e811
-# source_url: https://tajpoints.com/2022/02/ali-mile-ga-syed-mohammad-shah-lyrics.html
-# raw_sha256: 3887090acc827e7b4b61f67b5e5c44b1c114cb7648f8bcee0a0442a52b1784c4
 ---
 
 1

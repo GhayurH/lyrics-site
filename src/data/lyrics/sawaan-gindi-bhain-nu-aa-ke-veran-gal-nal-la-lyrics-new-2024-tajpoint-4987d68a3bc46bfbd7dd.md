@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:4987d68a3bc46bfbd7dd
-# source_url: https://tajpoint.com/sawaan-gindi-bhain-nu-aa-ke-veran-gal-nal-la-lyrics/
-# raw_sha256: 6e47e7997c5217013f355d35c89c96390734a10c02a01a403ec6a48ce9dd218a
 ---
 
 1

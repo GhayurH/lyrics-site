@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3148893aaca0c44d95a5
-# source_url: https://tajpoints.com/2017/02/mutasil-har-ghari-hussainas-se-hai.html
-# raw_sha256: 3cca601cd2ecb6c0ede3615f171f8c42433916d4fe1a4f0453cccbdbd42f576e
 ---
 
 Yeh Karam Daimi Hussain Se Hai.

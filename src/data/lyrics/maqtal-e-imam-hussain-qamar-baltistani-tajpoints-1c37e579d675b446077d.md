@@ -8,9 +8,6 @@ poet: "Hilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1c37e579d675b446077d
-# source_url: https://tajpoints.com/2023/07/maqtal-e-imam-hussain-qamar-baltistani.html
-# raw_sha256: 4a636b8a5715704f1aeedafd3e604a276f9b9362d6bceb58bf75ece11b6f1cdf
 ---
 
 1

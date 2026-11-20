@@ -8,9 +8,6 @@ poet: "Dabeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5783c53d33a6e1ed0980
-# source_url: https://tajpoints.com/2025/01/ali-ka-pehla-number-mir-sajjad-mir.html
-# raw_sha256: 8e1a21b232a23c276442989356cabbf6a74211d9075f6149703b189a87935b18
 ---
 
 Ali Ka Pehla Number Mir Sajjad Mir.

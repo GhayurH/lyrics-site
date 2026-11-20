@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d8681228b6e178eac841
-# source_url: https://tajpoints.com/2020/08/aye-khuda-shabbir-soye-karbala-jane-ko.html
-# raw_sha256: 41138491bb7159fa1311a77c9a4ba2b5c77df863eb3564c1ac6c9f35a713163e
 ---
 
 Aye Khuda Shabbir Soye Karbala Jane Ko Hai.

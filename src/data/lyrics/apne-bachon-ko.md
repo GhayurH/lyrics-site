@@ -62,9 +62,6 @@ romanLyrics: |-
   Aa gaya yaad jo hamshakl-e-Nabi Zainab ko
   Dekh kar naana ko aise sar-e-mehshar roi
   Jis tarah laasha-e-Akbar pe tarap kar roi
-# source_id: nohayonline:9eb919d06c3ebfe36f93
-# source_url: https://www.nohayonline.com/details_content.php?id=3050
-# raw_sha256: 883ef00c3c2d73f480fae1b7857930baaea00ab2926336a501961b2c3bb17427
 ---
 ہائے اکبر ہائے زینب
 اپنے بچوں کو کہاں زینب مضطر روئی

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e678efc6f8ac17bbb8e2
-# source_url: https://www.nohawriteups.org/laal-meray-bichray-hain-bhaiya/
-# original_html: snapshots/nohawriteups/original_html/e678efc6f8ac17bbb8e2.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e678efc6f8ac17bbb8e2.json
-# api_content_sha256: 26d86302d70111ba701bdd20e878a31fcf82badef1dd229fc22d8928ff42443b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Laal meray bichray hain bhaiya kahin say lao unhain ..

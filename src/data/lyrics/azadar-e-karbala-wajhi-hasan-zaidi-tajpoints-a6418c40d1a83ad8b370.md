@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a6418c40d1a83ad8b370
-# source_url: https://tajpoints.com/2022/07/azadar-e-karbala-wajhi-hasan-zaidi.html
-# raw_sha256: 530ffa9ea424406fcd9f02887f70289546e9da379b8888d1bfbadc881fa3cdd9
 ---
 
 Azadar E Karbala Wajhi Hasan Zaidi.

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:42a6dad8ddf0a1ad03df
-# source_url: https://www.ziyaraat.net/api/noha/1203
-# raw_sha256: 7ff87637309cd34368228ff544a4dcbd42b41c01b203270cf0eab314a3fafe37
 ---
 
 کربلا کانپ اٹھی خلد میں روۓ نبیۖ

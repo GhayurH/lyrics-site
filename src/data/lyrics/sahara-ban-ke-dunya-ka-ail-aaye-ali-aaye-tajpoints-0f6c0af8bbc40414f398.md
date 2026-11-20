@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f6c0af8bbc40414f398
-# source_url: https://tajpoints.com/2018/03/sahara-ban-ke-dunya-ka-ail-aaye-ali-aaye.html
-# raw_sha256: 399d7ae64e30c43020d27be8e803aeaf953e51babd5271277c423ec89baa102b
 ---
 
 1

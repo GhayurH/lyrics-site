@@ -56,9 +56,6 @@ romanLyrics: |-
   Ghutti Meiṅ Ashk-e-Gham Ko Pilati Rahi Hai Maa
   Walid Ne Di Hai Kaan Meiṅ Nohoṅ Ki Woh Azaaṅ
   Rehan Jis Se Sare Zamane Meiṅ Naam Hai
-# source_id: ziyaraat:c763d4487f8a65bea53f
-# source_url: https://www.ziyaraat.net/api/noha/1234
-# raw_sha256: 484772d72282812d9089bf859ecb2b6d5f7c0f7d4555c9f2a7a328c83784421e
 ---
 ہے سوگ جس جگہ بھی شہہ مشرقین کا
 خود پرسہ زہراؑ لیتی ہیں اس نور عین کا

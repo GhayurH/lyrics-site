@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d9c46d2cdd640b842ab4
-# source_url: https://www.nohawriteups.org/ghazi-as-rakhi-khas-khayal-ahna-pardey-daran-da-shahzaib-hassan-party-2026/
-# original_html: snapshots/nohawriteups/original_html/d9c46d2cdd640b842ab4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d9c46d2cdd640b842ab4.json
-# api_content_sha256: cf1a8f874f84b72b27264ad03238ee00f6c4c304a24cd40f5248974beda4feb8
-# editorial_note: Unpublished source-faithful draft from approved valid panjabi only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review; Panjabi language label requires review.
 ---
 
 Ghazi as Rakhi Khas Khayal Ahna Pardey Daran Da | Shahzaib Hassan Party 2026

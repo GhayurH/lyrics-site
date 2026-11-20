@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Sajjad o Takallum aur ye Mir Hasan kya hai
   Khud Khizr bhi Jannat meiṅ kehte nazar aaeṅge
-# source_id: nohayonline:ea1245078cf5779e02d4
-# source_url: https://www.nohayonline.com/details_content.php?id=1522
-# raw_sha256: e587768f5cc7538792bfb5faf382506a786828524e7f2a52c35658907eb4e36d
 ---
 
 عباس کے نوکر ہیں پانی تو پلائیں گے

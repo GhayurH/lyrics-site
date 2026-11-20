@@ -8,9 +8,6 @@ poet: "Darwaish"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5cafe5858d1f9f4cbde0
-# source_url: https://tajpoints.com/2024/09/mehboob-ki-mehfil-shahid-baltistani.html
-# raw_sha256: eb08365372a55d70ae266104b495a16fc712baa595768eb9adc5c34d24c50460
 ---
 
 Mehboob Ki Mehfil Shahid Baltistani

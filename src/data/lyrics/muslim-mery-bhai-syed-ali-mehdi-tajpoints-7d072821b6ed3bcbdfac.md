@@ -8,9 +8,6 @@ poet: "Mehdi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7d072821b6ed3bcbdfac
-# source_url: https://tajpoints.com/2026/09/muslim-mery-bhai-syed-ali-mehdi-lyrics.html
-# raw_sha256: 98e3b8e7bfa0c97c78f842991af2bf615a5a2bb751c427801430200beaf07bc7
 ---
 
 1

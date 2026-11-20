@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:d7bb2042b8a0bc27156b
-# source_url: https://www.ziyaraat.net/api/noha/325
-# raw_sha256: e06f75c0a1c3af6aabf486796cc8bea20e318a4acd0375a2e92c6d1c1b18126f
 ---
 
 Zainab kay khulay saar pe Abid ki nazaar hain

@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:45b51815322e67317f35
-# source_url: https://tajpoints.com/2025/12/mujhe-tum-buhat-yaad-aogi-amma-syed.html
-# raw_sha256: c717826c420dc66abc999651f795698ed83c4de6590ec841b1d9f6cabbefcabf
 ---
 
 Mujhe Tum Buhat Yaad Aogi Amma Syed Kazim Hussain Zaidi.

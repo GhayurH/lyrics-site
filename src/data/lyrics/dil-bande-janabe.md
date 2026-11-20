@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Mirza yehi dil meiṅ apne reh reh ke khayal aata hai
   Is mulk meiṅ tum par Maula yuṅ zulm na tora jaata
-# source_id: nohayonline:3f6b2820493e0df9a6bf
-# source_url: https://www.nohayonline.com/details_content.php?id=68
-# raw_sha256: 3708e5634f1cf1582e6d8e0064aa25901adddc889c6a575294ad41dfcfd657f2
 ---
 دل بندِ جنابِ زہرا اس دیس میں گر آ جاتا
 گھر گھر میں اماں مل جاتی ہر دل میں جگہ پا جاتا

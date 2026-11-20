@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:702c6900455507881884
-# source_url: https://www.ziyaraat.net/api/noha/134
-# raw_sha256: f572a100e64282a770d5b11c562f2bc7c421486f3e86daaf5a3fd60db92bbc0c
 ---
 
 Alvida baba alvida baba

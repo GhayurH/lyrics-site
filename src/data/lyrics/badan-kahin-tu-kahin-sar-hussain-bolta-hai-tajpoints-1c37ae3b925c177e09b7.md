@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1c37ae3b925c177e09b7
-# source_url: https://tajpoints.com/2017/02/badan-kahin-tu-kahin-sar-hussainas.html
-# raw_sha256: 2f12a56c0e722d0663c61b6dd5a1d4fccd1a573adbf120f43c39c8145195d82d
 ---
 
 Badan Kahin Tu Kahin Sar Hussain Bolta Hai.

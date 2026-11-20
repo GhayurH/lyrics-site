@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:06d60bbd96b2587675cf
-# source_url: https://tajpoints.com/2023/04/yateem-kehte-hain-log-hum-ko-ali-raza.html
-# raw_sha256: 07fee2cfb41a5195424467731022b6cfe7200920163804e32397c571ac6704ff
 ---
 
 1

@@ -51,9 +51,6 @@ romanLyrics: |-
   Maadar ko in ke byaah ka armaaṅ zarur tha
   Akbar jawaaṅ the ji se guzarne ke din na the
   Ae dasht-e-Karbala abhi marne ke din na the
-# source_id: nohayonline:6beb4ea192213898c216
-# source_url: https://www.nohayonline.com/details_content.php?id=3509
-# raw_sha256: 157393c28065d599f74e22be044103f2548b936705675a5127bb4da747df4bc1
 ---
 کیا سخت ماجرا ہے کہانی حسین کی
 بے وقت کیا مٹی ہے نشانی حسین کی

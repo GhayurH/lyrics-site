@@ -70,9 +70,6 @@ romanLyrics: |-
   Mera laasha uthaane to aaoge na
   Roz chehra dikhane to aaoge na
   Achha Baba sulane to...
-# source_id: nohayonline:5efbf5d96a202304a837
-# source_url: https://www.nohayonline.com/details_content.php?id=1166
-# raw_sha256: a31c2e8bff89a739679a4d1872ff990db81bec8bc94d4b212ed3b81d41ec728b
 ---
 
 ۱

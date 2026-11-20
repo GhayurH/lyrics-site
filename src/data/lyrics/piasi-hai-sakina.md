@@ -82,9 +82,6 @@ romanLyrics: |-
   Ye kehti hui jaaye na Shabbir ki dukhtar
   Lab khushk zabaaṅ sukhi hai roti hai Sakina
   Paani na mila aaj bhi pyaasi hai Sakina
-# source_id: ziyaraat:64ca7544904d1fd609ab
-# source_url: https://www.ziyaraat.net/api/noha/1214
-# raw_sha256: af6133d014efb0069c9bb6262dfc41f0e46615b05dd70119841425cf9ce0e33b
 ---
 
 پیاسی ہے سکینہؑ ہائے پیاسی ہے سکینہؑ

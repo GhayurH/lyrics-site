@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:403d13aa3b007018568e
-# source_url: https://tajpoints.com/2019/04/karam-karo-lajpal-dhamal-lyrics-in-urdu.html
-# raw_sha256: 62216b2e673be2dff8e56a08ae31cb521449afa93a6393ed5ba44ea359b1891e
 ---
 
 Tera Sawali Na Jaye Khali Sakhi Qalandar Mujhe Atta Kar Laga De Bera Paar.

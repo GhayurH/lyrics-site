@@ -40,17 +40,6 @@ romanLyrics: |-
   7
   Kashti Rahil Ki Bhi Paar Laga De Maula
   Kashti-e-Ummat-e-Islam Bachane Wale
-# source_id: nohawriteups:c1de9d7e4f784f056113
-# source_url: https://www.nohawriteups.org/yeh-raaz-kya-hai-duniya-kai-bananay-waalay/
-# original_html: snapshots/nohawriteups/original_html/c1de9d7e4f784f056113.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/c1de9d7e4f784f056113.json
-# api_content_sha256: 09cfd3f41fffba9176bb59a62983277001fdd6c143436047ced038f79da17834
-# source_id: nohawriteups:b4a17b48d21f44a9418a
-# source_url: https://www.nohawriteups.org/yeh-raaz-kya-hai-duniya-kay-bananay-valay/
-# original_html: snapshots/nohawriteups/original_html/b4a17b48d21f44a9418a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b4a17b48d21f44a9418a.json
-# api_content_sha256: adc4b335a80aa912ae29c0a0f3930e3f4aa7c8f3a1692b621efebe90c6688189
-# editorial_note: Both NohayWriteups Roman witnesses duplicate the seven stanzas already present in this bilingual file; differing spellings retained in archived source provenance.
 ---
 
 یہ راز کیا ہے دنیا کے بنانے والے

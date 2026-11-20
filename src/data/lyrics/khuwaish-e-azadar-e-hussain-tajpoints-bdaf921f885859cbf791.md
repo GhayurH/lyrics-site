@@ -8,9 +8,6 @@ poet: "Laeeq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bdaf921f885859cbf791
-# source_url: https://tajpoints.com/2021/01/khuwaish-e-azadar-e-hussain-lyrics-in.html
-# raw_sha256: cdcaea365d2deaafc9260e7ec341259c31609ac77b80cd097a06fe3f1b31ff93
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c48957033e807e7fd886
-# source_url: https://www.ziyaraat.net/api/noha/1283
-# raw_sha256: 66862c3f8880d743f425e89184d6813847ae68561c1113db5001b745afb140d9
 ---
 
 بے وارثاں وانگوں پُل تے پۂ رحمان جنا زہ کاظم ؑ دا

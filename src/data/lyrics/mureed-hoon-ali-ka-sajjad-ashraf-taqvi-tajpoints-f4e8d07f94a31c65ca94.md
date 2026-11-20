@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f4e8d07f94a31c65ca94
-# source_url: https://tajpoints.com/2022/07/mureed-hoon-ali-ka-sajjad-ashraf-taqvi.html
-# raw_sha256: faa29cd86bbac8dd023a53d3553ecc415d5bd4e7c05a4860e622256ee60ef290
 ---
 
 Mureed Hoon Ali Ka Sajjad Ashraf Taqvi.

@@ -8,9 +8,6 @@ poet: "Naqvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9031a24c414c0a87647f
-# source_url: https://tajpoints.com/2019/01/al-amaan-al-amaan.html
-# raw_sha256: dadf72e0c4f9ed6fe737de5c27b64c04ccdf3d758fd508e723ac701eba3d4073
 ---
 
 Rote Hain Mehdi Soch Ke Zainab Ki Siskiyaan.

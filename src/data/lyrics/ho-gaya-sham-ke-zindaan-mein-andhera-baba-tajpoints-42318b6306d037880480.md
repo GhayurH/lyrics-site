@@ -8,9 +8,6 @@ poet: "Abrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:42318b6306d037880480
-# source_url: https://tajpoints.com/2020/06/ho-gaya-sham-ke-zindaan-mein-andhera.html
-# raw_sha256: 88fc90acfcec126de54bed770f42096fbfb6eb0ad6293410b867bd8032af82d6
 ---
 
 1

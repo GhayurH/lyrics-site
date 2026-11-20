@@ -8,9 +8,6 @@ poet: "Ahsaan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dc2278b34db0244c45be
-# source_url: https://tajpoints.com/2025/07/aseeran-e-karbala-saleem-mastan.html
-# raw_sha256: 691c78dcb6db03c69374341f33881f94983cb350e7183204ff9e5db1b4ac75c5
 ---
 
 Aseeran e Karbala Saleem Mastan Wa Bradran.

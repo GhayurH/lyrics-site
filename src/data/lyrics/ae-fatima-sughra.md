@@ -7,9 +7,6 @@ direction: "rtl"
 kalamType: "Noha"
 aliases: []
 published: false
-# source_id: ziyaraat:20fa94c8fc806c8c17ef
-# source_url: https://www.ziyaraat.net/api/noha/619
-# raw_sha256: 9f67259b59996809c16e85f208f45f300713dbc944a0e3362b6cd7aa2b8fb684
 romanLyrics: |-
   1
   Watan may ahle haram ka jo qafela pohoncha

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:828be3f5709d667af036
-# source_url: https://www.ziyaraat.net/api/noha/2151
-# raw_sha256: cb70a6c9d3d807c2b09a520ebcee8bc24be0fa3bab0414231402f9d56960f5ed
 ---
 
 Karbala say sham tak Sajjad Khon Rota raha

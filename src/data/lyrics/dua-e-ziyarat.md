@@ -48,9 +48,6 @@ romanLyrics: |-
   Ahsan ye dil meiṅ hasrat liye ji raha hai Aazam
   Karbobala meiṅ ik din karuṅ ga zarur maatam
   Ik pal na thamne paae wahaaṅ ashk-e-gham nasib ho
-# source_id: nohayonline:b4ee829d67c95f66f232
-# source_url: https://www.nohayonline.com/details_content.php?id=1469
-# raw_sha256: fdb10972388562c367417fcbd365964fe6d69200dcd263612328cdb66915189b
 ---
 یا رب ہمیں بھی زیارت کربوبلا نصیب ہو
 شاہ زمن کے روضے پہ ہمیں حاضری نصیب ہو

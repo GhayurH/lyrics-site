@@ -60,9 +60,6 @@ romanLyrics: |-
   Sab ko haasil nahiṅ irfaan azadaari ka
   Martaba dekh Musalmaan azadaari ka
   Ik wafaadaar qabile ke azadaar haiṅ hum
-# source_id: nohayonline:8fc85dff582d31153d8f
-# source_url: https://www.nohayonline.com/details_content.php?id=937
-# raw_sha256: 143f208f8c4ad8f22279fdd1bad1ffc06c98689c0014288e2d4acbb0480f7443
 ---
 کربلا والوں کے نائب عزادار ہیں ہم
 غم شبیر پہ جاں دینے کو تیار ہیں ہم

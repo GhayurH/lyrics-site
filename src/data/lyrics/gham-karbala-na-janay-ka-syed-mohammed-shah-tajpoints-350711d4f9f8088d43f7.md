@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:350711d4f9f8088d43f7
-# source_url: https://tajpoints.com/2021/08/gham-karbala-na-janay-ka-syed-mohammed.html
-# raw_sha256: 3625817da7afc51064441dcc7fb5bb5a0033da49d3d1bf9fd2f58eef4c2c48cc
 ---
 
 1

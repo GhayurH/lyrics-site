@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:1da1888bb62717c21955
-# source_url: https://tajpoint.com/khat-sughra-da-aaya-aye-akbar-toor-na-sawaan-lyrics/
-# raw_sha256: 4ddc51907a8b742744631cb97761c168244908f58045fab3307a46bbfaac90dc
 ---
 
 1

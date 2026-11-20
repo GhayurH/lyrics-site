@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f803e42c11f1bf4dbc0d
-# source_url: https://www.nohawriteups.org/nahi-bhulna-haye-sain-ruqaiyya-nu/
-# original_html: snapshots/nohawriteups/original_html/f803e42c11f1bf4dbc0d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f803e42c11f1bf4dbc0d.json
-# api_content_sha256: d433f1aaf20917119095bf7f55592a499fc0ab4b16c50ddfeb974fffea509e4d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Nahi Bhulna Haye Sain Ruqaiyya Nu

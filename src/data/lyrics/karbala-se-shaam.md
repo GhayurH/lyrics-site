@@ -65,9 +65,6 @@ romanLyrics: |-
   Hui zabt ki yahaaṅ inteha
   Chala kaaṅtoṅ par wo mera Imaam
 reciter: "Aqif Hussain"
-# source_id: nohayonline:24aa5bc5af58520c592c
-# source_url: https://www.nohayonline.com/details_content.php?id=1477
-# raw_sha256: 580ca19fc02ae2df25045f1b82e14d7caf7891eafa9e9b77610a420c69ae4a35
 ---
 بعد عاشور جو کیا ہم پہ ستم
 کربلا سے کوفہ و شام بے مقنہ و چادر

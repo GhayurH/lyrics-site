@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a13877f4776eb5ff2b40
-# source_url: https://tajpoints.com/2021/06/hussain-likha-hai-sajjad-ashraf-taqvi.html
-# raw_sha256: 68d3ae28fed0c99b92f73f704c3c0740beed811fa7ac8719deaacb2a38080ade
 ---
 
 Hussain Likha Hai Sajjad Ashraf Taqvi Write Up

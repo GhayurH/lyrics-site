@@ -146,9 +146,6 @@ romanLyrics: |-
   Husain Husain Husain Husain
   Husain Husain Husain Husain
   Husain Husain Husain Husain
-# source_id: nohayonline:0c7866dbcf0fd226b2aa
-# source_url: https://www.nohayonline.com/details_content.php?id=3085
-# raw_sha256: a454e083827a6ecc8fccc4ea5523f5f5b7550f23b2bb942a881b284aafc321ea
 ---
 
 ۱

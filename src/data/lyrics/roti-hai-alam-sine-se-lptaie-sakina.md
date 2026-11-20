@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7b2a02d4dc4b411ae928
-# source_url: https://www.ziyaraat.net/api/noha/2209
-# raw_sha256: 2537745fa231944b8982622c3aa3bc85c6531e22c0666b96a29609154fd7bd2d
 ---
 
 Roti hai alam sine se liptaae sakina

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bd398c502a200ad487ea
-# source_url: https://tajpoints.com/2018/04/wich-pardesaan-kyun-tur-pay-ne-veer.html
-# raw_sha256: ec56dfcdbe107e04e95b66ce82261d1c06f8edf6c10fe2e6e5432d52c7a0a60e
 ---
 
 Wich Pardesaan Kyun Tur Pay Ne Veer Pyare.

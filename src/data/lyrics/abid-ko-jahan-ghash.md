@@ -63,9 +63,6 @@ romanLyrics: |-
   Roye na mera Maula kiun kar
   Afsos ke turbat meiṅ ab tak
   Zehra ko rulaya jaata hai
-# source_id: nohayonline:1e019e004076ad33f066
-# source_url: https://www.nohayonline.com/details_content.php?id=1066
-# raw_sha256: 90595ea591ba7b79b677a0e0900dc59a6ebaa432abd1b64cfad2b641accf2b93
 ---
 عابد کو جہاں غش آتا ہے
 درّوں سے جگایا جاتا ہے

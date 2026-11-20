@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:200a20e34ff59a9e3719
-# source_url: https://tajpoints.com/2023/06/zainab-wain-kare-karbal-wich-be-khata.html
-# raw_sha256: 6121f20b5db8973423545fa47dc937027153e2e5e94dec67c1ac9fe389d460b3
 ---
 
 1

@@ -69,12 +69,6 @@ romanLyrics: |-
   Kiuṅ kar na Bober likhe Karbal ka fasana
   Milta hai Najaf se use lafzoṅ ka khazana
   Gham-e-Aal-e-Payambar ka manate hi raheṅge
-# source_id: nohayonline:b2e59d7b73329a4356cf
-# source_url: https://www.nohayonline.com/details_content.php?id=804
-# raw_sha256: d12231872b07c37d6ed35af516c0c440963b9217b6d1a818166ea06903c56f6f
-# source_id: ziyaraat:f63b865691590f88d0ab
-# source_url: https://www.ziyaraat.net/api/noha/2348
-# raw_sha256: 0500f192cc04691f7b32c855e836af61060e990b340f986c165201f2e6d57af9
 ---
 
 شبیر کا پیغام سناتے ہی رہیں گے

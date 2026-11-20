@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f99ae2ea38d2f500654c
-# source_url: https://tajpoints.com/2026/07/tukre-hasan-k-laal-ke-syed-mudassir.html
-# raw_sha256: d793321897c847a6cfa3dae34d518fef975a6ec036dcab7951d9fef4aa0a042d
 ---
 
 Tukray Hasan Ke Lal Ke Gathri Mein Aaye Hain.

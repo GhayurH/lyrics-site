@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d3df544c67436fd2b490
-# source_url: https://www.nohawriteups.org/abbas-kahan-ho-2-2/
-# raw_sha256: e46b503297013cea76fdbd9dd2b3466460220a6193fcfad579dc703fc2db34a2
-# source_title_original: Abbas Kahan Ho
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 Abbas Kahan Ho

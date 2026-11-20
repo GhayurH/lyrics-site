@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8ce9bf4ae1780f084bad
-# source_url: https://tajpoints.com/2022/01/haye-zahra-haider-rizvi-lyrics-in-urdu.html
-# raw_sha256: aef37d5f90ef674530c374dc6bda8c416108d2297e65a3ca57e73ed6b491e9b7
 ---
 
 1

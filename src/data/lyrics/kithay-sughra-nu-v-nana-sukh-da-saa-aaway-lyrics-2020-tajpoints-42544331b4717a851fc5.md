@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:42544331b4717a851fc5
-# source_url: https://tajpoints.com/2020/06/kithay-sughra-nu-v-nana-sukh-da-saa.html
-# raw_sha256: 1f07fb73a87096e259da743a47b08c2659ec7f42372a0ff391b1bebbcd6efd7c
 ---
 
 Kithay Sughra Nu V Nana Sukh Da Saa Aaway.

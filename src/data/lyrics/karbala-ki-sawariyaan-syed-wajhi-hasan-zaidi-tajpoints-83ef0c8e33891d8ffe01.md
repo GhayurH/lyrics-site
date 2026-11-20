@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:83ef0c8e33891d8ffe01
-# source_url: https://tajpoints.com/2021/04/karbala-ki-sawariyaan-syed-wajhi-hasan.html
-# raw_sha256: efa1f7d615ed3df08cfdd650d743f76b84a4238fb751fa35052ed7e5cf138c1c
 ---
 
 Karbala Ki Sawariyaan Syed Wajhi Hasan Zaidi.

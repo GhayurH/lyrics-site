@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9fe07c7ac40ca953fa9e
-# source_url: https://tajpoints.com/2023/04/shar-e-khuda-par-wajhi-hasan-zaidi.html
-# raw_sha256: 4d83b4b455278b75b84e5f307a56dbfafa484d78c1383547ade8a955ee6ffe69
 ---
 
 Shar e Khuda Par Wajhi Hasan Zaidi

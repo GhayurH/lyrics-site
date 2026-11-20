@@ -80,9 +80,6 @@ romanLyrics: |-
   Apne bachche ki gardan pe tegh-e-jafa
   Dekhti hoṅgi Zahra sar-e-Karbala
   Guṅjti hogi dasht-e-bala meiṅ sada
-# source_id: nohayonline:a37b63ba821408dbdb50
-# source_url: https://www.nohayonline.com/details_content.php?id=1990
-# raw_sha256: f6270b0c0a8daf716076968d66ff713385b7e620b4b7640cb5351645ce963423
 ---
 بستر سے تھرتھرا کے اٹھیں تھام کے عصا
 قبرِ نبی پہ فاتحۂ آخری پڑھا

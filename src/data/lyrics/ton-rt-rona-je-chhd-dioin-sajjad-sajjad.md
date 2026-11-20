@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:9c27f6310e66ea99f821
-# source_url: https://www.ziyaraat.net/api/noha/2094
-# raw_sha256: 4389dc241416adca2b4c3159e69f9687863d513361acbb9549d921bf5ad50075
 ---
 
 Haye Sajjad

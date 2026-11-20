@@ -50,9 +50,6 @@ romanLyrics: |-
   Ghazab ke bain haiṅ Safdar likhe jo aaj Mazhar ne
   Alam jhukte hue dekha kaha beti se Sarwar ne
   Ke darya par gaya mara Alamdar-e-Wafa Ghazi
-# source_id: nohayonline:fb4837219d1e7dcee8dd
-# source_url: https://www.nohayonline.com/details_content.php?id=1544
-# raw_sha256: 08dc80346e4f3cc878fa130fd36b69a3f99cf4dad71f268587d42846fec615e1
 ---
 ہواؤں میں فضاؤں میں سکینہ کی دعاؤں میں
 ہے گھر گھر پر علم تیرا علمدارِ وفا غازی

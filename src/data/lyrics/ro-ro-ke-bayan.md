@@ -57,9 +57,6 @@ romanLyrics: |-
   Is majlis-e-Shabbir meiṅ haathoṅ ko utha kar
   Ae jaan-e-Nabi ruh-e-Nabi sibt-e-Payambar
   Mahshar meiṅ sunaauṅ mujhe nauha ye rahe yaad
-# source_id: nohayonline:5b06700dbf5184e00527
-# source_url: https://www.nohayonline.com/details_content.php?id=3315
-# raw_sha256: 865171fb4672c08eef898373e4a84a10f908e9cfd42dd4be76eeb0129457c061
 ---
 رو رو کے بیاں کرتی تھی یہ زینب ناشاد
 اے سید سجاد اے سید سجاد

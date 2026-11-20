@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fe448b02d7670612150e
-# source_url: https://tajpoints.com/2024/03/taig-e-nutq-e-akeed-ya-zainab-hasnain.html
-# raw_sha256: 1ac78210afbfd64e065635f296ebccbf3e212132a2a358df15d7257a68695614
 ---
 
 1

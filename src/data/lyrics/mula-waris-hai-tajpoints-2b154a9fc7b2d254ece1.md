@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2b154a9fc7b2d254ece1
-# source_url: https://tajpoints.com/2018/03/mula-waris-hai.html
-# raw_sha256: 0726c14df6629faba927ab3e49e6b655db3c14fe136586032d16239f4995b74a
 ---
 
 1

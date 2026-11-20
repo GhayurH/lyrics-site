@@ -98,9 +98,6 @@ romanLyrics: |-
   18
   Ay meri bibi tere darpe sar jukaa te hay,
   Har Hussaini ka tere tukro pe hi guzaara hay
-# source_id: ziyaraat:985a2bdcde24103b9abd
-# source_url: https://www.ziyaraat.net/api/noha/286
-# raw_sha256: e6406942db7b1ef17f90de4810d02572749b75562b0bc079ff4b6152b1af11a1
 ---
 
 یا زہراؑ یا زہراؑ

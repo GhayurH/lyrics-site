@@ -52,12 +52,6 @@ romanLyrics: 'Pardes may ghar lut gaya bano ki thi faryaad
   Khushki hai labon par
 
   Rassi ki ghiraft se koi baazu nahi azaad'
-# source_id: nohayonline:d338755a268794607036
-# source_url: https://www.nohayonline.com/details_content.php?id=283
-# raw_sha256: 36364398a328d52efc4b4a3433e70ca1d66efe80a8929fbce9cabbb3758175a3
-# source_id: ziyaraat:60a7f40ee3ff040a3940
-# source_url: https://www.ziyaraat.net/api/noha/1178
-# raw_sha256: 7032cdada68109f004d00a714d428367864622befaf2d587c48270abdc68a22b
 ---
 
 پردیس میں گھر لٹ گیا بانو کی تھی فریاد

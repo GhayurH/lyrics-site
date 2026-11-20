@@ -8,10 +8,6 @@ kalamType: "Noha"
 tags: ["noRoman"]
 aliases: []
 published: false
-# source_id: nohawriteups:7629074f8c13f4d2aad6
-# source_url: https://www.nohawriteups.org/ajeeb-qaidi-hain-saray-quran-parhday-hin/
-# raw_sha256: 79db71401e244e69460d36aeb26595c0a04ab9aaa7eca5f3dc0d6f4ea4d66c22
-# editorial_note: Source contains distinct Urdu and Panjabi versions, both in Perso-Arabic script; both tracks preserved in one draft separated by an editorial divider. The current schema cannot store a separately labeled Panjabi track; Roman still pending.
 ---
 
 عجیب قیدی ہیں، سارے قرآن پڑھتے ہیں

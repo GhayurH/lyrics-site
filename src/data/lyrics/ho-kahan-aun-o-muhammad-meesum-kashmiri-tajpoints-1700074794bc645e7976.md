@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1700074794bc645e7976
-# source_url: https://tajpoints.com/2022/07/ho-kahan-aun-o-muhammad-meesum-kashmiri.html
-# raw_sha256: 33329d283f85428215fdab8e1f4ed74806a38c6d1b555fad9d120193ba39dd95
 ---
 
 Ho Kahan Aun o Muhammad Meesum Kashmiri.

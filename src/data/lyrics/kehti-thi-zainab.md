@@ -53,9 +53,6 @@ romanLyrics: |-
   Ta qayaamat rahe Rehaan azaa-e-Sarwar
   Khun-e-dil behta rahe aankh se aansu ban kar
   Ye sada kaanoṅ se takraati hai ab bhi aksar
-# source_id: nohayonline:7b35831ff23f6f1025b3
-# source_url: https://www.nohayonline.com/details_content.php?id=26
-# raw_sha256: 49ff2fbb5d11f8d7a7c6108a268fd58ffff4c6f142a90515a0dd0baadb436221
 ---
 
 کہتی تھی زینب ہائے حسینا

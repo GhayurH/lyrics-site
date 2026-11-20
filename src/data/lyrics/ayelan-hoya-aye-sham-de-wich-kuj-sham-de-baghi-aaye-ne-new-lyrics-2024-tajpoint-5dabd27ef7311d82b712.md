@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:5dabd27ef7311d82b712
-# source_url: https://tajpoint.com/ayelan-hoya-aye-sham-de-wich-kuj-sham-de-baghi-aaye/
-# raw_sha256: b34e4d62b1526039342ee5af8691bf9b2a81c21e7f982013527169838475816d
 ---
 
 Ayelan Hoya Aye Sham De Wich Kuj Sham De Baghi Aaye Ne.

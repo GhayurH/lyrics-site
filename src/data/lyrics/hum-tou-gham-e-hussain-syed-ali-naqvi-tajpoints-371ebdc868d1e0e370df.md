@@ -8,9 +8,6 @@ poet: "Zahid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:371ebdc868d1e0e370df
-# source_url: https://tajpoints.com/2023/08/hum-tou-gham-e-hussain-syed-ali-naqvi.html
-# raw_sha256: f282518ed69835629e01a5a609c156f3d53e38c00d287d051e1444300dc3e7c0
 ---
 
 1

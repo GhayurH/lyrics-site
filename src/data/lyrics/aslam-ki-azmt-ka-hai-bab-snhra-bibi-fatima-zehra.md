@@ -41,9 +41,6 @@ romanLyrics: |-
   Ummat na samaj payi tazeem risalat ko
   Darbaro me layi hai tathir ki waris ko
   Hai baagh-e-fiddak ab bhi,  Bas naam tere Zehra
-# source_id: ziyaraat:b049e3851baefd149155
-# source_url: https://www.ziyaraat.net/api/noha/1538
-# raw_sha256: cc5578e0c8a77e62148a0e4a295541b63f9b966dffa0ad8bde458ae18b502223
 ---
 
 بی‌بی فاطمہ زہرہ

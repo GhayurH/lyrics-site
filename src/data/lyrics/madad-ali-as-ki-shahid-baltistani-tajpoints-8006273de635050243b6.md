@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8006273de635050243b6
-# source_url: https://tajpoints.com/2022/02/madad-ali-as-ki-shahid-baltistani.html
-# raw_sha256: b0e7d9042c8cfdfa141ab27218898ca1ac798983c2a1789f2be585c0655d3f8c
 ---
 
 Madad Ali as Ki Shahid Baltistani Write Up

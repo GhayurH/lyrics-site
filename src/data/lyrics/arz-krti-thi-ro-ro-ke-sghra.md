@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:d39be939cf8938000bb8
-# source_url: https://www.ziyaraat.net/api/noha/2225
-# raw_sha256: 5e35b0e27b1e59cf427f9293c2eb85635274edbf62e8c43b60d25e5612a12c79
 ---
 
 Arz karti thi ro ro ke Sughra

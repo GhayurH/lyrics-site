@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:61a40825ec047c4fa8c8
-# source_url: https://www.ziyaraat.net/api/noha/218
-# raw_sha256: 8e7df2288d4e09b4e9e896bdc1a2ebf51e8ff5a20e6f77f6b57bd8756b5f77b0
 ---
 
 Raitaanch dul gaye, mityaanch rul gaye, maa nu rawavay, Qasim di mehndi.

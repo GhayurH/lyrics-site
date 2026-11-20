@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:864b6f07be8974d0014b
-# source_url: https://tajpoints.com/2023/02/ali-akbar-ki-lyrics-in-urdu-and-roman.html
-# raw_sha256: 9a7db52c7a9dc34cc716d12d21ba3a664300a03ddd92c66a43226a511bc3a9d9
 ---
 
 La Raib Sadat Hai Khidmat Ali Akbar Ki.

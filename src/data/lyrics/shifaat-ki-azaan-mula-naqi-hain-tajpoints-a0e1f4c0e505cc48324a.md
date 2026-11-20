@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a0e1f4c0e505cc48324a
-# source_url: https://tajpoints.com/2017/02/shifaat-ki-azaan-mula-naqias-hain.html
-# raw_sha256: 081537dc139b05f6231f9613a36fd059b6abb0d116a49f1909a3e962d0b001d6
 ---
 
 1

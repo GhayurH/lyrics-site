@@ -88,9 +88,6 @@ romanLyrics: |-
   Mashk bhar ke jaunga
   Haa mai abbas hoo haa mai abbas hoo
   Abbas hoo abbas hoo...
-# source_id: nohayonline:3274c1a3b891e4a63162
-# source_url: https://www.nohayonline.com/details_content.php?id=2384
-# raw_sha256: df1c4cf5c65ba049b3243dff5a4111a2ac4f40015643351574c4aa9a2a0c151f
 ---
 
 ۱

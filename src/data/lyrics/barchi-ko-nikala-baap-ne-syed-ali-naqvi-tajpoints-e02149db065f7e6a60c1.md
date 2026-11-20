@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e02149db065f7e6a60c1
-# source_url: https://tajpoints.com/2024/08/barchi-ko-nikala-baap-ne-syed-ali-naqvi.html
-# raw_sha256: c83115cbf95ca7b45dc92dedb88ad68f0a73db5cadb84042fbe7aa00a476f9b7
 ---
 
 1

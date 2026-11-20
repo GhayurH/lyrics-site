@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:928ee309a7586401aa55
-# source_url: https://tajpoints.com/2019/02/haye-baba-tere-quran-de-qari-teri.html
-# raw_sha256: ed3712df6febedc7046e0a88bae4755ed536fc541ab76f04307fab01fa5a27a6
 ---
 
 1

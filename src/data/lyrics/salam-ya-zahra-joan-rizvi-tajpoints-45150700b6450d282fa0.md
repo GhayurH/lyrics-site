@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:45150700b6450d282fa0
-# source_url: https://tajpoints.com/2023/11/salam-ya-zahra-joan-rizvi-lyrics-in-urdu.html
-# raw_sha256: c884d0ddb464f97eb68da3a43a53ce182f14c60df59803c5daa9153be5a02577
 ---
 
 Salam Ya Zahra Joan Rizvi

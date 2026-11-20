@@ -8,9 +8,6 @@ poet: "Sadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:65d8e1ed784259e6dcf7
-# source_url: https://tajpoints.com/2022/01/fatima-mumkin-nahi-syed-mudassir-mehdi.html
-# raw_sha256: b268b258384908708f6aabb21cd8543e97c4e81b4a548e7e8a8d6dfc1316b6cb
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3080f2de54235ff72797
-# source_url: https://tajpoints.com/2023/01/hussain-ya-hussain-nadeem-sarwar-lyrics.html
-# raw_sha256: ec1e5e87556419fc2cae78fe0f7178c7cfd976e587b45fda501c21b7fdaa7921
 ---
 
 Hussain Ya Hussain Nadeem Sarwar Lyrics

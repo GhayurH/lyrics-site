@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c8545db56ce36a24fe62
-# source_url: https://tajpoints.com/2023/06/pairan-wich-zakhm-sakina-de-azadaran-e.html
-# raw_sha256: c302c5f3685cddfd8a6d73eb8ab49ce89e7cc8c0c89b6f43c782830fd2520e82
 ---
 
 Pairan Wich Zakhm Sakina De Azadaran e Imam Hussain Lyrics In Punjabi

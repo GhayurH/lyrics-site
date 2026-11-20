@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e12c133d211509a985c
-# source_url: https://tajpoints.com/2023/03/shabbir-ke-sajday-ko-khuda-dekh-raha.html
-# raw_sha256: 6b8bea988e2c93f2629a00db030ec3a87da3c4119ebe5c291db5923a48c234a8
 ---
 
 Shabbir Ke Sajday Ko Khuda Dekh Raha Hai

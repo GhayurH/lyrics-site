@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:01265eaf23b03a9e7a92
-# source_url: https://www.nohawriteups.org/zameen-e-karbala/
-# original_html: snapshots/nohawriteups/original_html/01265eaf23b03a9e7a92.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/01265eaf23b03a9e7a92.json
-# api_content_sha256: 9a5901e055f0dce0b7140cefb5d89fd4563a03867a5000515ff963fdb29fc679
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 zameen e karbala may zalzala hai

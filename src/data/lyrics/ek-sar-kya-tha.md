@@ -63,9 +63,6 @@ romanLyrics: |-
   Maiṅ ne paayi sar balandi maiṅ ne paaya hai Uruj
   Maiṅ ne paayi sar balandi sar jhuka
   Rehta hai mera Karbala ke saamne
-# source_id: nohayonline:9688fe0c2d7a22f6abb9
-# source_url: https://www.nohayonline.com/details_content.php?id=645
-# raw_sha256: 8776d328e5bd9b12df602c9c34e5481d706ccb668cc8507ec0e0bfad8277cd80
 ---
 اک سر کیا تھا شہیدِ کربلا کے سامنے
 رکھ دیئے شہ نے بہتر سر خُدا کے سامنے

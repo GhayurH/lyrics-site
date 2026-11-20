@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:37d6f2abf94cba54a323
-# source_url: https://tajpoints.com/2024/07/uth-wikh-chalyan-main-sham-ghazi-danish.html
-# raw_sha256: dc27dca7315b97fda4b663979674c885cfba38c4f5c49db3561bf5aa82f80234
 ---
 
 1

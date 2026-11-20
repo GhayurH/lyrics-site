@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f2ebcf4bb96d712aa90f
-# source_url: https://tajpoints.com/2017/02/door-e-mehdias-mein-bataon-tumhein-kya.html
-# raw_sha256: a559dd98f3f1c6d625ead7ef5fee47fe57b948eceabe920e63f8792865815f2f
 ---
 
 1

@@ -89,9 +89,6 @@ romanLyrics: |-
   Kiuṅ na farsh-e-aza pe chale hum
   Ghamzada chaar suṅ hai nazaara
   Rozadaaroṅ qayaamat ke din haiṅ
-# source_id: nohayonline:a42f49dc38de63e211ae
-# source_url: https://www.nohayonline.com/details_content.php?id=1321
-# raw_sha256: 5586dd16091d410d4b72f7374f479d61dfee6d619efe691871aaed92a791416e
 ---
 
 اے روزہ داروں آہ و بکا کے یہ روز ہیں

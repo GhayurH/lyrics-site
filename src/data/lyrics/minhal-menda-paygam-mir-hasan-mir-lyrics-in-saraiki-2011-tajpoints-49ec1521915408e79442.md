@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:49ec1521915408e79442
-# source_url: https://tajpoints.com/2022/05/minhal-menda-paygam-mir-hasan-mir.html
-# raw_sha256: 591d8941b2e72a20d84f81e9ab52799953621f7c54f53742aa7e1a046eae3f70
 ---
 
 1

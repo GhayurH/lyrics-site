@@ -41,12 +41,6 @@ romanLyrics: |-
   7
   Mir Sajjad wo naaqe se giri royi nahiṅ
   Aa ke daadi ne uthaaya to Sakina royi
-# source_id: nohayonline:c01b6e54bd68958183e4
-# source_url: https://www.nohayonline.com/details_content.php?id=1076
-# raw_sha256: 90db9a28289f577110b0c0dec0cb4bb09a2c3a6dfd285a02b5319a9775829322
-# source_id: tajpoints:2cb6ab3518003f0a222f
-# source_url: https://tajpoints.com/2017/10/dekha-jab-baap-ka-lasha-tou-sakina-roi.html
-# raw_sha256: df95e28c97d440e237acb6393688f62c84edaf1f5cfa321645228c671f6de1f1
 ---
 دیکھا جب باپ کا لاشہ تو سکینہ روئی
 شمر نے مارا جو درہ تو سکینہ روئی

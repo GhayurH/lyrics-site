@@ -8,15 +8,6 @@ reciter: "Mesum Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:55182d2d4dae063fe2b9
-# source_url: https://www.nohawriteups.org/ali-haq-mesum-abbas-2022-new-noha-maula-ali/
-# original_html: snapshots/nohawriteups/original_html/55182d2d4dae063fe2b9.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/55182d2d4dae063fe2b9.json
-# api_content_sha256: 03831dd508d38062f33ed269b1de53c9b63cf5336730ed526c4656d470e5ab04
-# editorial_note: Both matching source witnesses consolidated. The longer NohaWriteups Roman edition is preserved; source spelling variants and stanza/refrain cleanup remain for review.
-# source_id: tajpoints:3df78257eba759b4e502
-# source_url: https://tajpoints.com/2022/09/ali-haq-mesum-abbas-lyrics-in-urdu-and.html
-# raw_sha256: 541c94f1088ff213f2dcabd1b8f8396c0a4ff4d4408f0158978df7247c1ff857
 ---
 
 YA ALI….YA ALI……

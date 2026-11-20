@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:4458c1687bfc8ea1e3b1
-# source_url: https://www.nohawriteups.org/aawaaz-do-baba-mujhe-aawaaz-do-baba/
-# raw_sha256: 5cc014f2cb2ee213cac23843cd8222d8fbce31bdc38c05c243b943b25bd5b1d8
-# editorial_note: Nine source-numbered stanzas recovered directly from archived HTML fragment; source repetition markers removed; Roman transliteration still needs final manual review.
-# editorial_uncertainty: Source line "mamloos bhala kisse" in stanza 3 is ambiguous and is retained pending source/audio verification.
 romanLyrics: |-
   Aawaaz do Baba mujhe, aawaaz do Baba
   Ikkisviṅ Ramzan ko ye Zainab ka tha nauha

@@ -42,9 +42,6 @@ romanLyrics: |-
   Karbala ke haath meiṅ hum ne diye haiṅ apne haath
   Jaan bhi jaaye to Ahsan haq ka chhoreṅge na saath
   Jaante haiṅ hum yehi to maqsad-e-Shabbir hai
-# source_id: nohayonline:9388e655a32a382be90c
-# source_url: https://www.nohayonline.com/details_content.php?id=1953
-# raw_sha256: d097a6d1c30f94ce4cd78685b0986d15d5192035ad8cb46710eb87f8a5f33371
 ---
 
 عصر کا ہنگام ہے اور زینب دلگیر ہے

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:acac3c845f89b1503bb0
-# source_url: https://tajpoints.com/2023/04/haye-ainj-shama-dhaliyan-hasan-sadiq.html
-# raw_sha256: 3a88198ce3a7cb1c3314b837d2942a509ec9dc34f1ab10f1ab93e126fce5a736
 ---
 
 Haye Ainj Shama Dhaliyan Hasan Sadiq

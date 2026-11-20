@@ -7,13 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:9dce96db5a6ffc57aed7
-# source_url: https://www.ziyaraat.net/api/noha/2802
-# raw_sha256: dcacac62cca0d485457999968926cf6f00fcb09177e6c7df91756f6d05365f63
-# source_id: ziyaraat:c57a8886ce71f5abda35
-# source_url: https://www.ziyaraat.net/api/noha/2800
-# raw_sha256: 44244e2e4183a08c61561d4e32e2fcef0a5d9bc03366de8aa8567a866e217e12
-# added_stanza_source: urdu:kalam-ziyaraat-c57a8886ce71f5abda35
 ---
 
 مومنو شاہِ خراسان کا ماتم کر لو

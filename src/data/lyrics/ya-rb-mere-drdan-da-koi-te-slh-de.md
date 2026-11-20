@@ -36,9 +36,6 @@ romanLyrics: |-
   Sajjad hath utha ke maangdi rahe duaavaaṅ
   Koi yatim hove na qaidi hon maavaaṅ
   Ohda vain Shaam waala zindaaṅ hila de
-# source_id: ziyaraat:d288914ef6c3bf78061e
-# source_url: https://www.ziyaraat.net/api/noha/2105
-# raw_sha256: 7ba81b7d34df0e041b056bc6ad83546fc60328ca9c496fefc6aeaec7cae6cd8a
 ---
 
 یا رب میرے درداں دا کوئی تے صلہ دے

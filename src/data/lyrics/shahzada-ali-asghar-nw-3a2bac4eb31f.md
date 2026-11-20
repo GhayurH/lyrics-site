@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3a2bac4eb31f97e7c977
-# source_url: https://www.nohawriteups.org/shahzada-ali-asghar/
-# original_html: snapshots/nohawriteups/original_html/3a2bac4eb31f97e7c977.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3a2bac4eb31f97e7c977.json
-# api_content_sha256: 870fe00b9505cc768bc19445eb08345dfaa660e613933f66c4ea4f4fba50d159
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Shahzada ali asghar

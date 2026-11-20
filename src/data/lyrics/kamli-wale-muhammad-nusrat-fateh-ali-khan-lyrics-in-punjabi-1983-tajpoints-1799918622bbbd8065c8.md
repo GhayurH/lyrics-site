@@ -8,9 +8,6 @@ poet: "Bari"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1799918622bbbd8065c8
-# source_url: https://tajpoints.com/2023/03/kamli-wale-muhammad-nusrat-fateh-ali.html
-# raw_sha256: d2db7a0ba0b97fcc52bf51f59e892d2121a8c6a623d36b997906bc8cc64428bb
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f7dd0644890bed57753b
-# source_url: https://tajpoints.com/2023/10/tere-shagna-te-wain-painday-ne-teri.html
-# raw_sha256: eccab21373e4be57920452d026c5b357768838988050d90dc52085da4b9ea0e5
 ---
 
 1

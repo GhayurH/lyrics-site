@@ -8,9 +8,6 @@ poet: "Bilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f455c0626fa8f69b6a7b
-# source_url: https://tajpoints.com/2018/07/zawaron-ke-youn-naaz-uthate-hain.html
-# raw_sha256: 7343b6be6fb92ba40d2faaccad11a2c588c0354b6520d56ba59dad5dfc9c9354
 ---
 
 1

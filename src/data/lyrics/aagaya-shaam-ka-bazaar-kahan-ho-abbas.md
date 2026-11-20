@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:c912ec80cffd0ec413ed
-# source_url: https://www.nohawriteups.org/aagaya-shaam-ka-bazaar-kahan-ho-abbas/
-# raw_sha256: 9d5b92987c5378f490368cd3012dfa6730c0e1e79a7beead38927c716aa57ea4
-# source_title_original: Aagaya Shaam Ka Bazaar Kahan Ho Abbas A.S
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aagaya Shaam ka bazaar kahan ho Abbas
   Mere monis mere gahmkhaar kahan ho Abbas

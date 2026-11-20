@@ -78,9 +78,6 @@ romanLyrics: |-
   Khaak urhaane lagi maqtal meiṅ Janaab-e-Zahra
   Shaadmaaṅ jab ye sada Shaah ne di
   Apni aaghosh meiṅ le lo ammaṅ
-# source_id: nohayonline:33a196719580377857c8
-# source_url: https://www.nohayonline.com/details_content.php?id=2826
-# raw_sha256: 29dad020c5e7d1ade25898521e40d8b866deabd397373f5feb05172a63951fbc
 ---
 ہاے یا حسین اے یا حسین
 چل رہی ہے میری گردن پہ چھری

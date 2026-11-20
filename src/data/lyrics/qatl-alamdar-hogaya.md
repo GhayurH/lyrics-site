@@ -76,14 +76,6 @@ romanLyrics: |-
   Tu nahiṅ to zindagi meiṅ kya hai
   Koi nahiṅ dasht meiṅ ghamkhwaar
   Qatl alamdar ho gaya hai
-# source_id: nohayonline:b59e1c70c06102bfdd3d
-# source_url: https://www.nohayonline.com/details_content.php?id=970
-# raw_sha256: d21a56c5855163fbb04691adb3cd47ce3c663f3a494b28e129cc918d3e637dc9
-# source_id: nohawriteups:114bcd63734a8d1b3861
-# source_url: https://www.nohawriteups.org/qatl-alamdar-hogaya/
-# original_html: snapshots/nohawriteups/original_html/114bcd63734a8d1b3861.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/114bcd63734a8d1b3861.json
-# api_content_sha256: e1bdbb33d88be3da38ba95562c1619d48652b8badb0b929dc8328564211debc2
 ---
 کہتی تھی یہ زینب لاچار
 قتل علمدار ہوگیا ہے

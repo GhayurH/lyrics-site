@@ -8,9 +8,6 @@ reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1c0aa831ea2231be78e8
-# source_url: https://www.ziyaraat.net/api/noha/2447
-# raw_sha256: a86e8748d06112fd8234163c6c708eb1b97260f6e1d255ee528d09417cfe2e1f
 ---
 
 Kushta-e-shamsheer alamdaar

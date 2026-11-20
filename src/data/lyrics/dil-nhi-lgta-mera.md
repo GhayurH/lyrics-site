@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ac76607443d889efd77e
-# source_url: https://www.ziyaraat.net/api/noha/2443
-# raw_sha256: 6404c269535efde71fdd1a0ca2c4c5baee7ab6e34f209133998b8946f5035270
 ---
 
 Dil nahi lagta mera dil nahi lagta

@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c790ae15ef63011c1dac
-# source_url: https://tajpoints.com/2017/02/mana-ke-hain-azeem-shah-e-lafatah-ke.html
-# raw_sha256: 49737c7eada7a21796e1da1fa327db5a32312beb10eaca261b167b480911d82b
 ---
 
 1

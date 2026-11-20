@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b4a1f8875d977e8f5f98
-# source_url: https://tajpoints.com/2024/01/batool-say-pocho-hamza-rizvi-lyrics-in.html
-# raw_sha256: 205b8c7937c770e9ed36940ec7e33fa76b77d5dbdcbf53be6e08962bcefd3b2d
 ---
 
 1

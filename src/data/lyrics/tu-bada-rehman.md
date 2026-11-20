@@ -110,9 +110,6 @@ romanLyrics: |-
   Yaad-e-Husain hai mera sarmaaya-e-mehan
   Hai Karbala ki khaak se aasuda jo badan
   Kaise fishaar-e-qabr ho phir Sarwar o Rehaan
-# source_id: nohayonline:26eea141e6158fa57239
-# source_url: https://www.nohayonline.com/details_content.php?id=3321
-# raw_sha256: 4ec49adfcd0166c029c076e1897e85c527d31d3c1fab45af2ef0a51636f6bff9
 ---
 اللّٰہ ہے رحمان رحمان ہے اللہ
 یا رحمٰن یا رحیم

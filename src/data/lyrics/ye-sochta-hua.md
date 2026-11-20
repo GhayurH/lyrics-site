@@ -66,9 +66,6 @@ romanLyrics: |-
   Ab aur kuch bhi Mubarak se ho bayaaṅ kiuṅ kar
   Jaan-e-Fatema par jatan ajib hua
   Maiṅ kis zabaaṅ se kahuṅ ga Husain maare gaye
-# source_id: nohayonline:0d2bf0f75adc2f60040f
-# source_url: https://www.nohayonline.com/details_content.php?id=2124
-# raw_sha256: b0f5a978c20aeb8e4984130624a8dc219ba81149ee8ef29f2d92d16c1bdf14ca
 ---
 یہ سوچتا ہوا خیمے کو ذوالجناح چلا
 

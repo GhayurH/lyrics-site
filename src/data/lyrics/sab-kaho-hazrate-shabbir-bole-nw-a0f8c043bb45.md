@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a0f8c043bb45314e3a0c
-# source_url: https://www.nohawriteups.org/sab-kaho-hazrate-shabbir-bole/
-# original_html: snapshots/nohawriteups/original_html/a0f8c043bb45314e3a0c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a0f8c043bb45314e3a0c.json
-# api_content_sha256: 2311e9be6c18083f1ead427cb6c8fce7655bbf9c04c3a46dce36ad9dd91c8a11
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sab kaho ya hussain

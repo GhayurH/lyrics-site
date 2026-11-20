@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:5991d55c599e4457474c
-# source_url: https://tajpoint.com/zindaan-che-sakina-haye-bhardi-aye-hawaan-lyrics-2024/
-# raw_sha256: 57995bb25104f72bdae3efa6bef507c19047b2a52927b207d3a9720e61800e66
 ---
 
 Zindaan Che Sakina Haye Bhardi Aye Hawaan.

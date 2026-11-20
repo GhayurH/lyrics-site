@@ -8,9 +8,6 @@ poet: "Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a21e5540c857643eeabe
-# source_url: https://tajpoints.com/2022/04/musallah-khon-mein-tar-hai-syed-abbas.html
-# raw_sha256: 1c900ef977002c816cdc0e8b8ee3b3d0a1139353ae945a9342ee4255935bb82b
 ---
 
 1

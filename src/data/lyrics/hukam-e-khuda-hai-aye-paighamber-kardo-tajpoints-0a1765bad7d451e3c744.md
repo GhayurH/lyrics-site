@@ -8,9 +8,6 @@ poet: "Nayab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0a1765bad7d451e3c744
-# source_url: https://tajpoints.com/2018/01/hukam-e-khuda-hai-aye-paighamber-kardo.html
-# raw_sha256: a16fc3a6c1d9fdc7f9a038b628a58060a345c5786006944843e273b62aa97078
 ---
 
 1

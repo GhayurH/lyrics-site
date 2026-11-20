@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:96c23a120f4e99c3661c
-# source_url: https://www.nohawriteups.org/koi-wakhray-rog-nay-abid/
-# original_html: snapshots/nohawriteups/original_html/96c23a120f4e99c3661c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/96c23a120f4e99c3661c.json
-# api_content_sha256: 9a32f21fe49785f7e03e1c199b6393b36179c1e1dadb5f0e8d2b0ef853a1a37d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Koi wakhray rog nay Abid day peya turda Haye ratt ronda aay .

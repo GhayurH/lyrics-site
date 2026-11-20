@@ -52,9 +52,6 @@ romanLyrics: |-
   Kehti thi Mahir Zainab-e-muztar
   Laasha-e-Shah se rukhsat ho kar
   Ji bhar kar maiṅ rone na paayi
-# source_id: nohayonline:6f4398fe0a307fe88306
-# source_url: https://www.nohayonline.com/details_content.php?id=1207
-# raw_sha256: 8bd159aa3a7f860c852afb9fb861829e9f485d140ae48a536bd05730df9d7d0e
 ---
 
 ہاے میرا پیاسا بھائی

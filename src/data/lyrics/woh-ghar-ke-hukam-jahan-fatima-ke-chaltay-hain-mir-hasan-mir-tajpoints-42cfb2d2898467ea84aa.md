@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:42cfb2d2898467ea84aa
-# source_url: https://tajpoints.com/2018/03/woh-ghar-ke-hukam-jahan-fatima-ke.html
-# raw_sha256: d4ecbad91317f417b75c35bc8a614e133035710c70462590646a2f23a848e518
 ---
 
 1

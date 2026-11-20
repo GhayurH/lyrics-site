@@ -8,9 +8,6 @@ reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6cba7e673922e309d571
-# source_url: https://www.ziyaraat.net/api/noha/2427
-# raw_sha256: fcd5b03404e3562cdb06b95b1f1dac40558a884b6eec97a3cc7a0ccf74bc322f
 ---
 
 Haye SAJJAD (ASWS) …..4

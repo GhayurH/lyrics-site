@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a231ca9b25aee22e2882
-# source_url: https://tajpoints.com/2023/03/aye-sham-e-gharebaan-hasan-sadiq-lyrics.html
-# raw_sha256: f601369843cf0c559e05cffe794fe170489b8f671d6bd488b32f4a156008960b
 ---
 
 1

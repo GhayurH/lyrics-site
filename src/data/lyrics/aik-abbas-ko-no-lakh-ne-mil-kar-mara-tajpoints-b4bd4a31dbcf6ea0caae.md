@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b4bd4a31dbcf6ea0caae
-# source_url: https://tajpoints.com/2023/09/aik-abbas-ko-no-lakh-ne-mil-kar-mara.html
-# raw_sha256: 92bd8f1ef0b42f97c0b4bde9486ee82ee71e8cbfa4077d3b3b61c4a67ab7b353
 ---
 
 1

@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1dca62f28d89ea8f3e9e
-# source_url: https://tajpoints.com/2023/02/sar-e-bazar-pursa-tha-yehi-bas-parda.html
-# raw_sha256: 3d560d7005014ecd27224f5fbc38cb7f6abf74c491f3ca8464427589b121b81d
-# source_title_original: Sar e Bazar Pursa Tha Yehi Bas Parda Daron Ka 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Sar e Bazar Pursa Tha Yehi Bas Parda Daron Ka

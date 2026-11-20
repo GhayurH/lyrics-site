@@ -8,9 +8,6 @@ poet: "Zaair"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8df17ca543f005950fb7
-# source_url: https://tajpoints.com/2019/12/marne-se-mujhe-pehle-zawwar-banana.html
-# raw_sha256: 1c6b881a96faa5e9011de79d2b74dbc4d561cb7237134a1829331a48f49cd5db
 ---
 
 Marne Se Mujhe Pehle Zawwar Banana.

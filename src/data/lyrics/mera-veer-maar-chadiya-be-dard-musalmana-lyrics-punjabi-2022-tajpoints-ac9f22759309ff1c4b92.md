@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ac9f22759309ff1c4b92
-# source_url: https://tajpoints.com/2023/05/mera-veer-maar-chadiya-be-dard.html
-# raw_sha256: 31d5de5d99e5639bd8cffa60428a160bb3b936216627143fb1ecab5da3081ca2
 ---
 
 Mera Veer Maar Chadiya Be Dard Musalmana.

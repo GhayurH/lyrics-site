@@ -63,9 +63,6 @@ romanLyrics: |-
   Le chala nasib jab bhi rauza-e-Nabi par
   Soch kar tarap uthe ye Aamir aur Nayyar
   Ye jagah wo hai jahaaṅ Husain phir na aaya
-# source_id: nohayonline:33ee7d0d3f8ac38e405b
-# source_url: https://www.nohayonline.com/details_content.php?id=2441
-# raw_sha256: be85540061dd58f12673d04d45d7d69439161cfbb41392f65887518be32429c4
 ---
 
 لٹ کے آ گیا وطن فاطمہ کا کنبہ

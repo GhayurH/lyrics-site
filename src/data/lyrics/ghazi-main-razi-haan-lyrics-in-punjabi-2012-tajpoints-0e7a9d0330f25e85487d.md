@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0e7a9d0330f25e85487d
-# source_url: https://tajpoints.com/2017/02/ghazias-main-razi-haan.html
-# raw_sha256: 369e3f8e637534a32e17f119f54fa129fb9e3a6ddd02947ab0cac1a6a6a69f8b
 ---
 
 1

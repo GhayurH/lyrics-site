@@ -98,9 +98,6 @@ romanLyrics: |-
   Sab hanste rahe, ham rote rahe
   Bas hae Hussaina kehte rahe
   Husain ya Husain ya Husain
-# source_id: ziyaraat:1b1ab03ac3cc897370ab
-# source_url: https://www.ziyaraat.net/api/noha/1943
-# raw_sha256: ed5aa7470063b2f3c0bc10503c2690842cfc61ebf97e5f0c4150bf984ce4d5c8
 ---
 
 ۱

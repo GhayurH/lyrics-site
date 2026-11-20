@@ -118,12 +118,6 @@ romanLyrics: 'Haye bemaar chala
   Khaak udao gohar
 
   Peet kar seena o sar bain karo ahle aza'
-# source_id: nohayonline:3c70d31b9ef7e6271278
-# source_url: https://www.nohayonline.com/details_content.php?id=3447
-# raw_sha256: a79e62f0e9924c10bb89cdb6a59277510c1789e6919e3b997700857f3aa54194
-# source_id: ziyaraat:1cf85a77084122258b27
-# source_url: https://www.ziyaraat.net/api/noha/377
-# raw_sha256: b95c02c4fc94f3d283abe6748d477180d74809af638f9730270e94d93c387173
 ---
 
 ہاے بیمار چلا

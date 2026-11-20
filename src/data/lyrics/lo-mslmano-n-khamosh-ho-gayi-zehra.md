@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:55afd3485a73dbd79161
-# source_url: https://www.ziyaraat.net/api/noha/622
-# raw_sha256: 0dc0761dcd170e45f3781fb931e1c3ac6db514e267f8003090b1d3c1f15b4124
 ---
 
 Lo Musalmano khamosh ho gayeen Zehra

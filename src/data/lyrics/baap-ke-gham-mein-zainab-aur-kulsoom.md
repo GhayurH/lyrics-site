@@ -52,12 +52,6 @@ romanLyrics: 'Baap ke gham may kehti hai rokar
   Bole ali khud ashq baha kar
 
   Karlo buka ab tum jee bhar kar'
-# source_id: nohayonline:df146a995e9d96c30c6d
-# source_url: https://www.nohayonline.com/details_content.php?id=277
-# raw_sha256: 47b100b672033f48fd2d67fb15af4dfd106be1455989004c2e12b8a6b133377a
-# source_id: ziyaraat:0545475a1f91f36e9234
-# source_url: https://www.ziyaraat.net/api/noha/2224
-# raw_sha256: 7bf70bb76dd8f30637ffab5ba2f3b160d21d1dc26ea6bafb93759a40d11d3c81
 ---
 
 باپ کے غم میں کہتی ہیں رو کر

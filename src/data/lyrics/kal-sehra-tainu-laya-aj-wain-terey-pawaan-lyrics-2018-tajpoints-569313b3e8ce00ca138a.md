@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:569313b3e8ce00ca138a
-# source_url: https://tajpoints.com/2023/04/kal-sehra-tainu-laya-aj-wain-terey.html
-# raw_sha256: d9e872f6c0cfa7935577f472cad68fdbf72bbef029eb2d5bd16c445cb719321c
 ---
 
 1

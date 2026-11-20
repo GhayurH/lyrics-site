@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:15e37ec914d1244fba8b
-# source_url: https://tajpoint.com/haq-zahra-ka-chupaya-kis-ne-kon-they-woh/
-# raw_sha256: 0c7ed5e84e6e456a701e84480f53a3b377afbbac30937de791c727e5cb9a47a3
 ---
 
 1

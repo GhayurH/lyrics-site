@@ -8,9 +8,6 @@ poet: "Nayab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1598b704799a40706108
-# source_url: https://tajpoints.com/2022/10/watu-izzo-mantasha-mir-hasan-mir-lyrics.html
-# raw_sha256: f8cdd3fd4ad241b7408af4f1072fc59c995a6bbbed04a49f0531f5464a80cb56
 ---
 
 1

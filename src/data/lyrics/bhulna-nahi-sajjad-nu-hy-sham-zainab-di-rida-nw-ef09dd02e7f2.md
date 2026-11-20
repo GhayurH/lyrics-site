@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ef09dd02e7f2442cb548
-# source_url: https://www.nohawriteups.org/bhulna-nahi-sajjad-nu-hy-sham-zainab-di-rida/
-# original_html: snapshots/nohawriteups/original_html/ef09dd02e7f2442cb548.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ef09dd02e7f2442cb548.json
-# api_content_sha256: 2069adc4fe9ce586eb5bc739c3ce129a17662d540cedfca5aecb7dcf2f3ea990
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Bhulna Nahi Sajjad Nu, Hy Sham Zainab Di Rida

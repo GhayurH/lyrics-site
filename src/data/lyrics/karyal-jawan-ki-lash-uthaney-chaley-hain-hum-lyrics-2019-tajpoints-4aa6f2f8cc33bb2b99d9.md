@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4aa6f2f8cc33bb2b99d9
-# source_url: https://tajpoints.com/2019/09/karyal-jawan-ki-lash-uthaney-chaley.html
-# raw_sha256: 6b972d449b92aa74a921a645fd11a52ee536136f17af23ebe5f5c9b1fa0959dc
 ---
 
 1

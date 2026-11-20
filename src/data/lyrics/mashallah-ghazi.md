@@ -58,9 +58,6 @@ romanLyrics: |-
   Nasir ne kaha arif ye nauha parho ro kar
   Sar peetenge apna ghazi ke azadaar
   Mashallah ghazi alamdar-e-Husain...
-# source_id: nohayonline:e533c6f0a65f8a97e391
-# source_url: https://www.nohayonline.com/details_content.php?id=2596
-# raw_sha256: b90456698d45f1833aac6acba467f137c12811ea3aef2e56a80f84a54999b257
 ---
 
 ۱

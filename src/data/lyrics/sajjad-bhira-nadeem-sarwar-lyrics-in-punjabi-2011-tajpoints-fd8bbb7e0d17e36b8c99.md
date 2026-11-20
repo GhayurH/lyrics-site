@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fd8bbb7e0d17e36b8c99
-# source_url: https://tajpoints.com/2022/11/sajjad-bhira-nadeem-sarwar-lyrics-in.html
-# raw_sha256: 8cb0148e7b8a8e74fc3963e0b2183b900dfd2274139443fe52ac062a1b30735e
 ---
 
 1

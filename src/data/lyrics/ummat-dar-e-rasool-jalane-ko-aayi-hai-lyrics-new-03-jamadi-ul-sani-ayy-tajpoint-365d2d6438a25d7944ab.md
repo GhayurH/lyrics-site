@@ -8,9 +8,6 @@ poet: "Navaid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:365d2d6438a25d7944ab
-# source_url: https://tajpoint.com/ummat-dar-e-rasool-jalane-ko-aayi-hai-lyrics-new/
-# raw_sha256: b9551d92ee9f98ff5db935f6c104dc2dfb029473872fd9417fa8a96e2ec31f47
 ---
 
 Ummat Dar e Rasool Jalane Ko Aayi Hai.

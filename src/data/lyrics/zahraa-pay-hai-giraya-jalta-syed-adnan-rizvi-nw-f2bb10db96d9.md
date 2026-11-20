@@ -30,12 +30,6 @@ romanLyrics: |-
   Tahrir e Salamat may Aaey na asar kesay
 
   URDU
-# source_id: nohawriteups:f2bb10db96d98290e6e2
-# source_url: https://www.nohawriteups.org/zahraa-pay-hai-giraya-jalta-syed-adnan-rizvi/
-# original_html: snapshots/nohawriteups/original_html/f2bb10db96d98290e6e2.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f2bb10db96d98290e6e2.json
-# api_content_sha256: 573d63526f1fa04032426b42002422b03e0862fd6cae1c59e395cd9c0c7f5363
-# editorial_note: Unpublished source-faithful draft from approved valid roman+urdu; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 ‎زھراء پہ ھے گرایا جلتا ھوا در کیسے

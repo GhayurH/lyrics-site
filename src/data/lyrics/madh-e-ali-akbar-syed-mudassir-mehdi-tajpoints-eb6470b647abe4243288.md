@@ -8,9 +8,6 @@ poet: "Turab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eb6470b647abe4243288
-# source_url: https://tajpoints.com/2021/03/madh-e-ali-akbar-syed-mudassir-mehdi.html
-# raw_sha256: 82e0b1982faaf4a525a94d6238886ddf7af9d437766091e5d51c544ed86eccfe
 ---
 
 Madh e Ali Akbar Syed Mudassir Mehdi.

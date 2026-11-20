@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:60512dc100423920744e
-# source_url: https://tajpoints.com/2020/07/raza-ke-rozey-par-lyrics-in-urdu-and.html
-# raw_sha256: c616e26bc536e4078620a407bb4e0393f7d727e566e7a4d6cbac495a3e13ea82
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Ameer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1472342f77aeaed10f61
-# source_url: https://tajpoints.com/2023/03/sibt-e-nabi-ka-matam-manshoor-e-zindagi.html
-# raw_sha256: 94b5aca0b4cbc8384150b6185edb2f35cf9417202ce839bd057c262865eaa7b0
 ---
 
 1

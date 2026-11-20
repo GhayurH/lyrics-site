@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6f4de4334d0f63882c01
-# source_url: https://tajpoints.com/2026/02/dilon-se-dur-thori-hai-syed-mudassir.html
-# raw_sha256: 451f8a904cdbd6c23e35a89a943fa9580faa3967a91febc3e5e1217aa1332aad
 ---
 
 1

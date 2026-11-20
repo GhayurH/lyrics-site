@@ -8,9 +8,6 @@ poet: "Mudassir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3795f7fdce5eb2a63ee8
-# source_url: https://tajpoints.com/2023/04/rukh-e-murtaza-khoon-mai-tarr-hai.html
-# raw_sha256: c92104c83f9f9ec1ebd5aaec1704a5c9851ddf863a8d84dfe0d7f89c28e88cf9
 ---
 
 1

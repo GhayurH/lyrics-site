@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:19456bdaeb16bf9fd229
-# source_url: https://tajpoints.com/2018/01/matami-hoon-mera-karbala-hai-watan.html
-# raw_sha256: 166aaa6cd13d1c0d1a49d8b0d0b04308c3c5c1ffc062d59cb7e71b0402275b18
 ---
 
 1

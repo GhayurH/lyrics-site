@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:10d6895dab061674678f
-# source_url: https://tajpoints.com/2024/03/haider-e-karrar-kufay-main-haider-rizvi.html
-# raw_sha256: 6a59354a398207c92b99b3a205ee922bce871ebffba5baf763a17fbdb21d8602
 ---
 
 1

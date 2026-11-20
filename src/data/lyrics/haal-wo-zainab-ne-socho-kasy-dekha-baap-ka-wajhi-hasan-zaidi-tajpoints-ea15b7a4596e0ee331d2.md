@@ -8,9 +8,6 @@ poet: "Jary"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ea15b7a4596e0ee331d2
-# source_url: https://tajpoints.com/2026/03/haal-wo-zainab-ne-socho-kasy-dekha-baap.html
-# raw_sha256: a6ade8b8c264adc01688b7f6b5ad9b32000df3ad27c78490a6a1305bc805f62a
 ---
 
 Haal Wo Zainab Ne Socho Kasy Dekha Baap Ka Wajhi Hasan Zaidi.

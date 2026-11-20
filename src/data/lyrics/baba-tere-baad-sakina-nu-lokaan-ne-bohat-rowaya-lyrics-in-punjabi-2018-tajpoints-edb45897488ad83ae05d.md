@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:edb45897488ad83ae05d
-# source_url: https://tajpoints.com/2017/02/baba-tere-baad-sakina-nu-lokaan-ne.html
-# raw_sha256: 4c17aa26a658e82ae1d1d047683967480e533527a88b3cd7c00ec7d4f35c676b
 ---
 
 1

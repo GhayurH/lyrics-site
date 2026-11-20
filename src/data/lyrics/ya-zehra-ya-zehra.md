@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:af168e6d7304cf7cf7be
-# source_url: https://www.ziyaraat.net/api/noha/1138
-# raw_sha256: 0be0b20738a996a21ea0a695ef4f763cfd285d386792b93c0c6d62dc95308664
 ---
 
 Ya zahra ya zahra

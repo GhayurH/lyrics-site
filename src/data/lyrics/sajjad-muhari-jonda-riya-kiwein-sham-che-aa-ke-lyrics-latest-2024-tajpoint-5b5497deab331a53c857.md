@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:5b5497deab331a53c857
-# source_url: https://tajpoint.com/sajjad-muhari-jonda-riya-kiwein-sham-che-aa-ke-lyrics/
-# raw_sha256: c03f48b2a8c0a03a9881793b1dccb0c4facd6b6267d293c457c77a7daff76423
 ---
 
 Sajjad Muhari Jonda Riya Kiwein Sham Che Aa Ke.

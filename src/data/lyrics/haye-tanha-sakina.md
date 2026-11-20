@@ -58,9 +58,6 @@ romanLyrics: |-
   Shadmaaṅ hai ye dua phir se ho maatam barpa
   Phir Sakina ko Takallum de chacha ka pursa
   Phir bichhe farsh-e-aza dil tarapta hai mera
-# source_id: nohayonline:1b346e7a39f464e58043
-# source_url: https://www.nohayonline.com/details_content.php?id=3707
-# raw_sha256: a3a542ae16c19481d1882ffffc95f46e514a860fc9b09c3162d2e6c83083e9d3
 ---
 ہاے سکینہ ہاے سکینہ
 

@@ -8,9 +8,6 @@ poet: "Arsalan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0a488d31579f97c0cbdd
-# source_url: https://tajpoints.com/2026/01/sadqy-hussain-ky-kazmi-brothers-lyrics.html
-# raw_sha256: 477f1669d9e057bb89833d85a032c7dba6ef85542a68d13ccfd6c5eb72db1055
 ---
 
 1

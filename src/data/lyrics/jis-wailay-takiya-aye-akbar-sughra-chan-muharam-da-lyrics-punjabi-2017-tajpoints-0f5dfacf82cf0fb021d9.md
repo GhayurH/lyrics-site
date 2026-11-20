@@ -8,9 +8,6 @@ poet: "Zeshaan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f5dfacf82cf0fb021d9
-# source_url: https://tajpoints.com/2017/02/jis-wailay-takiya-aye-akbaras-sughrasa.html
-# raw_sha256: a35fddb51363bbcce796918f8996fd7cb0a1c132163cb04ab72091a5ebdd205a
 ---
 
 Jis Wailay Takiya Aye Akbar Sughra Chan Muharam Da.

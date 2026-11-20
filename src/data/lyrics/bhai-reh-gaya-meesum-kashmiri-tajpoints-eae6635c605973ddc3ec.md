@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eae6635c605973ddc3ec
-# source_url: https://tajpoints.com/2023/07/bhai-reh-gaya-meesum-kashmiri-lyrics-in.html
-# raw_sha256: 80c4b99fa1d499ed26f24f59bc5e9ee82874b086d5f5c118a28b73da9f7388c8
 ---
 
 Thi Dasht-e-Karbala Mein Yeh Shabeer Ki Sada.

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:12f7e3f9ad3b2a0460fd
-# source_url: https://www.ziyaraat.net/api/noha/2475
-# raw_sha256: 5225a0afd5e241977215efdb4e27a61ca73ac470197592681b2674b6f811231e
 ---
 
 Ajj ronday hoye dunya ton turr Zainab de ghamkhwar gaye

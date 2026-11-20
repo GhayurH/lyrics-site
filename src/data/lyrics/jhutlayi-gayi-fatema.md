@@ -65,9 +65,6 @@ romanLyrics: |-
   13
   Jo zulm hue baad-e-Nabi Zahra pe Qambar
   Rudaad woh Baba ko lahad meiṅ hai sunaai
-# source_id: nohayonline:0f518c87c6f971f98e59
-# source_url: https://www.nohayonline.com/details_content.php?id=3238
-# raw_sha256: 68a6ed4115a1b61584d8b2bbbf7efda315ea8c77ef65e452d9aeee3bc04a8793
 ---
 جھٹلائی گئی فاطمہ زہرا کی گواہی
 یا احمد مختار دہائی ہے دہائی

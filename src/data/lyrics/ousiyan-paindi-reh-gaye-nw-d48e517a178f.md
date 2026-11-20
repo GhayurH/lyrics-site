@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d48e517a178f95493e22
-# source_url: https://www.nohawriteups.org/ousiyan-paindi-reh-gaye/
-# original_html: snapshots/nohawriteups/original_html/d48e517a178f95493e22.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d48e517a178f95493e22.json
-# api_content_sha256: c586f24e6928ee25733af9bcb12382e43dd41787877e9b9bdaac9862437f11ed
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ousiyan Paundi Reh Gaye Sughra Veer Nayi Aaya

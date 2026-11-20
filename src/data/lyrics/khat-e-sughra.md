@@ -82,9 +82,6 @@ romanLyrics: |-
   Khud uth ke masiha parh le
   Haal e bemaar likha hai
   Bemaar behan ne khat mein...
-# source_id: nohayonline:e0978a1802734ec4c367
-# source_url: https://www.nohayonline.com/details_content.php?id=1806
-# raw_sha256: e66cbe0af454c3a3285f50beebdd7b4e157e5db272d499d08960416d583a7586
 ---
 
 ۱

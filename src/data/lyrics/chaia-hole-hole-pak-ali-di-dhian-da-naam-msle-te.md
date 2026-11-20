@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:f6f6391b04ac09ed19a7
-# source_url: https://www.ziyaraat.net/api/noha/299
-# raw_sha256: 14b6fa761752f6ef4c6e71aa12876ec7ea55af6b4c6e14a59e6e1e4fd935d6be
 ---
 
 Chaya holay holay pak Ali dheeyaan da naam musallay tay

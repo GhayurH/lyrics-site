@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:958431fde6b800575835
-# source_url: https://tajpoints.com/2024/02/hussain-ki-batein-syed-mohammad-shah.html
-# raw_sha256: 3dd038cc65fe23c9b5c02893041b1ba673e6f082bf1976fc4bc48fb04723a09f
 ---
 
 1

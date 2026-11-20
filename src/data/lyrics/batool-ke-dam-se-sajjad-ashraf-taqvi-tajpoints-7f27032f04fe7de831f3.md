@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7f27032f04fe7de831f3
-# source_url: https://tajpoints.com/2023/01/batool-ke-dam-se-sajjad-ashraf-taqvi.html
-# raw_sha256: f6ff2d6ac0fff805313c9e8960bf89521fa749a3d6fb74e22a205fbd6d7bf746
 ---
 
 Batool Ke Dam Se Sajjad Ashraf Taqvi.

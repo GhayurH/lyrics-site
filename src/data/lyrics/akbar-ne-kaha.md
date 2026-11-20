@@ -61,9 +61,6 @@ romanLyrics: |-
   Taaid-e-Husaini se Raza aap ne likha
   Allah re majlis meiṅ bara josh-e-fughaṅ hai
   Matlab ke yahaṅ aur bhi ek marsiyakhwaṅ hai
-# source_id: nohayonline:8e53c0c712f36f2db687
-# source_url: https://www.nohayonline.com/details_content.php?id=3217
-# raw_sha256: ad2067384c1cdb0b921e04082be869442bf0057f1d17f2680a3be34436313468
 ---
 اکبر نے کہا زخم کلیجے کا چھپا دو
 اماں میری جیتی ہو تو ایک بار ملا دو

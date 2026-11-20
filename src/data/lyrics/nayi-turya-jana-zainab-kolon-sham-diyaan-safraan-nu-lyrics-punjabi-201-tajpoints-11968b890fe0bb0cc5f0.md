@@ -8,9 +8,6 @@ poet: "Adeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:11968b890fe0bb0cc5f0
-# source_url: https://tajpoints.com/2023/05/nayi-turya-jana-zainab-kolon-sham.html
-# raw_sha256: 6a67c85dccf0d591ccb77a98b85ca9030f82c22d32c38dbcf89ceff29aae830e
 ---
 
 Nayi Turya Jana Zainab Kolon Sham Diyaan Safraan Nu.

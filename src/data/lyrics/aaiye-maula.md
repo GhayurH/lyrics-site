@@ -68,9 +68,6 @@ romanLyrics: |-
   Hai dua Zishan o Irfan-e-aza lab par yehi
   Kijiye tamir aa kar rauza-e-Zahra
   Aaiye maula
-# source_id: nohayonline:0154cc28f55932aff958
-# source_url: https://www.nohayonline.com/details_content.php?id=3196
-# raw_sha256: a0a24d1b0f5b95b50085abe758240fb2fde9a1df4b218bbc7920bc92dae4d507
 ---
 یا مولانا یا صاحب الزمان
 الغوث الغوث الغوث ادرکنی

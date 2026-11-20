@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:30b72d1130a07a262115
-# source_url: https://tajpoints.com/2019/03/terah-rajab-ki-raat-ho-hamd-e-khuda-na.html
-# raw_sha256: c59925323aa64b9d2b1362c1cade6b5f4b29219c96fe6831804d00c09013b163
 ---
 
 1

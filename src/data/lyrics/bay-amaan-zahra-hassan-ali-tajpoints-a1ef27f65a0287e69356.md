@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a1ef27f65a0287e69356
-# source_url: https://tajpoints.com/2023/12/bay-amaan-zahra-hassan-ali-lyrics-in.html
-# raw_sha256: 2325ddcbebc8f4d6989ffa01d17a59e1e2c4e7197ecefe900fdc08034412d13b
 ---
 
 Bay Amaan Zahra Hassan Ali.

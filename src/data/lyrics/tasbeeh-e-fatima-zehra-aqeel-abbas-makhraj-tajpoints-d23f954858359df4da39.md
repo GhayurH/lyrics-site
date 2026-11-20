@@ -8,9 +8,6 @@ poet: "Areeb"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d23f954858359df4da39
-# source_url: https://tajpoints.com/2023/01/tasbeeh-e-fatima-zehra-aqeel-abbas.html
-# raw_sha256: d044a0d9014a424d0fa728a9696b1314b3e089cbf43b57b275c6fe7fedd72858
 ---
 
 1

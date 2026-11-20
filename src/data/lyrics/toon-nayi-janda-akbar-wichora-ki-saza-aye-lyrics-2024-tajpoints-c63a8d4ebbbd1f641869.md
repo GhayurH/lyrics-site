@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c63a8d4ebbbd1f641869
-# source_url: https://tajpoints.com/2024/02/toon-nayi-janda-akbar-wichora-ki-saza.html
-# raw_sha256: e4ed80711250d4ba47f082dee097b4fe13217dc958f8e258776ccc8f302f8f43
 ---
 
 Toon Nayi Janda Akbar Wichora Ki Saza Aye.

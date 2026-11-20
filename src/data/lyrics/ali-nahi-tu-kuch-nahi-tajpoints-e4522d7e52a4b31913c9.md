@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e4522d7e52a4b31913c9
-# source_url: https://tajpoints.com/2017/02/alias-nahi-tu-kuch-nahi.html
-# raw_sha256: a22a6d0652b7d5fa18fcb8dbdfb76856fdc42658731112afa939f02f70a49689
 ---
 
 Yeh Keh Gaya Hai Dosto Har Ik Nabi Har Ik Wali.

@@ -104,20 +104,6 @@ romanLyrics: |-
   Ya Ali ya madad
   Ya Ali Ali Haider ya Ali Ali Haider
   Ya Ali Ali Haider
-# source_id: nohayonline:94a9d3fb663bad714cfb
-# source_url: https://www.nohayonline.com/details_content.php?id=2506
-# raw_sha256: 800b2eadd0f1539d53e97f8977c9833b3a31f950677dc69f9218a042b6e4544c
-# source_id: ziyaraat:48bf579deb884131a2b2
-# source_url: https://www.ziyaraat.net/api/noha/2330
-# raw_sha256: 07814d7c27c52e52da0e4ce00100e55074c4d07958bfdbea10d352b1a9b2ebec
-# source_id: ziyaraat:ad91916b0d710c8776b3
-# source_url: https://www.ziyaraat.net/api/noha/2433
-# raw_sha256: 2c975be354cd63b8bd7cb6bfc637cf07ee45d1b4c42130c7a42f78e6a99629ae
-# source_id: nohawriteups:9fbb5d9fc7d2fce50fb2
-# source_url: https://www.nohawriteups.org/ya-ali-madad-haider/
-# original_html: snapshots/nohawriteups/original_html/9fbb5d9fc7d2fce50fb2.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9fbb5d9fc7d2fce50fb2.json
-# api_content_sha256: 200d26ef52650b61ccab73e1360362ea7a1fdcac4858fba55715ac4d2d241a67
 ---
 یاعلی یا مدد یاعلی یا مدد
 یاعلی یا مدد

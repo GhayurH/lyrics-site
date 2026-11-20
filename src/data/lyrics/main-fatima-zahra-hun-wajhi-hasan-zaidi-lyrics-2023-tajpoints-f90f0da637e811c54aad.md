@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f90f0da637e811c54aad
-# source_url: https://tajpoints.com/2022/12/main-fatima-zahra-hun-wajhi-hasan-zaidi.html
-# raw_sha256: 1b8155c80a77bee0c67e99be500da21e53c986994c819efdcaf940fb5fc69c30
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:535c5945ed44f173f058
-# source_url: https://tajpoints.com/2023/01/ya-fatima-karam-hai-apka-joan-rizvi.html
-# raw_sha256: 8b6a0fa96b303dd5dd65b4931ae5a02db0479e0ea7f62276c9774ca57aab6c4b
 ---
 
 Ya Fatima Karam Hai Apka Joan Rizvi

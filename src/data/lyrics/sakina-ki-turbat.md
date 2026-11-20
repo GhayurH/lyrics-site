@@ -64,14 +64,6 @@ romanLyrics: |-
   Sada naam-e-Asghar pe hasrat hai meri
   Guzar jaaye Akbar ki ye umr saari
   Sabiloṅ se paani pilaate pilaate
-# source_id: nohayonline:2a272b7a00197f3a86ab
-# source_url: https://www.nohayonline.com/details_content.php?id=112
-# raw_sha256: 5217c752224f725a64ab2caf75996749db24e9c609ef07a144b1f7487b1574ed
-# source_id: nohawriteups:398182d5cdff34ab5082
-# source_url: https://www.nohawriteups.org/sakina-ki-turbat/
-# original_html: snapshots/nohawriteups/original_html/398182d5cdff34ab5082.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/398182d5cdff34ab5082.json
-# api_content_sha256: 3e3dfce14d97bfb39e09d04565c273a5cded22c4a0bf268d01089d23261c7c45
 ---
 ہے کیسا اندھیرا یہ کیا ہو گیا ہے
 ہے کس کا جنازہ قیامت بپا ہے

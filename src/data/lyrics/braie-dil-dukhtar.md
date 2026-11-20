@@ -126,9 +126,6 @@ romanLyrics: |-
   Kartay the haram noha, Sarwar nay kaha baiti,
   Sa’at hai judayi ki, baraay e dil e dukhtar,
   Baraay e dil e baba, maqtal na chali aana.
-# source_id: ziyaraat:529c1721da7e460847f8
-# source_url: https://www.ziyaraat.net/api/noha/1829
-# raw_sha256: 950fe6efeb91718fc9bcdbe71bfa975babb571a5be48082b0bd4cd6c2e915e9a
 ---
 
 ۱

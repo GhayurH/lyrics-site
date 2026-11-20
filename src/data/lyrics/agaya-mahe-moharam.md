@@ -42,9 +42,6 @@ romanLyrics: |-
   7
   Matam-e-Shabbir hai Jawad saman-e-shifa
   Jo bhi dushman hai aza ke un se bezari kareṅ
-# source_id: nohayonline:aae892cac0fded263e81
-# source_url: https://www.nohayonline.com/details_content.php?id=3095
-# raw_sha256: e3f7d37a6fbf9ec4947dd15422e5f72a13acb56217a1e6f47be7ef2f16867315
 ---
 اے عزاداروں شہ کے پرسہ داروں
 آ گیا ماہِ محرم آؤ تیاری کریں

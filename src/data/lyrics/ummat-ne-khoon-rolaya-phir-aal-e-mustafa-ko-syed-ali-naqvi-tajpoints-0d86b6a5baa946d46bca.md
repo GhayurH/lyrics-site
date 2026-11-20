@@ -8,9 +8,6 @@ poet: "Ali"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0d86b6a5baa946d46bca
-# source_url: https://tajpoints.com/2022/04/ummat-ne-khoon-rolaya-phir-aal-e.html
-# raw_sha256: 52d0f12681714ff0138d7f52e8a5ae8d2fab08095705dbe09748accd0e425083
 ---
 
 1

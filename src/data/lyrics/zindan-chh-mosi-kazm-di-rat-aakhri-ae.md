@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:99ab6ca7f1546181b95e
-# source_url: https://www.ziyaraat.net/api/noha/2522
-# raw_sha256: 129f2ce7f3a6b0ebd666a46dd024fd132afbda4db82f2971d9342fc186af3bfe
 ---
 
 Zindaan Ch Musa Kazim Di Raat Akhri Hai

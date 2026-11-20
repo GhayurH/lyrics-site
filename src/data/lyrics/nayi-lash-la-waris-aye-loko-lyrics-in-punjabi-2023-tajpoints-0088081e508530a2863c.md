@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0088081e508530a2863c
-# source_url: https://tajpoints.com/2023/02/nayi-lash-la-waris-aye-loko-lyrics-in.html
-# raw_sha256: 9d6ccc8cda80a6f0824602666c12f6a1cd9d6a0acaad17c45ca3ff8e0ac91f48
 ---
 
 1

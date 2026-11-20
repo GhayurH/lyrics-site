@@ -8,9 +8,6 @@ poet: "Faraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:348a1122263e712246bb
-# source_url: https://tajpoints.com/2017/02/silsile-tor-gaya-woh-sabhi-jaate-jaate.html
-# raw_sha256: f049df96601097245a49c385e9c612b5f3f6f665fa7533ef81808e5a8df7de1f
 ---
 
 Silsile Tor Gaya Woh Sabhi Jaate Jaate.

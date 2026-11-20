@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:12651350da92f37b0e47
-# source_url: https://tajpoints.com/2023/06/ghadeer-hai-hasnain-akbar-lyrics-in.html
-# raw_sha256: affc10a407b80e04484f105fc2e64ece27701b36a7a4fa87b25c9350ab3ae573
 ---
 
 Ghadeer Hai Hasnain Akbar

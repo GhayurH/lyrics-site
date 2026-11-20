@@ -85,9 +85,6 @@ romanLyrics: |-
   Masruf sab the aah o buka may
   Tarpe the lashy ho kar wida jab
   Zainab chali thi sue Madina
-# source_id: ziyaraat:1074df637332c60ea04c
-# source_url: https://www.ziyaraat.net/api/noha/1303
-# raw_sha256: 2cff6898069dfaa2357b8db6b0b33ad63d1f27e58dc57a371f9c19b28f5ed603
 ---
 
 السلامُ علیکَ یا غریب حُسیناؑ

@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Sughra ne duaaoṅ meiṅ Sajjad na kuchh maanga
   Baad-e-Ali Akbar jo maangi to qaza maangi
-# source_id: nohayonline:8c60813b7bb2dbb40c55
-# source_url: https://www.nohayonline.com/details_content.php?id=20
-# raw_sha256: 357c5774a632c2b1a9c1f508b828c88450324452a8ae88064f597f031af4c76a
 ---
 بازار میں زینب نے مرنے کی دعا مانگی
 جب شام کے لوگوں سے عابد نے ردا مانگی

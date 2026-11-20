@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:014392c779ad733a61f2
-# source_url: https://www.nohawriteups.org/hur-zara-pehchaan-mujhko-bolta-quran-hun-main/
-# original_html: snapshots/nohawriteups/original_html/014392c779ad733a61f2.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/014392c779ad733a61f2.json
-# api_content_sha256: 0c0b760bcb7e94d7fd077f024d49f1109f509a45860b2feb7f92027e8c1660a3
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Hur Zara Pehchaan Mujhko Bolta Quran Hun Main.

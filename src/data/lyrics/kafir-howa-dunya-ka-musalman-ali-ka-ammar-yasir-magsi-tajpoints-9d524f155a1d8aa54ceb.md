@@ -8,9 +8,6 @@ poet: "Ammar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9d524f155a1d8aa54ceb
-# source_url: https://tajpoints.com/2023/07/kafir-howa-dunya-ka-musalman-ali-ka.html
-# raw_sha256: a626e28541aef1a30894550530e6d6f83df8498c2e7a20ed60adeb2247d14023
 ---
 
 Kafir Howa Dunya Ka Musalman Ali AS Ka Ammar Yasir Magsi.

@@ -44,9 +44,6 @@ romanLyrics: |-
   Mohsin mera mar gaya hai
   Baba dekheṅ baba dekheṅ
   Viraaṅ hai meri godi
-# source_id: nohayonline:c7c60b65aadd81487a8f
-# source_url: https://www.nohayonline.com/details_content.php?id=2096
-# raw_sha256: 7a6885f492f86fa37d4b908c24f997dd1c78c19964d265ab6d524c978c48134d
 ---
 زہرا کیسی ہو میری بیٹی
 بابا بابا بابا بابا

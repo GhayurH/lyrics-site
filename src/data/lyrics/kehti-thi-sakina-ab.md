@@ -61,9 +61,6 @@ romanLyrics: |-
   Ab to sar par chaadar bhi nahiṅ
   Aa jaao Baaba aa jaao
   Baaba ab aa jaao
-# source_id: nohayonline:81b14a284634839c2e76
-# source_url: https://www.nohayonline.com/details_content.php?id=538
-# raw_sha256: 8c85d122bee4c90abad887da06aed99fa771344449179d100c2e19626b766c1d
 ---
 
 کہتی تھی سکینہ آ جاؤ بابا اب آ جاؤ

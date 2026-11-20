@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:685676d4a54e35f08c87
-# source_url: https://tajpoints.com/2022/02/thori-hai-subbaib-abidi-lyrics-in-urdu.html
-# raw_sha256: b479a4674b3edf6c3ea8c33c67ad9965d3a6f4f2af7b1393e1ae5e8c306ba09a
 ---
 
 1

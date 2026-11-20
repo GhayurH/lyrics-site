@@ -8,9 +8,6 @@ poet: "Mesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ca06a3b805074b8e15ef
-# source_url: https://tajpoints.com/2023/02/bus-haider-haider-hoga-mesum-abbas.html
-# raw_sha256: c020e039f9c6ec6e419fb3f8da6e50577f42c01b9611d7e21e0a32855e6ea950
 ---
 
 Bus Haider Haider Hoga Mesum Abbas.

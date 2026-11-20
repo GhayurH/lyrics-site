@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:23bef7d29d53730300f7
-# source_url: https://tajpoints.com/2022/12/kabhi-to-raaz-khulega-ya-ali-ya-fatima.html
-# raw_sha256: 1c792b58a5e8cfc884453c1e48454bfdac989be291b2a1b9e51504b13b2f850b
 ---
 
 1

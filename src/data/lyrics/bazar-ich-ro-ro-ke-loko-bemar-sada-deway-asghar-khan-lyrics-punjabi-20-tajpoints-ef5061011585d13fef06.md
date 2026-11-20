@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ef5061011585d13fef06
-# source_url: https://tajpoints.com/2023/05/bazar-ich-ro-ro-ke-loko-bemar-sada.html
-# raw_sha256: 045fb794a3e301a5a014916f9c347e63b51754d0c1aebc43996f022343f76f2b
 ---
 
 Bazar Ich Ro Ro Ke Loko Bemar Sada Deway Asghar Khan.

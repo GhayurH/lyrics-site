@@ -56,9 +56,6 @@ romanLyrics: |-
   Khuṅ meiṅ dubi hai tumhari wo tahajjud ki dua
   Kya isi din ke liye...
   Jor kar nanhe se...
-# source_id: nohayonline:be428e99d1af1daa1cef
-# source_url: https://www.nohayonline.com/details_content.php?id=2779
-# raw_sha256: 0627bd1bb1ca188ade185d170bac1b9ff340a6815c4c90a1d0336717dd8f59fc
 ---
 
 ۱

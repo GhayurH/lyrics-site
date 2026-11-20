@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b0485e1e7b310bd415db
-# source_url: https://tajpoints.com/2021/02/allah-pardesiyaan-nu-watna-te-le-aaway.html
-# raw_sha256: 7eb3815468cd0553894edbd6fbc878f552f388b840f2e1be3967a5f59eee631b
 ---
 
 1

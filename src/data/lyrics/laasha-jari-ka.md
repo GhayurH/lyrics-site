@@ -43,15 +43,6 @@ romanLyrics: |-
   Jiti hai jang kis ne bata dasht-e-Nainawa
   Kis ka tawaaf karti hai khud nehr-e-Alqama
   Qabza Samar jari se chhuraaya na ja saka
-# source_id: nohayonline:4a06406be06a5c2dbbd3
-# source_url: https://www.nohayonline.com/details_content.php?id=174
-# raw_sha256: 61bebd38e4372b4282213bbd69e6f2ebb2690cdb19bf37e9d940561a5f1b41c4
-# source_id: ziyaraat:161bb02792695908a428
-# source_url: https://www.ziyaraat.net/api/noha/2378
-# raw_sha256: 8c9ed2c58eaf4ced5d03448ba27f990c65aaa310c74802ba3db85174175d05a9
-# source_id: ziyaraat:5f5251eacba71f3e44d8
-# source_url: https://www.ziyaraat.net/api/noha/1185
-# raw_sha256: 424cc6a2c5742b8acc4400e13a3d10be4c696d86af819342bc338a384f5ad821
 ---
 
 لاشہ جری کا خیمے میں لایا نہ جا سکا

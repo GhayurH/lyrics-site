@@ -35,9 +35,6 @@ romanLyrics: |-
   Jhulasti ret hai ab mera bistar
   Kahaaṅ hai ab tera sina mayassar
   Mere Baba mujhe nind aa rahi hai
-# source_id: nohayonline:07957a022a664f0e8572
-# source_url: https://www.nohayonline.com/details_content.php?id=3266
-# raw_sha256: 1f615077b18ad966322982e325d2be118c086d9d49af985bd3122534e2618edd
 ---
 اٹھو بابا قیامت آ رہی ہے
 سکینہ قید ہو کر جا رہی ہے

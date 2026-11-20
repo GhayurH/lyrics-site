@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e85662d26949f0ad53eb
-# source_url: https://www.nohawriteups.org/zainab-chore-chali-teriyyan-pak-jagiran-noon/
-# original_html: snapshots/nohawriteups/original_html/e85662d26949f0ad53eb.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e85662d26949f0ad53eb.json
-# api_content_sha256: 199f83596ab327ce0849ef220439c0a67573cd1248411e9d4000cf91db83cfcb
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye viraa, Zainab chore chali, teriyyan pak jagiran noon

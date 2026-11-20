@@ -95,9 +95,6 @@ romanLyrics: |-
   Apne zawwaaroṅ ko deta hai wo ab bhi ye sada
   Khush aamdid khush aamdid
   Ae zaairoṅ khush aamdid
-# source_id: nohayonline:a8c90c9a79813b217653
-# source_url: https://www.nohayonline.com/details_content.php?id=2157
-# raw_sha256: 86e7c003aa92ebb058976fc9d4ae6994a13b061cc41b55af20a923941d995695
 ---
 لو آ گیا بلاوا سلطان کربلا کا
 جاگا ہے مقدر پھر مہمان کربلا کا

@@ -48,9 +48,6 @@ romanLyrics: |-
   Kaise tahrir ho Rehaan o Raza haaye wo baat
   Tashna lab maare gaye Karb o Bala meiṅ Saadaat
   Farsh-e-majlis pe bayaaṅ kar ke tarap jaaoge
-# source_id: nohayonline:83558addca439310b8e2
-# source_url: https://www.nohayonline.com/details_content.php?id=2652
-# raw_sha256: 0fdd4a91179da137efbfa2e9574a8e149cdd155c375a6b2021cb2e42adbc9fe0
 ---
 بھیا تم لوٹ کے کہ کب خیر سے گھر آؤ گے
 وعدہ کرتے تو ہو کیا اس کو نبھا پاؤ گے

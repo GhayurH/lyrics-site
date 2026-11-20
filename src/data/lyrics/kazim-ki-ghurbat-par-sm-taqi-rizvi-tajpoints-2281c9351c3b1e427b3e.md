@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2281c9351c3b1e427b3e
-# source_url: https://tajpoints.com/2026/01/kazim-ki-ghurbat-par-sm-taqi-rizvi.html
-# raw_sha256: b454edf736dbe2af7b0a0cf53f2093a33f0367db3b2784e650bf96a148909885
 ---
 
 1

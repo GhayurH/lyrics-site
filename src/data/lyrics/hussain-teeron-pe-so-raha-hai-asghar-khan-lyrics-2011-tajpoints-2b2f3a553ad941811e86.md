@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2b2f3a553ad941811e86
-# source_url: https://tajpoints.com/2023/05/hussain-teeron-pe-so-raha-hai-asghar.html
-# raw_sha256: bf060708f37f73566364c167d05ea0e724cfe7cf4c6e80e0ac0b509fdd984af6
 ---
 
 Hussain Teeron Pe So Raha Hai Asghar Khan

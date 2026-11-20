@@ -88,9 +88,6 @@ romanLyrics: |-
   Hain yeh Fatima teri nawha khwaan
   Wahan jaake phir, Kahegha nahi,
   Mera dil kabhi, Chalo ghar chalain
-# source_id: ziyaraat:667ed43340088c7ffb7b
-# source_url: https://www.ziyaraat.net/api/noha/435
-# raw_sha256: 057f2382da38204ad3bd81772b2ee086308b1c784d3f790fe371ab8b245a41fe
 ---
 
 سکینہؑ اٹھو میری جاں اٹھو رہائی ملی چلو گھر چلیں

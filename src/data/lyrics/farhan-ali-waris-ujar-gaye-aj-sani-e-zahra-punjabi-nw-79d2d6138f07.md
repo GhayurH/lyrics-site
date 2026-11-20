@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:79d2d6138f07027d18d3
-# source_url: https://www.nohawriteups.org/farhan-ali-waris-ujar-gaye-aj-sani-e-zahra-punjabi-noha-2022-1444-lyrics/
-# original_html: snapshots/nohawriteups/original_html/79d2d6138f07027d18d3.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/79d2d6138f07027d18d3.json
-# api_content_sha256: 0dff06d1ae3febb5a351e7023a43d490253f78307af9a2d0079853b85ddf06b3
-# editorial_note: Unpublished source-faithful draft from approved valid roman only on live, extraction broken; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 YA HUSSAIN(a.s.) – YA HUSSAIN(a.s.)

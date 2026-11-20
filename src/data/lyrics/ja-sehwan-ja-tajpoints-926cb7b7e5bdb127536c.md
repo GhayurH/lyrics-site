@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:926cb7b7e5bdb127536c
-# source_url: https://tajpoints.com/2018/03/ja-sehwan-ja.html
-# raw_sha256: 375021b5b3b530d7df35a77066d96f99c7457442bca3068ecc12e9b6b8bd2601
 ---
 
 1

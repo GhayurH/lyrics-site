@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fd56380fb683bb09d740
-# source_url: https://tajpoints.com/2018/07/ki-ziyarat-jo-ali-ki-tu-muhammad-ne.html
-# raw_sha256: 310a66a854b44d16953f6700ca31a006d2c9f6609ed0f6ed835cb035a305a035
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:29fcd09865df596a91e0
-# source_url: https://tajpoints.com/2017/02/kadi-moraan-de-kadi-paishiyaan-de.html
-# raw_sha256: 10aef4c43476a57a3693be0a55838be218f7cc73ef98a38d00b25ad8714c232e
 ---
 
 1

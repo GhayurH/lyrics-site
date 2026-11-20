@@ -43,9 +43,6 @@ romanLyrics: |-
   Boond paani na usko milega
   Sheh ke haaton pe tadpega ran may
   Kal..
-# source_id: ziyaraat:c08edf4e1a5eeb5e4ef6
-# source_url: https://www.ziyaraat.net/api/noha/2389
-# raw_sha256: 1eb5a7ce19093584848f14c4fca4285b96e664cc8e74a15001df57ad66c8bbe9
 ---
 
 آج زینبؑ ہے رنج و محن میں

@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d0dca41e07e7d756fd59
-# source_url: https://tajpoints.com/2025/01/aik-salman-hai-syed-mohammad-shah-lyrics.html
-# raw_sha256: b54d4cfbc166d2c3182dacda8b31a95db907eed9c29fa06938003ca2c6a1589a
 ---
 
 Aik Salman Hai Syed Mohammad Shah.

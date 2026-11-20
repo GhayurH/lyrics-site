@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ace7d978df496c3d1b29
-# source_url: https://tajpoints.com/2023/07/faryad-e-sakina-zawwar-syed-hasnain.html
-# raw_sha256: f267d546eb71dd07539c5e7b8fc7983c1ce4a104e0a9ad8b77e87d5cbb977b19
 ---
 
 Faryad e Sakina Zawwar Syed Hasnain Abbas Al-Hasani.

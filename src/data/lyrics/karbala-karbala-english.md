@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: true
-# source_id: ziyaraat:fa5d32be32b53f50e7ad
-# source_url: https://www.ziyaraat.net/api/noha/2663
-# raw_sha256: 76583e7e6273b3ca9e59b58f38931833d6010a5daaa26f033fde1b7a513e01ee
 ---
 
 Karbala, Karbala, Karbala, Karbala

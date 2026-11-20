@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2ea8bfb7eea17075de70
-# source_url: https://tajpoints.com/2025/04/kha-gayi-sharam-o-haya-aazar-ki-janib.html
-# raw_sha256: 73c3c268e95668c4ddb0bf6263178337dd9a9b742c44d9975602e6c63c209090
 ---
 
 Kha Gayi Sharam o Haya Aazar Ki Janib Chale.

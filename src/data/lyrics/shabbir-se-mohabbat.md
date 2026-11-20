@@ -48,9 +48,6 @@ romanLyrics: |-
   9
   Aa rahi hai chacha chacha ki sada
   Qaid khaane meiṅ kis ki turbat hai
-# source_id: nohayonline:b6dd6fb5181c6a350116
-# source_url: https://www.nohayonline.com/details_content.php?id=517
-# raw_sha256: 578f5cb2061c99f1e410468d0a27537e9230831b055806e8a131c7797e2fed1a
 ---
 شبیر سے محبت ہے مجھ کو
 عشقِ شبیر میری دولت ہے

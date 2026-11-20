@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8ea638f6ba36df2cc395
-# source_url: https://tajpoints.com/2022/09/baba-se-mila-do-amma-ali-raza-karbalai.html
-# raw_sha256: a6eaca6308f8bad67777dce046d956dd6227697286e099f60cfc16ce286624fc
 ---
 
 1

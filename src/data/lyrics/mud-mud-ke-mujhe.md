@@ -56,9 +56,6 @@ romanLyrics: |-
   Sar pit ke Mola ne Takallum ye sada di
   Hai chaadar-e-Zainab meri ghurbat ki gawaahi
   Maiṅ tum ko kafan de nahiṅ sakta Ali Akbar
-# source_id: nohayonline:373f30f5a10d821155ef
-# source_url: https://www.nohayonline.com/details_content.php?id=325
-# raw_sha256: e53b286e0bf2247fb1a6cb3750b6c41ededd8f1fee956d446485ba955792daca
 ---
 
 چلا جو خیمے سے مرنے رسول جیسا پسر

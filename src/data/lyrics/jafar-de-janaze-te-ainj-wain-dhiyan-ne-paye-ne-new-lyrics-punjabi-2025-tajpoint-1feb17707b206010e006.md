@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:1feb17707b206010e006
-# source_url: https://tajpoint.com/jafar-de-janaze-te-ainj-wain-dhiyan-ne-paye/
-# raw_sha256: 571fcef4df9f4ae17ff4ae1de4d9d078e1e79744dc9e1dfecaeee9f3d32e0b87
 ---
 
 1

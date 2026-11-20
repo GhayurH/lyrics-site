@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4539a80fd8dbb97454f9
-# source_url: https://tajpoints.com/2023/01/karbobala-le-chal-mojhy-rehan-rizvi.html
-# raw_sha256: a6e5cbd00dfda5437f8789a3446ca34547cf56302dba2be37a13f911bf7a1e89
 ---
 
 1

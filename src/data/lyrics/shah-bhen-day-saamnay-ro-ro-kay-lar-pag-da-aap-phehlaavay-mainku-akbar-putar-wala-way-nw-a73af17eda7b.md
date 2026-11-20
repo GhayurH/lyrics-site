@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a73af17eda7ba5498e98
-# source_url: https://www.nohawriteups.org/shah-bhen-day-saamnay-ro-ro-kay-lar-pag-da-aap-phehlaavay-mainku-akbar-putar-wala-way/
-# original_html: snapshots/nohawriteups/original_html/a73af17eda7ba5498e98.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a73af17eda7ba5498e98.json
-# api_content_sha256: 9690dc1464a5c214b4f6e80a0e08c48fd44ea09dfeb59776a73a8d01f7938263
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Shah Bhen Day Saamnay Ro Ro Kay Lar Pag Da Aap

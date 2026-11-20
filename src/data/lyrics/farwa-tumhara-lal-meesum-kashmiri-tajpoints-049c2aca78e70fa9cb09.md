@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:049c2aca78e70fa9cb09
-# source_url: https://tajpoints.com/2021/08/farwa-tumhara-lal-meesum-kashmiri.html
-# raw_sha256: 9ad10e6b96dc7a2611d36806097ef89466e12056bbf089304fcdad76d0a055c7
 ---
 
 Farwa Tumhara Lal Meesum Kashmiri.

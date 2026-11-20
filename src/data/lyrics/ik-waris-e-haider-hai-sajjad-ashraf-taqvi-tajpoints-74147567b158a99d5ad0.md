@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:74147567b158a99d5ad0
-# source_url: https://tajpoints.com/2022/03/ik-waris-e-haider-hai-sajjad-ashraf.html
-# raw_sha256: 9823e910d21e2dfa3194669b480af01ba09d62dbe69e88b3921a442376573686
 ---
 
 1

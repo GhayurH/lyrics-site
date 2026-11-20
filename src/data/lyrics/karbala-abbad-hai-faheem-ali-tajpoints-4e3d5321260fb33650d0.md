@@ -8,9 +8,6 @@ poet: "Shaukat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4e3d5321260fb33650d0
-# source_url: https://tajpoints.com/2021/08/karbala-abbad-hai-faheem-ali-lyrics-in.html
-# raw_sha256: f9b512fea435e0cc9900e827bf70911cdce57290792ef885b625d4887e7023c5
 ---
 
 1

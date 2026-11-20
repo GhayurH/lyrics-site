@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dc863774e6615637a854
-# source_url: https://tajpoints.com/2017/02/mera-naa-fizza-aey-loko-mere-naal.html
-# raw_sha256: 26caf7f208fcc2ecf47cdeaefecabd4b8f2f68701d30a7e7cfd937e48e5f66df
 ---
 
 1

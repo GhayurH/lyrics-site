@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e3f61dc452d994de27cc
-# source_url: https://www.nohawriteups.org/jeeta-mere-baba/
-# original_html: snapshots/nohawriteups/original_html/e3f61dc452d994de27cc.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e3f61dc452d994de27cc.json
-# api_content_sha256: b988398f5eb20666f6dd3ae6035126a515bb949c5a4a4ae5cb3dd5ce2ba2fe5b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 jeeta mere baba ko khuda laaye to laaye

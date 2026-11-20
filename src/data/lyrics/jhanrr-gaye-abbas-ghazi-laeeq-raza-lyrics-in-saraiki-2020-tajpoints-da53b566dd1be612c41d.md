@@ -8,9 +8,6 @@ poet: "Laeeq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da53b566dd1be612c41d
-# source_url: https://tajpoints.com/2021/06/jhanrr-gaye-abbas-ghazi-laeeq-raza.html
-# raw_sha256: 2a950138472febd6f5f7729c0bcc1714c8b74fb4323f5e2f02f813882de8145e
 ---
 
 Jhanrr Gaye Abbas Ghazi Laeeq Raza.

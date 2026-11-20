@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:72cd9596e69b717380a3
-# source_url: https://tajpoints.com/2022/03/sahib-ul-asr-mukhtar-hussain-fatehpuri.html
-# raw_sha256: 805e9423b412eacd6a776f5788308a215958451462c2532a2b37b57d3e1a96a5
 ---
 
 1

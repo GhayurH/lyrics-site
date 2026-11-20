@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4ddeed784e7c6f5211cc
-# source_url: https://tajpoints.com/2021/12/zahra-ko-hai-bohat-mara-syed-mohammad.html
-# raw_sha256: ce113c6eb4ce308dbaac7415831f2c0eae4c347a4b527564a9d31e9f63c69127
 ---
 
 1

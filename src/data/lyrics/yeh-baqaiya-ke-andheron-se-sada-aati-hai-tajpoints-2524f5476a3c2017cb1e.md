@@ -8,9 +8,6 @@ poet: "Zain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2524f5476a3c2017cb1e
-# source_url: https://tajpoints.com/2020/02/yeh-baqaiya-ke-andheron-se-sada-aati.html
-# raw_sha256: ec5aa7b278846c7666e07dbea5cf390e2e285dcd2edd1fba9e5657d0843adf15
 ---
 
 1

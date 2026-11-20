@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ea45ad435f818c354aad
-# source_url: https://tajpoints.com/2017/02/hum-alias-ke-dewane-har-adda-ghadeeri.html
-# raw_sha256: 4dd07684513d6f86f84a9276ec2e497bd878176ec86babea2b1f95987be8a614
 ---
 
 1

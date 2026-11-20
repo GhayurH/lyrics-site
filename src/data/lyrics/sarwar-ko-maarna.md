@@ -108,9 +108,6 @@ romanLyrics: |-
   Baithe layeen chain se akbar ko maar kar
   Lekin fiza mein goonj rahi thi yehi sada
   Sarwar ko maarna hai to...
-# source_id: nohayonline:69b4aed3a81d0bccba06
-# source_url: https://www.nohayonline.com/details_content.php?id=3674
-# raw_sha256: d82635d169d20ea2839f6845aeead21c50c34c6e3bb2b130983b882e9513d79f
 ---
 
 ۱

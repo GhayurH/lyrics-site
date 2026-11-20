@@ -48,9 +48,6 @@ romanLyrics: |-
   Baad Aashur jo rota raha chaalis baras
   Zahr-e-malaun se maara gaya aakhir bekas
   Aakhri waqt bhi shaayad yehi kehta tha Imam
-# source_id: nohayonline:e82a01687d83d2e848d0
-# source_url: https://www.nohayonline.com/details_content.php?id=590
-# raw_sha256: 0490da138681261a036e5cd00a9927b3db21c90a06ce90e1886716b96fdee1c7
 ---
 کسی بیمار کے ہونٹوں پہ رہا ایک ہی نام
 ہائے الشام ہائے الشام ہائے الشام

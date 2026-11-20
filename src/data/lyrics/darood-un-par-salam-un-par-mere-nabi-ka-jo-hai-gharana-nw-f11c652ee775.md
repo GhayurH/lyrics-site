@@ -49,12 +49,6 @@ romanLyrics: |-
   Jaha pay imran aur anjum, ada krain soz panjagana
 
   Darud un par salam un par Mere nabi ka jo hai gharana (x1)
-# source_id: nohawriteups:f11c652ee775f83c6962
-# source_url: https://www.nohawriteups.org/darood-un-par-salam-un-par-mere-nabi-ka-jo-hai-gharana-lyrics/
-# original_html: snapshots/nohawriteups/original_html/f11c652ee775f83c6962.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f11c652ee775f83c6962.json
-# api_content_sha256: 3abc5322e580a82f21e52b8dc5f766b68abd8f1b268d7adb0f9ef8682c4a1a72
-# editorial_note: Unpublished source-faithful draft from approved valid roman+urdu; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 اُس پر درود، اُس پر، میرے نبی کی آل پر سلام۔

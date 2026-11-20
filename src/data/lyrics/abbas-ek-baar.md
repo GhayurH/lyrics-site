@@ -74,9 +74,6 @@ romanLyrics: |-
   Darya ke kinare Ghazi ne
   Maaṅ kehte hue dam tor diya
   Zehra ne kaha jab ro ro ke Abbas
-# source_id: nohayonline:99a75b9b0bddb5a720e9
-# source_url: https://www.nohayonline.com/details_content.php?id=3031
-# raw_sha256: ec24d8335c775fddb0be354bffc1afc6ae0fbf940378dc6fce94e9d76026fe17
 ---
 
 ایک بار صدا دو نا

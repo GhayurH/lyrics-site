@@ -8,9 +8,6 @@ reciter: "Katri Bawa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:b0fb2476366bd6a4c60a
-# source_url: https://www.ziyaraat.net/api/noha/2509
-# raw_sha256: 7c0dbee0fa7f9f777499d415b87bf4af9a671737ee2073a89ed4f806aea8851b
 ---
 
 Kainaat nai pura kar sakdi jo Maa da ho nuksaan gaya

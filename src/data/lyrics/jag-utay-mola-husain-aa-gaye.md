@@ -39,10 +39,6 @@ romanLyrics: |-
   Rab jinu jannataaṅ da waaris banaya ae
   Laal Ali da sohna aisa hor nahiṅ hona
   Zahra da ban ke oh chain aa gaye
-# source_language: Punjabi (Shahmukhi; Urdu schema category)
-# source_id: tajpoints:d9dba1c4d785b4b9a0e1
-# source_url: https://tajpoints.com/2017/02/jag-utay-molaas-hussainas-aa-gay.html
-# raw_sha256: 0d6a829d38715ba5d0799497338dae1caf0dc567aa0fd02ffda9bc8eb16600b7
 ---
 جگ اُتے مولا حسین آ گئے
 

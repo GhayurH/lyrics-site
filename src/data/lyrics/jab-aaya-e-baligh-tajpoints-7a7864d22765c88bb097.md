@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7a7864d22765c88bb097
-# source_url: https://tajpoints.com/2020/11/jab-aaya-e-baligh-lyrics-in-urdu-and.html
-# raw_sha256: 7600906df1d9d408132bd0863a71355755d36edd4e6e3127461f789dad89fdc8
 ---
 
 1

@@ -68,9 +68,6 @@ romanLyrics: |-
   Bhai ki laash par mere baba
   Khat behan ka sunayenge kaise
   Deke awaaz baap ko...
-# source_id: nohayonline:7ae52922b3bff37219d0
-# source_url: https://www.nohayonline.com/details_content.php?id=91
-# raw_sha256: 2daa36ffcb8d27bcce7be7252a62901b5bc4680a406cd217f8a25f321759e002
 ---
 
 ۱

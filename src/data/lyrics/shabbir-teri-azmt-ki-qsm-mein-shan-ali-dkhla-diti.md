@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:54bf4e26e350284a9e97
-# source_url: https://www.ziyaraat.net/api/noha/315
-# raw_sha256: bc76d67acc634e4a338b0261335523601a4c4b99ce836c4bb5a99f819f9cc0c4
 ---
 
 Shabbir teri azmat ki kasam main shaan-e-Ali dikhla deti

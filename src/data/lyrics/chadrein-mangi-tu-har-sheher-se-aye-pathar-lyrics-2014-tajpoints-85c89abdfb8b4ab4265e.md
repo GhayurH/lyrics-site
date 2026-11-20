@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:85c89abdfb8b4ab4265e
-# source_url: https://tajpoints.com/2017/02/chadrein-mangi-tu-har-sheher-se-aye.html
-# raw_sha256: 70edba9c98e9cb7083060dddc223cdcb2dc540a3fcbffbcae793e80a6f97cc51
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a2632dbf502a0478fb19
-# source_url: https://tajpoints.com/2019/08/ali-maula-banaya-ja-raha-hai-lyrics-in.html
-# raw_sha256: f6e92f5dc2da13b29d13c1b807dc6d3e3c709e5537c338d01c780401a1f1525c
 ---
 
 1

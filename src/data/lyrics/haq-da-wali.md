@@ -11,7 +11,6 @@ tags: []
 aliases: ["haq-da-wali-karbalai-sisters-syeda-amber-naqvi-rida-karbalai-lyrics-20"]
 published: true
 recitationId: "haq-da-wali-karbalai-sisters-syeda-amber-naqvi-rida-karbalai-lyrics-20"
-# Source language: Panjabi; the Arabic-script edition retains Punjabi wording.
 romanLyrics: |-
   Haq da wali ae sher-e-jali ae do jag da shahanshaah
   Makhluqaaṅ paale mushkil vi taale Ali Haq Elia
@@ -43,9 +42,6 @@ romanLyrics: |-
   7
   Jehri jaa Salmaan ne sajde kite ne
   Maiṅ vi Madine os Bibi de dar jaawaaṅ
-# source_id: tajpoints:a703269e528ec6c3061a
-# source_url: https://tajpoints.com/2023/02/haq-da-wali-karbalai-sisters-syeda.html
-# raw_sha256: 0db26caca9967b292123dac5c66274ef62fb32b5128a9f059d7805ba26b51039
 ---
 
 حق دا ولی اے شیرِ جلی اے دو جگ دا شہنشاہ

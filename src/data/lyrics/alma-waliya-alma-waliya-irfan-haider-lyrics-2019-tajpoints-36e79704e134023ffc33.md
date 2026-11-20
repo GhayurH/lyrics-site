@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:36e79704e134023ffc33
-# source_url: https://tajpoints.com/2017/10/alma-waliya-alma-waliya.html
-# raw_sha256: b8a14705f718652d3b070aad0675ecbcb01932f2dc0d9ae25c0e064a85279bd6
 ---
 
 1

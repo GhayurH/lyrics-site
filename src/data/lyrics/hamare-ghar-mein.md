@@ -74,9 +74,6 @@ romanLyrics: |-
   Agle baras jo hoga wohi royega Husain
   Zinda rahe to hum bhi pukarenge ya Husain
   Dua karo dua karo hamare ghar meiṅ...
-# source_id: nohayonline:081ec5125dd97b88f51a
-# source_url: https://www.nohayonline.com/details_content.php?id=3648
-# raw_sha256: 076d82593b392441a69374dd01316eaf973a07750b5aeb6189911a2f6c7de7b8
 ---
 
 ۱

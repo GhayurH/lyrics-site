@@ -8,9 +8,6 @@ poet: "Wahid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:70d9137f226fc317a71a
-# source_url: https://tajpoints.com/2021/01/nishaan-tamachay-ka-kaisay-chupaye-gi.html
-# raw_sha256: d5e1e950ba4e65c1d0351e664bc609bbb5ac5d82b161bc5fd4946e950aa0fab6
 ---
 
 Nishaan Tamachay Ka Kaisay Chupaye Gi Zahra.

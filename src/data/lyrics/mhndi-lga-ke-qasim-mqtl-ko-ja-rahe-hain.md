@@ -83,18 +83,6 @@ romanLyrics: 'Mehendi laga ke qasim maqtal ko ja rahe hai
   Ek aisa saneha hai maidan e karbala ka
 
   Har saal ahle matam jisko mana rahe hai'
-# source_id: nohayonline:583f6b4d5dde27cbc921
-# source_url: https://www.nohayonline.com/details_content.php?id=441
-# raw_sha256: cac4f0c142da03875eec81310c4e8c0b4dc9e25f44cac02c412af285fcbc1c9a
-# source_id: ziyaraat:596ff4dddf896798c94d
-# source_url: https://www.ziyaraat.net/api/noha/1186
-# raw_sha256: 7e9e94bbbf52a8fc3dc8a0841a3a07e0bdea4b79cd7c80dba8fac8c5251a870c
-# source_id: ziyaraat:d93e79e427d29936e7e8
-# source_url: https://www.ziyaraat.net/api/noha/1190
-# raw_sha256: d5ddafd670ac4d0faeef666721d199fbc441c6b6fc2dcd925664930413484087
-# source_id: ziyaraat:f8a21f8a8550f0de0a4e
-# source_url: https://www.ziyaraat.net/api/noha/1187
-# raw_sha256: a64e0d463df6178679e2b611f7f7632e954ddcbc9c126542d385d0493624717a
 ---
 
 مہندی لگا کے قاسمؑ مقتل کو جا رہے ہیں

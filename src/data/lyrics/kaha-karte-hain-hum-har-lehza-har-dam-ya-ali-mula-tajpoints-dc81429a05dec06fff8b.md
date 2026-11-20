@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dc81429a05dec06fff8b
-# source_url: https://tajpoints.com/2017/12/kaha-karte-hain-hum-har-lehza-har-dam.html
-# raw_sha256: 636a377d334e29fec2d25f792cd86fdaed8be8a2f08b0e59eabddbdc9151fc3b
 ---
 
 1

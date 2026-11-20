@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:3f4818726ab8a45cfce1
-# source_url: https://tajpoint.com/pathran-che-dub-gaya-aye-chan-hashmi-gharan-da-lyrics/
-# raw_sha256: c338d231d7976f8573af8a5199e628a31d9cd1282310020014bd73916adc4229
 ---
 
 1

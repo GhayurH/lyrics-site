@@ -34,9 +34,6 @@ romanLyrics: |-
   Ae kaash anis itna hi ban jaye muqaddar
   Bosa lu zarih e shah e abrar ka ja kar
   Abbas abbas abbas bulao
-# source_id: nohayonline:e22151e491c0bd610d88
-# source_url: https://www.nohayonline.com/details_content.php?id=232
-# raw_sha256: e4f995c8e45d5a28b1746005d81671b57d56ce7d96c5eb3919dc6761670c0335
 ---
 
 ۱

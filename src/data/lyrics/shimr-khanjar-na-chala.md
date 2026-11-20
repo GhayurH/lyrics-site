@@ -65,9 +65,6 @@ romanLyrics: |-
   Gunjti reh gayi maqtal meiṅ ye zainab ki sada
   Aakhri baar behan...
   Shimr khanjar...
-# source_id: nohayonline:4695b75a739df3ea0d7f
-# source_url: https://www.nohayonline.com/details_content.php?id=1083
-# raw_sha256: 1327e56491054766db588737f7f70e7ec3739987a156dc2dfbe4e9a139f1afb5
 ---
 
 ۱

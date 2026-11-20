@@ -40,9 +40,6 @@ romanLyrics: |-
   Is daawar se bhiksha le ke chale
   Aaye the to jholi khaali thi
   Is chand ki das ko...
-# source_id: nohayonline:8c02ab43ebe85f421aed
-# source_url: https://www.nohayonline.com/details_content.php?id=3540
-# raw_sha256: e21d48452e193ad3d91461739f1f7337144a96c3ef31c9437c48c6a66d09b867
 ---
 
 ۱

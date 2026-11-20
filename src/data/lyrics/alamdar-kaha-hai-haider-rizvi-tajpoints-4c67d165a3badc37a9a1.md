@@ -8,9 +8,6 @@ poet: "Jafar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4c67d165a3badc37a9a1
-# source_url: https://tajpoints.com/2025/06/alamdar-kaha-hai-haider-rizvi-lyrics.html
-# raw_sha256: 57985ae5e7a995876a57ccd99c49b0bccda987d79b2c3006f66af70ee7a10459
 ---
 
 1

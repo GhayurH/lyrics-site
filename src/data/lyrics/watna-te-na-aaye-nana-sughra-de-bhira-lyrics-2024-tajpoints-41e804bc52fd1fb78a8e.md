@@ -8,9 +8,6 @@ poet: "Nadir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:41e804bc52fd1fb78a8e
-# source_url: https://tajpoints.com/2024/06/watna-te-na-aaye-nana-sughra-de-bhira.html
-# raw_sha256: b7d536e29701a3914b9fb8104362b57999187f1de317266f805e612a43899688
 ---
 
 1

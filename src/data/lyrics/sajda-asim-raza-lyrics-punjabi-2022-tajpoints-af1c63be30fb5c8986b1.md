@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:af1c63be30fb5c8986b1
-# source_url: https://tajpoints.com/2022/04/sajda-asim-raza-lyrics-in-punjabi-and.html
-# raw_sha256: de06980a25351652f32b3d9ac59503b9fae118fa07312292e1da2ce6b091cab5
 ---
 
 1

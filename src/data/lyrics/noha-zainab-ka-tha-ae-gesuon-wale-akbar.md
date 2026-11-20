@@ -53,12 +53,6 @@ romanLyrics: |-
   Kaisi Anjum ye qayaamat ki ghari thi aayi
   Laash pe rone ko beta tha na koi bhai
   Kaun bachoṅ ko bhala aa ke sambhaale Akbar
-# source_id: nohayonline:7db909fb975a6fa7957d
-# source_url: https://www.nohayonline.com/details_content.php?id=250
-# raw_sha256: e129fcbc1e0dc8d9edc4b33a36f59d9379ee64c5998f379da33f918626450ec4
-# source_id: ziyaraat:2408ac6cdb8ab7331ba4
-# source_url: https://www.ziyaraat.net/api/noha/2045
-# raw_sha256: 5a173b41b0dada6fe5194c4237609ea6cd270362495ac33d464cc64a76086f99
 ---
 
 نوحہ زینبؑ کا تھا اے گیسوؤں والے اکبر

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1018068944e0bc494628
-# source_url: https://www.nohawriteups.org/maula-naqi-as-k-jashan-ki-mehfil-saji-hai-aaj/
-# original_html: snapshots/nohawriteups/original_html/1018068944e0bc494628.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1018068944e0bc494628.json
-# api_content_sha256: 4db1d5ff8d1f7b89e3ba12be60417a034296a3d6648ba36c2e4afff86d0a0b67
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Har Su Fiza Ye Dekhiye Mahki Hui Hai Aaj

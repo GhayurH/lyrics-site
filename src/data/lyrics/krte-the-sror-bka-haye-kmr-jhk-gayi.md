@@ -64,12 +64,6 @@ romanLyrics: 'Karte thay sarwar buka haye kamar jhuk gayi
   Aisa anees ab kahan paaega sibte nabi
 
   Jaisa ke abbas tha haye kamar jhuk gayi'
-# source_id: nohayonline:fcb3bb6e5d2dfa28dee4
-# source_url: https://www.nohayonline.com/details_content.php?id=237
-# raw_sha256: 00c25d3a2455fbd10f775fb12e27e0c9a1827c38d8eac229e7c92f352cf3fc6c
-# source_id: ziyaraat:da9fc95092181abcf3c7
-# source_url: https://www.ziyaraat.net/api/noha/2101
-# raw_sha256: 8c25d2c39cdb587a7a8a8467470cc7749882f3c5e1accfb80f4cc3ad02e6986a
 ---
 
 کرتے تھے سرور بکا ہائے کمر جھک گئی

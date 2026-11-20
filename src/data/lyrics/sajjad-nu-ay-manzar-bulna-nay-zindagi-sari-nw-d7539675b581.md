@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d7539675b5817bbefb33
-# source_url: https://www.nohawriteups.org/sajjad-nu-ay-manzar-bulna-nay-zindagi-sari/
-# original_html: snapshots/nohawriteups/original_html/d7539675b5817bbefb33.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d7539675b5817bbefb33.json
-# api_content_sha256: 7325dbdac4aabd2a50420a4f90d841e4baeac181876214324e206cb2a5cb5f6a
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sajjad Nu Ay Manzar, Bulna Nay Zindagi Sari

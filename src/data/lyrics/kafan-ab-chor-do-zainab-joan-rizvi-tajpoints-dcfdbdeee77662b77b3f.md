@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dcfdbdeee77662b77b3f
-# source_url: https://tajpoints.com/2023/04/kafan-ab-chor-do-zainab-joan-rizvi.html
-# raw_sha256: 1ca3422e594b1c235f322e5579b975182654c4487c841e7aeb43d86e85f9e730
 ---
 
 1

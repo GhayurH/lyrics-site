@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:17b8e931a61f0f492597
-# source_url: https://tajpoints.com/2023/02/qaid-muk-gayi-jay-baba-hun-te-ghar-aa.html
-# raw_sha256: d52c7e6f0c4291681d88e65e3bf0cb65727188a4d1e4bc5266a8ff46513625de
 ---
 
 1

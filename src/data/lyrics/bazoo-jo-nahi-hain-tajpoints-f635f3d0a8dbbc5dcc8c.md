@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f635f3d0a8dbbc5dcc8c
-# source_url: https://tajpoints.com/2019/09/bazoo-jo-nahi-hain-lyrics-in-urdu-and.html
-# raw_sha256: b0e939d6eb5ea3273676f180b9c9097c07f2b7bc3689e520ce59edb4e91dff75
 ---
 
 1

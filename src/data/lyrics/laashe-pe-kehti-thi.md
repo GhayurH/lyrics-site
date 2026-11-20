@@ -70,9 +70,6 @@ romanLyrics: |-
   Khatm tujh pe ho gaye jitne the zulm o sitam
   Tera gham aisa hai gham jiske aage saare gham
   Bhuli bisri daastaaṅ ae mere Akbar jawaaṅ
-# source_id: nohayonline:5337b552de66a7976a80
-# source_url: https://www.nohayonline.com/details_content.php?id=755
-# raw_sha256: 0ed142549abc5078d65dc29f3f999d003fcd704b384986da1504881c43bcd1ca
 ---
 
 لاشے پہ کہتی تھی ماں اے میرے اکبر جواں

@@ -64,9 +64,6 @@ romanLyrics: |-
   Raat bhar shaam-e-gharibaaṅ hameiṅ tarpaati hai
   Nind phir Aamir aur Nayyar ko kahaaṅ aati hai
   Yaad aata hai jo shahzaadi-e-gham ka nauha
-# source_id: nohayonline:e072d21d5135c40102f2
-# source_url: https://www.nohayonline.com/details_content.php?id=3595
-# raw_sha256: 704a8111633c51c7e3383a230b44f1c0a6cafdee167aa541189ecae3aecfda9f
 ---
 بین یہ شام غریباں میں سکینہ نے کیا
 نیند کیا آئے گی کہ بستر ہے نہ تکیہ نہ ردا

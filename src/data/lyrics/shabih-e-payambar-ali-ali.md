@@ -53,8 +53,6 @@ romanLyrics: |-
   Bapa tha Karbobala meiṅ haye woh mahshar
   Uthaye laasha kamar khamida the Sarwar
   Sada-e-Akbar Ali Ali
-# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
-# editorial_note: Notebook transcription; newly supplied Urdu where the notebook contains Roman only
 ---
 علی علی اکبر علی علی
 شبیہِ پیمبر علی علی

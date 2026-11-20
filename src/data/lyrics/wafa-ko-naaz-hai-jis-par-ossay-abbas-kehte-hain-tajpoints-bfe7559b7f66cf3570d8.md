@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bfe7559b7f66cf3570d8
-# source_url: https://tajpoints.com/2022/03/wafa-ko-naaz-hai-jis-par-ossay-abbas.html
-# raw_sha256: fef2c3d1267802caa81b66bd1567ba2f42b120215b0eb6f163b09b10a595776e
 ---
 
 1

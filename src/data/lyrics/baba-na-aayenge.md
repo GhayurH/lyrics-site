@@ -64,9 +64,6 @@ romanLyrics: |-
   Khaamosh ho gayi wo Raza karte karte bain
   Bano ko muddatoṅ ye sada ab rulaayegi
   Ammaa ye raat jaan meri le ke jaayegi
-# source_id: nohayonline:b3812a2f70518e7f1dde
-# source_url: https://www.nohayonline.com/details_content.php?id=2658
-# raw_sha256: 8e851da3e67053662c1ee8f8a5216f13b5eef526f52960d2645d25a450fa9596
 ---
 
 زنداں میں جب سکینہ کی جاں لب پہ آ گیء

@@ -111,13 +111,6 @@ romanLyrics: 'Sakina ki sada hai
   Tha Ser goudi Mein Sheh ka
 
   Laboon per tha yeh noha'
-# source_id: nohayonline:77635fe6f29518950630
-# source_url: https://www.nohayonline.com/details_content.php?id=203
-# raw_sha256: cf1eb505f963cc248b29a17aa6aa98d61d970a464c22d0ce397fccde96ba75db
-# source_id: ziyaraat:f18f51f33d7e7fe96a02
-# source_url: https://www.ziyaraat.net/api/noha/843
-# raw_sha256: e73d7179d6746e74471f45dcdbc524ac9de4c77c5d403b842e4b248c6ed3f56f
-# added_stanza_source: roman:kalam-nohayonline-77635fe6f29518950630
 ---
 
 سكینہؑ کی صدا ہے ارے او شام والو، ارے او کوفے والو

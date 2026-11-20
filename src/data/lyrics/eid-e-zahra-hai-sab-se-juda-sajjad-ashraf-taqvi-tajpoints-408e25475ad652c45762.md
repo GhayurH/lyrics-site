@@ -8,9 +8,6 @@ poet: "Aarzoo"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:408e25475ad652c45762
-# source_url: https://tajpoints.com/2021/10/eid-e-zahra-hai-sab-se-juda-sajjad.html
-# raw_sha256: 75e06b9417c9665429975c17fd00b25793eb20f48b9f39053660cbc22b03e149
 ---
 
 Lab Pe Momin Ke Hai Yeh Sada.

@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:54f19e84b3b1e348b8f4
-# source_url: https://tajpoints.com/2025/12/zaat-e-rab-zaat-e-muhammad-mehdi-rizvi.html
-# raw_sha256: b9fa8bbe969c86b20477e25184e12c904571c651ca7e7459b5dc52ec37d63eb1
 ---
 
 1

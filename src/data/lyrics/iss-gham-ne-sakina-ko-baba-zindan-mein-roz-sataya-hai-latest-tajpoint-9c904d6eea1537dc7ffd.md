@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:9c904d6eea1537dc7ffd
-# source_url: https://tajpoint.com/iss-gham-ne-sakina-ko-baba-zindan-mein-roz-sataya-hai/
-# raw_sha256: 429466feed0f5fe6f01da52bf97279c8cc3e6349ffefa93c47df697f282e9905
 ---
 
 Iss Gham Ne Sakina Ko Baba Zindan Mein Roz Sataya Hai

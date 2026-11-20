@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1b08248a1eae34b9a56f
-# source_url: https://tajpoints.com/2023/06/tang-de-ke-tur-gaya-veer-mera-karbala.html
-# raw_sha256: d81e97359b45d9f11ffc427ea47f59f40f4023325ba80752d660b335f338523c
 ---
 
 1

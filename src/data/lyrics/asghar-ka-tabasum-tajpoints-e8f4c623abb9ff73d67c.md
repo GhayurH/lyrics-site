@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e8f4c623abb9ff73d67c
-# source_url: https://tajpoints.com/2023/01/asghar-ka-tabasum-lyrics-in-urdu-and.html
-# raw_sha256: 48c3cabdb034b93e1946292bfc34df3aac64f13fa68768b09d551907b71c2c25
 ---
 
 Muskan Ka Maiyar Hai Asghar Ka Tabasum.

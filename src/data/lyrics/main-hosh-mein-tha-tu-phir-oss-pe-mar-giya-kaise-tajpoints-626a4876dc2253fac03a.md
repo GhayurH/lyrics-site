@@ -8,9 +8,6 @@ poet: "Kamil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:626a4876dc2253fac03a
-# source_url: https://tajpoints.com/2017/02/main-hosh-mein-tha-tu-phir-oss-pe-mar.html
-# raw_sha256: fd8ab8b8e3ce313fcd4d50d2c91b1a01f9cdd1126dd117b5509a5936c0b7dea4
 ---
 
 1

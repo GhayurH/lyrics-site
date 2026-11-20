@@ -71,10 +71,6 @@ romanLyrics: |-
   Kal wahaṅ Shah ka koi apna na tha
   Sab tamashayi the dekhte hi rahe
   Shah ka katta gala aakhri waar tak
-# source_id: nohayonline:32fdf08d690a1bbeb0ca
-# source_url: https://www.nohayonline.com/details_content.php?id=1697
-# raw_sha256: 15f2d13f940e134a4e4d98fbb7ee7a12771a4fc26b3ad2200a3d68eceaa38635
-# overlap_source_url: https://tajpoints.com/2024/07/akhri-waar-syed-raza-abbas-zaidi-lyrics.html
 ---
 
 رن میں شبیر کو ذبح کرتے ہوئے

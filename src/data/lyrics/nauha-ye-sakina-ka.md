@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Ishrat ye pas-e-Shah thi Sakina ki sadaaeṅ
   Paani meiṅ hai dam atka hua pyaas bujha do
-# source_id: nohayonline:6d4534a84424788106a2
-# source_url: https://www.nohayonline.com/details_content.php?id=1358
-# raw_sha256: 782a51feb58cffdea15da59f101b708daa25c7c7fcae50ff87643231fe31bc18
 ---
 نوحہ یہ سکینہ کا رہا پیاس بجھا دو
 دریا سے پلٹ آؤ چچا پیاس بجھا دو

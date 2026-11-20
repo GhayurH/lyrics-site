@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d5f7c4856c1f890348c1
-# source_url: https://www.nohawriteups.org/khair-ul-wara-ki-beti-ko-darbar/
-# original_html: snapshots/nohawriteups/original_html/d5f7c4856c1f890348c1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d5f7c4856c1f890348c1.json
-# api_content_sha256: e4256e0b0b4788b51f819cc23e5bef3ffcfcac0ff5da5107efed735fc72d9aa3
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Khair ul wara ki beti ko darbar bula ker mara geya madinay main

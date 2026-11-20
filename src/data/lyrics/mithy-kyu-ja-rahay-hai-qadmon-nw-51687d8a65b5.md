@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:51687d8a65b57e13c0ca
-# source_url: https://www.nohawriteups.org/mithy-kyu-ja-rahay-hai-qadmon/
-# original_html: snapshots/nohawriteups/original_html/51687d8a65b57e13c0ca.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/51687d8a65b57e13c0ca.json
-# api_content_sha256: 8415f10aa2801ae56bbcbee437c171565d5b53d2310644ad136312cb0e55eb91
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mithy Kyu Ja Rahay Ha Qadmon Ky Nishaan Akbar

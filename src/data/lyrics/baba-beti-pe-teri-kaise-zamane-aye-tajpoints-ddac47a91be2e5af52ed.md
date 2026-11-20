@@ -8,9 +8,6 @@ poet: "Fida"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ddac47a91be2e5af52ed
-# source_url: https://tajpoints.com/2023/04/baba-beti-pe-teri-kaise-zamane-aye.html
-# raw_sha256: d8d06dcfbe98735b3fce1f3a9f48668729d3fe70b346630c5322b24b65c3eb58
 ---
 
 Baba Beti Pe Teri Kaise Zamane Aye.

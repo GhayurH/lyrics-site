@@ -58,9 +58,6 @@ romanLyrics: |-
   Shah ne Aamir tujhe ye dida-e-nam bakhsha hai
   Dar pe Ghazi ne bula kar ye qalam bakhsha hai
   Tab tere misroṅ meiṅ Nayyar ye asar aaye haiṅ
-# source_id: nohayonline:16511e3f1660d1ecaed3
-# source_url: https://www.nohayonline.com/details_content.php?id=3405
-# raw_sha256: dcbc01a396f5ebf23be8b592a6f8a9897ec731c51c21919d670356302aa57693
 ---
 
 رن میں لاشے پہ ہے پڑے نیزوں پہ سر آے ہیں

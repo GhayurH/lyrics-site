@@ -48,12 +48,6 @@ romanLyrics: |-
   Mera Ik Paigham Hai Behna, Mere Azadaron Se Kehna
   Jab Bhi Thanda Pani Peena, Pyasay Husain Ki Pyas Pe Rona
   Haan Ghar Ghar Haan Ta Mehshar, Haan Mujhe Roein Gay Pursay Daar
-# source_id: ziyaraat:3209e2580307ae838f3b
-# source_url: https://www.ziyaraat.net/api/noha/2939
-# raw_sha256: 431ffada1ed084b7b9b6a27eab603a306deeb8c2e689082226902ac202b9a966
-# source_id: ziyaraat:36b9e8dd5d1dd24d6a2f
-# source_url: https://www.ziyaraat.net/api/noha/2938
-# raw_sha256: 4afdcce51048e58f4bdb122ab1034605b42b0cb3bdb302dc65fadba61cafd54d
 ---
 
 جب مقتل کو مظلوم چلا

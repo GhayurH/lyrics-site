@@ -8,9 +8,6 @@ poet: "Jafar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0653d92fadae04880c68
-# source_url: https://tajpoints.com/2023/05/ya-masooma-e-qom-ek-nazar-ho-shahid-ali.html
-# raw_sha256: dd90cff2df8d9d6b74d1fbe40cbf4af613df32634f43791418e5e3e6c3a01afc
 ---
 
 Ya Masooma e Qom Ek Nazar Ho Shahid Ali Shahid Baltistani.

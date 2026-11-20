@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:59614f8d29604df38233
-# source_url: https://tajpoints.com/2019/06/saja-rakhi-hai-jashan-e-aamad-e-sarkar.html
-# raw_sha256: 1fdefde20a4243bb19a50b69c1b72259842108dd98ad9efefdd8b5a793fe7e4c
 ---
 
 1

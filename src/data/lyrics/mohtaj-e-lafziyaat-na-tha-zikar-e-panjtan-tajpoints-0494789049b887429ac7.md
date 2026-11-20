@@ -8,9 +8,6 @@ poet: "Ashhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0494789049b887429ac7
-# source_url: https://tajpoints.com/2018/07/mohtaj-e-lafziyaat-na-tha-zikar-e.html
-# raw_sha256: 7205d5d3544aa7e944ba7f3ef04dba09f151e88b8641bb54301474f20266aa04
 ---
 
 1

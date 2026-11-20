@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:af9b0ab07e603d96e124
-# source_url: https://tajpoints.com/2025/01/ali-ka-hota-hai-mohsin-hashmi-lyrics.html
-# raw_sha256: 969da4a7a1ac66b2ae4bf0ecad36a80b2aad6bd19b8644b3c543e1e0c6a4c90d
 ---
 
 1

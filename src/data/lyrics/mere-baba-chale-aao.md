@@ -42,9 +42,6 @@ romanLyrics: |-
   Nahiṅ aaye agar baba tarap kar jaan de duṅ gi
   Maiṅ daadi jaaṅ se khuld-e-bari meiṅ jaa ke keh duṅ gi
   Buka Mehbub maasuma paye faryaad karti hai
-# source_id: nohayonline:331fdf451f825ccec708
-# source_url: https://www.nohayonline.com/details_content.php?id=773
-# raw_sha256: 7a8d3dcfba9727a6ddc5f388e1b2ba32de1df7f57fb6919005c39e0a787374a9
 ---
 میرے بابا چلے آؤ سکینہ یاد کرتی ہے
 کبھی زنداں میں روتی ہے کبھی فریاد کرتی ہے

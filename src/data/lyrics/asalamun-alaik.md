@@ -50,9 +50,6 @@ romanLyrics: |-
   Muntaqil nasl meiṅ ab azaa ho gayi
   Ae Shanawar Ali Ji ataa ho gayi
   Daulat-e-Karbala ya Husain ya Husain
-# source_id: nohayonline:e405d69c08f728197df5
-# source_url: https://www.nohayonline.com/details_content.php?id=2467
-# raw_sha256: 2642a4be8c3e93b02eb7729a5694a539232a7002010d38b20abdabc95c83b9d3
 ---
 
 یا حسین یا حسین

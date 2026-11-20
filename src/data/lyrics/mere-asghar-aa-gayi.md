@@ -48,9 +48,6 @@ romanLyrics: |-
   God meiṅ meri kiuṅ nahiṅ aate
   Raat ke sannaate meiṅ tum ko
   Kaise mila aaraam Asghar
-# source_id: nohayonline:08e2d0840179bd88c1d0
-# source_url: https://www.nohayonline.com/details_content.php?id=1217
-# raw_sha256: c26b8c0fc3a1800f712401c02027c92eed58c77ece203f6448a1827fda5da819
 ---
 چھوڑ کے تربت گھر میں آجا
 گود میں کر آرام اصغر

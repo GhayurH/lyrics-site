@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d905bc8987627c056e79
-# source_url: https://tajpoints.com/2022/03/noor-tera-hai-abbas-lyrics-in-urdu-syed.html
-# raw_sha256: 1ae3e755898214a2b097370358a4e9a55475dcf14b7c883388cf6a53f1995305
 ---
 
 1

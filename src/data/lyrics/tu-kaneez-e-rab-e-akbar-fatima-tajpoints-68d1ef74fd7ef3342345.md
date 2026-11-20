@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:68d1ef74fd7ef3342345
-# source_url: https://tajpoints.com/2020/02/tu-kaneez-e-rab-e-akbar-fatima-lyrics.html
-# raw_sha256: 4594d38cb8c7b9f95c8e123c003099023857f7fa240b6107d9567bccc9b795ca
 ---
 
 Tu Kaneez e Rab e Akbar Fatima.

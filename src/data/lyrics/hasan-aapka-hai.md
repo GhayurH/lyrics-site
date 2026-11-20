@@ -53,9 +53,6 @@ romanLyrics: |-
   Mujhe khauf kya gar bura hai zamaana
   Dua aap ki bhi hai shaana ba shaana
   Karam ye jo Zill-e-Raza par hua hai
-# source_id: tajpoints:aa2c7e9d0b06b19a6ab8
-# source_url: https://tajpoints.com/2023/04/hassan-apka-hai-syed-zill-e-raza-zaidi.html
-# raw_sha256: 0bc7bc42850c3d86ecb0f0c433a5af93de09ff1bd1b6cf1dfdbb46b2bbf5015f
 ---
 یہ جو کچھ بھی ما بین ارض و سما ہے
 خدا کی قسم یہ خدا کہہ رہا ہے

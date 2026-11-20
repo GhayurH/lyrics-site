@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8f1b8ede7d09723d2f18
-# source_url: https://www.nohawriteups.org/jay-tu-aakhay-alma-waleya-zainab/
-# original_html: snapshots/nohawriteups/original_html/8f1b8ede7d09723d2f18.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8f1b8ede7d09723d2f18.json
-# api_content_sha256: 3eff5bba8357349fa0c5b3faa19a6c17d50669c5d169c62d71fc9aca5f9f03b3
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 jay tu aakhay alma waleya zainba talwar uthaye

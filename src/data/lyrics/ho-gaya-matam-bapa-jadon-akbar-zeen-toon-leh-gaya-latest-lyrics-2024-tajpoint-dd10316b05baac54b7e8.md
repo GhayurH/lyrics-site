@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:dd10316b05baac54b7e8
-# source_url: https://tajpoint.com/ho-gaya-matam-bapa-jadon-akbar-zeen-toon-leh-gaya/
-# raw_sha256: 6c9128f83d7bc46217b4da0840684cef612dc1d080dadead9011901010054752
 ---
 
 1

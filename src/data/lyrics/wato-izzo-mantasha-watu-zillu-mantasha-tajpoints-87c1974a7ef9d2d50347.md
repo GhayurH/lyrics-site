@@ -8,9 +8,6 @@ poet: "Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:87c1974a7ef9d2d50347
-# source_url: https://tajpoints.com/2019/04/wato-izzo-mantasha-watu-zillu-mantasha.html
-# raw_sha256: eaf872766f30e58197596edd3b33698436d2c34df9b0d155d17da8c056f3cc4e
 ---
 
 1

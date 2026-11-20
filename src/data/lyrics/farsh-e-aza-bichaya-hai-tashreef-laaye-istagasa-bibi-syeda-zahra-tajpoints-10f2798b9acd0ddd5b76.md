@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:10f2798b9acd0ddd5b76
-# source_url: https://tajpoints.com/2023/07/farsh-e-aza-bichaya-hai-tashreef-laaye.html
-# raw_sha256: 8092ac23091143c775c3c4a466d7e70310fd61e05a9d7cc7ef5ab6380afd5862
 ---
 
 Farsh E Aza Bichaya Hai Tashreef Laaye Istagasa Bibi Syeda Zahra – Rizwan Zaidi.

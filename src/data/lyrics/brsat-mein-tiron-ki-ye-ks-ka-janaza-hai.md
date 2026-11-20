@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:8030394a922351287c35
-# source_url: https://www.ziyaraat.net/api/noha/485
-# raw_sha256: 401d6a1ff250835be1a2c21a005116499dd4352d0197f9dacfb16f4406b5dabd
 ---
 
 Barsaat may teeron ki ye kiska janaza hai

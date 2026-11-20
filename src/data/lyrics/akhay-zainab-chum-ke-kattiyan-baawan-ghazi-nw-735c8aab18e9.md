@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:735c8aab18e9c661dc2a
-# source_url: https://www.nohawriteups.org/akhay-zainab-chum-ke-kattiyan-baawan-ghazi/
-# original_html: snapshots/nohawriteups/original_html/735c8aab18e9c661dc2a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/735c8aab18e9c661dc2a.json
-# api_content_sha256: dc4c3458bd560b5b264e3ecf0ca324dc183f13a360332c29e2b7a2a342efff90
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Akhay Zainab Chum Ke Kattiyan Baawan Ghazi

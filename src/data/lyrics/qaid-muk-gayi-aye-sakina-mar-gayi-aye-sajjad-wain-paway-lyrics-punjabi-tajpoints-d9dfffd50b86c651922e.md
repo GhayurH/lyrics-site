@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d9dfffd50b86c651922e
-# source_url: https://tajpoints.com/2018/10/qaid-muk-gayi-aye-sakina-mar-gayi-aye.html
-# raw_sha256: 7be0163625e40895b4d7e5d7e5523b46788c315c05adac808f7b4915ece03cbf
 ---
 
 1

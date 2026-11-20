@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:273bd659abad432ea83a
-# source_url: https://www.nohawriteups.org/jeundeyan-akbar-ek-waari/
-# original_html: snapshots/nohawriteups/original_html/273bd659abad432ea83a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/273bd659abad432ea83a.json
-# api_content_sha256: c9733a157403ac288cefbec89a09cae993b728017ed2c945b4f79587aa855029
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jeundeyan Akbar ek waari bhain nu deed kara.

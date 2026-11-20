@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6c461b8224165a06d7a8
-# source_url: https://tajpoints.com/2026/01/ali-ka-chehra-hey-qambar-ali-kiyani.html
-# raw_sha256: a41fe6799c7d0dca2a1ae31d69c94e1bf2ca3a3624963874d1329f8198d83489
 ---
 
 Ali Ka Chehra Hey Qambar Ali Kiyani.

@@ -8,9 +8,6 @@ poet: "Anwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7b54da2a41f999a9e0d8
-# source_url: https://tajpoints.com/2020/04/intezar-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: 6b110548fb5e8639904ef1cc8e070371fd12c635c685b578086b114301250f12
 ---
 
 Deedah-o-Dil Hai Sarapa Intezar.

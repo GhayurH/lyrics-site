@@ -113,19 +113,6 @@ romanLyrics: 'Karbala Karbala
   Jo Sham may gai thee us bay’rida ka matam
 
   Mamnoon matmi ki Makhdoma Fatima hai'
-# source_id: nohayonline:5068dc822da7de118578
-# source_url: https://www.nohayonline.com/details_content.php?id=97
-# raw_sha256: 798a623bfb52e50e7b7de32a61d2f138caa58c3e93142e0dc17b38bd2075b9ba
-# source_id: ziyaraat:99ba12e24c8bb4552aac
-# source_url: https://www.ziyaraat.net/api/noha/2332
-# raw_sha256: 1fbcbbdabf14801b0269f6133e53d2b3a878559eff9617f54ed02a10ff3666da
-# source_id: ziyaraat:c4aa48cb1a71437b3650
-# source_url: https://www.ziyaraat.net/api/noha/184
-# raw_sha256: 1eba3d264381b04be726b36060a1bc325b11218b865791961c901636cbc55318
-# source_id: ziyaraat:fa6fa6b86173e64e5954
-# source_url: https://www.ziyaraat.net/api/noha/2000
-# raw_sha256: 67f6f6f9fd4c8c7a06aded9ce02e2df970bc9fc42597ea4367b1560b241f03a1
-# added_stanza_source: roman:kalam-ziyaraat-c4aa48cb1a71437b3650
 ---
 
 بسم اللہ الرحمن الرحیم

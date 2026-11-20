@@ -98,9 +98,6 @@ romanLyrics: |-
   Maa ne bataya beta
   Ye saare nazare ishq ke hai
   Hum ho na ho hamesha hota rahega ya Husain
-# source_id: nohayonline:64edc9aaa2f640d8a9a7
-# source_url: https://www.nohayonline.com/details_content.php?id=2809
-# raw_sha256: bd85e368b5f586afa38d075e45f19fc32a4c36609bd9f335b7e70d9a910f9e8a
 ---
 
 ۱

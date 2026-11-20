@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:cd6f4df030d61b0015a5
-# source_url: https://www.nohawriteups.org/hayey-sajjad-kinj-bhulaway-karbal-di-kahani-nu/
-# original_html: snapshots/nohawriteups/original_html/cd6f4df030d61b0015a5.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/cd6f4df030d61b0015a5.json
-# api_content_sha256: 094d18bfce24b37b4fffc8a80df5088ef9aa2b062d21b988d0d14b8f33d838c8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye Sajjad Kinj Bhulaway Karbal Di Kahani Nu

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:93b0bd92a15fb37e9819
-# source_url: https://tajpoints.com/2018/11/mainu-zainab-aakh-bulanday-ne-mar.html
-# raw_sha256: 16f1dabd48dd0214615c990a8756d8a34fc7b37dcd293d505675b52e88f9c3e8
 ---
 
 Mainu Zainab Aakh Bulanday Ne Mar Jawaan Gi Veera

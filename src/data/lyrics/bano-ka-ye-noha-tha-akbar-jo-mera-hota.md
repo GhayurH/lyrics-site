@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:3c9782527cd4f9c842bf
-# source_url: https://www.ziyaraat.net/api/noha/1210
-# raw_sha256: d0383344b5b6b7e2b2b1b76af57b38c6d10699299d04c76323e8cbcefe307ab2
 ---
 
 بانو کا یہ نوحہ تھا اکبرؑ جو میرا ہوتا

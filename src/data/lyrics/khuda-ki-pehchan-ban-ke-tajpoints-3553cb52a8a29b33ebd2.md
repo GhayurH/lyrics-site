@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3553cb52a8a29b33ebd2
-# source_url: https://tajpoints.com/2017/02/khuda-ki-pehchan-ban-ke-jab-se-mujhe.html
-# raw_sha256: c45917cb8012dcaf1fe657c2563d615986ddb3d4105924d4476705f645c21d22
 ---
 
 1

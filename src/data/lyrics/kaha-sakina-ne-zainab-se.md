@@ -7,15 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a56020b86dfe3389ad9c
-# source_url: https://tajpoints.com/2022/09/kaha-sakina-ne-zainab-se-ye-bataoo.html
-# raw_sha256: 163c636511f10a7b31999ea065b85155d68e0163198e4accc2fb6ad2eaae25d5
-# source_id: nohawriteups:ffacb1c9257cb831b1a0
-# source_url: https://www.nohawriteups.org/kaha-sakina-ne-zainab-se-ravi-road-noha-lyrics/
-# original_html: snapshots/nohawriteups/original_html/ffacb1c9257cb831b1a0.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ffacb1c9257cb831b1a0.json
-# api_content_sha256: 8d20561231313d702ce08252f61fc176bbfdff533f41478a9ee6a6d3808c6e0b
-# editorial_note: Merged the ten shared Roman verses with the Tajpoints-only closing couplet; six two-line stanzas. The source texts differ in spelling and honorifics; retained the Tajpoints reading for transliteration review.
 ---
 
 1

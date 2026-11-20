@@ -52,9 +52,6 @@ romanLyrics: |-
   Saath naizoṅ pe hai hamraah shahidoṅ ke bhi sar
   Aap ki laash bhi begor o kafan hai bhaiya
   Laashe muslim pe...
-# source_id: nohayonline:bfe83a94c7750d4dc24b
-# source_url: https://www.nohayonline.com/details_content.php?id=1519
-# raw_sha256: fb9fdc2373f0c0e875d34b972d0e1408286401fa0880401b77aebe8957770c4a
 ---
 
 ۱

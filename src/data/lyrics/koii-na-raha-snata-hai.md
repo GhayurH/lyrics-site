@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a4fe43e81ee5be13073d
-# source_url: https://www.ziyaraat.net/api/noha/2040
-# raw_sha256: 7a21fdd7c70670897ed37cb5b4a52fc9b05b4f124e0392c9706b8bc46f077486
 ---
 
 Maqtal se yehi aati thi sada

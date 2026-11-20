@@ -35,9 +35,6 @@ romanLyrics: |-
   5
   Makhduma ko Amir wo haq dete na dete
   Waajib tha Musalmaan par taazim to karte
-# source_id: nohayonline:5f4ad636af7eff4c95e8
-# source_url: https://www.nohayonline.com/details_content.php?id=3356
-# raw_sha256: 65494feab3007754c8b92f2040a2a0040510366f23afbe3c961074c4d2de5291
 ---
 السلام یا زہرا
 

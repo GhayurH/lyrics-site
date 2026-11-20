@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:299c3e11df4fa7d935d7
-# source_url: https://www.nohawriteups.org/jay-joundi-agayi-dukhi-zainab/
-# original_html: snapshots/nohawriteups/original_html/299c3e11df4fa7d935d7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/299c3e11df4fa7d935d7.json
-# api_content_sha256: 276455f852b56fa7a01ee18704ed94f064dabc7b99eafe0dc631c6708ce03f88
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jay Joundi Agai Dukhi Zainab

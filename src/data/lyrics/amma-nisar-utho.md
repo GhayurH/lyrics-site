@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Mahshar meiṅ bhul jaana is ko na shahzaadi
   Hilmi bhi hai tumhaara wo madh khwaaṅ Sakina
-# source_id: nohayonline:2c37693c09ca19667655
-# source_url: https://www.nohayonline.com/details_content.php?id=1779
-# raw_sha256: 1f3fa70056ac21fdcfc34f2bccc4a008a2ac9f98ce55b240c135ffd64361dd8a
 ---
 اماں نثار اُٹھو بابا کی جان سکینہ
 گردن سے کھولتی ہے ماں ریسماں سکینہ

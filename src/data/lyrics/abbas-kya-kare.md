@@ -72,12 +72,6 @@ romanLyrics: |-
   Tir Qamar aankhoṅ meiṅ laga tha
   Khuṅ baha aur mashk chhidi
   Sar pe laga hai gurz mere haath kat gaye
-# source_id: nohayonline:fe77969d554a82b38659
-# source_url: https://www.nohayonline.com/details_content.php?id=2626
-# raw_sha256: 3033baa647511d820fe4d57c589e035bbc37ba27b10decc2b6c54528a1cbe6fe
-# source_id: ziyaraat:c66e02abadacbb3d2731
-# source_url: https://www.ziyaraat.net/api/noha/1724
-# raw_sha256: c7f9b5132e799fdabb4bd9274a17f025aba318fae8e01ebff0128ca69391af54
 ---
 
 

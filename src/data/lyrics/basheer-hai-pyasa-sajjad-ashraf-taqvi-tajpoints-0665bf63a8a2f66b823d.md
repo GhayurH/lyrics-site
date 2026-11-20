@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0665bf63a8a2f66b823d
-# source_url: https://tajpoints.com/2021/08/basheer-hai-pyasa-sajjad-ashraf-taqvi.html
-# raw_sha256: 577b4a25d37e5b2948816a03ce0ee2225de586a0533133842c29169c82c109e7
 ---
 
 Basheer Hai Pyasa Sajjad Ashraf Taqvi.

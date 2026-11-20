@@ -8,9 +8,6 @@ reciter: "Ali Safdar Rizvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:cbf38f3d83128a2c71cf
-# source_url: https://www.ziyaraat.net/api/noha/2635
-# raw_sha256: 749ddc74ad68268f12ca71c81dd5e9eb74b4da9cab2ae8bf51951d05276367f2
 ---
 
 Be parda haram shaam ke baazaro me jana..2

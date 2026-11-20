@@ -106,9 +106,6 @@ romanLyrics: |-
   Jidi laash te na rajh rooi ek darda mari Khursid bacha gya deen jidra
   Wich sajde sees katake hai
   Mein veer kohaake
-# source_id: ziyaraat:7c2da7e5ea0182cf4e39
-# source_url: https://www.ziyaraat.net/api/noha/346
-# raw_sha256: 1e12297ea0ad45521feb55f1de175ac9a5a376914aad81c3e7542f06cec6e25d
 ---
 
 ٹر چلیاں شام نوں بابا میں ویر کُہا كے

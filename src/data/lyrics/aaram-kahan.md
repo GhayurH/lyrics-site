@@ -63,12 +63,6 @@ romanLyrics: |-
   Aankh roti hai qalam likhta hai noha Rehan
   Hai karam mujh pe Shah-e-Karb o Bala ka Rehan
   Noha jab tak na likhuṅ roz Shah-e-Diṅ ka naya
-# source_id: nohayonline:9ac2b9f7c54db1dd44db
-# source_url: https://www.nohayonline.com/details_content.php?id=83
-# raw_sha256: 862809c1f0f73c3570e1c91d282fda97526876b98cb178f0708a2332b5666663
-# source_id: ziyaraat:6b296ab46adcf064837e
-# source_url: https://www.ziyaraat.net/api/noha/1929
-# raw_sha256: 30915c0c4a07a4d2f284dc37313d12eed614a2276c59be5bd546fb559bcdeb2a
 ---
 آرام کہاں ہائے ہائے آرام کہاں
 کشتِ آلام میں زینبؑ کو بھلا، آرام کہاں

@@ -48,9 +48,6 @@ romanLyrics: |-
   Noha jo tu ne likha Azam jaza o ahsaaṅ
   Khatra jo aansuṅ ke nikle haiṅ bane wo marham
   Soch kar zakhmi Shah-e-diṅ par bahaao aansuṅ
-# source_id: nohayonline:1adf9722c78d33a18717
-# source_url: https://www.nohayonline.com/details_content.php?id=1471
-# raw_sha256: 0d42a0c8b9e9aa46c20eecf38d71e90bf044e37ff222f2e0a9ca0d96f040ad8c
 ---
 
 ہو تصور اور غمِ شبیر ہو

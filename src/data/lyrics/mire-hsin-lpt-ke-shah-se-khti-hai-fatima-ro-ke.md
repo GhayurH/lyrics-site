@@ -118,16 +118,6 @@ romanLyrics: 'Merya Hussain
   Jabeen Ho Sajde Mai Jiss Waqt, Mera Dam Nikle
 
   Aey Meri Maa...'
-# source_id: nohayonline:aecb3505c412ae8d1c9e
-# source_url: https://www.nohayonline.com/details_content.php?id=319
-# raw_sha256: 4ad7b2d026f96a0150f95c6b234845c0680b6f8b002088fad74050ef8c5be95a
-# source_id: ziyaraat:58666d453c661838a3b1
-# source_url: https://www.ziyaraat.net/api/noha/713
-# raw_sha256: 0cfc170aa19c05839637352449f50040a9c85f6665abe80b1c8787ce037ad73a
-# source_id: ziyaraat:eb24c251d6a00c86007d
-# source_url: https://www.ziyaraat.net/api/noha/1992
-# raw_sha256: 67c61622acec44f88bb274937c94fdd5ba6e63ec663622ba9a8b82ba5cba7eae
-# added_stanza_source: roman:kalam-ziyaraat-58666d453c661838a3b1
 ---
 
 ميرے حسينؑ

@@ -52,9 +52,6 @@ romanLyrics: |-
   Sakina Bibi ki haalat ajib hai Fidwi
   Ye sochti hai wo Irfan pyaas ki maari
   Ke kaise tut ke kuze bikhar gaye ammu
-# source_id: nohayonline:8a9cf5eddfb790c4d6c4
-# source_url: https://www.nohayonline.com/details_content.php?id=3515
-# raw_sha256: ee197f5e35c90196249c77bb3058d667bbcb34ee9b925635060111179ad23f1a
 ---
 
 سکینہ روتی ہے ہائے کدھر گئے عمو

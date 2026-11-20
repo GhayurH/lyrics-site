@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:294234c50ef2cd28d9ce
-# source_url: https://tajpoints.com/2024/01/ali-mola-bane-dulha-mubarak-ho-mir.html
-# raw_sha256: 940a46eb1038838d5ed3603625303d80b836abc8679bfa6380938efc0e07fef1
 ---
 
 Ali Mola Bane Dulha Mubarak Ho Mir Sajjad Mir

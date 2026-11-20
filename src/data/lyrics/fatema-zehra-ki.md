@@ -45,9 +45,6 @@ romanLyrics: |-
   Ghar lut gaya zehra ka sar e karbobala
   Mukhtar isi waaste matam hai bapa
   Hai aaj bhi majid ye buka e zehra
-# source_id: nohayonline:e08045e36f60a54ca811
-# source_url: https://www.nohayonline.com/details_content.php?id=2743
-# raw_sha256: 3e8dfd72562863ca54ba0c69d40d5ed1e60498ce7d7bb96ec22a5abb8646dbbe
 ---
 اے میرے لال حسین اے میرے لال حسین
 

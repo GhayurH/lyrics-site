@@ -8,12 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2e5b937d03133698514e
-# source_url: https://tajpoints.com/2023/06/haye-bazar-che-jad-pehla-see-balwa.html
-# raw_sha256: 677f9d1c0927d86b63af0b62bcf18f0846206450588dac82e456c4a9c3b3d81d
-# source_id: tajpoints:4631f4a79305921425aa
-# source_url: https://tajpoints.com/2019/12/na-riya-ghazi-na-ridawaan-rayiyaan.html
-# raw_sha256: b32b2746ef349f8d065242606891564220b76ec51d176a74780c1005025cbdb9
 ---
 
 Na Riya Ghazi Na Ridawaan Rayiyaan.

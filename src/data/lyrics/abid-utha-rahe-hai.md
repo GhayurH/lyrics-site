@@ -48,14 +48,6 @@ romanLyrics: |-
   Ek aakhri wasiyat bhai se us ne ki thi
   Lekin wasiyat us ki puri na hone pai
   Zindaaṅ hi meiṅ Rashid ab turbat banegi us ki
-# source_id: nohayonline:16381207398d65c08aec
-# source_url: https://www.nohayonline.com/details_content.php?id=678
-# raw_sha256: c614971aed870fad2454dd9231d5e128b21b31a67ea66dc0037b8531ebbe2da3
-# source_id: ziyaraat:f3b28d0d1ceba39aafff
-# source_url: https://www.ziyaraat.net/api/noha/1104
-# raw_sha256: e54a63ccd2619cbd9be9cb25676ad80254a2aad47f9d8b55da60c4ac69ebfd9f
-# added_stanza_source: roman:kalam-nohayonline-16381207398d65c08aec
-# variant_note: Ziyaraat stanza 5 is an alternative to NoHayOnline stanza 5; preserved separately as stanza 6 pending recitation check
 ---
 
 عابد اٹھا رہے ہیں اپنی بہن کا لاشہ

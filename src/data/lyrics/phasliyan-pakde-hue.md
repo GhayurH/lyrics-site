@@ -46,9 +46,6 @@ romanLyrics: |-
   Khuld se rote huwe aaye ali o zehra
   Haye zakhmoṅ ka hai shehzadi pe pehra ab tak
   Phasliyaṅ pakre huwe...
-# source_id: nohayonline:716120c0604ebacbec62
-# source_url: https://www.nohayonline.com/details_content.php?id=2103
-# raw_sha256: 25f1cd66195fa9e81e1f8018e313604fdaa2dee8d171ba8182ba5960a7e0ee8d
 ---
 
 ۱

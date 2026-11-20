@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1e6a464e227ec84bed61
-# source_url: https://tajpoints.com/2017/02/haye-jewein-jewein-jawaan-thiya-akbaras.html
-# raw_sha256: 80b69bf3507f4564fd068b981b3972ece387007001550049504e8b0a3c9a853e
 ---
 
 1

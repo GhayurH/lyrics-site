@@ -42,9 +42,6 @@ romanLyrics: |-
   8
   Aaj jo Allaho Akbar ki sada goojti hay
   Us ko Yawar khoon e Akbar ne kiya phir se jawan
-# source_id: ziyaraat:00d42699fc957a0a5107
-# source_url: https://www.ziyaraat.net/api/noha/2096
-# raw_sha256: b1807b2ed32f42a60af361df07f0d197093169ee4fa15afda8f9cf8f5255065c
 ---
 
 دشت میں گونج رہی تھی علی اکبرؑ کی اذاں

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fb2d36c89138cc56be55
-# source_url: https://tajpoints.com/2023/12/zahra-peshi-te-aayi-aye-sheraz-khan.html
-# raw_sha256: 480ac3e46dfc426909f27b73fb63c10d459b98e4635891c892d41f4fd53cf9d3
 ---
 
 Zahra Peshi Te Aayi Aye Sheraz Khan.

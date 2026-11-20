@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:0f8a09e44422eacf4a47
-# source_url: https://www.ziyaraat.net/api/noha/2765
-# raw_sha256: 61d1f945a60102167275870e341fef95e66b229b93a5797015a4057d31d0df5b
 ---
 
 رن سے آتی ہے یہ پیہم علی اکبرؑ کی صدا

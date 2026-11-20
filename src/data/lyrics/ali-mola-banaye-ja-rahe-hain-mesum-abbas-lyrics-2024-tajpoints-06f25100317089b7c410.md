@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:06f25100317089b7c410
-# source_url: https://tajpoints.com/2024/06/ali-mola-banaye-ja-rahe-hain-mesum-abbas.html
-# raw_sha256: be5f1a5cec98a8599fb2fc2a389dc2bb317657f4b08d105030629a4f72d01d64
 ---
 
 1

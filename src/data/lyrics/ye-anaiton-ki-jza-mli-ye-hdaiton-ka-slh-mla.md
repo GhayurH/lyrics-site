@@ -81,15 +81,6 @@ romanLyrics: 'Ye inayaton ki jaza mili
   Na jama jo rang bahaar se
 
   To lahoo bhi apna mila diya'
-# source_id: nohayonline:b5905c735697f96b4b7d
-# source_url: https://www.nohayonline.com/details_content.php?id=1163
-# raw_sha256: 21b6b45a3bea9dc4fc70cddabfada06108652b804567dd9214d8cca3124d70f9
-# source_id: ziyaraat:2395e8f746de109af7d2
-# source_url: https://www.ziyaraat.net/api/noha/2079
-# raw_sha256: 715ec517621c577edfc555fb67d37f06f10da12dc41a7cac94e101ca95aea41d
-# source_id: ziyaraat:ddc52526deaad7a1dd16
-# source_url: https://www.ziyaraat.net/api/noha/2252
-# raw_sha256: 400e512a221bf6c5e5fda269cd13958da5286f5adc42afee1cc102d64d2509b2
 ---
 
 یہ عنایتوں کی جزا ملی

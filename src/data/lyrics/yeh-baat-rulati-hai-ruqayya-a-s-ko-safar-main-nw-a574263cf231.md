@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a574263cf231b6cfdde3
-# source_url: https://www.nohawriteups.org/yeh-baat-rulati-hai-ruqayya-a-s-ko-safar-main/
-# original_html: snapshots/nohawriteups/original_html/a574263cf231b6cfdde3.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a574263cf231b6cfdde3.json
-# api_content_sha256: 2ced37ce3f003dbba064331abad306f66ba0f48e72cb4a27e8460979ff4573ce
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Yeh Baat Rulati Hai Ruqayya (A.S) Ko Safar Main

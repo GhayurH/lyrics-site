@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d39a18434f736ab2c881
-# source_url: https://www.nohawriteups.org/baad-mere-zulm-yeh-mola-py-dhaya-jaye-ga-joan-rizvi-nohay-2020/
-# original_html: snapshots/nohawriteups/original_html/d39a18434f736ab2c881.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d39a18434f736ab2c881.json
-# api_content_sha256: 50661d14489c3133738a564bba6d41b437671d4bda431a7f3dacd73d9ff7bce0
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ho chukay bazu wafadar kay shano say juda

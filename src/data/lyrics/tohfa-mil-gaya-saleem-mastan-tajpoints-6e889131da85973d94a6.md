@@ -8,9 +8,6 @@ poet: "Waseem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6e889131da85973d94a6
-# source_url: https://tajpoints.com/2021/03/tohfa-mil-gaya-saleem-mastan-lyrics-in.html
-# raw_sha256: d6c840eaf12589712b419c2fdfb6d7e345c0111811da559219559796b758460d
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a6c723a410fd1dcae931
-# source_url: https://tajpoints.com/2020/12/haider-hoon-main-haider-lyrics-in-urdu.html
-# raw_sha256: c1803ac58a5ee489a851745e71b3c69e334da5df1810e91daf1104e5489978bf
 ---
 
 Haider Hoon Main Haider

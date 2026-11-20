@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6b2546a9c029cc41a9bd
-# source_url: https://tajpoints.com/2018/02/weraan-lahad-pari-hai.html
-# raw_sha256: f39eb28ffbe16dab485828430c27c643bd91deceaa63be34c460b3049ec19f63
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ec0d0eade961feb1e6ed
-# source_url: https://tajpoints.com/2017/02/haye-piyo-di-lash-te-raj-ro-nahi-sakiya.html
-# raw_sha256: ebab36884e3af27fab9c58144453173a21338276eab46a2cf3bc085ce5b368cb
 ---
 
 Haye Piyo Di Lash Te Raj Ro Nahi Sakiya Soz Sheraz Khan.

@@ -78,9 +78,6 @@ romanLyrics: |-
   Ashk ban kar siyaahi ke khatre kahe
   Bibi Sughra ke jo bain tu ne likhe
   Chashm-e-insaaṅ se ashkoṅ ke darya bahe
-# source_id: nohayonline:44e51c6c8b148839c526
-# source_url: https://www.nohayonline.com/details_content.php?id=3693
-# raw_sha256: 699103b767bb05369e132456d848e23039836513704efa380f5851162b94bbd8
 ---
 تیری شادی کا ارمان صغرا کو تھا
 اس کے لب پر ہے شام و سحر یہ دعا

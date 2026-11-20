@@ -54,12 +54,6 @@ romanLyrics: 'Jhoola veeran hay aur goad bhi khali Asgher
   Kaisai ho jayai kisi dar ka bikhari Rehan
 
   Hai Azal sai yeh Terai Dar ka Sawali Asgher'
-# source_id: nohayonline:900e81374b884ffb2c6a
-# source_url: https://www.nohayonline.com/details_content.php?id=596
-# raw_sha256: 3a329fafee720e403bfd947ac3532611d19a2b61348e23ac9aa7a109cf1d06ff
-# source_id: ziyaraat:fdbbcfba658432ff3f45
-# source_url: https://www.ziyaraat.net/api/noha/183
-# raw_sha256: 2241e53f0e73033af64575275a3bb8c729a174f407b034bcd8d94bbd1fee61dc
 ---
 
 ؑجھولا ویران ہے اور گود بھی خالی اصغر

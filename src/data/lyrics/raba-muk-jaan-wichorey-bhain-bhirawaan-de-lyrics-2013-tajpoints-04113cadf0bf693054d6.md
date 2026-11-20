@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:04113cadf0bf693054d6
-# source_url: https://tajpoints.com/2023/05/raba-muk-jaan-wichorey-bhain-bhirawaan.html
-# raw_sha256: dd4ffc19740d833cbb927fffc28e124de8e919350292a4fe2a5fdade814e288f
 ---
 
 Raba Muk Jaan Wichorey Bhain Bhirawaan De Asghar Khan

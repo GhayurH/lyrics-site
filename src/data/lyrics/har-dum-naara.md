@@ -160,9 +160,6 @@ romanLyrics: |-
   20
   Har qadam har dam naara
   Maula maula Husaina
-# source_id: nohayonline:45abea34de996e67eafc
-# source_url: https://www.nohayonline.com/details_content.php?id=2830
-# raw_sha256: 8305375a845315e68b58541b15959c6ed577707a5b016e870ca09f8da70f5216
 ---
 
 جہاں حیران ہے سارا یہ کیا ہے

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da66831e4fca8812cba7
-# source_url: https://tajpoints.com/2020/12/haider-haider-lyrics-in-urdu-and-roman.html
-# raw_sha256: 4899a46aa1fe26a2751acd1a037d1ee0d6b8a13f236d7808aea82e690efa6d1d
 ---
 
 Shair-e-Khuda Damad-e-Payamber Haider Haider.

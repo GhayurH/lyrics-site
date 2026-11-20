@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:74260ba94c6afe9d5a83
-# source_url: https://www.nohawriteups.org/ali-haider-ya-haider-haider-ya-haider/
-# original_html: snapshots/nohawriteups/original_html/74260ba94c6afe9d5a83.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/74260ba94c6afe9d5a83.json
-# api_content_sha256: ba50a07f6365af77fb076bbaa7f4fee076e2090ad0be93ae62eb6f3d1bea5f8a
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ali Haider

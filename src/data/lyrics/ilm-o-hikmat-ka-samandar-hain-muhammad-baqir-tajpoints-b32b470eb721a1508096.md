@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b32b470eb721a1508096
-# source_url: https://tajpoints.com/2017/02/ilm-o-hikmat-ka-samandar-hain-muhammad.html
-# raw_sha256: c9e06fb139db436601b803cf2b48505a5b15f35428461aeea5d5b80e354cc0c9
 ---
 
 1

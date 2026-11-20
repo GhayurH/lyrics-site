@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2a2ab953207a7744f7fc
-# source_url: https://tajpoints.com/2021/03/ali-pasand-hai-mujhe-syed-raza-abbas.html
-# raw_sha256: 523bb69e0259fc4ef0a38d806146c55e9d410a6916687651a30da6a5bac2f642
 ---
 
 1

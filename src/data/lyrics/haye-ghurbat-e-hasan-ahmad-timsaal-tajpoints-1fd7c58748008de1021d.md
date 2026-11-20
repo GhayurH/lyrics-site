@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1fd7c58748008de1021d
-# source_url: https://tajpoints.com/2024/09/haye-ghurbat-e-hasan-ahmad-timsaal.html
-# raw_sha256: d209aa2766e4d155dc0aadb9254460de3d7418a7f5724ca4438a630db6410286
 ---
 
 1

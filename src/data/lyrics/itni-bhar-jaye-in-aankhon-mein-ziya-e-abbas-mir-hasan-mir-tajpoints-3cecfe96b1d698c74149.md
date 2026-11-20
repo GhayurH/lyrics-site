@@ -8,9 +8,6 @@ poet: "Mussadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3cecfe96b1d698c74149
-# source_url: https://tajpoints.com/2021/12/itni-bhar-jaye-in-aankhon-mein-ziya-e.html
-# raw_sha256: 42aa9a180d05abe0b6dda373babaa5867101ac77ddbbf9326c07d8ca3d7f49ac
 ---
 
 1

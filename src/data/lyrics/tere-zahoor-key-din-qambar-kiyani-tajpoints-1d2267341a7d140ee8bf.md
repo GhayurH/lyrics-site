@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1d2267341a7d140ee8bf
-# source_url: https://tajpoints.com/2026/01/tere-zahoor-key-din-qambar-kiyani-lyrics.html
-# raw_sha256: dc9bedf73428300dcd5f88b03d8361405428c618ee3c882095f1436a3985be25
 ---
 
 Tere Zahoor Key Din Qambar Kiyani Lyrics

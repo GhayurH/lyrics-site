@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:765b946b193dca94acfe
-# source_url: https://tajpoints.com/2024/04/baba-no-jao-syed-mohammad-shah-2024.html
-# raw_sha256: dec3f2beda2233f5053e078dd7415aa13623ffc6bd634c3ca1a3b0cc92c63b4b
 ---
 
 1

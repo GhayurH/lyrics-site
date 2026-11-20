@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:be89477ebf8d423ec53a
-# source_url: https://tajpoints.com/2024/03/zameen-se-arsh-pe-taray-ochalne-wale.html
-# raw_sha256: 674a268cee5771edb54626054dbe0d1e235be804f302c6c0fc0e27e4ab6eec80
 ---
 
 1

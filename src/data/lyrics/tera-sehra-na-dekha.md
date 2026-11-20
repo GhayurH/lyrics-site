@@ -65,9 +65,6 @@ romanLyrics: |-
   Mere armaan mitti meiṅ mile ujri meri duniya
   Teri shaadi ki hasrat thi magar dekha tera laasha
   Ye gham sehne se pehle mar gayi hoti teri maadar
-# source_id: nohayonline:9632a6c30852643e0261
-# source_url: https://www.nohayonline.com/details_content.php?id=3144
-# raw_sha256: 929aea4ca142ef8458178ef89fe37e0f5ca46b560943219936fac9ae1ff39173
 ---
 جواں کی لاش پہ یہ بین کرتی رہ گئی مادر
 تیرا سہرا نہ دیکھا تیرا سہرا نہ دیکھا

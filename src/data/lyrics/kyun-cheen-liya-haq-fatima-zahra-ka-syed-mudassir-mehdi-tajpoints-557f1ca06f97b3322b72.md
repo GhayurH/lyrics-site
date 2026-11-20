@@ -8,9 +8,6 @@ poet: "Zamin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:557f1ca06f97b3322b72
-# source_url: https://tajpoints.com/2021/05/kyun-cheen-liya-haq-fatima-zahra-ka.html
-# raw_sha256: 3d5208049e1fbceb71a17bd9ff5f62f2a30f3a21b325e2a6ec4e55a352ea0866
 ---
 
 Kyun Cheen Liya Haq Fatima Zahra KA Syed Mudassir Mehdi

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1475a9286189f6758f84
-# source_url: https://tajpoints.com/2024/02/baar-baar-abbas-tasawar-abbas-tashna.html
-# raw_sha256: eb053aeaaad5117987631c2f842c5eb8e9db5557c85ead973a7d0ebcbc2d9455
 ---
 
 1

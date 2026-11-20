@@ -53,9 +53,6 @@ romanLyrics: |-
   Ae Shams Bibiyoṅ meiṅ kohraam mach gaya tha
   Ik bhai ik behan se Rehan keh raha tha
   Majbur ae behan hai is waqt tera bhai
-# source_id: nohayonline:5377f39244f189589f40
-# source_url: https://www.nohayonline.com/details_content.php?id=2104
-# raw_sha256: 0c7b9176d59e9132154dfe4b3456d85c35c24bb0daa659ea02a747b6a3ead6c2
 ---
 مسلم سے کوئی پوچھے زینب کی بے ردائی
 کوفے میں جب بہن نے رودادِ غم سنائی

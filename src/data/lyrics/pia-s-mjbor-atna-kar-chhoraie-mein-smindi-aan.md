@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:5de3f1223b9cc2245412
-# source_url: https://www.ziyaraat.net/api/noha/1307
-# raw_sha256: e556eccfa75a6dcac6f7c04d5bf73087498dd99f4ba2ab1c00304edc3c763f06
 ---
 
 پیا س مجبور اتنا کر چھوڑائے میں سمیندی آں ویر نیں سمیندا

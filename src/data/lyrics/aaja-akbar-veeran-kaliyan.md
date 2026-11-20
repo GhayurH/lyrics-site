@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:4a43136e446eba3a6fe1
-# source_url: https://www.nohawriteups.org/aaja-akbar-veeran-kaliyan/
-# raw_sha256: 9892a212ded64cbac55e45e38ccac4bd4cace83bbcf0aa6e4a7ff4c07d33123a
-# source_title_original: Aaja Akbar Veeran Kaliyan
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aaja Akbar veeran kaliyan na maar jawan
   Jay na beemar howan, main teray kol awan

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:0c5b0b568cd717b91f85
-# source_url: https://www.ziyaraat.net/api/noha/1764
-# raw_sha256: 1771ed8c3bb230be46b1e082a73e90bf218ad43abd403e3d05768361ced54169
 ---
 
 Karbala haye Karbala (2)

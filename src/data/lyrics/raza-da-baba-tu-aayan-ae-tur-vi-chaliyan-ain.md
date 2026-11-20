@@ -54,9 +54,6 @@ romanLyrics: |-
   Vicharr gaya je kise bhain da bhira howe
   O bibiyaṅ diyaṅ Ghazi tu jholiaṅ bhar de
   Jinaaṅ jinaaṅ ne tere dar te aasaṅ laiyaṅ ne
-# source_id: ziyaraat:2e92b1c21c448db7c18e
-# source_url: https://www.ziyaraat.net/api/noha/1842
-# raw_sha256: 9c0c7beb05b88272cf11f5141fc50d1bbcafd7044616b7c90a371bfdf4e6233a
 ---
 
 رضاؑ دا بابا توں آیاں اے ٹر وی چلیاں ایں

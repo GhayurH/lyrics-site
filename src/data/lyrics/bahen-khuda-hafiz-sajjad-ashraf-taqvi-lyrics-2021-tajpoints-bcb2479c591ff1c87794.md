@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bcb2479c591ff1c87794
-# source_url: https://tajpoints.com/2021/08/bahen-khuda-hafiz-sajjad-ashraf-taqvi.html
-# raw_sha256: c2d303f70a9e84fb1f779e3d6bd5be98c705cf20ac4a7e57c18937056dc58ca5
 ---
 
 1

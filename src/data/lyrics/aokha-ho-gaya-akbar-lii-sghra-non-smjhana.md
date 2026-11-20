@@ -35,9 +35,6 @@ romanLyrics: |-
   6
   5) turghe mehmil akbar, maiyyatane waang lag dene
   Turghe mehmil akbar, takdi khuliyan akhiya nu...2, ey saara khaab darona
-# source_id: ziyaraat:573b49bb098b69ed5a1b
-# source_url: https://www.ziyaraat.net/api/noha/822
-# raw_sha256: f98b2b10d5929a782f5a57dd9da483345d025069be51834c57894493c3c1dc75
 ---
 
 اوکھا ہو گیا اکبرؑ لئی صغراؑ نوں سمجھانا

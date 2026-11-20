@@ -8,9 +8,6 @@ poet: "Qurban"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d2319d5786f257fd7602
-# source_url: https://tajpoints.com/2024/01/qaidi-ka-janaza-hai-qurban-jafri-lyrics.html
-# raw_sha256: 14eb46b7291f291446b7dd34fd15b61f922c3cf4ad87d2bba46f9ba358da1b60
 ---
 
 1

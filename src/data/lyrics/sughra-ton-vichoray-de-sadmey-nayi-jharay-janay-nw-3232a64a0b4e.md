@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3232a64a0b4e585dd4eb
-# source_url: https://www.nohawriteups.org/sughra-ton-vichoray-de-sadmey-nayi-jharay-janay/
-# original_html: snapshots/nohawriteups/original_html/3232a64a0b4e585dd4eb.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3232a64a0b4e585dd4eb.json
-# api_content_sha256: 5e7630c09370068a189fbb218105e43b93bfffd6987a5da1e16ac15ff962d499
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sughra Ton Vichoray De Sadmey Nayi Jharay Janay

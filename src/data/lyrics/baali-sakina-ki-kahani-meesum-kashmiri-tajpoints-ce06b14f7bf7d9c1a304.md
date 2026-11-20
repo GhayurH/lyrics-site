@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ce06b14f7bf7d9c1a304
-# source_url: https://tajpoints.com/2023/08/baali-sakina-ki-kahani-meesum-kashmiri.html
-# raw_sha256: 94c722b903cee0433fde11cb9580de1bed68e9c245b7597721ba865c0b576b1e
 ---
 
 Baali Sakina Ki Kahani Meesum Kashmiri.

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f2767adfe5cdac13d7ac
-# source_url: https://tajpoints.com/2024/01/haider-e-karrar-owais-hasan-lyrics-in.html
-# raw_sha256: 1d8207abf02365c472fa0b73a877baed926894f6fcaf6f46bd1ab598b7e70042
 ---
 
 1

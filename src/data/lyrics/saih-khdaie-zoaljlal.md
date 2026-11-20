@@ -62,9 +62,6 @@ romanLyrics: |-
   Sunke rodiyey Husain Mustafa ki aal bhi
   Jaawo mere laal, jaawo mere laal,
   Tumpe har qadam rahe dua meri, aur saaya-e-khuda-e-zuljalaal
-# source_id: ziyaraat:6eb2e88f1b763040c0be
-# source_url: https://www.ziyaraat.net/api/noha/971
-# raw_sha256: faad891f5fae0f962991e5e14dfcee290eb1b5ea1ec15481b00ebeb119e94326
 ---
 
 ۱

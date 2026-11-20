@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:30a7c039f5a26b915521
-# source_url: https://tajpoints.com/2017/02/wasday-gharaan-de-sare-arman-muk-gaye.html
-# raw_sha256: ab93b1b641c852b8122d1ec6b9ef7f0e4e20ec11799ff34975ebbeeb4385149f
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a199bd4763c15f2c6d08
-# source_url: https://tajpoints.com/2023/05/moula-reza-jaan-sajjad-ashraf-taqvi.html
-# raw_sha256: 47ea6857eff8654bd8b16b98fdb363cbfd8b589a13c2356bc8ff38a4a2d34099
 ---
 
 1

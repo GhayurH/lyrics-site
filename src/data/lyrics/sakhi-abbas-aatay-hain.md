@@ -8,12 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:625ff0b4a8bb33a3f397
-# source_url: https://tajpoints.com/2018/07/sakhi-abbas-ka-roza.html
-# raw_sha256: 0e0e403b10750417b30de8071a08a9d2f371d08297924b2a847c14cac7382598
-# source_id: tajpoints:b55cd8623764c32ec9d6
-# source_url: https://tajpoints.com/2018/05/sakhi-abbas-aatay-hain.html
-# raw_sha256: 2b53a4c5d000b722fcb4a0dd72119de987d78395f71cfed756c1577fc08a1299
 ---
 
 Sakhi Abbas Aatay Hain.

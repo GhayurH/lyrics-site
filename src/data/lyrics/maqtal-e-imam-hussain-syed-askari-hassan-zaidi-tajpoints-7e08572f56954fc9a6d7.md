@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7e08572f56954fc9a6d7
-# source_url: https://tajpoints.com/2021/08/maqtal-e-imam-hussain-syed-askari.html
-# raw_sha256: 74f542bdc1a2f90c32cdc0d388c3b4241d6296f8d9b74975fca0b1c03722bb15
 ---
 
 1

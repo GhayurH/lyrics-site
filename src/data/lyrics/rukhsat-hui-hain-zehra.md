@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:66e43c9ff3ce9726132d
-# source_url: https://tajpoints.com/2026/10/rukhsat-hui-hain-zehra-mukhtar-hussain.html
-# raw_sha256: fce6298990638ad8ede67244f37662ae99cc73e08216c086acfdf72e59ca5483
-# source_title_original: Rukhsat Hui Hain Zehra Mukhtar Hussain Fatehpuri Lyrics In Urdu 2026
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Sar Peetti Hain Fizza Rukhsat Hoi Hain Zahra

@@ -8,9 +8,6 @@ poet: "Salman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bf68b7b9e6236a93d30c
-# source_url: https://tajpoints.com/2018/08/mera-hussain-mujhe-karbala-bulaye-ga.html
-# raw_sha256: 785afc0c423e5d6311345c17f935a4943516ca4cacd48d7ce0e6290e7c5664ae
 ---
 
 1

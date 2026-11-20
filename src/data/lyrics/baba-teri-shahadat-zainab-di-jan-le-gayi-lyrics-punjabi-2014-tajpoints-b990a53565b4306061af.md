@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b990a53565b4306061af
-# source_url: https://tajpoints.com/2022/04/baba-teri-shahadat-zainab-di-jan-le.html
-# raw_sha256: c641fb12d7c2ee5f5003bbe6c3e613fd6cf1f1f42b06937affb0033d889ac482
 ---
 
 Baba Teri Shahadat Zainab Di Jan Le Gayi.

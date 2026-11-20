@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:627d40ae3f95eb5132e1
-# source_url: https://www.nohawriteups.org/roz-e-mehshar-khuda-kay-samnay/
-# original_html: snapshots/nohawriteups/original_html/627d40ae3f95eb5132e1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/627d40ae3f95eb5132e1.json
-# api_content_sha256: 6440d3f6e688c86acdafdcf7bf61b8924510fdc7554b5f7220dfe79eebbd352d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Roz-e-Mehshar Khuda Kay Samnay Jab Bay Rida Bint-e-Zahra Jaye Gi.

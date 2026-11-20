@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4e17595587db4a155acb
-# source_url: https://tajpoints.com/2018/10/na-koi-din-ashor-sa-hai-na-koi-zameen.html
-# raw_sha256: e309a259aa01219b55e5a4c1bcf350b0cc3c3df01cc92f09e438e0c52f77c6f9
 ---
 
 Na Koi Din Ashor Sa Hai Na Koi Zameen Hai Karb-o-Bala.

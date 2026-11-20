@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:0babede7c900e9ac64a1
-# source_url: https://www.nohawriteups.org/zindaan-me-jabke-dukhtar-e-shabbir-mar-gayi/
-# original_html: snapshots/nohawriteups/original_html/0babede7c900e9ac64a1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/0babede7c900e9ac64a1.json
-# api_content_sha256: b83f8566158eefe1b9b4d6c7032237e38b883b285fe110cd4ae29ef6127b13d8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Zindaan me jabke dukhtar-e-shabbir mar gayi..

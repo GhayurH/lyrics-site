@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:b3d68c8c3f4a44a4da54
-# source_url: https://www.nohawriteups.org/chal-paray-shabir-karbal-hogaya-veeraan-madina/
-# original_html: snapshots/nohawriteups/original_html/b3d68c8c3f4a44a4da54.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b3d68c8c3f4a44a4da54.json
-# api_content_sha256: 1e5e098c9552a2555ecf909c984c433ad8346bb7a80cd758f748bb88f4fa9f80
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Chal Paray Shabbir Karbal Ho Gaya Veeran Madina

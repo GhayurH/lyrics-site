@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Roti hai Farid ab tak Zehra jise maqtal meiṅ
   Us kushta-e-khanjar ka maatam hai azaadaaroṅ
-# source_id: nohayonline:81f60224f6e075d29e7f
-# source_url: https://www.nohayonline.com/details_content.php?id=2946
-# raw_sha256: 550ab85a9b837fe714c8ab9c18c52db02dd11c7035a66cfa674a053afac1dcb7
 ---
 زہرا کے بھرے گھر کا ماتم ہے عزاداروں
 کربل کے بہتر کا ماتم ہے عزاداروں

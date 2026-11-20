@@ -55,9 +55,6 @@ romanLyrics: |-
   Haye Zainab haye Zainab haye Zainab ghamzada
   Yehi nauha tha tan-e-Sajjad par zanjir ka
   Aur guzar hai darmiyaaṅ se berida hamshir ka
-# source_id: nohayonline:f0f3c373f6aba4d6a9d5
-# source_url: https://www.nohayonline.com/details_content.php?id=1677
-# raw_sha256: 0ce10b173701f603029d5ad4ee3730ae5d1e52ecc262a41aa2d3f0c3879c2d39
 ---
 
 اک طرف غازی کا لاشہ اک طرف شبیر کا

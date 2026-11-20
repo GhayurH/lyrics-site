@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e30567403bd60a69ecba
-# source_url: https://tajpoints.com/2020/06/dekho-utha-hai-dahar-se-jafar-ka-janaza.html
-# raw_sha256: 31fb9c4f23919e44fa15faaabc519a9036177c94465ed5e9fc1ac506fe551782
 ---
 
 1

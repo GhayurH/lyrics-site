@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:13d319502b63c5bece7e
-# source_url: https://tajpoints.com/2019/08/aye-chand-muharram-ke-aana-na-madine.html
-# raw_sha256: 849a5f1a49ca4b9c3dc4b53ca41dc1f02ebee36e0598575ab30f0ef1b49ddb55
 ---
 
 1

@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Daaman-e-Aal-e-Aba chhut na jaaye Sadiq
   Ye haiṅ mohtaaj ko sartaaj banaane waale
-# source_id: nohayonline:1036bcd5bad8b8176bc8
-# source_url: https://www.nohayonline.com/details_content.php?id=784
-# raw_sha256: 2e3be43491c5706d2135f0ace232c2fe4ae829445dede07dbe55de2b6f8183a1
 ---
 بے رِدا ہو کے پیمبر کے گھرانے والے
 آج دربار میں ظالم کے ہیں آنے والے

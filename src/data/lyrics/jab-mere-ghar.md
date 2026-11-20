@@ -68,9 +68,6 @@ romanLyrics: |-
   Us ko Mesum hai kaha Fatima Zehra ne pisar
   Aarzu ki thi Ali ne jo huzur-e-Daawar
   Ya Ilaahi mujhe Abbas sa beta de de
-# source_id: nohayonline:c503eb1696e49ecb376c
-# source_url: https://www.nohayonline.com/details_content.php?id=2500
-# raw_sha256: c8a7374dbc0ef62f63c36a433764b66faf8b2b8b094fdaf8cdce67e0f5ae926d
 ---
 یا رب میرے یا رب
 ساقی عباس جری یا الٰہی مجھے عباس سا بیٹا دے دے

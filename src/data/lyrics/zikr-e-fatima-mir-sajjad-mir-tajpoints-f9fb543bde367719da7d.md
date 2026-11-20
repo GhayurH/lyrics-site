@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f9fb543bde367719da7d
-# source_url: https://tajpoints.com/2022/01/zikr-e-fatima-mir-sajjad-mir-lyrics-in.html
-# raw_sha256: ad1d31f313335ce3413a1d501744e96e75dc094a05ef1205b287d9216c978ffb
 ---
 
 1

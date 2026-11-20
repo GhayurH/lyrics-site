@@ -8,9 +8,6 @@ poet: "Nisar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5312a3e8bc0ef24ac2bd
-# source_url: https://tajpoints.com/2020/01/mujh-ko-mara-hai-kaisay-logon-ne-ja-ke.html
-# raw_sha256: fff200e374695e5d7514c46ff0af545c58ce8746bb572fabc2191b9be6f8fbb6
 ---
 
 1

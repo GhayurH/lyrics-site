@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aa8cae317395a7b8adba
-# source_url: https://tajpoints.com/2024/07/madad-karain-ya-fatima-zehra-syed-raza.html
-# raw_sha256: e87237df5b6079d0eedfe08868e40554bac3ada1a521ee891bb2315a854bbaa0
 ---
 
 Madad Karain Ya Fatima Zehra Syed Raza Abbas Zaidi.

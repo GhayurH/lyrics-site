@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d3e18bd8d5a2861147ca
-# source_url: https://tajpoints.com/2017/02/karbal-choon-qaidi-ban-ke-quran-de.html
-# raw_sha256: cda72a4bfde35cfc33b942a7605b8faf30ce1da5a524adc7386e095a113622fa
 ---
 
 Karbal Choon Qaidi Ban Ke Quran De Waris Jande Ne.

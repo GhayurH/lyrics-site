@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Zafar raahoṅ meiṅ kehti thi yehi Umm-e-Rubaab aksar
   Tumhaare baad kaisi zindagi hai ae Ali Asghar
-# source_id: nohayonline:dc1139cbd8e2182f004f
-# source_url: https://www.nohayonline.com/details_content.php?id=1685
-# raw_sha256: a0e73f5bd6cbb012092ed9a3944b16477456351792fd71fbbf4ad4f8d8b0a3ca
 ---
 کہاں ہو ماں صدائیں دے رہی ہے اے علی اصغر
 تمہیں دشت بلا میں ڈھونڈتی ہے اے علی اصغر

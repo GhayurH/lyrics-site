@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:789cfa4a5b086ae53833
-# source_url: https://tajpoints.com/2019/09/rahwaar-ke-qadmo-mein-roti-sakina-hai.html
-# raw_sha256: ae728ffe1b8a3247f7411ab95efa42130815a24f0766e5114a2d091ee0121833
 ---
 
 1

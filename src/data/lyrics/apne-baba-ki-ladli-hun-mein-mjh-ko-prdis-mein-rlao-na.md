@@ -71,9 +71,6 @@ romanLyrics: |-
   Zulm karke dukhi sakina par, dard sajjad ke badhao na
   Apne baba ki..(2)
   Haye sakina.. Haye sakina
-# source_id: ziyaraat:92c7f0e60af29c9ab95e
-# source_url: https://www.ziyaraat.net/api/noha/2846
-# raw_sha256: f3f4e3b810fa25ce1991385f8ada963ce9860fccc56691602c4fc97bbd275ced
 ---
 
 ۱

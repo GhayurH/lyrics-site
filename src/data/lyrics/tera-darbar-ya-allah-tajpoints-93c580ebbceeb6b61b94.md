@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:93c580ebbceeb6b61b94
-# source_url: https://tajpoints.com/2020/07/tera-darbar-ya-allah-lyrics-in-urdu-and.html
-# raw_sha256: 2f2f19603f7b29f6db50c3dcb39184f91d09ef5eb03083d0883a63c6088986d6
 ---
 
 1

@@ -7,11 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6a758a9301938afeeb92
-# source_url: https://tajpoints.com/2024/05/imraan-ka-yeh-sharf-hai-khuda-ki.html
-# raw_sha256: 791c3666d2644d64a63c4c987601a27fc5f936a2084e36d9ecf3288b53c56098
-# source_title_original: Imraan Ka Yeh Sharf Hai Khuda Ki Nigah Mein 2024
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Imraan Ka Yeh Sharf Hai Khuda Ki Nigah Mein

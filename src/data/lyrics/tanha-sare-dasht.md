@@ -73,9 +73,6 @@ romanLyrics: |-
   Paighaam-e-Bilal aaqa se keh dijiyo Aamir
   Shaair bhi tumhaara hai ye zaakir bhi tumhaara
   Farzand-e-Nabi jaan o dil-e-Fatima Zehra
-# source_id: nohayonline:3ef33b536b33197fd6f8
-# source_url: https://www.nohayonline.com/details_content.php?id=1797
-# raw_sha256: ac43dcf43608b3f3f0caf19415e8e99ceebdbde12db2103db8d72f62d4dab5f7
 ---
 
 تنہا سر دشت بلا در صف اعدا

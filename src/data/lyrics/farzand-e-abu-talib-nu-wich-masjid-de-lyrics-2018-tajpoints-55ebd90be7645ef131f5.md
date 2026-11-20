@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:55ebd90be7645ef131f5
-# source_url: https://tajpoints.com/2018/06/farzand-e-abu-talib-nu-wich-masjid-de.html
-# raw_sha256: f5a554e354c665c28f84204d82348f3ade71e1a5b890366925394ba86b603789
 ---
 
 Farzand e Abu Talib Nu Wich Masjid De Mariya Aye.

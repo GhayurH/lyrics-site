@@ -8,14 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:39b8b358056a7049a689
-# source_url: https://www.nohawriteups.org/abbas-day-lashay-tay-aye-zainab-khe-gai/
-# raw_sha256: 2065f7e9f629958c5be88c472e24f6c5867c04bc1e645763f6b0dbb9142e8aaa
-# source_id: nohawriteups:d17bf9c03b77654b5a0d
-# source_url: https://www.nohawriteups.org/abbas-de-lashe-te-ay-zainab-ke-gayi-ay/
-# raw_sha256: 7e051a2c4f54fd8d41f108eb63a02cd8bb889730fdef9dc24b575508d06e6478
-# source_title_original: Abbas Day Lashay ,Tay Aye Zainab Khe Gai
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Abbas day lashay, tay aye Zainab khe gai ay
   Tu zeen toun nai lathiya meri chader lay gai ay

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7a090256f7a7738695ff
-# source_url: https://tajpoints.com/2022/01/ay-muhammed-ki-ladli-zahra-sajjad.html
-# raw_sha256: 5ac5a88d960345b70649d519e2bdef8edbf48a81be26239c3c033323290618e6
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2c08c445e67febe4db2e
-# source_url: https://tajpoints.com/2019/04/khwab-e-azadar.html
-# raw_sha256: d4ae2680ed50371c9dfa2d2f3a97d28d2bb8f2fbffb71ddfa8f0e3c5f08d62bb
 ---
 
 1

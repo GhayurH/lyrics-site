@@ -10,9 +10,6 @@ reciter: "Anjuman-e-Masoomeen"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:eee5363320a5c5fa5124
-# source_url: https://www.nohayonline.com/details_content.php?id=1758
-# raw_sha256: 585a2b9f193147718e092b1019515cfb11e5fb698ae7686441bdb7dd8bdaeb59
 romanLyrics: |-
   Ali ke ghar meiṅ qayaamat ki subh aayi hai
   Khabar ye khalq ko Jibril ne sunaayi hai

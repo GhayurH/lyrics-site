@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:29996b0811d183d72e28
-# source_url: https://www.ziyaraat.net/api/noha/1827
-# raw_sha256: 336485569881e5f3ca183095d899fad1e5c5e5fc0225e06f4fae6d0b81e49a6a
 ---
 
 Hay Shamme Ghareeban, 6

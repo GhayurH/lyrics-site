@@ -8,11 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:37abd8466178be4ee47d
-# source_url: https://www.nohawriteups.org/aao-bataoon-tum-ko-kehti-hai-karbala/
-# raw_sha256: e205d3cc8b3f95d3e9d3f781ff786c667214003db5beef10b525119f7d533bd1
-# source_title_original: Aao bataoon tum ko kehti hai Karbala
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aao bataoon tum ko kehti hai Karbala
   Kaisa hai dil yeh maan ka kaisa hai hosla

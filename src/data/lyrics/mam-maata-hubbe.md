@@ -62,9 +62,6 @@ romanLyrics: |-
   Hum matami hai shaah e huda ke
   Mar kar bhi hum to rehte hai zinda
   Mam maata aala hubbe...
-# source_id: nohayonline:b1bcc74ad4b833de077d
-# source_url: https://www.nohayonline.com/details_content.php?id=2356
-# raw_sha256: 6736fee7a5359fa7b4141112b451a2fe33bc9b92e4fefc9c526d67678292b704
 ---
 
 ۱

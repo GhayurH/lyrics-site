@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:f51a4a92561ccc5786f4
-# source_url: https://www.ziyaraat.net/api/noha/269
-# raw_sha256: 86dd4ca724e1abfa9e30dfcdda3195b5f86a9a89abbcdc61a2d8384dbd16bcae
 ---
 
 Dulhan sog-e manaye (Sehra duba jaaye)

@@ -58,9 +58,6 @@ romanLyrics: |-
   Kahe ye qirtaas aur khaama hyder maula
   Tere gham ashur jaisa hyder maula
   Hyder hyder hyder hyder...
-# source_id: nohayonline:202326eba5af1b5209ec
-# source_url: https://www.nohayonline.com/details_content.php?id=2431
-# raw_sha256: 240530bf5d2b9ffd41006a5de6c8f9a4763bb340698511137f87444caef7f68a
 ---
 
 ۱

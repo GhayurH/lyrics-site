@@ -44,9 +44,6 @@ romanLyrics: |-
   Zindaṅ bhi dhup meiṅ thi turbat bhi dhup meiṅ hai
   Bano ne ae takallum waada nibha diya hai
   Amma tumhara asghar...
-# source_id: nohayonline:d2f1ea2f931c69ddc07a
-# source_url: https://www.nohayonline.com/details_content.php?id=3624
-# raw_sha256: 396a45cbd08ae9b387a02c87d656adb6a338ceb18a9033d1db1cfa1c859047ec
 ---
 
 ۱

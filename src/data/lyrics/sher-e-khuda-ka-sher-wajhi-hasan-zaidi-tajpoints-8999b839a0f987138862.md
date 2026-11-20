@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8999b839a0f987138862
-# source_url: https://tajpoints.com/2018/03/sher-e-khuda-ka-sher.html
-# raw_sha256: 421a8827554d0f5e65977e90151734e68b37d1b81a2a1970bfabd40bc852f1d2
 ---
 
 1

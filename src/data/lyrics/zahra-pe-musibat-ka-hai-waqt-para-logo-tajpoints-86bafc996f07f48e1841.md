@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:86bafc996f07f48e1841
-# source_url: https://tajpoints.com/2018/02/zahra-pe-musibat-ka-hai-waqt-para-logo.html
-# raw_sha256: b910a115f7caddbc452b136de88dd6778db186884f90d7ca4d23950baf6cd2aa
 ---
 
 Zahra Pe Musibat Ka Hai Waqt Para Logo.

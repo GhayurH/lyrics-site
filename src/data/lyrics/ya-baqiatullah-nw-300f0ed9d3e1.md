@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:300f0ed9d3e1b25fad2d
-# source_url: https://www.nohawriteups.org/ya-baqiatullah/
-# original_html: snapshots/nohawriteups/original_html/300f0ed9d3e1b25fad2d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/300f0ed9d3e1b25fad2d.json
-# api_content_sha256: 33959fb354c43c5ad25bdd3efcf2db81b1722cac1cad68160e8bb593ff294c49
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 ya baqiatullah ya hujatullah

@@ -52,9 +52,6 @@ romanLyrics: |-
   Rote haiṅ Imam-e-Zamaana bhi
   Jawad zamaane meiṅ jaari
   Maatam hai Imam-e-Zaamin ka
-# source_id: nohayonline:d07d6867381bd630421f
-# source_url: https://www.nohayonline.com/details_content.php?id=3371
-# raw_sha256: d30ad4b16ebe355aa1e84f0fe271795f7789c375a75d8a13fbce9d530a1644ca
 ---
 
 ہر گھر میں بچھاؤ فرش عزا

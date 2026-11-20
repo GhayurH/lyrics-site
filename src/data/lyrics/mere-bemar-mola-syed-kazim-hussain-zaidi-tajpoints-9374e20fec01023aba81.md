@@ -8,9 +8,6 @@ poet: "Mirza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9374e20fec01023aba81
-# source_url: https://tajpoints.com/2025/11/mere-bemar-mola-syed-kazim-hussain-zaidi.html
-# raw_sha256: f91c0bee5c82ab4cd3130a70c95f4d2044f91b3437cba5179db74c41062886f1
 ---
 
 Mere Bemar Mola Syed Kazim Hussain Zaidi.

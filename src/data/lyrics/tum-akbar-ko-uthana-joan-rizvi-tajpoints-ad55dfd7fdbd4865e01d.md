@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ad55dfd7fdbd4865e01d
-# source_url: https://tajpoints.com/2024/07/tum-akbar-ko-uthana-joan-rizvi-lyrics.html
-# raw_sha256: 01049ee8b830646862719ff1507289dc0f4c9ba0d0f407bc9ba980ab42017c2e
 ---
 
 1

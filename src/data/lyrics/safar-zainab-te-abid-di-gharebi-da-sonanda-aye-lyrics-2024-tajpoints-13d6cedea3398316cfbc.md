@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:13d6cedea3398316cfbc
-# source_url: https://tajpoints.com/2024/06/safar-zainab-te-abid-di-gharebi-da.html
-# raw_sha256: 91f037df805c72b81f1b135689b9ebcb68489aef8bd60ceff780c34738ea7f80
 ---
 
 1

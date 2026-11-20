@@ -8,9 +8,6 @@ poet: "Jary"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:25332ae499ba7ebbd7af
-# source_url: https://tajpoints.com/2025/02/tab-imam-ayenge-syed-mudassir-mehdi.html
-# raw_sha256: 1219a8d39798f1e8dedf89004d03799976ba95a569a2f2b35cf6901b40a7424d
 ---
 
 Tab Imam Ayenge Syed Mudassir Mehdi.

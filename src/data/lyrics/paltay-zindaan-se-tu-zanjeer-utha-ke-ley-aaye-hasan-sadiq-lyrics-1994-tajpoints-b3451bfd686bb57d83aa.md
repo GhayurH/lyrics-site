@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b3451bfd686bb57d83aa
-# source_url: https://tajpoints.com/2023/01/paltay-zindaan-se-tu-zanjeer-utha-ke.html
-# raw_sha256: 92a850fb332fb771a69fd58b7b31b8a3c3d2497a7dc9947c32a3f69f2940cff3
 ---
 
 1

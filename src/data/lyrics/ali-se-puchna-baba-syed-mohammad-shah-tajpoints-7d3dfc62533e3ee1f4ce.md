@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7d3dfc62533e3ee1f4ce
-# source_url: https://tajpoints.com/2023/11/ali-se-puchna-baba-syed-mohammad-shah.html
-# raw_sha256: a68f4ac167b4e61e4380e60b0a307b413b60e3bf0a9cd7f0f212e5ff46af6bad
 ---
 
 1

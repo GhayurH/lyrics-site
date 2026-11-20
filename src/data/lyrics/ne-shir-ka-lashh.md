@@ -8,9 +8,6 @@ reciter: "Meesum Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7c97ff44ad875d25f955
-# source_url: https://www.ziyaraat.net/api/noha/2638
-# raw_sha256: 28cc2e788f3bf1635079ad5dde455be54e20a3b47d4b98b9ba73f5a1cb1fb514
 ---
 
 Besheer ka lasha

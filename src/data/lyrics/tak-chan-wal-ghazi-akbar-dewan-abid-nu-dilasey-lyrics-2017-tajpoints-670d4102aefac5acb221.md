@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:670d4102aefac5acb221
-# source_url: https://tajpoints.com/2017/09/tak-chan-wal-ghazi-akbar-dewan-abid-nu.html
-# raw_sha256: 8eeec63785a166eb9846a444edd13ca8e9ddaee989a22ec4119f12b858ce8adb
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e4a5023d19ab87da55dd
-# source_url: https://tajpoints.com/2018/09/allah-manzoor-duawaan-kare-bimar-diyaan.html
-# raw_sha256: 850b5cb7446a796cd811c46f6c4be27a862ab1377e43a42f5b187a074beb8a64
 ---
 
 1

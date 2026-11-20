@@ -48,9 +48,6 @@ romanLyrics: |-
   8) Sharminda hoon mai, tumhko kafan deti to Kaisay.
   Bah azane rida cheen li, Bhaiya mere sirr se.
   Is ranjh mein duniya se, guzar jaaegi Zainab.
-# source_id: ziyaraat:2117582f7a8879841776
-# source_url: https://www.ziyaraat.net/api/noha/1960
-# raw_sha256: 7750790c00263edf7cce32a6d59cb9aba221505c42fb00fe305484080a59509e
 ---
 
 جب ہو کے رہا قید سے گھر جائے گی زینب

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:b5e2ba0dd59173d8cc4c
-# source_url: https://www.ziyaraat.net/api/noha/283
-# raw_sha256: f6db30cf5fe3554273dae5ebc410bcce76b73a14c0f04995cfbf8eeda2864e22
 ---
 
 Apne bhete ki safay matam bicha lo Fatima

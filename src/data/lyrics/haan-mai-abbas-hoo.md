@@ -88,9 +88,6 @@ romanLyrics: |-
   Ae bhai tera kehna
   Ayyohan naas ayyohan naas
   Haaṅ mai abbas huṅ...
-# source_id: nohayonline:1e964888276d674f47d6
-# source_url: https://www.nohayonline.com/details_content.php?id=3647
-# raw_sha256: f3301e5c94924144721697270525ef8eaec895d56bf55c171cf37eb1beb33ce4
 ---
 
 ۱

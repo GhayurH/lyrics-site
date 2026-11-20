@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:c994a37ccbdc2b504c2e
-# source_url: https://tajpoint.com/kita-wain-hussain-di-maa-loko-muk-gaye-ne-safar/
-# raw_sha256: 588b7849f048fc6159d7fa0a33f9da2ed9fe1d57073e5e03218fbcffa198579d
 ---
 
 1

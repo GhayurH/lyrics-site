@@ -48,9 +48,6 @@ romanLyrics: |-
   Mukhtar ran meiṅ bain ye karti thi Fatima
   Majid kaleja phat gaya Zehra ne jab kaha
   Paamaal tera laasha hua ae mere Husain
-# source_id: nohayonline:487d5c8a16725ce7e984
-# source_url: https://www.nohayonline.com/details_content.php?id=3683
-# raw_sha256: ea6f40b851934472693fb1c59064b904d62c2022c5cc1d6e19c79a5ca481701b
 ---
 ایک ماں کی آ رہی ہے صدا اے میرے حسین
 آجا تو میری گود میں آ اے میرے حسین

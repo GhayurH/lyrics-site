@@ -8,9 +8,6 @@ poet: "Rizwan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:566a4fcc0ef002bd4291
-# source_url: https://tajpoints.com/2022/05/taboot-hasan-ka-qaiser-abbas-lyrics-in.html
-# raw_sha256: 00a7c7ae4519021433e9428c4da3784a11f6a1d8a021dfce85eaf70b9f7419c2
 ---
 
 1

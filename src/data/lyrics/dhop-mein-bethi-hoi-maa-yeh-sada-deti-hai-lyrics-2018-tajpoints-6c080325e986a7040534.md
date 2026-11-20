@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6c080325e986a7040534
-# source_url: https://tajpoints.com/2018/10/dhop-mein-bethi-hoi-maa-yeh-sada-deti.html
-# raw_sha256: dc1a4a2c486c11b69b11d4881c1ce57e8b4fc846653d57b93fec1891bc896a18
 ---
 
 Dhop Mein Bethi Hoi Maa Yeh Sada Deti Hai.

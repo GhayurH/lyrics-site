@@ -6,7 +6,6 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Ali Zia Rizvi"
-# alternate_source_reciter: Anjuman Karwan-e-Aza (Irfan Haider)
 poet: "Anees Pehersari"
 tags: []
 aliases: []
@@ -68,15 +67,6 @@ romanLyrics: |-
   Qaatil bhi sar jhukaaye, kehte mileṅ ge tum ko
   Ae chhe mahine waale tujh ko mera salaam
   Asghar haye Asghar
-# source_id: nohayonline:c779c7697c6f2fd3d8de
-# source_url: https://www.nohayonline.com/details_content.php?id=149
-# raw_sha256: 7dea4108f10dfd05628ffadff2a308f61a80a7b0c93dd83c06a7740e4d0c9d8f
-# source_id: ziyaraat:9ece866af11f35e2d92f
-# source_url: https://www.ziyaraat.net/api/noha/2145
-# raw_sha256: ab99adcedd37a5618c145ebaeebc04f8f2a0582a7113a97a48daed437ac92f44
-# source_id: nohawriteups:dd56b6609355a2a40de1
-# source_url: https://www.nohawriteups.org/asghar-haye-asghar/
-# original_html: snapshots/nohawriteups/original_html/dd56b6609355a2a40de1.html.gz
 ---
 
 اصغرؑ ہائے اصغرؑ

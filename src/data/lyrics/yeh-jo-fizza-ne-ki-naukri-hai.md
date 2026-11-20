@@ -42,9 +42,6 @@ romanLyrics: |-
   Ham ne dekha wahaaṅ ham se pehle Anbiya sar jhukaae hue haiṅ
   Sakht parda hai laute haiṅ fauran us ke mehmaan aae hue haiṅ
   Le ke betoṅ ko Fizza se milne lahad meiṅ Fatima aa gayi hai
-# source_id: tajpoints:3b6ece56c47e8c20135c
-# source_url: https://tajpoints.com/2018/04/yeh-jo-fizza-nay-ki-nokri-hai.html
-# raw_sha256: 6e44c066084d9b99154823998bc9f5e5ef480c5524b759cc923f4edbd7a0624c
 ---
 
 حاصل ہے شرف پنجتن کے غلاموں کو انوکھا

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1e3c345241cf98bb3889
-# source_url: https://tajpoints.com/2021/03/hussain-hai-naa-mir-hasan-mir-lyrics-in.html
-# raw_sha256: 0bc285ebf55e6b20ac4cfeb8b2a3b97428c616a1446d09e6b362c3ef999bf5da
 ---
 
 1

@@ -80,15 +80,6 @@ romanLyrics: 'Ro ro maqtal may kehti thi zainab
   Taskira unka anjum jahan hai
 
   Sheh ki pyari sakina wahan hai'
-# source_id: nohayonline:54c6ce0dfeb617096002
-# source_url: https://www.nohayonline.com/details_content.php?id=217
-# raw_sha256: 90bbfc400a630e14d7b4ee996ca36b62a28809953f79bacfe31d84bff3001e5a
-# source_id: ziyaraat:172a27af36e369489f0a
-# source_url: https://www.ziyaraat.net/api/noha/1313
-# raw_sha256: d8015d656d48e2a1219b2f1b271c85168731a6ee8200855f2ebaacd8c85224e2
-# source_id: ziyaraat:4c30af57b1484e0870b7
-# source_url: https://www.ziyaraat.net/api/noha/1899
-# raw_sha256: f428fac065ec9a8869eb709df7fd22f258588a0c2ac4bcf0e892603bf949ce3e
 ---
 
 رو رو مقتل میں کہتی تھیں زینبؑ

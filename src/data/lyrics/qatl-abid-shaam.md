@@ -46,9 +46,6 @@ romanLyrics: |-
   Us ghari rehan wo darbar meiṅ jaane lage
   Ye mazalim karbala waaloṅ pe bas hota raha
   Qatl abid shaam ke...
-# source_id: nohayonline:c8e25be82d9c210a52e5
-# source_url: https://www.nohayonline.com/details_content.php?id=3696
-# raw_sha256: bd27fe61f8c22db448e69de5c98f38b38c087e9f03727c2ea3bc13299f1582ed
 ---
 
 ۱

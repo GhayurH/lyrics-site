@@ -44,9 +44,6 @@ romanLyrics: |-
   Ek munadi pal wich aam thi gaye
   Lut ghinno hun burqay hy
   Abid bachayndi reh gaye
-# source_id: ziyaraat:9c0930f6a1b82b6c8b43
-# source_url: https://www.ziyaraat.net/api/noha/451
-# raw_sha256: a931a2aa95daa4e0cef0ce0a4a9eabf522a8d2bb4c048d2536c85c40c6e4be3f
 ---
 
 ہائے زینبؑ ویر دی موت دیاں، گھڑیاں گھڑیندی رہ گئی

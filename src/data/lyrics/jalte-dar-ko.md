@@ -52,9 +52,6 @@ romanLyrics: |-
   Jalte dar ko mere pehlu se hatao fizza
   Boli zahra meri imdad ko aao fizza
   Jalte dar ko mere...
-# source_id: nohayonline:3b3014291e1c75637dde
-# source_url: https://www.nohayonline.com/details_content.php?id=3173
-# raw_sha256: 3d019902b5e51aa1ad9f4c393145f326d70aacf1bc54354c38e55b440802602a
 ---
 
 ۱

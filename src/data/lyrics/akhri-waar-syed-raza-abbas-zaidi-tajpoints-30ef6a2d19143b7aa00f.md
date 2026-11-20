@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:30ef6a2d19143b7aa00f
-# source_url: https://tajpoints.com/2024/07/akhri-waar-syed-raza-abbas-zaidi-lyrics.html
-# raw_sha256: 7945b9324bcd2fa00f51a84af87e18440936da7cf3958bec58cbbe4983dc7e60
 ---
 
 Akhri Waar Syed Raza Abbas Zaidi Lyrics

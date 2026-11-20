@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:167e84014489cb7c3e99
-# source_url: https://tajpoints.com/2025/07/hurr-ko-bete-ke-janaze-pe-nahi-jane-diya.html
-# raw_sha256: ec934ec29c6663adf2d95a8171ebf43b1aaa0b0b53d8e0c2763fe2f9cccb4c1f
 ---
 
 Hurr Ko Bete Ke Janaze Pe Nahi Jane Diya Mudassir Mehdi.

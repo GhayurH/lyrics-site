@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:859f3229b3c13604a163
-# source_url: https://tajpoints.com/2021/01/jay-rab-da-hukam-na-honda-lyrics-in.html
-# raw_sha256: 502440adee187b6a2e21329423605fd6b2ce2a02f83c7784a317655882646ae9
 ---
 
 Jay Rab Da Hukam Na Honda Maa Main Tainu Jan Na Denda.

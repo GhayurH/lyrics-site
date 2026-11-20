@@ -71,9 +71,6 @@ romanLyrics: |-
   Jis ke donoṅ bachche maare jaaye pyaase
   Aur bachchoṅ ka laasha dukhiya maaṅ na dekhe
   Kiuṅ na nikle us dukhiya ke dil se sadaayeṅ reh reh kar
-# source_id: nohayonline:7529cde9957172a675f9
-# source_url: https://www.nohayonline.com/details_content.php?id=3152
-# raw_sha256: d150370b6377a89f8767851563d3d0971392d49f2a9be04e6cce7e32ffaa0ff9
 ---
 مسلم کی بیوہ ہر دم روتی تھی یہ نوحہ پڑھ کر
 نہ جانے کس حال میں ہونگے میرے دونوں شہزادے

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a6fcabd2e490f7e13437
-# source_url: https://tajpoints.com/2025/02/zehra-ki-azmat-shanawaz-ali-lyrics-urdu.html
-# raw_sha256: 5f01c575f94af38cdbc51edf3c750111a3f0628c9f9e519753cc5bc13acbcaec
 ---
 
 Rasool Zahra Ki Azmat Jinhein Batatay Rahe.

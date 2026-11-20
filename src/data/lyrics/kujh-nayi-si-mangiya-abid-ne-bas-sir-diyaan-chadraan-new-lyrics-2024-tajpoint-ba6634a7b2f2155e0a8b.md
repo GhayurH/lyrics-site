@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:ba6634a7b2f2155e0a8b
-# source_url: https://tajpoint.com/kujh-nayi-si-mangiya-abid-ne-bas-sir-diyaan-chadraan/
-# raw_sha256: aa80b0a64668cd22856c778534c506be55a207afc1a339dffc9dbf8bb0f2abb1
 ---
 
 1

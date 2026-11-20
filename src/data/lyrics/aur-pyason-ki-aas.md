@@ -63,9 +63,6 @@ romanLyrics: |-
   12
   Ye sada Mazhar o Irfan bani hai nauha
   Qatl darya pe alamdaar hua
-# source_id: nohayonline:e97b5526d86f888be9c7
-# source_url: https://www.nohayonline.com/details_content.php?id=557
-# raw_sha256: 23ed933bdfcebd981ac85aa3c9db034ddc5ea4ea5aa0753d5e6278e5e89db518
 ---
 
 آسماں دیکھ رہا تھا

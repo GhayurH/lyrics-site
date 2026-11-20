@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7ef4adfe1456c932f858
-# source_url: https://tajpoints.com/2017/02/hussainas-wale-hain-zindah-hussainas.html
-# raw_sha256: 77d56d437c4f5c709922497481e24f214b37b08c51450d319c297148a48c3f6b
 ---
 
 Hussain Tere Liye.

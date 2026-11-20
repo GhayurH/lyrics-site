@@ -81,9 +81,6 @@ romanLyrics: |-
   Bhaai pe ridaa bhi ki sadqay
   Nana, Zainab ki ridaa kaam aa gaye hay
   Nana teri Zainab aa gaye hay
-# source_id: ziyaraat:f4c614fcc6355a81715d
-# source_url: https://www.ziyaraat.net/api/noha/258
-# raw_sha256: 1ee4650bbaf21be47b87486e162ed937f776c0c705161911c6613d7412da2847
 ---
 
 نانا تیری زینبؑ لٹ کے آگئی ہے

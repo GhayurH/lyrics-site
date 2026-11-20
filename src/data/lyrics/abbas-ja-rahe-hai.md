@@ -67,9 +67,6 @@ romanLyrics: |-
   Bas itna keh sakuṅga
   Kehte the Shah-e-Wala
   Kam meri zindagi hai
-# source_id: nohayonline:d3d131b3c111085682ab
-# source_url: https://www.nohayonline.com/details_content.php?id=2713
-# raw_sha256: ef7fb7ac5beb955e3db652321a68a279a0806085d8545ee2757d3022bf0727be
 ---
 
 بچے تڑپ رہے ہیں

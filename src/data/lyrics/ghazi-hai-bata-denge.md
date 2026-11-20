@@ -69,9 +69,6 @@ romanLyrics: |-
   Khaime se su-e-darya ye keh ke chala Ghazi
   Hum pyaas meiṅ paani ko chullu se gira deṅge
   Ghazi hai bata deṅge
-# source_id: nohayonline:9a0a6661824b05d3c217
-# source_url: https://www.nohayonline.com/details_content.php?id=1423
-# raw_sha256: 66e8c2a3818ac70b074919d3e8e974c300400309524d4bd2c3a23b35df451dcd
 ---
 
 نو لاکھ کا لشکر کی ہم نیند اڑا دیں گے

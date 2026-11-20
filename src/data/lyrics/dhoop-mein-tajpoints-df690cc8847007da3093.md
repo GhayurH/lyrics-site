@@ -8,9 +8,6 @@ poet: "Zafar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:df690cc8847007da3093
-# source_url: https://tajpoints.com/2020/08/dhoop-mein-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: a6a5e2480263f6b654117ad85692decac1863c477552ae6f85e0c5f707e63506
 ---
 
 Eman Ki Ho Jaye Gi Pehchan Dhop Mein.

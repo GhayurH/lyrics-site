@@ -8,9 +8,6 @@ poet: "Asim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:119e5bb07beba6b38393
-# source_url: https://tajpoints.com/2021/11/poshaak-mujtaba-ki-syed-wajhi-hasan.html
-# raw_sha256: 26862bc49c0dbda138787cf780256590468042586aa0015c6465636ef137eb57
 ---
 
 Poshaak Mujtaba Ki Syed Wajhi Hasan Zaidi.

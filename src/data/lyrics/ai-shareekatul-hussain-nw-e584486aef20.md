@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:e584486aef205afc825a
-# source_url: https://www.nohawriteups.org/ai-shareekatul-hussain/
-# original_html: snapshots/nohawriteups/original_html/e584486aef205afc825a.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/e584486aef205afc825a.json
-# api_content_sha256: c1a729db977afe9f8fbdadad130372a1e570937480c8365d0dde19b0d0823bab
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ai Shareekatul Hussain Ai Binte Murtaza Zainab

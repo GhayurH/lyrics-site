@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:cbf1ff5362f1590f0c62
-# source_url: https://tajpoint.com/veera-main-hun-watna-te-nayi-jana-lyrics-2024/
-# raw_sha256: e14d3b2b5e9e614fabbbca825d5015eb00ebd04de2db9a94f47cf6ef30907bde
 ---
 
 1

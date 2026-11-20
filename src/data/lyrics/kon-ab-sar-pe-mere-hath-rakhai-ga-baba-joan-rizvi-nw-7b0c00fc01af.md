@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:7b0c00fc01afce95c8ff
-# source_url: https://www.nohawriteups.org/kon-ab-sar-pe-mere-hath-rakhai-ga-baba-joan-rizvi-noha-2021/
-# original_html: snapshots/nohawriteups/original_html/7b0c00fc01afce95c8ff.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/7b0c00fc01afce95c8ff.json
-# api_content_sha256: 24fc4817a2c95929675053c9b24a96c80227d81243be1972d777e0cc9861ed4a
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Band ankhein hoi haider jo chalay dunya say

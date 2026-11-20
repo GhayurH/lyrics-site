@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:10dce88d3dbed6fe965a
-# source_url: https://tajpoints.com/2023/12/dukh-yeh-syeda-ne-ali-ko-jo-sonaya-ho.html
-# raw_sha256: 3921ff235a2b4e9576a3b1674c69b42291acce2d869aad8bba4d38805c2d87b3
 ---
 
 1

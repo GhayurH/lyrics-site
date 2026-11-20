@@ -50,9 +50,6 @@ romanLyrics: |-
   Saahil e zulm pe jab wo alamdar e wafa
   Haye us waqt raza keh ke shabbir gire
   Dekho abbas chale...
-# source_id: nohayonline:804f95a381b2f79ffc69
-# source_url: https://www.nohayonline.com/details_content.php?id=2660
-# raw_sha256: 1ab709a33ab5693c7c2af0007b619ac8a27be4c3b7b98a0d86c259a3452f010a
 ---
 
 ۱

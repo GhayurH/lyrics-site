@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7821088459f2b3a51a15
-# source_url: https://tajpoints.com/2017/02/la-hawla-wala-quwwata-illa-billah.html
-# raw_sha256: adf63d143a62ad617475f2185fecf829606530b375a4691ca0625310f038cd1d
 ---
 
 La Hawla Wala Quwwata illa Billah.

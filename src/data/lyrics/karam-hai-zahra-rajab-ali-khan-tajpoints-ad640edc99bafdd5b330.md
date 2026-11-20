@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ad640edc99bafdd5b330
-# source_url: https://tajpoints.com/2022/01/karam-hai-zahra-rajab-ali-khan-lyrics.html
-# raw_sha256: 30508db738729ffde811a2591485f1541089955c65b28464b64dde7b40080ff8
 ---
 
 1

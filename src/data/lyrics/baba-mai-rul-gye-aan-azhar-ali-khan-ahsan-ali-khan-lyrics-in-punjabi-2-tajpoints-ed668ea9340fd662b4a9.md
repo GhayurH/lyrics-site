@@ -8,9 +8,6 @@ poet: "Osaaf"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ed668ea9340fd662b4a9
-# source_url: https://tajpoints.com/2021/09/baba-mai-rul-gye-aan-azhar-ali-khan.html
-# raw_sha256: 536b3505a706d2299351fcf5701cb95c69ae897f5ee3dfd170dfe96dcc529a03
 ---
 
 1

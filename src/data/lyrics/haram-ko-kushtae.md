@@ -57,9 +57,6 @@ romanLyrics: |-
   11
   Surur rok di jaayegi pursish-e-ahwaal
   Lahad meiṅ jab gham-e-Sarwar ki yaad aayegi
-# source_id: nohayonline:0cb8bdf73fc1741a9288
-# source_url: https://www.nohayonline.com/details_content.php?id=3728
-# raw_sha256: acdb94f1e6eb8d71e848b9ff24dbf0d8292a4e4d63bba1c53d6474aef3403c46
 ---
 حرم کو کشتۂ خنجر کی یاد آئے گی
 وطن کو ہو کہ بھرے گھر کی یاد آئے گی

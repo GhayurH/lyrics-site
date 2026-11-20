@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cd94f1dd9ed7f35b7216
-# source_url: https://tajpoints.com/2017/02/ya-shah-e-khurasan.html
-# raw_sha256: 4dd3c811ce525ac7c3091b1423e672a2d130a782b967dc621b99b0db18dae6db
 ---
 
 Dunya Hi Nahi Meri Khurasan Se Aagay.

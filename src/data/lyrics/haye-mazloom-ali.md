@@ -51,9 +51,6 @@ romanLyrics: |-
   Bain ye Mohsin o Darwaish kiya Zahra ne
   Kal inhiṅ ke liye aaye the jinaaṅ se kurte
   Aayi hai Eid pe Kufe meiṅ jin aankhoṅ meiṅ nami
-# source_id: nohayonline:08bf32d91078996fe1dc
-# source_url: https://www.nohayonline.com/details_content.php?id=2552
-# raw_sha256: da3027f2a01e4ffed815c9eda60c13921c22ff20289df8c07b351ea17821a0d0
 ---
 
 بین کرتی ہی رہی قبر سے یہ بنت نبی

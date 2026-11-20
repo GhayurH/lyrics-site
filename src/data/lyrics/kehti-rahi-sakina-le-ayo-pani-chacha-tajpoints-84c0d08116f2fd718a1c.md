@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:84c0d08116f2fd718a1c
-# source_url: https://tajpoints.com/2017/02/kehti-rahi-sakinasa-le-ayo-pani-chacha.html
-# raw_sha256: 061a42870a296cbc294b4ac477e24630ff702ab220c3f2e64b1d4722d253de13
 ---
 
 1

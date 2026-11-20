@@ -8,9 +8,6 @@ poet: "Qamar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c732695163d29b662f34
-# source_url: https://tajpoints.com/2017/11/zindaan-ke-andheron-mein-sakina-ki-sada.html
-# raw_sha256: 9719711a14cff5c902524142b17e90c1237e15ff7b8d14657e9ff01d0f584d85
 ---
 
 1

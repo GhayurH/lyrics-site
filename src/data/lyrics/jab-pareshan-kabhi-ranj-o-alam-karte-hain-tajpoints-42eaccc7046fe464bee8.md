@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:42eaccc7046fe464bee8
-# source_url: https://tajpoints.com/2017/02/jab-pareshan-kabhi-ranj-o-alam-karte.html
-# raw_sha256: 3767ac5295e54eaaa5bd7afea553fc5ed02f715a0070622c3dfb38d519dc6c51
 ---
 
 1

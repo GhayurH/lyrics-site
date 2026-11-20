@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:72ef76cf321a6c999af9
-# source_url: https://tajpoints.com/2022/03/mil-gayiyaan-kazim-nu-qaidaan-chon.html
-# raw_sha256: b88912e0ab1a2990c242e2a93735e8645f32619308587463254b3e7149a316a4
 ---
 
 Mil Gayiyaan Kazim Nu Qaidaan Chon Rehaiyaan.

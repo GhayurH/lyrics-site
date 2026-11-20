@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:39ff4690f9137a78986e
-# source_url: https://tajpoints.com/2018/07/baad-e-ashor-asghar-ki-maa-khali-jhola.html
-# raw_sha256: 2fe68ca54aebbc46927b3d44f6c82135b82dc676b9be0e905fb6e504344b341a
 ---
 
 Baad-e-Ashor Asghar Ki Maa Khali Jhola Jhulati Rahi.

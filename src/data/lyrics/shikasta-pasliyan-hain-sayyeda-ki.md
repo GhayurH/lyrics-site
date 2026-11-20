@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:2891d759ccd9d71edd89
-# source_url: https://www.ziyaraat.net/api/noha/2541
-# raw_sha256: 7ee95ec404f1bb57eb1f4ea08d8b30f5474215f4ecdd255b3565993c61fe1d7e
 ---
 
 Shikasta pasliyan hain Sayyeda ki

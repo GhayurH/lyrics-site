@@ -8,9 +8,6 @@ reciter: "Tanzeem-ul-Husaini (Nasir Zaidi)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:e0de5af58a38d02f9dde
-# source_url: https://www.ziyaraat.net/api/noha/1767
-# raw_sha256: a55a35f1926c44d9f62321eb4d927234e0741faee6566cbc0c99d88347ddf1d3
 ---
 
 Nalay kartay thay Sheh e Karb o bala wa waila

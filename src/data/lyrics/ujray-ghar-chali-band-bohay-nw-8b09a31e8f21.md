@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8b09a31e8f21cc02cfdc
-# source_url: https://www.nohawriteups.org/ujray-ghar-chali-band-bohay/
-# original_html: snapshots/nohawriteups/original_html/8b09a31e8f21cc02cfdc.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8b09a31e8f21cc02cfdc.json
-# api_content_sha256: c626bcbae9b012c0dc53a02f092abfc869025a4ab302fcbdb5d770785875c103
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ujaraey ghar chaali band bhooey, sugra pai

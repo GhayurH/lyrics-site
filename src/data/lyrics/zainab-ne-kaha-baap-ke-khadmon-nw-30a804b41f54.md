@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:30a804b41f5430193953
-# source_url: https://www.nohawriteups.org/zainab-ne-kaha-baap-ke-khadmon-lyrics/
-# original_html: snapshots/nohawriteups/original_html/30a804b41f5430193953.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/30a804b41f5430193953.json
-# api_content_sha256: f54778ba5806d261cd689b43513cc18e37a3bb78390c8ceffba90fd6ef40b085
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ab aaye ho baba

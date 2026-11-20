@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:68e1fad484b1475269a1
-# source_url: https://tajpoints.com/2019/08/kaisay-jawaan-pisar-ka-lasha-uthaye-ga.html
-# raw_sha256: 792fbefa5638def7cc9f9e48e40998e8cca23e051f5d2b7c6e4ba0d3f2340bd8
 ---
 
 1

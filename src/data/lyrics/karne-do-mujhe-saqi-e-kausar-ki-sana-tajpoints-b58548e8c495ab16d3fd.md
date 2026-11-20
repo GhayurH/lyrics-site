@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b58548e8c495ab16d3fd
-# source_url: https://tajpoints.com/2019/03/karne-do-mujhe-saqi-e-kausar-ki-sana.html
-# raw_sha256: 3a5786381929e1319d799422ca44d588cf06706a2e2423ee6b886e685bbeeb2b
 ---
 
 Karne Do Mujhe Saqi-e-Kausar Ki Sana.

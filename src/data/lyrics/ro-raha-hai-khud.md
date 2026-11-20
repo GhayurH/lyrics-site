@@ -36,12 +36,6 @@ romanLyrics: |-
   6
   Is tarah taqsim Baano ki kamaai ho gayi
   Dasht meiṅ Asghar Sakina Shaam ke zindaan meiṅ
-# source_id: nohayonline:6e8a2b08780982b165ad
-# source_url: https://www.nohayonline.com/details_content.php?id=327
-# raw_sha256: 7c93549313692d2b13e0a6c50cad870747960c0116f370650065653d614b0386
-# source_id: tajpoints:6d8e103bd725666baa8b
-# source_url: https://tajpoints.com/2019/06/ro-raha-hai-khud-andhera-sham-ke-zindan.html
-# raw_sha256: bbd69819e0a0a3d26fa24a842b12e83c19f5158af31c67e75412520663aa1516
 ---
 رو رہا ہے خود اندھیرا شام کے زندان میں
 رہ گئی تنہا سکینہ شام کے زندان میں

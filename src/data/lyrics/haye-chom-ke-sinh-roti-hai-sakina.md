@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:8bdf9fa6d7a5800dc3f4
-# source_url: https://www.ziyaraat.net/api/noha/2772
-# raw_sha256: 7f7d1ecbb32a558cf9fc39acd367ea8815951dfcf8f89cec58ec2072a1de34db
 ---
 
 ہائے چوم کے سینہ، روتی ہے سکینہؑ

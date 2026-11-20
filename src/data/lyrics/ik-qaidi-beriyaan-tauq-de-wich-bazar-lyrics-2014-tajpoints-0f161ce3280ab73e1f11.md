@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0f161ce3280ab73e1f11
-# source_url: https://tajpoints.com/2019/01/ik-qaidi-beriyaan-tauq-de-wich-bazar.html
-# raw_sha256: 902fbaa6438175f7622076682b59ffb0e284a0478c427f73b31a614e6cecff39
 ---
 
 Ik Qaidi Beriyaan Tauq De Wich Bazar Guzarda Jaway Par Sir Na Apna Chaway.

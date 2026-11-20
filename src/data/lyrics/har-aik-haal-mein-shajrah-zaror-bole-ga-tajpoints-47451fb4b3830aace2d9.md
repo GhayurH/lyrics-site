@@ -8,9 +8,6 @@ poet: "Waqar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:47451fb4b3830aace2d9
-# source_url: https://tajpoints.com/2017/12/har-aik-haal-mein-shajrah-zaror-bole-ga.html
-# raw_sha256: bc2ce6406a16431f62dc3d3c0b81d90c5f10d474d177cc66ca663559e6fa872d
 ---
 
 Har Aik Haal Mein Shajrah Zaror Bole Ga.

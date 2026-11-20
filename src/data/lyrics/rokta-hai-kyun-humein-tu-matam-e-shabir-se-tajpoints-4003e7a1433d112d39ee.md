@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4003e7a1433d112d39ee
-# source_url: https://tajpoints.com/2018/07/rokta-hai-kyun-humein-tu-matam-e-shabir.html
-# raw_sha256: e42538bef288a27ac5b1290a2b8d4871f377f5112f08fd630034ff4c82eafeba
 ---
 
 Rokta Hai Kyun Humein Tu Matam e Shabir Se

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ffb72f9db7ba617fd3a6
-# source_url: https://www.ziyaraat.net/api/noha/2740
-# raw_sha256: 978d384692190f8900606dda1750a4f36f8f16f71a1026d1d239f8135cdbc87d
 ---
 
 KARBOBALA KI KHAAK PA KHOON ME DOOBE HUE DO HATH PADE HAIN

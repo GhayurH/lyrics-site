@@ -33,9 +33,6 @@ romanLyrics: |-
   6
   5) Veeran de qatil khaimaych aagay ay Hasan Zainab Abid nu akhay
   Hun jal may jawaan yaan baahar awaan,  ro akhay Zainab kis pasay jawan
-# source_id: ziyaraat:ed2e36584ce4bd95356c
-# source_url: https://www.ziyaraat.net/api/noha/542
-# raw_sha256: e637eafaa5c5d695236b99192adac79a01ae336c964d24f7dda55ea6226cf742
 ---
 
 میرا گھر جلایا لٹیاں رداواں

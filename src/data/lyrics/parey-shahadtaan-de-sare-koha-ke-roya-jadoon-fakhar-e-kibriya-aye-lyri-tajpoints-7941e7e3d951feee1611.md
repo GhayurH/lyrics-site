@@ -8,9 +8,6 @@ poet: "Sajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7941e7e3d951feee1611
-# source_url: https://tajpoints.com/2023/06/parey-shahadtaan-de-sare-koha-ke-roya.html
-# raw_sha256: 344f65e9f6e47d0137e798e60db94d400cd282fdff3928e3f9470a18ea26e33c
 ---
 
 1

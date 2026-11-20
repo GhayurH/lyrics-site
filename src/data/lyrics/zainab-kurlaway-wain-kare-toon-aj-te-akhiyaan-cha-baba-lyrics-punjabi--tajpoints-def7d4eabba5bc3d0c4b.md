@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:def7d4eabba5bc3d0c4b
-# source_url: https://tajpoints.com/2020/05/zainab-kurlaway-wain-kare-toon-aj-te.html
-# raw_sha256: c3a40ca0376a8a46667fbb6b3cad1ec5575039ee7c980b0935799e042ce60e9b
 ---
 
 1

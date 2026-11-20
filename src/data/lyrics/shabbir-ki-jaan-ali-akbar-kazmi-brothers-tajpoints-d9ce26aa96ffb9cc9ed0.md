@@ -8,9 +8,6 @@ poet: "Azlan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d9ce26aa96ffb9cc9ed0
-# source_url: https://tajpoints.com/2026/01/shabbir-ki-jaan-ali-akbar-kazmi-brothers.html
-# raw_sha256: 1d4c2842f0b6eef2b9c90457cc53455e21ed1d73f66c2e6b9d7e267dbb5d90b0
 ---
 
 Shabbir Ki Jaan Ali Akbar Kazmi Brothers.

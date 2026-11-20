@@ -61,9 +61,6 @@ romanLyrics: |-
   13
   Dilli bhi dabistaan hai Karachi bhi dabistaan
   Texas meiṅ bhi ik aisa dabistaan mile ga
-# source_id: tajpoint:1838c6e4e1ada21e9277
-# source_url: https://tajpoint.com/jab-gardish-e-konain-ka-irfan-mile-ga-lyrics/
-# raw_sha256: cc4ed303b1ee1704c70614bdd9619f65cb2e72ca8ebc36e86cc7ba83bfdf1c2d
 ---
 ۱
 جب گردشِ کونین کا عرفان ملے گا

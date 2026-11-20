@@ -66,9 +66,6 @@ romanLyrics: |-
   Ek bachchi ye kehti hai ro ro
   Qaid khaane se mujh ko chhura do
   Mere ammu ko jaa kar ye kehna
-# source_id: nohayonline:4b8d6395a51328d77bd6
-# source_url: https://www.nohayonline.com/details_content.php?id=1909
-# raw_sha256: dbcf59938e2bf6d8bd21dbd53097e007cc2040685cc9b03d264823d3d655c7e2
 ---
 
 غم کی ماری یہ بولی سکینہ

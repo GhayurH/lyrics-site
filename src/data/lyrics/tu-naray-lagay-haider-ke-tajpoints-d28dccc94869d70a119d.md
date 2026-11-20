@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d28dccc94869d70a119d
-# source_url: https://tajpoints.com/2019/03/tu-naray-lagay-haider-ke.html
-# raw_sha256: 8f93b335cc80af4e72e04f480428aae304954253262c063ec84f582d54258403
 ---
 
 Tu Naray Lagay Haider Ke.

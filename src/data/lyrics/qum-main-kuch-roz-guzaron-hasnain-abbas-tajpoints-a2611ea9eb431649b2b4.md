@@ -8,9 +8,6 @@ poet: "Faraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a2611ea9eb431649b2b4
-# source_url: https://tajpoints.com/2023/05/qum-main-kuch-roz-guzaron-hasnain-abbas.html
-# raw_sha256: ffbb4523b146c1467e85aac364b489bd84d118e80d25b4bbd595a2f27caa4dc2
 ---
 
 1

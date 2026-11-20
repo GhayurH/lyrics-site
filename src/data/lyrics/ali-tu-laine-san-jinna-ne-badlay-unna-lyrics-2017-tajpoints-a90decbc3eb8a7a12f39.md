@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a90decbc3eb8a7a12f39
-# source_url: https://tajpoints.com/2017/11/ali-tu-laine-san-jinna-ne-badlay-unna.html
-# raw_sha256: 3795b9b0b4ad7dd79111e80785bfb28f142dc4c596db7244bd61a426641be5e7
 ---
 
 1

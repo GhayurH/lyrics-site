@@ -8,9 +8,6 @@ poet: "Nafees"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d40a1a34bbab9d81416b
-# source_url: https://tajpoints.com/2022/08/gham-mein-besheer-ke-zakir-bilawal-ali.html
-# raw_sha256: 497db05dfb58c10f1eb1d14bd89cf3b352f95eb22e64d372908a79e2158384fe
 ---
 
 Gham Mein Besheer Ke Zakir Bilawal Ali Hussaini.

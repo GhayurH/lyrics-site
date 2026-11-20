@@ -137,9 +137,6 @@ romanLyrics: |-
   26
   Saaneha Sham ke baazar ka bhoolun kaise
   Waaqiya qasre sitamgar ka sunaon kaise.
-# source_id: ziyaraat:922af2b5e23b11ca3003
-# source_url: https://www.ziyaraat.net/api/noha/2296
-# raw_sha256: 0a4a0a19f8107f42e721205f4370e3116df43815f0c66a36c9b8c3ec99266ef9
 ---
 
 ۱

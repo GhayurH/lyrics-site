@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a93e57b0f01b786373c8
-# source_url: https://tajpoints.com/2017/02/soraj-yeh-keh-ke-dein-ka-ubhra-ghadeer.html
-# raw_sha256: 13f771ff2f626ffdaabe25cdc6a865b1d6115dc528dde43d865c44563ec4dfcc
 ---
 
 1

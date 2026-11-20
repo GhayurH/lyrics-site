@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1f80b873d99372c322f9
-# source_url: https://tajpoints.com/2020/04/shan-e-ali-akbar-suno-lyrics-in-urdu.html
-# raw_sha256: f67425b8b92d8436e6333960cd9605d9867adc346bab11680aa4508fa5e5bd39
 ---
 
 Tareekh-e-Husan Se Kiya Main Ne Ajab Sawal.

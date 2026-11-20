@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:31813a9d597dbb311b53
-# source_url: https://tajpoints.com/2019/11/ishq-ka-baab-niya-mujh-pe-khula-naat-ke.html
-# raw_sha256: 1bc4b0f9b72699e8ba13b9163bc2a9efb3c7bed7575e004593833cc28dad124c
 ---
 
 1

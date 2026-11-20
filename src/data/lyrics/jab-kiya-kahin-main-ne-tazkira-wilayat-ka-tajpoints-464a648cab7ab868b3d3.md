@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:464a648cab7ab868b3d3
-# source_url: https://tajpoints.com/2019/08/jab-kiya-kahin-main-ne-tazkira-wilayat.html
-# raw_sha256: 6009d278b398ec3378cc7870a762acdd4de8e3fb0ab19bde0a59714d00a3187b
 ---
 
 1

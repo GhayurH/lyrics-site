@@ -8,9 +8,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nazim Party)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:9e20f8043bb17ffc9222
-# source_url: https://www.ziyaraat.net/api/noha/776
-# raw_sha256: 91050b65ca09dfc03331b9ccae1cb4964afb6fdb2a1a4b9027ee6b79410d1506
 ---
 
 السلامُ علیک یا سیدہؑ

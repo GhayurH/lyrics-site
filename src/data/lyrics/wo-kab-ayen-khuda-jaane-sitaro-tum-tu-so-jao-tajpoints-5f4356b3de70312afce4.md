@@ -8,9 +8,6 @@ poet: "Qabil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5f4356b3de70312afce4
-# source_url: https://tajpoints.com/2017/02/wo-kab-ayen-khuda-jaane-sitaro-tum-tu.html
-# raw_sha256: cfea5c92531d234ec2b19e2f30ba8838599f728e2eb59a847c3859a386bb9b7b
 ---
 
 1

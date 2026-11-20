@@ -45,9 +45,6 @@ romanLyrics: |-
   Sun kar sada-e-Zainab Ghazi ki laash larzi
   Meri rida sinaaṅ par mujhko dikha rahe haiṅ
   Abbas aa ke dekho
-# source_id: nohayonline:cbc36b877de043a36b65
-# source_url: https://www.nohayonline.com/details_content.php?id=3103
-# raw_sha256: c01aa76d94f7a0c2b10b5cd27d1683d3d4adf77b365eb48ae4c1fcac609369e4
 ---
 
 زینب کی یہ صدا تھی ظالم ستا رہے ہیں

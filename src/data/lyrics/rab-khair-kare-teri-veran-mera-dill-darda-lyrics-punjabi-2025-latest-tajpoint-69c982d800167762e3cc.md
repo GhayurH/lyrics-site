@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:69c982d800167762e3cc
-# source_url: https://tajpoint.com/rab-khair-kare-teri-veran-mera-dill-darda-lyrics/
-# raw_sha256: 0b4069766250c0f27d4e361abbed24bf10de814f5167706ac24113e15f619728
 ---
 
 1

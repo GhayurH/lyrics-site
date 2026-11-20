@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a31f1b81bdf7221209a7
-# source_url: https://tajpoints.com/2018/09/ais-dard-ne-abid-nu-baon-khon-rawaya-aye.html
-# raw_sha256: cf17190b1ba1feafcbeb8f0a6e4f5195c1be194d74edac474897d1c88cc7ee02
 ---
 
 Ais Dard Ne Abid Nu Baon Khon Rawaya Aye.

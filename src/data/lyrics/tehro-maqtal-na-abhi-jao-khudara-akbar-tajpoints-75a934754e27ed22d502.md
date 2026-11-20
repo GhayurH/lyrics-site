@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:75a934754e27ed22d502
-# source_url: https://tajpoints.com/2023/07/tehro-maqtal-na-abhi-jao-khudara-akbar.html
-# raw_sha256: c5a5a5b9b770d96699840e66ae3abddf83d15a32afb9b7e501427bd4616a34e0
 ---
 
 1

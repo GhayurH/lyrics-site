@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f4588fa887854f464a97
-# source_url: https://tajpoints.com/2025/03/dono-jahan-mein-ja-baja-charcha-hasan.html
-# raw_sha256: c0724d53aee37d90be93ce3295709b96aaa5a81be2ea30915497c62fa60ec3c9
 ---
 
 Dono Jahan Mein Ja Baja Charcha Hasan Ameer Ka Adeel Izhar.

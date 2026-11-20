@@ -8,9 +8,6 @@ poet: "Farhan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ade95cff1d25723f8e97
-# source_url: https://tajpoints.com/2017/12/mustafa-ki-jo-yeh-nokari-hai-naat.html
-# raw_sha256: 185ef961d82812646625034ab38d30f53aab1382903333fa28d07b3668b4332d
 ---
 
 1

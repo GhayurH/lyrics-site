@@ -64,10 +64,6 @@ romanLyrics: |-
   Ek sada sun ke aisa laga mar gaye
   Laut aao Chacha Alqama se
   Apna waada yahaṅ bhi nibha luṅgi
-# editorial_uncertainty: Archived Urdu lacks Roman 'na' in stanza one; stanza five has سکھا دونگی / sikha lungi and stanza six has آے / aaye and corrupted ساھاروں. Existing disputed readings retained pending audio/print verification.
-# source_id: nohayonline:5e753083e5201348a98b
-# source_url: https://www.nohayonline.com/details_content.php?id=2646
-# raw_sha256: 3ad9049bbd7c8e7397cbd43494219d0e32930159922956c48b71fca3114cf816
 ---
 رو رہی ہے تمہاری سکینہ
 لوٹ آؤ چچا علقمہ سے

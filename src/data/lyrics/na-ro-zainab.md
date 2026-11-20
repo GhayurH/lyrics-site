@@ -78,14 +78,6 @@ romanLyrics: |-
   Haaṅ Rehaan o haaṅ Sarwar ka
   Haaṅ pursa hai haaṅ ye nauha
   Maiṅ ujar gayi baba
-# source_id: nohayonline:883f5aa3ff03a4e42831
-# source_url: https://www.nohayonline.com/details_content.php?id=2063
-# raw_sha256: eac736fbf7016fa026af71371cdf6b4dfab9d11d22aac9ad1929ad9cd9e5ca7f
-# source_id: nohawriteups:156992d5d7426067a1b7
-# source_url: https://www.nohawriteups.org/na-ro-zainab-na-ro/
-# original_html: snapshots/nohawriteups/original_html/156992d5d7426067a1b7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/156992d5d7426067a1b7.json
-# api_content_sha256: b9d14f804ec2887b8d31ae0a1d929d46eb9f8884f534168aaf58fe09a1ed12d4
 ---
 شام غریباں زینب تنہا
 گھور اندھیرا موت کا سایہ

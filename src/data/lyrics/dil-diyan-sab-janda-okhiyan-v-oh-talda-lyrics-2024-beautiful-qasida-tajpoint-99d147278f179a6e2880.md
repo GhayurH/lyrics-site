@@ -8,9 +8,6 @@ poet: "Mirza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:99d147278f179a6e2880
-# source_url: https://tajpoint.com/dil-diyan-sab-janda-okhiyan-v-oh-talda-lyrics-2024/
-# raw_sha256: ef2d81fc36e549f739c3ff0cb8cca7952b51ed5373264b8e2773b45df17add6f
 ---
 
 1

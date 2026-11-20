@@ -42,9 +42,6 @@ romanLyrics: |-
   7
   Haye bimaar tha saabir wo Ali ibn-e-Husain
   Ek Iqbal haram ka tha muhaafiz Abbas
-# source_id: nohayonline:1bd1c6c92520eba1d509
-# source_url: https://www.nohayonline.com/details_content.php?id=3045
-# raw_sha256: 7050c738e8e96a39ce9d245ae9be475d0e634a130ce02a2d099ee2989b8c74ee
 ---
 جو کبھی سوئی نہ تھی آنکھیں وہ اب سوئیں گی
 بعد مرنے کے تیرے آل عبا روئیں گی

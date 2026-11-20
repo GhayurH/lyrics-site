@@ -8,9 +8,6 @@ poet: "Waheed"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e015d6157526372a8f41
-# source_url: https://tajpoints.com/2022/05/haider-ki-shahadat-sarwar-raza-karbalai.html
-# raw_sha256: 5e06e721bccf28e4e1ad3d5ad2576e581785d5e152caa711c9bafb78c8695f0d
 ---
 
 Haider Ki Shahadat Sarwar Raza Karbalai.

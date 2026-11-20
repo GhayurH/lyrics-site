@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ce895e34c770cc20b451
-# source_url: https://tajpoints.com/2019/02/hath-pehlu-se-mat-hata-fizza.html
-# raw_sha256: aafcc2b5d3af4192fa9e6d9dce8d78127e87f52f9b59d0a2e1bca8976b772492
 ---
 
 1

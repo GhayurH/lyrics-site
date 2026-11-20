@@ -8,9 +8,6 @@ poet: "Hilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:336317e7c8c24a5c2fe0
-# source_url: https://tajpoints.com/2025/11/apne-hatho-se-chupa-leti-wajhi-hasan.html
-# raw_sha256: 34f203149e379b2542a4e4f90ccc14a9bdcded7a0dde5421c2c9d7d13fdc8857
 ---
 
 Apne Hatho Se Chupa Leti Wajhi Hasan Zaidi.

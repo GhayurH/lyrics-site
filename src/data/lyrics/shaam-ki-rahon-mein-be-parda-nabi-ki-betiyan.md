@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2a5e5bee64ebb58e9d8f
-# source_url: https://www.ziyaraat.net/api/noha/2849
-# raw_sha256: cf18bcf05d211ae5071541c3daae1a8d21d6c945a2f0f02a406d830e1a1791ae
 ---
 
 شام کی راہوں میں بے پردہ نبی کی بیٹیاں

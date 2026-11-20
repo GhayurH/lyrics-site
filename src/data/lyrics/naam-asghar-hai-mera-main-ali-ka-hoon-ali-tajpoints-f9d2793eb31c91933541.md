@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f9d2793eb31c91933541
-# source_url: https://tajpoints.com/2017/02/naam-asgharas-mera-main-alias-ka-hoon.html
-# raw_sha256: 13254ac11e1920051fdcd0ea7cd5bc7a1688373c5efcbfb370caed3fd04494ae
 ---
 
 1

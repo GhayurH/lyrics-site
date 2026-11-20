@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f8aa242e3e5032f33a44
-# source_url: https://tajpoints.com/2021/02/ali-ke-naam-ka-charcha-lyrics-in-urdu.html
-# raw_sha256: 88bad8f356f23fb0aaf686ab9120364e959e7f2f6d2a4c55935a6dba48e791fa
 ---
 
 Jis Ko Ali Ke Naam Ka Charcha Nahi Qabool.

@@ -8,9 +8,6 @@ poet: "Joun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5bbda9826adee448ae9c
-# source_url: https://tajpoints.com/2023/11/hasnain-di-amma-haq-lain-jadon-gayi.html
-# raw_sha256: 6d5fd83e815b16fe8e217aad2fe25c26b486c4f1b032814b22d0ad936079f731
 ---
 
 Hasnain Di Amma Haq Lain Jadon Gayi Rondi Darbar Chon Aa Gayi.

@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8dcffebe88a1dd204260
-# source_url: https://tajpoints.com/2025/06/fiza-mein-dard-hai-fogan-hai-lyrics.html
-# raw_sha256: c90a02f5e1b0454df9ebd2e94d861b41e0b0ae34385b985944d4057d2754065b
 ---
 
 Fiza Mein Dard Hai Fogaan Hai

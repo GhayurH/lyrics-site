@@ -41,12 +41,6 @@ romanLyrics: |-
   7
   Rehaan mujhe kya ho ab khauf qayaamat ka
   Jab mera aqida hai Zahra ki ataaoṅ par
-# source_id: nohayonline:2d10b0a3281df3dfcdae
-# source_url: https://www.nohayonline.com/details_content.php?id=2295
-# raw_sha256: aeb3ebc3d919f8a6f26f22ef14af1e1f093506906ad0dc1fd3a3fe3a82153b88
-# source_id: ziyaraat:c9cf30611a3f8de73d5b
-# source_url: https://www.ziyaraat.net/api/noha/195
-# raw_sha256: 950056a1269e313893b62419c529bd890f774a0c9da9887314d11ba63ea11a1c
 ---
 بیمار کی آنکھیں ہیں اکبر تیرے راہوں پر
 دیواریں بھی روتی ہیں صغرا کی کراہوں پر

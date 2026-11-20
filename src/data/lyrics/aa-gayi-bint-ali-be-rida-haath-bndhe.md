@@ -48,9 +48,6 @@ romanLyrics: |-
   Chhor kar Baqiya wahaaṅ roti hai Zahra aa ke
   Baal khole hue sar pitti hai
   Apne pyaaroṅ ke azaadaaroṅ meiṅ
-# source_id: ziyaraat:787c631978ed218c2f86
-# source_url: https://www.ziyaraat.net/api/noha/733
-# raw_sha256: b6798a2cdbe5241a20f9acbb204169abcfece1a2ade393de23471b55951e133d
 ---
 
 آگئی بنتِ علیؑ بے ردا ہاتھ بندھے بھرے بازاروں میں

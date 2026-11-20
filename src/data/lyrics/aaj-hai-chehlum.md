@@ -72,9 +72,6 @@ romanLyrics: |-
   Kijiye Rashid ab dil se dua
   Pahuncheiṅ hum sab Karbobala
   Pesh kareiṅ waaṅ ye noha
-# source_id: nohayonline:f72fd4aa0403850cffd6
-# source_url: https://www.nohayonline.com/details_content.php?id=668
-# raw_sha256: 511fd31e5a8e7594264e657cfc219175dcb3d1b72551f37641f1237b0051d015
 ---
 
 آج ہے چہلم پیاسوں کا

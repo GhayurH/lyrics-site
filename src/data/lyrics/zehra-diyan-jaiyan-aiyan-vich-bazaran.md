@@ -49,9 +49,6 @@ romanLyrics: |-
   Laasha qaiden wakhri da
   O pe gayaan
   Haan o pe gayyan haal duhaiyyan
-# source_id: ziyaraat:3e2a587ed24ae8a9153f
-# source_url: https://www.ziyaraat.net/api/noha/1193
-# raw_sha256: 42f58d6f7d57918be11276c04589ca2fb2a976ec1f95fd22c2d2ee3656a93084
 ---
 
 زہراؑ دیاں جائیاں، آئیاں وچ بازاراں

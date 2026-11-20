@@ -92,9 +92,6 @@ romanLyrics: |-
   Huṅ tukre tukre ya Maula
   Daura diye ghore ya Maula
   Sun paauṅ na dukhre ya Maula
-# source_id: nohayonline:40bf1f773b87881f1158
-# source_url: https://www.nohayonline.com/details_content.php?id=3650
-# raw_sha256: a0991386611c51577739a37a1f1be5443d9c25b71ba432f3339c06a2c63a5952
 ---
 
 لبیک یا مولا

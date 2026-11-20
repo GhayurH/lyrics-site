@@ -68,9 +68,6 @@ romanLyrics: |-
   Apni shadi meiṅ mujhe bhul na jaana akbar
   Ali akbar ali akbar ali akbar ali ali
   Yusuf e laila dilbare zehra...
-# source_id: nohayonline:7f51fa26ff577b1ec872
-# source_url: https://www.nohayonline.com/details_content.php?id=1536
-# raw_sha256: 08fa0bdc381e609a83b0502098d6c584a08ddd7e94d9c1b8eb1ae66750a9ab32
 ---
 
 ۱

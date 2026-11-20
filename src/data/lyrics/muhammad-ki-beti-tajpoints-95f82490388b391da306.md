@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:95f82490388b391da306
-# source_url: https://tajpoints.com/2020/01/muhammad-ki-beti-lyrics-in-urdu-and.html
-# raw_sha256: 9c556409330f4569020a43c9d7a78526ccb60b522ca8beeefe80d67844d38d04
 ---
 
 1

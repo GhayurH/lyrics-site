@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:81cba31ccdbfa5266f7b
-# source_url: https://tajpoints.com/2025/01/pocho-tu-asghar-se-asad-awan-lyrics.html
-# raw_sha256: 18c4be222115a45684518c04251ee1cc8716bc8143a2b5c3285ced7d3615a447
 ---
 
 1

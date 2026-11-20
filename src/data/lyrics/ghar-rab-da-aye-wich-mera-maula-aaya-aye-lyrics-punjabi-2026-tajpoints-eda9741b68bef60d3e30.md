@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eda9741b68bef60d3e30
-# source_url: https://tajpoints.com/2026/01/ghar-rab-da-aye-wich-mera-maula-aaya-aye.html
-# raw_sha256: 93e5a2319ad7bed1b335a2472abdacf7caaafff902dd287c2a99469a2b529890
 ---
 
 1

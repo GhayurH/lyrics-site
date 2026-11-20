@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:4bdc414bb5b277ab6632
-# source_url: https://www.nohawriteups.org/jere-puttar-kun-dekh-na-rajda-han/
-# original_html: snapshots/nohawriteups/original_html/4bdc414bb5b277ab6632.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/4bdc414bb5b277ab6632.json
-# api_content_sha256: cc32d4da33c574554f0c704403f1074c9966b2cfebe94cab46db5ec61026e43c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jahray Putar Ko Dekh Na Rajda Ha Ondi Lash Te Aya Jhan Jhan Ke

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5b72081186898bbde7c9
-# source_url: https://tajpoints.com/2023/01/bait-e-ali-raza-mein-taqi-ka-zahoor-hai.html
-# raw_sha256: bc39ced73c378f8462e3a00bd66827ac1396ed24f321f16151020e9355aed0d5
 ---
 
 Bait-e-Ali Raza Mein Taqi Ka Zahoor Hai.

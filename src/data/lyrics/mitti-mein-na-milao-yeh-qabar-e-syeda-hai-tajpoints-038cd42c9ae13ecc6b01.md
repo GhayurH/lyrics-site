@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:038cd42c9ae13ecc6b01
-# source_url: https://tajpoints.com/2023/11/mitti-mein-na-milao-yeh-qabar-e-syeda.html
-# raw_sha256: c688d123f0c2021625d4da262ed9fcb70f32ba4310a4dddfece622b87b83f16f
 ---
 
 1

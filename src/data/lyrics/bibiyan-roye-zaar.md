@@ -83,9 +83,6 @@ romanLyrics: |-
   Aankhoṅ se rawaaṅ ashkoṅ ki dhaar
   Karb o Bala meiṅ hai ye pukaar
   Husain Husain Husain Husain
-# source_id: nohayonline:15daf39e09e457bc24d9
-# source_url: https://www.nohayonline.com/details_content.php?id=2998
-# raw_sha256: 83c5cdd73d996b48b34e74be3bc55eb2b9bbac0905dabb9203631616284454f4
 ---
 بیبیاں روئے زار و زار
 شہزادیاں روئے زار و زار

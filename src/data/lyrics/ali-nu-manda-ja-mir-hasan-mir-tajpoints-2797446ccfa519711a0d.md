@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2797446ccfa519711a0d
-# source_url: https://tajpoints.com/2023/02/ali-nu-manda-ja-mir-hasan-mir-lyrics-in.html
-# raw_sha256: ab0a97bb3a4d86b5f69eb1ebfcf2081418ac5c100ccb3ea498ad23c958d43bef
 ---
 
 1

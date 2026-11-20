@@ -49,15 +49,6 @@ romanLyrics: |-
   Darya behta raha darya behta raha
   Saamne usi darya ke pyaase tarapte haiṅ
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-# source_id: nohayonline:aec52a291f45b5e47a60
-# source_url: https://www.nohayonline.com/details_content.php?id=367
-# raw_sha256: e8601a9e2f24cd015a83f32716f3a4662e36b6b20ac992634c2f9879f0875463
-# source_id: ziyaraat:b31cc385d4ad69d5472b
-# source_url: https://www.ziyaraat.net/api/noha/1012
-# raw_sha256: e795cfb83521c7a2e53f8ec2c2f64e9015d748679720fa113b37755fec258bb1
-# source_id: tajpoints:25c9563e0f69d217067c
-# source_url: https://tajpoints.com/2022/11/dariya-behta-raha-nadeem-sarwar-lyrics.html
-# raw_sha256: f2bdfbfc0bf3c4bee52f1e1a79437b6432428cb97d57c14883058877740d4624
 ---
 
 اے وائے نہرِ علقمہ

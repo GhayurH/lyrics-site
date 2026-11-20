@@ -63,9 +63,6 @@ romanLyrics: |-
   Baba ko hai rone wali
   Aik sakina ek zahra..(2)
   Aik sakina ek zahra..(4)
-# source_id: ziyaraat:b520761daece95ea3a00
-# source_url: https://www.ziyaraat.net/api/noha/1972
-# raw_sha256: 164eaead4e3b545440b87123e1693208f1c387dbf7e633ed60ba3bb59cc5fc29
 ---
 
 بابا کو ہے رونے والی ایک سكینہ اک زہرہ

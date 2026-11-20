@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:61d60e3f273aa1170907
-# source_url: https://www.ziyaraat.net/api/noha/2408
-# raw_sha256: 0ed3786cd7bcf34095169a26367013679693d2d1bc22564fd54de487c9c5d7e7
-# source_id: ziyaraat:a0b836e446d240cee3da
-# source_url: https://www.ziyaraat.net/api/noha/1857
-# raw_sha256: cacd442307929166f5103bbab399d8831c97e1d60f24e545c47762636b9ea8ee
 ---
 
 Pyaas itni hai kay bister say bhi uthna mushkil,

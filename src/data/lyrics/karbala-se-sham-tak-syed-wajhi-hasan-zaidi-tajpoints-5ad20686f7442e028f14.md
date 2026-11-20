@@ -8,9 +8,6 @@ poet: "Wajih"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5ad20686f7442e028f14
-# source_url: https://tajpoints.com/2021/11/karbala-se-sham-tak-syed-wajhi-hasan.html
-# raw_sha256: 8176329594e6e5aba558453894e1f5b1ee3ce8412937ba3084056c4dfbbce224
 ---
 
 1

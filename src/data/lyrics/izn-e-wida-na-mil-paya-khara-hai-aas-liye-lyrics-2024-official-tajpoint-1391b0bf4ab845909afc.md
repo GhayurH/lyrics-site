@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:1391b0bf4ab845909afc
-# source_url: https://tajpoint.com/izn-e-wida-na-mil-paya-khara-hai-aas-liye-lyrics-2024/
-# raw_sha256: 94357e68b5eeb6efe24eb05b1a79db10662df453d6677a31b6ce6e614d624c69
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Asim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c44ddf9d86090c532f97
-# source_url: https://tajpoints.com/2023/07/tarap-raha-hai-watan-mein-ghulam-ay.html
-# raw_sha256: 6f666aa12318794de1dee719eb272bc52ec25c5f2131ffbd3f26bd3fff4c7f7c
 ---
 
 1

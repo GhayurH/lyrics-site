@@ -22,9 +22,6 @@ romanLyrics: |-
   Dafan ka samaan ko karay ga
   Dam aey sahr e ahle jafa - wa waila
   Wa waila sad wa waila Wa waila - Ya Ali
-# source_id: ziyaraat:c347ba770661f2d403ba
-# source_url: https://www.ziyaraat.net/api/noha/2421
-# raw_sha256: c53a7c213d0b099fa567a7b58c59328e180b9ef1eb44b082af97da42ef26886a
 ---
 
 وا ویلا صد وا ویلا

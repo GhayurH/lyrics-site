@@ -8,9 +8,6 @@ poet: "Khanrez"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f3252e54a759b1f84601
-# source_url: https://tajpoints.com/2019/05/tareekh-de-wich-mashhoor-hin-dunya-te.html
-# raw_sha256: b5eb9acb68c49cb49cdf309fe41cb791a32de5368148fa4dda834b3cc8f2be16
 ---
 
 1

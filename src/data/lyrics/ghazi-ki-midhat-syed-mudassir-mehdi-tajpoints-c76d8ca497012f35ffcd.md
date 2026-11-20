@@ -8,9 +8,6 @@ poet: "Mudassir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c76d8ca497012f35ffcd
-# source_url: https://tajpoints.com/2026/02/ghazi-ki-midhat-syed-mudassir-mehdi.html
-# raw_sha256: f5293fff86ed60662947af00c0b277dbb6c812e92e659a3e909d748f66b69359
 ---
 
 Ghazi Ki Midhat Syed Mudassir Mehdi.

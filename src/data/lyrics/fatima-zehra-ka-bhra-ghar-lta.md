@@ -54,9 +54,6 @@ romanLyrics: |-
   Noha:ALI JEE:-o- Shanawar Parho
   :SARWAR o REHAN: Ke Bazu Bano
   Dard Mein Dobi Hoi Aaye Sada
-# source_id: ziyaraat:f96cba3711e85b06e58e
-# source_url: https://www.ziyaraat.net/api/noha/1224
-# raw_sha256: bd61a03e3755b4b9e4d3c8806f7e3ebb5c52f72428cdc021b8a51cf15bda932d
 ---
 
 ۱

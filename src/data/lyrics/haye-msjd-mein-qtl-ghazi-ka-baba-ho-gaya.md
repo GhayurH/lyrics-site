@@ -56,9 +56,6 @@ romanLyrics: |-
   Nasir-e-Deen-e-Nabi Sajde Mein Zakhmi Kab Hua
   Shah Ne Pani Ka Pyala Apne Qatil Ko Diya
   Ibn-e-Muljim Se Kaha Tha Kaam Tera Ho Gaya
-# source_id: ziyaraat:6daf5b24666654f1406b
-# source_url: https://www.ziyaraat.net/api/noha/294
-# raw_sha256: 4d5f95be0f8984bc05d4ce6d9a7b22486b3d5f6bed79f436d23147abe701e507
 ---
 
 ہاے مسجد میں قتل غازیؑ کا بابا ہو گیا

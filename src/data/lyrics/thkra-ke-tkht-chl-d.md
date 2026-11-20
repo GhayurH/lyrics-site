@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:53b7388a6671720c3075
-# source_url: https://www.ziyaraat.net/api/noha/2176
-# raw_sha256: 997efda6c78361a26a7b4807374263171519698ff39e1780f88c981a2de38d00
 ---
 
 ٹھکرا کے تخت چل دۓ اس بانک پن کے ساتھ

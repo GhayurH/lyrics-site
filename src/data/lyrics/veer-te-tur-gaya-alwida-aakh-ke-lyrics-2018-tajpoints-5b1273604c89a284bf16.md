@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5b1273604c89a284bf16
-# source_url: https://tajpoints.com/2019/12/veer-te-tur-gaya-alwida-aakh-ke-lyrics.html
-# raw_sha256: dbd37b927a4289ef1ee5658ae9bdad931f098fe8fa229b1cb4d6ecb7f43c5032
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:005b5e1071aecddcb9ef
-# source_url: https://tajpoints.com/2020/01/sajday-se-joon-sar-uthaya-madah-ki.html
-# raw_sha256: b96ede887a62379cd13c138edfb38c7ad10336d12b8572211c4246488a3557e2
 ---
 
 1

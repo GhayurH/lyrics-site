@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0dcc165913bdc896fefb
-# source_url: https://tajpoints.com/2023/11/koi-ja-ke-mere-veer-raza-nu-aye-paigham.html
-# raw_sha256: 9c5555ada82ab6238d7c290cdb5e1f782bb53ff898df5ff87507047cfc675640
 ---
 
 1

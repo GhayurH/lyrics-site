@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aaea5597052037542ee3
-# source_url: https://tajpoints.com/2020/01/kis-tarha-koi-likhey-teri-shahadat.html
-# raw_sha256: e0abdff0f368493130b6e79cb9df3af109b4857e4774d7c15f3d44c5ea663aeb
 ---
 
 1

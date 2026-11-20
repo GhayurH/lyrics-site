@@ -8,9 +8,6 @@ poet: "Naeem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:86ef3bd378abbd2d927d
-# source_url: https://tajpoints.com/2019/04/hussain-baant-rahe-hain-nijaat-le-jao.html
-# raw_sha256: f9fc25be10b731d25317a6314536a856be172bbe280ba31317f49c04482b87e7
 ---
 
 1

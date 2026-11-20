@@ -8,9 +8,6 @@ poet: "Qamar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2604e4f8cd694662114e
-# source_url: https://tajpoints.com/2018/03/waris-e-haider-waris-e-zahra-qayam-hai.html
-# raw_sha256: fc4aec349660dfff7431d1b0d1abc73c4b766ca3aaa482271539c81a07139190
 ---
 
 Waris-e-Haider Waris-e-Zahra Qayam Hai.

@@ -70,9 +70,6 @@ romanLyrics: |-
   Ho gaya us ghari ik mahshar bapa
   Jab Ali Shaah-e-waala ne ro kar kaha
   Ab nahiṅ aayeṅge laut kar
-# source_id: nohayonline:23e9b936060b87a127ba
-# source_url: https://www.nohayonline.com/details_content.php?id=2857
-# raw_sha256: fd9bf4c887dad0774f65b20e11aaa7055e0f87f8eccabc56f994acdc9bc7b79c
 ---
 طفلانِ مسلم ابنِ عقیل
 

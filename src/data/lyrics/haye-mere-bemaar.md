@@ -65,9 +65,6 @@ romanLyrics: |-
   Ye Kulsum ye Kubra hai
   Ye maasum Sakina hai
   Aur hai Zainab is ka naam
-# source_id: nohayonline:57edbf25444795c5ca1b
-# source_url: https://www.nohayonline.com/details_content.php?id=525
-# raw_sha256: 5334257631485c3eab9da6b05ef238d4d01ff8b23025804a1d687b6ceae60f1f
 ---
 
 ہائے میرا بیمار امام

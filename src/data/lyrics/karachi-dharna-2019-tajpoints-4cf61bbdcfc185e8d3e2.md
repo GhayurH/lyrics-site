@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4cf61bbdcfc185e8d3e2
-# source_url: https://tajpoints.com/2019/05/karachi-dharna-2019.html
-# raw_sha256: a8764fb22e48a5fe5692e9cf1bf2ee4fbf4de89237536da0114ced9b0c4f6ab1
 ---
 
 1

@@ -1,129 +1,146 @@
 ---
-title: "یا باب حوایج یا باب حوایج"
-alternateTitle: "Ya Baab-e-Hawaaij"
+title: "فلک کا بوجھ اکیلے سنبھال سکتا ہوں"
+alternateTitle: "Ya Baabe Hawaij"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Salman Azmi"
-reciter: "Mesum Abbas"
+poet: "Mir Takallum"
 tags: []
 aliases: []
-published: true
+published: false
 romanLyrics: |-
-  Ya Baab-e-Hawaaij ya Baab-e-Hawaaij
-
-  Chhote Hazrat ke bhatije chhote shehzaade mere
-  Chhote shehzaade mere Baab-e-Hawaaij Asghar
-
-  Puri kar do ye dua meri haajat ho rawa
-  Khatm ho gham ka safar
-  Chhote shehzaade mere Baab-e-Hawaaij Asghar
-
   1
-  Tere jhule ko banaaya hai wasila Maula
-  Aansuoṅ se tujhe likhte haiṅ ariza Maula
-  Bas haqiqat hai yehi Maula mumkin hai sabhi
-  Aap chaaheṅ ho agar Baab-e-Hawaaij Asghar
-
-  2
-  Chhe Muharram ko jo utha hai tumhaara jhula
-  Muntazir rehte haiṅ us din ke liye ahl-e-aza
-  Maaṅgte haiṅ ye dua kar de aulaad ataa
-  Mere Maula ke pisar Baab-e-Hawaaij Asghar
-
-  3
-  Girwi karte haiṅ yuṅ bachchoṅ ko tere jhule se
-  Doriyaaṅ baaṅdh ke karte haiṅ hawaale tere
-  Hai zamaanat meiṅ teri maatami bachche sabhi
-  In pe rakhiyega nazar Baab-e-Hawaaij Asghar
-
-  4
-  Jo jhulaati hai azaakhaanoṅ meiṅ jhula khaali
-  Jholiyaaṅ rakhna na un maaoṅ ki Maula khaali
-  Aisi aulaad mile naukari teri kare
-  Itna ehsaan to kar Baab-e-Hawaaij Asghar
-
-  5
-  Paai Fitrus ne jo Shabbir ke jhule se shifa
-  Tera gehwaara bhi karta hai zamaane ko ataa
-  Ae sakhi ibn-e-sakhi chhe mahine ke Ali
-  Hai sakhi aap ka ghar Baab-e-Hawaaij Asghar
-
-  6
-  Chaahe kamsin ho magar bhaai to hota hai bharam
-  Sar pe behnoṅ ke rahe bhaai salaamat har dam
-  Kijiye apna karam hai Sakina ki qasam
-  Baagh-e-Zahra ke shajar Baab-e-Hawaaij Asghar
-
-  7
-  Hausla hum ko bhi kar de wohi mushkil meiṅ ataa
-  Azm jo tu ne dikhaaya tha sar-e-Karbobala
-  Tir gardan pe laga to diye ahl-e-jafa
-  Aap roye na magar Baab-e-Hawaaij Asghar
-
-  8
-  Ba khuda Maisam o Salman aqida hai yehi
-  Apne ammu ki tarah Baab-e-Hawaaij tum bhi
-  Hum tumhaare naukar tum se maaṅge na agar
-  Phir bhala jaaeṅ kidhar Baab-e-Hawaaij Asghar
-# source_id: nohayonline:501220ed678120732f4f
-# source_url: https://www.nohayonline.com/details_content.php?id=2523
-# raw_sha256: bf15e13defbeab34701bb9bda32a67e7837dd50a98371baf41abbcaf00b3e88f
+  Falak ka boj akele sambhaal sakta hoo
+  Mai pal meiṅ saare samndar khangaal sakta hoo
+  Ali ka laal hoo abbas naam hai mera
+  Mai aaftab se darya nikaal sakta hoo
+  Alamdar wafa alamdare wafa
+  Ya baabe hawaij ya baabe hawaij
+  Tu ibne saqi ibne saqi ibne saqi hai
+  Jo shay tere darbaar pe maangi wo mili hai
+  Taqdir tere naqshe qadam pe hi chali hai
+  Hadh hai ke ali kehte hai ye mera ali hai
+  Dunya meiṅ wafa tujshe hi mashur hui hai
+  Phaylaate hai daaman hum dar pe tumhare
+  Ghazi zara karde qismat ko ishaare
+  Dete rahe hum hashr talak shaah ko pursa
+  Ya baabe hawaij...
+  Bemaar jo momin hai shifa de unhe ghazi
+  Jo qaid hai bejurm chura de unhe ghazi
+  Jo bichre hai kunbe se mila de unhe ghazi
+  Mohtaaj e dua jo hai dua de unhe ghazi
+  Jo dushmane matam hai mita de unhe ghazi
+  Qaayam rahe matam bhule na tera gham
+  Sino meiṅ sada ho aabaad moharram
+  Har saal bichate rahe hum farsh aza ka
+  Ya baabe hawaij...
+  Ho laakh muqaalif ye zamane ki hawayeiṅ
+  Khamosh na ho haye hussaina ki sadayeiṅ
+  Hum apni khushi bhule tera gham na bhulayeiṅ
+  Hontoṅ pe rahe shukre khuda sehke jafayeiṅ
+  Baazu ho juda gar tera parcham na uthayeiṅ
+  Aaye tere dar par hum banke sawaali
+  Sadqe tere gham par har gham se ho duri
+  Hojaye har ek dil meiṅ mohabbat ka savera
+  Ya baabe hawaij...
+  Kya khub nibhaya hai mohabbat ka taqaza
+  Tum jaisi khaayam to koi kar nahi sakta
+  Bachpan se tumhe yaad tha jo dars tha maa ka
+  Shabbir ko samjha hai sada aaqa o maula
+  Aanch aaye na mazlum pe jab tak rahe zinda
+  Tan par jo tumhare baazu hai salamat
+  Sheh ki taraf aaye kis meiṅ hai ye himmat
+  Rehte the tere rob se aada taho baala
+  Alamdare wafa abbas alamdare wafa abbas
+  Tu ghazi alamdar hai saqqa e sakina
+  Tu sher e dilafgaar hai saqqa e sakina
+  Pyasoṅ ka madadgaar hai saqqa e sakina
+  Alamdare wafa abbas alamdare wafa abbas
+  Ya baabe hawaij...
+  Karne laga jab zulm o sitam shaam ka lashkar
+  Mehrum hui aab se jab aal e payambar
+  Jhule meiṅ tarapta raha cheh maah ka asghar
+  Kya dil pe guzarti thi mere shere dilawar
+  Pani ki sada hoti thi jab pyase laboṅ par
+  Pyare mere ammu kehti thi sakina
+  Pardes meiṅ apna mushkil hua jina
+  Sehraab kare aale payambar ko khudaya
+  Ya baabe hawaij...
+  Us waqt takallum thi bapa kaisi qayamat
+  Ro ro ke jo sheh kehte the haye meri ghurbat
+  Aur khun meiṅ tar saamne thi bhai ki mayyat
+  Uthe na meri laash thi ghazi ki wasiyat
+  Sharminda hoo dekhe na sakina meri surat
+  Aur sheh ka tha nauha haye mera bhai
+  Mai hogaya tanha ki tum ne judaai
+  Marne se tere hogaya gham beta ali ka
+  Alamdare wafa abbas alamdare wafa abbas
 ---
-یا باب حوایج یا باب حوایج
-
-چھوٹے حضرت کے بھتیجے چھوٹے شہزادے میرے
-چھوٹے شہزادے میرے باب حوایج اصغر
-
-پوری کر دو یہ دعا میری حاجت ہو روا
-ختم ہو غم کا سفر
-چھوٹے شہزادے میرے باب حوایج اصغر
 
 ۱
-تیرے جھولے کو بنایا ہے وسیلہ مولا
-آنسوؤں سے تجھے لکھتے ہیں عریضہ مولا
-بس حقیقت ہے یہی مولا ممکن ہے سبھی
-آپ چاہیں ہو اگر باب حوایج اصغر
-
-۲
-چھ محرم کو جو اٹھا ہے تمہارا جھولا
-منتظر رہتے ہیں اس دن کے لیے اہلِ عزا
-مانگتے ہیں یہ دعا کر دے اولاد عطا
-میرے مولا کے پسر باب حوایج اصغر
-
-۳
-گروی کرتے ہیں یوں بچوں کو تیرے جھولے سے
-ڈوریاں باندھ کے کرتے ہیں حوالے تیرے
-ہے ضمانت میں تیری ماتمی بچے سبھی
-ان پہ رکھیے گا نظر باب حوایج اصغر
-
-۴
-جو جھلاتی ہے عزاخانوں میں جھولا خالی
-جھولیاں رکھنا نہ ان ماؤں کی مولا خالی
-ایسی اولاد ملے نوکری تیری کرے
-اتنا احسان تو کر باب حوایج اصغر
-
-۵
-پائی فطرس نے جو شبیر کے جھولے سے شفا
-تیرا گہوارہ بھی کرتا ہے زمانے کو عطا
-اے سخی ابنِ سخی چھ مہینے کے علی
-ہے سخی آپ کا گھر باب حوایج اصغر
-
-۶
-چاہے کمسن ہو مگر بھائی تو ہوتا ہے بھرم
-سر پہ بہنوں کے رہے بھائی سلامت ہر دم
-کیجیے اپنا کرم ہے سکینہ کی قسم
-باغ زہرا کے شجر باب حوایج اصغر
-
-۷
-حوصلہ ہم کو بھی کر دے وہی مشکل میں عطا
-عزم جو تو نے دکھایا تھا سر کربوبلا
-تیر گردن پہ لگا تو دیے اہلِ جفا
-آپ روئے نہ مگر باب حوایج اصغر
-
-۸
-با خدا میثم و سلمان عقیدہ ہے یہی
-اپنے عمو کی طرح باب حوایج تم بھی
-ہم تمہارے نوکر تم سے مانگے نہ اگر
-پھر بھلا جائیں کدھر باب حوایج اصغر
+فلک کا بوجھ اکیلے سنبھال سکتا ہوں
+میں پل میں سارے سمندر کھنگال سکتا ہوں
+علی کا لال ہوں عباس نام ہے میرا
+میں آفتاب سے دریا نکال سکتا ہوں
+علمدار وفا علمدار وفا
+یا باب حوایج یا باب حوایج
+تو ابن سقی ابن سقی ابن سقی ہے
+جو شہ تیرے دربار پہ مانگی وہ ملی ہے
+تقدیر تیرے نقش قدم پہ ہی چلی ہے
+حد ہے کہ علی کہتے ہیں یہ میرا علی ہے
+دنیا میں وفا تجھ سے ہی مشہور ہوی ہے
+پھیلاتے ہیں دامن ہم در پہ تمہارے
+غازی زرا کردے قسمت کو اشارے
+دیتے رہے ہم حشر تلک شاہ شاہ کا پرسہ
+یا باب حوایج۔۔۔
+بیمار جو مومن ہیں شفا دے غازی
+جو قید ہیں بے جرم چھڑا دے انہیں غازی
+جو بچھڑے ہیں کنبے سے ملا دے انہیں غازی
+محتاج دعا جو ہے دعا دے انہیں غازی
+جو دشمن ماتم ہے مٹادے انہیں غازی
+قایم رہے ماتم بھولے نہ تیرا غم
+سینوں میں صدا ہو آباد محرم
+ہر سال بچھاتے رہے ہم فرش عزا کا
+یا باب حوایج۔۔۔
+ہو لاکھ مخالف یہ زمانے کی ہوایں
+خاموش نہ ہو ہاے حسینا کی صدایں
+ہم اپنی خوشی بھولے تیرا غم نہ بھلایں
+ہونٹوں پہ رہے شکر خدا سہ کے جفایں
+بازو ہو جدا کر تیرا پرچم نہ اٹھایں
+آے تیرے در پر ہم بن کے سوالی
+صدقے تیرے غم پر ہر غم سے ہو دوری
+ہوجائے ہر ایک دل میں محبت کا سویرا
+یا باب حوایج۔۔۔
+کیا خوب نبھایا ہے محبت کا تقاضہ
+تم جیسی قایم تو کوئی کر نہیں سکتا
+بچپن سے تمہیں یاد تھا جو درس تھا ماں کا
+شبیر کو سمجھا ہے صدا آقا و مولا
+آنچ آے نہ مظلوم پہ جب تک رہے زندہ
+تن پر جو تمہارے بازو ہے سلامت
+شہ کی طرف آے کس میں ہے یہ ہمت
+رہتے تھے تیرے رعب سے اعدا تہہ و بالا
+علمدار وفا عباس علمدار وفا عباس
+تو غازی علمدار ہے سقاے سکینہ
+تو شیر دل افگار ہے سقاے سکینہ
+پیاسوں کا مددگار ہے سقاے سکینہ
+علمدار وفا عباس علمدار وفا عباس
+یا باب حوایج۔۔۔
+کرنے لگا جب ظلم و ستم شام کا لشکر
+محروم ہوی آب سے جب آل پیمبر
+جھولے میں تڑپتا رہا چھ ماہ کا اصغر
+کیا دل پہ گزرتی تھی میرے شیر دلاور
+پانی کی صدا ہوتی تھی جب پیاسے لبوں پر
+پیارے میرے عمو کہتی تھی سکینہ
+پردیس میں اپنا مشکل ہوا جینا
+سیراب کرے آل پیمبر کو خدایا
+یا باب حوایج۔۔۔
+اس وقت تکلم تھی بپا کیسی قیامت
+رو رو کے جو شہ کہتے تھے ہاے میری غربت
+اور خون میں تر سامنے تھی بھائی کی میت
+اٹھے نہ میری لاش تھی غازی کی وصیت
+شرمندہ ہوں دیکھے نہ سکینہ میری صورت
+اور شہ کا تھا نوحہ ہاے میرے بھائی
+میں ہوگیا تنہا کی تم نے جدائی
+مرنے سے تیرے ہوگیا غم بیٹا علی کا
+علمدار وفا عباس علمدار وفا عباس

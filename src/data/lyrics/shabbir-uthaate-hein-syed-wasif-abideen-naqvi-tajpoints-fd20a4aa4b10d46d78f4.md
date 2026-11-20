@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fd20a4aa4b10d46d78f4
-# source_url: https://tajpoints.com/2023/07/shabbir-uthaate-hein-syed-wasif-abideen.html
-# raw_sha256: f0326a7dd17ecf7dcb1bd44c33cbcf1693c6ee37aae71d92b78f7a590974db8c
 ---
 
 1

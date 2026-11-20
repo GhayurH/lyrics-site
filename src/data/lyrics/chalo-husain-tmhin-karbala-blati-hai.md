@@ -35,9 +35,6 @@ romanLyrics: |-
   6
   Navid kya hua labbaik kiuṅ nahiṅ kehte
   Sada to dasht se hal min ki ab bhi aati hai
-# source_id: ziyaraat:5e3c130250687926efab
-# source_url: https://www.ziyaraat.net/api/noha/901
-# raw_sha256: 3f04f9e50c624113d9ca5a2840672168629d8c6aca840abdee36527996ae9c91
 ---
 
 چلو حسین تمہیں کربلا بُلاتی ہے

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noRoman"]
 aliases: []
 published: false
-# source_id: ziyaraat:2b740597fa6dd51b4cf7
-# source_url: https://www.ziyaraat.net/api/noha/2850
-# raw_sha256: 4eec9cc05d8e94d43ca2e2b84e24326a73d7868a1f7b7a85e3d86ee375ec4d87
-# source_id: ziyaraat:4d25dc200ce643aa2f83
-# source_url: https://www.ziyaraat.net/api/noha/2851
-# raw_sha256: 5193ea5f56a7786cd4540519eb6e10e5d60428e4462f5473d15958ed9344ae3f
 ---
 
 علی علی حق علی

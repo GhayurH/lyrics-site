@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:67f9b5e74a811cb73c19
-# source_url: https://www.ziyaraat.net/api/noha/248
-# raw_sha256: 8e2f40312d842af8eca109b419112fc77080e92c3cca6ade6e5e05435cfaf9c3
 ---
 
 Ghazy ko bachpane me maa ye sabak parhaye

@@ -61,12 +61,6 @@ romanLyrics: 'Zainab ye bayan karti ba haal pareshan
   Kis tarha nikaale
 
   Qabre shahe bekas ki ziyarat ka hai arman'
-# source_id: nohayonline:4be51599ccc6657ede4d
-# source_url: https://www.nohayonline.com/details_content.php?id=55
-# raw_sha256: 78846319d63eed54a4dbfdd8dd524afe7419698ffdc38bea72c37b90c8f12c73
-# source_id: ziyaraat:59074432a07863a279ef
-# source_url: https://www.ziyaraat.net/api/noha/1898
-# raw_sha256: 3b2aba646863e5f049c1352451e4d46581657ddb500482d3eb66c8e077ed7967
 ---
 
 زینب یہ بیاں کرتی باحالِ پریشاں

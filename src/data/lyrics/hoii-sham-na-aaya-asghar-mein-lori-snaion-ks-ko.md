@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:f980e880d12dd7623d01
-# source_url: https://www.ziyaraat.net/api/noha/977
-# raw_sha256: e10722a9a8b9d96afda48c892c189f2ced2d3c76723e08210d8387cf7fd89b8a
 ---
 
 Haey Asghar Haye Asghar

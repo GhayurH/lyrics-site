@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:884bbe78c4ba255e57d5
-# source_url: https://tajpoints.com/2023/02/mere-safraan-da-hun-wela-aye-zainab-di.html
-# raw_sha256: 955708b83910d4a245a449a4fd595f97a36bd39c6ab001e8794f9028162dacfe
 ---
 
 1

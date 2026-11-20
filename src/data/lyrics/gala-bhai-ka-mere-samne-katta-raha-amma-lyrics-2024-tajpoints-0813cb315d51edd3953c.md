@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0813cb315d51edd3953c
-# source_url: https://tajpoints.com/2024/07/gala-bhai-ka-mere-samne-katta-raha-amma.html
-# raw_sha256: 49d2ee0878689ea99cba9985f191567f006571e3b3d481e719dce15cf4199fa9
 ---
 
 Gala Bhai Ka Mere Samne Katta Raha Amma Muhammad Raza Mungla.

@@ -8,13 +8,6 @@ poet: "Nayab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2cd9dfb13ee2cb289c0b
-# source_url: https://tajpoints.com/2018/08/charcha-hai-yeh-ghali-ghali-shabir-ke-2.html
-# raw_sha256: 9c1fae78c382143d887fb7e837dd0395d36565ee09cf66798527bfd931e1bfe6
-# source_id: tajpoints:ebf711afd40a18d7e9a5
-# source_url: https://tajpoints.com/2018/05/charcha-hai-yeh-ghali-ghali-shabir-ke.html
-# raw_sha256: 5d33cc09f2a8b0a332889e616a0b455efb5e3d17249911d5f4f5816dcc686a61
-# added_stanza_source: roman:charcha-hai-yeh-ghali-ghali-shabir-ke-matamdaron-mein-tajpoints-ebf711afd40a18d7e9a5
 ---
 
 Charcha Hai Yeh Ghali Ghali Shabir Ke Matamdaron Mein 2017-18.

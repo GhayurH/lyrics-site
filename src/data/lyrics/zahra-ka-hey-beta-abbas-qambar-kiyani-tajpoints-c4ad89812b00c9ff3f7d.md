@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c4ad89812b00c9ff3f7d
-# source_url: https://tajpoints.com/2021/03/zahra-ka-hey-beta-abbas-qambar-kiyani.html
-# raw_sha256: 69bf05471e94a5fd7369730a26803b879fe100ca000d5b36dc6069fff7fdbc80
 ---
 
 Zahra Ka Hey Beta Abbas Qambar Kiyani.

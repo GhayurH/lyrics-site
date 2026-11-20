@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5a405ec7709c76870a00
-# source_url: https://tajpoints.com/2019/02/jashn-zahra-ka-jab-manatay-hain.html
-# raw_sha256: d8c9a7982c0441706ab20bf5b094ca27d5ad2db3f844c5638a5a1c5934ae461f
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:86e5808af1ab975f8a40
-# source_url: https://tajpoints.com/2020/04/ik-zamana-aaye-ga-lyrics-in-urdu-and.html
-# raw_sha256: 1c6e08f91255547176cb3187e8504cc12ddf1cc5a9da3f34a1a4704e4ef2af4c
 ---
 
 Har Zamana Muntazir Jis Ka Hai Woh Aa Jaye Ga Ik Zamana Aaye Ga.

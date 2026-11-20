@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:29ba2a5f299d3941e92f
-# source_url: https://tajpoints.com/2025/03/bohat-yaad-aein-gy-baba-syed-abbas-raza.html
-# raw_sha256: 85e9b00382aecb4eab76b8de2d9e7bc68700a1ff7a1f78a29fe32f2a5998f274
 ---
 
 1

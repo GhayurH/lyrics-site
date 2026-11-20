@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f792840ec260ea956e52
-# source_url: https://tajpoints.com/2020/04/madh-e-ali-akbar-lyrics-in-urdu-and.html
-# raw_sha256: 1793884783349c4e35110165bf3199df10a9cce8949d0e178c02bc878e5999a4
 ---
 
 1

@@ -52,14 +52,6 @@ romanLyrics: |-
   Bain ye Farhan o Mazhar Zainab-e-dilgir ka
   Sun ke har laasha jafa ke dasht meiṅ tharra gaya
   Waasta logoṅ Nabi ka qaafila roko abhi
-# source_id: nohayonline:8843f9a071dbbedf1de3
-# source_url: https://www.nohayonline.com/details_content.php?id=1120
-# raw_sha256: d674fbe20a16a2cec7751bc761be85987e1cdfa0ba32e9be3f4d2225acc7ce2e
-# source_id: nohawriteups:2f690394d7685283b479
-# source_url: https://www.nohawriteups.org/koi-ghazi-ko-bulaye/
-# original_html: snapshots/nohawriteups/original_html/2f690394d7685283b479.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/2f690394d7685283b479.json
-# api_content_sha256: 26263ad5c84bee3348b1d18591fb6cbf53caad50f2cbca88452df89ab37cfe09
 ---
 آ گیا بازارِ شام
 

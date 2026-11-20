@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ebfc8534a98c8bdfdd32
-# source_url: https://tajpoints.com/2020/04/kabay-ko-qibla-kar-diya-lyrics-in-urdu.html
-# raw_sha256: 0cedb83fa2be411bdced888c5b947096157b576e1acdbdd83bcf6fd438170cec
 ---
 
 1

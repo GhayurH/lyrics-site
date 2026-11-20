@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:22e9d429b1d1c32acc8a
-# source_url: https://www.ziyaraat.net/api/noha/1515
-# raw_sha256: fddcf16aebea399028a9a3ab6d4b1e6692d9022bded46aee10ea3e279da11d20
 ---
 
 Faryad kare Sughra kab aao gay

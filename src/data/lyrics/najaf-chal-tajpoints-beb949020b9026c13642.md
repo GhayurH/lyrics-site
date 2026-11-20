@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:beb949020b9026c13642
-# source_url: https://tajpoints.com/2021/02/najaf-chal-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: baeab3cc16cfc4509165a9ccf90931e5e8249b96ae8e59ceb82498cf320b8913
 ---
 
 1

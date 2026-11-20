@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f42bf95406bd78afe9c8
-# source_url: https://tajpoints.com/2020/04/ghar-fatmeen-ka-lyrics-in-urdu-and.html
-# raw_sha256: 4fb59900d4341acee7a8c6c4b55ae4b98d3b1ae28c8b1a7ea69600bbd23a4a98
 ---
 
 1

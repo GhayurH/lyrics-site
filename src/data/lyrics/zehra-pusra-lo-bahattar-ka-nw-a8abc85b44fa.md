@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a8abc85b44fa90f306b1
-# source_url: https://www.nohawriteups.org/zehra-pusra-lo-bahattar-ka/
-# original_html: snapshots/nohawriteups/original_html/a8abc85b44fa90f306b1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a8abc85b44fa90f306b1.json
-# api_content_sha256: f2e20a6ba16acf9452c1e6043516c55a3965b0cfbade61943324e2e8f0db8c3c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Karbal ki kahani jab koi bhi sunayega

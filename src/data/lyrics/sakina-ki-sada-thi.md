@@ -43,9 +43,6 @@ romanLyrics: |-
   Na aaye Hazrat-e-Abbas waapas nehr se Fakhri
   Ye kehti reh gayi bachchi
   Kahaaṅ ho jald aao jald aao Ae mere ammu
-# source_id: nohayonline:2d3c68665b1b2b0c6b75
-# source_url: https://www.nohayonline.com/details_content.php?id=847
-# raw_sha256: 94fa19a7398c73d17eaa489a7ec36b07a8bdba2f4492642c33990c596098a1dc
 ---
 سکینہ کی صدا تھی جلد آؤ اے میرے عمو
 مجھے وہ چاند سی صورت دکھاؤ اے میرے عمو

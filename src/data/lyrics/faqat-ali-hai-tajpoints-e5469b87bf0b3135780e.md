@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e5469b87bf0b3135780e
-# source_url: https://tajpoints.com/2020/05/faqat-ali-hai-lyrics-in-urdu-and-roman.html
-# raw_sha256: 0cc55637bb86024dcafae2b472973186fce650b9e811f7562a4771f013af23f9
 ---
 
 1

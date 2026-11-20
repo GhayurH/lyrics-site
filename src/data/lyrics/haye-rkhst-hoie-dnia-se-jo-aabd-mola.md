@@ -71,9 +71,6 @@ romanLyrics: |-
   Hae mazlum ki ghurbat ka ajab hai manzar
   Khud bhi mazlum tha turbat bhi hai mazlum us ki
   Turbat-e-Fatima Zehra ki tarha tuti hui
-# source_id: ziyaraat:d98b48d895bd568c04de
-# source_url: https://www.ziyaraat.net/api/noha/2576
-# raw_sha256: e32520436d93bb9102137b8cd3134f2887d75241597c6c1951eefdb57bfcb9ed
 ---
 
 ۱

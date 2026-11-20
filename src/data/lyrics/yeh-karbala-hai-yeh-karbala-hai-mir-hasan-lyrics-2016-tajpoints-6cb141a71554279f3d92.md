@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6cb141a71554279f3d92
-# source_url: https://tajpoints.com/2017/02/yeh-karbala-hai-yeh-karbala-hai.html
-# raw_sha256: 7ee1a6216dadf82bef51162f21b26f064ca4345431109c33d734017978813012
 ---
 
 Yeh Karbala Hai Yeh Karbala Hai Mir Hasan Mir.

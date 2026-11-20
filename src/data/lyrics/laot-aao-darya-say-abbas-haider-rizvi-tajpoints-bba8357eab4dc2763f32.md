@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bba8357eab4dc2763f32
-# source_url: https://tajpoints.com/2022/08/laot-aao-darya-say-abbas-haider-rizvi.html
-# raw_sha256: a2f2ce36bcd64c592d023fe3c9b29debdae523ee71be584535ba4312a4cc0ff0
 ---
 
 1

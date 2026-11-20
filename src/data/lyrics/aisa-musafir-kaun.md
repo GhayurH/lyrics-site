@@ -54,9 +54,6 @@ romanLyrics: |-
   10
   Pehchan jo tu ne likhi haaṅ Ae Bilal Kazmi
   Juz Abid-e-bimaar ke aisa musafir kaun hai
-# source_id: nohayonline:04496eadceb6612a950a
-# source_url: https://www.nohayonline.com/details_content.php?id=2761
-# raw_sha256: c34df0d76bf3078608e4e6874ce85a04c5934fb8d4736b5f4bf29abfe3232f31
 ---
 ایسا مسافر کون ہے
 ہو پاؤں زخموں سے بھرے ایسا مسافر کون ہے

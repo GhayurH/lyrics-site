@@ -44,9 +44,6 @@ romanLyrics: |-
   Piche mur mur ke takallum yehi kehti thi sakina
   Shaam chali hoo ab na bachungi mai zinda
   Utho baba...
-# source_id: nohayonline:dca9612afc4b98cec653
-# source_url: https://www.nohayonline.com/details_content.php?id=2406
-# raw_sha256: 533f1fe58d7233959e1d65f4a0cd9f58deff01d1351e8d1cf2ab21cd59cc8400
 ---
 
 ۱

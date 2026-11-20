@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a88a957d2d28e1239fd9
-# source_url: https://tajpoints.com/2022/03/hallmin-ki-ik-sada-syed-wajhi-hasan.html
-# raw_sha256: 00ef40198ae76c802c5e240860d35ef2110d05ccf5e23bcc0fcf329e26d5b06c
 ---
 
 Hallmin Ki Ik Sada Syed Wajhi Hasan

@@ -52,9 +52,6 @@ romanLyrics: |-
   Zarbat ki jaa pe bain kare yasir e aza
   Baba nahi rahe baba nahi rahe
   Zainab rida ko thaam ke...
-# source_id: nohayonline:03cf58c650d738a3cd5f
-# source_url: https://www.nohayonline.com/details_content.php?id=2430
-# raw_sha256: 0ba76f0b8ced121696c054e378f78ef9d5a353047794db5ca44b6a6fb01ae72e
 ---
 
 ۱

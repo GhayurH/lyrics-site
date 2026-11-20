@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9ebd9fe8d214d10a3702
-# source_url: https://tajpoints.com/2024/08/ay-akhi-abbas-sajjad-ashraf-taqvi-lyrics.html
-# raw_sha256: ca253b14f947daaab86020023864bc15aeed53e5c703e6eba4fba8631e7a24a5
 ---
 
 1

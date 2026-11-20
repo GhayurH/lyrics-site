@@ -63,9 +63,6 @@ romanLyrics: |-
   Har ek buraai se bas hamesha
   Husain ki yaad haq ki jaanib
   Nadim tujhko bula rahi hai
-# source_id: nohayonline:518eee4833dc8fcc99a3
-# source_url: https://www.nohayonline.com/details_content.php?id=1694
-# raw_sha256: 6824de731566d17e16bd9ef359aec4cf0249c3821892d2e66c62b5256eff917e
 ---
 یہ کیفیت جو غم و الم کی
 تمام عالم پہ چھا رہی ہے

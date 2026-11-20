@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:286fb372aed7ac554bdf
-# source_url: https://www.ziyaraat.net/api/noha/2699
-# raw_sha256: 9ee1f816d91d6751204bce4f7292cbd46076c1ca40f4c6167f4379d856ba4b6b
 ---
 
 سلطانِ انبیاءؐ کا غم ہم نے منایا ہے

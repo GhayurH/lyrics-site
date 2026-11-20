@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1d874d30b5fa4d1ee21c
-# source_url: https://tajpoints.com/2023/05/haye-mola-imam-jafar-e-sadiq-hasnain.html
-# raw_sha256: 5b3d1a32d32191b30a21ea446a5ebed1ff7e07ab62ae78aa93fca6e9a9121aec
 ---
 
 1

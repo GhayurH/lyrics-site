@@ -56,9 +56,6 @@ romanLyrics: |-
   Laila ko dekha aur kabhi Akbar pe ki nazar
   Khaamosh the wo Mir Takallum jhukaae sar
   Sajjad us sawaal pe rote the Shaadmaaṅ
-# source_id: nohayonline:cd3f9160cd593802d244
-# source_url: https://www.nohayonline.com/details_content.php?id=3214
-# raw_sha256: 67a185e7b6f249bbd6bf3b046c0f1f4e6242f46ef4fd2f246d74e50ab788d766
 ---
 یہ کون ہے جواں
 

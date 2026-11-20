@@ -74,9 +74,6 @@ romanLyrics: |-
   Meri mayyat ko andhere meiṅ uthana bhaiya
   Meri rudad chacha...
   Jab bhi ho karbobala...
-# source_id: nohayonline:3b0da1e10490f01e5cff
-# source_url: https://www.nohayonline.com/details_content.php?id=196
-# raw_sha256: 19c7375941572a726d2e14094ea87875d1712a9e470a655810bf3e67657912d9
 ---
 
 ۱

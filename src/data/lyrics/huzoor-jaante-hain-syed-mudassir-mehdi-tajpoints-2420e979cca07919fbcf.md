@@ -8,9 +8,6 @@ poet: "Zain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2420e979cca07919fbcf
-# source_url: https://tajpoints.com/2025/11/huzoor-jaante-hain-syed-mudassir-mehdi.html
-# raw_sha256: 81be4a94e87e7f2eb14e3ce49a9e7eeebeacdbbf9baa881a0ba181c3e6c3e6de
 ---
 
 Huzoor Jaante Hain Syed Mudassir Mehdi.

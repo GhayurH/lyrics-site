@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c7e033b5dee23e9edfa3
-# source_url: https://tajpoints.com/2018/03/main-khakh-e-shifa-hoon.html
-# raw_sha256: 653e8e51c8545cd55d3245f1658bf15fd7f639d410ed1c69d0bfc64effdfcef6
 ---
 
 Hai Karab-o-Bala Merr Taruf Ka Khulasa.

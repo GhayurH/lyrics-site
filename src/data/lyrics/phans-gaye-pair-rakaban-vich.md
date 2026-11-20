@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:36d914116de4b252ca9c
-# source_url: https://www.ziyaraat.net/api/noha/256
-# raw_sha256: b837e9989c8e3f78b811db82dc9d8b1310ac39cdd64132541c5b538c47bd39b6
 ---
 
 Phans gaye paer rakaban vich Abbas bhira hun away haa

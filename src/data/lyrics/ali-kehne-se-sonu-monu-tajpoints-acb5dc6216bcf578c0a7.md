@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:acb5dc6216bcf578c0a7
-# source_url: https://tajpoints.com/2023/01/ali-kehne-se-sonu-monu-lyrics-in-urdu.html
-# raw_sha256: 0d899431c119cbf27a645586005cc9051a34bac6040b38f00c4513a8196dc1e7
 ---
 
 Na Tu Ghabra Aye Musalman Ali Kehne Se.

@@ -8,9 +8,6 @@ poet: "Aqdas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:37a9944e90d20a33263c
-# source_url: https://tajpoints.com/2023/06/mere-bachray-kol-nai-main-kiwein-eid.html
-# raw_sha256: dad399f357ad07091394ac85cb09ed76a65c6d1cf9d3e2f8b8a2db4b34d46594
 ---
 
 1

@@ -82,9 +82,6 @@ romanLyrics: |-
   Tera zakir huṅ jab bhi saamne hogi awaam
   Mai to kahunga sare aam
   Mai Husain ka ghulam
-# source_id: nohayonline:0bc08f88b8e753cfe7d0
-# source_url: https://www.nohayonline.com/details_content.php?id=3691
-# raw_sha256: b29aba7bb2a74fd4696ef09fd3a6b39944f5082f4017213d73e9021152e485bb
 ---
 
 ۱

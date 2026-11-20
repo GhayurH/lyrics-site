@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ab4fe4abc857605eeae8
-# source_url: https://www.nohawriteups.org/hussain-veeran-main-teri-nagri-chon-beh-ridha-turpayee/
-# original_html: snapshots/nohawriteups/original_html/ab4fe4abc857605eeae8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ab4fe4abc857605eeae8.json
-# api_content_sha256: 30731f8db065658cd715fe95899286c7d73dcdaca4452068635d1c8d95ef6a49
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Hussain veeran main, teri nagri chon beh-ridha turpayee

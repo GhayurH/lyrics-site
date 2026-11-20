@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:edf559f0131d8e48f522
-# source_url: https://tajpoint.com/rab-jane-kiwein-kardi-rayi-os-lanti-naal/
-# raw_sha256: 503e611989224f56e36a2a1ac550cb60aa49f06ad18d2601effa8370f4552465
 ---
 
 Rab Jane Kiwein Kardi Rayi Os Lanti Naal Kalam Aye.

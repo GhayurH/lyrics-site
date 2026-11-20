@@ -86,9 +86,6 @@ romanLyrics: |-
   Zainab ka badan bhi kaamp gaya
   Ye baat na tum dohradena
   Mai noke sina…
-# source_id: nohayonline:60068153ac76568e49ad
-# source_url: https://www.nohayonline.com/details_content.php?id=291
-# raw_sha256: 4c223df3229e92754c6cb848362979bf8ec4d427ba29fb9185d71b676ec15719
 ---
 
 ۱

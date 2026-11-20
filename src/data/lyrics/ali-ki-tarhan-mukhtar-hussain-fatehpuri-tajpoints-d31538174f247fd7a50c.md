@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d31538174f247fd7a50c
-# source_url: https://tajpoints.com/2024/02/ali-ki-tarhan-mukhtar-hussain-fatehpuri.html
-# raw_sha256: db6923fa2b8678775a529a7f2e84b3459d45ca6e4c35ef8496c4dfe92d9531f8
 ---
 
 Ali Ki Tarhan Mukhtar Hussain Fatehpuri.

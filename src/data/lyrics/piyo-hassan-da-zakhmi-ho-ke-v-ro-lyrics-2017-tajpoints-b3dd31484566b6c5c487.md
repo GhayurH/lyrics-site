@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b3dd31484566b6c5c487
-# source_url: https://tajpoints.com/2017/02/piyo-hassan-da-zakhmi-ho-ke-v-ro.html
-# raw_sha256: b039edf423d91c50115efb597f22e0002df2bc4ec5796f15dcf52bc62c0f57bc
 ---
 
 1

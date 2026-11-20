@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4b0570f9b988555845c4
-# source_url: https://tajpoints.com/2021/06/syed-e-sajjad-ne-sajjad-ashraf-taqvi.html
-# raw_sha256: d3b00bad90add9c7f0bbac9d2a613037f13ade881abff102ecfb28b4035e40d6
 ---
 
 1

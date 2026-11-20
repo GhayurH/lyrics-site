@@ -8,9 +8,6 @@ poet: "Sarwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bf9ef0324a1f41a530d7
-# source_url: https://tajpoints.com/2019/04/jo-puchiye-keh-kya-hain-fatima-karam-ki.html
-# raw_sha256: 99ae75caa5497b21cea5009b6df4b3c61b130e332fe8a9326d29bc1ce1da4774
 ---
 
 Jo Puchiye Keh Kya Hain Fatima Karam Ki Inteha Hain Fatima.

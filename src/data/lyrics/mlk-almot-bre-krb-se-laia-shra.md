@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7e48df24ef4126914ef5
-# source_url: https://www.ziyaraat.net/api/noha/2299
-# raw_sha256: 060faac3baec21e27672de29d69043ca0033483e26098916cbea7f548ad71034
 ---
 
 Malakul moat barray karb se laya sehra

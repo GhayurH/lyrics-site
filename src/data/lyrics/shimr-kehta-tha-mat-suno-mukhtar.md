@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d3e442ce0c90d219ac16
-# source_url: https://tajpoints.com/2023/07/shimr-kehta-tha-mat-suno-mukhtar-syed.html
-# raw_sha256: 237af22cb6385de4024795de9e4bea67e685a25304013740d9cda65eaca6db09
-# source_title_original: Shimr Kehta Tha Mat Suno Mukhtar Syed Mohammad Shah 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Shimr Kehta Tha Mat Suno Mukhtar

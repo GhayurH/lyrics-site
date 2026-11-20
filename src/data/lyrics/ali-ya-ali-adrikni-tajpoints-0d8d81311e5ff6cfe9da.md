@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0d8d81311e5ff6cfe9da
-# source_url: https://tajpoints.com/2018/07/ali-ya-ali-adrikni.html
-# raw_sha256: c826a8b4afd81c667247cc1d03febca3203cee2b57b7f953881b0275327ceb98
 ---
 
 Ali Ya Ali Adrikni.

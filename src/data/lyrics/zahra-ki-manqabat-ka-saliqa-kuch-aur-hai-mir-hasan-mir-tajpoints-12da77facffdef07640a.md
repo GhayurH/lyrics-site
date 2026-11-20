@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:12da77facffdef07640a
-# source_url: https://tajpoints.com/2024/12/zahra-ki-manqabat-ka-saliqa-kuch-aur-hai.html
-# raw_sha256: 85a415ef1e5f9b84d08b0e8d6dcbf645ffe6fa7e20829fd03b0c691ba5292973
 ---
 
 Zahra Ki Manqabat Ka Saliqa Kuch Aur Hai Mir Hasan Mir.

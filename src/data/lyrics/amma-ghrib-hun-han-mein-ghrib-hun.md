@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:aff772e05b562212761c
-# source_url: https://www.ziyaraat.net/api/noha/2708
-# raw_sha256: f6a76288d6f239431d5810f2cb1576a6e5f1bd5676f40e3652808418939277f5
 ---
 
 Amina Ahsan 2019

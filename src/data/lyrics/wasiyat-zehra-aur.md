@@ -76,9 +76,6 @@ romanLyrics: |-
   Maa ne waada kiya beta chup hogaya
   Jab janaza utha phir na aayi sada
   Mere Husain
-# source_id: nohayonline:a295a54d8c4514371edc
-# source_url: https://www.nohayonline.com/details_content.php?id=1033
-# raw_sha256: a2272bc763f60d9854989a66ba29448b7afe947fa7ed4ee48acfbb1ec6c7dfdd
 ---
 
 ۱

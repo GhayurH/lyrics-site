@@ -90,9 +90,6 @@ romanLyrics: |-
   9
   Tum apne dil meiṅ ziyaarat ki aarzu rakhna
   Phir unka kaam hai jazbe ki aabru rakhna
-# source_id: nohayonline:f8aa8877cc519e119627
-# source_url: https://www.nohayonline.com/details_content.php?id=2681
-# raw_sha256: dbe6a6cb7d833927ae81f8989752c013d440b305e54ef0760a35e7a35bfef83b
 ---
 لکھا ہے یا حسین محرم کے چاند پر
 زہرا بھی آ گئیں ہیں بقیعہ کو چھوڑ کر

@@ -8,9 +8,6 @@ poet: "Darwaish"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a3d617a6d0200b05f28e
-# source_url: https://tajpoints.com/2024/07/nad-e-ali-syed-raza-abbas-zaidi-shahid.html
-# raw_sha256: ec4685bea7aa6b7489554bc110dd488f45c35a1dbfa5964329efb419fdfce206
 ---
 
 Nad e Ali Syed Raza Abbas Zaidi Shahid Baltistani

@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6579c12c35c4a15e5057
-# source_url: https://tajpoints.com/2018/03/ali-hai-naam-mera-main-ali-ka-pota-hoon.html
-# raw_sha256: 1ea6ea3505aee0312a3a8f7e4d0a04f753d7d7087a2d107d4c919d2511d934da
 ---
 
 1

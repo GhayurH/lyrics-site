@@ -66,14 +66,6 @@ romanLyrics: |-
   Bas ae Anis bazm meiṅ hai girya o buka
   Sadiyoṅ talak rulaaye ga sab ko ye marsiya
   Baali Sakina karb ka unwaan ho gai
-# source_id: nohayonline:aa244a3f92a829b505d9
-# source_url: https://www.nohayonline.com/details_content.php?id=334
-# raw_sha256: d2b2d719b1c4a1fd32e69a8baf19ea55bc6254fbf3b5104cd0817689b817b9b8
-# source_id: nohawriteups:fa2cab1f8b1fd7c4dcc9
-# source_url: https://www.nohawriteups.org/allah-jaane-kahan-ho/
-# original_html: snapshots/nohawriteups/original_html/fa2cab1f8b1fd7c4dcc9.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/fa2cab1f8b1fd7c4dcc9.json
-# api_content_sha256: cca2d3ff26708fc88c531eb89d16b39c795775a1bc1b97ff2eaad40da509abbd
 ---
 جب شام کے زنداں میں ہوئی شام حرم کو
 اک آن نہ راحت تھی نہ آرام حرم کو

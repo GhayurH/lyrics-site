@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:de698149a4362bfbe5db
-# source_url: https://www.nohawriteups.org/shaama-dhal-gaiyan-nana/
-# original_html: snapshots/nohawriteups/original_html/de698149a4362bfbe5db.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/de698149a4362bfbe5db.json
-# api_content_sha256: 551992dea9bb075238ebcb82a62b5b83af9900fea11abfd00494196af8f99927
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Shaama Dhal Gaiyan Nana, Mera Akbar Veer Nai Aay

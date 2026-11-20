@@ -34,12 +34,6 @@ romanLyrics: |-
   6
   Pusht par haath bandhe sar khule aada ke sitam
   Kaise dafnaati bhala laashe shahidaaṅ Zainab
-# source_id: nohayonline:441559e1e6526ad4c22f
-# source_url: https://www.nohayonline.com/details_content.php?id=225
-# raw_sha256: b2039d4fca60a3548fec85116e7b66653a6560dd42a2354254e595477faa38f9
-# source_id: ziyaraat:ccbc02d0e6cccfea1ba8
-# source_url: https://www.ziyaraat.net/api/noha/1318
-# raw_sha256: 6228e669cc6201b3260cb8932bf03b8566596a2d1023c26eefa240520b941d84
 ---
 
 ہائے کس طرح کٹی شام غریباں زینبؑ

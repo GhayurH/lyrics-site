@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Rehaan ne noha Ali Asghar ka likha hai
   Is nohe ko Farhan maiṅ majlis meiṅ suna luṅ
-# source_id: nohayonline:3b9d4b3636a39e7165be
-# source_url: https://www.nohayonline.com/details_content.php?id=3436
-# raw_sha256: 648699e260c2200454afa2ec86cbc07b43a35d8ea55f176c2adf5387888d8c2f
 ---
 ماں کہتی تھی اصغر تجھے سینے میں چھپا لوں
 برسات ہے تیروں کی تجھے کیسے بچا لوں

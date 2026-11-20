@@ -8,9 +8,6 @@ poet: "Anees"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e3d0950018685541aead
-# source_url: https://tajpoints.com/2025/12/manam-ghulam-e-hazrat-e-shah-e-najaf-mir.html
-# raw_sha256: 593e78e9697fc7990dbb0f1df354067ded2c278ff962c94a73a356d7f637ba2b
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:e52e7147389a20518337
-# source_url: https://www.ziyaraat.net/api/noha/2864
-# raw_sha256: c1dd1b147cfec526ec4ea7eb9407a8cbab72887f3e8406cd7a6f46f7ec3a43ba
 ---
 
 زخمی ہوا ہے تیروں سے ہئے تابوت حسنؑ کا

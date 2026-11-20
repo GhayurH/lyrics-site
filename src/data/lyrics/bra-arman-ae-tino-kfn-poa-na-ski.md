@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:8676d47b0f3c25d02318
-# source_url: https://www.ziyaraat.net/api/noha/787
-# raw_sha256: b115f92ff9e3754c2e6e09686f3fdc0c180d74b163f33bf6840f9f01e2fb51a1
 ---
 
 ڑا اِرمان اے تینوں کفن پوا نہ سکی

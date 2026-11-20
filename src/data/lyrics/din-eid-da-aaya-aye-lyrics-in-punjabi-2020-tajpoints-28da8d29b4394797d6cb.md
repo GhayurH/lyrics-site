@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:28da8d29b4394797d6cb
-# source_url: https://tajpoints.com/2020/07/din-eid-da-aaya-aye-lyrics-in-punjabi.html
-# raw_sha256: 477dbaa864ca2efee867851ead9a82cb5db75ceb13bc7fa25fe9817541dfcb44
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f9022d0aa80dbb1e4ec1
-# source_url: https://tajpoints.com/2019/11/kera-janda-c-wich-yasrab-de-kadi-aisay.html
-# raw_sha256: 98302dd0c63b06c6e1d3f48bf317fc7015fbd1539adf84a42bf1b6278ae06139
 ---
 
 1

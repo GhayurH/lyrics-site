@@ -8,11 +8,6 @@ kalamType: "Other"
 tags: []
 aliases: []
 published: false
-# source_id: tajpoints:adbcaec0e4ec0da534a9
-# source_url: https://tajpoints.com/2017/03/aap-ache-hain-chacha-par-yeh-zamaana.html
-# raw_sha256: 76fbf4eb7f6cc131cf2c8d92a40a5d857887dcdbb86e9fc0136d7a6c3dae4b78
-# source_title_original: Aap Ache Hain Chacha Par Yeh Zamaana Nahi Acha 2000
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 romanLyrics: |-
   Aap ache hain chacha par yeh zamaana nahi acha
   Piyas achi hai magar aap ka jana nahi acha

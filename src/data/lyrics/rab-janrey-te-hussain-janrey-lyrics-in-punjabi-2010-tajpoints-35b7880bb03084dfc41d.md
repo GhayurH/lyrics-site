@@ -8,9 +8,6 @@ poet: "Qaiser"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:35b7880bb03084dfc41d
-# source_url: https://tajpoints.com/2020/12/rab-janrey-te-hussain-janrey-lyrics-in.html
-# raw_sha256: 13a29a0f4c9baf74f7ce101b4cd93824de2a7bc050b7faa56870c6d1541c4541
 ---
 
 Rab Janrey Te Hussain Janrey.

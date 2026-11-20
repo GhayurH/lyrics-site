@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:70d6f65ade5bd75348c7
-# source_url: https://tajpoints.com/2022/12/jalta-howa-darwaza-saghir-and-hadi.html
-# raw_sha256: 6441c1412dbd726a144074ce7be99c1df63ce38aa58482e59f7187912aca1704
 ---
 
 1

@@ -8,13 +8,6 @@ poet: "Adil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6cdfeb1743b043927e49
-# source_url: https://tajpoints.com/2019/07/aye-zamin-e-ghareeban-lajpaal-raza.html
-# raw_sha256: 09be61dca9a9c964c620d6239ed08410328d8753bfa05c5e635ceffbdfbe26a0
-# additional_source_id: nohawriteups:6fa24f998402bd4d0a5f
-# additional_source_url: https://www.nohawriteups.org/ay-zaaminay-ghareeban-lajpal-raza-mola/
-# additional_raw_sha256: eba0105e6dbb7d058a4175a79a10051049398369454f394b1810dc3375ff0259
-# additional_source_note: All five Panjabi source stanzas represented in the existing TajPoints Roman edition; TajPoints wrongly groups two adjacent source stanzas into each block, editorial stanza split needed. No unique lyrical verses; repeated Lajpal Raza Mola refrain omitted.
 
 ---
 

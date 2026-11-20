@@ -53,9 +53,6 @@ romanLyrics: |-
   Dekh lo Rehaan aur Rizwan Ghazi ka bharam
   Kha nahiṅ sakta hai koi aaj bhi jhuti qasam
   Hai ataaoṅ par ata naqsh-e-qadam Abbas ka
-# source_id: nohayonline:be6dd78dab7994bb6e85
-# source_url: https://www.nohayonline.com/details_content.php?id=1141
-# raw_sha256: a1e3b1c642e8842eaaefcc73595cab97e1c21ae5186106ab06f428adb032c3c0
 ---
 با وفا با وفا غازی علمدار وفا
 بازوئے شبیر ہے فاطمہ کی ہے دعا

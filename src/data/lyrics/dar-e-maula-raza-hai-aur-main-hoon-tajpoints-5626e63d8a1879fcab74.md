@@ -8,9 +8,6 @@ poet: "Arman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5626e63d8a1879fcab74
-# source_url: https://tajpoints.com/2020/07/dar-e-maula-raza-hai-aur-main-hoon.html
-# raw_sha256: 544551fffc6eb7c9eb71d5815f47bf186cfdc469503a901a1add792221645f21
 ---
 
 1

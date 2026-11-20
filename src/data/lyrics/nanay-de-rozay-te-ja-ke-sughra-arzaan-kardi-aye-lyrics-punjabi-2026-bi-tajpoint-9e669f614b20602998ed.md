@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:9e669f614b20602998ed
-# source_url: https://tajpoint.com/nanay-de-rozay-te-ja-ke-sughra/
-# raw_sha256: 964dba63acf1452b4630f5ceeca37f306a4216b656a44d2089e65121064bcd7d
 ---
 
 1

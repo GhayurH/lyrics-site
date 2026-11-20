@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:56b10b344e41436141c3
-# source_url: https://tajpoints.com/2018/03/imam-e-waqt-dua-hai-yeh-intezam-bhi-ho.html
-# raw_sha256: 6bb51ed96322a70e0ac548c5eae012dcc32d0672b9dd0c2ae3765058786cdadf
 ---
 
 1

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:db18fa556a4b115c058a
-# source_url: https://tajpoint.com/ik-zehar-se-jawad-ke-seene-mein-ghutan-hai/
-# raw_sha256: 3352fcb38d20678b39847b9a6a15f99e49a35d80b325715f55d4eb36e6302c44
 ---
 
 1

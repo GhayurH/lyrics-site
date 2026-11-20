@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3e634a01e67a900d8c0f
-# source_url: https://tajpoints.com/2023/09/main-zainab-hoon-mesum-abbas-lyrics-in.html
-# raw_sha256: 2666dc379857adb86e5a5d27452397b5db5ec386d7cb95b70caf56b245d8a9bf
 ---
 
 Logo Main Ali Ki Beti Hoon.

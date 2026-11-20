@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fd2f884c8aa3dd150afd
-# source_url: https://tajpoints.com/2020/04/munazra-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: 00e00b6ab8b17d66e567e250cb40205d323e43c4fda44b1a4cb58dbd8029f90a
 ---
 
 Dosto Aao Sunaon Tum Ko Main Ik Waqiya.

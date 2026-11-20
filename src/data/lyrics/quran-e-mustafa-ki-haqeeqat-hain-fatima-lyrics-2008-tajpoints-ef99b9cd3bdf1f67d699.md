@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ef99b9cd3bdf1f67d699
-# source_url: https://tajpoints.com/2018/01/quran-e-mustafa-ki-haqeeqat-hain-fatima.html
-# raw_sha256: 67b03ba4d3a7c45c83dcc21bd4e7d3d265fcbe0ae179102ca4fffbadad53f0ec
 ---
 
 1

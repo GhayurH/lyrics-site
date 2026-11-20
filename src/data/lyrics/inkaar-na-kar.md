@@ -83,9 +83,6 @@ romanLyrics: |-
   Jaane pe behen aamaada hai
   Har ranj sahuṅ gi tu fikr-e
   Darbaar na kar darbaar na kar
-# source_id: nohayonline:a33adc05a683f442e34f
-# source_url: https://www.nohayonline.com/details_content.php?id=3609
-# raw_sha256: 72230626a43add9ba0f39d45085bb60a638832fcb2e9223821837146df0197df
 ---
 ورثے میں ملا ہے صبر تجھے
 یہ صبر تو تیرا ورثہ ہے

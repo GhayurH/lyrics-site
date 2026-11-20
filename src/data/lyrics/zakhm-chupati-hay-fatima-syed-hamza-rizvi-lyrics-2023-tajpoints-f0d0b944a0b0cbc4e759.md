@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f0d0b944a0b0cbc4e759
-# source_url: https://tajpoints.com/2023/12/zakhm-chupati-hay-fatima-syed-hamza.html
-# raw_sha256: ee1607190bc26ee42a1fb51f3a943a9204a10b6c8a47e5329503c29fea3cd8b0
 ---
 
 1

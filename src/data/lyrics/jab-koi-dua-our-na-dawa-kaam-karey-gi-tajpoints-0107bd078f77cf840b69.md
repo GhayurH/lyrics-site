@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0107bd078f77cf840b69
-# source_url: https://tajpoints.com/2020/11/jab-koi-dua-our-na-dawa-kaam-karey-gi.html
-# raw_sha256: ecd4f34e195ba57be6e2555fb3c9096368c64205d869576d55b42f162b0a183c
 ---
 
 1

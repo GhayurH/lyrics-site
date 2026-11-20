@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b75634659bfd796a12aa
-# source_url: https://tajpoints.com/2025/02/ya-ali-murtaza-salamun-alaik-lyrics-urdu.html
-# raw_sha256: cc45bae239147faac56582f8c7304ba52070951a2692d309bc7aa0e8540cb106
 ---
 
 Ya Ali Murtaza Salamun Alaik Ya Wali e Khuda Salamun Alaik.

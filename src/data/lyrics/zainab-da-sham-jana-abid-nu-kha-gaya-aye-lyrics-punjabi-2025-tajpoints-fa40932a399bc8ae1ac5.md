@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fa40932a399bc8ae1ac5
-# source_url: https://tajpoints.com/2026/06/zainab-da-sham-jana-abid-nu-kha.html
-# raw_sha256: 999264be0e30d29145c9150181c7e05d1e6b9ac930529b4caeae15f93c564a0a
 ---
 
 Beemar Di Bemari Nu Haye Wadha Gaya Aye.

@@ -80,9 +80,6 @@ romanLyrics: |-
   Chur zakhmoṅ se hai tanha
   Abhi zinda hai Husain
   Mat barho jaanib-e-khaima...
-# source_id: nohayonline:b09a941b1ad868dbe1f0
-# source_url: https://www.nohayonline.com/details_content.php?id=2347
-# raw_sha256: f8e490035e9a1910801fac4ff99d08352f26f30132f9d223adcdef37e6dfbaab
 ---
 
 ۱

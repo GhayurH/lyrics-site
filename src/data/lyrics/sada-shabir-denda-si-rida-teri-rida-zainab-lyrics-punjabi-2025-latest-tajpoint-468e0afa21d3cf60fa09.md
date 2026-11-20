@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:468e0afa21d3cf60fa09
-# source_url: https://tajpoint.com/sada-shabir-denda-si-rida-teri-rida-zainab-lyrics/
-# raw_sha256: 3abf8b1209250cc375413236a3a6f3413e7a7fac0c1d90367bce2dad14c791ee
 ---
 
 1

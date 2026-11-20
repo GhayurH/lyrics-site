@@ -8,9 +8,6 @@ poet: "Kaleem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a59fc20f4114b4180816
-# source_url: https://tajpoints.com/2021/09/giraftar-k-bazo-sajjad-ashraf-taqvi.html
-# raw_sha256: 997f9d996f48630f73c09cbe25630ea630852f69bcbd6b936114049da135a88f
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:26216f77cd0e28503dcf
-# source_url: https://tajpoints.com/2020/01/kya-biyaan-ho-mujh-se-azmat-syed-e.html
-# raw_sha256: e217f68e9f9320ae6c10fad95fec456012228b0786f498ef5d32726f09b00b4b
 ---
 
 1

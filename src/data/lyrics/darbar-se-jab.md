@@ -43,9 +43,6 @@ romanLyrics: |-
   Safdar nahiṅ taab-e-bayaaṅ Mazhar kare ga ab kya raqam
   Lafzoṅ meiṅ kya kar paaye ga koi bayaaṅ ye Bibi ke gham
   Hai marsiya bas ek satar beti Nabi ki roti rahi
-# source_id: nohayonline:25c6b1c3d967f2b53b45
-# source_url: https://www.nohayonline.com/details_content.php?id=3126
-# raw_sha256: 05c2b5f71a29aa94b4c224e9f1f38f76cc368af48600c04b93bee79bd7aabfd4
 ---
 دربار سے جب آئی گھر بیٹی نبی کی روتی رہی
 ایک دن نہیں پھر بھای بیٹی نبی کی روتی رہی

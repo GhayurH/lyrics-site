@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:40904abf123c517e9687
-# source_url: https://tajpoints.com/2019/08/jashan-khum-ke-maidaan-mein-saj-gaya.html
-# raw_sha256: 450515f467e3c07665ee9c61a7a7aacc46622f1acdb3979b782d3768a380f071
 ---
 
 Jashan Khum Ke Maidaan Mein Saj Gaya Wilayat Ka.

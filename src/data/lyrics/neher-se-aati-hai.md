@@ -56,9 +56,6 @@ romanLyrics: |-
   Sabr bhi karta raha shukr bhi karta raha
   Zabt ye gham ho nahi saka
   Qatl alamdar ho gaya...
-# source_id: nohayonline:e0aadabf0d9ca0d1d2c9
-# source_url: https://www.nohayonline.com/details_content.php?id=3033
-# raw_sha256: 3a719593e0e6f10ea54deffa5ecdbb29fcdb02daf36cae8a047e36f5f0734433
 ---
 
 ۱

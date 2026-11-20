@@ -34,9 +34,6 @@ romanLyrics: |-
   Karbala ke baad asghar ke tabassum ke siwa
   Kya sabab bachta hai akbar muskurane ke liye
   Subhe ashura hui...
-# source_id: nohayonline:326174a271a129f0a05f
-# source_url: https://www.nohayonline.com/details_content.php?id=2315
-# raw_sha256: 48d9736f6433dbcfe9be2065d8b97f0b4104ccc5e413f57c3d017a94688b5a65
 ---
 
 ۱

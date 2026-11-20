@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e06088cc8ae7562338b5
-# source_url: https://tajpoints.com/2020/06/ayno-qaidi-na-karo-lyrics-in-punjabi.html
-# raw_sha256: 36f964edb88f3a53ba045f4659d7a70274670033c0b7eb7ecfcd2117cea6eb86
 ---
 
 1

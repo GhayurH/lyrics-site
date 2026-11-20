@@ -98,9 +98,6 @@ romanLyrics: |-
   Ya Asghara
   Ya Mazlooma
   Hussaina
-# source_id: ziyaraat:6fe342b8714f27157fb8
-# source_url: https://www.ziyaraat.net/api/noha/2464
-# raw_sha256: fc3e803e65f7961261e6aa958dad57e05da665035ad1b95f1f2742eee21e3532
 ---
 
 ۱

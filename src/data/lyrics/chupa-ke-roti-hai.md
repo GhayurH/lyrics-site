@@ -46,9 +46,6 @@ romanLyrics: |-
   Uthega maa ka jo saaya to aasim o rizwaṅ
   Bohat satayega hasnain ko jahaṅ zahra
   Chupa ke roti hai...
-# source_id: nohayonline:6a5955059905e84a60f1
-# source_url: https://www.nohayonline.com/details_content.php?id=3276
-# raw_sha256: a5146c6c8c11063e74d9404e1c20a7299458fe2dc9d36faa3ca3eccd71f3045a
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eb1ff6f49f44db77f173
-# source_url: https://tajpoints.com/2022/02/woh-murtaza-hai-lyrics-in-urdu-and.html
-# raw_sha256: 3712d099d28b57943936b24743af723eb5cedccbf9bcf1ce6d73e6ea3f704fb8
 ---
 
 Rajab Ki Terah Khuda Ke Ghar Mein Jo Aa Raha Hai Woh Murtaza Hai.

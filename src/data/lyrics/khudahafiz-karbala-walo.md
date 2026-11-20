@@ -43,12 +43,6 @@ romanLyrics: |-
   Rahi gar zindagi
   Ae Karbala walo Khuda hafiz
 reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
-# source_id: nohayonline:a2b8d7ec90113ec3a232
-# source_url: https://www.nohayonline.com/details_content.php?id=483
-# raw_sha256: d2da34172eb520d5ddbc1109824522a45e6e90d0ece5b1682d1ad7eac10dce62
-# source_id: ziyaraat:26964413dac2fc75f112
-# source_url: https://www.ziyaraat.net/api/noha/656
-# raw_sha256: a73f59063f5757ba1065bb4a922ecf32c98acae875f2ddba3d499e00eab17273
 ---
 
 خُدا حافظ ہے رُخصت کی گھڑی

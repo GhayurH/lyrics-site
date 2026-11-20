@@ -55,9 +55,6 @@ romanLyrics: |-
   Izhar ban meiṅ jis ghari Zainab ko di sada
   Akbar ka dam nikalta hai jab ro ke ye kaha
   Jab ye kaha ke aa ke dilasa to dijiye
-# source_id: nohayonline:206972723d4e7842a285
-# source_url: https://www.nohayonline.com/details_content.php?id=2783
-# raw_sha256: d6c3d7000e2db36889b32c143caec93fabbf2c8eb29394bf0ef63fbf57f3a366
 ---
 کھینچی پسر کے سینے سے برچھی جو شاہ نے
 اکبر تڑپ اٹھے ہائے اکبر تڑپ اٹھے

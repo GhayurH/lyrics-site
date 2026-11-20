@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3435d1d8127c042bfb7e
-# source_url: https://tajpoints.com/2023/06/akbar-tu-kar-layiyan-ne-karbal.html
-# raw_sha256: 97a18217846576b801848c88889c276beec75032a028e061c69f473fd479d414
 ---
 
 1

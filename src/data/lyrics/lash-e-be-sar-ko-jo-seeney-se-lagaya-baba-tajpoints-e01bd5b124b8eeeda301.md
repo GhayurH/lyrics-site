@@ -8,9 +8,6 @@ poet: "Qasim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e01bd5b124b8eeeda301
-# source_url: https://tajpoints.com/2020/10/lash-e-be-sar-ko-jo-seeney-se-lagaya.html
-# raw_sha256: 3126df36ad77b1870e3122a586751f6516708b7a4500a3fce4615182be25ec3c
 ---
 
 1

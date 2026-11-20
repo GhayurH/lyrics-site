@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Hum Ali waaloṅ ko ae Sarwar o Rehaan kabhi
   Farsh-e-maatam ke siwa dhundne jaana nahiṅ achha
-# source_id: nohayonline:e7bc813c0480de55ddfb
-# source_url: https://www.nohayonline.com/details_content.php?id=413
-# raw_sha256: 98f1b477aed0a2aa4446f57f81bc65640c8876221cd4c8395554affb26a3c3ff
 ---
 آپ اچھے ہیں چچا پر یہ زمانہ نہیں اچھا
 پیاس اچھی ہے مگر آپ کا جانا نہیں اچھا

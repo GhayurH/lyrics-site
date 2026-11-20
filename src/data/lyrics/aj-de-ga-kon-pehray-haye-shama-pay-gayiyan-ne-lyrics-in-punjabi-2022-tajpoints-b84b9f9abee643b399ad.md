@@ -8,9 +8,6 @@ poet: "Sardar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b84b9f9abee643b399ad
-# source_url: https://tajpoints.com/2023/06/aj-de-ga-kon-pehray-haye-shama-pay.html
-# raw_sha256: a8b348b7a0e790eff09ded6a5ac12f01bbfee158e21eacea7d80cdb596f503d7
 ---
 
 1

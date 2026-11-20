@@ -48,9 +48,6 @@ romanLyrics: |-
   Nauha karne laga safar bhi ye keh kar Mazhar
   Khaima-e-Shaah ka us waqt ajab tha manzar
   Sun ke Shabbir ke nauhe ko behen kehne lagi
-# source_id: nohayonline:7ba471bec01b47ac6e49
-# source_url: https://www.nohayonline.com/details_content.php?id=3745
-# raw_sha256: 1e12b8bdd4cc5e4dd30439c16aa528aded0f045e17d03eb12343ef3b3b59761c
 ---
 لاشِ عباس پہ کہتے تھے حسین ابنِ علی
 بھائی کے مرنے سے بھائی کی کمر ٹوٹ گئی

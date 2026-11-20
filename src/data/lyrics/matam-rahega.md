@@ -57,14 +57,6 @@ romanLyrics: |-
   Ye matam o nauha hai qarz lahu par
   Tahrir hamaari aawaaz tumhaari
   Haaṅ zinda rakheṅge matam ko zamiṅ par
-# source_id: nohayonline:d595f61bd82ecd23d7b1
-# source_url: https://www.nohayonline.com/details_content.php?id=940
-# raw_sha256: 44014009df70039aa2e01bf00de2e06054540047ec5cfe8c214f54ee8b0eb515
-# source_id: nohawriteups:ccb0888905f287672a32
-# source_url: https://www.nohawriteups.org/matam-rahega/
-# original_html: snapshots/nohawriteups/original_html/ccb0888905f287672a32.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ccb0888905f287672a32.json
-# api_content_sha256: 42633b6d8c8b98de22cbe462795b286036d459683de31d9e24fc3f4470431dc1
 ---
 شہید کربلا کا
 مظلوم کربلا کا

@@ -8,12 +8,6 @@ reciter: "Meer Hasan Meer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:30129e884aae81a4df76
-# source_url: https://www.ziyaraat.net/api/noha/2363
-# raw_sha256: 52ad326156c54b2f9be1774c777d5f3e85beef36bd01a5290eb2b71ddd555f71
-# source_id: ziyaraat:733e2d4f1d9c566406a9
-# source_url: https://www.ziyaraat.net/api/noha/2440
-# raw_sha256: 1f9ad2711c481ca09dc67d367f27474697248da34c6a67290a0c3fa06436c70e
 ---
 
 Haey karryal jawan Akbar

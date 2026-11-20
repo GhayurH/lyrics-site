@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:26f8f1c9edd772506ea1
-# source_url: https://tajpoints.com/2023/04/rida-koi-nayi-hasan-sadiq-lyrics-in.html
-# raw_sha256: c51f795196211c29a5ba477f23d4e36e75850c0b2d974d4f4d074abc62abfa4c
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:62659d49dcd4af0490bf
-# source_url: https://tajpoints.com/2023/07/qaidaan-de-wich-sakina-wain-paye-lyrics.html
-# raw_sha256: 060c783caab4bb97fc71d6d2d5a0702f842ac6013bf631bedd2dc71b353c82d1
 ---
 
 1

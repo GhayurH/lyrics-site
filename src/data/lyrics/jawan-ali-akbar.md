@@ -52,15 +52,6 @@ romanLyrics: |-
   Ye sadaa dasht meiṅ deta tha Gharib-e-Zahra
   Haaye Akbar mera Akbar mera Akbar na raha
   Nur-e-nazar Akbar ae naaz-e-pidar Akbar
-# source_id: nohayonline:0819dbce0d807900f04d
-# source_url: https://www.nohayonline.com/details_content.php?id=1849
-# raw_sha256: 3d01ac9bc4140e7c71986046e4a299d54996dc3bfc43ee1ddffafa089fb481ea
-# source_id: nohawriteups:a1b7e159e404df471e74
-# source_url: https://www.nohawriteups.org/jawan-ali-akbar-ali-shanawar-2022-1444-lyrics/
-# original_html: snapshots/nohawriteups/original_html/a1b7e159e404df471e74.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a1b7e159e404df471e74.json
-# api_content_sha256: f6c89385d6145c61c9f06b4825f77fe5eb69016c9eeb4784db7c7083cd3ee3d8
-# editorial_note: Duplicate witness folded into canonical source record. Its verses are already present in this edition; no additional stanzas identified.
 ---
 راحتِ جاں ورد زباں
 ساعتِ اذاں جان علی اکبرم

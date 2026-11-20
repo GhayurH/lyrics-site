@@ -40,9 +40,6 @@ romanLyrics: |-
   Sar barehna Bibiyoṅ ko dekhe kaise Alamdar
   Unka sar Khurshid neze se hai girta baar baar
   Kis qadar behnoṅ ke parde ka unhe ehsas hai
-# source_id: nohayonline:127c0f6b311aafdcadde
-# source_url: https://www.nohayonline.com/details_content.php?id=2953
-# raw_sha256: f626ad376e3ad83e14668204e0a1159602418e5810bec1b6fbaa3741f85146ee
 ---
 
 دین احمد کی بقا تو کیوں نہ غازی یہ کہوں

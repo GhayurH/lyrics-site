@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:20b6d297acd734739d8f
-# source_url: https://tajpoints.com/2017/10/safar-phophiyaan-di-peshi-de-sonanre.html
-# raw_sha256: 24b392bc0a0c64225a0835a98464b765d1626ad998e9034f27c340e73e2e0829
 ---
 
 1

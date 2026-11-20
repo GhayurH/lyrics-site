@@ -8,9 +8,6 @@ poet: "Karim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3fcd2d086ec89eb3d106
-# source_url: https://tajpoints.com/2024/02/mola-raza-ke-baba-mohammed-abbas-karim.html
-# raw_sha256: 8440c8271f788da9a6a5168ccc71871cbf5342ad198574bce053bf11d483e04f
 ---
 
 1

@@ -66,9 +66,6 @@ romanLyrics: |-
   Aur Shimr ye haṅs kar kehta tha
   Kya teri madad ko aayega
   Ae nohagar Abbas ka sar
-# source_id: nohayonline:032e730e62c8cf0838d6
-# source_url: https://www.nohayonline.com/details_content.php?id=1541
-# raw_sha256: 64488de29a3b911a9671315d8ede4e8d39ec4ca5d89409b4cf33a14e0a10b40e
 ---
 
 آل نبی کا قافلہ بازار جو پہنچا

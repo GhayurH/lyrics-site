@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c6507ab48bcfa18a1e65
-# source_url: https://www.ziyaraat.net/api/noha/641
-# raw_sha256: 00c7d0c333b355de785dc7d20114921d6fa453958d205ecbee25589ab323ab12
 ---
 
 عاشور کی شب کرتے تھے اصحاب یہ نوحہ

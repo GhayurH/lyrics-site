@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f412330645e4d7fa84b8
-# source_url: https://tajpoints.com/2017/02/ghazias-diyaan-behna-wasdiyaan-pathraan.html
-# raw_sha256: 3fd4d2877c6328a2707aabba39cffb93c9f16aa40a4fc494e0f658e31baa40a4
 ---
 
 1

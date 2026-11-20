@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f0048bb797eb63dd3f03
-# source_url: https://tajpoints.com/2019/08/bint-e-nabi-hai-kehti-pehlu-pe-hath.html
-# raw_sha256: 3bdbc3fcb459c91ae03ae783ee71fa7fc6dff8b83ddd0aee6fd18790a7a07b67
 ---
 
 1

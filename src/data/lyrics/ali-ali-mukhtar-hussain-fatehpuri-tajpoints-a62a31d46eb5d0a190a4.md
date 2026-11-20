@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a62a31d46eb5d0a190a4
-# source_url: https://tajpoints.com/2024/01/ali-ali-mukhtar-hussain-fatehpuri.html
-# raw_sha256: d7beb742963e2117094f115b3ede1f90472bb5b450b7fc10ea6aa5b898d9930b
 ---
 
 1

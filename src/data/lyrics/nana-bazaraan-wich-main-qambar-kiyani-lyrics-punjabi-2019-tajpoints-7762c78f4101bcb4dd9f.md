@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7762c78f4101bcb4dd9f
-# source_url: https://tajpoints.com/2023/03/nana-bazaraan-wich-main-qambar-kiyani.html
-# raw_sha256: 759444828693c9be7b879ac2fc0b9972fe2bede7a5077c1a7442972cd95ad904
 ---
 
 1

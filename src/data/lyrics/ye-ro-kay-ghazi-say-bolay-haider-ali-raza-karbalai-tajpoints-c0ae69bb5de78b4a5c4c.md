@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c0ae69bb5de78b4a5c4c
-# source_url: https://tajpoints.com/2022/04/ye-ro-kay-ghazi-say-bolay-haider-ali.html
-# raw_sha256: 41d7273441e9cbb899a230d3dcd16c438f0975742ab2c6445d00747ebc63d8ea
 ---
 
 Ye Ro Kay Ghazi Say Bolay Haider Ali Raza Karbalai.

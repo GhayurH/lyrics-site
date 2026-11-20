@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a02e11b5ec1e3e8c89df
-# source_url: https://tajpoints.com/2020/12/tabarrukat-e-hussaini-lyrics-in-urdu.html
-# raw_sha256: 6ec625320c4f796129ab2c3ff5bf886d891f72bf3cf777e6fa95c42fa19ffbba
 ---
 
 Zamane Walo Adab Se Inhein Salam Karo.

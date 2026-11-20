@@ -83,12 +83,6 @@ romanLyrics: 'Bole padar se akbar barchi na khenchna
   Padte rahe hussain bhi ta dayr marsiya
 
   Maa kehti aayi nange sar barchi na khaynchna'
-# source_id: nohayonline:5ff14484c462bddfdf28
-# source_url: https://www.nohayonline.com/details_content.php?id=168
-# raw_sha256: e7807332eb54193a8dc7d9ec9e4e8622dc77a4ece08814138c44ead25e4a0967
-# source_id: ziyaraat:fdfffd96f119d98ad022
-# source_url: https://www.ziyaraat.net/api/noha/1180
-# raw_sha256: 8a39f622e57261854000e1c67d59329af5e2a86f59de692ff9ba2cd68d71802d
 ---
 
 بولے پدر سے اکبرؑ برچھی نہ کھینچنا

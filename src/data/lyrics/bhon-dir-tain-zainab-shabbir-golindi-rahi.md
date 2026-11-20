@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:eb3db2424b430fd63a1e
-# source_url: https://www.ziyaraat.net/api/noha/1269
-# raw_sha256: 0a985da713735ef21e6de750dc909471923303f0b13f9d272daacb81c0c89290
 ---
 
 بہوں دیر تایں زینب ؑ شبیر ؑ گولیندی رہی

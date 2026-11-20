@@ -58,9 +58,6 @@ romanLyrics: |-
   Hai dil soz Aamir ka itna tarannum
   Hai wo dard nauhe meiṅ Akhtar tumhare
   Ye sun sun ke Abid ka...
-# source_id: nohayonline:fef836dd6da903ee7154
-# source_url: https://www.nohayonline.com/details_content.php?id=3102
-# raw_sha256: ea0d700213c86f8a372107394fa593007f6be429ead5a8224692b5d4ee7bb6f6
 ---
 
 ۱

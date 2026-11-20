@@ -8,9 +8,6 @@ poet: "Nayab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3ada29421a5555db36fe
-# source_url: https://tajpoints.com/2022/10/marhaba-shere-e-ali-mir-hasan-mir.html
-# raw_sha256: 458ad7d59d8572e248d83219ed04351bc901e5c02fb8db470f7339d53952ee17
 ---
 
 Marhaba Shere-e-Ali Mir Hasan Mir.

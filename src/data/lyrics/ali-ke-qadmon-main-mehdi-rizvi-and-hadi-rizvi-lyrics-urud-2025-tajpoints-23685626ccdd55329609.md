@@ -8,9 +8,6 @@ poet: "Ahsaan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:23685626ccdd55329609
-# source_url: https://tajpoints.com/2025/08/ali-ke-qadmon-main-mehdi-rizvi-and-hadi.html
-# raw_sha256: 985e13309a25c82acc3c490b61f4e9a075487f2eb27f56848f6d279250d32e2d
 ---
 
 1

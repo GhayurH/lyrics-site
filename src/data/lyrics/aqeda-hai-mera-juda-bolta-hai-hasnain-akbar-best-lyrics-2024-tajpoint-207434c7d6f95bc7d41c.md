@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:207434c7d6f95bc7d41c
-# source_url: https://tajpoint.com/aqeda-hai-mera-juda-bolta-hai-hasnain-akbar/
-# raw_sha256: 3190dede4e184fd4d5411dcf4e5b546f8f68b4c6f67b6aef88b822340f9e9df8
 ---
 
 1

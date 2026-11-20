@@ -8,9 +8,6 @@ poet: "Ali"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9986f481913f24f6a35d
-# source_url: https://tajpoints.com/2022/12/aye-mere-baba-syed-ali-naqvi-lyrics-in.html
-# raw_sha256: 96f169fd73636666ffc54d845ab0db604b843ea7384e6eec0a3bb221dee0c45b
 ---
 
 Aye Mere Baba Syed Ali Naqvi Lyrics

@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ecaaccaa730c781bc471
-# source_url: https://tajpoints.com/2022/12/ali-ke-samne-mara-syed-mohammad-shah.html
-# raw_sha256: 1aaad8de96001fcbaef030822036ff27031567a7429b9206523c72c4a70a7c8f
 ---
 
 1

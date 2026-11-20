@@ -70,9 +70,6 @@ romanLyrics: |-
   Zindan-e-Shaam meiṅ jahaaṅ Bibi ka hai mazaar
   Raatoṅ ko dhimi dhimi si aati hai ek pukaar
   Kaanoṅ se mere khun abhi bhi tapakta hai
-# source_id: nohayonline:6f12ff7bddfe217e229e
-# source_url: https://www.nohayonline.com/details_content.php?id=336
-# raw_sha256: 5e0b6c61dc4e0a724dcbb80e8a102ccb8c7aab7e3df2a84ebe2330e5371c7870
 ---
 زندانِ شام میں جہاں بی‌بی کا ہے مزار
 راتوں کو دھیمی دھیمی سی آتی ہے اک پُکار

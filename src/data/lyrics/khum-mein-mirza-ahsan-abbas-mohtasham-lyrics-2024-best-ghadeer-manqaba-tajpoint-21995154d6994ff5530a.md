@@ -8,9 +8,6 @@ poet: "Mohtasham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:21995154d6994ff5530a
-# source_url: https://tajpoint.com/khum-mein-mirza-ahsan-abbas-mohtasham-lyrics/
-# raw_sha256: 5893442a2baf7cf8831aede64419c01a54caf788087133602cf56c0db9141fa9
 ---
 
 1

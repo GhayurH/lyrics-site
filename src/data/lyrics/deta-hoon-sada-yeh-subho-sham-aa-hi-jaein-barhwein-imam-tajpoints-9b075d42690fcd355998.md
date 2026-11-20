@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9b075d42690fcd355998
-# source_url: https://tajpoints.com/2019/04/deta-hoon-sada-yeh-subho-sham-aa-hi.html
-# raw_sha256: 6e9a566843d50ce57d779b99387ce1c3b3c44415d8cd1da88cef44e748a018e0
 ---
 
 1

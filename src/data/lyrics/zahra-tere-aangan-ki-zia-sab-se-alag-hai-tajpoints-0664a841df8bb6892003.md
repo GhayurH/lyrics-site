@@ -8,9 +8,6 @@ poet: "Nisa"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0664a841df8bb6892003
-# source_url: https://tajpoints.com/2018/08/zahra-tere-aangan-ki-zia-sab-se-alag-hai.html
-# raw_sha256: 45cdcf099e0224d8608490d8a73753ebe7eef3a12fadb9a88c12c89a9b15deae
 ---
 
 1

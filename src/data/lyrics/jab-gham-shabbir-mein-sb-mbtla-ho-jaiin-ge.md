@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:82ffdb78a65c693caad5
-# source_url: https://www.ziyaraat.net/api/noha/22
-# raw_sha256: 76f8b8fe949d9cab2b189cfeacad61800326422931947a22778d709fdb5a88f6
 ---
 
 Jab gham-e-shabbir mein sub, mubtila ho jaayenge

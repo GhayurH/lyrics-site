@@ -52,9 +52,6 @@ romanLyrics: |-
   Ae Shadman o Majid kaise parhe ye manzar
   Jab halq rakh rahi thi Zahra gulu-e-sheh par
   Gardan jhuka jhuka ke khanjar hata hata ke
-# source_id: nohayonline:a689be3f0f4d7221184f
-# source_url: https://www.nohayonline.com/details_content.php?id=3051
-# raw_sha256: 2016bc71b86c1d4fac3d4387d91e3a4c75bd670c33d5b4f526747bdfcac6c225
 ---
 گردن سے شہ کی خنجر قاتل قریب تھا
 زہرا سرہانے آ گئی کرتی ہوئی بکا

@@ -57,9 +57,6 @@ romanLyrics: |-
   De dukhiyaari Sughra ko
   Karti rahi bimaar ye noha
   Aaoge to kab aaoge
-# source_id: nohayonline:46324759967820eacb72
-# source_url: https://www.nohayonline.com/details_content.php?id=1397
-# raw_sha256: 77c69e3875b2a5c012577e1ba5fc4156714ae4538a40c13e717c80b4bf8543d2
 ---
 
 کہتی تھی یہ فاطمہ صغریٰ

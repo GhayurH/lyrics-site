@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ae9db4dc569b83b2cac6
-# source_url: https://www.ziyaraat.net/api/noha/1900
-# raw_sha256: 31a4ac5342107779a6901bf87267b26e20198a9925c221b172b4496ce9d6b0d5
 ---
 
 Kaise jiye gi Sughra Akbar teray baghair

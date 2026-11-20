@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:304b3c6a00c36a5faa76
-# source_url: https://tajpoints.com/2023/05/qurban-raza-jan-mir-sajjad-mir-lyrics.html
-# raw_sha256: 57e5eb9d6fcf00ead662419a4a47fe703adaa074e0260b42f23deaeedd0fd25b
 ---
 
 1

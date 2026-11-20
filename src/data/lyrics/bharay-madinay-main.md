@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f116c9fe5a50ba1bfcfd
-# source_url: https://tajpoints.com/2026/10/bharay-madinay-main-mir-hasan-mir.html
-# raw_sha256: e5ae586d57aa2d38018298d082f4f016763b519ec010936d6b0e9643fa3f8466
-# source_title_original: Bharay Madinay Main Mir Hasan Mir 2026 Lyrics In Urdu
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Yeh Haal Ho Gaya Baba Bharay Madine Mein

@@ -8,9 +8,6 @@ poet: "Nasim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c3e8a179d40465470415
-# source_url: https://tajpoints.com/2025/06/mola-ali-ka-sehra-mudassir-karbalai.html
-# raw_sha256: a7bb697853a448c582d66852a605c8dba7ec8f656c8242f548aefc306dbf11f8
 ---
 
 Mola Ali Ka Sehra Mudassir Karbalai

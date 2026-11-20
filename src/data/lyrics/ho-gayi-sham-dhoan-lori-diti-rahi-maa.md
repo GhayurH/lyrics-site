@@ -8,9 +8,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:bc0a45394c5e386365be
-# source_url: https://www.ziyaraat.net/api/noha/1397
-# raw_sha256: ade7fa16f8e3ec549c6d01d6cb471c8b1422d4f3753b24a65d21a8b8726fa6fb
 ---
 
 ہو گئ شام دھواں لوری دیتی رہی ماں

@@ -76,14 +76,6 @@ romanLyrics: 'Pukari Zainab ghareeb ro ro yateem kahte hain log humko
   Hile na kis tarha arsh e aala
 
   Bayan tha zainab ka shaah e waala'
-# source_id: nohayonline:15e43a4e49f65e3f3c9c
-# source_url: https://www.nohayonline.com/details_content.php?id=1116
-# raw_sha256: 58c514445fa8c8dae4449c26ced6a541333be77a1a8a7c04123b2094026fbc87
-# source_id: ziyaraat:f110207f45dae20f774a
-# source_url: https://www.ziyaraat.net/api/noha/833
-# raw_sha256: c3916d03ca16f7efad1fc55ccafcf3ccb2a750c080719a7b164d55cbf32e271a
-# added_stanza_source: roman:kalam-nohayonline-15e43a4e49f65e3f3c9c
-# added_stanza_source: urdu:kalam-nohayonline-15e43a4e49f65e3f3c9c
 ---
 
 پکاری زینبؑ غریب رو رو، یتیم کہتے ہیں لوگ ہم کو

@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:3d2be231886300a23f6d
-# source_url: https://tajpoint.com/akbar-de-naal-lasha-zainab-da-cha-nayi-sakda/
-# raw_sha256: 061de9597a5f921e4d69574d2ee11c7a8b49b4b0538c5155d426cf10684aec9b
 ---
 
 1

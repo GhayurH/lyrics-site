@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:bec107401130a669159e
-# source_url: https://www.ziyaraat.net/api/noha/2897
-# raw_sha256: 275ed330ebda494a4aeb52e51d0f9bf619cd497b776974b4fffc2ab2e5b5f2d3
 ---
 
 زخمی پہلو ہے جَلتا دروازہ

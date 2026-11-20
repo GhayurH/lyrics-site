@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4b724c91825d325d54ca
-# source_url: https://tajpoints.com/2024/03/tauheed-parastaan-di-chal-gayi-talwar.html
-# raw_sha256: 3651ff556a5507c3364446e89eb4843d2198d0efe32e5ffb669eda5ea5ebc825
 ---
 
 Tauheed Parastaan Di Chal Gayi Talwar Ali Te.

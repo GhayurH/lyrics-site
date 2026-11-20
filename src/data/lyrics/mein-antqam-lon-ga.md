@@ -8,9 +8,6 @@ reciter: "Ali Safdar Rizvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:8bec9d84075536c73880
-# source_url: https://www.ziyaraat.net/api/noha/2020
-# raw_sha256: b721e7c592daadcdf3292b86dcb10cf5a4a6481f8075a28c20e4ccafe414a5e7
 ---
 
 1

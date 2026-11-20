@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4a17ef752ce022752e68
-# source_url: https://tajpoints.com/2025/07/ali-ka-khayal-mehdi-rizvi-lyrics-urdu.html
-# raw_sha256: 7714a27b5f95622c67be259130ed72f336340a9d5a99073636722754213d5178
 ---
 
 Mere Tu Dil Mein Ali Ka Khiyal Rehta Hai.

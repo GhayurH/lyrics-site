@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dd644bb882c6599e1c52
-# source_url: https://tajpoints.com/2017/02/bazar-mein-abbasas-ki-tasveer-hai-fizasa.html
-# raw_sha256: dc5dcf9c5db0b85fe0733e30a8f0da3c58ffb5d16d1cba6ba0ad0dbe42bca0e2
 ---
 
 1

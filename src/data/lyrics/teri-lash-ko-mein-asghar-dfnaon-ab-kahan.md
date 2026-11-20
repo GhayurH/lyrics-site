@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:6b2cfab9b36146a7e23c
-# source_url: https://www.ziyaraat.net/api/noha/1902
-# raw_sha256: 9f3eb7735d31c2d5c50f0cc639650a7cf3a7b07d632f524327bd3c2548b71e00
 ---
 
 Teri laash ko may Asghar dafnaoon ab kahaan

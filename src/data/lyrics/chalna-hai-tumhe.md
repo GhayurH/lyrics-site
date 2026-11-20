@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:7307a386d50f63b333df
-# source_url: https://www.nohawriteups.org/chalna-hai-tumhe/
-# raw_sha256: e823a64a7f843c357beb4621b6b313c39da7ad654e86494dd602d9d79b2c6b2d
-# source_id: ziyaraat:cdfe95ed8bdf2880eceb
-# source_url: https://www.ziyaraat.net/api/noha/1181
-# raw_sha256: 94cc795d91c856fdb2bdef0e717af0fe3b2d6ed1566a9e3379ea2805dc4d1777
 ---
 
 1

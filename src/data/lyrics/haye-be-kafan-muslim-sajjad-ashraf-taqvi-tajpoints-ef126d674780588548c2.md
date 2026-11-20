@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ef126d674780588548c2
-# source_url: https://tajpoints.com/2022/07/haye-be-kafan-muslim-sajjad-ashraf.html
-# raw_sha256: c64190a2da1d57dd9df85de0a608a5d404fbf17f7d2df5e8f3759bd8e40d6e59
 ---
 
 1

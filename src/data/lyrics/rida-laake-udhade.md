@@ -56,9 +56,6 @@ romanLyrics: |-
   Khule saroṅ ke wafadaar rida laake udhade
   Ae mere ghazi alamdar...
   Khula hai sar...
-# source_id: nohayonline:bc5238653560e30d76ee
-# source_url: https://www.nohayonline.com/details_content.php?id=556
-# raw_sha256: f3bcd31fdb70ede4f6ad17ff96fdaccf5ba5cdabcb6c3dc66c4693472f59614b
 ---
 
 ۱

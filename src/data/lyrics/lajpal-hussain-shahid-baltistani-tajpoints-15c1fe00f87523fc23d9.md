@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:15c1fe00f87523fc23d9
-# source_url: https://tajpoints.com/2022/03/lajpal-hussain-shahid-baltistani-lyrics.html
-# raw_sha256: fe09078e9ccecc64fa09c79edefd485b04e5dda02ad9c2a1fab8274f7010a772
 ---
 
 Lajpal Hussain Shahid Baltistani Lyrics

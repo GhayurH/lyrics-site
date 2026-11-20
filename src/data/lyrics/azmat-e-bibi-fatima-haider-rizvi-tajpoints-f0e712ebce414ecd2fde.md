@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f0e712ebce414ecd2fde
-# source_url: https://tajpoints.com/2023/01/azmat-e-bibi-fatima-haider-rizvi-lyrics.html
-# raw_sha256: 1d9ff4176c53264ee4a53fd227c925f4637c92be22ae782356a7f8f41a1e774b
 ---
 
 1

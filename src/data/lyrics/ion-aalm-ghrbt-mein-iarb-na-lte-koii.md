@@ -26,9 +26,6 @@ romanLyrics: |-
   4
   Bazar may Kufe ke Zainab ne kaha ro kar
   Yuṅ parda nashiṅ ya Rab dar dar na phire koi
-# source_id: ziyaraat:a1884139bdac135ee8d7
-# source_url: https://www.ziyaraat.net/api/noha/725
-# raw_sha256: 2d71e50191de0853665df378aa3895b9dec34b1de5fe4016ded50249f288cbb7
 ---
 
 یوں عالمِ غربت میں یارب نہ لٹے کوئی

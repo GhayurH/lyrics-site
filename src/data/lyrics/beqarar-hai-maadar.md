@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Ae Surur wo muztar bezabaaṅ ki turbat par
   Keh rahi thi ro ro kar haaye jal gaya jhula
-# source_id: nohayonline:ef0764ae999c58a16945
-# source_url: https://www.nohayonline.com/details_content.php?id=3727
-# raw_sha256: 0e5601faa539309edb59976fb8c8ff3c7d2a49f8c5984a271054c94b5381f429
 ---
 بیقرار ہے مادر ہائے جل گیا جھولا
 ہائے جل گیا جھولا ہائے جل گیا جھولا

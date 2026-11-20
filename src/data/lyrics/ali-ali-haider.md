@@ -10,10 +10,6 @@ reciter: "Farhan Ali Waris"
 tags: []
 aliases: []
 published: true
-# source_id: tajpoints:67ef88820987030819cf
-# source_url: https://tajpoints.com/2018/03/ali-ali-haider.html
-# raw_sha256: 998df005eebe9a261e4459e50dbe2ea215d865617fa771a674bcdafb1ec7ebb3
-# opening_qata_poet: Hasnain Akbar
 romanLyrics: |-
   Abhi to Bint-e-Asad thiṅ tawaf-e-Kaba meiṅ
   Ke pathroṅ meiṅ khushi se ajab hilali thi

@@ -8,9 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ff2f47d61f4a780f61b
-# source_url: https://tajpoints.com/2020/03/maula-maula-haider-haider-boltay-rahiye.html
-# raw_sha256: 336be55e183815340cb9f01c59bde5fdc413082295c2ca29094ffa6ad0197406
 ---
 
 1

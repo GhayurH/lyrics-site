@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0ab430faf8193c61a392
-# source_url: https://tajpoints.com/2023/07/yaad-ujari-nu-veer-karda-aye-ch-faiyaz.html
-# raw_sha256: 07c0e05689c020bb9513a98633ae4d32d92a1cd7efe3a092fa78a9f1e3b8c17b
 ---
 
 1

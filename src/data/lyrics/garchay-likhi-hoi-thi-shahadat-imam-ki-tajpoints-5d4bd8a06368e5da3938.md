@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5d4bd8a06368e5da3938
-# source_url: https://tajpoints.com/2017/02/garchay-likhi-hoi-thi-shahadat-imamas-ki.html
-# raw_sha256: e7c9aaf5caa2665ec76dd04fc07f74b51bbb9c6b6784e0b870658b2063685449
 ---
 
 1

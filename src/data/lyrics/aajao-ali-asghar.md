@@ -56,9 +56,6 @@ romanLyrics: |-
   Iqbal ban meiṅ saabir maaṅ ye dua karti hai
   Maatam jo kar rahe haiṅ unki hi zindagi hai
   Bano ka tha ye nauha aajao Ali Asghar
-# source_id: nohayonline:00f56ad761b045ed3caf
-# source_url: https://www.nohayonline.com/details_content.php?id=929
-# raw_sha256: 90d2e2300b652ff86e902dac5c017501fe97c20364226bc9c361d08cf27ad7f5
 ---
 
 مادر کا یہ نوحہ تھا آجاؤ علی اصغر

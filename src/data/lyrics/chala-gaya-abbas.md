@@ -71,9 +71,6 @@ romanLyrics: |-
   Kaha ye qaimon meiṅ jab sheh ne mar gaya ghazi
   Giri zamin pe ghash khaa ke bibyaṅ saari
   Koi bhi sun nahi paaya chala gaya abbas
-# source_id: nohayonline:5077fbc803bfa5786b19
-# source_url: https://www.nohayonline.com/details_content.php?id=2738
-# raw_sha256: 264617c79e73ba12318557388a6bb0ea9fab526f40d077dd5a44e03cad8f899b
 ---
 علم جو دریا سے آتا ہوا دکھائی دیا
 سکینہ در پہ جو پہنچیں تو باپ کو دیکھا

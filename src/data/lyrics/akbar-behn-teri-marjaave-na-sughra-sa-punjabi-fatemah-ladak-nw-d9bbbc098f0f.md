@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d9bbbc098f0f43409221
-# source_url: https://www.nohawriteups.org/akbar-behn-teri-marjaave-na-sughra-sa-punjabi-fatemah-ladak-nohay-2023-1445/
-# original_html: snapshots/nohawriteups/original_html/d9bbbc098f0f43409221.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d9bbbc098f0f43409221.json
-# api_content_sha256: 84bbe4cf88a0635d8e781e11409e5c697fd58c8f0a4729845474c4d298369ad1
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Akbar behn teri mar jaave na Sughra, chan veer hun te aaja

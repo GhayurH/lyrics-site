@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:97eb0fa023af6a797ff0
-# source_url: https://tajpoints.com/2019/04/sab-mil-ke-kaho-syed-o-sardar-qalandar.html
-# raw_sha256: e7176319833fc952bdb8c9526fe3c28ce17da119d04dfb315dfeb20cd4573685
 ---
 
 1

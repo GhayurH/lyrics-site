@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:18afd45da26d1514e806
-# source_url: https://tajpoints.com/2020/12/mera-waris-hai-ali-lyrics-in-urdu-and.html
-# raw_sha256: 6db6c252ad921cb769344fa8e36f67e997efbcff27d612cb3abdf6de3ba70d8c
 ---
 
 Mera Waris Hai Ali Write Up

@@ -69,9 +69,6 @@ romanLyrics: |-
   Sajjad se bimaar ke bimaar haiṅ donoṅ
   Haaṅ teri duaaoṅ ke talabgaar haiṅ donoṅ
   Zainab mushkil se sada Nayyar o Aamir ko bachaana
-# source_id: nohayonline:3bef180e24f0afca8c53
-# source_url: https://www.nohayonline.com/details_content.php?id=1284
-# raw_sha256: d98d3b37040f496175fe4c477643c1b03fb0568ed61aea56d712105503b9cf27
 ---
 
 ہوتے ہی رہا فرش عزا میرا بچھانا

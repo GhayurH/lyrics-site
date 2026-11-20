@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b569c9ffa8e0db26d5da
-# source_url: https://tajpoints.com/2017/02/keh-raha-hai-yehi-khuda-e-rasoolsaww.html
-# raw_sha256: 3311e49037fb522c84a7fbe1a1ca9ef9ad3712ee563bba0bd117ca31d7a0f831
 ---
 
 Keh Raha Hai Yehi Khuda-e-Rasool.

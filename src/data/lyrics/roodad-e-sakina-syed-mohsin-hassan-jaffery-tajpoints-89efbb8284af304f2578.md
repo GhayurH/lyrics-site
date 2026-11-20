@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:89efbb8284af304f2578
-# source_url: https://tajpoints.com/2024/08/roodad-e-sakina-syed-mohsin-hassan.html
-# raw_sha256: c79153210d5a1e0df5920125b1ff1f8a897a5794ff0530e657a02e6f3e1a7ca0
 ---
 
 Roodad e Sakina Syed Mohsin Hassan Jaffery

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:26e404fe3f8656753c71
-# source_url: https://tajpoints.com/2020/12/mehndiyaan-wale-nu-wekhin-aan-sawerey.html
-# raw_sha256: ae397202794364ec9c70b1020e83bd264b196efdf62a2c84419327e60deaf143
 ---
 
 1

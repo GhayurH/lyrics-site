@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:35636cb8fe2f7330cb9c
-# source_url: https://tajpoint.com/ghadir-kay-din-hasnain-akbar-lyrics-2024/
-# raw_sha256: 3ebd992fbed5331f6bf3753b746758bbec11038e87d8c0c9d2f26d809920fb49
 ---
 
 Machal Machal Aye Mare Dill Ghadir Kay Din.

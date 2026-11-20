@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b5024793a458411cd02e
-# source_url: https://tajpoints.com/2017/02/kul-nazm-e-kainat-hai-zahrasa-ke-hath.html
-# raw_sha256: 4d949c11a628b6ff60323c2204f8d9d5bcf49859ff8d00316943cfa6ee8ac91c
 ---
 
 Zahra Ke Hath Mein.

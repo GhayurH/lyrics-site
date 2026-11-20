@@ -8,9 +8,6 @@ poet: "Shad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:be2e98265956730fdabf
-# source_url: https://tajpoint.com/khon-roye-ga-na-pocho-abid-e-bemar-se-lyrics-urdu/
-# raw_sha256: 823e7430d9a33f4f45112ee2fda103849dc9a8634c3ec32b737a0994a2a6c941
 ---
 
 Khon Roye Ga Na Pocho Abid e Bemar Se.

@@ -72,9 +72,6 @@ romanLyrics: |-
   Chehlum pe jaise aati hai Zainab bhi Shaam se
   Izn-e-safar mile jo Takallum Imam se
   Har ek qadam zuhur ki karte hue dua
-# source_id: nohayonline:6bb0b7e01ab30db5ba33
-# source_url: https://www.nohayonline.com/details_content.php?id=1600
-# raw_sha256: 047c4b2724e62a0b7d3b4e31ae9a31e83cdfd071b4ad30958ea0913e66664697
 ---
 لو آ گیا بلاوا مظلوم کربلا کا
 کربلا چلو کربلا چلو کربلا چلو

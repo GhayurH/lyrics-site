@@ -8,9 +8,6 @@ poet: "Raqib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6a64dbc64afda400951c
-# source_url: https://tajpoints.com/2017/02/jahan-hussainas-ka-roza-dikhai-deta-hai.html
-# raw_sha256: d1c44746feb552628d161c302f0bdf0e3c727d676d570384d35ca0b147ed4d85
 ---
 
 1

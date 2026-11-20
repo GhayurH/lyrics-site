@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7d343b9ba86d48e995e3
-# source_url: https://tajpoints.com/2020/03/churwa-do-humein-gham-se-yehi-waqt-e.html
-# raw_sha256: 3784683a3059f977bf9a9da14c4b4be7a5f8fa51cce1d8b58264e2c2f98a9a99
-# source_title_original: Churwa Do Humein Gham Se Yehi Waqt-e-Karam Hai 2020
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Churwa Do Humein Gham Se Yehi Waqt-e-Karam Hai

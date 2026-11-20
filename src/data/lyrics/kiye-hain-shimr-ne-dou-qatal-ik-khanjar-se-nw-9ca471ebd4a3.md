@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9ca471ebd4a31c3aba08
-# source_url: https://www.nohawriteups.org/kiye-hain-shimr-ne-dou-qatal-ik-khanjar-se/
-# original_html: snapshots/nohawriteups/original_html/9ca471ebd4a31c3aba08.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9ca471ebd4a31c3aba08.json
-# api_content_sha256: 87181068429772cd0a06a9f5464b79db1ba8fdf25bcf5124164742e76f7fc935
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Kiye Hain Shimr Ne Dou Qatal Ik Khanjar Se,

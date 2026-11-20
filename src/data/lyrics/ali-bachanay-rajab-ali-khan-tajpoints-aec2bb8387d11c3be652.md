@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aec2bb8387d11c3be652
-# source_url: https://tajpoints.com/2022/01/ali-bachanay-rajab-ali-khan-lyrics-in.html
-# raw_sha256: 361fd4f36d5b2828146171f8f25d5021193120ddc3759fc10d2df4ae2b485fb4
 ---
 
 1

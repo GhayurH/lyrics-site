@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:953ef2edad56035964db
-# source_url: https://tajpoints.com/2021/03/le-ke-shabbar-ki-dua-arsh-se-aayi.html
-# raw_sha256: 6adaac59e4ae76ff8fd4b316988d687eef705c5c9ba2960a91253cf042a70e50
 ---
 
 Le Ke Shabbar Ki Dua Arsh Se Aayi Mehndi.

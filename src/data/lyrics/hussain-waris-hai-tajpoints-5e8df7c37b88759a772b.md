@@ -8,9 +8,6 @@ poet: "Navaid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5e8df7c37b88759a772b
-# source_url: https://tajpoints.com/2020/03/hussain-waris-hai-lyrics-in-urdu-and.html
-# raw_sha256: d6ef953d5dbcc045eadcd2779e3411689867c099bde26049cc3fea43eb2ed4e2
 ---
 
 Suno Khuda-o-Khudi Ka Hussain Waris Hai.

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9acc18dc8e4e99a355d5
-# source_url: https://tajpoints.com/2023/02/kariyaan-mazloom-imam-diyaan-koi-waris.html
-# raw_sha256: 68f1259de556bcd4fecc9a675955b84ae3c4ad343a710375b4520d77515ad294
 ---
 
 Kariyaan Mazloom Imam Diyaan Koi Waris Aan Ke Laway

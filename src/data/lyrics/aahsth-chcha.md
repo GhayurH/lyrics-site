@@ -99,9 +99,6 @@ romanLyrics: |-
   Gale dhire laga, dekh mujh ko zara
   Main huṅ zakhmi bara, aahista chacha
   -
-# source_id: ziyaraat:96d0db5b8f04cb83aaa9
-# source_url: https://www.ziyaraat.net/api/noha/1009
-# raw_sha256: 91a5cd228955261d1b281d9c9e7fbebb5ec79d6582df4ae306f74f2493666976
 ---
 
 یا حسینؑ یا حسینؑ

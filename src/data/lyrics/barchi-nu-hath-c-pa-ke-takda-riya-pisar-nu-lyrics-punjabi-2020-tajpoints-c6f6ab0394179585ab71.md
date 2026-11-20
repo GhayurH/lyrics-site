@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c6f6ab0394179585ab71
-# source_url: https://tajpoints.com/2020/11/barchi-nu-hath-c-pa-ke-takda-riya-pisar.html
-# raw_sha256: c6fdec62107daca75fd1a232edff3cc2c8f2dd6ddd56265a6af1c816efa70ffb
 ---
 
 Barchi Nu Hath C Pa Ke Takda Riya Pisar Nu.

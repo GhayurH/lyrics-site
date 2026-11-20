@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:e0064f3964266a9a9783
-# source_url: https://www.ziyaraat.net/api/noha/1922
-# raw_sha256: b4de547c59f95903979d5b09ae1cc2f29f426ae5792d5060dd9acc81fc2468e2
 ---
 
 اب بھی زندان سے رونے کی صدا آتی ہے

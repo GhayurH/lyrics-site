@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:61e2a3c216ce648d5a9e
-# source_url: https://tajpoints.com/2026/10/fatima-zehra-teri-hammad-nagri-lyrics.html
-# raw_sha256: fbb80e2b75b7199fdc87612ab911b3b949b7b00e3fb0091f7365068ee5c6fe7d
 ---
 
 Baad Tere Baba Gayi Bar Sar-e-Darbar Fatima Zahra Teri Fatima Zahra.

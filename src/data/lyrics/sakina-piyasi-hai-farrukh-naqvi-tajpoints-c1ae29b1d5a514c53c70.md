@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c1ae29b1d5a514c53c70
-# source_url: https://tajpoints.com/2022/09/sakina-piyasi-hai-farrukh-naqvi-lyrics.html
-# raw_sha256: 04bbdfbe3f5c00f0f28ad10cb71655c8a759fb0e68e03e9714f32406f48eaa9c
 ---
 
 Sakina Haye Safar Mein Yeh Dukh Uthati Hai Sakina Pyasi Hai.

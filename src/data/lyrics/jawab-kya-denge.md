@@ -62,9 +62,6 @@ romanLyrics: |-
   Agar kaheṅge wo ke Akbar ki jaaṅ bachaani hai
   Jawaan bete ki mayyat hameṅ uthaani hai
   Jawaaṅ pisar ka Qamar hum shabaab kya deṅge
-# source_id: nohayonline:9b01179c7074d5d27497
-# source_url: https://www.nohayonline.com/details_content.php?id=2354
-# raw_sha256: 7d3a6d5d3ec663aeb3e530e322c49ebf545e5cfc9c8e50b8af635acb3d1a96e0
 ---
 عمل سے ہاتھ ہے خالی حساب کیا دینگے
 امامِ عصر کو آخر جواب کیا دینگے

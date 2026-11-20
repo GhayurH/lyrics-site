@@ -8,9 +8,6 @@ poet: "Shahid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b75be04f9d111bca0c8d
-# source_url: https://tajpoints.com/2026/01/qasim-da-sehra-afzal-jamal-lyrics.html
-# raw_sha256: c74ac2e9ed89fcb61fd0c45aa33b501194f7c72f93c29e98e90e749f7b510708
 ---
 
 1

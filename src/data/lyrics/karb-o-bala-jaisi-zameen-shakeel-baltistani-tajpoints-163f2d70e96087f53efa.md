@@ -8,9 +8,6 @@ poet: "Ansar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:163f2d70e96087f53efa
-# source_url: https://tajpoints.com/2022/04/karb-o-bala-jaisi-zameen-shakeel.html
-# raw_sha256: d2d488dd954da1a8401d6b40cf673039d8e9e9811629b7cd608ed55ef70c1fb7
 ---
 
 1

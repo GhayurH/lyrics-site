@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:41034baedbfcdc754eaa
-# source_url: https://tajpoint.com/kaisi-yeh-eid-ayi-aoulad-e-murtaza-par-lyrics-urdu/
-# raw_sha256: 99a137bf40d91acbdd9ccf07831465a7f1193d5d29f4fa1810f0af581e92c7e6
 ---
 
 Kaisi Yeh Eid Ayi Aoulad e Murtaza Par.

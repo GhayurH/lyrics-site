@@ -56,9 +56,6 @@ romanLyrics: |-
   Rauze pe tere aa ke parhe nauha ye pur gham
   Bas dil meiṅ Najaf ki ye tamanna hai Sakina
   Shehzaadi Sakina meri shehzaadi Sakina
-# source_id: nohayonline:529f31786bb6d5d8b737
-# source_url: https://www.nohayonline.com/details_content.php?id=1792
-# raw_sha256: 712fb4deda38d1590e16ad7fa7dad4f0ff03d787459b911571b26ed228415ac7
 ---
 
 ہائے سکینہ شہزادی سکینہ

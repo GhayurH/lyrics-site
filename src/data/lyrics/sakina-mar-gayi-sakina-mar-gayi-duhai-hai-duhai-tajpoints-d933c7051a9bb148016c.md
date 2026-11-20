@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d933c7051a9bb148016c
-# source_url: https://tajpoints.com/2019/10/sakina-mar-gayi-sakina-mar-gayi-duhai.html
-# raw_sha256: 4257ad5b0503920d2fd914715b974684c5ac4f01c3da1e571578ba9d1ad24db5
 ---
 
 Sakina Mar Gayi Sakina Mar Gayi Duhai Hai Duhai.

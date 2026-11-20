@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:7f14e52ee677d3d70b83
-# source_url: https://www.ziyaraat.net/api/noha/1792
-# raw_sha256: 3644900aef38e834cae81722497ae9c52805135f67ff7831655d3f147381ae10
 ---
 
 Yun bewatan kabhi na kisiko khuda kare...

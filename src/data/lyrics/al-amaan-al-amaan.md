@@ -53,12 +53,6 @@ romanLyrics: |-
   Bali Sakina qaid hai zindaṅ meiṅ aaj bhi
   Akbar hai intezar meiṅ beti Husain ki
   Ab bhi sunai deti hai bachchi ki hichkiyaṅ
-# source_id: nohayonline:efb428638c41dab8c531
-# source_url: https://www.nohayonline.com/details_content.php?id=1069
-# raw_sha256: 6078fbd097d9001c495c433bef245eeac41a5253b9aec2ac847f53f3e02605d8
-# source_id: tajpoints:219e1f98fe106fa343f1
-# source_url: https://tajpoints.com/2017/02/al-amaan-al-amaan-ya-sahib-e-az-zamaan.html
-# raw_sha256: e4e5c129cc6d352fe14eb33c6b52c642a34c3d377746d63e6add50c68dc22ca2
 ---
 الاماں الاماں یا صاحب الزمان
 ٹوٹی ہوئی ہے آج بھی زہرا کی پسلیاں

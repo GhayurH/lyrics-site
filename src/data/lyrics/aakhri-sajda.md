@@ -98,9 +98,6 @@ romanLyrics: |-
   Allah Allah Allah
   Subhaana rabbiyal a'laa
   Husain Husain ya Husain
-# source_id: nohayonline:768e2607a9b1d677bfee
-# source_url: https://www.nohayonline.com/details_content.php?id=2796
-# raw_sha256: fbd842f5f844799a277f9cb367fd8af886f7baf8228ddfc86ddf4916b94c4f20
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Touqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9882dad3c5d522cb2c5a
-# source_url: https://tajpoints.com/2024/01/ya-ali-bismillah-rizwan-ali-zaidi.html
-# raw_sha256: 89fb6a0929b897d87c7a16714c005450a0c7948a02b7e45dd65fd452e848681b
 ---
 
 Ya Ali Bismillah Rizwan Ali Zaidi

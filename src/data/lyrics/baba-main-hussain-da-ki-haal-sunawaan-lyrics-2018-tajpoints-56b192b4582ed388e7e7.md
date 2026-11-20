@@ -8,13 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:56b192b4582ed388e7e7
-# source_url: https://tajpoints.com/2018/09/baba-main-hussain-da-ki-haal-sunawaan.html
-# raw_sha256: 08c47839d7a51af418b8823142b9f14fa50cb098d7558f4c3258f082f0c4c1d2
-# additional_source_id: nohawriteups:61ce5ba9134dd8dc2259
-# additional_source_url: https://www.nohawriteups.org/baba-main-hussain-da-ki-haal-sunaawaan-lyrics/
-# additional_raw_sha256: 656cb8a65b8be38068843bd4eeb351e9ea136a73fe05e442cc1a9dc6109b5efb
-# additional_source_note: Eight successive Punjabi source couplets all contained in TajPoints Roman text. TajPoints groups these under four numbered blocks (2 couplets per block); stanza divisions remain editorially unreviewed.
 ---
 
 1

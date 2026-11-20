@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:86a20a8995ad5437309c
-# source_url: https://tajpoints.com/2020/10/jahan-main-qaid-hoon-baba-bara-andhera.html
-# raw_sha256: 418656e9b5af666671bb2cd96788a840541b55e636d603a7e6d70df359505da9
 ---
 
 1

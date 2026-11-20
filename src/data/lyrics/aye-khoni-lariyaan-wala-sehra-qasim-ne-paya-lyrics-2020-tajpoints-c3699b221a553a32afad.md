@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c3699b221a553a32afad
-# source_url: https://tajpoints.com/2023/06/aye-khoni-lariyaan-wala-sehra-qasim-ne.html
-# raw_sha256: 06d530d802acc92ba2affba22318f659cad13c7211f8719bd413c04e59c03bea
 ---
 
 1

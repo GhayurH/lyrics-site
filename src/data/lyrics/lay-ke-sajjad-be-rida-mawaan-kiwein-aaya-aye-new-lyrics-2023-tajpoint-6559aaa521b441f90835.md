@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:6559aaa521b441f90835
-# source_url: https://tajpoint.com/lay-ke-sajjad-be-rida-mawaan-kiwein-aaya-aye/
-# raw_sha256: a4ca32d841b8df1613d0ec559e5a39b8f275cf1af32d73a2d6550c570c6b76c5
 ---
 
 1

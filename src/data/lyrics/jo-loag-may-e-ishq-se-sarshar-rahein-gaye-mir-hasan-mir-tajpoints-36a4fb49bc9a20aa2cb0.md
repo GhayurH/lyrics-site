@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:36a4fb49bc9a20aa2cb0
-# source_url: https://tajpoints.com/2022/03/jo-loag-may-e-ishq-se-sarshar-rahein.html
-# raw_sha256: c17f35a0c9d20ae6ebb2bbe358240555179a4f4640877103acc0ff5af9179d44
 ---
 
 Jo Loag May-e-Ishq Se Sarshar Rahein Gaye Mir Hasan Mir.

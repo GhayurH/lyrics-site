@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a75bfd1fffed152c8754
-# source_url: https://www.ziyaraat.net/api/noha/685
-# raw_sha256: 22e334448bb4afcbdfca313aed1c6041d56f152291d7f580b35ec2ac27ff9665
 ---
 
 Kon hai ye mastoor jo ab tak asghar asghar kehti hai

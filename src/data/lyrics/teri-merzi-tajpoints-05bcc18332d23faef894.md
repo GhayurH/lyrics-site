@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:05bcc18332d23faef894
-# source_url: https://tajpoints.com/2020/04/teri-merzi-lyrics-in-urdu-and-roman-urdu.html
-# raw_sha256: e97e1fcdf2bcb748bc4a56fc01d6994bde66dee6617840f7707a209008b13011
 ---
 
 De Betiyaan Rahib Ko Ya Betay Teri Marzi.

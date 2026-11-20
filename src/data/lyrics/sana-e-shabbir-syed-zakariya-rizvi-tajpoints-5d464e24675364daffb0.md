@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5d464e24675364daffb0
-# source_url: https://tajpoints.com/2025/02/sana-e-shabbir-syed-zakariya-rizvi.html
-# raw_sha256: 21b2d4c4d6d2d477dbdc30bfd9c88253d06377a13077d69bec8871fe0f9326bb
 ---
 
 1

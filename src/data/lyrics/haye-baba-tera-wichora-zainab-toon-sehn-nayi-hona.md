@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:36e307f6c9b63f99e66c
-# source_url: https://tajpoints.com/2019/05/haye-baba-tera-wichora-zainab-toon-sehn.html
-# raw_sha256: 1907280d44a5de1cd7155ea9074abcff3aa2bf1684fd556227d4866535ac7794
-# source_title_original: Haye Baba Tera Wichora Zainab Toon Sehn Nayi Hona 2019
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Haye Baba Tera Wichora Zainab Toon Sehn Nayi Hona

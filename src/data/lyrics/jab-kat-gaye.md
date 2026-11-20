@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Khaati thi tamaanche to yehi kehti thi masum
   Ae kaash na katte mere ghamkhwaar ke baazu
-# source_id: nohayonline:83e20efa6b1cb855fd16
-# source_url: https://www.nohayonline.com/details_content.php?id=3688
-# raw_sha256: 3649ce75b7ada002d1849b5135f7a7db5b3653c76503fac9e93d1971c0e5b4d2
 ---
 جب کٹ گئے دریا پہ علمدار کے بازو
 شانوں سے جدا ہو گئے کرار کے بازو

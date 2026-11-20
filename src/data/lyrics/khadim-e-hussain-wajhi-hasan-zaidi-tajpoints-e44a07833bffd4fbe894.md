@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e44a07833bffd4fbe894
-# source_url: https://tajpoints.com/2025/06/khadim-e-hussain-wajhi-hasan-zaidi.html
-# raw_sha256: a730681f85e30075d566dd78f1e23091c0387c9805b8cc8c6598638f0f1c7b14
 ---
 
 1

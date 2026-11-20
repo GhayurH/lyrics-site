@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:6d59d25529febf1d94d5
-# source_url: https://www.ziyaraat.net/api/noha/1401
-# raw_sha256: eb02d5305ac365bd844a719268b896793113fe7c20f2ffd2fd43295eaca6a1fd
 ---
 
 اک رات دیاں مہماناں دی مہمان نوازی کر زینبؑ

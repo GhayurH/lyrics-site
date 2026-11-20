@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Raaz likh sakta na tha itna murattab nauha
   Aap ne raah-e-sukhan is ko dikhaai Abbas
-# source_id: nohayonline:6d6769f894ca3d386fb1
-# source_url: https://www.nohayonline.com/details_content.php?id=1265
-# raw_sha256: 9e30865638974fd6beeaefc069677ae244d944ba69f799620e88d538fa08142d
 ---
 رو کے کہتی تھی یہ زینب میرے بھائی عباس
 کیوں تمہیں بھا گئی دریا کی ترائی عباس

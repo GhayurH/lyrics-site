@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:933632fb53040a3712d1
-# source_url: https://tajpoints.com/2017/06/khaki-hain-moajze-ka-koi-tajurba-karein.html
-# raw_sha256: 234a57f0b0256c84cdabab2f1c4e6070e06a759fd5fbd34cb837eb45643458e7
 ---
 
 Khaki Hain Moajze Ka Koi Tajurba Karein Write Up

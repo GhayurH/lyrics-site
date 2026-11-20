@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:82c4d2aee2877d9e8146
-# source_url: https://www.nohawriteups.org/live-like-alias-die-like-hussainas/
-# raw_sha256: 180233351c13b6e5d343fee39fb1d7092ab06fc103dc9098b9d92af192fd67f8
-# source_id: ziyaraat:21831dfd19532dc507ac
-# source_url: https://www.ziyaraat.net/api/noha/1747
-# raw_sha256: d6304c64537b195412604919913cae897483b78fd8edae53f94d81fc46e588d2
 ---
 
 Live Like Ali Die Like Hussain

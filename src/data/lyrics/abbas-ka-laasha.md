@@ -57,9 +57,6 @@ romanLyrics: |-
   Sajjad gharibi pe tarapne lage Maula
   Jis waqt ye dekha
   Godi meiṅ uthaye hue pehle se thi Zehra
-# source_id: nohayonline:4679d31f5e3cc7ee1a41
-# source_url: https://www.nohayonline.com/details_content.php?id=2128
-# raw_sha256: e30b468bb076e290a92de88ec751c0e0841b35162fe9b46507311c8cfbf5be15
 ---
 اب تک ہی زبانوں پہ علمدار علمدار
 مارا گیا سرور کا مددگار علمدار

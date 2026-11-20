@@ -62,9 +62,6 @@ romanLyrics: |-
   Aamir o Akhtar bala ka dard tha
   Sun kar ye awaaz chehra zard tha
   Fikr thi ran meiṅ yehi Shabbir ko
-# source_id: nohayonline:58352e8ced3ec4946380
-# source_url: https://www.nohayonline.com/details_content.php?id=2755
-# raw_sha256: d4130d8112536a3d0c66444f03781089594c2050175992bda69933239769872f
 ---
 
 اے علی اکبر ذرا پہچان لو

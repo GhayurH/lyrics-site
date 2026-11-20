@@ -79,9 +79,6 @@ romanLyrics: |-
   Kohraam bapa tha
   Aamir ye Khuda jaane suna Zehra ne kiuṅ kar
   Sab mar gaye ammaaṅ
-# source_id: nohayonline:a35329dcb3e7334c0bec
-# source_url: https://www.nohayonline.com/details_content.php?id=2142
-# raw_sha256: b67ef9eb30bc63ae608e7c64cd18c5b0d1b51d322d3bb841e9b2d81f2386e5cf
 ---
 زینب نے کہا تربت زہرا سے لپٹ کر
 سب مر گئے اماں

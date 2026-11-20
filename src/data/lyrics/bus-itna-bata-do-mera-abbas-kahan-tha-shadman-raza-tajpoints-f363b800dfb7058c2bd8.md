@@ -9,9 +9,6 @@ poet: "Qamar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f363b800dfb7058c2bd8
-# source_url: https://tajpoints.com/2023/01/bus-itna-bata-do-mera-abbas-kahan-tha.html
-# raw_sha256: 9b286399766ad3d1b3ce4c3c6cbd96bb0ff65431c08a2f217fb22dbf66892470
 ---
 
 Jab Qafila Pohancha Tha Madine Ke Zara Pas

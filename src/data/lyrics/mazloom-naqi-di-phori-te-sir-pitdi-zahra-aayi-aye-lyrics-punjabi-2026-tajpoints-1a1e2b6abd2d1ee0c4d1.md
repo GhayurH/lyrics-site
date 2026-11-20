@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a1e2b6abd2d1ee0c4d1
-# source_url: https://tajpoints.com/2026/01/mazloom-naqi-di-phori-te-sir-pitdi-zahra.html
-# raw_sha256: 1d0bfad16acf1997b1c8e757a976fc9125c1ad4287eaa919d566d1e55e19325f
 ---
 
 Mazloom Naqi Di Phori Te Sir Pitdi Zahra Aayi Aye.

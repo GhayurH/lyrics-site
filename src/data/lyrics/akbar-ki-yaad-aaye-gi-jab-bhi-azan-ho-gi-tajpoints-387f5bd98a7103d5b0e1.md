@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:387f5bd98a7103d5b0e1
-# source_url: https://tajpoints.com/2018/09/akbar-ki-yaad-aaye-gi-jab-bhi-azan-ho-gi.html
-# raw_sha256: eaed28994e4bde656513dfc85aac30169d1fff677b8e95ed203afdcc49ad81b5
 ---
 
 1

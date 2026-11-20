@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d221422cadfc85007b1c
-# source_url: https://tajpoints.com/2023/07/sajjad-tere-naal-kadi-haye-bhaina-na.html
-# raw_sha256: 73e7920f1a8910882e52c8c25705d33357340ccca08eccefb0f9d7506b06372a
 ---
 
 Sajjad Tere Naal Kadi Haye Bhaina Na Hondiyan.

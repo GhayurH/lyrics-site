@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:5ac2b8684637268a9f4d
-# source_url: https://www.nohawriteups.org/al-madad-mola-raza/
-# original_html: snapshots/nohawriteups/original_html/5ac2b8684637268a9f4d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/5ac2b8684637268a9f4d.json
-# api_content_sha256: c64cdae06927126f6311b3cac8539fde8de05e0b7351470140cdb4406819e6aa
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Al Madad Mola Raza Al Madad Mola Raza

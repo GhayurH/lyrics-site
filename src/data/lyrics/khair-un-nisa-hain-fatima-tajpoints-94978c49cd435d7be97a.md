@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:94978c49cd435d7be97a
-# source_url: https://tajpoints.com/2021/02/khair-un-nisa-hain-fatima-lyrics-in.html
-# raw_sha256: 3a23a8d4df43f59474bfeb12b5b6a19b2113c7d95621a7ff9eb85c0b435138b3
 ---
 
 1

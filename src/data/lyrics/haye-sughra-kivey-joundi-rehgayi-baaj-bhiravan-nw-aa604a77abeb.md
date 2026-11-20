@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:aa604a77abebf950f244
-# source_url: https://www.nohawriteups.org/haye-sughra-kivey-joundi-rehgayi-baaj-bhiravan/
-# original_html: snapshots/nohawriteups/original_html/aa604a77abebf950f244.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/aa604a77abebf950f244.json
-# api_content_sha256: 0de8fc1c5c704a8fd08dff1f1a6f394241e7d444fbf16863d290610d4dfc56d3
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Haye Sughra Kivey Joundi Rehgayi Baaj Bhiravan Dey

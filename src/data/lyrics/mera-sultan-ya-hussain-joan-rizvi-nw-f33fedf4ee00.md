@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:f33fedf4ee008c4b2d01
-# source_url: https://www.nohawriteups.org/mera-sultan-ya-hussain-joan-rizvi-nohay-2021/
-# original_html: snapshots/nohawriteups/original_html/f33fedf4ee008c4b2d01.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f33fedf4ee008c4b2d01.json
-# api_content_sha256: 07ced594de8756afd0c1f39f75681652162c0a7b828959d37b6a4708278ae858
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mera sultan ya Hussain A.S

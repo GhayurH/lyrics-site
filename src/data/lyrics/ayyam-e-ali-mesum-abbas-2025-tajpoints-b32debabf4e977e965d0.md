@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b32debabf4e977e965d0
-# source_url: https://tajpoints.com/2026/10/ayyam-e-ali-mesum-abbas-2025-lyrics.html
-# raw_sha256: f8de6b5324676a82063bfbed52dc9fac663bc98f46a96d61d90937d9763ed3f5
 ---
 
 Shiyon Mein Aaj Kal Yeh Qayamat Ke Roz Hain.

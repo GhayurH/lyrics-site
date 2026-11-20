@@ -55,9 +55,6 @@ romanLyrics: |-
   Taabut jo Zahra ka rakha laa ke zamiṅ par
   Roye hai bahut der talak saaqi-e-Kausar
   Waaiz tha yehi Haidar-e-Karraar ka naala
-# source_id: nohayonline:9a6912ef5c8e54ec2f18
-# source_url: https://www.nohayonline.com/details_content.php?id=2868
-# raw_sha256: 6fbfc565cbd22ae8b3635b66eb9536d58ebd8d9196c7ad1f8027fe78ae1643a1
 ---
 کاندھے پہ لیے بنتِ پیمبر کا جنازہ
 جب جانے لگے سوئے بقیہ میرے مولا

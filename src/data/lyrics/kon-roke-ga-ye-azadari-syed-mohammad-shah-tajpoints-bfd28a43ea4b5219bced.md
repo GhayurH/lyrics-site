@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bfd28a43ea4b5219bced
-# source_url: https://tajpoints.com/2024/07/kon-roke-ga-ye-azadari-syed-mohammad.html
-# raw_sha256: 0094dd9e8a93c1d6cd461a834ffdd51ff147e4a41bac767649a4ce1c215de917
 ---
 
 1

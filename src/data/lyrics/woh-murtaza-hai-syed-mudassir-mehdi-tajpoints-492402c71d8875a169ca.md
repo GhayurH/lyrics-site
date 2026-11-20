@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:492402c71d8875a169ca
-# source_url: https://tajpoints.com/2021/03/woh-murtaza-hai-syed-mudassir-mehdi.html
-# raw_sha256: f5aaa536ff543c9be2f31ffc07cb0ced19a2d9816786da0607a16604a98e2bc6
 ---
 
 Woh Murtaza Hai Syed Mudassir Mehdi.

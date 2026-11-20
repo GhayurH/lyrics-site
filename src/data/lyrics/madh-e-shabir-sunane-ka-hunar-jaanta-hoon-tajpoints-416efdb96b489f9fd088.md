@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:416efdb96b489f9fd088
-# source_url: https://tajpoints.com/2018/07/madh-e-shabir-sunane-ka-hunar-jaanta.html
-# raw_sha256: 0273c8fff5791b2de036a9ce3f008a8883bc906de00efa255b6fa5dc29b53838
 ---
 
 1

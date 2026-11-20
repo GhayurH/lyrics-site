@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:64ee35c196f9bb392e3a
-# source_url: https://tajpoints.com/2023/11/har-azadar-ko-zawar-banaya-jaye-master.html
-# raw_sha256: 525697fe5c253d202e8a61f47b8850691e4ff8feadd5affec69f66c785c1ae37
 ---
 
 1

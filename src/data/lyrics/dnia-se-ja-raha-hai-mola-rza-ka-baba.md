@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:d005c997d31a2acb11e0
-# source_url: https://www.ziyaraat.net/api/noha/2876
-# raw_sha256: f66d67d08f2ac94e6e003a558f69fc1ef487edec74d651eada572e5c3780bc0a
 ---
 
 دنیا سے جا رہا ہے مولا رضاؑ کا بابا

@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e9291a9b5b0bdb0072e
-# source_url: https://tajpoints.com/2022/01/nazool-e-kausar-master-syed-mohammad.html
-# raw_sha256: 9a635f8047e79ca2f5946f6fb744da20af6c51645e58b1bf999031d12d5f9acd
-# source_title_original: Nazool e Kausar Master Syed Mohammad Shah 2021
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Nazool e Kausar

@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:10368fed8956a49a30b3
-# source_url: https://tajpoints.com/2019/08/sughra-tere-akbar-ko-bulati-hai-karbala.html
-# raw_sha256: aaf4c1aadee80a97d2193949f4a06219d0c11b71746da4e754bdb46d30b037d6
 ---
 
 Sughra Tere Akbar Ko Bulati Hai Karbala.

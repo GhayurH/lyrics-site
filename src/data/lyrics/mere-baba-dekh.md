@@ -62,9 +62,6 @@ romanLyrics: |-
   Bil yaqeen aisa hua to aakhirat ban jayegi
   Mere baba dekh lena fatema mar jayegi
   Phasliyaṅ tuti hui hai...
-# source_id: nohayonline:504c67b21bae8f5f95c3
-# source_url: https://www.nohayonline.com/details_content.php?id=2070
-# raw_sha256: a0d1470139342371566e0aae3818daf31a73c8e25680c79ad4c8fadf225d0620
 ---
 
 ۱

@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Us taraf ghore se Abbas taraai meiṅ gire
   Is taraf gir gayi Zainab ki rida
-# source_id: nohayonline:3566d51e55af6d0ba0db
-# source_url: https://www.nohayonline.com/details_content.php?id=508
-# raw_sha256: c3faa05f7f3d81b271f323bcc6f710387c1fe829490560af9bccb1c3b1e8ffd5
 ---
 آپ سے آپ یونہی جب ذکر کہیں شِہ کا چھڑا
 آ گئی کھنچ کے وہیں کرب و بلا

@@ -80,9 +80,6 @@ romanLyrics: |-
   Kis tarah daakhil hue
   Darbaar meiṅ nauha gar
   Aage kate hue sar...
-# source_id: nohayonline:5b6c05370abd623d3a1d
-# source_url: https://www.nohayonline.com/details_content.php?id=2344
-# raw_sha256: d4cd6fa5023d7ee477e4d882d521cafd822dffe7fdee219309fd0aef91b1e303
 ---
 
 ۱

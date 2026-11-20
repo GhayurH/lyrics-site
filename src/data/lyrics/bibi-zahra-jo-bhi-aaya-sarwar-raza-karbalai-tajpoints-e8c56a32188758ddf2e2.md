@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e8c56a32188758ddf2e2
-# source_url: https://tajpoints.com/2022/06/bibi-zahra-jo-bhi-aaya-sarwar-raza.html
-# raw_sha256: e7a70487555219a04dcf4e34fc347fafd874eafb33267a22772dcb52e96aa42a
 ---
 
 Bibi Zahra Jo Bhi Aaya Sarwar Raza Karbalai.

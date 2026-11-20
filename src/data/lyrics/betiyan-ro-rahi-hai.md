@@ -65,9 +65,6 @@ romanLyrics: |-
   Haath maatam ko khud hi uthega
   Shaadmaaṅ jab parhe ga ye nauha
   Betiyaaṅ ro rahi haiṅ Ali ki
-# source_id: nohayonline:4ff1d65f62f88506f848
-# source_url: https://www.nohayonline.com/details_content.php?id=1571
-# raw_sha256: 67d421f2bbb3e4a1f21b9359f4f628a7a77e1e6e199d3b52a09b2ee38db34f85
 ---
 
 خوں سے تر ہوگیا ہے مصلّہ

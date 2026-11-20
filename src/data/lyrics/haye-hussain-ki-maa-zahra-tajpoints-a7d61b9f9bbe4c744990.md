@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a7d61b9f9bbe4c744990
-# source_url: https://tajpoints.com/2021/01/haye-hussain-ki-maa-zahra-lyrics-in.html
-# raw_sha256: b3690617946b2c5fe23d8996872e7491e17060e355e3a7aa129ceb5d0192b899
 ---
 
 1

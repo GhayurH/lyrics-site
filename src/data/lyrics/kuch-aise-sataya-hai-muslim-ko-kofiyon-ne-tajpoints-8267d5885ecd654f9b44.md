@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8267d5885ecd654f9b44
-# source_url: https://tajpoints.com/2019/08/kuch-aise-sataya-hai-muslim-ko-kofiyon.html
-# raw_sha256: bb860f82ea4db013d2714d374a6cdd910bfc98b578059ab45f2e21a07ac31b1c
 ---
 
 1

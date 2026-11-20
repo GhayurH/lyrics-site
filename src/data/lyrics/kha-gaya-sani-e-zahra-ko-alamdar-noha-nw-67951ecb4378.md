@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:67951ecb4378e1b61ec5
-# source_url: https://www.nohawriteups.org/kha-gaya-sani-e-zahra-ko-alamdar-noha-lyrics/
-# original_html: snapshots/nohawriteups/original_html/67951ecb4378e1b61ec5.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/67951ecb4378e1b61ec5.json
-# api_content_sha256: 13b90af858712afc2088acda90f93f1952aedf393da9dd472e5369265986a508
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Khaa Gaya Sani e Zehra Ko Alamdar Ka Gham

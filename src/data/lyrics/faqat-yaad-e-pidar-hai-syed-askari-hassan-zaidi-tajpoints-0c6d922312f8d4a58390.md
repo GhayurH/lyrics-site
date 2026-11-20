@@ -8,9 +8,6 @@ poet: "Asim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0c6d922312f8d4a58390
-# source_url: https://tajpoints.com/2021/09/faqat-yaad-e-pidar-hai-syed-askari.html
-# raw_sha256: 90f1a59dfe4612a19f661f2a6ee246c02744505e7640da686c8771047e600bb8
 ---
 
 1

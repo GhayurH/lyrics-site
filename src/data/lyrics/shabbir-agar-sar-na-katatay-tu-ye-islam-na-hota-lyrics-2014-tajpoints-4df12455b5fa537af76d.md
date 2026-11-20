@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4df12455b5fa537af76d
-# source_url: https://tajpoints.com/2024/06/shabbir-agar-sar-na-katatay-tu-ye-islam.html
-# raw_sha256: d790e36f4394bc5d3412254536e2986fcd592dea5fbaabafcca4b9af18e00af7
 ---
 
 1

@@ -44,14 +44,6 @@ romanLyrics: |-
   Tarpa rahi hai dil mera
   Taari hai gham ki tiragi
   Ye to Sakina lagti hai
-# source_id: nohayonline:9e743b08587df5dc6807
-# source_url: https://www.nohayonline.com/details_content.php?id=227
-# raw_sha256: e8a2bf8d484a98f3317e2cee7a9685e72cb071f2a6a9289167d57438cb3f83d7
-# source_id: nohawriteups:8cc35df02d2ea0954c09
-# source_url: https://www.nohawriteups.org/haye-ye-bacchi-kaun-hai/
-# original_html: snapshots/nohawriteups/original_html/8cc35df02d2ea0954c09.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8cc35df02d2ea0954c09.json
-# api_content_sha256: 6ad06c4a30c613a4b5897224c5e318b0f0fab30c5d0a6f522a262815e5b30e47
 ---
 
 ہائے یہ بچی کون ہے

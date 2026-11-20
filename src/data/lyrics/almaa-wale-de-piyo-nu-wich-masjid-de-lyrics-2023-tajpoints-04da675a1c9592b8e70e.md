@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:04da675a1c9592b8e70e
-# source_url: https://tajpoints.com/2023/04/almaa-wale-de-piyo-nu-wich-masjid-de.html
-# raw_sha256: 445150f48ed6e6cca39ba969ad85e88e8a9855c4d237721d127ca9bb543be201
 ---
 
 Almaa Wale De Piyo Nu Wich Masjid De Mariya Aye.

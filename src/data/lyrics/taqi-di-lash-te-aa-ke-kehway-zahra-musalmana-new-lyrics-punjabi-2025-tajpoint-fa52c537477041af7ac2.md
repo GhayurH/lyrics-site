@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:fa52c537477041af7ac2
-# source_url: https://tajpoint.com/taqi-di-lash-te-aa-ke-kehway-zahra-musalmana/
-# raw_sha256: 1afe231fbe35d6b6796ecf76b07c94c006c5d83817768d700e6e33098134b65b
 ---
 
 1

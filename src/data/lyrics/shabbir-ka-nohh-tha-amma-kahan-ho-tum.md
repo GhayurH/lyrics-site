@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:a11f6941e9e5393988a7
-# source_url: https://www.ziyaraat.net/api/noha/2624
-# raw_sha256: f8b01deff2427aefed0f5688cae49e164e75ca6a22ee8b5371e51adc82da93d3
 ---
 
 ہاۓ میری پیاری ماں ہاۓ میری پیاری ماں

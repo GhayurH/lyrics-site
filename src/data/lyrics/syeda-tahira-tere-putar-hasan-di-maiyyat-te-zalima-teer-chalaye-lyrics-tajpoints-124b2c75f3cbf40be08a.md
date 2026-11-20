@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:124b2c75f3cbf40be08a
-# source_url: https://tajpoints.com/2019/10/syeda-tahira-tere-putar-hasan-di.html
-# raw_sha256: ce02b3c7bf082636a8c5d14eceeca0212c2b19044d9569907def0940cbd5a481
 ---
 
 1

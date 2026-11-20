@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a84dd5e725ccb0e17d6e
-# source_url: https://tajpoints.com/2023/02/meraa-mola-ali-lajpal-kazmi-brothers.html
-# raw_sha256: 2e5471618def0dd033cff02fbb1d8dfbf85b15de3c7ce27642c388c83bf239a5
 ---
 
 Meraa Mola Ali Lajpal Kazmi Brothers.

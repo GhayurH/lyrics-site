@@ -8,9 +8,6 @@ poet: "Tosif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cdb35e2eea3ab85b5fea
-# source_url: https://tajpoints.com/2023/12/haq-mor-mera-pehchan-menu-mera-rakhiya.html
-# raw_sha256: dfd2b3c235703ecb04feffc564b4ad63626c85abb52ab49d4149c0e66f9c0c05
 ---
 
 Haq Mor Mera Pehchan Menu Mera Rakhiya Naam Khuda Zahra.

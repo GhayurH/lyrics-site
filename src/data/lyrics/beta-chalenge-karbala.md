@@ -48,9 +48,6 @@ romanLyrics: |-
   9
   Ab bhai se Abbas se kehna jo guzre haadse
   Hai kaun apna jo bacha beta chaleṅ ge Karbala
-# source_id: nohayonline:19d9f29febd019183ac7
-# source_url: https://www.nohayonline.com/details_content.php?id=3768
-# raw_sha256: bada2a43053cabe3b4a0504d77559d8c7d3712732e3eb55c4b8acd12daf2f0a3
 ---
 زینب نے عابد سے کہا بیٹا چلیں گے کربلا
 زنداں میں سب کچھ کھو گیا بیٹا چلیں گے کربلا

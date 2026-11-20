@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:420b54fe44511a14e830
-# source_url: https://www.nohawriteups.org/wada-bhen-te-bhira-da-wada-bhen-te-bhira-da/
-# original_html: snapshots/nohawriteups/original_html/420b54fe44511a14e830.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/420b54fe44511a14e830.json
-# api_content_sha256: 4ff24eef7fd8b9e33594bcdb914107660cdfaf2e9f270eda218fbbd251c3d40c
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Wada Bhen Te Bhira Da, Wada Bhen Te Bhira Da

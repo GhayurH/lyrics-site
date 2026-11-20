@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:95bf7781dec69c1fa9dc
-# source_url: https://tajpoints.com/2017/02/yeh-dil-yeh-pagal-dil-mera-kyon-bujh.html
-# raw_sha256: 11df5d532bcc2c8dfba2990515eee8e23cde68cb065b2a9f11ecb7998d7a85e3
 ---
 
 Yeh Dil Yeh Pagal Dil Mera Kyon Bujh Gaya Aawargi.

@@ -66,9 +66,6 @@ romanLyrics: |-
   Ye fiqra Sayyeda ka
   Shioṅ ko ya Ali tu mera salaam kehna
   Lo jaa rahi hai Zehra
-# source_id: nohayonline:e6600186668b8e13f134
-# source_url: https://www.nohayonline.com/details_content.php?id=1435
-# raw_sha256: eec259ac6141c1ab08e4fd5ebbdb0c0fff5822de676b295da633d7410d67ff69
 ---
 ویران ہوا میرا گھر زہرا تمہارے بعد
 کیسے جیے گا حیدر زہرا تمہارے بعد

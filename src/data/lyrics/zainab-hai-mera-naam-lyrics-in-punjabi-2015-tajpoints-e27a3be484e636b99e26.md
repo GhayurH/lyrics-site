@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e27a3be484e636b99e26
-# source_url: https://tajpoints.com/2020/10/zainab-hai-mera-naam-lyrics-in-punjabi.html
-# raw_sha256: 71cbeae9d70725c3adff7ec0291957f25b0cd1ea0787e61f780585a5663f97cc
 ---
 
 1

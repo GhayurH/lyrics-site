@@ -75,9 +75,6 @@ romanLyrics: |-
   Jo royega jannat meiṅ mere saath rahega
   Islam sadaa zinda o paainda rahega
   Ye meri dua meri dua meri dua hai
-# source_id: nohayonline:394655322bda41ab8033
-# source_url: https://www.nohayonline.com/details_content.php?id=850
-# raw_sha256: 7a59f4fcfc4bf5eb680c9eb796249d4ee1279bcd2fbcc7ffe585982658eebf14
 ---
 یہ میری دعا ہے
 

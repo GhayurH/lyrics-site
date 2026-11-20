@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7e0a97fb1968d5ad9d0a
-# source_url: https://tajpoints.com/2023/11/bete-abu-talib-ko-diye-aise-khuda-ne.html
-# raw_sha256: d4f816e3cf4a02ed02fd03660ce5011e2c8ebf77795ba556967b63143a834aea
 ---
 
 Bete Abu Talib Ko Diye Aise Khuda Ne.

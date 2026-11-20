@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6b36f0cca7addb3a740d
-# source_url: https://tajpoints.com/2024/07/mera-akbar-kyun-nahi-aya-syed-raza-abbas.html
-# raw_sha256: 6eb01bd563c4288d6e5e8006cf5dd173dba77722b426f9feac902c1b79c6c157
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2b30883fa47d794f5462
-# source_url: https://tajpoints.com/2017/02/logo-ro-aakhay-muhari-mere-wango-ban-ke.html
-# raw_sha256: 9f6faf2f55dce629fb408099cd76b3076146cdde9a6776593417ae964cac3cca
 ---
 
 1

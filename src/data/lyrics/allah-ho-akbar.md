@@ -86,9 +86,6 @@ romanLyrics: |-
   Aa rahi thi azaaṅ ki sada
   Sheh ne sajde meiṅ sar rakh diya
   Ya Husain ya Husain ya Husain ya Husain
-# source_id: nohayonline:d6c5460aeb67158c0088
-# source_url: https://www.nohayonline.com/details_content.php?id=2608
-# raw_sha256: 67a9b1f5d39b01e1e7d13b62fda41304b0d3e3d341ee22cdbc6f4d855d09f5b2
 ---
 
 ۱

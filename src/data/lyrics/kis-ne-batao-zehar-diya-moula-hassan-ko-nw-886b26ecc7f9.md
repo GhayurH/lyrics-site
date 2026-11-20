@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:886b26ecc7f92ff91e73
-# source_url: https://www.nohawriteups.org/kis-ne-batao-zehar-diya-moula-hassan-ko/
-# original_html: snapshots/nohawriteups/original_html/886b26ecc7f92ff91e73.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/886b26ecc7f92ff91e73.json
-# api_content_sha256: e421c2e843f40b2968ecc5970a244300ced8c7042f25a1183c80f18d8aaf0b61
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Kis Ne Batao Zehar Diya Moula Hassan Ko

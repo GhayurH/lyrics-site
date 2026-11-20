@@ -73,9 +73,6 @@ romanLyrics: |-
   Daswiṅ ki shab dhalti rahi
   Aal-e-Nabi roti rahi
   Marsiya Zainab ka sun ke
-# source_id: nohayonline:e972757724c752a00c31
-# source_url: https://www.nohayonline.com/details_content.php?id=2756
-# raw_sha256: 9eb44978289dbf5fe66047cf9f1e614e53163f3828f2ab541d7b23a7bc375897
 ---
 
 ہائے شام غریباں

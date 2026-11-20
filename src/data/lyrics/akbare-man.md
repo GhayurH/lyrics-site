@@ -54,9 +54,6 @@ romanLyrics: |-
   Maaṅ ke armaan tere saath hi soe ban meiṅ
   Tu ne sine pe sinaṅ khai kuchh aise ran meiṅ
   Roya Rehaan qalam likh ke Laila ka bayaṅ
-# source_id: nohayonline:4e5a31055586acd39fe9
-# source_url: https://www.nohayonline.com/details_content.php?id=2708
-# raw_sha256: b59f3c4f268fdd65cc72b3abc934bb8d7be4a8a081359ed50a662b68fabc3767
 ---
 اکبر من نوجواں اکبر من
 اے میرے راحت جاں نوجواں اکبر من

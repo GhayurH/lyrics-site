@@ -52,9 +52,6 @@ romanLyrics: |-
   Laashe pe aaeṅge jab bekas Imam Baaqir
   Dekheṅge jis ghari wo baba ka jism-e-laaghar
   Kis dil se Ae Zahir ab kaise bayaaṅ ho manzar
-# source_id: nohayonline:30a0282b8da0dba6d525
-# source_url: https://www.nohayonline.com/details_content.php?id=1976
-# raw_sha256: ca5b2760ea75eb296979b98c20845b2a84eae3c68e9ae9ed0ad3123300d877b0
 ---
 دنیا سے اب سفر ہے بیمار کربلا کا
 بدلہ ہوا ہے عالم گلزار کربلا کا

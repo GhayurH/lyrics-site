@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9811421df7eaca43a9a4
-# source_url: https://tajpoints.com/2022/02/haider-haider-kiya-karo-hasnain-abbas.html
-# raw_sha256: 73483f5f33c32a36a5bf0d86b799653ae251598434b517cda4aca74009793485
 ---
 
 1

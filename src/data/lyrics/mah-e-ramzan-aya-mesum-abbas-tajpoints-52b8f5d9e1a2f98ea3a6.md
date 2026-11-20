@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:52b8f5d9e1a2f98ea3a6
-# source_url: https://tajpoints.com/2022/04/mah-e-ramzan-aya-mesum-abbas-lyrics-in.html
-# raw_sha256: 32c745230d38931b3fd5c06c768064ce64cebc4e58ba6004541dc04d2156dc4d
 ---
 
 Yeh Noor Barasney Ke Din Hain.

@@ -8,9 +8,6 @@ poet: "Sadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:48b59b566d17f5b45ae9
-# source_url: https://tajpoints.com/2023/07/ana-ghadeeri-jism-o-jaan-ghadeeri-hai.html
-# raw_sha256: 83e36fa6d47595be8b5c2452c9333b0a77b3085e4a19f9cbe1d363617458e82d
 ---
 
 Ana Ghadeeri Jism o Jaan Ghadeeri Hai Imran Abbas.

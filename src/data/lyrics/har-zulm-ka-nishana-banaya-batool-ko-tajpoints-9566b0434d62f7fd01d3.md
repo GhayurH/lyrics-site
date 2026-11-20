@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9566b0434d62f7fd01d3
-# source_url: https://tajpoints.com/2018/02/har-zulm-ka-nishana-banaya-batool-ko.html
-# raw_sha256: f5b14c0983dccea2c7ef74613715e9a1fe6bb01543457aedd704e93e8b9a86af
 ---
 
 Har Zulm Ka Nishana Banaya Batool Ko.

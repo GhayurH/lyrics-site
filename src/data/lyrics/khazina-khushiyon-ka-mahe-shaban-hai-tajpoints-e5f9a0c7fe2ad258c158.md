@@ -8,9 +8,6 @@ poet: "Mazhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e5f9a0c7fe2ad258c158
-# source_url: https://tajpoints.com/2019/04/khazina-khushiyon-ka-mahe-shaban-hai.html
-# raw_sha256: 5049e91238aac822262c4d8792b13a3b3064bd7f9546b978143458e668008d43
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5a8c37b1fbb73edf98a8
-# source_url: https://tajpoints.com/2023/01/turbat-abbas-ki-madar-ki-safdar-kaleem.html
-# raw_sha256: 5e8926cea8a612b4da85d53359f36e82c9b8e411a187a46beea2d868b34b210b
 ---
 
 Turbat Abbas Ki Madar Ki Safdar Kaleem.

@@ -42,9 +42,6 @@ romanLyrics: |-
   6
   Ae Daaim aur Yazdaaṅ Sarwar ke qaatiloṅ ne
   Dukhiyoṅ ko maar daala paidal chala chala kar
-# source_id: nohayonline:1b0af151b627f4f676ee
-# source_url: https://www.nohayonline.com/details_content.php?id=2486
-# raw_sha256: 32f901dc86634d663ea903f96c92207763856cdd57832c423f5be62f56294892
 ---
 اے میرے لال حسین
 

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9a73c07458f0e8861657
-# source_url: https://www.nohawriteups.org/bhool-na-paey-gi-zehra-kufa-walon-ki-wafa/
-# original_html: snapshots/nohawriteups/original_html/9a73c07458f0e8861657.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9a73c07458f0e8861657.json
-# api_content_sha256: 1fb180b1726150891bb9ca4e187fd34208764209acfbc31b2a204fc04739fae3
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Bhool Na Paey Gi Zehra, Kufa Walon Ki Wafa

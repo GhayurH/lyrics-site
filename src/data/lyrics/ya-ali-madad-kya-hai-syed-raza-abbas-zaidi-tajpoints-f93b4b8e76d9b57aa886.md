@@ -8,9 +8,6 @@ poet: "Sohail"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f93b4b8e76d9b57aa886
-# source_url: https://tajpoints.com/2021/04/ya-ali-madad-kya-hai-syed-raza-abbas.html
-# raw_sha256: aeaeaead5f56b71765b9985fa1b8db7d6b687fcdbfb602f11eaa9fb3bc1a4ce2
 ---
 
 1

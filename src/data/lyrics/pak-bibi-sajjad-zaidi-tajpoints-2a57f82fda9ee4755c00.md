@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2a57f82fda9ee4755c00
-# source_url: https://tajpoints.com/2022/01/pak-bibi-sajjad-zaidi-lyrics-in-urdu.html
-# raw_sha256: 8337bf9dff34a60eb42aad7f533bef4bcee49af89820f013d70eb1ec330fc382
 ---
 
 1

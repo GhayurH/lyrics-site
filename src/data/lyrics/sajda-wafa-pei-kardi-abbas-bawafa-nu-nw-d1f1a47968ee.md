@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d1f1a47968eef3c5e5c4
-# source_url: https://www.nohawriteups.org/sajda-wafa-pei-kardi-abbas-bawafa-nu/
-# original_html: snapshots/nohawriteups/original_html/d1f1a47968eef3c5e5c4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d1f1a47968eef3c5e5c4.json
-# api_content_sha256: 3c8c248a52dea802b3b931733d7ad5433bc917de263474f58a83f88c5f3a0581
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sajda Wafa Pei Kardi Abbas Bawafa Nu

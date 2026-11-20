@@ -8,9 +8,6 @@ poet: "Azlan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:77f57791e8e03177b117
-# source_url: https://tajpoints.com/2023/07/kahan-ho-mere-hussain-haider-rizvi.html
-# raw_sha256: 1a542a3f3d18f00a3cb73ecb4e915617907e33ca30104c59b7b5b2288c62117a
 ---
 
 1

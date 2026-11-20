@@ -8,9 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:086f023f03934abc0485
-# source_url: https://tajpoints.com/2022/09/behin-garib-hai-bhaiya-sarwar-raza.html
-# raw_sha256: e802ba8125c4fea3e64afcfbcb89e45e269520ecfd49ee289556d06b6bcb4327
 ---
 
 Behin Garib Hai Bhaiya Sarwar Raza Karbalai.

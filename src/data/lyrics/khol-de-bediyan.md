@@ -34,9 +34,6 @@ romanLyrics: |-
   Khun rota raha shabbar e benawa
   Sun ke uski sada bhai bemaar hai
   Khol de beriyan...
-# source_id: nohayonline:055e11f108c4a55cd810
-# source_url: https://www.nohayonline.com/details_content.php?id=3777
-# raw_sha256: 12454c4723fae132d8173e94b39875386a933333c75581b41881ba1ab6799db6
 ---
 
 ۱

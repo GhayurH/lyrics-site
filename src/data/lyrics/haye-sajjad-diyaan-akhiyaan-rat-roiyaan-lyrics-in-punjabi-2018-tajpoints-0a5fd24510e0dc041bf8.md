@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0a5fd24510e0dc041bf8
-# source_url: https://tajpoints.com/2018/10/haye-sajjad-diyaan-akhiyaan-rat-roiyaan.html
-# raw_sha256: 73cfe9390eebae152e9d0cacde42f6d3daae35097b80d87372906f6474662e01
 ---
 
 1

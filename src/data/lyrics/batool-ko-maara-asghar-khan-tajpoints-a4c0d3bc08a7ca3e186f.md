@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a4c0d3bc08a7ca3e186f
-# source_url: https://tajpoints.com/2022/12/batool-ko-maara-asghar-khan-lyrics-in.html
-# raw_sha256: f88990ebea008b7eb8348a46ef2f485d81970fa65c7cfd69259569db96a9d51d
 ---
 
 1

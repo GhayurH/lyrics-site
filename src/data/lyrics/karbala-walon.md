@@ -58,9 +58,6 @@ romanLyrics: |-
   11
   Kahiṅ paani pilaane par Takallum ko bhi rakh lena
   Jahaaṅ meiṅ aao ge jab tum dobaara Karbala waloṅ
-# source_id: nohayonline:d1e486471d174ac9c72b
-# source_url: https://www.nohayonline.com/details_content.php?id=2735
-# raw_sha256: 6a142293bdebbcd0031f3741160c5a9e081787390dd7665f21b228628753e595
 ---
 کربلا والوں
 تمہارا غم رہے زندہ ہمیشہ کربلا والوں

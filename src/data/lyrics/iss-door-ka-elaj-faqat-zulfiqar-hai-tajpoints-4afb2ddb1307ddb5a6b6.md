@@ -8,9 +8,6 @@ poet: "Rizvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4afb2ddb1307ddb5a6b6
-# source_url: https://tajpoints.com/2019/04/iss-door-ka-elaj-faqat-zulfiqar-hai.html
-# raw_sha256: b226ca994877c41f37ca4759cf04b5d1587c923e3c7784a5f028e2b29b9998a1
 ---
 
 1

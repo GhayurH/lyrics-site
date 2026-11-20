@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:4e3a78ad31b1a78588db
-# source_url: https://www.nohawriteups.org/bewa-shabbar-ki-ro-kar-pukari-mere-bachchay-ki-aati-hai-mehndi/
-# original_html: snapshots/nohawriteups/original_html/4e3a78ad31b1a78588db.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/4e3a78ad31b1a78588db.json
-# api_content_sha256: b496a174510d43a0b9999d466f35b5ddb69a972b1f7157c6e801c4cae7745323
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Bewa Shabbar Ki Ro Kar Pukari Mere Bachchay Ki Aati Hai Mehndi

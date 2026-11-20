@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ceaeb696f3532d53bcd4
-# source_url: https://www.ziyaraat.net/api/noha/621
-# raw_sha256: 7aacdcb113ac2846879458877130c2ac4926c80c77da09f7d199175730ddc21f
 ---
 
 Rab janay kinj haq lain laey Zehra ujri darbar gaye

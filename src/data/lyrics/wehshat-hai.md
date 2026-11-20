@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Shahid koi Sughra ko jaa kar ye khabar de de
   Wo chaar baras waali zindaan meiṅ tanha hai
-# source_id: nohayonline:9302f1ab10d62ec5fc90
-# source_url: https://www.nohayonline.com/details_content.php?id=741
-# raw_sha256: 007dc9ad718b7362f6c3100b14eeb93b2245c203b860eaefcc3216b0ff8672be
 ---
 وحشت ہے اُداسی ہے زنداں کا اندھیرا ہے
 ہر لمحہ سکینہ پر بس آخری لمحہ ہے

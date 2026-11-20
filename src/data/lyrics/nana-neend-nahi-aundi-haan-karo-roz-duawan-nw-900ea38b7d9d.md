@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:900ea38b7d9d274678bc
-# source_url: https://www.nohawriteups.org/nana-neend-nahi-aundi-haan-karo-roz-duawan/
-# original_html: snapshots/nohawriteups/original_html/900ea38b7d9d274678bc.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/900ea38b7d9d274678bc.json
-# api_content_sha256: 0514cada42f6b6a8c57ace40202e9b00be216448c4e12ef05cc87f3faef652b7
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Nana Neend Nahi Aundi Haan Karo Roz Duawan.

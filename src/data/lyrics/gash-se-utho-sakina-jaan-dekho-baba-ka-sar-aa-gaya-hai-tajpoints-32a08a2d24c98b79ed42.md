@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:32a08a2d24c98b79ed42
-# source_url: https://tajpoints.com/2018/09/gash-se-utho-sakina-jaan-dekho-baba-ka.html
-# raw_sha256: 4c05e522bf10be5eaae05d269e168f7f0e61c03f5153d4d9b2334cd3920ea463
 ---
 
 1

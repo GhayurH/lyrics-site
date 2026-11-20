@@ -60,9 +60,6 @@ romanLyrics: |-
   Ek maaṅ ki nigaahoṅ meiṅ hai nanha laasha
   Aur khaali jhula
   Bas aakhri ek baar sine se laga lo
-# source_id: nohayonline:9084bc4f6e365223975c
-# source_url: https://www.nohayonline.com/details_content.php?id=1763
-# raw_sha256: 1446abc46b7daee2b8131c78bcc31e19e45891fee43cd44161e4f161477dc7ba
 ---
 
 بابا سکینہ کو اب گود میں لے لو

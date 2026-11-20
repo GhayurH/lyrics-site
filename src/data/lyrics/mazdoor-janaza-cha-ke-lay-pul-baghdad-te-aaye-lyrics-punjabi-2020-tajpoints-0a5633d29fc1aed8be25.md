@@ -8,9 +8,6 @@ poet: "Naeem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0a5633d29fc1aed8be25
-# source_url: https://tajpoints.com/2020/03/mazdoor-janaza-cha-ke-lay-pul-baghdad.html
-# raw_sha256: 8df3bd3cb366fff7b24369ceaa59c93581215855370848811831f7fa18e3e18b
 ---
 
 1

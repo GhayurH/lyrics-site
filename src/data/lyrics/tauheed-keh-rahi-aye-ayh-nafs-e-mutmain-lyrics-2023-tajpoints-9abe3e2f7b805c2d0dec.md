@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9abe3e2f7b805c2d0dec
-# source_url: https://tajpoints.com/2023/06/tauheed-keh-rahi-aye-ayh-nafs-e-mutmain.html
-# raw_sha256: fa02f4050c497201a4dd27f0b9a47299d4663d18c403094cb2b4910c216d71b3
 ---
 
 Tauheed Keh Rahi Aye Ayh Nafs e Mutmain Aa Ja Hussain Aa Ja.

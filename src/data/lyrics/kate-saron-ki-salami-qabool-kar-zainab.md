@@ -8,9 +8,6 @@ reciter: "Chakwal Party"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:23b3f22d060bb8b9df56
-# source_url: https://www.ziyaraat.net/api/noha/2590
-# raw_sha256: 4ec207b0ba4d33ced3aaa382180f33e843dd7cf65b560fc7d50fb8f3196ea865
 ---
 
 کٹے سروں کی سلامی قبول کر زینبؑ

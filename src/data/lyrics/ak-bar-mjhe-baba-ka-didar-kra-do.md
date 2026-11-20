@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:782cb9c33f6fc03bc824
-# source_url: https://www.ziyaraat.net/api/noha/2268
-# raw_sha256: 51741b7c24c149e233f6a548fdd40264129d4c3633f86b917f39b766e5995817
 ---
 
 Taboot chala ghar se to Zainab ye pukari

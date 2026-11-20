@@ -8,9 +8,6 @@ poet: "Zaheer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:00113e05784496b6b126
-# source_url: https://tajpoints.com/2023/04/dard-ka-sultan-abid-aise-gham-mein.html
-# raw_sha256: 2632d8928d7a65529a3e5d7e8d92ecd8723463d5dcd12f718348cffe527e9c12
 ---
 
 1

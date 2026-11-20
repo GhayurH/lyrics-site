@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:12c5313ffa3549d43f12
-# source_url: https://tajpoints.com/2023/05/tujhe-dekhna-hai-wozu-mera-tera-ishq.html
-# raw_sha256: c076ee8ae97f97df5ce0fc459c26ea162f29970a082f9ad4a31fd3bebf6652fc
 ---
 
 1

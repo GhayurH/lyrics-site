@@ -36,9 +36,6 @@ romanLyrics: |-
   Har dam karian gay pehlay se ziada
   Roz-e-jaza bhi matam karain gay
   Bibi hamara tujh se hay wada
-# source_id: ziyaraat:5b50f6a57a0964099cf8
-# source_url: https://www.ziyaraat.net/api/noha/1289
-# raw_sha256: 2dd530f398b2ee7ab2e947a148f2f8a033af0ee41af44c773882e8668f9cdbbb
 ---
 
 ۱

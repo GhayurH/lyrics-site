@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:93fe8b75709c243948ed
-# source_url: https://tajpoints.com/2022/07/sirat-e-mustaqeem-ya-hussain-joan-rizvi.html
-# raw_sha256: 57bca5f54f639c191df53b7589c1ffbe88dc15a47f4ef9fdfdefd50f46fdd06d
 ---
 
 1

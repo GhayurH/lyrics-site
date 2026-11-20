@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e0bf909e9f3f52a51ab1
-# source_url: https://tajpoints.com/2017/02/ghariyaan-na-langdiyaan-ne-tere-baghair.html
-# raw_sha256: 73dae9e7d536482adea530080e7f31b63e0946e0e684ca67ea3ebd56198617c9
 ---
 
 1

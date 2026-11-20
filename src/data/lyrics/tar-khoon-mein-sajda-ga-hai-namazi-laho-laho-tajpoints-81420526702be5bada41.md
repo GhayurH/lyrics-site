@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:81420526702be5bada41
-# source_url: https://tajpoints.com/2020/05/tar-khoon-mein-sajda-ga-hai-namazi-laho.html
-# raw_sha256: 5e3ca46e0628e76eaeefc0375b2b0d6ba8db8901c2eb53e564a5b2a348716ada
 ---
 
 Tar Khoon Mein Sajda Ga Hai Namazi Laho Laho.

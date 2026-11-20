@@ -61,9 +61,6 @@ romanLyrics: |-
   12
   Haaye us Bibi ki maayus nigaaheṅ Shamsi
   Laut kar jis ka chacha aur na baba aaya
-# source_id: nohayonline:8b52a21ad583e641b312
-# source_url: https://www.nohayonline.com/details_content.php?id=2331
-# raw_sha256: 24da966914e6698aed061bd0786286c668cefdebf0ea503a0438dbff25fdc551
 ---
 ہو کے مہمان محمد کا نواسہ آیا
 دشتِ خوں خار میں لختِ دل زہرا ہے

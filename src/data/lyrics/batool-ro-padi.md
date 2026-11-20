@@ -52,9 +52,6 @@ romanLyrics: |-
   Hifaazat aap ne mujhko ali ki saunpi thi
   Tamache maiṅ ne hai khaaye unhe bachate huye
   Batul ro pari...
-# source_id: nohayonline:ef931b854a882d155586
-# source_url: https://www.nohayonline.com/details_content.php?id=1016
-# raw_sha256: 471686f74fbfa0892d252c979c5c70f50313639464bb8aa41f18ed6dcc86dd3f
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f9b51f6e62aaef5cf937
-# source_url: https://tajpoints.com/2023/10/be-rida-bhairaan-tur-payiyan-teriyan.html
-# raw_sha256: 19cc41d500425931deac7a8f0b203826d32b7c0a574b5a6c439e79953a0edcba
 ---
 
 Be Rida Bhairaan Tur Payiyan Teriyan Veerna

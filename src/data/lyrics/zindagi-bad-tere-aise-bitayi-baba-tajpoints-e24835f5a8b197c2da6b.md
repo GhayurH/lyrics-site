@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e24835f5a8b197c2da6b
-# source_url: https://tajpoints.com/2023/12/zindagi-bad-tere-aise-bitayi-baba.html
-# raw_sha256: b2f62932013a9709cb3323ca3520a3bb82ec99cb9e1867755b7533c113b8c129
 ---
 
 1

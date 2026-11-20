@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c50e3467a39094607daa
-# source_url: https://tajpoints.com/2026/10/teri-zehra-ko-madinay-walay-mueez.html
-# raw_sha256: 7e206eb83ff37a0597079b6ce8401f8b80833ed706ad949704e827a5c37b5506
-# source_title_original: Teri Zehra Ko Madinay Walay Mueez Nagri Lyrics In Urdu 2026
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Teri Zahra Ko Teri Ummat Ne Madine Walay Bohat Tarpaya

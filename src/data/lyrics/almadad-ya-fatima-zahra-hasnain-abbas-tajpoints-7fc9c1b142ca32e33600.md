@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7fc9c1b142ca32e33600
-# source_url: https://tajpoints.com/2023/01/almadad-ya-fatima-zahra-hasnain-abbas.html
-# raw_sha256: a299fb693d3aa19bd2c16ea7323f89b99e869e153dc6a47fd64cc01b335bd180
 ---
 
 Almadad Ya Fatima Zahra Hasnain Abbas

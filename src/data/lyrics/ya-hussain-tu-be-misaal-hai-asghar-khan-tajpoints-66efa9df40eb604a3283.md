@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:66efa9df40eb604a3283
-# source_url: https://tajpoints.com/2023/05/ya-hussain-tu-be-misaal-hai-asghar-khan.html
-# raw_sha256: 17c3a7b353bef4bcd7d24507573400771922aca3400dcc2ca4cb2d352749a5cd
 ---
 
 1

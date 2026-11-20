@@ -8,9 +8,6 @@ poet: "Faheem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b9b4664c1d2097c254a8
-# source_url: https://tajpoints.com/2018/09/lash-e-akbar-pe-zainab-pukari.html
-# raw_sha256: bb9349adeb83af8068b9faa882a66ad0630552686c723078a106847e4dac32f7
 ---
 
 Lash-e-Akbar Pe Zainab Pukari.

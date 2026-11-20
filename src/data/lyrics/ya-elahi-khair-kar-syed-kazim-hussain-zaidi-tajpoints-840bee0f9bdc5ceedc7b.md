@@ -8,9 +8,6 @@ poet: "Kazim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:840bee0f9bdc5ceedc7b
-# source_url: https://tajpoints.com/2025/11/ya-elahi-khair-kar-syed-kazim-hussain.html
-# raw_sha256: c60d5f59d54ab1af39f5a9f85142e2a4720f4e4d02042b730d0ed05db104184a
 ---
 
 Ya Elahi Khair Kar Syed Kazim Hussain Zaidi.

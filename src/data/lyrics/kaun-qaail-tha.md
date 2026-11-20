@@ -68,12 +68,6 @@ romanLyrics: |-
   Karbala dekhi to hum samjhe ke haaṅ aur bhi hai
   Kaun qaail tha salaami ke jinaaṅ aur bhi hai
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-# source_id: nohayonline:5a054c10550be8d7468e
-# source_url: https://www.nohayonline.com/details_content.php?id=385
-# raw_sha256: c2cc7a77d7008baa4af19ae592e6d9256845c11069e42a0d459265dc6c0291ca
-# source_id: ziyaraat:c1fe18ea8940b180724b
-# source_url: https://www.ziyaraat.net/api/noha/136
-# raw_sha256: cb3474126fe6fdf5fd7a8a5cbeceb956dc2845c499ce48a338020fbbd92b6453
 ---
 یا حسین یا حسین
 کون قائل تھا سلامی کے جناں اور بھی ہے

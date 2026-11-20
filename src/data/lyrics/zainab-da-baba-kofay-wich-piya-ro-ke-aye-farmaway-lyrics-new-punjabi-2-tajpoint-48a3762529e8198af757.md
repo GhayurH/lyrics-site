@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:48a3762529e8198af757
-# source_url: https://tajpoint.com/zainab-da-baba-kofay-wich-piya-ro-ke-aye-farmaway/
-# raw_sha256: b4161869e43e26ce2de53902548e807dfa105c128822c83e03398907d3053845
 ---
 
 1

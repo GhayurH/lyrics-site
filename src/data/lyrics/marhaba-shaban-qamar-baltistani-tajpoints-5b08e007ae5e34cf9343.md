@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5b08e007ae5e34cf9343
-# source_url: https://tajpoints.com/2024/02/marhaba-shaban-qamar-baltistani-lyrics.html
-# raw_sha256: 02d42d607201738ed59d307ab9add6803c9b2dcbffa8f1b5e6e571aa2dddf0a1
 ---
 
 1

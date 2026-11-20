@@ -52,17 +52,6 @@ romanLyrics: |-
   Siyaah Baal Jo Maa Ke Safed Tar Dekhe
   Tauqir Kaise Kahuṅ Betiyoṅ Ne Sar Pite
   Gayi Hai Jis Tarah Ghar Se Thaki Thaki Zehra
-# source_id: nohawriteups:db8157f37d9e90454c58
-# source_url: https://www.nohawriteups.org/bharay-darbar-may-roti-rahi-khari-zehra/
-# raw_sha256: 72ec904238675f63decb008eaf09ae3e02f1fbafb9a1c5bf6c9222d8f8b84a6f
-# additional_source_id: nohawriteups:07e4584beb9ff250f5f1
-# additional_source_url: https://www.nohawriteups.org/bharay-darbaar-mein-roti-rahi-khari-zahra/
-# additional_raw_sha256: fea365d3863954c5542a514d2bfe314804bb788756ae7024c362b29b0d0df514
-# editorial_note: Two Roman sources have seven shared stanzas, but the second includes a substantive Urdu-only stanza on Murtaza and the rope. All eight retained; additional Urdu reconstructed for three earlier stanzas, and stanza 7 Roman transliterated manually. Urdu and transliteration require final review; no duplicate file created.
-# source_id: tajpoints:4ce38d9526786a74f097
-# source_url: https://tajpoints.com/2017/02/bhare-darbar-mein-roti-rahi-khari-zahra.html
-# raw_sha256: d61797b72ec4d92b17bf9a38ef4ef01696517ad9a3b30faffdff33de1636bdbe
-# editorial_note: Tajpoints Roman witness includes six stanzas already contained in the existing eight-stanza bilingual edition. Kept all eight and the previous editorial notes; merged additional provenance.
 ---
 
 بھرے دربار میں روتی رہی کھڑی زہراؑ

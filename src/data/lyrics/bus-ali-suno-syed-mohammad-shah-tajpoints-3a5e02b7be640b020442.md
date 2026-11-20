@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3a5e02b7be640b020442
-# source_url: https://tajpoints.com/2023/02/bus-ali-suno-syed-mohammad-shah-lyrics.html
-# raw_sha256: 4233b563e1cc1ca957afdabbdce592de308f54800618430cdd588bc9cff78150
 ---
 
 Bus Ali Suno Syed Mohammad Shah Lyrics

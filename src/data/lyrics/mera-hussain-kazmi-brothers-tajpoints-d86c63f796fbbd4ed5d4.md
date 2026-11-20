@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d86c63f796fbbd4ed5d4
-# source_url: https://tajpoints.com/2023/02/mera-hussain-kazmi-brothers-lyrics-in.html
-# raw_sha256: 2aad9807116d42768f5f407d40ce8fa9dc26df2be010320899ba292f91fd643a
 ---
 
 Jo Naz-e-Zahra Hai Woh Hai Hussain.

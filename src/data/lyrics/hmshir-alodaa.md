@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:fa13759a44fc8d849549
-# source_url: https://www.ziyaraat.net/api/noha/2734
-# raw_sha256: 62b93eaddfb24b90ecca586ac80b7289d8e5d4dfe6d650c89f5d13270607349a
 ---
 
 LAASHA-E-SHAH SE MAQTAL ME YE ATI THI SADA

@@ -44,9 +44,6 @@ romanLyrics: |-
   Sajde meiṅ sar kata hai zahra ke laadle ka
   Zulm o sitam ke aage lekin jhuka nahi hai
   Zahra ki betiyoṅ ka...
-# source_id: nohayonline:d09cccaa65526281a873
-# source_url: https://www.nohayonline.com/details_content.php?id=3761
-# raw_sha256: bf469612e4105acc30404fb5550eddb033855e43f451c63c581afd80da21c530
 ---
 
 ۱

@@ -8,9 +8,6 @@ poet: "Ammar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a980346ca614d30baf4b
-# source_url: https://tajpoints.com/2023/07/aye-munkir-e-haider-tere-barey-mein.html
-# raw_sha256: af4a37133db3dd20bfabceee21b2fa728d55bf7a37c551eb257b010650c4b266
 ---
 
 Aye Munkir e Haider Tere Barey Mein Nahi Hai.

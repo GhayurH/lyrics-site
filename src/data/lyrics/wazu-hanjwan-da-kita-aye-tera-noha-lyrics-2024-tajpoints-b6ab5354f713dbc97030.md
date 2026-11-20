@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b6ab5354f713dbc97030
-# source_url: https://tajpoints.com/2024/02/wazu-hanjwan-da-kita-aye-tera-noha.html
-# raw_sha256: 9d4396481126b7bcfe7a8c41613c740e6f6d13711bef2050b10ea8d41af920d2
 ---
 
 1

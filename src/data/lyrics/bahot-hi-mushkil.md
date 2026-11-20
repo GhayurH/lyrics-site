@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Nauha khwaanoṅ pe hai Bibi ka karam ae Farhan
   Warna ye nauha sunaana bahot hi mushkil hai
-# source_id: nohayonline:7a1b3e98c7cdb05c7b26
-# source_url: https://www.nohayonline.com/details_content.php?id=75
-# raw_sha256: 9f43921aa17e2f0677f0651919cc40c4914a7a24be4f997c63188a7b186ea871
 ---
 جواں کی لاش اٹھانا بہت ہی مشکل ہے
 پھر اس کو خیمے میں لانا بہت ہی مشکل ہے

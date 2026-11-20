@@ -8,9 +8,6 @@ poet: "Ansar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7115cfccd34d33008b12
-# source_url: https://tajpoints.com/2024/08/chehlum-hussain-ka-hai-syed-kumail-mehdi.html
-# raw_sha256: ac2fb63e379f44a85929a2a18f527198763aa747a3702a9cf4f1fadc13c14c4b
 ---
 
 1

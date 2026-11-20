@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e56968d2d51c01e0fe20
-# source_url: https://tajpoints.com/2023/01/ya-fatima-zehra-madad-saleem-mastan.html
-# raw_sha256: bc660bffd93e5a6a1c2dcb7d63ab66bf89bb875d15d65274a1514c574a78269b
 ---
 
 1

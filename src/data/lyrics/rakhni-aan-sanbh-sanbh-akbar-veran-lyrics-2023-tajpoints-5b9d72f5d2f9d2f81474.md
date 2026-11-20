@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5b9d72f5d2f9d2f81474
-# source_url: https://tajpoints.com/2023/10/rakhni-aan-sanbh-sanbh-akbar-veran.html
-# raw_sha256: 150eb926b442858351d895e53320c93b4b3837b0b0de71909ca7c1446711bae0
 ---
 
 1

@@ -65,9 +65,6 @@ romanLyrics: |-
   Parhi Nad-e-Ali le kar chale Sheh laasha-e-Akbar
   Takallum aayi pahlu se sada-e-Fatih-e-Khaibar
   Mere beta teri himmat barhane aa gaya Baba
-# source_id: nohayonline:97e9e4fdc456b945a2ca
-# source_url: https://www.nohayonline.com/details_content.php?id=2751
-# raw_sha256: d9f7602cffa1ad3f083c5aa3a1c889d094bcc125d95300bf9c9cd9e199155b4b
 ---
 جب سنی شاہ نے آواز جواں بیٹے کی
 لاش پر آ کے یہ فرمانے لگے سبط نبی

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1fd86c4732feadd04992
-# source_url: https://www.nohawriteups.org/menu-veeran-teriyan-teriyan-yadan-nai-bohot-sataya-ay/
-# original_html: snapshots/nohawriteups/original_html/1fd86c4732feadd04992.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1fd86c4732feadd04992.json
-# api_content_sha256: 71e1d5d8f560ebd31c511060e9a7f93d31c2dd3f841c2e6e2ab8bc0d0000c78b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Menu Veeran Teriyan, Teriyan Yadan Nai Bohot Sataya Ay

@@ -62,9 +62,6 @@ romanLyrics: |-
   Haye mil paaya na pyaasoṅ ko kafan ae Waiz
   Reh gayi khaak uraane ko behan ae Waiz
   Bas ye sada aayi ujar gayi Zainab
-# source_id: nohayonline:442690aff069de3c66d0
-# source_url: https://www.nohayonline.com/details_content.php?id=3150
-# raw_sha256: 8522b125984d73da74097afd0c5d056f6bada92bfd692d426e2c0f97337dda61
 ---
 قتل ہوئے بھائی اجڑ گئی زینب
 رہ گئی تنہائی اجڑ گئی زینب

@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:214493fc2d902a636e5a
-# source_url: https://tajpoints.com/2020/01/allah-teri-dunya-mein-pareshan-hai.html
-# raw_sha256: b19a9ccebcbab108b594c75ef2a88d2844623e1957c8640a7cf0ae24bb38402d
 ---
 
 1

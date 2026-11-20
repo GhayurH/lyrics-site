@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e1af9c37721e177f8d53
-# source_url: https://tajpoints.com/2017/12/ya-kareema-aye-masooma-e-qum-aye.html
-# raw_sha256: 5118481be7d1809a5e7d28bc535d8a962dc57267b3574fa70f2d098307ecb173
 ---
 
 1

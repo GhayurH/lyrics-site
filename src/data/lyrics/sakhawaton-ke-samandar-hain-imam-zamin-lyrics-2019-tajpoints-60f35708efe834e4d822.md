@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:60f35708efe834e4d822
-# source_url: https://tajpoints.com/2019/07/sakhawaton-ke-samandar-hain-imam-zamin.html
-# raw_sha256: 6520e7aa25be00f2e05b5810665bbe524c1412ce804388bac80537f139c59a36
 ---
 
 Sakhawaton Ke Samandar Hain Imam Zamin

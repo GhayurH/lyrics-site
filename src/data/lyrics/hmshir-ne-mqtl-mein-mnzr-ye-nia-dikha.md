@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ae8b1ec9c22c4e306097
-# source_url: https://www.ziyaraat.net/api/noha/1034
-# raw_sha256: 20133c559599c23e1578cacfc2a27e4d86506f85cfc36b64733644e9fd9624ce
 ---
 
 Hamsheer nay maqtal mein manzar yeah naya dekha 2x

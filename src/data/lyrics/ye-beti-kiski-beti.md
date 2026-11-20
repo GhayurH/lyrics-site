@@ -57,9 +57,6 @@ romanLyrics: |-
   Kab zulm-e-Yazidi kam hoga
   Dukhiyoṅ ko taaza gham hoga
   Is bachchi ka maatam hoga
-# source_id: nohayonline:75389a41fe4f869a82f5
-# source_url: https://www.nohayonline.com/details_content.php?id=1055
-# raw_sha256: 83a157a47d9c134a428a9b568b6417a105834eff14a2dc69f86c76ca64ad1dc1
 ---
 یہ بیٹی کس کی بیٹی ہے
 جو جلتے زمیں پر لیٹی ہے

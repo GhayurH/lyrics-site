@@ -87,9 +87,6 @@ romanLyrics: |-
   Royega ab is kunbe ko
   Wo apne har dard ka qissa
   Chhor ke ghar pardes chala
-# source_id: nohayonline:ccc1f4db46fc49222f5b
-# source_url: https://www.nohayonline.com/details_content.php?id=3597
-# raw_sha256: 6f9fffedd6423a8dbd8fd3debe24663af531d9a0ab416db6142c0a6f8da900c4
 ---
 پیارے نبی کا پیارا نواسہ
 چھوڑ کے گھر پردیس چلا

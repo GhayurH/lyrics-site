@@ -8,9 +8,6 @@ poet: "Mukhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:04068b74705ef852af76
-# source_url: https://tajpoints.com/2019/04/bas-woh-hussain-hai.html
-# raw_sha256: 10155af12ee41bdf7593e13540f83f84819a4db9afe2b7e1d7744f70d13f9c39
 ---
 
 Islam Ki Ragon Mein Hai Jis Ka Lahoo Rawan.

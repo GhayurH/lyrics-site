@@ -9,15 +9,6 @@ reciter: "Mir Hasan Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:b805aa75dec51b65cf41
-# source_url: https://www.nohawriteups.org/jab-khuda-ko-pukara-ali-aagye-mir-hasan-mir/
-# original_html: snapshots/nohawriteups/original_html/b805aa75dec51b65cf41.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b805aa75dec51b65cf41.json
-# api_content_sha256: c64f4e5cca339dbd778991f55cf987cb53ed11a13d1e87ded7f63b911899caa5
-# editorial_note: Two matching sources consolidated into thirteen two-line couplets. Four complete couplets absent from the NohaWriteups draft were recovered from the TajPoints witness; repeated refrains removed. Unpublished pending line-splitting and transliteration review.
-# source_id: tajpoints:b5c93593911535efddd9
-# source_url: https://tajpoints.com/2017/02/jab-khuda-ko-pukara-alias-aa-gay.html
-# raw_sha256: ffd771f8cf28b0f9c916143b4a54b99f4df6329ba5aa23416e9dd903c45b0889
 ---
 Jab Khuda Ko Pukara Ali Aa Gaye Jab Ali Aa Gaye Zindagi Aa Gayi
 Zindagi Bandagi Roshni Aa Gayi Roshni Aa Gayi Aa Gahi Aa Gayi

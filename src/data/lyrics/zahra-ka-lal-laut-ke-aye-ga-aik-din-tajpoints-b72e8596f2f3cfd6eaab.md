@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b72e8596f2f3cfd6eaab
-# source_url: https://tajpoints.com/2023/05/zahra-ka-lal-laut-ke-aye-ga-aik-din.html
-# raw_sha256: 360ad083348839bf0713e96491c651ba3c4a2aed0dc9d47cc8b6a84850f4e495
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noRoman"]
 aliases: []
 published: false
-# source_id: nohawriteups:f5202bb3991851794580
-# source_url: https://www.nohawriteups.org/bolay-sara-jahan-hussain-ya-hussaina-lyrics/
-# original_html: snapshots/nohawriteups/original_html/f5202bb3991851794580.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/f5202bb3991851794580.json
-# api_content_sha256: 1e65fa3ce38235f290520ab14623f77edf176b76e56eed304abec3f3396df84e
-# editorial_note: Unpublished source-faithful draft from approved valid urdu only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 حسینؑ حسینؑ حسینؑ حسینؑ حسینؑ حسینؑ

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8f3ccc150c54fce0d2aa
-# source_url: https://tajpoints.com/2026/01/kun-ali-ne-kaha-syed-mohammad-shah.html
-# raw_sha256: 968b6ce0ec4b538204c215bdab1767c8a64c6c7275bb75843033f038a0ee2d57
 ---
 
 Kun Ali Ne Kaha Syed Mohammad Shah.

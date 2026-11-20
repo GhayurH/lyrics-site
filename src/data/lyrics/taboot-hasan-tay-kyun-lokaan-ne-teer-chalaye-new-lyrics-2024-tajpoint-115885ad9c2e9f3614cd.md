@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:115885ad9c2e9f3614cd
-# source_url: https://tajpoint.com/taboot-hasan-tay-kyun-lokaan-ne-teer-chalaye/
-# raw_sha256: 9396341f66028ebd9d539c5cd846de7aa87d85f2385666cf8cc03a9744e7e69e
 ---
 
 Taboot Hasan Tay Kyun Lokaan Ne Teer Chalaye.

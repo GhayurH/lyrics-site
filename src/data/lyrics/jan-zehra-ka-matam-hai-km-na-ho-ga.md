@@ -66,9 +66,6 @@ romanLyrics: |-
   Badlay pani ke sookha gala chid gaya
   Choom ke nanhay Asghar ko Sheh ne kaha
   Ali Asghar ka matam hay kam na ho ga
-# source_id: ziyaraat:e146c10a6e9739c27240
-# source_url: https://www.ziyaraat.net/api/noha/1770
-# raw_sha256: d940e64050c27adfc95e03c5375574d6e7badbb8baff117eec548f4c8051d88a
 ---
 
 جان زہراؑ کا ماتم ہے کم نہ ہو گا

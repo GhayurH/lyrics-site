@@ -8,9 +8,6 @@ poet: "Sardar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e15001a3771ded80ff02
-# source_url: https://tajpoints.com/2026/06/zakhmi-hai-bohot-gaisuon-wala-nabeel.html
-# raw_sha256: d41b30d82ba1bce0971d76f8559a505b99fd7c10db41ed0664d25d405557fe89
 ---
 
 Maula Se Mere Nazoon Ka Pala Na Uthay Ga.

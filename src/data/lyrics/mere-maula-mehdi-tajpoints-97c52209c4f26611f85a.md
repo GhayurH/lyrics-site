@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:97c52209c4f26611f85a
-# source_url: https://tajpoints.com/2020/04/mere-maula-mehdi-lyrics-in-urdu-and.html
-# raw_sha256: 5af0a4fc5e9e79a7572ea52520e3ab322760484ac4d7d565fbb8058cd13eda90
 ---
 
 1

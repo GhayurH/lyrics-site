@@ -8,9 +8,6 @@ poet: "Nawazish"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8e93c606e079e39b1e11
-# source_url: https://tajpoints.com/2020/04/madh-e-fatima-zahra-lyrics-in-urdu-and.html
-# raw_sha256: 0fb0e2df9468bb2db3e9e3a3691832ec00559c33fa396fce0de67f5575b957c9
 ---
 
 1

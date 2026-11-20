@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:27b079ba03a6b9e0662d
-# source_url: https://www.nohawriteups.org/lahoo-husain-ka-hai-raegaan-na-jayega/
-# original_html: snapshots/nohawriteups/original_html/27b079ba03a6b9e0662d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/27b079ba03a6b9e0662d.json
-# api_content_sha256: 59c02fbd41aba1d127941efd09990db9e9dbbd7c743b4c1cfd73abdc5b04ead2
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Rang Layega Zaroor Rang Layega

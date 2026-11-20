@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:45fb8ea3c51848a2adb2
-# source_url: https://tajpoints.com/2018/02/hussain-hussain-ya-hussain-mula.html
-# raw_sha256: d81534d2d599c4997dee024963cda02d19c667c42cf8ecc8797bc19177e054fe
 ---
 
 1

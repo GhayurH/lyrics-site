@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:b60d7769bd9de6d32fd1
-# source_url: https://www.ziyaraat.net/api/noha/1711
-# raw_sha256: 55c002aad0ad3c931c1ae90f382bbb9b2f6fe828adfd98bf130df72004353393
 ---
 
 Alwida Ya husain Ai husain Alwida

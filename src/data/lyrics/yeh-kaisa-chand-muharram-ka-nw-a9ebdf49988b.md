@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a9ebdf49988bd467ae91
-# source_url: https://www.nohawriteups.org/yeh-kaisa-chand-muharram-ka/
-# original_html: snapshots/nohawriteups/original_html/a9ebdf49988bd467ae91.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a9ebdf49988bd467ae91.json
-# api_content_sha256: 243be99c69d5dadf7de60fe60146c53dd84fe36d1983c527fa6e39bf191b7a13
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Yeh kaisa chand Muharram ka, dekha Sughra nay.

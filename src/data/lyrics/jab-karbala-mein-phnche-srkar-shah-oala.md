@@ -8,9 +8,6 @@ reciter: "Anjuman Ghulaman-e-Hur (Syed Kashif Raza)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ef1409f2bce97b5a80e3
-# source_url: https://www.ziyaraat.net/api/noha/2318
-# raw_sha256: d22a5565b58d95170a2d6129b9f7ced1ad66fb6333ed0b88bbf5c4c189a0b8b7
 ---
 
 Karbala

@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:34b82f37166b0615513e
-# source_url: https://tajpoints.com/2024/01/qaid-mein-dala-naqi-ko-ajar-ummat-de.html
-# raw_sha256: 6082a8272cc40d792f09c0e57b9b93ed1e139798a7ef763e49c1be8602881020
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1629d0f0e04192a1d3ab
-# source_url: https://tajpoints.com/2017/05/main-kar-raha-tha-zikar-e-alamdar-baar.html
-# raw_sha256: e19d59dc66237348b83f3e0a8588f2a58eb7ac58c2ba686323361981ea5422f6
 ---
 
 1

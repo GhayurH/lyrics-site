@@ -83,9 +83,6 @@ romanLyrics: |-
   Tune saqqayi ka haq ada kar diya
   Wah mere laal…
   Mere ghazi jari…
-# source_id: nohayonline:755bf4786015a0dac15e
-# source_url: https://www.nohayonline.com/details_content.php?id=429
-# raw_sha256: 60a3a9da92f9be4978f71fb9eb2d02632e9b688b213913b298e5cff3d1d1a8bf
 ---
 
 ۱

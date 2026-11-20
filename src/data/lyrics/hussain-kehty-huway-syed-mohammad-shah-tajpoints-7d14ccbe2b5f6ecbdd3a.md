@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7d14ccbe2b5f6ecbdd3a
-# source_url: https://tajpoints.com/2025/02/hussain-kehty-huway-syed-mohammad-shah.html
-# raw_sha256: 43ffcf55b231bb18886b3edf6f0528b17303814aae0a241e476acb299e75afe8
 ---
 
 Hussain Kehty Huway Syed Mohammad Shah.

@@ -60,9 +60,6 @@ romanLyrics: |-
   Muṅh ko aane laga hai kaleja mera
   Ho gaya khaali kaisa bhara ghar jo tha
   Haye Rehaan maiṅ bhi huṅ noha kunaṅ
-# source_id: nohayonline:92621ca2ff0085d13013
-# source_url: https://www.nohayonline.com/details_content.php?id=3423
-# raw_sha256: 15262b70d0b7c79b16ffca27ded0098a1865f94698f59ee959e8794ebabe1c81
 ---
 
 بابا کیسے کہوں الوداع الوداع

@@ -48,9 +48,6 @@ romanLyrics: |-
 
   8
   (Mujib Alipuri)
-# source_id: ziyaraat:b2c1097935ca5de09aae
-# source_url: https://www.ziyaraat.net/api/noha/1941
-# raw_sha256: deec3016d0b142e24da539a35242a03fc689bbb7ca1009e2025b81ea2377a863
 ---
 
 پکاری مسجدِ کوفہ اُجڑگیا کوفہ

@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d0d3ca2cd9888beb124b
-# source_url: https://tajpoints.com/2021/04/qadam-rakha-hussain-ne-mukhtar-hussain.html
-# raw_sha256: 4aabf0c7047df73d6eac572d03c96b993b74eb1121dbdeaf1d594baf4cc269c8
 ---
 
 1

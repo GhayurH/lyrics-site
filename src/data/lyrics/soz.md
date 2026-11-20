@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:6897c4be8a7f296e7239
-# source_url: https://www.ziyaraat.net/api/noha/2545
-# raw_sha256: bf5063de0813df5c512a9c75131092b4d7472cef54a636f6f623d48316924ea5
 ---
 
 ۱

@@ -9,13 +9,6 @@ tags: ["noUrdu"]
 aliases: []
 published: false
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-# source_id: ziyaraat:11970752420c872b0ad8
-# source_url: https://www.ziyaraat.net/api/noha/1617
-# raw_sha256: cf958d5fa73321e50a78702b9c5cf477fcd67e2b7a960df4c04be472e8258973
-# source_id: tajpoints:81e42749234fcf190d5a
-# source_url: https://tajpoints.com/2022/11/majboor-zainab-nadeem-sarwar-lyrics-in.html
-# raw_sha256: bae1a10f4f8dc2c91dea9f4193d4a675ebd5fd5626caf7d36ac0cd90c56a51f4
-# added_stanza_source: roman:kalam-ziyaraat-11970752420c872b0ad8
 ---
 
 Majboor Zainab Nadeem Sarwar Lyrics

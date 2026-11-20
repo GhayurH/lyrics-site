@@ -8,9 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:29d54bde712785da15b7
-# source_url: https://tajpoints.com/2022/12/batool-ke-aansoo-fatemah-ladak-lyrics.html
-# raw_sha256: 541cfc6a3481373c29811774ff9df5198e23b5ef88cfdf8b5a354ecb84c02107
 ---
 
 Batool Ke Aansoo Fatemah Ladak.

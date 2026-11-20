@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a0ba3bed79d3c072f66b
-# source_url: https://tajpoints.com/2020/08/zeen-taun-leh-gaya-akbar-hussain-da.html
-# raw_sha256: ea657ccdf3ae060e966539626daaaefc0b602520ea8638d667891fad46f60c5f
 ---
 
 Zeen Taun Leh Gaya Akbar Hussain Da.

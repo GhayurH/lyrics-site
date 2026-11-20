@@ -52,9 +52,6 @@ romanLyrics: |-
   Jao jab karbala majid e khasta jaṅ
   Jab bhi mukhtar ho koi nauha kuna
   Aisa lagta hai mehwe fughaṅ hai behan
-# source_id: nohayonline:3808b34ac8d2040c3588
-# source_url: https://www.nohayonline.com/details_content.php?id=2092
-# raw_sha256: 5398c0df061162c2209e143e19d21b28833da32ed667bbe6426dcd4ca2bc9423
 ---
 
 قبرِ سرور پہ نوحہ کناں ہے بہن

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bb6a92c552be312e14e9
-# source_url: https://tajpoints.com/2026/03/zainab-ujar-gayi-zainab-ujar-gayi-zainab.html
-# raw_sha256: f97618f08b364985736e7485cebc9e8d5f2c5449aa79bffaba522fdb16b2e71c
 ---
 
 1

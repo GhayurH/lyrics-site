@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eb0328323a17508d3edf
-# source_url: https://tajpoints.com/2018/10/zainab-yeh-keh-na-paaein-ke-shabir-mar.html
-# raw_sha256: 1ff9df64dbcbe25de2c400fc3777ae0a1551323eef5fa3faa879c1633c9cdea4
 ---
 
 1

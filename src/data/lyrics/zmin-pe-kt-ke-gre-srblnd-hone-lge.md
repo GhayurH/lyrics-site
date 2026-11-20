@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:c5d59dde40dc9854c204
-# source_url: https://www.ziyaraat.net/api/noha/2385
-# raw_sha256: a46ec204bd7e359e9d8b2dbbedf0555350205395f56d214ce317fff827913ad4
 ---
 
 زمیں پہ کٹ کے گرے، سربلند ہونے لگے

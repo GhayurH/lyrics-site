@@ -97,12 +97,6 @@ romanLyrics: 'Qatl hogaye qasim ya ali duhaai hai
   Laash jiske waaris ki ran mein bekafan hogi
 
   Ay rafi is gham mein qaum seena zan hogi'
-# source_id: nohayonline:dfcfffef8badaebed7ee
-# source_url: https://www.nohayonline.com/details_content.php?id=574
-# raw_sha256: 19cc40c61e59c348c2dd22a437c65bc8a4868ca3ef24fff1c69d86399a957e82
-# source_id: ziyaraat:793c9abd208af17b3a31
-# source_url: https://www.ziyaraat.net/api/noha/1335
-# raw_sha256: 19fddb884f722b3796379186bff75438115ba8f7e5b5e61fb7361f4ff623332f
 ---
 
 قتل ہوگئے قاسم یا علی دوہائی ہے

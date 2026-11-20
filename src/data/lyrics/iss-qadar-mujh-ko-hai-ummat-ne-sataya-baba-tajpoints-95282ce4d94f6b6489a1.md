@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:95282ce4d94f6b6489a1
-# source_url: https://tajpoints.com/2020/02/iss-qadar-mujh-ko-hai-ummat-ne-sataya.html
-# raw_sha256: d188debc1e3e51ae87f946fbc9ae222b3da29f849578f8b103777d44a24fe37b
 ---
 
 1

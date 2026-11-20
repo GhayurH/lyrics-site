@@ -69,9 +69,6 @@ romanLyrics: |-
   Saans us ko rida se milti thi
   Hai qayaamat Faraaz Zainab ka
   Zinda rehna baghair chadar ke
-# source_id: nohayonline:936101941e25a112b42f
-# source_url: https://www.nohayonline.com/details_content.php?id=2793
-# raw_sha256: 499716ac382fb9854f71bafc21b8707254c0b5d9d298c8baf672324c2e17f34d
 ---
 آج زینب کرے گی مقتل میں
 پہلا سجدہ بغیر چادر کے

@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:02760f07f9c333fa152c
-# source_url: https://tajpoints.com/2017/02/imam-e-zamanaas-ki-nazar.html
-# raw_sha256: c0ef3152f637cd62f175ba427d593cd957ef5dce15965adfa2d2f124f1b232f4
 ---
 
 1

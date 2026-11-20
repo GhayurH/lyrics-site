@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c6d5794cfd02775b3558
-# source_url: https://tajpoints.com/2022/08/khaimon-se-kaise-nikley-ali-abbas-khaku.html
-# raw_sha256: 5140d0c0f66ffd371de0e10991e141008c66a01793b9af06344d2686ee0443c2
 ---
 
 Khaimon Se Kaise Nikley Ali Abbas Khaku.

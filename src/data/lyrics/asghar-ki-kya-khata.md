@@ -41,9 +41,6 @@ romanLyrics: |-
   7
   Shaukat Aqil o Nasir mehshar meiṅ ye kaheṅge
   Ab puchho Hurmala se Asghar ki kya khata thi
-# source_id: nohayonline:1e3834be1fbe34ef2f1b
-# source_url: https://www.nohayonline.com/details_content.php?id=1172
-# raw_sha256: 0308c93a561e52c83f503829ea34af7daa13364c29452f5b17998340efefb807
 ---
 
 کہتے تھے شہ بتا دے اصغر کی کیا خطا تھی

@@ -8,9 +8,6 @@ poet: "Ahsan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7471142621a7eb57f780
-# source_url: https://tajpoints.com/2021/08/aye-shahe-karbala-khwahish-e-azadar.html
-# raw_sha256: 084c1c9435f67d3fff01c43d699e020482851fb3d0fb30312fd8bf3ec5ad5401
 ---
 
 1

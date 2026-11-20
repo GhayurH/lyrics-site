@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:01cfd1fa758b563a135e
-# source_url: https://tajpoints.com/2019/10/beemar-layi-dohri-mushkil-aye-kinj.html
-# raw_sha256: d2869215620b8b225f7a7ca7ed5166fa2c6605353e3d7d778bf303e9d2646dec
 ---
 
 1

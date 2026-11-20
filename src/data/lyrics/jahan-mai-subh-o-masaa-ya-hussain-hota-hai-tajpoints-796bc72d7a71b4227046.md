@@ -8,9 +8,6 @@ poet: "Waseem"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:796bc72d7a71b4227046
-# source_url: https://tajpoints.com/2021/02/jahan-mai-subh-o-masaa-ya-hussain-hota.html
-# raw_sha256: 09bd515f2e21ad4ed39e9ffcc8dc8d1b66efc435391536d423ff13e83dd6bf8a
 ---
 
 Jahan Mai Subh-o-Masaa Ya Hussain Hota Hai.

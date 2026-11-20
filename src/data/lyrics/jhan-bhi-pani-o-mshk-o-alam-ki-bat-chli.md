@@ -62,9 +62,6 @@ romanLyrics: |-
   Mai aur ye meri tanzeem iske dar ke fakheer
   Bahegi chasm-e-aza se faraath pani ki,
   Chalegi majlis o matam may baat pani ki
-# source_id: ziyaraat:d845fb74d96ae21eb9eb
-# source_url: https://www.ziyaraat.net/api/noha/861
-# raw_sha256: 1c47bcc0e6586a399b3e849a3a170db8d4ed51920c24f75e1af53a3029789a61
 ---
 
 جب ہوائوں میں نمی محسوس کی عباسؑ نے

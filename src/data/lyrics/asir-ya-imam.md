@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c5060a0b5d8f99156919
-# source_url: https://www.ziyaraat.net/api/noha/1795
-# raw_sha256: af94eb573a1b141154901402451882c4d89c0cdb1fb0da4a9fed79ccd3f66a0b
 ---
 
 Aseer ya imam aseer ya imam

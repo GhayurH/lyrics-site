@@ -56,9 +56,6 @@ romanLyrics: |-
   Rona hai kaisa chupati hai kya
   Baba ki kuch baateiṅ suna
   Boli ye sughra...
-# source_id: nohayonline:5be58f5d0e6ac3590609
-# source_url: https://www.nohayonline.com/details_content.php?id=2398
-# raw_sha256: 645eb380accad8e1fe46076cafa3324b51afcc5f025b70e9d0707cd1280d8b4a
 ---
 
 ۱

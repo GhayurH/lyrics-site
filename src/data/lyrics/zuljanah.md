@@ -79,9 +79,6 @@ romanLyrics: |-
   Haaye Zuljana haaye Zuljana
   Kya kahe Maisam aur Mazhar Abidi
   Keh ke ye khaak par Sakina gir gayi
-# source_id: nohayonline:1fc1ec86aeb7fde5fdba
-# source_url: https://www.nohayonline.com/details_content.php?id=2215
-# raw_sha256: 00f26878736911a845b3593e72c7317cde6d41c24f842115e16905d8ba2d0825
 ---
 ڈوبا لہو میں لوٹ کے آیا ہے ذوالجناح
 سمجھی سکینہ بابا کو لایا ہے ذوالجناح

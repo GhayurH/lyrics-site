@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a08717c56c98f3fa5bda
-# source_url: https://tajpoints.com/2023/06/kon-rokay-ga-gham-e-jaan-ko-namodari-se.html
-# raw_sha256: 33a32f482e86f7638a1089238f4166af428941ae4a2879d7c5b76ec4b998ad70
 ---
 
 Kon Rokay Ga Gham e Jaan Ko Namodari Se.

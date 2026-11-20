@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:5f1f2c907eabad1922a0
-# source_url: https://www.ziyaraat.net/api/noha/1743
-# raw_sha256: 15c0b9412f467ec185a3ec567c2d584364db9cacbdc757cca8106c2993edad93
 ---
 
 Ghurbat main qatl ho gaya mazloom be watan, Main bhai bhai kehti thi laasha behen behen.

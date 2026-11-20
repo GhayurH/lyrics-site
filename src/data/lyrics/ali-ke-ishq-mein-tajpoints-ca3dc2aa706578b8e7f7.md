@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ca3dc2aa706578b8e7f7
-# source_url: https://tajpoints.com/2020/03/ali-ke-ishq-mein-lyrics-in-urdu-and.html
-# raw_sha256: 40a6d9a21a458c75327543e038b7c14f6b8386aad40b36657fe0917f41c96987
 ---
 
 1

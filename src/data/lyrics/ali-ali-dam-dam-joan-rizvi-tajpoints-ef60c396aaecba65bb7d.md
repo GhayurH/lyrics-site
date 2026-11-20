@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ef60c396aaecba65bb7d
-# source_url: https://tajpoints.com/2025/02/ali-ali-dam-dam-joan-rizvi-lyrics-urdu.html
-# raw_sha256: 71a8199afb81252c699fc3e010943557f81645327bdfdf6e43847d9a55916307
 ---
 
 Khuda Kahan Hai Kisay Kab Dikhai Deta Hai.

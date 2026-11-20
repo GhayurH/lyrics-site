@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fefa80c2ad8e01ab57da
-# source_url: https://tajpoints.com/2018/04/tha-karbala-mein-andhera-hussain-se.html
-# raw_sha256: 8a8edef4903a860b1e5a6f044fa6c6cb6059532e6e86c51b3b1e258ced0c3709
 ---
 
 1

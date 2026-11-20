@@ -47,9 +47,6 @@ romanLyrics: |-
   8
   Jhule se juda karna qayamat hua Gohar
   Ye kehte hue mar gayi wo ghamzada maadar
-# source_id: nohayonline:c4aaeed414fcf0a3ac27
-# source_url: https://www.nohayonline.com/details_content.php?id=1493
-# raw_sha256: b915e75668fe4f7058207dcc5fe00674ada81e8b1fca438d8583ef6c5a3e19d8
 ---
 
 آ اصغر میرے آ اصغر آ اصغر

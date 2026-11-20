@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:078779ad0876b40bcf20
-# source_url: https://tajpoints.com/2024/08/neend-ayegi-baba-ko-pukaregi-sakina.html
-# raw_sha256: 60356a8acf8eeda6b68c5b24111b6c45f7c4106856a0286549a673c44638f095
 ---
 
 1

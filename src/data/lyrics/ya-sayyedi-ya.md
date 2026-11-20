@@ -98,9 +98,6 @@ romanLyrics: |-
   Jab talak saaṅs kare hum se wafa
   Hum kare Maula tere gham se wafa
   Tere maatam tere parcham se wafa
-# source_id: nohayonline:c9f0ba0f2641931a1f94
-# source_url: https://www.nohayonline.com/details_content.php?id=2844
-# raw_sha256: 7b27010b49a2e2d24fb0fdf6efa8cc7b1bb33620bbd6dbe3aa2656b4d54cc2f5
 ---
 
 یبن الزہراء و علی جان نبی

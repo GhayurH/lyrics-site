@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c568e3f282ce11531053
-# source_url: https://tajpoints.com/2018/11/madh-e-shah-e-do-alam-ki-kya-baat-hai.html
-# raw_sha256: e134c5899d0d211d3a0238c3a239771dbdf924c97e82abd13d927678bbaa2257
 ---
 
 1

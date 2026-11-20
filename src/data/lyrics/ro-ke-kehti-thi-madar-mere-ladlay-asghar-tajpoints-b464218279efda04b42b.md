@@ -8,9 +8,6 @@ poet: "Alam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b464218279efda04b42b
-# source_url: https://tajpoints.com/2019/06/ro-ke-kehti-thi-madar-mere-ladlay.html
-# raw_sha256: 69c0b8ea7277783d0a292e66ba030621950d8534f8e27e6c2e82f6335f7524cf
 ---
 
 1

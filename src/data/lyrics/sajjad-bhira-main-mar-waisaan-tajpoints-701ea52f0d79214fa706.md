@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:701ea52f0d79214fa706
-# source_url: https://tajpoints.com/2020/09/sajjad-bhira-main-mar-waisaan-lyrics-in.html
-# raw_sha256: c743de00e3f740295aec14ae3ecda2f842fede0ac41d886b837b3a010e152411
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Azhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:6778f84581520aff2726
-# source_url: https://tajpoint.com/utha-hai-phir-janaza-khair-ul-nisa-ke-ghar-se-lyrics/
-# raw_sha256: 25a6de5a06f120f6484ad4034819ba78146ab33ebac4a2ae4920907e54f9fa7d
 ---
 
 1

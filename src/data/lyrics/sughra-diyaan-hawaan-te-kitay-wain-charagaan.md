@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:61cb82ec07c90a7ef258
-# source_url: https://tajpoints.com/2019/09/sughra-diyaan-hawaan-te-kitay-wain.html
-# raw_sha256: 6657e5a06cdf5430e3ebcfde1c127c7b220a0118a6324cea945181cbb9b9cc77
-# source_title_original: Sughra Diyaan Hawaan Te Kitay Wain Charagaan 2019
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Sughra Diyaan Hawaan Te Kitay Wain Charagaan Ne

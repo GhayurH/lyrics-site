@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:143146a2169e4f264d2f
-# source_url: https://tajpoints.com/2019/03/ali-ali-maula-ali-ali.html
-# raw_sha256: 4e1d3e08abe4d1944de1e73975cdcce8851b8dd18758717a545f17528e7a7b4e
 ---
 
 Ali Ali Maula Ali Ali

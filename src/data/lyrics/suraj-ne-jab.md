@@ -56,9 +56,6 @@ romanLyrics: |-
   Gardan ka tauq paaoṅ ki zanjir nauha khwaaṅ
   Allah ki raza ko gale se lagaaye tha
   Bimaar baar aalam-e-imkaaṅ uthaaye tha
-# source_id: nohayonline:e1243dc1c79279556cc8
-# source_url: https://www.nohayonline.com/details_content.php?id=657
-# raw_sha256: fb754b126ac1768f74bc7effbb95319520671dd46b28c78a6fc3df04d1014b9c
 ---
 
 سورج نے جب سحر کا سفر کر لیا تمام

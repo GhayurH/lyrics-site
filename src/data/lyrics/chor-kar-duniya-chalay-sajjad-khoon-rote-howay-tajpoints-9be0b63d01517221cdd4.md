@@ -8,9 +8,6 @@ poet: "Tauqeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9be0b63d01517221cdd4
-# source_url: https://tajpoints.com/2018/10/chor-kar-duniya-chalay-sajjad-khoon.html
-# raw_sha256: ec78e66eb17f038d7d8a0ab2a64c14be833d21728923228cb34250d3131f2440
 ---
 
 Chor Kar Duniya Chalay Sajjad Khoon Rote Howay.

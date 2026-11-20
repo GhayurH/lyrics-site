@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Hote Abbaas kehti thi Zainab
   Sar mera berida nahiṅ hota
-# source_id: nohayonline:36b6f6b6b8de400b01f7
-# source_url: https://www.nohayonline.com/details_content.php?id=1164
-# raw_sha256: b6c0a82e8814a62473391a17786f7a1a86421268c205cadbc5fb6380c112183d
 ---
 لب پہ جب مُرتضیٰ نہیں ہوتا
 حل کوئی مسئلہ نہیں ہوتا

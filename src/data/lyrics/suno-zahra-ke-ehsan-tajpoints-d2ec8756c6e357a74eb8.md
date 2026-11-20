@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d2ec8756c6e357a74eb8
-# source_url: https://tajpoints.com/2021/01/suno-zahra-ke-ehsan-lyrics-in-urdu-and.html
-# raw_sha256: b834ff348fb2d5579391327823ea1862318d697ee321e94cc0bf99b79808754d
 ---
 
 Zahra Teri Jageer Hai Janat Bhi Fidak Bhi.

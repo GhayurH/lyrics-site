@@ -8,9 +8,6 @@ poet: "Turab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c99d90256fc1a6b07bcc
-# source_url: https://tajpoints.com/2022/07/tauba-hai-syed-mudassir-mehdi-lyrics-in.html
-# raw_sha256: e9e286bd1a86c80c32fc4f0278ef1f228ec57d518ad9862e4fa4fd789cd0b8ff
 ---
 
 Tauba Hai Syed Mudassir Mehdi.

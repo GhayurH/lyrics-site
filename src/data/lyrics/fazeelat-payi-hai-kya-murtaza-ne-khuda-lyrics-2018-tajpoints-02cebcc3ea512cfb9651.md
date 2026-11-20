@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:02cebcc3ea512cfb9651
-# source_url: https://tajpoints.com/2018/04/fazeelat-payi-hai-kya-murtaza-ne-khuda.html
-# raw_sha256: ecb4e234cf42c6736381123aef4fc676c45060fc864fda576d70fe0bfe076e63
 ---
 
 1

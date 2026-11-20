@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Nauha kunaṅ hai Zaaer saara hi ye jahaaṅ
   Maula Raza ka maatam jo arz o samaaṅ meiṅ hai bapa
-# source_id: nohayonline:83c59d5f886ccda6db61
-# source_url: https://www.nohayonline.com/details_content.php?id=1373
-# raw_sha256: bdd00b67b44de955a1ff306088edc50f679388de2efab7ebe4afad119d78e172
 ---
 اے ولیء عرض و سماں یا امامِ رضا
 یا رضا یا رضا مولا یا غریب الغُربا

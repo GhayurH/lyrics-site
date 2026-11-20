@@ -64,12 +64,6 @@ romanLyrics: 'Alwida aey tishna gane Karbala
   Shaahe-deen ke jaanisaro par salam
 
   Unpe hai shahid hamari jaan fida'
-# source_id: ziyaraat:1667754724d369506c48
-# source_url: https://www.ziyaraat.net/api/noha/1310
-# raw_sha256: 7ae452e3958f079a6c8e33b4fbf705f3ec51085d5ccc4da63fc69139d6e408f5
-# source_id: ziyaraat:54a99f68070c17e15dff
-# source_url: https://www.ziyaraat.net/api/noha/1897
-# raw_sha256: b61c6545da51cf5b03ef05c19cb37a4554022aae64c419e7c98c3c9502c1d726
 ---
 
 الوداع اے تشنہ گان کربلا

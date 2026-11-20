@@ -44,9 +44,6 @@ romanLyrics: |-
   Haye jo sab se zyada zakhmi tha baghdad meiṅ
   Is liye farhan roya hai qalam zishan ka
   Qaid khana musae kazim...
-# source_id: nohayonline:07b7166576188ec67ae1
-# source_url: https://www.nohayonline.com/details_content.php?id=3417
-# raw_sha256: 3da254be16b543c181c48fbf5a0902fe43ad3e6e7b3d7ed732312c1bd36907cd
 ---
 
 ۱

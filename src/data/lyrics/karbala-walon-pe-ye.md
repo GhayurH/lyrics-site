@@ -41,12 +41,6 @@ romanLyrics: |-
   Chaand Rehaan nazar aaya Moharram ka idhar
   Khuld meiṅ ashk meri aaṅkh meiṅ paiham aaya
 reciter: "Hasan Sadiq"
-# source_id: nohayonline:5a94576452eea72ef391
-# source_url: https://www.nohayonline.com/details_content.php?id=618
-# raw_sha256: b903e03036d6dcf9bb3c98b95b021e7d14b62f5a1d43b2bc04b9a9fca8613d87
-# source_id: ziyaraat:880e87922b182dbe31c8
-# source_url: https://www.ziyaraat.net/api/noha/1251
-# raw_sha256: fddfa118c7030fac3a864f7c76cf5ec18acc801a874b16f052e6b97f5e29cbfe
 ---
 کربلا والوں پہ یہ کیسا محرم آیا
 خون ٹپکتا ہوا عباس کا پرچم آیا

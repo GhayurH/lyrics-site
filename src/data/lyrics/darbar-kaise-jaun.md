@@ -58,9 +58,6 @@ romanLyrics: |-
   Aamir qarib-e-baab-e-saaat pe zalzala tha
   Nayyar yahiṅ pe Zainab ne marsiya parha tha
   Nauha hai har zabaaṅ par darbaar kaise jaauṅ
-# source_id: nohayonline:d274f4dde834db78407d
-# source_url: https://www.nohayonline.com/details_content.php?id=3404
-# raw_sha256: f2d6a6aab55b5b716e0edac6b04e6313f7eb2d988f5c1c7be93604d36fa10fa7
 ---
 میں فاطمہ کی دختر دربار کیسے جاؤں
 سر پر نہیں ہے چادر دربار کیسے جاؤں

@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:836be1e52f491ce82b9b
-# source_url: https://tajpoints.com/2018/02/hussain-sab-teri-qurbaniyoon-ka-sadqa.html
-# raw_sha256: e7f900712365825834ac78d0474a14d110424d516cc870ad0dc2f6c11d278ed2
 ---
 
 1

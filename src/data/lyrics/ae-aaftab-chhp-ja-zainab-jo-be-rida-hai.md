@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:51b0d43fffba982bd878
-# source_url: https://www.ziyaraat.net/api/noha/2064
-# raw_sha256: 32555e298d4e0d4dc113deff40c48286b1e6379e11004890c1cf4e28ad66cdad
 ---
 
 اے آفتاب چُھپ جا زینبؑ جو بے ردا ہے

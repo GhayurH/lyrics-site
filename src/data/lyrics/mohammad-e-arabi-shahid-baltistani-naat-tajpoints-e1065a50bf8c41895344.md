@@ -8,9 +8,6 @@ poet: "Aasi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e1065a50bf8c41895344
-# source_url: https://tajpoints.com/2021/05/mohammad-e-arabi-shahid-baltistani-naat.html
-# raw_sha256: de1af89561242e80a85603792278c3b21e3700f89c0b47d82cb6eaf15bf1c452
 ---
 
 1

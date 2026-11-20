@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d5fab1fba1b828241083
-# source_url: https://tajpoints.com/2024/05/teen-din-ka-bhookha-pyasa.html
-# raw_sha256: 64573a9dfa1cbeabf1fba22ab96be91b57f1450a9331927759ea710a801f03b4
-# source_title_original: Teen Din Ka Bhookha Pyasa Anjuman E Abbasia Patna 2023
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Teen Din Ka Bhookha Pyasa

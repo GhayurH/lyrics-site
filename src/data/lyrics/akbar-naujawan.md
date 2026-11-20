@@ -49,12 +49,6 @@ romanLyrics: |-
   9
   Jab Ae Mirza ye Nasir ne noha parha
   Ashk aankhoṅ meiṅ the lab pe tha ye bayaṅ
-# source_id: nohayonline:990e51a0d2424424d7fc
-# source_url: https://www.nohayonline.com/details_content.php?id=1895
-# raw_sha256: 300e888461559209e1911a0dc6c3e13e3777abff6c9f6403361179e25216c649
-# source_id: ziyaraat:af398c43a16c22eec2fd
-# source_url: https://www.ziyaraat.net/api/noha/1293
-# raw_sha256: 1115188ad4a2c43c5b422ab14e585aae6adbd0f35b437d8da031b318b95ecff1
 ---
 اکبرِ نوجواں تجھ کو ڈھونڈوں کہاں
 نوحہ لیلیٰ کا تھا اکبرِ نوجواں

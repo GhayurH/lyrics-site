@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:43607215aa5695dfc0d1
-# source_url: https://www.ziyaraat.net/api/noha/133
-# raw_sha256: 5a5902fc8d7e1eb36b9e9476ecf58d0a9896af0e5fb833fcd51a48fcf206a055
 ---
 
 Abbas Abbas Abbas

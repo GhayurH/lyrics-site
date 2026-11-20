@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3a2301aaed2c533cc681
-# source_url: https://tajpoints.com/2022/11/akbar-tumhare-baad-mir-yousuf-mir.html
-# raw_sha256: 245d23c39d5ab29dea2bfc5b286e244a74f6508006da7ed0ace197a251d31cef
 ---
 
 Akbar Tumhare Baad Mir Yousuf Mir

@@ -67,9 +67,6 @@ romanLyrics: |-
   Kya koi bayaaṅ kar payega
   Farhan aur Mazhar rote haiṅ
   Har ek zabaaṅ par nauha hai
-# source_id: nohayonline:adad88adec54c635cd11
-# source_url: https://www.nohayonline.com/details_content.php?id=76
-# raw_sha256: 0db9ea346f5525a15c5825c11a8a5a234e5955a3cc8b51de10f8adffad11f55a
 ---
 
 ہاے موسی کاظم

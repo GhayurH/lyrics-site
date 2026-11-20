@@ -42,9 +42,6 @@ romanLyrics: |-
   8
   Unhi ke naam pe Rehan harf milte haiṅ
   Raza ye naam waseela hai har dua ke liye
-# source_id: ziyaraat:3a8de78d43e78745e3f9
-# source_url: https://www.ziyaraat.net/api/noha/2840
-# raw_sha256: 8df3e60f299106a68b05fb5555e4814040907408886a369d924b4f00d66cd85a
 ---
 
 وفا تھی اِن کے لیے اور یہ ہیں وفا كے لیے

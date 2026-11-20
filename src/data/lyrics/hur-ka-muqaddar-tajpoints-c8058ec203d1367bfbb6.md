@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c8058ec203d1367bfbb6
-# source_url: https://tajpoints.com/2019/04/hur-ka-muqaddar-lyrics-in-urdu-and.html
-# raw_sha256: 9f3fd28c93a4105d02fa268783fc9ae30b0020f5b5548a88593809821c697b46
 ---
 
 1

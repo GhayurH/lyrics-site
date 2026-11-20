@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noRoman"]
 aliases: []
 published: false
-# source_id: nohawriteups:09ebd427ffe1150a6585
-# source_url: https://www.nohawriteups.org/yateem-karbobala-ka-rolay-jatay-ha-anjuman-e-hussania-new-noha-saqib-khan-party-07-shawal-2026/
-# original_html: snapshots/nohawriteups/original_html/09ebd427ffe1150a6585.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/09ebd427ffe1150a6585.json
-# api_content_sha256: 7017005701844c43313c603e2438b97446226e7855584d2a8d089083afff28f8
-# editorial_note: Unpublished source-faithful draft from approved valid urdu only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Yateem Karbobala Ka Rolay Jatay ha | Anjuman e Hussania | New Noha |Saqib Khan Party| 07 Shawal 2026

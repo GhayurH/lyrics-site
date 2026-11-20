@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:40440fe6558afad8c6b4
-# source_url: https://tajpoints.com/2025/03/keh-rahi-thi-sakina-syed-mehdi-rizvi.html
-# raw_sha256: 7a942e3c9b97097925106a98360937adcc60da092ce821fd47e163ed2f2534c4
 ---
 
 1

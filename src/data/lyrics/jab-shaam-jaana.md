@@ -50,9 +50,6 @@ romanLyrics: |-
   Ho sake to ek yateema ke liye lekar chalo
   Nanhi si do baliyaṅ aur ek choti si rida
   Ahle aza tum jab...
-# source_id: nohayonline:ab1c28a1b7f35c0c429d
-# source_url: https://www.nohayonline.com/details_content.php?id=3608
-# raw_sha256: 2a899174887a74e11f41b6b0a055744969ec36a8bf7145bb672d1b4da9fcc110
 ---
 
 ۱

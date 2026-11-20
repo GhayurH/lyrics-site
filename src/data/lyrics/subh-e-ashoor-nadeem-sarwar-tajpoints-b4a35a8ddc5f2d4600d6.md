@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b4a35a8ddc5f2d4600d6
-# source_url: https://tajpoints.com/2022/12/subh-e-ashoor-nadeem-sarwar-lyrics-in.html
-# raw_sha256: c457fe165c9a6d497f7b36565f612645dc0d824c6d63c71e1015b8307ff283a0
 ---
 
 1

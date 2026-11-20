@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Reh gaya ab bhi isi baat ka gham dil meiṅ Nisaar
   Rauza Shabbir ka aaṅkhoṅ se lagaaya na gaya
-# source_id: nohayonline:24feb005cdbb76b36d03
-# source_url: https://www.nohayonline.com/details_content.php?id=759
-# raw_sha256: 8301fd1821e12aa6017bbd5a6f57d0bb36d4a6ab26ef06493cac117cdc8cec5b
 ---
 کونسا رنج تھا جو شہ سے اٹھایا نہ گیا
 پر کوئی شکوہ زبان پر کبھی لایا نہ گیا

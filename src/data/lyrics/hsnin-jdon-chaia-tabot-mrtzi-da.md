@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:ccbde916cb9b3efd8e3a
-# source_url: https://www.ziyaraat.net/api/noha/176
-# raw_sha256: c08067bccc5a8fd6b0f3ba6396cea837e53949571cef86bf4207381775976b46
 ---
 
 Hasnain jadon chaa-ya, taboot murtaza da

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c25efdfe36cbc7b7daf1
-# source_url: https://tajpoints.com/2024/01/mein-haider-da-hubdar-kazmi-brothers.html
-# raw_sha256: 5c465121eedde81a228d4f1a84639e8625f4394fb8ad139ad17b85f9ed7ab8b0
 ---
 
 1

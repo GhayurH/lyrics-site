@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9788fbe183047086a3f2
-# source_url: https://tajpoints.com/2019/08/matam-tu-sada-ho-ga-sun-lo-zamane-walo.html
-# raw_sha256: 82eb026916436c82dd3255e41e5bdd05f19d3295751b18a881df9e1c04e7be29
 ---
 
 1

@@ -8,12 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:2b565bb8fffe397d2c0b
-# source_url: https://www.ziyaraat.net/api/noha/2425
-# raw_sha256: ea6621fcf22d6b909647cc8d1eadd9549251c24a4c0efbfe58dbfdcbb6ff92e9
-# source_id: ziyaraat:d7fd6bf84aa6f3fcbcce
-# source_url: https://www.ziyaraat.net/api/noha/2372
-# raw_sha256: 5e4649be2670917af2ec9be60759d5927740836be46e13a0eece71fe096bcf3f
 ---
 
 Ali Haider

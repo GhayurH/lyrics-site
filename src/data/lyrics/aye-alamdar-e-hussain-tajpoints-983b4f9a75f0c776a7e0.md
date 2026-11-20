@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:983b4f9a75f0c776a7e0
-# source_url: https://tajpoints.com/2020/08/aye-alamdar-e-hussain-lyrics-in-urdu.html
-# raw_sha256: 649b1bcf6c25606755e94ac4a0de9be2afc0d48485771a098a0f7c712064e9e2
 ---
 
 Asar-e-Ashor Kiye Zainab-o-Kulsoom Ne Bain.

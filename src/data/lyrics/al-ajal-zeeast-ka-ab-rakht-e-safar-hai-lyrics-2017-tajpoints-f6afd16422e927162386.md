@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f6afd16422e927162386
-# source_url: https://tajpoints.com/2020/04/al-ajal-zeeast-ka-ab-rakht-e-safar-hai.html
-# raw_sha256: 8faf6840e852ffcb4bf3050d27efb7a58c885668c8558091b21fb369ac9e7b4e
 ---
 
 1

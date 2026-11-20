@@ -8,9 +8,6 @@ poet: "Arsalan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0c5b03c9d27d734a8d59
-# source_url: https://tajpoints.com/2025/05/karam-ki-jisy-inteha-bolte-hain-sonu.html
-# raw_sha256: 18e65ca89c989807b5f648c843be6b5763f4ef44596428b21d959ec304be5535
 ---
 
 Karam Ki Jisy Inteha Bolte Hain Sonu Monu.

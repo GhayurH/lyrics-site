@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d20c8f4d264fd60e17ee
-# source_url: https://tajpoints.com/2017/02/main-dhi-zahra-di-haan-ik-chadar-mangdi.html
-# raw_sha256: 029927780f8ccb25ab60af7fb2e916975b8fc75f44f27d55ddc2d05fcf9210a2
 ---
 
 1

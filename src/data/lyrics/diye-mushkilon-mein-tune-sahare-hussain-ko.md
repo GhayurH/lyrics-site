@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:3ed77bc016f22891cb8a
-# source_url: https://www.ziyaraat.net/api/noha/317
-# raw_sha256: edcffc70af71f77cf97474a161d271d338587d207dfc96c29316be8cb637d2cf
 ---
 
 Diye mushkilon main tu nay saharay Hussain ko

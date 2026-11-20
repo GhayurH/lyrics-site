@@ -88,15 +88,6 @@ romanLyrics: 'Sajjad rehaai paakar bhi, pardes se ghar ko aa kar bhi
   Nauhon ki azaane de de kar, har shaks se ye kehte rehna
 
   Be gor o kafan masoom behan, zindan may ho jiske haathon par'
-# source_id: ziyaraat:043457309171ecb7276a
-# source_url: https://www.ziyaraat.net/api/noha/1778
-# raw_sha256: 83f2206f9d0a1b59669a20ee9fcb40e9426b03c577ab31b365cf4783614abe11
-# source_id: ziyaraat:ad39dc0f534073c92d60
-# source_url: https://www.ziyaraat.net/api/noha/691
-# raw_sha256: b22c9245fcec55eb591db5371edd583aa46ec4c13b0471a6bf27ebcf790e94f3
-# source_id: ziyaraat:f09bdb8290cc0c7ab860
-# source_url: https://www.ziyaraat.net/api/noha/2495
-# raw_sha256: 5bfe80d7edd85bfeed75eaaa34a3d1ca5507df4ed13ef2c04efc39cf45d7ecce
 ---
 
 سجاد رہائی پا کر بھی،پردیس سے گھر کو آ کر بھی

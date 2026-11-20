@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:d7e724664731d364fa60
-# source_url: https://www.ziyaraat.net/api/noha/2150
-# raw_sha256: e7794c49ddfc7cdb24fc69599380237f46d8e614b9bac94ec2e63569d44297db
 ---
 
 Karbala vich oun di maa deway ghazi no sada

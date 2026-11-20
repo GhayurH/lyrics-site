@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:da13ef0652e703b6bb3b
-# source_url: https://www.ziyaraat.net/api/noha/836
-# raw_sha256: b298bd092a7aacf1fdc9178990b6ef1baf73dc59e4bf99175936fd9582a97b2e
 ---
 
 Wawaila sad Wawaila, Wawaila

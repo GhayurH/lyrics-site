@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:c21dca046bb857f1c599
-# source_url: https://www.ziyaraat.net/api/noha/1790
-# raw_sha256: cad526cb0fa9f85706c432896152812544a91e3504352edecfe91a6d9ce14a75
 ---
 
 Jannat ke sardar ya Hasan

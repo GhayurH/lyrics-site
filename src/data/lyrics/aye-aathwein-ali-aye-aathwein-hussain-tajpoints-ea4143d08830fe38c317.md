@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ea4143d08830fe38c317
-# source_url: https://tajpoints.com/2019/01/aye-aathwein-ali-aye-aathwein-hussain.html
-# raw_sha256: 8d035509bab3a55ba4620c0eb25226dd18794f70df13e629c70897087f91d632
 ---
 
 1

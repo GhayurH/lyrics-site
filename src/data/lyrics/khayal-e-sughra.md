@@ -68,9 +68,6 @@ romanLyrics: |-
   Ye kehti hai sughra to ab na rahi
   Hai khamosh hontoṅ pe nauha raza
   Ab mai kahaṅ roti hoo...
-# source_id: nohayonline:c93617b38d9dc7fedf6b
-# source_url: https://www.nohayonline.com/details_content.php?id=2376
-# raw_sha256: 351a89882c24b184826da0d6007d350ec83e3c718c2a213912679144ebbca77e
 ---
 
 ۱

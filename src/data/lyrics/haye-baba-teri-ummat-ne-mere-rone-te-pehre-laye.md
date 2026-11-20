@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1231204e531a90d22a9d
-# source_url: https://www.ziyaraat.net/api/noha/625
-# raw_sha256: 7a98bcd35a63dd3d01476aab615e6a8369c62e36134bb15e5eacd30b80be0b60
 ---
 
 Haey baba teri ummat nay meray ronay tay pehray laye

@@ -69,9 +69,6 @@ romanLyrics: |-
   Mere nur-e-nazar ab kya kare gi maaṅ teri ji kar
   Jiye gi jab talak maadar kare gi bas tera maatam
   Saf-e-Maatam bichhaauṅ ya tujhe rouṅ Ali Akbar
-# source_id: nohayonline:c6e294ce32dba3fdbc7b
-# source_url: https://www.nohayonline.com/details_content.php?id=3659
-# raw_sha256: 8e72eba7d705d272406318853d0b16f83986d09cea64b2d1e9721af942ab53ff
 ---
 تجھے دولہا بناؤں یا تجھے روؤں علی اکبر
 تیرا سہرا سجاؤں یا تجھے روؤں علی اکبر

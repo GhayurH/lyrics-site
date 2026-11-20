@@ -69,9 +69,6 @@ romanLyrics: |-
   Haasil ho tujhe irfaan-e-aza
   Hai jis ki musibat tu ne likhi
   Ek daadi hai ek poti hai
-# source_id: nohayonline:5e7c528a3f688635eb72
-# source_url: https://www.nohayonline.com/details_content.php?id=907
-# raw_sha256: 6a6fa36e3a24e757bbe96e2e30ae2bb3deedbce41aebe2b1324d2875afb9dffa
 ---
 دونوں کی عجب ہے مظلومیت
 اک دادی ہے اک پوتی ہے

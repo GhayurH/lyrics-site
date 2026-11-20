@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ceccc4f8f497d08fe353
-# source_url: https://tajpoints.com/2017/02/zikar-khaibar-ka-sunaya-tu-bura-maan-gay.html
-# raw_sha256: da07139dcd4dec4b2e70e4ea8962ceefff2e66038208d4794dc1a0a95aec9e75
 ---
 
 Zikr Khaybar Ka Sunaya Tu Bura Maan Gaye.

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:847da1ec29c766f82515
-# source_url: https://www.nohawriteups.org/dunya-walo-shabir-kay-matam-pe-pabandi-kyun-lagaty-ho/
-# original_html: snapshots/nohawriteups/original_html/847da1ec29c766f82515.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/847da1ec29c766f82515.json
-# api_content_sha256: dbcdc50101ea6418c0676ea3db2cf1cef296a898bd128d160a83abe8e1fd0451
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Dunya Walo Shabir Kay Matam Pe Pabandi Kyun Lagaty Ho

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a5ce56197c0e9ea55614
-# source_url: https://tajpoints.com/2017/02/rooz-jeena-rooz-marna-safraan-wich.html
-# raw_sha256: aaba36ad0473868d0f91a667fc48a75c4adb128c06fbe361d4878af16066fa78
 ---
 
 1

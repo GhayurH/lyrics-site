@@ -61,9 +61,6 @@ romanLyrics: |-
   Nauha likhte huwe irfan ye mazhar ne kaha tha rokar
   Kaun khirtaas pe la sakta hai aulade payambar ka safar
   Ro diye qalb o jigar ek hi misra likh kar
-# source_id: nohayonline:6c188d89e2b9cea32ad7
-# source_url: https://www.nohayonline.com/details_content.php?id=559
-# raw_sha256: b93970f364b07b50bf742f3bcfd8bba272fe69cd023281bcec23404fc8e0e2aa
 ---
 جب شام کے بازار میں سیدانیاں آئی
 ارے چادر کی جگہ خاکِ سفر بالوں پہ لائی

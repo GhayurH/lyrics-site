@@ -66,9 +66,6 @@ romanLyrics: |-
   Ehsaas kaise likhe lafzoṅ meiṅ aah Aini
   Mur mur ke dekhte the Kaabe ko Shaah Aini
   Aamir ye Shaah-e-diṅ ka nauha suna raha hai
-# source_id: nohayonline:ef17c53839af0ad3b908
-# source_url: https://www.nohayonline.com/details_content.php?id=3492
-# raw_sha256: 1d4a43051949d0de307154866662da9206802afb904387bd9d8135fd12dc064b
 ---
 جس وقت یہ زمانہ مکہ میں آ رہا ہے
 تیرا حسین تیرے کعبے سے جا رہا ہے

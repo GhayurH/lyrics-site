@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:550d4e70575717884ac9
-# source_url: https://tajpoints.com/2022/09/sibt-e-nabi-ko-zehar-se-masmom-kiya-hai.html
-# raw_sha256: fbad3e06224e05b1487b915c54652ff7fe7cfa5680e2fef183f158b043bc0a79
 ---
 
 1

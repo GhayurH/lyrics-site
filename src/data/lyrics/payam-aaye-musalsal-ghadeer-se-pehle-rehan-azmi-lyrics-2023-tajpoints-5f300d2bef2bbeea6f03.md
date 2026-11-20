@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5f300d2bef2bbeea6f03
-# source_url: https://tajpoints.com/2023/06/payam-aaye-musalsal-ghadeer-se-pehle.html
-# raw_sha256: 07bffac92ee28d850883058b71a5e436b158e33b418bd680d5ddefe84f350fb9
 ---
 
 1

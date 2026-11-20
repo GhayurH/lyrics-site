@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:06104c80c2ad58082609
-# source_url: https://tajpoints.com/2021/01/jag-ron-nayi-denda-haye-baba-lyrics-in.html
-# raw_sha256: 9530a8f4e175117bb7914e1aee0eb5daa3f252c394c4a29d702333c129b486b6
 ---
 
 1

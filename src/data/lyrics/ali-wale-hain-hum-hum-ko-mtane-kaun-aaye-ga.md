@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:b6f1fecc5c574ecf2c0d
-# source_url: https://www.ziyaraat.net/api/noha/2219
-# raw_sha256: f59831a20e3dc0d30f0f2794abe2581709695e56e5232914fd19580c9b3b3538
 ---
 
 Ali walay hain ham ham ko mitanay kon aaye ga

@@ -8,9 +8,6 @@ poet: "Kami"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d76939c33bf512a76233
-# source_url: https://tajpoints.com/2018/02/hai-yeh-noha-hussain-o-hasan-ka-choor.html
-# raw_sha256: 468ac4612727263b2d3225453627d7dbf1631760d0f2ce418c5d101e9f86c7a1
 ---
 
 1

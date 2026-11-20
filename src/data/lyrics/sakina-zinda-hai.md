@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Hai siskiyoṅ ki sada ab bhi Shaam meiṅ Ahsan
   Abhi bhi lagta hai aisa Sakina zinda hai
-# source_id: nohayonline:be93d141abd7e3e94bf4
-# source_url: https://www.nohayonline.com/details_content.php?id=1002
-# raw_sha256: f7ed594b67fb87789a12f3a3937814a17aacd0f4e939525286d95a94aa6f49ed
 ---
 ملا نہیں تیرا سینہ سکینہ زندہ ہے
 طمانچے کھا کے بھی بابا سکینہ زندہ ہے

@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:944f2f816acac6eba444
-# source_url: https://www.nohawriteups.org/aaj-bhi-gaithi-ke-seenay-par-uska-alam/
-# raw_sha256: f8d23a7d6ffc87b3c0db9eb9b92462e8de0d1d8e7745c0fd8aa81c88ba69db00
-# source_title_original: Aaj Bhi Gaithi Ke Seenay Par Uska Alam
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 ---
 
 Aaj Bhi Gaithi Ke Seenay Par Uska Alam Lehraye Toh

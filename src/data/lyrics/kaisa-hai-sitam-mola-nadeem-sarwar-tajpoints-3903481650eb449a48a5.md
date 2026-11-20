@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3903481650eb449a48a5
-# source_url: https://tajpoints.com/2023/01/kaisa-hai-sitam-mola-nadeem-sarwar.html
-# raw_sha256: b0388ccea3b073d678bc4a49f3cd4fb35e13816a6b62e56a37ede8019d5fe489
 ---
 
 1

@@ -94,9 +94,6 @@ romanLyrics: |-
   Hum agar haiṅ sada yehi lab par
   Qabl az Karbala Khuda hi Khuda
   Baad az Karbala Husain Husain
-# source_id: nohayonline:a2aa9dc8a24f87e4a487
-# source_url: https://www.nohayonline.com/details_content.php?id=3194
-# raw_sha256: 615b60deb80a3ddd94c723ef2b883388d7cbf32feb3c840c74d579ea56a58b79
 ---
 یہ کون سی وقار ہے
 بلا کا شہ سوار ہے

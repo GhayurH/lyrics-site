@@ -52,13 +52,6 @@ romanLyrics: |-
   Shaukat sar-e-maqtal yeh kaha Bint-e-Ali ne
   Zehra ki pali ne
   Bhaiya tere bin khaak teri behna ka jina
-# source_id: nohayonline:78bf73957132f492d3aa
-# source_url: https://www.nohayonline.com/details_content.php?id=345
-# raw_sha256: fa7536ca3f97b31eed162ecece9aeef799f4dfcd71f01cb79af1e18ea147bf0a
-# source_id: ziyaraat:bc0349daa9af0e8005c4
-# source_url: https://www.ziyaraat.net/api/noha/852
-# raw_sha256: ac68f42cdb16f52f573b32d35145f23b546d04ceaf3af2c6e5fdd4a241c1d2ee
-# added_stanza_source: roman:kalam-nohayonline-78bf73957132f492d3aa
 ---
 
 آباد ہوئی کربوبلا اُجڑا مدینہ

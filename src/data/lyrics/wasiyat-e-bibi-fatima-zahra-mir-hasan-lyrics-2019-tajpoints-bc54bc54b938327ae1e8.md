@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bc54bc54b938327ae1e8
-# source_url: https://tajpoints.com/2019/01/wasiyat-e-bibi-fatima-zahra.html
-# raw_sha256: 5daf08b430009508db930cbc0f69c58b36356aa438f38400f2e9009b659daff4
 ---
 
 1

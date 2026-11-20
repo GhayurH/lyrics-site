@@ -8,9 +8,6 @@ poet: "Sadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dc029604e04a188dbaa3
-# source_url: https://tajpoints.com/2021/08/youn-tan-se-juda-ho-ke-juda-baat-kare.html
-# raw_sha256: 67d84a40d6800c162fc50aa5b0477086cbd96b32d3cc551544c281cd86c8df90
 ---
 
 Youn Tan Se Juda Ho Ke Juda Baat Kare Gi Syed Mudassir Mehdi.

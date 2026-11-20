@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ba5cf707dab293afba94
-# source_url: https://tajpoints.com/2023/06/karbala-toon-pehlaan-bachrey-ghazi-di.html
-# raw_sha256: 51ce2626512580bcf3edb8686b6ff2624a568fd129546f4ddb12e7a871780459
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cb390735135affc04460
-# source_url: https://tajpoints.com/2023/07/waqt-yeh-teri-sakina-pay-hassan-ali.html
-# raw_sha256: b501e584e2d47c7fa09353bd1c3f744d173219e6107435b8fd87476b5dd6c21e
 ---
 
 Waqt Yeh Teri Sakina Pe Hai Kaisa Baba.

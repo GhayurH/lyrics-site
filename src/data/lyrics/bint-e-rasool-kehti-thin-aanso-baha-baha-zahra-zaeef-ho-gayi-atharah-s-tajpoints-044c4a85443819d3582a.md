@@ -8,9 +8,6 @@ poet: "Wajhi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:044c4a85443819d3582a
-# source_url: https://tajpoints.com/2018/02/bint-e-rasool-kehti-thin-aanso-baha.html
-# raw_sha256: 1e6204fe04dc0775b8b4d243cc7ff12bd484f1cd062ceffa5b9a7115319868d2
 ---
 
 Bint-e-Rasool Kehti Thin Aanso Baha Baha Zahra Zaeef Ho Gayi Atharah Saal Mein.

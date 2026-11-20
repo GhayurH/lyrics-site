@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1c6c3cdb843e665e41a6
-# source_url: https://www.ziyaraat.net/api/noha/1793
-# raw_sha256: 86f97488e8079826497e1c25ca74b5195cc5d9178032c902357c23a3419d420b
 ---
 
 Beemaar kya kare

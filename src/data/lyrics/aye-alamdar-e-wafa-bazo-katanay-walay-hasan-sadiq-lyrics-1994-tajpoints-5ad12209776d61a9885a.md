@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5ad12209776d61a9885a
-# source_url: https://tajpoints.com/2023/01/aye-alamdar-e-wafa-bazo-katanay-walay.html
-# raw_sha256: 6f5e60d66999c4ec506dc61a8deb5b01a9008f57f1f7d71bbb2267a51e50f173
 ---
 
 Aye Alamdar-e-Wafa Bazo Katanay Walay Hasan Sadiq.

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e95f2e9d9807b3994d08
-# source_url: https://tajpoints.com/2025/01/zeenat-e-khandaan-hai-zainab-mir-hasan.html
-# raw_sha256: 75b108a5bfd084c63b32e6e03f39fd1b26c7690c97f50b8a10a4efe02fd73617
 ---
 
 Zeenat e Khandaan Hai Zainab Mir Hasan Mir.

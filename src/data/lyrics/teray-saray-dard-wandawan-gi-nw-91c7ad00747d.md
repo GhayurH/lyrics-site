@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:91c7ad00747d651c84cd
-# source_url: https://www.nohawriteups.org/teray-saray-dard-wandawan-gi/
-# original_html: snapshots/nohawriteups/original_html/91c7ad00747d651c84cd.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/91c7ad00747d651c84cd.json
-# api_content_sha256: 09216d236f130d9b9f2d4d4bee7d75f6d9d253d0071706ae51b2531adf065817
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Teray saray dard wandawa’n gi Shabir main Zainab haan..

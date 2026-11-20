@@ -37,9 +37,6 @@ romanLyrics: |-
   5
   Qabr meiṅ Jawad o Sadiq saath le kar jaaeṅge
   Dil meiṅ tera dard Asghar aankh se aansu rawaaṅ
-# source_id: nohayonline:1a4ca26ccdec566f61bb
-# source_url: https://www.nohayonline.com/details_content.php?id=2303
-# raw_sha256: 132b779457d2a0d581625bc09809dd4e20fcc9141e344394402167216487b2bd
 ---
 آ دوں میں لوریاں
 

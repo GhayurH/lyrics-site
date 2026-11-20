@@ -56,12 +56,6 @@ romanLyrics: 'Ham soorat e ahmed ho hm naam e khuda akbar
   Ab kaise bataun mai zaidi ki tamanna hai
 
   Marte hue honton par ho naam tera akbar'
-# source_id: nohayonline:ee93306728d1219e7d38
-# source_url: https://www.nohayonline.com/details_content.php?id=228
-# raw_sha256: 9c142db913ac66eba5a8f1737e21cd86ea16a299347dd781df93e79275d7c23c
-# source_id: ziyaraat:cca4ea25e015669b4e34
-# source_url: https://www.ziyaraat.net/api/noha/2398
-# raw_sha256: d8f5321d0055de04f053d5b8556fed3021ef2755d425e142df2b926515c81364
 ---
 
 ؑہم صورت احمدؐ ہو ہم نام خدا اکبر

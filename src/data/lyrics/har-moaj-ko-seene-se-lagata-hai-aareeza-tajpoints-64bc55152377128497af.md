@@ -8,9 +8,6 @@ poet: "Athar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:64bc55152377128497af
-# source_url: https://tajpoints.com/2017/12/har-moaj-ko-seene-se-lagata-hai-aareeza.html
-# raw_sha256: 89f66a11a0fab67050ea28e8eaad78d9115b8227913fb48695a434070786db4b
 ---
 
 1

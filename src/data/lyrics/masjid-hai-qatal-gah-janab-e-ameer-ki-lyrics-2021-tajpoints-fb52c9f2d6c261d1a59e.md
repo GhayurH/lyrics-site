@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fb52c9f2d6c261d1a59e
-# source_url: https://tajpoints.com/2021/04/masjid-hai-qatal-gah-janab-e-ameer-ki.html
-# raw_sha256: 49ce5df2b4f8cbe65fedf8f7f3f8604a5c3e181a0d47a07068e667f7411af39b
 ---
 
 Masjid Hai Qatal Gah Janab-e-Ameer Ki

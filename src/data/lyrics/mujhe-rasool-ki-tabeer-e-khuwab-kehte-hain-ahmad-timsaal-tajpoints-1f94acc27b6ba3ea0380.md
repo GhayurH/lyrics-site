@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1f94acc27b6ba3ea0380
-# source_url: https://tajpoints.com/2025/03/mujhe-rasool-ki-tabeer-e-khuwab-kehte.html
-# raw_sha256: 4705b6f6f9837d2e3156384ee9a327dc041753f01fa9c6ab59f876fe50fb0e8c
 ---
 
 Mujhe Rasool Ki Tabeer e Khuwab Kehte Hain Ahmad Timsaal.

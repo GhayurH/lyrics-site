@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ccd521546e31339fd347
-# source_url: https://tajpoints.com/2018/08/khud-oss-ne-apna-youn-bhi-shajra-badal.html
-# raw_sha256: 5fcf36d9c45b85ce0f862b2c6ebd004f3181944bdd8084d2af7e69f36306225c
 ---
 
 1

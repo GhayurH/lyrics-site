@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ea1bc7bebf8efffa1f9d
-# source_url: https://tajpoints.com/2024/11/dewar-o-dar-ke-darmiyan-qamar-baltistani.html
-# raw_sha256: 675213a4b923d8702e38c1011ff32f6064068ff1c6e3ebd317da94dd0b94f08a
-# source_title_original: Dewar o Dar Ke Darmiyan Qamar Baltistani 2024
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Dewar o Dar Ke Darmiyan

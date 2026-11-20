@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a78c95d4adc33e8a5dfc
-# source_url: https://tajpoints.com/2017/02/madine-ki-fizaon-mein-dar-e-haideras.html
-# raw_sha256: 8e24e23152a83cfc27118828a0ac6779e78741b11b1cab3a56b67fd654c7d57f
 ---
 
 Madine Ki Fizaon Mein Dar-e-Haider Nahi Milta.

@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:abe87ac674c1f8228078
-# source_url: https://tajpoints.com/2018/01/bulbulon-ke-honton-par-phir-wohi-tarana.html
-# raw_sha256: 1b299a6b9add2c2ada11405602bb33153bad5de9e6f1e05aef6e3e7fbfb52dc7
 ---
 
 Bulbulon Ke Honton Par Phir Wohi Tarana Hai.

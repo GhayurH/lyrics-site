@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1d325cde2f0fbe8ff5e0
-# source_url: https://tajpoints.com/2019/04/badar-o-ohad-ki-ghatiyan-khandaq-ki.html
-# raw_sha256: c95c282c8cf0c7dc0406f443499d587aadee0697b51f5f10e0d306d33f312ef4
 ---
 
 1

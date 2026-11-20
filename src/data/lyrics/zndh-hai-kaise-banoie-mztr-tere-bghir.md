@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a018c022bdf847a0d315
-# source_url: https://www.ziyaraat.net/api/noha/1901
-# raw_sha256: e8e4426e382f1c55bc1e666fa2a374f203d3a230c2cf414bdac63b6f6507d3ff
 ---
 
 Zindah hai kaise Banu-e-muztar tere baghair

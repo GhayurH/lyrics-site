@@ -48,9 +48,6 @@ romanLyrics: |-
   Rukh-e-Husain ko taa zinda kar diya hai Naved
   Khuda ko us ne jo paainda kar diya hai Naved
   Ye khun ka pursa hai yaani salaam Zainab ka
-# source_id: nohayonline:f8f9cfa0d571e7b9a1fd
-# source_url: https://www.nohayonline.com/details_content.php?id=959
-# raw_sha256: f57afc143ef3e34deff90ae445582f9944a05b9bf8a40717422953aeec5c72ed
 ---
 کہیں نہیں ہے سفر میں قیام زینب کو
 ابھی تو جانا ہے مقتل سے شام زینب کو

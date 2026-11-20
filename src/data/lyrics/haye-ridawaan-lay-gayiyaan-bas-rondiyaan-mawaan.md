@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b640057a29d86e4f3b30
-# source_url: https://tajpoints.com/2019/06/haye-ridawaan-lay-gayiyaan-bas.html
-# raw_sha256: 3e4fa2a5c54ce311335d8ced08271fc707d09bcc772357d0b196d8e77e69834b
-# source_title_original: Haye Ridawaan Lay Gayiyaan Bas Rondiyaan Mawaan 2019
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Haye Ridawaan Lay Gayiyaan Bas Rondiyaan Mawaan Reh Gayiyaan

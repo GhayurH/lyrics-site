@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Kuchh khaak ura kar ae biyaabaṅ ki hawaaoṅ
   Beparda Nabi zaadiyoṅ ka parda bana lo
-# source_id: nohayonline:8644e95b29b679732700
-# source_url: https://www.nohayonline.com/details_content.php?id=2312
-# raw_sha256: 2b64767b198e842ad296a9c79ab815d57ad53a4b4afb3112d5f58ad4b13434e6
 ---
 سجاد اٹھو پیاسی سکینہ کو سنبھالو
 یہ شامِ غریباں ہے غریبوں کو بچا لو

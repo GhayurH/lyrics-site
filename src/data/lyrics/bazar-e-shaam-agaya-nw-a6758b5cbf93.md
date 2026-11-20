@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a6758b5cbf936d7668d7
-# source_url: https://www.nohawriteups.org/bazar-e-shaam-agaya/
-# original_html: snapshots/nohawriteups/original_html/a6758b5cbf936d7668d7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a6758b5cbf936d7668d7.json
-# api_content_sha256: a1b7d8d5b102291e0e492a93f2c2dac258f35d4da74983c635a7112f081c46e8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Bazare Shaam Aagaya

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6b460d08c4e18e3ec97b
-# source_url: https://tajpoints.com/2024/05/deen-e-khuda-te-logo-ahsan-way-zainab-da.html
-# raw_sha256: 420aa6c0e3eae7cb6ac9692322928d08326a8cc4d6a3ee3920d8cbd081977e54
 ---
 
 1

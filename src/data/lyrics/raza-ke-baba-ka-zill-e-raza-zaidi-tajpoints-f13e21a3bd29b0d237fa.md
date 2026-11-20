@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f13e21a3bd29b0d237fa
-# source_url: https://tajpoints.com/2024/02/raza-ke-baba-ka-zill-e-raza-zaidi.html
-# raw_sha256: 31b1e1e74919640ba7fd09a10b76e7a7e17e192e3d50d37ec3dcba3a375c406f
 ---
 
 1

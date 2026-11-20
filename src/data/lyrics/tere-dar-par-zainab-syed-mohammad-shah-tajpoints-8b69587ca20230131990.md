@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8b69587ca20230131990
-# source_url: https://tajpoints.com/2021/03/tere-dar-par-zainab-syed-mohammad-shah.html
-# raw_sha256: f2f20e8ed3c529e960d822eda2c64f456826a9d5edfb4bd7bf074d219b6d8a5c
 ---
 
 Tere Dar Par Zainab Syed Mohammad Shah.

@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da568968bfb29038702d
-# source_url: https://tajpoints.com/2021/05/kofay-se-ja-raha-hai-hum-naam-kibriya.html
-# raw_sha256: 43ebe99aead61ea94c13e79c7c987768a7d1324b2ae68d5f56653d51fa13d697
 ---
 
 1

@@ -8,9 +8,6 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:2205557331deaa284762
-# source_url: https://www.ziyaraat.net/api/noha/891
-# raw_sha256: d1bc314e094c71e7f4f843bbbcd337452cb3eb5d46a5f81c2ac5751d8a51dcc8
 ---
 
 نہ رو مولا، نہ رو مولا

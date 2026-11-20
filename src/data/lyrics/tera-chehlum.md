@@ -52,9 +52,6 @@ romanLyrics: |-
   Maiṅ ne dobara shaam jaana hai
   Hashr tak mai bichar gayi bhaiyya
   Tera chehlum manaane...
-# source_id: nohayonline:3b4c506717ddda4cfa2a
-# source_url: https://www.nohayonline.com/details_content.php?id=2873
-# raw_sha256: 1f1b20bbd5bb395cd09476a8e5353dc700c60f5c273fa584b30364555df8fa1f
 ---
 
 ۱

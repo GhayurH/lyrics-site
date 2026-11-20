@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:43ceedd32133443a3fe7
-# source_url: https://tajpoints.com/2023/04/azadar-ki-eid-lyrics-in-urdu-and-roman.html
-# raw_sha256: 7234b784d8fda6bcb2456b4fe42e2d79f9e7b54e5da7d41a7c84cf3708262df2
 ---
 
 Palat Ke Narjis Ka Lal Aaye Tu Eid Ho Gi.

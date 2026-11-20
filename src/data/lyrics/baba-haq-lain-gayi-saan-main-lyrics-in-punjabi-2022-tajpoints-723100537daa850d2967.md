@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:723100537daa850d2967
-# source_url: https://tajpoints.com/2023/01/baba-haq-lain-gayi-saan-main-lyrics-in.html
-# raw_sha256: af68c9de2c2e5dc5efb0fa88f8f7c8cb9f7f2e851cfda3b0da69f9cc99f881d8
 ---
 
 1

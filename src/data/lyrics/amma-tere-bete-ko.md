@@ -63,9 +63,6 @@ romanLyrics: |-
   Rehan o Erum bas wo qayaamat ki ghari thi
   Jab qabr pe Zehra ki ye Zainab ne buka ki
   Begor o kafan dasht meiṅ tha Shaah ka laasha
-# source_id: nohayonline:fe031cb9aff6aa9f9925
-# source_url: https://www.nohayonline.com/details_content.php?id=1380
-# raw_sha256: ad2903d95a6c061e81b7554151db3ce65de8cdc1a2a46c59c820d3f1994a0055
 ---
 اماں تیرے بیٹے کو ستمگروں نے مارا
 سجدے میں ہوا قتل بھرا گھر تیرا پیاسا

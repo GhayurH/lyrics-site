@@ -8,9 +8,6 @@ poet: "Razz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1d9874886ae9efc20af4
-# source_url: https://tajpoints.com/2023/03/meer-e-karwan-abbas-hai-raza-hassan.html
-# raw_sha256: 966ad0ab2f47239b49064a95c4932cab8822a6a8217e2e70701f3b79eedff00d
 ---
 
 1

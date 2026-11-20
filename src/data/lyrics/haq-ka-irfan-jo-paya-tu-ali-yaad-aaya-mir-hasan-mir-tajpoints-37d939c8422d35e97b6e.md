@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:37d939c8422d35e97b6e
-# source_url: https://tajpoints.com/2022/03/haq-ka-irfan-jo-paya-tu-ali-yaad-aaya.html
-# raw_sha256: 97d98e897129c9211b6cd236e820ef6ac7562677da8b7eadcd1b62b1c52536a1
 ---
 
 1

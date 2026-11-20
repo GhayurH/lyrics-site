@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:138771d3cf37d0bb249a
-# source_url: https://tajpoints.com/2020/01/karbala-ka-aaya-manzar-fatima-ke-samne.html
-# raw_sha256: 6e0ffbfb567b78710dabf9e3372a062d1bd509943e728747ec4b83e01b134663
 ---
 
 Karbala Ka Aaya Manzar Fatima Ke Samne.

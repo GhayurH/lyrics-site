@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:33eb5b8a7f6b906e41b9
-# source_url: https://tajpoints.com/2022/03/ay-sahibuzaman-syed-wajhi-hassan-zaidi.html
-# raw_sha256: ce6315ed73ecd04f889c3de53d26c70b3c1b5f6570eeeeaf097c7210b8ad1853
 ---
 
 Ay Sahibuzaman Syed Wajhi Hassan Zaidi.

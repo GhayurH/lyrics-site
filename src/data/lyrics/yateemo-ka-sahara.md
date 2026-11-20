@@ -53,9 +53,6 @@ romanLyrics: |-
   Dil ye phat jaayega Zishaan mera ro ro kar
   Shadmaaṅ gham ye qayaamat hai Ali waaloṅ par
   Kis tarah sabr kare sabr ka yaara na raha
-# source_id: nohayonline:49982afacefbe8b0afaf
-# source_url: https://www.nohayonline.com/details_content.php?id=1580
-# raw_sha256: 5a799f3fa6904260cbfd7f780c9a8771cc5c5627b290a0980cbe0900aa41bad7
 ---
 آج کوفے کے یتیموں کا سہارا نہ رہا
 ہائے عباس علمدار کا بابا نہ رہا

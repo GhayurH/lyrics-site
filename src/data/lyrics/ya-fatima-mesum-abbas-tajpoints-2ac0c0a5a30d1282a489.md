@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2ac0c0a5a30d1282a489
-# source_url: https://tajpoints.com/2023/11/ya-fatima-mesum-abbas-lyircs-in-urdu.html
-# raw_sha256: e93989cd08955e2cb80d62891e8eacf246d96a2e64747695da80dda11c15ba93
 ---
 
 Ya Fatima Mesum Abbas Lyrics In Urd

@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fa068faeeb1fd09ad267
-# source_url: https://tajpoints.com/2025/02/teergi-e-zindagi-mein-roshni-abbas-hai.html
-# raw_sha256: f58690876254403ce52967f3dc4d8b33d2627b5b3f300c2c2e3dae20290a4a28
 ---
 
 1

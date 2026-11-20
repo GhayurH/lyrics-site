@@ -124,9 +124,6 @@ romanLyrics: |-
   Behlol ki tarha hoo mai diwana
   Hyder maula ya ali hyder maula
   Hyder maula hyder maula
-# source_id: nohayonline:14fd65b1da437b6a784b
-# source_url: https://www.nohayonline.com/details_content.php?id=2288
-# raw_sha256: ea14b29274759a15bf5f4b8ffcbb828a377f8d1d715f585057b7e8ba91090ccd
 ---
 
 ۱

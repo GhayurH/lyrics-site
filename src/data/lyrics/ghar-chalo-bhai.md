@@ -52,9 +52,6 @@ romanLyrics: |-
   Keh nahi paaye irfan o mazhar
   Kaampti thi zamiṅ bas ye sun kar
   Ghar chalo bhai...
-# source_id: nohayonline:a33fea735d1f6ce3c7d5
-# source_url: https://www.nohayonline.com/details_content.php?id=2207
-# raw_sha256: f125c114a454e38e46ce9c0a42d28fbc0f1d8a2f853f0d3e5089ca3bf4ad9bc2
 ---
 
 ۱

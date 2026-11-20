@@ -52,9 +52,6 @@ romanLyrics: |-
   Jaate huwe pura karo armaan hamara
   Ae bhai hamay bhai pukaro zara ek baar
   Haye alamdar haye alamdar...
-# source_id: nohayonline:925592545654d581db53
-# source_url: https://www.nohayonline.com/details_content.php?id=1931
-# raw_sha256: b899e96de5f6c06ca6e62bb2a0f5ccb4d3d1fb051d535e486fd24186a4b06a49
 ---
 
 ۱

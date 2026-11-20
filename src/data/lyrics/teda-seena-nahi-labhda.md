@@ -42,13 +42,6 @@ romanLyrics: |-
   8
   Shal koy dhee na injh guzre be sarba babe dee lash utho
   Jeew meh rasiya paah keh oh tedi lash tho guzri ah
-# source_id: ziyaraat:1c63c2c4564cf96541e3
-# source_url: https://www.ziyaraat.net/api/noha/2259
-# raw_sha256: a5495843d764b455d806613619b1b6b8a0a70b7b01bc6567c7e8e68b30168d36
-# Reviewed: identical Urdu text; second Ziyaraat entry had Urdu-script content in Roman slot
-# source_id: ziyaraat:46006ed4e56c3a59477d
-# source_url: https://www.ziyaraat.net/api/noha/1957
-# raw_sha256: 1ed9ed9e81c8cc3ff04cc6230e87d2ceaa9fc2a44cc45b8776e9a2071c03c2d0
 ---
 
 ۱

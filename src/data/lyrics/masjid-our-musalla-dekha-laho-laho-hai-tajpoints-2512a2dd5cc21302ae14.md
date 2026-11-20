@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2512a2dd5cc21302ae14
-# source_url: https://tajpoints.com/2024/03/masjid-our-musalla-dekha-laho-laho-hai.html
-# raw_sha256: bd4aefaa00e85fc3427a2d7cd9496adf4ffc942520a5895b2d71a96fa7489674
 ---
 
 1

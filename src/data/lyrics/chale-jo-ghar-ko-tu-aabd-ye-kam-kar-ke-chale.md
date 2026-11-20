@@ -73,12 +73,6 @@ romanLyrics: 'Chalay jo ghar ko to Aabid ye kaam kar ke chalay
   Sabhi watan gayay may qaid may rahi tanha
 
   Lahad se ahl e haram jab salam kar ke chalay'
-# source_id: ziyaraat:2772480cad545082aa7d
-# source_url: https://www.ziyaraat.net/api/noha/2104
-# raw_sha256: d9a815574f35464c53486c93cea5998f1082d05d7af4774aa428c50a26cda8cc
-# source_id: ziyaraat:809bab2262203f99d234
-# source_url: https://www.ziyaraat.net/api/noha/2244
-# raw_sha256: 405a80c1bcf13304bf9951a65fe2476b715035c28a327374d07467ff54ec612c
 ---
 
 چلے جو گھر کو تو عابدؑ یہ کام کر كے چلے

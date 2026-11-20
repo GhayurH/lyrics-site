@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:1ba1242675b7caa9eca1
-# source_url: https://www.nohawriteups.org/zakhmi-peshani-hay-murtaza-ki/
-# original_html: snapshots/nohawriteups/original_html/1ba1242675b7caa9eca1.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/1ba1242675b7caa9eca1.json
-# api_content_sha256: e8da6c39b1a94fb54b3137cfbf8d1831abb54aa928fc16d467d2880c57540bf9
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Zakhmi peshani hay Murtaza ki

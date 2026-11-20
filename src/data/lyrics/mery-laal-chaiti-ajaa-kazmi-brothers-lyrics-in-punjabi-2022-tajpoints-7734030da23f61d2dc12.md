@@ -8,9 +8,6 @@ poet: "Amar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7734030da23f61d2dc12
-# source_url: https://tajpoints.com/2022/09/mery-laal-chaiti-ajaa-kazmi-brothers.html
-# raw_sha256: f80db1f13af414e17cee0d93bbddb4da46bc83470935b08418edd0e46eecf06c
 ---
 
 1

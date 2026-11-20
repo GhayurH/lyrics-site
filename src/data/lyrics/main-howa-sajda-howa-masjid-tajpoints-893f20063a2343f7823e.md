@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:893f20063a2343f7823e
-# source_url: https://tajpoints.com/2017/02/main-howa-sajda-howa-masjid-hoi-kaba.html
-# raw_sha256: 0d3adb769bf2eff97cdbc2740e16404053c2ccc9274929385652ce5511cbcca8
 ---
 
 1

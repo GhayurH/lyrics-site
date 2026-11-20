@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c5c92efa3daebca8269f
-# source_url: https://tajpoints.com/2023/04/mere-mazloom-ali-shahid-baltistani.html
-# raw_sha256: e2ba51d9a076ca19bae85c98939281e650860260e4d1faa9874870139cfd9479
 ---
 
 Mere Mazloom Ali Shahid Baltistani.

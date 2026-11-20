@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fe40c27de7dfb9a34610
-# source_url: https://tajpoints.com/2019/08/dulhan-wi-lajawab-aye-dulha-wi-lajawab.html
-# raw_sha256: ed12efd7774932b211d0ed9a6455e625221a8e608173dea8146fd87d30e31bf5
 ---
 
 1

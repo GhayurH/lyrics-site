@@ -87,9 +87,6 @@ romanLyrics: |-
   Taqaabul hum kareṅ kiuṅ kar
   Namaazeṅ bhi parheṅge hum
   Azaadaari na chhoreṅge
-# source_id: nohayonline:ff2b6e58382772fcf750
-# source_url: https://www.nohayonline.com/details_content.php?id=3541
-# raw_sha256: ae7e6f527702bc61e399c47b87b9fdca200bc43bc127499850cea1a38c823783
 ---
 
 ہے ارادہ ہے یہ وعدہ بی‌بی زہرا سے

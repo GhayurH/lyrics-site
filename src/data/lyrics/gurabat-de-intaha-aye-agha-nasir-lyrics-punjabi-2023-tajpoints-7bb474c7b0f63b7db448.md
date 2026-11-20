@@ -8,9 +8,6 @@ poet: "Sadiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7bb474c7b0f63b7db448
-# source_url: https://tajpoints.com/2023/04/gurabat-de-intaha-aye-agha-nasir-lyrics.html
-# raw_sha256: 7c637fb740ff451a1d3828c5904a9ecff62012ddf91f76b3fd5d85b7f22e1f5d
 ---
 
 Gurabat De Intaha Aye Agha Nasir Lyrics

@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Bete ke dil se kheṅch rahe haiṅ sinaaṅ Husain
   Ya Rab nikal na aaye kaleja ani ke saath
-# source_id: nohayonline:dcf3027698b4b12edf46
-# source_url: https://www.nohayonline.com/details_content.php?id=770
-# raw_sha256: 5d266cadedacdd3d40a9052e1ad66b07e1215224182d28df02e447e4597067e1
 ---
 
 حق ہے علی کے ساتھ علی ہے نبی کے ساتھ

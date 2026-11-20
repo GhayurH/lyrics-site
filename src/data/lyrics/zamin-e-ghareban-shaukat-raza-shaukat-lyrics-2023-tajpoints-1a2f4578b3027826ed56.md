@@ -8,9 +8,6 @@ poet: "Shaukat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1a2f4578b3027826ed56
-# source_url: https://tajpoints.com/2023/05/zamin-e-ghareban-shaukat-raza-shaukat.html
-# raw_sha256: 516ee6a2c5f060c47fd87b09d3e26596ab307a6d1f939d030469cab9bee32250
 ---
 
 Zamin e Ghareban Shaukat Raza Shaukat

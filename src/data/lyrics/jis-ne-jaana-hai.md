@@ -64,9 +64,6 @@ romanLyrics: |-
   Shaadmaaṅ tera ye mansab hai ataa-e-Zehra
   Shah ke ghamkhwaar haiṅ Yawar ye sabhi ahl-e-aza
   Maiṅ bhi khidmat ko huṅ tayyaar khara Bismillah
-# source_id: nohayonline:70e7eea4c347347440d5
-# source_url: https://www.nohayonline.com/details_content.php?id=2737
-# raw_sha256: 6906f1cbc6a85ec71c422cc0a1b65df7ebee33901b5fcb7808b711969887cee0
 ---
 لبیک یا حسین
 حیا علی خیر العمل

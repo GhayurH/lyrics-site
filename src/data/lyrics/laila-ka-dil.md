@@ -52,9 +52,6 @@ romanLyrics: |-
   Aamir o akhtar har ek misre meiṅ itna dard hai
   Sun ke nauha keh rahe hai do jahaṅ
   Tukre tukre hogaya...
-# source_id: nohayonline:1b2252979641b1e01430
-# source_url: https://www.nohayonline.com/details_content.php?id=3620
-# raw_sha256: 41a72b6b11bb5c942f03dfe950223ddaa584f6d7cc9bcd2ddf872ba6841275d5
 ---
 
 ۱

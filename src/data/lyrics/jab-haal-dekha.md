@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Tarap ke Ghazi ko Shah ne pukaara hai Saaib
   Uthaauṅ kaise bata do ye laasha Akbar ka
-# source_id: nohayonline:4469b921afe26df0bdbf
-# source_url: https://www.nohayonline.com/details_content.php?id=3687
-# raw_sha256: bef2659ef9d0439e0da5847bd23d154ea31cf28035ddeea2732bd7aa39499f2b
 ---
 جگر کو تھام کے جب حال دیکھا اکبر کا
 انی کے ساتھ میں نکلا کلیجہ اکبر کا

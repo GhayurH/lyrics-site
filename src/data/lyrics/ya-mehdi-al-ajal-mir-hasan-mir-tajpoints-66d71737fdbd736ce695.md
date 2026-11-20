@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:66d71737fdbd736ce695
-# source_url: https://tajpoints.com/2022/05/ya-mehdi-al-ajal-mir-hasan-mir-lyrics.html
-# raw_sha256: e9a69010a2e1905f239ad28061966d3830cadc9e2ad4a794985a0e7d5a1e6bfe
 ---
 
 1

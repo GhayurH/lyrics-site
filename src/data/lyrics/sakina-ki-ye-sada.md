@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Surur aa gaye aaṅkhoṅ meiṅ khun ke aaṅsu
   Ye nauha jab bhi suna hai chacha nahiṅ aaye
-# source_id: nohayonline:a020c50ee8601b62f22a
-# source_url: https://www.nohayonline.com/details_content.php?id=3757
-# raw_sha256: acc63e50a4e5d9af9e9102fc1c2652254165d73e5bf9ced5c78a6ae735396444
 ---
 سکینہ کی یہ صدا ہے چچا نہیں آئے
 اندھیرا بڑھنے لگا ہے چچا نہیں آئے

@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7c21bccd3b940f449be
-# source_url: https://tajpoints.com/2017/02/teri-aankh-ko-aazmana-para.html
-# raw_sha256: c83f390de98dd07d47ef07492fa766c9628a4348ca749a2355f969eb156b7acd
 ---
 
 1

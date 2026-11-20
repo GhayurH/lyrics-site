@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:11f44e89091855efbf6d
-# source_url: https://tajpoints.com/2020/01/turbat-pe-fatima-ki-mehdi-ka-yeh-noha.html
-# raw_sha256: 4bebef6a3a1f0aeec8d3e1c78fa35b3bf2fae1e52b36133e3136dc362dbfd691
 ---
 
 1

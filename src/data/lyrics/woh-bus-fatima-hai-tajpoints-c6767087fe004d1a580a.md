@@ -8,9 +8,6 @@ poet: "Zafar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c6767087fe004d1a580a
-# source_url: https://tajpoints.com/2020/02/woh-bus-fatima-hai-lyrics-in-urdu-and.html
-# raw_sha256: 6fefaf458bd6d39f000d646b43c363d58a96792fe5bc3d81e25e5a90011fe60d
 ---
 
 1

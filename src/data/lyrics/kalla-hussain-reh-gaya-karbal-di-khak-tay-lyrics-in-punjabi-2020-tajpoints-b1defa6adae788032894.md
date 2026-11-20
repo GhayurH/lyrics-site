@@ -8,9 +8,6 @@ poet: "Riaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b1defa6adae788032894
-# source_url: https://tajpoints.com/2020/06/kalla-hussain-reh-gaya-karbal-di-khak.html
-# raw_sha256: 5e6a98b148e2641e4eb3818e51a53106c27333e43948588add6edb22df0988be
 ---
 
 Kalla Hussain Reh Gaya Karbal Di Khak Tay.

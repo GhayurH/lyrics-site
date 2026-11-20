@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e8de721399a83aed5006
-# source_url: https://tajpoints.com/2023/06/akbar-seene-di-barchi-nu-piya-dil-de.html
-# raw_sha256: be30f2e974f35746164d68da81378f500ce7831026126d0711248a363ec94c66
 ---
 
 1

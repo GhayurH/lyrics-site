@@ -10,11 +10,6 @@ reciter: "Mir Hasan Mir"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:7f7c073983831b27c33f
-# source_url: https://www.nohawriteups.org/aay-raat-fazal-lang-jaan-tay/
-# raw_sha256: 50accbf301e4266fe98ee01982d993bbbff28229d212639fb33719fb21a60717
-# source_title_original: Aay Raat Fazal Lang Jaan Tay
-# editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
 romanLyrics: |-
   Aay raat Fazal lang jaan tay de din dasweṅ da charh jaan tay de
   Fer wekhi Baba ki karda ae ik waari waila aan tay de

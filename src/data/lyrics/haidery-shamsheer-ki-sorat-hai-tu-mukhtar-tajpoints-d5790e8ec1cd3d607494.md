@@ -8,9 +8,6 @@ poet: "Farman"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d5790e8ec1cd3d607494
-# source_url: https://tajpoints.com/2019/11/haidery-shamsheer-ki-sorat-hai-tu.html
-# raw_sha256: f0856436eeb9db8c531aa78cb1eb6979945bdf1f29d84c80dd0c1689ed8561b8
 ---
 
 1

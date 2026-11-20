@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:edb2b17e6f7a8a5c7bd1
-# source_url: https://tajpoints.com/2025/12/fatima-aur-zulfiqar-guftugu-mir-sajjad.html
-# raw_sha256: e7e7f531f1cfc0c09cb5d2f5f6c7de2f4455e16e81b1d9eac9dc7ef2d8ef1251
 ---
 
 1

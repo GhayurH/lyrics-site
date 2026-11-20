@@ -43,9 +43,6 @@ romanLyrics: |-
   Noha likha hai aap ne us bezubaan ka
   Khushnudi-e-Husain hai jis nohe ka sila
   Bakhshish to yuṅ bhi aap ki Rehaan ho gayi
-# source_id: nohayonline:26ffcf6cf16a1ee9ea2a
-# source_url: https://www.nohayonline.com/details_content.php?id=2938
-# raw_sha256: 9ed45beb0b0a3de86e016c601adf2008e7b3484538cd1827578d88885421e21c
 ---
 ننھی سی جان جان سے بے جان ہو گئی
 اصغر ہنسے تو موت بھی حیران ہو گئی

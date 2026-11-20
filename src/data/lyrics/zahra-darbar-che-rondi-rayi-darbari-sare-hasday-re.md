@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:408a4aaf591ff979f2b3
-# source_url: https://tajpoints.com/2019/12/zahra-darbar-che-rondi-rayi-darbari.html
-# raw_sha256: 28d65fe920d254b7207ec10e825b425608fa12bb49345a43e2f2da67705975ba
-# source_title_original: Zahra Darbar Che Rondi Rayi Darbari Sare Hasday Re 2019
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Zahra Darbar Che Rondi Rayi Darbari Sare Hasday Re

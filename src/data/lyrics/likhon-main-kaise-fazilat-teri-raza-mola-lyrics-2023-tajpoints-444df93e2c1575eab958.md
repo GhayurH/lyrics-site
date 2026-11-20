@@ -8,9 +8,6 @@ poet: "Taseer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:444df93e2c1575eab958
-# source_url: https://tajpoints.com/2023/05/likhon-main-kaise-fazilat-teri-raza.html
-# raw_sha256: a2775e9c162db947ff2959d9166898c8a9acd279d9ac459e44c394317c8f6f2f
 ---
 
 Likhon Main Kaise Fazilat Teri Raza Mola.

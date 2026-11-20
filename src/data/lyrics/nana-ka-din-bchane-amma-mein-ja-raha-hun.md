@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:f5678d6c4a62b20ab27c
-# source_url: https://www.ziyaraat.net/api/noha/1788
-# raw_sha256: c2f4f7f9ebeb1f07d67d959cfc49a148299e9e9dc0fa513558297091ba772939
 ---
 
 Nana ka deen bachane amma mai ja raha hu

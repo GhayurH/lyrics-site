@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:36df06770a004a128271
-# source_url: https://tajpoints.com/2020/01/ya-fatima-zahra-lyrics-in-urdu-and.html
-# raw_sha256: 3d6dd189e87c90cb8277ff499b9df62b3fbac8d665844d4256347d7b5526433d
 ---
 
 Dhaye Hain Sitam Aap Pe Ummat Ne Yeh Kya Kya Ya Fatima Zahra.

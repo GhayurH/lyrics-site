@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a52e9664b33be301478a
-# source_url: https://tajpoints.com/2017/10/tarteeb-banai-zainab-te-shabir-bahatar.html
-# raw_sha256: 2721d4b80dfc6e74235398c4608e8a2e086d1818ce8996b017edc273fd1fd210
 ---
 
 Tarteeb Banai Zainab Te Shabir Bahatar Write Up

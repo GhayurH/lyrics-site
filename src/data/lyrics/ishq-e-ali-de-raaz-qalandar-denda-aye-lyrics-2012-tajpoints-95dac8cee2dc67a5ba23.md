@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:95dac8cee2dc67a5ba23
-# source_url: https://tajpoints.com/2018/03/ishq-e-ali-de-raaz-qalandar-denda-aye.html
-# raw_sha256: 07e26597a6414cbb0ccfdde1fa623ffdc593e47c4c2826c093a57218fc31a64f
 ---
 
 1

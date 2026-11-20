@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:a9a50ba36a39740e813a
-# source_url: https://www.ziyaraat.net/api/noha/1199
-# raw_sha256: 38fd49c2a6d76ccdf27b5349551aa46fbebfd99898444a8d4b603fad43902723
 ---
 
 فرماتے تھے عباسِؑ علمدار نہ رونا

@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0a2289efbbfa8a6660bc
-# source_url: https://tajpoints.com/2018/10/haye-mainu-veer-kha-gaye-zindan-de.html
-# raw_sha256: e2ca6fe67f9ab83a5eb8917691cbb252b593c89806899b0f1dc6d6a21da7d4be
 ---
 
 Haye Mainu Veer Kha Gaye Zindan De Haneray.

@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dfcf41fb047a20d98a15
-# source_url: https://tajpoints.com/2023/02/sher-e-murtaza-ghazi-sayyed-zaire-naqvi.html
-# raw_sha256: d2006b84f624d4e6fbdde96813b6682311b1af736d088e6304558d892597484b
 ---
 
 1

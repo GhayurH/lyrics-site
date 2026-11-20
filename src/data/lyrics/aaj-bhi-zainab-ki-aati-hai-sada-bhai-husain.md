@@ -34,13 +34,6 @@ romanLyrics: |-
   3
   Haath mein kuze liye sab aasmaaṅ takte rahe
   Abr ne ik bund paani ki na barsaai Husain
-# source_id: ziyaraat:b30abebb6177b4f4762a
-# source_url: https://www.ziyaraat.net/api/noha/2199
-# raw_sha256: da462f3681a6a505a4ee05d4fcf302748f9948a180ccca2a221f64a7de9273e3
-# source_id: ziyaraat:ecf03aa5afd6b1bc265d
-# source_url: https://www.ziyaraat.net/api/noha/324
-# raw_sha256: 42a156c5738c11caaaddf6a3c5ac8c801c4c5d63fa6d55ebdfc0e0bec0cc3b13
-# added_stanza_source: urdu:kalam-ziyaraat-b30abebb6177b4f4762a
 ---
 
 آج بھی زینبؑ کی آتی ہے صدا بھائی حسینؑ

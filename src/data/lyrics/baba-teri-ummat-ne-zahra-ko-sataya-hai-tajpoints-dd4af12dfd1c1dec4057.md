@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dd4af12dfd1c1dec4057
-# source_url: https://tajpoints.com/2019/06/baba-teri-ummat-ne-zahra-ko-sataya-hai.html
-# raw_sha256: fe5c84a4a17a6fbb47faa4ed284e4a0446b68fe4ae5689301a1f40a5e9f0d69b
 ---
 
 1

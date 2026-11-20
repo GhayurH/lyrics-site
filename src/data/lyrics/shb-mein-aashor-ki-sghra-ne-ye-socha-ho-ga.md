@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:cfdd03bd77610f3e5f87
-# source_url: https://www.ziyaraat.net/api/noha/1341
-# raw_sha256: 3ff604a7dced58149a8bf8851383583fc264b6c9d1033f76faf5ac45eab14027
 ---
 
 شب میں عاشور کی صغراؑ نے یہ سوچا ہوگا

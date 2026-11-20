@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d374d08cd6696d1feb3c
-# source_url: https://tajpoints.com/2020/07/lut-ke-phir-lutney-chala-hai-qafila.html
-# raw_sha256: 91a8c21c1c5e7fcf740f39aab3a9e3a6c52df4561ec772a06efd2209813ea270
 ---
 
 Lut Ke Phir Lutney Chala Hai Qafila Sajjad Ka.

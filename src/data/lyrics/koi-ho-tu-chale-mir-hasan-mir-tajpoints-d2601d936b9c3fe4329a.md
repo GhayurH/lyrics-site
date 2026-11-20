@@ -8,9 +8,6 @@ poet: "Ashraf"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d2601d936b9c3fe4329a
-# source_url: https://tajpoints.com/2022/10/koi-ho-tu-chale-mir-hasan-mir-lyrics-in.html
-# raw_sha256: faa0066da43af20628d0d6622605dbe1809c5876b40b6d18a3e636758300c5e8
 ---
 
 1

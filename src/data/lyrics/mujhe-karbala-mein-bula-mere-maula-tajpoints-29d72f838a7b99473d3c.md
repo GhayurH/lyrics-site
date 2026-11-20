@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:29d72f838a7b99473d3c
-# source_url: https://tajpoints.com/2019/07/mujhe-karbala-mein-bula-mere-maula.html
-# raw_sha256: 001f8fe6f8a1e143f646547b4467ef4b4c745aa854da6fc140061d035332cb86
 ---
 
 Mujhe Karbala Mein Bula Mere Maula.

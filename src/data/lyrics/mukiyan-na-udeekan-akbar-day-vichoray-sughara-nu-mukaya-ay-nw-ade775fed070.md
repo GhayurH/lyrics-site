@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ade775fed070d8d7891c
-# source_url: https://www.nohawriteups.org/mukiyan-na-udeekan-akbar-day-vichoray-sughara-nu-mukaya-ay/
-# original_html: snapshots/nohawriteups/original_html/ade775fed070d8d7891c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ade775fed070d8d7891c.json
-# api_content_sha256: b2fe0063ae874e7c88a69fd9f5e524cc2695a35fd91677b6e1ac67007ea85a19
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mukiyan Na Udeekan Akbar Day Vichoray Sughara Nu Mukaya Ay

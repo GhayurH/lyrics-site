@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e59a0cbae6a2d6e62602
-# source_url: https://tajpoints.com/2020/01/kya-ummat-e-ahmad-mein-musalman-koi-hai.html
-# raw_sha256: 3d0320b2f337a331c09c70496993134b48cd3bf764bf321bf3b0433f4965c11f
 ---
 
 Kya Ummat-e-Ahmad Mein Musalman Koi Hai.

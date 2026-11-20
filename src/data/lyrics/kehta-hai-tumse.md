@@ -74,9 +74,6 @@ romanLyrics: |-
   Aarif hamaari nazroṅ meiṅ wo taab hai kahaaṅ
   Dekhe jo haal-e-Maadar-e-Shabbir khasta jaaṅ
   Allah dil shikasta Shah-e-Karbala ki maaṅ
-# source_id: nohayonline:b8542fc0deed72e11546
-# source_url: https://www.nohayonline.com/details_content.php?id=1333
-# raw_sha256: ffd6180dc1dc3a4442f6cadb00d1af04b834557d02370b1f504eb9af5ba1565e
 ---
 کہتا ہے تم سے ماہِ محرم حسینیوں
 مظلومِ کربلا کا ہے یہ غم حسینیوں

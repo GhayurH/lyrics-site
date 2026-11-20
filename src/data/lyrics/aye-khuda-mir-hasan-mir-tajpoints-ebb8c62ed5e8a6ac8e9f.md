@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ebb8c62ed5e8a6ac8e9f
-# source_url: https://tajpoints.com/2023/03/aye-khuda-mir-hasan-mir-lyrics-in-urdu.html
-# raw_sha256: d75e774fae1eb5a48d142311a7edec0fad51bf07d23923c8ec8211413428ee5f
 ---
 
 1

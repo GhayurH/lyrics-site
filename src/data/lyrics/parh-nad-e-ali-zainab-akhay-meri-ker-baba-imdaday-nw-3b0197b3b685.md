@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:3b0197b3b685ae89bf19
-# source_url: https://www.nohawriteups.org/parh-nad-e-ali-zainab-akhay-meri-ker-baba-imdaday/
-# original_html: snapshots/nohawriteups/original_html/3b0197b3b685ae89bf19.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3b0197b3b685ae89bf19.json
-# api_content_sha256: 76a7e8844dae6289590ae1152be33b488508f25d8068508aeeca5b7a099f0fe4
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Parh Nad-e-Ali Zainab Akhay Meri Ker Baba Imdaday

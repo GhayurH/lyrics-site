@@ -81,9 +81,6 @@ romanLyrics: |-
   Kya Muhammad ka pyara nahin hun
   Kya may Zehra ka jaya nahin hun
   Kya nabi ka nawasa nahin hun
-# source_id: ziyaraat:22dd77f8cf2db2acca5e
-# source_url: https://www.ziyaraat.net/api/noha/413
-# raw_sha256: 0301ff38fab7c177a01c38f1866c4d330d0b7f2c842cb1932e9323d67ed80e96
 ---
 
 یاحسینؑ’ یاحسینؑ’ یاحسینؑ

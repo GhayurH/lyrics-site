@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:180a02c44e29eeee2d13
-# source_url: https://tajpoint.com/jehray-dukh-wekhay-mere-babay-ne-kiwein-rat/
-# raw_sha256: e7200a5f9a2285bae348ff212cf1df030bb33dbc9cae58ebe78640c2add83ac0
 ---
 
 1

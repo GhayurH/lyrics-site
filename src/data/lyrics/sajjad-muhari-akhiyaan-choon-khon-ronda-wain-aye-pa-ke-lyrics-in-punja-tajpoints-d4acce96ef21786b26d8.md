@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d4acce96ef21786b26d8
-# source_url: https://tajpoints.com/2019/12/sajjad-muhari-akhiyaan-choon-khon-ronda.html
-# raw_sha256: 0d867dcfd979769af8c6d1c6116a33f0a4ce16e5558941634812382e18b14e07
 ---
 
 1

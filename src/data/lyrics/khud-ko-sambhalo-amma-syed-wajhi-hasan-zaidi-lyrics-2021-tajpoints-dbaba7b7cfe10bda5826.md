@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dbaba7b7cfe10bda5826
-# source_url: https://tajpoints.com/2021/08/khud-ko-sambhalo-amma-syed-wajhi-hasan.html
-# raw_sha256: 2725d771199b2c8fd2eb78bd0ccc22fc93063f6844ae51611e964e844723bd7d
 ---
 
 Khud Ko Sambhalo Amma Syed Wajhi Hasan Zaidi.

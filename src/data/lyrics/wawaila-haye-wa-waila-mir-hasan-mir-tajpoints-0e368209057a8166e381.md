@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0e368209057a8166e381
-# source_url: https://tajpoints.com/2021/06/wawaila-haye-wa-waila-mir-hasan-mir.html
-# raw_sha256: 80cf7e42f05555eb936f7743bbac99218ab1346563496439f4d77b1668c9f81f
 ---
 
 1

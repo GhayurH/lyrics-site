@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2eea2a6b4b1447614afd
-# source_url: https://tajpoints.com/2017/02/alias-ke-baba-ka.html
-# raw_sha256: fccdf9578c08e5f427a2baf217764864e219b237f7acb7b5f4cfe3d063984c92
 ---
 
 Ali Ke Baba Ka.

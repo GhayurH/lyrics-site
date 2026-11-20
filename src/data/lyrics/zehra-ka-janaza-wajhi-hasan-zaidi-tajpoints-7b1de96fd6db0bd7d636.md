@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7b1de96fd6db0bd7d636
-# source_url: https://tajpoints.com/2024/11/zehra-ka-janaza-wajhi-hasan-zaidi-lyrics.html
-# raw_sha256: f1876510d5dd5cbf755b501bf43b55dd72391712b59262f4544ddf53c648f975
 ---
 
 1

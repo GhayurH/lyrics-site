@@ -8,9 +8,6 @@ poet: "Gohar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:74d2fff27c36ccb923d2
-# source_url: https://tajpoint.com/shab-unwi-mah-ramzan-di-hayi-rona-pak-ameer-namaz-de/
-# raw_sha256: 0e5147f59e670a20cf8ef745780d17aaa83e76bfae072d0dd29777e470407b3f
 ---
 
 Shab Unwi Mah Ramzan Di Hayi Rona Pak Ameer Namaz De Wich.

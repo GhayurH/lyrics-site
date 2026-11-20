@@ -8,9 +8,6 @@ poet: "Mohsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:492cc50f9713e1a043a9
-# source_url: https://tajpoints.com/2022/08/qaid-khane-say-sakina-ki-sada-ati-hai.html
-# raw_sha256: 4346fd96a7dbced374304c5d2ad3f8dd727abe792abb58a279f51669172dd93f
 ---
 
 1

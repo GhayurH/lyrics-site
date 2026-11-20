@@ -65,12 +65,6 @@ romanLyrics: |-
   Ae Azim o Najaf gham manao
   Tum bhi Haider ka tabut uthao
   Tum jaza pao ge is aza ki
-# source_id: nohawriteups:1ba1242675b7caa9eca1
-# source_url: https://www.nohawriteups.org/zakhmi-peshani-hay-murtaza-ki/
-# raw_sha256: e8da6c39b1a94fb54b3137cfbf8d1831abb54aa928fc16d467d2880c57540bf9
-# source_id: ziyaraat:27ec428870fb6a51a6c6
-# source_url: https://www.ziyaraat.net/api/noha/2185
-# raw_sha256: ac77355688bdceb5368af38433503f6e6076a666fd9238cfc13654da98489986
 ---
 
 زخمی پیشانی ہے مرتضیٰؑ کی

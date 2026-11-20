@@ -77,9 +77,6 @@ romanLyrics: |-
   Na roya hai Shabab itna kabhi pardes meiṅ koi
   Watan ki yaad meiṅ Aamir Sakina jis qadar roi
   Wo bachchi aaj bhi zindaaṅ meiṅ parhti hai yehi nauha
-# source_id: nohayonline:405c895768511f86c35c
-# source_url: https://www.nohayonline.com/details_content.php?id=1294
-# raw_sha256: f150b2f209139bf5a3c967f8cb3d349acd5dd33ce13eca323d99df7b5fa0029a
 ---
 یاد آتی ہے وطن کی یاد آتی ہے
 محرم میں ہمیں اپنے وطن کی یاد آتی ہے

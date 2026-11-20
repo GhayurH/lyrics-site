@@ -8,9 +8,6 @@ poet: "Jawad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8b021ddf696875a85274
-# source_url: https://tajpoints.com/2022/11/fizza-yeh-dua-karna-nadeem-sarwar.html
-# raw_sha256: 676557613bdefe79a3f9ff39a6107d89787f5de5879ad7b5c93f16328fae19d5
 ---
 
 1

@@ -77,15 +77,6 @@ romanLyrics: 'Haye zehra teri tanhai hai tanhai ali ki
   Sajjad jo zainab ko liye shaam se guzra
 
   Haye islam ko khamoshi bacha laayi ali ki'
-# source_id: nohayonline:843b3b4a5e3d2d4f5128
-# source_url: https://www.nohayonline.com/details_content.php?id=126
-# raw_sha256: bdae86b24e48ac592fde843a4f1bf097254e4683dab3e3babc7c38974b939c16
-# source_id: ziyaraat:06708d32feb10fbd7920
-# source_url: https://www.ziyaraat.net/api/noha/1961
-# raw_sha256: f309e5257884b45a31998e2084bc1a8c2e93708d0dc11587c30bdc7935ccd01f
-# source_id: ziyaraat:69e9f94f81282a74fc99
-# source_url: https://www.ziyaraat.net/api/noha/2507
-# raw_sha256: 85f62c427f2a4d1f0e9e8877cc601ab8a89cdd68ad79d59519fd16c5b8616109
 ---
 
 ہائے زہراؑ تیری تنہائی ہے تنہائی علیؑ کی

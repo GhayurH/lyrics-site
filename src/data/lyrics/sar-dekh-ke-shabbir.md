@@ -78,9 +78,6 @@ romanLyrics: |-
   Ae kaash maiṅ mar jaati ye din aane se pehle
   Hai aap ka sar aaj mere saamne rakha
   Aap aayeṅ ge is haal meiṅ socha hi nahiṅ tha
-# source_id: nohayonline:dca572bc94e4d15b77bc
-# source_url: https://www.nohayonline.com/details_content.php?id=2663
-# raw_sha256: 66666b500ab276a7c049d00a3eb66b5f4c5c3f523fa9ae670abaacae12b49b1e
 ---
 جب شیریں کے گھر قافلہ شبیر کا آیا
 زینب سے کہا کون ہو بتلاؤ ضعیفہ

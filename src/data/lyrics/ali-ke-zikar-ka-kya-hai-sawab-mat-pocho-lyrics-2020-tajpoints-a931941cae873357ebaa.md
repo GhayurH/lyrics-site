@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a931941cae873357ebaa
-# source_url: https://tajpoints.com/2020/03/ali-ke-zikar-ka-kya-hai-sawab-mat-pocho.html
-# raw_sha256: 4352b35b065ba076d7f18b7f2b80e5f5dcfbc2dd93b37384e03e1b36dda6d2ed
 ---
 
 Ali Ke Zikar Ka Kya Hai Sawab Mat Pocho.

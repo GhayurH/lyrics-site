@@ -70,14 +70,6 @@ romanLyrics: |-
   Jab kabhi ho ke Madine se hawa aati hai
   Aaj bhi Mazhar o Irfan ye sada aati hai
   Apne hamraah su-e-Karb o bala
-# source_id: nohayonline:beaf395e761b66450311
-# source_url: https://www.nohayonline.com/details_content.php?id=450
-# raw_sha256: 5aa64e8f2cc60742c091f422481360afc4a8e50fae4c857179c52c68e2afa77e
-# source_id: nohawriteups:097aa9fdb72d1baec58e
-# source_url: https://www.nohawriteups.org/le-chalo-baba/
-# original_html: snapshots/nohawriteups/original_html/097aa9fdb72d1baec58e.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/097aa9fdb72d1baec58e.json
-# api_content_sha256: e984678f1b77d5f11716885e8e38ca4ecc6ba21a4002e6c8e7c6e55403b60e24
 ---
 جب مدینے سے چلا قافلہ کربوبلا
 تھا یہ صغرا کے لبوں پر نوحہ

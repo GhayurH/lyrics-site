@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2cfd2a6706b8653e24ed
-# source_url: https://tajpoints.com/2022/12/dukhtar-e-mustafa-sajjad-mesum-zaidi.html
-# raw_sha256: d0f8cf25d340dae0ff613467c3b2d3243020eaf622e72a2af0afa2584b99a9dc
 ---
 
 Dukhtar e Mustafa Sajjad Mesum Zaidi.

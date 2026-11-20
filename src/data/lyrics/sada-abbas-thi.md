@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Dayam o Yazdaaṅ hisaar-e-baawafa se peshtar
   Zindagaani apni zer-e-saaya-e-iflaas thi
-# source_id: nohayonline:070cf0a0a4b7ec75ca4c
-# source_url: https://www.nohayonline.com/details_content.php?id=3737
-# raw_sha256: 617a33035f2d7203a9c3c9a56306f8f4447b22ca065355c32e26ee557711e2c1
 ---
 وقتِ آخر پیاسے ہونٹوں کی صدا عباس تھی
 بھائی تھا خنجر کی زد پر اور بہن بے آس تھی

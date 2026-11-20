@@ -74,9 +74,6 @@ romanLyrics: |-
   Husain zinda hai dunya ko mai bata'ungi
   Bhai shabbir fi-amanillah
   Chali hamshir fi-amanillah
-# source_id: nohayonline:dba6ccecaa114959239f
-# source_url: https://www.nohayonline.com/details_content.php?id=361
-# raw_sha256: 2469f5d18e99f48d10e669490abfdaaccd2519c0318848f0eedc9eb5cfb0c894
 ---
 
 ۱

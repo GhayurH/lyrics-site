@@ -48,9 +48,6 @@ romanLyrics: |-
   9
   Tanhaai pe hanste the Shabbir ke jo zaalim
   Sab mit chuke haiṅ Saabir Karbal ke biyaabaaṅ meiṅ
-# source_id: nohayonline:776e4db653d4bb1332ee
-# source_url: https://www.nohayonline.com/details_content.php?id=2760
-# raw_sha256: 7c5511ef4e5a596308ddc110921799f0ae28bf3dccb7382b75a4cddabeac16a7
 ---
 ماں کرتی تھی یہ نالے کربلا کے بیاباں میں
 اصغر میرے اصغر جانی اصغر میرے اصغر جانی

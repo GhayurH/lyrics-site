@@ -68,9 +68,6 @@ romanLyrics: |-
   Girte kabhi uth'te the takallum shahe waala
   Akbar bari mushkil se sambhale huwe aaye
   Bhai ko khuda bhai...
-# source_id: nohayonline:c132018449fd061b8e6c
-# source_url: https://www.nohayonline.com/details_content.php?id=1074
-# raw_sha256: 794ea39a694aa776d6ef38e3adece61155f1e07034ff2abc1723546f6e28f472
 ---
 
 ۱

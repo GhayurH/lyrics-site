@@ -8,9 +8,6 @@ poet: "Mudassir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a52a6116360def52c170
-# source_url: https://tajpoints.com/2021/06/raza-kay-dar-pe-ek-sajda-bohat-hai-syed.html
-# raw_sha256: 19c5392c348800660564ead61aca582db88b26437d7c96d0f5bc3399604eb33c
 ---
 
 1

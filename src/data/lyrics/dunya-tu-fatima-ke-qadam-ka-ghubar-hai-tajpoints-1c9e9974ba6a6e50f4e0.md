@@ -8,9 +8,6 @@ poet: "Najam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1c9e9974ba6a6e50f4e0
-# source_url: https://tajpoints.com/2023/01/dunya-tu-fatima-ke-qadam-ka-ghubar-hai.html
-# raw_sha256: 9f82a56ebb6e2126f35d1bb8096a74c9f7f9ec11371e959387386e38e9464b4e
 ---
 
 1

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:97dcabb18686de2ec3b2
-# source_url: https://www.nohawriteups.org/bali-sakina-yehi-karti-thi-ro-ro-fughaan/
-# original_html: snapshots/nohawriteups/original_html/97dcabb18686de2ec3b2.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/97dcabb18686de2ec3b2.json
-# api_content_sha256: 8bc56983ce881c929c1dc308e95d5271e198c5efdb406805f27fcc167689a1bd
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Bali Sakina Yehi Karti Thi Ro Ro Fughaan

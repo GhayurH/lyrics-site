@@ -54,9 +54,6 @@ romanLyrics: |-
   Ruke kab Aamir o Akhtar ye aansu
   Bahut yaad aaye ek saqqe ke baazu
   Masaaib jab bhi Ghaazi ke parhe haiṅ
-# source_id: nohayonline:8390de78652753efd062
-# source_url: https://www.nohayonline.com/details_content.php?id=3607
-# raw_sha256: dfffe25913e6d6330f84a769ce721f539d6ca2e833534f8469bd170fbe7d7288
 ---
 کیا عالم غربت ہے
 

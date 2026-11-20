@@ -82,9 +82,6 @@ romanLyrics: |-
   Pisar ke sirhane kaha fatema ne
   Lehad chor aayi hoo tujhko bachane
   Maa maa hoti hai
-# source_id: nohayonline:ec7cfbf065e99966227f
-# source_url: https://www.nohayonline.com/details_content.php?id=1022
-# raw_sha256: b6166f7963a61f8e08353e646591053b30b45c59fb4ab17a30b5fc43a6bc3b37
 ---
 
 ۱

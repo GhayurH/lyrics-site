@@ -8,9 +8,6 @@ poet: "Ifham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d9138c267859650d75af
-# source_url: https://tajpoints.com/2021/06/reza-nahe-milti-saleem-mastan-lyrics-in.html
-# raw_sha256: 5bea1313779f2c2419ff48e89ea6ed26b6478935870528d0fa659c2f0600746f
 ---
 
 1

@@ -51,9 +51,6 @@ romanLyrics: |-
   Pyaas Sakina aur Asghar ki
   Bas ye sada mora dil tarpaaye
   Paani chacha kaahe naahiṅ laaye
-# source_id: nohayonline:c722f1a377ecc052879e
-# source_url: https://www.nohayonline.com/details_content.php?id=285
-# raw_sha256: 65db7e88e0ec613ccb7f545da5e0179288676bdbd7d909413edf79ba69794d9e
 ---
 
 روئی سکینہ سر نہوڑائے

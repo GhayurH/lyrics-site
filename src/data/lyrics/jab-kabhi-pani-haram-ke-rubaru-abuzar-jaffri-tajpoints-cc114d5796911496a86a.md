@@ -8,9 +8,6 @@ poet: "Eesaar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cc114d5796911496a86a
-# source_url: https://tajpoints.com/2021/08/jab-kabhi-pani-haram-ke-rubaru-abuzar.html
-# raw_sha256: 615d867615b4a53b98f31b7d5f7c97d14e9e8b181d1659ef63143e15ba395568
 ---
 
 1

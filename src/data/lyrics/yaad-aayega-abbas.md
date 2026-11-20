@@ -46,9 +46,6 @@ romanLyrics: |-
   Ammu ko mere laa do maangungi ab na pani
   Nauha kuna raza ho jaise ke qaid khaana
   Yaad aayega abbas magar...
-# source_id: nohayonline:6095406328fbd164cf1c
-# source_url: https://www.nohayonline.com/details_content.php?id=1838
-# raw_sha256: 93d9acecb2e1b84feb6f274dede2dd44fbd17b28d5054ce83d631d24f627d340
 ---
 
 ۱

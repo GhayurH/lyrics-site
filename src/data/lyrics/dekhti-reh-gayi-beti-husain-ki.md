@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1fffc41b4e9a4d0e0e1c
-# source_url: https://www.ziyaraat.net/api/noha/2233
-# raw_sha256: 02c2b974c6e180aabc7a3a0596640b1f1189f4d48131c76611aec3e241e3d27a
 ---
 
 Dekhti reh gayi beti Hussain ki

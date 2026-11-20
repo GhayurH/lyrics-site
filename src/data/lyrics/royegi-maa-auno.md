@@ -59,9 +59,6 @@ romanLyrics: |-
   Haye Zishan o Raza boli ye Zainab ro kar
   Do hi bete the jo qurbaan kiye bhai par
   Kehne waala na raha ab koi maaṅ Aun o Muhammad
-# source_id: nohayonline:0e7e43481f03f11199eb
-# source_url: https://www.nohayonline.com/details_content.php?id=1822
-# raw_sha256: cbce91d75a9a2b45ca30f7e5c9dba3cabe1f801f390792e995b96e5b10497529
 ---
 ہائے جب اہلِ حرم قید سے یثرب پہنچے
 لڑکھڑاتے ہوئے زینب نے قدم گھر میں رکھے

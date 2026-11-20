@@ -8,9 +8,6 @@ poet: "Sabir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:54abe8810aa75fb56e1f
-# source_url: https://tajpoint.com/aynj-bhain-te-bhira-ne-wekhi-sitam-di-peshi-lyrics/
-# raw_sha256: 6ed02600fb9562822bce1d56012f81ebad06cdb23117d18afdf5d61f832748cf
 ---
 
 1

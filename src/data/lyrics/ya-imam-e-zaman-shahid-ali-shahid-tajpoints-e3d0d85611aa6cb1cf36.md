@@ -8,9 +8,6 @@ poet: "Shahid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e3d0d85611aa6cb1cf36
-# source_url: https://tajpoints.com/2023/03/ya-imam-e-zaman-shahid-ali-shahid.html
-# raw_sha256: 3ad372e86e70e4c09b6eafcc15e189bed96aca9430cc019eee56b92853ac7ad0
 ---
 
 Ya Imam e Zaman Shahid Ali Shahid.

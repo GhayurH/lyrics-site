@@ -43,9 +43,6 @@ romanLyrics: |-
   Laila ke dil ki hai dharkan
   Iqbal ke haiṅ lab pe sukhan
   Sabir se noha ye sun lo
-# source_id: nohayonline:60fe6d6839c69cfc1421
-# source_url: https://www.nohayonline.com/details_content.php?id=3252
-# raw_sha256: b759f254a8658a8f5b8013f607cad6c2f2313199afe0fc33d456247e6f25f57e
 ---
 
 اکبر چلا ہے مرنے کو

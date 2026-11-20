@@ -8,9 +8,6 @@ poet: "Bahlool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e43482d4e72545c20ef5
-# source_url: https://tajpoints.com/2021/01/iss-tarha-bad-e-nabi-lyrics-in-urdu-and.html
-# raw_sha256: 4886b347182abefafeb0102a832d3c5776778e781982b3ed564a29cf0188cb49
 ---
 
 1

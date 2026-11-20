@@ -8,9 +8,6 @@ poet: "Karim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9f77f09d1bb0a10c7ecd
-# source_url: https://tajpoints.com/2023/04/mola-hasan-mohammed-abbas-karim-lyrics.html
-# raw_sha256: 84ab480618c7328ef8c27122cd110312c31533ca5af6f8943e2e5e8f4c0064e9
 ---
 
 Mola Hasan Mohammed Abbas Karim Lyrics

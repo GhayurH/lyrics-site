@@ -64,9 +64,6 @@ romanLyrics: |-
   Chhoti Zehra ye bain karti thi
   Mere dada haiṅ shaafi-e-mahshar
   Un ko batlaauṅ gi maiṅ ro ro kar
-# source_id: nohayonline:6a29b34a779897ba6b36
-# source_url: https://www.nohayonline.com/details_content.php?id=1560
-# raw_sha256: 627ccb4ef1ede990101e60f8abaae15637745f071ca5cfc490fd3577efc536f6
 ---
 بین کرتی تھی شاہ کی دختر
 مجھکو مانگا گیا کنیزی میں

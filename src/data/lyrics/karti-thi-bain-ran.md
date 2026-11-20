@@ -53,15 +53,6 @@ romanLyrics: |-
   10
   Nasir dua hai meri Bibi qubul kar le
   Gohar jo likh raha hai nauhe bara-e-Zainab
-# source_id: nohayonline:61bafc065555aeaca2ac
-# source_url: https://www.nohayonline.com/details_content.php?id=762
-# raw_sha256: 88a13c27874cfce8d308ca0e9e6ed6b2d257a14d79de1d3a1bee75e9182c3210
-# source_id: ziyaraat:67f99568e1001f8bf206
-# source_url: https://www.ziyaraat.net/api/noha/649
-# raw_sha256: 9969fc3ddbe2297910d96cba1b0461d8a072b130abdd98bc960c4c56139cec6f
-# source_id: ziyaraat:a41f600cfe3a7fa328df
-# source_url: https://www.ziyaraat.net/api/noha/268
-# raw_sha256: 02e673b89159c4a8e85a75bac00a2da88574724b4f1a401b5a4e8780f6d0b0c7
 ---
 کرتی تھی بین رن میں رو رو کے ہائے زینب
 اے بھائی تیرا لاشہ کیسے اٹھائے زینب

@@ -8,9 +8,6 @@ poet: "Nabeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d71dd48dcbeee929c8c0
-# source_url: https://tajpoints.com/2020/01/zahra-pe-sitam-dhaya-gaya-wa-mosibata.html
-# raw_sha256: ddd73e43e53f5b793f726e297f2bc9284e57bb42109e99065b58be3da3812cad
 ---
 
 1

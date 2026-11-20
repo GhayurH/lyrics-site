@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:405137bcf0dfcdaa23bb
-# source_url: https://tajpoints.com/2020/09/meray-ghareeb-hussain-lyrics-in-urdu.html
-# raw_sha256: 7115b933ab7065f2bd46e06cc4b09bd635e3e07999281ca4e31cdda6c832b536
 ---
 
 1

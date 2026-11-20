@@ -51,9 +51,6 @@ romanLyrics: |-
   Aisa koi maa ko rulwaata hai
   Akbar ghar meiṅ aao
   Haye Akbar ghar meiṅ aao
-# source_id: nohayonline:a614118194619b10b528
-# source_url: https://www.nohayonline.com/details_content.php?id=222
-# raw_sha256: 204508b13d5e9adfa23a8b7f195a8aaacd2361541460511225501b71893e6fd4
 ---
 
 ماں کا نالہ لاش تک آتا ہے

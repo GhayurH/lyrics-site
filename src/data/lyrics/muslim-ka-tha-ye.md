@@ -60,13 +60,6 @@ romanLyrics: |-
   Wo masjid-e-Kufa ho ya shahr Musayyab ka
   Baaba hai udhar tanha bache haiṅ idhar tanha
   Mukhtar aur ae Majid ye guṅjta hai nauha
-# source_id: nohayonline:5bd60a05f8684936afff
-# source_url: https://www.nohayonline.com/details_content.php?id=1714
-# raw_sha256: 73ce4c91c45ca895c560679f153e2f951e722d74b4fe3e7ee8796972f5440692
-# source_id: tajpoints:a8b57fe70c602d39a32d
-# source_url: https://tajpoints.com/2024/06/muslim-ka-tha-ye-noha-mukhtar-hussain.html
-# raw_sha256: 25a815fa4a131f708977d4a5d4afc0c997795c0f7e67eb6e1e5cc32d2759ed22
-# editorial_note: Additional source witness has no independent stanza; retains alternate source wording through provenance.
 ---
 مسلم کے پسر ہائے کوفے میں بھٹکتے ہیں
 

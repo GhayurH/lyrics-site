@@ -43,14 +43,6 @@ romanLyrics: |-
   8
   Shabbir ke maatam se ae rokne waalo
   Zainab ki ye sunnat hai momin ki nazar meiṅ
-# source_id: nohayonline:8a44ae57cacb7fbf1e74
-# source_url: https://www.nohayonline.com/details_content.php?id=1643
-# raw_sha256: 635e4bf5df1fec07d01a482229ce4c63f1a8c9f70cb8151206173f8334829f8a
-# source_id: ziyaraat:77f7e270199afc7cb2ee
-# source_url: https://www.ziyaraat.net/api/noha/178
-# raw_sha256: 45e7dda0af99aa21cad1dbe74d6076c238916a029f23803a44d0f7d8ebbd33dd
-# added_stanza_source: roman:kalam-nohayonline-8a44ae57cacb7fbf1e74
-# alternate_reading: "Bikhrai Howai Balon Sai Mun Dhampalo Bibi / Yeh Log Sharabi Hain Teri Rah Guzar Main"
 ---
 
 زینب ؑ ہے سفر میں ہائے خاک ہے سر میں

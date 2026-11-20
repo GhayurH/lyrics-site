@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:857c3baf7333ec50276d
-# source_url: https://tajpoints.com/2017/02/pareshan-raat-sari-hai-sitaron-tum-to.html
-# raw_sha256: fb2c36606823ed611f8b3e324135bd8c530aa8e16f608e3aa9f36f57fe8f1765
 ---
 
 1

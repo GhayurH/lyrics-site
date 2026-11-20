@@ -72,9 +72,6 @@ romanLyrics: |-
   Haaye laasha juṅhi maaṅ ko dikhaaya
   Ek qayaamat hui barpa
   Thaam ke dil rone lage yuṅ Husain
-# source_id: nohayonline:0d709dbb1c1a4e6ff92f
-# source_url: https://www.nohayonline.com/details_content.php?id=3579
-# raw_sha256: f1c1fa8ebd72927bfb7c8e8ac7ed3eb1358c84db5ebf707fb5dc8811e2d56f78
 ---
 اللہ اللہ اللہ
 

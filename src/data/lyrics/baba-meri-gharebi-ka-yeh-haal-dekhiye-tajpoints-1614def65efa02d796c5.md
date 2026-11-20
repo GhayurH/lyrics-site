@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1614def65efa02d796c5
-# source_url: https://tajpoints.com/2023/04/baba-meri-gharebi-ka-yeh-haal-dekhiye.html
-# raw_sha256: f00e3a13496e5ade993053ba215e448242f2f9795a79ce6d48997ddd69f18442
 ---
 
 1

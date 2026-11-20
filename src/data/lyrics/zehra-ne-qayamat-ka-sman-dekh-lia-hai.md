@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:508c54d7b718ca1a4c72
-# source_url: https://www.ziyaraat.net/api/noha/2900
-# raw_sha256: 9836f2c807e9f4c38a4a1a9c69e1397ae4df298fb07fdec9528ed962b0564d55
 ---
 
 زہراؑ نے قیامت کا سماں دیکھ لیا ہے

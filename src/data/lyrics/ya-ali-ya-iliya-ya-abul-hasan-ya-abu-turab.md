@@ -118,15 +118,6 @@ romanLyrics: 'Ya ali ya aeyliya ya bul-hasan ya bu-turaab
   Thamti hi nahi aankhon say ashqon ki rawaani
 
   Kaun sunay kissa-e-gham kis may rahi itni taab'
-# source_id: nohayonline:63a7bafca001334eb7d5
-# source_url: https://www.nohayonline.com/details_content.php?id=434
-# raw_sha256: 517ec97a4be34651a895753d7dbdf9b93191f4614d15db399fe4fd45d50fb1b1
-# source_id: ziyaraat:1b0ccd74f60eafda5c44
-# source_url: https://www.ziyaraat.net/api/noha/591
-# raw_sha256: 75668410d9d7709515b9ed535089c72356b0aba499b1c7e71b6caf204b1e7fd9
-# source_id: ziyaraat:a8afeafabaafcda71759
-# source_url: https://www.ziyaraat.net/api/noha/2171
-# raw_sha256: faf78e6888308e4bde1b337d065e00f16e1827b4052d9f237fb26f4178318459
 ---
 
 یا علیؑ یا ایلیاؑ یا ابو الحسنؑ یا ابوترابؑ

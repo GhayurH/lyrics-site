@@ -8,9 +8,6 @@ poet: "Afraz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ccefcb5ee82de2cffa80
-# source_url: https://tajpoints.com/2018/08/ali-ka-zikar-karon-ga-bura-lagay-tu.html
-# raw_sha256: 34bbc5591f820855c3c905e9b80d954db407f8535ee805d80641d6e4b1fe33ef
 ---
 
 1

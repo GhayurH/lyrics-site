@@ -137,13 +137,6 @@ romanLyrics: |-
   Maujiza Sarwar o Rehaan falak ne dekha
   Khutba-e-Zainab o Sajjad ne wo kaam kiya
   Hashr tak zikr-e-Husain ibn-e-Ali aam kiya
-# source_note: personal notebook ODT import on 2026-11-08; no unique source record ID
-# source_id: nohayonline:e9120f4824d9991acad1
-# source_url: https://www.nohayonline.com/details_content.php?id=2609
-# imported_source_sha256: 574773e6d96a551389594f7c4ff40b915d86a8c3b5c90d6ad51a8cea39ec0e2c
-# merged_from: ana-ibne-makkah.md (same poem; the imported version broke the 14 substantive stanzas into 25 segments)
-# source_variant_refrain: Haye Hussaina Waye Hussaina (reciter interjection; not an additional stanza)
-# editorial_note: Long recitation manually separated from notebook paragraphs; review uncertain phrases against audio
 ---
 بیاں کرتا ہوں دربارِ شام کا منظر
 جہاں تھے سات سو کرسی نشیں فتنہ گر

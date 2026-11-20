@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:238e2ba0c0219b3be8b2
-# source_url: https://www.ziyaraat.net/api/noha/1342
-# raw_sha256: d0c60cf9dd51969ef90a2ab0b3f216adb03ca4e219aca5103d89f973b6196866
 ---
 
 زنداں کے اندھیرے میں سہمی ہوئی معصومہؑ ہائے اشک بہاتی ہے

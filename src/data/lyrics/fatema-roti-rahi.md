@@ -112,12 +112,6 @@ romanLyrics: 'KALMA GO HANSTAY RAHE FATIMA ROTI RAHI.
   DHOP MEIN BETHI HOI.'
 poet: "Takallum"
 reciter: "Meer Hasan Meer"
-# source_id: nohayonline:689d3396b32b96b650f3
-# source_url: https://www.nohayonline.com/details_content.php?id=1018
-# raw_sha256: 204ba2f40d5fa2f5eefef98855b3b59ebefc865d3fc87ba265eef5f00d0eb6fe
-# source_id: ziyaraat:70f90f125a4ec7f85e47
-# source_url: https://www.ziyaraat.net/api/noha/2945
-# raw_sha256: 25d6e2db39a56ac7056a9705a9c6ac9b4a20729bb6b082363fcda82be5c3c84a
 ---
 
 زہرا ہائے زہرا

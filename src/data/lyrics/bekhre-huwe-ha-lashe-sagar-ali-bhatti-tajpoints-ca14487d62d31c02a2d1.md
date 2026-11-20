@@ -8,9 +8,6 @@ poet: "Fayaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ca14487d62d31c02a2d1
-# source_url: https://tajpoints.com/2026/05/bekhre-huwe-ha-lashe-sagar-ali-bhatti.html
-# raw_sha256: 21f49edc582ec85638bff7cd2be259147244ae708f8d07bbe4d4e3a873376fc2
 ---
 
 1

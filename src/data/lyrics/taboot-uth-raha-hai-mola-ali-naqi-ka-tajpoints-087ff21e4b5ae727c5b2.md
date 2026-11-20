@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:087ff21e4b5ae727c5b2
-# source_url: https://tajpoints.com/2023/01/taboot-uth-raha-hai-mola-ali-naqi-ka.html
-# raw_sha256: 9f99de8832557370df99a317dad3cdc98e633b118d6566a2a8e9056178c27353
 ---
 
 1

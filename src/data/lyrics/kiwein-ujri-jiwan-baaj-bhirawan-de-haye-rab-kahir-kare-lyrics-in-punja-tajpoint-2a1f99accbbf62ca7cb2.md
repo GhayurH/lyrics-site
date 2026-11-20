@@ -8,9 +8,6 @@ poet: "Amar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:2a1f99accbbf62ca7cb2
-# source_url: https://tajpoint.com/kiwein-ujri-jiwan-baaj-bhirawan-de-haye/
-# raw_sha256: d2476e26b664f670f8a1bae4daae64f80465c0cf69e61482c0266a9c505995a5
 ---
 
 Kiwein Ujri Jiwan Baaj Bhirawan De.

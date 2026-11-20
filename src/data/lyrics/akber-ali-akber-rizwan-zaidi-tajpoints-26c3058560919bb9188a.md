@@ -8,9 +8,6 @@ poet: "Rizwan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:26c3058560919bb9188a
-# source_url: https://tajpoints.com/2021/03/akber-ali-akber-rizwan-zaidi-lyrics-in.html
-# raw_sha256: 091f719975cd7bc36c491dc43e695f7258ef6b33554b4ab421dbd79a349a8cfa
 ---
 
 Akber Ali Akber Humshakal-e-Payamber Allahumma Salle Ala Allahumma Salle Ala

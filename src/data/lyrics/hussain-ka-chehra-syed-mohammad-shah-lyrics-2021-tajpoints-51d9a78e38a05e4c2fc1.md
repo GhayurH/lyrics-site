@@ -9,10 +9,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:51d9a78e38a05e4c2fc1
-# source_url: https://tajpoints.com/2022/03/hussain-ka-chehra-syed-mohammad-shah.html
-# raw_sha256: 83b383d9a8504255ffd9c772f385e3859ee97e59d4ad6b5e1b2ca489876d5701
-# editorial_note: "Variant readings include Hai Kul Batool Ki Dunya; Keh Mein Ne Cho Liya; and Mere Aaqa."
 ---
 
 Ali Ke Ghar Ka Ujala Hussain Ka Chehra

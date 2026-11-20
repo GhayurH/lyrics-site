@@ -8,9 +8,6 @@ poet: "Asghar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:e7cf24031b5758f6435f
-# source_url: https://tajpoint.com/shah-e-aman-da-janaza-jadoon-veraan-chaya-lyrics-2012/
-# raw_sha256: 320618185d7858549d0b404f3cd8f41bb3e51fb74c2d394cb5bf58e156e45bd2
 ---
 
 Shah e Aman Da Janaza Jadoon Veraan Chaya.

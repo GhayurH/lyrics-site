@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1e8ee4f7005d654efbbf
-# source_url: https://tajpoints.com/2026/01/hussain-ka-roza-qambar-ali-kiyani-lyrics.html
-# raw_sha256: f161bc90ce3db7978adb5dae3caafbb794b5ff25d6403cae5bcc099f24893d5a
 ---
 
 1

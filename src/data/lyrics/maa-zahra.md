@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Husain tarpe Takallum na kiuṅ tah-e-khanjar
   Tumhaare haath pe durroṅ ke the nishaaṅ Zahra
-# source_id: nohayonline:5b33a701c3d8b7bea3e0
-# source_url: https://www.nohayonline.com/details_content.php?id=1023
-# raw_sha256: 2fb754e1f98ae70cf5338ae317d776b476dd16c49c9e00843bb34a19aacd596a
 ---
 حسن حسین کی زخمی غریب ماں زہرا
 طمانچے کھاتی ہے بیٹوں کے درمیاں زہرا

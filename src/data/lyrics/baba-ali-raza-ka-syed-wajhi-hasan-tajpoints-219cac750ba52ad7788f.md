@@ -8,9 +8,6 @@ poet: "Asim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:219cac750ba52ad7788f
-# source_url: https://tajpoints.com/2022/02/baba-ali-raza-ka-syed-wajhi-hasan.html
-# raw_sha256: 856ba7c0caba16daf317b21d9a00556ed6ce43992d7a63abba04b4d0e79e06d1
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8c91fd9e1375e091a6ad
-# source_url: https://tajpoints.com/2021/09/haye-aise-sham-aai-hai-joan-rizvi.html
-# raw_sha256: 17215aa43bd3747960ca2b30685df7d144c89605db59ed7ba22c1b7fb9e1e195
 ---
 
 1

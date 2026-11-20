@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:58ed76a1a56554e0a8fd
-# source_url: https://www.ziyaraat.net/api/noha/1267
-# raw_sha256: 53320ee5e5d12446480b9c4e4025a007120971a7867c94512e72a8b7f85e1148
 ---
 
 اے شام والوں میں قیدی آں میتھے ہک احسان اے لاؤچا

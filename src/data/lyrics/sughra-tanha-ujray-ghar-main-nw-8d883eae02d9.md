@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:8d883eae02d9691dd3d3
-# source_url: https://www.nohawriteups.org/sughra-tanha-ujray-ghar-main/
-# original_html: snapshots/nohawriteups/original_html/8d883eae02d9691dd3d3.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/8d883eae02d9691dd3d3.json
-# api_content_sha256: c830d29179d4b02a752a8335d0bf39e94c9d24d214e785d36833b08868dc4eb8
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sughra tanha ujray ghar main aas lagaye baithi hai ..

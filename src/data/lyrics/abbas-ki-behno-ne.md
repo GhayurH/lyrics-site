@@ -44,12 +44,6 @@ romanLyrics: |-
   7
   Mir Sajjad jo luta hua asbab mila
   Pehle Sajjad ne aankhoṅ se lagayi chadar
-# source_id: nohayonline:bb6e08052a2eed49b50f
-# source_url: https://www.nohayonline.com/details_content.php?id=303
-# raw_sha256: 89ed00ee876ffb9b8e5417cff56071b98182d591e8a86c30bb15b15e5c8bda5b
-# source_id: nohayonline:da86b479c61f67fa1d04
-# source_url: https://www.nohayonline.com/details_content.php?id=1064
-# raw_sha256: 60270a239f84218f8847bfafd9b800cbea385c74ee1b43b4f14111cbc23fc4ce
 ---
 
 

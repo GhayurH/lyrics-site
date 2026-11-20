@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f23caf31edaab5c808a8
-# source_url: https://tajpoints.com/2025/02/to-kya-karogay-mir-hasan-mir-lyrics.html
-# raw_sha256: 54865914bc09eb081e0410bcdfa3258935f0693d9e415586dc1c6235d94eab77
 ---
 
 1

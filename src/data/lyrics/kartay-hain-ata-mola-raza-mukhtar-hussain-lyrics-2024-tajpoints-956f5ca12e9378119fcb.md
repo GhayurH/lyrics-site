@@ -8,9 +8,6 @@ poet: "Siraj"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:956f5ca12e9378119fcb
-# source_url: https://tajpoints.com/2024/05/kartay-hain-ata-mola-raza-mukhtar.html
-# raw_sha256: a18df962806c47e70feff7f9f49a892b40ea0d0749a902a1461e703549e6e06e
 ---
 
 Kartay Hain Ata Mola Raza Mukhtar Hussain Fatehpuri.

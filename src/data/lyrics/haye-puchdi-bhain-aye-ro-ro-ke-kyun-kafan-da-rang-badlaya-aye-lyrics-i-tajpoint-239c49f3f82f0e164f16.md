@@ -8,9 +8,6 @@ poet: "Rizwan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:239c49f3f82f0e164f16
-# source_url: https://tajpoint.com/haye-puchdi-bhain-aye-ro-ro-ke-kyun/
-# raw_sha256: b03b7186735e6d307ff36c6453fa43bf2c277d9c69913ff5af825a73002b6abe
 ---
 
 1

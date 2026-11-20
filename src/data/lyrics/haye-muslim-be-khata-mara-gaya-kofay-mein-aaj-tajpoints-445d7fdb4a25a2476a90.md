@@ -8,9 +8,6 @@ poet: "Qasim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:445d7fdb4a25a2476a90
-# source_url: https://tajpoints.com/2019/08/haye-muslim-be-khata-mara-gaya-kofay.html
-# raw_sha256: 7cc81e222535a831b430ac2880b66e5813df99f4c8cb1d747cdde816c87db111
 ---
 
 1

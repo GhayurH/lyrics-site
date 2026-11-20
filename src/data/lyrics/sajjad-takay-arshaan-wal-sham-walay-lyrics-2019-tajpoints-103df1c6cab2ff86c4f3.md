@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:103df1c6cab2ff86c4f3
-# source_url: https://tajpoints.com/2019/10/sajjad-takay-arshaan-wal-sham-walay.html
-# raw_sha256: 91e1190d226a7e25699614c043e7bbc3bd9579e337ca2902779cca728759ae78
 ---
 
 Sajjad Takay Arshaan Wal Sham Walay Kinj Jawaan Main.

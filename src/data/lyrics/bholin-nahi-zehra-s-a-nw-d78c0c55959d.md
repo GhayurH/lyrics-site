@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d78c0c55959d3b8761e2
-# source_url: https://www.nohawriteups.org/bholin-nahi-zehra-s-a/
-# original_html: snapshots/nohawriteups/original_html/d78c0c55959d3b8761e2.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d78c0c55959d3b8761e2.json
-# api_content_sha256: ed3119f322c2d39ebf1450d417138c97f3feeeb99d29aef6a9d4288b57280e06
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ya Rasolallah SAWW Ya Habiballah

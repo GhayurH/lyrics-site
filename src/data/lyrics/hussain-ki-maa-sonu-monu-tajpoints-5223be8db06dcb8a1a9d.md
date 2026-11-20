@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5223be8db06dcb8a1a9d
-# source_url: https://tajpoints.com/2024/01/hussain-ki-maa-sonu-monu-lyrics-in-urdu.html
-# raw_sha256: cf8a08c10f769f60800e6961a92110445978bc99f9e54d03aebc93c26ba9c26a
 ---
 
 1

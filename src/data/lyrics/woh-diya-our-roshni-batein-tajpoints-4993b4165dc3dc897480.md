@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4993b4165dc3dc897480
-# source_url: https://tajpoints.com/2017/02/woh-diya-our-roshni-batein.html
-# raw_sha256: 5cfc7dfa9625f348de1e6aa08937b41a9dc43a8a14431784e36a0afcaf6ff619
 ---
 
 Mujh Pe Hanstein Hain Ab Meri Batein.

@@ -8,9 +8,6 @@ poet: "Shehwaar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c8d260730adcbe863516
-# source_url: https://tajpoints.com/2024/02/al-ajal-ya-imam-irfan-mehdi-haideri.html
-# raw_sha256: 593f869d5d6df3ca4f25298a3f08810098b5593de71c2313ddcc629b37968cc2
 ---
 
 1

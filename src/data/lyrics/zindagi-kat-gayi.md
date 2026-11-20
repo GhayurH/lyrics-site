@@ -56,9 +56,6 @@ romanLyrics: |-
   Jab talak zinda rahe Abid-e-bimaar Nawab
   Bhul paaye na kabhi Shaam ka baazaar Nawab
   Roz o shab karte rahe girya o zaari meiṅ basar
-# source_id: nohayonline:8a7fe2015e08dadcff8e
-# source_url: https://www.nohayonline.com/details_content.php?id=3148
-# raw_sha256: 327a719279efd478bc6e1ee27eb0a26c8ee10c53295380804b2d5483250ea29e
 ---
 کوفہ و شام کا نکلا نہیں دل سے منظر
 زندگی کٹ گئی سجاد کی روتے روتے

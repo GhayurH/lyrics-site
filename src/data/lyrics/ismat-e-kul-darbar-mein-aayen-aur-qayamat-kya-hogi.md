@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:189a4f315c841df4f5da
-# source_url: https://www.ziyaraat.net/api/noha/1981
-# raw_sha256: b529774a3fc81fb715f953e19ddd8e5a51a245679926670c939cbeb241f92909
-# source_id: ziyaraat:3c07c86643576b58f4ab
-# source_url: https://www.ziyaraat.net/api/noha/2284
-# raw_sha256: c69847d5e42d132ca44f49223ad56b279d4f24310eedc65adb5017e64cdba6db
 ---
 
 Ismat e kul darbar may aayain aur qayamt kia ho gi

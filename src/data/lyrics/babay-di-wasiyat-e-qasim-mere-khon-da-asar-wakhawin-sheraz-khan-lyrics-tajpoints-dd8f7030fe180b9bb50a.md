@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dd8f7030fe180b9bb50a
-# source_url: https://tajpoints.com/2023/09/babay-di-wasiyat-e-qasim-mere-khon-da.html
-# raw_sha256: 6e898ff1309c223139f6ff0a341482c3c34f675558359f272ea6f77a3380b33e
 ---
 
 1

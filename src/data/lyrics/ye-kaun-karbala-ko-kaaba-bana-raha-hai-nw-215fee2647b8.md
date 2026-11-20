@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:215fee2647b85bca89fc
-# source_url: https://www.nohawriteups.org/ye-kaun-karbala-ko-kaaba-bana-raha-hai/
-# original_html: snapshots/nohawriteups/original_html/215fee2647b85bca89fc.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/215fee2647b85bca89fc.json
-# api_content_sha256: 2f3fba5bdcd11a5aff7c03549a566b3cd189b4708b9bcb6044702d4f3db30863
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Ye Kaun Karbala Ko Kaaba Bana Raha Hai

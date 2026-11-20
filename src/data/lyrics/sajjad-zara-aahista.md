@@ -50,9 +50,6 @@ romanLyrics: |-
   Mazhar e ranj o gham mere gham ka to irfan hai tujhko
   Mai hoo zakhmi badan pehnana kafan sajjad zara aahista
   Mai hoo zakhmi badan...
-# source_id: nohayonline:ee5522d05bc8904d800d
-# source_url: https://www.nohayonline.com/details_content.php?id=995
-# raw_sha256: df5ad77c0895c63db2dbcec7c6cec06124e8a7ad5c862767054ffef682c73254
 ---
 
 ۱

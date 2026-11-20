@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:8fccfc748bb15d5c7c64
-# source_url: https://www.ziyaraat.net/api/noha/2709
-# raw_sha256: 41017ac835c2613315bc55356a06094c7560fe0627b2da47cdde0879d5eb670e
 ---
 
 Hurr Party 2010

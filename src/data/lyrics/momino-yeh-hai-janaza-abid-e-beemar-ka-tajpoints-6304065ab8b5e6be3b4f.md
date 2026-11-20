@@ -8,9 +8,6 @@ poet: "Shajeeha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6304065ab8b5e6be3b4f
-# source_url: https://tajpoints.com/2020/09/momino-yeh-hai-janaza-abid-e-beemar-ka.html
-# raw_sha256: e64881f82765f8b6a5fcafa89a03cd51df63e7278bd9aa3c58a19d0e2a07cf92
 ---
 
 Momino Yeh Hai Janaza Abid-e-Beemar Ka.

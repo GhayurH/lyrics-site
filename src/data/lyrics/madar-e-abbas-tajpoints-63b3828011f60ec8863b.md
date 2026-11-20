@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:63b3828011f60ec8863b
-# source_url: https://tajpoints.com/2021/01/madar-e-abbas-lyrics-in-urdu-and-roman.html
-# raw_sha256: adfd56d401022a8de80a2e1523612e7822f343f78c28ffe36d4e5a0686c73184
 ---
 
 1

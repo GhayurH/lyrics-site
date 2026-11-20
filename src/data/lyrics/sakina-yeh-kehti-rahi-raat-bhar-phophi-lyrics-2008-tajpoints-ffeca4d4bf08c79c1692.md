@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ffeca4d4bf08c79c1692
-# source_url: https://tajpoints.com/2019/07/sakina-yeh-kehti-rahi-raat-bhar-phophi.html
-# raw_sha256: 9251033e48274ef630e462c266c159f664c40a6b17ec5a5173b49a3c3230622d
 ---
 
 Sakina Yeh Kehti Rahi Raat Bhar Phophi Mujh Se Pehra Badal Lijiye.

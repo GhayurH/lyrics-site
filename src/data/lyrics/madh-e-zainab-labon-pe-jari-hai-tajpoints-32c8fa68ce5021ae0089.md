@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:32c8fa68ce5021ae0089
-# source_url: https://tajpoints.com/2020/03/madh-e-zainab-labon-pe-jari-hai-lyrics.html
-# raw_sha256: 41d6dfa609c9713c5276953c281520431a99b8e3ffd4437a77a49953af5505e4
 ---
 
 1

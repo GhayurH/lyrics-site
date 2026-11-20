@@ -10,9 +10,6 @@ reciter: "Shabbar Ali Irani"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:f42cccf084527caae305
-# source_url: https://www.nohayonline.com/details_content.php?id=1980
-# raw_sha256: 6ebf6c7a1be249673081fbab4e8d315057e9f0be2bdd3ef8b97d8cd60b5db79f
 romanLyrics: |-
   Ali ka zikr Muhammad ka naam baaqi hai
   Husain tum se Khuda ka kalaam baaqi hai

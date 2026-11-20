@@ -81,9 +81,6 @@ romanLyrics: |-
   Tak rahe haiṅ Husain ki surat
   Garm reti pe zer-e-khanjar ab
   Sajda-e-aakhri ada hoga
-# source_id: nohayonline:05d8cb3e6d4103611c9a
-# source_url: https://www.nohayonline.com/details_content.php?id=739
-# raw_sha256: 1f97bdb305aac018a93573741450c49e1bd6b83f45575abe3c3a92854c98669c
 ---
 
 کون کافر ہے کون مومن ہے

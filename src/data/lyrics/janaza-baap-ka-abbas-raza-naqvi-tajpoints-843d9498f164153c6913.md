@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:843d9498f164153c6913
-# source_url: https://tajpoints.com/2024/04/janaza-baap-ka-abbas-raza-naqvi-lyrics.html
-# raw_sha256: 3e2d33a50a3f0520d966e1be19a21a0165cfa087cfda37fd269e6aa59880f9a1
 ---
 
 1

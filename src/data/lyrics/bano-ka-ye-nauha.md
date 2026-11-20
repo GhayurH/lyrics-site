@@ -53,9 +53,6 @@ romanLyrics: |-
   Wo sher-e-jari haaye phir aa na saka Gohar
   Jab tak bhi rahi zinda dil thaame hue ro kar
   Maaṅ karti rahi nauha aajao Ali Akbar
-# source_id: nohayonline:dcb163d68ce00c2e9889
-# source_url: https://www.nohayonline.com/details_content.php?id=1591
-# raw_sha256: 07f595dafe74f2e342ee7ce606650bf4c76a08f94baf603c3d2db8642983b94c
 ---
 بانو کا یہ نوحہ تھا آجاؤ علی اکبر
 آجاؤ میرا بیٹا آجاؤ علی اکبر

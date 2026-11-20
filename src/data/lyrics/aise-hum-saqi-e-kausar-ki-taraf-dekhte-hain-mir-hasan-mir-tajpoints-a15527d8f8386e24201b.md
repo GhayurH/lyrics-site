@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a15527d8f8386e24201b
-# source_url: https://tajpoints.com/2017/04/aise-hum-saqi-e-kausar-ki-taraf-dekhte.html
-# raw_sha256: 0585cdf5429b0b5bf3021cdf16be8464e9d75b24afb7773058332bf49c593ac0
 ---
 
 1

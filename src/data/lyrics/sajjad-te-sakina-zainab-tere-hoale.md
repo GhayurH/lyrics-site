@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:9b293e6543161e600b4d
-# source_url: https://www.ziyaraat.net/api/noha/370
-# raw_sha256: 53dc40ad60dd53820bea9c5ee4d6d3fc37525e72c34a8060a41f710db78e852b
 ---
 
 Sajjad tay Sakina, Zainab teray Hawalay

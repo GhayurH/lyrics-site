@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:2451c51f3f0df65a20dd
-# source_url: https://tajpoint.com/sughra-da-khat-jad-aya-akber-day-sah-muk-gaye-lyrics/
-# raw_sha256: 44c1acc3cf25b9ea9bcd4442dd112acce5570155a2cdf9dd4a0d96fc10f2a49a
 ---
 
 Sughra Da Khat Jad Aya Akber Day Sah Muk Gaye.

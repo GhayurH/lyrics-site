@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dd59088ecc7ded2fb760
-# source_url: https://tajpoints.com/2018/06/doween-eidaan-wich-kofe-de-barbad-ho.html
-# raw_sha256: 385cba6c8d039a7f016dec3a3a9fba9db85c73ae7c230dd799bf9225f2512b73
 ---
 
 1

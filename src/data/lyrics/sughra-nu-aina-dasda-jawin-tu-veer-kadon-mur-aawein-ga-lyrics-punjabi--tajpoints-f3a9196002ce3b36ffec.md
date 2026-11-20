@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f3a9196002ce3b36ffec
-# source_url: https://tajpoints.com/2025/02/sughra-nu-aina-dasda-jawin-tu-veer-kadon.html
-# raw_sha256: c44fe8d8a4352189435ffa4c38ea892b25f0091478700d48832eb4261d5fd9da
 ---
 
 1

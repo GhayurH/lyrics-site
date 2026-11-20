@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:75ffe7f9f82babfc97fc
-# source_url: https://tajpoints.com/2020/03/hussain-ka-haq-hai-lyrics-in-urdu-and.html
-# raw_sha256: 016928adb384e0d5d4cdc3c3fc0f77c4ec889f1fc3048c4c21b3bede0c71f39e
 ---
 
 1

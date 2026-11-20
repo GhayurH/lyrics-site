@@ -46,9 +46,6 @@ romanLyrics: |-
   Nikal ke aayega ghaibat se jab pisar mera
   Woh apne saath meri zulfiqar laye ga
   Woh lega karb o bala aur shaam ka badla
-# source_id: ziyaraat:62a5b4520c2acee7312d
-# source_url: https://www.ziyaraat.net/api/noha/1261
-# raw_sha256: 980cc167aec067f894f8c89db2834a30f4b87bc105e4d2b8581116928f2ad6f9
 ---
 
 بہت سکوں سے خدا کی طرف چلا ہے حسینؑ

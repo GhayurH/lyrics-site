@@ -8,9 +8,6 @@ poet: "Ajmal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:4659d006c484a699c365
-# source_url: https://tajpoint.com/karbal-wich-aayi-saan-veraan-de-sahare-lyrics-2024/
-# raw_sha256: 7525fb422cbc99fdbc82907bde87ffa474c429826241935617a2b70e0196d45b
 ---
 
 1

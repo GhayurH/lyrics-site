@@ -8,9 +8,6 @@ poet: "Aun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:647ba596ba714e5c389a
-# source_url: https://tajpoints.com/2020/05/haye-ali-murtaza-lyrics-in-urdu-and.html
-# raw_sha256: 82c7c029c5425e0b536c6e35f78b2a6b824e164a6c7e46a32e74e9135aaa013e
 ---
 
 Zainab-o-Kulsoom Ka Noha Yeh Tha Haye Ali Murtaza Haye Ali Murtaza.

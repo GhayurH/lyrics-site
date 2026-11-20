@@ -73,9 +73,6 @@ romanLyrics: |-
   Bain Rashid us Bibi ke sun kar
   Rote the paiham Aabid-e-Muztar
   Tha ye musalsal us ka nauha
-# source_id: nohayonline:71077a048666c10b700f
-# source_url: https://www.nohayonline.com/details_content.php?id=2883
-# raw_sha256: 84d9e6bfca340fd88dcee86f804fc65a20aab844f83f01c8e17fe6dd96fb1960
 ---
 
 لوٹ کے گھر آجاؤ بابا

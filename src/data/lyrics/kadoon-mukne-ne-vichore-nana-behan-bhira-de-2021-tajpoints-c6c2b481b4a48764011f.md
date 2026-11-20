@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c6c2b481b4a48764011f
-# source_url: https://tajpoints.com/2017/02/kadoon-mukne-ne-vichore-nanasaww-behan.html
-# raw_sha256: 53913b90f90ab0fd71f0f341eb6a29e3c069f2fe7574f3c37490de6a0180b29f
 ---
 
 Kadoon Mukne Ne Vichore Nana Behan Bhira De Write Up

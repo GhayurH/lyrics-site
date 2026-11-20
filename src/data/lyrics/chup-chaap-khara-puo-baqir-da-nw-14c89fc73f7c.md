@@ -7,11 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:14c89fc73f7cd56b506e
-# source_url: https://www.nohawriteups.org/chup-chaap-khara-puo-baqir-da/
-# original_html: snapshots/nohawriteups/original_html/14c89fc73f7cd56b506e.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/14c89fc73f7cd56b506e.json
-# api_content_sha256: 4903dd9ff7230a19592a626d44b996e075077ef28f17d9b000ed37c606d67d33
 ---
 
 Chup chaap khara puo Baqir da akhiyan wich ratt bhar aae..

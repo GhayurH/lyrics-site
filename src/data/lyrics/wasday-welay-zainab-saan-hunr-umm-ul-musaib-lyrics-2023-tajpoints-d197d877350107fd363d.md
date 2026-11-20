@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d197d877350107fd363d
-# source_url: https://tajpoints.com/2023/09/wasday-welay-zainab-saan-hunr-umm-ul.html
-# raw_sha256: bf03f8dcad0b085a39ed7137b647349e5e3d8175f4de95e5d49ac237b26d2238
 ---
 
 1

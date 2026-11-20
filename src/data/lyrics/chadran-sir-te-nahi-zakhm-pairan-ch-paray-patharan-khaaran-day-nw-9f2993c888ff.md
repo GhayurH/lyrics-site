@@ -8,11 +8,6 @@ poet: "Tauqeer Kamalvi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9f2993c888ff8fb6df78
-# source_url: https://www.nohawriteups.org/chadran-sir-te-nahi-zakhm-pairan-ch-paray-patharan-khaaran-day/
-# original_html: snapshots/nohawriteups/original_html/9f2993c888ff8fb6df78.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9f2993c888ff8fb6df78.json
-# api_content_sha256: b199918235328380ccecc412bd89467f8f367a20e0408f7690aed1989e0ec742
 ---
 
 Chadran Sir Te Nahi Zakhm Pairan Ch Paray Patharan Khaaran Day

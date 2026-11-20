@@ -8,9 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:0e66bbe4631e78305256
-# source_url: https://www.ziyaraat.net/api/noha/266
-# raw_sha256: 9472cfd7d41173ded8011592d0b9efb324b7fc00d8e2cf64c5166709a4eb51bf
 romanLyrics: |-
   (Abbas nahi hai wawaila)
   (Wawaila haye wawaila)

@@ -55,9 +55,6 @@ romanLyrics: |-
   Laashe ke gird phirti thi ek burqa posh maaṅ
   Kehti thi Mustafa ke nawase ko chhor de
   Ae Shimr tin roz ke pyase ko chhor de
-# source_id: nohayonline:4a6fcbf5c480078732ec
-# source_url: https://www.nohayonline.com/details_content.php?id=2547
-# raw_sha256: 65dee7e6fce4f0babc904dc56930698400dc60986eceac4e9901bb52b21b9584
 ---
 اللّٰہ اللّٰہ اللّٰہ اللّٰہ اللّٰہ اللّٰہ
 یوں آخری حسین نے سجدہ ادا کیا

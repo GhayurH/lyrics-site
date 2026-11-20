@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4e4e7116d1cbe9adb9b9
-# source_url: https://tajpoints.com/2018/03/yeh-azadar-ke-aanso.html
-# raw_sha256: dfac6757ccd1965d0394bbcfdfc21d1c54669ec0c8242992864c6991b5d5347a
 ---
 
 1

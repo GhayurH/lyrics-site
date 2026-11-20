@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8d46a0c905d072fd3d74
-# source_url: https://tajpoints.com/2020/05/zakhmi-hain-ali-maula-lyrics-in-urdu.html
-# raw_sha256: 43b86808a699077474006e17f9ad1a1eb56a33f03f4b2f81214c3b37f018f4a9
 ---
 
 1

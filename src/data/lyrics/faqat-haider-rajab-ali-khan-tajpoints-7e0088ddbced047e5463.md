@@ -8,9 +8,6 @@ poet: "Aimaad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7e0088ddbced047e5463
-# source_url: https://tajpoints.com/2022/02/faqat-haider-rajab-ali-khan-lyrics-in.html
-# raw_sha256: 880a6cc74ae065b0565af2c615d971b27bc8c3c7945bcbfb509c9817eb627a07
 ---
 
 1

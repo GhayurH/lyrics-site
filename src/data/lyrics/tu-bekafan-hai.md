@@ -52,9 +52,6 @@ romanLyrics: |-
   Zainab ke baradar ke marqad par humne suna hai aksar
   Shahe diṅ ka ye marsiya hai behan berida hai
   Tu bekafan hai Husain...
-# source_id: nohayonline:3ec504b843c19a6f351c
-# source_url: https://www.nohayonline.com/details_content.php?id=996
-# raw_sha256: b9597385ba343657403837ff12c1654c3512b86c0098e779cf074edbad1853d8
 ---
 
 ۱

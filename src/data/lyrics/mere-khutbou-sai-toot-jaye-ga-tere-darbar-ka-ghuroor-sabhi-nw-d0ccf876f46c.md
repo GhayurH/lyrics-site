@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:d0ccf876f46c4cc8f6cd
-# source_url: https://www.nohawriteups.org/mere-khutbou-sai-toot-jaye-ga-tere-darbar-ka-ghuroor-sabhi/
-# original_html: snapshots/nohawriteups/original_html/d0ccf876f46c4cc8f6cd.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d0ccf876f46c4cc8f6cd.json
-# api_content_sha256: c9dc6de1ec7f3fd4792140d6b9e9cfd3019679e261639fc5b812e61bf3acb810
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mere Khutbou Sai Toot Jaye Ga Tere Darbar Ka Ghuroor Sabhi

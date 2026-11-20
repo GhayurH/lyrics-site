@@ -37,14 +37,6 @@ romanLyrics: |-
   6
   Roz-e-alam se uthta rahega dhuaaṅ Anis
   Paani ne aisi aag lagaai Furaat par
-# source_id: nohayonline:22fb1198e882974ba116
-# source_url: https://www.nohayonline.com/details_content.php?id=235
-# raw_sha256: 7d131603286d018bd1ae59eedb091280b9ac3b31b90541540534287006b3e4c0
-# source_id: nohawriteups:d121f545379317646b1f
-# source_url: https://www.nohawriteups.org/kaisa-ye-ghul-macha-hai-elahi-furaat-par/
-# original_html: snapshots/nohawriteups/original_html/d121f545379317646b1f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/d121f545379317646b1f.json
-# api_content_sha256: 16676d1bc42d1ac509fad13846e657948619dbd9f29031eb2475c73df7167769
 ---
 
 کیسا یہ غل مچا ہے الہی فرات پر

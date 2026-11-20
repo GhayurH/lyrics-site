@@ -44,9 +44,6 @@ romanLyrics: |-
   Bhai ko jaise behan shaam meiṅ manwayegi
   Ye mera naam madine meiṅ rakhegi zinda
   Karbala is liye sughra ko...
-# source_id: nohayonline:49e40343cff40aed3c53
-# source_url: https://www.nohayonline.com/details_content.php?id=2419
-# raw_sha256: feadc13234d77a3f30d3a89e53a87034326c34f38a71467625a78d474f59705d
 ---
 
 ۱

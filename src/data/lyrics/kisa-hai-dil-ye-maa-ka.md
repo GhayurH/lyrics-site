@@ -8,9 +8,6 @@ reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:86bc22a5942f172e25f8
-# source_url: https://www.ziyaraat.net/api/noha/2492
-# raw_sha256: cee0e298de03153af1b6fe7d5ef297c9250321acaa14e262ecb794ffc7bb3fc9
 ---
 
 Kaisa hai dil ye maa ka

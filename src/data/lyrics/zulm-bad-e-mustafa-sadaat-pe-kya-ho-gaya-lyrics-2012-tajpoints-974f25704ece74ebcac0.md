@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:974f25704ece74ebcac0
-# source_url: https://tajpoints.com/2023/06/zulm-bad-e-mustafa-sadaat-pe-kya-ho.html
-# raw_sha256: b301c4419f745c88c607799c93347e0096d71f38c949d60f1e23c3c6fd4c6a6b
 ---
 
 Zulm Baad-e-Mustafa Sadaat Pe Kya Ho Gaya

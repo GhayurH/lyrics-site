@@ -8,9 +8,6 @@ poet: "Bilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b0e7a4d1f1ca904cfabd
-# source_url: https://tajpoints.com/2018/07/kalam-e-pak-parha-our-na-tarjuma-samajhe.html
-# raw_sha256: c281572a45f8f2faf8f9b5591a11869e45f59a0890bfd44da5049092f4bdd2d6
 ---
 
 Kalam-e-Pak Parha Our Na Tarjuma Samajhe.

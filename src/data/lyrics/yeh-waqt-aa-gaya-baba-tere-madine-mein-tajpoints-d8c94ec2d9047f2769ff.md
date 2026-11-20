@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d8c94ec2d9047f2769ff
-# source_url: https://tajpoints.com/2019/01/yeh-waqt-aa-gaya-baba-tere-madine-mein.html
-# raw_sha256: 24f2c708b98505eed1f22b8bf95f79b7f9646395513ed557561f29324e5fcdb9
 ---
 
 Yeh Waqt Aa Gaya Baba Tere Madine Mein.

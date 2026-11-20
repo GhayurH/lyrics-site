@@ -8,9 +8,6 @@ poet: "Muhsin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:152455ee48f592bcc9fe
-# source_url: https://tajpoints.com/2019/03/youn-tu-hai-khana-e-khuda-kaba.html
-# raw_sha256: 54eb91a47cc9940c41fafe1231bd2eaee082554443dae4b7e0ba9a27eeece460
 ---
 
 Youn Tu Hai Khana-e-Khuda Kaba.

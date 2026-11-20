@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:21d46fb44d04e4fd1d12
-# source_url: https://tajpoint.com/nana-aye-te-dasa-de-kadoon-aaona-aye-sughra-de/
-# raw_sha256: 214cef3c2802b3a52b33a43769182b11eb3e6cc6b97cf0d00e056a5a302a68b5
 ---
 
 1

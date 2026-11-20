@@ -74,9 +74,6 @@ romanLyrics: |-
   Majlis o maatam aur nauha khwaani meiṅ jo hui ho khata
   Shams aur Aamir ki bakhsh dijiye wo sab khata ae Khuda
   Ho jaaye ye bhi duniya ke andar Hurr ki tarah ya Husain
-# source_id: nohayonline:618aa76ba8db6eaef395
-# source_url: https://www.nohayonline.com/details_content.php?id=3589
-# raw_sha256: 6c6d38fb5d5e8201bdf6a186fc3173e307a4919eb5fb0e92424b261969ab7f00
 ---
 حر شرمندہ ہے آقا حر شرمندہ ہے مولا
 معاف کر دو ہمیں یا حسین

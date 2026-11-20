@@ -77,9 +77,6 @@ romanLyrics: |-
   Imtehan e karbala ya ali ya aeliya
   Nauha hai maula ke yatemaan meiṅ
   Qatl ali ho gaye...
-# source_id: nohayonline:92989db840b5044727a3
-# source_url: https://www.nohayonline.com/details_content.php?id=1317
-# raw_sha256: 455d4622fd949ca977b3ec21fd04ad1745d109cb71a7a6bee14c5b3fc363ebdd
 ---
 
 ۱

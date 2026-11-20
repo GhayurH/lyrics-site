@@ -53,9 +53,6 @@ romanLyrics: |-
   10
   Farsh-e-aza pe ashk bahaate raho Aijaz
   Aakif ki aarzu hai to sunnat Sakina ki
-# source_id: nohayonline:2fdadffe0eb362ca9f5f
-# source_url: https://www.nohayonline.com/details_content.php?id=1487
-# raw_sha256: f25870472e5dc928b2cf72990fa9e59976478918079822698b6320e5f99b4351
 ---
 سرور کے دل سے پوچھیے الفت سکینہ کی
 آتی ہے کربلا سے کیوں نکھت سکینہ کی

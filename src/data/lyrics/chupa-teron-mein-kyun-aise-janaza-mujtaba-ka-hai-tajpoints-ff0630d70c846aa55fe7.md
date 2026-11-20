@@ -8,9 +8,6 @@ poet: "Nisar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ff0630d70c846aa55fe7
-# source_url: https://tajpoints.com/2025/09/chupa-teron-mein-kyun-aise-janaza.html
-# raw_sha256: c1e0aa260bfcc69161d25033dcce4fe5d0e2666a17de2e932b477a8e5553d08e
 ---
 
 Chupa Teron Mein Kyun Aise Janaza Mujtaba Ka Hai.

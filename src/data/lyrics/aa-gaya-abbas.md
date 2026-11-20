@@ -91,9 +91,6 @@ romanLyrics: |-
   Koi waaris na raha ro ke Zainab ne kaha
   Baandhne Shimr gala aa gaya Abbas
   Ya Abbas Ya Abbas
-# source_id: nohayonline:fc7e5586a20e3776fa3f
-# source_url: https://www.nohayonline.com/details_content.php?id=2363
-# raw_sha256: f9582826d26f494423f5a0ec8da9161787f43c893643c1d51bd3585b36118211
 ---
 
 برسر دوش حرم تھا وہ سقائے حرم

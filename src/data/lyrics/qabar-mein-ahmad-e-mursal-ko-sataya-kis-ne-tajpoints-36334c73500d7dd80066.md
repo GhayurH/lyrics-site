@@ -8,9 +8,6 @@ poet: "Fiyaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:36334c73500d7dd80066
-# source_url: https://tajpoints.com/2023/11/qabar-mein-ahmad-e-mursal-ko-sataya-kis.html
-# raw_sha256: 4a9c879a34a59330bf676132f1e94d6e7331951b90e4f9067ee08569cc1ef913
 ---
 
 1

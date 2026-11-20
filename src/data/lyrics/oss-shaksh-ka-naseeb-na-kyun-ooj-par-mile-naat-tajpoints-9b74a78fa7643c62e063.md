@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9b74a78fa7643c62e063
-# source_url: https://tajpoints.com/2023/10/oss-shaksh-ka-naseeb-na-kyun-ooj-par.html
-# raw_sha256: 12567706454b899657093596447059b6d48239e71a327f1587c65259fcbddead
 ---
 
 Oss Shaksh Ka Naseeb Na Kyun Ooj Par Mile Naat.

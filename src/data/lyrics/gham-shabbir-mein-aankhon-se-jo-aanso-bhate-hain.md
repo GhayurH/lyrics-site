@@ -26,9 +26,6 @@ romanLyrics: |-
   4
   Zara Dekhe to Koi Hosla iss Ghar Ke Bachcho Ka
   Ali Asghar Gale Par Tir Kha Ke Muskurate Haiṅ.
-# source_id: ziyaraat:843a42082d4c74aa0b4c
-# source_url: https://www.ziyaraat.net/api/noha/2278
-# raw_sha256: f82924319b3929ecf617861ca12c959e4510e15656202263f89d75f3163254ae
 ---
 
 غم شبیرؑ میں آنکھوں سے جو آنسو بہاتے ہیں

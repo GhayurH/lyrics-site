@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:0fc622d75c2880afeb58
-# source_url: https://www.nohawriteups.org/mola-raza-pay-hai-kyon-zulm/
-# original_html: snapshots/nohawriteups/original_html/0fc622d75c2880afeb58.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/0fc622d75c2880afeb58.json
-# api_content_sha256: 6b0d824a19bc6f0dc07485c81a06816b7a2a286e0e8962bdbbe644d995609c98
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Mola raza pay hai kyon zulm o sitam howay hain

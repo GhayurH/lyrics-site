@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ce433a1ff77c7057521a
-# source_url: https://tajpoints.com/2023/12/amma-main-ghareeb-ho-gaya-sarwar-raza.html
-# raw_sha256: f0b89ff98eb196ca23960d999238bb99b6bfaade10d0c07823f239bb51c2148f
 ---
 
 Amma Main Ghareeb Ho Gaya Sarwar Raza Karabalai.

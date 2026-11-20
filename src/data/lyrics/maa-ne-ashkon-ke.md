@@ -49,9 +49,6 @@ romanLyrics: |-
   9
   Irtaza gham se jigar chaak hua hai us dam
   Juṅhi Asif ne jo majlis meiṅ sunaayi mehndi
-# source_id: nohayonline:7c71d60137fef33c93e0
-# source_url: https://www.nohayonline.com/details_content.php?id=1479
-# raw_sha256: 6e7744ef79235edb838621dd402ace2048c6c9b36599385369331911a4244ff3
 ---
 ماں نے اشکوں کے مصلے پہ سجائی مہندی
 دست قاسم پہ تصور میں لگائی مہندی

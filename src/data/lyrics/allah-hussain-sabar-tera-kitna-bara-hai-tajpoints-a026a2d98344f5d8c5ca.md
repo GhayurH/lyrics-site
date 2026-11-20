@@ -8,9 +8,6 @@ poet: "Joun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a026a2d98344f5d8c5ca
-# source_url: https://tajpoints.com/2023/06/allah-hussain-sabar-tera-kitna-bara-hai.html
-# raw_sha256: 9a79d3786ad82e4b6ffdf6c849268d5b541481d3c11f0154c32f85f5b26fc611
 ---
 
 1

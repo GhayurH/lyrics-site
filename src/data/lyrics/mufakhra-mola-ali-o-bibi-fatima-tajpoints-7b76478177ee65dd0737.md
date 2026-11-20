@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7b76478177ee65dd0737
-# source_url: https://tajpoints.com/2021/02/mufakhra-mola-ali-o-bibi-fatima-lyrics.html
-# raw_sha256: 7a0b1264e7df810df9d1576031d062a377db942949ebac31485fe7bdc1b34587
 ---
 
 1

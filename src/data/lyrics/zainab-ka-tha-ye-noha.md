@@ -36,9 +36,6 @@ romanLyrics: |-
   6
   Ya Fatima ab aao ya Murtaza ab aao
   Dam torta hai beta bhai hai bhuka pyaasa
-# source_id: nohayonline:c8a92449d08e6c0de422
-# source_url: https://www.nohayonline.com/details_content.php?id=588
-# raw_sha256: d14be9664295ec5454080d3e381458ba00c3fd0c7ad4b89093722417624c3855
 ---
 زینب کا تھا یہ نوحہ بھائی ہے بھوکا پیاسا
 اے شمر تُو ٹھہر جا بھائی ہے بھوکا پیاسا

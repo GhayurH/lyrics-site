@@ -74,9 +74,6 @@ romanLyrics: |-
   Dil se bhai kaha hontoṅ se magar keh na sake
   Ae mere laal tu shabbir ko bhai kehde
   Ruh e zehra ne ye...
-# source_id: nohayonline:37a130fcaaac667e97b1
-# source_url: https://www.nohayonline.com/details_content.php?id=2617
-# raw_sha256: 89750e48fa143c08bab36b13616d226c58862ec60d9688983eddb3aa2f7c7c11
 ---
 
 ۱

@@ -33,9 +33,6 @@ romanLyrics: |-
   Anjum ye, apnay apnay, muqaddar ki baat hai
   Shahon ka tazkayra hai, na lashkar ki baat hai,
   Jo karbala mein luta gaya, us ghar ki baat hai
-# source_id: ziyaraat:ca50beb4d803b07e80b0
-# source_url: https://www.ziyaraat.net/api/noha/145
-# raw_sha256: 0cb151de80ca9506463afcd1515028fb929b8bae281e0634e58af4b3bb34f5d9
 ---
 
 شاھوں کا تزکرہ ہے نہ لشکر کی بات ہے

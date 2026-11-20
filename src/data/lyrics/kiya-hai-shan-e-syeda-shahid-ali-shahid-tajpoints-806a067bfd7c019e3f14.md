@@ -8,9 +8,6 @@ poet: "Shahid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:806a067bfd7c019e3f14
-# source_url: https://tajpoints.com/2023/01/kiya-hai-shan-e-syeda-shahid-ali-shahid.html
-# raw_sha256: 3e8aab207579ed87d5cba92e15db7406922712477334b178cfaa9d9deab88f65
 ---
 
 1

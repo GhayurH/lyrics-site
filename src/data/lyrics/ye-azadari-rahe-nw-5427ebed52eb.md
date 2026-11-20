@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:5427ebed52ebe9637d00
-# source_url: https://www.nohawriteups.org/ye-azadari-rahe/
-# original_html: snapshots/nohawriteups/original_html/5427ebed52ebe9637d00.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/5427ebed52ebe9637d00.json
-# api_content_sha256: 7a5e1ffd7958705e436f3d4b62bffe28c5e89b9c3512028f5c57e5755a0f4150
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 ye azadari rahe ye azadari rahe

@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:86903b19e91093956cdd
-# source_url: https://tajpoints.com/2020/07/asghar-teer-nu-rook-bachra-lyrics-in.html
-# raw_sha256: 6375b8083d83754bf698638f98e54003e3c70a3f0b955e9296463792b45f177e
 ---
 
 1

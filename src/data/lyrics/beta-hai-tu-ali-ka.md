@@ -97,9 +97,6 @@ romanLyrics: |-
   Masuma ki qasam hi Ghazi faqat tere hai
   Wo kuchh raqam karuṅ maiṅ jo na raqam hua hai
   Alfaaz wo ata kar Yawar se jo pare haiṅ
-# source_id: nohayonline:1756a6b440b61f4c2565
-# source_url: https://www.nohayonline.com/details_content.php?id=2561
-# raw_sha256: f23137627904280ed7f3637856c37127dfa7c9f33d502c0321b32a636d8322ac
 ---
 
 اللهم أدخل على أهل القبور السرور

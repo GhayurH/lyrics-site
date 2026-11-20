@@ -8,9 +8,6 @@ poet: "Jarrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:292a2ffe75ca3d74a861
-# source_url: https://tajpoints.com/2024/04/jafar-ke-gham-mein-royi-sari-hi-kainat.html
-# raw_sha256: 9af24010d3f72c8bcebee975b4fd5513b191f6fd02a03bb24567feb4deadfb61
 ---
 
 Jafar Ke Gham Mein Royi Sari Hi Kainat.

@@ -26,9 +26,6 @@ romanLyrics: |-
   4
   Nashad baara chowda Masum ne kaha
   Jannat may rone walo, ghar aadha tumhara ho ga
-# source_id: ziyaraat:9f0f00004d520765c6fe
-# source_url: https://www.ziyaraat.net/api/noha/2324
-# raw_sha256: b3a4dcbbb1bbc5c033f7f893f6cd0968d3aa6698f0ac0c94e2b8d41ea5aa13fd
 ---
 
 صغریٰؑ تیرے بغیر سفر میرا ادھورا ہو گا

@@ -60,9 +60,6 @@ romanLyrics: |-
   Kahaaṅ pe laayi hai Zainab ko ghar kar qismat
   Hujum-e-ranj o alam aur dard ki shiddat
   Zabaaṅ kaun si laaye jo ye kahe Ishrat
-# source_id: nohayonline:ab70fd6ba598e302803c
-# source_url: https://www.nohayonline.com/details_content.php?id=1347
-# raw_sha256: b288eae460742b7e56b6d334bf9d8caec8e29e7e31808afee3bc0497026df2fa
 ---
 بتا رہی ہے دلوں کی بڑھی ہوئی دھڑکن
 عطش کی آگ سے اب تک جھلس رہا ہے بدن

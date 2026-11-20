@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8dc6887198ab3fdbf235
-# source_url: https://tajpoints.com/2024/12/batool-kay-shayan-syed-mudassir-mehdi.html
-# raw_sha256: d24b570bab56f7f11882eda7f841eb7a551d687fef5e2a48f6c4b863d66019cb
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Rehan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e8d708ee278e4493416d
-# source_url: https://tajpoints.com/2024/03/islam-ki-tarveej-ka-unwan-khadija-rehan.html
-# raw_sha256: d951e40407218f1cf3ede543fc1eb653ca27ca72d01816d828b6c3623dca853e
 ---
 
 Islam Ki Tarveej Ka Unwan Khadija Rehan Azmi.

@@ -58,9 +58,6 @@ romanLyrics: |-
   Jaan de dena sar katana magar
   Haq e zahra ko mat chupana tum
   Lailatul qadr hoo...
-# source_id: nohayonline:df859943c407c54ec770
-# source_url: https://www.nohayonline.com/details_content.php?id=1370
-# raw_sha256: 4788f42ef056a6f602d20da735bc1d45adfa636d2e1494b2637aa72c26f34f8b
 ---
 
 ۱

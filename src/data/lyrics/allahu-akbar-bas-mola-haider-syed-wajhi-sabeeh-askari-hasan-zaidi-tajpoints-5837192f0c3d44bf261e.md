@@ -8,9 +8,6 @@ poet: "Dabeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5837192f0c3d44bf261e
-# source_url: https://tajpoints.com/2022/02/allahu-akbar-bas-mola-haider-syed.html
-# raw_sha256: 804e78adf28849c758f44fef4f0682c7120843ab1e011a4f08cdba6ac61702cd
 ---
 
 1

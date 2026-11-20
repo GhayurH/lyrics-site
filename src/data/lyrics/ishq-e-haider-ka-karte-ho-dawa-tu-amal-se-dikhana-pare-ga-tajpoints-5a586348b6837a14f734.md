@@ -8,9 +8,6 @@ poet: "Adil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5a586348b6837a14f734
-# source_url: https://tajpoints.com/2018/03/ishq-e-haider-ka-karte-ho-dawa-tu-amal.html
-# raw_sha256: 9d041496d86023a63e0440b259962cf36e5242580ae0d07b55ac65713587a5af
 ---
 
 1

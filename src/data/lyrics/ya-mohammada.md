@@ -65,9 +65,6 @@ romanLyrics: |-
   Bhai ki laash pe karti thi bahan jab maatam
   Ro ke deti thi sada Zainab-e-Muztar paiham
   Le ke jaati huṅ maiṅ pardes se bhai ka gham
-# source_id: nohayonline:2184186e8a8b376cbc2e
-# source_url: https://www.nohayonline.com/details_content.php?id=3122
-# raw_sha256: 954f1a0c138e161caf447e78a2409365004eb979c8348814b35f514180ea7499
 ---
 یا محمداہ صلی علیک ملائکة السماء
 ہذا حسین مرمل بالدماء

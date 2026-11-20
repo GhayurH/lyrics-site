@@ -8,9 +8,6 @@ poet: "Sajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:87245faae2656c581d45
-# source_url: https://tajpoint.com/kya-yehi-islam-tha-phaila-howa-bad/
-# raw_sha256: c679d63d6296d551cc8ac8f0bdd8edd3ccffda026ac386fe8d273836aefac096
 ---
 
 1

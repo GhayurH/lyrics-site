@@ -8,9 +8,6 @@ poet: "Mumtaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9195d73cb39f4cdb32b7
-# source_url: https://tajpoints.com/2017/02/de-gawahi-ye-kainat-teri.html
-# raw_sha256: fbaa0f71c55d69e97013a1dc31f6cd55e72193264d08f3f008acf154e6463d85
 ---
 
 De Gawahi Ye Kainat Teri

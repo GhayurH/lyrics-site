@@ -8,9 +8,6 @@ poet: "Dabeer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f9398d54945fd604d421
-# source_url: https://tajpoints.com/2022/12/qaid-khaney-main-nadeem-sarwar-lyrics.html
-# raw_sha256: 035185230da7eb19763d05a8b9a9544d1087ee4782931a1532a21b59764ef0c1
 ---
 
 1

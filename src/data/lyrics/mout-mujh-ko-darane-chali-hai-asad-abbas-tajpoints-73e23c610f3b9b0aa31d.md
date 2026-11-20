@@ -8,9 +8,6 @@ poet: "Karrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:73e23c610f3b9b0aa31d
-# source_url: https://tajpoints.com/2025/01/mout-mujh-ko-darane-chali-hai-asad-abbas.html
-# raw_sha256: dd1b56c053405364eaaa0c8f5753ef4cd2117e509a910a4845f7c5cad3f8382e
 ---
 
 1

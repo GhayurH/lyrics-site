@@ -45,9 +45,6 @@ romanLyrics: |-
   Jo tha butul ka dildaar aur imam e zaman
   Phiri hai barehna sar karbala meiṅ jiski bahen
   Usi gharib usi safdar ki ye sawari hai
-# source_id: nohayonline:40fbd9267cf804300856
-# source_url: https://www.nohayonline.com/details_content.php?id=1158
-# raw_sha256: d8d957aa5b47f7f04ea06c85791d528c6b785973fddfe36501fe2518d4e3d6e4
 ---
 
 ۱

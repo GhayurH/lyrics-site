@@ -8,9 +8,6 @@ poet: "Shakeel"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5928211d41956a01b3cd
-# source_url: https://tajpoints.com/2025/10/betiyon-se-ye-mera-zakhm-chupana-ay.html
-# raw_sha256: 344b73c72fd32f669aacce35ed8e146a22285992065ad1d5fd0c8cbcc55bd852
 ---
 
 1

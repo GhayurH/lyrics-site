@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d2a4481a6fbbf2dbdfc9
-# source_url: https://tajpoints.com/2021/05/tapakta-hai-khoon-murtaza-ki-jabeen-se.html
-# raw_sha256: b501f72c83ac255843fefc3fe66608ad9d31c91de2329750bfeb5951b58ba82e
 ---
 
 1

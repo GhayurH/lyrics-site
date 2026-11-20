@@ -56,9 +56,6 @@ romanLyrics: |-
   Rauza ban jaye tera ye hai armaan mera
   Phir wahaṅ jaaye ziyarat ko sabhi ahle aza
   Ya fatema salamullah alaiha...
-# source_id: nohayonline:a10cfc54dae9131b8a50
-# source_url: https://www.nohayonline.com/details_content.php?id=1326
-# raw_sha256: 8124d8224a016ac7f095b5b81a558d7ad2b6b6ace168bf2201f6f9a36f6ded44
 ---
 
 ۱

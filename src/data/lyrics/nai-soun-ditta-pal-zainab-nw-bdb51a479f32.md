@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:bdb51a479f32269c5c01
-# source_url: https://www.nohawriteups.org/nai-soun-ditta-pal-zainab/
-# original_html: snapshots/nohawriteups/original_html/bdb51a479f32269c5c01.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/bdb51a479f32269c5c01.json
-# api_content_sha256: 4b47586615aab0d2ac786b36f8d25448f2ebd036d77049f29b9c97e9c3d2992b
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Nai Soun Ditta Pal Zainab Nu Ibne Nofal Tarpaanda Raya.

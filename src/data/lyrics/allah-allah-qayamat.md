@@ -93,9 +93,6 @@ romanLyrics: |-
   Baad sher-e-jari Shaam jaa kar
   Bas ye misra hi khud marsiya hai
   Behen Abbas ki berida hai
-# source_id: nohayonline:9d84fd2c6bae82dd6f18
-# source_url: https://www.nohayonline.com/details_content.php?id=2253
-# raw_sha256: f785fcee62a4c2fde5bc216eff3e66758ec0573c49369129553ead41d31902ae
 ---
 جو تھی کونین کی شہزادی
 سر برہنہ سرِ شام آئی

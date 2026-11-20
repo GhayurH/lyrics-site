@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:5e2ff03a2b90408e11e3
-# source_url: https://www.ziyaraat.net/api/noha/273
-# raw_sha256: 0f3711de2acdc5347f96e1ab9436fbb127f4bf9aa9c24d1512d3c9ff2ae0237f
 ---
 
 Zuljanah, zuljanah

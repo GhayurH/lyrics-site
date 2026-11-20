@@ -1,77 +1,121 @@
 ---
-title: "جل چکے خیمے یتیموں کے اندھیرا رہ گیا"
-alternateTitle: "Jal Chuke Khaime"
+title: "جل چُکے خیمے شہِ دیں کے فِضا خاموش ہے"
+alternateTitle: "Jal Chuke Qaime"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
-poet: "Raza Sirsvi"
-reciter: "Kazmi Brothers"
 tags: []
 aliases: []
-published: true
-romanLyrics: |-
-  Jal chuke khaime yatimoṅ ke andhera reh gaya
-  Raat roti reh gayi rota savera reh gaya
+published: false
+romanLyrics: 'Jal chuke qaime shahe deen ke fiza khamosh hai
+
 
   1
-  Jo baraati bach gaye wo qaid ho ke chal diye
-  Saare dasht-e-Nainawa meiṅ ek dulha reh gaya
+
+  Huu ka ek aalam hai dashte nainawa khamosh hai
+
 
   2
-  Yaadgaareṅ reh gayiṅ do maadar-e-Asghar ke paas
-  Ek kurta khuṅ bhara aur ek jhula reh gaya
+
+  Mehwe hairat hoo zamana kis khadar hai sang dil
+
+  Sun raha hai karbala ka waqaya khamosh hai
+
 
   3
-  Umm-e-Laila ro ke boli Shaah-e-diṅ jaldi chalo
-  Nok pe barchhi ki Akbar ka kaleja reh gaya
+
+  Ghash mein hai bemaar lab ko taab e goyaii kahan
+
+  Chin rahi hai sar se zainab ke rida khamosh hai
+
 
   4
-  Sehra-e-Akbar ki lariyaṅ khun meiṅ tar ho gayiṅ
-  Haaye Sughra ka har ik armaaṅ adhura reh gaya
+
+  Ya ilaahi kaunsi quwat dil e zainab mein hai
+
+  De ke bachon ko shahadat ki dua khamosh hai
+
 
   5
-  Sab hi laashoṅ ko utha kar chal diye Kufe ke log
-  Tapti reti par Muhammad ka nawaasa reh gaya
+
+  Ro to le khul kar zara akbar ko maa hat jaiye
+
+  Shaahe deen pase adab se maamta khamosh hai
+
 
   6
-  Phul Zahra ke chaman se sab hi tore jaa chuke
-  Jalte khaimoṅ meiṅ bas ik bimaar tanha reh gaya
+
+  Har qadam par hai jo bhai ki wasiyat ka khayaal
+
+  Taaziyane khaake binte murtaza khamosh hai
+
 
   7
-  Sar khule Zainab chaliṅ khaimoṅ se ye keh kar Raza
-  Khanjaroṅ ki bhir meiṅ bhaai akela reh gaya
-# source_id: nohayonline:92a092856cb384c944ab
-# source_url: https://www.nohayonline.com/details_content.php?id=1009
-# raw_sha256: e175bf9b61a3f1b017bb89b3c11d1968c550c121b560e768fc2140edcbf27263
+
+  Khoon mein doobi huwi hai sibte paighambar ki laash
+
+  Kashti e ummat bacha kar na-khuda khamosh hai
+
+
+  8
+
+  Kya kare kis dil se de shabbir marne ki raza
+
+  Sar jhukaye saamne bhai khada khamosh hai
+
+
+  9
+
+  Aa rahi hai al-atash ki qaima e sheh se sada
+
+  Sar kataye ghaat par saqqa pada khamosh hai
+
+
+  10
+
+  Maine jab poocha bata kya hai wafa ki inteha
+
+  Keh ke ya abbas tareekh e wafa khamosh hai'
+reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 ---
-جل چکے خیمے یتیموں کے اندھیرا رہ گیا
-رات روتی رہ گئی روتا سویرا رہ گیا
+
+جل چُکے خیمے شہِ دیںؑ کے فِضا خاموش ہے
 
 ۱
-جو باراتی بچ گئے وہ قید ہو کے چل دیئے
-سارے دشتِ نینوا میں ایک دلہا رہ گیا
+ہُوکا ایک عالم ہے دشتِ نینوا خاموش ہے
 
 ۲
-یادگاریں رہ گئیں دو مادرِ اصغر ع کے پاس
-ایک کُرتا خوں بھرا اور ایک جھولا رہ گیا
+محوِ حیرت ہوں زمانہ کس قدر ہے سنگدل
+سُن رہا ہے کربلا کا واقعہ خاموش ہے
 
 ۳
-امِّ لیلیٰ رو کے بولی شاہِ دیں جلدی چلو
-نوک پہ برچھی کی اکبر ع کا کلیجہ رہ گیا
+غش میں ہے بیمار لب کو تابِ گویائی کہاں
+چِھن رہی ہے سر سے زینبؑ کے ردا خاموش ہے
 
 ۴
-سہرائے اکبر کی لڑیاں خون میں تر ہو گئیں
-ہائے صغرا کا ہر اِک ارماں ادھورا رہ گیا
+یا الٰہی کون سی قوت دلِ زینبؑ میں ہے
+دے کے بچوں کو شہادت کی دُعا خاموش ہے
 
 ۵
-سب ہی لاشوں کو اُٹھا کر چل دیئے کوفے کے لوگ
-تپتی ریتی پر محمد کا نواسہ رہ گیا
+ہر قدم پر ہے جو بھائی کی وصیت کا خیال
+تازیانے کھا کہ بنتِ مُرتضٰیؑ خاموش ہے
 
 ۶
-پھول زہرا کے چمن سے سب ہی توڑے جا چُکے
-جلتے خیموں میں بس اِک بیمار تنہا رہ گیا
+رو تو لے کھل کر ذرا اکبرؑ کو ماں ہٹ جائیے
+شاہِ دیں پاسِ ادب سے مامتا خاموش ہے
+جل چکے خیمے ۔۔۔۔۔
+خون میں ڈوبی ہوئی ہے سبطِ پیغمبرؑ کی لاش
+کشتیئِ اُمت بچا کر نا خُدا خاموش ہے
 
 ۷
-سَر کھلے زینب چلیں خیموں سے یہ کہہ کر رضا ؔ
-خنجروں کی بھیڑ میں بھائی اکیلا رہ گیا
+کیا کرے کس دل سے دے شبیرؑ مرنے کی رضا
+سر جُھکائے سامنے بھائی کھڑا خاموش ہے
+
+۸
+آ رہی ہے العتش کی خیمہءِ شِہہؑ سے صدا
+سر کٹائے گھاٹ پر سقا پڑا خاموش ہے
+
+۹
+میں نے جب پوچھا بتا کیا ہے وفا کی انتہا
+کہہ کہ یا عباسؑ تاریخِ وفا خاموش ہے

@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:924b6d188996a4c3401e
-# source_url: https://www.ziyaraat.net/api/noha/1137
-# raw_sha256: 184ed6294f9f0c7a608a040a2b0b6a3435f51e35cbd24401eac9fa27d5c1ffcd
 ---
 
 Tazeem kar ke, sab ko bataya Rasool ne.

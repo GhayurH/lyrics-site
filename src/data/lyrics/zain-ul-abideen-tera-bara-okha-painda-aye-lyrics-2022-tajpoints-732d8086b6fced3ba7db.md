@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:732d8086b6fced3ba7db
-# source_url: https://tajpoints.com/2022/04/zain-ul-abideen-tera-bara-okha-painda.html
-# raw_sha256: cfe357eba5536f649b3a8c07cb0b74f1797a03697f787e3e6eeb15783b32247a
 ---
 
 Zain Ul Abideen Tera Bara Okha Painda Aye.

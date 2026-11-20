@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:e38b70781c3cce6d3830
-# source_url: https://www.ziyaraat.net/api/noha/397
-# raw_sha256: ff9b3d86859af75e21e2a9719bcd4792f2b38fd1e27a0760478001047480d4f1
 ---
 
 1) Daro deewar se zindan ke aati thi sada - mar gayi dukhtare Shah

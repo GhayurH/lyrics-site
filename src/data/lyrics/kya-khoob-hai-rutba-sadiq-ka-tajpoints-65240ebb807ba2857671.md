@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:65240ebb807ba2857671
-# source_url: https://tajpoints.com/2022/10/kya-khoob-hai-rutba-sadiq-ka-lyrics-in.html
-# raw_sha256: 8ebe7a1506560240d4c1e1c82d1d359108a8283d8bcb6167932ff54f4ac15157
 ---
 
 1

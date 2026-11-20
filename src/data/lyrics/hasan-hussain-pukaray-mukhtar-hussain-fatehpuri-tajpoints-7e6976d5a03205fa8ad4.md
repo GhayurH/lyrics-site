@@ -8,9 +8,6 @@ poet: "Majid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7e6976d5a03205fa8ad4
-# source_url: https://tajpoints.com/2022/12/hasan-hussain-pukaray-mukhtar-hussain.html
-# raw_sha256: 2e0e2e17bc97f5f6976e985edeaf48905d239a7cd874d5b3f68440bd41f6b0a6
 ---
 
 1

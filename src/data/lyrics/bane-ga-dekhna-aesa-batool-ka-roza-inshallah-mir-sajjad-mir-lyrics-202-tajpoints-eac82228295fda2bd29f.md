@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:eac82228295fda2bd29f
-# source_url: https://tajpoints.com/2024/12/bane-ga-dekhna-aesa-batool-ka-roza.html
-# raw_sha256: 3b2c4f758b72eb40ecd298d08b3c2f9d556e7991a6b2ed984afaedab3a289719
 ---
 
 1

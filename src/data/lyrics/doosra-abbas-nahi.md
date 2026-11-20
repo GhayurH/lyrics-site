@@ -58,9 +58,6 @@ romanLyrics: |-
   Khaak par baith gayi
   Paas baba ke mere...
   Pani maange na koi...
-# source_id: nohayonline:fed88fc7031d7d402096
-# source_url: https://www.nohayonline.com/details_content.php?id=957
-# raw_sha256: cf47038d446d88714ea818b14411e33082d210ffea13338b0de3764bae6a1e3b
 ---
 
 ۱

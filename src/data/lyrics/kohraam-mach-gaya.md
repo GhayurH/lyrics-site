@@ -63,9 +63,6 @@ romanLyrics: |-
   Lo mai sawaar karti hoo abbas gar nahi
   Wayiz hua sawaar jo zehra ka laadla
   Kohraam mach gaya...
-# source_id: nohayonline:8f279f0048e90115d5f6
-# source_url: https://www.nohayonline.com/details_content.php?id=315
-# raw_sha256: 16385f57c5fff787d45e07324478d1c252542b64a82b51a1438657fbb8cc4c09
 ---
 
 ۱

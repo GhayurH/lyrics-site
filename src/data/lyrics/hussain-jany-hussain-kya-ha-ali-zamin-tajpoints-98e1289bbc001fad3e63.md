@@ -9,9 +9,6 @@ reciter: "Master Ali Zamin"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:98e1289bbc001fad3e63
-# source_url: https://tajpoints.com/2023/02/hussain-jany-hussain-kya-ha-ali-zamin.html
-# raw_sha256: 735849d1d84b9dda2ffca15aa66583a8d5195edb337d0bc0d25b22f5dc52da6a
 ---
 
 Husain Jaane Husain Kya Hai

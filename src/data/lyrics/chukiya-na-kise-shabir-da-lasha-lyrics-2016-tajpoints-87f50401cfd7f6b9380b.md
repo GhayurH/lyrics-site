@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:87f50401cfd7f6b9380b
-# source_url: https://tajpoints.com/2017/02/chukiya-na-kise-shabir-da-lasha.html
-# raw_sha256: 5ca87d82b91635b1d6e42c42f98d5640374be052cccae9e1199be1379c8217a6
 ---
 
 1

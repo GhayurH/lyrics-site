@@ -92,16 +92,6 @@ romanLyrics: 'Ya Rasool Allah afsos k qatl ker dia gaya
   Wo Hujjat hai usi ka kaam hai is dird ko sehna
 
   Kisi khaki k dil may Joan ye gham kb samata hai'
-# source_id: nohayonline:fa03a27cd5853a2e468f
-# source_url: https://www.nohayonline.com/details_content.php?id=317
-# raw_sha256: c20a63c055ec77de0441e65a54ab749684e17d071e1e9668184804e488bbf297
-# source_id: ziyaraat:3454d1eb318707850c70
-# source_url: https://www.ziyaraat.net/api/noha/1989
-# raw_sha256: b39d268fbebf2da35705002003f232fce9ffc771b3c052345aea767c822485c3
-# source_id: ziyaraat:39593c78bce925cbbecd
-# source_url: https://www.ziyaraat.net/api/noha/1533
-# raw_sha256: 65dd44f288239516db5553f7b66803d3afa77145b8c8bd1c03f32de4478f323e
-# added_stanza_source: roman:kalam-nohayonline-fa03a27cd5853a2e468f
 ---
 
 يا رسول اللّٰہؐ افسوس کہ قتل کر ديا گيا

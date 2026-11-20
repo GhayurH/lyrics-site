@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1ece76beb6964ef1df50
-# source_url: https://tajpoints.com/2020/07/sughra-kaliyaan-roway-gi-kar-yaad.html
-# raw_sha256: 17f5ac4139db5c9f3c635bb84a1e583ce95f64280c8ff736f7f476dbffac0df5
 ---
 
 1

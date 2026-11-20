@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6159353f56bf41e38c83
-# source_url: https://tajpoints.com/2019/10/sar-nangay-jisay-khalq-e-khuda-dekh.html
-# raw_sha256: 6c2431187226854012e403fa94de391691938e21d5f068d4d7982e7dce93e077
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:611c9d50ea39f86be83c
-# source_url: https://tajpoints.com/2023/09/sajjad-nu-ley-turiyan-sham-de-rah-nu.html
-# raw_sha256: 609a2a0513e0e6d55f7e00bd901c02119a8f8269ee7519b1fdff1a3f5a54141b
 ---
 
 Sajjad Nu Ley Turiyan Sham De Rah Nu Asghar Khan.

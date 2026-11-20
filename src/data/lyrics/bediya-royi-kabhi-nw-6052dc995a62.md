@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:6052dc995a6234cca56b
-# source_url: https://www.nohawriteups.org/bediya-royi-kabhi/
-# original_html: snapshots/nohawriteups/original_html/6052dc995a6234cca56b.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/6052dc995a6234cca56b.json
-# api_content_sha256: 071cb05c0466265f68d17cdc66719f44843726cfd43d44cb964fee96d7b6ee8a
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 bediya royeyn kabhi paon ke chale roye

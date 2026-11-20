@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1ae2375cf6d2bfee7d1c
-# source_url: https://tajpoints.com/2026/10/muhammad-ki-beti-ko-maar-diya-syed.html
-# raw_sha256: 54a8789722caac1bdc70e266878e5e1f7b9938205ac1a929553704ae9974ec59
-# source_title_original: Muhammad Ki Beti Ko Maar Diya Syed Raza Abbas Zaidi Lyrics In Urdu 2026
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Kissi Ghar Mein Jab Koi Marta Hai

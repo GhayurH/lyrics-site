@@ -8,9 +8,6 @@ poet: "Maqsood"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:74000ce121295be66b1f
-# source_url: https://tajpoints.com/2017/02/amma-tedi-qabar-te-zainabsa-ujar-ke-aa.html
-# raw_sha256: d8cc780acdf8e3dfaf6e73ce270dc2eed0f0eef79e16f3232cf98be409cdcede
 ---
 
 1

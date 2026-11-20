@@ -8,9 +8,6 @@ poet: "Fazal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d537c36b8c9911f9d260
-# source_url: https://tajpoints.com/2024/07/gham-e-hussain-anjuman-e-dar-e-hussain.html
-# raw_sha256: 494e475b4e152ec99745a6bbad4404e087b4c6fda3836f57634300203f901e28
 ---
 
 1

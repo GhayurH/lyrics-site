@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:9fb080c1a12e33493de7
-# source_url: https://www.nohawriteups.org/kis-shan-say-utha-hai-haye-ghazi-alam-tera/
-# original_html: snapshots/nohawriteups/original_html/9fb080c1a12e33493de7.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/9fb080c1a12e33493de7.json
-# api_content_sha256: 525a923d73e753529410ccfcb8e49cea2c72fbabfa2248bd1fd35071db941ec4
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Kis shan say utha hai haye ghazi alam tera

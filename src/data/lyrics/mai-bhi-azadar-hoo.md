@@ -56,9 +56,6 @@ romanLyrics: |-
   Hai yehi sada marhame zakhme dile bimar
   Baqar se yehi kehte rahe...
   Haa mai bhi azadaar hoo...
-# source_id: nohayonline:f2f62bd54095caeaea83
-# source_url: https://www.nohayonline.com/details_content.php?id=2243
-# raw_sha256: 0b2c71ac14eb913b4460ed67b9da4b06dba75a92e28e392ac1200a42a8d390d8
 ---
 
 ۱

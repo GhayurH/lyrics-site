@@ -8,9 +8,6 @@ poet: "Asif"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cd4c6d409fdf17b56f59
-# source_url: https://tajpoints.com/2024/09/sakina-rehai-mili-hai-chalo-sarwar-raza.html
-# raw_sha256: 887824a680277169d2a1e5e5c5e36d9922049cd9c43b3d34406ddd280247ba3a
 ---
 
 1

@@ -58,9 +58,6 @@ romanLyrics: |-
   Sar nahi to kya hua badan to hai tera
   Soja meri godh meiṅ dekh maa se ab na bolna
   Amma mera sar...
-# source_id: nohayonline:bbe1e5ef7ac6400548a9
-# source_url: https://www.nohayonline.com/details_content.php?id=3701
-# raw_sha256: 3c67c96f221bd50f3226783eba58de46641b2bab49f2ec4cafeea0d68f4efef2
 ---
 
 ۱

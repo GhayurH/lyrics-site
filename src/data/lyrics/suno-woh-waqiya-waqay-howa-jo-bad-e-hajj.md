@@ -7,11 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4a8b65a04933ba1886af
-# source_url: https://tajpoints.com/2026/06/suno-woh-waqiya-waqay-howa-jo-bad.html
-# raw_sha256: 6b176ebbd1fca8fc8277b937d81f7a96e04cab92fdba55e5223c4e891779e74b
-# source_title_original: Suno Woh Waqiya Waqay Howa Jo Bad e Hajj Lyrics Urdu 2026
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Hasen Kitna Tha Manzar Bana Jo Bad-e-Hajj

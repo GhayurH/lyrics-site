@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3787f147d8909f7fd3aa
-# source_url: https://tajpoints.com/2023/08/kiya-hoti-hai-gurbat-sonu-monu-2023.html
-# raw_sha256: ff7af247d9ed07250ec6919742fa5c3c1c2ebee45446107c2a0b28576ca5bc86
 ---
 
 1

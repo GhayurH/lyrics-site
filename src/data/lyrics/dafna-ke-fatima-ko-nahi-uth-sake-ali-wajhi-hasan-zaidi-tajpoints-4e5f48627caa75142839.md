@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4e5f48627caa75142839
-# source_url: https://tajpoints.com/2025/10/dafna-ke-fatima-ko-nahi-uth-sake-ali.html
-# raw_sha256: 0d481a75a147398e844db844eddf7989dd07f80a2ff97c0b1a45c42649f9d771
 ---
 
 1

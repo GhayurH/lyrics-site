@@ -57,9 +57,6 @@ romanLyrics: |-
   Bigri jo Sakina ki haalat
   Ye kehte hue dam tor diya
   Ammu ne akela chhor diya
-# source_id: nohayonline:48fff3fd173d879595d9
-# source_url: https://www.nohayonline.com/details_content.php?id=2168
-# raw_sha256: 10e369937b25b3c675822b51651b5b852ddf8fac7a49d2b45ae94aa445ea35c7
 ---
 ہر دم تھا سکینہ کا نوحہ
 عمو نے اکیلا چھوڑ دیا

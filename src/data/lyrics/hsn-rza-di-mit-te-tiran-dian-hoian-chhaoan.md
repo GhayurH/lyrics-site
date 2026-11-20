@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:e088cfc9548ecb81c818
-# source_url: https://www.ziyaraat.net/api/noha/663
-# raw_sha256: 367a58b2f8270e74d1dadd520a56037e7352de556342170d41eb07623df0ae24
 ---
 
 Hasan Raza di mayyat tay teeran diyan hoiyan chawan

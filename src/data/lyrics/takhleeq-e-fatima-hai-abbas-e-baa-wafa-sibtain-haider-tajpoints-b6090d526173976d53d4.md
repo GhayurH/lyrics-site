@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b6090d526173976d53d4
-# source_url: https://tajpoints.com/2023/05/takhleeq-e-fatima-hai-abbas-e-baa-wafa.html
-# raw_sha256: 6f538944213a574ec1a07d9b27f43ddcfe4607305ec94babbf835f104f498225
 ---
 
 1

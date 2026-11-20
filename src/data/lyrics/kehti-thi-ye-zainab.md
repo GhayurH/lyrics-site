@@ -56,14 +56,6 @@ romanLyrics: |-
   Aur Shimr ka khanjar
   Chal jaayegi mit jaayegi Haidar ki nishaani
   Maiṅ kya karuṅ Bibi
-# source_id: nohayonline:974b72aa5906da3a2101
-# source_url: https://www.nohayonline.com/details_content.php?id=310
-# raw_sha256: 4d8b9fd21df57dd39db3778540a6ca1003e14ced0d800cde6f232c0c488b0d02
-# source_id: nohawriteups:3b0c0a07fe31a45dc1d9
-# source_url: https://www.nohawriteups.org/kehti-thi-ye-zainab-se/
-# original_html: snapshots/nohawriteups/original_html/3b0c0a07fe31a45dc1d9.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/3b0c0a07fe31a45dc1d9.json
-# api_content_sha256: 8498ce508207c91797670a504bddbc9683242a52522449b77f846310e33e3014
 ---
 کہتی تھی یہ زینب سے محمد کی دلاری
 میں کیا کروں بی‌بی

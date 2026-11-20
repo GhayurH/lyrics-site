@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:4df4ccaba6477642f07a
-# source_url: https://www.ziyaraat.net/api/noha/1282
-# raw_sha256: 824cb06edbc6f5f70235415b2ccd324a7577b91cc34064bb3f024225ef771f8e
 ---
 
 جنڈاں غازی جھنڑیاں زین اُتوں ہائے منڑدریاجبریل آدھے

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a06bca66e2b5a8d321dc
-# source_url: https://tajpoints.com/2020/11/okhiyaan-rahwaan-te-painday-karne-pay.html
-# raw_sha256: 67605d3d6bfecc2d1a5793c49919ddc55094242347d8897a5561330911fce242
 ---
 
 Okhiyaan Rahwaan Te Painday Karne Pay Gaye

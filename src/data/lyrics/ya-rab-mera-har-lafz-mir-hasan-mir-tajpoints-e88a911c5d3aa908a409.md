@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e88a911c5d3aa908a409
-# source_url: https://tajpoints.com/2022/10/ya-rab-mera-har-lafz-mir-hasan-mir.html
-# raw_sha256: 4e31ef84cbbfcfc45def09639329a3565772744c0d824d02cf8225a5aa2774a8
 ---
 
 1

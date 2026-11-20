@@ -8,9 +8,6 @@ poet: "Riaz"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b203351064494786eae1
-# source_url: https://tajpoints.com/2023/03/mastoor-koi-jag-te-ainj-be-rida-na.html
-# raw_sha256: 7d2ffe276980aaada26106c9c296cff2f7548508b809cd3a17d50f5e01a9e64b
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:00b5152d6b84ec88bb3e
-# source_url: https://tajpoints.com/2023/02/pul-e-siraat-mir-sajjad-mir-lyrics-in.html
-# raw_sha256: bcc5a4d4eb16e884702378b600e524bb10de1cb4e9f43016b53ecf040d2afdf2
 ---
 
 1

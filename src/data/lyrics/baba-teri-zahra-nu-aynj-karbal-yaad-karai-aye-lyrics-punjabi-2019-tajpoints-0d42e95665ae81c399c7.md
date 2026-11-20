@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0d42e95665ae81c399c7
-# source_url: https://tajpoints.com/2019/02/baba-teri-zahra-nu-aynj-karbal-yaad.html
-# raw_sha256: ce767c6703874fcbab1ccc90cd38283908ba111ed33925a1fb112abfec11aea2
 ---
 
 1

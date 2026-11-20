@@ -94,9 +94,6 @@ romanLyrics: |-
   Aa gaya kehti rahi ro ro kar
   Chalte chalte maiṅ thak gayi huṅ
   Baba jaan
-# source_id: nohayonline:2b6843d2edbf68a3135a
-# source_url: https://www.nohayonline.com/details_content.php?id=2825
-# raw_sha256: 4dcbb5706305d9c12c09d7f33e1639a5ba525e4ac8be3b5bf50a2002fbc6031d
 ---
 
 ہائے جب راہِ شام میں

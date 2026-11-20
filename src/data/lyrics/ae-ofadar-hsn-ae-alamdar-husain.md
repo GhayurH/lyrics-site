@@ -45,9 +45,6 @@ romanLyrics: |-
   Ye teraa nauhaa Mujib aur Razi ki wo zabaan
   Ro ke karti thi bayaaṅ Aun aur Jafar ki maaṅ
   Lut gaya meraa chaman, ae alamdaar-e-Husain
-# source_id: ziyaraat:f6c20aa5b7f092dcddbb
-# source_url: https://www.ziyaraat.net/api/noha/2203
-# raw_sha256: 42db7814534bc19ac7b37018cc8e91bdda997072ad8e1f431d1536f7fa07fa9c
 ---
 
 اے وفادار حسنؑ اے علمدار حسینؑ

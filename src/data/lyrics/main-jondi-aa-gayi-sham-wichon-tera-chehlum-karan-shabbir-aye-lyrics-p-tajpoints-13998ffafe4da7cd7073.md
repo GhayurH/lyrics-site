@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:13998ffafe4da7cd7073
-# source_url: https://tajpoints.com/2025/09/main-jondi-aa-gayi-sham-wichon-tera.html
-# raw_sha256: c927af34a0523e18346961266c16f089c1b7df0c1a84384490fa48e01f05c335
 ---
 
 1

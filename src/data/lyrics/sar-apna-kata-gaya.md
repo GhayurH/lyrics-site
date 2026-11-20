@@ -40,9 +40,6 @@ romanLyrics: |-
   7
   Rasul zaadi ka maathe pe baandh kar rumaal
   Janaab-e-Hur ka muqaddar jaga gaya hai Husain
-# source_id: nohayonline:43da512e4c46b48c4a6b
-# source_url: https://www.nohayonline.com/details_content.php?id=2194
-# raw_sha256: 19d0a4f645b1f710e512b61f8be58c217a09ffc1af575c3dbee2c342d6175a5e
 ---
 اگرچہ رن میں سر اپنا کٹا گیا ہے حسین
 مگر یزید کی گردن جھکا گیا حسین

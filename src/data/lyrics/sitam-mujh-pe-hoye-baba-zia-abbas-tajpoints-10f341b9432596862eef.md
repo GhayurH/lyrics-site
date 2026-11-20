@@ -8,9 +8,6 @@ poet: "Zia"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:10f341b9432596862eef
-# source_url: https://tajpoints.com/2023/11/sitam-mujh-pe-hoye-baba-zia-abbas.html
-# raw_sha256: d499cd65aa682635971c2a1e6485797b52d88bf789985b8d278a2feb9e3b02c9
 ---
 
 1

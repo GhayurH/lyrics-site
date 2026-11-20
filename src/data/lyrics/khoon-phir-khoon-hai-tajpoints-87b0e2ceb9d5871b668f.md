@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:87b0e2ceb9d5871b668f
-# source_url: https://tajpoints.com/2017/02/khoon-phir-khoon-hai.html
-# raw_sha256: 896b495b4d3ead815fac959a669fad8eebace81d50c028d4ad1d75e851fac19d
 ---
 
 Khoon Phir Khoon Hai.

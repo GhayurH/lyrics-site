@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:22aab42ac83d8f248a7d
-# source_url: https://tajpoints.com/2018/01/apne-ansaron-mein-kar-lein-hum-ko.html
-# raw_sha256: 7a0326eb2cbe1444af00ce72e644fe0c309cb377a7aca063fecf859f475eb12d
 ---
 
 Apne Ansaron Mein Kar Lein Hum Ko Shamil Ya Imam.

@@ -106,9 +106,6 @@ romanLyrics: |-
   When Sarwar recited at the shrine of Husain
   It seemed like
   The whole of Prophet hood have congregated for the mourning.
-# source_id: ziyaraat:06126b3a5391d49d2848
-# source_url: https://www.ziyaraat.net/api/noha/2274
-# raw_sha256: d05930aa07def8288f327c6ebf3c311501b5ad55c7ef169f347959351d947ec2
 ---
 
 ایک ذاکر شام پہنچا

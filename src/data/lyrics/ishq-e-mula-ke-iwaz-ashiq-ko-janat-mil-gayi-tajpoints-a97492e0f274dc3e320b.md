@@ -8,9 +8,6 @@ poet: "Hasan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a97492e0f274dc3e320b
-# source_url: https://tajpoints.com/2018/08/ishq-e-mula-ke-iwaz-ashiq-ko-janat-mil.html
-# raw_sha256: 9875ee99eaa42a61aee7dd934c1302f5ecb043e39890e3e1c8811d23f521dd3d
 ---
 
 1

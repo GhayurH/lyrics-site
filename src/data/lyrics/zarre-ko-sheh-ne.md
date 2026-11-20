@@ -45,9 +45,6 @@ romanLyrics: |-
   8
   Asghar ki maut ne Ali Akbar ki maut ne
   Baano ke dil ko khaana-e-viraaṅ bana diya
-# source_id: nohayonline:2f7371c8965cd24d0afc
-# source_url: https://www.nohayonline.com/details_content.php?id=162
-# raw_sha256: 48fad79939a4f7c17bc2556a5a8eeca6014b83a415eb2b11190164b86354266e
 ---
 ذرے کو شِہ نے مہرِ درخشاں بنا دیا
 حُر کی خطائیں بخش کے سلماں بنا دیا

@@ -109,12 +109,6 @@ romanLyrics: 'Maula utho ke masjid e kufa udaas hai
   Har simth chaa gayi hai qamar ye udasiyan
 
   Toota hai baab e ilm madina udaas hai'
-# source_id: nohayonline:e2fc1178f9555c54ca67
-# source_url: https://www.nohayonline.com/details_content.php?id=2940
-# raw_sha256: e515ddcb7d7a9c9bea06c9d844750425fd92d764b7af3ad31576e828fb73f508
-# source_id: ziyaraat:53e7725cef16c77fcdc2
-# source_url: https://www.ziyaraat.net/api/noha/2184
-# raw_sha256: d8a18462f1d440ca2ede485be92875b2ad6a3a609aea378807e6ae257357b7d2
 ---
 
 مولا اٹھو کے مسجد کوفہ اداس ہے

@@ -8,9 +8,6 @@ poet: "Azai"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c8a06fdc09e020e9f594
-# source_url: https://tajpoints.com/2017/02/karb-o-bala-ke-dasht-mein-zainbsa-ki.html
-# raw_sha256: a5f06370c0b51b38b70b012c51bcb69f0228731d136117d2eef6ed0f8ccd21ec
 ---
 
 Karb-o-Bala Ke Dasht Mein Zainb Ki Hai Sada.

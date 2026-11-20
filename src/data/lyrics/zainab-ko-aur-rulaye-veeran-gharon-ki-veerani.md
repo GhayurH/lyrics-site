@@ -73,12 +73,6 @@ romanLyrics: 'Veerani (x10), Zainab ko or rulai veeran gharun ki veerani
   Baba ki judai k gham may wo aahain bhara kerti theen
 
   Or aaj Bani Hashim k makan sub Bait ul huzn hain hi'
-# source_id: nohayonline:09097a877c9e5e73851d
-# source_url: https://www.nohayonline.com/details_content.php?id=1612
-# raw_sha256: 65e31e5a8b0c443dac73d073cbdf4aa95d4f2f00d5f75c2ec7426a96fb4f8460
-# source_id: ziyaraat:0ed6e0ca897cc2a91e4a
-# source_url: https://www.ziyaraat.net/api/noha/1994
-# raw_sha256: 2a707d878e7500fd5d57b0313f230942d5c575108445a18238df6f1e30257de5
 ---
 
 ويرانی (۱۰) زينبؑ کو اور رلائے ويران گھروں کی ويرانی (۲)

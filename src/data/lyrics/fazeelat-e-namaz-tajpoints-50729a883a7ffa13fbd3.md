@@ -8,9 +8,6 @@ poet: "Takallum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:50729a883a7ffa13fbd3
-# source_url: https://tajpoints.com/2017/02/alias-se-poche-fazilat-namaz-parhne-ki.html
-# raw_sha256: 48200c20d7af38ec56a3fca2c0c49ffb3ba4607bd29d885136f1e5e885b3ed8b
 ---
 
 1

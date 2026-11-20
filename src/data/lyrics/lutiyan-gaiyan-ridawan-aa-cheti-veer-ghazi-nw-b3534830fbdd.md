@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:b3534830fbdd9506a2c4
-# source_url: https://www.nohawriteups.org/lutiyan-gaiyan-ridawan-aa-cheti-veer-ghazi/
-# original_html: snapshots/nohawriteups/original_html/b3534830fbdd9506a2c4.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/b3534830fbdd9506a2c4.json
-# api_content_sha256: 4ffb8f1a6dffd84d9cf574d67ce5ab8a33125feb1c0c59766ff04418468ef1ea
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Lutiyan Gaiyan Ridawan Aa Cheti Veer Ghazi

@@ -8,9 +8,6 @@ poet: "Shaukat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6a727855e62592801bee
-# source_url: https://tajpoints.com/2018/07/ali-shaoor-ki-sarhad-mein-aa-saka-bhi.html
-# raw_sha256: 85da9091546624bff0c96b3707de6b011c67f8792d26d0b0adcc6819a3fd8478
 ---
 
 Ali Shaoor Ki Sarhad Mein Aa Saka Bhi Nahi.

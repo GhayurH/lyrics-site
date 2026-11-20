@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:a12fa8bd0c901424398a
-# source_url: https://www.ziyaraat.net/api/noha/2420
-# raw_sha256: 7d5b34edb8df8d56c2ed6103006f7d98988a7b1771f8ad19ad6facd73ccd9645
 ---
 
 Wa waila sad wa waila

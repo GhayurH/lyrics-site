@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e3a3dbcd401198b4a4e3
-# source_url: https://tajpoints.com/2026/01/ali-ki-wila-syed-fardeen-kazim-lyrics.html
-# raw_sha256: d48d76050c15bd076427f16a4827df8a2ceabb3d27efc2bf06dd2a08c7d57863
 ---
 
 1

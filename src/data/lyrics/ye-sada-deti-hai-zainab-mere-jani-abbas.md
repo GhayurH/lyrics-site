@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:17e1fb8b8113fd436668
-# source_url: https://www.ziyaraat.net/api/noha/1730
-# raw_sha256: 2e9066777f137dd87bf4e6a679f15cf1c65fd17435502f14fd9b48385c1e07aa
 ---
 
 Ye sada deti hai Zainab mere jaani Abbas

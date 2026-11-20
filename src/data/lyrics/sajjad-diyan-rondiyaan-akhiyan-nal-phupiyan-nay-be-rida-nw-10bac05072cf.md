@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:10bac05072cfbea0db59
-# source_url: https://www.nohawriteups.org/sajjad-diyan-rondiyaan-akhiyan-nal-phupiyan-nay-be-rida/
-# original_html: snapshots/nohawriteups/original_html/10bac05072cfbea0db59.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/10bac05072cfbea0db59.json
-# api_content_sha256: 45baf6194fae22ed0df4283910217c6bcc297a54f8e3538d9359199f2b329820
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sajjad Diyan Rondiyaan Akhiyan, Naal Phupiyan Nay Be Rida

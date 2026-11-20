@@ -8,9 +8,6 @@ poet: "Sajid"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:d15218fe5b3747e35aaf
-# source_url: https://tajpoint.com/kuj-adab-janazey-jandiyaan-da-kafir-v-jag-te-karde-ne/
-# raw_sha256: 4692e08e95121470e1b5ce4e9e384cc7c3dfa56e93afffe783cf33ed13b0ca22
 ---
 
 1

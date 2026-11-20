@@ -50,12 +50,6 @@ romanLyrics: |-
   Aal-e-Muhammad pe phir tuta naya ek sitam
   Dekho ke bachchoṅ meiṅ hai baali Sakina bhi to
   Karti thi jo dam ba dam ro ke yehi ek fughaaṅ
-# source_id: nohayonline:f80e44c0f8dd9e7512c6
-# source_url: https://www.nohayonline.com/details_content.php?id=252
-# raw_sha256: 8ac6920fa81e081d1bd5e1e22b82f41b885d704c0adcc16ca178a55f8e9c428d
-# source_id: ziyaraat:d0ed2ad23f53e24d040f
-# source_url: https://www.ziyaraat.net/api/noha/1316
-# raw_sha256: 6029b8424cd8bc83dc646e19166905cf61d71e2285fac0299cacd3cab69d5c0a
 ---
 
 بالی سکینہ یہی کرتی تھی رو رو فغاں

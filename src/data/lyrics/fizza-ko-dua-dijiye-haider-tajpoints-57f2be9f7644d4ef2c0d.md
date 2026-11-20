@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:57f2be9f7644d4ef2c0d
-# source_url: https://tajpoints.com/2020/01/fizza-ko-dua-dijiye-haider-lyrics-in.html
-# raw_sha256: c02b498e06105a41a9316e5b585f35ba44244b55d232bf35aa7a3be40db9e549
 ---
 
 1

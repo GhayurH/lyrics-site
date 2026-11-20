@@ -45,12 +45,6 @@ romanLyrics: |-
   8
   Abbas ka jis meiṅ zikr na ho Beshir ki jis meiṅ pyaas na ho
   Kitne bhi masaib hoṅ Anwar lekin wo noha pyasa hai
-# source_id: nohayonline:aee6c0b5cd211cffed1e
-# source_url: https://www.nohayonline.com/details_content.php?id=452
-# raw_sha256: 7e70517eabdebe7f17ac5d20a96f39dd9b61b4771dcdd8519e5d13a02795f62a
-# source_id: ziyaraat:65bda1c9b2d49e000934
-# source_url: https://www.ziyaraat.net/api/noha/2355
-# raw_sha256: b41077444dda92d356b40beff8d65b242ccdc67918cb7bc0e457dcfcef0165b7
 ---
 
 عباسؑ پیئے کیسے پانی، عباسؑ کا آقا پیاسا ہے

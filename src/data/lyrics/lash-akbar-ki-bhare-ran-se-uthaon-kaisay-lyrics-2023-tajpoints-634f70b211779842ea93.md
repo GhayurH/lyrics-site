@@ -8,9 +8,6 @@ poet: "Samar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:634f70b211779842ea93
-# source_url: https://tajpoints.com/2023/07/lash-akbar-ki-bhare-ran-se-uthaon.html
-# raw_sha256: cb61bb6cdbc472bb7cde22b8cca8f05a1cd9a1acf34622f34031889dc565abdc
 ---
 
 1

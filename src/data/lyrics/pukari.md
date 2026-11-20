@@ -51,9 +51,6 @@ romanLyrics: |-
   Janaab-e-Zainab o Hasnain khun rote haiṅ
   Sadaa-e-girya se Rizwan sar patakte haiṅ
   Janaaza ghar se sidhaara - Ae mire Baaba
-# source_id: ziyaraat:aa4e540b8e16b263cdbc
-# source_url: https://www.ziyaraat.net/api/noha/2881
-# raw_sha256: a75fd4105b8624f53de09d494f888baca87af90fba8827c757feb3cda03ddfe0
 ---
 
 پکاری زینبِ کبریٰ - ائے مِرے بابا

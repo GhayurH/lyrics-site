@@ -64,12 +64,6 @@ romanLyrics: |-
   Aati hai jis se sadaaeṅ ye Akbar
   Jaago gi kab tak meri Sakina
   Kaash tum ko nind aa jaaye
-# source_id: nohayonline:d8dfb917c646e9c52677
-# source_url: https://www.nohayonline.com/details_content.php?id=3574
-# raw_sha256: 54308c86a5eca4beddf8e0510d7e79ba41d1b542b5530a977d6b4723eccec1e2
-# source_id: ziyaraat:63d10cb1d3b956565ae1
-# source_url: https://www.ziyaraat.net/api/noha/1789
-# raw_sha256: 3ed187ec99cd272a5cfd6d8d870dd21358d77ef49dd11f497c5f5bbbe972ac71
 ---
 بابا کی پیاری سکینہ
 شام غریباں ہے یہ سکینہ

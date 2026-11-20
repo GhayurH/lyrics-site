@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:9c4c75acf11605cd2148
-# source_url: https://www.ziyaraat.net/api/noha/1973
-# raw_sha256: 4d2a2cc45f91338a2886cc82cbe282c81d6f4bce8acbf7a12e6d2468d66c535e
 ---
 
 Sayyada taahera raaziya marziya

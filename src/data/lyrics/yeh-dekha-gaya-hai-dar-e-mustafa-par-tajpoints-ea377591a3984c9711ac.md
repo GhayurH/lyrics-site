@@ -8,9 +8,6 @@ poet: "Dilawar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ea377591a3984c9711ac
-# source_url: https://tajpoints.com/2019/11/yeh-dekha-gaya-hai-dar-e-mustafa-par.html
-# raw_sha256: 53977821e1702be036d9871648e602aa201635e8896ecd4cf9d1113b1bf01938
 ---
 
 1

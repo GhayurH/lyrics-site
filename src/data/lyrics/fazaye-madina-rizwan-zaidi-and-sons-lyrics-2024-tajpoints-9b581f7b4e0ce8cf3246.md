@@ -8,9 +8,6 @@ poet: "Izhar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9b581f7b4e0ce8cf3246
-# source_url: https://tajpoints.com/2024/09/fazaye-madina-rizwan-zaidi-and-sons.html
-# raw_sha256: 8bfe703c66cbf4c5f1943b2eaea00cf1697b8eadc9e40d31f06fa59d89179d34
 ---
 
 Fazaye Madina Rizwan Zaidi and Sons

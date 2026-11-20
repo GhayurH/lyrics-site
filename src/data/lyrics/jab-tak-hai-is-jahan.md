@@ -37,9 +37,6 @@ romanLyrics: |-
   6
   Mahir maiṅ bazm-e-Panjatan paak par nisaar
   Maula bana hai did ki is anjuman ka naam
-# source_id: nohayonline:56fd840ece6983ac2a6f
-# source_url: https://www.nohayonline.com/details_content.php?id=1209
-# raw_sha256: fa11c2a944769d5bb0187477fa71ed16e8dbac0d2154069ed9b1a9a36eaf25ad
 ---
 
 جب تک ہے اس جہاں میں حسین و حسن کا نام

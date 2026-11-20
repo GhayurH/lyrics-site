@@ -32,9 +32,6 @@ romanLyrics: |-
   5
   Tumhaare waaste jo khun meiṅ duba hai darya par
   Tarap jaata hai wo laasha Sakina kiuṅ chali aayi
-# source_id: nohayonline:83c595adf1026bedaed2
-# source_url: https://www.nohayonline.com/details_content.php?id=3438
-# raw_sha256: 2b94001539002c8eb4cfaae5fba2f9845432b3db6f0afc3dc3533437fa352687
 ---
 اندھیرے بن میں ہے بابا سکینہ کیوں چلی آئی
 لہو میں ڈوبا ہے لاشہ سکینہ کیوں چلی آئی

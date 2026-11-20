@@ -8,9 +8,6 @@ poet: "Khurram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:726946b9e1d0a8960bb5
-# source_url: https://tajpoints.com/2020/09/ghair-kar-shabbir-ko-shami-sitam-dhatay.html
-# raw_sha256: 65781f729a0ef347327a2a2c46845470777b7763ed57fdf2ab76ae0563078153
 ---
 
 1

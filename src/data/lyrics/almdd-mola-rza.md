@@ -129,12 +129,6 @@ romanLyrics: 'Al madad, Maula Raza
   Nauhe likhunga mai sada
 
   Dete rahenge wo sila'
-# source_id: nohayonline:f9caa89d10c9f2fb2657
-# source_url: https://www.nohayonline.com/details_content.php?id=2546
-# raw_sha256: 9512cfd289aef31153aa45db1c9635d61f43d82c32d8b8c18dcbbeea616e9cd4
-# source_id: ziyaraat:89f3cb8e6db8dc9a9c17
-# source_url: https://www.ziyaraat.net/api/noha/1206
-# raw_sha256: ec2bbeb6d98b7c161707ed755a5bed7eb54a788cea3b337be4b24a56dd20ae6c
 ---
 
 المدد مولا رضا

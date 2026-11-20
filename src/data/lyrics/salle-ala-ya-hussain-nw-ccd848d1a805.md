@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:ccd848d1a805688d98aa
-# source_url: https://www.nohawriteups.org/salle-ala-ya-hussain/
-# original_html: snapshots/nohawriteups/original_html/ccd848d1a805688d98aa.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/ccd848d1a805688d98aa.json
-# api_content_sha256: edcd1095674325faa2a0a92073f0d585bcfc80728c66d159e2db3875fe9d39b3
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Sallay Alla Ya Hussain Lyrics written in english text and recited by noha khuwan Ali Safdar in 2023.

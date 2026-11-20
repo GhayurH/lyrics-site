@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8bc21d2a4e7cd9a54890
-# source_url: https://tajpoints.com/2019/03/baba-beemar-nu-pawein-lay-ke-tu-na-ja.html
-# raw_sha256: 775a37aa2a1b5f84de23d7767a7561e535ef869632c7c2047e0488bb6a60964e
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Takallaum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:544fb92cf3196511f79a
-# source_url: https://tajpoints.com/2017/04/ali-e-murtaza-se-pyar-karo.html
-# raw_sha256: b4decbfd77dfb2638d82a9548f8460c167e96764a81fff6257777a10da373d49
 ---
 
 1

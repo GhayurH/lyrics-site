@@ -136,12 +136,6 @@ romanLyrics: 'Haye akbar mere akbar
   Na raha bhai abbas
 
   Tu bhi na raha ab paas'
-# source_id: nohayonline:679b8dc20a9f92867552
-# source_url: https://www.nohayonline.com/details_content.php?id=692
-# raw_sha256: f5463d20e40f13f8dc049ecfef0a2fc7641d09076ffb75bfba0d01d4d093af98
-# source_id: ziyaraat:621859cd372f7cd6bd49
-# source_url: https://www.ziyaraat.net/api/noha/2396
-# raw_sha256: 4194533b5b113015d0c38297878b6214003395ff7372e65d21f6934fbb0e3ad3
 ---
 
 ؑہائے اکبرؑ میرے اکبر

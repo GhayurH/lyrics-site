@@ -7,9 +7,6 @@ kalamType: "Salam"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:46ebdf6a86d577452cdd
-# source_url: https://www.ziyaraat.net/api/noha/2291
-# raw_sha256: b69e3f4aa3ded9571947fd8885ec3210d9ea3a1ee8f6a5850240477d65733a55
 ---
 
 خود مٹ گئے مٹانے والے حسین ؑ کو

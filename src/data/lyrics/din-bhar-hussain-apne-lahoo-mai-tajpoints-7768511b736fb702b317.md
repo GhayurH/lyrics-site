@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7768511b736fb702b317
-# source_url: https://tajpoints.com/2021/05/din-bhar-hussain-apne-lahoo-mai-nahaye.html
-# raw_sha256: 08824404d387f3299ad2173885a4e26ad1ef98176976c02fa51c777eb34cf240
 ---
 
 Din Bhar Hussain Apne Lahoo Mai Nahaye Hain Syed Mudassir Mehdi

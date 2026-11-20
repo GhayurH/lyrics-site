@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:66b95972d7942c1cd427
-# source_url: https://tajpoints.com/2026/06/aye-karbala-ke-chand-suna-sheh-ki.html
-# raw_sha256: b823f0a75db7e32e0a23bf4c432abed0867c01fcf76c1c6a832d1b2b0222ce39
 ---
 
 1

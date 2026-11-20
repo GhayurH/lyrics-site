@@ -46,9 +46,6 @@ romanLyrics: |-
   Kya likhe Takallum jo shahaadat ka tha manzar
   Band aankheṅ huiṅ god meiṅ Zainab ki raha sar
   Khaaliq ki taraf laut gaya Maula hamaara
-# source_id: nohayonline:3dbf6828225a2ab5ba4c
-# source_url: https://www.nohayonline.com/details_content.php?id=3385
-# raw_sha256: d144a0c30655c09da00d1695347625f2aa9ccde918f5f85ac94748acbb7250be
 ---
 اکیسویں رمضان ہے عاشور محرم
 ہوتا ہے بپا حیدر کرار کا ماتم

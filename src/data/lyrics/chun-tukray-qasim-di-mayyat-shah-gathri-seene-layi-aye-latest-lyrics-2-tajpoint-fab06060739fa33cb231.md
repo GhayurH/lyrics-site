@@ -8,9 +8,6 @@ poet: "Bahadur"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:fab06060739fa33cb231
-# source_url: https://tajpoint.com/chun-tukray-qasim-di-mayyat-shah-gathri-seene/
-# raw_sha256: f1a8b1de25243834ded8354e519ad05c922263d28ac0f1743da95df560b9cef6
 ---
 
 Chun Tukray Qasim Di Mayyat Shah Gathri Seene Layi Aye

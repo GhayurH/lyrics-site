@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:fbb7facf56d8aaf8ce8d
-# source_url: https://www.ziyaraat.net/api/noha/1736
-# raw_sha256: b5b51c01d4c35bcee2a19c2cd7bea5512b26204173d5cea75ab1c1a6f4397597
 ---
 
 De Raha Hai Yeh Gawahi Har Shaheed E Karbala

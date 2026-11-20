@@ -8,9 +8,6 @@ poet: "Zawwar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:13a3d01135b63a9a0b01
-# source_url: https://tajpoints.com/2023/04/dhiyan-ne-jana-mar-baba-na-khali-wehra.html
-# raw_sha256: 1abccf8b0b22d338843b3824abac27d25561dee6a02e630f614918812c372d7c
 ---
 
 1

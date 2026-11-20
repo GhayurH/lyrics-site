@@ -8,9 +8,6 @@ poet: "Jaun"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b7e65cc31cf9442df681
-# source_url: https://tajpoints.com/2023/06/allah-main-zainab-haan-har-dard-taun.html
-# raw_sha256: e8a70ecc29e45f12f701aa8186805909b7aeb183f26f241a3821dd3900510a48
 ---
 
 1

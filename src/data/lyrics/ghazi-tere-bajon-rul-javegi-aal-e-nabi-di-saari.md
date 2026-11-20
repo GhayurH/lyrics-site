@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:1f902554f810d24c52f6
-# source_url: https://www.ziyaraat.net/api/noha/2121
-# raw_sha256: 64496cb531d6330096dde57d4729227d863546f9c028127b714798b5de5f06b6
 ---
 
 Ghazi tere bajon rul javay gi aal nabi di saari

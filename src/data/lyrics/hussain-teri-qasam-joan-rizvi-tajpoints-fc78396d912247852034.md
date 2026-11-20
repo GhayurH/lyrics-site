@@ -8,9 +8,6 @@ poet: "Joan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fc78396d912247852034
-# source_url: https://tajpoints.com/2023/07/hussain-teri-qasam-joan-rizvi-lyrics-in.html
-# raw_sha256: eb268070e8476da4043c327b1893f27bbc91f7b6a969e8eb15f0bc0089351dc6
 ---
 
 Hussain Teri Qasam Joan Rizvi

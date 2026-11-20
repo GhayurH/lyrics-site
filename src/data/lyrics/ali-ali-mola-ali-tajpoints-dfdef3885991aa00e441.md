@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dfdef3885991aa00e441
-# source_url: https://tajpoints.com/2021/02/ali-ali-mola-ali-lyrics-in-urdu-and.html
-# raw_sha256: 5162432734a1e2e3d92acd5b111e97b026739a6942443b81708db91877eba3b3
 ---
 
 Ali Ali Ya Ali Ya Ali Ya Ali.

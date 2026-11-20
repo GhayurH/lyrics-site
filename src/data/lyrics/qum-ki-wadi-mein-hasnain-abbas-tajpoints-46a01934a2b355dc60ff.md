@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:46a01934a2b355dc60ff
-# source_url: https://tajpoints.com/2023/05/qum-ki-wadi-mein-hasnain-abbas-lyrics.html
-# raw_sha256: 5bb669d6fbfac27622ca7c96842569788db8731f61fdf3346789e8b667fd0e58
 ---
 
 Qum Ki Wadi Mein Hasnain Abbas.

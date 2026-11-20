@@ -74,9 +74,6 @@ romanLyrics: |-
   Har ek zulm pe dono ke lab pe hai ye sada
   Allah allah allah allah
   Namaze shab meiṅ koi baap...
-# source_id: nohayonline:a886b81160ab4215409f
-# source_url: https://www.nohayonline.com/details_content.php?id=2412
-# raw_sha256: 07e6d6f045c81f6e101cb1d00f6d535d84609a4bb8a796c7ff42b417b1c11dfe
 ---
 
 ۱

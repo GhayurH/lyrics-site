@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:adccab35ef40839ec669
-# source_url: https://tajpoints.com/2023/01/labbaik-ya-imam-nadeem-sarwar-lyrics-in.html
-# raw_sha256: 9cc059263a75dbdc9471dbf9a138b336144819b0ca868e4c0bca40654b8f4bdc
 ---
 
 Labbaik Ya Imam Nadeem Sarwar Lyrics

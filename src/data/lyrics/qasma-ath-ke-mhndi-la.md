@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:b2792b3f6c5c0234d941
-# source_url: https://www.ziyaraat.net/api/noha/1443
-# raw_sha256: 66d4cdf52f711a4dee6bb8bc1f72a214103446ee63c630c980de0eb3bdefc53d
 ---
 
 سیدہ وے میں مرادں منگیاں قاسماں اٹھ کے مہندی لا

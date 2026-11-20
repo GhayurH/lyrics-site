@@ -8,9 +8,6 @@ poet: "Abbas"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3d2ab8efd3907f7c44dd
-# source_url: https://tajpoints.com/2023/06/tasbeeh-al-zahra-muhammad-abbas.html
-# raw_sha256: d4071ecf87d15bc61c947bb6da10062a1ae95e48415e27778e6c11d5b46d9b15
 ---
 
 Tasbeeh Al Zahra Muhammad Abbas Hussaini.

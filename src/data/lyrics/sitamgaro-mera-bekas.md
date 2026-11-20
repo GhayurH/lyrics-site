@@ -58,9 +58,6 @@ romanLyrics: |-
   Fiza ko sakta hai darya tarap ke rota hai
   Bala ke ban meiṅ ye Jawid hashr barpa hai
   Muhit-e-aalam-e-imkaan sada-e-Zehra hai
-# source_id: nohayonline:96d36424379d5ae67899
-# source_url: https://www.nohayonline.com/details_content.php?id=3348
-# raw_sha256: 08c37901bd607839186abb02c351f07b6dda03952e9e704718ca7d9a0677aba3
 ---
 گھرا ہے چاند علی کا ستم کے بادل میں
 اماں کہیں نہیں تیغ و سناں کے جنگل میں

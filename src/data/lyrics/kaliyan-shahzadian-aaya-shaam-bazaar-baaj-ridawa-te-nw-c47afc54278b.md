@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:c47afc54278bf212e73d
-# source_url: https://www.nohawriteups.org/kaliyan-shahzadian-aaya-shaam-bazaar-baaj-ridawa-te/
-# original_html: snapshots/nohawriteups/original_html/c47afc54278bf212e73d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/c47afc54278bf212e73d.json
-# api_content_sha256: 282c82648244bd6bcb30c0c2fdf682713e307c84aef389929e002ea6e92d5a45
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Kaliyan Shahzadian Aaya Shaam Bazaar Baaj Ridawa Te

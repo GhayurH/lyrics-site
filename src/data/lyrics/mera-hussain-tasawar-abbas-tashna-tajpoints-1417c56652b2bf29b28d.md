@@ -8,9 +8,6 @@ poet: "Muhib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:1417c56652b2bf29b28d
-# source_url: https://tajpoints.com/2026/01/mera-hussain-tasawar-abbas-tashna-lyrics.html
-# raw_sha256: 03c3e61d8d77732c816d63b16047717bbab1969851d8cb4b4f0c40b731830b5b
 ---
 
 Mera Hussain Tasawar Abbas Tashna Lyrics

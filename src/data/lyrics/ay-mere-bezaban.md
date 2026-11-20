@@ -56,9 +56,6 @@ romanLyrics: |-
   Paigham karbala meiṅ jaa kar hawa ye dena
   Zindaṅ ke dar pe ab bhi baithi hai ek maa
   Asghar jiyegi kaise...
-# source_id: nohayonline:f2dc205ffeada1cdf1b7
-# source_url: https://www.nohayonline.com/details_content.php?id=1072
-# raw_sha256: d5f6fb4f40bff5e6bf83365ff737d5e0fc268cf551de4e4be83df5e8e7f38394
 ---
 
 ۱

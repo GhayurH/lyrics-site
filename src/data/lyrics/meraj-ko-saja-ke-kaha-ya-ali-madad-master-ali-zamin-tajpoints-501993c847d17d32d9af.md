@@ -8,9 +8,6 @@ poet: "Batool"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:501993c847d17d32d9af
-# source_url: https://tajpoints.com/2023/02/meraj-ko-saja-ke-kaha-ya-ali-madad.html
-# raw_sha256: 8557e54f4b167800998aba072772941cc256fdea065d365addef0eb8ab4e9280
 ---
 
 Meraj Ko Saja Ke Kaha Ya Ali Madad Master Ali Zamin.

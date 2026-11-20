@@ -8,9 +8,6 @@ poet: "Iram"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6ebcbbb171953c0398d0
-# source_url: https://tajpoints.com/2021/08/hamla-hussain-ka-meesum-kashmiri-lyrics.html
-# raw_sha256: b952a8fb808a218caf4b75d0601e66e507265317d612f3d6c3e203715337ff0e
 ---
 
 Jab Karbala Mein Gonji Azan-e-Bin-e-Hussain.

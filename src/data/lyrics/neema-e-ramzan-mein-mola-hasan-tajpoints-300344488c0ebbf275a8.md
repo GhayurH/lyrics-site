@@ -8,9 +8,6 @@ poet: "Mohtasham"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:300344488c0ebbf275a8
-# source_url: https://tajpoints.com/2024/03/neema-e-ramzan-mein-mola-hasan-lyrics.html
-# raw_sha256: 7aaddd6a0780228fb71a1793025a96d819ddb45442afdf2dba9da6271a712cec
 ---
 
 1

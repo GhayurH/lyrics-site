@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:37f9b47c73e91de3dc47
-# source_url: https://tajpoints.com/2020/07/veeran-main-bemar-nahi-lyrics-in.html
-# raw_sha256: 2e83360a305b4fa4f29dec150401616494f3c895feeee1ac228f527145a9787e
 ---
 
 1

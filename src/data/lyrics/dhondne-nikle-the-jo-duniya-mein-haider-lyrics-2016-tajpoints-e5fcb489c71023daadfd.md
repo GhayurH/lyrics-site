@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e5fcb489c71023daadfd
-# source_url: https://tajpoints.com/2017/02/dhondne-nikle-jo-duniya-mein-haider.html
-# raw_sha256: 56de67040f73f596fd44bdfa9d712f34da3beaf208b82a9a739da28021c304cf
 ---
 
 1

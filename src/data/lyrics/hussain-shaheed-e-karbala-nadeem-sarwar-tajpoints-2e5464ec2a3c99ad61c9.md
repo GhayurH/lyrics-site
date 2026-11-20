@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2e5464ec2a3c99ad61c9
-# source_url: https://tajpoints.com/2022/10/hussain-shaheed-e-karbala-nadeem-sarwar.html
-# raw_sha256: 08d60b28bd7bf441c3319fbe3ef2e71428fbf83f09ea553f0803d71a56e27de2
 ---
 
 1

@@ -8,9 +8,6 @@ poet: "Asad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:da2107594021281b8e8c
-# source_url: https://tajpoints.com/2023/04/chor-ke-zainab-ko-na-jana-baba-ali.html
-# raw_sha256: f7a0fcfd05267bc760ecdbb93a99ee0978488edc5106645d189dd2b5dad50334
 ---
 
 1

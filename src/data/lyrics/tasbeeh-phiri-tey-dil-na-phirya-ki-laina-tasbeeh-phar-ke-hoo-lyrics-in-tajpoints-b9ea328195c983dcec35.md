@@ -8,9 +8,6 @@ poet: "Bahoo"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:b9ea328195c983dcec35
-# source_url: https://tajpoints.com/2017/02/tasbeeh-phiri-tey-dil-na-phirya-ki.html
-# raw_sha256: 421989f9357e99d0ee25f1bd62229b942105b4da3d5d4f5ec66c990aca365187
 ---
 
 1

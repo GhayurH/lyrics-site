@@ -8,9 +8,6 @@ poet: "Mir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6cb0228725be96f02920
-# source_url: https://tajpoints.com/2026/06/is-shor-ki-aadi-nahi-zainab-mir-hasan.html
-# raw_sha256: 8570e26dabca22e360e9cd486fc4090985e524fed276181a1a5296df0e59f348
 ---
 
 Aye Shamiyon Iss Shoor Ki Aadi Nahi Zainab.

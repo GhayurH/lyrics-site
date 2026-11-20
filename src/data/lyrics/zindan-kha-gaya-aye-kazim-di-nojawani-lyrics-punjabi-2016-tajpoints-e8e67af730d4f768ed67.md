@@ -8,9 +8,6 @@ poet: "Ameer"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e8e67af730d4f768ed67
-# source_url: https://tajpoints.com/2020/03/zindan-kha-gaya-aye-kazim-di-nojawani.html
-# raw_sha256: f23a2f69b0e4d46bd37605c00346b66b5794319bff2cca26fb834a5a50ed8ff8
 ---
 
 Zindan Kha Gaya Aye Kazim Di Nojawani.

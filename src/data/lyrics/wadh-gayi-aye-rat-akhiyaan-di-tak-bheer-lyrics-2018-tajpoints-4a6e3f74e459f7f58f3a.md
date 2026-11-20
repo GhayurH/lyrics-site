@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:4a6e3f74e459f7f58f3a
-# source_url: https://tajpoints.com/2018/10/wadh-gayi-aye-rat-akhiyaan-di-tak-bheer.html
-# raw_sha256: d92fe167b0bd75f3a8849ec7973e2a1cbe86b836b3065e0fdf6e8158e3b5a37a
 ---
 
 1

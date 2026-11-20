@@ -8,9 +8,6 @@ poet: "Hasnain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:6436fd627cd05e9b0aed
-# source_url: https://tajpoints.com/2023/04/imam-hasan-mujtaba-manqabat-lyrics-in.html
-# raw_sha256: 7867deb2b5e6756d3df7b00f43f61781de587b919d4e9ecb32a10394ec1d4f53
 ---
 
 1

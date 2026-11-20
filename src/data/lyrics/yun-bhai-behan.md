@@ -87,9 +87,6 @@ romanLyrics: |-
   Asif maiṅ karuṅ kis tarah raqam
   Hai bhai behan maqtul-e-jafa
   Taarikh ne bas Aamir ye likha
-# source_id: nohayonline:10414fe0c937be4a8ec9
-# source_url: https://www.nohayonline.com/details_content.php?id=2463
-# raw_sha256: 9d0abc4f005413587ad4fa26cc2e352071e3aa751562665d8dc8a21043884a31
 ---
 ظالم نے بہ دشت کربوبلا
 یوں بھائی بہن کا قتل کیا

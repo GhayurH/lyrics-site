@@ -10,9 +10,6 @@ reciter: "Ameer Hasan Aamir"
 tags: []
 aliases: []
 published: true
-# source_id: nohayonline:139c86361345d93c21c7
-# source_url: https://www.nohayonline.com/details_content.php?id=3056
-# raw_sha256: d3e3de1b5ba29329d429777a58668ba12a5b8ed53ea20bb11bc9672b6d20e132
 romanLyrics: |-
   Ya Ali maula ya Ali maula karte raho
   Ali Ali Ali Ali karte raho

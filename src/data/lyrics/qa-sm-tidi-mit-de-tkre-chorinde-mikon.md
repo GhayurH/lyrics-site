@@ -7,9 +7,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:aab06ee816231bc1eb60
-# source_url: https://www.ziyaraat.net/api/noha/1338
-# raw_sha256: f35101d5850a8fdd58f71a6b2a2d72487752edfc26da2b2cbda2d0659a23b66b
 ---
 
 قا سم تیڈی میت دے ٹکڑے چوڑیندے میکوں

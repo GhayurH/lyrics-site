@@ -8,9 +8,6 @@ poet: "Yousufi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:47ae2929acf3e28e118a
-# source_url: https://tajpoints.com/2019/04/aik-din-dekhna-iss-tarha-jamaat-hogi.html
-# raw_sha256: d1351bcc36251a58733055ecdcc725f489e8345f5beb1df7559255572abf6b79
 ---
 
 1

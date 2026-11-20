@@ -88,9 +88,6 @@ romanLyrics: |-
   Jaan dene ko haiṅ tayyaar azaadaar-e-Husain
   Daaim o Yazdaan-e-ghamkhwaar hai ghamkhwaar-e-Husain
   Jaun sa hausla rakhte haiṅ fidaakaar-e-Husain
-# source_id: nohayonline:54e6525b57b3d0a7a553
-# source_url: https://www.nohayonline.com/details_content.php?id=1448
-# raw_sha256: 2446a53b55494f62ce83599486858734354832e9630392b4482ff19ed8a8303f
 ---
 
 تھی یہی دشت مصیبت میں صدائے سرور

@@ -61,9 +61,6 @@ romanLyrics: |-
   Yadullah Ali Ali
   Jumbullah Ali Ali
   Ashaduanna Ali un Waliullah
-# source_id: nohayonline:ee83449a13a5e875c67f
-# source_url: https://www.nohayonline.com/details_content.php?id=3138
-# raw_sha256: 1d71047731f0c9c704baaf5d0a1597eed348cddaea81676c996c98206f657c5f
 ---
 
 علی ولی اللہ

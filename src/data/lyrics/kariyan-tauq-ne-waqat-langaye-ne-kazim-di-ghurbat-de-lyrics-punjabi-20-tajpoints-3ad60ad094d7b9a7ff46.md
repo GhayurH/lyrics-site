@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3ad60ad094d7b9a7ff46
-# source_url: https://tajpoints.com/2026/01/kariyan-tauq-ne-waqat-langaye-ne-kazim.html
-# raw_sha256: 1f9dc45a5258b65a13b375aa89077816ca2e12d44b3763c08bd3f38d448b3a79
 ---
 
 Kariyan Tauq Ne Waqat Langaye Ne Kazim Di Ghurbat De.

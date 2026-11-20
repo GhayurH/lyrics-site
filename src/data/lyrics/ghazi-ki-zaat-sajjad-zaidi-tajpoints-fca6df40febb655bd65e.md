@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:fca6df40febb655bd65e
-# source_url: https://tajpoints.com/2023/02/ghazi-ki-zaat-sajjad-zaidi-lyrics-in.html
-# raw_sha256: 90e0d72c7f12851c4f8db82a96c4aff6c5e0992244b6c133844f632955dfa599
 ---
 
 Lata Hoon Jab Guman Mein Ghazi Ki Zaat Ko.

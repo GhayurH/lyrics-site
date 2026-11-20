@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:5f9977642c466e134826
-# source_url: https://tajpoints.com/2024/08/koi-bacha-le-mere-bhai-ka-gala-aa-ke.html
-# raw_sha256: 97a5c5b56a65284373bcc4414eecaa2797d4f35b70d5fc7e40f7f9b3e8b5e25a
 ---
 
 1

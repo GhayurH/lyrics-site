@@ -58,9 +58,6 @@ romanLyrics: |-
   Lagi dil meiṅ barchhi shahaadat hui
   Behan ki dua ban gayi marsiya
   Mera bhaiya Akbar salaamat rahe
-# source_id: nohayonline:5b006a2947ff300b1881
-# source_url: https://www.nohayonline.com/details_content.php?id=3495
-# raw_sha256: 7cb0d52161d3ccc05d7b2385d493dd69d5316f14fee88867854c217371aa5492
 ---
 مدینے میں صغرا کی ہے یہ دعا
 میرا بھیا اکبر سلامت رہے

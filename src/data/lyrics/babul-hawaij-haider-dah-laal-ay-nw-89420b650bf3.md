@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:89420b650bf3644e9b99
-# source_url: https://www.nohawriteups.org/babul-hawaij-haider-dah-laal-ay/
-# original_html: snapshots/nohawriteups/original_html/89420b650bf3644e9b99.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/89420b650bf3644e9b99.json
-# api_content_sha256: a34efce98ecf603fcc98165b8cec3e584ddea749fd8d8c651c23e57442241fce
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Babul Hawaij Haider Dah Laal Ay Paykar Wafa Da Mola Abbas Ay.

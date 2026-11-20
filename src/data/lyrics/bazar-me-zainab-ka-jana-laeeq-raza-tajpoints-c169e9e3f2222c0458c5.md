@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c169e9e3f2222c0458c5
-# source_url: https://tajpoints.com/2021/06/bazar-me-zainab-ka-jana-laeeq-raza.html
-# raw_sha256: 61600cb522937fe4ce39d595fc3c91f725940ef5af9c18378c8cbd63a8829b35
 ---
 
 1

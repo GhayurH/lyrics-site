@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:c84fd924c40d28d2abe8
-# source_url: https://www.nohawriteups.org/akbar-de-lashay-te-akbar-da-baba/
-# original_html: snapshots/nohawriteups/original_html/c84fd924c40d28d2abe8.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/c84fd924c40d28d2abe8.json
-# api_content_sha256: 680635b2f9ff339fd3bd89ebc429ee32d1eb64492e09b8f1a0f7810c6c36dbad
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Akbar De Lashay Te Akbar Da Baba Chup Kar Ke Akbar Ku Dainda Khara Hay

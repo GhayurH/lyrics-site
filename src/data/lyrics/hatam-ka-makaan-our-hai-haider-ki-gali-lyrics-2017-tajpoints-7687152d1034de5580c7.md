@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7687152d1034de5580c7
-# source_url: https://tajpoints.com/2017/04/hatam-ka-makaan-our-hai-haider-ki-gali.html
-# raw_sha256: 62a953b9013a1e840ae2ccc91896f233b58249b6f3b56fbccb0e4b5e4d2c9cc2
 ---
 
 Hatam Ka Makaan Our Hai Haider Ki Gali Write Up

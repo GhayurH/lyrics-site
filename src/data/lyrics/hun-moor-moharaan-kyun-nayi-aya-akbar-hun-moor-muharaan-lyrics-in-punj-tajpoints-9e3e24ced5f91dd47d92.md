@@ -7,9 +7,6 @@ kalamType: "Other"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:9e3e24ced5f91dd47d92
-# source_url: https://tajpoints.com/2023/11/hun-moor-moharaan-kyun-nayi-aya-akbar.html
-# raw_sha256: 2798981977c28bc338a7a96a8b74aab9d1a5369be00dfc7e685823a5a91b1ba5
 ---
 
 1

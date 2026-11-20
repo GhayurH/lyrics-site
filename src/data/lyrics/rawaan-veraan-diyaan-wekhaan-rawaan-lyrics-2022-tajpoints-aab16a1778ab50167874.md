@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:aab16a1778ab50167874
-# source_url: https://tajpoints.com/2023/02/rawaan-veraan-diyaan-wekhaan-rawaan.html
-# raw_sha256: 5d59216334c58d7300b4ad4318bcd74eadbd5a1d8b9cf828ed668c8a671259b3
 ---
 
 1

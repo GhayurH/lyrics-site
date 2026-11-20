@@ -44,9 +44,6 @@ romanLyrics: |-
   7
   Ba-roz-e-hashr Ahsan bas yehi sunne ki hasrat hai
   Ali Asghar kaheiṅ mera sukhanwar aa gaya ammaṅ
-# source_id: nohayonline:26391a59b50342437195
-# source_url: https://www.nohayonline.com/details_content.php?id=1629
-# raw_sha256: 197136ba697296571bbde4aee15ee9b3bfa3493190de2f0be743630aef337835
 ---
 
 سر جو چھے ماہ کے بے شیر کا نیزے پے چڑھا

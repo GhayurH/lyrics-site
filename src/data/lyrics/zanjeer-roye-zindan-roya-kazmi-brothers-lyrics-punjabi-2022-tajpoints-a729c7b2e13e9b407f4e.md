@@ -8,9 +8,6 @@ poet: "Imran"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a729c7b2e13e9b407f4e
-# source_url: https://tajpoints.com/2022/02/zanjeer-roye-zindan-roya-kazmi-brothers.html
-# raw_sha256: 7f0a401f17ee2f5e5637b16c8caa7da3ed414a9f481df6d5d360e1be33b1462e
 ---
 
 1

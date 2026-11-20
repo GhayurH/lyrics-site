@@ -8,9 +8,6 @@ poet: "Purnam"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:95f92d36aa20f779d50d
-# source_url: https://tajpoints.com/2017/02/tumhe-dillagi-bhool-jaani-paregi.html
-# raw_sha256: f30618388eba9a0a7eff81cf22f483f263b1dd612630badb93621f301bb73c7d
 ---
 
 1

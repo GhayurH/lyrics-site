@@ -8,9 +8,6 @@ poet: "Qambar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:37a3ea6fabe0ff53758d
-# source_url: https://tajpoints.com/2026/07/uth-jao-ae-pyare-mehdi-rizvi-lyrics.html
-# raw_sha256: 95f4d09e5f3026fadac54e8db214a0ca91ed9c7c102a899e61c1b897638f472b
 ---
 
 1

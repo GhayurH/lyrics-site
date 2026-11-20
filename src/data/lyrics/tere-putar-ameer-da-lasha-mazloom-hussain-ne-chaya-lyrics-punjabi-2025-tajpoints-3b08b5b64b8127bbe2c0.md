@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3b08b5b64b8127bbe2c0
-# source_url: https://tajpoints.com/2025/08/tere-putar-ameer-da-lasha-mazloom.html
-# raw_sha256: 83911a79552b7d46e4a1fe32f937b3fa95e5faf04e4602b05f60c21acefd392c
 ---
 
 Tere Putar Ameer Da Lasha Mazloom Hussain Ne Chaya.

@@ -8,9 +8,6 @@ poet: "Najfi"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ea4dca42196c4f9712e5
-# source_url: https://tajpoints.com/2017/11/qaid-tanha-hoon-zindan-mein-aao-baba.html
-# raw_sha256: 41f48629423f4cd510399e19a009271391817ade9d25f749f4e73341a1a4e190
 ---
 
 1

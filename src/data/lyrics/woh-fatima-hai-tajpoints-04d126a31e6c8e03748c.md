@@ -8,9 +8,6 @@ poet: "Shams"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:04d126a31e6c8e03748c
-# source_url: https://tajpoints.com/2020/02/woh-fatima-hai-lyrics-in-urdu-and-roman.html
-# raw_sha256: 692be8c5355c8c812ad5e495d6893c968a71b74f836a3c2400e4f9c1444f7b7a
 ---
 
 1

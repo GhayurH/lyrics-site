@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:3bcd7aa62330cc0310fb
-# source_url: https://tajpoints.com/2023/10/sach-tu-yeh-hai-keh-madine-ki-taraf.html
-# raw_sha256: 43e079a5537632fdda485ef5f0028afc5b95debcc88896442ecf600e71cc3987
 ---
 
 Sach Tu Yeh Hai Keh Madine Ki Taraf Jana Hai Naat.

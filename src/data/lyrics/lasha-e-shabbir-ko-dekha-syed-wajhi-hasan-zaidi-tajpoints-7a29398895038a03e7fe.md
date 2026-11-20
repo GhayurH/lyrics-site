@@ -8,9 +8,6 @@ poet: "Hilal"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7a29398895038a03e7fe
-# source_url: https://tajpoints.com/2021/08/lasha-e-shabbir-ko-dekha-syed-wajhi.html
-# raw_sha256: 5836189654fef56076caf498c5b790eae33eed8fef88181e79adcd60235f9f9a
 ---
 
 Lasha e Shabbir Ko Dekha Syed Wajhi Hasan Zaidi.

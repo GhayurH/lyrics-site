@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:60121cb8ccccf0f80358
-# source_url: https://www.nohawriteups.org/farhan-ali-waris-shaam-e-ghareeban-aye-noha-2022-1444-lyrics/
-# original_html: snapshots/nohawriteups/original_html/60121cb8ccccf0f80358.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/60121cb8ccccf0f80358.json
-# api_content_sha256: ff22bef17c52c7e4147d160d3a7ac5a1c45b28ddbedcea391b76209825bad570
-# editorial_note: Unpublished source-faithful draft from approved valid roman only on live, extraction broken; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 HAAYE HAAYE

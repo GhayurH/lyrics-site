@@ -8,9 +8,6 @@ poet: "Sahaab"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:57681b6f161106ee25aa
-# source_url: https://tajpoints.com/2022/09/sakina-watan-chalo-rajab-ali-khan.html
-# raw_sha256: 87884f2f7c7b755156ac87d7918db1d3ad253a7b94e56772857c1b12407dcedf
 ---
 
 Sakina Watan Chalo Rajab Ali Khan.

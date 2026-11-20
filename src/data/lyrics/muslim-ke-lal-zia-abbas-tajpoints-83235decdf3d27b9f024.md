@@ -8,9 +8,6 @@ poet: "Saaib"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:83235decdf3d27b9f024
-# source_url: https://tajpoints.com/2023/06/muslim-ke-lal-zia-abbas-lyrics-in-urdu.html
-# raw_sha256: 0fd6781e5c634da83adc4ec39ea424924ea931576bef93810aeb52b2315c0770
 ---
 
 1

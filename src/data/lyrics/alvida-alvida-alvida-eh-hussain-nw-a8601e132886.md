@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a8601e132886e8abe34c
-# source_url: https://www.nohawriteups.org/alvida-alvida-alvida-eh-hussain/
-# original_html: snapshots/nohawriteups/original_html/a8601e132886e8abe34c.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a8601e132886e8abe34c.json
-# api_content_sha256: f52d9712d2886ee7f86115f97c2cc1801d36c058a5909af2aabe22eeeebd163d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Alvida Alvida Alvida eh Hussain

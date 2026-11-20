@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:68639a24ae62c8bb7d0a
-# source_url: https://tajpoints.com/2018/05/kabhi-shaoor-se-socha-agar-na-hote-ali.html
-# raw_sha256: b0f5571213cb44549348c8881484c7c57c9bdadf8b2dbfda0690053d5c6184d5
 ---
 
 1

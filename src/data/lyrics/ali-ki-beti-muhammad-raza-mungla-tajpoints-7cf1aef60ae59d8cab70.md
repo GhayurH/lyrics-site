@@ -8,9 +8,6 @@ poet: "Raza"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:7cf1aef60ae59d8cab70
-# source_url: https://tajpoints.com/2024/02/ali-ki-beti-muhammad-raza-mungla-lyrics.html
-# raw_sha256: fc9cb9ddc0ca365fcf4fc9e2231f166c316a7ef380507081ebaa311292943efc
 ---
 
 1

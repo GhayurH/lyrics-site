@@ -7,9 +7,6 @@ kalamType: "Manqabat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:68cda168c3a1b355fd94
-# source_url: https://tajpoints.com/2020/02/mushkil-kusha-batool-lyrics-in-urdu-and.html
-# raw_sha256: 73b8e4ee26d8266df6aafbc29656f835268d284d7799381192797f8e91c1b5b0
 ---
 
 Mushkil Kusha Ke Wastay Mushkil Kusha Batool.

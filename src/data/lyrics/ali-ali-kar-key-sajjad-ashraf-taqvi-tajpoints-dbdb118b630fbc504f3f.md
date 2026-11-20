@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:dbdb118b630fbc504f3f
-# source_url: https://tajpoints.com/2021/07/ali-ali-kar-key-sajjad-ashraf-taqvi.html
-# raw_sha256: 8530f10df9a520ae8e60f917f949d5f700deb6af41078ca62e502fc5fc71c012
 ---
 
 Dil Khilein Gay Ali Ali Kar Ke.

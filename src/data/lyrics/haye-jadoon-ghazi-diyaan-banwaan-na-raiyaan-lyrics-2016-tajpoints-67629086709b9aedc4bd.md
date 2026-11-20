@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:67629086709b9aedc4bd
-# source_url: https://tajpoints.com/2020/05/haye-jadoon-ghazi-diyaan-banwaan-na.html
-# raw_sha256: cfa2ab178221936eb3a6785daf31b8d10e3484f12ddc22127025afeae1c0b3a1
 ---
 
 1

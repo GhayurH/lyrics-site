@@ -8,9 +8,6 @@ poet: "Akhtar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:61ade877ee8b7a6e0cbe
-# source_url: https://tajpoints.com/2023/06/farwa-ujar-gayi-aye-qasim-yateem-hoya.html
-# raw_sha256: 70074bca9b7465aa201d98fc2fdd773a6156f92117a0875d34289f0a1ac5c449
 ---
 
 1

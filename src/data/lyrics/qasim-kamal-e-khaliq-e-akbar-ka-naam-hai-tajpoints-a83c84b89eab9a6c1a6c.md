@@ -8,9 +8,6 @@ poet: "Ahmad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:a83c84b89eab9a6c1a6c
-# source_url: https://tajpoints.com/2025/04/qasim-kamal-e-khaliq-e-akbar-ka-naam-hai.html
-# raw_sha256: 3ec5dd30671efeeb9a426c3d9acedfb079d560a7931862c41b7e67a06f878893
 ---
 
 Qasim Kamal e Khaliq e Akbar Ka Naam Hai.

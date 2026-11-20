@@ -44,9 +44,6 @@ romanLyrics: |-
   8
   Andhera chhaa raha hai aa rahi hai raat ki kaali
   Zaruri ho gaya aana mere bhaiya chale aao
-# source_id: nohayonline:505082588a47652ca64f
-# source_url: https://www.nohayonline.com/details_content.php?id=2935
-# raw_sha256: 440211914dd07d50dc83da4cfa610393caa51da8b9942e830d92313a7c5f84c1
 ---
 سکینہ کا یہ نوحہ تھا میرے بھیا چلے آؤ
 بہت ظالم ہے یہ اعدا میرے بھیا چلے آؤ

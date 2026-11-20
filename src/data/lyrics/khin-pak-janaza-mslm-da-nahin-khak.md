@@ -8,12 +8,7 @@ reciter: "Haji Muhammad Iqbal (Waa Hijab)"
 tags: ["noRoman"]
 aliases: []
 published: false
-# romanLyrics omitted: source supplied the exact Roman track of an unrelated Hajj/Kaba poem.
-# Retained the original Urdu text; correct Roman needs manual creation.
 
-# source_id: ziyaraat:5505a0724e0ab2615315
-# source_url: https://www.ziyaraat.net/api/noha/2549
-# raw_sha256: d811fa1ccbe615d9f4951381cc5a8f922f1f30500981e32f58714677ecb5f9e6
 ---
 
 کہیں پاک جنازہ مسلمؐ دا نئیں خاک توں چایا عید دے ڈینہہ

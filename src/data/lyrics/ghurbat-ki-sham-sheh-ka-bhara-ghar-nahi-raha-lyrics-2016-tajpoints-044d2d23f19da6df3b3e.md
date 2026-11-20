@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:044d2d23f19da6df3b3e
-# source_url: https://tajpoints.com/2019/08/ghurbat-ki-sham-sheh-ka-bhara-ghar-nahi.html
-# raw_sha256: 2bf596012974eb85c308822c2403bfcde53747148930bc4680a72e23c832d34f
 ---
 
 1

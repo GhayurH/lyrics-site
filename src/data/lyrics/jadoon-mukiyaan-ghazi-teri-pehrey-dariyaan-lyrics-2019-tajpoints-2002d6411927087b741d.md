@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:2002d6411927087b741d
-# source_url: https://tajpoints.com/2019/08/jadoon-mukiyaan-ghazi-teri-pehrey.html
-# raw_sha256: fe8516e5e21e2631f261a2e0f409c33c66774ed49540f9cc65877a5887274526
 ---
 
 1

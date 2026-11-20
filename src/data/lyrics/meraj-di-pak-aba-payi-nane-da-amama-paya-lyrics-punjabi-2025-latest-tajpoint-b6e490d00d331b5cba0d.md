@@ -8,9 +8,6 @@ poet: "Saqlain"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:b6e490d00d331b5cba0d
-# source_url: https://tajpoint.com/meraj-di-pak-aba-payi-nane-da-amama-paya-lyrics/
-# raw_sha256: 3d2cb892bfb760818e6228e29b2875f47b10ae35d469202a4b9b1f99bdc08602
 ---
 
 Meraj Di Pak Aba Payi Nane Da Amama Paya.

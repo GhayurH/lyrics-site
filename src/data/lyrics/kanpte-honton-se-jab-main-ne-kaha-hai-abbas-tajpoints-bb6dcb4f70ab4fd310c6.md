@@ -8,9 +8,6 @@ poet: "Shaiq"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:bb6dcb4f70ab4fd310c6
-# source_url: https://tajpoints.com/2017/12/kanpte-honton-se-jab-main-ne-kaha-hai.html
-# raw_sha256: 8103a4e21a42c856022f70bfe305ee9142654e54c75e7e2826880c16d94d3d36
 ---
 
 1

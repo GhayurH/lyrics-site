@@ -8,9 +8,6 @@ poet: "Yasir"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:137db34abe197d88029f
-# source_url: https://tajpoints.com/2025/11/tum-nahi-jao-maa-mirza-ali-hassan-lyrics.html
-# raw_sha256: 3f5a9995d5bf971181639774f22c507f600b022e98bf501d3d19758b2cb7729c
 ---
 
 1

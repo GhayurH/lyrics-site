@@ -8,9 +8,6 @@ poet: "Sajjad"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:aac7a7928f3a0106962f
-# source_url: https://tajpoint.com/jafar-e-sadiq-ko-haye-qatal-ummat-ne-kiya-lyrics-urdu/
-# raw_sha256: 1d4edb0c334bcafb084481b70e27d37f5f55d69e2dba9f2608b875b1b4b18255
 ---
 
 1

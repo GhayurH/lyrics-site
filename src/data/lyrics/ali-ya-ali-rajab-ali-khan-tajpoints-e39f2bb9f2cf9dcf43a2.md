@@ -8,9 +8,6 @@ poet: "Zeeshan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:e39f2bb9f2cf9dcf43a2
-# source_url: https://tajpoints.com/2023/02/ali-ya-ali-rajab-ali-khan-lyrics-in.html
-# raw_sha256: 9653c84b055234e1630b5c0a09b2d2fdd62c0acb3aff5b1a5706d6b6ad53a3a9
 ---
 
 1

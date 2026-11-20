@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:a5e446d83094c370534f
-# source_url: https://www.nohawriteups.org/asr-ka-waqt-qareeb-aagaya-lo-jaate-hai-ham/
-# original_html: snapshots/nohawriteups/original_html/a5e446d83094c370534f.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/a5e446d83094c370534f.json
-# api_content_sha256: c86715eac7cc6dca9264ae353d4bcd199583ff8ba4ba5043128673b7795e23ce
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Asr Ka Waqt Qareeb Aagaya Lo Jaate Hai Ham

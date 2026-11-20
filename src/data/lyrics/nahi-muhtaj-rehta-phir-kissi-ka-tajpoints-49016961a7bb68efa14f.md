@@ -8,9 +8,6 @@ poet: "Sahil"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:49016961a7bb68efa14f
-# source_url: https://tajpoints.com/2017/02/nahi-muhtaj-rehta-phir-kissi-ka.html
-# raw_sha256: e87c4c7e189fa157a250a195b35e2366f7dcc67c8f2c966d16e390af00ad1ff8
 ---
 
 1

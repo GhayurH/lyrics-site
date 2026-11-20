@@ -69,9 +69,6 @@ romanLyrics: |-
   Kaisi ye Takallum ghurbat hai
   Kufe meiṅ musalmaaṅ saare the
   Muslim tha akela Eid ke din
-# source_id: nohayonline:fe1b340cd08f2cc71ceb
-# source_url: https://www.nohayonline.com/details_content.php?id=1609
-# raw_sha256: e11075489005cff77f945cd275ca386911e081a4890dcde8149ac7a1bba95c98
 ---
 
 کوفے میں پھرایا جاتا ہے

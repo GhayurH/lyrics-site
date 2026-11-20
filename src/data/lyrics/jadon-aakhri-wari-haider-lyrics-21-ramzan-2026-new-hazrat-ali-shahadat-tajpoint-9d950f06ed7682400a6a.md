@@ -8,9 +8,6 @@ poet: "Izan"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoint:9d950f06ed7682400a6a
-# source_url: https://tajpoint.com/jadon-aakhri-wari-haider-lyrics-21-ramzan-2026/
-# raw_sha256: 04d917fa9d54d5ba2245ea5f9fb39d6ef67731358e6b115725df77d5c9377cb7
 ---
 
 Jadon Aakhri Wari Haider Haye Sir Sajday Wich Rakhiya.

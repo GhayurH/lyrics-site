@@ -45,12 +45,6 @@ romanLyrics: |-
   8
   Sadqe meiṅ Shaah-e-Diṅ ke ae Haidar-e-Karraar
   Tujh ko taaid-e-aasmaani hai
-# source_id: nohayonline:73700b2fb5fe59a2931b
-# source_url: https://www.nohayonline.com/details_content.php?id=66
-# raw_sha256: 7a253ca9a29572998265cb434eeccd87dca791cca75b765de064f8ad8aed5a43
-# source_id: ziyaraat:a53357eb5f06f97b874b
-# source_url: https://www.ziyaraat.net/api/noha/638
-# raw_sha256: 04649b33402db76d0b5156eea911c98f6565d286231b9a53d83867642f2cb494
 ---
 
 درد انگیز یہ کہانی ہے

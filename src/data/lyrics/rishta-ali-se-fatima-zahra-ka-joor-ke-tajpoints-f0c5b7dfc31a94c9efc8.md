@@ -8,9 +8,6 @@ poet: "Buzar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f0c5b7dfc31a94c9efc8
-# source_url: https://tajpoints.com/2023/06/rishta-ali-se-fatima-zahra-ka-joor-ke.html
-# raw_sha256: 2a7c177e67fe4d4921f8e65b24a9d093b1f993926b871f499d70bbfd43c33030
 ---
 
 Rishta Ali Se Fatima Zahra Ka Joor Ke.

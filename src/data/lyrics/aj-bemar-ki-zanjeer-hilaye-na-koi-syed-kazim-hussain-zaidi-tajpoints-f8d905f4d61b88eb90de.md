@@ -8,9 +8,6 @@ poet: "Kazim"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:f8d905f4d61b88eb90de
-# source_url: https://tajpoints.com/2025/11/aj-bemar-ki-zanjeer-hilaye-na-koi-syed.html
-# raw_sha256: 8ef54e31cc3c5d1ef87a72a31741dcb38b44bee77bd07b6092dcaa6a3b438a6d
 ---
 
 1

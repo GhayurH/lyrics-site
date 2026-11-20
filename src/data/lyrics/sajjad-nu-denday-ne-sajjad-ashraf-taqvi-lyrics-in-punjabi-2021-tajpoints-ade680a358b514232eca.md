@@ -8,9 +8,6 @@ poet: "Sardar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ade680a358b514232eca
-# source_url: https://tajpoints.com/2022/08/sajjad-nu-denday-ne-sajjad-ashraf-taqvi.html
-# raw_sha256: b5a4b93bef11fc9e55e63d1a23f6de3982f992c8409db0377ba2f55c3ae2280b
 ---
 
 Sajjad Nu Denday Ne Sajjad Ashraf Taqvi.

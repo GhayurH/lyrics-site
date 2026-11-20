@@ -8,9 +8,6 @@ poet: "Karrar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:8fdb5e90698dda4cdc7e
-# source_url: https://tajpoints.com/2022/10/sarkar-ali-mola-mir-hasan-mir-lyrics-in.html
-# raw_sha256: 4b56bb5fba22d3dff1d4db4428cb5ea16d6fe88abd88296ed253bc9fe900a10a
 ---
 
 1

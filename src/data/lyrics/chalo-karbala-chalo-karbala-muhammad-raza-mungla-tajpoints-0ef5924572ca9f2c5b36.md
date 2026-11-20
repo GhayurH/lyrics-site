@@ -8,9 +8,6 @@ poet: "Zahra"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:0ef5924572ca9f2c5b36
-# source_url: https://tajpoints.com/2024/07/chalo-karbala-chalo-karbala-muhammad.html
-# raw_sha256: c498675536e5c9c32fea78a936396e26261a92b146eafb9c2a34bef424bbddc4
 ---
 
 Chalo Karbala Chalo Karbala Muhammad Raza Mungla.

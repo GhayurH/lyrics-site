@@ -40,9 +40,6 @@ romanLyrics: |-
   Salaam saare zamane ke dard mandoṅ ka
   Husain saara zamana salaam kehta hai
   Musafiroṅ ko madina...
-# source_id: nohayonline:622812148ca33df8120f
-# source_url: https://www.nohayonline.com/content_salaam.php?id=38
-# raw_sha256: 409e9f204b7cfdbcdaa2610961623556cfb65835988677f421942d46a7ae5ce9
 ---
 
 ۱

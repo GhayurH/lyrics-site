@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:ca9d1121b279e8a9fdbb
-# source_url: https://tajpoints.com/2021/02/ruk-gayi-aye-sada-logo-tasbeeh-e-fatima.html
-# raw_sha256: f7d0cfcde20cf311a569adf00b0ad44909c9f792a4deb2b9074844daa3bfb51c
 ---
 
 Ruk Gayi Aye Sada Logo Tasbeeh-e-Fatima Di Write Up

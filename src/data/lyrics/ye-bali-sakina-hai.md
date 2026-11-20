@@ -59,9 +59,6 @@ romanLyrics: |-
   Har waqt sawaal jo karti hai
   Ye bali sakina hai
   Zindaṅ meiṅ jo roti hai...
-# source_id: nohayonline:b1b33a061da52af86f89
-# source_url: https://www.nohayonline.com/details_content.php?id=1845
-# raw_sha256: 27533a472fe054076b8a1ff012a13823aa30a564af4b44567716f1153bb534f8
 ---
 
 ۱

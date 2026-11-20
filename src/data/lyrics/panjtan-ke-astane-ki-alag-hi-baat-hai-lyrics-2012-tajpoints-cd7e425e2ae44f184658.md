@@ -8,9 +8,6 @@ poet: "Akbar"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:cd7e425e2ae44f184658
-# source_url: https://tajpoints.com/2017/02/panjtanas-ke-astane-ki-alag-hi-baat-hai.html
-# raw_sha256: 9ed66359b79073b3419c5bfb033419dd619a04b25d14d37a2becf0300616090b
 ---
 
 1

@@ -40,9 +40,6 @@ romanLyrics: |-
   Alwida aey Shahe mashraqain alwida
   Binte Ahmed kay aey noore ain alwida
   Hay mujahid ke lab par ye bain alwida
-# source_id: ziyaraat:d693d3cb60182f3fbaaa
-# source_url: https://www.ziyaraat.net/api/noha/479
-# raw_sha256: 68bef1148ecf8dd0e01a74cb29a81e6d6b29d9cc9dcb2c5349b5599928025fb3
 ---
 
 مرحبا مرحبا مرحبا اے حسینؑ

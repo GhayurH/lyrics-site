@@ -45,9 +45,6 @@ romanLyrics: |-
   Tumhaare kaanoṅ meiṅ aayegi ek sada har aan
   Gharib maaṅ teri ghurbat pe sabr par qurbaan
   Maiṅ kuch na kar saki bas itna hi kar paati thi
-# source_id: nohayonline:830242292cfa8d7ce30f
-# source_url: https://www.nohayonline.com/details_content.php?id=2147
-# raw_sha256: 9c16d287ff7d5c37eda9ce0734f29a8292118e2e4da04d669911aaef7e9a3910
 ---
 
 روتی رہی ہے سیدہ کرتی رہی آہ و بکا

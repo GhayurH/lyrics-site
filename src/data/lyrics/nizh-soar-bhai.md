@@ -8,9 +8,6 @@ reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: ziyaraat:fa969039fc5bcf6a8de5
-# source_url: https://www.ziyaraat.net/api/noha/2449
-# raw_sha256: 939e3f8198efb0109eb5f258ae4f102ee1d27d9a13d3292f087e4d056cef84b6
 ---
 
 1

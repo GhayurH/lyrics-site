@@ -76,9 +76,6 @@ romanLyrics: |-
   Baba maiṅ chaah kar bhi na us waqt mar saki
   Jis dam badan se ruh ki parwaaz dekhi thi
   Maiṅ dekhti rahi mera bhai chala gaya
-# source_id: nohayonline:cb6a77cc994306eefc13
-# source_url: https://www.nohayonline.com/details_content.php?id=1824
-# raw_sha256: 7ed479c9070c165bae47440bc230382ae91591f0d27b8d99c9b51f0c971cb490
 ---
 ستر قدم کا فاصلہ بھائی بہن میں تھا
 زینب لپٹ کے باپ سے دیتی رہی صدا

@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:4e6bec7e883d91869775
-# source_url: https://www.nohawriteups.org/masoom-sakina-rovay-kadon-mukniyaan-ne-aye-sazaawaan/
-# original_html: snapshots/nohawriteups/original_html/4e6bec7e883d91869775.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/4e6bec7e883d91869775.json
-# api_content_sha256: ec0f499a9829e02fc44b8f9d78ebb7c779380dc9d6f7be8aaa0f66bacb28202d
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Masoom Sakina Rovay Kadoon Mukniyaan Ne Aye Sazaawaan

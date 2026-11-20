@@ -141,13 +141,6 @@ romanLyrics: 'Azadaro dua mango, koi aise yateem na ho
   Aisa lagtaa hay ke zindaan say, sada aati hay
 
   Aisa nawha meri ghurbath pay likha hay Baba'
-# source_id: nohayonline:cc76a282e4008d2d34e8
-# source_url: https://www.nohayonline.com/details_content.php?id=887
-# raw_sha256: 7f1ff65c730468957543b41bac3d32874b1d9fd5d29211e757863b09a74d74fc
-# source_id: ziyaraat:e2f5355797fa6cf2a0e3
-# source_url: https://www.ziyaraat.net/api/noha/991
-# raw_sha256: f282c1bf773c2d65d301f3c743ab57b3742ac068c13dfcd4411731e5f72955dc
-# added_stanza_source: roman:kalam-nohayonline-cc76a282e4008d2d34e8
 ---
 
 عزادارو دعا مانگو، کوئی ایسے یتیم نہ ہو

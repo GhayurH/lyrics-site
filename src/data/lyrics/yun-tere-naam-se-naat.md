@@ -7,11 +7,6 @@ kalamType: "Naat"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:903db2a467ec6338b9e3
-# source_url: https://tajpoints.com/2021/10/yun-tere-naam-se-naat-mukhtar-hussain.html
-# raw_sha256: db910f378d33a1985f6ffbcb7ba60c414c9f2c9d81e83cff8e1f2ec7e55508ce
-# source_title_original: Yun Tere Naam Se Naat Mukhtar Hussain Fatehpuri 2019
-# editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
 ---
 
 Yun Tere Naam Se Naat

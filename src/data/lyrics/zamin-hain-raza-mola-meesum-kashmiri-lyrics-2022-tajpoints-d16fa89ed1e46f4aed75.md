@@ -8,9 +8,6 @@ poet: "Meesum"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:d16fa89ed1e46f4aed75
-# source_url: https://tajpoints.com/2022/06/zamin-hain-raza-mola-meesum-kashmiri.html
-# raw_sha256: 6064420848d68f5d10197ff160826d892c070d18f534891e56b25d34cf069875
 ---
 
 1

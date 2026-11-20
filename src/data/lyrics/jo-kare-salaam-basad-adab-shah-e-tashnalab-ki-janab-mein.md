@@ -51,9 +51,6 @@ romanLyrics: |-
   10
   Jo suno kalam-e-Fasih ko toh durood bhejo Rasool par
   Ye sila jo do ge salam ka toh shareek hoge sawab me
-# source_id: ziyaraat:137b3d5413ea3af4af36
-# source_url: https://www.ziyaraat.net/api/noha/2250
-# raw_sha256: f3a87a2c2f586e8bcbf0bd71b0819bef34ee17b59119c9402eda300b2db3c92c
 ---
 
 جو کرے سلام بصد ادب شہہِ تشنہ لب کی جناب میں

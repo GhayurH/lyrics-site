@@ -8,9 +8,6 @@ poet: "Haider"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: tajpoints:c238cf1cef6bd18ccb70
-# source_url: https://tajpoints.com/2020/05/haye-zainab-keh-ke-roye-haider-e-karrar.html
-# raw_sha256: f0d732fcfabd7e77219513b0bb5c9f38e8a582b93721f985f8f65bd3f9e5a521
 ---
 
 Haye Zainab Keh Ke Roye Haider-e-Karrar.

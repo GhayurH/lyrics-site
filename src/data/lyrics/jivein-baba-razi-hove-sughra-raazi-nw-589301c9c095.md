@@ -7,12 +7,6 @@ kalamType: "Noha"
 tags: ["noUrdu"]
 aliases: []
 published: false
-# source_id: nohawriteups:589301c9c09567e72d1d
-# source_url: https://www.nohawriteups.org/jivein-baba-razi-hove-sughra-raazi/
-# original_html: snapshots/nohawriteups/original_html/589301c9c09567e72d1d.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/589301c9c09567e72d1d.json
-# api_content_sha256: 704c72d6b2b0939bb1a7aef0e043ec709412c13c40168746881eee78e1de0466
-# editorial_note: Unpublished source-faithful draft from approved valid roman only; exact archived HTML, stanza identities, spelling, script labels, manuscript/audio and cross-branch duplicate checks still require editorial review.
 ---
 
 Jivein baba razi, hove Sughra raazi, Na holai bay bay roor, meda chacha Ghazi.

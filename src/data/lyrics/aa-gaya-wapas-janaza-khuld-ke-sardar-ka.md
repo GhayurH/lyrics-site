@@ -8,9 +8,6 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-# source_id: ziyaraat:402ce1859d686abe8a73
-# source_url: https://www.ziyaraat.net/api/noha/2157
-# raw_sha256: 3daf4b994790bfa6a8cd398427d43cf8f096954d9104390da1eccc83f3bcaa6a
 romanLyrics: |-
   Aa gaya wapas janaza khuld ke sardar ka
   Ban gaya matam kada ghar,  Ahmed e Mukhtar ka
