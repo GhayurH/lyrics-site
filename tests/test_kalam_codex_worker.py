@@ -97,7 +97,8 @@ class WorkerTests(unittest.TestCase):
                 with patch.object(worker, "invoke_codex", side_effect=fake_codex):
                     outcome = worker.perform_one(repo, item, state, lambda x: "editorial task")
                 self.assertEqual(outcome, "done")
-                self.assertEqual(state["results"]["poem.md"]["status"], "edited_local")
+                # Invalid fixture has no verified source; this must remain human-review.
+                self.assertEqual(state["results"]["poem.md"]["status"], "needs_human")
                 self.assertEqual((repo / "other.md").read_text(), "Already uncommitted")
                 self.assertEqual(subprocess.run(
                     ["git", "-C", str(repo), "log", "-1", "--pretty=%s"],

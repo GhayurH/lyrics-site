@@ -2,7 +2,7 @@ name: Round 2 Codex service one-time validation
 on:
   push:
     branches: [round2-kalams-2026-11-14]
-    paths: [scripts/kalam_codex_worker.py]
+    paths: [scripts/kalam_codex_worker.py, tests/test_kalam_codex_worker.py]
 permissions:
   contents: write
 jobs:
