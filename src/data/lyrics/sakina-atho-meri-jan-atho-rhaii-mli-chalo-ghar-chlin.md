@@ -4,8 +4,10 @@ language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
+poet: "Mazhar"
 tags: []
-aliases: []
+aliases:
+  - "Sakina Utho Meri Jaan Utho"
 published: false
 romanLyrics: |-
   Sakina utho, Meri jaan utho,
