@@ -30,7 +30,7 @@ The human review process and release trackers are defined in [Quality assurance]
 
 ## 3. Titles, metadata and languages
 
-Use a meaningful original-language `title`, and `alternateTitle` for the corresponding Roman presentation when available. A clean, descriptive filename omits scraper prefixes, poet/reciter/date suffixes and generic “lyrics” wording. Retain established public slugs and aliases where changing them would break links without a reviewed migration.
+Every non-English standalone kalam requires an original-language `title` and a Roman `alternateTitle` transliterating **that same title or verse**, never a different opening. An originally English kalam has `title` only. Filenames derive from the Roman title (English: `title`), excluding poet/reciter names, source names, dates, hashes and generic lyrics wording. Distinct works with identical titles must have unique title-based slugs. Keep permanent IDs and redirect old published URLs when renaming.
 
 - Required standalone fields include `title`, `language`, `lang`, `direction` and `kalamType`. `kalamType` and `reciter` may each be one value or an array of **independent** values; do not combine two reciters into a fictional joint name.
 - Set `poet` to the complete verified name. Keep takhallus occurring *inside a verse* as poetry, not as a source-processing marker. `haal`, `romanHaal`, `occasion`, `year` and relevant `aliases` describe the work only when supported.
@@ -48,6 +48,10 @@ Use a meaningful original-language `title`, and `alternateTitle` for the corresp
 | English | `English` | `en` | `ltr` |
 
 A verified original Latin-script Punjabi, Saraiki or Balti entry may provisionally use `pa`, `skr` or `bft` with `direction: ltr`; it must **not** masquerade as Roman Urdu. Reclassify to `*-Arab` only after a source-language Arabic-script original exists. Language mixing and “Punjabi/Saraiki” labels need human review; keywords alone do not prove a language. `node scripts/audit-round2-language-codes.mjs` is **read-only** candidate reporting, not a conversion tool.
+
+String metadata and string-array members must be quoted in YAML; preserve numeric and boolean types, array structure and the `romanLyrics: |-` literal block. Remove all source-post provenance, including `additional_` prefixed keys, source IDs, URLs, HTML/snapshot paths, source metadata paths and raw/API checksums. Retain only editorial notes with concrete correction instructions, verified variant readings or a specific reading needing review.
+
+Round 2: `npm run lyrics:metadata:check` performs a read-only audit, while `npm run lyrics:metadata:fix` applies mechanical corrections and reconciles renamed paths, published redirects and identity locks. Neither can verify the semantic correctness of every Roman title; ambiguous correspondence requires human review.
 
 ## 4. Stanzas and source layout
 

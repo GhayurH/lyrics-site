@@ -27,6 +27,12 @@ Do **not** duplicate an import's scraper provenance in the canonical Markdown. D
 
 Pending, partial or blocked work must be reviewed against the relevant source or explicitly flagged as unresolved. Do not mark a file `reviewed` merely because a batch normalizer ran.
 
+## Round 2 metadata and title cleanup
+
+`npm run lyrics:metadata:check` audits all standalone lyric headers, provenance comments and filenames without editing them. `npm run lyrics:metadata:fix` quotes strings while preserving YAML types and Roman lyric blocks, drops source-provenance lines, renames files from canonical title fields, handles filename collisions, updates published redirects and recitation identity locks, and adjusts temporary WIP tracker paths. It leaves `audit/lyric-md-rounds.csv` unchanged during the work-in-progress phase.
+
+Missing original-script or Roman titles and uncertain transliterations are review findings, **never invented automatically**. Inspect the diff and the redirect count before publication. Stop the local Codex per-file worker before running the filename-changing command.
+
 ## Source synchronization
 
 ```bash
