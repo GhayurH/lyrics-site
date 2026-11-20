@@ -200,6 +200,23 @@ def preview_workspace(root: Path, rel: str, state_dir: Path,
     return original_bytes, new, session["snapshot_before"], after
 
 
+
+def snapshot_interrupted_workspace(state_dir: Path, session: dict) -> dict[str, str]:
+    """Preserve Codex's proposal after a concurrent checkout edit or deletion.
+
+    Does not read, restore, revert, or otherwise mutate the real lyric. The
+    before snapshot was made when the isolated session started; the after
+    snapshot records even unfinished work for separate human review.
+    """
+    workspace = Path(session["workspace"])
+    rel = session["path"]
+    assert_workspace_clean_scope(workspace, rel, session["guidance_sha256"])
+    proposed = (workspace / rel).read_bytes()
+    return {
+        "before": session["snapshot_before"],
+        "after": _snapshot(state_dir, session, "after.md", proposed),
+    }
+
 def added_whitespace_issues(original: bytes, updated: bytes) -> list[dict]:
     """Reject new trailing ASCII whitespace BEFORE publishing any local edit."""
     try:

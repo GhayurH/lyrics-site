@@ -146,10 +146,9 @@ def added_files(base: str) -> list[str]:
 
 
 def inventory(base: str) -> list[Candidate]:
-    from kalam_codex_quality import TASK_ORDER
     items = [inspect_text(rel, (ROOT / rel).read_text(encoding="utf-8"))
              for rel in added_files(base)]
-    return sorted(items, key=lambda item: (TASK_ORDER.get(item.task, 9), item.path))
+    return sorted(items, key=lambda item: (item.path.casefold(), item.path))
 
 
 def target_for(args: argparse.Namespace) -> Candidate:

@@ -102,35 +102,6 @@ def git(root: Path, *args: str) -> str:
     return run.stdout
 
 
-def changed_snapshot(root: Path) -> dict[str, tuple | None]:
-    """Detect changes even to files that were already dirty before Codex.
-
-    Staged, unstaged and untracked paths are considered. Metadata fingerprints
-    for already dirty files avoid hashing thousands of poems on every turn.
-    """
-    output = subprocess.run(
-        ["git", "-C", str(root), "diff", "--name-only", "-z", "HEAD"],
-        capture_output=True, check=True).stdout
-    untracked = subprocess.run(
-        ["git", "-C", str(root), "ls-files", "--others", "--exclude-standard", "-z"],
-        capture_output=True, check=True).stdout
-    paths = set(filter(None, (output + untracked).decode("utf-8").split("\0")))
-    result = {}
-    for rel in paths:
-        p = root / rel
-        try:
-            s = p.lstat()
-            result[rel] = (s.st_size, s.st_mtime_ns, s.st_mode)
-        except FileNotFoundError:
-            result[rel] = None
-    return result
-
-
-def unsafe_changes(before: dict, after: dict, allowed: str) -> list[str]:
-    return sorted(path for path in before.keys() | after.keys()
-                  if path != allowed and before.get(path) != after.get(path))
-
-
 def sha_file(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
@@ -308,6 +279,40 @@ def update_result(state: dict, item, outcome: str, *, details: str = "",
     state.pop("transient_attempts", None)
     save_state(state)
 
+def mark_concurrent_edit(item, state: dict, reason: str, *,
+                         duration_seconds: float = 0.0,
+                         usage: dict | None = None, transcript: str = "") -> str:
+    """Quarantine a Codex proposal, not the locally deduplicated target.
+
+    A concurrently modified/deleted target must never be overwritten by this
+    service, and a collision on one poem must not stall unrelated poems.
+    """
+    from kalam_codex_isolation import (
+        finish_session, snapshot_interrupted_workspace,
+    )
+    session = state.get("workspace_session")
+    snapshots = {}
+    if session:
+        if session.get("path") != item.path:
+            raise WorkerError("A different in-flight workspace needs intervention")
+        snapshots = snapshot_interrupted_workspace(state_home(), session)
+    state.pop("workspace_session", None)
+    update_result(
+        state, item, "concurrent_edit", details=reason,
+        findings=[{"code": "concurrent_target_edit", "severity": "error",
+                   "message": reason}],
+        snapshots=snapshots, duration_seconds=duration_seconds,
+        usage=usage, transcript=transcript)
+    if session:
+        try:
+            finish_session({"workspace_session": session})
+        except OSError as exc:
+            print("Workspace cleanup warning:", exc, file=sys.stderr)
+    print("Codex skipped concurrently changed lyric:", item.path, reason,
+          "(snapshots retained; requeue after dedup if desired)", flush=True)
+    return "done"
+
+
 def perform_one(root: Path, item, state: dict, prompt_for, *,
                 model: str | None = None) -> str:
     """Run isolated Codex, validate, then atomically apply a single safe edit."""
@@ -319,13 +324,25 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
         original_body, token_usage, validate_text,
     )
     target = root / item.path
+    prior_session = state.get("workspace_session")
+    if prior_session and prior_session.get("path") != item.path:
+        raise WorkerError("Another isolated file is still in flight")
+    # A resumed file can have been changed/deleted by dedup in the meantime.
+    # Preserve the interrupted workspace as snapshots rather than overwrite it.
+    if prior_session and (
+            not target.is_file() or target.is_symlink() or
+            sha_file(target) != prior_session["baseline_sha256"]):
+        return mark_concurrent_edit(
+            item, state, "Target changed during interrupted Codex session")
     if not target.is_file() or target.is_symlink():
         update_result(state, item, "missing", details="File disappeared before review")
         return "done"
-    before = changed_snapshot(root)
     original_text = target.read_text(encoding="utf-8")
     resume = state.get("current_path") == item.path
     workdir, session = prepare_workspace(root, item.path, state_home(), state)
+    if hashlib.sha256(original_text.encode("utf-8")).hexdigest() != session["baseline_sha256"]:
+        return mark_concurrent_edit(
+            item, state, "Target changed while preparing isolated session")
     prompt = prompt_for(item)
     if resume:
         prompt += ("\n\nRESUMING AN INTERRUPTED ISOLATED REVIEW. "
@@ -346,16 +363,13 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
             "usage": usage,
         }
         save_state(state)
-    after = changed_snapshot(root)
-    extras = unsafe_changes(before, after, item.path)
-    if extras or target.read_text(encoding="utf-8") != original_text:
-        state["status"] = "stopped_on_unexpected_edits"
-        state["error"] = (
-            "Checkout changed during isolated Codex run: " +
-            (", ".join(extras[:15]) if extras else item.path))
-        state["last_transcript"] = str(transcript)
-        save_state(state)
-        raise WorkerError(state["error"] + "; no isolated content was applied")
+    # Only this poem is protected by compare-and-swap. Dedup may change other
+    # files or advance HEAD without interrupting the one-file Codex task.
+    if (not target.is_file() or target.is_symlink() or
+            sha_file(target) != session["baseline_sha256"]):
+        return mark_concurrent_edit(
+            item, state, "Target changed during Codex invocation",
+            duration_seconds=duration, usage=usage, transcript=str(transcript))
     # Even quota/transient retries MUST be scoped: never trust a modified
     # workspace or continue an unsafe partial run.
     try:
@@ -396,6 +410,11 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
         orig, new, snap_before, snap_after = preview_workspace(
             root, item.path, state_home(), session)
     except IsolationError as exc:
+        if (not target.is_file() or target.is_symlink() or
+                sha_file(target) != session["baseline_sha256"]):
+            return mark_concurrent_edit(
+                item, state, "Target changed during isolated validation",
+                duration_seconds=duration, usage=usage, transcript=str(transcript))
         state["status"] = "stopped_on_unexpected_edits"
         state["error"] = str(exc)
         save_state(state)
@@ -425,7 +444,15 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
     applied = False
     if not fatal:
         # All mechanical rejection checks run BEFORE the atomic copyback.
-        applied = apply_file(root, item.path, orig, new, session)
+        try:
+            applied = apply_file(root, item.path, orig, new, session)
+        except IsolationError:
+            if (not target.is_file() or target.is_symlink() or
+                    sha_file(target) != session["baseline_sha256"]):
+                return mark_concurrent_edit(
+                    item, state, "Target changed immediately before copyback",
+                    duration_seconds=duration, usage=usage, transcript=str(transcript))
+            raise
     outcome = ("needs_human" if fatal or findings or not applied else "edited_local")
     summary_text = summary.read_text(encoding="utf-8", errors="replace") if summary.exists() else ""
     snapshots = {"before": snap_before, "after": snap_after}
@@ -450,12 +477,46 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
     return "done"
 
 
+def refresh_round2_queue(root: Path, base: str, state: dict) -> list[str]:
+    """Reconcile the current local Round 2 additions after subsequent commits.
+
+    HEAD identifies which imports belong to this branch, but never freezes
+    editorial processing. Every file's actual text is read from the working
+    tree immediately before its Codex task.
+    """
+    from kalam_codex import added_files, inspect_text
+    paths = []
+    tasks, languages = Counter(), Counter()
+    for rel in added_files(base):
+        target = root / rel
+        if not target.is_file() or target.is_symlink():
+            continue
+        try:
+            text = target.read_text(encoding="utf-8")
+        except FileNotFoundError:
+            continue  # Dedup deleted this while we refreshed the list.
+        item = inspect_text(rel, text)
+        paths.append(rel)
+        tasks[item.task] += 1
+        languages[item.lang or "unknown"] += 1
+    # Read across the alphabet rather than running all Roman tasks first,
+    # so Codex reviews earlier letters while dedup progresses to later ones.
+    paths.sort(key=lambda path: (path.casefold(), path))
+    prior = state.get("planned", {})
+    state["planned"] = {
+        "total": len(paths),
+        "by_task": dict(tasks), "by_language": dict(languages),
+        "started_at": prior.get("started_at") or utcnow().isoformat(timespec="seconds"),
+    }
+    save_state(state)
+    return paths
+
+
 def supervise(args) -> int:
-    """Sequential finite queue; excludes originals and skipped/unclassified entries."""
+    """Sequential resumable queue; tolerate concurrent later-letter dedup commits."""
     from dataclasses import replace
-    from kalam_codex_quality import TASK_ORDER
     from kalam_codex import (
-        ROOT, ROUND2, added_files, base_ref, inspect_text, prompt_for,
+        ROOT, ROUND2, base_ref, inspect_text, prompt_for,
     )
     with exclusive_lock():
         branch = git(ROOT, "branch", "--show-current").strip()
@@ -463,7 +524,6 @@ def supervise(args) -> int:
             raise WorkerError("Worker must run on " + ROUND2 + ", not " + branch)
         if not args.confirm_run:
             raise WorkerError("Explicit --confirm-run is required")
-        head = git(ROOT, "rev-parse", "HEAD").strip()
         base = base_ref(args.base)
         state = load_state()
         existing_repo = state.get("repository")
@@ -473,57 +533,66 @@ def supervise(args) -> int:
         state["branch"] = ROUND2
         state["status"] = "running"
         save_state(state)
-        paths = added_files(base)
-        # Stable work priority: create missing Roman, audit existing Roman,
-        # only then reconstruct source script directly from Roman.
-        # Never preempt a saved in-flight file when resuming.
-        priorities = {}
-        for path in paths:
-            scan = inspect_text(path, (ROOT / path).read_text(encoding="utf-8"))
-            priorities[path] = TASK_ORDER.get(scan.task, 9)
-        paths.sort(key=lambda path: (priorities[path], path))
-        original_count = len(paths)
-        planned_tasks, planned_langs = Counter(), Counter()
-        for rel in paths:
-            item = inspect_text(rel, (ROOT / rel).read_text(encoding="utf-8"))
-            planned_tasks[item.task] += 1
-            planned_langs[item.lang or "unknown"] += 1
-        state["planned"] = {
-            "total": original_count, "by_task": dict(planned_tasks),
-            "by_language": dict(planned_langs),
-            "started_at": state.get("planned", {}).get("started_at") or
-                          utcnow().isoformat(timespec="seconds")}
-        save_state(state)
-        print(f"Round 2 worker: {original_count} added kalams, one Codex file at a time",
-              "state:", state_file(), flush=True)
+        last_head = git(ROOT, "rev-parse", "HEAD").strip()
+        paths = refresh_round2_queue(ROOT, base, state)
+        print(f"Round 2 worker: {len(paths)} locally present added kalams, "
+              "alphabetical, one Codex file at a time; "
+              "dedup commits allowed. State:", state_file(), flush=True)
         while True:
+            # Switching branches is still unsafe, but new commits on this
+            # same branch are routine and never stop an isolated Codex edit.
             if git(ROOT, "branch", "--show-current").strip() != ROUND2:
                 raise WorkerError("Git branch changed during processing; stopped safely")
-            if git(ROOT, "rev-parse", "HEAD").strip() != head:
-                raise WorkerError("Branch HEAD changed during processing. "
-                                  "Stop dedup/commits and restart the service to refresh scope")
             wait_retry(state)
+            new_head = git(ROOT, "rev-parse", "HEAD").strip()
+            if new_head != last_head:
+                paths = refresh_round2_queue(ROOT, base, state)
+                last_head = new_head
+                print("Round 2 dedup commit detected; refreshed local queue:",
+                      len(paths), "files. Existing Codex results retained.",
+                      flush=True)
             pending = [rel for rel in paths if rel not in state["results"]]
             in_flight = state.get("current_path")
+            # If a simultaneous dedup commit removed/renamed the in-flight
+            # file, preserve its isolated content and continue other files.
+            if in_flight and in_flight not in pending and state.get("workspace_session"):
+                from kalam_codex import Candidate
+                from kalam_codex_isolation import IsolationError
+                item = Candidate(in_flight, state.get("current_task", "blocked"),
+                                 "", "", 0, 0, "Changed during dedup")
+                mark_concurrent_edit(item, state, "In-flight poem removed or renamed during dedup")
+                pending = [rel for rel in paths if rel not in state["results"]]
             if in_flight and in_flight in pending:
                 pending.remove(in_flight)
                 pending.insert(0, in_flight)
             if not pending:
+                # HEAD may have changed between the last scan and exhaustion.
+                final_head = git(ROOT, "rev-parse", "HEAD").strip()
+                if final_head != last_head:
+                    paths = refresh_round2_queue(ROOT, base, state)
+                    last_head = final_head
+                    continue
                 state["current_path"] = None
                 state["status"] = "complete"
                 save_state(state)
                 counts = Counter(v.get("status") for v in state["results"].values())
-                print("Round 2 queue exhausted:", original_count,
-                      "source files. Outcomes:", dict(counts), flush=True)
+                print("Round 2 local queue exhausted:", len(paths),
+                      "eligible files. Outcomes:", dict(counts), flush=True)
                 return 0
             rel = pending[0]
             target = ROOT / rel
             if not target.is_file() or target.is_symlink():
                 from kalam_codex import Candidate
                 update_result(state, Candidate(rel, "blocked", "", "", 0, 0, ""),
-                              "missing", details="File removed during work")
+                              "missing", details="File removed during dedup")
                 continue
-            item = inspect_text(rel, target.read_text(encoding="utf-8"))
+            try:
+                item = inspect_text(rel, target.read_text(encoding="utf-8"))
+            except FileNotFoundError:
+                from kalam_codex import Candidate
+                update_result(state, Candidate(rel, "blocked", "", "", 0, 0, ""),
+                              "missing", details="File removed during dedup")
+                continue
             if state.get("current_path") == rel and state.get("current_task") in ("source", "roman", "audit"):
                 item = replace(item, task=state["current_task"])
             if item.task in ("skip", "blocked"):

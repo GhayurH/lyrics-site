@@ -1,0 +1,26 @@
+name: One-time Codex concurrent dedup safety
+on:
+  push:
+    branches: [round2-kalams-2026-11-14]
+    paths:
+      - scripts/kalam_codex_worker.py
+      - tests/test_kalam_codex_worker.py
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Compile Codex worker
+        run: python3 -m py_compile scripts/kalam_codex.py scripts/kalam_codex_isolation.py scripts/kalam_codex_worker.py scripts/kalam_codex_quality.py
+      - name: Run worker and editorial safety fixtures
+        run: python3 -m unittest discover -s tests -p 'test_kalam_codex*.py' -v
+      - name: Validate read-only queue
+        run: |
+          python3 scripts/kalam_codex.py plan --limit 5
+          python3 scripts/kalam_codex.py status --json
+          git diff --check

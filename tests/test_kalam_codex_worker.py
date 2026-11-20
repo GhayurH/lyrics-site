@@ -31,16 +31,6 @@ class WorkerTests(unittest.TestCase):
         self.assertGreater(result, now)
         self.assertLess(result - now, dt.timedelta(hours=25))
 
-    def test_existing_dirty_path_modification_detected(self):
-        before = {"old.md": (14, 100, 1), "target.md": (10, 10, 1)}
-        after = {"old.md": (22, 110, 1), "target.md": (15, 20, 1)}
-        self.assertEqual(worker.unsafe_changes(before, after, "target.md"), ["old.md"])
-
-    def test_selected_file_may_be_dirty_without_false_positive(self):
-        before = {"a.md": (4, 10, 1)}
-        after = {"a.md": (5, 20, 1)}
-        self.assertEqual(worker.unsafe_changes(before, after, "a.md"), [])
-
     def test_transcript_quota_json_event(self):
         with tempfile.TemporaryDirectory() as folder:
             logfile = Path(folder) / "codex.jsonl"
@@ -127,7 +117,7 @@ class WorkerTests(unittest.TestCase):
                     ["git", "-C", str(repo), "log", "-1", "--pretty=%s"],
                     capture_output=True, text=True).stdout.strip(), "fixture")
 
-    def test_detects_edits_to_an_already_dirty_unrelated_file(self):
+    def test_codex_cannot_create_unrelated_file_in_isolation(self):
         with tempfile.TemporaryDirectory() as folder:
             repo = self.setup_repo(folder)
             state = {"version": 1, "results": {}}
@@ -142,6 +132,150 @@ class WorkerTests(unittest.TestCase):
                     with self.assertRaises(worker.WorkerError):
                         worker.perform_one(repo, item, state, lambda x: "editorial task")
                 self.assertEqual(state["status"], "stopped_on_unexpected_edits")
+
+    def test_unrelated_later_letter_dedup_commit_does_not_stop_codex(self):
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            target = repo / "poem.md"
+            target.write_text(
+                '---\nlang: ur\nlanguage: Urdu\n---\n۱\nاے حسین تم آؤ',
+                encoding="utf-8")
+            other = repo / "other.md"
+            state = {"version": 1, "results": {}}
+            item = SimpleNamespace(path="poem.md", task="roman",
+                                   language="Urdu", lang="ur")
+            transcript = Path(folder) / "codex.jsonl"
+            transcript.write_text("", encoding="utf-8")
+            def codex_with_parallel_dedup(workspace, candidate, prompt, model):
+                other.write_text("Later-letter dedup commit", encoding="utf-8")
+                subprocess.run(["git", "-C", str(repo), "add", "other.md"], check=True)
+                subprocess.run(["git", "-C", str(repo), "commit", "-qm",
+                                "Continue dedup"], check=True)
+                (workspace / candidate.path).write_text(
+                    '---\nlang: ur\nlanguage: Urdu\nromanLyrics: |-\n'
+                    '  1\n  Ae Husain tum aao\n---\n۱\nاے حسین تم آؤ',
+                    encoding="utf-8")
+                return 0, transcript, Path(folder) / "summary"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
+                with patch.object(worker, "invoke_codex", side_effect=codex_with_parallel_dedup):
+                    self.assertEqual(worker.perform_one(
+                        repo, item, state, lambda _: "task"), "done")
+            self.assertEqual(state["results"]["poem.md"]["status"], "edited_local")
+            self.assertEqual(other.read_text(encoding="utf-8"), "Later-letter dedup commit")
+            self.assertIn("romanLyrics: |-", target.read_text(encoding="utf-8"))
+
+    def test_simultaneous_same_file_edit_is_quarantined_without_copyback(self):
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            target = repo / "poem.md"
+            original = '---\nlang: ur\nlanguage: Urdu\n---\n۱\nاے حسین تم آؤ'
+            target.write_text(original, encoding="utf-8")
+            state = {"version": 1, "results": {}}
+            item = SimpleNamespace(path="poem.md", task="roman",
+                                   language="Urdu", lang="ur")
+            transcript = Path(folder) / "codex.jsonl"
+            transcript.write_text("", encoding="utf-8")
+            def simultaneous_edit(workspace, candidate, prompt, model):
+                target.write_text(original.replace("حسین", "حسن"), encoding="utf-8")
+                (workspace / candidate.path).write_text(
+                    original.replace("---\n۱", "romanLyrics: |-\n"
+                                              "  1\n  Ae Husain tum aao\n---\n۱"),
+                    encoding="utf-8")
+                return 0, transcript, Path(folder) / "summary"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
+                with patch.object(worker, "invoke_codex", side_effect=simultaneous_edit):
+                    self.assertEqual(worker.perform_one(
+                        repo, item, state, lambda _: "task"), "done")
+            self.assertEqual(state["results"]["poem.md"]["status"], "concurrent_edit")
+            self.assertFalse(state["results"]["poem.md"]["applied"])
+            self.assertEqual(target.read_text(encoding="utf-8"),
+                             original.replace("حسین", "حسن"))
+            self.assertIsNone(state.get("workspace_session"))
+            saved = state["results"]["poem.md"]["snapshots"]
+            self.assertEqual(Path(saved["before"]).read_text(encoding="utf-8"), original)
+            self.assertIn("romanLyrics", Path(saved["after"]).read_text(encoding="utf-8"))
+
+    def test_resumed_workspace_with_dedup_changes_is_quarantined(self):
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            target = repo / "poem.md"
+            original = '---\nlang: ur\nlanguage: Urdu\n---\n۱\nاے حسین تم آؤ'
+            target.write_text(original, encoding="utf-8")
+            state = {"version": 1, "results": {}}
+            item = SimpleNamespace(path="poem.md", task="roman",
+                                   language="Urdu", lang="ur")
+            transcript = Path(folder) / "codex.jsonl"
+            transcript.write_text(
+                json.dumps({"type": "turn.failed", "error": {
+                    "message": "Quota exceeded"}}), encoding="utf-8")
+            def quota_failure(workspace, candidate, prompt, model):
+                (workspace / candidate.path).write_text(original + "\nPartial", encoding="utf-8")
+                return 1, transcript, Path(folder) / "summary"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
+                with patch.object(worker, "invoke_codex", side_effect=quota_failure) as codex:
+                    self.assertEqual(worker.perform_one(
+                        repo, item, state, lambda _: "task"), "retry")
+                    target.write_text(original.replace("حسین", "حسن"), encoding="utf-8")
+                    self.assertEqual(worker.perform_one(
+                        repo, item, state, lambda _: "task"), "done")
+                    self.assertEqual(codex.call_count, 1)
+            self.assertEqual(state["results"]["poem.md"]["status"], "concurrent_edit")
+            self.assertEqual(target.read_text(encoding="utf-8"),
+                             original.replace("حسین", "حسن"))
+            self.assertIn("Partial",
+                          Path(state["results"]["poem.md"]["snapshots"]["after"])
+                          .read_text(encoding="utf-8"))
+
+    def test_queue_refresh_and_alphabetical_processing_across_head_commits(self):
+        import kalam_codex
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            subprocess.run(["git", "-C", str(repo), "branch", "main"], check=True)
+            subprocess.run(["git", "-C", str(repo), "checkout", "-qb",
+                            kalam_codex.ROUND2], check=True)
+            lyric_dir = repo / "src/data/lyrics"
+            lyric_dir.mkdir(parents=True)
+            a = lyric_dir / "a-source.md"
+            a.write_text(
+                '---\nlanguage: Urdu\nlang: ur\ntags: ["noUrdu"]\n'
+                '---\nAe Husain tum aao', encoding="utf-8")
+            c = lyric_dir / "c-roman.md"
+            c.write_text(
+                '---\nlanguage: Urdu\nlang: ur\n---\nاے حسین تم آؤ',
+                encoding="utf-8")
+            subprocess.run(["git", "-C", str(repo), "add", "src/data/lyrics"],
+                           check=True)
+            subprocess.run(["git", "-C", str(repo), "commit", "-qm", "initial imports"],
+                           check=True)
+            state_dir = folder + "/state"
+            queued = []
+            def concurrent_commit(root, item, state, prompt_for, *, model=None):
+                queued.append(item.path)
+                worker.update_result(state, item, "edited_local", digest="fixture")
+                if len(queued) == 1:
+                    b = lyric_dir / "b-roman.md"
+                    b.write_text(
+                        '---\nlanguage: Urdu\nlang: ur\n---\nاے حسین تم آؤ',
+                        encoding="utf-8")
+                    subprocess.run(["git", "-C", str(repo), "add", "src/data/lyrics"],
+                                   check=True)
+                    subprocess.run(["git", "-C", str(repo), "commit", "-qm",
+                                    "later dedup commit"], check=True)
+                return "done"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": state_dir}):
+                with patch.object(kalam_codex, "ROOT", repo), \
+                     patch.object(worker, "perform_one", side_effect=concurrent_commit):
+                    code = worker.supervise(
+                        SimpleNamespace(confirm_run=True, base="main", model=None))
+                final = worker.load_state()
+            self.assertEqual(code, 0)
+            self.assertEqual(queued, [
+                "src/data/lyrics/a-source.md",
+                "src/data/lyrics/b-roman.md",
+                "src/data/lyrics/c-roman.md"])
+            self.assertEqual(final["status"], "complete")
+            self.assertEqual(len(final["results"]), 3)
+            self.assertEqual(final["planned"]["total"], 3)
 
     def test_quota_retry_accounts_for_consumed_tokens(self):
         with tempfile.TemporaryDirectory() as folder:
