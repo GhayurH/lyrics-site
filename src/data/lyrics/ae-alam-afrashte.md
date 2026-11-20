@@ -1,5 +1,6 @@
 ---
 title: "اے علم افراشتے"
+alternateTitle: "Ae Alam Afraashte"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,93 +9,63 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ay Alam Afrashtey Bar Sare Karbobala
+  Ae alam afraashte bar sar-e-Karb o Bala
 
   1
-  Quwate Bardaashte Bar Sare Karbobala
+  Quwwat-e-bardaashte bar sar-e-Karb o Bala
+  Kehte the shaah-e-umam bar sar-e-Karb o Bala
+  Uth zara lehra alam bar sar-e-Karb o Bala
 
   2
-  Kehte The Shaahe Umam Bar Sare Karbobala
-  Uth Zara Lehra Alam Bar Sare Karbobala
-  Ay Alam Afrashtey Bar Sare Karbobala…..(2)
-  Ghaazi Alamdaare Man…..(4)
-  Khiz Ze Jaao Mazan…………..Alamdar
-  Shole Be Damaane Eshq…………..Alamdar
-  Miravi – O- Umishavad…………..Alamdar
-  Chaaq Gharibaane Eshq…………..Alamdar
-  Sowte Haram Gush Kun…………..Alamdar
-  Mashqamo Borde Ast…………..Alamdar
-  Khiz Bipa Ya Akhaa…………..Alamdar
-  Vaqte Alamdaari Asat…………..Alamdar
-  Kaare Yatimaane Man Va Atash O Zaari Ast….. (2)
-  Ay Alam Afrashtey Bar Sare Karbobala…..(2)
-  Ghaazi Alamdaare Man…..(4)
-  Ay Mere Khasta Jigar…………..Alamdar
-  Kha Gai Um Ko Nazar…………..Alamdar
-  Kiska Shakista Hai Sar…………..Alamdar
-  Khoon Me Ho Tar Batar…………..Alamdar
-  Shote Ho Tum To Idhar…………..Alamdar
-  Rote Hai Bacche Udharv…………..Alamdar
-  Jin Ko Nahi Hai Khabarv…………..Alamdar
-  Ammu Na Aaiyenge Ghar…………..Alamdar
-  Ghazi Alamdaare Man Koshta –E- Teghe Jaafa…..(2)
-  Ay Alam Afrashtey Bar Sare Karbobala…..(2)
-  Ghaazi Alamdaare Man…..(4)
-  Khizze Kalbe Turab …………..Alamdar
-  Ay Pisare Buturab…………..Alamdar
-  Naalae Tiflanch Re…………..Alamdar
-  Zikre Amu Jiye Ye Aa…………..Alamdar
-  Khaaq Zi Chashme Haram…………..Alamdar
-  Shude Furaaket Tukwah…………..Alamdar
-  Khanda Ye Dushman Bibi…………..Alamdar
-  Barmane Khane Kharab…………..Alamdar
-  Dehre Kamunumdar Alam Zakhme Gum Makkariya …..(2)
-  Ay Alam Afrashtey Bar Sare Karbobala…..(2)
-  Ghaazi Alamdaare Man…..(4)
-  Ay Mere Bhaiya Suno…………..Alamdar
-  Aaj To Bhaaiya Kaho…………..Alamdar
-  Khaak Se Ab To Utho…………..Alamdar
-  Aao Chalo Ghar Chalo…………..Alamdar
-  Chal Ke Bahen Se Milo…………..Alamdar
-  Pyaar Sakina Ko Do…………..Alamdar
-  Gaud Me Aasghar Ko Lo…………..Alamdar
-  Apna Alam Le Chalo…………..Alamdar
-  Ghazi Alamdare Man Deti Hai Zainab Sada …..(2)
-  Ay Alam Afrashtey Bar Sare Karbobala…..(2)
-  Ghaazi Alamdaare Man…..(4)
-  Name To Jaan Mibarad…………..Alamdar
-  Baazu Baraadar Begu…………..Alamdar
-  Montazarat Zainab Ast…………..Alamdar
-  Biya O Khahar Begu…………..Alamdar
-  Jaaneman Ay Khasta Dil…………..Alamdar
-  Javaabe Dokhtar Begu…………..Alamdar
-  Biya O Kissa E Aab…………..Alamdar
-  Baraaye Asghar Begu…………..Alamdar
-  Aah Panaaham Bebin Zamaane Biyaari Ast….. (2)
-  Ay Alam Afrashtey Bar Sare Karbobala…..(2)
-  Ghaazi Alamdaare Man…..(4)
-  Nehr Pe Kabza Kiya …………..Alamdar
-  Pyaas Bhi Faaqa Bhi Tha…………..Alamdar
-  Phir Bhi Na Pani Piya…………..Alamdar
-  Dhyan Sakina Ka Tha…………..Alamdar
-  Kar Na Sake Tum Viga…………..Alamdar
-  Khub Nibhayi Wafa…………..Alamdar
-  Baazu Kalam Ho Gaya…………..Alamdar
-  Khaaq Pe Khun Behgaya…………..Alamdar
-  Gazi Alamdareman Shehre Wafaa Lutgaya….. (2)
-  Ay Alam Afrashtey Bar Sare Karbobala…..(2)
-  Ghaazi Alamdaare Man…..(4)
-  Haaye Akh Alwida…………..Alamdar
-  Shere Jari Alwida…………..Alamdar
-  Ibne Ali Alwida…………..Alamdar
-  Jaan Chali Alwida…………..Alamdar
-  Ay Sakhi Ibne Sakhi…………..Alamdar
-  Haaye Teri Bekasi…………..Alamdar
-  Karte Hai Sina Zani…………..Alamdar
-  Sarwar O Rehan Bhi…………..Alamdar
-  Ghazi Alamandaare Man Zinda Rahe Tu Sada…..(2)
-  Ay Alam Afrashtey Bar Sare Karbobala…..(2)
-  Ghaazi Alamdaare Man…..(4)
+  Ghaazi alamdaar-e-man - ghaazi alamdaar-e-man
+  Khiz ze jaa o mazan shola be daamaan-e-ishq
+  Miravi o mishavad chaak-e-girebaan-e-ishq
+  Saut-e-haram gosh kun mashk-e-Ammu borde ast
+  Khiz be paa ya akhaa waqt-e-alamdaari ast
+  Kaar-e-yatimaan-e-man waa atash o zaari ast
+
+  3
+  Ghaazi alamdaar-e-man - ghaazi alamdaar-e-man
+  Ae mere khasta jigar, khaa gai tum ko nazar
+  Kaisa shikasta hai sar, khun mein ho tarbatar
+  Sote ho tum to idhar, rote haiṅ bachche idhar
+  Jin ko nahiṅ hai khabar, Ammu na aaeṅ ge ghar
+  Ghaazi alamdaar-e-man - kushta-e-tegh-e-jafa
+
+  4
+  Ghaazi alamdaar-e-man - ghaazi alamdaar-e-man
+  Khiz ze qalb-e-turaab ae pisar-e-Buturaab
+  Naala-e-tiflaan shoda zikr-e-Ammu jaa-e-aab
+  Khwaab ze chashm-e-haram shod ze firaaq-e-to khwaab
+  Khanda-e-dushman bebin bar man-e-khaana kharaab
+  Bahr-e-kamaan kardanam zakhm-e-ghamat kaari ast
+
+  5
+  Ghaazi alamdaar-e-man - ghaazi alamdaar-e-man
+  Ae mere bhaiya suno, aaj to bhaai kaho
+  Khwaab se ab tum utho, aao chalo ghar chalo
+  Chal ke bahan se milo, pyaar Sakina ko do
+  God mein Asghar ko lo, apna alam le chalo
+  Ghaazi alamdaar-e-man - deti hai Zainab sada
+
+  6
+  Ghaazi alamdaar-e-man - ghaazi alamdaar-e-man
+  Naam-e-to jaan mibarad baaz baraadar begu
+  Muntazirat Zainab ast biyaa o khwaahar begu
+  Jaan-e-man khasta dil jawaab-e-dokhtar begu
+  Biyaa o qissa-e-aab baraa-e-Asghar begu
+  Aah panaaham bebin zamaan-e-bi yaari ast
+
+  7
+  Ghaazi alamdaar-e-man - ghaazi alamdaar-e-man
+  Haaye akhi alwidaa, sher-e-jari alwidaa
+  Ibn-e-Ali alwidaa, jaan-e-Ali alwidaa
+  Ae sakhi ibn-e-sakhi, haaye teri bekasi
+  Karte haiṅ sina zani, Sarwar o Rehan bhi
+  Ghaazi alamdaar-e-man - zinda rahe tu sada
+
+  8
+  Ghaazi alamdaar-e-man - ghaazi alamdaar-e-man
 # source_id: ziyaraat:b1d6ace59214262beece
 # source_url: https://www.ziyaraat.net/api/noha/1011
 # raw_sha256: 3afe055ba437379467e27e314cebbf5837687b16e3f97416233fab1a5bc4b91a

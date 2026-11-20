@@ -1,41 +1,69 @@
 ---
-title: "Abbas Bhira Da Ser Shahrukh Abbas Khan Saqlain Abbas Khan Lyrics In Punjabi 2026"
+title: "عباس بھرا دا سر"
+alternateTitle: "Abbas Bhira Da Ser"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:c8cb2b1e0fd18a733112
 # source_url: https://tajpoints.com/2026/07/abbas-bhira-da-ser-shahrukh-abbas.html
 # raw_sha256: daff9959342fe0f940ae987db56825cdf0e1fbe78067f2b764befb7ee902ff72
+romanLyrics: |-
+  Abbas bhira da sir tak ke deway Zainab sain dohaiyaan
+  Kehra agla shehar aye qaidnaa layi mainu puchdiyaan ne bharjaiyaan
+
+  1
+  Main ki dasaan kinj bolna aye kinj kand de ohlay howana aye
+  Main v darbar di peshi te aj pehli wari aayi aan
+  Darbar di peshi te Ghazi main maa nu sochdi aa pohanchi
+  Te Fidak de khutbay waliyaan galaan yadaan wich dohraiyan
+
+  2
+  Darbar de wich sir Ghazi da hoya oss welay be chain aye
+  Jadon Shimar ne aakhiya le aao Abbas di qaidan bhain aye
+  Hik pasay sir Abbas da hayi hik pasay veer Hussain aye
+  Aa wekh Ghazi main ujari nu rayi kardi Zainab wain aye
+
+  3
+  Darbar di peshi de welay mastoraan te mastoraan ne
+  Jithon Abid v na guzar sakay aina oh rahwaan apnaiyan
+  Har shehar ich apne jitan da aina wakhrey rang ayelan kita
+  Kadi sir lehraye neziyaan te kadi chadraan ne lehraiyan
+
+  4
+  Aye aakh Sakina rondi aye chachay di nishani mil jaway
+  Mashkezay naal wandawaan gi main qaid diyaan tanhaiyaan
+  Akbar aye bibi wain karey almaan walay diyaan bhaina waan
+  Tere sir di qasam assi safraan wich kisay moor te nayi ghabraiyan
 ---
 
-Abbas Bhira Da Sir Tak Ke Deway Zainab Sain Dohaiyaan.
-Kehra Agla Shehar Aye Qaidnaa Layi Mainu Puchdiyaan Ne Bharjaiyaan.
+عباس بھرا دا سر تک کے دیوے زینب سائیں دہائیاں
+کیہڑا اگلا شہر اے قیدناں لئی مینوں پچھدیاں نے بھرجائیاں
 
-1
-Main Ki Dasaan Kinj Bolna Aye Kinj Kand De Ohlay Howana Aye.
-Main V Darbar Di Peshi Te Aj Pehli Wari Aayi Aan.
-Darbar Di Peshi Te Ghazi Main Maa Nu Sochdi Aa Pohanchi.
-Te Fidak De Khutbay Waliyaan Galaan Yadaan Wich Dohraiyan.
+۱
+میں کی دساں کنج بولنا اے کنج کندھ دے اوہلے ہوونا اے
+میں وی دربار دی پیشی تے اج پہلی واری آئی آں
+دربار دی پیشی تے غازی میں ماں نوں سوچدی آ پہنچی
+تے فدک دے خطبے والیاں گلاں یاداں وچ دہرائیاں
 
-2
-Darbar De Wich Sir Ghazi Da Hoya Oss Welay Be Chain Aye.
-Jadon Shimar Ne Aakhiya Le Aao Abbas Di Qaidan Bhain Aye.
-Hik Pasay Sir Abbas Da Hayi Hik Pasay Veer Hussain Aye.
-Aa Wekh Ghazi Main Ujari Nu Rayi Kardi Zainab Wain Aye.
+۲
+دربار دے وچ سر غازی دا ہویا اوس ویلے بے چین اے
+جدوں شمر نے آکھیا لے آؤ عباس دی قیدن بھین اے
+ہک پاسے سر عباس دا ہئی ہک پاسے ویر حسین اے
+آ ویکھ غازی میں اجڑی نوں رہی کردی زینب وین اے
 
-3
-Darbar Di Peshi De Welay Mastoraan Te Mastoraan Ne.
-Jithon Abid V Na Guzar Sakay Aina Oh Rahwaan Apnaiyan.
-Har Shehar Ich Apne Jitan Da Aina Wakhrey Rang Ayelan Kita.
-Kadi Sir Lehraye Neziyaan Te Kadi Chadraan Ne Lehraiyan.
+۳
+دربار دی پیشی دے ویلے مستوراں تے مستوراں نے
+جتھوں عابد وی نہ گزر سکے اینہاں اوہ راہواں اپنائیاں
+ہر شہر اچ اپنے جتن دا اینہاں وکھرے رنگ اعلان کیتا
+کدی سر لہرائے نیزیاں تے کدی چادراں نے لہرائیاں
 
-4
-Aye Aakh Sakina Rondi Aye Chachay Di Nishani Mil Jaway.
-Mashkezay Naal Wandawaan Gi Main Qaid Diyaan Tanhaiyaan.
- Akbar Aye Bibi Wain Karey Almaan Walay Diyaan Bhaina Waan.
-Tere Sir Di Qasam Assi Safraan Wich Kisay Moor Te Nayi Ghabraiyan.
+۴
+اے آکھ سکینہ روندی اے چاچے دی نشانی مل جاوے
+مشکیزے نال ونڈاواں گی میں قید دیاں تنہائیاں
+اکبر اے بی بی وین کرے علماں والے دیاں بھیناں واں
+تیرے سر دی قسم اسیں سفراں وچ کسے موڑ تے نئیں گھبرائیاں

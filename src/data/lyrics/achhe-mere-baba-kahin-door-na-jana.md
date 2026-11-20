@@ -10,52 +10,54 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Haye Kya Alam-e-Tanhai Hai
-  Jab Aakhri Rukhsat Ko Chale Syed-e-Wala
-  Kuhram Tha Dil Hote The Gham Se Tah o Bala
-  Shabir Ne Godi Se Sakina Ko Utara
-  Ghazi Ko Kabhi Akbar o Qasim Ko Pukara
-  Baba Ko Qasam De Ke Bulati Thi Sakina
-  Sar Pitti Piche Chali Jati Thi Sakina
-  Ache Mere Baba Haye Kya Alam-e-Tanhai Hai
-  Ache Mere Baba Na Sakina Se Chupana
-  Kahiṅ Dur Na Jana
-  Dil Rota Hai Kiuṅ Pehna Hai Malbus Porana
+  Haye kya aalam-e-tanhai hai
+  Jab aakhri rukhsat ko chale Sayyid-e-waala
+  Kohraam tha dil hote the gham se tah o baala
+  Shabbir ne godi se Sakina ko utaara
+  Ghazi ko kabhi Akbar o Qasim ko pukaara
+  Baba ko qasam de ke bulaati thi Sakina
+  Sar pitti pichhe chali jaati thi Sakina
+  Achhe mere Baba haye kya aalam-e-tanhai hai
+
+  Achhe mere Baba na Sakina se chhupaana
+  Kahiṅ dur na jaana
+
+  Dil rota hai kiuṅ pehna hai malbus puraana
 
   1
-  Iss Tarha Safar Par Koi Jata Nahi Dekha
-  Pehne Tumheiṅ Aisa Kabhi Kurta Nahi Dekha
-  Maiṅ Jan Gayi Aaj Hai Maqtal Meiṅ Thikana
+  Is tarah safar par koi jaata nahiṅ dekha
+  Pehne tumheiṅ aisa kabhi kurta nahiṅ dekha
+  Main jaan gayi aaj hai maqtal mein thikaana
 
   2
-  Sheh Bole Maiṅ Qurban Meri Jan Sakina
-  Ik Wadah Hai Jo Aaj Nibhana Hai Sakina
-  Khaimoṅ Se Nikal Kar Na Humeiṅ Dhondne Aana
+  Shah bole main qurbaan meri jaan Sakina
+  Ik waada hai jo aaj nibhaana hai Sakina
+  Khaimoṅ se nikal kar na hameiṅ dhundne aana
 
   3
-  Kal Raat Se Bechain The Maiṅ Dekh Rahi Thi
-  Maiṅ Sine Pe Leti Thi Magar Soyi Kahaṅ Thi
-  Ab Samjhi Tumheiṅ Hum Se Bohat Dur Hai Jana
+  Kal raat se bechain the main dekh rahi thi
+  Main sine pe leti thi magar soi kahaaṅ thi
+  Ab samjhi tumheiṅ ham se bahut dur hai jaana
 
   4
-  Aata Hai Nazar Haal Gharibi Ka Tumhari
-  Lagta Hai Yeh Saman Yatimi Ka Hamari
-  Baba Humeiṅ Jine Nahi Deta Yeh Zamana
+  Aata hai nazar haal gharibi ka tumhaari
+  Lagta hai yeh saamaan yatimi ka hamaari
+  Baba hameiṅ jine nahiṅ deta yeh zamaana
 
   5
-  Akbar Kabhi Asghar Kabhi Qasim Ne Rulaya
-  Jo Ran Ko Gaya Aaj Palat Kar Nahi Aaya
-  Bholi Nahi Ab Tak Maiṅ Chacha Jan Ka Jana
+  Akbar kabhi Asghar kabhi Qasim ne rulaaya
+  Jo ran ko gaya aaj palat kar nahiṅ aaya
+  Bhuli nahiṅ ab tak main chacha jaan ka jaana
 
   6
-  Pehlu Se Sheh-e-Deiṅ Ke Na Hatti Thi Sakina
-  Daman Kabhi Qadmo Se Lipatti Thi Sakina
-  Tarpaya Hai Yeh Aap Ka Daman Ko Chorana
+  Pehlu se Shah-e-diṅ ke na hatti thi Sakina
+  Daaman kabhi qadmoṅ se lipatti thi Sakina
+  Tarpaaya hai yeh aap ka daaman ko chhuraana
 
   7
-  Ae Sarwar o Rehan Yeh Kehne Lage Sarwar
-  Hum Bhi Wahiṅ Jate Haiṅ Jahaṅ Sote Haiṅ Asghar
-  Beti Phophi Amma Ko Na Ro Ro Ke Rolana
+  Ae Sarwar o Rehan yeh kehne lage Sarwar
+  Ham bhi wahiṅ jaate haiṅ jahaaṅ sote haiṅ Asghar
+  Beti phuphi ammaṅ ko na ro ke rulaana
 # source_id: ziyaraat:0dc0403007c7f30f483a
 # source_url: https://www.ziyaraat.net/api/noha/1229
 # raw_sha256: 458a07a39f22828551ea059b6aa9dab7e60ec16e276dd229720fa522aa1f5908

@@ -1,39 +1,65 @@
 ---
-title: "Abbas Na Lautey Sajjad Ashraf Taqvi"
+title: "عباس نہ لوٹے سجاد اشرف تقوی"
+alternateTitle: "Abbas Na Lautey Sajjad Ashraf Taqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Asif"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:a67468bf8a099152bece
 # source_url: https://tajpoints.com/2022/08/abbas-na-lautey-sajjad-ashraf-taqvi.html
 # raw_sha256: 38bfd2254cdd4fffcfe9938efc546f8688ff7d6acd21efb7da222f5cd406d80a
+romanLyrics: |-
+  1
+  Abbas na lautey Sajjad Ashraf Taqvi
+  Sahil ki fiza baha gayi, Abbas na laute
+  Bhai ko qaza aa gayi, Abbas na laute
+  Dekha na gaya nehar pe jarrar ka qabza
+  Pani ki nazar kha gayi, Abbas na laute
+  Keh kar tu gaye they keh abhi aata hoon bibi
+  Din dhal gaya raat aa gayi, Abbas na laute
+  Takti rahi takti rahi hasrat se Sakina
+  Aankhon mein nami aa gayi, Abbas na laute
+  Jab dair hoi had se tu ammo ko bulanay
+  Maqtal mein Sakina gayi, Abbas na laute
+  Lipati rahi lashay se sheh-e-dein ki dulari
+  Durron ki sada aa gayi, Abbas na laute
+  Sarwar ka barhapa Ali Akbar ki jawani
+  Khaimay se behan aa gayi, Abbas na laute
+  Halq-e-Ali Asghar pe chala teer-e-qayamat
+  Zulmat ki ghata cha gayi, Abbas na laute
+  Ik aik se ro ro ke yehi kehti thin Zainab
+  Bazu mein rasan aa gayi, Abbas na laute
+  Ghutti rahi roti rahi zindaan mein Sakina
+  Aakhir ko qaza aa gayi, Abbas na laute
+  Woh zulm hoye syed-e-Sajjad pe Asif
+  Zanjeer bhi thara gayi, Abbas na laute
 ---
 
-1
-Abbas Na Lautey Sajjad Ashraf Taqvi.
-Sahil Ki Fiza Baha Gayi Abbas Na Laute.
-Bhai Ko Qaza Aa Gayi Abbas Na Laute.
-Dekha Na Gaya Nehar Pe Jarrar Ka Qabza.
-Pani Ki Nazar Kha Gayi Abbas Na Laute.
-Keh Kar Tu Gaye They Keh Abhi Aata Hoon Bibi.
-Din Dhal Gaya Raat Aa Gayi Abbas Na Laute.
-Takti Rahi Takti Rahi Hasrat Se Sakina.
-Aankhon Mein Nami Aa Gayi Abbas Na Laute.
-Jab Dair Hoi Had Se Tu Ammo Ko Bulanay.
-Maqtal Mein Sakina Gayi Abbas Na Laute.
-Lipati Rahi Lashay Se Sheh-e-Dein Ki Dulari.
-Durron Ki Sada Aa Gayi Abbas Na Laute.
-Sarwar Ka Barhapa Ali Akbar Ki Jawani.
-Khaimay Se Behan Aa Gayi Abbas Na Laute.
-Halq-e-Ali Asghar Pe Chala Teer-e-Qayamat.
-Zulmat Ki Ghata Cha Gayi Abbas Na Laute.
-Ik Aik Se Ro Ro Ke Yehi Kehti Thin Zainab.
-Bazu Mein Rasan Aa Gayi Abbas Na Laute.
-Ghutti Rahi Roti Rahi Zindaan Mein Sakina.
-Aakhir Ko Qaza Aa Gayi Abbas Na Laute.
-Woh Zulm Hoye Syed-e-Sajjad Pe Asif.
-Zanjeer Bhi Thara Gayi Abbas Na Laute.
+۱
+عباس نہ لوٹے سجاد اشرف تقوی
+ساحل کی فضا بہا گئی، عباس نہ لوٹے
+بھائی کو قضا آ گئی، عباس نہ لوٹے
+دیکھا نہ گیا نہر پہ جرّار کا قبضہ
+پانی کی نظر کھا گئی، عباس نہ لوٹے
+کہہ کر تو گئے تھے کہ ابھی آتا ہوں بی‌بی
+دن ڈھل گیا رات آ گئی، عباس نہ لوٹے
+تکتی رہی تکتی رہی حسرت سے سکینہ
+آنکھوں میں نمی آ گئی، عباس نہ لوٹے
+جب دیر ہوئی حد سے تو عمّو کو بلانے
+مقتل میں سکینہ گئی، عباس نہ لوٹے
+لپٹی رہی لاشے سے شہِ دیں کی دلاری
+دُرّوں کی صدا آ گئی، عباس نہ لوٹے
+سرور کا بڑھاپا علی اکبر کی جوانی
+خیمے سے بہن آ گئی، عباس نہ لوٹے
+حلقِ علی اصغر پہ چلا تیرِ قیامت
+ظلمت کی گھٹا چھا گئی، عباس نہ لوٹے
+اک ایک سے رو رو کے یہی کہتی تھیں زینب
+بازو میں رسن آ گئی، عباس نہ لوٹے
+گھٹتی رہی روتی رہی زنداں میں سکینہ
+آخر کو قضا آ گئی، عباس نہ لوٹے
+وہ ظلم ہوئے سیدِ سجاد پہ آصف
+زنجیر بھی تھرّا گئی، عباس نہ لوٹے

@@ -1,10 +1,10 @@
 ---
-title: "Abbas Alam Tera Maqtal Se Aa Raha Hai"
+title: "عباس، علم تیرا مقتل سے آ رہا ہے"
+alternateTitle: "Abbas Alam Tera Maqtal Se Aa Raha Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: nohawriteups:fefaabd809d77b58bdb4
@@ -15,25 +15,70 @@ published: false
 # raw_sha256: a903ed11e3c8bfa7b558cd28cd936d804ea933c0be0227fafd09cbd8a939cc3e
 # source_title_original: Abbas Alam Tera Maqtal Sai Aaraha Hai
 # editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
+romanLyrics: |-
+  Abbas alam tera maqtal sai aaraha hai
+  Shabbir ki kamar ko, haye jukha raha hai
+
+  1
+  Yeh alam Hussainiyat ki pehchan hai karata
+  Yehi Yazeediat kai haar farq ko batata
+  Koi choomta hai aakar, koi jala raha hai
+
+  2
+  Deti thi dilasay main aayai ga abhi pani
+  Sab mil kai dua maango Ghazi ki ho jawani
+  Kyun khaali alam Baba, khaimay mein la raha hai
+
+  3
+  Mushkil kusha ka beta kerta hai yun fayazi
+  Kuch mang kar to dekho deita hai mera Ghazi
+  Hai hath alam par jo, Ghazi bula raha hai
+
+  4
+  Zainab ki khaimeh gaah sai avaaz yeh hai ayi
+  Shabbar ka jo wada tha waapis hoon laynay aayi
+  Tatheer ka hai zamin, maqtal main ja raha hai
+
+  5
+  Masooum ki jaan par hai kya zulam howa dehko
+  Marjaye na Sakina Abbas zara dehko
+  Asghar ki pyaas Hurmal, kaisay bujara ha hai
+
+  6
+  Mamnun tera hun main likhna sikha diya hai
+  Sajaad tu is qabil Mola bana diya hai
+  Teri wafa ki baatain, sab ko suna raha hai
 ---
 
-Abbas Alam Tera Maqtal Sai Aaraha Hai.
-Shabbir Ki Kamar Ko (x2) Haye Jukha Raha Hai.
-Yeh Alam Hussainiyat Ki Pehchan Hai Karata
-Yehi Yazeediat Kai Haar Farq Ko Batata
-Koi Choomta Hai Aakar (x2) Koi Jala Raha Hai.
-Deti Thi Dilasay Main Aayai Ga Abhi Pani
-Sab Mil Kai Dua Maango Ghazi Ki Ho Jawani
-Kyun Khaali Alam Baba (x2) Khaimay Mein La Raha Hai.
-Mushkil Kusha Ka Beta Kerta Hai Yun Fayazi
-Kuch Mang Kar To Dekho Deita Hai Mera Ghazi
-Hai Hath Alam Par Jo (x2) Ghazi Bula Raha Hai.
-Zainab Ki Khaimeh Gaah Sai Avaaz Yeh Hai Ayi
-Shabbar Ka Jo Wada Tha Waapis Hoon Laynay Aayi
-Tatheer Ka Hai Zamin (x2) Maqtal Main Ja Raha Hai.
-Masooum Ki Jaan Par Hai Kya Zulam Howa Dehko
-Marjaye Na Sakina Abbas Zara Dehko
-Asghar Ki Pyaas Hurmal (x2) Kaisay Bujara Ha Hai
-Mamnun Tera Hun Main Likhna Sikha Diya Hai
-Sajaad Tu Is Qabil Mola Bana Diya Hai
-Teri Wafa Ki Baatain (x2) Sab Ko Suna Raha Hai.
+عباس، علم تیرا مقتل سے آ رہا ہے
+شبیر کی کمر کو، ہائے جھکا رہا ہے
+
+۱
+یہ علم حسینیت کی پہچان ہے کراتا
+یہی یزیدیت کے ہر فرق کو بتاتا
+کوئی چومتا ہے آ کر، کوئی جلا رہا ہے
+
+۲
+دیتی تھی دلاسے میں آئے گا ابھی پانی
+سب مل کے دعا مانگو غازی کی ہو جوانی
+کیوں خالی علم بابا، خیمے میں لا رہا ہے
+
+۳
+مشکل کشا کا بیٹا کرتا ہے یوں فیاضی
+کچھ مانگ کر تو دیکھو دیتا ہے میرا غازی
+ہے ہاتھ علم پر جو، غازی بلا رہا ہے
+
+۴
+زینب کی خیمہ گاہ سے آواز یہ ہے آئی
+شبر کا جو وعدہ تھا واپس ہوں لینے آئی
+تطہیر کا ہے ضامن، مقتل میں جا رہا ہے
+
+۵
+معصوم کی جان پر ہے کیا ظلم ہوا دیکھو
+مر جائے نہ سکینہ عباس ذرا دیکھو
+اصغر کی پیاس حرمل، کیسے بجھا رہا ہے
+
+۶
+ممنون تیرا ہوں میں لکھنا سکھا دیا ہے
+سجاد تو اس قابل مولا بنا دیا ہے
+تیری وفا کی باتیں، سب کو سنا رہا ہے

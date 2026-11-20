@@ -11,46 +11,46 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye abbas haye haye abbas
-  Ghairat ka aasmaṅ zainab ka sayebaṅ
-  Kaise zainab ki taraf dekhta abbas ka sar
-  Sharm se khaak pe girta raha abbas ka sar
+  Haye Abbas haye haye Abbas
+  Ghairat ka aasmaṅ Zainab ka saaibaṅ
+  Kaise Zainab ki taraf dekhta Abbas ka sar
+  Sharm se khaak pe girta raha Abbas ka sar
 
   2
-  Shaam ke logoṅ ne pathar se kiya isteqbal
-  Jun hi bazar meiṅ daakhil hua abbas ka sar
-  Kaise zainab ki taraf...
-  Yuṅ bhi is sar se liya badr o ohad ka badla
+  Shaam ke logoṅ ne patthar se kiya istiqbaal
+  Jun hi baazaar meiṅ daakhil hua Abbas ka sar
+  Kaise Zainab ki taraf...
+  Yuṅ bhi is sar se liya Badr o Ohad ka badla
 
   3
-  Hu ba hu baba ali jaisa tha abbas ka sar
-  Kaise zainab ki taraf...
-  Wo sina par bhi na aaqa ke barabar aaya
-  Sheh ki ta'zeem meiṅ jhukta raha abbas ka sar
+  Hu ba hu Baba Ali jaisa tha Abbas ka sar
+  Kaise Zainab ki taraf...
+  Wo sinaaṅ par bhi na aaqa ke barabar aaya
+  Sheh ki tazim meiṅ jhukta raha Abbas ka sar
 
   4
-  Kaise zainab ki taraf...
-  Paoṅ ke aabile abid ko kahaṅ yaad rahe
-  Jab gira garm zamiṅ par gira abbas ka sar
-  Kaise zainab ki taraf...
+  Kaise Zainab ki taraf...
+  Paoṅ ke aable Abid ko kahaṅ yaad rahe
+  Jab gira garm zamiṅ par gira Abbas ka sar
+  Kaise Zainab ki taraf...
 
   5
   Yuṅ bhi baandha gaya rahwaar ki gardan se ise
-  Zulm nazdik se dekhe zara abbas ka sar
-  Kaise zainab ki taraf...
-  Pehle chadar se lahu saaf kiya zainab ne
+  Zulm nazdik se dekhe zara Abbas ka sar
+  Kaise Zainab ki taraf...
+  Pehle chaadar se lahu saaf kiya Zainab ne
 
   6
-  Saath asbaab ke jis dam mila abbas ka sar
-  Kaise zainab ki taraf...
-  Nehr pe jis ghari abbas ne dam tora tha
-  Dilbar e zahra ki godhi meiṅ tha abbas ka sar
+  Saath asbaab ke jis dam mila Abbas ka sar
+  Kaise Zainab ki taraf...
+  Nehr pe jis ghari Abbas ne dam tora tha
+  Dilbar-e-Zahra ki godi meiṅ tha Abbas ka sar
 
   7
-  Kaise zainab ki taraf...
-  Yaad zishan sar e shere khuda aane laga
-  Gurz se aise shikasta hua abbas ka sar
-  Kaise zainab ki taraf...
+  Kaise Zainab ki taraf...
+  Yaad Zeeshan sar-e-Sher-e-Khuda aane laga
+  Gurz se aise shikasta hua Abbas ka sar
+  Kaise Zainab ki taraf...
 # source_id: nohayonline:579f121414ecdf6aa8ac
 # source_url: https://www.nohayonline.com/details_content.php?id=2710
 # raw_sha256: 05b64af02198a5f5315df9d265fec8ab58c4b6e73ae51b6f6ddcf6e7d1547223

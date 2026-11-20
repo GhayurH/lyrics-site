@@ -1,10 +1,11 @@
 ---
-title: "Aap Ache Hain Chacha Par Yeh Zamaana Nahi Acha"
+title: "آپ اچھے ہیں چچا پر یہ زمانہ نہیں اچھا"
+alternateTitle: "Aap Ache Hain Chacha Par Yeh Zamaana Nahi Acha"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:adbcaec0e4ec0da534a9
@@ -12,27 +13,90 @@ published: false
 # raw_sha256: 76fbf4eb7f6cc131cf2c8d92a40a5d857887dcdbb86e9fc0136d7a6c3dae4b78
 # source_title_original: Aap Ache Hain Chacha Par Yeh Zamaana Nahi Acha 2000
 # editorial_note: Captured historical source draft; stanza structure/transliteration pending manual review.
+romanLyrics: |-
+  Aap ache hain chacha par yeh zamaana nahi acha
+  Piyas achi hai magar aap ka jana nahi acha
+
+  1
+  Asmaan roye ga khaimo mein qayamat ho gi
+  Din alam dahaye alam khaimo mein lana nahi acha
+
+  2
+  Sirf ik raat mein kyun burha howa Sajjad
+  Sar khule maon ke baiton ko dikhana nahi acha
+
+  3
+  Aik shehzadi thi jis shehar ki bibi Zainab
+  Oss ke bazaroon mein Zainab ko phirana nahi acha
+
+  4
+  Jaise zindaan mein Sakina hai mili baba se
+  Oss tarha baap se beti ko milana nahi acha
+
+  5
+  Khush naseebi hai jo de baap ko beta kandha
+  Baap ka lashe jawaan haye uthana nahi acha
+
+  6
+  Qabar Asghar ki bana kar hai pareshan Hussain
+  Aag si rait mein ik phool chupana nahi acha
+
+  7
+  Ab hamesha main rahon gi issi zindaan mein chacha
+  Main na kehti thi mujhe choor ke jana nahi acha
+
+  8
+  Sar khule bibiyaan roti hain azza khano mein
+  Shab-e-Aashoor cheragon ko jalana nahi acha
+
+  9
+  Har khushi sadqay mein Zainab ke Khuda de tujh ko
+  Haan Muharam mein khushi koi manana nahi acha
+
+  10
+  Hum Ali walon ko aye Sarwar-o-Rehan kabhi
+  Farsh-e-matam ke siwa dhondne jana nahi acha
 ---
 
-Aap Ache Hain Chacha Par Yeh Zamaana Nahi Acha
-Piyas Achi Hai Magar Aap Ka Jana Nahi Acha
-Asmaan Roye Ga Khaimo Mein Qayamat Ho Gi
-Din Alam Dahaye Alam Khaimo Mein Lana Nahi Acha
-Sirf Ik Raat Mein Kyun Burha Howa Sajjad
-Sar Khule Maon Ke Baiton Ko Dikhana Nahi Acha
-Aik Shehzadi Thi Jis Shehar Ki Bibi Zainab
-Oss Ke Bazaroon Mein Zainab Ko Phirana Nahi Acha
-Jaise Zindaan Mein Sakina Hai Mili Baba Se
-Oss Tarha Baap Se Beti Ko Milana Nahi Acha
-Khush Naseebi Hai Jo De Baap Ko Beta Kandha
-Baap Ka Lashe Jawaan Haye Uthana Nahi Acha
-Qabar Asghar Ki Bana Kar Hai Pareshan Hussain
-Aag Si Rait Mein Ik Phool Chupana Nahi Acha
-Ab Hamesha Main Rahon Gi Issi Zindaan Mein Chacha
-Main Na Kehti Thi Mujhe Choor Ke Jana Nahi Acha
-Sar Khule Bibiyaan Roti Hain Azza Khano Mein
-Shab-e-Aashoor Cheragon Ko Jalana Nahi Acha
-Har Khushi Sadqay Mein Zainab Ke Khuda De Tujh Ko
-Haan Muharam Mein Khushi Koi Manana Nahi Acha
-Hum Ali Walon Ko Aye SARWAR-O-REHAN Kabhi
-Farsh-e-Matam Ke Siwa Dhondne Jana Nahi Acha
+آپ اچھے ہیں چچا پر یہ زمانہ نہیں اچھا
+پیاس اچھی ہے مگر آپ کا جانا نہیں اچھا
+
+۱
+آسماں روئے گا خیموں میں قیامت ہو گی
+دن علم دہائے علم خیموں میں لانا نہیں اچھا
+
+۲
+صرف اک رات میں کیوں بوڑھا ہوا سجاد
+سر کھلے ماؤں کے بیٹوں کو دکھانا نہیں اچھا
+
+۳
+ایک شہزادی تھی جس شہر کی بی‌بی زینب
+اس کے بازاروں میں زینب کو پھرانا نہیں اچھا
+
+۴
+جیسے زنداں میں سکینہ ہے ملی بابا سے
+اس طرح باپ سے بیٹی کو ملانا نہیں اچھا
+
+۵
+خوش نصیبی ہے جو دے باپ کو بیٹا کندھا
+باپ کا لاشِ جواں ہائے اٹھانا نہیں اچھا
+
+۶
+قبر اصغر کی بنا کر ہے پریشان حسین
+آگ سی ریت میں اک پھول چھپانا نہیں اچھا
+
+۷
+اب ہمیشہ میں رہوں گی اسی زنداں میں چچا
+میں نہ کہتی تھی مجھے چھوڑ کے جانا نہیں اچھا
+
+۸
+سر کھلے بیبیاں روتی ہیں عزا خانوں میں
+شبِ عاشور چراغوں کو جلانا نہیں اچھا
+
+۹
+ہر خوشی صدقے میں زینب کے خدا دے تجھ کو
+ہاں محرم میں خوشی کوئی منانا نہیں اچھا
+
+۱۰
+ہم علی والوں کو اے سرور و ریحان کبھی
+فرشِ ماتم کے سوا ڈھونڈنے جانا نہیں اچھا

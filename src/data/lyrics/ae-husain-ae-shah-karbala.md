@@ -1,63 +1,110 @@
 ---
 title: "اے حسینؑ اے شاہ کربلا"
+alternateTitle: "Aey Hussain Aey Shah-e-Karbala"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: ziyaraat:92e577c36b4e4382033c
 # source_url: https://www.ziyaraat.net/api/noha/384
 # raw_sha256: 8473e33526a90ea466ca0b61692a4c6e5568da37bce02284bc5a41dc8b4820ba
+romanLyrics: |-
+  Aey Hussain aey Shah-e-Karbala
+  Waqt-e-rukhsat qareeb aa gaya
+
+  1
+  May sawari sajaon teri
+  Hay behan teri zinda abhi
+  Meray bhaiya koyi ghum na kha
+
+  2
+  Chakiyan pesanay walli maa
+  Dekh mojud hay wo yahan
+  Day rahi hay pata ik sada
+
+  3
+  Teri rukhsat pay qurban main
+  Waar don kalb aur jaan main
+  Do ghari pas tu baith ja
+
+  4
+  Kaisay ab usko behlaon main
+  Kya Sakina ko batlaon main
+  Aap kyun ho rahay hain juda
+
+  5
+  Choor zakhmon say ho is qadar
+  Phat raha hay behan ka jigar
+  Sar say girnay lagi hay rida
+
+  6
+  Mujh ko maloom hay hoga kya
+  Bandha jaeya ga bazu mera
+  Jao Zainab ka hafiz Khuda
+
+  7
+  Na zameen par ho na zeen par
+  Nok-e-naiza par rakha hay sar
+  Aur behan sath hay bayrida
+
+  8
+  Tu nay kitnay sahay hain sitam
+  Aik dil aur hazaron hain gham
+  Dhop main tera laasha raha
+
+  9
+  Kalb-e-Rizwan-o-Rehan main
+  Jaisay Alhamd Quran main
+  Gunj aati hay yeh gham ki sada
 ---
 
-Aey Hussain aey Shah-e-Karbala
+اے حسین اے شاہِ کربلا
+وقتِ رخصت قریب آ گیا
 
-1
-Waqt-e-rukhsat qareeb aa gaya
+۱
+میں سواری سجاؤں تیری
+ہے بہن تیری زندہ ابھی
+میرے بھیا کوئی غم نہ کھا
 
-2
-1) May sawari sajaon teri
-Hay behan teri zinda abhi
-Meray bhaiya koyi ghum na kha
+۲
+چکیاں پیسنے والی ماں
+دیکھ موجود ہے وہ یہاں
+دے رہی ہے پتا اک صدا
 
-3
-2) Chakiyan pesanay walli maa
-Dekh mojud hay wo yahan
-Day rahi hay pata ik sada
+۳
+تیری رخصت پہ قربان میں
+وار دوں قلب اور جان میں
+دو گھڑی پاس تو بیٹھ جا
 
-4
-3) Teri rukhsat pay qurban main
-Waar don kalb aur jaan main
-Do ghari pas tu baith ja
+۴
+کیسے اب اس کو بہلاؤں میں
+کیا سکینہ کو بتلاؤں میں
+آپ کیوں ہو رہے ہیں جدا
 
-5
-4) Kaisay ab usko behlaon main
-Kya Sakina ko batlaon main
-Aap kyun ho rahay hain juda
+۵
+چور زخموں سے ہو اس قدر
+پھٹ رہا ہے بہن کا جگر
+سر سے گرنے لگی ہے ردا
 
-6
-5) Choor zakhmon say ho is qadar
-Phat raha hay behan ka jigar
-Sar say girnay lagi hay rida
+۶
+مجھ کو معلوم ہے ہوگا کیا
+باندھا جائے گا بازو میرا
+جاؤ زینب کا حافظ خدا
 
-7
-6) Mujh ko maloom hay hoga kya
-Bandha jaeya ga bazu mera
-Jao Zainab ka hafiz Khuda
+۷
+نہ زمین پر ہو نہ زین پر
+نوکِ نیزہ پر رکھا ہے سر
+اور بہن ساتھ ہے بے ردا
 
-8
-7) Na zameen par ho na zeen par
-Nok-e-naiza par rakha hay sar
-Aur behan sath hay bayrida
+۸
+تو نے کتنے سہے ہیں ستم
+ایک دل اور ہزاروں ہیں غم
+دھوپ میں تیرا لاشہ رہا
 
-9
-8) Tu nay kitnay sahay hain sitam
-Aik dil aur hazaron hain gham
-Dhop main tera laasha raha
-
-10
-9) Kalb-e-Rizwan-o-Rehan main
-Jaisay Alhamd Quran main
-Gunj aati hay yeh gham ki sada
+۹
+قلبِ رضوان و ریحان میں
+جیسے الحمد قرآن میں
+گونج آتی ہے یہ غم کی صدا

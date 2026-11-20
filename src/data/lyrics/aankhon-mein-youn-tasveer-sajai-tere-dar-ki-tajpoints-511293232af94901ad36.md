@@ -1,38 +1,63 @@
 ---
-title: "Aankhon Mein Youn Tasveer Sajai Tere Dar Ki"
+title: "آنکھوں میں یوں تصویر سجائی تیرے در کی"
+alternateTitle: "Aankhon Mein Youn Tasveer Sajai Tere Dar Ki"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Raqib"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:511293232af94901ad36
 # source_url: https://tajpoints.com/2017/02/aankhon-mein-youn-tasveer-sajai-tere.html
 # raw_sha256: 5c40847540c46a72c131a7a933d2ff2f95ef9b309615bdb438ce2b87631aaff5
+romanLyrics: |-
+  1
+  Aankhon mein youn tasveer sajai tere dar ki
+  Har samt hai ab jalwa numai tere dar ki
+  Main theher giya our ki ashkon se taharat
+  Baton mein kabhi baat jo ayi tere dar ki
+
+  2
+  Kis tarha se ho ga bhala shahi ka talabgar
+  Jis ko bhi mayasar hai gadai tere dar ki
+  Mehsoos howa aa gaye iflak simat kar
+  Jab khak hatheli pe uthai tere dar ki
+
+  3
+  Hai manzil-e-Sidra se bhi aagay meri manzil
+  Karni hai mujh madah sarai tere dar ki
+  Ayat bhi misron mein simati nazar aaein
+  Tareef jo lafzon mein batai tere dar ki
+
+  4
+  Aaqa woh ghari umar mein sadiyon se bari thi
+  Jab madah tere dar pe sunai tere dar ki
+  Raqib ko bhi ilfaz ki khairat atta kar
+  Mula tujhe deta hoon dohai tere dar ki
 ---
 
-1
-Aankhon Mein Youn Tasveer Sajai Tere Dar Ki.
-Har Samt Hai Ab Jalwa Numai Tere Dar Ki.
-Main Theher Giya Our Ki Ashkon Se Taharat.
-Baton Mein Kabhi Baat Jo Ayi Tere Dar Ki.
+۱
+آنکھوں میں یوں تصویر سجائی تیرے در کی
+ہر سمت ہے اب جلوہ نمائی تیرے در کی
+میں ٹھہر گیا اور کی اشکوں سے طہارت
+باتوں میں کبھی بات جو آئی تیرے در کی
 
-2
-Kis Tarha Se Ho Ga Bhala Shahi Ka Talabgar.
-Jis Ko Bhi Mayasar Hai Gadai Tere Dar Ki.
-Mehsoos Howa Aa Gaye Iflak Simat Kar.
-Jab Khak Hatheli Pe Uthai Tere Dar Ki.
+۲
+کس طرح سے ہو گا بھلا شاہی کا طلبگار
+جس کو بھی میسر ہے گدائی تیرے در کی
+محسوس ہوا آ گئے افلاک سمٹ کر
+جب خاک ہتھیلی پہ اٹھائی تیرے در کی
 
-3
-Hai Manzil-e-Sidra Se Bhi Aagay Meri Manzil.
-Karni Hai Mujh Madah Sarai Tere Dar Ki.
-Ayat Bhi Misron Mein Simati Nazar Aaein.
-Tareef Jo Lafzon Mein Batai Tere Dar Ki.
+۳
+ہے منزلِ سدرہ سے بھی آگے میری منزل
+کرنی ہے مجھ مدح سرائی تیرے در کی
+آیات بھی مصرعوں میں سمٹی نظر آئیں
+تعریف جو لفظوں میں بتائی تیرے در کی
 
-4
-Aaqa Woh Ghari Umar Mein Sadiyon Se Bari Thi.
-Jab Madah Tere Dar Pe Sunai Tere Dar Ki.
- Raqib Ko Bhi Ilfaz Ki Khairat Atta Kar.
-Mula Tujhe Deta Hoon Dohai Tere Dar Ki.
+۴
+آقا وہ گھڑی عمر میں صدیوں سے بڑی تھی
+جب مدح تیرے در پہ سنائی تیرے در کی
+رقیب کو بھی الفاظ کی خیرات عطا کر
+مولا تجھے دیتا ہوں دہائی تیرے در کی

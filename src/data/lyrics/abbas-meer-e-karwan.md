@@ -11,69 +11,69 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Yasrab se suye karbala
-  Ek kaarwaṅ ruqsat hua
-  Sar pe alam saaya fighan
+  Yasrab se su-e-Karbala
+  Ik kaarwaaṅ rukhsat hua
+  Sar pe alam saaya figan
   Ghazi ki aati hai sada
-  Pehla safar zainab ka hai
+  Pehla safar Zainab ka hai
   Sunsaan kar do raasta
-  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
-  Kya shaan hai kya dab daba
-  Kya log hai quranuma
-  Salle alaa salle alaa
-  Ayaat ka hai khaafila
-  Mashk o alam inka nishaṅ
-  Abbas mir-e-karwaaṅ
-  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
-  Allah ke pyare hai ye
-  Aale nabi saare hai ye
-  Quran ke paare hai ye
-  Kaunain ke taare hai ye
-  Zer e qadam hai asmaaṅ
-  Abbas mir e karwaaṅ
-  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
-  Koi shabihe mustafa
+  Kaarwaaṅ kaarwaaṅ Abbas mir-e-kaarwaaṅ
+  Kya shaan hai kya dabdaba
+  Kya log haiṅ Quraaṅ numa
+  Salle ala salle ala
+  Aayaat ka hai qaafila
+  Mashk o alam inka nishaaṅ
+  Abbas mir-e-kaarwaaṅ
+  Kaarwaaṅ kaarwaaṅ Abbas mir-e-kaarwaaṅ
+  Allah ke pyaare haiṅ ye
+  Aal-e-Nabi saare haiṅ ye
+  Quraan ke paare haiṅ ye
+  Kaunain ke taare haiṅ ye
+  Zer-e-qadam hai aasmaaṅ
+  Abbas mere kaarwaaṅ
+  Kaarwaaṅ kaarwaaṅ Abbas mir-e-kaarwaaṅ
+  Koi shabih-e-Mustafa
   Koi Hasan ka dilruba
-  Hai koi aks-e-sayyeda
-  Shabbir ka ye khaafila
+  Hai koi aks-e-Sayyeda
+  Shabbir ka ye qaafila
   Thaame alam jo hai jawaaṅ
-  Abbas mir e karwaaṅ
-  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
-  Yasrab se taa ba karbala
-  Har din tawaafe khaafila
+  Abbas mere kaarwaaṅ
+  Kaarwaaṅ kaarwaaṅ Abbas mir-e-kaarwaaṅ
+  Yasrab se taa ba Karbala
+  Har dam tawaaf-e-qaafila
   Abbas karta hi raha
-  Parde ka zimmedar tha
+  Parde ka zimmedaar tha
   Yuṅ mutmain thi bibiyan
-  Abbas mir e karwaaṅ
-  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
+  Abbas mere kaarwaaṅ
+  Kaarwaaṅ kaarwaaṅ Abbas mir-e-kaarwaaṅ
   Abbas wo kirdaar hai
-  Baad-e-ali salaar hai
+  Baad-e-Ali salaar hai
   Aisa alam bardaar hai
-  Maidan meiṅ betalwaar hai
-  Phir bhi alam ka paasban
-  Abbas mir e karwaaṅ
-  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
+  Maidan meiṅ be talwaar hai
+  Phir bhi alam ka paasbaan
+  Abbas mere kaarwaaṅ
+  Kaarwaaṅ kaarwaaṅ Abbas mir-e-kaarwaaṅ
   Lo aa gaya uska alam
-  Ghazi jise kehte hai hum
+  Ghazi jise kehte haiṅ hum
   Kehte chalo ye dam badam
-  Abbas mir e lashkaram
-  Babul hawaaij mehrbaan
-  Abbas mir e karwaaṅ
-  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
-  Jab shaam pahuncha khaafila
-  Khutba ye zainab ne diya
-  Sunle ye qaum e ashkiya
-  Hum hai bina e la ilaah
+  Abbas mir-e-lashkaram
+  Baabul hawaaij mehrbaan
+  Abbas mere kaarwaaṅ
+  Kaarwaaṅ kaarwaaṅ Abbas mir-e-kaarwaaṅ
+  Jab Shaam pahuncha qaafila
+  Khutba ye Zainab ne diya
+  Sun le ye qaum-e-ashqiya
+  Hum haiṅ bina-e-la ilaah
   Kashti hai diṅ hum baadbaaṅ
-  Abbas mir e karwaaṅ
-  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
-  Tha hashr meiṅ maula ali
-  Ye sarwar o rehaan bhi
-  Nazre karam se aap ki
-  Rakhte hai ummid-e-qawi
-  Nauhoṅ se denge ye bayan
-  Abbas mir e karwaaṅ
-  Kaarwaṅ kaarwaṅ abbas mir e karwaṅ
+  Abbas mere kaarwaaṅ
+  Kaarwaaṅ kaarwaaṅ Abbas mir-e-kaarwaaṅ
+  Tha hashr meiṅ Maula Ali
+  Ye Sarwar o Rehan bhi
+  Nazar-e-karam se aap ki
+  Rakhte haiṅ ummid-e-qawi
+  Nauhoṅ se deṅge ye bayaan
+  Abbas mere kaarwaaṅ
+  Kaarwaaṅ kaarwaaṅ Abbas mir-e-kaarwaaṅ
 # source_id: nohayonline:6c2739fa53d1e871a2fe
 # source_url: https://www.nohayonline.com/details_content.php?id=1724
 # raw_sha256: aeffe3270939381ca9b41003fb1c1cfc5dafbf5a5375ae303fa231a8cc4b2a72

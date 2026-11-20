@@ -10,55 +10,55 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Saqqa e haram sunte hai pyasoṅ ki sadayeiṅ
+  Saqqa-e-haram sunte hai pyaasoṅ ki sadaayeṅ
 
   1
-  Abbas ko tarpati hai qaimon ki fizayeiṅ
-  Is tarha se mashkeeza bhara nahr pe ghazi
-  Chu paaye na abbas ko darya ki hawayeiṅ
-  Abbas jaa rahe hai
+  Abbas ko tarpati hai khaimoṅ ki fizaayeṅ
+  Is tarha se mashkiza bhara nahr pe ghazi
+  Chhu paaye na Abbas ko darya ki hawaayeṅ
+  Abbas jaa rahe haiṅ
   Hosh o hawaas le kar
-  Bachoṅ ki aas le kar
+  Bachchoṅ ki aas le kar
 
   2
-  Aankhoṅ may pyaas le kar
-  Abbas jaa rahe hai...
+  Aankhoṅ meiṅ pyaas le kar
+  Abbas jaa rahe haiṅ...
   Ab gham ki inteha hai
-  Qaimon may ghul macha hai
-  Ek majlis e aza hai
-  Abbas jaa rahe hai...
+  Khaimoṅ meiṅ ghul macha hai
+  Ek majlis-e-aza hai
+  Abbas jaa rahe haiṅ...
 
   3
-  Mashk e sakina khaali
+  Mashk-e-Sakina khaali
   Thi jaise ek sawaali
-  Saqqe ne hai uthaali
-  Abbas jaa rahe hai...
+  Saqqe ne hai uthaa li
+  Abbas jaa rahe haiṅ...
   Haathoṅ ko de ke ghazi
-  Jiti hai ran may baazi
+  Jiti hai ran meiṅ baazi
 
   4
-  Pyasa hai ab namazi
-  Abbas jaa rahe hai...
+  Pyaasa hai ab namazi
+  Abbas jaa rahe haiṅ...
   Abr o falak hai zakhmi
-  Farq e falak hai zakhmi
+  Farq-e-falak hai zakhmi
   Baazu talak hai zakhmi
-  Abbas jaa rahe hai...
+  Abbas jaa rahe haiṅ...
 
   5
-  Gurz e sitam laga hai
-  Tir e sitam chala hai
-  Qalb e falak hila hai
-  Abbas jaa rahe hai...
-  Mask o alam mile hai
-  Ahle haram mile hai
+  Gurz-e-sitam laga hai
+  Tir-e-sitam chala hai
+  Qalb-e-falak hila hai
+  Abbas jaa rahe haiṅ...
+  Mashk o alam mile haiṅ
+  Ahl-e-haram mile haiṅ
 
   6
-  Loh o qalam mile hai
-  Abbas jaa rahe hai...
+  Loh o qalam mile haiṅ
+  Abbas jaa rahe haiṅ...
   Saabir hai bawafa hai
-  Farzande fatema hai
-  Iqbal ghamnawa hai
-  Abbas jaa rahe hai...
+  Farzand-e-Fatema hai
+  Iqbal gham nawa hai
+  Abbas jaa rahe haiṅ...
 # source_id: nohayonline:d4007977f6ebedc2c9d8
 # source_url: https://www.nohayonline.com/details_content.php?id=2762
 # raw_sha256: 385745d9ec7a84c09f2efbe73744b8f01573797f431c09b7fe6a285684a7cff4

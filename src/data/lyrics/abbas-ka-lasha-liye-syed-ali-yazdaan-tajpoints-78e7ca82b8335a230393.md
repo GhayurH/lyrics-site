@@ -1,40 +1,63 @@
 ---
-title: "Abbas Ka Lasha Liye Syed Ali Yazdaan"
+title: "عباس کا لاشہ لیے سید علی یزداں"
+alternateTitle: "Abbas Ka Lasha Liye Syed Ali Yazdaan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Mussadiq"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:78e7ca82b8335a230393
 # source_url: https://tajpoints.com/2024/07/abbas-ka-lasha-liye-syed-ali-yazdaan.html
 # raw_sha256: 18405150d49a56cf5f6921fa6a70f8efc48fb64e559fb783bdfcd020a936ed5a
+romanLyrics: |-
+  1
+  Ro rahe hain Shah-e-Dein Abbas ka lasha liye
+  Reh gayi bali Sakina hath mein koza liye
+  Bachoon ki pyasi nigahein door tak chalti rahein
+  Jab gaya tha bawafa darya pe mashkeza liye
+  Aye Hussain Ibn-e-Ali ki maa zara dekho idhar
+  Aaye hain Abbas bazuon ka nazrana liye
+
+  2
+  Sheh ki aankhein keh rahi thin lasha-e-Abbas par
+  Chal diya bhai wafa ka sara sarmaya liye
+  Tum tu darya par gaye they aye Sakina ke chacha
+  Kya howa kyun laute ho tum khon ka darya liye
+  Zainab-e-Dilgeer ab Abbas banna hai tumhein
+  Pehra dena hai tumhein toota howa neza liye
+
+  3
+  Dar badar phirti hain behnein aye Alamdar-e-Hussain
+  Laut aao Zainab-o-Kulsoom ka pardah liye
+  Mar gaye Abbas, Zainab ab tu tum kar lo yaqeen
+  Aa rahe hain dekh lo tooti kamar Maula liye
+  Dekhiye, kab shahzadi inn ko karti hain qabool
+  Hai Mussadiq muntazir ashkon ka nazrana liye
 ---
 
-Abbas Ka Lasha Liye Syed Ali Yazdaan
+۱
+رو رہے ہیں شاہِ دیں عباس کا لاشہ لیے
+رہ گئی بالی سکینہ ہاتھ میں کوزہ لیے
+بچوں کی پیاسی نگاہیں دور تک چلتی رہیں
+جب گیا تھا باوفا دریا پہ مشکِیزہ لیے
+اے حسین ابنِ علی کی ماں ذرا دیکھو ادھر
+آئے ہیں عباس بازوؤں کا نذرانہ لیے
 
-1
-Ro Rahe Hain Shah-e-Dein Abbas Ka Lasha Liye.
-Reh Gayi Bali Sakina Hath Mein Koza Liye.
-Bachoon Ki Pyasi Nigahein Door Tak Chalti Rahein.
-Jab Gaya Tha Bawafa Darya Pe Mashkeza Liye.
-Aye Hussain Ibn-e-Ali Ki Maa Zara Dekho Idhar.
-Aaye Hain Abbas Bazuon Ka Nazrana Liye.
+۲
+شہ کی آنکھیں کہہ رہی تھیں لاشۂ عباس پر
+چل دیا بھائی وفا کا سارا سرمایہ لیے
+تم تو دریا پر گئے تھے اے سکینہ کے چچا
+کیا ہوا کیوں لوٹے ہو تم خون کا دریا لیے
+زینبِ دلگیر اب عباس بننا ہے تمہیں
+پہرا دینا ہے تمہیں ٹوٹا ہوا نیزہ لیے
 
-2
-Sheh Ki Aankhein Keh Rahi Thin Lasha-e-Abbas Par.
-Chal Diya Bhai Wafa Ka Sara Sarmaya Liye.
-Tum Tu Darya Par Gaye They Aye Sakina Ke Chacha.
-Kya Howa Kyun Laute Ho Tum Khon Ka Darya Liye.
-Zainab-e-Dilgeer Ab Abbas Banna Hai Tumhein.
-Pehra Dena Hai Tumhein Toota Howa Neza Liye.
-
-3
-Dar Badar Phirti Hain Behnein Aye Alamdar-e-Hussain.
-Laut Aao Zainab-o-Kulsoom Ka Pardah Liye.
-Mar Gaye Abbas, Zainab Ab Tu Tum Kar Lo Yaqeen.
-Aa Rahe Hain Dekh Lo Tooti Kamar Maula Liye.
-Dekhiye, Kab Shahzadi Inn Ko Karti Hain Qabool.
-Hai Mussadiq Muntazir Ashkon Ka Nazrana Liye.
+۳
+در بدر پھرتی ہیں بہنیں اے علمدارِ حسین
+لوٹ آؤ زینب و کلثوم کا پردہ لیے
+مر گئے عباس، زینب اب تو تم کر لو یقین
+آ رہے ہیں دیکھ لو ٹوٹی کمر مولا لیے
+دیکھیے، کب شہزادی ان کو کرتی ہیں قبول
+ہے مصدق منتظر اشکوں کا نذرانہ لیے

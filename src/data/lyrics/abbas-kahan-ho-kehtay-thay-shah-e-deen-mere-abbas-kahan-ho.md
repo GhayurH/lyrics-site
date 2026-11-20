@@ -9,101 +9,49 @@ poet: "Ali Rizvi Sachey"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Kehtay Thay Shah-e-Deen Mere, Abbas Kahan Ho
-
+romanLyrics: |-
+  Kehte the Shah-e-Deen mere, Abbas kahaaṅ ho
 
   1
-
-  Abbas Kahan Ho, Abbas Kahan Ho
-
-  Tanha Hoon Karda Dasht-e-Bala Main Baradar
-
-  Dekho Zara Aakar
-
-  Pala Tha Jinhay Nazon Say, Sotay Hain Kahan Wo
-
+  Abbas kahaaṅ ho, Abbas kahaaṅ ho
+  Tanha huṅ khara dasht-e-bala mein baradar
+  Dekho zara aa kar, dekho zara aa kar
+  Paala tha jinheṅ naazoṅ se, sote hain kahaaṅ wo
 
   2
-
-  Dikhta Nahi Ab Ankhon Say, Har Su Hai Andhera
-
-  Dum Rukta Hai Mera
-
-  Dayta Hai Sadain Ali Akbar Mera Mujhko
-
+  Dikhta nahiṅ aaṅkhoṅ se, har suṅ hai andhera
+  Dam rukta hai mera, dam rukta hai mera
+  Deta hai sadaaeṅ Ali Akbar mera mujhko
 
   3
-
-  Seenay Main Jawan Laal Kay, Barchi Ki Aani Hay
-
-  Tharratthi Zameen Hai
-
-  Uljha Hua Barchi Main Na Akbar Ka Jigar Ho
-
+  Sine mein jawaaṅ laal ke, barchhi ki ani hai
+  Tharaati zamiṅ hai, tharaati zamiṅ hai
+  Uljha hua barchhi mein na Akbar ka jigar ho
 
   4
-
-  Seenay Say Sina Kaynch Kay, Akbar Kay Sarhanay
-
-  Is Dasht-e-Bala Main
-
-  Tak Ta Hoon Basad Yaad Say Dum Tor Tay Usko
-
+  Haathoṅ pe ugalta hai lahu Asghar beshir
+  Gardan pe laga tir, gardan pe laga tir
+  Kya keh ke tasalli duṅ main dar pe khari maaṅ ko
 
   5
-
-  Haathon Pay Ugal Tha Hay, Lahoo Asghar-e-Baysheer
-
-  Gardan Pay Laga Teer
-
-  Kiya Keh Kay Tassalli Doon Dar Pay Kari Maa Ko
-
+  Nanhi si lahad mein Ali Asghar ko lita kar
+  Mitti pe sula kar, mitti pe sula kar
+  Uthta huṅ kabhi girta huṅ thaame hue dil ko
 
   6
-
-  Nanni Si Lehad Main Ali Asghar Ko Lita Kar
-
-  Mitti Pay Sula Kar
-
-  Uth Tha Hoon Kabhi Gir Tha Hoon Thamay Hue Dil Ko
-
+  Chhineṅge Sakina ke gauhar ab ye sitamgar
+  Qasim hai na Akbar, Qasim hai na Akbar
+  Laashe pe mere aa ke pukaaregi wo tum ko
 
   7
-
-  Cheenenge sakina ke gohar ab ye sitamgar
-
-  Qasim hai na akbar qasim hai na akbar
-
-  Laashe pe mere aake pukaregi wo tum ko
-
+  Chalti rahi gardan pe chhuri, dekh rahi thi
+  Zainab ne sada di, Zainab ne sada di
+  Sukha hai gala bhaai ka, paani to pila do
 
   8
-
-  Jaata Hoon Rah-e-Haq Main Gala Aapna Katanay
-
-  Khaliq Ki Raza Main
-
-  Ab Shimr Ka Khanjar Meri Gardan Pay Rawan Ho
-
-
-  9
-
-  Chalthi Rahi Gardan Pay Churi Dekh Rahi Thi
-
-  Zainab Nay Sada Di
-
-  Sookha Hay Gala Bhai Ka Pani To Pilado
-
-
-  10
-
-  Chalthi Thi Siya Aandhiyan Khoon Bikhra Tha Har Sou
-
-  Jab Khol Kay Ghainsou
-
-  Ik Laashe Buridan Pay Ye Maa Kehti Thi Ro Ro
-
-  Abbas Kahan Ho, Mere Abbas Kahan Ho, Abbas Kahan Ho'
+  Chalti thi siyaah aandhiyaaṅ, khuṅ bikhra tha har su
+  Jab khol ke gesu, jab khol ke gesu
+  Ek laashe-e-burida pe ye maaṅ kehti thi ro ro
 # source_id: nohayonline:c0567944f5222473232f
 # source_url: https://www.nohayonline.com/details_content.php?id=2904
 # raw_sha256: 4a680f0f991677100a6e89b393650e2e0c0942e43a32a3753e33b9a35fbf234c

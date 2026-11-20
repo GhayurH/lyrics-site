@@ -9,72 +9,45 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ay alamdar e wafa baazu katane waale
-
-  Jhuk gaye khud tere parcham ko jhukane waale
-
+romanLyrics: |-
+  Ae alamdaar-e-wafa baazu kataane waale
+  Mit gaye khud tere parcham ko jhukaane waale
 
   1
-
-  Aaj jin haathon ne mashkeeze may bharli hai faraat
-
-  Kal yehi haath thay khyber ko uthaane waale
-
+  Aaj jin haathoṅ ne mashkize mein bhar li hai Faraat
+  Kal yahi haath the Khaibar ko uthaane waale
 
   2
-
-  Tujhko darya ki rawani ka salaam aaya hai
-
-  Khoon pani ke ewaz apna bahaane waale
-
+  Tujh ko darya ki rawaani ka salaam aaya hai
+  Khun paani ke iwaz apna bahaane waale
 
   3
-
-  Pyase bachon ko tasalli se sakina ne kaha
-
-  Pani bas aata hai ammu hai le aane waale
-
+  Pyaase bachchoṅ ko tasalli se Sakina ne kaha
+  Paani bas aata hai, ammu haiṅ le aane waale
 
   4
-
-  Panjetan apna karam tujhpe karenge har dam
-
-  Parcham e hazrate abbas uthaane waale
-
+  Panjetan apna karam tujh pe kareṅge har dam
+  Parcham-e-Hazrat-e-Abbaas uthaane waale
 
   5
-
-  Do moharram se jo faaqa tha wo taa marg raha
-
-  Haazari karte hai ab teri zamane waale
-
+  Do Muharram se jo pyaasa tha wo taa marg raha
+  Haaziri karte haiṅ ab teri zamaane waale
 
   6
-
-  Nok e naiza pe tilawat se kiya hai saabit
-
-  Kaun quran pe khanjar hai chalane waale
-
+  Nok-e-naiza pe tilaawat se kiya hai saabit
+  Kaun Quran pe khanjar haiṅ chalaane waale
 
   7
-
-  Hum pe haste hai tere qatl may shaamil thay jo log
-
-  Tujh pe rote hai teri yaad manaane waale
-
+  Hum pe haṅste haiṅ tere qatl mein shaamil the jo log
+  Tujh pe rote haiṅ teri yaad manaane waale
 
   8
-
-  Sar qalam ho gaya islam bachane ke liye
-
-  Aise hote hai mohamed ke gharane waale
-
+  Sar qalam ho gaya Islaam bachaane ke liye
+  Aise hote haiṅ Muhammad ke gharaane waale
 
   9
-
-  Mai bhi rehaan yuhin likhta rahunga nauhe
-
-  Jab talak zinda hai nauho ko sunaane waale'
+  Main bhi Rehaan yuṅhi likhta rahuṅga nauhe
+  Jab talak zinda haiṅ nauhoṅ ko sunaane waale
 # source_id: nohayonline:67ebb173de6280140a55
 # source_url: https://www.nohayonline.com/details_content.php?id=2221
 # raw_sha256: 183a081b45093b7d001ef676575a1fa2d579b35d5f95f4df28c5fd9b36a6cfea

@@ -9,98 +9,59 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Ab Mujhe Koi Sakina Nahi Kehta Baba Mir Hasan 2015"
-romanLyrics: 'Shaah ki laadli jab qaidi e zindan hui
-
-  Royi ghabrayi bahot aur pareshan hui
-
-  Qaid khane ki ghutan maut ka saaman hui
-
-  Jaan lagta tha ke masoom ki bejaan hui
-
+romanLyrics: |-
+  Shaah ki laadli jab qaidi-e-zindaan hui
+  Royi ghabraayi bahut aur pareshaan hui
+  Qaid khaane ki ghutan maut ka saamaan hui
+  Jaan lagta tha ke maasum ki bejaan hui
 
   1
-
-  Laash shabbir ki maqtal mein tadap jaati thi
-
-  Qaid khane se bacchi ki sada aati thi
-
-  Ab mujhe koi sakina nahi kehta baba
-
-  Qaidi kehta hai koi koi yateema baba
-
+  Laash Shabbir ki maqtal mein tarap jaati thi
+  Qaid khaane se bachchi ki sada aati thi
+  Ab mujhe koi Sakina nahiṅ kehta baba
+  Qaidi kehta hai koi koi yatima baba
 
   2
-
-  Mai bayan kaise karun apni musibat tum se
-
-  Kya karun apne tamachon ki shikayat tum se
-
-  Sunti hoo dadi ne khaaya tha tamacha baba
-
-  Ab mujhe koi...
-
+  Main bayaaṅ kaise karuṅ apni musibat tum se
+  Kya karuṅ apne tamaanchoṅ ki shikaayat tum se
+  Sunti huṅ daadi ne khaaya tha tamaancha baba
+  Ab mujhe koi
 
   3
-
-  Neel ruqsaron pe beenayi bhi jiski kam ho
-
+  Nil rukhsaaroṅ pe binaayi bhi jiski kam ho
   Umr ho chaar baras aur kamar mein kham ho
-
-  Aap ne dekhi hai kya aisi zaeefa baba
-
+  Aap ne dekhi hai kya aisi zaifi baba
 
   4
-
-  Khoone baysheer se andaza kiya tha maine
-
-  Aap ka chehra to pehchan liya tha maine
-
-  Aap pehchanoge kaise mera chehra baba
-
+  Khun beshir se andaaza kiya tha main ne
+  Aap ka chehra to pehchaan liya tha main ne
+  Aap pehchaano ge kaise mera chehra baba
 
   5
-
-  Aap thay door to mai saare sitam sehti rahi
-
-  Ro padi kufe ke darbar mein mai seh na saki
-
-  Aap ke saamne jab shimr ne maara baba
-
+  Aap the dur to main saare sitam sehti rahi
+  Ro pari Kufe ke darbaar mein main seh na saki
+  Aap ke saamne jab ne maara baba
 
   6
-
-  Wo to bemaar thi mar jaati safar mein aake
-
-  Dafn karte usay bazaar mein bhaiya kaise
-
-  Ye to acha hua aayi nahi sughra baba
-
+  Woh to bimaar thi mar jaati safar mein aake
+  Dafn karte use baazaar mein bhaiya kaise
+  Ye to achchha hua aayi nahiṅ Sughra baba
 
   7
-
-  Meri aankhon se bahe jaate thay aansu us dam
-
-  Haath bhi maine lagaya nahi dadi ki qasam
-
-  Dena chaaha tha mujhe logon ne sadqa baba
-
+  Meri aankhoṅ se bahe jaate the aansuṅ us dam
+  Haath bhi main ne lagaaya nahiṅ daadi ki qasam
+  Dena chaaha tha mujhe logoṅ ne sadqa baba
 
   8
-
-  Us ghadi dhoond rahi thi mai chacha jaan ka sar
-
-  Kaise batlaun ke kya guzri teri beti par
-
-  Mujhko zaalim ne kaneezi mein jo maanga baba
-
+  Us ghari dhund rahi thi main chacha jaaṅ ka sar
+  Kaise batlaauṅ ke kya guzri teri beti par
+  Mujhko zaalim ne kanizi mein jo maanga baba
 
   9
-
-  Bain ye karte hi khamosh hui wo akbar
-
-  Aaj to jayenge saath apne mujhe bhi lekar
-
-  Aap ko meri qasam ki jiye waada baba'
+  Bain ye karte hi khaamosh hui woh Akbar
+  Aaj to jaayenge saath apne mujhe bhi lekar
+  Aap ko meri qasam kijiye waada baba
+  Ab mujhe koi....Ab mujhe koi
 reciter: "Meer Hasan Meer"
 # source_id: tajpoints:1ee30cdcda0036c51250
 # source_url: https://tajpoints.com/2017/02/ab-mujhe-koi-sakinasa-nahi-kehta-baba.html

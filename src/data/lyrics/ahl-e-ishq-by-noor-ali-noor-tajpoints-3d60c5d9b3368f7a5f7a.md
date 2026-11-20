@@ -1,19 +1,26 @@
 ---
-title: "Ahl-e-Ishq By Noor Ali Noor"
+title: "اہلِ عشق از نور علی نور"
+alternateTitle: "Ahl-e-Ishq By Noor Ali Noor"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:3d60c5d9b3368f7a5f7a
 # source_url: https://tajpoints.com/2017/02/ahl-e-ishq-by-noor-ali-noor.html
 # raw_sha256: c24063827d3bba2782451f380f745bc20e08f7f9866e7cdcd68cfbc3bdb31708
+romanLyrics: |-
+  1
+  Hamari maout bhi banti hai bais-e-majlis
+  Hum apni maout bhi nazr-e-Imam karte hain
+  Hum ahl-e-ishq ka rishta hai oss qabele se
+  Jahan kate howay sir bhi kalam karte hain
 ---
 
-1
-Hamari Maout Bhi Banti Hai Bais-e-Majlis.
-Hum Apni Maout Bhi Nazr-e-Imam Karte Hain.
-Hum Ahl-e-Ishq Ka Rishta Hai Oss Qabele Se.
-Jahan Kate Howay Sir Bhi Kalam Karte Hain.
+۱
+ہماری موت بھی بنتی ہے باعثِ مجلس
+ہم اپنی موت بھی نذرِ امام کرتے ہیں
+ہم اہلِ عشق کا رشتہ ہے اُس قبیلے سے
+جہاں کٹے ہوئے سر بھی کلام کرتے ہیں

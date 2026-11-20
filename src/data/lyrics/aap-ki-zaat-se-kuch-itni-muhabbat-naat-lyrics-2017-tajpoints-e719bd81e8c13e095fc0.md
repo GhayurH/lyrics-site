@@ -1,29 +1,44 @@
 ---
-title: "Aap Ki Zaat Se Kuch Itni Muhabbat Naat Lyrics 2017"
+title: "آپ کی ذات سے کچھ اتنی محبت"
+alternateTitle: "Aap Ki Zaat Se Kuch Itni Muhabbat"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Akbar"
-tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:e719bd81e8c13e095fc0
 # source_url: https://tajpoints.com/2017/02/aapsaww-ki-zaat-se-kuch-itni-muhabbat.html
 # raw_sha256: db1aafdf7553596bf0db6a88f1df0b987d48a350040bfb41f98fe0457bac0363
+romanLyrics: |-
+  Aap ki zaat se kuch itni muhabbat ki hai naat
+  Naat likhe howay kagaz ki bhi izzat ki hai
+
+  1
+  Hum ke takheer-e-zamana ke sabab door rahe
+  Hum ne hathoon pe nahi zikar pe bait ki hai
+  Khaal-o-khad naam ke harfon mein talashe unn ke
+  Isam-e-Ahmad mein Muhammad ki ziyarat ki hai
+
+  2
+  Raat bhar jaag ke ashar likhe hain main ne
+  Yani kagaz pe tahajud ki ibadat ki hai
+  Naat goyi jo agar ki hai kissi ne Akbar
+  Hasb-e-tofeeq nahi hasb-e-inayat ki hai
 ---
 
-Aap Ki Zaat Se Kuch Itni Muhabbat Ki Hai Naat.
-Naat Likhe Howay Kagaz Ki Bhi Izzat Ki Hai.
+آپ کی ذات سے کچھ اتنی محبت کی ہے نعت
+نعت لکھے ہوئے کاغذ کی بھی عزت کی ہے
 
-1
-Hum Ke Takheer-e-zamana Ke Sabab Door Rahe.
-Hum Ne Hathoon Pe Nahi Zikar Pe Bait Ki Hai.
-Khaal-o-Khad Naam Ke Harfon Mein Talashe Unn Ke.
-Isam-e-Ahmad Mein Muhammad Ki Ziyarat Ki Hai.
+۱
+ہم کہ تاخیرِ زمانہ کے سبب دور رہے
+ہم نے ہاتھوں پہ نہیں ذکر پہ بیعت کی ہے
+خال و خد نام کے حرفوں میں تلاشے ان کے
+اسمِ احمد میں محمد کی زیارت کی ہے
 
-2
-Raat Bhar Jaag Ke Ashar Likhe Hain Main Ne.
-Yani Kagaz Pe Tahajud Ki Ibadat Ki Hai.
-Naat Goyi Jo Agar Ki Hai Kissi Ne Akbar.
-Hasb-e-Tofeeq Nahi Hasb-e-Inayat Ki Hai.
+۲
+رات بھر جاگ کے اشعار لکھے ہیں میں نے
+یعنی کاغذ پہ تہجد کی عبادت کی ہے
+نعت گوئی جو اگر کی ہے کسی نے اکبر
+حسبِ توفیق نہیں حسبِ عنایت کی ہے

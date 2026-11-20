@@ -9,29 +9,46 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aap ki beti nay baba Madinay walo ka her ek sitam uthaya hai .
-  Sani)
-  Kabhi mara geya tamacho say kabhi darwaza gira ker zakhm gehra mujhay lagaya hai..
-  Antra)
-  Aap nay ruk kay jahan Aaya e Tatheer perhi Aur tazeem bhi ki
-  Mujh ko lagta hai jaisay umat nay ghar ka darwaza jala kay Aap ki yad ko jalaya hai ..
-  Antra)
-  Mujh pay jalta hua darwaza jis waqt gira Mu kay bal baba giri
-  Dar kay neechay thi aap ki beti jaltay darwazay say baba mujh ko Fiza nay aa bachaya hai..
-  Antra)
-  Hai yaqeen zer e lehad Ahmad e mursal roye aur tarpay hon gay
-  Lamha ek baap nay saha kaisay jis ghari Bint e Nabi ka kalma goyon nay ghar jalaya hai .
-  Antra)
-  Tazeyana meray bazu pay jis waqt laga Karbala yaad aae
-  Mujh ko mehsoos aisay honay laga jaisay Abbas kay bazu kaat kay zeen say giraya hai.
-  Antra)
-  Meray ronay say pareshaan madinay walay mujh ko ronay na diya
-  Shehar say door meray ronay ko hakim e waqt nay Baba aik Bait ul Huzan banaya hai .
-  Antra)
-  Isi ek baat pay rotay zamanay walay dukh Samar hai is ka
-  Jis ko Khair ul Nisa kaha Rab nay jo Mohammad ka thi tukra us ko darbar main jhutlaya hai .
-  ——————————URDU——————————
-  Shared via Nohay Writeups for iOS
+  Aap ki beti ne baba Madine waaloṅ ka
+  Har ek sitam uthaaya hai
+  Kabhi maara gaya tamaachoṅ se
+  Kabhi darwaaza gira kar zakhm gehra mujhe lagaaya hai
+
+  1
+  Aap ne ruk ke jahaaṅ, aaya-e-tathir parhi
+  Aur taazim bhi ki
+  Mujh ko lagta hai jaise ummat ne
+  Ghar ka darwaaza jala ke ... aap ki yaad ko jalaaya hai
+
+  2
+  Mujh pe jalta hua darwaaza jis waqt gira
+  Muṅh ke bal baba giri
+  Dar ke niche thi aap ki beti
+  Jalte darwaaze se baba ... mujh ko Fizza ne aa bachaaya hai
+
+  3
+  Hai yaqiṅ zer-e-lahad Ahmad-e-Mursal roye
+  Aur tarpe hoṅ ge
+  Lamha ek baap ne saha kaise
+  Jis ghari Bint-e-Nabi ka ... kalma goyoṅ ne ghar jalaaya hai
+
+  4
+  Taaziyaana mere baazu pe jis waqt laga
+  Karbala yaad aai
+  Mujh ko mahsus aise hone laga
+  Jaise Abbas ke baazu ... kaat kar zin se giraaya hai
+
+  5
+  Mere rone se pareshaaṅ Madine waale
+  Mujh ko rone na diya
+  Shahr se dur mere rone ko
+  Haakim-e-waqt ne baba ... ek Bait-ul-Hazan banaaya hai
+
+  6
+  Isi ek baat pe rote zamaane waale
+  Dukh samar hai is ka
+  Jis ko Khair-un-Nisa kaha Rab ne
+  Jo Muhammad ka thi tukra ... us ko darbaar mein jhutlaaya hai
 # source_id: nohawriteups:209a59d268d25a23fa83
 # source_url: https://www.nohawriteups.org/aap-ki-beti-nay-baba-madinay/
 # raw_sha256: 19be640aea63e7579db3f7a2e57bc4967dbac8c27b63de721118cc1be90db78d

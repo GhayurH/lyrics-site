@@ -10,36 +10,36 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ka laasha mai nahi laaya sakina
+  Abbas ka laasha main nahiṅ laaya Sakina
   Laaya huṅ tarayi se alam khuṅ meiṅ duba
-  Abbas ka laasha mai nahi laaya sakina
+  Abbas ka laasha main nahiṅ laaya Sakina
 
   1
   Baba se meri laadli naaraz na hona
 
   2
-  Jab khaali alam leke mai darya se chala tha
-  Har ek qadam par mai yehi soch raha tha
-  Phat jaaye na masum sakina ka kaleja
-  Jab apni dulaari se mai ye jaa ke kahunga
+  Jab khaali alam le ke main darya se chala tha
+  Har ek qadam par main yehi soch raha tha
+  Phat jaaye na masum Sakina ka kaleja
+  Jab apni dulaari se main ye jaa ke kahuṅ ga
 
   3
   Chalta hai kaleje pe mere dard ka khanjar
-  Maara gaya pyasa mera mazlum baradar
-  Malta hua haathoṅ ko mai aaya huṅ palat kar
-  Ye dard mere dil se juda ho nahi sakta
+  Maara gaya pyaasa mera mazlum baraadar
+  Malta hua haathoṅ ko main aaya huṅ palat kar
+  Ye dard mere dil se juda ho nahiṅ sakta
 
   4
-  Mujhse tere ammu ne kaha tha meri pyari
+  Mujhse tere ammu ne kaha tha meri pyaari
   Abbas ki ye aakhri khwahish thi dulaari
-  Le jaana na qaime ki taraf laash hamari
-  Puri hui abbas e dilawar ki tamanna
+  Le jaana na khaime ki taraf laash hamari
+  Puri hui Abbas-e-Dilaawar ki tamanna
 
   5
-  Chota na karo dil meri naadan sakina
-  Qismat ka likha hai ye meri jaan sakina
-  Tujh par ye tera baap ho qurban sakina
-  Ye baat meri laadli dil meiṅ nahi rakhna
+  Chhota na karo dil meri naadan Sakina
+  Qismat ka likha hai ye meri jaan Sakina
+  Tujh par ye tera baap ho qurban Sakina
+  Ye baat meri laadli dil meiṅ nahiṅ rakhna
 
   6
   Abbas ke laashe ko tasavvur meiṅ bana lo
@@ -54,15 +54,15 @@ romanLyrics: |-
   Ab dil mera har waqt isi gham se phatega
 
   8
-  Masum sakina ko kaleje se laga kar
-  Roye hai bahot dayr talak sibte payambar
+  Masum Sakina ko kaleje se laga kar
+  Roye hain bahot der talak sibt-e-payambar
   Kehte the ki ab sabr karo ae meri dukhtar
-  Maiṅ ne wo kiya jo mere bhai ne kaha tha
+  Main ne wo kiya jo mere bhai ne kaha tha
 
   9
   Waiz wo musibat ki bari sakht ghari thi
-  Masum sakina dar e qaima pe khari thi
-  Aur laash alamdar ki darya pe pari thi
+  Masum Sakina dar-e-khaima pe khari thi
+  Aur laash alamdaar ki darya pe pari thi
   Shabbir ke is bain se kohraam tha barpa
 # source_id: nohayonline:a6a9973e4aa52f962985
 # source_url: https://www.nohayonline.com/details_content.php?id=3164

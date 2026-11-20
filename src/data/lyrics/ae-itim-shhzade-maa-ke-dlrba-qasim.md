@@ -8,117 +8,71 @@ poet: "Mehdi Nazmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ay yateem shehzade maa ke dilruba qasim
-
+romanLyrics: |-
+  Ae yatim shehzaade maaṅ ke dilruba Qaasim
 
   1
-
-  Jane murtaza qasim jane mustafa qasim
-
+  Jaan-e-Murtaza Qaasim jaan-e-Mustafa Qaasim
 
   2
-
-  Haye kamsini teri kya ujad gayi qismat
-
-  Sar se utgaya saaya baap ke tere qasim
-
+  Haaye kamsini teri kya ujar gayi qismat
+  Sar se uth gaya saaya baap ke tere Qaasim
 
   3
-
-  Baap ke janaze par teer chalte dekha tha
-
-  Daag tha yateemi ka sabr karte thay qasim
-
+  Baap ke janaaze par tir chalte dekha tha
+  Daagh tha yatimi ka sabr karte the Qaasim
 
   4
-
-  Shakl aur shabahat mein hoo ba hoo thay hyder ke
-
-  Umme farwa kehti thi haye naujawan qasim
-
+  Shakl aur shabaahat meiṅ hu bahu the Haidar ke
+  Umm-e-Farwa kehti thi haaye naujawaaṅ Qaasim
 
   5
-
-  Maut ko pasand aayi teri jaane naushayi
-
-  Karbala ke jangal mein byah racha diya qasim
-
+  Maut ko pasand aayi teri jaan-e-naushaahi
+  Karbala ke jangal meiṅ byaah racha diya Qaasim
 
   6
-
-  Nausha banke aalam mein jaa raha hai marne ko
-
-  Baap ki wasiyat ko jo nibha diya qasim
-
+  Nau shaah ban ke aalam meiṅ ja raha hai marne ko
+  Baap ki wasiyat ko jo nibha diya Qaasim
 
   7
-
-  Jange khyber o khandaq phir gayi nigahon mein
-
-  Jang mein anokha tha tera hausla qasim
-
+  Jang-e-Khube o Khandaq phir gayi nigaahoṅ meiṅ
+  Jang bhi anokha tha tera hausla Qaasim
 
   8
-
   Ran se jab sada aayi jald ab chacha aao
-
-  Dam ruka hai seene mein kehte jaate thay qasim
-
+  Dam ruka hai sine meiṅ kehte jaate the Qaasim
 
   9
-
-  Pahunche jab shahe wala choor tan tha zakhmo se
-
-  Ghar ujad gaya saara marne se tere qasim
-
+  Pahunche jab shaah-e-waala chur tan tha zakhmoṅ se
+  Ghar ujar gaya saara marne se tere Qaasim
 
   10
-
-  Sar pe sehre ki ladiyan aur joda shahana
-
-  Kya khaba suhani thi zebe tan kiya qasim
-
+  Sar pe sehre ki lariyaaṅ aur jora shaahaana
+  Kya qaba suhaani ki zeb-e-tan kiya Qaasim
 
   11
-
-  Raat ko bani dulhan subho ho gayi bewa
-
-  Kaisi qismate kubra sochte rahe qasim
-
+  Raat ko bani dulhan subh ko ho gayi bewa
+  Dekhi qismat-e-Kubra sochte rahe Qaasim
 
   12
-
-  Laash utha ke laaye jab qaime jab shahe wala
-
-  Peet''ti hai sar apna saari bibiyan qasim
-
+  Laash utha ke laaye jab khaime jab shaah-e-waala
+  Pitti haiṅ sar apna saari bibiyaaṅ Qaasim
 
   13
-
-  Sar se khoon jaari tha choor choor tan saara
-
-  Shaah kehte thay rokar haye mar gaye qasim
-
+  Sar se khun jaari tha chur chur tan saara
+  Shaah kehte the ro kar haaye mar gaye Qaasim
 
   14
-
-  Raat ki dulhan kubra sar jhukaye ghoongat mein
-
-  Zaar zaar roti hai bad-naseebi par qasim
-
+  Raat ki dulhan Kubra sar jhukaaye ghunghat meiṅ
+  Zaar zaar roti hai badnasibi par Qaasim
 
   15
-
-  Daastan shadi ki sunke rote hai saare
-
-  Dulha dulha kehti hai saari dunya ay qasim
-
+  Daastaan shaadi ki sun ke rote haiṅ saare
+  Dulha dulha kehte haiṅ saari duniya ae Qaasim
 
   16
-
-  Zainabe jigar khasta mehdi kehti thi rokar
-
-  Daagh saare kunbe ko haye de gaye qasim'
+  Zainab-e-jigar khasta Mehdi kehti thi ro kar
+  Daagh saare kunbe ko haaye de gaye Qaasim
 # source_id: nohayonline:b65abe2a8eb745c0247d
 # source_url: https://www.nohayonline.com/details_content.php?id=64
 # raw_sha256: d055ec1a0c712902234eb626b73e909859f307ffd7e15a7ef7ea48fae5cc520e

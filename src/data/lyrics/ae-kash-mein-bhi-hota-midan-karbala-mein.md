@@ -10,60 +10,60 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aye kash maiṅ bhi hota maidan e Karbala may
-  Aye kaash, ae kaash, ae kaash
-  Aye kaash me bhi hota maidany Karbala may
+  Ae kaash maiṅ bhi hota maidaan-e-Karbala meiṅ
+  Ae kaash, ae kaash, ae kaash ae
+  Kaash maiṅ bhi hota maidaani Karbala meiṅ
 
   2
-  Mera bhi zikar ata Quraan e Karbala may
+  Mera bhi zikr ataa Quraan-e-Karbala meiṅ
 
   3
-  Zahra k ladle py jaaṅ apni waar deta
+  Zahra ke laadale pe jaaṅ apni waar deta
   Tabligh-e-Mustafa ka qarza utaar deta
-  Hur ki tarha se me bhi aada se jang kar ke
-  Insaniyat ka chehra khuṅ se nikhaar deta
+  Hur ki tarah se maiṅ bhi aadaa se jang kar ke
+  Insaaniyat ka chehra khuṅ se nikhaar deta
 
   4
-  Sheh ki taraf jo barrhta wo haath kaat deta
-  Maidan-e-jang sara lashoṅ se paat deta
-  Juz maut aur kahiṅ bhi jaaye amaan na milti
+  Shah ki taraf jo barhta wo haath kaat deta
+  Maidaan-e-jang saara laashoṅ se paat deta
+  Juz maut aur kahiṅ bhi jaa-e-amaan na milti
   Dil zindagi se sab ka aisa uchaat deta
 
   5
-  Nasl e yazidiat ko aisa sabaq sekhata
-  Naam o nasab bhi apna har fard bhul jata
-  Sufiyaniyat ki aisi mitti kharaab hoti
-  Ta hashar phir na koi Namrud sar uthata
+  Nasl-e-Yazidiyat ko aisa sabaq sikhaata
+  Naam o nasab bhi apna har fard bhul jaata
+  Sufiyaaniyat ki aisi mitti kharaab hoti
+  Taa hashr phir na koi Namrud sar uthaata
 
   6
-  Mola ba jabr-e-qismat dil me rahi ye hasrat
-  Hasil hoyi na mujko sarmaya-e-shahadat
-  Ashk-e-aza ki barish karti rahaiṅ gi ankhaiṅ
-  Seena zani karoṅ ga is gham me ta qiamat
+  Maula baa jabr-e-qismat dil meiṅ rahi ye hasrat
+  Haasil hui na mujh ko sarmaaya-e-shahaadat
+  Ashk-e-aza ki baarish karti raheṅ giṅ aankheṅ
+  Sina zani karuṅ ga is gham meiṅ taa qiyaamat
 
   7
-  Mera salaam un per jo tashna lab rakhe haiṅ
-  Bejurm Karbala me jin k gale kate haiṅ
-  Ghorroṅ se rond daale aada ne jin ki lashe
-  Tapti hoi zamiṅ per jo bekafan parre haiṅ
+  Mera salaam un par jo tashna lab rakhe haiṅ
+  Bejurm Karbala meiṅ jin ke gale kate haiṅ
+  Ghoroṅ se raund daale aadaa ne jin ke laashe
+  Tapti hui zamiṅ par jo bekafan pare haiṅ
 
   8
-  Wo shaam-e-gham, wo khaime, wo raat, wo fizayaiṅ
-  Bachoṅ ki sehmi sehmi wo muztarib sadayaiṅ
-  Aulaad-e-fatima par kya kya sitam na tute
-  Syedaniyo k sar se chini gayen ridayaiṅ
+  Wo shaam-e-gham, wo khaime, wo raat, wo fazaaeṅ
+  Bachoṅ ki sehmi sehmi wo muztarib sadaaeṅ
+  Aulaad-e-Faatima par kya kya sitam na tute
+  Sayyedaaniyoṅ ke sar se chini gai ridaaeṅ
 
   9
-  Jab ran se arahi thi awaaz-e-istighasa
-  Pur dard kis qadar tha andaaz-e-istighasa
-  Shayad na tha jahaṅ me koi siwaye Asghar
-  Hota jo rahe haq me imdaad-e-istighasa
+  Jab ran se aa rahi thi aawaaz-e-istighaasa
+  Pur dard kis qadar tha andaaz-e-istighaasa
+  Shaayad na tha jahaaṅ meiṅ koi siwaa-e-Asghar
+  Hota jo raah-e-haq meiṅ imdaad-e-istighaasa
 
   10
-  Her bazm her zabaaṅ per haiṅ karbala k charche
-  Ta hasher kam na hoongy aal-e-iba k charche
-  Abbas-e-bafawaa se daad-e-wafa jo milti
-  Hote gali gali me meri wafa k charche
+  Har bazm har zabaaṅ par haiṅ Karbala ke charche
+  Taa hashr kam na hoṅ ge aal-e-abaa ke charche
+  Abbaas-e-baa wafaa se daad-e-wafaa jo milti
+  Hote gali gali meiṅ meri wafaa ke charche
 # source_id: ziyaraat:fb0297f1ee1e937481f7
 # source_url: https://www.ziyaraat.net/api/noha/1280
 # raw_sha256: 2696c44690aa13209bb182e1b8570139f386e1da95efa52aac6e51098f97ed8a

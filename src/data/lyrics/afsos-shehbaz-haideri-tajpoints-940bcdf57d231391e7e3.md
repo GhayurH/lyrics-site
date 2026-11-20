@@ -1,53 +1,93 @@
 ---
-title: "Afsos Shehbaz Haideri"
+title: "افسوس شہباز حیدری"
+alternateTitle: "Afsos Shehbaz Haideri"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-poet: "Shehbaz"
-tags: ["noUrdu"]
+poet: "Shehbaz Haideri"
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:940bcdf57d231391e7e3
 # source_url: https://tajpoints.com/2021/08/afsos-shehbaz-haideri-lyrics-in-urdu.html
 # raw_sha256: a7d9f3e50fcd9dcc0cdeb970f62cd05accf892dfae11b9ced3a88949fcee4bd5
+romanLyrics: |-
+  Afsoos ban mein logon ne loota Qasim ki mehndi Akbar ka sehra
+  Ro ro ke bolein Laila se Farwa Qasim ki mehndi Akbar ka sehra
+
+  1
+  Maon ke dil mein armaan they jitnay
+  Tukray hoye hain beton ke utnay
+  Pamal hotey maon ne dekha
+  Qasim ka mehndi mein khoon mila hai
+
+  2
+  Akbar ka sehra bikhra para hai
+  Youn dekh kar tu mar jati Sughra
+  Baqiye se aa kar ik maa pukari
+  Ro ro ke karti thi aah-o-zaari
+
+  3
+  Aye Shamiyon mat pamal karna
+  Laila-o-Farwa ko seene laga kar
+  Kehti thi Zainab aanso baha kar
+  Abbas hota tu youn na hota
+
+  4
+  Wa gurbata ki de kar sadaein
+  Roti hain sare nabiyon ki maein
+  Jab khak ura kar kehti hain Zahra
+  Rukhsat ka ghar se jab waqt aaya
+
+  5
+  Maon ke gham ne Sheh ko rulaya
+  Na bhool paon ga bolay yeh Maula
+  Laila-o-Farwa ko they satatay
+  Hans hans ke beton ke sar dikhatay
+
+  6
+  Kehte they Shami lehra ke naiza
+  Shehbaz beton ko sehra lagana
+  Hathoon pe unn ke jo mehndi rachana
+  Kehta Asad hai mat bhool jana
 ---
 
-Afsoos Ban Mein Logon Ne Loota Qasim Ki Mehndi Akbar Ka Sehra.
-Ro Ro Ke Bolein Laila Se Farwa Qasim Ki Mehndi Akbar Ka Sehra.
+افسوس بن میں لوگوں نے لوٹا قاسم کی مہندی اکبر کا سہرا
+رو رو کے بولیں لیلیٰ سے فروا قاسم کی مہندی اکبر کا سہرا
 
-1
-Maon Ke Dil Mein Armaan They Jitnay.
-Tukray Hoye Hain Beton Ke Utnay.
-Pamal Hotey Maon Ne Dekha.
-Qasim Ka Mehndi Mein Khoon Mila Hai.
+۱
+ماؤں کے دل میں ارمان تھے جتنے
+ٹکڑے ہوئے ہیں بیٹوں کے اتنے
+پامال ہوتے ماؤں نے دیکھا
+قاسم کا مہندی میں خون ملا ہے
 
-2
-Akbar Ka Sehra Bikhra Para Hai.
-Youn Dekh Kar Tu Mar Jati Sughra.
-Baqiye Se Aa Kar Ik Maa Pukari.
-Ro Ro Ke Karti Thi Aah-o-Zaari.
+۲
+اکبر کا سہرا بکھرا پڑا ہے
+یوں دیکھ کر تو مر جاتی صغریٰ
+بقیع سے آ کر اک ماں پکاری
+رو رو کے کرتی تھی آہ و زاری
 
-3
-Aye Shamiyon Mat Pamal Karna.
-Laila-o-Farwa Ko Seene Laga Kar.
-Kehti Thi Zainab Aanso Baha Kar.
-Abbas Hota Tu Youn Na Hota.
+۳
+اے شامیوں مت پامال کرنا
+لیلیٰ و فروا کو سینے لگا کر
+کہتی تھی زینب آنسو بہا کر
+عباس ہوتا تو یوں نہ ہوتا
 
-4
-Wa Gurbata Ki De Kar Sadaein.
-Roti Hain Sare Nabiyon Ki Maein.
-Jab Khak Ura Kar Kehti Hain Zahra.
-Rukhsat Ka Ghar Se Jab Waqt Aaya.
+۴
+وا غربتا کی دے کر صدائیں
+روتی ہیں سارے نبیوں کی مائیں
+جب خاک اڑا کر کہتی ہیں زہرا
+رخصت کا گھر سے جب وقت آیا
 
-5
-Maon Ke Gham Ne Sheh Ko Rulaya.
-Na Bhool Paon Ga Bolay Yeh Maula.
-Laila-o-Farwa Ko They Satatay.
-Hans Hans Ke Beton Ke Sar Dikhatay.
+۵
+ماؤں کے غم نے شہ کو رلایا
+نہ بھول پاؤں گا بولے یہ مولا
+لیلیٰ و فروا کو تھے ستاتے
+ہنس ہنس کے بیٹوں کے سر دکھاتے
 
-6
-Kehte They Shami Lehra Ke Naiza.
- Shehbaz Beton Ko Sehra Lagana.
-Hathoon Pe Unn Ke Jo Mehndi Rachana.
-Kehta Asad Hai Mat Bhool Jana.
+۶
+کہتے تھے شامی لہرا کے نیزہ
+شہباز بیٹوں کو سہرا لگانا
+ہاتھوں پہ ان کے جو مہندی رچانا
+کہتا اسد ہے مت بھول جانا

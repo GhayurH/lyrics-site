@@ -1,6 +1,6 @@
 ---
 title: "سوے میداں نہ ابھی چھوڑ کے جاؤ مجھکو"
-alternateTitle: "Abhi Na Maidaṅ Mein"
+alternateTitle: "Abhi Na Maidaaṅ Meiṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Suye maidaṅ na abhi chor ke jao mujhko
-  Is tarha jaane padar dur meri aankhoṅ se
-  Saath le jayegi ye teri judaai aakhir
-  Ae mere tashna dahaṅ nur meri aankhoṅ se
-  Abhi na maidaṅ meiṅ jao akbar
-  Ke laal zahra ka mar na jaye
-  Idhar tumhari baraat nikle
-  Udhar ye jaaṅ se guzar na jaye
-  Abhi na maidan...
-  Zaif baba jawan bete
+  Su-e-maidaaṅ na abhi chhor ke jaao mujhko
+  Is tarah jaan-e-padar dur meri aankhoṅ se
+  Saath le jaae gi ye teri judaai aakhir
+  Ae meri tashna dahaaṅ nur meri aankhoṅ se
+  Abhi na maidaaṅ meiṅ jaao Akbar
+  Ke laal Zehra ka mar na jaae
+  Idhar tumhaari baaraat nikle
+  Idhar ye jaaṅ se guzar na jaae
+  Abhi na maidaaṅ...
+  Zaif baaba jawaan bete
   Ke baad ji kar bhi kya karega
-  Raha na aankhoṅ ka nur baakhi
-  To dida e tar bhi kya karega
-  Tumhare dam se jo saans baba
-  Ka chal raha hai teher na jaye
-  Abhi na maidan...
-  Tumhari furqat garaṅ hai dil pe
-  Andhera aankhoṅ pe cha raha hai
-  Tumhari ruqsat ke waqt dil ko
-  Khayaal payham ye kha raha hai
-  Tumhare marne se bibiyoṅ ke
-  Saroṅ se chadar utar na jaye
-  Abhi na maidan...
-  Tumhari sughra ko khat meiṅ baba
+  Raha na aankhoṅ ka nur baaqi
+  To dida-e-tar bhi kya karega
+  Tumhaare dam se jo saaṅs baaba
+  Ka chal raha hai thahar na jaae
+  Abhi na maidaaṅ...
+  Tumhaari furqat garaaṅ hai dil pe
+  Andhera aankhoṅ pe chhaa raha hai
+  Tumhaari rukhsat ke waqt dil ko
+  Khayaal paiham ye kha raha hai
+  Tumhaare marne se Bibiyoṅ ke
+  Saroṅ se chaadar utar na jaae
+  Abhi na maidaaṅ...
+  Tumhaari Sughra ko khat meiṅ baaba
   Tasalli kaise bhala wo dega
-  Batao itna to jaate jaate
-  Jawab qasid ko kya wo dega
-  Tumhare waade pe jo hai zinda
-  Wo sughra bemaar mar na jaye
-  Abhi na maidan...
-  Tumhari shaadi ka jashn karne
-  Kahaṅ kahaṅ se hai aaye zaalim
-  Tumhe lagane lahu ki mehendi
-  Hai barchiyoṅ ko sajaye zaalim
-  Tumhare nazuk badan meiṅ koi
-  Sitam ki barchi utar na jaye
-  Abhi na maidan...
-  Shabih e ahmed ho tum e akbar
-  Tumhare dam se hi raahateiṅ hai
-  Tumhare sehre ki paak lariyaṅ
-  Tamaam quraṅ ki aayateiṅ hai
+  Bataao itna to jaate jaate
+  Jawaab qaasid ko kya wo dega
+  Tumhaare waade pe jo hai zinda
+  Wo Sughra bimaar mar na jaae
+  Abhi na maidaaṅ...
+  Tumhaari shaadi ka jashn karne
+  Kahaaṅ kahaaṅ se hai aaye zaalim
+  Tumheiṅ lagaane lahu ki mehndi
+  Hai barchiyoṅ ko sajaae zaalim
+  Tumhaare naazuk badan meiṅ koi
+  Sitam ki barchi utar na jaae
+  Abhi na maidaaṅ...
+  Shabih-e-Ahmad ho tum ae Akbar
+  Tumhaare dam se hi raahateṅ haiṅ
+  Tumhaare sehre ki paak lariyaaṅ
+  Tamaam Quraaṅ ki aayateṅ haiṅ
   Ye gham hai humko zamiṅ pe beta
-  Tumhara sehra bikhar na jaye
-  Abhi na maidan...
-  Husain ghash khaake gir pare hai
-  Baraat akbar ki jaa rahi hai
-  Samajh ke dulha shabih e ahmed
+  Tumhara sehra bikhar na jaae
+  Abhi na maidaaṅ...
+  Husain ghash kha ke gir pare haiṅ
+  Baaraat Akbar ki jaa rahi hai
+  Samajh ke dulha shabih-e-Ahmad
   Pe phul ummat gira rahi hai
-  Ab aur natiq na likhna aage
-  Ke phat hamara jigar na jaye
-  Abhi na maidan...
+  Ab aur Natiq na likhna aage
+  Ke phat hamaara jigar na jaae
+  Abhi na maidaaṅ...
 # source_id: nohayonline:418168981d1450889780
 # source_url: https://www.nohayonline.com/details_content.php?id=1128
 # raw_sha256: 7d50f33f090780dfd6c44c58ea7d0e02558b92ad14cd27b379860b114a56ccbc

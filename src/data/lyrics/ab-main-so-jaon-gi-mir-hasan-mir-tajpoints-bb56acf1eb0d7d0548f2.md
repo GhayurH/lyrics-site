@@ -8,129 +8,59 @@ poet: "Hasnain Akbar"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Ab Main So Jaon Gi Mir Hasan Mir"
-romanLyrics: 'Baba meray Baba
-
-  Ab mai so jaun ge Baba
-
-  Ab mai so jaun ge, Baba meray Baba
-
-  Baap k sir say lipt ker ye Sakina boli ab mai so jaun ge
-
+alternateTitle: "Ab Main So Jaauṅ Gi Mir Hasan Mir"
+romanLyrics: |-
+  Baba mere Baba
+  Ab main so jaauṅ gi Baba
+  Ab main so jaauṅ gi, Baba mere Baba
+  Baap ke sar se lipat kar ye Sakina boli ab main so jaauṅ gi
 
   1
-
-  Band hu ja’een ge, kuch der may aankhain meri
-
-  Ab mai so jaon ge
-
+  Band ho jaaeṅ gi, kuchh der mein aaṅkheṅ meri
+  Ab main so jaauṅ gi
+  Baap ke sar se lipat kar ye Sakina boli ab main so jaauṅ gi
 
   2
-
-  Chaltay naaqay say jo zalim nay giraya tha mujhay
-
-  Aik Bibi nay galay aa k lagaya tha mujhay
-
-  Apni aaghosh may ik bar sulaya tha mujhay
-
-  Sath Baba k meray i hai phir wo Bibi, ab mai so jaun ge
-
+  Bismillaah ir Rahmaan ir Rahim
+  Baba mere Baba Baba mere Baba Baba mere Baba Baba mere Baba
+  Ab main so jaauṅ gi Baba ab main so jaauṅ gi
 
   3
-
-  Qaid ye khatam hai zindaan ki kuch der k baad
-
-  Pass Asghar k chali jaun ge kuch der k baad
-
-  Band hu ja’ain ge aankhain meri kuch der k baad
-
-  Pyasay hontun say, suna’ain gay jo Baba lori, ab mai so jaun ge
-
+  Chalte naaqe se jo zaalim ne giraaya tha mujhe
+  Ek Bibi ne gale aa ke lagaaya tha mujhe
+  Apni aaghosh mein ik baar sulaaya tha mujhe
+  Saath Baba ke mere aai hai phir wo Bibi, ab main so jaauṅ gi
 
   4
-
-  Sir jhuka’i hoay be’aas kharay hain amma
-
-  Karbala walay meray pass kharay hain amma
-
-  Yahan Akbar wahan Abbas kharay amma
-
-  Aa gai sub mai jinhain yad kia kerti thee, ab mai so jaun ge
-
+  Qaid ye khatm hai zindaan ki kuchh der ke baad
+  Paas Asghar ke chali jaauṅ gi kuchh der ke baad
+  Band ho jaaeṅ gi aaṅkheṅ meri kuchh der ke baad
+  Pyaase hontoṅ se, sunaaeṅ ge jo Baba lori, ab main so jaauṅ gi
 
   5
-
-  Maa ki nazar’un say Sakina ko chupa lo bhaya
-
-  Han mujh ko Quran, masa’ib tu suna du bhaya
-
-  Qibla ro khak pay dukhiya ko lita du bhaya
-
-  Tum say waada raha, dhuratay hoay Naad e Ali, ab mai so jaun ge
-
+  Sar jhukaaye hue beaas khare haiṅ ammaṅ
+  Karbala waale mere paas khare haiṅ ammaṅ
+  Yahaaṅ Akbar wahaaṅ Abbas khare ammaṅ
+  Aa gae sab main jinheṅ yaad kiya karti thi, ab main so jaauṅ gi
 
   6
-
-  Phir nigha’un may meri teer’un bhara hai laasha
-
-  Hath phaila’i hoay hain kharay meray pyaray Baba
-
-  Gunjti hai wo Elahia ya buniyya ki sada
-
-  Aaj awaz wohe aati hai maqtal wali, ab mai so jaun ge
-
+  Maaṅ ki nazroṅ se Sakina ko chhupa lo bhaiya
+  Haaṅ mujh ko Quraan, masaaib to suna do bhaiya
+  Qibla ru khaak pe dukhiya ko lita do bhaiya
+  Tum se waada raha, dohraate hue Naad-e-Ali, ab main so jaauṅ gi
 
   7
-
-  Jub say derbar may ghurbat ka wo manzar dekha
-
-  Shah ki tanhi nay ik bhi pal mujay sonay na dia
-
-  Khatam ye khauf hua aaj say Akbar mera
-
-  Koi ab Baba k, hontun pay na maray ga chari, ab mai so jaun ge
-
+  Phir nigaahoṅ mein meri tiroṅ bhara hai laasha
+  Haath phailaae hue haiṅ khare mere pyaare Baba
+  Guṅjti hai wo Elahiya ya bunayya ki sada
+  Aaj aawaaz wohi aati hai maqtal waali, ab main so jaauṅ gi
 
   8
-
-  Baap Ke Sar Se Lipat Kar Ye Sakina Boli Aab Main So Jaon Gi.
-
-  Band Ho Jaein Gi Kuch Dair Mein Aankhein Meri.
-
-
-  9
-
-  Baap ke sar se...
-
-  Sar jhukaye huwe be-aas khade hai amma
-
-  Karbala walay mere paas khade hai amma
-
-  Yahan akbar wahan abbas khade hai amma
-
-  Aagaye sab mai jinhe yaad kiya karti thi
-
-
-  10
-
-  Maa ki nazron se sakina ko chupalo bhaiya
-
-  Mujhko quran e masaib to sunado bhaiya
-
-  Qibla rooh haath pe dukhya ko litado bhaiya
-
-  Tumse waada raha dohrate huwe naade ali
-
-
-  11
-
-  Phir nigahon mein meri teeron bhara hai laasha
-
-  Haath phailaye huwe hai mere pyare baba
-
-  Goonjti hai wo ilaiyya ya bunayya ki sada
-
-  Aaj awaaz wohi aati hai maqtal waali'
+  Jab se darbaar mein ghurbat ka wo manzar dekha
+  Shah ki tanhaai ne ek pal mujhe sone na diya
+  Khatm ye khauf hua aaj se Akbar mera
+  Koi ab Baba ke hontoṅ pe na maare ga chhari
+  Band ho jaaeṅ gi aaṅkheṅ meri ab main so jaauṅ gi
 reciter: "Meer Hasan Meer"
 # source_id: tajpoints:bb56acf1eb0d7d0548f2
 # source_url: https://tajpoints.com/2017/02/baap-ke-sar-se-lipat-kar-ye-sakinasa.html

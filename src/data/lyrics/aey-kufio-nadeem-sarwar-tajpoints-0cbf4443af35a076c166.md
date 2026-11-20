@@ -8,153 +8,78 @@ poet: "Nadeem Sarwar"
 tags: []
 aliases: []
 published: false
-alternateTitle: "Aey Kufio Nadeem Sarwar"
-romanLyrics: 'Gul Machatay Be Adab Woh Kofiyan-e-Bad Zabaan.
-
-  Wehshaton Ke Dairay Mein Thin Ali Ki Betiyaan.
-
-  Zalimo Ke Samne Qatilon Ke Darmiyaan.
-
-  Choti Dukhtar-e-Ali Ki Aa Rahi Thi Yeh Sada Hussain.
-
+alternateTitle: "Ae Kufiyoṅ Nadeem Sarwar"
+romanLyrics: |-
+  Ghul machaate be adab woh Kufiyaan bad zabaan
+  Wehshatoṅ ke daaire mein thiṅ Ali ki betiyaaṅ
+  Zaalimoṅ ke saamne aur qaatiloṅ ke darmiyaaṅ
+  Chhoti dukhtar-e-Ali ki aa rahi thi yeh sada
 
   1
-
-  Hai zabano par kalmeine khuda
-
-  Phir bhi seeno mein dil hai sang ka
-
-  Phir bhi seeno mein dil hai sang ka
-
-  Ay kufiyane bewafa...
-
+  Nauha yeh tha Kulsum ka
+  Ae Kufiyaan bewafa
+  Ae zaalimoṅ ahl-e-jafa
 
   2
-
-  Noha Yeh Tha Kulsoom Ka Aye Kofiyan-e-Be Wafa.
-
-  Aye Kofiyan-e-Be Wafa Aye Zalimo Ahl-e-Jafa.
-
-  Hai Tumhein Khabar Tum Ho Aashna.
-
-  Kis Ka Ghar Luta Kis Ka Khoon Baha.
-
+  Hai tumheiṅ khabar tum ho aashna
+  Kis ka ghar luta kis ka khuṅ baha
+  Haaye tum ne yeh kya kar diya
+  Kis ko lut kar ghar jala diya
 
   3
-
-  Haye Tum Ne Yeh Kya Kar Diya.
-
-  Kis Ko Laut Kar Ghar Jala Diya.
-
-  Hai Zabno Par Kalma-e-Khuda.
-
-  Phir Bhi Seeno Mein Dil Hai Sang Ka.
-
+  Hai zabaanoṅ par kalma-e-Khuda
+  Phir bhi sinoṅ mein dil hai sang ka
+  Phir bhi sinoṅ mein dil hai sang ka
 
   4
-
-  Oss Hussain Ko Qatal Kar Diya.
-
-  Jis Ke Pas Hai Marzi-e-Khuda.
-
-  Deen Jis Ke Ghar Surkhuru Howa.
-
-  Jis Hussain Ka Nana Mustafa.
-
+  Us Husain ko qatl kar diya
+  Jis ke paas hai marzi-e-Khuda
+  Din jis ke ghar surkhru hua
+  Jis Husain ka naana Mustafa
 
   5
-
-  Jis Hussain Ka Baba Murtaza.
-
-  Jis Hussain Ki Maa Hai Syeda.
-
-  Robaro Agar Hoga Samna.
-
-  Kaisay Jao Gay Paish-e-Kibriya.
-
+  Jis Husain ka baba Murtaza
+  Jis Husain ki maaṅ hai Saiyeda
+  Rubaru agar hoga saamna
+  Kaise jaaoge pesh-e-Kibriya
 
   6
-
-  Zulm Kaun Sa Hum Pe Na Howa.
-
-  Phir Bhi Hum Rahe Razi Ba Raza.
-
-  Bhai Ko Mere Dhoka De Diya.
-
-  Sath Na Diya Akela Kar Diya.
-
+  Zulm kaun sa hum pe na hua
+  Phir bhi hum rahe raazi ba raza
+  Bhaai ko mere dhoka de diya
 
   7
-
-  Pehle Khat Likhe Our Bola Liya.
-
-  Phir Ghareeb Ka Khoon Baha Diya.
-
-  Mat Zameen Par Tum Bano Khuda.
-
-  Waqt Hai Qareeb Ho Ga Faisla.
-
+  Saath na diya akela kar diya
+  Pehle khat likhe aur bula liya
+  Phir gharib ka khuṅ baha diya
+  Mat zamin par tum bano Khuda
 
   8
-
-  Waqt hai khareeb hoga faisla
-
-  Ay kufiyon zulm ho gaya
-
-  Aal e mustafa se muqabla
-
+  Waqt hai qarib hoga faisla
+  Ae Kufiyoṅ zulm ho gaya
+  Aal-e-Mustafa se muqaabla
 
   9
-
-  Jis ke nana se deen e haq mila
-
-  Us nawase ko ye sila mila
-
-  Wa musibata yun chaman luta
-
+  Itrat-e-Nabi hum haiṅ ba Khuda
+  Zer-e-aasmaaṅ sar khula hua
+  Baandh kar hameiṅ qaid kar liya
+  Aur phir hameiṅ baaghi keh diya
 
   10
-
-  Aye Kofiyo Zulm Ho Gaya.
-
-  Aal-e-Mustafa Se Moqabila.
-
-  Itrat-e-Nabi Hum Hain Ba Khuda.
-
-  Zair-e-Aasmaan Sar Khula Howa.
-
+  Jis ke naana se din-e-haq mila
+  Us nawaase ko yeh sila mila
+  Wa musibata yuṅ chaman luta
 
   11
-
-  Bandh Kar Humein Qaid Kar Liya.
-
-  Our Phir Humein Bagi Keh Diya.
-
-  Jis Ke Nana Se Deen-e-Haq Mila.
-
-  Oss Nawasay Ko Yeh Sila Mila.
-
+  Gher kar hameiṅ laaye Karbala
+  Band hum pe phir paani kar diya
+  Qatl kar diya ghar ka ghar mera
+  Saiyedoṅ ke sar kar diye juda
 
   12
-
-  Wa Musibata Youn Chaman Luta.
-
-  Ghair Kar Humein Laye Karbala.
-
-  Band Hum Pe Phir Pani Kar Diya.
-
-  Qatal Kar Diya Ghar Ka Ghar Mera.
-
-
-  13
-
-  Syedon Ke Sar Kar Diye Juda.
-
-  Zulm Ki Hoi Hum Pe Inteha.
-
-  Tum Pe Waye Ho Haye Kya Kiya.
-
-  Ajar-e-Mustafa Youn Ada Kiya.'
+  Zulm ki hui hum pe inteha
+  Tum pe waaye ho haaye kya
+  Hua ajr-e-Mustafa yuṅ ada kiya
 # source_id: tajpoints:0cbf4443af35a076c166
 # source_url: https://tajpoints.com/2022/11/aey-kufio-nadeem-sarwar-lyrics-in-urdu.html
 # raw_sha256: 4feb761d4e52c1af14897c9031796821674214b748c5c3af79d3389f37719907

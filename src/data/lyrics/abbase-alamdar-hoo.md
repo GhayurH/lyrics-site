@@ -1,6 +1,6 @@
 ---
 title: "ہاے غربت عباس"
-alternateTitle: "Abbase Alamdar Hoo"
+alternateTitle: "Abbas-e-Alamdar Huṅ"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,41 +11,41 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Haye ghurbate abbas
-  Ruqsaar mere khun se ghalta bhi pare hai
-  Tapti hui reti se moo ghazi ke ate hai
-  Taqdir se lachaar hoo bedast hoo aaqa
-  Abbas e alamdar hoo bedast hoo aaqa
-  Mai bekas o lachaar hoo bedast hoo aaqa
-  Abbas e alamdar hoo...
-  Mai kis tarha aaqa teri tazim ko uthuṅ
-  Zakhmi hai mere honth bhi lab kis tarha kholuṅ
-  Mai kaisa madadgaar hoo bedast hoo aaqa
-  Abbas e alamdar hoo...
-  Jinpe tha bara naaz wohi saath nahi hai
-  Ye waqt ajab hai ke mere haath nahi hai
-  Mai hoke bhi lachaar hoo bedast hoo aaqa
-  Abbas e alamdar hoo...
-  Sunta hoo sakina ka gala hoga rasan may
-  Hai taab kahaṅ itni bhala ghuncha dahan may
-  Is gham se mai do chaar hoo bedast hoo aaqa
-  Abbas e alamdar hoo...
-  Mai kaise kahuṅ kis tarha ghore se gira hoo
-  Karwat bhi nahi badli mai waise hi para hoo
-  Kitna mai labe aar hoo bedast hoo aaqa
-  Abbas e alamdar hoo...
-  Shabbir ne abbas ka sar zaano pe rakha
-  Phir bole alamdar se bhai kaho bhaiya
-  Sun kar tera ghamkhaar hoo bedast hoo aaqa
-  Abbas e alamdar hoo...
-  Jab sar pe laga gurz to phir gir pare abbas
-  Aaqa mere jab mashk chidi mar gaye abbas
-  Har gham se giraftaar hoo bedast hoo aaqa
-  Abbas e alamdar hoo...
-  Rehan o mubarak pe ayaṅ kaise ye gham ho
-  Jab khun may duba hua ghazi ka alam ho
-  Ghamkhwar hoo lachaar hoo bedast hoo aaqa
-  Abbas e alamdar hoo...
+  Haaye ghurbat-e-Abbas
+  Rukhsaar mere khun se ghaltaaṅ bhi pare haiṅ
+  Tapti hui reti se muṅh Ghazi ke aate haiṅ
+  Taqdir se lachaar huṅ bedast huṅ aaqa
+  Abbas-e-Alamdar huṅ bedast huṅ aaqa
+  Main bekas o lachaar huṅ bedast huṅ aaqa
+  Abbas-e-Alamdar huṅ
+  Main kis tarah aaqa teri tazim ko uthuṅ
+  Zakhmi haiṅ mere honth bhi lab kis tarah kholuṅ
+  Main kaisa madadgaar huṅ bedast huṅ aaqa
+  Abbas-e-Alamdar huṅ
+  Jin pe tha bara naaz wohi saath nahiṅ hai
+  Ye waqt ajab hai ke mere haath nahiṅ haiṅ
+  Main ho ke bhi lachaar huṅ bedast huṅ aaqa
+  Abbas-e-Alamdar huṅ
+  Sunta huṅ Sakina ka gala hoga rasan mein
+  Hai taab kahaṅ itni bhala ghuncha dahan mein
+  Is gham se main do chaar huṅ bedast huṅ aaqa
+  Abbas-e-Alamdar huṅ
+  Main kaise kahuṅ kis tarah ghore se gira huṅ
+  Karwat bhi nahiṅ badli main waise hi para huṅ
+  Kitna main lab-e-aar huṅ bedast huṅ aaqa
+  Abbas-e-Alamdar huṅ
+  Shabbir ne Abbas ka sar zaanoṅ pe rakha
+  Phir bole Alamdar se bhai kaho bhaiya
+  Sun kar tera ghamkhwar huṅ bedast huṅ aaqa
+  Abbas-e-Alamdar huṅ
+  Jab sar pe laga gurz to phir gir pare Abbas
+  Aaqa mere jab mashk chhidi mar gaye Abbas
+  Har gham se giraftaar huṅ bedast huṅ aaqa
+  Abbas-e-Alamdar huṅ
+  Rehan o Mubarak pe ayaaṅ kaise ye gham ho
+  Jab khun mein duba hua Ghazi ka alam ho
+  Ghamkhwar huṅ lachaar huṅ bedast huṅ aaqa
+  Abbas-e-Alamdar huṅ
 # source_id: nohayonline:12b1f139cdd239be98a7
 # source_url: https://www.nohayonline.com/details_content.php?id=716
 # raw_sha256: 5a8e2aea768f2d103869348879b00b029446b0fac9cbd2fff1c1235134aa10d1

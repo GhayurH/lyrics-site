@@ -1,6 +1,6 @@
 ---
 title: "جب کوئی قاتل شبیر گرفتار ہوا"
-alternateTitle: "Aap Ne Hazrate Mukhtar"
+alternateTitle: "Aap Ne Hazrat-e-Mukhtaar"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,57 +11,57 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab koi qaatile shabbir giraftaar hua
-  Ye khabar sunke koi khidmate maula meiṅ gaya
-  Ashk barsaate huwe abid e muztar ne kaha
-  Tune badla liya mukhtaar hai ehsaan tera
-  Qalbe zehra ke har ek zakhm pe marham rakha
-  Aap ne hazrat-e-mukhtaar bara kaam kiya
-  Aap ke hausle kar dete hai qaumoṅ ko jawan
-  Aap ke khun meiṅ hyder ki mohabbat thi rawaṅ
-  Aap ke hubb meiṅ imran ka jazba tha ayaṅ
-  Aap ke josh pe nazaaṅ hai bahot karbobala
-  Aap ne hazrate mukhtaar...
+  Jab koi qaatil-e-Shabbir giraftaar hua
+  Ye khabar sun ke koi khidmat-e-Maula meiṅ gaya
+  Ashk barsaate hue Aabid-e-Muztar ne kaha
+  Tu ne badla liya Mukhtaar hai ehsaan tera
+  Qalb-e-Zehra ke har ek zakhm pe marham rakha
+  Aap ne Hazrat-e-Mukhtaar bara kaam kiya
+  Aap ke hausle kar dete haiṅ qaumoṅ ko jawaan
+  Aap ke khun meiṅ Haidar ki mohabbat thi rawaaṅ
+  Aap ke hubb meiṅ Imran ka jazba tha ayaaṅ
+  Aap ke josh pe nazaaṅ hai bahut Karbobala
+  Aap ne Hazrat-e-Mukhtaar...
   Aag jo dil meiṅ hai us aag ka darya kya hai
-  Ek maula ke azadaar ka jazba kya hai
-  Inteqam e ali asghar ka takaza kya hai
-  Aap ke khun meiṅ tha josh abu talib ka
-  Aap ne hazrate mukhtaar...
-  Aap ko aal e payambar ka tha kitna ehsaas
-  Bhul paaye na kabhi aap sakina ki pyaas
-  Pani pite huwe thi ek sada ya abbas
-  Aap ne daste bureeda ka liya tha badla
-  Aap ne hazrate mukhtaar...
-  Rajat e jism e murattab hai wo manzar kya hai
-  Hujjat e asr ki azmat ka samandar kya hai
-  Jiske lashkar meiṅ ali honge wo lashkar kya hai
-  Wo sadi aayegi mukhtaar the jiska lamha
-  Aap ne hazrate mukhtaar...
-  Zulm ke daur meiṅ mazlum ki taaqat mukhtaar
-  Jabr ke saamne inkaar ki himmat mukhtaar
-  Hashr tak dil pe yazidoṅ ke hai haibat mukhtaar
-  Aap ne laakhoṅ jigar chaak kiye hai tanha
-  Aap ne hazrate mukhtaar...
-  Roz hote hai yahaṅ kitne azadaar shahid
-  Faisla kar liya ab zulm nahi sehne mazid
-  Kaat kar rakhdo azadaroṅ zara nasle yazid
+  Ik Maula ke azaadaar ka jazba kya hai
+  Inteqaam-e-Ali Asghar ka taqaaza kya hai
+  Aap ke khun meiṅ tha josh Abu Talib ka
+  Aap ne Hazrat-e-Mukhtaar...
+  Aap ko aal-e-Payambar ka tha kitna ehsaas
+  Bhul paaye na kabhi aap Sakina ke pyaas
+  Paani pite hue thi ik sada Ya Abbas
+  Aap ne dast-e-burida ka liya tha badla
+  Aap ne Hazrat-e-Mukhtaar...
+  Rajat-e-jism-e-murattab hai wo manzar kya hai
+  Hujjat-e-asr ki azmat ka samandar kya hai
+  Jis ke lashkar meiṅ Ali honge wo lashkar kya hai
+  Wo sadi aayegi Mukhtaar the jis ka lamha
+  Aap ne Hazrat-e-Mukhtaar...
+  Zulm ke daur meiṅ mazlum ki taaqat Mukhtaar
+  Jabr ke saamne inkaar ki himmat Mukhtaar
+  Hashr tak dil pe Yazidoṅ ke hai haibat Mukhtaar
+  Aap ne laakhoṅ jigar chaak kiye haiṅ tanha
+  Aap ne Hazrat-e-Mukhtaar...
+  Roz hote hai yahaaṅ kitne azaadaar shahid
+  Faisla kar liya ab zulm nahiṅ sehne mazid
+  Kaat kar rakh do azaadaaroṅ zara nasl-e-Yazid
   Aap ke josh se milta hai hameiṅ bhi jazba
-  Aap ne hazrate mukhtaar...
-  Ye to allah ki nemat hai shahadat lelo
-  Ashke shabbir se talwaar ki taaqat lelo
-  Mat daro hazrat-e-mukhtaar se himmat lelo
-  Daad deti hai inhe ruhe shahe karbobala
-  Aap ne hazrate mukhtaar...
-  Baaqi rehta hai abhi jor o jafa ka badla
-  Noke naiza se chini ek rida ka badla
-  Apni hadh meiṅ jo liya karbobala ka badla
-  Inteqam asl meiṅ baaqi hai abhi waaris ka
-  Aap ne hazrate mukhtaar...
-  Ae qamar sog barha chain diloṅ ne paaya
-  Saamne aap ke jis dam sar e hurmal aaya
-  Zere lab jis tarha sajjad ne ho farmeina
-  Aap ne hazrat-e-mukhtaar bara kaam kiya
-  Aap ne hazrate mukhtaar...
+  Aap ne Hazrat-e-Mukhtaar...
+  Ye to Allah ki nemat hai shahaadat le lo
+  Ashk-e-Shabbir se talwaar ki taaqat le lo
+  Mat daro Hazrat-e-Mukhtaar se himmat le lo
+  Daad deti hai inheiṅ ruh-e-shaah-e-Karbobala
+  Aap ne Hazrat-e-Mukhtaar...
+  Baaqi rehta hai abhi jaur o jafa ka badla
+  Nok-e-naiza se chhini ik rida ka badla
+  Apni had meiṅ jo liya Karbobala ka badla
+  Inteqaam asl meiṅ baaqi hai abhi waaris ka
+  Aap ne Hazrat-e-Mukhtaar...
+  Ae Qamar sog barha chain diloṅ ne paaya
+  Saamne aap ke jis dam sar-e-Hurmala aaya
+  Zer-e- lab jis tarha Sajjad ne ho farmaaya
+  Aap ne Hazrat-e-Mukhtaar bara kaam kiya
+  Aap ne Hazrat-e-Mukhtaar...
 # source_id: nohayonline:369a4ae420695eb7c50a
 # source_url: https://www.nohayonline.com/details_content.php?id=2345
 # raw_sha256: 4377c80b94f59ac5c1577e5d1d3897f81f0fb65cbb41542c8c248c0e137113d7

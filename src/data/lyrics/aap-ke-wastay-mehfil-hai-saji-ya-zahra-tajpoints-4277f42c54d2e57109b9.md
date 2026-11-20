@@ -1,50 +1,87 @@
 ---
-title: "Aap Ke Wastay Mehfil Hai Saji Ya Zahra"
+title: "آپ کے واسطے محفل ہے سجی یا زہرا"
+alternateTitle: "Aap Ke Wastay Mehfil Hai Saji Ya Zahra"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Mohtasham"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:4277f42c54d2e57109b9
 # source_url: https://tajpoints.com/2024/01/aap-ke-wastay-mehfil-hai-saji-ya-zahra.html
 # raw_sha256: b4650d475adbf98db9dc64ca601727b1f7debd6e899c46e9ff90bf7f95987749
+romanLyrics: |-
+  1
+  Aap ke wastay mehfil hai saji ya Zahra
+  Iss liye bazm mein ronaq hai bari ya Zahra
+  Kyun na pur noor ho mehfil yeh tere aane ki
+  Iss mein shamil hain sabhi aal-e-Nabi ya Zahra
+
+  2
+  Kyun na mangein jo dil chahe rasool-e-haq se
+  Hai Muhammad ko mili rab se khushi ya Zahra
+  Howa sar sabz gulsitan-e-risalat hai aaj
+  Bag-e-Ahmad mein khili aap kali ya Zahra
+
+  3
+  Noor se aap ke roshan hai payamber ka ghar
+  Zaib-e-Aagosh-e-Khadija hai bani ya Zahra
+  Do jahan ke liye rehmat hai rasool-e-bar haq
+  Our oss ke liye rehmat hai bani ya Zahra
+
+  4
+  Na Muhammad na Ali khalq Khuda karta agar
+  Khalq karta na tumhein bint-e-Nabi ya Zahra
+  Faida ishq-e-Nabi unn ko nahi de ga kabhi
+  Jin se razi nahi hai bint-e-Nabi ya Zahra
+
+  5
+  Koi sail tere darwazay se khali na gaya
+  Kaisay likhon main yeh kitni hain sakhi ya Zahra
+  Aap ke hi tu tasadduq se mujhe milta hai
+  Rizq mein aaye gi phir kaisay kami ya Zahra
+
+  6
+  Ho woh Salman-o-Abuzar ya ho Qamber, Fizza
+  Nokari aap ke dar ki jo hai ki ya Zahra
+  Mohtasham apne muqadar pe hai nazaan tab se
+  Manqabat aap ki jab se hai likhi ya Zahra
 ---
 
-1
-Aap Ke Wastay Mehfil Hai Saji Ya Zahra.
-Iss Liye Bazm Mein Ronaq Hai Bari Ya Zahra.
-Kyun Na Pur Noor Ho Mehfil Yeh Tere Aane Ki.
-Iss Mein Shamil Hain Sabhi Aal-e-Nabi Ya Zahra.
+۱
+آپ کے واسطے محفل ہے سجی یا زہرا
+اس لیے بزم میں رونق ہے بڑی یا زہرا
+کیوں نہ پُرنور ہو محفل یہ تیرے آنے کی
+اس میں شامل ہیں سبھی آلِ نبی یا زہرا
 
-2
-Kyun Na Mangein Jo Dil Chahe Rasool-e-Haq Se.
-Hai Muhammad Ko Mili Rab Se Khushi Ya Zahra.
-Howa Sar Sabz Gulsitan-e-Risalat Hai Aaj.
-Bag-e-Ahmad Mein Khili Aap Kali Ya Zahra.
+۲
+کیوں نہ مانگیں جو دل چاہے رسولِ حق سے
+ہے محمد کو ملی رب سے خوشی یا زہرا
+ہوا سرسبز گلستانِ رسالت ہے آج
+باغِ احمد میں کھلی آپ کلی یا زہرا
 
-3
-Noor Se Aap Ke Roshan Hai Payamber Ka Ghar.
-Zaib-e-Aagosh-e-Khadija Hai Bani Ya Zahra.
-Do Jahan Ke Liye Rehmat Hai Rasool-e-Bar Haq.
-Our Oss Ke Liye Rehmat Hai Bani Ya Zahra.
+۳
+نور سے آپ کے روشن ہے پیمبر کا گھر
+زیبِ آغوشِ خدیجہ ہے بنی یا زہرا
+دو جہاں کے لیے رحمت ہے رسولِ برحق
+اور اُس کے لیے رحمت ہے بنی یا زہرا
 
-4
-Na Muhammad Na Ali Khalq Khuda Karta Agar.
-Khalq Karta Na Tumhein Bint-e-Nabi Ya Zahra.
-Faida Ishq-e-Nabi Unn Ko Nahi De Ga Kabhi.
-Jin Se Razi Nahi Hai Bint-e-Nabi Ya Zahra.
+۴
+نہ محمد نہ علی خلق خدا کرتا اگر
+خلق کرتا نہ تمہیں بنتِ نبی یا زہرا
+فائدہ عشقِ نبی اُن کو نہیں دے گا کبھی
+جن سے راضی نہیں ہے بنتِ نبی یا زہرا
 
-5
-Koi Sail Tere Darwazay Se Khali Na Gaya.
-Kaisay Likhon Main Yeh Kitni Hain Sakhi Ya Zahra.
-Aap Ke Hi Tu Tasadduq Se Mujhe Milta Hai.
-Rizq Mein Aaye Gi Phir Kaisay Kami Ya Zahra.
+۵
+کوئی سائل تیرے دروازے سے خالی نہ گیا
+کیسے لکھوں میں یہ کتنی ہیں سخی یا زہرا
+آپ کے ہی تو تصدق سے مجھے ملتا ہے
+رزق میں آئے گی پھر کیسے کمی یا زہرا
 
-6
-Ho Woh Salman-o-Abuzar Ya Ho Qamber, Fizza.
-Nokari Aap Ke Dar Ki Jo Hai Ki Ya Zahra.
- Mohtasham Apne Muqadar Pe Hai Nazaan Tab Se.
-Manqabat Aap Ki Jab Se Hai Likhi Ya Zahra.
+۶
+ہو وہ سلمان و ابوذر یا ہو قنبر، فضہ
+نوکری آپ کے در کی جو ہے کی یا زہرا
+محتشم اپنے مقدر پہ ہے نازاں تب سے
+منقبت آپ کی جب سے ہے لکھی یا زہرا

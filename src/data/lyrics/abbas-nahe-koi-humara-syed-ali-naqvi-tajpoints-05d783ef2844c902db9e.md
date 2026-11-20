@@ -1,50 +1,87 @@
 ---
-title: "Abbas Nahe Koi Humara Syed Ali Naqvi"
+title: "عباس نہیں کوئی ہمارا سید علی نقوی"
+alternateTitle: "Abbas Nahe Koi Humara Syed Ali Naqvi"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Zeeshan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:05d783ef2844c902db9e
 # source_url: https://tajpoints.com/2024/08/abbas-nahe-koi-humara-syed-ali-naqvi.html
 # raw_sha256: a6090055fb840bde80810ed02adc67e8e14742ffa6e220bf223319055858d737
+romanLyrics: |-
+  1
+  Abbas nahe koi humara Syed Ali Naqvi
+  Darya pe nahi jao khudara Abbas nahi koi hamara
+  Ab kaun humein de ga sahara Abbas nahi koi hamara
+  Hum dekh ke jeetay hain tera chehra baradar
+
+  2
+  Mar jaon ga pardais mein main tum se bichar kar
+  Dhondon ga kahan chehra tumhara Abbas nahi koi hamara
+  Mushkil hai tere baad meri beti ka jeena
+  Ammo hain kahan jab bhi yeh pochay gi Sakina
+
+  3
+  Kya ossko bataon ga khudara Abbas nahi koi hamara
+  Gar kat gaye Abbas tere hath wahan par
+  Phir kaun bachaye ga meri behno ki chadar
+  Jeetay jee issi baat ne mara Abbas nahi koi hamara
+
+  4
+  Hum kaisay utha paein gay bhai tere gham ko
+  Maqtal mein chaley jao gay jab chor ke hum ko
+  Khaimon mein na aao gay dobarah Abbas nahi koi hamara
+  Marey ga koi gurz koi teer jabeen par
+
+  5
+  Gir jao gay tum chehray ke bal zeen se zameen par
+  Beh jaye ga khoon nehar pe sara Abbas nahi koi hamara
+  Ruk jao tum Abbas meri maa ki dua ho
+  Dharas ho meri sani-e-Zahra ki rida ho
+
+  6
+  Tu hai meri aankhon ka sitara Abbas nahi koi hamara
+  Zeeshan-o- Ali kaisa tha rukhsat ka woh manzar
+  Abbas chaley khaimon se jab mashk utha kar
+  Bas kehta raha Zahra ka pyara Abbas nahi koi hamara
 ---
 
-1
-Abbas Nahe Koi Humara Syed Ali Naqvi
-Darya Pe Nahi Jao Khudara Abbas Nahi Koi Hamara.
-Ab Kaun Humein De Ga Sahara Abbas Nahi Koi Hamara.
-Hum Dekh Ke Jeetay Hain Tera Chehra Baradar.
+۱
+عباس نہیں کوئی ہمارا سید علی نقوی
+دریا پہ نہیں جاؤ خدارا، عباس نہیں کوئی ہمارا
+اب کون ہمیں دے گا سہارا، عباس نہیں کوئی ہمارا
+ہم دیکھ کے جیتے ہیں تیرا چہرہ برادر
 
-2
-Mar Jaon Ga Pardais Mein Main Tum Se Bichar Kar.
-Dhondon Ga Kahan Chehra Tumhara Abbas Nahi Koi Hamara.
-Mushkil Hai Tere Baad Meri Beti Ka Jeena.
-Ammo Hain Kahan Jab Bhi Yeh Pochay Gi Sakina.
+۲
+مر جاؤں گا پردیس میں میں تم سے بچھڑ کر
+ڈھونڈوں گا کہاں چہرہ تمہارا، عباس نہیں کوئی ہمارا
+مشکل ہے تیرے بعد میری بیٹی کا جینا
+عمو ہیں کہاں، جب بھی یہ پوچھے گی سکینہ
 
-3
-Kya Ossko Bataon Ga Khudara Abbas Nahi Koi Hamara.
-Gar Kat Gaye Abbas Tere Hath Wahan Par.
-Phir Kaun Bachaye Ga Meri Behno Ki Chadar.
-Jeetay Jee Issi Baat Ne Mara Abbas Nahi Koi Hamara.
+۳
+کیا اس کو بتاؤں گا خدارا، عباس نہیں کوئی ہمارا
+گر کٹ گئے عباس تیرے ہاتھ وہاں پر
+پھر کون بچائے گا میری بہنوں کی چادر
+جیتے جی اسی بات نے مارا، عباس نہیں کوئی ہمارا
 
-4
-Hum Kaisay Utha Paein Gay Bhai Tere Gham Ko.
-Maqtal Mein Chaley Jao Gay Jab Chor Ke Hum Ko.
-Khaimon Mein Na Aao Gay Dobarah Abbas Nahi Koi Hamara.
-Marey Ga Koi Gurz Koi Teer Jabeen Par.
+۴
+ہم کیسے اٹھا پائیں گے بھائی تیرے غم کو
+مقتل میں چلے جاؤ گے جب چھوڑ کے ہم کو
+خیموں میں نہ آؤ گے دوبارہ، عباس نہیں کوئی ہمارا
+مارے گا کوئی گرز کوئی تیر جبیں پر
 
-5
-Gir Jao Gay Tum Chehray Ke Bal Zeen Se Zameen Par.
-Beh Jaye Ga Khoon Nehar Pe Sara Abbas Nahi Koi Hamara.
-Ruk Jao Tum Abbas Meri Maa Ki Dua Ho.
-Dharas Ho Meri Sani-e-Zahra Ki Rida Ho.
+۵
+گر جاؤ گے تم چہرے کے بل زین سے زمیں پر
+بہہ جائے گا خون نہر پہ سارا، عباس نہیں کوئی ہمارا
+رک جاؤ تم عباس میری ماں کی دعا ہو
+ڈھارس ہو میری ثانیِ زہرا کی ردا ہو
 
-6
-Tu Hai Meri Aankhon Ka Sitara Abbas Nahi Koi Hamara.
- Zeeshan-o- Ali Kaisa Tha Rukhsat Ka Woh Manzar.
-Abbas Chaley Khaimon Se Jab Mashk Utha Kar.
-Bas Kehta Raha Zahra Ka Pyara Abbas Nahi Koi Hamara.
+۶
+تو ہے میری آنکھوں کا ستارا، عباس نہیں کوئی ہمارا
+ذیشان و علی کیسا تھا رخصت کا وہ منظر
+عباس چلے خیموں سے جب مشک اٹھا کر
+بس کہتا رہا زہرا کا پیارا، عباس نہیں کوئی ہمارا

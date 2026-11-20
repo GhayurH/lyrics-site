@@ -15,8 +15,8 @@ romanLyrics: |-
   Qaari namaaziyoṅ se mehfil saji hui thi
   Zaalim ye puchhta tha Ghazi tera kahaṅ hai
   Baaloṅ se munh chhupaaye Zainab ye keh rahi thi
-  Ae mere Baba jaan ho rahi hai azaaṅ sar chhupauṅ kahaṅ
-  Majma-e-aam meiṅ bewatan beamaan aa gaya karwaaṅ
+  Ae mere Baba jaan ho rahi hai azaaṅ sar chhupaauṅ kahaṅ
+  Majma-e-aam meiṅ bewatan beamaaṅ aa gaya karwaaṅ
 
   1
   Maiṅ bhi huṅ Marziya bint-e-Khair-un-Nisa
@@ -30,14 +30,14 @@ romanLyrics: |-
 
   3
   Baba jaaṅ ye tera aakhri tha bayaaṅ
-  Teri chaadar bachaayega Ghazi jawaaṅ
-  Mar gaya baawafa chhin gayi hai rida kehti haiṅ Bibiyaaṅ
+  Teri chaadar bachaaye ga Ghazi jawaaṅ
+  Mar gaya baawafa chhin gayi hai rida kehti haiṅ bibiyaaṅ
   Abbas Abbas Abbas
 
   4
   Ruk na paaya mere baawafa ka wo sar
   Nok-e-naiza se aane laga khaak par
-  Behan ko dar-ba-dar dekh kar nange sar seh na paaya jawaaṅ
+  Behan ko dar ba dar dekh kar nange sar seh na paaya jawaaṅ
 
   5
   Haath kaanoṅ pe haiṅ nil gaaloṅ pe haiṅ
@@ -46,11 +46,11 @@ romanLyrics: |-
 
   6
   Shaam-e-Aashur se Shaam o Kufa talak
-  Maiṅ ne maanga nahi hai khiraaj-e-Fadak
-  Meri chaadar se hai meri maa ka sukuṅ sun le zaalim jahaaṅ
+  Maiṅ ne maanga nahiṅ hai khiraaj-e-Fadak
+  Meri chaadar se hai meri maaṅ ka sukuṅ sun le zaalim jahaaṅ
 
   7
-  Kal thi maa aaj maiṅ bhi huṅ darbaar meiṅ
+  Kal thi maaṅ aaj maiṅ bhi huṅ darbaar meiṅ
   Misl-e-Zahra khari huṅ maiṅ aghyaar meiṅ
   Us taraf haiṅ shaqi is taraf reh gayiṅ bepidar betiyaaṅ
 

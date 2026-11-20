@@ -1,41 +1,69 @@
 ---
-title: "Aata Hai Tishnagi Ka Samandar Furat Par"
+title: "آتا ہے تشنگی کا سمندر فرات پر"
+alternateTitle: "Aata Hai Tishnagi Ka Samandar Furat Par"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:c908279442b2a747f14f
 # source_url: https://tajpoints.com/2019/04/aata-hai-tishnagi-ka-samandar-furat-par.html
 # raw_sha256: 50101a083c3f7a82a537cfe5f9b0ff2b9ca3459b47d052cb3d5b11b3047df8a7
+romanLyrics: |-
+  Aata hai tishnagi ka samandar Furat par
+  Tazeem mojein karti hain uth kar Furat par
+
+  1
+  Youn dosh par uthaye hai mashkeeza ba-wafa
+  Jaise khare hoon fatahe Kahibar Furat par
+  Pani ko dekhta nahi Allah re wafa
+  Pyasa khara hai shair-e-dilawar Furat par
+
+  2
+  Ab kis mein dam hai cheene jo mahar-e-Batool ko
+  Rehta hai ibn-e-saqi-e-Kausar Furat par
+  Pehle hata tha shair woh hukam-e-Imam tha
+  Ab aa ke dekhe koi sitamgar Furat par
+
+  3
+  Sahil pe aa ke lehrein bhi dam toorne lagin
+  Tari hai aisa roab Ghazanfar Furat par
+  Yeh keh ke hath chomein hain ghazi ke ishq ne
+  Gara hai tu ne parcham-e-Haider Furat par
+
+  4
+  Ghazi ko de dua tujhe ruswa nahi kiya
+  Ab mustaqil hai pyas tera ghar Furat par
+  Aab-e-hayat lene Takallum dalear se
+  Aate hain Khizar jaise payamber Furat par
 ---
 
-Aata Hai Tishnagi Ka Samandar Furat Par.
-Tazeem Mojein Karti Hain Uth Kar Furat Par.
+آتا ہے تشنگی کا سمندر فرات پر
+تعظیم موجیں کرتی ہیں اٹھ کر فرات پر
 
-1
-Youn Dosh Par Uthaye Hai Mashkeeza Ba-Wafa.
-Jaise Khare Hoon Fatahe Kahibar Furat Par.
-Pani Ko Dekhta Nahi ALLAH Re Wafa.
-Pyasa Khara Hai Shair-e-Dilawar Furat Par.
+۱
+یوں دوش پر اٹھائے ہے مشکیزہ باوفا
+جیسے کھڑے ہوں فاتحِ خیبر فرات پر
+پانی کو دیکھتا نہیں، اللہ رے وفا
+پیاسا کھڑا ہے شیرِ دلاور فرات پر
 
-2
-Ab Kis Mein Dam Hai Cheene Jo Mahar-e-Batool Ko.
-Rehta Hai Ibn-e-Saqi-e-Kausar Furat Par.
-Pehle Hata Tha Shair Woh Hukam-e-Imam Tha.
-Ab Aa Ke Dekhe Koi Sitamgar Furat Par.
+۲
+اب کس میں دم ہے چھینے جو مہارِ بتول کو
+رہتا ہے ابنِ ساقیِ کوثر فرات پر
+پہلے ہٹا تھا شیر، وہ حکمِ امام تھا
+اب آ کے دیکھے کوئی ستمگر فرات پر
 
-3
-Sahil Pe Aa Ke Lehrein Bhi Dam Toorne Lagin.
-Tari Hai Aisa Roab Ghazanfar Furat Par.
-Yeh Keh Ke Hath Chomein Hain Ghazi Ke Ishq Ne.
-Gara Hai Tu Ne Parcham-e-Haider Furat Par.
+۳
+ساحل پہ آ کے لہریں بھی دم توڑنے لگیں
+طاری ہے ایسا رعبِ غضنفر فرات پر
+یہ کہہ کے ہاتھ چومیں ہیں غازی کے عشق نے
+گاڑا ہے تو نے پرچمِ حیدر فرات پر
 
-4
-Ghazi Ko De Dua Tujhe Ruswa Nahi Kiya.
-Ab Mustaqil Hai Pyas Tera Ghar Furat Par.
-Aab-e-Hayat Lene Takallum Dalear Se.
-Aate Hain Khizar Jaise Payamber Furat Par.
+۴
+غازی کو دے دعا، تجھے رسوا نہیں کیا
+اب مستقل ہے پیاس، تیرا گھر فرات پر
+آبِ حیات لینے تکلم دلیر سے
+آتے ہیں خضر جیسے پیمبر فرات پر

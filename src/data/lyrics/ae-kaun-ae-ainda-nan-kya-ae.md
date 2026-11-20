@@ -5,12 +5,52 @@ lang: "ur"
 direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Shabab-ul-Momineen (Nasir Asghar Party)"
-tags: ["noRoman"]
+tags: []
 aliases: []
 published: false
 # source_id: ziyaraat:9e0c3924f8bba54cb0ec
 # source_url: https://www.ziyaraat.net/api/noha/442
 # raw_sha256: a3a67f6b785fbdc5fe90b86221d226c19920c1aeaee1a683e19090a1fa76a917
+romanLyrics: |-
+  1
+  Ae kaunr ae aida naaṅ kya ae, ae sawaal Yazid karenda je B
+  i Bi Zainab rondi reh gai
+  Uth uth ke mimbar tuṅ cha angal ishaare denda je
+  Bibi Zainab rondi reh gai
+
+  2
+  Rab jaane kitne dheṅ guzre
+  Bibi Zainab paani pita naiṅ
+  Hik bah koṅ darbaari bhar jaam sharaab pilenda
+  Je Bibi Zainab rondi reh gai
+
+  3
+  Ae shaahi naiṅ tere baabe di
+  Hunr qaidan banr ke aai ae
+  Kithe vir Abbas, ae vi einj beghairat jharkenda je
+  Bibi Zainab rondi reh gai
+
+  4
+  Akbar da qaatil rasda haaṅ, de de inaam manida ha
+
+  5
+  Boṅ aukhe Zainab de haae jigar te waar karenda je, Bi Zainab rondi reh gai
+
+  6
+  Mere hath pa band vich rassiaaṅ de purdard nazaara lagda ha
+  Badmaash koṅ balwa hunr sentar de wal dasenda je, Bibi Zainab rondi reh gai
+
+  7
+  Thalle sar Shabbir musaafir da, ote takht te zaalim baitha haaṅ
+  Zulfaaṅ vich hath pa ke gustaakhi naal haaṅ lenda je, Bibi Zainab rondi reh gai
+
+  8
+  Hairaan hai kiuṅ na nikal gaya Sajjad da dam darbaar andar
+  Kai waari Zainab koṅ baaghi di bhainr saddenda je, Bibi Zainab rondi reh gai
+
+  9
+  Hik doṅ ghante di gaal nahiṅ Naushad khari rahi kai ghante
+  Koi na de bahr di jaa, eiho wal wal hukam sunreṅda je, Bibi Zainab rondi reh gai
 ---
 
 ۱

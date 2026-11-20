@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   Laash par pahunche to ye kari faryad
-  Abbas abbas abbas
+  Abbas Abbas Abbas
 
   1
-  Bhaiya mai aagaya huṅ kuch to batao uth kar
-  Kis ne jafa se maara jarrar sher e safdar
-  Naale the shaahe diṅ ke ye kya hua baradar
-  Hai waqt bekasi ka aur ghere hai sitamgar
+  Bhaiya main aa gaya huṅ kuchh to batao uth kar
+  Kis ne jafa se maara sher-e-Safdar
+  Naale the shaah-e-diṅ ke ye kya hua baradar
+  Hai waqt bekasi ka aur ghere haiṅ sitamgar
   Tum par ye zulm dha kar hum ko kiya hai muztar
 
   2
-  Bhaiya mai aagaya...
-  Shabbir tujhpe qurbaṅ kuch kehna hai batao
+  Bhaiya main aa gaya...
+  Shabbir tujh pe qurbaṅ kuchh kehna hai batao
   Sar apna ab to mere zaanu se mat hatao
   Hasrat nikalo dil ki ek baar bhai keh kar
 
   3
-  Bhaiya mai aagaya...
+  Bhaiya main aa gaya...
   Kaise bhatiji bhaiya seh paayegi ye sadma
-  Dar par khari hai dekho khaali liye wo kooza
-  Is aas meiṅ ke ammu laayenge pani bhar kar
+  Dar par khari hai dekho khaali liye wo kuza
+  Is aas meiṅ ke ammu laayenge paani bhar kar
 
   4
-  Bhaiya mai aagaya...
-  Puche sakina mujhse ehwaal jab tumhara
-  Itna batado bhaiya kya keh ke duṅ dilaasa
-  Qaime meiṅ jaunga jab mashk o alam ko le kar
+  Bhaiya main aa gaya...
+  Puchhe Sakina mujh se ahwaal jab tumhara
+  Itna bata do bhaiya kya keh ke duṅ dilaasa
+  Qaime meiṅ jaauṅ ga jab mashk o alam ko le kar
 
   5
-  Bhaiya mai aagaya...
+  Bhaiya main aa gaya...
   Quwwat na baazuoṅ meiṅ na zor hai kamar meiṅ
   Hai waqt kaafi baaqi bhaiya mere safar meiṅ
-  Manzil bahot hai mushkil paunga usko kiuṅ kar
+  Manzil bahot hai mushkil paauṅ ga us ko kiuṅ kar
 
   6
-  Bhaiya mai aagaya...
-  Mere anis dekho kis darja hai pareshaṅ
-  Uth kar madad ko pahuncho kuch mushkileiṅ ho aasaṅ
-  Aisa na ho aza se moo pher le ye muztar
+  Bhaiya main aa gaya...
+  Mere Anis dekho kis darja hai pareshaṅ
+  Uth kar madad ko pahuncho kuchh mushkileiṅ ho aasaṅ
+  Aisa na ho aza se munh pher le ye muztar
 
   7
-  Bhaiya mai aagaya...
+  Bhaiya main aa gaya...
 # source_id: nohayonline:eac37a141b3822a4f2bc
 # source_url: https://www.nohayonline.com/details_content.php?id=3427
 # raw_sha256: 813316ade60fe314c457d4e59e9a6bcfa9d067b8bad073de86919428f33aa9e2

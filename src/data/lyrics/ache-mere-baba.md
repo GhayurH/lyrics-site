@@ -1,6 +1,6 @@
 ---
 title: "زنداں کے اندھیرے میں ایک بچی روتی ہے"
-alternateTitle: "Ache Mere Baba"
+alternateTitle: "Achhe Mere Baba"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,59 +11,59 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Zindaṅ ke andhere meiṅ ek bachi roti hai
-  Wo bachi ro ro kar faryad ye karti hai
-  Ache mere baba pyare mere ammu
-  Sunli jo meri faryad o fughaṅ
-  Aa jaaye dilaane mujhko amaaṅ
+  Zindaaṅ ke andhere meiṅ ek bachchi roti hai
+  Wo bachchi ro ro kar faryaad ye karti hai
+  Achhe mere baba pyaare mere ammu
+  Sun li jo meri faryaad o fughaaṅ
+  Aa jaae dilaane mujhko amaaṅ
   Is qaid meiṅ jo hai haal mera
-  Ho sakta nahi kuch uska bayaṅ
-  Ache mere baba...
-  Kab laut ke hum ghar jayenge
-  Zindaṅ se rehaayi payenge
-  Gar lene na aaye aap hameiṅ
-  Hum ghut ghut ke mar jayenge
-  Ache mere baba...
-  Lilaah karam kuch farmeine
-  Lilaah yahaṅ se le jaaye
+  Ho sakta nahiṅ kuch us ka bayaaṅ
+  Achhe mere baba...
+  Kab laut ke hum ghar jaaeṅge
+  Zindaaṅ se rihaai paaeṅge
+  Gar lene na aae aap hameiṅ
+  Hum ghut ghut ke mar jaaeṅge
+  Achhe mere baba...
+  Lillaah karam kuch farmaae
+  Lillaah yahaaṅ se le jaae
   Ehsaan kare hum pe aa kar
-  Surat to khudara dikhlaye
-  Ache mere baba...
-  Jis qaid meiṅ humko rakha gaya
-  Ehwaal bara wo tha uska
-  Qaidi ke bhi rehne ke khaabil
-  Wo qaid nahi hai ae baba
-  Ache mere baba...
-  Ek lamha sukuṅ milta hi nahi
-  Zindan ka dar khulta hi nahi
+  Surat to khudaara dikhlaae
+  Achhe mere baba...
+  Jis qaid meiṅ hum ko rakha gaya
+  Ahwaal bara wo tha us ka
+  Qaidi ke bhi rehne ke qaabil
+  Wo qaid nahiṅ hai ae baba
+  Achhe mere baba...
+  Ek lamha sukuṅ milta hi nahiṅ
+  Zindaan ka dar khulta hi nahiṅ
   Kab din guzre kab raat hui
-  Kuch iska pata chalta hi nahi
-  Ache mere baba...
-  Darr lagta hai is veerane meiṅ
+  Kuch is ka pata chalta hi nahiṅ
+  Achhe mere baba...
+  Dar lagta hai is viraane meiṅ
   Tauqir na kije aane meiṅ
   Kya zulm na hote hum par
   Is haam ke qaid khaane meiṅ
-  Ache mere baba...
-  Taskin dilaane aate nahi
-  Kiuṅ humko bachane aate nahi
-  Bas itna batade kiuṅ humko
-  Azaad karane aate nahi
-  Ache mere baba...
-  Ye qaid e sitam ye qaid e bala
-  Hum rehte hai jis meiṅ wawaila
-  Ye maskan e insaṅ ho kaise
+  Achhe mere baba...
+  Taskin dilaane aate nahiṅ
+  Kiuṅ hum ko bachaane aate nahiṅ
+  Bas itna bata de kiuṅ hum ko
+  Aazaad karaane aate nahiṅ
+  Achhe mere baba...
+  Ye qaid-e-sitam ye qaid-e-bala
+  Hum rehte haiṅ jis meiṅ waawaila
+  Ye maskan-e-insaaṅ ho kaise
   Is meiṅ hai basera zulmat ka
-  Ache mere baba...
-  Kiuṅ sunte nahi hai aah o fughaṅ
-  Faryad kare kis se bejaan
-  Pardes hai zaalim hai dunya
-  Imdad karega kaun yahaṅ
-  Ache mere baba...
+  Achhe mere baba...
+  Kiuṅ sunte nahiṅ haiṅ aah o fughaaṅ
+  Faryaad kare kis se bejaaṅ
+  Pardes hai zaalim hai duniya
+  Imdaad karega kaun yahaaṅ
+  Achhe mere baba...
   Har lamha bulaati thi dukhiya
-  Har lamha ye parti thi nauha
-  Ho dayam o yazdaṅ kaise bayaṅ
+  Har lamha ye parhti thi nauha
+  Ho Daayam o Yazdaaṅ kaise bayaaṅ
   Jis karb se wo deti thi sada
-  Ache mere baba...
+  Achhe mere baba...
 # source_id: nohayonline:24dc7abd538884f1f575
 # source_url: https://www.nohayonline.com/details_content.php?id=1440
 # raw_sha256: fdf1b8ed56a6b7002ffbaaed86a7f0860df43d0cf6cc2bbfc2e06b80222a582a

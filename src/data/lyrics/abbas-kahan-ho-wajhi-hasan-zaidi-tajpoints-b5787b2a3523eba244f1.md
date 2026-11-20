@@ -8,82 +8,53 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Abbas Kahan Ho Wajhi Hasan Zaidi"
-romanLyrics: 'Sar Kat Gaya Jab Dasht Mein Zahra Ke Pisar Ka.
-
+romanLyrics: |-
+  Sar kat gaya jab dasht meiṅ Zahra ke pisar ka
 
   1
-
-  Hilti Thi Zameen Kanpta Tha Arsh-e-Mualla.
-
-  Surkh Aandhi Chali Khoon Ugalney Laga Sehra.
-
-  Wehshat Ka Yeh Aalam Tha Keh Hilta Tha Kaleja.
-
-  Thi Aik Qayamat Sar-e-Maqtal Jo Bapa Thi.
-
-  Gonji Hoi Sehra Mein Faqat Aik Sada Thi.
-
-  Abbas Kahan Ho Aa Jao Jahan Ho.
-
+  Hilti thi zamiṅ kaaṅpta tha arsh-e-mualla
+  Surkh aandhi chali khun ugalne laga sehra
+  Wehshat ka ye aalam tha ke hilta tha kaleja
+  Thi ek qayaamat sar-e-maqtal jo bapa thi
+  Gunji hui sehra meiṅ faqat ek sada thi
+  Abbas kahaaṅ ho, aa jaao jahaaṅ ho
 
   2
-
-  Seene Pe Sina Kha Chukay Akbar Gaye Marey.
-
-  Khali Howa Jhola Ali Asghar Gaye Marey.
-
-  Tanha Hoin Syedaniyaan Sarwar Gaye Marey.
-
-  Zainab Hai Pareshan Chaley Aao Jahan Ho.
-
-  Namoos-e-Payamber Ko Bari Aas Thi Tum Se.
-
-  Kya Aisi Khata Bhai Bhala Ho Gayi Hum Se.
-
+  Sine pe sinaaṅ kha chuke Akbar gaye maare
+  Khaali hua jhula Ali Asghar gaye maare
+  Tanha huiṅ Sayyidaaniyaaṅ Sarwar gaye maare
+  Zainab hai pareshaaṅ chale aao jahaaṅ ho
+  Abbas kahaaṅ ho
+  Naamus-e-payambar ko bari aas thi tum se
 
   3
-
-  Phat Jaye Kaleja Kahin Zainab Ka Na Gham Se.
-
-  Kyun Rothay Ho Kis Wastay Nazron Se Nihaan Ho.
-
-  Iss Dasht-e-Musibat Mein Kahan Kho Gaye Bhai.
-
-  Naizay Ki Anni Aaya-e-Tatheer Tak Aayi.
-
-  Aa Jao Zarra Chor Ke Darya Ki Tarai.
-
-  Chadar Sar-e-Zainab Se Utarti Hai Kahan Ho.
-
+  Kya aisi bhala bhaai khata ho gayi ham se
+  Phat jaaye kaleja kahiṅ Zainab ka na gham se
+  Kiuṅ ruthe ho kis waaste nazroṅ se nihaaṅ ho
+  Abbas kahaaṅ ho
+  Is dasht-e-musibat meiṅ kahaaṅ kho gaye bhaai
+  Neze ki ani aaya-e-tathir tak aayi
 
   4
-
-  Yeh Ahl-e-Sitam Our Qayamat Na Macha Dein.
-
-  Sab Laut Ke Asbab-e-Haram Aag Laga Dein.
-
-  Dar Hai Kahin Beemar Ka Khaima Na Jala Dein.
-
-  Phir Chaar Taraf Sirf Dhowaan Sirf Dhowaan Ho.
-
-  Dhaney Pe Sitam Our Sitamgar Tulay Hain.
-
-  Talwarein Liye Sab Dar-e-Khaima Pe Kharey Hain.
-
+  Aa jaao zara chhor ke darya ki taraai
+  Chaadar sar-e-Zainab se utarti hai kahaaṅ ho
+  Abbas kahaaṅ ho
+  Ye ahl-e-sitam aur qayaamat na macha deṅ
+  Sab lut ke asbaab-e-haram aag laga deṅ
+  Dar hai kahiṅ bimaar ke khaima na jala deṅ
 
   5
+  Phir chaar taraf sirf dhuaaṅ sirf dhuaaṅ ho
+  Dhaane pe sitam aur sitamgar tule haiṅ
+  Talwaareṅ liye sab dar-e-khaima pe khare haiṅ
+  Mardoṅ meiṅ faqat Aabid-e-bimaar bache haiṅ
+  Khanjar kahiṅ Aabid ke gale par na rawaaṅ ho
 
-  Mardoon Mein Faqat Abid-e-Beemar Bachay Hain.
-
-  Khanjar Kahin Abid Ke Galay Par Na Rawaan Ho.
-
-  Bacha Koi Rota Hai Idhar Tapoon Mein Aa Ke.
-
-  Bachi Koi Roti Hai Udhar Kha Ke Tamachay.
-
-  Laon Tu Bhala Laon Zabaan Aisi Kahan Se.
-
-  Alfaz Nahi Haal Jo Bachoon Ka Biyaan Ho.'
+  6
+  Bachcha koi rota hai idhar taapoṅ meiṅ aa ke
+  Bachchi koi roti hai idhar kha ke tamaancheṅ
+  Laauṅ to bhala laauṅ zabaaṅ aisi kahaaṅ se
+  Alfaaz nahiṅ haal jo bachchoṅ ka bayaaṅ ho
 # source_id: tajpoints:b5787b2a3523eba244f1
 # source_url: https://tajpoints.com/2022/08/abbas-kahan-ho-wajhi-hasan-zaidi-lyrics.html
 # raw_sha256: 7ead8827daf2a7a24a54d7656d0fb5c7be7179049016164290c3aae222fa11e9

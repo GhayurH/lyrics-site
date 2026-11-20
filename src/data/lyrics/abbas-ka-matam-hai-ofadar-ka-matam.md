@@ -8,69 +8,69 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ka matam hai wafadar ka matam
+  Abbas ka maatam hai wafadaar ka maatam
 
   1
-  Hai foaj-e-Hussaini ke alamdar ka matam
-  Saqa e haram Syed o salar ka matam
-  Jis sher ne pani ko zara muh na lagaya
-  Jo nehr pe pyasa gaya pyasa palat aaya
-  Masum Sakina ke wafadar ka alam
+  Hai fauj-e-Husaini ke alamdaar ka maatam
+  Saqaa-e-haram Sayyad o salaar ka maatam
+  Jis sher ne paani ko zara munh na lagaaya
+  Jo nahr pe pyaasa gaya pyaasa palat aaya
+  Maasum Sakina ke wafadaar ka maatam
   Shabbir ke lashkar ka alam jis ka alam tha
-  Ghurbat may jo Shabbir ki taqat ka bharam tha
-  Farzand-e-Muhammad ke madadgar ka matam
-  Jo ik naye andaz se maidan may aaya
-  Betegh kiya Sham ke lashkar ka safaya
-  Us sher-e-Ali zaigham-e-jeedar ka matam
-  Shabbir ko bhi naz tha kirdar pe jis ke
-  Konain bhi hairan hai isar pe jis ke
-  Matam hai ye us sahib-e-isar ka matam
-  Har hukm-e-Sheh wala pe sar jis ne jhukaya
-  Wo jis ne itaet ke farize to nibhaya
-  Us Syed-e-Konain ke ghamkhawar ka matam
-  Jab tashna dahan bachoṅ ne ro ro ke bulaya
-  Wo dantoṅ se mashkeeza uthae hue aaya
-  Karta hua ashkoṅ se dilafgar ka matam
-  Bhai ko samajhta tha jo aaqa ke barabar
-  Jo ho gaya qurban Husain ibne Ali par
-  Hai shah ke us aashiq o hubdar ka matam
-  Jo rota raha mashk kaleje se lagaye
-  Jis sher ke bazo bhi qalam ho gaye aaye
-  Jo kar na saka Syed-e-Abrar ka matam
-  Sardar ka ye moajza dekhe zara dunya
-  Har mulk may har shahr may ab hota hai barpa
-  Ik dasht may ujrri hui sarkar ka matam
-  Majlis may jalooson may azakhno ke andar
-  Bhai ki itaet se kabhi sar na uthaya
-  Us ashiq e Shabbir dilafgar ka matam
+  Ghurbat mein jo Shabbir ki taaqat ka bharam tha
+  Farzand-e-Muhammad ke madadgaar ka maatam
+  Jo ik naye andaaz se maidaan mein aaya
+  Betegh kiya Shaam ke lashkar ka safaaya
+  Us sher-e-Ali zaigham-e-jidaar ka maatam
+  Shabbir ko bhi naaz tha kirdaar pe jis ke
+  Konain bhi hairaan hai isaar pe jis ke
+  Maatam hai ye us saahib-e-isaar ka maatam
+  Har hukm shah-e-waalaa pe sar jis ne jhukaaya
+  Wo jis ne itaat ke farize ko nibhaaya
+  Us Sayyad-e-Konain ke ghamkhwaar ka maatam
+  Jab tashna dahan bachchoṅ ne ro ro ke bulaaya
+  Wo daantoṅ se mashkiza uthaae hue aaya
+  Karta hua ashkoṅ se dilafgaar ka maatam
+  Bhaai ko samajhta tha jo aaqaa ke baraabar
+  Jo ho gaya qurbaan Husain ibn-e-Ali par
+  Hai shaah ke us aashiq o hubdaar ka maatam
+  Jo rota raha mashk kaleje se lagaae
+  Jis sher ke baazu bhi qalam ho gaye haae
+  Jo kar na saka Sayyad-e-Abraar ka maatam
+  Sardaar ka ye mojiza dekhe zara duniya
+  Har mulk mein har shahr mein ab hota hai barpa
+  Ik dasht mein ujri hui sarkaar ka maatam
+  -
+  Bhaai ki itaat se kabhi sar na uthaaya
+  Us aashiq Shabbir dilafgaar ka maatam
 
   2
-  Pani na piya nehr pe shane bhi kataye
-  Har rukh pe hua Jafer-e-Tayyar ka matam
-  Sine pe sina kha ke hua Akbar-e-mehro
-  Karna na mila Bano ko dildar ka matam
+  Paani na piya nahr pe shaane bhi kataae
+  Har rukh se hua Jafar-e-Tayyaar ka maatam
+  Sine pe sina kha ke hua Akbar-e-Mehru
+  Karna na mila Baano ko dildaar ka maatam
 
   3
-  Jab lasha e Hur aaye to Zainab ye pukari
-  Lo aa ke karo Sheh ke tarafdar ka matam
+  Jab laashaa-e-Hur aaya to Zainab ye pukaari
+  Lo aa ke karo shah ke tarafdaar ka maatam
 
   4
-  Aaye the madine se rahe Karb e bala may
-  Shabbir gharibul watan beyar ka matam
+  Aaye the Madine se rahe karb bala mein
+  Shabbir gharib-ul-watan beyaar ka maatam
 
   5
-  Wada kia ik sar ka bahattar diye fidye
-  Sardar e jinaa sadiq o dildar ka matam
+  Waada kiya ik sar ka bahattar diye fidya
+  Sardaar jinaaṅ saadiq o dildaar ka maatam
 
   6
-  Khaima jala zewar luta dar dar phiri mari
-  Qatra na mila bano ke dildar ka matam
+  Khaima jala zewar luta dar dar phiri maari
+  Qatra na mila Baano ke dildaar ka maatam
 
   7
-  Bazo pe rasan bal khule Shaam ka darbar
-  Zainab ne kiya ahista raqam dar ka matam
-  Khaime se nikal aayi behan bhai ke gham may
-  Karti hui Abbas-e-alamdar ka mata
+  Baazu pe rasan baal khule Shaam ka darbaar
+  Zainab ne kiya yuṅ raqam dildaar ka maatam
+  Khaime se nikal aai bahan bhaai ke gham mein
+  Karti hui Abbas-e-alamdaar ka maatam
 # source_id: ziyaraat:fb66f91effd24f0a4658
 # source_url: https://www.ziyaraat.net/api/noha/2565
 # raw_sha256: 357cc34b39eb4c7c0d4d350cf35d180b84b4e25159e9c187015075e1b9849832

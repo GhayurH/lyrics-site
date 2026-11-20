@@ -1,37 +1,61 @@
 ---
 title: "اے علی اصغرؑ میرے تیری شجاعت کو سلام"
+alternateTitle: "Aey Ali Asghar Meray Teri Shujaat Ko Salam"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Salam"
 reciter: "Hasan Sadiq"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: ziyaraat:73a4820bd2beb9017327
 # source_url: https://www.ziyaraat.net/api/noha/2204
 # raw_sha256: 5c858ef709d6e371cf3fe7b345ab75bd7259e211e608a6509b84bbb701d0d78f
+romanLyrics: |-
+  Khoad kar nanhi lahad kehtay thay ye tashna kaam
+  Aey Ali Asghar meray teri shujaat ko salam
+
+  1
+  Jo hua nabyon se na wo kam ho tum kar gaye
+  Hamsari Akbar ki kar ke tum bhi naize par gaye
+  Kartay hain sab ambiya teri shahadat ko salam
+
+  2
+  Teri ik muskan ne Hurmal ko pagal kar diya
+  Jo thi mushkil deen ki us ko tu ne hay hal kar diya
+  Deen ki hay tanweer t uteri hay jurrat ko salam
+
+  3
+  Nana se hizyan ki tohmat dhonay walay aey sagheer
+  Nanhay se nazuk galay se toarr dala tu ne teer
+  Arsh ke kartay makeen hain teri azmat ko salam
+
+  4
+  Hashmi hay khoon tu tujh sa jari koi kahan
+  Hain gawah teri shujaat ke zameen ye aasman
+  Khuda fazeelat karti hay teri fazeelat ko salam
 ---
 
-Khoad kar nanhi lahad kehtay thay ye tashna kaam
-Aey Ali Asghar meray teri shujaat ko salam
+کھود کر ننھی لحد کہتے تھے یہ تشنہ کام
+اے علی اصغر میرے تیری شجاعت کو سلام
 
-1
-Jo hua nabyon se na wo kam ho tum kar gaye
-Hamsari Akbar ki kar ke tum bhi naize par gaye
-Kartay hain sab ambiya teri shahadat ko salam
+۱
+جو ہوا نبیوں سے نہ وہ کام ہو تم کر گئے
+ہمسری اکبر کی کر کے تم بھی نیزے پر گئے
+کرتے ہیں سب انبیا تیری شہادت کو سلام
 
-2
-Teri ik muskan ne Hurmal ko pagal kar diya
-Jo thi mushkil deen ki us ko tu ne hay hal kar diya
-Deen ki hay tanweer t uteri hay jurrat ko salam
+۲
+تیری اک مسکان نے حرمل کو پاگل کر دیا
+جو تھی مشکل دین کی اس کو تو نے ہے حل کر دیا
+دین کی ہے تنویر تو تیری ہے جرأت کو سلام
 
-3
-Nana se hizyan ki tohmat dhonay walay aey sagheer
-Nanhay se nazuk galay se toarr dala tu ne teer
-Arsh ke kartay makeen hain teri azmat ko salam
+۳
+نانا سے ہذیان کی تہمت دھونے والے اے صغیر
+ننھے سے نازک گلے سے توڑ ڈالا تو نے تیر
+عرش کے کرتے مکیں ہیں تیری عظمت کو سلام
 
-4
-Hashmi hay khoon tu tujh sa jari koi kahan
-Hain gawah teri shujaat ke zameen ye aasman
-Khuda fazeelat karti hay teri fazeelat ko salam
+۴
+ہاشمی ہے خون تو تجھ سا جری کوئی کہاں
+ہیں گواہ تیری شجاعت کے زمیں یہ آسماں
+خود فضیلت کرتی ہے تیری فضیلت کو سلام

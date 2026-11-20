@@ -9,35 +9,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abid-e-beemar ki aankhon say khoon rukta nahi
+  Abid-e-bemaar ki aankhoṅ se khun rukta nahiṅ
+  Jis ko Zainab ke liye parda kahiṅ milta nahiṅ
 
   1
-  Jisko Zainab kay liye parda kaheen milta nahi
+  Dekho na mera tamaasha roke Abid ne kaha
+  Saath mere aai hai ho ke woh qaidi berida
+  Nange sar jis ko kabhi baaba ne bhi dekha nahiṅ
 
   2
-  1) Dekho na mera tamaasha rokay Abid nay kaha
-  Saath meray aaee hay hokay voh qaidi bay rida
-  Nangay sar jisko kabhi,  baba nay bhi dekha nahi
+  Gham na karna tu Sakina safar meiṅ Zainab ke saath
+  Sine pe so jaana maaṅ ke jab kabhi ho jaae raat
+  Laut kar aae ga ab, beta tera baaba nahiṅ
 
   3
-  2) Kaisee Sehmi Hay Sakina Khoon Kanon Say Rawan
-  Pouchti Dikhlakay Abid, Ko Tamachon Kay Nishan
-  Kab Watan Main Jayenge Kohi Yahaan Apni Nahi
+  Dar se sehmi hai Sakina khun kaanoṅ se rawaaṅ
+  Puchhti dikhla ke Abid ko tamaanchoṅ ke nishaaṅ
+  Kab watan meiṅ jaaeṅ ge, koi yahaaṅ apna nahiṅ
 
   4
-  3) Zid na karna tum Sakina safar mein Zainab kay saath
-  Pehloo mein so jaana beti jab bhi hojaae gi raat
-  Laut kar aaey ga ab,  beti tera baba nahi
+  Dekhti maasum bachchoṅ ki jo Zainab pyaas ko
+  Deta jo jang ki ijaazat bhaai tu Abbaas ko
+  Bekafan rehta na tu, parda mera lut'ta nahiṅ
 
   5
-  4) سامنے عابد کے بن مئی لوٹ گیا زہرا کا گھر
-  کس طرح زینب کو دیکھا شام میں وہ ننگے سر
-  دیکھا ہے کائنات نے صبر کوئی ایسا نہیں
+  Pahunchi hai darbaar meiṅ jab Shaam ke Bint-e-Ali
+  Kehti hai dekho zara, naana meri yeh bebasi
+  Fizza ke waaris to haiṅ, lekin mera koi nahiṅ
 
   6
-  5) رات بھی ہوجاے گی جب ہے داشت-ا-کربلا
-  اسکا جھولا جل گیا پانی بھی اسکو نا ملا
-  کس تارہا سوجاؤں مئی اصغر میرا سویا نہیں
+  Saamne Abid ke ban meiṅ lut gaya Zehra ka ghar
+  Kis tarah Zainab ko dekhe Shaam meiṅ woh nange sar
+  Dekha hai kaainaat ne, saabir koi aisa nahiṅ
+
+  7
+  Raat jab ho jaae gi, bar sar-e-Karb o Bala
+  Us ka jhula jal gaya paani bhi us ko na mila
+  Kis tarah so jaauṅ meiṅ Asghar mera soya nahiṅ
 # source_id: ziyaraat:090dccf407fbacbbb6de
 # source_url: https://www.ziyaraat.net/api/noha/376
 # raw_sha256: 4d09cb525fbb99e60b9ef9f141d5707b68e195eeafe6725cd0aa64545ec5cfbe

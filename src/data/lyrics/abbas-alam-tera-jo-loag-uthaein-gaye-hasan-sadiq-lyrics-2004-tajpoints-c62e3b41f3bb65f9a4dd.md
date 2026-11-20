@@ -1,38 +1,63 @@
 ---
-title: "Abbas Alam Tera Jo Loag Uthaein Gaye Hasan Sadiq Lyrics 2004"
+title: "عباس علم تیرا جو لوگ اٹھائیں گے"
+alternateTitle: "Abbas Alam Tera Jo Loag Uthaein Gaye"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Rehan"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:c62e3b41f3bb65f9a4dd
 # source_url: https://tajpoints.com/2023/03/abbas-alam-tera-jo-loag-uthaein-gaye.html
 # raw_sha256: 4583178ed061e75fb3def6a1dfa0197f6c4a80da7975a1265b014819b39ed9f2
+romanLyrics: |-
+  1
+  Abbas alam tera jo loag uthaein gaye Hasan Sadiq
+  Shakal-e-Ali Ghazi mera qayam rahe iss ki wafa
+  Abbas alam tera jo loag uthaein gay
+  Zahra ki duaon ke saye mein woh aaein gay
+
+  2
+  Tehreer hai darya par Ghazi ki wafadari
+  Shabeer tere munkir kya oss ko mitaein gay
+  Hai tujh se yehi wadah Shabeer ki majlis mein
+  Abbas tere gham mein hum khon bahaein gay
+
+  3
+  Bazu jo qalam ho kar darya pe girey tere
+  Hum hashar talak unn ka ab soag manaein gay
+  Zainab ki tamana hai khuwaish hai Sakina ki
+  Har ghar pe alam tera hum loag sajaein gay
+
+  4
+  Khush hoga mera Ghazi Sarwar bhi dua dein gay
+  Pani pe Sakina ki hum nazar dilaein gay
+  Rehan bapa hogi majlis jo qayamat mein
+  Noha yeh: Hasan Sadiq: janat mein sunaein gay
 ---
 
-1
-Abbas Alam Tera Jo Loag Uthaein Gaye Hasan Sadiq.
-Shakal-e-Ali Ghazi Mera Qayam Rahe Iss Ki Wafa.
-Abbas Alam Tera Jo Loag Uthaein Gay.
-Zahra Ki Duaon Ke Saye Mein Woh Aaein Gay.
+۱
+عباس علم تیرا جو لوگ اٹھائیں گے حسن صادق
+شکلِ علی غازی میرا قائم رہے اس کی وفا
+عباس علم تیرا جو لوگ اٹھائیں گے
+زہرا کی دعاؤں کے سائے میں وہ آئیں گے
 
-2
-Tehreer Hai Darya Par Ghazi Ki Wafadari.
-Shabeer Tere Munkir Kya Oss Ko Mitaein Gay.
-Hai Tujh Se Yehi Wadah Shabeer Ki Majlis Mein.
-Abbas Tere Gham Mein Hum Khon Bahaein Gay.
+۲
+تحریر ہے دریا پر غازی کی وفاداری
+شبیر تیرے منکر کیا اس کو مٹائیں گے
+ہے تجھ سے یہی وعدہ شبیر کی مجلس میں
+عباس تیرے غم میں ہم خون بہائیں گے
 
-3
-Bazu Jo Qalam Ho Kar Darya Pe Girey Tere.
-Hum Hashar Talak Unn Ka Ab Soag Manaein Gay.
-Zainab Ki Tamana Hai Khuwaish Hai Sakina Ki.
-Har Ghar Pe Alam Tera Hum Loag Sajaein Gay.
+۳
+بازو جو قلم ہو کر دریا پہ گرے تیرے
+ہم حشر تلک ان کا اب سوگ منائیں گے
+زینب کی تمنا ہے خواہش ہے سکینہ کی
+ہر گھر پہ علم تیرا ہم لوگ سجائیں گے
 
-4
-Khush Hoga Mera Ghazi Sarwar Bhi Dua Dein Gay.
-Pani Pe Sakina Ki Hum Nazar Dilaein Gay.
- Rehan Bapa Hogi Majlis Jo Qayamat Mein.
-Noha Yeh: HASAN SADIQ: Janat Mein Sunaein Gay.
+۴
+خوش ہوگا میرا غازی سرور بھی دعا دیں گے
+پانی پہ سکینہ کی ہم نذر دلائیں گے
+ریحان بپا ہوگی مجلس جو قیامت میں
+نوحہ یہ: حسن صادق: جنت میں سنائیں گے

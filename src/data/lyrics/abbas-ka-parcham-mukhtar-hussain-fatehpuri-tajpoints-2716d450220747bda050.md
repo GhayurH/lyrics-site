@@ -1,33 +1,53 @@
 ---
-title: "Abbas Ka Parcham Mukhtar Hussain Fatehpuri"
+title: "عباس کا پرچم مختار حسین فتح پوری"
+alternateTitle: "Abbas Ka Parcham Mukhtar Hussain Fatehpuri"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Majid"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:2716d450220747bda050
 # source_url: https://tajpoints.com/2026/01/abbas-ka-parcham-mukhtar-hussain.html
 # raw_sha256: 4e3e7faabc6c96ac2762cf28a97fc3500ca4c272c96d84e630b116a5df6d621e
+romanLyrics: |-
+  1
+  Abbas ka parcham Mukhtar Hussain Fatehpuri
+  Muhibbon ke liye mehway dua Abbas ka parcham
+  Tamacha ban ke dushman ko laga Abbas ka parcham
+  Musibat mein alam ke saye mein aaya tu jab jana
+  Har ik mushkil ka hai mushkil kusha Abbas ka parcham
+  Kisaye Zahra ke saye mein kul deen-e-Payamber hai
+  Kisaye Zahra ka saya bana Abbas ka parcham
+  Bhala Ghazi ke parcham ko assa ki ab zarorat kya
+  Katay hathoon pe hai jalwa numa Abbas ka parcham
+  Qalam ne loh par yeh baad Khaybar kar diya tehreer
+  Farrari ko nahi mil paye ga Abbas ka parcham
+  Do kharey arsh se utray they Zahra ki haweli mein
+  Kisa Zahra ki ik our dosra Abbas ka parcham
+  Kabhi Abbas-o-Sarwar ki muhabbat dekhna chahi
+  Azza khane mein la kar rakh diya Abbas ka parcham
+  Ossay maloom tha hai fatha oss ke saye mein Majid
+  Tabhi Mukhtar ke hathoon mein tha Abbas ka parcham
 ---
 
-1
-Abbas Ka Parcham Mukhtar Hussain Fatehpuri.
-Muhibbon Ke Liye Mehway Dua Abbas Ka Parcham.
-Tamacha Ban Ke Dushman Ko Laga Abbas Ka Parcham.
-Musibat Mein Alam Ke Saye Mein Aaya Tu Jab Jana.
-Har Ik Mushkil Ka Hai Mushkil Kusha Abbas Ka Parcham.
-Kisaye Zahra Ke Saye Mein Kul Deen-e-Payamber Hai.
-Kisaye Zahra Ka Saya Bana Abbas Ka Parcham.
-Bhala Ghazi Ke Parcham Ko Assa Ki Ab Zarorat Kya.
-Katay Hathoon Pe Hai Jalwa Numa Abbas Ka Parcham.
-Qalam Ne Loh Par Yeh Baad Khaybar Kar Diya Tehreer.
-Farrari Ko Nahi Mil Paye Ga Abbas Ka Parcham.
-Do Kharey Arsh Se Utray They Zahra Ki Haweli Mein.
-Kisa Zahra Ki Ik Our Dosra Abbas Ka Parcham.
-Kabhi Abbas-o-Sarwar Ki Muhabbat Dekhna Chahi.
-Azza Khane Mein La Kar Rakh Diya Abbas Ka Parcham.
-Ossay Maloom Tha Hai Fatha Oss Ke Saye Mein Majid.
-Tabhi Mukhtar Ke Hathoon Mein Tha Abbas Ka Parcham.
+۱
+عباس کا پرچم مختار حسین فتح پوری
+محبوں کے لیے محوِ دعا عباس کا پرچم
+طمانچہ بن کے دشمن کو لگا عباس کا پرچم
+مصیبت میں علم کے سائے میں آیا تو جب جانا
+ہر اک مشکل کا ہے مشکل کشا عباس کا پرچم
+کسائے زہرا کے سائے میں کل دینِ پیامبر ہے
+کسائے زہرا کا سایہ بنا عباس کا پرچم
+بھلا غازی کے پرچم کو عصا کی اب ضرورت کیا
+کٹے ہاتھوں پہ ہے جلوہ نما عباس کا پرچم
+قلم نے لوح پر یہ بعدِ خیبر کر دیا تحریر
+فراری کو نہیں مل پائے گا عباس کا پرچم
+دو کھڑے عرش سے اترے تھے زہرا کی حویلی میں
+کسا زہرا کی اک اور دوسرا عباس کا پرچم
+کبھی عباس و سرور کی محبت دیکھنا چاہی
+عزا خانے میں لا کر رکھ دیا عباس کا پرچم
+اسے معلوم تھا ہے فتح اس کے سائے میں ماجد
+تبھی مختار کے ہاتھوں میں تھا عباس کا پرچم

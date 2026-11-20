@@ -10,63 +10,64 @@ aliases: []
 published: false
 alternateTitle: "Aawaz Tu De Akbar"
 romanLyrics: |-
-  Kariyal jawan ki laash par kehta raha ro kar pidar
-  Awaaz to de Akbar haye awaaz to de Akbar
-  Girta hua uthta hua aa to gaya hoon main magar gum ho gaya noor-e-nazar
+  Kariyal jawaaṅ ki laash par kehta raha ro kar pidar
+  Aawaz to de Akbar
+  Girta hua uthta hua aa to gaya huṅ main magar
+  Gum ho gaya nur-e-nazar
 
   1
-  Tu Nojawan Hai Akbar, Aur Hai Zaeef Baba
-  Kaisay Uthaoon Mayyat, Mujh Ko To Bata Dai Itna
-  Jaana Hai Ab Khayyam Tak, Kaisay Karoon Main Ye Safar
-  Kham Hogayee Meri Kamar
+  Tu naujawaaṅ hai Akbar, aur zaif baba
+  Kaise uthaauṅ mayyat, mujh ko tu bata de itna
+  Jaana hai ab khayaam tak, kaise karuṅ main yeh safar
+  Kham ho gai meri kamar
 
   2
-  Aayee Sada Jidher Sai, Main Uss Taraf Bharun Ga
-  Awaaz Suntai Suntai, Tujhay Ran Main Dhoond Hee Lun Ga
-  Tu Hai Jidher Pyaarai Merai, Dheerai Sai Yeh Kehtay Huwai
-  Baba Idher Baba Idher
+  Aai sada jidhar se, main us taraf barhuṅ ga
+  Aawaz sunte sunte, tujhe un mein dhund hi luṅ ga
+  Tu hai jidhar pyaare mere, dhire se yeh kehte hue
+  Baba idhar, baba idhar
 
   3
-  Sughra Ke Naamaghar Ko, Khat Ka Jawab Kya Dun
-  Jo Muntazir Hai Us Ko, Barchee Ka Haal Suna Dun
-  Rastay Sai Ab Nazarain’ Hata, Maara Gaiya Bhai Tera
-  Kya Bhej Dun Us Ko Khabar
+  Sughra ke naama war ko, khat ka jawaab kya duṅ
+  Woh muntazir hai, us ko barchhi ka haal suna duṅ
+  Rasta se ab nazareṅ hata, maara gaya bhaai tera
+  Kya bhej duṅ us ko khabar
 
   4
-  Teri Sada Ko Sun Ker, Woh Phir Sai Jee Uthay Gi
-  Hamsheer Teri Warna, Shayad Nahi Jee Paayai Gi
-  Seenay Ki Barchi Thaam Kai, Sughra Ko Us Kai Naam Sai
-  Ik Baar Himmat Jor Ker
+  Teri sada ko sun kar, woh phir se ji uthe gi
+  Hamshir teri warna, shaayad nahiṅ ji paaye gi
+  Sine ki barchhi thaam ke, Sughra ko us ke naam se
+  Ik baar himmat jor kar
 
   5
-  Barchi Sai Bas Kaleja, Tera Nahi Chidda Hai
-  Maqtal Main Fatima Nai Dil Apna Thaam Liya Hai
-  Bhai Hasan Nana Nabi, Baba Ali Dadi Teri
-  Moujood Hain Sab Hi Idher
+  Barchhi se bas kaleja, tera nahiṅ chhida hai
+  Maqtal mein Fatima ne dil apna thaam liya hai
+  Bhaai Hasan, nana Nabi, baba Ali, dadi teri
+  Maujud hain sab hi idhar
 
   6
-  Kaisai Bayaan Karun Main, Woh Dardnaak Manzar
-  Saktay Main Thi Khudayaee, Rota Tha Sara Lashkar
-  Jab Fatima Kai Laal Nai, Hathon Pai Lai Ker Khaak Sai
-  Rakh Ker Kaha Zaanon Pai Sar
+  Kaise bayaaṅ karuṅ main, woh dardnaak manzar
+  Sakte mein the khudaai, rota tha saara lashkar
+  Jab Fatima ke laal ne, haathoṅ pe le kar khaak se
+  Rakh kar kaha zaanuṅ sar
 
   7
-  Laashey Kai Dono Janib, Baithi Hain Maaein Dono
-  Seeney Kai Bosai Dai Kar Laiti Hain Balaein Dono
-  Zainab Idhar Laila Idhar, Choomai Tera Zakhmi Jiger
-  In Sai To Koee Baat Kar
+  Laashe ke dono jaanib, baithiṅ hain maaeṅ donoṅ
+  Sine pe bose de kar leti hain balaaeṅ donoṅ
+  Zainab idhar Laila udhar, chumeṅ tera zakhmi jigar
+  In se to koi baat kar
 
   8
-  Takra Rahi Hai Har Su Khaimai Main Um-e-ZLaila
-  Usko Pata Chala Jab Aya Hai Tera Lasha
-  Teri Maut Ki Sun Kar Khabar, Girta Nahi Khaimay Ka Dar
-  Aaisa Huwa Uspar Asar
+  Takra rahi hai har su khaime mein Umm-e-Laila
+  Us ko pata chala jab aaya hai tera laasha
+  Teri maut ki sun kar khabar, girta nahiṅ khaime ka dar
+  Aisa hua us par asar
 
   9
-  Akbar Janabe Akbar Khamosh Ho Gaey Thay
-  Shabbir Sar Jhukaey Lashay Kai Paas Kharey Thay
-  Zainab Kabhi Laila Kabhi, Behnain’ Kabhi, Kabhi Naamawar
-  Kehta Raha Yeh Sara Ghar
+  Akbar janaab-e-Akbar khaamosh ho gaye the
+  Shabbir sar jhukaaye laashe ke paas khare the
+  Zainab kabhi Laila kabhi, bahneṅ kabhi, kabhi naama war
+  Kehta raha yeh saara ghar
 # source_id: tajpoints:099c795a67412fd66f65
 # source_url: https://tajpoints.com/2017/02/kariyal-jawaan-ki-laash-par-kehta-raha.html
 # raw_sha256: 37e9774a72ada920c86f9051e1e70fc2481c5326fc8c8497f1a2d84f0783ddfe

@@ -11,47 +11,47 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ghazi ki shahadat se sadaat pe kya guzri
-  Maula ki kamar tuti zainab ki rida utri
-  Abbas ka maidaṅ meiṅ ghore se utarna
-  Shabbir se pucho kabhi zainab se khabar lo
-  Qaimon meiṅ yatimoṅ ke piyaloṅ ka bikharna
-  Shabbir se pucho kabhi zainab se khabar lo
-  Shabbir ko ghazi ki sunani jo sunayi
-  Bechain huwe dasht meiṅ dhunda kiye bhai
+  Ghaazi ki shahaadat se sadaat pe kya guzri
+  Maula ki kamar tuti Zainab ki rida utri
+  Abbas ka maidaaṅ mein ghore se utarna
+  Shabbir se pucho kabhi Zainab se khabar lo
+  Khaimoṅ mein yatimoṅ ke piyaloṅ ka bikharna
+  Shabbir se pucho kabhi Zainab se khabar lo
+  Shabbir ko Ghaazi ki sunaani jo sunaai
+  Bechain huwe dasht mein dhunda kiye bhai
   Mazlum ki aankhoṅ ka wahaṅ kaam na karna
-  Shabbir se pucho kabhi zainab se khabar lo
-  Abbas ka maidaṅ mein...
-  Sajjad pe zaalim ke tamachoṅ ki wo baarish
-  Masum sakina pe tamachoṅ ki wo baarish
-  Shimr ka wo shaam e gharibaṅ meiṅ na darna
-  Shabbir se pucho kabhi zainab se khabar lo
-  Abbas ka maidaṅ mein...
+  Shabbir se pucho kabhi Zainab se khabar lo
+  Abbas ka maidaaṅ mein...
+  Sajjad pe zaalim ke tamaanchoṅ ki wo baarish
+  Masum Sakina pe tamaanchoṅ ki wo baarish
+  Shimr ka wo shaam-e-gharibaaṅ mein na darna
+  Shabbir se pucho kabhi Zainab se khabar lo
+  Abbas ka maidaaṅ mein...
   Rone pe koi zulm tarapne pe kore
-  Haathoṅ mei rasan khun meiṅ tar jism khule sar
-  Ye khafela shabbir ki maqtal se guzarna
-  Shabbir se pucho kabhi zainab se khabar lo
-  Abbas ka maidaṅ mein...
-  Tathir ki parwarda ko galiyoiṅ meiṅ phirana
-  Har shehr ke har mor pe hi eid manana
-  Ujre huwoṅ ko dekh ke logoṅ ka sawarna
-  Shabbir se pucho kabhi zainab se khabar lo
-  Abbas ka maidaṅ mein...
-  Karni pari bemaar ko tamil hazaroṅ
-  Beaasra saydaniyaṅ aur mil hazaroṅ
+  Haathoṅ mein rasan khun mein tar jism khule sar
+  Ye qaafila Shabbir ki maqtal se guzarna
+  Shabbir se pucho kabhi Zainab se khabar lo
+  Abbas ka maidaaṅ mein...
+  Tathir ki parwarda ko galiyoṅ mein phirna
+  Har shehr ke har mor pe hi Eid manaana
+  Ujre huoṅ ko dekh ke logoṅ ka sanwarna
+  Shabbir se pucho kabhi Zainab se khabar lo
+  Abbas ka maidaaṅ mein...
+  Karni pari bemaar ko taamil hazaaroṅ
+  Beaasra sayyidaaniyaaṅ aur mail hazaaroṅ
   Ab tak bhi yatimoṅ ka koi zakhm na bharna
-  Shabbir se pucho kabhi zainab se khabar lo
-  Abbas ka maidaṅ mein...
-  Zainab pe khuli rehti thi bazaar ki aankheiṅ
-  Roti hi rahi khun wo bemaar ki aankheiṅ
-  Sajjad ka har roz meiṅ sau baar ka marna
-  Shabbir se pucho kabhi zainab se khabar lo
-  Abbas ka maidaṅ mein...
-  Maruf kabhi shaukat o farhan na hote
-  Lafzoṅ pe agar shaah meherban na hote
-  Alfaaz meiṅ hota kabhi nauhe ka asar na
-  Shabbir se pucho kabhi zainab se khabar lo
-  Abbas ka maidaṅ mein...
+  Shabbir se pucho kabhi Zainab se khabar lo
+  Abbas ka maidaaṅ mein...
+  Zainab pe khuli rehti thi bazaar ki aankheṅ
+  Roti hi rahi khun wo bemaar ki aankheṅ
+  Sajjad ka har roz mein sau baar ka marna
+  Shabbir se pucho kabhi Zainab se khabar lo
+  Abbas ka maidaaṅ mein...
+  Maaruf kabhi Shaukat o Farhaan na hote
+  Lafzoṅ pe agar shaah meherbaan na hote
+  Alfaaz mein hota kabhi nohe ka asar na
+  Shabbir se pucho kabhi Zainab se khabar lo
+  Abbas ka maidaaṅ mein...
 # source_id: nohayonline:6f7a4484a9b46a4c9427
 # source_url: https://www.nohayonline.com/details_content.php?id=2981
 # raw_sha256: eba31974e3e205c7803f287ccd417becdf53662f466e7e08a4c19d8a1d9b7e28

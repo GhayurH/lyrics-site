@@ -12,34 +12,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab gire ghore se maqtal meiṅ shahe karbobala
-  Khanjare zulm liye shimre sitamgaar barha
-  Di tarap kar dar e qaime se ye zainab ne sada
-  Abhi khanjar na chala abhi khanjar na chala
-  Zaalim abhi khajar na chala
-  Lut mat behre khuda fatema zehra ka chayn
-  Aur kuch dayr teher ja are zaalim ke Husain
-  Bakshishe ummate jad ki abhi karte hai dua
+  Jab gire ghore se maqtal meiṅ Shah-e-Karb o Bala
+  Khanjar-e-zulm liye Shimr-e-sitamgaar barha
+  Di tarap kar dar-e-khaime se ye Zainab ne sada
+  Abhi khanjar na chala, abhi khanjar na chala
+  Zaalim abhi khanjar na chala...
+  Lut mat bahr-e-Khuda Fatema Zehra ka chain
+  Aur kuch der thehar ja are zaalim ke Husain
+  Bakhshish-e-ummat-e-jad ki abhi karte haiṅ dua
   Abhi khanjar na chala...
-  Tin din hogaye pyasa hai nabi ka jaani
-  Zibha karna hai to do ghunt pilade pani
+  Tin din ho gaye pyaasa hai Nabi ka jaani
+  Zibh karna hai to do ghunt pila de paani
   Kund khanjar hai mere bhai ka sukha hai gala
   Abhi khanjar na chala...
-  Bosagaahe nabawi hai ye gala ae zaalim
-  Sheh ragay diṅ pe khanjar na chala ae zaalim
-  Chumte the isi halqum ko mahbub e khuda
+  Bosagaah-e-nabawi hai ye gala ae zaalim
+  Shah rag-e-diṅ pe khanjar na chala ae zaalim
+  Chumte the isi halqum ko Mahbub-e-Khuda
   Abhi khanjar na chala...
-  Chor kar khuld zara faatahe khyber aa le
-  Aur kuch dayr teher ja ke payambar aa le
-  Aati hi hogi wo aa lene de amma ko zara
+  Chhor kar khuld ko zara Faateh-e-Khaibar aa le
+  Aur kuch der meiṅ ja ke payambar aa le
+  Aati hi hoṅ gi wo, aa lene de amma ko zara
   Abhi khanjar na chala...
-  Kya karoo ja'uṅ kahaṅ kis ko pukaruṅ bhai
-  Kaise dekhegi tumhe torte dam majaayi
-  Ya ilaahi mujhe shabbir se pehle le utha
+  Kya karuṅ, jaauṅ kahaaṅ, kis ko pukaaruṅ bhai
+  Kaise dekhegi tumheiṅ torte dam maaṅ jaai
+  Ya Ilaahi mujhe Shabbir se pehle le utha
   Abhi khanjar na chala...
-  Haye kis dil se karoo tazkira e jor o jafa
-  Kat gaya saamne zainab ke shahe din ka gala
-  Chikhti reh gayi zainab sare maqtal ba khuda
+  Haaye kis dil se karuṅ tazkira-e-jaur o jafa
+  Kat gaya saamne Zainab ke Shah-e-Din ka gala
+  Chikhti reh gayi Zainab sar-e-maqtal ba Khuda
   Abhi khanjar na chala...
 # source_id: nohayonline:a327477f1d57839e3a45
 # source_url: https://www.nohayonline.com/details_content.php?id=461

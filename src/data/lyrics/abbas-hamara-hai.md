@@ -11,74 +11,74 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas-e-ali aaye khareeb-e-shehe abrar
-  Bhai ko alam deke kiya sheh ne bahot pyar
-  Has has ke rafeeko se ye karne lage guftar
-  Jaisi ye meri fauj hai waisa hi alamdar
-  Ghazi sa koi din ka sardar na hoga
-  Abbas sa dunya meiṅ alamdar na hoga
-  Saqi abbas hamara hai alamdar hamara
-  Hashim ka qamar hyder-e-karrar ka pyara
+  Abbas-e-Ali aaye qarib-e-Sheh-e-Abraar
+  Bhaai ko alam de ke kiya Sheh ne bahut pyaar
+  Haṅs haṅs ke rafiqoṅ se ye karne lage guftaar
+  Jaisi ye meri fauj hai waisa hi alamdaar
+  Ghaazi sa koi din ka sardaar na hoga
+  Abbas sa duniya meiṅ alamdaar na hoga
+  Sakhi Abbas hamaara hai alamdaar hamaara
+  Haashim ka qamar Haidar-e-Karraar ka pyaara
 
   1
-  Hyder ke gharane ki saqawat saqi abbas
-  Khune abu talib ki sadaqat saqi abbas
-  Zehra ki dua'oṅ ki taharat saqi abbas
-  Khudrat ne banaya nahi phir aisa dubara
+  Haidar ke gharaane ki sakhaawat Sakhi Abbas
+  Khun-e-Abu Taalib ki sadaaqat Sakhi Abbas
+  Zehra ki duaa'oṅ ki tahaarat Sakhi Abbas
+  Qudrat ne banaaya nahiṅ phir aisa dubaara
 
   2
-  Quran-e-wafa sher-e-nayastane ali hai
-  Zehra ki tamanna hai dil o jaane ali hai
-  Is ke liye bachpan hi se farman-e-ali hai
-  Mai ilm ka darya hoo ye darya ka kanara
+  Quraan-e-wafa sher-e-Naayastaan-e-Ali hai
+  Zehra ki tamanna hai dil o jaan-e-Ali hai
+  Is ke liye bachpan hi se farmaan-e-Ali hai
+  Main ilm ka darya huṅ ye darya ka kinaara
 
   3
-  Paida huve abbas to godi meiṅ utha kar
-  Zainab ne rakha naam kaleje se laga kar
-  Chota sa alam sheh ne diya unko saja kar
-  Dekha jo alam ne to alam khud ye pukara
+  Paida hue Abbas to godi meiṅ uthaa kar
+  Zainab ne rakha naam kaleje se lagaa kar
+  Chhota sa alam Sheh ne diya un ko sajaa kar
+  Dekha jo alam ne to alam khud ye pukaara
 
   4
-  Ye panjetan-e-paak ke lashkar ka nishaṅ hai
-  Kehte hai ye shabbir mera sher-e-jawaaṅ hai
-  Aisa koi dunya meiṅ alamdar kahaṅ hai
-  Sehwan se hai shehbaz qalandar ka ye nara
+  Ye Panjtan-e-Paak ke lashkar ka nishaaṅ hai
+  Kehte haiṅ ye Shabbir mera sher-e-jawaaṅ hai
+  Aisa koi duniya meiṅ alamdaar kahaaṅ hai
+  Sehwan se hai Shehbaaz Qalandar ka ye naara
 
   5
-  Abbas-e-ali ruhe wafa jaane wafa hai
-  Abbas-e-ali fatema zehra ki dua hai
+  Abbas-e-Ali ruh-e-wafa jaan-e-wafa hai
+  Abbas-e-Ali Faatema Zehra ki duaa hai
   Har waqt alam chumti rehti ye hawa hai
-  Bhula nahi abbas ko darya ka kanara
+  Bhula nahiṅ Abbas ko darya ka kinaara
 
   6
-  Dunya e shahadat meiṅ kahaṅ uska hai saani
-  Jo saare shaheedo ki safoṅ meiṅ raha ghazi
-  bedast bhi hokar jo bhare jholiyan sabki
-  Hashim ka qamar saare fakhiro ka sahara
+  Duniya-e-shahaadat meiṅ kahaaṅ us ka hai saani
+  Jo saare shahidoṅ ki safoṅ meiṅ raha ghaazi
+  Bedast bhi ho kar jo bhare jholiyaaṅ sab ki
+  Haashim ka qamar saare faqiroṅ ka sahaara
 
   7
-  Laazim hai ke hum dekhenge ek roz ye manzar
-  Farmeinenge jab mehdi-e-daura sar-e-mimbar
-  Kaabe se namudar jo hoga mera lashkar
-  Hoga yehi lashkar ka alamdar hamara
+  Laazim hai ke ham dekheṅge ek roz ye manzar
+  Farmaaeṅge jab Mahdi-e-dauraaṅ sar-e-mimbar
+  Kaabe se numudaar jo hoga mera lashkar
+  Hoga yehi lashkar ka alamdaar hamaara
 
   8
-  Yaad aata hai wo ruqsate abbas ka manzar
-  Wo rona sakina ka pharayre ko pakar kar
-  Wo dekhna zainab ka kabhi ghar kabhi chadar
-  Kehti thi palat aayein behen bhai ka pyara
+  Yaad aata hai wo rukhsat-e-Abbas ka manzar
+  Wo rona Sakina ka pharere ko pakar kar
+  Wo dekhna Zainab ka kabhi ghar kabhi chaadar
+  Kehti thi palat aaye behen bhaai ka pyaara
 
   9
-  Abbas gaye hogaya maula mera tanha
-  Dekha kabhi maidaṅ to kabhi jaanib-e-darya
-  Nagaah alam nehr pe girte huwe dekha
+  Abbas gaye ho gaya Maula mera tanha
+  Dekha kabhi maidaaṅ to kabhi jaanib-e-darya
+  Naagaah alam nehr pe girte hue dekha
   Zainab se kaha sher gaya nehr pe maara
 
   10
-  Ae sarwar o rehaan ye emaan hai apna
+  Ae Sarwar o Rehaan ye imaan hai apna
   Abbas ke parcham ka sada sar pe hai saaya
-  Parne ke liye hashr meiṅ shabbir ka noha
-  Abbas bulayenge hameiṅ kar ke ishara
+  Parne ke liye hashr meiṅ Shabbir ka noha
+  Abbas bulaaeṅge hameiṅ kar ke ishaara
 # source_id: nohayonline:e3d7f1d3c53484c96312
 # source_url: https://www.nohayonline.com/details_content.php?id=332
 # raw_sha256: 3aabeb54e3864f24cb74c35ad732c011c9b78b834406567e84413559e9ffee77

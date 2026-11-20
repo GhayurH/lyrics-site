@@ -7,54 +7,34 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Ay shame ghariban ay shame ghariban
-
+romanLyrics: |-
+  Ae shaam-e-gharibaaṅ ae shaam-e-gharibaaṅ
 
   1
-
-  Tareekh ka hai gham se tere chaak gareban
-
-  Ek zakhme sina se ali akbar gaye maare
-
-  Kausar ko sidhare
-
-  Kya kya na thay laila ko abhi byaah ke armaan
-
+  Taarikh ka hai gham se tera chaak garibaaṅ
+  Ik zakhm-e-sanaaṅ se Ali Akbar gaye maare
+  Kausar ko sidhaare
+  Kya kya na the Laila ko abhi byaah ke armaaṅ
 
   2
-
-  Cheh maah ke baysheer bhi maare gaye pyase
-
-  Ek teer e khaza se
-
-  Is zulm pa khud ahle jafa hogaye girya
-
+  Chhe maah ke beshir bhi maare gaye pyaase
+  Ik teer-e-faza se
+  Is zulm pe khud ahl-e-jafa ho gaye giryaaṅ
 
   3
-
-  Bete thay wo zainab ke ajab faqre abujad
-
-  Wo aun o mohamed
-
-  Hamsheer ne dono ko kiya bhai pa qurban
-
+  Bete the wo Zainab ke ajab farq-e-Abujad
+  Wo Aun o Muhammad
+  Hamshir ne donoṅ ko kiya bhaai pe qurbaaṅ
 
   4
-
-  Akbar hai na qasim hai na asghar hai na abbas
-
-  Ab koi nahi paas
-
-  Ek pehr may shabbir ka ghar hogaya veeran
-
+  Akbar haiṅ na Qaasim haiṅ na Asghar haiṅ na Abbaas
+  Ab koi haiṅ paas
+  Ak pahar mein Shabbir ka ghar ho gaya viraaṅ
 
   5
-
-  Shehzadi sakina bhi aaghaze safar hai
-
-  Lagte hai tamache
-
-  Aur shaam ka zindan to hai pir shaam ka zindan'
+  Shahzaadi Sakina abhi aaghaaz-e-safar hai
+  Lagte haiṅ tamaanche
+  Aur shaam ka zindaaṅ to hai phir shaam ka zindaaṅ
 # source_id: nohayonline:83c6c82d7d1d61b06c9c
 # source_url: https://www.nohayonline.com/details_content.php?id=201
 # raw_sha256: 868f779bb3b6e27d61e971f90335946a1c1aed278031dfe37fd05b81366ff482

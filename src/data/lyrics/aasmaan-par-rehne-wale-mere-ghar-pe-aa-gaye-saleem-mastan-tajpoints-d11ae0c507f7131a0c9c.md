@@ -1,53 +1,93 @@
 ---
-title: "Aasmaan Par Rehne Wale Mere Ghar Pe Aa Gaye Saleem Mastan"
+title: "آسمان پر رہنے والے میرے گھر پہ آ گئے سلیم مستان"
+alternateTitle: "Aasmaan Par Rehne Wale Mere Ghar Pe Aa Gaye Saleem Mastan"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Fazil"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:d11ae0c507f7131a0c9c
 # source_url: https://tajpoints.com/2025/02/aasmaan-par-rehne-wale-mere-ghar-pe-aa.html
 # raw_sha256: 99e98100f8070d8f90c21468aaf5c908fd2aab4253c3d8cdc2556bb7f0d5e3b9
+romanLyrics: |-
+  Aasmaan par rehne wale mere ghar pe aa gaye Saleem Mastan
+  Aik majlis hi rakhi thi sab utar kar aa gaye
+
+  1
+  Majlis e Shabbir ka yeh bhi humein sadqa mila
+  Anbiya baithe jahan par hum barabar aa gaye
+  Kitne chehre khil gaye our kitne shajray khul gaye
+  Hum tu mehfil mein faqt narah laga kar aa gaye
+
+  2
+  Gaud mein Akbar ke le kar Sheh ne ro kar yeh kaha
+  Dekho Zainab phir se nana mere ghar par aa gaye
+  Jab Ali Akbar ki khushbo se mehak utha jahan
+  Log Sheh se pochte they kya payambar aa gaye
+
+  3
+  Sun ke Zainab ki khitabat san raseda kehte they
+  Hum ghalat hain ya yahan par sach mein Haider aa gaye
+  Sheh pe marne ka maza maloom tha tum ko Habib
+  Iss liye tum jan dene bar e degar aa gaye
+
+  4
+  Zarf hai shart is liye Salman se baton ke beech
+  Chup hoye aksar Ali khud jab Abuzar aa gaye
+  Dekh kar jannat ko sare matami kehte the yeh
+  Yeh tu hum phir se zameen e Karbala par aa gaye
+
+  5
+  Josh mein aaye they sab ke sab Nabi ko marne
+  Sote Haider ko jo paya sab ko chakar aa gaye
+  Aagay ur Jibreel se shehpar ka sadqa hai yeh
+  Iss ke Fitrus sirf par hain tere shehpar aa gaye
+
+  6
+  Tu waselay ka hai munkir phir Nabi se poch yeh
+  Kyun shifa ke wastay woh zair e chadar aa gaye
+  Dekh kar yeh manqabat Fazil se kehte they malak
+  Tum tu bakhshish ka hawala sath le kar aa gaye
 ---
 
-Aasmaan Par Rehne Wale Mere Ghar Pe Aa Gaye Saleem Mastan.
-Aik Majlis Hi Rakhi Thi Sab Utar Kar Aa Gaye.
+آسمان پر رہنے والے میرے گھر پہ آ گئے سلیم مستان
+ایک مجلس ہی رکھی تھی سب اتر کر آ گئے
 
-1
-Majlis e Shabbir Ka Yeh Bhi Humein Sadqa Mila.
-Anbiya Baithe Jahan Par Hum Barabar Aa Gaye.
-Kitne Chehre Khil Gaye Our Kitne Shajray Khul Gaye.
-Hum Tu Mehfil Mein Faqt Narah Laga Kar Aa Gaye.
+۱
+مجلسِ شبیر کا یہ بھی ہمیں صدقہ ملا
+انبیا بیٹھے جہاں پر ہم برابر آ گئے
+کتنے چہرے کھل گئے اور کتنے شجرے کھل گئے
+ہم تو محفل میں فقط نعرہ لگا کر آ گئے
 
-2
-Gaud Mein Akbar Ke Le Kar Sheh Ne Ro Kar Yeh Kaha.
-Dekho Zainab Phir Se Nana Mere Ghar Par Aa Gaye.
-Jab Ali Akbar Ki Khushbo Se Mehak Utha Jahan.
-Log Sheh Se Pochte They Kya Payambar Aa Gaye.
+۲
+گود میں اکبر کے لے کر شہ نے رو کر یہ کہا
+دیکھو زینب پھر سے نانا میرے گھر پر آ گئے
+جب علی اکبر کی خوشبو سے مہک اٹھا جہاں
+لوگ شہ سے پوچھتے تھے کیا پیمبر آ گئے
 
-3
-Sun Ke Zainab Ki Khitabat San Raseda Kehte They.
-Hum Ghalat Hain Ya Yahan Par Sach Mein Haider Aa Gaye.
-Sheh Pe Marne Ka Maza Maloom Tha Tum Ko Habib.
-Iss Liye Tum Jan Dene Bar e Degar Aa Gaye.
+۳
+سن کے زینب کی خطابت سن رسیدہ کہتے تھے
+ہم غلط ہیں یا یہاں پر سچ میں حیدر آ گئے
+شہ پہ مرنے کا مزہ معلوم تھا تم کو حبیب
+اس لیے تم جان دینے بارِ دگر آ گئے
 
-4
-Zarf Hai Shart Is Liye Salman Se Baton Ke Beech.
-Chup Hoye Aksar Ali Khud Jab Abuzar Aa Gaye.
-Dekh Kar Jannat Ko Sare Matami Kehte The Yeh.
-Yeh Tu Hum Phir Se Zameen e Karbala Par Aa Gaye.
+۴
+ظرف ہے شرط اس لیے سلمان سے باتوں کے بیچ
+چپ ہوئے اکثر علی خود جب ابوذر آ گئے
+دیکھ کر جنت کو سارے ماتمی کہتے تھے یہ
+یہ تو ہم پھر سے زمینِ کربلا پر آ گئے
 
-5
-Josh Mein Aaye They Sab Ke Sab Nabi Ko Marne.
-Sote Haider Ko Jo Paya Sab Ko Chakar Aa Gaye.
-Aagay Ur Jibreel Se Shehpar Ka Sadqa Hai Yeh.
-Iss Ke Fitrus Sirf Par Hain Tere Shehpar Aa Gaye.
+۵
+جوش میں آئے تھے سب کے سب نبی کو مارنے
+سوتے حیدر کو جو پایا سب کو چکر آ گئے
+آگے اُڑ جبرئیل سے شہپر کا صدقہ ہے یہ
+اس کے فطرس صرف پر ہیں تیرے شہپر آ گئے
 
-6
-Tu Waselay Ka Hai Munkir Phir Nabi Se Poch Yeh.
-Kyun Shifa Ke Wastay Woh Zair e Chadar Aa Gaye.
-Dekh Kar Yeh Manqabat Fazil Se Kehte They Malak.
-Tum Tu Bakhshish Ka Hawala Sath Le Kar Aa Gaye.
+۶
+تو وسیلے کا ہے منکر پھر نبی سے پوچھ یہ
+کیوں شفا کے واسطے وہ زیرِ چادر آ گئے
+دیکھ کر یہ منقبت فاضل سے کہتے تھے ملک
+تم تو بخشش کا حوالہ ساتھ لے کر آ گئے

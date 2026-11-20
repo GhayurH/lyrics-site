@@ -10,48 +10,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas ka parcham mujhe jis ja nazar aaya
+  Abbas ka parcham mujhe jis jaa nazar aaya
 
   1
-  Mashkeeza wahiṅ dukhtare sheh ka nazar aaya
-  Haathoṅ se jigar saaqiye kausar ne sambhala
-  Jab tashna dahan unka khabeela nazar aaya
+  Mashkiza wahiṅ dukhtar-e-sheh ka nazar aaya
+  Haathoṅ se jigar saaqi-e-Kausar ne sambhaala
+  Jab tashna dahan unka qabila nazar aaya
 
   2
-  Dunya meiṅ use milgayi jannat ki basharat
-  Gham meiṅ jo shahe din ke rota nazar aaya
+  Dunya meiṅ use mil gayi jannat ki bashaarat
+  Gham meiṅ jo sheh-e-din ke rota nazar aaya
 
   3
-  Sairaab kiya saaqiye kausar ke pisar ne
-  Jab lashkare hurr dasht meiṅ pyasa nazar aaya
+  Sairaab kiya saaqi-e-Kausar ke pisar ne
+  Jab lashkar-e-Hurr dasht meiṅ pyaasa nazar aaya
 
   4
-  Hota hai jahaṅ matame farzande payambar
+  Hota hai jahaṅ maatam-e-farzand-e-payambar
   Ghazi ka alam bhi wahiṅ uncha nazar aaya
 
   5
-  Kya guzri na jaane dil e maadar pe elaahi
+  Kya guzri na jaane dil-e-maadar pe ilaahi
   Jab khun meiṅ tar bete ka laasha nazar aaya
 
   6
-  Nazroṅ meiṅ wohi phir gayi tasvire sakina
+  Nazroṅ meiṅ wohi phir gayi tasvir-e-Sakina
   Ghazi ko jo behta hua darya nazar aaya
 
   7
-  Islam ki tarikh meiṅ chauda sau sadi se
+  Islaam ki tarikh meiṅ chauda sau sadi se
   Khanjar ke tale ek hi sajda nazar aaya
 
   8
-  Gardan pe laga tir magar daste pidar par
-  Hasta hua shabbir ka pyara nazar aaya
+  Gardan pe laga tir magar dast-e-pidar par
+  Hansta hua Shabbir ka pyaara nazar aaya
 
   9
-  Kehte hai khalil aaj mili khaab ki tabir
-  Sehra meiṅ jo shabbir ka laasha nazar aaya
+  Kehte haiṅ Khalil aaj mili khaab ki taabir
+  Sehra meiṅ jo Shabbir ka laasha nazar aaya
 
   10
-  Aankhoṅ se meri ashk chalakne lage mazhar
-  Jab jab bhi mujhe pani ka kooza nazar aaya
+  Aankhoṅ se meri ashk chhalakne lage Mazhar
+  Jab jab bhi mujhe paani ka kuza nazar aaya
 # source_id: nohayonline:676cddd2fb7defbc3852
 # source_url: https://www.nohayonline.com/details_content.php?id=930
 # raw_sha256: 933ede74718d709015d2ee9fb5b8ec33d266a5d79e7e73047694979d989ba7b6

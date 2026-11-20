@@ -1,126 +1,239 @@
 ---
 title: "اے کوفیانِ بے وفا"
+alternateTitle: "Aey Kufiyan-e-Bewafa"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: ziyaraat:40091183b8a986fbe944
 # source_url: https://www.ziyaraat.net/api/noha/2371
 # raw_sha256: 61bca3016d84bf60f6fd87fb77974ca2983950a1ba053bf359ccd9697c1e9a1b
+romanLyrics: |-
+  Aey Kufiyane bewafa
+
+  1
+  Ghul machatey be adab wo Koofiyan e bad zaban
+  Wehshaton ke daeyron me theen Ali ki betiyaan
+  Zalimon ke samney
+  Qatilon ke darmiyan
+  Choti dukhtar-e-Ali ki aa rahi thi ye sada
+  Hussain
+
+  2
+  Nouha ye tha Kulsoom ka
+  Aey Kufiyan-e-bewafa
+  Aye Kufiyan-e-bewafa
+  Aye zalimo ahl-e-jafa
+
+  3
+  Hai tumhey khabar tum ho aashna
+  Kiska ghar luta kiss ka khoon baha
+  Haaye tumney ye kiya kar dia
+  Kissko loot kar ghar jala dia
+
+  4
+  Hai zabano per kalma-e-Khuda
+  Phir bhi seenon main dil hai sang ka
+  Aye Kufiyan-e-bewafa
+  Aye zalimo ahl-e-jafa
+
+  5
+  Hai tumhey khabar tum ho aashna
+  Kiska ghar luta kiss ka khoon baha
+  Haaye tumney ye kiya kar dia
+  Kissko loot kar ghar jala dia
+
+  6
+  Hai zabano per kalma-e-Khuda
+  Phir bhi seenon main dil hai sang ka
+
+  7
+  Uss Hussain ko qatal kar dia
+  Jiss key pass hai marzi-e-Khuda
+  Deen jiss key ghar surkhru hua
+  Jiss Hussain ka nana Mustafa
+  Jiss Hussain ka baba Murtaza
+  Jiss Hussain ki maan hai Syeda
+  Ru baru agar ho ga samna
+  Kaisey jao gey paish-e-Kibriya
+  Aye Kufiyan-e-bewafa
+  Aye zalimo ahl-e-jafa
+
+  8
+  Hai tumhey khabar tum ho aashna
+  Kiska ghar luta kiss ka khoon baha
+  Haaye tumney ye kiya kar dia
+  Kissko loot kar ghar jala dia
+  Hai zabano per kalma-e-Khuda
+  Phir bhi seenon main dil hai sang ka
+  Zulm konsa ham pe na hua
+  Phir bhi ham rahey razi ba raza
+  Bhai ko merey dhoka de dia
+  Sath na dia akela kar dia
+  Pehly khat likhay aur bula lia
+  Phir ghareeb ka khoon baha dia
+  Mat zameen per tum bano Khuda
+  Waqt hai qareeb ho ga faisla
+  Aye Kufiyan-e-bewafa
+  Aye zalimo ahl-e-jafa
+
+  9
+  Hai tumhey khabar tum ho aashna
+  Kiska ghar luta kiss ka khoon baha
+  Haaye tumney ye kiya kar dia
+  Kissko loot kar ghar jala dia
+  Hai zabano per kalma-e-Khuda
+  Phir bhi seenon main dil hai sang ka
+  Aye Kufiyo zulm ho gaya
+  Aal-e-Mustafa sey muqabla
+  Itrat-e-Nabi ham hain ba Khuda
+  Zer-e-aasman sar khula hua
+  Baandh kar hamey qaid kar lia
+  Aur phir hamey baaghi keh dia
+  Jiss key nana se deen-e-haq mila
+  Us nawasey ko ye sila mila
+  Aye Kufiyan-e-bewafa
+  Aye zalimo ahl-e-jafa
+
+  10
+  Hai tumhey khabar tum ho aashna
+  Kiska ghar luta kiss ka khoon baha
+  Haaye tumney ye kiya kar dia
+  Kissko loot kar ghar jala dia
+  Hai zabano per kalma-e-Khuda
+  Phir bhi seenon main dil hai sang ka
+  Wa musibata
+  Wa musibata
+  Wa musibata yoon chaman luta
+  Gheyr kar hamey laaye Karbala
+  Band ham pe phir pani kar dia
+  Qatal kar dia ghar ka ghar mera
+  Syedon ke sar kar diye juda
+  Zulm ki hui ham pe inteha
+  Tum pe waaey ho haaye kia kiya
+  Ajr-e-Mustafa yun ada kiya
+  Aye Kufiyan-e-bewafa
+  Aye zalimo ahl-e-jafa
+  Hai tumhey khabar tum ho aashna
+  Kiska ghar luta kiss ka khoon baha
+  Haaye tumney ye kiya kar dia
+  Kissko loot kar ghar jala dia
+  Hai zabano per kalma-e-Khuda
+  Phir bhi seenon main dil hai sang ka
 ---
 
-Aey Kufiyane Bewafa
+اے کوفیانِ بے وفا
 
-1
-Ghul Machatey Be Adab Wo Koofiyan e Bad Zaban
-Wehshaton Ke Daeyron Me Theen Ali a.s Ki Betiyaan
-Zalimon Ke Samney
-Qatilon Ke Darmiyan
-Choti Dukhtar-e-Ali Ki Aa Rahi Thi Ye Sada
-Hussain
+۱
+غل مچاتے بے ادب وہ کوفیانِ بد زباں
+وحشتوں کے دائروں میں تھیں علیؑ کی بیٹیاں
+ظالموں کے سامنے
+قاتلوں کے درمیاں
+چھوٹی دخترِ علی کی آ رہی تھی یہ صدا
+حسین
 
-2
-Nouha Ye Tha Kulsoom Ka
-Aey Kufiyan-e-bewafa
-Aye Kufiyan-e-Bewafa
-Aye Zalimo Ahl-e-Jafa
+۲
+نوحہ یہ تھا کلثوم کا
+اے کوفیانِ بے وفا
+اے کوفیانِ بے وفا
+اے ظالمو اہلِ جفا
 
-3
-Hai Tumhey Khabar Tum Ho Aashna
-Kiska Ghar Luta Kiss Ka Khoon Baha
-Haaye Tumney Ye Kiya Kar Dia
-Kissko Loot Kar Ghar Jala Dia
+۳
+ہے تمہیں خبر تم ہو آشنا
+کس کا گھر لٹا کس کا خون بہا
+ہائے تم نے یہ کیا کر دیا
+کس کو لوٹ کر گھر جلا دیا
 
-4
-Hai Zabano Per Kalma-e-Khuda
-Phir Bhi Seenon Main Dil Hai Sang Ka
-Aye Kufiyan-e-Bewafa
-Aye Zalimo Ahl-e-Jafa
+۴
+ہے زبانوں پر کلمۂ خدا
+پھر بھی سینوں میں دل ہے سنگ کا
+اے کوفیانِ بے وفا
+اے ظالمو اہلِ جفا
 
-5
-Hai Tumhey Khabar Tum Ho Aashna
-Kiska Ghar Luta Kiss Ka Khoon Baha
-Haaye Tumney Ye Kiya Kar Dia
-Kissko Loot Kar Ghar Jala Dia
+۵
+ہے تمہیں خبر تم ہو آشنا
+کس کا گھر لٹا کس کا خون بہا
+ہائے تم نے یہ کیا کر دیا
+کس کو لوٹ کر گھر جلا دیا
 
-6
-Hai Zabano Per Kalma-e-Khuda
-Phir Bhi Seenon Main Dil Hai Sang Ka
+۶
+ہے زبانوں پر کلمۂ خدا
+پھر بھی سینوں میں دل ہے سنگ کا
 
-7
-Uss Hussain Ko Qatal Kar Dia
-Jiss Key Pass Hai Marzi-e-Khuda
-Deen Jiss Key Ghar Surkhru Hua
-Jiss Hussain Ka Nana Mustafa
-Jiss Hussain Ka Baba Murtaza
-Jiss Hussain Ki Maan Hai Syeda
-Ru Baru Agar Ho Ga Samna
-Kaisey Jao Gey Paish-e-Kibriya
-Aye Kufiyan-e-Bewafa
-Aye Zalimo Ahl-e-Jafa
+۷
+اس حسین کو قتل کر دیا
+جس کے پاس ہے مرضیِ خدا
+دین جس کے گھر سرخرو ہوا
+جس حسین کا نانا مصطفیٰ
+جس حسین کا بابا مرتضیٰ
+جس حسین کی ماں ہے سیدہ
+روبرو اگر ہو گا سامنا
+کیسے جاؤ گے پیشِ کبریا
+اے کوفیانِ بے وفا
+اے ظالمو اہلِ جفا
 
-8
-Hai Tumhey Khabar Tum Ho Aashna
-Kiska Ghar Luta Kiss Ka Khoon Baha
-Haaye Tumney Ye Kiya Kar Dia
-Kissko Loot Kar Ghar Jala Dia
-Hai Zabano Per Kalma-e-Khuda
-Phir Bhi Seenon Main Dil Hai Sang Ka
-Zulm Konsa Ham Pe Na Hua
-Phir Bhi Ham Rahey Razi Ba Raza
-Bhai Ko Merey Dhoka De Dia
-Sath Na Dia Akela Kar Dia
-Pehly Khat Likhay Aur Bula Lia
-Phir Ghareeb Ka Khoon Baha Dia
-Mat Zameen Per Tum Bano Khuda
-Waqt Hai Qareeb Ho Ga Faisla
-Aye Kufiyan-e-Bewafa
-Aye Zalimo Ahl-e-Jafa
+۸
+ہے تمہیں خبر تم ہو آشنا
+کس کا گھر لٹا کس کا خون بہا
+ہائے تم نے یہ کیا کر دیا
+کس کو لوٹ کر گھر جلا دیا
+ہے زبانوں پر کلمۂ خدا
+پھر بھی سینوں میں دل ہے سنگ کا
+ظلم کون سا ہم پہ نہ ہوا
+پھر بھی ہم رہے راضی بہ رضا
+بھائی کو میرے دھوکا دے دیا
+ساتھ نہ دیا اکیلا کر دیا
+پہلے خط لکھے اور بلا لیا
+پھر غریب کا خون بہا دیا
+مت زمین پر تم بنو خدا
+وقت ہے قریب ہو گا فیصلہ
+اے کوفیانِ بے وفا
+اے ظالمو اہلِ جفا
 
-9
-Hai Tumhey Khabar Tum Ho Aashna
-Kiska Ghar Luta Kiss Ka Khoon Baha
-Haaye Tumney Ye Kiya Kar Dia
-Kissko Loot Kar Ghar Jala Dia
-Hai Zabano Per Kalma-e-Khuda
-Phir Bhi Seenon Main Dil Hai Sang Ka
-Aye Kufiyo Zulm Ho Gaya
-Aal-e-Mustafa Sey Muqabla
-Itrat-e-Nabi Ham Hain Ba Khuda
-Zer-e-Aasman Sar Khula Hua
-Baandh Kar Hamey Qaid Kar Lia
-Aur Phir Hamey Baaghi Keh Dia
-Jiss Key Nana Se Deen-e-Haq Mila
-Us Nawasey Ko Ye Sila Mila
-Aye Kufiyan-e-Bewafa
-Aye Zalimo Ahl-e-Jafa
+۹
+ہے تمہیں خبر تم ہو آشنا
+کس کا گھر لٹا کس کا خون بہا
+ہائے تم نے یہ کیا کر دیا
+کس کو لوٹ کر گھر جلا دیا
+ہے زبانوں پر کلمۂ خدا
+پھر بھی سینوں میں دل ہے سنگ کا
+اے کوفیو ظلم ہو گیا
+آلِ مصطفیٰ سے مقابلہ
+عترتِ نبی ہم ہیں بخدا
+زیرِ آسمان سر کھلا ہوا
+باندھ کر ہمیں قید کر لیا
+اور پھر ہمیں باغی کہہ دیا
+جس کے نانا سے دینِ حق ملا
+اس نواسے کو یہ صلہ ملا
+اے کوفیانِ بے وفا
+اے ظالمو اہلِ جفا
 
-10
-Hai Tumhey Khabar Tum Ho Aashna
-Kiska Ghar Luta Kiss Ka Khoon Baha
-Haaye Tumney Ye Kiya Kar Dia
-Kissko Loot Kar Ghar Jala Dia
-Hai Zabano Per Kalma-e-Khuda
-Phir Bhi Seenon Main Dil Hai Sang Ka
-Wa Musibata
-Wa Musibata
-Wa Musibata Yoon Chaman Luta
-Gheyr Kar Hamey Laaye Karbala
-Band Ham Pe Phir Pani Kar Dia
-Qatal Kar Dia Ghar Ka Ghar Mera
-Syedon Ke Sar Kar Diye Juda
-Zulm Ki Hui Ham Pe Inteha
-Tum Pe Waaey Ho Haaye Kia Kiya
-Ajr-e-Mustafa Yun Ada Kiya
-Aye Kufiyan-e-Bewafa
-Aye Zalimo Ahl-e-Jafa
-Hai Tumhey Khabar Tum Ho Aashna
-Kiska Ghar Luta Kiss Ka Khoon Baha
-Haaye Tumney Ye Kiya Kar Dia
-Kissko Loot Kar Ghar Jala Dia
-Hai Zabano Per Kalma-e-Khuda
-Phir Bhi Seenon Main Dil Hai Sang Ka
+۱۰
+ہے تمہیں خبر تم ہو آشنا
+کس کا گھر لٹا کس کا خون بہا
+ہائے تم نے یہ کیا کر دیا
+کس کو لوٹ کر گھر جلا دیا
+ہے زبانوں پر کلمۂ خدا
+پھر بھی سینوں میں دل ہے سنگ کا
+وا مصیبتا
+وا مصیبتا
+وا مصیبتا یوں چمن لٹا
+گھیر کر ہمیں لائے کربلا
+بند ہم پہ پھر پانی کر دیا
+قتل کر دیا گھر کا گھر میرا
+سیدوں کے سر کر دیے جدا
+ظلم کی ہوئی ہم پہ انتہا
+تم پہ وائے ہو ہائے کیا کیا
+اجرِ مصطفیٰ یوں ادا کیا
+اے کوفیانِ بے وفا
+اے ظالمو اہلِ جفا
+ہے تمہیں خبر تم ہو آشنا
+کس کا گھر لٹا کس کا خون بہا
+ہائے تم نے یہ کیا کر دیا
+کس کو لوٹ کر گھر جلا دیا
+ہے زبانوں پر کلمۂ خدا
+پھر بھی سینوں میں دل ہے سنگ کا

@@ -8,47 +8,22 @@ reciter: "Zulfiqar-e-Haidry (Sachchay Bhai)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Aati hai sakina ki sada karbobala se
-
+romanLyrics: |-
+  Aati hai Sakina ki sada Karb o Bala se
 
   1
-
-  Ammu ho kahan aao ke hum hai abhi pyase
-
-
-  2
-
-  Atka hai jigar pyas ye le-legi meri jaan
-
-  Bach bhi gayi gar shimr ke durro ki saza se
-
-
-  3
-
-  Baysheer ke honton pe nahi pyaas ka shikwa
-
-  Tar kar diya aada ne gala teere jafa se
-
-
-  4
-
-  Jo ran ko gaya ran se kahan aaya palat kar
-
-  Deti hai phupi jaan mujhe yuhin dilaase
-
-
-  5
-
-  Sunti hoo yateemo ki dua radh nahi hoti
-
-  Ya rab mujhe milwade phir ek baar chacha se
-
-
-  6
-
-  Maa behne khule sar hai lahoo roti hai aankhein
-
-  Uth''ta nahi bhai ka mere sar hai haya se'
+  Ammu ho kahaaṅ aap ke ham haiṅ ab bhi pyaase
+  Phat'ta hai jigar pyaas ye le le gi meri jaan
+  Bach bhi gai gar Shimr ke durroṅ ki jafa se
+  Be shir ke hontoṅ pe nahiṅ pyaas ka shikwa
+  Tar kar diya aadaa ne gala tir-e-jafa se
+  Jo ran ko gaya ran se kahaaṅ aaya palat kar
+  Deti haiṅ phuphi jaan mujhe yuṅ hi dilaase
+  Sunti huṅ yatimoṅ ki dua rad nahiṅ hoti
+  Ya Rab mujhe milwa de phir ek baar chacha se
+  Maaṅ bahneṅ khule sar haiṅ lahu roti haiṅ aaṅkheṅ
+  Uthta nahiṅ bhai ka mere sar haa-e-haya se
+  Ammu ho kahaaṅ aap ke ham haiṅ abhi pyaase
 # source_id: nohayonline:f7d3d754ce1be73ed6ae
 # source_url: https://www.nohayonline.com/details_content.php?id=459
 # raw_sha256: 895c81bc18e8802e06b9402f1121ee6c07c18305de3d39626b80918de3a84f88

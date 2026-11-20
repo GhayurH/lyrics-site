@@ -1,10 +1,11 @@
 ---
-title: "Abbas (as) jo Dariya Se Palat Kar Nahi Aayya"
+title: "عباسؑ جو دریا سے پلٹ کر نہیں آیا"
+alternateTitle: "Abbas Jo Dariya Se Palat Kar Nahi Aayya"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: nohawriteups:edcb8a80346eeae6e5ed
@@ -12,52 +13,84 @@ published: false
 # raw_sha256: 661e3265b27f7367945dc0a8e21095c7d68d5e4d37290c923f59fee290b5c737
 # source_title_original: Abbas (as) jo Dariya Se Palat Kar Nahi Aayya | Fatemah Ladak New Nohay | 2023-1445
 # editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
+romanLyrics: |-
+  Abbas jo dariya se palat kar nahi aaya
+  Saadaat ko phir chain mayasser nahi aaya
+
+  1
+  Tukre huwe laasho pe bukaa karti thi Zehra
+  Abbas ke baazu hay yeh Shabir ka seena
+  Yak ja koi laasha bhi zameen par nahi aaya
+
+  2
+  Har Bibi ko ek aas thi Abbas ke dum se
+  Lipti huwi Zainab yehi kehti thi alam se
+  Maqtal se mera zaamine chaadar nahi aaya
+
+  3
+  Jab maare gaye haaye Sakina ko tamache
+  Roti rahi wo haatho se chereh ko chupake
+  Behlaneh koi mooniso yawar nahi aaya
+
+  4
+  Jab shaameh alam aa gayi kohraam bapa tha
+  Jalte huwe khaimo ka dhuwaa dundh raha tha
+  Saqqa e haram sani e Haider nahi aaya
+
+  5
+  Abbas ka sar neze pe rukh ta hi nahi tha
+  Jab Shaam ki raaho mei sadaa deti Sakina
+  Jab kehti thi Zainab ke biraadar nahi aaya
+
+  6
+  Ghash khaa ke gireh qabre Sakina pe jo Sajjad
+  Karti thi laraz ti huwi zanjeer ye faryaad
+  Ghum konsa Maula tere dil par nahi aaya
+
+  7
+  Ab tak hay Samar karbobala ka yahi nauha
+  Saahil pe tarapta raha Abbas ka laasha
+  Phir Hashmi metaab ufaq par nahi aaya
+
+  Abbas jo dariya se palat kar nahi aaya
 ---
 
-ABBAS (as) JO DARIYA SE PALAT KAR NAHI AAYA
-SAADAAT KO PHIR CHAIN MAYASSER NAHI AAYA
-Abbas (as), the one who did not return from the river
-The sadaat never atained serenity again
-TUKRE HUWE LAASHO PE BUKAA KARTI THI ZEHRA (sa)
-ABBAS (as) KE BAAZU HAY YEH SHABIR (as) KA SEENA
-YAK JA KOI LAASHA BHI ZAMEEN PAR NAHI AAYA
-Zahra (sa) laments over the severed bodies
-Abbas’ (as) arms and Shabir’s (as) chest
-Not one body hit the ground unsevered
-HAR BIBI KO EK AAS THI ABBAS (as) KE DUM SE
-LIPTI HUWI ZAINAB (sa) YEHI KEHTI THI ALAM SE
-MAQTAL SE MERA ZAAMINE CHAADAR NAHI AAYA
-Every Bibi had hope with Abbas’ (as) breath
-This is what Zainab (sa) said while clasping the Alam
-The defender of my veil never returned from the battlefield
-JAB MAARE GAYE HAYE SAKINA (sa) KO TAMACHE
-ROTI RAHI WO HAATHO SE CHEREH KO CHUPAKE
-BEHLANEH KOI MOONISO YAWAR NAHI AAYA
-The moment when Sakina (sa) was slapped
-She cried whilst hiding her face with her hands
-No sympathiser nor protector came to console her
-JAB SHAAMEH ALAM AA GAYI KOHRAAM BAPA THA
-JALTE HUWE KHAIMO KA DHUWAA DUNDH RAHA THA
-SAQQA E HARAM SANI E HAIDER NAHI AAYA
-When the night of woes befell, there was pandemonium
-Smoke from the burning tents was searching
-The water fetcher of the camp, the second Haider didn’t return
-ABBAS (as) KA SAR NEZE PE RUKH TA HI NAHI THA
-JAB SHAAM KI RAAHO MEI SADAA DETI SAKINA (sa)
-JAB KEHTI THI ZAINAB (sa) KE BIRAADAR NAHI AAYA
-Abbas’ (as) head would not remain upon the spear
-When Sakina (sa) cried out on the journey to Shaam
-And when Zainab (sa) said O my brother never returned
-GHASH KHAA KE GIREH QABRE SAKINA (sa) PE JO SAJJAD (as)
-KARTI THI LARAZ TI HUWI ZANJEER YE FARYAAD
-GHUM KONSA MAULA TERE DIL PAR NAHI AAYA
-Sajjad (as) fainted as he fell on to Sakina’s (sa) grave
-The trembling shackles of Sajjad (as) cried aloud
-Which pain is there that has not befallen your heart
-AB TAK HAY SAMAR KARBOBALA KA YAHI NAUHA
-SAAHIL PE TARAPTA RAHA ABBAS (as) KA LAASHA
-PHIR HASHMI METAAB UFAQ PAR NAHI AAYA
-Till today SAMAR this is the lamentation of Karbala
-Abbas’ (as) torso remained trembling by the river
-No Hashemite moon ever rose to the night skies again
-ABBAS (as) JO DARIYA SE PALAT KAR NAHI AAYA
+عباسؑ جو دریا سے پلٹ کر نہیں آیا
+سادات کو پھر چین میسر نہیں آیا
+
+۱
+ٹکڑے ہوئے لاشوں پہ بکا کرتی تھی زہراؑ
+عباسؑ کے بازو ہے یہ شبیرؑ کا سینہ
+یک جا کوئی لاشہ بھی زمین پر نہیں آیا
+
+۲
+ہر بی‌بی کو ایک آس تھی عباسؑ کے دم سے
+لپٹی ہوئی زینبؑ یہی کہتی تھی علم سے
+مقتل سے میرا ضامنِ چادر نہیں آیا
+
+۳
+جب مارے گئے ہائے سکینہؑ کو طمانچے
+روتی رہی وہ ہاتھوں سے چہرے کو چھپا کے
+بہلانے کوئی مونس و یاور نہیں آیا
+
+۴
+جب شامِ الم آ گئی کہرام بپا تھا
+جلتے ہوئے خیموں کا دھواں ڈھونڈ رہا تھا
+سقائے حرم ثانیِ حیدر نہیں آیا
+
+۵
+عباسؑ کا سر نیزے پہ رکتا ہی نہیں تھا
+جب شام کی راہوں میں صدا دیتی سکینہؑ
+جب کہتی تھی زینبؑ کہ برادر نہیں آیا
+
+۶
+غش کھا کے گرے قبرِ سکینہؑ پہ جو سجادؑ
+کرتی تھی لرزتی ہوئی زنجیر یہ فریاد
+غم کون سا مولا تیرے دل پر نہیں آیا
+
+۷
+اب تک ہے ثمرؔ کرب و بلا کا یہی نوحہ
+ساحل پہ تڑپتا رہا عباسؑ کا لاشہ
+پھر ہاشمی مہتاب افق پر نہیں آیا
+
+عباسؑ جو دریا سے پلٹ کر نہیں آیا

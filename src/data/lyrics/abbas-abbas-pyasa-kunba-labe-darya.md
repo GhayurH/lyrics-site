@@ -10,104 +10,104 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Pyasa kunba labe darya
-  Rehgaye qaimon may tashna bache
+  Pyaasa kunba lab-e-darya
+  Reh gaye khaimoṅ mein tashna bachche
 
   1
-  Ek sada hai sab ke laboṅ par
-  Haye abbas
-  Le kar aao pani chacha
-  Abbas abbas abbas abbas
+  Ik sada hai sab ke laboṅ par
+  Haaye Abbas
+  Le kar aao paani chacha
+  Abbas Abbas Abbas Abbas
 
   2
-  Halq sabhi ka sukh chuka hai
+  Halq sabhi ka sukh chuka
   Goya qarin ab waqt-e-qaza hai
   Sab ne faqat ye roke kaha hai
-  Le kar aao pani chacha
+  Le kar aao paani chacha
 
   3
-  Abbas abbas...
-  Darbadari aur aale payambar
-  bewatani aur aale payambar
-  Tashnalabi aur aale payambar
+  Abbas Abbas...
+  Darbaari aur aal-e-payambar
+  Bewatani aur aal-e-payambar
+  Tashnalabi aur aal-e-payambar
 
   4
-  Le kar aao pani chacha
-  Abbas abbas...
-  Haye re asghar tashna dahani
+  Le kar aao paani chacha
+  Abbas Abbas...
+  Haaye re Asghar tashna dahaani
   Ghair hui hai haalat uski
 
   5
-  Kuch lamha bas jaan hai baakhi
-  Le kar aao pani chacha
-  Abbas abbas...
-  Le ke alam dada ka jao
+  Kuch lamha bas jaan hai baaqi
+  Le kar aao paani chacha
+  Abbas Abbas...
+  Le ke alam daada ka jaao
 
   6
-  Nehr utha kar qaime may lao
-  Zor e yadullah hi dikhlao
-  Le kar aao pani chacha
-  Abbas abbas...
+  Nehr utha kar khaime mein laao
+  Zor-e-Yadullah hi dikhlaao
+  Le kar aao paani chacha
+  Abbas Abbas...
 
   7
-  Dhup sare baali hai ghazab ki
-  Sab ka sahara aas ho sab ki
-  Sunlo sada ab pyase lab ki
-  Le kar aao pani chacha
+  Dhup sar baali hai ghazab ki
+  Sab ka sahaara aas ho sab ki
+  Sun lo sada ab pyaase lab ki
+  Le kar aao paani chacha
 
   8
-  Abbas abbas...
+  Abbas Abbas...
   Pyaas se kya haalat hai dekho
-  Kuch bhi nazar aata nahi hum ko
-  Behre khuda ehsaan ye kar do
+  Kuch bhi nazar aata nahiṅ hum ko
+  Bahr-e-Khuda ehsaan ye kar do
 
   9
-  Le kar aao pani chacha
-  Abbas abbas...
-  Leke chala ghazi mashkeeza
+  Le kar aao paani chacha
+  Abbas Abbas...
+  Le ke chale Ghazi mashkiza
   Shaah ne nam aankhoṅ se dekha
 
   10
-  Bachoṅ bne rokar ye farmaya
-  Le kar aao pani chacha
-  Abbas abbas...
-  Nehr se pani bhar ke wo palta
+  Bachchoṅ ne rokar ye farmaaya
+  Le kar aao paani chacha
+  Abbas Abbas...
+  Nehr se paani bhar ke wo palta
 
   11
-  Bhaagi hui faujoṅ ne ghayra
-  Parte rahe bache ye nauha
-  Le kar aao pani chacha
-  Abbas abbas...
+  Baaghi hui faujoṅ ne ghera
+  Parhte rahe bachche ye nauha
+  Le kar aao paani chacha
+  Abbas Abbas...
 
   12
-  Sheh ne uthaya daste baradar
-  Di ye sada atfaale payambar
+  Sheh ne uthaaya dast bardaar
+  Di ye sada atfaal-e-payambar
   Ab na sada dena ye ro kar
-  Le kar aao pani chacha
+  Le kar aao paani chacha
 
   13
-  Abbas abbas...
-  Kaise kahoo bachoṅ se hamare
-  Mar gaye bhai nehr kanare
-  Ab na bulaana kehke ye pyare
+  Abbas Abbas...
+  Kaise kahuṅ bachchoṅ se hamaare
+  Mar gaye bhaai nehr kinaare
+  Ab na bulaana kehke ye pyaare
 
   14
-  Le kar aao pani chacha
-  Abbas abbas...
-  Ab to bahot duhswaar hai jina
-  Kaise kahe ammu ye hazeena
+  Le kar aao paani chacha
+  Abbas Abbas...
+  Ab to bahut dushwaar hai jina
+  Kaise kahe ammu ye hazina
 
   15
-  Pyase hai bache pyasi sakina
-  Le kar aao pani chacha
-  Abbas abbas...
-  Dayam o yazdaṅ pyasoṅ ka nauha
+  Pyaase haiṅ bachche pyaasi Sakina
+  Le kar aao paani chacha
+  Abbas Abbas...
+  Dayam o Yazdaṅ pyaasoṅ ka nauha
 
   16
-  Sunke ye sheh ne roke pukara
-  Kis se kahoge ab ye khudara
-  Le kar aao pani chacha
-  Abbas abbas...
+  Sun ke ye Sheh ne roke pukaara
+  Kis se kahoge ab ye khudaara
+  Le kar aao paani chacha
+  Abbas Abbas...
 # source_id: nohayonline:83b7c72a5de3355681bf
 # source_url: https://www.nohayonline.com/details_content.php?id=1439
 # raw_sha256: 6ba0f14471e9a2840f7aad3ca7e1c668f07ceee04ecdc8b0938b4048d50d82e5

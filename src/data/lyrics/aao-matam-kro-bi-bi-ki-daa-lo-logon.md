@@ -11,51 +11,51 @@ aliases: []
 published: false
 # editorial_note: Alternate opening reads "کر کے ماتم بنتِ زہرا کی دعا لو لوگوں" and the shared Sham-bazaar verse reads "ملکہ تطہیر کجا"; keep as variant readings rather than duplicate stanzas.
 romanLyrics: |-
-  Be isme Rabbil Husain
+  Bismi Rabbil Husain
 
   1
-  Aao maatam karo, Bibi ki dua lo logo,
-  Gham e Shabbir me do aasoo bahaa lo logo,
+  Aao maatam karo, Bibi ki dua lo logoṅ,
+  Gham-e-Shabbir meiṅ do aasoṅ bahaa lo logoṅ,
 
   2
-  Jab bhi Abbas ki yaad aae Sakina ki tarha,
-  Ek sukhi si koi mashk, uthaa lo logo,
+  Jab bhi Abbas ki yaad aae Sakina ki tarah,
+  Ak sukhi si koi mashk, uthaa lo logoṅ,
 
   3
-  Kufa o Shaam ke har mod pe Zainab ne kaha,
-  May nabi zaadi, meraa pardaa bachaa lo logo,
+  Kufa o Shaam ke har mod pe Zainab ne kahaa,
+  Maiṅ nabi zaadi, meraa parda bachaa lo logoṅ,
 
   4
-  Binte Tathir kujaa Shaam ka bazaar kujaa,
-  Sar pe chaadar nahi, nazro ko jhukaa lo logo,
+  Bint-e-Tathir kujaa Shaam ka baazaar kujaa,
+  Sar pe chaadar nahiṅ, nazroṅ ko jhukaa lo logoṅ,
 
   5
-  Shaah e bekas ki sabilo pe chalo Ahle Azaa,
-  Yaad Asgar ko karo, pyaas bujhaa lo logo,
+  Shaah-e-bekas ki sabiloṅ pe chalo ahl-e-azaa,
+  Yaad Asghar ko karo, pyaas bujhaa lo logoṅ,
 
   6
-  Roz e Aashur ye Zainab ki sadaa aati hai,
-  Mere bhai ka janazaa hai, uthaa lo logo,
+  Roz-e-Aashur ye Zainab ki sadaa aati hai,
+  Mere bhaai ka janaaza hai, uthaa lo logoṅ,
 
   7
-  Aaj tak gunj rahi hai, ye sadaa maqtal me,
-  Qayd se meri Sakina ko churha lo logo,
+  Aaj tak gunj rahi hai, ye sadaa maqtal meiṅ,
+  Qaid se meri Sakina ko chhuraa lo logoṅ,
 
   8
-  Fatima Zahra ko mehman bulana hai agar
-  Apne ghar meiṅ bhi azakhana saja lo logo
+  Fatima Zahra ko mehmaan bulaanaa hai agar
+  Apne ghar meiṅ bhi azaa khaana sajaa lo logoṅ
 
   9
-  Shab-e-Aashur pe Zainab ne kaha ro ro kar
-  Mar na jaye mere bhai ko bacha lo logo
+  Shab-e-Aashur pe Zainab ne kahaa ro ro kar
+  Mar na jaae mere bhaai ko bachaa lo logoṅ
 
   10
-  Tum se gar ho na sake matam-e-Shabbir agar
-  Naam par pyasoṅ ke pani hi pila lo logo
+  Tum se gar ho na sake maatam-e-Shabbir agar
+  Naam par pyaasoṅ ke paani hi pilaa lo logoṅ
 
   11
-  berida parda-nashiṅ guzrenge kaise mere
-  Bole Sajjad ye majma to hata lo logo
+  Be rida parda nashiṅ guzreṅge kaise mere
+  Bole Sajjad ye majma to hataa lo logoṅ
 # source_id: ziyaraat:df01918f1672312dd2c5
 # source_url: https://www.ziyaraat.net/api/noha/2838
 # raw_sha256: c63870763652b30f26e9e8366978ce47adb3b729d54cad77a1548bf78e58906c

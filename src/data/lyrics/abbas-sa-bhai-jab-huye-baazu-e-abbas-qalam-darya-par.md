@@ -11,82 +11,82 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Jab huye baazu e abbas qalam darya par
+  Jab huye baazu-e-Abbas qalam darya par
   Gir ke thanda hua hazrat ka alam darya par
-  Ghark e khuṅ hogaya wo behre karam darya par
-  Gul tha zakhmi hua saqqa e haram darya par
+  Gharq-e-khuṅ ho gaya wo bahr-e-karam darya par
+  Ghul tha zakhmi hua saqqa-e-haram darya par
 
   2
-  Mashk ko daantoṅ meiṅ pakre hui yuṅ laata hai
-  Dahne sher meiṅ jis tarha shikaar aata hai
-  Algarz laasha e abbas pe aaye maula
-  Sar ko zaanu pe rakha aur ye ro ro ke kaha
+  Mashk ko daantoṅ mein pakre huye yuṅ laata hai
+  Daahne sher mein jis tarah shikaar aata hai
+  Algharaz laasha-e-Abbas pe aaye maula
+  Sar ko zaanuṅ pe rakha aur ye ro ro ke kaha
 
   3
-  Bhai to aaj hameiṅ kehdo khudara bhaiya
-  Nazha meiṅ bhai ko abbas ne bhai bola
-  Aakhri saans li aur daare fana chor diya
-  Bhai ne bhai ki aagosh meiṅ dam tor diya
+  Bhai to aaj hamein keh do khudaara bhaiya
+  Naza mein bhai ko Abbas ne bhai bola
+  Aakhri saans li aur daar-e-fana chhor diya
+  Bhai ne bhai ki aaghosh mein dam tor diya
 
   4
-  Abbas haye abbas abbas haye abbas
-  Hazrat se juda hogaya abbas sa bhai
-  Pardes meiṅ luti gayi hyder ki kameini
-  Hazrat se juda hogaya...
+  Abbas haaye Abbas Abbas haaye Abbas
+  Hazrat se juda ho gaya Abbas sa bhai
+  Pardes mein luti gayi Haider ki kamaai
+  Hazrat se juda ho gaya...
 
   5
-  Sheh ne ye kaha laasha e saqqa e haram se
-  Baba ki tarha tum bhi juda hogaye hum se
-  Do baar yatimi meri behno pe hai aayi
-  Hazrat se juda hogaya...
+  Shah ne ye kaha laasha-e-saqqa-e-haram se
+  Baba ki tarah tum bhi juda ho gaye ham se
+  Do baar yatimi meri behnoṅ pe hai aayi
+  Hazrat se juda ho gaya...
 
   6
-  Mazlum se maqtal meiṅ chala hi nahi jaata
-  Jab khaak pe girte hai utha bhi nahi jaata
-  Ghazi ki shahadat ne kamar aisi jhukayi
-  Hazrat se juda hogaya...
+  Mazlum se maqtal mein chala hi nahiṅ jaata
+  Jab khaak pe girte hain utha bhi nahiṅ jaata
+  Ghazi ki shahaadat ne kamar aisi jhukaayi
+  Hazrat se juda ho gaya...
 
   7
-  Bachi ne kaha shaah se farz apna nibhauṅ
-  Nazdik agar hai koi basti to mai jaauṅ
-  Ammu ka kafan layegi ammu ki fidayi
-  Hazrat se juda hogaya...
+  Bachchi ne kaha shaah se farz apna nibhaauṅ
+  Nazdik agar hai koi basti to main jaauṅ
+  Ammu ka kafan laaye gi Ammu ki fidaai
+  Hazrat se juda ho gaya...
 
   8
-  Abbas ke bachoṅ se mai sharminda rahunga
-  Maqtal se utha laaya hoo har ek ka laasha
-  Afsos ke abbas ki mayyat na uthayi
-  Hazrat se juda hogaya...
+  Abbas ke bachchoṅ se main sharminda rahuṅ ga
+  Maqtal se utha laaya huṅ har ek ka laasha
+  Afsos ke Abbas ki mayyat na uthaayi
+  Hazrat se juda ho gaya...
 
   9
-  Khat khaak pe dete the qadam zin se jiske
-  Maidan meiṅ us sher ke itne huwe tukre
-  Sajjad ne chadar meiṅ wo mayyat hai uthayi
-  Hazrat se juda hogaya...
+  Khat khaak pe dete the qadam zin se jis ke
+  Maidan mein us sher ke itne huye tukre
+  Sajjad ne chaadar mein wo mayyat hai uthaayi
+  Hazrat se juda ho gaya...
 
   10
   Darya bhi tarapne laga ye dekh ke manzar
-  Yaad aane laga sina e hamshakle payambar
-  Jab mashk kate haath se maula ne churayi
-  Hazrat se juda hogaya...
+  Yaad aane laga sina-e-hamshakl-e-payambar
+  Jab mashk kate haath se maula ne chhuraayi
+  Hazrat se juda ho gaya...
 
   11
   Sadiyoṅ se hai taari ye fiza ranj o alam ki
-  Ye chand jo ojhal hua nazroṅ se haram ki
-  Phir saani e zehra ne kahaṅ eid manayi
-  Hazrat se juda hogaya...
+  Ye chaand jo ojhal hua nazroṅ se haram ki
+  Phir saani-e-Zehra ne kahaaṅ Eid manaayi
+  Hazrat se juda ho gaya...
 
   12
-  Ammu ki judayi pe bohat roye hai baba
-  Samjhaati hai ro ro ke ye bachoṅ ko sakina
-  Ab dena nahi koi bhi pani ki duhayi
-  Hazrat se juda hogaya...
+  Ammu ki judaai pe bahut roye hain baba
+  Samjhaati hai ro ro ke ye bachchoṅ ko Sakina
+  Ab dena nahiṅ koi bhi paani ki duhaai
+  Hazrat se juda ho gaya...
 
   13
-  Har matami sine meiṅ bapa hoga talatum
-  Is saal tera jaana to mushkil hai takallum
-  Nauhe ki magar karbobala tak hai rasayi
-  Hazrat se juda hogaya...
+  Har maatami sine mein bapa hoga talaatum
+  Is saal tera jaana to mushkil hai Takallum
+  Nauhe ki magar Karb o Bala tak hai rasaai
+  Hazrat se juda ho gaya...
 # source_id: nohayonline:969e255a74359021593d
 # source_url: https://www.nohayonline.com/details_content.php?id=1065
 # raw_sha256: d130390043ed12ddc17af98b0372edcbed4caa478111c9b0951420fd272f2aea

@@ -1,6 +1,6 @@
 ---
 title: "عباس سکینہ کو طمانچوں سے بچا لو"
-alternateTitle: "Abbas Sakina Ko Tamachoṅ Se Bacha Lo"
+alternateTitle: "Abbas Sakina Ko Tamaanchoṅ Se Bacha Lo"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,52 +10,52 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Saahil ki taraf dekh ke kehti thi ye zainab
-  Abbas kahaṅ ho mere abbas kahaṅ ho
-  Zainab ki ye faryaad hai daaman may chupalo
-  Abbas sakina ko tamachoṅ se bacha lo
+  Saahil ki taraf dekh ke kehti thi ye Zainab
+  Abbas kahaṅ ho mere Abbas kahaṅ ho
+  Zainab ki ye faryaad hai daaman mein chhupa lo
+  Abbas Sakina ko tamaanchoṅ se bacha lo
 
   1
-  Kehti hai sakina ke ajab haal hai haye
-  Kuze liye baithi rahi ammu nahi aaye
-  Baba bhi nahi kaun yahaṅ humko bachaye
-  Ek baar ise daste bureeda may utha lo
+  Kehti hai Sakina ke ajab haal hai haaye
+  Kuze liye baithi rahi Ammu nahiṅ aaye
+  Baaba bhi nahiṅ kaun yahaṅ ham bachaaye
+  Ik baar ise dast-e-bureeda mein utha lo
 
   2
-  Seena ise baba ka mayassar nahi kab se
-  Zindaṅ ki zamiṅ par ye agar soye to kaise
-  Abid ki ye zanjir pe sar rakhe huwe hai
-  Le jao ise godh may bachi ko sula lo
+  Seena ise baaba ka mayassar nahiṅ kab se
+  Zindaaṅ ki zamiṅ par ye agar soye to kaise
+  Aabid ki ye zanjir pe sar rakhe hue hai
+  Le jao ise god mein bachchi ko sula lo
 
   3
-  Zindaṅ may zara chain nahi paati hai bachi
-  Dukh hadh se guzarta hai to chillaati hai bachi
-  Jab shimr hai barta to laraz jaati hai bachi
-  Imdaad karo bhai yateema ki dua lo
+  Zindaaṅ mein zara chain nahiṅ paati hai bachchi
+  Dukh had se guzarta hai to chillaati hai bachchi
+  Jab Shimr hai barhta to laraz jaati hai bachchi
+  Imdaad karo bhaai yateema ki dua lo
 
   4
-  Sar par mere chadar nahi kuch aas nahi hai
-  Malum hai zinda mera abbas nahi hai
-  Kehti hai sakina ke mujhe pyaas nahi hai
-  Mai kis se madad maangu sakina ko sambhalo
+  Sar par mere chaadar nahiṅ kuchh aas nahiṅ hai
+  Maalum hai zinda mera Abbas nahiṅ hai
+  Kehti hai Sakina ke mujhe pyaas nahiṅ hai
+  Main kis se madad maanguṅ Sakina ko sambhaalo
 
   5
-  Bimar madad is ki koi kar nahi sakta
+  Bimaar madad is ki koi kar nahiṅ sakta
   Dar jaati hai ye jab hai koi isko jhirakta
-  Kasno se lahu is ke abhi tak hai tapakta
+  Kaanoṅ se lahu is ke abhi tak hai tapakta
   Kehti hai chacha jaan mujhe paas bula lo
 
   6
-  Chillaati hai zindaṅ may kidhar jaaye sakina
-  Aisa na ho tanhaai may darr jaaye sakina
-  Baba se judaai may na mar jaaye sakina
-  Saahil se utho qaid se ab isko chura lo
+  Chillaati hai zindaaṅ mein kidhar jaaye Sakina
+  Aisa na ho tanhaai mein dar jaaye Sakina
+  Baaba se judaai mein na mar jaaye Sakina
+  Saahil se utho qaid se ab isko chhura lo
 
   7
-  Zindan may zainab ki qamar hai yehi faryad
-  Zinda na sakina rahi itni hui bedaad
-  Tadfin ho kaise ke hai zanjir may sajjad
-  Mayyat ko sakina ki koi bad ke utha lo
+  Zindaan mein Zainab ki Qamar hai yahi faryad
+  Zinda na Sakina rahi itni hui bedaad
+  Tadfin ho kaise ke hai zanjir mein Sajjad
+  Mayyat ko Sakina ki koi barh ke utha lo
 # source_id: nohayonline:16883b0bb28ade825df0
 # source_url: https://www.nohayonline.com/details_content.php?id=1568
 # raw_sha256: 1f3108de78afe66ad7eb59b442d39914bed0b742e2501625e6b4feccd4f1e1ab

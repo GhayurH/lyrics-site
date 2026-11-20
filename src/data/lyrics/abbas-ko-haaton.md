@@ -10,69 +10,69 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ek khwab meiṅ dekha kisi aalim ne ye manzar
+  Ek khwaab mein dekha kisi aalim ne ye manzar
   Kehta hai koi qarz mera zikr hai tum par
-  Mazlumi e abbas bayaṅ kiuṅ nahi karte
-  Tum log kabhi mere masayib nahi parte
-  Sar chur tha paywast tha jab tir jabiṅ par
-  Bin haatoṅ ke abbas gire kaise zamiṅ par
-  Mushkil meiṅ hai abbas musibat meiṅ hai abbas
-  Is dubti kashti ko kinara koi de de
-  Abbas ko haatoṅ ka sahara koi de de
+  Mazlumi-e-Abbas bayaṅ kiuṅ nahiṅ karte
+  Tum log kabhi mere masaaib nahiṅ parhte
+  Sar chur tha paiwast tha jab tir jabiṅ par
+  Bin haathoṅ ke Abbas gire kaise zamiṅ par
+  Mushkil mein hai Abbas musibat mein hai Abbas
+  Is dubti kashti ko kinaara koi de de
+  Abbas ko haathoṅ ka sahaara koi de de
 
   1
-  Jab nehr se pani liye wapas hua ghazi
-  Bhagi hui wo faujeiṅ udu laut ke aayi
-  Baarish hui pyase pe wahaṅ tir e sitam ki
-  Baazu bhi kate maskh chidi beh gaya pani
+  Jab nehr se paani liye waapas hua Ghazi
+  Bhaagi hui wo faujeṅ adu laut ke aayi
+  Baarish hui pyaase pe wahaṅ tir-e-sitam ki
+  Baazu bhi kate mashk chhidi beh gaya paani
 
   2
-  Saabir hai larayi ka kahaṅ izn mila hai
+  Saabir hai laraai ka kahaṅ izn mila hai
   Dil tut gaya mashk pe jab tir laga hai
-  Ghazi ka lahu mashk e sakina se baha hai
-  Ghore pe ye lehrata hua dekh raha hai
+  Ghazi ka lahu mashk-e-Sakina se baha hai
+  Ghore pe ye lehraata hua dekh raha hai
 
   3
-  bebaam ka dar kis tarha girta hai zamiṅ par
-  bedosh ka sar kis tarha girta hai zamiṅ par
-  Bes-haak shajar kis tarha girta hai zamiṅ par
-  bedast bashar kis tarha girta hai zamiṅ par
+  Bebaam ka dar kis tarah girta hai zamiṅ par
+  Behosh ka sar kis tarah girta hai zamiṅ par
+  Behaak shajar kis tarah girta hai zamiṅ par
+  Bedast bashar kis tarah girta hai zamiṅ par
 
   4
-  Ya jaafar e tayyaar madad ke liye aao
-  Ya sayyed e abraar madad ke liye aao
-  Ya hyder e karraar madad ke liye aao
-  Ae sab ke madad gaar madad ke liye aao
+  Ya Jafar-e-Tayyaar madad ke liye aao
+  Ya Sayyed-e-Abraar madad ke liye aao
+  Ya Haidar-e-Karraar madad ke liye aao
+  Ae sab ke madadgaar madad ke liye aao
 
   5
-  Zehra ka hai ghore pe wo naam e shahe dilgir
-  Saahii ki tarha jism hua itne lage tir
-  Girta hai magar girne meiṅ hojati hai takhir
-  Dekheiṅ koi mazlumi e abbas ki tasvir
+  Zehra ka hai ghore pe wo naam-e-shah-e-dilgir
+  Saahil ke tarah jism hua itne lage tir
+  Girta hai magar girne mein ho jaati hai taakhir
+  Dekheṅ koi mazlumi-e-Abbas ki tasvir
 
   6
-  Hai tir meri aankh meiṅ mushkil ki ghari hai
+  Hai tir meri aankh mein mushkil ki ghari hai
   Zakhmi hai badan mera ajal paas khari hai
-  Pani nahi pahunchaya wasiyat ye kari hai
-  Is waqt sakina se hameiṅ sharm bari hai
+  Paani nahiṅ pahunchaaya wasiyat ye kari hai
+  Is waqt Sakina se hameṅ sharm bari hai
 
   7
-  Jo saath nibahate the madad ke liye aayeiṅ
-  Jo naaz uthaate the madad ke liye aayeiṅ
-  Jo mujhko sulaate the madad ke liye aayeiṅ
-  Jhula ko jhulaate the madad ke liye aayeiṅ
+  Jo saath nibhaate the madad ke liye aayeṅ
+  Jo naaz uthaate the madad ke liye aayeṅ
+  Jo mujhko sulaate the madad ke liye aayeṅ
+  Jhula jo jhulaate the madad ke liye aayeṅ
 
   8
-  Dushman mere aaqa ke yahaṅ saare layiṅ hai
-  Kuch dayr ke mehman hai hum khaak nashiṅ hai
-  Jo haath gire kat ke tarapte wo wahin hai
-  Mai kaise dua maanguṅ mere haath nahi hai
+  Dushman mere aaqa ke yahaṅ saare laiṅ haiṅ
+  Kuch der ke mehmaan haiṅ ham khaak nashiṅ haiṅ
+  Jo haath gire kat ke tarapte wo wohi haiṅ
+  Main kaise dua maanguṅ mere haath nahiṅ haiṅ
 
   9
   Ek sar se baha khun ka darya hai zamiṅ tak
-  Bin haathoṅ ke abbas ko aana hai zamiṅ tak
-  Zehra ka qamar kis tarha pahuncha hai zamiṅ tak
-  E pushte e faras faasla kitna hai zamiṅ tak
+  Bin haathoṅ ke Abbas ko aana hai zamiṅ tak
+  Zehra ka Qamar kis tarah pahuncha hai zamiṅ tak
+  Ae pusht-e-faras faasla kitna hai zamiṅ tak
 # source_id: nohayonline:77f747d6d6f27fb5f3da
 # source_url: https://www.nohayonline.com/details_content.php?id=2325
 # raw_sha256: 4e4af3d1255e6df225d486766aee6d0aa840a6800974ee5bd2d621d809c98373

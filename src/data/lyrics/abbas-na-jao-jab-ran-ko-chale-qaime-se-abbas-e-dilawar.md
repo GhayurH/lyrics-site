@@ -12,25 +12,25 @@ published: false
 romanLyrics: |-
   1
   Jab ran ko chale khaime se Abbas-e-dilawar
-  Sab Bibiyaaṅ lipti thiṅ sambhaale hue chaadar
+  Sab bibiyaaṅ lipti thiṅ sambhaale hue chaadar
   Haathoṅ se kamar thaam ke paas aaye jo Sarwar
   Bosa liya Abbas ke shaanoṅ ka ye keh kar
-  Tum jaisa baraadar maiṅ kahaaṅ paauṅga bhaai
-  Tum laut ke na aaye to mar jaauṅga bhaai
+  Tum jaisa baraadar maiṅ kahaaṅ paauṅ ga bhaai
+  Tum laut ke na aaye to mar jaauṅ ga bhaai
   Sine se laga kar Sheh ne kaha Abbas na jaao ruk jaao
   Ae bhaai na jaao ruk jaao
   Koi bhi nahiṅ hai ab mera Abbas na jaao ruk jaao
 
   2
-  Bolo to Sakina ko maiṅ samjha duṅga Abbas
-  Mashkiza mujhe de do maiṅ lauta duṅga Abbas
-  Shikwa na karegi paani ka
-  Rakh degi wo haathoṅ se kuza
-  Wo kehna nahiṅ taalegi mera
+  Bolo to Sakina ko maiṅ samjhaa duṅ ga Abbas
+  Mashkiza mujhe de do maiṅ lautaa duṅ ga Abbas
+  Shikwa na kare gi paani ka
+  Rakh de gi wo haathoṅ se kuza
+  Wo kehna nahiṅ taale gi mera
 
   3
   Thehro ke tumheṅ de luṅ maiṅ jine ki duaaeṅ
-  Tum mar gaye to kaun bachaayega ridaaeṅ
+  Tum mar gaye to kaun bachaaye ga ridaaeṅ
   Dhaaras hai tumhiṅ se Zainab ko
   Jaa jaa ke bataati hai sab ko
   Zinda hai abhi Ghazi mera
@@ -40,17 +40,17 @@ romanLyrics: |-
   Akbar ki tarah paala hai is bhaai ne tum ko
   Jo ran ko gaya wo na aaya
   Tum bhi na agar aaye bhaiya
-  Maiṅ kaise uthauṅga laasha
+  Maiṅ kaise uthaauṅ ga laasha
 
   5
-  Rukte hi na the Zainab o Kulsum ke aaṅsu
+  Rukte hi na the Zainab o Kulsum ke aansu
   Jab Sheh ne kaha chum ke Abbas ke baazu
   Ye shaane qalam na ho jaaeṅ
-  beaasra hum na ho jaaeṅ
-  Ye baazu sahaara hai sab ka
+  Be aasra ham na ho jaaeṅ
+  Ye baazu sahaara haiṅ sab ka
 
   6
-  Wo Kufa wo zarbat maiṅ kahaaṅ bhula huṅ Abbas
+  Wo Kufa wo zarbat maiṅ kahaaṅ bhulaa huṅ Abbas
   Tum aakhri Baba ki nishaani ho mere paas
   Yaad aati hai jab bhi Baba ki
   Maiṅ dekhta huṅ tum ko Ghazi
@@ -59,9 +59,9 @@ romanLyrics: |-
   7
   Behneṅ na mere saath agar hotiṅ Alamdar
   Khud tum ko laraai ke liye karta maiṅ tayyaar
-  Yaaṅ waar karoge tum jitne
+  Yaaṅ waar karo ge tum jitne
   Har waar ka teri behnoṅ se
-  Bazaar meiṅ leṅge wo badla
+  Bazaar meiṅ leṅ ge wo badla
 
   8
   Zishan o Raza kaisa tha rukhsat ka wo manzar

@@ -1,32 +1,51 @@
 ---
-title: "Aao Hum Bazm-e-Nabi Aaj Sajaein Logo"
+title: "آؤ ہم بزمِ نبی آج سجائیں لوگو"
+alternateTitle: "Aao Hum Bazm-e-Nabi Aaj Sajaein Logo"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Naat"
 poet: "Farman"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:f3adad50656d235c42f8
 # source_url: https://tajpoints.com/2019/11/aao-hum-bazm-e-nabi-aaj-sajaein-logo.html
 # raw_sha256: 1bf51caa6002a2d022f4aab1c461be11f9cf4a671e1ba575fb9d4c9dc0015778
+romanLyrics: |-
+  1
+  Aao hum bazm-e-Nabi aaj sajaein logo
+  Har taraf noor ki shama ko jalaein logo
+  Laein hain dahar mein tashreef aaj pyare Nabi
+  Naat Sarkar ki hum sab ko sunaein logo
+
+  2
+  Paye ga dil hamara chain bara Yasrab mein
+  Inn ki chokhat pe sar apna jhukaein logo
+  Ja ke rozay pe dua mangein sabhi ro ro ke
+  Sadqay Panjtan ke muradein sabhi paein logo
+
+  3
+  Kash hum ko bhi sharaf itna kabhi de Malik
+  Ja ke rozay pe diya aik jalaein logo
+  Kash aisi ghari naseeb mein aaye Farman
+  Hum bhi Sarkar ko ik naat sunaein logo
 ---
 
-1
-Aao Hum Bazm-e-Nabi Aaj Sajaein Logo.
-Har Taraf Noor Ki Shama Ko Jalaein Logo.
-Laein Hain Dahar Mein Tashreef Aaj Pyare Nabi.
-Naat Sarkar Ki Hum Sab Ko Sunaein Logo.
+۱
+آؤ ہم بزمِ نبی آج سجائیں لوگو
+ہر طرف نور کی شمع کو جلائیں لوگو
+لائے ہیں دہر میں تشریف آج پیارے نبی
+نعت سرکار کی ہم سب کو سنائیں لوگو
 
-2
-Paye Ga Dil Hamara Chain Bara Yasrab Mein.
-Inn Ki Chokhat Pe Sar Apna Jhukaein Logo.
-Ja Ke Rozay Pe Dua Mangein Sabhi Ro Ro Ke.
-Sadqay Panjtan Ke Muradein Sabhi Paein Logo.
+۲
+پائے گا دل ہمارا چین بڑا یثرب میں
+ان کی چوکھٹ پہ سر اپنا جھکائیں لوگو
+جا کے روضے پہ دعا مانگیں سبھی رو رو کے
+صدقے پنجتن کے مرادیں سبھی پائیں لوگو
 
-3
-Kash Hum Ko Bhi Sharaf Itna Kabhi De Malik.
-Ja Ke Rozay Pe Diya Aik Jalaein Logo.
-Kash Aisi Ghari Naseeb Mein Aaye Farman.
-Hum Bhi Sarkar Ko Ik Naat Sunaein Logo.
+۳
+کاش ہم کو بھی شرف اتنا کبھی دے مالک
+جا کے روضے پہ دیا ایک جلائیں لوگو
+کاش ایسی گھڑی نصیب میں آئے فرمان
+ہم بھی سرکار کو اک نعت سنائیں لوگو

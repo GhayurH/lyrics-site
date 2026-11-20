@@ -8,41 +8,50 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aey shaheed e insani, aey shaheed e Qurani
+  Ae shaheed-e-insaani, ae shaheed-e-Quraani
 
   1
-  Aaj tak dilon par hay teri hi hukumrani
-  Zibah kar diya tujh ko aur na diya pani
+  Aaj tak diloṅ par hai teri hi hukmraani
+  Is tarah se ummat ne, ki thi teri mehmaani
+  Zibh kar diya tujh ko aur nahiṅ diya paani
 
   2
-  Marqad e Nabi choota, qabr e Fatimi chooti
-  Roza e Hasan choota, Pyari dilruba chooti
-  Is tarha madinay se, aal e Mustafa chooti
-  Shahr sara sunsaan tha, cha gayi thi veerani
+  Jaan-e-Mustafa tum ho, jaan-e-Murtaza tum ho
+  Jaan-e-Faatima tum ho, ruh-e-anbiya tum ho
+  Naaz hai shariat ko, marzi-e-Khuda tum ho
+  Tum muamma-e-kul ho, juz shari-e-Quraani
+  Bhaai ke kate shaane, uf nahiṅ kiya tu ne
+  Chhute aqraba saare, uf nahiṅ kiya tu ne
+  Haaye jal gaye khaime, uf nahiṅ kiya tu ne
+  Lab khule to neze par, bolte the Quraani
+  Marqad-e-Nabi chhuta, qabr-e-Faatima chhuti
+  Roza-e-Hasan chhuta, pyaari dilruba chhuti
+  Is tarah Madine se, aal-e-Mustafa chhuti
+  Shahr saara sunsaaṅ tha, chhaa gayi thi viraani
 
   3
-  Cheh mahinay walay ne, teer kha ke dam torra
-  Tera sala Qasim ka, khoon may bhar gaya jorra
-  Jadae e haqeeqat may, na kisi ne muh moora
-  Kaisi kaisi janon ki, pesh kar di qurbani
+  Chhe mahine waale ne, tir khaa ke dam tora
+  Terah saala Qaasim ka, khuṅ mein bhar gaya jora
+  Jaada-e-haqiqat mein, na kisi ne muṅh mora
+  Kaisi kaisi jaanoṅ ki, pesh kar di qurbaani
 
   4
-  Dhoop may qayamat ki, tera aakhri sajda
-  Inteha ka manzil thi, tera aakhri sajda
-  Fatima na bhoolay gi, tera aakhri sajda
-  Pusht par sitamgar tha, khak par thi peshani
+  Dhup mein qayaamat ki, tera aakhri sajda
+  Inteha ki manzil thi, tera aakhri sajda
+  Faatima na bhule gi, tera aakhri sajda
+  Pusht par sitamgar tha, khaak pe thi peshaani
 
   5
-  Karbala ki manzil bhi, kia ajeeb manzil thi
-  Peer aur jawani may, nanhi jaan bhi shamil thi
-  Baad e asr Zainab ko, sab se sakht mushkil thi
-  Bhook o pyas ka sehna, qafilay ki nigrani
+  Karbala ki manzil bhi, kya ajib manzil thi
+  Pir aur jawaanoṅ mein, nanhi jaaṅ bhi shaamil thi
+  Baad-e-asr Zainab ko, sab se sakht mushkil thi
+  Bhuk o pyaas ka sehna, qaafile ki nigraani
 
   6
-  Aik do pahar hi may, ghar ujarr gaya tera
-  Deen bach gaya laikin, kuch nahi bacha tera
-  Sar ke bal ziarat ho, hay Raza ka ye mansha
-  Hind may pareshan hay, khadim e Khurasani
+  Ek do pahar hi mein, ghar ujar gaya tera
+  Din bach gaya lekin, kuchh nahiṅ bacha tera
+  Sar ke bal ziyaarat ho, hai Raza ka ye mansha
+  Hind mein pareshaaṅ hai, khaadim-e-Khuraasaani
 # source_id: ziyaraat:43f89fdcc87663b79e62
 # source_url: https://www.ziyaraat.net/api/noha/2422
 # raw_sha256: 2d2b291252907d55f6a507ffca49b4e5caccb97b9effc1dc21a37d8b360c02c1

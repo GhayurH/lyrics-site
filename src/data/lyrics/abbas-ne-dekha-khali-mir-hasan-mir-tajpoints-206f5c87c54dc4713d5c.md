@@ -1,43 +1,72 @@
 ---
-title: "Abbas Ne Dekha Khali Mir Hasan Mir"
+title: "عباس نے دیکھا خالی میر حسن میر"
+alternateTitle: "Abbas Ne Dekha Khali Mir Hasan Mir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Takallum"
-tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:206f5c87c54dc4713d5c
 # source_url: https://tajpoints.com/2026/01/abbas-ne-dekha-khali-mir-hasan-mir.html
 # raw_sha256: 7c4d42e337d89348a04b9754344fec11f36db65072bde7bcd0b5c198f9fed2ee
+romanLyrics: |-
+  1
+  Abbas ne dekha khali Mir Hasan Mir
+  Ik nazar ghaiz mein Abbas ne dekha khali
+  Aa ke khud ho gaya mashkezay mein darya khali
+  Apni aagosh se Zainab ne utara hi nahi
+  Reh gaya Hazrat-e-Abbas ka jhola khali
+  Allah Allah re saqa-e-Sakina ka jalal
+  Kar diya nehar talak maut ne rasta khali
+  Aag mojon mein lagi ho gayin nehrein pani
+  Main ne darya pe parha tha tera hamla khali
+  “hay” alag “wao” tha alag yeh tha hawa ka aalam
+  Jab keh Abbas ne khat khak pe khaincha khali
+  Gin lo Abbas ki batees baras ki sansein
+  Khidmat-e-sheh se nahi koi lamha khali
+  Oss ka shajrah bhi sand yafta ho jata hai
+  Yaad kar le jo bashar aap ka shajrah khali
+  Oss ko mabood ne bakhshi hi nahi khoye wafa
+  Hub-e-Abbas se jo dil nazar aaya khali
+  Maa musallay pe rahi waqt-e-zahoor-e-Abbas
+  Jab keh oss waqt bhi tha khana e Kaba khali
+  Tu alam chomney aata bhi tu kaisay aata
+  Mal-e-dunya se tera hath nahi tha khali
+  Tera lehraye jo parcham tu bahar aa jaye
+  Baam-e-Kaba hai abhi tak mere Maula khali
+  Neend Abbas ko aane ke liye kafi hai
+  Zanu-e-Hazrat-e-Shabbir ka takiya khali
+  Tashna kamo ko pila jam Takallum bhar kar
+  Madh-e-Abbas ka mashkeza na hoga khali
 ---
 
-1
-Abbas Ne Dekha Khali Mir Hasan Mir.
-Ik Nazar Ghaiz Mein Abbas Ne Dekha Khali.
-Aa Ke Khud Ho Gaya Mashkezay Mein Darya Khali.
-Apni Aagosh Se Zainab Ne Utara Hi Nahi.
-Reh Gaya Hazrat-e-Abbas Ka Jhola Khali.
-ALLAH ALLAH Re Saqa-e-Sakina Ka Jalal.
-Kar Diya Nehar Talak Maut Ne Rasta Khali.
-Aag Mojon Mein Lagi Ho Gayin Nehrein Pani.
-Main Ne Darya Pe Parha Tha Tera Hamla Khali.
-“Hay” Alag “Wao” Tha Alag Yeh Tha Hawa Ka Aalam.
-Jab Keh Abbas Ne Khat Khak Pe Khaincha Khali.
-Gin Lo Abbas Ki Batees Baras Ki Sansein.
-Khidmat-e-Sheh Se Nahi Koi Lamha Khali.
-Oss Ka Shajrah Bhi Sand Yafta Ho Jata Hai.
-Yaad Kar Le Jo Bashar Aap Ka Shajrah Khali.
-Oss Ko Mabood Ne Bakhshi Hi Nahi Khoye Wafa.
-Hub-e-Abbas Se Jo Dil Nazar Aaya Khali.
-Maa Musallay Pe Rahi Waqt-e-Zahoor-e-Abbas.
-Jab Keh Oss Waqt Bhi Tha Khana e Kaba Khali.
-Tu Alam Chomney Aata Bhi Tu Kaisay Aata.
-Mal-e-Dunya Se Tera Hath Nahi Tha Khali.
-Tera Lehraye Jo Parcham Tu Bahar Aa Jaye.
-Baam-e-Kaba Hai Abhi Tak Mere Maula Khali.
-Neend Abbas Ko Aane Ke Liye Kafi Hai.
-Zanu-e-Hazrat-e-Shabbir Ka Takiya Khali.
-Tashna Kamo Ko Pila Jam Takallum Bhar Kar.
-Madh-e-Abbas Ka Mashkeza Na Hoga Khali.
+۱
+عباس نے دیکھا خالی میر حسن میر
+اک نظر غیظ میں عباس نے دیکھا خالی
+آ کے خود ہو گیا مشکیزے میں دریا خالی
+اپنی آغوش سے زینب نے اتارا ہی نہیں
+رہ گیا حضرتِ عباس کا جھولا خالی
+اللہ اللہ رے سقائے سکینہ کا جلال
+کر دیا نہر تلک موت نے رستہ خالی
+آگ موجوں میں لگی ہو گئیں نہریں پانی
+میں نے دریا پہ پڑھا تھا تیرا حملہ خالی
+”ہے“ الگ ”واؤ“ تھا الگ یہ تھا ہوا کا عالم
+جب کہ عباس نے خط خاک پہ کھینچا خالی
+گن لو عباس کی بتیس برس کی سانسیں
+خدمتِ شہ سے نہیں کوئی لمحہ خالی
+اس کا شجرہ بھی سند یافتہ ہو جاتا ہے
+یاد کر لے جو بشر آپ کا شجرہ خالی
+اس کو معبود نے بخشی ہی نہیں خوئے وفا
+حبِ عباس سے جو دل نظر آیا خالی
+ماں مصلے پہ رہی وقتِ ظہورِ عباس
+جب کہ اس وقت بھی تھا خانۂ کعبہ خالی
+تو علم چومنے آتا بھی تو کیسے آتا
+مالِ دنیا سے تیرا ہاتھ نہیں تھا خالی
+تیرا لہرائے جو پرچم تو بہار آ جائے
+بامِ کعبہ ہے ابھی تک میرے مولا خالی
+نیند عباس کو آنے کے لیے کافی ہے
+زانوئے حضرتِ شبیر کا تکیہ خالی
+تشنہ کاموں کو پلا جام تکلم بھر کر
+مدحِ عباس کا مشکیزہ نہ ہوگا خالی

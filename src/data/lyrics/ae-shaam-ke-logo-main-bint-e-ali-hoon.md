@@ -8,90 +8,55 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Mai Bint e Ali hun
-
-  Ai Sham k logo mai Bint e Ali hun
-
+romanLyrics: |-
+  Main bint-e-Ali huṅ
+  Ae Shaam ke logo main bint-e-Ali huṅ
 
   1
-
-  Mai waris e tat’heer hun
-
-  Namoos e Nabi hun
-
+  Main waaris-e-tathir huṅ
+  Naamus-e-Nabi huṅ
 
   2
-
-  Bazar say darbar may lay i hu muj ko
-
-  Chahun tu jala sakti hun khutbun say mai tum ko
-
-  Sabir ki behan hun jo mai khamosh khari hun
-
+  Baazaar se darbaar meiṅ le aae ho mujh ko
+  Chaahuṅ to jalaa sakti huṅ khutboṅ se main tum ko
+  Saabir ki behan huṅ jo main khaamosh khari huṅ
+  Ae Shaam ke logoṅ...
 
   3
-
-  Afsos kaneezi may usay maang rahay hu
-
-  Tum jis k ghulumun ki ghulami may rahay hu
-
-  Ye zulm na hu ga kbhi mai zinda abhi hun
-
+  Afsos kanizi meiṅ use maang rahe ho
+  Tum jis ke ghulaamoṅ ki ghulaami meiṅ rahe ho
+  Ye zulm na hoga kabhi main zinda abhi huṅ
 
   4
-
-  Tum apnay Piaembar ko ager dekhna chaho
-
-  Nezay pay jo ye sir hai isay ghaur say dekho
-
-  Hum shakal Piaembar hai ye Mai is ki Phupi hun
-
+  Tum apne paimbar ko agar dekhna chaaho
+  Neze pe jo ye sar hai ise ghaur se dekho
+  Ham-shakl-e-paimbar hai ye main is ki phuppi huṅ
 
   5
-
-  Or is say kathan waqt kia hu ga meray Maa’bud
-
-  Fizza k tarf’dar hain darbar may maujud
-
-  Mai pusht pay Fizza k khari dekh rahi hun
-
+  Aur is se kathin waqt kya hoga mere maabud
+  Fizza ke tarafdaar haiṅ darbaar meiṅ maujud
+  Main pusht pe Fizza ke khari dekh rahi huṅ
 
   6
-
-  Zahra ko bhi darbar may tum nay tha bulaya
-
-  Darbar may mai bhi hun magar farq hai itna
-
-  Perday may thee Wo or mai bay’perdah khari hun
-
+  Zahra ko bhi darbaar meiṅ tum ne tha bulaaya
+  Darbaar meiṅ main bhi huṅ magar farq hai itna
+  Parde meiṅ thi wo aur main beparda khari huṅ
 
   7
-
-  Zanjirun may jakra jo ye bemar khara hai
-
-  Sajda isay Kaa’bay ki fasilun nay kia hai
-
-  Mansab may berra wo hai Mai rishtay may barri hun
-
+  Zanjiroṅ meiṅ jakra jo ye bimaar khara hai
+  Sajda ise Kaabe ki fasiloṅ ne kiya hai
+  Mansab meiṅ bara wo hai main rishte meiṅ bari huṅ
 
   8
-
-  Zinda tha tu der der k hamaysha he laray hu
-
-  Ab sir hai tu hontun pe charri maar rahay hu
-
-  Tum kitnay bahadur hu Mai ye dekh rahi hun
-
+  Zinda tha to dar dar ke hamesha hi lare ho
+  Ab sar hai to hontoṅ pe chhari maar rahe ho
+  Tum kitne bahaadur ho main ye dekh rahi huṅ
 
   9
-
-  Honay lagi darbar may mushtarka azanain
-
-  Rehan idher naam e Nabi gonja fiza may
-
-  Bibi nay kaha fakhr say
-
-  Mai jeet gai hun'
+  Hone lagi darbaar meiṅ mushtarka azaaneṅ
+  Rehaan idhar naam-e-Nabi gunja fazaa meiṅ
+  Bibi ne kaha fakhr se
+  Main jit gai huṅ
 reciter: "Meer Hasan Meer"
 # source_id: nohayonline:1db48a37094c0ef73175
 # source_url: https://www.nohayonline.com/details_content.php?id=297

@@ -11,44 +11,44 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aaye jab shaam e gharibaṅ mein ali duldul sawar
-  Jalti reti se uthi zehra ki beti bekharar
-  Baap ke khadmon se lipti aur ye rokar kaha
-  Aap agar aa jaate baba aap agar aa jaate baba
-  Chinta na shimr chadar aap agar aa jaate baba
-  Aap agar aa jaate baba ghar nahi lut'ta mera
-  Aap agar aa jaate baba sar pe reh jaati rida
+  Aaye jab shaam-e-gharibaaṅ Ali Duldul sawaar
+  Jalti reti se uthi Zehra ki beti beqaraar
+  Baap ke qadmoṅ se lipti aur ye ro kar kaha
+  Aap agar aa jaate baba, aap agar aa jaate baba
+  Chhinta na Shimr chaadar aap agar aa jaate baba
+  Aap agar aa jaate baba, ghar nahiṅ lut'ta mera
+  Aap agar aa jaate baba, sar pe reh jaati rida
+  Tashnagi aur bekasi se dil sabhi ke chur the
+  Main bahut majbur thi, dariya se khaime dur the
+  Aap agar aa jaate baba, khushk na rehte ye saagar
   Aap agar aa jaate baba...
-  Tashnagi aur bekasi se dil sabhi ke choor the
-  Mai bohat majboor thi darya se qaime door thay
-  Aap agar aa jaate baba khushk na rehte ye saagar
+  Asr ka hangaama tha, chalta tha khanjar bhaai par
+  Ro rahi thi Karbala ki dhup is tanhaai par
+  Aap agar aa jaate baba, qatl na hota baraadar
   Aap agar aa jaate baba...
-  Asr ka hangaam tha chalta tha khanjar bhai par
-  Ro rahi thi karbala ki dhoop is tanhaai par
-  Aap agar aa jaate baba qatl na hota baradar
+  Bekas o majbur hai sehra mein beti aap ki
+  Ho gayi tanha bhari duniya mein beti aap ki
+  Aap agar aa jaate baba, yuṅ nahiṅ lut'ta bhara ghar
   Aap agar aa jaate baba...
-  Bekas o majboor hai sehra meiṅ beti aap ki
-  Hogayi tanha bhari dunya mein beti aap ki
-  Aap agar aa jaate baba yun nahi lut'ta bhara ghar
+  So gaye Karb o Bala ke dasht mein tashna dahan
+  Akbar o Abbas o Asghar Qasim ibn-e-Hasan
+  Aap agar aa jaate baba, daagh na sehti ye dil par
   Aap agar aa jaate baba...
-  Sogaye karbobala ke dasht mein tashna dahan
-  Akbar o abbas o asghar qasim e ibne Hasan
-  Aap agar aa jaate baba daagh na sehti ye dil par
+  Ya bunayya ki sada sun kar Sakina dasht mein
+  Dhundti phirti thi wo baba ka sina dasht mein
+  Aap agar aa jaate baba, dekh na paate wo manzar
   Aap agar aa jaate baba...
-  Ya bunaya ki sada sun kar sakina dasht meiṅ
-  Dhoondti phirti thi wo baba ka seena dasht mein
-  Aap agar aa jaate baba dekh na paate wo manzar
+  Aap agar aa jaate to jalte nahiṅ baba qiyaam
+  Aap agar aa jaate na main dekhti ghurbat ki shaam
+  Aap agar aa jaate baba, khaak na hoti saroṅ par
   Aap agar aa jaate baba...
-  Aap agar aa jaate to jalte nahi baba qayaam
-  Ap agar aa jaate na mai dekhti ghurbat ki shaam
-  Ap agar aa jaate baba khaak na hoti saron par
-  Dekhti thi bano e dilgir hasrat se mujhe
-  Jis ghari bali sakina ke gohar chine gaye
-  Aap agar aa jaate baba kaano se chinte na gohar
+  Dekhti thi Baano-e-Dilgir hasrat se mujhe
+  Jis ghari baali Sakina ke gauhar chhine gaye
+  Aap agar aa jaate baba, kaanoṅ se chhinte na gauhar
   Aap agar aa jaate baba...
-  Ho sada rehaan o safdar ki sar e karbobala
-  Haa usi ka shor dobara sar e zindan utha
-  Aap agar aa jaate baba ghurkiyaṅ khaati na dukhtar
+  Ho sada Rehaan o Safdar ki sar-e-Karb o Bala
+  Haaṅ usi ka shor dobaara sar-e-zindaan utha
+  Aap agar aa jaate baba, ghurkiyaaṅ khaati na dukhtar
   Aap agar aa jaate baba...
 # source_id: nohayonline:45849d6019d561feb24c
 # source_url: https://www.nohayonline.com/details_content.php?id=1540

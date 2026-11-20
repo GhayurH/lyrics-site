@@ -10,54 +10,54 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Abbas Na Laute Sheh Aa Gaye Mashk Aa Gayi
+  Abbas na laute, Sheh aa gaye, mashk aa gayi
 
   1
-  Maqtal Ki Zamiṅ Bha Gayi Abbas Na Laute
+  Maqtal ki zamiṅ bha gayi, Abbas na laute
 
   2
-  Is Shaan Se Maqtal Ko Sidhara Tha Alamdar
-  Aada Ki Nazar Kha Gayi Abbas Na Laute
+  Is shaan se maqtal ko sidhaara tha alamdaar
+  Aada ki nazar kha gayi, Abbas na laute
 
   3
-  Jab Tir Chala Beh Gaya Sab Mashk Se Pani
-  Abbas Ko Sharm Aa Gayi Abbas Na Laute
+  Jab tir chala beh gaya sab mashk se pani
+  Abbas ko sharm aa gayi, Abbas na laute
 
   4
-  Rone Ke Liye Lasha-e-Shabbir Pe Ran Meiṅ
-  Firdaus Se Maa Aa Gayi Abbas Na Laute
+  Rone ke liye laash-e-Shabbir pe ran meiṅ
+  Firdaus se maaṅ aa gayi, Abbas na laute
 
   5
-  Khaimoṅ Meiṅ Lagi Aag To Ammu Ko Bulane
-  Masum Sakina Gayi Abbas Na Laute
+  Khaimoṅ meiṅ lagi aag to Ammoṅ ko bulane
+  Masum Sakina gayi, Abbas na laute
 
   6
-  Had Ho Gayi Bhai Ko Manane Lab-e-Sahil
-  Khud Sani-e-Zahra Gayi Abbas Na Laute
+  Had ho gayi bhai ko manane lab-e-saahil
+  Khud Saani-e-Zahra gayi, Abbas na laute
 
   7
-  Kya Janiye Kiuṅ Ruth Gaye Kehti Thi Zainab
-  Rukhsat Ki Ghari Aa Gayi Abbas Na Laute
+  Kya jaane kiuṅ ruth gaye, kehti thi Zainab
+  Rukhsat ki ghari aa gayi, Abbas na laute
 
   8
-  Behta Hua Kanoṅ Se Lahu Sokhe Hue Lab
-  Dikhlane Sakina Gayi Abbas Na Laute
+  Behta hua kaanoṅ se lahu, sukhe hue lab
+  Dikhlane Sakina gayi, Abbas na laute
 
   9
-  Deti Rahi Awaz Pe Awaz Sakina
-  Aakhir Ko Qaza Aa Gayi Abbas Na Laute
+  Deti rahi aawaaz pe aawaaz Sakina
+  Aakhir ko qaza aa gayi, Abbas na laute
 
   10
-  Pani Ke Liye Mashk o Alam Le Ke Gaye The
-  Din Dhal Gaya Raat Aa Gayi Abbas Na Laute
+  Pani ke liye mashk o alam le ke gaye the
+  Din dhal gaya, raat aa gayi, Abbas na laute
 
   11
-  Jaage The Kai Shab Ke Kai Din Ke The Pyase
-  Abbas Ko Nind Aa Gayi Abbas Na Laute
+  Jaage the kai shab ke, kai din ke the pyaase
+  Abbas ko nind aa gayi, Abbas na laute
 
   12
-  Zainab Ki Fughaṅ Maqtal-e-Shabbir Meiṅ Yawar
-  Har Ek Ko Tarpa Gayi Abbas Na Laute
+  Zainab ki fughaaṅ maqtal-e-Shabbir meiṅ, Yawar
+  Har ek ko tarpa gayi, Abbas na laute
 # source_id: nohayonline:2763177dc3dafbe1eed6
 # source_url: https://www.nohayonline.com/details_content.php?id=460
 # raw_sha256: 52d52b98917c8e238e6d6dd4caf5392f3d2ba4ddf95cfe7fe6fd138ed6cb483d

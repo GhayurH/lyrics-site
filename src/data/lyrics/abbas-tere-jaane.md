@@ -11,50 +11,50 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Khafila dashte bala se jo suye shaam chala
-  Laashe abbas-e-alamdar pe zainab ne kaha
-  Abbas abbas
-  Chin gayi sar se rida koi baakhi na raha
+  Qaafila dasht-e-bala se jo su-e-Shaam chala
+  Laash-e-Abbas Alamdaar pe Zainab ne kaha
+  Abbas Abbas
+  Chhin gayi sar se rida koi baaqi na raha
   Abbas tere jaane ke baad
-  Taane deta hai mujhe dekh ke yuṅ shimre layiṅ
-  Teri awaaz pe abbas tera aata nahi
-  Bangayi farshe aza tere liye ab ye zamiṅ
-  Sham jaana hi para ye sitam mujhpe hua
+  Taane deta hai mujhe dekh ke yuṅ Shimr-e-laiṅ
+  Teri aawaaz pe Abbas tera aata nahiṅ
+  Ban gayi farsh-e-aza tere liye ab ye zamiṅ
+  Shaam jaana hi para ye sitam mujh pe hua
   Abbas tere jaane...
-  Ro ke kulsum teri yaad meiṅ karti hai buka
-  Teri haibat se kabhi soye nahi ahle jafa
-  Kaisi badli ye tere baad zamane ki hawa
-  Khush huwe ahle sitam so nahi paaye jo hum
+  Ro ke Kulsum teri yaad mein karti haiṅ buka
+  Teri haibat se koi soye nahiṅ ahl-e-jafa
+  Kaisi badli ye tere baad zamaane ki hawa
+  Khush hue ahl-e-sitam so nahiṅ paaye jo ham
   Abbas tere jaane...
-  Raah meiṅ aale payambar ka dilasa mai bani
-  Shaam ke log tamashayi tamasha mai bani
-  Zakhm sadaat ne paaye to masiha mai bani
-  Mai hi salaar bani mai alamdar bani
+  Raah mein aal-e-payambar ka dilaasa main bani
+  Shaam ke log tamaashaai tamaasha main bani
+  Zakhm saadaat ne paaye to masiha main bani
+  Main hi saalaar bani main alamdaar bani
   Abbas tere jaane...
-  Haye darbar meiṅ aulaad e nabi aa pahunchi
-  Aur sakina ko kanizi meiṅ bulaata hai shaki
-  Kis se faryad karoo tu hi bata mere aqi
-  Aur kya hoga sitam kitne lachaar hai hum
+  Haaye darbaar mein aulaad-e-nabi aa pahunchi
+  Aur Sakina ko kanizi mein bulaata hai shaqi
+  Kis se faryaad karuṅ tu hi bata mere aqi
+  Aur kya hoga sitam kitne laachaar haiṅ ham
   Abbas tere jaane...
-  Naam lekar jo sitamgar ne bulaya mujhko
-  Amma fizza ne pasay pusht chupaya mujhko
-  Yuṅ bhi pardes meiṅ aada ne sataya mujhko
-  Aise aalam meiṅ bhala kisko mai deti sada
+  Naam le kar jo sitamgar ne bulaaya mujh ko
+  Ammaaṅ Fizza ne pas-e-pusht chhupaaya mujh ko
+  Yuṅ bhi pardes mein aada ne sataaya mujh ko
+  Aise aalam mein bhala kis ko main deti sada
   Abbas tere jaane...
-  Hind zindan meiṅ aayi to ye kohraam utha
-  Meri barbadi ka jab hind ne ehwaal suna
-  Apna sar pit ke wo karne lagi wavaila
-  Dekh kaisa hai sitam qaid hai ahle haram
+  Hind zindaan mein aayi to ye kohraam utha
+  Meri barbaadi ka jab Hind ne ahwaal suna
+  Apna sar pit ke wo karne lagi waawaila
+  Dekh kaisa hai sitam qaid haiṅ ahl-e-haram
   Abbas tere jaane...
-  Tauq o zanjir se sajjad jo azad huwe
-  Qabr pe bali sakina ke gaye rote huwe
-  Rukh suye karbobala kar ke yehi bain kiye
-  Seh nahi paayi sitam dukhtare shaahe umam
+  Tauq o zanjir se Sajjad jo aazaad hue
+  Qabr pe baali Sakina ke gaye rote hue
+  Rukh su-e-karb o bala kar ke yahi bain kiye
+  Seh nahiṅ paayi sitam dukhtar-e-shaah-e-umam
   Abbas tere jaane...
-  Shaam se mazhar o farhan rehaai jo mili
-  Aaye maqtal meiṅ salami ke liye sab qaidi
-  Ghutniyo chalti hui bhai ke markhad pe gayi
-  The ye zainab ke sukhan mar gayi kiuṅ na bahan
+  Shaam se Mazhar o Farhan rihaai jo mili
+  Aaye maqtal mein salaami ke liye sab qaidi
+  Ghutniyoṅ chalti hui bhaai ke marqad pe gayi
+  The ye Zainab ke sukhan mar gayi kiuṅ na bahan
   Abbas tere jaane...
 # source_id: nohayonline:fe22f89e559329acdd4b
 # source_url: https://www.nohayonline.com/details_content.php?id=104

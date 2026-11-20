@@ -1,41 +1,68 @@
 ---
-title: "Abhi Parda Uthaein Gaye Qasam Se Ahmad Timsaal"
+title: "ابھی پردہ اٹھائیں گے قسم سے احمد تمثال"
+alternateTitle: "Abhi Parda Uthaein Gaye Qasam Se Ahmad Timsaal"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Ahmad"
-tags: ["noUrdu"]
 aliases: []
 published: false
 # source_id: tajpoints:4c00c1ed8ac620089d36
 # source_url: https://tajpoints.com/2025/02/abhi-parda-uthaein-gaye-qasam-se-ahmad.html
 # raw_sha256: 97992c196317a6455ab02384bab5ae8a74f6237a8efb986d4c8cf449de1d27ce
+romanLyrics: |-
+  Abhi parda uthaein gaye qasam se Ahmad timsaal
+  Rukh-e-Zeba dikhaein gay qasam se
+
+  1
+  Jahan mein noor hi bas noor ho ga
+  Andherey munh chupaein gay qasam se
+  Baharon ki haseen barsat ho gi
+  Shajar moti ugaein gay qasam se
+
+  2
+  Suno ghaibat se aa kar zalimo ko
+  Woh khud soli charhaein gay qasam se
+  Jinhoon ne Fatima ka dar jalaya
+  Unhein zindah jalein gay qasam se
+
+  3
+  Azaan gonjay gi bas nam-e-Ali ki
+  Azaan jab woh dilaein gay qasam se
+  Dukanein band hongi muftiyon ki
+  Woh jab mimber pe aaein gay qasam se
+
+  4
+  Bitha kar ru baro maula ko apne
+  Qasiday hum sunaein gay qasam se
+  Sakoon oss waqt hi aaye ga Ahmad
+  Woh jab tashreef laein gay qasam se
 ---
 
-Abhi Parda Uthaein Gaye Qasam Se Ahmad Timsaal.
-Rukh-e-Zeba Dikhaein Gay Qasam Se.
+ابھی پردہ اٹھائیں گے قسم سے احمد تمثال
+رخِ زیبا دکھائیں گے قسم سے
 
-1
-Jahan Mein Noor Hi Bas Noor Ho Ga.
-Andherey Munh Chupaein Gay Qasam Se.
-Baharon Ki Haseen Barsat Ho Gi.
-Shajar Moti Ugaein Gay Qasam Se.
+۱
+جہاں میں نور ہی بس نور ہو گا
+اندھیرے منہ چھپائیں گے قسم سے
+بہاروں کی حسین برسات ہو گی
+شجر موتی اگائیں گے قسم سے
 
-2
-Suno Ghaibat Se Aa Kar Zalimo Ko.
-Woh Khud Soli Charhaein Gay Qasam Se.
-Jinhoon Ne Fatima Ka Dar Jalaya.
-Unhein Zindah Jalein Gay Qasam Se.
+۲
+سنو غیبت سے آ کر ظالموں کو
+وہ خود سولی چڑھائیں گے قسم سے
+جنھوں نے فاطمہ کا در جلایا
+انھیں زندہ جلائیں گے قسم سے
 
-3
-Azaan Gonjay Gi Bas Nam-e-Ali Ki.
-Azaan Jab Woh Dilaein Gay Qasam Se.
-Dukanein Band Hongi Muftiyon Ki.
-Woh Jab Mimber Pe Aaein Gay Qasam Se.
+۳
+اذان گونجے گی بس نامِ علی کی
+اذان جب وہ دلائیں گے قسم سے
+دکانیں بند ہوں گی مفتیوں کی
+وہ جب منبر پہ آئیں گے قسم سے
 
-4
-Bitha Kar Ru Baro Maula Ko Apne.
-Qasiday Hum Sunaein Gay Qasam Se.
-Sakoon Oss Waqt Hi Aaye Ga Ahmad.
-Woh Jab Tashreef Laein Gay Qasam Se.
+۴
+بٹھا کر روبرو مولا کو اپنے
+قصیدے ہم سنائیں گے قسم سے
+سکون اس وقت ہی آئے گا احمد
+وہ جب تشریف لائیں گے قسم سے

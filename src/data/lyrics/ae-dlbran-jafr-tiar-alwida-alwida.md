@@ -8,70 +8,44 @@ poet: "Zameer Akhtar"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Aey dilbarane Jafar-e-Tayyar Alwida, Alwida
-
+romanLyrics: |-
+  Ae dilbaraan-e-Jafar-e-Tayyar alwida
 
   1
-
-  1) Binte Ali ye bachon se kehti thi baar baar
-
-  Ran ko sidharo Auno Mohammad ye maa nisar
-
+  Bint-e-Ali pe bachchoṅ se kehti thiṅ baar baar
+  Ran ko sidhaaro Aun o Mohammad ye maaṅ nisaar
 
   2
-
-  2) Jafar ka iftekhar barhana jihad may
-
-  Nana ki apni shan dikhana jihad may
-
+  Jafar ka iftikhaar barhaana jihaad meiṅ
+  Naana ke apni shaan dikhaana jihaad meiṅ
 
   3
-
-  3) Shere khuda ki beti ke tum dono sher ho
-
-  Maidan may jao jalud fatha ab kuch na dayr ho
-
+  Sher-e-Khuda ki beti ke tum donoṅ sher ho
+  Maidaan meiṅ jaao fatah meiṅ ab kuchh na der ho
 
   4
-
-  4) Har baat apne dil ke siwa ho to baat hay
-
-  Wo ran pare ke hashr bapa ho to baat hay
-
+  Har baat apne dil ke siwa ho to baat hai
+  Wo ran pare ke hashr bapa ho to baat hai
 
   5
-
-  5) Ghayre rahe sipah magar moo na modna
-
-  Haider ki yaadgar ho maidan na chorna
-
+  Ghere rahe sipaah magar muṅh na morna
+  Haidar ki yaadgaar ho maidaaṅ na chhorna
 
   6
-
-  6) Shimro umar ke sar jo utaro to khush hoon may
-
-  Dushman ko jhoom jhoom ke maaro to khush hoon may
-
+  Shimr o Umar ke sar jo utaaro to khush huṅ maiṅ
+  Dushman ko jhum jhum ke maaro to khush huṅ maiṅ
 
   7
-
-  7) Ab to ye aarzoo hay ke tum ran may kaam aao
-
-  Chehre ke badle khoon bhare chehre mujhe dikhao
-
+  Maaṅ ko ye aarzu hai ke tum ran meiṅ kaam aao
+  Chehre ke badle khun bhare chehre mujhe dikhaao
 
   8
-
-  8) Bacho zaeef mamu ko zehmat na deejiyo
-
-  Laashe uthaaye bhai to jumbish na kijiyo
-
+  Bachchoṅ zaeef maamuṅ ko zahmat na dijiyo
+  Laashe uthaaeṅ bhaai to jumbish na kijiyo
 
   9
-
-  9) Pyase jo aaoge to sila degi tum ko maa
-
-  Khud daur kar gale se laga legi maa'
+  Pyaase jo aaoge to sila degi tum ko maaṅ
+  Khud daur kar gale se laga legi tum ko maaṅ
 # source_id: nohayonline:c61035ffd2752b15c000
 # source_url: https://www.nohayonline.com/details_content.php?id=151
 # raw_sha256: 1b7611463d7cafabdff7243af2e98c199fa01cc2cf74f4931690c927d7ad55a3

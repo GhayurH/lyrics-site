@@ -9,86 +9,86 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Aao Akbar Sehra Bandho Nadeem Sarwar"
-romanLyrics: 'Aao Akbar Sehra Bandho Nadeem Sarwar.
-
-  Koi Masnad La Ke Bichawo Koi Aanchal Sar Pe Chawo.
-
+romanLyrics: |-
+  Aao Akbar sehra baandho
 
   1
-
-  Koi Kajal Surma Lawo Koi Mehndi Rang Rachawo.
-
-  Mera Lal Sada Aabad Rahe Dil Maa Behno Ka Shad Rahe.
-
-  Sukhi Dak Jug Yeh Aoulad Rahe Mere Man Ki Pori Murad Rahe.
-
-  Koi Nad-e-Ali Duhrawo Poshaak Shahani Lawo.
-
+  Koi masnad laa ke bichhaao
+  Koi aanchal sar pe chhaao
+  Koi kaajal surma laao
+  Koi mehndi rang rachaao
 
   2
-
-  Koi Chadar Amma Zahra Ki Koi Pagri Lao Nana Ki.
-
-  Chalo Behno Aao Akbar Ki Akbar Ke Lagao Ab Mehndi.
-
-  Pholon Ki Saij Sajawo Yeh Baam-o-Dar Mehkawo.
-
-  Pholon Ko Aab-e-Kausar Se Dhulwa Ke Buzar-o-Qanbar Se.
-
+  Mera laal sada aabaad rahe
+  Dil maaṅ behno ka shaad rahe
+  Sukhi dukh jakhyo aulaad rahe
+  Mere man ki puri muraad rahe
+  Koi Naad-e-Ali dohraao
+  Poshaak shahaani laao
 
   3
-
-  Yeh Sehra Lagana Tab Sar Se Jab Abar Najaf Se Aa Barsay.
-
-  Abbas Ka Parcham Lawo Saye Mein Iss Ko Bithawo.
-
-  Koi Sughra Ko Paigham Yeh Do Akbar Ki Behan Tum Shad Raho.
-
-  Aane Ki Sakat Ho Tu Aao Our Naig Tum Apna Le Jao.
-
+  Koi chaadar ammaṅ Zehra ki
+  Koi pagri laao naana ki
+  Chalo behno aao Akbar ki
+  Akbar ke lagaao ab mehndi
+  Phuloṅ ki sej sajaao
+  Yeh daam o dar mehkaao
 
   4
-
-  Bhaiyya Ke Galay Lag Jawo Ghonghat Dulhan Ka Uthawo.
-
-  Kehti Hai Sakina Khush Ho Kar Dulha Jo Bachay Bhaiyya Akbar.
-
-  Main Naig Mein Mangoon Gi Gohar Sar Rakh Ke Unn Ke Seene Par.
-
-  Haq Mera Mujhe Dilwawo Mujhe Bundhay Naye Pehnawo.
-
+  Phuloṅ ko aab-e-Kausar se
+  Dhulwa ke Buzar o Qambar se
+  Yeh sehra lagaana tab sar se
+  Jab abr-e-Najaf se aa barse
+  Abbas ka parcham laao
+  Saaye mein isko bithaao
 
   5
-
-  Nagah Yeh Di Hatif Ne Sada Yeh Zulm Howa Umm-e-Laila.
-
-  Seene Mein Laga Oss Ke Naiza Arman Tha Jis Ki Shadi Ka.
-
-  Akbar Ko Kafan Pehnawo Zakhmo Se Khak Churawo.
-
-  Barchi Hai Kalejay Mein Tooti Hathoon Mein Lagi Khoon Ki Mehndi.
-
+  Koi Sughra ko paighaam yeh do
+  Akbar ki behan tum shaad raho
+  Aane ki sakat ho to aao
+  Aur neg tum apna le jaao
+  Bhaiya ke gale lag jaao
+  Ghonghat dulhan ka uthaao
 
   6
-
-  So Tukray Hoi Sehrey Ki Lari Sarwar Pe Qayamat Ki Hai Ghari.
-
-  Zainab Ko Hosh Mein Lawo Lo Farsh Azza Ka Bichawo.
-
-  Do Qasid-e-Sughra Ko Yeh Khabar Sughra Ko Bataye Woh Ja Kar.
-
-  Akbar Tu Gaye Soye Kausar Kya Takti Hai Sughra Rah Guzar.
-
+  Kehti hai Sakina khush ho kar
+  Dulha jo bane bhaiya Akbar
+  Main neg mein maanguṅ gi gohar
+  Sar rakh ke un ke sine par
+  Haq mera mujhe dilwaao
+  Mujhe bande naye pehnaao
 
   7
+  Naagaah yeh di haatif ne sada
+  Yeh zulm hua Umm-e-Laila
+  Sine mein laga uske neza
+  Armaan tha jiski shaadi ka
+  Akbar ko kafan pehnaao
+  Zakhmoṅ se khaak chhuraao
 
-  Mat Unn Se Aas Lagawo Ab Fateha Unn Ki Dilawo.
+  8
+  Barchhi hai kaleje mein tuti
+  Haathoṅ mein lagi khuṅ ki mehndi
+  Sau tukre hui sehre ki lari
+  Sarwar pe qayaamat ki hai ghari
+  Zainab ko hosh mein laao
+  Lo farsh-e-aza ka bichhaao
 
-  Rehan Tujhe Akbar Ki Qasam Mat Rook Abhi Tu Apna Qalam.
+  9
+  Do qaasid-e-Sughra ko yeh khabar
+  Sughra ko bataaye woh jaa kar
+  Akbar to gaye su-e-Kausar
+  Kya takti hai Sughra raah guzar
+  Mat un se aas lagaao
+  Ab faateha unki dilaao
 
-  Woh Baat Tujhe Karna Hai Raqam Gham Ahl-e-Azza Ka Jis Se Ho Kam.
-
-  Akbar Ka Sehra Sunawo Khud Tarpo Our Tarpawo.'
+  10
+  Rehan tujhe Akbar ki qasam
+  Mat rok abhi tu apna qalam
+  Yeh baat tujhe karna hai raqam
+  Gham ahl-e-aza ka jis se ho kam
+  Akbar ka sehra sunaao
+  Khud tarpo aur tarpaao
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: tajpoints:a7392707eabbfa80c970
 # source_url: https://tajpoints.com/2023/01/aao-akbar-sehra-bandho-nadeem-sarwar.html

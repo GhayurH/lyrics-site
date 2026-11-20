@@ -9,43 +9,43 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Behnaiṅ roti haiṅ teri yaad may tanha Akbar
+  Behneṅ roti haiṅ teri yaad mein tanha Akbar
   Ab to aa ja Akbar
 
   1
   Teri masnad se abhi tak teri khushbu aaye
-  Mujh ko Quran ke lafzoṅ may nazar ty aaye
-  Aisi halat may bata,  behn kare kia Akbar
+  Mujh ko Quran ke lafzoṅ mein nazar to aaye
+  Aisi haalat mein bata, behn kare kya Akbar
 
   2
-  Jab se is ghar se gayi teri sawari bhayya
-  May ne payi hi nahi khaak tumhari bhayya
-  Hai mita jata tera,  nash-e-kaf-e-pa Akbar
+  Jab se is ghar se gayi teri sawaari bhaiya
+  Main ne paayi hi nahiṅ khaak tumhaari bhaiya
+  Hai mita jaata tera, naqsh-e-kaf-e-pa Akbar
 
   3
-  Khab may dekha hai ik khun bhara kurta may ne
-  Tere lasahy ko rawaṅ us may hai dekh may ne
-  Sath may Ammo bhi haiṅ,  aur haiṅ baba Akbar
+  Khwaab mein dekha hai ik khun bhara kurta main ne
+  Tere laashe ko rawaaṅ is mein hai dekha main ne
+  Saath mein Ammu bhi haiṅ, aur haiṅ baba Akbar
 
   4
-  Tere sehre ki ajab may ne haiṅ larryaṅ dekhiṅ
-  May ne Sajjad ke hathoṅ may haiṅ karyaṅ dekhiṅ
-  Jane kiuṅ sar pe nahi,  phupyoṅ ke parda Akbar
+  Tere sehre ki ajab main ne haiṅ lariyaṅ dekhiṅ
+  Main ne Sajjad ke haathoṅ mein haiṅ kariyaṅ dekhiṅ
+  Jaane kiuṅ sar pe nahiṅ, phuphiyoṅ ke parda Akbar
 
   5
-  Yusuf e aal e aba khab mera sach to nahi
-  Tu mujhe aish talak chorr chala ho na kahiṅ
-  Mere dil ko hai isi,  fikr ne ghaira Akbar
+  Yusuf-e-Aal-e-Aba khwaab mera sach to nahiṅ
+  Tu mujhe aish talak chhor chala ho na kahiṅ
+  Mere dil ko hai isi, fikr ne ghera Akbar
 
   6
-  Ae Khuda rakhna mere bhai ke wade ka bharam
-  Tujh ko hai fakhr-e-do alam ke charaghoṅ ki qasam
-  Roz karti huṅ dua,  Rab se ae bhayya Akbar
+  Ae Khuda rakhna mere bhai ke waade ka bharam
+  Tujh ko hai fakhr-e-do aalam ke charaaghoṅ ki qasam
+  Roz karti huṅ dua, Rab se ae bhaiya Akbar
 
   7
-  Chorr kar tum jo gaye koi na aaya ghar may
-  Sath rehta hai mere moat ka saaya ghar may
-  Dukh rulata hai mujhe,  ujrre gharoṅ ka Akbar
+  Chhor kar tum jo gaye koi na aaya ghar mein
+  Saath rehta hai mere maut ka saaya ghar mein
+  Dukh rulaata hai mujhe, ujre gharoṅ ka Akbar
 # source_id: ziyaraat:2928b493139f419ebdec
 # source_url: https://www.ziyaraat.net/api/noha/2506
 # raw_sha256: d89d21c14d9abcdc0f1ebe5eb69f3495a2569dd2cdf29bb371b50e25f058b38d

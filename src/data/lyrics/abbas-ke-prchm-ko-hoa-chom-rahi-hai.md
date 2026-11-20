@@ -1,5 +1,6 @@
 ---
 title: "عباسؑ کے پرچم کو ہوا چوم رہی ہے"
+alternateTitle: "Abbas Ke Parcham Ko Hawa Chum Rahi Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -9,51 +10,32 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Abbas kay percham ko hawa choom rahi hay
-
-  Lagta hay ke Zahra ki dua choom rahi hay
-
+romanLyrics: |-
+  Abbas ke parcham ko hawa chum rahi hai
+  Lagta hai ke Zahra ki dua chum rahi hai
+  Abbas ke parcham ...
+  Aa dekh Sukaina tere Abbas ka laasha
+  Darya ke kinaare pe qaza chum rahi hai
 
   1
-
-  1) Aa dekh Sukaina teray Abbas ka lasha
-
-  Darya kay kinaray pay qaza choom rahi hay
-
+  Yuṅ bhigti jaati hai fiza chum ke alam ko
+  Jaise ke ye Zainab ki rida chum rahi hai
 
   2
-
-  2) Yun bhi jhuki jaati hay fiza chu kay alam ko
-
-  Jaisay ke yeh Zainab ki rida choom rahi hay
-
+  Sar apna patakhta hai kinaaroṅ se ye paani
+  Jaa arsh ko maatam ki sada chum rahi hai
 
   3
-
-  3) Sar apna patak-ta hay kinaroon pe yeh pani
-
-  Ya arsh ko matam ki sada choom rahi hay
-
+  Behta hua paani hai ke Abbas ke aansuṅ
+  Mashkize ko ummat ki jafa chum rahi hai
 
   4
-
-  4) Behta huwa pani hay ke Abbas kay ansoo
-
-  Mashkeezay ko ummat ki jafa choom rahi hay
-
+  Sar cho ke Ghazi ka Ibn-e-Ali ne
+  Abbas qadam tere wafa chum rahi hai
 
   5
-
-  5) Sar choom kay Ghazi ka kaha ibne Ali nay
-
-  Abbas qadam teray wafa choom rahi hay
-
-
-  6
-
-  6) Jawad ye nauha hai shehen-shaahe wafa ka
-
-  Har lafz ko ashkon ki ghata choom rahi hai'
+  Jawad ye nauha hai shahanshaah-e-wafa ka
+  Har lafz ko ashkoṅ ki ghata chum rahi hai
 # source_id: nohayonline:7cd64709278f88fb3c04
 # source_url: https://www.nohayonline.com/details_content.php?id=32
 # raw_sha256: 7ae8370ec724ee67c08c4edc6cc82e70a8712bacf5fa0450987a32146c5c99ba

@@ -1,53 +1,93 @@
 ---
-title: "Aao Chalein Hussain Sakhi Karbala Mein Lyrics 2019"
+title: "آؤ چلیں حسین سخی کربلا میں ہے"
+alternateTitle: "Aao Chalein Hussain Sakhi Karbala Mein Hai"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Takallum"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:b384af210b24a276b98a
 # source_url: https://tajpoints.com/2019/06/aao-chalein-hussain-sakhi-karbala-mein.html
 # raw_sha256: fee4331f11a1bf1455e497d8129300d68602d11e7f606cbb11968e97cd9ab649
+romanLyrics: |-
+  Aao chalein Hussain Sakhi Karbala mein hai
+  Jo sab ko palta hai wohi Karbala mein hai
+
+  1
+  Kitna azeem tar hai ziyarat ka yeh safar
+  Abbas lene aate hain Hukam-e-Hussain par
+  Zair ki qadar dani bari Karbala mein hai
+  Rote hain bain karte hain aakar yahan malak
+
+  2
+  Sadaat ke khiyal se Nehar-e-Furat tak
+  Zahra qadam qadam pe luti Karbala mein hai
+  Saqa-e-Ahl-e-Bait hai Abbas oss ka naam
+  Darya pe qabza kar ke bhi ab tak hai tishna kaam
+
+  3
+  Yani mazar-e-tashna labi Karbala mein hai
+  Jis ja sitam ki barchi se zakhmi howa jigar
+  Akbar jahan pe zeen se aaye zameen par
+  Ghurbat ka woh muqam issi Karbala mein hai
+
+  4
+  Kano pe hai rakhe howay woh apne hath ko
+  Seena padar ka dhondne aati hai raat ko
+  Nanhi si aik bachi koi Karbala mein hai
+  Jati hai Sham mein kabhi aati hai Karbala
+
+  5
+  Umm-e-Rubab deti hai ro ro ke yeh sada
+  Zindaan mein ik nishani meri Karbala mein hai
+  Hathon mein oss ke bandhi gayi haye reesmaa
+  Athara jis ke bhai thay Abbas se jawaan
+
+  6
+  Chadar ossi behan ki chini Karbala mein hai
+  Lamhaat youn mile hain Takallum ko chain ke
+  Sansein tu le raha hai haram mein Hussain ke
+  Tu hai yahan pe rooh teri Karbala mein hai
 ---
 
-Aao Chalein Hussain Sakhi Karbala Mein Hai
-Jo Sab Ko Palta Hai Wohi Karbala Mein Hai.
+آؤ چلیں حسین سخی کربلا میں ہے
+جو سب کو پالتا ہے وہی کربلا میں ہے
 
-1
-Kitna Azeem Tar Hai Ziyarat Ka Yeh Safar.
-Abbas Lene Aate Hain Hukam-e-Hussain Par.
-Zair Ki Qadar Dani Bari Karbala Mein Hai.
-Rote Hain Bain Karte Hain Aakar Yahan Malak.
+۱
+کتنا عظیم تر ہے زیارت کا یہ سفر
+عباس لینے آتے ہیں حکمِ حسین پر
+زائر کی قدردانی بڑی کربلا میں ہے
+روتے ہیں بین کرتے ہیں آ کر یہاں مَلَک
 
-2
-Sadaat Ke Khiyal Se Nehar-e-Furat Tak.
-Zahra Qadam Qadam Pe Luti Karbala Mein Hai.
-Saqa-e-Ahl-e-Bait Hai Abbas Oss Ka Naam.
-Darya Pe Qabza Kar Ke Bhi Ab Tak Hai Tishna Kaam.
+۲
+سادات کے خیال سے نہرِ فرات تک
+زہرا قدم قدم پہ لٹی کربلا میں ہے
+سقائے اہلِ بیت ہے عباس اس کا نام
+دریا پہ قبضہ کر کے بھی اب تک ہے تشنہ کام
 
-3
-Yani Mazar-e-Tashna Labi Karbala Mein Hai.
-Jis Ja Sitam Ki Barchi Se zakhmi Howa Jigar.
-Akbar Jahan Pe Zeen Se Aaye Zameen Par.
-Ghurbat Ka Woh Muqam Issi Karbala Mein Hai.
+۳
+یعنی مزارِ تشنہ لبی کربلا میں ہے
+جس جا ستم کی برچھی سے زخمی ہوا جگر
+اکبر جہاں پہ زین سے آئے زمین پر
+غربت کا وہ مقام اسی کربلا میں ہے
 
-4
-Kano Pe Hai Rakhe Howay Woh Apne Hath Ko.
-Seena Padar Ka Dhondne Aati Hai Raat Ko.
-Nanhi Si Aik Bachi Koi Karbala Mein Hai.
-Jati Hai Sham Mein Kabhi Aati Hai Karbala.
+۴
+کانوں پہ ہے رکھے ہوئے وہ اپنے ہاتھ کو
+سینہ پدر کا ڈھونڈنے آتی ہے رات کو
+ننھی سی ایک بچی کوئی کربلا میں ہے
+جاتی ہے شام میں کبھی آتی ہے کربلا
 
-5
-Umm-e-Rubab Deti Hai Ro Ro Ke Yeh Sada.
-Zindaan Mein Ik Nishani Meri Karbala Mein Hai.
-Hathon Mein Oss Ke Bandhi Gayi Haye Reesmaa.
-Athara Jis Ke Bhai Thay Abbas Se Jawaan.
+۵
+امِ رباب دیتی ہے رو رو کے یہ صدا
+زنداں میں اک نشانی میری کربلا میں ہے
+ہاتھوں میں اس کے باندھی گئی ہائے ریسماں
+اٹھارہ جس کے بھائی تھے عباس سے جواں
 
-6
-Chadar Ossi Behan Ki Chini Karbala Mein Hai.
-Lamhaat Youn Mile Hain Takallum Ko Chain Ke.
-Sansein Tu Le Raha Hai Haram Mein Hussain Ke.
-Tu Hai Yahan Pe Rooh Teri Karbala Mein Hai.
+۶
+چادر اسی بہن کی چھنی کربلا میں ہے
+لمحات یوں ملے ہیں تکلم کو چین کے
+سانسیں تو لے رہا ہے حرم میں حسین کے
+تو ہے یہاں پہ روح تیری کربلا میں ہے

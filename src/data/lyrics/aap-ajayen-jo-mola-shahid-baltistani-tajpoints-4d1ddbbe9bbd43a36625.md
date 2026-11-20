@@ -1,40 +1,63 @@
 ---
-title: "Aap Ajayen Jo Mola Shahid Baltistani"
+title: "آپ آ جائیں جو مولا"
+alternateTitle: "Aap Ajayen Jo Mola"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Darwaish"
-tags: ["noUrdu"]
+reciter: "Shahid Baltistani"
 aliases: []
 published: false
 # source_id: tajpoints:4d1ddbbe9bbd43a36625
 # source_url: https://tajpoints.com/2022/03/aap-ajayen-jo-mola-shahid-baltistani.html
 # raw_sha256: f84006f00c6deda6f9564529158069fdc7c1e66d6f13012dd9e9198e6cb3aa40
+romanLyrics: |-
+  1
+  Aap aa jaein jo Maula hum yeh manzar dekh lein
+  Halqa-e-matam bana Kabay ke andar dekh lein
+  Inteqam-e-Karbala ki de Ali Akbar azaan
+  Murtaza ki taig se urtay hoye sar dekh lein
+  Daein Abuzar baein Qanbar samne Salman hoon
+  Ik namaz aisi bhi hum Kabay mein parh kar dekh lein
+
+  2
+  Aap ke zakir ki hai mairaj mimber aap ka
+  Aap mimber par hoon hum mairaj-e-mimber dekh lein
+  Munkir-e-ayelan-e-Khum par jis tarha kankar gira
+  Munkir-e-matam pe bhi youn girtay kankar dekh lein
+  Hum issi lalach mein peetey hain may hub-e-Ali
+  Aab-e-Kausar aap ke chulo mein pe kar dekh lein
+
+  3
+  Woh tu Ghazi hai agar main ban gaya tera ghulam
+  Meri thokar mein jahan walay samandar dekh lein
+  Jab akelay Sibt-e-Jafar zalimo ki maut hai
+  Kya ho gar yeh teen so terah ka lashkar dekh lein
+  Mar ke bhi Darwaish ki aankhein karein gi intezar
+  Pyar se Maula issay nazrein mila kar dekh lein
 ---
 
-Aap Ajayen Jo Mola Shahid Baltistani.
+۱
+آپ آ جائیں جو مولا ہم یہ منظر دیکھ لیں
+حلقۂ ماتم بنا کعبے کے اندر دیکھ لیں
+انتقامِ کربلا کی دے علی اکبر اذاں
+مرتضیٰ کی تیغ سے اڑتے ہوئے سر دیکھ لیں
+دائیں ابوذر بائیں قنبر سامنے سلمان ہوں
+اک نماز ایسی بھی ہم کعبے میں پڑھ کر دیکھ لیں
 
-1
-Aap Aa Jaein Jo Maula Hum Yeh Manzar Dekh Lein.
-Halqa-e-Matam Bana Kabay Ke Andar Dekh Lein.
-Inteqam-e-Karbala Ki De Ali Akbar Azaan.
-Murtaza Ki Taig Se Urtay Hoye Sar Dekh Lein.
-Daein Abuzar Baein Qanbar Samne Salman Hoon.
-Ik Namaz Aisi Bhi Hum Kabay Mein Parh Kar Dekh Lein.
+۲
+آپ کے ذاکر کی ہے معراج منبر آپ کا
+آپ منبر پر ہوں ہم معراجِ منبر دیکھ لیں
+منکرِ اعلانِ خم پر جس طرح کنکر گرا
+منکرِ ماتم پہ بھی یوں گرتے کنکر دیکھ لیں
+ہم اسی لالچ میں پیتے ہیں مے حبِ علی
+آبِ کوثر آپ کے چُلّو میں پی کر دیکھ لیں
 
-2
-Aap Ke Zakir Ki Hai Mairaj Mimber Aap Ka.
-Aap Mimber Par Hoon Hum Mairaj-e-Mimber Dekh Lein.
-Munkir-e-Ayelan-e-Khum Par Jis Tarha Kankar Gira.
-Munkir-e-Matam Pe Bhi Youn Girtay Kankar Dekh Lein.
-Hum Issi Lalach Mein Peetey Hain May Hub-e-Ali.
-Aab-e-Kausar Aap Ke Chulo Mein Pe Kar Dekh Lein.
-
-3
-Woh Tu Ghazi Hai Agar Main Ban Gaya Tera Ghulam.
-Meri Thokar Mein Jahan Walay Samandar Dekh Lein.
-Jab Akelay:SIBT-E-JAFAR: Zalimo Ki Maut Hai.
-Kya Ho Gar Yeh Teen So Terah Ka Lashkar Dekh Lein.
-Mar Ke Bhi Darwaish Ki Aankhein Karein Gi Intezar.
-Pyar Se Maula Issay Nazrein Mila Kar Dekh Lein.
+۳
+وہ تو غازی ہے اگر میں بن گیا تیرا غلام
+میری ٹھوکر میں جہاں والے سمندر دیکھ لیں
+جب اکیلے سبطِ جعفر ظالموں کی موت ہے
+کیا ہو گر یہ تین سو تیرہ کا لشکر دیکھ لیں
+مر کے بھی درویش کی آنکھیں کریں گی انتظار
+پیار سے مولا اسے نظریں ملا کر دیکھ لیں

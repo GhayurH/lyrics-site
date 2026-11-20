@@ -10,61 +10,61 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Zakhmo se chur chur the mazlume karbala
-  Khanjar sambhale haath meiṅ shimr e layiṅ barha
-  Baithi thi apne laal ke nazdik sayyeda
-  Ek baar aayi kano meiṅ mazlum ki sada
-  Abbas abbas abbas
-  Rukh suye alqama kiya karne lagi ye bain
-  Abbas utho tumko sada deta hai Husain
+  Zakhmoṅ se chur chur the mazlum-e-Karbala
+  Khanjar sambhaale haath meiṅ Shimr-e-laiṅ barha
+  Baithi thi apne laal ke nazdik Sayyeda
+  Ik baar aayi kaanoṅ meiṅ mazlum ki sada
+  Abbas Abbas Abbas
+  Rukh su-e-Alqama kiya karne lagi ye bain
+  Abbas utho tum ko sada deta hai Husain
 
   1
-  Sadmo se tishnagi se dilafgaar hai Husain
-  Zakmo se chur chur hai lachaar hai Husain
-  Kitne sitamgaro meiṅ giraftaar hai Husain
+  Sadmoṅ se tishnagi se dilafgaar hai Husain
+  Zakhmoṅ se chur chur hai laachaar hai Husain
+  Kitne sitamgaroṅ meiṅ giraftaar hai Husain
   Teri madad ka talabgaar hai Husain
 
   2
-  Sab kho chuka hai ban meiṅ sahare mera Husain
-  Noha kuna hai dard ke maare mera Husain
-  Karta hai zer e lab jo ishare mera Husain
-  Tujhko nahi to kisko pukare mera Husain
+  Sab kho chuka hai ban meiṅ sahaare mere Husain
+  Noha kunaaṅ hai dard ke maare mera Husain
+  Karta hai zer-e-lab jo ishaare mera Husain
+  Tujh ko nahiṅ to kis ko pukaare mere Husain
 
   3
-  Sheh ke gale pe shimr ne rakhi juhin churi
-  Wo dekh qaimagaah se zainab nikal pari
+  Sheh ke gale pe Shimr ne rakhi juhin chhuri
+  Wo dekh khaimagaah se Zainab nikal pari
   Aankheiṅ mere Husain ki ashkoṅ se hai bhari
-  Chin jaye na behan ki rida fiqr hai bari
+  Chhin jaaye na behan ki rida fikr hai bari
 
   4
-  Tanha sitamgaro ne ise ghayr liya hai
-  Ji jaisa jiska chaha sitam usne kiya hai
-  Teero se patharoṅ se ise zakhmi kiya hai
-  Ab jaanibe Husain sitamgaar barha hai
+  Tanha sitamgaroṅ ne ise gher liya hai
+  Ji jaisa jis ka chaaha sitam us ne kiya hai
+  Tiroṅ se patharoṅ se ise zakhmi kiya hai
+  Ab jaanib-e-Husain sitamgaar barha hai
 
   5
-  Tere supurd karke gaye the jise ali
-  Kya yaad wo wassiyate aakhir nahi rahi
+  Tere supurd kar ke gaye the jise Ali
+  Kya yaad wo wasiyat-e-aakhir nahiṅ rahi
   Maqtal hai ye Husain ka aur qatl ki ghari
-  Sunkar fughaaṅ Husain ki kehne lage ali
+  Sun kar fughaaṅ Husain ki kehne lage Ali
 
   6
-  Khanjar sambhale haath meiṅ hai shimre bad sitaar
-  Karti hai bayn maut buka karti hai hayaat
-  Ek din meiṅ lutgayi mere bache ki kayenaat
-  Dekhe suye qayaam kabhi janibe furaat
+  Khanjar sambhaale haath meiṅ hai Shimr-e-bad shiaar
+  Karti hai bain maut buka karti hai hayaat
+  Ik din meiṅ lut gayi mere bachche ki kaainaat
+  Dekhe su-e-qiyaam kabhi jaanib-e-Furaat
 
   7
-  Is haal meiṅ bhi shukre khuda karta hai Husain
-  Khamosh rehke zulm o sitam sehta hai Husain
-  Teri wafa ka tujhko sila deta hai Husain
-  Is bekasi meiṅ tumko sada deta hai Husain
+  Is haal meiṅ bhi shukr-e-Khuda karta hai Husain
+  Khaamosh reh ke zulm o sitam sehta hai Husain
+  Teri wafa ka tujh ko sila deta hai Husain
+  Is bekasi meiṅ tum ko sada deta hai Husain
 
   8
-  Farhan o mazhar abdi kaisa wo khwaab tha
-  Ashur ka wo roz tha hum aur karbala
-  Pahunche paye ziyarate abbas e bawafa
-  Kano meiṅ aayi ek sisakti hui sada
+  Farhaan o Mazhar Abidi kaisa wo khwaab tha
+  Aashur ka wo roz tha hum aur Karbala
+  Pahunche pa-e-ziyaarat-e-Abbas-e-bawafa
+  Kaanoṅ meiṅ aayi ek sisakti hui sada
 # source_id: nohayonline:45e88d83ec879726de99
 # source_url: https://www.nohayonline.com/details_content.php?id=77
 # raw_sha256: e53b7c960962f7aa740ea0733e0da55c03ba9bc83bd28b0bf28c3e048165eb1e

@@ -1,53 +1,89 @@
 ---
-title: "Aao Paidal Chalo Momino Meesum Kashmiri"
+title: "آؤ پیدل چلو مومنو"
+alternateTitle: "Aao Paidal Chalo Momino Meesum Kashmiri"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Izhar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:2cee0014bbe80915fc1f
 # source_url: https://tajpoints.com/2022/09/aao-paidal-chalo-momino-meesum-kashmiri.html
 # raw_sha256: 4779b2df0a5f6094327b79b90a85cef842024eedf760d2c9684eb1c7781320fe
+romanLyrics: |-
+  1
+  Arbaeen hai rah-e-ishq par aao paidal chalo momino
+  Sheh ki ulfat mein kham kar ke sar aao paidal chalo momino
+  Pao gay iss safar ki jaza
+  Yani pohancho gay tum Karbala
+  Apni manzil pe rakh kar nazar
+
+  2
+  Tham kar ba wafa ka alam
+  Dil mein rakh kar shaheedon ka gham
+  Aal se tum ko ulfat hai gar
+
+  3
+  Pair mein jo parin aablay
+  Phool ulfat ke hoon gay khilay
+  Hoon gay taskheer sab behar-o-bar
+
+  4
+  Aisa mashi ka ho silsila
+  Har zameen aaj ho Karbala
+  Shehar mein gaon mein har nagar
+
+  5
+  Bint-e-Shabeer paidal chali
+  Yaad mein oss ki ab tu sabhi
+  Le ke humrah dukhtar pisar
+
+  6
+  Woh jo darpaish Zainab ko tha
+  Jis mein rotay they Zain Al-Abba
+  Bhool jana na tum woh safar
+
+  7
+  Keh do Izhar bas tum yehi
+  Sheh ka chehlum hai mil kar sabhi
+  Sath mein le ke sab ghar ka ghar
 ---
 
-Aao Paidal Chalo Momino Meesum Kashmiri.
+۱
+اربعین ہے راہِ عشق پر آؤ پیدل چلو مومنو
+شہ کی الفت میں خم کر کے سر آؤ پیدل چلو مومنو
+پاؤ گے اس سفر کی جزا
+یعنی پہنچو گے تم کربلا
+اپنی منزل پہ رکھ کر نظر
 
-1
-Arbaeen Hai Rah-e-Ishq Par Aao Paidal Chalo Momino.
-Sheh Ki Ulfat Mein Kham Kar Ke Sar Aao Paidal Chalo Momino.
-Pao Gay Iss Safar Ki Jaza.
-Yani Pohancho Gay Tum Karbala.
-Apni Manzil Pe Rakh Kar Nazar.
+۲
+تھام کر باوفا کا علم
+دل میں رکھ کر شہیدوں کا غم
+آل سے تم کو الفت ہے گر
 
-2
-Tham Kar Ba Wafa Ka Alam.
-Dil Mein Rakh Kar Shaheedon Ka Gham.
-Aal Se Tum Ko Ulfat Hai Gar.
+۳
+پیر میں جو پڑیں آبلے
+پھول الفت کے ہوں گے کھلے
+ہوں گے تسخیر سب بحر و بر
 
-3
-Pair Mein Jo Parin Aablay.
-Phool Ulfat Ke Hoon Gay Khilay.
-Hoon Gay Taskheer Sab Behar-o-Bar.
+۴
+ایسا مشی کا ہو سلسلہ
+ہر زمین آج ہو کربلا
+شہر میں گاؤں میں ہر نگر
 
-4
-Aisa Mashi Ka Ho Silsila.
-Har Zameen Aaj Ho Karbala.
-Shehar Mein Gaon Mein Har Nagar.
+۵
+بنتِ شبیر پیدل چلی
+یاد میں اس کی اب تو سبھی
+لے کے ہمراہ دختر، پسر
 
-5
-Bint-e-Shabeer Paidal Chali.
-Yaad Mein Oss Ki Ab Tu Sabhi.
-Le Ke Humrah Dukhtar Pisar.
+۶
+وہ جو درپیش زینب کو تھا
+جس میں روتے تھے زین العبا
+بھول جانا نہ تم وہ سفر
 
-6
-Woh Jo Darpaish Zainab Ko Tha.
-Jis Mein Rotay They Zain Al-Abba.
-Bhool Jana Na Tum Woh Safar.
-
-7
-Keh Do Izhar Bas Tum Yehi.
-Sheh Ka Chehlum Hai Mil Kar Sabhi.
-Sath Mein Le Ke Sab Ghar Ka Ghar.
+۷
+کہہ دو اظہار بس تم یہی
+شہ کا چہلم ہے مل کر سبھی
+ساتھ میں لے کے سب گھر کا گھر

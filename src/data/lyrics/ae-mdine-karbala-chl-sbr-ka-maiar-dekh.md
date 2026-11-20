@@ -8,48 +8,48 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ae Madine Karbala chal sabr ka mayar dekh
-  Lashkar e Shabbir may hai khubi e kirdar dekh
+  Ae Madine Karbala chal sabr ka miyaar dekh
+  Lashkar-e-Shabbir mein hai khubi-e-kirdaar dekh
 
   1
-  Zainab-e-muztar ke khaime se nikal kar dasht may
-  Aa rahe haiṅ aath sala Jafar e Tayyar dekh
+  Zainab-e-muztar ke khaime se nikal kar dasht mein
+  Aa rahe haiṅ aath saala Jafar-e-Tayyar dekh
 
   2
-  Aon ki surat ki may aa kar dushmanan-e-din se
-  Larr rahe haiṅ nau bara se Haider e Karrar dekh
+  Aun ki surat ki mein aa kar dushmanaan-e-din se
+  Lar rahe haiṅ nau baras ke Haidar-e-Karrar dekh
 
   3
-  Ran may teera saal ke Shabbar ye keh kar aa gaye
-  Kal qalam ki jang ki ab tegh ki yalghar dekh
+  Ran mein tera saal ke Shabbar ye keh kar aa gaye
+  Kal qalam ki jang ki ab tegh ki yalghaar dekh
 
   4
-  Husn may raftar may guftar may kirdar ke
-  Dekh atthara baras ke Ahmed e Mukhtar dekh
+  Husn mein raftaar mein guftaar mein kirdaar ke
+  Dekh athaara baras ke Ahmad-e-Mukhtar dekh
 
   5
-  Waqt ke Marhab ki fojaiṅ Alqama se hat gayiṅ
-  Nehr par bat-tees sala Haider e Karrar dekh
+  Waqt ke Marhab ki faujaiṅ Alqama se hat gaiṅ
+  Nahr par battis saala Haidar-e-Karrar dekh
 
   6
-  Kar ke saiqal khush hontoṅ par hansi ki zulfiqar
-  Cheh mahine ke Ali haiṅ bar sar-e-paikar dekh
+  Kar ke saiqal khushk hontoṅ par hansi ki Zulfiqar
+  Chhe mahine ke Ali haiṅ barsar-e-paikaar dekh
 
   7
-  Goshware tak diye haiṅ din-e-haq ki raah may
-  Chaar sala Fatima ka jazba-e-isar dekh
+  Goshwaare tak diye haiṅ din-e-haq ki raah mein
+  Chaar saala Fatima ka jazba-e-isaar dekh
 
   8
-  Shaam ke darbar may chal khutba-e-Zainab ko sun
-  Aaj phir pachpan baras ka Fatimi kirday dekh
+  Shaam ke darbaar mein chal khutba-e-Zainab ko sun
+  Aaj phir pachpan baras ka Fatimi kirdaar dekh
 
   9
-  Kon jita lon hara surkhiyoṅ may hai likha
-  Ae muarrikh Shaam ke darbar ka akhbar dekh
+  Kaun jita kauṅ haara shurkhiyoṅ mein hai likha
+  Ae muarrikh Shaam ke darbaar ka akhbaar dekh
 
   10
-  Din-e-haq ke aayine may dil ki ankhoṅ se Mujib
-  Ahle bait-e-Mustafa ka aik aik kirdar dekh
+  Din-e-haq ke aaine mein dil ki aankhoṅ se Mujib
+  Ahl-e-Bait-e-Mustafa ka ek ek kirdaar dekh
 # source_id: ziyaraat:e4e5c8dcc0609782353c
 # source_url: https://www.ziyaraat.net/api/noha/2213
 # raw_sha256: 406cfb999986884c3c5db4d8e5a31197591095eaa68365ccce8095e45870bb07

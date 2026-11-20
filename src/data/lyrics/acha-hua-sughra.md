@@ -9,118 +9,63 @@ poet: "Mir Takallum"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Jab ahle haram aaye madine mein palat kar
-
-  Sughra se kaha saniye zehra ne lipat kar
-
-  Acha hua sughra
-
-  Acha hua sughra tu mere saath nahi thi
-
+romanLyrics: |-
+  Jab ahl-e-haram aaye Madine mein palat kar
+  Sughra se kaha Saaniy-e-Zehra ne lipat kar
 
   1
-
-  Zainab ka tha noha hum lut gaye sughra
-
-  Is baat pe karti hoo ada shukr ka sajda
-
-  Hum mein se kisi ka to salamat raha parda
-
+  Achha hua Sughra tu mere saath nahiṅ thi
+  Zainab ka tha noha hum lut gaye Sughra
+  Achha hua Sughr...
 
   2
-
-  Kis tarha bata''un tujhe dil phat''ta hai mera
-
-  Sadaat ki ghairat ka taqaza nahi sughra
-
-  Bas itna hi kehti hoo rida jab ke chini thi
-
+  Is baat pe karti huṅ ada shukr ka sajda
+  Hum mein se kisi ka to salaamat raha parda
+  Kis tarah bataauṅ tujhe dil phatta hai mera
+  Saadaat ki ghairat ka taqaaza nahiṅ Sughra
+  Bas itna hi kehti huṅ rida jab ki chhini thi
 
   3
-
-  Tu poochti hai surkh hai kyun aap ki chadar
-
-  Aa tujhko bata''un mere mazloom ki dukhktar
-
-  Jab qaime mein sheh laaye laashe ali akbar
-
-  Mai aise giri laash ke pehlu mein tadap kar
-
+  Tu puchhti hai surkh hai kiuṅ aap ki chaadar
+  Aa tujh ko bataauṅ mere mazlum ki dukhtar
+  Jab khaime mein shah laaye laash-e-Ali Akbar
+  Main aise giri laash ke pehlu mein tarap kar
+  Akbar ke lahu se ye rida surkh hui thi
 
   4
-
-  Akbar ke lahoo se ye rida surkh hui thi
-
-  Kis tarha rahi hogi tu is ghar mein akeli
-
+  Kis tarah rahi hogi tu is ghar mein akeli
   Ehsaas mujhe hai tere is dard ka beti
-
+  Lekin tu zaeefa hui furqat mein padar ki
+  Tujh ko to khabar sirf shahaadat ki hai pahunchi
+  Main shah ka gala katte hue dekh rahi thi
 
   5
-
-  Lekin tu zaeefa hui furqat mein padar ki
-
-  Tujhko to khabar sirf shahadat ki hai pahunchi
-
-  Mai sheh ka gala kat-te hue dekh rahi thi
-
+  Kya bughz hai baba se Musalmaanoṅ ko jaane
+  Phir aaye the ghar Fatema Zehra ka jalaane
+  Sab aa ke khare ho gaye bekas ke sarhaane
+  Us waqt sitamgaaroṅ se Aabid ko bachaane
+  Beti phuphi ammaṅ teri sholoṅ pe chali thi
 
   6
-
-  Kya bughz hai baba se musalmano ko jaane
-
-  Phir aaye thay ghar fatema zehra ka jalane
-
-  Sab aake khade hogaye bekas ke sarhane
-
-  Us waqt sitamgaron se abid ko bachane
-
+  Tanhaai mein le ja ke kabhi puchhna maaṅ se
+  Kis tarah se guzriṅ teri maaṅ behneṅ wahaaṅ se
+  Baateṅ jahaaṅ sab karte haiṅ pathar ki zabaaṅ se
+  Shab ko bhi guzarna bara mushkil jahaaṅ se
+  Beparda wahaaṅ din mein har ek Bibi khari thi
 
   7
-
-  Beti phupi amma teri sholon pe chali thi
-
-  Tanhai mein le jaake kabhi poochna maa se
-
-  Kis tarha se guzri teri maa behne wahan se
-
+  Naana ka Madina hai nahiṅ khauf kisi ka
+  Dil khol ke ro kaun tujhe maarega durra
+  Lekin kabhi baba pe jo roti thi Sakina
+  Seli kabhi durra kabhi khaati thi tamaacha
+  Rone pe bhi maasuma ke paabandi lagi thi
 
   8
-
-  Baatein jahan sab karte hai pathar ki zaban se
-
-  Shab ko bhi guzarna bada mushkil hai jahan se
-
-  Be-parda wahan din mein har ek bibi khadi thi
-
-
-  9
-
-  Nana ka madina hai nahi khauf kisi ka
-
-  Dil khol ke ro kaun tujhe maarega durra
-
-  Lekin kabhi baba pe jo roti thi sakina
-
-  Sayli kabhi durra kabhi khati thi tamacha
-
-
-  10
-
-  Rone pe bhi masoom ke pabandi lagi thi
-
-  Ay mir takallum wo qayamat thi qayamat
-
-  Zainab ne sunayi jo sakina ki shahadat
-
-
-  11
-
-  Sadaat pe sughra tha ajab aalam e ghurbat
-
-  Zindan ke andhere mein banayi gayi turbat
-
-  Dam tod''ti bachi ne bhi ye baat kahi thi'
+  Ae Mir Takallum wo qayaamat thi qayaamat
+  Zainab ne sunaai jo Sakina ki shahaadat
+  Saadaat pe guzra tha ajab alam-e-ghurbat
+  Zindaaṅ ke andhere mein banaai gayi turbat
+  Dam torti bachi ne bhi ye baat kahi thi
 reciter: "Meer Hasan Meer"
 # source_id: nohayonline:b1a4d1da7a43bde9611b
 # source_url: https://www.nohayonline.com/details_content.php?id=17

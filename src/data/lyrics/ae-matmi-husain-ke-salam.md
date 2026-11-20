@@ -9,66 +9,66 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Ae matmi Husain ke salam
-  Azmat ki inteha tu
+  Ae maatami Husain ke salaam salaam
+  Azmat ki intiha tu
   Zehra ki hai dua tu
   Sab se buland hai tera maqaam
 
   2
-  Himmat nahi kisi may is zikr ko mitaye
-  Batil ne har tarha se har taur aazmaye
-  Ghar bhi luthaya tum ne
-  Sar bhi kathaya tum ne
+  Himmat nahiṅ kisi mein is zikr ko mitaaye
+  Baatil ne har tarah se har taur aazmaaye
+  Ghar bhi lutaaye tum ne
+  Sar bhi kataaye tum ne
   Bakhsha gham-e-Husain ko dawaam
 
   3
-  Jag may nahiṅ hai milti koi misaal teri
+  Jag mein nahiṅ hai milti koi misaal teri
   Taarif kar rahe haiṅ maazi o haal teri
-  Arbo may aur ajam may
-  Ibn-e-Ali ke gham may
-  Pita raha shahadatoṅ ke jam
+  Araboṅ mein aur ajam mein
+  Ibn-e-Ali ke gham mein
+  Pita raha shahaadatoṅ ke jaam
 
   4
-  In qaatiloṅ ke hamle nakaam ho rahe hain
+  In qaatiloṅ ke hamle nakaam ho rahe
   Teri wafa ke charche ab aam ho rahe haiṅ
-  Baatil may khalbali hai
+  Baatil mein khalbali hai
   Maatam gali gali hai
-  Nindeiṅ hui hai kufr ki haraam
+  Nindeiṅ hui haiṅ kufr ki haraam
 
   5
-  Ro ro ke de rahi hain Zainab duaeiṅ tum ko
+  Ro ro ke de rahi hai Zainab duaeiṅ tum ko
   Hairat se dekhti haiṅ Karbal ki maaeiṅ tum ko
-  Ba sidq e ba yaqiṅ ho
-  Karbal ke tum amee ho
-  Mamnu hai tumhara khaas o aam
+  Ba sidq ba yaqiṅ ho
+  Karbal ke tum amiṅ ho
+  Mamnuṅ hai tumhaara khaas o aam
 
   6
-  Koi maqaam puche Sajjad se tumhara
-  Maatam tera bana hai jis ke liye sahara
-  Wo natawan musafir
+  Koi maqaam puchhe Sajjad se tumhaara
+  Maatam tera bana hai jis ke liye sahaara
+  Wo naatawaaṅ musaafir
   Wo dard ka payambar
   Karta hai ab bhi shaam, shaam, shaam
 
   7
-  In beyaqeenio maiṅ ahl-e-yakin tum ho
+  In beyaqiniyoṅ mein ahl-e-yaqin tum ho
   Din-e-Muhammadi ke aslan amin tum ho
   Dil chaahta hai mera
   Ho shaam ya sawera
-  Karta rahuṅ yuhin tumhe salaam
+  Karta rahuṅ yuṅhi tumheiṅ salaam
 
   8
-  Saansoṅ may teri khushbu dil maiṅ hai pyaar tera
-  Ab aa bhi jaao sab ko hay intezaar tera
+  Saaṅsoṅ mein teri khushbu dil mein hai pyaar tera
+  Ab aa bhi jaao sab ko hai intizaar tera
   Ae aaliyoṅ se aali
-  Ae bekason ke waali
-  Sambhalo ab jahan ka nizaam
+  Ae bekasoṅ ke waali
+  Sambhaalo ab jahaan ka nizaam
 
   9
-  May kia huṅ arsh wale tum par salam bhejeiṅ
-  In ansuoṅ ke badle kausar ke jaam bhejeiṅ
+  Main kya huṅ arsh waale tum par salaam bhejeiṅ
+  In aaṅsuoṅ ke badle Kausar ke jaam bhejeiṅ
   Zikr-e-Husain baaqi
-  Shehzad aik khaki
-  Hai sirf ye Husain ka ghulam
+  Shehzad aik khaaki
+  Hai sirf ye Husain ka ghulaam
 # source_id: ziyaraat:ab1e672f3380b9fa3049
 # source_url: https://www.ziyaraat.net/api/noha/1264
 # raw_sha256: 51e36a372b22e784785bf984cc69953fa3a8582b17edce7f11e892c7958b4231

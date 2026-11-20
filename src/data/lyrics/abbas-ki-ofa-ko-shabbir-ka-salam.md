@@ -8,97 +8,57 @@ poet: "Rehaan Azmi"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Abbas ki wafa ko shabbir ka salam
-
+romanLyrics: |-
+  Abbas ki wafa ko Shabbir ka salaam
 
   1
-
-  Zahra ki shahzadi hamsheer ka salam
-
-  Bachon ke dil ki dhadkan shabbir ka qaraar
-
-  Tishna labon ka saqqa qaimon ka pehredaar
-
-  Uske liye hai zainabe dilgeer ka salaam
-
+  Zahra ki shahzaadi hamshir ka salaam
+  Bachchoṅ ke dil ki dharkan Shabbir ka qaraar
+  Tishna laboṅ ka saqqa khaimoṅ ka pehredaar
+  Us ke liye hai Zainab-e-dilgir ka salaam
 
   2
-
-  Darya pe karke qabza jo tashnalab raha
-
-  Chullu mein leke pani pani nahi piya
-
-  Abbas tujhko sabr ki jageer ka salam
-
+  Darya pe kar ke qabza jo tishna lab raha
+  Chullu mein le ke paani paani nahiṅ piya
+  Abbas tujh ko sabr ki jaagir ka salaam
 
   3
-
-  Abbas ka alam tha ke zainab ki rida thi
-
+  Abbas ka alam tha ke Zainab ki rida thi
   Ghazi tere parcham ki hawa mein bhi wafa thi
-
-  Hyder ki tamanna''on ka markaz tera paikar
-
-  Humraah tere fatema zahra ki dua
-
-  Abbbas ke alam ki dunya mein roshni
-
-  Phaili to milgayi hai wafaon ko zindagi
-
-  Bazme ghame hussain ki tanveer ka salam
-
+  Haidar ki tamanna un ka markaz tera paikar
+  Hamraah tere Fatima Zahra ki dua
+  Jis ke lahu se parcham-e-Islam hai dhula
+  Pehchaan us diler ki mashkiza ho gaya
+  Ghazi ko mere waaris-e-tathir ka salaam
 
   4
-
-  Jo aankh tere rouze ke hai khaab dekhti
-
-  Us khaab mein hai roohe aqeedat chupi huvi
-
-  Pakeezgi ye khaab ko tabeer ka salam
-
+  Abbas ke alam ki duniya mein roshni
+  Phaili to mil gayi hai wafaa'oṅ ko zindagi
+  Azm-e-gham-e-Husain ki tanvir ka salaam
 
   5
-
-  Jiske lahoo se parcham e islam hai dhula
-
-  Pehchaan us dilayr ki mashkeeza hogaya
-
-  Ghazi ko mere waaris e tatheer ka salam
-
+  Shaane qalam kara diye paani jo chhu liya
+  Khaime mein us diler ka laasha nahiṅ gaya
+  Sharminda tha Sakina se Haidar ka laadla
+  Abbas tujh ko roegi ta hashr Karbala
+  Baazu kata ke jis ne rakh li wafa ki laaj
+  Kartiṅ haiṅ jis ko sajda saari wafaaeṅ aaj
+  Us baawafa ko maadar-e-Shabbir ka salaam
 
   6
-
-  Shane qalam kara diye pani jo choo liya
-
-  Qaime mein us dilayr ka laasha nahi gaya
-
-  Sharminda tha sakina se hyder ka laadla
-
-  Abbas tujhko royegi ta hashr karbala
-
-  Baazu kata ke jisne rakhli wafa ki laaj
-
-  Karti hai jisko sajda uski wafaein aaj
-
-  Us ba-wafa ko maadare shabbir ka salam
-
+  Asghar bhi tishna lab to Ghazi bhi tishna lab
+  Bejurm qatl ye hua aur wo bhi besabab
+  Us faateh-e-Furaat ko beshir ka salaam
 
   7
-
-  Asghar bhi tashnalab tha to ghazi bhi tashnalab
-
-  Be-jurm qatl ye huwa aur wo bhi be-sabab
-
-  Us faatahe faraat ko baysheer ka salam
-
+  Rehaan main ghulaam huṅ Haidar ke sher ka
+  Mere qalam ko soz hai Abbas ne diya
+  Nauhoṅ mein dhal gaya meri tahrir ka salaam
 
   8
-
-  Rehaan mai ghulam hoo hyder ke sher ka
-
-  Mere qalam ko soz hai abbas ne diya
-
-  Nauhon mein dhal gaya meri tehreer ka salam'
+  Jo aaṅkh tere rauze ke hai khwaab dekhti
+  Us khwaab mein hai ruh-e-aqidat chhupi hui
+  Paakizagi-e-khwaab ko taabir ka salaam
 # source_id: nohayonline:3d2264ea658c9daa4ad8
 # source_url: https://www.nohayonline.com/details_content.php?id=685
 # raw_sha256: c83d7fd2b93e0d2a46662fd972ba23d512f28206f3fd72af4385d359a348b853

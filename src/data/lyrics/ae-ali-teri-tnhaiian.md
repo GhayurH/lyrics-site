@@ -9,105 +9,61 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Islam ka dil madar e ummat hain Khadija
-
-  Khaliq ki ata deen ki zaroorat hain Khadija
-
-  Har tarha ke dukh jhailay hain Islam ki khaatir
-
-  Wo paikar e ikhlas o muhabbat hain Khadija
-
-  -
-
+romanLyrics: |-
+  Islam ka dil maadar-e-ummat haiṅ Khadija
+  Khaaliq ki ataa diṅ ki zarurat haiṅ Khadija
+  Har tarah ke dukh jhele haiṅ Islam ki khaatir
+  Wo paikar-e-akhlaaq o muhabbat haiṅ Khadija
 
   1
-
-  Aaj tak koi samjha kahaan
-
-  Aey Ali teri tanhayian
-
-  Bas faqat hain teri raazdan
-
+  Aaj tak koi samjha kahaaṅ
+  Ae Ali teri tanhaaiyaaṅ
+  Bas faqat haiṅ teri raazdaaṅ
 
   2
-
-  Jagmagati na towheed may
-
-  Gar samati na towheed may
-
-  Aakhirash phir simat-ti kahaan
-
+  Jagmagaati na tauhid meiṅ
+  Gar simatti na tauhid meiṅ
+  Aakhirash phir samaati kahaaṅ
 
   3
-
-  Ibtida, inteha, Kibriya
-
-  Ambiya, Aulia, Ausiya
-
-  Sab hain chup bolti hain jahan
-
+  Ibtidaa, intihaa, kibriyaa
+  Ambiyaa, auliyaa, ausiyaa
+  Sab haiṅ chup bolti haiṅ jahaaṅ
 
   4
-
-  Zaat e shahid may mash-hood may
-
-  Yaan wajood aur mojood may
-
-  Kam se kam hay fasl e kamaan
-
+  Zaat-e-shaahid meiṅ mashhud meiṅ
+  Haaṅ wujud aur maujud meiṅ
+  Kam se kam hai jo fasl-e-kamaaṅ
 
   5
-
-  Husn ki deed ki ain tak
-
-  Jalwa e Qaaba Qosain tak
-
-  Haan bas ik parda e darmiyan
-
+  Husn ki did ki ain tak
+  Jalwa-e-Qaaba Qausain tak
+  Haaṅ bas ik parda-e-darmiyaaṅ
 
   6
-
-  Kis ko yaara karay guftagu
-
-  Goongti hay yahan sirf Hoooooo
-
-  Bolti hain Khuda ki zabaan
-
+  Kis ko yaaraa kare guftagu
+  Gunjti hai yahaaṅ sirf Hu
+  Bolti haiṅ Khuda ki zabaaṅ
 
   7
-
-  Poochti hay salooni yehi
-
-  Hay koi ilm kash hay koi
-
-  Haey koi nahi tha wahaan
-
+  Puchhti hai saluni yahi
+  Hai koi ilm kash hai koi
+  Haaye koi nahiṅ hai yahaaṅ
 
   8
-
-  Dam badam pae bapae ja baja
-
-  Keh rahi hay ye Kun ki sada
-
-  Karrh leti hay khud se jahaan
-
+  Dam ba dam pai ba pai jaa ba jaa
+  Keh rahi hai ye Kun ki sadaa
+  Kaarh leti haiṅ khud se jahaaṅ
 
   9
-
-  Kaisa koi salam o kalam
-
-  Jab nahi hay jawab e salam
-
-  Uff ye toqeer e ilm al amaan
-
+  Kaisa koi salaam o kalaam
+  Jab nahiṅ hai jawaab-e-salaam
+  Uf ye tauqir-e-ilm al-amaaṅ
 
   10
-
-  Ro rahi hain jo Shaam o sahar
-
-  Fatima teri tanhayi par
-
-  Fatima per hain girya kunaa'
+  Ro rahi haiṅ jo shaam o sahar
+  Fatima teri tanhaai par
+  Fatima pe haiṅ girya kunaaṅ
 # source_id: nohayonline:337dbd0591ed6e7968b8
 # source_url: https://www.nohayonline.com/details_content.php?id=3279
 # raw_sha256: f25795d1c2e8bb3b2891d1f77f3a1f98ed61ece50ca5afb23d3ea1c16a4f2a7e
