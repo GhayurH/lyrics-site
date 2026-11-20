@@ -243,6 +243,13 @@ def invoke_codex(root: Path, item, prompt: str, model: str | None = None) -> tup
             args, stdin=subprocess.PIPE, stdout=stream,
             stderr=subprocess.STDOUT, cwd=root, text=True,
             start_new_session=True)
+        previous_term = signal.getsignal(signal.SIGTERM)
+
+        def terminate_worker(_signum, _frame):
+            # A stopped supervisor must not leave an isolated Codex job behind.
+            raise SystemExit(143)
+
+        signal.signal(signal.SIGTERM, terminate_worker)
         try:
             proc.communicate(input=prompt, timeout=file_timeout_seconds())
         except subprocess.TimeoutExpired:
@@ -255,6 +262,8 @@ def invoke_codex(root: Path, item, prompt: str, model: str | None = None) -> tup
         except BaseException:
             _end_process_group(proc)
             raise
+        finally:
+            signal.signal(signal.SIGTERM, previous_term)
     return proc.returncode, transcript, summary
 
 
