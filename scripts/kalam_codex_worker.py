@@ -312,7 +312,7 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
                 model: str | None = None) -> str:
     """Run isolated Codex, validate, then atomically apply a single safe edit."""
     from kalam_codex_isolation import (
-        IsolationError, apply_file, assert_workspace_clean_scope,
+        IsolationError, added_whitespace_issues, apply_file, assert_workspace_clean_scope,
         finish_session, prepare_workspace, preview_workspace,
     )
     from kalam_codex_quality import (
@@ -408,6 +408,7 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
         save_state(state)
         raise WorkerError(state["error"])
     findings = validate_text(updated_text, task=item.task)
+    findings.extend(added_whitespace_issues(orig, new))
     if item.task in ("roman", "audit"):
         if original_body(original_text) != original_body(updated_text):
             findings.append({"code": "source_modified", "severity": "error",
@@ -423,15 +424,8 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
     fatal = any(finding["severity"] == "error" for finding in findings)
     applied = False
     if not fatal:
+        # All mechanical rejection checks run BEFORE the atomic copyback.
         applied = apply_file(root, item.path, orig, new, session)
-        if subprocess.run(
-            ["git", "-C", str(root), "diff", "--check", "--", item.path],
-            stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL).returncode:
-            # Do not undo an applied edit silently; stop and preserve snapshots.
-            state["status"] = "stopped_on_error"
-            state["error"] = "Whitespace check failed after apply: " + item.path
-            save_state(state)
-            raise WorkerError(state["error"])
     outcome = ("needs_human" if fatal or findings or not applied else "edited_local")
     summary_text = summary.read_text(encoding="utf-8", errors="replace") if summary.exists() else ""
     snapshots = {"before": snap_before, "after": snap_after}
@@ -481,7 +475,7 @@ def supervise(args) -> int:
         save_state(state)
         paths = added_files(base)
         # Stable work priority: create missing Roman, audit existing Roman,
-        # only then attempt evidence-dependent Roman-only source recovery.
+        # only then reconstruct source script directly from Roman.
         # Never preempt a saved in-flight file when resuming.
         priorities = {}
         for path in paths:
@@ -722,6 +716,11 @@ def service_text(root: Path) -> str:
     extra = ("Environment=" + systemd_quote("PATH=" + os.environ.get("PATH", "")) + "\n")
     if codex:
         extra += "Environment=" + systemd_quote("KALAM_CODEX_BIN=" + codex) + "\n"
+    for setting in ("KALAM_CODEX_FILE_TIMEOUT_SECONDS", "KALAM_CODEX_NOTIFY",
+                    "KALAM_CODEX_STATE_DIR"):
+        if setting in os.environ:
+            extra += "Environment=" + systemd_quote(
+                setting + "=" + os.environ[setting]) + "\n"
     return (
         "[Unit]\n"
         "StartLimitIntervalSec=300\n"

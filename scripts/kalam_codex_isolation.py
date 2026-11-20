@@ -7,6 +7,7 @@ No Git commit, staging, merge, push or source correction occurs here.
 from __future__ import annotations
 
 import hashlib
+import difflib
 import json
 import os
 from pathlib import Path
@@ -197,6 +198,25 @@ def preview_workspace(root: Path, rel: str, state_dir: Path,
     after = _snapshot(state_dir, session, "after.md", new)
     session["snapshot_after"] = after
     return original_bytes, new, session["snapshot_before"], after
+
+
+def added_whitespace_issues(original: bytes, updated: bytes) -> list[dict]:
+    """Reject new trailing ASCII whitespace BEFORE publishing any local edit."""
+    try:
+        earlier = original.decode("utf-8").splitlines()
+        changed = updated.decode("utf-8").splitlines()
+    except UnicodeDecodeError:
+        return [{"code": "invalid_utf8", "severity": "error",
+                 "message": "Poetry must remain UTF-8"}]
+    violations = []
+    for line in difflib.ndiff(earlier, changed):
+        if line.startswith("+ ") and line[2:].endswith((" ", "\t")):
+            violations.append(line[2:][:90])
+    if violations:
+        return [{"code": "new_trailing_whitespace", "severity": "error",
+                 "message": "New trailing ASCII whitespace on edited line(s): " +
+                            repr(violations[:3])}]
+    return []
 
 
 def apply_file(root: Path, rel: str, original: bytes, replacement: bytes,

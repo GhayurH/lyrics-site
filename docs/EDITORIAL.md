@@ -80,7 +80,7 @@ Urdu **بی‌بی** alone uses the approved U+200C non-joiner; plural/inflected
 ## 6. Editorial review order
 
 1. Check duplicates before editing an imported candidate; compare the established standalone corpus and Basta mappings.
-2. Verify original text, completeness and stanza breaks from evidence. Resolve the opening, “Saani/Antra”, refrain, poet/takhallus and 2-/6-verse grouping.
+2. Verify original text where an original exists; for Roman-only imports, reconstruct the script from Roman without external-source verification. Confirm completeness and stanza breaks; resolve the opening, “Saani/Antra”, refrain, poet/takhallus and 2-/6-verse grouping.
 3. Align Roman stanza-by-stanza, then review contextual transliteration, punctuation, title, `lang`, tags and metadata.
 4. Confirm permanent IDs, old links and source-page mappings; leave any unresolved reading explicitly unapproved.
 5. Run the safe workflow in [Contributing](CONTRIBUTING.md). Inspect changes **manually**: a normalizer cannot create a missing language edition or adjudicate a poem.

@@ -197,8 +197,8 @@ def prompt_for(item: Candidate) -> str:
             "already includes the applicable full house transliteration rules: "
             "do NOT reread docs/EDITORIAL.md or other docs unless a material "
             "ambiguity genuinely requires more source context. "
-            "Read ONLY the selected lyric plus narrowly relevant primary evidence "
-            "if the task is source recovery. Do not inventory the repo, run "
+            "Read ONLY the selected lyric. Roman-only source reconstruction needs "
+            "no external searches or verification. Do not inventory the repo, run "
             "npm tests, build, formatting scripts or repeated broad searches. "
             "Modify ONLY the selected lyric, never commit/push or edit trackers. "
             "After the single edit provide a short factual completion summary.\n\n" +

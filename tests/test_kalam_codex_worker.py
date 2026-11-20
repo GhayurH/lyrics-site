@@ -314,5 +314,70 @@ class WorkerTests(unittest.TestCase):
                                       transcript.read_text(encoding="utf-8"))
 
 
+    def test_no_copyback_with_new_trailing_ascii_spaces(self):
+        from kalam_codex_isolation import added_whitespace_issues
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            poem = repo / "poem.md"
+            baseline = '---\nlang: ur\nlanguage: Urdu\n---\n۱\nاے حسین تم آؤ'
+            poem.write_text(baseline, encoding="utf-8")
+            state = {"version": 1, "results": {}}
+            item = SimpleNamespace(path="poem.md", task="roman",
+                                   lang="ur", language="Urdu")
+            log = Path(folder) / "log.jsonl"
+            log.write_text("", encoding="utf-8")
+            def bad_model(workspace, candidate, prompt, model):
+                (workspace / candidate.path).write_text(
+                    '---\nlang: ur\nlanguage: Urdu\nromanLyrics: |-\n'
+                    '  1\n  Ae Husain tum aao \n---\n۱\nاے حسین تم آؤ',
+                    encoding="utf-8")
+                return 0, log, Path(folder) / "last.md"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
+                with patch.object(worker, "invoke_codex", side_effect=bad_model):
+                    self.assertEqual(
+                        worker.perform_one(repo, item, state, lambda _: "task"), "done")
+            self.assertEqual(poem.read_text(encoding="utf-8"), baseline)
+            result = state["results"]["poem.md"]
+            self.assertFalse(result["applied"])
+            self.assertEqual(result["status"], "needs_human")
+            self.assertIn("new_trailing_whitespace",
+                          [v["code"] for v in result["validation_issues"]])
+            self.assertTrue(Path(result["snapshots"]["after"]).exists())
+            self.assertFalse(added_whitespace_issues(b"keep existing \n", b"keep existing \n"))
+
+    def test_source_script_reconstructed_from_roman_without_external_source(self):
+        from kalam_codex import Candidate, prompt_for
+        prompt = prompt_for(Candidate("poem.md", "source", "Urdu", "ur", 0, 1,
+                                      "Roman-only source"))
+        self.assertIn("Roman is sufficient input", prompt)
+        self.assertIn("no external searches or verification", prompt)
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            poem = repo / "poem.md"
+            poem.write_text(
+                '---\nlang: ur\nlanguage: Urdu\ntags: ["noUrdu"]\n'
+                '---\n1\nAe Husain tum aao', encoding="utf-8")
+            state = {"version": 1, "results": {}}
+            item = SimpleNamespace(path="poem.md", task="source",
+                                   lang="ur", language="Urdu")
+            log = Path(folder) / "log.jsonl"
+            log.write_text("", encoding="utf-8")
+            def reconstruct(workspace, candidate, prompt, model):
+                self.assertIn("source-language", prompt)
+                (workspace / candidate.path).write_text(
+                    '---\nlang: ur\nlanguage: Urdu\ntags: []\n'
+                    'romanLyrics: |-\n  1\n  Ae Husain tum aao\n'
+                    '---\n۱\nاے حسین تم آؤ', encoding="utf-8")
+                return 0, log, Path(folder) / "last.md"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
+                with patch.object(worker, "invoke_codex", side_effect=reconstruct):
+                    self.assertEqual(
+                        worker.perform_one(repo, item, state, prompt_for), "done")
+            self.assertEqual(state["results"]["poem.md"]["status"], "edited_local")
+            self.assertTrue(state["results"]["poem.md"]["applied"])
+            self.assertIn("romanLyrics: |-", poem.read_text(encoding="utf-8"))
+            self.assertIn("اے حسین", poem.read_text(encoding="utf-8"))
+
+
 if __name__ == "__main__":
     unittest.main()

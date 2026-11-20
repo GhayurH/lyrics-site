@@ -111,7 +111,7 @@ def validate_text(content: str, *, task: str = "audit") -> list[dict]:
     if task == "roman" and not roman_lines:
         problems.append(_issue("missing_roman", "Roman text is still absent", "error"))
     if task == "source" and not source_lines:
-        problems.append(_issue("missing_source", "Verified original Arabic-script text is still absent", "error"))
+        problems.append(_issue("missing_source", "Source-script edition is still absent", "error"))
     if task == "source" and source_lines and not roman_lines:
         problems.append(_issue("lost_roman_after_source",
                                "Source was restored but original Roman is missing from romanLyrics", "error"))
