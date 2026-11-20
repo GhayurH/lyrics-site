@@ -12,6 +12,7 @@ aliases: []
 published: true
 romanLyrics: |-
   Laash-e-Akbar utha rahe haiṅ Husain
+  Dil ki quwwat dikha rahe haiṅ Husain
 
   1
   Dil ki raahoṅ pe aansuoṅ ke charaagh
@@ -41,7 +42,6 @@ romanLyrics: |-
   Chun ke Qasim ki laash ke tukre
   Apne daaman meiṅ laa rahe haiṅ Husain
 
-  Dil ki quwwat dikha rahe haiṅ Husain
 # source_id: nohayonline:8e05f34459d6b59a4a76
 # source_url: https://www.nohayonline.com/details_content.php?id=521
 # raw_sha256: daf243b5ad7812ba9868f73a5d9381217f02097d0f72acaf718a4a1ba65540e4
@@ -51,6 +51,7 @@ romanLyrics: |-
 ---
 
 لاشِ اکبر اُٹھا رہے ہیں حُسین
+دل کی قوت دِکھا رہے ہیں حُسین
 
 ۱
 دل کی راہوں پہ آنسوؤں کے چراغ
@@ -79,5 +80,3 @@ romanLyrics: |-
 ۷
 چُن کے قاسم کی لاش کے ٹُکڑے
 اپنے دامن میں لا رہے ہیں حُسین
-
-دل کی قوت دِکھا رہے ہیں حُسین
