@@ -83,6 +83,11 @@ romanLyrics: |-
   Kufa ho ya Karbala
   Noha Rehaan Azmi ye Maula Ali ka
   Hai sab ke liye uqba meiṅ bakhshish ka sahaara
+
+  11
+  Aati thi har dam sada
+  Qatl hue Murtaza
+  Waqt hai faryaad ka
 # source_id: nohayonline:cc3402236205dfc236b2
 # source_url: https://www.nohayonline.com/details_content.php?id=376
 # raw_sha256: b89679c7a5b77c2911545fac2ce8c790cf22cc3033d59cb4a2b2ae0b322fee00
@@ -159,3 +164,8 @@ romanLyrics: |-
 کوفہ ہو یا کربلا
 نوحہ ریحان اعظمی یہ مولا علی کا
 ہے سب کے لئے عقبیٰ میں بخشش کا سہارا
+
+۱۱
+آتی تھی ہر دم صدا
+قتل ہوئے مرتضیٰ
+وقت ہے فریاد کا

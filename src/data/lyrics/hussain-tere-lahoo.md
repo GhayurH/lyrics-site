@@ -57,6 +57,90 @@ romanLyrics: |-
   Tarap ke boli ye Umm-e-Salma
   Jo ghash se jaagi hai teri Sughra
   Bas ek nauha suna rahi hai
+
+  8
+  Janab-e-Adam janab-e-Isa
+  Janab-e-Maryam janab-e-Zehra
+  Husain ibn-e-Ali ke gham meiṅ
+  Ajal bhi aaṅsu baha rahi hai
+
+  9
+  Lagi hai barchhi jigar pe jis ko
+  Hai laasha ban ke zamiṅ pe soya
+  Ghayur Laila bhi baal khole
+  Hai laash-e-Akbar pe aa rahi hai
+
+  10
+  Husain maqtal se le ke Asghar
+  Qabr banaane ko chal pare haiṅ
+  Rabab logo tarap tarap kar
+  Hai laash-e-Asghar utha rahi hai
+
+  11
+  Ajab hai Karb-o-Bala ka manzar
+  Ravaaṅ hai Shah ke gale pe khanjar
+  Arsh bhi karwat badal raha hai
+  Sakina aaṅsu baha rahi hai
+
+  12
+  Husain maidaan-e-Karbala meiṅ
+  Ajib moti luta rahe haiṅ
+  Jawaan bete bhatije bhaai
+  Ki laasheiṅ tanha utha rahe haiṅ
+
+  13
+  Qabul karna sar ko kataana
+  Magar na baatil se yuṅ khauf khaana
+  Samajh sake to sune zamaana
+  Sada ye pyaasoṅ ki aa rahi hai
+
+  14
+  Ye sabr tera teri ibaadat
+  Wo raah-e-haq meiṅ teri shahaadat
+  Teri sadaaqat ki daastaaneiṅ
+  Zamaane bhar ko suna rahi hai
+
+  15
+  Tamaam aalam ko ye bataaya
+  Kata ke gardan hai diṅ bachaaya
+  Magar ye ummat abhi bhi
+  Aal-e-Nabi ko dekho sata rahi hai
+
+  16
+  Gharib Maula ki bekasi pe
+  Gharib Maula ki bebasi pe
+  Abhi talak wo zamin-e-Karbal
+  Lahu ke aaṅsu baha rahi hai
+
+  17
+  Padar ke haathoṅ pe tir kha kar
+  Ayaaṅ hui jo laboṅ pe Asghar
+  Wohi to halki si muskuraahat
+  Jahaaṅ ko ab tak rula rahi hai
+
+  18
+  Ajab nahiṅ Shah ne waqt-e-aakhir
+  Kaha ho Abbas zi Hasham se
+  Utho zamiṅ se mere biraadar
+  Tumheiṅ Sakina bula rahi hai
+
+  19
+  Khuda ke sajde meiṅ zer-e-khanjar
+  Sar apna jis ne jhuka diya tha
+  Usi ke naqsh-e-qadam pe ya Rab
+  Jabiṅ ye dunya jhuka rahi hai
+
+  20
+  Sifat-e-mazlumiyat to dekho
+  Yazid jis ko daba raha tha
+  Wohi sada Husain hai ye
+  Jo aaj dunya pe chha rahi hai
+
+  21
+  Kamaal sajda Husain tera
+  Tamaam nabiyoṅ pe chha gaya hai
+  Yuṅ zikr tera malaaikoṅ meiṅ
+  Teri ibaadat ki ja rahi hai
 # source_id: nohayonline:fa999e59487c5dfcef1b
 # source_url: https://www.nohayonline.com/details_content.php?id=3413
 # raw_sha256: 45f37d7323292dcc4fc47fb7b0ffb698e10aac7d3d9d619cde7a2106956cc2b0
@@ -109,3 +193,87 @@ romanLyrics: |-
 تڑپ کے بولی یہ ام سلمہ
 جو غش سے جاگی ہے تیری صغرا
 بس ایک نوحہ سنا رہی ہے
+
+۸
+جناب آدم جناب عیسی
+جناب مریم جناب زہرا
+حسین ابن علی کے غم میں
+اجل بھی آنسو بہا رہی ہے
+
+۹
+لگی ہے برچھی جگر پہ جس کو
+ہے لاشہ بن کے زمیں پہ سویا
+غیور لیلی بھی بال کھولے
+ہے لاش اکبر پہ آ رہی ہے
+
+۱۰
+حسین مقتل سے لے کے اصغر
+قبر بنانے کو چل پڑے ہیں
+رباب لوگو تڑپ تڑپ کر
+ہے لاش اصغر اٹھا رہی ہے
+
+۱۱
+عجب ہے کرب و بلا کا منظر
+رواں ہے شاہ کے گلے پہ خنجر
+عرش بھی کروٹ بدل رہا ہے
+سکینہ آنسو بہا رہی ہے
+
+۱۲
+حسین میدان کربلا میں
+عجیب موتی لٹا رہے ہیں
+جوان بیٹے، بھتیجے، بھائی
+کی لاشیں تنہا اٹھا رہے ہیں
+
+۱۳
+قبول کرنا سر کو کٹانا
+مگر نہ باطل سے یوں خوف کھانا
+سمجھ سکے تو سنے زمانہ
+صدا یہ پیاسوں کی آ رہی ہے
+
+۱۴
+یہ صبر تیرا تیری عبادت
+وہ راہ حق میں تیری شہادت
+تیری صداقت کی داستانیں
+زمانے بھر کو سنا رہی ہے
+
+۱۵
+تمام عالم کو یہ بتایا
+کٹا کے گردن ہے دیں بچایا
+مگر یہ امت ابھی بھی
+آل نبی کو دیکھو ستا رہی ہے
+
+۱۶
+غریب مولا کی بے کسی پہ
+غریب مولا کی بے بسی پہ
+ابھی تلک وہ زمین کربل
+لہو کے آنسو بہا رہی ہے
+
+۱۷
+پدر کے ہاتھوں پہ تیر کھا کر
+عیاں ہوئی جو لبوں پہ اصغر
+وہی تو ہلکی سی مسکراہٹ
+جہاں کو اب تک رلا رہی ہے
+
+۱۸
+عجب نہیں شاہ نے وقت آخر
+کہا ہو عباس زی ہشم سے
+اٹھو زمیں سے میرے برادر
+تمہیں سکینہ بلا رہی ہے
+
+۱۹
+خدا کے سجدے میں زیر خنجر
+سر اپنا جس نے جھکا دیا تھا
+اسی کے نقش قدم پہ یا رب
+جبیں یہ دنیا جھکا رہی ہے
+
+۲۰
+صفت مظلومیت تو دیکھو
+یزید جسکو دبا رہا تھا
+وہی صدا حسین ہے یہ
+جو آج دنیا پہ چھا رہی ہے
+
+۲۱
+کمال سجدہ حسین تیرا
+تمام نبیوں پہ چھا گیا ہے
+یوں زکر تیرا ملائکوں میں
+تیری عبادت کی جا رہی ہے
