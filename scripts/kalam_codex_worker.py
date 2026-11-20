@@ -523,6 +523,46 @@ def refresh_round2_queue(root: Path, base: str, state: dict) -> list[str]:
     return paths
 
 
+
+def refresh_owned_queue(root: Path, base: str, state: dict) -> list[str]:
+    """Select this worker's stable alphabetical slice of the Round 2 queue."""
+    paths = refresh_round2_queue(root, base, state)
+    raw_index = os.environ.get("KALAM_CODEX_SHARD_INDEX")
+    raw_count = os.environ.get("KALAM_CODEX_SHARD_COUNT")
+    if raw_index is None and raw_count is None:
+        return paths
+    if raw_index is None or raw_count is None:
+        raise WorkerError("Both shard index and count are required")
+    try:
+        index, count = int(raw_index), int(raw_count)
+    except ValueError as exc:
+        raise WorkerError("Invalid parallel shard configuration") from exc
+    if not 0 <= index < count <= 16:
+        raise WorkerError("Invalid parallel shard index or count")
+    if (state.get("parallel_worker_index") != index or
+            state.get("parallel_worker_count") != count):
+        raise WorkerError("Shard environment does not match persisted state")
+    owned = [rel for i, rel in enumerate(paths)
+             if i * count // len(paths) == index]
+    from kalam_codex import inspect_text
+    task_counts, language_counts = Counter(), Counter()
+    for rel in owned:
+        target = root / rel
+        try:
+            item = inspect_text(rel, target.read_text(encoding="utf-8"))
+        except FileNotFoundError:
+            continue
+        task_counts[item.task] += 1
+        language_counts[item.lang or "unknown"] += 1
+    state["planned"]["global_total"] = len(paths)
+    state["planned"]["total"] = len(owned)
+    state["planned"]["by_task"] = dict(task_counts)
+    state["planned"]["by_language"] = dict(language_counts)
+    state["planned"]["shard_index"] = index
+    state["planned"]["shard_count"] = count
+    save_state(state)
+    return owned
+
 def supervise(args) -> int:
     """Sequential resumable queue; tolerate concurrent later-letter dedup commits."""
     from dataclasses import replace
@@ -545,7 +585,7 @@ def supervise(args) -> int:
         state["status"] = "running"
         save_state(state)
         last_head = git(ROOT, "rev-parse", "HEAD").strip()
-        paths = refresh_round2_queue(ROOT, base, state)
+        paths = refresh_owned_queue(ROOT, base, state)
         print(f"Round 2 worker: {len(paths)} locally present added kalams, "
               "alphabetical, one Codex file at a time; "
               "dedup commits allowed. State:", state_file(), flush=True)
@@ -557,7 +597,7 @@ def supervise(args) -> int:
             wait_retry(state)
             new_head = git(ROOT, "rev-parse", "HEAD").strip()
             if new_head != last_head:
-                paths = refresh_round2_queue(ROOT, base, state)
+                paths = refresh_owned_queue(ROOT, base, state)
                 last_head = new_head
                 print("Round 2 dedup commit detected; refreshed local queue:",
                       len(paths), "files. Existing Codex results retained.",
@@ -580,7 +620,7 @@ def supervise(args) -> int:
                 # HEAD may have changed between the last scan and exhaustion.
                 final_head = git(ROOT, "rev-parse", "HEAD").strip()
                 if final_head != last_head:
-                    paths = refresh_round2_queue(ROOT, base, state)
+                    paths = refresh_owned_queue(ROOT, base, state)
                     last_head = final_head
                     continue
                 state["current_path"] = None
@@ -801,15 +841,25 @@ def systemd_working_directory(root: Path) -> str:
 
 
 def service_text(root: Path) -> str:
+    workers_raw = os.environ.get("KALAM_CODEX_WORKERS", "1")
+    try:
+        workers = int(workers_raw)
+    except ValueError as exc:
+        raise WorkerError("Invalid KALAM_CODEX_WORKERS: " + workers_raw) from exc
+    if not 1 <= workers <= 16:
+        raise WorkerError("KALAM_CODEX_WORKERS must be between 1 and 16")
+    entrypoint = ("scripts/kalam_codex_parallel.py" if workers > 1
+                  else "scripts/kalam_codex.py")
+    arguments = (f" run --workers {workers} --confirm-run" if workers > 1
+                 else " supervise --confirm-run")
     unit_command = (systemd_quote(str(Path(sys.executable).resolve())) + " " +
-                    systemd_quote(str(root / "scripts/kalam_codex.py")) +
-                    " supervise --confirm-run")
+                    systemd_quote(str(root / entrypoint)) + arguments)
     codex = shutil.which("codex")
     extra = ("Environment=" + systemd_quote("PATH=" + os.environ.get("PATH", "")) + "\n")
     if codex:
         extra += "Environment=" + systemd_quote("KALAM_CODEX_BIN=" + codex) + "\n"
     for setting in ("KALAM_CODEX_FILE_TIMEOUT_SECONDS", "KALAM_CODEX_NOTIFY",
-                    "KALAM_CODEX_STATE_DIR"):
+                    "KALAM_CODEX_STATE_DIR", "KALAM_CODEX_WORKERS"):
         if setting in os.environ:
             extra += "Environment=" + systemd_quote(
                 setting + "=" + os.environ[setting]) + "\n"
