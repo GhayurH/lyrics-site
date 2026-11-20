@@ -77,6 +77,13 @@ def _stanza_issues(lines: list[str], *, roman: bool) -> list[dict]:
     return issues
 
 
+def original_body(content: str) -> str | None:
+    """Exact original-language Markdown body; unchanged on Roman/audit tasks."""
+    from kalam_codex import FRONT
+    matched = FRONT.match(content)
+    return content[matched.end():] if matched else None
+
+
 def validate_text(content: str, *, task: str = "audit") -> list[dict]:
     """Check only defensible structural/orthographic signals, never semantics.
 
@@ -105,6 +112,12 @@ def validate_text(content: str, *, task: str = "audit") -> list[dict]:
         problems.append(_issue("missing_roman", "Roman text is still absent", "error"))
     if task == "source" and not source_lines:
         problems.append(_issue("missing_source", "Verified original Arabic-script text is still absent", "error"))
+    if task == "source" and source_lines and not roman_lines:
+        problems.append(_issue("lost_roman_after_source",
+                               "Source was restored but original Roman is missing from romanLyrics", "error"))
+    if task == "source" and source_lines and verses(body, "latin"):
+        problems.append(_issue("roman_left_in_source_body",
+                               "Roman-looking verses remain in source body after reconstruction"))
     if source_lines and not roman_lines and task in ("audit", "roman"):
         if not any(p["code"] == "missing_roman" for p in problems):
             problems.append(_issue("missing_roman", "Missing the expected Roman edition", "error"))

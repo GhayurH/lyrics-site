@@ -144,6 +144,29 @@ class WorkerTests(unittest.TestCase):
             self.assertEqual(
                 state["usage_events"][str(log)]["usage"]["cached_input_tokens"], 400)
 
+    def test_roman_only_task_cannot_silently_change_original_body(self):
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            selected = repo / "poem.md"
+            selected.write_text('---\nlang: ur\nlanguage: Urdu\n'
+                                'romanLyrics: |-\n  Ae Husain tum aao\n'
+                                '---\nاے حسین تم آؤ', encoding="utf-8")
+            state = {"version": 1, "results": {}}
+            item = SimpleNamespace(path="poem.md", task="audit")
+            log = Path(folder) / "codex.jsonl"
+            log.write_text("", encoding="utf-8")
+            def changed_original(root, candidate, prompt, model):
+                selected.write_text(selected.read_text(encoding="utf-8").replace(
+                    "اے حسین تم آؤ", "اے حسن تم آؤ"), encoding="utf-8")
+                return 0, log, Path(folder) / "summary"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
+                with patch.object(worker, "invoke_codex", side_effect=changed_original):
+                    self.assertEqual(
+                        worker.perform_one(repo, item, state, lambda _: "audit"), "done")
+            result = state["results"]["poem.md"]
+            self.assertEqual(result["status"], "needs_human")
+            self.assertIn("source_modified", [v["code"] for v in result["validation_issues"]])
+
 
 if __name__ == "__main__":
     unittest.main()

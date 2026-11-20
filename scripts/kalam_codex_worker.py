@@ -270,6 +270,7 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
         update_result(state, item, "missing", details="File disappeared before review")
         return "done"
     before = changed_snapshot(root)
+    original_text = target.read_text(encoding="utf-8")
     previous_sha = sha_file(target)
     recovery = state.get("current_path") == item.path
     prompt = prompt_for(item)
@@ -347,7 +348,13 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
         revised = inspect_text(item.path, target.read_text(encoding="utf-8"))
         if revised.task == item.task or revised.task == "blocked":
             outcome = "needs_human"
-    findings = validate_text(target.read_text(encoding="utf-8"), task=item.task)
+    revised_text = target.read_text(encoding="utf-8")
+    findings = validate_text(revised_text, task=item.task)
+    if item.task in ("roman", "audit"):
+        from kalam_codex_quality import original_body
+        if original_body(original_text) != original_body(revised_text):
+            findings.append({"code": "source_modified", "severity": "error",
+                             "message": "Original-language body changed during Roman-only task"})
     # Even a successfully edited poem with mechanical anomalies needs review.
     # Fixing by inference/repeated model invocations is intentionally forbidden.
     if findings:

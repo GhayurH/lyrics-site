@@ -93,6 +93,15 @@ class QualityTests(unittest.TestCase):
         self.assertIn("verse_alignment_review",
                       {r["code"] for r in validate_text(text)})
 
+    def test_source_reconstruction_must_preserve_roman_edition(self):
+        no_roman = fixture("۱\nاے حسین تم آؤ")
+        codes = {r["code"] for r in validate_text(no_roman, task="source")}
+        self.assertIn("lost_roman_after_source", codes)
+        still_in_body = fixture("۱\nاے حسین تم آؤ\nYe abhi roman mein hai",
+                                "1\nAe Husain tum aao")
+        codes = {r["code"] for r in validate_text(still_in_body, task="source")}
+        self.assertIn("roman_left_in_source_body", codes)
+
     def test_linter_blocks_obsolete_roman_language_code(self):
         text = fixture("اے حسین تم آؤ", "Ae Husain tum aao", lang="ur-Latn")
         self.assertIn("roman_as_language",
