@@ -1,5 +1,5 @@
 ---
-title: "Azadar 1"
+title: "Maula Tum Hamare Maula Hum Tumhare"
 language: "Urdu"
 lang: "ur"
 direction: "ltr"

@@ -1,5 +1,5 @@
 ---
-title: "Azadar 2"
+title: "Wallah Anmol-o-La-Zawwal Yeh Rishta Hai Azadar"
 language: "Urdu"
 lang: "ur"
 direction: "ltr"
