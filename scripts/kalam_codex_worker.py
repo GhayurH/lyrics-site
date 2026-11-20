@@ -247,10 +247,12 @@ def invoke_codex(root: Path, item, prompt: str, model: str | None = None) -> tup
 
 
 def update_result(state: dict, item, outcome: str, *, details: str = "",
-                  digest: str | None = None, transcript: str = ""):
+                  digest: str | None = None, transcript: str = "",
+                  findings: list[dict] | None = None, usage: dict | None = None):
     state["results"][item.path] = {
         "status": outcome, "task": item.task, "detail": details[:500],
         "content_sha256": digest, "transcript": transcript,
+        "validation_issues": findings or [], "token_usage": usage,
         "at": utcnow().isoformat(timespec="seconds")}
     state["current_path"] = None
     state["status"] = "running"
@@ -280,6 +282,16 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
     state["status"] = "running"
     save_state(state)
     exit_code, transcript, summary = invoke_codex(root, item, prompt, model)
+    # Account for every invocation, including quota retries and failed edits.
+    # The reported turn usage is cumulative; NEVER sum completed turns.
+    from kalam_codex_quality import token_usage, validate_text
+    usage = token_usage(transcript)
+    if usage is not None:
+        events = state.setdefault("usage_events", {})
+        if str(transcript) not in events:
+            events[str(transcript)] = {
+                "path": item.path, "task": item.task, "usage": usage}
+            save_state(state)
     after = changed_snapshot(root)
     unexpected = unsafe_changes(before, after, item.path)
     if unexpected:
@@ -335,18 +347,25 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
         revised = inspect_text(item.path, target.read_text(encoding="utf-8"))
         if revised.task == item.task or revised.task == "blocked":
             outcome = "needs_human"
-    update_result(state, item, outcome, digest=final_sha,
+    findings = validate_text(target.read_text(encoding="utf-8"), task=item.task)
+    # Even a successfully edited poem with mechanical anomalies needs review.
+    # Fixing by inference/repeated model invocations is intentionally forbidden.
+    if findings:
+        outcome = "needs_human"
+    update_result(state, item, outcome, findings=findings, usage=usage, digest=final_sha,
                   details=("Edited but not human-approved" if outcome == "edited_local"
                            else "No edit: verify whether evidence was missing") +
                   ("; " + summary_text[:250] if summary_text else ""),
                   transcript=str(transcript))
-    print("Finished:", item.path, outcome, flush=True)
+    print("Finished:", item.path, outcome,
+          f"({len(findings)} local validation findings)", flush=True)
     return "done"
 
 
 def supervise(args) -> int:
     """Sequential finite queue; excludes originals and skipped/unclassified entries."""
     from dataclasses import replace
+    from kalam_codex_quality import TASK_ORDER
     from kalam_codex import (
         ROOT, ROUND2, added_files, base_ref, inspect_text, prompt_for,
     )
@@ -367,6 +386,14 @@ def supervise(args) -> int:
         state["status"] = "running"
         save_state(state)
         paths = added_files(base)
+        # Stable work priority: create missing Roman, audit existing Roman,
+        # only then attempt evidence-dependent Roman-only source recovery.
+        # Never preempt a saved in-flight file when resuming.
+        priorities = {}
+        for path in paths:
+            scan = inspect_text(path, (ROOT / path).read_text(encoding="utf-8"))
+            priorities[path] = TASK_ORDER.get(scan.task, 9)
+        paths.sort(key=lambda path: (priorities[path], path))
         original_count = len(paths)
         print(f"Round 2 worker: {original_count} added kalams, one Codex file at a time",
               "state:", state_file(), flush=True)
@@ -436,10 +463,27 @@ def single_run(item, args, prompt_for) -> int:
         return 0
 
 
-def show_status() -> None:
+def show_status(*, json_output: bool = False) -> None:
+    """Report task progress and real Codex JSONL token usage, not estimates."""
+    from kalam_codex_quality import usage_report
     state = load_state()
     completed = state["results"]
     counts = Counter(value.get("status") for value in completed.values())
+    usage = usage_report(state)
+    report = {
+        "state_file": str(state_file()),
+        "status": state.get("status"),
+        "processed": len(completed),
+        "outcomes": dict(counts),
+        "current_path": state.get("current_path"),
+        "retry_at": state.get("retry_at"),
+        "retry_kind": state.get("retry_kind"),
+        "error": state.get("error"),
+        "tokens": usage,
+    }
+    if json_output:
+        print(json.dumps(report, indent=2, ensure_ascii=False))
+        return
     print("State:", state_file())
     print("Status:", state.get("status"), "| processed:", len(completed))
     print("Outcomes:", dict(counts))
@@ -448,6 +492,17 @@ def show_status() -> None:
         print("Retry:", state["retry_at"], "| reason:", state.get("retry_kind"))
     if state.get("error"):
         print("Error:", state["error"])
+    print("Codex token usage:",
+          f"{usage['input_tokens']:,} input",
+          f"({usage['cached_input_tokens']:,} cached, "
+          f"{usage['uncached_input_tokens']:,} uncached);",
+          f"{usage['output_tokens']:,} output;",
+          f"{usage['model_invocations_with_usage']} measured invocations")
+    print("Cache share:", f"{usage['cache_share_percent']}%")
+    for task, tokens in sorted(usage["by_task"].items()):
+        print(f"  {task}: {tokens['input_tokens']:,} input, "
+              f"{tokens['cached_input_tokens']:,} cached, "
+              f"{tokens['output_tokens']:,} output")
     print("No poetry changes have been committed or pushed by this CLI.")
 
 

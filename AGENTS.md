@@ -1,6 +1,6 @@
 # Repository contract
 
-Read [Editorial standards](docs/EDITORIAL.md) before touching a kalam, [Architecture](docs/ARCHITECTURE.md) before changing behavior, [Contributing](docs/CONTRIBUTING.md) for the workflow, [Quality assurance](docs/QUALITY_ASSURANCE.md) for acceptance and [Operations](docs/OPERATIONS.md) for Cloudflare infrastructure.
+Read [Editorial standards](docs/EDITORIAL.md) before touching a kalam, except for the bounded single-file Codex worker, whose injected task rules fully cover its transliteration work; consult the full manual there only when a genuine ambiguity needs it. Read [Architecture](docs/ARCHITECTURE.md) before changing behavior, [Contributing](docs/CONTRIBUTING.md) for the workflow, [Quality assurance](docs/QUALITY_ASSURANCE.md) for acceptance and [Operations](docs/OPERATIONS.md) for Cloudflare infrastructure.
 
 ## Editorial invariants
 

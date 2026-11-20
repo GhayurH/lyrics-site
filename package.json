@@ -31,7 +31,8 @@
     "kalam:status": "python3 scripts/kalam_codex.py status",
     "kalam:requeue": "python3 scripts/kalam_codex.py requeue",
     "kalam:service:install": "python3 scripts/kalam_codex.py service install",
-    "kalam:service:uninstall": "python3 scripts/kalam_codex.py service uninstall"
+    "kalam:service:uninstall": "python3 scripts/kalam_codex.py service uninstall",
+    "kalam:validate": "python3 scripts/kalam_codex.py validate"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.5",

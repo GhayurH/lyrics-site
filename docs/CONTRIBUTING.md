@@ -25,7 +25,7 @@ Do **not** use bulk scripted stanza alignment or OCR-generated transcription as 
 
 ## Codex-assisted source and Roman review
 
-This Round 2 tool covers only the standalone lyric files **added** since the merge base with main, and reviews them one file per Codex call. The queue is derived from the current branch (not from the historical tracker); the original-language and Roman rules are in [Editorial standards](EDITORIAL.md) and scripts/kalam-codex-instructions.md. Use it **after deduplication is finished**, so the target corpus has stabilized. The archived kalam-archive-imports supervisor is not to be restarted.
+This Round 2 tool covers only the standalone lyric files **added** since the merge base with main, and reviews them one file per Codex call. The queue is derived from the current branch (not from the historical tracker). `scripts/kalam-transliteration-rules.md` is a **self-contained, task-scoped Codex prompt bundle** derived from the canonical [Editorial standards](EDITORIAL.md), with complete orthographic rules, examples and evidence limitations; `scripts/kalam-codex-instructions.md` explains the bounded worker contract. Update that bundle whenever the editorial manual changes. Use it **after deduplication is finished**, so the target corpus has stabilized. The archived kalam-archive-imports supervisor is not to be restarted.
 
 Inventory and prompt previews are read-only:
 
@@ -34,6 +34,12 @@ Inventory and prompt previews are read-only:
     npm run kalam:plan -- --task roman
     npm run kalam:plan -- --task audit
     npm run kalam:prompt -- --path src/data/lyrics/FILE.md
+    npm run kalam:validate -- --path src/data/lyrics/FILE.md --task roman
+    npm run kalam:status -- --json
+
+The local queue prioritizes **missing Roman**, then **existing Roman audits**, and finally evidence-dependent **missing original-language source**. No English originals or uncertain Latin-script originals are assigned to Codex. Each prompt includes only shared rules and the relevant task rules; the worker does not ask Codex to reread the entire editorial manual, inventory the repository or run broad tests on every poem. Rules are copied into the prompt with identical shared prefixes to permit prompt caching, though actual caching depends on the Codex provider/model.
+
+Local `kalam:validate` and the worker's automatic post-edit check warn about forbidden Roman characters, stanza numeral scripts, reciter markers, missing editions, malformed metadata and verse-count discrepancies. Warnings are not proof of linguistic mistakes; *no automatic autocorrection or repeat Codex call* is made for these. Files with unresolved warnings or missing source evidence remain `needs_human`, never editorially approved.
 
 For a continuous local run, install a systemd **user** unit. Installation does not start it. Start only once the dedup branch is settled:
 
@@ -56,7 +62,7 @@ To run a single selected file manually, use npm run kalam:run -- --path src/data
 
 The service uses Codex exec in workspace-write/ephemeral mode, with **one file per invocation**. The CLI detects unexpected changes to any other file, including files already locally modified, and stops for investigation. It does not discard edits. The working tree may contain thousands of prior Codex modifications: it does **not** require a clean tree between files. It never commits, stages, pushes or deploys source edits; manual editorial approval and Git management remain separate.
 
-A private resume ledger and Codex transcripts live in ~/.local/state/kalam-codex-round2 (or KALAM_CODEX_STATE_DIR) rather than any source tracker. Statuses mean edited_locally, needs_human/no_change, skipped or blocked; none means human-approved. The service pauses automatically on Codex quota responses, honoring a reported local reset time plus grace or falling back to 30 minutes, and resumes from the same file. Transient transport failures use increasing backoff; unexpected file edits or unrecoverable failures **stop** the worker. Stopping/restarting the unit preserves quota deadlines and progress. It exits normally when the finite list of added kalams is exhausted, retaining any items requiring human evidence.
+A private resume ledger and Codex transcripts live in ~/.local/state/kalam-codex-round2 (or KALAM_CODEX_STATE_DIR) rather than any source tracker. Every Codex invocation with a usage event is counted, including quota-retried and unsuccessful invocations; only the final `turn.completed.usage` snapshot is counted per invocation (Codex totals are cumulative). `npm run kalam:status` reports total input, cached input, uncached input, output and per-task usage; `npm run kalam:status -- --json` also reports the five highest-usage files. These are token counts, not monetary cost or quota predictions. Statuses mean edited_locally, needs_human/no_change, skipped or blocked; none means human-approved. The service pauses automatically on Codex quota responses, honoring a reported local reset time plus grace or falling back to 30 minutes, and resumes from the same file. Transient transport failures use increasing backoff; unexpected file edits or unrecoverable failures **stop** the worker. Stopping/restarting the unit preserves quota deadlines and progress. It exits normally when the finite list of added kalams is exhausted, retaining any items requiring human evidence.
 
 The worker checks the active Round 2 branch and freezes the current HEAD during a run. If the branch HEAD changes (for example, because dedup is still committing), it stops, so restart it after the branch stabilizes. To keep user services alive without an active login, configure systemd lingering separately via loginctl enable-linger for the user, if desired. The Codex CLI must be installed/authenticated on the machine running the service and its executable/Node PATH available in the installed unit.
 

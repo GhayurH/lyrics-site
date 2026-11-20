@@ -120,6 +120,30 @@ class WorkerTests(unittest.TestCase):
                         worker.perform_one(repo, item, state, lambda x: "editorial task")
                 self.assertEqual(state["status"], "stopped_on_unexpected_edits")
 
+    def test_quota_retry_accounts_for_consumed_tokens(self):
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            state = {"version": 1, "results": {}}
+            item = SimpleNamespace(path="poem.md", task="roman")
+            log = Path(folder) / "transcript.jsonl"
+            log.write_text(
+                json.dumps({"type": "turn.completed", "usage": {
+                    "input_tokens": 501, "cached_input_tokens": 400,
+                    "output_tokens": 35}}) + "\n" +
+                json.dumps({"type": "turn.failed", "error": {
+                    "message": "Usage limit reached. Try again at 10:24 PM."}}) + "\n",
+                encoding="utf-8")
+            def exhausted(root, candidate, prompt, model):
+                return 1, log, Path(folder) / "summary"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
+                with patch.object(worker, "invoke_codex", side_effect=exhausted):
+                    outcome = worker.perform_one(repo, item, state, lambda x: "task")
+            self.assertEqual(outcome, "retry")
+            self.assertEqual(state["status"], "waiting_for_quota")
+            self.assertEqual(len(state["usage_events"]), 1)
+            self.assertEqual(
+                state["usage_events"][str(log)]["usage"]["cached_input_tokens"], 400)
+
 
 if __name__ == "__main__":
     unittest.main()

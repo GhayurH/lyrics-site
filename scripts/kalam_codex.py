@@ -15,7 +15,6 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 LYRICS = "src/data/lyrics/"
 ROUND2 = "round2-kalams-2026-11-14"
-RULES = ROOT / "scripts" / "kalam-codex-instructions.md"
 LANG_CODES = {"ur", "pa-Arab", "skr-Arab", "bft-Arab", "ar", "fa"}
 LANG_NAMES = {"urdu", "panjabi", "punjabi", "saraiki", "balti", "arabic", "persian", "roman urdu"}
 ARABIC = re.compile(r"[\u0621-\u063a\u0641-\u064a\u066e-\u06d3\u06fa-\u06ff\u0750-\u077f]")
@@ -147,8 +146,10 @@ def added_files(base: str) -> list[str]:
 
 
 def inventory(base: str) -> list[Candidate]:
-    return [inspect_text(rel, (ROOT / rel).read_text(encoding="utf-8"))
-            for rel in added_files(base)]
+    from kalam_codex_quality import TASK_ORDER
+    items = [inspect_text(rel, (ROOT / rel).read_text(encoding="utf-8"))
+             for rel in added_files(base)]
+    return sorted(items, key=lambda item: (TASK_ORDER.get(item.task, 9), item.path))
 
 
 def target_for(args: argparse.Namespace) -> Candidate:
@@ -171,30 +172,38 @@ def target_for(args: argparse.Namespace) -> Candidate:
 
 
 def prompt_for(item: Candidate) -> str:
-    rules = RULES.read_text(encoding="utf-8")
+    """Send task-specific rules directly; avoid rereading entire editorial docs."""
+    from kalam_codex_quality import rules_for
     task = {
         "source": (
-            "Restore a VERIFIED original-language Arabic-script body for this Roman-only "
-            "poem. Roman is a pronunciation clue, not proof of exact original wording. "
-            "Use authoritative evidence, preserve Roman in romanLyrics, and correct "
-            "language metadata only when verified. If uncertain, do not invent text."),
+            "Recover only an authoritative, VERIFIED original-language source. "
+            "When unavailable, leave unresolved without inventing Urdu/Shahmukhi. "
+            "Preserve the existing Roman reading; make the smallest supported edit."),
         "roman": (
-            "Create romanLyrics: |- transliterating the original-language body with "
-            "matching opening, verse order, stanza boundaries and Western digits. "
-            "Do not translate or edit the verified original source."),
+            "Create the complete romanLyrics: |- pronunciation transcription for "
+            "the verified original body, respecting every verse and stanza. "
+            "Do NOT translate or modify the authoritative original."),
         "audit": (
-            "Review every existing Roman verse against the original. Correct house "
-            "style, pronunciation and structure only with evidence. Do not change "
-            "source-language text to force line-count agreement."),
+            "Audit existing Roman against original verse-by-verse. "
+            "Correct house spelling and alignment with evidence, not guesses. "
+            "Preserve the authoritative source."),
     }[item.task]
-    return (rules.strip() + "\n\nFILE: " + item.path +
-            "\nTASK: " + item.task + "\nLANGUAGE: " + item.language +
-            " (" + item.lang + ")\nOBSERVATION: " + item.note + "\n\n" +
-            task + "\n\nRead AGENTS.md, docs/EDITORIAL.md, and the complete file. "
-            "Edit ONLY the selected Markdown. Do not modify trackers, other poems, "
-            "Basta, identity locks, source imports, docs or Git history. "
-            "Do not commit, push, or run broad normalizers. "
-            "Report uncertainties and what a human still needs to verify.")
+    # Static rule prefix supports prompt caching; variable file data is last.
+    return (rules_for(item.task) + "\n\n## Single-file execution\n" +
+            "The root AGENTS.md is automatically provided by Codex. This prompt "
+            "already includes the applicable full house transliteration rules: "
+            "do NOT reread docs/EDITORIAL.md or other docs unless a material "
+            "ambiguity genuinely requires more source context. "
+            "Read ONLY the selected lyric plus narrowly relevant primary evidence "
+            "if the task is source recovery. Do not inventory the repo, run "
+            "npm tests, build, formatting scripts or repeated broad searches. "
+            "Modify ONLY the selected lyric, never commit/push or edit trackers. "
+            "After the single edit provide a short factual completion summary.\n\n" +
+            "FILE: " + item.path + "\nTASK: " + item.task +
+            "\nSOURCE LANGUAGE: " + item.language + " (" + item.lang + ")" +
+            "\nSCANNER OBSERVATION: " + item.note +
+            "\n\nACTION: " + task)
+
 
 
 def execute(item: Candidate, args: argparse.Namespace) -> int:
@@ -224,7 +233,11 @@ def main(argv: list[str] | None = None) -> int:
     worker_parser.add_argument("--confirm-run", action="store_true")
     worker_parser.add_argument("--base")
     worker_parser.add_argument("--model")
-    sub.add_parser("status", help="Read-only local processing and quota status")
+    status_parser = sub.add_parser("status", help="Read-only local progress and token totals")
+    status_parser.add_argument("--json", action="store_true")
+    validation = sub.add_parser("validate", help="Local deterministic checks for one added kalam")
+    validation.add_argument("--path", required=True)
+    validation.add_argument("--task", choices=("auto", "source", "roman", "audit"), default="auto")
     retry_parser = sub.add_parser("requeue", help="Retry a previously processed lyric")
     retry_parser.add_argument("--path", required=True)
     service_parser = sub.add_parser("service", help="Manage a local systemd user unit")
@@ -235,8 +248,23 @@ def main(argv: list[str] | None = None) -> int:
     try:
         if args.command == "status":
             from kalam_codex_worker import show_status
-            show_status()
+            show_status(json_output=args.json)
             return 0
+        if args.command == "validate":
+            from kalam_codex_quality import validate_text
+            rel = Path(args.path)
+            if rel.is_absolute():
+                rel = rel.resolve().relative_to(ROOT)
+            name = rel.as_posix()
+            if name not in added_files(base_ref(None)):
+                raise ReviewError("Not an added Round 2 lyric: " + name)
+            content = (ROOT / name).read_text(encoding="utf-8")
+            scanned = inspect_text(name, content)
+            task = scanned.task if args.task == "auto" else args.task
+            findings = validate_text(content, task=task)
+            print(json.dumps({"path": name, "task": task,
+                              "findings": findings}, ensure_ascii=False, indent=2))
+            return 1 if any(row["severity"] == "error" for row in findings) else 0
         if args.command == "requeue":
             from kalam_codex_worker import requeue
             requeue(args.path)
