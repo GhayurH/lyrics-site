@@ -426,6 +426,17 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
         state["error"] = "Codex produced non-UTF8 poetry: " + item.path
         save_state(state)
         raise WorkerError(state["error"])
+    # Codex often appends an EOF newline; preserve the exact authoritative
+    # original-language body while retaining otherwise valid Roman edits.
+    # Only normalize EOF line endings, never real source-language changes.
+    if item.task in ("roman", "audit"):
+        old_source = original_body(original_text)
+        new_source = original_body(updated_text)
+        if (old_source is not None and new_source is not None
+                and old_source != new_source
+                and old_source.rstrip("\r\n") == new_source.rstrip("\r\n")):
+            updated_text = updated_text[:len(updated_text) - len(new_source)] + old_source
+            new = updated_text.encode("utf-8")
     findings = validate_text(updated_text, task=item.task)
     findings.extend(added_whitespace_issues(orig, new))
     if item.task in ("roman", "audit"):

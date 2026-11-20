@@ -1,6 +1,6 @@
 ---
 title: "۱۳ رجب ہے کعبے پہ"
-alternateTitle: "13 Rajab Hai Kabay Pe"
+alternateTitle: "13 Rajab Hai Kaabe Pe"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,22 +11,22 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Terah Rajab Hai Kabay Pe Nazrein Jama Ke Dekh
-  Allah Ke Makaan Mein Qadam Murtaza Ke Dekh
-  Jab Chehra-e-Khuda Hai Ali Keh Chukay Nabi
-  Hub-e-Yaqeen Chehray Se Chehra Mila Ke Dekh
-  Gar Dekhna Ho Kabay Pe Hai Kis Ka Ikhteyar
-  Tooti Hoi Jidar Ko Kabay Mein Aa Ke Dekh
-  Seene Mein Kar Shigaf Tu Dil Mein Basein Ali
-  Youn Apne Dil Ko Bhi Kabhi Kaba Bana Ke Dekh
-  Kabay Mein Youn Nabi Ne Ali Ko Uthaya Tha
-  Kuch Dair Apne Hathoon Pe Quraan Utha Ke Dekh
-  Humnam Mera Tujh Ko Nazar Aaye Ga Habib
-  Mabood Ne Kaha Zara Pardah Utha Ke Dekh
-  Tu Bhi Ali Ko Maula Pukarey Ga Aye Nuser
-  Dil Se Zara Tu Koye Najaf Mein Tu Aa Ke Dekh
-  Hoti Hai Madh-e-Aal Bhi Ilham Ki Tarha
-  Mukhtar Parh Ke Dekh Aye Majid Suna Ke Dekh
+  Terah Rajab hai Kaabe pe nazreṅ jama ke dekh
+  Allah ke makaaṅ mein qadam Murtaza ke dekh
+  Jab chehra-e-Khuda hai Ali keh chuke Nabi
+  Hubb-e-Yaqin chehre se chehra mila ke dekh
+  Gar dekhna ho Kaabe pe hai kis ka ikhtiyaar
+  Tuti hui jidaar ko Kaabe mein aa ke dekh
+  Sine mein kar shigaaf tu dil mein baseṅ Ali
+  Yuṅ apne dil ko bhi kabhi Kaaba bana ke dekh
+  Kaabe mein yuṅ Nabi ne Ali ko uthaaya tha
+  Kuch der apne haathoṅ pe Quraan utha ke dekh
+  Hamnaam mera tujh ko nazar aaye ga Habib
+  Maabud ne kaha zara parda utha ke dekh
+  Tu bhi Ali ko Maula pukaare ga ae Nasir
+  Dil se zara tu ku-e-Najaf mein tu aa ke dekh
+  Hoti hai madh-e-aal bhi ilhaam ki tarah
+  Mukhtar parh ke dekh ae Maajid suna ke dekh
 ---
 
 ۱

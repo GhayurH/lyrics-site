@@ -11,28 +11,28 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aa Gaya Mah-e-Rajab Zikar-e-Ali So Bar Sun
-  Jashan Kar Masti Mein Aa Narey Laga Ashar Sun
-  Youn Chali Kat Kar Zaban-e-Meesum-e-Tammar Sun
-  Khanjron Ne Khon Thooka Ho Gayi Talwar Sun
-  Inn Ragoon Mein Dorta Hai Raat Din Ishq-e-Ali
-  Ho Nahi Sakti Hamarey Khon Ki Raftar Sun
+  Aa gaya maah-e-Rajab zikr-e-Ali sau baar sun
+  Jashn kar masti meiṅ aa naare laga ashaar sun
+  Yuṅ chali kat kar zabaan-e-Maisam-e-Tammaar sun
+  Khanjaroṅ ne khun thuka ho gayi talwaar sun
+  In ragoṅ meiṅ daurta hai raat din ishq-e-Ali
+  Ho nahiṅ sakti hamaare khun ki raftaar sun
 
   2
-  Jashan-e-Haider Mein Hain Sab Aflak Ke Nama Nigar
-  Baith Kar Farsh-e-Wila Par Arsh Ke Akhbar Sun
-  Munkir-e-Shan-e-Ali Khum Mein Samaat Kho Chuka
-  Kyun Kahon Behray Se Madh-e-Haider-e-Karrar Sun
-  Kya Howa Aa Kar Ali Ke Samne Marhab Tujhey
-  Hath Sun Osan Sun Rahwar Sun Talwar Sun
+  Jashn-e-Haider meiṅ haiṅ sab aflaak ke naama nigaar
+  Baith kar farsh-e-wila par arsh ke akhbaar sun
+  Munkir-e-shaan-e-Ali Khum meiṅ samaat kho chuka
+  Kiuṅ kahuṅ bahre se madh-e-Haider-e-Karraar sun
+  Kya hua aa kar Ali ke saamne Marhab tujhe
+  Haath sun, osaan sun, rahwaar sun, talwaar sun
 
   3
-  Shor-e-Mehfil Shor-e-Majlis Shor-e-Matam Gar Ruka
-  Cheekh Uthay Gi Khudai Ho Gaya Sansar Sun
-  Aik Shab Aaya Jo Mere Khuwab Mein Shimar Laeen
-  Iss Qadar Marey Tamachay Kar Diye Rukhsar Sun
-  Mir Se Pehle Sunay They Shair Teht Ul Lafz Mein
-  Ab Takallum Se Taranum Mein Wohi Ashar Sun
+  Shor-e-mehfil shor-e-majlis shor-e-maatam gar ruka
+  Chikh uthe gi khudaai ho gaya sansaar sun
+  Ek shab aaya jo mere khwaab meiṅ Shimar la'in
+  Is qadar maare tamaanche kar diye rukhsaar sun
+  Mir se pehle sunaaye the she'r taht-ul-lafz meiṅ
+  Ab takallum se tarannum meiṅ wohi ashaar sun
 ---
 
 ۱

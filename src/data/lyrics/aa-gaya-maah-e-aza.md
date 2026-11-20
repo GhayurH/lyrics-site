@@ -40,7 +40,7 @@ romanLyrics: |-
   Kuchh nahiṅ is ke siwa aansu baha lo mominoṅ
 
   7
-  Jab bhi aa jaye Muharram zindagi meiṅ ae Bober
+  Jab bhi aa jaye Muharram zindagi mein ae Bober
   Kehte rehna tum sada aansu baha lo mominoṅ
 ---
 

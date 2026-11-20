@@ -10,59 +10,59 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Shaheedon ke hain yeh janazay
-  Gareebon ke hain yeh janazay
-  Azadaro aao mil kar uthao bahatar 72 ke taboot hain
-  Parho sath noha tum aanso bahao bahatar 72 ke taboot hain
+  Shahidoṅ ke haiṅ yeh janaaze
+  Ghariboṅ ke haiṅ yeh janaaze
+  Azadaaro aao mil kar uthao bahattar 72 ke taboot haiṅ
+  Parho saath nauha tum aaṅsu bahao bahattar 72 ke taboot haiṅ
 
   1
-  Bahatar 72 ka ik din mein farzand-e-Zahra
-  Janazay utha kar akelay hi laya
-  Bari be basi se har ik simt dekha
-  Nahi tha koi bhi madad karne wala
-  Tum Ashor ka din tasawar mein lao
+  Bahattar 72 ka ik din mein farzand-e-Zahra
+  Janaaze utha kar akele hi laaya
+  Bari bebasi se har ik simt dekha
+  Nahiṅ tha koi bhi madad karne waala
+  Tum Aashur ka din tasavvur mein lao
 
   2
-  Howa jin ka maqtal mein pamal lasha
-  Kahin par badan they kahin unn ka sar tha
+  Hua jin ka maqtal mein paamaal laasha
+  Kahiṅ par badan the kahiṅ un ka sar tha
   Woh jin ko kafan bhi muyassar na aaya
-  Nahi tha janazon pe unn sab ke saya
-  Rakho phool unn par kafan tum urhao
+  Nahiṅ tha janaazoṅ pe un sab ke saaya
+  Rakho phul un par kafan tum urhao
 
   3
-  Burair-o-Zuhair our Hur, Wahab-e-Kalbi
-  Hain Jaun our Abis ke jaisay sipahi
-  Saeed our Shozab, Habib-e-Hussaini
-  Woh Asghar hoon Qasim hoon Akbar ya Ghazi
-  Hum inn ke hain waris jahan ko batao
+  Burair o Zuhair aur Hur, Wahab-e-Kalbi
+  Haiṅ Jaun aur Aabis ke jaise sipaahi
+  Saeed aur Shozab, Habib-e-Husaini
+  Woh Asghar hoṅ Qaasim hoṅ Akbar ya Ghaazi
+  Hum in ke haiṅ waaris jahaaṅ ko batao
 
   4
-  Hain inn mein sabhi Syeda ke dularay
-  Jinhein bawafa bhai keh kar pukarey
-  Sabhi they Hussain ibn-e-Haider ke pyaray
-  Alam ke hi saye mein rehtey they sare
-  Tum unn par alam ka pharera bichao
+  Haiṅ in mein sabhi Syeda ke dulaare
+  Jinheṅ baawafa bhaai keh kar pukaare
+  Sabhi the Husain ibn-e-Haider ke pyaare
+  Alam ke hi saaye mein rehte the saare
+  Tum un par alam ka pharera bichhao
 
   5
   Ik aisa ho taboot jis par ho sehra
-  Uthay aik taboot gathri ke jaisa
-  Ho taboot ke sath nanha sa jhola
+  Uthe aik taboot gathri ke jaisa
+  Ho taboot ke saath nanha sa jhula
   Magar hai jo taboot rab-e-wafa ka
-  Sakina ka mashkeza oss par sajao
+  Sakina ka mashkiza us par sajao
 
   6
-  Ab iss silsilay ko hai aagay barhana
-  Jab aao tu bachoon ko humrah lana
-  Unhein yeh adab our saleeqa sikhana
-  Wirasat yeh naslon ko tum sonp jana
-  Jo Zahra se wadah kiya woh nibhao
+  Ab is silsile ko hai aage barhaana
+  Jab aao to bachchoṅ ko hamraah laana
+  Unheṅ yeh adab aur saliqa sikhaana
+  Wiraasat yeh nasloṅ ko tum sauṅp jaana
+  Jo Zahra se waada kiya woh nibhao
 
   7
-  Yeh Azlan-o- Mesum jahan ko batana
-  Sheh-e-dein ko inn sab ne tanha na chora
-  Hum inn ko bhi hone nahi dein gay tanha
-  Duaein humein dein gi khud Bibi Zahra
-  Dilon ki muradein yahan aa ke pao
+  Yeh Azlan o Mesum jahaaṅ ko bataana
+  Shah-e-diṅ ko in sab ne tanha na chhora
+  Hum in ko bhi hone nahiṅ deṅ ge tanha
+  Duaeṅ hameṅ deṅ gi khud Bibi Zahra
+  Diloṅ ki muraadeṅ yahaaṅ aa ke pao
 ---
 
 شہیدوں کے ہیں یہ جنازے

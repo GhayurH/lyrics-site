@@ -16,22 +16,22 @@ romanLyrics: |-
   Bhai ka gala katta behan dekh rahi hai
   Maqtal meiṅ kisi maaṅ ki sada gunj rahi hai
   Aa ae mere Husain meri god meiṅ aaja
-  Aaja mere bache meri aaghosh meiṅ aaja
+  Aaja mere bachche meri aaghosh meiṅ aaja
 
   1
   Mere liye ae laal tu Asghar ki tarah hai
-  Godi meri gehwara hai bistar ki tarah hai
+  Godi meri gehwaara hai bistar ki tarah hai
   Is dhup meiṅ daaman mera chaadar ki tarah hai
 
   2
-  Maiṅ maaṅ huṅ mera dil nahiṅ sine meiṅ sambhalta
+  Main maaṅ huṅ mera dil nahiṅ sine meiṅ sambhalta
   Naazuk ye badan tera ye jalta hua sehra
   Aur us pe sitam ye hai ke tu reh gaya pyaasa
 
   3
-  Maiṅ god meiṅ le luṅ tujhe sine se laga luṅ
-  Sine pe Sakina ki tarah tujh ko sula luṅ
-  Sine ke tere tir maiṅ palkoṅ se nikaaluṅ
+  Main god meiṅ le luṅ tujhe sine se lagaa luṅ
+  Sine pe Sakina ki tarah tujh ko sulaa luṅ
+  Sine ke tere tir main palkoṅ se nikaaluṅ
 
   4
   Aakar mere zaanu pe jo so jaate the beta
@@ -41,7 +41,7 @@ romanLyrics: |-
   5
   Teri bhi to aulaad hai tu bhi to padar hai
   Aulaad ka gham kya hai ye tujh ko bhi khabar hai
-  Gham bache ka seh jaye ye kis maaṅ ka jigar hai
+  Gham bachche ka seh jaaye ye kis maaṅ ka jigar hai
 
   6
   Tu let gaya thak ke to is jalti zamiṅ par
@@ -49,14 +49,14 @@ romanLyrics: |-
   Mat khaak pe so laal teri maaṅ hai yahiṅ par
 
   7
-  Jo dil pe tere guzri maiṅ sab dekh rahi thi
+  Jo dil pe tere guzri main sab dekh rahi thi
   Har laash uthaane meiṅ tere saath gayi thi
   Ab baat wo kehti huṅ jo bachpan meiṅ kahi thi
 
   8
   Nauhe meiṅ bayaaṅ kaise kareṅ Sarwar o Rehaan
   Parh sakta nahiṅ koi bhi ye dard ka Quraan
-  Maaṅ kehti thi reh jaye na dil meiṅ mere armaan
+  Maaṅ kehti thi reh jaaye na dil meiṅ mere armaan
 
 ---
 

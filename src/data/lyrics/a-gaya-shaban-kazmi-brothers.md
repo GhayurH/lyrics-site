@@ -9,26 +9,26 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Khushiyaan manao narey lagao Rab ne kiya Ahsan
-  Le kar khush qismat daman mein ismat ke Quran
+  Khushiyaaṅ manao naare lagao Rab ne kiya ehsaan
+  Le kar khush qismat daaman mein ismat ke Quraan
 
   1
-  Nabiyon waliyon ka sar khum hai yani yeh Shaban-e-Yakam hai
-  Mohsin Rab par Aliya karne aayi hain Ahsan
-  Ummat-e-Muslima jane sari kalma hai pehchan hamari
-  Teen Shaban ko Rab ne bheji kalmay ki pehchan
+  Nabiyoṅ waliyoṅ ka sar kham hai yaani yeh Shabaan-e-Yakam hai
+  Mohsin Rab par Aaliya karne aayi haiṅ ehsaan
+  Ummat-e-Muslima jaane saari kalma hai pehchaan hamaari
+  Tin Shabaan ko Rab ne bheji kalme ki pehchaan
 
   2
-  Haider ke akas ki aamad chaar ko hai Abbas ki aamad
-  Aaya hai Toheed-e-Khuda ke pardon ka nigran
-  Lo Shaban ki saat hai aayi sift se milney zaat hai aayi
-  Dekhney apna husan Hasan ke ghar aaya Yazdan
+  Haider ke aks ki aamad chaar ko hai Abbaas ki aamad
+  Aaya hai Tauhid-e-Khuda ke pardoṅ ka nigraaṅ
+  Lo Shabaan ki saa'at hai aayi sifat se milne zaat hai aayi
+  Dekhne apna husn Hasan ke ghar aaya Yazdaaṅ
 
   3
-  Utari hai tasveer-e-Payamber husan bhi bola Allaho Akbar
-  Husan-e-Yousuf ki khaliq hai Akbar ki muskaan
-  Pak Hussain our Ghazi aaye Qasim-o-Akbar, Mehdi aaye
-  Dheray dheray utari sorat Sorah Aal-e-Imran
+  Utaari hai tasvir-e-Payambar husn bhi bola Allahu Akbar
+  Husn-e-Yusuf ki khaaliq hai Akbar ki muskaan
+  Paak Husain aur Ghaazi aaye Qaasim o Akbar, Mehdi aaye
+  Dhire dhire utri surat Sura-e-Aal-e-Imraan
 ---
 
 خوشیاں مناؤ نعرے لگاؤ رب نے کیا احسان

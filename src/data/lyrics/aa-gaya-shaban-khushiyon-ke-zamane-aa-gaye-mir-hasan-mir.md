@@ -11,34 +11,34 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aa Gaya Shaban Khushiyon Ke Zamane Aa Gaye
-  Rone Walay Mehfilon Mein Muskurane Aa Gaye
-  Koan Aaya Hai Zameen Par Ban Ke Zeenat Baap Ki
-  Panjtan Khud Shoq Mein Jhola Jholane Aa Gaye
+  Aa gaya Shabaan khushiyoṅ ke zamaane aa gaye
+  Rone waale mehfiloṅ meiṅ muskuraane aa gaye
+  Kaun aaya hai zamin par ban ke zinat baap ki
+  Panjtan khud shauq meiṅ jhula jhulaane aa gaye
 
   2
-  Pyas Bachpan Mein Bujha Kar Sheh Ki Ghazi Ne Kaha
-  Dekhiye Baba Humein Waday Nibhane Aa Gaye
-  Main Alam Le Kar Chala Tu Ayi Ghazi Ki Sada
-  Ho Mubarak Ab Tumhein Bazu Katane Aa Gaye
+  Pyaas bachpan meiṅ bujha kar sheh ki Ghazi ne kaha
+  Dekhiye Baba hameiṅ waade nibhaane aa gaye
+  Main alam le kar chala to aai Ghazi ki sada
+  Ho mubaarak ab tumheiṅ baazu kataane aa gaye
 
   3
-  Dekhne Sidra Se Aagaye Ke Manazir Jibraeel
-  Fatima Zahra Ke Ghar Chaki Chalane Aa Gaye
-  Shikwa Qismat Se Na Karna Jaun Se Bole Hussain
-  Ab Tu Razi Hai Tujhe Hum Khud Manane Aa Gaye
+  Dekhne Sidra se aage ke manaazir Jibraail
+  Fatima Zahra ke ghar chakki chalaane aa gaye
+  Shikwa qismat se na karna Jaun se bole Husain
+  Ab to raazi hai tujhe ham khud manaane aa gaye
 
   4
-  Qabar Mein Pohancha Jo Momin Aayi Baleen Se Sada
-  Aye Farishto Jao Kyun Iss Ko Jagane Aa Gaye
-  Main Ne Likha Tha Fidak Ki Malika Tujh Ko Salam
-  Khar Mein Kuch Loag Mera Ghar Jalane Aa Gaye
+  Qabr meiṅ pahuncha jo momin aai baaliṅ se sada
+  Ae farishto jaao kiuṅ is ko jagaane aa gaye
+  Main ne likha tha Fadak ki malika tujh ko salaam
+  Khaar meiṅ kuchh log mera ghar jalaane aa gaye
 
   5
-  Dekh Kar Manzar Najaf Se Karbala Tak Youn Laga
-  Jaise Qayam Ki Hakomat Ke Zamane Aa Gaye
-  Iss Jahan Mein Aye Takallum Hum Faqeer-e-Buturab
-  Dushman-e-Zahra Ko Mati Mein Milane Aa Gaye
+  Dekh kar manzar Najaf se Karbala tak yuṅ laga
+  Jaise Qaaim ki hukumat ke zamaane aa gaye
+  Is jahaaṅ meiṅ ae Takallum ham faqir-e-Bu Turaab
+  Dushman-e-Zahra ko mitti meiṅ milaane aa gaye
 ---
 
 ۱

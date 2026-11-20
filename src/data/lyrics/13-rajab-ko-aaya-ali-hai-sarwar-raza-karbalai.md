@@ -1,42 +1,43 @@
 ---
-title: "۱۳ رجب کو آیا علی ہے سرور رضا کربلائی"
-alternateTitle: "13 Rajab Ko Aaya Ali Hai Sarwar Raza Karbalai"
+title: "۱۳ رجب کو آیا علی ہے"
+alternateTitle: "13 Rajab Ko Aaya Ali Hai"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
 kalamType: "Manqabat"
 poet: "Asif"
+reciter: "Sarwar Raza Karbalai"
 tags: []
 aliases: []
 published: false
 romanLyrics: |-
   1
-  13 Rajab Ko Aaya Ali Hai Sarwar Raza Karbalai
-  Dewar-e-Kaba Hans Kar Khuli Hai
-  Kabay Mein Jis Dam Maula Jo Aaye
-  But Keh Ke Bhagay Aaya Ali Hai
+  Terah Rajab ko aaya Ali hai
+  Diwaar-e-Kaaba hans kar khuli hai
+  Kaabe mein jis dam Maula jo aaye
+  But keh ke bhaage, aaya Ali hai
 
   2
-  Zair-e-Zameen Se Arsh-e-Olla Tak
-  Har Ja Pe Dekho Shair-e-Jali Hai
-  Dekhi Sakhawat Hatam Yeh Bola
-  Sab Se Bara Yeh Jag Mein Sakhi Hai
+  Zer-e-zamin se Arsh-e-Aala tak
+  Har jaa pe dekho sher-e-jali hai
+  Dekhi sakhawat Haatim yeh bola
+  Sab se bara yeh jag mein sakhi hai
 
   3
-  Bolay Payamber Sun Le Khudai
-  Mera Yeh Bhai Mera Wasi Hai
-  Dekha Hai Main Ne Sajti Sanwarti
-  Terah Rajab Ko Har Ik Ghali Hai
+  Bole Payambar sun le khudai
+  Mera yeh bhai mera wasi hai
+  Dekha hai main ne sajti sanwarti
+  Terah Rajab ko har ik gali hai
 
   4
-  Saifullah Bhi Hain Yadullah Bhi Hain
-  Nazaan Khud Inn Par Rab-e-Jali Hai
-  Asif Ya Sarwar Tere Gadagar
-  Kehte Hain Dono Haq Ka Wali Hai
+  Saifullah bhi haiṅ Yadullah bhi haiṅ
+  Naazaaṅ khud in par Rab-e-jali hai
+  Aasif ya Sarwar tere gadaagar
+  Kehte haiṅ donoṅ Haq ka wali hai
 ---
 
 ۱
-۱۳ رجب کو آیا علی ہے سرور رضا کربلائی
+۱۳ رجب کو آیا علی ہے
 دیوارِ کعبہ ہنس کر کھلی ہے
 کعبے میں جس دم مولا جو آئے
 بت کہہ کے بھاگے، آیا علی ہے

@@ -11,27 +11,27 @@ published: false
 romanLyrics: |-
   1
   Aa baba kar madad meri hun aa baba
-  Main apni chadar nayi mangdi mere veer nu kafan pawa baba
-  Parday layi munh te baba assi waal pa lay ne
-  Kinj taiz hawa wich chupna way chehra aye aap sikha baba
+  Main apni chaadar nain mangdi mere vir nu kafan pawa baba
+  Parde lai munh te baba asin waal pa lae ne
+  Kinj tez hawa wich chhupna we chehra ae aap sikha baba
 
   2
-  Amari di pak chadar mere kol si amanat
-  Jadoon shamiyaan chadar lut layi ki hoya maa da haal suna baba
-  Majbori mere samjhin karin moaf mainu baba
-  Tere naa di gawahi magrif wich diti Zainab baaj rida baba
+  Amaari di paak chaadar mere kol si amaanat
+  Jadon shaamiyaan chaadar lut lai ki hoya maan da haal suna baba
+  Majburi meri samjhin karin maaf mainu baba
+  Tere naan di gawaahi maghrib wich ditti Zainab baaj rida baba
 
   3
-  Shabir zeen chad ke teraan te aa gaya aye
-  Onnay aakhri sajda karna aye teraan toon aan laha baba
-  Kal walaan naal maa ne maqtal si saaf kita
-  Aj veer di lash way pathraan wich oddi lash toon pathar hata baba
+  Shabbir zin chhad ke teraan te aa gaya ae
+  Unne aakhri sajda karna ae teraan tun aan laah baba
+  Kal waalaan naal maan ne maqtal si saaf kita
+  Aj vir di laash we pathraan wich ohdi laash tun pathar hata baba
 
   4
-  Jiwein oh khon roway sanu na toor deway
-  Sajjad nu hosla dewan layi ik wari seene la baba
-  Akbar aye sain aakhay rasiyaan pawan toon pehlay
-  Aa dowein mil ke lashaan de tukray kariye ik ja baba
+  Jiwen oh khun rowe saanu na tur dewe
+  Sajjad nu hausla dewan lai ik waari sine la baba
+  Akbar ae saain aakhe rassiyaan paawan tun pehle
+  Aa dowen mil ke laashaan de tukre kariye ik ja baba
 ---
 
 ۱

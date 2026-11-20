@@ -1,7 +1,7 @@
 ---
 title: "آ دساں واں شان تیکوں مصطفیٰ دے ویر دا"
 recitationId: "aa-sunawan-shan-teno-mustafa-de-veer-da"
-alternateTitle: "Aa dasaaṅ waaṅ shaan tekoṅ Mustafa de vir da"
+alternateTitle: "Aa Dasaaṅ Waaṅ Shaan Tekoṅ Mustafa De Vir Da"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -23,7 +23,7 @@ romanLyrics: |-
 
   3
   Paak farman hai Nabi da mede Maula de kite
-  Hai ibadat chehra dekhan, eṅ Khuda de Sher da
+  Hai ibadat chehra dekhan, eṅ Khuda de sher da
 
   4
   Saada Maula saada Haadi saada Waris hai Ali
@@ -31,7 +31,7 @@ romanLyrics: |-
 
   5
   Main haaṅ naukar aonda Asghar, jo hai Khaliq da Wali
-  Mekoṅ milda ae eṅ jahaaṅ te, sadqa Khaibar Gir da
+  Mekoṅ milda ae eṅ jahaan te, sadqa Khaibar Gir da
 ---
 
 آ دساں واں شان تیکوں مصطفیٰ دے ویر دا

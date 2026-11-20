@@ -12,20 +12,20 @@ published: false
 romanLyrics: |-
   1
   Aa bhi jao Imam-e-Zamana
-  Sare raste sajaye howay hain
-  Hum bhi palkein bichaye howay hain
-  Al-Ajal Al-Ajal keh rahe hain ashk aankhon se ab beh rahe hain
-  Taliban our Daish ke Mula hum musalsal sitam seh rahe hain
-  Deed teri bina mar na jaein chand sansein bachaye howay hain
-  Shak jo karte hain Ghiabat pe teri sar chupaein gaye kis tarha oss pal
-  Majlis-e-Shah-e-Deen ke woh munkir bhag paein gaye kis tarha oss pal
-  Aa ke majlis karaiye barpa hum ne benner lagaye howay hain
-  Aap aaein gaye jab tu aye Mula jashan milar manaein gaye momin
-  Teri dadi ke qatil lahad se kar ke bahir jalaein gaye momin
-  Gasibon ke sabhi raaz momin dil mein apne chupaye howay hain
-  Zamin-e-Do Jahan mere Mula rukh se parda hata dijiye ab
-  Deed Afraz ko bakhsh dijiye aaiye aaiye aaiye ab
-  Hum khiyalon mein Kabay ki chat par Parcham-e-Haq sajaye howay hain
+  Saare raaste sajaaye hue haiṅ
+  Hum bhi palkeṅ bichhaaye hue haiṅ
+  Al-ajal al-ajal keh rahe haiṅ ashk aaṅkhoṅ se ab beh rahe haiṅ
+  Taliban aur Daish ke Maula hum musalsal sitam seh rahe haiṅ
+  Did teri bina mar na jaaeṅ chand saanseṅ bachaaye hue haiṅ
+  Shak jo karte haiṅ ghaybat pe teri sar chhupaaeṅ ge kis tarah us pal
+  Majlis-e-Shaah-e-Diṅ ke woh munkir bhaag paaeṅ ge kis tarah us pal
+  Aa ke majlis karaaiye barpa hum ne banner lagaaye hue haiṅ
+  Aap aaeṅ ge jab to ae Maula jashn mil kar manaaeṅ ge momin
+  Teri daadi ke qaatil lahad se kar ke baahar jalaaeṅ ge momin
+  Ghaasiboṅ ke sabhi raaz momin dil meiṅ apne chhupaaye hue haiṅ
+  Zaamin-e-do jahaaṅ mere Maula rukh se parda hataa dijiye ab
+  Did Afraz ko bakhsh dijiye aaiye aaiye aaiye ab
+  Hum khayaaloṅ meiṅ Kaabe ki chhat par parcham-e-haq sajaaye hue haiṅ
 ---
 
 ۱

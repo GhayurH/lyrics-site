@@ -10,23 +10,23 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aa Asghar bin tere main chain kahan se paon
-  Aa laut ke aa ja lal tere jee bhar ke naaz uthaon
-  Meri aankh ka tara hai tu mujh ko jan se pyara hai
-  Maa dukhyari ke jeene ka tu hi lal sahara hai
-  Tujhe chor ke tanha maqtal mein main kaisay Sham ko jaon
-  Teri woh masoom adaein teri yaad dilati hain
-  Tere pyar ki woh sab batein mujh ko bohat rulati hain
-  Main teri judai mein beta ro ro ke mar na jaon
-  Loriyon walay yeh tu tere naaz uthane ke din they
-  Aankhon mein teri khushiyon ke khuwab sajane ke din they
-  Aa laut ke Asghar aa beta tera kurta main badlaon
-  Bhool nahi sakti maa Asghar pyasay hont tere beta
-  Khali gaud hai our zindaan hai aa ja maa ke pas aa ja
-  Aa nanhay mujahid main teri ashkon se pyas bhujaon
-  Kitni hai be chain Sakina tere naaz uthane ko
-  Subha -o- sham tarasti hai woh tera dil behlane ko
-  Teri ladli behan Sakina ka main dil kaisay behlaon
+  Aa Asghar bin tere main chain kahaaṅ se paauṅ
+  Aa laut ke aa ja laal tere ji bhar ke naaz uthaauṅ
+  Meri aaṅkh ka taara hai tu mujh ko jaan se pyaara hai
+  Maaṅ dukhyaari ke jine ka tu hi laal sahaara hai
+  Tujhe chhor ke tanha maqtal mein main kaise Shaam ko jaauṅ
+  Teri woh maasum adaaeṅ teri yaad dilaati haiṅ
+  Tere pyaar ki woh sab baateṅ mujh ko bohat rulaati haiṅ
+  Main teri judaai mein beta ro ro ke mar na jaauṅ
+  Loriyoṅ waale yeh to tere naaz uthaane ke din the
+  Aaṅkhoṅ mein teri khushiyoṅ ke khwaab sajaane ke din the
+  Aa laut ke Asghar aa beta tera kurta main badlaauṅ
+  Bhul nahiṅ sakti maaṅ Asghar pyaase hont tere beta
+  Khaali god hai aur zindaaṅ hai aa ja maaṅ ke paas aa ja
+  Aa nanhe mujaahid main teri ashkoṅ se pyaas bujhaauṅ
+  Kitni hai bechain Sakina tere naaz uthaane ko
+  Subah o shaam tarasti hai woh tera dil behlaane ko
+  Teri laadli behan Sakina ka main dil kaise behlaauṅ
 ---
 
 ۱

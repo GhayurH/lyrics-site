@@ -11,36 +11,36 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Panch barah chodah ka karam
-  Deta hai darweish sadaein ghali ghali har dam
-  Kalay kapron mein kehta hai Kaba bhi har dam
-  Eid ka manzar har so hai our surkh hain sab ke kaprey
-  Hanstay milein gay tum ko jahan mein sare roney walay
-  Dekho Rajab ka our Shabaan ka aaya hai mosam
+  Paaṅch baarah chaudah ka karam
+  Deta hai darwesh sadaaeṅ gali gali har dam
+  Kaale kaproṅ meiṅ kehta hai Kaaba bhi har dam
+  Eid ka manzar har su hai aur surkh haiṅ sab ke kapre
+  Hanste mileṅ ge tum ko jahaaṅ meiṅ saare rone waale
+  Dekho Rajab ka aur Shaabaan ka aaya hai mausam
 
   2
-  Roz farishtay dar par mere sajdah karne aaein
-  Tofano mein himmat kab hai mujh se aankh milaein
-  Main ne laga rakha hai ghar par Ghazi ka parcham
-  Maa ki gaud se qabar talak woh haq ka sabaq rattay hain
-  Maula Ali ke chahney walay kab pichey hattay hain
-  Taig se gardan katti rahi par kehte rahe Meesum
+  Roz farishte dar par mere sajda karne aaeṅ
+  Tufaanoṅ meiṅ himmat kab hai mujh se aaṅkh milaaeṅ
+  Maiṅ ne laga rakha hai ghar par Ghazi ka parcham
+  Maaṅ ki god se qabr talak woh haq ka sabaq ratte haiṅ
+  Maula Ali ke chaahne waale kab pichhe hatte haiṅ
+  Tegh se gardan katti rahi par kehte rahe Maisam
 
   3
-  Fakhar hai hum ko Lal tere melay mein hum hain shamil
-  Aap Ali ke betay hain bas aap hain peer-e-kamil
-  Sehwan mein ik shoor malangon ka hai yeh dam dam
-  Shukar ka sajdah kar ke aksar maa yeh meri boli hai
-  Sab se bari khuwaish yeh meri pori ho jati hai
-  Hath utha kar karta hai ab beta mera matam
+  Fakhr hai hum ko Laal tere mele meiṅ hum haiṅ shaamil
+  Aap Ali ke bete haiṅ bas aap haiṅ pir-e-kaamil
+  Sehwan meiṅ ik shor malangoṅ ka hai yeh dam dam
+  Shukr ka sajda kar ke aksar maaṅ yeh meri boli hai
+  Sab se bari khwaahish yeh meri puri ho jaati hai
+  Haath utha kar karta hai ab beta mera maatam
 
   4
-  Inn chodah masoomo ne masoom banaya hum ko
-  Inn ke waseelay se rab ne aapas mein milaya hum ko
-  Hazrat-e-hawa se mil kar yeh kehne lagay Aadam
-  Asal malangon mein baitho Sajjad tu tum bhi jano
-  Sajdoon ki qeemat bhi samjho matam ko bhi mano
-  Sur bhi yeh hai taal bhi yeh hai our yehi sargam
+  In chaudah maasumoṅ ne maasum banaaya hum ko
+  In ke wasile se Rab ne aapas meiṅ milaaya hum ko
+  Hazrat-e-Hawwa se mil kar yeh kehne lage Aadam
+  Asal malangoṅ meiṅ baitho Sajjad to tum bhi jaano
+  Sajdoṅ ki qimat bhi samjho maatam ko bhi maano
+  Sur bhi yeh hai taal bhi yeh hai aur yahi sargam
 ---
 
 ۱

@@ -13,7 +13,7 @@ aliases: ["Aagaya Bazar Ali"]
 published: true
 romanLyrics: |-
   Aa gaya bazaar Ali Akbaram
-  Ghash meiṅ hai bimar Ali Akbaram
+  Ghash mein hai bimar Ali Akbaram
 
   1
   Ashk baha le ye maaṅ sadqa nikale ye maaṅ
@@ -26,22 +26,22 @@ romanLyrics: |-
   Chalti hai talwaar Ali Akbaram
 
   3
-  Aa gayi Shaam-e-bala hoti hai maaṅ berida
+  Aa gayi Shaam-e-balaa hoti hai maaṅ berida
   Bhul gaye maaṅ ko kya sunte nahiṅ kiuṅ sada
   Maaṅ ke madadgaar Ali Akbaram
 
   4
   Gham se chhurao use shakl dikhao use
-  Le ke to aao use bhul na jao use
+  Le ke to aao use bhul na jaao use
   Sughra hai bimar Ali Akbaram
 
   5
-  Wo jo hai maaṅ ki misaal Zainab-e-bargashta haal
-  Jis ne rakha hai khayal paala hai athara saal
-  Zainab-e-naachaar Ali Akbaram
+  Wo jo hai maaṅ ke misaal Zainab bargashta haal
+  Jis ne rakha hai khayaal paala hai athaara saal
+  Zainab naachaar Ali Akbaram
 
   6
-  Ae mere karyal jawaaṅ maaṅ ke bandhi resmaaṅ
+  Ae mere kariyal jawaaṅ maaṅ ke bandhi resmaaṅ
   Chalne ko hai kaarwaaṅ tum ho na jaane kahaaṅ
   Mil to le ek baar Ali Akbaram
 
@@ -52,13 +52,13 @@ romanLyrics: |-
 
   8
   Aa gaya darbaar-e-Shaam jama haiṅ sab khaas o aam
-  Hans raha hai belagaam Bibiyoṅ ka le ke naam
+  Hans raha hai belagaam bibiyoṅ ka le ke naam
   Majma-e-aghyaar Ali Akbaram
 
   9
   Hai ye sada-e-Naved ghar pe jo aaye Naved
   Sadqa jo paaye Naved le ke wo jaaye Naved
-  Ae mere sarkar Ali Akbaram
+  Ae mere sarkaar Ali Akbaram
 ---
 
 آ گیا بازار علی اکبرم

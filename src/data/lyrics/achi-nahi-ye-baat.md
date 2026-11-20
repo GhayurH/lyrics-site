@@ -1,6 +1,6 @@
 ---
 title: "اچھی نہیں یہ بات نہ رویا کرو بی‌بی"
-alternateTitle: "Achi Nahi Ye Baat"
+alternateTitle: "Achhi Nahiṅ Ye Baat"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -11,41 +11,41 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ashur ki shab haye sakina ka wo rona
-  Aur sayyade mazlum ka beti se ye kehna
-  Are tu roye mai ye dekh nahi sakta sakina
-  Achi nahi ye baat na roya karo bibi
-  Pehlu meiṅ kabhi maa ke bhi soya karo bibi
+  Aashur ki shab haaye Sakina ka woh rona
+  Aur Sayyid-e-Mazlum ka beti se ye kehna
+  Are tu roye main ye dekh nahiṅ sakta Sakina
+  Achhi nahiṅ ye baat na roya karo Bibi
+  Pehlu meiṅ kabhi maaṅ ke bhi soya karo Bibi
 
   1
-  Kya hove kisi shab ko jo hum ghar may na aaye
-  Tum hum ko na paao tumhe hum bhi nahi paaye
-  Tadpogi nahi dard se ye waada karo bibi
+  Kya hue kisi shab ko jo hum ghar meiṅ na aaeṅ
+  Tum hum ko na paao tumheṅ hum bhi nahiṅ paaeṅ
+  Tarpo gi nahiṅ dard se waada karo Bibi
 
   2
-  Baitha karo kuch dayr charaghoṅ ko bhuja kar
+  Baitha karo kuch der charaaghoṅ ko bujha kar
   Samjha karo is khaak ko ae laadli bistar
-  Baali kabhi yuṅ hi nahi pehna karo bibi
+  Baali kabhi yuṅ hi nahiṅ pehna karo Bibi
 
   3
-  Kuch dayr ko ye farz karo hum na rahe gar
-  Baakhi na rahe haath koi rakhne ko sar par
-  Mahol yatimoṅ ka bhi socha karo bibi
+  Kuch der ko ye farz karo hum na raheṅ gar
+  Baaqi na rahe haath koi rakhne ko sar par
+  Maahaul yatimoṅ ka bhi socha karo Bibi
 
   4
   Aadat zara tanhaai meiṅ rehne ki bhi daalo
   Tasvir tasavvur meiṅ asiri ki bana lo
-  Azaad parindo ko na dekha karo bibi
+  Aazaad parindoṅ ko na dekha karo Bibi
 
   5
-  Asghar ko na manus karo pyar se apne
+  Asghar ko na maanus karo pyaar se apne
   Akbar ki urusi ke na dekha karo sapne
-  Sughra ke kareeb itna na baitha karo bibi
+  Sughra ke qariṅ itna na baitha karo Bibi
 
   6
-  Zindan se rehaan sada aati hai aksar
-  Jaise ke sakina se ye farmate ho sarwar
-  Ab darr se layino ke na jaaga karo bibi
+  Zindaan se ye Rehan sada aati hai aksar
+  Jaise ke Sakina se ye farmaate hoṅ Sarwar
+  Ab dar se lainoṅ ke na jaaga karo Bibi
 ---
 
 عاشور کی شب ہائے سکینہ کا وہ رونا

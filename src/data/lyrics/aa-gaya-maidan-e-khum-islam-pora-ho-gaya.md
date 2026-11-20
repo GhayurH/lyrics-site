@@ -1,6 +1,6 @@
 ---
 title: "آ گیا میدانِ خم، اسلام پورا ہو گیا"
-alternateTitle: "Aa Gaya Maidan-e-Khum Islam Pora Ho Gaya"
+alternateTitle: "Aa Gaya Maidan-e-Khum Islam Pura Ho Gaya"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -10,38 +10,38 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aa Gaya Maidan e Khum Islam Pora Ho Gaya Hasnain Akbar
-  Aaj Se Jibreel Tera Kam Pora Ho Gaya
+  Aa gaya maidan-e-Khum, Islam pura ho gaya Hasnain Akbar
+  Aaj se Jibril tera kaam pura ho gaya
 
   1
-  Sar Se Hotey Hotey Kankar Paar Naqa Se Howa
-  Yani Pairon Par Tera Anjam Pora Ho Gaya
-  Mere Atmamto Alaikum Nemati Lakhon Salam
-  Muflisi Mein Bhi Mera Ikram Pora Ho Gaya
+  Sar se hote hote kankar paar naaqa se hua
+  Yani pairoṅ par tera anjaam pura ho gaya
+  Mere atmamtu alaikum ni'mati laakhoṅ salaam
+  Muflisi mein bhi mera ikraam pura ho gaya
 
   2
-  Aik Shab Soye Ali Our Soye Iss Andaz Se
-  Umar Bhar Ki Neend Our Aaram Pora Ho Gaya
-  Aa Gaya Shagirdi e Maula Ali Mein Jis Ghari
-  Loh Ka Jibreel Ko Ilham Pora Ho Gaya
+  Aik shab soye Ali aur soye is andaaz se
+  Umar bhar ki nind aur aaraam pura ho gaya
+  Aa gaya shaagirdi-e-Maula Ali mein jis ghari
+  Lauh ka Jibril ko ilhaam pura ho gaya
 
   3
-  Masnad-e-Sarkar-e-Do Alim Pe Aa Betha Tha Woh
-  Taj Ke Lalach Mein Khud Nelam Pora Ho Gaya
-  Hur Idhar Maqtal Mein Tha Our Hoz-e-Kausar Par Ali
-  Sansein Pori Hotey Hotey Jaam Pora Ho Gaya
+  Masnad-e-Sarkaar-e-do aalam pe aa baitha tha woh
+  Taaj ke laalach mein khud nilaam pura ho gaya
+  Hur idhar maqtal mein tha aur hauz-e-Kausar par Ali
+  Saanseṅ puri hote hote jaam pura ho gaya
 
   4
-  Keh Utha Bait-e-Khuda Bhi Orh Kar Kala Ghilaf
-  Hajiyo Dekho Mera Aehram Pora Ho Gaya
-  Kya Tere Kehne Pe Matam Ruk Gaya Shabeer Ka
-  Sheikh Kiya Tera Khiyal-e-Kham Pora Ho Gaya
+  Keh utha bait-e-Khuda bhi orh kar kaala ghilaaf
+  Hajiyo dekho mera ihraam pura ho gaya
+  Kya tere kehne pe maatam ruk gaya Shabbir ka
+  Sheikh kya tera khayaal-e-khaam pura ho gaya
 
   5
-  Baat Zindaan Se Chali Our Dekhtey Hi Dekhtey
-  Syeda Ke Naam Mulk-e-Sham Pora Ho Gaya
-  Zikar-e-Akmalto Lakum Akbar Fa Haza Par Ruka
-  Our Adhoray Deen Ka Paigham Pora Ho Gaya
+  Baat zindaaṅ se chali aur dekhte hi dekhte
+  Saiyida ke naam mulk-e-Shaam pura ho gaya
+  Zikr-e-akmaltu lakum Akbar fa haaza par ruka
+  Aur adhure din ka paighaam pura ho gaya
 ---
 
 آ گیا میدانِ خم، اسلام پورا ہو گیا حسنین اکبر

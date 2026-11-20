@@ -12,7 +12,7 @@ tags: []
 aliases: ["Aagaya Qafla", "Aagaya Khafela"]
 published: true
 romanLyrics: |-
-  Sadaat watan aa gaye
+  Sadaat-e-watan aa gaye
   Bibi Fizza ka hai marsiya
   Jit ke jang-e-Karbobala
   Lut ke pardes meiṅ
@@ -36,7 +36,7 @@ romanLyrics: |-
 
   4
   Bibi Fizza ne Sughra se phir ye kaha
-  Aa sunaauṅ tujhe maiṅ wo sab maajra
+  Aa sunaauṅ tujhe main wo sab maajra
   Kaise Aal-e-Muhammad ko luta gaya
 
   5
@@ -45,13 +45,13 @@ romanLyrics: |-
   Qatl subh-e-daham ho gaye aqraba
 
   6
-  Hum shabih-e-Payambar ke neza laga
+  Ham-shabih-e-Payambar ke neza laga
   Tere Asghar ki gardan pe tir-e-jafa
   Laasha maqtal meiṅ Qasim ka raunda gaya
 
   7
   Baad-e-Abbas zulm o sitam ka safar
-  Taaqat-e-sabr hai to kahuṅ nauha gar
+  Taaqat-e-sabr hai to kahuṅ nauhagar
   Kund khanjar tha aur Fatema ka pisar
 
   8
@@ -60,7 +60,7 @@ romanLyrics: |-
   Shaam o Kufa se zindaṅ gaye nange sar
 
   9
-  Nauha Irfan o Mazhar mukammal hua
+  Nauha-e-Irfan o Mazhar mukammal hua
   Ek ek lafz Fizza ka hai marsiya
   Dukhtar-e-Shaah ko sun ke ghash aa gaya
 ---

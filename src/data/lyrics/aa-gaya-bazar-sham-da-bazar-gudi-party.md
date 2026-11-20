@@ -1,6 +1,6 @@
 ---
-title: "آ گیا بازار شام دا، بازار گڈی پارٹی"
-alternateTitle: "Aa Gaya Bazar Sham Da Bazar Gudi Party"
+title: "آ گیا بازار شام دا بازار"
+alternateTitle: "Aa Gaya Baazaar Shaam Da Baazaar"
 language: "Panjabi"
 lang: "pa-Arab"
 direction: "rtl"
@@ -10,38 +10,38 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aa gaya bazar Sham da bazar Gudi Party
-  Sajjad di rat wadh gayi jadon wekhay ne may khar
-  Bheer bazari hoor wadhao ral sare jashan manao
-  Kita zalim ne aye ayelan aye badlay lain aa jao
+  Aa gaya baazaar Shaam da, baazaar
+  Sajjaad di rat wadh gayi jadoṅ wekhe ne mai khwaar
+  Bhir baazaari hor wadhaao, ral saare jashan manaao
+  Kita zaalim ne ae ailaan, ae badle lain aa jaao
 
   2
-  Aye dhiyaan ohdiyan aayiyaan jehra si Haider Karrar
-  Kita aynj da istaqbal aye walaan da rang hoya lal aye
-  Kalma gowaan sang barsaye turna bohat mohal aye
-  Hasday te Sham puchday ne daso kehra aye salar
+  Ae dhiyaaṅ ohdiyaaṅ aaiyaaṅ jehra si Haider Karraar
+  Kita ainj da istiqbaal ae, waalaaṅ da rang hoya laal ae
+  Kalma goaaṅ sang barsaaye, turna bohat muhaal ae
+  Hasde te Shaam puchhde ne, dasso kehra ae saalaar
 
   3
-  Be rida main qaidan hoiyaan naal naizay chadraan khoiyan
-  Rab de naa koi chadraan deway tak majma haye roiyaan
-  Tatheer diyaan paliyaan nu pe takday bad kirdar
-  Qaidna da sah v mukya na aakh choon athro sokiya
+  Be rida main qaidaaṅ hoiyaaṅ, naal naize chaadraaṅ khoiyaaṅ
+  Rab de naaṅ koi chaadraaṅ deve, tak majma haae roiyaaṅ
+  Tathir diyaaṅ paaliyaaṅ nuṅ pae takde bad kirdaar
+  Qaidnaaṅ da saah vi mukya, na akh choṅ athru sokya
 
   4
-  Baab-e-Saat v maqtal banriya tin din qafila rukya
-  Sun ke aye pandraan azana rayiyaan rondiyaan zaar-o-zaar
-  Khon roya zindagi sari naa le ke Sham muhari
-  Mar janda main Sham taun pehle takda na darbari
+  Baab-e-Saa'aat vi maqtal banriya, tin din qaafila rukya
+  Sun ke ae pandraaṅ azaanaaṅ, rahiyaaṅ rondiyaaṅ zaar o zaar
+  Khun roya zindagi saari, naaṅ le ke Shaam mahaari
+  Mar jaanda main Shaam toṅ pehle, takda na darbaari
 
   5
-  Maloon jadon aye pochiya kehri Zainab pardah daar
-  Har koi wekhay rahwaan Sham diyaan pak oh thawaan
-  Mangna dua har matami jaway sang le ke aye ridawaan
-  Howay jay izn Makhdoma bach jaway tera zawwar
+  Malaun jadoṅ ae puchhiya, kehri Zainab parda daar
+  Har koi wekhe raahwaaṅ Shaam diyaaṅ, paak oh thaawaaṅ
+  Mangna dua har maatami jaave sang le ke ae ridaawaaṅ
+  Hove je izn Makhduma, bach jaave tera zawwaar
 ---
 
 ۱
-آ گیا بازار شام دا، بازار گڈی پارٹی
+آ گیا بازار شام دا بازار
 سجاد دی رت ودھ گئی جدوں ویکھے نے مے خوار
 بھیڑ بازاری ہور ودھاؤ، رل سارے جشن مناؤ
 کیتا ظالم نے اے اعلان، اے بدلے لین آ جاؤ

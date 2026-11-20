@@ -17,41 +17,41 @@ romanLyrics: |-
 
   1
   Sang ki barsaat hai qahqahe haiṅ chaar suṅ
-  Berida hai bibiyaṅ sar se behta hai lahu
+  Berida hai bibiyaaṅ sar se behta hai lahu
   Hans rahe haiṅ Ahl-e-Shaam aa gaya bazaar-e-Shaam
 
   2
-  Ahl-e-shar hai har taraf haath meiṅ pathar liye
-  Hai koi naiza liye hai koi nashtar liye
+  Ahl-e-shar hai har taraf haath meiṅ patthar liye
+  Hai koi naize liye hai koi nashtar liye
   Har taraf hai ek kohraam aa gaya bazaar-e-Shaam
 
   3
-  Tauq hai nauha kunaṅ ro rahi hai beriyaṅ
-  Haye rassi meiṅ bandhi dekhti hai bibiyaṅ
+  Tauq hai nauha kunaaṅ ro rahi hai beriyaaṅ
+  Haaye rassi meiṅ bandhi dekhti hai bibiyaaṅ
   Taaziyane aur Imam aa gaya bazaar-e-Shaam
 
   4
-  Chhin gayi teri rida bach gaya hai la ilaah
+  Chhin gayi teri rida bach gaya hai laa ilaah
   Ab tujhe darbaar meiṅ hai bachaana Karbala
   Ab hai Zainab tera kaam aa gaya bazaar-e-Shaam
 
   5
-  Aasmaṅ haye zamiṅ par tut kar girne ko hai
+  Aasmaaṅ haaye zamiṅ par tut kar girne ko hai
   Dekh kar bemaar ko khaak par girne ko hai
   Hai koi Zainab ko thaam aa gaya bazaar-e-Shaam
 
   6
   Tere baazu chum kar roye the jis ko Ali
   Jis ko rote aaye haiṅ aaj tak saare wali
-  Haye yehi hai wo maqaam aa gaya bazaar-e-Shaam
+  Haaye yehi hai wo maqaam aa gaya bazaar-e-Shaam
 
   7
-  Ro diye Ahl-e-haram tauq ke aazaar par
-  Shaam ke bazaar meiṅ haye ek bemaar par
+  Ro diye ahl-e-haram tauq ke aazaar par
+  Shaam ke bazaar meiṅ haaye ik bemaar par
   Ho gayi mushkil tamaam aa gaya bazaar-e-Shaam
 
   8
-  Rassiyaṅ haiṅ baazuoṅ meiṅ aur naaqe tez tar
+  Rassiyaaṅ haiṅ baazuoṅ meiṅ aur naaqe tez tar
   God se maaoṅ ke bachche gir rahe haiṅ khaak par
   Hashr hai har ek gaam aa gaya bazaar-e-Shaam
 
