@@ -13,6 +13,7 @@ published: true
 romanLyrics: |-
   Haye ye bachi kaun hai
   Ye to Sakina lagti hai
+  Chhaayi hai jis par bebasi
 
   1
   Aati hai maqtal ki taraf
@@ -55,6 +56,7 @@ romanLyrics: |-
 
 ہائے یہ بچی کون ہے
 یہ تو سکینہ لگتی ہے
+چھائی ہے جس پر بے بسی
 
 ۱
 آتی ہے مقتل کی طرف
