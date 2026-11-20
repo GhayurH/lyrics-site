@@ -37,7 +37,7 @@ class QualityTests(unittest.TestCase):
         original = rules_for("source")
         roman = rules_for("roman")
         audit = rules_for("audit")
-        self.assertIn("VERIFIED", original.upper())
+        self.assertIn("RECONSTRUCT", original.upper())
         self.assertIn("source", original.lower())
         self.assertNotIn("Long vowels are", original)
         self.assertIn("Long vowels are", roman)

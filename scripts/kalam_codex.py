@@ -176,9 +176,12 @@ def prompt_for(item: Candidate) -> str:
     from kalam_codex_quality import rules_for
     task = {
         "source": (
-            "Recover only an authoritative, VERIFIED original-language source. "
-            "When unavailable, leave unresolved without inventing Urdu/Shahmukhi. "
-            "Preserve the existing Roman reading; make the smallest supported edit."),
+            "Reconstruct the original-language Urdu/Shahmukhi/other appropriate script "
+            "from the existing Roman transliteration. Roman is sufficient input; "
+            "do not require an external source or stop for lack of verification. "
+            "Keep the existing Roman reading in romanLyrics and produce a faithful "
+            "verse-by-verse source-script edition, choosing conventional spellings "
+            "for ambiguous Roman sounds without adding words or changing meaning."),
         "roman": (
             "Create the complete romanLyrics: |- pronunciation transcription for "
             "the verified original body, respecting every verse and stanza. "
@@ -302,12 +305,21 @@ def main(argv: list[str] | None = None) -> int:
         return execute(item, args)
     except (ReviewError, OSError, subprocess.CalledProcessError) as exc:
         print("kalam-codex:", exc, file=sys.stderr)
+        if args.command == "supervise":
+            from kalam_codex_worker import fatal_stop
+            fatal_stop(str(exc))
+            return 78
         return 2
     except Exception as exc:
         from kalam_codex_worker import WorkerError
-        if not isinstance(exc, WorkerError):
+        from kalam_codex_isolation import IsolationError
+        if not isinstance(exc, (WorkerError, IsolationError)):
             raise
         print("kalam-codex:", exc, file=sys.stderr)
+        if args.command == "supervise":
+            from kalam_codex_worker import fatal_stop
+            fatal_stop(str(exc))
+            return 78
         return 2
 
 

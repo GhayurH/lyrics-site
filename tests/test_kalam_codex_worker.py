@@ -11,6 +11,7 @@ import tempfile
 import unittest
 from types import SimpleNamespace
 from unittest.mock import patch
+import time
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 import kalam_codex_worker as worker
@@ -53,7 +54,8 @@ class WorkerTests(unittest.TestCase):
         unit = worker.service_text(Path("/home/owner/Projects/lyrics-site"))
         self.assertIn("ExecStart=", unit)
         self.assertIn("supervise --confirm-run", unit)
-        self.assertIn("Restart=no", unit)
+        self.assertIn("Restart=on-failure", unit)
+        self.assertIn("RestartPreventExitStatus=78", unit)
         self.assertIn("WantedBy=default.target", unit)
         self.assertNotIn("git push", unit)
         self.assertNotIn("git commit", unit)
@@ -166,6 +168,148 @@ class WorkerTests(unittest.TestCase):
             result = state["results"]["poem.md"]
             self.assertEqual(result["status"], "needs_human")
             self.assertIn("source_modified", [v["code"] for v in result["validation_issues"]])
+
+
+    def test_isolated_copyback_preserves_existing_dirty_files_and_no_git_commit(self):
+        from kalam_codex_isolation import preview_workspace
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            target = repo / "poem.md"
+            target.write_text('---\nlang: ur\nlanguage: Urdu\n---\n۱\nاے حسین تم آؤ',
+                              encoding="utf-8")
+            state = {"version": 1, "results": {}}
+            item = SimpleNamespace(path="poem.md", lang="ur",
+                                   language="Urdu", task="roman")
+            log = Path(folder) / "codex.jsonl"
+            log.write_text("", encoding="utf-8")
+            def fake_codex(workspace, candidate, prompt, model):
+                self.assertNotEqual(workspace.resolve(), repo.resolve())
+                self.assertFalse((workspace / "other.md").exists())
+                p = workspace / candidate.path
+                p.write_text(
+                    '---\nlang: ur\nlanguage: Urdu\nromanLyrics: |-\n'
+                    '  1\n  Ae Husain tum aao\n---\n۱\nاے حسین تم آؤ',
+                    encoding="utf-8")
+                self.assertEqual(
+                    target.read_text(encoding="utf-8"),
+                    '---\nlang: ur\nlanguage: Urdu\n---\n۱\nاے حسین تم آؤ')
+                return 0, log, Path(folder) / "summary"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
+                with patch.object(worker, "invoke_codex", side_effect=fake_codex):
+                    self.assertEqual(
+                        worker.perform_one(repo, item, state, lambda x: "transliterate"), "done")
+            self.assertEqual(state["results"]["poem.md"]["status"], "edited_local")
+            self.assertTrue(state["results"]["poem.md"]["applied"])
+            self.assertIn("romanLyrics: |-", target.read_text(encoding="utf-8"))
+            self.assertEqual((repo / "other.md").read_text(), "Already uncommitted")
+            self.assertEqual(subprocess.run(
+                ["git", "-C", str(repo), "log", "-1", "--pretty=%s"],
+                capture_output=True, text=True).stdout.strip(), "fixture")
+            snapshots = state["results"]["poem.md"]["snapshots"]
+            self.assertEqual(Path(snapshots["before"]).read_text(encoding="utf-8"),
+                             '---\nlang: ur\nlanguage: Urdu\n---\n۱\nاے حسین تم آؤ')
+            self.assertIn("Ae Husain", Path(snapshots["after"]).read_text(encoding="utf-8"))
+
+    def test_validation_error_not_applied_but_snapshots_retained(self):
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            target = repo / "poem.md"
+            before = '---\nlang: ur\nlanguage: Urdu\n---\n۱\nاے حسین تم آؤ'
+            target.write_text(before, encoding="utf-8")
+            state = {"version": 1, "results": {}}
+            item = SimpleNamespace(path="poem.md", lang="ur",
+                                   language="Urdu", task="roman")
+            log = Path(folder) / "codex.jsonl"
+            log.write_text("", encoding="utf-8")
+            def bad_codex(workspace, candidate, prompt, model):
+                (workspace / candidate.path).write_text(
+                    before.replace('اے حسین تم آؤ', 'اے حسن تم آؤ') +
+                    "\nroman english missing", encoding="utf-8")
+                return 0, log, Path(folder) / "summary"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
+                with patch.object(worker, "invoke_codex", side_effect=bad_codex):
+                    self.assertEqual(worker.perform_one(
+                        repo, item, state, lambda _: "audit"), "done")
+            self.assertEqual(target.read_text(encoding="utf-8"), before)
+            row = state["results"]["poem.md"]
+            self.assertFalse(row["applied"])
+            self.assertEqual(row["status"], "needs_human")
+            self.assertIn("source_modified", [x["code"] for x in row["validation_issues"]])
+            self.assertTrue(Path(row["snapshots"]["after"]).exists())
+
+    def test_quota_retry_resumes_same_private_workspace(self):
+        with tempfile.TemporaryDirectory() as folder:
+            repo = self.setup_repo(folder)
+            poem = repo / "poem.md"
+            before = '---\nlang: ur\nlanguage: Urdu\n---\n۱\nاے حسین تم آؤ'
+            poem.write_text(before, encoding="utf-8")
+            state = {"version": 1, "results": {}}
+            item = SimpleNamespace(path="poem.md", lang="ur",
+                                   language="Urdu", task="roman")
+            log = Path(folder) / "codex.jsonl"
+            calls = []
+            def codex_side_effect(workspace, candidate, prompt, model):
+                calls.append(str(workspace))
+                target = workspace / candidate.path
+                if len(calls) == 1:
+                    target.write_text(before + "\nPARTIAL", encoding="utf-8")
+                    log.write_text(json.dumps({
+                        "type": "turn.failed",
+                        "error": {"message": "Quota exceeded, try again at 10:24 PM."}
+                    }) + "\n", encoding="utf-8")
+                    return 1, log, Path(folder) / "summary"
+                self.assertIn("PARTIAL", target.read_text(encoding="utf-8"))
+                target.write_text(
+                    '---\nlang: ur\nlanguage: Urdu\nromanLyrics: |-\n'
+                    '  1\n  Ae Husain tum aao\n---\n۱\nاے حسین تم آؤ',
+                    encoding="utf-8")
+                log.write_text("", encoding="utf-8")
+                return 0, log, Path(folder) / "summary"
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder + "/state"}):
+                with patch.object(worker, "invoke_codex", side_effect=codex_side_effect):
+                    self.assertEqual(worker.perform_one(
+                        repo, item, state, lambda _: "transliterate"), "retry")
+                    self.assertEqual(poem.read_text(encoding="utf-8"), before)
+                    self.assertTrue(state.get("workspace_session"))
+                    self.assertEqual(worker.perform_one(
+                        repo, item, state, lambda _: "transliterate"), "done")
+            self.assertEqual(calls[0], calls[1])
+            self.assertIn("romanLyrics:", poem.read_text(encoding="utf-8"))
+            self.assertEqual(state["results"]["poem.md"]["status"], "edited_local")
+
+    def test_progress_report_shows_task_and_language_and_eta_safely(self):
+        state = {"planned": {"total": 13, "by_task": {"roman": 3, "source": 10},
+                             "by_language": {"ur": 13}},
+                 "results": {"one": {"task": "roman", "lang": "ur",
+                                     "duration_seconds": 20}}}
+        report = worker.progress_report(state)
+        self.assertEqual(report["processed"], 1)
+        self.assertEqual(report["remaining"], 12)
+        self.assertEqual(report["by_language"]["ur"]["processed"], 1)
+        self.assertIsNone(report["rough_remaining_hours"])
+
+    def test_fatal_error_creates_local_action_required_log(self):
+        from kalam_codex_isolation import alert
+        with tempfile.TemporaryDirectory() as folder:
+            result = alert(Path(folder), "Unexpected isolated path", notifier=False)
+            self.assertIn("ACTION REQUIRED", Path(result).read_text())
+            self.assertTrue(result.endswith("ACTION-REQUIRED.log"))
+            self.assertEqual(Path(result).stat().st_mode & 0o777, 0o600)
+
+    def test_watchdog_kills_a_hung_codex_process(self):
+        with tempfile.TemporaryDirectory() as folder:
+            fake = ["python3", "-c", "import time; time.sleep(30)"]
+            item = SimpleNamespace(path="poem.md", task="roman")
+            with patch.dict(os.environ, {"KALAM_CODEX_STATE_DIR": folder}):
+                with patch.object(worker, "codex_command", return_value=fake):
+                    with patch.object(worker, "file_timeout_seconds", return_value=1):
+                        start = time.monotonic()
+                        status, transcript, _ = worker.invoke_codex(
+                            Path(folder), item, "task text", None)
+                        self.assertEqual(status, 124)
+                        self.assertLess(time.monotonic()-start, 9)
+                        self.assertIn("execution timed out",
+                                      transcript.read_text(encoding="utf-8"))
 
 
 if __name__ == "__main__":

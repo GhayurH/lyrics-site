@@ -13,7 +13,7 @@ import json
 import os
 from pathlib import Path
 import re
-import shlex
+import signal
 import shutil
 import subprocess
 import sys
@@ -28,7 +28,7 @@ QUOTA_RE = re.compile(
 TRANSIENT_RE = re.compile(
     r"stream disconnected|connection (?:reset|closed|lost)|"
     r"internal server error|service unavailable|gateway timeout|"
-    r"request timed out|transport error|incomplete response returned|"
+    r"request timed out|execution timed out|transport error|incomplete response returned|"
     r"max_output_tokens", re.I)
 
 
@@ -230,7 +230,35 @@ def codex_command(model: str | None = None) -> list[str]:
             "--json", "-C"]
 
 
+def file_timeout_seconds() -> int:
+    raw = os.environ.get("KALAM_CODEX_FILE_TIMEOUT_SECONDS", "2700")
+    try:
+        seconds = int(raw)
+    except ValueError as exc:
+        raise WorkerError("Invalid KALAM_CODEX_FILE_TIMEOUT_SECONDS: " + raw) from exc
+    if seconds < 60 or seconds > 14400:
+        raise WorkerError("Codex per-file timeout must be 60–14400 seconds")
+    return seconds
+
+
+def _end_process_group(proc: subprocess.Popen) -> None:
+    """Terminate the Codex process tree on timeout, then force kill if needed."""
+    try:
+        os.killpg(proc.pid, signal.SIGTERM)
+    except ProcessLookupError:
+        pass
+    try:
+        proc.wait(timeout=5)
+    except subprocess.TimeoutExpired:
+        try:
+            os.killpg(proc.pid, signal.SIGKILL)
+        except ProcessLookupError:
+            pass
+        proc.wait()
+
+
 def invoke_codex(root: Path, item, prompt: str, model: str | None = None) -> tuple[int, Path, Path]:
+    """Launch Codex only in a private file-scoped directory, never the checkout."""
     transcript, summary = next_log_paths()
     args = codex_command(model) + [str(root), "--output-last-message", str(summary)]
     if model:
@@ -238,21 +266,39 @@ def invoke_codex(root: Path, item, prompt: str, model: str | None = None) -> tup
     args.append("-")
     descriptor = os.open(transcript, os.O_WRONLY | os.O_CREAT | os.O_EXCL, 0o600)
     with os.fdopen(descriptor, "w", encoding="utf-8") as stream:
-        print("Codex:", item.path, item.task, "transcript:", transcript, flush=True)
-        stream.write("# Kalam Codex JSONL and stderr\n")
-        stream.flush()
-        proc = subprocess.run(args, input=prompt, text=True, cwd=root,
-                              stdout=stream, stderr=subprocess.STDOUT)
+        print("Codex (isolated):", item.path, item.task,
+              "transcript:", transcript, flush=True)
+        proc = subprocess.Popen(
+            args, stdin=subprocess.PIPE, stdout=stream,
+            stderr=subprocess.STDOUT, cwd=root, text=True,
+            start_new_session=True)
+        try:
+            proc.communicate(input=prompt, timeout=file_timeout_seconds())
+        except subprocess.TimeoutExpired:
+            _end_process_group(proc)
+            stream.write("\n" + json.dumps({
+                "type": "error", "message":
+                "Codex execution timed out; isolated workspace retained for retry"}) + "\n")
+            stream.flush()
+            return 124, transcript, summary
+        except BaseException:
+            _end_process_group(proc)
+            raise
     return proc.returncode, transcript, summary
 
 
 def update_result(state: dict, item, outcome: str, *, details: str = "",
                   digest: str | None = None, transcript: str = "",
-                  findings: list[dict] | None = None, usage: dict | None = None):
+                  findings: list[dict] | None = None, usage: dict | None = None,
+                  duration_seconds: float = 0.0, applied: bool = False,
+                  snapshots: dict | None = None):
     state["results"][item.path] = {
         "status": outcome, "task": item.task, "detail": details[:500],
         "content_sha256": digest, "transcript": transcript,
         "validation_issues": findings or [], "token_usage": usage,
+        "lang": getattr(item, "lang", ""), "language": getattr(item, "language", ""),
+        "duration_seconds": round(duration_seconds, 2), "applied": applied,
+        "snapshots": snapshots or {},
         "at": utcnow().isoformat(timespec="seconds")}
     state["current_path"] = None
     state["status"] = "running"
@@ -264,43 +310,62 @@ def update_result(state: dict, item, outcome: str, *, details: str = "",
 
 def perform_one(root: Path, item, state: dict, prompt_for, *,
                 model: str | None = None) -> str:
-    """One invocation. The caller owns the lock and schedules any retries."""
+    """Run isolated Codex, validate, then atomically apply a single safe edit."""
+    from kalam_codex_isolation import (
+        IsolationError, apply_file, assert_workspace_clean_scope,
+        finish_session, prepare_workspace, preview_workspace,
+    )
+    from kalam_codex_quality import (
+        original_body, token_usage, validate_text,
+    )
     target = root / item.path
     if not target.is_file() or target.is_symlink():
         update_result(state, item, "missing", details="File disappeared before review")
         return "done"
     before = changed_snapshot(root)
     original_text = target.read_text(encoding="utf-8")
-    previous_sha = sha_file(target)
-    recovery = state.get("current_path") == item.path
+    resume = state.get("current_path") == item.path
+    workdir, session = prepare_workspace(root, item.path, state_home(), state)
     prompt = prompt_for(item)
-    if recovery:
-        prompt += ("\n\nRESUMING AN INTERRUPTED SINGLE-FILE REVIEW: "
-                   "the target may contain partial local edits. Inspect them, "
-                   "preserve verified work, and finish only this file.")
+    if resume:
+        prompt += ("\n\nRESUMING AN INTERRUPTED ISOLATED REVIEW. "
+                   "The selected file already contains partial edits. "
+                   "Inspect and finish them without discarding verified work.")
     state["current_path"] = item.path
     state["current_task"] = item.task
     state["status"] = "running"
     save_state(state)
-    exit_code, transcript, summary = invoke_codex(root, item, prompt, model)
-    # Account for every invocation, including quota retries and failed edits.
-    # The reported turn usage is cumulative; NEVER sum completed turns.
-    from kalam_codex_quality import token_usage, validate_text
+    started = time.monotonic()
+    exit_code, transcript, summary = invoke_codex(workdir, item, prompt, model)
+    duration = max(0.0, time.monotonic() - started)
     usage = token_usage(transcript)
-    if usage is not None:
-        events = state.setdefault("usage_events", {})
-        if str(transcript) not in events:
-            events[str(transcript)] = {
-                "path": item.path, "task": item.task, "usage": usage}
-            save_state(state)
+    events = state.setdefault("usage_events", {})
+    if str(transcript) not in events:
+        events[str(transcript)] = {
+            "path": item.path, "task": item.task, "duration_seconds": round(duration, 2),
+            "usage": usage,
+        }
+        save_state(state)
     after = changed_snapshot(root)
-    unexpected = unsafe_changes(before, after, item.path)
-    if unexpected:
+    extras = unsafe_changes(before, after, item.path)
+    if extras or target.read_text(encoding="utf-8") != original_text:
         state["status"] = "stopped_on_unexpected_edits"
-        state["error"] = "Codex modified other paths: " + ", ".join(unexpected[:25])
+        state["error"] = (
+            "Checkout changed during isolated Codex run: " +
+            (", ".join(extras[:15]) if extras else item.path))
         state["last_transcript"] = str(transcript)
         save_state(state)
-        raise WorkerError(state["error"] + ". Inspect all local changes; nothing was reset")
+        raise WorkerError(state["error"] + "; no isolated content was applied")
+    # Even quota/transient retries MUST be scoped: never trust a modified
+    # workspace or continue an unsafe partial run.
+    try:
+        assert_workspace_clean_scope(workdir, item.path, session["guidance_sha256"])
+    except IsolationError as exc:
+        state["status"] = "stopped_on_unexpected_edits"
+        state["error"] = str(exc)
+        state["last_transcript"] = str(transcript)
+        save_state(state)
+        raise WorkerError(str(exc) + "; isolated workspace preserved") from exc
     errors = transcript_errors(transcript)
     state["last_transcript"] = str(transcript)
     if exit_code:
@@ -312,10 +377,10 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
             state["error"] = errors[-1] if errors else "Codex usage limit"
             save_state(state)
             return "retry"
-        message = next((s for s in reversed(errors) if TRANSIENT_RE.search(s)), None)
+        message = next((msg for msg in reversed(errors) if TRANSIENT_RE.search(msg)), None)
         if message:
             attempts = int(state.get("transient_attempts", 0)) + 1
-            seconds = DELAY_SECONDS[min(attempts - 1, len(DELAY_SECONDS) - 1)]
+            seconds = DELAY_SECONDS[min(attempts-1, len(DELAY_SECONDS)-1)]
             state["transient_attempts"] = attempts
             state["retry_kind"] = "transient"
             state["retry_at"] = (utcnow() + dt.timedelta(seconds=seconds)).isoformat(timespec="seconds")
@@ -326,46 +391,68 @@ def perform_one(root: Path, item, state: dict, prompt_for, *,
         state["status"] = "stopped_on_error"
         state["error"] = f"Codex exit {exit_code}: " + (errors[-1] if errors else "inspect transcript")
         save_state(state)
-        raise WorkerError(state["error"] + " (local changes preserved)")
-    if not target.is_file():
+        raise WorkerError(state["error"] + "; isolated work was preserved")
+    try:
+        orig, new, snap_before, snap_after = preview_workspace(
+            root, item.path, state_home(), session)
+    except IsolationError as exc:
+        state["status"] = "stopped_on_unexpected_edits"
+        state["error"] = str(exc)
+        save_state(state)
+        raise WorkerError(str(exc) + "; isolated workspace preserved") from exc
+    try:
+        updated_text = new.decode("utf-8")
+    except UnicodeDecodeError:
         state["status"] = "stopped_on_error"
-        state["error"] = "Codex removed the selected kalam: " + item.path
+        state["error"] = "Codex produced non-UTF8 poetry: " + item.path
         save_state(state)
         raise WorkerError(state["error"])
-    whitespace = subprocess.run(["git", "-C", str(root), "diff", "--check", "--", item.path])
-    if whitespace.returncode:
-        state["status"] = "stopped_on_error"
-        state["error"] = "Whitespace errors in " + item.path
-        save_state(state)
-        raise WorkerError(state["error"] + "; fix locally, then restart")
-    final_sha = sha_file(target)
-    summary_text = summary.read_text(encoding="utf-8", errors="replace") if summary.exists() else ""
-    outcome = "edited_local" if previous_sha != final_sha else "needs_human"
-    # A partial edit is not a completed missing-language edition. The worker
-    # still advances so unavailable source evidence cannot create a retry loop.
+    findings = validate_text(updated_text, task=item.task)
+    if item.task in ("roman", "audit"):
+        if original_body(original_text) != original_body(updated_text):
+            findings.append({"code": "source_modified", "severity": "error",
+                             "message": "Original-language body changed during Roman task"})
     if item.task in ("source", "roman"):
         from kalam_codex import inspect_text
-        revised = inspect_text(item.path, target.read_text(encoding="utf-8"))
+        revised = inspect_text(item.path, updated_text)
         if revised.task == item.task or revised.task == "blocked":
-            outcome = "needs_human"
-    revised_text = target.read_text(encoding="utf-8")
-    findings = validate_text(revised_text, task=item.task)
-    if item.task in ("roman", "audit"):
-        from kalam_codex_quality import original_body
-        if original_body(original_text) != original_body(revised_text):
-            findings.append({"code": "source_modified", "severity": "error",
-                             "message": "Original-language body changed during Roman-only task"})
-    # Even a successfully edited poem with mechanical anomalies needs review.
-    # Fixing by inference/repeated model invocations is intentionally forbidden.
-    if findings:
-        outcome = "needs_human"
-    update_result(state, item, outcome, findings=findings, usage=usage, digest=final_sha,
-                  details=("Edited but not human-approved" if outcome == "edited_local"
-                           else "No edit: verify whether evidence was missing") +
+            findings.append({"code": "edition_incomplete", "severity": "error",
+                             "message": "Required edition remains missing"})
+    # No writeback when validation raises a structural error. Warnings can be
+    # preserved as local changes but never treated as editorial approval.
+    fatal = any(finding["severity"] == "error" for finding in findings)
+    applied = False
+    if not fatal:
+        applied = apply_file(root, item.path, orig, new, session)
+        if subprocess.run(
+            ["git", "-C", str(root), "diff", "--check", "--", item.path],
+            stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL).returncode:
+            # Do not undo an applied edit silently; stop and preserve snapshots.
+            state["status"] = "stopped_on_error"
+            state["error"] = "Whitespace check failed after apply: " + item.path
+            save_state(state)
+            raise WorkerError(state["error"])
+    outcome = ("needs_human" if fatal or findings or not applied else "edited_local")
+    summary_text = summary.read_text(encoding="utf-8", errors="replace") if summary.exists() else ""
+    snapshots = {"before": snap_before, "after": snap_after}
+    finished = state.pop("workspace_session", None)
+    update_result(state, item, outcome,
+                  digest=hashlib.sha256(new).hexdigest(),
+                  findings=findings, usage=usage, duration_seconds=duration,
+                  snapshots=snapshots, applied=applied,
+                  details=("Applied but not human-approved" if applied else
+                           "Not applied: incomplete or failed validation") +
                   ("; " + summary_text[:250] if summary_text else ""),
                   transcript=str(transcript))
+    if finished:
+        try:
+            finish_session({"workspace_session": finished})
+        except OSError as exc:
+            print("Workspace cleanup warning (result already saved):", exc,
+                  file=sys.stderr)
     print("Finished:", item.path, outcome,
-          f"({len(findings)} local validation findings)", flush=True)
+          f"({len(findings)} findings; {'applied' if applied else 'not applied'})",
+          flush=True)
     return "done"
 
 
@@ -402,6 +489,17 @@ def supervise(args) -> int:
             priorities[path] = TASK_ORDER.get(scan.task, 9)
         paths.sort(key=lambda path: (priorities[path], path))
         original_count = len(paths)
+        planned_tasks, planned_langs = Counter(), Counter()
+        for rel in paths:
+            item = inspect_text(rel, (ROOT / rel).read_text(encoding="utf-8"))
+            planned_tasks[item.task] += 1
+            planned_langs[item.lang or "unknown"] += 1
+        state["planned"] = {
+            "total": original_count, "by_task": dict(planned_tasks),
+            "by_language": dict(planned_langs),
+            "started_at": state.get("planned", {}).get("started_at") or
+                          utcnow().isoformat(timespec="seconds")}
+        save_state(state)
         print(f"Round 2 worker: {original_count} added kalams, one Codex file at a time",
               "state:", state_file(), flush=True)
         while True:
@@ -470,30 +568,98 @@ def single_run(item, args, prompt_for) -> int:
         return 0
 
 
+def progress_report(state: dict) -> dict:
+    """Informational throughput and conservative ETA; never editorial approval."""
+    import statistics
+    planned = state.get("planned", {})
+    total = int(planned.get("total", 0))
+    results = state.get("results", {})
+    completed = len(results)
+    counts = Counter()
+    languages = Counter()
+    durations: dict[str, list[float]] = {}
+    for result in results.values():
+        task = result.get("task", "unknown")
+        counts[task] += 1
+        languages[result.get("lang") or "unknown"] += 1
+        seconds = float(result.get("duration_seconds") or 0)
+        if seconds > 0:
+            durations.setdefault(task, []).append(seconds)
+    remaining = {
+        task: max(0, int(count) - counts[task])
+        for task, count in planned.get("by_task", {}).items()
+    }
+    estimated_seconds = 0.0
+    enough_samples = bool(remaining)
+    for task, remaining_count in remaining.items():
+        if not remaining_count:
+            continue
+        samples = durations.get(task, [])
+        if len(samples) < 10:
+            enough_samples = False
+            break
+        estimated_seconds += statistics.median(samples) * remaining_count
+    return {
+        "total": total,
+        "processed": completed,
+        "remaining": max(0, total - completed),
+        "percent": round(100 * completed / total, 1) if total else 0,
+        "by_task": {
+            task: {"total": count, "processed": counts[task],
+                   "remaining": max(0, count - counts[task])}
+            for task, count in planned.get("by_task", {}).items()},
+        "by_language": {
+            lang: {"total": count, "processed": languages[lang],
+                   "remaining": max(0, count - languages[lang])}
+            for lang, count in planned.get("by_language", {}).items()},
+        "rough_remaining_hours":
+            round(estimated_seconds / 3600, 1) if enough_samples else None,
+        "estimate_basis": "median duration per task; requires 10 samples of each remaining task",
+    }
+
+
 def show_status(*, json_output: bool = False) -> None:
-    """Report task progress and real Codex JSONL token usage, not estimates."""
     from kalam_codex_quality import usage_report
     state = load_state()
     completed = state["results"]
     counts = Counter(value.get("status") for value in completed.values())
     usage = usage_report(state)
+    progress = progress_report(state)
     report = {
         "state_file": str(state_file()),
         "status": state.get("status"),
         "processed": len(completed),
         "outcomes": dict(counts),
+        "progress": progress,
         "current_path": state.get("current_path"),
         "retry_at": state.get("retry_at"),
         "retry_kind": state.get("retry_kind"),
         "error": state.get("error"),
         "tokens": usage,
+        "latest_snapshots":
+            completed.get(next(reversed(completed)), {}).get("snapshots", {})
+            if completed else {},
+        "action_required_log": str(state_home() / "logs/ACTION-REQUIRED.log"),
     }
     if json_output:
         print(json.dumps(report, indent=2, ensure_ascii=False))
         return
     print("State:", state_file())
-    print("Status:", state.get("status"), "| processed:", len(completed))
-    print("Outcomes:", dict(counts))
+    print("Status:", state.get("status"),
+          "| processed:", len(completed), "| outcomes:", dict(counts))
+    if progress["total"]:
+        print("Progress:", f"{progress['processed']}/{progress['total']}",
+              f"({progress['percent']}%)",
+              "| remaining:", progress["remaining"])
+        for task, details in sorted(progress["by_task"].items()):
+            print("  ", task, f"{details['processed']}/{details['total']}")
+        print("By original language:",
+              ", ".join(f"{lang} {data['processed']}/{data['total']}"
+                        for lang, data in sorted(progress["by_language"].items())))
+        if progress["rough_remaining_hours"] is not None:
+            print("Rough remaining compute time:",
+                  f"{progress['rough_remaining_hours']} hours",
+                  "(based on observed per-task durations; not a deadline)")
     print("Current file:", state.get("current_path") or "(none)")
     if state.get("retry_at"):
         print("Retry:", state["retry_at"], "| reason:", state.get("retry_kind"))
@@ -510,7 +676,20 @@ def show_status(*, json_output: bool = False) -> None:
         print(f"  {task}: {tokens['input_tokens']:,} input, "
               f"{tokens['cached_input_tokens']:,} cached, "
               f"{tokens['output_tokens']:,} output")
+    print("Alerts:", report["action_required_log"])
     print("No poetry changes have been committed or pushed by this CLI.")
+
+
+def fatal_stop(message: str) -> None:
+    """An unattended service must stop on editorial safety failures, with alert."""
+    from kalam_codex_isolation import alert
+    state = load_state()
+    if not state.get("status", "").startswith("stopped_on_"):
+        state["status"] = "stopped_on_error"
+    state["error"] = str(message)
+    save_state(state)
+    record = alert(state_home(), str(message))
+    print("ACTION REQUIRED:", record, file=sys.stderr)
 
 
 def requeue(path: str) -> None:
@@ -545,6 +724,8 @@ def service_text(root: Path) -> str:
         extra += "Environment=" + systemd_quote("KALAM_CODEX_BIN=" + codex) + "\n"
     return (
         "[Unit]\n"
+        "StartLimitIntervalSec=300\n"
+        "StartLimitBurst=4\n"
         "Description=KalamArchive Round 2 Codex original-language and Roman worker\n"
         "After=network.target\n\n"
         "[Service]\n"
@@ -553,8 +734,10 @@ def service_text(root: Path) -> str:
         + extra +
         "ExecStart=" + unit_command + "\n"
         "KillMode=control-group\n"
-        "TimeoutStopSec=15s\n"
-        "Restart=no\n"
+        "RestartPreventExitStatus=78\n"
+        "RestartSec=30s\n"
+        "TimeoutStopSec=30s\n"
+        "Restart=on-failure\n"
         "StandardOutput=journal\n"
         "StandardError=journal\n\n"
         "[Install]\nWantedBy=default.target\n")

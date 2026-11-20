@@ -4,7 +4,7 @@ Read [Editorial standards](docs/EDITORIAL.md) before touching a kalam, except fo
 
 ## Editorial invariants
 
-- **Source is authoritative.** Preserve verified Urdu/other original-language text, Roman alignment, printed Basta identities, literal `---***---` boundaries and permanent recitation/stanza IDs. Never resolve a source ambiguity using OCR or matching line counts alone.
+- **Source is authoritative where it already exists.** Preserve verified Urdu/other original-language text, Roman alignment, printed Basta identities, literal `---***---` boundaries and permanent recitation/stanza IDs. For Roman-only imported kalams, reconstruct the source-language script directly from the Roman transcription without external verification; choose conventional spellings and preserve every word. Never resolve a change to an existing verified source using OCR or line counts alone.
 - **Deduplicate by the actual poem, not a title or source post.** Preserve the most complete verified reading; incorporate genuinely unique stanzas and metadata. Do not invent text or collapse meaningful variants.
 - **Canonical publication text is clean.** Keep editorially useful metadata and source references that affect display/identity; do not leave import-system provenance comments, raw scrape hashes or temporary review notes in published lyric files.
 - **Numbering and languages are meaningful.** Urdu uses Eastern Arabic-Indic digits (`۱`, `۲`), Roman stanzas use `1`, `2`. `romanLyrics` is a transcription, not an original language. Names and transliterations follow [Editorial standards](docs/EDITORIAL.md).

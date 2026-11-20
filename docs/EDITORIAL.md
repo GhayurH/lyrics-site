@@ -14,6 +14,8 @@ This is the **single authority** for kalam source language, formatting, metadata
 
 The schema is `src/content.config.ts`. Keep one actual poem per standalone file; do not publish a second copy solely because another website, reciter or title variant supplied it. A Basta printed page is not an alternate standalone poem to erase.
 
+**Roman-only imported kalams:** reconstruct their original-language script directly from the supplied Roman verses. Roman is sufficient input; a second textual witness is **not required**. Preserve the Roman edition in `romanLyrics: |-` and write corresponding source-script verses in the Markdown body, keeping stanza order, meaning and language. Use context-sensitive conventional orthography for ambiguous Roman letters rather than stalling for source verification. Do not invent additional verses or words or claim the result matches an external original manuscript. This does not authorize changing any already verified source text.
+
 ## 2. Duplicate adjudication
 
 Compare each candidate against **all** standalone lyrics, the Basta index/verified kalams, and source material, not just slug or title. Different spellings, first lines, languages, reciters and site-specific names may refer to the same poem. Conversely, similar opening lines are not sufficient evidence of duplication.
