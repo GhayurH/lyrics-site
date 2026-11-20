@@ -13,76 +13,76 @@ romanLyrics: |-
   Aaja mere Husain
 
   1
-  Tu chand hai mere ghar ka
+  Tu chaand hai mere ghar ka
   Tu phul hai is aangan ka
   Tu is dil ki hai dharkan
   Tu nur hai in aankhoṅ ka
   Teri yaad meiṅ tarpuṅ din bhar
-  Jaaguṅ mai saari rayn
+  Jaaguṅ main saari rayn
 
   2
   Kya chakki pis ke beta
   Is din ke liye tha paala
   Khanjar hai gale par pyase
-  Manzar ye dehuṅ kaise
+  Manzar ye dekhuṅ kaise
   Ahmed ka nawasa hai
   Ye beta hai mera Husain
 
   3
-  Ghar baar luta kar dekhuṅ
+  Ghar ghar lutaa kar dekhuṅ
   Ye haal bhi dilbar dekhuṅ
   Tu tanha khara hai ban meiṅ
-  Ujri hai kook is ban meiṅ
-  Chaale hai mere is dil par
-  Ashkoṅ se tar hai nayn
+  Ujri hai kokh is ban meiṅ
+  Chhaale hain mere is dil par
+  Aashkoṅ se tar hai nayn
 
   4
   Khun roti hai ye dukhiya
   Bebas hai kitni mamta
-  Mehshar ka hai ye manzar
+  Mahshar ka hai ye manzar
   Sajde meiṅ sar aur khanjar
   Lillaah rehm tu karna
   Kaunain huwe bechain
 
   5
-  beaab na zibha kar tu
-  Allah se kuch to darr tu
-  Kya soch ke tu barta hai
+  Beaab na zibah kar tu
+  Allah se kuchh to dar tu
+  Kya soch ke tu barhta hai
   Zehra ka ye fidya hai
   Kiuṅ arsh ko tu dhaata hai
-  Khudrat ke hai ye bain
+  Qudrat ke hai ye bain
 
   6
   Dil par hai udaasi chaayi
   Baaloṅ se maqtal jhaari
-  Binayi gayi hai maa ki
+  Binaai gayi hai maaṅ ki
   Tuti hai kamar bhi meri
   Ye din bhi kaisa aaya
-  Haider ke nure ain
+  Haider ke nur-e-ain
 
   7
   Khanjar ko chalta dekha
   Pyase ko tarapta dekha
-  Baakhi hai no koi ghar meiṅ
-  Meri dunya luti pal bhar meiṅ
+  Baaqi hai na koi ghar meiṅ
+  Meri duniya luti pal bhar meiṅ
   Bimar bacha kunbe meiṅ
-  The maa ke shor o shain
+  The maaṅ ke shor o shain
 
   8
-  beaas tarapti khaahar
+  Beaas tarapti khaahar
   Nikli hai ghar se baahar
-  Maqtal meiṅ aayi zainab
-  Kya uspe hai ye musibat
-  Bichre hai ran meiṅ us se
-  Sardare jina hasnain
+  Maqtal meiṅ aayi Zainab
+  Kya us pe hai ye musibat
+  Bichhre hain ran meiṅ us se
+  Sardaar-e-jinaaṅ Hasnain
 
   9
-  Saabir hai jahaṅ meiṅ iqtaa
+  Saabir hai jahaaṅ meiṅ iktaa
   Iqbal hai jiska banda
   Qurbani ki ab khaatir
   Zehra hai ran meiṅ haazir
-  Aa godh meiṅ meri aaja
-  Maa kabse hai bechain
+  Aa god meiṅ meri aaja
+  Maaṅ kab se hai bechain
 # source_id: nohayonline:4ee0b7e2bb54d51f2e3d
 # source_url: https://www.nohayonline.com/details_content.php?id=928
 # raw_sha256: 528d0d8562e32415cf6ab950c312d16e0788cfe3cb4ce9595c1738cb4f60b6e4

@@ -1,53 +1,93 @@
 ---
-title: "Aa Rahi Hai Roza-e-Zainab Se"
+title: "آ رہی ہے روضۂ زینب سے"
+alternateTitle: "Aa Rahi Hai Roza-e-Zainab Se"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:f084e885a77493db7118
 # source_url: https://tajpoints.com/2017/02/aa-rahi-hai-roza-e-zainabsa-se-hal-min.html
 # raw_sha256: b65a60eedcef995590d11ac96d9175c8e64469e7e4cfdf2d286dd69d8354dce3
+romanLyrics: |-
+  Gir gayi hai Shamiyon mein phir se Aal-e-Mustafa
+  Waqt rone ka nahi yeh waqt hai labaik ka
+
+  1
+  Kuch nahi Zainab se barh kar ye batana hai humein
+  Fatima Zahra ko ik din munh dikhana hai humein
+  Rokna hai jo Baqiya se chala hai silsala
+  Rone wale Karbala par oss ke dil ki aas hain
+
+  2
+  Matami oss ki nazar mein Bazoy-e-Abbas hain
+  Maan rakhna hai humein ab Khakhir-e-Shabir ka
+  Kal bhi oss ne dukh uthaye thi magar dharas osse
+  Ghaira-e-Abbas ban kar sath Sajjad hai
+
+  3
+  Aaj tanha reh gayi hai Bani-e-Farsh-e-Azza
+  Kehte hoon gay Shah se Abbas ye rote howay
+  Main katay hathoon se bhi lar loo ga Foaj-e-Sham se
+  Bas mujhe ik bar Maula izan kar dijiye atta
+
+  4
+  Chalne ki jo addi na thi
+  Paidal wohi meelon chali
+  Duray kabhi pathar kabhi
+  Khati rahi Bint-e-Imam
+
+  5
+  Jane sitam kaisa howa
+  Chehrah laho se chup giya
+  Bint-e-Ali se baat ka
+  Laitay the Shami inteqam
+
+  6
+  Akbar kare kaise biyan
+  Deta hai jab koi azaan
+  Lagti hai seene par sina
+  Aata hai jab Akbar ka naam
 ---
 
-Gir Gayi Hai Shamiyon Mein Phir Se Aal-e-Mustafa.
-Waqt Rone Ka Nahi Yeh Waqt Hai Labaik Ka.
+گر گئی ہے شامیوں میں پھر سے آلِ مصطفیٰ
+وقت رونے کا نہیں یہ وقت ہے لبیک کا
 
-1
-Kuch Nahi Zainab Se Barh Kar Ye Batana Hai Humein.
-Fatima Zahra Ko Ik Din Munh Dikhana Hai Humein.
-Rokna Hai Jo Baqiya Se Chala Hai Silsala.
-Rone Wale Karbala par Oss Ke Dil Ki Aas Hain.
+۱
+کچھ نہیں زینب سے بڑھ کر یہ بتانا ہے ہمیں
+فاطمہ زہرا کو اک دن منہ دکھانا ہے ہمیں
+روکنا ہے جو بقیع سے چلا ہے سلسلہ
+رونے والے کربلا پر اُس کے دل کی آس ہیں
 
-2
-Matami Oss Ki Nazar Mein Bazoy-e-Abbas Hain.
-Maan Rakhna Hai Humein Ab Khakhir-e-Shabir Ka.
-Kal Bhi Oss Ne Dukh Uthaye Thi Magar Dharas Osse.
-Ghaira-e-Abbas Ban Kar Sath Sajjad Hai.
+۲
+ماتمی اُس کی نظر میں بازوئے عباس ہیں
+مان رکھنا ہے ہمیں اب خواہرِ شبیر کا
+کل بھی اُس نے دکھ اٹھائے تھی مگر دھارس اُسے
+غیرتِ عباس بن کر ساتھ سجاد ہے
 
-3
-Aaj Tanha Reh Gayi Hai Bani-e-Farsh-e-Azza.
-Kehte Hoon Gay Shah Se Abbas Ye Rote Howay.
-Main Katay Hathoon Se Bhi Lar Loo Ga Foaj-e-Sham Se.
-Bas Mujhe Ik Bar Maula Izan Kar Dijiye Atta.
+۳
+آج تنہا رہ گئی ہے بانیِ فرشِ عزا
+کہتے ہوں گے شاہ سے عباس یہ روتے ہوئے
+میں کٹے ہاتھوں سے بھی لڑ لوں گا فوجِ شام سے
+بس مجھے اک بار مولا اذن کر دیجیے عطا
 
-4
-Chalne Ki Jo Addi Na Thi.
-Paidal Wohi Meelon Chali.
-Duray Kabhi Pathar Kabhi.
-Khati Rahi Bint-e-Imam.
+۴
+چلنے کی جو عادی نہ تھی
+پیدل وہی میلوں چلی
+دُرّے کبھی پتھر کبھی
+کھاتی رہی بنتِ امام
 
-5
-Jane Sitam Kaisa Howa.
-Chehrah Laho Se Chup Giya.
-Bint-e-Ali Se Baat Ka.
-Laitay The Shami Inteqam.
+۵
+جانے ستم کیسا ہوا
+چہرہ لہو سے چھپ گیا
+بنتِ علی سے بات کا
+لیتے تھے شامی انتقام
 
-6
- Akbar Kare Kaise Biyan.
-Deta Hai Jab Koi Azaan.
-Lagti Hai Seene Par Sina.
-Aata Hai Jab Akbar Ka Naam.
+۶
+اکبر کرے کیسے بیاں
+دیتا ہے جب کوئی اذاں
+لگتی ہے سینے پر سناں
+آتا ہے جب اکبر کا نام

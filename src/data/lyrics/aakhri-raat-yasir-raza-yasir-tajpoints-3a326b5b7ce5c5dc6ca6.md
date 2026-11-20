@@ -1,55 +1,115 @@
 ---
-title: "Aakhri Raat Yasir Raza Yasir"
+title: "آخری رات یاسر رضا یاسر"
+alternateTitle: "Aakhri Raat Yasir Raza Yasir"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
 poet: "Yasir"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:3a326b5b7ce5c5dc6ca6
 # source_url: https://tajpoints.com/2023/04/aakhri-raat-yasir-raza-yasir-lyrics-in.html
 # raw_sha256: ca5691846d4921c4861057f1d0064a1e2153de9cdbc162ea0b06af82f1d1b353
+romanLyrics: |-
+  1
+  Gash hai tari lab-e-mazloom pe jari hai biyaan
+  Mere ya Rab mere Khaliq aye mere Malik-e-jaan
+  Tera mazhar hoon main yani mera sani hai kahan
+  Meri hasti se hai zahir teri wahdat ka nishaan
+  Bawojod iss ke uthata raha main ranj-o-alam
+  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+
+  2
+  Tere mehboob ko pala hai mere baba ne
+  Oss ko seene se lagaya hai mere baba ne
+  Narga-e-kufar ko dhaya hai mere baba ne
+  Yani Islam bachaya hai mere baba ne
+  Phir bhi kafir kaha logon ne unhein haye sitam
+  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+
+  3
+  Aye Khuda tera Nabi yani Muhammad aaqa
+  Farsh ta arsh parha jata hai jis ka kalma
+  Jis ne iss deen ki tableeg mein kya kuch na kiya
+  Phir bhi logon ne ossay ajar-e-risalat na diya
+  Oss ki maiyyat pe kiya sirf Ali ne matam
+  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+
+  4
+  Bad-e-sarkar-e-nabi zulm-o-sitam dhaya gaya
+  Fatima Zahra ko darbar mein bulawa gaya
+  Our Tehreer-e-Muhammad ko bhi jhutlaya gaya
+  Jalta dar Fatima Sadiqa pe girwaya gaya
+  Ab tu bas dil mein mere pehlu shikasta ka hai gham
+  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+
+  5
+  Meri nazron mein hai ab mere Hasan ka lasha
+  Mujh ko aata hai nazar Karb-o-Bala ka sehra
+  Bazu Abbas ke Shabeer ka sar wawela
+  Be rida Zainab-o-Kulsoom safar Abid ka
+  Sochta hoon tu mere seene mein ruk jata hai dam
+  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
+
+  6
+  Khuda gawah hai Yasir keh bas Khuda ke siwa
+  Koi samajh nahi paya Ali ki tanhai
+  Hai dua tujh se Khudawand aye zaat-e-bari
+  Ta qayamat rahe yeh nasal-e-imamat jari
+  Aaye mushkil na kabhi mere muhibbon pe koi
+  Jald uz jald ho Allah Zahoor-e-Mehdi
+  Ta keh woh dushman-e-ajdad ke sar kar de qalam
+  Seh ke jata hoon sitam Rab-e-Kaba ki qasam
 ---
 
-1
-Aakhri Raat Yasir Raza Yasir Lyrics
-Gash Hai Tari Lab-e-Mazloom Pe Jari Hai Biyaan.
-Mere Ya Rab Mere Khaliq Aye Mere Malik-e-Jaan.
-Tera Mazhar Hoon Main Yani Mera Sani Hai Kahan.
-Meri Hasti Se Hai Zahir Teri Wahdat Ka Nishaan.
-Bawojod Iss Ke Uthata Raha Main Ranj-o-Alam.
-Seh Ke Jata Hoon Sitam Rab-e-Kaba Ki Qasam.
-Tere Mehboob Ko Pala Hai Mere Baba Ne.
-Oss Ko Seene Se Lagaya Hai Mere Baba Ne.
-Narga-e-Kufar Ko Dhaya Hai Mere Baba Ne.
-Yani Islam Bachaya Hai Mere Baba Ne.
-Phir Bhi Kafir Kaha Logon Ne Unhein Haye Sitam.
-Seh Ke Jata Hoon Sitam Rab-e-Kaba Ki Qasam.
-Aye Khuda Tera Nabi Yani Muhammad Aaqa.
-Farsh Ta Arsh Parha Jata Hai Jis Ka Kalma.
-Jis Ne Iss Deen Ki Tableeg Mein Kya Kuch Na Kiya.
-Phir Bhi Logon Ne Ossay Ajar-e-Risalat Na Diya.
-Oss Ki Maiyyat Pe Kiya Sirf Ali Ne Matam.
-Seh Ke Jata Hoon Sitam Rab-e-Kaba Ki Qasam.
-Bad-e-Sarkar-e-Nabi Zulm-o-Sitam Dhaya Gaya.
-Fatima Zahra Ko Darbar Mein Bulawa Gaya.
-Our Tehreer-e-Muhammad Ko Bhi Jhutlaya Gaya.
-Jalta Dar Fatima Sadiqa Pe Girwaya Gaya.
-Ab Tu Bas Dil Mein Mere Pehlu Shikasta Ka Hai Gham.
-Seh Ke Jata Hoon Sitam Rab-e-Kaba Ki Qasam.
-Meri Nazron Mein Hai Ab Mere Hasan Ka Lasha.
-Mujh Ko Aata Hai Nazar Karb-o-Bala Ka Sehra.
-Bazu Abbas Ke Shabeer Ka Sar Wawela.
-Be Rida Zainab-o-Kulsoom Safar Abid Ka.
-Sochta Hoon Tu Mere Seene Mein Ruk Jata Hai Dam.
-Seh Ke Jata Hoon Sitam Rab-e-Kaba Ki Qasam.
-Khuda Gawah Hai Yasir Keh Bas Khuda Ke Siwa.
-Koi Samajh Nahi Paya Ali Ki Tanhai.
-Hai Dua Tujh Se Khudawand Aye Zaat-e-Bari.
-Ta Qayamat Rahe Yeh Nasal-e-Imamat Jari.
-Aaye Mushkil Na Kabhi Mere Muhibbon Pe Koi.
-Jald Uz Jald Ho ALLAH Zahoor-e-Mehdi.
-Ta Keh Woh Dushman-e-Ajdad Ke Sar Kar De Qalam.
-Seh Ke Jata Hoon Sitam Rab-e-Kaba Ki Qasam.
+۱
+غش ہے طاری لبِ مظلوم پہ جاری ہے بیاں
+میرے یا رب میرے خالق اے میرے مالکِ جاں
+تیرا مظہر ہوں میں یعنی میرا ثانی ہے کہاں
+میری ہستی سے ہے ظاہر تیری وحدت کا نشاں
+باوجود اس کے اٹھاتا رہا میں رنج و الم
+سہ کے جاتا ہوں ستم ربِ کعبہ کی قسم
+
+۲
+تیرے محبوب کو پالا ہے میرے بابا نے
+اس کو سینے سے لگایا ہے میرے بابا نے
+نرغۂ کفر کو ڈھایا ہے میرے بابا نے
+یعنی اسلام بچایا ہے میرے بابا نے
+پھر بھی کافر کہا لوگوں نے انہیں ہائے ستم
+سہ کے جاتا ہوں ستم ربِ کعبہ کی قسم
+
+۳
+اے خدا تیرا نبی یعنی محمد آقا
+فرش تا عرش پڑھا جاتا ہے جس کا کلمہ
+جس نے اس دین کی تبلیغ میں کیا کچھ نہ کیا
+پھر بھی لوگوں نے اسے اجرِ رسالت نہ دیا
+اس کی میت پہ کیا صرف علی نے ماتم
+سہ کے جاتا ہوں ستم ربِ کعبہ کی قسم
+
+۴
+بعدِ سرکارِ نبی ظلم و ستم ڈھایا گیا
+فاطمہ زہرا کو دربار میں بلاوا گیا
+اور تحریرِ محمد کو بھی جھٹلایا گیا
+جلتا در فاطمہ صادقہ پہ گروایا گیا
+اب تو بس دل میں میرے پہلو شکستہ کا ہے غم
+سہ کے جاتا ہوں ستم ربِ کعبہ کی قسم
+
+۵
+میری نظروں میں ہے اب میرے حسن کا لاشہ
+مجھ کو آتا ہے نظر کرب و بلا کا صحرا
+بازو عباس کے، شبیر کا سر، واویلا
+بے ردا زینب و کلثوم، سفر عابد کا
+سوچتا ہوں تو میرے سینے میں رک جاتا ہے دم
+سہ کے جاتا ہوں ستم ربِ کعبہ کی قسم
+
+۶
+خدا گواہ ہے یاسر کہ بس خدا کے سوا
+کوئی سمجھ نہیں پایا علی کی تنہائی
+ہے دعا تجھ سے خداوند اے ذاتِ باری
+تا قیامت رہے یہ نسلِ امامت جاری
+آئے مشکل نہ کبھی میرے محبوں پہ کوئی
+جلد از جلد ہو اللہ ظہورِ مہدی
+تا کہ وہ دشمنِ اجداد کے سر کر دے قلم
+سہ کے جاتا ہوں ستم ربِ کعبہ کی قسم

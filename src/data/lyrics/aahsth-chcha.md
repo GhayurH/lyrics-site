@@ -9,60 +9,96 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Ya Husain Ya Husain ….. (2)
-  Jab Rehaa Hoke Sajjad Laute Watan
+  Ya Husain ya Husain
+  Jab riha hoke Sajjad laute watan
 
   1
-  Ya Husain Ya Husain
-
-  2
-  Ro Padhe Dekh Kar Haaye Apna Chaman
-  Daudkh Te Rote Pahuche Hanafiya Chachaa
-  Aur Gale Se Bhatije Ko Lipta Liyaa
-  Chik Nikali Aur Aabid Ko Gash Aagaya
-  Dono Haatho Ko Sine Pe Rakh Kar Kahan
-  Aahista Chacha, Sajjad Haye Sajjad …..(2)
-  Aahista Chacha, Hole Darn Al Naa-
-  Wekh Meno Zaara
-  Main Haa Zakhmi Padha
-  Aahista Chacha….. Hole Darn Al Naa…..(2)
-  Main Haa Zakhmi Padha….. Aahista Chacha…..
-  Ay Wekho Haal Bhatije Da
-  Sajjad Nahiyo Sajjad Rihaa …..(2)
-  Main Ko Khaagaya Dard Ridwa Da …..(2)
-  Khoon Akhiya Do Nahi Rukhda Chacha
-  Aahista Chacha….. Hole Darn Al Naa…..(2)
-  Main Haa Zakhmi Padha,,,,, Aahista Chacha…..
-  Ashur De Deen Wich Karbal De
-  Mede Qatal Bhida Ti Gaye Saare …..(2)
-  Chache Te Baazu Kalam Huwe…..(2)
-  Waabe Te Khanjar Chaliya Chacha
-  Aahista Chacha….. Hole Darn Al Naa…..(2)
-  Main Haa Zakhmi Padha,…. Aahista Chacha…..
-  Nayi Bhulne Safar Bazaran De
-  Main Ko Khaagaye Dekh Darbaran De….. (2)
-  Oh Majme Bad Kirdaara ande…..(2)
-  Rahi Sain Luqa Di Cehra Chacha
-  Aahista Chacha….. Hole Darn Al Naa…..(2)
-  Main Haa Zakhmi Padha,,,,, Aahista Chacha…..
-  Har Maud Pe Patthar Was De Rai
-  Kufi Te Shaamni Has De Rai…..(2)
-  Sanu Bagi Bagi Keh De Reh…..(2)
-  Injee Sham De Paas Duriyaa Chacha
-  Aahista Chacha….. Hole Darn Al Naa…..(2)
-  Main Haa Zakhmi Padha,…..Aahista Chacha…..
-  Maino Sham Seher Ne Maar Detha
-  Darbaar Ne Chode Maar Muka…..(2)
-  Meko Khaagaya Dard Sakina Da …..(2)
-  Meda Haal Yeh Sham Ne Kita Chacha
-  Aahista Chacha….. Hole Darn Al Naa…..(2)
-  Main Haa Zakhmi Padha….. Aahista Chacha…..
-  Sarwar Jawaad Reh Ken Da
-  Ratro Ke Baba Baqir Da…..(2)
-  Main Naal Bhirawa Mar Jaanda …..(2)
-  Kiun Junda Watan Te Warya Chacha
-  Aahista Chacha….. Hole Darn Al Naa…..(2)
-  Main Haa Zakhmi Padha….. Aahista Chacha…..
+  Ro pare dekh kar haaye apna chaman
+  Daorte rote pahunche Hanafiya chacha
+  Aur gale se bhatije ko lipta liya
+  Chikh nikli aur Aabid ko ghash aa gaya
+  Donoṅ haathoṅ ko sine pe rakh kar kaha
+  Aahista chacha, Sajjad haaye Sajjad
+  Aahista chacha
+  Haule gal naal la, wekh mainuṅ zara
+  Main haaṅ zakhmi bara, aahista chacha
+  -
+  Aahista chacha
+  Gale dhire laga, dekh mujh ko zara
+  Main huṅ zakhmi bara, aahista chacha
+  -
+  Ae wekh o haal bhatije da
+  Sajjad naiyoṅ o Sajjad riya
+  Main kuṅ kha gaya dard ridawaaṅ da
+  Khuṅ akhiyaaṅ chuṅ naiṅ rukda chacha
+  Aahista chacha
+  Haule gal naal la, wekh mainuṅ zara
+  Main haaṅ zakhmi bara, aahista chacha
+  -
+  Aahista chacha
+  Gale dhire laga, dekh mujh ko zara
+  Main huṅ zakhmi bara, aahista chacha
+  -
+  Aashur de din wich Karbal de
+  Mede qatal bhara thi gaye saare
+  Chaache de baazu qalam hue
+  Baabe te khanjar chaliya chacha
+  Aahista chacha
+  Haule gal naal la, wekh mainuṅ zara
+  Main haaṅ zakhmi bara, aahista chacha
+  -
+  Aahista chacha
+  Gale dhire laga, dekh mujh ko zara
+  Main huṅ zakhmi bara, aahista chacha
+  -
+  Naiṅ bhulne safar bazaraan de
+  Main kuṅ kha gaye dukh darbaraaṅ de
+  O majma bad kirdaraaṅ de
+  Rai seinr lukaandi chehra chacha
+  Aahista chacha
+  Haule gal naal la, wekh mainuṅ zara
+  Main haaṅ zakhmi bara, aahista chacha
+  -
+  Aahista chacha
+  Gale dhire laga, dekh mujh ko zara
+  Main huṅ zakhmi bara, aahista chacha
+  -
+  Har mor te patthar wasde rae
+  Kufi te Shaami hansde rae
+  Saanuṅ baaghi baaghi kainde rae
+  Inj Shaam de paase turiya chacha
+  Aahista chacha
+  Haule gal naal la, wekh mainuṅ zara
+  Main haaṅ zakhmi bara, aahista chacha
+  -
+  Aahista chacha
+  Gale dhire laga, dekh mujh ko zara
+  Main huṅ zakhmi bara, aahista chacha
+  -
+  Mainuṅ Shaam shehr ne maar ditta
+  Darbaar ne chhore maanr muka
+  Mekuṅ kha gaya dard Sakina da
+  Menda haal ae Shaam ne kita chacha
+  Aahista chacha
+  Haule gal naal la, wekh mainuṅ zara
+  Main haaṅ zakhmi bara, aahista chacha
+  -
+  Aahista chacha
+  Gale dhire laga, dekh mujh ko zara
+  Main huṅ zakhmi bara, aahista chacha
+  -
+  Sarwar Jawad riya kainda
+  Rat ro ke Baba Baqir da
+  Main naal bharaawaaṅ mar jaanda
+  Kiuṅ jiunda watan te waliya chacha
+  Aahista chacha
+  Haule gal naal la, wekh mainuṅ zara
+  Main haaṅ zakhmi bara, aahista chacha
+  -
+  Aahista chacha
+  Gale dhire laga, dekh mujh ko zara
+  Main huṅ zakhmi bara, aahista chacha
+  -
 # source_id: ziyaraat:96d0db5b8f04cb83aaa9
 # source_url: https://www.ziyaraat.net/api/noha/1009
 # raw_sha256: 91a5cd228955261d1b281d9c9e7fbebb5ec79d6582df4ae306f74f2493666976

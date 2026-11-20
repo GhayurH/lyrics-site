@@ -11,51 +11,51 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Aajao ali asghar aajao ali asghar
-  Maa jhula jhulaye raatoṅ ko uth kar lori sunaye
+  Aajao Ali Asghar aa jao Ali Asghar
+  Maaṅ jhula jhulaaye raatoṅ ko uth kar lori sunaaye
   Ae phul se sipahi tujhko salaam mera
-  Tu ne kiya hai uncha dunya meiṅ naam mera
-  Aaja tujhe maa sine se lagaye
+  Tu ne kiya hai uncha duniya meiṅ naam mera
+  Aa ja tujhe maaṅ sine se lagaaye
 
   2
-  Ammu hai paas tere baba hai aur akbar
-  Darna na zaalimoṅ se ae bezuban asghar
-  Maa ko bulaana jab nind na aaye
+  Ammu hai paas tere baba hai aur Akbar
+  Darna na zaalimoṅ se ae bezabaan Asghar
+  Maaṅ ko bulaana jab nind na aaye
 
   3
-  Maa teri tashnagi par qurban meri jaani
-  Kiuṅ beh raha hai darya tujhko mila na pani
-  Aaja ke maadar pani pilaaye
+  Maaṅ teri tashnagi par qurbaan meri jaani
+  Kiuṅ beh raha hai darya tujhko mila na paani
+  Aa ja ke maadar paani pilaaye
 
   4
-  Tu chand mere ghar ka dunya se jaane waale
-  Tu kya gaya hai ghar se ruqsat huwe ujaale
-  Tarikiyoṅ ke baadal se chaaye
+  Tu chaand mere ghar ka duniya se jaane wale
+  Tu kya gaya hai ghar se rukhsat hue ujaale
+  Taarikiyoṅ ke baadal se chhaaye
 
   5
-  Aulaad ka bicharna sab se bara hai sadma
+  Aulaad ka bichharna sab se bara hai sadma
   Ujri hai kokh meri dil ro raha hai mera
-  Ye aag dil ki maa kaise bujhaye
+  Ye aag dil ki maaṅ kaise bujhaaye
 
   6
-  Maadar ke saamne jab pani ka jaam aaye
-  besaakhta laboṅ par tera hi naam aaye
-  Pani meiṅ tera chehra nazar aaye
+  Maadar ke saamne jab paani ka jaam aaye
+  Besaakhta laboṅ par tera hi naam aaye
+  Paani meiṅ tera chehra nazar aaye
 
   7
-  Dil se nikal rahi hai ab ye duayeiṅ har pal
-  Maa ban ke tujhko paale ye sar zamin e maqtal
-  Darti hoo lekin tu khauf na khaaye
+  Dil se nikal rahi hai ab ye duaaeṅ har pal
+  Maaṅ ban ke tujhko paale ye sarzamin-e-maqtal
+  Darti huṅ lekin tu khauf na khaaye
 
   8
-  Sunti hoo ro diya tha tujh par sitam ka lashkar
+  Sunti huṅ ro diya tha tujh par sitam ka lashkar
   Tu muskura raha tha jis waqt tir kha kar
-  Kaise tujhe maa dil se bhulaye
+  Kaise tujhe maaṅ dil se bhulaaye
 
   9
-  Faryad ek maa ki khirtaas se jo aaye
+  Faryaad ek maaṅ ki qirtaas se jo aaye
   Mazhar wo aansuoṅ ki barsaat kar ke jaaye
-  Farshe aza par irfaṅ sunaye
+  Farsh-e-aza par Irfaaṅ sunaaye
 # source_id: nohayonline:db3c3d206a91846a14fc
 # source_url: https://www.nohayonline.com/details_content.php?id=2202
 # raw_sha256: bac7270f88475d93208ed23d4b9cc23e3716de1fa77ec4b234600c4b2fe0891b

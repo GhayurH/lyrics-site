@@ -1,6 +1,6 @@
 ---
 title: "آہ افتاد زتن دست علمدار حسین"
-alternateTitle: "Ay Alamdare Hussain"
+alternateTitle: "Ae Alamdar-e-Husain"
 language: "Urdu"
 lang: "ur"
 direction: "rtl"
@@ -8,72 +8,34 @@ kalamType: "Noha"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Aey alamdar-e Hussain
-
-  Ah uftad-e sitam, dasht-e alamdar-e Hussain
-
+romanLyrics: |-
+  Aah uftaad zatan dast-e-alamdar-e-Husain
 
   1
-
-  1) Aey bahan, aey bahan, Matam-e-Abbas-e Ali ki jo bapa
-
-  Karte the, karte the peet ke sar hazrat-e-Shabbir pukar
-
-  Ho gaya qatl mera bhai nahi dil ko chain
-
+  Ae Alamdar-e-Husain ae Alamdar-e-Husain
+  Ae bahan maatam-e-Abbas-e-Ali kijiye bapaa
+  Karte the pit ke sar Hazrat-e-Shabbir bukaa
+  Ho gaya qatl mera bhai nahiṅ dil ko chain
 
   2
-
-  Di khabar sheh ne juhin qatl alamdar huwe
-
-  Chadare gir padi ye sunke haram ke sar se
-
-  Karti thi aale iba shiddate aalaam se bain
-
+  Di khabar shah ne juṅhi qatl alamdar hue
+  Chaadareṅ chhin gai ye sun ke haram ke sar se
+  Karti thi aal-e-abaa shiddat-e-aalaam se bain
 
   3
-
-  Ay bahan tere biradar ki kamar toot gayi
-
-  Bhai ka daagh meri quwwate dil loot gayi
-
-  Kyun na matam karoo sar peetu karoo ro kar bain
-
+  Ae bahan tere biraadar ki kamar tut gai
+  Bhai ka daagh meri quwwat-e-dil lut gai
+  Kiuṅ na maatam karuṅ sar pituṅ karuṅ ro kar bain
 
   4
-
-  2) Be khabar, be khabar, pehle yuhi fazle alamdar huwe
-
-  Chadare, chadare gir pari sunte hi haram ke sar se
-
-  Karti thi aah nahi baqi na tere laam se bain
-
+  Khaime ke dar pe abhi tak hai Sakina Zainab
+  Ye khabar sun ke na mar jaae hazina Zainab
+  Kis tarah us ko bataaega ye mazlum Husain
 
   5
-
-  3) Aey, bahan, aey bahan, tere bharay gar ki kamar khun se jari
-
-  Bhai ka, bhai ka pyaaz-e meri kuwat-e dillu se chali
-
-  Kyu na matam karo sar pito karu rokar bain
-
-
-  6
-
-  4) Khayme ke, khAeyme ke dard-e azi band he Sakina, Zainab
-
-  Ye khabar, ye khabar sunke na marjAeye hasina, Zainab
-
-  Kistar ha uske bataAeyenge je mazloom-e Hussain
-
-
-  7
-
-  5) He kaha, he kaha sowdAeye abbas yaha bulwalo
-
-  Uska hum, uska hum dainge une bacho ko bhi layawo
-
-  Haey duniya se utha mustaza ka noore Aeyn'
+  Hai kahaaṅ zauja-e-Abbas yahaaṅ bulwaao
+  Pursa ham deṅge unheṅ bachchoṅ ko bhi le aao
+  Haae duniya se utha Murtaza ka nur-e-ain
 reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 # source_id: nohayonline:e67abea47e73c34123c4
 # source_url: https://www.nohayonline.com/details_content.php?id=373

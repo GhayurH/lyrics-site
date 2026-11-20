@@ -9,57 +9,47 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Aa Ke Rasiyon Se Sakina Ko Chura Lo Baba"
-romanLyrics: 'Aa Ke Rasiyon Se Sakina Ko Chura Lo Baba.
-
-  Main Hoon Mushkil Mein Mujhe Paas Bula Lo Baba.
-
-  Bhagtay Ont Se Baba Main Kayi Baar Giri.
-
-  Dur bhi Cheene Mere Dekho Meri Poshak Jali.
-
+romanLyrics: |-
+  Aa ke rassiyoṅ se Sakina ko chhura lo baba
 
   1
-
-  Mujhe Ko Zindaan Ke Andheron Se Nikalo Baba.
-
-  Neend Aati Nahi Sone Se Bhi Dar Lagta Hai.
-
-  Loon Jo Karwat Tu Mere Kano Se Khoon Rista Hai.
-
-  Apne Seene Pe Ghar Pal Ko Sula Lo Baba.
-
+  Main huṅ mushkil mein
+  Mujhe paas bula lo baba
 
   2
-
-  Shimar Se Mangon Jo Pani Tu Jhirak Deta Hai.
-
-  Phir Mere Samne Matti Pe Gira Deta Hai.
-
-  Bhaij Ke Ghazi Ko Do Ghont Manga Lo Baba.
-
-  Tere Qatil Mujhe Rone Se Mana Karte Hain.
-
+  Nind aati nahiṅ sone se bhi dar lagta hai
+  Luṅ jo karwat to mere kaanoṅ se khun rista hai
+  Apne sine pe
+  Ghari bhar ko sula lo baba
+  Aa ke rassiyoṅ se Sakina chhura lo baba
+  Tere qaatil mujhe rone se mana karte haiṅ
+  Jab bhi roti huṅ to Aabid pe sitam karte haiṅ
+  Khul ke ro luṅ mujhe
+  Neze pe utha lo baba
 
   3
-
-  Kabhi Roti Hoon Tu Abid Pe Sitam Karte Hain.
-
-  Khul Ke Ro Loon Mujhe Naizay Pe Utha Lo Baba.
-
-  Na Koi Mujh Ko Bulata Hai Sakina Keh Ke.
-
-  Sham Ke Log Bulate Hain Yateema Keh Ke.
-
+  Bhaagte ont se baba main kai baar giri
+  Durr bhi chhine mere dekho meri poshaak jali
+  Mujh ko zindaaṅ ke
+  Andheroṅ se nikaalo baba
 
   4
+  Shimar se maanguṅ jo paani to jhirak deta hai
+  Phir mere saamne mitti pe gira deta hai
+  Bhej ke Ghaazi ko
+  Do bund manga do baba
 
-  Thokarein Khati Sakina Ko Sanbhalo Baba.
+  5
+  Na koi mujh ko bulaata hai Sakina keh ke
+  Shaam ke log bulaate haiṅ yateema keh ke
+  Thokareṅ khaati
+  Sakina ko sanbhaalo baba
 
-  Baal Khainche Hain Mere Rukh Pe Tamache Mare.
-
-  Dekh Ke Ghazi Ke Sar Ko Rahe Hanste Sare.
-
-  Haye Zara Apna Wafadar Jaga Lo Baba.'
+  6
+  Baal khainche haiṅ mere rukh pe tamaanche maare
+  Dekh ke Ghaazi ke sar ko rahe hanste saare
+  Haaye zara apna
+  Wafaadaar jaga lo baba
 # source_id: tajpoints:d635de4a0a30e5c295ff
 # source_url: https://tajpoints.com/2019/11/aa-ke-rasiyon-se-sakina-ko-chura-lo.html
 # raw_sha256: 7a162d255735b9736a34fd7ed11ca5d486bb5cc4b6aa001e8d51d30bfcaa5218

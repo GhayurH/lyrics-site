@@ -1,10 +1,11 @@
 ---
 title: "آ جا میرے لاڈلے تینو لوریاں سناواں"
-language: "Urdu"
-lang: "ur"
-direction: "ltr"
+alternateTitle: "Aaja Meray Laadle Mein Loriyaan Sunawan"
+language: "Panjabi"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: nohawriteups:30be85d4393118877b6b
@@ -12,32 +13,60 @@ published: false
 # raw_sha256: c5d282debf0fda8227637006acf04057f55d6a3829e6e23f2b43142ac3e7aedf
 # source_title_original: Aaja Meray Laadle Mein Loriyaan Sunawan
 # editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
+romanLyrics: |-
+  Aaja meray laadle mein loriyaan sunawan
+  Tenu labdiyan Asghar meri khaali bhawan
+
+  1
+  Goudi aaja meray Asghar shaam bachra hogayi ay
+  Khaali peenda tenu tak ke maa eh ro ro keh rahi ay
+  Tenu gal nal laakay teray laad ladawan
+
+  2
+  Keray pasay tur gaya ay meray bachray ghar nu aaja
+  Tenu loriyaan mein sunawan menu aa ke ay dasa ja
+  Putran bajoun keevain jeundiyan ne mawaan
+
+  3
+  Laash teri dhup te reh gayi menu Asghar ay nahi bhulna
+  Zakhm lekay dil de andar meh bazaaran vich hai rulna
+  Menu bhul gaiyan Asghar teray bajoun chawan
+
+  4
+  Teer khaveen muskura ke kar de Hurmal nu hairaan ay
+  Mera bachra Karbala vich ambiya da tu youn maan ay
+  Deen di ajj jaan ay teri aakhri sawaan
+
+  5
+  Kholda Mumtaaz jad vi koyee maqtal di kitaab ay
+  Hai lahu unwaan oda parna jad Asghar da baab ay
+  Har sattar te maa de hanju hokay hawaan,
 ---
 
-Aaja Meray Laadle Mein Loriyaan Sunawan
-Tenu Labdiyan Asghar Meri Khaali Bhawan
+آ جا میرے لاڈلے میں لوریاں سناواں
+تینوں لبھدیاں اصغر میری خالی باہواں
 
-1
-Goudi Aaja Meray Asghar Shaam Bachra Hogayi Ay
-Khaali Peenda Tenu Tak Ke Maa Eh Ro Ro Keh Rahi Ay
-Tenu Gal Nal Laakay Teray Laad Ladawan
+۱
+گودی آ جا میرے اصغر شام بچڑا ہو گئی اے
+خالی پیندا تینوں تک کے ماں ایہہ رو رو کہہ رہی اے
+تینوں گل نال لا کے تیرے لاڈ لڑاواں
 
-2
-Keray Pasay Tur Gaya Ay Meray Bachray Ghar Nu Aaja
-Tenu Loriyaan Mein Sunawan Menu Aa Ke Ay Dasa Ja
-Putran Bajoun Keevain Jeundiyan Ne Mawaan
+۲
+کیہڑے پاسے تر گیا ایں میرے بچڑے گھر نوں آ جا
+تینوں لوریاں میں سناواں مینوں آ کے ایہہ دسا جا
+پتراں باجھوں کیویں جیوندیاں نے ماواں
 
-3
-Laash Teri Dhup Te Reh Gayi Menu Asghar Ay Nahi Bhulna
-Zakhm Lekay Dil De Andar Meh Bazaaran Vich Hai Rulna
-Menu Bhul Gaiyan Asghar Teray Bajoun Chawan
+۳
+لاش تیری دھپ تے رہ گئی مینوں اصغر ایہہ نہیں بھلنا
+زخم لے کے دل دے اندر میں بازاراں وچ ہے رلنا
+مینوں بھل گئیاں اصغر تیرے باجھوں چاواں
 
-4
-Teer Khaveen Muskura Ke Kar De Hurmal Nu Hairaan Ay
-Mera Bachra Karbala Vich Ambiya Da Tu Youn Maan Ay
-Deen Di Ajj Jaan Ay Teri Aakhri Sawaan
+۴
+تیر کھاویں مسکرا کے کر دے حرمل نوں حیران اے
+میرا بچڑا کربلا وچ انبیا دا توں یوں مان ایں
+دین دی اج جان اے تیری آخری ساہواں
 
-5
-Kholda Mumtaaz Jad Vi Koyee Maqtal Di Kitaab Ay
-Hai Lahu Unwaan Oda Parna Jad Asghar Da Baab Ay
-Har Sattar Te Maa De Hanju Hokay Hawaan,
+۵
+کھولدا ممتاز جد وی کوئی مقتل دی کتاب اے
+ہے لہو عنوان اوہدا پڑھنا جد اصغر دا باب اے
+ہر سطر تے ماں دے ہنجو ہَوکے ہواواں،

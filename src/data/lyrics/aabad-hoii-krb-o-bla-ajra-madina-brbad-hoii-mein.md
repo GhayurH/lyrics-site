@@ -9,79 +9,49 @@ reciter: "Anjuman Gulzar-e-Haidry (Nadeem Sarwar)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Aabaad hui karbobala ujda madina
-
-  Barbaad hui mai
-
+romanLyrics: |-
+  Aabaad hui Karb o Bala ujra Madina
+  Barbaad hui main
 
   1
-
-  Zainab ko na raas aaya Muharram ka mahina Barbaad hui mein
-
+  Zainab ko na raas aaya Muharram ka mahina barbaad hui main
+  Ik din tha ke is shahr ki main karti thi shaahi, aur aaj tabaahi
+  Be ghusl para mohr-e-nabuwwat ka nagina, barbaad hui main
 
   2
-
-  1. Ek din tha keh is shaher ki kerti thi mein Shahi…Aur aaj tabahee
-
-  Bay ghusl parra mohr-e-Nabuwat ka nagheena..Barbaad hui mein
-
+  Kis laash pe rouṅ kise chhoruṅ main baraadar
+  Laashe haiṅ bahattar
+  Had yeh hai ke rone ki ijaazat bhi mili na
 
   3
-
-  2. Kis Laash pay rouoon kissay chouroon mein Biradar…Laashein hain Bahattar
-
-  Had yeh hai keh ronay ki ijazat bhi mille na....Barbaad hui mein
-
+  Asghar ka gala bhaai ka sar sina-e-Akbar
+  Sab gohar o chaadar
+  Is dasht mein luta gaya Zainab ka khazina
 
   4
-
-  3. Asghar ka galla, bhai ka Sar, sina-e-Akbar…Sab Gohar-o-Chadar
-
-  Is dasht mein loota gaya Zainab ka Khazeena..Barbaad hui mein
-
+  Maaeṅ bhi na pehchaan sakiṅ bachchoṅ ke chehre
+  Bikhre hue sehre
+  Hai khun ke darya mein ghariboṅ ka safina
 
   5
-
-  Maa''ein bhi na pehchan saki bachon ke chehre
-
-  Bikhre hue sehre
-
-  Hai khoon ki darya may ghareebon ka safina
-
+  Ik aag hai khaimoṅ mein qayaamat ka samaaṅ hai
+  Ghaazi tu kahaaṅ hai
+  Dekho to rida chhin gaya Shimr kamina
 
   6
-
-  4. Maayein bhi na pehchaan sakein bachoon kay chehray…Bikhray howay sehray
-
-  Hai khoon kay derya mein gareeboon ka Safeena..Barbaad hui mein
-
+  Chaadar chhini dur le liye ab zulm na dhaao
+  Baaba se milaao
+  Neze ke tale baith ke roti hai Sakina
 
   7
-
-  5. Ek aag hai khaimoon mein qayamat ka samaan hai…Ghazi tu kahan Hai
-
-  Daykho to rida cheen gaya shimr(la) kameena..Barbaad hui mein
-
+  Paaband-e-rasan Bibiyaaṅ baazaar khole sar
+  Har mor pe patthar
+  Maasum yatimoṅ ka baha surkh pasina
 
   8
-
-  6. Chadar chini dur lay liye ab zulm na dhaoo…Baba say millao
-
-  Nayzay kay tallay bayth kay roti hai Sakina..Barbaad hui mein
-
-
-  9
-
-  7. Paband rasan Bibiyian bazaar kholay ser…Her moar pay pathhar
-
-  Masoom yateemoon ka baha surkh paseena..Barbaad hui mein
-
-
-  10
-
-  8. Shaukat sar-e-maqtal yeh kaha Bint-e-Ali nay…Zehra ki palli nay
-
-  Bhayyia tayray bin khak tayri behna ka jeena..Barbaad hui mein'
+  Shaukat sar-e-maqtal yeh kaha Bint-e-Ali ne
+  Zehra ki pali ne
+  Bhaiya tere bin khaak teri behna ka jina
 # source_id: nohayonline:78bf73957132f492d3aa
 # source_url: https://www.nohayonline.com/details_content.php?id=345
 # raw_sha256: fa7536ca3f97b31eed162ecece9aeef799f4dfcd71f01cb79af1e18ea147bf0a

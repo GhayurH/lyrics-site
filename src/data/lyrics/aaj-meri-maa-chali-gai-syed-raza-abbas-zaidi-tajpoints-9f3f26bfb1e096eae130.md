@@ -9,189 +9,105 @@ tags: []
 aliases: []
 published: false
 alternateTitle: "Aaj Meri Maa Chali Gai Syed Raza Abbas Zaidi"
-romanLyrics: 'Aaj Meri Maa Chali Gai Syed Raza Abbas Zaidi.
-
-  Jab Aaye Qabar Mein Dafna Ke Fatima Ko Ali.
-
-  Kaha Hussain Se Aaein Gi Ab Na Amma Kabhi.
-
-  Tumhein Pilaon Ga Beta Main Aaj Se Pani.
-
+romanLyrics: |-
+  Jab aaye qabr mein dafna ke Fatima ko Ali
+  Kaha Husain se aayeṅ gi ab na ammaṅ kabhi
+  Tumheṅ pilaauṅ ga beta main aaj se paani
+  Yeh pehli raat yaad aaye gi bahut maaṅ ki
 
   1
-
-  Yeh Pehli Raat Hai Yaad Aaye Gi Bohat Maa Ki.
-
-  Tumhari Fikar Mein Hogi Lehad Mein Maa Be Chain.
-
-  Subha Se Jagay Ho So Jao Thori Dair Hussain.
-
-  Barh Ali Ne Galay Jab Lagaya.
-
+  Tumhaari fikr mein ho gi lahad mein maaṅ bechain
+  Subah se jaage ho so jaao thori der Husain
+  Barh kar Ali ne gale jab lagaaya
+  Yeh keh ke Shabbir ne sar uthaaya
 
   2
-
-  Yeh Keh Ke Shabbir Ne Sar Uthaya.
-
-  Aaj Meri Maa Chali Gayi.
-
-  Baba Mujhe Yeh Bataein.
-
-  Kyun Chor Jati Hain Maein.
-
+  Aaj meri maaṅ chali gayi
+  Baba mujhe yeh bataayeṅ
+  Kiuṅ chhor jaati haiṅ maayeṅ
+  Sine se apne laga kar
 
   3
-
-  Seene Se Apne Laga Kar.
-
-  Ab Kaun De Ga Duaein.
-
-  Nazron Se Jata Nahi Maa Ka Chehra.
-
-  Kaisay Mujhe Neend Aaye Gi Baba.
-
+  Ab kaun de ga duaayeṅ
+  Nazroṅ se jaata nahiṅ maaṅ ka chehra
+  Kaise mujhe nind aaye gi Baba
+  Aaj meri maaṅ...
 
   4
-
-  Rota Hoon Jab Se Suna Hai.
-
-  Maa Ko Tamacha Laga Hai.
-
-  Aoulad Ke Samne Kya.
-
-  Maa Ko Koi Marta Hai.
-
+  Rota huṅ jab se suna hai
+  Maaṅ ko tamaancha laga hai
+  Aulaad ke saamne kya
+  Maaṅ ko koi maarta hai
 
   5
-
-  Yeh Waqt Baba Kissi Par Na Aaye.
-
-  Maa Apne Bachoon Se Chehra Chupaye.
-
-  Darwaza Maa Par Gira Kar.
-
-  Kehne Laga Ik Sitamgar.
-
+  Yeh waqt Baba kisi par na aaye
+  Maaṅ apne bachchoṅ se chehra chhupaaya
+  Darwaaza maaṅ par gira kar
 
   6
-
-  Aaya nahi maa ko koi bachane
-
-  Aaj meri maa...
-
-  Baazu hi jab toot jaaye
-
-  Kaise koi haath uthaye
-
+  Kehne laga ek sitamgar
+  Aaj itna Zahra ko maaro
+  Uth na sake zindagi bhar
+  Hansta raha maar kar taaziyaane
 
   7
-
-  Aaj Itna Zahra Ko Maro.
-
-  Uth Na Sakay Zindagi Bhar.
-
-  Hansta Raha Mar Kar Taziyane.
-
-  Aaya Nahi Maa Ko Koi Bachaney.
-
+  Aaya nahiṅ maaṅ ko koi bachaane
+  Baazu hi jab tut jaaye
+  Kaise koi haath uthaaye
 
   8
-
-  Bazu Hi Jab Toot Jaye.
-
-  Kaisay Koi Hath Uthaye.
-
-  Betay Ko Iss Haal Mein Maa.
-
-  Seene Se Kaisay Lagaye.
-
+  Bete ko is haal mein maaṅ
+  Sine se kaise lagaaye
+  Phir bhi mere naaz uthaati thi ammaṅ
+  Taklif mein muskuraati thi ammaṅ
 
   9
-
-  Phir Bhi Mere Naaz Uthati Thin Amma.
-
-  Takleef Mein Muskurati Thin Amma.
-
-  Maa Mar Gayi Hai Pata Tha.
-
-  Par Dil Nahi Manta Tha.
-
+  Maaṅ mar gayi hai pata tha
+  Par dil nahiṅ maanta tha
+  Aur aap ne mere Baba
 
   10
-
-  Our Aap Ne Mere Baba.
-
-  Jab Ghusal Unn Ko Diya Tha.
-
-  Youn Cheekh Kar Aap Roye They Baba.
-
-  Oss Waqt Mujh Ko Yaqeen Aa Gaya Tha.
-
+  Jab ghusl un ko diya tha
+  Yuṅ chikh kar aap roye the Baba
+  Us waqt mujh ko yaqiṅ aa gaya tha
 
   11
-
-  Haye Main Darbar Se Ghar.
-
-  Aaya Tha Jab Maa Ko Le Kar.
-
-  Rastay Mein Amma Ke Paon.
-
-  Khat Khainchtay They Zameen Par.
-
+  Haaye main darbaar se ghar
+  Aaya tha jab maaṅ ko le kar
+  Raste mein ammaṅ ke paaṅv
+  Khat khinchte the zamiṅ par
 
   12
-
-  Aisay Qadam Woh Uthati Thin Baba.
-
-  Chalti Thin Phir Baith Jati Thin Baba.
-
-  Mara Tha Zalim Ne Baba.
-
-  Jis Hath Par Taziyana.
-
+  Aise qadam woh uthaati thi Baba
+  Chalti thi phir baith jaati thi Baba
+  Maara tha zaalim ne Baba
 
   13
-
-  Bholon Ga Kaisay Main Maa Ka.
-
-  Woh Hath Mujh Se Chupana.
-
-  Woh Neel Meri Nazar Mein Tab Aaya.
-
-  Maa Ne Kafan Khol Kar Jab Bulaya.
-
+  Jis haath par taaziyaana
+  Bhuluṅ ga kaise main maaṅ ka
+  Woh haath mujh se chhupaana
+  Woh nil meri nazar mein tab aaya
 
   14
-
-  Jab Door Apne Watan Se.
-
-  Mehroom Ho Kar Kafan Se.
-
-  Lasha Para Hoga Mera.
-
-  Lut Jaye Ga Sab Badan Se.
-
+  Maaṅ ne kafan khol kar jab bulaaya
+  Jab dur apne watan se
+  Mahrum ho kar kafan se
 
   15
-
-  Jaon Ga Ik Roz Karb-o-Bala Main.
-
-  Lekin Ghareeb Aaj Se Ho Gaya Main.
-
-  Seene Se Apne Laga Kar.
-
-  Oss Dam Bohat Roye Haider.
-
+  Laasha para hoga mera
+  Lut jaaye ga sab badan se
+  Jaauṅ ga ek roz Karb o Bala mein
+  Lekin gharib aaj se ho gaya main
 
   16
+  Sine se apne laga kar
+  Us dam bahut roye Haidar
+  Haaye Raza aur Zishaṅ
 
-  Haye Raza Our Zeeshan.
-
-  Jab Bolay Shabbir Ro Kar.
-
-  Maa Mar Gayi Ab Jiyon Ga Main Kaisay.
-
-  Aye Kash Mar Jata Main Unn Se Pehle.'
+  17
+  Jab bole Shabbir ro kar
+  Maaṅ mar gayi ab jiyuṅ ga main kaise
+  Ae kaash mar jaata main un se pehle
 # source_id: tajpoints:9f3f26bfb1e096eae130
 # source_url: https://tajpoints.com/2025/11/aaj-meri-maa-chali-gai-syed-raza-abbas.html
 # raw_sha256: d2c6668e5e7da9f1527217a58c3f550f222ad2d763e24d33d5a8ce2c461ae704

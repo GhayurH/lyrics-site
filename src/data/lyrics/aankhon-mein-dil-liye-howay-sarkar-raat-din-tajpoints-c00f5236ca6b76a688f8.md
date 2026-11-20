@@ -1,41 +1,69 @@
 ---
-title: "Aankhon Mein Dil Liye Howay Sarkar Raat Din"
+title: "آنکھوں میں دل لیے ہوئے سرکار رات دن"
+alternateTitle: "Aankhon Mein Dil Liye Howay Sarkar Raat Din"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Saqlain"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:c00f5236ca6b76a688f8
 # source_url: https://tajpoints.com/2018/07/aankhon-mein-dil-liye-howay-sarkar-raat.html
 # raw_sha256: adb0b822e0128a23eb5fd6ae93ee77574ee9dc530bb2865834bbef9c2fa22fda
+romanLyrics: |-
+  Aankhon mein dil liye howay sarkar raat din
+  Ya Mehdi Muntazir hain azadar raat din
+
+  1
+  Un ka hi khuwab dekhte hain sote jagte
+  Aankhein hamari rehti hain bedar raat din
+  Zanjeerein hath mein liye hum sare matami
+  Hain nusrat-e-imam ko teyar raat din
+
+  2
+  Jis din bhi koi majlis-o-mehfil na ho saki
+  Apni hayat ke hain woh bekar raat din
+  Woh bhi libas-e-gham mein hai kafir kaho ossay
+  Shiyon ki tarha Kabay ki dewar raat din
+
+  3
+  Panja bata raha hai alam par jahan ko
+  Pehrey pe aaj bhi hai alamdar raat din
+  Bugz-e-Ali mein roza tahajud kare hai jo
+  Woh ho raha hai our gunahgar raat din
+
+  4
+  Oss mein mila ke ashk-e-aza sab malaika
+  Kausar ko kar rahe haim mazedar raat din
+  Saqlain barhta jata hai jitna bhi intezar
+  Utna hi barh raha hai mera pyar raat din
 ---
 
-Aankhon Mein Dil Liye Howay Sarkar Raat Din.
-Ya Mehdi Muntazir Hain Azadar Raat Din.
+آنکھوں میں دل لیے ہوئے سرکار رات دن
+یا مہدی منتظر ہیں عزادار رات دن
 
-1
-Un Ka Hi Khuwab Dekhte Hain Sote Jagte.
-Aankhein Hamari Rehti Hain Bedar Raat Din.
-Zanjeerein Hath Mein Liye Hum Sare Matami.
-Hain Nusrat-e-Imam Ko Teyar Raat Din.
+۱
+ان کا ہی خواب دیکھتے ہیں سوتے جاگتے
+آنکھیں ہماری رہتی ہیں بیدار رات دن
+زنجیریں ہاتھ میں لیے ہم سارے ماتمی
+ہیں نصرتِ امام کو تیار رات دن
 
-2
-Jis Din Bhi Koi Majlis-o-Mehfil Na Ho Saki.
-Apni Hayat Ke Hain Woh Bekar Raat Din.
-Woh Bhi Libas-e-Gham Mein Hai Kafir Kaho Ossay.
-Shiyon Ki Tarha Kabay Ki Dewar Raat Din.
+۲
+جس دن بھی کوئی مجلس و محفل نہ ہو سکی
+اپنی حیات کے ہیں وہ بیکار رات دن
+وہ بھی لباسِ غم میں ہے کافر کہو اسے
+شیعوں کی طرح کعبے کی دیوار رات دن
 
-3
-Panja Bata Raha Hai Alam Par Jahan Ko.
-Pehrey Pe Aaj Bhi Hai Alamdar Raat Din.
-Bugz-e-Ali Mein Roza Tahajud Kare Hai Jo.
-Woh Ho Raha Hai Our Gunahgar Raat Din.
+۳
+پنجہ بتا رہا ہے علم پر جہاں کو
+پہرے پہ آج بھی ہے علمدار رات دن
+بغضِ علی میں روزہ تہجد کرے ہے جو
+وہ ہو رہا ہے اور گناہگار رات دن
 
-4
-Oss Mein Mila Ke Ashk-e-Aza Sab Malaika.
-Kausar Ko Kar Rahe Haim Mazedar Raat Din.
- Saqlain Barhta Jata Hai Jitna Bhi Intezar.
-Utna Hi Barh Raha Hai Mera Pyar Raat Din.
+۴
+اس میں ملا کے اشکِ عزا سب ملائکہ
+کوثر کو کر رہے ہیں مزیدار رات دن
+ثقلین بڑھتا جاتا ہے جتنا بھی انتظار
+اتنا ہی بڑھ رہا ہے میرا پیار رات دن

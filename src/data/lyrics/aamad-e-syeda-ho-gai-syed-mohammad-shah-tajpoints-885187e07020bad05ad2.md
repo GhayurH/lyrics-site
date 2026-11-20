@@ -1,48 +1,83 @@
 ---
-title: "Aamad E Syeda Ho Gai Syed Mohammad Shah"
+title: "آمدِ سیدہ ہو گئی سید محمد شاہ"
+alternateTitle: "Aamad e Syeda Ho Gai Syed Mohammad Shah"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Manqabat"
 poet: "Akbar"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:885187e07020bad05ad2
 # source_url: https://tajpoints.com/2024/12/aamad-e-syeda-ho-gai-syed-mohammad-shah.html
 # raw_sha256: f879ac2bdc73d7c4226d1b4518277709f9e3cacca09f08cf04e8a682b6b4cdeb
+romanLyrics: |-
+  Aamad e Syeda ho gai Syed Mohammad Shah
+
+  1
+  Dehar mein aamad-e-Syeda ho gayi
+  Nasal-e-Sadaat ki ibtida ho gayi
+  Le ke hathoon mein Zahra ko bolay Nabi
+  Aaj pori meri har dua ho gayi
+  Rotiyaan sath Zahra ke taqseem kin
+  Fizza bhi shamil-e-Hal Atta ho gayi
+
+  2
+  Fatima mera hissa hai bolay Nabi
+  Yani Zahra Rasool-e-Khuda ho gayi
+  Jo Nabi se lara woh Jahanum gaya
+  Jo Ali se lari la pata ho gayi
+  Keh ke Umm-e-Abeeha Nabi ne kaha
+  Meri beti meri Aamna ho gayi
+
+  3
+  Teri chadar hai Arsh-e-Olla Syeda
+  Baat roshan yeh Rooz-e-Kisa ho gayi
+  Aaya Ghazi tu Zahra ki aayi sada
+  Mere Mohsin ki zahir wafa ho gayi
+  Dekh Romal-e-Zahra ka ijaz dekh
+  Hur ki mati bhi Khak-e-Shifa ho gayi
+
+  4
+  Ab namazon ka kya faida Sheikh jee
+  Aap se Majlis-e-Sheh qaza ho gayi
+  Tujh ko matam ki khatir banaya gaya
+  Zindagi teri qeemat ada ho gayi
+  Main ne Akbar kiya shukar-e-Zahra ada
+  Nasal meri jo mehway azza ho gayi
 ---
 
-Aamad e Syeda Ho Gai Syed Mohammad Shah.
+آمدِ سیدہ ہو گئی سید محمد شاہ
 
-1
-Dehar Mein Aamad-e-Syeda Ho Gayi.
-Nasal-e-Sadaat Ki Ibtida Ho Gayi.
-Le Ke Hathoon Mein Zahra Ko Bolay Nabi.
-Aaj Pori Meri Har Dua Ho Gayi.
-Rotiyaan Sath Zahra Ke Taqseem Kin.
-Fizza Bhi Shamil-e-Hal Atta Ho Gayi.
+۱
+دہر میں آمدِ سیدہ ہو گئی
+نسلِ سادات کی ابتدا ہو گئی
+لے کے ہاتھوں میں زہرا کو بولے نبی
+آج پوری میری ہر دعا ہو گئی
+روٹیاں ساتھ زہرا کے تقسیم کیں
+فضہ بھی شاملِ ہل اتیٰ ہو گئی
 
-2
-Fatima Mera Hissa Hai Bolay Nabi.
-Yani Zahra Rasool-e-Khuda Ho Gayi.
-Jo Nabi Se Lara Woh Jahanum Gaya.
-Jo Ali Se Lari La Pata Ho Gayi.
-Keh Ke Umm-e-Abeeha Nabi Ne Kaha.
-Meri Beti Meri Aamna Ho Gayi.
+۲
+فاطمہ میرا حصہ ہے بولے نبی
+یعنی زہرا رسولِ خدا ہو گئی
+جو نبی سے لڑا وہ جہنم گیا
+جو علی سے لڑی لاپتا ہو گئی
+کہہ کے امِ ابیہا نبی نے کہا
+میری بیٹی میری آمنہ ہو گئی
 
-3
-Teri Chadar Hai Arsh-e-Olla Syeda.
-Baat Roshan Yeh Rooz-e-Kisa Ho Gayi.
-Aaya Ghazi Tu Zahra Ki Aayi Sada.
-Mere Mohsin Ki Zahir Wafa Ho Gayi.
-Dekh Romal-e-Zahra Ka Ijaz Dekh.
-Hur Ki Mati Bhi Khak-e-Shifa Ho Gayi.
+۳
+تیری چادر ہے عرشِ اعلیٰ سیدہ
+بات روشن یہ روزِ کسا ہو گئی
+آیا غازی تو زہرا کی آئی صدا
+میرے محسن کی ظاہر وفا ہو گئی
+دیکھ رومالِ زہرا کا اعجاز دیکھ
+حر کی مٹی بھی خاکِ شفا ہو گئی
 
-4
-Ab Namazon Ka Kya Faida Sheikh Jee.
-Aap Se Majlis-e-Sheh Qaza Ho Gayi.
-Tujh Ko Matam Ki Khatir Banaya Gaya.
-Zindagi Teri Qeemat Ada Ho Gayi.
-Main Ne Akbar Kiya Shukar-e-Zahra Ada.
-Nasal Meri Jo Mehway Azza Ho Gayi.
+۴
+اب نمازوں کا کیا فائدہ شیخ جی
+آپ سے مجلسِ شہ قضا ہو گئی
+تجھ کو ماتم کی خاطر بنایا گیا
+زندگی تیری قیمت ادا ہو گئی
+میں نے اکبر کیا شکرِ زہرا ادا
+نسل میری جو محوِ عزا ہو گئی

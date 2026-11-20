@@ -11,75 +11,75 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Gyara moharram ki aayi sehar
-  Aaye rasan le ke kuch ahle shar
+  Gyaarah Muharram ki aayi sahar
+  Aaye rasan le ke kuch ahl-e-shar
   Qaidi bani saari shahzadiyaṅ
-  Ek reesma meiṅ sabhi nauha gar
-  Yuṅ karbala se kiya aale nabi ne safar
-  Aage kate huwe sar piche khule huwe sar
-  Maaoṅ ki nazaroṅ meiṅ nur-e-nazar
-  Behno ki nazaroṅ meiṅ bhai ke sar
-  Mehmil kajawe na haudaj koi
+  Ik rismaaṅ meiṅ sabhi nauha gar
+  Yuṅ Karbala se kiya aal-e-Nabi ne safar
+  Aage kate hue sar pichhe khule hue sar
+  Maaoṅ ki nazaaroṅ meiṅ nur-e-nazar
+  Behnoṅ ki nazaaroṅ meiṅ bhai ke sar
+  Mahmil kajawe na haudaj koi
   Kaantoṅ bhare raastoṅ se guzar
   Nauha asiroṅ ka hai
-  Kaise uthaayeṅ nazar
-  Aage kate huwe sar...
-  Naaqe se bali sakina giri
-  Aur khaafile se juda ho gayi
-  Aaghosh meiṅ sayyeda ne liya
-  Itne meiṅ zainab wahaṅ aa gayi
+  Kaise uthaaeṅ nazar
+  Aage kate hue sar...
+  Naaqe se baali Sakina giri
+  Aur qaafile se juda ho gayi
+  Aaghosh meiṅ Sayyeda ne liya
+  Itne meiṅ Zainab wahaṅ aa gayi
   Ro kar kaha dekh lo
-  Amma hamara safar
-  Aage kate huwe sar...
-  Takrib manzil pe chautha qayaam
-  Esaayi muslim ne ki sulhe aam
-  Ek shaks le aaya kuch chaadareiṅ
-  Tarikh meiṅ jis ka yahya hai naam
-  Malum jab ye hua
-  Aale nabi hai magar
-  Aage kate huwe sar...
+  Ammaaṅ hamaara safar
+  Aage kate hue sar...
+  Taqrib manzil pe chali chautha qayaam
+  Isaayi Muslim ne ki sulh-e-aam
+  Ik shakhs le aaya kuch chaadareṅ
+  Taarikh meiṅ jis ka Yahya hai naam
+  Maalum jab ye hua
+  Aal-e-Nabi hai magar
+  Aage kate hue sar...
   Kya zulm ki intaha ho gayi
-  Nau baar chaadar mili phir chini
-  Ab apne ghazi ko awaaz de
-  Deta tha zainab ko taane shaqi
+  Nau baar chaadar mili phir chhini
+  Ab apne Ghaazi ko aawaaz de
+  Deta tha Zainab ko taane shaqi
   Ye dekh kar gir gaya
-  Naize se ghazi ka sar
-  Aage kate huwe sar...
-  Majma layino ka raahe kathan
-  Barsaye pathar sabhi mard o zan
-  Zainab kare kaise apna difa
+  Naize se Ghaazi ka sar
+  Aage kate hue sar...
+  Majma lainoṅ ka raah kathin
+  Barsar patthar sabhi mard o zan
+  Zainab kareṅ kaise apna daf
   Gardan meiṅ haath aur us meiṅ rasan
-  Khud se nahi uth saki
+  Khud se nahiṅ uth saki
   Jab gir gayi khaak par
-  Aage kate huwe sar...
-  Zainab pe tehre na koi nazar
-  Quran parne laga sheh ka sar
+  Aage kate hue sar...
+  Zainab pe thahre na koi nazar
+  Quraan parhne laga shah ka sar
   Baba ko dekha to rone laga
-  Zainab ko dekha hua nauhagar
+  Zainab ko dekha hua nauha gar
   Sajjad bebas hua
   Jaaye to jaaye kidhar
-  Aage kate huwe sar...
-  Raaste meiṅ aaya jo shiriṅ ka ghar
-  Shiriṅ ke kaano meiṅ pahunchi khabar
-  Khush hoke nikli Husain aa gaye
-  Rone lagi phir wo ye dekh kar
+  Aage kate hue sar...
+  Raaste meiṅ aaya jo Shiriṅ ka ghar
+  Shiriṅ ke kaanoṅ meiṅ pahunchi khabar
+  Khush ho ke nikli Husain aa gaye
+  Rone lagi phir woh ye dekh kar
   Aaya hai kis haal meiṅ
   Aaqa mera mere ghar
-  Aage kate huwe sar...
-  Ahle haram nauhagar aa gaye
-  Naizoṅ pe shohda ke sar aa gaye
-  Shabbir waade nibhaate huwe
-  Ek raat raahib ke ghar aa gaye
+  Aage kate hue sar...
+  Ahl-e-haram nauha gar aa gaye
+  Naizoṅ pe shuhadaa ke sar aa gaye
+  Shabbir waade nibhaate hue
+  Ik raat raahib ke ghar aa gaye
   Raahib ka dil phat gaya
-  Ye khaafla dekh kar
-  Aage kate huwe sar...
-  Bazaar to muqtasir hi sa tha
-  Artis ghantoṅ meiṅ wo tay hua
-  Jab baabe saaat pe pahunche haram
-  Farhan o mazhar ajab waqt tha
-  Kis tarha daakhil huwe
-  Darbar meiṅ nauhagar
-  Aage kate huwe sar...
+  Ye qaafila dekh kar
+  Aage kate hue sar...
+  Bazaar to mukhtasar hi sa tha
+  Artis ghantoṅ meiṅ woh tai hua
+  Jab baab-e-saaat pe pahunche haram
+  Farhaan o Mazhar ajab waqt tha
+  Kis tarah daakhil hue
+  Darbaar meiṅ nauha gar
+  Aage kate hue sar...
 # source_id: nohayonline:5b6c05370abd623d3a1d
 # source_url: https://www.nohayonline.com/details_content.php?id=2344
 # raw_sha256: d4cd6fa5023d7ee477e4d882d521cafd822dffe7fdee219309fd0aef91b1e303

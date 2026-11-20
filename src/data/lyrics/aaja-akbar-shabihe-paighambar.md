@@ -10,45 +10,45 @@ tags: []
 aliases: []
 published: false
 romanLyrics: |-
-  Aaja akbar shabihe paighambar
+  Aaja Akbar shabih-e-Paighambar
 
   1
-  Shakle zehra tujhe bulaati hai
+  Shakl-e-Zehra tujhe bulaati hai
   Khaali hujroṅ meiṅ yaadoṅ ke
-  Roz sughra diye jalaati hai
+  Roz Sughra diye jalaati hai
   Bhaiya ujre gharoṅ ki tanhaai
-  Kaise dekhegi teri maajayi
+  Kaise dekhegi teri maanjaai
   Bain kar ke ye khud bhi roti hai
-  Nani salma ko bhi rulaati hai
+  Naani Salma ko bhi rulaati hai
 
   2
   Khatm muddat ho ab judaai ki
-  Nana surat dikha de bhai ki
-  Gham ki rudad jo ke dukiyari
-  Roz nana ko ro sunaati hai
+  Naana surat dikha de bhaai ki
+  Gham ki rudaad jo ke dukhiyaari
+  Roz naana ko ro sunaati hai
 
   3
-  Deti paigham hai parindo ko
-  Koi akbar se jaa ke ye keh do
-  Lab pe sughra ke naam hai tera
+  Deti paighaam hai parindoṅ ko
+  Koi Akbar se aaja ke keh do
+  Lab pe Sughra ke naam hai tera
   Ashk shaam o sahar bahaati hai
 
   4
   Din ko takti hai raah wo teri
-  Raat kat'ti hai yaad meiṅ teri
-  Jab se bichra behen se tu akbar
-  Chain ek pal kahaṅ wo paati hai
+  Raat katti hai yaad meiṅ teri
+  Jab se bichhra behen se tu Akbar
+  Chain ek pal kahaaṅ wo paati hai
 
   5
-  Jab kabhi dekhti hai gehwara
-  Yaad aata hai hasliyon waala
-  Deti hai loriyoṅ khayaloṅ meiṅ
-  Jhula asghar ka wo jhulaati hai
+  Jab kabhi dekhti hai gahwaara
+  Yaad aata hai hansliyon waala
+  Deti hai loriyaaṅ khayaloṅ meiṅ
+  Jhula Asghar ka wo jhulaati hai
 
   6
-  Boli jawwad shaah ki dukhtar
+  Boli Jawwad shaah ki dukhtar
   Yaad karti hai tujhko ro ro kar
-  Kya kabhi tujhko bhi ali akbar
+  Kya kabhi tujhko bhi Ali Akbar
   Bhul kar meri yaad aati hai
 # source_id: nohayonline:e92b80f39a4c4ae51b08
 # source_url: https://www.nohayonline.com/details_content.php?id=3167

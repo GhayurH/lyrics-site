@@ -8,105 +8,53 @@ reciter: "Shahid Baltistani"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Sine pe sulane ko
-
+romanLyrics: |-
+  Aakhri raat Sakina ki
+  Haaye haaye haaye
 
   1
-
-  (Akhri raat sakina ki)
-
-  (Haay haay hay)
-
-  (Me khaak pa sojaungi)ha kehti hu(n) baba
-
-  (Sine pe sulane ko kaha kehti hu(n) baba)
-
+  Main khaak pe so jaaungi, haaṅ kehti huṅ baba
+  Sine pe sulaane ko kahaaṅ kehti huṅ baba
 
   2
-
-  1. Kehti hu(n) ke chehra hi dikhajayiye baba
-
-  Marne se mere pehle hi aajayiye baba
-
-  Pehlu me chhupane ko kaha keti hu(n) baba
-
+  Kehti huṅ ke chehra hi dikha jaaiye baba
+  Marne se pehle hi aa jaaiye baba
+  Pehlu mein chhupaane ko kahaaṅ kehti huṅ baba
 
   3
-
-  2. Bache to bohot chhote huwa karte hai baba
-
-  Har aik musibat pe gila karte hai baba
-
-  Me naaz uthane ko kaha kehti hu(n) baba
-
+  Baba mere bachpan ka taqaaza to nahiṅ tha
+  Khwaaboṅ mein khilaune the, janaaza to nahiṅ tha
+  Godi mein khilaane ko kahaaṅ kehti huṅ baba
 
   4
-
-  3. Sehlungi jo haathon ki lakiron me likha hai
-
-  Zindaan ki andheron ka gila kisne kiya hai
-
-  Me shamme jalane ko kaha kehti hu(n) baba
-
+  Baba mere zakhmoṅ ki dawa kaun karega
+  Ab jaan Sakina ko bhala kaun kahega
+  Pehlu mein chhupaane ko kahaaṅ kehti huṅ baba
 
   5
-
-  4. Haaye baba, baba mere bachpan ka taqaza to nahi tha
-
-  Khabon me khilone the janaza to nahi tha
-
-  Ghodi me khilane ko kaha kehti hu(n) baba
-
+  Zindaaṅ ke andheroṅ mein sula kiuṅ nahiṅ dete
+  Baba mujhe marne ki dawa kiuṅ nahiṅ dete
+  Main lori sunaane ko kahaaṅ kehti huṅ baba
 
   6
-
-  5. Baba mere zakhmon ki dawa kon karega
-
-  Ab jaan sakina ko bhala kon kahega
-
-  Pehlu me chhupane ko kaha keti hu(n) baba
-
+  Mar jaauṅ agar baba, tera shaam ho aana
+  Bimaar akela hai, janaaze ko uthaana
+  Godi mein uthaane ko kahaaṅ kehti huṅ baba
 
   7
-
-  6. Zindaan ki andheron me sula kyun nahi dete
-
-  Baba mujhe marne ki dua kyun nahi dete
-
-  Me lori sunaneko kaha kehti hu(n) baba
-
+  Koi bhi nahiṅ aansu mere ponchhne waala
+  Sar pe nahiṅ haathoṅ ko koi pherne waala
+  Baahoṅ mein chhupaane ko kahaaṅ kehti huṅ baba
 
   8
-
-  7. Koi bhi nahi aansu mere ponchne wala
-
-  Sarpe nahi hathon ko koi pherne wala
-
-  Bahon me chupane ko kaha kehti hun baba
-
+  Armaan, Sakina ke yahi bain the, haaye
+  Main kehti rahi baba magar aap na aaye
+  Turbat mein banaane ko kaha kehti ho baba
 
   9
-
-  8. Haaye baba, marjawu agar baba tera shaam ho aana
-
-  Bimar akela hai janaze ko uthana
-
-  Godi me uthane ko kaha kehtu hu(n) baba
-
-
-  10
-
-  7) "Arman" sakina ki yahi bayn the haaye
-
-  Me kehti rahi baba magar aap na aye
-
-  Turbat bhi banana ko kaha kehti hu baba
-
-  Me khaak pa sojaungi ha kehti hu baba
-
-  Baba ko rone wali, Sine pe sonewali
-
-  Sakina guzar gaye'
+  Baba ko rone waali
+  Sine pe sone waali
+  Sakina guzar gayi
 # source_id: ziyaraat:38f42ae400e460ac720b
 # source_url: https://www.ziyaraat.net/api/noha/131
 # raw_sha256: 79c568396b024e809489482a45e37dbe357a9c48d3f3ad3a738a8f3bce1dd821

@@ -9,86 +9,39 @@ reciter: "Hasan Sadiq"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Arahi hai yeh sada Zainab-e-dilgeer ki
-
-  Lash Bai Gohro Kafan Hai Dasht Main Shabbir ki
-
+romanLyrics: |-
+  Aa rahi hai ye sada Zainab-e-dilgir ki
 
   1
-
-  Ab Nahi Abbas Ghazi Qasim-o-Akber kahan
-
-  Hai Ab Koi Uthahai Lash Bai Tasveer ki
-
+  Laash be gor o kafan hai dasht meiṅ Shabbir ki
 
   2
-
-  ~~~~~~~~Dorays~~~~~~~~
-
-  Jis Ka Matha Choom Kai
-
-  Is Dil Ko Milta Tha Karar
-
-  Aj Us Shabbir Kai Gardan
-
-  Pai Hai Khanjer Ki Bhaar
-
+  Ab nahiṅ Abbas-e-Ghazi, Qaasim o Akbar kahaaṅ
+  Haaye ab koi uthaaye laash be taqsir ki
 
   3
-
-  Hai Who Chai Mah Ka Bacha
-
-  Tarapta Reh Gaiya
-
-  Ma Kaleja Thaam Kai
-
-  Ronai Lagi Hai Zaar Zaar
-
-  ~~~~~~~~~~~~~~~~~~~~
-
+  Jis ka maatha chum ke is dil ko milta tha qaraar
+  Aaj us Shabbir ke gardan pe hai khanjar ki dhaar
+  Haaye woh chhe maah ka bachcha tarapta reh gaya
+  Maaṅ kaleja thaam ke rone lagi hai zaar zaar
 
   4
-
-  Ker diya Quran zakhmi Hurmala Kai Teer nai
-
-  Jantai na thai Musalman azmatai Bai Sheer ki
-
+  Kar diya Quraan zakhmi Hurmala ke tir ne
+  Jaante na the Musalmaaṅ azmateṅ be shir ki
 
   5
-
-  Aagayi Ummat Nabi Ki Aag Lai Ker Haath Main
-
-  Laj rakh lai na Khudaya Chadar-e-Tatheer ki
-
+  Aa gai ummat Nabi ki aag le kar haath meiṅ
+  Laaj rakh lena Khudaaya chaadar-e-tathir ki
 
   6
-
-  ~~~~~~~~Dorays~~~~~~~~
-
-  Kerbala Main Isterha Sai
-
-  Ghar Luta Shabbir Ka
-
-  Zulm ki badli main
-
-  Perda kho gaiya hamsheer ka
-
-  Aik Teer Hurmala Sai
-
-  Zakham hain Kis Naiz Kai
-
-  Ma Ka Dil Sarvar Ka Bazu
-
-  Aur Gala Ho Baisheer ka
-
-  ~~~~~~~~~~~~~~~~~~~~
-
+  Karbala meiṅ is tarah se ghar luta Shabbir ka
+  Zulm ki badli meiṅ parda kho gaya hamshir ka
+  Ek tir Harmala se zakhm hai kitne aazaa ke
+  Maaṅ ka dil Sarvar ka baazu aur gala be shir ka
 
   7
-
-  Sar diya Gulzar Jab Islam per Shabbir nai
-
-  Khoon kai Katron nai phir khak-e-shafa akseer ki'
+  Sar diya Gulzaar jab Islaam par Shabbir ne
+  Khun ke qatroṅ ne phir khaak-e-shifa aksir ki
 # source_id: nohayonline:03c65750aa24f3e6c74b
 # source_url: https://www.nohayonline.com/details_content.php?id=134
 # raw_sha256: e5260a96526b0a4e8bb9e3ee8a6827b3503a2e0e8ae8ebb32645cf4041539116

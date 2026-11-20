@@ -9,54 +9,31 @@ reciter: "Meer Hasan Meer"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Aaj bhi Zainab ki aati hai sada bhai Hussain
-
+romanLyrics: |-
+  Aaj bhi Zainab ki aati hai sada bhaai Husain
 
   1
-
-  Tera chehra, teri ankhain, bhol kab payi Hussain
-
+  Tera chehra, teri aankheṅ, bhul na paai Husain
+  Chalte naaqe se giraaya khud ko jalti ret par
+  Ghutniyoṅ ke bal main teri laash tak aai Husain
+  Bas mein ghabraai thi khanjar tujh pe chalta dekh kar
+  Phir kisi mushkil mein ghir kar main na ghabraai Husain
+  Kaun tha jo marne waaloṅ mein nahiṅ tha khubru
+  Bhulne baithi to kis kis ki na yaad aai Husain
+  Ek ik hujre mein ruk kar thahar kar har dar ke paas
+  Khaali ghar mein dhundti hai tujh ko tanhaai Husain
+  Dekhti huṅ khaak-e-maqtal ki to bhar aata hai dil
+  Khaak par main kaise kaise phul chhor aai Husain
+  Dur uftaada safar se laut kar main ne Naveed
+  Thanda paani jab piya bas teri yaad aai Husain
 
   2
-
-  1) Chaltay noukay say giraya khud ko jalti rait paar
-
-  Ghutnion kay bal may teri laash tak aayi Hussain
-
+  Bah rahe the aankh se aansu teri rukhsat ke waqt
+  Phir koi aansu na tapka aankh pathraai Husain
 
   3
-
-  2) Bus may ghabrayi thi khanjar tujh pay chalta dekh kar
-
-  Phir kisi mushkil may ghir kaar main na ghabrayi Hussain
-
-
-  4
-
-  3) Kaun ta jo maarnay walon may nahi ta khubaroo
-
-  Bhoolnay bethi to kis kis ki na yaad ay Hussain
-
-
-  5
-
-  4) Bhay rahay thay aankh say aanso teri rukhsat kay waqt
-
-  Phir koyi anso na tapka aankh pathraye Hussain
-
-
-  6
-
-  5) Hath may kozay liye sasb aasman taktay rehay
-
-  Abar nay ik bond paani ki na barsayi Hussain
-
-
-  7
-
-  6) Door uftada safar say lout kar may nay Naveed
-
-  Thanda paani jab piya bas teri yaad ai Hussain'
+  Haath mein kuze liye sab aasmaaṅ takte rahe
+  Abr ne ik bund paani ki na barsaai Husain
 # source_id: ziyaraat:b30abebb6177b4f4762a
 # source_url: https://www.ziyaraat.net/api/noha/2199
 # raw_sha256: da462f3681a6a505a4ee05d4fcf302748f9948a180ccca2a221f64a7de9273e3

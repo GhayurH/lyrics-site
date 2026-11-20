@@ -1,62 +1,110 @@
 ---
-title: "4 Shabaan Da Aisa Khumaar Tari Ay Khurram Murtaza Lyrics Punjabi 2022"
+title: "چار شعبان دا ایسا خمار طاری اے"
+alternateTitle: "Chaar Shabaan Da Aisa Khumaar Tari Ay"
 language: "Panjabi"
-lang: "pa"
-direction: "ltr"
+lang: "pa-Arab"
+direction: "rtl"
 kalamType: "Manqabat"
-poet: "Khurram"
-tags: ["noUrdu"]
+poet: "Khurram Murtaza"
 aliases: []
 published: false
 # source_id: tajpoints:3a031f3f38628b564942
 # source_url: https://tajpoints.com/2022/03/4-shabaan-da-aisa-khumaar-tari-ay.html
 # raw_sha256: 52882f9ee8e9720dd867caffc5cebb3caf8cd37f92156e3891799b87097e1a52
+romanLyrics: |-
+  1
+  4 Shabaan da aisa khumaar tari ay Khurram Murtaza
+  Shabeer de dil da sakoon Abbas aye Abbas aye
+  Chaar Shaban da aisa khumar tari aye
+  Lab-e-Hussain te Ghazi da zikar jari aye
+
+  2
+  Abbas wekhay tainu koi badnazar kiwein
+  Teri Ali diyaan nazraan nazar utari aye
+  Sawar zeen te Ashal di hoye jad Ghazi
+  Nehar taun har koi chup chup ke Shami takda si
+
+  3
+  Buraq kainda si kar ke tawaf Mashallah
+  Qadam sawar nal Ashal jithay v rakhda si
+  Buraq Ghazi te Ashal nu wekh ke aakhay
+  Sawar jaisa aye oho jayi sawari aye
+
+  4
+  Tu mang te Ghazi kolon jo v tainu chayida aye
+  Oh le ke dena Sakina di zimmay dari aye
+  Aye Karbala che lagi mashk kardi aye ayelan
+  Keh hunr v pani te Ghazi di pehrey dari aye
+
+  5
+  Ali Ali di sada aye Siffeen wich har so
+  Abbas kita ajay waar pehli wari aye
+  Maranr gay sare jay dushman nu ik nazar wekhay
+  Keh takraan Ghazi da ik waar Zulfiqari aye
+
+  6
+  Abbas rook ke talwar nu niyam de wich
+  Aye bolay jang de aadab de manafi aye
+  Laraan ga main v barabar da koi howay te
+  Aina de layi te bas Asghar da hasna kafi aye
+
+  7
+  Kehya aye Ghazi nu Ghazi di be qarari aye
+  Main jang lar laan par Asghar di ajay wari aye
+  Jab kabhi tum Gardish-e-Doraan se ghabraya karo
+  Parcham-e-Abbas ke saye mein aa jaya karo
+
+  8
+  Oh jehray Ghazi de dar te gaye ne jeenday jee
+  Ohna ne zindagi janat de wich guzari aye
+  Sana Abbas di karday rahwo Khurram te Asad
+  Hussain layi sahdi nokari sarkari aye
 ---
 
-1
-4 Shabaan Da Aisa Khumaar Tari Ay Khurram Murtaza.
-Shabeer De Dil Da Sakoon Abbas Aye Abbas Aye.
-Chaar Shaban Da Aisa Khumar Tari Aye.
-Lab-e-Hussain Te Ghazi Da Zikar Jari Aye.
+۱
+چار شعبان دا ایسا خمار طاری اے خرم مرتضیٰ
+شبیر دے دل دا سکون عباس آئے عباس آئے
+چار شعبان دا ایسا خمار طاری اے
+لبِ حسین تے غازی دا ذکر جاری اے
 
-2
-Abbas Wekhay Tainu Koi Badnazar Kiwein.
-Teri Ali Diyaan Nazraan Nazar Utari Aye.
-Sawar Zeen Te Ashal Di Hoye Jad Ghazi.
-Nehar Taun Har Koi Chup Chup Ke Shami Takda Si.
+۲
+عباس ویکھے تینوں کوئی بدنظر کیویں
+تیری علی دیاں نظراں نظر اتاری اے
+سوار زین تے اشہل دی ہوئے جد غازی
+نہر توں ہر کوئی چپ چپ کے شامی تکدا سی
 
-3
-Buraq Kainda Si Kar Ke Tawaf Mashallah.
-Qadam Sawar Nal Ashal Jithay V Rakhda Si.
-Buraq Ghazi Te Ashal Nu Wekh Ke Aakhay.
-Sawar Jaisa Aye Oho Jayi Sawari Aye.
+۳
+براق کہندا سی کر کے طواف ما شاء اللہ
+قدم سوار نال اشہل جتھے وی رکھدا سی
+براق غازی تے اشہل نوں ویکھ کے آکھے
+سوار جیسا اے اوہو جئی سواری اے
 
-4
-Tu Mang Te Ghazi Kolon Jo V Tainu Chayida Aye.
-Oh Le Ke Dena Sakina Di Zimmay Dari Aye.
-Aye Karbala Che Lagi Mashk Kardi Aye Ayelan.
-Keh Hunr V Pani Te Ghazi Di Pehrey Dari Aye.
+۴
+توں منگ تے غازی کولوں جو وی تینوں چاہیدا اے
+اوہ لے کے دینا سکینہ دی ذمہ داری اے
+اے کربلا چ لگی مشک کردی اے اعلان
+کہ ہن وی پانی تے غازی دی پہرے داری اے
 
-5
-Ali Ali Di Sada Aye Siffeen Wich Har So.
-Abbas Kita Ajay Waar Pehli Wari Aye.
-Maranr Gay Sare Jay Dushman Nu Ik Nazar Wekhay.
-Keh Takraan Ghazi Da Ik Waar Zulfiqari Aye.
+۵
+علی علی دی صدا اے صفین وچ ہر سو
+عباس کیتا اجے وار پہلی واری اے
+مرن گے سارے جے دشمن نوں اک نظر ویکھے
+کہ تکراں غازی دا اک وار ذوالفقاری اے
 
-6
-Abbas Rook Ke Talwar Nu Niyam De Wich.
-Aye Bolay Jang De Aadab De Manafi Aye.
-Laraan Ga Main V Barabar Da Koi Howay Te.
-Aina De Layi Te Bas Asghar Da Hasna Kafi Aye.
+۶
+عباس روک کے تلوار نوں نیام دے وچ
+اے بولے جنگ دے آداب دے منافی اے
+لڑاں گا میں وی برابر دا کوئی ہووے تے
+اینا دے لئی تے بس اصغر دا ہسنا کافی اے
 
-7
-Kehya Aye Ghazi Nu Ghazi Di Be Qarari Aye.
-Main Jang Lar Laan Par Asghar Di Ajay Wari Aye.
-Jab Kabhi Tum Gardish-e-Doraan Se Ghabraya Karo.
-Parcham-e-Abbas Ke Saye Mein Aa Jaya Karo.
+۷
+کہیا اے غازی نوں غازی دی بے قراری اے
+میں جنگ لڑ لاں پر اصغر دی اجے واری اے
+جب کبھی تم گردشِ دوراں سے گھبرایا کرو
+پرچمِ عباس کے سائے میں آ جایا کرو
 
-8
-Oh Jehray Ghazi De Dar Te Gaye Ne Jeenday Jee.
-Ohna Ne Zindagi Janat De Wich Guzari Aye.
-Sana Abbas Di Karday Rahwo Khurram Te Asad.
-Hussain Layi Sahdi Nokari Sarkari Aye.
+۸
+اوہ جیہڑے غازی دے در تے گئے نے جیندے جی
+اوہناں نے زندگی جنت دے وچ گزاری اے
+ثنا عباس دی کردے رہوو خرم تے اسد
+حسین لئی ساڈی نوکری سرکاری اے

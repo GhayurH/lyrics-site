@@ -9,73 +9,64 @@ reciter: "Anjuman Karwan-e-Aza (Irfan Haider)"
 tags: []
 aliases: []
 published: false
-romanLyrics: 'Abid sakina mar gayi
-
+romanLyrics: |-
+  Zindaaṅ meiṅ jab ke dukhtar-e-Shabbir mar gayi
+  Duniya hai dafatan safar-e-khuld kar gayi
+  Kunbe ke dil pe daagh judaai ka dhar gayi
+  Ghul par gaya Husain ki aashiq guzar gayi
 
   1
-
-  Bhaiya ko doongi kya jawab
-
+  Jannat basaai chhor ke duniya ke baagh ko
+  Taaza kiya hai phir Ali Asghar ke daagh ko
 
   2
-
-  Ro kar dam e rukhsat yehi mujhse kaha tha bhai ne
-
-  Meri sakina aaj se zainab halawe hai tere
-
+  Iza se gham se dard uthaane se chhut gayi
+  Kunbe se kya ke saare zamaane se chhut gayi
+  Achchha ho ke ghurkiyaaṅ khaane se chhut gayi
+  Subah shaam aaṅsu bahaane se chhut gayi
 
   3
-
-  Jee bhar ke baba ko yahan na ro saki ye be-watan
-
-  Baba hai ban mein be-kafan khud bhi sidhaari be-kafan
-
-  Har zakhm ka de kar hisaab abid sakina mar gayi
-
+  Nind ur gayi logoṅ ki to bachchi ke bain se
+  Ab to Yazid raat ko soega chain se
 
   4
-
-  Haye hussaina ki sada zindan se ab na aayegi
-
-  Zindan ki tareekh mein ye baat likhi jayegi
-
-  Zaalim ko kar ke be naqaab abid sakina mar gayi
-
+  Abid Sakina mar gayi
+  Bhaiya ko duṅgi kya jawaab, Abid Sakina mar gayi
 
   5
-
-  Baqer kahin mehwe buka kulsoom hai nauha kuna
-
-  Yun to sabhi hai dil figaar fizza ho ya akbar ki maa
-
-  Behosh hai umme rabab abid sakina mar gayi
-
+  Ro kar dam-e-rukhsat yahi, mujh se kaha tha bhai ne
+  Meri Sakina aaj se, Zainab hawaale hai tere
+  Bhaiya ko duṅgi kya jawaab, Abid Sakina mar gayi
 
   6
-
-  Is kamsini mein be-khata kya kay masayeb seh gayi
-
-  Durre lage gohar chine paidal chali qaidi bani
-
-  Jab laa saki gham ki taab abid sakina mar gayi
-
+  Ji bhar ke baba ko yahaaṅ, na ro saki ye bewatan
+  Baba hai ran meiṅ bekafan, khud bhi sidhaari bekafan
+  Har zakhm ka de kar hisaab, Abid Sakina mar gayi
 
   7
-
-  Daaghe yateemi kya mila aansu muqaddar ban gaye
-
-  Bacchi ke marne ka sabab yaadon ke nashtar ban gaye
-
-  Hadh se bada jab izteraab abid sakina mar gayi
-
+  Haaye Husaina ki sada, zindaan se ab na aai gi
+  Zindaan ki taarikh meiṅ, ye baat likhi jaae gi
+  Zaalim ko kar ke benaqaab, Abid Sakina mar gayi
 
   8
+  Baqir kahiṅ mahv-e-buka, Kulsum hai nauha kuna
+  Yuṅ to sabhi haiṅ dil figaar, Fizza ho ya Akbar ki maaṅ
+  Behosh hai Umm-e-Rabaab, Abid Sakina mar gayi
 
-  Kaise bayan kar payenge irfan o mazhar abidi
+  9
+  Is kamsini meiṅ bekhata, kya kya masaaib seh gayi
+  Durre lage gohe chhine, paidal chali qaidi bani
+  Jab laa saki na gham ki taab, Abid Sakina mar gayi
 
-  Padte huwe ye marsiya ghash kha gayi binte ali
+  10
+  Daagh-e-yatimi kya mila, aaṅsu muqaddar ban gaye
+  Bachchi ke marne ka sabab, yaadoṅ ke lashkar ban gaye
+  Had se barha jab iztiraab, Abid Sakina mar gayi
 
-  Zindan ka likh kar intesaab abid sakina mar gayi'
+  11
+  Kaise bayaaṅ kar paaeṅ ge, Irfan o Mazhar Abidi
+  Karte hue ye marsiya, ghash kha gaye Bint-e-Ali
+  Zindaaṅ ka kar ke intisaab, Abid Sakina mar gayi
 # source_id: nohayonline:d0c5b4d86285fbaad5cf
 # source_url: https://www.nohayonline.com/details_content.php?id=3131
 # raw_sha256: b926ac88e18da26f749995564fe9043e97cbed6e7db1dff91789c07ee34668ba

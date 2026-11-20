@@ -11,81 +11,81 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Bayaan karta huṅ mai waqte asr ka manzar
-  Tha ek khushk gala aur shimr ka khanjar
-  Mayane khanjar o sar thi Husain ki maadar
+  Bayaan karta huṅ main waqt-e-asr ka manzar
+  Tha ek khushk gala aur Shimr ka khanjar
+  Miyaan-e-khanjar o sar thi Husain ki maadar
   Jo de rahi thi sada bekhata hai mera pisar
-  Kahaṅ ye narm gala aur kahaṅ ye kund churi
-  Hai tin roz ka pyasa Husain ibne ali
-  Ek sayed ko pardesi ko mehmaṅ bana kar lut liya
-  Dasht meiṅ gunj utha zehra ka nauha
+  Kahaṅ ye narm gala aur kahaṅ ye kund chhuri
+  Hai tin roz ka pyasa Husain ibn-e-Ali
+  Ek sayyid ko pardesi ko mehmaṅ bana kar lut liya
+  Dasht mein gunj utha Zehra ka nauha
   Aah ya Husain
   Na maaro na maaro
-  Mai maa huṅ bata mai kaise
+  Main maaṅ huṅ bata main kaise
   Dekhuṅ ye dard ka manzar
   Sukha hai gala pyase ka
   Tu rok le apna khanjar
-  Khuda ke liye ise chor de
+  Khuda ke liye ise chhor de
   Ye meri saari dunya hai
-  Dasht meiṅ gunj utha zehra ka nauha
+  Dasht mein gunj utha Zehra ka nauha
   Aah ya Husain
   Na maaro...
-  Abbas e jari ke baazu
-  Kaate gaye ran meiṅ haye
-  Ek din meiṅ mere bacche ne
+  Abbas-e-Jari ke baazu
+  Kaate gaye ran mein haye
+  Ek din mein mere bachche ne
   Kya kya na zakhm uthaye
-  Khuda ke liye ise chor de
+  Khuda ke liye ise chhor de
   Abbas ke baad ye tanha hai
-  Dasht meiṅ gunj utha zehra ka nauha
+  Dasht mein gunj utha Zehra ka nauha
   Aah ya Husain
   Na maaro...
-  Allah re jis dam akbar
+  Allah re jis dam Akbar
   Ghore se zamiṅ par aaya
   Shabbir ko us sadme ne
-  Ghutno ke bal chalwaya
-  Khuda ke liye ise chor de
-  Hamshakle nabi ka baba hai
-  Dasht meiṅ gunj utha zehra ka nauha
+  Ghutnoṅ ke bal chalwaaya
+  Khuda ke liye ise chhor de
+  Hamshakl-e-Nabi ka baba hai
+  Dasht mein gunj utha Zehra ka nauha
   Aah ya Husain
   Na maaro...
-  Armaan dil e shabbar ke
-  Yuṅ karbobala meiṅ bikhre
-  Chunta raha maqtal meiṅ ye
+  Armaan dil-e-Shabbar ke
+  Yuṅ Karb o Bala mein bikhre
+  Chunta raha maqtal mein ye
   Qasim ke badan ke tukre
-  Khuda ke liye ise chor de
+  Khuda ke liye ise chhor de
   Ye laasha dhund ke laaya hai
-  Dasht meiṅ gunj utha zehra ka nauha
+  Dasht mein gunj utha Zehra ka nauha
   Aah ya Husain
   Na maaro...
-  Sine pe lahu akbar ka
-  Chehre pe lahu asghar ka
-  Shaano pe lahu lashkar ka
-  Kya haal hua sarwar ka
-  Khuda ke liye ise chor de
-  Ye tere nabi ka nawasa hai
-  Dasht meiṅ gunj utha zehra ka nauha
+  Sine pe lahu Akbar ka
+  Chehre pe lahu Asghar ka
+  Shaanoṅ pe lahu lashkar ka
+  Kya haal hua Sarwar ka
+  Khuda ke liye ise chhor de
+  Ye tere Nabi ka nawasa hai
+  Dasht mein gunj utha Zehra ka nauha
   Aah ya Husain
   Na maaro...
-  Hurr john o habib aur muslim
-  Maare gaye ran meiṅ pyase
+  Hurr John o Habib aur Muslim
+  Maare gaye ran mein pyase
   Laaya hai utha kar tanha
   Maqtal se sabhi ke laashe
-  Khuda ke liye ise chor de
-  Kiuṅ itna ise tarpaya hai
-  Dasht meiṅ gunj utha zehra ka nauha
+  Khuda ke liye ise chhor de
+  Kiuṅ itna ise tarpaaya hai
+  Dasht mein gunj utha Zehra ka nauha
   Aah ya Husain
   Na maaro...
-  Irfan e aza ka akhtar
-  Chamkega to sab dekhenge
+  Irfaan-e-azaa ka Akhtar
+  Chamkega to sab dekheṅ ge
   Har zarb pe ye zaalim se
-  Mai kehti rahi ro ro ke
-  Khuda ke liye ise chor de
-  Ye ahle azaa ka qibla hai
-  Dasht meiṅ gunj utha zehra ka nauha
+  Main kehti rahi ro ro ke
+  Khuda ke liye ise chhor de
+  Ye ahl-e-azaa ka qibla hai
+  Dasht mein gunj utha Zehra ka nauha
   Aah ya Husain
   Na maaro...
   Husain bekafan Husain bekhata
-  Shahid e karbala bina e la ilaah
+  Shahid-e-Karbala binaa-e-la ilaah
 # source_id: nohayonline:d0160124291c7af93388
 # source_url: https://www.nohayonline.com/details_content.php?id=3197
 # raw_sha256: 576bc4365b711f7c1864cb8cae747d6e72edec74ed306ed914dc6ed4821bba2f

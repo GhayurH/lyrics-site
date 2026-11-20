@@ -11,92 +11,92 @@ aliases: []
 published: false
 romanLyrics: |-
   1
-  Hilne laga arshe bariṅ
-  Rone lagi karbala
-  Laakhoṅ qaatilon meiṅ tha
+  Hilne laga arsh-e-bariṅ
+  Rone lagi Karbala
+  Laakhoṅ qaatil meiṅ tha
   Magar ye sach hai ba khuda
   Koi na Husain aur
   Khuda ke darmiyaṅ tha
   Sajde meiṅ Husain the
   Laboṅ pe thi yehi sada
-  Le ae mere allah ab tere hawale
+  Le ae mere Allah ab teri hawale
   Maalik tera banda ab tere hawale
   Are zindagi se ser ho chuka
   Kar raha huṅ aakhri sajda
   Husain Husain ya Husain
-  Allah allah allah
-  Subhana rabbi yal aa'laa
-  Asr ki sunta huṅ sada e azaaṅ
-  Aakhri dena hai mujhe imtehaṅ
-  Chaaroṅ taraf tir o sina barchiyaṅ
-  Hai ye mere qatl ki tayyariyaṅ
-  Le ae mere allah ab tere hawale
+  Allah Allah Allah
+  Subhaana rabbiyal a'laa
+  Asr ki sunta huṅ sada-e-azaaṅ
+  Aakhri dena hai mujhe imtihaaṅ
+  Chaaroṅ taraf tir o sinaaṅ barchhiyaaṅ
+  Hai ye mere qatl ki tayyaariyaaṅ
+  Le ae mere Allah ab teri hawale
   Maalik tera banda ab tere hawale
   Are zindagi se ser ho chuka
   Kar raha huṅ aakhri sajda
   Husain Husain ya Husain
-  Jaante hai kis ka nawasa huṅ mai
-  Jaante hai kis liye aaya huṅ mai
-  Tera hi paigham sunaata huṅ mai
-  Phir bhi sitam ka hi nishana huṅ mai
-  Le ae mere allah ab tere hawale
+  Jaante haiṅ kis ka nawasa huṅ main
+  Jaante haiṅ kis liye aaya huṅ main
+  Tera hi paighaam sunaata huṅ main
+  Phir bhi sitam ka hi nishaana huṅ main
+  Le ae mere Allah ab teri hawale
   Maalik tera banda ab tere hawale
   Are zindagi se ser ho chuka
   Kar raha huṅ aakhri sajda
-  Allah allah allah
-  Subhana rabbi yal a'laa
+  Allah Allah Allah
+  Subhaana rabbiyal a'laa
   Husain Husain ya Husain
   Na mera ghar baar na lashkar raha
-  Akbar o abbas ka gham kha gaya
-  Itne sitam dil pe mai sehta raha
+  Akbar o Abbas ka gham kha gaya
+  Itne sitam dil pe main sehta raha
   Shukr hai waada to wafa ho gaya
-  Le ae mere allah ab tere hawale
+  Le ae mere Allah ab teri hawale
   Maalik tera banda ab tere hawale
   Are zindagi se ser ho chuka
   Kar raha huṅ aakhri sajda
   Husain Husain ya Husain
-  Yaad rakhega ye zamana sada
+  Yaad rakhega ye zamaana sada
   Kaise hameiṅ dasht meiṅ luta gaya
-  Kaise hameiṅ nehr pe pyasa rakha
+  Kaise hameiṅ nehr pe pyaasa rakha
   Kaise mera aakhri sajda hua
-  Le ae mere allah ab tere hawale
+  Le ae mere Allah ab teri hawale
   Maalik tera banda ab tere hawale
   Are zindagi se ser ho chuka
   Kar raha huṅ aakhri sajda
-  Allah allah allah
-  Subhana rabbi yal a'laa
+  Allah Allah Allah
+  Subhaana rabbiyal a'laa
   Husain Husain ya Husain
-  Qaimon meiṅ kohraam hai mere khuda
-  Betiyoṅ behno meiṅ hai matam bapa
-  Ghash meiṅ hai sajjad akela mera
-  Baad mere inka hai tu aasra
-  Le ae mere allah ab tere hawale
+  Khaimoṅ meiṅ kohraam hai mere khuda
+  Betiyoṅ behnoṅ meiṅ hai maatam bapa
+  Ghash meiṅ hai Sajjad akela mera
+  Baad mere in ka hai tu aasra
+  Le ae mere Allah ab teri hawale
   Maalik tera banda ab tere hawale
   Are zindagi se ser ho chuka
   Kar raha huṅ aakhri sajda
   Husain Husain ya Husain
-  Lo dam e aakhir chali aayi hai maa
-  Saath meiṅ aaye hai mere baba jaaṅ
-  Bhai Hasan khaak pe girya kuna
-  Dekhte hai nana mera imtehaṅ
-  Le ae mere allah ab tere hawale
+  Lo dam-e-aakhir chali aayi hai maaṅ
+  Saath meiṅ aaye haiṅ mere baba jaaṅ
+  Bhai Hasan khaak pe girya kunaaṅ
+  Dekhte haiṅ naana mera imtihaaṅ
+  Le ae mere Allah ab teri hawale
   Maalik tera banda ab tere hawale
   Are zindagi se ser ho chuka
   Kar raha huṅ aakhri sajda
-  Allah allah allah
-  Subhana rabbi yal a'laa
+  Allah Allah Allah
+  Subhaana rabbiyal a'laa
   Husain Husain ya Husain
   Jaise hi sar khaak pe sheh ne rakha
-  Shimr e layiṅ shaah ki jaanib barha
-  Larzi zamiṅ khuṅ barasne laga
-  Aakhri shabbir ki gunji sada
-  Le ae mere allah ab tere hawale
+  Shimr-e-laeeṅ shaah ki jaanib barha
+  Larzi zamiṅ khuṅ barsaane laga
+  Aakhri Shabbir ki gunji sada
+  Le ae mere Allah ab teri hawale
   Maalik tera banda ab tere hawale
   Are zindagi se ser ho chuka
   Kar raha huṅ aakhri sajda
   Husain Husain ya Husain
-  Allah allah allah
-  Subhana rabbi yal a'laa
+  Allah Allah Allah
+  Subhaana rabbiyal a'laa
   Husain Husain ya Husain
 # source_id: nohayonline:768e2607a9b1d677bfee
 # source_url: https://www.nohayonline.com/details_content.php?id=2796

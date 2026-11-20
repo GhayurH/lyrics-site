@@ -8,15 +8,6 @@ kalamType: "Manqabat"
 tags: []
 aliases: []
 published: false
-# source_id: nohawriteups:5ec36f393fa9b05945f0
-# source_url: https://www.nohawriteups.org/haider-ki-zulfiqar-s-m-taqi-rizvi/
-# original_html: snapshots/nohawriteups/original_html/5ec36f393fa9b05945f0.html.gz
-# source_metadata_path: snapshots/nohawriteups/metadata/5ec36f393fa9b05945f0.json
-# api_content_sha256: 1b18624b7491cab5c34d2270ab08af0e652af775b2435cc20586d5dc99a0a2e6
-# editorial_note: Complete Urdu and Roman witnesses aligned as thirteen couplets. Roman source order was adjusted to match Urdu. Scraped page-view counter removed. Unpublished pending review.
-# source_id: tajpoints:54982e03937bc40f0118
-# source_url: https://tajpoints.com/2026/01/haider-ki-zulfiqar-sm-taqi-rizvi-lyrics.html
-# raw_sha256: 200915485e507e24a21a92a22958f2ff7c06af1c98ef1c8899b2c42138202df1
 romanLyrics: |-
   Arsh-e-Bariṅ Se Aayi Hai Haider Ki Zulfiqar
   Ijaz-e-Kibriyai Hai Haider Ki Zulfiqar

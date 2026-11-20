@@ -1,64 +1,116 @@
 ---
-title: "Aal E Rasool Kocha O Bazar Ya Ali Nadeem Sarwar"
+title: "آلِ رسول کوچہ و بازار یا علی"
+alternateTitle: "Aal-e-Rasool Kocha-o-Bazar Ya Ali"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Other"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: tajpoints:17fa23e2069dc11e6f21
 # source_url: https://tajpoints.com/2023/01/aal-e-rasool-kocha-o-bazar-ya-ali.html
 # raw_sha256: e7d6e7520cb03cb41e4383eb7fa4d9300f40b05c6ad707df54f49e7e1d5294f9
+romanLyrics: |-
+  Aal e Rasool kocha o bazar ya Ali Nadeem Sarwar
+  Roti tu ho gi aap ki talwar ya Ali
+
+  1
+  Shehzadiyoon ke sar pe ridaein nahi rahein
+  Bachoon ke pas bachoon ki maein nahi rahein
+  Khushiyaan tu kya khushi ki hawaein nahi rahein
+  Looti gayi hai aap ki sarkar ya Ali
+
+  2
+  Abbas jo Hussain ke lashkar ki aas tha
+  Lagta tha aap sath hain jab tak woh pas tha
+  Na khof koi tha na kissi ko hiraas tha
+  Utha hai sar se saya-e-didaar ya Ali
+
+  3
+  Cheeni gayin sitam se Sakina ki baliyaan
+  Rukhsar par numaya tamachon ke hain nishaan
+  Shimar laeen jo bachi ko deta hai ghurkiyaan
+  Maqtal mein kanpta hai alamdar ya Ali
+
+  4
+  Ab Sham ka safar our Nabi ki nawasiyaan
+  Pehne hoye hain Syed-e-Sajjad beriyaan
+  Zalim jo le ke aaye hain lashon ke darmiyaan
+  Aankhon se khoon bahata hai beemar ya Ali
+
+  5
+  Woh dekho bazuon mein hai Zainab ke resmaan
+  Sar nangay jis ki maa ko na dekhey hai aasmaan
+  Balway mein sar khulay hai woh makhdoma-e-jahan
+  Koi nahi hai monis-o-ghamkhuwar ya Ali
+
+  6
+  Zahra lehad ko chor ke Yasrab se aayi hain
+  Faryad apne lab pe Khadija bhi layi hain
+  Maqtool Karbala mein jo Zainab ke bhai hain
+  Mara gaya hai khuld ka sardar ya Ali
+
+  7
+  Bazu qalam hoye hain alam hai lahu lahu
+  Asghar ke khoon se kar liya Shabeer ne wozu
+  Phaili hoi hai gham ki fiza aisi chaar so
+  Jis mein hai sans lena bhi dushwar ya Ali
+
+  8
+  Bazm-e-Azza mein, Sarwar-o-Rehan, gham ke phool
+  Tum ne khilaye aisay keh razi hoin Batool
+  Rooz-e-Hisab dekhna farmaein gay Rasool
+  Dono Hussain ke hain azadar ya Ali
 ---
 
-Aal e Rasool Kocha o Bazar Ya Ali Nadeem Sarwar.
-Roti Tu Ho Gi Aap Ki Talwar Ya Ali.
+آلِ رسول کوچہ و بازار یا علی ندیم سرور
+روتی تو ہو گی آپ کی تلوار یا علی
 
-1
-Shehzadiyoon Ke Sar Pe Ridaein Nahi Rahein.
-Bachoon Ke Pas Bachoon Ki Maein Nahi Rahein.
-Khushiyaan Tu Kya Khushi Ki Hawaein Nahi Rahein.
-Looti Gayi Hai Aap Ki Sarkar Ya Ali.
+۱
+شہزادیوں کے سر پہ ردائیں نہیں رہیں
+بچوں کے پاس بچوں کی مائیں نہیں رہیں
+خوشیاں تو کیا خوشی کی ہوائیں نہیں رہیں
+لوٹی گئی ہے آپ کی سرکار یا علی
 
-2
-Abbas Jo Hussain Ke Lashkar Ki Aas Tha.
-Lagta Tha Aap Sath Hain Jab Tak Woh Pas Tha.
-Na Khof Koi Tha Na Kissi Ko Hiraas Tha.
-Utha Hai Sar Se Saya-e-Didaar Ya Ali.
+۲
+عباس جو حسین کے لشکر کی آس تھا
+لگتا تھا آپ ساتھ ہیں جب تک وہ پاس تھا
+نہ خوف کوئی تھا نہ کسی کو ہراس تھا
+اٹھا ہے سر سے سایۂ دیدار یا علی
 
-3
-Cheeni Gayin Sitam Se Sakina Ki Baliyaan.
-Rukhsar Par Numaya Tamachon Ke Hain Nishaan.
-Shimar Laeen Jo Bachi Ko Deta Hai Ghurkiyaan.
-Maqtal Mein Kanpta Hai Alamdar Ya Ali.
+۳
+چھینی گئیں ستم سے سکینہ کی بالیاں
+رخسار پر نمایاں طمانچوں کے ہیں نشاں
+شمر لعیں جو بچی کو دیتا ہے گھڑکیاں
+مقتل میں کانپتا ہے علمدار یا علی
 
-4
-Ab Sham Ka Safar Our Nabi Ki Nawasiyaan.
-Pehne Hoye Hain Syed-e-Sajjad Beriyaan.
-Zalim Jo Le Ke Aaye Hain Lashon Ke Darmiyaan.
-Aankhon Se Khoon Bahata Hai Beemar Ya Ali.
+۴
+اب شام کا سفر اور نبی کی نواسیاں
+پہنے ہوئے ہیں سیدِ سجاد بیڑیاں
+ظالم جو لے کے آئے ہیں لاشوں کے درمیاں
+آنکھوں سے خون بہاتا ہے بیمار یا علی
 
-5
-Woh Dekho Bazuon Mein Hai Zainab Ke Resmaan.
-Sar Nangay Jis Ki Maa Ko Na Dekhey Hai Aasmaan.
-Balway Mein Sar Khulay Hai Woh Makhdoma-e-Jahan.
-Koi Nahi Hai Monis-o-Ghamkhuwar Ya Ali.
+۵
+وہ دیکھو بازوؤں میں ہے زینب کے رسماں
+سر ننگے جس کی ماں کو نہ دیکھے ہے آسماں
+بلوے میں سر کھلے ہے وہ مخدومۂ جہاں
+کوئی نہیں ہے مونس و غمخوار یا علی
 
-6
-Zahra Lehad Ko Chor Ke Yasrab Se Aayi Hain.
-Faryad Apne Lab Pe Khadija Bhi Layi Hain.
-Maqtool Karbala Mein Jo Zainab Ke Bhai Hain.
-Mara Gaya Hai Khuld Ka Sardar Ya Ali.
+۶
+زہرا لحد کو چھوڑ کے یثرب سے آئی ہیں
+فریاد اپنے لب پہ خدیجہ بھی لائی ہیں
+مقتول کربلا میں جو زینب کے بھائی ہیں
+مارا گیا ہے خلد کا سردار یا علی
 
-7
-Bazu Qalam Hoye Hain Alam Hai Lahu Lahu.
-Asghar Ke Khoon Se Kar Liya Shabeer Ne Wozu.
-Phaili Hoi Hai Gham Ki Fiza Aisi Chaar So.
-Jis Mein Hai Sans Lena Bhi Dushwar Ya Ali.
+۷
+بازو قلم ہوئے ہیں علم ہے لہو لہو
+اصغر کے خون سے کر لیا شبیر نے وضو
+پھیلی ہوئی ہے غم کی فضا ایسی چار سو
+جس میں ہے سانس لینا بھی دشوار یا علی
 
-8
-Bazm-e-Azza Mein:SARWAR-o-REHAN: Gham Ke Phool.
-Tum Ne Khilaye Aisay Keh Razi Hoin Batool.
-Rooz-e-Hisab Dekhna Farmaein Gay Rasool.
-Dono Hussain Ke Hain Azadar Ya Ali.
+۸
+بزمِ عزا میں، سرور و ریحان، غم کے پھول
+تم نے کھلائے ایسے کہ راضی ہوئیں بتول
+روزِ حساب دیکھنا فرمائیں گے رسول
+دونوں حسین کے ہیں عزادار یا علی

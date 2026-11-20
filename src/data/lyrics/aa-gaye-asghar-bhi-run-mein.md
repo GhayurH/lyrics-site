@@ -1,10 +1,11 @@
 ---
-title: "Aa Gaye Asghar Bhi Run Mein"
+title: "آ گئے اصغر بھی رن میں"
+alternateTitle: "Aa Gaye Asghar Bhi Run Mein"
 language: "Urdu"
 lang: "ur"
-direction: "ltr"
+direction: "rtl"
 kalamType: "Noha"
-tags: ["noUrdu"]
+tags: []
 aliases: []
 published: false
 # source_id: nohawriteups:7d08b801c803c574cc30
@@ -15,27 +16,50 @@ published: false
 # raw_sha256: b0eebdbc5124ae748d9f7e79bc768a146c94c6962e0063a4c1a446479cea268f
 # source_title_original: Aa Gaye Asghar Bhi Run Main
 # editorial_note: Source-derived unpublished draft from review-decisions-1.csv; stanza alignment, transliteration and completeness remain for manual verification.
+romanLyrics: |-
+  Aa gaye Asghar bhi run main, deen bachanay ke liye
+  Ambiya ka main hoon nasir, ye batanay ke liye
+
+  1
+  Hurmala teri qama ko, tor ke rakh doonga main
+  Aya hoon main naam tera, hi mitanay ke liye
+
+  2
+  Jab kama Hurmal ki dekhi, boli kheymon se Rubab
+  Ab raho tayyar Asghar, teer khanay ke liye
+
+  3
+  Hashr tak karti rahegi, intezaar lUmm e Rubab
+  Godh mai jhoolay ke aadhi, ko jhoolanay ke liye
+
+  4
+  Baap betay ki kabar khud, na banaaye hukm hai
+  Dain kissay awaaz turbat, Shah bananay ke liye
+
+  5
+  Tha qayamat ka samaa Mum-taaz pyason ki woh shaam
+  Aa gaye Zahra ke ghar ko, phir jalanay ke liye
 ---
 
-Aa Gaye Asghar Bhi Run Main, Deen Bachanay Ke Liye
-Ambiya Ka Main Hoon Nasir, Ye Batanay Ke Liye
+آ گئے اصغر بھی رن میں، دین بچانے کے لیے
+انبیا کا میں ہوں ناصر، یہ بتانے کے لیے
 
-1
-Hurmala Teri Qama Ko, Tor Ke Rakh Doonga Main.
-Aya Hoon Main Naam Tera, Hi Mitanay Ke Liye
+۱
+حرملہ تیری قمہ کو، توڑ کے رکھ دوں گا میں
+آیا ہوں میں نام تیرا، ہی مٹانے کے لیے
 
-2
-Jab Kama Hurmal Ki Dekhi, Boli Kheymon Se Rubab
-Ab Raho Tayyar Asghar, Teer Khanay Ke Liye
+۲
+جب قمہ حرمل کی دیکھی، بولی خیموں سے رباب
+اب رہو تیار اصغر، تیر کھانے کے لیے
 
-3
-Hashr Tak Karti Rahegi, Intezaar lUmm e Rubab
-Godh Mai Jhoolay Ke Aadhi, Ko Jhoolanay Ke Liye
+۳
+حشر تک کرتی رہے گی، انتظار اُمِ رباب
+گود میں جھولے کے عادی، کو جھلانے کے لیے
 
-4
-Baap Betay Ki Kabar Khud, Na Banaaye Hukm Hai
-Dain Kissay Awaaz Turbat, Shah Bananay Ke Liye
+۴
+باپ بیٹے کی قبر خود، نہ بنائے حکم ہے
+دیں کسے آواز تربت، شاہ بنانے کے لیے
 
-5
-Tha Qayamat Ka Samaa Mum-taaz Pyason Ki Woh Shaam
-Aa Gaye Zahra Ke Ghar Ko, Phir Jalanay Ke Liye
+۵
+تھا قیامت کا سماں ممتاز پیاسوں کی وہ شام
+آ گئے زہرا کے گھر کو، پھر جلانے کے لیے

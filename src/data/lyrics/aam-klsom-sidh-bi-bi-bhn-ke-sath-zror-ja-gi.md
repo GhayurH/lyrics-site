@@ -10,6 +10,44 @@ published: false
 # source_id: ziyaraat:ce813b40a007af4f3e0c
 # source_url: https://www.ziyaraat.net/api/noha/2719
 # raw_sha256: a3bb40ec57182ccd07effec1fe5fccf80dde107cc2b1d77d9100b80f8329d6d5
+romanLyrics: |-
+  Umm Kulsum Sayyida Bibi bahan ke saath zarur jaae gi
+  Umm Kulsum Sayyida Bibi, bahan ke saath zarur jaae gi
+
+  1
+  Us ke sar se bhi jaae gi chaadar, sar pe us ke bhi khaak aae gi
+
+  2
+  Bint-e-Zehra hai bint-e-Haidar hai, is ki hurmat bhi misl-e-khwaahar hai
+  Haae baazaar-e-Shaam mein jaa kar, ye bhi baaloṅ se munh chhupaae gi
+
+  3
+  Har qadam par bahan ka saaya hai, us ne bhi kab sukun paaya hai
+  Na kabhi wo sukun paae gi, na kabhi ye sukun paae gi
+
+  4
+  Manzilat is ki hai juda sab se, bhaai ka sadqa diya siwa sab se
+  Haae Abbaas ke kate baazu, zindagi bhar na bhul paae gi
+
+  5
+  Kalima go ne bhi intiha kar di, pusht pe Sajjaad ke taaziyanoṅ ki
+  Wo bhi aankhoṅ se khuṅ bahaae ga, ye bhi aankhoṅ se khuṅ bahaae gi
+
+  6
+  Shaam-e-Aashur jaane kitni baar, is ki nazreṅ su-e-Najaf uthiṅ
+  Baad-e-Abbaas parh ke Naad-e-Ali, apne baaba ko ye bulaae gi
+
+  7
+  Haae Aashur ki wo khun baarish, ik qayaamat thi har taraf jaari
+  Bhulna chaaheṅ bhi agar ye kabhi, aai khabar to bhul na paae gi
+
+  8
+  Is ke sar pe bhi aaeṅ ge patthar, haaṅ magar hai ye sabr ka paikar
+  Lab pe aae ga na kahiṅ shikwa, na shikaayat zabaan pe aae gi
+
+  9
+  Saath Kulsum paak Zainab ka, sadqa mil jaae Aabid o Anwar
+  Roz-e-mahshar hisaab se tum ko, gham ki tahrir hi bachaae gi
 ---
 
 آم کلثومؑ سیدہ بی‌بی بہن کے ساتھ ضرور جاۓگی
